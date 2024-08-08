@@ -326,12 +326,12 @@ _etymology_: the origins of the name are unclear, but some sources state that th
 **National holiday**<br>
 Independence Day, 26 March (1971); Victory Day, 16 December (1971); note - 26 March 1971 is the date of the Awami League's declaration of an independent Bangladesh, and 16 December (Victory Day) memorializes the military victory over Pakistan and the official creation of the state of Bangladesh<br>
 
+**Legal system**<br>
+common law; since independence, statutory law enacted by the Parliament of Bangladesh has been the primary form of legislation; Bangladeshi law incorporates elements of English common law; Islamic law applies to Bangladeshi Muslims in family and inheritance laws, with Hindu personal law applying to Bangladeshi Hindus and Buddhists&nbsp;&nbsp;<br>
+
 **Constitution**<br>
 _history_: previous 1935, 1956, 1962 (preindependence); latest enacted 4 November 1972, effective 16 December 1972, suspended March 1982, restored November 1986<br>
 _amendments_: proposed by the House of the Nation; approval requires at least two-thirds majority vote of the House membership and assent of the president of the republic; amended many times, last in 2018<br>
-
-**Legal system**<br>
-common law; since independence, statutory law enacted by the Parliament of Bangladesh has been the primary form of legislation; Bangladeshi law incorporates elements of English common law; Islamic law applies to Bangladeshi Muslims in family and inheritance laws, with Hindu personal law applying to Bangladeshi Hindus and Buddhists&nbsp;&nbsp;<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -347,13 +347,13 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Mohammad Shahabuddin CHUPPI (since 24 April 2023)<br>
-_head of government_: Prime Minister Sheikh HASINA Wazed (since 6 January 2009)<br>
+_head of government_: vacant; on 5 August 2024, Prime Minister Sheikh HASINA Wazed resigned, and the army announced it is in talks to form a new government<br>
 _cabinet_: Cabinet selected by the prime minister, appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Parliament for a 5-year term (eligible for a second term); election last held on 13 February 2023 (next to be held by 2028); the president appoints as prime minister the majority party leader in the National Parliament<br>
 _election results_: President Mohammad Shahabuddin CHUPPI (AL) elected unopposed by the National Parliament; Sheikh HASINA reappointed prime minister for a fifth term following the 7 January 2024 parliamentary election<br>
 
 **Legislative branch**<br>
-_description_: unicameral House of the Nation or Jatiya Sangsad (350 seats; 300 members in single-seat territorial constituencies directly elected by simple majority vote; 50 members - reserved for women only - indirectly elected by the House of the Nation membership by proportional representation vote using single transferable vote method; all members serve 5-year terms)<br>
+_description_: unicameral House of the Nation or Jatiya Sangsad (350 seats; 300 members in single-seat territorial constituencies directly elected by simple majority vote; 50 members - reserved for women only - indirectly elected by the House of the Nation membership by proportional representation vote using single transferable vote method; all members serve 5-year terms); note - on 5 August 2024, Prime Minister Sheikh HASINA Wazed resigned, and the following day, President Mohammad Shahabuddin CHUPPI dissolved House of the Nation<br>
 _elections_: last held on 7 January 2024 (next to be held in 2029)<br>
 _election results_: percent of vote by party - NA; seats by party as of December 2023 - AL 306, JP 27, BNP 0, other 14, independent 3; composition - men 280, women 70, percentage women 20%<br>
 
@@ -505,12 +505,8 @@ _highest 10%_: 27.4% (2022 est.)<br>
 _revenues_: $30.023 billion (2019 est.)<br>
 _expenditures_: $46.379 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--3.2% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 33.1% of GDP (2017 est.)<br>
-33.3% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 7.64% (of GDP) (2021 est.)<br>

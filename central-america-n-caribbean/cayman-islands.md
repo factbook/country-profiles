@@ -250,12 +250,12 @@ none (overseas territory of the UK)<br>
 **National holiday**<br>
 Constitution Day, the first Monday in July (1959)<br>
 
+**Legal system**<br>
+English common law and local statutes<br>
+
 **Constitution**<br>
 _history_: several previous; latest approved 10 June 2009, entered into force 6 November 2009 (The Cayman Islands Constitution Order 2009)<br>
 _amendments_: amended 2016, 2020<br>
-
-**Legal system**<br>
-English common law and local statutes<br>
 
 **Citizenship**<br>
 see United Kingdom<br>
@@ -362,14 +362,6 @@ tourism, banking, insurance and finance, construction, construction materials, f
 3.45% (2022 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
-**Labor force**<br>
-39,000 (2007 est.)<br>
-note: nearly 55% are non-nationals<br>
-
-**Unemployment rate**<br>
-4% (2008)<br>
-4.4% (2004)<br>
-
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 13.8% (2015 est.)<br>
 _male_: 16.4%<br>
@@ -384,9 +376,6 @@ _female_: 11.4%<br>
 **Budget**<br>
 _revenues_: $874.5 million (2017 est.)<br>
 _expenditures_: $766.6 million (2017 est.)<br>
-
-**Budget surplus (+) or deficit (-)**<br>
-4.8% (of GDP) (2017 est.)<br>
 
 **Taxes and other revenues**<br>
 38.9% (of GDP) (2017 est.)<br>

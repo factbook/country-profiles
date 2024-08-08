@@ -325,12 +325,12 @@ _etymology_: various explanations of the city's name have been proffered, but th
 **National holiday**<br>
 Republic Day, 1 April (1979)<br>
 
+**Legal system**<br>
+religious legal system based on secular and Islamic law<br>
+
 **Constitution**<br>
 _history_: previous 1906; latest adopted 24 October 1979, effective 3 December 1979<br>
 _amendments_: proposed by the supreme leader &ndash; after consultation with the Exigency Council &ndash; and submitted as an edict to the "Council for Revision of the Constitution," a body consisting of various executive, legislative, judicial, and academic leaders and members; passage requires absolute majority vote in a referendum and approval of the supreme leader; articles including Iran&rsquo;s political system, its religious basis, and its form of government cannot be amended; amended 1989<br>
-
-**Legal system**<br>
-religious legal system based on secular and Islamic law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -369,7 +369,7 @@ Combatant Clergy Association (an active political group)<br>Executives of Constr
 BRICS, CICA, CP, D-8, ECO, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OPEC, PCA, SAARC (observer), SCO (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: none; Iran has an Interests Section in the Pakistani Embassy; address: Iranian Interests Section, Embassy of Pakistan, 1250 23rd Street NW, Washington, DC 20037; telephone: [1] (202) 965-4990; FAX [1] (202) 965-1073; email:&nbsp; requests@daftar.org; info@daftarwashington.com; website:&nbsp; https://daftar.org/<br>
+none <br><strong><br>Note</strong>:  Iran has an Interests Section in the Pakistani Embassy; address: Iranian Interests Section, Embassy of Pakistan, 1250 23rd Street NW, Washington, DC 20037; telephone: [1] (202) 965-4990; FAX [1] (202) 965-1073; email:  requests@daftar.org; info@daftarwashington.com; website:  https://daftar.org/<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none; the US Interests Section is located in the Embassy of Switzerland; US Foreign Interests Section, Embassy of Switzerland, Pasdaran, Shahid Mousavi Street (Golestan 5th), Corner of Paydarfard Street, No. 55, Tehran<br>
@@ -462,9 +462,6 @@ _male_: 20% (2023 est.)<br>
 _female_: 35.5% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-18.7% (2007 est.)<br>
-
 **Gini Index coefficient - distribution of family income**<br>
 34.8 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
@@ -487,12 +484,8 @@ _highest 10%_: 26.8% (2022 est.)<br>
 _revenues_: $60.714 billion (2019 est.)<br>
 _expenditures_: $90.238 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--2.3% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 39.5% of GDP (2017 est.)<br>
-47.5% of GDP (2016 est.)<br>
 <strong>note:</strong> includes publicly guaranteed debt<br>
 
 **Taxes and other revenues**<br>

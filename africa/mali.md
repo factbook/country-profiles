@@ -342,12 +342,12 @@ _etymology_: the name in the Bambara language can mean either "crocodile tail" o
 **National holiday**<br>
 Independence Day, 22 September (1960)<br>
 
+**Legal system**<br>
+civil law system based on the French civil law model and influenced by customary law; judicial review of legislative acts in the Constitutional Court<br>
+
 **Constitution**<br>
 _history_: several previous; latest drafted 13 October 2022 and submitted to Transition President Assimi GOITA; final draft completed 1 March 2023; approved by&nbsp;referendum 18 June 2023; validated by Constitutional Court 22 July 2023; note - the new constitution includes provisions for expansion of presidential and military powers and creation of a "senate"<br>
 _amendments_: procedure for amending the 2023 constitution NA<br>
-
-**Legal system**<br>
-civil law system based on the French civil law model and influenced by customary law; judicial review of legislative acts in the Constitutional Court<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -517,12 +517,8 @@ _highest 10%_: 28.3% (2021 est.)<br>
 _revenues_: $2.657 billion (2018 est.)<br>
 _expenditures_: $3.467 billion (2018 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--2.9% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 35.4% of GDP (2017 est.)<br>
-36% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 14.16% (of GDP) (2020 est.)<br>

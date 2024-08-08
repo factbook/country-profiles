@@ -245,12 +245,12 @@ none (British Crown dependency)<br>
 **National holiday**<br>
 Tynwald Day, 5 July (1417); date Tynwald Day was first recorded<br>
 
+**Legal system**<br>
+the laws of the UK&nbsp;apply where applicable and include Manx statutes<br>
+
 **Constitution**<br>
 _history_: development of the Isle of Man constitution dates to at least the 14th century<br>
 _amendments_: proposed as a bill in the House of Keys, by the "Government," by a "Member of the House," or through petition to the House or Legislative Council; passage normally requires three separate readings and approval of at least 13 House members; following both House and Council agreement, assent is required by the lieutenant governor on behalf of the Crown; the constitution has been expanded and amended many times, last in 2020<br>
-
-**Legal system**<br>
-the laws of the UK&nbsp;apply where applicable and include Manx statutes<br>
 
 **Citizenship**<br>
 see United Kingdom<br>
@@ -307,7 +307,6 @@ high-income British island economy; known financial services and tourism industr
 **Real GDP (purchasing power parity)**<br>
 $6.792 billion (2015 est.)<br>
 $7.428 billion (2014 est.)<br>
-$6.298 billion (2013 est.)<br>
 <strong>note:</strong> data are in 2014 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -318,8 +317,6 @@ $6.298 billion (2013 est.)<br>
 
 **Real GDP per capita**<br>
 $84,600 (2014 est.)<br>
-$86,200 (2013 est.)<br>
-$73,700 (2012 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $7.931 billion (2021 est.)<br>
@@ -351,19 +348,10 @@ financial services, light manufacturing, tourism<br>
 
 **Unemployment rate**<br>
 1.1% (2017 est.)<br>
-2% (April 2011 est.)<br>
-
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.1% (2011 est.)<br>
-_male_: 11.8%<br>
-_female_: 8.2%<br>
 
 **Budget**<br>
 _revenues_: $965 million (FY05/06 est.)<br>
 _expenditures_: $943 million (FY05/06 est.)<br>
-
-**Budget surplus (+) or deficit (-)**<br>
-0.3% (of GDP) (FY05/06 est.)<br>
 
 **Exports - partners**<br>
 almost entirely United Kingdom (2022)<br>

@@ -303,12 +303,12 @@ _etymology_: Damascus is a very old city; its earliest name, Temeseq, first appe
 **National holiday**<br>
 Independence Day (Evacuation Day), 17 April (1946); note - celebrates the leaving of the last French troops and the proclamation of full independence<br>
 
+**Legal system**<br>
+mixed legal system of civil and Islamic (sharia) law (for family courts)<br>
+
 **Constitution**<br>
 _history_: <p>several previous; latest issued 15 February 2012, passed by referendum and effective 27 February 2012; note – UN-sponsored talks, which began in late 2019 between delegates from government and opposition forces to draft a new constitution; in June 2022, the 8th round of the Syrian Constitutional Committee ended in Geneva with no results, and the 9th round, scheduled for July 2022, was cancelled due to lack of Russian and regime participation</p><br>
 _amendments_: proposed by the president of the republic or by one third of the People&rsquo;s Assembly members; following review by a special Assembly committee, passage requires at least three-quarters majority vote by the Assembly and approval by the president<br>
-
-**Legal system**<br>
-mixed legal system of civil and Islamic (sharia) law (for family courts)<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICC<br>
@@ -332,7 +332,7 @@ _election results_: <em><br>2021: </em>Bashar al-ASAD elected president; percent
 **Legislative branch**<br>
 _description_: unicameral People's Assembly or Majlis al-Shaab (250 seats; members directly elected in multi-seat constituencies by simple majority preferential vote to serve 4-year terms)<br>
 _elections_: last held on 15 July 2024 (next to be held in July 2028)<br>
-_election results_: percent of vote by party - NA; seats by party - NA; composition - NA<br>
+_election results_: percent of vote by party - NA; seats by party - Ba'ath Party 169, SSNP 3, other 13, independent 65; composition - NA<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation (organized into civil, criminal, religious, and military divisions, each with 3 judges); Supreme Constitutional Court (consists of 7 members)<br>
@@ -346,7 +346,7 @@ _subordinate courts_: courts of first instance; magistrates' courts; religious a
 ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, ICSID, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNRWA, UNWTO, UPU, WBG, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); note &ndash; operations at the embassy were suspended on 18 March 2014<br>
+none<strong><br><br>Note</strong>:  operations at the embassy were suspended on 18 March 2014<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); note - on 6 February 2012, the US suspended operations at its embassy in Damascus; Czechia serves as a protecting power for US interests in Syria<br>
@@ -461,12 +461,8 @@ _revenues_: $1.162 billion (2017 est.)<br>
 _expenditures_: $3.211 billion (2017 est.)<br>
 <strong>note:</strong> government projections for FY2016<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--8.7% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 94.8% of GDP (2017 est.)<br>
-91.3% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 4.2% (of GDP) (2017 est.)<br>

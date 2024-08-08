@@ -324,12 +324,12 @@ _etymology_: several explanations of the name exist; two of the more plausible a
 **National holiday**<br>
 Independence Day, 1 January (1956)<br>
 
+**Legal system**<br>
+mixed legal system of Islamic law and English common law; note - in mid-July 2020, Sudan amended 15 provisions of its 1991 penal code<br>
+
 **Constitution**<br>
 _history_: previous 1973, 1998, 2005 (interim constitution, which was suspended in April 2019); latest initial draft completed by Transitional Military Council in May 2019; revised draft known as the "Draft Constitutional Charter for the 2019 Transitional Period," or &ldquo;2019 Constitutional Declaration&rdquo; was signed by the Council and opposition coalition on 4 August 2019<br>
 _amendments_: amended 2020 to incorporate the Juba Agreement for Peace in Sudan; the military suspended several provisions of the Constitutional Declaration in October 2021<br>
-
-**Legal system**<br>
-mixed legal system of Islamic law and English common law; note - in mid-July 2020, Sudan amended 15 provisions of its 1991 penal code<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; withdrew acceptance of ICCt jurisdiction in 2008<br>
@@ -471,9 +471,6 @@ _male_: 18.5% (2023 est.)<br>
 _female_: 17.5% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-46.5% (2009 est.)<br>
-
 **Gini Index coefficient - distribution of family income**<br>
 34.2 (2014 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
@@ -493,12 +490,8 @@ _highest 10%_: 27.8% (2014 est.)<br>
 _revenues_: $3.479 billion (2019 est.)<br>
 _expenditures_: $8.277 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--10.6% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 121.6% of GDP (2017 est.)<br>
-99.5% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 7.39% (of GDP) (2016 est.)<br>

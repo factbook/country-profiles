@@ -321,12 +321,12 @@ no official date of independence: 976 (Margravate of Austria established); 17 Se
 **National holiday**<br>
 National Day (commemorates passage of the law on permanent neutrality), 26 October (1955)<br>
 
+**Legal system**<br>
+civil law system; judicial review of legislative acts by the Constitutional Court<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted 1 October 1920, revised 1929, replaced May 1934, replaced by German Weimar constitution in 1938 following German annexation, reinstated 1 May 1945<br>
 _amendments_: proposed through laws designated "constitutional laws" or through the constitutional process if the amendment is part of another law; approval required by at least a two-thirds majority vote by the National Assembly and the presence of one-half of the members; a referendum is required only if requested by one-third of the National Council or Federal Council membership; passage by referendum requires absolute majority vote; amended many times, last in 2020<br>
-
-**Legal system**<br>
-civil law system; judicial review of legislative acts by the Constitutional Court<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction<br>
@@ -501,13 +501,8 @@ _highest 10%_: 23.8% (2021 est.)<br>
 _revenues_: $218.48 billion (2019 est.)<br>
 _expenditures_: $215.485 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--0.7% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 75.05% of GDP (2022 est.)<br>
-94.64% of GDP (2021 est.)<br>
-99.91% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

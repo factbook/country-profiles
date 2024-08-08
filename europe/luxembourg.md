@@ -89,7 +89,7 @@ Luxembourger 52.9%, Portuguese 14.5%, French 7.6%, Italian 3.7%, Belgian 3%, Ger
 <strong>note:</strong> data represent population by nationality<br>
 
 **Languages**<br>
-Luxembourgish (official administrative and judicial language and national language (spoken vernacular)) 48.9%, Portuguese 15.4%, French (official administrative, judicial, and legislative language) 14.9%, Italian 3.6%, English 3.6%, German (official administrative and judicial language) 2.9%, other 10.8% (2021 est.)<br>
+Luxembourgish (official administrative, judicial, and national language) 48.9%, Portuguese 15.4%, French (official administrative, judicial, and legislative language) 14.9%, Italian 3.6%, English 3.6%, German (official administrative and judicial language) 2.9%, other 10.8% (2021 est.)<br>
 
 **Religions**<br>
 Christian (predominantly Roman Catholic) 70.6%, Muslim 2.3%, other (includes Buddhist, folk religions, Hindu, Jewish) 0.4%, unaffiliated 26.7% (2020 est.)<br>
@@ -306,12 +306,12 @@ _etymology_: the name derives from the Celtic <em>lucilem</em> (little) and the 
 **National holiday**<br>
 National Day (birthday of Grand Duke HENRI), 23 June; note - this date of birth is not the true date of birth for any of the Royals, but the national festivities were shifted in 1962 to allow observance during a more favorable time of year<br>
 
+**Legal system**<br>
+civil law system<br>
+
 **Constitution**<br>
 _history_: previous 1842 (heavily amended 1848, 1856); latest effective 17 October 1868<br>
 _amendments_: proposed by the Chamber of Deputies or by the monarch to the Chamber; passage requires at least two-thirds majority vote by the Chamber in two successive readings three months apart; a referendum can be substituted for the second reading if approved by more than a quarter of the Chamber members or by 25,000 valid voters; adoption by referendum requires a majority of all valid voters; amended many times, last in 2020<br>
-
-**Legal system**<br>
-civil law system<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction<br>
@@ -480,12 +480,8 @@ _highest 10%_: 24.6% (2021 est.)<br>
 _revenues_: $31.74 billion (2019 est.)<br>
 _expenditures_: $30.014 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-1.5% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 23% of GDP (2017 est.)<br>
-20.8% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>

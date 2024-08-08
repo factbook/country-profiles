@@ -321,12 +321,12 @@ _etymology_: Phnom Penh translates as "Penh's Hill" in Khmer; the city takes its
 **National holiday**<br>
 Independence Day, 9 November (1953)<br>
 
+**Legal system**<br>
+civil law system (influenced by the UN Transitional Authority in Cambodia) customary law, Communist legal theory, and common law<br>
+
 **Constitution**<br>
 _history_: previous 1947; latest promulgated 21 September 1993<br>
 _amendments_: proposed by the monarch, by the prime minister, or by the president of the National Assembly if supported by one fourth of the Assembly membership; passage requires two-thirds majority of the Assembly membership; constitutional articles on the multiparty democratic form of government and the monarchy cannot be amended; amended several times, latest 2022<br>
-
-**Legal system**<br>
-civil law system (influenced by the UN Transitional Authority in Cambodia) customary law, Communist legal theory, and common law<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -477,16 +477,9 @@ _female_: 0.9% (2023 est.)<br>
 **Population below poverty line**<br>
 16.5% (2016 est.)<br>
 
-**Gini Index coefficient - distribution of family income**<br>
-37.9 (2008 est.)<br>
-
 **Average household expenditures**<br>
 _on food_: 42.7% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 1.9% of household expenditures (2021 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 2%<br>
-_highest 10%_: 28% (2013 est.)<br>
 
 **Remittances**<br>
 8.81% of GDP (2023 est.)<br>
@@ -498,12 +491,8 @@ _highest 10%_: 28% (2013 est.)<br>
 _revenues_: $7.254 billion (2019 est.)<br>
 _expenditures_: $6.452 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--1.8% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 30.4% of GDP (2017 est.)<br>
-29.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 16.36% (of GDP) (2021 est.)<br>

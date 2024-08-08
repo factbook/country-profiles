@@ -309,12 +309,12 @@ _etymology_: name likely derives from the ancient Urartian fortress of Erebuni e
 **National holiday**<br>
 Independence Day, 21 September (1991)<br>
 
+**Legal system**<br>
+civil law system<br>
+
 **Constitution**<br>
 _history_: previous 1915, 1978; latest adopted 5 July 1995<br>
 _amendments_: <p>proposed by the president of the republic or by the National Assembly; passage requires approval by the president, by the National Assembly, and by a referendum with at least 25% registered voter participation and more than 50% of votes; constitutional articles on the form of government and democratic procedures are not amendable; amended 2005, 2015, last in 2020; the Constitutional Reform Council formed in 2019 was dissolved in December 2021, and replaced by a new Constitutional Reform Council, whose members were officially appointed in late January 2022; the new council is expected to address the form of government, i.e. presidential or semi-presidential or parliamentary,  and whether to merge the Court of Cassation with the Constitutional Court</p><br>
-
-**Legal system**<br>
-civil law system<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -484,13 +484,8 @@ _highest 10%_: 23% (2022 est.)<br>
 _revenues_: $3.258 billion (2019 est.)<br>
 _expenditures_: $3.392 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--4.8% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 46.55% of GDP (2022 est.)<br>
-60.08% of GDP (2021 est.)<br>
-63.4% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

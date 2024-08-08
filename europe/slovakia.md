@@ -313,12 +313,12 @@ _etymology_: the name was adopted in 1919 after Czechoslovakia gained its indepe
 **National holiday**<br>
 Constitution Day, 1 September (1992)<br>
 
+**Legal system**<br>
+civil law system based on Austro-Hungarian codes; note - legal code modified to comply with the obligations of Organization on Security and Cooperation in Europe<br>
+
 **Constitution**<br>
 _history_: several previous (preindependence); latest passed by the National Council 1 September 1992, signed 3 September 1992, effective 1 October 1992<br>
 _amendments_: proposed by the National Council; passage requires at least three-fifths majority vote of Council members; amended many times, last in 2020<br>
-
-**Legal system**<br>
-civil law system based on Austro-Hungarian codes; note - legal code modified to comply with the obligations of Organization on Security and Cooperation in Europe<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -493,13 +493,8 @@ _highest 10%_: 19.2% (2021 est.)<br>
 _revenues_: $43.495 billion (2019 est.)<br>
 _expenditures_: $44.914 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--1% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 64.51% of GDP (2022 est.)<br>
-78.84% of GDP (2021 est.)<br>
-78.33% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

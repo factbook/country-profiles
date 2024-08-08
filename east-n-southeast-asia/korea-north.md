@@ -291,12 +291,12 @@ _etymology_: the name translates as "flat land" in Korean<br>
 **National holiday**<br>
 Founding of the Democratic People's Republic of Korea (DPRK), 9 September (1948)<br>
 
+**Legal system**<br>
+civil law system based on the Prussian model; system influenced by Japanese traditions and Communist legal theory<br>
+
 **Constitution**<br>
 _history_: previous 1948, 1972; latest adopted 1998 (during KIM Jong-il era)<br>
 _amendments_: proposed by the Supreme People&rsquo;s Assembly (SPA); passage requires more than two-thirds majority vote of the total SPA membership; revised several times, last in 2023<br>
-
-**Legal system**<br>
-civil law system based on the Prussian model; system influenced by Japanese traditions and Communist legal theory<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -312,10 +312,10 @@ _residency requirement for naturalization_: unknown<br>
 
 **Executive branch**<br>
 _chief of state_: State Affairs Commission President KIM Jong Un (since 17 December 2011)<br>
-_head of government_: Supreme People's Assembly President CHOE Ryong Hae (since 11 April 2019)&nbsp;<br>
+_head of government_: Supreme People's Assembly President CHOE Ryong Hae (since 11 April 2019)<br>
 _cabinet_: Cabinet or Naegak members appointed by the Supreme People's Assembly except the Minister of People's Armed Forces<br>
 _elections/appointments_: chief of state and premier indirectly elected by the Supreme People's Assembly; election last held on 10 March 2019 (next to be held in March 2024)<br>
-_election results_: <em>2019:</em> KIM Jong Un reelected unopposed<br>
+_election results_: <em><br>2019:</em> KIM Jong Un reelected unopposed<br>
 <strong>note 1:</strong> KIM Jong Un's titles include general secretary of the Workers' Party of Korea (KWP), chairman of the KWP Central Military Commission, president of the State Affairs Commission, and supreme commander of the Korean People's Army<br><br><strong>note 2:</strong> within the North Korean system, KIM Jong Un's role as chief of state is secondary to his role as general secretary of the Korean Workers' Party; chief of state is used to engage with non-communist countries such as the US; North Korea revised its constitution in 2019 to define "the Chairman of the State Affairs Commission" as "the supreme leader who represents the state"; functions as the commander-in-chief and chief executive; the specific titles associated with this office have changed multiple times under KIM's tenure, however, KIM Jong Un has been supreme leader since his father's death in 2011<br><br><strong>note 3:</strong> the head of government functions as the technical head of state and performs related duties, such as receiving ambassadors' credentials<br>
 
 **Legislative branch**<br>
@@ -335,7 +335,7 @@ _subordinate courts_: lower provincial courts as determined by the Supreme Peopl
 ARF, FAO, G-77, ICAO, ICRM, IFAD, IFRCS, IHO, IMO, IMSO, IOC, IPU, ISO, ITSO, ITU, NAM, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WFTU (NGOs), WHO, WIPO, WMO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: none; North Korea has a Permanent Mission to the UN in New York<br>
+none<br><br><strong>Note</strong>:  North Korea has a Permanent Mission to the UN in New York<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none; the Swedish Embassy in Pyongyang represents the US as consular protecting power<br>
@@ -362,19 +362,15 @@ one of the last centrally planned economies; hard hit by COVID-19, crop failures
 
 **Real GDP (purchasing power parity)**<br>
 $40 billion (2015 est.)<br>
-$40 billion (2014 est.)<br>
-$40 billion (2013 est.)<br>
 <strong>note: </strong>data are in 2015 dollars<br><br>North Korea does not publish reliable National Income Accounts data; the data shown are derived from purchasing power parity (PPP) GDP estimates that were made by Angus MADDISON in a study conducted for the OECD; his figure for 1999 was extrapolated to 2015 using estimated real growth rates for North Korea's GDP and an inflation factor based on the US GDP deflator; the results were rounded to the nearest $10 billion.<br>
 
 **Real GDP growth rate**<br>
 -1.1% (2015 est.)<br>
 1% (2014 est.)<br>
-1.1% (2013 est.)<br>
 
 **Real GDP per capita**<br>
 $1,700 (2015 est.)<br>
 $1,800 (2014 est.)<br>
-$1,800 (2013 est.)<br>
 <strong>note:</strong> data are in 2015 US dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -424,9 +420,6 @@ _female_: 7.8% (2023 est.)<br>
 _revenues_: $3.2 billion (2007 est.)<br>
 _expenditures_: $3.3 billion (2007 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--0.4% (of GDP) (2007 est.)<br>
-
 **Exports**<br>
 $222 million (2018)<br>
 $4.582 billion (2017 est.)<br>
@@ -460,8 +453,6 @@ _Currency_: North Korean won (KPW) per US dollar (average market rate)<br>
 135 (2017 est.)<br>
 130 (2016 est.)<br>
 130 (2015 est.)<br>
-98.5 (2013 est.)<br>
-155.5 (2012 est.)<br>
 
 ## Energy
 

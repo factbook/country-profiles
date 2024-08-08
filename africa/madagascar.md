@@ -317,12 +317,12 @@ _etymology_: the name, which means "City of the Thousand," was bestowed by 17th 
 **National holiday**<br>
 Independence Day, 26 June (1960)<br>
 
+**Legal system**<br>
+civil law system based on the old French civil code and customary law in matters of marriage, family, and obligation<br>
+
 **Constitution**<br>
 _history_: previous 1992; latest passed by referendum 17 November 2010, promulgated 11 December 2010<br>
 _amendments_: proposed by the president of the republic in consultation with the cabinet or supported by a least two thirds of both the Senate and National Assembly membership; passage requires at least three-fourths approval of both the Senate and National Assembly and approval in a referendum; constitutional articles, including the form and powers of government, the sovereignty of the state, and the autonomy of Madagascar&rsquo;s collectivities, cannot be amended<br>
-
-**Legal system**<br>
-civil law system based on the old French civil code and customary law in matters of marriage, family, and obligation<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -462,16 +462,6 @@ _male_: 5.4% (2023 est.)<br>
 _female_: 5.6% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-70.7% (2012 est.)<br>
-
-**Gini Index coefficient - distribution of family income**<br>
-42.6 (2012 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.2%<br>
-_highest 10%_: 34.7% (2010 est.)<br>
-
 **Remittances**<br>
 2.37% of GDP (2023 est.)<br>
 2.52% of GDP (2022 est.)<br>
@@ -482,12 +472,8 @@ _highest 10%_: 34.7% (2010 est.)<br>
 _revenues_: $1.51 billion (2020 est.)<br>
 _expenditures_: $2.09 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--2.7% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 36% of GDP (2017 est.)<br>
-38.4% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 9.25% (of GDP) (2022 est.)<br>
@@ -674,7 +660,7 @@ the PAF&rsquo;s responsibilities include ensuring sovereignty and territorial in
 ## Transnational Issues
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; Madagascar does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials identified and provided services to more victims, launched an updated National Action Plan, took steps to reduce the demand for child sex tourism, and worked with an international organization to monitor Malagasy migrant workers&rsquo; conditions in Jordan; however, the government did not demonstrate overall increasing efforts, compared with the previous year, to expand its anti-trafficking capacity; officials investigated fewer trafficking cases and did not report any prosecutions or convictions of suspected traffickers for the second consecutive year; the government did not hold complicit officials accountable nor investigate reports of officials facilitating child sex trafficking within Madagascar or labor trafficking of Malagasy workers abroad; for the third consecutive year, the government did not disburse funds to the National Office to Combat Human Trafficking, hindering nationwide progress and coordination; efforts to address internal crimes, including domestic servitude, forced begging, and child sex trafficking, remained inadequate, and officials continued to conflate human trafficking with other crimes including gender-based violence and sexual exploitation; therefore, Madagascar remained on Tier 2 Watch List for the second consecutive year (2023)<br>
+_tier rating_: Tier 2 Watch List — the government has devoted sufficient resources to a written plan that, if implemented, would constitute significant efforts to meet the minimum standards; therefore, Madagascar was granted a waiver per the Trafficking Victims Protection Act from an otherwise required downgrade to Tier 3 and remained on Tier 2 Watch List for the third consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/madagascar/<br>
 
 **Illicit drugs**<br>
 illicit producer of cannabis (cultivated and wild varieties) used mostly for domestic consumption; transshipment point for Southwest Asian heroin<br>

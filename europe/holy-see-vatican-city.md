@@ -145,12 +145,12 @@ none<br>
 **National holiday**<br>
 Election Day of Pope FRANCIS, 13 March (2013)<br>
 
+**Legal system**<br>
+religious legal system based on canon (religious) law<br>
+
 **Constitution**<br>
 _history_: previous 1929, 2000; latest issued by Pope FRANCIS 13 May 2023, effective 7 June 2023 (Fundamental Law of Vatican City State, the main governing document of the Vatican's civil entities); the Roman Curia is the administrative apparatus – the departments and ministries – used by the pontiff in governing the church; note - Pope Francis in October 2013, instituted a 9-member Council of Cardinal Advisers to reform the Roman Curia to include writing a new constitution; in June 2018, Pope Francis approved the Council of Cardinals' first draft of the new apostolic constitution, <em>Predicate Evangelium</em> (Preach the Gospel); it became effective 5 June 2022, replacing <em>Pastor Bonus</em>, the previous governing document of the Roman Curia<br>
 _amendments_: note - although the Fundamental Law of Vatican City State makes no mention of amendments, Article Four (drafting laws), states that this legislative responsibility resides with the Pontifical Commission for Vatican City State; draft legislation is submitted through the Secretariat of State and considered by the pope<br>
-
-**Legal system**<br>
-religious legal system based on canon (religious) law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -233,16 +233,13 @@ printing; production of coins, medals, postage stamps; mosaics, staff uniforms; 
 _revenues_: $315 million (2013)<br>
 _expenditures_: $348 million (2013)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-NA<br>
-
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
-0.885 (2017 est.)<br>
-0.903 (2016 est.)<br>
-0.9214 (2015 est.)<br>
-0.885 (2014 est.)<br>
-0.7634 (2013 est.)<br>
+0.925 (2023 est.)<br>
+0.95 (2022 est.)<br>
+0.845 (2021 est.)<br>
+0.876 (2020 est.)<br>
+0.893 (2019 est.)<br>
 <strong>note: </strong>while not an EU member state, the Holy See has a 2000 monetary agreement with Italy and the EU to produce limited euro coinage—but not banknotes—that began enforcement in January 2002<br>
 
 ## Energy

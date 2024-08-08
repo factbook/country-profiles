@@ -90,8 +90,9 @@ _adjective_: Tunisian<br>
 Arab 98%, European 1%, Jewish and other 1%<br>
 
 **Languages**<br>
-Arabic (official, one of the languages of commerce), French (commerce), Tamazight; note - despite having no official status, French plays a major role in the country and is spoken by about two thirds of the population<br>
+Arabic (official, one of the languages of commerce), French (commerce), Tamazight<br>
 _major-language sample(s)_: <br>كتاب حقائق العالم، أحسن كتاب تتعلم به المعلومات الأساسية (Arabic)<br><br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> despite having no official status, French plays a major role in the country and is spoken by about two thirds of the population<br>
 
 **Religions**<br>
 Muslim (official; Sunni) 99%, other (includes Christian, Jewish, Shia Muslim, and Baha'i) &lt;1%<br>
@@ -307,12 +308,12 @@ _etymology_: three possibilities exist for the derivation of the name; originall
 **National holiday**<br>
 Independence Day, 20 March (1956); Revolution and Youth Day, 14 January (2011)<br>
 
+**Legal system**<br>
+mixed legal system of civil law, based on the French civil code and Islamic (sharia) law; some judicial review of legislative acts in the Supreme Court in joint session<br>
+
 **Constitution**<br>
 _history_: <p>several previous; latest - draft published by the president 30 June 2022, approved by referendum 25 July 2022, and adopted 27 July 2022</p><br>
 _amendments_: proposed by the president of the republic or by one third of the Assembly of the Representatives of the People membership; following review by the Constitutional Court, approval to proceed requires an absolute majority vote by the Assembly and final passage requires a two-thirds majority vote by the Assembly; the president can opt to submit an amendment to a referendum, which requires an absolute majority of votes cast for passage<br>
-
-**Legal system**<br>
-mixed legal system of civil law, based on the French civil code and Islamic (sharia) law; some judicial review of legislative acts in the Supreme Court in joint session<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -489,12 +490,8 @@ _highest 10%_: 27% (2021 est.)<br>
 _revenues_: $10.866 billion (2019 est.)<br>
 _expenditures_: $12.375 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--5.8% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 70.3% of GDP (2017 est.)<br>
-62.3% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 24.7% (of GDP) (2017 est.)<br>

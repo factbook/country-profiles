@@ -325,12 +325,12 @@ _etymology_: derives from the Tagalog "may-nila" meaning "where there is indigo"
 **National holiday**<br>
 Independence Day, 12 June (1898); note - 12 June 1898 was date of declaration of independence from Spain; 4 July 1946 was date of independence from the US<br>
 
+**Legal system**<br>
+mixed legal system of civil, common, Islamic (sharia), and customary law<br>
+
 **Constitution**<br>
 _history_: several previous; latest ratified 2 February 1987, effective 11 February 1987<br>
 _amendments_: proposed by Congress if supported by three fourths of the membership, by a constitutional convention called by Congress, or by public petition; passage by either of the three proposal methods requires a majority vote in a national referendum; note - the constitution has not been amended since its enactment in 1987<br>
-
-**Legal system**<br>
-mixed legal system of civil, common, Islamic (sharia), and customary law<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; withdrew from the ICCt in March 2019<br>
@@ -506,13 +506,8 @@ _highest 10%_: 32.5% (2021 est.)<br>
 _revenues_: $71.173 billion (2020 est.)<br>
 _expenditures_: $90.953 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--2.2% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 39.9% of GDP (2017 est.)<br>
-39% of GDP (2016 est.)<br>
-43.43% of GDP (2014 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

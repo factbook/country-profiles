@@ -267,12 +267,12 @@ _time difference_: UTC+12 (17 hours ahead of Washington, DC, during Standard Tim
 **National holiday**<br>
 Independence Day, 31 January (1968)<br>
 
+**Legal system**<br>
+mixed legal system of common law based on the English model and customary law<br>
+
 **Constitution**<br>
 _history_: effective 29 January 1968<br>
 _amendments_: proposed by Parliament; passage requires two-thirds majority vote of Parliament; amendments to constitutional articles, such as the republican form of government, protection of fundamental rights and freedoms, the structure and authorities of the executive and legislative branches, also require two-thirds majority of votes in a referendum; amended several times, last in 2018<br>
-
-**Legal system**<br>
-mixed legal system of common law based on the English model and customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -285,7 +285,7 @@ _chief of state_: President David ADEANG (since 30 October 2023)<br>
 _head of government_: President David ADEANG (since 30 October 2023)<br>
 _cabinet_: Cabinet appointed by the president from among members of Parliament<br>
 _elections/appointments_: president indirectly elected by Parliament for 3-year term (eligible for a second term); election last held on 30 October 2023 (next to be held in 2026)<br>
-_election results_: <em>2023:</em> David ADEAGN elected president over Delvin THOMA, 10-8<br>
+_election results_: <em><br>2023:</em> David ADEAGN elected president over Delvin THOMA, 10-8<br><br><em>2022:</em> Russ KUN elected president unopposed<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -379,18 +379,6 @@ phosphate mining, offshore banking, coconut products<br>
 4.3% (2014 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
-**Unemployment rate**<br>
-23% (2011 est.)<br>
-90% (2004 est.)<br>
-
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.6% (2013)<br>
-_male_: 20.9%<br>
-_female_: 37.5%<br>
-
-**Gini Index coefficient - distribution of family income**<br>
-34.8 (2012 est.)<br>
-
 **Remittances**<br>
 4.99% of GDP (2018 est.)<br>
 9.46% of GDP (2017 est.)<br>
@@ -401,12 +389,8 @@ _female_: 37.5%<br>
 _revenues_: $195 million (2020 est.)<br>
 _expenditures_: $158 million (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--9.2% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 62% of GDP (2017 est.)<br>
-65% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 44.35% (of GDP) (2020 est.)<br>

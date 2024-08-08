@@ -91,7 +91,7 @@ _adjective_: Papua New Guinean<br>
 Melanesian, Papuan, Negrito, Micronesian, Polynesian<br>
 
 **Languages**<br>
-Tok Pisin (official), English (official), Hiri Motu (official), some 839 living indigenous languages are spoken (about 12% of the world's total); many languages have fewer than 1,000 speakers<br>
+Tok Pisin (official), English (official), Hiri Motu (official), some 839 living indigenous languages are spoken (about 12% of the world's total)<br>
 <strong>note:</strong> Tok Pisin, a creole language, is widely used and understood; English is spoken by 1%-2%; Hiri Motu is spoken by less than 2%<br>
 
 **Religions**<br>
@@ -311,12 +311,12 @@ _etymology_: named in 1873 by Captain John MORESBY (1830-1922) in honor of his f
 **National holiday**<br>
 Independence Day, 16 September (1975)<br>
 
+**Legal system**<br>
+mixed legal system of English common law and customary law<br>
+
 **Constitution**<br>
 _history_: adopted 15 August 1975, effective at independence 16 September 1975<br>
 _amendments_: proposed by the National Parliament; passage has prescribed majority vote requirements depending on the constitutional sections being amended &ndash; absolute majority, two-thirds majority, or three-fourths majority; amended many times, last in 2016<br>
-
-**Legal system**<br>
-mixed legal system of English common law and customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -361,7 +361,7 @@ _FAX_: [1] (202) 745-3679<br>
 _email address and website_: <br>info@pngembassy.org<br><br>http://www.pngembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador-designate Ann Marie YASTISHOCK (since 2 February 2024); note - also accredited to the Solomon Islands and Vanuatu<br>
+_chief of mission_: Ambassador Ann Marie YASTISHOCK (since 22 February 2024); note - also accredited to the Solomon Islands and Vanuatu<br>
 _embassy_: Harbour City Road, Konedobu, Port Moresby, NCD, Papua New Guinea<br>
 _mailing address_: 4240 Port Moresby Pl, Washington DC 20521-4240<br>
 _telephone_: [675] 308-9100<br>
@@ -460,16 +460,6 @@ _male_: 4.5% (2023 est.)<br>
 _female_: 2.9% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-37% (2002 est.)<br>
-
-**Gini Index coefficient - distribution of family income**<br>
-41.9 (2009 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.7%<br>
-_highest 10%_: 40.5% (1996)<br>
-
 **Remittances**<br>
 0.01% of GDP (2023 est.)<br>
 0.01% of GDP (2022 est.)<br>
@@ -480,13 +470,8 @@ _highest 10%_: 40.5% (1996)<br>
 _revenues_: $4.039 billion (2019 est.)<br>
 _expenditures_: $5.135 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--4.8% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 48.26% of GDP (2022 est.)<br>
-52.58% of GDP (2021 est.)<br>
-48.68% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

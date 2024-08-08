@@ -94,7 +94,7 @@ _adjective_: Rwandan<br>
 Hutu, Tutsi, Twa<br>
 
 **Languages**<br>
-Kinyarwanda (official, universal Bantu vernacular) 93.2%, French (official) &lt;0.1, English (official) &lt;0.1, Swahili/Kiswahili (official, used in commercial centers) &lt;0.1, more than one language, other 6.3%, unspecified 0.3% (2002 est.)<br>
+Kinyarwanda (official, universal Bantu vernacular) 93.2%, French (official) &lt;0.1%, English (official) &lt;0.1%, Swahili/Kiswahili (official, used in commercial centers) &lt;0.1%, more than one language, other 6.3%, unspecified 0.3% (2002 est.)<br>
 _major-language sample(s)_: <br>Inkoranya nzimbuzi y'isi, isoko fatizo y'amakuru y'ibanze. (Kinyarwanda)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -323,12 +323,12 @@ _etymology_: the city takes its name from nearby Mount Kigali; the name "Kigali"
 **National holiday**<br>
 Independence Day, 1 July (1962)<br>
 
+**Legal system**<br>
+mixed legal system of civil law, based on German and Belgian models, and customary law; judicial review of legislative acts in the Supreme Court<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted by referendum 26 May 2003, effective 4 June 2003<br>
 _amendments_: proposed by the president of the republic (with Council of Ministers approval) or by two-thirds majority vote of both houses of Parliament; passage requires at least three-quarters majority vote in both houses; changes to constitutional articles on national sovereignty, the presidential term, the form and system of government, and political pluralism also require approval in a referendum; amended several times, last in 2015<br>
-
-**Legal system**<br>
-mixed legal system of civil law, based on German and Belgian models, and customary law; judicial review of legislative acts in the Supreme Court<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -347,7 +347,7 @@ _chief of state_: President Paul KAGAME (since 22 April 2000)<br>
 _head of government_: Prime Minister Edouard NGIRENTE (since 30 August 2017)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (eligible for a second term); note - a constitutional amendment approved in December 2016 reduced the presidential term from 7 to 5 years but included an exception that allowed President KAGAME to serve another 7-year term in 2017, potentially followed by two additional 5-year terms; election last held on 4 August 2017 (next to be held on 15 July 2024); prime minister appointed by the president<br>
-_election results_: <em>2024: </em>Paul KAGAME reelected president; Paul KAGAME (RPF) 99.2%, Frank HABINEZA (DGPR) 0.50%, Philippe MPAYIMANA (independent) 0.32%<br><br><em>2017:</em> Paul KAGAME reelected president; Paul KAGAME (RPF) 98.8%, Philippe MPAYIMANA (independent), other 1.2%<br><br> <p> </p><br>
+_election results_: <em><br>2024: </em>Paul KAGAME reelected president; Paul KAGAME (RPF) 99.2%, Frank HABINEZA (DGPR) 0.50%, Philippe MPAYIMANA (independent) 0.32%<br><br><em>2017:</em> Paul KAGAME reelected president; Paul KAGAME (RPF) 98.8%, Philippe MPAYIMANA (independent), other 1.2%<br><br> <p> </p><br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate or Senat (26 seats; 12 members indirectly elected by local councils, 8 appointed by the president, 4 appointed by the Political Organizations Forum - a body of registered political parties, and 2 selected by institutions of higher learning; members serve 8-year terms)<br><br>Chamber of Deputies or Chambre des Deputes (80 seats; 53 members directly elected by proportional representation vote, 24 women selected by special interest groups, and 3 selected by youth and disability organizations; members serve 5-year terms)<br>
@@ -498,12 +498,8 @@ _highest 10%_: 35.6% (2016 est.)<br>
 _revenues_: $2.393 billion (2019 est.)<br>
 _expenditures_: $2.919 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--4.3% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 40.5% of GDP (2017 est.)<br>
-37.3% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 15.07% (of GDP) (2020 est.)<br>

@@ -243,12 +243,12 @@ none (British Crown dependency)<br>
 **National holiday**<br>
 Liberation Day, 9 May (1945)<br>
 
+**Legal system**<br>
+the laws of the UK apply where applicable; includes local statutes<br>
+
 **Constitution**<br>
 _history_: unwritten; partly statutes, partly common law and practice<br>
 _amendments_: proposed by a government minister to the Assembly of the States of Jersey, by an Assembly member, or by an elected parish head; passage requires several Assembly readings, a majority vote by the Assembly, review by the UK Ministry of Justice, and approval of the British monarch (Royal Assent)<br>
-
-**Legal system**<br>
-the laws of the UK apply where applicable; includes local statutes<br>
 
 **Citizenship**<br>
 see United Kingdom<br>
@@ -280,7 +280,7 @@ Better Way or BW (group of independent candidates)<br>Jersey Alliance or JA <br
 UPU<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: none (British Crown dependency)<br>
+none (British Crown dependency)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (British Crown dependency)<br>
@@ -358,9 +358,6 @@ _female_: 13.2% (2023 est.)<br>
 **Budget**<br>
 _revenues_: $829 million (2005)<br>
 _expenditures_: $851 million (2005)<br>
-
-**Budget surplus (+) or deficit (-)**<br>
--0.4% (of GDP) (2005)<br>
 
 **Exports - partners**<br>
 almost entirely United Kingdom (2022)<br>

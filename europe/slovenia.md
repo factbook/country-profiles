@@ -307,12 +307,12 @@ _etymology_: likely related to the Slavic root "ljub", meaning "to like" or "to 
 **National holiday**<br>
 Independence Day/Statehood Day, 25 June (1991)<br>
 
+**Legal system**<br>
+civil law system<br>
+
 **Constitution**<br>
 _history_: previous 1974 (preindependence); latest passed by Parliament 23 December 1991<br>
 _amendments_: proposed by at least 20 National Assembly members, by the government, or by petition of at least 30,000 voters; passage requires at least two-thirds majority vote by the Assembly; referendum required if agreed upon by at least 30 Assembly members; passage in a referendum requires participation of a majority of eligible voters and a simple majority of votes cast; amended several times, last in 2016<br>
-
-**Legal system**<br>
-civil law system<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -486,12 +486,8 @@ _highest 10%_: 20.7% (2021 est.)<br>
 _revenues_: $23.735 billion (2019 est.)<br>
 _expenditures_: $23.456 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-0% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 73.6% of GDP (2017 est.)<br>
-78.6% of GDP (2016 est.)<br>
 <strong>note:</strong> defined by the EU's Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities: currency and deposits, securities other than shares excluding financial derivatives, and loans; general government sector comprises the central, state, local government, and social security funds<br>
 
 **Taxes and other revenues**<br>

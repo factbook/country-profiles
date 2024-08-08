@@ -300,12 +300,12 @@ _etymology_: derived from the Sanskrit word "mahaalay" meaning "big house"<br>
 **National holiday**<br>
 Independence Day, 26 July (1965)<br>
 
+**Legal system**<br>
+Islamic (sharia) legal system with English common law influences, primarily in commercial matters<br>
+
 **Constitution**<br>
 _history_: many previous; latest ratified 7 August 2008<br>
 _amendments_: proposed by Parliament; passage requires at least three-quarters majority vote by its membership and the signature of the president of the republic; passage of amendments to constitutional articles on rights and freedoms and the terms of office of Parliament and of the president also requires a majority vote in a referendum; amended 2015<br>
-
-**Legal system**<br>
-Islamic (sharia) legal system with English common law influences, primarily in commercial matters<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -343,7 +343,7 @@ _subordinate courts_: High Court; Criminal, Civil, Family, Juvenile, and Drug Co
 ADB, AOSIS, C, CP, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OIC, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: <p>Ambassador Abdul GHAFOOR Mohamed (since 15 June 2023)</p><br>
+_chief of mission_: Ambassador Abdul GHAFOOR Mohamed (since 15 June 2023)<br>
 _chancery_: 1100 H Street NW, Suite 250, Washington, D.C. 20005<br>
 _telephone_: [1] (202) 516-5458<br>
 _email address and website_: <br>WashingtonInfo@foreign.gov.mv<br><br>The Embassy (mdvmission.gov.mv)<br>
@@ -466,12 +466,8 @@ _highest 10%_: 23.3% (2019 est.)<br>
 _revenues_: $993 million (2020 est.)<br>
 _expenditures_: $1.797 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--10.1% (of GDP) (2016 est.)<br>
-
 **Public debt**<br>
 63.9% of GDP (2017 est.)<br>
-61.7% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 19.45% (of GDP) (2021 est.)<br>

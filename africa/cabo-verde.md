@@ -86,7 +86,7 @@ _adjective_: Cabo Verdean<br>
 Creole (Mulatto) 71%, African 28%, European 1%<br>
 
 **Languages**<br>
-Portuguese (official), Crioulo (a Portuguese-based Creole language with two main dialects spoken in Cabo Verde and in the Cabo Verdean diaspora worldwide)<br>
+Portuguese (official), Crioulo (a Portuguese-based creole language with two main dialects)<br>
 
 **Religions**<br>
 Roman Catholic 72.5%, Protestant 4% (includes Adventist 1.9%, Nazarene 1.8%, Assembly of God 0.2%, God is Love 0.1%), Christian Rationalism 1.7%, Muslim 1.3%, Jehovah's Witness 1.2%, Church of Jesus Christ 1%, other Christian 1.3%, other 1.2%, none 15.6%, no response 0.4% (2021 est.)<br>
@@ -294,12 +294,12 @@ _etymology_: the earlier Portuguese name was Villa de Praia ("Village of the Bea
 **National holiday**<br>
 Independence Day, 5 July (1975)<br>
 
+**Legal system**<br>
+civil law system of Portugal<br>
+
 **Constitution**<br>
 _history_: previous 1981; latest effective 25 September 1992<br>
 _amendments_: proposals require support of at least four fifths of the active National Assembly membership; amendment drafts require sponsorship of at least one third of the active Assembly membership; passage requires at least two-thirds majority vote by the Assembly membership; constitutional sections, including those on national independence, form of government, political pluralism, suffrage, and human rights and liberties, cannot be amended; revised 1995, 1999, 2010<br>
-
-**Legal system**<br>
-civil law system of Portugal<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -468,12 +468,8 @@ _highest 10%_: 32.3% (2015 est.)<br>
 _revenues_: $583 million (2019 est.)<br>
 _expenditures_: $619 million (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--3% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 125.8% of GDP (2017 est.)<br>
-127.6% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 18.39% (of GDP) (2020 est.)<br>

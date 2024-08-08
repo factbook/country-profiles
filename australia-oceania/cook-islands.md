@@ -267,12 +267,12 @@ none<br>
 **National holiday**<br>
 Constitution Day, the first Monday in August (1965)<br>
 
+**Legal system**<br>
+common law similar to New Zealand common law<br>
+
 **Constitution**<br>
 _history_: 4 August 1965 (Cook Islands Constitution Act 1964)<br>
 _amendments_: proposed by Parliament; passage requires at least two-thirds majority vote by the Parliament membership in each of several readings and assent of the chief of state&rsquo;s representative; passage of amendments relating to the chief of state also requires two-thirds majority approval in a referendum; amended many times, last in 2004<br>
-
-**Legal system**<br>
-common law similar to New Zealand common law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration (New Zealand normally retains responsibility for external affairs); accepts ICCt jurisdiction<br>
@@ -361,13 +361,8 @@ fishing, fruit processing, tourism, clothing, handicrafts<br>
 _revenues_: $86.9 million (2010)<br>
 _expenditures_: $77.9 million (2010)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-3% (of GDP) (2010 est.)<br>
-
 **Exports**<br>
 $31.4 million (2021 est.)<br>
-$3.125 million (2011 est.)<br>
-$5.163 million (2010 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -380,8 +375,6 @@ fish, ships, surveying equipment, sports equipment, garments (2022)<br>
 
 **Imports**<br>
 $215 million (2021 est.)<br>
-$109.3 million (2011 est.)<br>
-$90.62 million (2010 est.)<br>
 
 **Imports - partners**<br>
 NZ 51%, Italy 18%, Fiji 11%, China 7%, Australia 3% (2022)<br>
@@ -395,12 +388,12 @@ refined petroleum, ships, cars, plastic products, other foods (2022)<br>
 $141 million (1996 est.)<br>
 
 **Exchange rates**<br>
-_Currency_: NZ dollars (NZD) per US dollar -<br>
-1.416 (2017 est.)<br>
-1.4341 (2016 est.)<br>
-1.4341 (2015 est.)<br>
-1.441 (2014 est.)<br>
-1.4279 (2013 est.)<br>
+_Currency_: New Zealand dollars (NZD) per US dollar -<br>
+1.628 (2023 est.)<br>
+1.577 (2022 est.)<br>
+1.414 (2021 est.)<br>
+1.542 (2020 est.)<br>
+1.518 (2019 est.)<br>
 
 ## Energy
 

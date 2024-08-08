@@ -88,8 +88,9 @@ _adjective_: Latvian<br>
 Latvian 62.7%, Russian 24.5%, Belarusian 3.1%, Ukrainian 2.2%, Polish 2%, Lithuanian 1.1%, other 1.8%, unspecified 2.6% (2021 est.)<br>
 
 **Languages**<br>
-Latvian (official) 56.3%, Russian 33.8%, other 0.6% (includes Polish, Ukrainian, and Belarusian), unspecified 9.4%; note - data represent language usually spoken at home (2011 est.)<br>
+Latvian (official) 56.3%, Russian 33.8%, other 0.6% (includes Polish, Ukrainian, and Belarusian), unspecified 9.4%&nbsp; (2011 est.)<br>
 _major-language sample(s)_: <br>World Factbook, neaizstājams avots pamata informāciju. (Latvian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> data represent language usually spoken at home<br>
 
 **Religions**<br>
 Lutheran 36.2%, Roman Catholic 19.5%, Orthodox 19.1%, other Christian 1.6%, other 0.1%, unspecified/none 23.5% (2017 est.)<br>
@@ -305,12 +306,12 @@ _etymology_: of the several theories explaining the name's origin, the one relat
 **National holiday**<br>
 Independence Day (Republic of Latvia Proclamation Day), 18 November (1918); note - 18 November 1918 was the date Latvia established its statehood and its concomitant independence from Soviet Russia; 4 May 1990 was the date it declared the restoration of Latvian statehood and its concomitant independence from the Soviet Union<br>
 
+**Legal system**<br>
+civil law system with traces of socialist legal traditions and practices<br>
+
 **Constitution**<br>
 _history_: several previous (pre-1991 independence); note - following the restoration of independence in 1991, parts of the 1922 constitution were reintroduced 4 May 1990 and fully reintroduced 6 July 1993<br>
 _amendments_: proposed by two thirds of Parliament members or by petition of one tenth of qualified voters submitted through the president; passage requires at least two-thirds majority vote of Parliament in each of three readings; amendment of constitutional articles, including national sovereignty, language, the parliamentary electoral system, and constitutional amendment procedures, requires passage in a referendum by majority vote of at least one half of the electorate; amended several times, last in 2019<br>
-
-**Legal system**<br>
-civil law system with traces of socialist legal traditions and practices<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -484,12 +485,8 @@ _highest 10%_: 26.2% (2021 est.)<br>
 _revenues_: $12.931 billion (2020 est.)<br>
 _expenditures_: $14.242 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--0.5% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 36.3% of GDP (2017 est.)<br>
-37.4% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt, and includes debt instruments issued (or owned) by government entities, including sub-sectors of central government, state government, local government, and social security funds<br>
 
 **Taxes and other revenues**<br>

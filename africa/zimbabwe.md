@@ -94,7 +94,7 @@ _adjective_: Zimbabwean<br>
 African 99.6% (predominantly Shona; Ndebele is the second largest ethnic group), other (includes Caucasian, Asiatic, mixed race) 0.4% (2022 est.)<br>
 
 **Languages**<br>
-Shona (official; most widely spoken) 80.9%, Ndebele (official, second most widely spoken) 11.5%, English (official; traditionally used for official business) 0.3%, 13 minority languages (official; includes Chewa, Chibarwe, Kalanga, Koisan, Nambya, Ndau, Shangani, sign language, Sotho, Tonga, Tswana, Venda, and Xhosa) 7%, other 0.3% (2022 est.)<br>
+Shona (official, most widely spoken) 80.9%, Ndebele (official, second most widely spoken) 11.5%, English (official, traditionally used for official business) 0.3%, 13 minority languages (official; includes Chewa, Chibarwe, Kalanga, Koisan, Nambya, Ndau, Shangani, sign language, Sotho, Tonga, Tswana, Venda, and Xhosa) 7%, other 0.3% (2022 est.)<br>
 <strong>note:</strong> data represent population by mother tongue<br>
 
 **Religions**<br>
@@ -332,12 +332,12 @@ _etymology_: named after a village of Harare at the site of the present capital;
 **National holiday**<br>
 Independence Day, 18 April (1980)<br>
 
+**Legal system**<br>
+mixed legal system of English common law, Roman-Dutch civil law, and customary law<br>
+
 **Constitution**<br>
 _history_: previous 1965 (at Rhodesian independence), 1979 (Lancaster House Agreement), 1980 (at Zimbabwean independence); latest final draft completed January 2013, approved by referendum 16 March 2013, approved by Parliament 9 May 2013, effective 22 May 2013<br>
 _amendments_: proposed by the Senate or by the National Assembly; passage requires two-thirds majority vote by the membership of both houses of Parliament and assent of the president of the republic; amendments to constitutional chapters on fundamental human rights and freedoms and on agricultural lands also require approval by a majority of votes cast in a referendum; amended many times, last in 2017<br>
-
-**Legal system**<br>
-mixed legal system of English common law, Roman-Dutch civil law, and customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -361,7 +361,7 @@ _election results_: <em><br>2023: </em>Emmerson MNANGAGWA reelected president in
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (80 seats; 60 members directly elected in multi-seat constituencies - 6 seats in each of the 10 provinces - by proportional representation vote, 16 indirectly elected by the regional governing councils, 18 reserved for the National Council Chiefs, and 2 reserved for members with disabilities; members serve 5-year terms)<br><br>National Assembly (280 seats; 210 members directly elected in single-seat constituencies by simple majority vote and 60 seats reserved for women directly elected by proportional representation vote and 10 additional seats reserved for candidates aged between 21 and 35 directly elected by proportional representation, members serve 5-year terms)<br>
 _elections_: <p>Senate - last held for elected member on 23 August 2023 (next to be held in 2028)<br><br>National Assembly - last held on 23 August 2023 (next to be held in 2028); note - a byelection was held on 11 November 2023 due to the death of a candidate during the August general election; a special byelection was held on 9 December 2023 after nine opposition lawmakers were removed from their seats and disqualified from running again; another byelection was held on 3 February 2024 for six open seats</p><br>
-_election results_: <p><br>Senate - percent of vote by party - NA; seats by party - ZANU-PF 33, CCC- 27, Chiefs 18, people with disabilities 2; composition - men 36, women 35, percentage of women 49.3%<br><br>National Assembly - percent of vote by party - NA; seats by party - ZANU-PF 190, CCC-93; composition - men 192, women 75, percentage women 28.1%; total Parliament percentage women 32.5%</p><br>
+_election results_: <p>Senate - percent of vote by party - NA; seats by party - ZANU-PF 33, CCC- 27, Chiefs 18, people with disabilities 2; composition - men 36, women 35, percentage of women 49.3%<br><br>National Assembly - percent of vote by party - NA; seats by party - ZANU-PF 190, CCC-93; composition - men 192, women 75, percentage women 28.1%; total Parliament percentage women 32.5%</p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 4 judges); Constitutional Court (consists of the chief and deputy chief justices and 9 judges)<br>
@@ -369,7 +369,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the pres
 _subordinate courts_: High Court; Labor Court; Administrative Court; regional magistrate courts; customary law courts; special courts<br>
 
 **Political parties**<br>
-Citizens Coalition for Change <br>Movement for Democratic Change - MDC-T <br>National People's Congress- NPC- <br>Zimbabwe African National Union-Patriotic Front or ZANU-PF <br>Zimbabwe African Peoples Union or ZAPU<br>
+Citizens Coalition for Change <br>Movement for Democratic Change or MDC-T <br>National People's Congress or NPC <br>Zimbabwe African National Union-Patriotic Front or ZANU-PF <br>Zimbabwe African Peoples Union or ZAPU<br>
 
 **International organization participation**<br>
 ACP, AfDB, ATMIS, AU, COMESA, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, SADC, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -500,12 +500,8 @@ _highest 10%_: 34.8% (2017 est.)<br>
 _revenues_: $17 million (2018 est.)<br>
 _expenditures_: $23 million (2018 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--9.6% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 82.3% of GDP (2017 est.)<br>
-69.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 7.21% (of GDP) (2018 est.)<br>

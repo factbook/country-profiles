@@ -102,7 +102,7 @@ _adjective_: Brazilian<br>
 mixed 45.3%, White 43.5%, Black 10.2%, Indigenous 0.6%, Asian 0.4% (2022 est.)<br>
 
 **Languages**<br>
-Portuguese (official and most widely spoken language); note - less common languages include Spanish (border areas and schools), German, Italian, Japanese, English, and a large number of minor Amerindian languages<br>
+Portuguese (official and most widely spoken language); less common languages include Spanish (border areas and schools), German, Italian, Japanese, English, and many minor Amerindian languages<br>
 _major-language sample(s)_: <br>O Livro de Fatos Mundiais, a fonte indispensável para informação básica. (Brazilian Portuguese)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -337,12 +337,12 @@ _etymology_: name bestowed on the new capital of Brazil upon its inauguration in
 **National holiday**<br>
 Independence Day, 7 September (1822)<br>
 
+**Legal system**<br>
+civil law; note - a new civil law code was enacted in 2002 replacing the 1916 code<br>
+
 **Constitution**<br>
 _history_: several previous; latest ratified 5 October 1988<br>
 _amendments_: proposed by at least one third of either house of the National Congress, by the president of the republic, or by simple majority vote by more than half of the state legislative assemblies; passage requires at least three-fifths majority vote by both houses in each of two readings; constitutional provisions affecting the federal form of government, separation of powers, suffrage, or individual rights and guarantees cannot be amended; amended many times, last in 2023<br>
-
-**Legal system**<br>
-civil law; note - a new civil law code was enacted in 2002 replacing the 1916 code<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -371,7 +371,7 @@ _election results_: Federal Senate - percent of vote by party - PL 25.4%, PSB 13
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Federal Court or Supremo Tribunal Federal (consists of 11 justices)<br>
-_judge selection and term of office_: justices appointed by the president and approved by the Federal Senate; justices appointed to serve until mandatory retirement at age 75<br>
+_judge selection and term of office_: justices appointed by the president and approved by absolute majority by the Federal Senate; justices appointed to serve until mandatory retirement at age 75<br>
 _subordinate courts_: Tribunal of the Union, Federal Appeals Court, Superior Court of Justice, Superior Electoral Court, regional federal courts; state court system<br>
 
 **Political parties**<br>
@@ -520,13 +520,8 @@ _highest 10%_: 41% (2022 est.)<br>
 _revenues_: $424.196 billion (2020 est.)<br>
 _expenditures_: $617.332 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--1.1% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 79.1% of GDP (2022 est.)<br>
-85.01% of GDP (2021 est.)<br>
-98.71% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

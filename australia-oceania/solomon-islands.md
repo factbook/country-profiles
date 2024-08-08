@@ -86,7 +86,7 @@ _adjective_: Solomon Islander<br>
 Melanesian 95.3%, Polynesian 3.1%, Micronesian 1.2%, other 0.3% (2009 est.)<br>
 
 **Languages**<br>
-Melanesian pidgin (in much of the country is lingua franca), English (official but spoken by only 1%-2% of the population), 120 indigenous languages<br>
+Melanesian pidgin (lingua franca in much of the country), English (official but spoken by only 1%-2% of the population), 120 indigenous languages<br>
 
 **Religions**<br>
 Protestant 73.4% (Church of Melanesia 31.9%, South Sea Evangelical 17.1%, Seventh Day Adventist 11.7%, United Church 10.1%, Christian Fellowship Church 2.5%), Roman Catholic 19.6%, other Christian 2.9%, other 4%, unspecified 0.1% (2009 est.)<br>
@@ -285,12 +285,12 @@ _etymology_: the name derives from "nagho ni ara," which in one of the Guadalcan
 **National holiday**<br>
 Independence Day, 7 July (1978)<br>
 
+**Legal system**<br>
+mixed legal system of English common law and customary law<br>
+
 **Constitution**<br>
 _history_: adopted 31 May 1978, effective 7 July 1978; note - in late 2017, provincial leaders agreed to adopt a new federal constitution; progress has been stalled, but as of February 2023, the draft constitution was with the Constitutional Review Unit in the prime minister's office&nbsp;<br>
 _amendments_: proposed by the National Parliament; passage of constitutional sections, including those on fundamental rights and freedoms, the legal system, Parliament, alteration of the constitution and the ombudsman, requires three-fourths majority vote by Parliament and assent of the governor general; passage of other amendments requires two-thirds majority vote and assent of the governor general; amended several times, last in 2018<br>
-
-**Legal system**<br>
-mixed legal system of English common law and customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -335,7 +335,10 @@ _FAX_: [1] (212) 661-8925<br>
 _email address and website_: <br>simun@solomons.com<br>
 
 **Diplomatic representation from the US**<br>
-_embassy_: the US does not have an embassy in the Solomon Islands; the US Ambassador to Papua New Guinea is accredited to the Solomon Islands<br>
+_chief of mission_: Ambassador Ann Marie YASTISHOCK (since 14 March 2024); note - also accredited to the Papua New Guinea and Vanuatu, based in Port Moresby, Papua New Guinea<br>
+_embassy_: BJS Building<br>Commonwealth Avenue<br>Honiara, Solomon Islands<br>
+_telephone_: [677] 23426<br>
+_FAX_: [677] 27429<br>
 
 **Flag description**<br>
 divided diagonally by a thin yellow stripe from the lower hoist-side corner; the upper triangle (hoist side) is blue with five white five-pointed stars arranged in an X pattern; the lower triangle is green; blue represents the ocean, green the land, and yellow sunshine; the five stars stand for the five main island groups of the Solomon Islands<br>
@@ -429,12 +432,6 @@ _male_: 2.6% (2023 est.)<br>
 _female_: 3.5% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-12.7% (2012 est.)<br>
-
-**Gini Index coefficient - distribution of family income**<br>
-37.1 (2013 est.)<br>
-
 **Remittances**<br>
 5.18% of GDP (2023 est.)<br>
 5.18% of GDP (2022 est.)<br>
@@ -445,13 +442,8 @@ _female_: 3.5% (2023 est.)<br>
 _revenues_: $514 million (2019 est.)<br>
 _expenditures_: $537 million (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--2.9% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 15.39% of GDP (2022 est.)<br>
-11.46% of GDP (2020 est.)<br>
-7.74% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

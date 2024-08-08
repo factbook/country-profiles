@@ -325,12 +325,12 @@ _etymology_: Ankara has been linked with a second millennium B.C. Hittite cult c
 **National holiday**<br>
 Republic Day, 29 October (1923)<br>
 
+**Legal system**<br>
+civil law system based on various European legal systems, notably the Swiss civil code<br>
+
 **Constitution**<br>
 _history_: several previous; latest ratified 9 November 1982<br>
 _amendments_: proposed by written consent of at least one third of Grand National Assembly (GNA) of Turkey (TBMM) members; adoption of draft amendments requires two debates in plenary TBMM session and three-fifths majority vote of all GNA members; the president of the republic can request TBMM reconsideration of the amendment and, if readopted by two-thirds majority TBMM vote, the president may submit the amendment to a referendum; passage by referendum requires absolute majority vote; amended several times, last in 2017<br>
-
-**Legal system**<br>
-civil law system based on various European legal systems, notably the Swiss civil code<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -507,13 +507,8 @@ _highest 10%_: 34.7% (2021 est.)<br>
 _revenues_: $210.536 billion (2020 est.)<br>
 _expenditures_: $249.268 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--1.5% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 35.25% of GDP (2022 est.)<br>
-42.58% of GDP (2021 est.)<br>
-41.8% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

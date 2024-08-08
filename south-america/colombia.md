@@ -326,12 +326,12 @@ _etymology_: originally referred to as "Bacata," meaning "enclosure outside of t
 **National holiday**<br>
 Independence Day, 20 July (1810)<br>
 
+**Legal system**<br>
+civil law system influenced by the Spanish and French civil codes<br>
+
 **Constitution**<br>
 _history_: several previous; latest promulgated 4 July 1991<br>
 _amendments_: proposed by the government, by Congress, by a constituent assembly, or by public petition; passage requires a majority vote by Congress in each of two consecutive sessions; passage of amendments to constitutional articles on citizen rights, guarantees, and duties also require approval in a referendum by over one half of voters and participation of over one fourth of citizens registered to vote; amended many times, last in 2020<br>
-
-**Legal system**<br>
-civil law system influenced by the Spanish and French civil codes<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -508,13 +508,8 @@ _highest 10%_: 43.5% (2022 est.)<br>
 _revenues_: $94.985 billion (2019 est.)<br>
 _expenditures_: $103.098 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--2.7% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 70.14% of GDP (2022 est.)<br>
-80.37% of GDP (2021 est.)<br>
-91.16% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
@@ -720,7 +715,7 @@ the military's inventory includes a wide mix of equipment from a variety of supp
 275 Egypt (MFO) (2024)<br>
 
 **Military - note**<br>
-the Colombian military is responsible for defending and maintaining the country’s independence, national sovereignty, and territorial integrity but also has a considerable internal security role, which includes protecting the civilian population, as well as private and state-owned assets, and ensuring a secure environment; the military’s primary focus is the conduct of counternarcotics, counterterrorism, and counterinsurgency operations against drug traffickers, several factions of the Revolutionary Armed Forces of Colombia (FARC), and the insurgent/terrorist group National Liberation Army (ELN); these operations are challenged by difficult topography and long and porous land borders<br><br>the Colombian Government signed a peace agreement with the FARC in 2016, but some former members (known as dissidents) have returned to fighting (note - these dissident groups include the US-designated foreign terrorist groups Revolutionary Armed Forces of Colombia - People's Army or FARC-EP and Segunda Marquetalia; see Appendix T); since 2017, the Colombian Government has had periodic cease-fire and peace discussions with ELN and the FARC dissidents with varying degrees of success, including a 6-month cease-fire with the ELN in 2023<br><br>the military is also focused on the security challenges posed by its neighbor, Venezuela, where instability has attracted narcotics traffickers, and both the ELN and FARC dissidents operate openly; Colombia shares a 1,370-mile (2,200 km) border with Venezuela; ELN and FARC insurgents have also used neighboring Ecuador to rest, resupply, and shelter<br><br>Colombia has close security ties with the US, including joint training, military assistance, and designation in 2022 as a Major Non-NATO Ally, which provides foreign partners with certain benefits in the areas of defense, trade, and security cooperation; it also has close ties with some regional neighbors, such as Argentina, Chile, and Peru; Colombian military and security forces have training programs with their counterparts from a variety of countries, mostly those from Mexico, Central America, and the Caribbean; security ties with Ecuador and Venezuela have been challenged by the presence of narcotics traffickers, ELN, and FARC dissidents in the border regions (2023)<br>
+the Colombian military is responsible for defending and maintaining the country’s independence, national sovereignty, and territorial integrity but also has a considerable internal security role, which includes protecting the civilian population, as well as private and state-owned assets, and ensuring a secure environment; the military’s primary focus is the conduct of counternarcotic, counterterrorism, and counterinsurgency operations against drug traffickers, several factions of the Revolutionary Armed Forces of Colombia (FARC), and the insurgent/terrorist group National Liberation Army (ELN); these operations are challenged by difficult topography and long and porous land borders<br><br>the Colombian Government signed a peace agreement with the FARC in 2016, but some former members (known as dissidents) have returned to fighting (note - these dissident groups include the US-designated foreign terrorist groups Revolutionary Armed Forces of Colombia - People's Army or FARC-EP and Segunda Marquetalia; see Appendix T); since 2017, the Colombian Government has had periodic cease-fire and peace discussions with ELN and the FARC dissidents with varying degrees of success, including a 6-month cease-fire with the ELN in 2023<br><br>the military is also focused on the security challenges posed by its neighbor, Venezuela, where instability has attracted narcotics traffickers, and both the ELN and FARC dissidents operate openly; Colombia shares a 1,370-mile (2,200 km) border with Venezuela; ELN and FARC insurgents have also used neighboring Ecuador to rest, resupply, and shelter<br><br>Colombia has close security ties with the US, including joint training, military assistance, and designation in 2022 as a Major Non-NATO Ally, which provides foreign partners with certain benefits in the areas of defense, trade, and security cooperation; it also has close ties with some regional neighbors, such as Argentina, Chile, and Peru; Colombian military and security forces have training programs with their counterparts from a variety of countries, mostly those from Mexico, Central America, and the Caribbean; security ties with Ecuador and Venezuela have been challenged by the presence of narcotics traffickers, ELN, and FARC dissidents in the border regions (2023)<br>
 
 ## Space
 

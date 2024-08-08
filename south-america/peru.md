@@ -99,7 +99,7 @@ _adjective_: Peruvian<br>
 Mestizo (mixed Indigenous and White) 60.2%, Indigenous 25.8%, White 5.9%, African descent 3.6%, other (includes Chinese and Japanese descent) 1.2%, unspecified 3.3% (2017 est.)<br>
 
 **Languages**<br>
-Spanish (official) 82.9%, Quechua (official) 13.6%, Aymara (official) 1.6%, Ashaninka 0.3%, other native languages (includes a large number of minor Amazonian languages) 0.8%, other (includes foreign languages and sign language) 0.2%, none 0.1%, unspecified 0.7% (2017 est.)<br>
+Spanish (official) 82.9%, Quechua (official) 13.6%, Aymara (official) 1.6%, Ashaninka 0.3%, other native languages (includes many minor Amazonian languages) 0.8%, other 0.2%, none 0.1%, unspecified 0.7% (2017 est.)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -340,12 +340,12 @@ _etymology_: the word "Lima" derives from the Spanish pronunciation of "Limaq," 
 **National holiday**<br>
 Independence Day, 28-29 July (1821)<br>
 
+**Legal system**<br>
+civil law system<br>
+
 **Constitution**<br>
 _history_: several previous; latest promulgated 29 December 1993, enacted 31 December 1993<br>
 _amendments_: proposed by Congress, by the president of the republic with the approval of the Council of Ministers or by petition of at least 0.3% of voters; passage requires absolute majority approval by the Congress membership, followed by approval in a referendum; a referendum is not required if Congress approves the amendment by greater than two-thirds majority vote in each of two successive sessions; amended many times, last in 2021<br>
-
-**Legal system**<br>
-civil law system<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -521,13 +521,8 @@ _highest 10%_: 30.7% (2022 est.)<br>
 _revenues_: $45.983 billion (2019 est.)<br>
 _expenditures_: $49.134 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--3.1% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 35.25% of GDP (2021 est.)<br>
-34.76% of GDP (2020 est.)<br>
-26.53% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

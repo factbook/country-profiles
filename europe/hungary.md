@@ -323,12 +323,12 @@ _etymology_: the Hungarian capital city was formed in 1873 from the merger of th
 **National holiday**<br>
 Saint Stephen's Day, 20 August (1083); note - commemorates his canonization and the transfer of his remains to Buda (now Budapest) in 1083<br>
 
+**Legal system**<br>
+civil legal system influenced by the German model<br>
+
 **Constitution**<br>
 _history_: previous 1949 (heavily amended in 1989 following the collapse of communism); latest approved 18 April 2011, signed 25 April 2011, effective 1 January 2012<br>
 _amendments_: proposed by the president of the republic, by the government, by parliamentary committee, or by Parliament members; passage requires two-thirds majority vote of Parliament members and approval by the president; amended several times, last in 2018<br>
-
-**Legal system**<br>
-civil legal system influenced by the German model<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICC jurisdiction<br>
@@ -503,13 +503,8 @@ _highest 10%_: 24.1% (2021 est.)<br>
 _revenues_: $70.83 billion (2019 est.)<br>
 _expenditures_: $74.127 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--2% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 75.53% of GDP (2022 est.)<br>
-86.92% of GDP (2021 est.)<br>
-95.94% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

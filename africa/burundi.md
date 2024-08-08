@@ -329,12 +329,12 @@ _etymology_: the naming origins for both Gitega and Bujumbura are obscure; Bujum
 **National holiday**<br>
 Independence Day, 1 July (1962)<br>
 
+**Legal system**<br>
+mixed legal system of Belgian civil law and customary law<br>
+
 **Constitution**<br>
 _history_: several previous, ratified by referendum 28 February 2005<br>
 _amendments_: proposed by the president of the republic after consultation with the government or by absolute majority support of the membership in both houses of Parliament; passage requires at least two-thirds majority vote by the Senate membership and at least four-fifths majority vote by the National Assembly; the president can opt to submit amendment bills to a referendum; constitutional articles including those on national unity, the secularity of Burundi, its democratic form of government, and its sovereignty cannot be amended; amended 2018 (amendments extended the presidential term from 5 to 7 years, reintroduced the position of prime minister, and reduced the number of&nbsp;vice presidents from 2 to 1)<br>
-
-**Legal system**<br>
-mixed legal system of Belgian civil law and customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; withdrew from ICCt in October 2017<br>
@@ -469,10 +469,6 @@ _male_: 2.2% (2023 est.)<br>
 _female_: 1.3% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-64.9% (2013 est.)<br>
-<b>note:</b> % of population with income below national poverty line<br>
-
 **Gini Index coefficient - distribution of family income**<br>
 37.5 (2020 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
@@ -492,12 +488,8 @@ _highest 10%_: 29.9% (2020 est.)<br>
 _revenues_: $747 million (2020 est.)<br>
 _expenditures_: $1.111 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--5.7% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 51.7% of GDP (2017 est.)<br>
-48.4% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 15.64% (of GDP) (2021 est.)<br>

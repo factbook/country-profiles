@@ -87,8 +87,9 @@ _adjective_: Malaysian<br>
 Bumiputera 63.8% (Malay 52.8% and indigenous peoples, including Orang Asli, Dayak, Anak Negeri, 11%), Chinese 20.6%, Indian 6%, other 0.6%, non-citizens 9% (2023 est.)<br>
 
 **Languages**<br>
-Bahasa Malaysia (official), English, Chinese (Cantonese, Mandarin, Hokkien, Hakka, Hainan, Foochow), Tamil, Telugu, Malayalam, Panjabi, Thai; note - Malaysia has 134 living languages - 112 indigenous languages and 22 non-indigenous languages; in East Malaysia, there are several indigenous languages; the most widely spoken are Iban and Kadazan<br>
+Bahasa Malaysia (official), English, Chinese (Cantonese, Mandarin, Hokkien, Hakka, Hainan, Foochow), Tamil, Telugu, Malayalam, Panjabi, Thai<br>
 _major-language sample(s)_: <br>Buku Fakta Dunia, sumber yang diperlukan untuk maklumat asas. (Bahasa Malaysia)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> Malaysia has 134 languages (112 indigenous and 22 non-indigenous); in East Malaysia, there are several indigenous languages, and the most widely spoken are Iban and Kadazan<br>
 
 **Religions**<br>
 Muslim (official) 63.5%, Buddhist 18.7%, Christian 9.1%, Hindu 6.1%, other (Confucianism, Taoism, other traditional Chinese religions) 0.9%, none/unspecified 1.8% (2020 est.)<br>
@@ -310,12 +311,12 @@ _etymology_: the Malay word for "river junction or estuary" is <em>kuala</em> an
 **National holiday**<br>
 Independence Day (or Merdeka Day), 31 August (1957) (independence of Malaya); Malaysia Day, 16 September (1963) (formation of Malaysia)<br>
 
+**Legal system**<br>
+mixed legal system of English common law, Islamic law (sharia), and customary law; judicial review of legislative acts in the Federal Court at request of supreme head of the federation<br>
+
 **Constitution**<br>
 _history_: previous 1948; latest drafted 21 February 1957, effective 27 August 1957<br>
 _amendments_: proposed as a bill by Parliament; passage requires at least two-thirds majority vote by the Parliament membership in the bill&rsquo;s second and third readings; a number of constitutional sections are excluded from amendment or repeal; amended many times, last in 2019<br>
-
-**Legal system**<br>
-mixed legal system of English common law, Islamic law (sharia), and customary law; judicial review of legislative acts in the Federal Court at request of supreme head of the federation<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -490,13 +491,8 @@ _highest 10%_: 30.9% (2021 est.)<br>
 _revenues_: $77.736 billion (2019 est.)<br>
 _expenditures_: $85.851 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--3% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 60.27% of GDP (2022 est.)<br>
-63.26% of GDP (2021 est.)<br>
-62.01% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

@@ -315,12 +315,12 @@ _etymology_: the origin of the name is disputed; Minsk may originally have been 
 **National holiday**<br>
 Independence Day, 3 July (1944); note - 3 July 1944 was the date Minsk was liberated from German troops, 25 August 1991 was the date of independence from the Soviet Union<br>
 
+**Legal system**<br>
+civil law system; note - nearly all major codes (civil, civil procedure, criminal, criminal procedure, family, and labor) were revised and came into force in 1999 and 2000<br>
+
 **Constitution**<br>
 _history_: several previous; latest drafted between late 1991 and early 1994, signed 15 March 1994<br>
 _amendments_: proposed by the president of the republic through petition to the National Assembly or by petition of least 150,000 eligible voters; approval required by at least two-thirds majority vote in both chambers or by simple majority of votes cast in a referendum; amended 1996, 2004<br>
-
-**Legal system**<br>
-civil law system; note - nearly all major codes (civil, civil procedure, criminal, criminal procedure, family, and labor) were revised and came into force in 1999 and 2000<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -494,13 +494,8 @@ _highest 10%_: 20.7% (2020 est.)<br>
 _revenues_: $24.743 billion (2019 est.)<br>
 _expenditures_: $24.239 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-2.9% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 33.24% of GDP (2019 est.)<br>
-37.1% of GDP (2018 est.)<br>
-39.88% of GDP (2017 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

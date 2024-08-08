@@ -298,12 +298,12 @@ _etymology_: the name means "they [women] made them unite," which according to T
 **National holiday**<br>
 Independence Day, 24 May (1991)<br>
 
+**Legal system**<br>
+mixed legal system of civil, customary, and Islamic religious law<br>
+
 **Constitution**<br>
 _history_: ratified by the Constituent Assembly 23 May 1997 (never implemented)<br>
 _amendments_: proposed by the president of Eritrea or by assent of at least one half of the National Assembly membership; passage requires at least an initial three-quarters majority vote by the Assembly and, after one year, final passage by at least four-fifths majority vote by the Assembly<br>
-
-**Legal system**<br>
-mixed legal system of civil, customary, and Islamic religious law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -441,19 +441,12 @@ _male_: 8.9% (2023 est.)<br>
 _female_: 11.3% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-50% (2004 est.)<br>
-
 **Budget**<br>
 _revenues_: $633 million (2018 est.)<br>
 _expenditures_: $549 million (2018 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--9.8% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 131.2% of GDP (2017 est.)<br>
-132.8% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 34.9% (of GDP) (2017 est.)<br>

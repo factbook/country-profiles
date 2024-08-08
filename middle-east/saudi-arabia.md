@@ -308,12 +308,12 @@ _etymology_: the name derives from the Arabic word "riyadh," meaning "gardens," 
 **National holiday**<br>
 Saudi National Day (Unification of the Kingdom), 23 September (1932)<br>
 
+**Legal system**<br>
+Islamic (sharia) legal system with some elements of Egyptian, French, and customary law; note - several secular codes have been introduced; commercial disputes handled by special committees<br>
+
 **Constitution**<br>
 _history_: 1 March 1992 - Basic Law of Government, issued by royal decree, serves as the constitutional framework and is based on the Qur'an and the life and traditions of the Prophet Muhammad<br>
 _amendments_: proposed by the king directly or proposed to the king by the Consultative Assembly or by the Council of Ministers; passage by the king through royal decree; Basic Law amended many times, last in 2017<br>
-
-**Legal system**<br>
-Islamic (sharia) legal system with some elements of Egyptian, French, and customary law; note - several secular codes have been introduced; commercial disputes handled by special committees<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -462,9 +462,6 @@ _male_: 12.9% (2023 est.)<br>
 _female_: 24.4% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Gini Index coefficient - distribution of family income**<br>
-45.9 (2013 est.)<br>
-
 **Average household expenditures**<br>
 _on food_: 20.5% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 0.7% of household expenditures (2021 est.)<br>
@@ -479,12 +476,8 @@ _on alcohol and tobacco_: 0.7% of household expenditures (2021 est.)<br>
 _revenues_: $247.093 billion (2019 est.)<br>
 _expenditures_: $282.4 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--8.9% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 17.2% of GDP (2017 est.)<br>
-13.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 7.77% (of GDP) (2022 est.)<br>

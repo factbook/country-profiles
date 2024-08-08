@@ -84,7 +84,7 @@ _adjective_: Norfolk Islander(s)<br>
 <strong>note:</strong> respondents were able to identify up to two ancestries; percentages represent a proportion of all responses from people in Norfolk Island, including those who did not identify an ancestry; only top responses are shown<br>
 
 **Languages**<br>
-English (official) 44.9%, Norfolk (official; also known as Norfuk or Norf'k, which is a mixture of 18th century English and ancient Tahitian) 40.3%, Fijian 1.8%, other 6.8%, unspecified 6.2% (2016 est.)<br>
+English (official) 44.9%, Norfolk (official, a mixture of 18th century English and ancient Tahitian) 40.3%, Fijian 1.8%, other 6.8%, unspecified 6.2% (2016 est.)<br>
 <strong>note:</strong> data represent language spoken at home<br>
 
 **Religions**<br>
@@ -228,11 +228,11 @@ clothing and apparel, chemical analysis instruments, refined petroleum, cars, ki
 
 **Exchange rates**<br>
 _Currency_: Australian dollars (AUD) per US dollar -<br>
-1.311 (2017 est.)<br>
-1.3291 (2016 est.)<br>
-1.3291 (2015)<br>
-1.3291 (2014 est.)<br>
-1.1094 (2013 est.)<br>
+1.505 (2023 est.)<br>
+1.442 (2022 est.)<br>
+1.331 (2021 est.)<br>
+1.453 (2020 est.)<br>
+1.439 (2019 est.)<br>
 
 ## Communications
 

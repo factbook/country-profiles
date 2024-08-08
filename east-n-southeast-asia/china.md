@@ -102,7 +102,7 @@ Han Chinese 91.1%, ethnic minorities 8.9% (includes Zhang, Hui, Manchu, Uighur, 
 <strong>note:</strong> the PRC officially recognizes 56 ethnic groups<br>
 
 **Languages**<br>
-Standard Chinese or Mandarin (official; Putonghua, based on the Beijing dialect), Yue (Cantonese), Wu (Shanghainese), Minbei (Fuzhou), Minnan (Hokkien-Taiwanese), Xiang, Gan, Hakka dialects, minority languages (see Ethnic groups entry); note - Zhuang is official in Guangxi Zhuang, Yue is official in Guangdong, Mongolian is official in Nei Mongol, Uyghur is official in Xinjiang Uygur, Kyrgyz is official in Xinjiang Uyghur, and Tibetan is official in Xizang (Tibet)<br>
+Standard Chinese or Mandarin (official; Putonghua, based on the Beijing dialect), Yue (Cantonese), Wu (Shanghainese), Minbei (Fuzhou), Minnan (Hokkien-Taiwanese), Xiang, Gan, Hakka dialects, minority languages; note - Zhuang is official in Guangxi Zhuang, Yue is official in Guangdong, Mongolian is official in Nei Mongol, Uyghur is official in Xinjiang Uygur, Kyrgyz is official in Xinjiang Uyghur, and Tibetan is official in Xizang (Tibet)<br>
 _major-language sample(s)_: <br>世界概況  –  不可缺少的基本消息來源 (Standard Chinese)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -346,12 +346,12 @@ _etymology_: the Chinese meaning is "Northern Capital"<br>
 **National holiday**<br>
 National Day (anniversary of the founding of the People's Republic of China), 1 October (1949)<br>
 
+**Legal system**<br>
+civil law influenced by Soviet and continental European civil law systems; legislature retains power to interpret statutes; note - on 28 May 2020, the National People's Congress adopted the PRC Civil Code, which codifies personal relations and property relations<br>
+
 **Constitution**<br>
 _history_: several previous; latest promulgated 4 December 1982<br>
 _amendments_: proposed by the Standing Committee of the National People&rsquo;s Congress or supported by more than one fifth of the National People&rsquo;s Congress membership; passage requires more than two-thirds majority vote of the Congress membership; amended several times, last in 2018<br>
-
-**Legal system**<br>
-civil law influenced by Soviet and continental European civil law systems; legislature retains power to interpret statutes; note - on 28 May 2020, the National People's Congress adopted the PRC Civil Code, which codifies personal relations and property relations<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -531,12 +531,8 @@ _highest 10%_: 29.4% (2020 est.)<br>
 _revenues_: $3.983 trillion (2019 est.)<br>
 _expenditures_: $4.893 trillion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--3.8% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 47% of GDP (2017 est.)<br>
-44.2% of GDP (2016 est.)<br>
 <strong>note:</strong> official data; data cover both central and local government debt, including debt officially recognized by China's National Audit Office report in 2011; data exclude policy bank bonds, Ministry of Railway debt, and China Asset Management Company debt<br>
 
 **Taxes and other revenues**<br>

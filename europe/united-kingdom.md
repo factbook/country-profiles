@@ -314,12 +314,12 @@ no official date of independence: 927 (minor English kingdoms unite); 3 March 12
 **National holiday**<br>
 the UK does not celebrate one particular national holiday<br>
 
+**Legal system**<br>
+common law system; has nonbinding judicial review of Acts of Parliament under the Human Rights Act of 1998<br>
+
 **Constitution**<br>
 _history_: uncoded; partly statutes, partly common law and practice<br>
 _amendments_: proposed as a bill for an Act of Parliament by the government, by the House of Commons, or by the House of Lords; passage requires agreement by both houses and by the monarch (Royal Assent); many previous, last in 2020 -&nbsp; The European Union (Withdrawal Agreement) Act 2020, European Union (Future Relationship) Act 2020<br>
-
-**Legal system**<br>
-common law system; has nonbinding judicial review of Acts of Parliament under the Human Rights Act of 1998<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -494,13 +494,8 @@ _highest 10%_: 25% (2021 est.)<br>
 _revenues_: $998.006 billion (2020 est.)<br>
 _expenditures_: $1.362 trillion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--1.9% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 142.28% of GDP (2022 est.)<br>
-186.85% of GDP (2021 est.)<br>
-196.61% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

@@ -87,7 +87,7 @@ _adjective_: Salvadoran<br>
 Mestizo 86.3%, White 12.7%, Indigenous 0.2% (includes Lenca, Kakawira, Nahua-Pipil), Black 0.1%, other 0.6% (2007 est.)<br>
 
 **Languages**<br>
-Spanish (official), Nawat (among some Indigenous)<br>
+Spanish (official), Nawat (among some indigenous)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -309,12 +309,12 @@ _etymology_: Spanish for "Holy Savior" (referring to Jesus Christ)<br>
 **National holiday**<br>
 Independence Day, 15 September (1821)<br>
 
+**Legal system**<br>
+civil law system with minor common law influence; judicial review of legislative acts in the Supreme Court<br>
+
 **Constitution**<br>
 _history_: many previous; latest drafted 16 December 1983, enacted 23 December 1983<br>
 _amendments_: proposals require agreement by absolute majority of the Legislative Assembly membership; passage requires at least two-thirds majority vote of the Assembly; constitutional articles on basic principles, and citizen rights and freedoms cannot be amended; amended 2003, 2009, 2014<br>
-
-**Legal system**<br>
-civil law system with minor common law influence; judicial review of legislative acts in the Supreme Court<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -333,7 +333,7 @@ _chief of state_: President Nayib Armando BUKELE Ortez (since 1 June 2019)<br>
 _head of government_: President Nayib Armando BUKELE Ortez (since 1 June 2019)<br>
 _cabinet_: Council of Ministers selected by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a single 5-year term; election last held on 4 February 2024 (next to be held in 2029)<br>
-_election results_: <em>2024:</em> Nayib Armando BUKELE Ortez reelected president - Nayib Armando BUKELE Ortez (Nuevas Ideas) 84.7%, Manuel FLORES (FMLN) 6.4%, Joel SANCHEZ (ARENA) 5.6%, Luis PARADA (NT) 2%, other 1.3%<br><br><em>2019:</em> Nayib Armando BUKELE Ortez elected president - Nayib Armando BUKELE Ortez (GANA) 53.1%, Carlos CALLEJA Hakker (ARENA) 31.7%, Hugo MARTINEZ (FMLN) 14.4%, other 0.8%<br>
+_election results_: <em><br>2024:</em> Nayib Armando BUKELE Ortez reelected president - Nayib Armando BUKELE Ortez (Nuevas Ideas) 84.7%, Manuel FLORES (FMLN) 6.4%, Joel SANCHEZ (ARENA) 5.6%, Luis PARADA (NT) 2%, other 1.3%<br><br><em>2019:</em> Nayib Armando BUKELE Ortez elected president - Nayib Armando BUKELE Ortez (GANA) 53.1%, Carlos CALLEJA Hakker (ARENA) 31.7%, Hugo MARTINEZ (FMLN) 14.4%, other 0.8%<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -490,13 +490,8 @@ _highest 10%_: 28.7% (2022 est.)<br>
 _revenues_: $6.448 billion (2019 est.)<br>
 _expenditures_: $7.273 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--2.5% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 66.47% of GDP (2021 est.)<br>
-70.38% of GDP (2020 est.)<br>
-53.88% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

@@ -318,12 +318,12 @@ _etymology_: the name translates as "beneath Gorica"; the meaning of Gorica is "
 **National holiday**<br>
 Statehood Day, 13 July (1878, the day the Berlin Congress recognized Montenegro as the 27th independent state in the world, and 1941, the day the Montenegrins staged an uprising against fascist occupiers and sided with the partisan communist movement)<br>
 
+**Legal system**<br>
+civil law<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted 22 October 2007<br>
 _amendments_: proposed by the president of Montenegro, by the government, or by at least 25 members of the Assembly; passage of draft proposals requires two-thirds majority vote of the Assembly, followed by a public hearing; passage of draft amendments requires two-thirds majority vote of the Assembly; changes to certain constitutional articles, such as sovereignty, state symbols, citizenship, and constitutional change procedures, require three-fifths majority vote in a referendum; amended 2013<br>
-
-**Legal system**<br>
-civil law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -497,12 +497,8 @@ _highest 10%_: 24.7% (2021 est.)<br>
 _revenues_: $2.051 billion (2020 est.)<br>
 _expenditures_: $2.568 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--5.6% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 67.2% of GDP (2017 est.)<br>
-66.4% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>

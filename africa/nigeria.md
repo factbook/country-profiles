@@ -333,12 +333,12 @@ _etymology_: Abuja is a planned capital city, it replaced Lagos in 1991; situate
 **National holiday**<br>
 Independence Day (National Day), 1 October (1960)<br>
 
+**Legal system**<br>
+mixed legal system of English common law, Islamic law (in 12 northern states), and traditional law<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted 5 May 1999, effective 29 May 1999<br>
 _amendments_: proposed by the National Assembly; passage requires at least two-thirds majority vote of both houses and approval by the Houses of Assembly of at least two thirds of the states; amendments to constitutional articles on the creation of a new state, fundamental constitutional rights, or constitution-amending procedures requires at least four-fifths majority vote by both houses of the National Assembly and approval by the Houses of Assembly in at least two thirds of the states; passage of amendments limited to the creation of a new state require at least two-thirds majority vote by the proposing National Assembly house and approval by the Houses of Assembly in two thirds of the states; amended several times, last in 2018<br>
-
-**Legal system**<br>
-mixed legal system of English common law, Islamic law (in 12 northern states), and traditional law<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -513,12 +513,8 @@ _highest 10%_: 26.7% (2018 est.)<br>
 _revenues_: $37.298 billion (2019 est.)<br>
 _expenditures_: $59.868 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--1.8% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 21.8% of GDP (2017 est.)<br>
-19.6% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 3.4% (of GDP) (2017 est.)<br>

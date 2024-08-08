@@ -312,12 +312,12 @@ _etymology_: the sites of Spanish colonial cities often retained their original 
 **National holiday**<br>
 Triumph of the Revolution (Liberation Day), 1 January (1959)<br>
 
+**Legal system**<br>
+civil law system based on Spanish civil code<br>
+
 **Constitution**<br>
 _history_: several previous; latest drafted 14 July 2018, approved by the National Assembly 22 December 2018, approved by referendum 24 February 2019<br>
 _amendments_: proposed by the National Assembly of People&rsquo;s Power; passage requires approval of at least two-thirds majority of the National Assembly membership; amendments to constitutional articles on the authorities of the National Assembly, Council of State, or any rights and duties in the constitution also require approval in a referendum; constitutional articles on the Cuban political, social, and economic system cannot be amended<br>
-
-**Legal system**<br>
-civil law system based on Spanish civil code<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -465,12 +465,8 @@ _female_: 2.5% (2023 est.)<br>
 _revenues_: $54.52 billion (2017 est.)<br>
 _expenditures_: $64.64 billion (2017 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--10.8% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 47.7% of GDP (2017 est.)<br>
-42.7% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 58.1% (of GDP) (2017 est.)<br>
@@ -517,11 +513,12 @@ $29.89 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Cuban pesos (CUP) per US dollar -<br>
-1 (2017 est.)<br>
-1 (2016 est.)<br>
-1 (2015 est.)<br>
-1 (2014 est.)<br>
-22.7 (2013 est.)<br>
+24 (2023 est.)<br>
+24 (2022 est.)<br>
+24 (2021 est.)<br>
+1 (2020 est.)<br>
+1 (2019 est.)<br>
+<strong>note:</strong> official exchange rate of 24 Cuban pesos per US dollar effective 1 January 2021<br>
 
 ## Energy
 

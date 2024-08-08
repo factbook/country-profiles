@@ -85,7 +85,7 @@ Dutch 78.7%, Colombian 6.6%, Venezuelan 5.5%, Dominican 2.8%, Haitian 1.3%, othe
 <strong>note:</strong> data represent population by nationality<br>
 
 **Languages**<br>
-Papiamento (official) (a creole language that is a mixture of Portuguese, Spanish, Dutch, English, and, to a lesser extent, French, as well as elements of African languages and the language of the Arawak) 69.4%, Spanish 13.7%, English (widely spoken) 7.1%, Dutch (official) 6.1%, Chinese 1.5%, other 1.7%, unspecified 0.4% (2010 est.)<br>
+Papiamento (official) (a creole language that mixes Portuguese, Spanish, Dutch, English, French, African languages, and Arawak) 69.4%, Spanish 13.7%, English (widely spoken) 7.1%, Dutch (official) 6.1%, Chinese 1.5%, other 1.7%, unspecified 0.4% (2010 est.)<br>
 
 **Religions**<br>
 Roman Catholic 75.3%, Protestant 4.9% (includes Methodist 0.9%, Adventist 0.9%, Anglican 0.4%, other Protestant 2.7%), Jehovah's Witness 1.7%, other 12%, none 5.5%, unspecified 0.5% (2010 est.)<br>
@@ -258,11 +258,11 @@ none (part of the Kingdom of the Netherlands)<br>
 **National holiday**<br>
 National Anthem and Flag Day, 18 March (1976)<br>
 
-**Constitution**<br>
-_history_: previous 1947, 1955; latest drafted and approved August 1985, enacted 1 January 1986 (regulates governance of Aruba but is subordinate to the Charter for the Kingdom of the Netherlands); in 1986,&nbsp;Aruba became a semi-autonomous entity within the Kingdom of the Netherlands<br>
-
 **Legal system**<br>
 civil law system based on the Dutch civil code<br>
+
+**Constitution**<br>
+_history_: previous 1947, 1955; latest drafted and approved August 1985, enacted 1 January 1986 (regulates governance of Aruba but is subordinate to the Charter for the Kingdom of the Netherlands); in 1986,&nbsp;Aruba became a semi-autonomous entity within the Kingdom of the Netherlands<br>
 
 **Citizenship**<br>
 see the Netherlands<br>
@@ -294,7 +294,7 @@ Accion21<br>Aruban People's Party or AVP<br>Democratic Network or RED<br>Movimie
 ACS (associate), Caricom (observer), FATF, ILO, IMF, Interpol, IOC, ITUC (NGOs), UNESCO (associate), UNWTO (associate), UPU<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: none (represented by the Kingdom of the Netherlands)<br>
+none (represented by the Kingdom of the Netherlands)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Aruba; the Consul General to Curacao is accredited to Aruba<br>
@@ -367,10 +367,6 @@ aloes; livestock; fish<br>
 **Industries**<br>
 tourism, petroleum transshipment facilities, banking<br>
 
-**Labor force**<br>
-51,610 (2007 est.)<br>
-<strong>note:</strong> of the 51,610 workers aged 15 and over in the labor force, 32,252 were born in Aruba and 19,353 came from abroad; foreign workers are 38% of the employed population<br>
-
 **Unemployment rate**<br>
 7.7% (2016 est.)<br>
 
@@ -384,12 +380,8 @@ tourism, petroleum transshipment facilities, banking<br>
 _revenues_: $793 million (2019 est.)<br>
 _expenditures_: $782 million (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--2.7% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 86% of GDP (2017 est.)<br>
-84.7% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 25.2% (of GDP) (2017 est.)<br>

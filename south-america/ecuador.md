@@ -93,9 +93,9 @@ _adjective_: Ecuadorian<br>
 Mestizo (mixed Indigenous and White) 77.5%, Montubio 7.7%, Indigenous 7.7%, White 2.2%, Afroecuadorian 2%, Mulatto 1.4%, Black 1.3%, other 0.1% (2022 est.)<br>
 
 **Languages**<br>
-Spanish (Castilian; official) 98.6%, indigenous 3.9% (Quechua 3.2%, other indigenous 0.7%), foreign 2.8%, other 0.6% (includes Ecuadorian sign language);&nbsp;note - (Quechua and Shuar are official languages of intercultural relations; other indigenous languages are in official use by indigenous peoples in the areas they inhabit) (2022 est.)<br>
+Spanish (Castilian; official) 98.6%, indigenous 3.9% (Quechua 3.2%, other indigenous 0.7%), foreign 2.8%, other 0.6% (includes Ecuadorian sign language) (2022 est.)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
-<strong>note:</strong> shares sum to more than 100% because some respondents gave more than one answer on the census<br>
+<strong>note 1:</strong> shares sum to more than 100% because some respondents gave more than one answer on the census<br><br><strong>note 2:</strong> Quechua and Shuar are official languages of intercultural relations; other indigenous languages are in official use by indigenous peoples in the areas they inhabit<br>
 
 **Religions**<br>
 Roman Catholic 68.2%, Protestant 19% (Evangelical 18.3%, Adventist 0.6%, other Protestant 0.2%), Jehovah's Witness 1.4%, other 2.3%, none 8.2% don't know/no response 1% (2023 est.)<br>
@@ -323,12 +323,12 @@ _etymology_: named after the Quitu, a Pre-Columbian indigenous people credited w
 **National holiday**<br>
 Independence Day (independence of Quito), 10 August (1809)<br>
 
+**Legal system**<br>
+civil law based on the Chilean civil code with modifications; traditional law in indigenous communities<br>
+
 **Constitution**<br>
 _history_: many previous; latest approved 20 October 2008<br>
 _amendments_: proposed by the president of the republic through a referendum, by public petition of at least 1% of registered voters, or by agreement of at least one-third membership of the National Assembly; passage requires two separate readings a year apart and approval by at least two-thirds majority vote of the Assembly, and approval by absolute majority in a referendum; amendments such as changes to the structure of the state, constraints on personal rights and guarantees, or constitutional amendment procedures are not allowed; amended 2011, 2015, 2018, 2024<br>
-
-**Legal system**<br>
-civil law based on the Chilean civil code with modifications; traditional law in indigenous communities<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -504,12 +504,8 @@ _highest 10%_: 34.3% (2022 est.)<br>
 _revenues_: $35.914 billion (2019 est.)<br>
 _expenditures_: $39.319 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--4.5% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 45.4% of GDP (2017 est.)<br>
-43.2% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 13.04% (of GDP) (2022 est.)<br>

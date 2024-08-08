@@ -88,7 +88,7 @@ _adjective_: Korean<br>
 homogeneous<br>
 
 **Languages**<br>
-Korean, English (widely taught in elementary, junior high, and high school)<br>
+Korean, English&nbsp;<br>
 _major-language sample(s)_: <br>월드 팩트북, 필수적인 기본 정보 제공처 (Korean)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -305,12 +305,12 @@ _etymology_: the name originates from the Korean word meaning "capital city" and
 **National holiday**<br>
 Liberation Day, 15 August (1945)<br>
 
+**Legal system**<br>
+mixed legal system combining European civil law, Anglo-American law, and Chinese classical thought<br>
+
 **Constitution**<br>
 _history_: several previous; latest passed by National Assembly 12 October 1987, approved in referendum 28 October 1987, effective 25 February 1988<br>
 _amendments_: proposed by the president or by majority support of the National Assembly membership; passage requires at least two-thirds majority vote by the Assembly membership, approval in a referendum by more than one half of the votes by more than one half of eligible voters, and promulgation by the president; amended several times, last in 1987<br>
-
-**Legal system**<br>
-mixed legal system combining European civil law, Anglo-American law, and Chinese classical thought<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -485,13 +485,8 @@ _highest 10%_: 24% (2016 est.)<br>
 _revenues_: $378.552 billion (2019 est.)<br>
 _expenditures_: $372.412 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-1.4% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 51.18% of GDP (2022 est.)<br>
-48.96% of GDP (2021 est.)<br>
-46.43% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

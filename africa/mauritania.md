@@ -97,8 +97,9 @@ _adjective_: Mauritanian<br>
 Black Moors (Haratines - Arabic-speaking descendants of African origin who are or were enslaved by White Moors) 40%, White Moors (of Arab-Amazigh descent, known as Beydane) 30%, Sub-Saharan Mauritanians (non-Arabic speaking, largely resident in or originating from the Senegal River Valley, including Halpulaar, Fulani, Soninke, Wolof, and Bambara ethnic groups) 30%<br>
 
 **Languages**<br>
-Arabic (official and national), Pular, Soninke, Wolof (all national languages), French; note - the spoken Arabic in Mauritania differs considerably from the Modern Standard Arabic used for official written purposes or in the media; the Mauritanian dialect, which incorporates many Tamazight words, is referred to as Hassaniya<br>
+Arabic (official and national), Pular, Soninke, Wolof (all national languages), French<br>
 _major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> the spoken Arabic in Mauritania differs considerably from Modern Standard Arabic; the Mauritanian dialect, which incorporates many Tamazight words, is referred to as Hassaniya<br>
 
 **Religions**<br>
 Muslim (official) 100%<br>
@@ -333,12 +334,12 @@ _etymology_: may derive from the Berber "nawakshut" meaning "place of the winds"
 **National holiday**<br>
 Independence Day, 28 November (1960)<br>
 
+**Legal system**<br>
+mixed legal system of Islamic and French civil law<br>
+
 **Constitution**<br>
 _history_: previous 1964; latest adopted 12 July 1991<br>
 _amendments_: proposed by the president of the republic or by Parliament; consideration of amendments by Parliament requires approval of at least one third of the membership; a referendum is held only if the amendment is approved by two-thirds majority vote; passage by referendum requires simple majority vote by eligible voters; passage of amendments proposed by the president can bypass a referendum if approved by at least three-fifths majority vote by Parliament; amended 2006, 2012, 2017<br>
-
-**Legal system**<br>
-mixed legal system of Islamic and French civil law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -503,12 +504,8 @@ _highest 10%_: 24.6% (2019 est.)<br>
 _revenues_: $1.617 billion (2019 est.)<br>
 _expenditures_: $1.407 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--0.8% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 96.6% of GDP (2017 est.)<br>
-100% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 27.4% (of GDP) (2017 est.)<br>

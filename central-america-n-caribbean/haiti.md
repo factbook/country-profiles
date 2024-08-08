@@ -308,12 +308,12 @@ _etymology_: according to tradition, in 1706, a Captain de Saint-Andre named the
 **National holiday**<br>
 Independence Day, 1 January (1804)<br>
 
+**Legal system**<br>
+civil law system strongly influenced by Napoleonic Code<br>
+
 **Constitution**<br>
 _history_: many previous; latest adopted 10 March 1987, with substantial revisions in June 2012; note &ndash; the constitution is commonly referred to as the &ldquo;amended 1987 constitution&rdquo;<br>
 _amendments_: proposed by the executive branch or by either the Senate or the Chamber of Deputies; consideration of proposed amendments requires support by at least two-thirds majority of both houses; passage requires at least two-thirds majority of the membership present and at least two-thirds majority of the votes cast; approved amendments enter into force after installation of the next president of the republic; constitutional articles on the democratic and republican form of government cannot be amended; amended many times, last in 2012<br>
-
-**Legal system**<br>
-civil law system strongly influenced by Napoleonic Code<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction; non-party state to the ICCt<br>
@@ -458,16 +458,6 @@ _male_: 29.1% (2023 est.)<br>
 _female_: 46.6% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-58.5% (2012 est.)<br>
-
-**Gini Index coefficient - distribution of family income**<br>
-41.1 (2012 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 0.7%<br>
-_highest 10%_: 47.7% (2001)<br>
-
 **Remittances**<br>
 21.4% of GDP (2023 est.)<br>
 18.75% of GDP (2022 est.)<br>
@@ -478,12 +468,8 @@ _highest 10%_: 47.7% (2001)<br>
 _revenues_: $1.179 billion (2020 est.)<br>
 _expenditures_: $1.527 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--1% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 31.1% of GDP (2017 est.)<br>
-33.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 18.2% (of GDP) (2017 est.)<br>

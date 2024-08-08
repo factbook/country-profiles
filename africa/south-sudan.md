@@ -318,7 +318,7 @@ _subordinate courts_: national level - Courts of Appeal; High Courts; County Cou
 Note: in mid-2022, the Government of South Sudan inaugurated an Ad-hoc Judiciary Committee, a 12-member body led by two eminent jurists, which is charged with reviewing relevant laws, advising on judicial reform and restructuring of the judiciary<br>
 
 **Political parties**<br>
-<p>Democratic Change or DC<br>Democratic Forum or DF<br>Labour Party or LPSS [Federico Awi VUNI]<br>South Sudan Opposition Alliance or SSOA [Hussein ABDELBAGI Ayii]<br>Sudan African National Union or SANU [Toby MADOUT]<br>Sudan People's Liberation Movement or SPLM [Salva KIIR Mayardit]<br>Sudan People’s Liberation Movement-In Opposition or SPLM-IO [Riek MACHAR Teny Dhurgon]<br>United Democratic Salvation Front or UDSF    <br>United South Sudan African Party or USSAP [Louis Pasquale ALEU, Secretary]<br>United South Sudan Party or USSP [Paulino LUKUDU Obede]</p><br>
+<p>Democratic Change or DC<br>Democratic Forum or DF<br>Labour Party or LPSS<br>South Sudan Opposition Alliance or SSOA<br>Sudan African National Union or SANU<br>Sudan People's Liberation Movement or SPLM<br>Sudan People’s Liberation Movement-In Opposition or SPLM-IO<br>United Democratic Salvation Front or UDSF    <br>United South Sudan African Party or USSAP<br>United South Sudan Party or USSP</p><br>
 
 **International organization participation**<br>
 AU, EAC, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, Interpol, IOM, IPU, ITU, MIGA, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WMO<br>
@@ -408,9 +408,10 @@ milk, cassava, sorghum, goat milk, vegetables, fruits, maize, groundnuts, sesame
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21% (2021 est.)<br>
-_male_: 21.8%<br>
-_female_: 20.2%<br>
+_total_: 18.3% (2023 est.)<br>
+_male_: 19.4% (2023 est.)<br>
+_female_: 17.2% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 82.3% (2016 est.)<br>
@@ -427,19 +428,14 @@ _highest 10%_: 33.1% (2016 est.)<br>
 **Remittances**<br>
 9.49% of GDP (2015 est.)<br>
 0.01% of GDP (2014 est.)<br>
-0% of GDP (2013 est.)<br>
-<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<strong>note:</strong> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.94 billion (2019 est.)<br>
 _expenditures_: $1.938 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--1.3% (of GDP) (FY2017/18 est.)<br>
-
 **Public debt**<br>
 62.7% of GDP (2017 est.)<br>
-86.6% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 8.5% (of GDP) (FY2017/18 est.)<br>

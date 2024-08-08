@@ -308,12 +308,12 @@ _etymology_: named in honor of Saint Joseph<br>
 **National holiday**<br>
 Independence Day, 15 September (1821)<br>
 
+**Legal system**<br>
+civil law system based on Spanish civil code; judicial review of legislative acts in the Supreme Court<br>
+
 **Constitution**<br>
 _history_: many previous; latest effective 8 November 1949<br>
 _amendments_: proposals require the signatures of at least 10 Legislative Assembly members or petition of at least 5% of qualified voters; consideration of proposals requires two-thirds majority approval in each of three readings by the Assembly, followed by preparation of the proposal as a legislative bill and its approval by simple majority of the Assembly; passage requires at least two-thirds majority vote of the Assembly membership; a referendum is required only if approved by at least two thirds of the Assembly; amended many times, last in 2020<br>
-
-**Legal system**<br>
-civil law system based on Spanish civil code; judicial review of legislative acts in the Supreme Court<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction<br>
@@ -489,13 +489,8 @@ _highest 10%_: 35.7% (2022 est.)<br>
 _revenues_: $9.664 billion (2019 est.)<br>
 _expenditures_: $14.001 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--6.1% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 71.11% of GDP (2022 est.)<br>
-48.9% of GDP (2017 est.)<br>
-44.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 14.35% (of GDP) (2022 est.)<br>

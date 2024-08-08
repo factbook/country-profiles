@@ -86,7 +86,7 @@ _adjective_: Irish<br>
 Irish 76.6%, Irish travelers 0.6%, other White 9.9%, Asian 3.3%, Black 1.5%, other (includes Arab, Roma, and persons of mixed backgrounds) 2%, unspecified 2.6% (2022 est.)<br>
 
 **Languages**<br>
-English (official, the language generally used), Irish (Gaelic or Gaeilge) (official, spoken by approximately 37.7% of the population as of 2022; mainly spoken in areas along Ireland's western coast known as gaeltachtai, which are officially recognized regions where Irish is the predominant language)<br>
+English (official, the language generally used), Irish (Gaelic or Gaeilge) (official, spoken by approximately 37.7% of the population)<br>
 
 **Religions**<br>
 Roman Catholic 69.2% (includes lapsed), Protestant 3.7% (Church of Ireland/England/Anglican/Episcopalian 2.5%, other Protestant 1.2%), Orthodox 2%, other Christian 0.9%, Muslim 1.6%, other 1.4%, agnostic/atheist 0.1%, none 14.5%, unspecified 6.7% (2022 est.)<br>
@@ -300,12 +300,12 @@ _etymology_: derived from Irish <em>dubh</em> and <em>lind</em> meaning respecti
 **National holiday**<br>
 Saint Patrick's Day, 17 March; note - marks the traditional death date of Saint Patrick, patron saint of Ireland, during the latter half of the fifth century A.D. (most commonly cited years are c. 461 and c. 493); although Saint Patrick's feast day was celebrated in Ireland as early as the ninth century, it only became an official public holiday in Ireland in 1903<br>
 
+**Legal system**<br>
+common law system based on the English model but substantially modified by customary law; judicial review of legislative acts by Supreme Court<br>
+
 **Constitution**<br>
 _history_: previous 1922; latest drafted 14 June 1937, adopted by plebiscite 1 July 1937, effective 29 December 1937<br>
 _amendments_: proposed as bills by Parliament; passage requires majority vote by both the Senate and House of Representatives, majority vote in a referendum, and presidential signature; amended many times, last in 2019<br>
-
-**Legal system**<br>
-common law system based on the English model but substantially modified by customary law; judicial review of legislative acts by Supreme Court<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -481,13 +481,8 @@ _highest 10%_: 24.8% (2021 est.)<br>
 _revenues_: $99.784 billion (2019 est.)<br>
 _expenditures_: $97.713 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--0.3% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 46.71% of GDP (2022 est.)<br>
-64.34% of GDP (2021 est.)<br>
-71.3% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

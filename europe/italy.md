@@ -310,12 +310,12 @@ _etymology_: by tradition, named after Romulus, one of the legendary founders of
 **National holiday**<br>
 Republic Day, 2 June (1946)<br>
 
+**Legal system**<br>
+civil law system; judicial review of legislation under certain conditions in Constitutional Court<br>
+
 **Constitution**<br>
 _history_: previous 1848 (originally for the Kingdom of Sardinia and adopted by the Kingdom of Italy in 1861); latest enacted 22 December 1947, adopted 27 December 1947, entered into force 1 January 1948<br>
 _amendments_: proposed by both houses of Parliament; passage requires two successive debates and approval by absolute majority of each house on the second vote; a referendum is only required when requested by one fifth of the members of either house, by voter petition, or by 5 Regional Councils (elected legislative assemblies of the 15 first-level administrative regions and 5 autonomous regions of Italy); referendum not required if an amendment has been approved by a two-thirds majority in each house in the second vote; amended many times, last in 2020; note - in June 2024, the Senate approved in its first vote an amendment calling for the direct election of the prime minister; subsequent votes by both the Senate and House of Deputies is required for passage; lacking approval by Parliament, approval is required by constitutional referendum<br>
-
-**Legal system**<br>
-civil law system; judicial review of legislation under certain conditions in Constitutional Court<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -493,12 +493,8 @@ _highest 10%_: 26.2% (2021 est.)<br>
 _revenues_: $901.494 billion (2020 est.)<br>
 _expenditures_: $1.08 trillion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--2.3% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 131.8% of GDP (2017 est.)<br>
-132% of GDP (2016 est.)<br>
 <strong>note:</strong> Italy reports its data on public debt according to guidelines set out in the Maastricht Treaty; general government gross debt is defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year, in the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); the general government sector comprises central, state, and local government and social security funds<br>
 
 **Taxes and other revenues**<br>

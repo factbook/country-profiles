@@ -261,12 +261,12 @@ none; there are no first-order administrative divisions as defined by the US Gov
 **National holiday**<br>
 National Day (Saint Rainier's Day), 19 November (1857)<br>
 
+**Legal system**<br>
+civil law system influenced by French legal tradition<br>
+
 **Constitution**<br>
 _history_: previous 1911 (suspended 1959); latest adopted 17 December 1962<br>
 _amendments_: proposed by joint agreement of the chief of state (the prince) and the National Council; passage requires two-thirds majority vote of National Council members; amended 2002<br>
-
-**Legal system**<br>
-civil law system influenced by French legal tradition<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -332,8 +332,6 @@ high-income European economy; non-EU euro user; considered a tax haven; tourism 
 
 **Real GDP (purchasing power parity)**<br>
 $7.672 billion (2015 est.)<br>
-$7.279 billion (2014 est.)<br>
-$6.79 billion (2013 est.)<br>
 <strong>note:</strong> data are in 2015 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -345,7 +343,6 @@ $6.79 billion (2013 est.)<br>
 **Real GDP per capita**<br>
 $115,700 (2015 est.)<br>
 $109,200 (2014 est.)<br>
-$101,900 (2013 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $8.784 billion (2022 est.)<br>
@@ -370,9 +367,6 @@ banking, insurance, tourism, construction, small-scale industrial and consumer p
 52,000 (2014 est.)<br>
 <strong>note:</strong> includes all foreign workers<br>
 
-**Unemployment rate**<br>
-2% (2012)<br>
-
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 26.6% (2016 est.)<br>
 _male_: 25.7%<br>
@@ -382,15 +376,8 @@ _female_: 27.9%<br>
 _revenues_: $896.3 million (2011 est.)<br>
 _expenditures_: $953.6 million (2011 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--1% (of GDP) (2011 est.)<br>
-
-**Taxes and other revenues**<br>
-14.9% (of GDP) (2011 est.)<br>
-
 **Exports**<br>
 $964.6 million (2017 est.)<br>
-$1.115 billion (2011)<br>
 <strong>note:</strong> full customs integration with France, which collects and rebates Monegasque trade duties; also participates in EU market system through customs union with France<br>
 
 **Exports - partners**<br>
@@ -401,7 +388,6 @@ jewelry, perfumes, watches, packaged medicines, cars (2021)<br>
 
 **Imports**<br>
 $1.371 billion (2017 est.)<br>
-$1.162 billion (2011 est.)<br>
 <strong>note:</strong> full customs integration with France, which collects and rebates Monegasque trade duties; also participates in EU market system through customs union with France<br>
 
 **Imports - partners**<br>

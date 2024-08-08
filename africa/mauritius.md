@@ -297,12 +297,12 @@ _etymology_: named after LOUIS XV, who was king of France in 1736 when the port 
 **National holiday**<br>
 Independence and Republic Day, 12 March (1968 & 1992); note - became independent and a republic on the same date in 1968 and 1992 respectively<br>
 
+**Legal system**<br>
+civil legal system based on French civil law with some elements of English common law<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted 12 March 1968<br>
 _amendments_: proposed by the National Assembly; passage of amendments affecting constitutional articles, including the sovereignty of the state, fundamental rights and freedoms, citizenship, or the branches of government, requires approval in a referendum by at least three-fourths majority of voters followed by a unanimous vote by the Assembly; passage of other amendments requires only two-thirds majority vote by the Assembly; amended many times, last in 2016<br>
-
-**Legal system**<br>
-civil legal system based on French civil law with some elements of English common law<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -470,13 +470,8 @@ _highest 10%_: 29.9% (2017 est.)<br>
 _revenues_: $2.461 billion (2020 est.)<br>
 _expenditures_: $3.675 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--0.3% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 57.96% of GDP (2019 est.)<br>
-55.38% of GDP (2018 est.)<br>
-56.16% of GDP (2017 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

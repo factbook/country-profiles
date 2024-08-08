@@ -293,11 +293,6 @@ blue with the flag of the UK in the upper hoist-side quadrant and the Montserrat
 **Economic overview**<br>
 formerly high-income economy; volcanic activity destroyed much of original infrastructure and economy; new capital and port is being developed; key geothermal and solar power generation; key music recording operations<br>
 
-**Real GDP per capita**<br>
-$34,000 (2011 est.)<br>
-$31,100 (2010 est.)<br>
-$32,300 (2009 est.)<br>
-
 **Inflation rate (consumer prices)**<br>
 1.2% (2017 est.)<br>
 -0.2% (2016 est.)<br>
@@ -328,12 +323,8 @@ tourism, rum, textiles, electronic appliances<br>
 **Industrial production growth rate**<br>
 -21% (2017 est.)<br>
 
-**Labor force**<br>
-4,521 (2012)<br>
-
 **Unemployment rate**<br>
 5.6% (2017 est.)<br>
-6% (1998 est.)<br>
 
 **Budget**<br>
 _revenues_: $66.67 million (2017 est.)<br>
@@ -378,11 +369,11 @@ $8.9 million (1997)<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
-2.7 (2017 est.)<br>
-2.7 (2016 est.)<br>
-2.7 (2015 est.)<br>
-2.7 (2014 est.)<br>
-2.7 (2013 est.)<br>
+2.7 (2023 est.)<br>
+2.7 (2022 est.)<br>
+2.7 (2021 est.)<br>
+2.7 (2020 est.)<br>
+2.7 (2019 est.)<br>
 
 ## Energy
 

@@ -191,11 +191,11 @@ none (overseas territory of the UK; also claimed by Argentina)<br>
 **National holiday**<br>
 Liberation Day, 14 June (1982)<br>
 
-**Constitution**<br>
-_history_: previous 1985; latest entered into force 1 January 2009 (The Falkland Islands Constitution Order 2008)<br>
-
 **Legal system**<br>
 English common law and local statutes<br>
+
+**Constitution**<br>
+_history_: previous 1985; latest entered into force 1 January 2009 (The Falkland Islands Constitution Order 2008)<br>
 
 **Citizenship**<br>
 see United Kingdom<br>
@@ -250,12 +250,10 @@ British South American territorial economy; longstanding fishing industry; surgi
 **Real GDP (purchasing power parity)**<br>
 $206.4 million (2015 est.)<br>
 $164.5 million (2014 est.)<br>
-$167.5 million (2013 est.)<br>
 
 **Real GDP growth rate**<br>
 25.5% (2015 est.)<br>
 -1.8% (2014 est.)<br>
--20.4% (2013 est.)<br>
 
 **Real GDP per capita**<br>
 $70,800 (2015 est.)<br>
@@ -291,9 +289,6 @@ fish and wool processing; tourism<br>
 _revenues_: $67.1 million (FY09/10)<br>
 _expenditures_: $75.3 million (FY09/10)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--4% (of GDP) (FY09/10)<br>
-
 **Public debt**<br>
 0% of GDP (2015 est.)<br>
 
@@ -322,11 +317,11 @@ $0 (2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Falkland pounds (FKP) per US dollar -<br>
-0.7836 (2017 est.)<br>
-0.6542 (2016 est.)<br>
-0.6542 (2015)<br>
-0.6542 (2014 est.)<br>
-0.6391 (2013 est.)<br>
+0.805 (2023 est.)<br>
+0.811 (2022 est.)<br>
+0.727 (2021)<br>
+0.78 (2020 est.)<br>
+0.783 (2019 est.)<br>
 
 ## Energy
 

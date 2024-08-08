@@ -320,13 +320,6 @@ tourism, light industry<br>
 0.46% (2021 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
-**Labor force**<br>
-23,200 (2008 est.)<br>
-
-**Unemployment rate**<br>
-12% (2012 est.)<br>
-10.6% (2008 est.)<br>
-
 **Remittances**<br>
 2.9% of GDP (2023 est.)<br>
 3.15% of GDP (2022 est.)<br>

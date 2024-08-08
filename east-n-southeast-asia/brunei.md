@@ -295,12 +295,12 @@ _etymology_: named in 1970 after Sultan Omar Ali SAIFUDDIEN III (1914-1986; "The
 **National holiday**<br>
 National Day, 23 February (1984); note - 1 January 1984 was the date of independence from the UK, 23 February 1984 was the date of independence from British protection; the Sultan's birthday, 15 June<br>
 
+**Legal system**<br>
+mixed legal system based on English common law and Islamic law; note - in April 2019, the full sharia penal codes came into force and apply to Muslims and partly to non-Muslims in parallel with present common law codes<br>
+
 **Constitution**<br>
 _history_: drafted 1954 to 1959, signed 29 September 1959; note - some constitutional provisions suspended since 1962 under a State of Emergency, others suspended since independence in 1984<br>
 _amendments_: proposed by the monarch; passage requires submission to the Privy Council for Legislative Council review and finalization takes place by proclamation; the monarch can accept or reject changes to the original proposal provided by the Legislative Council; amended several times, last in 2010<br>
-
-**Legal system**<br>
-mixed legal system based on English common law and Islamic law; note - in April 2019, the full sharia penal codes came into force and apply to Muslims and partly to non-Muslims in parallel with present common law codes<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICC<br>
@@ -448,12 +448,8 @@ _female_: 22.3% (2023 est.)<br>
 _revenues_: $1.058 billion (2020 est.)<br>
 _expenditures_: $3.189 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--17.3% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 2.8% of GDP (2017 est.)<br>
-3% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 18.5% (of GDP) (2017 est.)<br>

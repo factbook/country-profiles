@@ -246,12 +246,12 @@ none (overseas territory of the UK)<br>
 **National holiday**<br>
 Territory Day, 1 July (1956)<br>
 
+**Legal system**<br>
+English common law<br>
+
 **Constitution**<br>
 _history_: several previous; latest effective 15 June 2007 (The Virgin Islands Constitution Order 2007)<br>
 _amendments_: initiated by any elected member of the House of Assembly; passage requires simple majority vote by the elected members of the Assembly and assent by the governor on behalf of the monarch; amended 2015<br>
-
-**Legal system**<br>
-English common law<br>
 
 **Citizenship**<br>
 see United Kingdom<br>
@@ -351,9 +351,6 @@ tourism, light industry, construction, rum, concrete block, offshore banking cen
 **Budget**<br>
 _revenues_: $400 million (2017 est.)<br>
 _expenditures_: $400 million (2017 est.)<br>
-
-**Budget surplus (+) or deficit (-)**<br>
-0% (of GDP) (2017 est.)<br>
 
 **Taxes and other revenues**<br>
 38.9% (of GDP) (2017 est.)<br>

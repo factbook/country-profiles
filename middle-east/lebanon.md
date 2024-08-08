@@ -304,12 +304,12 @@ _etymology_: derived from the Canaanite or Phoenician word "ber'ot," meaning "th
 **National holiday**<br>
 Independence Day, 22 November (1943)<br>
 
+**Legal system**<br>
+mixed legal system of civil law based on the French civil code, Ottoman legal tradition, and religious laws covering personal status, marriage, divorce, and other family relations of the Jewish, Islamic, and Christian communities<br>
+
 **Constitution**<br>
 _history_: drafted 15 May 1926, adopted 23 May 1926<br>
 _amendments_: proposed by the president of the republic and introduced as a government bill to the National Assembly or proposed by at least 10 members of the Assembly and agreed upon by two thirds of its members; if proposed by the National Assembly, review and approval by two-thirds majority of the Cabinet is required; if approved, the proposal is next submitted to the Cabinet for drafting as an amendment; Cabinet approval requires at least two-thirds majority, followed by submission to the National Assembly for discussion and vote; passage requires at least two-thirds majority vote of a required two-thirds quorum of the Assembly membership and promulgation by the president; amended several times, last in 2004<br>
-
-**Legal system**<br>
-mixed legal system of civil law based on the French civil code, Ottoman legal tradition, and religious laws covering personal status, marriage, divorce, and other family relations of the Jewish, Islamic, and Christian communities<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -457,12 +457,6 @@ _male_: 24.6% (2023 est.)<br>
 _female_: 22% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-27.4% (2011 est.)<br>
-
-**Gini Index coefficient - distribution of family income**<br>
-31.8 (2011 est.)<br>
-
 **Average household expenditures**<br>
 _on food_: 21% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 1.1% of household expenditures (2021 est.)<br>
@@ -477,12 +471,8 @@ _on alcohol and tobacco_: 1.1% of household expenditures (2021 est.)<br>
 _revenues_: $11.061 billion (2019 est.)<br>
 _expenditures_: $16.574 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--6.9% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 146.8% of GDP (2017 est.)<br>
-145.5% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover central government debt and exclude debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment<br>
 
 **Taxes and other revenues**<br>
@@ -686,7 +676,7 @@ _IDPs_: 7,000 (2020)<br>
 _stateless persons_: undetermined (2016); note - tens of thousands of persons are stateless in Lebanon, including many Palestinian refugees and their descendants, Syrian Kurds denaturalized in Syria in 1962, children born to Lebanese women married to foreign or stateless men; most babies born to Syrian refugees, and Lebanese children whose births are unregistered<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; Lebanon does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials modestly increased investigations and continued to allow an NGO to screen migrants in the government detention center for trafficking; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; a caretaker government, judicial sector strike, and widespread civil service work stoppages limited Lebanon&rsquo;s ability to establish effective anti-trafficking policies and impacted anti-trafficking efforts; efforts to identify and protect trafficking victims remained woefully inadequate; officials relied on NGOs and civil society to provide shelter and services to victims and did not report providing financial or in-kind support to those organizations; the parliament did not approve a labor law amendment, pending since 2009, to extend legal protections to foreign workers, nor did it approve a draft standardized contract for migrant workers; the lack of formal victim identification and referral procedures placed victims at risk of arrest, detention, or deportation for committing unlawful acts while being trafficked; the government did not reform its visa sponsorship system despite extreme trafficking vulnerabilities inherent in the system; officials rarely convicted traffickers for exploiting domestic servants, the prevalent form of trafficking in Lebanon; therefore, Lebanon was downgraded to Tier 2 Watch List (2023)<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared to the previous reporting period, therefore Lebanon remained on Tier 2 Watch List for a second consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/lebanon/<br>
 
 **Illicit drugs**<br>
 <p>source country for amphetamine tablets destined for Saudi Arabia, Qatar, United Arab Emirates, Libya and Sudan; source for captagon    </p><br>

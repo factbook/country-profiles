@@ -92,8 +92,9 @@ _adjective_: Chilean<br>
 White and non-Indigenous 88.9%, Mapuche 9.1%, Aymara 0.7%, other Indigenous groups 1% (includes Rapa Nui, Likan Antai, Quechua, Colla, Diaguita, Kawesqar, Yagan or Yamana), unspecified 0.3% (2012 est.)<br>
 
 **Languages**<br>
-Spanish 99.5% (official), English 10.2%, Indigenous 1% (includes Mapudungun, Aymara, Quechua, Rapa Nui), other 2.3%, unspecified 0.2%; note - shares sum to more than 100% because some respondents gave more than one answer on the census (2012 est.)<br>
+Spanish 99.5% (official), English 10.2%, Indigenous 1% (includes Mapudungun, Aymara, Quechua, Rapa Nui), other 2.3%, unspecified 0.2%&nbsp; (2012 est.)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> shares sum to more than 100% because some respondents gave more than one answer on the census<br>
 
 **Religions**<br>
 Roman Catholic 42%, Evangelical 14%, other 6%, none 37% (2021 est.)<br>
@@ -313,12 +314,12 @@ _etymology_: Santiago is named after the biblical figure Saint James (ca. A.D. 3
 **National holiday**<br>
 Independence Day, 18 September (1810)<br>
 
+**Legal system**<br>
+civil law system influenced by several West European civil legal systems; judicial review of legislative acts by the Constitutional Tribunal<br>
+
 **Constitution**<br>
 _history_: many previous; latest adopted 11 September 1980, effective 11 March 1981; in September 2022 and again in December 2023, referendums presented for a new constitution were both defeated, and the September 1980 constitution remains in force<br>
 _amendments_: proposed by members of either house of the National Congress or by the president of the republic; passage requires at least four-sevenths majority vote of the membership in both houses and approval by the president; passage of amendments to constitutional articles, such as the republican form of government, basic rights and freedoms, the Constitutional Tribunal, electoral justice, the Council of National Security, or the constitutional amendment process, requires at least four-sevenths majority vote by both houses of Congress and approval by the president; the president can opt to hold a referendum when Congress and the president disagree on an amendment; amended many times, last in 2022<br>
-
-**Legal system**<br>
-civil law system influenced by several West European civil legal systems; judicial review of legislative acts by the Constitutional Tribunal<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -495,12 +496,8 @@ _highest 10%_: 34.5% (2022 est.)<br>
 _revenues_: $55.16 billion (2020 est.)<br>
 _expenditures_: $73.176 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--2.8% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 23.6% of GDP (2017 est.)<br>
-21% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 21.27% (of GDP) (2022 est.)<br>

@@ -312,12 +312,12 @@ _etymology_: the name derives from the Persian designation of the city "bad-kube
 **National holiday**<br>
 Republic Day (founding of the Democratic Republic of Azerbaijan), 28 May (1918)<br>
 
+**Legal system**<br>
+civil law system<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted 12 November 1995<br>
 _amendments_: proposed by the president of the republic or by at least 63 members of the National Assembly; passage requires at least 95 votes of Assembly members in two separate readings of the draft amendment six months apart and requires presidential approval after each of the two Assembly votes, followed by presidential signature; constitutional articles on the authority, sovereignty, and unity of the people cannot be amended; amended 2002, 2009, 2016<br>
-
-**Legal system**<br>
-civil law system<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -468,16 +468,9 @@ _female_: 15.3% (2023 est.)<br>
 **Population below poverty line**<br>
 4.9% (2015 est.)<br>
 
-**Gini Index coefficient - distribution of family income**<br>
-33.7 (2008)<br>
-
 **Average household expenditures**<br>
 _on food_: 43.6% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 2% of household expenditures (2021 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.4%<br>
-_highest 10%_: 27.4% (2008)<br>
 
 **Remittances**<br>
 3.87% of GDP (2023 est.)<br>
@@ -489,13 +482,8 @@ _highest 10%_: 27.4% (2008)<br>
 _revenues_: $19.95 billion (2019 est.)<br>
 _expenditures_: $16.001 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--1.6% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 16.82% of GDP (2021 est.)<br>
-22.19% of GDP (2020 est.)<br>
-54.1% of GDP (2017 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

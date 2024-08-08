@@ -336,12 +336,12 @@ American Samoa, Baker Island, Guam, Howland Island, Jarvis Island, Johnston Atol
 **National holiday**<br>
 Independence Day, 4 July (1776)<br>
 
+**Legal system**<br>
+common law system based on English common law at the federal level; state legal systems based on common law, except Louisiana, where state law is based on Napoleonic civil code; judicial review of legislative acts<br>
+
 **Constitution**<br>
 _history_: previous 1781 (Articles of Confederation and Perpetual Union); latest drafted July - September 1787, submitted to the Congress of the Confederation 20 September 1787, submitted for states' ratification 28 September 1787, ratification completed by nine of the 13 states 21 June 1788, effective 4 March 1789<br>
 _amendments_: proposed as a "joint resolution" by Congress, which requires a two-thirds majority vote in both the House of Representatives and the Senate or by a constitutional convention called for by at least two thirds of the state legislatures; passage requires ratification by three fourths of the state legislatures or passage in state-held constitutional conventions as specified by Congress; the US president has no role in the constitutional amendment process; amended many times, last in 1992<br>
-
-**Legal system**<br>
-common law system based on English common law at the federal level; state legal systems based on common law, except Louisiana, where state law is based on Napoleonic civil code; judicial review of legislative acts<br>
 
 **International law organization participation**<br>
 withdrew acceptance of compulsory ICJ jurisdiction in 2005; withdrew acceptance of ICCt jurisdiction in 2002<br>
@@ -476,9 +476,6 @@ _male_: 8.7% (2023 est.)<br>
 _female_: 7.1% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-15.1% (2010 est.)<br>
-
 **Gini Index coefficient - distribution of family income**<br>
 39.8 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
@@ -502,13 +499,8 @@ _highest 10%_: 30.1% (2021 est.)<br>
 _revenues_: $6.429 trillion (2019 est.)<br>
 _expenditures_: $7.647 trillion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--3.4% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 110.39% of GDP (2022 est.)<br>
-118.89% of GDP (2021 est.)<br>
-124.73% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
@@ -561,7 +553,7 @@ $19,452,478,000,000 (2018 est.)<br>
 <strong>note:</strong> approximately 4/5ths of US external debt is denominated in US dollars; foreign lenders have been willing to hold US dollar denominated debt instruments because they view the dollar as the world's reserve currency<br>
 
 **Exchange rates**<br>
-<strong>British pounds per US dollar: </strong>0.811 (2022 est.), 0.727 (2021 est.), 0.780 (2020 est.), 0.783 (2019 est), 0.750 (2018 est.)<br><strong>Canadian dollars per US dollar: </strong>1.302 (2022 est.), 1.254 (2021 est.), 1.341 (2020 est.), 1.327 (2019 est.), 1.296 (2018 est.)<br><strong>Chinese yuan per US dollar: </strong>6.737 (2022 est.), 6.449 (2021 est.), 6.901 (2020 est.), 6.908 (2019 est.), 6.616 (2018 est.)<br><strong>euros per US dollar: </strong>0.950 (2022 est.), 0.845 (2021 est.), 0.876 (2020 est.), 0.893 (2019 est.), 0.847 (2018 est.)<br><strong>Japanese yen per US dollar: </strong>131.50 (2022 est.), 109.75 (2021 est.), 106.78 (2020 est.), 109.01 (2019 est.), 110.42 (2018 est.)<br><br><strong>note 1: </strong>the following countries and territories use the US dollar officially as their legal tender: British Virgin Islands, Ecuador, El Salvador, Marshall Islands, Micronesia, Palau, Timor Leste, Turks and Caicos, and islands of the Caribbean Netherlands (Bonaire, Sint Eustatius, and Saba)<br><br><strong>note 2: </strong>the following countries and territories use the US dollar as official legal tender alongside local currency: Bahamas, Barbados, Belize, Costa Rica, and Panama<br><br><strong>note 3: </strong>the following countries and territories widely accept the US dollar as a dominant currency but have yet to declare it as legal tender: Bermuda, Burma, Cambodia, Cayman Islands, Honduras, Nicaragua, and Somalia<br>
+<strong>British pounds per US dollar: </strong>0.805 (2023 est.), 0.811 (2022 est.), 0.727 (2021 est.), 0.780 (2020 est.), 0.783 (2019 est.)<br><strong>Canadian dollars per US dollar: </strong>1.35 (2023 est.), 1.302 (2022 est.), 1.254 (2021 est.), 1.341 (2020 est.), 1.327 (2019 est.)<br><strong>Chinese yuan per US dollar: </strong>7.084 (2023 est.), 6.737 (2022 est.), 6.449 (2021 est.), 6.901 (2020 est.), 6.908 (2019 est.)<br><strong>euros per US dollar: </strong>0.925 (2023 est.), 0.950 (2022 est.), 0.845 (2021 est.), 0.876 (2020 est.), 0.893 (2019 est.)<br><strong>Japanese yen per US dollar: </strong>140.49 (2023 est.), 131.50 (2022 est.), 109.75 (2021 est.), 106.78 (2020 est.), 109.01 (2019 est.)<br><br><strong>note 1: </strong>the following countries and territories use the US dollar officially as their legal tender: British Virgin Islands, Ecuador, El Salvador, Marshall Islands, Micronesia, Palau, Timor Leste, Turks and Caicos, and islands of the Caribbean Netherlands (Bonaire, Sint Eustatius, and Saba)<br><br><strong>note 2: </strong>the following countries and territories use the US dollar as official legal tender alongside local currency: Bahamas, Barbados, Belize, Costa Rica, and Panama<br><br><strong>note 3: </strong>the following countries and territories widely accept the US dollar as a dominant currency but have yet to declare it as legal tender: Bermuda, Burma, Cambodia, Cayman Islands, Honduras, Nicaragua, and Somalia<br>
 
 ## Energy
 

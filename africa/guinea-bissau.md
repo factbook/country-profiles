@@ -305,12 +305,12 @@ _etymology_: the meaning of Bissau is uncertain, it might be an alternative name
 **National holiday**<br>
 Independence Day, 24 September (1973)<br>
 
+**Legal system**<br>
+mixed legal system of civil law, which incorporated Portuguese law at independence and influenced by Economic Community of West African States (ECOWAS), West African Economic and Monetary Union (UEMOA), African Francophone Public Law, and customary law<br>
+
 **Constitution**<br>
 _history_: promulgated 16 May 1984; note - constitution suspended following military coup April 2012, restored 2014; note - in May 2020, President EMBALO established a commission to draft a revised constitution<br>
 _amendments_: proposed by the National People&rsquo;s Assembly if supported by at least one third of its members, by the Council of State (a presidential consultant body), or by the government; passage requires approval by at least two-thirds majority vote of the Assembly; constitutional articles on the republican and secular form of government and national sovereignty cannot be amended; amended 1991, 1993, 1996<br>
-
-**Legal system**<br>
-mixed legal system of civil law, which incorporated Portuguese law at independence and influenced by Economic Community of West African States (ECOWAS), West African Economic and Monetary Union (UEMOA), African Francophone Public Law, and customary law<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction; non-party state to the ICCt<br>
@@ -348,7 +348,7 @@ African Party for the Independence of Guinea and Cabo Verde or PAIGC <br>Democr
 ACP, AfDB, AOSIS, AU, CPLP, ECOWAS, FAO, FZ, G-77, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: none; note - Guinea-Bissau does not have official representation in Washington, DC<br>
+none<br><br><strong>Note: </strong> Guinea-Bissau does not have official representation in Washington, DC<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Michael RAYNOR (since 20 April 2022)<br>
@@ -463,12 +463,8 @@ _highest 10%_: 26.1% (2021 est.)<br>
 _revenues_: $222 million (2019 est.)<br>
 _expenditures_: $278 million (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--1.3% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 53.9% of GDP (2017 est.)<br>
-57.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 9.16% (of GDP) (2019 est.)<br>
@@ -639,7 +635,7 @@ the FARP is focused on external security, but also has some internal security du
 _refugees (country of origin)_: 7,757 (Senegal) (2022)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 &mdash; update pending (2024)<br>
+_tier rating_: Tier 2 Watch List — The Government of Guinea-Bissau does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so, therefore Guinea-Bissau was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/guinea-bissau/<br>
 
 **Illicit drugs**<br>
 important transit country for South American cocaine en route to Europe; enabling environment for trafficker operations due to pervasive corruption; archipelago-like geography near the capital facilitates drug smuggling<br>

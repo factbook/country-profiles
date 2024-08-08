@@ -327,12 +327,12 @@ _etymology_: La Paz is a shortening of the original name of the city, Nuestra Se
 **National holiday**<br>
 Independence Day, 6 August (1825)<br>
 
+**Legal system**<br>
+civil law system with influences from Roman, Spanish, canon (religious), French, and indigenous law<br>
+
 **Constitution**<br>
 _history_: many previous; latest drafted 6 August 2006 to 9 December 2008, approved by referendum 25 January 2009, effective 7 February 2009<br>
 _amendments_: proposed through public petition by at least 20% of voters or by the Plurinational Legislative Assembly; passage requires approval by at least two-thirds majority vote of the total membership of the Assembly and approval in a referendum; amended 2013<br>
-
-**Legal system**<br>
-civil law system with influences from Roman, Spanish, canon (religious), French, and indigenous law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -510,12 +510,8 @@ _highest 10%_: 30.3% (2021 est.)<br>
 _revenues_: $11.796 billion (2019 est.)<br>
 _expenditures_: $14.75 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--7.8% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 49% of GDP (2017 est.)<br>
-44.9% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt and includes debt instruments issued by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities<br>
 
 **Taxes and other revenues**<br>

@@ -308,12 +308,12 @@ _etymology_: original site settled by freed slaves and the name means "free town
 **National holiday**<br>
 Independence Day, 17 August (1960)<br>
 
+**Legal system**<br>
+mixed legal system of French civil law and customary law<br>
+
 **Constitution**<br>
 _history_: previous 1961; latest drafted May 1990, adopted 15 March 1991, promulgated 26 March 1991<br>
 _amendments_: proposed by the president of the republic, by the Council of Ministers, or by one third of either house of Parliament; passage requires Constitutional Court evaluation, at least two-thirds majority vote of two thirds of the Parliament membership convened in joint session, and approval in a referendum; constitutional articles on Gabon&rsquo;s democratic form of government cannot be amended; amended several times, last in 2023 (presidential term reduced to 5 years and election reduced to a single vote)<br>
-
-**Legal system**<br>
-mixed legal system of French civil law and customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -345,7 +345,7 @@ _judge selection and term of office_: appointment and tenure of Supreme, Adminis
 _subordinate courts_: Courts of Appeal; county courts; military courts<br>
 
 **Political parties**<br>
-Gabonese Democratic Party or PDG <br>Restoration of Republican Values or RV<br>The Democrats or LD <br>
+Gabonese Democratic Party or PDG <br>Restoration of Republican Values or RV<br>The Democrats or LD<br>
 Paul Mba Abessole<br>
 
 **International organization participation**<br>
@@ -484,12 +484,8 @@ _highest 10%_: 27.7% (2017 est.)<br>
 _revenues_: $3.296 billion (2019 est.)<br>
 _expenditures_: $2.937 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--1.9% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 62.7% of GDP (2017 est.)<br>
-64.2% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 9.13% (of GDP) (2021 est.)<br>
@@ -694,5 +690,5 @@ has a small space program focused on the acquisition, processing, analysis, and 
 ## Transnational Issues
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; Gabon does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials increased funding and capacity at an NGO-run shelter for victims, and also increased prosecutions and convictions of alleged traffickers; however, the government did not demonstrate overall increasing efforts, compared to the previous year, to expand its anti-trafficking capacity; authorities did not report any referrals of victims to services and did not report efforts to identify, protect, or provide justice for adult victims&mdash;potential efforts that have been inadequate for several years; for the fourth consecutive year, the government did not adopt its anti-trafficking National Action Plan and lacked inter-ministerial coordination; officials did not report investigating allegations of judicial corruption related to trafficking crimes; therefore, Gabon remained on Tier 2 Watch List for the second consecutive year (2023)<br>
+_tier rating_: Tier 2 Watch List — Gabon does not fully meet the minimum standards for the elimination of trafficking, but the government has devoted sufficient resources to a written plan that, if implemented, would constitute significant efforts to meet the minimum standards; therefore, Gabon was granted a waiver per the Trafficking Victims Protection Act from an otherwise required downgrade to Tier 3 and remained on Tier 2 Watch List for the third consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/gabon/<br>
 

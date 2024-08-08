@@ -92,8 +92,9 @@ Serb 83.3%, Hungarian 3.5%, Romani 2.1%, Bosniak 2%, other 5.7%, undeclared or u
 <strong>note:</strong> most ethnic Albanians boycotted the 2011 census; Romani populations are usually underestimated in official statistics and may represent 5–11% of Serbia's population<br>
 
 **Languages**<br>
-Serbian (official) 88.1%, Hungarian 3.4%, Bosnian 1.9%, Romani 1.4%, other 3.4%, undeclared or unknown 1.8%; note - Serbian, Hungarian, Slovak, Romanian, Croatian, and Ruthenian (Rusyn) are official in the Autonomous Province of Vojvodina; most ethnic Albanians boycotted the 2011 census (2011 est.)<br>
+Serbian (official) 88.1%, Hungarian 3.4%, Bosnian 1.9%, Romani 1.4%, other 3.4%, undeclared or unknown 1.8% (2011 est.)<br>
 _major-language sample(s)_: <br>Knjiga svetskih činjenica, neophodan izvor osnovnih informacija. (Serbian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> Serbian, Hungarian, Slovak, Romanian, Croatian, and Ruthenian (Rusyn) are official in the Autonomous Province of Vojvodina; most ethnic Albanians boycotted the 2011 census<br>
 
 **Religions**<br>
 Orthodox 84.6%, Catholic 5%, Muslim 3.1%, Protestant 1%, atheist 1.1%, other 0.8% (includes agnostics, other Christians, Eastern, Jewish), undeclared or unknown 4.5% (2011 est.)<br>
@@ -329,12 +330,12 @@ _etymology_: the Serbian "Beograd" means "white fortress" or "white city" and da
 **National holiday**<br>
 Statehood Day, 15 February (1835), the day the first constitution of the country was adopted<br>
 
+**Legal system**<br>
+civil law system<br>
+
 **Constitution**<br>
 _history_: many previous; latest adopted 30 September 2006, approved by referendum 28-29 October 2006, effective 8 November 2006<br>
 _amendments_: proposed by at least one third of deputies in the National Assembly, by the president of the republic, by the government, or by petition of at least 150,000 voters; passage of proposals and draft amendments each requires at least two-thirds majority vote in the Assembly; amendments to constitutional articles including the preamble, constitutional principles, and human and minority rights and freedoms also require passage by simple majority vote in a referendum<br>
-
-**Legal system**<br>
-civil law system<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -511,12 +512,8 @@ _revenues_: $21.858 billion (2020 est.)<br>
 _expenditures_: $25.72 billion (2020 est.)<br>
 <strong>note:</strong> data include both central government and local goverment budgets<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-0.2% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 62.5% of GDP (2017 est.)<br>
-73.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 25.11% (of GDP) (2022 est.)<br>

@@ -202,12 +202,12 @@ _time zone note_: the 27 European Union member states spread across three time z
 **National holiday**<br>
 Europe Day (also known as Schuman Day), 9 May (1950); note - the day in 1950 that Robert SCHUMAN proposed the creation of what became the European Coal and Steel Community, the progenitor of today's European Union, with the aim of achieving a united Europe<br>
 
+**Legal system**<br>
+unique supranational system of laws in which, according to an interpretive declaration of member-state governments appended to the Treaty of Lisbon, "the Treaties and the law adopted by the Union on the basis of the Treaties have primacy over the law of Member States" under conditions laid down in the case law of the Court of Justice; key principles of EU jurisprudence include universal rights as guaranteed by the Charter of Fundamental Rights and as resulting from constitutional traditions common to the EU's 27 member states; EU law is divided into 'primary' and 'secondary' legislation; primary legislation is derived from the consolidated versions of the Treaty on European Union and the Treaty on the Functioning of the European Union and are the basis for all EU action; secondary legislation - which includes directives, regulations, and decisions - is derived from the principles and objectives set out in the treaties<br>
+
 **Constitution**<br>
 _history_: none; note - the EU legal order relies primarily on two consolidated texts encompassing all provisions as amended from a series of past treaties: the Treaty on European Union (TEU) and the Treaty on the Functioning of the EU (TFEU); The TEU as modified by the 2009 Lisbon Treaty states in Article 1 that "the HIGH CONTRACTING PARTIES establish among themselves a EUROPEAN UNION ... on which the Member States confer competences to attain objectives they have in common"; Article 1 of the TEU states further that the EU is "founded on the present Treaty and on the Treaty on the Functioning of the European Union (hereinafter referred to as 'the Treaties')," both possessing the same legal value; Article 6 of the TEU provides that a separately adopted Charter of Fundamental Rights of the European Union "shall have the same legal value as the Treaties"<br>
 _amendments_: European Union treaties can be amended in several ways: 1) Ordinary Revision Procedure (for key amendments to the treaties); initiated by an EU member state, by the European Parliament, or by the European Commission; following adoption of the proposal by the European Council, a convention is formed of national government representatives to review the proposal and a conference of government representatives&nbsp; subsequently reviews the proposal; passage requires ratification by all EU member states; 2) Simplified Revision Procedure (for amendment of EU internal policies and actions); passage of a proposal requires unanimous European Council vote following European Council consultation with the European Commission, the European Parliament, and the European Central Bank (if the amendment concerns monetary matters) and requires ratification by all EU member states; 3) Passerelle Clause (allows the alteration of a legislative procedure without a formal amendment of the treaties); 4) Flexibility Clause (permits the EU to decide in subject areas where EU competences have not been explicitly granted in the Treaties but are necessary to the attainment of the objectives set out in the Treaty); note - the Treaty of Lisbon (signed in December 2007 and effective in December 2009) amended the two treaties that formed the EU - the Maastricht Treaty (1992), also known as the TEU,&nbsp; and the Treaty of Rome (1957), known in updated form as the TFEU<br>
-
-**Legal system**<br>
-unique supranational system of laws in which, according to an interpretive declaration of member-state governments appended to the Treaty of Lisbon, "the Treaties and the law adopted by the Union on the basis of the Treaties have primacy over the law of Member States" under conditions laid down in the case law of the Court of Justice; key principles of EU jurisprudence include universal rights as guaranteed by the Charter of Fundamental Rights and as resulting from constitutional traditions common to the EU's 27 member states; EU law is divided into 'primary' and 'secondary' legislation; primary legislation is derived from the consolidated versions of the Treaty on European Union and the Treaty on the Functioning of the European Union and are the basis for all EU action; secondary legislation - which includes directives, regulations, and decisions - is derived from the principles and objectives set out in the treaties<br>
 
 **Suffrage**<br>
 18 years of age (16 years in Austria); universal; voting for the European Parliament is permitted in each member state<br>
@@ -233,7 +233,7 @@ European United Left-Nordic Green Left or GUE/NGL <br>European Conservatives an
 ARF, ASEAN (dialogue member), Australian Group, BIS, BSEC (observer), CBSS, CERN, EBRD, FAO, FATF, G-7, G-10, G-20, IDA, IEA, IGAD (partners), LAIA (observer), NSG (observer), OAS (observer), OECD, PIF (partner), SAARC (observer), SICA (observer), UN (observer), UNRWA (observer), WCO, WTO, ZC (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Jovita NELIUP&Scaron;IENĖ (since 27 February 2024)<br>
+_chief of mission_: Ambassador Jovita NELIUP&Scaron;IENĖ, Head of Delegation (since 27 February 2024)<br>
 _chancery_: 2175 K Street NW, Washington, DC 20037<br>
 _telephone_: [1] (202) 862-9500<br>
 _FAX_: [1] (202) 429-1766<br>
@@ -333,10 +333,6 @@ _male_: 16.4% (2023 est.)<br>
 _female_: 16% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-9.8% (2013 est.)<br>
-<strong>note:</strong> see individual country entries of member states<br>
-
 **Gini Index coefficient - distribution of family income**<br>
 30.8 (2016 est.)<br>
 
@@ -350,12 +346,8 @@ _highest 10%_: 23.8% (2016 est.)<br>
 0.77% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--3% (of GDP) (2014)<br>
-
 **Public debt**<br>
 86.8% of GDP (2014)<br>
-85.5% of GDP (2013)<br>
 
 **Taxes and other revenues**<br>
 19.94% (of GDP) (2022 est.)<br>
@@ -395,7 +387,6 @@ natural gas, crude petroleum, cars, refined petroleum, garments (2022)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $740.9 billion (31 December 2014 est.)<br>
-$746.9 billion (31 December 2013)<br>
 <strong>note:</strong> data are for the European Central Bank<br>
 
 **Debt - external**<br>

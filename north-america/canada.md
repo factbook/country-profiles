@@ -329,12 +329,12 @@ _etymology_: the city lies on the south bank of the Ottawa River, from which it 
 **National holiday**<br>
 Canada Day, 1 July (1867)<br>
 
+**Legal system**<br>
+common law system except in Quebec, where civil law based on the French civil code prevails<br>
+
 **Constitution**<br>
 _history_: consists of unwritten and written acts, customs, judicial decisions, and traditions dating from 1763; the written part of the constitution consists of the Constitution Act of 29 March 1867, which created a federation of four provinces, and the Constitution Act of 17 April 1982<br>
 _amendments_: proposed by either house of Parliament or by the provincial legislative assemblies; there are 5 methods for passage though most require approval by both houses of Parliament, approval of at least two thirds of the provincial legislative assemblies and assent and formalization as a proclamation by the governor general in council; the most restrictive method is reserved for amendments affecting fundamental sections of the constitution, such as the office of the monarch or the governor general, and the constitutional amendment procedures, which require unanimous approval by both houses and by all the provincial assemblies, and assent of the governor general in council; amended 11 times, last in 2011 (Fair Representation Act, 2011)<br>
-
-**Legal system**<br>
-common law system except in Quebec, where civil law based on the French civil code prevails<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -484,10 +484,6 @@ _male_: 11.4% (2023 est.)<br>
 _female_: 9.8% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-9.4% (2008 est.)<br>
-<strong>note:</strong> this figure is the Low Income Cut-Off, a calculation that results in higher figures than found in many comparable economies; Canada does not have an official poverty line<br>
-
 **Gini Index coefficient - distribution of family income**<br>
 31.7 (2019 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
@@ -511,13 +507,8 @@ _highest 10%_: 24.4% (2019 est.)<br>
 _revenues_: $686.718 billion (2020 est.)<br>
 _expenditures_: $861.955 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--1% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 61.42% of GDP (2022 est.)<br>
-71.07% of GDP (2021 est.)<br>
-74.55% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

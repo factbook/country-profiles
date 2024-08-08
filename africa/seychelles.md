@@ -291,12 +291,12 @@ _etymology_: founded as L'etablissement in 1778 by French colonists, the town wa
 **National holiday**<br>
 Constitution Day, 18 June (1993); Independence Day (National Day), 29 June (1976)<br>
 
+**Legal system**<br>
+mixed legal system of English common law, French civil law, and customary law<br>
+
 **Constitution**<br>
 _history_: previous 1970, 1979; latest drafted May 1993, approved by referendum 18 June 1993, effective 23 June 1993<br>
 _amendments_: proposed by the National Assembly; passage requires at least two-thirds majority vote by the National Assembly; passage of amendments affecting the country&rsquo;s sovereignty, symbols and languages, the supremacy of the constitution, fundamental rights and freedoms, amendment procedures, and dissolution of the Assembly also requires approval by at least 60% of voters in a referendum; amended several times, last in 2018<br>
-
-**Legal system**<br>
-mixed legal system of English common law, French civil law, and customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -457,13 +457,8 @@ _highest 10%_: 23.9% (2018 est.)<br>
 _revenues_: $601 million (2019 est.)<br>
 _expenditures_: $586 million (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--0.5% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 63.6% of GDP (2017 est.)<br>
-69.1% of GDP (2016 est.)<br>
-60.91% of GDP (2015 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

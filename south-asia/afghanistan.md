@@ -329,11 +329,11 @@ _etymology_: named for the Kabul River, but the river's name is of unknown origi
 **National holiday**<br>
 previous: Independence Day, 19 August (1919); under the Taliban Government, 15 August (2022) is declared a national holiday, marking the anniversary of the victory of the Afghan jihad<br><br><br>
 
-**Constitution**<br>
-_history_: several previous; latest ratified in 2004, but not currently enforced by the Taliban<br>
-
 **Legal system**<br>
 <p>the Taliban is implementing its own interpretation of Islamic law, which is partially based on the Hanifi school of Islamic jurisprudence and have enforced strict punishments; before the Taliban takeover, Afghanistan had a mixed legal system of civil, customary, and Islamic law</p> (2021)<br>
+
+**Constitution**<br>
+_history_: several previous; latest ratified in 2004, but not currently enforced by the Taliban<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; formerly accepted ICCt jurisdiction<br>
@@ -368,7 +368,7 @@ the Taliban Government enforces an authoritarian state and has banned other poli
 Afghanistan is a member of the following organizations but Taliban representatives do not participate: ADB, CICA, CP, ECO, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, OSCE (partner), SAARC, SACEP, SCO (dialogue member), UN, UNAMA, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: none; note - the Afghan Embassy closed in March 2022<br>
+none<strong><br><br>Note</strong>:  the Afghan Embassy closed in March 2022<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: the United States does not maintain a presence in Afghanistan and its diplomatic mission to Afghanistan has relocated to Doha, Qatar<br>
@@ -468,13 +468,6 @@ _female_: 30.4% (2023 est.)<br>
 54.5% (2016 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
-**Gini Index coefficient - distribution of family income**<br>
-29.4 (2008)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.8%<br>
-_highest 10%_: 24% (2008)<br>
-
 **Remittances**<br>
 2.55% of GDP (2022 est.)<br>
 2.24% of GDP (2021 est.)<br>
@@ -485,12 +478,8 @@ _highest 10%_: 24% (2008)<br>
 _revenues_: $5.093 billion (2019 est.)<br>
 _expenditures_: $5.293 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--15.1% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 7% of GDP (2017 est.)<br>
-7.8% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 9.9% (of GDP) (2017 est.)<br>
@@ -676,7 +665,7 @@ the Taliban&rsquo;s primary security threats include ISIS-Khorasan and anti-Tali
 
 **Terrorist group(s)**<br>
 Haqqani Taliban Network; Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Islamic Jihad Union; Islamic Movement of Uzbekistan; Islamic State of Iraq and ash-Sham-Khorasan Province (ISIS-K); Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Jaish-e-Mohammed; Jaysh al Adl (Jundallah); Lashkar i Jhangvi; Lashkar-e Tayyiba; al-Qa’ida; al-Qa'ida in the Indian Subcontinent (AQIS); Tehrik-e-Taliban Pakistan (TTP)<br>
-<strong><strong>note 1:  </strong></strong>as of mid-2022, TTP was reportedly the largest component of foreign terrorist fighters in Afghanistan, with an estimated 3-4,000 armed fighters operating primarily along the Afghanistan-Pakistan border<strong><strong><br></strong></strong><strong><br>note 2:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
+<strong><strong>note 1:  </strong></strong>as of 2024, Afghanistan was assessed to be a place of global significance for terrorism, with approximately 20 designated and non-designated terrorist groups operating in the country<strong><strong><br></strong></strong><strong><br>note 2:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

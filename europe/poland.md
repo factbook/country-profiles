@@ -96,11 +96,12 @@ Polish 96.9%, Silesian 1.1%, German 0.2%, Ukrainian 0.1%, other and unspecified 
 <strong>note:</strong> represents ethnicity declared first<br>
 
 **Languages**<br>
-Polish (official) 98.2%, Silesian 1.4%, other 1.1%, unspecified 1.2%; note - data represent the language spoken at home; shares sum to more than 100% because some respondents gave more than one answer on the census; Poland ratified the European Charter for Regional or Minority Languages in 2009 recognizing Kashub as a regional language, Czech, Hebrew, Yiddish, Belarusian, Lithuanian, German, Armenian, Russian, Slovak, and Ukrainian as national minority languages, and Karaim, Lemko, Romani (Polska Roma and Bergitka Roma), and Tatar as ethnic minority languages (2011 est.)<br>
+Polish (official) 98.2%, Silesian 1.4%, other 1.1%, unspecified 1.2% (2011 est.)<br>
 _major-language sample(s)_: <br>Księga Faktów Świata, niezbędne źródło podstawowych informacji. (Polish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note 1: </strong>shares of languages sum to more than 100% because some respondents gave more than one answer on the census; data represent language spoken at home<br><br><strong>note 2:</strong> Poland also recognizes Kashub as a regional language; Czech, Hebrew, Yiddish, Belarusian, Lithuanian, German, Armenian, Russian, Slovak, and Ukrainian as national minority languages; and Karaim, Lemko, Romani (Polska Roma and Bergitka Roma), and Tatar as ethnic minority languages<br>
 
 **Religions**<br>
-Catholic 84.6% (Roman Catholic 84.6% and other Catholic 0.3%), Orthodox 1.3% (almost all are Polish Autocephalous Orthodox), Protestant 0.4% (mainly Augsburg Evangelical and Pentecostal), other 0.3% (includes Jehovah's Witness, Buddhist, Hare Krishna, Gaudiya Vaishnavism, Muslim, Jewish, Church of Jesus Christ), unspecified 13% (2022 est.)<br>
+Catholic 84.6% (Roman Catholic 84.6% and other Catholic 0.3%), Orthodox 1.3% (almost all are Polish Autocephalous Orthodox), Protestant 0.4% (mainly Augsburg Evangelical and Pentecostal), other 0.3%, unspecified 13% (2022 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 14.2% (male 2,830,048/female 2,676,300)<br>
@@ -323,12 +324,12 @@ _etymology_: the origin of the name is unknown; the Polish designation "Warszawa
 **National holiday**<br>
 Constitution Day, 3 May (1791)<br>
 
+**Legal system**<br>
+civil law system; judicial review of legislative, administrative, and other governmental acts; constitutional law rulings of the Constitutional Tribunal are final<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted 2 April 1997, approved by referendum 25 May 1997, effective 17 October 1997<br>
 _amendments_: proposed by at least one fifth of Sejm deputies, by the Senate, or by the president of the republic; passage requires at least two-thirds majority vote in the Sejm and absolute majority vote in the Senate; amendments to articles relating to sovereignty, personal freedoms, and constitutional amendment procedures also require passage by majority vote in a referendum; amended 2006, 2009<br>
-
-**Legal system**<br>
-civil law system; judicial review of legislative, administrative, and other governmental acts; constitutional law rulings of the Constitutional Tribunal are final<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -505,12 +506,8 @@ _highest 10%_: 22.8% (2021 est.)<br>
 _revenues_: $244.485 billion (2019 est.)<br>
 _expenditures_: $248.868 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--1.7% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 50.6% of GDP (2017 est.)<br>
-54.2% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities, the data include subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>

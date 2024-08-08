@@ -278,12 +278,12 @@ _etymology_: named after Saint John the Apostle<br>
 **National holiday**<br>
 Independence Day, 1 November (1981)<br>
 
+**Legal system**<br>
+common law based on the English model<br>
+
 **Constitution**<br>
 _history_: several previous; latest presented 31 July 1981, effective 31 October 1981 (The Antigua and Barbuda Constitution Order 1981)<br>
 _amendments_: proposed by either house of Parliament; passage of amendments to constitutional sections such as citizenship, fundamental rights and freedoms, the establishment, power, and authority of the executive and legislative branches, the Supreme Court Order, and the procedure for amending the constitution requires approval by at least two-thirds majority vote of the membership of both houses, approval by at least two-thirds majority in a referendum, and assent to by the governor general; passage of other amendments requires only two-thirds majority vote by both houses; amended 2009, 2011, 2018<br>
-
-**Legal system**<br>
-common law based on the English model<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -415,12 +415,8 @@ tourism, construction, light manufacturing (clothing, alcohol, household applian
 _revenues_: $278 million (2020 est.)<br>
 _expenditures_: $357 million (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--2.4% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 86.8% of GDP (2017 est.)<br>
-86.2% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 19.6% (of GDP) (2017 est.)<br>

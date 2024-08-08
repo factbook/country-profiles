@@ -303,12 +303,12 @@ _etymology_: the name means "smoky bay" in Icelandic and refers to the steamy, s
 **National holiday**<br>
 Independence Day, 17 June (1944)<br>
 
+**Legal system**<br>
+civil law system influenced by the Danish model<br>
+
 **Constitution**<br>
 _history_: several previous; latest ratified 16 June 1944, effective 17 June 1944 (at independence)<br>
 _amendments_: proposed by the Althingi; passage requires approval by the Althingi and by the next elected Althingi, and confirmation by the president of the republic; proposed amendments to Article 62 of the constitution &ndash; that the Evangelical Lutheran Church shall be the state church of Iceland &ndash; also require passage by referendum; amended many times, last in 2013<br>
-
-**Legal system**<br>
-civil law system influenced by the Danish model<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -324,11 +324,10 @@ _residency requirement for naturalization_: 3 to 7 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Gudni Thorlacius JOHANNESSON (since 1 August 2016)<br>
-_head of government_: Prime Minister Bjarni BENEDIKTSSON (since 9 April 2024)<br>
+_head of government_: Prime Minister Halla TOMASDOTTIR (since 1 August 2024)<br>
 _cabinet_: Cabinet appointed by the president upon the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 4-year term (no term limits); election last held on 1 June 2024 (next to be held in June 2028); following legislative elections, the leader of the majority party or majority coalition becomes prime minister<br>
-_election results_: <em>2024:</em> percent of vote - Halla TOMASDOTTIR (independent) 34.1%, Katrin JAKOBSDOTTIR (Left-Green Movement) 25.2%, Halla Hrund LOGADOTTIR (independent) 15.7%, Jon GNARR (Social Democratic Alliance) 10.1%, Baldur PORHALLSSON (independent) 8.4%, other 6.5%<em><br><br>2020: </em>Gudni Thorlacius JOHANNESSON reelected president; percent of vote - Gudni Thorlacius JOHANNESSON (independent) 92.2%, Gudmundur Franklin JONSSON (independent) 7.8%<br><br><em>2016: </em>Gudni Thorlacius JOHANNESSON elected president; Gudni Thorlacius JOHANNESSON (independent) 39.1%, Halla TOMASDOTTIR (independent) 27.9%, Andri Snær MAGNASON (Democracy Movement) 14.3%, David ODDSSON (independent) 13.7%, other 5%<br>
-<strong>note:</strong> Prime Minister Katrin JAKOBSDOTTIR resigned on 5 April 2024 in order to be a candidate in the 1 June 2024 presidential election<br><br><strong>note:  </strong>Halla TOMASDOTTIR was elected president on 1 June 2024 and will take office 1 August 2024<br>
+_election results_: <em><br>2024:</em> percent of vote - Halla TOMASDOTTIR (independent) 34.1%, Katrin JAKOBSDOTTIR (Left-Green Movement) 25.2%, Halla Hrund LOGADOTTIR (independent) 15.7%, Jon GNARR (Social Democratic Alliance) 10.1%, Baldur PORHALLSSON (independent) 8.4%, other 6.5%<em><br><br>2020: </em>Gudni Thorlacius JOHANNESSON reelected president; percent of vote - Gudni Thorlacius JOHANNESSON (independent) 92.2%, Gudmundur Franklin JONSSON (independent) 7.8%<br><br><em>2016: </em>Gudni Thorlacius JOHANNESSON elected president; Gudni Thorlacius JOHANNESSON (independent) 39.1%, Halla TOMASDOTTIR (independent) 27.9%, Andri Snær MAGNASON (Democracy Movement) 14.3%, David ODDSSON (independent) 13.7%, other 5%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Althingi or Parliament (63 seats; members directly elected in multi-seat constituencies by closed-list proportional representation vote using the D'Hondt method; members serve 4-year terms)<br>
@@ -478,13 +477,8 @@ _highest 10%_: 22.1% (2017 est.)<br>
 _revenues_: $11.776 billion (2018 est.)<br>
 _expenditures_: $11.536 billion (2018 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-1.5% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 86.5% of GDP (2022 est.)<br>
-95.92% of GDP (2021 est.)<br>
-100.32% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

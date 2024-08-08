@@ -99,7 +99,7 @@ Arab 75-80%, Kurdish 15-20%, other 5% (includes Turkmen, Yezidi, Shabak, Kaka'i,
 <strong>note:</strong> data is a 1987 government estimate; no more recent reliable numbers are available<br>
 
 **Languages**<br>
-Arabic (official), Kurdish (official); Turkmen (a Turkish dialect) and Syriac (Neo-Aramaic) are recognized as official languages where native speakers of these languages are present; Iraqis have the right to be educated in their native language<br>
+Arabic (official), Kurdish (official); Turkmen (a Turkish dialect) and Syriac (Neo-Aramaic) are recognized as official languages where native speakers of these languages are present<br>
 _major-language sample(s)_: <br>كتاب حقائق العالم، أحسن مصدر للمعلومات الأساسية (Arabic)<br><br>ڕاستییەکانی جیهان، باشترین سەرچاوەیە بۆ زانیارییە بنەڕەتییەکان (Kurdish)<br> <p>The World Factbook, the indispensable source for basic information.</p><br>
 
 **Religions**<br>
@@ -326,12 +326,12 @@ _etymology_: although the origin of the name is disputed, it likely has compound
 **National holiday**<br>
 Independence Day, 3 October (1932); Republic Day, 14 July (1958)<br>
 
+**Legal system**<br>
+mixed legal system of civil and Islamic law<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted by referendum 15 October 2005<br>
 _amendments_: proposed by the president of the republic and the Council of Minsters collectively, or by one fifth of the Council of Representatives members; passage requires at least two-thirds majority vote by the Council of Representatives, approval by referendum, and ratification by the president; passage of amendments to articles on citizen rights and liberties requires two-thirds majority vote of Council of Representatives members after two successive electoral terms, approval in a referendum, and ratification by the president<br>
-
-**Legal system**<br>
-mixed legal system of civil and Islamic law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -481,16 +481,9 @@ _female_: 62% (2023 est.)<br>
 **Population below poverty line**<br>
 23% (2014 est.)<br>
 
-**Gini Index coefficient - distribution of family income**<br>
-29.5 (2012 est.)<br>
-
 **Average household expenditures**<br>
 _on food_: 29.6% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 4.2% of household expenditures (2021 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.6%<br>
-_highest 10%_: 25.7% (2007 est.)<br>
 
 **Remittances**<br>
 0.35% of GDP (2023 est.)<br>
@@ -502,13 +495,8 @@ _highest 10%_: 25.7% (2007 est.)<br>
 _revenues_: $51.534 billion (2020 est.)<br>
 _expenditures_: $85.546 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--4.2% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 27.44% of GDP (2018 est.)<br>
-35.86% of GDP (2017 est.)<br>
-29.48% of GDP (2016 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

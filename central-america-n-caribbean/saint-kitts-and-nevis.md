@@ -282,12 +282,12 @@ _etymology_: the French name translates as "low land" in English; the reference 
 **National holiday**<br>
 Independence Day, 19 September (1983)<br>
 
+**Legal system**<br>
+English common law<br>
+
 **Constitution**<br>
 _history_: several previous (preindependence); latest presented 22 June 1983, effective 23 June 1983<br>
 _amendments_: proposed by the National Assembly; passage requires approval by at least two-thirds majority vote of the total Assembly membership and assent of the governor general; amendments to constitutional provisions such as the sovereignty of the federation, fundamental rights and freedoms, the judiciary, and the Nevis Island Assembly also require approval in a referendum by at least two thirds of the votes cast in Saint Kitts and in Nevis<br>
-
-**Legal system**<br>
-English common law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -416,13 +416,8 @@ tourism, cotton, salt, copra, clothing, footwear, beverages<br>
 _revenues_: $286 million (2020 est.)<br>
 _expenditures_: $324 million (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-1.7% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 62.9% of GDP (2017 est.)<br>
-61.5% of GDP (2016 est.)<br>
-57.67% of GDP (2014 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

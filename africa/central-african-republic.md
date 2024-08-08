@@ -325,12 +325,12 @@ _etymology_: established as a French settlement in 1889 and named after its loca
 **National holiday**<br>
 Republic Day, 1 December (1958)<br>
 
+**Legal system**<br>
+civil law system based on the French model<br>
+
 **Constitution**<br>
 _history_: several previous; latest constitution passed by a national referendum on 30 July 2023 and validated by the Constitutional Court on 30 August 2023; note - the new constitution was proposed by President Faustin-Archange Touad&eacute;ra, extended the presidential term from 5 to 7 years, removed term limits, and will allow President Touad&eacute;ra to run again in 2025; opposition parties denounced the changes, claiming they were created to facilitate a "life precedency" for Touad&eacute;ra<br>
 _amendments_: proposals require support of the government, two thirds of the National Council of Transition, and assent by the "Mediator of the Central African" crisis; passage requires at least three-fourths majority vote by the National Council membership; non-amendable constitutional provisions include those on the secular and republican form of government, fundamental rights and freedoms, amendment procedures, or changes to the authorities of various high-level executive, parliamentary, and judicial officials<br>
-
-**Legal system**<br>
-civil law system based on the French model<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -492,12 +492,8 @@ _highest 10%_: 33.1% (2021 est.)<br>
 _revenues_: $418 million (2019 est.)<br>
 _expenditures_: $385 million (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--0.9% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 52.9% of GDP (2017 est.)<br>
-56% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 8.21% (of GDP) (2021 est.)<br>
@@ -665,4 +661,7 @@ the 2013 coup resulted in the institutional collapse of the FACA; its forces wer
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 28,217 (Sudan) (refugees since 15 April 2023), 6,707 (Democratic Republic of the Congo) (2024)<br>
 _IDPs_: 490,868 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2023)<br>
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch list — The Central African Republic did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/central-african-republic/<br>
 

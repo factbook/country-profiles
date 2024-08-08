@@ -329,12 +329,12 @@ _etymology_: the name translates as "fair winds" in Spanish and derives from the
 **National holiday**<br>
 Revolution Day (May Revolution Day), 25 May (1810)<br>
 
+**Legal system**<br>
+civil law system based on West European legal systems; note - in mid-2015, Argentina adopted a new civil code, replacing the old one in force since 1871<br>
+
 **Constitution**<br>
 _history_: several previous; latest effective 11 May 1853<br>
 _amendments_: a declaration of proposed amendments requires two-thirds majority vote by both houses of the National Congress followed by approval by an ad hoc, multi-member constitutional convention; amended several times, last significant amendment in 1994<br>
-
-**Legal system**<br>
-civil law system based on West European legal systems; note - in mid-2015, Argentina adopted a new civil code, replacing the old one in force since 1871<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -507,12 +507,8 @@ _highest 10%_: 29.8% (2022 est.)<br>
 _revenues_: $150.823 billion (2019 est.)<br>
 _expenditures_: $170.725 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--6% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 57.6% of GDP (2017 est.)<br>
-55% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 11.15% (of GDP) (2022 est.)<br>

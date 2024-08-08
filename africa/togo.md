@@ -90,7 +90,7 @@ Adja-Ewe/Mina 42.4%, Kabye/Tem 25.9%, Para-Gourma/Akan 17.1%, Akposso/Akebu 4.1%
 <strong>note:</strong> Togo has an estimated 37 ethnic groups<br>
 
 **Languages**<br>
-French (official, the language of commerce), Ewe and Mina (the two major African languages in the south), Kabye (sometimes spelled Kabiye) and Dagomba (the two major African languages in the north)<br>
+French (official, language of commerce), Ewe and Mina (in the south), Kabye (sometimes spelled Kabiye) and Dagomba (in the north)<br>
 
 **Religions**<br>
 Christian 42.3%, folk religion 36.9%, Muslim 14%, Hindu &lt;1%, Buddhist &lt;1%, Jewish &lt;1%, other &lt;1%, none 6.2% (2020 est.)<br>
@@ -322,12 +322,12 @@ _etymology_: Lome comes from "alotime" which in the native Ewe language means "a
 **National holiday**<br>
 Independence Day, 27 April (1960)<br>
 
+**Legal system**<br>
+customary law system<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted 27 September 1992, effective 14 October 1992<br>
 _amendments_: proposed by the president of the republic or supported by at least one fifth of the National Assembly membership; passage requires four-fifths majority vote by the Assembly; a referendum is required if approved by only two-thirds majority of the Assembly or if requested by the president; constitutional articles on the republican and secular form of government cannot be amended; amended 2002, 2007, last in 2023&nbsp;<br>
-
-**Legal system**<br>
-customary law system<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt<br>
@@ -496,12 +496,8 @@ _highest 10%_: 29.6% (2021 est.)<br>
 _revenues_: $1.275 billion (2019 est.)<br>
 _expenditures_: $1.158 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--3.8% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 75.7% of GDP (2017 est.)<br>
-81.6% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 14.19% (of GDP) (2022 est.)<br>

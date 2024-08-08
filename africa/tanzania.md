@@ -97,7 +97,7 @@ _adjective_: Tanzanian<br>
 mainland - African 99% (of which 95% are Bantu consisting of more than 130 tribes), other 1% (consisting of Asian, European, and Arab); Zanzibar - Arab, African, mixed Arab and African<br>
 
 **Languages**<br>
-Kiswahili or Swahili (official), Kiunguja (name for Swahili in Zanzibar), English (official, primary language of commerce, administration, and higher education), Arabic (widely spoken in Zanzibar), many local languages; note - Kiswahili (Swahili) is the mother tongue of the Bantu people living in Zanzibar and nearby coastal Tanzania; although Kiswahili is Bantu in structure and origin, its vocabulary draws on a variety of sources including Arabic and English; it has become the lingua franca of central and eastern Africa; the first language of most people is one of the local languages<br>
+Kiswahili or Swahili (official), Kiunguja (name for Swahili in Zanzibar), English (official, primary language of commerce, administration, and higher education), Arabic, many local languages<br>
 _major-language sample(s)_: <br>The World Factbook, Chanzo cha Lazima Kuhusu Habari ya Msingi. (Kiswahili)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -341,12 +341,12 @@ _etymology_: Dodoma, in the native Gogo language, means "it has sunk"; supposedl
 **National holiday**<br>
 Union Day (Tanganyika and Zanzibar), 26 April (1964)<br>
 
+**Legal system**<br>
+English common law; judicial review of legislative acts limited to matters of interpretation<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted 25 April 1977; note - drafting of a new constitution by the National Assembly in 2014 had stalled, and not until 2021, when President HASSAN expressed the need for broad government reform was there a renewed mandate for a new constitution; a task force drafted and submitted a report in October 2202 with broad government reform recommendations, including a six-pronged approach to a new constitution; the president as recently as mid-2023 reaffirmed her commitment to a new constitution; Tanzania's political opposition in early 2024, called for protests rallying countrywide support for action on this issue<br>
 _amendments_: proposed by the National Assembly; passage of amendments to constitutional articles including those on sovereignty of the United Republic, the authorities and powers of the government, the president, the Assembly, and the High Court requires two-thirds majority vote of the mainland Assembly membership and of the Zanzibar House of Representatives membership; House of Representatives approval of other amendments is not required; amended several times, last in 2017<br>
-
-**Legal system**<br>
-English common law; judicial review of legislative acts limited to matters of interpretation<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -518,12 +518,8 @@ _highest 10%_: 33.1% (2018 est.)<br>
 _revenues_: $8.968 billion (2019 est.)<br>
 _expenditures_: $10.017 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--1.8% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 37% of GDP (2017 est.)<br>
-38% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 11.47% (of GDP) (2023 est.)<br>

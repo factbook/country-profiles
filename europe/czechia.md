@@ -92,8 +92,9 @@ Czech 57.3%, Moravian 3.4%, other 7.7%, unspecified 31.6% (2021 est.)<br>
 <strong>note:</strong> includes only persons with one ethnicity<br>
 
 **Languages**<br>
-Czech (official) 88.4%, Slovak 1.5%, other 2.6%, unspecified 7.2%<br><br><strong>note:</strong> includes only persons with one mother tongue (2021 est.)<br>
+Czech (official) 88.4%, Slovak 1.5%, other 2.6%, unspecified 7.2% (2021 est.)<br>
 _major-language sample(s)_: <br>World Factbook, nepostradatelný zdroj základních informací. (Czech)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> includes only persons with one mother tongue<br>
 
 **Religions**<br>
 Roman Catholic 7%, other believers belonging to a church or religious society 6% (includes Evangelical United Brethren Church and Czechoslovak Hussite Church), believers unaffiliated with a religious society 9.1%, none 47.8%, unspecified 30.1% (2021 est.)<br>
@@ -314,12 +315,12 @@ _etymology_: the name may derive from an old Slavic root "praga" or "prah", mean
 **National holiday**<br>
 Czechoslovak Founding Day, 28 October (1918)<br>
 
+**Legal system**<br>
+new civil code enacted in 2014, replacing civil code of 1964 - based on former Austro-Hungarian civil codes and socialist theory - and reintroducing former Czech legal terminology<br>
+
 **Constitution**<br>
 _history_: previous 1960; latest ratified 16 December 1992, effective 1 January 1993<br>
 _amendments_: passage requires at least three-fifths concurrence of members present in both houses of Parliament; amended several times, last in 2021<br>
-
-**Legal system**<br>
-new civil code enacted in 2014, replacing civil code of 1964 - based on former Austro-Hungarian civil codes and socialist theory - and reintroducing former Czech legal terminology<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -494,12 +495,8 @@ _highest 10%_: 22.2% (2021 est.)<br>
 _revenues_: $103.838 billion (2019 est.)<br>
 _expenditures_: $103.167 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-1.6% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 34.7% of GDP (2017 est.)<br>
-36.8% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 13.13% (of GDP) (2022 est.)<br>

@@ -306,12 +306,12 @@ _etymology_: Lisbon is one of Europe's oldest cities (the second oldest capital 
 **National holiday**<br>
 Portugal Day (Dia de Portugal), 10 June (1580); note - also called Camoes Day, the day that revered national poet Luis DE CAMOES (1524-80) died<br>
 
+**Legal system**<br>
+civil law system; Constitutional Court review of legislative acts<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted 2 April 1976, effective 25 April 1976<br>
 _amendments_: proposed by the Assembly of the Republic; adoption requires two-thirds majority vote of Assembly members; amended several times, last in 2005<br>
-
-**Legal system**<br>
-civil law system; Constitutional Court review of legislative acts<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -488,12 +488,8 @@ _highest 10%_: 27.6% (2021 est.)<br>
 _revenues_: $102.052 billion (2019 est.)<br>
 _expenditures_: $101.854 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--3% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 125.7% of GDP (2017 est.)<br>
-129.9% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>

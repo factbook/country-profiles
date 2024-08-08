@@ -332,12 +332,12 @@ _etymology_: the Atlantic coast trading settlement of Ndakaaru came to be called
 **National holiday**<br>
 Independence Day, 4 April (1960)<br>
 
+**Legal system**<br>
+civil law system based on French law; judicial review of legislative acts in Constitutional Council<br>
+
 **Constitution**<br>
 _history_: previous 1959 (pre-independence), 1963; latest adopted by referendum 7 January 2001, promulgated 22 January 2001<br>
 _amendments_: proposed by the president of the republic&nbsp;or by the National Assembly; passage requires Assembly approval and approval in a referendum; the president can bypass a referendum and submit an amendment directly to the Assembly, which requires at least three-fifths majority vote; the republican form of government is not amendable; amended several times, last in 2019<br>
-
-**Legal system**<br>
-civil law system based on French law; judicial review of legislative acts in Constitutional Council<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -483,9 +483,6 @@ _male_: 2.9% (2023 est.)<br>
 _female_: 6.7% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-46.7% (2011 est.)<br>
-
 **Gini Index coefficient - distribution of family income**<br>
 36.2 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
@@ -505,12 +502,8 @@ _highest 10%_: 28.8% (2021 est.)<br>
 _revenues_: $4.76 billion (2019 est.)<br>
 _expenditures_: $5.662 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--3.6% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 48.3% of GDP (2017 est.)<br>
-47.8% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 18.7% (of GDP) (2022 est.)<br>

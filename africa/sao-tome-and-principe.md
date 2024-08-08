@@ -85,7 +85,8 @@ _adjective_: Sao Tomean<br>
 Mestico, Angolares (descendants of Angolan slaves), Forros (descendants of freed slaves), Servicais (contract laborers from Angola, Mozambique, and Cabo Verde), Tongas (children of servicais born on the islands), Europeans (primarily Portuguese), Asians (mostly Chinese)<br>
 
 **Languages**<br>
-Portuguese 98.4% (official), Forro 36.2%, Cabo Verdian 8.5%, French 6.8%, Angolar 6.6%, English 4.9%, Lunguie 1%, other (including sign language) 2.4%; note - shares sum to more than 100% because some respondents gave more than one answer on the census; other Portuguese-based Creoles are also spoken (2012 est.)<br>
+Portuguese 98.4% (official), Forro 36.2%, Cabo Verdian 8.5%, French 6.8%, Angolar 6.6%, English 4.9%, Lunguie 1%, other (including sign language) 2.4%; other Portuguese-based Creoles are also spoken (2012 est.)<br>
+<strong>note:</strong> shares of language sum to more than 100% because some respondents gave more than one answer on the census<br>
 
 **Religions**<br>
 Catholic 55.7%, Adventist 4.1%, Assembly of God 3.4%, New Apostolic 2.9%, Mana 2.3%, Universal Kingdom of God 2%, Jehovah's Witness 1.2%, other 6.2%, none 21.2%, unspecified 1% (2012 est.)<br>
@@ -308,12 +309,12 @@ _etymology_: named after Saint Thomas the Apostle<br>
 **National holiday**<br>
 Independence Day, 12 July (1975)<br>
 
+**Legal system**<br>
+mixed legal system of civil law based on the Portuguese model and customary law<br>
+
 **Constitution**<br>
 _history_: approved 5 November 1975<br>
 _amendments_: proposed by the National Assembly; passage requires two-thirds majority vote by the Assembly; the Assembly can propose to the president of the republic that an amendment be submitted to a referendum; revised several times, last in 2006<br>
-
-**Legal system**<br>
-mixed legal system of civil law based on the Portuguese model and customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -376,7 +377,7 @@ _lyrics/music_: Alda Neves DA GRACA do Espirito Santo/Manuel dos Santos Barreto 
 ## Economy
 
 **Economic overview**<br>
-ower middle-income Central African island economy; falling cocoa production due to drought and mismanagement; joint oil venture with Nigeria; government owns 90% of land; high debt, partly from fuel subsidies; tourism gutted by COVID-19<br>
+lower middle-income Central African island economy; falling cocoa production due to drought and mismanagement; joint oil venture with Nigeria; government owns 90% of land; high debt, partly from fuel subsidies; tourism gutted by COVID-19<br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.267 billion (2023 est.)<br>
@@ -469,12 +470,8 @@ _highest 10%_: 32.8% (2017 est.)<br>
 _revenues_: $95 million (2019 est.)<br>
 _expenditures_: $102 million (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--2.4% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 88.4% of GDP (2017 est.)<br>
-93.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 26.2% (of GDP) (2017 est.)<br>

@@ -235,12 +235,12 @@ none (overseas territory of the UK)<br>
 **National holiday**<br>
 Anguilla Day, 30 May (1967)<br>
 
+**Legal system**<br>
+common law based on the English model<br>
+
 **Constitution**<br>
 _history_: several previous; latest 1 April 1982<br>
 _amendments_: amended 1990, 2012, 2017, 2019<br>
-
-**Legal system**<br>
-common law based on the English model<br>
 
 **Citizenship**<br>
 see United Kingdom<br>
@@ -318,19 +318,12 @@ tourism, boat building, offshore financial services<br>
 **Industrial production growth rate**<br>
 4% (2017 est.)<br>
 
-**Population below poverty line**<br>
-23% (2002 est.)<br>
-
 **Budget**<br>
 _revenues_: $81.92 million (2017 est.)<br>
 _expenditures_: $80.32 million (2017 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-0.9% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 20.1% of GDP (2015 est.)<br>
-20.8% of GDP (2014 est.)<br>
 
 **Taxes and other revenues**<br>
 46.7% (of GDP) (2017 est.)<br>
@@ -374,11 +367,11 @@ $8.8 million (1998)<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
-2.7 (2017 est.)<br>
-2.7 (2016 est.)<br>
-2.7 (2015 est.)<br>
-2.7 (2014 est.)<br>
-2.7 (2013 est.)<br>
+2.7 (2023 est.)<br>
+2.7 (2022 est.)<br>
+2.7 (2021 est.)<br>
+2.7 (2020 est.)<br>
+2.7 (2019 est.)<br>
 
 ## Energy
 

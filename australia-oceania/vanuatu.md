@@ -284,12 +284,12 @@ _etymology_: there are two possibilities for the origin of the name: early Europ
 **National holiday**<br>
 Independence Day, 30 July (1980)<br>
 
+**Legal system**<br>
+mixed legal system of English common law, French law, and customary law<br>
+
 **Constitution**<br>
 _history_: draft completed August 1979, finalized by constitution conference 19 September 1979, ratified by French and British Governments 23 October 1979, effective 30 July 1980 at independence<br>
 _amendments_: proposed by the prime minister or by the Parliament membership; passage requires at least two-thirds majority vote by Parliament in special session with at least three fourths of the membership; passage of amendments affecting the national and official languages, or the electoral and parliamentary system also requires approval in a referendum; amended several times, last in 2013<br>
-
-**Legal system**<br>
-mixed legal system of English common law, French law, and customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -336,7 +336,8 @@ _email address and website_: <br>vanunmis@aol.com<br><br>https://www.un.int/vanu
 note - the Vanuatu Permanent Mission to the UN serves as the embassy<br>
 
 **Diplomatic representation from the US**<br>
-_embassy_: the US does not have an embassy in Vanuatu; the US Ambassador to Papua New Guinea is accredited to Vanuatu<br>
+_chief of mission_: Ambassador Ann Marie YASTISHOCK (since 16 April 2024); note - also accredited to the Papua New Guinea and the Solomon Islands, based in Port Moresby, Papua New Guinea<br>
+_embassy_: Port Vila<br>
 
 **Flag description**<br>
 two equal horizontal bands of red (top) and green with a black isosceles triangle (based on the hoist side) all separated by a black-edged yellow stripe in the shape of a horizontal Y (the two points of the Y face the hoist side and enclose the triangle); centered in the triangle is a boar's tusk encircling two crossed namele fern fronds, all in yellow; red represents the blood of boars and men, as well as unity, green the richness of the islands, and black the ni-Vanuatu people; the yellow Y-shape - which reflects the pattern of the islands in the Pacific Ocean - symbolizes the light of the Gospel spreading through the islands; the boar's tusk is a symbol of prosperity frequently worn as a pendant on the islands; the fern fronds represent peace<br>
@@ -450,13 +451,8 @@ _highest 10%_: 24.7% (2019 est.)<br>
 _revenues_: $398 million (2019 est.)<br>
 _expenditures_: $355 million (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--0.9% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 87.07% of GDP (2021 est.)<br>
-48.4% of GDP (2017 est.)<br>
-46.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 15.88% (of GDP) (2021 est.)<br>

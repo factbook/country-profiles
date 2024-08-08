@@ -319,12 +319,12 @@ _etymology_: Banjul is located on Saint Mary's Island at the mouth of the Gambia
 **National holiday**<br>
 Independence Day, 18 February (1965)<br>
 
+**Legal system**<br>
+mixed legal system of English common law, Islamic law, and customary law<br>
+
 **Constitution**<br>
 _history_: previous 1965 (Independence Act), 1970; latest adopted 8 April 1996, approved by referendum 8 August 1996, effective 16 January 1997; note - in early 2018, the "Constitutional Review Commission," was established to draft&nbsp; and assist in instituting a new constitution; a second draft completed in March 2020 was rejected by the National Assembly in September; the president announced in January 2022 government plans to draft a new constitution&nbsp;<br>
 _amendments_: proposed by the National Assembly; passage requires at least three-fourths majority vote by the Assembly membership in each of several readings and approval by the president of the republic; a referendum is required for amendments affecting national sovereignty, fundamental rights and freedoms, government structures and authorities, taxation, and public funding; passage by referendum requires participation of at least 50% of eligible voters and approval by at least 75% of votes cast; amended 2001, 2004, 2018<br>
-
-**Legal system**<br>
-mixed legal system of English common law, Islamic law, and customary law<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -487,12 +487,8 @@ _highest 10%_: 30.6% (2020 est.)<br>
 _revenues_: $252 million (2018 est.)<br>
 _expenditures_: $353 million (2018 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--2.6% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 88% of GDP (2017 est.)<br>
-82.3% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 20.3% (of GDP) (2017 est.)<br>

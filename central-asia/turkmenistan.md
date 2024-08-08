@@ -321,12 +321,12 @@ _etymology_: derived from the Persian words <em>esh</em>q meaning "love" and <em
 **National holiday**<br>
 Independence Day, 27 October (1991)<br>
 
+**Legal system**<br>
+civil law system with Islamic (sharia) law influences<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted 14 September 2016<br>
 _amendments_: proposed by the Assembly or Mejlis; passage requires two-thirds majority vote or absolute majority approval in a referendum; amended several times, last in 2023 (changed legislature from bicameral to unicameral Assembly or Mejlis; reestablished People's Council or Halk Maslahaty and named former president Gurbanguly BERDIMUHAMEDOV as National Leader of the Turkmen people<br>
-
-**Legal system**<br>
-civil law system with Islamic (sharia) law influences<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -468,19 +468,9 @@ _male_: 13.9% (2023 est.)<br>
 _female_: 5.7% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-0.2% (2012 est.)<br>
-
-**Gini Index coefficient - distribution of family income**<br>
-40.8 (1998 est.)<br>
-
 **Average household expenditures**<br>
 _on food_: 36.9% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 2.2% of household expenditures (2021 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.6%<br>
-_highest 10%_: 31.7% (1998)<br>
 
 **Remittances**<br>
 0% of GDP (2022 est.)<br>
@@ -492,12 +482,8 @@ _highest 10%_: 31.7% (1998)<br>
 _revenues_: $5.954 billion (2019 est.)<br>
 _expenditures_: $6.134 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--2.8% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 28.8% of GDP (2017 est.)<br>
-24.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 14.9% (of GDP) (2017 est.)<br>
@@ -548,7 +534,6 @@ _Currency_: Turkmenistani manat (TMM) per US dollar -<br>
 3.5 (2016 est.)<br>
 3.5 (2015 est.)<br>
 3.5 (2014 est.)<br>
-2.85 (2013 est.)<br>
 
 ## Energy
 

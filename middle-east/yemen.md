@@ -89,8 +89,9 @@ _adjective_: Yemeni<br>
 predominantly Arab; but also Afro-Arab, South Asian, European<br>
 
 **Languages**<br>
-Arabic (official); note - a distinct Socotri language is widely used on Socotra Island and Archipelago; Mahri is still fairly widely spoken in eastern Yemen<br>
+Arabic (official)<br>
 _major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> a distinct Socotri language is widely used on Socotra Island and Archipelago; Mahri is still fairly widely spoken in eastern Yemen<br>
 
 **Religions**<br>
 Muslim 99.1% (official; virtually all are citizens, an estimated 65% are Sunni and 35% are Shia), other 0.9% (includes Jewish, Baha'i, Hindu, and Christian; many are refugees or temporary foreign residents) (2020 est.)<br>
@@ -307,12 +308,12 @@ _etymology_: the name is reputed to mean "well-fortified" in Sabaean, the South 
 **National holiday**<br>
 Unification Day, 22 May (1990)<br>
 
+**Legal system**<br>
+mixed legal system of Islamic (sharia) law, Napoleonic law, English common law, and customary law<br>
+
 **Constitution**<br>
 _history_: adopted by referendum 16 May 1991 (following unification); note - after the National Dialogue ended in January 2015, a Constitutional Drafting Committee appointed by the president worked to prepare a new draft constitution that was expected to be put to a national referendum before being adopted; however, the start of the current conflict in early 2015 interrupted the process<br>
 _amendments_: amended several times, last in 2009<br>
-
-**Legal system**<br>
-mixed legal system of Islamic (sharia) law, Napoleonic law, English common law, and customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -477,12 +478,8 @@ _highest 10%_: 29.4% (2014 est.)<br>
 _revenues_: $2.207 billion (2019 est.)<br>
 _expenditures_: $3.585 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--5.2% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 74.5% of GDP (2017 est.)<br>
-68.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 9% (of GDP) (2017 est.)<br>

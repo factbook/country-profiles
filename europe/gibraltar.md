@@ -231,12 +231,12 @@ none (overseas territory of the UK)<br>
 **National holiday**<br>
 National Day, 10 September (1967); note - day of the national referendum to decide whether to remain with the UK or join Spain<br>
 
+**Legal system**<br>
+the laws of the UK, where applicable, apply<br>
+
 **Constitution**<br>
 _history_: previous 1969; latest passed by referendum 30 November 2006, entered into effect 14 December 2006, entered into force 2 January 2007<br>
 _amendments_: proposed by Parliament and requires prior consent of the British monarch (through the Secretary of State); passage requires at least three-fourths majority vote in Parliament followed by simple majority vote in a referendum; note &ndash; only sections 1 through 15 in Chapter 1 (Protection of Fundamental Rights and Freedoms) can be amended by Parliament<br>
-
-**Legal system**<br>
-the laws of the UK, where applicable, apply<br>
 
 **Citizenship**<br>
 see United Kingdom<br>
@@ -290,21 +290,13 @@ British territorial high-income economy; Brexit caused significant economic disr
 
 **Real GDP (purchasing power parity)**<br>
 $2.044 billion (2014 est.)<br>
-$1.85 billion (2013 est.)<br>
-$2 billion (2012 est.)<br>
 <strong>note:</strong> data are in 2014 dollars<br>
 
 **Real GDP per capita**<br>
 $61,700 (2014 est.)<br>
-$43,000 (2008 est.)<br>
-$41,200 (2007 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $2.044 billion (2014 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-2.5% (2013 est.)<br>
-2.2% (2012 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0% (2016 est.)<br>
@@ -331,16 +323,8 @@ tourism, banking and finance, ship repairing, tobacco<br>
 _revenues_: $475.8 million (2008 est.)<br>
 _expenditures_: $452.3 million (2008 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-1.1% (of GDP) (2008 est.)<br>
-
-**Public debt**<br>
-7.5% of GDP (2008 est.)<br>
-8.4% of GDP (2006 est.)<br>
-
 **Exports**<br>
 $202.3 million (2014 est.)<br>
-$271 million (2004 est.)<br>
 
 **Exports - partners**<br>
 Ireland 20%, India 18%, Brazil 12%, Netherlands 10%, South Korea 8% (2022)<br>

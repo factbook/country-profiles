@@ -333,12 +333,12 @@ _etymology_: Rangoon/Yangon derives from the Burmese words <em>yan</em> and <em>
 **National holiday**<br>
 Independence Day, 4 January (1948); Union Day, 12 February (1947)<br>
 
+**Legal system**<br>
+mixed legal system of English common law (as introduced in codifications designed for colonial India) and customary law<br>
+
 **Constitution**<br>
 _history_: previous 1947, 1974 (suspended until 2008); latest drafted 9 April 2008, approved by referendum 29 May 2008<br>
 _amendments_: proposals require at least 20% approval by the Assembly of the Union membership; passage of amendments to sections of the constitution on basic principles, government structure, branches of government, state emergencies, and amendment procedures requires 75% approval by the Assembly and approval in a referendum by absolute majority of registered voters; passage of amendments to other sections requires only 75% Assembly approval; military granted 25% of parliamentary seats by default; amended 2015<br>
-
-**Legal system**<br>
-mixed legal system of English common law (as introduced in codifications designed for colonial India) and customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -354,13 +354,13 @@ _residency requirement for naturalization_: none<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Prime Minister, State Administration Council Chair, Sr. Gen. MIN AUNG HLAING (since 1 August 2021)&nbsp;<br>
+_chief of state_: Prime Minister, State Administration Council Chair, Sr. Gen. MIN AUNG HLAING (since 1 August 2021)<br>
 _head of government_: Prime Minister, State Administration Council Chair, Sr. Gen. MIN AUNG HLAING (since 1 August 2021)<br>
 _cabinet_: Cabinet appointments shared by the president and the commander-in-chief; note - on 2 February 2021, the military leadership replaced the Cabinet with the State Administrative Council (SAC), which is the official name of the military government in Burma<br>
 _elections/appointments_: prior to the military takeover in 2021, president was indirectly elected by simple majority vote by the full Assembly of the Union from among 3 vice-presidential candidates nominated by the Presidential Electoral College (consists of members of the lower and upper houses and military members); the other 2 candidates become vice presidents (president elected for a 5-year term); general election last held on 8 November 2020; the military junta has pledged to hold new general elections but has repeatedly announced delays<br>
-_election results_: <em>2020:  </em>the National League for Democracy (NLD) won 396 seats across both houses, well above the 322 required for a parliamentary majority, which would have ensured that its preferred candidates would be elected president and second vice president in the Presidential Electoral College; however, on 1 February 2021 the military claimed the results of the election were illegitimate and launched a coup d'état that deposed State Counsellor AUNG SAN SUU KYI and President WIN MYINT of the NLD, causing military-affiliated Vice President MYINT SWE (USDP) to become Acting President; MYINT SWE subsequently handed power to coup leader MIN AUNG HLAING; WIN MYINT and other key leaders of the ruling NLD party were placed under arrest following the military takeover<br><em><br>2018</em>: WIN MYINT elected president in an indirect by-election held on 28 March 2018 after the resignation of HTIN KYAW; Assembly of the Union vote for president - WIN MYINT (NLD) 403, MYINT SWE (USDP) 211, HENRY VAN THIO (NLD) 18, 4 votes canceled (636 votes cast)<br>
+_election results_: <em><br>2020:  </em>the National League for Democracy (NLD) won 396 seats across both houses, well above the 322 required for a parliamentary majority, which would have ensured that its preferred candidates would be elected president and second vice president in the Presidential Electoral College; however, on 1 February 2021 the military claimed the results of the election were illegitimate and launched a coup d'état that deposed State Counsellor AUNG SAN SUU KYI and President WIN MYINT of the NLD, causing military-affiliated Vice President MYINT SWE (USDP) to become Acting President; MYINT SWE subsequently handed power to coup leader MIN AUNG HLAING; WIN MYINT and other key leaders of the ruling NLD party were placed under arrest following the military takeover<br><em><br>2018</em>: WIN MYINT elected president in an indirect by-election held on 28 March 2018 after the resignation of HTIN KYAW; Assembly of the Union vote for president - WIN MYINT (NLD) 403, MYINT SWE (USDP) 211, HENRY VAN THIO (NLD) 18, 4 votes canceled (636 votes cast)<br>
 _state counsellor_: State Counselor AUNG SAN SUU KYI (since 6 April 2016); note - under arrest since 1 February 2021; formerly served as Minister of Foreign Affairs and Minister for the Office of the President<br>
-<strong>note:</strong> a parliamentary bill creating the position of "state counsellor" was signed into law by former President HTIN KYAW on 6 April 2016; a state counsellor serves the equivalent term of the president and is similar to a prime minister in that the holder acts as a link between the parliament and the executive branch<br><br><strong>note:</strong> the military took over the government on 1 February 2021 and declared a state of emergency<br>
+<strong>note 1: </strong>the military took over the government on 1 February 2021 and declared a state of emergency<strong><br><br>note 2:</strong> prior to the military takeover, the a state counsellor served the equivalent term of the president and was similar to a prime minister in that the holder acted as a link between the parliament and the executive branch<br><br><br><br>
 
 **Legislative branch**<br>
 _description_: dissolved 1 February 2021 by the coup led by Sr. General MIN AUNG HLAING; previously bicameral Assembly of the Union or Pyidaungsu consists of:<br>House of Nationalities or Amyotha Hluttaw, (224 seats; 168 members directly elected in single-seat constituencies by absolute majority vote with a second round if needed and 56 appointed by the military; members serve 5-year terms)<br>House of Representatives or Pyithu Hluttaw, (440 seats, currently 433; 330 members directly elected in single-seat constituencies by simple majority vote and 110 appointed by the military; members serve 5-year terms); note - on 1 February 2021, the military dissolved the Assembly of the Union, which was replaced by the State Administration Council<br>
@@ -510,12 +510,8 @@ _highest 10%_: 25.5% (2017 est.)<br>
 _revenues_: $13.361 billion (2020 est.)<br>
 _expenditures_: $18.035 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--3.2% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 33.6% of GDP (2017 est.)<br>
-35.7% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 6.02% (of GDP) (2019 est.)<br>

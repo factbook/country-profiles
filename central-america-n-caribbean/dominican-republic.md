@@ -318,12 +318,12 @@ _etymology_: named after Saint Dominic de GUZMAN (1170-1221), founder of the Dom
 **National holiday**<br>
 Independence Day, 27 February (1844)<br>
 
+**Legal system**<br>
+civil law system based on the French civil code; Criminal Procedures Code modified in 2004 to include important elements of an accusatory system<br>
+
 **Constitution**<br>
 _history_: many previous (38 total); latest proclaimed 13 June 2015<br>
 _amendments_: proposed by a special session of the National Congress called the National Revisory Assembly; passage requires at least two-thirds majority approval by at least one half of those present in both houses of the Assembly; passage of amendments to constitutional articles, such as fundamental rights and guarantees, territorial composition, nationality, or the procedures for constitutional reform, also requires approval in a referendum<br>
-
-**Legal system**<br>
-civil law system based on the French civil code; Criminal Procedures Code modified in 2004 to include important elements of an accusatory system<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction<br>
@@ -338,16 +338,16 @@ _residency requirement for naturalization_: 2 years<br>
 18 years of age; universal and compulsory; married persons regardless of age can vote; note - members of the armed forces and national police by law cannot vote<br>
 
 **Executive branch**<br>
-_chief of state_: President Luis Rodolfo ABINADER Corona (since 16 August 2020)&nbsp;<br>
+_chief of state_: President Luis Rodolfo ABINADER Corona (since 16 August 2020)<br>
 _head of government_: President Luis Rodolfo ABINADER Corona (since 16 August 2020)<br>
 _cabinet_: Cabinet nominated by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute vote in 2 rounds if needed for a 4-year term (eligible for a maximum of two consecutive terms); election last held on 19 May 2024 (next to be held on 21 May 2028)<br>
-_election results_: <em>2024:</em> Luis Rodolfo ABINADER Corona reelected president; percent of vote - Luis Rodolfo ABINADER Corona (PRM) 57.5%, Leonel Antonio FERNÁNDEZ Reyna (FP) 28.8%, Abel MARTÍNEZ (PLD) 10.4%, other 3.3%<br><br><em>2020:</em> Luis Rodolfo ABINADER Corona elected president in first round; percent of vote - Luis Rodolfo ABINADER Corona (PRM) 52.5%, Gonzalo CASTILLO Terrero (PLD) 37.5%, Leonel Antonio FERNÁNDEZ Reyna (FP) 8.9%, other 1.1%<br>
+_election results_: <em><br>2024:</em> Luis Rodolfo ABINADER Corona reelected president; percent of vote - Luis Rodolfo ABINADER Corona (PRM) 57.5%, Leonel Antonio FERNÁNDEZ Reyna (FP) 28.8%, Abel MARTÍNEZ (PLD) 10.4%, other 3.3%<br><br><em>2020:</em> Luis Rodolfo ABINADER Corona elected president in first round; percent of vote - Luis Rodolfo ABINADER Corona (PRM) 52.5%, Gonzalo CASTILLO Terrero (PLD) 37.5%, Leonel Antonio FERNÁNDEZ Reyna (FP) 8.9%, other 1.1%<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (32 seats; 26 members directly elected in single-seat constituencies by simple majority vote, and 6 members indirectly elected based upon province-wide party plurality votes for its candidates to the Chamber of Deputies; all members serve 4-year terms; note - in 2019, the Central Election Commission changed the electoral system for seats in 26 constituencies to simple majority vote but retained indirect election for the remaining 6 constituencies; previously, all 32 members were indirectly elected; the change had been challenged by the ruling and opposition parties)<br><br>House of Representatives or Camara de Diputados (190 seats; 178 members directly elected in multi-seat constituencies by closed party-list proportional representation vote using the D'Hondt method, 5 members in a nationwide constituency, and 7 diaspora members directly elected by simple majority vote; members serve 4-year terms)<br>
-_elections_: Senate - last held on 19 May 2024 (next to be held on 21 May 2028)<br>House of Representatives - 19 May 2024 (next to be held on 21 May 2028)<br>
+_elections_: Senate - last held on 19 May 2024 (next to be held on 21 May 2028)<br>House of Representatives - last held on 19 May 2024 (next to be held on 21 May 2028)<br>
 _election results_: Senate - percent of vote by party - NA; seats by party - PRM 24, FP 3, APD 1, PPG 1, PRI 1, PRL 1, PRSC 1; composition - men NA, women NA, percentage women NA%<br><br>House of Representatives - percent of vote by party - NA; seats by party - PRM 142, FP 28, PLD 13, PRSC 2, other 5; composition - men NA, women NA, percentage women NA%; total National Congress percent of women NA%<br>
 
 **Judicial branch**<br>
@@ -497,12 +497,8 @@ _highest 10%_: 28.3% (2022 est.)<br>
 _revenues_: $12.804 billion (2019 est.)<br>
 _expenditures_: $14.511 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--3% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 37.2% of GDP (2017 est.)<br>
-34.6% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 13.82% (of GDP) (2022 est.)<br>
@@ -705,7 +701,7 @@ _refugees (country of origin)_: 121,141 (Venezuela) (economic and political cris
 _stateless persons_: 133,770 (2016); note - a September 2013 Constitutional Court ruling revoked the citizenship of those born after 1929 to immigrants without proper documentation, even though the constitution at the time automatically granted citizenship to children born in the Dominican Republic and the 2010 constitution provides that constitutional provisions cannot be applied retroactively; the decision overwhelmingly affected people of Haitian descent whose relatives had come to the Dominican Republic since the 1890s as a cheap source of labor for sugar plantations; a May 2014 law passed by the Dominican Congress regularizes the status of those with birth certificates but will require those without them to prove they were born in the Dominican Republic and to apply for naturalization; the government has issued documents to thousands of individuals who may claim citizenship under this law, but no official estimate has been released<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; the Dominican Republic does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; more traffickers were convicted, two police officers were investigated for trafficking crimes, and cooperation with international law enforcement increased; officials identified more victims and implemented new protections for vulnerable domestic workers; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; the government systemically and persistently failed to screen vulnerable migrant or undocumented populations, failed to refer victims to services, and did not provide these groups with justice in trafficking crimes; officials investigated and prosecuted fewer traffickers, did not adequately investigate labor trafficking cases involving migrants and children, and did not identify victims; the government did not adopt draft amendments to improve anti-trafficking laws, did not adequately fund or provide resources to anti-trafficking efforts, and did not complete a new National Action Plan; therefore, the Dominican Republic was downgraded to Tier 2 Watch List (2023)<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore the Dominican Republic remained on Tier 2 Watch List for the second consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/dominican-republic/<br>
 
 **Illicit drugs**<br>
 <p>major transshipment point for cocaine shipments to the United States and Europe in the Caribbean; some drugs are consumed locally.</p> <p> </p> <p> </p><br>

@@ -89,7 +89,7 @@ _adjective_: Surinamese<br>
 Hindustani (also known locally as "East Indians"; their ancestors emigrated from northern India in the latter part of the 19th century) 27.4%, Maroon (their African ancestors were brought to the country in the 17th and 18th centuries as slaves and escaped to the interior) 21.7%, Creole (mixed White and Black) 15.7%, Javanese 13.7%, mixed 13.4%, other 7.6%, unspecified 0.6% (2012 est.)<br>
 
 **Languages**<br>
-Dutch (official), English (widely spoken), Sranang Tongo (Surinamese, sometimes called Taki-Taki, is the native language of Creoles and much of the younger population and is lingua franca among others), Caribbean Hindustani (a dialect of Hindi), Javanese<br>
+Dutch (official), English (widely spoken), Sranang Tongo (Surinamese, sometimes called Taki-Taki, is the native language of Creoles and much of the younger population), Caribbean Hindustani (a dialect of Hindi), Javanese<br>
 _major-language sample(s)_: <br>Het Wereld Feitenboek, een omnisbare bron van informatie. (Dutch)<br><br>The World Factbook, the indispensable source for basic information. (English)<br>
 
 **Religions**<br>
@@ -302,12 +302,12 @@ _etymology_: the name may be the corruption of a Carib (Kalina) village or tribe
 **National holiday**<br>
 Independence Day, 25 November (1975)<br>
 
+**Legal system**<br>
+civil law system influenced by Dutch civil law; note - a new criminal code was enacted in 2017<br>
+
 **Constitution**<br>
 _history_: previous 1975; latest ratified 30 September 1987, effective 30 October 1987<br>
 _amendments_: proposed by the National Assembly; passage requires at least two-thirds majority vote of the total membership; amended 1992<br>
-
-**Legal system**<br>
-civil law system influenced by Dutch civil law; note - a new criminal code was enacted in 2017<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -455,9 +455,6 @@ _male_: 17.8% (2023 est.)<br>
 _female_: 37.8% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-70% (2002 est.)<br>
-
 **Gini Index coefficient - distribution of family income**<br>
 39.2 (2022 est.)<br>
 
@@ -475,12 +472,8 @@ _highest 10%_: 30.1% (2022 est.)<br>
 _revenues_: $863 million (2019 est.)<br>
 _expenditures_: $1.648 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--7.8% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 69.3% of GDP (2017 est.)<br>
-75.8% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 16.4% (of GDP) (2017 est.)<br>

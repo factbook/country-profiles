@@ -270,12 +270,12 @@ _etymology_: named after William III (1650-1702), king of England, Scotland, and
 **National holiday**<br>
 Independence Day, 10 July (1973)<br>
 
+**Legal system**<br>
+common law system based on the English model<br>
+
 **Constitution**<br>
 _history_: previous 1964 (preindependence); latest adopted 20 June 1973, effective 10 July 1973<br>
 _amendments_: proposed as an "Act" by Parliament; passage of amendments to articles such as the organization and composition of the branches of government requires approval by at least two-thirds majority of the membership of both houses of Parliament and majority approval in a referendum; passage of amendments to constitutional articles such as fundamental rights and individual freedoms, the powers, authorities, and procedures of the branches of government, or changes to the Bahamas Independence Act 1973 requires approval by at least three-fourths majority of the membership of both houses and majority approval in a referendum; amended many times, last in 2016<br>
-
-**Legal system**<br>
-common law system based on the English model<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -418,13 +418,6 @@ _male_: 21.5% (2023 est.)<br>
 _female_: 26.7% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-9.3% (2010 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 1%<br>
-_highest 10%_: 22% (2007 est.)<br>
-
 **Remittances**<br>
 0.38% of GDP (2023 est.)<br>
 0.44% of GDP (2022 est.)<br>
@@ -434,13 +427,8 @@ _highest 10%_: 22% (2007 est.)<br>
 _revenues_: $2.087 billion (2020 est.)<br>
 _expenditures_: $2.899 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--2.6% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 82.16% of GDP (2022 est.)<br>
-87.39% of GDP (2021 est.)<br>
-82.26% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

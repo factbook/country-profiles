@@ -88,7 +88,7 @@ _adjective_: Liberian<br>
 Kpelle 20.2%, Bassa 13.6%, Grebo 9.9%, Gio 7.9%, Mano 7.2%, Kru 5.5%, Lorma 4.8%, Krahn 4.5%, Kissi, 4.3%, Mandingo 4.2%, Vai 3.8%, Gola 3.8%, Gbandi 2.9%, Mende 1.7%, Sapo 1%, Belle 0.7%, Dey 0.3%, other Liberian ethnic group 0.4%, other African 3%, non-African 0.2% (2022 est.)<br>
 
 **Languages**<br>
-English 20% (official) and 27 indigenous languages, including Liberian English (encompassing several varieties of English spoken by Liberians)<br>
+English 20% (official) and 27 indigenous languages, including Liberian English variants<br>
 
 **Religions**<br>
 Christian 84.9%, Muslim 12%, Traditional 0.5%, other 0.1%, none 2.6% (2022 est.)<br>
@@ -306,12 +306,12 @@ _etymology_: named after James MONROE (1758-1831), the fifth president of the Un
 **National holiday**<br>
 Independence Day, 26 July (1847)<br>
 
+**Legal system**<br>
+mixed legal system of common law, based on Anglo-American law, and customary law<br>
+
 **Constitution**<br>
 _history_: previous 1847 (at independence); latest drafted 19 October 1983, revision adopted by referendum 3 July 1984, effective 6 January 1986<br>
 _amendments_: proposed by agreement of at least two thirds of both National Assembly houses or by petition of at least 10,000 citizens; passage requires at least two-thirds majority approval of both houses and approval in a referendum by at least two-thirds majority of registered voters; amended 2011, 2020<br>
-
-**Legal system**<br>
-mixed legal system of common law, based on Anglo-American law, and customary law<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -326,11 +326,11 @@ _residency requirement for naturalization_: 2 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Joseph BOAKAI (since 22 January 2024)&nbsp;<br>
+_chief of state_: President Joseph BOAKAI (since 22 January 2024)<br>
 _head of government_: President Joseph BOAKAI (since 22 January 2024)<br>
 _cabinet_: Cabinet appointed by the president, confirmed by the Senate<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 10 October 2023 with a runoff on 14 November 2023 (next to be held in October 2029) note - the president is both chief of state and head of government<br>
-_election results_: <em>2023:</em> Joseph BOAKAI elected president in second round; percent of vote in first round - George WEAH (CDC) 43.8%, Joseph BOAKAI (UP) 43.4%, Edward APPLETON (GDM) 2.2%, Lusinee KAMARA (ALCOP) 2%, Alexander B. CUMMINGS, Jr. (CPP) 1.6%, Tiawan Saye GONGLOE (LPP) 1.4%, other 5.6%; percentage of vote in second round - Joseph BOAKAI 50.6%, George WEAH 49.4%<br>
+_election results_: <em><br>2023:</em> Joseph BOAKAI elected president in second round; percent of vote in first round - George WEAH (CDC) 43.8%, Joseph BOAKAI (UP) 43.4%, Edward APPLETON (GDM) 2.2%, Lusinee KAMARA (ALCOP) 2%, Alexander B. CUMMINGS, Jr. (CPP) 1.6%, Tiawan Saye GONGLOE (LPP) 1.4%, other 5.6%; percentage of vote in second round - Joseph BOAKAI 50.6%, George WEAH 49.4%<br><br><em>2017:</em> George WEAH elected president in second round; percent of vote in first round - George WEAH (Coalition for Democratic Change) 38.4%, Joseph BOAKAI (UP) 28.8%, Charles BRUMSKINE (LP) 9.6%, Prince JOHNSON (MDR) 8.2%, Alexander B. CUMMINGS (ANC) 7.2%, other 7.8%; percentage of vote in second round - George WEAH 61.5%, Joseph BOAKAI 38.5%<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Assembly consists of:<br>The Liberian Senate (30 seats; members directly elected in 15 2-seat districts by simple majority vote to serve 9-year staggered terms; each district elects 1 senator and elects the second senator 3 years later, followed by a 6-year hiatus, after which the first Senate seat is up for election)<br>House of Representatives (73 seats; members directly elected in single-seat districts by simple majority vote to serve 6-year terms; eligible for a second term)<br>
@@ -472,16 +472,8 @@ _highest 10%_: 27.1% (2016 est.)<br>
 _revenues_: $5 million (2019 est.)<br>
 _expenditures_: $6 million (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--4.3% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 34.4% of GDP (2017 est.)<br>
-28.3% of GDP (2016 est.)<br>
-
-**Taxes and other revenues**<br>
-12.46% (of GDP) (2013 est.)<br>
-<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
 $64.806 million (2022 est.)<br>
@@ -655,6 +647,9 @@ the military has a limited inventory; in recent years, it has received small qua
 the AFL is responsible for external defense but also has some domestic security responsibilities if called upon, such as humanitarian assistance during natural disasters and support to law enforcement; it is a small, lightly equipped force comprised of two combat infantry battalions and supporting units; the infantry battalions were rebuilt with US assistance in 2007-2008 from the restructured AFL following the end of the second civil war in 2003 when military and police forces were disbanded and approximately 100,000 military, police, and rebel combatants were disarmed<br><br>the first militia unit established for defense of the colony was raised in 1832; the AFL traces its origins to the 1908 establishment of the Liberia Frontier Force, which became the Liberian National Guard in 1965; the AFL was established in 1970<br><br>the UN Mission in Liberia (UNMIL) was established in 2003 as a peacekeeping force; at its height, UNMIL was comprised of about 15,000 personnel, including more than 3,000 troops absorbed from the Economic Community of West African States (ECOWAS) peacekeeping mission; Liberian forces reassumed full control of the country’s security in June of 2016, and the UNMIL mission was ended in 2018 (2023)<br>
 
 ## Transnational Issues
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Liberia was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/liberia/<br>
 
 **Illicit drugs**<br>
 <p>not a significant transit country for illicit narcotics bound for the United States or Europe; not a key producer of illicit drugs; proximity to major drug transit routes contribute to trafficking cocaine and heroin, to and through Liberia and other West African countries; local drug use involves locally grown cannabis, heroin (mostly smoked), cocaine (snorted), and more recently kush (Cannabis Indic’s type flower), mixed with different substances including heroin or synthetic DMT</p><br>

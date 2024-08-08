@@ -97,7 +97,7 @@ _adjective_: Namibian<br>
 Ovambo 50%, Kavangos 9%, Herero 7%, Damara 7%, mixed European and African ancestry 6.5%, European 6%, Nama 5%, Caprivian 4%, San 3%, Baster 2%, Tswana 0.5%<br>
 
 **Languages**<br>
-Oshiwambo languages 49.7%, Nama/Damara 11%, Kavango languages 10.4%, Afrikaans 9.4% (also a common language), Herero languages 9.2%, Zambezi languages 4.9%, English (official) 2.3%, other African languages 1.5%, other European languages 0.7%, other 1% (2016 est.)<br>
+Oshiwambo languages 49.7%, Nama/Damara 11%, Kavango languages 10.4%, Afrikaans 9.4%, Herero languages 9.2%, Zambezi languages 4.9%, English (official) 2.3%, other African languages 1.5%, other European languages 0.7%, other 1% (2016 est.)<br>
 <strong>note:</strong> Namibia has 13 recognized national languages, including 10 indigenous African languages and 3 European languages<br>
 
 **Religions**<br>
@@ -327,12 +327,12 @@ _etymology_: may derive from the Afrikaans word "wind-hoek" meaning "windy corne
 **National holiday**<br>
 Independence Day, 21 March (1990)<br>
 
+**Legal system**<br>
+mixed legal system of uncodified civil law based on Roman-Dutch law and customary law<br>
+
 **Constitution**<br>
 _history_: adopted 9 February 1990, entered into force 21 March 1990<br>
 _amendments_: passage requires majority vote of the National Assembly membership and of the National Council of Parliament and assent of the president of the republic; if the National Council fails to pass an amendment, the president can call for a referendum; passage by referendum requires two-thirds majority of votes cast; amendments that detract from or repeal constitutional articles on fundamental rights and freedoms cannot be amended, and the requisite majorities needed by Parliament to amend the constitution cannot be changed; amended 1998, 2010, 2014<br>
-
-**Legal system**<br>
-mixed legal system of uncodified civil law based on Roman-Dutch law and customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -500,13 +500,8 @@ _highest 10%_: 47.3% (2015 est.)<br>
 _revenues_: $4.004 billion (2019 est.)<br>
 _expenditures_: $4.693 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--5.5% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 4.64% of GDP (2019 est.)<br>
-5.49% of GDP (2018 est.)<br>
-5.44% of GDP (2017 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

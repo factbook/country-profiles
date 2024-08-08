@@ -98,7 +98,7 @@ White 87.7%, Black 4.6%, Indigenous 2.4%, other 0.3%, none or unspecified 5% (20
 <strong>note:</strong> data represent primary ethnic identity<br>
 
 **Languages**<br>
-Spanish (official) (the Rioplatense dialect is the most widely spoken dialect)<br>
+Spanish (official, Rioplatense is the most widely spoken dialect)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -324,12 +324,12 @@ _etymology_: the name "Montevidi" was originally applied to the hill that overlo
 **National holiday**<br>
 Independence Day, 25 August (1825)<br>
 
+**Legal system**<br>
+civil law system based on the Spanish civil code<br>
+
 **Constitution**<br>
 _history_: several previous; latest approved by plebiscite 27 November 1966, effective 15 February 1967, reinstated in 1985 at the conclusion of military rule<br>
 _amendments_: initiated by public petition of at least 10% of qualified voters, proposed by agreement of at least two fifths of the General Assembly membership, or by existing "constitutional laws" sanctioned by at least two thirds of the membership in both houses of the Assembly; proposals can also be submitted by senators, representatives, or by the executive power and require the formation of and approval in a national constituent convention; final passage by either method requires approval by absolute majority of votes cast in a referendum; amended many times, last in 2004<br>
-
-**Legal system**<br>
-civil law system based on the Spanish civil code<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction<br>
@@ -505,13 +505,8 @@ _highest 10%_: 30.5% (2022 est.)<br>
 _revenues_: $14.991 billion (2020 est.)<br>
 _expenditures_: $17.571 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--3.5% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 60.28% of GDP (2020 est.)<br>
-50.13% of GDP (2019 est.)<br>
-47.34% of GDP (2018 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

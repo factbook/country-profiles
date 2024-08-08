@@ -312,12 +312,12 @@ _etymology_: name derives from the Arabic "al-Jazair" meaning "the islands" and 
 **National holiday**<br>
 Independence Day, 5 July (1962); Revolution Day, 1 November (1954)<br>
 
+**Legal system**<br>
+mixed legal system of French civil law and Islamic law; judicial review of legislative acts in ad hoc Constitutional Council composed of various public officials including several Supreme Court justices<br>
+
 **Constitution**<br>
 _history_: several previous; latest approved by referendum 1 November 2020<br>
 _amendments_: proposed by the president of the republic or through the president with the support of three fourths of the members of both houses of Parliament in joint session; passage requires approval by both houses, approval by referendum, and promulgation by the president; the president can forego a referendum if the Constitutional Council determines the proposed amendment does not conflict with basic constitutional principles; articles including the republican form of government, the integrity and unity of the country, and fundamental citizens&rsquo; liberties and rights cannot be amended; amended 2002, 2008, 2016; last in 2020<br>
-
-**Legal system**<br>
-mixed legal system of French civil law and Islamic law; judicial review of legislative acts in ad hoc Constitutional Council composed of various public officials including several Supreme Court justices<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -462,19 +462,9 @@ _male_: 27.4% (2023 est.)<br>
 _female_: 46% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-5.5% (2011 est.)<br>
-
-**Gini Index coefficient - distribution of family income**<br>
-27.6 (2011 est.)<br>
-
 **Average household expenditures**<br>
 _on food_: 37.3% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 1% of household expenditures (2021 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.8%<br>
-_highest 10%_: 26.8% (1995)<br>
 
 **Remittances**<br>
 0.74% of GDP (2023 est.)<br>
@@ -486,12 +476,8 @@ _highest 10%_: 26.8% (1995)<br>
 _revenues_: $55.185 billion (2019 est.)<br>
 _expenditures_: $64.728 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--9.6% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 27.5% of GDP (2017 est.)<br>
-20.4% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover central government debt as well as debt issued by subnational entities and intra-governmental debt<br>
 
 **Taxes and other revenues**<br>
@@ -710,7 +696,7 @@ al-Qa'ida in the Islamic Maghreb (AQIM); Islamic State of Iraq and ash-Sham (ISI
 _refugees (country of origin)_: more than 100,000 (Sahrawi, mostly living in Algerian-sponsored camps in the southwestern Algerian town of Tindouf); 7,345 (Syria) (mid-year 2022)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch list &mdash; update pending (2024)<br>
+_tier rating_: Tier 2 Watch list — Algeria does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so, therefore Algeria was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/algeria/<br>
 
 **Illicit drugs**<br>
 NA<br>

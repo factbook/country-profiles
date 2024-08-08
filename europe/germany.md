@@ -98,7 +98,7 @@ German 85.4%, Turkish 1.8%, Ukrainian 1.4%, Syrian 1.1%, Romanian 1%, Poland 1%,
 <strong>note:</strong>  data represent population by nationality<br>
 
 **Languages**<br>
-German (official); note - Danish, Frisian, Sorbian, and Romani are official minority languages; Low German, Danish, North Frisian, Sater Frisian, Lower Sorbian, Upper Sorbian, and Romani are recognized as regional languages under the European Charter for Regional or Minority Languages<br>
+German (official); note - Danish, Frisian, Sorbian, and Romani are official minority languages; Low German, Danish, North Frisian, Sater Frisian, Lower Sorbian, Upper Sorbian, and Romani are recognized as regional languages<br>
 _major-language sample(s)_: <br>Das World Factbook, die unverzichtbare Quelle für grundlegende Informationen. (German)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -325,12 +325,12 @@ _etymology_: the origin of the name is unclear but may be related to the old Wes
 **National holiday**<br>
 German Unity Day, 3 October (1990)<br>
 
+**Legal system**<br>
+civil law system<br>
+
 **Constitution**<br>
 _history_: previous 1919 (Weimar Constitution); latest drafted 10-23 August 1948, approved 12 May 1949, promulgated 23 May 1949, entered into force 24 May 1949<br>
 _amendments_: proposed by Parliament; passage and enactment into law require two-thirds majority vote by both the Bundesrat (upper house) and the Bundestag (lower house) of Parliament; articles including those on basic human rights and freedoms cannot be amended; amended many times, last in 2020; note - in early 2021, the German federal government introduced a bill to incorporate children&rsquo;s rights into the constitution<br>
-
-**Legal system**<br>
-civil law system<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -506,12 +506,8 @@ _highest 10%_: 25.2% (2019 est.)<br>
 _revenues_: $1.785 trillion (2020 est.)<br>
 _expenditures_: $1.945 trillion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-1.3% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 63.9% of GDP (2017 est.)<br>
-67.9% of GDP (2016 est.)<br>
 <strong>note:</strong> general government gross debt is defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); the general government sector comprises the sub-sectors of central government, state government, local government and social security funds; the series are presented as a percentage of GDP and in millions of euros; GDP used as a denominator is the gross domestic product at current market prices; data expressed in national currency are converted into euro using end-of-year exchange rates provided by the European Central Bank<br>
 
 **Taxes and other revenues**<br>

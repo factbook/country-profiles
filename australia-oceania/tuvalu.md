@@ -278,12 +278,12 @@ _etymology_: the atoll is named after a founding ancestor chief, Funa, from the 
 **National holiday**<br>
 Independence Day, 1 October (1978)<br>
 
+**Legal system**<br>
+mixed legal system of English common law and local customary law<br>
+
 **Constitution**<br>
 _history_: previous 1978 (at independence); latest effective 1 October 1986<br>
 _amendments_: proposed by the House of Assembly; passage requires at least two-thirds majority vote by the Assembly membership in the final reading; amended 2007, 2010, 2013, 2023<br>
-
-**Legal system**<br>
-mixed legal system of English common law and local customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -403,12 +403,6 @@ _total_: 20.6% (2016)<br>
 _male_: 9.8%<br>
 _female_: 45.9%<br>
 
-**Population below poverty line**<br>
-26.3% (2010 est.)<br>
-
-**Gini Index coefficient - distribution of family income**<br>
-39.1 (2010 est.)<br>
-
 **Remittances**<br>
 4.82% of GDP (2023 est.)<br>
 4.18% of GDP (2022 est.)<br>
@@ -420,16 +414,8 @@ _revenues_: $87 million (2019 est.)<br>
 _expenditures_: $88 million (2019 est.)<br>
 <strong>note:</strong> revenue data include Official Development Assistance from Australia<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-25.6% (of GDP) (2013 est.)<br>
-
 **Public debt**<br>
 37% of GDP (2017 est.)<br>
-47.2% of GDP (2016 est.)<br>
-
-**Taxes and other revenues**<br>
-106.7% (of GDP) (2013 est.)<br>
-<strong>note:</strong> revenue data include Official Development Assistance from Australia<br>
 
 **Current account balance**<br>
 $2.713 million (2022 est.)<br>

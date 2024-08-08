@@ -257,12 +257,12 @@ none (part of the Kingdom of Denmark; self-governing overseas administrative div
 **National holiday**<br>
 Olaifest (Olavsoka) (commemorates the death in battle of King OLAF II of Norway, later St. OLAF), 29 July (1030)<br>
 
+**Legal system**<br>
+the laws of Denmark apply where applicable<br>
+
 **Constitution**<br>
 _history_: 5 June 1953 (Danish Constitution), 23 March 1948 (Home Rule Act), and 24 June 2005 (Takeover Act) serve as the Faroe Islands' constitutional position in the Unity of the Realm<br>
 _amendments_: see entry for Denmark<br>
-
-**Legal system**<br>
-the laws of Denmark apply where applicable<br>
 
 **Citizenship**<br>
 see Denmark<br>
@@ -371,9 +371,6 @@ fishing, fish processing, tourism, small ship repair and refurbishment, handicra
 **Population below poverty line**<br>
 10% (2015 est.)<br>
 
-**Gini Index coefficient - distribution of family income**<br>
-22.7 (2013 est.)<br>
-
 **Remittances**<br>
 4.45% of GDP (2022 est.)<br>
 4.33% of GDP (2021 est.)<br>
@@ -384,9 +381,6 @@ fishing, fish processing, tourism, small ship repair and refurbishment, handicra
 _revenues_: $835.6 million (2014 est.)<br>
 _expenditures_: $883.8 million (2014)<br>
 <strong>note:</strong> Denmark supplies the Faroe Islands with almost one-third of its public funds<br>
-
-**Budget surplus (+) or deficit (-)**<br>
--1.7% (of GDP) (2014 est.)<br>
 
 **Public debt**<br>
 35% of GDP (2014 est.)<br>

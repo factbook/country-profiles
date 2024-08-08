@@ -298,12 +298,12 @@ _etymology_: several theories attempt to explain the city's name; one of the mor
 **National holiday**<br>
 Foundation of the Somali Republic, 1 July (1960); note - 26 June (1960) in Somaliland<br>
 
+**Legal system**<br>
+mixed legal system of civil law, Islamic (sharia) law, and customary law (referred to as Xeer)<br>
+
 **Constitution**<br>
 _history_: previous 1961, 1979; latest drafted 12 June 2012, adopted 1 August 2012 (provisional)<br>
 _amendments_: proposed by the federal government, by members of the state governments, the Federal Parliament, or by public petition; proposals require review by a joint committee of Parliament with inclusion of public comments and state legislatures&rsquo; comments; passage requires at least two-thirds majority vote in both houses of Parliament and approval by a majority of votes cast in a referendum; constitutional clauses on Islamic principles, the federal system, human rights and freedoms, powers and authorities of the government branches, and inclusion of women in national institutions cannot be amended; amended 2024<br>
-
-**Legal system**<br>
-mixed legal system of civil law, Islamic (sharia) law, and customary law (referred to as Xeer)<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt<br>
@@ -336,7 +336,7 @@ _judge selection and term of office_: judges appointed by the president upon pro
 _subordinate courts_: federal courts; federal member state-level courts; military courts; sharia courts<br>
 
 **Political parties**<br>
-<p>Cosmopolitan Democratic Party<br>Green Party<br>Himilo Qaran Party<br>Ilays Party<br>Justice and Reconciliation Party<br>National Progressive Party<br>Peace and Unity Party<br>Qaransoor Party<br>Qiimo Qaran Party<br>Security and Justice Party<br>Social Justice Party<br>Somali Labour Party<br>Somali Republic Party<br>Somali Social Unity Party or SSUP<br>Union for Peace and Development Party or PDP<br>Wadajir Party</p> <p><br><br><br></p><br>
+<p>Cosmopolitan Democratic Party<br>Green Party<br>Himilo Qaran Party<br>Ilays Party<br>Justice and Reconciliation Party<br>National Progressive Party<br>Peace and Unity Party<br>Qaransoor Party<br>Qiimo Qaran Party<br>Security and Justice Party<br>Social Justice Party<br>Somali Labour Party<br>Somali Republic Party<br>Somali Social Unity Party or SSUP<br>Union for Peace and Development Party or PDP<br>Wadajir Party</p><br>
 <strong>note:</strong> in 2017 an independent electoral commission (the NIEC) was inaugurated with a mandate to oversee the process of registration of political parties in the country; as of 2021, the NIEC had registered a total of 110 parties<br>
 
 **International organization participation**<br>
@@ -457,12 +457,8 @@ _female_: 37.4% (2023 est.)<br>
 _revenues_: $145.3 million (2014 est.)<br>
 _expenditures_: $151.1 million (2014 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--0.1% (of GDP) (2014 est.)<br>
-
 **Public debt**<br>
 76.7% of GDP (2017 est.)<br>
-93% of GDP (2014 est.)<br>
 
 **Taxes and other revenues**<br>
 0% (of GDP) (2020 est.)<br>
@@ -474,7 +470,6 @@ _expenditures_: $151.1 million (2014 est.)<br>
 
 **Exports**<br>
 $819 million (2014 est.)<br>
-$779 million (2013 est.)<br>
 
 **Exports - partners**<br>
 UAE 50%, Oman 30%, Bulgaria 3%, India 3%, Kuwait 2% (2022)<br>
@@ -508,7 +503,6 @@ _Currency_: Somali shillings (SOS) per US dollar -<br>
 23,061.784 (2016 est.)<br>
 22,254.236 (2015 est.)<br>
 20,230.929 (2014 est.)<br>
-19,283.8 (2013 est.)<br>
 
 ## Energy
 

@@ -335,12 +335,12 @@ _etymology_: "Jakarta" derives from the Sanscrit "Jayakarta" meaning "victorious
 **National holiday**<br>
 Independence Day, 17 August (1945)<br>
 
+**Legal system**<br>
+civil law system based on the Roman-Dutch model and influenced by customary law<br>
+
 **Constitution**<br>
 _history_: drafted July to August 1945, effective 18 August 1945, abrogated by 1949 and 1950 constitutions; 1945 constitution restored 5 July 1959<br>
 _amendments_: proposed by the People&rsquo;s Consultative Assembly, with at least two thirds of its members present; passage requires simple majority vote by the Assembly membership; constitutional articles on the unitary form of the state cannot be amended; amended several times, last in 2002<br>
-
-**Legal system**<br>
-civil law system based on the Roman-Dutch model and influenced by customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -359,7 +359,7 @@ _chief of state_: President Joko "Jokowi" WIDODO (since 20 October 2014)<br>
 _head of government_: President Joko "Jokowi" WIDODO (since 20 October 2014)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president and vice president directly elected by absolute majority popular vote for a 5-year term (eligible for a second term); election last held on 14 February 2024 (next to be held in 2029)<br>
-_election results_: <em>2024: </em>PRABOWO Subianto elected president (assumes office 20 October 2024); percent of vote - PRABOWO Subianto (GERINDRA) 58.6%, Anies Rasyid BASWEDAN (Independent) 24.9%, GANJAR Pranowo (PDI-P) 16.5%<em><br><br>2019:</em> Joko WIDODO reelected president; percent of vote - Joko WIDODO (PDI-P) 55.5%, PRABOWO Subianto Djojohadikusumo (GERINDRA) 44.5%<br>
+_election results_: <em><br>2024: </em>PRABOWO Subianto elected president (assumes office 20 October 2024); percent of vote - PRABOWO Subianto (GERINDRA) 58.6%, Anies Rasyid BASWEDAN (Independent) 24.9%, GANJAR Pranowo (PDI-P) 16.5%<em><br><br>2019:</em> Joko WIDODO reelected president; percent of vote - Joko WIDODO (PDI-P) 55.5%, PRABOWO Subianto Djojohadikusumo (GERINDRA) 44.5%<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -518,13 +518,8 @@ _highest 10%_: 31.4% (2023 est.)<br>
 _revenues_: $130.872 billion (2020 est.)<br>
 _expenditures_: $192.97 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--2.7% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 45.34% of GDP (2022 est.)<br>
-44.4% of GDP (2021 est.)<br>
-42.9% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

@@ -88,7 +88,7 @@ African descent 52%, White 31%, mixed 9%, Asian 4%, other 4% (2010 est.)<br>
 English (official), Portuguese<br>
 
 **Religions**<br>
-Protestant 46.2% (includes Anglican 15.8%, African Methodist Episcopal 8.6%, Seventh Day Adventist 6.7, Pentecostal 3.5%, Methodist 2.7%, Presbyterian 2.0%, Church of God 1.6%, Baptist 1.2%, Salvation Army 1.1%, Brethren 1.0%, other Protestant 2.0%), Roman Catholic 14.5%, Jehovah's Witness 1.3%, other Christian 9.1%, Muslim 1%, other 3.9%, none 17.8%, unspecified 6.2% (2010 est.)<br>
+Protestant 46.2% (includes Anglican 15.8%, African Methodist Episcopal 8.6%, Seventh Day Adventist 6.7%, Pentecostal 3.5%, Methodist 2.7%, Presbyterian 2.0%, Church of God 1.6%, Baptist 1.2%, Salvation Army 1.1%, Brethren 1.0%, other Protestant 2.0%), Roman Catholic 14.5%, Jehovah's Witness 1.3%, other Christian 9.1%, Muslim 1%, other 3.9%, none 17.8%, unspecified 6.2% (2010 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 16.4% (male 6,133/female 5,817)<br>
@@ -253,12 +253,12 @@ none (overseas territory of the UK)<br>
 **National holiday**<br>
 Bermuda Day, 24 May; note - formerly known as Victoria Day, Empire Day, and Commonwealth Day<br>
 
+**Legal system**<br>
+English common law<br>
+
 **Constitution**<br>
 _history_: several previous (dating to 1684); latest entered into force 8 June 1968 (Bermuda Constitution Order 1968)<br>
 _amendments_: proposal procedure - NA; passage by an Order in Council in the UK; amended several times, last in 2012<br>
-
-**Legal system**<br>
-English common law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -394,9 +394,6 @@ _total_: 29.3% (2014 est.)<br>
 _male_: 29.7%<br>
 _female_: 29%<br>
 
-**Population below poverty line**<br>
-11% (2008 est.)<br>
-
 **Remittances**<br>
 22.99% of GDP (2022 est.)<br>
 22.72% of GDP (2021 est.)<br>
@@ -406,9 +403,6 @@ _female_: 29%<br>
 **Budget**<br>
 _revenues_: $999.2 million (2017 est.)<br>
 _expenditures_: $1.176 billion (2017 est.)<br>
-
-**Budget surplus (+) or deficit (-)**<br>
--2.9% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 43% of GDP (FY14/15)<br>

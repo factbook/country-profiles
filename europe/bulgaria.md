@@ -313,12 +313,12 @@ _etymology_: named after the Saint Sofia Church in the city, parts of which date
 **National holiday**<br>
 Liberation Day, 3 March (1878)<br>
 
+**Legal system**<br>
+civil law<br>
+
 **Constitution**<br>
 _history_: several previous; latest drafted between late 1990 and early 1991, adopted 13 July 1991<br>
 _amendments_: proposed by the National Assembly or by the president of the republic; passage requires three-fourths majority vote of National Assembly members in three ballots; signed by the National Assembly chairperson; note - under special circumstances, a "Grand National Assembly" is elected with the authority to write a new constitution and amend certain articles of the constitution, including those affecting basic civil rights and national sovereignty; passage requires at least two-thirds majority vote in each of several readings; amended several times, last in 2023<br>
-
-**Legal system**<br>
-civil law<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -493,13 +493,8 @@ _highest 10%_: 29.9% (2021 est.)<br>
 _revenues_: $24.487 billion (2020 est.)<br>
 _expenditures_: $26.544 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-1.8% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 30.3% of GDP (2022 est.)<br>
-32.9% of GDP (2021 est.)<br>
-32.26% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

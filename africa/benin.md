@@ -90,7 +90,7 @@ _adjective_: Beninese<br>
 Fon and related 38.4%, Adja and related 15.1%, Yoruba and related 12%, Bariba and related 9.6%, Fulani and related 8.6%, Ottamari and related 6.1%, Yoa-Lokpa and related 4.3%, Dendi and related 2.9%, other 0.9%, foreigner 1.9% (2013 est.)<br>
 
 **Languages**<br>
-55 languages; French (official); Fon (a Gbe language), Yom (a Gur language) and Yoruba are the most important indigenous languages in the south; half a dozen regionally important languages in the north, including Bariba (once counted as a Gur language) and Fulfulde<br>
+55 languages; French (official); Fon (a Gbe language), Yom (a Gur language) and Yoruba are the most important indigenous languages in the south; half a dozen regionally important languages in the north, including Bariba and Fulfulde<br>
 
 **Religions**<br>
 Muslim 27.7%, Roman Catholic 25.5%, Protestant 13.5% (Celestial 6.7%, Methodist 3.4%, other Protestant 3.4%), Vodoun 11.6%, other Christian 9.5%, other traditional religions 2.6%, other 2.6%, none 5.8% (2013 est.)<br>
@@ -321,12 +321,12 @@ _etymology_: the name Porto-Novo is Portuguese for "new port"; Cotonou means "by
 **National holiday**<br>
 Independence Day, 1 August (1960)<br>
 
+**Legal system**<br>
+civil law system modeled largely on the French system and some customary law<br>
+
 **Constitution**<br>
 _history_: previous 1946, 1958 (preindependence); latest adopted by referendum 2 December 1990, promulgated 11 December 1990<br>
 _amendments_: proposed concurrently by the president of the republic (after a decision in the Council of Ministers) and the National Assembly; consideration of drafts or proposals requires at least three-fourths majority vote of the Assembly membership; passage requires approval in a referendum unless approved by at least four-fifths majority vote of the Assembly membership; constitutional articles affecting territorial sovereignty, the republican form of government, and secularity of Benin cannot be amended; amended 2019<br>
-
-**Legal system**<br>
-civil law system modeled largely on the French system and some customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -497,12 +497,8 @@ _highest 10%_: 27.2% (2021 est.)<br>
 _revenues_: $2.024 billion (2019 est.)<br>
 _expenditures_: $2.101 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--6.2% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 54.6% of GDP (2017 est.)<br>
-49.7% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 17.1% (of GDP) (2017 est.)<br>
@@ -698,6 +694,9 @@ al-Qa’ida (Jama’at Nusrat al Islam wal Muslimeen); Islamic State in the Grea
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch list — Benin did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/benin/<br>
 
 **Illicit drugs**<br>
 <p>a significant transit and departure country for cocaine shipments in Africa destined for Europe</p><br>

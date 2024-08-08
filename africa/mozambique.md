@@ -330,12 +330,12 @@ _etymology_: reputedly named after the Maputo River, which drains into Maputo Ba
 **National holiday**<br>
 Independence Day, 25 June (1975)<br>
 
+**Legal system**<br>
+mixed legal system of Portuguese civil law and customary law<br>
+
 **Constitution**<br>
 _history_: previous 1975, 1990; latest adopted 16 November 2004, effective 21 December 2004<br>
 _amendments_: proposed by the president of the republic or supported by at least one third of the Assembly of the Republic membership; passage of amendments affecting constitutional provisions, including the independence and sovereignty of the state, the republican form of government, basic rights and freedoms, and universal suffrage, requires at least a two-thirds majority vote by the Assembly and approval in a referendum; referenda not required for passage of other amendments; amended 2007, 2018<br>
-
-**Legal system**<br>
-mixed legal system of Portuguese civil law and customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -504,13 +504,8 @@ _highest 10%_: 41.2% (2019 est.)<br>
 _revenues_: $4.569 billion (2019 est.)<br>
 _expenditures_: $4.591 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--5.6% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 78.62% of GDP (2022 est.)<br>
-84.16% of GDP (2021 est.)<br>
-101.39% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

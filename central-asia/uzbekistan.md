@@ -318,13 +318,13 @@ _etymology_: <em>tash</em> means "stone" and <em>kent</em> means "city" in Turki
 **National holiday**<br>
 Independence Day, 1 September (1991)<br>
 
+**Legal system**<br>
+civil law system;<strong> note:</strong> in early 2020, the president signed an amendment to the criminal code, criminal procedure code, and code of administrative responsibility; a constitutional referendum passed in April 2023 included criminal code reforms  <br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted 8 December 1992<br>
 _amendments_: proposed by the Supreme Assembly or by referendum; passage requires two-thirds majority vote of both houses of the Assembly or passage in a referendum; amended several times, last in 2023<br>
 <strong>note:</strong> in a public referendum passed in April 2023, among the changes were the extension of the presidential term to 7 years from 5 years, and modifications to the structure and powers of the Supreme Assembly and to the criminal code <br>
-
-**Legal system**<br>
-civil law system;<strong> note:</strong> in early 2020, the president signed an amendment to the criminal code, criminal procedure code, and code of administrative responsibility; a constitutional referendum passed in April 2023 included criminal code reforms  <br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -472,10 +472,6 @@ _male_: 7.1% (2023 est.)<br>
 _female_: 18.3% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-14.1% (2013 est.)<br>
-<b>note:</b> % of population with income below national poverty line<br>
-
 **Gini Index coefficient - distribution of family income**<br>
 31.2 (2022 est.)<br>
 
@@ -497,12 +493,8 @@ _highest 10%_: 23.2% (2022 est.)<br>
 _revenues_: $16.197 billion (2019 est.)<br>
 _expenditures_: $16.346 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-0.3% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 24.3% of GDP (2017 est.)<br>
-10.5% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 14.79% (of GDP) (2020 est.)<br>

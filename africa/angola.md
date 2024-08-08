@@ -95,7 +95,8 @@ _adjective_: Angolan<br>
 Ovimbundu 37%, Kimbundu 25%, Bakongo 13%, Mestico (mixed European and native African) 2%, European 1%, other 22%<br>
 
 **Languages**<br>
-Portuguese 71.2% (official), Umbundu 23%, Kikongo 8.2%, Kimbundu 7.8%, Chokwe 6.5%, Nhaneca 3.4%, Nganguela 3.1%, Fiote 2.4%, Kwanhama 2.3%, Muhumbi 2.1%, Luvale 1%, other 3.6%; note - data represent most widely spoken languages; shares sum to more than 100% because some respondents gave more than one answer on the census (2014 est.)<br>
+Portuguese 71.2% (official), Umbundu 23%, Kikongo 8.2%, Kimbundu 7.8%, Chokwe 6.5%, Nhaneca 3.4%, Nganguela 3.1%, Fiote 2.4%, Kwanhama 2.3%, Muhumbi 2.1%, Luvale 1%, other 3.6%  (2014 est.)<br>
+<strong>note</strong>: shares sum to more than 100% because some respondents gave more than one answer on the census<br>
 
 **Religions**<br>
 Roman Catholic 41.1%, Protestant 38.1%, other 8.6%, none 12.3% (2014 est.)<br>
@@ -317,12 +318,12 @@ _etymology_: originally named "Sao Paulo da Assuncao de Loanda" (Saint Paul of t
 **National holiday**<br>
 Independence Day, 11 November (1975)<br>
 
+**Legal system**<br>
+civil legal system based on Portuguese civil law; no judicial review of legislation<br>
+
 **Constitution**<br>
 _history_: previous 1975, 1992; latest passed by National Assembly 21 January 2010, adopted 5 February 2010<br>
 _amendments_: proposed by the president of the republic or supported by at least one third of the National Assembly membership; passage requires at least two-thirds majority vote of the Assembly subject to prior Constitutional Court review if requested by the president of the republic<br>
-
-**Legal system**<br>
-civil legal system based on Portuguese civil law; no judicial review of legislation<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -496,12 +497,8 @@ _highest 10%_: 39.6% (2018 est.)<br>
 _revenues_: $17.899 billion (2019 est.)<br>
 _expenditures_: $17.244 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--6.7% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 65% of GDP (2017 est.)<br>
-75.3% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 10.09% (of GDP) (2019 est.)<br>

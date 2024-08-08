@@ -306,12 +306,12 @@ _time difference_: UTC+9 (14 hours ahead of Washington, DC, during Standard Time
 **National holiday**<br>
 Restoration of Independence Day, 20 May (2002); Proclamation of Independence Day, 28 November (1975)<br>
 
+**Legal system**<br>
+civil law system based on the Portuguese model; note - penal and civil law codes to replace the Indonesian codes were passed by Parliament and promulgated in 2009 and 2011, respectively<br>
+
 **Constitution**<br>
 _history_: drafted 2001, approved 22 March 2002, entered into force 20 May 2002<br>
 _amendments_: proposed by Parliament and parliamentary groups; consideration of amendments requires at least four-fifths majority approval by Parliament; passage requires two-thirds majority vote by Parliament and promulgation by the president of the republic; passage of amendments to the republican form of government and the flag requires approval in a referendum<br>
-
-**Legal system**<br>
-civil law system based on the Portuguese model; note - penal and civil law codes to replace the Indonesian codes were passed by Parliament and promulgated in 2009 and 2011, respectively<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -472,12 +472,8 @@ _highest 10%_: 24% (2014 est.)<br>
 _revenues_: $879 million (2019 est.)<br>
 _expenditures_: $1.396 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--75.7% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 3.8% of GDP (2017 est.)<br>
-3.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 21.67% (of GDP) (2022 est.)<br>

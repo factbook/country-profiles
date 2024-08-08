@@ -245,12 +245,12 @@ none (territory of the US)<br>
 **National holiday**<br>
 Flag Day, 17 April (1900)<br>
 
+**Legal system**<br>
+mixed legal system of US common law and customary law<br>
+
 **Constitution**<br>
 _history_: adopted 17 October 1960; revised 1 July 1967<br>
 _amendments_: proposed by either house of the Legislative Assembly; passage requires three-fifths majority vote by the membership of each house, approval by simple majority vote in a referendum, approval by the US Secretary of the Interior, and only by an act of the US Congress; amended several times, last in 2021<br>
-
-**Legal system**<br>
-mixed legal system of US common law and customary law<br>
 
 **Citizenship**<br>
 see United States<br>Note: in accordance with US Code Title 8, Section 1408, persons born in American Samoa are US nationals but not US citizens<br>
@@ -354,9 +354,6 @@ tuna canneries (largely supplied by foreign fishing vessels), handicrafts<br>
 **Budget**<br>
 _revenues_: $249 million (2016 est.)<br>
 _expenditures_: $262.5 million (2016 est.)<br>
-
-**Budget surplus (+) or deficit (-)**<br>
--2.1% (of GDP) (2016 est.)<br>
 
 **Public debt**<br>
 12.2% of GDP (2016 est.)<br>

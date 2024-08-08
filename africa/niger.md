@@ -97,7 +97,8 @@ _adjective_: Nigerien<br>
 Hausa 53.1%, Zarma/Songhai 21.2%, Tuareg 11%, Fulani (Peuhl) 6.5%, Kanuri 5.9%, Gurma 0.8%, Arab 0.4%, Tubu 0.4%, other/unavailable 0.9% (2006 est.)<br>
 
 **Languages**<br>
-Hausa, Zarma, French (official), Fufulde, Tamashek, Kanuri, Gurmancema, Tagdal<br><br><strong>note:</strong> represents the most-spoken languages; Niger has 10 national languages: Arabic, Buduma, Fulfuldé, Guimancema, Hausa, Kanuri, Sonay-Zarma, Tamajaq, Tassawaq, and Tubu<br>
+Hausa, Zarma, French (official), Fufulde, Tamashek, Kanuri, Gurmancema, Tagdal<br>
+<strong>note:</strong> represents the most-spoken languages; Niger has 10 national languages: Arabic, Buduma, Fulfuldé, Guimancema, Hausa, Kanuri, Sonay-Zarma, Tamajaq, Tassawaq, and Tubu<br>
 
 **Religions**<br>
 Muslim 95.5%, ethnic religionist 4.1%, Christian 0.3%, agnostics and other 0.1% (2020 est.)<br>
@@ -337,13 +338,13 @@ _etymology_: according to tradition, the site was originally a fishing village n
 **National holiday**<br>
 Republic Day, 18 December (1958); note - commemorates the founding of the Republic of Niger which predated independence from France in 1960<br>
 
+**Legal system**<br>
+note - following the 26 July 2023 military coup, the National Council for the Safeguard of the Homeland assumed control of all government institutions and rules by decree; formerly, mixed legal system of civil law, based on French civil law, Islamic law, and customary law<br>
+
 **Constitution**<br>
 _history_: several previous; passed by referendum 31 October 2010, entered into force 25 November 2010<br>
 _amendments_: formerly proposed by the president of the republic or by the National Assembly; consideration of amendments requires at least three-fourths majority vote by the Assembly; passage requires at least four-fifths majority vote; if disapproved, the proposed amendment is dropped or submitted to a referendum; constitutional articles on the form of government, the multiparty system, the separation of state and religion, disqualification of Assembly members, amendment procedures, and amnesty of participants in the 2010 coup cannot be amended; amended 2011, 2017<br>
 <strong>Note: </strong>on 26 July 2023, the National Council for the Safeguard of the Homeland, a military junta which took control of Niger's government, dissolved the country's constitution<br>
-
-**Legal system**<br>
-note - following the 26 July 2023 military coup, the National Council for the Safeguard of the Homeland assumed control of all government institutions and rules by decree; formerly, mixed legal system of civil law, based on French civil law, Islamic law, and customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -515,12 +516,8 @@ _highest 10%_: 27.8% (2021 est.)<br>
 _revenues_: $2.325 billion (2019 est.)<br>
 _expenditures_: $2.785 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--5% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 45.3% of GDP (2017 est.)<br>
-45.2% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 21.4% (of GDP) (2017 est.)<br>

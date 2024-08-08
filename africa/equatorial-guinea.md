@@ -286,12 +286,12 @@ _etymology_: named after King MALABO (Malabo Lopelo Melaka) (1837&ndash;1937), t
 **National holiday**<br>
 Independence Day, 12 October (1968)<br>
 
+**Legal system**<br>
+mixed system of civil and customary law<br>
+
 **Constitution**<br>
 _history_: previous 1968, 1973, 1982; approved by referendum 17 November 1991<br>
 _amendments_: proposed by the president of the republic or supported by three fourths of the membership in either house of the National Assembly; passage requires three-fourths majority vote by both houses of the Assembly and approval in a referendum if requested by the president; amended several times, last in 2012<br>
-
-**Legal system**<br>
-mixed system of civil and customary law<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction<br>
@@ -310,7 +310,7 @@ _chief of state_: President OBIANG Nguema Mbasogo (since 3 August 1979)<br>
 _head of government_: Prime Minister Manuela ROKA Botey (since 1 February 2023)<br>
 _cabinet_: Council of Ministers appointed by the president and overseen by the prime minister<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (eligible for a second term); election last held on 20 November 2022 (next to be held in 2029); prime minister and deputy prime ministers appointed by the president; President OBIANG Nguema Mbasogo since 3 August 1979 when he seized power in a military coup)<br>
-_election results_: <em>2022: </em>OBIANG Nguema Mbasogo reelected president; percent of vote - OBIANG Nguema Mbasogo (PDGE) 95%, other 6.1%<br><br><em>2016: </em>OBIANG Nguema Mbasogo reelected president; percent of vote - OBIANG Nguema Mbasogo (PDGE) 93.5%, other 6.5%<br>
+_election results_: <em><br>2022: </em>OBIANG Nguema Mbasogo reelected president; percent of vote - OBIANG Nguema Mbasogo (PDGE) 95%, other 6.1%<br><br><em>2016: </em>OBIANG Nguema Mbasogo reelected president; percent of vote - OBIANG Nguema Mbasogo (PDGE) 93.5%, other 6.5%<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Assembly or Asemblea Nacional consists of:<br>Senate or Senado (70 seats statutory, 74 seats for current term; 55 members directly elected in multi-seat constituencies by closed party-list proportional representation vote, 15 appointed by the president, and 4 ex-officio)<br><br>Chamber of Deputies or Camara de los Diputados (100 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve 5-year terms)<br>
@@ -427,9 +427,6 @@ _male_: 15.1% (2023 est.)<br>
 _female_: 17.8% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-44% (2011 est.)<br>
-
 **Remittances**<br>
 0% of GDP (2019 est.)<br>
 0% of GDP (2018 est.)<br>
@@ -439,12 +436,8 @@ _female_: 17.8% (2023 est.)<br>
 _revenues_: $2.604 billion (2018 est.)<br>
 _expenditures_: $2.535 billion (2018 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--3.3% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 37.4% of GDP (2017 est.)<br>
-43.3% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 6.69% (of GDP) (2022 est.)<br>
@@ -628,5 +621,5 @@ the FAGE&rsquo;s National Guard (Army) is a small force with a few infantry batt
 ## Transnational Issues
 
 **Trafficking in persons**<br>
-_tier rating_: <p>Tier 3 — update pending (2024)</p><br>
+_tier rating_: <p>Tier 2 Watch List — Equatorial Guinea does not fully meet the minimum standards for the elimination of trafficking, but it is making significant efforts to do so and was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/equatorial-guinea/</p><br>
 

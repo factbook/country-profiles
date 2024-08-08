@@ -92,8 +92,9 @@ Chhettri 16.5%, Brahman-Hill 11.3%, Magar 6.9%, Tharu 6.2%, Tamang 5.6%, Bishwok
 <strong>note:</strong> 141 caste/ethnic groups were reported in the 2021 national census<br>
 
 **Languages**<br>
-Nepali (official) 44.9%, Maithali 11.1%, Bhojpuri 6.2%, Tharu 5.9%, Tamang 4.9%, Bajjika 3.9%, Avadhi 3%, Nepalbhasha (Newari) 3%, Magar Dhut 2.8%, Doteli 1.7%, Urdu 1.4%, Yakthung/Limbu 1.2%, Gurung 1.1%, other 8.9%; note - 123 languages reported as mother tongue in 2021 national census; many in government and business also speak English (2021 est.)<br>
+Nepali (official) 44.9%, Maithali 11.1%, Bhojpuri 6.2%, Tharu 5.9%, Tamang 4.9%, Bajjika 3.9%, Avadhi 3%, Nepalbhasha (Newari) 3%, Magar Dhut 2.8%, Doteli 1.7%, Urdu 1.4%, Yakthung/Limbu 1.2%, Gurung 1.1%, other 8.9% (2021 est.)<br>
 _major-language sample(s)_: <br>विश्व तथ्य पुस्तक,आधारभूत जानकारीको लागि अपरिहार्य स्रोत (Nepali)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> 123 languages reported as mother tongue in 2021 national census; many in government and business also speak English<br>
 
 **Religions**<br>
 Hindu 81.2%, Buddhist 8.2%, Muslim 5.1%, Kirat 3.2%, Christian 1.8%, other 0.5% (2021 est.)<br>
@@ -318,12 +319,12 @@ _etymology_: name derives from the Kasthamandap temple that stood in Durbar Squa
 **National holiday**<br>
 Constitution Day, 20 September (2015); note - marks the promulgation of Nepal’s constitution in 2015 and replaces the previous 28 May Republic Day as the official national day in Nepal; the Gregorian day fluctuates based on Nepal’s Hindu calendar<br>
 
+**Legal system**<br>
+English common law and Hindu legal concepts; note - new criminal and civil codes&nbsp;came into&nbsp;effect on 17 August 2018<br>
+
 **Constitution**<br>
 _history_: several previous; latest approved by the Second Constituent Assembly 16 September 2015, signed by the president and effective 20 September 2015<br>
 _amendments_: proposed as a bill by either house of the Federal Parliament; bills affecting a state border or powers delegated to a state must be submitted to the affected state assembly; passage of such bills requires a majority vote of that state assembly membership; bills not requiring state assembly consent require at least two-thirds majority vote by the membership of both houses of the Federal Parliament; parts of the constitution on the sovereignty, territorial integrity, independence, and sovereignty vested in the people cannot be amended; amended 2016, 2020<br>
-
-**Legal system**<br>
-English common law and Hindu legal concepts; note - new criminal and civil codes&nbsp;came into&nbsp;effect on 17 August 2018<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -342,7 +343,7 @@ _chief of state_: President Ram Chandra POUDEL (since 13 March 2023)<br>
 _head of government_: Prime Minister Khadga Prasad Sharma OLI (since 15 July 2024)<br>
 _cabinet_: Council of Ministers appointed by the prime minister; cabinet split between Nepali Congress, Communist Party of Nepal-Maoist Centre, and various coalition partners<br>
 _elections/appointments_: president indirectly elected by an electoral college of the Federal Parliament and of the state assemblies for a 5-year term (eligible for a second term); election last held on 9 March 2023 (next to be held in 2028)<br>
-_election results_: <em>2023:</em> Ram Chandra POUDEL elected president; electoral college vote - Ram Chandra POUDEL (NC) 33,802, Subash Chandra NEMBANG (CPN-UML) 15,518<br>
+_election results_: <em><br>2023:</em> Ram Chandra POUDEL elected president; electoral college vote - Ram Chandra POUDEL (NC) 33,802, Subash Chandra NEMBANG (CPN-UML) 15,518<br><br><em>2018:</em> Bidhya Devi BHANDARI reelected president; electoral vote - Bidhya Devi BHANDARI (CPN-UML) 39,275, Kumari Laxmi RAI (NC) 11,730 <br>
 
 **Legislative branch**<br>
 _description_: bicameral Federal Parliament consists of:<br>National Assembly (59 seats; 56 members, including at least 3 women, 1 Dalit, 1 member with disabilities, or 1 minority indirectly elected by an electoral college of state and municipal government leaders, and 3 members, including 1 woman, nominated by the president of Nepal on the recommendation of the government; members serve 6-year terms with renewal of one-third of the membership every 2 years)<br>House of Representatives (275 seats statutory, current 272; 165 members directly elected in single-seat constituencies by simple majority vote and 110 members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a threshold of 3% overall valid vote to be allocated a seat; members serve 5-year terms); note - the House of Representatives was dissolved on 22 May 2021, but on 13 July, the Supreme Court directed its reinstatement<br>
@@ -465,16 +466,6 @@ _male_: 18.7% (2023 est.)<br>
 _female_: 23.3% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-25.2% (2011 est.)<br>
-
-**Gini Index coefficient - distribution of family income**<br>
-32.8 (2010 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.2%<br>
-_highest 10%_: 29.5% (2011)<br>
-
 **Remittances**<br>
 26.89% of GDP (2023 est.)<br>
 22.56% of GDP (2022 est.)<br>
@@ -485,13 +476,8 @@ _highest 10%_: 29.5% (2011)<br>
 _revenues_: $7.305 billion (2020 est.)<br>
 _expenditures_: $9.008 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--0.1% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 39.92% of GDP (2021 est.)<br>
-39.05% of GDP (2020 est.)<br>
-31.78% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

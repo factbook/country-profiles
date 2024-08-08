@@ -328,12 +328,12 @@ _etymology_: Yamoussoukro is named after Queen YAMOUSSOU, who ruled in the villa
 **National holiday**<br>
 Independence Day, 7 August (1960)<br>
 
+**Legal system**<br>
+civil law system based on the French civil code; judicial review of legislation held in the Constitutional Chamber of the Supreme Court<br>
+
 **Constitution**<br>
 _history_: previous 1960, 2000; latest draft completed 24 September 2016, approved by the National Assembly 11 October 2016, approved by referendum 30 October 2016, promulgated 8 November 2016<br>
 _amendments_: proposed by the president of the republic or by Parliament; consideration of drafts or proposals requires an absolute majority vote by the parliamentary membership; passage of amendments affecting presidential elections, presidential term of office and vacancies, and amendment procedures requires approval by absolute majority in a referendum; passage of other proposals by the president requires at least four-fifths majority vote by Parliament; constitutional articles on the sovereignty of the state and its republican and secular form of government cannot be amended; amended 2020<br>
-
-**Legal system**<br>
-civil law system based on the French civil code; judicial review of legislation held in the Constitutional Chamber of the Supreme Court<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -507,12 +507,8 @@ _highest 10%_: 27.8% (2021 est.)<br>
 _revenues_: $8.804 billion (2019 est.)<br>
 _expenditures_: $10.145 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--4.2% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 47% of GDP (2017 est.)<br>
-47% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 11.94% (of GDP) (2022 est.)<br>
@@ -703,7 +699,7 @@ Armed Forces of Cote d'Ivoire (Forces Armees de Cote d'Ivoire, FACI; aka Republi
 approximately 25,000 active troops (23,000 Army, including about 2,000 Special Forces; 1,000 Navy; 1,000 Air Force); 5-10,000 Gendarmerie (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the FACI consists mostly of older or second-hand equipment, typically of French or Soviet-era origin; Cote d'Ivoire was under a partial UN arms embargo from 2004 to 2016; in recent years it has received limited amounts of mostly second-hand equipment from a variety of suppliers, including Bulgaria, China, and France (2023)<br>
+the inventory of the FACI consists mostly of older or second-hand equipment, typically of French or Soviet-era origin; Cote d'Ivoire was under a partial UN arms embargo from 2004 to 2016; in recent years it has received some new and second-hand equipment from a variety of suppliers, including Bulgaria, China, France, South Africa, and Turkey (2024)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for compulsory and voluntary military service for men and women; conscription is reportedly not enforced (2023)<br>

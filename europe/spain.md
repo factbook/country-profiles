@@ -93,8 +93,9 @@ Spanish 84.8%, Moroccan 1.7%, Romanian 1.2%, other 12.3% (2021 est.)<br>
 <strong>note:</strong> data represent population by country of birth<br>
 
 **Languages**<br>
-Castilian Spanish (official nationwide) 74%, Catalan (official in Catalonia, the Balearic Islands, and the Valencian Community) 17%, Galician (official in Galicia) 7%, Basque (official in the Basque Country and Navarre) 2%, Aranese (official in part of Catalonia) &lt;5,000 speakers; note - Aragonese, Aranese Asturian, Basque, Calo, Catalan, Galician, and Valencian are recognized as regional languages under the European Charter for Regional or Minority Languages<br>
+Castilian Spanish (official) 74%, Catalan (official in Catalonia, the Balearic Islands, and the Valencian Community) 17%, Galician (official in Galicia) 7%, Basque (official in the Basque Country and Navarre) 2%, Aranese (official in part of Catalonia) &lt;5,000 speakers<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> Aragonese, Aranese Asturian, Calo, and Valencian are also recognized as regional languages <br>
 
 **Religions**<br>
 Roman Catholic 58.2%, atheist 16.2%, agnostic 10.8%, other 2.7%, non-believer 10.5%, unspecified 1.7% (2021 est.)<br>
@@ -317,12 +318,12 @@ _etymology_: the Romans named the original settlement "Matrice" after the river 
 **National holiday**<br>
 National Day (Hispanic Day), 12 October (1492); note - commemorates the arrival of COLUMBUS in the Americas<br>
 
+**Legal system**<br>
+civil law system with regional variations<br>
+
 **Constitution**<br>
 _history_: several previous; latest approved by the General Courts 31 October 1978, passed by referendum 6 December 1978, signed by the king 27 December 1978, effective 29 December 1978<br>
 _amendments_: proposed by the government, by the General Courts (the Congress or the Senate), or by the self-governing communities submitted through the government; passage requires three-fifths majority vote by both houses and passage by referendum if requested by one tenth of the members of either house; proposals disapproved by both houses are submitted to a joint committee, which submits an agreed upon text for another vote; passage requires two-thirds majority vote in Congress and simple majority vote in the Senate; amended 1992, 2011<br>
-
-**Legal system**<br>
-civil law system with regional variations<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -499,13 +500,8 @@ _highest 10%_: 24.7% (2021 est.)<br>
 _revenues_: $546.084 billion (2019 est.)<br>
 _expenditures_: $585.979 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--3.1% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 111.43% of GDP (2022 est.)<br>
-134.02% of GDP (2021 est.)<br>
-140.18% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

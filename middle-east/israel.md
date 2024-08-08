@@ -309,12 +309,12 @@ _etymology_: Jerusalem's settlement may date back to 2800 B.C.; it is named Urus
 **National holiday**<br>
 Independence Day, 14 May (1948); note - Israel declared independence on 14 May 1948, but the Jewish calendar is lunar and the holiday may occur in April or May<br>
 
+**Legal system**<br>
+mixed legal system of English common law, British Mandate regulations, and Jewish, Christian, and Muslim religious laws<br>
+
 **Constitution**<br>
 _history_: no formal constitution; some functions of a constitution are filled by the Declaration of Establishment (1948), the Basic Laws, and the Law of Return (as amended)<br>
 _amendments_: proposed by Government of Israel ministers or by the Knesset; passage requires a majority vote of Knesset members and subject to Supreme Court judicial review; 11 of the 13 Basic Laws have been amended at least once, latest in 2020 (Basic Law: the Knesset)<br>
-
-**Legal system**<br>
-mixed legal system of English common law, British Mandate regulations, and Jewish, Christian, and Muslim religious laws<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; withdrew acceptance of ICCt jurisdiction in 2002<br>
@@ -492,13 +492,8 @@ _highest 10%_: 27.1% (2021 est.)<br>
 _revenues_: $139.374 billion (2019 est.)<br>
 _expenditures_: $154.927 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--2% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 72.6% of GDP (2020 est.)<br>
-59.6% of GDP (2019 est.)<br>
-60.4% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
 25.01% (of GDP) (2022 est.)<br>

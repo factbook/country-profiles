@@ -326,12 +326,12 @@ _etymology_: according to tradition, the name derives from the fusion of the nam
 **National holiday**<br>
 Independence Day, 2 October (1958)<br>
 
+**Legal system**<br>
+civil law system based on the French model<br>
+
 **Constitution**<br>
 _history_: previous 1958, 1990; 2010 and a referendum in 2020, which was suspended on 5 September 2021 via a coup d&rsquo;etat; on 27 September, the Transitional Charter was released, which supersedes the constitution until a new constitution is promulgated<br>
 _amendments_: proposed by the National Assembly or by the president of the republic; consideration of proposals requires approval by simple majority vote by the Assembly; passage requires approval in referendum; the president can opt to submit amendments directly to the Assembly, in which case approval requires at least two-thirds majority vote; revised in 2020<br>
-
-**Legal system**<br>
-civil law system based on the French model<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -364,9 +364,6 @@ _subordinate courts_: Court of Appeal or Cour d'Appel; High Court of Justice or 
 
 **Political parties**<br>
 African Congress for Democracy and Renewal or CADRE <br>Alliance for National Renewal or ARN <br>Alliance for National Renewal or ARENA <br>Bloc Liberal or BL <br>Citizen Generation or GECI <br>Citizen Party for the Defense of Collective Interests or PCDIC <br>Democratic Alliance for Renewal or ADR <br>Democratic National Movement or MND<br>Democratic Union for Renewal and Progress or UDRP <br>Democratic Union of Guinea or UDG <br>Democratic People's Movement of Guinea or MPDG <br>Democratic Workers' Party of Guinea or PDTG <br>Front for the National Alliance or FAN <br>Generation for Reconciliation Union and Prosperity or GRUP <br>Guinea for Democracy and Balance or GDE <br>Guinean Party for Peaceful Coexistence and Development or PGCD <br>Guinean Party for Solidarity and Democracy or PGSD <br>Guinean Union for Democracy and Development or UGDD <br>Guinean Rally for Development or RGD <br>Guinean Rally for Unity and Development or RGUD <br>Guinean Renaissance Party or PGR <br>Modern Guinea <br>Movement for Solidarity and Development or MSD <br>National Committee for Reconciliation and Development <br>National Front for Development or FND <br>National Union for Prosperity or UNP <br>National Party for Hope and Development or PEDN <br>New Democratic Forces or NFD <br>New Generation for the Republic or NGR <br>New Guinea or NG <br>New Political Generation or NGP <br>Party for Progress and Change or PPC <br>Party of Citizen Action through Labor or PACT <br>Party of Democrats for Hope or PADES <br>Party of Freedom and Progress or PLP <br>Party of Hope for National Development or PEDN <br>Rally for Renaissance and Development or RRD <br>Rally for the Guinean People or RPG <br>Rally for the Integrated Development of Guinea or RDIG <br>Rally for the Republic or RPR <br>Union of Democratic Forces of Guinea or UFDG<br>Union for Progress and Renewal or UPR <br>Union for the Defense of Republican Interests or UDIR <br>Union for the Progress of Guinea or UPG <br>Union of Democratic Forces or UFD a or UFDG <br>Union of Democrats for the Renaissance of Guinea or UDRG <br>Union of Republican Forces or UFR <br>Unity and Progress Party or PUP<br>
-<h3>
-<br><br>
-</h3><br>
 
 **International organization participation**<br>
 ACP, AfDB, EITI (compliant country), FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -499,12 +496,8 @@ _highest 10%_: 23.1% (2018 est.)<br>
 _revenues_: $1.949 billion (2019 est.)<br>
 _expenditures_: $2.014 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--0.5% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 37.9% of GDP (2017 est.)<br>
-41.8% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 16.6% (of GDP) (2017 est.)<br>

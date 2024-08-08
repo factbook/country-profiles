@@ -303,12 +303,12 @@ _etymology_: originally founded by the Phoenicians as Oea in the 7th century B.C
 **National holiday**<br>
 Liberation Day, 23 October (2011)<br>
 
+**Legal system**<br>
+Libya's post-revolution legal system is in flux and driven by state and non-state entities<br>
+
 **Constitution**<br>
 _history_: previous 1951, 1977; in July 2017, the Constitutional Assembly completed and approved a draft of a new permanent constitution; in September 2018, the House of Representatives passed a constitutional referendum law in a session with contested reports of the quorum needed to pass the vote and submitted it to the High National Elections Commission in December to begin preparations for a constitutional referendum<br>
 _amendments_: note - in early March 2023, the High Council of State voted for a constitutional amendment to provide a groundwork for elections<br>
-
-**Legal system**<br>
-Libya's post-revolution legal system is in flux and driven by state and non-state entities<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -444,9 +444,6 @@ _male_: 41.2% (2023 est.)<br>
 _female_: 68% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-<p><strong>note:</strong> about one third of Libyans live at or below the national poverty line</p><br>
-
 **Remittances**<br>
 0% of GDP (2022 est.)<br>
 0% of GDP (2021 est.)<br>
@@ -457,12 +454,8 @@ _female_: 68% (2023 est.)<br>
 _revenues_: $28.005 billion (2019 est.)<br>
 _expenditures_: $37.475 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--25.1% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 4.7% of GDP (2017 est.)<br>
-7.5% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 51.6% (of GDP) (2017 est.)<br>

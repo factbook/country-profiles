@@ -281,13 +281,13 @@ _etymology_: named after a bridge constructed over the swampy area (known as the
 **National holiday**<br>
 Independence Day, 30 November (1966)<br>
 
+**Legal system**<br>
+English common law; no judicial review of legislative acts<br>
+
 **Constitution**<br>
 _history_: adopted 22 November 1966, effective 30 November 1966; Constitution (Amendment) (No. 2) Bill, 2021 establishes Barbados as a republic and revokes the earlier Order in Council<br>
 _amendments_: proposed by Parliament; passage of amendments to constitutional sections such as citizenship, fundamental rights and freedoms, and the organization and authorities of the branches of government requires two-thirds majority vote by the membership of both houses of Parliament; passage of other amendments only requires a majority vote of both houses; amended several times, last in 2021<br>
 <strong>note: </strong>following the transition to a republic in November 2021, the Government of Barbados in February 2022 began the process of establishing a constitution commission to review a new draft constitution<br>
-
-**Legal system**<br>
-English common law; no judicial review of legislative acts<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -444,13 +444,8 @@ _female_: 20.3% (2023 est.)<br>
 _revenues_: $1.271 billion (2020 est.)<br>
 _expenditures_: $1.483 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--4% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 146.46% of GDP (2016 est.)<br>
-141.02% of GDP (2015 est.)<br>
-129.2% of GDP (2014 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

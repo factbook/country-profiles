@@ -301,12 +301,12 @@ _etymology_: name derives from the Arabic "al-manama" meaning "place of rest" or
 **National holiday**<br>
 National Day, 16 December (1971); note - 15 August 1971 was the date of independence from the UK, 16 December 1971 was the date of independence from British protection<br>
 
+**Legal system**<br>
+mixed legal system of Islamic (sharia) law, English common law, Egyptian civil, criminal, and commercial codes; customary law<br>
+
 **Constitution**<br>
 _history_: adopted 14 February 2002<br>
 _amendments_: proposed by the king or by at least 15 members of either chamber of the National Assembly followed by submission to an Assembly committee for review and, if approved, submitted to the government for restatement as drafts; passage requires a two-thirds majority vote by the membership of both chambers and validation by the king; constitutional articles on the state religion (Islam), state language (Arabic), and the monarchy and "inherited rule" cannot be amended; amended 2012, 2017<br>
-
-**Legal system**<br>
-mixed legal system of Islamic (sharia) law, English common law, Egyptian civil, criminal, and commercial codes; customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -467,13 +467,8 @@ _on alcohol and tobacco_: 0.4% of household expenditures (2021 est.)<br>
 _revenues_: $9.168 billion (2019 est.)<br>
 _expenditures_: $12.63 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--10.1% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 115.52% of GDP (2020 est.)<br>
-95.6% of GDP (2019 est.)<br>
-88.24% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
 2.92% (of GDP) (2020 est.)<br>

@@ -308,12 +308,12 @@ _etymology_: the origin of the name is disputed; multiple descriptions, possibil
 **National holiday**<br>
 Independence Day, 27 June (1977)<br>
 
+**Legal system**<br>
+mixed legal system based primarily on the French civil code (as it existed in 1997), Islamic religious law (in matters of family law and successions), and customary law<br>
+
 **Constitution**<br>
 _history_: approved by referendum 4 September 1992<br>
 _amendments_: proposed by the president of the republic or by the National Assembly; Assembly consideration of proposals requires assent of at least one third of the membership; passage requires a simple majority vote by the Assembly and approval by simple majority vote in a referendum; the president can opt to bypass a referendum if adopted by at least two-thirds majority vote of the Assembly; constitutional articles on the sovereignty of Djibouti, its republican form of government, and its pluralist form of democracy cannot be amended; amended 2006, 2008, 2010<br>
-
-**Legal system**<br>
-mixed legal system based primarily on the French civil code (as it existed in 1997), Islamic religious law (in matters of family law and successions), and customary law<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -472,12 +472,8 @@ _highest 10%_: 32.3% (2017 est.)<br>
 _revenues_: $725 million (2019 est.)<br>
 _expenditures_: $754 million (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--9% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 31.8% of GDP (2017 est.)<br>
-33.7% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 35.3% (of GDP) (2017 est.)<br>

@@ -279,12 +279,12 @@ _etymology_: the name dates to the period of Spanish colonial rule (16th to late
 **National holiday**<br>
 Independence Day, 31 August (1962)<br>
 
+**Legal system**<br>
+English common law; judicial review of legislative acts in the Supreme Court<br>
+
 **Constitution**<br>
 _history_: previous 1962; latest 1976<br>
 _amendments_: proposed by Parliament; passage of amendments affecting constitutional provisions, such as human rights and freedoms or citizenship, requires at least two-thirds majority vote by the membership of both houses and assent of the president; passage of amendments, such as the powers and authorities of the executive, legislative, and judicial branches of government, and the procedure for amending the constitution, requires at least three-quarters majority vote by the House membership, two-thirds majority vote by the Senate membership, and assent of the president; amended many times, last in 2007<br>
-
-**Legal system**<br>
-English common law; judicial review of legislative acts in the Supreme Court<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -440,12 +440,8 @@ _female_: 11.1% (2023 est.)<br>
 _revenues_: $4.939 billion (2020 est.)<br>
 _expenditures_: $7.528 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--8.2% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 41.8% of GDP (2017 est.)<br>
-37% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 16.55% (of GDP) (2019 est.)<br>

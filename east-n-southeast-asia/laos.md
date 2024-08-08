@@ -317,12 +317,12 @@ _etymology_: the meaning in Pali, a Buddhist liturgical language, is "city of sa
 **National holiday**<br>
 Republic Day (National Day), 2 December (1975)<br>
 
+**Legal system**<br>
+civil law system similar in form to the French system<br>
+
 **Constitution**<br>
 _history_: previous 1947 (preindependence); latest promulgated 13-15 August 1991<br>
 _amendments_: proposed by the National Assembly; passage requires at least two-thirds majority vote of the Assembly membership and promulgation by the president of the republic; amended 2003, 2015<br>
-
-**Legal system**<br>
-civil law system similar in form to the French system<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -495,12 +495,8 @@ _highest 10%_: 31.2% (2018 est.)<br>
 _revenues_: $2.896 billion (2019 est.)<br>
 _expenditures_: $3.839 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--5.5% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 63.6% of GDP (2017 est.)<br>
-58.4% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 12.11% (of GDP) (2022 est.)<br>
@@ -681,6 +677,9 @@ the LPAF is armed largely with Soviet-era weapons; in recent years, China and Ru
 the LPAF&rsquo;s primary missions are border and internal security, including counterinsurgency and counterterrorism; Vietnam is the military's primary security partner, although in recent years, Laos has expanded defense ties with China and Russia (2023)<br>
 
 ## Transnational Issues
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Laos was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/laos/<br>
 
 **Illicit drugs**<br>
 <p>Laos remains a key transit route for drug trafficking and the movement of precursor chemicals; opium produced is typically smuggled out of the country and refined elsewhere and not trafficked in significant quantities to the United States</p><br>

@@ -304,12 +304,12 @@ _etymology_: named after a Swati chief, Mbabane KUNENE, who lived in the area at
 **National holiday**<br>
 Independence Day (Somhlolo Day), 6 September (1968)<br>
 
+**Legal system**<br>
+mixed legal system of civil, common, and customary law<br>
+
 **Constitution**<br>
 _history_: previous 1968, 1978; latest signed by the king 26 July 2005, effective 8 February 2006<br>
 _amendments_: proposed at a joint sitting of both houses of Parliament; passage requires majority vote by both houses and/or majority vote in a referendum, and assent of the king; passage of amendments affecting "specially entrenched" constitutional provisions requires at least three-fourths majority vote by both houses, passage by simple majority vote in a referendum, and assent of the king; passage of "entrenched" provisions requires at least two-thirds majority vote of both houses, passage in a referendum, and assent of the king<br>
-
-**Legal system**<br>
-mixed legal system of civil, common, and customary law<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt<br>
@@ -471,13 +471,8 @@ _highest 10%_: 42.7% (2016 est.)<br>
 _revenues_: $1.131 billion (2020 est.)<br>
 _expenditures_: $1.454 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--8.5% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 35.4% of GDP (2021 est.)<br>
-39.83% of GDP (2020 est.)<br>
-30.61% of GDP (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 24.13% (of GDP) (2021 est.)<br>

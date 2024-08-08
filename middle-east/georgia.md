@@ -87,7 +87,7 @@ _adjective_: Georgian<br>
 Georgian 86.8%, Azeri 6.3%, Armenian 4.5%, other 2.3% (includes Russian, Ossetian, Yazidi, Ukrainian, Kist, Greek) (2014 est.)<br>
 
 **Languages**<br>
-Georgian (official) 87.6%, Azeri 6.2%, Armenian 3.9%, Russian 1.2%, other 1%; note - Abkhaz is the official language in Abkhazia (2014 est.)<br>
+Georgian (official) 87.6%, Azeri 6.2%, Armenian 3.9%, Russian 1.2%, other 1% (including Abkhaz, the official language in Abkhazia) (2014 est.)<br>
 _major-language sample(s)_: <br>მსოფლიო ფაქტების წიგნი, ძირითადი ინფორმაციის აუცილებელი წყარო. (Georgian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -309,12 +309,12 @@ _etymology_: the name in Georgian means "warm place," referring to the numerous 
 **National holiday**<br>
 Independence Day, 26 May (1918); note - 26 May 1918 was the date of independence from Soviet Russia, 9 April 1991 was the date of independence from the Soviet Union<br>
 
+**Legal system**<br>
+civil law system<br>
+
 **Constitution**<br>
 _history_: previous 1921, 1978 (based on 1977 Soviet Union constitution); latest approved 24 August 1995, effective 17 October 1995<br>
 _amendments_: proposed as a draft law supported by more than one half of the Parliament membership or by petition of at least 200,000 voters; passage requires support by at least three fourths of the Parliament membership in two successive sessions three months apart and the signature and promulgation by the president of Georgia; amended several times, last in 2020 (legislative electoral system revised)<br>
-
-**Legal system**<br>
-civil law system<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction<br>
@@ -489,13 +489,8 @@ _highest 10%_: 26.2% (2021 est.)<br>
 _revenues_: $4.737 billion (2019 est.)<br>
 _expenditures_: $5.059 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--3.8% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 42.97% of GDP (2022 est.)<br>
-54.73% of GDP (2021 est.)<br>
-65.19% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

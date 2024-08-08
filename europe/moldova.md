@@ -91,8 +91,9 @@ _adjective_: Moldovan<br>
 Moldovan 75.1%, Romanian 7%, Ukrainian 6.6%, Gagauz 4.6%, Russian 4.1%, Bulgarian 1.9%, other 0.8% (2014 est.)<br>
 
 **Languages**<br>
-Moldovan/Romanian 80.2% (official) (56.7% identify their mother tongue as Moldovan, which is virtually the same as Romanian; 23.5% identify Romanian as their mother tongue), Russian 9.7%, Gagauz 4.2% (a Turkish language), Ukrainian 3.9%, Bulgarian 1.5%, Romani 0.3%, other 0.2% (2014 est.); note - data represent mother tongue; as of March 2023, Romanian replaced Moldovan as the name of Moldova's official language<br>
+Moldovan/Romanian 80.2% (official) (56.7% Moldovan; 23.5% Romanian), Russian 9.7%, Gagauz 4.2% (a Turkish language), Ukrainian 3.9%, Bulgarian 1.5%, Romani 0.3%, other 0.2% (2014)<br>
 _major-language sample(s)_: <br>Cartea informativa a lumii, sursa indispensabila pentru informatii de baza. (Moldovan/Romanian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> data represent mother tongue; as of March 2023, "Romanian" replaced "Moldovan" as the name of Moldova's official language<br>
 
 **Religions**<br>
 Orthodox 90.1%, other Christian 2.6%, other 0.1%, agnostic &lt;0.1%, atheist 0.2%, unspecified 6.9% (2014 est.)<br>
@@ -308,12 +309,12 @@ _etymology_: origin unclear but may derive from the archaic Romanian word <em>ch
 **National holiday**<br>
 Independence Day, 27 August (1991)<br>
 
+**Legal system**<br>
+civil law system with Germanic law influences; Constitutional Court review of legislative acts<br>
+
 **Constitution**<br>
 _history_: previous 1978; latest adopted 29 July 1994, effective 27 August 1994<br>
 _amendments_: proposed by voter petition (at least 200,000 eligible voters), by at least one third of Parliament members, or by the government; passage requires two-thirds majority vote of Parliament within one year of initial proposal; revisions to constitutional articles on sovereignty, independence, and neutrality require majority vote by referendum; articles on fundamental rights and freedoms cannot be amended; amended many times, last in 2018<br>
-
-**Legal system**<br>
-civil law system with Germanic law influences; Constitutional Court review of legislative acts<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -483,13 +484,8 @@ _revenues_: $3.582 billion (2019 est.)<br>
 _expenditures_: $3.754 billion (2019 est.)<br>
 <strong>note:</strong> National Public Budget<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--0.6% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 34.52% of GDP (2022 est.)<br>
-32.12% of GDP (2021 est.)<br>
-33.96% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

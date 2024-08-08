@@ -244,12 +244,12 @@ _etymology_: the Chinese meaning is "Northern Taiwan," reflecting the city's pos
 **National holiday**<br>
 Republic Day (National Day), 10 October (1911); note - celebrates the anniversary of the Chinese Revolution, also known as Double Ten (10-10) Day<br>
 
+**Legal system**<br>
+civil law system<br>
+
 **Constitution**<br>
 _history_: previous 1912, 1931; latest adopted 25 December 1946, promulgated 1 January 1947, effective 25 December 1947<br>
 _amendments_: proposed by at least one fourth of the Legislative Yuan membership; passage requires approval by at least three-fourths majority vote of at least three fourths of the Legislative Yuan membership and approval in a referendum by more than half of eligible voters; revised several times, last in 2005<br>
-
-**Legal system**<br>
-civil law system<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -289,8 +289,9 @@ ADB (Chinese Taipei), APEC (Chinese Taipei), BCIE, CABEI, IOC, ITUC (NGOs), SICA
 note - separate customs territory of Taiwan, Penghu, Kinmen, and Matsu<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: none; commercial and cultural relations with its citizens in the US are maintained through an unofficial instrumentality, the Taipei Economic and Cultural Representative Office in the United States (TECRO), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts, represented by Ambassador Alexander YUI (since 11 December 2023); office: 4201 Wisconsin Avenue NW, Washington, DC 20016; telephone: [1] (202) 895-1800; fax: [1] (202) 363-0999<br>
-_Taipei Economic and Cultural Offices (branch offices)_: Atlanta, Boston, Chicago, Denver (CO), Hagatna (Guam), Honolulu, Houston, Los Angeles, Miami, New York, San Francisco, Seattle<br>
+_chief of mission_: none<br>
+_Taipei Economic and Cultural Offices (branch offices)_: Atlanta, Boston, Chicago, Denver (CO), Hagatna (Guam), Honolulu, Houston, Los Angeles, Miami, New York, San Francisco, Seattle, Washington DC<br>
+<strong>Note</strong>:  commercial and cultural relations with its citizens in the US are maintained through an unofficial instrumentality, the Taipei Economic and Cultural Representative Office in the United States (TECRO), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts, represented by Ambassador Alexander YUI (since 11 December 2023); office: 4201 Wisconsin Avenue NW, Washington, DC 20016; telephone: [1] (202) 895-1800; fax: [1] (202) 363-0999<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: the US does not have an embassy in Taiwan; commercial and cultural relations with the people of Taiwan are maintained through an unofficial instrumentality, the American Institute in Taiwan (AIT), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts; it is managed by Director Sandra OUDKIRK (since July 2021)<br>
@@ -379,9 +380,6 @@ electronics, communications and information technology products, petroleum refin
 3.73% (2019 est.)<br>
 3.69% (2018 est.)<br>
 
-**Population below poverty line**<br>
-1.5% (2012 est.)<br>
-
 **Gini Index coefficient - distribution of family income**<br>
 33.6 (2014)<br>
 
@@ -389,20 +387,12 @@ electronics, communications and information technology products, petroleum refin
 _on food_: 13.3% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 2.5% of household expenditures (2021 est.)<br>
 
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 6.4%<br>
-_highest 10%_: 40.3% (2010)<br>
-
 **Budget**<br>
 _revenues_: $94.943 billion (2019 est.)<br>
 _expenditures_: $105.833 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--0.1% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 35.7% of GDP (2017 est.)<br>
-36.2% of GDP (2016 est.)<br>
 <strong>note:</strong> data for central government<br>
 
 **Taxes and other revenues**<br>
@@ -452,7 +442,6 @@ _Currency_: New Taiwan dollars (TWD) per US dollar -<br>
 30.472 (2019 est.)<br>
 30.8395 (2018 est.)<br>
 31.911 (2014 est.)<br>
-30.363 (2013 est.)<br>
 
 ## Energy
 

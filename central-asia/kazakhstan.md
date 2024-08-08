@@ -95,8 +95,9 @@ _adjective_: Kazakhstani<br>
 Kazakh 71%, Russian 14.9%, Uzbek 3.3%, Ukrainian 1.9%, Uyghurs 1.5%, German 1.1%, Tatar 1.1%, other 4.9%, unspecified 0.3% (2023 est.)<br>
 
 **Languages**<br>
-Kazakh (official, Qazaq) 80.1% (understand spoken language), Russian (understand spoken language) 83.7%, English (understand spoken language) 35.1% (2021 est.)<br>
+Kazakh (official, Qazaq) 80.1%, Russian 83.7%, English 35.1% (2021 est.)<br>
 _major-language sample(s)_: <br>Әлемдік деректер кітабы, негізгі ақпараттың таптырмайтын көзі. (Kazakh)<br><br>Книга фактов о мире – незаменимый источник базовой информации. (Russian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:  </strong>percentages are based on population that understands the spoken language<br>
 
 **Religions**<br>
 Muslim 69.3%, Christian 17.2% (Orthodox 17%, other 0.2%), Buddhism 0.1%, other 0.1%, non-believers 2.3%, unspecified 11% (2021 est.)<br>
@@ -324,12 +325,12 @@ _etymology_: the name means "capital city" in Kazakh<br>
 **National holiday**<br>
 Independence Day, 16 December (1991)<br>
 
+**Legal system**<br>
+civil law system influenced by Roman-Germanic law and by the theory and practice of the Russian Federation<br>
+
 **Constitution**<br>
 _history_: previous 1937, 1978 (preindependence), 1993; latest approved by referendum 30 August 1995, effective 5 September 1995<br>
 _amendments_: introduced by a referendum initiated by the president of the republic, on the recommendation of Parliament, or by the government; the president has the option of submitting draft amendments to Parliament or directly to a referendum; passage of amendments by Parliament requires four-fifths majority vote of both houses and the signature of the president; passage by referendum requires absolute majority vote by more than one half of the voters in at least two thirds of the oblasts, major cities, and the capital, followed by the signature of the president; amended several times, last in 2022<br>
-
-**Legal system**<br>
-civil law system influenced by Roman-Germanic law and by the theory and practice of the Russian Federation<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -505,13 +506,8 @@ _highest 10%_: 24.8% (2021 est.)<br>
 _revenues_: $29.955 billion (2020 est.)<br>
 _expenditures_: $41.994 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--1.8% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 22.41% of GDP (2021 est.)<br>
-23.72% of GDP (2020 est.)<br>
-18.48% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

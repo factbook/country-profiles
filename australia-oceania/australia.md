@@ -332,12 +332,12 @@ Ashmore and Cartier Islands, Christmas Island, Cocos (Keeling) Islands, Coral Se
 **National holiday**<br>
 Australia Day (commemorates the arrival of the First Fleet of Australian settlers), 26 January (1788); ANZAC Day (commemorates the anniversary of the landing of troops of the Australian and New Zealand Army Corps during World War I at Gallipoli, Turkey), 25 April (1915)<br>
 
+**Legal system**<br>
+common law system based on the English model<br>
+
 **Constitution**<br>
 _history_: approved in a series of referenda from 1898 through 1900 and became law 9 July 1900, effective 1 January 1901<br>
 _amendments_: proposed by Parliament; passage requires approval of a referendum bill by absolute majority vote in both houses of Parliament, approval in a referendum by a majority of voters in at least four states and in the territories, and Royal Assent; proposals that would reduce a state&rsquo;s representation in either house or change a state&rsquo;s boundaries require that state&rsquo;s approval prior to Royal Assent; amended several times, last in 1977<br>
-
-**Legal system**<br>
-common law system based on the English model<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -511,13 +511,8 @@ _highest 10%_: 26.6% (2018 est.)<br>
 _revenues_: $479.33 billion (2019 est.)<br>
 _expenditures_: $532.579 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--0.5% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 57.97% of GDP (2022 est.)<br>
-69.91% of GDP (2021 est.)<br>
-69.22% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

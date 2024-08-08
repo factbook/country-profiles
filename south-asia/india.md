@@ -100,8 +100,9 @@ _adjective_: Indian<br>
 Indo-Aryan 72%, Dravidian 25%, and other 3% (2000)<br>
 
 **Languages**<br>
-Hindi 43.6%, Bengali 8%, Marathi 6.9%, Telugu 6.7%, Tamil 5.7%, Gujarati 4.6%, Urdu 4.2%, Kannada 3.6%, Odia 3.1%, Malayalam 2.9%, Punjabi 2.7%, Assamese 1.3%, Maithili 1.1%, other 5.6%; note - English enjoys the status of subsidiary official language but is the most important language for national, political, and commercial communication; there are 22 other officially recognized languages: Assamese, Bengali, Bodo, Dogri, Gujarati, Hindi, Kannada, Kashmiri, Konkani, Maithili, Malayalam, Manipuri, Marathi, Nepali, Odia, Punjabi, Sanskrit, Santali, Sindhi, Tamil, Telugu, Urdu; Hindustani is a popular variant of Hindi/Urdu spoken widely throughout northern India but is not an official language (2011 est.)<br>
+Hindi 43.6%, Bengali 8%, Marathi 6.9%, Telugu 6.7%, Tamil 5.7%, Gujarati 4.6%, Urdu 4.2%, Kannada 3.6%, Odia 3.1%, Malayalam 2.9%, Punjabi 2.7%, Assamese 1.3%, Maithili 1.1%, other 5.6%;&nbsp; English is the subsidiary official language but is the most important one for national, political, and commercial communication (2011 est.)<br>
 _major-language sample(s)_: <p>विश्व फ़ैक्टबुक, आधारभूत जानकारी का एक अनिवार्य स्रोत (Hindi)</p> The World Factbook, the indispensable source for basic information.<br>
+<strong>note 1: </strong>there are 22 other recognized languages -- Assamese, Bengali, Bodo, Dogri, Gujarati, Hindi, Kannada, Kashmiri, Konkani, Maithili, Malayalam, Manipuri, Marathi, Nepali, Odia, Punjabi, Sanskrit, Santali, Sindhi, Tamil, Telugu, Urdu <br><strong>note 2: </strong>Hindustani is a popular variant of Hindi/Urdu spoken widely throughout northern India but is not an official language<br>
 
 **Religions**<br>
 Hindu 79.8%, Muslim 14.2%, Christian 2.3%, Sikh 1.7%, other and unspecified 2% (2011 est.)<br>
@@ -337,12 +338,12 @@ _etymology_: the city's name is associated with various myths and legends; the o
 **National holiday**<br>
 Republic Day, 26 January (1950)<br>
 
+**Legal system**<br>
+common law system based on the English model; separate personal law codes apply to Muslims, Christians, and Hindus; judicial review of legislative acts<br>
+
 **Constitution**<br>
 _history_: previous 1935 (preindependence); latest draft completed 4 November 1949, adopted 26 November 1949, effective 26 January 1950<br>
 _amendments_: proposed by either the Council of States or the House of the People; passage requires majority participation of the total membership in each house and at least two-thirds majority of voting members of each house, followed by assent of the president of India; proposed amendments to the constitutional amendment procedures also must be ratified by at least one half of the India state legislatures before presidential assent; amended many times, last in 2023<br>
-
-**Legal system**<br>
-common law system based on the English model; separate personal law codes apply to Muslims, Christians, and Hindus; judicial review of legislative acts<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt<br>
@@ -492,9 +493,6 @@ _male_: 15.8% (2023 est.)<br>
 _female_: 15.7% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-21.9% (2011 est.)<br>
-
 **Gini Index coefficient - distribution of family income**<br>
 32.8 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
@@ -518,13 +516,8 @@ _highest 10%_: 25.6% (2021 est.)<br>
 _revenues_: $495.007 billion (2020 est.)<br>
 _expenditures_: $818.94 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--3.5% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 46.52% of GDP (2018 est.)<br>
-47.58% of GDP (2017 est.)<br>
-47.63% of GDP (2016 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
@@ -753,7 +746,7 @@ Indian Space Research Organization (ISRO; established 1969); the ISRO is subordi
 Satish Dhawan Space Center (aka Sriharikota Range; located in Andhra Pradesh); Vikram Sarabhai Space Center (Kerala) (2024)<br>
 
 **Space program overview**<br>
-has one of the world’s largest space programs; designs, builds, launches, operates, and tracks the full spectrum of satellites, including communications, navigation, remote sensing (RS), and scientific/technology; designs, builds, and launches rockets, space/satellite launch vehicles (SLVs), and lunar/interplanetary probes; launches satellites for foreign partners; developing human space flight capabilities (with assistance from Russia, US); researching and developing additional space-related technologies and capabilities; has space-related agreements with more than 50 countries, including China, France, Germany, Japan, Russia, and the US, as well as the European Space Agency; participates in international space projects such as the Square Kilometer Array (SKA) radio telescope; has a government-owned company under the administrative control of DOS; NewSpace India Limited (NSIL) is the commercial arm of the ISRO with the responsibility of researching and developing space-related technologies and promoting India’s growing space industry (2024)<br>
+has one of the world’s largest space programs; designs, builds, launches, operates, and tracks the full spectrum of satellites, including communications, navigation, remote sensing (RS), and scientific/technology; designs, builds, and launches rockets, space/satellite launch vehicles (SLVs), and lunar/interplanetary probes; launches satellites for foreign partners; developing astronaut corps and human flight capabilities (with assistance from Russia, US); researching and developing additional space-related technologies and capabilities; has space-related agreements with more than 50 countries, including China, France, Germany, Japan, Russia, and the US, as well as the European Space Agency; participates in international space projects such as the Square Kilometer Array (SKA) radio telescope; has a government-owned company under the administrative control of DOS; NewSpace India Limited (NSIL) is the commercial arm of the ISRO with the responsibility of researching and developing space-related technologies and promoting India’s growing space industry (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

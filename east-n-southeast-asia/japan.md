@@ -311,12 +311,12 @@ _etymology_: originally known as Edo, meaning "estuary" in Japanese, the name wa
 **National holiday**<br>
 Birthday of Emperor NARUHITO, 23 February (1960); note - celebrates the birthday of the current emperor<br>
 
+**Legal system**<br>
+civil law system based on German model; system also reflects Anglo-American influence and Japanese traditions; judicial review of legislative acts in the Supreme Court<br>
+
 **Constitution**<br>
 _history_: previous 1890; latest approved 6 October 1946, adopted 3 November 1946, effective 3 May 1947<br>
 _amendments_: proposed by the Diet; passage requires approval by at least two-thirds majority of both houses of the Diet and approval by majority in a referendum; note - the constitution has not been amended since its enactment in 1947<br>
-
-**Legal system**<br>
-civil law system based on German model; system also reflects Anglo-American influence and Japanese traditions; judicial review of legislative acts in the Supreme Court<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -467,21 +467,9 @@ _male_: 4.5% (2023 est.)<br>
 _female_: 3.7% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-16.1% (2013 est.)<br>
-
-**Gini Index coefficient - distribution of family income**<br>
-32.9 (2013 est.)<br>
-<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
-
 **Average household expenditures**<br>
 _on food_: 16.7% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 3% of household expenditures (2021 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.9%<br>
-_highest 10%_: 26.4% (2013 est.)<br>
-<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.13% of GDP (2023 est.)<br>
@@ -493,13 +481,8 @@ _highest 10%_: 26.4% (2013 est.)<br>
 _revenues_: $1.756 trillion (2019 est.)<br>
 _expenditures_: $1.916 trillion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--3.5% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 216.21% of GDP (2022 est.)<br>
-216.33% of GDP (2021 est.)<br>
-215.76% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

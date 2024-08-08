@@ -245,12 +245,12 @@ none (commonwealth in political union with the US)<br>
 **National holiday**<br>
 Commonwealth Day, 8 January (1978)<br>
 
+**Legal system**<br>
+the laws of the US apply, except for customs and some aspects of taxation<br>
+
 **Constitution**<br>
 _history_: partially effective 9 January 1978 (Constitution of the Commonwealth of the Northern Mariana Islands); fully effective 4 November 1986 (Covenant Agreement)<br>
 _amendments_: proposed by constitutional convention, by public petition, or by the Legislature; ratification of proposed amendments requires approval by voters at the next general election or special election; amendments proposed by constitutional convention or by petition become effective if approved by a majority of voters and at least two-thirds majority of voters in each of two senatorial districts; amendments proposed by the Legislature are effective if approved by majority vote; amended several times, last in 2012<br>
-
-**Legal system**<br>
-the laws of the US apply, except for customs and some aspects of taxation<br>
 
 **Citizenship**<br>
 see United States<br>
@@ -263,7 +263,7 @@ _chief of state_: President Joseph R. BIDEN Jr. (since 20 January 2021)<br>
 _head of government_: Governor Arnold PALACIOS (since 9 January 2023)<br>
 _cabinet_: Cabinet appointed by the governor with the advice and consent of the Senate<br>
 _elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of the Northern Mariana Islands do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican party presidential primary elections; governor directly elected by absolute majority vote in 2 rounds if needed; election last held on 8 November 2022 with a runoff held on 25 November 2022 (next to be held in 2026)<br>
-_election results_: Arnold PALACIOS elected governor in second round; percent of vote in first round - Ralph TORRES (Republican) 38.8%; Arnold PALACIOS (independent) 32.2%, Tina SABLAN (Democrat) 28%; percent of vote - Arnold PALACIOS 54%, Ralph TORRES 46%; David APATANG (independent) elected lieutenant governor<br>
+_election results_: <br><em>2022: </em>Arnold PALACIOS elected governor in second round; percent of vote in first round - Ralph TORRES (Republican) 38.8%; Arnold PALACIOS (independent) 32.2%, Tina SABLAN (Democrat) 28%; percent of vote - Arnold PALACIOS 54%, Ralph TORRES 46%; David APATANG (independent) elected lieutenant governor<br><br><em>2018: </em>Ralph TORRES elected governor; percent of vote - Ralph TORRES (Republican) 62.2%, Juan BABAUTA (Independent) 37.8%;  Arnold PALACIOS elected Lieutenant Governor<br>
 
 **Legislative branch**<br>
 _description_: bicameral Northern Marianas Commonwealth Legislature consists of:<br>Senate (9 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>House of Representatives (20 seats; members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms)<br><br>the Northern Mariana Islands directly elects 1 delegate to the US House of Representatives by simple majority vote to serve a 2-year term<br>
@@ -349,20 +349,9 @@ tourism, banking, construction, fishing, handicrafts, other services<br>
 4.3% (2014 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
-**Labor force**<br>
-27,970 (2010 est.)<br>
-<strong>note:</strong> includes foreign workers<br>
-
-**Unemployment rate**<br>
-11.2% (2010 est.)<br>
-8% (2005 est.)<br>
-
 **Budget**<br>
 _revenues_: $389.6 million (2016 est.)<br>
 _expenditures_: $344 million (2015 est.)<br>
-
-**Budget surplus (+) or deficit (-)**<br>
-3.7% (of GDP) (2016 est.)<br>
 
 **Public debt**<br>
 7.1% of GDP (2017 est.)<br>

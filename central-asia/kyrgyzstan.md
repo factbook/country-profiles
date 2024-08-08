@@ -320,12 +320,12 @@ _etymology_: founded in 1868 as a Russian settlement on the site of a previously
 **National holiday**<br>
 Independence Day, 31 August (1991)<br>
 
+**Legal system**<br>
+civil law system, which includes features of French civil law and Russian Federation laws<br>
+
 **Constitution**<br>
 _history_: previous 1993, 2007, 2010; latest approved by referendum in April 2021 that transitioned Kyrgyzstan from a parliamentary to a presidential system, and implemented changes that allow the president to serve for two 5-year terms rather than one 6-year term, reduced the number of seats in Kyrgyzstan's legislature from 120 to 90, and established a Kurultay - a public advisory council<br>
 _amendments_: proposed as a draft law by the majority of the Supreme Council membership or by petition of 300,000 voters; passage requires at least two-thirds majority vote of the Council membership in each of at least three readings of the draft two months apart; the draft may be submitted to a referendum if approved by two thirds of the Council membership; adoption requires the signature of the president<br>
-
-**Legal system**<br>
-civil law system, which includes features of French civil law and Russian Federation laws<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -494,13 +494,8 @@ _highest 10%_: 24.2% (2021 est.)<br>
 _revenues_: $2.878 billion (2019 est.)<br>
 _expenditures_: $2.89 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--3.2% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 47.09% of GDP (2022 est.)<br>
-56.36% of GDP (2021 est.)<br>
-67.96% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
@@ -697,6 +692,9 @@ US-designated foreign terrorist groups such as the Islamic Jihad Union, the Isla
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 482 (2022)<br>
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Kyrgyzstan was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/kyrgyzstan/<br>
 
 **Illicit drugs**<br>
 <p>a prime transit route and transshipment route for illegal drugs transiting north from Afghanistan to Russia and Europe; illicit drugs are primarily smuggled into the country from Tajikistan</p> <p> </p><br>

@@ -281,12 +281,12 @@ _etymology_: in 1785, the village of Carenage was renamed Castries, after Charle
 **National holiday**<br>
 Independence Day, 22 February (1979)<br>
 
+**Legal system**<br>
+English common law<br>
+
 **Constitution**<br>
 _history_: previous 1958, 1960 (preindependence); latest presented 20 December 1978, effective 22 February 1979<br>
 _amendments_: proposed by Parliament; passage requires at least two-thirds majority vote by the House of Assembly membership in the final reading and assent of the governor general; passage of amendments to various constitutional sections, such as those on fundamental rights and freedoms, government finances, the judiciary, and procedures for amending the constitution, require at least three-quarters majority vote by the House and assent of the governor general; passage of amendments approved by the House but rejected by the Senate require a majority of votes cast in a referendum; amended several times, last in 2008<br>
-
-**Legal system**<br>
-English common law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -444,12 +444,8 @@ _highest 10%_: 34.1% (2015 est.)<br>
 _revenues_: $350 million (2020 est.)<br>
 _expenditures_: $516 million (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-0.3% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 70.7% of GDP (2017 est.)<br>
-69.2% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 18.23% (of GDP) (2017 est.)<br>

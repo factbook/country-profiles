@@ -324,12 +324,12 @@ _etymology_: Ouagadougou is a Francophone spelling of the native name "Wogodogo,
 **National holiday**<br>
 Republic Day, 11 December (1958); note - commemorates the day that Upper Volta became an autonomous republic in the French Community<br>
 
+**Legal system**<br>
+civil law based on the French model and customary law; in mid-2019, the National Assembly amended the penal code<br>
+
 **Constitution**<br>
 _history_: several previous; latest approved by referendum 2 June 1991, adopted 11 June 1991, temporarily suspended late October to mid-November 2014; initial draft of a new constitution to usher in the new republic was completed in January 2017 and a final draft was submitted to the government in December 2017; a constitutional referendum originally scheduled for adoption in March 2019 was postponed; on 1 March 2022 a transition charter was adopted, allowing military authorities to rule for three years and barring the transitional president from being an electoral candidate after the transition<br>
 _amendments_: proposed by the president, by a majority of National Assembly membership, or by petition of at least 30,000 eligible voters submitted to the Assembly; passage requires at least three-fourths majority vote in the Assembly; failure to meet that threshold requires majority voter approval in a referendum; constitutional provisions on the form of government, the multiparty system, and national sovereignty cannot be amended; amended several times<br>
-
-**Legal system**<br>
-civil law based on the French model and customary law; in mid-2019, the National Assembly amended the penal code<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -498,13 +498,8 @@ _highest 10%_: 30.2% (2021 est.)<br>
 _revenues_: $3.212 billion (2019 est.)<br>
 _expenditures_: $3.757 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--7.9% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 62.53% of GDP (2022 est.)<br>
-55.74% of GDP (2021 est.)<br>
-73.39% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
@@ -685,4 +680,7 @@ Ansarul Islam; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 36,372 (Mali) (2023)<br>
 _IDPs_: <p>2,062,534 (2023)</p><br>
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch list — Burkina Faso did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/burkina-faso/<br>
 

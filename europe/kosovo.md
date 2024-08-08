@@ -87,8 +87,9 @@ Albanians 92.9%, Bosniaks 1.6%, Serbs 1.5%, Turk 1.1%, Ashkali 0.9%, Egyptian 0.
 <strong>note:</strong> these estimates may under-represent Serb, Romani, and some other ethnic minorities because they are based on the 2011 Kosovo national census, which excluded northern Kosovo (a largely Serb-inhabited region) and was partially boycotted by Serb and Romani communities in southern Kosovo<br>
 
 **Languages**<br>
-Albanian (official) 94.5%, Bosnian 1.7%, Serbian (official) 1.6%, Turkish 1.1%, other 0.9% (includes Romani), unspecified 0.1%; note - in municipalities where a community's mother tongue is not one of Kosovo's official languages, the language of that community may be given official status according to the 2006 Law on the Use of Languages<br><br><strong>note:</strong> these estimates may under-represent Serb, Romani, and some other ethnic minority languages because they are based on the 2011 Kosovo national census, which excluded northern Kosovo (a largely Serb-inhabited region) and was partially boycotted by Serb and Romani communities in southern Kosovo (2011 est.)<br>
+Albanian (official) 94.5%, Bosnian 1.7%, Serbian (official) 1.6%, Turkish 1.1%, other 0.9% (includes Romani), unspecified 0.1% (2011 est.)<br>
 _major-language sample(s)_: Libri i fakteve boterore, burimi i pazevendesueshem per informacione elementare (Albanian)<br><br>Knjiga svetskih činjenica, neophodan izvor osnovnih informacija. (Serbian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> these estimates may under-represent Serb, Romani, and other ethnic minority languages because they are based on the 2011 Kosovo national census, which excluded northern Kosovo (a largely Serb-inhabited region) and was partially boycotted by Serb and Romani communities in southern Kosovo<br>
 
 **Religions**<br>
 Muslim 95.6%, Roman Catholic 2.2%, Orthodox 1.5%, other 0.1%, none 0.1%, unspecified 0.6% (2011 est.)<br>
@@ -242,12 +243,12 @@ _etymology_: the name may derive from a Proto-Slavic word reconstructed as "prys
 **National holiday**<br>
 Independence Day, 17 February (2008)<br>
 
+**Legal system**<br>
+civil law system; note - the European Union Rule of Law Mission (EULEX) retained limited executive powers within the Kosovo judiciary for complex cases from 2008 to 2018<br>
+
 **Constitution**<br>
 _history_: previous 1974, 1990; latest (postindependence) draft finalized 2 April 2008, signed 7 April 2008, ratified 9 April 2008, entered into force 15 June 2008; note - amendment 24, passed by the Assembly in August 2015, established the Kosovo Relocated Specialist Institution, referred to as the Kosovo Specialist Chamber or "Specialist Court," to try war crimes, crimes against humanity, and other crimes under Kosovo law committed during and immediately after the Kosovo War (1998-2000)<br>
 _amendments_: proposed by the government, by the president of the republic, or by one fourth of Assembly deputies; passage requires two-thirds majority vote of the Assembly, including two-thirds majority vote of deputies representing non-majority communities, followed by a favorable Constitutional Court assessment; amended several times, last in 2020<br>
-
-**Legal system**<br>
-civil law system; note - the European Union Rule of Law Mission (EULEX) retained limited executive powers within the Kosovo judiciary for complex cases from 2008 to 2018<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -266,7 +267,7 @@ _chief of state_: President Vjosa OSMANI-Sadriu (since 4 April 2021)<br>
 _head of government_: Prime Minister Albin KURTI (since 22 March 2021)<br>
 _cabinet_: Cabinet elected by the Assembly<br>
 _elections/appointments_: president indirectly elected by at least two-thirds majority vote of the Assembly for a 5-year term; if a candidate does not attain a two-thirds threshold in the first two ballots, the candidate winning a simple majority vote in the third ballot is elected (eligible for a second term); election last held on 3 to 4 April 2021 (next to be held in 2026); prime minister indirectly elected by the Assembly<br>
-_election results_: <em>2021: </em> Vjosa OSMANI-Sadriu elected president in third ballot; Assembly vote - Vjosa OSMANI-Sadriu (Guxo!) 71 votes; Albin KURTI (LVV) elected prime minister; Assembly vote - 67 for, 30 against<br><br><em>2017: </em>Ramush HARADINAJ (AAK) elected prime minister; Assembly vote - 61 for, 1 abstention, 0 against (opposition boycott)<br><br><em>2016:</em> Hashim THACI elected president in third ballot; Assembly vote - Hashim THACI (PDK) 71 votes<br>
+_election results_: <em><br>2021: </em> Vjosa OSMANI-Sadriu elected president in third ballot; Assembly vote - Vjosa OSMANI-Sadriu (Guxo!) 71 votes; Albin KURTI (LVV) elected prime minister; Assembly vote - 67 for, 30 against<br><br><em>2017: </em>Ramush HARADINAJ (AAK) elected prime minister; Assembly vote - 61 for, 1 abstention, 0 against (opposition boycott)<br><br><em>2016:</em> Hashim THACI elected president in third ballot; Assembly vote - Hashim THACI (PDK) 71 votes<br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly or Kuvendi i Kosoves/Skupstina Kosova (120 seats; 100 members directly elected by open-list proportional representation vote with 20 seats reserved for ethnic minorities - 10 for Serbs and 10 for other ethnic minorities; members serve 4-year terms)<br>
@@ -411,12 +412,8 @@ _highest 10%_: 24.6% (2017 est.)<br>
 _revenues_: $1.951 billion (2020 est.)<br>
 _expenditures_: $2.547 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--2.1% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 21.2% of GDP (2017 est.)<br>
-19.4% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 29% (of GDP) (2017 est.)<br>

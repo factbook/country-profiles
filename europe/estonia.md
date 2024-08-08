@@ -309,12 +309,12 @@ _etymology_: the Estonian name is generally believed to be derived from "Taani-l
 **National holiday**<br>
 Independence Day, 24 February (1918); note - 24 February 1918 was the date Estonia declared its independence from Soviet Russia and established its statehood; 20 August 1991 was the date it declared its independence from the Soviet Union restoring its statehood<br>
 
+**Legal system**<br>
+civil law system<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted 28 June 1992, entered into force 3 July 1992<br>
 _amendments_: proposed by at least one-fifth of Parliament members or by the president of the republic; passage requires three readings of the proposed amendment and a simple majority vote in two successive memberships of Parliament; passage of amendments to the "General Provisions" and "Amendment of the Constitution" chapters requires at least three-fifths majority vote by Parliament to conduct a referendum and majority vote in a referendum; amended several times, last in 2015<br>
-
-**Legal system**<br>
-civil law system<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -489,13 +489,8 @@ _highest 10%_: 24.3% (2021 est.)<br>
 _revenues_: $12.282 billion (2019 est.)<br>
 _expenditures_: $12.269 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--0.3% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 25.2% of GDP (2022 est.)<br>
-23.89% of GDP (2021 est.)<br>
-23.77% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

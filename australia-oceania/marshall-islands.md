@@ -87,7 +87,7 @@ _adjective_: Marshallese<br>
 Marshallese 95.6%, Filipino 1.1%, other 3.3% (2021 est.)<br>
 
 **Languages**<br>
-Marshallese (official) 98.2%, other languages 1.8% (1999 est.)<br>
+Marshallese (official) 98.2%, other languages 1.8% (1999)<br>
 _major-language sample(s)_: <p><br>Bok eo an Lalin kin Melele ko Rejimwe ej jikin ebōk melele ko raurōk. (Marshallese)<br><br>The World Factbook, the indispensable source for basic information.</p><br>
 <strong>note:</strong> English (official), widely spoken as a second language<br>
 
@@ -280,12 +280,12 @@ _etymology_: Majuro means "two openings" or "two eyes" and refers to the two maj
 **National holiday**<br>
 Constitution Day, 1 May (1979)<br>
 
+**Legal system**<br>
+mixed legal system of US and English common law, customary law, and local statutes<br>
+
 **Constitution**<br>
 _history_: effective 1 May 1979<br>
 _amendments_: proposed by the National Parliament or by a constitutional convention; passage by Parliament requires at least two-thirds majority vote of the total membership in each of two readings and approval by a majority of votes in a referendum; amendments submitted by a constitutional convention require approval of at least two thirds of votes in a referendum; amended several times, last in 2018<br>
-
-**Legal system**<br>
-mixed legal system of US and English common law, customary law, and local statutes<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -300,11 +300,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Hilda C. HEINE (since 3 January 2023)&nbsp;<br>
+_chief of state_: President Hilda C. HEINE (since 3 January 2023)<br>
 _head of government_: President Hilda C. HEINE (since 3 January 2023)<br>
 _cabinet_: Cabinet nominated by the president from among members of the Nitijela, appointed by Nitijela speaker<br>
 _elections/appointments_: president indirectly elected by the Nitijela from among its members for a 4-year term (no term limits); election last held on 2 January 2023 (next to be held in 2027)<br>
-_election results_: <em>2023: </em>Hilda C. HEINE elected president; National Parliament vote - Hilda C. HEINE (independent) 17, David KABUA (independent) 16<br><br><em>2020: </em>David KABUA elected president; National Parliament vote - David KABUA (independent) 20, Hilda C. HEINE (independent) 12<br>
+_election results_: <em><br>2023: </em>Hilda C. HEINE elected president; National Parliament vote - Hilda C. HEINE (independent) 17, David KABUA (independent) 16<br><br><em>2020: </em>David KABUA elected president; National Parliament vote - David KABUA (independent) 20, Hilda C. HEINE (independent) 12<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -408,9 +408,6 @@ copra, tuna processing, tourism, craft items (from seashells, wood, and pearls)<
 10.24% (2022 est.)<br>
 <strong>note:</strong> annual % change in industrial value added based on constant local currency<br>
 
-**Labor force**<br>
-10,670 (2013 est.)<br>
-
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 26% (2019 est.)<br>
 _male_: 31%<br>
@@ -439,13 +436,8 @@ _highest 10%_: 27.5% (2019 est.)<br>
 _revenues_: $148 million (2019 est.)<br>
 _expenditures_: $153 million (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-1.3% (of GDP) (2013 est.)<br>
-
 **Public debt**<br>
 41.73% of GDP (2019 est.)<br>
-44.12% of GDP (2018 est.)<br>
-47.9% of GDP (2017 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

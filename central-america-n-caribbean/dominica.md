@@ -265,12 +265,12 @@ _etymology_: the name is French for "reed"; the first settlement was named after
 **National holiday**<br>
 Independence Day, 3 November (1978)<br>
 
+**Legal system**<br>
+common law based on the English model<br>
+
 **Constitution**<br>
 _history_: previous 1967 (preindependence); latest presented 25 July 1978, entered into force 3 November 1978<br>
 _amendments_: proposed by the House of Assembly; passage of amendments to constitutional sections such as fundamental rights and freedoms, the government structure, and constitutional amendment procedures requires approval by three fourths of the Assembly membership in the final reading of the amendment bill, approval by simple majority in a referendum, and assent of the president; amended several times, last in 2015<br>
-
-**Legal system**<br>
-common law based on the English model<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction<br>
@@ -390,9 +390,6 @@ soap, coconut oil, tourism, copra, furniture, cement blocks, shoes<br>
 5.01% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
-**Population below poverty line**<br>
-29% (2009 est.)<br>
-
 **Remittances**<br>
 9.05% of GDP (2023 est.)<br>
 6.22% of GDP (2022 est.)<br>
@@ -403,12 +400,8 @@ soap, coconut oil, tourism, copra, furniture, cement blocks, shoes<br>
 _revenues_: $180 million (2021 est.)<br>
 _expenditures_: $184 million (2021 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--5.9% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 82.7% of GDP (2017 est.)<br>
-71.7% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 40.9% (of GDP) (2017 est.)<br>

@@ -94,8 +94,9 @@ _adjective_: Dutch<br>
 Dutch 75.4%, EU (excluding Dutch) 6.4%, Turkish 2.4%, Moroccan 2.4%, Surinamese 2.1%, Indonesian 2%, other 9.3% (2021 est.)<br>
 
 **Languages**<br>
-Dutch (official); note - Frisian is an official language in Fryslan province; Frisian, Low Saxon, Limburgish, Romani, and Yiddish have protected status under the European Charter for Regional or Minority Languages; Dutch is the official language of the three special municipalities of the Caribbean Netherlands; English is a recognized regional language on Sint Eustatius and Saba; Papiamento is a recognized regional language on Bonaire<br>
-_major-language sample(s)_: <br>Het Wereld Feitenboek, een onmisbare bron van informatie. (Dutch)<br><br>The World Factbook, the indispensable source for basic information.<br>
+Dutch (official), Frisian (official in Fryslan province)<br>
+_major-language sample(s)_: Het Wereld Feitenboek, een onmisbare bron van informatie. (Dutch)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note: </strong>Frisian, Low Saxon, Limburgish, Romani, and Yiddish have protected status; Dutch is the official language of the three special municipalities of the Caribbean Netherlands; English is a recognized regional language on Sint Eustatius and Saba; Papiamento is a recognized regional language on Bonaire<br>
 
 **Religions**<br>
 Roman Catholic 20.1%, Protestant 14.8% (includes Dutch Reformed, Protestant Church of The Netherlands, Calvinist), Muslim 5%, other 5.9% (includes Hindu, Buddhist, Jewish), none 54.1% (2019 est.)<br>
@@ -319,12 +320,12 @@ _etymology_: the original Dutch name, Amstellerdam, meaning "a dam on the Amstel
 **National holiday**<br>
 King's Day (birthday of King WILLEM-ALEXANDER), 27 April (1967); note - King's or Queen's Day is observed on the ruling monarch's birthday; currently celebrated on 26 April if 27 April is a Sunday<br>
 
+**Legal system**<br>
+civil law system based on the French system; constitution does not permit judicial review of acts of the States General<br>
+
 **Constitution**<br>
 _history_: many previous to adoption of the "Basic Law of the Kingdom of the Netherlands" on 24 August 1815; revised 8 times, the latest in 1983<br>
 _amendments_: proposed as an Act of Parliament by or on behalf of the king or by the Second Chamber of the States General; the Second Chamber is dissolved after its first reading of the Act; passage requires a second reading by both the First Chamber and the newly elected Second Chamber, followed by at least two-thirds majority vote of both chambers, and ratification by the king; amended many times, last in 2023<br>
-
-**Legal system**<br>
-civil law system based on the French system; constitution does not permit judicial review of acts of the States General<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -499,12 +500,8 @@ _highest 10%_: 21.4% (2021 est.)<br>
 _revenues_: $396.687 billion (2019 est.)<br>
 _expenditures_: $374.166 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-1.1% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 56.5% of GDP (2017 est.)<br>
-61.3% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment, debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>

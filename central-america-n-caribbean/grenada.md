@@ -278,12 +278,12 @@ _etymology_: the 1763 Treaty of Paris transferred possession of Grenada from Fra
 **National holiday**<br>
 Independence Day, 7 February (1974)<br>
 
+**Legal system**<br>
+common law based on English model<br>
+
 **Constitution**<br>
 _history_: previous 1967; latest presented 19 December 1973, effective 7 February 1974, suspended 1979 following a revolution but restored in 1983<br>
 _amendments_: proposed by either house of Parliament; passage requires two-thirds majority vote by the membership in both houses and assent of the governor general; passage of amendments to constitutional sections, such as personal rights and freedoms, the structure, authorities, and procedures of the branches of government, the delimitation of electoral constituencies, or the procedure for amending the constitution, also requires two-thirds majority approval in a referendum; amended 1991, 1992<br>
-
-**Legal system**<br>
-common law based on English model<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -434,12 +434,8 @@ _highest 10%_: 33.7% (2018 est.)<br>
 _revenues_: $323 million (2019 est.)<br>
 _expenditures_: $263 million (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-3.2% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 70.4% of GDP (2017 est.)<br>
-82% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 25.8% (of GDP) (2017 est.)<br>

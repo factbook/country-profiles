@@ -321,9 +321,6 @@ US 55%, Netherlands 17%, Singapore 10%, Japan 8%, Senegal 2% (2022)<br>
 fish, shellfish, iron alloys, glass working machines, corn (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
-**Imports**<br>
-$20.53 million (2010)<br>
-
 **Imports - partners**<br>
 UK 44%, South Africa 25%, US 21%, Czechia 4%, Namibia 2% (2022)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
@@ -336,12 +333,12 @@ asphalt, baked goods, air pumps, plastic products, iron sheet piling (2022)<br>
 <p>NA</p><br>
 
 **Exchange rates**<br>
-_Currency_: Saint Helenian pounds (SHP) per US dollar -<br>
-0.7836 (2017 est.)<br>
-0.6542 (2016 est.)<br>
-0.6542 (2015)<br>
-0.607 (2014 est.)<br>
-0.6391 (2013 est.)<br>
+_Currency_: Saint Helena pounds (SHP) per US dollar -<br>
+0.805 (2023 est.)<br>
+0.811 (2022 est.)<br>
+0.727 (2021 est.)<br>
+0.78 (2020 est.)<br>
+0.783 (2019 est.)<br>
 
 ## Energy
 

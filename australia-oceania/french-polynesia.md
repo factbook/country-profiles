@@ -249,12 +249,12 @@ none (overseas land of France)<br>
 **National holiday**<br>
 F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790); note - the local holiday is Internal Autonomy Day, 29 June (1880)<br>
 
+**Legal system**<br>
+the laws of France, where applicable, apply<br>
+
 **Constitution**<br>
 _history_: 4 October 1958 (French Constitution)<br>
 _amendments_: French constitution amendment procedures apply<br>
-
-**Legal system**<br>
-the laws of France, where applicable, apply<br>
 
 **Citizenship**<br>
 see France<br>
@@ -380,9 +380,6 @@ _male_: 33.8% (2023 est.)<br>
 _female_: 42% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-19.7% (2009 est.)<br>
-
 **Remittances**<br>
 10% of GDP (2022 est.)<br>
 9.46% of GDP (2021 est.)<br>
@@ -392,12 +389,6 @@ _female_: 42% (2023 est.)<br>
 **Budget**<br>
 _revenues_: $1.891 billion (2012)<br>
 _expenditures_: $1.833 billion (2011)<br>
-
-**Budget surplus (+) or deficit (-)**<br>
-1.2% (of GDP) (2012)<br>
-
-**Taxes and other revenues**<br>
-39.4% (of GDP) (2012)<br>
 
 **Current account balance**<br>
 $411.963 million (2016 est.)<br>

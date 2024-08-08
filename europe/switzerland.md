@@ -95,8 +95,9 @@ Swiss 69.2%, German 4.2%, Italian 3.2%, Portuguese 2.5%, French 2.1%, Kosovan 1.
 <strong>note:</strong> data represent permanent and non-permanent resident population by country of birth<br>
 
 **Languages**<br>
-German (or Swiss German) (official) 62.1%, French (official) 22.8%, Italian (official) 8%, English 5.7%, Portuguese 3.5%, Albanian 3.3%, Serbo-Croatian 2.3%, Spanish 2.3%, Romansh (official) 0.5%, other 7.9%; note - German, French, Italian, and Romansh are all national and official languages; shares sum to more than 100% because respondents could indicate more than one main language (2019 est.)<br>
+German (or Swiss German) (official) 62.1%, French (official) 22.8%, Italian (official) 8%, English 5.7%, Portuguese 3.5%, Albanian 3.3%, Serbo-Croatian 2.3%, Spanish 2.3%, Romansh (official) 0.5%, other 7.9% (2019 est.)<br>
 _major-language sample(s)_: <br>Das World Factbook, die unverzichtbare Quelle für grundlegende Informationen. (German)<br><br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>L'Almanacco dei fatti del mondo, l'indispensabile fonte per le informazioni di base. (Italian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note</strong>: shares sum to more than 100% because respondents could indicate more than one main language<br>
 
 **Religions**<br>
 Roman Catholic 34.4%, Protestant 22.5%, other Christian 5.7%, Muslim 5.4%, other 1.5%, none 29.4%, unspecified 1.1% (2020 est.)<br>
@@ -317,12 +318,12 @@ _etymology_: origin of the name is uncertain but may derive from a 2nd century B
 **National holiday**<br>
 Founding of the Swiss Confederation in 1291; note - since 1 August 1891 celebrated as Swiss National Day<br>
 
+**Legal system**<br>
+civil law system; judicial review of legislative acts, except for federal decrees of a general obligatory character<br>
+
 **Constitution**<br>
 _history_: previous 1848, 1874; latest adopted by referendum 18 April 1999, effective 1 January 2000<br>
 _amendments_: proposed by the two houses of the Federal Assembly or by petition of at least one&nbsp;hundred thousand&nbsp;voters (called the "federal popular initiative"); passage of proposals requires majority vote in a referendum; following drafting of an amendment by the Assembly, its passage requires approval by majority vote in a referendum and approval by the majority of cantons; amended many times, last in 2018<br>
-
-**Legal system**<br>
-civil law system; judicial review of legislative acts, except for federal decrees of a general obligatory character<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -500,13 +501,8 @@ _revenues_: $239.767 billion (2018 est.)<br>
 _expenditures_: $230.383 billion (2018 est.)<br>
 <strong>note:</strong> includes federal, cantonal, and municipal budgets<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-1.1% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 17.8% of GDP (2022 est.)<br>
-19.99% of GDP (2021 est.)<br>
-20.85% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

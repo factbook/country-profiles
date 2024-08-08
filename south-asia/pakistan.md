@@ -336,12 +336,12 @@ _etymology_: derived from two words: <em>Islam</em>, an Urdu word referring to t
 **National holiday**<br>
 Pakistan Day (also referred to as Pakistan Resolution Day or Republic Day), 23 March (1940); note - commemorates both the adoption of the Lahore Resolution by the All-India Muslim League during its 22-24 March 1940 session, which called for the creation of independent Muslim states, and the adoption of the first constitution of Pakistan on 23 March 1956 during the transition to the Islamic Republic of Pakistan<br>
 
+**Legal system**<br>
+common law system with Islamic law influence<br>
+
 **Constitution**<br>
 _history_: several previous; latest endorsed 12 April 1973, passed 19 April 1973, entered into force 14 August 1973 (suspended and restored several times)<br>
 _amendments_: proposed by the Senate or by the National Assembly; passage requires at least two-thirds majority vote of both houses; amended many times, last in 2018<br>
-
-**Legal system**<br>
-common law system with Islamic law influence<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt<br>
@@ -518,12 +518,8 @@ _revenues_: $38.966 billion (2020 est.)<br>
 _expenditures_: $59.621 billion (2020 est.)<br>
 <strong>note:</strong> data are for fiscal years<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--5.8% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 67% of GDP (2017 est.)<br>
-67.6% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 15.4% (of GDP) (2017 est.)<br>

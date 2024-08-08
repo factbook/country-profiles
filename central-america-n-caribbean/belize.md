@@ -87,8 +87,9 @@ Mestizo 52.9%, Creole 25.9%, Maya 11.3%, Garifuna 6.1%, East Indian 3.9%, Mennon
 <strong>note:</strong> percentages add up to more than 100% because respondents were able to identify more than one ethnic origin<br>
 
 **Languages**<br>
-English 62.9% (official), Spanish 56.6%, Creole 44.6%, Maya 10.5%, German 3.2%, Garifuna 2.9%, other 1.8%, unknown 0.5%; note - shares sum to more than 100% because some respondents gave more than one answer on the census (2010 est.)<br>
+English 62.9% (official), Spanish 56.6%, Creole 44.6%, Maya 10.5%, German 3.2%, Garifuna 2.9%, other 1.8%, unknown 0.5% (2010 est.)<br>
 _major-language sample(s)_: <br>The World Factbook, the indispensable source for basic information. (English)<br><br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br>
+<strong>note:</strong> shares sum to more than 100% because some respondents gave more than one answer on the census<br>
 
 **Religions**<br>
 Roman Catholic 40.1%, Protestant 31.5% (includes Pentecostal 8.4%, Seventh Day Adventist 5.4%, Anglican 4.7%, Mennonite 3.7%, Baptist 3.6%, Methodist 2.9%, Nazarene 2.8%), Jehovah's Witness 1.7%, other 10.5% (includes Baha'i, Buddhist, Hindu, Church of Jesus Christ, Muslim, Rastafarian, Salvation Army), unspecified 0.6%, none 15.5% (2010 est.)<br>
@@ -299,12 +300,12 @@ _etymology_: the decision to move the capital of the country inland to higher an
 **National holiday**<br>
 Battle of St. George's Caye Day (National Day), 10 September (1798); Independence Day, 21 September (1981)<br>
 
+**Legal system**<br>
+English common law<br>
+
 **Constitution**<br>
 _history_: previous 1954, 1963 (preindependence); latest signed and entered into force 21 September 1981; note - in July 2022, the government introduced a bill to establish the People's Constitutional Commission to review the constitution and to provide recommendations to the National Assembly<br>
 _amendments_: proposed and adopted by two-thirds majority vote of the National Assembly House of Representatives except for amendments relating to rights and freedoms, changes to the Assembly, and to elections and judiciary matters, which require at least three-quarters majority vote of the House; both types of amendments require assent of the governor general; amended several times, last in 2017<br>
-
-**Legal system**<br>
-English common law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -451,9 +452,6 @@ _male_: 12.1% (2023 est.)<br>
 _female_: 26.2% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-41% (2013 est.)<br>
-
 **Remittances**<br>
 4.63% of GDP (2023 est.)<br>
 5.03% of GDP (2022 est.)<br>
@@ -464,13 +462,8 @@ _female_: 26.2% (2023 est.)<br>
 _revenues_: $583 million (2019 est.)<br>
 _expenditures_: $656 million (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--1% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 99% of GDP (2017 est.)<br>
-95.9% of GDP (2016 est.)<br>
-61.41% of GDP (2014 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

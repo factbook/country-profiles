@@ -91,7 +91,7 @@ _adjective_: Basotho<br>
 Sotho 99.7%, other 0.3% (includes Kwena, Nguni (Hlubi and Phuthi), Zulu)<br>
 
 **Languages**<br>
-Sesotho (official) (southern Sotho), English (official), Phuthi, Xhosa, Zulu<br>
+Sesotho (official), English (official), Phuthi, Xhosa, Zulu<br>
 
 **Religions**<br>
 Protestant 47.8% (Pentecostal 23.1%, Lesotho Evangelical 17.3%, Anglican 7.4%), Roman Catholic 39.3%, other Christian 9.1%, non-Christian 1.4%, none 2.3% (2014 est.)<br>
@@ -319,12 +319,12 @@ _etymology_: in the Sesotho language the name means "[place of] red sandstones"<
 **National holiday**<br>
 Independence Day, 4 October (1966)<br>
 
+**Legal system**<br>
+mixed legal system of English common law and Roman-Dutch law; judicial review of legislative acts in High Court and Court of Appeal<br>
+
 **Constitution**<br>
 _history_: previous 1959, 1967; latest adopted 2 April 1993 (effectively restoring the 1967 version)<br>
 _amendments_: proposed by Parliament; passage of amendments affecting constitutional provisions, including fundamental rights and freedoms, sovereignty of the kingdom, the office of the king, and powers of Parliament, requires a majority vote by the National Assembly, approval by the Senate, approval in a referendum by a majority of qualified voters, and assent of the king; passage of amendments other than those specified provisions requires at least a two-thirds majority vote in both houses of Parliament; amended several times, last in 2011<br>
-
-**Legal system**<br>
-mixed legal system of English common law and Roman-Dutch law; judicial review of legislative acts in High Court and Court of Appeal<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -490,13 +490,8 @@ _highest 10%_: 32.9% (2017 est.)<br>
 _revenues_: $1.054 billion (2020 est.)<br>
 _expenditures_: $1.21 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--6% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 2.99% of GDP (2020 est.)<br>
-32.17% of GDP (2019 est.)<br>
-32.84% of GDP (2018 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

@@ -234,12 +234,12 @@ none (overseas collectivity of France)<br>
 **National holiday**<br>
 Bastille Day, 14 July (1789)<br>
 
+**Legal system**<br>
+French civil law<br>
+
 **Constitution**<br>
 _history_: 4 October 1958 (French Constitution)<br>
 _amendments_: French constitution amendment procedures apply<br>
-
-**Legal system**<br>
-French civil law<br>
 
 **Citizenship**<br>
 see France<br>
@@ -271,7 +271,7 @@ Left Radical Party or PRG (formerly Radical Socialist Party or PRS and the Left 
 PIF (observer), SPC, UPU<br>
 
 **Diplomatic representation in the US**<br>
-none (overseas&nbsp;collectivity of France)<br>
+none (overseas territory of France)<br>
 
 **Diplomatic representation from the US**<br>
 none (overseas collectivity of France)<br>
@@ -293,7 +293,6 @@ lower-middle-income, agrarian French dependency economy; heavily reliant on Fren
 
 **Inflation rate (consumer prices)**<br>
 0.9% (2015)<br>
-2.8% (2005)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: NA<br>
@@ -310,23 +309,9 @@ coconuts, breadfruit, yams, taro, bananas; pigs, goats; fish<br>
 **Industries**<br>
 copra, handicrafts, fishing, lumber<br>
 
-**Labor force**<br>
-4,482 (2013)<br>
-
-**Unemployment rate**<br>
-8.8% (2013 est.)<br>
-12.2% (2008 est.)<br>
-
 **Budget**<br>
 _revenues_: $32.54 million (2015 est.)<br>
 _expenditures_: $34.18 million (2015 est.)<br>
-
-**Budget surplus (+) or deficit (-)**<br>
--0.8% (of GDP) (2015 est.)<br>
-
-**Public debt**<br>
-5.6% of GDP (2004 est.)<br>
-<strong>note:</strong> offical data; data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
 16.7% (of GDP) (2015 est.)<br>
@@ -350,10 +335,11 @@ $3.67 million (2004)<br>
 
 **Exchange rates**<br>
 _Currency_: Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>
-110.2 (2015 est.)<br>
-89.8 (2014 est.)<br>
-89.85 (2013 est.)<br>
-90.56 (2012 est.)<br>
+110.347 (2023 est.)<br>
+113.474 (2022 est.)<br>
+100.88 (2021 est.)<br>
+104.711 (2020 est.)<br>
+110.347 (2019 est.)<br>
 
 ## Communications
 

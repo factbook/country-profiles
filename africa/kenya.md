@@ -326,12 +326,12 @@ _etymology_: the name derives from the Maasai expression meaning "cool waters" a
 **National holiday**<br>
 Jamhuri Day (Independence Day), 12 December (1963); note - Madaraka Day, 1 June (1963) marks the day Kenya attained internal self-rule<br>
 
+**Legal system**<br>
+mixed legal system of English common law, Islamic law, and customary law; judicial review in the new Supreme Court established by the new constitution<br>
+
 **Constitution**<br>
 _history_: current constitution passed by referendum on 4 August 2010<br>
 _amendments_: amendments can be proposed by either house of Parliament or by petition of at least one million eligible voters; passage of amendments by Parliament requires approval by at least two-thirds majority vote of both houses in each of two readings, approval in a referendum by majority of votes cast by at least 20% of eligible voters in at least one half of Kenya&rsquo;s counties, and approval by the president; passage of amendments introduced by petition requires approval by a majority of county assemblies, approval by majority vote of both houses, and approval by the president<br>
-
-**Legal system**<br>
-mixed legal system of English common law, Islamic law, and customary law; judicial review in the new Supreme Court established by the new constitution<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -506,12 +506,8 @@ _highest 10%_: 31.8% (2021 est.)<br>
 _revenues_: $16.885 billion (2019 est.)<br>
 _expenditures_: $24.271 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--6.7% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 54.2% of GDP (2017 est.)<br>
-53.2% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 13.26% (of GDP) (2021 est.)<br>

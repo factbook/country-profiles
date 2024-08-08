@@ -267,12 +267,12 @@ _time zone note_: Micronesia has two time zones<br>
 **National holiday**<br>
 Constitution Day, 10 May (1979)<br>
 
+**Legal system**<br>
+mixed legal system of common and customary law<br>
+
 **Constitution**<br>
 _history_: drafted June 1975, ratified 1 October 1978, entered into force 10 May 1979<br>
 _amendments_: proposed by Congress, by a constitutional convention, or by public petition; passage requires approval by at least three-fourths majority vote in at least three fourths of the states; amended 1990; note &ndash; at least every 10 years as part of a general or special election, voters are asked whether to hold a constitution convention; a majority of affirmative votes is required to proceed; amended many times, last in 2019 (approval by referendum to hold a constitutional convention)<br>
-
-**Legal system**<br>
-mixed legal system of common and customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -291,7 +291,7 @@ _chief of state_: President Wesley W. SIMINA (since 12 May 2023)<br>
 _head of government_: President Wesley W. SIMINA (since 12 May 2023)<br>
 _cabinet_: Cabinet includes the vice president and the heads of the 8 executive departments<br>
 _elections/appointments_: president and vice president indirectly elected by Congress from among the 4 'at large' senators for a 4-year term (eligible for a second term); election last held on 12 May 2023 (next to be held in 2027)<br>
-_election results_: David W. PANUELO elected president by Congress; Yosiwo P. GEORGE reelected vice president<br>
+_election results_: <em><br>2023: </em>David W. PANUELO elected president by Congress; Yosiwo P. GEORGE reelected vice president<br><br>2019: David W. PANUELO elected president by Congress; Yosiwo P. GEORGE reelected vice president <br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -398,29 +398,10 @@ tourism, construction; specialized aquaculture, craft items (shell and wood)<br>
 0.78% (2023 est.)<br>
 <strong>note:</strong> annual % change in industrial value added based on constant local currency<br>
 
-**Labor force**<br>
-37,920 (2010 est.)<br>
-
-**Unemployment rate**<br>
-16.2% (2010 est.)<br>
-
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 18.9% (2014)<br>
 _male_: 10.4%<br>
 _female_: 29.9%<br>
-
-**Population below poverty line**<br>
-41.2% (2013 est.)<br>
-<b>note:</b> % of population with income below national poverty line<br>
-
-**Gini Index coefficient - distribution of family income**<br>
-40.1 (2013 est.)<br>
-<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.9%<br>
-_highest 10%_: 29.7% (2013 est.)<br>
-<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 5.07% of GDP (2023 est.)<br>
@@ -432,13 +413,8 @@ _highest 10%_: 29.7% (2013 est.)<br>
 _revenues_: $320 million (2018 est.)<br>
 _expenditures_: $223 million (2018 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-6.6% (of GDP) (FY12/13 est.)<br>
-
 **Public debt**<br>
 27.86% of GDP (2020 est.)<br>
-24.15% of GDP (2019 est.)<br>
-23.7% of GDP (2018 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

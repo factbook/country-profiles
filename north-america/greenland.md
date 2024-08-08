@@ -86,7 +86,8 @@ Greenlandic 88.1%, Danish 7.1%, Filipino 1.6%, other Nordic peoples 0.9%, and ot
 <strong>note:</strong> data represent population by country of birth<br>
 
 **Languages**<br>
-Greenlandic (West Greenlandic or Kalaallisut is the official language; Tunumiisut (East Greenlandic) and Inuktun (Polar Inuit Greenlandic) are two other native languages, considered dialects of Kalaallisut, spoken by approximately 10% of Greenlanders), Danish, English<br>
+Greenlandic, Danish, English<br>
+<strong>note: </strong>West Greenlandic or Kalaallisut is the official language; Tunumiisut (East Greenlandic) and Inuktun (Polar Inuit Greenlandic) are considered dialects of Kalaallisut and spoken by about 10% of Greenlanders<br>
 
 **Religions**<br>
 Evangelical Lutheran, traditional Inuit spiritual beliefs<br>
@@ -260,11 +261,11 @@ none (extensive self-rule as part of the Kingdom of Denmark; foreign affairs is 
 **National holiday**<br>
 National Day, June 21; note - marks the summer solstice and the longest day of the year in the Northern Hemisphere<br>
 
-**Constitution**<br>
-_history_: previous 1953 (Greenland established as a constituency in the Danish constitution), 1979 (Greenland Home Rule Act); latest 21 June 2009 (Greenland Self-Government Act)<br>
-
 **Legal system**<br>
 the laws of Denmark apply where applicable and Greenlandic law applies to other areas<br>
+
+**Constitution**<br>
+_history_: previous 1953 (Greenland established as a constituency in the Danish constitution), 1979 (Greenland Home Rule Act); latest 21 June 2009 (Greenland Self-Government Act)<br>
 
 **Citizenship**<br>
 see Denmark<br>
@@ -296,11 +297,12 @@ Democrats Party (Demokraatit) or D <br>Fellowship Party (Atassut) or A <br>For
 Arctic Council, ICC, NC, NIB, UPU<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Kenneth H&Oslash;EGH, Head of Representation; note - Greenland also has offices in the Danish consulates in Chicago and New York<br>
+_chief of mission_: Kenneth H&Oslash;EGH, Head of Representation (since 1 August 2021)<br>
 _chancery_: 3200 Whitehaven Street, NW<br>Washington, DC  20008<br>
 _telephone_: [1] (202) 234-4300<br>
 _FAX_: [1] (202) 328-1470<br>
 _email address and website_: <br>washington@nanoq.gl<br><br>All Greenlandic Representations | GrÃ¸nlands ReprÃ¦sentation (grl-rep.dk); <br>https://naalakkersuisut.gl/en/Naalakkersuisut/Groenlands-repraesentation-Washington<br>
+<strong>Note</strong>:  Greenland also has offices in the Danish consulates in Chicago and New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Consul Monica BLAND (since July 2023)<br>
@@ -393,9 +395,6 @@ fish processing (mainly shrimp and Greenland halibut), anorthosite and ruby mini
 **Budget**<br>
 _revenues_: $1.719 billion (2016 est.)<br>
 _expenditures_: $1.594 billion (2016 est.)<br>
-
-**Budget surplus (+) or deficit (-)**<br>
-5.6% (of GDP) (2016 est.)<br>
 
 **Public debt**<br>
 13% of GDP (2015 est.)<br>

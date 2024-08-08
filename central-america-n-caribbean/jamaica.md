@@ -296,12 +296,12 @@ _etymology_: the name is a blending of the words "king's" and "town"; the Englis
 **National holiday**<br>
 Independence Day, 6 August (1962)<br>
 
-**Constitution**<br>
-_history_: several previous (preindependence); latest drafted 1961-62, submitted to British Parliament 24 July 1962, entered into force 6 August 1962 (at independence)<br>
-_amendments_: proposed by Parliament; passage of amendments to "non-entrenched" constitutional sections, such as lowering the voting age, requires majority vote by the Parliament membership; passage of amendments to "entrenched" sections, such as fundamental rights and freedoms, requires two-thirds majority vote of Parliament; passage of amendments to "specially entrenched" sections such as the dissolution of Parliament or the executive authority of the monarch requires two-thirds approval by Parliament and approval in a referendum; amended many times, last in 2017; note - in mid-July 2024 Jamaica’s Constitutional Reform Committee submitted its report on recommendations for reform of the constitution and awaiting debate in Parliament<br>
-
 **Legal system**<br>
 common law system based on the English model<br>
+
+**Constitution**<br>
+_history_: several previous (preindependence); latest drafted 1961-62, submitted to British Parliament 24 July 1962, entered into force 6 August 1962 (at independence)<br>
+_amendments_: proposed by Parliament; passage of amendments to "non-entrenched" constitutional sections, such as lowering the voting age, requires majority vote by the Parliament membership; passage of amendments to "entrenched" sections, such as fundamental rights and freedoms, requires two-thirds majority vote of Parliament; passage of amendments to "specially entrenched" sections such as the dissolution of Parliament or the executive authority of the monarch requires two-thirds approval by Parliament and approval in a referendum; amended many times, last in 2017; note - in mid-July 2024, Jamaica’s Constitutional Reform Committee submitted its report on recommendations for reform of the constitution and awaiting debate in Parliament<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -468,13 +468,8 @@ _highest 10%_: 29.9% (2021 est.)<br>
 _revenues_: $4.029 billion (2020 est.)<br>
 _expenditures_: $4.564 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-0.5% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 106.28% of GDP (2020 est.)<br>
-92.25% of GDP (2019 est.)<br>
-102.46% of GDP (2017 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

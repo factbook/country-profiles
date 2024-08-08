@@ -309,12 +309,12 @@ Tokelau (1)<br>
 **National holiday**<br>
 Waitangi Day (Treaty of Waitangi established British sovereignty over New Zealand), 6 February (1840); Anzac Day (commemorated as the anniversary of the landing of troops of the Australian and New Zealand Army Corps during World War I at Gallipoli, Turkey), 25 April (1915)<br>
 
+**Legal system**<br>
+common law system, based on English model, with special legislation and land courts for the Maori<br>
+
 **Constitution**<br>
 _history_: New Zealand has no single constitution document; the Constitution Act 1986, effective 1 January 1987, includes only part of the uncodified constitution; others include a collection of statutes or "acts of Parliament," the Treaty of Waitangi, Orders in Council, letters patent, court decisions, and unwritten conventions<br>
 _amendments_: proposed as bill by Parliament or by referendum called either by the government or by citizens; passage of a bill as an act normally requires two separate readings with committee reviews in between to make changes and corrections, a third reading approved by the House of Representatives membership or by the majority of votes in a referendum, and assent of the governor-general; passage of amendments to reserved constitutional provisions affecting the term of Parliament, electoral districts, and voting restrictions requires approval by 75% of the House membership or the majority of votes in a referendum; amended many times, last in 2020<br>
-
-**Legal system**<br>
-common law system, based on English model, with special legislation and land courts for the Maori<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -462,9 +462,6 @@ _male_: 10.9% (2023 est.)<br>
 _female_: 10.5% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Gini Index coefficient - distribution of family income**<br>
-36.2 (1997)<br>
-
 **Average household expenditures**<br>
 _on food_: 12.2% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 5.2% of household expenditures (2021 est.)<br>
@@ -479,13 +476,8 @@ _on alcohol and tobacco_: 5.2% of household expenditures (2021 est.)<br>
 _revenues_: $76.694 billion (2020 est.)<br>
 _expenditures_: $88.593 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-1.6% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 54.57% of GDP (2022 est.)<br>
-51.37% of GDP (2021 est.)<br>
-46.12% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

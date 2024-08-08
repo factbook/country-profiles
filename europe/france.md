@@ -107,8 +107,9 @@ Celtic and Latin with Teutonic, Slavic, North African (Algerian, Moroccan, Tunis
 <strong>note:</strong> overseas departments: Black, White, Mulatto, East Indian, Chinese, Indigenous<br>
 
 **Languages**<br>
-French (official) 100%, declining regional dialects and languages (Provencal, Breton, Alsatian, Corsican, Catalan, Basque, Flemish, Occitan, Picard); note - overseas departments: French, Creole patois, Mahorian (a Swahili dialect)<br>
+French (official) 100%, declining regional dialects and languages (Provencal, Breton, Alsatian, Corsican, Catalan, Basque, Flemish, Occitan, Picard)<br>
 _major-language sample(s)_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> overseas departments - French, Creole patois, Mahorian (a Swahili dialect)<br>
 
 **Religions**<br>
 Roman Catholic 47%, Muslim 4%, Protestant 2%, Buddhist 2%, Orthodox 1%, Jewish 1%, other 1%, none 33%, unspecified 9% (2021 est.)<br>
@@ -341,12 +342,12 @@ no official date of independence: 486 (Frankish tribes unified under Merovingian
 **National holiday**<br>
 Fête de la Fédération, 14 July (1790); note - often incorrectly referred to as Bastille Day, the celebration commemorates the holiday held on the first anniversary of the storming of the Bastille (on 14 July 1789) and the establishment of a constitutional monarchy; other names for the holiday are <em>la Fête nationale</em> (National Holiday) and <em>le Quatorze Juillet</em> (14th of July)<br>
 
+**Legal system**<br>
+civil law; review of administrative but not legislative acts<br>
+
 **Constitution**<br>
 _history_: many previous; latest effective 4 October 1958<br>
 _amendments_: proposed by the president of the republic (upon recommendation of the prime minister and Parliament) or by Parliament; proposals submitted by Parliament members require passage by both houses followed by approval in a referendum; passage of proposals submitted by the government can bypass a referendum if submitted by the president to Parliament and passed by at least three-fifths majority vote by Parliament&rsquo;s National Assembly; amended many times, last in 2008<br>
-
-**Legal system**<br>
-civil law; review of administrative but not legislative acts<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -525,13 +526,8 @@ _highest 10%_: 24.9% (2021 est.)<br>
 _revenues_: $1.427 trillion (2019 est.)<br>
 _expenditures_: $1.509 trillion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--2.6% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 98.66% of GDP (2022 est.)<br>
-116.89% of GDP (2021 est.)<br>
-123.17% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

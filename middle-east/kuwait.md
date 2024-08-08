@@ -304,13 +304,13 @@ _etymology_: the name derives from Arabic "al-Kuwayt" a diminutive of "kut" mean
 **National holiday**<br>
 National Day, 25 February (1950)<br>
 
+**Legal system**<br>
+mixed legal system consisting of English common law, French civil law, and Islamic sharia law<br>
+
 **Constitution**<br>
 _history_: approved and promulgated 11 November 1962; suspended 1976 to 1981 (4 articles); 1986 to 1991; May to July 1999<br>
 _amendments_: proposed by the amir or supported by at least one third of the National Assembly; passage requires two-thirds consent of the Assembly membership and promulgation by the amir; constitutional articles on the initiation, approval, and promulgation of general legislation cannot be amended<br>
 <strong>Note:</strong> on 10 May 2024, Amir Sheikh MISHAL al-Ahmad al-Sabah dissolved the National Assembly and suspended several articles of the constitution for up to four years<br>
-
-**Legal system**<br>
-mixed legal system consisting of English common law, French civil law, and Islamic sharia law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -467,12 +467,8 @@ _on alcohol and tobacco_: 0.2% of household expenditures (2021 est.)<br>
 _revenues_: $77.988 billion (2019 est.)<br>
 _expenditures_: $72.03 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--10% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 20.6% of GDP (2017 est.)<br>
-9.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 41.8% (of GDP) (2017 est.)<br>
@@ -666,5 +662,5 @@ the Kuwaiti Armed Forces (KAF) are responsible for external defense; the indepen
 _stateless persons_: 92,000 (2022); note - Kuwait's 1959 Nationality Law defined citizens as persons who settled in the country before 1920 and who had maintained normal residence since then; one-third of the population, descendants of Bedouin tribes, missed the window of opportunity to register for nationality rights after Kuwait became independent in 1961 and were classified as bidun (meaning "without"); since the 1980s Kuwait's bidun have progressively lost their rights, including opportunities for employment and education, amid official claims that they are nationals of other countries who have destroyed their identification documents in hopes of gaining Kuwaiti citizenship; Kuwaiti authorities have delayed processing citizenship applications and labeled biduns as "illegal residents," denying them access to civil documentation, such as birth and marriage certificates<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; Kuwait does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials assisted more vulnerable migrant workers at the government shelter, launched an online platform for domestic workers to file grievances, and continued to hold fraudulent recruitment agencies accountable; however, the government did not demonstrate overall increasing efforts, compared to the previous year, to expand its anti-trafficking capacity; there were fewer investigations of alleged trafficking crimes and no prosecutions or convictions of traffickers; fewer victims were identified, and some officials continued to use arbitration and administrative penalties instead of investigating cases as potential human trafficking crimes; Kuwait did not implement procedures to identify and prevent trafficking, nor regularly use standard operating procedures to identify and refer victims to services; officials continued to detain, prosecute, and deport potential trafficking victims, including those fleeing forced labor or in commercial sex, without screening for trafficking indicators; the government did not take any new steps to reform its visa sponsorship system, leaving migrant workers highly vulnerable to exploitation and trafficking; therefore, Kuwait remained on Tier 2 Watch List for the second consecutive year (2023)<br>
+_tier rating_: Tier 2 Watch List — Kuwait does not fully meet the minimum standards for the elimination of trafficking, but the government has devoted sufficient resources to a written plan that, if implemented, would constitute significant efforts to meet the minimum standards; therefore, Kuwait was granted a waiver per the Trafficking Victims Protection Act from an otherwise required downgrade to Tier 3 and remained on Tier 2 Watch List for the third consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/kuwait/<br>
 

@@ -221,12 +221,12 @@ none (British Crown dependency)<br>
 **National holiday**<br>
 Liberation Day, 9 May (1945)<br>
 
+**Legal system**<br>
+customary legal system based on Norman customary law; includes elements of the French civil code and English common law<br>
+
 **Constitution**<br>
 _history_: unwritten; includes royal charters, statutes, and common law and practice<br>
 _amendments_: new laws or changes to existing laws are initiated by the States of Deliberation; passage requires majority vote; many laws have been passed; in 2019, 60 laws were passed<br>
-
-**Legal system**<br>
-customary legal system based on Norman customary law; includes elements of the French civil code and English common law<br>
 
 **Citizenship**<br>
 see United Kingdom<br>
@@ -283,7 +283,6 @@ high-income English Channel island economy; strong financial sector but stressed
 **Real GDP (purchasing power parity)**<br>
 $3.465 billion (2015 est.)<br>
 $3.451 billion (2014 est.)<br>
-$3.42 billion (2013 est.)<br>
 <strong>note:</strong> data are in 2015 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -333,9 +332,6 @@ _female_: 13.2% (2023 est.)<br>
 **Budget**<br>
 _revenues_: $563.6 million (2005)<br>
 _expenditures_: $530.9 million (2005 est.)<br>
-
-**Budget surplus (+) or deficit (-)**<br>
-1.2% (of GDP) (2005)<br>
 
 **Exports - partners**<br>
 almost entirely United Kingdom (2022)<br>

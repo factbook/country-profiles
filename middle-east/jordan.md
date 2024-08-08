@@ -323,12 +323,12 @@ _etymology_: in the 13th century B.C., the Ammonites named their main city "Rabb
 **National holiday**<br>
 Independence Day, 25 May (1946)<br>
 
+**Legal system**<br>
+mixed system developed from codes instituted by the Ottoman Empire (based on French law), British common law, and Islamic law<br>
+
 **Constitution**<br>
 _history_: previous 1928 (preindependence); latest initially adopted 28 November 1947, revised and ratified 1 January 1952<br>
 _amendments_: constitutional amendments require at least a two-thirds majority vote of both the Senate and the House and ratification by the king; amended several times, last in 2022<br>
-
-**Legal system**<br>
-mixed system developed from codes instituted by the Ottoman Empire (based on French law), British common law, and Islamic law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -478,16 +478,9 @@ _female_: 47.1% (2023 est.)<br>
 15.7% (2018 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
-**Gini Index coefficient - distribution of family income**<br>
-33.7 (2010 est.)<br>
-
 **Average household expenditures**<br>
 _on food_: 26.4% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 4.5% of household expenditures (2021 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.4%<br>
-_highest 10%_: 28.7% (2010 est.)<br>
 
 **Remittances**<br>
 9.72% of GDP (2023 est.)<br>
@@ -499,13 +492,8 @@ _highest 10%_: 28.7% (2010 est.)<br>
 _revenues_: $10.813 billion (2019 est.)<br>
 _expenditures_: $13.489 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--5.1% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 101.14% of GDP (2022 est.)<br>
-75.97% of GDP (2020 est.)<br>
-79.35% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

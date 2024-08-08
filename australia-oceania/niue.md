@@ -84,7 +84,7 @@ Niuean 65.4%, part-Niuean 14%, non-Niuean 20.6% (2017 est.)<br>
 <strong>note:</strong> data represent the resident population<br>
 
 **Languages**<br>
-Niuean (official) 46% (a Polynesian language closely related to Tongan and Samoan), Niuean and English 32%, English (official) 11%, Niuean and others 5%, other 6% (2011 est.)<br>
+Niuean 46% (official, a Polynesian language closely related to Tongan and Samoan), Niuean and English 32%, English (official) 11%, Niuean and others 5%, other 6% (2011 est.)<br>
 
 **Religions**<br>
 Ekalesia Niue (Congregational Christian Church of Niue - a Protestant church founded by missionaries from the London Missionary Society) 61.7%, Church of Jesus Christ 8.7%, Roman Catholic 8.4%, Jehovah's Witness 2.7%, Seventh Day Adventist 1.4%, other 8.2%, none 8.9% (2017 est.)<br>
@@ -188,12 +188,12 @@ none; there are no first-order administrative divisions as defined by the US Gov
 **National holiday**<br>
 Waitangi Day (Treaty of Waitangi established British sovereignty over New Zealand), 6 February (1840)<br>
 
+**Legal system**<br>
+English common law<br>
+
 **Constitution**<br>
 _history_: several previous (New Zealand colonial statutes); latest 19 October 1974 (Niue Constitution Act 1974)<br>
 _amendments_: proposed by the Assembly; passage requires at least two-thirds majority vote of the Assembly membership in each of three readings and approval by at least two-thirds majority votes in a referendum; passage of amendments to a number of sections, including Niue&rsquo;s self-governing status, British nationality and New Zealand citizenship, external affairs and defense, economic and administrative assistance by New Zealand, and amendment procedures, requires at least two-thirds majority vote by the Assembly and at least two thirds of votes in a referendum; amended 1992, 2007; note - in early 2021, the constitution review committee of the Assembly requested suggestions from the public about changes to the constitution<br>
-
-**Legal system**<br>
-English common law<br>
 
 **Suffrage**<br>
 18 years of age; universal<br>
@@ -272,9 +272,6 @@ handicrafts, food processing<br>
 _revenues_: $15.07 million (FY04/05)<br>
 _expenditures_: $16.33 million (FY04/05)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--12.6% (of GDP) (FY04/05)<br>
-
 **Exports**<br>
 $5.68 million (2021 est.)<br>
 
@@ -302,11 +299,11 @@ $418,000 (2002 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: New Zealand dollars (NZD) per US dollar -<br>
-1.416 (2017 est.)<br>
-1.4279 (2016 est.)<br>
-1.4279 (2015)<br>
-1.4279 (2014 est.)<br>
-1.2039 (2013 est.)<br>
+1.628 (2023 est.)<br>
+1.577 (2022 est.)<br>
+1.414 (2021 est.)<br>
+1.542 (2020 est.)<br>
+1.518 (2019 est.)<br>
 
 ## Energy
 

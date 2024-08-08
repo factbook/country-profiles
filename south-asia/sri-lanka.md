@@ -87,7 +87,7 @@ _adjective_: Sri Lankan<br>
 Sinhalese 74.9%, Sri Lankan Tamil 11.2%, Sri Lankan Moors 9.2%, Indian Tamil 4.2%, other 0.5% (2012 est.)<br>
 
 **Languages**<br>
-Sinhala (official and national language) 87%, Tamil (official and national language) 28.5%, English 23.8% (2012 est.)<br>
+Sinhala (official) 87%, Tamil (official) 28.5%, English 23.8% (2012 est.)<br>
 <strong>note:</strong> data represent main languages spoken by the population aged 10 years and older; shares sum to more than 100% because some respondents gave more than one answer on the census; English is commonly used in government and is referred to as the "link language" in the constitution<br>
 
 **Religions**<br>
@@ -313,12 +313,12 @@ _etymology_: Colombo may derive from the Sinhala "kolon thota," meaning "port on
 **National holiday**<br>
 Independence Day (National Day), 4 February (1948)<br>
 
+**Legal system**<br>
+mixed legal system of Roman-Dutch civil law, English common law, Jaffna Tamil customary law, and Muslim personal law<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted 16 August 1978, certified 31 August 1978<br>
 _amendments_: proposed by Parliament; passage requires at least two-thirds majority vote of its total membership, certification by the president of the republic or the Parliament speaker, and in some cases approval in a referendum by absolute majority of valid votes; amended many times, last in 2020<br>
-
-**Legal system**<br>
-mixed legal system of Roman-Dutch civil law, English common law, Jaffna Tamil customary law, and Muslim personal law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -494,13 +494,8 @@ _highest 10%_: 30.8% (2019 est.)<br>
 _revenues_: $10.623 billion (2019 est.)<br>
 _expenditures_: $17.496 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--5.5% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 79.1% of GDP (2017 est.)<br>
-79.6% of GDP (2016 est.)<br>
-73.51% of GDP (2015 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

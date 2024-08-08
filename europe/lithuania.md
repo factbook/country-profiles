@@ -311,12 +311,12 @@ _etymology_: named after the Vilnia River, which flows into the Neris River at V
 **National holiday**<br>
 Independence Day (or National Day), 16 February (1918); note - 16 February 1918 was the date Lithuania established its statehood and its concomitant independence from Soviet Russia and Germany; 11 March 1990 was the date it declared the restoration of Lithuanian statehood and its concomitant independence from the Soviet Union<br>
 
+**Legal system**<br>
+civil law system; legislative acts can be appealed to the Constitutional Court<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted by referendum 25 October 1992, entered into force 2 November 1992<br>
 _amendments_: proposed by at least one fourth of all Parliament members or by petition of at least 300,000 voters; passage requires two-thirds majority vote of Parliament in each of two readings three months apart and a presidential signature; amendments to constitutional articles on national sovereignty and constitutional amendment procedure also require three-fourths voter approval in a referendum; amended many times, last in 2022<br>
-
-**Legal system**<br>
-civil law system; legislative acts can be appealed to the Constitutional Court<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -490,13 +490,8 @@ _highest 10%_: 29.1% (2021 est.)<br>
 _revenues_: $18.636 billion (2019 est.)<br>
 _expenditures_: $18.491 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-0.5% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 36.05% of GDP (2022 est.)<br>
-48.21% of GDP (2021 est.)<br>
-52.86% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

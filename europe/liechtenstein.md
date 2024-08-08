@@ -88,7 +88,7 @@ Liechtensteiner 65.6%, Swiss 9.6%, Austrian 5.8%, German 4.5%, Italian 3.1%, oth
 <strong>note:</strong> data represent population by nationality<br>
 
 **Languages**<br>
-German 91.5% (official) (Alemannic is the main dialect), Italian 1.5%, Turkish 1.3%, Portuguese 1.1%, other 4.6% (2015 est.)<br>
+German 91.5% (official, Alemannic is the main dialect), Italian 1.5%, Turkish 1.3%, Portuguese 1.1%, other 4.6% (2015 est.)<br>
 _major-language sample(s)_: <br>Das World Factbook, die unverzichtbare Quelle für grundlegende Informationen. (German)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -275,12 +275,12 @@ _etymology_: may be a conflation from the Latin <em>vallis</em> (valley) and the
 **National holiday**<br>
 National Day, 15 August (1940); note - a National Day was originally established in 1940 to combine celebrations for the Feast of the Assumption (15 August) with those honoring the birthday of former Prince FRANZ JOSEF II (1906-1989) whose birth fell on 16 August; after the prince's death, National Day became the official national holiday by law in 1990<br>
 
+**Legal system**<br>
+civil law system influenced by Swiss, Austrian, and German law<br>
+
 **Constitution**<br>
 _history_: previous 1862; latest adopted 5 October 1921<br>
 _amendments_: proposed by Parliament, by the reigning prince (in the form of "Government" proposals), by petition of at least 1,500 qualified voters, or by at least four communes; passage requires unanimous approval of Parliament members in one sitting or three-quarters majority vote in two successive sittings; referendum required only if petitioned by at least 1,500 voters or by at least four communes; passage by referendum requires absolute majority of votes cast; amended many times, last in 2023<br>
-
-**Legal system**<br>
-civil law system influenced by Swiss, Austrian, and German law<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -345,18 +345,6 @@ high-income European economy; Schengen Area participant; key European financial 
 
 **Real GDP (purchasing power parity)**<br>
 $4.978 billion (2014 est.)<br>
-$3.2 billion (2009 est.)<br>
-$3.216 billion (2008 est.)<br>
-
-**Real GDP growth rate**<br>
-1.8% (2012 est.)<br>
--0.5% (2011 est.)<br>
-3.1% (2007 est.)<br>
-
-**Real GDP per capita**<br>
-$139,100 (2009 est.)<br>
-$90,100 (2008 est.)<br>
-$91,300 (2007 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $7.365 billion (2022 est.)<br>
@@ -364,7 +352,6 @@ $7.365 billion (2022 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 -0.4% (2016 est.)<br>
--0.2% (2013)<br>
 
 **Credit ratings**<br>
 _Standard & Poors rating_: AAA (1996)<br>
@@ -386,7 +373,7 @@ electronics, metal manufacturing, dental products, ceramics, pharmaceuticals, fo
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-38,520 (2015 est.) (2012)<br>
+38,520 (2015 est.)<br>
 <strong>note:</strong> 51% of the labor force in Liechtenstein commute daily from Austria, Switzerland, and Germany<br>
 
 **Unemployment rate**<br>
@@ -396,12 +383,6 @@ electronics, metal manufacturing, dental products, ceramics, pharmaceuticals, fo
 **Budget**<br>
 _revenues_: $995.3 million (2012 est.)<br>
 _expenditures_: $890.4 million (2011 est.)<br>
-
-**Budget surplus (+) or deficit (-)**<br>
-1.6% (of GDP) (2012 est.)<br>
-
-**Taxes and other revenues**<br>
-14.9% (of GDP) (2012 est.)<br>
 
 **Exports**<br>
 $3.217 billion (2015 est.)<br>

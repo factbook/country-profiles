@@ -90,8 +90,9 @@ _adjective_: Nicaraguan<br>
 Mestizo (mixed Indigenous and White) 69%, White 17%, Black 9%, Indigenous 5%<br>
 
 **Languages**<br>
-Spanish (official) 99.5%, Indigenous 0.3%, Portuguese 0.1%, other 0.1%; note - English and indigenous languages found on the Caribbean coast (2020 est.)<br>
+Spanish (official) 99.5%, Indigenous 0.3%, Portuguese 0.1%, other 0.1% (2020 est.)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note: </strong>English and indigenous languages found on the Caribbean coast<br>
 
 **Religions**<br>
 Roman Catholic 44.9%, Protestant 38.7% (Evangelical 38.2, Adventist 0.5%), other 1.2%, (includes Jehovah's Witness and Church of Jesus Christ), believer but not belonging to a church 1%, agnostic or atheist 0.4%, none 13.7%, unspecified 0.2% (2020 est.)<br>
@@ -302,12 +303,12 @@ _etymology_: may derive from the indigenous Nahuatl term "mana-ahuac," which tra
 **National holiday**<br>
 Independence Day, 15 September (1821)<br>
 
+**Legal system**<br>
+civil law system; Supreme Court may review administrative acts<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted 19 November 1986, effective 9 January 1987<br>
 _amendments_: proposed by the president of the republic or assent of at least half of the National Assembly membership; passage requires approval by 60% of the membership of the next elected Assembly and promulgation by the president of the republic; amended several times, last in 2021<br>
-
-**Legal system**<br>
-civil law system; Supreme Court may review administrative acts<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt<br>
@@ -479,12 +480,8 @@ _highest 10%_: 37.2% (2014 est.)<br>
 _revenues_: $3.452 billion (2019 est.)<br>
 _expenditures_: $3.511 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--2% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 33.3% of GDP (2017 est.)<br>
-31.2% of GDP (2016 est.)<br>
 <strong>note:</strong> official data; data cover general government debt and include debt instruments issued (or owned) by Government entities other than the treasury; the data include treasury debt held by foreign entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as retirement, medical care, and unemployment, debt instruments for the social funds are not sold at public auctions; Nicaragua rebased its GDP figures in 2012, which reduced the figures for debt as a percentage of GDP<br>
 
 **Taxes and other revenues**<br>

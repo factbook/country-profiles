@@ -90,8 +90,9 @@ _adjective_: Guatemalan<br>
 Mestizo (mixed Indigenous-Spanish - in local Spanish called Ladino) 56%, Maya 41.7%, Xinca (Indigenous, non-Maya) 1.8%, African descent 0.2%, Garifuna (mixed West and Central African, Island Carib, and Arawak) 0.1%, foreign 0.2% (2018 est.)<br>
 
 **Languages**<br>
-Spanish (official) 69.9%, Maya languages 29.7% (Q'eqchi' 8.3%, K'iche 7.8%, Mam 4.4%, Kaqchikel 3%, Q'anjob'al 1.2%, Poqomchi' 1%, other 4%), other 0.4% (includes Xinca and Garifuna); note - the 2003 Law of National Languages officially recognized 23 indigenous languages, including 21 Maya languages, Xinca, and Garifuna (2018 est.)<br>
+Spanish (official) 69.9%, Maya languages 29.7% (Q'eqchi' 8.3%, K'iche 7.8%, Mam 4.4%, Kaqchikel 3%, Q'anjob'al 1.2%, Poqomchi' 1%, other 4%), other 0.4% (includes Xinca and Garifuna) (2018 est.)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> the 2003 Law of National Languages officially recognized 23 indigenous languages, including 21 Maya languages, Xinca, and Garifuna<br>
 
 **Religions**<br>
 Evangelical 45.7%, Roman Catholic 42.4%, none 11%, unspecified 0.9% (2023 est.)<br>
@@ -311,12 +312,12 @@ _etymology_: the Spanish conquistadors used many native Americans as allies in t
 **National holiday**<br>
 Independence Day, 15 September (1821)<br>
 
+**Legal system**<br>
+civil law system; judicial review of legislative acts<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted 31 May 1985, effective 14 January 1986; suspended and reinstated in 1994<br>
 _amendments_: proposed by the president of the republic, by agreement of 10 or more deputies of Congress, by the Constitutional Court, or by public petition of at least 5,000 citizens; passage requires at least two-thirds majority vote by the Congress membership and approval by public referendum, referred to as "popular consultation"; constitutional articles such as national sovereignty, the republican form of government, limitations on those seeking the presidency, or presidential tenure cannot be amended; amended 1993<br>
-
-**Legal system**<br>
-civil law system; judicial review of legislative acts<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -493,13 +494,8 @@ _highest 10%_: 38.1% (2014 est.)<br>
 _revenues_: $8.647 billion (2019 est.)<br>
 _expenditures_: $10.373 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--1.3% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 31.56% of GDP (2020 est.)<br>
-26.49% of GDP (2019 est.)<br>
-26.48% of GDP (2018 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

@@ -301,7 +301,11 @@ cars, orthopedic appliances, surveying equipment, butter, nuts (2022)<br>
 
 **Exchange rates**<br>
 _Currency_: New Zealand dollars (NZD) per US dollar -<br>
-1.543 (2017 est.)<br>
+1.628 (2023 est.)<br>
+1.577 (2022 est.)<br>
+1.414 (2021 est.)<br>
+1.542 (2020 est.)<br>
+1.518 (2019 est.)<br>
 
 ## Energy
 

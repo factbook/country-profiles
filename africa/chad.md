@@ -331,12 +331,12 @@ _etymology_: name taken from the Arab name of a nearby village, Nijamina, meanin
 **National holiday**<br>
 Independence Day, 11 August (1960)<br>
 
+**Legal system**<br>
+mixed legal system of civil and customary law<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted by National Transitional Council 27 June 2023, approved by referendum 17 December, verified by Chad Supreme Court 28 December, promulgated 1 January 2024<br>
 _amendments_: previous process: proposed as a revision by the president of the republic after a Council of Ministers (cabinet) decision or by the National Assembly; approval for consideration of a revision requires at least three-fifths majority vote by the Assembly; passage requires approval by referendum or at least two-thirds majority vote by the Assembly<br>
-
-**Legal system**<br>
-mixed legal system of civil and customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -502,12 +502,8 @@ _highest 10%_: 29.6% (2022 est.)<br>
 _revenues_: $2.29 billion (2020 est.)<br>
 _expenditures_: $2.12 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--1.5% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 52.5% of GDP (2017 est.)<br>
-52.4% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 13.5% (of GDP) (2017 est.)<br>
@@ -679,7 +675,7 @@ _refugees (country of origin)_: 694,569 (Sudan) (includes refugees since 15 Apri
 _IDPs_: 215,918 (majority are in the east) (2023)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; update pending (2024)&nbsp;<br>
+_tier rating_: Tier 2 Watch List — Chad does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so, therefore Chad was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/chad/<br>
 
 **Illicit drugs**<br>
 NA<br>

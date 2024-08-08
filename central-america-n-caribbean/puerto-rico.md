@@ -269,12 +269,12 @@ none (territory of the US with commonwealth status)<br>
 **National holiday**<br>
 US Independence Day, 4 July (1776); Puerto Rico Constitution Day, 25 July (1952)<br>
 
+**Legal system**<br>
+civil law system based on the Spanish civil code and within the framework of the US federal system<br>
+
 **Constitution**<br>
 _history_: previous 1900 (Organic Act, or Foraker Act); latest ratified by referendum 3 March 1952, approved 3 July 1952, effective 25 July 1952<br>
 _amendments_: proposed by a concurrent resolution of at least two-thirds majority by the total Legislative Assembly membership; approval requires at least two-thirds majority vote by the membership of both houses and approval by a majority of voters in a special referendum; if passed by at least three-fourths Assembly vote, the referendum can be held concurrently with the next general election; constitutional articles such as the republican form of government or the bill of rights cannot be amended; amended 1952<br>
-
-**Legal system**<br>
-civil law system based on the Spanish civil code and within the framework of the US federal system<br>
 
 **Citizenship**<br>
 see United States<br>
@@ -406,12 +406,8 @@ _female_: 10.5% (2023 est.)<br>
 _revenues_: $9.268 billion (2017 est.)<br>
 _expenditures_: $9.974 billion (2017 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--0.7% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 51.6% of GDP (2017 est.)<br>
-50.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 8.9% (of GDP) (2017 est.)<br>

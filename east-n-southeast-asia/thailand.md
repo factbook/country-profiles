@@ -97,8 +97,9 @@ Thai 97.5%, Burmese 1.3%, other 1.1%, unspecified &lt;0.1% (2015 est.)<br>
 <strong>note:</strong> data represent population by nationality<br>
 
 **Languages**<br>
-Thai (official) only 90.7%, Thai and other languages 6.4%, only other languages 2.9% (includes Malay, Burmese); note - data represent population by language(s) spoken at home; English is a secondary language of the elite (2010 est.)<br>
+Thai (official) only 90.7%, Thai and other languages 6.4%, only other languages 2.9% (includes Malay, Burmese); English is a secondary language among the elite (2010 est.)<br>
 _major-language sample(s)_: <br>สารานุกรมโลก - แหล่งข้อมูลพื้นฐานที่สำคัญ (Thai)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> data represent population by language(s) spoken at home<br>
 
 **Religions**<br>
 Buddhist 92.5%, Muslim 5.4%, Christian 1.2%, other 0.9% (includes animist, Confucian, Hindu, Jewish, Sikh, and Taoist) (2021 est.)<br>
@@ -332,12 +333,12 @@ _etymology_: Bangkok was likely originally a colloquial name, but one that was w
 **National holiday**<br>
 Birthday of King WACHIRALONGKON, 28 July (1952)<br>
 
+**Legal system**<br>
+civil law system with common law influences<br>
+
 **Constitution**<br>
 _history_: many previous; latest drafted and presented 29 March 2016, approved by referendum 7 August 2016, signed into law by the king on 6 April 2017<br>
 _amendments_: amendments require a majority vote in a joint session of the House and Senate and further require at least one fifth of opposition House members and one third of the Senate vote in favor; a national referendum is additionally required for certain amendments; all amendments require signature by the king; Thailand's 2017 constitution was amended in November 2021 to increase the number of constituency members of parliament (MPs) from 350 to 400, reduce the number of party-list MPs from 150 to 100, and change the election to a two-ballot system<br>
-
-**Legal system**<br>
-civil law system with common law influences<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -370,7 +371,7 @@ _judge selection and term of office_: Supreme Court judges selected by the Judic
 _subordinate courts_: courts of first instance and appeals courts within both the judicial and administrative systems; military courts<br>
 
 **Political parties**<br>
-Bhumjaithai Party or BJT (aka Phumchai Thai Party or PJT; aka Thai Pride Party) <br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP<br>Move Forward Party or MFP <br>Palang Pracharat Party (People's State Power Party) or PPRP <br>Pheu (Puea) Thai Party (For Thais Party) or PTP <br>Prachachat Party or PCC <br>Prachathipat Party (Democrat Party) or DP <br>Thai Sang Thai Party <br>United Thai Nation (Ruam Thai Sang Chat) or UTN<br>
+Bhumjaithai Party or BJT (aka Phumchai Thai Party or PJT; aka Thai Pride Party) <br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP<br>Move Forward Party or MFP (dissolved by order of the Constitutional Court, August 2024)<br>Palang Pracharat Party (People's State Power Party) or PPRP <br>Pheu (Puea) Thai Party (For Thais Party) or PTP <br>Prachachat Party or PCC <br>Prachathipat Party (Democrat Party) or DP <br>Thai Sang Thai Party <br>United Thai Nation (Ruam Thai Sang Chat) or UTN<br>
 
 **International organization participation**<br>
 ADB, APEC, ARF, ASEAN, BIMSTEC, BIS, CD, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE (partner), PCA, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMOGIP, UNOOSA, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -514,13 +515,8 @@ _highest 10%_: 27.1% (2021 est.)<br>
 _revenues_: $104.689 billion (2020 est.)<br>
 _expenditures_: $128.581 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--3.5% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 60.35% of GDP (2022 est.)<br>
-58.48% of GDP (2021 est.)<br>
-50.32% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

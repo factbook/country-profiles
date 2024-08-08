@@ -298,12 +298,12 @@ _etymology_: named in honor of Jean de VALETTE, the Grand Master of the Order of
 **National holiday**<br>
 Independence Day, 21 September (1964); Republic Day, 13 December (1974)<br>
 
+**Legal system**<br>
+mixed legal system of English common law and civil law based on the Roman and Napoleonic civil codes; subject to European Union law<br>
+
 **Constitution**<br>
 _history_: many previous; latest adopted 21 September 1964<br>
 _amendments_: proposals (Acts of Parliament) require at least two-thirds majority vote by the House of Representatives; passage of Acts requires majority vote by referendum, followed by final majority vote by the House and assent of the president of the republic; amended many times, last in 2020<br>
-
-**Legal system**<br>
-mixed legal system of English common law and civil law based on the Roman and Napoleonic civil codes; subject to European Union law<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -322,7 +322,7 @@ _chief of state_: President Myriam Spiteri DEBONO (since 4 April 2024)<br>
 _head of government_: Prime Minister Robert ABELA (13 January 2020)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister<br>
 _elections/appointments_: president indirectly elected by the House of Representatives for a single 5-year term; election last held on 27 March 2024 (next to be held by March 2029); following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the president for a 5-year term; deputy prime minister appointed by the president on the advice of the prime minister<br>
-_election results_: <em>2024:  </em>Myriam SPITERI DEBONO (PL) elected president; House of Representatives vote - unanimous<br><em><br>2019:</em> George VELLA (PL) elected president; House of Representatives vote - unanimous<br>
+_election results_: <em><br>2024:  </em>Myriam SPITERI DEBONO (PL) elected president; House of Representatives vote - unanimous<br><em><br>2019:</em> George VELLA (PL) elected president; House of Representatives vote - unanimous<br>
 
 **Legislative branch**<br>
 _description_: unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (65 seats statutory, 79 for 2022-2027 term; members directly elected in 5 multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
@@ -471,12 +471,8 @@ _highest 10%_: 25.1% (2020 est.)<br>
 _revenues_: $5.661 billion (2019 est.)<br>
 _expenditures_: $5.586 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-3.9% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 50.7% of GDP (2017 est.)<br>
-56.3% of GDP (2016 est.)<br>
 <strong>note:</strong> Malta reports public debt at nominal value outstanding at the end of the year, according to guidelines set out in the Maastricht Treaty for general government gross debt; the data include the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); general government comprises the central, state, and local governments, and social security funds<br>
 
 **Taxes and other revenues**<br>

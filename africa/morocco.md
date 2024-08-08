@@ -95,8 +95,9 @@ Arab-Amazigh 99%, other 1%<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Languages**<br>
-Arabic (official), Tamazight languages (Tamazight (official), Tachelhit, Tarifit), French (often the language of business, government, and diplomacy); note - the proportion of Tamazight speakers is disputed<br>
+Arabic (official), Tamazight languages (Tamazight (official), Tachelhit, Tarifit), French (often the language of business, government, and diplomacy)<br>
 _major-language sample(s)_: <br>كتاب ديال لحقائق متاع العالم، احسن مصدر متاع المعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> the proportion of Tamazight speakers is disputed<br>
 
 **Religions**<br>
 Muslim 99% (official; virtually all Sunni, &lt;0.1% Shia), other 1% (includes Christian, Jewish, and Baha'i); note - Jewish about 3,000-3,500 (2020 est.)<br>
@@ -342,12 +343,12 @@ _etymology_: name derives from the Arabic title "Ribat el-Fath," meaning "strong
 **National holiday**<br>
 Throne Day (accession of King MOHAMMED VI to the throne), 30 July (1999)<br>
 
+**Legal system**<br>
+mixed legal system of civil law based on French civil law and Islamic (sharia) law; judicial review of legislative acts by Constitutional Court<br>
+
 **Constitution**<br>
 _history_: several previous; latest drafted 17 June 2011, approved by referendum 1 July 2011; note - sources disagree on whether the 2011 referendum was for a new constitution or for reforms to the existing constitution<br>
 _amendments_: proposed by the king, by the prime minister, or by members in either chamber of Parliament; passage requires at least two-thirds majority vote by both chambers and approval in a referendum; the king can opt to submit self-initiated proposals directly to a referendum<br>
-
-**Legal system**<br>
-mixed legal system of civil law based on French civil law and Islamic (sharia) law; judicial review of legislative acts by Constitutional Court<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -494,22 +495,9 @@ _male_: 22.5% (2023 est.)<br>
 _female_: 23% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-4.8% (2013 est.)<br>
-<b>note:</b> % of population with income below national poverty line<br>
-
-**Gini Index coefficient - distribution of family income**<br>
-39.5 (2013 est.)<br>
-<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
-
 **Average household expenditures**<br>
 _on food_: 33.9% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 1.4% of household expenditures (2021 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.7%<br>
-_highest 10%_: 31.9% (2013 est.)<br>
-<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 8.6% of GDP (2023 est.)<br>
@@ -521,12 +509,8 @@ _highest 10%_: 31.9% (2013 est.)<br>
 _revenues_: $30.697 billion (2019 est.)<br>
 _expenditures_: $35.591 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--3.6% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 65.1% of GDP (2017 est.)<br>
-64.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 22.12% (of GDP) (2022 est.)<br>

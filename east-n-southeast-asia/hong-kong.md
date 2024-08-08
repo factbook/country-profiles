@@ -84,8 +84,9 @@ _adjective_: Chinese/Hong Kong<br>
 Chinese 91.6%, Filipino 2.7%, Indonesian 1.9%, other 3.7% (2021 est.)<br>
 
 **Languages**<br>
-Cantonese (official) 85.4%, English (official) 4.5%, Putonghua (official) 2.2%, other Chinese dialects 2.8%, other 2%, persons under 5 or mute 3.2%; note - data represent population by usual spoken language (2021 est.)<br>
+Cantonese (official) 85.4%, English (official) 4.5%, Putonghua (official) 2.2%, other Chinese dialects 2.8%, other 2%, persons under 5 or mute 3.2% (2021 est.)<br>
 _major-language sample(s)_: <br> <p>世界概况, 必須擁有的基本資料参考书 (Cantonese)</p> <br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> data represent population by usual spoken language<br>
 
 **Religions**<br>
 Buddhist or Taoist 27.9%, Protestant 6.7%, Roman Catholic 5.3%, Muslim 4.2%, Hindu 1.4%, Sikh 0.2%, other or none 54.3% (2016 est.)<br>
@@ -261,12 +262,12 @@ none (special administrative region of China)<br>
 **National holiday**<br>
 National Day (Anniversary of the Founding of the People's Republic of China), 1 October (1949); note - 1 July (1997) is celebrated as Hong Kong Special Administrative Region Establishment Day<br>
 
+**Legal system**<br>
+mixed legal system of common law based on the English model and Chinese customary law (in matters of family and land tenure); PRC imposition of National Security Law incorporates elements of Chinese civil law<br>
+
 **Constitution**<br>
 _history_: several previous (governance documents while under British authority); latest drafted April 1988 to February 1989, approved March 1990, effective 1 July 1997 (Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China serves as the constitution); note - since 1990, China's National People's Congress has interpreted specific articles of the Basic Law<br>
 _amendments_: proposed by the Standing Committee of the National People&rsquo;s Congress (NPC), the People&rsquo;s Republic of China State Council, or the Special Administrative Region of Hong Kong; submittal of proposals to the NPC requires two-thirds majority vote by the Legislative Council of Hong Kong, approval by two thirds of Hong Kong&rsquo;s deputies to the NPC, and approval by the Hong Kong chief executive; final passage requires approval by the NPC<br>
-
-**Legal system**<br>
-mixed legal system of common law based on the English model and Chinese customary law (in matters of family and land tenure); PRC imposition of National Security Law incorporates elements of Chinese civil law<br>
 
 **Citizenship**<br>
 see China<br>
@@ -301,8 +302,9 @@ Business and Professionals Alliance for Hong Kong or BPA <br>Civil Force or CF�
 ADB, APEC, BIS, FATF, ICC (national committees), IHO, IMF, IMO (associate), Interpol (subbureau), IOC, ISO (correspondent), ITUC (NGOs), UNWTO (associate), UPU, WCO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: none (Special Administrative Region of China); Hong Kong Economic and Trade Office (HKETO) carries out normal liaison activities and communication with the US Government and other US entities; the position of the Hong Kong Commissioner to the US Government of the Hong Kong Special Administrative Region is vacant; address: 1520 18th Street NW, Washington, DC 20036; telephone: [1] (202) 331-8947; FAX: [1] (202) 331-8958; email:&nbsp; hketo@hketowashington.gov.hk; website: https://www.hketowashington.gov.hk/<br>
-_HKETO offices_: New York, San Francisco<br>
+_chief of mission_: none (Special Administrative Region of China)<br>
+_HKETO offices_: New York, San Francisco, Washington DC<br>
+<strong>Note</strong>:  Hong Kong is a Special Administrative Region of China and does not have a diplomatic presence; the Hong Kong Economic and Trade Office (HKETO) carries out normal liaison activities and communication with the US Government and other US entities; the position of the Hong Kong Commissioner to the US Government of the Hong Kong Special Administrative Region is vacant; address: 1520 18th Street NW, Washington, DC 20036; telephone: [1] (202) 331-8947; FAX: [1] (202) 331-8958; email:  hketo@hketowashington.gov.hk; website: https://www.hketowashington.gov.hk/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Consul General Gregory MAY (since September 2022); note - also accredited to Macau<br>
@@ -424,12 +426,8 @@ _highest 10%_: 38.1% (2016)<br>
 _revenues_: $70.124 billion (2020 est.)<br>
 _expenditures_: $105.849 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-5.2% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 0.1% of GDP (2017 est.)<br>
-0.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 23.2% (of GDP) (2017 est.)<br>
@@ -597,6 +595,9 @@ no regular indigenous military forces; Hong Kong Police Force (specialized units
 defense is the responsibility of China<br>
 
 ## Transnational Issues
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Hong Kong was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/hong-kong/<br>
 
 **Illicit drugs**<br>
 <p>modern banking system provides conduit for money laundering; groups involved in money laundering range from local street organizations to sophisticated international syndicates involved in assorted criminal activities, including drug trafficking; major source of precursor chemicals used in the production of illicit narcotics</p><br>

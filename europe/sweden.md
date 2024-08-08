@@ -315,12 +315,12 @@ _etymology_: <em>stock</em> and <em>holm</em> literally mean "log" and "islet" i
 **National holiday**<br>
 National Day, 6 June (1983); note - from 1916 to 1982 this date was celebrated as Swedish Flag Day<br>
 
+**Legal system**<br>
+civil law system influenced by Roman-Germanic law and customary law<br>
+
 **Constitution**<br>
 _history_: Sweden has four fundamental laws which together make up the Constitution: The Instrument of Government (several previous; latest 1974); The Act of Succession (enacted 1810; changed in 1937 and 1980); The Freedom of the Press Act (many previous; latest in 1949); The Fundamental Law on Freedom of Expression (adopted 1991)<br>
 _amendments_: proposed by Parliament; passage requires simple majority vote in two consecutive parliamentary terms with an intervening general election; passage also requires approval by simple majority vote in a referendum if Parliament approves a motion for a referendum by one third of its members; the results of such a referendum are only binding if a majority vote against the proposal; there has not been a referendum on constitutional matters; The Instrument of Government - amended several times, last in 2018; The Act of Succession - changed in 1937, 1980; The Freedom of the Press Act - amended several times, last in 2019; The Fundamental Law on Freedom of Expression - amended several times, last in 2023<br>
-
-**Legal system**<br>
-civil law system influenced by Roman-Germanic law and customary law<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -493,13 +493,8 @@ _highest 10%_: 22.7% (2021 est.)<br>
 _revenues_: $259.17 billion (2019 est.)<br>
 _expenditures_: $256.454 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-1.3% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 36.25% of GDP (2022 est.)<br>
-40.49% of GDP (2021 est.)<br>
-44.02% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

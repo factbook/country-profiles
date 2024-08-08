@@ -94,7 +94,7 @@ _adjective_: Ukrainian<br>
 Ukrainian 77.8%, Russian 17.3%, Belarusian 0.6%, Moldovan 0.5%, Crimean Tatar 0.5%, Bulgarian 0.4%, Hungarian 0.3%, Romanian 0.3%, Polish 0.3%, Jewish 0.2%, other 1.8% (2001 est.)<br>
 
 **Languages**<br>
-Ukrainian (official) 67.5%, Russian (regional language) 29.6%, other (includes small Crimean Tatar-, Moldovan/Romanian-, and Hungarian-speaking minorities) 2.9% (2001 est.); note - in February 2018, the Constitutional Court ruled that 2012 language legislation entitling a language spoken by at least 10% of an oblast's population to be given the status of "regional language" - allowing for its use in courts, schools, and other government institutions - was unconstitutional, thus making the law invalid; Ukrainian remains the country's only official nationwide language<br>
+Ukrainian (official) 67.5%, Russian (regional language) 29.6%, other (includes Crimean Tatar, Moldovan/Romanian, and Hungarian) 2.9% (2001 est.)<br>
 _major-language sample(s)_: <br>Свiтова Книга Фактiв – найкраще джерело базової інформації. (Ukrainian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -320,12 +320,12 @@ _etymology_: the name is associated with that of Kyi, who along with his brother
 **National holiday**<br>
 Independence Day, 24 August (1991); note - 22 January 1918, the day Ukraine first declared its independence from Soviet Russia, and the date the short-lived Western and Greater (Eastern) Ukrainian republics united (1919), is now celebrated as Unity Day<br>
 
+**Legal system**<br>
+civil law system; judicial review of legislative acts<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted and ratified 28 June 1996<br>
 _amendments_: proposed by the president of Ukraine or by at least one third of the Supreme Council members; adoption requires simple majority vote by the Council and at least two-thirds majority vote in its next regular session; adoption of proposals relating to general constitutional principles, elections, and amendment procedures requires two-thirds majority vote by the Council and approval in a referendum; constitutional articles on personal rights and freedoms, national independence, and territorial integrity cannot be amended; amended several times, last in 2019<br>
-
-**Legal system**<br>
-civil law system; judicial review of legislative acts<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -503,13 +503,8 @@ _highest 10%_: 21.8% (2020 est.)<br>
 _revenues_: $29 billion (2021 est.)<br>
 _expenditures_: $35.75 billion (2021 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--5.5% (of GDP) (2021 est.)<br>
-
 **Public debt**<br>
 58.72% of GDP (2020 est.)<br>
-48.33% of GDP (2019 est.)<br>
-56.91% of GDP (2018 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

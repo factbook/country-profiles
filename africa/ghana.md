@@ -326,12 +326,12 @@ _etymology_: the name derives from the Akan word "nkran" meaning "ants," and ref
 **National holiday**<br>
 Independence Day, 6 March (1957)<br>
 
+**Legal system**<br>
+mixed system of English common law and customary law<br>
+
 **Constitution**<br>
 _history_: several previous; latest drafted 31 March 1992, approved and promulgated 28 April 1992, entered into force 7 January 1993<br>
 _amendments_: proposed by Parliament; consideration requires prior referral to the Council of State, a body of prominent citizens who advise the president of the republic; passage of amendments to "entrenched" constitutional articles (including those on national sovereignty, fundamental rights and freedoms, the structure and authorities of the branches of government, and amendment procedures) requires approval in a referendum by at least 40% participation of eligible voters and at least 75% of votes cast, followed by at least two-thirds majority vote in Parliament, and assent of the president; amendments to non-entrenched articles do not require referenda; amended 1996<br>
-
-**Legal system**<br>
-mixed system of English common law and customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -350,7 +350,7 @@ _chief of state_: President Nana Addo Dankwa AKUFO-ADDO (since 7 January 2017)<b
 _head of government_: President Nana Addo Dankwa AKUFO-ADDO (since 7 January 2017)<br>
 _cabinet_: Council of Ministers; nominated by the president, approved by Parliament<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 7 December 2020 (next to be held on 7 December 2024); the president is both chief of state and head of government<br>
-_election results_: <em>2020:</em> Nana Addo Dankwa AKUFO-ADDO reelected president in the first round; percent of vote - Nana Addo Dankwa AKUFO-ADDO (NPP) 51.3%, John Dramani MAHAMA (NDC) 47.4%, other 1.3% (2020)<br>
+_election results_: <em><br>2020:</em> Nana Addo Dankwa AKUFO-ADDO reelected president in the first round; percent of vote - Nana Addo Dankwa AKUFO-ADDO (NPP) 51.3%, John Dramani MAHAMA (NDC) 47.4%, other 1.3%<br><br><em>2016:</em> Nana Addo Dankwa AKUFO-ADDO elected president in the first round; percent of vote - Nana Addo Dankwa AKUFO-ADDO (NPP) 53.7%, John Dramani MAHAMA (NDC) 44.5%, other 1.8%  (2020)<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (275 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
@@ -505,12 +505,8 @@ _highest 10%_: 32.2% (2016 est.)<br>
 _revenues_: $9.492 billion (2018 est.)<br>
 _expenditures_: $14.062 billion (2018 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--6% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 71.8% of GDP (2017 est.)<br>
-73.4% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 12.3% (of GDP) (2022 est.)<br>

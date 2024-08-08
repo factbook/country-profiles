@@ -295,12 +295,12 @@ _etymology_: in Arabic, <em>abu</em> means "father" and <em>dhabi</em> refers to
 **National holiday**<br>
 Independence Day (National Day), 2 December (1971)<br>
 
+**Legal system**<br>
+mixed legal system of Islamic (sharia) law and civil law<br>
+
 **Constitution**<br>
 _history_: previous 1971 (provisional); latest drafted in 1979, became permanent May 1996<br>
 _amendments_: proposed by the Supreme Council and submitted to the Federal National Council; passage requires at least a two-thirds majority vote of Federal National Council members present and approval of the Supreme Council president; amended 2009<br>
-
-**Legal system**<br>
-mixed legal system of Islamic (sharia) law and civil law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -449,9 +449,6 @@ _male_: 6.7% (2023 est.)<br>
 _female_: 22.9% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-19.5% (2003 est.)<br>
-
 **Gini Index coefficient - distribution of family income**<br>
 26 (2018 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
@@ -470,13 +467,8 @@ _revenues_: $129.741 billion (2019 est.)<br>
 _expenditures_: $127.262 billion (2019 est.)<br>
 <strong>note:</strong> the UAE federal budget does not account for emirate-level spending in Abu Dhabi and Dubai<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--0.2% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 19.7% of GDP (2017 est.)<br>
-20.2% of GDP (2016 est.)<br>
-1.85% of GDP (2013 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

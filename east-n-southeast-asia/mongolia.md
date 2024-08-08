@@ -92,7 +92,7 @@ _adjective_: Mongolian<br>
 Khalkh 83.8%, Kazak 3.8%, Durvud 2.6%, Bayad 2%, Buriad 1.4%, Zakhchin 1.2%, Dariganga 1.1%, other 4.1% (2020 est.)<br>
 
 **Languages**<br>
-Mongolian 90% (official) (Khalkha dialect is predominant), Turkic, Russian (1999)<br>
+Mongolian 90% (official, Khalkha dialect is predominant), Turkic, Russian (1999)<br>
 _major-language sample(s)_: <br>Дэлхийн баримтат ном, үндсэн мэдээллийн зайлшгүй эх сурвалж. (Mongolian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -317,12 +317,12 @@ _etymology_: the name means "red hero" in Mongolian and honors national hero Dam
 **National holiday**<br>
 Naadam (games) holiday (commemorates independence from China in the 1921 Revolution), 11-15 July; Constitution Day (marks the date that the Mongolian People's Republic was created under a new constitution), 26 November (1924)<br>
 
+**Legal system**<br>
+civil law system influenced by Soviet and Romano-Germanic legal systems; constitution ambiguous on judicial review of legislative acts<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted 13 January 1992, effective 12 February 1992<br>
 _amendments_: proposed by the State Great Hural, by the president of the republic, by the government, or by petition submitted to the State Great Hural by the Constitutional Court; conducting referenda on proposed amendments requires at least two-thirds majority vote of the State Great Hural; passage of amendments by the State Great Hural requires at least three-quarters majority vote; passage by referendum requires majority participation of qualified voters and a majority of votes; amended 1999, 2000, 2019, 2023; note - an amendment passed in a referendum held in May 2023 increased the seats in the State Great Hural from 76 to 126<br>
-
-**Legal system**<br>
-civil law system influenced by Soviet and Romano-Germanic legal systems; constitution ambiguous on judicial review of legislative acts<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -341,7 +341,7 @@ _chief of state_: President Ukhnaagiin KHURELSUKH (since 25 June 2021)<br>
 _head of government_: Prime Minister Luvsannamsrai OYUN-ERDENE (since 27 January 2021)<br>
 _cabinet_: directly appointed by the prime minister following a constitutional amendment ratified in November 2019; prior to the amendment, the cabinet was nominated by the prime minister in consultation with the president and confirmed by the State Great Hural (parliament)<br>
 _elections/appointments_: presidential candidates nominated by political parties represented in the State Great Hural and directly elected by simple majority popular vote for one 6-year term; election last held on 9 June 2021 (next to be held in 2027); following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the State Great Hural<br>
-_election results_: <em>2021:</em> Ukhnaagiin KHURELSUKH elected president in first round; percent of vote - Ukhnaagiin KHURELSUKH (MPP) 68%, Dangaasuren ENKHBAT (RPEC) 20.1%, Sodnomzundui ERDENE (DP) 6%<br>
+_election results_: <em><br>2021:</em> Ukhnaagiin KHURELSUKH elected president in first round; percent of vote - Ukhnaagiin KHURELSUKH (MPP) 68%, Dangaasuren ENKHBAT (RPEC) 20.1%, Sodnomzundui ERDENE (DP) 6%<br><br><em>2017: </em> Khaltmaa BATTULGA elected president in second round; percent of vote in first round - Khaltmaa BATTULGA (DP) 38.1%, Miyegombo ENKHBOLD (MPP) 30.3%, Sainkhuu GANBAATAR (MPRP) 30.2%, invalid 1.4%; percent of vote in second round - Khaltmaa BATTULGA 55.2%, Miyegombo ENKHBOLD 44.8%<br>
 
 **Legislative branch**<br>
 _description_: unicameral State Great Hural or Ulsyn Ikh Khural (126 seats; 78 members directly elected in a selected constituency by simple majority vote and 48 members directly elected by proportional representation vote; members serve 4-year terms); note - a constitutional referendum passed in May 2023 increased the number of seats from 76 to 126<br>
@@ -492,13 +492,8 @@ _highest 10%_: 24.6% (2022 est.)<br>
 _revenues_: $3.699 billion (2020 est.)<br>
 _expenditures_: $4.979 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--6.4% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 67.57% of GDP (2021 est.)<br>
-73.94% of GDP (2020 est.)<br>
-60.84% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

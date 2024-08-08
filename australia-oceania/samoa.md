@@ -286,12 +286,12 @@ _etymology_: name derives from the native village around which the capital was c
 **National holiday**<br>
 Independence Day Celebration, 1 June (1962); note - 1 January 1962 is the date of independence from the New Zealand-administered UN trusteeship, but it is observed in June<br>
 
+**Legal system**<br>
+mixed legal system of English common law and customary law; judicial review of legislative acts with respect to fundamental rights of the citizen<br>
+
 **Constitution**<br>
 _history_: several previous (preindependence); latest 1 January 1962<br>
 _amendments_: proposed as an act by the Legislative Assembly; passage requires at least two-thirds majority vote by the Assembly membership in the third reading - provided at least 90 days have elapsed since the second reading, and assent of the chief of state; passage of amendments affecting constitutional articles on customary land or constitutional amendment procedures also requires at least two-thirds majority approval in a referendum; amended several times, last in 2020<br>
-
-**Legal system**<br>
-mixed legal system of English common law and customary law; judicial review of legislative acts with respect to fundamental rights of the citizen<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -433,15 +433,6 @@ _female_: 29.9% (2023 est.)<br>
 21.9% (2018 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
-**Gini Index coefficient - distribution of family income**<br>
-38.7 (2013 est.)<br>
-<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.7%<br>
-_highest 10%_: 31.3% (2013 est.)<br>
-<strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
-
 **Remittances**<br>
 28.36% of GDP (2023 est.)<br>
 33.61% of GDP (2022 est.)<br>
@@ -452,12 +443,8 @@ _highest 10%_: 31.3% (2013 est.)<br>
 _revenues_: $313 million (2020 est.)<br>
 _expenditures_: $263 million (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--4.7% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 49.1% of GDP (2017 est.)<br>
-52.6% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 25.02% (of GDP) (2021 est.)<br>

@@ -95,7 +95,7 @@ Kinh (Viet) 85.3%, Tay 1.9%, Thai 1.9%, Muong 1.5%, Khmer 1.4%, Mong 1.4%, Nung 
 <strong>note:</strong> 54 ethnic groups are recognized by the Vietnamese Government<br>
 
 **Languages**<br>
-Vietnamese (official), English (increasingly favored as a second language), some French, Chinese, and Khmer, mountain area languages (Mon-Khmer and Malayo-Polynesian)<br>
+Vietnamese (official); English (often as a second language); some French, Chinese, and Khmer; mountain-area languages (including Mon-Khmer and Malayo-Polynesian)<br>
 _major-language sample(s)_: <br>Dữ kiện thế giới, là nguồn thông tin cơ bản không thể thiếu. (Vietnamese)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -325,12 +325,12 @@ _etymology_: the city has had many names in its history going back to A.D. 1010 
 **National holiday**<br>
 Independence Day (National Day), 2 September (1945)<br>
 
+**Legal system**<br>
+civil law system; note - the civil code of 2005 reflects a European-style civil law<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted 28 November 2013, effective 1 January 2014<br>
 _amendments_: proposed by the president, by the National Assembly&rsquo;s Standing Committee, or by at least two thirds of the National Assembly membership; a decision to draft an amendment requires approval by at least a two-thirds majority vote of the Assembly membership, followed by the formation of a constitutional drafting committee to write a draft and collect citizens&rsquo; opinions; passage requires at least two-thirds majority of the Assembly membership; the Assembly can opt to conduct a referendum<br>
-
-**Legal system**<br>
-civil law system; note - the civil code of 2005 reflects a European-style civil law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -349,6 +349,7 @@ _chief of state_: President To LAM (since 22 May 2024)<br>
 _head of government_: Prime Minister Pham Minh CHINH (since 26 July 2021)<br>
 _cabinet_: Cabinet proposed by the prime minister, confirmed by the National Assembly, and appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Assembly from among its members for a single 5-year term; prime minister recommended by the president and confirmed by the National Assembly; deputy prime ministers confirmed by the National Assembly and appointed by the president<br>
+<strong>note: </strong>in August 2024, To LAM was elected general secretary of the Central Committee of the Communist Party of Vietnam, the country’s most powerful position<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Quoc Hoi (500 seats; members directly elected in multi-seat constituencies by absolute majority vote; members serve 5-year terms)<br>
@@ -506,12 +507,8 @@ _highest 10%_: 28.1% (2022 est.)<br>
 _revenues_: $64.895 billion (2019 est.)<br>
 _expenditures_: $75.834 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--6.7% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 58.5% of GDP (2017 est.)<br>
-59.9% of GDP (2016 est.)<br>
 <strong>note:</strong> official data; data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>

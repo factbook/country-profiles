@@ -301,12 +301,12 @@ _etymology_: the name, whose meaning is uncertain, traces back almost two millen
 **National holiday**<br>
 National Day, 18 November; note - celebrates Oman's independence from Portugal in 1650 and the birthday of Sultan QABOOS bin Said al Said, who reigned from 1970 to 2020<br>
 
+**Legal system**<br>
+mixed legal system of Anglo-Saxon law and Islamic law<br>
+
 **Constitution**<br>
 _history_: promulgated by royal decree 6 November 1996 (the Basic Law of the Sultanate of Oman serves as the constitution); amended by royal decree in 2011<br>
 _amendments_: promulgated by the sultan or proposed by the Council of Oman and drafted by a technical committee as stipulated by royal decree and then promulgated through royal decree; amended by royal decree 2011, 2021<br>
-
-**Legal system**<br>
-mixed legal system of Anglo-Saxon law and Islamic law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -464,12 +464,8 @@ _on alcohol and tobacco_: 0.2% of household expenditures (2021 est.)<br>
 _revenues_: $29.334 billion (2018 est.)<br>
 _expenditures_: $35.984 billion (2018 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--13.8% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 46.9% of GDP (2017 est.)<br>
-32.5% of GDP (2016 est.)<br>
 <strong>note:</strong> excludes indebtedness of state-owned enterprises<br>
 
 **Taxes and other revenues**<br>

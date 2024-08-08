@@ -311,12 +311,12 @@ ca. 965 (unified and Christianized under Harald I GORMSSON); 5 June 1849 (became
 **National holiday**<br>
 Constitution Day, 5 June (1849); note - closest equivalent to a national holiday<br>
 
+**Legal system**<br>
+civil law; judicial review of legislative acts<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted 5 June 1953<br>
 _amendments_: proposed by the Folketing (Parliament) with consent of the government; passage requires approval by the next Folketing following a general election, approval by simple majority vote of at least 40% of voters in a referendum, and assent of the chief of state; changed several times, last in 2009 (Danish Act of Succession)<br>
-
-**Legal system**<br>
-civil law; judicial review of legislative acts<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -491,12 +491,8 @@ _highest 10%_: 23.8% (2021 est.)<br>
 _revenues_: $185.645 billion (2019 est.)<br>
 _expenditures_: $172.408 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-1.1% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 35.3% of GDP (2017 est.)<br>
-37.9% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>

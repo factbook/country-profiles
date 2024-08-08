@@ -242,12 +242,12 @@ none (overseas collectivity collectivity of France; has been under French contro
 **National holiday**<br>
 F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790)<br>
 
+**Legal system**<br>
+French civil law<br>
+
 **Constitution**<br>
 _history_: 4 October 1958 (French Constitution)<br>
 _amendments_: amendment procedures of France's constitution apply<br>
-
-**Legal system**<br>
-French civil law<br>
 
 **Citizenship**<br>
 see France<br>
@@ -279,7 +279,7 @@ Archipelago Tomorrow (Archipel Domain) or AD (affiliated with The Republicans)<b
 UPU, WFTU (NGOs)<br>
 
 **Diplomatic representation in the US**<br>
-none (territorial overseas collectivity of France)<br>
+none (overseas territory of France)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (territorial overseas collectivity of France)<br>
@@ -301,7 +301,6 @@ high-income, French North American territorial economy; primarily fishing export
 
 **Real GDP (purchasing power parity)**<br>
 $261.3 million (2015 est.)<br>
-$215.3 million (2006 est.)<br>
 <strong>note:</strong> supplemented by annual payments from France of about $60 million<br>
 
 **GDP (official exchange rate)**<br>
@@ -309,7 +308,6 @@ $261.3 million (2015 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.5% (2015)<br>
-4.5% (2010)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2% (2006 est.)<br>
@@ -327,14 +325,10 @@ fish processing and supply base for fishing fleets; tourism<br>
 
 **Unemployment rate**<br>
 8.7% (2015 est.)<br>
-9.9% (2008 est.)<br>
 
 **Budget**<br>
 _revenues_: $70 million (1996 est.)<br>
 _expenditures_: $60 million (1996 est.)<br>
-
-**Budget surplus (+) or deficit (-)**<br>
-3.8% (of GDP) (1996 est.)<br>
 
 **Exports - partners**<br>
 Canada 84%, France 11%, Ireland 3%, Slovakia 1%, Democratic Republic of the Congo 0% (2022)<br>
@@ -357,11 +351,11 @@ refined petroleum, packaged medicine, other foods, plastic products, cars (2022)
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
-0.885 (2017 est.)<br>
-0.903 (2016 est.)<br>
-0.9214 (2015 est.)<br>
-0.885 (2014 est.)<br>
-0.7634 (2013 est.)<br>
+0.925 (2023 est.)<br>
+0.95 (2022 est.)<br>
+0.845 (2021 est.)<br>
+0.876 (2020 est.)<br>
+0.893 (2019 est.)<br>
 
 ## Energy
 

@@ -101,7 +101,7 @@ Egyptian 99.7%, other 0.3% (2006 est.)<br>
 <strong>note:</strong> data represent respondents by nationality<br>
 
 **Languages**<br>
-Arabic (official), English, and French widely understood by educated classes<br>
+Arabic (official); English and French widely understood by educated classes<br>
 _major-language sample(s)_: <br>كتاب حقائق العالم، أفضل مصدر للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -331,12 +331,12 @@ _etymology_: from the Arabic "al-Qahira," meaning "the victorious"<br>
 **National holiday**<br>
 Revolution Day, 23 July (1952)<br>
 
+**Legal system**<br>
+mixed legal system based on Napoleonic civil and penal law, Islamic religious law, and vestiges of colonial-era laws; judicial review of the constitutionality of laws by the Supreme Constitutional Court<br>
+
 **Constitution**<br>
 _history_: several previous; latest approved by a constitutional committee in December 2013, approved by referendum held on 14-15 January 2014, ratified by interim president on 19 January 2014<br>
 _amendments_: proposed by the president of the republic or by one fifth of the House of Representatives members; a decision to accept the proposal requires majority vote by House members; passage of amendment requires a two-thirds majority vote by House members and passage by majority vote in a referendum; articles of reelection of the president and principles of freedom are not amendable unless the amendment "brings more guarantees;" amended 2019<br>
-
-**Legal system**<br>
-mixed legal system based on Napoleonic civil and penal law, Islamic religious law, and vestiges of colonial-era laws; judicial review of the constitutionality of laws by the Supreme Constitutional Court<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt<br>
@@ -355,7 +355,7 @@ _chief of state_: President Abdel Fattah EL-SISI (since 8 June 2014)<br>
 _head of government_: Prime Minister Mostafa MADBOULY (since 7 June 2018)<br>
 _cabinet_: Cabinet ministers nominated by the executive branch and approved by the House of Representatives<br>
 _elections/appointments_: president elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for 3 consecutive terms); election last held on 10 to 12 December 2023; next to held in 2029); prime minister appointed by the president, approved by the House of Representatives<br>
-_election results_: Abdel Fattah EL-SISI reelected president in first round; percent of valid votes cast - Abdel Fattah EL-SISI (independent) 89.6%, Hazam OMAR (Republican People&rsquo;s Party) 4.5%, Farid ZAHRAN (Egyptian Social Democratic Party 4%, Abdel-Samad YAMAMA 1.9%<br>
+_election results_: <em><br>2023:</em> Abdel Fattah EL-SISI reelected president in first round; percent of valid votes cast - Abdel Fattah EL-SISI (independent) 89.6%, Hazam OMAR (Republican People’s Party) 4.5%, Farid ZAHRAN (Egyptian Social Democratic Party 4%, Abdel-Samad YAMAMA 1.9%<br><br><em>2018:</em> Abdelfattah ELSISI reelected president in first round; percent of valid votes cast - Abdelfattah ELSISI (independent) 97.1%, Moussa Mostafa MOUSSA (El Ghad Party) 2.9%; note - more than 7% of ballots cast were deemed invalid<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate or Majlis Al-Shiyoukh (300 seats; 100 members directly elected in single seat constituencies, 100 directly elected by closed party-list vote, and 100 appointed by the president; note - the upper house, previously the Shura Council, was eliminated in the 2014 constitution, reestablished as the Senate, following passage in a 2019 constitutional referendum and approved by the House of Representatives in June 2020 <br>House of Representatives or Majlis Al-Nowaab (596 seats; 448 members directly elected by individual candidacy system, 120 members - with quotas for women, youth, Christians and workers - elected in party-list constituencies by simple majority popular vote, and 28 members appointed by the president; members of both houses serve 5-year terms<br>
@@ -512,12 +512,8 @@ _highest 10%_: 27.5% (2019 est.)<br>
 _revenues_: $71.16 billion (2020 est.)<br>
 _expenditures_: $100.318 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--8.6% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 103% of GDP (2017 est.)<br>
-96.8% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover central government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are sold at public auctions<br>
 
 **Taxes and other revenues**<br>

@@ -279,12 +279,12 @@ _etymology_: an earlier French settlement was renamed Kingstown by the British i
 **National holiday**<br>
 Independence Day, 27 October (1979)<br>
 
+**Legal system**<br>
+English common law<br>
+
 **Constitution**<br>
 _history_: previous 1969, 1975; latest drafted 26 July 1979, effective 27 October 1979 (The Saint Vincent Constitution Order 1979)<br>
 _amendments_: proposed by the House of Assembly; passage requires at least two-thirds majority vote of the Assembly membership and assent of the governor general; passage of amendments to constitutional sections on fundamental rights and freedoms, citizen protections, various government functions and authorities, and constitutional amendment procedures requires approval by the Assembly membership, approval in a referendum of at least two thirds of the votes cast, and assent of the governor general<br>
-
-**Legal system**<br>
-English common law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -429,12 +429,8 @@ _female_: 42% (2023 est.)<br>
 _revenues_: $243 million (2020 est.)<br>
 _expenditures_: $288 million (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--0.6% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 73.8% of GDP (2017 est.)<br>
-82.8% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 23.8% (of GDP) (2017 est.)<br>

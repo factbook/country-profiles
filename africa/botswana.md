@@ -320,12 +320,12 @@ _etymology_: named after GABORONE (ca. 1825-1931), a revered kgosi (chief) of th
 **National holiday**<br>
 Independence Day (Botswana Day), 30 September (1966)<br>
 
+**Legal system**<br>
+mixed legal system of civil law influenced by the Roman-Dutch model and also customary and common law<br>
+
 **Constitution**<br>
 _history_: previous 1960 (pre-independence); latest adopted March 1965, effective 30 September 1966<br>
 _amendments_: proposed by the National Assembly; passage requires approval in two successive Assembly votes with at least two-thirds majority in the final vote; proposals to amend constitutional provisions on fundamental rights and freedoms, the structure and branches of government, and public services also requires approval by majority vote in a referendum and assent by the president of the republic; amended several times, last in 2021<br>
-
-**Legal system**<br>
-mixed legal system of civil law influenced by the Roman-Dutch model and also customary and common law<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -493,13 +493,8 @@ _highest 10%_: 41.5% (2015 est.)<br>
 _revenues_: $3.828 billion (2020 est.)<br>
 _expenditures_: $6.006 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--1% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 19.62% of GDP (2020 est.)<br>
-16.19% of GDP (2019 est.)<br>
-15.23% of GDP (2018 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

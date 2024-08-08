@@ -259,12 +259,12 @@ _etymology_: named after Saint MARINUS, who in A.D. 301 founded a monastic settl
 **National holiday**<br>
 Founding of the Republic (or Feast of Saint Marinus), 3 September (A.D. 301)<br>
 
+**Legal system**<br>
+civil law system with Italian civil law influences<br>
+
 **Constitution**<br>
 _history_: San Marino&rsquo;s principal legislative instruments consist of old customs (antiche consuetudini), the Statutory Laws of San Marino (Leges Statutae Sancti Marini), old statutes (antichi statute) from the1600s, Brief Notes on the Constitutional Order and Institutional Organs of the Republic of San Marino (Brevi Cenni sull&rsquo;Ordinamento Costituzionale e gli Organi Istituzionali della Repubblica di San Marino) and successive legislation, chief among them is the Declaration of the Rights of Citizens and Fundamental Principles of the San Marino Legal Order (Dichiarazione dei Diritti dei Cittadini e dei Principi Fondamentali dell&rsquo;Ordinamento Sammarinese), approved 8 July 1974<br>
 _amendments_: proposed by the Great and General Council; passage requires two-thirds majority Council vote; Council passage by absolute majority vote also requires passage in a referendum; Declaration of Civil Rights amended several times, last in 2019<br>
-
-**Legal system**<br>
-civil law system with Italian civil law influences<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -388,9 +388,6 @@ tourism, banking, textiles, electronics, ceramics, cement, wine<br>
 11.57% (2021 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
-**Labor force**<br>
-21,960 (September 2013 est.)<br>
-
 **Unemployment rate**<br>
 8.1% (2017 est.)<br>
 8.6% (2016 est.)<br>
@@ -410,13 +407,8 @@ _female_: 36%<br>
 _revenues_: $371 million (2019 est.)<br>
 _expenditures_: $363 million (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--2.9% (of GDP) (2011 est.)<br>
-
 **Public debt**<br>
 95.12% of GDP (2021 est.)<br>
-98.35% of GDP (2020 est.)<br>
-55.09% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

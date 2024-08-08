@@ -332,12 +332,12 @@ _etymology_: named after a village called Lusaka, located at Manda Hill, near wh
 **National holiday**<br>
 Independence Day, 24 October (1964)<br>
 
+**Legal system**<br>
+mixed legal system of English common law and customary law<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted 24 August 1991, promulgated 30 August 1991<br>
 _amendments_: proposed by the National Assembly; passage requires two-thirds majority vote by the Assembly in two separate readings at least 30 days apart; passage of amendments affecting fundamental rights and freedoms requires approval by at least one half of votes cast in a referendum prior to consideration and voting by the Assembly; amended 1996, 2015, 2016; note - in late 2020, an amendment which would have altered the structure of the constitution was defeated in the National Assembly<br>
-
-**Legal system**<br>
-mixed legal system of English common law and customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -506,13 +506,8 @@ _highest 10%_: 39.1% (2022 est.)<br>
 _revenues_: $4.758 billion (2019 est.)<br>
 _expenditures_: $7.044 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--7.3% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 71.41% of GDP (2021 est.)<br>
-103.54% of GDP (2020 est.)<br>
-61.93% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

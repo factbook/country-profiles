@@ -84,7 +84,7 @@ _adjective_: Comoran<br>
 Antalote, Cafre, Makoa, Oimatsaha, Sakalava<br>
 
 **Languages**<br>
-Arabic (official), French (official), Shikomoro (official; similar to Swahili) (Comorian)<br>
+Arabic (official), French (official), Shikomoro (official; similar to Swahili), Comorian<br>
 
 **Religions**<br>
 Muslim 98.1% (overwhelmingly Sunni Muslim, small Shia Muslim and Ahmadiyya Muslim populations), ethnic religionist 1.1%, Christian 0.6%, other 0.3% (2020 est.)<br>
@@ -292,13 +292,13 @@ _etymology_: Moroni derives from "mroni," which means "at the river" in Shingazi
 **National holiday**<br>
 Independence Day, 6 July (1975)<br>
 
+**Legal system**<br>
+mixed legal system of Islamic religious law, the French civil code of 1975, and customary law<br>
+
 **Constitution**<br>
 _history_: previous 1996, 2001; newest adopted 30 July 2018<br>
 _amendments_: proposed by the president of the union or supported by at least one third of the Assembly of the Union membership; adoption requires approval by at least three-quarters majority of the total Assembly membership or approval in a referendum<br>
 <strong>note: </strong>a referendum held on 30 July 2018 - boycotted by the opposition - overwhelmingly approved a new constitution that allows for 2 consecutive 5-year presidential terms while retaining the rotating presidency within the islands<br>
-
-**Legal system**<br>
-mixed legal system of Islamic religious law, the French civil code of 1975, and customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -389,8 +389,7 @@ $1.352 billion (2023 est.)<br>
 **Inflation rate (consumer prices)**<br>
 1% (2017 est.)<br>
 1.8% (2016 est.)<br>
--4.29% (2013 est.)<br>
-<b>note:</b> annual % change based on consumer prices<br>
+<strong>note:</strong> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 47.7% (2017 est.)<br>
@@ -432,10 +431,6 @@ _male_: 9.9% (2023 est.)<br>
 _female_: 12.2% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-42.4% (2013 est.)<br>
-<b>note:</b> % of population with income below national poverty line<br>
-
 **Gini Index coefficient - distribution of family income**<br>
 45.3 (2014 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
@@ -455,12 +450,8 @@ _highest 10%_: 33.7% (2014 est.)<br>
 _revenues_: $223 million (2018 est.)<br>
 _expenditures_: $228 million (2018 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--6.5% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 32.4% of GDP (2017 est.)<br>
-27.7% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 25.3% (of GDP) (2017 est.)<br>

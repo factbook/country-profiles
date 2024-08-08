@@ -316,12 +316,12 @@ _etymology_: the name Tirana first appears in a 1418 Venetian document; the orig
 **National holiday**<br>
 Independence Day, 28 November (1912), also known as Flag Day<br>
 
+**Legal system**<br>
+civil law system except in the northern rural areas where customary law known as the "Code of Leke" is still present<br>
+
 **Constitution**<br>
 _history_: several previous; latest approved by the Assembly 21 October 1998, adopted by referendum 22 November 1998, promulgated 28 November 1998<br>
 _amendments_: proposed by at least one-fifth of the Assembly membership; passage requires at least a two-thirds majority vote by the Assembly; referendum required only if approved by two-thirds of the Assembly; amendments approved by referendum effective upon declaration by the president of the republic; amended several times, last in 2020<br>
-
-**Legal system**<br>
-civil law system except in the northern rural areas where customary law known as the "Code of Leke" is still present<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -491,13 +491,8 @@ _highest 10%_: 22.8% (2020 est.)<br>
 _revenues_: $4.19 billion (2019 est.)<br>
 _expenditures_: $4.489 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--2% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 82.38% of GDP (2021 est.)<br>
-83.89% of GDP (2020 est.)<br>
-75.7% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

@@ -302,12 +302,12 @@ _etymology_: derives from the Arabic term "dohat," meaning "roundness," and refe
 **National holiday**<br>
 National Day, 18 December (1878), anniversary of Al Thani family accession to the throne; Independence Day, 3 September (1971)<br>
 
+**Legal system**<br>
+mixed legal system of civil law and Islamic (sharia) law (in family and personal matters)<br>
+
 **Constitution**<br>
 _history_: previous 1972 (provisional); latest drafted 2 July 2002, approved by referendum 29 April 2003, endorsed 8 June 2004, effective 9 June 2005<br>
 _amendments_: proposed by the Amir or by one third of Advisory Council members; passage requires two-thirds majority vote of Advisory Council members and approval and promulgation by the emir; articles pertaining to the rule of state and its inheritance, functions of the emir, and citizen rights and liberties cannot be amended<br>
-
-**Legal system**<br>
-mixed legal system of civil law and Islamic (sharia) law (in family and personal matters)<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -454,16 +454,9 @@ _male_: 0.3% (2023 est.)<br>
 _female_: 1.5% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Gini Index coefficient - distribution of family income**<br>
-41.1 (2007 est.)<br>
-
 **Average household expenditures**<br>
 _on food_: 12.3% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 0.3% of household expenditures (2021 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.3%<br>
-_highest 10%_: 35.9% (2007)<br>
 
 **Remittances**<br>
 0.44% of GDP (2022 est.)<br>
@@ -475,12 +468,8 @@ _highest 10%_: 35.9% (2007)<br>
 _revenues_: $65.922 billion (2019 est.)<br>
 _expenditures_: $57.258 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--5.8% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 53.8% of GDP (2017 est.)<br>
-46.7% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 26.4% (of GDP) (2017 est.)<br>

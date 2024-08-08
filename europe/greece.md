@@ -305,12 +305,12 @@ _etymology_: Athens is the oldest European capital city; according to tradition,
 **National holiday**<br>
 Independence Day, 25 March (1821)<br>
 
+**Legal system**<br>
+civil legal system based on Roman law<br>
+
 **Constitution**<br>
 _history_: many previous; latest entered into force 11 June 1975<br>
 _amendments_: proposed by at least 50 members of Parliament and agreed by three-fifths majority vote in two separate ballots at least 30 days apart; passage requires absolute majority vote by the next elected Parliament; entry into force finalized through a "special parliamentary resolution"; articles on human rights and freedoms and the form of government cannot be amended; amended 1986, 2001, 2008, 2019<br>
-
-**Legal system**<br>
-civil legal system based on Roman law<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -487,13 +487,8 @@ _highest 10%_: 24.8% (2021 est.)<br>
 _revenues_: $98.523 billion (2019 est.)<br>
 _expenditures_: $97.277 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-0.8% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 203.29% of GDP (2022 est.)<br>
-237.49% of GDP (2021 est.)<br>
-253.23% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

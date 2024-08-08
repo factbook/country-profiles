@@ -88,8 +88,9 @@ _adjective_: Norwegian<br>
 Norwegian 81.5% (includes about 60,000 Sami), other European 8.9%, other 9.6% (2021 est.)<br>
 
 **Languages**<br>
-Bokmal Norwegian (official), Nynorsk Norwegian (official), small Sami- and Finnish-speaking minorities; note - Sami has three dialects: Lule, North Sami, and South Sami; Sami is an official language in nine municipalities in Norway's three northernmost counties: Finnmark, Nordland, and Troms<br>
+Bokmal Norwegian (official), Nynorsk Norwegian (official), small Sami- and Finnish-speaking minorities<br>
 _major-language sample(s)_: <br>Verdens Faktabok, den essensielle kilden for grunnleggende informasjon. (Norwegian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> Sami has three dialects (Lule, North Sami, and South Sami) and is an official language in nine municipalities in the northernmost counties of Finnmark, Nordland, and Troms<br>
 
 **Religions**<br>
 Church of Norway (Evangelical Lutheran - official) 67.5%, Muslim 3.1%, Roman Catholic 3.1%, other Christian 3.8%, other 2.6%, unspecified 19.9% (2021 est.)<br>
@@ -313,12 +314,12 @@ Bouvet Island, Jan Mayen, Svalbard (3)<br>
 **National holiday**<br>
 Constitution Day, 17 May (1814)<br>
 
+**Legal system**<br>
+mixed legal system of civil, common, and customary law; Supreme Court can advise on legislative acts<br>
+
 **Constitution**<br>
 _history_: drafted spring 1814, adopted 16 May 1814, signed by Constituent Assembly 17 May 1814<br>
 _amendments_: proposals submitted by members of Parliament or by the government within the first three years of Parliament's four-year term; passage requires two-thirds majority vote of a two-thirds quorum in the next elected Parliament; amended over 400 times, last in 2023<br>
-
-**Legal system**<br>
-mixed legal system of civil, common, and customary law; Supreme Court can advise on legislative acts<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -491,12 +492,8 @@ _highest 10%_: 22.4% (2019 est.)<br>
 _revenues_: $185.338 billion (2020 est.)<br>
 _expenditures_: $210.522 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-4.4% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 36.5% of GDP (2017 est.)<br>
-36.4% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data exclude treasury debt held by foreign entities; the data exclude debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>

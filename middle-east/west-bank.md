@@ -379,12 +379,8 @@ _revenues_: $3.803 billion (2020 est.)<br>
 _expenditures_: $5.002 billion (2020 est.)<br>
 <strong>note:</strong> includes Palestinian Authority expenditures in the Gaza Strip<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-0.4% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 24.4% of GDP (2014 est.)<br>
-23.8% of GDP (2013 est.)<br>
 
 **Taxes and other revenues**<br>
 21.47% (of GDP) (2021 est.)<br>

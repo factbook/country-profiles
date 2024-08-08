@@ -335,12 +335,12 @@ _etymology_: named after the Lilongwe River that flows through the city<br>
 **National holiday**<br>
 Independence Day, 6 July (1964); note - also called Republic Day since 6 July 1966<br>
 
+**Legal system**<br>
+mixed legal system of English common law and customary law; judicial review of legislative acts in the Supreme Court of Appeal<br>
+
 **Constitution**<br>
 _history_: previous 1953 (pre-independence), 1964, 1966; latest drafted January to May 1994, approved 16 May 1994, entered into force 18 May 1995<br>
 _amendments_: proposed by the National Assembly; passage of amendments affecting constitutional articles, including the sovereignty and territory of the state, fundamental constitutional principles, human rights, voting rights, and the judiciary, requires majority approval in a referendum and majority approval by the Assembly; passage of other amendments requires at least two-thirds majority vote of the Assembly; amended several times, last in 2017<br>
-
-**Legal system**<br>
-mixed legal system of English common law and customary law; judicial review of legislative acts in the Supreme Court of Appeal<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -502,13 +502,8 @@ _highest 10%_: 31% (2019 est.)<br>
 _revenues_: $1.628 billion (2019 est.)<br>
 _expenditures_: $2.129 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--3.4% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 52.63% of GDP (2022 est.)<br>
-44.89% of GDP (2019 est.)<br>
-41.7% of GDP (2018 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

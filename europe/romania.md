@@ -95,8 +95,9 @@ Romanian 89.3%, Hungarian 6%, Romani 3.4%, Ukrainian 0.3%, German 0.1%, other 0.
 <strong>note:</strong> data represent individuals who declared an ethnic group in the 2021 national census; 13% did not respond; Romani populations are usually underestimated in official statistics and may represent 5–11% of Romania's population<br>
 
 **Languages**<br>
-Romanian (official) 91.6%, Hungarian 6.3%, Romani 1.2%, other 0.7% (2021 est.)<br><br><strong>note:</strong> data represent individuals who declared a maternal language in the 2021 national census; 13.1% did not respond<br>
+Romanian (official) 91.6%, Hungarian 6.3%, Romani 1.2%, other 0.7% (2021 est.)<br>
 _major-language sample(s)_: <br>Cartea informativa a lumii, sursa indispensabila pentru informatii de baza. (Romanian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> data represent individuals who declared a maternal language in the 2021 national census; 13.1% did not respond<br>
 
 **Religions**<br>
 Romanian Orthodox 85.3%, Roman Catholic 4.5%, Reformed 3%, Pentecostal 2.5%, other 4.7% (2021 est.)<br>
@@ -319,12 +320,12 @@ _etymology_: related to the Romanian word "bucura" that is believed to be of Dac
 **National holiday**<br>
 Unification Day (unification of Romania and Transylvania), 1 December (1918)<br>
 
+**Legal system**<br>
+civil law system<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted 21 November 1991, approved by referendum and effective 8 December 1991<br>
 _amendments_: initiated by the president of Romania through a proposal by the government, by at least one fourth of deputies or senators in Parliament, or by petition of eligible voters representing at least half of Romania&rsquo;s counties; passage requires at least two-thirds majority vote by both chambers or &ndash; if mediation is required - by three-fourths majority vote in a joint session, followed by approval in a referendum; articles, including those on national sovereignty, form of government, political pluralism, and fundamental rights and freedoms cannot be amended; amended 2003<br>
-
-**Legal system**<br>
-civil law system<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -499,13 +500,8 @@ _highest 10%_: 24% (2021 est.)<br>
 _revenues_: $72.193 billion (2019 est.)<br>
 _expenditures_: $83.59 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--2.8% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 50.45% of GDP (2022 est.)<br>
-55.91% of GDP (2021 est.)<br>
-57.3% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

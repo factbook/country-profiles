@@ -85,8 +85,9 @@ Chinese 74.2%, Malay 13.7%, Indian 8.9%, other 3.2% (2021 est.)<br>
 <strong>note:</strong> data represent population by self-identification; the population is divided into four categories: Chinese, Malay (includes indigenous Malays and Indonesians), Indian (includes Indian, Pakistani, Bangladeshi, or Sri Lankan), and other ethnic groups (includes Eurasians, Caucasians, Japanese, Filipino, Vietnamese)<br>
 
 **Languages**<br>
-English (official) 48.3%, Mandarin (official) 29.9%, other Chinese dialects (includes Hokkien, Cantonese, Teochew, Hakka) 8.7%, Malay (official) 9.2%, Tamil (official) 2.5%, other 1.4%; note - data represent language most frequently spoken at home (2020 est.)<br>
+English (official) 48.3%, Mandarin (official) 29.9%, other Chinese dialects (includes Hokkien, Cantonese, Teochew, Hakka) 8.7%, Malay (official) 9.2%, Tamil (official) 2.5%, other 1.4% (2020 est.)<br>
 _major-language sample(s)_: <br>The World Factbook, the indispensable source for basic information. (English)<br><br>世界概況  –  不可缺少的基本消息來源 (Mandarin)<br>
+<strong>note:</strong> data represent language most frequently spoken at home<br>
 
 **Religions**<br>
 Buddhist 31.1%, Christian 18.9%, Muslim 15.6%, Taoist 8.8%, Hindu 5%, other 0.6%, none 20% (2020 est.)<br>
@@ -303,12 +304,12 @@ no first order administrative divisions; there are five community development co
 **National holiday**<br>
 National Day, 9 August (1965)<br>
 
+**Legal system**<br>
+English common law<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted 22 December 1965<br>
 _amendments_: proposed by Parliament; passage requires two-thirds majority vote in the second and third readings by the elected Parliament membership and assent of the president of the republic; passage of amendments affecting sovereignty or control of the Police Force or the Armed Forces requires at least two-thirds majority vote in a referendum; amended many times, last in 2020<br>
-
-**Legal system**<br>
-English common law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -479,13 +480,8 @@ _revenues_: $59.974 billion (2020 est.)<br>
 _expenditures_: $90.264 billion (2020 est.)<br>
 <strong>note:</strong> expenditures include both operational and development expenditures<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--0.3% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 150.14% of GDP (2021 est.)<br>
-151.57% of GDP (2020 est.)<br>
-127.83% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

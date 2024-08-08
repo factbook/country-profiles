@@ -337,12 +337,12 @@ _etymology_: founded as a German colonial settlement of&nbsp;Jaunde in 1888 and 
 **National holiday**<br>
 State Unification Day (National Day), 20 May (1972)<br>
 
+**Legal system**<br>
+mixed legal system of English common law, French civil law, and customary law<br>
+
 **Constitution**<br>
 _history_: several previous; latest effective 18 January 1996<br>
 _amendments_: proposed by the president of the republic or by Parliament; amendment drafts require approval of at least one third of the membership in either house of Parliament; passage requires absolute majority vote of the Parliament membership; passage of drafts requested by the president for a second reading in Parliament requires two-thirds majority vote of its membership; the president can opt to submit drafts to a referendum, in which case passage requires a simple majority; constitutional articles on Cameroon&rsquo;s unity and territorial integrity and its democratic principles cannot be amended; amended 2008<br>
-
-**Legal system**<br>
-mixed legal system of English common law, French civil law, and customary law<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction; non-party state to the ICCt<br>
@@ -361,7 +361,7 @@ _chief of state_: President Paul BIYA (since 6 November 1982)<br>
 _head of government_: Prime Minister Joseph NGUTE (since 4 January 2019)<br>
 _cabinet_: Cabinet proposed by the prime minister, appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (no term limits); election last held on 7 October 2018 (next to be held in October 2025); prime minister appointed by the president<br>
-_election results_: <em>2018:</em> Paul BIYA reelected president; percent of vote - Paul BIYA (CPDM) 71.3%, Maurice KAMTO (MRC) 14.2%, Cabral LIBII (Univers) 6.3%, other 8.2% (2018)<br>
+_election results_: <em><br>2018:</em> Paul BIYA reelected president; percent of vote - Paul BIYA (CPDM) 71.3%, Maurice KAMTO (MRC) 14.2%, Cabral LIBII (Univers) 6.3%, other 8.2%<br><br><em>2011: </em>Paul BIYA reelected president; percent of vote - Paul BIYA (CPDM) 78.0%, John FRU NDI (SDF) 10.7%, Garga Haman ADJI 3.2%, other 8.1% (2018)<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (100 seats; 70 members indirectly elected by regional councils and 30 appointed by the president; members serve 5-year terms)<br>National Assembly or Assemblee Nationale (180 seats; members directly elected in 49 single and multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
@@ -517,12 +517,8 @@ _highest 10%_: 31.1% (2021 est.)<br>
 _revenues_: $6.118 billion (2019 est.)<br>
 _expenditures_: $7.405 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--3.4% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 36.9% of GDP (2017 est.)<br>
-32.5% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 11.35% (of GDP) (2021 est.)<br>

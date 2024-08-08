@@ -221,11 +221,11 @@ refined petroleum, cars, iron structures, air conditioners, paintings (2022)<br>
 
 **Exchange rates**<br>
 _Currency_: Australian dollars (AUD) per US dollar -<br>
-1.311 (2017 est.)<br>
-1.3442 (2016 est.)<br>
-1.3442 (2015)<br>
-1.3291 (2014 est.)<br>
-1.1094 (2013 est.)<br>
+1.505 (2023 est.)<br>
+1.442 (2022 est.)<br>
+1.331 (2021 est.)<br>
+1.453 (2020 est.)<br>
+1.439 (2019 est.)<br>
 
 ## Communications
 

@@ -294,12 +294,12 @@ _etymology_: the name means "little hill" in the native Fijian (iTaukei) languag
 **National holiday**<br>
 Fiji (Independence) Day, 10 October (1970)<br>
 
+**Legal system**<br>
+common law system based on the English model<br>
+
 **Constitution**<br>
 _history_: several previous; latest signed into law 6 September 2013<br>
 _amendments_: proposed as a bill by Parliament and supported by at least three quarters of its members, followed by referral to the president and then to the Electoral Commission, which conducts a referendum; passage requires approval by at least three-quarters of registered voters and assent by the president<br>
-
-**Legal system**<br>
-common law system based on the English model<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -467,12 +467,8 @@ _highest 10%_: 24.2% (2019 est.)<br>
 _revenues_: $885 million (2020 est.)<br>
 _expenditures_: $1.515 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--4% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 48.9% of GDP (2017 est.)<br>
-47.5% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 15.87% (of GDP) (2021 est.)<br>
@@ -662,4 +658,7 @@ the RFMF is lightly armed and equipped; Australia has provided patrol boats and 
 established in 1920,<strong> </strong>the RFMF is a small and lightly-armed force with a history of intervening in the country’s politics, including coups in 1987 and 2006, and a mutiny in 2000, and it continues to have significant political power; the RFMF is responsible for external security but can be assigned some domestic security responsibilities in specific circumstances; it also has a tradition of participating in UN peacekeeping operations, having sent troops on nearly 20 such missions since first deploying personnel  to South Lebanon in 1978; these deployments have offered experience and a source of financial support; the RFMF has an infantry regiment and a small naval element comprised of patrol boats <br><br>Fiji has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Fiji's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2023)<br>
 
 ## Transnational Issues
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Fiji was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/fiji/<br>
 

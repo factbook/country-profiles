@@ -88,8 +88,9 @@ Greek 98.8%, other 1% (includes Maronite, Armenian, Turkish-Cypriot), unspecifie
 <strong>note:</strong> data represent only the Greek-Cypriot citizens in the Republic of Cyprus<br>
 
 **Languages**<br>
-Greek (official) 80.9%, Turkish (official) 0.2%, English 4.1%, Romanian 2.9%, Russian 2.5%, Bulgarian 2.2%, Arabic 1.2%, Filipino 1.1%, other 4.3%, unspecified 0.6%; note - data represent only the Republic of Cyprus (2011 est.)<br>
+Greek (official) 80.9%, Turkish (official) 0.2%, English 4.1%, Romanian 2.9%, Russian 2.5%, Bulgarian 2.2%, Arabic 1.2%, Filipino 1.1%, other 4.3%, unspecified 0.6%&nbsp; (2011 est.)<br>
 _major-language sample(s)_: <br>Το Παγκόσμιο Βιβλίο Δεδομένων, η απαραίτητη πηγή βασικών πληροφοριών. (Greek)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> data represent only the Republic of Cyprus<br>
 
 **Religions**<br>
 Eastern Orthodox Christian 89.1%, Roman Catholic 2.9%, Protestant/Anglican 2%, Muslim 1.8%, Buddhist 1%, other (includes Maronite Catholic, Armenian Apostolic, Hindu) 1.4%, unknown 1.1%, none/atheist 0.6% (2011 est.)<br>
@@ -312,12 +313,12 @@ _etymology_: a mispronunciation of the city's Greek name Lefkosia and its Turkis
 **National holiday**<br>
 Independence Day, 1 October (1960); note - Turkish Cypriots celebrate 15 November (1983) as "Republic Day"<br>
 
+**Legal system**<br>
+mixed legal system of English common law and civil law with European law supremacy<br>
+
 **Constitution**<br>
 _history_: ratified 16 August 1960; note - in 1963, the constitution was partly suspended as Turkish Cypriots withdrew from the government; Turkish-held territory in 1983 was declared the "Turkish Republic of Northern Cyprus" ("TRNC"); in 1985, the "TRNC" approved its own constitution<br>
 _amendments_: constitution of the Republic of Cyprus - proposed by the House of Representatives; passage requires at least two-thirds majority vote of the total membership of the "Greek Community" and the "Turkish Community"; however, all seats of Turkish Cypriot members have remained vacant since 1964; amended many times, last in 2020;<br>constitution of the “Turkish Republic of Northern Cyprus” - proposed by at least 10 members of the "Assembly of the Republic"; passage requires at least two-thirds majority vote of the total Assembly membership and approval by referendum; amended 2014<br>
-
-**Legal system**<br>
-mixed legal system of English common law and civil law with European law supremacy<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -494,12 +495,8 @@ _revenues_: $10.362 billion (2019 est.)<br>
 _expenditures_: $9.996 billion (2019 est.)<br>
 <strong>note:</strong> area administered by Turkish Cypriots - revenues: $2.5 billion; expenditures: $2.5 billion (est. 2006)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-1.8% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 97.5% of GDP (2017 est.)<br>
-106.6% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data exclude debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment<br>
 
 **Taxes and other revenues**<br>

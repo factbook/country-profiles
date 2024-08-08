@@ -245,11 +245,11 @@ _etymology_: named after Prince WILLIAM II of Orange (1626-1650), who served as 
 **National holiday**<br>
 <p>King's Day (birthday of King WILLEM-ALEXANDER), 27 April (1967); note - King's or Queen's Day are observed on the ruling monarch's birthday; celebrated on 26 April if 27 April is a Sunday</p><br>
 
-**Constitution**<br>
-_history_: previous 1947, 1955; latest adopted 5 September 2010, entered into force 10 October 2010 (regulates governance of Curacao but is subordinate to the Charter for the Kingdom of the Netherlands); note - in October 2010, with the dissolution of the Netherlands Antilles, Curacao became a semi-autonomous entity within the Kingdom of the Netherlands<br>
-
 **Legal system**<br>
 <p>based on Dutch civil law</p><br>
+
+**Constitution**<br>
+_history_: previous 1947, 1955; latest adopted 5 September 2010, entered into force 10 October 2010 (regulates governance of Curacao but is subordinate to the Charter for the Kingdom of the Netherlands); note - in October 2010, with the dissolution of the Netherlands Antilles, Curacao became a semi-autonomous entity within the Kingdom of the Netherlands<br>
 
 **Citizenship**<br>
 see the Netherlands<br>
@@ -361,13 +361,6 @@ tourism, petroleum refining, petroleum transshipment, light manufacturing, finan
 4.3% (2014 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
-**Labor force**<br>
-73,010 (2013)<br>
-
-**Unemployment rate**<br>
-13% (2013 est.)<br>
-9.8% (2011 est.)<br>
-
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 42.2% (2020 est.)<br>
 _male_: 38.1%<br>
@@ -378,16 +371,6 @@ _female_: 47.1%<br>
 5.18% of GDP (2021 est.)<br>
 5.22% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
-
-**Budget surplus (+) or deficit (-)**<br>
--0.4% (of GDP) (2012 est.)<br>
-
-**Public debt**<br>
-33.2% of GDP (2012 est.)<br>
-40.6% of GDP (2011 est.)<br>
-
-**Taxes and other revenues**<br>
-16.6% (of GDP) (2012 est.)<br>
 
 **Current account balance**<br>
 -$877.284 million (2022 est.)<br>
@@ -507,7 +490,7 @@ defense is the responsibility of the Kingdom of the Netherlands; the Dutch Gover
 _refugees (country of origin)_: 14,000 (Venezuela) (2022)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; update pending (2024)<br>
+_tier rating_: Tier 2 Watch List — Curaçao does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so, therefore Curaçao was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/curacao/<br>
 
 **Illicit drugs**<br>
 <p>northbound transshipment points for cocaine from Colombia and Venezuela; cocaine is transported to the United States, other Caribbean islands, Africa, and Europe</p><br>

@@ -90,7 +90,7 @@ _adjective_: Panamanian<br>
 Mestizo (mixed Indigenous and White) 65%, Indigenous 12.3% (Ngabe 7.6%, Kuna 2.4%, Embera 0.9%, Bugle 0.8%, other 0.4%, unspecified 0.2%), Black or African descent 9.2%, Mulatto 6.8%, White 6.7% (2010 est.)<br>
 
 **Languages**<br>
-Spanish (official), Indigenous languages (including Ngabere (or Guaymi), Buglere, Kuna, Embera, Wounaan, Naso (or Teribe), and Bri Bri), Panamanian English Creole (similar to Jamaican English Creole; a mixture of English and Spanish with elements of Ngabere; also known as Guari Guari and Colon Creole), English, Chinese (Yue and Hakka), Arabic, French Creole, other (Yiddish, Hebrew, Korean, Japanese); note - many Panamanians are bilingual<br>
+Spanish (official), Indigenous languages (including Ngabere (Guaymi), Buglere, Kuna, Embera, Wounaan, Naso (Teribe), and Bri Bri), Panamanian English Creole (a mixture of English and Spanish with elements of Ngabere, also known as Guari Guari and Colon Creole), English, Chinese (Yue and Hakka), Arabic, French Creole, other (Yiddish, Hebrew, Korean, Japanese)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -307,12 +307,12 @@ _etymology_: according to tradition, the name derives from a former fishing area
 **National holiday**<br>
 Independence Day (Separation Day), 3 November (1903)<br>
 
+**Legal system**<br>
+civil law system; judicial review of legislative acts in the Supreme Court of Justice<br>
+
 **Constitution**<br>
 _history_: several previous; latest effective 11 October 1972<br>
 _amendments_: proposed by the National Assembly, by the Cabinet, or by the Supreme Court of Justice; passage requires approval by one of two procedures: 1) absolute majority vote of the Assembly membership in each of three readings and by absolute majority vote of the next elected Assembly in a single reading without textual modifications; 2) absolute majority vote of the Assembly membership in each of three readings, followed by absolute majority vote of the next elected Assembly in each of three readings with textual modifications, and approval in a referendum; amended several times, last in 2004<br>
-
-**Legal system**<br>
-civil law system; judicial review of legislative acts in the Supreme Court of Justice<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -487,12 +487,8 @@ _highest 10%_: 36.9% (2023 est.)<br>
 _revenues_: $9.743 billion (2020 est.)<br>
 _expenditures_: $15.145 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--1.6% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 37.8% of GDP (2017 est.)<br>
-37.4% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 7.46% (of GDP) (2021 est.)<br>

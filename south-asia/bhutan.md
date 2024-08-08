@@ -281,12 +281,12 @@ _etymology_: the origins of the name are unclear; the traditional explanation, d
 **National holiday**<br>
 National Day (Ugyen WANGCHUCK became first hereditary king), 17 December (1907)<br>
 
+**Legal system**<br>
+civil law based on Buddhist religious law<br>
+
 **Constitution**<br>
 _history_: previous governing documents were various royal decrees; first constitution drafted November 2001 to March 2005, ratified 18 July 2008<br>
 _amendments_: proposed as a motion by simple majority vote in a joint session of Parliament; passage requires at least a three-fourths majority vote in a joint session of the next Parliament and assent by the king<br>
-
-**Legal system**<br>
-civil law based on Buddhist religious law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -441,13 +441,8 @@ _revenues_: $710 million (2020 est.)<br>
 _expenditures_: $777 million (2020 est.)<br>
 <strong>note:</strong> the Government of India finances nearly one-quarter of Bhutan's budget expenditures<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--3.4% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 111.01% of GDP (2020 est.)<br>
-90.36% of GDP (2019 est.)<br>
-95.85% of GDP (2018 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

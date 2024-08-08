@@ -103,8 +103,9 @@ Russian 77.7%, Tatar 3.7%, Ukrainian 1.4%, Bashkir 1.1%, Chuvash 1%, Chechen 1%,
 <strong>note:</strong> nearly 200 national and/or ethnic groups are represented in Russia's 2010 census<br>
 
 **Languages**<br>
-Russian (official) 85.7%, Tatar 3.2%, Chechen 1%, other 10.1%; note - data represent native language spoken (2010 est.)<br>
+Russian (official) 85.7%, Tatar 3.2%, Chechen 1%, other 10.1% (2010 est.)<br>
 _major-language sample(s)_: <br>Книга фактов о мире – незаменимый источник базовой информации. (Russian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> data represent native language spoken<br>
 
 **Religions**<br>
 Russian Orthodox 15-20%, Muslim 10-15%, other Christian 2% (2006 est.)<br>
@@ -346,12 +347,12 @@ _etymology_: named after the Moskva River; the origin of the river's name is obs
 **National holiday**<br>
 Russia Day, 12 June (1990); note - commemorates the adoption of the Declaration of State Sovereignty of the Russian Soviet Federative Socialist Republic (RSFSR)<br>
 
+**Legal system**<br>
+civil law system; judicial review of legislative acts<br>
+
 **Constitution**<br>
 _history_: several previous (during Russian Empire and Soviet era); latest drafted 12 July 1993, adopted by referendum 12 December 1993, effective 25 December 1993<br>
 _amendments_: proposed by the president of the Russian Federation, by either house of the Federal Assembly, by the government of the Russian Federation, or by legislative (representative) bodies of the Federation's constituent entities; proposals to amend the government&rsquo;s constitutional system, human and civil rights and freedoms, and procedures for amending or drafting a new constitution require formation of a Constitutional Assembly; passage of such amendments requires two-thirds majority vote of its total membership; passage in a referendum requires participation of an absolute majority of eligible voters and an absolute majority of valid votes; approval of proposed amendments to the government structure, authorities, and procedures requires approval by the legislative bodies of at least two thirds of the Russian Federation's constituent entities; amended several times, last in 2020 (major revisions)<br>
-
-**Legal system**<br>
-civil law system; judicial review of legislative acts<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -529,13 +530,8 @@ _highest 10%_: 29% (2020 est.)<br>
 _revenues_: $604.135 billion (2019 est.)<br>
 _expenditures_: $571.465 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--1.4% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 19.51% of GDP (2022 est.)<br>
-20.87% of GDP (2021 est.)<br>
-22.99% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

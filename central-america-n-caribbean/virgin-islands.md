@@ -246,12 +246,12 @@ none (territory of the US)<br>
 **National holiday**<br>
 Transfer Day (from Denmark to the US), 31 March (1917)<br>
 
+**Legal system**<br>
+US common law<br>
+
 **Constitution**<br>
 _history_: 22 July 1954 - the Revised Organic Act of the Virgin Islands functions as a constitution for this US territory<br>
 _amendments_: amended several times, last in 2012<br>
-
-**Legal system**<br>
-US common law<br>
 
 **Citizenship**<br>
 see United States<br>
@@ -367,19 +367,12 @@ _male_: 23.1% (2023 est.)<br>
 _female_: 32.7% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-28.9% (2002 est.)<br>
-
 **Budget**<br>
 _revenues_: $1.496 billion (2016 est.)<br>
 _expenditures_: $1.518 billion (2016 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--0.4% (of GDP) (2016 est.)<br>
-
 **Public debt**<br>
 53.3% of GDP (2016 est.)<br>
-45.9% of GDP (2014 est.)<br>
 
 **Taxes and other revenues**<br>
 28.9% (of GDP) (2016 est.)<br>

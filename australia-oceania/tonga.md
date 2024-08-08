@@ -294,12 +294,12 @@ _etymology_: composed of the words <em>nuku</em>, meaning "residence or abode," 
 **National holiday**<br>
 Official Birthday of King TUPOU VI, 4 July (1959); note - actual birthday of the monarch is 12 July 1959, 4 July (2015) is the day the king was crowned; Constitution Day (National Day), 4 November (1875)<br>
 
+**Legal system**<br>
+English common law<br>
+
 **Constitution**<br>
 _history_: adopted 4 November 1875, revised 1988, 2016<br>
 _amendments_: proposed by the Legislative Assembly; passage requires approval by the Assembly in each of three readings, the unanimous approval of the Privy Council (a high-level advisory body to the monarch), the Cabinet, and assent to by the monarch; revised 1988; amended many times, last in 2013<br>
-
-**Legal system**<br>
-English common law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -455,13 +455,8 @@ _highest 10%_: 22% (2021 est.)<br>
 _revenues_: $212 million (2019 est.)<br>
 _expenditures_: $196 million (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-0% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 45.02% of GDP (2020 est.)<br>
-42.55% of GDP (2019 est.)<br>
-48.7% of GDP (2018 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

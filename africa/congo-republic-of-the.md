@@ -96,7 +96,7 @@ _adjective_: Congolese or Congo<br>
 Kongo (Bakongo) 40.5%, Teke 16.9%, Mbochi 13.1%, foreigner 8.2%, Sangha 5.6%, Mbere/Mbeti/Kele 4.4%, Punu 4.3%, Pygmy 1.6%, Oubanguiens 1.6%, Duma 1.5%, Makaa 1.3%, other and unspecified 1% (2014-15 est.)<br>
 
 **Languages**<br>
-French (official), French Lingala and Monokutuba (lingua franca trade languages), many local languages and dialects (of which Kikongo is the most widespread)<br>
+French (official), French Lingala and Monokutuba (trade languages), many local languages and dialects (of which Kikongo is the most widespread)<br>
 _major-language sample(s)_: <br>Buku oyo ya bosembo ya Mokili Mobimba Ezali na Makanisi ya Liboso Mpenza. (Lingala)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -334,12 +334,12 @@ _etymology_: named after the Italian-born French explorer and humanitarian, Pier
 **National holiday**<br>
 Independence Day, 15 August (1960)<br>
 
+**Legal system**<br>
+mixed legal system of French civil law and customary law<br>
+
 **Constitution**<br>
 _history_: several previous; latest approved by referendum 25 October 2015<br>
 _amendments_: proposed by the president of the republic or by Parliament; passage of presidential proposals requires Supreme Court review followed by approval in a referendum; such proposals may also be submitted directly to Parliament, in which case passage requires at least three-quarters majority vote of both houses in joint session; proposals by Parliament require three-fourths majority vote of both houses in joint session; constitutional articles including those affecting the country&rsquo;s territory, republican form of government, and secularity of the state are not amendable<br>
-
-**Legal system**<br>
-mixed legal system of French civil law and customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -485,16 +485,6 @@ _male_: 42.4% (2023 est.)<br>
 _female_: 40.1% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-40.9% (2011 est.)<br>
-
-**Gini Index coefficient - distribution of family income**<br>
-48.9 (2011 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.1%<br>
-_highest 10%_: 37.1% (2005)<br>
-
 **Remittances**<br>
 0.02% of GDP (2023 est.)<br>
 0.02% of GDP (2022 est.)<br>
@@ -505,12 +495,8 @@ _highest 10%_: 37.1% (2005)<br>
 _revenues_: $3.399 billion (2018 est.)<br>
 _expenditures_: $2.628 billion (2018 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--7% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 130.8% of GDP (2017 est.)<br>
-128.7% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 6.51% (of GDP) (2021 est.)<br>
@@ -714,5 +700,5 @@ _refugees (country of origin)_: 33,593 (Central African Republic), 29,785 (Democ
 _IDPs_: 27,000 (multiple civil wars since 1992) (2022)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; The Republic of the Congo does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government trained law enforcement officials on the anti-trafficking law and issued six decrees to protect Indigenous People from trafficking; however, officials did not demonstrate overall increasing efforts, compared with the previous reporting period, on its anti-trafficking capacity; no investigations, prosecutions, or convictions of traffickers occurred; no reports identified victims for the third consecutive year; the government did not take any proactive measures to address alleged official complicity in trafficking, and the lack of a national anti-trafficking task force hindered overall efforts; therefore, the Republic of the Congo was downgraded to Tier 2 Watch List (2023)<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore the Republic of the Congo remained on Tier 2 Watch List for the second consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/republic-of-the-congo/<br>
 

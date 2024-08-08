@@ -80,8 +80,9 @@ _adjective_: Chinese<br>
 Chinese 89.4%, Chinese and Portuguese 1%, Portuguese 0.8%, Chinese and non-Portuguese 0.2%, Portuguese and others 0.2%, other 8.5% (2021 est.)<br>
 
 **Languages**<br>
-Cantonese 81%, Mandarin 4.7%, other Chinese dialects 5.4%, English 3.6%, Tagalog 2.9%, Portuguese 0.6%, other 1.8%; note - Chinese and Portuguese are official languages; Macanese or Patua, a Portuguese-based Creole, is also spoken (2021 est.)<br>
+Cantonese 81%, Mandarin 4.7%, other Chinese dialects 5.4%, English 3.6%, Tagalog 2.9%, Portuguese 0.6%, other 1.8% (2021 est.)<br>
 _major-language sample(s)_: <br> <p>世界概况, 必須擁有的基本資料参考书 (Cantonese)</p> <br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> Chinese and Portuguese are official languages; Macanese or Patua, a Portuguese-based Creole, is also spoken<br>
 
 **Religions**<br>
 folk religion 58.9%, Buddhist 17.3%, Christian 7.2%, other 1.2%, none 15.4% (2020 est.)<br>
@@ -238,12 +239,12 @@ none (special administrative region of China)<br>
 **National holiday**<br>
 National Day (anniversary of the Founding of the People's Republic of China), 1 October (1949); note - 20 December (1999) is celebrated as Macau Special Administrative Region Establishment Day<br>
 
+**Legal system**<br>
+civil law system based on the Portuguese model<br>
+
 **Constitution**<br>
 _history_: previous 1976 (Organic Statute of Macau, under Portuguese authority); latest adopted 31 March 1993, effective 20 December 1999 (Basic Law of the Macau Special Administrative Region of the People's Republic of China serves as Macau's constitution)<br>
 _amendments_: proposed by the Standing Committee of the National People&rsquo;s Congress (NPC), the People&rsquo;s Republic of China State Council, and the Macau Special Administrative Region; submittal of proposals to the NPC requires two-thirds majority vote by the Legislative Assembly of Macau, approval by two thirds of Macau's deputies to the NPC, and consent of the Macau chief executive; final passage requires approval by the NPC; amended 2005, 2012<br>
-
-**Legal system**<br>
-civil law system based on the Portuguese model<br>
 
 **Citizenship**<br>
 see China<br>
@@ -256,7 +257,7 @@ _chief of state_: President of China XI Jinping (since 14 March 2013)<br>
 _head of government_: Chief Executive HO lat Seng (since 20 December 2019)<br>
 _cabinet_: Executive Council appointed by the chief executive<br>
 _elections/appointments_: president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); election last held on 10 March 2023 (next to be held in March 2028); chief executive chosen by a 400-member Election Committee for a 5-year term (eligible for a second term); election last held on 24 August 2019 (next to be held in 2024)<br>
-_election results_: <em>2019</em>: HO lat Seng (unopposed; received 392 out of 400 votes) <br><br><em>2014</em>: Fernando CHUI Sai (unopposed; received 380 of 396 votes)<br>
+_election results_: <em><br>2019</em>: HO lat Seng (unopposed; received 392 out of 400 votes) <br><br><em>2014</em>: Fernando CHUI Sai (unopposed; received 380 of 396 votes)<br>
 
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Regiao Administrativa Especial de Macau (33 seats; 14 members directly elected by proportional representation vote, 12 indirectly elected by an electoral college of professional and commercial interest groups, and 7 appointed by the chief executive; members serve 4-year terms)<br>
@@ -368,9 +369,6 @@ _male_: 9% (2023 est.)<br>
 _female_: 5.3% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Gini Index coefficient - distribution of family income**<br>
-35 (2013 est.)<br>
-
 **Remittances**<br>
 0.19% of GDP (2023 est.)<br>
 0.34% of GDP (2022 est.)<br>
@@ -381,12 +379,8 @@ _female_: 5.3% (2023 est.)<br>
 _revenues_: $18.119 billion (2019 est.)<br>
 _expenditures_: $10.165 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-10% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 0% of GDP (2017 est.)<br>
-0% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 17.07% (of GDP) (2022 est.)<br>

@@ -91,7 +91,7 @@ _adjective_: Sierra Leonean<br>
 Temne 35.4%, Mende 30.8%, Limba 8.8%, Kono 4.3%, Korankoh 4%, Fullah 3.8%, Mandingo 2.8%, Loko 2%, Sherbro 1.9%, Creole 1.2% (descendants of freed Jamaican slaves who were settled in the Freetown area in the late-18th century; also known as Krio), other 5% (2019 est.)<br>
 
 **Languages**<br>
-English (official, regular use limited to literate minority), Mende (principal vernacular in the south), Temne (principal vernacular in the north), Krio (English-based Creole, spoken by the descendants of freed Jamaican slaves who were settled in the Freetown area, a lingua franca and a first language for 10% of the population but understood by 95%)<br>
+English (official, regular use limited to literate minority), Mende (principal vernacular in the south), Temne (principal vernacular in the north), Krio (English-based Creole, spoken by the descendants of freed Jamaican slaves; a first language for 10% of the population but understood by 95%)<br>
 
 **Religions**<br>
 Muslim 77.1%, Christian 22.9% (2019 est.)<br>
@@ -314,12 +314,12 @@ _etymology_: name derived from the fact that the original settlement served as a
 **National holiday**<br>
 Independence Day, 27 April (1961)<br>
 
+**Legal system**<br>
+mixed legal system of English common law and customary law<br>
+
 **Constitution**<br>
 _history_: several previous; latest effective 1 October 1991<br>
 _amendments_: proposed by Parliament; passage of amendments requires at least two-thirds majority vote of Parliament in two successive readings and assent of the president of the republic; passage of amendments affecting fundamental rights and freedoms and many other constitutional sections also requires approval in a referendum with participation of at least one half of qualified voters and at least two thirds of votes cast; amended several times, last in 2016<br>
-
-**Legal system**<br>
-mixed legal system of English common law and customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -477,12 +477,8 @@ _highest 10%_: 29.4% (2018 est.)<br>
 _revenues_: $740 million (2019 est.)<br>
 _expenditures_: $867 million (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--7.9% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 63.9% of GDP (2017 est.)<br>
-54.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 15.6% (of GDP) (2017 est.)<br>

@@ -85,12 +85,13 @@ _noun_: Macedonian(s)<br>
 _adjective_: Macedonian<br>
 
 **Ethnic groups**<br>
-Macedonian 58.4%, Albanian 24.3%, Turkish 3.9%, Romani 2.5%, Serb 1.3%, other 2.3%, persons for whom data were taken from administrative sources and no ethnic affiliation data was available 7.2% (2021 est.)<br>
+Macedonian 58.4%, Albanian 24.3%, Turkish 3.9%, Romani 2.5%, Serb 1.3%, other 2.3%, no ethnic affiliation data available 7.2% (2021 est.)<br>
 <strong>note:</strong> data represent total resident population; Romani populations are usually underestimated in official statistics and may represent 6.5–13% of North Macedonia’s population<br>
 
 **Languages**<br>
-Macedonian (official) 61.4%, Albanian (official) 24.3%, Turkish 3.4%, Romani 1.7%, other (includes Aromanian (Vlach) and Bosnian) 2%, unspecified 7.2% (2021 est.); note - data represent mother tongue; minority languages are co-official with Macedonian in municipalities where they are spoken by at least 20% of the population; Albanian is co-official in Tetovo, Brvenica, Vrapciste, and other municipalities; Turkish is co-official in Centar Zupa and Plasnica; Romani is co-official in Suto Orizari; Aromanian is co-official in Krusevo; Serbian is co-official in Cucer Sandevo<br>
+Macedonian (official) 61.4%, Albanian (official) 24.3%, Turkish 3.4%, Romani 1.7%, other (includes Aromanian (Vlach) and Bosnian) 2%, unspecified 7.2% (2021 est.)<br>
 _major-language sample(s)_: <br>Книга на Светски Факти, неопходен извор на основни информации. (Macedonian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> data represent mother tongue; minority languages are co-official with Macedonian in municipalities where at least 20% of the population are speakers, with Albanian co-official in Tetovo, Brvenica, Vrapciste, and other municipalities, Turkish in Centar Zupa and Plasnica, Romani in Suto Orizari, Aromanian in Krusevo, Serbian in Cucer Sandevo<br>
 
 **Religions**<br>
 Macedonian Orthodox 46.1%, Muslim 32.2%, other Christian 13.8%, other and non-believers 0.5%, unspecified 7.4% (2021 est.)<br>
@@ -304,12 +305,12 @@ _etymology_: Skopje derives from its ancient name Scupi, the Latin designation o
 **National holiday**<br>
 Independence Day, 8 September (1991), also known as National Day<br>
 
+**Legal system**<br>
+civil law system; judicial review of legislative acts<br>
+
 **Constitution**<br>
 _history_: several previous (since 1944); latest adopted 17 November 1991, effective 20 November 1991<br>
 _amendments_: proposed by the president of the republic, by the government, by at least 30 members of the Assembly, or by petition of at least 150,000 citizens; final approval requires a two-thirds majority vote by the Assembly; amended several times, last in 2019; this amendment was the result of the 2018 Prespa Agreement with Greece, in which the constitutional name of the country would be modified to Republic of North Macedonia in exchange for assurances that Greece would no longer object to its integration in international organizations; note - a referendum on&nbsp; amendments to the constitution is expected in 2024<br>
-
-**Legal system**<br>
-civil law system; judicial review of legislative acts<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -328,7 +329,7 @@ _chief of state_: President Gordana SILJANOVSKA-DAVKOVA (since 12 May 2024)<br>
 _head of government_: President Gordana SILJANOVSKA-DAVKOVA (since 12 May 2024)<br>
 _cabinet_: Council of Ministers elected by the Assembly by simple majority vote<br>
 _elections/appointments_: president directly elected using a modified 2-round system; a candidate can only be elected in the first round with an absolute majority from all registered voters; in the second round, voter turnout must be at least 40% for the result to be deemed valid; president elected for a 5-year term (eligible for a second term); election last held on 24 April and 8 May 2024 (next to be held in 2029); following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the Assembly<br>
-_election results_: <em>2024: </em>Gordana SILJANOVSKA-DAVKOVA elected president in the second round; percent of vote - Gordana SILJANOVSKA-DAVKOVA (VMRO-DPMNE) 69%, Stevo PENDAROVSKI (SDSM) 31%<em><br><br>2024: </em>Talat XHAFERI elected caretaker Prime Minister; Assembly vote - 65 for (opposition boycott)<em><br><br>2022: </em>Dimitar KOVACEVSKI elected Prime Minister; Assembly vote - NA<em><br></em><br>
+_election results_: <em><br>2024: </em>Gordana SILJANOVSKA-DAVKOVA elected president in the second round; percent of vote - Gordana SILJANOVSKA-DAVKOVA (VMRO-DPMNE) 69%, Stevo PENDAROVSKI (SDSM) 31%<em><br><br>2024: </em>Talat XHAFERI elected caretaker Prime Minister; Assembly vote - 65 for (opposition boycott)<em><br><br>2022: </em>Dimitar KOVACEVSKI elected Prime Minister; Assembly vote - NA<em><br></em><br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly - Sobranie in Macedonian, Kuvend in Albanian (between 120 and 140 seats, current 123; members directly elected in multi-seat constituencies by closed-list proportional representation vote; possibility of 3 directly elected in diaspora constituencies by simple majority vote provided there is sufficient voter turnout; members serve 4-year terms)<br>
@@ -483,12 +484,8 @@ _highest 10%_: 22.9% (2019 est.)<br>
 _revenues_: $3.505 billion (2020 est.)<br>
 _expenditures_: $4.5 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--2.7% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 39.3% of GDP (2017 est.)<br>
-39.5% of GDP (2016 est.)<br>
 <strong>note:</strong> official data from Ministry of Finance; data cover central government debt; this data excludes debt instruments issued (or owned) by government entities other than the treasury; includes treasury debt held by foreign entitites; excludes debt issued by sub-national entities; there are no debt instruments sold for social funds<br>
 
 **Taxes and other revenues**<br>

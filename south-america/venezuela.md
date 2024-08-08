@@ -309,12 +309,12 @@ _etymology_: named for the native Caracas tribe that originally settled in the c
 **National holiday**<br>
 Independence Day, 5 July (1811)<br>
 
+**Legal system**<br>
+civil law system based on the Spanish civil code<br>
+
 **Constitution**<br>
 _history_: many previous; latest adopted 15 December 1999, effective 30 December 1999<br>
 _amendments_: proposed through agreement by at least 39% of the National Assembly membership, by the president of the republic in session with the cabinet of ministers, or by petition of at least 15% of registered voters; passage requires simple majority vote by the Assembly and simple majority approval in a referendum; amended 2009; note - in 2016, President MADURO issued a decree to hold an election to form a constituent assembly to change the constitution; the election in July 2017 approved the formation of a 545-member constituent assembly and elected its delegates, empowering them to change the constitution and dismiss government institutions and officials<br>
-
-**Legal system**<br>
-civil law system based on the Spanish civil code<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -332,8 +332,8 @@ _residency requirement for naturalization_: 10 years; reduced to five years in t
 _chief of state_: Notification Statement: the United States does not recognize Nicolas MADURO Moros as president of Venezuela<br><br>President Nicolas MADURO Moros (since 19 April 2013)<br>
 _head of government_: President Nicolas MADURO Moros (since 19 April 2013)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 20 May 2018 (next to be held on 28 July 2024)<br>
-_election results_: <br><em>2018: </em>Nicolas MADURO Moros reelected president; percent of vote - Nicolas MADURO Moros (PSUV) 67.9%, Henri FALCON (AP) 20.9%, Javier BERTUCCI 10.8%; note - the election was reportedly marred by serious shortcomings and electoral fraud<br><br><em>2013:</em> Nicolas MADURO Moros elected president; percent of vote - Nicolas MADURO Moros (PSUV) 50.6%, Henrique CAPRILES Radonski (PJ) 49.1%, other 0.3%<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 28 July 2024 (next to be held in 2030)<br>
+_election results_: <em><br>2024:</em> official results disputed; Nicolas MADURO Moros was declared the winner by the MADURO-controlled National Electoral Council; percent of vote - Nicolas MADURO Moros (PSUV) 52%, Edmundo GONZÁLEZ Urrutia (Independent) 43.2%, Luis Eduardo MARTÍNEZ (AD) 1.2%, other 3.6%; note – given overwhelming evidence, including more than 80% of the tally sheets received directly from polling stations throughout Venezuela indicating that GONZÁLEZ received the most votes by an insurmountable margin, the United States recognizes that GONZÁLEZ won the most votes in the 28 July 2024 presidential election<br><br><em>2018: </em>Nicolas MADURO Moros reelected president; percent of vote - Nicolas MADURO Moros (PSUV) 67.9%, Henri FALCON (AP) 20.9%, Javier BERTUCCI 10.8%; note - the election was reportedly marred by serious shortcomings and electoral fraud<br><br><em>2013:</em> Nicolas MADURO Moros elected president; percent of vote - Nicolas MADURO Moros (PSUV) 50.6%, Henrique CAPRILES Radonski (PJ) 49.1%, other 0.3%<br>
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -353,11 +353,7 @@ _subordinate courts_: Superior or Appeals Courts (Tribunales Superiores); Distri
 ACS, Caricom (observer), CD, CDB, CELAC, FAO, G-15, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LAES, LAIA, LAS (observer), MIGA, NAM, OAS, OPANAL, OPCW, OPEC, PCA, Petrocaribe, UN, UNASUR, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); note - the embassy, which had been run by the Venezuelan political opposition, announced on 5 January 2023, that it had ended all embassy functions<br>
-_chancery_: 1099 30th Street NW, Washington, DC 20007; note - closed since 5 January 2023<br>
-_telephone_: [1] (202) 342-2214; note - closed since 5 January 2023<br>
-_FAX_: [1] (202) 342-6820; note - closed since 5 January 2023<br>
-_email address and website_: <br>despacho.embveus@mppre.gob.ve<br>
+none<br><br><strong>Note</strong>:  the embassy, which had been run by the Venezuelan political opposition, announced on 5 January 2023, that it had ended all embassy functions<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); as of 19 May 2023, Francisco L. PALMIERI serves as the chief of mission of the Venezuela Affairs Unit, located in the US Embassy, Bogota<br>
@@ -461,32 +457,20 @@ _female_: 14.1% (2023 est.)<br>
 33.1% (2015 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
-**Gini Index coefficient - distribution of family income**<br>
-39 (2011 est.)<br>
-
 **Average household expenditures**<br>
 _on food_: 18.6% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 3.8% of household expenditures (2021 est.)<br>
 
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.7%<br>
-_highest 10%_: 32.7% (2006)<br>
-
 **Remittances**<br>
 0.03% of GDP (2014 est.)<br>
-0.03% of GDP (2013 est.)<br>
-<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<strong>note:</strong> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $30 million (2017 est.)<br>
 _expenditures_: $76 million (2017 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--46.1% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 38.9% of GDP (2017 est.)<br>
-31.3% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover central government debt, as well as the debt of state-owned oil company PDVSA; the data include treasury debt held by foreign entities; the data include some debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; some debt instruments for the social funds are sold at public auctions<br>
 
 **Taxes and other revenues**<br>
@@ -541,7 +525,6 @@ _Currency_: bolivars (VEB) per US dollar -<br>
 9.257 (2016 est.)<br>
 6.284 (2015 est.)<br>
 6.284 (2014 est.)<br>
-6.048 (2013 est.)<br>
 
 ## Energy
 

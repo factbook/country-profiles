@@ -350,13 +350,6 @@ _male_: 13.4% (2023 est.)<br>
 _female_: 15.4% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Gini Index coefficient - distribution of family income**<br>
-37.9 (2012 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.6%<br>
-_highest 10%_: 30.2% (2008 est.)<br>
-
 **Remittances**<br>
 0.82% of GDP (2023 est.)<br>
 0.8% of GDP (2022 est.)<br>
@@ -367,12 +360,8 @@ _highest 10%_: 30.2% (2008 est.)<br>
 _revenues_: $21.68 trillion (2017 est.)<br>
 _expenditures_: $23.81 trillion (2017 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--3% (of GDP) (2016 est.)<br>
-
 **Public debt**<br>
 67.2% of GDP (2017 est.)<br>
-67.2% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 14.68% (of GDP) (2022 est.)<br>

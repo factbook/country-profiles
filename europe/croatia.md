@@ -320,12 +320,12 @@ _etymology_: the name seems to be related to "digging"; archeologists suggest th
 **National holiday**<br>
 Statehood Day (National Day), 30 May (1990); note - marks the day in 1990 that the first modern multi-party Croatian parliament convened<br>
 
+**Legal system**<br>
+civil law system influenced by legal heritage of Austria-Hungary; note - Croatian law was fully harmonized with the European Community acquis as of the June 2010 completion of EU accession negotiations<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted 22 December 1990<br>
 _amendments_: proposed by at least one fifth of the Assembly membership, by the president of the republic, by the Government of Croatia, or through petition by at least 10% of the total electorate; proceedings to amend require majority vote by the Assembly; passage requires two-thirds majority vote by the Assembly; passage by petition requires a majority vote in a referendum and promulgation by the Assembly; amended several times, last in 2014<br>
-
-**Legal system**<br>
-civil law system influenced by legal heritage of Austria-Hungary; note - Croatian law was fully harmonized with the European Community acquis as of the June 2010 completion of EU accession negotiations<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -502,13 +502,8 @@ _highest 10%_: 22.3% (2021 est.)<br>
 _revenues_: $212.81 billion (2019 est.)<br>
 _expenditures_: $211.069 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-0.8% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 82.08% of GDP (2022 est.)<br>
-90.32% of GDP (2021 est.)<br>
-98% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
@@ -561,12 +556,12 @@ $51.176 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
-7.16 (2022 est.)<br>
-6.36 (2021 est.)<br>
-6.614 (2020 est.)<br>
-6.623 (2019 est.)<br>
-6.279 (2018 est.)<br>
-<strong>note:</strong> Rates shown through 2022 are for the kuna, which Croatia used prior to conversion to the euro on 1 January 2023. During the transition period the exchange rate was fixed at 7.53450 kuna to 1 euro.<br>
+0.925 (2023 est.)<br>
+0.95 (2022 est.)<br>
+0.845 (2021 est.)<br>
+0.876 (2020 est.)<br>
+0.893 (2019 est.)<br>
+<strong>note:</strong> Croatia used the kuna prior to conversion to the euro on 1 January 2023. During the transition period the exchange rate was fixed at 7.53450 kuna to 1 euro.<br>
 
 ## Energy
 

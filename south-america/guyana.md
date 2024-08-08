@@ -311,12 +311,12 @@ _etymology_: when the British took possession of the town from the Dutch in 1812
 **National holiday**<br>
 Republic Day, 23 February (1970)<br>
 
+**Legal system**<br>
+common law system, based on the English model, with some Roman-Dutch civil law influence<br>
+
 **Constitution**<br>
 _history_: several previous; latest promulgated 6 October 1980<br>
 _amendments_: proposed by the National Assembly; passage of amendments affecting constitutional articles, such as national sovereignty, government structure and powers, and constitutional amendment procedures, requires approval by the Assembly membership, approval in a referendum, and assent of the president; other amendments only require Assembly approval; amended many times, last in 2016<br>
-
-**Legal system**<br>
-common law system, based on the English model, with some Roman-Dutch civil law influence<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -454,16 +454,6 @@ _male_: 21.5% (2023 est.)<br>
 _female_: 32.4% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-35% (2006 est.)<br>
-
-**Gini Index coefficient - distribution of family income**<br>
-44.6 (2007 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.3%<br>
-_highest 10%_: 33.8% (1999)<br>
-
 **Remittances**<br>
 3.27% of GDP (2023 est.)<br>
 3.57% of GDP (2022 est.)<br>
@@ -474,12 +464,8 @@ _highest 10%_: 33.8% (1999)<br>
 _revenues_: $1.333 billion (2019 est.)<br>
 _expenditures_: $1.467 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--4.5% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 52.2% of GDP (2017 est.)<br>
-50.7% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 28.1% (of GDP) (2017 est.)<br>

@@ -99,7 +99,7 @@ _adjective_: Congolese or Congo<br>
 more than 200 African ethnic groups of which the majority are Bantu; the four largest groups - Mongo, Luba, Kongo (all Bantu), and the Mangbetu-Azande (Hamitic) - make up about 45% of the population<br>
 
 **Languages**<br>
-French (official), Lingala (a lingua franca trade language), Kingwana (a dialect of Kiswahili or Swahili), Kikongo, Tshiluba<br>
+French (official), Lingala (a trade language), Kingwana (a dialect of Kiswahili or Swahili), Kikongo, Tshiluba<br>
 _major-language sample(s)_: <br>Buku oyo ya bosembo ya Mokili Mobimba Ezali na Makanisi ya Liboso Mpenza. (Lingala)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -342,12 +342,12 @@ _etymology_: founded as a trading post in 1881 and named Leopoldville in honor o
 **National holiday**<br>
 Independence Day, 30 June (1960)<br>
 
+**Legal system**<br>
+civil law system primarily based on Belgian law, but also customary and tribal law<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted 13 May 2005, approved by referendum 18-19 December 2005, promulgated 18 February 2006<br>
 _amendments_: proposed by the president of the republic, by the government, by either house of Parliament, or by public petition; agreement on the substance of a proposed bill requires absolute majority vote in both houses; passage requires a referendum only if both houses in joint meeting fail to achieve three-fifths majority vote; constitutional articles, including the form of government, universal suffrage, judicial independence, political pluralism, and personal freedoms, cannot be amended; amended 2011<br>
-
-**Legal system**<br>
-civil law system primarily based on Belgian law, but also customary and tribal law<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -513,13 +513,8 @@ _highest 10%_: 35.8% (2020 est.)<br>
 _revenues_: $5.419 billion (2019 est.)<br>
 _expenditures_: $6.382 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--0.9% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 15.99% of GDP (2022 est.)<br>
-18.1% of GDP (2017 est.)<br>
-19.3% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 11.41% (of GDP) (2022 est.)<br>

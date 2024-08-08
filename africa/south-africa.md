@@ -100,8 +100,9 @@ Black African 81.4%, Coloured 8.2%, White 7.3%, Indian/Asian 2.7%, other 0.4% (2
 <strong>note:</strong> Coloured is a term used in South Africa, including on the national census, for persons of mixed race ancestry who developed a distinct cultural identity over several hundred years<br>
 
 **Languages**<br>
-isiZulu or Zulu (official) 25.3%, isiXhosa or Xhosa (official) 14.8%, Afrikaans (official) 12.2%, Sepedi or Pedi (official) 10.1%, Setswana or Tswana (official) 9.1%, English (official) 8.1%, Sesotho or Sotho (official) 7.9%, Xitsonga or Tsonga (official) 3.6%, siSwati or Swati (official) 2.8%, Tshivenda or Venda (official) 2.5%, isiNdebele or Ndebele (official) 1.6%, other (includes South African sign language (official) and Khoi or Khoisan or Khoe languages) 2%; note - data represent language spoken most often at home (2018 est.)<br>
+isiZulu or Zulu (official) 25.3%, isiXhosa or Xhosa (official) 14.8%, Afrikaans (official) 12.2%, Sepedi or Pedi (official) 10.1%, Setswana or Tswana (official) 9.1%, English (official) 8.1%, Sesotho or Sotho (official) 7.9%, Xitsonga or Tsonga (official) 3.6%, siSwati or Swati (official) 2.8%, Tshivenda or Venda (official) 2.5%, isiNdebele or Ndebele (official) 1.6%, other (includes South African sign language (official) and Khoi or Khoisan or Khoe languages) 2% (2018 est.)<br>
 _major-language sample(s)_: <br>Die Wereld Feite Boek, n’ onontbeerlike bron vir basiese informasie. (Afrikaans)<br><br>The World Factbook, the indispensable source for basic information. (English)<br>
+<strong>note:</strong> data represent language spoken most often at home<br>
 
 **Religions**<br>
 Christian 85.3%, African traditional 7.8%, Muslim 1.6%, Hindu 1.1%, other 1.3%, none 2.9% (2022 est.)<br>
@@ -325,12 +326,12 @@ _etymology_: Pretoria is named in honor of Andries PRETORIUS, the father of voor
 **National holiday**<br>
 Freedom Day, 27 April (1994)<br>
 
+**Legal system**<br>
+mixed legal system of Roman-Dutch civil law, English common law, and customary law<br>
+
 **Constitution**<br>
 _history_: several previous; latest drafted 8 May 1996, approved by the Constitutional Court 4 December 1996, effective 4 February 1997<br>
 _amendments_: proposed by the National Assembly of Parliament; passage of amendments affecting constitutional sections on human rights and freedoms, non-racism and non-sexism, supremacy of the constitution, suffrage, the multi-party system of democratic government, and amendment procedures requires at least 75% majority vote of the Assembly, approval by at least six of the nine provinces represented in the National Council of Provinces, and assent of the president of the republic; passage of amendments affecting the Bill of Rights, and those related to provincial boundaries, powers, and authorities requires at least two-thirds majority vote of the Assembly, approval by at least six of the nine provinces represented in the National Council, and assent of the president; amended many times, last in 2020<br>
-
-**Legal system**<br>
-mixed legal system of Roman-Dutch civil law, English common law, and customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -506,13 +507,8 @@ _highest 10%_: 50.5% (2014 est.)<br>
 _revenues_: $84.19 billion (2020 est.)<br>
 _expenditures_: $121.204 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--4.4% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 76.55% of GDP (2022 est.)<br>
-73.94% of GDP (2021 est.)<br>
-75.65% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

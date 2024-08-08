@@ -315,12 +315,12 @@ _etymology_: today's city was originally at the crossroads where a large bazaar 
 **National holiday**<br>
 Independence Day (or National Day), 9 September (1991)<br>
 
+**Legal system**<br>
+civil law system<br>
+
 **Constitution**<br>
 _history_: several previous; latest adopted 6 November 1994<br>
 _amendments_: proposed by the president of the republic or by at least one third of the total membership of both houses of the Supreme Assembly; adoption of any amendment requires a referendum, which includes approval of the president or approval by at least two-thirds majority of the Assembly of Representatives; passage in a referendum requires participation of an absolute majority of eligible voters and an absolute majority of votes; constitutional articles, including Tajikistan&rsquo;s form of government, its territory, and its democratic nature, cannot be amended; amended 1999, 2003, 2016<br>
-
-**Legal system**<br>
-civil law system<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -488,12 +488,8 @@ _highest 10%_: 26.4% (2015 est.)<br>
 _revenues_: $2.222 billion (2019 est.)<br>
 _expenditures_: $2.393 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--1.5% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 50.4% of GDP (2017 est.)<br>
-42% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 10.34% (of GDP) (2022 est.)<br>

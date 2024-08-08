@@ -317,12 +317,12 @@ _etymology_: the name may derive from the Swedish <em>helsing</em>, an archaic n
 **National holiday**<br>
 Independence Day, 6 December (1917)<br>
 
+**Legal system**<br>
+civil law system based on the Swedish model<br>
+
 **Constitution**<br>
 _history_: previous 1906, 1919; latest drafted 17 June 1997, approved by Parliament 11 June 1999, entered into force 1 March 2000<br>
 _amendments_: proposed by Parliament; passage normally requires simple majority vote in two readings in the first parliamentary session and at least two-thirds majority vote in a single reading by the newly elected Parliament; proposals declared "urgent" by five-sixths of Parliament members can be passed by at least two-thirds majority vote in the first parliamentary session only; amended several times, last in 2018<br>
-
-**Legal system**<br>
-civil law system based on the Swedish model<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -497,12 +497,8 @@ _revenues_: $140.643 billion (2020 est.)<br>
 _expenditures_: $153.635 billion (2020 est.)<br>
 <strong>note:</strong> Central Government Budget data; these numbers represent a significant reduction from previous official reporting<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--0.6% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 61.3% of GDP (2017 est.)<br>
-62.9% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>

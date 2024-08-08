@@ -303,12 +303,12 @@ _etymology_: the name derives from the Turkish noun <em>saray</em>, meaning "pal
 Independence Day, 1 March (1992) and Statehood Day, 25 November (1943) - both observed in the Federation of Bosnia and Herzegovina entity; Victory Day, 9 May (1945) and Dayton Agreement Day, 21 November (1995) - both observed in the Republika Srpska entity<br>
 <strong>note:</strong> there is no national-level holiday<br>
 
+**Legal system**<br>
+civil law system; Constitutional Court review of legislative acts<br>
+
 **Constitution**<br>
 _history_: 14 December 1995 (constitution included as part of the Dayton Peace Accords); note - each of the political entities has its own constitution<br>
 _amendments_: decided by the Parliamentary Assembly, including a two-thirds majority vote of members present in the House of Representatives; the constitutional article on human rights and fundamental freedoms cannot be amended; amended several times, last in 2009<br>
-
-**Legal system**<br>
-civil law system; Constitutional Court review of legislative acts<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -461,16 +461,9 @@ _female_: 30.1% (2023 est.)<br>
 16.9% (2015 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
-**Gini Index coefficient - distribution of family income**<br>
-33 (2011 est.)<br>
-
 **Average household expenditures**<br>
 _on food_: 30% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 8.2% of household expenditures (2021 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.9%<br>
-_highest 10%_: 25.8% (2011 est.)<br>
 
 **Remittances**<br>
 10.53% of GDP (2023 est.)<br>
@@ -482,13 +475,8 @@ _highest 10%_: 25.8% (2011 est.)<br>
 _revenues_: $8.434 billion (2019 est.)<br>
 _expenditures_: $8.154 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-2.1% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 41.74% of GDP (2022 est.)<br>
-46.97% of GDP (2021 est.)<br>
-45.42% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

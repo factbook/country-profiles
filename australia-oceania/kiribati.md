@@ -292,12 +292,12 @@ _etymology_: in Kiribati creation mythology, "tarawa" was what the spider Nareau
 **National holiday**<br>
 Independence Day, 12 July (1979)<br>
 
+**Legal system**<br>
+English common law supplemented by customary law<br>
+
 **Constitution**<br>
 _history_: The Gilbert and Ellice Islands Order in Council 1915, The Gilbert Islands Order in Council 1975 (preindependence); latest promulgated 12 July 1979 (at independence)<br>
 _amendments_: proposed by the House of Assembly; passage requires two-thirds majority vote by the Assembly membership; passage of amendments affecting the constitutional section on amendment procedures and parts of the constitutional chapter on citizenship requires deferral of the proposal to the next Assembly meeting where approval is required by at least two-thirds majority vote of the Assembly membership and support of the nominated or elected Banaban member of the Assembly; amendments affecting the protection of fundamental rights and freedoms also requires approval by at least two-thirds majority in a referendum; amended several times, last in 2018<br>
-
-**Legal system**<br>
-English common law supplemented by customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -343,7 +343,8 @@ _FAX_: [1] (212) 867-3320<br>
 _email address and website_: <br>Kimission.newyork@mfa.gov.ki<br>
 
 **Diplomatic representation from the US**<br>
-_embassy_: the US does not have an embassy in Kiribati; the US Ambassador to Fiji is accredited to Kiribati<br>
+_chief of mission_: Ambassador Marie DAMOUR (since 6 December 2022); note - Ambassador DAMOUR is based in the US Embassy in the Republic of Fiji and is accredited to Kiribati as well as Nauru, Tonga, and Tuvalu<br>
+<strong>Note</strong>:  the US does not have an embassy in Kiribati but has announced its intention to open an embassy<br>
 
 **Flag description**<br>
 the upper half is red with a yellow frigatebird flying over a yellow rising sun, and the lower half is blue with three horizontal wavy white stripes to represent the Pacific ocean; the white stripes represent the three island groups - the Gilbert, Line, and Phoenix Islands; the 17 rays of the sun represent the 16 Gilbert Islands and Banaba (formerly Ocean Island); the frigatebird symbolizes authority and freedom<br>
@@ -409,14 +410,6 @@ fishing, handicrafts<br>
 21.11% (2021 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
-**Labor force**<br>
-39,000 (2010 est.)<br>
-<strong>note:</strong> economically active, not including subsistence farmers<br>
-
-**Unemployment rate**<br>
-30.6% (2010 est.)<br>
-6.1% (2005)<br>
-
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 22.5% (2019 est.)<br>
 _male_: 21.2%<br>
@@ -445,12 +438,8 @@ _highest 10%_: 22.9% (2019 est.)<br>
 _revenues_: $281 million (2017 est.)<br>
 _expenditures_: $205 million (2017 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--64.1% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 26.3% of GDP (2017 est.)<br>
-22.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 20.22% (of GDP) (2022 est.)<br>
@@ -489,9 +478,6 @@ Taiwan 25%, China 22%, Fiji 13%, Australia 9%, South Korea 7% (2022)<br>
 **Imports - commodities**<br>
 ships, refined petroleum, rice, twine and rope, prepared meat (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Reserves of foreign exchange and gold**<br>
-$8.37 million (31 December 2010 est.)<br>
 
 **Debt - external**<br>
 $40.9 million (2016 est.)<br>

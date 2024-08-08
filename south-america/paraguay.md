@@ -94,8 +94,9 @@ _adjective_: Paraguayan<br>
 Mestizo (mixed Spanish and Indigenous ancestry) 95%, other 5%<br>
 
 **Languages**<br>
-Spanish (official) and Guarani (official) 46.3%, only Guarani 34%, only Spanish 15.2%, other (includes Portuguese, German, other Indigenous languages) 4.1%, no response 0.4%; note - data represent predominant household language (2012 est.)<br>
+Spanish (official) and Guarani (official) 46.3%, only Guarani 34%, only Spanish 15.2%, other (includes Portuguese, German, other Indigenous languages) 4.1%, no response 0.4% (2012 est.)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> data represent predominant household language<br>
 
 **Religions**<br>
 Roman Catholic 80.4%, Protestant 7% (Evangelical (non-specific) 6.7%, Evangelical Pentecostal &lt;0.1%, Adventist &lt;0.1%, Protestant (non-specific) &lt;0.1%), Believer (not belonging to the church) 5.7%, other 0.6%, agnostic &lt;0.1%, none 0.2%, unspecified 6.2% (2023 est.)<br>
@@ -321,12 +322,12 @@ _etymology_: the name means "assumption" and derives from the original name give
 **National holiday**<br>
 Independence Day, 14-15 May (1811) (observed 15 May); 14 May is celebrated as Flag Day<br>
 
+**Legal system**<br>
+civil law system with influences from Argentine, Spanish, Roman, and French civil law models; judicial review of legislative acts in Supreme Court of Justice<br>
+
 **Constitution**<br>
 _history_: several previous; latest approved and promulgated 20 June 1992<br>
 _amendments_: proposed at the initiative of at least one quarter of either chamber of the National Congress, by the president of the republic, or by petition of at least 30,000 voters; passage requires a two-thirds majority vote by both chambers and approval in a referendum; amended 2011<br>
-
-**Legal system**<br>
-civil law system with influences from Argentine, Spanish, Roman, and French civil law models; judicial review of legislative acts in Supreme Court of Justice<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction<br>
@@ -502,12 +503,8 @@ _highest 10%_: 35.4% (2022 est.)<br>
 _revenues_: $7.272 billion (2019 est.)<br>
 _expenditures_: $8.714 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--1.1% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 19.5% of GDP (2017 est.)<br>
-18.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 10.27% (of GDP) (2022 est.)<br>

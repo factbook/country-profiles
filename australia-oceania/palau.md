@@ -273,12 +273,12 @@ _etymology_: the Palauan meaning is "place of fermented 'mud'" ('mud' being the 
 **National holiday**<br>
 Constitution Day, 9 July (1981), day of a national referendum to pass the new constitution; Independence Day, 1 October (1994)<br>
 
+**Legal system**<br>
+mixed legal system of civil, common, and customary law<br>
+
 **Constitution**<br>
 _history_: ratified 9 July 1980, effective 1 January 1981<br>
 _amendments_: proposed by a constitutional convention (held at least once every 15 years with voter approval), by public petition of at least 25% of eligible voters, or by a resolution adopted by at least three fourths of National Congress members; passage requires approval by a majority of votes in at least three fourths of the states in the next regular general election; amended several times, last in 2020<br>
-
-**Legal system**<br>
-mixed legal system of civil, common, and customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -408,13 +408,9 @@ tourism, fishing, subsistence agriculture<br>
 
 **Unemployment rate**<br>
 1.7% (2015 est.)<br>
-4.1% (2012)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 5.6% (2014)<br>
-
-**Population below poverty line**<br>
-24.9% (2006)<br>
 
 **Remittances**<br>
 0.38% of GDP (2023 est.)<br>
@@ -426,13 +422,8 @@ _total_: 5.6% (2014)<br>
 _revenues_: $122 million (2019 est.)<br>
 _expenditures_: $121 million (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-8.8% (of GDP) (2016 est.)<br>
-
 **Public debt**<br>
 85.24% of GDP (2019 est.)<br>
-83.79% of GDP (2018 est.)<br>
-77.99% of GDP (2017 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

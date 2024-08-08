@@ -247,12 +247,12 @@ none (overseas collectivity of France); note - in three independence referenda, 
 **National holiday**<br>
 F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790); note - the local holiday is New Caledonia Day, 24 September (1853)<br>
 
+**Legal system**<br>
+civil law system based on French civil law<br>
+
 **Constitution**<br>
 _history_: 4 October 1958 (French Constitution with changes as reflected in the Noumea Accord of 5 May 1998)<br>
 _amendments_: French constitution amendment procedures apply<br>
-
-**Legal system**<br>
-civil law system based on French civil law<br>
 
 **Citizenship**<br>
 see France<br>
@@ -376,9 +376,6 @@ _male_: 29.8% (2023 est.)<br>
 _female_: 35.7% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-17% (2008)<br>
-
 **Remittances**<br>
 6.45% of GDP (2022 est.)<br>
 6.17% of GDP (2021 est.)<br>
@@ -389,12 +386,8 @@ _female_: 35.7% (2023 est.)<br>
 _revenues_: $1.995 billion (2015 est.)<br>
 _expenditures_: $1.993 billion (2015 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
-0% (of GDP) (2015 est.)<br>
-
 **Public debt**<br>
 6.5% of GDP (2015 est.)<br>
-6.5% of GDP (2014 est.)<br>
 
 **Taxes and other revenues**<br>
 20.4% (of GDP) (2015 est.)<br>

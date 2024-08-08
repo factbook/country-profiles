@@ -248,12 +248,12 @@ none (territory of the US)<br>
 **National holiday**<br>
 Discovery Day (or Magellan Day), first Monday in March (1521)<br>
 
+**Legal system**<br>
+common law modeled on US system; US federal laws apply<br>
+
 **Constitution**<br>
 _history_: effective 1 July 1950 (Guam Act of 1950 serves as a constitution)<br>
 _amendments_: amended many times, last in 2015<br>
-
-**Legal system**<br>
-common law modeled on US system; US federal laws apply<br>
 
 **Citizenship**<br>
 see United States<br>
@@ -370,9 +370,6 @@ _male_: 12.6% (2023 est.)<br>
 _female_: 13.2% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-23% (2001 est.)<br>
-
 **Average household expenditures**<br>
 _on food_: 34.6% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 1.3% of household expenditures (2021 est.)<br>
@@ -381,12 +378,8 @@ _on alcohol and tobacco_: 1.3% of household expenditures (2021 est.)<br>
 _revenues_: $1.24 billion (2016 est.)<br>
 _expenditures_: $1.299 billion (2016 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--1% (of GDP) (2016 est.)<br>
-
 **Public debt**<br>
 22.1% of GDP (2016 est.)<br>
-32.1% of GDP (2013)<br>
 
 **Taxes and other revenues**<br>
 21.4% (of GDP) (2016 est.)<br>

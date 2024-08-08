@@ -277,12 +277,12 @@ _etymology_: translates as "Andorra the Old" in Catalan<br>
 **National holiday**<br>
 Our Lady of Meritxell Day, 8 September (1278)<br>
 
+**Legal system**<br>
+mixed legal system of civil and customary law with the influence of canon (religious) law<br>
+
 **Constitution**<br>
 _history_: drafted 1991, approved by referendum 14 March 1993, effective 28 April 1993<br>
 _amendments_: proposed by the coprinces jointly or by the General Council; passage requires at least a two-thirds majority vote by the General Council, ratification in a referendum, and sanctioning by the coprinces<br>
-
-**Legal system**<br>
-mixed legal system of civil and customary law with the influence of canon (religious) law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -415,12 +415,8 @@ tourism (particularly skiing), banking, timber, furniture<br>
 _revenues_: $1.872 billion (2016)<br>
 _expenditures_: $2.06 billion (2016)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--6.9% (of GDP) (2016)<br>
-
 **Public debt**<br>
 41% of GDP (2014 est.)<br>
-41.4% of GDP (2013 est.)<br>
 
 **Taxes and other revenues**<br>
 69% (of GDP) (2016)<br>

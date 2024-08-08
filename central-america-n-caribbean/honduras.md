@@ -312,12 +312,12 @@ _etymology_: while most sources agree that Tegucigalpa is of Nahuatl derivation,
 **National holiday**<br>
 Independence Day, 15 September (1821)<br>
 
+**Legal system**<br>
+civil law system<br>
+
 **Constitution**<br>
 _history_: several previous; latest approved 11 January 1982, effective 20 January 1982<br>
 _amendments_: proposed by the National Congress with at least two-thirds majority vote of the membership; passage requires at least two-thirds majority vote of Congress in its next annual session; constitutional articles, such as the form of government, national sovereignty, the presidential term, and the procedure for amending the constitution, cannot be amended; amended several times, last in 2021<br>
-
-**Legal system**<br>
-civil law system<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -493,12 +493,8 @@ _highest 10%_: 34.6% (2019 est.)<br>
 _revenues_: $6.476 billion (2019 est.)<br>
 _expenditures_: $6.454 billion (2019 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--2.7% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 39.5% of GDP (2017 est.)<br>
-38.5% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 15.07% (of GDP) (2020 est.)<br>

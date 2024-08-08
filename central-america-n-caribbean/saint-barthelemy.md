@@ -261,10 +261,12 @@ precious metal watches, base metal watches, jewelry, refined petroleum, cars (20
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>
-0.885 (2017 est.)<br>
-0.903 (2016 est.)<br>
-0.9214 (2015 est.)<br>
-0.885 (2014 est.)<br>
+_Currency_: euros (EUR) per US dollar -<br>
+0.925 (2023 est.)<br>
+0.95 (2022 est.)<br>
+0.845 (2021 est.)<br>
+0.876 (2020 est.)<br>
+0.893 (2019 est.)<br>
 
 ## Energy
 

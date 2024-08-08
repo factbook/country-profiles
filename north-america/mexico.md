@@ -102,7 +102,7 @@ Mestizo (Indigenous-Spanish) 62%, predominantly Indigenous 21%, Indigenous 7%, o
 <strong>note:</strong> Mexico does not collect census data on ethnicity<br>
 
 **Languages**<br>
-Spanish only 93.8%, Spanish and indigenous languages 5.4%, indigenous only 0.6%, unspecified 0.2%; note - indigenous languages include various Mayan, Nahuatl, and other regional languages (2020 est.)<br>
+Spanish only 93.8%, Spanish and indigenous languages (including Mayan, Nahuatl, and others) 5.4%, indigenous only 0.6%, unspecified 0.2% (2020 est.)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -343,12 +343,12 @@ _etymology_: named after the Mexica, the largest and most powerful branch of the
 **National holiday**<br>
 Independence Day, 16 September (1810)<br>
 
+**Legal system**<br>
+civil law system with US constitutional law influence; judicial review of legislative acts<br>
+
 **Constitution**<br>
 _history_: several previous; latest approved 5 February 1917<br>
 _amendments_: proposed by the Congress of the Union; passage requires approval by at least two thirds of the members present and approval by a majority of the state legislatures; amended many times, last in 2020<br>
-
-**Legal system**<br>
-civil law system with US constitutional law influence; judicial review of legislative acts<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -529,13 +529,8 @@ _highest 10%_: 34.4% (2022 est.)<br>
 _revenues_: $264.261 billion (2020 est.)<br>
 _expenditures_: $313.358 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--1.1% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 44.05% of GDP (2022 est.)<br>
-44.98% of GDP (2021 est.)<br>
-45.85% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

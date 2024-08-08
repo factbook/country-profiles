@@ -99,7 +99,7 @@ _adjective_: Ethiopian<br>
 Oromo 35.8%, Amhara 24.1%, Somali 7.2%, Tigray 5.7%, Sidama 4.1%, Guragie 2.6%, Welaita 2.3%, Afar 2.2%, Silte 1.3%, Kefficho 1.2%, other 13.5% (2022 est.)<br>
 
 **Languages**<br>
-Oromo (official working language of Oromia Regional State) 33.8%, Amharic (official national language) 29.3%, Somali (official working language of Somali Regional State) 6.2%, Tigrigna (Tigrinya) (official working language of Tigray Regional State) 5.9%, Sidamo 4%, Wolaytta 2.2%, Gurage 2%, Afar (official working language of Afar Regional State) 1.7%, Hadiyya 1.7%, Gamo 1.5%, Gedeo 1.3%, Opuuo 1.2%, Kafa 1.1%, other 8.1%, English <br><br><strong>note:</strong> Sidama is an official working language of Sidama Regional State (2007 est.)<br>
+Oromo (official regional working language) 33.8%, Amharic (official national language) 29.3%, Somali (official regional working language) 6.2%, Tigrigna (Tigrinya) (official regional working language) 5.9%, Sidamo 4%, Wolaytta 2.2%, Gurage 2%, Afar (official regional working language) 1.7%, Hadiyya 1.7%, Gamo 1.5%, Gedeo 1.3%, Opuuo 1.2%, Kafa 1.1%, other 8.1%, English (2007 est.)<br>
 _major-language sample(s)_: <br>Kitaaba Addunyaa Waan Qabataamaatiif - Kan Madda Odeeffannoo bu’uraawaatiif baay’ee barbaachisaa ta’e. (Oromo)<br><br>የአለም እውነታ መጽሐፍ፣ ለመሠረታዊ መረጃ እጅግ አስፈላጊ የሆነ ምንጭ። (Amharic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -343,12 +343,12 @@ oldest independent country in Africa and one of the oldest in the world - at lea
 **National holiday**<br>
 Derg Downfall Day (defeat of MENGISTU regime), 28 May (1991)<br>
 
+**Legal system**<br>
+civil law system<br>
+
 **Constitution**<br>
 _history_: several previous; latest drafted June 1994, adopted 8 December 1994, entered into force 21 August 1995<br>
 _amendments_: proposals submitted for discussion require two-thirds majority approval in either house of Parliament or majority approval of one-third of the State Councils; passage of amendments other than constitutional articles on fundamental rights and freedoms and the initiation and amendment of the constitution requires two-thirds majority vote in a joint session of Parliament and majority vote by two thirds of the State Councils; passage of amendments affecting rights and freedoms and amendment procedures requires two-thirds majority vote in each house of Parliament and majority vote by all the State Councils<br>
-
-**Legal system**<br>
-civil law system<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -525,13 +525,8 @@ _highest 10%_: 28.5% (2015 est.)<br>
 _revenues_: $11.308 billion (2020 est.)<br>
 _expenditures_: $13.979 billion (2020 est.)<br>
 
-**Budget surplus (+) or deficit (-)**<br>
--3.2% (of GDP) (2017 est.)<br>
-
 **Public debt**<br>
 31.45% of GDP (2019 est.)<br>
-32.53% of GDP (2018 est.)<br>
-30.1% of GDP (2017 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

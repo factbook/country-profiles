@@ -214,11 +214,11 @@ raw copper, refined copper, cobalt oxides and hydroxides, corn, soybean meal (20
 
 **Exchange rates**<br>
 _Currency_: New Zealand dollars (NZD) per US dollar -<br>
-1.416 (2017 est.)<br>
-1.4279 (2016 est.)<br>
-1.4279 (2015)<br>
-1.4279 (2014 est.)<br>
-1.2039 (2013 est.)<br>
+1.628 (2023 est.)<br>
+1.577 (2022 est.)<br>
+1.414 (2021 est.)<br>
+1.542 (2020 est.)<br>
+1.518 (2019 est.)<br>
 
 ## Communications
 
