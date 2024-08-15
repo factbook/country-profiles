@@ -702,3 +702,6 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida; Harakat Sawa’d Misr<br
 _refugees (country of origin)_: 696,246 (South Sudan) (refugees and asylum seekers), 137,402 (Eritrea) (refugees and asylum seekers), 93,477 (Syria) (refugees and asylum seekers), 72,334 (Ethiopia) (refugees and asylum seekers), 18,279 (Central African Republic) (2023)<br>
 _IDPs_: 6.5 million (armed conflict between rival factions of the military government of Sudan since 15 April 2023) (2024); note - includes some non-Sudanese nationals<br>
 
+**Trafficking in persons**<br>
+_tier rating_: Tier 3 — Sudan does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Sudan was downgraded to Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/sudan/<br>
+

@@ -712,6 +712,9 @@ the armed forces are responsible for defense of the country&rsquo;s independence
 _refugees (country of origin)_: 32,939 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2023)<br>
 _stateless persons_: 5 (2022)<br>
 
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Uruguay was downgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2024-trafficking-in-persons-report/uruguay/<br>
+
 **Illicit drugs**<br>
 transit country for drugs mainly bound for Europe, often through sea-borne containers; limited law enforcement corruption; money laundering; weak border control along Brazilian frontier; increasing consumption of cocaine base and synthetic drugs<br>
 

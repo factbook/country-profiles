@@ -313,7 +313,7 @@ mixed legal system of civil law, based on the French civil code and Islamic (sha
 
 **Constitution**<br>
 _history_: <p>several previous; latest - draft published by the president 30 June 2022, approved by referendum 25 July 2022, and adopted 27 July 2022</p><br>
-_amendments_: proposed by the president of the republic or by one third of the Assembly of the Representatives of the People membership; following review by the Constitutional Court, approval to proceed requires an absolute majority vote by the Assembly and final passage requires a two-thirds majority vote by the Assembly; the president can opt to submit an amendment to a referendum, which requires an absolute majority of votes cast for passage<br>
+_amendments_: proposed by the president of the republic or by one third of the Assembly of the Representatives of the People membership; following review by the Constitutional Court, approval to proceed requires an absolute majority vote by the Assembly and final passage requires a two-thirds Assembly majority vote; the president can opt to submit an amendment to a referendum, which requires an absolute majority of votes cast for passage<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -329,7 +329,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Kais SAIED (since 23 October 2019)<br>
-_head of government_: Prime Minister Ahmed HACHANI (since 1 August 2023)<br>
+_head of government_: Prime Minister Kamel MADDOURI (since 7 August 2024); President Kais SAIED dismissed Prime Minister Ahmed HACHANI the same day he appointed Kamel MADDOURI &nbsp;&nbsp;<br>
 _cabinet_: prime minister appointed by the president; cabinet members appointed by the president in consultation with the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 15 September 2019 with a runoff on 13 October 2019 (next to be held in 2024)<br>
 _election results_: <p><em><br>2019:</em> Kais SAIED elected president in second round; percent of vote in first round - Kais SAIED (independent) 18.4%, Nabil KAROUI (Heart of Tunisia) 15.6%, Abdelfattah MOUROU (Nahda Movement) 12.9%, Abdelkrim ZBIDI (independent) 10.7%, Youssef CHAHED (Long Live Tunisia) 7.4%, Safi SAID (independent) 7.1%, Lotfi MRAIHI (Republican People's Union) 6.6%, other 21.3%; percent of vote in second round - Kais SAIED 72.7%, Nabil KAROUI 27.3%<br><br><em>2014:</em> Beji CAID ESSEBSI elected president in second round; percent of vote - Beji CAID ESSEBSI (Call for Tunisia Party) 55.7%, Moncef MARZOUKI (CPR) 44.3% </p><br>
@@ -338,7 +338,7 @@ _election results_: <p><em><br>2019:</em> Kais SAIED elected president in second
 **Legislative branch**<br>
 _description_: bicameral legislature (enacted by the 2022 constitution) consists of:<br>newly added National Council of Regions and Districts (Le Conseil national des régions et des districts) (77 seats; members appointed by municipal-level councils; members of each Regional Council elect 3 members among themselves to the National Council; each District Council elects 1 member among themselves to the National Council; members serve 5-year term)<br>Assembly of the People's Representatives (161 seats; 151 members in single seat constituencies and 10 members from Tunisian diaspora directly elected by majoritarian two-round voting system; all members serve 5-year terms)<br>
 _elections_: National Council of Regions and Districts - last held on 24 December 2023 for 279 local councils, which will indirectly elect the National Council (next to be held in 2028)<br>Assembly of Representatives of the People - last held on 17 December 2022 with a runoff on 29 January 2023 (next to be held in late 2027)<br>
-_election results_: <strong>note:</strong> in 2022, President SAIED issued a new electoral law, which required all legislative candidates to run as independents<br>
+_election results_: <strong>note:</strong> in 2022, President SAIED issued a new electoral law, which requires all legislative candidates to run as independents<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation (consists of the first president, chamber presidents, and magistrates and organized into 27 civil and 11 criminal chambers)<br>

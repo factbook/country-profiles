@@ -545,7 +545,7 @@ defense is the responsibility of China; the Chinese People's Liberation Army (PL
 ## Transnational Issues
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 &mdash; Macau does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Macau remained on Tier 3; the government took some steps to address trafficking, including investigating five suspected cases of traffickers using Macau residents in cyber scams in Southeast Asia, training police officers on anti-trafficking efforts, and initiating one prosecution; however, the government did not report proactively screening at-risk populations, such as commercial sex workers, for trafficking indicators; for the fourth consecutive year, officials did not identify or provide services to any victims; Macau has not convicted a trafficker since 2019 and has never identified a victim of forced labor exploitation domestically (2023)<br>
+_tier rating_: Tier 3 — Macau does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Macau remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/macau/<br>
 
 **Illicit drugs**<br>
 <p>Asian organized crime groups involved in drug trafficking and money laundering</p> <p> </p><br>

@@ -665,7 +665,7 @@ the Revolutionary Armed Forces (FAR) are a central pillar of the Cuban regime an
 ## Transnational Issues
 
 **Trafficking in persons**<br>
-_tier rating_: <p>Tier 3 — Cuba does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Cuba remained on Tier 3; the government took some steps to address trafficking, such as amending the penal code to include criminalization of labor trafficking; however, the government continued a policy or pattern to profit from labor export programs with strong indications of forced labor, particularly in its foreign medical missions program; the government continued to deploy Cuban workers to foreign countries using deceptive and coercive tactics, and failed to address an increasing number of allegations from credible NGOs and foreign governments of Cuban officials’ involvement in trafficking crimes; the government used its legal framework to threaten, coerce, and punish workers and their families if they left the labor export and medical programs (2023)</p><br>
+_tier rating_: <p>Tier 3 — Cuba does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Cuba remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/cuba/</p><br>
 
 **Illicit drugs**<br>
 <p>Cuba is not a major consumer, producer, or transshipment point for illicit drugs; domestic production and consumption curbed by aggressive policing; prescription drug abuse remains low</p> <p> </p><br>

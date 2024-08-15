@@ -686,6 +686,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 _refugees (country of origin)_: 6,775 (Afghanistan) (mid-year 2021)<br>
 _stateless persons_: 4,898 (2022)<br>
 
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Tajikistan was downgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2024-trafficking-in-persons-report/tajikistan/<br>
+
 **Illicit drugs**<br>
 <p>Tajikistan is a primary transit country along the “Northern Route” for Afghanistan-sourced opiates and cannabis for the Russian and Eastern European markets and beyond; minimal domestic recreational drug use though it is increasing</p><br>
 

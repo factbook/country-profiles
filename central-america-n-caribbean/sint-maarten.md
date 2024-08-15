@@ -219,12 +219,12 @@ _etymology_: founded and named in 1763 by John PHILIPS, a Scottish captain in th
 **National holiday**<br>
 <p>King's Day (birthday of King WILLEM-ALEXANDER), 27 April (1967); note - King's or Queen's Day are observed on the ruling monarch's birthday; celebrated on 26 April if 27 April is a Sunday; local holiday Sint Maarten's Day, 11 November (1985), commemorates the discovery of the island by COLUMBUS on Saint Martin's Day, 11 November 1493; celebrated on both halves of the island</p><br>
 
+**Legal system**<br>
+<p>based on Dutch civil law system with some English common law influence</p><br>
+
 **Constitution**<br>
 _history_: previous 1947, 1955; latest adopted 21 July 2010, entered into force 10 October 2010 (regulates governance of Sint Maarten but is subordinate to the Charter for the Kingdom of the Netherlands)<br>
 _amendments_: proposals initiated by the Government or by Parliament; passage requires at least a two-thirds majority of the Parliament membership; passage of amendments relating to fundamental rights, authorities of the governor and of Parliament must include the "views" of the Kingdom of the Netherlands Government prior to ratification by Parliament<br>
-
-**Legal system**<br>
-<p>based on Dutch civil law system with some English common law influence</p><br>
 
 **Citizenship**<br>
 see the Netherlands<br>
@@ -419,5 +419,5 @@ defense is the responsibility of the Kingdom of the Netherlands<br>
 ## Transnational Issues
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 &mdash; Sint Maarten does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Sint Maarten remained on Tier 3; officials took some steps to address trafficking, including passing a National Action Plan and upholding three trafficking convictions; however, the government did not report prosecuting or convicting any traffickers nor identifying any victims for the third consecutive year; Sint Maarten could not provide services to trafficking victims due to its lack of shelters, funding, and formal arrangements with service providers; interagency coordination was severely lacking; officials consistently conflated human trafficking with migrant smuggling (2023)<br>
+_tier rating_: Tier 3 — Sint Maarten does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Sint Maarten remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/sint-maarten/ <br>
 

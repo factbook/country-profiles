@@ -90,6 +90,7 @@ South Africa completely surrounds Lesotho and almost completely surrounds Eswati
 _total_: 60,442,647<br>
 _male_: 29,664,388<br>
 _female_: 30,778,259 (2024 est.)<br>
+<strong>note: </strong>South Africa's 2022 census has drawn widespread criticism for flawed methodology that may have affected the results; if the numbers are proven to be inaccurate, <em>The World Factbook</em> will revert to the previous census data<br>
 
 **Nationality**<br>
 _noun_: South African(s)<br>

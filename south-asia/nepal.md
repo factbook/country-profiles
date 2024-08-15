@@ -666,6 +666,9 @@ Indian Mujahedeen<br>
 _refugees (country of origin)_: 12,540 (Tibet/China), 6,365 (Bhutan) (mid-year 2022)<br>
 _stateless persons_: undetermined (mid-year 2021)<br>
 
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Nepal was downgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2024-trafficking-in-persons-report/nepal/<br>
+
 **Illicit drugs**<br>
 <p>illicit producer of cannabis and hashish for the domestic and international drug markets; transit point for opiates from Southeast Asia to the West; destination country for Indian-produced heroin smuggled in for domestic consumption</p><br>
 

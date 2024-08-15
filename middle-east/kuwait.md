@@ -325,8 +325,8 @@ _residency requirement for naturalization_: not specified<br>
 21 years of age and at least 20-year citizenship<br>
 
 **Executive branch**<br>
-_chief of state_: Amir Sheikh MISHAL al-Ahmad al-Sabah (since 16 December 2023)<br>
-_head of government_: Prime Minister AHMAD al-Abdullah al Sabah (since 15 May 2024)<br>
+_chief of state_: Amir Sheikh MISHAL al-Ahmad al-Jabir al-Sabah (since 16 December 2023)<br>
+_head of government_: Prime Minister AHMAD ABDULLAH Al-Ahmad al Sabah (since 15 May 2024)<br>
 _cabinet_: Council of Ministers appointed by the prime minister, approved by the amir<br>
 _elections/appointments_: amir chosen from within the ruling family, confirmed by the National Assembly; prime minister appointed by the amir<br>
 

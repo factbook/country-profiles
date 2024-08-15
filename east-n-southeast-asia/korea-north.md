@@ -593,7 +593,7 @@ North Korea’s leader has emphasized the development of space capabilities, par
 _IDPs_: undetermined (2021)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 &mdash; the government of North Korea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, North Korea remained on Tier 3; the government did not demonstrate any efforts to address human trafficking; during the reporting period, a government policy or pattern of human trafficking existed in prison camps, in labor training centers, in massed mobilizations of adults and children, and through forced labor by North Korean workers overseas; proceeds from state-sponsored forced labor funded government operations (2023)<br>
+_tier rating_: Tier 3 — the government of North Korea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, North Korea remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/north-korea/<br>
 
 **Illicit drugs**<br>
 at present there is insufficient information to determine the current level of involvement of government officials in the production or trafficking of illicit drugs, but for years, from the 1970s into the 2000s, citizens of North Korea , many of them diplomatic employees of the government, were apprehended abroad while trafficking in narcotics; police investigations in Taiwan, Japan and Australia during that period have linked North Korea to large illicit shipments of heroin and methamphetamine<br>

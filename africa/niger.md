@@ -706,6 +706,9 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS); 
 _refugees (country of origin)_: 67,191 (Mali) (refugees and asylum seekers) (2023); 200,423 (Nigeria) (2024)<br>
 _IDPs_: 335,277 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2023)<br>
 
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Niger was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/niger/<br>
+
 **Illicit drugs**<br>
 <p>a transit country for illegal drugs shipped through Niger to Africa, Europe, and the Middle East; drugs from South America, cocaine, heroin, cannabis, and various synthetics transit through Niger to European and Middle Eastern markets; hashish from Morocco is trafficked through Niger to Libya and Egypt and Europe and the Middle East; Nigerien citizens and migrants crossing Niger consume significant quantities of the opioid tramadol from neighboring Nigeria</p><br>
 

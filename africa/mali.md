@@ -701,6 +701,9 @@ Ansar al-Dine; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS
 _refugees (country of origin)_: 29,138 (Burkina Faso) (refugees and asylum seekers), 20,617 (Niger) (refugees and asylum seekers), 14,956 (Mauritania) (refugees and asylum seekers) (2023)<br>
 _IDPs_: 375,539 (Tuareg rebellion since 2012) (2023)<br>
 
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch list — Mali did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2024-trafficking-in-persons-report/mali/<br>
+
 **Illicit drugs**<br>
 <p>a transit point for illicit drugs trafficked to Europe; trafficking controlled by armed groups, criminal organizations, terrorist groups and government officials that facilitate, protect and profit from the activity</p><br>
 

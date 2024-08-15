@@ -642,6 +642,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 ## Transnational Issues
 
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List — the Maldives did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/maldives/<br>
+
 **Illicit drugs**<br>
 NA<br>
 

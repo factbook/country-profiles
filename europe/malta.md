@@ -661,6 +661,9 @@ the Armed Forces of Malta (AFM) are responsible for external security but also h
 _stateless persons_: 11 (2022)<br>
 <strong>note:</strong> 8,556 estimated refugee and migrant arrivals by sea (January 2015-November 2022)<br>
 
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch list — Malta did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/malta/<br>
+
 **Illicit drugs**<br>
 minor transshipment point for hashish from North Africa to Western Europe<br>
 

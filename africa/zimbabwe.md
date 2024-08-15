@@ -698,6 +698,9 @@ has a nascent program with the goal of utilizing space technologies in economic 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 9,931 (Mozambique) (2023); 12,293 (Democratic Republic of Congo) (refugees and asylum seekers) (2024)<br>
 
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Zimbabwe was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/zimbabwe/<br>
+
 **Illicit drugs**<br>
 <p>transit point for cannabis and South Asian heroin, methaqualone, and methamphetamines en route to South Africa</p><br>
 

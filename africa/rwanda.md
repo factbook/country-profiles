@@ -671,8 +671,7 @@ the RDF's inventory includes mostly Soviet-era and older Western--largely French
 note: as of 2022, women comprised approximately 6% of the Rwanda Defense Force<br>
 
 **Military deployments**<br>
-approximately 2,200 Central African Republic (MINUSCA; plus about 700 police); approximately 2,500 Mozambique (deployed mid-2021 under a bilateral agreement to assist with combating an insurgency; includes both military and police forces); 2,600 (plus about 450 police) South Sudan (UNMISS) (2024)<br>
-<strong>note:</strong> in December 2020, Rwanda sent an additional 1,200 to the Central African Republic under a bilateral agreement to support and train Central African Republic military forces, but their status as of 2024 was unclear)<br>
+approximately 3,200 Central African Republic (about 2,200 under MINUSCA, plus some 700 police; approximately 1,000 under a bi-lateral agreement); approximately 2,500 Mozambique (bilateral agreement to assist with combating an insurgency; includes both military and police forces); 2,600 (plus about 450 police) South Sudan (UNMISS) (2024)<br>
 
 **Military - note**<br>
 <p>the RDF is widely regarded as one of East Africa’s best trained and most experienced militaries; its principle responsibilities are ensuring territorial integrity and national sovereignty and preventing infiltrations of illegal armed groups from neighboring countries, particularly the Democratic Republic of the Congo (DRC); since 2021, Rwanda has deployed troops to the border region with the DRC to combat the rebel Democratic Forces for the Liberation of Rwanda (FDLR), which it has accused the DRC of backing; the RDF has been accused by the DRC, the UN, and the US of making incursions into the DRC and providing material support to the March 23 Movement (M23, aka Congolese Revolutionary Army) rebel group, which has been fighting with DRC troops and UN peacekeeping forces; the RDF also participates in UN and regional military operations</p> the Rwandan Armed Forces (FAR) were established following independence in 1962; after the 1990-1994 civil war and genocide, the victorious Tutsi-dominated Rwandan Patriotic Front's military wing, the Rwandan Patriotic Army (RPA), became the country's military force; the RPA participated in the First (1996-1997) and Second (1998-2003) Congolese Wars; the RPA was renamed the Rwanda Defense Force (RDF) in 2003, by which time it had assumed a more national character with the inclusion of many former Hutu officers as well as newly recruited soldiers (2023)<br>
@@ -691,4 +690,7 @@ has a small program focused on developing and utilizing space technologies, such
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 79,720 (Democratic Republic of the Congo), 48,533 (Burundi) (2024)<br>
 _stateless persons_: 9,500 (2022)<br>
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Rwanda was downgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2024-trafficking-in-persons-report/rwanda/<br>
 

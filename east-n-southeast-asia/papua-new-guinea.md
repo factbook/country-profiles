@@ -673,7 +673,7 @@ _IDPs_: 91,000 (tribal conflict, inter-communal violence) (2022)<br>
 _stateless persons_: 15 (2022)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 &mdash; Papua New Guinea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Papua New Guinea was downgraded to Tier 3; officials took some steps such as investigating government complicity in a sex trafficking syndicate; however, the government did not prosecute or convict any traffickers or identify and assist victims, and it often deported potential victims without screening them; endemic corruption and complicity among officials, particularly in the logging and fishing sectors, left foreigners and locals vulnerable to trafficking; the lack of resources for anti-trafficking efforts, low awareness among officials and the public, and lack of training and awareness activities continued to hinder progress (2023)<br>
+_tier rating_: Tier 3 — Papua New Guinea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Papua New Guinea remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/papua-new-guinea/<br>
 
 **Illicit drugs**<br>
 <p>transit point for smuggling drugs such as methamphetamine and cocaine; major consumer of cannabis</p><br>
