@@ -444,7 +444,7 @@ rice, vegetables, potatoes, sugarcane, maize, wheat, bison milk, milk, mangoes/g
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
-tourism, carpets, textiles; small rice, jute, sugar, and oilseed mills; cigarettes, cement and brick production<br>
+tourism, carpets, textiles, small rice, jute, sugar, oilseed mills, cigarettes, cement and brick production<br>
 
 **Industrial production growth rate**<br>
 1.38% (2023 est.)<br>

@@ -376,7 +376,7 @@ _FAX_: [1] (202) 667-2406<br>
 _email address and website_: <br>consular@sudanembassy.org<br><br>https://www.sudanembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador John T. GODFREY (since 1 September 2022)<br>
+_chief of mission_: Charg&eacute; d'Affaires Daniel RUBENSTEIN (since March 2024)<br>
 _embassy_: P.O. Box 699, Kilo 10, Soba, Khartoum<br>
 _mailing address_: 2200 Khartoum Place, Washington DC&nbsp; 20521-2200<br>
 _telephone_: [249] 187-0-22000<br>

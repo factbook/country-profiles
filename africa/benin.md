@@ -690,7 +690,7 @@ in addition to its defense against external aggression duties, the Beninese Arme
 ## Terrorism
 
 **Terrorist group(s)**<br>
-al-Qa’ida (Jama’at Nusrat al Islam wal Muslimeen); Islamic State in the Greater Sahara (ISIS-GS); Boko Haram<br>
+Jama’at Nusrat al Islam wal Muslimeen (JNIM); Islamic State in the Greater Sahara (ISIS-GS); Boko Haram<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

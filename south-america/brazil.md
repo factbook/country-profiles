@@ -754,7 +754,7 @@ has an active program with a long history; develops, builds, operates, and track
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Hizballah (2022)<br>
+Hizballah<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
