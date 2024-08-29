@@ -638,7 +638,7 @@ the military's s inventory includes equipment and weapons systems from a wide va
 <strong>note:</strong> the Gurkha Reserve Unit (GRU) employs about 500 Gurkhas from Nepal, the majority of whom are veterans of the British Army and the Singapore Police Force who have joined the GRU as a second career<br>
 
 **Military - note**<br>
-the Royal Brunei Armed Forces were formed in 1961 with British support as the Brunei Malay Regiment; "Royal" was added as an honorary title in 1965 and its current name was given in 1984; the military is responsible for ensuring the country’s sovereignty and territorial integrity, as well as countering outside aggression, terrorism, and insurgency <br><br>Brunei has a long-standing defense relationship with the UK and hosts a British Army garrison, which includes a Gurkha battalion and a jungle warfare school; Brunei also hosts a Singaporean military training detachment (2023)<br>
+the Royal Brunei Armed Forces were formed in 1961 with British support as the Brunei Malay Regiment; "Royal" was added as an honorary title in 1965 and its current name was given in 1984; the military is responsible for ensuring the country’s sovereignty and territorial integrity, as well as countering outside aggression, terrorism, and insurgency <br><br>Brunei has a long-standing defense relationship with the UK and hosts a British Army garrison, which includes a Gurkha battalion and a jungle warfare school; Brunei also hosts a Singaporean military training detachment (2024)<br>
 
 ## Transnational Issues
 

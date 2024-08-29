@@ -648,8 +648,7 @@ the Taliban claims authority over a Ministry of Defense and a National Army (aka
 2.9% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-the Taliban claims that approximately 150,000 personnel had been recruited for a new National Army; it also claims that over 50,000 personnel had been trained for the police forces (2023)<br>
-<strong>note:</strong> as of 2022, there were also up to 10,000 foreign fighters in Afghanistan, most of whom were aligned with the Taliban<br>
+the Taliban claims that the defense forces have approximately 150,000 personnel; it also claims that over 50,000 personnel had been trained for the police forces (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Taliban military/security forces are armed largely with US-provided equipment captured from the Afghan National Defense and Security Forces&nbsp; (2023)<br>
@@ -659,7 +658,7 @@ service is voluntary; there is no conscription (2023)<br>
 <strong>note: </strong>the Taliban dismissed nearly all women from the former Afghan National Defense and Security Forces, except those serving in detention facilities and assisting with body searches<br>
 
 **Military - note**<br>
-the Taliban&rsquo;s primary security threats include ISIS-Khorasan and anti-Taliban resistance elements known as the National Resistance Front and Afghanistan Freedom Front (2023)<br>
+the Taliban&rsquo;s primary security threats include ISIS-Khorasan and anti-Taliban resistance elements&nbsp; (2023)<br>
 
 ## Terrorism
 

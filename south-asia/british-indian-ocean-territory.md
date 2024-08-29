@@ -102,11 +102,11 @@ _name_: administered from London; often regarded as being on Diego Garcia<br>
 _geographic coordinates_: <strong> </strong>7 18S, 12 24E<br>
 _time difference_: UTC+6 (12 hours ahead of Washington, DC, during Standard Time)<br>
 
-**Constitution**<br>
-_history_: British Indian Ocean Territory (Constitution) Order 2004<br>
-
 **Legal system**<br>
 the laws of the UK apply where applicable<br>
+
+**Constitution**<br>
+_history_: British Indian Ocean Territory (Constitution) Order 2004<br>
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022)<br>

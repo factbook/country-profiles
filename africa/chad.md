@@ -384,7 +384,7 @@ _FAX_: [1] (202) 578-0431<br>
 _email address and website_: <br>info@chadembassy.us<br><br>https://chadembassy.us/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Alexander LASKARIS (since 18 August 2022)<br>
+_chief of mission_: Ambassador Alexander LASKARIS (since 19 August 2022)<br>
 _embassy_: Rond-Point Chagoua, B.P. 413, N&rsquo;Djamena<br>
 _mailing address_: 2410 N'Djamena Place, Washington DC&nbsp; 20521-2410<br>
 _telephone_: [235] 2251-5017<br>
@@ -410,7 +410,7 @@ _selected World Heritage Site locales_: Lakes of Ounianga (n); Ennedi Massif: Na
 ## Economy
 
 **Economic overview**<br>
-primarily oil-based economy, vulnerable to competition and price shocks; increasing extreme poverty and minimal human capital capacities; one of the most environmentally disrupted economies; high maternal/infant mortality rates destabilizing labor force potential<br>
+<p>oil-dependent economy challenged by market fluctuations, regional instability, refugee influx, and climate vulnerability; high levels of extreme poverty and food insecurity; recent growth driven by oil and agricultural recovery; debt-restructuring agreement under G20 Common Framework</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $32.446 billion (2023 est.)<br>
@@ -537,8 +537,8 @@ China 25%, UAE 20%, France 7%, US 7%, Belgium 7% (2022)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-vaccines, jewelry, electric generating sets, broadcasting equipment, packaged medicine (2022)<br>
-<b>note:</b> top five import commodities based on value in dollars<br>
+vaccines, jewelry, electric generators, broadcasting equipment, packaged medicine (2022)<br>
+<strong>note:</strong> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $211.591 million (2021 est.)<br>
@@ -660,7 +660,7 @@ the ANT is mostly armed with older or secondhand equipment from Belgium, France,
 Chad has committed approximately 1,000-1,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own territories, although cross‐border operations are conducted periodically (2024)<br>
 
 **Military - note**<br>
-the ANT has considerable combat experience against insurgents and terrorist groups; it also has a tradition of deep involvement in domestic politics; over the past decade, the ANT has received substantial foreign military assistance, particularly from France, which maintains a military base in N’Djamena; the ANT's current operational focus is on counterterrorism and counterinsurgency operations; it is engaged with the Boko Haram and Islamic State of Iraq and ash-Sham in West Africa terrorist groups in the Lake Chad Basin area; in addition, the ANT conducts frequent operations against internal anti-government militias and armed dissident groups <br><br>several rebel groups operate in northern Chad from bases in southern Libya, including the FACT (Front pour le Changement et la Concorde au Tchad), the Military Command Council for the Salvation of the Republic le Conseil de Commandement Militaire pour le salut de la République or CCSMR), the Union of Forces for Democracy and Development (le Union des Forces pour la Démocratie et le Développement or UFDD), and the Union of Resistance Forces (le Union des Forces de la Résistance UFR); former Chadian President Idriss DEBY<strong> </strong>was killed in April 2021 during fighting in the northern part of the country between the FACT and the Chadian Army; some armed groups, including the UFDD and UFR, signed an accord in August 2022 in return for the release of prisoners, amnesty, and an end to hostilities between the Chadian Government and these armed factions; however, other armed groups, including the FACT and CCSMR, refused to join the accord (2023)<br>
+the ANT has considerable combat experience against insurgents and terrorist groups; it also has a tradition of deep involvement in domestic politics; over the past decade, the ANT has received substantial foreign military assistance, particularly from France, which maintains a military base in N’Djamena; the ANT's current operational focus is on counterterrorism and counterinsurgency operations; it is engaged with the Boko Haram and Islamic State of Iraq and ash-Sham in West Africa terrorist groups in the Lake Chad Basin area; in addition, the ANT conducts frequent operations against internal anti-government militias and armed dissident groups <br><br>a number of rebel groups operate in northern Chad, some from bases in southern Libya, including the FACT (Front pour le Changement et la Concorde au Tchad), the Military Command Council for the Salvation of the Republic le Conseil de Commandement Militaire pour le salut de la République or CCSMR), the Union of Forces for Democracy and Development (le Union des Forces pour la Démocratie et le Développement or UFDD), and the Union of Resistance Forces (le Union des Forces de la Résistance UFR); former Chadian President Idriss DEBY<strong> </strong>was killed in April 2021 during fighting in the northern part of the country between the FACT and the Chadian Army (2023)<br>
 
 ## Terrorism
 

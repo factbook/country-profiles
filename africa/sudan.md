@@ -401,7 +401,7 @@ _selected World Heritage Site locales_: Gebel Barkal and the Sites of the Napata
 ## Economy
 
 **Economic overview**<br>
-low-income Sahel economy; one of the world&rsquo;s major agricultural exporters; shared oil pipeline exports with South Sudan; transitional government increasing human capital investment; food prices hit hard by COVID-19; ongoing Gezira Scheme irrigation project<br>
+<p>low-income Sahel economy devastated by ongoing civil war; major impacts on rural income, basic commodity prices, industrial production, agricultural supply chain, communications and commerce; hyperinflation and currency depreciation worsening food access and humanitarian conditions</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $136.039 billion (2023 est.)<br>

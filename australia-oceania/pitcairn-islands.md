@@ -130,13 +130,13 @@ none (overseas territory of the UK)<br>
 none (overseas territory of the UK)<br>
 
 **National holiday**<br>
-Birthday of Queen ELIZABETH II, second Saturday in June (1926); Discovery Day (Pitcairn Day), 2 July (1767)<br>
-
-**Constitution**<br>
-_history_: several previous; latest drafted 10 February 2010, presented 17 February 2010, effective 4 March 2010<br>
+Birthday of King CHARLES III, second Saturday in June (1948); Discovery Day (Pitcairn Day), 2 July (1767)<br>
 
 **Legal system**<br>
 local island by-laws<br>
+
+**Constitution**<br>
+_history_: several previous; latest drafted 10 February 2010, presented 17 February 2010, effective 4 March 2010<br>
 
 **Citizenship**<br>
 see United Kingdom<br>

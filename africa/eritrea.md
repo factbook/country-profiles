@@ -617,5 +617,5 @@ the military’s primary responsibilities are external defense, border security,
 ## Transnational Issues
 
 **Trafficking in persons**<br>
-_tier rating_: <p>Tier 3 — Eritrea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore Eritrea remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/eritrea/</p><br>
+_tier rating_: Tier 3 — Eritrea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore Eritrea remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/eritrea/<br>
 

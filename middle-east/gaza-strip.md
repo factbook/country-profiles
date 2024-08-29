@@ -494,7 +494,7 @@ the military wing of HAMAS has an estimated 20-25,000 fighters (2023)<br>
 the military wing is armed with light weapons, including an inventory of rocket, anti-tank, anti-aircraft, indirect fire (typically mortars), and armed UAV capabilities; HAMAS acquires its weapons through smuggling or local construction and receives significant military support from Iran (2024)<br>
 
 **Military - note**<br>
-since seizing control of the Gaza Strip in 2007, HAMAS has had repeated clashes with Israel, including armed conflicts in 2008-2009, 2012, 2014, 2021, and 2023; Palestine Islamic Jihad (PIJ) also operates in the Gaza Strip and has cooperated with HAMAS; see Appendix T for more details on HAMAS and PIJ (2023)<br>
+since seizing control of the Gaza Strip in 2007, the terrorist group HAMAS has had repeated clashes with Israel, including armed conflicts in 2008-09, 2012, 2014, 2021, and 2023-24; the Palestine Islamic Jihad (PIJ) terrorist group also operates in the Gaza Strip and has cooperated with HAMAS (2024)<br>
 
 ## Terrorism
 

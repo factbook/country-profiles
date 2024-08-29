@@ -610,5 +610,5 @@ _IDPs_: 2.258 million (alleged coup attempt and ethnic conflict beginning in Dec
 _stateless persons_: 10,000 (2022)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: <p>Tier 3 — South Sudan does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, South Sudan remains on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/south-sudan/</p><br>
+_tier rating_: Tier 3 — South Sudan does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, South Sudan remains on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/south-sudan/<br>
 

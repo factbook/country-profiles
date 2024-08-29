@@ -621,5 +621,5 @@ the FAGE&rsquo;s National Guard (Army) is a small force with a few infantry batt
 ## Transnational Issues
 
 **Trafficking in persons**<br>
-_tier rating_: <p>Tier 2 Watch List — Equatorial Guinea does not fully meet the minimum standards for the elimination of trafficking, but it is making significant efforts to do so and was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/equatorial-guinea/</p><br>
+_tier rating_: Tier 2 Watch List — Equatorial Guinea does not fully meet the minimum standards for the elimination of trafficking, but it is making significant efforts to do so and was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/equatorial-guinea/<br>
 
