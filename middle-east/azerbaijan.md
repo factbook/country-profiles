@@ -341,8 +341,8 @@ _election results_: <em><br>2024: </em>Ilham ALIYEV reelected president; percent
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Milli Mejlis (125 seats, current 116; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: last held early on 9 February 2020 (next to be held in 2025)<br>
-_election results_: percent of vote by party - NA; seats by party - YAP 69, CSP 3, AVP 1, CUP 1, ADMP 1, PDR 1, Great Order 1, National Front Party 1, REAL 1, VP 1, Whole Azerbaijan Popular Front 1, party unknown 1, independent 41; composition- men 95, women 21, percentage women 18.1%<br>
+_elections_: last held on 1 September 2024 (next to be held in 2029)<br>
+_election results_: percent of vote by party - NA; seats by party - YAP 68, CSP 3, Justice, Law, Deomcracy Party 2, Azerbaijan Democratic Enlightenment Party 1, Azerbaijan National Independence Party 1, Democratic Reforms Party 1, Great Azerbaijan Party 1, Great Order Party 1, Motherland Party 1, National Front Party 1, Republican Alternative Party1, independents 44<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chairman, vice chairman, and 23 judges in plenum sessions and organized into civil, economic affairs, criminal, and rights violations chambers); Constitutional Court (consists of 9 judges)<br>
@@ -671,7 +671,7 @@ Baku has been actively upgrading its equipment for over a decade with purchases 
 <strong>note:</strong> most of the military is made up of professional contract soldiers; as of 2018, women made up an estimated 3% of the active duty military<br>
 
 **Military - note**<br>
-the Azerbaijani military was established in 1991, although its origins go back to 1918; much of the military’s original equipment was acquired from former Soviet military forces that departed Azerbaijan by 1992; territorial defense is the military’s primary focus, particularly with regards to neighboring Armenia; a secondary focus is guarding against Iran; Armenia and Azerbaijan engaged in open conflicts over the Nagorno-Karabakh enclave in 1991-94 and 2020; tensions continued following the 2020 conflict, and Azerbaijan seized the entire enclave in 2023 <br><br>Turkey has been Azerbaijan’s strongest military partner, a relationship that has included weapons transfers, technical advice, bilateral training exercises, and key support during its conflicts with Armenia; Azerbaijan is not part of NATO but has had a cooperative relationship with it dating back to when it joined NATO’s Partnership for Peace program in 1994 and has provided troops to NATO-led missions in Kosovo (1999-2008) and Afghanistan (2002-2014) (2023)<br>
+the Azerbaijani military was established in 1991, although its origins go back to 1918; much of the military’s original equipment was acquired from former Soviet military forces that departed Azerbaijan by 1992; territorial defense is the military’s primary focus, particularly with regards to neighboring Armenia; a secondary focus is guarding against Iran; Armenia and Azerbaijan engaged in open conflicts over the Nagorno-Karabakh enclave in 1991-94 and 2020; tensions continued following the 2020 conflict, and Azerbaijan seized the entire enclave in 2023 <br><br>Turkey has been Azerbaijan’s strongest military partner, a relationship that has included weapons transfers, technical advice, bilateral training exercises, and support during its conflicts with Armenia; Azerbaijan is not part of NATO but has had a cooperative relationship with it dating back to when it joined NATO’s Partnership for Peace program in 1994 and has provided troops to NATO-led missions in Kosovo (1999-2008) and Afghanistan (2002-2014) (2024)<br>
 
 ## Space
 

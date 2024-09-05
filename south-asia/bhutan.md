@@ -586,10 +586,10 @@ _urban_: 437 km<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Bhutan Army (includes Royal Bodyguard and an air wing); National Militia<br><br>Ministry of Home and Cultural Affairs: Royal Bhutan Police (2023)<br>
+Royal Bhutan Army (RBA; includes Royal Bodyguard of Bhutan, or RBG, and an air wing); National Militia<br><br>Ministry of Home and Cultural Affairs: Royal Bhutan Police (2024)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 8,000 active personnel (2023)<br>
+estimated 7-8,000 active personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 India has provided most of the Royal Bhutan Army's equipment (2023)<br>
@@ -602,7 +602,7 @@ India has provided most of the Royal Bhutan Army's equipment (2023)<br>
 190 Central African Republic (MINUSCA) (2024)<br>
 
 **Military - note**<br>
-the Army is responsible for external threats but also has some internal security functions such as conducting counterinsurgency operations, guarding forests, and providing security for prominent persons; Bhutan relies on India for military training, arms supplies, and the country&rsquo;s air defense (2023)<br>
+the Army is responsible for external threats but also has some internal security functions such as conducting counterinsurgency operations, guarding forests, and providing security for prominent persons; Bhutan relies on India for military training, arms supplies, and the country&rsquo;s air defense (2024)<br>
 
 ## Space
 

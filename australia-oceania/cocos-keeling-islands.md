@@ -142,12 +142,12 @@ none (territory of Australia)<br>
 **National holiday**<br>
 Australia Day (commemorates the arrival of the First Fleet of Australian settlers), 26 January (1788)<br>
 
+**Legal system**<br>
+common law based on the Australian model<br>
+
 **Constitution**<br>
 _history_: 23 November 1955 (Cocos (Keeling) Islands Act 1955)<br>
 _amendments_: amended many times, last in 2020<br>
-
-**Legal system**<br>
-common law based on the Australian model<br>
 
 **Citizenship**<br>
 see Australia<br>

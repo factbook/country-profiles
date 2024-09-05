@@ -696,7 +696,7 @@ _key ports_: Banana, Boma, Matadi<br>
 
 **Military and security forces**<br>
 Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Republique Democratique du Congo, FARDC): Land Forces, National Navy (La Marine Nationale), Congolese Air Force (Force Aerienne Congolaise, FAC); Republican Guard (2024)<br>
-<strong>note 1: </strong>the Congolese National Police are under the Ministry of Interior<br><br><strong>note 2: </strong>the Republican Guard is a division-size element consisting of approximately 5 regiments; it is regarded as the country’s best equipped and trained military unit and is under the direct control of the president<br>
+<strong>note 1: </strong>the Congolese National Police are under the Ministry of Interior<br><br><strong>note 2: </strong>the Republican Guard is a division-size element with armored and infantry units; it is regarded as the country’s most capable unit and is under the direct control of the president<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2023 est.)<br>

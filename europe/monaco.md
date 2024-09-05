@@ -282,7 +282,7 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: Prince ALBERT II (since 6 April 2005)<br>
-_head of government_: Minister of State Pierre DARTOUT (since 1 September 2020)<br>
+_head of government_: Minister of State Didier GUILLAUME (since 2 September 2024)<br>
 _cabinet_: Council of Government under the authority of the monarch<br>
 _elections/appointments_: the monarchy is hereditary; minister of state appointed by the monarch from a list of three French national candidates presented by the French Government<br>
 

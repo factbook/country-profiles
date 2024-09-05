@@ -300,7 +300,7 @@ _residency requirement for naturalization_: 7 years<br>
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Susan DOUGAN (since 1 August 2019)<br>
-_head of government_: Prime Minister Ralph E. GONSALVES (since 29 March 2001)<br>
+_head of government_: Prime Minister Ralph Everard GONSALVES (since 29 March 2001)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party usually appointed prime minister by the governor general; deputy prime minister appointed by the governor general on the advice of the prime minister<br>
 

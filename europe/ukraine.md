@@ -10,7 +10,7 @@ _Europe / Countries_
 ## Geography
 
 **Location**<br>
-Eastern Europe, bordering the Black Sea, between Poland, Romania, and Moldova in the west and Russia in the east<br>
+Eastern Europe, bordering the Black Sea, between Poland, Belarus, Romania, and Moldova in the west and Russia in the east<br>
 
 **Geographic coordinates**<br>
 49 00 N, 32 00 E<br>
