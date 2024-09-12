@@ -585,7 +585,7 @@ _key ports_: Canton Island, English Harbor, Tarawa Atoll<br>
 no regular military forces; Kiribati Police and Prison Service (Ministry of Justice) (2024)<br>
 
 **Military - note**<br>
-Australia, NZ, and the US have provided security assistance<br><br>Kiribati has a "ship rider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Kiribati's designated exclusive economic zone (EEZ) or on the high seas; ship rider agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2023)<br>
+Australia, NZ, and the US have provided security assistance; Kiribati has a "ship rider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Kiribati's designated exclusive economic zone (EEZ) or on the high seas; ship rider agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>
 
 ## Transnational Issues
 

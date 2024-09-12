@@ -50,7 +50,7 @@ _mean elevation_: 726 m<br>
 
 **Natural resources**<br>
 cobalt, copper, niobium, tantalum, petroleum, industrial and gem diamonds, gold, silver, zinc, manganese, tin, uranium, coal, hydropower, timber<br>
-<strong>note 1:</strong> coltan, the industrial name for a columbite–tantalite mineral from which niobium and tantalum are extracted, is mainly artisanal and small-scale; tantalum, tin, tungsten, and gold extracted from central Africa are considered "conflict minerals" and as such are subject to international monitoring<br><br><strong>note 2:</strong> the DROC is the World's leading producer of cobalt, accounting for as much as 70% of the World's supply; between 20-30% of this cobalt is produced in artisanal and small-scale mining operations <br>
+<strong>note 1:</strong> coltan, the industrial name for a columbite–tantalite mineral from which niobium and tantalum are extracted, is mainly artisanal and small-scale; tantalum, tin, tungsten, and gold extracted from central Africa are considered "conflict minerals" and as such are subject to international monitoring<br><br><strong>note 2:</strong> the DROC is the World's leading producer of cobalt, accounting for as much as 70% of the World's supply; between 20-30% of this cobalt is produced in artisanal and small-scale mining operations<br>
 
 **Land use**<br>
 _agricultural land_: 11.4% (2018 est.)<br>

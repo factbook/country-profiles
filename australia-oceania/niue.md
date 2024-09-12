@@ -200,7 +200,7 @@ _amendments_: proposed by the Assembly; passage requires at least two-thirds maj
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor-General of New Zealand Cindy KIRO (since 21 October 2021); the UK and New Zealand are represented by New Zealand High Commissioner Mark GIBBS (since 5 March 2024)<br>
-_head of government_: Premier Dalton TAGELAGI (since 10 June 2020)<br>
+_head of government_: Prime Minister Dalton TAGELAGI (since 10 June 2020)<br>
 _cabinet_: Cabinet chosen by the premier<br>
 _elections/appointments_: the monarchy is hereditary; premier indirectly elected by the Legislative Assembly for a 3-year term; election last held on 8 May 2023 (next to be held in 2026)<br>
 _election results_: Dalton TAGELAGI reelected premier; Legislative Assembly vote - Dalton TAGELAGI (independent) 16, O'Love JACOBSEN (independent) 4<br>

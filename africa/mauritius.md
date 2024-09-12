@@ -638,7 +638,7 @@ no regular military forces; the Mauritius Police Force (MPF) under the Ministry 
 the MPF's inventory is comprised of mostly secondhand equipment from Western European countries and India; since 2010, India has been the primary supplier (2023)<br>
 
 **Military - note**<br>
-the country’s primary security partner is India, and Indian naval vessels often patrol Mauritian waters; the MPF has also received assistance and training from France, the UK, and the US; the MPF’s chief security concerns are piracy and narcotics trafficking<br><br>the Special Mobile Force was created in 1960 following the withdrawal of the British garrison (2023)<br>
+the MPF's primary security partner is India, which provides training and other support to the National Coast Guard; Indian naval vessels often patrol the country's waters; the MPF has also received assistance and training from France, the UK, and the US; the MPF’s chief security concerns are piracy and narcotics trafficking<br><br>the Special Mobile Force was created in 1960 following the withdrawal of the British garrison (2024)<br>
 
 ## Transnational Issues
 

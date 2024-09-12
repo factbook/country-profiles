@@ -705,7 +705,7 @@ despite limited resources, the FAS is considered to be a well-equipped, experien
 Senegalese Space Study Agency (Agence S&eacute;n&eacute;galaise d'Etudes Spatiales or ASES; launched in 2023 under the Ministry of Higher Education, Research, and Innovation) (2024)<br>
 
 **Space program overview**<br>
-small, nascent program focused on acquiring satellites, largely for socio-economic development and research; conducts research in such fields as astronomy and planetary sciences; has cooperated with the European Space Agency, and the space agencies of France and the US (2024)<br>
+small, nascent program focused on acquiring satellites, largely for socio-economic development and research; conducts research in such fields as astronomy and planetary sciences; has cooperated with the European Space Agency, and the space agencies of China, France, Turkey, and the US (2024)<br>
 
 ## Terrorism
 

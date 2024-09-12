@@ -676,7 +676,7 @@ the Gabonese military is lightly armed with a mix of equipment from a variety of
 18-26 years of age for voluntary military service; no conscription (2023)<br>
 
 **Military - note**<br>
-the Gabonese military is a small and lightly-armed force that is responsible for both external and internal security; in August 2023, it seized control of the government in a coup; some members of the military attempted a failed coup in 2019 (2023)<br>
+the Gabonese military is a small and lightly armed force that is responsible for both external and internal security; in August 2023, it seized control of the government in a coup; some members of the military attempted a failed coup in 2019 (2024)<br>
 
 ## Space
 

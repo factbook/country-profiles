@@ -475,7 +475,7 @@ no regular military forces; Ministry of Interior: Compagnie des Carabiniers du P
 the Compagnie des Carabiniers du Prince is staffed by French nationals (2024)<br>
 
 **Military - note**<br>
-defense is the responsibility of France<br>
+by treaty, France is responsible for defending the independence and sovereignty of Monaco<br>
 
 ## Transnational Issues
 

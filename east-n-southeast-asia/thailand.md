@@ -353,8 +353,8 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: King WACHIRALONGKON, also spelled Vajiralongkorn (since 1 December 2016)<br>
-_head of government_: Prime Minister Paetongtarn SHINAWATRA (since 18 August 2024)<br>
+_chief of state_: King WACHIRALONGKON; also spelled Vajiralongkorn (since 1 December 2016)<br>
+_head of government_: Prime Minister PHAETHONGTHAN Chinnawat; also spelled PAETONGTARN Shinawatra (since 18 August 2024)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, appointed by the king; a Privy Council advises the king<br>
 _elections/appointments_: the monarchy is hereditary; prime minister candidate approved by the House of Representatives and Senate and appointed by the king; starting in 2024, approval of prime minister needed only by the House of Representatives<br>
 <strong>note: </strong>following its May 2023 election win, the MJP formed an eight-party coalition and put forward its leader PITA Limjaroenrat for prime minister; however, the Senate blocked PITA from becoming prime minister in the first National Assembly vote in July 2023, and the Assembly subsequently voted that he could not submit his name again; the Constitutional Court also suspended PITA after accepting cases accusing him of violating election law; in August 2023, MJP handed over the lead in forming a new government to the second largest party in the coalition, PTP, which then formed a new coalition without MJP; PTP put forward SRETTHA Thavisin for prime minister, and he was approved by the National Assembly 482 votes out of a possible 747<br>

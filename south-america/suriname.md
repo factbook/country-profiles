@@ -322,11 +322,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Chandrikapersad SANTOKHI (since 16 July 2020)<br>
-_head of government_: President Chandrikapersad SANTOKHI (since 16 July 2020)<br>
+_chief of state_: President Chandrikapersad "Chan" SANTOKHI (since 16 July 2020)<br>
+_head of government_: President Chandrikapersad "Chan" SANTOKHI (since 16 July 2020)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _elections/appointments_: president and vice president indirectly elected by the National Assembly; president and vice president serve a 5-year term (no term limits); election last held on 13 July 2020 (next to be held in May 2025)<br>
-_election results_: <em><br>2020:</em> Chandrikapersad SANTOKHI elected president unopposed; National Assembly vote - NA<br><br><em>2015:</em> Desire Delano BOUTERSE reelected president unopposed; National Assembly vote - NA<br>
+_election results_: <em><br>2020:</em> Chandrikapersad "Chan" SANTOKHI elected president unopposed; National Assembly vote - NA<br><br><em>2015:</em> Desire Delano BOUTERSE reelected president unopposed; National Assembly vote - NA<br>
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>

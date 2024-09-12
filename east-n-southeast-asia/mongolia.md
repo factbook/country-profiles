@@ -652,7 +652,7 @@ _by type_: bulk carrier 8, container ship 8, general cargo 151, oil tanker 58, o
 ## Military and Security
 
 **Military and security forces**<br>
-Mongolian Armed Forces (MAF): Mongolian Ground Force (aka General Purpose Troops), Mongolian Air/Air Defense Force, Cyber Security Forces, Special Forces, Civil Engineering Forces, Civil Defense Forces (2023)<br>
+Mongolian Armed Forces (MAF): Ground Force, Air Force, Cyber Security Forces, Special Forces, Construction-Engineering Forces (2024)<br>
 <strong>note: </strong>the National Police Agency and the General Authority for Border Protection, which operate under the Ministry of Justice and Home Affairs, are primarily responsible for internal security; they are assisted by the General Intelligence Agency under the prime minister; the MAF assists the internal security forces in providing domestic emergency assistance and disaster relief<br>
 
 **Military expenditures**<br>
@@ -669,14 +669,14 @@ information varies; estimated 10,000 active troops (2023)<br>
 the MAF's inventory is comprised largely of Soviet-era and Russian equipment (2024)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for compulsory and voluntary military service (can enter military schools at age 17); 12-month conscript service obligation for men in the army, air forces, or police (can be extended 3 months under special circumstances); conscription service can be exchanged for a 24‐month stint in the civil service or a cash payment determined by the Mongolian Government; after conscription, soldiers can contract into military service for 2 or 4 years; volunteer military service for men and women is 24 months, which can be extended for another two years up to the age of 31 (2024)<br>
+18-25 years of age for compulsory and voluntary military service (can enter military schools at age 17); 12-month conscript service obligation for men can be extended 3 months under special circumstances; conscription service can be exchanged for a 24‐month stint in the civil service or a cash payment determined by the Mongolian Government; after conscription, soldiers can contract into military service for 2 or 4 years; volunteer military service for men and women is 24 months, which can be extended for another two years up to the age of 31 (2024)<br>
 
 **Military deployments**<br>
 875 South Sudan (UNMISS) (2024)<br>
 <strong>note:</strong> since 2002, Mongolia has deployed more than 20,000 peacekeepers and observers to UN operations in more than a dozen countries<br>
 
 **Military - note**<br>
-the MAF traditionally has focused on counterterrorism, disaster response, and international peacekeeping duties; the Ground Force is the military’s primary service and is centered on a motorized infantry brigade; it also has a battalion devoted to peacekeeping duties and hosts an annual international peacekeeping exercise known as “Khaan Quest”; Mongolia’s primary military partner is Russia, and in addition to receiving Russian military equipment, the MAF participates in Russia’s large “Vostok” exercise, which is conducted every four years; the MAF has a growing relationship with the US military<br><br>Mongolia has been engaged in dialogue and cooperation with NATO since 2005 and is considered by NATO to be a global partner; Mongolia supported the NATO-led Kosovo Force from 2005-2007 and contributed troops to the NATO-led International Security Assistance Force in Afghanistan from 2009-2014, as well as to the follow-on Resolute Support Mission that provided training, advice, and other assistance to the Afghan security forces (2015-2021) (2023)<br>
+the Mongolian Armed Forces (MAF) are responsible for ensuring the country's independence, security, and territorial integrity, and supporting Mongolia's developmental goals and diplomacy; it has a range of missions, including counterterrorism, disaster response, and international peacekeeping duties; the Ground Force is the military’s primary service and is centered on a motorized infantry brigade; it also has a battalion devoted to peacekeeping duties and hosts an annual international peacekeeping exercise known as “Khaan Quest”; Mongolia’s primary military partner is Russia, and in addition to receiving Russian military equipment, the MAF participates in Russia’s large “Vostok” exercise, which is conducted every four years; the MAF has a growing relationship with the US military<br><br>Mongolia has been engaged in dialogue and cooperation with NATO since 2005 and is considered by NATO to be a global partner; Mongolia supported the NATO-led Kosovo Force from 2005-2007 and contributed troops to the NATO-led International Security Assistance Force in Afghanistan from 2009-2014, as well as to the follow-on Resolute Support Mission that provided training, advice, and other assistance to the Afghan security forces (2015-2021) (2023)<br>
 
 ## Transnational Issues
 

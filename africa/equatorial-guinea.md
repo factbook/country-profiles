@@ -597,7 +597,7 @@ _key ports_: Bata, Ceiba Terminal, Cogo, Luba, Malabo, Punta Europa Terminal, Se
 
 **Military and security forces**<br>
 Equatorial Guinea Armed Forces (Fuerzas Armadas de Guinea Ecuatorial, FAGE): Equatorial Guinea National Guard (Guardia Nacional de Guinea Ecuatorial, GNGE (Army)), Navy, Air Force; Gendarmerie (Guardia Civil) (2024)<br>
-<strong>note:</strong> police report to the Ministry of National Security, while gendarmes report to the Ministry of National Defense; police generally are responsible for maintaining law and order in the cities, while gendarmes are responsible for security outside cities and for special events; military personnel also fulfill some police functions in border areas, sensitive sites, and high-traffic areas<br>
+<strong>note:</strong> police report to the Ministry of National Security, while gendarmes report to the Ministry of National Defense; police generally are responsible for maintaining law and order in the cities, while gendarmes are responsible for security outside cities and for special events<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2023 est.)<br>
@@ -616,7 +616,7 @@ the FAGE is armed with mostly older (typically Soviet-era) and second-hand weapo
 18 years of age for selective compulsory military service, although conscription is rare in practice; 24-month service obligation (2023)<br>
 
 **Military - note**<br>
-the FAGE&rsquo;s National Guard (Army) is a small force with a few infantry battalions; in recent years, the country has invested heavily in naval capabilities to protect its oil installations and combat piracy and crime in the Gulf of Guinea; while the Navy is small, its inventory includes a light frigate and a corvette, as well as several off-shore patrol vessels; the Air Force has only a few operational combat aircraft and ground attack-capable helicopters (2023)<br>
+the Armed Forces of Equatorial Guinea (FAGE) are responsible for defending the territory and sovereignty of the country; it also has some internal security duties, including fulfilling some police functions in border areas, sensitive sites, and high-traffic areas; the FAGE&rsquo;s National Guard (Army) is a small force with a few infantry battalions; over the past decade, the country has made considerable investments in naval capabilities to protect its oil installations and combat piracy and crime in the Gulf of Guinea; while the Navy is small, its inventory includes a light frigate and a corvette, as well as several off-shore patrol vessels; the Air Force has a handful of operational combat aircraft and ground attack-capable helicopters (2023)<br>
 
 ## Transnational Issues
 
