@@ -593,7 +593,7 @@ estimated 150-200,000 active personnel, mostly ground forces with small continge
 <strong>note: </strong>some active SSPDF personnel may be militia; the National/Necessary Unified Forces (NUF) are expected to have up to 80,000 personnel when training and integration is completed; the first batch of approximately 20,000 NUF personnel completed training in late 2022<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SSPDF inventory is primarily of Soviet origin; South Sudan has been under a UN arms embargo since 2018 (2023)<br>
+the SSPDF inventory is comprised primarily of Soviet-era equipment; South Sudan has been under a UN arms embargo since 2018 (2024)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for compulsory (men) and voluntary (men and women) military service; 12-24 months service (2023)<br>

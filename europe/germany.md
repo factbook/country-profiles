@@ -377,7 +377,7 @@ _email address and website_: <br>info@washington.diplo.de<br><br>https://www.ger
 _consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Amy GUTMANN (since 17 February 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Alan MELTZER (since July 2024)<br>
 _embassy_: Pariser Platz 2, 10117 Berlin<br>Clayallee 170, 14191 Berlin (administrative services)<br>
 _mailing address_: 5090 Berlin Place, Washington DC&nbsp; 20521-5090<br>
 _telephone_: [49] (30) 8305-0<br>

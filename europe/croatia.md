@@ -700,8 +700,8 @@ approximately 14,000 active-duty personnel (10,000 Army; 1,500 Navy; 1,500 Air f
 the military's inventory is a mix of Soviet-era equipment and a growing amount of more modern weapon systems from Western suppliers, including France, Germany, and the US (2024)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for voluntary military service; conscription abolished in 2008 (2024)<br>
-<strong>note:</strong> as of 2021, women comprised nearly 15% of the military's full-time personnel<br>
+18-27 years of age for voluntary military service; conscription abolished in 2008 but slated to be reinstated in January 2025 (2024)<br>
+<strong>note:</strong> as of 2024, women comprised about 14% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 150 Kosovo (KFOR/NATO); 175 Lithuania (NATO; Croatia also has a few hundred personnel participating in several other EU, NATO, and UN missions (2024)<br>

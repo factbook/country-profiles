@@ -665,14 +665,15 @@ New Zealand Defense Force (NZDF): New Zealand Army, Royal New Zealand Navy, Roya
 1.4% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 12,200 active-duty troops including active reservists (6,600 Army; 2,800 Navy; 2,800 Air Force) (2023)<br>
+approximately 8,800 active-duty (Regular Force) troops (4,300 Army; 2,100 Navy; 2,400 Air Force) (2024)<br>
+<strong>note:</strong> the total NZDF complement is about 15,300 including the Regular Force, Reserves, and civilians<br>
 
 **Military equipment inventories and acquisitions**<br>
 the NZDF is equipped mostly with Western-supplied weapons and equipment with the US as the leading provider (2023)<br>
 
 **Military service age and obligation**<br>
-17 years of age for voluntary military service for men and women; soldiers cannot be deployed until the age of 18; no conscription (2023)<br>
-<strong>note 1: </strong>New Zealand opened up all military occupations to women in 2000; in 2022, women accounted for about 20% of armed forces personnel<br><br><strong>note 2:</strong> as of 2022, the NZDF’s program for recruiting foreign volunteers had been suspended<br>
+17 years of age for voluntary military service for men and women; soldiers cannot be deployed until the age of 18; no conscription (2024)<br>
+<strong>note: </strong>New Zealand opened up all military occupations to women in 2000; as of 2024, women accounted for about 20% of Regular Force personnel<br>
 
 **Military deployments**<br>
 small numbers of NZ military personnel are deployed on a variety of international missions in Africa, Antarctica, the Asia-Pacific region, and the Middle East (2024)<br>

@@ -626,13 +626,13 @@ Seychelles Defense Forces (SDF): Army (includes infantry, special forces, and a 
 approximately 500-1,000 personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SDF's inventory primarily consists of Soviet-era equipment delivered in the 1970s and 1980s; in recent years, the SDF has received limited amounts of more modern equipment, mostly donations of patrol boats and aircraft, from several suppliers led by China and India (2023)<br>
+the SDF's inventory primarily consists of Soviet-era equipment delivered in the 1970s and 1980s; in recent years, the SDF has received limited amounts of more modern equipment, mostly donations of patrol boats and aircraft, from several suppliers, including Bahrain, China, India, and the UAE (2024)<br>
 
 **Military service age and obligation**<br>
 18-28 (18-25 for officers) years of age for voluntary military service for men and women; 6-year initial commitment; no conscription (2023)<br>
 
 **Military - note**<br>
-formed in 1977, the SDF is one of the World's smallest militaries; its primary responsibility is maritime security, particularly countering illegal fishing, piracy, and drug smuggling; it was given police powers in 2022; the Seychelles has close security ties with India (2023)<br>
+formed in 1977, the SDF is one of the World's smallest militaries; its primary responsibility is maritime security, including countering illegal fishing, piracy, and drug smuggling; it was given police powers in 2022; the Seychelles has close security ties with India (2024)<br>
 
 ## Transnational Issues
 

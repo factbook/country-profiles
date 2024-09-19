@@ -657,7 +657,7 @@ the Suriname Army has a limited inventory comprised of a mix of older, foreign-s
 18 is the legal minimum age for voluntary military service for men and women; no conscription (2024)<br>
 
 **Military - note**<br>
-key missions for the National Leger include border control and supporting domestic security; the military police has direct responsibility for immigration control at the country&rsquo;s ports of entry; in addition, the military assists the police in combating crime, particularly narco-trafficking, including joint military and police patrols, as well as joint special security teams (2023)<br>
+key missions for the National Leger include border control and supporting domestic security; the military police have direct responsibility for immigration control at the country&rsquo;s ports of entry; in addition, the military assists the police in combating crime, particularly narco-trafficking, including joint military and police patrols, as well as joint special security teams (2024)<br>
 
 ## Transnational Issues
 

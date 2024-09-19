@@ -582,7 +582,7 @@ _key ports_: Castries, Grand Cul de Sac Bay, Vieux Fort<br>
 
 **Military and security forces**<br>
 no regular military forces; Royal Saint Lucia Police Force (RSLPF) (2024)<br>
-<strong>note:</strong> the RSLPF has responsibility for law enforcement and maintenance of order within the country; it is under the Ministry of Home Affairs, Justice, and National Security and includes a Special Service Unit and a Marine Unit<br>
+<strong>note:</strong> the RSLPF has responsibility for law enforcement and maintenance of order within the country; it is under the Ministry of Home Affairs, Justice, and National Security and includes a Special Service Unit and a Marine Unit (coast guard)<br>
 
 **Military - note**<br>
 Saint Lucia has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Guyana, Saint Kitts, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2024)<br>

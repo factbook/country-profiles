@@ -638,13 +638,13 @@ Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (
 approximately 1,500-2,000 personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military is lightly armed and has a limited inventory consisting of equipment donated by other countries; in recent years, it has received small amounts of donated equipment from China, South Korea, and the US (2023)<br>
+the military is lightly armed and has a limited inventory consisting mostly of donated equipment from countries such as Australia, China, Portugal, South Korea, and the US (2024)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; compulsory service was authorized in 2020 for men and women aged 18-30 for 18 months of service, but the level of implementation is unclear (2023)<br>
 
 **Military - note**<br>
-the F-FDTL is a small and lightly equipped force with both external defense and internal security roles<br><br>since achieving independence, Timor-Leste has received security assistance from or has made defense cooperation arrangements with Australia, China, Indonesia, Malaysia, New Zealand, the Philippines, Portugal, the UN, and the US; some Defense Force personnel train with the Indonesian military (2023)<br>
+the F-FDTL is a small and lightly equipped force with both external defense and internal security roles; it has two infantry battalions, a small air component, and a handful of naval patrol boats<br><br>since achieving independence, Timor-Leste has received security assistance from or has made defense cooperation arrangements with Australia, China, Indonesia, Malaysia, New Zealand, the Philippines, Portugal, the UN, and the US (2024)<br>
 
 ## Transnational Issues
 

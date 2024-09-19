@@ -595,7 +595,7 @@ _key ports_: Galeota Point Terminal, Point Lisas Industrial Port, Point Lisas Po
 ## Military and Security
 
 **Military and security forces**<br>
-Trinidad and Tobago Defense Force (TTDF): Army/Land Forces (Trinidad and Tobago Regiment), Coast Guard, Air Guard, Defense Force Reserves<br><br>Trinidad and Tobago Police Service (TTPS) (2024)<br>
+Trinidad and Tobago Defense Force (TTDF): Trinidad and Tobago Regiment (Army/Land Forces), Trinidad and Tobago Coast Guard, Trinidad and Tobago Air Guard, Trinidad and Tobago Defense Force Reserves<br><br>Trinidad and Tobago Police Service (TTPS) (2024)<br>
 <strong>note:</strong> the Ministry of National Security oversees both the TTDF and the TTPS<br>
 
 **Military expenditures**<br>
@@ -606,17 +606,17 @@ Trinidad and Tobago Defense Force (TTDF): Army/Land Forces (Trinidad and Tobago 
 1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 5,000 TTDF personnel (2023)<br>
+approximately 5,000 TTDF personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the TTDF's ground force inventory includes only light weapons, while the Coast Guard and Air Guard field mostly secondhand equipment from a mix of countries, including Australia, China, the Netherlands, the UK, and the US (2023)<br>
+the TTDF's ground force inventory includes only light weapons, while the Coast Guard and Air Guard field mostly secondhand equipment from a mix of countries, including Australia, China, Italy, the Netherlands, the UK, and the US (2024)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military service for men and women (some age variations between services, reserves); no conscription (2023)<br>
+18-25 years of age for voluntary military service for men and women (some age variations between services, reserves); no conscription (2024)<br>
 <strong>note:</strong> as of 2019, women comprised about 14% of the active duty military<br>
 
 **Military - note**<br>
-the Police Service maintains internal security; the TTDF's primary responsibilities are conducting border and maritime security, assisting civil authorities in times of crisis or disaster, providing search and rescue services, and supporting law enforcement, particularly in countering gang-related crime and trafficking of narcotics and other illicit goods; the Coast Guard is responsible for maritime border security in places with no official ports of entry (2023)<br>
+the TTDF's primary responsibilities are conducting border and maritime security, including air and maritime surveillance, assisting civil authorities in times of crisis or disaster, providing search and rescue services, port security, and supporting civil law enforcement, particularly in countering gang-related crime and trafficking of narcotics and other illicit goods; the Police Service maintains internal security (2024)<br>
 
 ## Transnational Issues
 

@@ -601,7 +601,7 @@ _key ports_: Neiafu, Nuku Alofa, Pangai<br>
 ## Military and Security
 
 **Military and security forces**<br>
-His Majesty's Armed Forces Tonga (aka Tonga Defense Services): Tonga Royal Guard, Land Force (Royal Tongan Marines), Tonga Navy, Air Wing <br><br>Ministry of Police and Fire Services: Tonga Police Force (2023)<br>
+His Majesty's Armed Forces Tonga (aka Tonga Defense Services): Tonga Royal Guard, Land Force (Royal Tongan Marines), Tonga Navy, Air Wing <br><br>Ministry of Police and Fire Services: Tonga Police Force (2024)<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2023 est.)<br>
@@ -611,16 +611,16 @@ His Majesty's Armed Forces Tonga (aka Tonga Defense Services): Tonga Royal Guard
 2.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 500-700 personnel (2023)<br>
+approximately 600 personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Tonga military's inventory includes mostly light weapons and equipment from Australia, European countries (primarily the UK), and the US; nearly all of its military acquisitions in recent years have come from Australia (2023)<br>
+the military's inventory includes light weapons, as well as some naval vessels from Australia and a few aircraft from the US (2024)<br>
 
 **Military service age and obligation**<br>
 voluntary military service for men and women 18-25; no conscription (2023)<br>
 
 **Military - note**<br>
-the HMAF’s primary missions are protecting the King and Tonga’s sovereignty; the HMAF has contributed small numbers of personnel to multinational military operations in Afghanistan, Iraq, and the Solomon Islands; it is a small force comprised of royal guards, marines, a few naval patrol boats, and a couple of aircraft for maritime patrolling, search and rescue, and training purposes <br><br>Tonga participated in World War I as part of the New Zealand Expeditionary Force, but the Tonga Defense Force (TDF) was not established until 1939 at the beginning of World War II; in 1943, New Zealand helped train about 2,000 Tongan troops who saw action in the Solomon Islands; the TDF was disbanded at the end of the war, but was reactivated in 1946 as the Tonga Defense Services (TDS); in 2013, the name of the TDS was changed to His Majesty’s Armed Forces of Tonga (HMAF); Tongan troops deployed to Iraq from 2004-2008 and Afghanistan to support UK forces from 2010-2014<br><br>Tonga has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Tonga's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>
+the HMAF’s primary missions are protecting the King and Tonga’s sovereignty; it is also responsible for humanitarian assistance and disaster relief,  search and rescue operations, monitoring against illegal fishing, and delivering supplies to the outer islands; the HMAF has contributed limited numbers of personnel to multinational military operations in Afghanistan, Iraq, and the Solomon Islands; it is a small force comprised of royal guards, marines, a few naval patrol boats, and a couple of aircraft for maritime patrolling, search and rescue, and training purposes <br><br>Tonga participated in World War I as part of the New Zealand Expeditionary Force, but the Tonga Defense Force (TDF) was not established until 1939 at the beginning of World War II; in 1943, New Zealand helped train about 2,000 Tongan troops who saw action in the Solomon Islands; the TDF was disbanded at the end of the war, but was reactivated in 1946 as the Tonga Defense Services (TDS); in 2013, the name of the TDS was changed to His Majesty’s Armed Forces of Tonga (HMAF); Tongan troops deployed to Iraq from 2004-2008 and Afghanistan to support UK forces from 2010-2014<br><br>Tonga has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Tonga's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>
 
 ## Transnational Issues
 

@@ -684,8 +684,8 @@ approximately 7,000 total active-duty personnel (5,000 Army; 1,500 Navy; 500 Air
 since joining NATO, the military has been in the process of modernizing by retiring its inventory of Soviet-era weapons and replacing them with Western equipment, including donated and secondhand purchases&nbsp; (2023)<br>
 
 **Military service age and obligation**<br>
-18-27 (up to 32 in some cases) for voluntary military service for men and women; conscription abolished 2010 (2023)<br>
-<strong>note: </strong>as of 2023, women comprised about 15% of the military's full-time personnel, including 20% of the officers<br>
+18-27 (up to 32 in some cases) for voluntary military service for men and women; conscription abolished 2010 (2024)<br>
+<strong>note: </strong>as of 2024, women comprised about 15% of the military's full-time personnel<br>
 
 **Military - note**<br>
 the Albanian Armed Forces (AAF) are responsible for defending the country&rsquo;s independence, sovereignty, and territory, assisting with internal security, providing disaster and humanitarian relief, and participating in international peacekeeping missions; the it is a small, lightly armed force that has been undergoing a modernization effort to improve its ability to fulfill NATO missions, including training and equipment purchases; the AAF has contributed small numbers of forces to several NATO missions since Albania joined NATO in 2009, including peacekeeping/stability missions in Afghanistan, Kosovo, and Iraq, and multinational battlegroups in Bulgaria and Latvia; it has also contributed to EU and UN missions (2024)<br>

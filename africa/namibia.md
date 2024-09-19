@@ -679,7 +679,7 @@ Namibian Defense Force (NDF): Army, Navy, Air Force (2024)<br>
 3.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 12,500 personnel (11,000 Army; 1,000 Navy; 500 Air Force) (2023)<br>
+information varies; approximately 12,000 personnel (10,000 Army; 1,000 Navy; 1,000 Air Force) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the NDF's inventory consists of a mix of Soviet-era and some more modern systems from a variety of countries, including Brazil, China, Germany, India, and South Africa; in recent years, China has been the leading supplier; Namibia has a small defense industry that produces items such as armored personnel carriers (2023)<br>
@@ -689,7 +689,7 @@ the NDF's inventory consists of a mix of Soviet-era and some more modern systems
 <strong>note:</strong> as of 2018, women comprised more than 20% of the active duty military<br>
 
 **Military - note**<br>
-the NDF’s primary responsibility is external security; it has participated in UN and regional peacekeeping and security missions and provides assistance to civil authorities as needed; it also participates in multinational training exercises<br><br>the NDF was created in 1990, largely from demobilized former members of the People's Liberation Army of Namibia (PLAN) and the South West Africa Territorial Force (SWATF); the PLAN was the armed wing of the South West Africa People’s Organization (SWAPO), while SWATF was an auxiliary of the South African Defense Force and comprised the armed forces of the former South West Africa, 1977-1989; from 1990-1995, the British military assisted with the forming and training the NDF (2023)<br>
+the NDF’s primary responsibility is defending Namibia's territorial integrity and national interests; it has participated in UN and regional peacekeeping and security missions and provides assistance to civil authorities as needed; it also participates in multinational training exercises<br><br>the NDF was created in 1990, largely from demobilized former members of the People's Liberation Army of Namibia (PLAN) and the South West Africa Territorial Force (SWATF); the PLAN was the armed wing of the South West Africa People’s Organization (SWAPO), while SWATF was an auxiliary of the South African Defense Force and comprised the armed forces of the former South West Africa, 1977-1989; from 1990-1995, the British military assisted with the forming and training the NDF (2024)<br>
 
 ## Transnational Issues
 

@@ -581,7 +581,7 @@ approximately 180,000 active-duty troops (95,000 Army; 45,000 Navy, including ap
 <strong>note: </strong>Taiwan trains about 120,000 reservists annually, but in 2022 announced intentions to increase that figure to 260,000<br>
 
 **Military equipment inventories and acquisitions**<br>
-most of the weapons and equipment inventory of Taiwan's military forces was acquired from the US, either as secondhand or direct acquisitions; Taiwan also has a domestic defense industry capable of building and upgrading some weapons systems, including surface ships and submarines (2024)<br>
+most of the Taiwan military's equipment inventory was acquired from the US, either as secondhand or direct acquisitions; Taiwan also has a domestic defense industry which produces weapons systems such as missiles and naval platforms (2024)<br>
 
 **Military service age and obligation**<br>
 men 18-36 years of age may volunteer or must complete 12 months of compulsory military service; civil service can be substituted for military service in some cases; women may enlist but are restricted to noncombat roles in most cases (2024)<br>
