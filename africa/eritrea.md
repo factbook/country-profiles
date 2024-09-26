@@ -326,9 +326,10 @@ _election results_: <em><br>1993:</em> ISAIAS Afwerki elected president by the t
 <strong>note:</strong> the president is both chief of state and head of government and is head of the State Council and National Assembly<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly (Hagerawi Baito) (150 seats; 75 members directly elected by simple majority vote and 75 members indirectly elected by the ruling party; members serve 5-year terms)<br>
-_elections_: in May 1997, following the adoption of the new constitution, 75 members of the PFDJ Central Committee (the old Central Committee of the EPLF), 60 members of the 527-member Constituent Assembly, which had been established in 1997 to discuss and ratify the new constitution, and 15 representatives of Eritreans living abroad were formed into a Transitional National Assembly to serve as the country's legislative body until countrywide elections to form a National Assembly were held; although only 75 of 150 members of the Transitional National Assembly were elected, the constitution stipulates that once past the transition stage, all members of the National Assembly will be elected by secret ballot of all eligible voters; National Assembly elections scheduled for December 2001 were postponed indefinitely due to the war with Ethiopia, and as of 2023, no sitting legislative body exists<br>
+_description_: National Assembly (Hagerawi Baito) (seats - NA; members to be directly elected to serve 5-year terms)<br>
+_elections_: NA<br>
 _election results_: NA<br>
+note: in May 1997, following the adoption of the new constitution, the government formed a Transitional National Assembly to serve as the country's legislative body until countrywide elections to form a National Assembly were held; the constitution stipulates that once past the transition stage, all members of the National Assembly will be elected by secret ballot of all eligible voters; National Assembly elections scheduled for December 2001 were postponed indefinitely due to the war with Ethiopia; as of 2024, no sitting legislative body exists<br>
 
 **Judicial branch**<br>
 _highest court(s)_: High Court (consists of 20 judges and organized into civil, commercial, criminal, labor, administrative, and customary sections)<br>

@@ -321,9 +321,9 @@ _election results_: <em><br>2024: </em>AZALI Assoumani reelected president in fi
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: unicameral Assembly of the Union (33 seats; 24 members directly elected by absolute majority vote in 2 rounds if needed and 9 members indirectly elected by the 3 island assemblies; members serve 5-year terms)<br>
+_description_: unicameral Assembly of the Union (24 members directly elected by absolute majority vote in 2 rounds if needed; members serve 5-year terms)<br>
 _elections_: last held on&nbsp;19 January 2020 with a runoff on 23&nbsp;February 2020 (next to be held in 2025)<br>
-_election results_: percent of vote by party in first round - CRC 60.9%, Orange Party 4.3%, independent 30.8%, other 4%; seats by party in the first round -  CRC 16, Orange Party 1, independent 2; percent of vote by party in the second round - CRC 54.1%, Orange Party 18.9%, independent 26.1%, other 1%; seats by party in the second round - CRC 4, Orange Party 1; note - 9 additional seats filled by the 3 island assemblies; composition - men 20, women 4, percentage women 16.7%; note - main opposition parties boycotted election; <br> <h3> </h3><br>
+_election results_: percent of vote by party in first round - CRC 60.9%, Orange Party 4.3%, independent 30.8%, other 4%; seats by party in the first round -  CRC 16, Orange Party 1, independent 2; percent of vote by party in the second round - CRC 54.1%, Orange Party 18.9%, independent 26.1%, other 1%; seats by party in the second round - CRC 4, Orange Party 1; composition - men 20, women 4, percentage women 16.7%; note - main opposition parties boycotted election; <br> <h3> </h3><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of 7 judges)<br>

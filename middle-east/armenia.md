@@ -663,7 +663,7 @@ Armenian Republic Armed Forces: Armenian Army (includes land, air, air defense f
 approximately 45,000 active troops (42,000 ground; 3,000 air/defense) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes mostly Russian and Soviet-era equipment (2024)<br>
+the military's inventory includes mostly Russian and Soviet-era equipment; in recent years however, Armenia has looked to other countries besides Russia to provide military hardware, including France and India (2024)<br>
 
 **Military service age and obligation**<br>
 18-27 for voluntary (men and women), contract (men and women) or compulsory (men) military service; contract military service is 3-12 months or 3 or 5 years; conscripts serve 24 months; men under the age of 36, who have not previously served as contract servicemen and are registered in the reserve, as well as women, regardless of whether they are registered in the reserve can be enrolled in contractual military service; all citizens aged 27 to 50 are registered in the military reserve and may be called to serve if mobilization is declared (2023)<br>

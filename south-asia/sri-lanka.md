@@ -333,12 +333,11 @@ _residency requirement for naturalization_: 7 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Ranil WICKREMESINGHE (since 20 July 2022)<br>
-_head of government_: President Ranil WICKREMESINGHE (since 20 July 2022)<br>
+_chief of state_: President Anura Kumara DISSANAYAKE (since 23 September 2024)<br>
+_head of government_: vacant; Prime Minister Dinesh GUNAWARDENE resigned on 23 September 2024)<br>
 _cabinet_: Cabinet appointed by the president in consultation with the prime minister<br>
-_elections/appointments_: president directly elected by preferential majority popular vote for a 5-year term (eligible for a second term); election last held on 16 November 2019 (next to be held between mid-September and mid-October 2024)<br>
-_election results_: <br><em>2022: </em>Ranil WICKREMESINGHE elected president by Parliament on 20 July 2022; Parliament vote - WICKREMESINGHE (UNP) 134, Dullas ALAHAPPERUMA (SLPP) 82<br><br><em>2019:</em> Gotabaya RAJAPAKSA elected president; percent of vote - Gotabaya RAJAPAKSA (SLPP) 52.2%, Sajith PREMADASA (UNP) 42%, other 5.8%<br>
-<strong>Note</strong>: amid public protests which began in March 2022, President Gotabaya RAJAPAKSA fled the country on 13 July and Ranil WICKREMESINGHE became acting president; RAJAPAKSA announced his resignation on the 14th, which was accepted by the speaker of Parliament the following day<br>
+_elections/appointments_: president directly elected by preferential majority popular vote for a 5-year term (eligible for a second term); election last held on 21 September 2024 (next to be held in 2029)<br>
+_election results_: <em><br>2024: </em>Anura Kumara DISSANAYAKE elected president; percent of vote after reallocation - Anura Kumara DISSANAYAKE (JVP) 55.9%, Sajith PREMADASA (SJB) 44.1%<br><em><br>2022: </em>Ranil WICKREMESINGHE elected president by Parliament on 20 July 2022; Parliament vote - WICKREMESINGHE (UNP) 134, Dullas ALAHAPPERUMA (SLPP) 82<br><br><br> <h3> </h3><br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (225 seats; 196 members directly elected in multi-seat district constituencies by proportional representation vote using a preferential method in which voters select 3 candidates in order of preference; remaining 29 seats, referred to as the "national list" are allocated by each party secretary according to the island wide proportional vote the party obtains; members serve 5-year terms)<br>

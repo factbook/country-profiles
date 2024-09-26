@@ -142,12 +142,12 @@ none (territory of Australia)<br>
 **National holiday**<br>
 Australia Day (commemorates the arrival of the First Fleet of Australian settlers), 26 January (1788)<br>
 
+**Legal system**<br>
+legal system is under the authority of the governor general of Australia and Australian law<br>
+
 **Constitution**<br>
 _history_: 1 October 1958 (Christmas Island Act 1958)<br>
 _amendments_: amended many times, last in 2020<br>
-
-**Legal system**<br>
-legal system is under the authority of the governor general of Australia and Australian law<br>
 
 **Citizenship**<br>
 see Australia<br>

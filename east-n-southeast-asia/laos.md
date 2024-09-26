@@ -338,7 +338,7 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President THONGLOUN Sisoulith (since 22 March 2021)<br>
-_head of government_: Prime Minister SONEXAY Siphandon (since 30 December 2022)<br>
+_head of government_: Prime Minister SONEXAY (also spelled SONXAI) Siphandon (since 30 December 2022)<br>
 _cabinet_: Council of Ministers appointed by the president and approved by the National Assembly<br>
 _elections/appointments_: president and vice president indirectly elected by the National Assembly for a 5-year term (no term limits); election last held on 22 March 2021 (next to be held in March 2026); prime minister nominated by the president, elected by the National Assembly for a 5-year term<br>
 _election results_: <em><br>2021: </em>THONGLOUN Sisoulith (LPRP) elected president; National Assembly vote - 161-1; PHANKHAM Viphavanh (LPRP) elected prime minister; National Assembly vote - 158-3<br><br><em>2016:</em> BOUNNHANG Vorachit (LPRP) elected president; percent of National Assembly vote - NA; THONGLOUN Sisoulith (LPRP) elected prime minister; percent of National Assembly vote - NA<br>
@@ -368,7 +368,7 @@ _FAX_: [1] (202) 332-4923<br>
 _email address and website_: <br>embasslao@gmail.com<br><br>https://laoembassy.com/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Michelle OUTLAW (since August 2023)<br>
+_chief of mission_: Ambassador Heather VARIAVA (since 5 February 2024)<br>
 _embassy_: Ban Somvang Tai, Thadeua Road, Km 9,&nbsp;Hatsayfong District, Vientiane<br>
 _mailing address_: 4350 Vientiane Place, Washington DC&nbsp; 20521-4350<br>
 _telephone_: [856] 21-48-7000<br>

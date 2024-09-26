@@ -198,12 +198,12 @@ none (overseas collectivity of France)<br>
 **National holiday**<br>
 F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790); note - local holiday is Schoelcher Day (Slavery Abolition Day) 12 July (1848), as well as St. Martin's Day, 11 November (1985), which commemorates the discovery of the island by COLUMBUS on Saint Martin's Day, 11 November 1493; the latter holiday celebrated on both halves of the island<br>
 
+**Legal system**<br>
+French civil law<br>
+
 **Constitution**<br>
 _history_: 4 October 1958 (French Constitution)<br>
 _amendments_: amendment procedures of France's constitution apply<br>
-
-**Legal system**<br>
-French civil law<br>
 
 **Citizenship**<br>
 see France<br>

@@ -141,12 +141,12 @@ none (territory of Australia)<br>
 **National holiday**<br>
 Bounty Day (commemorates the arrival of Pitcairn Islanders), 8 June (1856)<br>
 
+**Legal system**<br>
+English common law and the laws of Australia<br>
+
 **Constitution**<br>
 _history_: previous 1913, 1957; latest effective 7 August 1979<br>
 _amendments_: amended many times, last in 2020<br>
-
-**Legal system**<br>
-English common law and the laws of Australia<br>
 
 **Citizenship**<br>
 see Australia<br>

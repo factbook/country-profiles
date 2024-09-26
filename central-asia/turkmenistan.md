@@ -640,7 +640,7 @@ _by type_: general cargo 6, oil tanker 8, other 59<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Turkmenistan (aka Turkmen National Army): Land Forces, Navy, Air and Air Defense Forces<br><br>Ministry of Internal Affairs: Internal Troops, national police, Federal/State Border Guard Service (2023)<br>
+Armed Forces of Turkmenistan (aka Turkmen National Army): Land Forces, Navy, Air and Air Defense Forces<br><br>Ministry of Internal Affairs: Internal Troops, national police, Federal/State Border Guard Service (2024)<br>
 
 **Military expenditures**<br>
 1.9% of GDP (2019 est.)<br>
@@ -653,13 +653,13 @@ Armed Forces of Turkmenistan (aka Turkmen National Army): Land Forces, Navy, Air
 information varies; estimated 35,000 active-duty troops (30,000 Army; 1,000 Navy; 4,000 Air and Air Defense Forces) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory for Turkmenistan's military is comprised largely of older Russian and Soviet-era weapons systems; in recent years however, it has attempted to diversify and purchased equipment from more than a dozen countries, with China, Italy, and Turkey as the top suppliers (2023)<br>
+the inventory for Turkmenistan's military is comprised largely of Russian and Soviet-era weapons systems; in recent years however, it has attempted to diversify and purchased equipment from more than a dozen countries, including China, Italy, and Turkey (2023)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory military service for men; 24-month conscript service obligation (30 months for the Navy); 20 years of age for voluntary service for men and women; men may enroll in military schools from age 15 (2023)<br>
 
 **Military - note**<br>
-the military is responsible for external defense and works closely with the Border Service on protecting the country’s borders; it is conscript-based and equipped with Soviet-era arms; while Turkmenistan has a policy of permanent and "positive" neutrality and has declined to participate in post-Soviet military groupings such as the Collective Security Treaty Organization and the Shanghai Cooperation Organization, it has participated in multinational exercises and bilateral training with neighboring countries, including Russia and Uzbekistan; Turkmenistan joined NATO's Partnership for Peace program in 1994, but it does not offer any military forces to NATO-led operations<br><br>in recent years, Turkmenistan has made efforts to strengthen its naval capabilities on the Caspian Sea, including expanding ship building capabilities and adding larger vessels to the Navy’s inventory; in 2018, Turkmenistan opened its first naval shipyard, and in 2021 the Navy commissioned its largest warship, a corvette that was jointly constructed with Turkey, to complement a small existing force of coastal patrol craft (2023)<br>
+the military is responsible for external defense and works closely with the Border Service on protecting the country’s borders; while Turkmenistan has a policy of permanent and "positive" neutrality and has declined to participate in post-Soviet military groupings such as the Collective Security Treaty Organization and the Shanghai Cooperation Organization, it has participated in multinational exercises and bilateral training with neighboring countries, including Russia and Uzbekistan; Turkmenistan joined NATO's Partnership for Peace program in 1994, but it does not offer any military forces to NATO-led operations<br><br>in recent years, Turkmenistan has made efforts to strengthen its naval capabilities on the Caspian Sea, including expanding ship building capabilities, building a new naval base, and adding larger vessels to the Navy’s inventory; in 2018, Turkmenistan opened its first naval shipyard, and in 2021 the Navy commissioned its largest warship, a corvette that was jointly constructed with Turkey, to complement a small existing force of coastal patrol craft (2023)<br>
 
 ## Space
 

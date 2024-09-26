@@ -680,7 +680,7 @@ _key ports_: Colonia, Fray Bentos, Jose Ignacio, La Paloma, Montevideo, Nueva Pa
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Uruguay (Fuerzas Armadas del Uruguay): National Army (Ejercito Nacional), National Navy (Armada Nacional, includes Coast Guard (Prefectura Nacional Naval or PRENA)), Uruguayan Air Force (Fuerza Aerea)<br><br>Ministry of Interior: National Police (2024)<br>
+Armed Forces of Uruguay (Fuerzas Armadas del Uruguay or FF.AA. del Uruguay): National Army (Ejercito Nacional), National Navy (Armada Nacional, includes Coast Guard (Prefectura Nacional Naval or PRENA)), Uruguayan Air Force (Fuerza Aerea)<br><br>Ministry of Interior: National Police (2024)<br>
 <strong>note: </strong>the National Police includes the paramilitary National Republican Guard (Guardia Nacional Republicana); the National Police maintains internal security, while the National Directorate for Migration is responsible for migration and border enforcement<br>
 
 **Military expenditures**<br>
@@ -704,7 +704,7 @@ the military's inventory includes a wide variety of older or second-hand equipme
 600 Democratic Republic of the Congo (MONUSCO); 200 Golan Heights (UNDOF) (2024)<br>
 
 **Military - note**<br>
-the armed forces are responsible for defense of the country&rsquo;s independence, national sovereignty, and territorial integrity, as well as protecting strategic resources; it has some domestic responsibilities, including perimeter security for a number of prisons and border security and providing humanitarian/disaster assistance; in 2020, the military deployed more than 1,000 troops to assist the National Police in securing the land border with Brazil and the riverine border with Argentina as part of a border control law passed in 2018; the military also participates in UN peacekeeping missions and multinational exercises with foreign partners; Uruguay has traditionally held security ties with Argentina, Brazil, Peru, and the US; since 2018, it has also signed defense cooperation agreements with China and Russia (2023)<br>
+the armed forces are responsible for defense of the country&rsquo;s independence, national sovereignty, and territorial integrity, as well as protecting strategic resources; it has some domestic responsibilities, including perimeter security for a number of prisons and border security and providing humanitarian/disaster assistance; since 2020, the military has deployed additional troops to the frontiers with Argentina and Brazil to assist the National Police in securing the border; it also assists the Ministry of Interior in combating narcotics trafficking; the military participates in UN peacekeeping missions and multinational exercises with foreign partners; Uruguay has traditionally held security ties with Argentina, Brazil, Peru, and the US; since 2018, it has also signed defense cooperation agreements with China and Russia (2024)<br>
 
 ## Transnational Issues
 

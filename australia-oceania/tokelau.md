@@ -176,12 +176,12 @@ none (territory of New Zealand)<br>
 **National holiday**<br>
 Waitangi Day (Treaty of Waitangi established British sovereignty over New Zealand), 6 February (1840)<br>
 
+**Legal system**<br>
+common law system of New Zealand<br>
+
 **Constitution**<br>
 _history_: many previous; latest effective 1 January 1949 (Tokelau Islands Act 1948)<br>
 _amendments_: proposed as a resolution by the General Fono; passage requires support by each village and approval by the General Fono; amended several times, last in 2007<br>
-
-**Legal system**<br>
-common law system of New Zealand<br>
 
 **Citizenship**<br>
 see New Zealand<br>

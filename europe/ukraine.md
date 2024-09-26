@@ -400,7 +400,7 @@ _selected World Heritage Site locales_: Kyiv: Saint Sophia Cathedral and Related
 ## Economy
 
 **Economic overview**<br>
-lower- middle-income, non-EU Eastern European economy; key wheat and corn exporter; gradual recovery after 30% GDP contraction at start of war; damage to infrastructure and agriculture balanced by consumer and business resilience; international aid has stabilized foreign exchange reserves, allowing managed currency float; continued progress on anti-corruption reforms<br>
+lower-middle-income, non-EU, Eastern European economy; key wheat and corn exporter; gradual recovery after 30% GDP contraction at start of war; damage to infrastructure and agriculture balanced by consumer and business resilience; international aid has stabilized foreign exchange reserves, allowing managed currency float; continued progress on anti-corruption reforms<br>
 
 **Real GDP (purchasing power parity)**<br>
 $559.981 billion (2023 est.)<br>
@@ -711,11 +711,11 @@ Armed Forces of Ukraine (AFU; Zbroyni Syly Ukrayiny or ZSU): Ground Forces (Sukh
 <strong>note:</strong> since Russia's invasion of the country in early 2022, defense spending has increased to more than 25% of GDP according to some estimates<br>
 
 **Military and security service personnel strengths**<br>
-at least 700,000 under arms, including the Armed Forces, Territorial Defense Forces, National Guard, and State Border Guard (2022)<br>
+estimated 800,000 active Armed Forces personnel (2024)<br>
 <strong>note 1:</strong> following the Russian invasion of Ukraine in February 2022, President ZELENSKY announced a general mobilization of the country; prior to the invasion, approximately 200,000 active Armed Forces troops (125,000 Army; 25,000 Airborne/Air Assault Forces; 2,000 Special Operations Forces; 10,000 Navy; 40,000 Air Force); approximately 50,000 National Guard; approximately 40,000 State Border Guard<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Ukrainian military is equipped largely with Russian-origin and Soviet-era weapons systems, although it has a growing inventory of Western-origin equipment; since the full-scale Russian invasion in February 2022, it has received considerable quantities of weapons, including Soviet-era and more modern Western systems, from European countries and the US; Ukraine has a broad defense industry capable of building, maintaining, and upgrading a variety of its Russian/Soviet-era weapons systems, including armored vehicles, combat aircraft, missiles, and air defense systems (2023)<br>
+prior to the full-scale Russian invasion in February 2022, the Ukrainian military was equipped largely with Russian-origin and Soviet-era weapons systems; since the invasion, it has received considerable quantities of weapons, including Soviet-era and more modern Western systems, from European countries and the US; Ukraine has a broad defense industry capable of building, maintaining, and upgrading a variety of weapons systems (2024)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary service; conscription abolished in 2012, but reintroduced for men in 2014; 25 years of age for conscription; prior to the Russian invasion of February 2022, conscript service obligation was 12-18 months, depending on the service (2024)<br>

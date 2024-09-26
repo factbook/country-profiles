@@ -240,12 +240,12 @@ none (overseas territory of the UK)<br>
 **National holiday**<br>
 Birthday of Queen ELIZABETH II, usually celebrated the Monday after the second Saturday in June (1926)<br>
 
+**Legal system**<br>
+English common law<br>
+
 **Constitution**<br>
 _history_: previous 1960; latest put into force 20 October 2010 (The Montserrat Constitution Order 2010)<br>
 _amendments_: amended 2011, 2020<br>
-
-**Legal system**<br>
-English common law<br>
 
 **Citizenship**<br>
 see United Kingdom<br>

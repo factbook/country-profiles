@@ -241,11 +241,11 @@ none (overseas territory of the UK)<br>
 **National holiday**<br>
 Official birthday of King Charles III, April or June as designated by the governor<br>
 
-**Constitution**<br>
-_history_: several previous; latest effective 1 September 2009 (St Helena, Ascension and Tristan da Cunha Constitution Order 2009)<br>
-
 **Legal system**<br>
 English common law and local statutes<br>
+
+**Constitution**<br>
+_history_: several previous; latest effective 1 September 2009 (St Helena, Ascension and Tristan da Cunha Constitution Order 2009)<br>
 
 **Citizenship**<br>
 see United Kingdom<br>

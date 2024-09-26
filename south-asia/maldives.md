@@ -632,7 +632,7 @@ India has provided most of the equipment in the MNDF's inventory (2023)<br>
 18-28 years of age for voluntary service; no conscription; 10th grade or equivalent education required; must not be a member of a political party (2023)<br>
 
 **Military - note**<br>
-the Maldives National Defense Force (MNDF) is responsible for defending and safeguarding the Maldives' territorial integrity, economic exclusion zone, and people; it is also responsible for disaster relief, and if requested, assisting the Maldives Police Service in maintaining internal security and law and order; the MNDF is organized into four area commands and a functional Special Forces command; the head of the MNDF reports to the Minister of Defense (2023)<br>
+the Maldives National Defense Force (MNDF) is responsible for defending and safeguarding the Maldives' territorial integrity, economic exclusion zone, and people; it is also responsible for disaster relief, and if requested, assisting the Maldives Police Service in maintaining internal security and law and order; the MNDF is organized into four area commands and a functional Special Forces command; the head of the MNDF reports to the Minister of Defense (2024)<br>
 
 ## Terrorism
 

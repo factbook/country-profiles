@@ -338,6 +338,7 @@ _election results_: <em><br>2021:</em> Ismail Omar GUELLEH reelected president f
 _description_: unicameral National Assembly or Assembl&eacute;e Nationale, formerly the Chamber of Deputies (65 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 5-year terms)<br>
 _elections_: last held on 24 February 2023 (next to be held in February 2028)<br>
 _election results_: percent of vote by party - UMP 93.6%, UDJ 6.3%; seats by party - UMP 58, UDJ 7; composition - men 48, women 17, percentage women 26.2%<br>
+<strong>note:</strong>  most opposition parties boycotted the polls in 2023, stating the elections were “not free, not transparent and not democratic"<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of NA magistrates); Constitutional Council (consists of 6 magistrates)<br>
