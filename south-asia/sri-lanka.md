@@ -334,7 +334,7 @@ _residency requirement for naturalization_: 7 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Anura Kumara DISSANAYAKE (since 23 September 2024)<br>
-_head of government_: vacant; Prime Minister Dinesh GUNAWARDENE resigned on 23 September 2024)<br>
+_head of government_: Prime Minister Harini AMARASURIYA&nbsp; (since 24 September 2024)<br>
 _cabinet_: Cabinet appointed by the president in consultation with the prime minister<br>
 _elections/appointments_: president directly elected by preferential majority popular vote for a 5-year term (eligible for a second term); election last held on 21 September 2024 (next to be held in 2029)<br>
 _election results_: <em><br>2024: </em>Anura Kumara DISSANAYAKE elected president; percent of vote after reallocation - Anura Kumara DISSANAYAKE (JVP) 55.9%, Sajith PREMADASA (SJB) 44.1%<br><em><br>2022: </em>Ranil WICKREMESINGHE elected president by Parliament on 20 July 2022; Parliament vote - WICKREMESINGHE (UNP) 134, Dullas ALAHAPPERUMA (SLPP) 82<br><br><br> <h3> </h3><br>
@@ -427,17 +427,19 @@ _Standard & Poors rating_: CCC+ (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 7.8% (2017 est.)<br>
-_industry_: 30.5% (2017 est.)<br>
-_services_: 61.7% (2017 est.)<br>
+_agriculture_: 8.3% (2023 est.)<br>
+_industry_: 25.6% (2023 est.)<br>
+_services_: 59.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 62% (2017 est.)<br>
-_government consumption_: 8.5% (2017 est.)<br>
-_investment in fixed capital_: 26.3% (2017 est.)<br>
-_investment in inventories_: 10.2% (2017 est.)<br>
-_exports of goods and services_: 21.9% (2017 est.)<br>
-_imports of goods and services_: -29.1% (2017 est.)<br>
+_household consumption_: 69.3% (2023 est.)<br>
+_government consumption_: 6.9% (2023 est.)<br>
+_investment in fixed capital_: 17.6% (2023 est.)<br>
+_investment in inventories_: 7.7% (2023 est.)<br>
+_exports of goods and services_: 20.4% (2023 est.)<br>
+_imports of goods and services_: -21.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 rice, coconuts, plantains, tea, sugarcane, milk, cassava, fiber crops, maize, chicken (2022)<br>
@@ -475,8 +477,8 @@ _female_: 33.9% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 27.7% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 3.4% of household expenditures (2021 est.)<br>
+_on food_: 26.8% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 3.4% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.1% (2019 est.)<br>
@@ -542,8 +544,8 @@ $7.648 billion (2019 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$55.332 billion (2019 est.)<br>
-$52.567 billion (2018 est.)<br>
+$37.487 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Sri Lankan rupees (LKR) per US dollar -<br>

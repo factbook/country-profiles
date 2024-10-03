@@ -375,17 +375,15 @@ $460 million (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 26.3% (2013 est.)<br>
-_industry_: 18.9% (2013 est.)<br>
-_services_: 54.8% (2013 est.)<br>
+_agriculture_: 22.5% (2023 est.)<br>
+_industry_: 4.9% (2023 est.)<br>
+_services_: 66.8% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 83.5% (2013 est.)<br>
-_government consumption_: 48.4% (2016 est.)<br>
-_investment in fixed capital_: 29.5% (2016 est.)<br>
-_investment in inventories_: 1.9% (2016 est.)<br>
-_exports of goods and services_: 27.5% (2016 est.)<br>
-_imports of goods and services_: -77% (2016 est.)<br>
+_exports of goods and services_: 27.3% (2023 est.)<br>
+_imports of goods and services_: -67.5% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 coconuts, cassava, vegetables, sweet potatoes, bananas, pork, plantains, fruits, beef, eggs (2022)<br>
@@ -460,10 +458,6 @@ $497.434 million (2021 est.)<br>
 $451.913 million (2020 est.)<br>
 $397.158 million (2019 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$93.6 million (2013 est.)<br>
-$93.5 million (2012 est.)<br>
 
 **Exchange rates**<br>
 <p>the US dollar is used</p><br>

@@ -375,7 +375,7 @@ Alliance for Citizenship and Work or ACT <br>Alliance for the Republic-Yakaar o
 ACP, AfDB, AU, CD, CPLP (associate), ECOWAS, EITI (candidate country), FAO, FZ, G-15, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Mansour Elimane KANE (since 6 January 2020)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Isidor Marcel SENE (since 31 August 2024)<br>
 _chancery_: 2215 M ST NW, Washington, D.C. 20037<br>
 _telephone_: [1] (202) 234-0540<br>
 _FAX_: [1] (202) 629-2961<br>
@@ -444,17 +444,19 @@ _Standard & Poors rating_: B+ (2000)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 16.9% (2017 est.)<br>
-_industry_: 24.3% (2017 est.)<br>
-_services_: 58.8% (2017 est.)<br>
+_agriculture_: 16.4% (2023 est.)<br>
+_industry_: 23.7% (2023 est.)<br>
+_services_: 50.8% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 71.9% (2017 est.)<br>
-_government consumption_: 15.2% (2017 est.)<br>
-_investment in fixed capital_: 25.1% (2017 est.)<br>
-_investment in inventories_: 3.4% (2017 est.)<br>
-_exports of goods and services_: 27% (2017 est.)<br>
-_imports of goods and services_: -42.8% (2017 est.)<br>
+_household consumption_: 55.9% (2023 est.)<br>
+_government consumption_: 14.7% (2023 est.)<br>
+_investment in fixed capital_: 38.4% (2023 est.)<br>
+_investment in inventories_: 9% (2023 est.)<br>
+_exports of goods and services_: 25.6% (2023 est.)<br>
+_imports of goods and services_: -43.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 groundnuts, watermelons, rice, cassava, sugarcane, millet, maize, onions, sorghum, milk (2022)<br>
@@ -548,8 +550,8 @@ $1.827 billion (31 December 2017 est.)<br>
 $116.9 million (31 December 2016 est.)<br>
 
 **Debt - external**<br>
-$8.571 billion (31 December 2017 est.)<br>
-$6.327 billion (31 December 2016 est.)<br>
+$12.652 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>

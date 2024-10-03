@@ -369,7 +369,7 @@ _subordinate courts_: civil courts include: Assistant Judge's Court; Joint Distr
 ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, D-8, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSCA, MONUSCO, NAM, OIC, OPCW, PCA, SAARC, SACEP, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNIFIL, UNMISS, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Muhammad IMRAN (since 12 December 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires DM Salahuddin MAHMUD (since 12 September 2024)<br>
 _chancery_: 3510 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 244-0183<br>
 _FAX_: [1] (202) 244-2771<br>
@@ -439,17 +439,18 @@ _Standard & Poors rating_: BB- (2010)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 14.2% (2017 est.)<br>
-_industry_: 29.3% (2017 est.)<br>
-_services_: 56.5% (2017 est.)<br>
+_agriculture_: 11% (2023 est.)<br>
+_industry_: 34.6% (2023 est.)<br>
+_services_: 51.1% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 68.7% (2017 est.)<br>
-_government consumption_: 6% (2017 est.)<br>
-_investment in fixed capital_: 30.5% (2017 est.)<br>
-_investment in inventories_: 1% (2017 est.)<br>
-_exports of goods and services_: 15% (2017 est.)<br>
-_imports of goods and services_: -20.3% (2017 est.)<br>
+_household consumption_: 68.6% (2023 est.)<br>
+_government consumption_: 5.7% (2023 est.)<br>
+_investment in fixed capital_: 31% (2023 est.)<br>
+_exports of goods and services_: 13.2% (2023 est.)<br>
+_imports of goods and services_: -17.8% (2023 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 rice, milk, potatoes, maize, sugarcane, onions, vegetables, jute, mangoes/guavas, tropical fruits (2022)<br>
@@ -487,8 +488,8 @@ _female_: 20.4% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 52.7% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 2.1% of household expenditures (2021 est.)<br>
+_on food_: 52.7% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 2.1% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.5% (2022 est.)<br>
@@ -553,8 +554,8 @@ $46.166 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$50.26 billion (31 December 2017 est.)<br>
-$41.85 billion (31 December 2016 est.)<br>
+$53.63 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: taka (BDT) per US dollar -<br>

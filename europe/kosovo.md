@@ -353,17 +353,19 @@ $10.438 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 11.9% (2017 est.)<br>
-_industry_: 17.7% (2017 est.)<br>
-_services_: 70.4% (2017 est.)<br>
+_agriculture_: 7.8% (2023 est.)<br>
+_industry_: 26.3% (2023 est.)<br>
+_services_: 46% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 84.3% (2017 est.)<br>
-_government consumption_: 13.6% (2017 est.)<br>
-_investment in fixed capital_: 29% (2017 est.)<br>
-_investment in inventories_: 0% (2016 est.)<br>
-_exports of goods and services_: 27% (2017 est.)<br>
-_imports of goods and services_: -53.8% (2017 est.)<br>
+_household consumption_: 83.9% (2023 est.)<br>
+_government consumption_: 12.5% (2023 est.)<br>
+_investment in fixed capital_: 31.6% (2023 est.)<br>
+_investment in inventories_: 2.7% (2023 est.)<br>
+_exports of goods and services_: 39.7% (2023 est.)<br>
+_imports of goods and services_: -70.5% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 wheat, corn, berries, potatoes, peppers, fruit; dairy, livestock; fish<br>
@@ -453,10 +455,6 @@ $1.245 billion (2023 est.)<br>
 $1.248 billion (2022 est.)<br>
 $1.244 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$2.388 billion (2019 est.)<br>
-$2.409 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>

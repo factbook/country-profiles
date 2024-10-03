@@ -379,17 +379,19 @@ _Standard & Poors rating_: BB- (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.3% (2017 est.)<br>
-_industry_: 7.7% (2017 est.)<br>
-_services_: 90% (2017 est.)<br>
+_agriculture_: 0.4% (2023 est.)<br>
+_industry_: 8.8% (2023 est.)<br>
+_services_: 80.8% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 68% (2017 est.)<br>
-_government consumption_: 13% (2017 est.)<br>
-_investment in fixed capital_: 26.3% (2017 est.)<br>
-_investment in inventories_: 0.7% (2017 est.)<br>
-_exports of goods and services_: 33.7% (2017 est.)<br>
-_imports of goods and services_: -41.8% (2017 est.)<br>
+_household consumption_: 67.5% (2023 est.)<br>
+_government consumption_: 13% (2023 est.)<br>
+_investment in fixed capital_: 19.5% (2023 est.)<br>
+_investment in inventories_: 1.2% (2023 est.)<br>
+_exports of goods and services_: 39.7% (2023 est.)<br>
+_imports of goods and services_: -43% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sugarcane, grapefruits, vegetables, bananas, tomatoes, chicken, tropical fruits, oranges, coconuts, mangoes/guavas (2022)<br>
@@ -474,10 +476,6 @@ $2.512 billion (2023 est.)<br>
 $2.609 billion (2022 est.)<br>
 $2.433 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$17.56 billion (31 December 2013 est.)<br>
-$16.35 billion (31 December 2012 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Bahamian dollars (BSD) per US dollar -<br>

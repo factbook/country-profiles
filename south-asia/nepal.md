@@ -362,7 +362,7 @@ _subordinate courts_: High Court; district courts<br>
 ADB, BIMSTEC, CD, CP, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, NAM, OPCW, SAARC, SACEP, UN, UNAMID, UNCTAD, UNDOF, UNESCO, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Sridhar KHATRI (since 19 April 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Kumar Raj KHAREL (since 26 June 2024)<br>
 _chancery_: 2730 34th Place NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 667-4550<br>
 _FAX_: [1] (202) 667-5534<br>
@@ -427,17 +427,19 @@ $40.908 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 27% (2017 est.)<br>
-_industry_: 13.5% (2017 est.)<br>
-_services_: 59.5% (2017 est.)<br>
+_agriculture_: 21.2% (2023 est.)<br>
+_industry_: 12.1% (2023 est.)<br>
+_services_: 55.4% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 78% (2017 est.)<br>
-_government consumption_: 11.7% (2017 est.)<br>
-_investment in fixed capital_: 33.8% (2017 est.)<br>
-_investment in inventories_: 8.7% (2017 est.)<br>
-_exports of goods and services_: 9.8% (2017 est.)<br>
-_imports of goods and services_: -42% (2017 est.)<br>
+_household consumption_: 85.9% (2023 est.)<br>
+_government consumption_: 6.6% (2023 est.)<br>
+_investment in fixed capital_: 25.1% (2023 est.)<br>
+_investment in inventories_: 6.6% (2023 est.)<br>
+_exports of goods and services_: 7% (2023 est.)<br>
+_imports of goods and services_: -34.7% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 rice, vegetables, potatoes, sugarcane, maize, wheat, bison milk, milk, mangoes/guavas, fruits (2022)<br>
@@ -525,8 +527,8 @@ $9.639 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$5.849 billion (31 December 2017 est.)<br>
-$4.321 billion (31 December 2016 est.)<br>
+$5.677 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Nepalese rupees (NPR) per US dollar -<br>

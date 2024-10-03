@@ -431,17 +431,19 @@ _Standard & Poors rating_: BB- (2015)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 5.6% (2017 est.)<br>
-_industry_: 33% (2017 est.)<br>
-_services_: 61.4% (2017 est.)<br>
+_agriculture_: 6.4% (2023 est.)<br>
+_industry_: 31.1% (2023 est.)<br>
+_services_: 56% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 69.3% (2017 est.)<br>
-_government consumption_: 12.2% (2017 est.)<br>
-_investment in fixed capital_: 21.9% (2017 est.)<br>
-_investment in inventories_: -0.1% (2017 est.)<br>
-_exports of goods and services_: 24.8% (2017 est.)<br>
-_imports of goods and services_: -28.1% (2017 est.)<br>
+_household consumption_: 64.7% (2023 est.)<br>
+_government consumption_: 11.3% (2023 est.)<br>
+_investment in fixed capital_: 32.2% (2023 est.)<br>
+_investment in inventories_: -0.9% (2023 est.)<br>
+_exports of goods and services_: 21.1% (2023 est.)<br>
+_imports of goods and services_: -28.5% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sugarcane, bananas, papayas, plantains, rice, milk, avocados, watermelons, vegetables, pineapples (2022)<br>
@@ -479,8 +481,8 @@ _female_: 15.4% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 26.8% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 3.8% of household expenditures (2021 est.)<br>
+_on food_: 26.6% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 3.8% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6% (2022 est.)<br>
@@ -543,10 +545,6 @@ $15.547 billion (2023 est.)<br>
 $14.523 billion (2022 est.)<br>
 $13.125 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$23.094 billion (2019 est.)<br>
-$21.198 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Dominican pesos (DOP) per US dollar -<br>

@@ -363,11 +363,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: President Andr&eacute;s Manuel L&Oacute;PEZ OBRADOR (since 1 December 2018)<br>
-_head of government_: President Andr&eacute;s Manuel L&Oacute;PEZ OBRADOR (since 1 December 2018)<br>
+_chief of state_: President Claudia SHEINBAUM Pardo (since 1 October 2024)<br>
+_head of government_: President Claudia SHEINBAUM Pardo (since 1 October 2024)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a single 6-year term; election last held on 2 June 2024 (next to be held in 2030)<br>
-_election results_: <br><em>2024: </em>Claudia SHEINBAUM Pardo elected president; percent of vote - Claudia SHEINBAUM Pardo (MORENA) 59.4%, Xóchitl GÁLVEZ Ruiz (PAN) 27.9%, Jorge Álvarez MÁYNEZ (MC) 10.4%, other 2.3%; note - SHEINBAUM will take office 1 October 2024<em><br><br>2018:</em> Andrés Manuel LÓPEZ OBRADOR elected president; percent of vote - Andrés Manuel LÓPEZ OBRADOR (MORENA) 53.2%, Ricardo ANAYA Cortés (PAN) 22.3%, José Antonio MEADE Kuribreña (PRI) 16.4%, Jaime RODRÍGUEZ Calderón 5.2% (independent), other 2.9%<br><br><em>2012:</em> Enrique PEÑA NIETO elected president; percent of vote - Enrique PEÑA NIETO (PRI) 38.2%, Andrés Manuel LÓPEZ OBRADOR (PRD) 31.6%, Josefina Eugenia VÁZQUEZ Mota (PAN) 25.4%, other 4.8%<br>
+_election results_: <br><em>2024: </em>Claudia SHEINBAUM Pardo elected president; percent of vote - Claudia SHEINBAUM Pardo (MORENA) 59.4%, Xóchitl GÁLVEZ Ruiz (PAN) 27.9%, Jorge Álvarez MÁYNEZ (MC) 10.4%, other 2.3%<em><br><br>2018:</em> Andrés Manuel LÓPEZ OBRADOR elected president; percent of vote - Andrés Manuel LÓPEZ OBRADOR (MORENA) 53.2%, Ricardo ANAYA Cortés (PAN) 22.3%, José Antonio MEADE Kuribreña (PRI) 16.4%, Jaime RODRÍGUEZ Calderón 5.2% (independent), other 2.9%<br><br><em>2012:</em> Enrique PEÑA NIETO elected president; percent of vote - Enrique PEÑA NIETO (PRI) 38.2%, Andrés Manuel LÓPEZ OBRADOR (PRD) 31.6%, Josefina Eugenia VÁZQUEZ Mota (PAN) 25.4%, other 4.8%<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -463,17 +463,19 @@ _Standard & Poors rating_: BBB (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 3.6% (2017 est.)<br>
-_industry_: 31.9% (2017 est.)<br>
-_services_: 64.5% (2017 est.)<br>
+_agriculture_: 4% (2023 est.)<br>
+_industry_: 31.8% (2023 est.)<br>
+_services_: 58.3% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 67% (2017 est.)<br>
-_government consumption_: 11.8% (2017 est.)<br>
-_investment in fixed capital_: 22.3% (2017 est.)<br>
-_investment in inventories_: 0.8% (2017 est.)<br>
-_exports of goods and services_: 37.8% (2017 est.)<br>
-_imports of goods and services_: -39.7% (2017 est.)<br>
+_household consumption_: 70.4% (2023 est.)<br>
+_government consumption_: 11% (2023 est.)<br>
+_investment in fixed capital_: 24.4% (2023 est.)<br>
+_investment in inventories_: 0.4% (2023 est.)<br>
+_exports of goods and services_: 36.2% (2023 est.)<br>
+_imports of goods and services_: -37.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sugarcane, maize, milk, oranges, sorghum, tomatoes, chicken, wheat, chilies/peppers, lemons/limes (2022)<br>
@@ -511,8 +513,8 @@ _female_: 6.7% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 26.2% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 3.6% of household expenditures (2021 est.)<br>
+_on food_: 25.7% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 3.6% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.1% (2022 est.)<br>
@@ -578,8 +580,8 @@ $207.799 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$456.713 billion (2019 est.)<br>
-$448.268 billion (2018 est.)<br>
+$286.005 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Mexican pesos (MXN) per US dollar -<br>

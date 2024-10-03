@@ -399,17 +399,19 @@ $15.128 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.2% (2017 est.)<br>
-_industry_: 56.6% (2017 est.)<br>
-_services_: 42.3% (2017 est.)<br>
+_agriculture_: 1.2% (2023 est.)<br>
+_industry_: 61.8% (2023 est.)<br>
+_services_: 38.8% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 25% (2017 est.)<br>
-_government consumption_: 24.8% (2017 est.)<br>
-_investment in fixed capital_: 32.6% (2017 est.)<br>
-_investment in inventories_: 8.5% (2017 est.)<br>
-_exports of goods and services_: 45.9% (2017 est.)<br>
-_imports of goods and services_: -36.8% (2017 est.)<br>
+_household consumption_: 27.6% (2023 est.)<br>
+_government consumption_: 22.8% (2023 est.)<br>
+_investment in fixed capital_: 29.4% (2023 est.)<br>
+_investment in inventories_: 0.2% (2023 est.)<br>
+_exports of goods and services_: 76.5% (2023 est.)<br>
+_imports of goods and services_: -60% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 chicken, eggs, fruits, rice, vegetables, beans, bananas, beef, pineapples, cucumbers/gherkins (2022)<br>
@@ -493,11 +495,6 @@ $4.483 billion (2023 est.)<br>
 $5.035 billion (2022 est.)<br>
 $4.982 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$0 (2014)<br>
-$0 (2013)<br>
-<strong>note:</strong> public external debt only; private external debt unavailable<br>
 
 **Exchange rates**<br>
 _Currency_: Bruneian dollars (BND) per US dollar -<br>
@@ -635,7 +632,7 @@ the military's s inventory includes equipment and weapons systems from a wide va
 
 **Military service age and obligation**<br>
 17 years of age for voluntary military service; non-Malays are ineligible to serve (2024)<br>
-<strong>note:</strong> the Gurkha Reserve Unit (GRU) employs about 500 Gurkhas from Nepal, the majority of whom are veterans of the British Army and the Singapore Police Force who have joined the GRU as a second career<br>
+<strong>note:</strong> the Gurkha Reserve Unit (GRU) employs hundreds of Gurkhas from Nepal, the majority of whom are veterans of the British Army and the Singapore Police Force who have joined the GRU as a second career<br>
 
 **Military - note**<br>
 the Royal Brunei Armed Forces were formed in 1961 with British support as the Brunei Malay Regiment; "Royal" was added as an honorary title in 1965 and its current name was given in 1984; the military is responsible for ensuring the country’s sovereignty and territorial integrity, as well as countering outside aggression, terrorism, and insurgency <br><br>Brunei has a long-standing defense relationship with the UK and hosts a British Army garrison, which includes a Gurkha battalion and a jungle warfare school; Brunei also hosts a Singaporean military training detachment (2024)<br>

@@ -255,12 +255,12 @@ none (overseas territory of the UK)<br>
 **National holiday**<br>
 Birthday of Queen ELIZABETH II, usually celebrated the Monday after the second Saturday in June<br>
 
+**Legal system**<br>
+mixed legal system of English common law and civil law<br>
+
 **Constitution**<br>
 _history_: several previous; latest signed 7 August 2012, effective 15 October 2012 (The Turks and Caicos Constitution Order 2011)<br>
 _amendments_: NA<br>
-
-**Legal system**<br>
-mixed legal system of English common law and civil law<br>
 
 **Citizenship**<br>
 see United Kingdom<br>
@@ -339,9 +339,10 @@ $1.402 billion (2023 est.)<br>
 0.7% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.5% (2017 est.)<br>
-_industry_: 8.9% (2017 est.)<br>
-_services_: 90.6% (2017 est.)<br>
+_agriculture_: 0.4% (2016 est.)<br>
+_industry_: 9.5% (2016 est.)<br>
+_services_: 77.9% (2016 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 49% (2017 est.)<br>
@@ -404,9 +405,6 @@ US 75%, Dominican Republic 6%, Italy 3%, Switzerland 2%, China 2% (2022)<br>
 **Imports - commodities**<br>
 refined petroleum, cars, plastic products, furniture, aluminum structures (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Debt - external**<br>
-<p>NA</p><br>
 
 **Exchange rates**<br>
 <p>the US dollar is used</p><br>

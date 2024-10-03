@@ -437,17 +437,19 @@ _Standard & Poors rating_: AA+ (2011)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.9% (2017 est.)<br>
-_industry_: 19.1% (2017 est.)<br>
-_services_: 80% (2017 est.)<br>
+_agriculture_: 0.9% (2021 est.)<br>
+_industry_: 17.7% (2021 est.)<br>
+_services_: 76.7% (2021 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 68.4% (2017 est.)<br>
-_government consumption_: 17.3% (2017 est.)<br>
-_investment in fixed capital_: 17.2% (2017 est.)<br>
-_investment in inventories_: 0.1% (2017 est.)<br>
-_exports of goods and services_: 12.1% (2017 est.)<br>
-_imports of goods and services_: -15% (2017 est.)<br>
+_household consumption_: 68% (2022 est.)<br>
+_government consumption_: 13.9% (2022 est.)<br>
+_investment in fixed capital_: 21.3% (2022 est.)<br>
+_investment in inventories_: 0.6% (2022 est.)<br>
+_exports of goods and services_: 11.6% (2022 est.)<br>
+_imports of goods and services_: -15.4% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 maize, soybeans, milk, wheat, sugarcane, sugar beets, chicken, potatoes, beef, pork (2022)<br>
@@ -481,8 +483,8 @@ _female_: 7.1% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 6.7% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 1.9% of household expenditures (2021 est.)<br>
+_on food_: 6.7% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 1.8% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2% (2021 est.)<br>
@@ -546,11 +548,6 @@ $773.426 billion (2023 est.)<br>
 $706.644 billion (2022 est.)<br>
 $716.152 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$20,275,951,000,000 (2019 est.)<br>
-$19,452,478,000,000 (2018 est.)<br>
-<strong>note:</strong> approximately 4/5ths of US external debt is denominated in US dollars; foreign lenders have been willing to hold US dollar denominated debt instruments because they view the dollar as the world's reserve currency<br>
 
 **Exchange rates**<br>
 <strong>British pounds per US dollar: </strong>0.805 (2023 est.), 0.811 (2022 est.), 0.727 (2021 est.), 0.780 (2020 est.), 0.783 (2019 est.)<br><strong>Canadian dollars per US dollar: </strong>1.35 (2023 est.), 1.302 (2022 est.), 1.254 (2021 est.), 1.341 (2020 est.), 1.327 (2019 est.)<br><strong>Chinese yuan per US dollar: </strong>7.084 (2023 est.), 6.737 (2022 est.), 6.449 (2021 est.), 6.901 (2020 est.), 6.908 (2019 est.)<br><strong>euros per US dollar: </strong>0.925 (2023 est.), 0.950 (2022 est.), 0.845 (2021 est.), 0.876 (2020 est.), 0.893 (2019 est.)<br><strong>Japanese yen per US dollar: </strong>140.49 (2023 est.), 131.50 (2022 est.), 109.75 (2021 est.), 106.78 (2020 est.), 109.01 (2019 est.)<br><br><strong>note 1: </strong>the following countries and territories use the US dollar officially as their legal tender: British Virgin Islands, Ecuador, El Salvador, Marshall Islands, Micronesia, Palau, Timor Leste, Turks and Caicos, and islands of the Caribbean Netherlands (Bonaire, Sint Eustatius, and Saba)<br><br><strong>note 2: </strong>the following countries and territories use the US dollar as official legal tender alongside local currency: Bahamas, Barbados, Belize, Costa Rica, and Panama<br><br><strong>note 3: </strong>the following countries and territories widely accept the US dollar as a dominant currency but have yet to declare it as legal tender: Bermuda, Burma, Cambodia, Cayman Islands, Honduras, Nicaragua, and Somalia<br>

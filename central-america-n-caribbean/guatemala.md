@@ -428,17 +428,19 @@ _Standard & Poors rating_: BB- (2017)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 13.3% (2017 est.)<br>
-_industry_: 23.4% (2017 est.)<br>
-_services_: 63.2% (2017 est.)<br>
+_agriculture_: 9.2% (2023 est.)<br>
+_industry_: 22.2% (2023 est.)<br>
+_services_: 62.4% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 86.3% (2017 est.)<br>
-_government consumption_: 9.7% (2017 est.)<br>
-_investment in fixed capital_: 12.3% (2017 est.)<br>
-_investment in inventories_: -0.2% (2017 est.)<br>
-_exports of goods and services_: 18.8% (2017 est.)<br>
-_imports of goods and services_: -26.9% (2017 est.)<br>
+_household consumption_: 87.8% (2023 est.)<br>
+_government consumption_: 11.6% (2023 est.)<br>
+_investment in fixed capital_: 16.6% (2023 est.)<br>
+_investment in inventories_: -0.2% (2023 est.)<br>
+_exports of goods and services_: 17.2% (2023 est.)<br>
+_imports of goods and services_: -32.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sugarcane, bananas, oil palm fruit, maize, cantaloupes/melons, potatoes, milk, tomatoes, chicken, pineapples (2022)<br>
@@ -476,8 +478,8 @@ _female_: 9.6% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 41.2% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 1.6% of household expenditures (2018 est.)<br>
+_on food_: 34.4% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 1.3% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7% (2014 est.)<br>
@@ -543,8 +545,8 @@ $20.935 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$22.92 billion (31 December 2017 est.)<br>
-$21.45 billion (31 December 2016 est.)<br>
+$10.336 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: quetzales (GTQ) per US dollar -<br>
@@ -694,8 +696,7 @@ information varies; approximately 20,000 active military personnel (18,000 Land 
 the military's inventory is limited and mostly comprised of older US equipment; in recent years, Guatemala has received small amounts of equipment from several countries, including Colombia, Spain, and the US (2023)<br>
 
 **Military service age and obligation**<br>
-all male citizens between the ages of 18 and 50 are eligible for military service; most of the force is volunteer; a selective draft system is employed, resulting in a small portion of 17-21 year-olds being conscripted; conscript service obligation varies from 12-24 months; women may volunteer (2023)<br>
-<strong>note:</strong> as of 2017, women comprised up to 10% of the active military<br>
+all male citizens 18-50 are eligible for military service; most of the force is volunteer; a selective draft system is employed, resulting in a small portion of 17-21 year-olds being conscripted; conscript service obligation varies from 12-24 months; women may volunteer (2023)<br>
 
 **Military deployments**<br>
 190 Democratic Republic of the Congo (MONUSCO) (2024)<br>

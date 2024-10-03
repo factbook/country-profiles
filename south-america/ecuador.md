@@ -367,7 +367,7 @@ Actuemos Ecuador or Actuemos<br>AMIGO movement, Independent Mobilizing Action Ge
 CAN, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OPANAL, OPCW, OPEC, Pacific Alliance (observer), PCA, PROSUR, SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Maria Soledad PE&Ntilde;A PLAZA (since 9 February 2024)<br>
+_chief of mission_: Ambassador Cristian ESPINOSA Ca&ntilde;izares (since 18 September 2024)<br>
 _chancery_: 2535 15th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 234-7200<br>
 _FAX_: [1] (202) 333-2893<br>
@@ -438,17 +438,19 @@ _Standard & Poors rating_: B- (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 6.7% (2017 est.)<br>
-_industry_: 32.9% (2017 est.)<br>
-_services_: 60.4% (2017 est.)<br>
+_agriculture_: 7.7% (2023 est.)<br>
+_industry_: 26.9% (2023 est.)<br>
+_services_: 59.7% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 60.7% (2017 est.)<br>
-_government consumption_: 14.4% (2017 est.)<br>
-_investment in fixed capital_: 24.3% (2017 est.)<br>
-_investment in inventories_: 1% (2017 est.)<br>
-_exports of goods and services_: 20.8% (2017 est.)<br>
-_imports of goods and services_: -21.3% (2017 est.)<br>
+_household consumption_: 64.3% (2023 est.)<br>
+_government consumption_: 13.9% (2023 est.)<br>
+_investment in fixed capital_: 19.7% (2023 est.)<br>
+_investment in inventories_: 1.8% (2023 est.)<br>
+_exports of goods and services_: 29.1% (2023 est.)<br>
+_imports of goods and services_: -28.8% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sugarcane, bananas, oil palm fruit, milk, maize, rice, plantains, chicken, cocoa beans, pineapples (2022)<br>
@@ -486,8 +488,8 @@ _female_: 9.4% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 26.3% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 0.8% of household expenditures (2021 est.)<br>
+_on food_: 26.4% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 0.8% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7% (2022 est.)<br>
@@ -552,8 +554,8 @@ $7.912 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$50.667 billion (2019 est.)<br>
-$43.224 billion (2018 est.)<br>
+$39.129 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 <p>the US dollar became Ecuador's currency in 2001</p><br>

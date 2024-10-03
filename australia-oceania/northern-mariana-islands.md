@@ -332,12 +332,12 @@ _industry_: 58.1% (2016 est.)<br>
 _services_: 40.2% (2016)<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 43.1% (2016 est.)<br>
+_household consumption_: 75.1% (2020 est.)<br>
 _government consumption_: 28.9% (2016 est.)<br>
 _investment in fixed capital_: 26.3% (2016 est.)<br>
-_investment in inventories_: (2016 est.) NA<br>
-_exports of goods and services_: 73.6% (2016 est.)<br>
-_imports of goods and services_: -71.9% (2016 est.)<br>
+_exports of goods and services_: 14.9% (2020 est.)<br>
+_imports of goods and services_: -62.5% (2020 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 vegetables and melons, fruits and nuts; ornamental plants; livestock, poultry, eggs; fish and aquaculture products<br>
@@ -384,9 +384,6 @@ Singapore 42%, Japan 20%, South Korea 16%, Hong Kong 7%, Taiwan 3% (2022)<br>
 
 **Imports - commodities**<br>
 refined petroleum, trunks/cases, cars, watches, jewelry (2019)<br>
-
-**Debt - external**<br>
-<p>NA</p><br>
 
 **Exchange rates**<br>
 <p>the US dollar is used</p><br>

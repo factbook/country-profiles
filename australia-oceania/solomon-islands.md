@@ -393,17 +393,19 @@ _Moody's rating_: B3 (2015)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 34.3% (2017 est.)<br>
-_industry_: 7.6% (2017 est.)<br>
-_services_: 58.1% (2017 est.)<br>
+_agriculture_: 33.8% (2022 est.)<br>
+_industry_: 18.7% (2022 est.)<br>
+_services_: 47.3% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: NA<br>
-_government consumption_: NA<br>
-_investment in fixed capital_: NA<br>
-_investment in inventories_: NA<br>
-_exports of goods and services_: 25.8% (2011 est.)<br>
-_imports of goods and services_: -49.6% (2011 est.)<br>
+_household consumption_: 61.7% (2022 est.) NA<br>
+_government consumption_: 29.2% (2022 est.) NA<br>
+_investment in fixed capital_: 24.4% (2022 est.) NA<br>
+_investment in inventories_: -1% (2022 est.) NA<br>
+_exports of goods and services_: 26.3% (2022 est.)<br>
+_imports of goods and services_: -51.7% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 oil palm fruit, coconuts, sweet potatoes, taro, yams, fruits, pulses, vegetables, cocoa beans, cassava (2022)<br>
@@ -491,8 +493,8 @@ $660.996 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$757 million (31 December 2017 est.)<br>
-$643 million (31 December 2016 est.)<br>
+$117.742 million (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Solomon Islands dollars (SBD) per US dollar -<br>

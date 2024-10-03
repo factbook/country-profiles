@@ -351,7 +351,7 @@ _elections/appointments_: monarch chosen by the 9-member Royal Council of the Th
 _description_: bicameral Parliament of Cambodia consists of:<br>Senate (62 seats; 58 indirectly elected by parliamentarians and commune councils, 2 indirectly elected by the National Assembly, and 2 appointed by the monarch; members serve 6-year terms)<br><br>National Assembly (125 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
 _elections_: Senate - last held on 25 February 2024 (next to be held in February 2030)<br>National Assembly - last held on 23 July 2023 (next to be held in July 2028)<br>
 _election results_: Senate - percent of vote by party - CPP 86%, KWP 12%; seats by party - CPP 57; KWP 3; independent 2; composition - men 50, women 12, percentage women 19.4%<br><br>National Assembly - percent of vote by party - CPP 82.4%, FUNCINPEC 9.2%, KNUP 1.7%, CYP 1.3%, other 5.4% (14 other parties received votes); seats by party - CPP 120, FUNCINPEC 5; composition - men 108, women 17, percentage women 13.6%<br>
-<strong>note:</strong> the CPP had no meaningful opposition in the July 2023 legislative election as the only serious challenger - the Candlelight Party - was disqualified on a technicality in advance of the election; the EU, UN, and US condemned the poll as neither free nor fair<br>
+<strong>note:</strong> the EU, UN, and US condemned the July 2023 National Assembly election as neither free nor fair<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Council (organized into 5- and 9-judge panels and includes a court chief and deputy chief); Constitutional Court (consists of 9 members); note - in 1997, the Cambodian Government requested UN assistance in establishing trials to prosecute former Khmer Rouge senior leaders for crimes against humanity committed during the 1975-1979 Khmer Rouge regime; the Extraordinary Chambers of the Courts of Cambodia (also called the Khmer Rouge Tribunal) was established in 2006 and began hearings for the first case in 2009; court proceedings remain ongoing in 2021<br>
@@ -435,17 +435,19 @@ _Standard & Poors rating_: N/A (2014)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 25.3% (2017 est.)<br>
-_industry_: 32.8% (2017 est.)<br>
-_services_: 41.9% (2017 est.)<br>
+_agriculture_: 21.5% (2023 est.)<br>
+_industry_: 38.5% (2023 est.)<br>
+_services_: 33.4% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 76% (2017 est.)<br>
-_government consumption_: 5.4% (2017 est.)<br>
-_investment in fixed capital_: 21.8% (2017 est.)<br>
-_investment in inventories_: 1.2% (2017 est.)<br>
-_exports of goods and services_: 68.6% (2017 est.)<br>
-_imports of goods and services_: -73% (2017 est.)<br>
+_household consumption_: 41.8% (2023 est.)<br>
+_government consumption_: 8.1% (2023 est.)<br>
+_investment in fixed capital_: 15.3% (2023 est.)<br>
+_investment in inventories_: 0.7% (2023 est.)<br>
+_exports of goods and services_: 73.1% (2023 est.)<br>
+_imports of goods and services_: -40.4% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 cassava, rice, maize, sugarcane, vegetables, oil palm fruit, rubber, bananas, jute, pork (2022)<br>
@@ -478,8 +480,8 @@ _female_: 0.9% (2023 est.)<br>
 16.5% (2016 est.)<br>
 
 **Average household expenditures**<br>
-_on food_: 42.7% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 1.9% of household expenditures (2021 est.)<br>
+_on food_: 41.4% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 1.9% of household expenditures (2022 est.)<br>
 
 **Remittances**<br>
 8.81% of GDP (2023 est.)<br>
@@ -537,10 +539,6 @@ $17.801 billion (2022 est.)<br>
 $20.27 billion (2021 est.)<br>
 $21.328 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$11.87 billion (31 December 2017 est.)<br>
-$10.3 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: riels (KHR) per US dollar -<br>
@@ -679,7 +677,6 @@ the RCAF is armed largely with older Chinese and Russian-origin equipment; in re
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for compulsory and voluntary military service (conscription only selectively enforced since 1993; service is for 18 months); women may volunteer (2024)<br>
-<strong>note: </strong>as of 2018, women made up an estimated 6% of the active-duty military<br>
 
 **Military deployments**<br>
 340 Central African Republic (MINUSCA); 180 Lebanon (UNIFIL) (2024)<br>

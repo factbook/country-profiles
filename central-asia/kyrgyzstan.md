@@ -432,17 +432,19 @@ _Standard & Poors rating_: NR (2016)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 14.6% (2017 est.)<br>
-_industry_: 31.2% (2017 est.)<br>
-_services_: 54.2% (2017 est.)<br>
+_agriculture_: 9.7% (2023 est.)<br>
+_industry_: 22.6% (2023 est.)<br>
+_services_: 50.8% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 85.4% (2017 est.)<br>
-_government consumption_: 18.9% (2017 est.)<br>
-_investment in fixed capital_: 33.2% (2017 est.)<br>
-_investment in inventories_: 1.8% (2017 est.)<br>
-_exports of goods and services_: 39.7% (2017 est.)<br>
-_imports of goods and services_: -79% (2017 est.)<br>
+_household consumption_: 88.7% (2022 est.)<br>
+_government consumption_: 16.8% (2022 est.)<br>
+_investment in fixed capital_: 21.5% (2022 est.)<br>
+_investment in inventories_: 14.2% (2022 est.)<br>
+_exports of goods and services_: 29.9% (2022 est.)<br>
+_imports of goods and services_: -87.4% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, potatoes, maize, wheat, barley, sugar beets, tomatoes, onions, watermelons, carrots/turnips (2022)<br>
@@ -543,8 +545,8 @@ $2.983 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$8.372 billion (2019 est.)<br>
-$8.066 billion (2018 est.)<br>
+$3.457 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: soms (KGS) per US dollar -<br>

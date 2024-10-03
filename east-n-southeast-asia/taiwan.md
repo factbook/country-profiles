@@ -384,8 +384,8 @@ electronics, communications and information technology products, petroleum refin
 33.6 (2014)<br>
 
 **Average household expenditures**<br>
-_on food_: 13.3% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 2.5% of household expenditures (2021 est.)<br>
+_on food_: 14.2% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 2.4% of household expenditures (2022 est.)<br>
 
 **Budget**<br>
 _revenues_: $94.943 billion (2019 est.)<br>
@@ -431,10 +431,6 @@ integrated circuits, crude petroleum, machinery, natural gas, coal (2022)<br>
 **Reserves of foreign exchange and gold**<br>
 $456.7 billion (31 December 2017 est.)<br>
 $439 billion (31 December 2016 est.)<br>
-
-**Debt - external**<br>
-$189.684 billion (2019 est.)<br>
-$196.276 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: New Taiwan dollars (TWD) per US dollar -<br>

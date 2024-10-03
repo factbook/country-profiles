@@ -311,10 +311,6 @@ UK 73%, Spain 24%, Netherlands 1%, Ireland 0%, Switzerland 0% (2022)<br>
 refined petroleum, prefabricated buildings, aircraft, plastic products, iron structures (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
-**Debt - external**<br>
-$0 (2017 est.)<br>
-$0 (2016 est.)<br>
-
 **Exchange rates**<br>
 _Currency_: Falkland pounds (FKP) per US dollar -<br>
 0.805 (2023 est.)<br>

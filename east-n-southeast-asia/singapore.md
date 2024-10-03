@@ -331,7 +331,7 @@ _elections/appointments_: president directly elected by simple majority popular 
 _election results_: <em><br>2023: </em>THARMAN Shanmugaratnam elected president; percent of vote - THARMAN Shanmugaratnam (independent) 70.4%, NG Kok Song (independent) 15.7%, TAN Kin Lian (independent) 13.9%<br><em><br>2017</em>: HALIMAH Yacob declared president on 13 September 2017, being the only eligible candidate<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament (104 seats statutory; 93 members directly elected by simple majority popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to 12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms); note - the number of nominated members increased to 12 for the 2020 election for the first time<br>
+_description_: unicameral Parliament (104 seats statutory; 93 members directly elected by simple majority popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to 12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms)<br>
 _elections_: last held on 10 July 2020 (next must be held by 24 November 2025)<br>
 _election results_: percent of vote by party - PAP 89.2%, WP 10.6%, other 0.2%; seats by party - PAP 79, WP 10, PSP 2, independent 9; composition - men 70, women 29, percentage women 29.3%<br>
 
@@ -419,17 +419,19 @@ _Standard & Poors rating_: AAA (1995)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0% (2017 est.)<br>
-_industry_: 24.8% (2017 est.)<br>
-_services_: 75.2% (2017 est.)<br>
+_agriculture_: 0% (2023 est.)<br>
+_industry_: 22.4% (2023 est.)<br>
+_services_: 72.4% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 35.6% (2017 est.)<br>
-_government consumption_: 10.9% (2017 est.)<br>
-_investment in fixed capital_: 24.8% (2017 est.)<br>
-_investment in inventories_: 2.8% (2017 est.)<br>
-_exports of goods and services_: 173.3% (2017 est.)<br>
-_imports of goods and services_: -149.1% (2017 est.)<br>
+_household consumption_: 31.3% (2023 est.)<br>
+_government consumption_: 10.2% (2023 est.)<br>
+_investment in fixed capital_: 22.2% (2023 est.)<br>
+_investment in inventories_: -1.2% (2023 est.)<br>
+_exports of goods and services_: 174.3% (2023 est.)<br>
+_imports of goods and services_: -136.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 chicken, eggs, pork, vegetables, duck, spinach, pork offal, pork fat, cabbages, lettuce (2022)<br>
@@ -462,8 +464,8 @@ _female_: 10.4% (2023 est.)<br>
 45.9 (2017)<br>
 
 **Average household expenditures**<br>
-_on food_: 8.4% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 2% of household expenditures (2021 est.)<br>
+_on food_: 7% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 1.9% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.6%<br>
@@ -527,10 +529,6 @@ $359.835 billion (2023 est.)<br>
 $296.629 billion (2022 est.)<br>
 $425.098 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$1,557,646,000,000 (2019 est.)<br>
-$1,528,177,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Singapore dollars (SGD) per US dollar -<br>

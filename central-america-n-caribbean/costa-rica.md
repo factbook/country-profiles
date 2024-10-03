@@ -423,17 +423,19 @@ _Standard & Poors rating_: B (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 5.5% (2017 est.)<br>
-_industry_: 20.6% (2017 est.)<br>
-_services_: 73.9% (2017 est.)<br>
+_agriculture_: 3.8% (2023 est.)<br>
+_industry_: 20.5% (2023 est.)<br>
+_services_: 68% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 64.2% (2017 est.)<br>
-_government consumption_: 17.3% (2017 est.)<br>
-_investment in fixed capital_: 17.1% (2017 est.)<br>
-_investment in inventories_: 1% (2017 est.)<br>
-_exports of goods and services_: 33.3% (2017 est.)<br>
-_imports of goods and services_: -32.9% (2017 est.)<br>
+_household consumption_: 65.4% (2023 est.)<br>
+_government consumption_: 14.9% (2023 est.)<br>
+_investment in fixed capital_: 16.2% (2023 est.)<br>
+_investment in inventories_: -0.8% (2023 est.)<br>
+_exports of goods and services_: 37.3% (2023 est.)<br>
+_imports of goods and services_: -33% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sugarcane, pineapples, bananas, milk, oil palm fruit, fruits, oranges, chicken, cassava, rice (2022)<br>
@@ -471,8 +473,8 @@ _female_: 28.3% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 31.6% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 0.7% of household expenditures (2021 est.)<br>
+_on food_: 31.1% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 0.7% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7% (2022 est.)<br>
@@ -537,8 +539,8 @@ $6.921 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$29.589 billion (2019 est.)<br>
-$28.553 billion (2018 est.)<br>
+$12.877 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Costa Rican colones (CRC) per US dollar -<br>

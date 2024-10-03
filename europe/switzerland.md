@@ -362,7 +362,7 @@ The Center (Die Mitte, Alleanza del Centro, Le Centre, Allianza dal Center) (mer
 ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNMOGIP, UNOOSA, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Jacques Henri PITTELOUD (since 16 September 2019)<br>
+_chief of mission_: Ambassador Ralph HECKNER (since 18 September 2024)<br>
 _chancery_: 2900 Cathedral Ave NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 745-7900<br>
 _FAX_: [1] (202) 387-2564<br>
@@ -434,17 +434,19 @@ _Standard & Poors rating_: AAA (1988)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.7% (2017 est.)<br>
-_industry_: 25.6% (2017 est.)<br>
-_services_: 73.7% (2017 est.)<br>
+_agriculture_: 0.6% (2023 est.)<br>
+_industry_: 24.9% (2023 est.)<br>
+_services_: 71.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 53.7% (2017 est.)<br>
-_government consumption_: 12% (2017 est.)<br>
-_investment in fixed capital_: 24.5% (2017 est.)<br>
-_investment in inventories_: -1.4% (2017 est.)<br>
-_exports of goods and services_: 65.1% (2017 est.)<br>
-_imports of goods and services_: -54% (2017 est.)<br>
+_household consumption_: 51.6% (2023 est.)<br>
+_government consumption_: 11.4% (2023 est.)<br>
+_investment in fixed capital_: 25.9% (2023 est.)<br>
+_investment in inventories_: -1.4% (2023 est.)<br>
+_exports of goods and services_: 75.3% (2023 est.)<br>
+_imports of goods and services_: -62.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, sugar beets, wheat, potatoes, pork, apples, barley, beef, grapes, maize (2022)<br>
@@ -482,8 +484,8 @@ _female_: 7.7% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 9.9% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 3.5% of household expenditures (2021 est.)<br>
+_on food_: 9.3% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 3.5% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9% (2020 est.)<br>
@@ -548,10 +550,6 @@ $863.892 billion (2023 est.)<br>
 $923.628 billion (2022 est.)<br>
 $1.11 trillion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$1.909 trillion (2019 est.)<br>
-$1.931 trillion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Swiss francs (CHF) per US dollar -<br>

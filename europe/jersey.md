@@ -322,9 +322,10 @@ $11.228 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate; entry includes Jersey and Guernsey<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2% (2010)<br>
-_industry_: 2% (2010)<br>
-_services_: 96% (2010)<br>
+_agriculture_: 0.8% (2022 est.)<br>
+_industry_: 8.4% (2022 est.)<br>
+_services_: 92% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **Agricultural products**<br>
 potatoes, cauliflower, tomatoes; beef, dairy products<br>
@@ -370,9 +371,6 @@ almost entirely United Kingdom (2022)<br>
 
 **Imports - commodities**<br>
 artwork, ships, vegetables, fruits, jewelry (2022)<br>
-
-**Debt - external**<br>
-<p>NA</p><br>
 
 **Exchange rates**<br>
 _Currency_: Jersey pounds (JEP) per US dollar<br>

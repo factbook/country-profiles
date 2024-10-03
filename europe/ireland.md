@@ -415,17 +415,19 @@ _Standard & Poors rating_: AA- (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.2% (2017 est.)<br>
-_industry_: 38.6% (2017 est.)<br>
-_services_: 60.2% (2017 est.)<br>
+_agriculture_: 0.9% (2023 est.)<br>
+_industry_: 37.6% (2023 est.)<br>
+_services_: 56.6% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 34% (2017 est.)<br>
-_government consumption_: 10.1% (2017 est.)<br>
-_investment in fixed capital_: 23.4% (2017 est.)<br>
-_investment in inventories_: 1.2% (2017 est.)<br>
-_exports of goods and services_: 119.9% (2017 est.)<br>
-_imports of goods and services_: -89.7% (2017 est.)<br>
+_household consumption_: 27% (2023 est.)<br>
+_government consumption_: 12.3% (2023 est.)<br>
+_investment in fixed capital_: 23.4% (2023 est.)<br>
+_investment in inventories_: 3.2% (2023 est.)<br>
+_exports of goods and services_: 134.1% (2023 est.)<br>
+_imports of goods and services_: -100.6% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, barley, wheat, beef, potatoes, pork, oats, chicken, rapeseed, lamb/mutton (2022)<br>
@@ -463,8 +465,8 @@ _female_: 10.6% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 9.2% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 5.5% of household expenditures (2021 est.)<br>
+_on food_: 8.2% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 5.6% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.6% (2021 est.)<br>
@@ -528,10 +530,6 @@ $12.905 billion (2023 est.)<br>
 $13.039 billion (2022 est.)<br>
 $13.247 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$2.829 trillion (2019 est.)<br>
-$2.759 trillion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
@@ -676,8 +674,8 @@ approximately 8,000 active-duty personnel (2023)<br>
 the Irish Defense Forces have a small inventory of imported weapons systems from a variety of mostly European countries, particularly the UK (2023)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for male and female voluntary military service recruits to the Defence Forces (18-27 years of age for the Naval Service); 18-26 for cadetship (officer) applicants; 12-year service (5 active, 7 reserves) (2024)<br>
-<strong>note:</strong> as of 2023, women made up about 7% of the military's full-time personnel<br><br><strong>note 2:</strong> the Defense Forces are open to refugees under the Refugee Act of 1996 and nationals of the European Economic Area, which include EU member states, Iceland, Liechtenstein, and Norway<br>
+18 years of age for men and women for voluntary military service; 12-year service (5 active, 7 reserves) (2024)<br>
+<strong>note 1:</strong> as of 2024, women made up about 7.5% of the military's full-time personnel<br><br><strong>note 2:</strong> the Defense Forces are open to refugees under the Refugee Act of 1996 and nationals of the European Economic Area, which include EU member states, Iceland, Liechtenstein, and Norway<br>
 
 **Military deployments**<br>
 130 Golan Heights (UNDOF); 325 Lebanon (UNIFIL) (2024)<br>

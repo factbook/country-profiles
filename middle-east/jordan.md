@@ -351,7 +351,7 @@ _elections/appointments_: prime minister appointed by the monarch<br>
 **Legislative branch**<br>
 _description_: bicameral National Assembly or Majlis al-'Umma consists of:<br>Senate or the House of Notables or Majlis al-Ayan (65 seats; members appointed by the monarch to serve 4-year terms)<br><br>Chamber of Deputies or Majlis al-Nuwaab (138 seats; 97 members directly elected in multi-seat constituencies by open-list proportional representation vote; of these, 12 seats reserved for Christian, Circassian, and Chechen minorities, and 18 reserved for women; the remaining 41 members directly elected from a single national constituency by closed party-list proportional representation vote; of these, 2 seats reserved for Christians and 1 each for members of the Chechen and Circassian minorities; party candidate lists must include at least 1 woman among the first 3 candidates and 1 among the next 3 candidates; all members serve 4-year terms)<br>
 _elections_: Senate - last appointments on 27 Sep 2020 (next appointments by November 2024)<br>Chamber of Deputies - last held on 10 September 2024 (next to be held in 2028)<br>
-_election results_: Senate - composition - men 55, women 10, percent of women 15.4%<br><em><br></em>House of Representatives; Jordan's main Islamist opposition party won 31 out of 138 seats in parliament, according to official results; turnout for the election was 32%; 27 women won seats — thanks to Jordan’s new electoral system that aim to increase women's participation in political life<br>
+_election results_: Senate - composition - men 55, women 10, percent of women 15.4%<br><em><br></em>House of Representatives - percentage by party -  NA; seats by party - Islamic Action Front 31, Mithaq 21, Irada 19, and Taqadum 8, other (includes seats reserved for women, minorities)<br>
 note: in 2022, a new electoral law - effective for the anticipated 2024 election - will increase the total number of Chamber of Deputies' seats to 138 from 130; 97 members to be directly elected from multi-seat geographic districts by open list proportional representation vote, with over 7 percent of total votes needed to gain a seat, and 41 members to be directly elected from a single national district by closed party-list proportional representation vote, with over a 2.5 percent of total votes needed to gain a seat<br>
 
 **Judicial branch**<br>
@@ -360,7 +360,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: Courts of Appeal; Great Felonies Court; religious courts; military courts; juvenile courts; Land Settlement Courts; Income Tax Court; Higher Administrative Court; Customs Court; special courts including the State Security Court<br>
 
 **Political parties**<br>
-political reforms required all existing parties to re-register by May 2023, which resulted in changes to the number of registered parties and the number of seats held by those parties for the anticipated 2024 election<br>
+'Azem<br>Blessed Land Party<br>Building and Labor Coalition<br>Eradah Party <br>Growth Party<br>Islamic Action Front or IAF<br>Jordanian al-Ansar Party<br>Jordanian al-Ghad Party<br>Jordanian Arab Socialist Ba'ath Party or JASBP <br>Jordanian Civil Democratic Party<br>Jordanian Communist Party or JCP<br>Jordanian Equality Party<br>Jordanian Democratic People's Party or HASD<br>Jordanian Democratic Popular Unity Party or JDPUP/Wihda<br>Jordanian Democratic Unionist Party<br>Jordanian Flame Party<br>Jordanian Future and Life Party<br>Jordanian Model Party<br>Jordanian National Integration Party<br>Jordanian National Loyalty Party<br>Jordanian Reform and Renewal Party or Hassad<br>Jordanian Shura Party <br>Jordanian Social Democratic Party or JSDP<br>Justice and Reform Party or JRP <br>Labor Party<br>National Charter Party<br>National Coalition Party <br>National Constitutional Party<br>National Current Party or NCP<br>National Islamic Party<br>National Union<br>Nationalist Movement Party or Hsq<br>New Path Party <br>Progress Party<br><br><br><br><br>
 
 **International organization participation**<br>
 ABEDA, AFESD, AMF, CAEU, CD, CICA, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MINUSTAH, MONUSCO, NAM, NATO (partner), OIC, OPCW, OSCE (partner), PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -435,17 +435,19 @@ _Standard & Poors rating_: B+ (2017)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 4.5% (2017 est.)<br>
-_industry_: 28.8% (2017 est.)<br>
-_services_: 66.6% (2017 est.)<br>
+_agriculture_: 4.8% (2023 est.)<br>
+_industry_: 24.1% (2023 est.)<br>
+_services_: 60.6% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 80.5% (2017 est.)<br>
-_government consumption_: 19.8% (2017 est.)<br>
-_investment in fixed capital_: 22.8% (2017 est.)<br>
-_investment in inventories_: 0.7% (2017 est.)<br>
-_exports of goods and services_: 34.2% (2017 est.)<br>
-_imports of goods and services_: -58% (2017 est.)<br>
+_household consumption_: 78.9% (2021 est.)<br>
+_government consumption_: 15.8% (2021 est.)<br>
+_investment in fixed capital_: 22.2% (2021 est.)<br>
+_investment in inventories_: 3% (2021 est.)<br>
+_exports of goods and services_: 30.3% (2021 est.)<br>
+_imports of goods and services_: -50.2% (2021 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 tomatoes, milk, chicken, potatoes, cucumbers/gherkins, olives, watermelons, peaches/nectarines, sheep milk, chilies/peppers (2022)<br>
@@ -479,8 +481,8 @@ _female_: 47.1% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Average household expenditures**<br>
-_on food_: 26.4% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 4.5% of household expenditures (2021 est.)<br>
+_on food_: 26.1% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 4.5% of household expenditures (2022 est.)<br>
 
 **Remittances**<br>
 9.72% of GDP (2023 est.)<br>
@@ -541,8 +543,8 @@ $16.572 billion (2015 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$32.088 billion (2019 est.)<br>
-$29.916 billion (2018 est.)<br>
+$16.293 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Jordanian dinars (JOD) per US dollar -<br>

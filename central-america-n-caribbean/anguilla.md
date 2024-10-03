@@ -305,7 +305,6 @@ _services_: 86.4% (2017 est.)<br>
 _household consumption_: 74.1% (2017 est.)<br>
 _government consumption_: 18.3% (2017 est.)<br>
 _investment in fixed capital_: 26.8% (2017 est.)<br>
-_investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 48.2% (2017 est.)<br>
 _imports of goods and services_: -67.4% (2017 est.)<br>
 
@@ -360,10 +359,6 @@ poultry, copper ore, refined petroleum, natural gas, fish (2022)<br>
 **Reserves of foreign exchange and gold**<br>
 $76.38 million (31 December 2017 est.)<br>
 $48.14 million (31 December 2015 est.)<br>
-
-**Debt - external**<br>
-$41.04 million (31 December 2013)<br>
-$8.8 million (1998)<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>

@@ -344,7 +344,7 @@ _elections/appointments_: presidential candidates nominated by political parties
 _election results_: <em><br>2021:</em> Ukhnaagiin KHURELSUKH elected president in first round; percent of vote - Ukhnaagiin KHURELSUKH (MPP) 68%, Dangaasuren ENKHBAT (RPEC) 20.1%, Sodnomzundui ERDENE (DP) 6%<br><br><em>2017: </em> Khaltmaa BATTULGA elected president in second round; percent of vote in first round - Khaltmaa BATTULGA (DP) 38.1%, Miyegombo ENKHBOLD (MPP) 30.3%, Sainkhuu GANBAATAR (MPRP) 30.2%, invalid 1.4%; percent of vote in second round - Khaltmaa BATTULGA 55.2%, Miyegombo ENKHBOLD 44.8%<br>
 
 **Legislative branch**<br>
-_description_: unicameral State Great Hural or Ulsyn Ikh Khural (126 seats; 78 members directly elected in a selected constituency by simple majority vote and 48 members directly elected by proportional representation vote; members serve 4-year terms); note - a constitutional referendum passed in May 2023 increased the number of seats from 76 to 126<br>
+_description_: unicameral State Great Hural or Ulsyn Ikh Khural (126 seats; 78 members directly elected in a selected constituency by simple majority vote and 48 members directly elected by proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 28 June 2024 (next to be held June 2028)<br>
 _election results_: percent of vote by party - MPP 35.0%, DP 30.1%, HUN Party 10.4%, National Coalition 5.2%, CWGP 5%, other 14.3%; seats by party - MPP 68, DP 42, HUN Party 8, National Coalition 4, CWGP 4; composition - N/A<br>
 
@@ -430,17 +430,19 @@ _Standard & Poors rating_: B (2018)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 12.1% (2017 est.)<br>
-_industry_: 38.2% (2017 est.)<br>
-_services_: 49.7% (2017 est.)<br>
+_agriculture_: 10.2% (2023 est.)<br>
+_industry_: 40% (2023 est.)<br>
+_services_: 40.1% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 49.2% (2017 est.)<br>
-_government consumption_: 12.3% (2017 est.)<br>
-_investment in fixed capital_: 23.8% (2017 est.)<br>
-_investment in inventories_: 12.4% (2017 est.)<br>
-_exports of goods and services_: 59.5% (2017 est.)<br>
-_imports of goods and services_: -57.1% (2017 est.)<br>
+_household consumption_: 47.8% (2023 est.)<br>
+_government consumption_: 13.3% (2023 est.)<br>
+_investment in fixed capital_: 27.4% (2023 est.)<br>
+_investment in inventories_: 5% (2023 est.)<br>
+_exports of goods and services_: 78% (2023 est.)<br>
+_imports of goods and services_: -69.2% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, wheat, potatoes, lamb/mutton, goat milk, beef, goat meat, bison milk, sheep milk, horse meat (2022)<br>
@@ -541,8 +543,8 @@ $4.38 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$29.945 billion (2019 est.)<br>
-$28.046 billion (2018 est.)<br>
+$9.085 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: togrog/tugriks (MNT) per US dollar -<br>

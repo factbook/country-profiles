@@ -429,17 +429,18 @@ _Moody's rating_: Caa2 (2020)<br>
 <strong>note: </strong>the year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 20.9% (2017 est.)<br>
-_industry_: 33.2% (2017 est.)<br>
-_services_: 45.9% (2017 est.)<br>
+_agriculture_: 16.1% (2023 est.)<br>
+_industry_: 30.5% (2023 est.)<br>
+_services_: 44% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 63.7% (2017 est.)<br>
-_government consumption_: 14.1% (2017 est.)<br>
-_investment in fixed capital_: 30.9% (2017 est.)<br>
-_investment in inventories_: 3.1% (2017 est.)<br>
-_exports of goods and services_: 34.6% (2017 est.)<br>
-_imports of goods and services_: -43.2% (2017 est.)<br>
+_household consumption_: 65.7% (2016 est.)<br>
+_government consumption_: 14% (2016 est.)<br>
+_investment in fixed capital_: 29% (2016 est.)<br>
+_exports of goods and services_: 33.2% (2016 est.)<br>
+_imports of goods and services_: -41.9% (2016 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 cassava, root vegetables, rice, sugarcane, vegetables, bananas, maize, rubber, coffee, watermelons (2022)<br>
@@ -477,8 +478,8 @@ _female_: 2.1% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 50.6% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 10.8% of household expenditures (2021 est.)<br>
+_on food_: 50.5% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 10.8% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3% (2018 est.)<br>
@@ -540,10 +541,6 @@ $1.77 billion (2023 est.)<br>
 $1.576 billion (2022 est.)<br>
 $1.951 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$14.9 billion (31 December 2017 est.)<br>
-$12.9 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: kips (LAK) per US dollar -<br>

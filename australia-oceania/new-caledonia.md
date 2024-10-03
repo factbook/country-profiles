@@ -337,17 +337,19 @@ $9.623 billion (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.4% (2017 est.)<br>
-_industry_: 26.4% (2017 est.)<br>
-_services_: 72.1% (2017 est.)<br>
+_agriculture_: 1.8% (2019 est.)<br>
+_industry_: 22.3% (2019 est.)<br>
+_services_: 65.2% (2019 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 64.3% (2017 est.)<br>
-_government consumption_: 24% (2017 est.)<br>
-_investment in fixed capital_: 38.4% (2017 est.)<br>
-_investment in inventories_: 0% (2017 est.)<br>
-_exports of goods and services_: 18.7% (2017 est.)<br>
-_imports of goods and services_: -45.5% (2017 est.)<br>
+_household consumption_: 65.6% (2017 est.)<br>
+_government consumption_: 23.5% (2017 est.)<br>
+_investment in fixed capital_: 27.9% (2017 est.)<br>
+_investment in inventories_: -0.1% (2017 est.)<br>
+_exports of goods and services_: 21% (2017 est.)<br>
+_imports of goods and services_: -37.9% (2017 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 coconuts, vegetables, fruits, maize, beef, pork, eggs, yams, bananas, mangoes/guavas (2022)<br>
@@ -425,10 +427,6 @@ France 30%, Australia 22%, Singapore 13%, China 6%, Malaysia 6% (2022)<br>
 **Imports - commodities**<br>
 refined petroleum, coal, cars, packaged medicine, trucks (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Debt - external**<br>
-$112 million (31 December 2013 est.)<br>
-$79 million (31 December 1998 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>

@@ -418,18 +418,18 @@ $19.851 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 22.1% (2017 est.)<br>
-_industry_: 20.3% (2017 est.)<br>
-_services_: 57.6% (2017 est.)<br>
+_agriculture_: 18.2% (2023 est.)<br>
+_industry_: 31% (2023 est.)<br>
+_services_: 47.8% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 99.1% (2017 est.)<br>
-_government consumption_: 10% (2016 est.)<br>
-_investment in fixed capital_: 32.6% (2016 est.)<br>
-_investment in inventories_: -1.4% (2017 est.)<br>
-_exports of goods and services_: 20% (2017 est.)<br>
-_imports of goods and services_: -60.3% (2017 est.)<br>
-<strong>note:</strong> figure for household consumption also includes government consumption<br>
+_household consumption_: 100.2% (2023 est.)<br>
+_government consumption_: 6.2% (2023 est.)<br>
+_investment in fixed capital_: 13.9% (2023 est.)<br>
+_exports of goods and services_: 5.3% (2023 est.)<br>
+_imports of goods and services_: -25.5% (2023 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sugarcane, cassava, mangoes/guavas, plantains, bananas, maize, avocados, tropical fruits, rice, vegetables (2022)<br>
@@ -515,8 +515,8 @@ $2.59 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$2.762 billion (31 December 2017 est.)<br>
-$2.17 billion (31 December 2016 est.)<br>
+$1.645 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: gourdes (HTG) per US dollar -<br>

@@ -380,7 +380,7 @@ Awami National Party or ANP<br>Awami Muslim League or AML<br>Balochistan Awami P
 ADB, AIIB, ARF, ASEAN (sectoral dialogue partner), C, CERN (associate member), CICA, CP, D-8, ECO, FAO, G-11, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURCAT, MINURSO, MINUSCA, MONUSCO, NAM, OAS (observer), OIC, OPCW, PCA, SAARC, SACEP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNISFA, UNISFA, UNMISS, UNOOSA, UNSOS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Sardar Masood KHAN (since 19 April 2022)<br>
+_chief of mission_: Ambassador Rizwan Saeed SHEIKH (since 18 September 2024)<br>
 _chancery_: 3517 International Court NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 243-6500<br>
 _FAX_: [1] (202) 686-1534<br>
@@ -451,17 +451,19 @@ _Standard & Poors rating_: B- (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 24.4% (2016 est.)<br>
-_industry_: 19.1% (2016 est.)<br>
-_services_: 56.5% (2017 est.)<br>
+_agriculture_: 23.4% (2023 est.)<br>
+_industry_: 20.8% (2023 est.)<br>
+_services_: 50.6% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 82% (2017 est.)<br>
-_government consumption_: 11.3% (2017 est.)<br>
-_investment in fixed capital_: 14.5% (2017 est.)<br>
-_investment in inventories_: 1.6% (2017 est.)<br>
-_exports of goods and services_: 8.2% (2017 est.)<br>
-_imports of goods and services_: -17.6% (2017 est.)<br>
+_household consumption_: 83.4% (2023 est.)<br>
+_government consumption_: 10.2% (2023 est.)<br>
+_investment in fixed capital_: 12% (2023 est.)<br>
+_investment in inventories_: 1.7% (2023 est.)<br>
+_exports of goods and services_: 10.4% (2023 est.)<br>
+_imports of goods and services_: -17.7% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sugarcane, bison milk, wheat, milk, rice, maize, potatoes, mangoes/guavas, cotton, onions (2022)<br>
@@ -499,8 +501,8 @@ _female_: 10.7% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 39.6% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 1.1% of household expenditures (2021 est.)<br>
+_on food_: 39.1% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 1.2% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.2% (2018 est.)<br>
@@ -565,8 +567,8 @@ $22.812 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$107.527 billion (2019 est.)<br>
-$95.671 billion (2018 est.)<br>
+$74.852 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Pakistani rupees (PKR) per US dollar -<br>

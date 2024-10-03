@@ -413,17 +413,19 @@ _Standard & Poors rating_: CCC+ (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 10.3% (2017 est.)<br>
-_industry_: 21.6% (2017 est.)<br>
-_services_: 68% (2017 est.)<br>
+_agriculture_: 9% (2023 est.)<br>
+_industry_: 13.2% (2023 est.)<br>
+_services_: 63% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 75.1% (2017 est.)<br>
-_government consumption_: 15.2% (2017 est.)<br>
-_investment in fixed capital_: 22.5% (2017 est.)<br>
-_investment in inventories_: 1.2% (2017 est.)<br>
-_exports of goods and services_: 49.1% (2017 est.)<br>
-_imports of goods and services_: -63.2% (2017 est.)<br>
+_household consumption_: 56.8% (2023 est.)<br>
+_government consumption_: 16.1% (2023 est.)<br>
+_investment in fixed capital_: 20.5% (2023 est.)<br>
+_investment in inventories_: 0.7% (2023 est.)<br>
+_exports of goods and services_: 53.6% (2023 est.)<br>
+_imports of goods and services_: -52.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sugarcane, maize, bananas, oranges, soybeans, sorghum, chicken, rice, beans, milk (2022)<br>
@@ -511,8 +513,8 @@ $420.103 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$1.315 billion (31 December 2017 est.)<br>
-$1.338 billion (31 December 2016 est.)<br>
+$1.176 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Belizean dollars (BZD) per US dollar -<br>

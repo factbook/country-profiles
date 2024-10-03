@@ -408,9 +408,10 @@ $603.241 million (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 11.8% (2017 est.)<br>
-_industry_: 14.8% (2017 est.)<br>
-_services_: 73.4% (2017 est.)<br>
+_agriculture_: 13.9% (2022 est.)<br>
+_industry_: 4.4% (2022 est.)<br>
+_services_: 79% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 81.4% (2017 est.)<br>
@@ -517,8 +518,8 @@ $75.288 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$292.9 million (31 December 2017 est.)<br>
-$308.5 million (31 December 2016 est.)<br>
+$249.404 million (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: dobras (STD) per US dollar -<br>

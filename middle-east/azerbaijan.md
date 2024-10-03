@@ -426,17 +426,19 @@ _Standard & Poors rating_: BB+ (2016)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 6.1% (2017 est.)<br>
-_industry_: 53.5% (2017 est.)<br>
-_services_: 40.4% (2017 est.)<br>
+_agriculture_: 5.5% (2023 est.)<br>
+_industry_: 46.6% (2023 est.)<br>
+_services_: 39.1% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 57.6% (2017 est.)<br>
-_government consumption_: 11.5% (2017 est.)<br>
-_investment in fixed capital_: 23.6% (2017 est.)<br>
-_investment in inventories_: 0.5% (2017 est.)<br>
-_exports of goods and services_: 48.7% (2017 est.)<br>
-_imports of goods and services_: -42% (2017 est.)<br>
+_household consumption_: 53.2% (2023 est.)<br>
+_government consumption_: 14% (2023 est.)<br>
+_investment in fixed capital_: 14.9% (2023 est.)<br>
+_investment in inventories_: 3.5% (2023 est.)<br>
+_exports of goods and services_: 49% (2023 est.)<br>
+_imports of goods and services_: -34.6% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, wheat, potatoes, barley, tomatoes, watermelons, cotton, apples, onions, maize (2022)<br>
@@ -469,8 +471,8 @@ _female_: 15.3% (2023 est.)<br>
 4.9% (2015 est.)<br>
 
 **Average household expenditures**<br>
-_on food_: 43.6% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 2% of household expenditures (2021 est.)<br>
+_on food_: 42.4% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 2% of household expenditures (2022 est.)<br>
 
 **Remittances**<br>
 3.87% of GDP (2023 est.)<br>
@@ -531,8 +533,8 @@ $8.29 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$17.41 billion (31 December 2017 est.)<br>
-$13.83 billion (31 December 2016 est.)<br>
+$12.319 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Azerbaijani manats (AZN) per US dollar -<br>
@@ -667,8 +669,7 @@ estimates vary; approximately 60-75,000 active armed forces; approximately 15,00
 Baku has been actively upgrading its equipment for over a decade with purchases from Belarus, Israel, Russia, and Turkey; while most of the military's equipment was once Soviet-era material, it now fields quantities of advanced equipment, including armored vehicles, artillery systems, air defense systems, tanks, and UAVs (2023)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for compulsory military service for men; 17-35 years of age for voluntary service for men and women; 18 months service for conscripts (2023)<br>
-<strong>note:</strong> most of the military is made up of professional contract soldiers; as of 2018, women made up an estimated 3% of the active duty military<br>
+18-25 years of age for compulsory military service for men; 18-35 years of age for voluntary/contractual service for men and women; 18 months service for conscripts, 36 months for voluntary/contractual service (2023)<br>
 
 **Military - note**<br>
 the Azerbaijani military was established in 1991, although its origins go back to 1918; much of the military’s original equipment was acquired from former Soviet military forces that departed Azerbaijan by 1992; territorial defense is the military’s primary focus, particularly with regards to neighboring Armenia; a secondary focus is guarding against Iran; Armenia and Azerbaijan engaged in open conflicts over the Nagorno-Karabakh enclave in 1991-94 and 2020; tensions continued following the 2020 conflict, and Azerbaijan seized the entire enclave in 2023 <br><br>Turkey has been Azerbaijan’s strongest military partner, a relationship that has included weapons transfers, technical advice, bilateral training exercises, and support during its conflicts with Armenia; Azerbaijan is not part of NATO but has had a cooperative relationship with it dating back to when it joined NATO’s Partnership for Peace program in 1994 and has provided troops to NATO-led missions in Kosovo (1999-2008) and Afghanistan (2002-2014) (2024)<br>

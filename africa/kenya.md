@@ -370,7 +370,7 @@ _subordinate courts_: High Court; Court of Appeal; military courts; magistrates'
 ACP, AfDB, ATMIS, AU, C, CD, COMESA, EAC, EADB, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICCT, ICRM, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOOSA, UNSOM, UNWTO, UPU, WCO, WHO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Lazarus Ombai AMAYO (since 17 July 2020)<br>
+_chief of mission_: Ambassador David Kipkorir Kiplagat KERICH (since 18 September 2024)<br>
 _chancery_: 2249 R St NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 387-6101<br>
 _FAX_: [1] (202) 462-3829<br>
@@ -440,17 +440,19 @@ _Standard & Poors rating_: B+ (2010)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 34.5% (2017 est.)<br>
-_industry_: 17.8% (2017 est.)<br>
-_services_: 47.5% (2017 est.)<br>
+_agriculture_: 21.3% (2023 est.)<br>
+_industry_: 17.1% (2023 est.)<br>
+_services_: 55.5% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 79.5% (2017 est.)<br>
-_government consumption_: 14.3% (2017 est.)<br>
-_investment in fixed capital_: 18.9% (2017 est.)<br>
-_investment in inventories_: -1% (2017 est.)<br>
-_exports of goods and services_: 13.9% (2017 est.)<br>
-_imports of goods and services_: -25.5% (2017 est.)<br>
+_household consumption_: 77% (2023 est.)<br>
+_government consumption_: 12.3% (2023 est.)<br>
+_investment in fixed capital_: 17.7% (2023 est.)<br>
+_investment in inventories_: 0.4% (2023 est.)<br>
+_exports of goods and services_: 11.8% (2023 est.)<br>
+_imports of goods and services_: -20.6% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sugarcane, milk, maize, tea, bananas, potatoes, cabbages, camel milk, cassava, mangoes/guavas (2022)<br>
@@ -488,8 +490,8 @@ _female_: 16.3% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 56.1% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 3.7% of household expenditures (2021 est.)<br>
+_on food_: 56.7% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 3.7% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9% (2021 est.)<br>
@@ -554,8 +556,8 @@ $9.491 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$29.289 billion (2019 est.)<br>
-$25.706 billion (2018 est.)<br>
+$31.029 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Kenyan shillings (KES) per US dollar -<br>

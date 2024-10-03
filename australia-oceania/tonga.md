@@ -394,17 +394,19 @@ $500.275 million (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 19.9% (2017 est.)<br>
-_industry_: 20.3% (2017 est.)<br>
-_services_: 59.8% (2017 est.)<br>
+_agriculture_: 16.3% (2021 est.)<br>
+_industry_: 15.9% (2021 est.)<br>
+_services_: 49.7% (2021 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 99.4% (2017 est.)<br>
-_government consumption_: 21.9% (2017 est.)<br>
-_investment in fixed capital_: 24.1% (2017 est.)<br>
-_investment in inventories_: 0% (2017 est.)<br>
-_exports of goods and services_: 22.8% (2017 est.)<br>
-_imports of goods and services_: -68.5% (2017 est.)<br>
+_household consumption_: 109% (2021 est.)<br>
+_government consumption_: 30.7% (2021 est.)<br>
+_investment in fixed capital_: 23.2% (2021 est.)<br>
+_investment in inventories_: -1.3% (2021 est.)<br>
+_exports of goods and services_: 12.5% (2021 est.)<br>
+_imports of goods and services_: -60.8% (2021 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 coconuts, pumpkins/squash, cassava, sweet potatoes, vegetables, yams, taro, root vegetables, plantains, lemons/limes (2022)<br>
@@ -503,8 +505,8 @@ $361.812 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$189.9 million (31 December 2017 est.)<br>
-$198.2 million (31 December 2016 est.)<br>
+$152.877 million (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: pa'anga (TOP) per US dollar -<br>

@@ -455,17 +455,19 @@ _Moody's rating_: Caa1 (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 41.8% (2017 est.)<br>
-_industry_: 18.1% (2017 est.)<br>
-_services_: 40.5% (2017 est.)<br>
+_agriculture_: 36.8% (2023 est.)<br>
+_industry_: 19.4% (2023 est.)<br>
+_services_: 36.1% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 82.9% (2017 est.)<br>
-_government consumption_: 17.4% (2017 est.)<br>
-_investment in fixed capital_: 19.3% (2017 est.)<br>
-_investment in inventories_: -0.7% (2017 est.)<br>
-_exports of goods and services_: 22.1% (2017 est.)<br>
-_imports of goods and services_: -41.1% (2017 est.)<br>
+_household consumption_: 74.3% (2023 est.)<br>
+_government consumption_: 17.1% (2023 est.)<br>
+_investment in fixed capital_: 20.1% (2023 est.)<br>
+_investment in inventories_: -1.9% (2023 est.)<br>
+_exports of goods and services_: 28.2% (2023 est.)<br>
+_imports of goods and services_: -37.8% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 maize, rice, millet, sorghum, okra, sugarcane, mangoes/guavas, onions, cotton, bananas (2022)<br>
@@ -563,8 +565,8 @@ $647.8 million (31 December 2017 est.)<br>
 $395.7 million (31 December 2016 est.)<br>
 
 **Debt - external**<br>
-$4.192 billion (31 December 2017 est.)<br>
-$3.981 billion (31 December 2016 est.)<br>
+$3.923 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>

@@ -326,7 +326,7 @@ Alliance Party for Progress or APP<br>Barbados Labor Party or BLP<br>Democratic 
 ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO, ITSO, ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OPANAL, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Noel Anderson LYNCH (since&nbsp;11 January 2019)<br>
+_chief of mission_: Ambassador Victor Anthony FERNANDES (since 18 September 2024)<br>
 _chancery_: 2144 Wyoming Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 939-9200<br>
 _FAX_: [1] (202) 332-7467<br>
@@ -395,17 +395,19 @@ _Standard & Poors rating_: B- (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.5% (2017 est.)<br>
-_industry_: 9.8% (2017 est.)<br>
-_services_: 88.7% (2017 est.)<br>
+_agriculture_: 1.4% (2023 est.)<br>
+_industry_: 13.1% (2023 est.)<br>
+_services_: 72.3% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 84.2% (2017 est.)<br>
-_government consumption_: 13.4% (2017 est.)<br>
-_investment in fixed capital_: 17.6% (2017 est.)<br>
-_investment in inventories_: 0.2% (2017 est.)<br>
-_exports of goods and services_: 31.6% (2017 est.)<br>
-_imports of goods and services_: -47% (2017 est.)<br>
+_household consumption_: 75.6% (2022 est.)<br>
+_government consumption_: 11.8% (2022 est.)<br>
+_investment in fixed capital_: 16.5% (2022 est.)<br>
+_investment in inventories_: 0.2% (2022 est.)<br>
+_exports of goods and services_: 34.3% (2022 est.)<br>
+_imports of goods and services_: -42.2% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sugarcane, chicken, vegetables, milk, eggs, sweet potatoes, pork, coconuts, cantaloupes/melons, tropical fruits (2022)<br>
@@ -491,10 +493,6 @@ $1.52 billion (2022 est.)<br>
 $1.673 billion (2021 est.)<br>
 $1.358 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$4.49 billion (2010 est.)<br>
-$668 million (2003 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Barbadian dollars (BBD) per US dollar -<br>

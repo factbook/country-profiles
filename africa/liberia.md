@@ -410,9 +410,10 @@ $4.332 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 34% (2017 est.)<br>
-_industry_: 13.8% (2017 est.)<br>
-_services_: 52.2% (2017 est.)<br>
+_agriculture_: 34.9% (2023 est.)<br>
+_industry_: 22.9% (2023 est.)<br>
+_services_: 38.5% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 128.8% (2016 est.)<br>
@@ -516,8 +517,8 @@ $340.966 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$826 million (2019 est.)<br>
-$679 million (2018 est.)<br>
+$835.846 million (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Liberian dollars (LRD) per US dollar -<br>

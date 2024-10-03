@@ -416,9 +416,10 @@ _Standard & Poors rating_: SD (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 11.6% (2017 est.)<br>
-_industry_: 31.1% (2017 est.)<br>
-_services_: 57.4% (2017 est.)<br>
+_agriculture_: 8.1% (2022 est.)<br>
+_industry_: 44.8% (2022 est.)<br>
+_services_: 44.7% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 27.6% (2017 est.)<br>
@@ -517,10 +518,6 @@ $1.346 billion (2023 est.)<br>
 $1.195 billion (2022 est.)<br>
 $992.257 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$1.7 billion (31 December 2017 est.)<br>
-$1.436 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Surinamese dollars (SRD) per US dollar -<br>

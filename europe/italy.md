@@ -340,7 +340,6 @@ _election results_: <br><em>2022:</em> Sergio MATTARELLA (independent) reelected
 _description_: bicameral Parliament or Parlamento consists of:<br>Senate or Senato della Repubblica (205 seats; 122 members in multi-seat constituencies directly elected by proportional representation vote, 74 members in single-seat constituencies directly elected by plurality vote, 4 members in multi-seat constituencies abroad directly elected by proportional representation vote, and 5 members appointed by the president of Italy; all members serve 5-year terms)<br>Chamber of Deputies or Camera dei Deputati (400 seats; 245 members directly elected in multi-seat constituencies by proportional representation vote; 147 members directly elected in single-seat constituencies by plurality vote and 8 members in multi-seat constituencies abroad directly elected by proportional representation vote; members serve 5-year terms)<br>
 _elections_: Senate - last held on 25 September 2022 (next to be held no later than December 2027)<br>Chamber of Deputies - last held on 25 September 2022; note - snap elections were called when Prime Minister DRAGHI resigned and the parliament was dissolved on 21 July 2022 (next to be held on 30 September 2027)<br>
 _election results_: Senate - percent of vote by party/coalition - NA; seats by party/coalition - center-right coalition 113 (FdI 65, Lega 30, FI 18), center-left coalition 43 (PD 40, AVS 3), M5S 28, Action-Italia Viva 9, SVP 2, MAIE 1, ScN 1; composition - men 131, women 74, percentage women 36.1%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - center-right coalition 230 (FdI 119, Lega 66, FI 45), center-left coalition 83 (PD 69, AVS 12, +EU 2), M5S 52, Action-Italia Viva 21, SVP 3, MAIE 1, ScN 1; composition - men 271, women 129, percentage women 32.3%; total Parliament percentage women 33.6%<br>
-<strong>note</strong>: in October 2019, Italy's Parliament voted to reduce the number of Senate seats from 315 to 200 and the number of Chamber of Deputies seats from 630 to 400; a referendum to reduce the membership of Parliament held on 20-21 September 2020 was approved, effective for the September 2022 snap election<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Cassation or Corte Suprema di Cassazione (consists of the first president (chief justice), deputy president, 54 justices presiding over 6 civil and 7 criminal divisions, and 288 judges; an additional 30 judges of lower courts serve as supporting judges; cases normally heard by 5-judge panels; more complex cases heard by 9-judge panels); Constitutional Court or Corte Costituzionale (consists of the court president and 14 judges)<br>
@@ -427,17 +426,19 @@ _Standard & Poors rating_: BBB (2017)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.1% (2017 est.)<br>
-_industry_: 23.9% (2017 est.)<br>
-_services_: 73.9% (2017 est.)<br>
+_agriculture_: 1.9% (2023 est.)<br>
+_industry_: 23.1% (2023 est.)<br>
+_services_: 64.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 61% (2017 est.)<br>
-_government consumption_: 18.6% (2017 est.)<br>
-_investment in fixed capital_: 17.5% (2017 est.)<br>
-_investment in inventories_: -0.2% (2017 est.)<br>
-_exports of goods and services_: 31.4% (2017 est.)<br>
-_imports of goods and services_: -28.3% (2017 est.)<br>
+_household consumption_: 59.6% (2023 est.)<br>
+_government consumption_: 18.1% (2023 est.)<br>
+_investment in fixed capital_: 21.2% (2023 est.)<br>
+_investment in inventories_: -0.3% (2023 est.)<br>
+_exports of goods and services_: 35.1% (2023 est.)<br>
+_imports of goods and services_: -33.7% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, grapes, wheat, tomatoes, maize, apples, olives, oranges, potatoes, pork (2022)<br>
@@ -475,8 +476,8 @@ _female_: 25.2% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 15.5% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 4.4% of household expenditures (2021 est.)<br>
+_on food_: 14.6% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 4.2% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.3% (2021 est.)<br>
@@ -540,10 +541,6 @@ $247.396 billion (2023 est.)<br>
 $224.581 billion (2022 est.)<br>
 $227.478 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$2,463,208,000,000 (2019 est.)<br>
-$2,533,153,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
@@ -698,7 +695,7 @@ the military's inventory includes a mix of domestically manufactured, imported, 
 
 **Military service age and obligation**<br>
 17-25 years of age for voluntary military service for men and women (some variations on age depending on the military branch); voluntary service is a minimum of 12 months with the option to extend in the Armed Forces or compete for positions in the Military Corps of the Italian Red Cross, the State Police, the Carabinieri, the Guardia di Finanza, the Penitentiary Police, or the National Fire Brigade; recruits can also volunteer for 4 years military service; conscription abolished 2004 (2024)<br>
-<strong>note:</strong> women may serve in any military branch; as of 2020, women made up about 6% of the military's full-time personnel<br>
+<strong>note:</strong> women serve in all military branches; as of 2023, women made up about 8% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 120 Djibouti; approximately 750 Bulgaria (NATO); approximately 650 Middle East (NATO, European Assistance Mission Iraq); 250 Hungary (NATO; up to 1,500 Kosovo (NATO/KFOR); 250 Latvia (NATO); 1,325 Lebanon (UNIFIL); 200 Libya; 350 Niger; 250 Romania (NATO); 150 Somalia (EUTM) (2024)<br>

@@ -422,17 +422,19 @@ _Moody's rating_: Ba3 (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 16.7% (2017 est.)<br>
-_industry_: 28.2% (2017 est.)<br>
-_services_: 54.8% (2017 est.)<br>
+_agriculture_: 8.4% (2023 est.)<br>
+_industry_: 23.9% (2023 est.)<br>
+_services_: 59% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 76.7% (2017 est.)<br>
-_government consumption_: 14.2% (2017 est.)<br>
-_investment in fixed capital_: 17.3% (2017 est.)<br>
-_investment in inventories_: 4.1% (2017 est.)<br>
-_exports of goods and services_: 38.1% (2017 est.)<br>
-_imports of goods and services_: -50.4% (2017 est.)<br>
+_household consumption_: 65.3% (2023 est.)<br>
+_government consumption_: 14.1% (2023 est.)<br>
+_investment in fixed capital_: 20.8% (2023 est.)<br>
+_investment in inventories_: 0.6% (2023 est.)<br>
+_exports of goods and services_: 58.2% (2023 est.)<br>
+_imports of goods and services_: -58.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, potatoes, grapes, tomatoes, vegetables, wheat, watermelons, apricots, apples, barley (2022)<br>
@@ -533,8 +535,8 @@ $3.23 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$11.637 billion (2019 est.)<br>
-$10.785 billion (2018 est.)<br>
+$6.028 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: drams (AMD) per US dollar -<br>
@@ -667,7 +669,7 @@ the military's inventory includes mostly Russian and Soviet-era equipment; in re
 
 **Military service age and obligation**<br>
 18-27 for voluntary (men and women), contract (men and women) or compulsory (men) military service; contract military service is 3-12 months or 3 or 5 years; conscripts serve 24 months; men under the age of 36, who have not previously served as contract servicemen and are registered in the reserve, as well as women, regardless of whether they are registered in the reserve can be enrolled in contractual military service; all citizens aged 27 to 50 are registered in the military reserve and may be called to serve if mobilization is declared (2023)<br>
-<strong>note: </strong>in 2023, Armenia approved six-month voluntary service for women, after which they have the option to switch to a five-year contract; previously, women served on a contract basis  <br><br><strong>note 2:</strong> as of 2021, conscripts comprised about half of the military's active personnel; as of 2020, women made up about 10% of the active duty military; the Armenian Army established its first all-women combat unit in 2020<br>
+<strong>note: </strong>in 2023, Armenia approved six-month voluntary service for women, after which they have the option to switch to a five-year contract; previously, women served on a contract basis; as of 2021, women made up about 10% of the active duty military<br>
 
 **Military - note**<br>
 the Armenian Armed Forces were officially established in 1992, although their origins go back to 1918; the modern military’s missions include deterrence, territorial defense, crisis management, humanitarian assistance, and disaster response, as well as socio-economic development projects; territorial defense is its primary focus, particularly in regards to tensions with neighboring Azerbaijan; Armenia and Azerbaijan engaged in open conflicts over the Nagorno-Karabakh enclave in 1991-94 and 2020; Azerbaijan seized the entire enclave in 2023 <br><br>Armenia has traditionally had close military ties with Russia and has hosted Russian military forces at two bases; it has been a member of the Russian-led Collective Security Treaty Organization (CSTO) since 1994 and committed troops to CSTO's rapid reaction force; Armenia has relations with NATO going back to 1992 when Armenia joined the North Atlantic Cooperation Council; in 1994, it joined NATO’s Partnership for Peace program and has contributed to the NATO force in Kosovo, as well as the former NATO deployment in Afghanistan (2024)<br>

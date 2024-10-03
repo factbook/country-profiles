@@ -363,9 +363,10 @@ _state counsellor_: State Counselor AUNG SAN SUU KYI (since 6 April 2016); note 
 <strong>note 1: </strong>the military took over the government on 1 February 2021 and declared a state of emergency<strong><br><br>note 2:</strong> prior to the military takeover, the a state counsellor served the equivalent term of the president and was similar to a prime minister in that the holder acted as a link between the parliament and the executive branch<br><br><br><br>
 
 **Legislative branch**<br>
-_description_: dissolved 1 February 2021 by the coup led by Sr. General MIN AUNG HLAING; previously bicameral Assembly of the Union or Pyidaungsu consists of:<br>House of Nationalities or Amyotha Hluttaw, (224 seats; 168 members directly elected in single-seat constituencies by absolute majority vote with a second round if needed and 56 appointed by the military; members serve 5-year terms)<br>House of Representatives or Pyithu Hluttaw, (440 seats, currently 433; 330 members directly elected in single-seat constituencies by simple majority vote and 110 appointed by the military; members serve 5-year terms); note - on 1 February 2021, the military dissolved the Assembly of the Union, which was replaced by the State Administration Council<br>
-_elections_: House of Nationalities - last held on 8 November 2020 <br>House of Representatives - last held on 8 November 2020; note - the military junta overturned the results of the 8 November legislative elections<br>
+_description_: bicameral Assembly of the Union or Pyidaungsu consisted of:<br>House of Nationalities or Amyotha Hluttaw, (224 seats; 168 members directly elected in single-seat constituencies by absolute majority vote with a second round if needed and 56 appointed by the military; members served 5-year terms)<br><br>House of Representatives or Pyithu Hluttaw, (440 seats, currently 433; 330 members directly elected in single-seat constituencies by simple majority vote and 110 appointed by the military; members served 5-year terms)<br>
+_elections_: House of Nationalities - last held on 8 November 2020 <br>House of Representatives - last held on 8 November 2020<br>
 _election results_: House of Nationalities - percent of vote by party - NLD 61.6%, USDP 3.1%, ANP 1.8%, MUP 1.3%, KySPD 1.3%, other 5.9%, military appointees 25%; seats by party - NLD 138, USDP 7, ANP 4, MUP 3, KySPD 3, SNLD 2, TNP 2, other 2, vacant 7 (canceled due to insurgency), military appointees 56 <br><br>House of Representatives - percent of vote by party - NLD 58.6%, USDP 5.9%, SNLD 3.0%, other 7.5%, military 25%; seats by party - NLD 258, USDP 26, SNLD 13, ANP 4, PNO 3, TNP 3, MUP 2, KySPD 2, other 4, vacant 15 (canceled due to insurgency), military appointees 110<br>
+<strong>note 1: </strong>the Assembly of the Union was dissolved on 1 February 2021 following a military coup led by Sr. General MIN AUNG HLAING; it was replaced by the State Administration Council <br><strong><br>note 2:</strong> the military junta overturned the results of the 8 November legislative elections<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of the Union (consists of the chief justice and 7-11 judges)<br>
@@ -444,9 +445,10 @@ $64.815 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 24.1% (2017 est.)<br>
-_industry_: 35.6% (2017 est.)<br>
-_services_: 40.3% (2017 est.)<br>
+_agriculture_: 20.4% (2023 est.)<br>
+_industry_: 38.1% (2023 est.)<br>
+_services_: 41.5% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 59.2% (2017 est.)<br>
@@ -492,8 +494,8 @@ _female_: 8.9% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 56.6% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 0.6% of household expenditures (2021 est.)<br>
+_on food_: 56.4% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 0.6% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.8% (2017 est.)<br>
@@ -556,10 +558,6 @@ $7.67 billion (2020 est.)<br>
 $5.824 billion (2019 est.)<br>
 $5.646 billion (2018 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$6.594 billion (31 December 2017 est.)<br>
-$8.2 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: kyats (MMK) per US dollar -<br>

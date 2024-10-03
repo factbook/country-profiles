@@ -423,17 +423,19 @@ $239.899 billion (2023 est.)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 13.3% (2017 est.)<br>
-_industry_: 39.3% (2017 est.)<br>
-_services_: 47.4% (2017 est.)<br>
+_agriculture_: 13.2% (2023 est.)<br>
+_industry_: 38% (2023 est.)<br>
+_services_: 45.1% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 42.7% (2017 est.)<br>
-_government consumption_: 20.2% (2017 est.)<br>
-_investment in fixed capital_: 38.1% (2017 est.)<br>
-_investment in inventories_: 11.2% (2017 est.)<br>
-_exports of goods and services_: 23.6% (2017 est.)<br>
-_imports of goods and services_: -35.8% (2017 est.)<br>
+_household consumption_: 41.2% (2023 est.)<br>
+_government consumption_: 16.9% (2023 est.)<br>
+_investment in fixed capital_: 33.2% (2023 est.)<br>
+_investment in inventories_: 4.6% (2023 est.)<br>
+_exports of goods and services_: 25.2% (2023 est.)<br>
+_imports of goods and services_: -21% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 potatoes, wheat, milk, watermelons, onions, tomatoes, barley, vegetables, dates, oranges (2022)<br>
@@ -463,8 +465,8 @@ _female_: 46% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
-_on food_: 37.3% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 1% of household expenditures (2021 est.)<br>
+_on food_: 37.1% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 1% of household expenditures (2022 est.)<br>
 
 **Remittances**<br>
 0.74% of GDP (2023 est.)<br>
@@ -524,8 +526,8 @@ $56.211 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$5.574 billion (2019 est.)<br>
-$5.666 billion (2018 est.)<br>
+$671.248 million (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Algerian dinars (DZD) per US dollar -<br>

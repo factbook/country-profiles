@@ -424,17 +424,19 @@ _Standard & Poors rating_: B- (2018)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 12% (2017 est.)<br>
-_industry_: 27.7% (2017 est.)<br>
-_services_: 60.3% (2017 est.)<br>
+_agriculture_: 4.6% (2023 est.)<br>
+_industry_: 25% (2023 est.)<br>
+_services_: 59.8% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 84.5% (2017 est.)<br>
-_government consumption_: 15.8% (2017 est.)<br>
-_investment in fixed capital_: 16.9% (2017 est.)<br>
-_investment in inventories_: 0% (2017 est.)<br>
-_exports of goods and services_: 27.6% (2017 est.)<br>
-_imports of goods and services_: -44.9% (2017 est.)<br>
+_household consumption_: 81.4% (2023 est.)<br>
+_government consumption_: 18% (2023 est.)<br>
+_investment in fixed capital_: 22% (2023 est.)<br>
+_investment in inventories_: -2.7% (2023 est.)<br>
+_exports of goods and services_: 31.1% (2023 est.)<br>
+_imports of goods and services_: -49.8% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sugarcane, maize, milk, chicken, beans, sorghum, coconuts, oranges, eggs, yautia (2022)<br>
@@ -472,8 +474,8 @@ _female_: 10.8% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 26.5% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 0.5% of household expenditures (2021 est.)<br>
+_on food_: 26.5% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 0.5% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.9% (2022 est.)<br>
@@ -539,8 +541,8 @@ $4.446 billion (2019 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$17.24 billion (2019 est.)<br>
-$16.712 billion (2018 est.)<br>
+$11.276 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 the US dollar is used as a medium of exchange and circulates freely in the economy<br>
@@ -674,7 +676,6 @@ the FAES has a mix of mostly older imported platforms, largely from the US (2023
 
 **Military service age and obligation**<br>
 18-30 years of age for selective compulsory military service; 16-22 years of age for voluntary military service for men and women; service obligation is 12 months, with 11 months for officers and non-commissioned officers (2023)<br>
-<strong>note:</strong> as of 2016, women made up about 6% of the active-duty military<br>
 
 **Military - note**<br>
 the Armed Force of El Salvador (FAES) is responsible for defending national sovereignty and ensuring territorial integrity but also has considerable domestic security responsibilities; while the National Civil Police (PNC) is responsible for maintaining public security, the country’s constitution allows the president to use the FAES “in exceptional circumstances” to maintain internal peace and public security; in 2016, the government created a special 1,000-strong joint unit of Army commandos and police to fight criminal gangs; more military personnel were devoted to internal security beginning in 2019 when President BUKELE signed a decree authorizing military involvement in police duties to combat rising gang violence, organized crime, and narcotics trafficking, as well as assisting with border security; since the decree, a considerable portion of the Army has been deployed in support of the PNC; in multiple cases since 2022, for example, as many as 8,000 troops have been deployed alongside thousands of police on single operations against criminal gang members <br><br>the FAES exercises with regional partners and the US, in such areas as internal security and disaster relief operations; it has deployed small numbers of personnel on UN peacekeeping missions and in support of military operations in Iraq (2003-2009) <br><br>the military led the country for much of the 20th century; from 1980 to 1992, it fought a bloody civil war against guerrillas from the Farabundo Martí National Liberation Front or FMLN, the paramilitary arm of the Democratic Revolutionary Front (Frente Democrático Revolucionario), a coalition of left-wing dissident political groups backed by Cuba and the Soviet Union; the FAES received considerable US support during the conflict; significant human rights violations occurred during the war and approximately 75,000 Salvadorans, mostly civilians, were killed (2023)<br>

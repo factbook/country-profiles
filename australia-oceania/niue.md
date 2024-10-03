@@ -256,11 +256,6 @@ $11,800 (2020 est.)<br>
 $12,400 (2019 est.)<br>
 <strong>note:</strong> data are in 2009 dollars<br>
 
-**GDP - composition, by sector of origin**<br>
-_agriculture_: 23.5% (2003)<br>
-_industry_: 26.9% (2003)<br>
-_services_: 49.5% (2003)<br>
-
 **Agricultural products**<br>
 taro, coconuts, fruits, sweet potatoes, tropical fruits, yams, vegetables, lemons/limes, bananas, pork (2022)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
@@ -293,9 +288,6 @@ UK 46%, NZ 31%, Japan 19%, Brazil 1%, US 1% (2022)<br>
 **Imports - commodities**<br>
 iron structures, ships, refined petroleum, plastic products, cars (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Debt - external**<br>
-$418,000 (2002 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: New Zealand dollars (NZD) per US dollar -<br>

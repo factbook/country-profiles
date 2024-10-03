@@ -284,10 +284,10 @@ _election results_: <em><br>2022: </em>John LEE was the only candidate and won w
 <strong>note:</strong> electoral changes that Beijing imposed in March 2021 expanded the Election Committee to 1,500 members<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Council or LegCo (90 seats); 20 members directly elected in 2-seat constituencies, 30 indirectly elected by the approximately 220,000 members of various functional constituencies based on a variety of methods, and 50 indirectly elected by the 1,500-member Election Committee; members serve 4-year terms; note - in March 2021, China's National People's Congress amended the electoral rules and system for the LegCo; the total number of seats increased from 70 to 90, directly elected geographical constituencies were reduced from 35 to 20 seats, while trade-based indirectly elected functional constituencies remained at 30; an additional 40 seats were elected by the 1,500-member Election Commission; all political candidates are evaluated by the Candidate Eligibility Review Committee (CERC), established in April 2022; the CERC consists of the chairperson, 2-4 official members, and 1-3 non-official members, all appointed by the chief executive<br>
+_description_: unicameral Legislative Council or LegCo (90 seats); 20 members directly elected in 2-seat constituencies, 30 indirectly elected by the approximately 220,000 members of various functional constituencies based on a variety of methods, and 50 indirectly elected by the 1,500-member Election Committee; members serve 4-year terms<br>
 _elections_: last held on 19 Dec 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by bloc: pro-Beijing 93.8%, non-establishment 6.2%; seats by association/bloc/party - pro-Beijing 89 (DAB 19, HKFTU 8, BPA 7, NPP 5, LP 4, NTAS 4, HKFEW 2, HKFLU 2, CF 2, RT 1, PP 1, KWND 1, NPHK 1, NCF-1; other/independent 41), non-aligned 1 (Third Side); composition - men 73, women 17, percentage women 18.9%; note - Hong Kong's leading pro-democracy political parties boycotted the 2021 election<br>
-<strong>note:</strong> in July 2023, Hong Kong lawmakers reduced the proportion of directly elected seats on local district councils from some 90% to about 20%; under the new law, the majority of the 470 seats are now filled by members appointed by the chief executive, rural committee chairpersons, and others elected by local committees that are packed with pro-establishment figures<br>
+_election results_: percent of vote by bloc: pro-Beijing 93.8%, non-establishment 6.2%; seats by association/bloc/party - pro-Beijing 89 (DAB 19, HKFTU 8, BPA 7, NPP 5, LP 4, NTAS 4, HKFEW 2, HKFLU 2, CF 2, RT 1, PP 1, KWND 1, NPHK 1, NCF-1; other/independent 41), non-aligned 1 (Third Side); composition - men 73, women 17, percentage women 18.9%<br>
+<strong>note 1:</strong> all political candidates are evaluated by the Candidate Eligibility Review Committee (CERC), which was established in April 2022; CERC members are all appointed by the chief executive<br><br><strong>note 2:</strong> Hong Kong's leading pro-democracy political parties boycotted the 2021 election<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Final Appeal (consists of the chief justice, 3 permanent judges, and 20 non-permanent judges); note - a sitting bench consists of the chief justice, 3 permanent judges, and 1 non-permanent judge<br>
@@ -363,17 +363,19 @@ _Standard & Poors rating_: AA+ (2017)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.1% (2017 est.)<br>
-_industry_: 7.6% (2017 est.)<br>
-_services_: 92.3% (2017 est.)<br>
+_agriculture_: 0.1% (2022 est.)<br>
+_industry_: 6.3% (2022 est.)<br>
+_services_: 91% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 67% (2017 est.)<br>
-_government consumption_: 9.9% (2017 est.)<br>
-_investment in fixed capital_: 21.8% (2017 est.)<br>
-_investment in inventories_: 0.4% (2017 est.)<br>
-_exports of goods and services_: 188% (2017 est.)<br>
-_imports of goods and services_: -187.1% (2017 est.)<br>
+_household consumption_: 70.3% (2023 est.)<br>
+_government consumption_: 13.2% (2023 est.)<br>
+_investment in fixed capital_: 16.7% (2023 est.)<br>
+_investment in inventories_: -1% (2023 est.)<br>
+_exports of goods and services_: 176.2% (2023 est.)<br>
+_imports of goods and services_: -175.4% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 pork, chicken, spinach, vegetables, game meat, pork offal, fruits, onions, lettuce, pork fat (2022)<br>
@@ -409,8 +411,8 @@ _female_: 9.6% (2023 est.)<br>
 53.9 (2016 est.)<br>
 
 **Average household expenditures**<br>
-_on food_: 12.1% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 0.7% of household expenditures (2021 est.)<br>
+_on food_: 11.7% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 0.8% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8%<br>
@@ -471,10 +473,6 @@ $425.553 billion (2023 est.)<br>
 $424.025 billion (2022 est.)<br>
 $496.856 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$1,648,409,000,000 (2019 est.)<br>
-$1,670,919,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Hong Kong dollars (HKD) per US dollar -<br>

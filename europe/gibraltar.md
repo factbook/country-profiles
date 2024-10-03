@@ -298,11 +298,6 @@ $61,700 (2014 est.)<br>
 **GDP (official exchange rate)**<br>
 $2.044 billion (2014 est.)<br>
 
-**GDP - composition, by sector of origin**<br>
-_agriculture_: 0% (2016 est.)<br>
-_industry_: 0% (2008 est.)<br>
-_services_: 100% (2016 est.)<br>
-
 **Agricultural products**<br>
 none<br>
 
@@ -341,9 +336,6 @@ Spain 19%, Italy 17%, Greece 11%, Nigeria 10%, UK 6% (2022)<br>
 **Imports - commodities**<br>
 refined petroleum, crude petroleum, coal tar oil, ships, cars (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Debt - external**<br>
-<p>NA</p><br>
 
 **Exchange rates**<br>
 _Currency_: Gibraltar pounds (GIP) per US dollar -<br>

@@ -261,11 +261,6 @@ high-income French Caribbean territorial economy; extremely reliant on tourism, 
 $649.206 million (2021 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
-**GDP - composition, by sector of origin**<br>
-_agriculture_: 1% (2000)<br>
-_industry_: 15% (2000)<br>
-_services_: 84% (2000)<br>
-
 **Industries**<br>
 tourism, light industry and manufacturing, heavy industry<br>
 

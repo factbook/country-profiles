@@ -404,15 +404,12 @@ _Moody's rating_: B3 (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 3% (2015 est.)<br>
-_industry_: 16% (2015 est.)<br>
-_services_: 81% (2015 est.)<br>
+_agriculture_: 4.9% (2022 est.)<br>
+_industry_: 10.3% (2022 est.)<br>
+_services_: 73.3% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: (2016 est.) NA<br>
-_government consumption_: (2016 est.) NA<br>
-_investment in fixed capital_: (2016 est.) NA<br>
-_investment in inventories_: (2016 est.) NA<br>
 _exports of goods and services_: 93.6% (2016 est.)<br>
 _imports of goods and services_: 89% (2016 est.)<br>
 
@@ -511,10 +508,6 @@ $590.523 million (2023 est.)<br>
 $832.094 million (2022 est.)<br>
 $805.808 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$848.8 million (31 December 2016 est.)<br>
-$696.2 million (31 December 2015 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: rufiyaa (MVR) per US dollar -<br>

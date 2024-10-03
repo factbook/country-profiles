@@ -306,9 +306,9 @@ $1.623 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.4% (2008 est.)<br>
-_industry_: 18.3% (2008 est.)<br>
-_services_: 81.3% (2008 est.)<br>
+_industry_: 6% (2021 est.)<br>
+_services_: 89.3% (2021 est.)<br>
+<strong>note:</strong> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **Agricultural products**<br>
 sugar<br>

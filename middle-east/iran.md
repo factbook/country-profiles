@@ -423,17 +423,19 @@ $401.505 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 9.6% (2016 est.)<br>
-_industry_: 35.3% (2016 est.)<br>
-_services_: 55% (2017 est.)<br>
+_agriculture_: 13% (2023 est.)<br>
+_industry_: 41.8% (2023 est.)<br>
+_services_: 42.7% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 49.7% (2017 est.)<br>
-_government consumption_: 14% (2017 est.)<br>
-_investment in fixed capital_: 20.6% (2017 est.)<br>
-_investment in inventories_: 14.5% (2017 est.)<br>
-_exports of goods and services_: 26% (2017 est.)<br>
-_imports of goods and services_: -24.9% (2017 est.)<br>
+_household consumption_: 47.2% (2023 est.)<br>
+_government consumption_: 13.2% (2023 est.)<br>
+_investment in fixed capital_: 26.9% (2023 est.)<br>
+_investment in inventories_: 9.5% (2023 est.)<br>
+_exports of goods and services_: 28.6% (2023 est.)<br>
+_imports of goods and services_: -26.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 wheat, sugarcane, milk, sugar beets, tomatoes, barley, potatoes, vegetables, oranges, chicken (2022)<br>
@@ -467,8 +469,8 @@ _female_: 35.5% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 28.7% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 0.5% of household expenditures (2021 est.)<br>
+_on food_: 28.4% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 0.5% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8% (2022 est.)<br>
@@ -528,8 +530,8 @@ $120.6 billion (31 December 2017 est.)<br>
 $133.7 billion (31 December 2016 est.)<br>
 
 **Debt - external**<br>
-$7.995 billion (31 December 2017 est.)<br>
-$8.196 billion (31 December 2016 est.)<br>
+$269.852 million (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Iranian rials (IRR) per US dollar -<br>
@@ -687,8 +689,8 @@ information varies; up to 600,000 active armed forces personnel; approximately 4
 the Iranian military's inventory includes a mix of domestically produced and mostly older foreign equipment largely of Chinese, Russian, Soviet, and US origin (US equipment acquired prior to the Islamic Revolution in 1979); it also has some military equipment from North Korea, including midget submarines and ballistic missiles; in recent years, Iran has received some newer equipment from Russia; Iran has a defense industry with the capacity to develop, produce, support, and sustain air, land, missile, and naval weapons programs (2024)<br>
 
 **Military service age and obligation**<br>
-military service is compulsory for all Iranian men 18/19 to approximately age 40; 16 for voluntary military service (may be as low as 15 for the Basij); conscript military service obligation is up to 24 months, depending on the location of service (soldiers serving in places of high security risk and deprived areas serve shorter terms); women exempted from military service (2023)<br>
-<strong>note: </strong>conscripts serve in the Artesh, IRGC, and Law Enforcement; approximately 80% of Artesh ground forces personnel are conscripts, while Navy and Air/Air Defense Force personnel are primarily volunteers; conscripts reportedly comprise a significant portion of the IRGC<br>
+military service is compulsory for all Iranian men 18-19 to approximately age 40; 16 for voluntary military service (may be as low as 15 for the Basij); conscript military service obligation is up to 24 months, depending on the location of service (soldiers serving in places of high security risk and deprived areas serve shorter terms); women exempted from military service (2023)<br>
+<strong>note: </strong>conscripts serve in the Artesh, IRGC, and Law Enforcement, while Navy and Air/Air Defense Force personnel are primarily volunteers<br>
 
 **Military deployments**<br>
 continues to maintain a military presence in Syria reportedly of a few thousand personnel, mostly of special operations and IRGC forces (2024)<br>

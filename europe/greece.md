@@ -421,17 +421,19 @@ _Standard & Poors rating_: BB- (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 4.1% (2017 est.)<br>
-_industry_: 16.9% (2017 est.)<br>
-_services_: 79.1% (2017 est.)<br>
+_agriculture_: 3.8% (2023 est.)<br>
+_industry_: 15.7% (2023 est.)<br>
+_services_: 67.6% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 69.6% (2017 est.)<br>
-_government consumption_: 20.1% (2017 est.)<br>
-_investment in fixed capital_: 12.5% (2017 est.)<br>
-_investment in inventories_: -1% (2017 est.)<br>
-_exports of goods and services_: 33.4% (2017 est.)<br>
-_imports of goods and services_: -34.7% (2017 est.)<br>
+_household consumption_: 68.4% (2023 est.)<br>
+_government consumption_: 19.7% (2023 est.)<br>
+_investment in fixed capital_: 13.9% (2023 est.)<br>
+_investment in inventories_: 2.9% (2023 est.)<br>
+_exports of goods and services_: 44.9% (2023 est.)<br>
+_imports of goods and services_: -49.8% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 maize, wheat, sheep milk, peaches/nectarines, oranges, grapes, tomatoes, milk, watermelons, potatoes (2022)<br>
@@ -469,8 +471,8 @@ _female_: 29.5% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 17.6% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 4.8% of household expenditures (2021 est.)<br>
+_on food_: 18.8% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 5% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6% (2021 est.)<br>
@@ -534,10 +536,6 @@ $13.608 billion (2023 est.)<br>
 $12.061 billion (2022 est.)<br>
 $14.447 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$484.888 billion (2019 est.)<br>
-$478.646 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
@@ -687,7 +685,7 @@ the military's inventory consists of a mix of imported weapons from Europe and t
 
 **Military service age and obligation**<br>
 19-45 years of age for compulsory military service for men; 12-month obligation for all services (note - as an exception, the duration of the full military service is 9 instead of 12 months if conscripts, after the initial training, serve the entire remaining time in certain areas of the eastern borders, in Cyprus, or in certain military units); 18 years of age for voluntary military service for men and women (2023)<br>
-<strong>note 1: </strong>compulsory service applies to any individual whom the Greek authorities consider to be Greek, regardless of whether the individual considers himself Greek, has a foreign citizenship and passport, or was born or lives outside of Greece; Greek citizens living permanently outside of Greece have the right to postpone their conscription; they are permanently exempted from their military obligations when they reach the age of 45 years old<strong><br><br>note 2: </strong>up to 50% of the Greek military is comprised of conscripts<br><br><strong>note 3: </strong>as of 2020, women comprised approximately 16% of the military's full-time personnel<br>
+<strong>note 1: </strong>compulsory service applies to any individual whom the Greek authorities consider to be Greek, regardless of whether the individual considers himself Greek, has a foreign citizenship and passport, or was born or lives outside of Greece; Greek citizens living permanently outside of Greece have the right to postpone their conscription; they are permanently exempted from their military obligations when they reach the age of 45 years old<strong><br></strong><br><strong>note 2: </strong>as of 2023, women comprised nearly 17% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 approximately 1,000 Cyprus; 110 Kosovo (NATO); 120 Lebanon (UNIFIL) (2024)<br>

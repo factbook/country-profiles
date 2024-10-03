@@ -410,17 +410,19 @@ _Standard & Poors rating_: AA (2007)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.9% (2017 est.)<br>
-_industry_: 49.8% (2017 est.)<br>
-_services_: 49.2% (2017 est.)<br>
+_agriculture_: 0.8% (2022 est.)<br>
+_industry_: 51.5% (2022 est.)<br>
+_services_: 47.7% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 34.9% (2017 est.)<br>
-_government consumption_: 12.3% (2017 est.)<br>
-_investment in fixed capital_: 23% (2017 est.)<br>
-_investment in inventories_: 1.8% (2017 est.)<br>
-_exports of goods and services_: 100.4% (2017 est.)<br>
-_imports of goods and services_: -72.4% (2017 est.)<br>
+_household consumption_: 40.2% (2020 est.)<br>
+_government consumption_: 14.5% (2020 est.)<br>
+_investment in fixed capital_: 20.2% (2020 est.)<br>
+_investment in inventories_: 2.6% (2020 est.)<br>
+_exports of goods and services_: 95.9% (2020 est.)<br>
+_imports of goods and services_: -70.6% (2020 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 dates, cucumbers/gherkins, camel milk, goat milk, tomatoes, eggs, goat meat, milk, chicken, camel meat (2022)<br>
@@ -454,8 +456,8 @@ _female_: 22.9% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 13.6% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 0.4% of household expenditures (2021 est.)<br>
+_on food_: 13.5% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 0.4% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4% (2018 est.)<br>
@@ -512,10 +514,6 @@ $189.491 billion (2023 est.)<br>
 $138.433 billion (2022 est.)<br>
 $131.117 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$237.6 billion (31 December 2017 est.)<br>
-$218.7 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Emirati dirhams (AED) per US dollar -<br>

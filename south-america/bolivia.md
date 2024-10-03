@@ -444,17 +444,19 @@ _Standard & Poors rating_: B+ (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 13.8% (2017 est.)<br>
-_industry_: 37.8% (2017 est.)<br>
-_services_: 48.2% (2017 est.)<br>
+_agriculture_: 12.5% (2023 est.)<br>
+_industry_: 24.8% (2023 est.)<br>
+_services_: 51.3% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 67.7% (2017 est.)<br>
-_government consumption_: 17% (2017 est.)<br>
-_investment in fixed capital_: 21.3% (2017 est.)<br>
-_investment in inventories_: 3.8% (2017 est.)<br>
-_exports of goods and services_: 21.7% (2017 est.)<br>
-_imports of goods and services_: -31.3% (2017 est.)<br>
+_household consumption_: 67.6% (2023 est.)<br>
+_government consumption_: 19.3% (2023 est.)<br>
+_investment in fixed capital_: 17.5% (2023 est.)<br>
+_investment in inventories_: -0.9% (2022 est.)<br>
+_exports of goods and services_: 27.3% (2023 est.)<br>
+_imports of goods and services_: -31.6% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sugarcane, soybeans, potatoes, maize, rice, sorghum, milk, chicken, plantains, wheat (2022)<br>
@@ -492,8 +494,8 @@ _female_: 6.3% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 29.2% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 2.1% of household expenditures (2021 est.)<br>
+_on food_: 29% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 2.1% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8% (2021 est.)<br>
@@ -558,8 +560,8 @@ $4.73 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$12.81 billion (31 December 2017 est.)<br>
-$7.268 billion (31 December 2016 est.)<br>
+$9.862 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: bolivianos (BOB) per US dollar -<br>

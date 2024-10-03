@@ -354,7 +354,7 @@ _subordinate courts_: Courts of Appeal; regional courts; specialized courts for 
 ADB (nonregional members), AfDB (nonregional members), Australia Group, Benelux, BIS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Jean-Arthur R&Eacute;GIBEAU (since 17 September 2020)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Sophie Chaska KARLSHAUSEN (since 31 August 2024)<br>
 _chancery_: 1430 K Street NW, Washington DC 20005<br>
 _telephone_: [1] (202) 333-6900<br>
 _FAX_: [1] (202) 338-4960<br>
@@ -424,17 +424,19 @@ _Standard & Poors rating_: AA (2011)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.7% (2017 est.)<br>
-_industry_: 22.1% (2017 est.)<br>
-_services_: 77.2% (2017 est.)<br>
+_agriculture_: 0.8% (2023 est.)<br>
+_industry_: 18.4% (2023 est.)<br>
+_services_: 70.7% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 51.2% (2017 est.)<br>
-_government consumption_: 23.4% (2017 est.)<br>
-_investment in fixed capital_: 23.3% (2017 est.)<br>
-_investment in inventories_: 1.3% (2017 est.)<br>
-_exports of goods and services_: 85.1% (2017 est.)<br>
-_imports of goods and services_: -84.4% (2017 est.)<br>
+_household consumption_: 51.4% (2023 est.)<br>
+_government consumption_: 24.2% (2023 est.)<br>
+_investment in fixed capital_: 24.6% (2023 est.)<br>
+_investment in inventories_: 0.7% (2023 est.)<br>
+_exports of goods and services_: 86.7% (2023 est.)<br>
+_imports of goods and services_: -87.6% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sugar beets, milk, potatoes, wheat, pork, lettuce, maize, chicken, barley, pears (2022)<br>
@@ -472,8 +474,8 @@ _female_: 14.1% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 13.5% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 4% of household expenditures (2021 est.)<br>
+_on food_: 13.5% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 3.9% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.6% (2021 est.)<br>
@@ -537,10 +539,6 @@ $40.813 billion (2023 est.)<br>
 $41.274 billion (2022 est.)<br>
 $41.872 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$1,317,513,000,000 (2019 est.)<br>
-$1,332,358,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>

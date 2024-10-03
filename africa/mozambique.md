@@ -442,17 +442,18 @@ _Standard & Poors rating_: CCC+ (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 23.9% (2017 est.)<br>
-_industry_: 19.3% (2017 est.)<br>
-_services_: 56.8% (2017 est.)<br>
+_agriculture_: 26.7% (2022 est.)<br>
+_industry_: 22.8% (2022 est.)<br>
+_services_: 40.6% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 69.7% (2017 est.)<br>
-_government consumption_: 27.2% (2017 est.)<br>
-_investment in fixed capital_: 21.7% (2017 est.)<br>
-_investment in inventories_: 13.9% (2017 est.)<br>
-_exports of goods and services_: 38.3% (2017 est.)<br>
-_imports of goods and services_: -70.6% (2017 est.)<br>
+_household consumption_: 75.2% (2022 est.)<br>
+_government consumption_: 16.7% (2022 est.)<br>
+_investment in fixed capital_: 38.6% (2022 est.)<br>
+_exports of goods and services_: 52.5% (2022 est.)<br>
+_imports of goods and services_: -83% (2022 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 cassava, sugarcane, maize, tomatoes, sweet potatoes, beans, bananas, onions, rice, coconuts (2022)<br>
@@ -551,10 +552,6 @@ $3.515 billion (2023 est.)<br>
 $2.939 billion (2022 est.)<br>
 $3.781 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$10.91 billion (31 December 2017 est.)<br>
-$10.48 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: meticais (MZM) per US dollar -<br>

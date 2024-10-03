@@ -418,17 +418,19 @@ _Standard & Poors rating_: BB- (2013)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 10.9% (2017 est.)<br>
-_industry_: 26.6% (2017 est.)<br>
-_services_: 62.5% (2017 est.)<br>
+_agriculture_: 7% (2023 est.)<br>
+_industry_: 21.4% (2023 est.)<br>
+_services_: 58.2% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 65.6% (2017 est.)<br>
-_government consumption_: 15.6% (2017 est.)<br>
-_investment in fixed capital_: 13.6% (2017 est.)<br>
-_investment in inventories_: 20.2% (2017 est.)<br>
-_exports of goods and services_: 54% (2017 est.)<br>
-_imports of goods and services_: -69% (2017 est.)<br>
+_household consumption_: 72.9% (2023 est.)<br>
+_government consumption_: 16.8% (2023 est.)<br>
+_investment in fixed capital_: 23.5% (2021 est.)<br>
+_investment in inventories_: 0.4% (2023 est.)<br>
+_exports of goods and services_: 72.8% (2023 est.)<br>
+_imports of goods and services_: -86.3% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, grapes, chilies/peppers, wheat, potatoes, apples, tomatoes, cabbages, maize, barley (2022)<br>
@@ -466,8 +468,8 @@ _female_: 31.5% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 33.3% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 5.9% of household expenditures (2021 est.)<br>
+_on food_: 33% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 6% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.9% (2019 est.)<br>
@@ -531,10 +533,6 @@ $5.015 billion (2023 est.)<br>
 $4.12 billion (2022 est.)<br>
 $4.129 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$9.065 billion (2019 est.)<br>
-$9.398 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Macedonian denars (MKD) per US dollar -<br>

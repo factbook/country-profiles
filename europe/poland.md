@@ -368,7 +368,7 @@ AGROunion or AU<br>Center for Poland or CdP<br>Civic Platform or PO<br>Confedera
 Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMIL, UNMISS, UNOCI, UNOOSA, UN Security Council (temporary), UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Marek Grzegorz  MAGIEROWSKI (since 13 January 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Adam KRZYWOSĄDZKI (since 31 July 2024)<br>
 _chancery_: 2640 16th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 499-1700<br>
 _FAX_: [1] (202) 328-2152<br>
@@ -440,17 +440,19 @@ _Standard & Poors rating_: A- (2018)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.4% (2017 est.)<br>
-_industry_: 40.2% (2017 est.)<br>
-_services_: 57.4% (2017 est.)<br>
+_agriculture_: 2.9% (2023 est.)<br>
+_industry_: 28.7% (2023 est.)<br>
+_services_: 58.8% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 58.6% (2017 est.)<br>
-_government consumption_: 17.7% (2017 est.)<br>
-_investment in fixed capital_: 17.7% (2017 est.)<br>
-_investment in inventories_: 2% (2017 est.)<br>
-_exports of goods and services_: 54% (2017 est.)<br>
-_imports of goods and services_: -49.9% (2017 est.)<br>
+_household consumption_: 57.2% (2023 est.)<br>
+_government consumption_: 18.6% (2023 est.)<br>
+_investment in fixed capital_: 17.8% (2023 est.)<br>
+_investment in inventories_: 0.3% (2023 est.)<br>
+_exports of goods and services_: 57.8% (2023 est.)<br>
+_imports of goods and services_: -51.7% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, sugar beets, wheat, maize, potatoes, triticale, apples, rapeseed, barley, rye (2022)<br>
@@ -488,8 +490,8 @@ _female_: 11.1% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 17.2% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 6.3% of household expenditures (2021 est.)<br>
+_on food_: 19.4% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 6.4% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.4% (2021 est.)<br>
@@ -553,10 +555,6 @@ $193.783 billion (2023 est.)<br>
 $166.664 billion (2022 est.)<br>
 $166.03 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$351.77 billion (2019 est.)<br>
-$373.721 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: zlotych (PLN) per US dollar -<br>

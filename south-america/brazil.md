@@ -454,17 +454,19 @@ _Standard & Poors rating_: BB- (2018)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 6.6% (2017 est.)<br>
-_industry_: 20.7% (2017 est.)<br>
-_services_: 72.7% (2017 est.)<br>
+_agriculture_: 6.2% (2023 est.)<br>
+_industry_: 22.3% (2023 est.)<br>
+_services_: 58.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 63.4% (2017 est.)<br>
-_government consumption_: 20% (2017 est.)<br>
-_investment in fixed capital_: 15.6% (2017 est.)<br>
-_investment in inventories_: -0.1% (2017 est.)<br>
-_exports of goods and services_: 12.6% (2017 est.)<br>
-_imports of goods and services_: -11.6% (2017 est.)<br>
+_household consumption_: 63.3% (2023 est.)<br>
+_government consumption_: 18.2% (2023 est.)<br>
+_investment in fixed capital_: 16.5% (2023 est.)<br>
+_investment in inventories_: -0.5% (2023 est.)<br>
+_exports of goods and services_: 18.1% (2023 est.)<br>
+_imports of goods and services_: -15.7% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sugarcane, soybeans, maize, milk, cassava, oranges, chicken, rice, beef, wheat (2022)<br>
@@ -502,8 +504,8 @@ _female_: 20.9% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 16.3% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 1.7% of household expenditures (2021 est.)<br>
+_on food_: 16.2% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 1.7% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.2% (2022 est.)<br>
@@ -569,8 +571,8 @@ $362.21 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$681.336 billion (2019 est.)<br>
-$660.693 billion (2018 est.)<br>
+$164.448 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: reals (BRL) per US dollar -<br>
@@ -730,11 +732,11 @@ Brazilian Armed Forces (Forças Armadas Brasileiras): Brazilian Army (Exercito B
 approximately 360,000 active military personnel (220,000 Army; 70,000 Navy; 70,000 Air Force); approximately 400,000 paramilitary security forces (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Brazilian military's inventory consists of a mix of domestically produced and imported weapons, largely from Europe and the US; in recent years, the US and several European countries have been the leading suppliers of military equipment to Brazil; Brazil's defense industry designs and manufactures equipment for all three military services and for export; it also jointly produces equipment with other countries (2023)<br>
+the Brazilian military's inventory consists of a mix of domestically produced and imported weapons, largely from Europe and the US; Brazil's defense industry designs and manufactures equipment for all three military services and for export; it also jointly produces equipment with other countries (2024)<br>
 
 **Military service age and obligation**<br>
 18-45 years of age for compulsory military service for men (women exempted); only 5-10% of those inducted are required to serve; conscript service obligation is 10-12 months; 17-45 years of age for voluntary service (2024)<br>
-<strong>note:</strong> in 2022, women comprised approximately 9% of the Brazilian military<br>
+<strong>note:</strong> in 2024, women comprised approximately 10% of the Brazilian military<br>
 
 **Military - note**<br>
 the Brazilian Armed Forces (BAF) are the second largest military in the Western Hemisphere behind the US; they are responsible for external security and protecting the country's sovereignty but also have a considerable internal security role; the BAF’s missions include patrolling and protecting the country’s long borders and coastline and extensive territorial waters and river network, assisting with internal security, providing domestic disaster response and humanitarian assistance, and participating in multinational peacekeeping missions<br><br>in the past decade, the BAF has mobilized thousands of troops to conduct counternarcotics operations, support the police in combating crime, assist with disease outbreaks and humanitarian missions, and provide security for major events such as the 2014 World Cup and the 2016 Summer Olympics; it has also cooperated regularly with neighboring countries such as Argentina and Paraguay on border security to combat smuggling and trafficking <br><br>Brazil has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the origins of Brazil's military stretch back to the 1640s; Brazil provided a 25,000-man expeditionary force with air and ground units to fight with the Allies in the Mediterranean Theater during World War II; the Navy participated in the Battle of the Atlantic (2024)<br>

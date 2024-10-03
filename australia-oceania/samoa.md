@@ -313,7 +313,7 @@ _elections/appointments_: chief of state indirectly elected by the Legislative A
 _election results_: TUIMALEALI'IFANO Va&rsquo;aletoa Sualauvi II (independent) unanimously reelected by the Legislative Assembly<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Assembly or Fono (53 seats statutory, 54 (2021-25 term); members from single-seat constituencies directly elected by simple majority vote, with a minimum 10% representation of women in the Assembly required; members serve 5-year terms)<br>
+_description_: unicameral Legislative Assembly or Fono (54 seats); members from single-seat constituencies directly elected by simple majority vote, with a minimum 10% representation of women in the Assembly required; members serve 5-year terms)<br>
 _elections_: election last held on 9 April 2021 (next election to be held in 2026)<br>
 _election results_: percent of vote by party - HRPP 55%, FAST 37%, TSP 3%, independent 5%; seats by party – 35 FAST, HRPP 18, independent 1; composition - men 47, women 7, percentage women 13%<strong><br></strong><br>
 
@@ -390,17 +390,19 @@ $934.1 million (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 10.4% (2017 est.)<br>
-_industry_: 23.6% (2017 est.)<br>
-_services_: 66% (2017 est.)<br>
+_agriculture_: 11% (2023 est.)<br>
+_industry_: 11% (2023 est.)<br>
+_services_: 67.6% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: NA<br>
-_government consumption_: NA<br>
-_investment in fixed capital_: NA<br>
-_investment in inventories_: NA<br>
-_exports of goods and services_: 27.2% (2015 est.)<br>
-_imports of goods and services_: -50.5% (2015 est.)<br>
+_household consumption_: 86.2% (2023 est.)<br>
+_government consumption_: 18.2% (2023 est.)<br>
+_investment in fixed capital_: 34.7% (2023 est.)<br>
+_investment in inventories_: 2.6% (2023 est.)<br>
+_exports of goods and services_: 28.9% (2023 est.)<br>
+_imports of goods and services_: -62.2% (2023 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 coconuts, taro, bananas, tropical fruits, pineapples, mangoes/guavas, papayas, root vegetables, milk, pork (2022)<br>
@@ -491,7 +493,8 @@ $294.682 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$447.2 million (31 December 2013 est.)<br>
+$279.335 million (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: tala (SAT) per US dollar -<br>

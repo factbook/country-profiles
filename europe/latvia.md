@@ -350,7 +350,7 @@ Development/For! or AP!<br>For Stability or S!<br>For Latvia's Development LA<br
 Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Māris SELGA (since 16 September 2019)<br>
+_chief of mission_: Ambassador Elita KUZMA (since 18 September 2024)<br>
 _chancery_: 2306 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 328-2840<br>
 _FAX_: [1] (202) 328-2860<br>
@@ -419,17 +419,19 @@ _Standard & Poors rating_: A+ (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 3.9% (2017 est.)<br>
-_industry_: 22.4% (2017 est.)<br>
-_services_: 73.7% (2017 est.)<br>
+_agriculture_: 4.2% (2023 est.)<br>
+_industry_: 20.9% (2023 est.)<br>
+_services_: 63.1% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 61.8% (2017 est.)<br>
-_government consumption_: 18.2% (2017 est.)<br>
-_investment in fixed capital_: 19.9% (2017 est.)<br>
-_investment in inventories_: 1.5% (2017 est.)<br>
-_exports of goods and services_: 60.6% (2017 est.)<br>
-_imports of goods and services_: -61.9% (2017 est.)<br>
+_household consumption_: 61.1% (2023 est.)<br>
+_government consumption_: 19.7% (2023 est.)<br>
+_investment in fixed capital_: 24.1% (2023 est.)<br>
+_investment in inventories_: -1.1% (2023 est.)<br>
+_exports of goods and services_: 64.1% (2023 est.)<br>
+_imports of goods and services_: -67.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 wheat, milk, rapeseed, barley, oats, potatoes, rye, beans, peas, pork (2022)<br>
@@ -467,8 +469,8 @@ _female_: 10.3% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 19.3% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 7.6% of household expenditures (2021 est.)<br>
+_on food_: 19.1% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 7.4% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6% (2021 est.)<br>
@@ -532,10 +534,6 @@ $4.957 billion (2023 est.)<br>
 $4.46 billion (2022 est.)<br>
 $5.491 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$40.164 billion (2019 est.)<br>
-$42.488 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>

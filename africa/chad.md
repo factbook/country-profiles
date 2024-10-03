@@ -441,17 +441,18 @@ $13.149 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 52.3% (2017 est.)<br>
-_industry_: 14.7% (2017 est.)<br>
-_services_: 33.1% (2017 est.)<br>
+_agriculture_: 25.1% (2023 est.)<br>
+_industry_: 44.4% (2023 est.)<br>
+_services_: 28.7% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 75.1% (2017 est.)<br>
-_government consumption_: 4.4% (2017 est.)<br>
-_investment in fixed capital_: 24.1% (2017 est.)<br>
-_investment in inventories_: 0.7% (2017 est.)<br>
-_exports of goods and services_: 35.1% (2017 est.)<br>
-_imports of goods and services_: -39.4% (2017 est.)<br>
+_household consumption_: 74.6% (2023 est.)<br>
+_government consumption_: 4.2% (2023 est.)<br>
+_investment in fixed capital_: 25.8% (2023 est.)<br>
+_exports of goods and services_: 43.5% (2023 est.)<br>
+_imports of goods and services_: -48.1% (2023 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sorghum, groundnuts, millet, cereals, beef, sugarcane, yams, maize, cassava, milk (2022)<br>
@@ -547,8 +548,8 @@ $310.032 million (2019 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$1.724 billion (31 December 2017 est.)<br>
-$1.281 billion (31 December 2016 est.)<br>
+$2.352 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>

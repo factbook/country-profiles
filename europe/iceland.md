@@ -346,7 +346,7 @@ _subordinate courts_: Appellate Court or Landsrettur; 8 district courts; Labor C
 Arctic Council, Australia Group, BIS, CBSS, CD, CE, EAPC, EBRD, EFTA, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Bergd&iacute;s ELLERTSD&Oacute;TTIR (since 16 September 2019)<br>
+_chief of mission_: Ambassador Svanhildur H&oacute;lm VALSD&Oacute;TTIR (since 18 September 2024)<br>
 _chancery_: House of Sweden, 2900 K Street NW, #509, Washington, DC 20007<br>
 _telephone_: [1] (202) 265-6653<br>
 _FAX_: [1] (202) 265-6656<br>
@@ -415,17 +415,19 @@ _Standard & Poors rating_: A (2017)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 5.8% (2017 est.)<br>
-_industry_: 19.7% (2017 est.)<br>
-_services_: 74.6% (2017 est.)<br>
+_agriculture_: 3.9% (2023 est.)<br>
+_industry_: 21% (2023 est.)<br>
+_services_: 64.6% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 50.4% (2017 est.)<br>
-_government consumption_: 23.3% (2017 est.)<br>
-_investment in fixed capital_: 22.1% (2017 est.)<br>
-_investment in inventories_: 0% (2017 est.)<br>
-_exports of goods and services_: 47% (2017 est.)<br>
-_imports of goods and services_: -42.8% (2017 est.)<br>
+_household consumption_: 50% (2023 est.)<br>
+_government consumption_: 25.7% (2023 est.)<br>
+_investment in fixed capital_: 23.7% (2023 est.)<br>
+_investment in inventories_: 0.7% (2023 est.)<br>
+_exports of goods and services_: 43.4% (2023 est.)<br>
+_imports of goods and services_: -43.4% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, chicken, barley, lamb/mutton, potatoes, pork, beef, eggs, other meats, cucumbers/gherkins (2022)<br>
@@ -524,10 +526,6 @@ $5.809 billion (2023 est.)<br>
 $5.887 billion (2022 est.)<br>
 $7.079 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$19.422 billion (2019 est.)<br>
-$22.055 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Icelandic kronur (ISK) per US dollar -<br>

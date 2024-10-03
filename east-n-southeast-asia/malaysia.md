@@ -338,7 +338,7 @@ _elections/appointments_: king elected by and from the hereditary rulers of 9 st
 <strong>note: </strong>the position of the king is primarily ceremonial, but he is the final arbiter on the appointment of the prime minister<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament of Malaysia or Parlimen Malaysia consists of:<br>Senate or Dewan Negara (70 seats; 44 members appointed by the king and 26 indirectly elected by 13 state legislatures; members serve 3-year terms)<br>House of Representatives or Dewan Rakyat (222 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_description_: bicameral Parliament of Malaysia or Parlimen Malaysia consists of:<br>Senate or Dewan Negara (70 seats; 44 members appointed by the king and 26 indirectly elected by 13 state legislatures; members serve 3-year terms)<br><br>House of Representatives or Dewan Rakyat (222 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: Senate - appointed<br>House of Representatives - last held on 19 Nov 2022 (next to be held in 2027)<br>
 _election results_: Senate - appointed; composition - men 51, women 10, percentage women 16.4%<br><br>House of Representatives - percent of vote by party/coalition - PH 37.5%, PN 30.4%, BN 22.4%, GPS 4%, WARISAN 1.8%, GRS 1.3%, other 2.6%; seats by party/coalition - PH 90, PN 50, BN 42, GPS 18, WARISAN 7, PEJUANG 4, PBM 3, PSB 1, MUDA 1, independent 4, vacant 2; composition - 192 men, 30 women; percentage women 13.5%; total Parliament percentage women 9.2%<br>
 
@@ -425,17 +425,19 @@ _Standard & Poors rating_: A- (2003)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 8.8% (2017 est.)<br>
-_industry_: 37.6% (2017 est.)<br>
-_services_: 53.6% (2017 est.)<br>
+_agriculture_: 7.7% (2023 est.)<br>
+_industry_: 37.7% (2023 est.)<br>
+_services_: 53.5% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 55.3% (2017 est.)<br>
-_government consumption_: 12.2% (2017 est.)<br>
-_investment in fixed capital_: 25.3% (2017 est.)<br>
-_investment in inventories_: 0.3% (2017 est.)<br>
-_exports of goods and services_: 71.4% (2017 est.)<br>
-_imports of goods and services_: -64.4% (2017 est.)<br>
+_household consumption_: 60.4% (2023 est.)<br>
+_government consumption_: 12% (2023 est.)<br>
+_investment in fixed capital_: 19.2% (2023 est.)<br>
+_investment in inventories_: 3.3% (2023 est.)<br>
+_exports of goods and services_: 68.4% (2023 est.)<br>
+_imports of goods and services_: -63.4% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 oil palm fruit, rice, chicken, eggs, coconuts, tropical fruits, vegetables, rubber, bananas, pineapples (2022)<br>
@@ -473,8 +475,8 @@ _female_: 14.2% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 27.5% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 1.9% of household expenditures (2021 est.)<br>
+_on food_: 24.5% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 1.8% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.3% (2021 est.)<br>
@@ -538,10 +540,6 @@ $113.438 billion (2023 est.)<br>
 $114.659 billion (2022 est.)<br>
 $116.916 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$224.596 billion (2019 est.)<br>
-$226.901 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: ringgits (MYR) per US dollar -<br>

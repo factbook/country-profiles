@@ -426,17 +426,19 @@ _Standard & Poors rating_: AA- (2018)<br>
 <strong>note: </strong>the year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.4% (2017 est.)<br>
-_industry_: 26.5% (2017 est.)<br>
-_services_: 69.5% (2017 est.)<br>
+_agriculture_: 1.3% (2021 est.)<br>
+_industry_: 17.2% (2021 est.)<br>
+_services_: 72.4% (2021 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 55.1% (2017 est.)<br>
-_government consumption_: 22.8% (2017 est.)<br>
-_investment in fixed capital_: 20.1% (2017 est.)<br>
-_investment in inventories_: 0.7% (2017 est.)<br>
-_exports of goods and services_: 28.9% (2017 est.)<br>
-_imports of goods and services_: -27.5% (2017 est.)<br>
+_household consumption_: 48.2% (2023 est.)<br>
+_government consumption_: 22.4% (2023 est.)<br>
+_investment in fixed capital_: 24% (2023 est.)<br>
+_investment in inventories_: 1.7% (2023 est.)<br>
+_exports of goods and services_: 30.9% (2023 est.)<br>
+_imports of goods and services_: -27.1% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, chicken, potatoes, tomatoes, avocados, bananas, grapefruits, eggs, tangerines/mandarins, carrots/turnips (2022)<br>
@@ -474,8 +476,8 @@ _female_: 5.9% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 16% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 2.8% of household expenditures (2021 est.)<br>
+_on food_: 16% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 2.8% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.9% (2021 est.)<br>
@@ -538,11 +540,6 @@ $204.661 billion (2023 est.)<br>
 $194.231 billion (2022 est.)<br>
 $212.934 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$132.5 billion (31 December 2020 est.)<br>
-$99.886 billion (2019 est.)<br>
-$94.247 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: new Israeli shekels (ILS) per US dollar -<br>
@@ -667,7 +664,7 @@ _key ports_: Ashdod, Ashqelon, Elat, Hadera, Haifa<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Israel Defense Forces (IDF): Ground Forces, Israel Naval Force (IN, includes commandos), Israel Air Force (IAF, includes air defense) (2023)<br>
+Israel Defense Forces (IDF): Ground Forces, Israel Naval Force (IN, includes commandos), Israel Air Force (IAF, includes air defense) (2024)<br>
 <strong>note 1:</strong> the national police, including the border police and the immigration police, are under the authority of the Ministry of Public Security<br><br><strong>note 2:</strong> the Israeli Security Agency (ISA) is charged with combating terrorism and espionage in Israel and the West Bank and Gaza Strip; it is under the authority of the Prime Minister; ISA forces operating in the West Bank fall under the IDF for operations and operational debriefing<br>
 
 **Military expenditures**<br>
@@ -681,14 +678,14 @@ Israel Defense Forces (IDF): Ground Forces, Israel Naval Force (IN, includes com
 approximately 170,000 active-duty personnel (130,000 Ground Forces; 10,000 Naval; 30,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the majority of the IDF's inventory is comprised of weapons that are domestically produced or imported from Europe and the US; the US has been the leading supplier of arms in recent years; Israel has a broad defense industrial base that can develop, produce, support, and sustain a wide variety of weapons systems for both domestic use and export, particularly armored vehicles, unmanned aerial systems, air defense, and guided missiles (2023)<br>
+the majority of the IDF's inventory is comprised of weapons that are domestically produced or imported from Europe and the US; the US has been the leading supplier of arms in recent years; Israel has a broad defense industrial base that can develop, produce, support, and sustain a wide variety of weapons systems for both domestic use and export, particularly armored vehicles, unmanned aerial systems, air defense, and guided missiles (2024)<br>
 
 **Military service age and obligation**<br>
-18 years of age for compulsory military service; 17 years of age for voluntary military service; Jews and Druze can be conscripted; Christians, Circassians, and Muslims may volunteer; both sexes are obligated to military service; conscript service obligation is 32 months for enlisted men and about 24 months for enlisted women (varies based on military occupation); officers serve 48 months; Air Force pilots commit to 9 years of service; reserve obligation to age 41-51 (men), age 24 (women) (2023)<br>
-<strong>note 1:</strong> women have served in the Israeli military since its establishment in 1948; as of 2021, women made up about 35% of IDF personnel; more than 90% of military specialties, including combat specialties, were open to women and more than 3,000 women were serving in combat units; the IDF's first mixed-gender infantry unit, the Caracal Battalion, was established in 2004<br><br><strong>note 2:</strong> conscripts comprise about 70% of the IDF active-duty ground forces<br><br><strong>note 3:</strong> the IDF recruits non-Israeli Jews and non-Jews with a minimum of one Jewish grandparent, as well as converts to Judaism; each year the IDF brings in about 800-1,000 foreign recruits from around the world<br>
+18 years of age for compulsory military service; 17 years of age for voluntary military service; Jews and Druze can be conscripted; Christians, Circassians, and Muslims may volunteer; both sexes are obligated to military service; conscript service obligation is 32 months for enlisted men and about 24 months for enlisted women (varies based on military occupation); officers serve 48 months; Air Force pilots commit to 9 years of service; reserve obligation to age 41-51 (men), age 24 (women) (2024)<br>
+<strong>note:</strong> the IDF recruits foreign Jews and non-Jews with a minimum of one Jewish grandparent, as well as converts to Judaism; each year the IDF brings in about 800-1,000 foreign recruits from around the world<br>
 
 **Military - note**<br>
-the IDF is responsible for external defense but also has some domestic security responsibilities; its primary operational focuses include the threat posed by Iran, instability in Syria, and terrorist organizations, including HAMAS, Hizballah, the Islamic State of Iraq and ash-Sham (ISIS), and Palestine Islamic Jihad (PIJ); it has considerable experience in conventional and unconventional warfare; since the country’s founding in 1948, the IDF has been in conflicts against one or more of its Arab neighbors in 1948-49, 1956, 1967, 1967-70 (“War of Attrition”), 1973, 1982, and 2006; it bombed nuclear sites in Iraq in 1981 and Syria in 2007, and since the outbreak of the Syrian civil war in 2011, has conducted numerous air strikes in Syria against Iranian, Iranian-backed militia, Hizballah, and Syrian Government targets; over the same period, the IDF has carried out strikes against Hizballah in Lebanon in response to attacks on Israeli territory; the IDF has conducted numerous operations against HAMAS and PIJ, which operate out of the Gaza Strip and have launched numerous rocket attacks against Israel; HAMAS and Israel fought an 11-day conflict in 2021, which ended in an informal truce, although sporadic clashes continued; in October 2023, HAMAS conducted a surprise ground assault from Gaza into Israel, supported by rockets and armed drones, killing more than 1,000 Israelis and foreigners living in Israel; the attack resulted in an IDF ground invasion of Gaza where fighting continued into 2024<br><br>since its creation from armed Jewish militias during the First Arab-Israeli War in 1948-49, the IDF, particularly the Ground Force, has been guided by a requirement to rapidly mobilize and defend the country’s territory from numerically superior neighboring countries; the active-duty military is backed up by a large force of trained reserves--approximately 300-400,000 personnel--that can be mobilized rapidly <br><br>Israel’s primary security partner is the US; consistent with a 10-year (2019-2028) Memorandum of Understanding, the US annually provides over $3 billion in military financing and cooperative military programs, such as missile defense; the US also provides Israel access to US-produced military weapons systems including advanced fighter aircraft; Israel has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the United Nations Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; UNDOF consists of about 1,000 military personnel (2024)<br>
+the IDF is responsible for external defense but also has some domestic security responsibilities; its primary operational focuses include the threat posed by Iran, instability in Syria, and terrorist organizations, including HAMAS, Hizballah, the Islamic State of Iraq and ash-Sham (ISIS), and Palestine Islamic Jihad (PIJ); it has considerable experience in conventional and unconventional warfare; since the country’s founding in 1948, the IDF has been in conflicts against one or more of its Arab neighbors in 1948-49, 1956, 1967, 1967-70 (“War of Attrition”), 1973, 1982, and 2006; it bombed nuclear sites in Iraq in 1981 and Syria in 2007, and since the outbreak of the Syrian civil war in 2011, has conducted numerous air strikes in Syria against Iranian, Iranian-backed militia, Hizballah, and Syrian Government targets; over the same period, the IDF has carried out strikes against Hizballah in Lebanon in response to attacks on Israeli territory; the IDF has conducted numerous operations against HAMAS and PIJ, which operate out of the Gaza Strip and have launched dozens of rocket attacks against Israel; HAMAS and Israel fought an 11-day conflict in 2021, which ended in an informal truce, although sporadic clashes continued; in October 2023, HAMAS conducted a surprise ground assault from Gaza into Israel, supported by rockets and armed drones, killing more than 1,000 Israelis and foreigners living in Israel; the attack resulted in an IDF ground invasion of Gaza where fighting continued into 2024<br><br>since its creation from armed Jewish militias during the First Arab-Israeli War in 1948-49, the IDF, particularly the Ground Force, has been guided by a requirement to rapidly mobilize and defend the country’s territory from numerically superior neighboring countries; the active-duty military is backed up by a large force of trained reserves--approximately 300-400,000 personnel--that can be mobilized rapidly <br><br>Israel’s primary security partner is the US; consistent with a 10-year (2019-2028) Memorandum of Understanding, the US annually provides over $3 billion in military financing and cooperative military programs, such as missile defense; the US also provides Israel access to US-produced military weapons systems including advanced fighter aircraft; Israel has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the United Nations Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; UNDOF consists of about 1,000 military personnel (2024)<br>
 
 ## Space
 

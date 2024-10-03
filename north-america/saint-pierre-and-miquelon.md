@@ -309,11 +309,6 @@ $261.3 million (2015 est.)<br>
 **Inflation rate (consumer prices)**<br>
 1.5% (2015)<br>
 
-**GDP - composition, by sector of origin**<br>
-_agriculture_: 2% (2006 est.)<br>
-_industry_: 15% (2006 est.)<br>
-_services_: 83% (2006 est.)<br>
-
 **Agricultural products**<br>
 vegetables; poultry, cattle, sheep, pigs; fish<br>
 
@@ -345,9 +340,6 @@ France 52%, Canada 42%, Netherlands 2%, Germany 1%, Belgium 1% (2022)<br>
 **Imports - commodities**<br>
 refined petroleum, packaged medicine, other foods, plastic products, cars (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Debt - external**<br>
-<p>NA</p><br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>

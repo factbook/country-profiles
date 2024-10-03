@@ -364,9 +364,6 @@ refined petroleum, machine parts, plastic products, machinery, natural gas (2022
 $47.58 million (31 December 2017 est.)<br>
 $51.47 million (31 December 2015 est.)<br>
 
-**Debt - external**<br>
-$8.9 million (1997)<br>
-
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
 2.7 (2023 est.)<br>

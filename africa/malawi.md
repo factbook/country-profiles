@@ -440,15 +440,15 @@ $14.084 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 28.6% (2017 est.)<br>
-_industry_: 15.4% (2017 est.)<br>
-_services_: 56% (2017 est.)<br>
+_agriculture_: 22.1% (2023 est.)<br>
+_industry_: 18.3% (2023 est.)<br>
+_services_: 52.2% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 84.3% (2017 est.)<br>
 _government consumption_: 16.3% (2017 est.)<br>
 _investment in fixed capital_: 15.3% (2017 est.)<br>
-_investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 27.9% (2017 est.)<br>
 _imports of goods and services_: -43.8% (2017 est.)<br>
 
@@ -551,8 +551,8 @@ $766.155 million (2018 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$2.102 billion (31 December 2017 est.)<br>
-$1.5 billion (31 December 2016 est.)<br>
+$1.971 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Malawian kwachas (MWK) per US dollar -<br>

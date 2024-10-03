@@ -329,18 +329,14 @@ $871 million (2022 est.)<br>
 -0.5% (2015 est.)<br>
 1.4% (2014 est.)<br>
 
-**GDP - composition, by sector of origin**<br>
-_agriculture_: 27.4% (2012)<br>
-_industry_: 12.4% (2012)<br>
-_services_: 60.2% (2012)<br>
-
 **GDP - composition, by end use**<br>
-_household consumption_: 66.4% (2016 est.)<br>
+_household consumption_: 71.3% (2022 est.)<br>
 _government consumption_: 49.7% (2016 est.)<br>
 _investment in fixed capital_: 7.3% (2016 est.)<br>
 _investment in inventories_: 5.1% (2016 est.)<br>
-_exports of goods and services_: 65% (2016 est.)<br>
-_imports of goods and services_: -93.5% (2016 est.)<br>
+_exports of goods and services_: 47% (2022 est.)<br>
+_imports of goods and services_: -77.7% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 bananas, coconuts, vegetables, taro, breadfruit, yams, copra, pineapples, papayas; dairy products, livestock<br>
@@ -388,9 +384,6 @@ Malaysia 27%, Singapore 24%, Fiji 12%, South Korea 9%, Taiwan 9% (2022)<br>
 **Imports - commodities**<br>
 refined petroleum, fish, cars, paper containers, wood (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Debt - external**<br>
-<p>NA</p><br>
 
 **Exchange rates**<br>
 <p>the US dollar is used</p><br>

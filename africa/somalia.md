@@ -328,7 +328,7 @@ _election results_: <em><br>2022:</em> HASSAN SHEIKH Mohamud elected president i
 _description_: bicameral Federal Parliament to consist of:<br>Senate (54 seats; senators indirectly elected by state assemblies to serve 4-year terms)<br>House of the People (275 seats; members indirectly elected by electoral colleges, each consisting of 51 delegates selected by the 136 Traditional Elders in consultation with sub-clan elders; members serve 4-year terms)<br>
 _elections_: Senate - first held on 10 October 2016; last held 27 July - 13 November 2021 (next to be held in 2024)<br>House of the People - first held 23 October - 10 November 2016 (next scheduled for September - October 2021 but postponed to November 2021 and then extended several times until April 2022; next to be held in June 2024)<br>
 _election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 40, women 14, percentage women 25.9%<br><br>House of the People - percent of vote by party - NA; seats by party - NA; composition - men 221, women 54, percentage women 19.6%; total Federal Parliament percentage women 20.7%<br>
-<strong>note 1:</strong> the inaugural House of the People was appointed in September 2012 by clan elders; in 2016 and 2017, the Federal Parliament became bicameral with indirect elections scheduled for 10 October 2016 for the Upper House - renamed 'Senate' and 23 October to 10 November 2016 for the House of the People; while the elections were delayed, they were eventually held in most regions despite voting irregularities; on 27 December 2016, 41 Upper House senators and 242 House of the People Members of Parliament were sworn in<br><strong><br>note 2: </strong>despite the formation of political parties in 2020, the 2021 parliamentary elections maintained a primarily clan-based system of appointments; seats in the legislature were apportioned to Somali member states and not by party representation <br><br><br><br><br><br>
+<strong>note: </strong>despite the formation of political parties in 2020, the 2021 parliamentary elections maintained a primarily clan-based system of appointments; seats in the legislature were apportioned to Somali member states and not by party representation <br><br><br><br><br><br>
 
 **Judicial branch**<br>
 _highest court(s)_: the provisional constitution stipulates the establishment of the Constitutional Court (consists of 5 judges, including the chief judge and deputy chief judge); note - under the terms of the 2004 Transitional National Charter, a Supreme Court based in Mogadishu and the Appeal Court were established; yet most regions have reverted to local forms of conflict resolution, either secular, traditional Somali customary law, or Islamic law<br>
@@ -343,7 +343,7 @@ _subordinate courts_: federal courts; federal member state-level courts; militar
 ACP, AfDB, AFESD, AMF, AU, CAEU (candidate), EAC, FAO, G-77, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, LAS, NAM, OIC, OPCW, OPCW (signatory), UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UPU, WFTU (NGOs), WHO, WIPO, WMO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Ali Sharif AHMED (since 16 September 2019)<br>
+_chief of mission_: Ambassador DAHIR Hassan Abdi (since 18 September 2024)<br>
 _chancery_: 1609 22nd Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 853-9164<br>
 _email address and website_: <br>info@somaliembassydc.net<br><br>https://somaliembassydc.net/<br>
@@ -400,18 +400,13 @@ $11.68 billion (2023 est.)<br>
 1.5% (2017 est.)<br>
 -71.1% (2016 est.)<br>
 
-**GDP - composition, by sector of origin**<br>
-_agriculture_: 60.2% (2013 est.)<br>
-_industry_: 7.4% (2013 est.)<br>
-_services_: 32.5% (2013 est.)<br>
-
 **GDP - composition, by end use**<br>
-_household consumption_: 72.6% (2015 est.)<br>
-_government consumption_: 8.7% (2015 est.)<br>
-_investment in fixed capital_: 20% (2015 est.)<br>
-_investment in inventories_: 0.8% (2016 est.)<br>
-_exports of goods and services_: 0.3% (2015 est.)<br>
-_imports of goods and services_: -1.6% (2015 est.)<br>
+_household consumption_: 126.4% (2023 est.)<br>
+_government consumption_: 7% (2023 est.)<br>
+_investment in fixed capital_: 25.3% (2023 est.)<br>
+_exports of goods and services_: 17.9% (2023 est.)<br>
+_imports of goods and services_: -76.7% (2023 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 camel milk, milk, goat milk, sheep milk, sugarcane, fruits, sorghum, cassava, vegetables, maize (2022)<br>
@@ -493,9 +488,6 @@ tobacco, raw sugar, palm oil, rice, milk (2022)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $30.45 million (2014 est.)<br>
-
-**Debt - external**<br>
-$5.3 billion (31 December 2014 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Somali shillings (SOS) per US dollar -<br>
@@ -609,7 +601,7 @@ Somali National Armed Forces (SNAF; aka Somali National Defense Force): Land For
 5.9% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 20-25,000 regular military personnel (2024)<br>
+estimated 20,000 regular military personnel (2024)<br>
 <strong>note: </strong>tens of thousands of militia forces are also active in Somalia<br>
 
 **Military equipment inventories and acquisitions**<br>

@@ -297,11 +297,6 @@ Saint Helena plover (bird)<br>
 **Economic overview**<br>
 upper middle-income, British Atlantic Ocean territorial economy; native (but pegged to British pound) currency user on 2 of 3 islands; significant UK financial support; unique land/farming commune structure; military-related economic activity; sport fishing locale<br>
 
-**GDP - composition, by sector of origin**<br>
-_agriculture_: NA<br>
-_industry_: NA<br>
-_services_: NA<br>
-
 **Agricultural products**<br>
 coffee, corn, potatoes, vegetables; fish, lobster; livestock; timber<br>
 
@@ -328,9 +323,6 @@ UK 44%, South Africa 25%, US 21%, Czechia 4%, Namibia 2% (2022)<br>
 **Imports - commodities**<br>
 asphalt, baked goods, air pumps, plastic products, iron sheet piling (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Debt - external**<br>
-<p>NA</p><br>
 
 **Exchange rates**<br>
 _Currency_: Saint Helena pounds (SHP) per US dollar -<br>

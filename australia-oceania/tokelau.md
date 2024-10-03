@@ -197,7 +197,7 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 <strong>note:</strong> the meeting place of the Tokelau Council and the head of government position rotates annually among the three atolls; this tradition has given rise to the somewhat misleading description that the capital rotates yearly between the three atolls; in actuality, it is the seat of the government councilors that rotates since Tokelau has no capital<br>
 
 **Legislative branch**<br>
-_description_: unicameral General Fono (20 seats apportioned by island - Atafu 7, Fakaofo 7, Nukunonu 6; members directly elected by simple majority vote to serve 3-year terms); note - the Tokelau Amendment Act of 1996 confers limited legislative power to the General Fono<br>
+_description_: unicameral General Fono (20 seats apportioned by island - Atafu 7, Fakaofo 7, Nukunonu 6; members directly elected by simple majority vote to serve 3-year terms)<br>
 _elections_: last held on 26 January 2023 depending on island (next to be held in January 2026)<br>
 _election results_: percent of vote by party - NA; seats by party - independent 20; composition - men 17, women 3, percentage women 15%<br>
 
@@ -253,11 +253,6 @@ $12.658 million (2017 est.)<br>
 2.5% (2019 est.)<br>
 11% (2017 est.)<br>
 <strong>note: </strong>Tokelau notes that its wide inflation swings are due almost entirely to cigarette prices, a chief import.<br>
-
-**GDP - composition, by sector of origin**<br>
-_agriculture_: NA<br>
-_industry_: NA<br>
-_services_: NA<br>
 
 **Agricultural products**<br>
 coconuts, root vegetables, tropical fruits, pork, bananas, eggs, chicken, pork offal, pork fat, fruits (2022)<br>

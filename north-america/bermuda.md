@@ -360,17 +360,18 @@ _Standard & Poors rating_: A+ (2015)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.9% (2017 est.)<br>
-_industry_: 5.3% (2017 est.)<br>
-_services_: 93.8% (2017 est.)<br>
+_agriculture_: 0.2% (2022 est.)<br>
+_industry_: 5.4% (2022 est.)<br>
+_services_: 90.5% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 51.3% (2017 est.)<br>
-_government consumption_: 15.7% (2017 est.)<br>
-_investment in fixed capital_: 13.7% (2017 est.)<br>
-_investment in inventories_: 0% (2017 est.)<br>
-_exports of goods and services_: 49.8% (2017 est.)<br>
-_imports of goods and services_: -30.4% (2017 est.)<br>
+_household consumption_: 47.2% (2022 est.)<br>
+_government consumption_: 11.9% (2022 est.)<br>
+_investment in fixed capital_: 12.1% (2022 est.)<br>
+_exports of goods and services_: 50.5% (2022 est.)<br>
+_imports of goods and services_: -25% (2022 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 bananas, vegetables, citrus, flowers; dairy products, honey<br>
@@ -443,10 +444,6 @@ US 34%, Norway 19%, South Korea 19%, China 5%, Canada 5% (2022)<br>
 **Imports - commodities**<br>
 ships, refined petroleum, railway cargo containers, packaged medicine, cars (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Debt - external**<br>
-$2.515 billion (2017 est.)<br>
-$2.435 billion (2015 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Bermudian dollars (BMD) per US dollar -<br>

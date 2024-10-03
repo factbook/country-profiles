@@ -428,17 +428,19 @@ _Fitch rating_: B (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 5.8% (2016 est.)<br>
-_industry_: 39.2% (2016 est.)<br>
-_services_: 54.9% (2017 est.)<br>
+_agriculture_: 6.3% (2023 est.)<br>
+_industry_: 29.5% (2023 est.)<br>
+_services_: 51.4% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 69.2% (2017 est.)<br>
-_government consumption_: 26.4% (2017 est.)<br>
-_investment in fixed capital_: 31.4% (2017 est.)<br>
-_investment in inventories_: -13.4% (2017 est.)<br>
-_exports of goods and services_: 40.8% (2017 est.)<br>
-_imports of goods and services_: -54.4% (2017 est.)<br>
+_household consumption_: 88.7% (2022 est.)<br>
+_government consumption_: 34.2% (2022 est.)<br>
+_investment in fixed capital_: 28% (2022 est.)<br>
+_investment in inventories_: 0.3% (2022 est.)<br>
+_exports of goods and services_: 47.2% (2022 est.)<br>
+_imports of goods and services_: -98.5% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, potatoes, maize, vegetables, fruits, beans, wheat, game meat, sorghum, wool (2022)<br>
@@ -539,8 +541,8 @@ $657.668 million (2017 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$868 million (2019 est.)<br>
-$834 million (2018 est.)<br>
+$830.976 million (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: maloti (LSL) per US dollar -<br>

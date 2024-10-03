@@ -460,17 +460,19 @@ _Standard & Poors rating_: AA (2013)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.7% (2017 est.)<br>
-_industry_: 19.5% (2017 est.)<br>
-_services_: 78.8% (2017 est.)<br>
+_agriculture_: 1.9% (2023 est.)<br>
+_industry_: 18.7% (2023 est.)<br>
+_services_: 69.2% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 54.1% (2017 est.)<br>
-_government consumption_: 23.6% (2017 est.)<br>
-_investment in fixed capital_: 22.5% (2017 est.)<br>
-_investment in inventories_: 0.9% (2017 est.)<br>
-_exports of goods and services_: 30.9% (2017 est.)<br>
-_imports of goods and services_: -32% (2017 est.)<br>
+_household consumption_: 53.7% (2023 est.)<br>
+_government consumption_: 23.3% (2023 est.)<br>
+_investment in fixed capital_: 24.8% (2023 est.)<br>
+_investment in inventories_: 0.4% (2023 est.)<br>
+_exports of goods and services_: 32.7% (2023 est.)<br>
+_imports of goods and services_: -34.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 wheat, sugar beets, milk, barley, maize, potatoes, grapes, rapeseed, pork, sunflower seeds (2022)<br>
@@ -508,8 +510,8 @@ _female_: 16% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 14.1% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 4.1% of household expenditures (2021 est.)<br>
+_on food_: 13.6% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 4.1% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9% (2021 est.)<br>
@@ -573,10 +575,6 @@ $240.792 billion (2023 est.)<br>
 $242.416 billion (2022 est.)<br>
 $244.28 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$6.356 trillion (2019 est.)<br>
-$6.058 trillion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
@@ -742,7 +740,7 @@ the French military's inventory consists mostly of domestically produced weapons
 
 **Military service age and obligation**<br>
 generally 17-30 years of age for both men and women with some variations by service, position, and enlisted versus officer; basic service contract is for 12 months; no conscription (abolished 2001) (2024)<br>
-<strong>note 1: </strong>in 2023, women comprised more than 16% of the uniformed armed forces  <br><br><strong>note 2:</strong> French citizens can also volunteer for the Voluntary Military Service (VMS), which allows unemployed youth aged 18-25 to learn a trade or gain work experience while receiving basic military training and sports activities; French citizens may also joint the military operational reserve up to age 72<br><br><strong>note 3:</strong> men between the ages of 17.5 and 39.5 years of age, of any nationality, may join the French Foreign Legion; those volunteers selected for service sign five-year contracts<br>
+<strong>note 1: </strong>in 2023, women comprised more than 16% of the uniformed armed forces  <br><br><strong>note 2:</strong> French citizens can also volunteer for the Voluntary Military Service (VMS), which allows unemployed youth aged 18-25 to learn a trade or gain work experience while receiving basic military training and sports activities; French citizens may also join the military operational reserve up to age 72<br><br><strong>note 3:</strong> men between the ages of 17.5 and 39.5 years of age, of any nationality, may join the French Foreign Legion; those volunteers selected for service sign five-year contracts<br>
 
 **Military deployments**<br>
 France typically has up to 30,000 total air, ground, and naval forces deployed on permanent or temporary foreign missions; up to 10,000 are permanently deployed, including Djibouti (1,400); French Guyana (2,000); French Polynesia (900); French West Indies (1,000); Reunion Island (1,700); West Africa (1,600; Cote d'Ivoire, Gabon, Senegal), and the UAE (700)<br><br>other non-permanent deployments include operations in Chad (1,000), NATO missions in Europe (2,000), the Middle East (850), and various EU (500) and UN (over 700, mostly in Lebanon under UNIFIL) missions (2024)<br>

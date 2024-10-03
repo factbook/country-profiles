@@ -439,17 +439,19 @@ _Standard & Poors rating_: BBB (2015)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 6.2% (2017 est.)<br>
-_industry_: 24.1% (2017 est.)<br>
-_services_: 69.7% (2017 est.)<br>
+_agriculture_: 5.6% (2023 est.)<br>
+_industry_: 16.4% (2023 est.)<br>
+_services_: 66.3% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 66.8% (2017 est.)<br>
-_government consumption_: 14.3% (2017 est.)<br>
-_investment in fixed capital_: 16.7% (2017 est.)<br>
-_investment in inventories_: -1% (2017 est.)<br>
-_exports of goods and services_: 21.6% (2017 est.)<br>
-_imports of goods and services_: -18.4% (2017 est.)<br>
+_household consumption_: 66.8% (2015 est.)<br>
+_government consumption_: 13.8% (2015 est.)<br>
+_investment in fixed capital_: 17.4% (2023 est.)<br>
+_investment in inventories_: -0.1% (2023 est.)<br>
+_exports of goods and services_: 27.5% (2023 est.)<br>
+_imports of goods and services_: -24.2% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, rice, wheat, barley, soybeans, beef, rapeseed, sugarcane, maize, oranges (2022)<br>
@@ -487,8 +489,8 @@ _female_: 28.3% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 18.8% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 1.3% of household expenditures (2021 est.)<br>
+_on food_: 18.6% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 1.3% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2% (2022 est.)<br>
@@ -552,10 +554,6 @@ $16.257 billion (2023 est.)<br>
 $15.127 billion (2022 est.)<br>
 $16.963 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$43.705 billion (2019 est.)<br>
-$42.861 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Uruguayan pesos (UYU) per US dollar -<br>

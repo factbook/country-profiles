@@ -315,19 +315,19 @@ $17.396 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices; entry includes West Bank and Gaza Strip<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.9% (2017 est.)<br>
-_industry_: 19.5% (2017 est.)<br>
-_services_: 77.6% (2017 est.)<br>
-<strong>note:</strong> excludes Gaza Strip<br>
+_agriculture_: 5.7% (2022 est.)<br>
+_industry_: 17.4% (2022 est.)<br>
+_services_: 58.3% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 91.3% (2017 est.)<br>
-_government consumption_: 26.7% (2017 est.)<br>
-_investment in fixed capital_: 23% (2017 est.)<br>
-_investment in inventories_: 0% (2017 est.)<br>
-_exports of goods and services_: 20% (2017 est.)<br>
-_imports of goods and services_: -61% (2017 est.)<br>
-<strong>note:</strong> excludes Gaza Strip<br>
+_household consumption_: 101.6% (2023 est.)<br>
+_government consumption_: 20.2% (2023 est.)<br>
+_investment in fixed capital_: 24.8% (2023 est.)<br>
+_investment in inventories_: 1.5% (2023 est.)<br>
+_exports of goods and services_: 19.6% (2023 est.)<br>
+_imports of goods and services_: -66.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 tomatoes, cucumbers, olives, poultry, milk, potatoes, sheep milk, eggplants, gourds<br>
@@ -426,11 +426,6 @@ $896.9 million (2022 est.)<br>
 $872.541 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars; entry includes West Bank and Gaza Strip<br>
 
-**Debt - external**<br>
-$1.662 billion (31 March 2016 est.)<br>
-$1.467 billion (31 March 2015 est.)<br>
-<strong>note:</strong> data include the Gaza Strip<br>
-
 **Exchange rates**<br>
 _Currency_: new Israeli shekels (ILS) per US dollar -<br>
 3.36 (2022 est.)<br>
@@ -523,14 +518,14 @@ _paved_: 4,686 km (2010)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-per the Oslo Accords, the PA is not permitted a conventional military but maintains security and police forces; PA security personnel have operated exclusively in the West Bank since HAMAS seized power in the Gaza Strip in 2007; PA forces include the National Security Forces, Presidential Guard, Civil Police, Civil Defense, Preventive Security Organization, the General Intelligence Organization, and the Military Intelligence Organization (2023)<br>
+per the Oslo Accords, the Palestinian Authority (PA) is not permitted a conventional military but maintains security and police forces; PA security personnel have operated exclusively in the West Bank since HAMAS seized power in the Gaza Strip in 2007; PA forces include the National Security Forces, Presidential Guard, Civil Police, Civil Defense, Preventive Security Organization, the General Intelligence Organization, and the Military Intelligence Organization (2024)<br>
 <strong>note:</strong> the National Security Forces conduct gendarmerie-style security operations in circumstances that exceed the capabilities of the Civil Police; it is the largest branch of the PA security services and acts as the internal Palestinian security force; the Presidential Guard protects facilities and provides dignitary protection; the Preventive Security Organization is responsible for internal intelligence gathering and investigations related to internal security cases, including political dissent<br>
 
 **Military expenditures**<br>
 not available<br>
 
 **Military and security service personnel strengths**<br>
-the PA Security Forces have approximately 28,000 active personnel (2023)<br>
+the PA police and security forces have approximately 28,000 active personnel, including about 11,500 National Security Forces (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the security services are armed mostly with small arms and light weapons; in recent years, they have received small amounts of equipment from Jordan, Russia, and the US (2023)<br>

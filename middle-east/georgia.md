@@ -423,17 +423,19 @@ _Standard & Poors rating_: BB (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 8.2% (2017 est.)<br>
-_industry_: 23.7% (2017 est.)<br>
-_services_: 67.9% (2017 est.)<br>
+_agriculture_: 6% (2023 est.)<br>
+_industry_: 19% (2023 est.)<br>
+_services_: 61.7% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 62.8% (2017 est.)<br>
-_government consumption_: 17.1% (2017 est.)<br>
-_investment in fixed capital_: 29.5% (2017 est.)<br>
-_investment in inventories_: 2.4% (2017 est.)<br>
-_exports of goods and services_: 50.4% (2017 est.)<br>
-_imports of goods and services_: -62.2% (2017 est.)<br>
+_household consumption_: 68.9% (2023 est.)<br>
+_government consumption_: 12.7% (2023 est.)<br>
+_investment in fixed capital_: 21.5% (2023 est.)<br>
+_investment in inventories_: 4.5% (2023 est.)<br>
+_exports of goods and services_: 49.4% (2023 est.)<br>
+_imports of goods and services_: -56.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, grapes, potatoes, wheat, maize, apples, watermelons, barley, tangerines/mandarins, tomatoes (2022)<br>
@@ -471,8 +473,8 @@ _female_: 32.7% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 32.3% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 3.5% of household expenditures (2021 est.)<br>
+_on food_: 32.1% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 3.4% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.7% (2021 est.)<br>
@@ -538,8 +540,8 @@ $4.271 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$18.149 billion (2019 est.)<br>
-$17.608 billion (2018 est.)<br>
+$6.976 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: laris (GEL) per US dollar -<br>
@@ -684,8 +686,8 @@ estimates vary; approximately 30,000 troops, including active National Guard for
 the majority of the military's inventory consists of Soviet-era weapons and equipment, although in recent years it has received armaments from a number of European countries, as well as the US (2023)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for voluntary military service for men and women; conscription was abolished in 2016, but reinstated in 2017 for men 18-27 years of age; conscript service obligation is 12 months (2023)<br>
-<strong>note 1: </strong>approximately 6-7,000 individuals are called up annually for conscription for service; approximately 25% enter the Defense Forces, while the remainder serve in the Ministry of Internal Affairs or as prison guards in the Ministry of Corrections<br><br><strong>note 2:</strong> as of 2022, women made up about 8% of the military's full-time personnel<br>
+18-27 years of age for voluntary military service for men and women; conscription was abolished in 2016, but reinstated in 2017 for men 18-27 years of age; conscript service obligation is 12 months (2024)<br>
+<strong>note 1: </strong>approximately 6-7,000 individuals are called up annually for conscription for service; conscripts serve in the Defense Forces, the Ministry of Internal Affairs, or the Ministry of Corrections<br><br><strong>note 2:</strong> as of 2022, women made up about 8% of the military's full-time personnel<br>
 
 **Military - note**<br>
 the Defense Forces of Georgia (DFG) are responsible for protecting the independence, sovereignty, and territorial integrity of the country; the DFG also provides units for multinational military operations abroad and supports the Border Police in border protection and civil authorities in counter-terrorist operations, if requested; it is focused primarily on Russia, which maintains military bases and troops in occupied Abkhazia and South Ossetia; a five-day conflict with Russian forces in 2008 resulted in the defeat and expulsion of Georgian forces from the breakaway regions <br><br>Georgia is not a member of NATO but has had a relationship with the Alliance since 1992 and declared its aspiration to join in 2002; the military is working to make itself more compatible with NATO and has participated in multinational exercises and security operations abroad with NATO, such as Afghanistan, where it was one of the top non-NATO contributors, and Kosovo; the DFG has also contributed troops to EU and UN missions (2024)<br>

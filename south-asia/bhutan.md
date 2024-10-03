@@ -378,17 +378,19 @@ $2.898 billion (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 16.2% (2017 est.)<br>
-_industry_: 41.8% (2017 est.)<br>
-_services_: 42% (2017 est.)<br>
+_agriculture_: 14.7% (2022 est.)<br>
+_industry_: 31.8% (2022 est.)<br>
+_services_: 51.2% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 58% (2017 est.)<br>
-_government consumption_: 16.8% (2017 est.)<br>
-_investment in fixed capital_: 47.2% (2017 est.)<br>
-_investment in inventories_: 0% (2017 est.)<br>
-_exports of goods and services_: 26% (2017 est.)<br>
-_imports of goods and services_: -48% (2017 est.)<br>
+_household consumption_: 57.6% (2022 est.)<br>
+_government consumption_: 21% (2022 est.)<br>
+_investment in fixed capital_: 55.2% (2022 est.)<br>
+_investment in inventories_: 0.1% (2022 est.)<br>
+_exports of goods and services_: 25.8% (2022 est.)<br>
+_imports of goods and services_: -60.1% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, rice, root vegetables, potatoes, maize, oranges, areca nuts, chilies/peppers, pumpkins/squash, bison milk (2022)<br>
@@ -490,8 +492,8 @@ $1.238 billion (2019 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$2.671 billion (31 December 2017 est.)<br>
-$2.355 billion (31 December 2016 est.)<br>
+$2.514 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: ngultrum (BTN) per US dollar -<br>

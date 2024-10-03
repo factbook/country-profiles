@@ -356,17 +356,10 @@ $154.128 million (2023 est.)<br>
 5.1% (2017 est.)<br>
 8.2% (2016 est.)<br>
 
-**GDP - composition, by sector of origin**<br>
-_agriculture_: 6.1% (2009 est.)<br>
-_industry_: 33% (2009 est.)<br>
-_services_: 60.8% (2009 est.)<br>
-
 **GDP - composition, by end use**<br>
-_household consumption_: 98% (2016 est.)<br>
-_government consumption_: 37.6% (2016 est.)<br>
-_investment in fixed capital_: 42.2% (2016 est.)<br>
-_exports of goods and services_: 11.2% (2016 est.)<br>
-_imports of goods and services_: -89.1% (2016 est.)<br>
+_exports of goods and services_: 54.7% (2022 est.)<br>
+_imports of goods and services_: -113.2% (2022 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 coconuts, tropical fruits, pork, eggs, pork offal, pork fat, chicken, papayas, vegetables, cabbages (2022)<br>
@@ -429,9 +422,6 @@ Australia 47%, China 17%, Japan 12%, Fiji 11%, NZ 2% (2022)<br>
 **Imports - commodities**<br>
 ships, plastic products, other foods, cars, refined petroleum (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Debt - external**<br>
-$33.3 million (2004 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Australian dollars (AUD) per US dollar -<br>

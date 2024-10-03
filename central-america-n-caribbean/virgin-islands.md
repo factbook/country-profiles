@@ -328,18 +328,14 @@ $4.444 billion (2021 est.)<br>
 1% (2016 est.)<br>
 2.6% (2015 est.)<br>
 
-**GDP - composition, by sector of origin**<br>
-_agriculture_: 2% (2012 est.)<br>
-_industry_: 20% (2012 est.)<br>
-_services_: 78% (2012 est.)<br>
-
 **GDP - composition, by end use**<br>
-_household consumption_: 68.2% (2016 est.)<br>
-_government consumption_: 26.8% (2016 est.)<br>
+_household consumption_: 65.8% (2021 est.)<br>
+_government consumption_: 33.6% (2021 est.)<br>
 _investment in fixed capital_: 7.5% (2016 est.)<br>
-_investment in inventories_: 15% (2016 est.) NA<br>
-_exports of goods and services_: 46.7% (2016 est.)<br>
-_imports of goods and services_: -64.3% (2016 est.)<br>
+_investment in inventories_: 15% (2016 est.)<br>
+_exports of goods and services_: 91.7% (2021 est.)<br>
+_imports of goods and services_: -91.5% (2021 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 fruit, vegetables, sorghum; Senepol cattle<br>
@@ -400,9 +396,6 @@ India 18%, Algeria 14%, South Korea 9%, Argentina 9%, Sweden 7%, Brazil 5% (2019
 
 **Imports - commodities**<br>
 refined petroleum, crude petroleum, rubber piping, jewelry, beer (2019)<br>
-
-**Debt - external**<br>
-<p>NA</p><br>
 
 **Exchange rates**<br>
 <p>the US dollar is used</p><br>

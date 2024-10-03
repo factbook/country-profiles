@@ -420,17 +420,18 @@ _Standard & Poors rating_: AA (2016)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.2% (2017 est.)<br>
-_industry_: 39.3% (2017 est.)<br>
-_services_: 58.3% (2017 est.)<br>
+_agriculture_: 1.6% (2023 est.)<br>
+_industry_: 31.6% (2023 est.)<br>
+_services_: 58.4% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 48.1% (2017 est.)<br>
-_government consumption_: 15.3% (2017 est.)<br>
-_investment in fixed capital_: 31.1% (2017 est.)<br>
-_investment in inventories_: 0% (2017 est.)<br>
-_exports of goods and services_: 43.1% (2017 est.)<br>
-_imports of goods and services_: -37.7% (2017 est.)<br>
+_household consumption_: 48.9% (2023 est.)<br>
+_government consumption_: 18.9% (2023 est.)<br>
+_investment in fixed capital_: 32.2% (2023 est.)<br>
+_exports of goods and services_: 44% (2023 est.)<br>
+_imports of goods and services_: -43.9% (2023 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 rice, vegetables, cabbages, milk, pork, onions, chicken, eggs, tangerines/mandarins, potatoes (2022)<br>
@@ -467,8 +468,8 @@ _female_: 5.4% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 12.8% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 1.8% of household expenditures (2021 est.)<br>
+_on food_: 12.1% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 1.8% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8% (2016 est.)<br>
@@ -532,10 +533,6 @@ $420.93 billion (2023 est.)<br>
 $423.366 billion (2022 est.)<br>
 $463.281 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$457.745 billion (2019 est.)<br>
-$435.98 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: South Korean won (KRW) per US dollar -<br>

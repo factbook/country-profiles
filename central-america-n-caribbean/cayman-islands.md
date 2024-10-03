@@ -340,17 +340,19 @@ _Moody's rating_: Aa3 (1997)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.3% (2017 est.)<br>
-_industry_: 7.4% (2017 est.)<br>
-_services_: 92.3% (2017 est.)<br>
+_agriculture_: 0.5% (2022 est.)<br>
+_industry_: 8.2% (2022 est.)<br>
+_services_: 85.4% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 62.3% (2017 est.)<br>
-_government consumption_: 14.5% (2017 est.)<br>
+_government consumption_: 2.6% (2020 est.)<br>
 _investment in fixed capital_: 22.1% (2017 est.)<br>
 _investment in inventories_: 0.1% (2017 est.)<br>
-_exports of goods and services_: 65.4% (2017 est.)<br>
-_imports of goods and services_: -64.2% (2017 est.)<br>
+_exports of goods and services_: 59.6% (2020 est.)<br>
+_imports of goods and services_: -45.8% (2020 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 vegetables, fruit; livestock; turtle farming<br>

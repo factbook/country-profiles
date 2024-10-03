@@ -363,7 +363,7 @@ Alliance of Progressives or AP <br>Botswana Congress Party or BCP <br>Botswana
 ACP, AfDB, AU, C, CD, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, SACU, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Onkokame Kitso MOKAILA (since 17 September 2020)<br>
+_chief of mission_: Ambassador Mpho Churchill MOPHUTING (since 18 September 2024)<br>
 _chancery_: 1531-1533 New Hampshire Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 244-4990<br>
 _FAX_: [1] (202) 244-4164<br>
@@ -431,17 +431,19 @@ _Standard & Poors rating_: BBB+ (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.8% (2017 est.)<br>
-_industry_: 27.5% (2017 est.)<br>
-_services_: 70.6% (2017 est.)<br>
+_agriculture_: 1.6% (2023 est.)<br>
+_industry_: 34.3% (2023 est.)<br>
+_services_: 59.4% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 48.5% (2017 est.)<br>
-_government consumption_: 18.4% (2017 est.)<br>
-_investment in fixed capital_: 29% (2017 est.)<br>
-_investment in inventories_: -1.8% (2017 est.)<br>
-_exports of goods and services_: 39.8% (2017 est.)<br>
-_imports of goods and services_: -33.9% (2017 est.)<br>
+_household consumption_: 42.9% (2023 est.)<br>
+_government consumption_: 28.9% (2023 est.)<br>
+_investment in fixed capital_: 25.7% (2023 est.)<br>
+_investment in inventories_: 4.7% (2023 est.)<br>
+_exports of goods and services_: 31.7% (2023 est.)<br>
+_imports of goods and services_: -35.7% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, root vegetables, vegetables, maize, sorghum, beef, game meat, watermelons, cabbages, goat milk (2022)<br>
@@ -542,8 +544,8 @@ $4.802 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$2.187 billion (31 December 2017 est.)<br>
-$2.421 billion (31 December 2016 est.)<br>
+$1.507 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: pulas (BWP) per US dollar -<br>

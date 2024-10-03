@@ -441,17 +441,19 @@ _Standard & Poors rating_: BB (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 15.3% (2017 est.)<br>
-_industry_: 33.3% (2017 est.)<br>
-_services_: 51.3% (2017 est.)<br>
+_agriculture_: 12% (2023 est.)<br>
+_industry_: 37.1% (2023 est.)<br>
+_services_: 42.5% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 66.9% (2017 est.)<br>
-_government consumption_: 6.5% (2017 est.)<br>
-_investment in fixed capital_: 24.2% (2017 est.)<br>
-_investment in inventories_: 2.8% (2017 est.)<br>
-_exports of goods and services_: 100% (2017 est.)<br>
-_imports of goods and services_: -101% (2017 est.)<br>
+_household consumption_: 54.8% (2022 est.)<br>
+_government consumption_: 8.9% (2022 est.)<br>
+_investment in fixed capital_: 30.8% (2022 est.)<br>
+_investment in inventories_: 1.8% (2022 est.)<br>
+_exports of goods and services_: 93.8% (2022 est.)<br>
+_imports of goods and services_: -90% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 rice, vegetables, sugarcane, cassava, maize, pork, fruits, bananas, coffee, coconuts (2022)<br>
@@ -489,8 +491,8 @@ _female_: 5.9% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 31.2% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 2.1% of household expenditures (2021 est.)<br>
+_on food_: 31.1% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 2.1% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6% (2022 est.)<br>
@@ -553,10 +555,6 @@ $86.54 billion (2022 est.)<br>
 $109.371 billion (2021 est.)<br>
 $94.834 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$96.58 billion (31 December 2017 est.)<br>
-$84.34 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: dong (VND) per US dollar -<br>
@@ -703,7 +701,7 @@ People's Army of Vietnam (PAVN; aka Vietnam People's Army, VPA): Ground Forces, 
 information is limited and varied; estimated 450,000 active-duty troops; estimated 40,000 Border Defense Force and Coast Guard (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the PAVN is armed largely with weapons and equipment from Russia and the former Soviet Union; in recent years, Russia has remained the most important supplier of newer PAVN military equipment, but Vietnam has diversified arms purchases to include more than a dozen other countries including Belarus, Israel, the Netherlands, South Korea, and the US; Vietnam has a limited domestic defense industry (2023)<br>
+the PAVN is armed largely with weapons and equipment from Russia and the former Soviet Union; in recent years, Russia has remained the leading supplier of newer PAVN military equipment, but Vietnam has diversified arms purchases to include more than a dozen other countries including Belarus, Israel, the Netherlands, South Korea, and the US; Vietnam has a limited domestic defense industry (2023)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory and voluntary military service for men and women (in practice only men are drafted); service obligation is between 24 (Army, Air Defense) and 36 (Navy and Air Force) months (2023)<br>

@@ -381,17 +381,19 @@ $263.021 million (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 3% (2016 est.)<br>
-_industry_: 19% (2016 est.)<br>
-_services_: 78% (2016 est.)<br>
+_agriculture_: 3.4% (2022 est.)<br>
+_industry_: 12.3% (2022 est.)<br>
+_services_: 80.1% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 60.5% (2016 est.)<br>
-_government consumption_: 27.2% (2016 est.)<br>
-_investment in fixed capital_: 22.7% (2016 est.)<br>
-_investment in inventories_: 1.9% (2016 est.)<br>
-_exports of goods and services_: 55.2% (2016 est.)<br>
-_imports of goods and services_: -67.6% (2016 est.)<br>
+_household consumption_: 82% (2022 est.)<br>
+_government consumption_: 38.3% (2022 est.)<br>
+_investment in fixed capital_: 38.7% (2022 est.)<br>
+_investment in inventories_: 1.2% (2022 est.)<br>
+_exports of goods and services_: 14.2% (2022 est.)<br>
+_imports of goods and services_: -78.3% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 coconuts, cassava (manioc, tapioca), sweet potatoes; fish, pigs, chickens, eggs, bananas, papaya, breadfruit, calamansi, soursop, Polynesian chestnuts, Polynesian almonds, mangoes, taro, guava, beans, cucumbers, squash/pumpkins (various), eggplant, green onions, kangkong (watercress), cabbages (various), radishes, betel nuts, melons, peppers, noni, okra<br>
@@ -466,10 +468,6 @@ ships, refined petroleum, iron structures, plastic products, electric batteries 
 
 **Reserves of foreign exchange and gold**<br>
 $580.9 million (31 December 2015 est.)<br>
-
-**Debt - external**<br>
-$18.38 billion (31 December 2014 est.)<br>
-$16.47 billion (31 December 2013 est.)<br>
 
 **Exchange rates**<br>
 <p>the US dollar is used</p><br>

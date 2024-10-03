@@ -383,15 +383,15 @@ $1.077 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.1% (2017 est.)<br>
-_industry_: 30% (2017 est.)<br>
-_services_: 68.9% (2017 est.)<br>
+_agriculture_: 1.4% (2023 est.)<br>
+_industry_: 19.8% (2023 est.)<br>
+_services_: 64.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 41.4% (2017 est.)<br>
 _government consumption_: 25.9% (2017 est.)<br>
 _investment in fixed capital_: 30.8% (2017 est.)<br>
-_investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 62.5% (2017 est.)<br>
 _imports of goods and services_: -60.4% (2017 est.)<br>
 
@@ -463,10 +463,6 @@ $286.075 million (2023 est.)<br>
 $293.98 million (2022 est.)<br>
 $337.533 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$201.8 million (31 December 2017 est.)<br>
-$187.9 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>

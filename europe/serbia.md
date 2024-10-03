@@ -445,17 +445,19 @@ _Standard & Poors rating_: BB+ (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 9.8% (2017 est.)<br>
-_industry_: 41.1% (2017 est.)<br>
-_services_: 49.1% (2017 est.)<br>
+_agriculture_: 5.2% (2023 est.)<br>
+_industry_: 26.4% (2023 est.)<br>
+_services_: 51.2% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 78.2% (2017 est.)<br>
-_government consumption_: 10.1% (2017 est.)<br>
-_investment in fixed capital_: 18.5% (2017 est.)<br>
-_investment in inventories_: 2% (2017 est.)<br>
-_exports of goods and services_: 52.5% (2017 est.)<br>
-_imports of goods and services_: -61.3% (2017 est.)<br>
+_household consumption_: 67.3% (2023 est.)<br>
+_government consumption_: 15.9% (2023 est.)<br>
+_investment in fixed capital_: 22.7% (2023 est.)<br>
+_investment in inventories_: -1.3% (2023 est.)<br>
+_exports of goods and services_: 59.9% (2023 est.)<br>
+_imports of goods and services_: -64.4% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 maize, wheat, sugar beets, milk, sunflower seeds, potatoes, plums, apples, barley, soybeans (2022)<br>
@@ -493,8 +495,8 @@ _female_: 26.1% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 24.1% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 8.4% of household expenditures (2021 est.)<br>
+_on food_: 22.9% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 8.4% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.5% (2021 est.)<br>
@@ -558,10 +560,6 @@ $27.569 billion (2023 est.)<br>
 $20.68 billion (2022 est.)<br>
 $18.617 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$30.927 billion (2019 est.)<br>
-$30.618 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Serbian dinars (RSD) per US dollar -<br>

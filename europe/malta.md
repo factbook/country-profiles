@@ -409,17 +409,19 @@ _Standard & Poors rating_: A- (2016)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.1% (2017 est.)<br>
-_industry_: 10.2% (2017 est.)<br>
-_services_: 88.7% (2017 est.)<br>
+_agriculture_: 0.7% (2023 est.)<br>
+_industry_: 12.1% (2023 est.)<br>
+_services_: 79.7% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 45.2% (2017 est.)<br>
-_government consumption_: 15.3% (2017 est.)<br>
-_investment in fixed capital_: 21.1% (2017 est.)<br>
-_investment in inventories_: 0.3% (2017 est.)<br>
-_exports of goods and services_: 136.1% (2017 est.)<br>
-_imports of goods and services_: -117.9% (2017 est.)<br>
+_household consumption_: 43.4% (2023 est.)<br>
+_government consumption_: 17.7% (2023 est.)<br>
+_investment in fixed capital_: 18.5% (2023 est.)<br>
+_investment in inventories_: 1% (2023 est.)<br>
+_exports of goods and services_: 166.7% (2023 est.)<br>
+_imports of goods and services_: -147.3% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, tomatoes, onions, potatoes, cauliflower/broccoli, pork, chicken, cabbages, pumpkins/squash, grapes (2022)<br>
@@ -518,10 +520,6 @@ $1.223 billion (2023 est.)<br>
 $1.199 billion (2022 est.)<br>
 $1.149 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$98.179 billion (2019 est.)<br>
-$104.467 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>

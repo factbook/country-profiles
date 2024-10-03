@@ -439,17 +439,19 @@ _Standard & Poors rating_: B- (2015)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 3.3% (2017 est.)<br>
-_industry_: 51% (2017 est.)<br>
-_services_: 45.8% (2017 est.)<br>
+_agriculture_: 2.8% (2023 est.)<br>
+_industry_: 55.6% (2023 est.)<br>
+_services_: 42.3% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 50.4% (2013 est.)<br>
-_government consumption_: 22.9% (2016 est.)<br>
-_investment in fixed capital_: 20.6% (2016 est.)<br>
-_investment in inventories_: 0% (2016 est.)<br>
-_exports of goods and services_: 32.5% (2016 est.)<br>
-_imports of goods and services_: -40.9% (2016 est.)<br>
+_household consumption_: 40.3% (2021 est.)<br>
+_government consumption_: 17.7% (2021 est.)<br>
+_investment in fixed capital_: 10.1% (2021 est.)<br>
+_investment in inventories_: 11.3% (2021 est.)<br>
+_exports of goods and services_: 37.3% (2021 est.)<br>
+_imports of goods and services_: -24.2% (2021 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 wheat, dates, tomatoes, maize, watermelons, grapes, potatoes, milk, cucumbers/gherkins, eggplants (2022)<br>
@@ -482,8 +484,8 @@ _female_: 62% (2023 est.)<br>
 23% (2014 est.)<br>
 
 **Average household expenditures**<br>
-_on food_: 29.6% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 4.2% of household expenditures (2021 est.)<br>
+_on food_: 28.8% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 4.3% of household expenditures (2022 est.)<br>
 
 **Remittances**<br>
 0.35% of GDP (2023 est.)<br>
@@ -544,8 +546,8 @@ $64.231 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$73.02 billion (31 December 2017 est.)<br>
-$64.16 billion (31 December 2016 est.)<br>
+$15.065 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Iraqi dinars (IQD) per US dollar -<br>
@@ -668,7 +670,7 @@ _key ports_: Al Basrah, Al-Basra Oil Terminal, Khawr Al Amaya, Khawr Al Zubair, 
 ## Military and Security
 
 **Military and security forces**<br>
-Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Force, Iraqi Air Defense Command, Special Forces Command, Special Security Division<br><br>National-Level Security Forces: Iraqi Counterterrorism Service (CTS; reports to the Prime Minister), Prime Minister's Special Forces Division, Presidential Brigades<br><br>Ministry of Interior: Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Provincial Police<br><br>Ministry of Oil: Energy Police Directorate<br><br>Popular Mobilization Committee (PMC): Popular Mobilization Forces (PMF), Tribal Mobilization Forces (TMF); the PMF and TMF are a collection of more than 50 militias of widely varied sizes and political interests<br><br>the federal constitution provides the Kurdistan Regional Government (KRG) the right to maintain its own military/militia (peshmerga) and security forces, but the two main Kurdish political parties, the Kurdistan Democratic Party (KDP) and the Patriotic Union of Kurdistan (PUK), each maintain their own forces and participate in the staffing of the joint KDP-PUK Regional Guard Brigades: <br><br>KRG Ministry of Peshmerga: Unit (or Division) 70 Forces and Counter Terrorism Group (CTG) of the PUK; Unit (or Division) 80 Forces and Counterterrorism Directorate (CTD) of the KDP; Regional Guard Brigades<br><br>KRG Ministry of Interior: both the KDP and PUK maintain separate police, emergency response, and internal security/intelligence (Asayish) services under nominal Ministry of Interior control (2024)<br>
+Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Force, Iraqi Air Defense Command, Special Forces Command, Special Security Division<br><br>National-Level Security Forces: Iraqi Counterterrorism Service (CTS; reports to the Prime Minister), Prime Minister's Special Forces (Security) Division, Presidential Brigades<br><br>Ministry of Interior: Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Provincial Police<br><br>Ministry of Oil: Energy Police Directorate<br><br>Popular Mobilization Committee (PMC): Popular Mobilization Forces (PMF), Tribal Mobilization Forces (TMF); the PMF and TMF are a collection of more than 50 militias of widely varied sizes and political interests<br><br>the federal constitution provides the Kurdistan Regional Government (KRG) the right to maintain its own military/militia (peshmerga) and security forces, but the two main Kurdish political parties, the Kurdistan Democratic Party (KDP) and the Patriotic Union of Kurdistan (PUK), each maintain their own forces and participate in the staffing of the joint KDP-PUK Regional Guard Brigades: <br><br>KRG Ministry of Peshmerga: Unit (or Division) 70 Forces and Counter Terrorism Group (CTG) of the PUK; Unit (or Division) 80 Forces and Counterterrorism Directorate (CTD) of the KDP; Regional Guard Brigades<br><br>KRG Ministry of Interior: both the KDP and PUK maintain separate police, emergency response, and internal security/intelligence (Asayish) services under nominal Ministry of Interior control (2024)<br>
 <strong>note: </strong>the Iraqi military and associated forces are collectively known as the Iraqi Security Forces (ISF)<br>
 
 **Military expenditures**<br>
@@ -679,14 +681,14 @@ Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Fo
 3.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 200,000 personnel under the Ministry of Defense (190,000 Army/Aviation Command/Special Forces; 5,000 Navy; 5,000 Air/Air Defense Forces); approximately 25,000 National-Level Security Forces; estimated 125,000 Popular Mobilization Forces<br><br>Ministry of Peshmerga: approximately 150,000 (45-50,000 Regional Guard Brigades; 40-45,000 Unit 70 Forces; 65-70,000 Unit 80 Forces) (2023)<br>
+information varies; approximately 200,000 personnel under the Ministry of Defense (190,000 Army/Aviation Command/Special Forces; 5,000 Navy; 5,000 Air/Air Defense Forces); approximately 20-25,000 National-Level Security Forces; estimated 200,000+ Popular Mobilization Forces<br><br>Ministry of Peshmerga: approximately 150,000 (45-50,000 Regional Guard Brigades; 40-45,000 Unit 70 Forces; 65-70,000 Unit 80 Forces) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Iraqi military's inventory includes a mix of equipment from a wide variety of sources, including Europe, South Africa, South Korea, Russia, and the US; in recent years, Russia and the US have been the leading suppliers of military hardware to Iraq (2023)<br>
 
 **Military service age and obligation**<br>
-18-40 years of age for voluntary military service; no conscription (2022)<br>
-<strong>note:</strong> service in the armed forces was mandatory in Iraq from 1935 up until 2003; in 2021, the Iraqi cabinet approved a draft law to reinstate compulsory military service and referred the proposed law, called the “Service Under the Flag Law,” to the Iraqi parliament<br>
+18-40 years of age for voluntary military service; no conscription (2023)<br>
+<strong>note:</strong> service in the armed forces was mandatory in Iraq from 1935 up until 2003; in 2021, the Iraqi cabinet approved a draft law to reinstate compulsory military service and referred the proposed law to the Iraqi parliament; as of 2023, the proposed law had been shelved<br>
 
 **Military - note**<br>
 the Iraqi security forces (ISF) are primarily focused on internal security duties; they are actively conducting counterinsurgency and counterterrorism operations against the Islamic State of Iraq and ash-Sham (ISIS) terrorist group, particularly in northern and western Iraq; the Counter Terrorism Service (CTS), which is comprised of three special forces brigades, is the ISF's principal operational unit against ISIS<br><br>Kurdish Security Forces (KSF, aka Peshmerga) also conduct operations against ISIS; the KSF are recognized as a legitimate Iraqi military force under the country’s constitution and have operated jointly with the Iraqi military against ISIS militants, but largely operate outside of Iraqi military command structure; since 2021, the ISF and the KSF have conducted joint counter-ISIS operations in an area known as the Kurdish Coordination Line (KCL), a swath of disputed territory in northern Iraq claimed by both the Kurdistan Regional Government and the central Iraqi Government; the KSF/Peshmerga report to the Kurdistan Regional Government or Kurdistan Democratic Party and Patriotic Union of Kurdistan parties instead of the Iraqi Ministry of Defense<br><br>Popular Mobilization Commission and Affiliated Forces (PMF or PMC), also known as Popular Mobilization Units (PMU, or al-Hashd al-Sha’abi in Arabic), tribal militia units have fought alongside the Iraqi military against ISIS since 2014, but the majority of these forces continue to largely ignore the 2016 Law of the Popular Mobilization Authority, which mandated that armed militias must be regulated in a fashion similar to Iraq’s other security forces and act under the Iraqi Government’s direct control; the Iraqi Government funds the PMF, and the prime minister legally commands it, but many of the militia units take orders from associated political parties and/or other government officials, including some with ties to the Iranian Revolutionary Guard Corps (IRGC) and some that have been designated as terrorist organizations by the US; the PMF/PMU is an umbrella organization comprised of many different militias, the majority of which are Shia: <br><br>--Shia militias backed by Iran; they are considered the most active and capable, and include such groups as the Badr Organization (Saraya al-Sala), Asaib Ahl al-Haq, and Kataib Hizballah <br><br>--Shia militias affiliated with Shia political parties, but not aligned with Iran, such as the Peace Brigades (Saray al-Salam) <br><br>--Shia militias not connected with political parties, but affiliated with the Najaf-based Grand Ayatollah Ali al-SISTANI (Iraq’s supreme Shia cleric), such as the Hawza militias<br><br>--other PMF/PMU militias include Sunni Tribal Mobilization militias, or Hashd al-Asha’iri; some of these militias take orders from the ISF and local authorities while others respond to orders from the larger Shia PMU militias; still other militias include Yazidi and Christian militias and the Turkmen brigades; the links of these forces to the PMU are not always clear-cut and may be loosely based on financial, legal, or political incentives<br><br>two international military task forces operate in Iraq to assist the country's security forces at the request of the Iraqi Government; in October 2018, NATO established an advisory, training and capacity-building mission for the Iraqi military known as the NATO Mission Iraq (NMI); in December 2021, a US-led task force that leads the defeat ISIS mission in Iraq, Combined Joint Task Force – Operation Inherent Resolve (CJTF-OIR), transitioned from a combat role to an advise, assist, and enable role (2024)<br>

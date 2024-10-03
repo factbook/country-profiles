@@ -382,7 +382,7 @@ Aam Aadmi Party or AAP<br>All India Trinamool Congress or AITC<br>Bahujan Samaj 
 ADB, AfDB (nonregional member), Arctic Council (observer), ARF, ASEAN (dialogue partner), BIMSTEC, BIS, BRICS, C, CD, CERN (observer), CICA, CP, EAS, FAO, FATF, G-15, G-20, G-24, G-5, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS (observer), MIGA, MINURSO, MONUSCO, NAM, OAS (observer), OECD, OPCW, Pacific Alliance (observer), PCA, PIF (partner), Quad, SAARC, SACEP, SCO (observer), UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNISFA, UNITAR, UNMISS, UNOCI, UNOOSA, UNSOM, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Chargé d'Affaires Sripriya RANGANATHAN (since 1 February 2024)<br>
+_chief of mission_: Ambassador Vinay Mohan KWATRA (since 18 September 2024)<br>
 _chancery_: 2107 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 939-7000<br>
 _FAX_: [1] (202) 265-4351<br>
@@ -454,17 +454,19 @@ _Standard & Poors rating_: BBB- (2007)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 15.4% (2016 est.)<br>
-_industry_: 23% (2016 est.)<br>
-_services_: 61.5% (2016 est.)<br>
+_agriculture_: 16% (2023 est.)<br>
+_industry_: 25% (2023 est.)<br>
+_services_: 49.8% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 59.1% (2017 est.)<br>
-_government consumption_: 11.5% (2017 est.)<br>
-_investment in fixed capital_: 28.5% (2017 est.)<br>
-_investment in inventories_: 3.9% (2017 est.)<br>
-_exports of goods and services_: 19.1% (2017 est.)<br>
-_imports of goods and services_: -22% (2017 est.)<br>
+_household consumption_: 60.3% (2023 est.)<br>
+_government consumption_: 10.5% (2023 est.)<br>
+_investment in fixed capital_: 31.3% (2023 est.)<br>
+_investment in inventories_: 2.4% (2023 est.)<br>
+_exports of goods and services_: 21.9% (2023 est.)<br>
+_imports of goods and services_: -24% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sugarcane, rice, milk, wheat, bison milk, potatoes, vegetables, bananas, maize, onions (2022)<br>
@@ -498,8 +500,8 @@ _female_: 15.7% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 32.1% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 2.2% of household expenditures (2021 est.)<br>
+_on food_: 32% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 2.1% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.3% (2021 est.)<br>
@@ -565,8 +567,8 @@ $638.485 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$555.388 billion (2019 est.)<br>
-$518.34 billion (2018 est.)<br>
+$186.653 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Indian rupees (INR) per US dollar -<br>
@@ -728,7 +730,7 @@ much of the military's inventory consists of Russian- and Soviet-origin equipmen
 
 **Military service age and obligation**<br>
 ages vary by service, but generally 16.5-27 years of age for voluntary military service for men and women; no conscription (2023)<br>
-<strong>note 1:</strong> in 2022, the Indian Government announced that it would begin recruiting 46,000 men aged 17.5-21 annually to serve on 4-year contracts under a process called the Agnipath scheme; at the end of their tenure, 25% would be retained for longer terms of service, while the remainder would be forced to leave the military, although some of those leaving would be eligible to serve in the Coast Guard, the Merchant Navy, civilian positions in the Ministry of Defense, and in the paramilitary forces of the Ministry of Home Affairs, such as the Central Armed Police Forces and Assam Rifles<br><br><strong>note 2: </strong>as of 2023, women made up less than 1% of the Army, about 1% of the Air Force, and about 6% of the Navy <br><br><strong>note 3: </strong>the Indian military accepts citizens of Nepal and Bhutan; descendants of refugees from Tibet who arrived before 1962 and have resided permanently in India; peoples of Indian origin from nations such as Burma, the Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Pakistan, Sri Lanka, Tanzania, Uganda, and Vietnam with the intention of permanently settling in India; eligible candidates from “friendly foreign nations” may apply to the Armed Forces Medical Services <br><br><strong>note 4:</strong> the British began to recruit Nepalese citizens (Gurkhas) into the East India Company Army during the Anglo-Nepalese War (1814-1816), and the Gurkhas subsequently were brought into the British Indian Army; following the partition of India in 1947, an agreement between Nepal, India, and Great Britain allowed for the transfer of the 10 regiments from the British Indian Army to the separate British and Indian armies; six regiments of Gurkhas (aka Gorkhas in India) regiments went to the new Indian Army; a seventh regiment was later added<br>
+<strong>note 1:</strong> in 2022, the Indian Government began recruiting men aged 17.5-21 annually to serve on 4-year contracts under a process called the Agnipath scheme; at the end of their tenure, 25% would be retained for longer terms of service, while the remainder would be forced to leave the military, although some of those leaving would be eligible to serve in the Coast Guard, the Merchant Navy, civilian positions in the Ministry of Defense, and in the paramilitary forces of the Ministry of Home Affairs, such as the Central Armed Police Forces and Assam Rifles<br><br><strong>note 2: </strong>as of 2023, women made up less than 1% of the Army, about 1% of the Air Force, and about 6% of the Navy <br><br><strong>note 3: </strong>the Indian military accepts citizens of Nepal and Bhutan; descendants of refugees from Tibet who arrived before 1962 and have resided permanently in India; peoples of Indian origin from nations such as Burma, the Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Pakistan, Sri Lanka, Tanzania, Uganda, and Vietnam with the intention of permanently settling in India; eligible candidates from “friendly foreign nations” may apply to the Armed Forces Medical Services <br><br><strong>note 4:</strong> the British began to recruit Nepalese citizens (Gurkhas) into the East India Company Army during the Anglo-Nepalese War (1814-1816), and the Gurkhas subsequently were brought into the British Indian Army; following the partition of India in 1947, an agreement between Nepal, India, and Great Britain allowed for the transfer of the 10 regiments from the British Indian Army to the separate British and Indian armies; six regiments of Gurkhas (aka Gorkhas in India) regiments went to the new Indian Army; a seventh regiment was later added<br>
 
 **Military deployments**<br>
 1,800 Democratic Republic of the Congo (MONUSCO); 200 Golan Heights (UNDOF); 890 Lebanon (UNIFIL); 2,350 South Sudan (UNMISS); 590 Sudan (UNISFA) (2024)<br>

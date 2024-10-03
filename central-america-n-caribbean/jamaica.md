@@ -409,17 +409,19 @@ _Standard & Poors rating_: B+ (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 7% (2017 est.)<br>
-_industry_: 21.1% (2017 est.)<br>
-_services_: 71.9% (2017 est.)<br>
+_agriculture_: 9% (2023 est.)<br>
+_industry_: 18.6% (2023 est.)<br>
+_services_: 60.1% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 81.9% (2017 est.)<br>
-_government consumption_: 13.7% (2017 est.)<br>
-_investment in fixed capital_: 21.3% (2017 est.)<br>
-_investment in inventories_: 0.1% (2017 est.)<br>
-_exports of goods and services_: 30.1% (2017 est.)<br>
-_imports of goods and services_: -47.1% (2017 est.)<br>
+_household consumption_: 76.2% (2019 est.)<br>
+_government consumption_: 13.6% (2019 est.)<br>
+_investment in fixed capital_: 24.1% (2019 est.)<br>
+_investment in inventories_: 0.2% (2019 est.)<br>
+_exports of goods and services_: 38% (2019 est.)<br>
+_imports of goods and services_: -52.1% (2019 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sugarcane, yams, goat milk, chicken, coconuts, oranges, bananas, pumpkins/squash, plantains, sweet potatoes (2022)<br>
@@ -517,8 +519,8 @@ $4.838 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$13.876 billion (2019 est.)<br>
-$13.912 billion (2018 est.)<br>
+$9.148 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Jamaican dollars (JMD) per US dollar -<br>

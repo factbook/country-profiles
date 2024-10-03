@@ -429,17 +429,19 @@ _Standard & Poors rating_: B+ (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 21.7% (2017 est.)<br>
-_industry_: 24.2% (2017 est.)<br>
-_services_: 54.1% (2017 est.)<br>
+_agriculture_: 18.3% (2023 est.)<br>
+_industry_: 21.2% (2023 est.)<br>
+_services_: 48% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 78.1% (2017 est.)<br>
-_government consumption_: 11.5% (2017 est.)<br>
-_investment in fixed capital_: 25.2% (2017 est.)<br>
-_investment in inventories_: 0.2% (2017 est.)<br>
-_exports of goods and services_: 31.5% (2017 est.)<br>
-_imports of goods and services_: -46.6% (2017 est.)<br>
+_household consumption_: 75.5% (2023 est.)<br>
+_government consumption_: 11.1% (2023 est.)<br>
+_investment in fixed capital_: 24.4% (2023 est.)<br>
+_investment in inventories_: 0.5% (2021 est.)<br>
+_exports of goods and services_: 39.6% (2023 est.)<br>
+_imports of goods and services_: -44.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, maize, tomatoes, potatoes, watermelons, wheat, grapes, olives, cucumbers/gherkins, onions (2022)<br>
@@ -540,8 +542,8 @@ $5.635 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$9.311 billion (2019 est.)<br>
-$9.547 billion (2018 est.)<br>
+$4.624 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: leke (ALL) per US dollar -<br>

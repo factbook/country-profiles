@@ -421,17 +421,19 @@ _Moody's rating_: B3 (2010)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 17.7% (2017 est.)<br>
-_industry_: 20.3% (2017 est.)<br>
-_services_: 62% (2017 est.)<br>
+_agriculture_: 7.6% (2023 est.)<br>
+_industry_: 17.4% (2023 est.)<br>
+_services_: 61.1% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 85.8% (2017 est.)<br>
-_government consumption_: 19% (2017 est.)<br>
-_investment in fixed capital_: 21.9% (2017 est.)<br>
-_investment in inventories_: 1.4% (2017 est.)<br>
-_exports of goods and services_: 42.5% (2017 est.)<br>
-_imports of goods and services_: -70.7% (2017 est.)<br>
+_household consumption_: 85.3% (2023 est.)<br>
+_government consumption_: 18.1% (2023 est.)<br>
+_investment in fixed capital_: 19.7% (2023 est.)<br>
+_investment in inventories_: 1.1% (2023 est.)<br>
+_exports of goods and services_: 35.5% (2023 est.)<br>
+_imports of goods and services_: -59.6% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 wheat, maize, sunflower seeds, grapes, sugar beets, apples, milk, potatoes, barley, plums (2022)<br>
@@ -533,8 +535,8 @@ $3.902 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$7.232 billion (2019 est.)<br>
-$7.16 billion (2018 est.)<br>
+$1.899 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Moldovan lei (MDL) per US dollar -<br>

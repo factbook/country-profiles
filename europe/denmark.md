@@ -425,17 +425,19 @@ _Standard & Poors rating_: AAA (2001)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.3% (2017 est.)<br>
-_industry_: 22.9% (2017 est.)<br>
-_services_: 75.8% (2017 est.)<br>
+_agriculture_: 1% (2023 est.)<br>
+_industry_: 21.5% (2023 est.)<br>
+_services_: 66.1% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 48% (2017 est.)<br>
-_government consumption_: 25.2% (2017 est.)<br>
-_investment in fixed capital_: 20% (2017 est.)<br>
-_investment in inventories_: -0.2% (2017 est.)<br>
-_exports of goods and services_: 54.5% (2017 est.)<br>
-_imports of goods and services_: -47.5% (2017 est.)<br>
+_household consumption_: 45.8% (2023 est.)<br>
+_government consumption_: 22.6% (2023 est.)<br>
+_investment in fixed capital_: 21.8% (2023 est.)<br>
+_investment in inventories_: 0.2% (2023 est.)<br>
+_exports of goods and services_: 69% (2023 est.)<br>
+_imports of goods and services_: -59.4% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, wheat, barley, potatoes, sugar beets, pork, rapeseed, rye, oats, chicken (2022)<br>
@@ -473,8 +475,8 @@ _female_: 11.3% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 12.3% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 3.6% of household expenditures (2021 est.)<br>
+_on food_: 11.7% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 4% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.7% (2021 est.)<br>
@@ -538,10 +540,6 @@ $109.371 billion (2023 est.)<br>
 $96.073 billion (2022 est.)<br>
 $82.236 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$504.808 billion (2019 est.)<br>
-$517.972 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Danish kroner (DKK) per US dollar -<br>
@@ -686,7 +684,7 @@ the Danish military inventory is comprised of a mix of modern European, US, and 
 
 **Military service age and obligation**<br>
 18 years of age for compulsory and voluntary military service; conscripts serve an initial training period that varies from 4 to 12 months depending on specialization; former conscripts are assigned to mobilization units; women eligible to volunteer for military service; in addition to full time employment, the Danish military offers reserve contracts in all three branches (2023)<br>
-<strong>note 1:</strong> women have been able serve in all military occupations, including combat arms, since 1988; as of 2022, they made up about 9% of the military's full-time personnel; in 2024, Denmark announced that it would extend military conscription to women in 2026<br><br><strong>note 2:</strong> conscientious objectors can choose to instead serve 6 months in a non-military position, for example in Beredskabsstyrelsen (dealing with non-military disasters like fires, flood, pollution, etc.) or overseas foreign aid work<br><br><strong>note 3: </strong>foreigners who have lived in Denmark for at least 1 year or in another EU country for 6 years may apply to join the armed forces, provided they are fluent in Danish <br><br><strong>note 4: </strong>Denmark has had compulsory military service since 1849<br>
+<strong>note 1:</strong> women have been able serve in all military occupations, including combat arms, since 1988; as of 2022, they made up about 9% of the military's full-time personnel; in 2024, Denmark announced that it would extend military conscription to women in 2026<br><br><strong>note 2:</strong> Denmark has had compulsory military service since 1849; conscripts are chosen by lottery; conscientious objectors can choose to instead serve 6 months in a non-military position, for example in Beredskabsstyrelsen (dealing with non-military disasters like fires, flood, pollution, etc.) or overseas foreign aid work<br><br><strong>note 3: </strong>foreigners who have lived in Denmark for at least one year or in another EU country for six years may apply to join the armed forces, provided they are fluent in Danish <br>
 
 **Military deployments**<br>
 approximately 800 Latvia (NATO); Denmark contributes small numbers of air, ground, and naval forces to a variety of other NATO and international missions (2024)<br>

@@ -379,17 +379,19 @@ $2.033 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.8% (2017 est.)<br>
-_industry_: 20.8% (2017 est.)<br>
-_services_: 77.3% (2017 est.)<br>
+_agriculture_: 1.9% (2023 est.)<br>
+_industry_: 19.4% (2023 est.)<br>
+_services_: 67.8% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 53.5% (2017 est.)<br>
 _government consumption_: 15.2% (2017 est.)<br>
 _investment in fixed capital_: 23.9% (2017 est.)<br>
 _investment in inventories_: 0.1% (2017 est.)<br>
-_exports of goods and services_: 73.9% (2017 est.)<br>
-_imports of goods and services_: -66.5% (2017 est.)<br>
+_exports of goods and services_: 54.7% (2022 est.)<br>
+_imports of goods and services_: -62.9% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 tropical fruits, milk, mangoes/guavas, eggs, lemons/limes, pumpkins/squash, vegetables, sweet potatoes, cassava, yams (2022)<br>
@@ -460,10 +462,6 @@ $364.367 million (2023 est.)<br>
 $396.506 million (2022 est.)<br>
 $367.512 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$441.2 million (31 December 2012)<br>
-$458 million (June 2010)<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>

@@ -357,17 +357,18 @@ $3.236 billion (2021 est.)<br>
 1.2% (January 2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 15.9% (2015 est.)<br>
-_industry_: 10.1% (2015 est.)<br>
-_services_: 73.9% (2015)<br>
+_agriculture_: 17.5% (2021 est.)<br>
+_industry_: 16.1% (2021 est.)<br>
+_services_: 62.7% (2021 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 68.1% (2015 est.)<br>
-_government consumption_: 28% (2015 est.)<br>
-_investment in fixed capital_: 14.3% (2015 est.)<br>
-_investment in inventories_: -13.9% (2015 est.)<br>
-_exports of goods and services_: 18.2% (2015 est.)<br>
-_imports of goods and services_: -28.6% (2015 est.)<br>
+_household consumption_: 35.8% (2021 est.)<br>
+_government consumption_: 45.1% (2021 est.)<br>
+_investment in fixed capital_: 33.3% (2021 est.)<br>
+_exports of goods and services_: 35.4% (2021 est.)<br>
+_imports of goods and services_: -49.7% (2021 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sheep, cattle, reindeer, fish, shellfish<br>
@@ -429,10 +430,6 @@ Denmark 56%, Sweden 22%, France 10%, Iceland 3%, Canada 3% (2022)<br>
 **Imports - commodities**<br>
 refined petroleum, aircraft, garments, construction vehicles, plastic products (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Debt - external**<br>
-$36.4 million (2010)<br>
-$58 million (2009)<br>
 
 **Exchange rates**<br>
 _Currency_: Danish kroner (DKK) per US dollar -<br>

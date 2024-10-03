@@ -294,17 +294,19 @@ _Standard & Poors rating_: AA (2016)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.6% (2017 est.)<br>
-_industry_: 25.1% (2017 est.)<br>
-_services_: 70.9% (2017 est.)<br>
+_agriculture_: 1.7% (2023 est.)<br>
+_industry_: 23.7% (2023 est.)<br>
+_services_: 65% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 54.4% (2016 est.)<br>
-_government consumption_: 20.4% (2016 est.)<br>
-_investment in fixed capital_: 19.8% (2016 est.)<br>
-_investment in inventories_: 0.4% (2016 est.)<br>
-_exports of goods and services_: 43.9% (2016 est.)<br>
-_imports of goods and services_: -40.5% (2016 est.)<br>
+_household consumption_: 52.3% (2023 est.)<br>
+_government consumption_: 21.1% (2023 est.)<br>
+_investment in fixed capital_: 22.2% (2023 est.)<br>
+_investment in inventories_: 0.7% (2023 est.)<br>
+_exports of goods and services_: 52.7% (2023 est.)<br>
+_imports of goods and services_: -49% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, wheat, sugar beets, maize, barley, potatoes, grapes, pork, rapeseed, tomatoes (2022)<br>
@@ -388,10 +390,6 @@ natural gas, crude petroleum, cars, refined petroleum, garments (2022)<br>
 **Reserves of foreign exchange and gold**<br>
 $740.9 billion (31 December 2014 est.)<br>
 <strong>note:</strong> data are for the European Central Bank<br>
-
-**Debt - external**<br>
-$29.27 trillion (31 December 2016 est.)<br>
-$28.68 trillion (31 December 2015 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>

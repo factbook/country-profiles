@@ -374,15 +374,10 @@ $62.28 million (2023 est.)<br>
 3.5% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 24.5% (2012 est.)<br>
-_industry_: 5.6% (2012 est.)<br>
+_agriculture_: 15.9% (2015 est.)<br>
+_industry_: 7% (2015 est.)<br>
 _services_: 70% (2012 est.)<br>
-
-**GDP - composition, by end use**<br>
-_government consumption_: 87% (2016 est.)<br>
-_investment in fixed capital_: 24.3% (2016 est.)<br>
-_exports of goods and services_: 43.7% (2016 est.)<br>
-_imports of goods and services_: -66.1% (2016 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **Agricultural products**<br>
 coconuts, vegetables, tropical fruits, bananas, root vegetables, pork, chicken, eggs, pork fat, pork offal (2022)<br>
@@ -450,9 +445,6 @@ China 34%, Japan 27%, Fiji 20%, NZ 5%, Australia 5% (2022)<br>
 **Imports - commodities**<br>
 ships, refined petroleum, iron structures, engine parts, plastic products (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Debt - external**<br>
-<p>NA</p><br>
 
 **Exchange rates**<br>
 _Currency_: Tuvaluan dollars or Australian dollars (AUD) per US dollar -<br>
@@ -532,7 +524,7 @@ _key ports_: Funafuti Atoll<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Tuvalu Police Force (Ministry of Justice, Communications, and Foreign Affairs) (2023)<br>
+no regular military forces; Tuvalu Police Force (Ministry of Justice, Communications, and Foreign Affairs) (2024)<br>
 
 **Military - note**<br>
 Tuvalu has a security pact with Australia; Australia also provides support to the Tuvalu Police Force, including donations of patrol boats<br><br>Tuvalu has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Tuvalu's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>

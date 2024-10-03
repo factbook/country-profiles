@@ -287,9 +287,10 @@ _cabinet_: Cabinet chosen by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; UK representative appointed by the monarch; New Zealand high commissioner appointed by the New Zealand Government; following legislative elections, the leader of the majority party or majority coalition usually becomes prime minister<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament, formerly the Legislative Assembly (24 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms); note - the House of Ariki, a 24-member parliamentary body of traditional leaders appointed by the King's representative serves as a consultative body to the Parliament<br>
+_description_: unicameral Parliament, formerly the Legislative Assembly (24 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
 _elections_: last held on 1 August 2022 (next to be held by 2026)<br>
 _election results_: percent of vote by party - CIP 44%, Demo 26.9%, Cook Islands United Party 26.9%, OCI 2.7%, other 0.2% independent 7.3%; seats by party - CIP 12, Demo 5, Cook Islands United Party 3, OCI 1, independent 3; composition - men 18, women 6, percentage women 25%<br>
+<strong>note: </strong>the House of Ariki, a 24-member parliamentary body of traditional leaders appointed by the King's representative serves as a consultative body to the Parliament<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the chief justice and 3 judges of the High Court); High Court (consists of the chief justice and at least 4 judges and organized into civil, criminal, and land divisions); note - appeals beyond the Cook Islands Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -345,11 +346,6 @@ $16,800 (2020 est.)<br>
 **GDP (official exchange rate)**<br>
 $336 million (2022 est.)<br>
 
-**GDP - composition, by sector of origin**<br>
-_agriculture_: 5.1% (2010 est.)<br>
-_industry_: 12.7% (2010 est.)<br>
-_services_: 82.1% (2010 est.)<br>
-
 **Agricultural products**<br>
 coconuts, vegetables, papayas, pork, sweet potatoes, tomatoes, fruits, mangoes/guavas, watermelons, eggs (2022)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
@@ -383,9 +379,6 @@ NZ 51%, Italy 18%, Fiji 11%, China 7%, Australia 3% (2022)<br>
 **Imports - commodities**<br>
 refined petroleum, ships, cars, plastic products, other foods (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Debt - external**<br>
-$141 million (1996 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: New Zealand dollars (NZD) per US dollar -<br>

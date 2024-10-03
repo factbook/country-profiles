@@ -356,7 +356,7 @@ _subordinate courts_: Courts of Appeal or Lagmennsrett; regional and district co
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNOOSA, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Anniken Ramberg KRUTNES (since 17 September 2020)<br>
+_chief of mission_: Ambassador Anniken Scharning HUITFELDT (since 18 September 2024)<br>
 _chancery_: 2720 34th Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 333-6000<br>
 _FAX_: [1] (202) 469-3990<br>
@@ -426,17 +426,19 @@ _Standard & Poors rating_: AAA (1975)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.3% (2017 est.)<br>
-_industry_: 33.7% (2017 est.)<br>
-_services_: 64% (2017 est.)<br>
+_agriculture_: 2.1% (2023 est.)<br>
+_industry_: 39% (2023 est.)<br>
+_services_: 50% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 44.8% (2017 est.)<br>
-_government consumption_: 24% (2017 est.)<br>
-_investment in fixed capital_: 24.1% (2017 est.)<br>
-_investment in inventories_: 4.8% (2017 est.)<br>
-_exports of goods and services_: 35.5% (2017 est.)<br>
-_imports of goods and services_: -33.2% (2017 est.)<br>
+_household consumption_: 37.5% (2023 est.)<br>
+_government consumption_: 21.9% (2023 est.)<br>
+_investment in fixed capital_: 23.4% (2023 est.)<br>
+_investment in inventories_: 2.4% (2023 est.)<br>
+_exports of goods and services_: 47.2% (2023 est.)<br>
+_imports of goods and services_: -32.5% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, barley, wheat, potatoes, oats, pork, chicken, beef, eggs, rye (2022)<br>
@@ -474,8 +476,8 @@ _female_: 10.6% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 12.5% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 4.2% of household expenditures (2021 est.)<br>
+_on food_: 12.4% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 4% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.4% (2019 est.)<br>
@@ -539,11 +541,6 @@ $80.459 billion (2023 est.)<br>
 $72.077 billion (2022 est.)<br>
 $84.271 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$651.04 billion (2019 est.)<br>
-$648.878 billion (2018 est.)<br>
-<strong>note:</strong> Norway is a net external creditor<br>
 
 **Exchange rates**<br>
 _Currency_: Norwegian kroner (NOK) per US dollar -<br>

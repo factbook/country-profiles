@@ -416,17 +416,18 @@ $21.606 billion (2018 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 20.3% (2017 est.)<br>
-_industry_: 11.8% (2017 est.)<br>
-_services_: 67.9% (2017 est.)<br>
+_agriculture_: 28.7% (2018 est.)<br>
+_industry_: 25.4% (2018 est.)<br>
+_services_: 41.8% (2018 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 116.6% (2017 est.)<br>
-_government consumption_: 17.6% (2017 est.)<br>
-_investment in fixed capital_: 2.2% (2017 est.)<br>
-_investment in inventories_: 0% (2017 est.)<br>
-_exports of goods and services_: 7.5% (2017 est.)<br>
-_imports of goods and services_: -43.9% (2017 est.)<br>
+_household consumption_: 126.4% (2018 est.)<br>
+_government consumption_: 9.1% (2018 est.)<br>
+_investment in fixed capital_: 5.8% (2018 est.)<br>
+_exports of goods and services_: 8.8% (2018 est.)<br>
+_imports of goods and services_: -50.1% (2018 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 mangoes/guavas, potatoes, onions, milk, sorghum, spices, watermelons, chicken, tomatoes, grapes (2022)<br>
@@ -525,8 +526,8 @@ $969.613 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$6.805 billion (2018 est.)<br>
-$7.181 billion (31 December 2016 est.)<br>
+$5.687 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Yemeni rials (YER) per US dollar -<br>
@@ -659,7 +660,7 @@ the inventory of the Yemeni Government forces consists primarily of Russian and 
 <strong>note:</strong> as late as 2022, all parties to the ongoing conflict were implicated in child soldier recruitment and use; during the beginning of the truce in April 2022, the Houthis signed a plan with the UN to end the recruitment and use of child soldiers; Houthi leaders previously pledged to end the use of child soldiers in 2012, as did the Government of Yemen in 2014 <br>
 
 **Military - note**<br>
-government forces under the Yemeni Ministry of Defense are responsible for territorial defense, but also have internal security functions; their main focus is on the Houthi rebels and protecting Yemen’s maritime borders, which are susceptible to smuggling of arms, fighters, and other material support for the Houthis and terrorist groups operating in Yemen, including al-Qa’ida in the Arabian Peninsula and the Islamic State of Iraq and ash-Sham in Yemen; the National Army is organized into brigades of armored, border guard, infantry, mechanized, presidential protection, and special forces; the brigades vary significantly in size, structure, and capabilities; the Air Force has small numbers of mostly Soviet-era aircraft while the Navy and Coast Guard have a few patrol boats<br><br>in 2015, a Saudi-led coalition of Arab states (UAE, Qatar, Bahrain, Morocco, Sudan, Kuwait, Jordan and Egypt) intervened militarily in Yemen in support of the Republic of Yemen Government against the separatist Houthis; Saudi military forces conducted operations in Yemen and raised and equipped paramilitary/militia security forces in Yemen based largely on tribal or regional affiliation to deploy along the Saudi-Yemen border; UAE's participation in 2015 included several thousand ground troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a smaller military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC); UAE has recruited, trained, and equipped tens of thousands of Yemeni fighters and formed them into dozens of militia and paramilitary units <br><br>Houthi (aka Ansarallah) forces are organized into combat, presidential protection, special forces, and tribal/militia/paramilitary brigades and independent battalions; the Houthis also have UAV and missile units, as well as naval forces (mines, anti-ship missiles, and some boats); Iran has provided military and political support to the Houthis; in January 2024, the US Government designated the Houthis as a Specially Designated Global Terrorist group; the designation came after the Houthis began launching attacks against international maritime vessels in the Red Sea and Gulf of Aden, as well as military forces positioned in the area to defend the safety and security of commercial shipping (2024)<br>
+government forces under the Yemeni Ministry of Defense are responsible for territorial defense, but also have internal security functions; their main focus has been the Houthi separatists and protecting Yemen’s maritime borders, which are susceptible to smuggling of arms, fighters, and other material support for the Houthis and terrorist groups operating in Yemen, including al-Qa’ida in the Arabian Peninsula (AQAP) and the Islamic State of Iraq and ash-Sham in Yemen (ISIS-Yemen)<br><br>in 2015, a Saudi-led coalition of Arab states (UAE, Qatar, Bahrain, Morocco, Sudan, Kuwait, Jordan and Egypt) intervened militarily in Yemen in support of the Republic of Yemen Government (ROYG) against the separatist Houthis; Saudi military forces conducted operations in Yemen and raised and equipped paramilitary/militia security forces in Yemen based largely on tribal or regional affiliation to deploy along the Saudi-Yemen border; UAE's participation in 2015 included several thousand ground troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a smaller military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC); UAE has recruited, trained, and equipped tens of thousands of Yemeni fighters and formed them into dozens of militia and paramilitary units<br><br>in 2022, the RYOG and the Houthis signed a truce, halting military operations and establishing humanitarian measures; the former front lines of conflict, in some areas mirroring Yemen’s pre -unification borders, remain static; AQAP and ISIS-Yemen have remained active in remote areas <br><br>in January 2024, the US Government designated the Houthis (aka Ansarallah) as a Specially Designated Global Terrorist group; the designation came after the Houthis began launching attacks against international maritime vessels in the Red Sea and Gulf of Aden, as well as military forces positioned in the area to defend the safety and security of commercial shipping (2024)<br>
 
 ## Terrorism
 

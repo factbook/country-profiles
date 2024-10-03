@@ -360,7 +360,7 @@ Aland Coalition (a coalition of several political parties on the Aland Islands)<
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNOOSA, UNRWA, UNSOM, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Mikko Tapani HAUTALA (since 17 September 2020)<br>
+_chief of mission_: Ambassador Leena-Kaisa MIKKOLA (since 18 September 2024)<br>
 _chancery_: 3301 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 298-5800<br>
 _FAX_: [1] (202) 298-6030<br>
@@ -430,17 +430,19 @@ _Standard & Poors rating_: AA+ (2014)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.7% (2017 est.)<br>
-_industry_: 28.2% (2017 est.)<br>
-_services_: 69.1% (2017 est.)<br>
+_agriculture_: 2.5% (2023 est.)<br>
+_industry_: 24.5% (2023 est.)<br>
+_services_: 60.7% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 54.4% (2017 est.)<br>
-_government consumption_: 22.9% (2017 est.)<br>
-_investment in fixed capital_: 22.1% (2017 est.)<br>
-_investment in inventories_: 0.4% (2017 est.)<br>
-_exports of goods and services_: 38.5% (2017 est.)<br>
-_imports of goods and services_: -38.2% (2017 est.)<br>
+_household consumption_: 52.5% (2023 est.)<br>
+_government consumption_: 25.2% (2023 est.)<br>
+_investment in fixed capital_: 23.4% (2023 est.)<br>
+_investment in inventories_: -0.7% (2023 est.)<br>
+_exports of goods and services_: 41% (2023 est.)<br>
+_imports of goods and services_: -41.4% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, barley, oats, wheat, potatoes, sugar beets, pork, chicken, peas, beef (2022)<br>
@@ -478,8 +480,8 @@ _female_: 15.5% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 12% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 5% of household expenditures (2021 est.)<br>
+_on food_: 11.9% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 5.1% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.8% (2021 est.)<br>
@@ -544,10 +546,6 @@ $16.929 billion (2023 est.)<br>
 $16.036 billion (2022 est.)<br>
 $16.744 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$631.549 billion (2019 est.)<br>
-$536.301 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
@@ -701,8 +699,8 @@ approximately 31,000 active-duty personnel (23,000 Army; 5,000 Navy; 3,000 Air F
 the military's inventory consists of a wide mix of mostly modern US, European, Israeli, South Korean, and domestically produced weapons systems; in recent years, the US has been the leading supplier of arms; the Finnish defense industry produces a variety of military equipment, including wheeled armored vehicles and naval vessels; it also cooperates with other European countries and the US (2023)<br>
 
 **Military service age and obligation**<br>
-at age 18, all Finnish men are obligated to serve 5.5-12 months of service within a branch of the military or the Border Guard (length of service depends on the type of duty); women 18-29 may volunteer for service; there is also an option to perform non-military service which lasts for 8.5 or 11.5 months; after completing their initial conscript obligation, individuals enter the reserves and remain eligible for mobilization until the age of 50 for rank-and-file and 60 for non-commissioned and commissioned officers (2023)<br>
-<strong>note 1:</strong> the military trains approximately 21,000 conscripts each year; women have served on a voluntary basis since 1995, and as of 2022 made up about 19% of the military's full-time personnel<br><br><strong>note 2: </strong>Finland has had conscription since 1951<br>
+at age 18, all Finnish men are obligated to serve 5.5-12 months of service within a branch of the military or the Border Guard (length of service depends on the type of duty); women 18-29 may volunteer for service; there is also an option to perform non-military service which lasts for 8.5 or 11.5 months; after completing their initial conscript obligation, individuals enter the reserves and remain eligible for mobilization until the age of 50 for rank-and-file and 60 for non-commissioned and commissioned officers (2024)<br>
+<strong>note 1:</strong> Finland has had conscription since 1951; each year, the military inducts and trains approximately 21,000 conscripts; women have served on a voluntary basis since 1995, and as of 2022 made up about 19% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 165 Lebanon (UNIFIL) (2024)<br>

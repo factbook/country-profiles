@@ -319,9 +319,10 @@ _election results_: <em><br>2019:</em> KIM Jong Un reelected unopposed<br>
 <strong>note 1:</strong> KIM Jong Un's titles include general secretary of the Workers' Party of Korea (KWP), chairman of the KWP Central Military Commission, president of the State Affairs Commission, and supreme commander of the Korean People's Army<br><br><strong>note 2:</strong> within the North Korean system, KIM Jong Un's role as chief of state is secondary to his role as general secretary of the Korean Workers' Party; chief of state is used to engage with non-communist countries such as the US; North Korea revised its constitution in 2019 to define "the Chairman of the State Affairs Commission" as "the supreme leader who represents the state"; functions as the commander-in-chief and chief executive; the specific titles associated with this office have changed multiple times under KIM's tenure, however, KIM Jong Un has been supreme leader since his father's death in 2011<br><br><strong>note 3:</strong> the head of government functions as the technical head of state and performs related duties, such as receiving ambassadors' credentials<br>
 
 **Legislative branch**<br>
-_description_: unicameral Supreme People's Assembly or Ch'oego Inmin Hoeui (687 seats; members directly elected by majority vote in 2 rounds if needed to serve 5-year terms); note - functions as a rubberstamp legislature; the Korean Workers' Party selects all candidates<br>
+_description_: unicameral Supreme People's Assembly (SPA) or Ch'oego Inmin Hoeui (687 seats; members directly elected by majority vote in 2 rounds if needed to serve 5-year terms)<br>
 _elections_: last held on 10 March 2019 (next to be held in 2024)<br>
-_election results_: percent of vote by party - NA; seats by party - KWP 607, KSDP 50, Chondoist Chongu Party 22, General Association of Korean Residents in Japan (Chongryon) 5, religious associations 3; ruling party approves a list of candidates who are elected without opposition; composition as of February 2024 - men 566, women 121, percentage women 17.6%<br><br><strong>note:</strong> KWP, KSDP, Chondoist Chongu Party, and Chongryon are under the KWP's control; a token number of seats reserved for minor parties<br>
+_election results_: percent of vote by party - NA; seats by party - KWP 607, KSDP 50, Chondoist Chongu Party 22, General Association of Korean Residents in Japan (Chongryon) 5, religious associations 3; ruling party approves a list of candidates who are elected without opposition; composition as of February 2024 - men 566, women 121, percentage women 17.6%<br>
+<strong>note: </strong>the SPA functions as a rubberstamp legislature; the Korean Workers' Party selects all candidates<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Central Court (consists of one judge and 2 "People's Assessors" or, for some cases, 3 judges)<br>
@@ -329,7 +330,7 @@ _judge selection and term of office_: judges elected by the Supreme People's Ass
 _subordinate courts_: lower provincial courts as determined by the Supreme People's Assembly<br>
 
 **Political parties**<br>
-<strong>major parties:</strong><br>Korean Workers' Party or KWP (formally known as Workers' Party of Korea) <br>General Association of Korean Residents in Japan (Chongryon) <br><strong>minor parties:</strong> <br>Chondoist Chongu Party (under KWP control)<br>Social Democratic Party or KSDP (under KWP control)<br>
+<strong>major parties:</strong><br>Korean Workers' Party or KWP (formally known as Workers' Party of Korea) <br>General Association of Korean Residents in Japan (Chongryon; under KWP control) <br><strong>minor parties:</strong> <br>Chondoist Chongu Party (under KWP control)<br>Social Democratic Party or KSDP (under KWP control)<br>
 
 **International organization participation**<br>
 ARF, FAO, G-77, ICAO, ICRM, IFAD, IFRCS, IHO, IMO, IMSO, IOC, IPU, ISO, ITSO, ITU, NAM, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WFTU (NGOs), WHO, WIPO, WMO<br>
@@ -382,10 +383,6 @@ _industry_: 47.6% (2017 est.)<br>
 _services_: 29.9% (2017 est.)<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: (2014 est.) NA<br>
-_government consumption_: (2014 est.) NA<br>
-_investment in fixed capital_: (2014 est.) NA<br>
-_investment in inventories_: (2014 est.) NA<br>
 _exports of goods and services_: 5.9% (2016 est.)<br>
 _imports of goods and services_: -11.1% (2016 est.)<br>
 
@@ -444,9 +441,6 @@ China 98%, Zimbabwe 0%, Netherlands 0%, India 0%, Colombia 0% (2022)<br>
 **Imports - commodities**<br>
 plastic products, tobacco, soybean oil, rubber tires, packaged medicine (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Debt - external**<br>
-$5 billion (2013 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: North Korean won (KPW) per US dollar (average market rate)<br>

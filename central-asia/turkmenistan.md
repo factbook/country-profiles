@@ -429,17 +429,18 @@ $59.887 billion (2023 est.)<br>
 3.6% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 7.5% (2017 est.)<br>
-_industry_: 44.9% (2017 est.)<br>
-_services_: 47.7% (2017 est.)<br>
+_agriculture_: 11.6% (2022 est.)<br>
+_industry_: 40.6% (2022 est.)<br>
+_services_: 47.8% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 50% (2017 est.)<br>
-_government consumption_: 10% (2017 est.)<br>
-_investment in fixed capital_: 28.2% (2017 est.)<br>
-_investment in inventories_: 0% (2017 est.)<br>
-_exports of goods and services_: 26.2% (2017 est.)<br>
-_imports of goods and services_: -14.3% (2017 est.)<br>
+_government consumption_: 9.8% (2022 est.)<br>
+_investment in fixed capital_: 18.3% (2022 est.)<br>
+_exports of goods and services_: 22.2% (2023 est.)<br>
+_imports of goods and services_: -12.9% (2023 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, cotton, wheat, potatoes, watermelons, tomatoes, grapes, beef, sugar beets, lamb/mutton (2022)<br>
@@ -469,8 +470,8 @@ _female_: 5.7% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
-_on food_: 36.9% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 2.2% of household expenditures (2021 est.)<br>
+_on food_: 36.7% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 2.2% of household expenditures (2022 est.)<br>
 
 **Remittances**<br>
 0% of GDP (2022 est.)<br>
@@ -525,8 +526,8 @@ $24.91 billion (31 December 2017 est.)<br>
 $25.05 billion (31 December 2016 est.)<br>
 
 **Debt - external**<br>
-$539.4 million (31 December 2017 est.)<br>
-$425.3 million (31 December 2016 est.)<br>
+$3.729 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Turkmenistani manat (TMM) per US dollar -<br>

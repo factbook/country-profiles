@@ -331,7 +331,7 @@ _election results_: <em><br>2022: </em>percent of vote<em> -</em> Denis BECIROVI
 <strong>note:</strong> President of the Federation of Bosnia and Herzegovina Lidiia BRADARA (since 28 February 2023); Vice Presidents Refik LENDO (since 28 February 2023) and Igor STOJANOVIC (since 28 February 2023); President of the Republika Srpska Milorad DODIK (since 15 November 2022); Vice Presidents Camil DURAKOVIC (since 15 November 2022) and Davor PRANJIC (since 15 November 2022)<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliamentary Assembly or Skupstina consists of:<br>House of Peoples or Dom Naroda (15 seats - 5 Bosniak, 5 Croat, 5 Serb; members designated by the Federation of Bosnia and Herzegovina's House of Peoples and the Republika Srpska's National Assembly serve 4-year terms)<br>House of Representatives or Predstavnicki Dom (42 seats to include 28 seats allocated to the Federation of Bosnia and Herzegovina and 14 to the Republika Srpska; members directly elected by proportional representation vote to serve 4-year terms); note - the Federation of Bosnia and Herzegovina has a bicameral legislature that consists of the House of Peoples (80 seats - 23 Bosniak, 23 Croat, 23 Serb, 11 other) and the House of Representatives (98 seats; members directly elected by proportional representation vote to serve 4-year terms); Republika Srpska's unicameral legislature is the National Assembly or Narodna skupština Republike Srpske (83 directly elected delegates serve 4-year terms)<br>
+_description_: bicameral Parliamentary Assembly or Skupstina consists of:<br>House of Peoples or Dom Naroda (15 seats - 5 Bosniak, 5 Croat, 5 Serb; members designated by the Federation of Bosnia and Herzegovina's House of Peoples and the Republika Srpska's National Assembly to serve 4-year terms)<br>House of Representatives or Predstavnicki Dom (42 seats to include 28 seats allocated to the Federation of Bosnia and Herzegovina and 14 to the Republika Srpska; members directly elected by proportional representation vote to serve 4-year terms)<br>
 _elections_: House of Peoples - last held on 2 October 2022 (next to be held in 2026)<br>House of Representatives - last held on 2 October 2022 (next to be held in 2026)<br>
 _election results_: House of Peoples - percent of vote by party/coalition - NA; seats by party/coalition - NA; composition - men 13, women 2, percentage women 13.3%<br><br>House of Representatives - percent of vote by party/coalition - SDA 17.2%, SNSD 16.3%, HDZ BiH 8.8%, SDP 8.2%, SDS 7.1%, DF-GS 6.4%, NiP 5%, PDP 4.6%, NS/HC 3.1%, NES 3%, For Justice and Order 2.1%, DEMOS 1.9%, US 1.6%, BHI KF 1.3%, other 13.4%; seats by party/coalition - SDA 9, SNSD 6, SDP 5, HDZ BiH 4, DF-GS 3, NiP 3, SDS 2, PDP 2, NS/HC 2, NES 2, For Justice and Order 1, DEMOS 1, US 1, BHI KF 1; composition - men 34, women 8, percentage women 19.1%; total Parliamentary Assembly percentage women 17.5%<br>
 
@@ -418,17 +418,19 @@ _Standard & Poors rating_: B (2011)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 6.8% (2017 est.)<br>
-_industry_: 28.9% (2017 est.)<br>
-_services_: 64.3% (2017 est.)<br>
+_agriculture_: 4.3% (2023 est.)<br>
+_industry_: 23.3% (2023 est.)<br>
+_services_: 56.4% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 77.4% (2017 est.)<br>
-_government consumption_: 20% (2017 est.)<br>
-_investment in fixed capital_: 16.6% (2017 est.)<br>
-_investment in inventories_: 2.3% (2017 est.)<br>
-_exports of goods and services_: 38.7% (2017 est.)<br>
-_imports of goods and services_: -55.1% (2017 est.)<br>
+_household consumption_: 71.9% (2023 est.)<br>
+_government consumption_: 19.9% (2023 est.)<br>
+_investment in fixed capital_: 22.1% (2022 est.)<br>
+_investment in inventories_: 4.7% (2023 est.)<br>
+_exports of goods and services_: 44.1% (2023 est.)<br>
+_imports of goods and services_: -56.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 maize, milk, vegetables, potatoes, plums, wheat, apples, barley, chicken, pears (2022)<br>
@@ -462,8 +464,8 @@ _female_: 30.1% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Average household expenditures**<br>
-_on food_: 30% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 8.2% of household expenditures (2021 est.)<br>
+_on food_: 29.2% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 8.3% of household expenditures (2022 est.)<br>
 
 **Remittances**<br>
 10.53% of GDP (2023 est.)<br>
@@ -524,8 +526,8 @@ $9.475 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$10.87 billion (31 December 2017 est.)<br>
-$10.64 billion (31 December 2016 est.)<br>
+$4.521 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: konvertibilna markas (BAM) per US dollar -<br>

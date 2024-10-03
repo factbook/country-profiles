@@ -418,17 +418,19 @@ _Standard & Poors rating_: AAA (1994)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.3% (2017 est.)<br>
-_industry_: 12.8% (2017 est.)<br>
-_services_: 86.9% (2017 est.)<br>
+_agriculture_: 0.2% (2023 est.)<br>
+_industry_: 10.5% (2023 est.)<br>
+_services_: 80.6% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 30.2% (2017 est.)<br>
-_government consumption_: 16.5% (2017 est.)<br>
-_investment in fixed capital_: 16.2% (2017 est.)<br>
-_investment in inventories_: 1.1% (2017 est.)<br>
-_exports of goods and services_: 230% (2017 est.)<br>
-_imports of goods and services_: -194% (2017 est.)<br>
+_household consumption_: 32.2% (2023 est.)<br>
+_government consumption_: 19% (2023 est.)<br>
+_investment in fixed capital_: 18.1% (2023 est.)<br>
+_investment in inventories_: -0.2% (2023 est.)<br>
+_exports of goods and services_: 212.5% (2023 est.)<br>
+_imports of goods and services_: -181.7% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, wheat, barley, triticale, potatoes, pork, grapes, beef, oats, rapeseed (2022)<br>
@@ -527,10 +529,6 @@ $2.977 billion (2023 est.)<br>
 $2.874 billion (2022 est.)<br>
 $2.921 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$4,266,792,000,000 (2019 est.)<br>
-$4,581,617,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>

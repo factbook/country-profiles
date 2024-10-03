@@ -339,17 +339,19 @@ $3.074 billion (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.7% (2012 est.)<br>
-_industry_: 15.5% (2012 est.)<br>
-_services_: 83.8% (2012 est.)<br>
+_agriculture_: 0.3% (2022 est.)<br>
+_industry_: 11.2% (2022 est.)<br>
+_services_: 73.4% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 66.9% (2016 est.)<br>
-_government consumption_: 33.6% (2016 est.)<br>
-_investment in fixed capital_: 19.4% (2016 est.)<br>
-_investment in inventories_: 0% (2016 est.)<br>
-_exports of goods and services_: 17.5% (2016 est.)<br>
-_imports of goods and services_: -37.5% (2016 est.)<br>
+_household consumption_: 73.2% (2018 est.)<br>
+_government consumption_: 14.5% (2018 est.)<br>
+_investment in fixed capital_: 34% (2018 est.)<br>
+_investment in inventories_: 7% (2018 est.)<br>
+_exports of goods and services_: 63.2% (2018 est.)<br>
+_imports of goods and services_: -92% (2018 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 aloe, sorghum, peanuts, vegetables, tropical fruit<br>

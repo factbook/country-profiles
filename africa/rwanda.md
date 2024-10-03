@@ -436,17 +436,19 @@ _Standard & Poors rating_: B+ (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 30.9% (2017 est.)<br>
-_industry_: 17.6% (2017 est.)<br>
-_services_: 51.5% (2017 est.)<br>
+_agriculture_: 27.1% (2023 est.)<br>
+_industry_: 21.5% (2023 est.)<br>
+_services_: 44.3% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 75.9% (2017 est.)<br>
-_government consumption_: 15.2% (2017 est.)<br>
-_investment in fixed capital_: 22.9% (2017 est.)<br>
-_investment in inventories_: 0.5% (2017 est.)<br>
-_exports of goods and services_: 18.2% (2017 est.)<br>
-_imports of goods and services_: -32.8% (2017 est.)<br>
+_household consumption_: 75.3% (2023 est.)<br>
+_government consumption_: 16.6% (2023 est.)<br>
+_investment in fixed capital_: 27.1% (2023 est.)<br>
+_investment in inventories_: -3.8% (2023 est.)<br>
+_exports of goods and services_: 25.4% (2023 est.)<br>
+_imports of goods and services_: -40.6% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 bananas, cassava, sweet potatoes, potatoes, plantains, maize, beans, pumpkins/squash, taro, sorghum (2022)<br>
@@ -546,8 +548,8 @@ $1.867 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$3.258 billion (31 December 2017 est.)<br>
-$2.611 billion (31 December 2016 est.)<br>
+$4.254 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Rwandan francs (RWF) per US dollar -<br>

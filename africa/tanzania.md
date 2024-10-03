@@ -452,17 +452,19 @@ _Moody's rating_: B2 (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 23.4% (2017 est.)<br>
-_industry_: 28.6% (2017 est.)<br>
-_services_: 47.6% (2017 est.)<br>
+_agriculture_: 23.7% (2023 est.)<br>
+_industry_: 27.7% (2023 est.)<br>
+_services_: 28.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 62.4% (2017 est.)<br>
-_government consumption_: 12.5% (2017 est.)<br>
-_investment in fixed capital_: 36.1% (2017 est.)<br>
-_investment in inventories_: -8.7% (2017 est.)<br>
-_exports of goods and services_: 18.1% (2017 est.)<br>
-_imports of goods and services_: -20.5% (2017 est.)<br>
+_household consumption_: 53.8% (2023 est.)<br>
+_government consumption_: 8.1% (2023 est.)<br>
+_investment in fixed capital_: 42% (2023 est.)<br>
+_investment in inventories_: -1.7% (2023 est.)<br>
+_exports of goods and services_: 17.8% (2023 est.)<br>
+_imports of goods and services_: -20% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 cassava, maize, sweet potatoes, sugarcane, bananas, milk, rice, vegetables, beans, sunflower seeds (2022)<br>
@@ -500,8 +502,8 @@ _female_: 4.4% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 27.4% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 1.6% of household expenditures (2021 est.)<br>
+_on food_: 27.9% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 1.6% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9% (2018 est.)<br>
@@ -566,8 +568,8 @@ $4.351 billion (2016 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$22.054 billion (2019 est.)<br>
-$20.569 billion (2018 est.)<br>
+$15.913 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Tanzanian shillings (TZS) per US dollar -<br>

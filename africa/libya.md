@@ -405,17 +405,19 @@ $50.492 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.3% (2017 est.)<br>
-_industry_: 52.3% (2017 est.)<br>
-_services_: 46.4% (2017 est.)<br>
+_agriculture_: 1.6% (2023 est.)<br>
+_industry_: 85% (2023 est.)<br>
+_services_: 46.6% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 71.6% (2017 est.)<br>
-_government consumption_: 19.4% (2017 est.)<br>
-_investment in fixed capital_: 2.7% (2017 est.)<br>
-_investment in inventories_: 1.3% (2016 est.)<br>
-_exports of goods and services_: 38.8% (2017 est.)<br>
-_imports of goods and services_: -33.8% (2017 est.)<br>
+_household consumption_: 26.1% (2023 est.)<br>
+_government consumption_: 31.8% (2023 est.)<br>
+_investment in fixed capital_: 16.1% (2018 est.)<br>
+_investment in inventories_: -1.4% (2023 est.)<br>
+_exports of goods and services_: 68.6% (2023 est.)<br>
+_imports of goods and services_: -41.3% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 potatoes, watermelons, tomatoes, onions, dates, milk, olives, chicken, wheat, vegetables (2022)<br>
@@ -499,10 +501,6 @@ $92.427 billion (2023 est.)<br>
 $86.683 billion (2022 est.)<br>
 $82.262 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$3.02 billion (31 December 2017 est.)<br>
-$3.116 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Libyan dinars (LYD) per US dollar -<br>
@@ -629,7 +627,7 @@ both the forces aligned with the GNU and the LNA are largely equipped with weapo
 not available<br>
 
 **Military - note**<br>
-the western-based GNU and the eastern-based LNA forces are separated by a fortified line of control running roughly from the coastal city of Sirte south to the vicinity of Al Jufra and Brak; Turkey has provided support to the GNU forces, including military trainers, ammunition, weapons, and aerial drones; Russia, the United Arab Emirates, and Egypt have been the main supporters of the LNA (2024)<br>
+the western-based GNU and the eastern-based LNA forces are separated by a fortified line of control running roughly from the coastal city of Sirte south to the vicinity of Al Jufra and Brak; Turkey has provided support to the GNU forces, including military trainers, ammunition, weapons, and aerial drones; Russia, the United Arab Emirates, and Egypt have been the main supporters of the LNA; both the LNA and the GNU forces have incorporated foreign fighters into their ranks (2024)<br>
 
 ## Terrorism
 

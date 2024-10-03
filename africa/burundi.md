@@ -430,17 +430,18 @@ $2.642 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 39.5% (2017 est.)<br>
-_industry_: 16.4% (2017 est.)<br>
-_services_: 44.2% (2017 est.)<br>
+_agriculture_: 25.2% (2023 est.)<br>
+_industry_: 9.6% (2023 est.)<br>
+_services_: 48.8% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 83% (2017 est.)<br>
-_government consumption_: 20.8% (2017 est.)<br>
-_investment in fixed capital_: 16% (2017 est.)<br>
-_investment in inventories_: 0% (2017 est.)<br>
-_exports of goods and services_: 5.5% (2017 est.)<br>
-_imports of goods and services_: -25.3% (2017 est.)<br>
+_household consumption_: 75.6% (2023 est.)<br>
+_government consumption_: 30.5% (2023 est.)<br>
+_investment in fixed capital_: 13% (2023 est.)<br>
+_exports of goods and services_: 5.3% (2023 est.)<br>
+_imports of goods and services_: -24.3% (2023 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 cassava, bananas, sweet potatoes, vegetables, beans, potatoes, maize, sugarcane, fruits, rice (2022)<br>
@@ -533,8 +534,8 @@ $266.164 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$610.9 million (31 December 2017 est.)<br>
-$622.4 million (31 December 2016 est.)<br>
+$444.292 million (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Burundi francs (BIF) per US dollar -<br>

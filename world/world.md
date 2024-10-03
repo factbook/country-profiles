@@ -298,17 +298,19 @@ $105.435 trillion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 6.4% (2017 est.)<br>
-_industry_: 30% (2017 est.)<br>
-_services_: 63% (2017 est.)<br>
+_agriculture_: 4.1% (2023 est.)<br>
+_industry_: 26.4% (2023 est.)<br>
+_services_: 61.8% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 56.4% (2017 est.)<br>
-_government consumption_: 16.1% (2017 est.)<br>
-_investment in fixed capital_: 25.7% (2017 est.)<br>
-_investment in inventories_: 1.4% (2017 est.)<br>
-_exports of goods and services_: 28.8% (2017 est.)<br>
-_imports of goods and services_: -28.3% (2017 est.)<br>
+_household consumption_: 55.3% (2022 est.)<br>
+_government consumption_: 16.5% (2022 est.)<br>
+_investment in fixed capital_: 26.1% (2022 est.)<br>
+_investment in inventories_: 1.4% (2022 est.)<br>
+_exports of goods and services_: 29.3% (2023 est.)<br>
+_imports of goods and services_: -28.7% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 <p>the whole range of agricultural products<br><br><strong>top ten agricultural products by global production tonnage:</strong> sugarcane, maize, wheat, rice, milk, oil palm fruit, potatoes, soybeans, cassava, vegetables (2022)</p><br>
@@ -370,11 +372,6 @@ $27.27 trillion (2021 est.)<br>
 
 **Imports - commodities**<br>
 <p>the whole range of industrial and agricultural goods and services</p> <p><strong>top ten - share of world trade:</strong> see listing for exports</p><br>
-
-**Debt - external**<br>
-$76.56 trillion (31 December 2017 est.)<br>
-$75.09 trillion (31 December 2016 est.)<br>
-<strong>note:</strong> this figure is the sum total of all countries' external debt, both public and private<br>
 
 ## Energy
 

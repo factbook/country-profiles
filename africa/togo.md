@@ -434,17 +434,18 @@ _Standard & Poors rating_: B (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 28.8% (2017 est.)<br>
-_industry_: 21.8% (2017 est.)<br>
-_services_: 49.8% (2017 est.)<br>
+_agriculture_: 18.1% (2023 est.)<br>
+_industry_: 20.2% (2023 est.)<br>
+_services_: 51.7% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 84.5% (2017 est.)<br>
-_government consumption_: 11.4% (2017 est.)<br>
-_investment in fixed capital_: 23.4% (2017 est.)<br>
-_investment in inventories_: -1.4% (2017 est.)<br>
-_exports of goods and services_: 43.1% (2017 est.)<br>
-_imports of goods and services_: -61% (2017 est.)<br>
+_household consumption_: 78.1% (2023 est.)<br>
+_government consumption_: 12.6% (2023 est.)<br>
+_investment in fixed capital_: 23% (2023 est.)<br>
+_exports of goods and services_: 23.9% (2023 est.)<br>
+_imports of goods and services_: -37.5% (2023 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 cassava, yams, maize, oil palm fruit, sorghum, soybeans, beans, rice, vegetables, cotton (2022)<br>
@@ -542,8 +543,8 @@ $77.8 million (31 December 2017 est.)<br>
 $42.6 million (31 December 2016 est.)<br>
 
 **Debt - external**<br>
-$1.442 billion (31 December 2017 est.)<br>
-$1.22 billion (31 December 2016 est.)<br>
+$1.462 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>

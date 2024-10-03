@@ -418,17 +418,19 @@ _Standard & Poors rating_: B- (2018)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 15.5% (2017 est.)<br>
-_industry_: 24.4% (2017 est.)<br>
-_services_: 60% (2017 est.)<br>
+_agriculture_: 15.3% (2023 est.)<br>
+_industry_: 27.3% (2023 est.)<br>
+_services_: 46.3% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 69.9% (2017 est.)<br>
-_government consumption_: 15.3% (2017 est.)<br>
-_investment in fixed capital_: 28.1% (2017 est.)<br>
-_investment in inventories_: 1.7% (2017 est.)<br>
-_exports of goods and services_: 41.2% (2017 est.)<br>
-_imports of goods and services_: -55.4% (2017 est.)<br>
+_household consumption_: 78.1% (2023 est.)<br>
+_government consumption_: 12.2% (2023 est.)<br>
+_investment in fixed capital_: 21.2% (2023 est.)<br>
+_investment in inventories_: 1.8% (2023 est.)<br>
+_exports of goods and services_: 45.8% (2023 est.)<br>
+_imports of goods and services_: -59.1% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sugarcane, milk, rice, oil palm fruit, maize, plantains, cassava, groundnuts, beans, coffee (2022)<br>
@@ -529,8 +531,8 @@ $4.047 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$11.674 billion (2019 est.)<br>
-$11.771 billion (2018 est.)<br>
+$6.106 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: cordobas (NIO) per US dollar -<br>

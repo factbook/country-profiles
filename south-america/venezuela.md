@@ -414,17 +414,19 @@ _Standard & Poors rating_: SD (2017)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 4.7% (2017 est.)<br>
-_industry_: 40.4% (2017 est.)<br>
-_services_: 54.9% (2017 est.)<br>
+_agriculture_: 5% (2014 est.)<br>
+_industry_: 37.2% (2014 est.)<br>
+_services_: 51.7% (2014 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 68.5% (2017 est.)<br>
-_government consumption_: 19.6% (2017 est.)<br>
-_investment in fixed capital_: 13.9% (2017 est.)<br>
-_investment in inventories_: 1.7% (2017 est.)<br>
-_exports of goods and services_: 7% (2017 est.)<br>
-_imports of goods and services_: -10.7% (2017 est.)<br>
+_household consumption_: 75.3% (2014 est.)<br>
+_government consumption_: 14.6% (2014 est.)<br>
+_investment in fixed capital_: 21.6% (2014 est.)<br>
+_investment in inventories_: 3.2% (2014 est.)<br>
+_exports of goods and services_: 16.7% (2014 est.)<br>
+_imports of goods and services_: -31.4% (2014 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, sugarcane, maize, plantains, oil palm fruit, bananas, rice, potatoes, pineapples, chicken (2022)<br>
@@ -458,8 +460,8 @@ _female_: 14.1% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Average household expenditures**<br>
-_on food_: 18.6% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 3.8% of household expenditures (2021 est.)<br>
+_on food_: 18.4% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 3.8% of household expenditures (2022 est.)<br>
 
 **Remittances**<br>
 0.03% of GDP (2014 est.)<br>
@@ -514,10 +516,6 @@ $9.794 billion (2017 est.)<br>
 $10.15 billion (2016 est.)<br>
 $15.625 billion (2015 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$100.3 billion (31 December 2017 est.)<br>
-$109.8 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: bolivars (VEB) per US dollar -<br>

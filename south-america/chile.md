@@ -430,17 +430,19 @@ _Standard & Poors rating_: A+ (2017)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 4.2% (2017 est.)<br>
-_industry_: 32.8% (2017 est.)<br>
-_services_: 63% (2017 est.)<br>
+_agriculture_: 3.5% (2023 est.)<br>
+_industry_: 29.7% (2023 est.)<br>
+_services_: 56.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 62.3% (2017 est.)<br>
-_government consumption_: 14% (2017 est.)<br>
-_investment in fixed capital_: 21.5% (2017 est.)<br>
-_investment in inventories_: 0.5% (2017 est.)<br>
-_exports of goods and services_: 28.7% (2017 est.)<br>
-_imports of goods and services_: -27% (2017 est.)<br>
+_household consumption_: 60.6% (2023 est.)<br>
+_government consumption_: 15.1% (2023 est.)<br>
+_investment in fixed capital_: 23.8% (2023 est.)<br>
+_investment in inventories_: -0.9% (2023 est.)<br>
+_exports of goods and services_: 31.1% (2023 est.)<br>
+_imports of goods and services_: -29.8% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 grapes, milk, apples, wheat, potatoes, chicken, tomatoes, sugar beets, maize, oats (2022)<br>
@@ -478,8 +480,8 @@ _female_: 24.5% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 18.5% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 3.4% of household expenditures (2021 est.)<br>
+_on food_: 18% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 3.3% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.3% (2022 est.)<br>
@@ -542,10 +544,6 @@ $46.377 billion (2023 est.)<br>
 $39.102 billion (2022 est.)<br>
 $51.252 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$193.298 billion (2019 est.)<br>
-$181.089 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Chilean pesos (CLP) per US dollar -<br>
@@ -691,7 +689,7 @@ approximately 80,000 active armed forces personnel (45,000 Army; 25,000 Navy; 10
 the Chilean military inventory is comprised of a wide mix of mostly Western equipment and some domestically produced systems; in recent years, it has received military hardware from a variety of countries, including Australia, the UK, and the US; Chile's defense industry has capabilities in military aircraft, ships, and vehicles (2023)<br>
 
 **Military service age and obligation**<br>
-18-45 years of age for voluntary male and female military service; selective compulsory service (there are usually enough volunteers to make compulsory service unnecessary); service obligation is a minimum of 12 months for Army and 22 months for Navy and Air Force (2023)<br>
+18-45 years of age for voluntary military service for men; 17-24 for women; selective compulsory service (there are usually enough volunteers to make compulsory service unnecessary); service obligation is a minimum of 12 months for Army and 22 months for Navy and Air Force (2023)<br>
 <strong>note:</strong> as of 2021, women comprised approximately 18% of the armed forces<br>
 
 **Military - note**<br>

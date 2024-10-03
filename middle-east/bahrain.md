@@ -415,17 +415,19 @@ _Standard & Poors rating_: B+ (2017)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.3% (2017 est.)<br>
-_industry_: 39.3% (2017 est.)<br>
-_services_: 60.4% (2017 est.)<br>
+_agriculture_: 0.3% (2023 est.)<br>
+_industry_: 44.5% (2023 est.)<br>
+_services_: 51.1% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 45.8% (2017 est.)<br>
-_government consumption_: 15.5% (2017 est.)<br>
-_investment in fixed capital_: 26.1% (2017 est.)<br>
-_investment in inventories_: 0.4% (2017 est.)<br>
-_exports of goods and services_: 80.2% (2017 est.)<br>
-_imports of goods and services_: -67.9% (2017 est.)<br>
+_household consumption_: 39.2% (2021 est.)<br>
+_government consumption_: 15.8% (2021 est.)<br>
+_investment in fixed capital_: 24.6% (2021 est.)<br>
+_investment in inventories_: 1% (2021 est.)<br>
+_exports of goods and services_: 89.7% (2021 est.)<br>
+_imports of goods and services_: -70.2% (2021 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 lamb/mutton, dates, milk, chicken, tomatoes, fruits, sheep offal, eggs, sheepskins, cucumbers/gherkins (2022)<br>
@@ -455,8 +457,8 @@ _female_: 12.5% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
-_on food_: 13.1% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 0.4% of household expenditures (2021 est.)<br>
+_on food_: 13% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 0.4% of household expenditures (2022 est.)<br>
 
 **Remittances**<br>
 0% of GDP (2023 est.)<br>
@@ -512,10 +514,6 @@ $5.118 billion (2023 est.)<br>
 $4.775 billion (2022 est.)<br>
 $4.993 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$52.15 billion (31 December 2017 est.)<br>
-$42.55 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Bahraini dinars (BHD) per US dollar -<br>
@@ -650,8 +648,7 @@ information varies; approximately 10,000 active personnel (7,500 Army; 1,000 Nav
 the military's inventory consists of a mix of equipment acquired from a wide variety of suppliers; in recent years, the US has been the leading supplier of arms to Bahrain (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; 15 years of age for non-commissioned officers, technicians, and cadets; no conscription (2022)<br>
-<strong>note:</strong> the BDF hires foreign nationals, Sunni Muslims primarily from Arabic countries and Pakistan, to serve under contract; as of 2020, foreigners were estimated to comprise as much as 80% of the military; the policy has become a controversial issue with the primarily Shia population; during the 2011, the BDF reportedly deployed mostly foreign personnel against protesters<br>
+18 years of age for voluntary military service; 18-55 to voluntarily join the reserves; no compulsory service (2024)<br>
 
 **Military - note**<br>
 <p>the BDF is a small, but well-equipped military focused on territorial defense and support to internal security; its primary concern is Iran, both the conventional military threat and Tehran's support to regional terrorist groups; the BDF participates in multinational exercises and has conducted small deployments outside of the country; in 2015, for example, Bahrain joined the Saudi Arabia-led military intervention in Yemen, supplying a few hundred troops and combat aircraft</p> Bahrain’s closest security partners are the US and Saudi Arabia; it hosts the US Naval Forces Central Command (USNAVCENT; established 1983), which includes the US 5th Fleet, several subordinate naval task forces, and the Combined Maritime Forces (established 2002), a coalition of more than 30 nations providing maritime security for regional shipping lanes; in 2003, the US granted Bahrain Major Non-NATO Ally status, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; Bahraini leaders have said that the security of Bahrain and Saudi Arabia are “indivisible”; Saudi Arabia sent forces to Bahrain to assist with internal security following the 2011 uprising; Bahrain also has close security ties to other Gulf Cooperation Council  countries, particularly Kuwait and the United Arab Emirates, as well as the UK (2024)<br>

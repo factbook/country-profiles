@@ -388,7 +388,7 @@ Ethiopian Citizens for Social Justice and Democracy or EZEMA   <br>Gedeo Peopl
 ACP, AfDB, ATMIS, AU, BRICS, COMESA, EITI, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (accession candidate)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador SELESHI Bekele Awulachew (since 7 June 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Aster Mamo ANA (since 31 July 2024)<br>
 _chancery_: 3506 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 364-1200<br>
 _FAX_: [1] (202) 587-0195<br>
@@ -459,17 +459,18 @@ _Standard & Poors rating_: B (2014)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 34.8% (2017 est.)<br>
-_industry_: 21.6% (2017 est.)<br>
-_services_: 43.6% (2017 est.)<br>
+_agriculture_: 35.8% (2023 est.)<br>
+_industry_: 24.5% (2023 est.)<br>
+_services_: 37% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 69.6% (2017 est.)<br>
-_government consumption_: 10% (2017 est.)<br>
-_investment in fixed capital_: 43.5% (2017 est.)<br>
-_investment in inventories_: -0.1% (2017 est.)<br>
-_exports of goods and services_: 8.1% (2017 est.)<br>
-_imports of goods and services_: -31.2% (2017 est.)<br>
+_household consumption_: 78.9% (2023 est.)<br>
+_government consumption_: 6.3% (2023 est.)<br>
+_investment in fixed capital_: 22.2% (2023 est.)<br>
+_exports of goods and services_: 6.6% (2023 est.)<br>
+_imports of goods and services_: -14% (2023 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 maize, wheat, cereals, sorghum, milk, barley, taro, potatoes, millet, beans (2022)<br>
@@ -507,8 +508,8 @@ _female_: 7.4% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 41.3% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 3.1% of household expenditures (2021 est.)<br>
+_on food_: 39.7% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 3.1% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9% (2015 est.)<br>
@@ -574,8 +575,8 @@ $3.987 billion (2018 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$27.27 billion (2019 est.)<br>
-$26.269 billion (2018 est.)<br>
+$21.522 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: birr (ETB) per US dollar -<br>

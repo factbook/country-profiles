@@ -438,17 +438,19 @@ $26.538 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 12% (2017 est.)<br>
-_industry_: 22.2% (2017 est.)<br>
-_services_: 65.8% (2017 est.)<br>
+_agriculture_: 27% (2023 est.)<br>
+_industry_: 46.9% (2023 est.)<br>
+_services_: 18.5% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 77.6% (2017 est.)<br>
-_government consumption_: 24% (2017 est.)<br>
-_investment in fixed capital_: 12.6% (2017 est.)<br>
-_investment in inventories_: 0% (2017 est.)<br>
-_exports of goods and services_: 25.6% (2017 est.)<br>
-_imports of goods and services_: -39.9% (2017 est.)<br>
+_household consumption_: 77.7% (2022 est.)<br>
+_government consumption_: 16.7% (2022 est.)<br>
+_investment in fixed capital_: 11.3% (2022 est.)<br>
+_investment in inventories_: 3.3% (2022 est.)<br>
+_exports of goods and services_: 28% (2022 est.)<br>
+_imports of goods and services_: -37% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sugarcane, maize, beef, milk, cassava, wheat, bananas, vegetables, tobacco, cotton (2022)<br>
@@ -546,10 +548,6 @@ $115.53 million (2023 est.)<br>
 $598.622 million (2022 est.)<br>
 $838.78 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$9.357 billion (31 December 2017 est.)<br>
-$10.14 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Zimbabwean dollars (ZWD) per US dollar -<br>
@@ -676,13 +674,13 @@ Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbab
 information varies; approximately 30,000 active-duty troops, including about 4,000 Air Force personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the ZDF inventory is comprised mostly of Soviet-era and older Chinese equipment; since the early 2000s, Zimbabwe has been under an arms embargo from the EU, as well as targeted sanctions from Australia, Canada, New Zealand, the UK, and the US (2023)<br>
+the ZDF inventory is comprised mostly of Soviet-era and older Chinese armaments; since the early 2000s, Zimbabwe has been under an arms embargo from the EU, as well as targeted sanctions from Australia, Canada, New Zealand, the UK, and the US (2024)<br>
 
 **Military service age and obligation**<br>
 18-22 years of age for voluntary military service for men and women (18-24 for officer cadets; 18-30 for technical/specialist personnel); no conscription (2023)<br>
 
 **Military - note**<br>
-the ZDF’s primary responsibilities are protecting the country’s sovereignty and territory and securing its borders; it also has a considerable role in domestic security and has continued to be active in the country’s politics since the 2017 military-assisted political transition; the ZDF is part of the Southern Africa Development Community (SADC) Standby Force and has provided troops to the SADC deployment to Mozambique; Zimbabwe has defense ties with China and Russia<br><br>the ZDF was formed after independence from the former Rhodesian Army and the two guerrilla forces that opposed it during the Rhodesian Civil War (aka "Bush War") of the 1970s, the Zimbabwe African National Liberation Army (ZANLA) and the Zimbabwe People's Revolutionary Army (ZIPRA); the ZDF intervened in the Mozambique Civil War (1983-1992), the Democratic Republic of Congo during the Second Congo War (1998-2003), and the Angolan Civil War (1975-2002) during the late 1990s (2023)<br>
+the ZDF’s primary responsibilities are protecting the country’s sovereignty and territory and securing its borders; it also has a considerable role in domestic security and has continued to be active in the country’s politics since the 2017 military-assisted political transition; the ZDF is part of the Southern Africa Development Community (SADC) Standby Force and provided troops for the SADC military deployment to Mozambique, from 2021-2024; Zimbabwe has defense ties with China and Russia<br><br>the ZDF was formed after independence from the former Rhodesian Army and the two guerrilla forces that opposed it during the Rhodesian Civil War (aka "Bush War") of the 1970s, the Zimbabwe African National Liberation Army (ZANLA) and the Zimbabwe People's Revolutionary Army (ZIPRA); the ZDF intervened in the Mozambique Civil War (1983-1992), the Democratic Republic of Congo during the Second Congo War (1998-2003), and the Angolan Civil War (1975-2002) during the late 1990s (2024)<br>
 
 ## Space
 

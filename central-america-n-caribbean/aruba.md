@@ -349,17 +349,18 @@ _Standard & Poors rating_: BBB+ (2013)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.4% (2002 est.)<br>
-_industry_: 33.3% (2002 est.)<br>
-_services_: 66.3% (2002 est.)<br>
+_agriculture_: 0% (2019 est.)<br>
+_industry_: 11.4% (2019 est.)<br>
+_services_: 78.3% (2019 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 60.3% (2014 est.)<br>
-_government consumption_: 25.3% (2015 est.)<br>
-_investment in fixed capital_: 22.3% (2014 est.)<br>
-_investment in inventories_: 0% (2015 est.)<br>
-_exports of goods and services_: 70.5% (2015 est.)<br>
-_imports of goods and services_: -76.6% (2015 est.)<br>
+_household consumption_: 53.8% (2022 est.)<br>
+_government consumption_: 19.9% (2022 est.)<br>
+_investment in fixed capital_: 20.6% (2022 est.)<br>
+_exports of goods and services_: 83.1% (2022 est.)<br>
+_imports of goods and services_: -77.3% (2022 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 aloes; livestock; fish<br>
@@ -425,10 +426,6 @@ $1.544 billion (2022 est.)<br>
 $1.513 billion (2021 est.)<br>
 $1.213 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$693.2 million (31 December 2014 est.)<br>
-$666.4 million (31 December 2013 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Aruban guilders/florins per US dollar -<br>

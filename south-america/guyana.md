@@ -415,15 +415,15 @@ $16.786 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 15.4% (2017 est.)<br>
-_industry_: 15.3% (2017 est.)<br>
-_services_: 69.3% (2017 est.)<br>
+_agriculture_: 10% (2022 est.)<br>
+_industry_: 67.8% (2022 est.)<br>
+_services_: 19.3% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 71.1% (2017 est.)<br>
 _government consumption_: 18.2% (2017 est.)<br>
 _investment in fixed capital_: 25.4% (2017 est.)<br>
-_investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 47.8% (2017 est.)<br>
 _imports of goods and services_: -63% (2017 est.)<br>
 
@@ -511,8 +511,8 @@ $790.785 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$1.69 billion (31 December 2017 est.)<br>
-$1.542 billion (31 December 2016 est.)<br>
+$1.631 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Guyanese dollars (GYD) per US dollar -<br>

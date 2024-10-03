@@ -447,9 +447,10 @@ _Standard & Poors rating_: B- (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 21.1% (2016 est.)<br>
-_industry_: 22.5% (2016 est.)<br>
-_services_: 56.4% (2017 est.)<br>
+_agriculture_: 22.7% (2023 est.)<br>
+_industry_: 32.6% (2023 est.)<br>
+_services_: 42.8% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 80% (2017 est.)<br>
@@ -495,8 +496,8 @@ _female_: 7.1% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 59% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 1% of household expenditures (2021 est.)<br>
+_on food_: 59% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 1% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9% (2018 est.)<br>
@@ -560,8 +561,8 @@ $36.73 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$26.847 billion (2019 est.)<br>
-$22.755 billion (2018 est.)<br>
+$37.911 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: nairas (NGN) per US dollar -<br>

@@ -324,7 +324,7 @@ Note: in mid-2022, the Government of South Sudan inaugurated an Ad-hoc Judiciary
 AU, EAC, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, Interpol, IOM, IPU, ITU, MIGA, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WMO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Angong ACUIL (since 13 December 2023)<br>
+_chief of mission_: Ambassador SANTINO Fardol Watoo Dicken (since 18 September 2024)<br>
 _chancery_: 1015 31st Street NW, Suite 300, Washington, DC 20007<br>
 _telephone_: [1] (202) 600-2238<br>
 _FAX_: [1] (202) 644-9910<br>
@@ -382,12 +382,17 @@ $11.998 billion (2015 est.)<br>
 10.52% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
+**GDP - composition, by sector of origin**<br>
+_agriculture_: 10.4% (2015 est.)<br>
+_industry_: 33.1% (2015 est.)<br>
+_services_: 56.6% (2015 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
+
 **GDP - composition, by end use**<br>
-_household consumption_: 34.9% (2011 est.)<br>
-_government consumption_: 17.1% (2011 est.)<br>
-_investment in fixed capital_: 10.4% (2011 est.)<br>
-_exports of goods and services_: 64.9% (2011 est.)<br>
-_imports of goods and services_: -27.2% (2011 est.)<br>
+_investment in fixed capital_: 5.8% (2015 est.)<br>
+_exports of goods and services_: 36.7% (2015 est.)<br>
+_imports of goods and services_: -28.9% (2015 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, cassava, sorghum, goat milk, vegetables, fruits, maize, groundnuts, sesame seeds, beef (2022)<br>

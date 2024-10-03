@@ -349,9 +349,9 @@ $8.784 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0% (2013)<br>
-_industry_: 14% (2013)<br>
-_services_: 86% (2013)<br>
+_industry_: 12.3% (2022 est.)<br>
+_services_: 87.7% (2022 est.)<br>
+<strong>note:</strong> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **Agricultural products**<br>
 none<br>
@@ -395,9 +395,6 @@ Italy, Switzerland, United Kingdom, Germany, China&nbsp; (2021)<br>
 
 **Imports - commodities**<br>
 jewelry, cars and vehicle parts, recreational boats, plastic products, artwork (2021)<br>
-
-**Debt - external**<br>
-<p> NA</p><br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>

@@ -437,17 +437,19 @@ _Standard & Poors rating_: CCC (2023)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 12.2% (2017 est.)<br>
-_industry_: 28.6% (2017 est.)<br>
-_services_: 60% (2017 est.)<br>
+_agriculture_: 7.4% (2023 est.)<br>
+_industry_: 18.8% (2023 est.)<br>
+_services_: 61.3% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 66.5% (2017 est.)<br>
-_government consumption_: 20.4% (2017 est.)<br>
-_investment in fixed capital_: 16% (2017 est.)<br>
-_investment in inventories_: 4.7% (2017 est.)<br>
-_exports of goods and services_: 47.9% (2017 est.)<br>
-_imports of goods and services_: -55.6% (2017 est.)<br>
+_household consumption_: 64.1% (2023 est.)<br>
+_government consumption_: 41.7% (2023 est.)<br>
+_investment in fixed capital_: 16.9% (2023 est.)<br>
+_investment in inventories_: -1.8% (2023 est.)<br>
+_exports of goods and services_: 28.6% (2023 est.)<br>
+_imports of goods and services_: -49.5% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 maize, potatoes, wheat, sunflower seeds, sugar beets, milk, barley, soybeans, rapeseed, cabbages (2022)<br>
@@ -485,8 +487,8 @@ _female_: 20.4% (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 41.6% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 6.9% of household expenditures (2021 est.)<br>
+_on food_: 42.7% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 6.9% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.3% (2020 est.)<br>
@@ -550,10 +552,6 @@ $40.51 billion (2023 est.)<br>
 $28.506 billion (2022 est.)<br>
 $30.967 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$117.41 billion (2019 est.)<br>
-$114.449 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: hryvnia (UAH) per US dollar -<br>
@@ -719,7 +717,7 @@ prior to the full-scale Russian invasion in February 2022, the Ukrainian militar
 
 **Military service age and obligation**<br>
 18 years of age for voluntary service; conscription abolished in 2012, but reintroduced for men in 2014; 25 years of age for conscription; prior to the Russian invasion of February 2022, conscript service obligation was 12-18 months, depending on the service (2024)<br>
-<strong>note 1: </strong>following the Russian invasion in 2022, all nonexempt men ages 18 to 60 were required to register with their local recruitment offices and undergo medical screening for possible service; the Territorial Defense Forces (TDF) accepts volunteers, 18-60 years of age; since the invasion, hundreds of thousands of Ukrainians have volunteered for the regular armed forces, the TDF, or to work in civilian defense activities <strong><br><br></strong><strong>note 2: </strong>women have been able to volunteer for military service since 1993; as of 2023, approximately 60,000 women were serving in the armed forces <br><br><strong>note 3:</strong> since 2015, the Ukrainian military has allowed foreigners and stateless persons, 18-45 (in special cases up to 60), to join on 3-5-year contracts, based on qualifications; following the Russian invasion in 2022, the military began accepting medically fit foreign volunteers on a larger scale, with an emphasis on persons with combat experience; wartime volunteers typically serve for 6 months<br>
+<strong>note 1: </strong>following the Russian invasion in 2022, all nonexempt men ages 18 to 60 were required to register with their local recruitment offices and undergo medical screening for possible service; the Territorial Defense Forces (TDF) accepts volunteers, 18-60 years of age; since the invasion, hundreds of thousands of Ukrainians have volunteered for the regular armed forces, the TDF, or to work in civilian defense activities <strong><br><br></strong><strong>note 2: </strong>women have been able to volunteer for military service since 1993; as of 2024, nearly 70,000 women were serving in the armed forces in both uniformed and civilian positions <br><br><strong>note 3:</strong> since 2015, the Ukrainian military has allowed foreigners and stateless persons, 18-45 (in special cases up to 60), to join on 3-5-year contracts, based on qualifications; following the Russian invasion in 2022, the military began accepting medically fit foreign volunteers on a larger scale, with an emphasis on persons with combat experience; wartime volunteers typically serve for 6 months<br>
 
 **Military deployments**<br>
 <strong>note:</strong> prior to the Russian invasion in 2022, Ukraine had committed about 500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units; units affiliated with the multinational brigade remain within the structures of the armed forces of their respective countries until the brigade is activated for participation in an international operation<br>

@@ -401,17 +401,18 @@ $8.98 billion (2021 est.)<br>
 47.3% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 20% (2017 est.)<br>
-_industry_: 19.5% (2017 est.)<br>
-_services_: 60.8% (2017 est.)<br>
+_agriculture_: 27.8% (2021 est.)<br>
+_industry_: 28.9% (2021 est.)<br>
+_services_: 43.3% (2021 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 73.1% (2017 est.)<br>
-_government consumption_: 26% (2017 est.)<br>
-_investment in fixed capital_: 18.6% (2017 est.)<br>
-_investment in inventories_: 12.3% (2017 est.)<br>
-_exports of goods and services_: 16.1% (2017 est.)<br>
-_imports of goods and services_: -46.1% (2017 est.)<br>
+_household consumption_: 128.6% (2021 est.)<br>
+_government consumption_: 10.9% (2021 est.)<br>
+_investment in fixed capital_: 8.7% (2021 est.)<br>
+_exports of goods and services_: 24.8% (2021 est.)<br>
+_imports of goods and services_: -73.1% (2021 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 wheat, milk, olives, sheep milk, tomatoes, potatoes, maize, watermelons, apples, oranges (2022)<br>
@@ -504,8 +505,8 @@ $407.3 million (31 December 2017 est.)<br>
 $504.6 million (31 December 2016 est.)<br>
 
 **Debt - external**<br>
-$4.989 billion (31 December 2017 est.)<br>
-$5.085 billion (31 December 2016 est.)<br>
+$3.619 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Syrian pounds (SYP) per US dollar -<br>

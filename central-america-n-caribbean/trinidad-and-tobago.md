@@ -388,15 +388,15 @@ _Standard & Poors rating_: BBB- (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.4% (2017 est.)<br>
-_industry_: 47.8% (2017 est.)<br>
-_services_: 51.7% (2017 est.)<br>
+_agriculture_: 1.1% (2022 est.)<br>
+_industry_: 48.9% (2022 est.)<br>
+_services_: 47.8% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 78.9% (2017 est.)<br>
 _government consumption_: 16.4% (2017 est.)<br>
-_investment in fixed capital_: 8.2% (2017 est.)<br>
-_investment in inventories_: 0.6% (2017 est.)<br>
+_investment in fixed capital_: 19.8% (2021 est.)<br>
 _exports of goods and services_: 45.4% (2017 est.)<br>
 _imports of goods and services_: -48.7% (2017 est.)<br>
 
@@ -486,10 +486,6 @@ $6.256 billion (2023 est.)<br>
 $6.832 billion (2022 est.)<br>
 $6.88 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$8.238 billion (31 December 2017 est.)<br>
-$8.746 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Trinidad and Tobago dollars (TTD) per US dollar -<br>

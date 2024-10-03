@@ -376,9 +376,6 @@ Germany 32%, United States 22%, Italy 9%, France 7%, Seychelles 7% (2019)<br>
 **Imports - commodities**<br>
 recreational boats, aircraft, refined petroleum, cars, furniture (2019)<br>
 
-**Debt - external**<br>
-$36.1 million (1997)<br>
-
 **Exchange rates**<br>
 <p>the US dollar is used</p><br>
 

@@ -441,17 +441,19 @@ _Standard & Poors rating_: CCC+ (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 10.8% (2017 est.)<br>
-_industry_: 28.1% (2017 est.)<br>
-_services_: 61.1% (2017 est.)<br>
+_agriculture_: 6.1% (2023 est.)<br>
+_industry_: 25.1% (2023 est.)<br>
+_services_: 52.8% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 65.9% (2017 est.)<br>
-_government consumption_: 18.2% (2017 est.)<br>
-_investment in fixed capital_: 14.8% (2017 est.)<br>
-_investment in inventories_: 3.7% (2017 est.)<br>
-_exports of goods and services_: 11.2% (2017 est.)<br>
-_imports of goods and services_: -13.8% (2017 est.)<br>
+_household consumption_: 67.2% (2023 est.)<br>
+_government consumption_: 15.8% (2023 est.)<br>
+_investment in fixed capital_: 19.1% (2023 est.)<br>
+_investment in inventories_: 0.4% (2023 est.)<br>
+_exports of goods and services_: 12.9% (2023 est.)<br>
+_imports of goods and services_: -14.1% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 maize, soybeans, wheat, sugarcane, milk, barley, sunflower seeds, beef, sorghum, chicken (2022)<br>
@@ -489,8 +491,8 @@ _female_: 19.5% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 23.2% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 1.9% of household expenditures (2021 est.)<br>
+_on food_: 23.1% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 1.9% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2% (2022 est.)<br>
@@ -555,8 +557,8 @@ $39.653 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$278.524 billion (2019 est.)<br>
-$261.949 billion (2018 est.)<br>
+$77.88 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Argentine pesos (ARS) per US dollar -<br>
@@ -714,7 +716,7 @@ the inventory of Argentina's armed forces is a mix of domestically-produced and 
 
 **Military service age and obligation**<br>
 18-24 years of age for voluntary military service for men and women; conscription suspended in 1995; citizens can still be drafted in times of crisis, national emergency, or war, or if the Defense Ministry is unable to fill all vacancies to keep the military functional (2024)<br>
-<strong>note: </strong>as of 2022, women comprised about 20% of the active duty military<br>
+<strong>note: </strong>as of 2023, women comprised about 19.5% of the active duty military<br>
 
 **Military deployments**<br>
 325 Cyprus (UNFICYP) (2024)<br>

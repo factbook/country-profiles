@@ -456,17 +456,19 @@ _Standard & Poors rating_: BBB- (2010)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 14% (2017 est.)<br>
-_industry_: 29.5% (2017 est.)<br>
-_services_: 56.5% (2017 est.)<br>
+_agriculture_: 12% (2023 est.)<br>
+_industry_: 23.8% (2023 est.)<br>
+_services_: 53.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 58% (2017 est.)<br>
-_government consumption_: 18.9% (2017 est.)<br>
-_investment in fixed capital_: 28.4% (2017 est.)<br>
-_investment in inventories_: 4.2% (2017 est.)<br>
-_exports of goods and services_: 37.1% (2017 est.)<br>
-_imports of goods and services_: -46.6% (2017 est.)<br>
+_household consumption_: 61.6% (2023 est.)<br>
+_government consumption_: 18.7% (2023 est.)<br>
+_investment in fixed capital_: 27% (2023 est.)<br>
+_investment in inventories_: 1% (2023 est.)<br>
+_exports of goods and services_: 44% (2023 est.)<br>
+_imports of goods and services_: -52.3% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 wheat, milk, olives, sugar beets, potatoes, tomatoes, tangerines/mandarins, oranges, apples, onions (2022)<br>
@@ -496,8 +498,8 @@ _female_: 23% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
-_on food_: 33.9% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 1.4% of household expenditures (2021 est.)<br>
+_on food_: 33.9% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 1.4% of household expenditures (2022 est.)<br>
 
 **Remittances**<br>
 8.6% of GDP (2023 est.)<br>
@@ -557,8 +559,8 @@ $35.648 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$52.957 billion (2019 est.)<br>
-$51.851 billion (2018 est.)<br>
+$36.29 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Moroccan dirhams (MAD) per US dollar -<br>

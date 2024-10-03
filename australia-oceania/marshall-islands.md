@@ -386,16 +386,19 @@ $284 million (2023 est.)<br>
 -1.5% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 4.4% (2013 est.)<br>
-_industry_: 9.9% (2013 est.)<br>
-_services_: 85.7% (2013 est.)<br>
+_agriculture_: 20.6% (2022 est.)<br>
+_industry_: 10.3% (2022 est.)<br>
+_services_: 68.7% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_government consumption_: 50% (2016 est.)<br>
-_investment in fixed capital_: 17.8% (2016 est.)<br>
-_investment in inventories_: 0.2% (2016 est.)<br>
-_exports of goods and services_: 52.9% (2016 est.)<br>
-_imports of goods and services_: -102.3% (2016 est.)<br>
+_household consumption_: 71.7% (2022 est.)<br>
+_government consumption_: 57.4% (2022 est.)<br>
+_investment in fixed capital_: 19.8% (2022 est.)<br>
+_investment in inventories_: 0.3% (2022 est.)<br>
+_exports of goods and services_: 46.3% (2022 est.)<br>
+_imports of goods and services_: -73.7% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 coconuts (2022)<br>
@@ -477,10 +480,6 @@ China 33%, South Korea 31%, Japan 12%, Taiwan 4%, Brazil 4% (2022)<br>
 **Imports - commodities**<br>
 ships, refined petroleum, additive manufacturing machines, centrifuges, iron structures (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Debt - external**<br>
-$97.96 million (2013 est.)<br>
-$87 million (2008 est.)<br>
 
 **Exchange rates**<br>
 <p>the US dollar is used</p><br>

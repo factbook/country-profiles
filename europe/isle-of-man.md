@@ -332,9 +332,10 @@ _Standard & Poors rating_: N/A<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1% (FY12/13 est.)<br>
-_industry_: 13% (FY12/13 est.)<br>
-_services_: 86% (FY12/13 est.)<br>
+_agriculture_: 0.3% (2021 est.)<br>
+_industry_: 9.4% (2021 est.)<br>
+_services_: 91.8% (2021 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **Agricultural products**<br>
 cereals, vegetables; cattle, sheep, pigs, poultry<br>
@@ -364,9 +365,6 @@ almost entirely United Kingdom (2022)<br>
 
 **Imports - commodities**<br>
 ships, delivery trucks (2022)<br>
-
-**Debt - external**<br>
-<p>NA</p><br>
 
 **Exchange rates**<br>
 _Currency_: Manx pounds (IMP) per US dollar -<br>

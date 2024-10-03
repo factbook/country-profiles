@@ -428,17 +428,19 @@ _Standard & Poors rating_: B (2017)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 8.1% (2017 est.)<br>
-_industry_: 40.8% (2017 est.)<br>
-_services_: 51.1% (2017 est.)<br>
+_agriculture_: 7.3% (2023 est.)<br>
+_industry_: 32.5% (2023 est.)<br>
+_services_: 47.8% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 54.8% (2017 est.)<br>
-_government consumption_: 14.6% (2017 est.)<br>
-_investment in fixed capital_: 24.9% (2017 est.)<br>
-_investment in inventories_: 5.7% (2017 est.)<br>
-_exports of goods and services_: 67% (2017 est.)<br>
-_imports of goods and services_: -67% (2017 est.)<br>
+_household consumption_: 54.7% (2023 est.)<br>
+_government consumption_: 18.1% (2023 est.)<br>
+_investment in fixed capital_: 21.9% (2023 est.)<br>
+_investment in inventories_: 2.2% (2023 est.)<br>
+_exports of goods and services_: 66.8% (2023 est.)<br>
+_imports of goods and services_: -66.2% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, sugar beets, potatoes, wheat, triticale, barley, maize, rapeseed, rye, apples (2022)<br>
@@ -476,8 +478,8 @@ _female_: 9.8% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 32.1% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 7.7% of household expenditures (2021 est.)<br>
+_on food_: 31.7% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 7.7% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.4% (2020 est.)<br>
@@ -541,10 +543,6 @@ $8.118 billion (2023 est.)<br>
 $7.923 billion (2022 est.)<br>
 $8.425 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$39.847 billion (2019 est.)<br>
-$39.297 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Belarusian rubles (BYB/BYR) per US dollar -<br>
@@ -689,7 +687,7 @@ the military's inventory is comprised mostly of Russian/Soviet-origin equipment,
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory military or alternative service; conscript service obligation is 12-18 months, depending on academic qualifications, and 24-36 months for alternative service, also depending on academic qualifications; 17-year-olds are eligible to become cadets at military higher education institutes, where they are classified as military personnel (2023)<br>
-<strong>note:</strong> conscripts can be assigned to the military, to the Ministry of Interior as internal or border troops, or to the Ministry of Labor and Social Protection (alternative service); as of 2020, conscripts comprised an estimated 40% of the military<br>
+<strong>note:</strong> conscripts can be assigned to the military, to the Ministry of Interior, or to the Ministry of Labor and Social Protection (alternative service)<br>
 
 **Military - note**<br>
 the military of Belarus is responsible for territorial defense; it is a mixed force of conscripts and professionals that is equipped with Russian or Soviet-era weapons; Russia is the country’s closest security partner, a relationship that includes an integrated air and missile defense system and joint military training centers and exercises; Russia leases from Belarus a strategic ballistic missile defense site operated by Russian Aerospace Forces and a global communications facility for the Russian Navy; in 2020, the countries signed an agreement allowing for close security cooperation between the Belarusian Ministry of Interior and the Russian National Guard, including protecting public order and key government facilities and combating extremism and terrorism; in 2022, Belarus allowed Russian military forces to stage on its territory for their invasion of Ukraine and continues to supply arms and other aid to the Russian military, including logistical support, medical care, and airfields for Russian combat aircraft; in 2023, Belarus agreed to permit Russia to deploy nuclear weapons on its soil<br><br>Belarus has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and has committed an airborne brigade to CSTO's rapid reaction force; the military trains regularly with other CSTO members (2023)<br>

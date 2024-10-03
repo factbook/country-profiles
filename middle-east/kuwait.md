@@ -414,17 +414,18 @@ _Standard & Poors rating_: AA- (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.4% (2017 est.)<br>
-_industry_: 58.7% (2017 est.)<br>
-_services_: 40.9% (2017 est.)<br>
+_agriculture_: 0.4% (2022 est.)<br>
+_industry_: 67% (2022 est.)<br>
+_services_: 43.6% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 43.1% (2017 est.)<br>
-_government consumption_: 24.5% (2017 est.)<br>
-_investment in fixed capital_: 26.5% (2017 est.)<br>
-_investment in inventories_: 3.5% (2017 est.)<br>
-_exports of goods and services_: 49.4% (2017 est.)<br>
-_imports of goods and services_: -47% (2017 est.)<br>
+_household consumption_: 40.6% (2019 est.)<br>
+_government consumption_: 24.8% (2019 est.)<br>
+_investment in fixed capital_: 24.6% (2019 est.)<br>
+_exports of goods and services_: 52.3% (2019 est.)<br>
+_imports of goods and services_: -44.1% (2019 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 tomatoes, dates, cucumbers/gherkins, eggs, milk, chicken, lamb/mutton, vegetables, potatoes, eggplants (2022)<br>
@@ -454,8 +455,8 @@ _female_: 29% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
-_on food_: 19.3% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 0.2% of household expenditures (2021 est.)<br>
+_on food_: 19.2% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 0.1% of household expenditures (2022 est.)<br>
 
 **Remittances**<br>
 0.01% of GDP (2023 est.)<br>
@@ -512,10 +513,6 @@ $52.619 billion (2023 est.)<br>
 $52.462 billion (2022 est.)<br>
 $49.525 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$47.24 billion (31 December 2017 est.)<br>
-$38.34 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Kuwaiti dinars (KD) per US dollar -<br>

@@ -421,9 +421,10 @@ _Standard & Poors rating_: B- (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 22.1% (2017 est.)<br>
-_industry_: 42.9% (2017 est.)<br>
-_services_: 35% (2017 est.)<br>
+_agriculture_: 16.9% (2022 est.)<br>
+_industry_: 40.3% (2022 est.)<br>
+_services_: 39% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 43.7% (2017 est.)<br>
@@ -519,8 +520,8 @@ $2.686 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$17.94 billion (31 December 2017 est.)<br>
-$18.28 billion (31 December 2016 est.)<br>
+$6.35 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: kina (PGK) per US dollar -<br>

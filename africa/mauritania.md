@@ -441,17 +441,19 @@ $10.453 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 27.8% (2017 est.)<br>
-_industry_: 29.3% (2017 est.)<br>
-_services_: 42.9% (2017 est.)<br>
+_agriculture_: 19.9% (2023 est.)<br>
+_industry_: 30.9% (2023 est.)<br>
+_services_: 42.5% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 64.9% (2017 est.)<br>
-_government consumption_: 21.8% (2017 est.)<br>
-_investment in fixed capital_: 56.1% (2017 est.)<br>
-_investment in inventories_: -3.2% (2017 est.)<br>
-_exports of goods and services_: 39% (2017 est.)<br>
-_imports of goods and services_: -78.6% (2017 est.)<br>
+_household consumption_: 53.3% (2023 est.)<br>
+_government consumption_: 18.1% (2023 est.)<br>
+_investment in fixed capital_: 27.4% (2023 est.)<br>
+_investment in inventories_: 9.1% (2023 est.)<br>
+_exports of goods and services_: 44.2% (2023 est.)<br>
+_imports of goods and services_: -52.2% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 rice, milk, sorghum, goat milk, sheep milk, lamb/mutton, beef, camel meat, camel milk, dates (2022)<br>
@@ -551,8 +553,8 @@ $1.029 billion (2019 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$4.15 billion (31 December 2017 est.)<br>
-$3.899 billion (31 December 2016 est.)<br>
+$3.172 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: ouguiyas (MRO) per US dollar -<br>

@@ -399,17 +399,18 @@ _Fitch rating_: B+ (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.5% (2017 est.)<br>
-_industry_: 13.8% (2017 est.)<br>
-_services_: 83.7% (2017 est.)<br>
+_agriculture_: 2.8% (2023 est.)<br>
+_industry_: 12% (2023 est.)<br>
+_services_: 68% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 52.7% (2017 est.)<br>
-_government consumption_: 34.4% (2017 est.)<br>
-_investment in fixed capital_: 26.7% (2017 est.)<br>
-_investment in inventories_: 0% (2017 est.)<br>
-_exports of goods and services_: 79.4% (2017 est.)<br>
-_imports of goods and services_: -93.2% (2017 est.)<br>
+_household consumption_: 73.8% (2023 est.)<br>
+_government consumption_: 21.3% (2023 est.)<br>
+_investment in fixed capital_: 16.1% (2023 est.)<br>
+_exports of goods and services_: 85.9% (2023 est.)<br>
+_imports of goods and services_: -97.1% (2023 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 coconuts, vegetables, bananas, eggs, chicken, pork, fruits, tomatoes, tropical fruits, cassava (2022)<br>
@@ -504,10 +505,6 @@ $638.961 million (2022 est.)<br>
 $702.585 million (2021 est.)<br>
 $559.682 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$4.802 billion (2019 est.)<br>
-$4.613 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Seychelles rupees (SCR) per US dollar -<br>

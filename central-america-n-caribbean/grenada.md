@@ -384,9 +384,10 @@ _Standard & Poors rating_: SD (2013)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 6.8% (2017 est.)<br>
-_industry_: 15.5% (2017 est.)<br>
-_services_: 77.7% (2017 est.)<br>
+_agriculture_: 3.3% (2023 est.)<br>
+_industry_: 14.9% (2023 est.)<br>
+_services_: 64.3% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 63% (2017 est.)<br>
@@ -481,8 +482,8 @@ $348.259 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$793.5 million (2017 est.)<br>
-$682.3 million (2016 est.)<br>
+$458.369 million (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>

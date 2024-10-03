@@ -332,16 +332,15 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: Emperor NARUHITO (since 1 May 2019)<br>
-_head of government_: Prime Minister Fumio KISHIDA (since 4 October 2021)<br>
+_head of government_: Prime Minister Shigeru ISHIBA (since 1 October 2024)<br>
 _cabinet_: Cabinet appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; the leader of the majority party or majority coalition in the House of Representatives usually becomes prime minister<br>
-_election results_: <em><br>2021:</em> Fumio KISHIDA reelected prime minister on 10 November 2021; upper house vote - Fumio KISHIDA (LDP) 141, Yukio EDANO (CDP) 60; lower house vote - Fumio KISHIDA 297, Yukio EDANO 108<br>
+_election results_: <em>2024: </em>Shigeru ISHIBIA (LDP) elected prime minister on 27 September 2024; upper house vote - 143 of 242 votes; lower house vote - 291 of 461 votes<em><br><br>2021:</em> Fumio KISHIDA reelected prime minister on 10 November 2021; upper house vote - Fumio KISHIDA (LDP) 141, Yukio EDANO (CDP) 60; lower house vote - Fumio KISHIDA 297, Yukio EDANO 108<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Diet or Kokkai consists of:<br>House of Councilors or Sangi-in (248 seats; 148 members directly elected in multi-seat districts by simple majority vote and 100 directly elected in a single national constituency by proportional representation vote; members serve 6-year terms with half the membership renewed every 3 years)<br><br>House of Representatives or Shuugi-in (465 seats; 289 members directly elected in single-seat districts by simple majority vote and 176 directly elected in multi-seat districts by party-list proportional representation vote; members serve up to 4-year terms)<br>
 _elections_: House of Councillors - last held on 10 July 2022 (next to be held in July 2025)<br>House of Representatives - last held on 31 October 2021 (next to be held by October 2025)<br>
 _election results_: House of Councillors - percent of vote by party - NA; seats by party/grouping as of January 2024 - LDP 116, CDP-SDP 40, Komeito 27, JCP 11, Ishin-FEFA 21, DPFP 11, Reiwa 5, OW 2, NHK 2, independent 12; composition - men 182, women 66; percentage women 26.6%<br><br>House of Representatives - percent of vote by party - NA; seats by party/grouping as of January 2024 - LDP 260, CDP 96, Ishin 41, Komeito 32, JCP 10, DPFP 7, Yushi no Kai 4, FEFA 4, Reiwa 3, independent 7; composition - men 416 men, women 48; percentage women 10.3%; note - total National Diet percentage women 16%<br>
-<strong>note: </strong>the Diet in June 2017 redrew Japan's electoral district boundaries and reduced from 475 to 465 seats in the House of Representatives; the amended electoral law, which cuts 6 seats in single-seat districts and 4 in multi-seat districts, was reportedly intended to reduce voting disparities between densely and sparsely populated voting districts<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Saiko saibansho (consists of the chief justice and 14 associate justices); note - the Supreme Court has jurisdiction in constitutional issues<br>
@@ -428,17 +427,19 @@ _Standard & Poors rating_: A+ (2015)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.1% (2017 est.)<br>
-_industry_: 30.1% (2017 est.)<br>
-_services_: 68.7% (2017 est.)<br>
+_agriculture_: 1% (2022 est.)<br>
+_industry_: 26.9% (2022 est.)<br>
+_services_: 71.4% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 55.5% (2017 est.)<br>
-_government consumption_: 19.6% (2017 est.)<br>
-_investment in fixed capital_: 24% (2017 est.)<br>
-_investment in inventories_: 0% (2017 est.)<br>
-_exports of goods and services_: 17.7% (2017 est.)<br>
-_imports of goods and services_: -16.8% (2017 est.)<br>
+_household consumption_: 55.6% (2022 est.)<br>
+_government consumption_: 21.6% (2022 est.)<br>
+_investment in fixed capital_: 26% (2022 est.)<br>
+_investment in inventories_: 0.6% (2022 est.)<br>
+_exports of goods and services_: 21.5% (2022 est.)<br>
+_imports of goods and services_: -25.3% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 rice, milk, sugar beets, vegetables, eggs, chicken, potatoes, cabbages, sugarcane, pork (2022)<br>
@@ -468,8 +469,8 @@ _female_: 3.7% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
-_on food_: 16.7% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 3% of household expenditures (2021 est.)<br>
+_on food_: 16.3% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 2.7% of household expenditures (2022 est.)<br>
 
 **Remittances**<br>
 0.13% of GDP (2023 est.)<br>
@@ -527,10 +528,6 @@ $1.295 trillion (2023 est.)<br>
 $1.228 trillion (2022 est.)<br>
 $1.406 trillion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$4,254,271,000,000 (2019 est.)<br>
-$3,944,898,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: yen (JPY) per US dollar -<br>
@@ -693,7 +690,7 @@ approximately 230-240,000 active personnel (145-150,000 Ground; 40-45,000 Mariti
 the JSDF is equipped with a mix of imported and domestically produced equipment; Japan has a robust defense industry and is capable of producing a wide range of air, ground, and naval weapons systems; the majority of its weapons imports are from the US and some domestically produced weapons are US-origin and manufactured under license (2023)<br>
 
 **Military service age and obligation**<br>
-18-32 years of age for voluntary military service for men and women; no conscription (2023)<br>
+18-32 years of age for voluntary military service for men and women; no conscription (2024)<br>
 <strong>note:</strong> as of 2023, women made up about 9% of the military's full-time personnel<br>
 
 **Military deployments**<br>

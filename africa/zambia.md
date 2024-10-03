@@ -444,17 +444,19 @@ _Standard & Poors rating_: SD (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 7.5% (2017 est.)<br>
-_industry_: 35.3% (2017 est.)<br>
-_services_: 57% (2017 est.)<br>
+_agriculture_: 2.8% (2023 est.)<br>
+_industry_: 36.1% (2023 est.)<br>
+_services_: 54.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 52.6% (2017 est.)<br>
-_government consumption_: 21% (2017 est.)<br>
-_investment in fixed capital_: 27.1% (2017 est.)<br>
-_investment in inventories_: 1.2% (2017 est.)<br>
-_exports of goods and services_: 43% (2017 est.)<br>
-_imports of goods and services_: -44.9% (2017 est.)<br>
+_household consumption_: 35.6% (2022 est.)<br>
+_government consumption_: 14.3% (2022 est.)<br>
+_investment in fixed capital_: 25.1% (2022 est.)<br>
+_investment in inventories_: 1.9% (2022 est.)<br>
+_exports of goods and services_: 40.8% (2023 est.)<br>
+_imports of goods and services_: -39.1% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sugarcane, cassava, maize, milk, soybeans, vegetables, wheat, groundnuts, beef, sweet potatoes (2022)<br>
@@ -553,10 +555,6 @@ $2.968 billion (2022 est.)<br>
 $2.754 billion (2021 est.)<br>
 $1.203 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$11.66 billion (31 December 2017 est.)<br>
-$9.562 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Zambian kwacha (ZMK) per US dollar -<br>
@@ -674,7 +672,7 @@ _by type_: general cargo 1, oil tanker 1<br>
 
 **Military and security forces**<br>
 Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Service; Defense Force Medical Service<br><br>Ministry of Home Affairs and Internal Security: Zambia Police (includes a paramilitary battalion) (2024)<br>
-<strong>note:</strong> the Zambia National Service is a support organization that also does public work projects<br>
+<strong>note 1:</strong> the Zambia National Service is a support organization that also does public work projects; its main objectives revolve around land development, agriculture, industries, youth skills training as well as arts, sports and culture  <br><br><strong>note 2:</strong> the Zambia Army comprises the Regular Force, the Home Guard, and the Territorial reserve<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2023 est.)<br>
@@ -684,10 +682,10 @@ Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Servi
 1.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 17,000 active troops (15,000 Army; 2,000 Air) (2023)<br>
+approximately 17,000 active troops (15,000 Army; 2,000 Air) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era armaments; in recent years, leading suppliers have included China and Italy (2023)<br>
+the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era armaments with small quantities of Western-origin equipment (2024)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age (17 with parental consent) for voluntary military service for men and women; no conscription; 12-year enlistment period (7 years active, 5 in the Reserves) (2023)<br>
@@ -697,7 +695,7 @@ the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era arm
 930 Central African Republic (MINUSCA) (2024)<br>
 
 **Military - note**<br>
-the Zambia Defense Forces (ZDF) are responsible for preserving the country’s sovereignty and territorial integrity; it also has some domestic security responsibilities in cases of national emergency; border security and support to African and UN peacekeeping operations are priorities; the ZDF is part of the Southern Africa Development Community (SADC) Standby Force and participates in multinational training exercises; it has received training assistance from China and the US<br><br>the ZDF traces its roots to the Northern Rhodesia Regiment, which was raised by the British colonial government to fight in World War II; the ZDF was established in 1964 from units of the dissolved Federation of Rhodesia and Nyasaland armed forces; it participated in a number of regional conflicts during the 1970s and 1980s; Zambia actively supported independence movements such as the Union for the Total Liberation of Angola (UNITA), the Zimbabwe African People's Union (ZAPU), the African National Congress of South Africa (ANC), and the South-West Africa People's Organization (SWAPO) (2023)<br>
+the Zambia Defense Forces (ZDF) are responsible for preserving the country’s sovereignty and territorial integrity; it also has some domestic security responsibilities in cases of national emergency; border security and support to African and UN peacekeeping operations are priorities; the ZDF is part of the Southern Africa Development Community (SADC) Standby Force and participates in multinational training exercises; it has received training assistance from China and the US<br><br>the ZDF traces its roots to the Northern Rhodesia Regiment, which was raised by the British colonial government to fight in World War II; the ZDF was established in 1964 from units of the dissolved Federation of Rhodesia and Nyasaland armed forces; it participated in a number of regional conflicts during the 1970s and 1980s; Zambia actively supported independence movements such as the Union for the Total Liberation of Angola (UNITA), the Zimbabwe African People's Union (ZAPU), the African National Congress of South Africa (ANC), and the South-West Africa People's Organization (SWAPO) (2024)<br>
 
 ## Transnational Issues
 

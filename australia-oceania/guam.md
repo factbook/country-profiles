@@ -331,18 +331,13 @@ $6.91 billion (2022 est.)<br>
 1% (2017 est.)<br>
 0% (2016 est.)<br>
 
-**GDP - composition, by sector of origin**<br>
-_agriculture_: NA<br>
-_industry_: NA<br>
-_services_: 58.4% (2015 est.)<br>
-
 **GDP - composition, by end use**<br>
-_household consumption_: 56.2% (2016 est.)<br>
+_household consumption_: 59.9% (2022 est.)<br>
 _government consumption_: 55% (2016 est.)<br>
 _investment in fixed capital_: 20.6% (2016 est.)<br>
-_investment in inventories_: (2016 est.) NA<br>
-_exports of goods and services_: 19.4% (2016 est.)<br>
-_imports of goods and services_: -51.2% (2016 est.)<br>
+_exports of goods and services_: 7.9% (2022 est.)<br>
+_imports of goods and services_: -64% (2022 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 fruits, copra, vegetables; eggs, pork, poultry, beef<br>
@@ -411,9 +406,6 @@ South Korea 37%, Singapore 35%, Japan 12%, Taiwan 3%, Hong Kong 3% (2022)<br>
 **Imports - commodities**<br>
 refined petroleum, cars, raw iron bars, electric generating sets, trunks and cases (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Debt - external**<br>
-<p>NA</p><br>
 
 **Exchange rates**<br>
 <p>the US dollar is used</p><br>

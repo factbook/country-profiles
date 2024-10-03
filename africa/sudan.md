@@ -432,17 +432,18 @@ $109.327 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 39.6% (2017 est.)<br>
-_industry_: 2.6% (2017 est.)<br>
-_services_: 57.8% (2017 est.)<br>
+_agriculture_: 5.6% (2023 est.)<br>
+_industry_: 5.2% (2023 est.)<br>
+_services_: 7.6% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 77.3% (2017 est.)<br>
-_government consumption_: 5.8% (2017 est.)<br>
-_investment in fixed capital_: 18.4% (2017 est.)<br>
-_investment in inventories_: 0.6% (2017 est.)<br>
-_exports of goods and services_: 9.7% (2017 est.)<br>
-_imports of goods and services_: -11.8% (2017 est.)<br>
+_household consumption_: 81.7% (2023 est.)<br>
+_government consumption_: 16.2% (2023 est.)<br>
+_investment in fixed capital_: 2% (2023 est.)<br>
+_exports of goods and services_: 1.2% (2023 est.)<br>
+_imports of goods and services_: -1% (2023 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sorghum, sugarcane, milk, groundnuts, millet, onions, sesame seeds, goat milk, bananas, mangoes/guavas (2022)<br>
@@ -538,8 +539,8 @@ $173.516 million (2015 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$56.05 billion (31 December 2017 est.)<br>
-$51.26 billion (31 December 2016 est.)<br>
+$19.642 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Sudanese pounds (SDG) per US dollar -<br>
@@ -688,7 +689,7 @@ the SAF's inventory includes a mix of Chinese, Russian, Soviet-era, and domestic
 <strong>note:</strong> implementation of conscription is reportedly uneven<br>
 
 **Military - note**<br>
-<p>the primary responsibilities of the Sudanese Armed Forces (SAF) are internal security, border control, and countering potential external threats from its neighbors; SAF operations have traditionally been supported by militia and paramilitary forces, particularly the Rapid Support Forces (RSF); in the Spring of 2023, heavy fighting broke out between the SAF and the paramilitary RSF, particularly around the capital Khartoum and in the western region of Darfur, amid disputes over an internationally-backed plan for a transition towards civilian rule; fighting has since spread and continued into 2024 with reports of ethnic cleansing, food insecurity, heavy civilian casualties, and millions of internally displaced persons<br><br>the Sudanese military has been a dominant force in the ruling of the country since its independence in 1956; in addition, the military has a large role in the country's economy, reportedly controlling over 200 commercial companies, including businesses involved in gold mining, rubber production, agriculture, and meat exports</p> the UN Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; as of 2024, UNISFA had approximately 3,200 personnel assigned<br><br>the October 2020 peace agreement provided for the establishment of a Joint Security Keeping Forces (JSKF) comprised of 12,000 personnel tasked with securing the Darfur region in the place of the UN African Union Hybrid Operation in Darfur (UNAMID), a joint African Union-UN peacekeeping force that operated in the war-torn region between 2007 and the end of its mandate in December 2020; in June 2021, Sudan's transitional government announced it would increase the size of this force to 20,000 and expand its mission scope to include the capital and other parts of the country suffering from violence; the force would include the SAF, RSF, police, intelligence, and representatives from armed groups involved in peace negotiations; in September 2022, the first 2,000 members of the JSKF completed training; the status of the JSKF since the start of the civil war is unclear (2024)<br>
+<p>the primary responsibilities of the Sudanese Armed Forces (SAF) are internal security, border control, and countering potential external threats from its neighbors; SAF operations have traditionally been supported by militia and paramilitary forces, particularly the Rapid Support Forces (RSF); in the Spring of 2023, heavy fighting broke out between the SAF and the paramilitary RSF, particularly around the capital Khartoum and in the western region of Darfur, amid disputes over an internationally-backed plan for a transition towards civilian rule; fighting has since spread and continued into 2024 with reports of atrocities, ethnic cleansing, food insecurity, heavy civilian casualties, and millions of internally displaced persons<br><br>the Sudanese military has been a dominant force in the ruling of the country since its independence in 1956; in addition, the military has a large role in the country's economy, reportedly controlling over 200 commercial companies, including businesses involved in gold mining, rubber production, agriculture, and meat exports</p> the UN Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; as of 2024, UNISFA had approximately 3,200 personnel assigned<br><br>the October 2020 peace agreement provided for the establishment of a Joint Security Keeping Forces (JSKF) comprised of 12,000 personnel tasked with securing the Darfur region in the place of the UN African Union Hybrid Operation in Darfur (UNAMID), a joint African Union-UN peacekeeping force that operated in the war-torn region between 2007 and the end of its mandate in December 2020; in June 2021, Sudan's transitional government announced it would increase the size of this force to 20,000 and expand its mission scope to include the capital and other parts of the country suffering from violence; the force would include the SAF, RSF, police, intelligence, and representatives from armed groups involved in peace negotiations; in September 2022, the first 2,000 members of the JSKF completed training; the status of the JSKF since the start of the civil war is unclear (2024)<br>
 
 ## Terrorism
 

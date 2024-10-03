@@ -348,7 +348,10 @@ African Party for the Independence of Guinea and Cabo Verde or PAIGC <br>Democr
 ACP, AfDB, AOSIS, AU, CPLP, ECOWAS, FAO, FZ, G-77, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-none<br><br><strong>Note: </strong> Guinea-Bissau does not have official representation in Washington, DC<br>
+_chief of mission_: Ambassador Maria Da Concei&ccedil;&atilde;o NOBRE CABRAL (since 18 September 2024)<br>
+_chancery_: 918 16th Street, NW (Mezzanine Suite)<br>Washington DC 20006<br>
+_telephone_: [1] (202) 872-4222<br>
+_FAX_: [1] (202) 872-4226<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Michael RAYNOR (since 20 April 2022)<br>
@@ -401,17 +404,19 @@ $1.966 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 50% (2017 est.)<br>
-_industry_: 13.1% (2017 est.)<br>
-_services_: 36.9% (2017 est.)<br>
+_agriculture_: 33.7% (2023 est.)<br>
+_industry_: 16.1% (2023 est.)<br>
+_services_: 45.1% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 83.9% (2017 est.)<br>
-_government consumption_: 12% (2017 est.)<br>
-_investment in fixed capital_: 4.1% (2017 est.)<br>
-_investment in inventories_: 0.2% (2017 est.)<br>
-_exports of goods and services_: 26.4% (2017 est.)<br>
-_imports of goods and services_: -26.5% (2017 est.)<br>
+_household consumption_: 66.6% (2023 est.)<br>
+_government consumption_: 19% (2023 est.)<br>
+_investment in fixed capital_: 23.8% (2023 est.)<br>
+_investment in inventories_: 0.2% (2023 est.)<br>
+_exports of goods and services_: 17.9% (2023 est.)<br>
+_imports of goods and services_: -28.3% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 rice, groundnuts, cashews, root vegetables, oil palm fruit, plantains, cassava, vegetables, sweet potatoes, coconuts (2022)<br>
@@ -509,8 +514,8 @@ $356.4 million (31 December 2017 est.)<br>
 $349.4 million (31 December 2016 est.)<br>
 
 **Debt - external**<br>
-$1.095 billion (31 December 2010 est.)<br>
-$941.5 million (31 December 2000 est.)<br>
+$808.187 million (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>

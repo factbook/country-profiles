@@ -429,17 +429,19 @@ _Standard & Poors rating_: AA- (2011)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.3% (2017 est.)<br>
-_industry_: 36.9% (2017 est.)<br>
-_services_: 60.8% (2017 est.)<br>
+_agriculture_: 1.6% (2023 est.)<br>
+_industry_: 30.2% (2023 est.)<br>
+_services_: 59.8% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 47.4% (2017 est.)<br>
-_government consumption_: 19.2% (2017 est.)<br>
-_investment in fixed capital_: 24.7% (2017 est.)<br>
-_investment in inventories_: 1.1% (2017 est.)<br>
-_exports of goods and services_: 79.9% (2017 est.)<br>
-_imports of goods and services_: -72.3% (2017 est.)<br>
+_household consumption_: 45.6% (2023 est.)<br>
+_government consumption_: 20.4% (2023 est.)<br>
+_investment in fixed capital_: 27% (2023 est.)<br>
+_investment in inventories_: 1.9% (2023 est.)<br>
+_exports of goods and services_: 72% (2023 est.)<br>
+_imports of goods and services_: -66.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 wheat, sugar beets, milk, barley, rapeseed, potatoes, maize, pork, triticale, oats (2022)<br>
@@ -477,8 +479,8 @@ _female_: 9% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 16.1% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 8.1% of household expenditures (2021 est.)<br>
+_on food_: 16.4% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 8.2% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.9% (2021 est.)<br>
@@ -541,10 +543,6 @@ $148.379 billion (2023 est.)<br>
 $139.981 billion (2022 est.)<br>
 $173.618 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$191.871 billion (2019 est.)<br>
-$200.197 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: koruny (CZK) per US dollar -<br>

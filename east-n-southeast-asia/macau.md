@@ -330,17 +330,18 @@ _Moody's rating_: Aa3 (2016)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0% (2016 est.)<br>
-_industry_: 6.3% (2017 est.)<br>
-_services_: 93.7% (2017 est.)<br>
+_industry_: 9.5% (2022 est.)<br>
+_services_: 90.1% (2022 est.)<br>
+<strong>note:</strong> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 24.2% (2017 est.)<br>
-_government consumption_: 9.9% (2017 est.)<br>
-_investment in fixed capital_: 18.5% (2017 est.)<br>
-_investment in inventories_: 0.8% (2017 est.)<br>
-_exports of goods and services_: 79.4% (2017 est.)<br>
-_imports of goods and services_: -32% (2017 est.)<br>
+_household consumption_: 29% (2023 est.)<br>
+_government consumption_: 13.7% (2023 est.)<br>
+_investment in fixed capital_: 13.5% (2023 est.)<br>
+_investment in inventories_: 0.4% (2023 est.)<br>
+_exports of goods and services_: 92.7% (2023 est.)<br>
+_imports of goods and services_: -49.3% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 pork, chicken, beef, eggs, pork offal, pork fat, pepper, beef offal, cattle hides, goose meat (2022)<br>
@@ -425,10 +426,6 @@ $27.771 billion (2023 est.)<br>
 $25.971 billion (2022 est.)<br>
 $26.665 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$0 (31 December 2013)<br>
-$0 (31 December 2012)<br>
 
 **Exchange rates**<br>
 _Currency_: patacas (MOP) per US dollar -<br>

@@ -341,14 +341,18 @@ $3.556 billion (2022 est.)<br>
 -1.7% (2015)<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 18% (2013 est.)<br>
-_industry_: 39% (2013 est.)<br>
-_services_: 43% (2013 est.)<br>
+_agriculture_: 18.7% (2022 est.)<br>
+_industry_: 18.1% (2022 est.)<br>
+_services_: 52.3% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 52% (2013)<br>
-_government consumption_: 29.6% (2013)<br>
-_investment in fixed capital_: 18.4% (2013)<br>
+_household consumption_: 41.4% (2022 est.)<br>
+_government consumption_: 27.4% (2022 est.)<br>
+_investment in fixed capital_: 31.4% (2022 est.)<br>
+_exports of goods and services_: 62.4% (2022 est.)<br>
+_imports of goods and services_: -62.5% (2022 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, potatoes, lamb/mutton, sheepskins, sheep offal, beef, sheep fat, beef offal, cattle hides, beef suet (2022)<br>
@@ -411,10 +415,6 @@ Denmark 33%, China 10.7%, Germany 7.6%, Poland 6.8%, Norway 6.7%, Ireland 5%, Ch
 
 **Imports - commodities**<br>
 goods for household consumption, machinery and transport equipment, fuels, raw materials and semi-manufactures, cars<br>
-
-**Debt - external**<br>
-$387.6 million (2012)<br>
-$274.5 million (2010)<br>
 
 **Exchange rates**<br>
 _Currency_: Danish kroner (DKK) per US dollar -<br>

@@ -358,9 +358,10 @@ _Standard & Poors rating_: AAA (1996)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 7% (2014)<br>
-_industry_: 41% (2014)<br>
-_services_: 52% (2014)<br>
+_agriculture_: 0.2% (2021 est.)<br>
+_industry_: 40.2% (2021 est.)<br>
+_services_: 55.4% (2021 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **Agricultural products**<br>
 wheat, barley, corn, potatoes; livestock, dairy products<br>
@@ -398,10 +399,6 @@ $2.23 billion (2014 est.)<br>
 
 **Imports - commodities**<br>
 agricultural products, raw materials, energy products, machinery, metal goods, textiles, foodstuffs, motor vehicles<br>
-
-**Debt - external**<br>
-$0 (2015 est.)<br>
-<strong>note:</strong> public external debt only; private external debt unavailable<br>
 
 **Exchange rates**<br>
 _Currency_: Swiss francs (CHF) per US dollar -<br>

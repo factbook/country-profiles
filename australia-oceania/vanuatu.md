@@ -308,13 +308,13 @@ _chief of state_: President Nikenike VUROBARAVU (since 23 July 2022)<br>
 _head of government_: Prime Minister Charlot SALWAI (since 6 October 2023)<br>
 _cabinet_: Council of Ministers appointed by the prime minister, responsible to Parliament<br>
 _elections/appointments_: president indirectly elected by an electoral college consisting of Parliament and presidents of the 6 provinces; Vanuatu president serves a 5-year term; election last held on 23 July 2022 (next to be held in 2027); following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by Parliament from among its members; election for prime minister last held on 20 April 2020 (next to be held following general elections in 2024)<br>
-_election results_: <em><br>2022:</em> Nikenike VUROBARAVU elected president in eighth round; electoral college vote - Nikenike VUROBARAVU (VP) 48 votes, Solas MOLISA (VP) 4 votes; note - Charlot SALWAI (RMC) elected prime minister on 6 October 2023, 29 votes for, 0 against; Prime Minister Sato KILMAN lost no-confidence vote on 6 October 2023, requiring a new election<br><br><em>2017:</em> Bob LOUGHMAN elected prime minister on 20 April 2020; Bob LOUGHMAN 31 votes, Ralph REGENVANU 21 votes<br>
+_election results_: <em>2022:</em> Nikenike VUROBARAVU elected president in eighth round; electoral college vote - Nikenike VUROBARAVU (VP) 48 votes, Solas MOLISA (VP) 4 votes; note - Charlot SALWAI (RMC) elected prime minister on 6 October 2023, 29 votes for, 0 against; Prime Minister Sato KILMAN lost no-confidence vote on 6 October 2023, requiring a new election<br><br><em>2017:</em> Bob LOUGHMAN elected prime minister on 20 April 2020; Bob LOUGHMAN 31 votes, Ralph REGENVANU 21 votes<br>
+<strong>note:</strong> the National Council of Chiefs (Malvatu Mauri) is a formal advisory body of chiefs recognized by the country's constitution; it advises the government on matters of culture and language<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (52 seats; members directly elected in 8 single-seat and 9 multi-seat constituencies by single non-transferable vote to serve 4-year terms (candidates in multi-seat constituencies can be elected with only 4% of the vote)<br>
 _elections_: last held on 13 October 2022 (next to be held in 2026)<br>
 _election results_: percent of vote by party - NA; seats by party - UMP 7, VP 7, LPV 5, RMC 5, GJP 4, NUP 4, RDP 4, IG 3, PPP 2, NCM 2, VNDP 2, LM 1, NAG 1, PUDP 1, UCM 1, VLM 1, VPDP 1, independent 1; composition - men 50, women 1, percentage women 2%; note - political party associations are fluid<br>
-<strong>note:</strong> the National Council of Chiefs advises on matters of culture and language<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of 2 or more judges of the Supreme Court designated by the chief justice); Supreme Court (consists of the chief justice and 6 puisne judges - 3 local and 3 expatriate)<br>
@@ -389,17 +389,19 @@ $1.126 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 27.3% (2017 est.)<br>
-_industry_: 11.8% (2017 est.)<br>
-_services_: 60.8% (2017 est.)<br>
+_agriculture_: 21.2% (2018 est.)<br>
+_industry_: 10% (2018 est.)<br>
+_services_: 59.8% (2018 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 59.9% (2017 est.)<br>
-_government consumption_: 17.4% (2017 est.)<br>
-_investment in fixed capital_: 28.7% (2017 est.)<br>
-_investment in inventories_: 0% (2017 est.)<br>
-_exports of goods and services_: 42.5% (2017 est.)<br>
-_imports of goods and services_: -48.5% (2017 est.)<br>
+_household consumption_: 55.5% (2019 est.)<br>
+_government consumption_: 20.6% (2019 est.)<br>
+_investment in fixed capital_: 55.5% (2022 est.)<br>
+_investment in inventories_: 0.6% (2022 est.)<br>
+_exports of goods and services_: 15.3% (2022 est.)<br>
+_imports of goods and services_: -55.5% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 coconuts, root vegetables, bananas, vegetables, fruits, pork, groundnuts, milk, beef, tropical fruits (2022)<br>
@@ -499,8 +501,8 @@ $664.751 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$200.5 million (31 December 2017 est.)<br>
-$182.5 million (31 December 2016 est.)<br>
+$295.759 million (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: vatu (VUV) per US dollar -<br>

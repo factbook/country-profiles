@@ -341,17 +341,18 @@ $5.815 billion (2022 est.)<br>
 0.3% (2014 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.5% (2009)<br>
-_industry_: 13% (2009)<br>
-_services_: 84.5% (2009)<br>
+_agriculture_: 2.3% (2019 est.)<br>
+_industry_: 10.7% (2019 est.)<br>
+_services_: 76.2% (2019 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 66.9% (2014 est.)<br>
-_government consumption_: 33.6% (2014 est.)<br>
-_investment in fixed capital_: 19.4% (2014 est.)<br>
-_investment in inventories_: 0.1% (2014 est.)<br>
-_exports of goods and services_: 17.5% (2014 est.)<br>
-_imports of goods and services_: -37.5% (2014 est.)<br>
+_household consumption_: 71.5% (2022 est.)<br>
+_government consumption_: 31.7% (2022 est.)<br>
+_investment in fixed capital_: 21.8% (2022 est.)<br>
+_exports of goods and services_: 21.1% (2022 est.)<br>
+_imports of goods and services_: -46.1% (2022 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 coconuts, fruits, root vegetables, pineapples, eggs, cassava, sugarcane, tropical fruits, watermelons, tomatoes (2022)<br>
@@ -423,9 +424,6 @@ France 30%, China 13%, US 9%, South Korea 6%, NZ 6% (2022)<br>
 **Imports - commodities**<br>
 refined petroleum, cars, packaged medicine, beef, plastic products (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Debt - external**<br>
-<p>NA</p><br>
 
 **Exchange rates**<br>
 _Currency_: Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>

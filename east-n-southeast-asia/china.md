@@ -374,9 +374,10 @@ _election results_: <em><br>2023: </em>XI Jinping reelected president; National 
 <strong>note: </strong>ultimate authority rests with the Communist Party Central Committee’s 25-member Political Bureau (Politburo) and its seven-member Standing Committee; XI Jinping holds the three most powerful positions as party general secretary, state president, and chairman of the Central Military Commission<br>
 
 **Legislative branch**<br>
-_description_: unicameral National People's Congress (NPC) or Quanguo Renmin Daibiao Dahui (maximum of 3,000 seats; members indirectly elected by municipal, regional, and provincial people's congresses, and the People's Liberation Army; members serve 5-year terms); note - in practice, only members of the Chinese Communist Party (CCP), its 8 allied independent parties, and CCP-approved independent candidates are elected<br>
+_description_: unicameral National People's Congress (NPC) or Quanguo Renmin Daibiao Dahui (maximum of 3,000 seats; members indirectly elected by municipal, regional, and provincial people's congresses, and the People's Liberation Army; members serve 5-year terms)<br>
 _elections_: the 14th NPC convened on 5 March 2023; the 15th NPC will convene in March 2028<br>
 _election results_: percent of vote - NA; seats by party - NA; the 14th NPC consists of 2,977 delegates; 2,187 men, 790 women, percentage women 26.5%<br>
+<strong>note:</strong> in practice, only members of the Chinese Communist Party (CCP), its 8 allied independent parties, and CCP-approved independent candidates are elected<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme People's Court (consists of over 340 judges, including the chief justice and 13 grand justices organized into a civil committee and tribunals for civil, economic, administrative, complaint and appeal, and communication and transportation cases)<br>
@@ -465,17 +466,19 @@ _Standard & Poors rating_: A+ (2017)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 7.9% (2017 est.)<br>
-_industry_: 40.5% (2017 est.)<br>
-_services_: 51.6% (2017 est.)<br>
+_agriculture_: 7.1% (2023 est.)<br>
+_industry_: 38.3% (2023 est.)<br>
+_services_: 54.6% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 39.1% (2017 est.)<br>
-_government consumption_: 14.5% (2017 est.)<br>
-_investment in fixed capital_: 42.7% (2017 est.)<br>
-_investment in inventories_: 1.7% (2017 est.)<br>
-_exports of goods and services_: 20.4% (2017 est.)<br>
-_imports of goods and services_: -18.4% (2017 est.)<br>
+_household consumption_: 37.4% (2022 est.)<br>
+_government consumption_: 16.1% (2022 est.)<br>
+_investment in fixed capital_: 41.9% (2022 est.)<br>
+_investment in inventories_: 1.2% (2022 est.)<br>
+_exports of goods and services_: 19.7% (2023 est.)<br>
+_imports of goods and services_: -17.6% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 maize, rice, vegetables, wheat, sugarcane, potatoes, cucumbers/gherkins, tomatoes, watermelons, pork (2022)<br>
@@ -513,8 +516,8 @@ _female_: 14.2% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 20% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 2.9% of household expenditures (2021 est.)<br>
+_on food_: 20.1% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 3% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.1% (2020 est.)<br>
@@ -580,8 +583,8 @@ $3.428 trillion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$2,027,950,000,000 (2019 est.)<br>
-$1,935,206,000,000 (2018 est.)<br>
+$408.967 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Renminbi yuan (RMB) per US dollar -<br>

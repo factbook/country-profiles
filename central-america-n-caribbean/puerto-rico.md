@@ -363,17 +363,19 @@ _Standard & Poors rating_: D (2015)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.8% (2017 est.)<br>
-_industry_: 50.1% (2017 est.)<br>
-_services_: 49.1% (2017 est.)<br>
+_agriculture_: 0.7% (2023 est.)<br>
+_industry_: 49.1% (2023 est.)<br>
+_services_: 50.6% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 87.7% (2017 est.)<br>
-_government consumption_: 12.2% (2017 est.)<br>
-_investment in fixed capital_: 11.7% (2017 est.)<br>
-_investment in inventories_: 0.5% (2017 est.)<br>
-_exports of goods and services_: 117.8% (2017 est.)<br>
-_imports of goods and services_: -129.8% (2017 est.)<br>
+_household consumption_: 80% (2023 est.)<br>
+_government consumption_: 7.1% (2023 est.)<br>
+_investment in fixed capital_: 13.7% (2023 est.)<br>
+_investment in inventories_: 0.5% (2023 est.)<br>
+_exports of goods and services_: 53.9% (2023 est.)<br>
+_imports of goods and services_: -47.8% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, plantains, bananas, chicken, tomatoes, mangoes/guavas, eggs, oranges, pumpkins/squash, papayas (2022)<br>
@@ -439,10 +441,6 @@ Ireland 38%, Singapore 9%, Switzerland 8%, South Korea 5% (2019)<br>
 
 **Imports - commodities**<br>
 nitrogen compounds, sulfur compounds, refined petroleum, medical cultures/vaccines, cars (2019)<br>
-
-**Debt - external**<br>
-$56.82 billion (31 December 2010 est.)<br>
-$52.98 billion (31 December 2009 est.)<br>
 
 **Exchange rates**<br>
 <p>the US dollar is used</p><br>

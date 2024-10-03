@@ -487,8 +487,8 @@ $143.412 million (2017 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$792.7 million (31 December 2017 est.)<br>
-$875.6 million (31 December 2016 est.)<br>
+$471.009 million (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: nakfa (ERN) per US dollar -<br>
@@ -610,7 +610,6 @@ the EDF inventory is comprised primarily of older Russian and Soviet-era systems
 
 **Military service age and obligation**<br>
 Eritrea mandates military service for all citizens between the ages of 18 and 40; 18-month conscript service obligation, which includes 4-6 months of military training and 12 months of military or other national service (military service is most common); in practice, military and national service is often extended indefinitely; citizens up to the age of 55 eligible for recall during mobilization (2023)<br>
-<strong>note:</strong> as of 2020, women were estimated to make up as much as 30% of the Eritrean military<br>
 
 **Military - note**<br>
 the military’s primary responsibilities are external defense, border security, and providing the regime a vehicle for national cohesion; the Army is the dominant service; it is a large, conscript-based force and estimated to have more than 20 infantry divisions, including some that are mechanized, as well as a division of commandos/special forces<br><br>since the country's independence in 1991, the Eritrean military has participated in numerous conflicts, including the Hanish Island Crisis with Yemen (1995), the First Congo War (1996-1997), the Second Sudanese Civil War (1996-1998), the Eritrea-Ethiopia War (1998-2000), the Djiboutian-Eritrean border conflict (2008), and the Tigray conflict in Ethiopia (2020-2022); during the Tigray conflict, the Eritrean Defense Forces were accused of widespread human rights abuses (2023)<br>

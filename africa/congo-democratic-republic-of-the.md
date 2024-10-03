@@ -385,7 +385,7 @@ Christian Democrat Party or PDC <br>Congolese Rally for Democracy or RCD <br>C
 ACP, AfDB, AU, CEMAC, CEPGL, COMESA, EAC, EITI (compliant country), FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC (observer), MIGA, NAM, OIF, OPCW, PCA, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Marie-H&eacute;l&egrave;ne Mathey Boo LOWUMBA (since 7 June 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Michael SHAKU YUMI (since 1 August 2024)<br>
 _chancery_: 1100 Connecticut Avenue NW, Suite 725, Washington DC 20036<br>
 _telephone_: [1] (202) 234-7690<br>
 _FAX_: [1] (202) 234-2609<br>
@@ -454,17 +454,19 @@ _Standard & Poors rating_: CCC+ (2017)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 19.7% (2017 est.)<br>
-_industry_: 43.6% (2017 est.)<br>
-_services_: 36.7% (2017 est.)<br>
+_agriculture_: 17.4% (2023 est.)<br>
+_industry_: 46.5% (2023 est.)<br>
+_services_: 33.5% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 78.5% (2017 est.)<br>
-_government consumption_: 12.7% (2017 est.)<br>
-_investment in fixed capital_: 15.9% (2017 est.)<br>
-_investment in inventories_: 0% (2017 est.)<br>
-_exports of goods and services_: 25.7% (2017 est.)<br>
-_imports of goods and services_: -32.8% (2017 est.)<br>
+_household consumption_: 62.7% (2023 est.)<br>
+_government consumption_: 7.9% (2023 est.)<br>
+_investment in fixed capital_: 31.7% (2023 est.)<br>
+_investment in inventories_: 0.4% (2023 est.)<br>
+_exports of goods and services_: 44.2% (2023 est.)<br>
+_imports of goods and services_: -47% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 cassava, plantains, sugarcane, oil palm fruit, maize, rice, root vegetables, bananas, sweet potatoes, groundnuts (2022)<br>
@@ -560,8 +562,8 @@ $1.194 billion (2019 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$4.963 billion (31 December 2017 est.)<br>
-$5.35 billion (31 December 2016 est.)<br>
+$5.383 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Congolese francs (CDF) per US dollar -<br>

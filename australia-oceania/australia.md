@@ -446,17 +446,19 @@ _Standard & Poors rating_: AAA (2003)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 3.6% (2017 est.)<br>
-_industry_: 25.3% (2017 est.)<br>
-_services_: 71.2% (2017 est.)<br>
+_agriculture_: 2.4% (2023 est.)<br>
+_industry_: 27.4% (2023 est.)<br>
+_services_: 64.2% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 56.9% (2017 est.)<br>
-_government consumption_: 18.4% (2017 est.)<br>
-_investment in fixed capital_: 24.1% (2017 est.)<br>
-_investment in inventories_: 0.1% (2017 est.)<br>
-_exports of goods and services_: 21.5% (2017 est.)<br>
-_imports of goods and services_: -21% (2017 est.)<br>
+_household consumption_: 49.6% (2023 est.)<br>
+_government consumption_: 21.3% (2023 est.)<br>
+_investment in fixed capital_: 23.2% (2023 est.)<br>
+_investment in inventories_: 0.3% (2023 est.)<br>
+_exports of goods and services_: 26.7% (2023 est.)<br>
+_imports of goods and services_: -21.4% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 wheat, sugarcane, barley, milk, rapeseed, cotton, sorghum, beef, oats, chicken (2022)<br>
@@ -493,8 +495,8 @@ _female_: 7.5% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 10% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 4.2% of household expenditures (2021 est.)<br>
+_on food_: 10.4% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 4.2% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.7% (2018 est.)<br>
@@ -558,10 +560,6 @@ $61.703 billion (2023 est.)<br>
 $56.702 billion (2022 est.)<br>
 $57.878 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$3,115,913,000,000 (2019 est.)<br>
-$2,837,818,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Australian dollars (AUD) per US dollar -<br>
@@ -713,8 +711,8 @@ the military's inventory includes a mix of domestically produced and imported We
 <strong>note:</strong> in 2023, the Australian defense ministry announced a new strategic review that called for the acquisition of more long-range deterrence capabilities, including missiles, submarines, and cyber tools; in early 2024, Australia announced a 10-year plan to more than double the number of the Navy's major surface combatant ships<br>
 
 **Military service age and obligation**<br>
-17 years of age (with parental consent) for voluntary military service for men and women; no conscription (abolished 1973) (2023)<br>
-<strong>note 1:</strong> foreign nationals who are permanent residents, particularly New Zealanders, or those who have applied for citizenship or overseas candidates who have appropriate experience and qualifications from an overseas military can apply to join the ADF <br><br><strong>note 2:</strong> women have served in all roles, including combat arms, since 2013; in 2022, they comprised about 20% of the military<br>
+17 years of age (with parental consent) for voluntary military service for men and women; no conscription (abolished 1973) (2024)<br>
+<strong>note 1: </strong>as of July 2024, New Zealanders who are permanent residents and have lived in Australia for at least 12 months could apply to join the ADF; from January 2025, eligible permanent residents from Canada, the UK, and the US will also be able to apply<br><br><strong>note 2:</strong> women have served in all roles, including combat arms, since 2013; in 2024, they comprised slightly more than 20% of the military<br>
 
 **Military deployments**<br>
 <strong>note: </strong>the number of Australian military forces varies by mission; since the 1990s, Australia has deployed more than 30,000 personnel on nearly 100 UN peacekeeping and coalition military operations around the World<br>

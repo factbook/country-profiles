@@ -321,7 +321,7 @@ Action for Andorra or ACCIO <br>Committed Citizens or CC <br>Concord <br>Demo
 CE, FAO, ICAO, ICC (NGOs), ICCt, ICRM, IFRCS, Interpol, IOC, IPU, ITU, OIF, OPCW, OSCE, UN, UNCTAD, UNESCO, Union Latina, UNWTO, WCO, WHO, WIPO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Elisenda VIVES BALMA&Ntilde;A (since 2 March 2016); note - also Permanent Representative to the UN<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Joan FORNER ROVIRA (since 20 August 2024); note - also Permanent Representative to the UN<br>
 _chancery_: 2 United Nations Plaza, 27th Floor, New York, NY 10017<br>
 _telephone_: [1] (212) 750-8064<br>
 _FAX_: [1] (212) 750-6630<br>
@@ -384,9 +384,10 @@ _Standard & Poors rating_: BBB+ (2023)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 11.9% (2015 est.)<br>
-_industry_: 33.6% (2015 est.)<br>
-_services_: 54.5% (2015 est.)<br>
+_agriculture_: 0.5% (2023 est.)<br>
+_industry_: 11.4% (2023 est.)<br>
+_services_: 78.6% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **Agricultural products**<br>
 small quantities of rye, wheat, barley, oats, vegetables, tobacco, sheep, cattle<br>
@@ -454,9 +455,6 @@ Spain 66%, France 12%, Germany 4%, China 3%, Italy 3% (2022)<br>
 **Imports - commodities**<br>
 cars, refined petroleum, garments, electricity, beauty products (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Debt - external**<br>
-$0 (2016)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>

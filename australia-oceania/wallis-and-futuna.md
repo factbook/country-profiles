@@ -294,15 +294,6 @@ lower-middle-income, agrarian French dependency economy; heavily reliant on Fren
 **Inflation rate (consumer prices)**<br>
 0.9% (2015)<br>
 
-**GDP - composition, by sector of origin**<br>
-_agriculture_: NA<br>
-_industry_: NA<br>
-_services_: NA<br>
-
-**GDP - composition, by end use**<br>
-_household consumption_: 26% (2005)<br>
-_government consumption_: 54% (2005)<br>
-
 **Agricultural products**<br>
 coconuts, breadfruit, yams, taro, bananas; pigs, goats; fish<br>
 
@@ -329,9 +320,6 @@ Fiji 38%, France 31%, NZ 8%, Iceland 6%, Australia 5% (2022)<br>
 
 **Imports - commodities**<br>
 refined petroleum, beef products, poultry meats, engine parts, packaged medicines (2019)<br>
-
-**Debt - external**<br>
-$3.67 million (2004)<br>
 
 **Exchange rates**<br>
 _Currency_: Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>

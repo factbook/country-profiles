@@ -410,17 +410,19 @@ $2.243 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 9.1% (2017 est.)<br>
-_industry_: 56.7% (2017 est.)<br>
-_services_: 34.4% (2017 est.)<br>
+_agriculture_: 10.2% (2022 est.)<br>
+_industry_: 53.8% (2022 est.)<br>
+_services_: 37.2% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 33% (2017 est.)<br>
-_government consumption_: 30% (2017 est.)<br>
-_investment in fixed capital_: 10.6% (2017 est.)<br>
-_investment in inventories_: 0% (2017 est.)<br>
-_exports of goods and services_: 78.4% (2017 est.)<br>
-_imports of goods and services_: -52% (2017 est.)<br>
+_household consumption_: 42.5% (2022 est.)<br>
+_government consumption_: 33.1% (2022 est.)<br>
+_investment in fixed capital_: 10% (2022 est.)<br>
+_investment in inventories_: 0.6% (2022 est.)<br>
+_exports of goods and services_: 55.7% (2022 est.)<br>
+_imports of goods and services_: -42% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 maize, rice, coconuts, root vegetables, vegetables, cassava, other meats, coffee, beans, pork (2022)<br>
@@ -520,8 +522,8 @@ $934.781 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$311.5 million (31 December 2014 est.)<br>
-$687 million (31 December 2013 est.)<br>
+$207.551 million (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 <p>the US dollar is used</p><br>

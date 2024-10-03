@@ -409,17 +409,18 @@ _Moody's rating_: B3 (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 6.5% (2017 est.)<br>
-_industry_: 45% (2017 est.)<br>
-_services_: 48.6% (2017 est.)<br>
+_agriculture_: 8.1% (2023 est.)<br>
+_industry_: 33.5% (2023 est.)<br>
+_services_: 53.5% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 64% (2017 est.)<br>
-_government consumption_: 21.3% (2017 est.)<br>
-_investment in fixed capital_: 13.4% (2017 est.)<br>
-_investment in inventories_: -0.1% (2017 est.)<br>
-_exports of goods and services_: 47.9% (2017 est.)<br>
-_imports of goods and services_: -46.3% (2017 est.)<br>
+_household consumption_: 61.7% (2022 est.)<br>
+_government consumption_: 17.6% (2022 est.)<br>
+_investment in fixed capital_: 11.8% (2022 est.)<br>
+_exports of goods and services_: 43.8% (2022 est.)<br>
+_imports of goods and services_: -47.6% (2022 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sugarcane, maize, root vegetables, grapefruits, oranges, milk, pineapples, bananas, beef, potatoes (2022)<br>
@@ -518,8 +519,8 @@ $572.282 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$535 million (2019 est.)<br>
-$456 million (2018 est.)<br>
+$758.868 million (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: emalangeni per US dollar -<br>

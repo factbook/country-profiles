@@ -360,7 +360,7 @@ _elections/appointments_: the monarchy is hereditary; prime minister candidate a
 <strong>note: </strong>following its May 2023 election win, the MJP formed an eight-party coalition and put forward its leader PITA Limjaroenrat for prime minister; however, the Senate blocked PITA from becoming prime minister in the first National Assembly vote in July 2023, and the Assembly subsequently voted that he could not submit his name again; the Constitutional Court also suspended PITA after accepting cases accusing him of violating election law; in August 2023, MJP handed over the lead in forming a new government to the second largest party in the coalition, PTP, which then formed a new coalition without MJP; PTP put forward SRETTHA Thavisin for prime minister, and he was approved by the National Assembly 482 votes out of a possible 747<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Assembly or Ratthasapha consists of:<br>Senate or Wuthisapha (200 seats; members indirectly elected in a three-step process (district, provincial, and national) from 20 eligible groups of professionals (see note) and then certified by Election Commission for a single 5-year term)<br>House of Representatives or Saphaphuthan Ratsadon (500 seats; 400 members directly elected in single-seat constituencies by simple majority vote and 100 members elected in a single nationwide constituency by party-list proportional representation vote; members serve 4-year terms)<br>
+_description_: bicameral National Assembly or Ratthasapha consists of:<br>Senate or Wuthisapha (200 seats; members indirectly elected in a three-step process (district, provincial, and national) from 20 eligible groups of professionals (see note) and then certified by Election Commission for a single 5-year term)<br><br>House of Representatives or Saphaphuthan Ratsadon (500 seats; 400 members directly elected in single-seat constituencies by simple majority vote and 100 members elected in a single nationwide constituency by party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: Senate - last election dates 9, 16, and 26 June 2024; certified on 10 July 2024 (next to be held in June 2029)<br>House of Representatives - last held on 14 May 2023 (next to be held in May 2027)<br>
 _election results_: Senate - percent of vote by party - independents; seats by party - NA; composition - NA<br><br>House of Representatives - percent of vote by party - MFP 36.2%, PTP 27.7%, UTN 11.9%, BJT/PJT 2.9%, DP 2.3%, PPRP 1.4%, PCC 1.5%, other 16%; seats by party - MFP 152, PTP 141, BJT/PJT 71, PPRP 41, UTN 36, DP 24, PCC 9, CTP 10, Thai Sang Thai 6, other 11; composition - 403 men, 97 women, percentage women 19.4%<br>
 <strong>note: </strong>the 20 groups of professionals include agriculture, artists or athletes, business owners, education, employees or workers, independent professionals, industrialists, law and justice, mass communication, public health, science and technology, tourism-related professions, women, and elderly, disabled, or ethnic groups<br>
@@ -449,17 +449,19 @@ _Standard & Poors rating_: BBB+ (2004)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 8.2% (2017 est.)<br>
-_industry_: 36.2% (2017 est.)<br>
-_services_: 55.6% (2017 est.)<br>
+_agriculture_: 8.6% (2023 est.)<br>
+_industry_: 32.9% (2023 est.)<br>
+_services_: 58.5% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 48.8% (2017 est.)<br>
-_government consumption_: 16.4% (2017 est.)<br>
-_investment in fixed capital_: 23.2% (2017 est.)<br>
-_investment in inventories_: -0.4% (2017 est.)<br>
-_exports of goods and services_: 68.2% (2017 est.)<br>
-_imports of goods and services_: -54.6% (2017 est.)<br>
+_household consumption_: 57.7% (2023 est.)<br>
+_government consumption_: 16.6% (2023 est.)<br>
+_investment in fixed capital_: 23% (2023 est.)<br>
+_investment in inventories_: -0.4% (2023 est.)<br>
+_exports of goods and services_: 65.4% (2023 est.)<br>
+_imports of goods and services_: -63.7% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sugarcane, rice, cassava, oil palm fruit, maize, rubber, tropical fruits, chicken, pineapples, fruits (2022)<br>
@@ -497,8 +499,8 @@ _female_: 7.4% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 28.3% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 3.3% of household expenditures (2021 est.)<br>
+_on food_: 26.8% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 3% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.2% (2021 est.)<br>
@@ -564,8 +566,8 @@ $246.025 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$167.89 billion (2019 est.)<br>
-$158.964 billion (2018 est.)<br>
+$35.388 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: baht per US dollar -<br>

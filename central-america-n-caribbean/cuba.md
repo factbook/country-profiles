@@ -422,17 +422,19 @@ _Moody's rating_: Caa2 (2014)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 4% (2017 est.)<br>
-_industry_: 22.7% (2017 est.)<br>
-_services_: 73.4% (2017 est.)<br>
+_agriculture_: 0.8% (2022 est.)<br>
+_industry_: 23.8% (2022 est.)<br>
+_services_: 74.6% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 57% (2017 est.)<br>
-_government consumption_: 31.6% (2017 est.)<br>
-_investment in fixed capital_: 9.6% (2017 est.)<br>
-_investment in inventories_: 0% (2017 est.)<br>
-_exports of goods and services_: 14.6% (2017 est.)<br>
-_imports of goods and services_: -12.7% (2017 est.)<br>
+_household consumption_: 59.6% (2022 est.)<br>
+_government consumption_: 32.5% (2022 est.)<br>
+_investment in fixed capital_: 11.5% (2022 est.)<br>
+_investment in inventories_: 5.1% (2022 est.)<br>
+_exports of goods and services_: 40% (2022 est.)<br>
+_imports of goods and services_: -48.8% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sugarcane, cassava, plantains, vegetables, mangoes/guavas, milk, pumpkins/squash, tomatoes, sweet potatoes, bananas (2022)<br>
@@ -506,10 +508,6 @@ poultry, wheat, milk, plastic products, soybean oil (2022)<br>
 **Reserves of foreign exchange and gold**<br>
 $11.35 billion (31 December 2017 est.)<br>
 $12.3 billion (31 December 2016 est.)<br>
-
-**Debt - external**<br>
-$30.06 billion (31 December 2017 est.)<br>
-$29.89 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Cuban pesos (CUP) per US dollar -<br>

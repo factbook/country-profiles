@@ -451,17 +451,19 @@ _Standard & Poors rating_: B- (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 16.7% (2017 est.)<br>
-_industry_: 26.5% (2017 est.)<br>
-_services_: 56.8% (2017 est.)<br>
+_agriculture_: 16.7% (2023 est.)<br>
+_industry_: 25.2% (2023 est.)<br>
+_services_: 51.6% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 66.3% (2017 est.)<br>
-_government consumption_: 11.8% (2017 est.)<br>
-_investment in fixed capital_: 21.6% (2017 est.)<br>
-_investment in inventories_: -0.3% (2017 est.)<br>
-_exports of goods and services_: 21.6% (2017 est.)<br>
-_imports of goods and services_: -20.9% (2017 est.)<br>
+_household consumption_: 73.3% (2023 est.)<br>
+_government consumption_: 11.3% (2023 est.)<br>
+_investment in fixed capital_: 17.5% (2023 est.)<br>
+_investment in inventories_: -0.1% (2023 est.)<br>
+_exports of goods and services_: 18.3% (2023 est.)<br>
+_imports of goods and services_: -20.3% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 cassava, plantains, oil palm fruit, maize, taro, tomatoes, sorghum, sugarcane, bananas, vegetables (2022)<br>
@@ -499,8 +501,8 @@ _female_: 7% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 45.2% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 2% of household expenditures (2021 est.)<br>
+_on food_: 45.2% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 2% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.1% (2021 est.)<br>
@@ -565,8 +567,8 @@ $3.962 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$9.375 billion (31 December 2017 est.)<br>
-$7.364 billion (31 December 2016 est.)<br>
+$9.612 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>

@@ -441,17 +441,19 @@ _Moody's rating_: Ba3 (2015)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 20.1% (2017 est.)<br>
-_industry_: 26.6% (2017 est.)<br>
-_services_: 53.3% (2017 est.)<br>
+_agriculture_: 14.4% (2023 est.)<br>
+_industry_: 24.5% (2023 est.)<br>
+_services_: 54.3% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 61.7% (2017 est.)<br>
-_government consumption_: 14.9% (2017 est.)<br>
-_investment in fixed capital_: 22.4% (2017 est.)<br>
-_investment in inventories_: 0.3% (2017 est.)<br>
-_exports of goods and services_: 30.8% (2017 est.)<br>
-_imports of goods and services_: -30.1% (2017 est.)<br>
+_household consumption_: 67.7% (2023 est.)<br>
+_government consumption_: 10.3% (2023 est.)<br>
+_investment in fixed capital_: 25.5% (2023 est.)<br>
+_investment in inventories_: 0.3% (2023 est.)<br>
+_exports of goods and services_: 22.9% (2023 est.)<br>
+_imports of goods and services_: -26.6% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 yams, cassava, oil palm fruit, cocoa beans, sugarcane, plantains, rice, rubber, maize, cashews (2022)<br>
@@ -489,8 +491,8 @@ _female_: 4.9% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 38.5% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 3.2% of household expenditures (2021 est.)<br>
+_on food_: 38.2% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 3.2% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.1% (2021 est.)<br>
@@ -553,8 +555,8 @@ $6.257 billion (31 December 2017 est.)<br>
 $4.935 billion (31 December 2016 est.)<br>
 
 **Debt - external**<br>
-$13.07 billion (31 December 2017 est.)<br>
-$11.02 billion (31 December 2016 est.)<br>
+$23.623 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>

@@ -433,17 +433,19 @@ _Standard & Poors rating_: BB- (2018)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 17.9% (2017 est.)<br>
-_industry_: 33.7% (2017 est.)<br>
-_services_: 48.5% (2017 est.)<br>
+_agriculture_: 23% (2023 est.)<br>
+_industry_: 30.5% (2023 est.)<br>
+_services_: 41% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 59.5% (2017 est.)<br>
-_government consumption_: 16.3% (2017 est.)<br>
-_investment in fixed capital_: 25.3% (2017 est.)<br>
-_investment in inventories_: 3% (2017 est.)<br>
-_exports of goods and services_: 19% (2017 est.)<br>
-_imports of goods and services_: -20% (2017 est.)<br>
+_household consumption_: 59.7% (2023 est.)<br>
+_government consumption_: 16.1% (2023 est.)<br>
+_investment in fixed capital_: 34.8% (2023 est.)<br>
+_investment in inventories_: 8.3% (2023 est.)<br>
+_exports of goods and services_: 26.5% (2023 est.)<br>
+_imports of goods and services_: -45.5% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, wheat, carrots/turnips, cotton, potatoes, tomatoes, grapes, vegetables, watermelons, apples (2022)<br>
@@ -476,8 +478,8 @@ _female_: 18.3% (2023 est.)<br>
 31.2 (2022 est.)<br>
 
 **Average household expenditures**<br>
-_on food_: 46.5% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 3.2% of household expenditures (2021 est.)<br>
+_on food_: 46.4% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 3.2% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.5% (2022 est.)<br>
@@ -541,8 +543,8 @@ $35.375 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$16.9 billion (31 December 2017 est.)<br>
-$16.76 billion (31 December 2016 est.)<br>
+$22.305 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Uzbekistani soum (UZS) per US dollar -<br>

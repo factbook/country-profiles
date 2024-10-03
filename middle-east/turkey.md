@@ -441,17 +441,19 @@ _Standard & Poors rating_: B+ (2018)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 6.8% (2017 est.)<br>
-_industry_: 32.3% (2017 est.)<br>
-_services_: 60.7% (2017 est.)<br>
+_agriculture_: 6.2% (2023 est.)<br>
+_industry_: 28.3% (2023 est.)<br>
+_services_: 54% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 59.1% (2017 est.)<br>
-_government consumption_: 14.5% (2017 est.)<br>
-_investment in fixed capital_: 29.8% (2017 est.)<br>
-_investment in inventories_: 1.1% (2017 est.)<br>
-_exports of goods and services_: 24.9% (2017 est.)<br>
-_imports of goods and services_: -29.4% (2017 est.)<br>
+_household consumption_: 59.4% (2023 est.)<br>
+_government consumption_: 13.6% (2023 est.)<br>
+_investment in fixed capital_: 32.4% (2023 est.)<br>
+_investment in inventories_: -3% (2023 est.)<br>
+_exports of goods and services_: 32.3% (2023 est.)<br>
+_imports of goods and services_: -34.7% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, wheat, sugar beets, tomatoes, barley, maize, potatoes, apples, grapes, watermelons (2022)<br>
@@ -489,8 +491,8 @@ _female_: 22.9% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 27.3% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 2.8% of household expenditures (2021 est.)<br>
+_on food_: 25.4% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 3.3% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2% (2021 est.)<br>
@@ -556,8 +558,8 @@ $109.535 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$438.677 billion (2019 est.)<br>
-$454.251 billion (2018 est.)<br>
+$133.882 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Turkish liras (TRY) per US dollar -<br>

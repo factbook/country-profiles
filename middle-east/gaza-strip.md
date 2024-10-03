@@ -291,19 +291,19 @@ $17.396 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices; entry includes West Bank and Gaza Strip<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 3% (2017 est.)<br>
-_industry_: 21.1% (2017 est.)<br>
-_services_: 75% (2017 est.)<br>
-<strong>note:</strong> data exclude the West Bank<br>
+_agriculture_: 5.7% (2022 est.)<br>
+_industry_: 17.4% (2022 est.)<br>
+_services_: 58.3% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 88.6% (2017 est.)<br>
-_government consumption_: 26.3% (2017 est.)<br>
-_investment in fixed capital_: 22.4% (2017 est.)<br>
-_investment in inventories_: 0% (2017 est.)<br>
-_exports of goods and services_: 18.6% (2017 est.)<br>
-_imports of goods and services_: -55.6% (2017 est.)<br>
-<strong>note:</strong> data exclude the West Bank<br>
+_household consumption_: 101.6% (2023 est.)<br>
+_government consumption_: 20.2% (2023 est.)<br>
+_investment in fixed capital_: 24.8% (2023 est.)<br>
+_investment in inventories_: 1.5% (2023 est.)<br>
+_exports of goods and services_: 19.6% (2023 est.)<br>
+_imports of goods and services_: -66.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 tomatoes, milk, cucumbers/gherkins, olives, potatoes, sheep milk, eggplants, pumpkins/squash, grapes, chicken (2022)<br>
@@ -399,9 +399,6 @@ $1.323 billion (2023 est.)<br>
 $896.9 million (2022 est.)<br>
 $872.541 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars; entry includes West Bank and Gaza Strip<br>
-
-**Debt - external**<br>
-<p>see entry for the West Bank</p><br>
 
 **Exchange rates**<br>
 <p>see entry for the West Bank</p><br>

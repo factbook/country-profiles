@@ -423,17 +423,19 @@ $16.032 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 24% (2017 est.)<br>
-_industry_: 19.5% (2017 est.)<br>
-_services_: 56.4% (2017 est.)<br>
+_agriculture_: 21.1% (2023 est.)<br>
+_industry_: 14.9% (2023 est.)<br>
+_services_: 54.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 67.1% (2017 est.)<br>
-_government consumption_: 11.2% (2017 est.)<br>
-_investment in fixed capital_: 15.1% (2017 est.)<br>
-_investment in inventories_: 8.8% (2017 est.)<br>
-_exports of goods and services_: 31.5% (2017 est.)<br>
-_imports of goods and services_: -33.7% (2017 est.)<br>
+_household consumption_: 66.5% (2023 est.)<br>
+_government consumption_: 18.7% (2023 est.)<br>
+_investment in fixed capital_: 20.3% (2023 est.)<br>
+_investment in inventories_: 1% (2023 est.)<br>
+_exports of goods and services_: 32.5% (2023 est.)<br>
+_imports of goods and services_: -39.1% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 rice, sugarcane, cassava, sweet potatoes, milk, bananas, vegetables, mangoes/guavas, tropical fruits, potatoes (2022)<br>
@@ -520,8 +522,8 @@ $2.335 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$3.085 billion (2019 est.)<br>
-$4.107 billion (2018 est.)<br>
+$2.972 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Malagasy ariary (MGA) per US dollar -<br>

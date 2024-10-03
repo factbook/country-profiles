@@ -351,7 +351,7 @@ Alliance Party or PA<br>Alternative Independent Socialist Party or PAIS<br>Anoth
 ACS, BCIE, CAN (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, SICA, UN, UNASUR (observer), UNCTAD, UNESCO, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Ram&oacute;n Eduardo MART&Iacute;NEZ DE LA GUARDIA (since 16 September 2022)<br>
+_chief of mission_: Ambassador Jos&eacute; Miguel ALEM&Aacute;N HEALY (since 18 September 2024)<br>
 _chancery_: 2862 McGill Terrace NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 483-1407<br>
 _FAX_: [1] (202) 483-8413<br>
@@ -421,17 +421,19 @@ _Standard & Poors rating_: BBB (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.4% (2017 est.)<br>
-_industry_: 15.7% (2017 est.)<br>
-_services_: 82% (2017 est.)<br>
+_agriculture_: 2.4% (2023 est.)<br>
+_industry_: 27.1% (2023 est.)<br>
+_services_: 67.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 45.6% (2017 est.)<br>
-_government consumption_: 10.7% (2017 est.)<br>
-_investment in fixed capital_: 42.9% (2017 est.)<br>
-_investment in inventories_: 3% (2017 est.)<br>
-_exports of goods and services_: 41.9% (2017 est.)<br>
-_imports of goods and services_: -44.2% (2017 est.)<br>
+_household consumption_: 46.1% (2022 est.)<br>
+_government consumption_: 12.8% (2022 est.)<br>
+_investment in fixed capital_: 29.5% (2022 est.)<br>
+_investment in inventories_: 11.7% (2022 est.)<br>
+_exports of goods and services_: 47.9% (2022 est.)<br>
+_imports of goods and services_: -48% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sugarcane, bananas, rice, oranges, oil palm fruit, plantains, chicken, milk, pineapples, maize (2022)<br>
@@ -469,8 +471,8 @@ _female_: 22% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 15.7% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 1.7% of household expenditures (2021 est.)<br>
+_on food_: 15.6% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 1.7% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.2% (2023 est.)<br>
@@ -533,10 +535,6 @@ $6.757 billion (2023 est.)<br>
 $6.876 billion (2022 est.)<br>
 $8.832 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$101.393 billion (2019 est.)<br>
-$94.898 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: balboas (PAB) per US dollar -<br>

@@ -423,17 +423,19 @@ _Standard & Poors rating_: AA (2011)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 5.7% (2017 est.)<br>
-_industry_: 21.5% (2017 est.)<br>
-_services_: 72.8% (2017 est.)<br>
+_agriculture_: 5.8% (2021 est.)<br>
+_industry_: 19% (2021 est.)<br>
+_services_: 67.1% (2021 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 57.2% (2017 est.)<br>
-_government consumption_: 18.2% (2017 est.)<br>
-_investment in fixed capital_: 23.4% (2017 est.)<br>
-_investment in inventories_: 0.3% (2017 est.)<br>
-_exports of goods and services_: 27% (2017 est.)<br>
-_imports of goods and services_: -26.1% (2017 est.)<br>
+_household consumption_: 58.2% (2022 est.)<br>
+_government consumption_: 21.1% (2022 est.)<br>
+_investment in fixed capital_: 25.4% (2022 est.)<br>
+_investment in inventories_: 0.4% (2022 est.)<br>
+_exports of goods and services_: 24.4% (2022 est.)<br>
+_imports of goods and services_: -29.7% (2022 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, beef, kiwifruit, apples, grapes, lamb/mutton, potatoes, wheat, barley, onions (2022)<br>
@@ -463,8 +465,8 @@ _female_: 10.5% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
-_on food_: 12.2% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 5.2% of household expenditures (2021 est.)<br>
+_on food_: 12.5% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 4.9% of household expenditures (2022 est.)<br>
 
 **Remittances**<br>
 0.24% of GDP (2023 est.)<br>
@@ -523,10 +525,6 @@ $15.487 billion (2023 est.)<br>
 $14.4 billion (2022 est.)<br>
 $16.114 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$190.621 billion (2019 est.)<br>
-$192.327 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: New Zealand dollars (NZD) per US dollar -<br>

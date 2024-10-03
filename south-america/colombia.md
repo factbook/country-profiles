@@ -371,7 +371,7 @@ Alternative Democratic Pole or PDA<br>Citizens Option (Opcion Ciudadana) or OC (
 ACS, BCIE, BIS, CABEI, CAN, Caricom (observer), CD, CDB, CELAC, EITI (candidate country), FAO, G-3, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance, PCA, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Appointed Ambassador Daniel GARCIA PE&Ntilde;A (since 21 May 2024)<br>
+_chief of mission_: Ambassador Daniel GARC&Iacute;A-PE&Ntilde;A JARAMILLO (since 18 September 2024)<br>
 _chancery_: 1724 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 387-8338<br>
 _FAX_: [1] (202) 232-8643<br>
@@ -442,17 +442,19 @@ _Standard & Poors rating_: BBB- (2017)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 7.2% (2017 est.)<br>
-_industry_: 30.8% (2017 est.)<br>
-_services_: 62.1% (2017 est.)<br>
+_agriculture_: 8.7% (2023 est.)<br>
+_industry_: 24.5% (2023 est.)<br>
+_services_: 56.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 68.2% (2017 est.)<br>
-_government consumption_: 14.8% (2017 est.)<br>
-_investment in fixed capital_: 22.2% (2017 est.)<br>
-_investment in inventories_: 0.2% (2017 est.)<br>
-_exports of goods and services_: 14.6% (2017 est.)<br>
-_imports of goods and services_: -19.7% (2017 est.)<br>
+_household consumption_: 77.5% (2023 est.)<br>
+_government consumption_: 14.6% (2023 est.)<br>
+_investment in fixed capital_: 17.6% (2023 est.)<br>
+_investment in inventories_: -4.8% (2023 est.)<br>
+_exports of goods and services_: 17.8% (2023 est.)<br>
+_imports of goods and services_: -22.7% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 sugarcane, oil palm fruit, milk, rice, potatoes, bananas, plantains, maize, chicken, avocados (2022)<br>
@@ -490,8 +492,8 @@ _female_: 23.7% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 18.6% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 3.5% of household expenditures (2021 est.)<br>
+_on food_: 18.5% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 3.5% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1% (2022 est.)<br>
@@ -557,8 +559,8 @@ $58.019 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$135.644 billion (2019 est.)<br>
-$128.238 billion (2018 est.)<br>
+$97.915 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Colombian pesos (COP) per US dollar -<br>
@@ -709,7 +711,7 @@ the military's inventory includes a wide mix of equipment from a variety of supp
 
 **Military service age and obligation**<br>
 18-24 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 18 months; conscripted soldiers reportedly include regular soldiers (conscripts without a high school degree), drafted high school graduates (bachilleres), and rural (campesino) soldiers who serve in their home regions (2023)<br>
-<strong>note 1:</strong> conscripts reportedly comprise about 50% of the Colombian military's active force with more than 50,000 conscripts brought into the military annually<br><br><strong>note 2:</strong> the Colombian military first incorporated women in 1976 in administrative positions; women were incorporated as non-commissioned officers in 1983 and officers in 2009; women comprised about 1% of the military in 2023<br>
+<strong>note 1:</strong> more than 50,000 conscripts are brought into the military annually<br><br><strong>note 2:</strong> the Colombian military first incorporated women in 1976 in administrative positions; women were incorporated as non-commissioned officers in 1983 and officers in 2009; as of 2023, about 6,000 women served in the uniformed military while more than 30,000 served in the National Police<br>
 
 **Military deployments**<br>
 275 Egypt (MFO) (2024)<br>

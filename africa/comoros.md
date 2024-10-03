@@ -392,17 +392,18 @@ $1.352 billion (2023 est.)<br>
 <strong>note:</strong> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 47.7% (2017 est.)<br>
-_industry_: 11.8% (2017 est.)<br>
-_services_: 40.5% (2017 est.)<br>
+_agriculture_: 37.2% (2023 est.)<br>
+_industry_: 9% (2023 est.)<br>
+_services_: 49.6% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 92.6% (2017 est.)<br>
-_government consumption_: 20.4% (2017 est.)<br>
-_investment in fixed capital_: 20% (2017 est.)<br>
-_investment in inventories_: -3.1% (2017 est.)<br>
-_exports of goods and services_: 17.2% (2017 est.)<br>
-_imports of goods and services_: -47.1% (2017 est.)<br>
+_household consumption_: 100.1% (2023 est.)<br>
+_government consumption_: 9.3% (2023 est.)<br>
+_investment in fixed capital_: 12.7% (2023 est.)<br>
+_exports of goods and services_: 13% (2023 est.)<br>
+_imports of goods and services_: -35% (2023 est.)<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 coconuts, bananas, cassava, yams, maize, taro, milk, tomatoes, sweet potatoes, pulses (2022)<br>
@@ -497,8 +498,8 @@ $329.672 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$199.8 million (31 December 2017 est.)<br>
-$132 million (31 December 2016 est.)<br>
+$233.947 million (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Comoran francs (KMF) per US dollar -<br>

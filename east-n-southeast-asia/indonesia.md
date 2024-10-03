@@ -363,7 +363,7 @@ _election results_: <em><br>2024: </em>PRABOWO Subianto elected president (assum
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: bicameral People's Consultative Assembly or Majelis Permusyawaratan Rakyat (MPR) consists of:<br>Regional Representative Council or Dewan Perwakilan Daerah (136 seats; non-partisan members directly elected in multi-seat constituencies - 4 each from the country's 34 electoral districts - by proportional representation vote to serve 5-year terms); note - the Regional Representative Council has no legislative authority<br>House of Representatives or Dewan Perwakilan Rakyat (580 seats; members directly elected in multi-seat constituencies by single non-transferable vote to serve 5-year terms)<br>
+_description_: bicameral People's Consultative Assembly or Majelis Permusyawaratan Rakyat (MPR) consists of:<br>Regional Representative Council or Dewan Perwakilan Daerah (136 seats; non-partisan members directly elected in multi-seat constituencies - 4 each from the country's 34 electoral districts - by proportional representation vote to serve 5-year terms); note - the Regional Representative Council has no legislative authority<br><br>House of Representatives or Dewan Perwakilan Rakyat (580 seats; members directly elected in multi-seat constituencies by single non-transferable vote to serve 5-year terms)<br>
 _elections_: Regional Representative Council - last held on 14 February 2024 (next to be held in 2029)<br>House of Representatives - last held on 14 February 2024 (next to be held in 2029)<br>
 _election results_: Regional Representative Council - all seats elected on a non-partisan basis; composition - men 102, women 34, percentage women 25%<br><br>House of Representatives - percent of vote by party - PDI-P 16.7%, Golkar 15.3%, Gerindra 13.2%, PKB 10.6%, Nasdem 9.7%, PKS 8.4%, PD 7.4%, PAN 7.2%; other 11.5% (10 additional parties received votes); seats by party - PDI-P 110, Golkar 102, Gerindra 86, PKB 68, Nasdem 69, PKS 53, PD 44, PAN 48; composition - men 449, women 126, percentage women 21.9%; total People's Consultative Assembly percentage women NA<br>
 
@@ -452,17 +452,19 @@ _Standard & Poors rating_: BBB (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 13.7% (2017 est.)<br>
-_industry_: 41% (2017 est.)<br>
-_services_: 45.4% (2017 est.)<br>
+_agriculture_: 12.5% (2023 est.)<br>
+_industry_: 40.2% (2023 est.)<br>
+_services_: 42.9% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 57.3% (2017 est.)<br>
-_government consumption_: 9.1% (2017 est.)<br>
-_investment in fixed capital_: 32.1% (2017 est.)<br>
-_investment in inventories_: 0.3% (2017 est.)<br>
-_exports of goods and services_: 20.4% (2017 est.)<br>
-_imports of goods and services_: -19.2% (2017 est.)<br>
+_household consumption_: 54.4% (2023 est.)<br>
+_government consumption_: 7.4% (2023 est.)<br>
+_investment in fixed capital_: 29.3% (2023 est.)<br>
+_investment in inventories_: 1.2% (2023 est.)<br>
+_exports of goods and services_: 21.7% (2023 est.)<br>
+_imports of goods and services_: -19.6% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 oil palm fruit, rice, sugarcane, maize, coconuts, cassava, bananas, eggs, mangoes/guavas, chicken (2022)<br>
@@ -500,8 +502,8 @@ _female_: 13.6% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 33.9% of household expenditures (2021 est.)<br>
-_on alcohol and tobacco_: 7.3% of household expenditures (2021 est.)<br>
+_on food_: 33.7% of household expenditures (2022 est.)<br>
+_on alcohol and tobacco_: 7.4% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.1% (2023 est.)<br>
@@ -565,10 +567,6 @@ $146.359 billion (2023 est.)<br>
 $137.222 billion (2022 est.)<br>
 $144.908 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
-
-**Debt - external**<br>
-$393.252 billion (2019 est.)<br>
-$360.945 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Indonesian rupiah (IDR) per US dollar -<br>

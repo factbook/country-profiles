@@ -435,17 +435,19 @@ _Standard & Poors rating_: B+ (2018)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 26.1% (2017 est.)<br>
-_industry_: 22.8% (2017 est.)<br>
-_services_: 51.1% (2017 est.)<br>
+_agriculture_: 25.4% (2023 est.)<br>
+_industry_: 17.3% (2023 est.)<br>
+_services_: 47.7% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 70.5% (2017 est.)<br>
-_government consumption_: 13.1% (2017 est.)<br>
-_investment in fixed capital_: 27.6% (2017 est.)<br>
-_investment in inventories_: 0% (2017 est.)<br>
-_exports of goods and services_: 31.6% (2017 est.)<br>
-_imports of goods and services_: -43% (2017 est.)<br>
+_household consumption_: 59% (2023 est.)<br>
+_government consumption_: 9.5% (2023 est.)<br>
+_investment in fixed capital_: 40.1% (2023 est.)<br>
+_investment in inventories_: 0.4% (2023 est.)<br>
+_exports of goods and services_: 21.2% (2023 est.)<br>
+_imports of goods and services_: -30.2% (2023 est.)<br>
+<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 cassava, yams, maize, oil palm fruit, cotton, rice, pineapples, soybeans, tomatoes, vegetables (2022)<br>
@@ -542,8 +544,8 @@ $698.9 million (31 December 2017 est.)<br>
 $57.5 million (31 December 2016 est.)<br>
 
 **Debt - external**<br>
-$2.804 billion (31 December 2017 est.)<br>
-$2.476 billion (31 December 2016 est.)<br>
+$5.328 billion (2022 est.)<br>
+<b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
