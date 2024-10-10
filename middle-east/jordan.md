@@ -344,7 +344,7 @@ _residency requirement for naturalization_: 15 years<br>
 
 **Executive branch**<br>
 _chief of state_: King ABDALLAH II (since 7 February 1999)<br>
-_head of government_: Prime Minister Bisher AL-KHASAWNEH (since 7 October 2020)<br>
+_head of government_: Prime Minister Jafar HASSAN (since 15 September 2024)<br>
 _cabinet_: Cabinet appointed by the monarch in consultation with the prime minister<br>
 _elections/appointments_: prime minister appointed by the monarch<br>
 

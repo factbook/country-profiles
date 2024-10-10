@@ -687,7 +687,7 @@ approximately 20,000 active-duty personnel (13,500 Army; 4,000 Navy; 2,500 Air F
 the military's inventory is comprised of mostly older equipment from a variety of foreign suppliers, particularly Brazil and the US (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 12 months for Army, 24 months for Navy; conscripts also serve in the National Police; volunteers for the Air Force must be younger than 22 years of age with a secondary school diploma (2023)<br>
+18 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 12 months for Army, 24 months for Navy; conscripts also serve in the National Police (2024)<br>
 <strong>note:</strong> as of 2021, women made up about 6% of the active military<br>
 
 **Military - note**<br>

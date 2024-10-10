@@ -675,7 +675,7 @@ the Latvian military's inventory consists of a mixture of Soviet-era and limited
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; 12 months mandatory military service for men 18-27 years of age (2024)<br>
-<strong>note 1:</strong> conscription reintroduced in 2024<br><br><strong>note 2:</strong> as of 2022, women comprised about 16% of the military's full-time personnel<br>
+<strong>note 1:</strong> conscription was reintroduced in 2024<br><br><strong>note 2:</strong> as of 2024, women comprised about 16.5% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 135 Kosovo (KFOR/NATO) (2024)<br>

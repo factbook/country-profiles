@@ -335,7 +335,7 @@ _cabinet_: Council of Ministers appointed by the monarch every 4 years and inclu
 _elections/appointments_: none; the monarchy is hereditary; an Allegiance Council created by royal decree in October 2006 established a committee of Saudi princes for a voice in selecting future Saudi kings<br>
 
 **Legislative branch**<br>
-_description_: unicameral Consultative Council or Majlis al-Shura (150 seats plus a speaker; members appointed by the monarch to serve 4-year terms); note - in early 2013, the monarch granted women 30 seats on the Council<br>
+_description_: unicameral Shura Council (Majlis Ash-Shura) (150 seats plus a speaker; members appointed by the monarch to serve 4-year terms); note - in early 2013, the monarch granted women 30 seats on the Council<br>
 _election results_: composition - men 121, women 30, percentage women 19.9%<br>
 <strong>note:</strong> composition as of 2021 - men 121, women 30, percent of women 19.9%<br>
 

@@ -352,7 +352,7 @@ _chief of state_: Taliban Leader HAYBATULLAH Akhundzada (since 15 August 2021)<b
 _head of government_: overall Taliban Leader HAYBATULLAH Akhundzada is the [so-called] Amir-ul Momineen of the Taliban and is seen by them as a head of government<br>
 _cabinet_: <p>the Taliban have announced a “cabinet” for the “caretaker government,” including the “acting prime minister,” “acting deputy prime ministers,” and “ministers” who claim to represent 26 ministries</p><br>
 _elections/appointments_: the 2004 Afghan constitution directed that the president should be elected by majority popular vote for a 5-year term (eligible for a second term); election last held on 28 September 2019, and the Taliban have given no indication that they intend to reinstate elections or any other mechanism of democratic governance<br>
-note 1: the United States has not yet made a decision whether to recognize the Taliban or any other entity as the government of Afghanistan<br>note 2: note - on 7 September 2021, the Taliban announced Mohammad HASSAN Akhund as the “acting prime minister” of the "caretaker government”; as of November 2021, the group had announced three "acting deputy prime ministers” - Abdul Ghani BARADER, Abdul Salam HANAFI, and Mohammad Abdul KABIR<br>
+note: the United States has not yet made a decision whether to recognize the Taliban or any other entity as the government of Afghanistan<br>
 
 **Legislative branch**<br>
 _description_: before August 2021, Afghanistan had a bicameral National Assembly that consisted of the House of Elders and House of the People; the parliament has been in hiatus since August 2021 and the Taliban have shown no interest in reviving it&nbsp; &nbsp;&nbsp;<br>

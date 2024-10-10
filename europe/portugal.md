@@ -663,7 +663,7 @@ _key ports_: Aveiro, Funchal, Lagos, Lisboa, Sines<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Portuguese Armed Forces (Forças Armadas): Portuguese Army (Exercito Portuguesa), Portuguese Navy (Marinha Portuguesa; includes Marine Corps, aka Corpo de Fuzileiros or Corps of Fusiliers), Portuguese Air Force (Forca Aerea Portuguesa, FAP)<br><br>Ministry of Internal Administration: Foreigners and Borders Service, Public Security Service, National Republican Guard (Guarda Nacional Republicana, GNR) (2024)<br>
+Portuguese Armed Forces (Forças Armadas Portuguesa): Portuguese Army (Exercito Portuguesa), Portuguese Navy (Marinha Portuguesa; includes Marine Corps, aka Corpo de Fuzileiros or Corps of Fusiliers), Portuguese Air Force (Forca Aerea Portuguesa, FAP)<br><br>Ministry of Internal Administration: Foreigners and Borders Service, Public Security Service, National Republican Guard (Guarda Nacional Republicana, GNR) (2024)<br>
 <strong>note:</strong> the Foreigners and Borders Service has jurisdiction over immigration and border matters, the Public Security Police has jurisdiction in cities, and the GNR has jurisdiction in rural areas; the GNR is a national gendarmerie force comprised of military personnel with law enforcement, internal security, civil defense, disaster response, and coast guard duties; it is responsible to both the Ministry of Internal Administration and to the Ministry of National Defense; it is not part of the Armed Forces, but may be placed under the operational command of the Chief of the General Staff of the Armed Forces in the event of a national emergency; the GNR describes itself as a hinge between the Armed Forces and the police forces and other security services<br>
 
 **Military expenditures**<br>
@@ -677,7 +677,7 @@ Portuguese Armed Forces (Forças Armadas): Portuguese Army (Exercito Portuguesa)
 approximately 28,000 active-duty personnel (15,000 Army; 7,000 Navy, including about 1,000 marines; 6,000 Air Force); 24,500 National Republican Guard (military personnel) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes mostly European- and US-origin weapons systems along with a smaller mix of domestically produced equipment; in recent years, leading foreign suppliers have included Germany and the US; Portugal's defense industry is primarily focused on shipbuilding (2023)<br>
+the military's inventory includes mostly European- and US-origin weapons systems along with a smaller mix of domestically produced equipment; in recent years, leading foreign suppliers have included Germany and the US; Portugal's defense industry is noted for its shipbuilding (2023)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary or contract military service; no compulsory military service (abolished 2004) but conscription possible if insufficient volunteers available; women serve in the armed forces but are prohibited from serving in some combatant specialties; contract service lasts for an initial period of 2-6 years, and can be extended to a maximum of 20 years of service; initial voluntary military service lasts 12 months; reserve obligation to age 35 (2023)<br>

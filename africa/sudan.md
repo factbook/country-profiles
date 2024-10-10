@@ -679,7 +679,7 @@ Sudanese Armed Forces (SAF): Ground Force, Navy, Sudanese Air Force; Rapid Suppo
 <strong>note:</strong> many defense expenditures are probably off-budget<br>
 
 **Military and security service personnel strengths**<br>
-estimates vary widely; up to 200,000 SAF personnel; the strength of the RSF ranges from a low of about 30,000 to as many as 100,000 fighters; up to 80,000 Central Reserve Police (2023)<br>
+prior to the outbreak of fighting between the SAF and the RSF in 2023, size estimates for Sudanese armed forces varied widely: up to 200,000 SAF personnel; up to 100,000 RSF fighters; up to 80,000 Central Reserve Police (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SAF's inventory includes a mix of Chinese, Russian, Soviet-era, and domestically produced weapons systems; in recent years, China and Russia have been the leading arms providers; Sudan has one of the largest defense industries in Africa, which includes state-owned companies with military involvement; it mostly manufactures weapons systems under license from China, Russia, Turkey, and Ukraine (2023)<br>

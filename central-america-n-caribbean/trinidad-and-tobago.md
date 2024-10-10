@@ -609,7 +609,6 @@ the TTDF's ground force inventory includes only light weapons, while the Coast G
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service for men and women (some age variations between services, reserves); no conscription (2024)<br>
-<strong>note:</strong> as of 2019, women comprised about 14% of the active duty military<br>
 
 **Military - note**<br>
 the TTDF's primary responsibilities are conducting border and maritime security, including air and maritime surveillance, assisting civil authorities in times of crisis or disaster, providing search and rescue services, port security, and supporting civil law enforcement, particularly in countering gang-related crime and trafficking of narcotics and other illicit goods; the Police Service maintains internal security (2024)<br>

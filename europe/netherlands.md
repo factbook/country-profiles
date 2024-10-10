@@ -698,7 +698,7 @@ Netherlands (Dutch) Armed Forces (Nederlandse Krijgsmacht): Royal Netherlands Ar
 
 **Military and security service personnel strengths**<br>
 approximately 45,000 active-duty personnel (19,000 Army; 8,000 Navy; 8,000 Air Force; 6,000 Constabulary; 4,000 other) (2024)<br>
-<strong>note:</strong> the total figures include about 6,000 reservists on active duty; the Navy has about 2,300 marines<br>
+<strong>note:</strong> the total figures include about 6,000 reservists on active duty; the Navy figures include about 2,300 marines<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists of a mix of domestically produced and modern European- and US-sourced equipment; in recent years, the US has been the leading supplier of weapons systems; the Netherlands has an advanced domestic defense industry that focuses on armored vehicles, naval ships, and air defense systems; it also participates with the US and other European countries on joint development and production of advanced weapons systems (2024)<br>

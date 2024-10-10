@@ -687,7 +687,7 @@ Japan Self-Defense Force (JSDF): Ground Self-Defense Force (Rikujou Jieitai, GSD
 approximately 230-240,000 active personnel (145-150,000 Ground; 40-45,000 Maritime; 40-45,000 Air); 14,000 Coast Guard (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the JSDF is equipped with a mix of imported and domestically produced equipment; Japan has a robust defense industry and is capable of producing a wide range of air, ground, and naval weapons systems; the majority of its weapons imports are from the US and some domestically produced weapons are US-origin and manufactured under license (2023)<br>
+the JSDF is equipped with a mix of imported and domestically produced equipment; Japan has a robust defense industry and is capable of producing a wide range of air, ground, and naval weapons systems; the majority of its weapons imports are from the US and some domestically produced weapons are US-origin and manufactured under license (2024)<br>
 
 **Military service age and obligation**<br>
 18-32 years of age for voluntary military service for men and women; no conscription (2024)<br>

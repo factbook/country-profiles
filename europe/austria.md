@@ -672,7 +672,7 @@ _by type_: other 1<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Austrian Armed Forces (Bundesheer): Land Forces, Air Forces, Cyber Forces, Special Forces, Militia (reserves) (2024)<br>
+Austrian Armed Forces (Bundesheer): Land Forces, Air Forces, Cyber Forces, Special Operations Forces, Militia (reserves) (2024)<br>
 <strong>note 1:</strong> the federal police maintain internal security and report to the Ministry of the Interior<br><br><strong>note 2:</strong> the militia is comprised of men and women who have done their basic military or training service and continue to perform a task in the armed forces; they are integrated into the military but have civilian jobs and only participate in exercises or operations; missions for the militia may include providing disaster relief, assisting security police, and protecting critical infrastructure (energy, water, etc.), as well as deployments on missions abroad<br>
 
 **Military expenditures**<br>
@@ -683,7 +683,7 @@ Austrian Armed Forces (Bundesheer): Land Forces, Air Forces, Cyber Forces, Speci
 0.7% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 20-25,000 active-duty personnel (includes conscripts and active militia) (2023)<br>
+approximately 14,000 regular troops; 8,000 civilians; 25,000 militia (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes a mix of domestically produced and imported weapons systems from European countries and the US; the Austrian defense industry produces a range of equipment and partners with other countries (2024)<br>

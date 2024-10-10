@@ -393,12 +393,12 @@ _email address and website_: <br>Webadmin@embassyofperu.us<br><br>Embassy of Per
 _consulate(s) general_: Atlanta, Boston, Chicago, Dallas, Denver, Hartford (CT), Houston, Los Angeles, Miami, New York, Paterson (NJ), San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Chargé d’Affaires John T. McNAMARA (since 8 September 2023)<br>
+_chief of mission_: Ambassador Stephanie SYPTAK-RAMNATH (since 20 June 2024)<br>
 _embassy_: Avenida La Encalada, Cuadra 17 s/n, Surco, Lima 33<br>
 _mailing address_: 3230 Lima Place, Washington DC&nbsp; 20521-3230<br>
 _telephone_: [51] (1) 618-2000<br>
 _FAX_: [51] (1) 618-2724<br>
-_email address and website_: <br>LimaACS@state.gov<br><br>https://pe.usembassy.gov/<br>
+_email address and website_: <br>lima_webmaster@state.gov<br><br>https://pe.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal, vertical bands of red (hoist side), white, and red with the coat of arms centered in the white band; the coat of arms features a shield bearing a vicuna (representing fauna), a cinchona tree (the source of quinine, signifying flora), and a yellow cornucopia spilling out coins (denoting mineral wealth); red recalls blood shed for independence, white symbolizes peace<br>

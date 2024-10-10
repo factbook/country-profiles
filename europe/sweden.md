@@ -693,7 +693,7 @@ the SAF's inventory is comprised of domestically produced and imported Western w
 
 **Military service age and obligation**<br>
 18-47 years of age for voluntary military service for men and women; service obligation: 7-15 months (Army), 7-15 months (Navy), 8-12 months (Air Force); after completing initial service, soldiers have a reserve commitment until age 47; compulsory military service, abolished in 2010, was reinstated in January 2018; conscription is selective, includes both men and women (age 18), and requires 6-15 months of service (2024)<br>
-<strong>note 1: </strong>Sweden conscripts about 5,500 men and women each year; it plans to increase this number to 8,000 by 2025<br><br><strong>note 2: </strong>as of 2023, women made over 20% of the military's personnel<br><br><strong>note 3:</strong> conscientious objectors in Sweden have the right to apply for alternative service (called vapenfri tjänst); after completing alternative service, the conscript then belongs to the civilian reserve<br>
+<strong>note 1: </strong>Sweden conscripts about 5,500 men and women each year; it plans to increase this number to 8,000 by 2025; conscientious objectors in Sweden have the right to apply for alternative service (called vapenfri tjänst); after completing alternative service, the conscript then belongs to the civilian reserve<br><br><strong>note 2: </strong>as of 2023, women made over 20% of the military's personnel<br>
 
 **Military deployments**<br>
 the Swedish military has small numbers of personnel deployed on multiple EU-, NATO-, and UN-led missions (2024)<br>

@@ -680,7 +680,7 @@ Malian Armed Forces (Forces Armées Maliennes or FAMa): Land Forces (l’Armée 
 information varies; estimated 35-40,000 total active military and paramilitary personnel, including approximately 20-25,000 FAMa (up to 2,000 Air Force), 5-7,000 Gendarmerie, and 10,000 National Guard (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAMa's inventory consists primarily of Soviet-era equipment, although in recent years it has received limited quantities of newer armaments from more than a dozen countries, especially China and Russia (2023)<br>
+the FAMa's inventory consists primarily of Soviet-era equipment, although in recent years it has received limited quantities of newer armaments from more than a dozen countries, especially China, Russia, and Turkey (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for men and women for selective compulsory and voluntary military service; 24-month compulsory service obligation (2023)<br>

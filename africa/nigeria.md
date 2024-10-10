@@ -710,7 +710,7 @@ Armed Forces of Nigeria (AFN): Army, Navy (includes Coast Guard), Air Force<br><
 information varies; approximately 135,000 active-duty armed forces personnel (100,000 Army; 20,000 Navy/Coast Guard; 15,000 Air Force); approximately 80,000 Security and Civil Defense Corps; approximately 370,000 police (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of a wide variety of imported weapons systems of Chinese, European, Middle Eastern, Russian (including Soviet-era), and US origin; the military is undergoing a considerable modernization program, and in recent years has received equipment from nearly 20 countries with China and Russia as the leading suppliers; Nigeria is also developing a defense-industry capacity, including small arms, armored personnel vehicles, and small-scale naval production (2023)<br>
+the military's inventory consists of a wide variety of imported weapons systems of Chinese, European, Middle Eastern, Russian (including Soviet-era), and US origin; the military is undergoing a modernization program, and in recent years has received equipment from nearly 20 countries with China and Russia as the leading suppliers; Nigeria is also developing a defense-industry capacity, including small arms, armored personnel vehicles, and small-scale naval production (2023)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service for men and women; no conscription (2023)<br>

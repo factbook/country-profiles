@@ -341,7 +341,7 @@ _election results_: <em><br>2024: </em>Anura Kumara DISSANAYAKE elected presiden
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (225 seats; 196 members directly elected in multi-seat district constituencies by proportional representation vote using a preferential method in which voters select 3 candidates in order of preference; remaining 29 seats, referred to as the "national list" are allocated by each party secretary according to the island wide proportional vote the party obtains; members serve 5-year terms)<br>
-_elections_: last held on 5 August 2020 (next to be held in August 2025)<br>
+_elections_: last held on 5 August 2020 (next to be held on 14 November 2024)<br>
 _election results_: percent of vote by party/coalition - SLFPA 59.1%, SJB 23.9%, JVP 3.8%, TNA 2.8%, UNP 2.2%, TNPF 0.6%, EPDP 0.5%, other 7.1%; seats by party/coalition - SLFPA 145, SJB 54, TNA 10, JVP 3, other 13; composition- men 213, women 12, percentage women 5.3%<br>
 
 **Judicial branch**<br>
