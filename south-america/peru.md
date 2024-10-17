@@ -418,7 +418,7 @@ _selected World Heritage Site locales_: Cuzco (c); Machu Picchu (m); Chavin (c);
 ## Economy
 
 **Economic overview**<br>
-upper middle-income South American economy; hit hard by political instability and COVID-19 but rebounding quickly; second-largest cocaine producer; current account balance improving; persistent income inequality; diversified exporter<br>
+<p>upper-middle-income South American economy; strong post-COVID rebound tempered by political uncertainty and climate risks; exports driven by mineral extraction and agriculture; large informal sector and uneven access to public services; stable fiscal position and financial sector</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $517.644 billion (2023 est.)<br>

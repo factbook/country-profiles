@@ -594,7 +594,7 @@ Royal Bhutan Army (RBA; includes Royal Bodyguard of Bhutan, or RBG, and an air w
 estimated 7-8,000 active personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-India has provided most of the Royal Bhutan Army's equipment (2023)<br>
+the Royal Bhutan Army is lightly armed with a mix of mostly older equipment originating from such suppliers as India, the former Soviet Union, Thailand, and others (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; no conscription; militia training is compulsory for males aged 20-25, over a 3-year period  (2023)<br>

@@ -625,21 +625,21 @@ _paved_: 1,500 km (2020)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-National Defense Force of Burundi (Force de Defense Nationale du Burundi or FDNB): Land Force (Force Terrestre), the Navy Force (Force Marine), the Air Force (Force Aerienne) and Specialized Units (Unites Specialisees)<br><br>Ministry of Interior, Community Development, and Public Security: Burundi National Police (Police Nationale du Burundi) (2024)<br>
+National Defense Force of Burundi (Force de Defense Nationale du Burundi or FDNB): Land Force (la Force Terrestre), the Navy Force (la Force de la Marine), the Air Force (la Force Aérienne) and Specialized Units (des Unités Spécialisées)<br><br>Ministry of Interior, Community Development, and Public Security: Burundi National Police (Police Nationale du Burundi) (2024)<br>
 <strong>note 1:</strong> the Naval Force is responsible for monitoring Burundi’s 175-km shoreline on Lake Tanganyika; the Specialized Units include a special security brigade for the protection of institutions (aka BSPI), commandos, special forces, and military police<br><br><strong>note 2:</strong> in 2022, Burundi created a new reserve force (Force de réserve et d’appui au développement, FRAD); the FRAD's duties include organizing paramilitary trainings, supporting other components in protecting the integrity of the national territory, conceiving and implementing development projects, and operationalizing national and international partnerships<br>
 
 **Military expenditures**<br>
-2.3% of GDP (2022 est.)<br>
+3.7% of GDP (2023 est.)<br>
+2.8% of GDP (2022 est.)<br>
 2% of GDP (2021 est.)<br>
 2.1% of GDP (2020 est.)<br>
 3% of GDP (2019 est.)<br>
-2.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25-30,000 active-duty troops, the majority of which are ground forces (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military has a mix of mostly older weapons and equipment typically of French, Russian, and Soviet origin, and a smaller selection of more modern secondhand equipment from such countries as China, South Africa, and the US (2023)<br>
+the military has a mix of mostly older weapons and equipment typically of French, Russian, and Soviet origin, and a smaller selection of more modern secondhand equipment from such countries as China, South Africa, and the US (2024)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women (2023)<br>

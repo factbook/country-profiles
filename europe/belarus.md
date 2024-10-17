@@ -345,7 +345,6 @@ _election results_: <em><br>2020:</em> Alyaksandr LUKASHENKA reelected president
 _description_: bicameral National Assembly or Natsyyalny Skhod consists of:<br>Council of the Republic or Savet Respubliki (65 seats statutory, currently 58; 56 members indirectly elected by regional and Minsk city councils and 8 members appointed by the president; members serve 4-year terms)<br>House of Representatives or Palata Pradstawnikow (110 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms)<br>
 _elections_: Council of the Republic - indirect election last held on 4 April 2024 (next to be held in 2029)<br>House of Representatives - last held on 25 February 2024 (next to be held in 2028)<br>
 _election results_: Council of the Republic - percent of vote by party - NA; seats by party - independent 58, other 2; composition - men 42, women 16, percentage women 27.6%<br><br>House of Representatives - percent of vote by party - NA; seats by party - Belaya Rus 51, RPTS 8, CPB 7, LDPB 4, independent 40; composition - men 73, women 37, percentage women 33.6%; note - total National Assembly percentage women 31.5%<br>
-<strong>note:</strong> the US does not recognize the legitimacy of the National Assembly<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chairman and deputy chairman and organized into several specialized panels, including economic and military; number of judges set by the president of the republic and the court chairman); Constitutional Court (consists of 12 judges, including a chairman and deputy chairman)<br>
@@ -683,7 +682,7 @@ Belarus Armed Forces: Army, Air and Air Defense Force, Special Operations Force,
 approximately 45-50,000 active-duty troops; information on the individual services varies, but reportedly includes about 25-30,000 Army, 15,000 Air/Air Defense, and 5,000 Special Operations forces (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is comprised mostly of Russian/Soviet-origin equipment, and in recent years Russia has continued to be the leading provider of arms; Belarus's defense industry manufactures some equipment (mostly modernized Soviet designs), including vehicles, guided weapons, and electronic warfare systems (2023)<br>
+the military's inventory is comprised mostly of Russian/Soviet-origin equipment, and in recent years Russia has continued to be the leading provider of arms; Belarus's defense industry manufactures some equipment (mostly modernized Soviet designs), including vehicles, guided weapons, and electronic warfare systems (2024)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory military or alternative service; conscript service obligation is 12-18 months, depending on academic qualifications, and 24-36 months for alternative service, also depending on academic qualifications; 17-year-olds are eligible to become cadets at military higher education institutes, where they are classified as military personnel (2023)<br>

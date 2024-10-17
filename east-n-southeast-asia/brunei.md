@@ -614,8 +614,8 @@ _key ports_: Bandar Seri Begawan, Kuala Belait, Lumut, Muara Harbor, Seria Oil L
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Brunei Armed Forces: Land Force, Navy, Air Force, Joint Force<br><br>Ministry of Home Affairs: Royal Brunei Police Force (2024)<br>
-<strong>note: </strong>the Gurkha Reserve Unit (GRU) under the Ministry of Defense is a special guard force for the Sultan, the royal family, and the country’s oil installations<br>
+Royal Brunei Armed Forces (RBAF) or Angkatan Bersenjata Diraja Brunei (ABDB): Royal Brunei Land Force (RBLF) or Tentera Darat Diraja Brunei (TDDB), Royal Brunei Navy (RBN) or Tentera Laut Diraja Brunei (TLDB),<br>Royal Brunei Air Force (RBAirF) or Tentera Udara Diraja Brunei (TUDB)<br><br>Ministry of Home Affairs: Royal Brunei Police Force (RBPF) or Polis Diraja Brunei (PDB) (2024)<br>
+<strong>note: </strong>the Gurkha Reserve Unit (GRU) under the Ministry of Defense is a special guard force for the Sultan, the royal family, and the country’s oil installations; the RBAF has a Joint Force Headquarters (JFHQ) to oversee joint/combined operations of the service branches<br>
 
 **Military expenditures**<br>
 3% of GDP (2023 est.)<br>
@@ -625,10 +625,10 @@ Royal Brunei Armed Forces: Land Force, Navy, Air Force, Joint Force<br><br>Minis
 3.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 7,000 total active-duty troops (2023)<br>
+approximately 8,000 total active-duty troops (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's s inventory includes equipment and weapons systems from a wide variety of suppliers from Asia, Europe, and the US (2023)<br>
+the military's s inventory includes equipment and weapons systems from a wide variety of suppliers from Asia, Europe, and the US (2024)<br>
 
 **Military service age and obligation**<br>
 17 years of age for voluntary military service; non-Malays are ineligible to serve (2024)<br>

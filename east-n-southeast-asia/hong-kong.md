@@ -284,7 +284,7 @@ _election results_: <em><br>2022: </em>John LEE was the only candidate and won w
 <strong>note:</strong> electoral changes that Beijing imposed in March 2021 expanded the Election Committee to 1,500 members<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Council or LegCo (90 seats); 20 members directly elected in 2-seat constituencies, 30 indirectly elected by the approximately 220,000 members of various functional constituencies based on a variety of methods, and 50 indirectly elected by the 1,500-member Election Committee; members serve 4-year terms<br>
+_description_: unicameral Legislative Council or LegCo (90 seats); 20 members directly elected, 70 indirectly elected; members serve 4-year terms<br>
 _elections_: last held on 19 Dec 2021 (next to be held in 2025)<br>
 _election results_: percent of vote by bloc: pro-Beijing 93.8%, non-establishment 6.2%; seats by association/bloc/party - pro-Beijing 89 (DAB 19, HKFTU 8, BPA 7, NPP 5, LP 4, NTAS 4, HKFEW 2, HKFLU 2, CF 2, RT 1, PP 1, KWND 1, NPHK 1, NCF-1; other/independent 41), non-aligned 1 (Third Side); composition - men 73, women 17, percentage women 18.9%<br>
 <strong>note 1:</strong> all political candidates are evaluated by the Candidate Eligibility Review Committee (CERC), which was established in April 2022; CERC members are all appointed by the chief executive<br><br><strong>note 2:</strong> Hong Kong's leading pro-democracy political parties boycotted the 2021 election<br>

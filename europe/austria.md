@@ -300,7 +300,7 @@ _conventional long form_: Republic of Austria<br>
 _conventional short form_: Austria<br>
 _local long form_: Republik Oesterreich<br>
 _local short form_: Oesterreich<br>
-_etymology_: the name Oesterreich means "eastern realm" and dates to the 10th century; the designation refers to the fact that Austria was the easternmost extension of Bavaria, and, in fact, of all the Germans; the word Austria is a Latinization of the German name<br>
+_etymology_: the name Oesterreich means "eastern realm" and dates to the 10th century; the designation refers to the fact that Austria was the easternmost extension of both Bavaria and all German peoples; the word Austria is a Latinization of the German name<br>
 
 **Government type**<br>
 federal parliamentary republic<br>

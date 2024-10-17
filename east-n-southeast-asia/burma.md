@@ -692,7 +692,7 @@ _key ports_: Bassein, Mergui, Moulmein Harbor, Rangoon, Sittwe<br>
 
 **Military and security forces**<br>
 Burmese Defense Service (aka Armed Forces of Burma, Myanmar Army, Royal Armed Forces, the Tatmadaw, or the Sit-Tat): Army (Tatmadaw Kyi), Navy (Tatmadaw Yay), Air Force (Tatmadaw Lay); People’s Militia<br><br>Ministry of Home Affairs: Burma (People's) Police Force, Border Guard Forces/Police (2023)<br>
-<strong>note 1:</strong> under the 2008 constitution, the Tatmadaw controls appointments of senior officials to lead the Ministry of Defense, the Ministry of Border Affairs, and the Ministry of Home Affairs; in March 2022, a new law gave the commander-in-chief of the Tatmadaw the authority to appoint or remove the head of the police force<br><br><strong>note 2:</strong> the Burma Police Force is primarily responsible for internal security; the Border Guard Police is administratively part of the Burma Police Force but operationally distinct; both are under the Ministry of Home Affairs, which is led by an active-duty military general and itself subordinate to the military command<br>
+<strong>note 1:</strong>  under the 2008 constitution, the Tatmadaw was given control over the appointments of senior officials to lead the Ministry of Defense, the Ministry of Border Affairs, and the Ministry of Home Affairs; in March 2022, a new law gave the commander-in-chief of the Tatmadaw the authority to appoint or remove the head of the police force<br><br><strong>note 2:</strong> the Burma Police Force is primarily responsible for internal security; the Border Guard Police is administratively part of the Burma Police Force but operationally distinct; both are under the Ministry of Home Affairs, which is led by an active-duty military general and controlled by the military<br>
 
 **Military expenditures**<br>
 3.9% of GDP (2023 est.)<br>
@@ -702,10 +702,10 @@ Burmese Defense Service (aka Armed Forces of Burma, Myanmar Army, Royal Armed Fo
 4.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimates vary widely, from approximately 150,000 to as many as 400,000 active personnel (2023)<br>
+estimates vary widely, from approximately 150,000 to as many as 400,000 active military personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Burmese military inventory is comprised mostly of older Chinese and Russian/Soviet-era equipment with a smaller mix of more modern acquisitions from a variety of countries; in recent years, China and Russia have been the leading suppliers of military hardware; Burma has a limited defense industry, including a growing shipbuilding capability and some production of ground force equipment that is largely based on Chinese and Russian designs (2023)<br>
+the Burmese military inventory is comprised mostly of older Chinese and Russian/Soviet-era equipment with a smaller mix of more modern acquisitions from a variety of countries; in recent years, China and Russia have been the leading suppliers of military hardware; Burma has a limited defense industry, including some shipbuilding and production of ground force equipment that is largely based on Chinese and Russian designs (2024)<br>
 
 **Military service age and obligation**<br>
 18-35 years of age (men) and 18-27 years of age (women) for voluntary and conscripted military service; 24-month service obligation; conscripted professional men (ages 18-45) and women (ages 18-35), including doctors, engineers, and mechanics, serve up to 36 months; service terms may be extended to 60 months in an officially declared emergency (2024)<br>

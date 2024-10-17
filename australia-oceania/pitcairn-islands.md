@@ -152,7 +152,7 @@ _elections/appointments_: the monarchy is hereditary; governor and commissioner 
 _election results_: Simon YOUNG elected mayor and chairman of the Island Council; Island Council vote - NA<br>
 
 **Legislative branch**<br>
-_description_: unicameral Island Council: 10 seats; (7 members - 5 councilors, the mayor, and the deputy mayor - elected by popular vote, and 3 ex officio non-voting members - the administrator, who serves as both the head of government and the representative of the governor of Pitcairn Islands, the governor, and the deputy governor; the councilors and the deputy mayor serve 2-year terms, the mayor serves a 3-year term, and the administrator is appointed by the governor for an indefinite term)<br>
+_description_: direcunicameral Island Council: 10 seats; (7 members - 5 councilors, the mayor, and the deputy mayor - elected by popular vote, and 3 ex officio non-voting members - the administrator, who serves as both the head of government and the representative of the governor of Pitcairn Islands, the governor, and the deputy governor; the councilors and the deputy mayor serve 2-year terms, the mayor serves a 3-year term, and the administrator is appointed by the governor for an indefinite term)<br>
 _elections_: last held on 6 November 2019 (next to be held in - NA)<br>
 _election results_: percent of vote - NA; seats - independent 5; composition - men 4, women 6, percent of women 60%<br>
 

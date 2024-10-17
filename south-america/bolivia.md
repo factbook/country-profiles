@@ -697,7 +697,7 @@ Bolivian Armed Forces (Fuerzas Armadas de Bolivia or FAB): Bolivian Army (Ejerci
 approximately 40,000 active-duty military personnel; approximately 40,000 National Police (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military is equipped with a mix of mostly older Brazilian, Chinese, European, and US equipment; in recent years, France has been the leading supplier (2023)<br>
+the military is equipped with a mix of mostly older Brazilian, Chinese, European, and US equipment (2024)<br>
 
 **Military service age and obligation**<br>
 compulsory for all men between the ages of 18 and 22; men can volunteer from the age of 16, women from 18; service is for 12 months; Search and Rescue service can be substituted for citizens who have reached the age of compulsory military service; duration of this service is 24 months (2024)<br>

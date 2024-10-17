@@ -323,8 +323,8 @@ _residency requirement for naturalization_: 3 to 7 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Gudni Thorlacius JOHANNESSON (since 1 August 2016)<br>
-_head of government_: Prime Minister Halla TOMASDOTTIR (since 1 August 2024)<br>
+_chief of state_: President Halla TOMASDOTTIR (since 1 August 2024)<br>
+_head of government_: Prime Minister Bjarni BENEDIKTSSON (since 9 April 2024)<br>
 _cabinet_: Cabinet appointed by the president upon the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 4-year term (no term limits); election last held on 1 June 2024 (next to be held in June 2028); following legislative elections, the leader of the majority party or majority coalition becomes prime minister<br>
 _election results_: <em><br>2024:</em> percent of vote - Halla TOMASDOTTIR (independent) 34.1%, Katrin JAKOBSDOTTIR (Left-Green Movement) 25.2%, Halla Hrund LOGADOTTIR (independent) 15.7%, Jon GNARR (Social Democratic Alliance) 10.1%, Baldur PORHALLSSON (independent) 8.4%, other 6.5%<em><br><br>2020: </em>Gudni Thorlacius JOHANNESSON reelected president; percent of vote - Gudni Thorlacius JOHANNESSON (independent) 92.2%, Gudmundur Franklin JONSSON (independent) 7.8%<br><br><em>2016: </em>Gudni Thorlacius JOHANNESSON elected president; Gudni Thorlacius JOHANNESSON (independent) 39.1%, Halla TOMASDOTTIR (independent) 27.9%, Andri Snær MAGNASON (Democracy Movement) 14.3%, David ODDSSON (independent) 13.7%, other 5%<br>

@@ -389,7 +389,7 @@ _email address and website_: <br>contact.washington@itamaraty.gov.br <br><br>ht
 _consulate(s) general_: Atlanta, Boston, Chicago, Hartford (CT), Houston, Los Angeles, Miami, New York, Orlando, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Elizabeth Frawley BAGLEY (since 5 February 2023)<br>
+_chief of mission_: Ambassador Elizabeth Frawley BAGLEY (since 3 February 2023)<br>
 _embassy_: SES - Avenida das Na&ccedil;&otilde;es, Quadra 801, Lote 3, 70403-900 - Bras&iacute;lia, DF<br>
 _mailing address_: 7500 Brasilia Place, Washington DC&nbsp; 20521-7500<br>
 _telephone_: [55] (61) 3312-7000<br>
@@ -417,7 +417,7 @@ _selected World Heritage Site locales_: Brasilia (c); Historic Salvador de Bahia
 ## Economy
 
 **Economic overview**<br>
-industrial-led economic growth model; recovering from 2014-2016 recession when COVID-19 hit; industry limited by Amazon rainforest but increasing deforestation; new macroeconomic structural reforms; high income inequality; left UNASUR to join PROSUR<br>
+<p>upper-middle income, largest Latin American economy; Mercosur, BRICS, G20 member and OECD accession candidate; growth driven by strong domestic consumption; tax simplification reforms aimed at addressing business conditions and lagging productivity; high inequality in income and access to health and education</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $4.016 trillion (2023 est.)<br>

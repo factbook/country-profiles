@@ -344,7 +344,7 @@ Grenada dove, bougainvillea flower; national colors: red, yellow, green<br>
 **National anthem**<br>
 _name_: "Hail Grenada"<br>
 _lyrics/music_: Irva Merle BAPTISTE/Louis Arnold MASANTO<br>
-<strong>note:</strong> adopted 1974<br>
+<strong>note:</strong> adopted 1974; as a Commonwealth country, in addition to the national anthem, "God Save the King" serves as the royal anthem (see United Kingdom)<br>
 
 ## Economy
 

@@ -362,7 +362,7 @@ _election results_: <em><br>2024: </em>Mahamat Idriss DÉBY elected president; p
 _description_: bicameral Parliament to replace unicameral National Assembly and to consist of:<br>Senate - representing the Autonomous Communities - NA seats (members indirectly elected by electoral college of provincial and communal councilors for 6-year renewable terms)<br>National Assembly NA seats (members directly elected by popular vote to serve 5-year renewable terms)<br>
 _elections_: last held for National Assembly on 6 May 2011 (first elections for new Parliament expected in October 2024)<br>
 _election results_: 6 May 2011:&nbsp; percent of vote by party - NA; seats by party - NA; composition - men 64, women 29, percent of women 31.2%<br>
-<strong>Note:</strong>  the Transitional Military Council, which dissolved the National Assembly in September 2021, was replaced by the National Transitional Council (CNT) in October 2022; the CNT, led by Prime Minister Allamaye HALINA, serves as an interim parliament for the country in its transition to democracy and tasked with preparations for elections, which are expected in October 2024<br>
+<strong>note:</strong>  the Transitional Military Council, which dissolved the National Assembly in September 2021, was replaced by the National Transitional Council (CNT) in October 2022; the CNT, led by Prime Minister Allamaye HALINA, serves as an interim parliament for the country in its transition to democracy and tasked with preparations for elections, which are expected in October 2024<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice, 3 chamber presidents, and 12 judges or councilors and divided into 3 chambers); Supreme Council of the Judiciary (consists of the Judiciary president, vice president and 13 members)<br>
@@ -652,10 +652,10 @@ Chadian National Army (Armee Nationale du Tchad, ANT): Land Forces (l'Armee de T
 limited and varied information; estimated to have up to 40,000 active ANT personnel (approximately 30-35,000 Ground Forces, 5,000 GDSSIE, and a few hundred Air Force); approximately 5,000 National Gendarmerie; approximately 3,000 Nomadic Guard (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the ANT is mostly armed with older or secondhand equipment from Belgium, France, Russia, and the former Soviet Union; in recent years it has received equipment, including donations, from other countries, including China, Turkey, and the US (2023)<br>
+the ANT is mostly armed with older or secondhand equipment from Belgium, France, Italy, Russia, the former Soviet Union, and Switzerland; in recent years it has received equipment, including donations, from other countries including China, Turkey, and the US (2023)<br>
 
 **Military service age and obligation**<br>
-20 is the legal minimum age for compulsory military service for men with an 18-36 month service obligation (information varies); women are subject to 12 months of compulsory military or civic service at age 21; 18-35 for voluntary service; soldiers released from active duty are in the reserves until the age of 50 (2023)<br>
+20 is the legal minimum age for compulsory military service for men with an 18-36 month service obligation (information varies); women are subject to 12 months of compulsory military or civic service at age 21; 18-35 for voluntary service (18-25 for officer recruits); soldiers released from active duty are in the reserves until the age of 50 (2023)<br>
 
 **Military deployments**<br>
 Chad has committed approximately 1,000-1,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own territories, although cross‐border operations are conducted periodically (2024)<br>

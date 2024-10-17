@@ -349,9 +349,8 @@ _election results_: <em><br>2019:</em> Volodymyr ZELENSKYY elected president in 
 
 **Legislative branch**<br>
 _description_: unicameral Supreme Council or Verkhovna Rada (450 seats; 225 members directly elected in single-seat constituencies by simple majority vote and 225 directly elected in a single nationwide constituency by closed, party-list proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 21 July 2019 (next to be held on 29 October 2023)<br>
+_elections_: last held on 21 July 2019 (the next parliamentary election will take place after the end of the Russo-Ukrainian War)<br>
 _election results_: percent of vote by party - Servant of the People 43.2%, Opposition Platform-For Life 13.1%, Batkivshchyna 8.2%, European Solidarity 8.1%, Voice 5.8%, other 21.6%; Servant of the People 254, Opposition Platform for Life 43, Batkivshchyna 26, European Solidarity 25, Voice 20, Opposition Bloc 6, Svoboda 1, Self Reliance 1, United Centre 1, Bila Tserkva Together 1, independent 46; note - voting not held in Crimea and parts of two Russian-occupied eastern oblasts leaving 26 seats vacant; although this brings the total to 424 elected members (of 450 potential), article 83 of the constitution mandates that a parliamentary majority consists of 226 seats<br>
-<strong>note:</strong> Legislative and presidential elections cannot be held under martial law.;the Verkhovna Rada declared martial law in February 2022 following Russia's full-scale invasion<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Ukraine or SCU (consists of 100 judges, organized into civil, criminal, commercial and administrative chambers, and a grand chamber); Constitutional Court (consists of 18 justices); High Anti-Corruption Court (consists of 39 judges, including 12 in the Appeals Chamber)<br>

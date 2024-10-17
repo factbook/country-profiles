@@ -657,13 +657,13 @@ Botswana Defense Force (BDF): Ground Forces Command, Air Arm Command, Defense Lo
 2.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 9,000 active BDF personnel (2023)<br>
+approximately 10,000 active BDF personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the BDF has a mix of mostly older weapons and equipment, largely of Western/European-origin; in recent years, it has received limited amounts of material from several European countries and the US (2023)<br>
+the BDF has a mix of mostly older weapons and equipment, largely of Western/European origin; in recent years, it has received limited amounts of material from several European countries and the US (2024)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service for men and women; no conscription (2023)<br>
+18 is the legal minimum age for voluntary military service for men and women; no conscription (2024)<br>
 
 **Military - note**<br>
 the BDF’s key functions include defending the country's territorial integrity on land and in the air, ensuring national security and stability, and aiding civil authorities in support of domestic missions such as disaster relief and anti-poaching; it participates in regional and international security operations<br><br>Bechuanaland/Botswana did not have a permanent military during colonial times, with the British colonial administrators relying instead on small, lightly armed constabularies such as the Bechuanaland Mounted Police, the Bechuanaland Border Police, and by the early 1960s, the Police Mobile Unit (PMU); after independence in 1966, Botswana militarized the PMU and gave it responsibility for the country’s defense rather than create a conventional military force; however, turmoil in neighboring countries and numerous cross-border incursions by Rhodesian and South African security forces in the 1960s and 1970s demonstrated that the PMU was inadequate for defending the country and led to the establishment of the Botswana Defense Force (BDF) in 1977 (2024)<br>

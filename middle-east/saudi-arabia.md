@@ -337,7 +337,6 @@ _elections/appointments_: none; the monarchy is hereditary; an Allegiance Counci
 **Legislative branch**<br>
 _description_: unicameral Shura Council (Majlis Ash-Shura) (150 seats plus a speaker; members appointed by the monarch to serve 4-year terms); note - in early 2013, the monarch granted women 30 seats on the Council<br>
 _election results_: composition - men 121, women 30, percentage women 19.9%<br>
-<strong>note:</strong> composition as of 2021 - men 121, women 30, percent of women 19.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: High Court (consists of the court chief and organized into circuits with 3-judge panels, except for the criminal circuit, which has a 5-judge panel for cases involving major punishments)<br>

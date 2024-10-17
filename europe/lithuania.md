@@ -339,8 +339,8 @@ _election results_: <em><br>2024: </em>Gitanas NAUSEDA elected president in the 
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Seimas (141 seats; 71 members directly elected in single-seat constituencies by absolute majority vote and 70 directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 11 and 25 October 2020 (next to be held on 13 October 2024)<br>
-_election results_: percent of vote by party - NA; seats by party - TS-LKD 50, LVZS 32, LSDP 13, LRLS 13, LP 11, DP 10, LLRA-KSS 3, LSDDP 3, LT 1, LZP 1, independent 4; composition - men 99, women 41, percentage women 29.3%<br>
+_elections_: last held on 13 October 2024 first round (next to be held on 27 October 2024 - second round)<br>
+_election results_: preliminary first-round results percent of vote by party - LSDP 19.4%, TS-LKD 18%, NA 15%, DSVL 9.2%, LRLS 7.7%, LVZS 7%, LLRA-KSS 6%; seats by party - LSDP 20, TS-LKD 18, NA 15, DSVL 8, LRLS 8, LVZS 6, LLRA-KSS 2, Independents 1<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 37 judges); Constitutional Court (consists of 9 judges)<br>

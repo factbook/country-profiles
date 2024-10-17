@@ -649,8 +649,8 @@ Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includ
 estimates vary; up to 15,000 FACA troops; estimated 15-20,000 Gendarmerie and National Police (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-most of the military's heavy weapons and equipment were destroyed or captured during the 2012–2014 civil war; prior to the war, most of its equipment was of French, Russian, or Soviet origin; in recent years, it has received some secondhand equipment from China and Russia, including light weapons, as well as some armored vehicles, unmanned aerial vehicles, and helicopters (2023)<br>
-<strong>note:</strong> since 2013, CAR has been under a UNSC arms embargo; the embargo bans all supplies of arms and related materiel to the country except to the CAR security forces if approved in advance by the relevant UN Sanctions Committee; in 2023, UNSC took a step towards relaxing the arms embargo by granting permission for weaponry to be supplied to government forces<br>
+most of the military's heavy weapons and equipment were destroyed or captured during the 2012–2014 civil war; prior to the war, most of its equipment was of French, Russian, or Soviet origin; in recent years, it has received some secondhand equipment from China and Russia, including light weapons, as well as some armored vehicles, unmanned aerial vehicles, and helicopters (2024)<br>
+<strong>note:</strong> the CAR was under a UNSC arms embargo from 2013-July 2024<br>
 
 **Military service age and obligation**<br>
 18 years of age for military service; no conscription although the constitution provides for the possibility of conscription in the event of an imminent threat to the country (2023)<br>

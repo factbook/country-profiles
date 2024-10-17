@@ -308,9 +308,10 @@ _election results_: <em><br>2023: </em>Hilda C. HEINE elected president; Nationa
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Parliament or Nitijela (33 seats; members in 19 single- and 5 multi-seat constituencies directly elected by simple majority vote to serve 4-year terms); note - the Council of Iroij, a 12-member group of tribal leaders advises the Presidential Cabinet and reviews legislation affecting customary law or any traditional practice); members appointed to serve 1-year terms<br>
+_description_: unicameral National Parliament or Nitijela (33 seats; members in 19 single- and 5 multi-seat constituencies directly elected by simple majority vote to serve 4-year terms)<br>
 _elections_: last held on 20 November 2023 (next to be held in November 2027)<br>
 _election results_: percent of vote by party - NA; seats by part - independent 33; composition - men 29, women 4, percent of women 12.1%<br>
+<strong>note:</strong> the Council of Iroij is a 12-member consultative group of tribal leaders that advises the Presidential Cabinet and reviews legislation affecting customary law or any traditional practice <br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 2 associate justices)<br>

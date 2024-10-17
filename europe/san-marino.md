@@ -279,7 +279,7 @@ _residency requirement for naturalization_: 30 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: co-chiefs of state Captains Regent Alessandro ROSSI and Milena GASPERONI (for the period 1 April 2024 - 30 September 2024)<br>
+_chief of state_: co-chiefs of state Captains Regent Francesca CIVERCHIA and Dalibor RICCARDI (for the period 1 October 2024 - 30 March 2025)<br>
 _head of government_: Secretary of State for Foreign and Political Affairs Luca BECCARI (since 8 January 2020)<br>
 _cabinet_: Congress of State elected by the Grand and General Council<br>
 _elections/appointments_: co-chiefs of state (captains regent) indirectly elected by the Grand and General Council for a single 6-month term; election last held in March 2024 (next to be held in September 2024; Secretary of State for Foreign and Political Affairs indirectly elected by the Grand and General Council for a single 5-year term; election last held on 28 December 2019 (next to be held by November 2024)<br>

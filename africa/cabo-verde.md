@@ -633,13 +633,13 @@ Cabo Verdean Armed Forces (FACV): National Guard (GN; serves as the army and inc
 the military has approximately 1,000-1,200 personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FACV has a limited amount of mostly dated and second-hand equipment, largely from China, some European countries, and the former Soviet Union (2023)<br>
+the FACV has a limited amount of mostly dated or second-hand equipment, largely from China, some European countries, and the former Soviet Union (2024)<br>
 
 **Military service age and obligation**<br>
 18-35 years of age for male and female selective compulsory military service; 24-month conscript service obligation; 17 years of age for voluntary service (with parental consent) (2024)<br>
 
 **Military - note**<br>
-the FACV/National Guard is organized into three small territorial commands; its missions are defense of the country and supporting internal security; forces include marines, military police, artillery, and support forces; the Coast Guard's key missions include patrolling, monitoring, and protecting Cabo Verde's territorial waters; it also conducts search and rescue and provides support to the National Guard; the Coast Guard is equipped with a few coastal patrol craft and patrol boats (2024)<br>
+the FACV is responsible for territorial defense; it also has an internal security role in collaboration with the police if required; its duties include monitoring and patrolling the country's air and maritime spaces, participating in training exercises, conducting search and rescue, countering narcotics and other forms of illicit trafficking, and supporting the police and civil society (2024)<br>
 
 ## Transnational Issues
 
