@@ -474,7 +474,7 @@ _key ports_: Avatiu<br>
 no regular military forces; Cook Islands Police Service<br>
 
 **Military - note**<br>
-defense is the responsibility of New Zealand in consultation with the Cook Islands and at its request<br><br>the Cook Islands have a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within its designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2023)<br>
+defense is the responsibility of New Zealand in consultation with the Cook Islands and at its request<br><br>the Cook Islands have a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within its designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>
 
 ## Transnational Issues
 

@@ -693,10 +693,10 @@ the armed forces have a mix of weapons systems from European countries, Israel, 
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; conscription abolished in 1995 (2024)<br>
-<strong>note 1:</strong> in 2023, women comprised nearly 11% of the military's full-time personnel<br><br><strong>note 2:</strong> foreign nationals 18-34 years of age who speak Dutch or French and are citizens of EU countries, Iceland, Lichtenstein, Norway, and Switzerland may apply to join the military<br>
+<strong>note 1:</strong> in 2024, women comprised about 11% of the military's full-time personnel<br><br><strong>note 2:</strong> foreign nationals 18-34 years of age who speak Dutch or French and are citizens of EU countries, Iceland, Lichtenstein, Norway, and Switzerland may apply to join the military<br>
 
 **Military deployments**<br>
-100 Middle East; Belgium has more than 300 ground forces deployed in Eastern Europe, as well as air and naval assets, supporting NATO missions for the defense of NATO's eastern flank (numbers vary based on the mission) (2024)<br>
+has about 1,000 personnel deployed on foreign missions, including more than 300 ground forces deployed in Eastern Europe, as well as air and naval assets, supporting NATO missions for the defense of NATO's eastern flank (2024)<br>
 
 **Military - note**<br>
 the Belgian military is a small, all-volunteer force equipped with modern Western equipment; its responsibilities include territorial defense, humanitarian/disaster relief, assistance to the police if required, international peacekeeping missions, and support to its NATO and EU security commitments, which Belgium considers vital components of its national security policy; outside of the country, the military operates almost always within an international organization or a coalition, such as its ongoing deployments to Africa for the EU and UN, eastern Europe as part of NATO&rsquo;s Enhanced Forward Presence mission, and the Middle East with an international coalition to combat the Islamic State of Iraq and ash-Sham; Belgium was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) establishing NATO in 1949; it hosts the NATO headquarters in Brussels; Belgium also cooperates with neighboring countries, such as Luxembourg and the Netherlands, in conducting joint patrols of their respective air spaces and in a composite combined special operations command with Denmark and the Netherlands (2024)<br>

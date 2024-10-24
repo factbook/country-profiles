@@ -668,10 +668,10 @@ Irish Defense Forces (Oglaigh na h-Eireannn): Army, Air Corps, Naval Service, Re
 0.3% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 8,000 active-duty personnel (2023)<br>
+approximately 7,500 active-duty personnel (authorized establishment of 9,500)&nbsp; (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Irish Defense Forces have a small inventory of imported weapons systems from a variety of mostly European countries, particularly the UK (2023)<br>
+the Irish Defense Forces have a small inventory of imported weapons systems from a variety of mostly European countries, particularly the UK (2024)<br>
 
 **Military service age and obligation**<br>
 18 years of age for men and women for voluntary military service; 12-year service (5 active, 7 reserves) (2024)<br>

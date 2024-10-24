@@ -368,7 +368,7 @@ Act Together<br>African Democratic Rally/Alliance for Democracy and Federation o
 ACP, AfDB, AU (suspended), CD, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNITAR, UNMISS, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Jean-Baptiste GAGRE (since 31 July 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Edouard BOUDA (since 1 February 2024)<br>
 _chancery_: 2340 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 332-5577<br>
 _FAX_: [1] (202) 667-1882<br>

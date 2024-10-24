@@ -335,7 +335,7 @@ _election results_: <em><br>2023: </em>Edgars RINKEVICS elected president in the
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Saeima (100 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 1 October 2012 (next to be held no later than 3 October 2026)<br>
+_elections_: last held on 1 October 2022 (next to be held no later than 3 October 2026)<br>
 _election results_: percent of vote by party - JV 19.2%, ZZS 12.6%, AS 11.1%, NA 9.4%, S! 6.9%, LPV 6.3%, PRO 6.2%; seats by party - JV 26, ZZS 16, AS 15, NA 13, S! 11, LPV 9, PRO 10; composition- men 68, women 32, percentage women 32%<br>
 
 **Judicial branch**<br>

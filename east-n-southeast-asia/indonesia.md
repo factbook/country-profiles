@@ -355,8 +355,8 @@ _residency requirement for naturalization_: 5 continuous years<br>
 17 years of age; universal; married persons regardless of age<br>
 
 **Executive branch**<br>
-_chief of state_: President Joko "Jokowi" WIDODO (since 20 October 2014)<br>
-_head of government_: President Joko "Jokowi" WIDODO (since 20 October 2014)<br>
+_chief of state_: President PRABOWO Subianto Djojohadikusumo (since 20 October 2024)<br>
+_head of government_: President PRABOWO Subianto Djojohadikusumo (since 20 October 2024)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president and vice president directly elected by absolute majority popular vote for a 5-year term (eligible for a second term); election last held on 14 February 2024 (next to be held in 2029)<br>
 _election results_: <em><br>2024: </em>PRABOWO Subianto elected president (assumes office 20 October 2024); percent of vote - PRABOWO Subianto (GERINDRA) 58.6%, Anies Rasyid BASWEDAN (Independent) 24.9%, GANJAR Pranowo (PDI-P) 16.5%<em><br><br>2019:</em> Joko WIDODO reelected president; percent of vote - Joko WIDODO (PDI-P) 55.5%, PRABOWO Subianto Djojohadikusumo (GERINDRA) 44.5%<br>
@@ -704,7 +704,7 @@ _key ports_: Belawan, Cilacap, Dumai, Jakarta, Kasim Terminal, Merak Mas Termina
 
 **Military and security forces**<br>
 Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-Angkatan Darat (TNI-AD)), Navy (TNI-Angkatan Laut (TNI-AL); includes Marine Corps (Korps Marinir or KorMar)), Air Force (TNI-Angkatan Udara (TNI-AU)) (2024)<br>
-<strong>note 1:</strong> in 2014, Indonesia created a Maritime Security Agency (Bakamla) to coordinate the actions of all maritime security agencies, including the Navy, the Indonesian Sea and Coast Guard (Kesatuan Penjagaan Laut dan Pantai, KPLP), the Water Police (Polair), Customs (Bea Cukai), and Ministry of Marine Affairs and Fisheries<br><br><strong>note 2: </strong>the Indonesian National Police, which reports directly to the president, includes a paramilitary Mobile Brigade Corps (BRIMOB); following the Bali terror bombing in 2002, the National Police formed a special counterterrorism force called Detachment 88 (Densus or Detasemen Khusus 88 Antiteror); Detachment 88 often works with the TNI's Joint Special Operations Command, which has counterterrorism and counterinsurgency units; the National Police are also bolstered by the KAMRA "People's Security" police auxiliaries<br>
+<strong>note 1:</strong> in 2014, Indonesia created a Maritime Security Agency (Bakamla) to coordinate the actions of all maritime security agencies, including the Navy, the Indonesian Sea and Coast Guard (Kesatuan Penjagaan Laut dan Pantai, KPLP), the Water Police (Polair), Customs (Bea Cukai), and Ministry of Marine Affairs and Fisheries<br><br><strong>note 2: </strong>the Indonesian National Police, which reports directly to the president, includes a paramilitary Mobile Brigade Corps (BRIMOB) and Detachment 88 (Densus or Detasemen Khusus 88 Antiteror), a specialized counterterrorism force<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2023 est.)<br>
@@ -717,7 +717,7 @@ Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-An
 approximately 400,000 active-duty troops (300,000 Army; 60,000 Navy, including about 20,000 marines; 30,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is a wide mix of Chinese, Russian, and Western (including US) equipment; in recent years, the top suppliers have included China, France, Germany, the Netherlands, South Korea, and the US; the TNI has been engaged in a modernization program for more than a decade; Indonesia has a growing defense industry fueled by technology transfers and cooperation agreements with several countries; in 2019, the Indonesian Government said that growing its domestic defense industry would be a national priority over the following decade (2023)<br>
+the military's inventory is a wide mix of Chinese, Russian, and Western (including US) equipment; in recent years, major suppliers have included China, France, Germany, the Netherlands, South Korea, and the US; the TNI has been engaged in a modernization program for more than a decade; Indonesia has a growing defense industry fueled by technology transfers and cooperation agreements with several countries; in 2019, the Indonesian Government said that growing its domestic defense industry would be a national priority over the following decade (2024)<br>
 
 **Military service age and obligation**<br>
 18-45 years of age for voluntary military service for men and women, with selective conscription authorized (men, age 18), but not utilized; 24-month service obligation, with reserve obligation to age 45 (officers) (2024)<br>

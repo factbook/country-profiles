@@ -346,7 +346,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Paul KAGAME (since 22 April 2000)<br>
 _head of government_: Prime Minister Edouard NGIRENTE (since 30 August 2017)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (eligible for a second term); note - a constitutional amendment approved in December 2016 reduced the presidential term from 7 to 5 years but included an exception that allowed President KAGAME to serve another 7-year term in 2017, potentially followed by two additional 5-year terms; election last held on 4 August 2017 (next to be held on 15 July 2024); prime minister appointed by the president<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (eligible for a second term); note - a constitutional amendment approved in December 2016 reduced the presidential term from 7 to 5 years but included an exception that allowed President KAGAME to serve another 7-year term in 2017, potentially followed by two additional 5-year terms; election last held on 4 August 2017 (next to be held on 15 July 2029); prime minister appointed by the president<br>
 _election results_: <em><br>2024: </em>Paul KAGAME reelected president; Paul KAGAME (RPF) 99.2%, Frank HABINEZA (DGPR) 0.50%, Philippe MPAYIMANA (independent) 0.32%<br><br><em>2017:</em> Paul KAGAME reelected president; Paul KAGAME (RPF) 98.8%, Philippe MPAYIMANA (independent), other 1.2%<br><br> <p> </p><br>
 
 **Legislative branch**<br>

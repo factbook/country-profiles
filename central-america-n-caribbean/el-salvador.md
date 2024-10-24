@@ -672,7 +672,7 @@ the Armed Force of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of 
 approximately 25,000 active military personnel (21,000 Army; 2,000 Navy; 2,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAES has a mix of mostly older imported platforms, largely from the US (2023)<br>
+the FAES is lightly armed with an inventory of mostly older imported arms and equipment, largely from the US&nbsp; (2023)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for selective compulsory military service; 16-22 years of age for voluntary military service for men and women; service obligation is 12 months, with 11 months for officers and non-commissioned officers (2023)<br>

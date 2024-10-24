@@ -670,8 +670,8 @@ _key ports_: Djeno Terminal, Dussafu Terminal, N'kossa Terminal, Pointe Noire, Y
 ## Military and Security
 
 **Military and security forces**<br>
-Congolese Armed Forces (Forces Armees Congolaises, FAC): Army, Navy, Congolese Air Force, National Gendarmerie (2023)<br>
-<strong>note:</strong> the National Gendarmerie is a paramilitary force with domestic law enforcement and security responsibilities; it is under the Ministry of Defense, but also reports to the Ministry of Interior; the Ministry of Interior also controls the National Police<br>
+Congolese Armed Forces (Forces Armees Congolaises, FAC): Army, Navy, Congolese Air Force, National Gendarmerie<br><br>Ministry of Interior: National Police (2024)<br>
+<strong>note:</strong> the National Gendarmerie (GN) is a paramilitary force with domestic law enforcement and security responsibilities; it is under the Ministry of Defense, but also reports to the Ministry of Interior; the GN nominally includes the Republican Guard (GR), which is responsible for presidential security and has a separate command structure<br>
 
 **Military expenditures**<br>
 2% of GDP (2023 est.)<br>
@@ -681,10 +681,10 @@ Congolese Armed Forces (Forces Armees Congolaises, FAC): Army, Navy, Congolese A
 2.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 12,000 active-duty troops (including 2,000 Gendarmerie) (2023)<br>
+approximately 14,000 active-duty troops (including about 4,000 Gendarmerie) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAC has mostly Soviet-era armaments, with a small mix of French and South African equipment (2023)<br>
+the FAC has mostly Soviet-era armaments, with a small mix of Chinese, French, and South African equipment (2024)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; conscription ended in 1969 (2022)<br>

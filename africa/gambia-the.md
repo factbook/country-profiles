@@ -638,8 +638,8 @@ _key ports_: Banjul<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Gambian Armed Forces (GAF; aka Armed Forces of the Gambia): the Gambian National Army (GNA), Gambia Navy, Gambia Air Force, Republican National Guard (2024)<br>
-<strong>note: </strong>the National Guard is responsible for VIP protection, riot control, and presidential security; the Gambia Police Force under the Ministry of Interior maintains internal security<br>
+Gambian Armed Forces (GAF; aka Armed Forces of the Gambia): the Gambian National Army (GNA), Gambia Navy, Gambia Air Force, Republican National Guard (RNG)<br><br>Ministry of Interior: Gambia Police Force (GPF) (2024)<br>
+<strong>note: </strong>the RNG is responsible for VIP protection, riot control, and presidential security, while the GPF maintains internal security<br>
 
 **Military expenditures**<br>
 0.6% of GDP (2023 est.)<br>
@@ -652,7 +652,7 @@ Gambian Armed Forces (GAF; aka Armed Forces of the Gambia): the Gambian National
 estimated 3,000 military personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the GAF has a limited and obsolescent or secondhand equipment inventory originating from several suppliers, including China, Turkey, the UK, and the US (2023)<br>
+the military of Gambia has a limited inventory of mostly older or donated equipment originating from several suppliers, including China, Turkey, the UK, and the US&nbsp; (2023)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for male and female voluntary military service (18-22 for officers); no conscription; service obligation six months (2024)<br>

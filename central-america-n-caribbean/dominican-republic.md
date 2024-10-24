@@ -683,7 +683,7 @@ Armed Forces of the Dominican Republic: Army of the Dominican Republic (Ejercito
 information varies; approximately 60,000 active personnel (30,000 Army; 13,000 Navy; 17,000 Air Force); approximately 35,000 National Police (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military is lightly armed with an inventory consisting mostly of older US equipment (2023)<br>
+the military's equipment inventory comes largely from the US, with smaller quantities from such suppliers as Brazil and Spain&nbsp; (2024)<br>
 
 **Military service age and obligation**<br>
 16-23 years of age for voluntary military service for men and women (ages vary slightly according to the military service; under 18 admitted with permission of parents); recruits must have completed primary school and be Dominican Republic citizens (2024)<br>

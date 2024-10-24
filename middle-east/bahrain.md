@@ -645,7 +645,7 @@ Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Roy
 information varies; approximately 10,000 active personnel (7,500 Army; 1,000 Navy; 1,500 Air Force); approximately 3,000 National Guard (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of a mix of equipment acquired from a wide variety of suppliers; in recent years, the US has been the leading supplier of arms to Bahrain (2023)<br>
+the military's inventory consists of a mix of equipment acquired from a wide variety of suppliers; in recent years, the US has been the leading supplier of arms to Bahrain (2024)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; 18-55 to voluntarily join the reserves; no compulsory service (2024)<br>

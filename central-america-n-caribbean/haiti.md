@@ -630,6 +630,9 @@ the Haitian Armed Forces (FAdH): Army<br><br>Ministry of Justice and Public Secu
 **Military and security service personnel strengths**<br>
 up to 2,000 trained military troops (the force is planned to eventually have around 5,000 personnel); estimates for the National Police range from a low of 9,000 to a high of about 13,000 (2023)<br>
 
+**Military equipment inventories and acquisitions**<br>
+in recent years, Canada, Taiwan, the US, and the UAE have provide some equipment to the Haitian security forces, including vehicles (2024)<br>
+
 **Military service age and obligation**<br>
 men and women 18-25 may volunteer for the FAdH (2023)<br>
 

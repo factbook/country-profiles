@@ -643,7 +643,7 @@ Belize Defense Force (BDF): Army, Air Wing; Belize Coast Guard; Belize Police De
 approximately 1,500 BDF personnel; approximately 500 Coast Guard (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military has a small inventory consisting mostly of UK- and US-origin equipment (2023)<br>
+the military has a light inventory consisting mostly of UK- and US-origin equipment (2024)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; laws allow for conscription only if volunteers are insufficient, but conscription has never been implemented; initial service obligation is 12 years (2024)<br>

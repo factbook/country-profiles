@@ -631,8 +631,8 @@ _key ports_: Falmouth, Kingston, Lucea, Montego Bay, Ocho Rios, Port Antonio, Po
 ## Military and Security
 
 **Military and security forces**<br>
-Jamaica Defense Force (JDF): Jamaica Regiment (Ground Forces), Maritime-Air-Cyber Command (includes Coast Guard, Air Wing, Military Intelligence Unit, Special Activities Regiment, and Military Cyber Corps), Support Brigade (logistics, engineers, health service, and military police); Jamaica National Service Corps (JNSC); Jamaica Constabulary Force (JCF) (2024)<br>
-<strong>note 1:</strong> the JCF is the country’s police force; it has primary responsibility for internal security and has units for community policing, special response, intelligence gathering, and internal affairs; both it and the JDF are under the Ministry of National Security <br><strong><br>note 2: </strong>the JNSC is a third category of service that military recruits can join as a preparatory phase for future careers; JNSC soldiers receive basic military, vocational, and life skills training; upon completion of 12 months of service, soldiers can continue on with the JDF or the JDF reserves or seek opportunities in other public sector entities such as the JCF, the Department of Correctional Services, the Jamaica Fire Brigade, the Jamaica Customs Agency, or the Passport Immigration and Citizenship Agency<br>
+Jamaica Defense Force (JDF): Ground Forces (Jamaica Regiment), Air Wing, Coast Guard; Jamaica Constabulary Force (JCF); Jamaica National Service Corps (JNSC) (2024)<br>
+<strong>note 1: </strong>the Coast Guard and Air Wing are operationally combined under the joint Military-Air-Cyber Command, along with the Military Cyber Corps, Special Activities Regiment, Support Brigade, and Military Intelligence Unit<br><br><strong>note 2:</strong> the JCF is the country’s police force; it has primary responsibility for internal security and has units for community policing, special response, intelligence gathering, and internal affairs; both it and the JDF are under the Ministry of National Security <br><br><strong>note 3:</strong> the JNSC is a third category of service that military recruits can join as a preparatory phase for future careers; JNSC soldiers receive basic military, vocational, and life skills training; upon completion of 12 months of service, soldiers can continue on with the JDF or the JDF reserves or seek opportunities in other public sector entities such as the JCF, the Department of Correctional Services, the Jamaica Fire Brigade, the Jamaica Customs Agency, or the Passport Immigration and Citizenship Agency<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2023 est.)<br>
@@ -645,7 +645,7 @@ Jamaica Defense Force (JDF): Jamaica Regiment (Ground Forces), Maritime-Air-Cybe
 approximately 5,000 personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the JDF is lightly armed with a limited inventory featuring equipment mostly from Europe and the US (2023)<br>
+the JDF is lightly armed with a limited inventory featuring equipment mostly from Australia, Canada, Japan, the Netherlands, the UK, and the US&nbsp; (2024)<br>
 
 **Military service age and obligation**<br>
 18-23 for voluntary military service (17 with parental consent) for men and women; 18-28 for the reserves; no conscription; since 2017, the JDF's standard mode of recruitment is to enroll recruits ages 18-23 through the Jamaica National Service Corps (JNSC), which has a service requirement of 12 months (2024)<br>

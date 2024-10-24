@@ -699,7 +699,7 @@ Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and A
 information varies; approximately 40,000 active-duty personnel (25,000 Land Forces; 3,000 Naval Forces; 12,000 Air and Air Defense Forces); approximately 30,000 National Guard (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Kazakh military's inventory is comprised of mostly older Russian and Soviet-era equipment, and Russia continues to be the leading supplier of arms (2023)<br>
+the Kazakh military's inventory is comprised of mostly Russian and Soviet-era equipment; in recent years, other suppliers have included China, France, Israel, South Korea, and Turkey; Kazakhstan has a defense industry capable of assembling or producing such items as naval vessels, combat vehicles, helicopters, and radar systems&nbsp; (2024)<br>
 
 **Military service age and obligation**<br>
 all men 18-27 are required to serve in the military for 12-24 months; women may volunteer (2023)<br>

@@ -606,7 +606,7 @@ Eritrean Defense Forces (EDF): Eritrean Ground Forces, Eritrean Navy, Eritrean A
 limited available information; estimated 150,000-200,000 personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the EDF inventory is comprised primarily of older Russian and Soviet-era systems; Eritrea was under a UN arms embargo from 2009 to 2018; from the 1990s to 2008, Russia was the leading supplier of arms to Eritrea, and in recent years, Eritrea has expressed interest in purchasing additional Russian equipment; in 2022, it reportedly received some UAVs from Russia (2023)<br>
+the EDF inventory is comprised primarily of older Russian and Soviet-era systems; Eritrea was under a UN arms embargo from 2009 to 2018; from the 1990s to 2008, Russia was the leading supplier of arms to Eritrea, and in recent years, Eritrea has expressed interest in purchasing additional Russian equipment (2023)<br>
 
 **Military service age and obligation**<br>
 Eritrea mandates military service for all citizens between the ages of 18 and 40; 18-month conscript service obligation, which includes 4-6 months of military training and 12 months of military or other national service (military service is most common); in practice, military and national service is often extended indefinitely; citizens up to the age of 55 eligible for recall during mobilization (2023)<br>

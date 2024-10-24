@@ -322,7 +322,7 @@ _election results_: <em>2020:</em> Taneti MAAMAU reelected president; percent of
 **Legislative branch**<br>
 _description_: unicameral House of Assembly or Maneaba Ni Maungatabu (45 seats; 44 members directly elected in single- and multi-seat constituencies by absolute majority vote in two rounds if needed, and 1 member appointed by the Rabi Council of Leaders - representing Banaba Island; members serve 4-year terms)<br>
 _elections_: first round held on 14 August 2024; second round held on 19 August 2024 (next to be held in 2028)<br>
-_election results_: percent of vote by party - NA; seats by party - NA; composition - 41 men, 4 women; percentage women 9% (as of August 2024)<br>
+_election results_: percent of vote by party - NA; seats by party - 33 TKP, 8 BKM, 4 Independents; composition - 40 men, 5 women; percentage women 11% (as of September 2024)<br>
 
 **Judicial branch**<br>
 _highest court(s)_: High Court (consists of a chief justice and other judges as prescribed by the president); note - the High Court has jurisdiction on constitutional issues<br>

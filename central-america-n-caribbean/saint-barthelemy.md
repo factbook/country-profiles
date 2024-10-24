@@ -191,12 +191,12 @@ none (overseas collectivity of France)<br>
 **National holiday**<br>
 F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790); note - local holiday is St. Barthelemy Day, 24 August (1572)<br>
 
+**Legal system**<br>
+French civil law<br>
+
 **Constitution**<br>
 _history_: 4 October 1958 (French Constitution)<br>
 _amendments_: amendment procedures of France's constitution apply<br>
-
-**Legal system**<br>
-French civil law<br>
 
 **Citizenship**<br>
 see France<br>

@@ -677,7 +677,7 @@ _by type_: other 1<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Hungarian Defense Forces (HDF or Magyar Honvédség): the HDF is organized as a joint force under a general staff with commands for land, air, cyber, special operations, territorial defense, and support forces (2023)<br>
+Hungarian Defense Forces (HDF or Magyar Honvédség): the HDF is organized as a joint force under a general staff with commands for land, air, cyber, special operations, territorial defense, and support forces (2024)<br>
 <strong>note:</strong> the National Police are under the Ministry of Interior and responsible for maintaining order nationwide; the Ministry of Interior also has the Counterterrorism Center, a special police force responsible for protecting the president and the prime minister and for preventing, uncovering, and detecting terrorist acts<br>
 
 **Military expenditures**<br>
@@ -692,7 +692,7 @@ approximately 21,000 active-duty troops (16,000 Army; 5,000 Air Force) (2024)<br
 <strong>note:</strong> in 2017, Hungary announced plans to increase the number of active soldiers to around 37,000 but did not give a timeline<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists largely of Soviet-era weapons, with a smaller but growing mix of more modern European and US equipment; in recent years, Germany has been the top supplier of military hardware to Hungary (2023)<br>
+the HDF has a mix of Soviet-era and more modern, Western equipment from such countries as Germany, France, Sweden, and the US; in 2017, Budapest launched a modernization program known as Zrinyi 2026, which was aimed at replacing its Soviet-era weaponry with modern systems, and increasing Hungary&rsquo;s defense expenditure to 2% of GDP by 2024, in line with NATO spending targets&nbsp; (2024)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service; no conscription (abolished 2005); 6-month service obligation (2023)<br>

@@ -676,7 +676,7 @@ approximately 7,500 active-duty personnel; approximately 15,000 Defense League (
 <strong>note: </strong>the Estonian Defense Forces rely largely on reservists who have completed compulsory conscription in the previous 10 years to fill out its active duty and Territorial Defense units during a crisis; there are more than 40,000 trained reservists and approximately 230,000 Estonians are enrolled in the mobilization registry<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Estonian military has a mix of Soviet-era and growing amounts of more modern equipment, mostly from western European suppliers, as well as Israel, South Korea, and the US (2023)<br>
+the Estonian military has a mix of weapons and equipment from western European suppliers, as well as Israel, South Korea, Turkey, and the US&nbsp; (2024)<br>
 
 **Military service age and obligation**<br>
 18-27 for compulsory military or governmental service for men; conscript service requirement 8-11 months depending on education; non-commissioned officers, reserve officers, and specialists serve 11 months; women can volunteer, and as of 2018 could serve in any military branch (2024)<br>

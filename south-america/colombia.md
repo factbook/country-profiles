@@ -693,7 +693,7 @@ _key ports_: Barranquilla, Buenaventura, Cartagena, Covenas, El Bosque, Mamonal,
 ## Military and Security
 
 **Military and security forces**<br>
-Military Forces of Colombia (Fuerzas Militares de Colombia<em lang="es">)</em>: National Army (Ejercito Nacional), Republic of Colombia Navy (Armada Republica de Colombia, ARC; includes Coast Guard and marines), Colombian Air Force (Fuerza Aerea de Colombia, FAC); Colombian National Police (PNC) (2023)<br>
+Military Forces of Colombia (Fuerzas Militares de Colombia<em lang="es">)</em>: National Army (Ejercito Nacional), Republic of Colombia Navy (Armada Republica de Colombia, ARC; includes Coast Guard and marines), Colombian Air Force (Fuerza Aerea de Colombia, FAC); Colombian National Police (PNC) (2024)<br>
 note: the PNC is a civilian force that is under the jurisdiction of the Ministry of Defense<br>
 
 **Military expenditures**<br>
@@ -707,11 +707,11 @@ note: the PNC is a civilian force that is under the jurisdiction of the Ministry
 information varies; approximately 265,000 active troops (200,000 Army; 50,000 Navy, including about 20,000 marines; 15,000 Air Force); approximately 175,000 National Police (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a wide mix of equipment from a variety of suppliers, including Canada, Europe, Israel, South Korea, and the US; the US has been the top provider in recent years; Colombia's defense industry is active in producing air, land, and naval platforms (2023)<br>
+the military's inventory includes a wide mix of equipment from a variety of suppliers, including Canada, Germany, Israel, South Korea, and especially the US; Colombia's defense industry is active in producing air, land, and naval platforms (2024)<br>
 
 **Military service age and obligation**<br>
-18-24 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 18 months; conscripted soldiers reportedly include regular soldiers (conscripts without a high school degree), drafted high school graduates (bachilleres), and rural (campesino) soldiers who serve in their home regions (2023)<br>
-<strong>note 1:</strong> more than 50,000 conscripts are brought into the military annually<br><br><strong>note 2:</strong> the Colombian military first incorporated women in 1976 in administrative positions; women were incorporated as non-commissioned officers in 1983 and officers in 2009; as of 2023, about 6,000 women served in the uniformed military while more than 30,000 served in the National Police<br>
+18-24 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 18 months or 12 months for those with a college degree; conscripted soldiers reportedly include regular soldiers (conscripts without a high school degree), drafted high school graduates (bachilleres), and rural (campesino) soldiers who serve in their home regions (2024)<br>
+<strong>note:</strong> the Colombian military first incorporated women in 1976 in administrative positions; women were incorporated as non-commissioned officers in 1983 and officers in 2009; as of 2023, about 6,000 women served in the uniformed military while more than 30,000 served in the National Police<br>
 
 **Military deployments**<br>
 275 Egypt (MFO) (2024)<br>

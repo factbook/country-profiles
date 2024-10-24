@@ -682,7 +682,7 @@ Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Hond
 approximately 16,000 active personnel (7,500 Army; 1,500 Navy, including about 1,000 marines; 2,000 Air Force; 5,000 Military Police of Public Order); approximately 18,000 National Police (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FFAA's inventory is comprised of mostly older imported equipment from Israel, the UK, and the US; in recent years, it has received limited amounts of military equipment from several countries, including Colombia and Israel (2023)<br>
+the FFAA's inventory is comprised of a mix of older or secondhand and limited amounts of more equipment from a wide mix of suppliers, including Colombia, Germany, Israel, the Netherlands, South Korea, the UK, and the US (2024)<br>
 
 **Military service age and obligation**<br>
 18-22 years of age for voluntary military service for men and women; 24-36 month service obligation; no conscription (2024)<br>
