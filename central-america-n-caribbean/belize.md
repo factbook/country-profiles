@@ -461,8 +461,9 @@ _female_: 26.2% (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $583 million (2019 est.)<br>
-_expenditures_: $656 million (2019 est.)<br>
+_revenues_: $554.405 million (2017 est.)<br>
+_expenditures_: $506.316 million (2017 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 99% of GDP (2017 est.)<br>

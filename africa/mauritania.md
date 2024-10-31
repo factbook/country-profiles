@@ -686,7 +686,7 @@ Mauritanian Armed Forces (aka Armée Nationale Mauritanienne): National Army, Na
 approximately 16,000 Mauritanian Armed Forces personnel (15,000 Army; 700 Navy; 300 Air Force); estimated 3,000 Gendarmerie; estimated 2,000 National Guard (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is limited and made up largely of older French and Soviet-era equipment; in recent years, Mauritania has received some secondhand and new military equipment, including aerial drones, from several suppliers, including China and the UAE&nbsp; (2024)<br>
+the military's inventory is limited and made up largely of older French and Soviet-era equipment; in recent years, Mauritania has received some secondhand and new military equipment, including unmanned aircraft (drones), from several suppliers, including China and the UAE (2024)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service; has a compulsory two-year military service law, but the law has reportedly never been applied (2023)<br>

@@ -158,10 +158,6 @@ the flag of Norway is used<br>
 **Economic overview**<br>
 high-income Norwegian island economy; major coal mining, tourism, and research sectors; recently established northernmost brewery; key whaling and fishing base; home to the Global Seed Vault<br>
 
-**Budget**<br>
-_revenues_: NA<br>
-_expenditures_: NA<br>
-
 **Exchange rates**<br>
 _Currency_: Norwegian kroner (NOK) per US dollar -<br>
 10.563 (2023 est.)<br>

@@ -499,8 +499,9 @@ _highest 10%_: 31% (2019 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $1.628 billion (2019 est.)<br>
-_expenditures_: $2.129 billion (2019 est.)<br>
+_revenues_: $1.688 billion (2020 est.)<br>
+_expenditures_: $1.941 billion (2020 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 52.63% of GDP (2022 est.)<br>
@@ -657,8 +658,8 @@ _unpaved_: 11,413 km (2022)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Malawi Defense Force (MDF): Land Forces (Army), Maritime Force, Air Force, National Service (reserve force) (2024)<br>
-<strong>note:</strong> the MDF reports directly to the president as commander in chief; the Malawi Police Service is under the Ministry of Homeland Security<br>
+Malawi Defense Force (MDF): Land Forces (Army), Maritime Force, Air Force, National Service (reserve force)<br><br>Ministry of Homeland Security: Malawi Police Service (2024)<br>
+<strong>note:</strong> the MDF reports directly to the president as commander in chief<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2023 est.)<br>
@@ -671,7 +672,7 @@ Malawi Defense Force (MDF): Land Forces (Army), Maritime Force, Air Force, Natio
 estimated 10,000 active military personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the MDF's inventory is comprised of mostly obsolescent or secondhand equipment originating from such countries as France and South Africa; in recent years, it has received small amounts of armaments from a few countries, including China (2023)<br>
+the MDF's inventory is comprised of mostly obsolescent or secondhand equipment originating from such countries as France, South Africa, and the UK&nbsp; (2023)<br>
 
 **Military service age and obligation**<br>
 18-30years of age for men and women for voluntary military service; high school equivalent required for enlisted recruits and college equivalent for officer recruits; initial engagement is 7 years for enlisted personnel and 10 years for officers (2023)<br>

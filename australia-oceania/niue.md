@@ -263,10 +263,6 @@ taro, coconuts, fruits, sweet potatoes, tropical fruits, yams, vegetables, lemon
 **Industries**<br>
 handicrafts, food processing<br>
 
-**Budget**<br>
-_revenues_: $15.07 million (FY04/05)<br>
-_expenditures_: $16.33 million (FY04/05)<br>
-
 **Exports**<br>
 $5.68 million (2021 est.)<br>
 

@@ -353,7 +353,7 @@ _subordinate courts_: Appellate Courts of Accounts, Contentious Administrative T
 Bienestar Nacional or BIEN<br>Blue Party (Partido Azul) or Blue<br>CABAL<br>Cambio<br>Citizen Prosperity or PC<br>Commitment, Renewal, and Order or CREO<br>Elephant Community (Comunidad Elefante) or Elephant<br>Everyone Together for Guatemala or TODOS<br>Guatemalan National Revolutionary Unity or URNG-MAIZ or URNG<br>Humanist Party of Guatemala or PHG<br>Movement for the Liberation of Peoples or MLP<br>Movimiento Semilla or SEMILLA<br>National Advancement Party or PAN<br>National Convergence Front or FCN-NACION<br>National Unity for Hope or UNE<br>Nationalist Change Union or UCN (dissolved 16 December 2021)<br>Nosotros or PPN<br>PODEMOS<br>Political Movement Winaq or Winaq<br>TODOS<br>Value or VALOR<br>Vamos por una Guatemala Diferente or VAMOS<br>Victory or VICTORIA<br>Vision with Values or VIVA<br>Will, Opportunity and Solidarity (Voluntad, Oportunidad y Solidaridad) or VOS<br>
 
 **International organization participation**<br>
-ACS, BCIE, CACM, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, Union Latina, UNISFA, UNITAR, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACS, BCIE, CACM, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNISFA, UNITAR, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Hugo Eduardo&nbsp;BETETA (since 17 June 2024)<br>
@@ -493,8 +493,9 @@ _highest 10%_: 38.1% (2014 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $8.647 billion (2019 est.)<br>
-_expenditures_: $10.373 billion (2019 est.)<br>
+_revenues_: $15.09 billion (2022 est.)<br>
+_expenditures_: $15.376 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 31.56% of GDP (2020 est.)<br>

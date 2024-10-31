@@ -348,7 +348,7 @@ civil law system with US constitutional law influence; judicial review of legisl
 
 **Constitution**<br>
 _history_: several previous; latest approved 5 February 1917<br>
-_amendments_: proposed by the Congress of the Union; passage requires approval by at least two thirds of the members present and approval by a majority of the state legislatures; amended many times, last in 2020<br>
+_amendments_: proposed by the Congress of the Union; passage requires approval by at least two thirds of the members present and approval by a majority of the state legislatures; amended many times, last in 2024<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -528,8 +528,9 @@ _highest 10%_: 34.4% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $264.261 billion (2020 est.)<br>
-_expenditures_: $313.358 billion (2020 est.)<br>
+_revenues_: $282.751 billion (2022 est.)<br>
+_expenditures_: $327.211 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 44.05% of GDP (2022 est.)<br>
@@ -739,7 +740,7 @@ the Mexican Armed Forces (Fuerzas Armadas de México) are divided between the S
 information varies; approximately 240,000 armed forces personnel (180,000 Army; 10,000 Air Force; 50,000 Navy, including about 20,000 marines); approximately 110,000 National Guard personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Mexican military inventory includes a mix of domestically produced and imported equipment from a variety of mostly Western suppliers; the US has been the leading supplier of military hardware to Mexico in recent years; Mexico's defense industry produces naval vessels and light armored vehicles, as well as small arms and other miscellaneous equipment (2023)<br>
+the Mexican military inventory includes a mix of domestically produced and imported weapons and equipment from a variety of mostly Western suppliers, particularly the US; a considerable portion of its inventory, such as ships and fighter aircraft, are older, secondhand items from the US; over the past decade, the Mexican military has made efforts to acquire more modern equipment; Mexico's defense industry produces some naval vessels and light armored vehicles, as well as small arms and other miscellaneous equipment (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age (16 with parental consent) for voluntary enlistment for men and women; 18 years of age for compulsory military service for men (selection for service determined by lottery); conscript service obligation is 12 months; those selected serve on Saturdays in a Batallón del Servicio Militar Nacional (National Military Service Battalion) composed entirely of 12-month Servicio Militar Nacional (SMN) conscripts; conscripts remain in reserve status until the age of 40; cadets enrolled in military schools from the age of 15 are considered members of the armed forces; National Guard: single men and women 18-30 years of age may volunteer (2023)<br>

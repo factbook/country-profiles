@@ -493,8 +493,9 @@ _highest 10%_: 31.2% (2018 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $2.896 billion (2019 est.)<br>
-_expenditures_: $3.839 billion (2019 est.)<br>
+_revenues_: $2.288 billion (2022 est.)<br>
+_expenditures_: $1.596 billion (2022 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 63.6% of GDP (2017 est.)<br>
@@ -665,13 +666,13 @@ Lao People's Armed Forces (LPAF): Lao People's Army (LPA, includes Riverine Forc
 limited and varied information; estimated 30,000 active-duty troops (26,000 Army; 4,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the LPAF is armed largely with Soviet-era weapons; in recent years, China and Russia have been the leading suppliers of military equipment to Laos (2023)<br>
+the LPAF is armed with Chinese, Russian, and Soviet-era equipment and weapons (2024)<br>
 
 **Military service age and obligation**<br>
 18 years of age for compulsory or voluntary military service; minimum 18-month service obligation (2023)<br>
 
 **Military - note**<br>
-the LPAF&rsquo;s primary missions are border and internal security, including counterinsurgency and counterterrorism; Vietnam is the military's primary security partner, although in recent years, Laos has expanded defense ties with China and Russia (2023)<br>
+the LPAF&rsquo;s primary missions are border and internal security, including counterinsurgency and counterterrorism; China, Russia, and Vietnam are the country's closest security partners&nbsp; (2023)<br>
 
 ## Transnational Issues
 

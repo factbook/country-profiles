@@ -448,10 +448,6 @@ _female_: 37.4% (2023 est.)<br>
 17.63% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
-**Budget**<br>
-_revenues_: $145.3 million (2014 est.)<br>
-_expenditures_: $151.1 million (2014 est.)<br>
-
 **Public debt**<br>
 76.7% of GDP (2017 est.)<br>
 

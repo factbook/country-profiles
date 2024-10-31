@@ -470,8 +470,9 @@ _highest 10%_: 25.1% (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $5.661 billion (2019 est.)<br>
-_expenditures_: $5.586 billion (2019 est.)<br>
+_revenues_: $6.106 billion (2022 est.)<br>
+_expenditures_: $6.922 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 50.7% of GDP (2017 est.)<br>
@@ -645,7 +646,7 @@ the Armed Forces of Malta (AFM) is a joint force with land, maritime, and air el
 approximately 2,000 active-duty personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military has a small inventory that consists of equipment from a mix of European countries, particularly Italy and the US (2024)<br>
+the military has a small inventory that consists of equipment from a mix of European countries, particularly Italy, and the US (2024)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for men and women for voluntary military service; no conscription (2024)<br>

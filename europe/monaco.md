@@ -372,10 +372,6 @@ _total_: 26.6% (2016 est.)<br>
 _male_: 25.7%<br>
 _female_: 27.9%<br>
 
-**Budget**<br>
-_revenues_: $896.3 million (2011 est.)<br>
-_expenditures_: $953.6 million (2011 est.)<br>
-
 **Exports**<br>
 $964.6 million (2017 est.)<br>
 <strong>note:</strong> full customs integration with France, which collects and rebates Monegasque trade duties; also participates in EU market system through customs union with France<br>

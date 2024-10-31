@@ -490,8 +490,9 @@ _highest 10%_: 30.9% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $77.736 billion (2019 est.)<br>
-_expenditures_: $85.851 billion (2019 est.)<br>
+_revenues_: $66.883 billion (2022 est.)<br>
+_expenditures_: $72.986 billion (2022 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 60.27% of GDP (2022 est.)<br>
@@ -687,7 +688,7 @@ Malaysian Armed Forces (Angkatan Tentera Malaysia, ATM): Malaysian Army (Tentera
 approximately 110,000 active-duty troops (80,000 Army; 15,000 Navy; 15,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military fields a diverse array of mostly older weapons systems along with a modest mix of modern equipment; its inventory originates from a wide variety of suppliers across Europe, Asia, and the US; in recent years it has received military equipment from approximately 20 countries with South Korea as one of the leading suppliers (2023)<br>
+the military fields a diverse array of mostly older but growing mix of modern weapons and equipment; its inventory originates from a wide variety of suppliers across Europe, Asia, and the US; Malaysia has a domestic defense industry that has some co-production agreements with countries such as France, Germany, and Turkey in such areas armored vehicles and naval vessels (2024)<br>
 
 **Military service age and obligation**<br>
 17 years 6 months of age for voluntary military service for men and women (younger with parental consent and proof of age); maximum age of 27 to enlist; mandatory retirement age 60; no conscription (2023)<br>

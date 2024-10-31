@@ -399,13 +399,13 @@ _services_: 47.3% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 61.7% (2022 est.) NA<br>
-_government consumption_: 29.2% (2022 est.) NA<br>
-_investment in fixed capital_: 24.4% (2022 est.) NA<br>
+_household consumption_: 61.7% (2022 est.)<br>
+_government consumption_: 29.2% (2022 est.)<br>
+_investment in fixed capital_: 24.4% (2022 est.)<br>
 _investment in inventories_: -1% (2022 est.) NA<br>
 _exports of goods and services_: 26.3% (2022 est.)<br>
 _imports of goods and services_: -51.7% (2022 est.)<br>
-<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
+<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 oil palm fruit, coconuts, sweet potatoes, taro, yams, fruits, pulses, vegetables, cocoa beans, cassava (2022)<br>
@@ -441,8 +441,9 @@ _female_: 3.5% (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $514 million (2019 est.)<br>
-_expenditures_: $537 million (2019 est.)<br>
+_revenues_: $436.2 million (2022 est.)<br>
+_expenditures_: $423.726 million (2022 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 15.39% of GDP (2022 est.)<br>

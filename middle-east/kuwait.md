@@ -465,8 +465,9 @@ _on alcohol and tobacco_: 0.1% of household expenditures (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $77.988 billion (2019 est.)<br>
-_expenditures_: $72.03 billion (2019 est.)<br>
+_revenues_: $44.254 billion (2015 est.)<br>
+_expenditures_: $59.584 billion (2015 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants and social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 20.6% of GDP (2017 est.)<br>
@@ -644,7 +645,7 @@ Kuwait Armed Forces (KAF): Kuwait Land Forces (KLF), Kuwait Navy, Kuwait Air For
 approximately 17,000 active-duty armed forces personnel (12,500 Army, including the Amiri Guard and 25th Commando Brigade; 2,000 Navy; 2,500 Air Force); approximately 7,000 National Guard (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of weapons from a wide variety of sources, including Western Europe, Russia, and the US; the US has been the leading supplier of arms to Kuwait (2023)<br>
+the military's inventory consists of weapons from a wide variety of sources, including Western Europe, Russia, and particularly the US (2024)<br>
 
 **Military service age and obligation**<br>
 18-55 years of age for voluntary military service; Kuwait reintroduced 12-month mandatory service for men aged 18-35 in May 2017 after having suspended conscription in 2001; mandatory service is divided in two phases – 4 months for training and 8 months for military service; women were allowed to volunteer in 2021 (2023)<br>

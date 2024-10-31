@@ -353,7 +353,7 @@ _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Steven C. BONDY (since 9 February 2022)<br>
-_embassy_: Building 979, Road 3119 (next to Al-Ahli Sports Club), Block 331, Zinj District, P.O. Box 26431, Manama<br>
+_embassy_: Building 979, Road 3119, Block 331, Zinj District, P.O. Box 26431, Manama<br>
 _mailing address_: 6210 Manama Place, Washington DC&nbsp; 20521-6210<br>
 _telephone_: [973] 17-242700<br>
 _FAX_: [973] 17-272594<br>
@@ -466,8 +466,9 @@ _on alcohol and tobacco_: 0.4% of household expenditures (2022 est.)<br>
 0% of GDP (2021 est.)<br>
 
 **Budget**<br>
-_revenues_: $9.168 billion (2019 est.)<br>
-_expenditures_: $12.63 billion (2019 est.)<br>
+_revenues_: $5.538 billion (2020 est.)<br>
+_expenditures_: $9.357 billion (2020 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 115.52% of GDP (2020 est.)<br>

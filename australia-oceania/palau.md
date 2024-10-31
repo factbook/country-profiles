@@ -421,8 +421,9 @@ _total_: 5.6% (2014)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $122 million (2019 est.)<br>
-_expenditures_: $121 million (2019 est.)<br>
+_revenues_: $173.256 million (2019 est.)<br>
+_expenditures_: $175.508 million (2019 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 85.24% of GDP (2019 est.)<br>

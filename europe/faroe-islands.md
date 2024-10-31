@@ -381,11 +381,6 @@ fishing, fish processing, tourism, small ship repair and refurbishment, handicra
 4.86% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
-**Budget**<br>
-_revenues_: $835.6 million (2014 est.)<br>
-_expenditures_: $883.8 million (2014)<br>
-<strong>note:</strong> Denmark supplies the Faroe Islands with almost one-third of its public funds<br>
-
 **Public debt**<br>
 35% of GDP (2014 est.)<br>
 

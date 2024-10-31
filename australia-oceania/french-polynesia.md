@@ -387,10 +387,6 @@ _female_: 42% (2023 est.)<br>
 10.04% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
-**Budget**<br>
-_revenues_: $1.891 billion (2012)<br>
-_expenditures_: $1.833 billion (2011)<br>
-
 **Current account balance**<br>
 $411.963 million (2016 est.)<br>
 $291.182 million (2015 est.)<br>

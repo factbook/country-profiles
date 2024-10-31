@@ -489,8 +489,9 @@ _highest 10%_: 32.9% (2017 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $1.054 billion (2020 est.)<br>
-_expenditures_: $1.21 billion (2020 est.)<br>
+_revenues_: $1.13 billion (2022 est.)<br>
+_expenditures_: $947.517 million (2022 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 2.99% of GDP (2020 est.)<br>
@@ -642,7 +643,7 @@ Lesotho Defense Force (LDF): Army (includes Air Wing) (2024)<br>
 approximately 2,000 personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the LDF has a small inventory of older and second-hand equipment from a variety of countries (2023)<br>
+the LDF has a small inventory of mostly older, obsolescent, or second-hand weapons and equipment from a variety of countries (2023)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary military service for both men and women (women can serve in combat arms); no conscription (2024)<br>

@@ -489,8 +489,9 @@ _highest 10%_: 29.1% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $18.636 billion (2019 est.)<br>
-_expenditures_: $18.491 billion (2019 est.)<br>
+_revenues_: $24.347 billion (2022 est.)<br>
+_expenditures_: $24.219 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 36.05% of GDP (2022 est.)<br>
@@ -681,7 +682,7 @@ Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Land Forces (Sausumos 
 approximately 18,000 active-duty personnel (14,000 Army, including about 5,000 active National Defense Voluntary Forces); 500 Navy; 1,000 Air Force; 2,500 other, including special operations forces, logistics support, training, etc) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is a mix of Soviet-era and more modern European and US equipment; Germany and the US have been the leading suppliers in recent years (2023)<br>
+the military's inventory is a mix of mostly European and US weapons and equipment (2024)<br>
 
 **Military service age and obligation**<br>
 19-26 years of age for conscripted military service for men; 9-month service obligation; in 2015, Lithuania reinstated conscription after having converted to a professional military in 2008; 18-38 for voluntary service for men and women (2024)<br>

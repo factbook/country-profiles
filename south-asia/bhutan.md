@@ -439,9 +439,9 @@ _highest 10%_: 22.7% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $710 million (2020 est.)<br>
-_expenditures_: $777 million (2020 est.)<br>
-<strong>note:</strong> the Government of India finances nearly one-quarter of Bhutan's budget expenditures<br>
+_revenues_: $740.333 million (2020 est.)<br>
+_expenditures_: $591.697 million (2020 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 111.01% of GDP (2020 est.)<br>

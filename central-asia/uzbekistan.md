@@ -347,8 +347,8 @@ _election results_: <br>2023: Shavkat MIRZIYOYEV reelected president in snap ele
 
 **Legislative branch**<br>
 _description_: bicameral Supreme Assembly or Oliy Majlis consists of:<br>Senate or Senat (100 seats); 84 members indirectly elected by regional governing councils and 16 appointed by the president; members serve 5-year terms); note - amendments to the constitution approved in April 2023 call for the reduction of Senate seats to 65 from 100<br>Legislative Chamber or Qonunchilik Palatasi (150 seats statutory, 140 seats current; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)<br>
-_elections_: Senate - last held 16-17 January 2020 (next to be held in 2025)<br>Legislative Chamber - last held on 22 December 2019 and 5 January 2020 (next to be held on 27 October 2024)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 68, women 22, percentage women 24.4%<br><br>Legislative Chamber - percent of vote by party - NA; seats by party - LDPU 53, National Revival Democratic Party 36, Adolat 24, PDP 22, Ecological Movement 15; composition - men 89, women 47, percentage women 34.6%; total Supreme Assembly percentage women 30.5%<br>
+_elections_: Senate - last held 16-17 January 2020 (next to be held in 2025)<br>Legislative Chamber - last held on 27 October 2024<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 68, women 22, percentage women 24.4%<br><br>Legislative Chamber - percent of vote by party - Liberal Democratic Party 34.8%, the National Revival Democratic Party 18.8%, the People's Democratic Party 17.1%, the Adolat (Justice) Social Democratic Party 16.2%, the Ecological Party 13.1%; seats by party - LDP 64, National Revival Democratic Party 29, PDP 20, Adolat 21, the Ecological Party 16<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 67 judges organized into administrative, civil, criminal, and economic sections); Constitutional Court (consists of 7 judges)<br>
@@ -491,8 +491,9 @@ _highest 10%_: 23.2% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $16.197 billion (2019 est.)<br>
-_expenditures_: $16.346 billion (2019 est.)<br>
+_revenues_: $20.578 billion (2022 est.)<br>
+_expenditures_: $20.79 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 24.3% of GDP (2017 est.)<br>

@@ -494,8 +494,9 @@ _highest 10%_: 22.2% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $103.838 billion (2019 est.)<br>
-_expenditures_: $103.167 billion (2019 est.)<br>
+_revenues_: $94.01 billion (2022 est.)<br>
+_expenditures_: $103.959 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 34.7% of GDP (2017 est.)<br>
@@ -675,14 +676,14 @@ Czech Armed Forces: Land Forces, Air Forces, Cyber Forces, Special Forces (2024)
 1.3% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 30,000 active personnel (24,000 Army; 6,000 Air Force) (2024)<br>
+approximately 29,000 active personnel (23,000 Army; 6,000 Air Force) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Czech military has a mix of Soviet-era and more modern equipment, mostly of Western European origin from such suppliers as Austria, Germany, and Spain; Czechia has a considerable domestic defense industry; during the Cold War, Czechoslovakia was a major producer of tanks, armored personnel carriers, military trucks, and trainer aircraft (2023)<br>
+the Czech military has a mix of Soviet-era and more modern equipment, mostly of Western European origin from such suppliers as Austria, Germany, and Spain; Czechia has a considerable domestic defense industry; during the Cold War, Czechoslovakia was a major producer of tanks, armored personnel carriers, military trucks, and trainer aircraft (2024)<br>
 <strong>note:</strong> in 2019, Czechia announced a modernization plan to acquire more Western equipment that was compliant with NATO standards, including aircraft and armored vehicles<br>
 
 **Military service age and obligation**<br>
-18-28 years of age for voluntary military service for men and women; conscription abolished 2004 (2023)<br>
+18-28 years of age for voluntary military service for men and women; conscription abolished 2004 (2024)<br>
 <strong>note: </strong>as of 2023, women comprised nearly 14% of the military's full-time personnel<br>
 
 **Military deployments**<br>

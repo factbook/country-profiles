@@ -491,8 +491,9 @@ _highest 10%_: 33.1% (2021 est.)<br>
 0% of GDP (2021 est.)<br>
 
 **Budget**<br>
-_revenues_: $418 million (2019 est.)<br>
-_expenditures_: $385 million (2019 est.)<br>
+_revenues_: $360.48 million (2021 est.)<br>
+_expenditures_: $293.459 million (2021 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 52.9% of GDP (2017 est.)<br>

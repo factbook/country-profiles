@@ -465,9 +465,9 @@ _highest 10%_: 20% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Budget**<br>
-_revenues_: $129.741 billion (2019 est.)<br>
-_expenditures_: $127.262 billion (2019 est.)<br>
-<strong>note:</strong> the UAE federal budget does not account for emirate-level spending in Abu Dhabi and Dubai<br>
+_revenues_: $20.165 billion (2022 est.)<br>
+_expenditures_: $19.483 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 19.7% of GDP (2017 est.)<br>

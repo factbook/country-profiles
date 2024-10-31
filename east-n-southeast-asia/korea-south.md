@@ -483,8 +483,9 @@ _highest 10%_: 24% (2016 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $378.552 billion (2019 est.)<br>
-_expenditures_: $372.412 billion (2019 est.)<br>
+_revenues_: $542.275 billion (2022 est.)<br>
+_expenditures_: $563.156 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 51.18% of GDP (2022 est.)<br>

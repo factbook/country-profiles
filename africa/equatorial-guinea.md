@@ -435,8 +435,9 @@ _female_: 17.8% (2023 est.)<br>
 0% of GDP (2017 est.)<br>
 
 **Budget**<br>
-_revenues_: $2.604 billion (2018 est.)<br>
-_expenditures_: $2.535 billion (2018 est.)<br>
+_revenues_: $3.62 billion (2022 est.)<br>
+_expenditures_: $1.512 billion (2022 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 37.4% of GDP (2017 est.)<br>

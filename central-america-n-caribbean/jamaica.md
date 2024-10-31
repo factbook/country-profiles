@@ -467,8 +467,9 @@ _highest 10%_: 29.9% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $4.029 billion (2020 est.)<br>
-_expenditures_: $4.564 billion (2020 est.)<br>
+_revenues_: $4.041 billion (2020 est.)<br>
+_expenditures_: $4.12 billion (2020 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 106.28% of GDP (2020 est.)<br>

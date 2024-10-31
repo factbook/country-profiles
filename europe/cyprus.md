@@ -492,9 +492,9 @@ _highest 10%_: 25.7% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $10.362 billion (2019 est.)<br>
-_expenditures_: $9.996 billion (2019 est.)<br>
-<strong>note:</strong> area administered by Turkish Cypriots - revenues: $2.5 billion; expenditures: $2.5 billion (est. 2006)<br>
+_revenues_: $11.644 billion (2022 est.)<br>
+_expenditures_: $10.765 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 97.5% of GDP (2017 est.)<br>

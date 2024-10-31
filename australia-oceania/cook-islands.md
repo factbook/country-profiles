@@ -354,8 +354,9 @@ coconuts, vegetables, papayas, pork, sweet potatoes, tomatoes, fruits, mangoes/g
 fishing, fruit processing, tourism, clothing, handicrafts<br>
 
 **Budget**<br>
-_revenues_: $86.9 million (2010)<br>
-_expenditures_: $77.9 million (2010)<br>
+_revenues_: $113.674 million (2022 est.)<br>
+_expenditures_: $129.088 million (2022 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Exports**<br>
 $31.4 million (2021 est.)<br>

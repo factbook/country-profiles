@@ -318,8 +318,9 @@ tourism, boat building, offshore financial services<br>
 4% (2017 est.)<br>
 
 **Budget**<br>
-_revenues_: $81.92 million (2017 est.)<br>
-_expenditures_: $80.32 million (2017 est.)<br>
+_revenues_: $81.925 million (2017 est.)<br>
+_expenditures_: $72.352 million (2017 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 20.1% of GDP (2015 est.)<br>

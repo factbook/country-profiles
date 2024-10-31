@@ -382,7 +382,7 @@ _subordinate courts_: Resident Magistrates Courts; Kadhi courts (for Islamic fam
 Alliance for Change and Transparency (Wazalendo) or ACT-Wazalendo<br>Civic United Front (Chama Cha Wananchi) or CUF<br>Party of Democracy and Development (Chama Cha Demokrasia na Maendeleo) or CHADEMA<br>Revolutionary Party of Tanzania (Chama Cha Mapinduzi) or CCM<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, C, CD, EAC, EADB, EITI, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, SADC, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, C, CD, EAC, EADB, EITI, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Elsie Sia KANZA (since 1 December 2021)<br>
@@ -517,8 +517,9 @@ _highest 10%_: 33.1% (2018 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $8.968 billion (2019 est.)<br>
-_expenditures_: $10.017 billion (2019 est.)<br>
+_revenues_: $9.114 billion (2014 est.)<br>
+_expenditures_: $8.926 billion (2014 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 37% of GDP (2017 est.)<br>

@@ -492,8 +492,9 @@ _highest 10%_: 29.9% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $24.487 billion (2020 est.)<br>
-_expenditures_: $26.544 billion (2020 est.)<br>
+_revenues_: $33.1 billion (2022 est.)<br>
+_expenditures_: $35.619 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 30.3% of GDP (2022 est.)<br>
@@ -701,7 +702,7 @@ approximately 27,000 active-duty personnel (17,000 Army; 3,000 Navy; 7,000 Air F
 <strong>note:</strong> in 2021, Bulgaria released a 10-year defense plan which called for an active military strength of 43,000<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists primarily of Soviet-era equipment, although in recent years Bulgaria has procured limited amounts of more modern weapons systems from some Western countries (2023)<br>
+the military's inventory consists mostly of Soviet-era equipment, although in recent years Bulgaria has procured limited amounts of more modern Western weapons systems (2023)<br>
 
 **Military service age and obligation**<br>
 18-40 years of age for voluntary military service; conscription ended in 2007; service obligation 6-9 months (2023)<br>

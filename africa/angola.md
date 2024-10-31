@@ -369,7 +369,7 @@ _email address and website_: <br>info@angola.org<br><br>https://angola.org/<br>
 _consulate(s) general_: Houston, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Tulinabo S. MUSHINGI (since 9 March 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Ambassador James Story (since 23 October 2024)<br>
 _embassy_: Rua Houari Boumedienne, #32, Luanda<br>
 _mailing address_: 2550 Luanda Place, Washington, DC 20521-2550<br>
 _telephone_: [244] (222) 64-1000<br>
@@ -495,8 +495,9 @@ _highest 10%_: 39.6% (2018 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $17.899 billion (2019 est.)<br>
-_expenditures_: $17.244 billion (2019 est.)<br>
+_revenues_: $18.117 billion (2019 est.)<br>
+_expenditures_: $13.871 billion (2019 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 65% of GDP (2017 est.)<br>

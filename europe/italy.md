@@ -491,8 +491,9 @@ _highest 10%_: 26.2% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $901.494 billion (2020 est.)<br>
-_expenditures_: $1.08 trillion (2020 est.)<br>
+_revenues_: $857.336 billion (2022 est.)<br>
+_expenditures_: $1.015 trillion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 131.8% of GDP (2017 est.)<br>
@@ -691,7 +692,7 @@ Italian Armed Forces (Forze Armate Italiane): Army (Esercito Italiano, EI), Navy
 approximately 170,000 active personnel (100,000 Army; 30,000 Navy; 40,000 Air Force); approximately 108,000 Carabinieri (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a mix of domestically manufactured, imported, and jointly produced weapons systems, mostly from Europe and the US; in recent years, the US has been the lead supplier of military hardware to Italy; the Italian defense industry is capable of producing equipment across all the military domains with particular strengths in aircraft, armored vehicles, and naval vessels; it also participates in joint development and production of advanced weapons systems with other European countries and the US (2023)<br>
+the military's inventory includes a mix of domestically manufactured, imported, and jointly produced weapons systems, mostly from Europe and the US; in recent years, the US has been the lead supplier of military hardware to Italy; the Italian defense industry is capable of producing equipment across all the military domains with particular strengths in aircraft, armored vehicles, and naval vessels; it also participates in joint development and production of advanced weapons systems with other European countries and the US (2024)<br>
 
 **Military service age and obligation**<br>
 17-25 years of age for voluntary military service for men and women (some variations on age depending on the military branch); voluntary service is a minimum of 12 months with the option to extend in the Armed Forces or compete for positions in the Military Corps of the Italian Red Cross, the State Police, the Carabinieri, the Guardia di Finanza, the Penitentiary Police, or the National Fire Brigade; recruits can also volunteer for 4 years military service; conscription abolished 2004 (2024)<br>

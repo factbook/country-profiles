@@ -482,9 +482,9 @@ _highest 10%_: 22.1% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $3.582 billion (2019 est.)<br>
-_expenditures_: $3.754 billion (2019 est.)<br>
-<strong>note:</strong> National Public Budget<br>
+_revenues_: $4.487 billion (2022 est.)<br>
+_expenditures_: $4.684 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 34.52% of GDP (2022 est.)<br>
@@ -664,7 +664,7 @@ Armed Forces of the Republic of Moldova (Forțele Armate ale Republicii Moldova)
 approximately 6,500 active-duty troops; approximately 2,000 Carabinieri (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is limited and almost entirely comprised of older Russian and Soviet-era equipment; in recent years, it has received donated equipment from other nations, including the US (2024)<br>
+the military's inventory is limited and almost entirely comprised of Soviet-era equipment; in recent years, it has received donated equipment from Western European nations and the US (2024)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory or voluntary military service; male registration required at age 16; 12-month service obligation (2024)<br>

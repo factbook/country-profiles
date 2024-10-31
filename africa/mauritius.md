@@ -469,8 +469,9 @@ _highest 10%_: 29.9% (2017 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $2.461 billion (2020 est.)<br>
-_expenditures_: $3.675 billion (2020 est.)<br>
+_revenues_: $3.134 billion (2022 est.)<br>
+_expenditures_: $3.647 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 57.96% of GDP (2019 est.)<br>
@@ -637,7 +638,7 @@ no regular military forces; the Mauritius Police Force (MPF) under the Ministry 
 <strong>note: </strong>the MPF is responsible for law enforcement and maintenance of order within the country; a police commissioner heads the force and has authority over all police and other security forces, including the Coast Guard and Special Mobile Forces; the Special Mobile Forces share responsibility with police for internal security<br>
 
 **Military equipment inventories and acquisitions**<br>
-the MPF's inventory is comprised of mostly secondhand equipment from Western European countries and India; since 2010, India has been the primary supplier (2023)<br>
+the MPF's inventory is comprised of mostly secondhand equipment from Western European countries and India (2023)<br>
 
 **Military - note**<br>
 the MPF's primary security partner is India, which provides training and other support to the National Coast Guard; Indian naval vessels often patrol the country's waters; the MPF has also received assistance and training from France, the UK, and the US; the MPF’s chief security concerns are piracy and narcotics trafficking<br><br>the Special Mobile Force was created in 1960 following the withdrawal of the British garrison (2024)<br>

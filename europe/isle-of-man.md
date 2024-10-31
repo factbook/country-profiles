@@ -350,10 +350,6 @@ financial services, light manufacturing, tourism<br>
 **Unemployment rate**<br>
 1.1% (2017 est.)<br>
 
-**Budget**<br>
-_revenues_: $965 million (FY05/06 est.)<br>
-_expenditures_: $943 million (FY05/06 est.)<br>
-
 **Exports - partners**<br>
 almost entirely United Kingdom (2022)<br>
 

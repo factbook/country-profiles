@@ -354,7 +354,7 @@ _election results_: President Mohammad Shahabuddin CHUPPI (AL) elected unopposed
 
 **Legislative branch**<br>
 _description_: unicameral House of the Nation or Jatiya Sangsad (350 seats; 300 members in single-seat territorial constituencies directly elected by simple majority vote; 50 members - reserved for women only - indirectly elected by the House of the Nation membership by proportional representation vote using single transferable vote method; all members serve 5-year terms); note - on 5 August 2024, Prime Minister Sheikh HASINA Wazed resigned, and the following day, President Mohammad Shahabuddin CHUPPI dissolved House of the Nation<br>
-_elections_: last held on 7 January 2024 (next to be held in 2029)<br>
+_elections_: last held on 7 January 2024 (next to be held in 2026)<br>
 _election results_: percent of vote by party - NA; seats by party as of December 2023 - AL 306, JP 27, BNP 0, other 14, independent 3; composition - men 280, women 70, percentage women 20%<br>
 
 **Judicial branch**<br>
@@ -377,7 +377,7 @@ _email address and website_: <br>mission.washington@mofa.gov.bd<br><br>Embassy o
 _consulate(s) general_: Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Peter HAAS (since 15 March 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Helen LAFAVE (since July 2024)<br>
 _embassy_: Madani Avenue, Baridhara, Dhaka - 1212<br>
 _mailing address_: 6120 Dhaka Place, Washington DC&nbsp; 20521-6120<br>
 _telephone_: [880] (2) 5566-2000<br>
@@ -503,8 +503,9 @@ _highest 10%_: 27.4% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $30.023 billion (2019 est.)<br>
-_expenditures_: $46.379 billion (2019 est.)<br>
+_revenues_: $39.849 billion (2021 est.)<br>
+_expenditures_: $34.538 billion (2021 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 33.1% of GDP (2017 est.)<br>

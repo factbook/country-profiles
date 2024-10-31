@@ -525,8 +525,9 @@ _highest 10%_: 24.9% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $1.427 trillion (2019 est.)<br>
-_expenditures_: $1.509 trillion (2019 est.)<br>
+_revenues_: $1.229 trillion (2022 est.)<br>
+_expenditures_: $1.362 trillion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 98.66% of GDP (2022 est.)<br>
@@ -735,7 +736,7 @@ French Armed Forces (Forces Armées Françaises): Army (l'Armee de Terre; includ
 approximately 205,000 active-duty troops (120,000 Army; 35,000 Navy; 40,000 Air Force; 10,000 other, such as joint staffs, administration, logistics, procurement, medical service, etc.); approximately 100,000 National Gendarmerie; approximately 75,000 National Guard (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the French military's inventory consists mostly of domestically produced weapons systems, including some jointly produced with other European countries; there is a limited mix of armaments from other Western countries, particularly the US; France has a large and sophisticated defense industry capable of manufacturing the full spectrum of air, land, and naval military weapons systems (2024)<br>
+the French military's inventory consists mostly of domestically produced weapons systems, including some jointly produced with other European countries; there is a smaller mix of armaments from other Western countries, particularly the US; France has a large and sophisticated defense industry capable of manufacturing the full spectrum of air, land, and naval military weapons systems (2024)<br>
 <strong>note:</strong> two major future acquisition programs for the French military included the Franco-German-Spanish Future Combat Air System, or FCAS (known in France as the système combat aérien du futur, or SCAF) and a next-generation tank development project with Germany known as the Main Ground Combat System, or MGCS<br>
 
 **Military service age and obligation**<br>

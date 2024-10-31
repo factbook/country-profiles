@@ -475,8 +475,9 @@ _female_: 23.3% (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $7.305 billion (2020 est.)<br>
-_expenditures_: $9.008 billion (2020 est.)<br>
+_revenues_: $7.625 billion (2021 est.)<br>
+_expenditures_: $7.163 billion (2021 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 39.92% of GDP (2021 est.)<br>

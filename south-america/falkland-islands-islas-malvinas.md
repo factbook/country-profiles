@@ -285,10 +285,6 @@ fish and wool processing; tourism<br>
 **Gini Index coefficient - distribution of family income**<br>
 36 (2015)<br>
 
-**Budget**<br>
-_revenues_: $67.1 million (FY09/10)<br>
-_expenditures_: $75.3 million (FY09/10)<br>
-
 **Public debt**<br>
 0% of GDP (2015 est.)<br>
 

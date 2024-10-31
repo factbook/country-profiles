@@ -495,8 +495,9 @@ _highest 10%_: 34.5% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $55.16 billion (2020 est.)<br>
-_expenditures_: $73.176 billion (2020 est.)<br>
+_revenues_: $78.577 billion (2022 est.)<br>
+_expenditures_: $72.673 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 23.6% of GDP (2017 est.)<br>
@@ -672,8 +673,8 @@ _key ports_: Antofagasta, Bahia de Valdivia, Bahia de Valparaiso, Coronel, Iquiq
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Chile (Fuerzas Armadas de Chile): Chilean Army (Ejército de Chile), Chilean Navy (Armada de Chile, includes marine units and coast guard or Maritime Territory and Merchant Marine Directorate (Directemar)), Chilean Air Force (Fuerza Aerea de Chile, FACh) (2024)<br>
-<strong>note:</strong> the National Police Force (Carabineros de Chile) are responsible to both the Ministry of Defense and the Ministry of the Interior and Public Security<br>
+Armed Forces of Chile (Fuerzas Armadas de Chile): Chilean Army (Ejército de Chile), Chilean Navy (Armada de Chile, includes Marine Corps and Maritime Territory and Merchant Marine Directorate or Directemar), Chilean Air Force (Fuerza Aerea de Chile, FACh) (2024)<br>
+<strong>note 1: </strong>the Directemar is the country's coast guard<br> <br><strong>note 2:</strong> the National Police Force (Carabineros de Chile) are responsible to both the Ministry of Defense and the Ministry of the Interior and Public Security<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2023 est.)<br>

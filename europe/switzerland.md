@@ -499,9 +499,9 @@ _highest 10%_: 26.4% (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $239.767 billion (2018 est.)<br>
-_expenditures_: $230.383 billion (2018 est.)<br>
-<strong>note:</strong> includes federal, cantonal, and municipal budgets<br>
+_revenues_: $143.411 billion (2022 est.)<br>
+_expenditures_: $136.348 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 17.8% of GDP (2022 est.)<br>

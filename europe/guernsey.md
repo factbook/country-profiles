@@ -330,10 +330,6 @@ _male_: 13.7% (2023 est.)<br>
 _female_: 13.2% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Budget**<br>
-_revenues_: $563.6 million (2005)<br>
-_expenditures_: $530.9 million (2005 est.)<br>
-
 **Exports - partners**<br>
 almost entirely United Kingdom (2022)<br>
 

@@ -398,8 +398,9 @@ soap, coconut oil, tourism, copra, furniture, cement blocks, shoes<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $180 million (2021 est.)<br>
-_expenditures_: $184 million (2021 est.)<br>
+_revenues_: $233.831 million (2017 est.)<br>
+_expenditures_: $164.673 million (2017 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 82.7% of GDP (2017 est.)<br>
@@ -449,7 +450,7 @@ $190.843 million (2021 est.)<br>
 
 **Debt - external**<br>
 $282.847 million (2022 est.)<br>
-<b>note:</b> present value of external debt in current US dollars<br>
+<strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>

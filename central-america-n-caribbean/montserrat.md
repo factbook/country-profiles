@@ -327,8 +327,9 @@ tourism, rum, textiles, electronic appliances<br>
 5.6% (2017 est.)<br>
 
 **Budget**<br>
-_revenues_: $66.67 million (2017 est.)<br>
-_expenditures_: $47.04 million (2017 est.)<br>
+_revenues_: $55.651 million (2014 est.)<br>
+_expenditures_: $43.652 million (2014 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Current account balance**<br>
 -$15.4 million (2017 est.)<br>

@@ -460,8 +460,9 @@ _highest 10%_: 23.3% (2019 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $993 million (2020 est.)<br>
-_expenditures_: $1.797 billion (2020 est.)<br>
+_revenues_: $1.407 billion (2021 est.)<br>
+_expenditures_: $1.548 billion (2021 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 63.9% of GDP (2017 est.)<br>
@@ -619,7 +620,7 @@ not available<br>
 approximately 3-4,000&nbsp;personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-India has provided most of the equipment in the MNDF's inventory (2023)<br>
+the Defense Force has a limited inventory consisting of a mix of mostly secondhand or donated equipment from suppliers such as Germany, India, Japan, and the UK; in 2024, the Maldives received surveillance drones from Turkey (2024)<br>
 
 **Military service age and obligation**<br>
 18-28 years of age for voluntary service; no conscription; 10th grade or equivalent education required; must not be a member of a political party (2023)<br>

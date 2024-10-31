@@ -321,10 +321,6 @@ fish processing and supply base for fishing fleets; tourism<br>
 **Unemployment rate**<br>
 8.7% (2015 est.)<br>
 
-**Budget**<br>
-_revenues_: $70 million (1996 est.)<br>
-_expenditures_: $60 million (1996 est.)<br>
-
 **Exports - partners**<br>
 Canada 84%, France 11%, Ireland 3%, Slovakia 1%, Democratic Republic of the Congo 0% (2022)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>

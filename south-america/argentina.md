@@ -385,7 +385,7 @@ _embassy_: <br>Avenida Colombia 4300, (C1425GMN) Buenos Aires<br>
 _mailing address_: 3130 Buenos Aires Place, Washington DC&nbsp; 20521-3130<br>
 _telephone_: [54] (11) 5777-4533<br>
 _FAX_: [54] (11) 5777-4240<br>
-_email address and website_: <br>buenosaires-acs@state.gov<br><br>https://ar.usembassy.gov/<br>
+_email address and website_: <br>Buenosairespublicaffairs@state.gov<br><br>https://ar.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of sky blue (top), white, and sky blue; centered in the white band is a radiant yellow sun with a human face (delineated in brown) known as the Sun of May; the colors represent the clear skies and snow of the Andes; the sun symbol commemorates the appearance of the sun through cloudy skies on 25 May 1810 during the first mass demonstration in favor of independence; the sun features are those of Inti, the Inca god of the sun<br>
@@ -506,8 +506,9 @@ _highest 10%_: 29.8% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $150.823 billion (2019 est.)<br>
-_expenditures_: $170.725 billion (2019 est.)<br>
+_revenues_: $113.553 billion (2022 est.)<br>
+_expenditures_: $138.622 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 57.6% of GDP (2017 est.)<br>

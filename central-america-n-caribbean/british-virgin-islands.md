@@ -367,7 +367,7 @@ Malta 30%, Seychelles 29%, Switzerland 14% (2019)<br>
 aircraft, recreational boats, ships, hydrogen, halogens (2021)<br>
 
 **Imports**<br>
-$300 million (2017 est.) NA<br>
+$300 million (2017 est.)<br>
 $210 million (2016 est.)<br>
 
 **Imports - partners**<br>

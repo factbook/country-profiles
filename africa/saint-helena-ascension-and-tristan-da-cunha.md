@@ -303,11 +303,6 @@ coffee, corn, potatoes, vegetables; fish, lobster; livestock; timber<br>
 **Industries**<br>
 construction, crafts (furniture, lacework, fancy woodwork), fishing, collectible postage stamps<br>
 
-**Budget**<br>
-_revenues_: $8.427 million (FY06/07 est.)<br>
-_expenditures_: $20.7 million (FY06/07 est.)<br>
-<strong>note:</strong> revenue data reflect only locally raised revenues; the budget deficit is resolved by grant aid from the UK<br>
-
 **Exports - partners**<br>
 US 55%, Netherlands 17%, Singapore 10%, Japan 8%, Senegal 2% (2022)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>

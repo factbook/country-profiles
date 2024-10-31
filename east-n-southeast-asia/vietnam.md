@@ -345,7 +345,7 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President To LAM (since 22 May 2024)<br>
+_chief of state_: President Luong CUONG (since 21 Oct 2024)<br>
 _head of government_: Prime Minister Pham Minh CHINH (since 26 July 2021)<br>
 _cabinet_: Cabinet proposed by the prime minister, confirmed by the National Assembly, and appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Assembly from among its members for a single 5-year term; prime minister recommended by the president and confirmed by the National Assembly; deputy prime ministers confirmed by the National Assembly and appointed by the president<br>
@@ -506,8 +506,9 @@ _highest 10%_: 28.1% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $64.895 billion (2019 est.)<br>
-_expenditures_: $75.834 billion (2019 est.)<br>
+_revenues_: $42.247 billion (2014 est.)<br>
+_expenditures_: $38.025 billion (2014 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 58.5% of GDP (2017 est.)<br>

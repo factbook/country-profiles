@@ -484,8 +484,9 @@ _highest 10%_: 26.2% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $12.931 billion (2020 est.)<br>
-_expenditures_: $14.242 billion (2020 est.)<br>
+_revenues_: $12.075 billion (2022 est.)<br>
+_expenditures_: $13.672 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 36.3% of GDP (2017 est.)<br>
@@ -668,10 +669,10 @@ National Armed Forces (Nacionalie Brunotie Speki or NBS): Land Forces (Latvijas 
 2.2% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 8,000 regular military forces; approximately 10,000 National Guard (2024)<br>
+approximately 8,000 active military forces; approximately 10,000 National Guard (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Latvian military's inventory consists of a mixture of Soviet-era and limited amounts of more modern, Western-produced systems acquired since the country joined NATO in 2004; in recent years, the UK and US have been the leading suppliers of military equipment (2023)<br>
+the Latvian military's inventory consists of a mix of European and US weapons and equipment (2024)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; 12 months mandatory military service for men 18-27 years of age (2024)<br>

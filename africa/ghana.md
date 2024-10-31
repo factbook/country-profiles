@@ -504,8 +504,9 @@ _highest 10%_: 32.2% (2016 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $9.492 billion (2018 est.)<br>
-_expenditures_: $14.062 billion (2018 est.)<br>
+_revenues_: $11.684 billion (2022 est.)<br>
+_expenditures_: $16.842 billion (2022 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 71.8% of GDP (2017 est.)<br>
@@ -698,7 +699,7 @@ Ghana Armed Forces (GAF): Army, Navy, Air Force (2024)<br>
 approximately 16,000 active personnel (12,000 Army; 2,000 Navy; 2,000 Air Force) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is a mix of older and some newer Russian, Chinese, and Western equipment, including US; the government in recent years has committed to an increase in funding for equipment acquisitions, including armor, mechanized, and special forces capabilities for the Army, light attack aircraft for the Air Force, and more modern coastal patrol vessels for the Navy (2024)<br>
+the military's inventory is a mix of older and some newer Russian, Chinese, and Western (including US) weapons and equipment; the government in recent years has committed to an increase in funding for equipment acquisitions, including armor, mechanized, and special forces capabilities for the Army, light attack aircraft for the Air Force, and more modern coastal patrol vessels for the Navy (2024)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for voluntary military service, with basic education certificate; no conscription (2024)<br>

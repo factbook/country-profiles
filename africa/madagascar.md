@@ -471,8 +471,9 @@ _female_: 5.6% (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $1.51 billion (2020 est.)<br>
-_expenditures_: $2.09 billion (2020 est.)<br>
+_revenues_: $1.756 billion (2022 est.)<br>
+_expenditures_: $1.523 billion (2022 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 36% of GDP (2017 est.)<br>
@@ -651,7 +652,7 @@ Madagascar People's Armed Forces (PAF): Army, Navy, Air Force; National Gendarme
 estimated 13,000 personnel (12,000 Army; 500 Navy; 500 Air Force); estimated 10,000 Gendarmerie (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the PAF's inventory consists mostly of aging Soviet-era equipment; in recent years, it has received small amounts of secondhand equipment from France, Japan, South Africa, and the UAE (2023)<br>
+the PAF's inventory consists of a mix of older or secondhand weapons from several suppliers, such as France, Japan, South Africa, the UAE, the UK, the US, and the former Soviet Union (2023)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for men and women; service obligation 18 months; no conscription; women are permitted to serve in all branches (2023)<br>

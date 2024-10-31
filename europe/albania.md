@@ -368,7 +368,7 @@ _email address and website_: <br>embassy.washington@mfa.gov.al<br><br>http://www
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires David WISNER (since August 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Nancy VANHORN (since August 2024)<br>
 _embassy_: Rruga Stavro Vinjau, No. 14, Tirana<br>
 _mailing address_: 9510 Tirana Place, Washington DC&nbsp; 20521-9510<br>
 _telephone_: [355] 4 2247-285<br>
@@ -490,8 +490,9 @@ _highest 10%_: 22.8% (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $4.19 billion (2019 est.)<br>
-_expenditures_: $4.489 billion (2019 est.)<br>
+_revenues_: $5.319 billion (2021 est.)<br>
+_expenditures_: $4.4 billion (2021 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 82.38% of GDP (2021 est.)<br>

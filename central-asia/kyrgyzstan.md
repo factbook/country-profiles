@@ -364,7 +364,7 @@ Afghan's Party<br>Alliance<br>Ata-Jurt Kyrgyzstan (Fatherland) or AJK<br>Cohesio
 ADB, CICA, CIS, CSTO, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PCA, PFP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Baktybek AMANBAEV (since 7 July 2021)<br>
+_chief of mission_: Ambassador (vacant); (since 26 October 2024)<br>
 _chancery_: 2360 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 449-9822<br>
 _FAX_: [1] (202) 449-8275<br>
@@ -493,8 +493,9 @@ _highest 10%_: 24.2% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $2.878 billion (2019 est.)<br>
-_expenditures_: $2.89 billion (2019 est.)<br>
+_revenues_: $3.859 billion (2022 est.)<br>
+_expenditures_: $2.892 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 47.09% of GDP (2022 est.)<br>
@@ -664,7 +665,7 @@ _unpaved_: 7,700 km (2020)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Kyrgyz Republic: Land Forces, Air Defense Forces, National Guard; Internal Troops; State Committee for National Security (GKNB): State Border Service (2023)<br>
+Armed Forces of the Kyrgyz Republic: Land Forces, Air Defense Forces, National Guard; Internal Troops; State Committee for National Security (GKNB): State Border Service (2024)<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2022 est.)<br>

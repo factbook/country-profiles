@@ -314,10 +314,6 @@ tourism, banking and finance, ship repairing, tobacco<br>
 **Unemployment rate**<br>
 1% (2016 est.)<br>
 
-**Budget**<br>
-_revenues_: $475.8 million (2008 est.)<br>
-_expenditures_: $452.3 million (2008 est.)<br>
-
 **Exports**<br>
 $202.3 million (2014 est.)<br>
 

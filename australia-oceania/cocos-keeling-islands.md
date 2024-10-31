@@ -195,10 +195,6 @@ vegetables, bananas, pawpaws, coconuts<br>
 **Industries**<br>
 copra products, tourism<br>
 
-**Budget**<br>
-_revenues_: NA<br>
-_expenditures_: NA<br>
-
 **Exports - partners**<br>
 US 45%, UK 12%, France 7%, Canada 6%, Poland 5% (2022)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>

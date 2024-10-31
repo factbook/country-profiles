@@ -475,8 +475,9 @@ _female_: 30.4% (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $5.093 billion (2019 est.)<br>
-_expenditures_: $5.293 billion (2019 est.)<br>
+_revenues_: $9.093 billion (2017 est.)<br>
+_expenditures_: $7.411 billion (2017 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 7% of GDP (2017 est.)<br>
@@ -527,7 +528,7 @@ $8.207 billion (2018 est.)<br>
 
 **Debt - external**<br>
 $2.14 billion (2022 est.)<br>
-<b>note:</b> present value of external debt in current US dollars<br>
+<strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: afghanis (AFA) per US dollar -<br>

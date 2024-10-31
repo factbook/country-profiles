@@ -406,8 +406,9 @@ _female_: 36%<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $371 million (2019 est.)<br>
-_expenditures_: $363 million (2019 est.)<br>
+_revenues_: $817.27 million (2022 est.)<br>
+_expenditures_: $816.572 million (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 95.12% of GDP (2021 est.)<br>

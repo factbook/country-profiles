@@ -337,9 +337,9 @@ _election results_: <em><br>2024: </em>Irakli KOBAKHIDZE approved as prime minis
 <strong>note: </strong>Irakli GARIBASHVILI resigned on 29 January 2024 to prepare for general elections in October 2024<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament or Sakartvelos Parlamenti (150 seats statutory, 140 as of May 2023); 120 members directly elected in a single nationwide constituency by closed, party-list proportional representation vote and 30 directly elected in single-seat constituencies by at least 50% majority vote, with a runoff if needed; no party earning less than 40% of total votes may claim a majority; members serve 4-year terms)<br>
-_elections_: last held on 31 October and 21 November 2020 (next to be held on 26 October 2024)<br>
-_election results_: percent of vote by party - Georgian Dream 48.2%, UNM 27.2%, European Georgia 3.8%, Lelo 3.2%, Strategy 3.2%, Alliance of Patriots 3.1%, Girchi 2.9%, Citizens 1.3%, Labor 1%; seats by party - Georgian Dream 90, UNM 36, European Georgia 5, Lelo 4, Strategy 4, Alliance of Patriots 4, Girchi 4, Citizens 2, Labor 1; composition - men 113, women 27, percentage women 19.3%<br>
+_description_: unicameral Parliament or Sakartvelos Parlamenti (150 seats statutory, 140 as of October 2024); 120 members directly elected in a single nationwide constituency by closed, party-list proportional representation vote and 30 directly elected in single-seat constituencies by at least 50% majority vote, with a runoff if needed; no party earning less than 40% of total votes may claim a majority; members serve 4-year terms)<br>
+_elections_: last held on 26 October 2024<br>
+_election results_: percent of vote by party - Georgian Dream 53.9%, the Coalition for Change 11%, Unity-National Movement 10.2%, Strong Georgia 8.8%, Gakharia for Georgia 7.8%; seats by party - Georgian Dream 89, Coalition for Change 19, Unity-National Movement 16, Strong Georgia 14, Gakharia for Georgia 12<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 28 judges organized into several specialized judicial chambers; number of judges determined by the president of Georgia); Constitutional Court (consists of 9 judges); note - the Abkhazian and Ajarian Autonomous republics each have a supreme court and a hierarchy of lower courts<br>
@@ -488,8 +488,9 @@ _highest 10%_: 26.2% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $4.737 billion (2019 est.)<br>
-_expenditures_: $5.059 billion (2019 est.)<br>
+_revenues_: $6.712 billion (2022 est.)<br>
+_expenditures_: $6.23 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 42.97% of GDP (2022 est.)<br>

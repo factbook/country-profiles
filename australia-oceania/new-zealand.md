@@ -475,8 +475,9 @@ _on alcohol and tobacco_: 4.9% of household expenditures (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $76.694 billion (2020 est.)<br>
-_expenditures_: $88.593 billion (2020 est.)<br>
+_revenues_: $83.157 billion (2022 est.)<br>
+_expenditures_: $88.64 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 54.57% of GDP (2022 est.)<br>

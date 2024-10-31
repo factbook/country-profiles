@@ -515,8 +515,9 @@ _highest 10%_: 25.6% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $495.007 billion (2020 est.)<br>
-_expenditures_: $818.94 billion (2020 est.)<br>
+_revenues_: $364.86 billion (2018 est.)<br>
+_expenditures_: $432.856 billion (2018 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 46.52% of GDP (2018 est.)<br>
@@ -726,7 +727,7 @@ Indian Armed Forces: Army, Navy, Air Force, Coast Guard; Defense Security Corps<
 information varies; approximately 1.5 million active personnel (approximately 1.25 million Army; 65,000 Navy; 140,000 Air Force; 12,000 Coast Guard) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-much of the military's inventory consists of Russian- and Soviet-origin equipment; there is a smaller, but growing mix of Western and domestically produced arms; Russia continues to be the leading provider of arms to India, although in recent years India has increased acquisitions from other suppliers, including France, Israel, and the US; it is one of the world's largest importers of arms; India's defense industry is capable of producing a range of air, land, missile, and naval weapons systems for both domestic use and export; it also produces weapons systems under license (2023)<br>
+much of the military's inventory consists of Russian- and Soviet-origin equipment; there is a smaller, but growing mix of Western and domestically produced arms; Russia continues to be the leading provider of arms to India, although in recent years India has increased acquisitions from other suppliers, including France, Israel, and the US; it is one of the world's largest importers of arms; India's defense industry is capable of producing a range of air, land, missile, and naval weapons systems for both domestic use and export; it also produces weapons systems under license (2024)<br>
 
 **Military service age and obligation**<br>
 ages vary by service, but generally 16.5-27 years of age for voluntary military service for men and women; no conscription (2023)<br>

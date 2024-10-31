@@ -356,10 +356,6 @@ _female_: 13.2% (2023 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 0.3 (2014 est.)<br>
 
-**Budget**<br>
-_revenues_: $829 million (2005)<br>
-_expenditures_: $851 million (2005)<br>
-
 **Exports - partners**<br>
 almost entirely United Kingdom (2022)<br>
 

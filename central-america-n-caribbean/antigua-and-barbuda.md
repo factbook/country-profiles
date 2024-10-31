@@ -414,8 +414,9 @@ tourism, construction, light manufacturing (clothing, alcohol, household applian
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $278 million (2020 est.)<br>
-_expenditures_: $357 million (2020 est.)<br>
+_revenues_: $251.418 million (2014 est.)<br>
+_expenditures_: $266.044 million (2014 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 86.8% of GDP (2017 est.)<br>

@@ -322,7 +322,7 @@ _email address and website_: <br>embassy@bahamasembdc.org<br><br>https://www.bah
 _consulate(s) general_: Atlanta, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Usha E. PITTS (since 1 January 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Kimberly FURNISH (since June 2024)<br>
 _embassy_: 42 Queen Street, Nassau<br>
 _mailing address_: 3370 Nassau Place, Washington, DC 20521-3370<br>
 _telephone_: [1] (242) 322-1181<br>
@@ -426,8 +426,9 @@ _female_: 26.7% (2023 est.)<br>
 0.47% of GDP (2021 est.)<br>
 
 **Budget**<br>
-_revenues_: $2.087 billion (2020 est.)<br>
-_expenditures_: $2.899 billion (2020 est.)<br>
+_revenues_: $2.606 billion (2022 est.)<br>
+_expenditures_: $3.102 billion (2022 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 82.16% of GDP (2022 est.)<br>

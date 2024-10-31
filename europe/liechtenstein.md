@@ -381,10 +381,6 @@ electronics, metal manufacturing, dental products, ceramics, pharmaceuticals, fo
 2.4% (2015)<br>
 2.4% (2014)<br>
 
-**Budget**<br>
-_revenues_: $995.3 million (2012 est.)<br>
-_expenditures_: $890.4 million (2011 est.)<br>
-
 **Exports**<br>
 $3.217 billion (2015 est.)<br>
 $3.774 billion (2014 est.)<br>
