@@ -317,7 +317,7 @@ _agricultural_: 70 million cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: Democratic Republic of the Congo<br>
 _conventional short form_: DRC<br>
-_local long form_: Republique Democratique du Congo<br>
+_local long form_: R&eacute;publique d&eacute;mocratique du Congo<br>
 _local short form_: RDC<br>
 _former_: Congo Free State, Belgian Congo, Congo/Leopoldville, Congo/Kinshasa, Zaire<br>
 _abbreviation_: DRC (or DROC)<br>

@@ -377,7 +377,7 @@ _email address and website_: <br>embassy.washingtondc@mfa.gov.tr<br><br>T.C. Dı
 _consulate(s) general_: Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Jeffry Lane FLAKE (since 26 January 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Michael GOLDMAN (since September 2024)<br>
 _embassy_: 1480 Sokak No. 1, Cukurambar Mahallesi, 06530 Cankaya, Ankara<br>
 _mailing address_: 7000 Ankara Place, Washington&nbsp; DC 20512-7000<br>
 _telephone_: [90] (312) 294-0000<br>

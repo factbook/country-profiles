@@ -659,7 +659,7 @@ Papua New Guinea Defense Force (PNGDF): Land Element, Maritime Element, Air Elem
 approximately 2,500 active-duty PNGDF troops (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the PNGDF is lightly armed; most of its military assistance has come from Australia (2023)<br>
+the PNGDF is lightly armed; the Land Force has no heavy weapons while the Air and the Maritime forces have a handful of light aircraft and small patrol boats provided by Australia (2024)<br>
 
 **Military service age and obligation**<br>
 18-27 for voluntary military service for men and women; no conscription (2024)<br>

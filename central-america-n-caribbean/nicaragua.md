@@ -657,7 +657,8 @@ Armed Forces of Nicaragua (formal name is Army of Nicaragua or Ejercito de Nicar
 approximately 12,000 active personnel (10,000 Army; 800 Navy; 1,200 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes mostly secondhand Russian/Soviet-era equipment; in recent years, Russia has been the leading arms supplier to Nicaragua (2023)<br>
+the military's air and ground force inventories include mostly secondhand Russian or Soviet-era equipment; its naval force has a miscellaneous mix of patrol boats from several foreign suppliers, as well as some commercial vessels converted into gunboats domestically (2024)<br>
+<strong>note: </strong>in 2024, the US imposed restrictions on the import and export of US origin defense articles and defense services destined for or originating in Nicaragua<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary military service; no conscription; tour of duty 18-36 months (2024)<br>

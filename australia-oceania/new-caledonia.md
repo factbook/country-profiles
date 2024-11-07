@@ -222,8 +222,8 @@ _municipal solid waste generated annually_: 108,157 tons (2016 est.)<br>
 **Country name**<br>
 _conventional long form_: Territory of New Caledonia and Dependencies<br>
 _conventional short form_: New Caledonia<br>
-_local long form_: Territoire des Nouvelle-Caledonie et Dependances<br>
-_local short form_: Nouvelle-Caledonie<br>
+_local long form_: Territoire des Nouvelle-Cal&eacute;donie et d&eacute;pendances<br>
+_local short form_: Nouvelle-Cal&eacute;donie<br>
 _etymology_: British explorer Captain James COOK discovered and named New Caledonia in 1774; he used the appellation because the northeast of the island reminded him of Scotland (Caledonia is the Latin designation for Scotland)<br>
 
 **Government type**<br>

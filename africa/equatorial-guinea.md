@@ -263,8 +263,8 @@ _agricultural_: 1 million cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Equatorial Guinea<br>
 _conventional short form_: Equatorial Guinea<br>
-_local long form_: Republica de Guinea Ecuatorial (Spanish)/ Republique de Guinee Equatoriale (French)<br>
-_local short form_: Guinea Ecuatorial (Spanish)/ Guinee Equatoriale (French)<br>
+_local long form_: Republica de Guinea Ecuatorial (Spanish)/ R&eacute;publique de Guin&eacute;e &eacute;quatoriale (French)<br>
+_local short form_: Guinea Ecuatorial (Spanish)/Guin&eacute;e &eacute;quatoriale (French)<br>
 _former_: Spanish Guinea<br>
 _etymology_: the country is named for the Guinea region of West Africa that lies along the Gulf of Guinea and stretches north to the Sahel; the "equatorial" refers to the fact that the country lies just north of the Equator<br>
 

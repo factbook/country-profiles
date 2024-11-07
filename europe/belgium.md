@@ -363,7 +363,7 @@ _consulate(s) general_: Atlanta, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Michael ADLER (since 15 March 2022)<br>
-_embassy_: 27 Boulevard du Regent [Regentlaan], B-1000 Brussels<br>
+_embassy_: Regentlaan 27 Boulevard du Regent, B-1000 Brussels<br>
 _mailing address_: 7600 Brussels Place, Washington DC&nbsp; 20521-7600<br>
 _telephone_: [32] (2) 811-4000<br>
 _FAX_: [32] (2) 811-4500<br>

@@ -74,7 +74,7 @@ introduction of foreign species on Iles Crozet has caused severe damage to the o
 **Country name**<br>
 _conventional long form_: Territory of the French Southern and Antarctic Lands<br>
 _conventional short form_: French Southern and Antarctic Lands<br>
-_local long form_: Territoire des Terres Australes et Antarctiques Francaises<br>
+_local long form_: Terres australes et antarctiques fran&ccedil;aises<br>
 _local short form_: Terres Australes et Antarctiques Francaises<br>
 _abbreviation_: TAAF<br>
 _etymology_: self-descriptive name specifying the territories' affiliation and location in the Southern Hemisphere<br>

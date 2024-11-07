@@ -681,7 +681,7 @@ Namibian Defense Force (NDF): Army, Navy, Air Force (2024)<br>
 information varies; approximately 12,000 personnel (10,000 Army; 1,000 Navy; 1,000 Air Force) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the NDF's inventory consists of a mix of Soviet-era and some more modern systems from a variety of countries, including Brazil, China, Germany, India, and South Africa; in recent years, China has been the leading supplier; Namibia has a small defense industry that produces items such as armored personnel carriers (2023)<br>
+the NDF's inventory consists of a mix of Soviet-era and some more modern systems from a variety of countries, including Brazil, China, Germany, India, and South Africa; most of the Navy's vessels and the Air Force's fighter aircraft were acquired from China; Namibia has a small defense industry that produces items such as armored personnel carriers (2024)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for men and women for voluntary military service; no conscription (2024)<br>

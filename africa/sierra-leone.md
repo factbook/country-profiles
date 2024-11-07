@@ -647,7 +647,7 @@ Republic of Sierra Leone Armed Forces (RSLAF): Land Forces, Maritime Forces, Air
 approximately 8,500 personnel, mostly ground forces&nbsp; (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the RSLAF has a small inventory that includes a mix of Soviet-origin and other older foreign-supplied equipment; in recent years, it has received limited amounts of mostly donations and secondhand equipment (2024)<br>
+the RSLAF has a small inventory that includes a mix of Soviet-origin and other older foreign-supplied equipment; in recent years, it has received limited amounts of newer equipment, mostly as donations (2024)<br>
 
 **Military service age and obligation**<br>
 18-30 for voluntary military service for men and women (25-40 for specialists); no conscription (2023)<br>

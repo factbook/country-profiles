@@ -301,7 +301,7 @@ _agricultural_: 400,000 cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Central African Republic<br>
 _conventional short form_: none<br>
-_local long form_: Republique Centrale Africaine<br>
+_local long form_: R&eacute;publique centrafricaine<br>
 _local short form_: none<br>
 _former_: Ubangi-Shari, Central African Empire<br>
 _abbreviation_: CAR<br>

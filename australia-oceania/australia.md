@@ -712,7 +712,7 @@ the military's inventory includes a mix of domestically produced and imported We
 <strong>note:</strong> in 2023, the Australian defense ministry announced a new strategic review that called for the acquisition of more long-range deterrence capabilities, including missiles, submarines, and cyber tools; in early 2024, Australia announced a 10-year plan to more than double the number of the Navy's major surface combatant ships<br>
 
 **Military service age and obligation**<br>
-17 years of age (with parental consent) for voluntary military service for men and women; no conscription (abolished 1973) (2024)<br>
+17 years of age (with parental consent; 18 years of age to deploy) for voluntary military service for men and women; no conscription (abolished 1972) (2024)<br>
 <strong>note 1: </strong>as of July 2024, New Zealanders who are permanent residents and have lived in Australia for at least 12 months could apply to join the ADF; from January 2025, eligible permanent residents from Canada, the UK, and the US will also be able to apply<br><br><strong>note 2:</strong> women have served in all roles, including combat arms, since 2013; in 2024, they comprised slightly more than 20% of the military<br>
 
 **Military deployments**<br>

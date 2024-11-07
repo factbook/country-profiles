@@ -339,7 +339,7 @@ _embassy_: Wildey Business Park, St. Michael BB 14006, Barbados, W.I.<br>
 _mailing address_: 3120 Bridgetown Place, Washington DC&nbsp; 20521-3120<br>
 _telephone_: (246) 227-4000<br>
 _FAX_: (246) 431-0179<br>
-_email address and website_: <br>BridgetownACS@state.gov<br><br>https://bb.usembassy.gov/<br>
+_email address and website_: <br>bridgetownpublicaffairs@state.gov<br><br>https://bb.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal vertical bands of ultramarine blue (hoist side), gold, and ultramarine blue with the head of a black trident centered on the gold band; the band colors represent the blue of the sea and sky and the gold of the beaches; the trident head represents independence and a break with the past (the colonial coat of arms contained a complete trident)<br>

@@ -294,7 +294,7 @@ _agricultural_: 13 billion cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Madagascar<br>
 _conventional short form_: Madagascar<br>
-_local long form_: Republique de Madagascar/Repoblikan'i Madagasikara<br>
+_local long form_: R&eacute;publique de Madagascar/Repoblikan'i Madagasikara<br>
 _local short form_: Madagascar/Madagasikara<br>
 _former_: Malagasy Republic<br>
 _etymology_: the name "Madageiscar" was first used by the 13th-century Venetian explorer Marco POLO, as a corrupted transliteration of Mogadishu, the Somali port with which POLO confused the island<br>

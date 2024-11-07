@@ -666,7 +666,7 @@ the Saudi Armed Forces have about 250,000 total active troops; approximately 125
 <strong>note:</strong> SANG also has an irregular force (Fowj), primarily Bedouin tribal volunteers, with a total strength of approximately 25,000<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Saudi military forces, including the SANG, includes a mix of mostly modern weapons systems from the US and Europe; in recent years, the US has been the leading supplier of armaments; other major suppliers include France and the UK; Saudi Arabia is one of the world's largest importers of arms (2023)<br>
+the inventory of the Saudi military forces, including the SANG, includes a mix of mostly modern weapons systems from the US and Europe; in recent years, the US has been the leading supplier of armaments; other major suppliers include France, Spain, and the UK; Saudi Arabia is one of the world's largest importers of arms (2024)<br>
 <strong>note:</strong> the Saudi Navy is in the midst of a multi-year and multi-billion-dollar expansion and modernization program to purchase new frigates, corvettes, and other naval craft from such suppliers as Spain and the US<br>
 
 **Military service age and obligation**<br>

@@ -695,7 +695,7 @@ Armed Forces for the Defense of Mozambique (Forcas Armadas de Defesa de Mocambiq
 information limited and varied; estimated 12,000 active personnel (11,000 Army and about 1,000 Air Force and Navy) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FADM's inventory consists primarily of Soviet-era equipment, although in recent years it has received limited quantities of more modern equipment from a variety of countries, mostly as aid/donations (2023)<br>
+the FADM's inventory consists primarily of Russian and Soviet-era equipment, although in recent years it has received limited quantities of more modern equipment from a variety of countries, mostly as aid/donations (2024)<br>
 
 **Military service age and obligation**<br>
 registration for military service is mandatory for all men and women at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service for men and women; 24-month service obligation (note - in 2023, the Mozambique Government said it intended to raise the length of service from two to five years) (2023)<br>

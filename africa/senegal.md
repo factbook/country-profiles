@@ -309,7 +309,7 @@ _agricultural_: 2.76 billion cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Senegal<br>
 _conventional short form_: Senegal<br>
-_local long form_: Republique du S&eacute;n&eacute;gal&nbsp;<br>
+_local long form_: R&eacute;publique du S&eacute;n&eacute;gal<br>
 _local short form_: S&eacute;n&eacute;gal<br>
 _former_: Senegambia (along with The Gambia), Mali Federation<br>
 _etymology_: named for the Senegal River that forms the northern border of the country; many theories exist for the origin of the river name; perhaps the most widely cited derives the name from "Azenegue," the Portuguese appellation for the Berber Zenaga people who lived north of the river<br>
@@ -691,7 +691,7 @@ Senegalese Armed Forces (les Forces Armées Sénégalaises, FAS): Army (l’Arm�
 approximately 27,000 active personnel (15,000 Army; 1,500 Navy; 1,500 Air Force; 16,000 National Gendarmerie); 15,000 National Police (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a mix of older, secondhand, and more modern equipment from a variety of countries, including France, South Africa, and Russia/former Soviet Union; in recent years, the military has undertaken a modernization program and has received newer equipment from more than 10 countries (2024)<br>
+the military's inventory includes a mix of older, secondhand, and more modern equipment from a variety of countries, including France, South Africa, and Russia/former Soviet Union; in recent years, the military has undertaken a modernization program and has received newer equipment from more than 10 countries, including France and the US (2024)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; 20 years of age for selective compulsory service for men and possibly women; 24-month service obligation (2023)<br>

@@ -314,7 +314,7 @@ _agricultural_: 740 million cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Cameroon<br>
 _conventional short form_: Cameroon<br>
-_local long form_: Republique du Cameroun (French)/Republic of Cameroon (English)<br>
+_local long form_: R&eacute;publique du Cameroun (French)/Republic of Cameroon (English)<br>
 _local short form_: Cameroun/Cameroon<br>
 _former_: Kamerun, French Cameroon, British Cameroon, Federal Republic of Cameroon, United Republic of Cameroon<br>
 _etymology_: in the 15th century, Portuguese explorers named the area near the mouth of the Wouri River the Rio dos Camaroes (River of Prawns) after the abundant shrimp in the water; over time the designation became Cameroon in English; this is the only instance where a country is named after a crustacean<br>

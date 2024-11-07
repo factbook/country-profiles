@@ -303,8 +303,8 @@ _agricultural_: 600 million cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Guinea<br>
 _conventional short form_: Guinea<br>
-_local long form_: Republique de Guinee<br>
-_local short form_: Guinee<br>
+_local long form_: R&eacute;publique de Guin&eacute;e<br>
+_local short form_: Guin&eacute;e<br>
 _former_: French Guinea<br>
 _etymology_: the country is named after the Guinea region of West Africa that lies along the Gulf of Guinea and stretches north to the Sahel<br>
 

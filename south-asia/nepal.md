@@ -645,10 +645,10 @@ Nepalese Armed Forces (Ministry of Defense): Nepali Army (includes Air Wing)<br>
 approximately 95,000 active troops (including a small air wing of about 500 personnel) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Army's inventory includes a mix of mostly older equipment largely of British, Chinese, Indian, Russian, and South African origin; in recent years, Nepal has received limited amounts of newer hardware from several countries, including China, Italy, and Russia (2023)<br>
+the Army's inventory includes a mix of mostly older equipment largely of British, Chinese, Indian, Russian, and South African origin; in recent years, Nepal has received limited amounts of newer hardware from several countries, including China, Indonesia, Italy, and Russia (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service (including women); no conscription (2023)<br>
+18 years of age for voluntary military service for men and women; no conscription (2023)<br>
 <strong>note:</strong> as of 2022, women comprised about 7% of the active duty military<br>
 
 **Military deployments**<br>

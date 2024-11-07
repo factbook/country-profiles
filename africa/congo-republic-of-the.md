@@ -311,7 +311,7 @@ _agricultural_: 4 million cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of the Congo<br>
 _conventional short form_: Congo (Brazzaville)<br>
-_local long form_: Republique du Congo<br>
+_local long form_: R&eacute;publique du Congo<br>
 _local short form_: Congo<br>
 _former_: French Congo, Middle Congo, People's Republic of the Congo, Congo/Brazzaville<br>
 _etymology_: named for the Congo River, which makes up much of the country's eastern border; the river name derives from Kongo, a Bantu kingdom that occupied its mouth at the time of Portuguese discovery in the late 15th century and whose name stems from its people the Bakongo, meaning "hunters"<br>

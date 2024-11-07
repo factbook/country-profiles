@@ -285,7 +285,7 @@ _agricultural_: 3 million cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Djibouti<br>
 _conventional short form_: Djibouti<br>
-_local long form_: Republique de Djibouti (French)/ Jumhuriyat Jibuti (Arabic)<br>
+_local long form_: R&eacute;publique de Djibouti (French)/ Jumhuriyat Jibuti (Arabic)<br>
 _local short form_: Djibouti (French)/ Jibuti (Arabic)<br>
 _former_: French Somaliland, French Territory of the Afars and Issas<br>
 _etymology_: the country name derives from the capital city of Djibouti<br>

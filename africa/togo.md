@@ -299,7 +299,7 @@ _agricultural_: 80 million cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: Togolese Republic<br>
 _conventional short form_: Togo<br>
-_local long form_: Republique Togolaise<br>
+_local long form_: R&eacute;publique Togolaise<br>
 _local short form_: none<br>
 _former_: French Togoland<br>
 _etymology_: derived from the Ewe words "to" (river) and "godo" (on the other side) to give the sense of "on the other side of the river"; originally, this designation applied to the town of Togodo (now Togoville) on the northern shore of Lake Togo, but the name was eventually extended to the entire nation<br>

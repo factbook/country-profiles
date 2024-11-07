@@ -308,7 +308,7 @@ _agricultural_: 670 million cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Chad<br>
 _conventional short form_: Chad<br>
-_local long form_: Republique du Tchad/Jumhuriyat Tshad<br>
+_local long form_: R&eacute;publique du Tchad/Jumhuriyat Tshad<br>
 _local short form_: Tchad/Tshad<br>
 _etymology_: named for Lake Chad, which lies along the country's western border; the word "tsade" means "large body of water" or "lake" in several local native languages<br>
 <strong>note:</strong> the only country whose name is composed of a single syllable with a single vowel<br>

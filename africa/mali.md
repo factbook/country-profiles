@@ -319,7 +319,7 @@ _agricultural_: 5.08 billion cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Mali<br>
 _conventional short form_: Mali<br>
-_local long form_: Republique de Mali<br>
+_local long form_: R&eacute;publique de Mali<br>
 _local short form_: Mali<br>
 _former_: French Sudan, Sudanese Republic, Mali Federation<br>
 _etymology_: name derives from the West African Mali Empire of the 13th to 16th centuries A.D.<br>

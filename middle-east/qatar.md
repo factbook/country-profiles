@@ -344,7 +344,7 @@ political parties are banned<br>
 ABEDA, AFESD, AMF, CAEU, CD, CICA (observer), EITI (implementing country), FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OAS (observer), OIC, OIF, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador MISHAL bin Hamad bin Muhammad Al Thani (since 24 April 2017)<br>
+_chief of mission_: Ambassador Meshal bin Hamad AL THANI (since 24 April 2017)<br>
 _chancery_: 2555 M Street NW, Washington, DC 20037<br>
 _telephone_: [1] (202) 274-1600<br>
 _FAX_: [1] (202) 237-0682<br>

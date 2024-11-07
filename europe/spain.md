@@ -703,7 +703,7 @@ approximately 118,000 active-duty troops (70,000 Army; 25,000 Navy, including ab
 <strong>note: </strong>military figures include about 3,500 Emergency Response Unit and 1,500-2,000 Royal Guard personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is comprised of domestically produced and imported Western weapons systems; in recent years, leading suppliers have included France, Germany, and the US; Spain's defense industry manufactures land, air, and sea weapons systems and is integrated within the European defense-industrial sector (2023)<br>
+the military's inventory is comprised of weapons and equipment that were produced domestically, co-produced with or imported from other EU countries, or purchased from the US; in recent years, leading suppliers have included France, Germany, and the US; Spain's defense industry manufactures land, air, and sea weapons systems and is integrated within the European defense-industrial sector (2024)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; 24-36 month initial obligation; women allowed to serve in all branches, including combat units; no conscription (abolished 2001), but the Spanish Government retains the right to mobilize citizens 19-25 years of age in a national emergency; 18-58 for the voluntary reserves (2024)<br>

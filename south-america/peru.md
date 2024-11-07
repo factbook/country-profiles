@@ -722,7 +722,7 @@ Armed Forces of Peru (Fuerzas Armadas del Perú or FAP): Peruvian Army (Ejercito
 information varies; approximately 95,000 active-duty personnel (60,000 Army; 25,000 Navy, including about 4,000 naval infantry and 1,000 Coast Guard; 10,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is a mix of mostly older equipment from a wide variety of suppliers, including Brazil, Europe, Russia/the former Soviet Union, and the US; in recent years, it has received some more modern weapons systems from more than a dozen countries with South Korea as the leading supplier (2023)<br>
+the military has a broad mix of mostly older but some more modern equipment from a range of suppliers, including Brazil, China, France, Germany, Italy, Russia and the former Soviet Union, South Korea, and the US; some deliveries have been secondhand weapons systems; Peru has a small defense industry, including a shipyard that builds and upgrades naval vessels; it also has defense industrial cooperation agreements with several countries, including Russia, South Korea, Spain, and the US (2024)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary military service (12 months); no conscription (abolished in 1999) (2023)<br>

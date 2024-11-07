@@ -376,7 +376,7 @@ Accord Party or ACC <br>Africa Democratic Congress or ADC  <br>All Progressiv
 ACP, AfDB, ATMIS, AU, C, CD, D-8, ECOWAS, EITI (compliant country), FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINURSO, MNJTF, MONUSCO, NAM, OAS (observer), OIC, OPCW, OPEC, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNITAR, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Rabiu&nbsp;LAWAL, (since 10 June 2024)<br>
+_chief of mission_: Ambassador-designate Samson ITEGBOJE, (since October 2024)<br>
 _chancery_: 3519 International Court NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 800-7201 (ext. 100)<br>
 _FAX_: [1] (202) 362-6541<br>
@@ -384,7 +384,7 @@ _email address and website_: <br>info@nigeriaembassyusa.org<br><br>https://www.n
 _consulate(s) general_: Atlanta, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires David GREENE (since 31 March 2023)<br>
+_chief of mission_: Ambassador Richard MILLS, Jr. (since 25 July 2024)<br>
 _embassy_: Plot 1075 Diplomatic Drive, Central District Area, Abuja<br>
 _mailing address_: 8320 Abuja Place, Washington DC&nbsp; 20521-8320<br>
 _telephone_: [234] (9) 461-4000<br>
@@ -710,7 +710,7 @@ Armed Forces of Nigeria (AFN): Army, Navy (includes Coast Guard), Air Force<br><
 information varies; approximately 135,000 active-duty armed forces personnel (100,000 Army; 20,000 Navy/Coast Guard; 15,000 Air Force); approximately 80,000 Security and Civil Defense Corps; approximately 370,000 police (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of a wide variety of imported weapons systems of Chinese, European, Middle Eastern, Russian (including Soviet-era), and US origin; the military is undergoing a modernization program, and in recent years has received equipment from nearly 20 countries with China and Russia as the leading suppliers; Nigeria is also developing a defense-industry capacity, including small arms, armored personnel vehicles, and small-scale naval production (2023)<br>
+the military's inventory consists of a wide variety of imported weapons systems of Chinese, European, Middle Eastern, Russian (including Soviet-era), and US origin; the military is undergoing a modernization program, and in recent years has received equipment from a range of suppliers, including Brazil, China, France, Italy, Russia, Turkey, and the US; Nigeria is also developing a defense-industry capacity, including small arms, armored personnel vehicles, and small-scale naval production (2024)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service for men and women; no conscription (2023)<br>

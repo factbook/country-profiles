@@ -665,7 +665,7 @@ Algerian People's National Army (ANP): Land Forces, Naval Forces (includes Coast
 approximately 225,000 armed forces personnel (100,000 Army; 15,000 Air Force/Air Defense; 10,000 Navy; 1,000 Republican Guard; 100,000 Gendarmerie) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the ANP is one of the better-equipped militaries in North Africa; over the past decade, it has made large investments in more modern equipment, including armored vehicles, air defense systems, fighter aircraft, unmanned aerial vehicles, and warships, largely from Russia, its traditional supplier, but also China and Western European suppliers such as Germany (2023)<br>
+the ANP is one of the better-equipped militaries in North Africa; over the past decade, it has made large investments in more modern equipment, including armored vehicles, air defense systems, fighter aircraft, missiles, unmanned aerial vehicles, and warships, largely from Russia, its traditional supplier, but also China and Western European suppliers such as Germany (2023)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service for men and women; 19-30 years of age for mandatory national service for men (all Algerian men must register at age 17); service obligation reduced from 18 to 12 months in 2014 (2024)<br>

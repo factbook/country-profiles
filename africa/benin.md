@@ -298,7 +298,7 @@ _agricultural_: 60 million cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Benin<br>
 _conventional short form_: Benin<br>
-_local long form_: Republique du Benin<br>
+_local long form_: R&eacute;publique du Benin<br>
 _local short form_: Benin<br>
 _former_: Dahomey, People's Republic of Benin<br>
 _etymology_: named for the Bight of Benin, the body of water on which the country lies<br>
@@ -373,9 +373,9 @@ _email address and website_: <br>ambassade.washington@gouv.bj<br><br>https://ben
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Brian SHUKAN (since 5 May 2022)<br>
-_embassy_: 01 BP 2012, Cotonou<br>
+_embassy_: 01BP 2012, Cotonou<br>
 _mailing address_: <p>2120 Cotonou Place, Washington DC  20521-2120</p><br>
-_telephone_: [229] 21-30-06-50<br>
+_telephone_: [229] 21-36-75-00<br>
 _FAX_: [229] 21-30-03-84<br>
 _email address and website_: <br>ACSCotonou@state.gov<br><br>https://bj.usembassy.gov/<br>
 

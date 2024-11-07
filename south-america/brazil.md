@@ -390,7 +390,7 @@ _consulate(s) general_: Atlanta, Boston, Chicago, Hartford (CT), Houston, Los An
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Elizabeth Frawley BAGLEY (since 3 February 2023)<br>
-_embassy_: SES - Avenida das Na&ccedil;&otilde;es, Quadra 801, Lote 3, 70403-900 - Bras&iacute;lia, DF<br>
+_embassy_: SES - Avenida das Na&ccedil;&otilde;es, Quadra 801, Lote 03, 70403-900 - Bras&iacute;lia, DF<br>
 _mailing address_: 7500 Brasilia Place, Washington DC&nbsp; 20521-7500<br>
 _telephone_: [55] (61) 3312-7000<br>
 _FAX_: [55] (61) 3225-9136<br>

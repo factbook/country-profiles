@@ -168,8 +168,8 @@ tropical, with practically no variation in temperature; has two seasons (dry and
 **Country name**<br>
 _conventional long form_: Overseas Collectivity of Saint Barthelemy<br>
 _conventional short form_: Saint Barthelemy<br>
-_local long form_: Collectivite d'outre mer de Saint-Barthelemy<br>
-_local short form_: Saint-Barthelemy<br>
+_local long form_: Collectivit&eacute; d'outre mer de Saint-Barth&eacute;lemy<br>
+_local short form_: Saint-Barth&eacute;lemy<br>
 _abbreviation_: Saint-Barth (French)/ St. Barts or St. Barths (English)<br>
 _etymology_: explorer Christopher COLUMBUS named the island in honor of his brother Bartolomeo's namesake saint in 1493<br>
 

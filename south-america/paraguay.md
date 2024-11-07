@@ -685,7 +685,7 @@ Armed Forces of Paraguay (Fuerzas Armadas de Paraguay; aka Armed Forces of the N
 approximately 20,000 active-duty personnel (13,500 Army; 4,000 Navy; 2,500 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is comprised of mostly older equipment from a variety of foreign suppliers, particularly Brazil and the US (2023)<br>
+the military's inventory is comprised of mostly older or obsolescent equipment from a variety of foreign suppliers, particularly Brazil and the US; in recent years, the Paraguayan Government has purchased small quantities of more modern equipment (2024)<br>
 
 **Military service age and obligation**<br>
 18 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 12 months for Army, 24 months for Navy; conscripts also serve in the National Police (2024)<br>

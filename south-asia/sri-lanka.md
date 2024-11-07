@@ -682,7 +682,7 @@ approximately 260,000 total personnel (200,000 Army; 30,000 Navy; 30,000 Air For
 <strong>note: </strong>in January 2023, Sri Lanka’s Ministry of Defense announced plans to decrease the size of the Army to 135,000 by 2024 and 100,000 by 2030<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists mostly of Chinese and Russian-origin equipment with a smaller mix of material from countries such as India and the US, including donations; defense acquisitions have been limited over the past decade (2024)<br>
+the military's inventory consists mostly of Chinese- and Russian-origin equipment with a smaller mix of material from countries such as India and the US, including donations; defense acquisitions have been limited over the past decade (2024)<br>
 
 **Military service age and obligation**<br>
 18-22 years of age for voluntary military service for men and women; no conscription (2023)<br>

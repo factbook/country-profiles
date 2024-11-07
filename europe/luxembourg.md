@@ -283,7 +283,7 @@ _global geoparks and regional networks_: M&euml;llerdall (2023)<br>
 **Country name**<br>
 _conventional long form_: Grand Duchy of Luxembourg<br>
 _conventional short form_: Luxembourg<br>
-_local long form_: Grand Duche de Luxembourg<br>
+_local long form_: Grand Duch&eacute; de Luxembourg<br>
 _local short form_: Luxembourg<br>
 _etymology_: the name derives from the Celtic "lucilem" (little) and the German "burg" (castle or fortress) to produce the meaning of the "little castle"; the name is actually ironic, since for centuries the Fortress of Luxembourg was one of Europe's most formidable fortifications; the name passed to the surrounding city and then to the country itself<br>
 

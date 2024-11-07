@@ -175,7 +175,7 @@ _municipal solid waste generated annually_: 15,480 tons (2012 est.)<br>
 **Country name**<br>
 _conventional long form_: Overseas Collectivity of Saint Martin<br>
 _conventional short form_: Saint Martin<br>
-_local long form_: Collectivite d'outre mer de Saint-Martin<br>
+_local long form_: Collectivit&eacute; d'outre mer de Saint-Martin<br>
 _local short form_: Saint-Martin<br>
 _etymology_: explorer Christopher COLUMBUS named the island after Saint MARTIN of Tours because the 11 November 1493 day of discovery was the saint's feast day<br>
 

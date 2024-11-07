@@ -238,7 +238,7 @@ _agricultural_: 0 cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Principality of Monaco<br>
 _conventional short form_: Monaco<br>
-_local long form_: Principaute de Monaco<br>
+_local long form_: Principaut&eacute; de Monaco<br>
 _local short form_: Monaco<br>
 _etymology_: founded as a Greek colony in the 6th century B.C., the name derives from two Greek words "monos" (single, alone) and "oikos" (house) to convey the sense of a people "living apart" or in a "single habitation"<br>
 

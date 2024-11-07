@@ -216,7 +216,7 @@ _rate of urbanization_: 0.75% annual rate of change (2020-25 est.)<br>
 **Country name**<br>
 _conventional long form_: Territorial Collectivity of Saint Pierre and Miquelon<br>
 _conventional short form_: Saint Pierre and Miquelon<br>
-_local long form_: Departement de Saint-Pierre et Miquelon<br>
+_local long form_: D&eacute;partement de Saint-Pierre et Miquelon<br>
 _local short form_: Saint-Pierre et Miquelon<br>
 _etymology_: Saint-Pierre is named after Saint PETER, the patron saint of fishermen; Miquelon may be a corruption of the Basque name Mikelon<br>
 

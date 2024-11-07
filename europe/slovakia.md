@@ -678,7 +678,7 @@ Armed Forces of the Slovak Republic (Ozbrojene Sily Slovenskej Republiky): Land 
 approximately 15,000 active-duty personnel (8,000 Land Forces; 4,000 Air Forces; 3,000 other, including staff, special operations, and support forces) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists mostly of Soviet-era platforms; in recent years, it has imported limited quantities of more modern, NATO-compatible equipment, particularly from Italy and the US (2024)<br>
+the military's inventory consists mostly of Soviet-era platforms; in recent years it has imported limited quantities of more modern, NATO-compatible equipment, particularly from Italy and the US (2024)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary military service for men and women; conscription in peacetime suspended in 2004 (2023)<br>

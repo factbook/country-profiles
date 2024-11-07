@@ -314,7 +314,7 @@ _agricultural_: 2.35 billion cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Niger<br>
 _conventional short form_: Niger<br>
-_local long form_: Republique du Niger<br>
+_local long form_: R&eacute;publique du Niger<br>
 _local short form_: Niger<br>
 _etymology_: named for the Niger River that passes through the southwest of the country; from a native term "Ni Gir" meaning "River Gir"<br>
 <strong>note:</strong> pronounced nee-zhair<br>
@@ -684,7 +684,7 @@ information varies; estimated 30-35,000 active FAN troops; estimated 5-10,000 pa
 <strong>note: </strong>in 2020, the Nigerien Government announced it intended to increase the size of the FAN to 50,000 by 2025 and 100,000 by 2030<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAN's inventory consists of a wide variety of older weapons; in recent years, it has received small amounts of mostly secondhand equipment and donations from several countries, including Egypt and the US (2023)<br>
+the FAN's inventory consists of a wide variety of older weapons, including French, Russian, and Soviet era; in recent years, it has received small amounts of mostly secondhand equipment from several countries, including China, Egypt, and the US (2023)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for selective compulsory or voluntary military service for unmarried men and women; 24-month service term (2023)<br>

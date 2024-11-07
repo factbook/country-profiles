@@ -381,7 +381,7 @@ _consulate(s) general_: Houston, Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Chargé d'Affaires Debra HEVIA (since September 2023)<br>
-_embassy_: Avenida Arce 2780, La Paz<br>
+_embassy_: Avenida Arce 2780, Casilla 425, La Paz<br>
 _mailing address_: 3220 La Paz Place, Washington DC&nbsp; 20512-3220<br>
 _telephone_: [591] (2) 216-8000<br>
 _FAX_: [591] (2) 216-8111<br>

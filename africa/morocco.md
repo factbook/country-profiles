@@ -705,7 +705,7 @@ Royal Armed Forces (FAR): Royal Moroccan Army (includes the Moroccan Royal Guard
 approximately 200,000 active personnel (175,000 Army; 10,000 Navy; 15,000 Air Force); estimated 20,000 Gendarmerie; estimated 5,000 Mobile Intervention Corps; estimated 25-30,000 Auxiliary Forces (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Moroccan military's inventory is comprised of mostly older French and US equipment, although in recent years it has embarked on a modernization program and received quantities of more modern equipment from a variety of countries, particularly France and the US (2023)<br>
+the Moroccan military's inventory is comprised of mostly older French and US equipment, although in recent years it has embarked on a modernization program and received quantities of more modern equipment from a variety of countries, particularly France, Spain, and the US (2024)<br>
 
 **Military service age and obligation**<br>
 19-25 years of age for 12-month compulsory and voluntary military service for men and women (conscription abolished 2006 and reintroduced in 2019) (2023)<br>

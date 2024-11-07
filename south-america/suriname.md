@@ -648,7 +648,7 @@ Suriname National Army (Nationaal Leger or NL); Army (Landmacht), Navy (Marine);
 approximately 2,000 total personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Suriname Army has a limited inventory comprised of a mix of older, foreign-supplied equipment; in recent years, Suriname has received small quantities of military hardware from India (2023)<br>
+the Suriname Army has a limited inventory comprised of a mix of older weapons and equipment, largely originating from such suppliers as Brazil, the Netherlands, and India (2023)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service for men and women; no conscription (2024)<br>

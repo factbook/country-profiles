@@ -387,7 +387,7 @@ _email address and website_: <br>washington.kbri@kemlu.go.id<br><br>Embassy of T
 _consulate(s) general_: Chicago, Houston, Los Angeles, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Michael F. KLEINE (since 20 November 2023)<br>
+_chief of mission_: Ambassador Kamala Shirin LAKHDHIR (since 8 August 2024)<br>
 _embassy_: Jl. Medan Merdeka Selatan No. 3-5, Jakarta 10110<br>
 _mailing address_: 8200 Jakarta Place, Washington DC&nbsp; 20521-8200<br>
 _telephone_: [62] (21) 5083-1000<br>

@@ -305,7 +305,7 @@ _agricultural_: 220 million cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Burundi<br>
 _conventional short form_: Burundi<br>
-_local long form_: Republique du Burundi (French)/ Republika y'u Burundi (Kirundi)<br>
+_local long form_: R&eacute;publique du Burundi (French)/ Republika y'u Burundi (Kirundi)<br>
 _local short form_: Burundi<br>
 _former_: Urundi, German East Africa, Ruanda-Urundi, Kingdom of Burundi<br>
 _etymology_: name derived from the pre-colonial Kingdom of Burundi (17th-19th century)<br>
@@ -379,10 +379,11 @@ _FAX_: [1] (202) 342-2578<br>
 _email address and website_: burundiembusadc@gmail.com<br><br>Burundi Embassy Washington D.C. (burundiembassy-usa.com)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Keith GILGES (since June 2022)<br>
-_embassy_: B.P. 1720, Avenue Des Etats-Unis, Bujumbura<br>
+_chief of mission_: Ambassador Lisa PETERSON (since 27 June 2024)<br>
+_embassy_: No 50 Avenue Des Etats-Unis, 110-01-02, Bujumbura<br>
 _mailing address_: 2100 Bujumbura Place, Washington DC&nbsp; 20521-2100<br>
 _telephone_: [257] 22-207-000<br>
+_FAX_: [257] 22-222-926<br>
 _email address and website_: <br>BujumburaC@state.gov<br><br>https://bi.usembassy.gov/<br>
 
 **Flag description**<br>
@@ -626,7 +627,7 @@ _paved_: 1,500 km (2020)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-National Defense Force of Burundi (Force de Defense Nationale du Burundi or FDNB): Land Force (la Force Terrestre), the Navy Force (la Force de la Marine), the Air Force (la Force Aérienne) and Specialized Units (des Unités Spécialisées)<br><br>Ministry of Interior, Community Development, and Public Security: Burundi National Police (Police Nationale du Burundi) (2024)<br>
+Burundi National Defense Force (BNDF; Force de Defense Nationale du Burundi or FDNB) : Land Force (la Force Terrestre), the Navy Force (la Force de la Marine), the Air Force (la Force Aérienne) and Specialized Units (des Unités Spécialisées)<br><br>Ministry of Interior, Community Development, and Public Security: Burundi National Police (Police Nationale du Burundi) (2024)<br>
 <strong>note 1:</strong> the Naval Force is responsible for monitoring Burundi’s 175-km shoreline on Lake Tanganyika; the Specialized Units include a special security brigade for the protection of institutions (aka BSPI), commandos, special forces, and military police<br><br><strong>note 2:</strong> in 2022, Burundi created a new reserve force (Force de réserve et d’appui au développement, FRAD); the FRAD's duties include organizing paramilitary trainings, supporting other components in protecting the integrity of the national territory, conceiving and implementing development projects, and operationalizing national and international partnerships<br>
 
 **Military expenditures**<br>

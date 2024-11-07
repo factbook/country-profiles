@@ -286,7 +286,7 @@ _agricultural_: 40 million cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: Gabonese Republic<br>
 _conventional short form_: Gabon<br>
-_local long form_: Republique Gabonaise<br>
+_local long form_: R&eacute;publique Gabonaise<br>
 _local short form_: Gabon<br>
 _etymology_: name originates from the Portuguese word "gabao" meaning "cloak," which is roughly the shape that the early explorers gave to the estuary of the Komo River by the capital of Libreville<br>
 

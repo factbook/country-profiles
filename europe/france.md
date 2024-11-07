@@ -313,7 +313,7 @@ _global geoparks and regional networks_: Armorique; Beaujolais; Causses du Quers
 **Country name**<br>
 _conventional long form_: French Republic<br>
 _conventional short form_: France<br>
-_local long form_: Republique francaise<br>
+_local long form_: R&eacute;publique fran&ccedil;aise<br>
 _local short form_: France<br>
 _etymology_: name derives from the Latin "Francia" meaning "Land of the Franks"; the Franks were a group of Germanic tribes located along the middle and lower Rhine River in the 3rd century A.D. who merged with Gallic-Roman populations in succeeding centuries and to whom they passed on their name<br>
 

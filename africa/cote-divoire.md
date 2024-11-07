@@ -302,9 +302,9 @@ _agricultural_: 600 million cubic meters (2020 est.)<br>
 ## Government
 
 **Country name**<br>
-_conventional long form_: Republic of Cote d'Ivoire<br>
-_conventional short form_: Cote d'Ivoire<br>
-_local long form_: Republique de Cote d'Ivoire<br>
+_conventional long form_: Republic of C&ocirc;te d'Ivoire<br>
+_conventional short form_: C&ocirc;te d'Ivoire<br>
+_local long form_: R&eacute;publique de C&ocirc;te d'Ivoire<br>
 _local short form_: Cote d'Ivoire<br>
 _former_: Ivory Coast<br>
 _etymology_: name reflects the intense ivory trade that took place in the region from the 15th to 17th centuries<br>

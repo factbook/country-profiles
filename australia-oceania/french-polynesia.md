@@ -223,7 +223,7 @@ _percent of municipal solid waste recycled_: 39% (2013 est.)<br>
 **Country name**<br>
 _conventional long form_: Overseas Lands of French Polynesia<br>
 _conventional short form_: French Polynesia<br>
-_local long form_: Pays d'outre-mer de la Polynesie Francaise<br>
+_local long form_: Pays d'outre-mer de la Polyn&eacute;sie fran&ccedil;aise<br>
 _local short form_: Polynesie Francaise<br>
 _former_: Establishments in Oceania, French Establishments in Oceania<br>
 _etymology_: the term "Polynesia" is an 18th-century construct composed of two Greek words, "poly" (many) and "nesoi" (islands), and refers to the more than 1,000 islands scattered over the central and southern Pacific Ocean<br>

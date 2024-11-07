@@ -285,7 +285,7 @@ _agricultural_: 1.21 billion cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Haiti<br>
 _conventional short form_: Haiti<br>
-_local long form_: R&eacute;publique d'Ha&iuml;ti (French)/ Repiblik d Ayiti (Haitian Creole)<br>
+_local long form_: R&eacute;publique d'Ha&iuml;ti (French)/Repiblik d Ayiti (Haitian Creole)<br>
 _local short form_: Ha&iuml;ti (French)/ Ayiti (Haitian Creole)<br>
 _etymology_: the native Taino name means "Land of High Mountains" and was originally applied to the entire island of Hispaniola<br>
 

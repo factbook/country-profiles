@@ -360,7 +360,7 @@ _email address and website_: <br>wshinfo@mfat.govt.nz<br><br>https://www.mfat.go
 _consulate(s) general_: Honolulu, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Thomas Stewart UDALL (since 1 December 2021) note - also accredited to Samoa<br>
+_chief of mission_: Ambassador Thomas Stewart UDALL (since 1 December 2021); note - also accredited to Samoa<br>
 _embassy_: 29 Fitzherbert Terrace, Thorndon, Wellington 6011<br>
 _mailing address_: 4370 Auckland Place, Washington DC&nbsp; 20521-4370<br>
 _telephone_: [64] (4) 462-6000<br>
@@ -668,7 +668,7 @@ approximately 8,800 active-duty (Regular Force) troops (4,300 Army; 2,100 Navy; 
 <strong>note:</strong> the total NZDF complement is about 15,300 including the Regular Force, Reserves, and civilians<br>
 
 **Military equipment inventories and acquisitions**<br>
-the NZDF is equipped mostly with Western-supplied weapons and equipment with the US as the leading provider (2023)<br>
+the NZDF's inventory is comprised of domestically produced and Western-supplied weapons and equipment, including from Australia, Canada, the US, and the UK (2024)<br>
 
 **Military service age and obligation**<br>
 17 years of age for voluntary military service for men and women; soldiers cannot be deployed until the age of 18; no conscription (2024)<br>
