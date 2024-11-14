@@ -199,11 +199,6 @@ _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: dengue fever, Japanese encephalitis, and malaria<br>
-
 **Obesity - adult prevalence rate**<br>
 10% (2016)<br>
 
@@ -716,7 +711,7 @@ Royal Thai Armed Forces (Kongthap Thai, RTARF): Royal Thai Army (Kongthap Bok Th
 estimated 350,000 active-duty personnel (250,000 Army; 70,000 Navy; 30,000 Air Force); approximately 230,000 Royal Thai Police (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the RTARF has a diverse array of foreign-supplied weapons systems, including a considerable amount of older US equipment; over the past decade, Thailand has received arms from nearly 20 countries, with China, South Korea, Ukraine, and the US being among the leading suppliers; in recent years, Thailand has been making efforts to increase its domestic defense production capabilities in such areas as armored vehicles, unmanned aerial systems, and other military technologies (2023)<br>
+the RTARF has a diverse array of foreign-supplied weapons and equipment, as well as some domestically produced items; in recent years, Thailand has received arms from a wide variety of countries, including China and the US; Thailand has a domestic defense industry, which produces such items as armored vehicles, artillery systems, naval vessels, unmanned aerial vehicles, and other military technologies&nbsp; (2024)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; 21 years of age for compulsory military service for men; men register at 18 years of age; volunteer service obligation may be as short as 6 or 12 months, depending on educational qualifications; conscript service obligation also varies by educational qualifications, but is typically 24 months (2023)<br>

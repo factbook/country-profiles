@@ -202,12 +202,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 30.7% of population<br>
 _unimproved: total_: total: 23.2% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: dengue fever, Japanese encephalitis, and malaria<br>
-_animal contact diseases_: Rabies<br>
-
 **Obesity - adult prevalence rate**<br>
 3.9% (2016)<br>
 
@@ -373,7 +367,7 @@ _FAX_: [1] (202) 726-8381<br>
 _email address and website_: <br>camemb.usa@mfaic.gov.kh<br><br>https://www.embassyofcambodiadc.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador W. Patrick MURPHY (since 23 October 2019)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Bridgette L. WALKER (since August 2024)<br>
 _embassy_: #1, Street 96, Sangkat Wat Phnom, Khan Daun Penh, Phnom Penh<br>
 _mailing address_: 4540 Phnom Penh Place, Washington DC&nbsp; 20521-4540<br>
 _telephone_: [855] (23) 728-000<br>

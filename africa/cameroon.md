@@ -200,15 +200,6 @@ _unimproved: urban_: urban: 16.8% of population<br>
 _unimproved: rural_: rural: 72.3% of population<br>
 _unimproved: total_: total: 40.3% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and sexually transmitted diseases: hepatitis B (2024)<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-_respiratory diseases_: meningococcal meningitis<br>
-<strong>note:</strong> on 31 August 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Cameroon is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Obesity - adult prevalence rate**<br>
 11.4% (2016)<br>
 
@@ -390,8 +381,8 @@ _email address and website_: <br>mail@cameroonembassyusa<br><br>Cameroon Embassy
 _chief of mission_: Ambassador Christopher J. LAMORA (since 21 March 2022)<br>
 _embassy_: Avenue Rosa Parks, Yaound&eacute;<br>
 _mailing address_: 2520 Yaounde Place, Washington, DC&nbsp; 20521-2520<br>
-_telephone_: [237] 22251-4000/[237] 22220-1500<br>
-_FAX_: [237] 22220-1500, Ext. 4531<br>
+_telephone_: [237] 22251-4000<br>
+_FAX_: [237] 22251-4000, Ext. 4531<br>
 _email address and website_: <br>YaoundeACS@state.gov<br><br>https://cm.usembassy.gov/<br>
 _branch office(s)_: Douala<br>
 

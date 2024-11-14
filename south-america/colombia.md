@@ -202,11 +202,6 @@ _unimproved: urban_: urban: 0.9% of population<br>
 _unimproved: rural_: rural: 12.3% of population<br>
 _unimproved: total_: total: 3% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: dengue fever, malaria, and sexually transmitted diseases: hepatitis B (2024)<br>
-
 **Obesity - adult prevalence rate**<br>
 22.3% (2016)<br>
 
@@ -382,8 +377,8 @@ _consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, N
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Francisco L. PALMIERI (since 1 June 2022)<br>
 _embassy_: Carrera 45, No. 24B-27, Bogota<br>
 _mailing address_: 3030 Bogota Place, Washington DC&nbsp; 20521-3030<br>
-_telephone_: [57] (1) 275-2000<br>
-_FAX_: [57] (1) 275-4600<br>
+_telephone_: [57] (601) 275-2000<br>
+_FAX_: [57] (601) 275-4600<br>
 _email address and website_: <br>ACSBogota@state.gov<br><br>https://co.usembassy.gov/<br>
 
 **Flag description**<br>

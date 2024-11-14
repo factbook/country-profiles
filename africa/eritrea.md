@@ -190,11 +190,6 @@ _unimproved: urban_: urban: 55.5% of population<br>
 _unimproved: rural_: rural: 92.7% of population<br>
 _unimproved: total_: total: 84.3% of population (2017 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria and dengue fever<br>
-
 **Obesity - adult prevalence rate**<br>
 5% (2016)<br>
 
@@ -329,7 +324,7 @@ _election results_: <em><br>1993:</em> ISAIAS Afwerki elected president by the t
 _description_: National Assembly (Hagerawi Baito) (seats - NA; members to be directly elected to serve 5-year terms)<br>
 _elections_: NA<br>
 _election results_: NA<br>
-note: in May 1997, following the adoption of the new constitution, the government formed a Transitional National Assembly to serve as the country's legislative body until countrywide elections to form a National Assembly were held; the constitution stipulates that once past the transition stage, all members of the National Assembly will be elected by secret ballot of all eligible voters; National Assembly elections scheduled for December 2001 were postponed indefinitely due to the war with Ethiopia; as of 2024, no sitting legislative body exists<br>
+note: in 1997, after the new constitution was adopted, the government formed a Transitional National Assembly to serve as the country's legislative body until countrywide elections to form a National Assembly could be held; the constitution stipulates that once past the transition stage, all National Assembly members will be elected by secret ballot of all eligible voters; National Assembly elections scheduled for December 2001 were postponed indefinitely due to the war with Ethiopia; as of 2024, no sitting legislative body exists<br>
 
 **Judicial branch**<br>
 _highest court(s)_: High Court (consists of 20 judges and organized into civil, commercial, criminal, labor, administrative, and customary sections)<br>

@@ -195,14 +195,6 @@ _unimproved: urban_: urban: 46.2% of population<br>
 _unimproved: rural_: rural: 87.6% of population<br>
 _unimproved: total_: total: 70.1% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and sexually transmitted diseases: HIV/AIDS, hepatitis B (2024)<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-<strong>note:</strong> on 31 August 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Central African Republic is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Obesity - adult prevalence rate**<br>
 7.5% (2016)<br>
 
@@ -355,6 +347,7 @@ _election results_: <em><br>2020:</em> Faustin-Archange TOUADÉRA reelected pres
 _description_: unicameral National Assembly or Assemblee Nationale (140 seats; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)<br>
 _elections_: last held in December 2020 through July 2021 (next to be held 31 December 2025); note - on 27 December 2020, the day of first round elections, voting in many electoral areas was disrupted by armed groups; on 13 February 2021, President TOUADERA announced that new first round elections would be held on 27 February 2021 for those areas controlled by armed groups and the second round on 14 March 2021; ultimately, two additional rounds were held on 23 May and 25 July 2021 in areas that continued to suffer from election security problems<br>
 _election results_: percent of vote by party - NA; seats by party - MCU 63, MOUNI 9, URCA 7, MLPC 7, RDC 5, KNK 3, PATRIE 3, CDE 2, RDD 2, MDD 2, PGD 2, PAD 2, CANE 2, other 11, independent 20; composition - men 124, women 16, percentage women 11.4%; note - several members of other parties and independent candidates joined the MCU following the opening session of the National Assembly; as of 21 September 2021, the MCU held 86 seats<br>
+<strong>note:</strong>  in accordance with article 98 of the constitution published in August 2023, the parliamentary term has increased from five to seven years and will be first applied to the legislature due to be elected in late 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 judges, at least 3 of whom are women)<br>

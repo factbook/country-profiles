@@ -324,6 +324,7 @@ _election results_: <em><br>2024: </em>AZALI Assoumani reelected president in fi
 _description_: unicameral Assembly of the Union (24 members directly elected by absolute majority vote in 2 rounds if needed; members serve 5-year terms)<br>
 _elections_: last held on&nbsp;19 January 2020 with a runoff on 23&nbsp;February 2020 (next to be held in 2025)<br>
 _election results_: percent of vote by party in first round - CRC 60.9%, Orange Party 4.3%, independent 30.8%, other 4%; seats by party in the first round -  CRC 16, Orange Party 1, independent 2; percent of vote by party in the second round - CRC 54.1%, Orange Party 18.9%, independent 26.1%, other 1%; seats by party in the second round - CRC 4, Orange Party 1; composition - men 20, women 4, percentage women 16.7%; note - main opposition parties boycotted election; <br> <h3> </h3><br>
+<strong>note:</strong>  opposition parties, which had demanded "transparent, free, and democratic" elections, boycotted the 2020 elections<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of 7 judges)<br>
@@ -599,7 +600,7 @@ _key ports_: Dzaoudzi, Fomboni, Moroni, Moutsamoudu<br>
 ## Military and Security
 
 **Military and security forces**<br>
-National Army for Development (l'Armee Nationale de Developpement, AND): Comoran Defense Force (Force Comorienne de Defense or FCD; includes Comoran National Gendarmerie); Ministry of Interior: Coast Guard, Federal Police, National Directorate of Territorial Safety (2023)<br>
+National Army for Development (l'Armee Nationale de Developpement, AND): Comoran Defense Force (Force Comorienne de Defense or FCD; includes Comoran National Gendarmerie); Ministry of Interior: Coast Guard, Federal Police, National Directorate of Territorial Safety (2024)<br>
 <strong>note 1: </strong>when the Gendarmerie serves as the judicial police, it reports to the Minister of Justice; the Gendarmerie also has an intervention platoon that may act under the authority of the interior minister<br><br><strong>note 2:</strong> the National Directorate of Territorial Safety oversees customs and immigration<br><br><strong>note 3:</strong> the FCD is also known as the Comoran Security Force<br>
 
 **Military and security service personnel strengths**<br>
@@ -612,7 +613,7 @@ the defense forces are lightly armed with a mix of mostly older equipment origin
 18 years of age for 2-year voluntary military service for men and women; no conscription (2021)<br>
 
 **Military - note**<br>
-the focus for the security forces is search and rescue operations and maintaining internal security; a defense treaty with France provides naval resources for the protection of territorial waters, training of Comoran military personnel, and air surveillance; France maintains a small maritime base and a Foreign Legion contingent on neighboring Mayotte (2023)<br>
+the focus for the security forces is search and rescue operations and maintaining internal security; a defense treaty with France provides naval resources for the protection of territorial waters, training of Comoran military personnel, and air surveillance; France maintains a small maritime base and a Foreign Legion contingent on neighboring Mayotte (2024)<br>
 
 ## Transnational Issues
 

@@ -345,7 +345,7 @@ _email address and website_: <br>embassy.wdc@mnec.gov.cv<br><br>https://www.embc
 _consulate(s) general_: Boston<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador John "Jeff" DAIGLE (since 10 September 2019)<br>
+_chief of mission_: Ambassador Jennifer ADAMS (since 10 September 2024)<br>
 _embassy_: Rua Abilio Macedo 6, Praia<br>
 _mailing address_: 2460 Praia Place, Washington DC&nbsp; 20521-2460<br>
 _telephone_: [238] 260-8900<br>

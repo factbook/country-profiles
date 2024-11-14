@@ -188,11 +188,6 @@ _unimproved: urban_: urban: 5.2% of population<br>
 _unimproved: rural_: rural: 13% of population<br>
 _unimproved: total_: total: 7% of population (2017 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: intermediate (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
-_vectorborne diseases_: dengue fever<br>
-
 **Obesity - adult prevalence rate**<br>
 24.6% (2016)<br>
 
@@ -343,6 +338,7 @@ _election results_: <br><em>2023: </em>Miguel DIAZ-CANEL Bermudez (PCC) reelecte
 _description_: unicameral National Assembly of People's Power or Asamblea Nacional del Poder Popular (474 seats; (470 seats filled in 2023); members directly elected by absolute majority vote; members serve 5-year terms); note 1 - the National Candidature Commission submits a slate of approved candidates; to be elected, candidates must receive more than 50% of valid votes otherwise the seat remains vacant or the Council of State can declare another election<br>
 _elections_: last held on 26 March 2023 (next to be held in early 2028)<br>
 _election results_: Cuba's Communist Party is the only legal party, and officially sanctioned candidates run unopposed; composition- men 208, women 262, percent of women 55.7%<br>
+<strong>note:</strong>  the National Candidature Commission submits a slate of approved candidates; to be elected, candidates must receive more than 50% of valid votes, otherwise the seat remains vacant or the Council of State can declare another election<br>
 
 **Judicial branch**<br>
 _highest court(s)_: People's Supreme Court (consists of court president, vice president, 41 professional justices, and NA lay judges); organization includes the State Council, criminal, civil, administrative, labor, crimes against the state, and military courts)<br>

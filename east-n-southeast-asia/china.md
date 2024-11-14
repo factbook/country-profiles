@@ -203,12 +203,6 @@ _unimproved: urban_: urban: 2.4% of population<br>
 _unimproved: rural_: rural: 9.4% of population<br>
 _unimproved: total_: total: 5.1% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: Crimean-Congo hemorrhagic fever, dengue fever, Japanese encephalitis, severe fever thrombocytopenia syndrome (SFTS)<br>
-_soil contact diseases_: hantaviral hemorrhagic fever with renal syndrome (HFRS)<br>
-
 **Obesity - adult prevalence rate**<br>
 6.2% (2016)<br>
 
@@ -377,7 +371,7 @@ _election results_: <em><br>2023: </em>XI Jinping reelected president; National 
 _description_: unicameral National People's Congress (NPC) or Quanguo Renmin Daibiao Dahui (maximum of 3,000 seats; members indirectly elected by municipal, regional, and provincial people's congresses, and the People's Liberation Army; members serve 5-year terms)<br>
 _elections_: the 14th NPC convened on 5 March 2023; the 15th NPC will convene in March 2028<br>
 _election results_: percent of vote - NA; seats by party - NA; the 14th NPC consists of 2,977 delegates; 2,187 men, 790 women, percentage women 26.5%<br>
-<strong>note:</strong> in practice, only members of the Chinese Communist Party (CCP), its 8 allied independent parties, and CCP-approved independent candidates are elected<br>
+<strong>note:</strong>  in practice, only members of the Chinese Communist Party (CCP), its 8 allied independent parties, and CCP-approved independent candidates are elected<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme People's Court (consists of over 340 judges, including the chief justice and 13 grand justices organized into a civil committee and tribunals for civil, economic, administrative, complaint and appeal, and communication and transportation cases)<br>
@@ -401,7 +395,7 @@ _consulate(s) general_: Chicago, Los Angeles, New York, San Francisco; note - th
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Nicholas BURNS (since 2 April 2022)<br>
-_embassy_: 55 An Jia Lou Road, Chaoyang District, Beijing 100600<br>
+_embassy_: 55 Anjialou Road, Chaoyang District, Beijing 100600<br>
 _mailing address_: 7300 Beijing Place, Washington DC&nbsp; 20521-7300<br>
 _telephone_: [86] (10) 8531-3000<br>
 _FAX_: [86] (10) 8531-4200<br>

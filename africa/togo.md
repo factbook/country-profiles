@@ -194,15 +194,6 @@ _unimproved: urban_: urban: 18.1% of population<br>
 _unimproved: rural_: rural: 81.7% of population<br>
 _unimproved: total_: total: 54.5% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and sexually transmitted diseases: hepatitis B (2024)<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-_respiratory diseases_: meningococcal meningitis<br>
-<strong>note:</strong> on 31 August 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Togo is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Obesity - adult prevalence rate**<br>
 8.4% (2016)<br>
 
@@ -684,7 +675,7 @@ estimated 15,000 active-duty personnel, including approximately 3,000 Gendarmeri
 <strong>note:</strong> in January 2022, the Togolese Government announced its intent to boost the size of the FAT to more than 20,000 by 2025<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAT has a small, mixed inventory of mostly older equipment from a variety of countries; in recent years, it has received limited amounts of equipment from several suppliers, including France, Russia, Turkey, and the US (2024)<br>
+the FAT has a small inventory of mostly older equipment originating from a variety of countries, including Brazil, Russia/former Soviet Union, Turkey, the US, and some European nations, particularly France (2024)<br>
 
 **Military service age and obligation**<br>
 18 years of age for military service for men and women; 24-month service obligation; no conscription (2023)<br>

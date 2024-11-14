@@ -566,7 +566,7 @@ Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force<br><br>Ocean 
 <strong>note: </strong>the CGA is a law enforcement organization with homeland security functions during peacetime and national defense missions during wartime; it was established in 2000 from the integration of the Coast Guard Command (formerly under the Ministry of Defense), the Marine Police Bureau (formerly under the National Police), and several cutters from the Taiwan Directorate General of Customs (Ministry of Finance)<br>
 
 **Military expenditures**<br>
-2.4% of GDP (2023 est.)<br>
+2.5% of GDP (2023 est.)<br>
 2.1% of GDP (2022)<br>
 2.1% of GDP (2021)<br>
 2.1% of GDP (2020)<br>
@@ -577,7 +577,7 @@ approximately 180,000 active-duty troops (95,000 Army; 45,000 Navy, including ap
 <strong>note: </strong>Taiwan trains about 120,000 reservists annually, but in 2022 announced intentions to increase that figure to 260,000<br>
 
 **Military equipment inventories and acquisitions**<br>
-most of the Taiwan military's equipment inventory was acquired from the US, either as secondhand or direct acquisitions; Taiwan also has a domestic defense industry which produces weapons systems such as missiles and naval platforms (2024)<br>
+the Taiwan military's inventory is a mix of domestically-produced items and equipment acquired from the US, either as secondhand or direct acquisitions; Taiwan's domestic defense industry produces weapons systems such as aircraft, armored vehicles, missiles, and naval platforms (2024)<br>
 
 **Military service age and obligation**<br>
 men 18-36 years of age may volunteer or must complete 12 months of compulsory military service; civil service can be substituted for military service in some cases; women may enlist but are restricted to noncombat roles in most cases (2024)<br>

@@ -606,7 +606,7 @@ Trinidad and Tobago Defense Force (TTDF): Trinidad and Tobago Regiment (Army/Lan
 approximately 5,000 TTDF personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the TTDF's ground force inventory includes only light weapons, while the Coast Guard and Air Guard field mostly secondhand equipment from a mix of countries, including Australia, China, Italy, the Netherlands, the UK, and the US (2024)<br>
+the TTDF's ground force inventory consists of light weapons, while the Coast Guard and Air Guard field mostly secondhand equipment from a mix of countries, including Australia, China, Italy, the Netherlands, the UK, and the US (2024)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service for men and women (some age variations between services, reserves); no conscription (2024)<br>

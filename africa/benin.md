@@ -194,14 +194,6 @@ _unimproved: urban_: urban: 43.7% of population<br>
 _unimproved: rural_: rural: 81.9% of population<br>
 _unimproved: total_: total: 63.4% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: dengue fever, malaria, sexually transmitted diseases: hepatitis B (2024)<br>
-_animal contact diseases_: rabies<br>
-_respiratory diseases_: meningococcal meningitis<br>
-<strong>note:</strong> on 31 August 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Benin is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Obesity - adult prevalence rate**<br>
 9.6% (2016)<br>
 
@@ -348,9 +340,10 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <br><em>2021:</em> Patrice TALON reelected president in the ; percent of vote - Patrice TALON (independent) 86.3%, Alassane SOUMANOU (FCBE) 11.4%, Corentin KOHOUE (The Democrats) 2.3%<br><br><em>2016:</em> Patrice TALON elected president in second round; percent of vote in first round - Lionel ZINSOU (FCBE) 28.4%, Patrice TALON (independent) 24.8%, Sebastien AJAVON (independent) 23%, Abdoulaye Bio TCHANE (ABT) 8.8%, Pascal KOUPAKI (NC) 5.9%, other 9.1%; percent of vote in second round - Patrice TALON 65.4%, Lionel ZINSOU 34.6%<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Assemblee Nationale (109 seats, including 24 seats reserved for women; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms except for the current members whose terms will end in 2026 to facilitate general elections)<br>
+_description_: unicameral National Assembly or Assemblee Nationale (109 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms except for the current members whose terms will end in 2026 to facilitate general elections)<br>
 _elections_: last held on 8 January 2023 (next to be held on 11 January 2027)<br>
 _election results_: percent of vote by party - Progressive Union for Renewal 37.6%, Bloc Republicain 29.2%, The Democrats 24%; seats by party - Progressive Union for Renewal 53, Bloc Republicain 28, The Democrats 28; composition- men 80, women 29, percentage women 26.6%<br>
+<strong>note:</strong>  seat total includes 24 seats reserved for women<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of the chief justice and 16 justices organized into an administrative division, judicial chamber, and chamber of accounts); Constitutional Court or Cour Constitutionnelle (consists of 7 members, including the court president); High Court of Justice (consists of the Constitutional Court members, 6 members appointed by the National Assembly, and the Supreme Court president); note - jurisdiction of the High Court of Justice is limited to cases of high treason by the national president or members of the government while in office<br>

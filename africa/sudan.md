@@ -198,15 +198,6 @@ _unimproved: urban_: urban: 27.9% of population<br>
 _unimproved: rural_: rural: 69.4% of population<br>
 _unimproved: total_: total: 54.7% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, Rift Valley fever, and sexually transmitted diseases: HIV/AIDS, hepatitis B (2024)<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-_respiratory diseases_: meningococcal meningitis<br>
-<strong>note:</strong> on 31 August 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Sudan is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Obesity - adult prevalence rate**<br>
 6.6% (2014)<br>
 
@@ -684,7 +675,7 @@ prior to the outbreak of fighting between the SAF and the RSF in 2023, size esti
 
 **Military equipment inventories and acquisitions**<br>
 the SAF's inventory includes a mix of mostly Chinese, Russian, Soviet-era, and domestically produced weapons systems; Sudan has one of the largest defense industries in Africa, which includes state-owned companies with military involvement; it has mostly manufactured weapons systems under license from China, Russia, Turkey, and Ukraine (2024)<br>
-<strong>note:</strong> Sudan has been under a UN Security Council approved arms embargo since 2005 as a result of violence in Darfur; in September 2024, the embargo was extended for another year<br>
+<strong>note 1:</strong> Sudan has been under a UN Security Council approved arms embargo since 2005 as a result of violence in Darfur; in September 2024, the embargo was extended for another year<br><br><strong>note 2: </strong> the RSF traditionally has been a lightly armed paramilitary force but over the years is reported to have acquired some heavier weapons and equipment such as armored vehicles, artillery, and anti-aircraft guns, although their origins are not available; it has captured some SAF arms and equipment during the ongoing conflict; since the start of the conflict, both the RSF and the SAF are reported to have received additional weaponry from various foreign suppliers<br>
 
 **Military service age and obligation**<br>
 18-33 years of age for compulsory or voluntary military service for men and women; 12-24 month service obligation (2023)<br>

@@ -204,14 +204,6 @@ _unimproved: urban_: urban: 47.5% of population<br>
 _unimproved: rural_: rural: 91.9% of population<br>
 _unimproved: total_: total: 82.3% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria and dengue fever<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-_respiratory diseases_: meningococcal meningitis<br>
-
 **Obesity - adult prevalence rate**<br>
 4.5% (2016)<br>
 
@@ -374,7 +366,7 @@ _election results_: <em><br>2021:</em> SAHLE-WORK Zewde reelected president duri
 _description_: bicameral Parliament consists of:<br>House of Federation or Yefedereshein Mikir Bete (153 seats maximum; 144 seats current; members indirectly elected by state assemblies to serve 5-year terms)<br>House of People's Representatives or Yehizb Tewokayoch Mekir Bete (547 seats maximum; 470 seats current; members directly elected in single-seat constituencies by simple majority vote; 22 seats reserved for minorities; all members serve 5-year terms)<br>
 _elections_: House of Federation - last held 4 October 2021 (next expected in October 2026)<br>House of People's Representatives - last held in two parts on 21 June 2021 and 30 September 2021 (next expected in June 2026)<br>
 _election results_: House of Federation - percent of vote by party/coalition - NA; seats by party/coalition - NA; composition - men 102, women 43, percentage women 29.7%<br><br>House of Representatives - percent of vote by party/coalition - NA; seats by party/coalition - Prosperity Party 454, NAMA 5, EZEMA 4, Gedeo People's Democratic organization 2, Kucha People Democratic Party 1, independent 4; composition - men 275, women 195, percentage women 41.3%; note - total Parliament percentage women 38.9%<br>
-<strong>notes:</strong> House of Federation is responsible for interpreting the constitution and federal-regional issues and the House of People's Representatives is responsible for passing legislation<br>
+<strong>note:</strong>  the House of Federation is responsible for interpreting the constitution and federal-regional issues, and the House of People's Representatives is responsible for passing legislation<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Supreme Court (consists of 11 judges); note - the House of Federation has jurisdiction for all constitutional issues<br>

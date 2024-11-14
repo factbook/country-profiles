@@ -195,15 +195,6 @@ _unimproved: urban_: urban: 9.2% of population<br>
 _unimproved: rural_: rural: 62.3% of population<br>
 _unimproved: total_: total: 46% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: dengue fever, malaria, and sexually transmitted diseases: hepatitis B (2024)<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-_respiratory diseases_: meningococcal meningitis<br>
-<strong>note:</strong> on 31 August 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Burkina Faso is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Obesity - adult prevalence rate**<br>
 5.6% (2016)<br>
 
@@ -353,8 +344,9 @@ _election results_: <em><br>2020:</em> Roch Marc Christian KABORE reelected pres
 
 **Legislative branch**<br>
 _description_: prior to the 2022 coups and ad hoc suspension of laws and constitutional provisions, unicameral National Assembly (127 seats; 111 members directly elected in 13 multi-seat constituencies by party-list proportional representation vote and 26 members elected in a nationwide constituency by proportional representation vote; members serve 5-year terms); 71-member Transitional Legislative Assembly (ALT) appointed by the military junta in 2022 indefinitely replaced the National Assembly<br>
-_elections_: last held on 22 November 2020 (next were to be held by July 2024 but may be delayed by the transitional government due to security concerns)<br>
+_elections_: last held on 22 November 2020 (next were to be held by July 2024 but have been delayed by the transitional government due to security concerns)<br>
 _election results_: percent of vote by party - NA; seats by party - NA; composition as of March 2024 - men 59, women 12, percentage women 16.9%<br>
+<strong>note:</strong>  a series of coups in 2022 led to the ad hoc suspension of laws and constitutional provisions, including the unicameral National Assembly; a military junta in 2022 appointed the 71-member Transnational Legislative Assembly (ALT); a Transitional Charter, adopted in October 2022, provided for a transitional period that was extended in May 2024 until July 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Appeals or Cour de Cassation (consists of NA judges); Council of State (consists of NA judges); Constitutional Council or Conseil Constitutionnel (consists of the council president and 9 members)<br>

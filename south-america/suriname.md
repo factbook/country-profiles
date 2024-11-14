@@ -190,11 +190,6 @@ _unimproved: urban_: urban: 1.5% of population<br>
 _unimproved: rural_: rural: 8.8% of population<br>
 _unimproved: total_: total: 4% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria<br>
-
 **Obesity - adult prevalence rate**<br>
 26.4% (2016)<br>
 
@@ -648,13 +643,13 @@ Suriname National Army (Nationaal Leger or NL); Army (Landmacht), Navy (Marine);
 approximately 2,000 total personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Suriname Army has a limited inventory comprised of a mix of older weapons and equipment, largely originating from such suppliers as Brazil, the Netherlands, and India (2023)<br>
+the Suriname Army has a limited inventory comprised of a mix of older weapons and equipment, largely originating from such suppliers as Brazil, the Netherlands, and India; France also provides material assistance (2024)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service for men and women; no conscription (2024)<br>
 
 **Military - note**<br>
-key missions for the National Leger include border control and supporting domestic security; the military police have direct responsibility for immigration control at the country&rsquo;s ports of entry; in addition, the military assists the police in combating crime, particularly narco-trafficking, including joint military and police patrols, as well as joint special security teams (2024)<br>
+the National Leger is responsible for defending the sovereignty and territorial integrity of Suriname against foreign aggression; other special tasks include border control and supporting domestic security as required; the military police, for example, have direct responsibility for immigration control at the country&rsquo;s ports of entry, and the military assists the police in combating crime, particularly narco-trafficking, including joint military and police patrols, as well as joint special security teams; in addition, the military provides aid and assistance during times of natural emergencies and participates in socio-economic development projects (2024)<br>
 
 ## Transnational Issues
 

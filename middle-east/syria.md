@@ -651,7 +651,7 @@ current estimates not available; the Syrian Armed Forces (SAF) continue to rebui
 <strong>note: </strong>pro-government militia and auxiliary forces probably number in the tens of thousands<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SAF's inventory is comprised mostly of older Russian and Soviet-era equipment; in recent years, Russia has supplied the majority of Syria's imported weapons systems (2023)<br>
+the SAF's inventory is comprised mostly of Russian and Soviet-era equipment&nbsp; (2024)<br>
 
 **Military service age and obligation**<br>
 men 18-42 are obligated to perform military service; compulsory service obligation reportedly up to 30 months; women are not conscripted but may volunteer to serve, including in combat arms (2023)<br>

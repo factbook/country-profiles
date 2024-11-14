@@ -203,13 +203,6 @@ _unimproved: urban_: urban: 10.6% of population<br>
 _unimproved: rural_: rural: 70.8% of population<br>
 _unimproved: total_: total: 49.6% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, Rift Valley fever, and sexually transmitted diseases: HIV/AIDS, hepatitis B (2024)<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-
 **Obesity - adult prevalence rate**<br>
 8.4% (2016)<br>
 
@@ -713,7 +706,7 @@ Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): 
 approximately 25,000 active-duty personnel (21,000 Land Forces; 1,000 Naval Forces; 3,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the TPDF's inventory includes mostly Soviet-era and Chinese equipment; in recent years, China has been the leading supplier of arms and equipment (2023)<br>
+the TPDF's inventory includes mostly Chinese and Russian/Soviet-era weapons and equipment (2024)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service for men and women; 6-year commitment (2-year contracts afterwards); selective conscription for 2 years of public service (2024)<br>

@@ -617,7 +617,7 @@ His Majesty's Armed Forces Tonga (aka Tonga Defense Services): Tonga Royal Guard
 approximately 600 personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes light weapons, as well as some naval vessels from Australia and a few aircraft from the US (2024)<br>
+the military's inventory consists of light weapons, as well as some naval patrol vessels from Australia and a few US-origin aircraft (2024)<br>
 
 **Military service age and obligation**<br>
 voluntary military service for men and women 18-25; no conscription (2023)<br>

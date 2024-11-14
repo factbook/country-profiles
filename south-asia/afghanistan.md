@@ -198,12 +198,6 @@ _unimproved: urban_: urban: 11.8% of population<br>
 _unimproved: rural_: rural: 48% of population<br>
 _unimproved: total_: total: 38.6% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: intermediate (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever (2024)<br>
-_vectorborne diseases_: Crimea-Congo hemorrhagic fever<br>
-<strong>note:</strong> Afghanistan is one of two countries with endemic wild polio virus (the other is Pakistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the US Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Obesity - adult prevalence rate**<br>
 5.5% (2016)<br>
 
@@ -355,7 +349,7 @@ _elections/appointments_: the 2004 Afghan constitution directed that the preside
 note: the United States has not yet made a decision whether to recognize the Taliban or any other entity as the government of Afghanistan<br>
 
 **Legislative branch**<br>
-_description_: before August 2021, Afghanistan had a bicameral National Assembly that consisted of the House of Elders and House of the People; the parliament has been in hiatus since August 2021 and the Taliban have shown no interest in reviving it&nbsp; &nbsp;&nbsp;<br>
+<strong>note:</strong>  before August 2021, Afghanistan had a bicameral National Assembly that consisted of the House of Elders and House of the People; the parliament has been on hiatus since August 2021 and the Taliban has shown no interest in reviving it<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the Taliban are purported to have appointed clerics, including a "Chief Justice", to Afghanistan's Supreme Court<br>

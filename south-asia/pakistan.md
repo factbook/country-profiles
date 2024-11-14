@@ -201,13 +201,6 @@ _unimproved: urban_: urban: 11.4% of population<br>
 _unimproved: rural_: rural: 26.8% of population<br>
 _unimproved: total_: total: 21.1% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoid fever<br>
-_vectorborne diseases_: dengue fever, malaria, and Crimean-Congo hemorrhagic fever<br>
-_animal contact diseases_: rabies<br>
-<strong>note:</strong> Pakistan is one of two countries with endemic wild polio virus (the other is Afghanistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the US Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Obesity - adult prevalence rate**<br>
 8.6% (2016)<br>
 

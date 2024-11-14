@@ -194,12 +194,6 @@ _unimproved: urban_: urban: 5.1% of population<br>
 _unimproved: rural_: rural: 37% of population<br>
 _unimproved: total_: total: 14.4% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, sexually transmitted diseases: HIV/AIDS (2024)<br>
-<strong>note:</strong> on 31 August 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Botswana is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Obesity - adult prevalence rate**<br>
 18.9% (2016)<br>
 
@@ -347,9 +341,10 @@ _elections/appointments_: president indirectly elected by the National Assembly 
 _election results_: National elections held in 2024 gave BOKO's UDC 35 seats in the National Assembly, which then selected BOKO as President<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament consists of the National Assembly (65 seats; 58 members directly elected in single-seat constituencies by simple majority vote, 5 nominated by the president and indirectly elected by simple majority vote by the rest of the National Assembly, and 2 ex-officio members - the president and vice president of Botswana ; elected members serve 5-year terms); note - the House of Chiefs (Ntlo ya Dikgosi), an advisory body to the National Assembly, consists of 35 members - 8 hereditary chiefs from Botswana's principal tribes, 22 indirectly elected by the chiefs, and 5 appointed by the president; the House of Chiefs consults on issues including powers of chiefs, customary courts, customary law, tribal property, and constitutional amendments<br>
+_description_: unicameral Parliament consists of the National Assembly (65 seats; 58 members directly elected in single-seat constituencies by simple majority vote, 5 nominated by the president and indirectly elected by simple majority vote by the rest of the National Assembly, and 2 ex-officio members - the president and vice president of Botswana; elected members serve 5-year terms)<br>
 _elections_: last held on 23 October 2019 (next to be held by October 2024)<br>
 _election results_: percent of vote by party - BDP 52.7%, UDC 35.9%, BPF 4.4%, AP 5.1%, other 1.7%; seats by party - BDP 38, UDC 15, BPF 3, AP 1; composition- men 56, women 7, percentage women 11.1%<br>
+<strong>note:</strong>  the House of Chiefs (Ntlo ya Dikgosi), an advisory body to the National Assembly, consists of 35 members -- 8 hereditary chiefs from Botswana's principal tribes, 22 indirectly elected by the chiefs, and 5 appointed by the president; the House of Chiefs consults on issues including powers of chiefs, customary courts, customary law, tribal property, and constitutional amendments<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal, High Court (each consists of a chief justice and a number of other judges as prescribed by the Parliament)<br>

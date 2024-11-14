@@ -194,13 +194,6 @@ _unimproved: urban_: urban: 14.7% of population<br>
 _unimproved: rural_: rural: 26.5% of population<br>
 _unimproved: total_: total: 22% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
-_vectorborne diseases_: dengue fever and malaria are high risks in some locations<br>
-_water contact diseases_: leptospirosis<br>
-_animal contact diseases_: rabies<br>
-
 **Obesity - adult prevalence rate**<br>
 3.6% (2016)<br>
 
@@ -356,6 +349,7 @@ _election results_: President Mohammad Shahabuddin CHUPPI (AL) elected unopposed
 _description_: unicameral House of the Nation or Jatiya Sangsad (350 seats; 300 members in single-seat territorial constituencies directly elected by simple majority vote; 50 members - reserved for women only - indirectly elected by the House of the Nation membership by proportional representation vote using single transferable vote method; all members serve 5-year terms); note - on 5 August 2024, Prime Minister Sheikh HASINA Wazed resigned, and the following day, President Mohammad Shahabuddin CHUPPI dissolved House of the Nation<br>
 _elections_: last held on 7 January 2024 (next to be held in 2026)<br>
 _election results_: percent of vote by party - NA; seats by party as of December 2023 - AL 306, JP 27, BNP 0, other 14, independent 3; composition - men 280, women 70, percentage women 20%<br>
+<strong>note:</strong>  50 seats are reserved for women only and are indirectly elected by the House of the Nation members using proportional representation<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Bangladesh (organized into the Appellate Division with 7 justices and the High Court Division with 99 justices)<br>

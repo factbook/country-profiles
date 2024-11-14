@@ -196,10 +196,6 @@ _unimproved: urban_: urban: 1.1% of population<br>
 _unimproved: rural_: rural: 0.4% of population<br>
 _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-
 **Obesity - adult prevalence rate**<br>
 14.2% (2016)<br>
 
@@ -664,14 +660,14 @@ Armed Forces of the Republic of Tajikistan: Land Forces, Mobile Forces, Air and 
 approximately 10,000 active-duty troops (8,000 Land and Mobile Forces; 2,000 Air and Air Defense Forces) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is comprised of older Russian and Soviet-era equipment; it has received limited quantities of weapons systems in recent years, most of which was secondhand material from Russia (2023)<br>
+the military's inventory is comprised mostly of older Russian and Soviet-era weapons and equipment; it also has smaller amounts of items from suppliers such as China, Turkey, and the US; in 2022, Tajikistan opened a plant to produce an Iranian-designed unmanned aerial vehicle under license (2024)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory (men only) or voluntary (men and women) military service; 24-month conscript service obligation   (2023)<br>
+18-27 years of age for compulsory (men only) or voluntary (men and women) military service; 24-month conscript service obligation (2023)<br>
 <strong>note:</strong> in August 2021, the Tajik Government removed an exemption for university graduates but began allowing men to pay a fee in order to avoid conscription, although there is a cap on the number of individuals who can take advantage of this exemption<br>
 
 **Military - note**<br>
-the military is a small and limited force equipped largely with Soviet-era weapons; its primary concerns are terrorism, border security, territorial defense, and instability in neighboring countries<br><br>Russia is Tajikistan’s primary security partner and thousands of Russian troops are stationed in the country, primarily at the 201st military base, which is leased until at least 2042; Russia and Tajikistan have a joint air defense system and they conduct periodic joint exercises; Tajikistan has been a member of the Russian-led Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force<br><br>Tajikistan is the only former Soviet republic that did not form its armed forces from old Soviet Army units following the collapse of the USSR in 1991; rather, Russia retained command of the Soviet units there while the Tajik government raised a military from scratch; the first ground forces were officially created in 1993 from groups that fought for the government during the Tajik Civil War (2023)<br>
+the military's primary concerns are terrorism, border security, territorial defense, and instability in neighboring countries; Russia is Tajikistan’s primary security partner and thousands of Russian troops are stationed in the country, primarily at the 201st military base, which is leased until at least 2042; Russia and Tajikistan have a joint air defense system and they conduct periodic joint exercises; Tajikistan has been a member of the Russian-led Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force<br><br>Tajikistan is the only former Soviet republic that did not form its armed forces from old Soviet Army units following the collapse of the USSR in 1991; rather, Russia retained command of the Soviet units there while the Tajik government raised a military from scratch; the first ground forces were officially created in 1993 from groups that fought for the government during the Tajik Civil War (2023)<br>
 
 ## Terrorism
 
