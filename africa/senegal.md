@@ -198,14 +198,6 @@ _unimproved: urban_: urban: 5.9% of population<br>
 _unimproved: rural_: rural: 44.5% of population<br>
 _unimproved: total_: total: 25.9% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and sexually transmitted diseases: hepatitis B (2024)<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-_respiratory diseases_: meningococcal meningitis<br>
-
 **Obesity - adult prevalence rate**<br>
 8.8% (2016)<br>
 

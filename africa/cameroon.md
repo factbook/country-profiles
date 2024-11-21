@@ -705,7 +705,7 @@ information varies; approximately 45-50,000 active-duty troops (30-35,000 ground
 <strong>note: </strong>the BIR has approximately 10,000 personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAC inventory is comprised of mostly older or second-hand equipment, with a smaller mix of more modern weapons systems; suppliers have included China, Israel, Russia, South Africa, the US, and several Western European countries (2023)<br>
+the FAC inventory is comprised of weapons and equipment from a variety of countries, including China, Israel, Russia/former Soviet Union, South Africa, the US, and some Western European countries, particularly France (2024)<br>
 
 **Military service age and obligation**<br>
 18-23 years of age for voluntary military service for men and women; no conscription; high school graduation required; service obligation 4 years (2023)<br>

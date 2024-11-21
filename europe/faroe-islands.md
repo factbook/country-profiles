@@ -277,9 +277,10 @@ _cabinet_: Landsstyri appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; high commissioner appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by the Faroese Parliament; election last held on 8 December 2022 (next to be held in 2026)<br>
 
 **Legislative branch**<br>
-_description_: unicameral Faroese Parliament or Logting (33 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>the Faroe Islands elect 2 members to the Danish Parliament to serve 4-year terms<br>
+_description_: unicameral Faroese Parliament or Logting (33 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
 _elections_: Faroese Parliament - last held on 8 December 2022 (next to be held in 2026)<br><br>Faroese seats in the Danish Parliament last held on 31 October 2022 (next to be held no later than 31 October 2026)<br>
 _election results_: Faroese Parliament percent of vote by party - JF 26.6%, B 20%, A 18.9%, E 17.7%, F 7.5%, H 6.6%, seats by party - JF 9, B 7, A 6, E 6, F 3, H 2; composition - men 24, women 9; percentage women 27.3%<br><br>Faroese seats in Danish Parliament - percent of vote by party - NA; seats by party - JF 1, B 1; composition - men 2, women 0; percentage women 0%<br>
+<strong>note:</strong> the Faroe Islands elect 2 members to the Danish Parliament to serve 4-year terms<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Faroese Court or Raett (Rett - Danish) decides both civil and criminal cases; the Court is part of the Danish legal system<br>

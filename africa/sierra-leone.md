@@ -192,14 +192,6 @@ _unimproved: urban_: urban: 20.5% of population<br>
 _unimproved: rural_: rural: 64.5% of population<br>
 _unimproved: total_: total: 45.6% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue feve, and sexually transmitted diseases: hepatitis Br (2024)<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-_aerosolized dust or soil contact diseases_: Lassa fever<br>
-
 **Obesity - adult prevalence rate**<br>
 8.7% (2016)<br>
 
@@ -341,9 +333,10 @@ _elections/appointments_: president directly elected by 55% in the first round o
 _election results_: <br><em>2023: </em>Julius Maada BIO reelected president in first round; percent of vote - Julius Maada BIO (SLPP) 56.2%, Samura KAMARA (APC) 41.2%, other 2.6%<br><em><br>2018: </em>Julius Maada BIO elected president in second round; percent of vote - Julius Maada BIO (SLPP) 51.8%, Samura KAMARA (APC) 48.2%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament (149 seats; 135 members directly elected in single-seat constituencies by a district block proportional representation vote and 14 seats for "paramount chiefs" indirectly elected to represent the 14 provincial districts; members serve 5-year terms)<br>
+_description_: unicameral Parliament (149 seats; 135 members directly elected in single-seat constituencies by a district block proportional representation vote and 14 seats for "paramount chiefs" indirectly elected; members serve 5-year terms)<br>
 _elections_: last held on 24 June 2023 (next to be held in 2028)<br>
 _election results_: percent of vote by party - NA; seats by party - SLPP 81, APC 54; composition - men 105, women 44, percentage women 29.5%<br>
+<strong>note:</strong> 14 seats are reserved for "paramount chiefs," who are indirectly elected to represent the 14 provincial districts<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Superior Court of Judicature (consists of the Supreme Court - at the apex - with the chief justice and 4 other judges, the Court of Appeal with the chief justice and 7 other judges, and the High Court of Justice with the chief justice and 9 other judges); note &ndash; the Judicature has jurisdiction in all civil, criminal, and constitutional matters<br>

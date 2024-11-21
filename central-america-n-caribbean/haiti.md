@@ -191,11 +191,6 @@ _unimproved: urban_: urban: 17.1% of population<br>
 _unimproved: rural_: rural: 57.4% of population<br>
 _unimproved: total_: total: 34.4% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: dengue fever and malaria<br>
-
 **Obesity - adult prevalence rate**<br>
 22.7% (2016)<br>
 
@@ -328,18 +323,18 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President (vacant)&nbsp;<br>
-_head of government_: Prime Minister Garry CONILLE (since 3 June 2024)<br>
+_chief of state_: President (vacant)<br>
+_head of government_: Prime Minister Alix Didier FILS-AIM&Eacute; (since 10 November 2024)<br>
 _cabinet_: Cabinet chosen by the prime minister in consultation with the president; parliament must ratify the Cabinet and Prime Minister's governing policy<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a single non-consecutive term); last election was 20 November 2016; new elections were delayed in 2022 and 2023 and have not been scheduled by the transitional presidential council<br>
 _election results_: <br><em>2016:</em> Jovenel MOÏSE elected president in first round; percent of vote - Jovenel MOÏSE (PHTK) 55.6%, Jude CELESTIN (LAPEH) 19.6%, Jean-Charles MOÏSE (PPD) 11%, Maryse NARCISSE (FL) 9%; other 4.8%<br><br><em>2011:</em> Michel MARTELLY elected president in second round; percent of vote in second round - Michel MARTELLY (Peasant's Response) 68%, Mirlande MANIGAT (RDNP) 32%<br>
 <strong>note:</strong> former Prime Minister Ariel HENRY, who had assumed executive responsibilities following the assassination of President MOÏSE on 7 July 2021, resigned on 24 April 2024; a nine-member Presidential Transitional Council, equipped with presidential powers, was sworn in on 25 April 2024 and will remain in place until 7 February 2026<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Assembly or the Assemblée nationale consists of:<br>Senate or le Sénat de la République (30 seats; 0 filled as of January 2023); members directly elected in multi-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms (2-term limit) with one-third of the membership renewed every 2 years)<br>Chamber of Deputies or Chambre des députés (119 seats; 0 filled as of January 2023; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms; no term limits); note - when the 2 chambers meet collectively it is known as the National Assembly or L'Assemblée nationale and is convened for specific purposes spelled out in the constitution<br>
+_description_: bicameral National Assembly or the Assemblée nationale consists of:<br>Senate or le Sénat de la République (30 seats; 0 filled as of January 2023); members directly elected in multi-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms (2-term limit) with one-third of the membership renewed every 2 years)<br>Chamber of Deputies or Chambre des députés (119 seats; 0 filled as of January 2023; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms; no term limits)<br>
 _elections_: Senate - last held on 20 November 2016 with a runoff on 29 January 2017 (next originally scheduled for 27 October 2019 but postponed until political and civil society actors agree to a consensual process) <br>Chamber of Deputies - last held on 9 August 2015 with runoff on 25 October 2015 and 20 November 2016 (next originally scheduled for 27 October 2019 but postponed until political and civil society actors agree to a consensual process)<br>
 _election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - NA<br>Chamber of Deputies - percent of vote by party - NA; seats by party - NA; composition - NA<br>
-<strong>note:</strong> the Senate and Chamber of Deputies as of January 2023 were not functional<br>
+<strong>note 1:</strong> when the two chambers meet collectively, it is known as the National Assembly (or L'Assemblée nationale) and is convened for specific purposes spelled out in the constitution<br><strong><br>note 2:</strong> as of October 2024, the Senate and Chamber of Deputies were not functional<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour de cassation (currently 11 of 12 judges as prescribed by the constitution, 8 of whom were appointed in March 2023); note - Haiti is a member of the Caribbean Court of Justice; Constitutional Court, called for in the 1987 constitution but not yet established; High Court of Justice, for trying high government officials - currently not functional<br>

@@ -202,14 +202,6 @@ _unimproved: urban_: urban: 23.7% of population<br>
 _unimproved: rural_: rural: 68.1% of population<br>
 _unimproved: total_: total: 48.3% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and sexually transmitted diseases: HIV/AIDS (2024)<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-<strong>note:</strong> on 31 August 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Zambia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Obesity - adult prevalence rate**<br>
 8.1% (2016)<br>
 
@@ -686,7 +678,7 @@ Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Servi
 approximately 17,000 active troops (15,000 Army; 2,000 Air) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era armaments with small quantities of Western-origin equipment (2024)<br>
+the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era weapons and equipment along with smaller quantities of items--particularly aircraft--from such suppliers as Israel and the US (2024)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age (17 with parental consent) for voluntary military service for men and women; no conscription; 12-year enlistment period (7 years active, 5 in the Reserves) (2023)<br>

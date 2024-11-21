@@ -197,13 +197,6 @@ _unimproved: urban_: urban: 32.7% of population<br>
 _unimproved: rural_: rural: 72.5% of population<br>
 _unimproved: total_: total: 62.6% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and Trypanosomiasis-Gambiense (African sleeping sickness), and sexually transmitted diseases: HIV/AIDS (2024)<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-
 **Obesity - adult prevalence rate**<br>
 5.3% (2016)<br>
 
@@ -675,7 +668,7 @@ Uganda People's Defense Force (UPDF): Land Force (includes marines), Air Force, 
 approximately 45-50,000 active-duty troops (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the UPDF's inventory is mostly Russian/Soviet-era equipment with a limited mix of Western-origin arms; in recent years, Belarus and Russia have been the leading supplier of arms to the UPDF; Uganda has a small defense industry that can manufacture light armored vehicles and perform maintenance on some military equipment, including its Russian-made helicopters (2023)<br>
+the UPDF's inventory is mix of older and some more modern weapons and equipment; it is comprised mostly of Russian/Soviet-era arms with smaller quantities of Chinese, Israeli, North Korean, South African, UK, US, and domestically-produced items; Uganda has a small defense industry that assembles or manufactures light armored vehicles and performs maintenance on some military equipment, including its Russian-made helicopters (2024)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military duty for men and women; 18-30 for those with degrees/diplomas in specialized fields such as medicine, engineering, chemistry, and education, or possess qualifications in some vocational skills; 9-year service obligation (2024)<br>

@@ -189,12 +189,6 @@ _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: (2020 est.) NA<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: intermediate (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: dengue fever<br>
-_water contact diseases_: leptospirosis<br>
-
 **Obesity - adult prevalence rate**<br>
 15.6% (2016)<br>
 

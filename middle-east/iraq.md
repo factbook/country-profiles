@@ -198,10 +198,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: intermediate (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-
 **Obesity - adult prevalence rate**<br>
 30.4% (2016)<br>
 
@@ -355,7 +351,8 @@ _election results_: <em><br>2022: </em>Latif RASHID elected president in second 
 **Legislative branch**<br>
 _description_: unicameral Council of Representatives of Iraq (COR) or Majlis an-Nuwwab al-Iraqiyy (329 seats; 320 members directly elected in 83 multi-seat constituencies by single nontransferable vote, 9 seats elected by religious minorities - 5 by Christians, 1 each by Sabaean-Mandaeans, Yazidis, Shabaks andFayli Kurds, and 25% of seats allocated to women; members serve 4-year terms)<br>
 _elections_: last held on 10 October 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party/coalition - NA; seats by party/coalition - Taqadum 47, State of Law Coalition 43, Al Fatah Alliance 37, Kurdistan Democratic Party 31, Kurdistan Coalition 18, Azm Alliance 16, Imtidad 16, State Forces Alliance 11, Ishraqat Kanun 10, New Generation Movement 9, National Contract Party 8, Tasmim Alliance 7, Babiliyun Movement 3, other 73; composition - men 234, women 95, percentage women 29.2%; note - seat counts reflect updated numbers following the 12 June 2022 Sadrist Trend withdrawal from government formation, and its 73 seats were reallocated to other parties<br>
+_election results_: percent of vote by party/coalition - NA; seats by party/coalition - Taqadum 47, State of Law Coalition 43, Al Fatah Alliance 37, Kurdistan Democratic Party 31, Kurdistan Coalition 18, Azm Alliance 16, Imtidad 16, State Forces Alliance 11, Ishraqat Kanun 10, New Generation Movement 9, National Contract Party 8, Tasmim Alliance 7, Babiliyun Movement 3, other 73; composition - men 234, women 95, percentage women 29.2%<br>
+<strong>note:</strong> seat counts reflect updated numbers following the 12 June 2022 Sadrist Trend withdrawal from government formation; its 73 seats were reallocated to other parties<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Supreme Court or FSC (consists of 9 judges); note - court jurisdiction limited to constitutional issues, application of federal laws, ratification of election results for the COR, judicial competency disputes, and disputes between regions or governorates and the central government; Court of Cassation (consists of a court president, 5 vice presidents, and at least 24 judges)<br>

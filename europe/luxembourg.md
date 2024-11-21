@@ -332,9 +332,10 @@ _cabinet_: Council of Ministers recommended by the prime minister, appointed by 
 _elections/appointments_: the monarchy is hereditary; following elections to the Chamber of Deputies, the leader of the majority party or majority coalition usually appointed prime minister by the monarch; deputy prime minister appointed by the monarch; prime minister and deputy prime minister are responsible to the Chamber of Deputies<br>
 
 **Legislative branch**<br>
-_description_: unicameral Chamber of Deputies or Chambre des Deputes (60 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms); note - a 21-member Council of State appointed by the Grand Duke on the advice of the prime minister serves as an advisory body to the Chamber of Deputies<br>
+_description_: unicameral Chamber of Deputies or Chambre des Deputes (60 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms)<br>
 _elections_: last held on 8 October 2023 (next to be held by 31 October 2028)<br>
 _election results_: percent of vote by party - CSV 29.2%, LSAP 18.9%, DP 18.7%, ADR 9.3%, Green Party 8.6%, Pirate Party 6.7%, The Left 3.9%; seats by party - CSV 21, DP 14, LSAP 11, ADR 5, Green Party 4, Pirate Party 3, The Left 2; composition - men 40, women 20, percentage women 33.3%<br>
+<strong>note:</strong> a 21-member Council of State is appointed by the Grand Duke on the advice of the prime minister and serves as an advisory body to the Chamber of Deputies<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice includes Court of Appeal and Court of Cassation (consists of 27 judges on 9 benches); Constitutional Court (consists of 9 members)<br>

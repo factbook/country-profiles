@@ -338,8 +338,8 @@ _election results_: <p><em>2024: </em>Kais SAIED reelected president in first ro
 **Legislative branch**<br>
 _description_: bicameral legislature (enacted by the 2022 constitution) consists of:<br>newly added National Council of Regions and Districts (Le Conseil national des régions et des districts) (77 seats; members indirectly elected by regional and district councils; members of each Regional Council elect 3 members among themselves to the National Council; each District Council elects 1 member among themselves to the National Council; members serve 5-year term)<br>Assembly of the People's Representatives (161 seats; 151 members in single seat constituencies and 10 members from Tunisian diaspora directly elected by majoritarian two-round voting system; all members serve 5-year terms)<br>
 _elections_: National Council of Regions and Districts - last held on 18 April 2024 for 279 local councils, which indirectly elect the National Council (next to be held in 2029)<br>Assembly of Representatives of the People - last held on 17 December 2022 with a runoff on 29 January 2023 (next to be held in late 2027)<br>
-_election results_: National Council of Regions and Districts - percent of vote by party NA; seats by party NA<br>Assembly of Representatives of the People - percent of vote by party NA; seats by party NA<br><br><strong><br><br></strong><br>
-<strong>Note: </strong>in 2022, President SAIED issued a new electoral law, which requires all legislative candidates to run as independents<br>
+_election results_: National Council of Regions and Districts - percent of vote by party NA; seats by party NA<br>Assembly of Representatives of the People - percent of vote by party NA; seats by party NA<strong><br></strong><br>
+<strong>note:</strong> in 2022, President SAIED issued a new electoral law that requires all legislative candidates to run as independents<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation (consists of the first president, chamber presidents, and magistrates and organized into 27 civil and 11 criminal chambers)<br>

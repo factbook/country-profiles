@@ -700,8 +700,8 @@ Australian Defense Force (ADF): Australian Army, Royal Australian Navy, Royal Au
 **Military expenditures**<br>
 2% of GDP (2023 est.)<br>
 2% of GDP (2022)<br>
-2.1% of GDP (2021)<br>
-2.1% of GDP (2020)<br>
+2% of GDP (2021)<br>
+2% of GDP (2020)<br>
 2% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>

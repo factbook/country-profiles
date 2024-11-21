@@ -343,7 +343,7 @@ _election results_: <br><em>2021:</em> Patrice TALON reelected president in the 
 _description_: unicameral National Assembly or Assemblee Nationale (109 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms except for the current members whose terms will end in 2026 to facilitate general elections)<br>
 _elections_: last held on 8 January 2023 (next to be held on 11 January 2027)<br>
 _election results_: percent of vote by party - Progressive Union for Renewal 37.6%, Bloc Republicain 29.2%, The Democrats 24%; seats by party - Progressive Union for Renewal 53, Bloc Republicain 28, The Democrats 28; composition- men 80, women 29, percentage women 26.6%<br>
-<strong>note:</strong>  seat total includes 24 seats reserved for women<br>
+<strong>note:</strong> seat total includes 24 seats reserved for women<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of the chief justice and 16 justices organized into an administrative division, judicial chamber, and chamber of accounts); Constitutional Court or Cour Constitutionnelle (consists of 7 members, including the court president); High Court of Justice (consists of the Constitutional Court members, 6 members appointed by the National Assembly, and the Supreme Court president); note - jurisdiction of the High Court of Justice is limited to cases of high treason by the national president or members of the government while in office<br>

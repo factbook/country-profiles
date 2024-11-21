@@ -190,14 +190,6 @@ _unimproved: urban_: urban: 17.6% of population<br>
 _unimproved: rural_: rural: 66.2% of population<br>
 _unimproved: total_: total: 43.8% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
-_vectorborne diseases_: dengue fever, malaria, Rift Valley fever, and sexually transmitted diseases: hepatitis B (2024)<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-<strong>note:</strong> on 31 August 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Somalia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Obesity - adult prevalence rate**<br>
 8.3% (2016)<br>
 
@@ -328,7 +320,7 @@ _election results_: <em><br>2022:</em> HASSAN SHEIKH Mohamud elected president i
 _description_: bicameral Federal Parliament to consist of:<br>Senate (54 seats; senators indirectly elected by state assemblies to serve 4-year terms)<br>House of the People (275 seats; members indirectly elected by electoral colleges, each consisting of 51 delegates selected by the 136 Traditional Elders in consultation with sub-clan elders; members serve 4-year terms)<br>
 _elections_: Senate - first held on 10 October 2016; last held 27 July - 13 November 2021 (next to be held in 2024)<br>House of the People - first held 23 October - 10 November 2016 (next scheduled for September - October 2021 but postponed to November 2021 and then extended several times until April 2022; next to be held in June 2024)<br>
 _election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 40, women 14, percentage women 25.9%<br><br>House of the People - percent of vote by party - NA; seats by party - NA; composition - men 221, women 54, percentage women 19.6%; total Federal Parliament percentage women 20.7%<br>
-<strong>note: </strong>despite the formation of political parties in 2020, the 2021 parliamentary elections maintained a primarily clan-based system of appointments; seats in the legislature were apportioned to Somali member states and not by party representation <br><br><br><br><br><br>
+<strong>note:</strong> despite the formation of political parties in 2020, the 2021 parliamentary elections maintained a primarily clan-based system of appointments; seats in the legislature were apportioned to Somali member states and not by party representation <br><br><br><br><br><br>
 
 **Judicial branch**<br>
 _highest court(s)_: the provisional constitution stipulates the establishment of the Constitutional Court (consists of 5 judges, including the chief judge and deputy chief judge); note - under the terms of the 2004 Transitional National Charter, a Supreme Court based in Mogadishu and the Appeal Court were established; yet most regions have reverted to local forms of conflict resolution, either secular, traditional Somali customary law, or Islamic law<br>
@@ -601,7 +593,7 @@ estimated 20,000 regular military personnel (2024)<br>
 <strong>note: </strong>tens of thousands of militia forces are also active in Somalia<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SNA's inventory includes mostly a variety of older, secondhand equipment largely from Italy, Russia, South Africa, and the UK; in recent years, it has received limited quantities of more modern equipment as aid/donations from a variety of countries, including the US (2024)<br>
+the SNA's inventory includes a variety of mostly older, secondhand equipment largely from Italy, Russia, South Africa, and the UK; in recent years, it has received limited quantities of more modern equipment as aid/donations from a variety of countries, including the US (2024)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service for men and women; conscription of men aged 18-40 and women aged 18-30 is authorized, but not currently utilized (2023)<br>

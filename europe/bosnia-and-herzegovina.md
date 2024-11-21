@@ -664,7 +664,7 @@ Armed Forces of Bosnia and Herzegovina (AFBiH or Oruzanih Snaga Bosne i Hercegov
 approximately 10,000 active-duty personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is largely Soviet-era material with a smaller mix of mostly secondhand from other countries, particularly the US (2023)<br>
+the military's inventory of weapons and equipment is a combination of material originating from the former Soviet Union/former Yugoslavia and secondhand deliveries from Western suppliers such as the UK and especially the US (2024)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; conscription abolished in 2005 (2024)<br>

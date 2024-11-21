@@ -335,10 +335,10 @@ _election results_: <br><em>2023: </em>Miguel DIAZ-CANEL Bermudez (PCC) reelecte
 <em>note</em> - on 19 April 2018, DIAZ-CANEL succeeded Raul CASTRO as president of the Councils of State and Ministers; on 10 October 2019 he was elected to the newly created position of President of the Republic, which replaced the position of President of the Councils of State and Ministers<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly of People's Power or Asamblea Nacional del Poder Popular (474 seats; (470 seats filled in 2023); members directly elected by absolute majority vote; members serve 5-year terms); note 1 - the National Candidature Commission submits a slate of approved candidates; to be elected, candidates must receive more than 50% of valid votes otherwise the seat remains vacant or the Council of State can declare another election<br>
+_description_: unicameral National Assembly of People's Power or Asamblea Nacional del Poder Popular (474 seats; (470 seats filled in 2023); members directly elected by absolute majority vote; members serve 5-year terms)<br>
 _elections_: last held on 26 March 2023 (next to be held in early 2028)<br>
 _election results_: Cuba's Communist Party is the only legal party, and officially sanctioned candidates run unopposed; composition- men 208, women 262, percent of women 55.7%<br>
-<strong>note:</strong>  the National Candidature Commission submits a slate of approved candidates; to be elected, candidates must receive more than 50% of valid votes, otherwise the seat remains vacant or the Council of State can declare another election<br>
+<strong>note:</strong> the National Candidature Commission submits a slate of approved candidates; to be elected, candidates must receive more than 50% of valid votes, otherwise the seat remains vacant or the Council of State can declare another election<br>
 
 **Judicial branch**<br>
 _highest court(s)_: People's Supreme Court (consists of court president, vice president, 41 professional justices, and NA lay judges); organization includes the State Council, criminal, civil, administrative, labor, crimes against the state, and military courts)<br>

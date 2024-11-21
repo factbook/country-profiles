@@ -639,10 +639,10 @@ Armed Forces of Liberia (AFL): Army, Liberian Coast Guard, Air Wing; Ministry of
 approximately 2,000 active personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military has a limited inventory; in recent years, it has received small quantities of equipment, including donations, from countries such as China and the US (2023)<br>
+the military has a limited inventory; in recent years, it has received small quantities of equipment, including donations, from countries such as China and the US (2024)<br>
 
 **Military service age and obligation**<br>
-18-35 years of age for men and women for voluntary military service; no conscription (2023)<br>
+18-35 years of age for men and women for voluntary military service; no conscription (2024)<br>
 
 **Military - note**<br>
 the AFL is responsible for external defense and also has some domestic security responsibilities if called upon, such as humanitarian assistance during natural disasters and support to law enforcement; it is a small, lightly equipped force comprised of two combat infantry battalions and supporting units; the infantry battalions were rebuilt with US assistance in 2007-2008 from the restructured AFL following the end of the second civil war in 2003 when military and police forces were disbanded and approximately 100,000 military, police, and rebel combatants were disarmed<br><br>the first militia unit established for defense of the Liberia colony was raised in 1832; the AFL traces its origins to the 1908 establishment of the Liberia Frontier Force, which became the Liberian National Guard in 1965; the AFL was established in 1970<br><br>the UN Mission in Liberia (UNMIL) was established in 2003 as a peacekeeping force; at its height, UNMIL was comprised of about 15,000 personnel, including more than 3,000 troops absorbed from the Economic Community of West African States (ECOWAS) peacekeeping mission; Liberian forces reassumed full control of the country’s security in June of 2016, and the UNMIL mission was ended in 2018 (2024)<br>

@@ -183,14 +183,6 @@ _unimproved: urban_: urban: 39.4% of population<br>
 _unimproved: rural_: rural: 84.5% of population<br>
 _unimproved: total_: total: 75.4% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, Trypanosomiasis-Gambiense (African sleeping sickness)<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-_respiratory diseases_: meningococcal meningitis<br>
-
 **Obesity - adult prevalence rate**<br>
 6.6% (2014)<br>
 
@@ -324,7 +316,7 @@ Note: in mid-2022, the Government of South Sudan inaugurated an Ad-hoc Judiciary
 AU, EAC, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, Interpol, IOM, IPU, ITU, MIGA, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WMO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador SANTINO Fardol Watoo Dicken (since 18 September 2024)<br>
+_chief of mission_: Ambassador Santino Fardol Watod DICKEN (since 18 September 2024)<br>
 _chancery_: 1015 31st Street NW, Suite 300, Washington, DC 20007<br>
 _telephone_: [1] (202) 600-2238<br>
 _FAX_: [1] (202) 644-9910<br>

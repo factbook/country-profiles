@@ -191,9 +191,6 @@ _unimproved: rural_: rural: 1.4% of population<br>
 _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 <strong>note:</strong> note includes Gaza Strip and the West Bank<br>
 
-**Major infectious diseases**<br>
-<p><strong>note: </strong>on 31 August 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; the West Bank is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
-
 **Children under the age of 5 years underweight**<br>
 2.1% (2019/20)<br>
 <strong>note:</strong> estimate is for Gaza Strip and the West Bank<br>
@@ -528,7 +525,7 @@ not available<br>
 the PA police and security forces have approximately 28,000 active personnel, including about 11,500 National Security Forces (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the security services are armed mostly with small arms and light weapons; in recent years, they have received small amounts of equipment from Jordan, Russia, and the US (2023)<br>
+the security services are lightly equipped with small arms, light weapons, and wheeled vehicles (2024)<br>
 
 **Military - note**<br>
 Palestinian Authority security forces maintain security control of 17.5% (called Area A) of the West Bank, as agreed by the Palestine Liberation Organization and Israel in the Oslo Accords; Israeli security forces maintain responsibility for the remaining 82.5% of the West Bank, including Area B (22.5%), where the Palestinian Authority has administrative control, and Area C (60%), where Israel maintains administrative control (2023)<br>

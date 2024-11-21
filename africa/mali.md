@@ -203,16 +203,6 @@ _unimproved: urban_: urban: 14.3% of population<br>
 _unimproved: rural_: rural: 55.3% of population<br>
 _unimproved: total_: total: 37.3% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and sexually transmitted diseases: hepatitis B (2024)<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-_respiratory diseases_: meningococcal meningitis<br>
-_aerosolized dust or soil contact diseases_: Lassa fever<br>
-<strong>note:</strong> on 31 August 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Mali is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Obesity - adult prevalence rate**<br>
 8.6% (2016)<br>
 
@@ -370,9 +360,10 @@ _election results_: <em><br>2018</em>: Ibrahim Boubacar KEITA reelected presiden
 <strong>note:</strong> an August 2020 coup d'état deposed President Ibrahim Boubacar KEITA; on 21 September 2020, a group of 17 electors chosen by the Malian military junta, known as the National Committee for the Salvation of the People (CNSP) and led by Colonel Assimi GOITA, selected Bah NDAW as transition president; GOITA served as vice president of the transition government which was inaugurated on 25 September 2020; Vice President GOITA seized power on 25 May 2021; NDAW resigned on 26 May 2021; on 6 June 2022, GOITA's government announced a transition period of 24 months with a planned return to civilian rule by March 2024<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Assemblee Nationale (147 seats; members directly elected in single and multi-seat constituencies by absolute majority vote in 2 rounds if needed; 13 seats reserved for citizens living abroad; members serve 5-year terms)<br><br>note 1 - the National Assembly was dissolved on 18 August 2020 following a military coup and the resignation of President KEITA; the transition government created a National Transition Council (CNT) whose 121 members were selected by then transition Vice President Assimi GOITA; the CNT acts as the transitional government's legislative body, with Malick DIAW serving as the president; in February 2022, the CNT increased the number of seats to 147, but some of the additional seats have not yet been filled<br><br>note 2 - passage of a constitutional referendum held on 18 June 2023 calls for the creation of a "Senate"<br>
-_elections_: last held on 30 March and 19 April 2020; note - following the dissolution of the National Assembly in August 2020 and the ratification of a new constitution in July 2023 expanding the powers of the military junta, no plans for legislative elections have been announced<br>
+_description_: unicameral National Assembly or Assemblee Nationale (147 seats; members directly elected in single and multi-seat constituencies by absolute majority vote in 2 rounds if needed; 13 seats reserved for citizens living abroad; members serve 5-year terms)<br>
+_elections_: last held on 30 March and 19 April 2020<br>
 _election results_: percent of vote by party - NA; seats by party - NA; composition - NA<br>
+<strong>note 1:</strong> the National Assembly was dissolved on 18 August 2020 after a military coup; the transitional government created a Transitional National Council (CNT) that acts as the transitional government's legislative body; a new constitution was ratified in July 2023 that expanded the military junta's powers, and no plans for legislative elections have been announced<br><strong>note 2:</strong> coup leaders appointed a president and vice president; the president then apportioned CNT seats to various groups and political parties<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of 19 judges organized into judicial, administrative, and accounting sections); Constitutional Court (consists of 9 judges)<br>

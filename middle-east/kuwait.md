@@ -334,7 +334,7 @@ _elections/appointments_: amir chosen from within the ruling family, confirmed b
 _description_: unicameral National Assembly or Majlis al-Umma (65 seats; 50 members directly elected from 5 multi-seat constituencies by simple majority vote and 15 ex-officio members (cabinet ministers)&nbsp;appointed by the amir; members serve 4-year terms)<br>
 _elections_: last held on 4 April 2024 (next to be held in 2028)<br>
 _election results_: 50 nonpartisan candidates, including 29 opposition candidates; composition - men 63, women 2, percent women 3.1%<br>
-<strong>Note:</strong> on 10 May 2024, Amir Sheikh MISHAL al-Ahmad al-Sabah dissolved the National Assembly, and some powers held by the National Assembly are assumed by the government<br>
+<strong>note:</strong> in May 2024, Amir Sheikh MISHAL al-Ahmad al-Sabah dissolved the National Assembly, and some powers held by the National Assembly were assumed by the government<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Constitutional Court (consists of 5 judges); Supreme Court or Court of Cassation (organized into several circuits, each with 5 judges)<br>

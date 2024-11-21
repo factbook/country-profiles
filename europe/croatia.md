@@ -343,10 +343,10 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <br><em>2019: </em>Zoran MILANOVIC elected president in second round; percent of vote in second round - Zoran MILANOVIC (SDP) 52.7%, Kolinda GRABAR-KITAROVIC (HDZ) 47.3%<br><br><em>2015:</em> Kolinda GRABAR-KITAROVIC elected president in second round; percent of vote in second round - Kolinda GRABAR-KITAROVIC (HDZ) 50.7%, Ivo JOSIPOVIC (Forward Croatia Progressive Alliance) 49.3%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Assembly or Hrvatski Sabor (151 seats; 140 members in 10 multi-seat constituencies and 3 members in a single constituency for Croatian diaspora directly elected by proportional representation vote using the D'Hondt method with a 5% threshold; an additional 8 members elected from a nationwide constituency by simple majority by voters belonging to minorities recognized by Croatia; the Serb minority elects 3 Assembly members, the Hungarian and Italian minorities elect 1 each, the Czech and Slovak minorities elect 1 jointly, and all other minorities elect 2; all members serve 4-year terms<br>
+_description_: unicameral Assembly or Hrvatski Sabor (151 seats; members serve 4-year terms)<br>
 _elections_: last election held on 17 April 2024 (next to be held by April 2028)<br>
 _election results_: percent of vote by party/coalition - HDZ-led coalition 40.4%, SDP 27.8%, DP 9.3%, MOST 7.3%, We Can! 6.6%, SDSS 2.0%, Independents 1.3%, NPS 1.3%, IDS 1.3%, Bosniaks Together 0.7%, DZMH 0.7%, Focus 0.7%, SRRH 0.7%; seats by party/coalition - HDZ-led coalition 61, SDP 42, DP 14, MOST 11, We Can! 10, SDSS 3, Independents 2, NPS 2, IDS 2, Bosniaks Together 1, DZMH 1, Focus 1, SRRH 1; composition - men 101, women 50, percent of women 33%<br>
-<strong>note:</strong>  of the 151 seats, 140 members come from 10 multi-seat constituencies, with 3 members in a constituency for Croatian diaspora; voters belonging to recognized minorities elect an additional 8 members from a nationwide constituency: the Serb minority elects 3 members, the Hungarian and Italian minorities elect 1 each, the Czech and Slovak minorities elect 1 jointly, and all other minorities elect 2<br>
+<strong>note:</strong> of the 151 seats, 140 members come from 10 multi-seat constituencies, with 3 members in a constituency for Croatian diaspora; voters belonging to recognized minorities elect an additional 8 members from a nationwide constituency: the Serb minority elects 3 members, the Hungarian and Italian minorities elect 1 each, the Czech and Slovak minorities elect 1 jointly, and all other minorities elect 2<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the court president and vice president, 25 civil department justices, and 16 criminal department justices)<br>
@@ -692,7 +692,7 @@ Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH)
 approximately 14,000 active-duty personnel (10,000 Army; 1,500 Navy; 1,500 Air force; 1,000 joint/other) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is a mix of Soviet-era equipment and a growing amount of more modern, NATO-compatible weapon systems from Western suppliers, including France, Germany, and the US (2024)<br>
+the military's inventory is a mix of Soviet-era (largely from the former Yugoslavia) equipment and a growing amount of more modern, NATO-compatible weapon systems from suppliers such as France, Germany, Turkey, and the US (2024)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for voluntary military service; conscription abolished in 2008 but slated to be reinstated in January 2025 (2024)<br>

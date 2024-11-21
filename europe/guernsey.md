@@ -243,9 +243,10 @@ _election results_: <em><br>2020: </em>Peter FERBRACHE (independent) elected pre
 <strong>note:</strong> the chief minister is the president of the Policy and Resources Committee and is the de facto head of government; the Policy and Resources Committee, elected by the States of Deliberation, functions as the executive; the 5 members all have equal voting rights<br>
 
 **Legislative branch**<br>
-_description_: unicameral States of Deliberation (40 seats; 38 People's Deputies and 2 representatives of the States of Alderney; members directly elected by majority vote to serve 4-year terms); note - non-voting members include the bailiff (presiding officer), attorney-general, and solicitor-general<br>
+_description_: unicameral States of Deliberation (40 seats; 38 People's Deputies and 2 representatives of the States of Alderney; members directly elected by majority vote to serve 4-year terms)<br>
 _elections_: last held on 7 October 2020 (next to be held in June 2025)<br>
 _election results_: percent of vote - GPI 24.0%, GP 10%, APG 3.4%, independent 62.6%; seats - GPI 10, GP 6, independent 22, States of Alderney 2; composition - men 32, women 8, percentage women 20%<br>
+<strong>note:</strong> non-voting members include the bailiff (presiding officer), attorney-general, and solicitor-general<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Guernsey Court of Appeal (consists of the Bailiff of Guernsey, who is the ex-officio president of the Guernsey Court of Appeal, and at least 12 judges); Royal Court (organized into 3 divisions - Full Court sits with 1 judge and 7 to 12 jurats acting as judges of fact, Ordinary Court sits with 1 judge and normally 3 jurats, and Matrimonial Causes Division sits with 1 judge and 4 jurats); note - appeals beyond Guernsey courts are heard by the Judicial Committee of the Privy Council (in London)<br>

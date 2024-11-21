@@ -197,12 +197,6 @@ _unimproved: urban_: urban: 1.3% of population<br>
 _unimproved: rural_: rural: 10% of population<br>
 _unimproved: total_: total: 6.7% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: dengue fever, malaria, Japanese encephalitis, and sexually transmitted diseases: hepatitis B (2024)<br>
-<strong>note: </strong>On 20 September 2023, the CDC issued a travel notice for an outbreak of diphtheria in several provinces in Vietnam (see attached map); vaccination against diphtheria is essential to protect against disease; if you are traveling to an affected area, you should be up to date with your diphtheria vaccines; Diphtheria is a serious infection caused by strains of bacteria called <em>Corynebacterium diphtheriae </em>that make a toxin; Diphtheria bacteria spread from person to person, usually through respiratory droplets, like from coughing or sneezing<br>
-
 **Obesity - adult prevalence rate**<br>
 2.1% (2016)<br>
 
@@ -702,7 +696,8 @@ People's Army of Vietnam (PAVN; aka Vietnam People's Army, VPA): Ground Forces, 
 information is limited and varied; estimated 450,000 active-duty troops; estimated 40,000 Border Defense Force and Coast Guard (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the PAVN is armed largely with weapons and equipment from Russia and the former Soviet Union; in recent years, Russia has remained the leading supplier of newer PAVN military equipment, but Vietnam has diversified arms purchases to include more than a dozen other countries including Belarus, Israel, the Netherlands, South Korea, and the US; Vietnam has a limited domestic defense industry (2023)<br>
+the PAVN is armed largely with weapons and equipment from Russia and the former Soviet Union; in recent years, Vietnam has moved to diversify arms its arms suppliers and has acquired items from countries such as India, South Korea, and the US; Vietnam has a small defense industry involved in the production of small arms, ground combat vehicles, and naval systems (2024)<br>
+<strong>note:</strong> the US lifted an embargo on arms sales to Vietnam in 2016<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory and voluntary military service for men and women (in practice only men are drafted); service obligation is between 24 (Army, Air Defense) and 36 (Navy and Air Force) months (2023)<br>

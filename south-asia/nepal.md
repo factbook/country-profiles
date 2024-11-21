@@ -195,11 +195,6 @@ _unimproved: urban_: urban: 4.9% of population<br>
 _unimproved: rural_: rural: 14.3% of population<br>
 _unimproved: total_: total: 12.3% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoid fever<br>
-_vectorborne diseases_: Japanese encephalitis, malaria, and dengue fever<br>
-
 **Obesity - adult prevalence rate**<br>
 4.1% (2016)<br>
 

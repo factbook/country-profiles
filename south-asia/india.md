@@ -203,13 +203,6 @@ _unimproved: urban_: urban: 1.4% of population<br>
 _unimproved: rural_: rural: 24.8% of population<br>
 _unimproved: total_: total: 16.6% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoid fever<br>
-_vectorborne diseases_: dengue fever, Crimean-Congo hemorrhagic fever, Japanese encephalitis, and malaria<br>
-_water contact diseases_: leptospirosis<br>
-_animal contact diseases_: rabies<br>
-
 **Obesity - adult prevalence rate**<br>
 3.9% (2016)<br>
 
@@ -368,7 +361,7 @@ _election results_: <br><em>2022:</em> Droupadi MURMU elected president; percen
 _description_: bicameral Parliament or Sansad consists of:<br>Council of States or Rajya Sabha (245 seats; 233 members indirectly elected by state and territorial assemblies by proportional representation vote and 12 members appointed by the president; members serve 6-year terms with one-third of the membership renewed every 2 years at various dates)<br>House of the People or Lok Sabha (545 seats; 543 members directly elected in single-seat constituencies by simple majority vote and 2 appointed by the president; members serve 5-year terms)<br>
 _elections_: Council of States - held by state and territorial assemblies being held from 12 January to 30 June 2024 for expiry of 68 seats<br><br>House of the People - last held in 7 phases from 19 April to 1 June 2024 (next to be held in 2027)<br>
 _election results_: Council of States (2022) - percent of vote by party - NA; seats by party - BJP 97, INC 34, AITC 13, DMK 10, other 2, independent 2; composition as of March 2024 - men 206, women 32, percentage women 13.8%<br><br>House of the People - percent of vote by party - NA; seats by party - BJP 240, INC 99, SP 37, AITC 29, DMK 22, BJD 12, RJD 4, AAP 3, other 93<br><br>seats by party - BJP 303, INC 52, DMK 24, AITC 22, YSRCP 22, SS 18, JDU 16, BJD 12, BSP 10, TRS 9, LJP 6, NCP 5, SP 5, other 35, independent 4, vacant 2; composition as of March 2024 - men 446, women 77, percentage women 14.7%; total Parliament percentage women 14.3%<br>
-<strong>note: </strong>in late September 2023, both Rajya Sabha and Lok Sabha passed a bill that reserves one third of the House seats for women; implementation could begin for the House election in 2029<br>
+<strong>note:</strong> in September 2023, both Rajya Sabha and Lok Sabha passed a bill that reserves one third of the House seats for women; implementation could begin for the House election in 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 28 judges, including the chief justice)<br>

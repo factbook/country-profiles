@@ -596,7 +596,7 @@ Royal Bahamas Defense Force (RBDF): includes land, air, maritime elements; Royal
 approximately 1,700 active RBDF personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-most of the RBDF's major equipment inventory has been acquired from the Netherlands (2023)<br>
+most of the RBDF's major equipment inventory has been acquired from the Netherlands or the US (2024)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary service for men and women (18-60 for Reserves); no conscription (2024)<br>

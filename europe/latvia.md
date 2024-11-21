@@ -190,10 +190,6 @@ _unimproved: urban_: urban: 1.1% of population<br>
 _unimproved: rural_: rural: 14.7% of population<br>
 _unimproved: total_: total: 5.4% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: intermediate (2023)<br>
-_vectorborne diseases_: tickborne encephalitis<br>
-
 **Obesity - adult prevalence rate**<br>
 23.6% (2016)<br>
 

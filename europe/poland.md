@@ -198,10 +198,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: intermediate (2023)<br>
-_vectorborne diseases_: tickborne encephalitis<br>
-
 **Obesity - adult prevalence rate**<br>
 23.1% (2016)<br>
 
@@ -354,6 +350,7 @@ _election results_: <br><em>2020:</em> Andrzej DUDA reelected president in secon
 _description_: bicameral Parliament consists of:<br>Senate or Senat (100 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>Sejm (460 seats; members elected in multi-seat constituencies by party-list proportional representation vote with 5% threshold of total votes needed for parties and 8% for coalitions to gain seats; minority parties exempt from threshold; members serve 4-year terms)<br>
 _elections_: Senate - last held on 15 October 2023 (next to be held in 2027)<br>Sejm - last held on 15 October 2023 (next to be held in 2027)<br>
 _election results_: Senate - percent of vote by coalition/party - United Right 34.8%, Civic Coalition 28.9%, Third Way 11.5%, The Left 5.3%, Senate Pact Independents 2.7%, independent 3%; seats by coalition/party - Civic Coalition 41, United Right 34, Third Way 11, The Left 9, Senate Pact Independents 4, independent 1<br><br>Sejm - percent of vote by coalition/party - PiS 35.4%, KO 30.7%, TD 14.4%, Lewica 8.6%, Konf 7.2%; seats by coalition/party - United Way 194, Civic Coalition 157, Third Way 65, The Left 26, Confederation 18<br>
+<strong>note:</strong> the designation "National Assembly" (or Zgromadzenie Narodowe) is only used on those rare occasions when the two houses meet jointly<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Sad Najwyzszy (consists of the first president of the Supreme Court and 120 justices organized in criminal, civil, labor and social insurance, and extraordinary appeals and public affairs and disciplinary chambers); Constitutional Tribunal (consists of 15 judges, including the court president and vice president)<br>

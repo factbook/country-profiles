@@ -333,7 +333,7 @@ _election results_: <em><br>2021:</em> Ismail Omar GUELLEH reelected president f
 _description_: unicameral National Assembly or Assembl&eacute;e Nationale, formerly the Chamber of Deputies (65 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 5-year terms)<br>
 _elections_: last held on 24 February 2023 (next to be held in February 2028)<br>
 _election results_: percent of vote by party - UMP 93.6%, UDJ 6.3%; seats by party - UMP 58, UDJ 7; composition - men 48, women 17, percentage women 26.2%<br>
-<strong>note:</strong>  most opposition parties boycotted the 2023 polls, stating the elections were "not free, not transparent, and not democratic"<br>
+<strong>note:</strong> most opposition parties boycotted the 2023 polls, stating the elections were "not free, not transparent, and not democratic"<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of NA magistrates); Constitutional Council (consists of 6 magistrates)<br>
@@ -639,7 +639,7 @@ Djibouti Armed Forces (Forces Armées Djiboutiennes or FAD): Army, Navy, Air For
 approximately 10,000 active-duty military personnel; approximately 2,000 Gendarmerie (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAD's inventory includes mostly older French and Soviet-era weapons systems, although in recent years it has received limited amounts of more modern, but largely secondhand equipment from a variety of other countries, including China, the Netherlands, and the US (2023)<br>
+the FAD's inventory is a mix of mostly older or secondhand equipment from a wide variety of suppliers, including China, France, Italy, Russia/former Soviet Union, South Africa, Turkey, and the US (2024)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; 16-25 years of age for voluntary military training; no conscription (2023)<br>

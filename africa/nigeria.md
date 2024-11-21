@@ -201,16 +201,6 @@ _unimproved: urban_: urban: 18.4% of population<br>
 _unimproved: rural_: rural: 58.6% of population<br>
 _unimproved: total_: total: 37.7% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and sexually transmitted diseases: hepatitis B (2024)<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-_respiratory diseases_: meningococcal meningitis<br>
-_aerosolized dust or soil contact diseases_: Lassa fever<br>
-<strong>note 1:</strong> on 4 May 2022, the Centers for Disease Control and Prevention issued a Travel Health Notice for a Yellow Fever outbreak in Nigeria; a large, ongoing outbreak of yellow fever in Nigeria began in September 2017; the outbreak is now spread throughout the country with the Nigerian Ministry of Health reporting cases of the disease in multiple states (Bauchi, Benue, Delta, Ebonyi, and Enugu); the CDC recommends travelers going to Nigeria should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak (see attached map)<br><br><strong>note 2:</strong> on 31 August 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Nigeria is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br><br><strong>note 3:</strong> on 20 September 2023, the Centers for Disease Control and Prevention updated a Travel Health Alert for a diphtheria outbreak in several states in Nigeria; vaccination against diphtheria is essential to protect against disease; if you are traveling to an affected area, you should be up to date with your diphtheria vaccines; before travel, discuss the need for a booster dose with your healthcare professional; diphtheria is a serious infection caused by strains of <em>Corynebacterium diphtheriae</em> bacteria that make a toxin from which people get very sick; diphtheria bacteria spread from person to person through respiratory droplets like from coughing or sneezing; people can also get sick from touching open sores or ulcers of people sick with diphtheria (see attached map)<br>
-
 **Obesity - adult prevalence rate**<br>
 8.9% (2016)<br>
 

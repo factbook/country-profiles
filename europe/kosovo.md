@@ -270,9 +270,10 @@ _elections/appointments_: president indirectly elected by at least two-thirds ma
 _election results_: <em><br>2021: </em> Vjosa OSMANI-Sadriu elected president in third ballot; Assembly vote - Vjosa OSMANI-Sadriu (Guxo!) 71 votes; Albin KURTI (LVV) elected prime minister; Assembly vote - 67 for, 30 against<br><br><em>2017: </em>Ramush HARADINAJ (AAK) elected prime minister; Assembly vote - 61 for, 1 abstention, 0 against (opposition boycott)<br><br><em>2016:</em> Hashim THACI elected president in third ballot; Assembly vote - Hashim THACI (PDK) 71 votes<br>
 
 **Legislative branch**<br>
-_description_: unicameral Assembly or Kuvendi i Kosoves/Skupstina Kosova (120 seats; 100 members directly elected by open-list proportional representation vote with 20 seats reserved for ethnic minorities - 10 for Serbs and 10 for other ethnic minorities; members serve 4-year terms)<br>
+_description_: unicameral Assembly or Kuvendi i Kosoves/Skupstina Kosova (120 seats; 100 members directly elected by open-list proportional representation vote with 20 seats reserved for ethnic minorities; members serve 4-year terms)<br>
 _elections_: last held on 14 February 2021 (next to be held in 2025)<br>
 _election results_: percent of vote by party - LVV 50%, PDK 16.9%, LDK 12.7%, AAK 7.1%, Serb List 5.1%, other 8.2%; seats by party - LVV 58, PDK 19, LDK 15, Serb List 10, AAK 8, other 10; composition - men 79, women 41, percentage women 34.2%<br>
+<strong>note:</strong> 20 seats reserved for ethnic minorities -- 10 for Serbs and 10 for other minorities<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the court president and 18 judges and organized into Appeals Panel of the Kosovo Property Agency and Special Chamber); Constitutional Court (consists of the court president, vice president, and 7 judges)<br>
@@ -555,10 +556,10 @@ Kosovo Security Force (KSF; Forca e Sigurisë së Kosovës or FSK): Land Force, 
 0.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 3,300 KSF personnel, including about 800 reserves (2023)<br>
+approximately 3,300 KSF personnel, including about 800 reserves (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the KSF is equipped with small arms and light vehicles and has relied on limited amounts of donated equipment from several countries, particularly Turkey and the US (2023)<br>
+the KSF is equipped with small arms and light vehicles and has relied on limited amounts of donated equipment from several countries, particularly Turkey and the US (2024)<br>
 
 **Military service age and obligation**<br>
 any citizen of Kosovo over the age of 18 is eligible to serve in the Kosovo Security Force; upper age for enlisting is 30 for officers, 25 for other ranks, although these may be waived for recruits with key skills considered essential for the KSF<br> (2024)<br>

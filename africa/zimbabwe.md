@@ -199,13 +199,6 @@ _unimproved: urban_: urban: 3.9% of population<br>
 _unimproved: rural_: rural: 51% of population<br>
 _unimproved: total_: total: 35.8% of population (2017 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and sexually transmitted diseases: HIV/AIDS (2024)<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-
 **Obesity - adult prevalence rate**<br>
 15.5% (2016)<br>
 
@@ -674,7 +667,7 @@ Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbab
 information varies; approximately 30,000 active-duty troops, including about 4,000 Air Force personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the ZDF inventory is comprised mostly of Soviet-era and older Chinese armaments; since the early 2000s, Zimbabwe has been under an arms embargo from the EU, as well as targeted sanctions from Australia, Canada, New Zealand, the UK, and the US (2024)<br>
+the ZDF inventory is comprised mostly of Russian/Soviet-era and Chinese armaments with smaller quantities of older or obsolescent material from countries such as Brazil, France, Italy, South Africa, the UK, and the US; since the early 2010s, Zimbabwe has been under an arms embargo from the EU, as well as targeted sanctions from Australia, Canada, New Zealand, the UK, and the US (2024)<br>
 
 **Military service age and obligation**<br>
 18-22 years of age for voluntary military service for men and women (18-24 for officer cadets; 18-30 for technical/specialist personnel); no conscription (2023)<br>

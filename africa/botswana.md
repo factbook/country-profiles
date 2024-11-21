@@ -344,7 +344,7 @@ _election results_: National elections held in 2024 gave BOKO's UDC 35 seats in 
 _description_: unicameral Parliament consists of the National Assembly (65 seats; 58 members directly elected in single-seat constituencies by simple majority vote, 5 nominated by the president and indirectly elected by simple majority vote by the rest of the National Assembly, and 2 ex-officio members - the president and vice president of Botswana; elected members serve 5-year terms)<br>
 _elections_: last held on 23 October 2019 (next to be held by October 2024)<br>
 _election results_: percent of vote by party - BDP 52.7%, UDC 35.9%, BPF 4.4%, AP 5.1%, other 1.7%; seats by party - BDP 38, UDC 15, BPF 3, AP 1; composition- men 56, women 7, percentage women 11.1%<br>
-<strong>note:</strong>  the House of Chiefs (Ntlo ya Dikgosi), an advisory body to the National Assembly, consists of 35 members -- 8 hereditary chiefs from Botswana's principal tribes, 22 indirectly elected by the chiefs, and 5 appointed by the president; the House of Chiefs consults on issues including powers of chiefs, customary courts, customary law, tribal property, and constitutional amendments<br>
+<strong>note:</strong> the House of Chiefs (Ntlo ya Dikgosi), an advisory body to the National Assembly, consists of 35 members -- 8 hereditary chiefs from Botswana's principal tribes, 22 indirectly elected by the chiefs, and 5 appointed by the president; the House of Chiefs consults on issues including powers of chiefs, customary courts, customary law, tribal property, and constitutional amendments<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal, High Court (each consists of a chief justice and a number of other judges as prescribed by the Parliament)<br>

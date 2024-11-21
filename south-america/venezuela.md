@@ -198,11 +198,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 4.2% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
-_vectorborne diseases_: dengue fever and malaria<br>
-
 **Obesity - adult prevalence rate**<br>
 25.6% (2016)<br>
 
@@ -337,9 +332,10 @@ _election results_: <em><br>2024:</em> official results disputed; Nicolas MADURO
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Asamblea Nacional (277 seats; 3 seats reserved for indigenous peoples of Venezuela; members serve 5-year terms); note - in 2020, the National Electoral Council increased the number of seats in the National Assembly from 167 to 277 for the 6 December 2020 election<br>
+_description_: unicameral National Assembly or Asamblea Nacional (277 seats; 3 seats reserved for indigenous peoples of Venezuela; members serve 5-year terms)<br>
 _elections_: last held on 6 December 2020 (next expected to be held in December 2025)<br>
 _election results_: percent of vote by party - GPP (pro-government) 69.3%, Democratic Alliance (opposition coalition) 17.7%, other 13%; seats by party - GPP 253, Democratic Alliance 18, indigenous peoples 3, other 3; composition - NA<br>
+<strong>note:</strong> in 2020, the National Electoral Council increased the number of seats in the National Assembly from 167 to 277 for the December 2020 election<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Tribunal of Justice (consists of 32 judges organized into constitutional, political-administrative, electoral, civil appeals, criminal appeals, and social divisions)<br>
@@ -656,7 +652,7 @@ information varies; approximately 125-150,000 active military personnel, includi
 <strong>note: </strong>in December 2022, President Nicolas MADURO announced that the National Police would be increased to 100,000 in 2024<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FANB inventory is mainly of Chinese and Russian origin with a smaller mix of mostly older equipment from Western countries, including the US; in recent years, leading suppliers has been China (2023)<br>
+the FANB inventory is comprised mostly of Russian/Soviet-era weapons and equipment; in recent years, it has acquired some material from China and Iran; it also has smaller quantities of older equipment from France, Germany, Spain, the UK, and the US (2024)<br>
 <strong>note:</strong> the US prohibited the sale or transfer of military arms or technology to Venezuela in 2006<br>
 
 **Military service age and obligation**<br>

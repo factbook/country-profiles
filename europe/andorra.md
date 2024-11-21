@@ -304,10 +304,10 @@ _elections/appointments_: head of government indirectly elected by the General C
 _election results_: <em><br>2023: </em>Xaviar Espot ZAMORA (DA) reelected head of government; percent of General Council vote - 57.1%<br><em><br>2019:</em> Xaviar Espot ZAMORA (DA) elected head of government; percent of General Council vote - 60.7<br>
 
 **Legislative branch**<br>
-_description_: unicameral General Council of the Valleys or Consell General de les Valls (28 seats; 14 members directly elected in two-seat constituencies (7 parishes) by simple majority vote and 14 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms); note - voters cast two separate ballots - one for national election and one for their parish<br>
+_description_: unicameral General Council of the Valleys or Consell General de les Valls (28 seats; 14 members directly elected in two-seat constituencies (7 parishes) by simple majority vote and 14 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 2 April 2023 (next to be held in April 2027)<br>
 _election results_: percent of vote by party/coalition - DA, CC, L'A &amp; ACCIO alliance 43.6%, C 21.4%, AE 16%, PS &amp; SDP alliance 21.1%; seats by party/coalition - DA, CC, L'A &amp; ACCIO alliance 17, C 5, AE 3, PS &amp; SDP alliance 3; composition - men 14, women 14, percentage women 50%<br>
-<strong>note:</strong>  voters cast two separate ballots -- one for the national election and one for their parish<br>
+<strong>note:</strong> voters cast two separate ballots -- one for the national election and one for their parish<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice of Andorra or Tribunal Superior de la Justicia d'Andorra (consists of the court president and 8 judges organized into civil, criminal, and administrative chambers); Constitutional Court or Tribunal Constitucional (consists of 4 magistrates)<br>
@@ -315,8 +315,7 @@ _judge selection and term of office_: Supreme Court president and judges appoint
 _subordinate courts_: Tribunal of Judges or Tribunal de Batlles; Tribunal of the Courts or Tribunal de Corts<br>
 
 **Political parties**<br>
-Action for Andorra or ACCIO <br>Committed Citizens or CC <br>Concord <br>Democrats for Andorra or DA <br>Forward Andorra or AE <br>Liberals of Andorra or L'A <br>Social Democratic Party or PS <br>Social Democracy and Progress or SDP <br>
-<strong>note:</strong> Andorra has several smaller parties at the parish level (one is Lauredian Union)<br>
+Action for Andorra or ACCIO <br>Committed Citizens or CC <br>Concord or C<br>Democrats for Andorra or DA <br>Forward Andorra or AE <br>Liberals of Andorra or L'A <br>Social Democratic Party or PS <br>Social Democracy and Progress or SDP<br>
 
 **International organization participation**<br>
 CE, FAO, ICAO, ICC (NGOs), ICCt, ICRM, IFRCS, Interpol, IOC, IPU, ITU, OIF, OPCW, OSCE, UN, UNCTAD, UNESCO, Union Latina, UNWTO, WCO, WHO, WIPO, WTO (observer)<br>

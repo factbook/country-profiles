@@ -197,13 +197,6 @@ _unimproved: urban_: urban: 6.3% of population<br>
 _unimproved: rural_: rural: 69.7% of population<br>
 _unimproved: total_: total: 27.3% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, typhoid fever<br>
-_vectorborne diseases_: dengue fever, malaria<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-
 **Obesity - adult prevalence rate**<br>
 8.2% (2016)<br>
 
@@ -689,7 +682,7 @@ Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Gue
 approximately 100,000 active troops (mostly Army; 5-6,000 Air Force and Navy) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-most Angolan military weapons and equipment are of Russian or of Soviet-era origin; in recent years, Russia has been the principal supplier of military hardware to Angola (2023)<br>
+most Angolan military weapons and equipment are of Russian or Soviet-era origin; there are smaller quantities of items originating from such suppliers as China, Brazil, and South Africa (2024)<br>
 
 **Military service age and obligation**<br>
 20-45 years of age for compulsory and 18-45 years for voluntary military service for men (registration at age 18 is mandatory); 20-45 years of age for voluntary service for women; 24-month conscript service obligation; Angolan citizenship required; the Navy is entirely staffed with volunteers (2023)<br>

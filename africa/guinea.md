@@ -197,15 +197,6 @@ _unimproved: urban_: urban: 9.1% of population<br>
 _unimproved: rural_: rural: 61.3% of population<br>
 _unimproved: total_: total: 42% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and sexually transmitted diseases: hepatitis B (2024)<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-_aerosolized dust or soil contact diseases_: Lassa fever<br>
-<strong>note:  </strong>on 20 September 2023, the Centers for Disease Control and Prevention updated a Travel Health Alert for a diphtheria outbreak in several states in Guinea; vaccination against diphtheria is essential to protect against disease; if you are traveling to an affected area, you should be up to date with your diphtheria vaccines; before travel, discuss the need for a booster dose with your healthcare professional; diphtheria is a serious infection caused by strains of Corynebacterium diphtheriae bacteria that make a toxin from which people get very sick; diphtheria bacteria spread from person to person through respiratory droplets like from coughing or sneezing; people can also get sick from touching open sores or ulcers of people sick with diphtheria (see attached map)<br>
-
 **Obesity - adult prevalence rate**<br>
 7.7% (2016)<br>
 
@@ -353,9 +344,10 @@ _elections/appointments_: formerly, the president was directly elected by absolu
 _election results_: <em><br>2020: </em>Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 59.5%, Cellou Dalein DIALLO (UFDG) 33.5%, other 7%<br><br><em>2015: </em>Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 57.8%, Cellou Dalein DIALLO (UFDG) 31.4%, other 10.8%<br>
 
 **Legislative branch**<br>
-_description_: formerly the People's National Assembly; note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, the constitution suspended, and the government and People's National Assembly dissolved; on 22 January 2022, an 81-member Transitional National Council was installed; on 19 February 2024 Guinea's military leaders dissolved the government<br>
-_elections_: 81 members to the Transitional National Council were appointed by the transitional president Col. Mamady DOUMBOUYA on 22 January 2022; elections for a permanent legislature had not been announced as of late January 2022; on 19 February 2024 Guinea's military leaders dissolved the government<br>
+_description_: formerly the People's National Assembly<br>
+_elections_: 81 members to the Transitional National Council were appointed by the transitional president Col. Mamady DOUMBOUYA on 22 January 2022; elections for a permanent legislature had not been announced as of late January 2022<br>
 _election results_: 81 members of the National Transitional Council appointed on 22 January 2022 by the transitional president; the members represent all of the country's socio-professional organizations and political parties<br>
+<strong>note:</strong> on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, the constitution suspended, and the government and People's National Assembly dissolved; in January 2022, an 81-member Transitional National Council was installed; in February 2024, Guinea's military leaders dissolved the government<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (organized into Administrative Chamber and Civil, Penal, and Social Chamber; court consists of the first president, 2 chamber presidents, 10 councilors, the solicitor general, and NA deputies); Constitutional Court - suspended on 5 September 2021<br>

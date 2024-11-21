@@ -681,10 +681,10 @@ Republic of Albania Armed Forces (Forcat e Armatosura të Republikës së Shqip�
 1.3% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 7,000 total active-duty personnel (5,000 Army; 1,500 Navy; 500 Air Force) (2024)<br>
+approximately 7,000 total active-duty personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-since joining NATO, the military has been in the process of modernizing by retiring its inventory of Soviet-era weapons and replacing them with Western equipment, including donated and secondhand purchases&nbsp; (2023)<br>
+since joining NATO, the military has been in the process of modernizing by retiring its inventory of Soviet-era weapons and replacing them with Western equipment, including donated and secondhand deliveries (2024)<br>
 
 **Military service age and obligation**<br>
 18-27 (up to 32 in some cases) for voluntary military service for men and women; conscription abolished 2010 (2024)<br>

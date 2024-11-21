@@ -191,9 +191,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0.7% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-<p><strong>note: </strong>on 31 August 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Israel is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
-
 **Obesity - adult prevalence rate**<br>
 26.1% (2016)<br>
 
@@ -337,9 +334,10 @@ _elections/appointments_: president indirectly elected by the Knesset for a sing
 _election results_: <br><em>2021:</em> Isaac HERZOG elected president; Knesset vote in first round - Isaac HERZOG (independent) 87, Miriam PERETZ (independent) 26, invalid/blank 7<br><br><em>2014:</em> Reuven RIVLIN elected president in second round; Knesset vote - Reuven RIVLIN (Likud) 63, Meir SHEETRIT (The Movement) 53, other/invalid 4 <p> </p><br>
 
 **Legislative branch**<br>
-_description_: unicameral Knesset (120 seats; members directly elected in a single nationwide constituency by closed party-list proportional representation vote, with a 3.25% vote threshold to gain representation; members serve 4-year terms)<br>
+_description_: unicameral Knesset (120 seats; members directly elected in a single nationwide constituency by closed party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 1 November 2022 (next to be held in November 2026)<br>
-_election results_: percent by party - Likud 23.4%, Yesh Atid 17.8%, Religious Zionism (electoral alliance of Religious Zionist Party, Jewish Power, and Noam) 10.8%, National Unity 9.1%, Shas 8.2%, UTJ 5.9%, Yisrael Beiteinu 4.5%, United Arab List 4.1%, Hadash-Ta'al 3.8%, Labor 3.7%, Meretz 3.2%, other 1.6%; seats by party - Likud 32, Yesh Atid 24, Religious Zionism (electoral alliance of Religious Zionist Party, Jewish Power, and Noam) 14, National Unity 12, Shas 11, UTJ 7, Yisrael Beiteinu 6, Hadash-Ta'al 5, United Arab List 5, Labor 4; composition - men 90, women 30, percentage women 25%; note - following the 1 November 2022 election, the Religious Zionism Alliance split into its three constituent parties in the Knesset:  Religious Zionism 7 seats, Jewish Power (Otzma Yehudit) 6, and Noam 1<br>
+_election results_: percent by party - Likud 23.4%, Yesh Atid 17.8%, Religious Zionism (electoral alliance of Religious Zionist Party, Jewish Power, and Noam) 10.8%, National Unity 9.1%, Shas 8.2%, UTJ 5.9%, Yisrael Beiteinu 4.5%, United Arab List 4.1%, Hadash-Ta'al 3.8%, Labor 3.7%, Meretz 3.2%, other 1.6%; seats by party - Likud 32, Yesh Atid 24, Religious Zionism (electoral alliance of Religious Zionist Party, Jewish Power, and Noam) 14, National Unity 12, Shas 11, UTJ 7, Yisrael Beiteinu 6, Hadash-Ta'al 5, United Arab List 5, Labor 4; composition - men 90, women 30, percentage women 25%<br>
+<strong>note 1:</strong> a 3.25% vote threshold is required to gain representation<br><br><strong>note 2:</strong> following the 1 November 2022 election, the Religious Zionism Alliance split into its three constituent parties in the Knesset:  Religious Zionism 7 seats, Jewish Power (Otzma Yehudit) 6, and Noam 1<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the president, deputy president, 13 justices, and 2 registrars) and normally sits in panels of 3 justices; in special cases, the panel is expanded with an uneven number of justices<br>

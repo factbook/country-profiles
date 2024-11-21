@@ -193,11 +193,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 6.1% of population<br>
 _unimproved: total_: total: 2% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: intermediate (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: Crimean-Congo hemorrhagic fever<br>
-
 **Obesity - adult prevalence rate**<br>
 23.3% (2016)<br>
 

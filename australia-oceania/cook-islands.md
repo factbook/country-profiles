@@ -290,7 +290,7 @@ _elections/appointments_: the monarchy is hereditary; UK representative appointe
 _description_: unicameral Parliament, formerly the Legislative Assembly (24 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
 _elections_: last held on 1 August 2022 (next to be held by 2026)<br>
 _election results_: percent of vote by party - CIP 44%, Demo 26.9%, Cook Islands United Party 26.9%, OCI 2.7%, other 0.2% independent 7.3%; seats by party - CIP 12, Demo 5, Cook Islands United Party 3, OCI 1, independent 3; composition - men 18, women 6, percentage women 25%<br>
-<strong>note:</strong>  the House of Ariki, a 24-member parliamentary body of traditional leaders appointed by the King's representative, serves as a consultative body to the Parliament<br>
+<strong>note:</strong> the House of Ariki, a 24-member parliamentary body of traditional leaders appointed by the King's representative, serves as a consultative body to the Parliament<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the chief justice and 3 judges of the High Court); High Court (consists of the chief justice and at least 4 judges and organized into civil, criminal, and land divisions); note - appeals beyond the Cook Islands Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>

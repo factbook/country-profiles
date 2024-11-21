@@ -651,7 +651,7 @@ Army of the Republic of North Macedonia (ARSM or ARNM): joint force with air, gr
 approximately 6,000 active-duty personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is a mix of Soviet-era and increasing amounts of more modern Western-origin equipment from countries such as France, Turkey, and the US (2023)<br>
+the military's inventory is a mix of Soviet-era and increasing amounts of modern equipment from countries such as Turkey, the UK, and the US, with more on order (2024)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; conscription abolished in 2007 (2024)<br>

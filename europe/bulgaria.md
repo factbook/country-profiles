@@ -368,7 +368,7 @@ _chief of mission_: Ambassador Kenneth MERTEN (since 7 April 2023)<br>
 _embassy_: 16, Kozyak Street, Sofia 1408<br>
 _mailing address_: 5740 Sofia Place, Washington, DC&nbsp; 20521-5740<br>
 _telephone_: [359] (2) 937-5100<br>
-_FAX_: [359] (2) 937-5320<br>
+_FAX_: [359] (2) 937-5209<br>
 _email address and website_: <br>acs_sofia@state.gov<br><br>https://bg.usembassy.gov/<br>
 
 **Flag description**<br>

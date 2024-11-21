@@ -202,12 +202,6 @@ _unimproved: urban_: urban: 29.4% of population<br>
 _unimproved: rural_: rural: 76.4% of population<br>
 _unimproved: total_: total: 51.9% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, and sexually transmitted diseases: HIV/AIDS (2024)<br>
-_water contact diseases_: schistosomiasis<br>
-
 **Obesity - adult prevalence rate**<br>
 17.2% (2016)<br>
 
@@ -354,7 +348,7 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <br><em>2019:</em> Hage GEINGOB reelected president in the first round; percent of vote - Hage GEINGOB (SWAPO) 56.3%, Panduleni ITULA (independent) 29.4%, McHenry VENAANI (PDM) 5.3%, other .9% <p><em>2014:</em> Hage GEINGOB elected president in the first round; percent of vote - Hage GEINGOB (SWAPO) 86.7%, McHenry VENAANI (DTA) 5%, Hidipo HAMUTENYA (RDP) 3.4%, Asser MBAI (NUDO)1.9%, Henk MUDGE (RP) 1%, other 2%</p><br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>National Council (42 seats); members indirectly elected 3 each by the 14 regional councils to serve 5-year terms); note - the Council primarily reviews legislation passed and referred by the National Assembly<br>National Assembly (104 seats; 96 members directly elected in multi-seat constituencies by closed list, proportional representation vote to serve 5-year terms and 8 nonvoting members appointed by the president)<br>
+_description_: bicameral Parliament consists of:<br>National Council (42 seats); members indirectly elected 3 each by the 14 regional councils to serve 5-year terms)<br>National Assembly (104 seats; 96 members directly elected in multi-seat constituencies by closed list, proportional representation vote to serve 5-year terms and 8 nonvoting members appointed by the president)<br>
 _elections_: National Council - elections for regional councils to determine members of the National Council held on 25 November 2020 (next to be held on 25 November 2025)<br>National Assembly - last held on 27 November 2019 (next to be held in November 2024)<br>
 _election results_: Nstional Council - percent of vote by party - NA; seats by party - SWAPO 28, LPM 6, IPC 2, PDM 2, UDF 2, NUDO 1, independent 1; composition - men 36, women 6, percentage women 14.3% <br><br>National Assembly - percent of vote by party - SWAPO 65.5%, PDM 16.6%, LPM 4.7%, NUDO 1.9%, APP 1.8%, UDF 1.8%, RP 1.8%, NEFF 1.7%, RDP 1.1%, CDV .7%, SWANU .6%, other 1.8%; seats by party - SWAPO 63, PDM 16, LPM 4, NUDO 2, APP 2, UDF 2, RP 2, NEFF 2, RDP 1, CDV 1, SWANU 1; composition - men 58, women 46, percentage women 44.2%; total Parliament percentage women 35.6%<br>
 

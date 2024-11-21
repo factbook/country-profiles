@@ -307,7 +307,7 @@ mixed legal system of civil law and Islamic (sharia) law (in family and personal
 
 **Constitution**<br>
 _history_: previous 1972 (provisional); latest drafted 2 July 2002, approved by referendum 29 April 2003, endorsed 8 June 2004, effective 9 June 2005<br>
-_amendments_: proposed by the Amir or by one third of Advisory Council members; passage requires two-thirds majority vote of Advisory Council members and approval and promulgation by the emir; articles pertaining to the rule of state and its inheritance, functions of the emir, and citizen rights and liberties cannot be amended<br>
+_amendments_: proposed by the Amir or by one third of Advisory Council members; passage requires two-thirds majority vote of Advisory Council members and approval and promulgation by the emir; articles pertaining to the rule of state and its inheritance, functions of the emir, and citizen rights and liberties cannot be amended; amended by referendum November 2024; note - among the 19 proposed amendments, a major one was replacing direct elections for 30 of the 45 members of the Shura Council with appointments<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -328,7 +328,7 @@ _cabinet_: Council of Ministers appointed by the amir<br>
 _elections/appointments_: the monarchy is hereditary; prime minister appointed by the amir<br>
 
 **Legislative branch**<br>
-_description_: unicameral Advisory Council or Majlis al-Shura (45 seats; 30 members directly elected by popular vote for 4-year re-electable terms; 15 members appointed by the monarch to serve until resignation or until relieved; note - legislative drafting authority rests with the Council of Ministers and is reviewed by the Advisory Council<br>
+_description_: unicameral Advisory Council or Majlis al-Shura (45 seats; members appointed by the monarch to serve until resignation or until relieved; note 1 - legislative drafting authority rests with the Council of Ministers and is reviewed by the Advisory Council; note 2 - a constitutional amendment passed in late 2023, replaced direct elections for 30 of the 45 members of the Shura Council with appointments<br>
 _elections_: last held for 30 elected members on 2 October 2021 (next to be held in 2025); last members appointed - 14 October 2021 (next appointments - NA)<br>
 _election results_: <br>30 nonpartisan members elected; composition - men 30, women 0, percentage women 0%<br>15 appointed members; composition men 13, women 2, percentage women 13.3%<br>
 

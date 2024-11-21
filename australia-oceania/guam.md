@@ -269,9 +269,10 @@ _elections/appointments_: president and vice president indirectly elected on the
 _election results_: <em><br>2022:</em> Lourdes LEON GUERRERO reelected governor; percent of vote - Lourdes LEON GUERRERO (Democratic Party) 55%, Felix CAMACHO (Republican Party) 44%; Josh TENORIO (Democratic Party) elected lieutenant governor<br><br><em>2018:</em> Lourdes LEON GUERRERO elected governor; percent of vote -  Lourdes LEON GUERRERO (Democratic Party) 50.7%, Ray TENORIO (Republican Party) 26.4%; Josh TENORIO (Democratic Party) elected lieutenant governor<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislature of Guam or Liheslaturan Guahan (15 seats; members elected in a single countrywide constituency by simple majority vote to serve 2-year terms)<br>Guam directly elects 1 member by simple majority vote to serve a 2-year term as the delegate to the US House of Representatives; note - the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote<br>
+_description_: unicameral Legislature of Guam or Liheslaturan Guahan (15 seats; members elected in a single countrywide constituency by simple majority vote to serve 2-year terms)<br>
 _elections_: Guam Legislature - last held on 8 November 2022 (next to be held on 5 November 2024)<br>delegate to the US House of Representatives - last held on 8 November 2022 (next to be held on 5 November 2024)<br>
 _election results_: Guam Legislature - percent of vote by party - NA; seats by party - Democratic Party 9, Republican Party 6; composition - men 9, women 6, percent of women 40%<br><br>Guam delegate to the US House of Representatives - Democratic Party 1 (man)<br>
+<strong>note:</strong> Guam directly elects 1 member by simple majority vote to serve a 2-year term as delegate to the US House of Representatives; the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Guam (consists of 3 justices); note - appeals beyond the Supreme Court of Guam are referred to the US Supreme Court<br>

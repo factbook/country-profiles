@@ -349,7 +349,7 @@ _elections/appointments_: the 2004 Afghan constitution directed that the preside
 note: the United States has not yet made a decision whether to recognize the Taliban or any other entity as the government of Afghanistan<br>
 
 **Legislative branch**<br>
-<strong>note:</strong>  before August 2021, Afghanistan had a bicameral National Assembly that consisted of the House of Elders and House of the People; the parliament has been on hiatus since August 2021 and the Taliban has shown no interest in reviving it<br>
+<strong>note:</strong> before August 2021, Afghanistan had a bicameral National Assembly that consisted of the House of Elders and House of the People; the parliament has been on hiatus since August 2021 and the Taliban has shown no interest in reviving it<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the Taliban are purported to have appointed clerics, including a "Chief Justice", to Afghanistan's Supreme Court<br>
@@ -647,14 +647,14 @@ the Taliban claims authority over a Ministry of Defense and a National Army (aka
 the Taliban claims that the defense forces have approximately 150,000 personnel; it also claims that over 50,000 personnel had been trained for the police forces (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Taliban military/security forces are armed largely with US-provided equipment captured from the Afghan National Defense and Security Forces&nbsp; (2023)<br>
+the Taliban military/security forces are armed with weapons and equipment captured in 2021 from the Afghan National Defense and Security Forces, which was largely equipped with Russian/Soviet-era and US material (2024)<br>
 
 **Military service age and obligation**<br>
 service is voluntary; there is no conscription (2023)<br>
 <strong>note: </strong>the Taliban dismissed nearly all women from the former Afghan National Defense and Security Forces, except those serving in detention facilities and assisting with body searches<br>
 
 **Military - note**<br>
-the Taliban&rsquo;s primary security threats include ISIS-Khorasan and anti-Taliban resistance elements&nbsp; (2023)<br>
+the Taliban&rsquo;s security focuses include border security, ISIS-Khorasan, and anti-Taliban resistance elements (2023)<br>
 
 ## Terrorism
 

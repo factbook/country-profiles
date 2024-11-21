@@ -322,7 +322,7 @@ _election results_: <em><br>2019:</em> KIM Jong Un reelected unopposed<br>
 _description_: unicameral Supreme People's Assembly (SPA) or Ch'oego Inmin Hoeui (687 seats; members directly elected by majority vote in 2 rounds if needed to serve 5-year terms)<br>
 _elections_: last held on 10 March 2019 (next to be held in 2024)<br>
 _election results_: percent of vote by party - NA; seats by party - KWP 607, KSDP 50, Chondoist Chongu Party 22, General Association of Korean Residents in Japan (Chongryon) 5, religious associations 3; ruling party approves a list of candidates who are elected without opposition; composition as of February 2024 - men 566, women 121, percentage women 17.6%<br>
-<strong>note: </strong>the SPA functions as a rubberstamp legislature; the Korean Workers' Party selects all candidates<br>
+<strong>note:</strong> the SPA functions as a rubberstamp legislature; the Korean Workers' Party selects all candidates<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Central Court (consists of one judge and 2 "People's Assessors" or, for some cases, 3 judges)<br>

@@ -281,9 +281,10 @@ _elections/appointments_: the monarchy is hereditary; high commissioner appointe
 _election results_: <em><br>2021:</em> Mute B. EGEDE elected premier; Parliament vote - Mute B. EGEDE (Inuit Ataqatigiit) unanimous<br><br><em>2014:</em> Kim KIELSEN elected premier; Parliament vote - Kim KIELSEN (S) 27.2%, Sara OLSVIG (IA) 25.5%, Randi Vestergaard EVALDSEN (D) 19.5%, other 27.8%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament or Inatsisartut (31 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote - by the d'Hondt method - to serve 4-year terms)<br>Greenland elects 2 members to the Danish Parliament to serve 4-year terms<br>
+_description_: unicameral Parliament or Inatsisartut (31 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote - by the d'Hondt method - to serve 4-year terms)<br>
 _elections_: Greenland Parliament - last held on 6 April 2021 (next to be held in 2025)<br>
 _election results_: Greenland Parliament - percent of vote by party - IA 38.7%, S 32.2%, N 12.9%, D 9.7%, A 6.5%; seats by party - IA 12, S 10, N 4, D 3, A 2; composition as of May 2024 - men 20, women 11, percentage women 35%<br><br>Greenland members in Danish Parliament - percent of vote by party - NA; seats by party - IA 1, S 1; composition - 2 women<br>
+<strong>note:</strong> Greenland elects 2 members to the Danish Parliament to serve 4-year terms<br>
 
 **Judicial branch**<br>
 _highest court(s)_: High Court of Greenland (consists of the presiding professional judge and 2 lay assessors); note - appeals beyond the High Court of Greenland can be heard by the Supreme Court (in Copenhagen)<br>
