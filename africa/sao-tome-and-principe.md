@@ -622,7 +622,7 @@ Armed Forces of Sao Tome and Principe (Forcas Armadas de Sao Tome e Principe, FA
 the FASTP has approximately 500 personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FASTP has a limited inventory of mostly older weapons and equipment (2023)<br>
+the FASTP is lightly armed and has a small inventory of mostly older weapons and equipment&nbsp; (2023)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for compulsory military service (reportedly not enforced); 17 is the legal minimum age for voluntary service (2023)<br>

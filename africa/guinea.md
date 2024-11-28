@@ -647,7 +647,7 @@ _key ports_: Benti, Conakry, Kamsar, Victoria<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Guinean (or National) Armed Forces (Forces Armées Guinéennes): Army, Guinean Navy (Armee de Mer or Marine Guineenne), Guinean Air Force (Force Aerienne de Guinee), Presidential Security Battalion (Battailon Autonome de la Sécurité Presidentielle, BASP), National Gendarmerie (2023)<br>
+Guinean (or National) Armed Forces (Forces Armées Guinéennes): Army (Armée de terre), Air Force (Armée de l'air), Navy (Armée de mer), Presidential Security Battalion (Battailon Autonome de la Sécurité Presidentielle, BASP), National Gendarmerie (Gendarmerie Nationale) (2024)<br>
 <strong>note:</strong> the National Gendarmerie is overseen by the Ministry of Defense, while the National Police is under the Ministry of Security; the Gendarmerie and National Police share responsibility for internal security, but only the Gendarmerie can arrest police or military officials<br>
 
 **Military expenditures**<br>
@@ -661,7 +661,7 @@ Guinean (or National) Armed Forces (Forces Armées Guinéennes): Army, Guinean N
 approximately 12,000 active personnel, including about 1,500 Gendarmerie (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Guinean military consists largely of aging and outdated (mostly Soviet-era) equipment; in recent years, it has received small amounts of equipment from China, France, and South Africa (2023)<br>
+the Guinean military's inventory consists almost entirely of Soviet-era weapons and equipment along with small amounts of secondhand material from China, France, Russia, and South Africa&nbsp; (2024)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary and selective conscripted service; 9-12 months of service (2023)<br>

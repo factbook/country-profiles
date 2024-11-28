@@ -686,7 +686,7 @@ approximately 27,000 active personnel (15,000 Army; 1,500 Navy; 1,500 Air Force;
 the military's inventory includes a mix of older, secondhand, and more modern equipment from a variety of countries, including France, South Africa, and Russia/former Soviet Union; in recent years, the military has undertaken a modernization program and has received newer equipment from more than 10 countries, including France and the US (2024)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service for men and women; 20 years of age for selective compulsory service for men and possibly women; 24-month service obligation (2023)<br>
+19 years of age for voluntary military service for men and women (18 years of age for cadets); 24-month service commitment (2024)<br>
 
 **Military deployments**<br>
 200 Central African Republic (MINUSCA; plus about 525 police); 800 (ECOWAS Military Intervention in The Gambia--ECOMIG); 500 (ECOWAS Stabilization Support Mission in Guinea-Bissau--EESMGB); 450 police Democratic Republic of the Congo (MONUSCO) (2024)<br>

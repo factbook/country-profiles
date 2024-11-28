@@ -644,7 +644,7 @@ Madagascar People's Armed Forces (PAF): Army, Navy, Air Force; National Gendarme
 estimated 13,000 personnel (12,000 Army; 500 Navy; 500 Air Force); estimated 10,000 Gendarmerie (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the PAF's inventory consists of a mix of older or secondhand weapons from several suppliers, such as France, Japan, South Africa, the UAE, the UK, the US, and the former Soviet Union (2023)<br>
+the PAF's inventory consists mostly of older or secondhand weapons and equipment originating from countries such as France, South Africa, the UAE, the UK, and the former Soviet Union&nbsp; (2024)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for men and women; service obligation 18 months; no conscription; women are permitted to serve in all branches (2023)<br>

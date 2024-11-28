@@ -688,7 +688,7 @@ approximately 35,000 active-duty personnel (25,000 Army; 5,000 Navy; 5,000 Air F
 the Tunisian military's inventory consists mostly of older or second-hand equipment from a wide variety of suppliers, including Brazil, China, Turkey, and the US, as well as several European countries, such as France, Germany, and Italy (2024)<br>
 
 **Military service age and obligation**<br>
-20-23 years of age for compulsory service for men with a 12-month service obligation; individuals engaged in higher education or vocational training programs prior to their military drafting are allowed to delay service until they have completed their programs (up to age 35); exemptions allowed for males considered to a family's sole provider; 18-23 years of age for voluntary service for men and women (2023)<br>
+18-23 years of age for voluntary service for men and women; 20-23 years of age for compulsory service for men with a 12-month service obligation; individuals engaged in higher education or vocational training programs prior to their military drafting are allowed to delay service until they have completed their programs (up to age 35); exemptions allowed for males considered to a family's sole provider;  (2023)<br>
 <strong>note:</strong> women have been allowed in the service since 1975 as volunteers; as of 2023, women constituted about 8% of the military and served in all three services<br>
 
 **Military deployments**<br>

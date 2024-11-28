@@ -318,7 +318,7 @@ _election results_: <em><br>2022:</em> HASSAN SHEIKH Mohamud elected president i
 
 **Legislative branch**<br>
 _description_: bicameral Federal Parliament to consist of:<br>Senate (54 seats; senators indirectly elected by state assemblies to serve 4-year terms)<br>House of the People (275 seats; members indirectly elected by electoral colleges, each consisting of 51 delegates selected by the 136 Traditional Elders in consultation with sub-clan elders; members serve 4-year terms)<br>
-_elections_: Senate - first held on 10 October 2016; last held 27 July - 13 November 2021 (next to be held in 2024)<br>House of the People - first held 23 October - 10 November 2016 (next scheduled for September - October 2021 but postponed to November 2021 and then extended several times until April 2022; next to be held in June 2024)<br>
+_elections_: Senate - last held 27 July - 13 November 2021 (next to be held in July 2026)<br>House of the People - last held 1 November 2021 - 05 May 2022 (next to be held in October 2026)<br>
 _election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 40, women 14, percentage women 25.9%<br><br>House of the People - percent of vote by party - NA; seats by party - NA; composition - men 221, women 54, percentage women 19.6%; total Federal Parliament percentage women 20.7%<br>
 <strong>note:</strong> despite the formation of political parties in 2020, the 2021 parliamentary elections maintained a primarily clan-based system of appointments; seats in the legislature were apportioned to Somali member states and not by party representation <br><br><br><br><br><br>
 

@@ -684,7 +684,7 @@ estimates vary; approximately 30,000 troops, including active National Guard for
 <strong>note: </strong>in December 2020, the Parliament of Georgia adopted a resolution determining that the Georgian Defense Forces would have a maximum peacetime strength of 37,000 troops<br>
 
 **Military equipment inventories and acquisitions**<br>
-the majority of the military's inventory consists of Soviet-era weapons and equipment, although in recent years it has received armaments from a number of European countries, as well as the US (2023)<br>
+the majority of the military's inventory consists of Soviet-era weapons and equipment, some of which has been upgraded; it has smaller quantities of mostly secondhand material from such countries as Israel, Turkey, and the US, as well as some domestically produced equipment; Georgia has a small defense industry which produces such items as small arms and light armored vehicles (2024)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for voluntary military service for men and women; conscription was abolished in 2016, but reinstated in 2017 for men 18-27 years of age; conscript service obligation is 12 months (2024)<br>

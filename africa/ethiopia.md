@@ -694,7 +694,7 @@ Ethiopian National Defense Force (ENDF): Ground Forces (Army), Ethiopian Air For
 information varies; prior to the 2020-2022 Tigray conflict, approximately 150,000 active-duty troops (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the ENDF's inventory has traditionally been comprised mostly of Russian and Soviet-era equipment; it suffered considerable equipment losses during the 2020-2022 Tigray conflict; in recent years, Ethiopia has diversified its arms sources to include weapons from China, Israel, Turkey, Ukraine, and the UAE; Ethiopia has a modest industrial defense base centered on small arms and production of armored vehicles&nbsp; (2024)<br>
+the ENDF's major weapons and equipment inventory has traditionally been comprised of Russian, Soviet, and Eastern bloc material; it suffered considerable equipment losses during the 2020-2022 Tigray conflict; in more recent years, Ethiopia has diversified its arms sources to include weapons from China, Israel, Turkey, Ukraine, and the UAE; Ethiopia has a modest industrial defense base centered on small arms and production of armored vehicles under license (2024)<br>
 
 **Military service age and obligation**<br>
 18-22 years of age for voluntary military service (although the military may, when necessary, recruit a person more than 22 years old); no compulsory military service, but the military can conduct callups when necessary and compliance is compulsory (2023)<br>

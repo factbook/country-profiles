@@ -644,7 +644,7 @@ the Army's inventory includes a mix of mostly older equipment largely of British
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; no conscription (2023)<br>
-<strong>note:</strong> as of 2022, women comprised about 7% of the active duty military<br>
+<strong>note:</strong> as of 2023, about 7,000 women served in the Nepalese Armed Forces<br>
 
 **Military deployments**<br>
 1240 Central African Republic (MINUSCA); 1,150 Democratic Republic of the Congo (MONUSCO); 400 Golan Heights (UNDOF); 875 Lebanon (UNIFIL); 225 Liberia (UNSMIL); 100 South Sudan/Sudan (UNISFA); 1,725 (plus about 220 police) South Sudan (UNMISS); note - Nepal has over 6,000 total personnel deployed on 15 UN missions (2024)<br>

@@ -304,8 +304,7 @@ presidential republic<br>
 **Capital**<br>
 _name_: Asunci&oacute;n<br>
 _geographic coordinates_: 25 16 S, 57 40 W<br>
-_time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_daylight saving time_: +1hr, begins first Sunday in October; ends last Sunday in March<br>
+_time difference_: UTC-3 (2 hour ahead of Washington, DC, during Standard Time)<br>
 _etymology_: the name means "assumption" and derives from the original name given to the city at its founding in 1537, Nuestra Senora Santa Maria de la Asuncion (Our Lady Saint Mary of the Assumption)<br>
 
 **Administrative divisions**<br>

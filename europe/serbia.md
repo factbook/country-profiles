@@ -198,10 +198,6 @@ _unimproved: urban_: urban: 0.4% of population<br>
 _unimproved: rural_: rural: 4.3% of population<br>
 _unimproved: total_: total: 2.1% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: intermediate (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-
 **Obesity - adult prevalence rate**<br>
 21.5% (2016)<br>
 

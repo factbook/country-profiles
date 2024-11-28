@@ -620,7 +620,7 @@ People's Revolutionary Armed Force (Forcas Armadas Revolucionarias do Povo or FA
 approximately 4,000 active troops, including a few hundred air and naval personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FARP is outfitted mostly with Soviet-era equipment (2023)<br>
+the FARP is outfitted mostly with Soviet-era weapons and equipment, along with a handful of secondhand items from France and Spain (2024)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for selective compulsory military service for men and women (Air Force service is voluntary); 16 years of age or younger, with parental consent, for voluntary service (2023)<br>

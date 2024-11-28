@@ -344,7 +344,6 @@ _election results_: NA<br>
 
 **Legislative branch**<br>
 _elections_: Council of State - last held 1 June 2015; dissolved in April 2019<br>National Assembly - last held on 13-15 April 2015; dissolved in April 2019<br>
-_election results_: Council of State - percent of vote by party - NA; seats by party - NA; composition - men 35, women 19, percentage women 35.2%<br><br>National Assembly - percent of vote by party - NA; former seats by party - NCP 323, DUP 25, Democratic Unionist Party 15, other 44, independent 19; composition - men 296 women 130, percentage women 30.5%; total National Legislature percentage women 31%<br>
 <strong>note:</strong>  the Parliament of Sudan was dissolved after a coup in April 2019; the August 2019 Constitutional Declaration established Sudan's transitional government; a Transitional Legislative Council (TLC) was to have served as the national legislature during the transitional period until elections could be held, but the TLC has not been created<br>
 
 **Judicial branch**<br>

@@ -624,7 +624,7 @@ Umbutfo Eswatini Defense Force (UEDF): Army (includes a small air wing); the Roy
 approximately 3,000 active-duty personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the UEDF has a light and small inventory of mostly older equipment originating from Europe, South Africa, and the US (2023)<br>
+the UEDF has a light and small inventory of mostly older equipment originating from Europe, South Africa, and the US (2024)<br>
 
 **Military service age and obligation**<br>
 18-35 years of age for voluntary military service for men and women; no conscription (2023)<br>

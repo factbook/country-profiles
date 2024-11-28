@@ -201,14 +201,6 @@ _unimproved: urban_: urban: 46.6% of population<br>
 _unimproved: rural_: rural: 79.5% of population<br>
 _unimproved: total_: total: 64.5% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and trypanosomiasis-gambiense (African sleeping sickness)<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-<strong>note:</strong> on 31 August 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Democratic Republic of the Congo is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Obesity - adult prevalence rate**<br>
 6.7% (2016)<br>
 
@@ -715,7 +707,7 @@ estimates vary; up to 140,000 active troops, including approximately 10,000 Repu
 the FARDC is equipped mostly with Soviet-era and older French weapons and equipment; in 2024, the DRC signed an agreement with China for the provision of military equipment (2024)<br>
 
 **Military service age and obligation**<br>
-18-45 years of age for voluntary military service for men and women; 18-45 years of age for compulsory military service for men; it is unclear how much conscription is used (2023)<br>
+18-35 years of age for voluntary military service for men and women; 18-45 years of age for compulsory military service for men; it is unclear how much conscription is used (2024)<br>
 <strong>note: </strong>in eastern Congo, fighters from armed groups, including some associated with government security forces, have been accused of forced recruitment of child soldiers<br>
 
 **Military - note**<br>

@@ -664,7 +664,7 @@ Malawi Defense Force (MDF): Land Forces (Army), Maritime Force, Air Force, Natio
 estimated 10,000 active military personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the MDF's inventory is comprised of mostly obsolescent or secondhand equipment originating from such countries as France, South Africa, and the UK&nbsp; (2023)<br>
+the MDF's inventory is a mix of mostly older or secondhand equipment originating from such countries as France, South Africa, and the UK&nbsp; (2024)<br>
 
 **Military service age and obligation**<br>
 18-30years of age for men and women for voluntary military service; high school equivalent required for enlisted recruits and college equivalent for officer recruits; initial engagement is 7 years for enlisted personnel and 10 years for officers (2023)<br>

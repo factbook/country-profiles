@@ -207,11 +207,6 @@ _unimproved: urban_: urban: 4.8% of population<br>
 _unimproved: rural_: rural: 27.7% of population<br>
 _unimproved: total_: total: 10.6% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: intermediate (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: Crimean-Congo hemorrhagic fever, tickborne encephalitis<br>
-
 **Obesity - adult prevalence rate**<br>
 23.1% (2016)<br>
 
@@ -742,7 +737,8 @@ Armed Forces of the Russian Federation: Ground Troops (Sukhoputnyye Voyskia, SV)
 3.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 1.1-1.3 million Armed Forces personnel; estimated 350,000-plus Federal National Guard Troops (2024)<br>
+approximately 1.3 million Armed Forces personnel; estimated 350,000-plus Federal National Guard Troops (2024)<br>
+<strong>note:</strong> in September 2024, President PUTIN ordered the Russian military to increase in size to 1.5 million personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Russian Federation's military and paramilitary services are equipped with domestically produced weapons systems, although in recent years Russia has imported considerable amounts of military hardware from external suppliers such as Iran and North Korea; the Russian defense industry is capable of designing, developing, and producing a full range of advanced air, land, missile, and naval systems; Russia is the world's second largest exporter of military hardware (2024)<br>

@@ -491,7 +491,7 @@ approximately 20 million active-duty military personnel worldwide (2023)<br>
 the US is the world's leading arms exporter (2023)<br>
 
 **Military deployments**<br>
-as of January 2024, there were approximately 65,000 personnel deployed on UN peacekeeping missions worldwide (2024)<br>
+as of August 2024, there were approximately 68,000 personnel deployed on UN peacekeeping missions worldwide (2024)<br>
 
 ## Space
 

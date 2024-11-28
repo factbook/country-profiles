@@ -357,7 +357,7 @@ _election results_: <em><br>2018:</em> Paul BIYA reelected president; percent of
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (100 seats; 70 members indirectly elected by regional councils and 30 appointed by the president; members serve 5-year terms)<br>National Assembly or Assemblee Nationale (180 seats; members directly elected in 49 single and multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: Senate - last held on 12 March 2023 (next to be held in 2028)<br>National Assembly - last held on 9 February 2020 (next to be held 28 February 2025)<br>
-_election results_: Senate - percent of vote by party - CDPM 100%; seats by party - CDPM 100; composition - men 69, women 31, percentage women 31%<br><br>National Assembly - percent of vote by party - NA; seats by party - CPDM 152, UNDP 7, SDF 5, PCRN 5, UDC 4, FSNC 3, MDR 2, UMS 2; composition - men 119, women 61, percentage women 33.9%; total Parliament percentage women 51.1%<br><br><strong>note:</strong> 13 National Assembly seats were vacant after the 9 February 2020 election due to violence in northwest and southwest regions; CDPM won those seats in a 22 March 2020 election<br>
+_election results_: Senate - percent of vote by party - CDPM 100%; seats by party - CDPM 100; composition - men 69, women 31, percentage women 31%<br><br>National Assembly - percent of vote by party - NA; seats by party - CPDM 152, UNDP 7, SDF 5, PCRN 5, UDC 4, FSNC 3, MDR 2, UMS 2; composition - men 119, women 61, percentage women 33.9%; total Parliament percentage women 51.1%; note <strong>- </strong>13 National Assembly seats were vacant after the 9 February 2020 election due to violence in northwest and southwest regions; CDPM won those seats in a 22 March 2020 election<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Cameroon (consists of 9 titular and 6 surrogate judges and organized into judicial, administrative, and audit chambers); Constitutional Council (consists of 11 members)<br>
@@ -708,7 +708,7 @@ information varies; approximately 45-50,000 active-duty troops (30-35,000 ground
 the FAC inventory is comprised of weapons and equipment from a variety of countries, including China, Israel, Russia/former Soviet Union, South Africa, the US, and some Western European countries, particularly France (2024)<br>
 
 **Military service age and obligation**<br>
-18-23 years of age for voluntary military service for men and women; no conscription; high school graduation required; service obligation 4 years (2023)<br>
+18-24 years of age for voluntary military service for men and women; no conscription; high school graduation required; service obligation 4 years (2024)<br>
 
 **Military deployments**<br>
 750 (plus about 350 police) Central African Republic (MINUSCA) (2024)<br>

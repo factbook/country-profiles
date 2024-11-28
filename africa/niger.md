@@ -675,7 +675,7 @@ information varies; estimated 30-35,000 active FAN troops; estimated 5-10,000 pa
 <strong>note: </strong>in 2020, the Nigerien Government announced it intended to increase the size of the FAN to 50,000 by 2025 and 100,000 by 2030<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAN's inventory consists of a wide variety of older weapons, including French, Russian, and Soviet era; in recent years, it has received small amounts of mostly secondhand equipment from several countries, including China, Egypt, and the US (2023)<br>
+the FAN has a wide mix of mostly older, typically Soviet-era, or donated/secondhand weapons and equipment, along with small quantities of more modern items such as unmanned aerial vehicles/drones and air defense systems; suppliers have included China, Egypt, France, Italy, Russia, Turkey, and the US&nbsp; (2024)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for selective compulsory or voluntary military service for unmarried men and women; 24-month service term (2023)<br>

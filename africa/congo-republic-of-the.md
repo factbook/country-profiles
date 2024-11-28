@@ -680,7 +680,7 @@ approximately 14,000 active-duty troops (including about 4,000 Gendarmerie) (202
 the FAC has mostly Soviet-era armaments, with a small mix of Chinese, French, and South African equipment (2024)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service for men and women; conscription ended in 1969 (2022)<br>
+18-25 years of age for voluntary military service for men and women; conscription ended in 1969 (2024)<br>
 
 **Military deployments**<br>
 has about 190 mostly police personnel deployed to the Central African Republic (MINUSCA) (2024)<br>

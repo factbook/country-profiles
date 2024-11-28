@@ -600,8 +600,8 @@ _key ports_: Dzaoudzi, Fomboni, Moroni, Moutsamoudu<br>
 ## Military and Security
 
 **Military and security forces**<br>
-National Army for Development (l'Armee Nationale de Developpement, AND): Comoran Defense Force (Force Comorienne de Defense or FCD; includes Comoran National Gendarmerie); Ministry of Interior: Coast Guard, Federal Police, National Directorate of Territorial Safety (2024)<br>
-<strong>note 1: </strong>when the Gendarmerie serves as the judicial police, it reports to the Minister of Justice; the Gendarmerie also has an intervention platoon that may act under the authority of the interior minister<br><br><strong>note 2:</strong> the National Directorate of Territorial Safety oversees customs and immigration<br><br><strong>note 3:</strong> the FCD is also known as the Comoran Security Force<br>
+National Army for Development (l'Armee Nationale de Developpement, AND): Comoran Defense Force (Force Comorienne de Defense or FCD; includes Comoran National Gendarmerie); Ministry of Interior: Coast Guard, Federal Police, National Directorate of Territorial Safety (customs and immigration) (2024)<br>
+<strong>note 1: </strong>when the Gendarmerie serves as the judicial police, it reports to the Minister of Justice; the Gendarmerie also has an intervention platoon that may act under the authority of the Interior Minister<br><br><strong>note 2:</strong> the FCD is also known as the Comoran Security Force<br>
 
 **Military and security service personnel strengths**<br>
 estimated 600 Defense Force personnel; estimated 500 Federal Police (2023)<br>
@@ -610,7 +610,7 @@ estimated 600 Defense Force personnel; estimated 500 Federal Police (2023)<br>
 the AND is lightly armed and equipped with small arms and a few light aircraft (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age for 2-year voluntary military service for men and women; no conscription (2021)<br>
+18-25 years of age for 2-year voluntary military service for men and women; no conscription (2021)<br>
 
 **Military - note**<br>
 the focus for the security forces is search and rescue operations and maintaining internal security; a defense treaty with France provides naval resources for the protection of territorial waters, training of Comoran military personnel, and air surveillance; France maintains a small maritime base and a Foreign Legion contingent on neighboring Mayotte (2024)<br>
