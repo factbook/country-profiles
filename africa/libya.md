@@ -323,8 +323,8 @@ _residency requirement for naturalization_: varies from 3 to 5 years<br>
 18 years of age, universal<br>
 
 **Executive branch**<br>
-_chief of state_: President, Presidential Council, Mohammed Al MENFI (since 5 February 2021)<br>
-_head of government_: GNU Interim Prime Minister Abdul Hamid DUBAYBAH (since 5 February 2021)<br>
+_chief of state_: President, Presidential Council, Mohammed al-MANFI (since 5 February 2021)<br>
+_head of government_: GNU Interim Prime Minister Abd-al-Hamid DUBAYBAH (since 5 February 2021)<br>
 _elections/appointments_: <p>Libya’s first direct presidential election, scheduled for 24 December 2021, was not held; no new date has been set for elections</p><br>
 
 **Legislative branch**<br>

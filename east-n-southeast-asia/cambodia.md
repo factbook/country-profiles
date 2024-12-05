@@ -654,7 +654,7 @@ _key ports_: Kampong Saom, Phsar Ream<br>
 
 **Military and security forces**<br>
 Royal Cambodian Armed Forces (RCAF): Royal Cambodian Army, Royal Khmer Navy, Royal Cambodian Air Force, Royal Gendarmerie; the National Committee for Maritime Security (2024)<br>
-<strong>note 1:</strong> the National Committe for Maritime Security performs coast guard functions and has representation from military and civilian agencies<br><br><strong>note 2:</strong> the Cambodian National Police are under the Ministry of Interior<br>
+<strong>note 1:</strong> the National Committee for Maritime Security performs coast guard functions and has representation from military and civilian agencies<br><br><strong>note 2:</strong> the Cambodian National Police are under the Ministry of Interior<br>
 
 **Military expenditures**<br>
 2.1% of GDP (2022 est.)<br>
@@ -664,7 +664,7 @@ Royal Cambodian Armed Forces (RCAF): Royal Cambodian Army, Royal Khmer Navy, Roy
 2.2% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 100,000 total active troops including less than 5,000 Navy and Air Force personnel; approximately 10,000 Gendarmerie (2023)<br>
+information varies; estimated 150-200,000 Armed Forces personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the RCAF is armed largely with older Chinese and Russian-origin equipment; in recent years it has received limited amounts of more modern equipment from several suppliers, particularly China (2024)<br>

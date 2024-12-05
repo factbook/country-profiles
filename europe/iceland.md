@@ -331,8 +331,8 @@ _election results_: <em><br>2024:</em> percent of vote - Halla TOMASDOTTIR (inde
 
 **Legislative branch**<br>
 _description_: unicameral Althingi or Parliament (63 seats; members directly elected in multi-seat constituencies by closed-list proportional representation vote using the D'Hondt method; members serve 4-year terms)<br>
-_elections_: last held on 25 September 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party - IP 24.4%, PP 17.3%, LGM 12.6%, People's Party 8.9%, Pirate Party 8.6%, SDA 9.9%, Reform Party 8.3%, CP 5.5%; seats by party - IP 16, PP 13, LGM 8, People's Party 6, Pirate Party 6, SDA 6, Reform Party 5, CP 3; composition - men 33, women 30; percentage women 47.6%<br>
+_elections_: last held on 30 November 2024 (next to be held by 30 November 2028)<br>
+_election results_: seats by party - SDA 15, IP 14, Reform Party 11, People's Party 10, CP 8, PP 5; composition - men 33, women 30; percentage women 47.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Haestirettur (consists of 7 judges)<br>

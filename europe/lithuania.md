@@ -330,8 +330,8 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Gitanas NAUSEDA (since 12 July 2019)<br>
 _head of government_: Prime Minister Ingrida SIMONYTE (since 24 November 2020)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, appointed by the president, approved by Parliament<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); first round of the election held on 12 May 204 (runoff to be held on 12 May 2024); prime minister appointed by the president, approved by Parliament<br>
-_election results_: <em><br>2024: </em>Gitanas NAUSEDA elected president in the second round; percent of vote -Gitanas NAUSEDA (independent) 74.6%, Ingrida SIMONYTE (independent) 24.4%<br><em><br>2019:</em> Gitanas NAUSEDA elected president in second round; percent of vote - Gitanas NAUSEDA (independent) 66.7%, Ingrida SIMONYTE (independent) 33.3%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); first round held on 12 May 2024 (runoff held on 12 May 2024); prime minister appointed by the president, approved by Parliament<br>
+_election results_: <em><br>2024: </em>Gitanas NAUSEDA elected president in second round; percent of vote -Gitanas NAUSEDA (independent) 75.6%, Ingrida SIMONYTE (TS-LKD) 24.4%<br><em><br>2019:</em> Gitanas NAUSEDA elected president in second round; percent of vote - Gitanas NAUSEDA (independent) 66.7%, Ingrida SIMONYTE (independent) 33.3%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Seimas (141 seats; 71 members directly elected in single-seat constituencies by absolute majority vote and 70 directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>

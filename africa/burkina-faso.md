@@ -387,8 +387,8 @@ _lyrics/music_: Thomas SANKARA<br>
 <strong>note:</strong> adopted 1974; also known as "Une Seule Nuit" (One Single Night); written by the country's former president, an avid guitar player<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 3 (2 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Ruins of Lorop&eacute;ni (c); Ancient Ferrous Metallurgy Sites (c); W-Arly-Pendjari Complex (n)<br>
+_total World Heritage Sites_: 4 (3 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: <p>Ruins of Loropéni (c); Ancient Ferrous Metallurgy Sites of Burkina Faso (c); W-Arly-Pendjari Complex (n); Royal Court of Tiébélé (c)</p><br>
 
 ## Economy
 
@@ -651,14 +651,14 @@ Armed Forces of Burkina Faso (FABF; aka National Armed Forces (FAN), aka Defense
 2.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 15,500 personnel (10,000 Army; 500 Air Force; 5,000 National Gendarmerie) (2023)<br>
-<strong>note: </strong>in 2022, government authorities announced a special recruitment for up to 6,000 additional soldiers and 1,500 gendarmes to assist with its fight against terrorist groups operating in the country; the government also put out a recruitment call for up to 100,000 VDP volunteers, and as of 2023 claimed about 50,000 had volunteered (the VDP's original recruited strength was 15,000)<br><strong><br><br></strong><br>
+approximately 15-20,000 Armed Forces personnel; approximately 50,000 Homeland Defense Volunteers (2024)<br>
+<br><strong><br><br></strong><br>
 
 **Military equipment inventories and acquisitions**<br>
 the FABF has a mix of older, secondhand, and some modern equipment from a variety of suppliers, including China, Egypt, France, Russia, South Africa, Turkey, the UK, and the US (2024)<br>
 
 **Military service age and obligation**<br>
-18-26 years of age for voluntary military service for men and women (2023)<br>
+18-26 years of age for voluntary military service for men and women; citizens 18-77 years of age are eligible to volunteer for the VDP (2023)<br>
 <strong>note:</strong> the military government implemented an emergency law in 2023 that allows the president extensive powers to combat terrorist groups operating in the country, including conscripting citizens into the security services<br>
 
 **Military - note**<br>

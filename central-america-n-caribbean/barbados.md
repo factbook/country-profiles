@@ -305,7 +305,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Sandra MASON (since 30 November 2021)<br>
 _head of government_: Prime Minister Mia MOTTLEY (since 25 May 2018)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister<br>
-_elections/appointments_: president elected by an electoral college of both Houses of Parliament for a 4-year renewable term; election last held on 20 October 2021 (next to be held in); following legislative elections, the leader of the majority party or leader of the majority coalition usually appointed prime minister by the president; the prime minister recommends the deputy prime minister<br>
+_elections/appointments_: president elected by an electoral college of both Houses of Parliament for a 4-year renewable term; election last held on 20 October 2021 (next to be held by January 2027); following legislative elections, the leader of the majority party or leader of the majority coalition usually appointed prime minister by the president; the prime minister recommends the deputy prime minister<br>
 _election results_: Sandra MASON elected as first president on 20 October 2021<br>
 
 **Legislative branch**<br>
@@ -605,7 +605,7 @@ _key ports_: Bridgetown<br>
 
 **Military and security forces**<br>
 Barbados Defense Force (BDF): The Barbados Regiment, The Barbados Coast Guard (2024)<br>
-<strong>note 1: </strong>the BDF also has a Youth Development Wing, which is comprised of the Barbados Cadet Corps and the Barbados Defense Force Sports Program<br><br><strong>note 2:</strong> authority over the BDF is shared between the president and prime minister, with the president overseeing strategic direction and the prime minister responsible for operational leadership<br><br><strong>note 3: </strong>the Barbados Police Service (TBPS) is the national police force; it is modeled after London's Metropolitan Police Service and divided into three territorial divisions<br>
+<strong>note 1: </strong>the BDF also has a Youth Development Wing, which is comprised of the Barbados Cadet Corps and the Barbados Defense Force Sports Program; the Barbados Cadet Corps is a national youth organization based in the country's school system and open to all school children 11-18 years of age <br><br><strong>note 2:</strong> authority over the BDF is shared between the president and prime minister, with the president overseeing strategic direction and the prime minister responsible for operational leadership<br><br><strong>note 3: </strong>the Barbados Police Service (TBPS) is the national police force; it is modeled after London's Metropolitan Police Service and divided into three territorial divisions<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2023 est.)<br>
@@ -618,7 +618,7 @@ Barbados Defense Force (BDF): The Barbados Regiment, The Barbados Coast Guard (2
 approximately 600 active personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Netherlands provide the BDF's major equipment inventory (maritime patrol boats) (2024)<br>
+the BDF's major equipment inventory is comprised mostly of donated items from China, the Netherlands, and the US&nbsp; (2024)<br>
 
 **Military service age and obligation**<br>
 voluntary service only (men and women); 17 years, 9 months to 17 years, 11 months with letter of consent from a parent or guardian, or be in the age range of 18-25 years (18-30 for the Reserves) at the start of recruit training; citizens of Barbados by descent or naturalization (2024)<br>

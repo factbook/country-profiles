@@ -679,7 +679,7 @@ Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Gue
 1.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 100,000 active troops (mostly Army; 5-6,000 Air Force and Navy) (2023)<br>
+approximately 100,000 active troops (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 most Angolan military weapons and equipment are of Russian or Soviet-era origin; there are smaller quantities of items originating from such suppliers as China, Brazil, and South Africa (2024)<br>

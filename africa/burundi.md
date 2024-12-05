@@ -630,7 +630,7 @@ Burundi National Defense Force (BNDF; Force de Defense Nationale du Burundi or F
 3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 25-30,000 active-duty troops, the majority of which are ground forces (2023)<br>
+approximately 30,000 active-duty troops (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military has a mix of mostly older weapons and equipment typically of French, Russian, and Soviet origin, and a smaller selection of more modern secondhand equipment from such countries as China, South Africa, and the US (2024)<br>

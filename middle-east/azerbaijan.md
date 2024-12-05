@@ -664,7 +664,7 @@ Azerbaijan Armed Forces: Land Forces, Air Forces, Navy Forces, State Border Serv
 3.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimates vary; approximately 60-75,000 active armed forces; approximately 15,000 Ministry of Internal Affairs troops (2023)<br>
+information varies; estimated 100,000 active armed forces (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 Baku has been actively upgrading its equipment for over a decade with purchases from Belarus, Israel, Russia, and Turkey; while most of the military's equipment was once Soviet-era material, it now fields quantities of advanced equipment, including armored vehicles, artillery systems, air defense systems, tanks, and UAVs (2024)<br>

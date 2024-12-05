@@ -385,8 +385,8 @@ _lyrics/music_: Gilbert Jean DAGNON<br>
 <strong>note:</strong> adopted 1960<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Royal Palaces of Abomey (c); W-Arly-Pendjari Complex (n)<br>
+_total World Heritage Sites_: 3 (2 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Royal Palaces of Abomey (c); W-Arly-Pendjari Complex (n); Koutammakou, the Land of the Batammariba (c)<br>
 
 ## Economy
 

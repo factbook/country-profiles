@@ -341,11 +341,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Acting President Nangolo MBUMBA (since 4 February 2024)&nbsp;<br>
+_chief of state_: Acting President Nangolo MBUMBA (since 4 February 2024)<br>
 _head of government_: Acting President Nangolo MBUMBA (since 4 February 2024)<br>
 _cabinet_: Cabinet appointed by the president from among members of the National Assembly<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 November 2019 (next to be held in November 2024) note - the president is both chief of state and head of government; note- President Hage GEINGOB died on 4 February 2024, and Vice President MBUMBA was sworn in to run the government until the next presidential election in November 2024<br>
-_election results_: <br><em>2019:</em> Hage GEINGOB reelected president in the first round; percent of vote - Hage GEINGOB (SWAPO) 56.3%, Panduleni ITULA (independent) 29.4%, McHenry VENAANI (PDM) 5.3%, other .9% <p><em>2014:</em> Hage GEINGOB elected president in the first round; percent of vote - Hage GEINGOB (SWAPO) 86.7%, McHenry VENAANI (DTA) 5%, Hidipo HAMUTENYA (RDP) 3.4%, Asser MBAI (NUDO)1.9%, Henk MUDGE (RP) 1%, other 2%</p><br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 27 November 2024 (next to be held in November 2029) note - the president is both chief of state and head of government; note- President Hage GEINGOB died on 4 February 2024, and Vice President MBUMBA was sworn in to run the government until the next presidential election in November 2024<br>
+_election results_: <em>2024:</em> Netumbo Nandi-NDAITWAH elected president in the first round; percent of vote -Netumbo Nandi-NDAITWAH (SWAPO) 57%, Panduleni  ITULA (IPC) 26%, McHenry VENAANI (PDM) 5.10%, Bernadus SWARTBOOI (LPM) 4.72%, Job AMUPANDA (AR) 1.80%, Hendrik GAOBEAB (UDF) 1.16%; other 3.31%<br><br><em>2019:</em> Hage GEINGOB reelected president in the first round; percent of vote - Hage GEINGOB (SWAPO) 56.3%, Panduleni ITULA (independent) 29.4%, McHenry VENAANI (PDM) 5.3%, other .9% <p> </p><br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>National Council (42 seats); members indirectly elected 3 each by the 14 regional councils to serve 5-year terms)<br>National Assembly (104 seats; 96 members directly elected in multi-seat constituencies by closed list, proportional representation vote to serve 5-year terms and 8 nonvoting members appointed by the president)<br>

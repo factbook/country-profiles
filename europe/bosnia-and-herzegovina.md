@@ -323,7 +323,7 @@ _residency requirement for naturalization_: 8 years<br>
 18 years of age, 16 if employed; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Chairperson of the Presidency Denis BECIROVIC (chairperson since 16 March 2024; presidency member since 16 November 2022 - Bosniak seat); Zeljka CVIJANOVIC (presidency member since 16 November 2022 - Serb seat); Zeljko KOMSIC (presidency member since 20 November 2018 - Croat seat)<br>
+_chief of state_: Chairperson of the Presidency Zeljka CVIJANOVIC (chairperson since 16 November 2024; presidency member since 16 November 2022 - Serb seat); Denis BECIROVIC (presidency member since 16 November 2022 - Bosniak seat); Zeljko KOMSIC (presidency member since 20 November 2018 - Croat seat)<br>
 _head of government_: Chairperson of the Council of Ministers Borjana KRISTO (since 25 January 2023)<br>
 _cabinet_: Council of Ministers nominated by the council chairperson, approved by the state-level House of Representatives<br>
 _elections/appointments_: 3-member presidency (1 Bosniak and 1 Croat elected from the Federation of Bosnia and Herzegovina and 1 Serb elected from the Republika Srpska) directly elected by simple majority popular vote for a 4-year term (eligible for a second term but then ineligible for 4 years); the presidency chairpersonship rotates every 8 months with the new member of the presidency elected with the highest number of votes starting the new mandate as chair; election last held on 2 October 2022 (next to be held in October 2026); the chairperson of the Council of Ministers appointed by the presidency and confirmed by the state-level House of Representatives<br>
@@ -377,8 +377,8 @@ _lyrics/music_: none officially/Dusan SESTIC<br>
 <strong>note:</strong> music adopted 1999; lyrics proposed in 2008 and others in 2016 were not approved<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 4 (3 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Old Bridge Area of Mostar (c); Mehmed Paša Sokolović Bridge (c); Stećci Medieval Tombstones Graveyards (c); Primeval Beech Forests - Janj Forest (n)<br>
+_total World Heritage Sites_: 5 (3 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Old Bridge Area of Mostar (c); Mehmed Paša Sokolović Bridge in Višegrad (c); Stećci Medieval Tombstones Graveyards (c);Ancient and  Primeval Beech Forests of the Carpathians and Other Regions of Europe- Janj Forest (n); Vjetrenica Cave, Ravno (n)<br>
 
 ## Economy
 
@@ -661,7 +661,7 @@ Armed Forces of Bosnia and Herzegovina (AFBiH or Oruzanih Snaga Bosne i Hercegov
 0.8% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 10,000 active-duty personnel (2023)<br>
+approximately 10,000 active-duty personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory of weapons and equipment is a combination of material originating from the former Soviet Union/former Yugoslavia and secondhand deliveries from Western suppliers such as the UK and especially the US (2024)<br>

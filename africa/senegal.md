@@ -347,7 +347,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Bassirou Diomaye FAYE (since 2 April 2024)<br>
 _head of government_: Prime Minister Ousmane SONKO (since 2 April 2024)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single, renewable 5-year term; election last held on 24 March 2024 (next to be held in 2029)<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single, renewable 5-year term; election last held on 24 March 2024 (next to be held in March 2029)<br>
 _election results_: <em><br>2024:</em> Bassirou Diomaye FAYE elected president in first round; percent of vote - Bassirou Diomaye FAYE (PASTEF) 54%, Amadou BA (APR) 36%, other 10%<br><em><em><br>2019:</em></em> Macky SALL reelected president in first round; percent of vote - Macky SALL (APR) 58.3%, Idrissa SECK (Rewmi) 20.5%, Ousmane SONKO (PASTEF) 15.7%, other 5.5% <p> </p><br>
 
 **Legislative branch**<br>

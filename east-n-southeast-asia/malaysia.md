@@ -325,7 +325,7 @@ _residency requirement for naturalization_: 10 out 12 years preceding applicatio
 18&nbsp;years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King Sultan IBRAHIM ibni al-Marhum Sultan Iskandar (since 31 January 2024)&nbsp;<br>
+_chief of state_: King Sultan IBRAHIM ibni al-Marhum Sultan Iskandar (since 31 January 2024)<br>
 _head of government_: Prime Minister ANWAR Ibrahim (since 25 November 2022)<br>
 _cabinet_: Cabinet appointed by the prime minister from among members of Parliament with the consent of the king<br>
 _elections/appointments_: king elected by and from the hereditary rulers of 9 states for a 5-year term; election is on a rotational basis among rulers of the 9 states; election last held on 24 October 2023 (next to be held in October 2028 with installation in January 2029); prime minister designated from among members of the House of Representatives; following legislative elections, the leader who commands support of the majority of members in the House becomes prime minister<br>

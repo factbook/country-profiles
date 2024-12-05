@@ -322,12 +322,12 @@ _residency requirement for naturalization_: unknown<br>
 **Executive branch**<br>
 _chief of state_: President Mohamed MUIZZU (since 17 November 2023)<br>
 _head of government_: President Mohamed MUIZZU (since 17 November 2023)<br>
-_cabinet_: Cabinet of Ministers appointed by the president, approved by Parliament<br>
+_cabinet_: Cabinet of Ministers appointed by the president, approved by People's Majlis<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); first round held on 9 September 2023 and runoff held on 30 September 2023 (next to be held in 2028)<br>
 _election results_: <em><br>2023:</em> Mohamed MUIZZU elected president in the second round; percent of vote in first round - Mohamed MUIZZU (PNC) 46.1%, Ibrahim Mohamed SOLIH (MDP) 39.1%, Ilyas LABEEB (DEMS) 7.1%, other 7.7%; percent of vote in the second round - Mohamed MUIZZU 54%, Ibrahim Mohamed SOLIH 46%<br><br><em>2018</em>: Ibrahim Mohamed SOLIH elected president in first round; Ibrahim Mohamed SOLIH (MDP) 58.3%, Abdulla YAMEEN Abdul Gayoom (PPM) 41.7%<br>
 
 **Legislative branch**<br>
-_description_: unicameral People's Assembly or People's Majlis (93 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_description_: unicameral People's Majlis (93 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: last held on 21 April 2024 (next to be held in 2029)<br>
 _election results_: percent of vote by party - NA; seats by party - PNC 66, MDP 12, MDA 2, JP 1, MNP 1, independent 11; composition - men 90, women 3, percentage women 3.3%<br>
 
