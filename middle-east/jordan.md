@@ -397,7 +397,7 @@ _selected World Heritage Site locales_: Petra (c); Quseir Amra (c); Um er-Rasas 
 ## Economy
 
 **Economic overview**<br>
-low growth, upper middle-income Middle Eastern economy; high debt and unemployment, especially for youth and women; key US foreign assistance recipient; natural resource-poor and import-reliant<br>
+<p>upper-middle-income Middle Eastern economy; high debt and unemployment, especially for youth and women; global events triggering trade slump and decreased revenue from tourism; growing manufacturing and agricultural sectors; key US foreign assistance recipient; natural-resource-poor and import-reliant </p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $106.806 billion (2023 est.)<br>

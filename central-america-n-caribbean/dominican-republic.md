@@ -676,7 +676,7 @@ Armed Forces of the Dominican Republic: Army of the Dominican Republic (Ejercito
 0.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 60,000 active personnel (30,000 Army; 13,000 Navy; 17,000 Air Force); approximately 35,000 National Police (2023)<br>
+approximately 55-60,000 Armed Forces personnel; up to 35,000 National Police (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's equipment inventory comes largely from the US, with smaller quantities from such suppliers as Brazil and Spain&nbsp; (2024)<br>

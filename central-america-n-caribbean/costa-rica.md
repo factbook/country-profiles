@@ -669,7 +669,7 @@ no regular military forces; Ministry of Public Security: National Police (Fuerza
 0.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-15-17,000 Ministry of Public Security personnel (2024)<br>
+approximately 15,000 Ministry of Public Security personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the National Police are lightly armed although small special units are trained and equipped for tactical operations; the US has provided equipment and support to forces such the National Coast Guard, including secondhand US vessels and aircraft (2024)<br>

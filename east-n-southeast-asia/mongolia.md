@@ -339,7 +339,7 @@ _residency requirement for naturalization_: 5 years<br>
 **Executive branch**<br>
 _chief of state_: President Ukhnaagiin KHURELSUKH (since 25 June 2021)<br>
 _head of government_: Prime Minister Luvsannamsrai OYUN-ERDENE (since 27 January 2021)<br>
-_cabinet_: directly appointed by the prime minister following a constitutional amendment ratified in November 2019; prior to the amendment, the cabinet was nominated by the prime minister in consultation with the president and confirmed by the State Great Hural (parliament)<br>
+_cabinet_: Cabinet directly appointed by the prime minister following a constitutional amendment ratified in November 2019; prior to the amendment, the Cabinet was nominated by the prime minister in consultation with the president and confirmed by the State Great Hural (parliament)<br>
 _elections/appointments_: presidential candidates nominated by political parties represented in the State Great Hural and directly elected by simple majority popular vote for one 6-year term; election last held on 9 June 2021 (next to be held in 2027); following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the State Great Hural<br>
 _election results_: <em><br>2021:</em> Ukhnaagiin KHURELSUKH elected president in first round; percent of vote - Ukhnaagiin KHURELSUKH (MPP) 68%, Dangaasuren ENKHBAT (RPEC) 20.1%, Sodnomzundui ERDENE (DP) 6%<br><br><em>2017: </em> Khaltmaa BATTULGA elected president in second round; percent of vote in first round - Khaltmaa BATTULGA (DP) 38.1%, Miyegombo ENKHBOLD (MPP) 30.3%, Sainkhuu GANBAATAR (MPRP) 30.2%, invalid 1.4%; percent of vote in second round - Khaltmaa BATTULGA 55.2%, Miyegombo ENKHBOLD 44.8%<br>
 

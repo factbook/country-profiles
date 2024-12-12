@@ -335,7 +335,7 @@ _residency requirement for naturalization_: 10 years<br>
 **Executive branch**<br>
 _chief of state_: President Jakov MILATOVIC (since 20 May 2023)<br>
 _head of government_: Prime Minister Milojko SPAJIC (since 31 October 2023)<br>
-_cabinet_: ministers act as cabinet<br>
+_cabinet_: ministers serve as the cabinet<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 19 March 2023 with a runoff on 2 April 2023 (next to be held in 2028); prime minister nominated by the president, approved by the Assembly<br>
 _election results_: <em><br>2023: </em>Jakov MILATOVIC elected president in second round; percent of vote in first round - Milo DUKANOVIC (DPS) 35.4%, Jakov MILATOVIC (Europe Now!) 28.9%, Andrija MANDIC (DF) 19.3%, Aleksa BECIC (DCG) 11.1%, other 5.3%; percent of vote in second round - Jakov MILATOVIC 58.9%, Milo DUKANOVIC 41.1%<em><br><br>2018:</em> Milo DJUKANOVIC elected president in first round; percent of vote - Milo DJUKANOVIC (DPS) 53.9%, Mladen BOJANIC (independent) 33.4%, Draginja VUKSANOVIC (SDP) 8.2%, Marko MILACIC (PRAVA) 2.8%, other 1.7%<br>
 

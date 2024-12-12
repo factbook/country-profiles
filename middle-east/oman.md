@@ -322,8 +322,9 @@ _residency requirement for naturalization_: unknown<br>
 
 **Executive branch**<br>
 _chief of state_: Sultan and Prime Minister HAITHAM bin Tarik Al Said (since 11 January 2020)<br>
-_head of government_: Sultan and Prime HAITHAM bin Tarik Al Said (since 11 January 2020)<br>
+_head of government_: Sultan and Prime Minister HAITHAM bin Tarik Al Said (since 11 January 2020)<br>
 _cabinet_: Cabinet appointed by the monarch<br>
+<strong>note</strong> - the monarch is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _description_: bicameral Council of Oman or Majlis Oman consists of:<br>Council of State or Majlis al-Dawla (87 seats including the chairman; members appointed by the sultan from among former government officials and prominent educators, businessmen, and citizens; members serve 4-year term)<br>Consultative Assembly or Majlis al-Shura (90 seats; members directly elected in single- and 2-seat constituencies by simple majority popular vote to serve renewable 4-year terms)<br>

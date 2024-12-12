@@ -399,7 +399,7 @@ _selected World Heritage Site locales_: Mosi-oa-Tunya/Victoria Falls<br>
 ## Economy
 
 **Economic overview**<br>
-lower middle-income Sub-Saharan economy; major copper exporter; high public debt is held mostly by China; systemic corruption; one of youngest and fastest growing labor forces; regional hydroelectricity exporter; extreme rural poverty<br>
+<p>lower-middle-income Sub-Saharan economy; major copper exporter; regional hydroelectricity producer; trade ties and infrastructure investments from China; IMF credit facilities and bilateral agreements to restructure debt burden; one of youngest and fastest-growing labor forces; systemic corruption; extreme rural poverty</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $76.493 billion (2023 est.)<br>

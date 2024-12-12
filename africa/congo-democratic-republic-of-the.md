@@ -701,7 +701,7 @@ Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Repu
 0.9% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimates vary; up to 140,000 active troops, including approximately 10,000 Republican Guard (2023)<br>
+limited and varied information; estimated 100-150,000 active troops, including approximately 10,000 Republican Guard (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FARDC is equipped mostly with Soviet-era and older French weapons and equipment; in 2024, the DRC signed an agreement with China for the provision of military equipment (2024)<br>

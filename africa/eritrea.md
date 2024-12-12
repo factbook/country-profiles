@@ -598,7 +598,7 @@ Eritrean Defense Forces (EDF): Eritrean Ground Forces, Eritrean Navy, Eritrean A
 10.6% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-limited available information; estimated 150,000-200,000 personnel (2023)<br>
+available information varies widely; estimated 150,000-200,000 personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the EDF's inventory is comprised primarily of Soviet-era weapons and equipment (2024)<br>

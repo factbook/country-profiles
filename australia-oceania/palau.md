@@ -297,7 +297,7 @@ _chief of state_: President Surangel WHIPPS Jr. (since 21 January 2021)<br>
 _head of government_: President Surangel WHIPPS Jr. (since 21 January 2021)<br>
 _cabinet_: Cabinet appointed by the president with the advice and consent of the Senate; also includes the vice president; the Council of Chiefs consists of chiefs from each of the states who advise the president on issues concerning traditional laws, customs, and their relationship to the constitution and laws of Palau<br>
 _elections/appointments_: president and vice president directly elected on separate ballots by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 5 November 2024 (next to be held November 2028)<br>
-_election results_: <em>2024: </em>Surangel WHIPPS, Jr. elected president in second round; percent of vote - Surangel WHIPPS, Jr. (independent) 56.7%, Tommy REMENGESAU (independent) 41.7% <br><br><em>2020: </em>Surangel WHIPPS, Jr. elected president in second round; percent of vote - Surangel WHIPPS, Jr. (independent) 56.7%, Raynold OILUCH (independent) 43.3%<br>
+_election results_: <em>2024: </em>Surangel WHIPPS, Jr. elected president in second round; percent of vote - Surangel WHIPPS, Jr. (independent) 57.7%, Tommy REMENGESAU (independent) 42.1%, other 0.2% <br><br><em>2020: </em>Surangel WHIPPS, Jr. elected president in second round; percent of vote - Surangel WHIPPS, Jr. (independent) 56.7%, Raynold OILUCH (independent) 43.3%<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>

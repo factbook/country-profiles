@@ -362,7 +362,7 @@ _chief of state_: President Claudia SHEINBAUM Pardo (since 1 October 2024)<br>
 _head of government_: President Claudia SHEINBAUM Pardo (since 1 October 2024)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a single 6-year term; election last held on 2 June 2024 (next to be held in 2030)<br>
-_election results_: <br><em>2024: </em>Claudia SHEINBAUM Pardo elected president; percent of vote - Claudia SHEINBAUM Pardo (MORENA) 59.4%, Xóchitl GÁLVEZ Ruiz (PAN) 27.9%, Jorge Álvarez MÁYNEZ (MC) 10.4%, other 2.3%<em><br><br>2018:</em> Andrés Manuel LÓPEZ OBRADOR elected president; percent of vote - Andrés Manuel LÓPEZ OBRADOR (MORENA) 53.2%, Ricardo ANAYA Cortés (PAN) 22.3%, José Antonio MEADE Kuribreña (PRI) 16.4%, Jaime RODRÍGUEZ Calderón 5.2% (independent), other 2.9%<br><br><em>2012:</em> Enrique PEÑA NIETO elected president; percent of vote - Enrique PEÑA NIETO (PRI) 38.2%, Andrés Manuel LÓPEZ OBRADOR (PRD) 31.6%, Josefina Eugenia VÁZQUEZ Mota (PAN) 25.4%, other 4.8%<br>
+_election results_: <br><em>2024: </em>Claudia SHEINBAUM Pardo elected president; percent of vote - Claudia SHEINBAUM Pardo (MORENA) 59.4%, Xóchitl GÁLVEZ Ruiz (PAN) 27.9%, Jorge Álvarez MÁYNEZ (MC) 10.4%, other 2.3%<em><br><br>2018:</em> Andrés Manuel LÓPEZ OBRADOR elected president; percent of vote - Andrés Manuel LÓPEZ OBRADOR (MORENA) 53.2%, Ricardo ANAYA Cortés (PAN) 22.3%, José Antonio MEADE Kuribreña (PRI) 16.4%, Jaime RODRÍGUEZ Calderón (independent) 5.2%, other 2.9%<br><br><em>2012:</em> Enrique PEÑA NIETO elected president; percent of vote - Enrique PEÑA NIETO (PRI) 38.2%, Andrés Manuel LÓPEZ OBRADOR (PRD) 31.6%, Josefina Eugenia VÁZQUEZ Mota (PAN) 25.4%, other 4.8%<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -732,7 +732,7 @@ the Mexican Armed Forces (Fuerzas Armadas de México) are divided between the S
 0.5% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 240,000 armed forces personnel (180,000 Army; 10,000 Air Force; 50,000 Navy, including about 20,000 marines); approximately 110,000 National Guard personnel (2023)<br>
+information varies; approximately 220,000 armed forces personnel (160,000 Army; 10,000 Air Force; 50,000 Navy, including about 20,000 marines); approximately 110,000 National Guard personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Mexican military inventory includes a mix of domestically produced and imported weapons and equipment from a variety of mostly Western suppliers, particularly the US; a considerable portion of its inventory, such as ships and fighter aircraft, are older, secondhand items from the US; over the past decade, the Mexican military has made efforts to acquire more modern equipment; Mexico's defense industry produces some naval vessels and light armored vehicles, as well as small arms and other miscellaneous equipment (2023)<br>

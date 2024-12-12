@@ -291,7 +291,6 @@ _chief of state_: President Wesley W. SIMINA (since 12 May 2023)<br>
 _head of government_: President Wesley W. SIMINA (since 12 May 2023)<br>
 _cabinet_: Cabinet includes the vice president and the heads of the 8 executive departments<br>
 _elections/appointments_: president and vice president indirectly elected by Congress from among the 4 'at large' senators for a 4-year term (eligible for a second term); election last held on 12 May 2023 (next to be held in 2027)<br>
-_election results_: <em><br>2023: </em>David W. PANUELO elected president by Congress; Yosiwo P. GEORGE reelected vice president<br><br>2019: David W. PANUELO elected president by Congress; Yosiwo P. GEORGE reelected vice president <br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>

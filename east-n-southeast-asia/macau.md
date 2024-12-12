@@ -256,8 +256,8 @@ see China<br>
 _chief of state_: President of China XI Jinping (since 14 March 2013)<br>
 _head of government_: Chief Executive HO lat Seng (since 20 December 2019)<br>
 _cabinet_: Executive Council appointed by the chief executive<br>
-_elections/appointments_: president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); election last held on 10 March 2023 (next to be held in March 2028); chief executive chosen by a 400-member Election Committee for a 5-year term (eligible for a second term); election last held on 24 August 2019 (next to be held in 2024)<br>
-_election results_: <em><br>2019</em>: HO lat Seng (unopposed; received 392 out of 400 votes) <br><br><em>2014</em>: Fernando CHUI Sai (unopposed; received 380 of 396 votes)<br>
+_elections/appointments_: president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); election last held on 10 March 2023 (next to be held in March 2028); chief executive chosen by a 400-member Election Committee for a 5-year term (eligible for a second term); election last held on 13 October 2024 (next to be held in 2029)<br>
+_election results_: <em>2024:</em> Sam Hou FAI (unopposed; received 394 out of 400 votes)<br><br><em>2019:</em> HO lat Seng (unopposed; received 392 out of 400 votes)<br>
 
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Regiao Administrativa Especial de Macau (33 seats; 14 members directly elected by proportional representation vote, 12 indirectly elected by an electoral college of professional and commercial interest groups, and 7 appointed by the chief executive; members serve 4-year terms)<br>

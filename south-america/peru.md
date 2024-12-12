@@ -355,7 +355,7 @@ _residency requirement for naturalization_: 2 years<br>
 18 years of age; universal and compulsory until the age of 70<br>
 
 **Executive branch**<br>
-_chief of state_: President Dina Ercilia BOLUARTE Zegarra (since 7 December 2022)&nbsp;<br>
+_chief of state_: President Dina Ercilia BOLUARTE Zegarra (since 7 December 2022)<br>
 _head of government_: President Dina Ercilia BOLUARTE Zegarra (since 7 December 2022)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for nonconsecutive terms); election last held on 11 April 2021 with a runoff on 6 June 2021 (next to be held in April 2026)<br>

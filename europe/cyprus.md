@@ -661,7 +661,7 @@ Republic of Cyprus: Cypriot National Guard (Ethniki Froura, EF; includes Army La
 1.6% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 15,000 total active-duty personnel (2023)<br>
+approximately 12-15,000 active-duty personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes a large quantity of Russian and Soviet-era weapons and equipment along with a smaller mix of mostly older Brazilian, European, Israeli, and US armaments; in 2023, Cyprus announced a 5-year modernization program to replace its Russian-made weapon systems with modern equipment from the West; the country had been under an arms embargo by the US since 1987 but the embargo was lifted in 2022 with conditions that require certifying each year (2024)<br>

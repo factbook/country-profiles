@@ -361,9 +361,9 @@ _consulate(s)_: Dallas, Del Rio (TX), Lake Worth (FL), McAllen (TX), Riverhead (
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Tobin BRADLEY (since 12 February 2024)<br>
-_embassy_: Avenida Reforma 7-01, Zone 10, Guatemala City<br>
+_embassy_: Boulevard Austriaco 11-51, Zone 16, Guatemala City<br>
 _mailing address_: 3190 Guatemala Place, Washington DC&nbsp; 20521-3190<br>
-_telephone_: [502] 2326-4000<br>
+_telephone_: [502] 2354-0000<br>
 _FAX_: [502] 2326-4654<br>
 _email address and website_: <br>AmCitsGuatemala@state.gov<br><br>https://gt.usembassy.gov/<br>
 

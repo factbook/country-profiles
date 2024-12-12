@@ -630,7 +630,7 @@ _unpaved_: 23,300 km (2018)<br>
 
 **Military and security forces**<br>
 Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includes an air squadron, Escadrille Centrafricaine)<br><br>Ministry of Interior: National Gendarmerie (Gendarmerie Nationale), National Police (2023)<br>
-<strong>note 1: </strong>the Special Republican Protection Group (Groupement Spécial Chargé de la Protection Républicaine or GSPR) is part of the Army per a March 2022 decree, but reports to the president; the GSPR provides protection to the head of state<br><strong><br>note 2:</strong> in 2019-2021, the CAR established three Mixed Special Security units (Unités Spéciales Mixtes de Sécurité or USMS), regionally based battalion-sized units comprised of about 40% government and 60% rebel soldiers formed to provide security along transportation corridors and at mining sites; the units were intended to be transitional in nature with a scheduled deployment time of two years; in addition, since mid-2021 the FACA have frequently recruited local militias, mostly former anti-balaka and seleka fighters, whom they pay to help track and attack rebels hiding in the bush<br>
+<strong>note: </strong>the Special Republican Protection Group (Groupement Spécial Chargé de la Protection Républicaine or GSPR) is part of the Army per a March 2022 decree, but reports to the president; the GSPR provides protection to the head of state<br>
 
 **Military expenditures**<br>
 1.8% of GDP (2023 est.)<br>
@@ -640,7 +640,7 @@ Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includ
 1.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimates vary; up to 15,000 FACA troops; estimated 15-20,000 Gendarmerie and National Police (2023)<br>
+limited and varied information available; estimated to have up to 15,000 FACA troops (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 most of the military's heavy weapons and equipment were destroyed or captured during the 2012–2014 civil war; prior to the war, most of its equipment was of French, Russian, or Soviet origin; in recent years, it has received some secondhand equipment from China and Russia, including light weapons, as well as some armored vehicles, unmanned aerial vehicles, and helicopters (2024)<br>

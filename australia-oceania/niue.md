@@ -200,15 +200,15 @@ _amendments_: proposed by the Assembly; passage requires at least two-thirds maj
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor-General of New Zealand Cindy KIRO (since 21 October 2021); the UK and New Zealand are represented by New Zealand High Commissioner Mark GIBBS (since 5 March 2024)<br>
-_head of government_: Prime Minister Dalton TAGELAGI (since 10 June 2020)<br>
-_cabinet_: Cabinet chosen by the premier<br>
-_elections/appointments_: the monarchy is hereditary; premier indirectly elected by the Legislative Assembly for a 3-year term; election last held on 8 May 2023 (next to be held in 2026)<br>
-_election results_: Dalton TAGELAGI reelected premier; Legislative Assembly vote - Dalton TAGELAGI (independent) 16, O'Love JACOBSEN (independent) 4<br>
+_head of government_: Prime Minister Dalton TAGELAGI; also referred to as premier (since 10 June 2020)<br>
+_cabinet_: Cabinet chosen by the prime minister<br>
+_elections/appointments_: the monarchy is hereditary; prime minister indirectly elected by the Legislative Assembly for a 3-year term; election last held on 8 May 2023 (next to be held in 2026)<br>
+_election results_: Dalton TAGELAGI reelected prime minister; Legislative Assembly vote - Dalton TAGELAGI (independent) 16, O'Love JACOBSEN (independent) 4<br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly or Fono Ekepule (20 seats; 14 members directly elected in single-seat constituencies by simple majority vote and 6 directly elected from the National Register or "common roll" by majority vote; members serve 3-year terms)<br>
 _elections_: last held on 29 April 2023 (next to be held in 2026)<br>
-_election results_: percent of vote - NA; seats - independent 20; composition - men 17, women 3, percentage women 15%<br>
+_election results_: percent of vote - NA; seats - independent 20; composition - men 14, women 6, percentage women 30%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the chief justice and up to 3 judges); note - the Judicial Committee of the Privy Council (in London) is the final appeal court beyond the Niue Court of Appeal<br>

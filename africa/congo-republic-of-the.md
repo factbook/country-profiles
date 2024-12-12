@@ -674,7 +674,7 @@ Congolese Armed Forces (Forces Armees Congolaises, FAC): Army, Navy, Congolese A
 2.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 14,000 active-duty troops (including about 4,000 Gendarmerie) (2023)<br>
+approximately 12-14,000 active-duty troops (including about 4,000 Gendarmerie) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAC has mostly Soviet-era armaments, with a small mix of Chinese, French, and South African equipment (2024)<br>

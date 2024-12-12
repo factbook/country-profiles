@@ -344,7 +344,6 @@ _chief of state_: King WILLEM-ALEXANDER (since 30 April 2013)<br>
 _head of government_: Prime Minister Dick SCHOOF (since 2 July 2024)<br>
 _cabinet_: Council of Ministers appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following Second Chamber elections, the leader of the majority party or majority coalition is usually appointed prime minister by the monarch; deputy prime ministers are appointed by the monarch<br>
-<strong>note:</strong> Mark RUTTE's ruling coalition collapsed on 8 July 2023; he is serving as prime minister in a caretaker status until a new prime minister is sworn into office<br>
 
 **Legislative branch**<br>
 _description_: bicameral States General or Staten Generaal consists of:<br>Senate or Eerste Kamer (75 seats; members indirectly elected by the country's 12 provincial council members by proportional representation vote; members serve 4-year terms)<br>House of Representatives or Tweede Kamer (150 seats; members directly elected in multi-seat constituencies by open-list proportional representation vote to serve up to 4-year terms)<br>

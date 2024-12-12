@@ -691,7 +691,7 @@ Ecuadorian Armed Forces: the Ecuadorian Army (Ejército Ecuatoriano), Ecuadorian
 2.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 40,000 active military personnel (25,000 Army; 9,000 Navy; 6,000 Air Force) (2023)<br>
+approximately 40,000 active military personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes a diverse mix of older and smaller quantities of more modern equipment derived from a variety of sources such as Brazil, China, France, Italy, Germany, Russia/Soviet-Union, Spain, Turkey, the UK, and the US (2024)<br>

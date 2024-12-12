@@ -410,7 +410,7 @@ _selected World Heritage Site locales_: <p>Taj Mahal (c); Red Fort Complex (c); 
 ## Economy
 
 **Economic overview**<br>
-largest South Asian economy; key US trading partner; many informal domestic economies; promoting self-reliance and increasing market access barriers; credit access weaknesses contributing to lower private consumption and inflation; ongoing social and infrastructure equity efforts<br>
+<p>largest South Asian economy; strong, sustained GDP growth led by technology and service sectors, foreign investment, and improved regulatory framework; high poverty rate and income inequality; initiatives on infrastructure development, digitization, manufacturing, and financial access</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $13.104 trillion (2023 est.)<br>

@@ -359,7 +359,7 @@ _selected World Heritage Site locales_: Historic Bridgetown and its Garrison<br>
 ## Economy
 
 **Economic overview**<br>
-largest Eastern Caribbean economy; dependent on US imports and currency strength; high Human Development Index; key tourism and financial sectors; declining but still very high public debt; cost-of-living and cost competitiveness vulnerabilities<br>
+<p>high-income Eastern Caribbean economy; high standard of living among regional peers; key tourism, construction, and financial sectors driving recent GDP growth; declining but still very high public debt leading to IMF support programs; susceptible to natural disasters and reliance on import partners</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $4.92 billion (2023 est.)<br>

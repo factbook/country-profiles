@@ -645,7 +645,7 @@ Revolutionary Armed Forces (Fuerzas Armadas Revolucionarias, FAR): Revolutionary
 3.1% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-limited available information; estimated 50,000 active personnel, including approximately 40,000 Army (2023)<br>
+limited available information; estimated 50,000 active personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is comprised of Russian and Soviet-era equipment (2024)<br>

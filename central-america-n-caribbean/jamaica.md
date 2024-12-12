@@ -372,7 +372,7 @@ _selected World Heritage Site locales_: Blue and John Crow Mountains<br>
 ## Economy
 
 **Economic overview**<br>
-upper middle-income Caribbean island economy; ongoing debt restructuring; hurricane-vulnerable economy; high crime, youth unemployment, and poverty; susceptible to commodity shocks from ongoing Russia invasion of Ukraine<br>
+<p>upper-middle-income Caribbean island economy; key agriculture and tourism sectors; high crime, youth unemployment, and poverty; susceptible to natural disasters and global commodity price shocks; progress in reducing public debt and moderating inflation within target range</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $29.225 billion (2023 est.)<br>
