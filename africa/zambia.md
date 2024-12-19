@@ -399,7 +399,7 @@ _selected World Heritage Site locales_: Mosi-oa-Tunya/Victoria Falls<br>
 ## Economy
 
 **Economic overview**<br>
-<p>lower-middle-income Sub-Saharan economy; major copper exporter; regional hydroelectricity producer; trade ties and infrastructure investments from China; IMF credit facilities and bilateral agreements to restructure debt burden; one of youngest and fastest-growing labor forces; systemic corruption; extreme rural poverty</p><br>
+<p>lower-middle-income sub-Saharan economy; regional hydroelectricity producer; trade ties and infrastructure investments from China; IMF assistance to restructure debt burden; one of youngest and fastest-growing labor forces; systemic corruption; extreme rural poverty</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $76.493 billion (2023 est.)<br>
@@ -522,8 +522,8 @@ $8.558 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Switzerland 30%, China 18%, Democratic Republic of the Congo 10%, Pitcairn Islands 10%, UAE 7% (2022)<br>
-<b>note:</b> top five export partners based on percentage share of exports<br>
+Switzerland 30%, China 18%, Democratic Republic of the Congo (DRC) 10%, Pitcairn Islands 10%, UAE 7% (2022)<br>
+<strong>note:</strong> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
 raw copper, refined copper, gold, precious stones, iron alloys (2022)<br>
@@ -536,8 +536,8 @@ $5.866 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-South Africa 26%, Equatorial Guinea 18%, China 14%, UAE 7%, Democratic Republic of the Congo 6% (2022)<br>
-<b>note:</b> top five import partners based on percentage share of imports<br>
+South Africa 26%, Equatorial Guinea 18%, China 14%, UAE 7%, DRC 6% (2022)<br>
+<strong>note:</strong> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
 fertilizers, refined petroleum, trucks, copper ore, packaged medicine (2022)<br>

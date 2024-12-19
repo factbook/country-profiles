@@ -343,8 +343,9 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Klaus Werner IOHANNIS (since 21 December 2014)<br>
 _head of government_: Prime Minister Marcel CIOLACU (since 15 June 2023)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on&nbsp;10 November 2019 with a runoff on&nbsp;24 November 2019 (next to be held&nbsp;in November 2024); prime minister appointed by the president with consent of Parliament<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held in November 2024, but results were annulled, with new election expected in early 2025; prime minister appointed by the president with consent of Parliament<br>
 _election results_: <em><br>2019: </em>Klaus IOHANNIS reelected president in second round; percent of vote - Klaus IOHANNIS (PNL) 66.1%, Viorica DANCILA (PSD) 33.9%<br><br><em>2014:</em> Klaus IOHANNIS elected president in second round; percent of vote - Klaus IOHANNIS (PNL) 54.4%, Victor PONTA (PSD) 45.6%<br>
+<strong>note: </strong>Romania's constitutional court has annulled the results of the most recent presidential election in November-December 2024, which resets the election cycle. A new election is expected in early 2025.<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlament consists of:<br>Senate or Senat (136 seats; members directly elected in single- and multi-seat constituencies - including 2 seats for diaspora - by party-list, proportional representation vote; members serve 4-year terms)<br>Chamber of Deputies or Camera Deputatilor (330 seats; members directly elected in single- and multi-seat constituencies - including 4 seats for diaspora - by party-list, proportional representation vote; members serve 4-year terms)<br>
@@ -391,8 +392,8 @@ _lyrics/music_: Andrei MURESIANU/Anton PANN<br>
 <strong>note:</strong> adopted 1990; the anthem was written during the 1848 Revolution<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 9 (7 cultural, 2 natural)<br>
-_selected World Heritage Site locales_: Danube Delta (n); Churches of Moldavia (c); Monastery of Horezu (c); Villages with Fortified Churches in Transylvania (c); Dacian Fortresses of the Orastie Mountains (c); Historic Center of Sighişoara (c); Wooden Churches of Maramureş (c); Ancient and Primeval Beech Forests of the Carpathians (n); Roșia Montană Mining Landscape (c)<br>
+_total World Heritage Sites_: 11 (9 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: <p>Danube Delta (n); Churches of Moldavia (c); Monastery of Horezu (c); Villages with Fortified Churches in Transylvania (c); Dacian Fortresses of the Orastie Mountains (c); Historic Center of Sighişoara (c); Wooden Churches of Maramureş (c); Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe (n); Roșia Montană Mining Landscape (c); Brâncuși Monumental Ensemble of Târgu Jiu (c); Frontiers of the Roman Empire – Dacia (c)</p><br>
 
 ## Economy
 

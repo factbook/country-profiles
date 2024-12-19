@@ -398,8 +398,8 @@ _lyrics/music_: Mehmet Akif ERSOY/Zeki UNGOR<br>
 <strong>note:</strong> lyrics adopted 1921, music adopted 1932; the anthem's original music was adopted in 1924; a new composition was agreed upon in 1932<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 19 (17 cultural, 2 mixed)<br>
-_selected World Heritage Site locales_: Archaeological Site of Troy (c); Ephesus (c); Diyarbakır Fortress and Hevsel Gardens Cultural Landscape (c); Hierapolis-Pamukkale (m); Göreme National Park and the Rock Sites of Cappadocia (m); Göbekli Tepe (c); Historic Areas of Istanbul (c); Selimiye Mosque and its Social Complex (c); Neolithic Site of Çatalhöyük (c); Bursa and Cumalıkızık: the Birth of the Ottoman Empire (c); Gordion (c)<br>
+_total World Heritage Sites_: 21 (19 cultural, 2 mixed)<br>
+_selected World Heritage Site locales_: <p>Archaeological Site of Troy (c); Ephesus (c); Diyarbakır Fortress and Hevsel Gardens Cultural Landscape (c); Hierapolis-Pamukkale (m); Göreme National Park and the Rock Sites of Cappadocia (m); Göbekli Tepe (c); Historic Areas of Istanbul (c); Selimiye Mosque and its Social Complex (c); Neolithic Site of Çatalhöyük (c); Bursa and Cumalıkızık: the Birth of the Ottoman Empire (c); Gordion (c); Great Mosque and Hospital of Divriği (c); Hattusha: the Hittite Capital (c); Nemrut Dağ (c);  Xanthos-Letoon (c); City of Safranbolu (c); Pergamon and its Multi-Layered Cultural Landscape (c); Ephesus (c); Archaeological Site of Ani (c); Aphrodisias (c); Arslantepe Mound (c); Wooden Hypostyle Mosques of Medieval Anatolia (c); Turkmenistan (c)</p><br>
 
 ## Economy
 
@@ -716,7 +716,7 @@ the military's inventory is comprised of domestically produced, European (partic
 
 **Military service age and obligation**<br>
 mandatory military service for men at age 20; service can be delayed if in university or in certain professions (researchers, professionals, and athletic, or those with artistic talents have the right to postpone military service until the age of 35); 6-12 months service; women may volunteer (2023)<br>
-<strong>note 1:</strong> after completing six months of service, if a conscripted soldier wants to and is suitable for extending his military service, he may do so for an additional six months in return for a monthly salary; all male Turkish citizens over the age of 20 are required to undergo a one month military training period, but they can obtain an exemption from the remaining 5 months of their mandatory service by paying a fee <br><strong><br>note 2:</strong> as of 2020, women made up about 0.3% of the military's full-time personnel<br>
+<strong>note 1:</strong> after completing six months of service, if a conscripted soldier wants to and is suitable for extending his military service, he may do so for an additional six months in return for a monthly salary; all male Turkish citizens over the age of 20 are required to undergo a one month military training period, but they can obtain an exemption from the remaining 5 months of their mandatory service by paying a fee <br><strong><br>note 2:</strong> as of 2021, women made up about 0.4% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 approximately 150 (Azerbaijan; monitoring cease-fire, clearing mines); 250 Bosnia-Herzegovina (EUFOR); approximately 30-35,000 Cyprus; 800 Kosovo (NATO/KFOR); 130 Lebanon (UNIFIL); estimated 500 Libya; up to 5,000 Qatar; approximately 200 Somalia (training mission) (2023)<br>

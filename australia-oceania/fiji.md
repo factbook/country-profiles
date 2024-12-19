@@ -635,7 +635,7 @@ _key ports_: Lautoka Harbor, Levuka, Malai, Savusavu Bay, Suva Harbor<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Republic of Fiji Military Force (RFMF): Land Force Command, Maritime Command (2024)<br>
+Republic of Fiji Military Forces (RFMF): Land Force Command, Maritime Command (2024)<br>
 <strong>note: </strong>the RFMF is subordinate to the president as the commander-in-chief, while the Fiji Police Force reports to the Ministry of Defense, National Security, and Policing<br>
 
 **Military expenditures**<br>
@@ -646,13 +646,14 @@ Republic of Fiji Military Force (RFMF): Land Force Command, Maritime Command (20
 1.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 4,000 active personnel (2023)<br>
+approximately 4,000 active personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the RFMF is lightly armed and equipped; Australia has provided patrol boats and a few armored personnel carriers; it also provides logistical support for RFMF regional or UN operations; in recent years, China has provided construction equipment and military vehicles (2024)<br>
+the RFMF is lightly armed and equipped; Australia has provided patrol boats and a few armored personnel carriers; it also provides logistical support for RFMF regional or UN operations; in recent years, China and the US have provided small amounts of equipment&nbsp; (2024)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military service for men and women; mandatory retirement at age 55 (2023)<br>
+18-25 years of age for voluntary military service for men and women (2024)<br>
+<strong>note:</strong> as of 2024, women comprised approximately 8% of the Fiji Military Forces<br>
 
 **Military deployments**<br>
 170 Egypt (MFO); 160 Iraq (UNAMI); 150 Golan Heights (UNDOF) (2024)<br>

@@ -389,8 +389,8 @@ _lyrics/music_: Graham HYSLOP, Thomas KALUME, Peter KIBUKOSYA, Washington OMONDI
 <strong>note:</strong> adopted 1963; based on a traditional Kenyan folk song<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 7 (4 cultural, 3 natural)<br>
-_selected World Heritage Site locales_: Lake Turkana National Parks (n); Mount Kenya National Park (n); Lamu Old Town (c); Sacred Mijikenda Kaya Forests (c); Fort Jesus, Mombasa (c); Kenya Lake System in the Great Rift Valley (n); Thimlich Ohinga Archaeological Site (c)<br>
+_total World Heritage Sites_: 8(5 cultural, 3 natural)<br>
+_selected World Heritage Site locales_: <p>Lake Turkana National Parks (n); Mount Kenya National Park/Natural Forest (n); Lamu Old Town (c); Sacred Mijikenda Kaya Forests (c); Fort Jesus, Mombasa (c); Kenya Lake System in the Great Rift Valley (n); Thimlich Ohinga Archaeological Site (c); The Historic Town and Archaeological Site of Gedi (c)</p><br>
 
 ## Economy
 

@@ -376,8 +376,8 @@ _lyrics/music_: collective, led by Tunku ABDUL RAHMAN/Pierre Jean DE BERANGER<br
 <strong>note:</strong> adopted 1957; full version only performed in the presence of the king; the tune, which was adopted from a popular French melody titled "La Rosalie," was originally the anthem of Perak, one of Malaysia's 13 states<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 4 (2 cultural, 2 natural)<br>
-_selected World Heritage Site locales_: Gunung Mulu National Park (n); Kinabalu Park (n); Malacca and George Town, Historic Cities of the Straits of Malacca (c); Archaeological Heritage of the Lenggong Valley (c)<br>
+_total World Heritage Sites_: 5 (3 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: <p>Gunung Mulu National Park (n); Kinabalu Park (n); Melaka and George Town, Historic Cities of the Straits of Melaka (c); Archaeological Heritage of the Lenggong Valley (c); The Archaeological Heritage of Niah National Park’s Caves Complex (c)</p><br>
 
 ## Economy
 

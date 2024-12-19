@@ -366,7 +366,6 @@ _election results_: <br><em>2021: </em>Jose Pedro CASTILLO Terrones elected pre
 _description_: unicameral Congress of the Republic of Peru or Congreso de la Rep&uacute;blica del Per&uacute; (130 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve single 5-year terms)<br>
 _elections_: last held on 11 April 2021 (next to be held in April 2026)<br>
 _election results_: <br>percent of vote by party/coalition - NA; seats by party/coalition - Free Peru 32, Popular Force 24, AP 15, APP 15, AvP 10, RP 9, Democratic Peru 7, We Are Peru 5, PP 5, JP 5, Purple Party 3; composition - men 80, women 50, percentage women 40%<br>
-<strong>note:</strong> seats by party/coalition as of January 2024 - Popular Force 23, Free Peru 16, AP 14, APP 11, AvP 9, Democratic Peru 9, RP 9, SP 6, PP 6, PB 5; BMCN 9, independent 25<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 16 judges and divided into civil, criminal, and constitutional-social sectors)<br>

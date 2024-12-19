@@ -390,9 +390,9 @@ three equal vertical bands of green (hoist side), white, and green; the color gr
 eagle; national colors: green, white<br>
 
 **National anthem**<br>
-_name_: "Arise Oh Compatriots, Nigeria's Call Obey"<br>
-_lyrics/music_: John A. ILECHUKWU, Eme Etim AKPAN, B.A. OGUNNAIKE, Sotu OMOIGUI and P.O. ADERIBIGBE/Benedict Elide ODIASE<br>
-<strong>note:</strong> adopted 1978; lyrics are a mixture of the five top entries in a national contest<br>
+_name_: "Nigeria, We Hail Thee"<br>
+_lyrics/music_: Lillie Jean WILLIAMS/Frances BERDA<br>
+<strong>note:</strong> May 2024 Parliament voted to revert back to the former national anthem used from 1960-1078  <br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>

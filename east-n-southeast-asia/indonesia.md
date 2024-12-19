@@ -313,7 +313,7 @@ _etymology_: the name is an 18th-century construct of two Greek words, "Indos" (
 presidential republic<br>
 
 **Capital**<br>
-_name_: Jakarta; note - Indonesian lawmakers on 18 January 2022 approved the relocation of the country&rsquo;s capital from Jakarta to a site on the island of Borneo between Samarinda City and the port city of Balikpapan; Nusantara ("archipelago"), the name of the new capital, is expected to be established in August 2024<br>
+_name_: Jakarta; note - Indonesian lawmakers on 18 January 2022 approved the relocation of the country&rsquo;s capital from Jakarta to a site on the island of Borneo between Samarinda City and the port city of Balikpapan; Nusantara ("archipelago"), the name of the new capital, was in development as of late 2024 and is expected to be completed in 2045<br>
 _geographic coordinates_: 6 10 S, 106 49 E<br>
 _time difference_: UTC+7 (12 hours ahead of Washington, DC, during Standard Time)<br>
 _time zone note_: Indonesia has three time zones<br>

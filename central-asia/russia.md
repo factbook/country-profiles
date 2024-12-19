@@ -416,8 +416,8 @@ _lyrics/music_: Sergey Vladimirovich MIKHALKOV/Aleksandr Vasilyevich ALEKSANDROV
 <strong>note:</strong> in 2000, Russia adopted the tune of the anthem of the former Soviet Union (composed in 1939); the lyrics, also adopted in 2000, were written by the same person who authored the Soviet lyrics in 1943<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 31 (20 cultural, 11 natural)<br>
-_selected World Heritage Site locales_: Kremlin and Red Square, Moscow (c); Historic Saint Petersburg (c); Novodevichy Convent (c); Historic Monuments of Novgorod (c); Trinity Sergius Lavra in Sergiev Posad (c); Volcanoes of Kamchatka (n); Lake Baikal (n); Central Sikhote-Alin (n); Historic Derbent (c); Kazan Kremlin (c)<br>
+_total World Heritage Sites_: 32 (21 cultural, 11 natural)<br>
+_selected World Heritage Site locales_: <p>Historic Centre of Saint Petersburg and Related Groups of Monuments (c); Kizhi Pogost (c); Kremlin and Red Square, Moscow (c); Cultural and Historic Ensemble of the Solovetsky Islands (c); Historic Monuments of Novgorod and Surroundings (c); White Monuments of Vladimir and Suzdal (c); Architectural Ensemble of the Trinity Sergius Lavra in Sergiev Posad (c); Church of the Ascension, Kolomenskoye (c); Virgin Komi Forests (n); Lake Baikal (n); Volcanoes of Kamchatka (n); Golden Mountains of Altai (n); Western Caucasus (n); Curonian Spit (c); Ensemble of the Ferapontov Monastery (c); Historic and Architectural Complex of the Kazan Kremlin (c); Central Sikhote-Alin (n); Citadel, Ancient City and Fortress Buildings of Derbent (c); Uvs Nuur Basin (n); Ensemble of the Novodevichy Convent(c); Natural System of Wrangel Island Reserve (n); Historical Centre of the City of Yaroslavl (c); Struve Geodetic Arc (c); Putorana Plateau (n); Lena Pillars Nature Park (n); Bolgar Historical and Archaeological Complex (c); Assumption Cathedral and Monastery of the town-island of Sviyazhsk (c); Landscapes of Dauria (n); Churches of the Pskov School of Architecture (c); Petroglyphs of Lake Onega and the White Sea (c); Astronomical Observatories of Kazan Federal University (c); Cultural Landscape of Kenozero Lake (c)</p><br>
 
 ## Economy
 

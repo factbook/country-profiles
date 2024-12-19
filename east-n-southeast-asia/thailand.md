@@ -358,7 +358,6 @@ _elections/appointments_: the monarchy is hereditary; prime minister candidate a
 _description_: bicameral National Assembly or Ratthasapha consists of:<br>Senate or Wuthisapha (200 seats; members indirectly elected in a three-step process (district, provincial, and national) from 20 eligible groups of professionals and then certified by Election Commission for a single 5-year term)<br><br>House of Representatives or Saphaphuthan Ratsadon (500 seats; 400 members directly elected in single-seat constituencies by simple majority vote and 100 members elected in a single nationwide constituency by party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: Senate - last election dates 9, 16, and 26 June 2024; certified on 10 July 2024 (next to be held in June 2029)<br>House of Representatives - last held on 14 May 2023 (next to be held in May 2027)<br>
 _election results_: Senate - percent of vote by party - independents; seats by party - NA; composition - NA<br><br>House of Representatives - percent of vote by party - MFP 36.2%, PTP 27.7%, UTN 11.9%, BJT/PJT 2.9%, DP 2.3%, PPRP 1.4%, PCC 1.5%, other 16%; seats by party - MFP 152, PTP 141, BJT/PJT 71, PPRP 41, UTN 36, DP 24, PCC 9, CTP 10, Thai Sang Thai 6, other 11; composition - 403 men, 97 women, percentage women 19.4%<br>
-<strong>note: </strong>the 20 groups of professionals include agriculture, artists or athletes, business owners, education, employees or workers, independent professionals, industrialists, law and justice, mass communication, public health, science and technology, tourism-related professions, women, and elderly, disabled, or ethnic groups<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of the court president, 6 vice presidents, 60-70 judges, and organized into 10 divisions); Constitutional Court (consists of the court president and 8 judges); Supreme Administrative Court (number of judges determined by Judicial Commission of the Administrative Courts)<br>
@@ -401,8 +400,8 @@ _lyrics/music_: Luang SARANUPRAPAN/Phra JENDURIYANG<br>
 <strong>note:</strong> music adopted 1932, lyrics adopted 1939; by law, people are required to stand for the national anthem at 0800 and 1800 every day; the anthem is played in schools, offices, theaters, and on television and radio during this time; "Phleng Sanlasoen Phra Barami" (A Salute to the Monarch) serves as the royal anthem and is played in the presence of the royal family and during certain state ceremonies<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 7 (4 cultural, 3 natural)<br>
-_selected World Heritage Site locales_: Historic City of Ayutthaya (c); Historic Sukhothai and Associated Historic Towns (c); Thungyai-Huai Kha Khaeng Wildlife Sanctuaries (n); Ban Chiang Archaeological Site (c); Dong Phayayen-Khao Yai Forest Complex (n); Kaeng Krachan Forest Complex (n); The Ancient Town of Si Thep and its Associated Dvaravati Monuments (n)<br>
+_total World Heritage Sites_: 8 (5 cultural, 3 natural)<br>
+_selected World Heritage Site locales_: <p>Historic City of Ayutthaya (c); Historic Sukhothai and Associated Historic Towns (c); Thungyai-Huai Kha Khaeng Wildlife Sanctuaries (n); Ban Chiang Archaeological Site (c); Dong Phayayen-Khao Yai Forest Complex (n); Kaeng Krachan Forest Complex (n); The Ancient Town of Si Thep and its Associated Dvaravati Monuments (n); Phu Phrabat, a testimony to the Sīma stone tradition of the Dvaravati period (c)</p><br>
 
 ## Economy
 

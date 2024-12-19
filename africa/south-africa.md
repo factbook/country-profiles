@@ -344,7 +344,7 @@ _chief of state_: President Matamela Cyril RAMAPHOSA (since 19 June 2024)<br>
 _head of government_: President Matamela Cyril RAMAPHOSA (since 19 June 2024)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 29 May 2024 (next to be held in May 2029) note - the president is both chief of state and head of government<br>
-_election results_: <br><em>2024: </em>Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<em><br><br>2019: </em>Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<br><br><em>2014:</em> Jacob ZUMA (ANC) reelected president by the National Assembly unopposed  <p> </p><br>
+_election results_: <br><em>2024: </em>Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<em><br><br>2019: </em>Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<br><br>  <p> </p><br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br><br>National Council of Provinces (90 seats; nine 10-member delegations, each with 6 permanent delegates and 4 special delegates, appointed by each of the 9 provincial legislatures to serve 5-year terms)<br><br>National Assembly (400 seats; half the members directly elected in multi-seat constituencies and half in a single nationwide constituency, both by proportional representation popular vote; members serve 5-year terms)<br>
@@ -392,8 +392,8 @@ _lyrics/music_: Enoch SONTONGA and Cornelius Jacob LANGENHOVEN/Enoch SONTONGA an
 <strong>note:</strong> adopted 1994; a combination of "N'kosi Sikelel' iAfrica" (God Bless Africa) and "Die Stem van Suid Afrika" (The Call of South Africa), which were respectively the anthems of the non-white and white communities under apartheid; official lyrics contain a mixture of Xhosa, Zulu, Sesotho, Afrikaans, and English (i.e., the five most widely spoken of South Africa's 11 official languages); music incorporates the melody used in the Tanzanian and Zambian anthems<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 10 (5 cultural, 4 natural, 1 mixed)<br>
-_selected World Heritage Site locales_: Fossil Hominid Sites of South Africa (c); iSimangaliso Wetland Park (n); Robben Island (c); Maloti-Drakensberg Park (m); Mapungubwe Cultural Landscape (c); Cape Floral Region Protected Areas (n); Vredefort Dome (n); Richtersveld Cultural and Botanical Landscape (c); Khomani Cultural Landscape (c); Barberton Makhonjwa Mountains (n)<br>
+_total World Heritage Sites_: 12 (7 cultural, 4 natural, 1 mixed)<br>
+_selected World Heritage Site locales_: <p>Fossil Hominid Sites of South Africa (c); iSimangaliso Wetland Park (n); Robben Island (c); Maloti-Drakensberg Park (m); Mapungubwe Cultural Landscape (c); Cape Floral Region Protected Areas (n); Vredefort Dome (n); Richtersveld Cultural and Botanical Landscape (c); Khomani Cultural Landscape (c); Barberton Makhonjwa Mountains (n); Human Rights, Liberation and Reconciliation: Nelson Mandela Legacy Sites (c); The Emergence of Modern Human Behaviour: The Pleistocene Occupation Sites of South Africa (c)</p><br>
 
 ## Economy
 

@@ -338,7 +338,6 @@ _election results_: <br><em>2021: </em>Iris Xiomara CASTRO de Zelaya elected pre
 _description_: unicameral National Congress or Congreso Nacional (128 seats; members directly elected in 18 multi-seat constituencies by closed party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 28 November 2021 (next to be held on 30 November 2025)<br>
 _election results_: percent of vote by party - LIBRE 39.8%, PNH 31.3%, PL 16.4%, PSH 10.9%, DC 0.8%, PAC 0.8%; seats by party - LIBRE 51, PNH 40, PL 21, PSH 14, DC 1, PAC 1; composition - men 93, women 35, percentage women 27.3%<br>
-<strong>note:</strong> seats by party as of 1 May 2022 - LIBRE 50, PNH 44, PL 22, PSH 10, DC 1, PAC 1<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (15 principal judges, including the court president, and 6 alternates; court organized into civil, criminal, constitutional, and labor chambers); note - the court has both judicial and constitutional jurisdiction<br>

@@ -335,7 +335,7 @@ _election results_: <br><em>2020:</em> Mohammed Irfaan ALI (PPP/C) designated pr
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly (70 seats; 40 members directly elected in single-seat, nationwide constituencies, 25 directly elected in multi-seat constituencies -- all by closed-list proportional representation vote, 2 non-elected ministers, 2 non-elected parliamentary secretaries, and the speaker; members serve 5-year terms)<br>
-_elections_: ast held on 2 March 2020 (next to be held in 2025)<br>
+_elections_: last held on 2 March 2020 (next to be held in 2025)<br>
 _election results_: percent of vote by party - PPP/C 50.69%, APNU-AFC 47.34%, LJP 0.58%, ANUG 0.5%, TNM 0.05%, other 0.84%; seats by party - PPP/C 33, APNU-AFC 31, LJP-ANUG-TNM 1; composition - men 43, women 28, percentage women 39.4%; note - the initial results were declared invalid and a partial recount was conducted from 6 May to 8 June 2020, in which PPP/C was declared the winner<br>
 
 **Judicial branch**<br>

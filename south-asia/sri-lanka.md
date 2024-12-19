@@ -330,7 +330,7 @@ _residency requirement for naturalization_: 7 years<br>
 _chief of state_: President Anura Kumara DISSANAYAKE (since 23 September 2024)<br>
 _head of government_: Prime Minister Harini AMARASURIYA&nbsp; (since 24 September 2024)<br>
 _cabinet_: Cabinet appointed by the president in consultation with the prime minister<br>
-_elections/appointments_: president directly elected by preferential majority popular vote for a 5-year term (eligible for a second term); election last held on 21 September 2024 (next to be held in 2029)<br>
+_elections/appointments_: president directly elected by preferential majority popular vote for a 5-year term (eligible for a second term); election last held on 21 September 2024 (next to be held in 2029); prime minister appointed by the president<br>
 _election results_: <em><br>2024: </em>Anura Kumara DISSANAYAKE elected president; percent of vote after reallocation - Anura Kumara DISSANAYAKE (JVP) 55.9%, Sajith PREMADASA (SJB) 44.1%<br><em><br>2022: </em>Ranil WICKREMESINGHE elected president by Parliament on 20 July 2022; Parliament vote - WICKREMESINGHE (UNP) 134, Dullas ALAHAPPERUMA (SLPP) 82<br><br><br> <h3> </h3><br>
 
 **Legislative branch**<br>

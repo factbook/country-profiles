@@ -364,7 +364,7 @@ AGROunion or AU<br>Center for Poland or CdP<br>Civic Platform or PO<br>Confedera
 Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMIL, UNMISS, UNOCI, UNOOSA, UN Security Council (temporary), UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Adam KRZYWOSĄDZKI (since 31 July 2024)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Bogdan KLICH (since 18 November 2024)<br>
 _chancery_: 2640 16th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 499-1700<br>
 _FAX_: [1] (202) 328-2152<br>

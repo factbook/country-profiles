@@ -379,8 +379,8 @@ _lyrics/music_: Ibrahim KHAFAJI/Abdul Rahman al-KHATEEB<br>
 <strong>note:</strong> music adopted 1947, lyrics adopted 1984<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 7 (6 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Hegra Archaeological Site (al-Hijr / Madā ͐ in Ṣāliḥ) (c); At-Turaif District in ad-Dir'iyah (c); Historic Jeddah, the Gate to Makkah (c); Rock Art in the Hail Region (c); Al-Ahsa Oasis (c); Ḥimā Cultural Area (c); &lsquo;Uruq Bani Ma&rsquo;arid (n)<br>
+_total World Heritage Sites_: 7 (7 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: <p>Hegra Archaeological Site (al-Hijr / Madā ͐ in Ṣāliḥ) (c); At-Turaif District in ad-Dir'iyah (c); Historic Jeddah, the Gate to Makkah (c); Rock Art in the Hail Region of Saudi Arabia (c); Al-Ahsa Oasis, an Evolving Cultural Landscape (c); Ḥimā Cultural Area (c); ‘Uruq Bani Ma’arid (n);The Cultural Landscape of Al-Faw Archaeological Area (c)</p><br>
 
 ## Economy
 

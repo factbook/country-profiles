@@ -336,8 +336,8 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Peter PELLEGRINI (since 15 June 2024)<br>
 _head of government_: Prime Minister Robert FICO (since 25 October 2023)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election first round 23 March 2024 with a runoff on 6 April 2024 (next to be held in 2029); following National Council elections (every 4 years), the president designates a prime minister candidate, usually the leader of the party or coalition that wins the most votes, who must win a vote of confidence in the National Council<br>
-_election results_: <em><br>2024: </em>Peter PELLEGRINI elected president in the second round; percent of vote in first round - Ivan KORCOK (independent) 42.5%; Peter PELLEGRINI (Hlas-SD) 37%; Stefan HARABIN (independent) 11.7%, other 8.8%; percent of vote in second round Peter PELLEGRINI (Hlas-SD) 53.1%; Ivan KORCOK (independent) 46.9%<em><br><br>2019:</em> Zuzana CAPUTOVA elected president in second round; percent of vote - Zuzana CAPUTOVA (PS) 58.4%, Maros SEFCOVIC (independent) 41.6%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election first round held on 23 March 2024 with a runoff on 6 April 2024 (next to be held in 2029); following National Council elections (every 4 years), the president designates a prime minister candidate, usually the leader of the party or coalition that wins the most votes, who must win a vote of confidence in the National Council<br>
+_election results_: <em><br>2024: </em>Peter PELLEGRINI elected president in the second round; percent of vote in second round Peter PELLEGRINI 53.1%; Ivan KORCOK 46.9%; percent of vote in first round - Ivan KORCOK (independent) 42.5%; Peter PELLEGRINI (Hlas-SD) 37%; Stefan HARABIN (independent) 11.7%, other 8.8%; <em><br><br>2019:</em> Zuzana CAPUTOVA elected president in second round; percent of vote - Zuzana CAPUTOVA (PS) 58.4%, Maros SEFCOVIC (independent) 41.6%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Council or Narodna Rada (150 seats; members directly elected in a single- and multi-seat constituencies by closed, party-list proportional representation vote; members serve 4-year terms); 76 seats needed for a majority<br>
@@ -682,7 +682,7 @@ the military's inventory consists mostly of Soviet-era platforms; in recent year
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary military service for men and women; conscription in peacetime suspended in 2004 (2023)<br>
-<strong>note:</strong> as of 2021, women made up around 12% of the military's full-time personnel<br>
+<strong>note:</strong> as of 2021, women made up nearly 13% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 240 Cyprus (UNFICYP); up to 150 Latvia (NATO) (2024)<br>
