@@ -710,7 +710,7 @@ Armed Forces of the Argentine Republic (Fuerzas Armadas de la República Argenti
 0.8% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 80,000 active-duty personnel (50,000 Army; 17,000 Navy, including about 3,500 marines); 13,000 Air Force); estimated 20,000 Gendarmerie (2023)<br>
+approximately 75,000 active-duty personnel (46,000 Army; 16,000 Navy, including about 3,500 marines); 13,000 Air Force); estimated 20,000 Gendarmerie (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of Argentina's armed forces is a mix of domestically-produced and mostly older imported weapons, largely from Europe and the US; in recent years, France and the US have been the leading suppliers of equipment; Argentina has an indigenous defense industry that produces air, land, and naval systems (2024)<br>

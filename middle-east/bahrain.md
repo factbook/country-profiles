@@ -378,7 +378,7 @@ _selected World Heritage Site locales_: Dilmun Burial Mounds; Qal'at al-Bahrain 
 ## Economy
 
 **Economic overview**<br>
-growing, economically diverse Middle Eastern island economy; major recovery and balancing efforts to fulfill Economic Vision 2030; regional finance hub; increasing openness; high youth unemployment; water scarcity amid reservoir depletion<br>
+<p>high-income, growing Middle Eastern island economy; oil and aluminum exporter with diversification led by services, construction and manufacturing; regional finance and tourism hub; high public debt linked to oil revenue dependence and limited tax base; vulnerable to water reservoir depletion</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $85.491 billion (2023 est.)<br>
@@ -643,7 +643,7 @@ Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Roy
 4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 10,000 active personnel (7,500 Army; 1,000 Navy; 1,500 Air Force); approximately 3,000 National Guard (2023)<br>
+information varies; approximately 10,000 active personnel (7,500 Army; 1,000 Navy; 1,500 Air Force); approximately 3,000 National Guard (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists of a mix of equipment acquired from a wide variety of suppliers; in recent years, the US has been the leading supplier of arms to Bahrain (2024)<br>

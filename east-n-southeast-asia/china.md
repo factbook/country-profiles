@@ -721,7 +721,7 @@ seven of the world’s ten largest container ports are in China<br><br>
 ## Military and Security
 
 **Military and security forces**<br>
-People's Liberation Army (PLA): Ground Forces, Navy (PLAN, includes naval aviation), Navy Marine Corps (PLANMC), Air Force (PLAAF, includes airborne forces), Rocket Force (strategic missile force), Aerospace Force, Cyberspace Force, Information Support Force, Joint Logistics Support Force, People's Armed Police (PAP, includes Coast Guard, Border Defense Force, Internal Security Forces); PLA Reserve Force (2024)<br>
+People's Liberation Army (PLA): Ground Forces or People's Liberation Army Army (PLAA), Navy (PLAN, includes Marine Corps (PLANMC)), Air Force (PLAAF), Rocket Force (PLARF), Aerospace Force, Cyberspace Force, Information Support Force, Joint Logistics Support Force, People's Armed Police (PAP, includes Coast Guard, Border Defense Force, Internal Security Forces); PLA Reserve Force (2024)<br>
 <strong>note 1:</strong> the PAP is a paramilitary police component of China’s armed forces that is under the dual authority of the Central Committee of the Communist Party and the Central Military Commission and charged with internal security, law enforcement, counterterrorism, and maritime rights protection<br><br><strong>note 2: </strong>in 2018, the Coast Guard was moved from the State Oceanic Administration to the PAP; in 2013, China merged four of its five major maritime law enforcement agencies – the China Marine Surveillance (CMS), Maritime Police, Fishery Law Enforcement (FLE), and Anti-Smuggling Police – into a unified coast guard<br>
 
 **Military expenditures**<br>
@@ -732,7 +732,7 @@ People's Liberation Army (PLA): Ground Forces, Navy (PLAN, includes naval aviati
 1.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 2 million active-duty troops (approximately 1 million Ground; 250,000 Navy/Marines; 350-400,000 Air Force; 120,000 Rocket Forces; 150-175,000 Strategic Support Forces); estimated 600-650,000 People&rsquo;s Armed Police (2023)<br>
+approximately 2 million active-duty troops (approximately 950,000-1 million Ground; 250,000 Navy, including about 50,000 Marines; 350-400,000 Air Force; 120,000 Rocket Forces; 150-175,000 other forces); approximately 500,000 People&rsquo;s Armed Police (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the PLA has a mix of mostly modern domestically produced and imported weapons and equipment; most of its imported weaponry has come from Russia; China has one of the world's largest defense-industrial sectors and is capable of producing advanced weapons systems across all military domains (2024)<br>

@@ -382,7 +382,7 @@ _selected World Heritage Site locales_: Singapore Botanic Gardens<br>
 ## Economy
 
 **Economic overview**<br>
-high-income, service-based Southeast Asian economy; renowned for financial markets and Asian Infrastructure Exchange; business-driven regulations; low unemployment; electronics, oil, and chemicals exporter; continuing education investment<br>
+<p>high-income, service-based economy; global financial hub; business-friendly policies and open to investment and trade; inflation easing but persistent in services; public investments in education, healthcare, and infrastructure; strong human capital development challenged by aging population</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $754.758 billion (2023 est.)<br>

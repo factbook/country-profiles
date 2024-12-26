@@ -680,7 +680,7 @@ Georgian Defense Forces (GDF; aka Defense Forces of Georgia or DFG): Ground Forc
 1.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimates vary; approximately 30,000 troops, including active National Guard forces (2023)<br>
+information varies widely; estimated 35,000 active Defense Force troops (2023)<br>
 <strong>note: </strong>in December 2020, the Parliament of Georgia adopted a resolution determining that the Georgian Defense Forces would have a maximum peacetime strength of 37,000 troops<br>
 
 **Military equipment inventories and acquisitions**<br>

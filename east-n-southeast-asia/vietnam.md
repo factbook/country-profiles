@@ -696,7 +696,7 @@ People's Army of Vietnam (PAVN; aka Vietnam People's Army, VPA): Ground Forces, 
 information is limited and varied; estimated 450,000 active-duty troops; estimated 40,000 Border Defense Force and Coast Guard (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the PAVN is armed largely with weapons and equipment from Russia and the former Soviet Union; in recent years, Vietnam has moved to diversify arms its arms suppliers and has acquired items from countries such as India, South Korea, and the US; Vietnam has a small defense industry involved in the production of small arms, ground combat vehicles, and naval systems (2024)<br>
+the PAVN is armed largely with weapons and equipment from Russia and the former Soviet Union; in recent years, Vietnam has moved to diversify arms its arms suppliers and has acquired items from countries such as India, South Korea, and the US; Vietnam has a small defense industry involved in the manufacture of small arms, ground combat vehicles, and naval systems (2024)<br>
 <strong>note:</strong> the US lifted an embargo on arms sales to Vietnam in 2016<br>
 
 **Military service age and obligation**<br>

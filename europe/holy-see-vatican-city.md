@@ -196,7 +196,7 @@ _FAX_: [1] (202) 337-4036<br>
 _email address and website_: <br>nuntiususa@nuntiususa.org<br><br>http://www.nuntiususa.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Joe DONNELLY (since 11 April 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Laura HOCHLA (since 8 July 2024)<br>
 _embassy_: Via Sallustiana, 49, 00187 Rome<br>
 _mailing address_: 5660 Holy See Place, Washington DC&nbsp; 20521-5660<br>
 _telephone_: [39] (06) 4674-1<br>

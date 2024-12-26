@@ -279,8 +279,8 @@ _election results_: as leader of the majority party of the ruling coalition, Eve
 
 **Legislative branch**<br>
 _description_: unicameral Legislature or Staten (21 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 25 June 2021 (next to be held in June 2025)<br>
-_election results_: percent of vote by party MEP 35.3%, AVP 31.3%, ROOTS 9.4%, MAS 8%, Accion21 5.8%; seats by party - MEP 9, AVP 7, ROOTS 2, MAS 2, Accion21 1; composition - men 13, women 8, percentage women - 38.1%<br>
+_elections_: last held on 6 December 2024 (next to be held in 2028)<br>
+_election results_: percent of vote by party AVP 32.2%, MEP 31.7%, FUTURO 13.2%, PPA 6.4%; seats by party - AVP 9, MEP 8, FUTURO 3, PPA 1; composition - men NA, women NA, percentage women - NA%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (sits as a 3-judge panel); final appeals heard by the Supreme Court in The Hague, Netherlands<br>

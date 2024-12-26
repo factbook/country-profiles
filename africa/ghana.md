@@ -687,7 +687,7 @@ Ghana Armed Forces (GAF): Army, Navy, Air Force (2024)<br>
 0.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 16,000 active personnel (12,000 Army; 2,000 Navy; 2,000 Air Force) (2024)<br>
+approximately 16,000 active Armed Forces personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a mix of older and some newer Chinese, Russian, and Western equipment, including US, which has donated items such as patrol boats; the government in recent years has committed to an increase in funding for equipment acquisitions, including armor, mechanized, and special forces capabilities for the Army, light attack aircraft for the Air Force, and more modern coastal patrol vessels for the Navy (2024)<br>
