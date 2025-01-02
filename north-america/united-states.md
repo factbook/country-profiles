@@ -394,8 +394,8 @@ _lyrics/music_: Francis Scott KEY/John Stafford SMITH<br>
 <strong>note:</strong> adopted 1931; during the War of 1812, after witnessing the successful American defense of Fort McHenry in Baltimore following British naval bombardment, Francis Scott KEY wrote the lyrics to what would become the national anthem; the lyrics were set to the tune of "The Anacreontic Song"; only the first verse is sung<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 25 (12 cultural, 12 natural, 1 mixed); note - includes one site in Puerto Rico<br>
-_selected World Heritage Site locales_: Yellowstone National Park (n); Grand Canyon National Park (n); Cahokia Mounds State Historic Site (c); Independence Hall (c); Statue of Liberty (c); Yosemite National Park (n); Papahānaumokuākea (m); Monumental Earthworks of Poverty Point (c); The 20th-Century Architecture of Frank Lloyd Wright (c); Mesa Verde National Park (c); Mammoth Cave National Park (n); Monticello (c); Olympic National Park (n)<br>
+_total World Heritage Sites_: 26 (13 cultural, 12 natural, 1 mixed); note - includes one site in Puerto Rico<br>
+_selected World Heritage Site locales_: <p>Yellowstone National Park (n); Grand Canyon National Park (n); Cahokia Mounds State Historic Site (c); Independence Hall (c); Statue of Liberty (c); Yosemite National Park (n); Papahānaumokuākea (m); Monumental Earthworks of Poverty Point (c); The 20th-Century Architecture of Frank Lloyd Wright (c); Mesa Verde National Park (c); Mammoth Cave National Park (n); Monticello and the University of Virginia in Charlottesville (c); Olympic National Park (n); Everglades National Park (n); Kluane / Wrangell-St. Elias / Glacier Bay / Tatshenshini-Alsek (n); Redwood National and State Parks (n); Great Smoky Mountains National Park (n); La Fortaleza and San Juan National Historic Site in Puerto Rico (c); Chaco Culture (c); Hawaii Volcanoes National Park (n); Taos Pueblo (c); Carlsbad Caverns National Park (n); Waterton Glacier International Peace Park (n);  Moravian Church Settlements (c); San Antonio Missions (c);Hopewell Ceremonial Earthworks (c)</p><br>
 
 ## Economy
 

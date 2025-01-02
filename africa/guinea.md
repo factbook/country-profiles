@@ -648,7 +648,7 @@ _key ports_: Benti, Conakry, Kamsar, Victoria<br>
 
 **Military and security forces**<br>
 Guinean (or National) Armed Forces (Forces Armées Guinéennes): Army (Armée de terre), Air Force (Armée de l'air), Navy (Armée de mer), Presidential Security Battalion (Battailon Autonome de la Sécurité Presidentielle, BASP), National Gendarmerie (Gendarmerie Nationale) (2024)<br>
-<strong>note:</strong> the National Gendarmerie is overseen by the Ministry of Defense, while the National Police is under the Ministry of Security; the Gendarmerie and National Police share responsibility for internal security, but only the Gendarmerie can arrest police or military officials<br>
+<strong>note:</strong> the National Gendarmerie is overseen by the Ministry of Defense, while the National Police is under the Ministry of Security; the Gendarmerie and National Police share responsibility for internal security, but only the Gendarmerie can arrest police or military officials; Guinea's military and security forces are sometimes collectively referred to as the Defense and Security Forces<br>
 
 **Military expenditures**<br>
 2.2% of GDP (2023 est.)<br>
@@ -658,7 +658,7 @@ Guinean (or National) Armed Forces (Forces Armées Guinéennes): Army (Armée de
 1.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 12,000 active personnel, including about 1,500 Gendarmerie (2023)<br>
+estimated 10-15,000 Armed Forces personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Guinean military's inventory consists almost entirely of Soviet-era weapons and equipment along with small amounts of secondhand material from China, France, Russia, and South Africa&nbsp; (2024)<br>
