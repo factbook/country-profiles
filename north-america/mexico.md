@@ -366,10 +366,31 @@ _election results_: <br><em>2024: </em>Claudia SHEINBAUM Pardo elected president
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: <p>bicameral National Congress or Congreso de la Unión consists of:<br>Senate or Cámara de Senadores (128 seats; 96 members directly elected in multi-seat constituencies by simple majority vote and 32 directly elected in a single, nationwide constituency by proportional representation vote; members serve 6-year terms)<br>Chamber of Deputies or Cámara de Diputados (500 seats; 300 members directly elected in single-seat constituencies by simple majority vote and 200 directly elected in a single, nationwide constituency by proportional representation vote; members serve 3-year terms)</p><br>
-_elections_: Senate - last held on 2 June 2024 (next to be held in 2030)<br>Chamber of Deputies - last held on 2 June 2024 (next to be held in 2027)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; note - awaiting official results from the 2 June 2024 election<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - NA; note - awaiting official results from the 2 June 2024 election<br>
+_legislature name_: Congress of the Union (Congreso de la Unión)<br>
+_legislative structure_: bicameral<br>
 <strong>note: </strong>as of the 2018 election, senators will be eligible for a second term and deputies up to 4 consecutive terms<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: Chamber of Deputies (Cámara de Diputados)<br>
+_number of seats_: 500 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 3 years<br>
+_most recent election date_: 6/2/2024<br>
+_parties elected and seats per party_: National Regeneration Movement (MORENA) (236); Ecologist Green Party of Mexico (PVEM) (77); National Action Party (PAN) (72); Labour Party (PT) (51); Institutional Revolutionary Party (PRI) (35); Citizens' Movement (MC) (27); Other (2)<br>
+_percentage of women in chamber_: 50.2%<br>
+_expected date of next election_: June 2027<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Cámara de Senadores)<br>
+_number of seats_: 128 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 6 years<br>
+_most recent election date_: 6/2/2024<br>
+_parties elected and seats per party_: National Regeneration Movement (MORENA) (60); National Action Party (PAN) (22); Institutional Revolutionary Party (PRI) (16); Ecologist Green Party of Mexico (PVEM) (14); Labour Party (PT) (9); Other (7)<br>
+_percentage of women in chamber_: 50%<br>
+_expected date of next election_: June 2030<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Suprema Corte de Justicia de la Naci&oacute;n (consists of the chief justice and 11 justices and organized into civil, criminal, administrative, and labor panels) and the Electoral Tribunal of the Federal Judiciary (organized into the superior court, with 7 judges including the court president, and 5 regional courts, each with 3 judges)<br>
@@ -425,20 +446,20 @@ _selected World Heritage Site locales_: Historic Mexico City (c); Earliest 16th-
 
 **Real GDP (purchasing power parity)**<br>
 $2.873 trillion (2023 est.)<br>
-$2.783 trillion (2022 est.)<br>
-$2.678 trillion (2021 est.)<br>
+$2.784 trillion (2022 est.)<br>
+$2.685 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.23% (2023 est.)<br>
-3.95% (2022 est.)<br>
+3.2% (2023 est.)<br>
+3.69% (2022 est.)<br>
 5.74% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$22,400 (2023 est.)<br>
-$21,800 (2022 est.)<br>
-$21,100 (2021 est.)<br>
+$22,100 (2023 est.)<br>
+$21,600 (2022 est.)<br>
+$21,000 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -458,18 +479,18 @@ _Standard & Poors rating_: BBB (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 4% (2023 est.)<br>
-_industry_: 31.8% (2023 est.)<br>
-_services_: 58.3% (2023 est.)<br>
+_agriculture_: 3.8% (2023 est.)<br>
+_industry_: 31.6% (2023 est.)<br>
+_services_: 58.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 70.4% (2023 est.)<br>
-_government consumption_: 11% (2023 est.)<br>
-_investment in fixed capital_: 24.4% (2023 est.)<br>
-_investment in inventories_: 0.4% (2023 est.)<br>
-_exports of goods and services_: 36.2% (2023 est.)<br>
-_imports of goods and services_: -37.9% (2023 est.)<br>
+_household consumption_: 70.3% (2023 est.)<br>
+_government consumption_: 11.1% (2023 est.)<br>
+_investment in fixed capital_: 24.3% (2023 est.)<br>
+_investment in inventories_: 0.3% (2023 est.)<br>
+_exports of goods and services_: 36% (2023 est.)<br>
+_imports of goods and services_: -37.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -480,11 +501,11 @@ sugarcane, maize, milk, oranges, sorghum, tomatoes, chicken, wheat, chilies/pepp
 food and beverages, tobacco, chemicals, iron and steel, petroleum, mining, textiles, clothing, motor vehicles, consumer durables, tourism<br>
 
 **Industrial production growth rate**<br>
-3.52% (2023 est.)<br>
+3.51% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-60.042 million (2023 est.)<br>
+59.925 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -519,7 +540,7 @@ _highest 10%_: 34.4% (2022 est.)<br>
 **Remittances**<br>
 3.7% of GDP (2023 est.)<br>
 4.2% of GDP (2022 est.)<br>
-4.19% of GDP (2021 est.)<br>
+4.18% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -528,22 +549,22 @@ _expenditures_: $327.211 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-44.05% of GDP (2022 est.)<br>
+45.26% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-13.44% (of GDP) (2022 est.)<br>
+14.27% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$5.716 billion (2023 est.)<br>
--$17.667 billion (2022 est.)<br>
--$4.493 billion (2021 est.)<br>
+-$5.477 billion (2023 est.)<br>
+-$17.599 billion (2022 est.)<br>
+-$4.494 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$649.312 billion (2023 est.)<br>
-$630.384 billion (2022 est.)<br>
+$649.729 billion (2023 est.)<br>
+$630.347 billion (2022 est.)<br>
 $537.714 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
@@ -556,7 +577,7 @@ cars, computers, vehicle parts/accessories, crude petroleum, trucks (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$673.828 billion (2023 est.)<br>
+$674.695 billion (2023 est.)<br>
 $672.914 billion (2022 est.)<br>
 $560.842 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -576,7 +597,7 @@ $207.799 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$286.005 billion (2022 est.)<br>
+$313.204 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

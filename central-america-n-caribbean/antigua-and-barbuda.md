@@ -304,9 +304,28 @@ _cabinet_: Council of Ministers appointed by the governor general on the advice 
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (17 seats; members appointed by the governor general on the advice of the prime minister and leader of the opposition; members served 5-year terms)<br>House of Representatives (19 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms; in addition, 1 ex-officio seat is allocated for the attorney general and 1 seat for the speaker of the House - elected by the House membership following its first post-election session)<br>
-_elections_: Senate - last appointed on 17 February 2023 (next appointments in 2028)<br>House of Representatives - last held on 18 January 2023 (next to be held in March 2028)<br>
-_election results_: Senate - composition - men 10, women 7, percentage women 41.2%<br><br>House of Representatives - percent of vote by party - ABLP 47.1%, UPP 45.2%, BPM 1.5%, independent 5.2%; seats by party - ABLP 9, UPP 6, BPM 1, independent 1; composition - men 17, women 1, percentage women 5.6%; total Parliament percentage women 22.9%<br>
+_legislature name_: Parliament<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives<br>
+_number of seats_: 18 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 1/18/2023<br>
+_parties elected and seats per party_: Antigua and Barbuda Labour Party (ABLP) (9); United Progressive Party (UPP) (6); Barbuda People's Movement (BPM) (1); Independents (1)<br>
+_percentage of women in chamber_: 5.6%<br>
+_expected date of next election_: January 2028<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate<br>
+_number of seats_: 17 (all appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 2/17/2023<br>
+_percentage of women in chamber_: 41.2%<br>
+_expected date of next election_: February 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Antigua and Barbuda<br>
@@ -512,7 +531,7 @@ _domestic_: fixed-line teledensity roughly 27 per 100 persons; mobile-cellular t
 _international_: country code - 1-268; landing points for the ECFS and&nbsp;Southern Caribbean Fiber&nbsp;submarine cable systems with links to other islands in the eastern Caribbean; satellite earth stations&nbsp;- 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-state-controlled Antigua and Barbuda Broadcasting Service (ABS) operates 1 TV station; multi-channel cable TV subscription services are available; ABS operates 1 radio station; roughly 15 radio stations, some broadcasting on multiple frequencies<br>
+state-controlled Antigua and Barbuda Broadcasting Service (ABS) operates 1 TV station; multi-channel cable TV subscription services are available; ABS operates 1 radio station; roughly 20 radio stations (2024)<br>
 
 **Internet country code**<br>
 .ag<br>

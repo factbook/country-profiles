@@ -342,9 +342,28 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2020:</em> Alyaksandr LUKASHENKA reelected president; percent of vote - Alyaksandr LUKASHENKA (independent) 80.1%, Svyatlana TSIKHANOWSKAYA (independent) 10.1%, other 9.8%; note - widespread street protests erupted following announcement of the election results amid allegations of voter fraud<br><em><br>2015:</em> Alyaksandr LUKASHENKA elected president; percent of vote - Alyaksandr LUKASHENKA (independent) 84.1%, Tatsyana KARATKEVIC (BSDPH) 4.4%, Sergey GAYDUKEVICH (LDP) 3.3%, other 8.2%.<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Assembly or Natsyyalny Skhod consists of:<br>Council of the Republic or Savet Respubliki (65 seats statutory, currently 58; 56 members indirectly elected by regional and Minsk city councils and 8 members appointed by the president; members serve 4-year terms)<br>House of Representatives or Palata Pradstawnikow (110 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms)<br>
-_elections_: Council of the Republic - indirect election last held on 4 April 2024 (next to be held in 2029)<br>House of Representatives - last held on 25 February 2024 (next to be held in 2028)<br>
-_election results_: Council of the Republic - percent of vote by party - NA; seats by party - independent 58, other 2; composition - men 42, women 16, percentage women 27.6%<br><br>House of Representatives - percent of vote by party - NA; seats by party - Belaya Rus 51, RPTS 8, CPB 7, LDPB 4, independent 40; composition - men 73, women 37, percentage women 33.6%; note - total National Assembly percentage women 31.5%<br>
+_legislature name_: National Assembly (Natsionalnoye Sobranie)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives (Palata Predstaviteley)<br>
+_number of seats_: 110 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 2/25/2024<br>
+_parties elected and seats per party_: Belaya Rus party (51); Republican Party of Labour and Justice (8); Communist Party of Belarus (7); Non-partisans (40); Other (4)<br>
+_percentage of women in chamber_: 33.6%<br>
+_expected date of next election_: February 2029<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Council of the Republic (Soviet Respubliki)<br>
+_number of seats_: 65 (56 indirectly elected; 8 appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 4/4/2024<br>
+_percentage of women in chamber_: 30.5%<br>
+_expected date of next election_: March 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chairman and deputy chairman and organized into several specialized panels, including economic and military; number of judges set by the president of the republic and the court chairman); Constitutional Court (consists of 12 judges, including a chairman and deputy chairman)<br>
@@ -449,11 +468,11 @@ milk, sugar beets, potatoes, wheat, triticale, barley, maize, rapeseed, rye, app
 metal-cutting machine tools, tractors, trucks, earthmovers, motorcycles, synthetic fibers, fertilizer, textiles, refrigerators, washing machines and other household appliances<br>
 
 **Industrial production growth rate**<br>
-8.12% (2023 est.)<br>
+8.42% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.956 million (2023 est.)<br>
+4.954 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -469,7 +488,7 @@ _female_: 9.8% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-4.8% (2020 est.)<br>
+3.9% (2022 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -481,13 +500,13 @@ _on food_: 31.7% of household expenditures (2022 est.)<br>
 _on alcohol and tobacco_: 7.7% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4.4% (2020 est.)<br>
+_lowest 10%_: 4.5% (2020 est.)<br>
 _highest 10%_: 20.7% (2020 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.85% of GDP (2023 est.)<br>
-1.99% of GDP (2022 est.)<br>
+1.75% of GDP (2023 est.)<br>
+2.02% of GDP (2022 est.)<br>
 1.65% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -501,18 +520,18 @@ _expenditures_: $20.856 billion (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-11.23% (of GDP) (2022 est.)<br>
+12.81% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.02 billion (2023 est.)<br>
-$2.539 billion (2022 est.)<br>
-$2.157 billion (2021 est.)<br>
+-$1.109 billion (2023 est.)<br>
+$2.628 billion (2022 est.)<br>
+$2.137 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$47.87 billion (2023 est.)<br>
-$46.878 billion (2022 est.)<br>
+$47.714 billion (2023 est.)<br>
+$47.124 billion (2022 est.)<br>
 $49.435 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
@@ -525,9 +544,9 @@ fertilizers, refined petroleum, rapeseed oil, wood, beef (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$47.398 billion (2023 est.)<br>
-$42.289 billion (2022 est.)<br>
-$45.465 billion (2021 est.)<br>
+$47.464 billion (2023 est.)<br>
+$42.438 billion (2022 est.)<br>
+$45.485 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -543,6 +562,9 @@ $8.118 billion (2023 est.)<br>
 $7.923 billion (2022 est.)<br>
 $8.425 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+
+**Debt - external**<br>
+$18.096 billion (2023 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Belarusian rubles (BYB/BYR) per US dollar -<br>

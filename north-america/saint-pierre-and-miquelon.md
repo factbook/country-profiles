@@ -263,9 +263,15 @@ _elections/appointments_: French president directly elected by absolute majority
 _election results_: <br><em>2020: </em>Bernard BRIAND elected President of Territorial Council; Territorial Council vote - 17 for, 2 abstentions<br><br><em>2017:</em> Stephane LENORMAND elected President of Territorial Council vote - NA<br>
 
 **Legislative branch**<br>
-_description_: unicameral Territorial Council or Conseil Territorial (19 seats - Saint Pierre 15, Miquelon 4; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 6-year terms)<br>
-_elections_: Territorial Council - first round held on 20 March and second round held on 27 March 2022 (next to be held in March 2028)<br><br>French Senate - last held on 27 September 2020 (next to be held no later than September 2025)<br><br>French National Assembly - last held on 12 and 19 June 2022 (next to be held by June 2027)<br>
-_election results_: Territorial Council - percent of vote by party in first round - AD 45.9%, Focus on the Future 37%, Together to Build 17.1%; percent of vote by party in second round - AD 51.8%, Focus on the Future 38.1%, Together to Build 10.1%, seats by party - AD 15, Focus on the Future 4; composition - men NA, women NA, percent of women NA%<br><br>French Senate - percent of vote by party - NA; seats by party - PS 1 (affiliated with UMP)<br><br>French National Assembly - percent of vote by party - NA; seats by party - AD 1<br>
+_legislature name_: Territorial Council (Conseil Territorial)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 19 (directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 6 years<br>
+_most recent election date_: 3/27/2022<br>
+_parties elected and seats per party_: AD (15); Focus on the Future (4)<br>
+_expected date of next election_: March 2028<br>
 <strong>note:</strong> 1 senator is indirectly elected to the French Senate by an electoral college for a 6-year term, and 1 deputy is directly elected to the French National Assembly for a 5-year term<br>
 
 **Judicial branch**<br>

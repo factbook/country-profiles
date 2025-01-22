@@ -324,9 +324,28 @@ _cabinet_: Cabinet recommended by the prime minister, confirmed by the monarch; 
 _elections/appointments_: the monarchy is hereditary; prime minister appointed by the monarch from among members of the House of Assembly<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Libandla consists of:<br> Senate (30 seats; 20 members appointed by the monarch and 10 indirectly elected by simple majority vote by the House of Assembly; members serve 5-year terms)<br>House of Assembly (70 seats statutory, current 69; 59 members directly elected in single-seat constituencies or tinkhundla by absolute majority vote in 2 rounds if needed, 10 members appointed by the monarch, and 1 ex-officio member - the attorney general; members serve 5-year terms)<br>
-_elections_: Senate - last election held on 12 October 2023 , senate fully constituted on November 5 when monarch appointed remaining 20 senators; (next to be held in 2028)<br>House of Assembly - last held on 29 September 2023 (next to be held in 2028)<br>
-_election results_: Senate - percent of seats by party - NA; seats by party - NA; composition - men 16, women 14, percentage women 46.7%<br><br>House of Assembly - percent of vote by party - NA; seats by party - independent 59; composition - men 58, women 16, percent of women 17.14%; total Parliament percentage women 28.8%<br>
+_legislature name_: Parliament (Libandla)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Assembly<br>
+_number of seats_: 74 (59 directly elected; 4 indirectly elected; 10 appointed)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 9/29/2023<br>
+_percentage of women in chamber_: 21.6%<br>
+_expected date of next election_: September 2028<br>
+<strong>note:</strong> four women, one representing each region, elected by the members if representation of elected women is less than 30%<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate<br>
+_number of seats_: 30 (10 indirectly elected; 20 appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 11/6/2023<br>
+_percentage of women in chamber_: 46.7%<br>
+_expected date of next election_: November 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and at least 4 justices) and the High Court (consists of the chief justice - ex officio - and 4 justices); note - the Supreme Court has jurisdiction in all constitutional matters<br>
@@ -371,25 +390,25 @@ _lyrics/music_: Andrease Enoke Fanyana SIMELANE/David Kenneth RYCROFT<br>
 landlocked southern African economy; South African trade dependent and currency pegging; CMA and SACU member state; COVID-19 economic slowdown; growing utilities inflation; persistent poverty and unemployment; HIV/AIDS labor force disruptions<br>
 
 **Real GDP (purchasing power parity)**<br>
-$12.814 billion (2023 est.)<br>
-$12.222 billion (2022 est.)<br>
-$12.164 billion (2021 est.)<br>
+$12.468 billion (2023 est.)<br>
+$11.872 billion (2022 est.)<br>
+$11.88 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.84% (2023 est.)<br>
-0.48% (2022 est.)<br>
+5.01% (2023 est.)<br>
+-0.07% (2022 est.)<br>
 10.68% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$10,600 (2023 est.)<br>
-$10,200 (2022 est.)<br>
-$10,200 (2021 est.)<br>
+$10,100 (2023 est.)<br>
+$9,700 (2022 est.)<br>
+$9,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$4.598 billion (2023 est.)<br>
+$4.443 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -403,9 +422,9 @@ _Moody's rating_: B3 (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 8.1% (2023 est.)<br>
-_industry_: 33.5% (2023 est.)<br>
-_services_: 53.5% (2023 est.)<br>
+_agriculture_: 7.1% (2023 est.)<br>
+_industry_: 34.6% (2023 est.)<br>
+_services_: 51.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -424,11 +443,11 @@ sugarcane, maize, root vegetables, grapefruits, oranges, milk, pineapples, banan
 soft drink concentrates, coal, forestry, sugar processing, textiles, and apparel<br>
 
 **Industrial production growth rate**<br>
-1.53% (2023 est.)<br>
+0.39% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-405,000 (2023 est.)<br>
+416,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -457,9 +476,9 @@ _highest 10%_: 42.7% (2016 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.62% of GDP (2023 est.)<br>
-2.64% of GDP (2022 est.)<br>
-2.72% of GDP (2021 est.)<br>
+1.8% of GDP (2023 est.)<br>
+2.69% of GDP (2022 est.)<br>
+2.79% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -468,21 +487,21 @@ _expenditures_: $1.183 billion (2021 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-35.4% of GDP (2021 est.)<br>
+36.25% of GDP (2021 est.)<br>
 
 **Taxes and other revenues**<br>
-24.13% (of GDP) (2021 est.)<br>
+24.7% (of GDP) (2021 est.)<br>
 
 **Current account balance**<br>
+$107.534 million (2023 est.)<br>
 -$140.972 million (2022 est.)<br>
 $125.318 million (2021 est.)<br>
-$270.942 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$2.174 billion (2023 est.)<br>
 $2.095 billion (2022 est.)<br>
 $2.132 billion (2021 est.)<br>
-$1.808 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -494,9 +513,9 @@ scented mixtures, raw sugar, garments, industrial acids/oils/alcohols, wood (202
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$2.351 billion (2023 est.)<br>
 $2.288 billion (2022 est.)<br>
 $2.173 billion (2021 est.)<br>
-$1.686 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -514,7 +533,7 @@ $572.282 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$758.868 million (2022 est.)<br>
+$959.627 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

@@ -325,9 +325,16 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2019:</em> Umaro Sissoco EMBALO elected president in second round; percent of vote in first round - Domingos Simoes PEREIRA (PAIGC) 40.1%, Umaro Sissoco EMBALO (Madem G15) 27.7%, Nuno Gomez NABIAM (APU-PDGB) 13.2%, Jose Mario VAZ (independent) 12.4%, other 6.6%; percent of vote in second round - Umaro Sissoco EMBALO 53.6%, Domingos Simoes PEREIRA 46.5%<br><br><em>2014:</em> Jose Mario VAZ elected president in second round; percent of vote in first round - Jose Mario VAZ (PAIGC) 41%, Nuno Gomez NABIAM (independent) 25.1%, other 33.9%; percent of vote in second round - Jose Mario VAZ 61.9%, Nuno Gomez NABIAM 38.1%  (2019)<br>
 
 **Legislative branch**<br>
-_description_: unicameral National People's Assembly or Assembleia Nacional Popular (102 seats; 100 members directly elected in 27 multi-seat constituencies by closed party-list proportional representation vote and 2 elected in single-seat constituencies for citizens living abroad (Africa 1, Europe 1); all members serve 4-year terms)<br>
-_elections_: last held on 4 June 2023 (next to be held on 30 June 2027); note - on 4 December 2023 the president dissolved the parliament with new elections to be held at a future date<br>
-_election results_: percent of vote by party - PAIGC 39.4%, Madem G-15 21.1%, PRS 14.9%, other 12.5%; seats by party - PAIGC 54, Madem G-15 29, PRS- 12, other 7; composition - men 92, women 10, percentage women 9.8%<br>
+_legislature name_: People's National Assembly (Assembleia Nacional Popular)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 102 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 6/4/2023<br>
+_parties elected and seats per party_: Inclusive Alliance Platform/Terra Coalition (54); Movement for Democratic Alternation (MADEM G.15) (29); Party for Social Renewal (PRS) (12); Bissau-Guinean Workers’ Party (6); Other (1)<br>
+_percentage of women in chamber_: 9.8%<br>
+_expected date of next election_: December 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Supremo Tribunal de Justica (consists of 9 judges and organized into Civil, Criminal, and Social and Administrative Disputes Chambers); note - the Supreme Court has both appellate and constitutional jurisdiction<br>
@@ -369,25 +376,25 @@ _lyrics/music_: Amilcar Lopes CABRAL/XIAO He<br>
 extremely poor West African economy; ethnically diverse labor force; increasing government expenditures; slight inflation due to food supply disruptions; major cashew exporter; systemic banking instabilities and corruption; vulnerable to oil price shocks<br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.099 billion (2023 est.)<br>
-$4.892 billion (2022 est.)<br>
-$4.694 billion (2021 est.)<br>
+$5.553 billion (2023 est.)<br>
+$5.279 billion (2022 est.)<br>
+$5.046 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.25% (2023 est.)<br>
-4.2% (2022 est.)<br>
+5.2% (2023 est.)<br>
+4.61% (2022 est.)<br>
 6.4% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$2,400 (2023 est.)<br>
-$2,300 (2022 est.)<br>
-$2,300 (2021 est.)<br>
+$2,600 (2023 est.)<br>
+$2,500 (2022 est.)<br>
+$2,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.966 billion (2023 est.)<br>
+$2.048 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -397,18 +404,18 @@ $1.966 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 33.7% (2023 est.)<br>
-_industry_: 16.1% (2023 est.)<br>
-_services_: 45.1% (2023 est.)<br>
+_agriculture_: 30.7% (2023 est.)<br>
+_industry_: 18.8% (2023 est.)<br>
+_services_: 46.1% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 66.6% (2023 est.)<br>
-_government consumption_: 19% (2023 est.)<br>
-_investment in fixed capital_: 23.8% (2023 est.)<br>
-_investment in inventories_: 0.2% (2023 est.)<br>
-_exports of goods and services_: 17.9% (2023 est.)<br>
-_imports of goods and services_: -28.3% (2023 est.)<br>
+_household consumption_: 73.9% (2023 est.)<br>
+_government consumption_: 16.4% (2023 est.)<br>
+_investment in fixed capital_: 19.4% (2023 est.)<br>
+_investment in inventories_: 4.6% (2023 est.)<br>
+_exports of goods and services_: 13.9% (2023 est.)<br>
+_imports of goods and services_: -28.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -419,11 +426,11 @@ rice, groundnuts, cashews, root vegetables, oil palm fruit, plantains, cassava, 
 agricultural products processing, beer, soft drinks<br>
 
 **Industrial production growth rate**<br>
-4% (2023 est.)<br>
+11.58% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-726,000 (2023 est.)<br>
+732,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -439,7 +446,7 @@ _female_: 4.2% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-47.7% (2018 est.)<br>
+50.5% (2021 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -452,9 +459,9 @@ _highest 10%_: 26.1% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-9.38% of GDP (2023 est.)<br>
-12.02% of GDP (2022 est.)<br>
-11.95% of GDP (2021 est.)<br>
+10.06% of GDP (2023 est.)<br>
+10.59% of GDP (2022 est.)<br>
+11.12% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -466,7 +473,7 @@ _expenditures_: $210.858 million (2019 est.)<br>
 53.9% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-9.16% (of GDP) (2019 est.)<br>
+8.57% (of GDP) (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -508,7 +515,7 @@ $356.4 million (31 December 2017 est.)<br>
 $349.4 million (31 December 2016 est.)<br>
 
 **Debt - external**<br>
-$808.187 million (2022 est.)<br>
+$962.442 million (2023 est.)<br>
 <strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

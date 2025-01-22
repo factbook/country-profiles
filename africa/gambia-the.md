@@ -338,9 +338,16 @@ _elections/appointments_: president directly elected by simple majority popular 
 _election results_: <em><br>2021: </em>Adama BARROW reelected president; percent of vote - Adama BARROW (NPP) 53.2%, Ousainou DARBOE (UDP) 27.7%, Mamma KANDEH (GDC) 12.3%, other 6.8%<br><br><em>2016: </em>Adama BARROW elected president; percent of vote - Adama BARROW (Coalition 2016) 43.3%, Yahya JAMMEH (APRC) 39.6%, Mamma KANDEH (GDC) 17.1%<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly (58 seats; 53 members directly elected in single-seat constituencies by simple majority vote and 5 appointed by the president; members serve 5-year terms)<br>
-_elections_: last held on 9 April 2022 (next to be held in 2027)<br>
-_election results_: percent of vote by party - NPP 33.9%, UDP 28.3%, independent 22.6%, NRP 7.5%, PDOIS 3.7%, APRL 3.7%; seats by party - NPP 18, UDP 15, independent 12, NRP 4, APRL 2, PDOIS 2; composition - men 53, women 5, percentage women 8.6%<br>
+_legislature name_: National Assembly<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 58 (53 directly elected; 5 appointed)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 4/9/2022<br>
+_parties elected and seats per party_: National People's Party (NPP) (18); United Democratic Party (UDP) (15); National Reconciliation Party (NRP) (4); Independents (12); Other (4)<br>
+_percentage of women in chamber_: 8.6%<br>
+_expected date of next election_: April 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of The Gambia (consists of the chief justice and 6 justices; court sessions held with 5 justices)<br>
@@ -389,25 +396,25 @@ _selected World Heritage Site locales_: Kunta Kinteh Island and Related Sites; S
 low-income West African economy; agriculture-dominant; high poverty rate; heightened inflation; dependent on foreign assistance and remittances; structural reforms conditioned by IMF Extended Credit Facility program<br>
 
 **Real GDP (purchasing power parity)**<br>
-$7.905 billion (2023 est.)<br>
-$7.508 billion (2022 est.)<br>
+$7.911 billion (2023 est.)<br>
+$7.549 billion (2022 est.)<br>
 $7.156 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.3% (2023 est.)<br>
-4.92% (2022 est.)<br>
+4.8% (2023 est.)<br>
+5.49% (2022 est.)<br>
 5.26% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $2,900 (2023 est.)<br>
-$2,800 (2022 est.)<br>
-$2,700 (2021 est.)<br>
+$2,900 (2022 est.)<br>
+$2,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.34 billion (2023 est.)<br>
+$2.396 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -417,17 +424,18 @@ $2.34 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 24.6% (2023 est.)<br>
-_industry_: 15.2% (2023 est.)<br>
-_services_: 51.5% (2023 est.)<br>
+_agriculture_: 23.2% (2023 est.)<br>
+_industry_: 16.7% (2023 est.)<br>
+_services_: 53.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 81.6% (2023 est.)<br>
-_government consumption_: 8.8% (2023 est.)<br>
-_investment in fixed capital_: 39.3% (2023 est.)<br>
-_exports of goods and services_: 5.4% (2023 est.)<br>
-_imports of goods and services_: -35.1% (2023 est.)<br>
+_household consumption_: 85.9% (2023 est.)<br>
+_government consumption_: 7.4% (2023 est.)<br>
+_investment in fixed capital_: 27.3% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
+_exports of goods and services_: 9.6% (2023 est.)<br>
+_imports of goods and services_: -32.8% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -438,11 +446,11 @@ groundnuts, milk, rice, millet, oil palm fruit, maize, vegetables, cassava, frui
 peanuts, fish, hides, tourism, beverages, agricultural machinery assembly, woodworking, metalworking, clothing<br>
 
 **Industrial production growth rate**<br>
-6.5% (2023 est.)<br>
+10.15% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-969,000 (2023 est.)<br>
+973,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -467,12 +475,12 @@ _female_: 10.4% (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6% (2020 est.)<br>
-_highest 10%_: 30.6% (2020 est.)<br>
+_highest 10%_: 30.5% (2020 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-26.82% of GDP (2023 est.)<br>
-23.07% of GDP (2022 est.)<br>
+21.9% of GDP (2023 est.)<br>
+22.76% of GDP (2022 est.)<br>
 27.16% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -488,15 +496,15 @@ _expenditures_: $221.137 million (2018 est.)<br>
 20.3% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
+-$204.132 million (2023 est.)<br>
 -$90.251 million (2022 est.)<br>
 -$86.877 million (2021 est.)<br>
--$86.553 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$643.689 million (2023 est.)<br>
 $267.377 million (2022 est.)<br>
 $142.652 million (2021 est.)<br>
-$175.682 million (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -508,9 +516,9 @@ coconuts/Brazil nuts/cashews, wood, shellfish, scrap iron, fish oil (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$1.38 billion (2023 est.)<br>
 $829.516 million (2022 est.)<br>
 $726.23 million (2021 est.)<br>
-$690.979 million (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -528,7 +536,7 @@ $652.671 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$696.707 million (2022 est.)<br>
+$971.426 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

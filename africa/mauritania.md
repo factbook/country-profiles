@@ -354,9 +354,16 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2024:</em> Mohamed Ould Cheikh el GHAZOUANI reelected president in first round; percent of vote - Mohamed Ould Cheikh el GHAZOUANI (UPR) 56.1%, Biram Dah Ould ABEID (independent) 22.1%, Hamadi Sidi el MOKHTAR independent) 12.8%, other 9.0%<br><em><br>2019:</em> Mohamed Ould Cheikh el GHAZOUANI elected president in first round; percent of vote - Mohamed Ould Cheikh el GHAZOUANI (UPR) 52%, Biram Dah Ould ABEID (independent) 18.6%, Sidi Mohamed Ould BOUBACAR (independent) 17.9%, other 11.5%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Barlamane consists of:<br>Senate or Majlis al-Shuyukh (56 seats, 53 members elected for a six-year term by municipal councilors, with one third renewed every two years) <br>National Assembly or Al Jamiya Al Wataniya (176 seats statutory; 88 members filled from one or two seat constituencies elected by a two-round majority system and the other 88 members filled from a single, nationwide constituency directly elected by proportional representation vote); 20 seats are reserved for women candidates in the nationwide constituency, 11 seats are reserved for young candidates (aged between 25 and 35), and 4 members directly elected by the diaspora; all members serve 5-year terms<br>
-_elections_: last held on 13 May 2023 with a second round on 27 May 2023 (next to be held in May 2028)<br>
-_election results_: National Assembly - percent of vote by party - NA; seats by party - El Insaf 107, Tawassoul 11, UDP 10, FRUD 7, El Islah 6, AND 6, El Karama 5, Nida Al-Watan 5, Sawab 5, AJD/MR 4, HIWAR 3, HATEM 3, El Vadila 2, UPC 1, Hakam 1; composition- men 135, women 41, percentage women 23.3%<br>
+_legislature name_: Parliament (Barlamane)<br>
+_legislative structure_: unicameral<br>
+_chamber name_: National Assembly (Al Jamiya-Al-Wataniya)<br>
+_number of seats_: 176 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 5/13/2023 to 5/27/2023<br>
+_percentage of women in chamber_: 23.3%<br>
+_expected date of next election_: May 2028<br>
 <strong>note:</strong> the early parliamentary elections in 2023 were the first to be held under President Mohamed Ould Cheikh El GHAZOUANI, elected in 2019 in the first peaceful transition of power; the elections followed the agreement between the government and parties in September 2022 to renew the Independent National Electoral Commission (CENI) and hold the elections in the first semester of 2023 for climatic and logistical reasons<br>
 
 **Judicial branch**<br>
@@ -378,7 +385,7 @@ _FAX_: [1] (202) 319-2623<br>
 _email address and website_: <br>ambarimwashington@diplomatie.gov.mr<br><br>mauritaniaembassyus.org – Mauritania Embassy washington<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Cynthia KIERSCHT (since 27 January 2021)<br>
+_chief of mission_: Ambassador (vacant); John T. ICE Charg&eacute; d&rsquo;Affaires (since July 2024)<br>
 _embassy_: Nouadhibou Road, Avenue Al Quds, NOT PRTZ, Nouakchott<br>
 _mailing address_: 2430 Nouakchott Place, Washington DC&nbsp; 20521-2430<br>
 _telephone_: [222] 4525-2660<br>
@@ -406,25 +413,25 @@ _selected World Heritage Site locales_: Ancient Ksour (Fortified Villages) of Ou
 lower middle-income West African economy; primarily agrarian; rising urbanization; poor property rights; systemic corruption; endemic social and workforce tensions; wide-scale terrorism; foreign over-fishing; environmentally fragile<br>
 
 **Real GDP (purchasing power parity)**<br>
-$30.395 billion (2023 est.)<br>
-$29.4 billion (2022 est.)<br>
+$31.434 billion (2023 est.)<br>
+$29.514 billion (2022 est.)<br>
 $27.635 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.38% (2023 est.)<br>
-6.39% (2022 est.)<br>
+6.51% (2023 est.)<br>
+6.8% (2022 est.)<br>
 0.74% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $6,300 (2023 est.)<br>
-$6,200 (2022 est.)<br>
-$6,000 (2021 est.)<br>
+$6,100 (2022 est.)<br>
+$5,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$10.453 billion (2023 est.)<br>
+$10.652 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -434,18 +441,18 @@ $10.453 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 19.9% (2023 est.)<br>
-_industry_: 30.9% (2023 est.)<br>
-_services_: 42.5% (2023 est.)<br>
+_agriculture_: 18.7% (2023 est.)<br>
+_industry_: 30.6% (2023 est.)<br>
+_services_: 43.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 53.3% (2023 est.)<br>
-_government consumption_: 18.1% (2023 est.)<br>
-_investment in fixed capital_: 27.4% (2023 est.)<br>
-_investment in inventories_: 9.1% (2023 est.)<br>
-_exports of goods and services_: 44.2% (2023 est.)<br>
-_imports of goods and services_: -52.2% (2023 est.)<br>
+_household consumption_: 55.3% (2023 est.)<br>
+_government consumption_: 17.2% (2023 est.)<br>
+_investment in fixed capital_: 23.5% (2023 est.)<br>
+_investment in inventories_: 18.9% (2023 est.)<br>
+_exports of goods and services_: 38.3% (2023 est.)<br>
+_imports of goods and services_: -53.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -457,11 +464,11 @@ fish processing, oil production, mining (iron ore, gold, copper)<br>
 <strong>note:</strong> gypsum deposits have never been exploited<br>
 
 **Industrial production growth rate**<br>
--0.48% (2023 est.)<br>
+5.82% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.179 million (2023 est.)<br>
+1.178 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -490,8 +497,8 @@ _highest 10%_: 24.6% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.57% of GDP (2023 est.)<br>
-1.12% of GDP (2022 est.)<br>
+1.57% of GDP (2023 est.)<br>
+1.14% of GDP (2022 est.)<br>
 0.14% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -506,15 +513,15 @@ _expenditures_: $1.407 billion (2019 est.)<br>
 27.4% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
+-$966.506 million (2023 est.)<br>
 -$1.424 billion (2022 est.)<br>
 -$807.862 million (2021 est.)<br>
--$576.175 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$3.955 billion (2023 est.)<br>
 $4.132 billion (2022 est.)<br>
 $3.18 billion (2021 est.)<br>
-$2.784 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -526,9 +533,9 @@ gold, iron ore, fish, processed crustaceans, animal meal (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$5.271 billion (2023 est.)<br>
 $5.77 billion (2022 est.)<br>
 $4.312 billion (2021 est.)<br>
-$3.675 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -546,16 +553,16 @@ $1.029 billion (2019 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$3.172 billion (2022 est.)<br>
+$3.385 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: ouguiyas (MRO) per US dollar -<br>
+36.489 (2023 est.)<br>
+36.935 (2022 est.)<br>
 36.063 (2021 est.)<br>
 37.189 (2020 est.)<br>
 36.691 (2019 est.)<br>
-35.678 (2018 est.)<br>
-35.794 (2017 est.)<br>
 
 ## Energy
 

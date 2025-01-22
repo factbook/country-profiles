@@ -326,9 +326,16 @@ _election results_: <br><em>2021:</em> Jose Daniel ORTEGA Saavedra reelected pre
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Asamblea Nacional (92 statutory seats, current 91; 70 members in multi-seat constituencies, representing the country's 15 departments and 2 autonomous regions, and 20 members in a single nationwide constituency directly elected by party-list proportional representation vote; up to 2 seats reserved for the previous president and the runner-up candidate in the previous presidential election; members serve 5-year terms)<br>
-_elections_: last held on 7 November 2021 (next to be held on 1 November 2026)<br>
-_election results_: percent of vote by party - NA; seats by party - FSLN 75, PLC 9, ALN 2, APRE 1, CCN 1, PLI 1, YATAMA 1; composition - men 42, women 49, percentage women 53.9%<br>
+_legislature name_: National Assembly (Asamblea Nacional)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 91 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 11/7/2021<br>
+_parties elected and seats per party_: Sandinista National Liberation Front (FSLN) (75); Liberal and Constitutionalist Party (PLC) (9); Other (6)<br>
+_percentage of women in chamber_: 53.8%<br>
+_expected date of next election_: November 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Corte Suprema de Justicia (consists of 16 judges organized into administrative, civil, criminal, and constitutional chambers)<br>

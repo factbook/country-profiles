@@ -324,15 +324,22 @@ _residency requirement for naturalization_: 3 to 7 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Halla TOMASDOTTIR (since 1 August 2024)<br>
-_head of government_: Prime Minister Bjarni BENEDIKTSSON (since 9 April 2024)<br>
+_head of government_: Prime Minister Kristrun FROSTADOTTIR (since 21 December 2024)<br>
 _cabinet_: Cabinet appointed by the president upon the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 4-year term (no term limits); election last held on 1 June 2024 (next to be held in June 2028); following legislative elections, the leader of the majority party or majority coalition becomes prime minister<br>
 _election results_: <em><br>2024:</em> percent of vote - Halla TOMASDOTTIR (independent) 34.1%, Katrin JAKOBSDOTTIR (Left-Green Movement) 25.2%, Halla Hrund LOGADOTTIR (independent) 15.7%, Jon GNARR (Social Democratic Alliance) 10.1%, Baldur PORHALLSSON (independent) 8.4%, other 6.5%<em><br><br>2020: </em>Gudni Thorlacius JOHANNESSON reelected president; percent of vote - Gudni Thorlacius JOHANNESSON (independent) 92.2%, Gudmundur Franklin JONSSON (independent) 7.8%<br><br><em>2016: </em>Gudni Thorlacius JOHANNESSON elected president; Gudni Thorlacius JOHANNESSON (independent) 39.1%, Halla TOMASDOTTIR (independent) 27.9%, Andri Snær MAGNASON (Democracy Movement) 14.3%, David ODDSSON (independent) 13.7%, other 5%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Althingi or Parliament (63 seats; members directly elected in multi-seat constituencies by closed-list proportional representation vote using the D'Hondt method; members serve 4-year terms)<br>
-_elections_: last held on 30 November 2024 (next to be held by 30 November 2028)<br>
-_election results_: seats by party - SDA 15, IP 14, Reform Party 11, People's Party 10, CP 8, PP 5; composition - men 34, women 29; percentage women 46%<br>
+_legislature name_: Parliament (Althingi)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 63 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 11/30/2024<br>
+_parties elected and seats per party_: Social Democratic Alliance (SDA) (15); Independence Party (IP) (14); Liberal Reform Party (11); People&rsquo;s Party (10); Center Party (8); Progressive Party (PP) (5)<br>
+_percentage of women in chamber_: 46%<br>
+_expected date of next election_: November 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Haestirettur (consists of 7 judges)<br>
@@ -381,25 +388,25 @@ _selected World Heritage Site locales_: Thingvellir National Park (c); Surtsey (
 high-income north Atlantic island economy; non-EU member but market integration via European Economic Area (EEA); dominant tourism, fishing, and aluminum industries vulnerable to demand swings and volcanic activity; inflation remains above target rate; barriers to foreign business access and economic diversification<br>
 
 **Real GDP (purchasing power parity)**<br>
-$26.155 billion (2023 est.)<br>
-$25.134 billion (2022 est.)<br>
-$23.084 billion (2021 est.)<br>
+$26.455 billion (2023 est.)<br>
+$25.186 billion (2022 est.)<br>
+$23.108 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.06% (2023 est.)<br>
-8.88% (2022 est.)<br>
+5.04% (2023 est.)<br>
+8.99% (2022 est.)<br>
 5.15% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$66,500 (2023 est.)<br>
-$65,800 (2022 est.)<br>
+$67,300 (2023 est.)<br>
+$65,900 (2022 est.)<br>
 $62,000 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$31.02 billion (2023 est.)<br>
+$31.325 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -415,18 +422,18 @@ _Standard & Poors rating_: A (2017)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 3.9% (2023 est.)<br>
-_industry_: 21% (2023 est.)<br>
+_agriculture_: 3.8% (2023 est.)<br>
+_industry_: 21.1% (2023 est.)<br>
 _services_: 64.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 50% (2023 est.)<br>
-_government consumption_: 25.7% (2023 est.)<br>
-_investment in fixed capital_: 23.7% (2023 est.)<br>
+_household consumption_: 49.5% (2023 est.)<br>
+_government consumption_: 25.4% (2023 est.)<br>
+_investment in fixed capital_: 24.2% (2023 est.)<br>
 _investment in inventories_: 0.7% (2023 est.)<br>
-_exports of goods and services_: 43.4% (2023 est.)<br>
-_imports of goods and services_: -43.4% (2023 est.)<br>
+_exports of goods and services_: 43.6% (2023 est.)<br>
+_imports of goods and services_: -43.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -437,11 +444,11 @@ milk, chicken, barley, lamb/mutton, potatoes, pork, beef, eggs, other meats, cuc
 tourism, fish processing; aluminum smelting; geothermal power, hydropower; medical/pharmaceutical products<br>
 
 **Industrial production growth rate**<br>
-3.24% (2023 est.)<br>
+3.93% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-239,000 (2023 est.)<br>
+240,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -466,11 +473,11 @@ _female_: 7.9% (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4% (2017 est.)<br>
-_highest 10%_: 22.1% (2017 est.)<br>
+_highest 10%_: 22% (2017 est.)<br>
 <strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.66% of GDP (2023 est.)<br>
+0.7% of GDP (2023 est.)<br>
 0.67% of GDP (2022 est.)<br>
 0.74% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -481,23 +488,23 @@ _expenditures_: $9.498 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-86.5% of GDP (2022 est.)<br>
+81.06% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-22.52% (of GDP) (2022 est.)<br>
+23.44% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$324.663 million (2023 est.)<br>
--$498.416 million (2022 est.)<br>
--$687.447 million (2021 est.)<br>
+$384.999 million (2023 est.)<br>
+-$615.528 million (2022 est.)<br>
+-$669.957 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$13.49 billion (2023 est.)<br>
-$13.109 billion (2022 est.)<br>
-$9.606 billion (2021 est.)<br>
+$13.71 billion (2023 est.)<br>
+$13.115 billion (2022 est.)<br>
+$9.621 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -509,7 +516,7 @@ fish, aluminum, iron alloys, aluminum wire, animal meal (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$13.484 billion (2023 est.)<br>
+$13.532 billion (2023 est.)<br>
 $13.146 billion (2022 est.)<br>
 $10.065 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>

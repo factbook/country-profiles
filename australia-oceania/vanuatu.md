@@ -312,9 +312,16 @@ _election results_: <em>2022:</em> Nikenike VUROBARAVU elected president in eigh
 <strong>note:</strong> the National Council of Chiefs (Malvatu Mauri) is a formal advisory body of chiefs recognized by the country's constitution; it advises the government on matters of culture and language<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament (52 seats; members directly elected in 8 single-seat and 9 multi-seat constituencies by single non-transferable vote to serve 4-year terms (candidates in multi-seat constituencies can be elected with only 4% of the vote)<br>
-_elections_: last held on 13 October 2022 (next to be held in 2026)<br>
-_election results_: percent of vote by party - NA; seats by party - UMP 7, VP 7, LPV 5, RMC 5, GJP 4, NUP 4, RDP 4, IG 3, PPP 2, NCM 2, VNDP 2, LM 1, NAG 1, PUDP 1, UCM 1, VLM 1, VPDP 1, independent 1; composition - men 50, women 1, percentage women 2%; note - political party associations are fluid<br>
+_legislature name_: Parliament<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 52 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 10/13/2022<br>
+_parties elected and seats per party_: Union of Moderate Parties (UMP) (7); Vanua'aku Pati (VP) (7); Leaders Party of Vanuatu (LPV) (5); Reunification Movement for Change (RMC) (5); Graon mo Jastis Pati (Land and Justice Party, GJP) (4); National United Party (NUP) (4); Rural Development Party (RDP) (4); Iauko Group (IG) (3); Other (13)<br>
+_percentage of women in chamber_: 2%<br>
+_expected date of next election_: January 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of 2 or more judges of the Supreme Court designated by the chief justice); Supreme Court (consists of the chief justice and 6 puisne judges - 3 local and 3 expatriate)<br>
@@ -361,9 +368,9 @@ _selected World Heritage Site locales_: Chief Roi Mata&rsquo;s Domain<br>
 lower-middle income Pacific island economy; extremely reliant on subsistence agriculture and tourism; environmentally fragile; struggling post-pandemic and Tropical Cyclone Harold rebound; sizeable inflation; road infrastructure aid from Australia<br>
 
 **Real GDP (purchasing power parity)**<br>
-$999.536 million (2023 est.)<br>
-$977.896 million (2022 est.)<br>
-$959.511 million (2021 est.)<br>
+$999.162 million (2023 est.)<br>
+$977.53 million (2022 est.)<br>
+$959.152 million (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -373,9 +380,9 @@ $959.511 million (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$3,000 (2023 est.)<br>
-$3,000 (2022 est.)<br>
-$3,000 (2021 est.)<br>
+$3,100 (2023 est.)<br>
+$3,100 (2022 est.)<br>
+$3,100 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -415,7 +422,7 @@ food and fish freezing, wood processing, meat canning<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-142,000 (2023 est.)<br>
+137,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -431,7 +438,7 @@ _female_: 13% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-15.9% (2020 est.)<br>
+15.9% (2019 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -444,7 +451,7 @@ _highest 10%_: 24.7% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-15.68% of GDP (2023 est.)<br>
+12.87% of GDP (2023 est.)<br>
 19.35% of GDP (2022 est.)<br>
 21.03% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -502,7 +509,7 @@ $664.751 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$295.759 million (2022 est.)<br>
+$329.915 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

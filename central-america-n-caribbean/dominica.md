@@ -292,9 +292,16 @@ _elections/appointments_: president nominated by the prime minister and leader o
 _election results_: <em><br>2023:</em> parliament elects Sylvanie BURTON (DLP) with 20 votes for and five against<br><br><em>2018:</em> Charles A. SAVARIN (DLP) reelected president unopposed <br>
 
 **Legislative branch**<br>
-_description_: unicameral House of Assembly (32 seats; 21 representatives directly elected in single-seat constituencies by simple majority vote, 9 senators appointed by the president - 5 on the advice of the prime minister, and 4 on the advice of the leader of the opposition party, plus 2 ex-officio members - the house speaker and the attorney general; members serve 5-year terms)<br>
-_elections_: last held on 6 December 2022 (next to be held in 2027)<br>
-_election results_: percent of vote by party - DLP 82.3%, independent 16.9%; (elected) seats by party - DLP 19, independent 2; composition - men 20, women 12, percent of women 37.5%<br>
+_legislature name_: House of Assembly<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 32 (21 directly elected; 9 appointed)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 12/6/2022<br>
+_parties elected and seats per party_: Dominica Labor Party (DLP) (19); Independents (2)<br>
+_percentage of women in chamber_: 37.5%<br>
+_expected date of next election_: December 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 in Dominica; note - in 2015, Dominica acceded to the Caribbean Court of Justice as final court of appeal, replacing that of the Judicial Committee of the Privy Council, in London<br>
@@ -351,9 +358,9 @@ $1.048 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$15,900 (2023 est.)<br>
-$15,200 (2022 est.)<br>
-$14,500 (2021 est.)<br>
+$17,400 (2023 est.)<br>
+$16,600 (2022 est.)<br>
+$15,600 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -361,7 +368,7 @@ $653.993 million (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-3.48% (2023 est.)<br>
+4.23% (2023 est.)<br>
 7.78% (2022 est.)<br>
 1.48% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
@@ -376,6 +383,7 @@ _services_: 58.5% (2023 est.)<br>
 _household consumption_: 87.7% (2018 est.)<br>
 _government consumption_: 27.4% (2018 est.)<br>
 _investment in fixed capital_: 32.7% (2018 est.)<br>
+_investment in inventories_: 0% (2018 est.)<br>
 _exports of goods and services_: 29.2% (2018 est.)<br>
 _imports of goods and services_: -77.8% (2018 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -392,7 +400,7 @@ soap, coconut oil, tourism, copra, furniture, cement blocks, shoes<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Remittances**<br>
-9.05% of GDP (2023 est.)<br>
+5.25% of GDP (2023 est.)<br>
 6.22% of GDP (2022 est.)<br>
 7.24% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -449,7 +457,7 @@ $190.843 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$282.847 million (2022 est.)<br>
+$328.026 million (2023 est.)<br>
 <strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

@@ -271,9 +271,16 @@ _elections/appointments_: president and vice president directly elected on the s
 _election results_: <em><em><br>2023:</em></em> LAI Ching-te elected president; percent of vote<em><em> - </em></em>LAI Ching-te (DPP) 40.1%, HOU Yu-ih (KMT) 33.5%, KO Wen-je (TPP) 26.5%; note - LAI takes office on 20 May 2024<em><br><br>2020: </em>TSAI Ing-wen reelected president; percent of vote - TSAI Ing-wen (DPP) 57.1%, HAN Kuo-yu (KMT) 38.6%, James SOONG (PFP) 4.3%; note - TSAI is the first woman elected president of Taiwan<br><em><br><br></em><br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Yuan (113 seats; 73 members directly elected in single-seat constituencies by simple majority vote, 34 directly elected in a single island-wide constituency by proportional representation vote, and 6 directly elected in multi-seat aboriginal constituencies by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 13 January 2024 (next to be held in 2028)<br>
-_election results_: percent of vote by party - DPP 40.6%, KMT 37.2%, TPP 12.6%, other 5.7%, independent 3.9%; seats by party - KMT 52, DPP 51, TPP 8, independent 2; composition - men 66, women 47, percentage women 41.6%<br>
+_legislature name_: Legislative Yuan<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 113 (directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 13 January 2024<br>
+_parties elected and seats per party_: Kuomintang (KMT) 52, Democratic Progressive Party (DPP) 51, Taiwan People's Party (TPP) 8, independent 2<br>
+_percentage of women in chamber_: 41.6%<br>
+_expected date of next election_: January 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the court president, vice president, and approximately 100 judges organized into civil and criminal panels, each with a chief justice and 4 associate justices); Constitutional Court (consists of the court president, vice president, and 13 justices)<br>
@@ -573,7 +580,7 @@ Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force<br><br>Ocean 
 1.8% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 180,000 active-duty troops (95,000 Army; 45,000 Navy, including approximately 10,000 marines; 40,000 Air Force) (2023)<br>
+approximately 180,000 active-duty troops (95,000 Army; 45,000 Navy, including approximately 10,000 marines; 40,000 Air Force) (2024)<br>
 <strong>note: </strong>Taiwan trains about 120,000 reservists annually, but in 2022 announced intentions to increase that figure to 260,000<br>
 
 **Military equipment inventories and acquisitions**<br>

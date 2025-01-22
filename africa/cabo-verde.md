@@ -321,9 +321,16 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2020: </em>Jose Maria Pereira NEVES elected president; percent of vote - Jose Maria Pereira NEVES (PAICV) 51.7%, Carlos VEIGA (MPD) 42.4%, Casimiro DE PINA (independent) 1.8%, Fernando Rocha DELGADO (independent) 1.4%, Helio SANCHES (independent) 1.14%, Gilson ALVES (independent) 0.8%, Joaquim MONTEIRO (independent) 3.4%<br><br><em>2016: </em>Jorge Carlos FONSECA reelected president; percent of vote - Jorge Carlos FONSECA (MPD) 74.1%, Albertino GRACA (independent) 22.5%, other 3.4%<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Assembleia Nacional (72 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 18 April 2021 (next to be held in April 2026)<br>
-_election results_: percent of vote by party MPD 50.2%, PAICV 39.6%, UCID 9.0%, other 1.2%; seats by party - MPD 38, PAICV 30, UCID 4; composition - men 44, women 28, percentage women 38.9%<br>
+_legislature name_: National Assembly (Assembleia Nacional)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 72 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 4/18/2021<br>
+_parties elected and seats per party_: Movement for Democracy (MpD) (38); African Party for the Independence of Cabo Verde (PAICV) (30); Union for an Independent Democratic Cape Verde (UCID) (4)<br>
+_percentage of women in chamber_: 38.9%<br>
+_expected date of next election_: April 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of the chief justice and at least 7 judges and organized into civil, criminal, and administrative sections)<br>
@@ -373,31 +380,31 @@ _selected World Heritage Site locales_: Cidade Velha; Historic Center of Ribeira
 stable, middle-income, developing island economy; strong GDP growth led by tourism sector recovery; sustained poverty reduction through PEDS II development plan; high reliance on foreign remittances and aid to finance external debt<br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.903 billion (2023 est.)<br>
-$4.663 billion (2022 est.)<br>
+$4.852 billion (2023 est.)<br>
+$4.6 billion (2022 est.)<br>
 $3.971 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.15% (2023 est.)<br>
-17.44% (2022 est.)<br>
+5.48% (2023 est.)<br>
+15.84% (2022 est.)<br>
 7.03% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$8,200 (2023 est.)<br>
-$7,900 (2022 est.)<br>
-$6,800 (2021 est.)<br>
+$9,300 (2023 est.)<br>
+$8,900 (2022 est.)<br>
+$7,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.587 billion (2023 est.)<br>
+$2.534 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.72% (2023 est.)<br>
 7.93% (2022 est.)<br>
 1.86% (2021 est.)<br>
-0.61% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -406,17 +413,18 @@ _Standard & Poors rating_: B (2013)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 4.5% (2023 est.)<br>
-_industry_: 10.7% (2023 est.)<br>
-_services_: 70.6% (2023 est.)<br>
+_agriculture_: 4.6% (2023 est.)<br>
+_industry_: 10.6% (2023 est.)<br>
+_services_: 70% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 74.7% (2023 est.)<br>
-_government consumption_: 20.4% (2023 est.)<br>
-_investment in fixed capital_: 19.4% (2023 est.)<br>
-_exports of goods and services_: 39.7% (2023 est.)<br>
-_imports of goods and services_: -54.1% (2023 est.)<br>
+_household consumption_: 76.1% (2023 est.)<br>
+_government consumption_: 21.8% (2023 est.)<br>
+_investment in fixed capital_: 20.1% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
+_exports of goods and services_: 38.4% (2023 est.)<br>
+_imports of goods and services_: -56.4% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -427,11 +435,11 @@ sugarcane, tomatoes, coconuts, pulses, goat milk, vegetables, bananas, milk, cab
 food and beverages, fish processing, shoes and garments, salt mining, ship repair<br>
 
 **Industrial production growth rate**<br>
-1.18% (2023 est.)<br>
+1.27% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-257,000 (2023 est.)<br>
+223,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -460,8 +468,8 @@ _highest 10%_: 32.3% (2015 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-12.24% of GDP (2023 est.)<br>
-13.6% of GDP (2022 est.)<br>
+12.49% of GDP (2023 est.)<br>
+14.03% of GDP (2022 est.)<br>
 15.33% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -478,14 +486,14 @@ _expenditures_: $503.059 million (2017 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$82.487 million (2023 est.)<br>
--$69.634 million (2022 est.)<br>
+-$65.469 million (2023 est.)<br>
+-$78.247 million (2022 est.)<br>
 -$250.632 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$951.224 million (2023 est.)<br>
-$860.578 million (2022 est.)<br>
+$971.679 million (2023 est.)<br>
+$851.907 million (2022 est.)<br>
 $465.348 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
@@ -498,7 +506,7 @@ fish, shellfish, garments, natural gas, scrap iron (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$1.424 billion (2023 est.)<br>
+$1.428 billion (2023 est.)<br>
 $1.31 billion (2022 est.)<br>
 $1.117 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -512,13 +520,13 @@ refined petroleum, fish, plastic products, milk, cars (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$816.554 million (2023 est.)<br>
-$704.63 million (2022 est.)<br>
+$837.881 million (2023 est.)<br>
+$729.566 million (2022 est.)<br>
 $769.65 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$1.46 billion (2022 est.)<br>
+$1.55 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

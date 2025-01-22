@@ -390,25 +390,25 @@ _selected World Heritage Site locales_: Minaret of Jam; Buddhas of Bamyan<br>
 extremely low-income South Asian economy; import drops, currency depreciation, disappearing central bank reserves, and increasing inflation after Taliban takeover; increasing Chinese trade; hit hard by COVID; ongoing sanctions<br>
 
 **Real GDP (purchasing power parity)**<br>
+$82.595 billion (2023 est.)<br>
 $80.416 billion (2022 est.)<br>
 $85.768 billion (2021 est.)<br>
-$108.209 billion (2020 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+2.71% (2023 est.)<br>
 -6.24% (2022 est.)<br>
 -20.74% (2021 est.)<br>
--2.35% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$2,000 (2023 est.)<br>
 $2,000 (2022 est.)<br>
 $2,100 (2021 est.)<br>
-$2,800 (2020 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$14.502 billion (2022 est.)<br>
+$17.233 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -418,17 +418,18 @@ $14.502 billion (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 33.7% (2022 est.)<br>
-_industry_: 16.1% (2022 est.)<br>
-_services_: 45% (2022 est.)<br>
+_agriculture_: 34.5% (2023 est.)<br>
+_industry_: 13.5% (2023 est.)<br>
+_services_: 46.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 97.6% (2022 est.)<br>
-_government consumption_: 21.8% (2022 est.)<br>
-_investment in fixed capital_: 16.7% (2022 est.)<br>
-_exports of goods and services_: 18.4% (2022 est.)<br>
-_imports of goods and services_: -54.5% (2022 est.)<br>
+_household consumption_: 97.4% (2023 est.)<br>
+_government consumption_: 21.2% (2023 est.)<br>
+_investment in fixed capital_: 15.2% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
+_exports of goods and services_: 16.8% (2023 est.)<br>
+_imports of goods and services_: -50.5% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -439,11 +440,11 @@ wheat, milk, watermelons, grapes, potatoes, cantaloupes/melons, vegetables, rice
 small-scale production of bricks, textiles, soap, furniture, shoes, fertilizer, apparel, food products, non-alcoholic beverages, mineral water, cement; handwoven carpets; natural gas, coal, copper<br>
 
 **Industrial production growth rate**<br>
--5.73% (2022 est.)<br>
+2.62% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.921 million (2023 est.)<br>
+8.696 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -463,9 +464,9 @@ _female_: 30.4% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Remittances**<br>
-2.55% of GDP (2022 est.)<br>
+1.86% of GDP (2023 est.)<br>
+2.21% of GDP (2022 est.)<br>
 2.24% of GDP (2021 est.)<br>
-3.95% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -521,7 +522,7 @@ $8.207 billion (2018 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$2.14 billion (2022 est.)<br>
+$2.847 billion (2023 est.)<br>
 <strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

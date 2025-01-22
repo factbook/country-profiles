@@ -344,9 +344,14 @@ _elections/appointments_: formerly, the president was directly elected by absolu
 _election results_: <em><br>2020: </em>Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 59.5%, Cellou Dalein DIALLO (UFDG) 33.5%, other 7%<br><br><em>2015: </em>Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 57.8%, Cellou Dalein DIALLO (UFDG) 31.4%, other 10.8%<br>
 
 **Legislative branch**<br>
-_description_: formerly the People's National Assembly<br>
-_elections_: 81 members to the Transitional National Council were appointed by the transitional president Col. Mamady DOUMBOUYA on 22 January 2022; elections for a permanent legislature had not been announced as of late January 2022<br>
-_election results_: 81 members of the National Transitional Council appointed on 22 January 2022 by the transitional president; the members represent all of the country's socio-professional organizations and political parties<br>
+_legislature name_: Transitional National Council (Conseil national de transition)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 81 (all appointed)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_most recent election date_: 1/22/2022<br>
+_percentage of women in chamber_: 29.6%<br>
+_expected date of next election_: December 2025<br>
 <strong>note:</strong> on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, the constitution suspended, and the government and People's National Assembly dissolved; in January 2022, an 81-member Transitional National Council was installed; in February 2024, Guinea's military leaders dissolved the government<br>
 
 **Judicial branch**<br>
@@ -398,25 +403,25 @@ _selected World Heritage Site locales_: Mount Nimba Strict Nature Reserve<br>
 growing but primarily agrarian West African economy; major mining sector; improving fiscal and debt balances prior to COVID-19; economy increasingly vulnerable to climate change; slow infrastructure improvements; gender wealth and human capital gaps<br>
 
 **Real GDP (purchasing power parity)**<br>
-$56.655 billion (2023 est.)<br>
-$52.918 billion (2022 est.)<br>
-$50.543 billion (2021 est.)<br>
+$56.892 billion (2023 est.)<br>
+$53.297 billion (2022 est.)<br>
+$51.261 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-7.06% (2023 est.)<br>
-4.7% (2022 est.)<br>
+6.74% (2023 est.)<br>
+3.97% (2022 est.)<br>
 3.9% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$4,000 (2023 est.)<br>
+$3,900 (2023 est.)<br>
 $3,800 (2022 est.)<br>
 $3,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$23.612 billion (2023 est.)<br>
+$22.199 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -426,17 +431,18 @@ $23.612 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 28.2% (2023 est.)<br>
-_industry_: 31.3% (2023 est.)<br>
-_services_: 31.9% (2023 est.)<br>
+_agriculture_: 29.1% (2023 est.)<br>
+_industry_: 26.3% (2023 est.)<br>
+_services_: 36.9% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 52% (2023 est.)<br>
-_government consumption_: 12.3% (2023 est.)<br>
-_investment in fixed capital_: 23.6% (2023 est.)<br>
-_exports of goods and services_: 39.2% (2023 est.)<br>
-_imports of goods and services_: -29.8% (2023 est.)<br>
+_household consumption_: 72.9% (2023 est.)<br>
+_government consumption_: 13.6% (2023 est.)<br>
+_investment in fixed capital_: 21.9% (2023 est.)<br>
+_investment in inventories_: -1.1% (2023 est.)<br>
+_exports of goods and services_: 41.6% (2023 est.)<br>
+_imports of goods and services_: -49% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -447,11 +453,11 @@ cassava, rice, groundnuts, oil palm fruit, maize, fonio, plantains, potatoes, sw
 bauxite, gold, diamonds, iron ore; light manufacturing, agricultural processing<br>
 
 **Industrial production growth rate**<br>
-11.47% (2023 est.)<br>
+10.9% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.401 million (2023 est.)<br>
+4.465 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -480,9 +486,9 @@ _highest 10%_: 23.1% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.36% of GDP (2023 est.)<br>
-2.51% of GDP (2022 est.)<br>
-2.14% of GDP (2021 est.)<br>
+2.24% of GDP (2023 est.)<br>
+2.65% of GDP (2022 est.)<br>
+2.01% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -496,15 +502,15 @@ _expenditures_: $2.014 billion (2019 est.)<br>
 16.6% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
+$2.288 billion (2023 est.)<br>
 $3.35 billion (2022 est.)<br>
 $4.639 billion (2021 est.)<br>
-$2.685 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$12.008 billion (2023 est.)<br>
 $8.898 billion (2022 est.)<br>
 $10.266 billion (2021 est.)<br>
-$8.996 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -516,9 +522,9 @@ gold, aluminum ore, coconuts/Brazil nuts/cashews, cocoa beans, fish (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$8.365 billion (2023 est.)<br>
 $5.749 billion (2022 est.)<br>
 $5.353 billion (2021 est.)<br>
-$6.314 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -536,7 +542,7 @@ $1.242 billion (2018 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$3.329 billion (2022 est.)<br>
+$3.981 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

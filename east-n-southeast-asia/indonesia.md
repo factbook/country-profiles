@@ -357,9 +357,16 @@ _election results_: <em><br>2024: </em>PRABOWO Subianto elected president (assum
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: bicameral People's Consultative Assembly or Majelis Permusyawaratan Rakyat (MPR) consists of:<br>Regional Representative Council or Dewan Perwakilan Daerah (136 seats; non-partisan members directly elected in multi-seat constituencies - 4 each from the country's 34 electoral districts - by proportional representation vote to serve 5-year terms); note - the Regional Representative Council has no legislative authority<br><br>House of Representatives or Dewan Perwakilan Rakyat (580 seats; members directly elected in multi-seat constituencies by single non-transferable vote to serve 5-year terms)<br>
-_elections_: Regional Representative Council - last held on 14 February 2024 (next to be held in 2029)<br>House of Representatives - last held on 14 February 2024 (next to be held in 2029)<br>
-_election results_: Regional Representative Council - all seats elected on a non-partisan basis; composition - men 102, women 34, percentage women 25%<br><br>House of Representatives - percent of vote by party - PDI-P 16.7%, Golkar 15.3%, Gerindra 13.2%, PKB 10.6%, Nasdem 9.7%, PKS 8.4%, PD 7.4%, PAN 7.2%; other 11.5% (10 additional parties received votes); seats by party - PDI-P 110, Golkar 102, Gerindra 86, PKB 68, Nasdem 69, PKS 53, PD 44, PAN 48; composition - men 449, women 126, percentage women 21.9%; total People's Consultative Assembly percentage women NA<br>
+_legislature name_: House of Representatives (Dewan Perwakilan Rakyat)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 580 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 2/14/2024<br>
+_parties elected and seats per party_: Indonesian Democratic Party - Struggle (PDI-P) (110); Party of Functional Groups (Golkar) (102); Great Indonesia Movement (Gerindra) (86); National Democratic Party (NasDem) (69); National Awakening Party (PKB) (68); Prosperous Justice Party (PKS) (53); National Mandate Party (PAN) (48); Democratic Party (PD) (44)<br>
+_percentage of women in chamber_: 21%<br>
+_expected date of next election_: April 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Mahkamah Agung (51 judges divided into 8 chambers); Constitutional Court or Mahkamah Konstitusi (consists of 9 judges)<br>
@@ -424,9 +431,9 @@ $3.531 trillion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$14,100 (2023 est.)<br>
-$13,500 (2022 est.)<br>
-$12,900 (2021 est.)<br>
+$13,900 (2023 est.)<br>
+$13,300 (2022 est.)<br>
+$12,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -472,7 +479,7 @@ petroleum and natural gas, textiles, automotive, electrical appliances, apparel,
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-140.931 million (2023 est.)<br>
+142.688 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -492,7 +499,7 @@ _female_: 13.6% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-38.3 (2023 est.)<br>
+36.1 (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -500,8 +507,8 @@ _on food_: 33.7% of household expenditures (2022 est.)<br>
 _on alcohol and tobacco_: 7.4% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.1% (2023 est.)<br>
-_highest 10%_: 31.4% (2023 est.)<br>
+_lowest 10%_: 3.3% (2023 est.)<br>
+_highest 10%_: 29.9% (2023 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
@@ -523,13 +530,13 @@ _expenditures_: $192.97 billion (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.88 billion (2023 est.)<br>
+-$2.138 billion (2023 est.)<br>
 $13.215 billion (2022 est.)<br>
 $3.511 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$292.79 billion (2023 est.)<br>
+$290.969 billion (2023 est.)<br>
 $315.746 billion (2022 est.)<br>
 $246.787 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -543,7 +550,7 @@ coal, palm oil, iron alloys, natural gas, steel (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$264.426 billion (2023 est.)<br>
+$262.746 billion (2023 est.)<br>
 $273.031 billion (2022 est.)<br>
 $217.579 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -561,6 +568,9 @@ $146.359 billion (2023 est.)<br>
 $137.222 billion (2022 est.)<br>
 $144.908 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+
+**Debt - external**<br>
+$237.223 billion (2023 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Indonesian rupiah (IDR) per US dollar -<br>

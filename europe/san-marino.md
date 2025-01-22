@@ -287,9 +287,16 @@ _election results_: October 2024:  Francesca CIVERCHIA (PDCS) and Dalibor RICCA
 <strong>note:</strong> the captains regent preside over meetings of the Grand and General Council and its cabinet (Congress of State), which has seven other members who are selected by the Grand and General Council; assisting the captains regent are seven secretaries of state; the secretary of state for Foreign Affairs has some prime ministerial roles<br>
 
 **Legislative branch**<br>
-_description_: unicameral Grand and General Council or Consiglio Grande e Generale (60 seats; members directly elected in single- and multi-seat constituencies by list proportional representation vote in 2 rounds if needed; members serve 5-year terms)<br>
-_elections_: last held on 9 June 2024 (next to be held by 30 June 2029)<br>
-_election results_: percent of vote by party/coalition - (PDCS 34.1% &amp; AR 6.9% coalition), (PS 15.8% &amp; PSD 12.2% coalition), RF 12%, DML 8.5%, RETE 5.1% seats by party/coalition - (PDCS 22 &amp; AR 4 coalition), (PS 10 &amp; PSD 8 coalition), RF 8, DML 5, RETE 3, composition - men 42, women 18, percentage women 30%<br>
+_legislature name_: Great and General Council (Consiglio grande e generale)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 60 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 6/9/2024<br>
+_parties elected and seats per party_: Christian Democratic Party of San Marino (PDCS) (22); Free (Libera) – Socialist Party (PS) (10); Future Republic (RF) (8); Party of Socialists and Democrats (PSD) (8); Tomorrow - Motus Liberi (5); Reformist Alliance (AR) (4); R.E.T.E. Citizens' Movement (3)<br>
+_percentage of women in chamber_: 35%<br>
+_expected date of next election_: June 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Council of Twelve or Consiglio dei XII (consists of 12 members); note - the College of Guarantors for the Constitutionality and General Norms functions as San Marino's constitutional court<br>
@@ -310,7 +317,6 @@ _FAX_: [1] (212) 751-1436<br>
 _email address and website_: <br>sanmarinoun@gmail.com<br><br>Republic of San Marino Permanent Mission to the United Nations<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Jack Markell (since September 2023); note - also accredited to Italy<br>
 _embassy_: the United States does not have an Embassy in San Marino; the US Ambassador to Italy is accredited to San Marino, and the US Consulate General in Florence maintains day-to-day ties<br>
 
 **Flag description**<br>
@@ -334,25 +340,25 @@ _selected World Heritage Site locales_: San Marino Historic Center and Mount Tit
 high-income, non-EU European economy; surrounded by Italy, which is the dominant importer and exporter; open border to EU and a euro user; strong financial sector; high foreign investments; low taxation; increasingly high and risky debt<br>
 
 **Real GDP (purchasing power parity)**<br>
+$2.393 billion (2022 est.)<br>
 $2.218 billion (2021 est.)<br>
-$2.045 billion (2020 est.)<br>
-$2.19 billion (2019 est.)<br>
+$1.947 billion (2020 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-8.46% (2021 est.)<br>
+7.9% (2022 est.)<br>
+13.9% (2021 est.)<br>
 -6.65% (2020 est.)<br>
-2.07% (2019 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$65,700 (2021 est.)<br>
-$60,100 (2020 est.)<br>
-$64,100 (2019 est.)<br>
+$70,900 (2022 est.)<br>
+$64,700 (2021 est.)<br>
+$56,000 (2020 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.855 billion (2021 est.)<br>
+$1.832 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -366,18 +372,18 @@ _Fitch rating_: BB+ (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0% (2021 est.)<br>
-_industry_: 36.6% (2021 est.)<br>
-_services_: 56.5% (2021 est.)<br>
+_agriculture_: 0% (2022 est.)<br>
+_industry_: 37.6% (2022 est.)<br>
+_services_: 55.1% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 33.1% (2021 est.)<br>
-_government consumption_: 18.5% (2021 est.)<br>
-_investment in fixed capital_: 17.5% (2021 est.)<br>
-_investment in inventories_: 4.7% (2021 est.)<br>
-_exports of goods and services_: 184.3% (2021 est.)<br>
-_imports of goods and services_: -158.2% (2021 est.)<br>
+_household consumption_: 35.5% (2022 est.)<br>
+_government consumption_: 17.1% (2022 est.)<br>
+_investment in fixed capital_: 17.8% (2022 est.)<br>
+_investment in inventories_: 5.2% (2022 est.)<br>
+_exports of goods and services_: 197.4% (2022 est.)<br>
+_imports of goods and services_: -173% (2022 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -387,7 +393,7 @@ wheat, grapes, corn, olives; cattle, pigs, horses, beef, cheese, hides<br>
 tourism, banking, textiles, electronics, ceramics, cement, wine<br>
 
 **Industrial production growth rate**<br>
-11.57% (2021 est.)<br>
+10.72% (2022 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Unemployment rate**<br>
@@ -400,9 +406,9 @@ _male_: 21.4%<br>
 _female_: 36%<br>
 
 **Remittances**<br>
+1.15% of GDP (2022 est.)<br>
 1.13% of GDP (2021 est.)<br>
-1.15% of GDP (2020 est.)<br>
-1.08% of GDP (2019 est.)<br>
+1.14% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -411,21 +417,22 @@ _expenditures_: $816.572 million (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-95.12% of GDP (2021 est.)<br>
+103.15% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-17.3% (of GDP) (2021 est.)<br>
+17.81% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$0 (2017 est.)<br>
-$0 (2016 est.)<br>
+$284.256 million (2022 est.)<br>
+$100.118 million (2021 est.)<br>
+$42.98 million (2020 est.)<br>
 
 **Exports**<br>
-$3.42 billion (2021 est.)<br>
-$2.535 billion (2020 est.)<br>
-$2.651 billion (2019 est.)<br>
+$3.616 billion (2022 est.)<br>
+$3.23 billion (2021 est.)<br>
+$2.439 billion (2020 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -437,9 +444,9 @@ washing and bottling machines, woodworking machines, furniture, other foods, pac
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$2.934 billion (2021 est.)<br>
-$2.164 billion (2020 est.)<br>
-$2.315 billion (2019 est.)<br>
+$3.169 billion (2022 est.)<br>
+$2.94 billion (2021 est.)<br>
+$2.232 billion (2020 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

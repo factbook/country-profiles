@@ -348,9 +348,15 @@ _election results_: <em><br>2024: </em>first round results - Masoud PEZESHKIAN 
 <strong>Note: </strong>presidential election held early due to the death of President Ebrahim RAISI in a helicopter accident in May 2024<br>
 
 **Legislative branch**<br>
-_description_: unicameral Islamic Consultative Assembly or Majles-e Shura-ye Eslami or Majles (290 seats; 285 members directly elected in single- and multi-seat constituencies by multiple non-transferable vote in 2 rounds, 1 seat each for Zoroastrians, Jews, Assyrian and Chaldean Christians, Armenians in the north of the country and Armenians in the south; members serve 4-year terms)<br>
-_elections_: first round held on 1 March 2024 for 245 seats; second round for 45 remaining seats to be held on 10 May 2024 (next full Majles election to be held in 2028)<br>
-_election results_: percent of vote by coalition in first round - NA; seats by coalition in first round - conservatives and hardliners 200, other 45; composition - NA<br>
+_legislature name_: Islamic Parliament of Iran (Majles Shoraye Eslami)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 290 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 3/1/2024 to 5/10/2024<br>
+_percentage of women in chamber_: 4.8%<br>
+_expected date of next election_: February 2028<br>
 <strong>note:</strong> all candidates to the Majles must be approved by the Council of Guardians, a 12-member group of which 6 are appointed by the supreme leader and 6 are jurists nominated by the judiciary and elected by the Majles<br>
 
 **Judicial branch**<br>
@@ -391,25 +397,25 @@ _selected World Heritage Site locales_: <p>Persepolis (c); Tchogha Zanbil (c); B
 traditionally state-controlled economy but reforming state-owned financial entities; strong oil/gas, agricultural, and service sectors; recent massive inflation due to exchange rate depreciation, international sanctions, and investor uncertainty; increasing poverty<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.44 trillion (2023 est.)<br>
+$1.442 trillion (2023 est.)<br>
 $1.373 trillion (2022 est.)<br>
 $1.323 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.95% (2023 est.)<br>
+5.04% (2023 est.)<br>
 3.78% (2022 est.)<br>
 4.72% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$16,200 (2023 est.)<br>
-$15,500 (2022 est.)<br>
+$15,900 (2023 est.)<br>
+$15,300 (2022 est.)<br>
 $15,000 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$401.505 billion (2023 est.)<br>
+$404.626 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -419,18 +425,18 @@ $401.505 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 13% (2023 est.)<br>
-_industry_: 41.8% (2023 est.)<br>
-_services_: 42.7% (2023 est.)<br>
+_agriculture_: 12.8% (2023 est.)<br>
+_industry_: 36.2% (2023 est.)<br>
+_services_: 48.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 47.2% (2023 est.)<br>
-_government consumption_: 13.2% (2023 est.)<br>
-_investment in fixed capital_: 26.9% (2023 est.)<br>
-_investment in inventories_: 9.5% (2023 est.)<br>
-_exports of goods and services_: 28.6% (2023 est.)<br>
-_imports of goods and services_: -26.9% (2023 est.)<br>
+_household consumption_: 50.3% (2023 est.)<br>
+_government consumption_: 12.9% (2023 est.)<br>
+_investment in fixed capital_: 26.8% (2023 est.)<br>
+_investment in inventories_: 11.2% (2022 est.)<br>
+_exports of goods and services_: 24.2% (2023 est.)<br>
+_imports of goods and services_: -28% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -441,11 +447,11 @@ wheat, sugarcane, milk, sugar beets, tomatoes, barley, potatoes, vegetables, ora
 petroleum, petrochemicals, gas, fertilizer, caustic soda, textiles, cement and other construction materials, food processing (particularly sugar refining and vegetable oil production), ferrous and nonferrous metal fabrication, armaments<br>
 
 **Industrial production growth rate**<br>
-8.84% (2023 est.)<br>
+7.14% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-29.159 million (2023 est.)<br>
+29.789 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -474,9 +480,9 @@ _highest 10%_: 26.8% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.55% of GDP (2020 est.)<br>
-0.47% of GDP (2019 est.)<br>
-0.4% of GDP (2018 est.)<br>
+0% of GDP (2023 est.)<br>
+0% of GDP (2022 est.)<br>
+0% of GDP (2021 est.)<br>
 
 **Budget**<br>
 _revenues_: $60.714 billion (2019 est.)<br>
@@ -526,7 +532,7 @@ $120.6 billion (31 December 2017 est.)<br>
 $133.7 billion (31 December 2016 est.)<br>
 
 **Debt - external**<br>
-$269.852 million (2022 est.)<br>
+$6.771 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

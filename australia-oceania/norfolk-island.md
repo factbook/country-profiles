@@ -161,9 +161,16 @@ _cabinet_: Executive Council consists of 4 Legislative Assembly members<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; administrator appointed by the governor general of Australia for a 2-year term and represents the monarch and Australia<br>
 
 **Legislative branch**<br>
-_description_: unicameral Norfolk Island Regional Council (5 seats; councillors directly elected by simple majority vote to serve 4-year terms); mayor elected annually by the councillors<br>
-_elections_: last held on 28 May 2016 (next originally scheduled for 13 March 2021 but was postponed)<br>
-_election results_: seats by party - independent 5; composition - men 4, women 1, percentage women 20%<br>
+_legislature name_: Norfolk Island Regional Council<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 5 (directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 5/28/2016<br>
+_parties elected and seats per party_: independent (5)<br>
+_percentage of women in chamber_: 20%<br>
+_expected date of next election_: March 2021 (postponed)<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Norfolk Island (consists of the chief justice and several justices); note - appeals beyond the Supreme Court of Norfolk Island are heard by the Federal Court and the High Court of Australia<br>

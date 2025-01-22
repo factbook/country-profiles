@@ -351,9 +351,16 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2024:</em> Bassirou Diomaye FAYE elected president in first round; percent of vote - Bassirou Diomaye FAYE (PASTEF) 54%, Amadou BA (APR) 36%, other 10%<br><em><em><br>2019:</em></em> Macky SALL reelected president in first round; percent of vote - Macky SALL (APR) 58.3%, Idrissa SECK (Rewmi) 20.5%, Ousmane SONKO (PASTEF) 15.7%, other 5.5% <p> </p><br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Assembl&eacute;e Nationale (165 seats; 112 members including 15 representing Senegalese diaspora directly elected by plurality vote in single- and multi-seat constituencies and 53 members directly elected by proportional representation vote in a single nationwide constituency; member term is 5-years)<br>
-_elections_: last held on 31 July 2022 (next scheduled to be held in July 2027)<br>
-_election results_: percent of vote by party/coalition - BBY 46.6%, YAW 32.9%, WS 14.5%, other 6%; seats by party/coalition - BBY 82, YAW 42, WS 24, other 17; composition - men 89, women 76, percentage women 46.1%<br>
+_legislature name_: National Assembly (Assemblée nationale)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 165 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 11/17/2024<br>
+_parties elected and seats per party_: Pastef Party (130); Coalition Takku Wallu Sénégal (16); Other (19)<br>
+_percentage of women in chamber_: 46.1%<br>
+_expected date of next election_: November 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or <em>Cour Suprême  </em>(consists of the court president and 12 judges and organized into civil and commercial, criminal, administrative, and social chambers); Constitutional Council or <em>Conseil Constitutionnel </em> (consists of 7 members, including the court president, vice president, and 5 judges)<br>
@@ -403,31 +410,31 @@ _selected World Heritage Site locales_: Island of Gor&eacute;e (c); Niokolo-Koba
 lower middle-income, services-driven West African economy; key mining, construction, agriculture, and fishing industries; tourism and exports hit hard by COVID-19; large informal economy; developing offshore oil and gas fields; systemic corruption<br>
 
 **Real GDP (purchasing power parity)**<br>
-$77.382 billion (2023 est.)<br>
-$74.621 billion (2022 est.)<br>
+$78.045 billion (2023 est.)<br>
+$74.624 billion (2022 est.)<br>
 $71.874 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.7% (2023 est.)<br>
-3.82% (2022 est.)<br>
+4.58% (2023 est.)<br>
+3.83% (2022 est.)<br>
 6.54% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$4,400 (2023 est.)<br>
-$4,300 (2022 est.)<br>
-$4,300 (2021 est.)<br>
+$4,300 (2023 est.)<br>
+$4,200 (2022 est.)<br>
+$4,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$31.014 billion (2023 est.)<br>
+$30.848 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.94% (2023 est.)<br>
 9.7% (2022 est.)<br>
 2.18% (2021 est.)<br>
-2.54% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -436,18 +443,18 @@ _Standard & Poors rating_: B+ (2000)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 16.4% (2023 est.)<br>
-_industry_: 23.7% (2023 est.)<br>
-_services_: 50.8% (2023 est.)<br>
+_agriculture_: 17.4% (2023 est.)<br>
+_industry_: 24.3% (2023 est.)<br>
+_services_: 49.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 55.9% (2023 est.)<br>
-_government consumption_: 14.7% (2023 est.)<br>
-_investment in fixed capital_: 38.4% (2023 est.)<br>
-_investment in inventories_: 9% (2023 est.)<br>
-_exports of goods and services_: 25.6% (2023 est.)<br>
-_imports of goods and services_: -43.9% (2023 est.)<br>
+_household consumption_: 67% (2023 est.)<br>
+_government consumption_: 13.8% (2023 est.)<br>
+_investment in fixed capital_: 34.8% (2023 est.)<br>
+_investment in inventories_: 9.5% (2023 est.)<br>
+_exports of goods and services_: 23% (2023 est.)<br>
+_imports of goods and services_: -48% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -458,11 +465,11 @@ groundnuts, watermelons, rice, cassava, sugarcane, millet, maize, onions, sorghu
 agricultural and fish processing, phosphate mining, fertilizer production, petroleum refining, zircon, and gold mining, construction materials, ship construction and repair<br>
 
 **Industrial production growth rate**<br>
-2.9% (2023 est.)<br>
+3.71% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.257 million (2023 est.)<br>
+5.578 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -487,7 +494,7 @@ _highest 10%_: 28.8% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-9.47% of GDP (2023 est.)<br>
+9.52% of GDP (2023 est.)<br>
 10.89% of GDP (2022 est.)<br>
 11.25% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -501,7 +508,7 @@ _expenditures_: $6.424 billion (2022 est.)<br>
 48.3% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-18.7% (of GDP) (2022 est.)<br>
+19.44% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -543,7 +550,7 @@ $1.827 billion (31 December 2017 est.)<br>
 $116.9 million (31 December 2016 est.)<br>
 
 **Debt - external**<br>
-$12.652 billion (2022 est.)<br>
+$16.004 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

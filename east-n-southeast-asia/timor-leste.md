@@ -325,13 +325,20 @@ _chief of state_: President Jos&eacute; RAMOS-HORTA (since 20 May 2022)<br>
 _head of government_: Prime Minister Kay Rala Xanana GUSMAO (since 1 July 2023)<br>
 _cabinet_: Council of Ministers; ministers proposed to the prime minister by the coalition in the Parliament and sworn in by the President of the Republic<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last election held on 19 March 2022 with a runoff on 19 April 2022 (next to be held in April 2027); following parliamentary elections, the president appoints the leader of the majority party or majority coalition as the prime minister<br>
-_election results_: <br><em>2022</em>: José RAMOS-HORTA elected president in second round - RAMOS-HORTA (CNRT) 62.1%, Francisco GUTERRES (FRETILIN) 37.9%<br><br><em>2017</em>: Francisco GUTERRES elected president; Francisco GUTERRES (FRETILIN) 57.1%, António da CONCEICAO (PD) 32.5%, other 10.4%<br>
+_election results_: <em>2022</em>: José RAMOS-HORTA elected president in second round - RAMOS-HORTA (CNRT) 62.1%, Francisco GUTERRES (FRETILIN) 37.9%<br><em><br>2017</em>: Francisco GUTERRES elected president; Francisco GUTERRES (FRETILIN) 57.1%, António da CONCEICAO (PD) 32.5%, other 10.4%<br>
 <strong>note:</strong> the president is commander in chief of the military and can veto legislation, dissolve parliament, and call national elections<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Parliament (65 seats; members directly elected in a single nationwide constituency by closed, party-list proportional representation vote using the D'Hondt method to serve 5-year terms)<br>
-_elections_: last held on 21 May 2023 (next to be held in May 2028)<br>
-_election results_: percent of vote by party - CNRT 41.5%, FRETILIN 25.8%, PD 9.3%, KHUNTO 7.5%, PLP 6%, other 9.9%; seats by party - CNRT 31, FRETILIN 19, PD 6, KHUNTO 5, PLP 4; composition - men 40, women 25, percentage women 38.5%<br>
+_legislature name_: National Parliament<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 65 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 5/21/2023<br>
+_parties elected and seats per party_: National Congress for the Reconstruction of Timor-Leste (CNRT) (31); Revolutionary Front for an independent East Timor (FRETILIN) (19); Democratic Party (PD) (6); Kmanek Haburas Unidade Nasional Timor Oan (KHUNTO) (5); People's Liberation Party (PLP) (4)<br>
+_percentage of women in chamber_: 35.4%<br>
+_expected date of next election_: May 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeals (consists of the court president and NA judges)<br>
@@ -353,7 +360,7 @@ _FAX_: [1] (202) 966-3205<br>
 _email address and website_: <br>info@timorlesteembassy.org<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant), Charg&eacute; d'Affaires Marc WEINSTOCK (since August 2023)<br>
+_chief of mission_: Ambassador Donna Ann WELTON (since 16 July 2024)<br>
 _embassy_: Avenida de Portugal, Praia dos Coqueiros, Dili<br>
 _mailing address_: 8250 Dili Place, Washington, DC 20521-8250<br>
 _telephone_: (670) 332-4684, (670) 330-2400<br>
@@ -377,46 +384,46 @@ _lyrics/music_: Fransisco Borja DA COSTA/Afonso DE ARAUJO<br>
 lower middle-income Southeast Asian economy; government expenditures funded via oil fund drawdowns; endemic corruption undermines growth; foreign aid-dependent; wide-scale poverty, unemployment, and illiteracy<br>
 
 **Real GDP (purchasing power parity)**<br>
-$6.265 billion (2023 est.)<br>
-$7.316 billion (2022 est.)<br>
-$9.207 billion (2021 est.)<br>
+$5.992 billion (2023 est.)<br>
+$7.318 billion (2022 est.)<br>
+$9.214 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--14.36% (2023 est.)<br>
--20.54% (2022 est.)<br>
+-18.12% (2023 est.)<br>
+-20.58% (2022 est.)<br>
 5.32% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$4,600 (2023 est.)<br>
-$5,500 (2022 est.)<br>
-$7,000 (2021 est.)<br>
+$4,300 (2023 est.)<br>
+$5,300 (2022 est.)<br>
+$6,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.243 billion (2023 est.)<br>
+$2.08 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-0.96% (2019 est.)<br>
-2.29% (2018 est.)<br>
-0.52% (2017 est.)<br>
+8.42% (2023 est.)<br>
+7.01% (2022 est.)<br>
+3.7% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 10.2% (2022 est.)<br>
-_industry_: 53.8% (2022 est.)<br>
-_services_: 37.2% (2022 est.)<br>
+_agriculture_: 16.9% (2023 est.)<br>
+_industry_: 23.9% (2023 est.)<br>
+_services_: 61% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 42.5% (2022 est.)<br>
-_government consumption_: 33.1% (2022 est.)<br>
-_investment in fixed capital_: 10% (2022 est.)<br>
-_investment in inventories_: 0.6% (2022 est.)<br>
-_exports of goods and services_: 55.7% (2022 est.)<br>
-_imports of goods and services_: -42% (2022 est.)<br>
+_household consumption_: 70% (2023 est.)<br>
+_government consumption_: 52.9% (2023 est.)<br>
+_investment in fixed capital_: 17.4% (2023 est.)<br>
+_investment in inventories_: 3.1% (2023 est.)<br>
+_exports of goods and services_: 22.9% (2023 est.)<br>
+_imports of goods and services_: -66.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -427,11 +434,11 @@ maize, rice, coconuts, root vegetables, vegetables, cassava, other meats, coffee
 printing, soap manufacturing, handicrafts, woven cloth<br>
 
 **Industrial production growth rate**<br>
--46.25% (2022 est.)<br>
+-56.97% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-597,000 (2023 est.)<br>
+607,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -460,9 +467,9 @@ _highest 10%_: 24% (2014 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-10.88% of GDP (2023 est.)<br>
-5.8% of GDP (2022 est.)<br>
-4.85% of GDP (2021 est.)<br>
+9.28% of GDP (2023 est.)<br>
+5.12% of GDP (2022 est.)<br>
+4.14% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -474,13 +481,13 @@ _expenditures_: $1.684 billion (2022 est.)<br>
 3.8% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-21.67% (of GDP) (2022 est.)<br>
+21.64% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$227.62 million (2023 est.)<br>
-$256.151 million (2022 est.)<br>
-$1.328 billion (2021 est.)<br>
+-$17.331 million (2023 est.)<br>
+$474.005 million (2022 est.)<br>
+$1.524 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
@@ -498,7 +505,7 @@ crude petroleum, coffee, natural gas, beer, construction vehicles (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$1.179 billion (2023 est.)<br>
+$1.204 billion (2023 est.)<br>
 $1.405 billion (2022 est.)<br>
 $1.298 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -518,7 +525,7 @@ $934.781 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$207.551 million (2022 est.)<br>
+$259.088 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

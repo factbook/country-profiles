@@ -337,10 +337,29 @@ _elections/appointments_: the monarchy is hereditary and constitutional; followi
 <strong>note </strong>- Alexander DE CROO resigned on 9 June 2024 following the parliamentary elections and is serving as prime minister in a caretaker status until a new prime minister is sworn into office<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate or Senaat (in Dutch), Senat (in French) (60 seats; 50 members indirectly elected by the community and regional parliaments based on their election results, and 10 elected by the 50 other senators; members serve 5-year terms)<br>Chamber of Representatives or Kamer van Volksvertegenwoordigers (in Dutch), Chambre des Representants (in French) (150 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
-_elections_: Senate - last held 18 July 2024 (next to be held on 31 July 2029) <br>Chamber of Representatives - last held on 9 June 2024 (next to be held on 30 June 2029)<br>
-_election results_: Senate - percent of vote by party - N/A; seats by party - N-VA 10, MR 10, VB 8, PS 6, PVDA-PTB 6, CD&amp;V 5, Les Engages 5, Open VLD 3, Ecolo 3, Vooruit 4; composition - men 32, women 28, percent percentage women 46.7%<br><br>Chamber of Representatives - percent of vote by party - N-VA 16.7%, VB 13.5%, MR 10.3%, PVDA-PTB 9.9%, Vooruit 8.1%, PS 8%, CD&amp;V 8%, Les Engages 6.8%, Open VLD 5.5%, Green 4.7%, Ecolo 3%, Defi 1%; seats by party - N-VA 24, VB 20, MR 20, PS 16, PVDA+PTB 15, Les Engages 14, Vooruit 13, CD&amp;V 11, Open VLD 7,Green 6, Ecolo 3, Defi 1; composition - men 86, women 64, percentage women 42.7%; total Parliament percentage women 42.9%<br>
+_legislature name_: Federal Parliament (Parlement fédéral - Federaal Parlement - Föderales Parlament)<br>
+_legislative structure_: bicameral<br>
 <strong>note:</strong> the 1993 constitutional revision that further devolved Belgium into a federal state created three levels of government (federal, regional, and linguistic community) with a complex division of responsibilities; this results in six governments, each with its own legislative assembly<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives (Chambre des Représentants)<br>
+_number of seats_: 150 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 6/9/2024<br>
+_parties elected and seats per party_: New Flemish Alliance (N-VA) (24); Vlaams Belang (Flemish Interest) (20); Movement for Reform (MR) (20); Socialist Party in Wallonia (PS) (16); Workers' Party of Belgium (PTB*PVDA) (15); LES ENGAGÉS (14); Vooruit (13); Christian Democratic and Flemish (CD&V) (11); Other (17)<br>
+_percentage of women in chamber_: 41.3%<br>
+_expected date of next election_: June 2029<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Sénat - Senaat - Senat)<br>
+_number of seats_: 60 (all indirectly elected)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 7/18/2024<br>
+_percentage of women in chamber_: 47.5%<br>
+_expected date of next election_: July 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Constitutional Court or Grondwettelijk Hof (in Dutch) and Cour Constitutionelle (in French) (consists of 12 judges - 6 Dutch-speaking and 6 French-speaking); Supreme Court of Justice or Hof van Cassatie (in Dutch) and Cour de Cassation (in French) (court organized into 3 chambers: civil and commercial; criminal; social, fiscal, and armed forces; each chamber includes a Dutch division and a French division, each with a chairperson and 5-6 judges)<br>
@@ -390,25 +409,25 @@ _selected World Heritage Site locales_: Belfries of Belgium (c); Historic Brugge
 high-income, core EU and eurozone economy; slow but steady growth supported by household consumption and energy shock recovery; high public debt and structural deficits linked to social spending; aging workforce with weak productivity growth and participation rates<br>
 
 **Real GDP (purchasing power parity)**<br>
-$751.592 billion (2023 est.)<br>
-$741.47 billion (2022 est.)<br>
-$719.771 billion (2021 est.)<br>
+$756.586 billion (2023 est.)<br>
+$747.233 billion (2022 est.)<br>
+$716.884 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.37% (2023 est.)<br>
-3.01% (2022 est.)<br>
+1.25% (2023 est.)<br>
+4.23% (2022 est.)<br>
 6.93% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$63,600 (2023 est.)<br>
-$63,500 (2022 est.)<br>
-$62,100 (2021 est.)<br>
+$64,200 (2023 est.)<br>
+$64,000 (2022 est.)<br>
+$61,900 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$632.217 billion (2023 est.)<br>
+$644.783 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -425,17 +444,17 @@ _Standard & Poors rating_: AA (2011)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.8% (2023 est.)<br>
-_industry_: 18.4% (2023 est.)<br>
-_services_: 70.7% (2023 est.)<br>
+_industry_: 18.5% (2023 est.)<br>
+_services_: 71.1% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 51.4% (2023 est.)<br>
-_government consumption_: 24.2% (2023 est.)<br>
-_investment in fixed capital_: 24.6% (2023 est.)<br>
-_investment in inventories_: 0.7% (2023 est.)<br>
-_exports of goods and services_: 86.7% (2023 est.)<br>
-_imports of goods and services_: -87.6% (2023 est.)<br>
+_household consumption_: 50.4% (2023 est.)<br>
+_government consumption_: 23.8% (2023 est.)<br>
+_investment in fixed capital_: 24.4% (2023 est.)<br>
+_investment in inventories_: 0.9% (2023 est.)<br>
+_exports of goods and services_: 84.2% (2023 est.)<br>
+_imports of goods and services_: -84.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -446,11 +465,11 @@ sugar beets, milk, potatoes, wheat, pork, lettuce, maize, chicken, barley, pears
 engineering and metal products, motor vehicle assembly, transportation equipment, scientific instruments, processed food and beverages, chemicals, pharmaceuticals, base metals, textiles, glass, petroleum<br>
 
 **Industrial production growth rate**<br>
--1.95% (2023 est.)<br>
+0.25% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.432 million (2023 est.)<br>
+5.419 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -483,9 +502,9 @@ _highest 10%_: 21.9% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.29% of GDP (2023 est.)<br>
-2.3% of GDP (2022 est.)<br>
-2.34% of GDP (2021 est.)<br>
+2.3% of GDP (2023 est.)<br>
+2.35% of GDP (2022 est.)<br>
+2.39% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -494,23 +513,23 @@ _expenditures_: $234.883 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-94.04% of GDP (2022 est.)<br>
+92.48% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-23.09% (of GDP) (2022 est.)<br>
+22.71% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$6.205 billion (2023 est.)<br>
--$5.304 billion (2022 est.)<br>
-$8.233 billion (2021 est.)<br>
+-$4.503 billion (2023 est.)<br>
+-$7.031 billion (2022 est.)<br>
+$11.165 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$535.174 billion (2023 est.)<br>
-$558.271 billion (2022 est.)<br>
-$527.746 billion (2021 est.)<br>
+$542.508 billion (2023 est.)<br>
+$565.233 billion (2022 est.)<br>
+$535.988 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -522,9 +541,9 @@ natural gas, vaccines, refined petroleum, packaged medicine, cars (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$545.471 billion (2023 est.)<br>
-$567.164 billion (2022 est.)<br>
-$516.8 billion (2021 est.)<br>
+$546.426 billion (2023 est.)<br>
+$573.192 billion (2022 est.)<br>
+$524.617 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

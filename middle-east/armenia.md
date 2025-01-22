@@ -337,9 +337,16 @@ _election results_: <br><em>2022: </em>Vahagn KHACHATURYAN elected president in 
 <strong>note:</strong> Nikol PASHINYAN was first elected prime minister on 8 May 2018 and reelected on January 2019; in response to a political crisis that followed Armenia's defeat in the Second Nagorno-Karabakh War in late 2020, PASHINYAN called an early legislative election for 21 June 2021; his party won the election and PASHINYAN was elected prime minister for a third time; his election was confirmed by the president on 2 August 2021, and he was sworn in on 10 September 2021<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly (Parliament) or Azgayin Zhoghov (minimum 101 seats; current - 107 seats; members directly elected in single-seat constituencies by closed party-list proportional representation vote; members serve 5-year terms; four mandates are reserved for national minorities)<br>
-_elections_: last held early on 20 June 2021 (next to be held in June 2026)<br>
-_election results_: percent of vote by party/coalition - Civil Contract 53.9%, Armenia Alliance 21%, I Have Honour Alliance 5.2%, other 19.9%; seats by party/coalition - Civil Contract 71, Armenia Alliance 29, I Have Honour Alliance 7; composition - men 68, women 39, percentage women 36.5%<br>
+_legislature name_: National Assembly (Azgayin Zhoghov)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 107 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 6/20/2021<br>
+_parties elected and seats per party_: Civil Contract Party (71); Armenia Alliance (29); I Have the Honour Alliance (7)<br>
+_percentage of women in chamber_: 36.4%<br>
+_expected date of next election_: June 2026<br>
 <strong>note 1:</strong> additional seats allocated as necessary; the numbers usually change with each parliamentary convocation<br><br><strong>note 2:</strong> four mandates are reserved for national minorities; no more than 70% of the top membership of a party list can belong to the same sex; political parties must meet a 5% threshold and alliances a 7% threshold to win seats; at least three parties must be seated in the Parliament<br>
 
 **Judicial branch**<br>
@@ -390,25 +397,25 @@ _selected World Heritage Site locales_: Monasteries of Haghpat and Sanahin; Mona
 EEU-and CIS-member state but seeking more EU and US trade; business-friendly growth environments; stable monetary regime but vulnerable demand economy; key copper and gold exporter; persistent unemployment; large diaspora and remittances<br>
 
 **Real GDP (purchasing power parity)**<br>
-$57.728 billion (2023 est.)<br>
+$57.516 billion (2023 est.)<br>
 $53.108 billion (2022 est.)<br>
 $47.165 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-8.7% (2023 est.)<br>
+8.3% (2023 est.)<br>
 12.6% (2022 est.)<br>
 5.8% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$20,800 (2023 est.)<br>
-$19,100 (2022 est.)<br>
-$16,900 (2021 est.)<br>
+$19,200 (2023 est.)<br>
+$17,900 (2022 est.)<br>
+$15,900 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$24.212 billion (2023 est.)<br>
+$24.086 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -423,18 +430,18 @@ _Moody's rating_: Ba3 (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 8.4% (2023 est.)<br>
-_industry_: 23.9% (2023 est.)<br>
-_services_: 59% (2023 est.)<br>
+_agriculture_: 8.5% (2023 est.)<br>
+_industry_: 23.4% (2023 est.)<br>
+_services_: 59.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 65.3% (2023 est.)<br>
+_household consumption_: 65.4% (2023 est.)<br>
 _government consumption_: 14.1% (2023 est.)<br>
-_investment in fixed capital_: 20.8% (2023 est.)<br>
-_investment in inventories_: 0.6% (2023 est.)<br>
-_exports of goods and services_: 58.2% (2023 est.)<br>
-_imports of goods and services_: -58.9% (2023 est.)<br>
+_investment in fixed capital_: 20.9% (2023 est.)<br>
+_investment in inventories_: 0.4% (2023 est.)<br>
+_exports of goods and services_: 59.5% (2023 est.)<br>
+_imports of goods and services_: -60.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -445,11 +452,11 @@ milk, potatoes, grapes, tomatoes, vegetables, wheat, watermelons, apricots, appl
 brandy, mining, diamond processing, metal-cutting machine tools, forging and pressing machines, electric motors, knitted wear, hosiery, shoes, silk fabric, chemicals, trucks, instruments, microelectronics, jewelry, software, food processing<br>
 
 **Industrial production growth rate**<br>
-5.51% (2023 est.)<br>
+2.7% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.356 million (2023 est.)<br>
+1.475 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -478,8 +485,8 @@ _highest 10%_: 23% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-7.64% of GDP (2023 est.)<br>
-10.43% of GDP (2022 est.)<br>
+6.03% of GDP (2023 est.)<br>
+10.41% of GDP (2022 est.)<br>
 11.22% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -497,15 +504,15 @@ _expenditures_: $4.13 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$510.104 million (2023 est.)<br>
-$150.994 million (2022 est.)<br>
+-$556.329 million (2023 est.)<br>
+$64.725 million (2022 est.)<br>
 -$482.982 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$14.13 billion (2023 est.)<br>
-$10.038 billion (2022 est.)<br>
-$5.012 billion (2021 est.)<br>
+$14.338 billion (2023 est.)<br>
+$10.118 billion (2022 est.)<br>
+$5.04 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -517,9 +524,9 @@ copper ore, gold, diamonds, tobacco, iron alloys (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$14.279 billion (2023 est.)<br>
-$10.186 billion (2022 est.)<br>
-$6.12 billion (2021 est.)<br>
+$14.532 billion (2023 est.)<br>
+$10.265 billion (2022 est.)<br>
+$6.155 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -537,7 +544,7 @@ $3.23 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$6.028 billion (2022 est.)<br>
+$6.352 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -611,7 +618,7 @@ _domestic_: roughly 13 per 100 fixed-line and 135 per 100 mobile-cellular; relia
 _international_: country code - 374; Yerevan is connected to the&nbsp;Caucasus Cable System&nbsp;fiber-optic cable through Georgia and Iran to Europe; additional international service is available by microwave radio relay and landline connections to the other countries of the Commonwealth of Independent States, through the Moscow international switch, and by satellite to the rest of the world; satellite earth stations - 3 (2019)<br>
 
 **Broadcast media**<br>
-<p>Armenia’s government-run Public Television network operates alongside 100 privately owned TV stations that provide local to near nationwide coverage; three Russian TV companies are broadcast in Armenia under interstate agreements; subscription cable TV services are available in most regions; several major international broadcasters are available, including CNN; Armenian TV completed conversion from analog to digital broadcasting in late 2016; Public Radio of Armenia is a national, state-run broadcast network that operates alongside 18 privately owned radio stations</p> (2019)<br>
+<p>Armenia’s government-run Public Television network operates alongside 100 privately owned TV stations that provide local to near nationwide coverage; three Russian TV companies are broadcast in Armenia under interstate agreements; subscription cable TV services are available in most regions; several major international broadcasters are available, including CNN; Armenian TV completed conversion from analog to digital broadcasting in late 2016; Public Radio of Armenia is a national, state-run broadcast network that operates alongside 18 privately owned radio stations</p> (2024)<br>
 
 **Internet country code**<br>
 .am<br>

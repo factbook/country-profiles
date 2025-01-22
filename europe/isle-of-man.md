@@ -266,10 +266,29 @@ _elections/appointments_: the monarchy is hereditary; lieutenant governor appoin
 _election results_: <em><br>2021:</em> Alfred CANNAN (independent) elected chief minister; Tynwald House of Keys vote - 21 of 24<br><br><em>2016:</em> Howard QUAYLE elected chief minister; Tynwald House of Keys vote - 21 of 33<br>
 
 **Legislative branch**<br>
-_description_: bicameral Tynwald or the High Court of Tynwald consists of:<br>Legislative Council (11 seats; renewal of 4 members every 2 years; elected members serve 4-year terms) <br>House of Keys (24 seats; 2 members each from 12 constituencies directly elected by simple majority vote to serve 5-year terms)<br>
-_elections_: Legislative Council - last held 14 March 2023 (next to be held by March 2028)<br>House of Keys - last held on 23 September 2021 (next to be held on 24 September 2026)<br>
-_election results_: <p>Legislative Council - composition - men 6, women 4, vacant 1; percentage women 36.4%</p> <p>House of Keys - percent of vote by party - Liberal Vannin 5.3%, Manx Labour Party 5.1%, Green Party 3.3% independent 86.3%; seats by party - independent 21; Manx Labour Party 2, Liberal Vannin 1; composition – men 14, women 10, percentage women 41.7%; total Tynwald percentage women 40%</p><br>
+_legislature name_: Tynwald (High Court of Tynwald)<br>
+_legislative structure_: bicameral<br>
 <strong>note:</strong> Legislative Council includes the President of Tynwald, 2 non-voting members (the Lord Bishop of Sodor and Man and the attorney general), and 8 members indirectly elected by the House of Keys<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Keys<br>
+_number of seats_: 24 (directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 9/23/2021<br>
+_parties elected and seats per party_: independent (21); Manx Labour Party (2); Liberal Vannin (1)<br>
+_percentage of women in chamber_: 40%<br>
+_expected date of next election_: September 2026<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Legislative Council<br>
+_number of seats_: 11 (3 appointed, 8 indirectly elected)<br>
+_scope of elections_: partial renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 3/14/2023<br>
+_percentage of women in chamber_: 36.4%<br>
+_expected date of next election_: March 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Isle of Man High Court of Justice (consists of 3 permanent judges or "deemsters" and 1 judge of appeal; organized into the Staff of Government Division or Court of Appeal and the Civil Division); the Court of General Gaol Delivery is not formally part of the High Court but is administered as though part of the High Court and deals with serious criminal cases; note - appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>

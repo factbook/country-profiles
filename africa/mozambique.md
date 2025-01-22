@@ -349,9 +349,16 @@ _elections/appointments_: president elected directly by absolute majority popula
 _election results_: <em><br>2019</em>: Filipe NYUSI reelected president in first round; percent of vote - Filipe NYUSI (FRELIMO) 73.0%, Ossufo MOMADE (RENAMO) 21.9%, Daviz SIMANGO (MDM) 5.1%<br><br><em>2014</em>:  Filipe NYUSI elected president in first round; percent of vote - Filipe NYUSI (FRELIMO) 57.0%, Afonso DHLAKAMA (RENAMO) 36.6%, Daviz SIMANGO (MDM) 6.4%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Assembly of the Republic or Assembleia da Republica (250 seats; 248 members elected in multi-seat constituencies by party-list proportional representation vote and 2 members representing Mozambicans abroad directly elected by simple majority vote; members serve 5-year terms)<br>
-_elections_: last held on 15 October 2019 (next to be held on 9 October 2024)<br>
-_election results_: percent of vote by party - FRELIMO 71%, RENAMO 23%, MDM 4%; seats by party - FRELIMO 184, RENAMO 60, MDM 6; composition - men 142, women 108, percentage women 43.2%<br>
+_legislature name_: Assembly of the Republic (Assembleia da Republica)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 250 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 10/9/2024<br>
+_parties elected and seats per party_: Mozambique Liberation Front (FRELIMO) (195); Optimist Party for the Development of Mozambique (PODEMOS) (31); Mozambican National Resistance (RENAMO) (20); Other (4)<br>
+_percentage of women in chamber_: 43.2%<br>
+_expected date of next election_: October 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the court president, vice president, and 5 judges); Constitutional Council (consists of 7 judges); note - the Higher Council of the Judiciary Magistracy is responsible for judiciary management and discipline<br>
@@ -400,13 +407,13 @@ _selected World Heritage Site locales_: Island of Mozambique<br>
 low-income East African economy; subsistence farming dominates labor force; return to growth led by agriculture and extractive industries; Islamist insurgency threatens natural gas projects in north; ongoing foreign debt restructuring and resolution under IMF Highly Indebted Poor Countries (HIPC) initiative<br>
 
 **Real GDP (purchasing power parity)**<br>
-$50.631 billion (2023 est.)<br>
-$48.22 billion (2022 est.)<br>
+$50.844 billion (2023 est.)<br>
+$48.222 billion (2022 est.)<br>
 $46.206 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5% (2023 est.)<br>
+5.44% (2023 est.)<br>
 4.36% (2022 est.)<br>
 2.38% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
@@ -414,11 +421,11 @@ $46.206 billion (2021 est.)<br>
 **Real GDP per capita**<br>
 $1,500 (2023 est.)<br>
 $1,500 (2022 est.)<br>
-$1,400 (2021 est.)<br>
+$1,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$20.625 billion (2023 est.)<br>
+$20.954 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -434,17 +441,18 @@ _Standard & Poors rating_: CCC+ (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 26.7% (2022 est.)<br>
-_industry_: 22.8% (2022 est.)<br>
-_services_: 40.6% (2022 est.)<br>
+_agriculture_: 25.9% (2023 est.)<br>
+_industry_: 21.3% (2023 est.)<br>
+_services_: 40.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 75.2% (2022 est.)<br>
-_government consumption_: 16.7% (2022 est.)<br>
-_investment in fixed capital_: 38.6% (2022 est.)<br>
-_exports of goods and services_: 52.5% (2022 est.)<br>
-_imports of goods and services_: -83% (2022 est.)<br>
+_household consumption_: 78% (2023 est.)<br>
+_government consumption_: 17.2% (2023 est.)<br>
+_investment in fixed capital_: 19.9% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
+_exports of goods and services_: 45.3% (2023 est.)<br>
+_imports of goods and services_: -60.3% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -455,11 +463,11 @@ cassava, sugarcane, maize, tomatoes, sweet potatoes, beans, bananas, onions, ric
 aluminum, petroleum products, chemicals (fertilizer, soap, paints), textiles, cement, glass, asbestos, tobacco, food, beverages<br>
 
 **Industrial production growth rate**<br>
-10.43% (2023 est.)<br>
+13.76% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-15.191 million (2023 est.)<br>
+14.685 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -479,17 +487,17 @@ _female_: 7.3% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-50.5 (2019 est.)<br>
+50.3 (2019 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.6% (2019 est.)<br>
-_highest 10%_: 41.2% (2019 est.)<br>
+_lowest 10%_: 1.7% (2019 est.)<br>
+_highest 10%_: 41.1% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-3.22% of GDP (2023 est.)<br>
-1.34% of GDP (2022 est.)<br>
+3.17% of GDP (2023 est.)<br>
+1.3% of GDP (2022 est.)<br>
 4.57% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -499,11 +507,11 @@ _expenditures_: $4.91 billion (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-78.62% of GDP (2022 est.)<br>
+76.64% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-23.25% (of GDP) (2022 est.)<br>
+22.66% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -541,10 +549,13 @@ ships, refined petroleum, iron alloys, chromium ore, refined copper (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.515 billion (2023 est.)<br>
+$3.637 billion (2023 est.)<br>
 $2.939 billion (2022 est.)<br>
 $3.781 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+
+**Debt - external**<br>
+$8.92 billion (2023 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: meticais (MZM) per US dollar -<br>

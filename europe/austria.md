@@ -342,15 +342,30 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Alexander VAN DER BELLEN (since 26 January 2017)<br>
-_head of government_: Chancellor Karl NEHAMMER (since 6 December 2021)<br>
+_head of government_: Alexander SCHALLENBERG (since 10 January 2025) serving as interim Chancellor following the 4 January 2025 resignation of Karl NEHAMMER<br>
 _cabinet_: Council of Ministers proposed by the chancellor and appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 9 October 2022 (next to be held in 2028); chancellor appointed by the president but determined by the majority coalition parties in the Federal Assembly; vice chancellor appointed by the president on the advice of the chancellor<br>
 _election results_: <br><em>2022:</em> Alexander VAN DER BELLEN reelected in first round; percent of vote - Alexander VAN DER BELLEN (independent) 56.7%, Walter ROSENKRANZ (FPO) 17.7%, Dominik WLAZNY (Beer Party) 8.3%, Tassilo WALLENTIN (independent) 8.1%, Gerald GROSZ (independent) 5.6%<em><br><br>2016:</em> Alexander VAN DER BELLEN elected in second round; percent of vote in first round - Norbert HOFER (FPOe) 35.1%, Alexander VAN DER BELLEN (independent, allied with the Greens) 21.3%, Irmgard GRISS (independent) 18.9%, Rudolf HUNDSTORFER (SPOe) 11.3%, Andreas KHOL (OeVP) 11.1%, Richard LUGNER (independent) 2.3%; percent of vote in second round - Alexander VAN DER BELLEN 53.8%, Norbert HOFER 46.2%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Federal Assembly or Bundesversammlung consists of:<br>Federal Council or Bundesrat (61 seats - currently 60; members appointed by state parliaments with each state receiving 3 to 12 seats in proportion to its population; members serve 5- or 6-year terms)<br>National Council or Nationalrat (183 seats; members directly elected in single-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
-_elections_: Federal Council - last appointed in 2021<br>National Council - last held on 29 September 2024 (next to be held by 30 September 2029)<br>
-_election results_: Federal Council - percent of vote by party - OeVP 42.6%, SPOe 31.2%. FPOe 16.4%, The Greens 8.2%, NEOS 1.6%; seats by party - OeVP 26, SPOe 19, FPOe 10, The Greens 5, NEOS 1; composition - men 32, women 28, percentage women 46.7%<br><br>National Council - seats by party - FPOe 57, OeVP 51, SPOe 41, NEOS 18, The Greens 26; composition - men 117, women 66, percentage women 36.1%; total Federal Assembly percentage women 38.7%<br>
+_legislature name_: Parliament (Parlament)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: National Council (Nationalrat)<br>
+_number of seats_: 183 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 9/29/2024<br>
+_parties elected and seats per party_: Freedom Party (FPÖ) (57); People's Party (ÖVP) (51); Social Democratic Party (SPÖ) (41); NEOS (“New Austria”) (18); Greens (16)<br>
+_percentage of women in chamber_: 36.1%<br>
+_expected date of next election_: September 2029<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Federal Council (Bundesrat)<br>
+_number of seats_: 60 (all indirectly elected)<br>
+_percentage of women in chamber_: 48.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Oberster Gerichtshof (consists of 85 judges organized into 17 senates or panels of 5 judges each); Constitutional Court or Verfassungsgerichtshof (consists of 20 judges including 6 substitutes; Administrative Court or Verwaltungsgerichtshof - 2 judges plus other members depending on the importance of the case)<br>
@@ -401,25 +416,25 @@ _selected World Heritage Site locales_: Historic Salzburg (c); Palace and Garden
 one of the strongest EU and euro economies; diversified trade portfolios and relations; enormous trade economy; Russian energy dependence, but investing in alternative energy; aging labor force but large refugee population; large government debt<br>
 
 **Real GDP (purchasing power parity)**<br>
-$590.354 billion (2023 est.)<br>
-$595.287 billion (2022 est.)<br>
-$567.987 billion (2021 est.)<br>
+$593.703 billion (2023 est.)<br>
+$599.427 billion (2022 est.)<br>
+$569.376 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--0.83% (2023 est.)<br>
-4.81% (2022 est.)<br>
+-0.95% (2023 est.)<br>
+5.28% (2022 est.)<br>
 4.24% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$64,600 (2023 est.)<br>
-$65,800 (2022 est.)<br>
-$63,400 (2021 est.)<br>
+$65,000 (2023 est.)<br>
+$66,300 (2022 est.)<br>
+$63,600 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$516.034 billion (2023 est.)<br>
+$511.685 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -436,17 +451,17 @@ _Standard & Poors rating_: AA+ (2012)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.3% (2023 est.)<br>
-_industry_: 26.3% (2023 est.)<br>
-_services_: 62.3% (2023 est.)<br>
+_industry_: 25.2% (2023 est.)<br>
+_services_: 63.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 51.8% (2023 est.)<br>
-_government consumption_: 20.3% (2023 est.)<br>
-_investment in fixed capital_: 24.4% (2023 est.)<br>
-_investment in inventories_: 0.9% (2023 est.)<br>
+_household consumption_: 52.2% (2023 est.)<br>
+_government consumption_: 20.5% (2023 est.)<br>
+_investment in fixed capital_: 24.9% (2023 est.)<br>
+_investment in inventories_: 0.5% (2023 est.)<br>
 _exports of goods and services_: 59.5% (2023 est.)<br>
-_imports of goods and services_: -56.6% (2023 est.)<br>
+_imports of goods and services_: -57.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -461,7 +476,7 @@ construction, machinery, vehicles and parts, food, metals, chemicals, lumber and
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.825 million (2023 est.)<br>
+4.829 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -496,7 +511,7 @@ _highest 10%_: 23.8% (2021 est.)<br>
 **Remittances**<br>
 0.64% of GDP (2023 est.)<br>
 0.64% of GDP (2022 est.)<br>
-0.67% of GDP (2021 est.)<br>
+0.66% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -505,23 +520,23 @@ _expenditures_: $225.52 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-75.05% of GDP (2022 est.)<br>
+74.92% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-26.24% (of GDP) (2022 est.)<br>
+26.19% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$13.686 billion (2023 est.)<br>
--$1.29 billion (2022 est.)<br>
-$7.77 billion (2021 est.)<br>
+$6.783 billion (2023 est.)<br>
+-$3.911 billion (2022 est.)<br>
+$8.244 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$306.466 billion (2023 est.)<br>
-$292.012 billion (2022 est.)<br>
-$267.791 billion (2021 est.)<br>
+$303.914 billion (2023 est.)<br>
+$291.804 billion (2022 est.)<br>
+$269.392 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -533,9 +548,9 @@ cars, packaged medicine, vaccines, plastic products, electricity (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$288.146 billion (2023 est.)<br>
-$290.277 billion (2022 est.)<br>
-$264.231 billion (2021 est.)<br>
+$293.692 billion (2023 est.)<br>
+$294.324 billion (2022 est.)<br>
+$265.604 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -621,7 +636,7 @@ _domestic_: developed and efficient; 43 per 100 fixed telephone subscriptions; 1
 _international_: country code - 43; earth stations available in the Astra, Intelsat, Eutelsat satellite systems (2019)<br>
 
 **Broadcast media**<br>
-worldwide cable and satellite TV are available; the public incumbent ORF competes with three other major, several regional domestic, and up to 400 international TV stations; TV coverage is in principle 100%, but only 90% use broadcast media; Internet streaming not only complements, but increasingly replaces regular TV stations (2019)<br>
+<p class="ssrcss-1q0x1qg-Paragraph e1jhz7w10">Austria's public broadcaster, Oesterreichischer Rundfunk (ORF), is a major player in the TV and radio markets, it faces competition from private broadcasters, cable or satellite TV is available in most homes and is often used to watch German stations, some of which carry programs for Austrian viewers, a daily newspaper is a must for many Austrians, national and regional titles contest fiercely for readers, the print media are owned by a handful of mostly Austrian and German media groups</p> (2023)<br>
 
 **Internet country code**<br>
 .at<br>

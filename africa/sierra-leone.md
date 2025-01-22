@@ -326,16 +326,23 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Julius Maada BIO (since 27 June 2023)<br>
+_chief of state_: President Julius Maada BIO (since 27 June 2023) note - the president is chief of state, head of government, and Minister of Defense<br>
 _head of government_: President Julius Maada BIO (since 27 June 2023)<br>
 _cabinet_: Ministers of State appointed by the president, approved by Parliament; the cabinet is responsible to the president<br>
-_elections/appointments_: president directly elected by 55% in the first round or absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 June 2023 (next to be held in June 2028) note - the president is chief of state, head of government, and Minister of Defense<br>
+_elections/appointments_: president directly elected by 55% in the first round or absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 June 2023 (next to be held in June 2028)<br>
 _election results_: <br><em>2023: </em>Julius Maada BIO reelected president in first round; percent of vote - Julius Maada BIO (SLPP) 56.2%, Samura KAMARA (APC) 41.2%, other 2.6%<br><em><br>2018: </em>Julius Maada BIO elected president in second round; percent of vote - Julius Maada BIO (SLPP) 51.8%, Samura KAMARA (APC) 48.2%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament (149 seats; 135 members directly elected in single-seat constituencies by a district block proportional representation vote and 14 seats for "paramount chiefs" indirectly elected; members serve 5-year terms)<br>
-_elections_: last held on 24 June 2023 (next to be held in 2028)<br>
-_election results_: percent of vote by party - NA; seats by party - SLPP 81, APC 54; composition - men 105, women 44, percentage women 29.5%<br>
+_legislature name_: Parliament<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 149 (135 directly elected; 14 indirectly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 6/24/2023<br>
+_parties elected and seats per party_: Sierra Leone People's Party (SLPP) (81); All People's Congress (APC) (54)<br>
+_percentage of women in chamber_: 29.5%<br>
+_expected date of next election_: June 2028<br>
 <strong>note:</strong> 14 seats are reserved for "paramount chiefs," who are indirectly elected to represent the 14 provincial districts<br>
 
 **Judicial branch**<br>
@@ -380,25 +387,25 @@ _lyrics/music_: Clifford Nelson FYLE/John Joseph AKA<br>
 low-income West African economy; primarily subsistent agriculture; key iron and diamond mining activities suspended; slow recovery from 1990s civil war; systemic corruption; high-risk debt; high youth unemployment; natural resource rich<br>
 
 **Real GDP (purchasing power parity)**<br>
-$14.633 billion (2023 est.)<br>
-$14.148 billion (2022 est.)<br>
-$13.675 billion (2021 est.)<br>
+$25.671 billion (2023 est.)<br>
+$24.284 billion (2022 est.)<br>
+$23.059 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.43% (2023 est.)<br>
-3.46% (2022 est.)<br>
+5.71% (2023 est.)<br>
+5.31% (2022 est.)<br>
 4.1% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$1,700 (2023 est.)<br>
-$1,600 (2022 est.)<br>
-$1,600 (2021 est.)<br>
+$3,000 (2023 est.)<br>
+$2,900 (2022 est.)<br>
+$2,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.81 billion (2023 est.)<br>
+$6.412 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -408,18 +415,18 @@ $3.81 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 64.4% (2023 est.)<br>
-_industry_: 7.8% (2023 est.)<br>
-_services_: 24.7% (2023 est.)<br>
+_agriculture_: 29.1% (2023 est.)<br>
+_industry_: 26% (2023 est.)<br>
+_services_: 42% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 106.2% (2023 est.)<br>
-_government consumption_: 8.8% (2023 est.)<br>
-_investment in fixed capital_: 11.5% (2023 est.)<br>
-_investment in inventories_: 0.3% (2023 est.)<br>
-_exports of goods and services_: 40.5% (2023 est.)<br>
-_imports of goods and services_: -67.3% (2023 est.)<br>
+_household consumption_: 87.6% (2023 est.)<br>
+_government consumption_: 5.5% (2023 est.)<br>
+_investment in fixed capital_: 19.8% (2023 est.)<br>
+_investment in inventories_: -0.1% (2023 est.)<br>
+_exports of goods and services_: 21.5% (2023 est.)<br>
+_imports of goods and services_: -34.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -430,11 +437,11 @@ cassava, rice, oil palm fruit, vegetables, sweet potatoes, milk, citrus fruits, 
 diamond mining; iron ore, rutile and bauxite mining; small-scale manufacturing (beverages, textiles, footwear)<br>
 
 **Industrial production growth rate**<br>
-3.27% (2023 est.)<br>
+14.39% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.913 million (2023 est.)<br>
+2.803 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -463,9 +470,9 @@ _highest 10%_: 29.4% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-6.1% of GDP (2023 est.)<br>
-7.85% of GDP (2022 est.)<br>
-5.47% of GDP (2021 est.)<br>
+6.82% of GDP (2023 est.)<br>
+4.52% of GDP (2022 est.)<br>
+3.24% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -479,15 +486,15 @@ _expenditures_: $867 million (2019 est.)<br>
 15.6% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
+-$320.42 million (2023 est.)<br>
 -$156.702 million (2022 est.)<br>
 -$395.465 million (2021 est.)<br>
--$320.411 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$1.304 billion (2023 est.)<br>
 $1.195 billion (2022 est.)<br>
 $1.114 billion (2021 est.)<br>
-$661.505 million (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -499,9 +506,9 @@ iron ore, titanium ore, diamonds, wood, aluminum ore (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$2.044 billion (2023 est.)<br>
 $2.013 billion (2022 est.)<br>
 $1.906 billion (2021 est.)<br>
-$1.386 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -519,7 +526,7 @@ $945.908 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$1.072 billion (2022 est.)<br>
+$1.586 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

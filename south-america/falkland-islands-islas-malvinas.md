@@ -210,9 +210,15 @@ _cabinet_: Executive Council elected by the Legislative Council<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; chief executive appointed by the governor<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Assembly, formerly the Legislative Council (10 seats; 5 members directly elected from the Stanley constituency and 3 members from the Camp constituency, both by simple majority vote, 2 appointed non-voting ex-officio members - the chief executive, appointed by the governor, and the financial secretary; the attorney general and Commander British Forces South Atlantic Islands are also invited to attend; members serve 4-year terms)<br>
-_elections_: last held on 4 November 2021 (next to be held in November 2025)<br>
-_election results_: percent of vote - NA; seats - independent 8; composition of elected members - men 6, women 2, percentage women 25% (does not include speaker)<br>
+_legislature name_: Legislative Assembly<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 10 (8 directly elected, 2 appointed)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 11/4/2021<br>
+_percentage of women in chamber_: 25% note: does not include the speaker<br>
+_expected date of next election_: November 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president, the chief justice as an ex officio non-resident member, and 2 justices of appeal); Supreme Court (consists of the chief justice); note - appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>

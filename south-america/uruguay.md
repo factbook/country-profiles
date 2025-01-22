@@ -348,13 +348,34 @@ _chief of state_: President Luis Alberto LACALLE POU (since 1 March 2020)<br>
 _head of government_: President Luis Alberto LACALLE POU (since 1 March 2020)<br>
 _cabinet_: Council of Ministers appointed by the president with approval of the General Assembly<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority vote in 2 rounds if needed for a 5-year term (eligible for nonconsecutive terms); election last held on 27 October 2024 with a runoff on 24 November 2024 (next to be held on 28 October 2029 and a runoff, if needed, on 25 November 2029)<br>
-_election results_: <em><br>2024: </em>Yamandú ORSI Martínez elected president in second round; percent of vote in first round - Yamandú ORSI Martínez (FA) 46.2%, Álvaro Luis DELGADO Ceretta (PN) 28.2%, Andrés OJEDA Ojeda Spitz (PC) 16.9%, other 8.7%; percent of vote in second round - Yamandú ORSI Martínez 52.1%, Álvaro Luis DELGADO Ceretta 47.9%; note - ORSI will take office 1 March 2025<br><em><br>2019:</em> Luis Alberto LACALLE POU elected president in second round; percent of vote in first round - Daniel MARTINEZ (FA) 40.7%, Luis Alberto LACALLE POU (PN) 29.7%, Ernesto TALVI (Colorado Party) 12.8%, Guido MANINI RIOS (Open Cabildo) 11.3%, other 5.5%; percent of vote in second round - Luis Alberto LACALLE POU 50.6%, Daniel MARTINEZ 49.4%<br><br><em>2014:</em> Tabare VAZQUEZ elected president in second round; percent of vote - Tabare VAZQUEZ (Socialist Party) 56.5%, Luis Alberto LACALLE Pou (PN) 43.4%<br>
+_election results_: <em>2024: </em>Yamandú ORSI Martínez elected president in second round; percent of vote in first round - Yamandú ORSI Martínez (FA) 46.2%, Álvaro Luis DELGADO Ceretta (PN) 28.2%, Andrés OJEDA Ojeda Spitz (PC) 16.9%, other 8.7%; percent of vote in second round - Yamandú ORSI Martínez 52.1%, Álvaro Luis DELGADO Ceretta 47.9%; note - ORSI will take office 1 March 2025<br><em><br>2019:</em> Luis Alberto LACALLE POU elected president in second round; percent of vote in first round - Daniel MARTINEZ (FA) 40.7%, Luis Alberto LACALLE POU (PN) 29.7%, Ernesto TALVI (Colorado Party) 12.8%, Guido MANINI RIOS (Open Cabildo) 11.3%, other 5.5%; percent of vote in second round - Luis Alberto LACALLE POU 50.6%, Daniel MARTINEZ 49.4%<br><br><em>2014:</em> Tabare VAZQUEZ elected president in second round; percent of vote - Tabare VAZQUEZ (Socialist Party) 56.5%, Luis Alberto LACALLE Pou (PN) 43.4%<br>
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: bicameral General Assembly or Asamblea General consists of:<br>Chamber of Senators or Camara de Senadores (30 seats; members directly elected in a single nationwide constituency by proportional representation vote; the vice-president serves as the presiding ex-officio member; elected members serve 5-year terms)<br>Chamber of Representatives or Camara de Representantes (99 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 5-year terms)<br>
-_elections_: Chamber of Senators - last held on 27 October 2019 (next to be held on 27 October 2024) <br>Chamber of Representatives - last held on 27 October 2019 (next to be held on 27 October 2024)<br>
-_election results_: Chamber of Senators - percent of vote by party/coalition - NA; seats by party/coalition - Frente Amplio 13, National Party 10, Colorado Party 4, Open Cabildo 3; composition - men 21, women 10, percentage women 32.3%<br><br>Chamber of Representatives - percent of vote by party/coalition - NA; seats by coalition/party - Frente Amplio 42, National Party 30, Colorado Party 13, Open Cabildo 11, Independent Party 1, other 2; composition - men 74, women 25, percentage women 25.3%; note - total General Assembly percentage women 26.9%<br>
+_legislature name_: General Assembly (Asamblea General)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives (Cámara de Representantes)<br>
+_number of seats_: 99 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 10/27/2024<br>
+_parties elected and seats per party_: Broad Front (FA) (48); National Party (PN) (29); Colorado Party (PC) (17); Other (5)<br>
+_percentage of women in chamber_: 28.3%<br>
+_expected date of next election_: October 2029<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (C&aacute;mara de Senadores)<br>
+_number of seats_: 31 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 10/27/2024<br>
+_parties elected and seats per party_: Broad Front (FA) (16); National Party (PN) (9); Colorado Party (PC) (5)<br>
+_percentage of women in chamber_: 32.3%<br>
+_expected date of next election_: October 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of 5 judges)<br>
@@ -417,9 +438,9 @@ $100.004 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$30,700 (2023 est.)<br>
-$30,600 (2022 est.)<br>
-$29,200 (2021 est.)<br>
+$31,000 (2023 est.)<br>
+$30,900 (2022 est.)<br>
+$29,400 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -461,11 +482,11 @@ milk, rice, wheat, barley, soybeans, beef, rapeseed, sugarcane, maize, oranges (
 food processing, electrical machinery, transportation equipment, petroleum products, textiles, chemicals, beverages<br>
 
 **Industrial production growth rate**<br>
--3.83% (2023 est.)<br>
+-3.74% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.775 million (2023 est.)<br>
+1.758 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -498,7 +519,7 @@ _highest 10%_: 30.5% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.16% of GDP (2023 est.)<br>
+0.17% of GDP (2023 est.)<br>
 0.18% of GDP (2022 est.)<br>
 0.21% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -517,15 +538,15 @@ _expenditures_: $18.58 billion (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$2.797 billion (2023 est.)<br>
--$2.725 billion (2022 est.)<br>
--$1.472 billion (2021 est.)<br>
+-$2.579 billion (2023 est.)<br>
+-$2.616 billion (2022 est.)<br>
+-$1.496 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$21.286 billion (2023 est.)<br>
-$22.611 billion (2022 est.)<br>
-$19.639 billion (2021 est.)<br>
+$22.052 billion (2023 est.)<br>
+$23.611 billion (2022 est.)<br>
+$19.973 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -537,9 +558,9 @@ beef, wood pulp, soybeans, milk, rice (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$18.865 billion (2023 est.)<br>
-$18.993 billion (2022 est.)<br>
-$15.134 billion (2021 est.)<br>
+$19.306 billion (2023 est.)<br>
+$19.406 billion (2022 est.)<br>
+$15.448 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

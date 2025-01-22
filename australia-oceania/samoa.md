@@ -313,9 +313,16 @@ _elections/appointments_: chief of state indirectly elected by the Legislative A
 _election results_: TUIMALEALI'IFANO Va&rsquo;aletoa Sualauvi II (independent) unanimously reelected by the Legislative Assembly<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Assembly or Fono (54 seats); members from single-seat constituencies directly elected by simple majority vote, with a minimum 10% representation of women in the Assembly required; members serve 5-year terms)<br>
-_elections_: election last held on 9 April 2021 (next election to be held in 2026)<br>
-_election results_: percent of vote by party - HRPP 55%, FAST 37%, TSP 3%, independent 5%; seats by party – 35 FAST, HRPP 18, independent 1; composition - men 47, women 7, percentage women 13%<strong><br></strong><br>
+_legislature name_: Legislative Assembly (Fono)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 51 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 4/9/2021 to 11/26/2021<br>
+_parties elected and seats per party_: Faatuatua ile Atua Samoa ua Tasi (FAST) (32); Human Rights Protection Party (HRPP) (22)<br>
+_percentage of women in chamber_: 13%<br>
+_expected date of next election_: March 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the chief justice and 2 Supreme Court judges and meets once or twice a year); Supreme Court (consists of the chief justice and several judges)<br>
@@ -362,25 +369,25 @@ _lyrics/music_: Sauni Liga KURESA<br>
 ower middle-income Pacific island economy; enormous fishing and agriculture industries; significant remittances; growing offshore financial hub; recently hosted Pacific Games to drive tourism and infrastructure growth<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.359 billion (2023 est.)<br>
+$1.366 billion (2023 est.)<br>
 $1.258 billion (2022 est.)<br>
-$1.329 billion (2021 est.)<br>
+$1.328 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-7.99% (2023 est.)<br>
+8.58% (2023 est.)<br>
 -5.31% (2022 est.)<br>
 -7.08% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$6,000 (2023 est.)<br>
-$5,700 (2022 est.)<br>
-$6,100 (2021 est.)<br>
+$6,300 (2023 est.)<br>
+$5,800 (2022 est.)<br>
+$6,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$934.1 million (2023 est.)<br>
+$938.189 million (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -391,17 +398,17 @@ $934.1 million (2023 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 11% (2023 est.)<br>
-_industry_: 11% (2023 est.)<br>
-_services_: 67.6% (2023 est.)<br>
+_industry_: 10.9% (2023 est.)<br>
+_services_: 67.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 86.2% (2023 est.)<br>
+_household consumption_: 87.7% (2023 est.)<br>
 _government consumption_: 18.2% (2023 est.)<br>
-_investment in fixed capital_: 34.7% (2023 est.)<br>
+_investment in fixed capital_: 34.5% (2023 est.)<br>
 _investment in inventories_: 2.6% (2023 est.)<br>
-_exports of goods and services_: 28.9% (2023 est.)<br>
-_imports of goods and services_: -62.2% (2023 est.)<br>
+_exports of goods and services_: 28.8% (2023 est.)<br>
+_imports of goods and services_: -61.9% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -416,7 +423,7 @@ food processing, building materials, auto parts<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-77,000 (2023 est.)<br>
+72,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -436,9 +443,9 @@ _female_: 29.9% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Remittances**<br>
-28.36% of GDP (2023 est.)<br>
+28.24% of GDP (2023 est.)<br>
 33.61% of GDP (2022 est.)<br>
-29.44% of GDP (2021 est.)<br>
+29.43% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -454,14 +461,14 @@ _expenditures_: $297.736 million (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$46.511 million (2023 est.)<br>
--$86.678 million (2022 est.)<br>
--$114.383 million (2021 est.)<br>
+$39.968 million (2023 est.)<br>
+-$74.107 million (2022 est.)<br>
+-$114.446 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$347.19 million (2023 est.)<br>
-$162.803 million (2022 est.)<br>
+$346.189 million (2023 est.)<br>
+$175.377 million (2022 est.)<br>
 $97.774 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
@@ -474,7 +481,7 @@ coconut oil, integrated circuits, insulated wire, citrus, power equipment (2022)
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$560.488 million (2023 est.)<br>
+$560.987 million (2023 est.)<br>
 $512.002 million (2022 est.)<br>
 $430.011 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -494,7 +501,7 @@ $294.682 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$279.335 million (2022 est.)<br>
+$289.446 million (2023 est.)<br>
 <strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

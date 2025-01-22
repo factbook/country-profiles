@@ -346,9 +346,16 @@ _elections/appointments_: president indirectly elected by the National Parliamen
 _election results_: President Mohammad Shahabuddin CHUPPI (AL) elected unopposed by the National Parliament; Sheikh HASINA reappointed prime minister for a fifth term following the 7 January 2024 parliamentary election<br>
 
 **Legislative branch**<br>
-_description_: unicameral House of the Nation or Jatiya Sangsad (350 seats; 300 members in single-seat territorial constituencies directly elected by simple majority vote; all members serve 5-year terms)<br>
-_elections_: last held on 7 January 2024 (next to be held in 2026)<br>
-_election results_: percent of vote by party - NA; seats by party as of December 2023 - AL 306, JP 27, BNP 0, other 14, independent 3; composition - men 280, women 70, percentage women 20%<br>
+_legislature name_: Parliament (Jatiya Sangsad)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 350 (300 directly elected; 50 indirectly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 1/7/2024<br>
+_parties elected and seats per party_: Bangladesh Awami League (AL) (272); Independents (62); Other (16)<br>
+_percentage of women in chamber_: 20%<br>
+_expected date of next election_: December 2025<br>
 <strong>note 1:</strong> 50 seats are reserved for women only and are indirectly elected by the House of the Nation members using proportional representation<br><br><strong>note 2:</strong> on 5 August 2024, Prime Minister Sheikh HASINA Wazed resigned, and the following day, President Mohammad Shahabuddin CHUPPI dissolved House of the Nation<br>
 
 **Judicial branch**<br>
@@ -412,7 +419,7 @@ $1.248 trillion (2021 est.)<br>
 
 **Real GDP per capita**<br>
 $8,200 (2023 est.)<br>
-$7,800 (2022 est.)<br>
+$7,900 (2022 est.)<br>
 $7,400 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
@@ -442,6 +449,7 @@ _services_: 51.1% (2023 est.)<br>
 _household consumption_: 68.6% (2023 est.)<br>
 _government consumption_: 5.7% (2023 est.)<br>
 _investment in fixed capital_: 31% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
 _exports of goods and services_: 13.2% (2023 est.)<br>
 _imports of goods and services_: -17.8% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -458,7 +466,7 @@ cotton, textiles and clothing, jute, tea, paper, cement, fertilizer, sugar, ligh
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-74.914 million (2023 est.)<br>
+71.445 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -491,7 +499,7 @@ _highest 10%_: 27.4% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-5.26% of GDP (2023 est.)<br>
+5.07% of GDP (2023 est.)<br>
 4.67% of GDP (2022 est.)<br>
 5.33% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -549,7 +557,7 @@ $46.166 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$53.63 billion (2022 est.)<br>
+$63.056 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

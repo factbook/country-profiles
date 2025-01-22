@@ -334,9 +334,17 @@ _election results_: <br><em>2020:</em> Mohammed Irfaan ALI (PPP/C) designated pr
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly (70 seats; 40 members directly elected in single-seat, nationwide constituencies, 25 directly elected in multi-seat constituencies -- all by closed-list proportional representation vote, 2 non-elected ministers, 2 non-elected parliamentary secretaries, and the speaker; members serve 5-year terms)<br>
-_elections_: last held on 2 March 2020 (next to be held in 2025)<br>
-_election results_: percent of vote by party - PPP/C 50.69%, APNU-AFC 47.34%, LJP 0.58%, ANUG 0.5%, TNM 0.05%, other 0.84%; seats by party - PPP/C 33, APNU-AFC 31, LJP-ANUG-TNM 1; composition - men 43, women 28, percentage women 39.4%; note - the initial results were declared invalid and a partial recount was conducted from 6 May to 8 June 2020, in which PPP/C was declared the winner<br>
+_legislature name_: Parliament of the Co-operative Republic of Guyana<br>
+_legislative structure_: unicameral<br>
+_chamber name_: National Assembly<br>
+_number of seats_: 69 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 3/2/2020<br>
+_parties elected and seats per party_: People's Progressive Party/Civic (PPP/C) (33); A Partnership for National Unity - Alliance for Change (APNU-AFC) (31); Other (1)<br>
+_percentage of women in chamber_: 39.4%<br>
+_expected date of next election_: March 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Judicature (consists of the Court of Appeal with a chief justice and 3 justices, and the High Court with a chief justice and 10 justices organized into 3- or 5-judge panels); note - in 2009, Guyana acceded to the Caribbean Court of Justice as the final court of appeal in civil and criminal cases, replacing that of the Judicial Committee of the Privy Council (in London)<br>
@@ -382,25 +390,25 @@ _lyrics/music_: Archibald Leonard LUKERL/Robert Cyril Gladstone POTTER<br>
 small, hydrocarbon-driven South American export economy; major forest coverage being leveraged in carbon credit offsets to encourage preservation; strengthening financial sector; large bauxite and gold resources<br>
 
 **Real GDP (purchasing power parity)**<br>
-$40.539 billion (2023 est.)<br>
-$30.476 billion (2022 est.)<br>
+$40.752 billion (2023 est.)<br>
+$30.457 billion (2022 est.)<br>
 $18.647 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-33.02% (2023 est.)<br>
-63.44% (2022 est.)<br>
+33.8% (2023 est.)<br>
+63.33% (2022 est.)<br>
 20.01% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$49,800 (2023 est.)<br>
-$37,700 (2022 est.)<br>
-$23,200 (2021 est.)<br>
+$49,300 (2023 est.)<br>
+$37,100 (2022 est.)<br>
+$22,900 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$16.786 billion (2023 est.)<br>
+$17.16 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -434,7 +442,7 @@ bauxite, sugar, rice milling, timber, textiles, gold mining<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-295,000 (2023 est.)<br>
+296,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -450,7 +458,7 @@ _female_: 32.4% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
-3.27% of GDP (2023 est.)<br>
+3.06% of GDP (2023 est.)<br>
 3.57% of GDP (2022 est.)<br>
 6.81% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -506,7 +514,7 @@ $790.785 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$1.631 billion (2022 est.)<br>
+$1.898 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

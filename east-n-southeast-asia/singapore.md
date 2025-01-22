@@ -331,9 +331,16 @@ _elections/appointments_: president directly elected by simple majority popular 
 _election results_: <em><br>2023: </em>THARMAN Shanmugaratnam elected president; percent of vote - THARMAN Shanmugaratnam (independent) 70.4%, NG Kok Song (independent) 15.7%, TAN Kin Lian (independent) 13.9%<br><em><br>2017</em>: HALIMAH Yacob declared president on 13 September 2017, being the only eligible candidate<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament (104 seats statutory; 93 members directly elected by simple majority popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to 12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms)<br>
-_elections_: last held on 10 July 2020 (next must be held by 24 November 2025)<br>
-_election results_: percent of vote by party - PAP 89.2%, WP 10.6%, other 0.2%; seats by party - PAP 79, WP 10, PSP 2, independent 9; composition - men 70, women 29, percentage women 29.3%<br>
+_legislature name_: Parliament<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 104 (93 directly elected; 9 appointed)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 7/10/2020<br>
+_parties elected and seats per party_: People's Action Party (PAP) (83); Workers' Party (WPS) (10); Other (2)<br>
+_percentage of women in chamber_: 29.3%<br>
+_expected date of next election_: July 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (although the number of judges varies - as of April 2019,&nbsp;the court&nbsp;totaled 20 judges, 7 judicial commissioners, 4 judges of appeal, and 16 international judges); the court is organized into an upper tier Appeal Court and a lower tier High Court<br>

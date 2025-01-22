@@ -350,9 +350,30 @@ _election results_: <br><em>2020:</em> Luis Alberto ARCE Catacora elected presid
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: bicameral Plurinational Legislative Assembly or Asamblea Legislativa Plurinacional consists of:<br>Chamber of Senators or Camara de Senadores (36 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms)<br>Chamber of Deputies or Camara de Diputados (130 seats; 70 members directly elected in single-seat constituencies by simple majority vote, 53 directly elected in single-seat constituencies by closed party-list proportional representation vote, and 7 (apportioned to non-contiguous, rural areas in 7 of the 9 states) directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
-_elections_: Chamber of Senators - last held on 18 October 2020 (next to be held in 2025)<br>Chamber of Deputies - last held on 18 October 2020 (next to be held in 2025)<br>
-_election results_: Chamber of Senators - percent of vote by party - NA; seats by party - MAS 21, ACC 11, Creemos 4; composition - men 16, women 20, percentage women 55.6%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - MAS 75, ACC 39, Creemos 16; composition - men 70, women 60, percentage women 46.2%; total Plurinational Legislative Assembly percentage women - 48.2%<br>
+_legislature name_: Plurinational Legislative Assembly (Asamblea Legislativa Plurinacional)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: Chamber of Deputies (Cámara de Diputados)<br>
+_number of seats_: 130 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 10/18/2020<br>
+_parties elected and seats per party_: Movement for Socialism (MAS-IPSP) (75); Civic Community (C.C) (39); Creemos (16)<br>
+_percentage of women in chamber_: 46.2%<br>
+_expected date of next election_: October 2025<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Chamber of Senators (Cámara de Senadores)<br>
+_number of seats_: 36 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 10/18/2020<br>
+_parties elected and seats per party_: Movement for Socialism (MAS-IPSP) (21); Civic Community (C.C) (11); Creemos (4)<br>
+_percentage of women in chamber_: 55.6%<br>
+_expected date of next election_: October 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Tribunal Supremo de Justicia (consists of 12 judges or ministros organized into civil, penal, social, and administrative chambers); Plurinational Constitutional Tribunal (consists of 7 primary and 7 alternate magistrates); Plurinational Electoral Organ (consists of 7 members and 6 alternates); National Agro-Environment Court (consists of 5 primary and 5 alternate judges; Council of the Judiciary (consists of 3 primary and 3 alternate judges)<br>
@@ -405,25 +426,25 @@ _selected World Heritage Site locales_: City of Potosi (c); El Fuerte de Samaipa
 resource-rich economy benefits during commodity booms; has bestowed juridical rights to Mother Earth, impacting extraction industries; increasing Chinese lithium mining trade relations; hard hit by COVID-19; increased fiscal spending amid poverty increases; rampant banking and finance corruption<br>
 
 **Real GDP (purchasing power parity)**<br>
-$119.785 billion (2023 est.)<br>
+$120.531 billion (2023 est.)<br>
 $116.927 billion (2022 est.)<br>
 $112.858 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.44% (2023 est.)<br>
+3.08% (2023 est.)<br>
 3.61% (2022 est.)<br>
 6.11% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$9,700 (2023 est.)<br>
-$9,600 (2022 est.)<br>
-$9,300 (2021 est.)<br>
+$9,800 (2023 est.)<br>
+$9,700 (2022 est.)<br>
+$9,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$45.85 billion (2023 est.)<br>
+$45.135 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -439,18 +460,18 @@ _Standard & Poors rating_: B+ (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 12.5% (2023 est.)<br>
-_industry_: 24.8% (2023 est.)<br>
-_services_: 51.3% (2023 est.)<br>
+_agriculture_: 13.5% (2023 est.)<br>
+_industry_: 24.2% (2023 est.)<br>
+_services_: 51.1% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 67.6% (2023 est.)<br>
+_household consumption_: 68.5% (2023 est.)<br>
 _government consumption_: 19.3% (2023 est.)<br>
 _investment in fixed capital_: 17.5% (2023 est.)<br>
-_investment in inventories_: -0.9% (2022 est.)<br>
-_exports of goods and services_: 27.3% (2023 est.)<br>
-_imports of goods and services_: -31.6% (2023 est.)<br>
+_investment in inventories_: 0.2% (2023 est.)<br>
+_exports of goods and services_: 25.5% (2023 est.)<br>
+_imports of goods and services_: -30.9% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -461,11 +482,11 @@ sugarcane, soybeans, potatoes, maize, rice, sorghum, milk, chicken, plantains, w
 mining, smelting, electricity, petroleum, food and beverages, handicrafts, clothing, jewelry<br>
 
 **Industrial production growth rate**<br>
-1% (2023 est.)<br>
+1.06% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-6.114 million (2023 est.)<br>
+6.073 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -481,7 +502,7 @@ _female_: 6.3% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-39% (2020 est.)<br>
+36.4% (2021 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -515,15 +536,15 @@ _expenditures_: $14.75 billion (2019 est.)<br>
 39.9% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
--$1.247 billion (2023 est.)<br>
-$939.089 million (2022 est.)<br>
-$1.582 billion (2021 est.)<br>
+-$1.175 billion (2023 est.)<br>
+$939.084 million (2022 est.)<br>
+$1.581 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$11.975 billion (2023 est.)<br>
+$11.905 billion (2023 est.)<br>
 $14.465 billion (2022 est.)<br>
-$11.596 billion (2021 est.)<br>
+$11.594 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -535,7 +556,7 @@ natural gas, gold, zinc ore, soybean meal, soybean oil (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$13.13 billion (2023 est.)<br>
+$12.988 billion (2023 est.)<br>
 $13.462 billion (2022 est.)<br>
 $10.187 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -555,7 +576,7 @@ $4.73 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$9.862 billion (2022 est.)<br>
+$11.953 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

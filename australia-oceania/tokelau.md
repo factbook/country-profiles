@@ -197,9 +197,16 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 <strong>note:</strong> the meeting place of the Tokelau Council and the head of government position rotates annually among the three atolls; this tradition has given rise to the somewhat misleading description that the capital rotates yearly between the three atolls; in actuality, it is the seat of the government councilors that rotates since Tokelau has no capital<br>
 
 **Legislative branch**<br>
-_description_: unicameral General Fono (20 seats apportioned by island - Atafu 7, Fakaofo 7, Nukunonu 6; members directly elected by simple majority vote to serve 3-year terms)<br>
-_elections_: last held on 26 January 2023 depending on island (next to be held in January 2026)<br>
-_election results_: percent of vote by party - NA; seats by party - independent 20; composition - men 17, women 3, percentage women 15%<br>
+_legislature name_: General Fono (Fono Fakamua)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 20<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 3 years<br>
+_most recent election date_: 26 January 2023<br>
+_parties elected and seats per party_: independents (20)<br>
+_percentage of women in chamber_: 15%<br>
+_expected date of next election_: January 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (in New Zealand) (consists of the court president and 8 judges sitting in 3- or 5-judge panels, depending on the case)<br>

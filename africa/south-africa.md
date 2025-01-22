@@ -82,7 +82,7 @@ the population concentrated along the southern and southeastern coast, and inlan
 <p>prolonged droughts</p><p><strong>volcanism:</strong> the volcano forming Marion Island in the Prince Edward Islands, which last erupted in 2004, is South Africa's only active volcano</p><br>
 
 **Geography - note**<br>
-South Africa completely surrounds Lesotho and almost completely surrounds Eswatini<br>
+<strong>note 1:</strong> South Africa completely surrounds Lesotho and almost completely surrounds Eswatini<br><br><strong>note 2:</strong> though sometimes mistaken for the southernmost point of Africa, the Cape of Good Hope is more accurately described as the southwestern-most point of the African continent; Cape Agulhas, the meeting point of the Atlantic and Indian Oceans, is the southernmost point of the African continent<br>
 
 ## People and Society
 
@@ -347,9 +347,28 @@ _elections/appointments_: president indirectly elected by the National Assembly 
 _election results_: <br><em>2024: </em>Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<em><br><br>2019: </em>Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<br><br>  <p> </p><br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br><br>National Council of Provinces (90 seats; nine 10-member delegations, each with 6 permanent delegates and 4 special delegates, appointed by each of the 9 provincial legislatures to serve 5-year terms)<br><br>National Assembly (400 seats; half the members directly elected in multi-seat constituencies and half in a single nationwide constituency, both by proportional representation popular vote; members serve 5-year terms)<br>
-_elections_: National Council of Provinces and National Assembly - last held on 15 June 2024 (next to be held on 30 June 2029)<br>
-_election results_: <p>National Council of Provinces - percent of vote by party - NA; seats by party - ANC 29, DA 13, EFF 9, FF+ 2, IFP 1; composition - men 30, women 24, percentage women 44.4%; note - 36 appointed seats not filled<br><br>National Assembly - percent of vote by party - ANC 40.1% DA 21.8%, MK 14.5%, EFF 9.5%, IFP 3.8%, PA, 2.06%, FF+ 1.3%, Action SA 1.2%, ACDP 0.60%, UCM 0.49%, RISE 0.42%, BOSA 0.041%, ATM 0.40%, Al Jam-ah 0.24%, NCC 0.23%, PAC 0.23%, UAT 0.22%, GOOD 0.18% other 4.38%; seats by party - ANC 159, DA 87, MK 58, EFF 39, IFP 17, PA 9, FF+ 6, Action SA 6, ACDP 3, UDM 3, RISE  2, BOSA 2, ATM 2, AL Jam-ah 2, NCC 2, PAC 1, UAT 1, GOOD 1; composition - men 210, women 181, percentage women 46.3%; total Parliament percentage women 46.1%</p><br>
+_legislature name_: Parliament<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: National Assembly<br>
+_number of seats_: 400 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 5/29/2024<br>
+_percentage of women in chamber_: 44.6%<br>
+_expected date of next election_: May 2029<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: National Council of Provinces<br>
+_number of seats_: 90 (all appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 6/15/2024<br>
+_percentage of women in chamber_: 44.4%<br>
+_expected date of next election_: June 2029<br>
+<strong>note:</strong> the Council has special powers to protect regional interests, including safeguarding cultural and linguistic traditions among ethnic minorities<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Appeals (consists of the court president, deputy president, and 21 judges); Constitutional Court (consists of the chief and deputy chief justices and 9 judges)<br>
@@ -401,25 +420,25 @@ _selected World Heritage Site locales_: <p>Fossil Hominid Sites of South Africa 
 upper middle-income South African economy; hard hit by COVID-19; poor utilities management; key rare earth goods exporter; high income inequality; hosts Africa&rsquo;s largest stock exchange; rising unemployment, especially youth; land rights changes<br>
 
 **Real GDP (purchasing power parity)**<br>
-$862.981 billion (2023 est.)<br>
-$857.82 billion (2022 est.)<br>
-$841.739 billion (2021 est.)<br>
+$865.402 billion (2023 est.)<br>
+$859.399 billion (2022 est.)<br>
+$843.28 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.6% (2023 est.)<br>
+0.7% (2023 est.)<br>
 1.91% (2022 est.)<br>
 4.7% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$14,300 (2023 est.)<br>
-$14,300 (2022 est.)<br>
-$14,200 (2021 est.)<br>
+$13,700 (2023 est.)<br>
+$13,800 (2022 est.)<br>
+$13,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$377.782 billion (2023 est.)<br>
+$380.699 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -435,18 +454,18 @@ _Standard & Poors rating_: BB- (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.5% (2023 est.)<br>
+_agriculture_: 2.6% (2023 est.)<br>
 _industry_: 24.6% (2023 est.)<br>
-_services_: 63% (2023 est.)<br>
+_services_: 62.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 64.7% (2023 est.)<br>
-_government consumption_: 19.7% (2023 est.)<br>
-_investment in fixed capital_: 15.2% (2023 est.)<br>
-_investment in inventories_: 0.5% (2023 est.)<br>
-_exports of goods and services_: 33% (2023 est.)<br>
-_imports of goods and services_: -32.7% (2023 est.)<br>
+_household consumption_: 64.4% (2023 est.)<br>
+_government consumption_: 19.3% (2023 est.)<br>
+_investment in fixed capital_: 14.9% (2023 est.)<br>
+_investment in inventories_: 0.6% (2023 est.)<br>
+_exports of goods and services_: 32.8% (2023 est.)<br>
+_imports of goods and services_: -32.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -457,11 +476,11 @@ sugarcane, maize, milk, potatoes, wheat, grapes, chicken, oranges, apples, soybe
 mining (world's largest producer of platinum, gold, chromium), automobile assembly, metalworking, machinery, textiles, iron and steel, chemicals, fertilizer, foodstuffs, commercial ship repair<br>
 
 **Industrial production growth rate**<br>
--0.15% (2023 est.)<br>
+-0.4% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-25.158 million (2023 est.)<br>
+27.137 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -494,8 +513,8 @@ _highest 10%_: 50.5% (2014 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.22% of GDP (2023 est.)<br>
-0.22% of GDP (2022 est.)<br>
+0.21% of GDP (2023 est.)<br>
+0.21% of GDP (2022 est.)<br>
 0.22% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -505,23 +524,23 @@ _expenditures_: $136.236 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-76.55% of GDP (2022 est.)<br>
+76.24% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-26.11% (of GDP) (2022 est.)<br>
+26.01% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$6.16 billion (2023 est.)<br>
--$1.698 billion (2022 est.)<br>
-$15.5 billion (2021 est.)<br>
+-$6.143 billion (2023 est.)<br>
+-$1.878 billion (2022 est.)<br>
+$15.701 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$124.731 billion (2023 est.)<br>
-$136.112 billion (2022 est.)<br>
-$130.882 billion (2021 est.)<br>
+$124.671 billion (2023 est.)<br>
+$136.01 billion (2022 est.)<br>
+$131.09 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -533,9 +552,9 @@ gold, platinum, coal, cars, diamonds (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$123.541 billion (2023 est.)<br>
-$127.596 billion (2022 est.)<br>
-$104.867 billion (2021 est.)<br>
+$123.454 billion (2023 est.)<br>
+$127.669 billion (2022 est.)<br>
+$104.881 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -553,7 +572,7 @@ $57.597 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$53.43 billion (2022 est.)<br>
+$95.555 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

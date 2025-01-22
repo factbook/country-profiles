@@ -302,9 +302,16 @@ _elections/appointments_: the monarchy is hereditary; following legislative elec
 <strong>note</strong>: the prince's successor is Heir Apparent and Regent of Liechtenstein Prince ALOIS (son of the monarch, born 11 June 1968); on 15 August 2004, HANS-ADAM II transferred the official duties of the ruling prince to ALOIS, but Prince HANS-ADAM II retains status of chief of state<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament or Landtag (25 seats; members directly elected in 2 multi-seat constituencies by open-list proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 7 February 2021 (next to be held on 7 February 2025)<br>
-_election results_: percent of vote by party - FBP 40%, VU 40%, FL 12%, DpL 8%; seats by party - FBP 10, VU 10, FL 3, DpL 2; composition - men 18, women 7, percentage women 28%<br>
+_legislature name_: Diet (Landtag)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 25 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 2/7/2021<br>
+_parties elected and seats per party_: Patriotic Union (VU) (10); Progressive Citizens' Party (FBP) (10); Free List (FL) (3); Democrats for Liechtenstein (DpL) (2)<br>
+_percentage of women in chamber_: 28%<br>
+_expected date of next election_: February 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Supreme Court or F&uuml;rstlicher Oberster Gerichtshof (consists of 5 judges and 5 substitutes); Constitutional Court or Staatsgerichtshof (consists of 5 judges, and 5 alternates)<br>

@@ -342,10 +342,30 @@ _elections/appointments_: monarch chosen by the 9-member Royal Council of the Th
 <strong>note: </strong> MANET succeeded his father, HUN SEN, who had been prime minister since 1985<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament of Cambodia consists of:<br>Senate (62 seats; 58 indirectly elected by parliamentarians and commune councils, 2 indirectly elected by the National Assembly, and 2 appointed by the monarch; members serve 6-year terms)<br><br>National Assembly (125 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
-_elections_: Senate - last held on 25 February 2024 (next to be held in February 2030)<br>National Assembly - last held on 23 July 2023 (next to be held in July 2028)<br>
-_election results_: Senate - percent of vote by party - CPP 86%, KWP 12%; seats by party - CPP 57; KWP 3; independent 2; composition - men 50, women 12, percentage women 19.4%<br><br>National Assembly - percent of vote by party - CPP 82.4%, FUNCINPEC 9.2%, KNUP 1.7%, CYP 1.3%, other 5.4% (14 other parties received votes); seats by party - CPP 120, FUNCINPEC 5; composition - men 108, women 17, percentage women 13.6%<br>
+_legislature name_: Parliament<br>
+_legislative structure_: bicameral<br>
 <strong>note:</strong> the EU, UN, and US condemned the July 2023 National Assembly election as neither free nor fair<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: National Assembly (Radhsphea Ney Preah Recheanachakr Kampuchea)<br>
+_number of seats_: 125 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 7/23/2023<br>
+_parties elected and seats per party_: Cambodian People's Party (CPP) (120); Other (5)<br>
+_percentage of women in chamber_: 13.6%<br>
+_expected date of next election_: July 2028<br>
+<strong>note:</strong> the EU, UN, and US condemned the July 2023 National Assembly election as neither free nor fair<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate<br>
+_number of seats_: 62 (60 indirectly elected; 2 appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 6 years<br>
+_most recent election date_: 2/25/2024<br>
+_percentage of women in chamber_: 19.4%<br>
+_expected date of next election_: February 2030<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Council (organized into 5- and 9-judge panels and includes a court chief and deputy chief); Constitutional Court (consists of 9 members); note - in 1997, the Cambodian Government requested UN assistance in establishing trials to prosecute former Khmer Rouge senior leaders for crimes against humanity committed during the 1975-1979 Khmer Rouge regime; the Extraordinary Chambers of the Courts of Cambodia (also called the Khmer Rouge Tribunal) was established in 2006 and began hearings for the first case in 2009; court proceedings remain ongoing in 2021<br>
@@ -396,25 +416,25 @@ _selected World Heritage Site locales_: Angkor; Temple of Preah Vihear; Sambor P
 one of the fastest growing Southeast Asian economies; rebounding tourism and clothing exports; substantial manufacturing and construction sectors; new trade agreements expanding agricultural markets; significant public debt; investing in new ports and roads<br>
 
 **Real GDP (purchasing power parity)**<br>
-$85.9 billion (2023 est.)<br>
-$81.499 billion (2022 est.)<br>
-$77.442 billion (2021 est.)<br>
+$116.576 billion (2023 est.)<br>
+$111.067 billion (2022 est.)<br>
+$105.674 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.4% (2023 est.)<br>
-5.24% (2022 est.)<br>
+4.96% (2023 est.)<br>
+5.1% (2022 est.)<br>
 3.03% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$5,100 (2023 est.)<br>
-$4,900 (2022 est.)<br>
-$4,700 (2021 est.)<br>
+$6,700 (2023 est.)<br>
+$6,500 (2022 est.)<br>
+$6,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$31.773 billion (2023 est.)<br>
+$42.336 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -429,18 +449,18 @@ _Standard & Poors rating_: N/A (2014)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 21.5% (2023 est.)<br>
-_industry_: 38.5% (2023 est.)<br>
-_services_: 33.4% (2023 est.)<br>
+_agriculture_: 17.1% (2023 est.)<br>
+_industry_: 40.5% (2023 est.)<br>
+_services_: 36.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 41.8% (2023 est.)<br>
-_government consumption_: 8.1% (2023 est.)<br>
-_investment in fixed capital_: 15.3% (2023 est.)<br>
-_investment in inventories_: 0.7% (2023 est.)<br>
-_exports of goods and services_: 73.1% (2023 est.)<br>
-_imports of goods and services_: -40.4% (2023 est.)<br>
+_household consumption_: 60.3% (2023 est.)<br>
+_government consumption_: 6.1% (2023 est.)<br>
+_investment in fixed capital_: 32.7% (2023 est.)<br>
+_investment in inventories_: 0.6% (2023 est.)<br>
+_exports of goods and services_: 66.9% (2023 est.)<br>
+_imports of goods and services_: -67.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -451,11 +471,11 @@ cassava, rice, maize, sugarcane, vegetables, oil palm fruit, rubber, bananas, ju
 tourism, garments, construction, rice milling, fishing, wood and wood products, rubber, cement, gem mining, textiles<br>
 
 **Industrial production growth rate**<br>
-4.3% (2023 est.)<br>
+5.31% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-9.175 million (2023 est.)<br>
+9.229 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -478,9 +498,9 @@ _on food_: 41.4% of household expenditures (2022 est.)<br>
 _on alcohol and tobacco_: 1.9% of household expenditures (2022 est.)<br>
 
 **Remittances**<br>
-8.81% of GDP (2023 est.)<br>
-8.87% of GDP (2022 est.)<br>
-9.42% of GDP (2021 est.)<br>
+6.57% of GDP (2023 est.)<br>
+6.54% of GDP (2022 est.)<br>
+6.9% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -492,11 +512,11 @@ _expenditures_: $4.666 billion (2020 est.)<br>
 30.4% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-16.36% (of GDP) (2021 est.)<br>
+11.99% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$552.607 million (2023 est.)<br>
+$552.346 million (2023 est.)<br>
 -$7.582 billion (2022 est.)<br>
 -$10.893 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
@@ -516,7 +536,7 @@ garments, trunks and cases, footwear, cassava, shoes (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$29.42 billion (2023 est.)<br>
+$29.421 billion (2023 est.)<br>
 $34.759 billion (2022 est.)<br>
 $32.816 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -530,10 +550,13 @@ gold, refined petroleum, fabric, plastic products, vehicle parts/accessories (20
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$19.984 billion (2023 est.)<br>
 $17.801 billion (2022 est.)<br>
 $20.27 billion (2021 est.)<br>
-$21.328 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+
+**Debt - external**<br>
+$8.846 billion (2023 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: riels (KHR) per US dollar -<br>

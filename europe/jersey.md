@@ -263,9 +263,14 @@ _cabinet_: Council of Ministers appointed individually by the states<br>
 _elections/appointments_: the monarchy is hereditary; Council of Ministers, including the chief minister, indirectly elected by the Assembly of States; lieutenant governor and bailiff appointed by the monarch<br>
 
 **Legislative branch**<br>
-_description_: unicameral Assembly of the States of Jersey (49 elected members; 8 senators to serve 4-year terms, and 29 deputies and 12 connetables, or heads of parishes, to serve 4-year terms<br>
-_elections_: last held on 22 June 2022 (next to be held in 2026)<br>
-_election results_: percent of vote by party - BW 66.8%, RJ 12.3%, JA 2.0%, PP 2%, JLC 4.1%; seats by party - BW 35, RJ 10, JLC 2, JA 1, PP 1; composition - men 28, women 21, percentage women 42.9%<br>
+_legislature name_: Assembly of the States of Jersey<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 54 (49 directly elected, 5 appointed)<br>
+_term in office_: 4 years<br>
+_most recent election date_: 6/22/2022<br>
+_parties elected and seats per party_: BW (35); RJ (10); JLC (2); JA (1); PP (1)<br>
+_percentage of women in chamber_: 42.9%<br>
+_expected date of next election_: 2026<br>
 <strong>note:</strong> 5 non-voting members appointed by the monarch include the bailiff, lieutenant governor, dean of Jersey, attorney general, and the solicitor general<br>
 
 **Judicial branch**<br>
@@ -309,9 +314,9 @@ $4.98 billion (2014 est.)<br>
 <strong>note:</strong> data are in 2015 dollars<br>
 
 **Real GDP growth rate**<br>
-7.81% (2022 est.)<br>
+3.72% (2023 est.)<br>
+5.34% (2022 est.)<br>
 15.46% (2021 est.)<br>
--8.47% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency; entry includes Jersey and Guernsey<br>
 
 **Real GDP per capita**<br>
@@ -319,13 +324,13 @@ $56,600 (2016 est.)<br>
 $49,500 (2015 est.)<br>
 
 **GDP (official exchange rate)**<br>
-$11.228 billion (2022 est.)<br>
+$12.508 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate; entry includes Jersey and Guernsey<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.8% (2022 est.)<br>
-_industry_: 8.4% (2022 est.)<br>
-_services_: 92% (2022 est.)<br>
+_agriculture_: 0.6% (2023 est.)<br>
+_industry_: 8.2% (2023 est.)<br>
+_services_: 91.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **Agricultural products**<br>
@@ -335,11 +340,11 @@ potatoes, cauliflower, tomatoes; beef, dairy products<br>
 tourism, banking and finance, dairy, electronics<br>
 
 **Industrial production growth rate**<br>
-1.64% (2022 est.)<br>
+1.26% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency; entry includes Jersey and Guernsey<br>
 
 **Labor force**<br>
-86,000 (2023 est.)<br>
+83,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work;entry includes Jersey and Guernsey<br>
 
 **Unemployment rate**<br>

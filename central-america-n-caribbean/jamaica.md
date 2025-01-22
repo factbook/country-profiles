@@ -323,9 +323,28 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 <strong>note:</strong> the Jamaican Government, in May 2023, announced plans to hold a referendum in 2024 to determine whether or not to remain in the Commonwealth or become a republic<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (21 seats; 13 members appointed by the governor general on the advice of the prime minister and 8 members appointed by the governor general on the advice of the opposition party leader; members serve 5-year terms (no term limits) or until Parliament is dissolved)<br>House of Representatives (63 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms (no term limits) or until Parliament is dissolved)<br>
-_elections_: Senate - last full slate of appointments early on 3 September 2020 (next full slate in 2025)<br>House of Representatives - last held on 3 September 2020 (next to be held in 2025)<br>
-_election results_: Senate - percent by party - NA; seats by party - NA; composition - men 13, women 8, percentage women 38.1%<br><br>House of Representatives - percent of vote by party - JLP 57%, PNP 42.8%, independent 0.2%; seats by party - JLP 48, PNP 15; composition - men 45, women 14; percentage women 23.7%; note - total Parliament percentage women 27.5%<br>
+_legislature name_: Parliament<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives<br>
+_number of seats_: 63 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 9/3/2020<br>
+_parties elected and seats per party_: Jamaica Labour Party (JLP) (49); People's National Party (PNP) (14)<br>
+_percentage of women in chamber_: 27.4%<br>
+_expected date of next election_: September 2025<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate<br>
+_number of seats_: 21 (all appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 9/15/2020<br>
+_percentage of women in chamber_: 38.1%<br>
+_expected date of next election_: September 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of president of the court and a minimum of 4 judges); Supreme Court (40 judges organized in specialized divisions); note - appeals beyond Jamaica's highest courts are referred to the Judicial Committee of the Privy Council (in London) rather than to the Caribbean Court of Justice (the appellate court for member states of the Caribbean Community)<br>
@@ -435,7 +454,7 @@ agriculture, mining, manufacture, construction, financial and insurance services
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.559 million (2023 est.)<br>
+1.573 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -451,7 +470,7 @@ _female_: 14.9% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-17.1% (2016 est.)<br>
+16.7% (2021 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 40.2 (2021 est.)<br>
@@ -461,7 +480,7 @@ _lowest 10%_: 2.2% (2021 est.)<br>
 _highest 10%_: 29.9% (2021 est.)<br>
 
 **Remittances**<br>
-19.1% of GDP (2023 est.)<br>
+18.54% of GDP (2023 est.)<br>
 21.57% of GDP (2022 est.)<br>
 25.29% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -480,15 +499,15 @@ _expenditures_: $4.12 billion (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$583.407 million (2023 est.)<br>
 -$129.756 million (2022 est.)<br>
 $149.262 million (2021 est.)<br>
--$156.91 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$7.275 billion (2023 est.)<br>
 $6.424 billion (2022 est.)<br>
 $4.401 billion (2021 est.)<br>
-$3.249 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -500,9 +519,9 @@ refined petroleum, natural gas, aluminum oxide, liquor, aluminum ore (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$9.866 billion (2023 est.)<br>
 $9.726 billion (2022 est.)<br>
 $7.405 billion (2021 est.)<br>
-$5.913 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -520,7 +539,7 @@ $4.838 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$9.148 billion (2022 est.)<br>
+$9.776 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

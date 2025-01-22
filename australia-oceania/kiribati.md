@@ -320,9 +320,15 @@ _election results_: <em>2020:</em> Taneti MAAMAU reelected president; percent of
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: unicameral House of Assembly or Maneaba Ni Maungatabu (45 seats; 44 members directly elected in single- and multi-seat constituencies by absolute majority vote in two rounds if needed, and 1 member appointed by the Rabi Council of Leaders - representing Banaba Island; members serve 4-year terms)<br>
-_elections_: first round held on 14 August 2024; second round held on 19 August 2024 (next to be held in 2028)<br>
-_election results_: percent of vote by party - NA; seats by party - 33 TKP, 8 BKM, 4 Independents; composition - 40 men, 5 women; percentage women 11% (as of September 2024)<br>
+_legislature name_: House of Assembly (Maneaba Ni Maungatabu)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 45 (44 directly elected; 1 appointed)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 8/14/2024 to 8/19/2024<br>
+_percentage of women in chamber_: 11.1%<br>
+_expected date of next election_: August 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: High Court (consists of a chief justice and other judges as prescribed by the president); note - the High Court has jurisdiction on constitutional issues<br>
@@ -367,14 +373,14 @@ _selected World Heritage Site locales_: Phoenix Islands Protected Area<br>
 lower-middle income, Pacific island economy; environmentally fragile; sizable remittances; key phosphate mining fund; tourism and fishing industries; public sector-dominated economy; recent withdrawal from Pacific Islands Forum; ongoing constitutional crisis<br>
 
 **Real GDP (purchasing power parity)**<br>
-$423.828 million (2023 est.)<br>
-$406.41 million (2022 est.)<br>
-$391.315 million (2021 est.)<br>
+$423.549 million (2023 est.)<br>
+$406.771 million (2022 est.)<br>
+$391.482 million (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.29% (2023 est.)<br>
-3.86% (2022 est.)<br>
+4.12% (2023 est.)<br>
+3.91% (2022 est.)<br>
 8.71% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
@@ -385,23 +391,27 @@ $3,000 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$279.034 million (2023 est.)<br>
+$279.209 million (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+9.28% (2023 est.)<br>
+5.35% (2022 est.)<br>
 2.05% (2021 est.)<br>
-2.55% (2020 est.)<br>
--1.81% (2019 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 23% (2016 est.)<br>
-_industry_: 7% (2016 est.)<br>
-_services_: 70% (2016 est.)<br>
+_agriculture_: 27.8% (2022 est.)<br>
+_industry_: 9.8% (2022 est.)<br>
+_services_: 65.5% (2022 est.)<br>
 
 **GDP - composition, by end use**<br>
+_household consumption_: 100.9% (2022 est.)<br>
+_government consumption_: 61.5% (2022 est.)<br>
+_investment in fixed capital_: 19.1% (2022 est.)<br>
+_investment in inventories_: 1.2% (2022 est.)<br>
 _exports of goods and services_: 7.4% (2023 est.)<br>
-_imports of goods and services_: -92.5% (2023 est.)<br>
+_imports of goods and services_: -92.4% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -412,7 +422,7 @@ coconuts, bananas, vegetables, taro, tropical fruits, pork, chicken, nuts, eggs,
 fishing, handicrafts<br>
 
 **Industrial production growth rate**<br>
-21.11% (2021 est.)<br>
+-6.23% (2022 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -421,7 +431,7 @@ _male_: 21.2%<br>
 _female_: 24.6%<br>
 
 **Population below poverty line**<br>
-21.9% (2020 est.)<br>
+21.9% (2019 est.)<br>
 <strong>note:</strong> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -430,12 +440,12 @@ _female_: 24.6%<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4% (2019 est.)<br>
-_highest 10%_: 22.9% (2019 est.)<br>
+_highest 10%_: 22.8% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-5.38% of GDP (2023 est.)<br>
-10.48% of GDP (2022 est.)<br>
+4.17% of GDP (2023 est.)<br>
+10.38% of GDP (2022 est.)<br>
 4.62% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -448,19 +458,19 @@ _expenditures_: $221.12 million (2022 est.)<br>
 26.3% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-20.22% (of GDP) (2022 est.)<br>
+18.31% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$6.46 million (2022 est.)<br>
+-$5.117 million (2023 est.)<br>
+-$32.523 million (2022 est.)<br>
 $20.251 million (2021 est.)<br>
-$71.279 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$19.677 million (2022 est.)<br>
+$17.099 million (2023 est.)<br>
+$20.58 million (2022 est.)<br>
 $10.754 million (2021 est.)<br>
-$21.228 million (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -472,9 +482,9 @@ fish, ships, coconut oil, copra, raw sugar (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$254.438 million (2022 est.)<br>
+$293.624 million (2023 est.)<br>
+$272.004 million (2022 est.)<br>
 $201.984 million (2021 est.)<br>
-$148.77 million (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

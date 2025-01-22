@@ -308,9 +308,15 @@ _election results_: <em><br>2023: </em>Hilda C. HEINE elected president; Nationa
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Parliament or Nitijela (33 seats; members in 19 single- and 5 multi-seat constituencies directly elected by simple majority vote to serve 4-year terms)<br>
-_elections_: last held on 20 November 2023 (next to be held in November 2027)<br>
-_election results_: percent of vote by party - NA; seats by part - independent 33; composition - men 29, women 4, percent of women 12.1%<br>
+_legislature name_: Parliament (Nitijela)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 33 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 11/20/2023<br>
+_percentage of women in chamber_: 12.1%<br>
+_expected date of next election_: November 2027<br>
 <strong>note:</strong> the Council of Iroij is a 12-member consultative group of tribal leaders that advises the Presidential Cabinet and reviews legislation affecting customary law or any traditional practice <br>
 
 **Judicial branch**<br>
@@ -333,7 +339,7 @@ _email address and website_: <br>info@rmiembassyus.org<br>
 _consulate(s) general_: Honolulu, Springdale (AR)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Lance POSEY (since 18 August 2023)<br>
+_chief of mission_: Ambassador Laura M. STONE (since 12 July 2024)<br>
 _embassy_: Mejen Weto, Ocean Side, Majuro<br>
 _mailing address_: 4380 Majuro Place, Washington DC&nbsp; 20521-4380<br>
 _telephone_: [692] 247-4011<br>
@@ -361,25 +367,25 @@ _selected World Heritage Site locales_: Bikini Atoll Nuclear Test Site<br>
 upper middle-income Pacific island economy; US aid reliance; large public sector; coconut oil production as diesel fuel substitute; growing offshore banking locale; fishing rights seller; import-dependent<br>
 
 **Real GDP (purchasing power parity)**<br>
-$283.577 million (2023 est.)<br>
-$274.715 million (2022 est.)<br>
-$276.583 million (2021 est.)<br>
+$263.507 million (2023 est.)<br>
+$274.3 million (2022 est.)<br>
+$277.402 million (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.23% (2023 est.)<br>
--0.68% (2022 est.)<br>
+-3.93% (2023 est.)<br>
+-1.12% (2022 est.)<br>
 1.11% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $6,800 (2023 est.)<br>
-$6,600 (2022 est.)<br>
-$6,600 (2021 est.)<br>
+$6,800 (2022 est.)<br>
+$6,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$284 million (2023 est.)<br>
+$259.3 million (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -387,18 +393,18 @@ $284 million (2023 est.)<br>
 -1.5% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 20.6% (2022 est.)<br>
-_industry_: 10.3% (2022 est.)<br>
-_services_: 68.7% (2022 est.)<br>
+_agriculture_: 19.5% (2023 est.)<br>
+_industry_: 11.1% (2023 est.)<br>
+_services_: 70.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 71.7% (2022 est.)<br>
-_government consumption_: 57.4% (2022 est.)<br>
-_investment in fixed capital_: 19.8% (2022 est.)<br>
-_investment in inventories_: 0.3% (2022 est.)<br>
-_exports of goods and services_: 46.3% (2022 est.)<br>
-_imports of goods and services_: -73.7% (2022 est.)<br>
+_household consumption_: 70.7% (2023 est.)<br>
+_government consumption_: 53.5% (2023 est.)<br>
+_investment in fixed capital_: 20.2% (2023 est.)<br>
+_investment in inventories_: -0.5% (2023 est.)<br>
+_exports of goods and services_: 38.9% (2023 est.)<br>
+_imports of goods and services_: -71.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -409,7 +415,7 @@ coconuts (2022)<br>
 copra, tuna processing, tourism, craft items (from seashells, wood, and pearls)<br>
 
 **Industrial production growth rate**<br>
-10.24% (2022 est.)<br>
+-2.81% (2023 est.)<br>
 <strong>note:</strong> annual % change in industrial value added based on constant local currency<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -431,9 +437,9 @@ _highest 10%_: 27.5% (2019 est.)<br>
 <strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-10.56% of GDP (2023 est.)<br>
-3.23% of GDP (2022 est.)<br>
-13.36% of GDP (2021 est.)<br>
+13.29% of GDP (2023 est.)<br>
+13.6% of GDP (2022 est.)<br>
+13.31% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -442,11 +448,11 @@ _expenditures_: $177.91 million (2018 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-41.73% of GDP (2019 est.)<br>
+41.56% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-17.23% (of GDP) (2020 est.)<br>
+17.16% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>

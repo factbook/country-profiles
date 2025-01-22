@@ -327,9 +327,27 @@ _cabinet_: Cabinet appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; prime minister appointed by the monarch<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Assembly consists of:<br>Consultative Council or Majlis al-Shura (40 seats; members appointed by the king)<br>Council of Representatives or Majlis al-Nuwab (40 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year renewable terms)<br>
-_elections_: Consultative Council - last appointments on 30 November 2022 (next appointments in 2026)<br>Council of Representatives - first round for 6 members held on 12 November 2022; second round for remaining 34 members held on 19 November 2022 (next to be held in November 2026)<br>
-_election results_: Consultative Council - all members appointed; composition - men 30, women 10, percentage women 25%<br><br>Council of Representatives - percent of vote by society - NA; seats by society - NA; composition - men 32, women 8, percentage women 20%; total National Assembly percentage women 23%<br>
+_legislature name_: National Assembly (Al-Majlis Al-Watani)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: Council of Representatives (Majlis Al-Nuwab)<br>
+_number of seats_: 40 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 11/12/2022 to 11/19/2022<br>
+_percentage of women in chamber_: 20%<br>
+_expected date of next election_: November 2026<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Shura Council (Majlis Al-Shura)<br>
+_number of seats_: 40 (all appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 11/27/2022<br>
+_percentage of women in chamber_: 25%<br>
+_expected date of next election_: November 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation (consists of the chairman and 3 judges); Supreme Court of Appeal (consists of the chairman and 3 judges); Constitutional Court (consists of the president and 6 members); High Sharia Court of Appeal (court sittings include the president and at least one judge)<br>
@@ -381,25 +399,25 @@ _selected World Heritage Site locales_: Dilmun Burial Mounds; Qal'at al-Bahrain 
 <p>high-income, growing Middle Eastern island economy; oil and aluminum exporter with diversification led by services, construction and manufacturing; regional finance and tourism hub; high public debt linked to oil revenue dependence and limited tax base; vulnerable to water reservoir depletion</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$85.491 billion (2023 est.)<br>
-$83.421 billion (2022 est.)<br>
-$79.531 billion (2021 est.)<br>
+$90.228 billion (2023 est.)<br>
+$87.617 billion (2022 est.)<br>
+$82.672 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.48% (2023 est.)<br>
-4.89% (2022 est.)<br>
+2.98% (2023 est.)<br>
+5.98% (2022 est.)<br>
 2.59% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$57,600 (2023 est.)<br>
-$56,700 (2022 est.)<br>
-$54,400 (2021 est.)<br>
+$57,200 (2023 est.)<br>
+$57,500 (2022 est.)<br>
+$55,000 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$43.205 billion (2023 est.)<br>
+$46.08 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -416,17 +434,17 @@ _Standard & Poors rating_: B+ (2017)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.3% (2023 est.)<br>
-_industry_: 44.5% (2023 est.)<br>
-_services_: 51.1% (2023 est.)<br>
+_industry_: 44% (2023 est.)<br>
+_services_: 51.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 39.2% (2021 est.)<br>
-_government consumption_: 15.8% (2021 est.)<br>
-_investment in fixed capital_: 24.6% (2021 est.)<br>
-_investment in inventories_: 1% (2021 est.)<br>
-_exports of goods and services_: 89.7% (2021 est.)<br>
-_imports of goods and services_: -70.2% (2021 est.)<br>
+_household consumption_: 39.1% (2023 est.)<br>
+_government consumption_: 14.6% (2023 est.)<br>
+_investment in fixed capital_: 27.6% (2023 est.)<br>
+_investment in inventories_: 1.4% (2023 est.)<br>
+_exports of goods and services_: 87.6% (2023 est.)<br>
+_imports of goods and services_: -70.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -437,11 +455,11 @@ lamb/mutton, dates, milk, chicken, tomatoes, fruits, sheep offal, eggs, sheepski
 petroleum processing and refining, aluminum smelting, iron pelletization, fertilizers, Islamic and offshore banking, insurance, ship repairing, tourism<br>
 
 **Industrial production growth rate**<br>
--1.1% (2023 est.)<br>
+-0.35% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-855,000 (2023 est.)<br>
+918,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -471,10 +489,10 @@ _expenditures_: $9.357 billion (2020 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-115.52% of GDP (2020 est.)<br>
+111.6% of GDP (2020 est.)<br>
 
 **Taxes and other revenues**<br>
-2.92% (of GDP) (2020 est.)<br>
+2.82% (of GDP) (2020 est.)<br>
 
 **Current account balance**<br>
 $2.699 billion (2023 est.)<br>
@@ -578,7 +596,7 @@ _domestic_: approximately 18 per 100 fixed-line and 131 per 100 mobile-cellular;
 _international_: country code - 973; Bahrain’s Telecommunications Regulatory Authority (TRA) has made part of the C-band spectrum available for 5G private networks, in line with the goals outlined in its Workplan for the 2022-23 period (2023)<br>
 
 **Broadcast media**<br>
-state-run Bahrain Radio and Television Corporation (BRTC) operates 5 terrestrial TV networks and several radio stations; satellite TV systems provide access to international broadcasts; 1 private FM station directs broadcasts to Indian listeners; radio and TV broadcasts from countries in the region are available (2019)<br>
+state-run Bahrain Radio and Television Corporation (BRTC) operates 6 terrestrial TV networks and several radio stations; satellite TV systems provide access to international broadcasts; 1 private FM station directs broadcasts to Indian listeners; radio and TV broadcasts from countries in the region are available (2023)<br>
 
 **Internet country code**<br>
 .bh<br>

@@ -299,9 +299,24 @@ _election results_: <em>2010:</em> Salva KIIR Mayardit elected leader of then-So
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Legislature consists of:<br>Council of States, pending establishment as stipulated by the 2018 peace deal<br>Transitional National Legislative Assembly (TNLA), established on 4 August 2016, in accordance with the August 2015 Agreement on the Resolution of the Conflict in the Republic of South Sudan; note - originally 400 seats; the TNLA was expanded to 550 members from 400 and reestablished in May 2020 under the 2018 peace agreement<br>
-_elections_: Council of States - pending establishment as stipulated by the 2018 peace deal<br>Transitional National Legislative Assembly - percent of vote by party - NA; seats by party - 332 SPLM, 128 SPLM-IO, 90 other political parties; composition - NA<br>
-_election results_: Council of States - percent of vote by party - NA; seats by party - SPLM 20, unknown 30; composition - men 57, women 27, percentage women 32.1%<br><br>National Legislative Assembly - percent of vote by party - NA; seats by party - SPLM 251, DCP 10, independent 6, unknown 133; composition - men 372, women 178, percentage women 32.4%; total National Legislature percentage women 32.3%<br>
+_legislature name_: Législature nationale (National Legislature)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: Transitional National Legislative Assembly (Al-Majlis Al-Tachirii)<br>
+_number of seats_: 550 (all appointed)<br>
+_scope of elections_: full renewal<br>
+_most recent election date_: 5/10/2021<br>
+_percentage of women in chamber_: 32.4%<br>
+_expected date of next election_: December 2026<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Council of States (Al-Watani)<br>
+_number of seats_: 100 (all appointed)<br>
+_scope of elections_: full renewal<br>
+_most recent election date_: 8/2/2021<br>
+_percentage of women in chamber_: 32.1%<br>
+_expected date of next election_: December 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of South Sudan (consists of a chief justice, deputy chief justice, and 5 additional justices); note - consistent with the 2008 Judiciary Act, the Transitional Constitution of South Sudan calls for 9, rather than 5 additional justices<br>
@@ -382,6 +397,7 @@ _services_: 56.6% (2015 est.)<br>
 
 **GDP - composition, by end use**<br>
 _investment in fixed capital_: 5.8% (2015 est.)<br>
+_investment in inventories_: 0% (2015 est.)<br>
 _exports of goods and services_: 36.7% (2015 est.)<br>
 _imports of goods and services_: -28.9% (2015 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -395,7 +411,7 @@ milk, cassava, sorghum, goat milk, vegetables, fruits, maize, groundnuts, sesame
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.471 million (2023 est.)<br>
+4.883 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -419,8 +435,8 @@ _female_: 17.2% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.7% (2016 est.)<br>
-_highest 10%_: 33.1% (2016 est.)<br>
+_lowest 10%_: 1.8% (2016 est.)<br>
+_highest 10%_: 33% (2016 est.)<br>
 
 **Remittances**<br>
 9.49% of GDP (2015 est.)<br>
@@ -438,15 +454,15 @@ _expenditures_: $1.938 billion (2019 est.)<br>
 8.5% (of GDP) (FY2017/18 est.)<br>
 
 **Current account balance**<br>
+$577.9 million (2023 est.)<br>
 -$596.748 million (2022 est.)<br>
 -$6.55 million (2021 est.)<br>
--$1.718 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$4.499 billion (2023 est.)<br>
 $5.811 billion (2022 est.)<br>
 $4.652 billion (2021 est.)<br>
-$2.344 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -458,9 +474,9 @@ crude petroleum, refined petroleum, gold, forage crops, barley (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$4.443 billion (2023 est.)<br>
 $6.402 billion (2022 est.)<br>
 $4.037 billion (2021 est.)<br>
-$4.245 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -479,11 +495,11 @@ $36.396 million (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: South Sudanese pounds (SSP) per US dollar -<br>
+930.331 (2023 est.)<br>
 534.511 (2022 est.)<br>
 306.355 (2021 est.)<br>
 165.907 (2020 est.)<br>
 157.999 (2019 est.)<br>
-141.386 (2018 est.)<br>
 
 ## Energy
 

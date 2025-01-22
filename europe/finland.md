@@ -344,9 +344,16 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2024:  </em>Alexander STUBB elected in the second round; percent of vote in the first round - Alexander STUBB (KoK) 27.2%, Pekka HAAVISTO (Vihr) 25.8%, Jussi HALLA-AHO (PS) 19.0%, Olli REHN (Kesk) 15.3%; percent of vote in second round - STUBB 51.6%, HAAVISTO 48.4%<br><em><br>2018: </em> Sauli NIINISTO reelected president; percent of vote - Sauli NIINISTO (independent) 62.7%, Pekka HAAVISTO (Vihr) 12.4%, Laura HUHTASAARI (PS) 6.9%, Paavo VAYRYNEN (independent) 6.2%, Matti VANHANEN (Kesk) 4.1%, other 7.7%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament or Eduskunta (200 seats; 199 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member in the province of Aland directly elected by simple majority vote; members serve 4-year terms)<br>
-_elections_: last held on 2 April 2023 (next to be held on 30 April 2027)<br>
-_election results_: percent of vote by party/coalition - Kok 24%, PS 23%, SDP 21.5%. Center Party 11.5%, Vihr 6.5%, Vas 5.5%, SFP 4.5%, KD 2.5%, Aland 0.5%; Movement Now 0.5%; seats by party/coalition - Kok 48, PS 46, SDP 43, Center Party 23, Vihr 13, Vas 11, SFP 9, KD 5; Aland 1; Movement Now 1; composition - men 108, women 92, percentage women 46%<br>
+_legislature name_: Parliament (Eduskunta - Riksdagen)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 200 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 4/2/2023<br>
+_parties elected and seats per party_: National Coalition Party (KOK) (48); The Finns Party (PS) (46); Social Democratic Party (SDP) (43); Center Party (KESK) (23); The Greens (13); Left Alliance (Vas) (11); Other (16)<br>
+_percentage of women in chamber_: 46%<br>
+_expected date of next election_: April 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Korkein Oikeus (consists of the court president and 18 judges); Supreme Administrative Court (consists of 21 judges, including the court president and organized into 3 chambers); note - Finland has a dual judicial system - courts with civil and criminal jurisdiction and administrative courts with jurisdiction for litigation between individuals and administrative organs of the state and communities<br>
@@ -368,7 +375,7 @@ _email address and website_: <br>sanomat.WAS@gov.fi<br><br>https://finlandabroad
 _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Douglas HICKEY (since 11 May 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Christopher KRAFFT (since September 2024)<br>
 _embassy_: Itainen Puistotie 14 B, 00140 Helsinki<br>
 _mailing address_: 5310 Helsinki Place, Washington DC&nbsp; 20521-5310<br>
 _telephone_: [358] (9) 616-250<br>
@@ -396,25 +403,25 @@ _selected World Heritage Site locales_: Fortress of Suomenlinna (c); Old Rauma (
 <p>high-income, export-based EU and eurozone economy; major timber, metals, engineering, telecom, and electronics industries; emerging from recession triggered by inflation, weak consumer and export demand, and lower private investment; labor market reform plan to address structural rigidities</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$321.126 billion (2023 est.)<br>
-$324.486 billion (2022 est.)<br>
-$320.209 billion (2021 est.)<br>
+$318.638 billion (2023 est.)<br>
+$322.39 billion (2022 est.)<br>
+$317.782 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--1.04% (2023 est.)<br>
-1.34% (2022 est.)<br>
+-1.16% (2023 est.)<br>
+1.45% (2022 est.)<br>
 2.84% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$57,500 (2023 est.)<br>
-$58,400 (2022 est.)<br>
-$57,800 (2021 est.)<br>
+$57,100 (2023 est.)<br>
+$58,000 (2022 est.)<br>
+$57,400 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$300.187 billion (2023 est.)<br>
+$295.532 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -430,18 +437,18 @@ _Standard & Poors rating_: AA+ (2014)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.5% (2023 est.)<br>
-_industry_: 24.5% (2023 est.)<br>
-_services_: 60.7% (2023 est.)<br>
+_agriculture_: 2.3% (2023 est.)<br>
+_industry_: 23.9% (2023 est.)<br>
+_services_: 61.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 52.5% (2023 est.)<br>
-_government consumption_: 25.2% (2023 est.)<br>
-_investment in fixed capital_: 23.4% (2023 est.)<br>
-_investment in inventories_: -0.7% (2023 est.)<br>
-_exports of goods and services_: 41% (2023 est.)<br>
-_imports of goods and services_: -41.4% (2023 est.)<br>
+_household consumption_: 53.3% (2023 est.)<br>
+_government consumption_: 25.6% (2023 est.)<br>
+_investment in fixed capital_: 23.2% (2023 est.)<br>
+_investment in inventories_: -0.3% (2023 est.)<br>
+_exports of goods and services_: 42.8% (2023 est.)<br>
+_imports of goods and services_: -42.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -452,11 +459,11 @@ milk, barley, oats, wheat, potatoes, sugar beets, pork, chicken, peas, beef (202
 metals and metal products, electronics, machinery and scientific instruments, shipbuilding, pulp and paper, foodstuffs, chemicals, textiles, clothing<br>
 
 **Industrial production growth rate**<br>
--2.72% (2023 est.)<br>
+-2.04% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.88 million (2023 est.)<br>
+2.879 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -490,7 +497,7 @@ _highest 10%_: 22.9% (2021 est.)<br>
 
 **Remittances**<br>
 0.23% of GDP (2023 est.)<br>
-0.23% of GDP (2022 est.)<br>
+0.24% of GDP (2022 est.)<br>
 0.23% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -504,19 +511,19 @@ _expenditures_: $106.991 billion (2022 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-21.08% (of GDP) (2022 est.)<br>
+21.2% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$4.364 billion (2023 est.)<br>
--$7.074 billion (2022 est.)<br>
-$1.222 billion (2021 est.)<br>
+-$1.256 billion (2023 est.)<br>
+-$6.321 billion (2022 est.)<br>
+$961.053 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$122.953 billion (2023 est.)<br>
-$127.706 billion (2022 est.)<br>
-$116.762 billion (2021 est.)<br>
+$126.517 billion (2023 est.)<br>
+$128.857 billion (2022 est.)<br>
+$117.18 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -528,9 +535,9 @@ paper, refined petroleum, steel, wood pulp, wood (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$124.221 billion (2023 est.)<br>
-$134.575 billion (2022 est.)<br>
-$116.72 billion (2021 est.)<br>
+$125.645 billion (2023 est.)<br>
+$134.431 billion (2022 est.)<br>
+$117.072 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

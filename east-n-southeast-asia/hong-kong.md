@@ -284,9 +284,14 @@ _election results_: <em><br>2022: </em>John LEE was the only candidate and won w
 <strong>note:</strong> electoral changes that Beijing imposed in March 2021 expanded the Election Committee to 1,500 members<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Council or LegCo (90 seats); 20 members directly elected, 70 indirectly elected; members serve 4-year terms<br>
-_elections_: last held on 19 Dec 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by bloc: pro-Beijing 93.8%, non-establishment 6.2%; seats by association/bloc/party - pro-Beijing 89 (DAB 19, HKFTU 8, BPA 7, NPP 5, LP 4, NTAS 4, HKFEW 2, HKFLU 2, CF 2, RT 1, PP 1, KWND 1, NPHK 1, NCF-1; other/independent 41), non-aligned 1 (Third Side); composition - men 73, women 17, percentage women 18.9%<br>
+_legislature name_: Legislative Council or LegCo<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 90<br>
+_electoral system_: 20 members directly elected; 70 members indirectly elected<br>
+_scope of elections_: full<br>
+_most recent election date_: 19 December 2021<br>
+_parties elected and seats per party_: Democratic Alliance for the Betterment and Progress of Hong Kong (DAB) 19, Federation of Hong Kong and Kowloon Labour Unions (HKFTU) 8, Business and Professionals Alliance for Hong Kong (BPA) 7, NPP 5, Liberal (LP) 4, New Territories Association of Societies (NTAS) 4, Hong Kong Federation of Education Workers (HKFEW) 2, Federation of Hong Kong and Kowloon Labour Unions (HKFLU) 2, Civil Force (CF) 2, Roundtable (RT) 1, Professional Power (PP) 1, Kowloon West New Dynamic (KWND) 1, New Prospect for Hong Kong (NPHK) 1, New Century Forum (NCF-1); other/independent 41<br>
+_expected date of next election_: December 2025<br>
 <strong>note 1:</strong> all political candidates are evaluated by the Candidate Eligibility Review Committee (CERC), which was established in April 2022; CERC members are all appointed by the chief executive<br><br><strong>note 2:</strong> Hong Kong's leading pro-democracy political parties boycotted the 2021 election<br>
 
 **Judicial branch**<br>
@@ -329,25 +334,25 @@ orchid tree flower; national colors: red, white<br>
 high-income tourism- and services-based economy; global financial hub; COVID-19 and political protests fueled recent recession; ongoing recovery but lower-skilled unemployment remains high; investing in job-reskilling programs<br>
 
 **Real GDP (purchasing power parity)**<br>
-$485.559 billion (2023 est.)<br>
-$470.434 billion (2022 est.)<br>
+$485.834 billion (2023 est.)<br>
+$470.421 billion (2022 est.)<br>
 $488.412 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.22% (2023 est.)<br>
+3.28% (2023 est.)<br>
 -3.68% (2022 est.)<br>
 6.45% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$64,400 (2023 est.)<br>
+$64,500 (2023 est.)<br>
 $64,000 (2022 est.)<br>
 $65,900 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$382.055 billion (2023 est.)<br>
+$380.812 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -363,18 +368,18 @@ _Standard & Poors rating_: AA+ (2017)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.1% (2022 est.)<br>
-_industry_: 6.3% (2022 est.)<br>
-_services_: 91% (2022 est.)<br>
+_agriculture_: 0% (2023 est.)<br>
+_industry_: 6.3% (2023 est.)<br>
+_services_: 91.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 70.3% (2023 est.)<br>
-_government consumption_: 13.2% (2023 est.)<br>
-_investment in fixed capital_: 16.7% (2023 est.)<br>
-_investment in inventories_: -1% (2023 est.)<br>
-_exports of goods and services_: 176.2% (2023 est.)<br>
-_imports of goods and services_: -175.4% (2023 est.)<br>
+_household consumption_: 70.6% (2023 est.)<br>
+_government consumption_: 13.3% (2023 est.)<br>
+_investment in fixed capital_: 16.8% (2023 est.)<br>
+_investment in inventories_: -1.3% (2023 est.)<br>
+_exports of goods and services_: 176.8% (2023 est.)<br>
+_imports of goods and services_: -176% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -385,11 +390,11 @@ pork, chicken, spinach, vegetables, game meat, pork offal, fruits, onions, lettu
 trading and logistics, financial services, professional services, tourism, cultural and creative, clothing and textiles, shipping, electronics, toys, clocks and watches<br>
 
 **Industrial production growth rate**<br>
-5.06% (2022 est.)<br>
+4.59% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.825 million (2023 est.)<br>
+3.876 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -435,13 +440,13 @@ _expenditures_: $105.849 billion (2020 est.)<br>
 23.2% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
-$35.366 billion (2023 est.)<br>
+$34.901 billion (2023 est.)<br>
 $36.525 billion (2022 est.)<br>
 $43.659 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$673.305 billion (2023 est.)<br>
+$673.189 billion (2023 est.)<br>
 $697.583 billion (2022 est.)<br>
 $752.621 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -455,7 +460,7 @@ gold, integrated circuits, gas turbines, broadcasting equipment, machine parts (
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$670.085 billion (2023 est.)<br>
+$670.434 billion (2023 est.)<br>
 $682.881 billion (2022 est.)<br>
 $732.087 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -469,9 +474,9 @@ integrated circuits, broadcasting equipment, machine parts, gold, jewelry (2022)
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$425.553 billion (2023 est.)<br>
-$424.025 billion (2022 est.)<br>
-$496.856 billion (2021 est.)<br>
+$425.554 billion (2023 est.)<br>
+$424.03 billion (2022 est.)<br>
+$496.867 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>

@@ -251,9 +251,16 @@ _cabinet_: Council of Ministers appointed from among the 17 elected members of P
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed chief minister by the governor<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament (18 seats; 17 members directly elected in a single nationwide constituency by majority vote and 1 appointed by Parliament as speaker; members serve 4-year terms)<br>
-_elections_: last held on 12 October 2023 (next to be held by October 2027)<br>
-_election results_: percent of vote by party - GSLP-Liberal Alliance 49.9%, GSD 48% independent 2.1%; seats by party - GLSP-Liberal Alliance 9 (GSLP 7, LPG 2), GSD 8; composition including Parliament speaker - men 13, women 5, percentage women 38.5%<br>
+_legislature name_: Parliament<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 18 (17 directly elected, 1 appointed)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 10/12/2023<br>
+_parties elected and seats per party_: GSLP-Liberal Alliance (9) (GSLP 7, LPG 2); GSD (8)<br>
+_percentage of women in chamber_: 38.5%<br>
+_expected date of next election_: October 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of at least 3 judges, including the court president); Supreme Court of Gibraltar (consists of the chief justice and 3 judges); note - appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>

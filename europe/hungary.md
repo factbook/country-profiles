@@ -346,9 +346,17 @@ _elections/appointments_: president indirectly elected by the National Assembly 
 _election results_: <br><em>2024:</em> Tamas SULYOK elected president; National Assembly vote - 134 to 5<br><br><em>2022: </em>Katalin NOVAK (Fidesz) elected president; National Assembly vote - 137 to 51<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Orszaggyules (199 seats; 106 members directly elected in single-member constituencies by simple majority vote and 93 members directly elected in a single nationwide constituency by party-list proportional representation vote, using the D&rsquo;Hondt method; members serve 4-year terms)<br>
-_elections_: last held on 3 April 2022 (next to be held in April 2026)<br>
-_election results_: percent of vote by party list - Fidesz-KDNP 54.1%, United for Hungary 34.5%, Mi Hazank 5.9%, other 5.5%; seats by party list - Fidesz-KDNP 135, United for Hungary 57, Mi Hazank 6, independent 1; composition - men 170, women 29, percentage women 14.6%<br>
+_legislature name_: National Assembly (Országgyülés)<br>
+_legislative structure_: unicameral<br>
+_chamber name_: National Assembly (Orszaggyules)<br>
+_number of seats_: 199 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 4/3/2022<br>
+_parties elected and seats per party_: Hungarian Civic Union-Christian Democratic People's Party (FIDESZ-KDNP) (135); Democratic Coalition (DK) (15); Movement for a Better Hungary (Jobbik) (10); Hungarian Socialist Party (MSZP) (10); Momentum (10); Other (19)<br>
+_percentage of women in chamber_: 14.6%<br>
+_expected date of next election_: April 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Curia or Supreme Judicial Court (consists of the president, vice president, department heads, and has a maximum of 113 judges, and is organized into civil, criminal, and administrative-labor departments; Constitutional Court (consists of 15 judges, including the court president and vice president)<br>
@@ -411,7 +419,7 @@ $375.268 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$40,600 (2023 est.)<br>
+$40,500 (2023 est.)<br>
 $40,700 (2022 est.)<br>
 $38,600 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
@@ -459,7 +467,7 @@ mining, metallurgy, construction materials, processed foods, textiles, chemicals
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.006 million (2023 est.)<br>
+5.001 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -492,9 +500,9 @@ _highest 10%_: 24.1% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.7% of GDP (2023 est.)<br>
-2.2% of GDP (2022 est.)<br>
-2.1% of GDP (2021 est.)<br>
+2.39% of GDP (2023 est.)<br>
+2.23% of GDP (2022 est.)<br>
+2.08% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -511,15 +519,15 @@ _expenditures_: $75.081 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$623.545 million (2023 est.)<br>
--$14.47 billion (2022 est.)<br>
--$7.337 billion (2021 est.)<br>
+$1.673 billion (2023 est.)<br>
+-$14.728 billion (2022 est.)<br>
+-$7.062 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$172.484 billion (2023 est.)<br>
-$160.038 billion (2022 est.)<br>
-$145.539 billion (2021 est.)<br>
+$172.662 billion (2023 est.)<br>
+$158.98 billion (2022 est.)<br>
+$145.522 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -531,9 +539,9 @@ cars, vehicle parts/accessories, electric batteries, packaged medicine, computer
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$161.558 billion (2023 est.)<br>
-$167.744 billion (2022 est.)<br>
-$145.058 billion (2021 est.)<br>
+$162.02 billion (2023 est.)<br>
+$167.262 billion (2022 est.)<br>
+$145.191 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

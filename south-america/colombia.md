@@ -349,9 +349,30 @@ _election results_: <em><br>2022:</em> Gustavo Francisco PETRO Urrego elected pr
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: bicameral Congress or Congreso consists of:<br>Senate or Senado (108 seats; 100 members elected in a single nationwide constituency by party-list proportional representation vote, 2 members elected in a special nationwide constituency for indigenous communities, 5 members of the Commons political party, formerly the People's Alternative Revolutionary Force (FARC), for 2 legislative terms only: 2018-2022 and 2022-2026 as per the 2016 peace accord, and 1 seat reserved for the runner-up presidential candidate in the recent election; all members serve 4-year terms)<br> <p>Chamber of Representatives or Camara de Representantes (188 seats; 162 members elected in multi-seat constituencies by party-list proportional representation vote, 2 members elected in a special nationwide constituency for Afro-Colombians, 1 member elected by Colombians residing abroad, 1 member elected in a special nationwide constituency for the indigenous communities, 5 members of the Commons political party for two legislative terms only: 2018-2022 and 2022-2026 as per the 2016 peace accord, 16 seats for rural conflict victims for two legislative terms only: 2022-2026 and 2026-2030, and 1 seat reserved for the runner-up vice presidential candidate in the recent election; all members serve 4-year terms)</p><br>
-_elections_: Senate - last held on 13 March 2022 (next to be held in March 2026)<br>Chamber of Representatives - last held on 13 March 2022 (next to be held in March 2026)<br>
-_election results_: Senate - percent of vote by party/coalition - PHxC 16.9%, PC 13.1%, PL 12.4%, Green Alliance and Center Hope Coalition 11.5%, CD 11.4%, CR 9.4%, U Party 8.8%, MIRA–Colombia Free and Just Coalition 3.4%, other 13.1%; seats by party/coalition - PHxC- 20, PC 15, PL 14, Green Alliance and Center Hope Coalition 13, CD 13, CR 11, U Party 10, MIRA–Colombia Free and Just Coalition 4; composition - men 73, women 33, percentage women 31.1%<br><br>Chamber of Representatives - percent of vote by party/coalition- PHxC 17.6%, PL 14%, PC 12.4%, CD 10.2% U Party 8.6%, CR 7.9%, Green Alliance 6.5%, others 22.4%; seats by party/coalition - PL 32,  PHxC 27, CP 25, CD 16, CR 16, U Party 15, Green Alliance and Center Hope Coalition 11, others 24; composition - men 133, women 54, percentage women 28.9%; total Congress percentage women 29.7%<br>
+_legislature name_: Congress (Congreso)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives (Cámara de Representantes)<br>
+_number of seats_: 187 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 3/13/2022<br>
+_parties elected and seats per party_: Liberal Party (PL) (32); Historic Pact (27); Conservative Party (CP) (25); Democratic Centre (CD) (16); Radical Change (CR) (16); Union Party for the People “Partido de la U” (15); Green Alliance - Hope Centre coalition (11); Seats reserved for victims of the armed conflict (Citrep) (16); Other (28)<br>
+_percentage of women in chamber_: 29.4%<br>
+_expected date of next election_: March 2026<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Senado de la República)<br>
+_number of seats_: 108 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 3/13/2022<br>
+_parties elected and seats per party_: Historic Pact (20); Conservative Party (CP) (15); Liberal Party (PL) (14); Green Alliance - Hope Centre coalition (13); Democratic Centre (CD) (13); Radical Change (CR) (11); Union Party for the People “Partido de la U” (10); Other (4)<br>
+_percentage of women in chamber_: 31.4%<br>
+_expected date of next election_: March 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (consists of the Civil-Agrarian and Labor Chambers each with 7 judges, and the Penal Chamber with 9 judges); Constitutional Court (consists of 9 magistrates); Council of State (consists of 27 judges); Superior Judiciary Council (consists of 13 magistrates)<br>
@@ -403,7 +424,7 @@ _selected World Heritage Site locales_: Chiribiquete National Park (m); Coffee C
 prior to COVID-19, one of the most consistent growth economies; declining poverty; large stimulus package has mitigated economic fallout, but delayed key infrastructure investments; successful inflation management; sound flexible exchange rate regime; domestic economy suffers from lack of trade integration and infrastructure<br>
 
 **Real GDP (purchasing power parity)**<br>
-$978.024 billion (2023 est.)<br>
+$978.007 billion (2023 est.)<br>
 $972.073 billion (2022 est.)<br>
 $906.034 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
@@ -415,13 +436,13 @@ $906.034 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$18,800 (2023 est.)<br>
-$18,700 (2022 est.)<br>
-$17,600 (2021 est.)<br>
+$18,700 (2023 est.)<br>
+$18,800 (2022 est.)<br>
+$17,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$363.54 billion (2023 est.)<br>
+$363.494 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -438,15 +459,15 @@ _Standard & Poors rating_: BBB- (2017)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 8.7% (2023 est.)<br>
-_industry_: 24.5% (2023 est.)<br>
+_industry_: 24.6% (2023 est.)<br>
 _services_: 56.9% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 77.5% (2023 est.)<br>
-_government consumption_: 14.6% (2023 est.)<br>
-_investment in fixed capital_: 17.6% (2023 est.)<br>
-_investment in inventories_: -4.8% (2023 est.)<br>
+_household consumption_: 76.5% (2023 est.)<br>
+_government consumption_: 14.8% (2023 est.)<br>
+_investment in fixed capital_: 17.4% (2023 est.)<br>
+_investment in inventories_: -3.8% (2023 est.)<br>
 _exports of goods and services_: 17.8% (2023 est.)<br>
 _imports of goods and services_: -22.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -463,7 +484,7 @@ textiles, food processing, oil, clothing and footwear, beverages, chemicals, cem
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-26.003 million (2023 est.)<br>
+26.294 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -515,15 +536,15 @@ _expenditures_: $113.035 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$9.715 billion (2023 est.)<br>
--$21.367 billion (2022 est.)<br>
--$17.956 billion (2021 est.)<br>
+-$9.13 billion (2023 est.)<br>
+-$21.185 billion (2022 est.)<br>
+-$17.949 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$67.762 billion (2023 est.)<br>
-$73.06 billion (2022 est.)<br>
-$50.907 billion (2021 est.)<br>
+$68.273 billion (2023 est.)<br>
+$73.205 billion (2022 est.)<br>
+$50.913 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -535,8 +556,8 @@ crude petroleum, coal, coffee, refined petroleum, gold (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$75.983 billion (2023 est.)<br>
-$89.649 billion (2022 est.)<br>
+$76.23 billion (2023 est.)<br>
+$89.606 billion (2022 est.)<br>
 $70.914 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
@@ -555,7 +576,7 @@ $58.019 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$97.915 billion (2022 est.)<br>
+$110.471 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -700,7 +721,7 @@ note: the PNC is a civilian force that is under the jurisdiction of the Ministry
 3.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 265,000 active troops (200,000 Army; 50,000 Navy, including about 20,000 marines; 15,000 Air Force); approximately 175,000 National Police (2023)<br>
+information varies; approximately 260,000 active troops (200,000 Army; 45,000 Navy, including about 20,000 marines; 15,000 Air Force); approximately 175,000 National Police (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes a wide mix of equipment from a variety of suppliers, including Canada, Germany, Israel, South Korea, and especially the US; Colombia's defense industry is active in producing air, land, and naval platforms (2024)<br>

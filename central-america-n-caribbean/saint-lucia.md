@@ -307,9 +307,28 @@ _cabinet_: Cabinet appointed by the governor general on the advice of the prime 
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by governor general; deputy prime minister appointed by governor general<br>
 
 **Legislative branch**<br>
-_description_: bicameral Houses of Parliament consists of:<br>Senate (11 seats; all members appointed by the governor general; 6 on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 2 upon consultation with religious, economic, and social groups; members serve 5-year terms)<br>House of Assembly (18 seats; 17 members directly elected in single-seat constituencies by simple majority vote and the speaker, designated from outside the Parliament; members serve 5-year terms)<br>
-_elections_: Senate - last appointments on 17 August 2021 (next to be held in 2026)<br>House of Assembly - last held on 26 July 2021 (next to be held in 2026)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 6, women 5, percentage women 45.5%<br><br>House of Assembly - percent of vote by party - SLP 50.1%, UWP 42.9%, other 0.3%, independent 6.6%; seats by party - SLP 13, UWP 2, independent 2; composition - men 16, women 2, percentage women 11.1%; note - total Parliament percentage women 24.1%<br>
+_legislature name_: Houses of Parliament<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Assembly<br>
+_number of seats_: 18 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 7/26/2021<br>
+_parties elected and seats per party_: Saint Lucia Labour Party (SLP) (13); United Workers Party (UWP) (2); Independents (2)<br>
+_percentage of women in chamber_: 11.1%<br>
+_expected date of next election_: July 2026<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate<br>
+_number of seats_: 11 (all appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 8/17/2021<br>
+_percentage of women in chamber_: 45.5%<br>
+_expected date of next election_: August 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states with 4 on Saint Lucia; Saint Lucia is a member of the Caribbean Court of Justice<br>
@@ -354,25 +373,25 @@ _selected World Heritage Site locales_: Pitons Management Area<br>
 upper middle-income, tourism-based Caribbean island economy; environmentally fragile; energy import-dependent; major banana producer; well-educated labor force; key infrastructure, IT, and communications investments<br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.083 billion (2023 est.)<br>
-$3.957 billion (2022 est.)<br>
-$3.351 billion (2021 est.)<br>
+$4.196 billion (2023 est.)<br>
+$4.105 billion (2022 est.)<br>
+$3.41 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.19% (2023 est.)<br>
-18.08% (2022 est.)<br>
+2.21% (2023 est.)<br>
+20.39% (2022 est.)<br>
 12.23% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$22,700 (2023 est.)<br>
-$22,000 (2022 est.)<br>
-$18,700 (2021 est.)<br>
+$23,400 (2023 est.)<br>
+$23,000 (2022 est.)<br>
+$19,100 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.52 billion (2023 est.)<br>
+$2.43 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -382,9 +401,9 @@ $2.52 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.9% (2023 est.)<br>
-_industry_: 8.6% (2023 est.)<br>
-_services_: 74.1% (2023 est.)<br>
+_agriculture_: 1.1% (2023 est.)<br>
+_industry_: 9.7% (2023 est.)<br>
+_services_: 76.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -403,11 +422,11 @@ coconuts, bananas, tropical fruits, fruits, plantains, root vegetables, chicken,
 tourism; clothing, assembly of electronic components, beverages, corrugated cardboard boxes, lime processing, coconut processing<br>
 
 **Industrial production growth rate**<br>
-3.5% (2023 est.)<br>
+12.4% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-101,000 (2023 est.)<br>
+100,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -423,7 +442,7 @@ _female_: 26.5% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-25% (2016 est.)<br>
+25% (2015 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -436,9 +455,9 @@ _highest 10%_: 34.1% (2015 est.)<br>
 <strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.5% of GDP (2023 est.)<br>
-2.64% of GDP (2022 est.)<br>
-3.45% of GDP (2021 est.)<br>
+2.63% of GDP (2023 est.)<br>
+2.65% of GDP (2022 est.)<br>
+3.39% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -450,7 +469,7 @@ _expenditures_: $351.956 million (2017 est.)<br>
 70.7% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-18.23% (of GDP) (2017 est.)<br>
+18.22% (of GDP) (2017 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -494,7 +513,7 @@ $433.117 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$687.824 million (2022 est.)<br>
+$930.267 million (2023 est.)<br>
 <strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

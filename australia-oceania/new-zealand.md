@@ -336,9 +336,16 @@ _elections/appointments_: the monarchy is hereditary; governor-general appointed
 <strong>note: </strong>according to Prime Minister LUXON, the Winston PETERS of the New Zealand First Party would be the deputy prime minister in the first half of the term while Act party leader, David SEYMOUR, would take the role for the second half of the term<br>
 
 **Legislative branch**<br>
-_description_: unicameral House of Representatives - commonly called Parliament (121 seats for 2023-26 term); 72 members directly elected in 65 single-seat constituencies and 7 Maori constituencies by simple majority vote and 49 directly elected by closed party-list proportional representation vote; members serve 3-year terms)<br>
-_elections_: last held on 14 October 2023 (next scheduled for October 2026)<br>
-_election results_: percent of vote by party - National Party 38.1%, Labor Party 26.9%, Green Party 11.6%, ACT Party 8.6%, New Zealand First 6.1%; Maori Party 3.1%; seats by party - National Party 48, Labor Party 34, Green Party 15, ACT Party 11, New Zealand First 8, Maori Party 6; composition - 67 men, 56 women; percentage of women 45.5%<br>
+_legislature name_: House of Representatives<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 120 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 3 years<br>
+_most recent election date_: 10/14/2023<br>
+_parties elected and seats per party_: National Party (49); Labour Party (34); Green Party (15); ACT New Zealand (11); New Zealand First (8); Other (6)<br>
+_percentage of women in chamber_: 45.5%<br>
+_expected date of next election_: September 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 5 justices, including the chief justice); note - the Supreme Court in 2004 replaced the Judicial Committee of the Privy Council (in London) as the final appeals court<br>
@@ -389,13 +396,13 @@ _selected World Heritage Site locales_: Te Wahipounamu – South West New Zealan
 high-income, globally integrated Pacific island economy; strong agriculture, manufacturing, and tourism sectors; reliant on Chinese market for exports; slow recovery from post-COVID recession and inflation; challenges of fiscal deficits, below-average productivity, and curbing greenhouse gas emissions<br>
 
 **Real GDP (purchasing power parity)**<br>
-$254.77 billion (2023 est.)<br>
+$255.026 billion (2023 est.)<br>
 $253.17 billion (2022 est.)<br>
 $246.334 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.63% (2023 est.)<br>
+0.73% (2023 est.)<br>
 2.77% (2022 est.)<br>
 4.55% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
@@ -407,7 +414,7 @@ $48,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$253.466 billion (2023 est.)<br>
+$252.176 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -431,10 +438,10 @@ _services_: 67.1% (2021 est.)<br>
 **GDP - composition, by end use**<br>
 _household consumption_: 58.2% (2022 est.)<br>
 _government consumption_: 21.1% (2022 est.)<br>
-_investment in fixed capital_: 25.4% (2022 est.)<br>
-_investment in inventories_: 0.4% (2022 est.)<br>
-_exports of goods and services_: 24.4% (2022 est.)<br>
-_imports of goods and services_: -29.7% (2022 est.)<br>
+_investment in fixed capital_: 24.6% (2023 est.)<br>
+_investment in inventories_: -1.1% (2023 est.)<br>
+_exports of goods and services_: 24.1% (2023 est.)<br>
+_imports of goods and services_: -26.9% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -449,7 +456,7 @@ agriculture, forestry, fishing, logs and wood articles, manufacturing, mining, c
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.068 million (2023 est.)<br>
+3.073 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -469,7 +476,7 @@ _on food_: 12.5% of household expenditures (2022 est.)<br>
 _on alcohol and tobacco_: 4.9% of household expenditures (2022 est.)<br>
 
 **Remittances**<br>
-0.24% of GDP (2023 est.)<br>
+0.32% of GDP (2023 est.)<br>
 0.23% of GDP (2022 est.)<br>
 0.26% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -488,13 +495,13 @@ _expenditures_: $88.64 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$16.982 billion (2023 est.)<br>
+-$17.065 billion (2023 est.)<br>
 -$21.627 billion (2022 est.)<br>
 -$14.804 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$59.043 billion (2023 est.)<br>
+$59.029 billion (2023 est.)<br>
 $57.485 billion (2022 est.)<br>
 $54.923 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -508,7 +515,7 @@ milk, beef, wood, sheep and goat meat, butter (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$68.429 billion (2023 est.)<br>
+$68.412 billion (2023 est.)<br>
 $71.35 billion (2022 est.)<br>
 $62.984 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>

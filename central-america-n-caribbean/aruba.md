@@ -246,7 +246,7 @@ constituent country of the Kingdom of the Netherlands; full autonomy in internal
 _name_: Oranjestad<br>
 _geographic coordinates_: 12 31 N, 70 02 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: translates as "orange town" in Dutch; the city is named after William I (1533-1584), Prince of Orange, the first ruler of the Netherlands<br>
+_etymology_: translates as "orange city" in Dutch; in 1824, the city was named after the royal family of the Netherlands, the House of Orange-Nassau&nbsp;<br>
 
 **Administrative divisions**<br>
 none (part of the Kingdom of the Netherlands)<br>
@@ -278,9 +278,16 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 _election results_: as leader of the majority party of the ruling coalition, Evelyn WEVER-CROES (MEP) elected prime minister; percent of Staten vote - NA<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislature or Staten (21 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 6 December 2024 (next to be held in 2028)<br>
-_election results_: percent of vote by party AVP 32.2%, MEP 31.7%, FUTURO 13.2%, PPA 6.4%; seats by party - AVP 9, MEP 8, FUTURO 3, PPA 1; composition - men NA, women NA, percentage women - NA%<br>
+_legislature name_: Legislature (Staten)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 21<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 6/25/2021<br>
+_parties elected and seats per party_: MEP (9); AVP (7); ROOTS (2); MAS (2); Accion21 (1)<br>
+_percentage of women in chamber_: 38.1%<br>
+_expected date of next election_: June 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (sits as a 3-judge panel); final appeals heard by the Supreme Court in The Hague, Netherlands<br>
@@ -316,25 +323,25 @@ _lyrics/music_: Juan Chabaya 'Padu' LAMPE/Rufo Inocencio WEVER<br>
 small, tourism-dependent, territorial-island economy; very high public debt; COVID-19 crippled economic activity; partial recovery underway via tourism, benefitting from its high amount of timeshare residences; considering reopening oil refinery<br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.498 billion (2022 est.)<br>
-$4.072 billion (2021 est.)<br>
-$3.191 billion (2020 est.)<br>
+$4.35 billion (2023 est.)<br>
+$4.172 billion (2022 est.)<br>
+$3.844 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-10.46% (2022 est.)<br>
+4.26% (2023 est.)<br>
+8.52% (2022 est.)<br>
 27.64% (2021 est.)<br>
--23.98% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$42,300 (2022 est.)<br>
-$38,200 (2021 est.)<br>
-$29,900 (2020 est.)<br>
+$40,500 (2023 est.)<br>
+$38,900 (2022 est.)<br>
+$35,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.545 billion (2022 est.)<br>
+$3.649 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -355,11 +362,12 @@ _services_: 78.3% (2019 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 53.8% (2022 est.)<br>
-_government consumption_: 19.9% (2022 est.)<br>
-_investment in fixed capital_: 20.6% (2022 est.)<br>
-_exports of goods and services_: 83.1% (2022 est.)<br>
-_imports of goods and services_: -77.3% (2022 est.)<br>
+_household consumption_: 52.1% (2023 est.)<br>
+_government consumption_: 19.6% (2023 est.)<br>
+_investment in fixed capital_: 21.5% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
+_exports of goods and services_: 88.3% (2023 est.)<br>
+_imports of goods and services_: -81.5% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -372,9 +380,9 @@ tourism, petroleum transshipment facilities, banking<br>
 7.7% (2016 est.)<br>
 
 **Remittances**<br>
-1.08% of GDP (2022 est.)<br>
-1.16% of GDP (2021 est.)<br>
-1.37% of GDP (2020 est.)<br>
+1.03% of GDP (2023 est.)<br>
+1.17% of GDP (2022 est.)<br>
+1.22% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -422,9 +430,9 @@ refined petroleum, crude petroleum, tobacco, jewelry, other foods (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$1.468 billion (2023 est.)<br>
 $1.544 billion (2022 est.)<br>
 $1.513 billion (2021 est.)<br>
-$1.213 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
@@ -478,7 +486,7 @@ _domestic_: 33 per 100 fixed-line telephone subscriptions and 130 per 100 mobile
 _international_: country code - 297; landing&nbsp;points for the PAN-AM, PCCS, Deep Blue Cable, and Alonso de Ojeda&nbsp;submarine telecommunications cable system that extends from Trinidad and Tobago, Florida,&nbsp;Puerto Ricco,&nbsp;Jamaica, Guyana, Sint Eustatius &amp; Saba, Suriname, Dominican Republic, BVI, USVI, Haiti, Cayman Islands, the Netherlands Antilles,&nbsp; through Aruba to Panama, Venezuela, Colombia, Ecuador, Peru and Chile; extensive interisland microwave radio relay links (2019)<br>
 
 **Broadcast media**<br>
-2 commercial TV stations; cable TV subscription service provides access to foreign channels; about 19 commercial radio stations broadcast (2017)<br>
+<p class="ssrcss-1q0x1qg-Paragraph e1jhz7w10">Aruba observes freedom of the press, as guaranteed under Dutch law, the newspapers are in the Papiamento language, there are two commercial TV stations, a cable TV subscription service provides access to foreign channels and there are a wide range of commercial radio stations available</p> (2023)<br>
 
 **Internet country code**<br>
 .aw<br>

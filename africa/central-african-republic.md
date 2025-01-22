@@ -344,9 +344,16 @@ _elections/appointments_: president directly elected for 5-year term; election l
 _election results_: <em><br>2020:</em> Faustin-Archange TOUADÉRA reelected president in first round; percent of vote - Faustin-Archange TOUADÉRA (independent) 53.9%, Anicet Georges DOLOGUELE (URCA) 21%, other 25.1%<br><br><em>2015:</em> Faustin-Archange TOUADÉRA elected president in the second round; percent of vote in first round - Anicet-Georges DOLOGUELE (URCA) 23.7%, Faustin-Archange TOUADÉRA (independent) 19.1%, Desire KOLINGBA (RDC) 12%, Martin ZIGUELE (MLPC) 11.4%, other 33.8%; percent of vote in second round - Faustin-Archange TOUADÉRA 62.7%, Anicet-Georges DOLOGUELE 37.3%<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Assemblee Nationale (140 seats; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)<br>
-_elections_: last held in December 2020 through July 2021 (next to be held 31 December 2025)<br>
-_election results_: percent of vote by party - NA; seats by party - MCU 63, MOUNI 9, URCA 7, MLPC 7, RDC 5, KNK 3, PATRIE 3, CDE 2, RDD 2, MDD 2, PGD 2, PAD 2, CANE 2, other 11, independent 20; composition - men 124, women 16, percentage women 11.4%<br>
+_legislature name_: National Assembly (Assemblée nationale)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 140 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 12/27/2020 to 7/25/2021<br>
+_parties elected and seats per party_: United Hearts Movement (MCU) (61); National Movement of Independents (MOUNI) (9); Union for Central African Renewal (URCA) (7); Independents (17); Other (39)<br>
+_percentage of women in chamber_: 11.4%<br>
+_expected date of next election_: December 2025<br>
 <strong>note 1:</strong> on 27 December 2020, the day of first round elections, voting in many electoral areas was disrupted by armed groups; on 13 February 2021, President TOUADERA announced that new first round elections would be held on 27 February 2021 for those areas controlled by armed groups and the second round on 14 March 2021; ultimately, two additional rounds were held on 23 May and 25 July 2021 in areas that continued to suffer from election security problems<br><br><strong>note 2:</strong> in accordance with article 98 of the constitution published in August 2023, the parliamentary term has increased from five to seven years and will be first applied to the legislature due to be elected in late 2025<br>
 
 **Judicial branch**<br>
@@ -373,7 +380,7 @@ _embassy_: Avenue David Dacko, Bangui<br>
 _mailing address_: 2060 Bangui Place, Washington DC&nbsp; 20521-2060<br>
 _telephone_: [236] 2161-0200<br>
 _FAX_: [236] 2161-4494<br>
-_email address and website_: https://cf.usembassy.gov/<br>
+_email address and website_: <br>https://cf.usembassy.gov/<br>
 
 **Flag description**<br>
 four equal horizontal bands of blue (top), white, green, and yellow with a vertical red band in center; a yellow five-pointed star to the hoist side of the blue band; banner combines the Pan-African and French flag colors; red symbolizes the blood spilled in the struggle for independence, blue represents the sky and freedom, white peace and dignity, green hope and faith, and yellow tolerance; the star represents aspiration towards a vibrant future<br>

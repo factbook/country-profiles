@@ -358,13 +358,20 @@ _chief of state_: President Samia Suluhu HASSAN (since 19 March 2021)<br>
 _head of government_: President Samia Suluhu HASSAN (since 19 March 2021)<br>
 _cabinet_: Cabinet appointed by the president from among members of the National Assembly<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 5-year term (eligible for a second term); election last held on 28 October 2020 (next to be held in October 2025); prime minister appointed by the president<br>
-_election results_: <br><em>2020</em>: John MAGUFULI reelected president; percent of vote - John MAGUFULI (CCM) 84.4%, Tundu LISSU (CHADEMA) 13%, other 2.6%; note - President MAGUFULI died on 17 March 2021 and his Vice President, Samia Suluhu HASSAN, assumed the office of the President on 19 March 2021<br><br><em>2015</em>: John MAGUFULI elected president; percent of vote - John MAGUFULI (CCM) 58.5%, Edward LOWASSA (CHADEMA) 40%, other 1.5%<br>
-<strong>note 1:</strong> Zanzibar elects a president as head of government for internal matters; elections were held on 28 October 2020; Hussein MWINYI (CCM) 76.3%, Maalim Seif SHARIF (ACT-Wazalendo) 19.9%, other 3.8%<br><br><strong>note 2:</strong> the president is both chief of state and head of government<br><br><strong>note 3:</strong> following the death of President John MAGUFULI in March 2021, then Vice President Samia Suluhu HASSAN assumed the presidency<br>
+_election results_: <em>2020</em>: John MAGUFULI reelected president; percent of vote - John MAGUFULI (CCM) 84.4%, Tundu LISSU (CHADEMA) 13%, other 2.6%; note - President MAGUFULI died on 17 March 2021 and his Vice President, Samia Suluhu HASSAN, assumed the office of the president on 19 March 2021<br><br><em>2015</em>: John MAGUFULI elected president; percent of vote - John MAGUFULI (CCM) 58.5%, Edward LOWASSA (CHADEMA) 40%, other 1.5%<br>
+<strong>note 1:</strong> Zanzibar elects a president as head of government for internal matters; election held on 28 October 2020; Hussein MWINYI (CCM) 76.3%, Maalim Seif SHARIF (ACT-Wazalendo) 19.9%, other 3.8%<br><br><strong>note 2:</strong> the president is both chief of state and head of government<br><br><strong>note 3:</strong> following the death of President John MAGUFULI in March 2021, then Vice President Samia Suluhu HASSAN assumed the presidency<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Parliament (Bunge) (393 seats; 264 members directly elected in single-seat constituencies by simple majority vote, 113 women indirectly elected by proportional representation vote, 5 indirectly elected by simple majority vote by the Zanzibar House of Representatives, 10 appointed by the president, and 1 seat reserved for the attorney general; members serve 5-year terms)<br>
-_elections_: Tanzania National Assembly - last held on 28 October 2020 (next to be held in October 2025)<br>
-_election results_: National Assembly - percent of vote by party - NA; seats by party - CCM 350, Chadema 20, ACT-Wazalendo 4, CUF 3; composition - men 246, women 147, percentage women 37.4%<br>
+_legislature name_: National Assembly (Bunge)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 393 (264 directly elected; 118 indirectly elected; 10 appointed)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 10/28/2020<br>
+_parties elected and seats per party_: Revolutionary Party of Tanzania (CCM) (350); Chadema (Party for Democracy and Development) (20); Other (7)<br>
+_percentage of women in chamber_: 37.4%<br>
+_expected date of next election_: October 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal of the United Republic of Tanzania (consists of the chief justice and 14 justices); High Court of the United Republic for Mainland Tanzania (consists of the principal judge and 30 judges organized into commercial, land, and labor courts); High Court of Zanzibar (consists of the chief justice and 10 justices)<br>
@@ -413,13 +420,13 @@ _selected World Heritage Site locales_: Ngorongoro Conservation Area (m); Ruins 
 emerging lower middle-income East African economy; resource-rich and growing tourism; strong post-pandemic recovery from hospitality, electricity, mining, and transit sectors; declining poverty; stable inflation; gender-based violence economic and labor force disruptions<br>
 
 **Real GDP (purchasing power parity)**<br>
-$234.05 billion (2023 est.)<br>
+$233.786 billion (2023 est.)<br>
 $222.506 billion (2022 est.)<br>
 $212.79 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.19% (2023 est.)<br>
+5.07% (2023 est.)<br>
 4.57% (2022 est.)<br>
 4.32% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
@@ -431,7 +438,7 @@ $3,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$79.158 billion (2023 est.)<br>
+$79.062 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -446,17 +453,17 @@ _Moody's rating_: B2 (2020)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 23.7% (2023 est.)<br>
-_industry_: 27.7% (2023 est.)<br>
-_services_: 28.9% (2023 est.)<br>
+_industry_: 28% (2023 est.)<br>
+_services_: 28.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 53.8% (2023 est.)<br>
-_government consumption_: 8.1% (2023 est.)<br>
-_investment in fixed capital_: 42% (2023 est.)<br>
+_household consumption_: 54.1% (2023 est.)<br>
+_government consumption_: 8.8% (2023 est.)<br>
+_investment in fixed capital_: 42.7% (2023 est.)<br>
 _investment in inventories_: -1.7% (2023 est.)<br>
-_exports of goods and services_: 17.8% (2023 est.)<br>
-_imports of goods and services_: -20% (2023 est.)<br>
+_exports of goods and services_: 17.2% (2023 est.)<br>
+_imports of goods and services_: -21% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -467,11 +474,11 @@ cassava, maize, sweet potatoes, sugarcane, bananas, milk, rice, vegetables, bean
 agricultural processing (sugar, beer, cigarettes, sisal twine); mining (diamonds, gold, and iron), salt, soda ash; cement, oil refining, shoes, apparel, wood products, fertilizer<br>
 
 **Industrial production growth rate**<br>
-3.9% (2023 est.)<br>
+4.8% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-31.219 million (2023 est.)<br>
+31.054 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -504,8 +511,8 @@ _highest 10%_: 33.1% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.42% of GDP (2023 est.)<br>
-0.92% of GDP (2022 est.)<br>
+0.96% of GDP (2023 est.)<br>
+0.93% of GDP (2022 est.)<br>
 0.79% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -518,19 +525,19 @@ _expenditures_: $8.926 billion (2014 est.)<br>
 37% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-11.47% (of GDP) (2023 est.)<br>
+11.49% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$5.384 billion (2022 est.)<br>
--$2.388 billion (2021 est.)<br>
--$1.459 billion (2020 est.)<br>
+-$2.958 billion (2023 est.)<br>
+-$5.482 billion (2022 est.)<br>
+-$2.374 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$13.98 billion (2023 est.)<br>
 $11.986 billion (2022 est.)<br>
 $9.874 billion (2021 est.)<br>
-$8.555 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -542,9 +549,9 @@ gold, raw copper, refined copper, copper ore, coconuts/Brazil nuts/cashews (2022
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$16.059 billion (2023 est.)<br>
 $16.674 billion (2022 est.)<br>
 $11.61 billion (2021 est.)<br>
-$9.151 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -562,7 +569,7 @@ $4.351 billion (2016 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$15.913 billion (2022 est.)<br>
+$19.178 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

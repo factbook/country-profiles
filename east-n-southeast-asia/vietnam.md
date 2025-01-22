@@ -346,9 +346,16 @@ _elections/appointments_: president indirectly elected by the National Assembly 
 <strong>note: </strong>in August 2024, To LAM was elected general secretary of the Central Committee of the Communist Party of Vietnam, the country’s most powerful position<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Quoc Hoi (500 seats; members directly elected in multi-seat constituencies by absolute majority vote; members serve 5-year terms)<br>
-_elections_: last held on 23 May 2021 (next to be held in spring 2026)<br>
-_election results_: percent of vote by party - CPV 97.2%, 2.8% non-party; seats by party - CPV 486, non-party 14; composition- 342 men, 151 women, percentage women 30.6%<br>
+_legislature name_: National Assembly (Quoc-Hoi)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 500 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 5/23/2021<br>
+_parties elected and seats per party_: Communist Party (485); Other (14)<br>
+_percentage of women in chamber_: 30.6%<br>
+_expected date of next election_: May 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme People's Court (consists of the chief justice and 13 judges)<br>
@@ -413,9 +420,9 @@ $1.192 trillion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$13,700 (2023 est.)<br>
-$13,100 (2022 est.)<br>
-$12,200 (2021 est.)<br>
+$13,500 (2023 est.)<br>
+$12,900 (2022 est.)<br>
+$12,000 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -441,12 +448,12 @@ _services_: 42.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 54.8% (2022 est.)<br>
-_government consumption_: 8.9% (2022 est.)<br>
-_investment in fixed capital_: 30.8% (2022 est.)<br>
-_investment in inventories_: 1.8% (2022 est.)<br>
-_exports of goods and services_: 93.8% (2022 est.)<br>
-_imports of goods and services_: -90% (2022 est.)<br>
+_household consumption_: 54.6% (2023 est.)<br>
+_government consumption_: 8.9% (2023 est.)<br>
+_investment in fixed capital_: 30.4% (2023 est.)<br>
+_investment in inventories_: 1.6% (2023 est.)<br>
+_exports of goods and services_: 87.2% (2023 est.)<br>
+_imports of goods and services_: -79.1% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -461,7 +468,7 @@ food processing, garments, shoes, machine-building; mining, coal, steel; cement,
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-56.149 million (2023 est.)<br>
+55.966 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -477,7 +484,7 @@ _female_: 5.9% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-4.8% (2020 est.)<br>
+4.3% (2022 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -512,13 +519,13 @@ _expenditures_: $38.025 billion (2014 est.)<br>
 24.8% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
-$25.09 billion (2023 est.)<br>
+$25.833 billion (2023 est.)<br>
 $1.402 billion (2022 est.)<br>
 -$4.628 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$374.265 billion (2023 est.)<br>
+$375.1 billion (2023 est.)<br>
 $385.241 billion (2022 est.)<br>
 $340.126 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -532,7 +539,7 @@ broadcasting equipment, garments, telephones, integrated circuits, machine parts
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$339.767 billion (2023 est.)<br>
+$339.859 billion (2023 est.)<br>
 $369.746 billion (2022 est.)<br>
 $338.327 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -546,10 +553,13 @@ integrated circuits, broadcasting equipment, refined petroleum, telephones, fabr
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$92.238 billion (2023 est.)<br>
 $86.54 billion (2022 est.)<br>
 $109.371 billion (2021 est.)<br>
-$94.834 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+
+**Debt - external**<br>
+$37.055 billion (2023 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: dong (VND) per US dollar -<br>

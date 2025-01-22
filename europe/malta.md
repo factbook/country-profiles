@@ -325,9 +325,16 @@ _elections/appointments_: president indirectly elected by the House of Represent
 _election results_: <em><br>2024:  </em>Myriam Spiteri DEBONO (PL) elected president; House of Representatives vote - unanimous<br><em><br>2019:</em> George VELLA (PL) elected president; House of Representatives vote - unanimous<br>
 
 **Legislative branch**<br>
-_description_: unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (65 seats statutory, 79 for 2022-2027 term; members directly elected in 5 multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 26 March 2022 (next to be held in 2027)<br>
-_election results_: percent of vote by party - PL 55.1%, PN 41.7%, other 3.2%; seats by party - PL 38, PN 29; composition as of February 2024 - men 57, women 22, percentage women 27.9%; note - due to underepresentation by women in the combined general on 26 March and two casual elections on 7 and 12 April (10 seats or 14.9%), an additional 12 seats were awarded because their percentage did not meet the 40% threshold required by the Malta Constitution or the General Elections Amendment Act 2021<br>
+_legislature name_: House of Representatives (Il-Kamra Tad-Deputati)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 65 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 3/26/2022<br>
+_parties elected and seats per party_: Labour Party (LP) (44); Nationalist Party (PN) (35)<br>
+_percentage of women in chamber_: 27.8%<br>
+_expected date of next election_: March 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of either 1 or 3 judges); Constitutional Court (consists of 3 judges); Court of Criminal Appeal (consists of either 1 or 3 judges)<br>
@@ -375,25 +382,25 @@ _selected World Heritage Site locales_: City of Valletta; Ħal Saflieni Hypogeum
 high-income, EU-member European economy; diversified portfolio; euro user; dependent on food and energy imports; strong tourism, trade, and manufacturing sectors; high North African immigration; large welfare system; educated workforce<br>
 
 **Real GDP (purchasing power parity)**<br>
-$31.661 billion (2023 est.)<br>
-$29.978 billion (2022 est.)<br>
-$27.738 billion (2021 est.)<br>
+$33.787 billion (2023 est.)<br>
+$31.43 billion (2022 est.)<br>
+$30.178 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.61% (2023 est.)<br>
-8.08% (2022 est.)<br>
+7.5% (2023 est.)<br>
+4.15% (2022 est.)<br>
 12.51% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$57,200 (2023 est.)<br>
-$56,400 (2022 est.)<br>
-$53,500 (2021 est.)<br>
+$61,100 (2023 est.)<br>
+$59,100 (2022 est.)<br>
+$58,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$20.957 billion (2023 est.)<br>
+$22.329 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -410,17 +417,17 @@ _Standard & Poors rating_: A- (2016)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.7% (2023 est.)<br>
-_industry_: 12.1% (2023 est.)<br>
-_services_: 79.7% (2023 est.)<br>
+_industry_: 11.7% (2023 est.)<br>
+_services_: 80.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 43.4% (2023 est.)<br>
-_government consumption_: 17.7% (2023 est.)<br>
-_investment in fixed capital_: 18.5% (2023 est.)<br>
-_investment in inventories_: 1% (2023 est.)<br>
-_exports of goods and services_: 166.7% (2023 est.)<br>
-_imports of goods and services_: -147.3% (2023 est.)<br>
+_household consumption_: 45.8% (2023 est.)<br>
+_government consumption_: 16.6% (2023 est.)<br>
+_investment in fixed capital_: 18.6% (2023 est.)<br>
+_investment in inventories_: 0.9% (2023 est.)<br>
+_exports of goods and services_: 122.8% (2023 est.)<br>
+_imports of goods and services_: -104.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -431,7 +438,7 @@ milk, tomatoes, onions, potatoes, cauliflower/broccoli, pork, chicken, cabbages,
 tourism, electronics, ship building and repair, construction, food and beverages, pharmaceuticals, footwear, clothing, tobacco, aviation services, financial services, information technology services<br>
 
 **Industrial production growth rate**<br>
-4.3% (2014 est.)<br>
+5.29% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -464,9 +471,9 @@ _highest 10%_: 25.1% (2020 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.11% of GDP (2023 est.)<br>
-1.23% of GDP (2022 est.)<br>
-1.49% of GDP (2021 est.)<br>
+0.07% of GDP (2023 est.)<br>
+0.06% of GDP (2022 est.)<br>
+0.07% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -479,19 +486,19 @@ _expenditures_: $6.922 billion (2022 est.)<br>
 <strong>note:</strong> Malta reports public debt at nominal value outstanding at the end of the year, according to guidelines set out in the Maastricht Treaty for general government gross debt; the data include the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); general government comprises the central, state, and local governments, and social security funds<br>
 
 **Taxes and other revenues**<br>
-23.37% (of GDP) (2022 est.)<br>
+22.34% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.02 billion (2022 est.)<br>
-$214.463 million (2021 est.)<br>
-$348.601 million (2020 est.)<br>
+$1.425 billion (2023 est.)<br>
+-$167.611 million (2022 est.)<br>
+$1.844 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$25.417 billion (2022 est.)<br>
-$25.533 billion (2021 est.)<br>
-$22.735 billion (2020 est.)<br>
+$26.647 billion (2023 est.)<br>
+$23.566 billion (2022 est.)<br>
+$22.605 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -503,9 +510,9 @@ integrated circuits, packaged medicine, refined petroleum, fish, postage stamps/
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$23.883 billion (2022 est.)<br>
-$22.958 billion (2021 est.)<br>
-$20.164 billion (2020 est.)<br>
+$22.637 billion (2023 est.)<br>
+$21.406 billion (2022 est.)<br>
+$18.795 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

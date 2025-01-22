@@ -356,9 +356,30 @@ _elections/appointments_: president and vice president directly elected on the s
 _election results_: <br>2023: Javier Gerardo MILEI elected president in second round; percent vote in first round - Sergio Tomás MASSA (FR) 36.7%, Javier Gerardo MILEI (PL) 30%, Patricia BULLRICH 23.8% (JxC/PRO), Juan SCHIARETTI (PJ) 6.8%, Myriam BREGMAN (PTS)<em> </em>2.7%; percent of vote in second round - Javier Gerardo MILEI 55.7%, Sergio Tomás MASSA 44.3%<em><br><br>2019:</em> Alberto Ángel FERNÁNDEZ elected president; percent of vote - Alberto Angel FERNÁNDEZ (TODOS) 48.1%, Mauricio MACRI (PRO) 40.4%, Roberto LAVAGNA (independent) 6.2%, other 5.3%<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (72 seats; members directly elected from 24 provincial districts by closed-list proportional representation vote; 2 seats per district awarded to the party with the most votes and 1 seat per district to the party with the second highest votes; members serve 6-year terms with one-third of the membership renewed every 2 years)<br>Chamber of Deputies or Cámara de Diputados (257 seats; members directly elected in multi-seat constituencies by closed-list proportional representation vote; members serve 4-year terms with one-half of the membership renewed every 2 years)<br>
-_elections_: <br>Senate - last held on 22 October 2023 (next to be held in October 2025)<br>Chamber of Deputies - last held on 22 October 2023 (next to be held in October 2025)<br>
-_election results_: <p>Senate - percent of vote by party/coalition - NA; seats by party/coalition - UP 12, LLA 8, JxC 2, other 2; composition - men 39, women 33, percentage women 45.8% <br><br>Chamber of Deputies - percent of vote by party/coalition - NA; seats by party/coalition - UP 58, LLA 35, JxC 31, NHP  4, other 2; composition - men 148, women 109, percentage women 42.4%; total National Congress percentage women 43.2%</p><br>
+_legislature name_: National Congress (Congreso de la nación)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: Chamber of Deputies (Cámara de Diputados)<br>
+_number of seats_: 257 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: partial renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 10/22/2023<br>
+_parties elected and seats per party_: Union for the Homeland (UP) (48); Freedom Advances (LLA) (28); Together for Change (JxC/Juntos) (27); Other (27)<br>
+_percentage of women in chamber_: 42.4%<br>
+_expected date of next election_: October 2025<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Senado)<br>
+_number of seats_: 72 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: partial renewal<br>
+_term in office_: 6 years<br>
+_most recent election date_: 10/22/2023<br>
+_parties elected and seats per party_: Union for the Homeland (UP) (9); Freedom Advances (LLA) (6); Together for Change (JxC/Juntos) (2); Front for the Renewal of Social Concord – Federal Innovation (2); Federal Renewal (2); For Santa Cruz (2); Other (1)<br>
+_percentage of women in chamber_: 45.8%<br>
+_expected date of next election_: October 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Corte Suprema (consists of the court president, vice president, 2 judges, 1 vacancy)<br>
@@ -408,25 +429,25 @@ _selected World Heritage Site locales_: Los Glaciares National Park (n); Jesuit 
 large diversified economy; financial risks from debt obligations, rapid inflation, and reduced investor appetites; resource-rich, export-led growth model; increasing trade relations with China; G20 and OAS leader; tendency to nationalize businesses and under-report inflation<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.235 trillion (2023 est.)<br>
-$1.254 trillion (2022 est.)<br>
-$1.195 trillion (2021 est.)<br>
+$1.234 trillion (2023 est.)<br>
+$1.255 trillion (2022 est.)<br>
+$1.192 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--1.55% (2023 est.)<br>
-4.96% (2022 est.)<br>
+-1.61% (2023 est.)<br>
+5.27% (2022 est.)<br>
 10.72% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$26,500 (2023 est.)<br>
-$27,100 (2022 est.)<br>
-$26,100 (2021 est.)<br>
+$27,100 (2023 est.)<br>
+$27,600 (2022 est.)<br>
+$26,300 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$640.591 billion (2023 est.)<br>
+$646.075 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -441,18 +462,18 @@ _Standard & Poors rating_: CCC+ (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 6.1% (2023 est.)<br>
+_agriculture_: 5.9% (2023 est.)<br>
 _industry_: 25.1% (2023 est.)<br>
-_services_: 52.8% (2023 est.)<br>
+_services_: 53.1% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 67.2% (2023 est.)<br>
-_government consumption_: 15.8% (2023 est.)<br>
-_investment in fixed capital_: 19.1% (2023 est.)<br>
-_investment in inventories_: 0.4% (2023 est.)<br>
-_exports of goods and services_: 12.9% (2023 est.)<br>
-_imports of goods and services_: -14.1% (2023 est.)<br>
+_household consumption_: 65.9% (2023 est.)<br>
+_government consumption_: 16.4% (2023 est.)<br>
+_investment in fixed capital_: 18.6% (2023 est.)<br>
+_investment in inventories_: 0.8% (2023 est.)<br>
+_exports of goods and services_: 12.7% (2023 est.)<br>
+_imports of goods and services_: -13.9% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -463,11 +484,11 @@ maize, soybeans, wheat, sugarcane, milk, barley, sunflower seeds, beef, sorghum,
 food processing, motor vehicles, consumer durables, textiles, chemicals and petrochemicals, printing, metallurgy, steel<br>
 
 **Industrial production growth rate**<br>
--0.35% (2023 est.)<br>
+-0.23% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-21.906 million (2023 est.)<br>
+21.533 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -500,9 +521,9 @@ _highest 10%_: 29.8% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.25% of GDP (2023 est.)<br>
-0.2% of GDP (2022 est.)<br>
-0.18% of GDP (2021 est.)<br>
+0.16% of GDP (2023 est.)<br>
+0.17% of GDP (2022 est.)<br>
+0.19% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -514,19 +535,19 @@ _expenditures_: $138.622 billion (2022 est.)<br>
 57.6% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-11.15% (of GDP) (2022 est.)<br>
+11.12% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$21.494 billion (2023 est.)<br>
--$4.29 billion (2022 est.)<br>
-$6.645 billion (2021 est.)<br>
+-$20.956 billion (2023 est.)<br>
+-$4.055 billion (2022 est.)<br>
+$6.625 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$83.359 billion (2023 est.)<br>
-$103.002 billion (2022 est.)<br>
-$87.486 billion (2021 est.)<br>
+$82.947 billion (2023 est.)<br>
+$102.928 billion (2022 est.)<br>
+$87.575 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -538,9 +559,9 @@ soybean meal, corn, soybean oil, wheat, trucks (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$92.574 billion (2023 est.)<br>
-$97.558 billion (2022 est.)<br>
-$72.392 billion (2021 est.)<br>
+$92.3 billion (2023 est.)<br>
+$97.399 billion (2022 est.)<br>
+$72.58 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -558,7 +579,7 @@ $39.653 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$77.88 billion (2022 est.)<br>
+$83.279 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -639,7 +660,7 @@ _domestic_: roughly 15 per 100 fixed-line and 130 per 100 mobile-cellular; micro
 _international_: country code - 54; landing points for the UNISUR, Bicentenario,&nbsp;Atlantis-2, SAm-1, and&nbsp;SAC, Tannat, Malbec and ARBR&nbsp;submarine cable systems that provide links to Europe, Africa, South and Central America, and US; satellite earth stations - 112 (2019)<br>
 
 **Broadcast media**<br>
-government owns a TV station and radio network; more than two dozen TV stations and hundreds of privately owned radio stations; high rate of cable TV subscription usage (2022)<br>
+Argentina is one of South America's biggest media markets, there are dozens of TV networks, hundreds of radio stations and more than 150 daily newspapers (2023)<br>
 
 **Internet country code**<br>
 .ar<br>

@@ -338,9 +338,25 @@ _elections/appointments_: the monarchy is hereditary; following legislative elec
 <strong>note 1:</strong> in addition to serving as the UK head of state, the British sovereign is the constitutional monarch for 14 additional Commonwealth countries (these 15 states are each referred to as a Commonwealth realm)<br><br><strong>note 2</strong>: King CHARLES succeeded his mother, Queen ELIZABETH II, after serving as Prince of Wales (heir apparent) for over 64 years - the longest such tenure in British history<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>House of Lords (membership not fixed; as of December 2023, 784 lords were eligible to participate in the work of the House of Lords - 667 life peers, 91 hereditary peers, and 26 clergy; members are appointed by the monarch on the advice of the prime minister and non-party political members recommended by the House of Lords Appointments Commission); note - House of Lords total does not include ineligible members or members on leave of absence<br>House of Commons (650 seats; members directly elected in single-seat constituencies by simple majority popular vote to serve 5-year terms unless the House is dissolved earlier)<br>
-_elections_: House of Lords - no elections; note - in 1999, as provided by the House of Lords Act, elections were held in the House of Lords to determine the 92 hereditary peers who would remain; elections held only as vacancies in the hereditary peerage arise)<br>House of Commons - last held on 4 July 2024 (next to be held 4 July 2029)<br>
-_election results_: House of Lords - composition - men 556, women 228, percentage women 29%<br><br>House of Commons - percent of vote by party - Labor 33.7%, Conservative 23.7%, Lib Dems 12.2%, Green 6.7%, SNP 2.5%, independents 2.0%, Sinn Fein .7%, Plaid Cymru .7%, Workers Party .7%, DUP .6%, other 2.9%; seats by party -  Labor 411, Conservative 121, Lib Dems 72, SNP 9, Sinn Fein 7, independents 6, DUP 5, Reform UK 5, Green 4, Plaid Cymru 4, SDLP 2, other 4; composition - men 387, women 263, percentage women 40.3%<br>
+_legislature name_: UK Parliament<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Commons<br>
+_number of seats_: 650 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 7/4/2024<br>
+_parties elected and seats per party_: Labour Party (411); Conservative Party (121); Liberal Democrats (72); Other (46)<br>
+_percentage of women in chamber_: 40.5%<br>
+_expected date of next election_: July 2029<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: House of Lords<br>
+_number of seats_: 800 (all appointed)<br>
+_percentage of women in chamber_: 29%<br>
+<strong>note: </strong>the number of total seats in the House of Lords does not include ineligible members or members on leave of absence<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 12 justices, including the court president and deputy president); note - the Supreme Court was established by the Constitutional Reform Act 2005 and implemented in 2009, replacing the Appellate Committee of the House of Lords as the highest court in the United Kingdom<br>
@@ -391,25 +407,25 @@ _selected World Heritage Site locales_: Giant's Causeway and Causeway Coast (n);
 high-income, diversified, non-EU European economy; global financial center and dominant service sector; sluggish growth from stringent monetary policy, reduced business investment, low productivity and participation rates, and post-Brexit trade frictions; fiscal austerity in face of high public debt&nbsp;<br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.7 trillion (2023 est.)<br>
-$3.696 trillion (2022 est.)<br>
-$3.542 trillion (2021 est.)<br>
+$3.728 trillion (2023 est.)<br>
+$3.715 trillion (2022 est.)<br>
+$3.544 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.1% (2023 est.)<br>
-4.35% (2022 est.)<br>
+0.34% (2023 est.)<br>
+4.84% (2022 est.)<br>
 8.67% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$54,100 (2023 est.)<br>
-$54,500 (2022 est.)<br>
-$52,800 (2021 est.)<br>
+$54,500 (2023 est.)<br>
+$54,800 (2022 est.)<br>
+$52,900 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.34 trillion (2023 est.)<br>
+$3.381 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -425,18 +441,18 @@ _Standard & Poors rating_: AA (2016)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.7% (2023 est.)<br>
-_industry_: 16.9% (2023 est.)<br>
-_services_: 72.8% (2023 est.)<br>
+_agriculture_: 0.6% (2023 est.)<br>
+_industry_: 17.5% (2023 est.)<br>
+_services_: 72.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 61.8% (2023 est.)<br>
-_government consumption_: 20.7% (2023 est.)<br>
-_investment in fixed capital_: 18.3% (2023 est.)<br>
-_investment in inventories_: -0.5% (2023 est.)<br>
-_exports of goods and services_: 32.2% (2023 est.)<br>
-_imports of goods and services_: -33.4% (2023 est.)<br>
+_household consumption_: 61.1% (2023 est.)<br>
+_government consumption_: 20.5% (2023 est.)<br>
+_investment in fixed capital_: 17.6% (2023 est.)<br>
+_investment in inventories_: -0.4% (2023 est.)<br>
+_exports of goods and services_: 31.7% (2023 est.)<br>
+_imports of goods and services_: -32.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -447,11 +463,11 @@ milk, wheat, barley, sugar beets, potatoes, chicken, rapeseed, oats, pork, beef 
 machine tools, electric power equipment, automation equipment, railroad equipment, shipbuilding, aircraft, motor vehicles and parts, electronics and communications equipment, metals, chemicals, coal, petroleum, paper and paper products, food processing, textiles, clothing, other consumer goods<br>
 
 **Industrial production growth rate**<br>
-0.14% (2023 est.)<br>
+-0.07% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-35.275 million (2023 est.)<br>
+35.193 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -480,11 +496,11 @@ _on alcohol and tobacco_: 3.4% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3% (2021 est.)<br>
-_highest 10%_: 25% (2021 est.)<br>
+_highest 10%_: 24.6% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.12% of GDP (2023 est.)<br>
+0.13% of GDP (2023 est.)<br>
 0.13% of GDP (2022 est.)<br>
 0.11% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -495,23 +511,23 @@ _expenditures_: $1.291 trillion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-142.28% of GDP (2022 est.)<br>
+138.19% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-27.3% (of GDP) (2022 est.)<br>
+27.32% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$110.393 billion (2023 est.)<br>
--$100.436 billion (2022 est.)<br>
--$14.886 billion (2021 est.)<br>
+-$66.448 billion (2023 est.)<br>
+-$70.962 billion (2022 est.)<br>
+-$13.852 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$1.075 trillion (2023 est.)<br>
-$1.029 trillion (2022 est.)<br>
-$929.185 billion (2021 est.)<br>
+$1.071 trillion (2023 est.)<br>
+$1.041 trillion (2022 est.)<br>
+$916.573 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -523,9 +539,9 @@ gold, cars, gas turbines, crude petroleum, packaged medicine (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$1.116 trillion (2023 est.)<br>
-$1.115 trillion (2022 est.)<br>
-$933.904 billion (2021 est.)<br>
+$1.09 trillion (2023 est.)<br>
+$1.1 trillion (2022 est.)<br>
+$923.549 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

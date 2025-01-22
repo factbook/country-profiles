@@ -343,9 +343,14 @@ _election results_: <em><br>2020:</em> Roch Marc Christian KABORE reelected pres
 <strong>note </strong>- on 30 September 2022, a military junta, led by TRAORE, took power and ousted Transition President Lt. Col. Paul-Henri Sandaogo DAMIBA and took over as head of the Patriotic Movement for Safeguard and Restoration<br><br><strong>note </strong>- Transitional President TRAORE appointed KYLEM DE TAMBELA Prime Minister on 21 October 2022; the position had been vacant since 30 September 2022 when the military ousted former Prime Minister Albert OUEDRAOGO<br>
 
 **Legislative branch**<br>
-_description_: prior to the 2022 coups and ad hoc suspension of laws and constitutional provisions, unicameral National Assembly (127 seats; 111 members directly elected in 13 multi-seat constituencies by party-list proportional representation vote and 26 members elected in a nationwide constituency by proportional representation vote; members serve 5-year terms); 71-member Transitional Legislative Assembly (ALT) appointed by the military junta in 2022 indefinitely replaced the National Assembly<br>
-_elections_: last held on 22 November 2020 (an amended Transitional Charter, adopted at a national forum in May 2024, extends the transitional period by 60 months as of 2 July 2024, to July 2029)<br>
-_election results_: percent of vote by party - NA; seats by party - NA; men 58, women 13, percentage women 18.3%<br>
+_legislature name_: Parliament (Parlement)<br>
+_legislative structure_: unicameral<br>
+_chamber name_: Transitional Legislative Assembly (Assemblée législative de la transition)<br>
+_number of seats_: 71<br>
+_electoral system_: proportional representation<br>
+_most recent election date_: 11/11/2022<br>
+_percentage of women in chamber_: 18.3%<br>
+_expected date of next election_: June 2029<br>
 <strong>note:</strong> a series of coups in 2022 led to the ad hoc suspension of laws and constitutional provisions, including the unicameral National Assembly; a military junta in 2022 appointed the 71-member Transnational Legislative Assembly (ALT); a Transitional Charter, adopted in October 2022, provided for a transitional period that was extended in May 2024 until July 2029<br>
 
 **Judicial branch**<br>
@@ -398,18 +403,18 @@ highly agrarian, low-income economy; limited natural resources; widespread pover
 **Real GDP (purchasing power parity)**<br>
 $57.152 billion (2023 est.)<br>
 $55.508 billion (2022 est.)<br>
-$54.539 billion (2021 est.)<br>
+$54.69 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
 2.96% (2023 est.)<br>
-1.78% (2022 est.)<br>
+1.5% (2022 est.)<br>
 6.94% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $2,500 (2023 est.)<br>
-$2,400 (2022 est.)<br>
+$2,500 (2022 est.)<br>
 $2,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
@@ -450,11 +455,11 @@ sorghum, maize, fruits, vegetables, millet, cowpeas, cotton, groundnuts, sugarca
 cotton lint, beverages, agricultural processing, soap, cigarettes, textiles, gold<br>
 
 **Industrial production growth rate**<br>
-1.95% (2023 est.)<br>
+5.29% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.577 million (2023 est.)<br>
+8.633 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -485,7 +490,7 @@ _highest 10%_: 30.2% (2021 est.)<br>
 **Remittances**<br>
 2.85% of GDP (2023 est.)<br>
 2.78% of GDP (2022 est.)<br>
-2.91% of GDP (2021 est.)<br>
+2.9% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -540,7 +545,7 @@ $49 million (31 December 2017 est.)<br>
 $50.9 million (31 December 2016 est.)<br>
 
 **Debt - external**<br>
-$3.234 billion (2022 est.)<br>
+$3.977 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

@@ -343,14 +343,34 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Andrzej DUDA (since 6 August 2015)<br>
 _head of government_: Prime Minister Donald TUSK (since 11 December 2023)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, appointed by the president, and approved by the Sejm<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 June 2020 with a second round on 12 July 2020 (next to be held in 2025); prime minister, deputy prime ministers, and Council of Ministers appointed by the president and confirmed by the Sejm; all presidential candidates resign their party affiliation<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 June 2020 with a second round on 12 July 2020 (next to be held on 18 May 2025); prime minister, deputy prime ministers, and Council of Ministers appointed by the president and confirmed by the Sejm; all presidential candidates resign their party affiliation<br>
 _election results_: <br><em>2020:</em> Andrzej DUDA reelected president in second round; percent of vote - Andrzej DUDA (independent) 51%, Rafal TRZASKOWSKI (KO) 49%<br><em><br>2015:</em> Andrzej DUDA elected president in second round; percent of vote - Andrzej DUDA (independent) 51.5%, Bronislaw KOMOROWSKI (independent) 48.5% <p> </p><br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate or Senat (100 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>Sejm (460 seats; members elected in multi-seat constituencies by party-list proportional representation vote with 5% threshold of total votes needed for parties and 8% for coalitions to gain seats; minority parties exempt from threshold; members serve 4-year terms)<br>
-_elections_: Senate - last held on 15 October 2023 (next to be held in 2027)<br>Sejm - last held on 15 October 2023 (next to be held in 2027)<br>
-_election results_: Senate - percent of vote by coalition/party - United Right 34.8%, Civic Coalition 28.9%, Third Way 11.5%, The Left 5.3%, Senate Pact Independents 2.7%, independent 3%; seats by coalition/party - Civic Coalition 41, United Right 34, Third Way 11, The Left 9, Senate Pact Independents 4, independent 1<br><br>Sejm - percent of vote by coalition/party - PiS 35.4%, KO 30.7%, TD 14.4%, Lewica 8.6%, Konf 7.2%; seats by coalition/party - United Way 194, Civic Coalition 157, Third Way 65, The Left 26, Confederation 18<br>
+_legislative structure_: bicameral<br>
 <strong>note:</strong> the designation "National Assembly" (or Zgromadzenie Narodowe) is only used on those rare occasions when the two houses meet jointly<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: Sejm<br>
+_number of seats_: 460 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 10/15/2023<br>
+_parties elected and seats per party_: Law and Justice (PiS) (194); Civic Coalition (KO) (157); The Third Way (65); The New Left (Nowa Lewica) (26); Other (18)<br>
+_percentage of women in chamber_: 29.6%<br>
+_expected date of next election_: October 2027<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Senat)<br>
+_number of seats_: 100 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 10/15/2023<br>
+_parties elected and seats per party_: Civic Coalition (KO) (41); Law and Justice (PiS) (34); The Third Way (11); The New Left (Nowa Lewica) (9); Independents (5)<br>
+_percentage of women in chamber_: 19%<br>
+_expected date of next election_: October 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Sad Najwyzszy (consists of the first president of the Supreme Court and 120 justices organized in criminal, civil, labor and social insurance, and extraordinary appeals and public affairs and disciplinary chambers); Constitutional Tribunal (consists of 15 judges, including the court president and vice president)<br>
@@ -402,25 +422,25 @@ _selected World Heritage Site locales_: Historic Krakow (c); Historic Warsaw (c)
 high-income, diversified, EU-member economy; significant growth in GDP, trade, and investment since joining EU in 2004; rebounding from slowdown triggered by inflation and fall in consumer demand; strong foreign investment supported by EU structural funds; income tax reform and defense spending have added to public debt<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.616 trillion (2023 est.)<br>
-$1.613 trillion (2022 est.)<br>
-$1.527 trillion (2021 est.)<br>
+$1.628 trillion (2023 est.)<br>
+$1.626 trillion (2022 est.)<br>
+$1.545 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.16% (2023 est.)<br>
-5.64% (2022 est.)<br>
+0.14% (2023 est.)<br>
+5.26% (2022 est.)<br>
 6.93% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$44,100 (2023 est.)<br>
-$43,800 (2022 est.)<br>
-$40,500 (2021 est.)<br>
+$44,400 (2023 est.)<br>
+$44,200 (2022 est.)<br>
+$41,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$811.229 billion (2023 est.)<br>
+$809.201 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -436,18 +456,18 @@ _Standard & Poors rating_: A- (2018)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.9% (2023 est.)<br>
-_industry_: 28.7% (2023 est.)<br>
-_services_: 58.8% (2023 est.)<br>
+_agriculture_: 2.7% (2023 est.)<br>
+_industry_: 30.1% (2023 est.)<br>
+_services_: 57.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 57.2% (2023 est.)<br>
-_government consumption_: 18.6% (2023 est.)<br>
-_investment in fixed capital_: 17.8% (2023 est.)<br>
-_investment in inventories_: 0.3% (2023 est.)<br>
-_exports of goods and services_: 57.8% (2023 est.)<br>
-_imports of goods and services_: -51.7% (2023 est.)<br>
+_household consumption_: 57.7% (2023 est.)<br>
+_government consumption_: 19% (2023 est.)<br>
+_investment in fixed capital_: 17.7% (2023 est.)<br>
+_investment in inventories_: -0.2% (2023 est.)<br>
+_exports of goods and services_: 58.1% (2023 est.)<br>
+_imports of goods and services_: -52.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -458,11 +478,11 @@ milk, sugar beets, wheat, maize, potatoes, triticale, apples, rapeseed, barley, 
 machine building, iron and steel, coal mining, chemicals, shipbuilding, food processing, glass, beverages, textiles<br>
 
 **Industrial production growth rate**<br>
-0.55% (2023 est.)<br>
+-0.57% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-18.387 million (2023 est.)<br>
+18.355 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -495,9 +515,9 @@ _highest 10%_: 22.8% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.84% of GDP (2023 est.)<br>
-0.93% of GDP (2022 est.)<br>
-1.05% of GDP (2021 est.)<br>
+1.06% of GDP (2023 est.)<br>
+1.09% of GDP (2022 est.)<br>
+1.15% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -510,19 +530,19 @@ _expenditures_: $250.097 billion (2022 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities, the data include subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-17.27% (of GDP) (2022 est.)<br>
+17.12% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$12.689 billion (2023 est.)<br>
--$16.697 billion (2022 est.)<br>
--$8.515 billion (2021 est.)<br>
+$14.535 billion (2023 est.)<br>
+-$15.822 billion (2022 est.)<br>
+-$8.97 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$469.264 billion (2023 est.)<br>
-$434.008 billion (2022 est.)<br>
-$392.694 billion (2021 est.)<br>
+$471.571 billion (2023 est.)<br>
+$436.388 billion (2022 est.)<br>
+$392.702 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -534,9 +554,9 @@ vehicle parts/accessories, plastic products, garments, electric batteries, compu
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$419.701 billion (2023 est.)<br>
-$421.226 billion (2022 est.)<br>
-$369.82 billion (2021 est.)<br>
+$423.797 billion (2023 est.)<br>
+$421.765 billion (2022 est.)<br>
+$370.252 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

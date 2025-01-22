@@ -321,17 +321,35 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Chairperson, Presidential Leadership Council Rashad Muhammad al-ALIMI, Dr. (since 19 April 2022)<br>
+_chief of state_: Chairperson, Presidential Leadership Council Rashad Muhammad al-ALIMI (since 19 April 2022)<br>
 _head of government_: Prime Minister Ahmad Awad Bin MUBAREK (since 5 February 2024)<br>
 _cabinet_: 24 members from northern and southern Yemen, with representatives from Yemen's major political parties<br>
 _elections/appointments_: formerly, the president was directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 21 February 2012 (next election NA); note - a special election was held on 21 February 2012 to remove Ali Abdallah SALIH under the terms of a Gulf Cooperation Council-mediated deal during the political crisis of 2011; vice president appointed by the president; prime minister appointed by the president<br>
-_election results_: Abd Rabuh Mansur HADI (GPC) elected consensus president<br>
+_election results_: <em>2012:</em> Abd Rabuh Mansur HADI (GPC) elected consensus president<br>
 <strong>note:</strong> on 7 April 2022, President Abd Rabuh Mansur HADI announced his abdication, the dismissal of Vice President ALI MUHSIN al-Ahmar and the formation of a Presidential Leadership Council, an eight-member body chaired by former minister Rashad AL-ALIMI; on 19 April 2022, the Council was sworn in before Parliament and began assuming the responsibilities of the president and vice president and carrying out the political, security, and military duties of the government<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Majlis consists of:<br>Shura Council or Majlis Alshoora (111 seats; members appointed by the president; member term is continuous)<br>House of Representatives or Majlis al Nuwaab (301 seats; members directly elected in single-seat constituencies by simple majority vote to serve 6-year terms)<br>
-_elections_: Shura Council - last appointments NA (next appointments NA)<br>House of Representatives - last held in April 2019 (next to be held in NA)<br>
-_election results_: percent of vote by party - GPC 58%, Islah 22.6%, YSP 3.8%, Unionist Party 1.9%, other 13.7%; seats by party - GPC 238, Islah 46, YSP 8, Nasserist Unionist Party 3, National Arab Socialist Ba'ath Party 2, independent 4; composition - men 245, women 0, percent of women 0%<br>
+_legislature name_: Parliament (Majlis)<br>
+_legislative structure_: bicameral<br>
+note: the last legislative election occurred in 2003, and the six-year term for the House of Representatives expired in 2009. Ongoing instability, beginning in 2011, has since prevented new elections. A new Shura Council was appointed in 2021 and is currently chaired by Dr. Ahmed Obaid bin Dagher (as of Jan 2025).<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives (Majlis Annowab)<br>
+_number of seats_: 301 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 6 years<br>
+_most recent election date_: 4/27/2003<br>
+_parties elected and seats per party_: General People's Congress (GPC) (238); Yemeni Congregation for Reform (Islah) (46); Other (17)<br>
+_percentage of women in chamber_: 0%<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Shura Council (Majlis Alshoora)<br>
+_number of seats_: 111 (all appointed)<br>
+_scope of elections_: full renewal<br>
+_most recent election date_: 4/28/2001<br>
+_percentage of women in chamber_: 1.1%<br>
+<strong>note:</strong> the Shura Council serves in an advisory role to the president; it has no legislative responsibilities<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the court president, 2 deputies, and nearly 50 judges; court organized into constitutional, civil, commercial, family, administrative, criminal, military, and appeals scrutiny divisions)<br>
@@ -434,7 +452,7 @@ crude oil production and petroleum refining; small-scale production of cotton te
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-6.883 million (2023 est.)<br>
+7.592 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -463,9 +481,9 @@ _highest 10%_: 29.4% (2014 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-20.52% of GDP (2023 est.)<br>
-16.01% of GDP (2022 est.)<br>
-19.58% of GDP (2021 est.)<br>
+20.05% of GDP (2023 est.)<br>
+16.02% of GDP (2022 est.)<br>
+19.44% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -519,16 +537,16 @@ $969.613 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$5.687 billion (2022 est.)<br>
+$6.688 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Yemeni rials (YER) per US dollar -<br>
-1,114.293 (2022 est.)<br>
-1,035.467 (2021 est.)<br>
+1,355.116 (2023 est.)<br>
+1,115.002 (2022 est.)<br>
+1,028.108 (2021 est.)<br>
 743.006 (2020 est.)<br>
 486.731 (2019 est.)<br>
-214.89 (2018 est.)<br>
 
 ## Energy
 

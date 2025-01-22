@@ -328,9 +328,24 @@ _elections/appointments_: formerly, the president directly elected by plurality 
 _election results_: <em><br>2016: </em>Ali BONGO Ondimba reelected president; percent of vote - Ali BONGO Ondimba (PDG) 49.8%, Jean PING (UFC) 48.2%, other 2.0%<br><br><em>2009: </em>Ali BONGO Ondimba elected president; percent of vote - Ali BONGO Ondimba (PDG) 41.7%, Andre MBA OBAME (independent) 25.9%, Pierre MAMBOUNDOU (UPG) 25.2%, Zacharie MYBOTO (UGDD) 3.9%, other 3.3%<br>
 
 **Legislative branch**<br>
-_description_: Transitional Parliament (formerly the bicameral Parliament) consists of:<br>Senate (70 seats; members appointed by Transitional president; member term NA)<br>National Assembly (98 seats; members appointed by the Transitional president; member term NA)<br>
-_elections_: on 11 September 2023, Transitional President Gen. Brice OLIGUI Nguema appointed 168 members to the Transitional Parliament; elections for a permanent legislature reportedly to follow 2-year transition; note - the military government announced on 13 November 2023 that presidential and legislative elections will be held in August 2025<br>
-_election results_: all members of the Transitional Parliament appointed by the Transitional president<br>
+_legislature name_: Transitional Parlement (Parliament de la transition)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: Transitional National Assembly (Assemblée nationale de la transition)<br>
+_number of seats_: 98 (all appointed)<br>
+_scope of elections_: full renewal<br>
+_most recent election date_: 10/6/2023<br>
+_percentage of women in chamber_: 25.5%<br>
+_expected date of next election_: August 2025<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Transitional Senate (Sénat de la transition)<br>
+_number of seats_: 70 (all appointed)<br>
+_scope of elections_: full renewal<br>
+_most recent election date_: 10/6/2023<br>
+_percentage of women in chamber_: 24.3%<br>
+_expected date of next election_: August 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 4 permanent specialized supreme courts - Supreme Court or Cour de Cassation, Administrative Supreme Court or Conseil d'Etat, Accounting Supreme Court or Cour des Comptes, Constitutional Court or Cour Constitutionnelle, and the non-permanent Court of State Security, initiated only for cases of high treason by the president and criminal activity by executive branch officials)<br>
@@ -381,25 +396,25 @@ _selected World Heritage Site locales_: Ecosystem and Relict Cultural Landscape 
 natural-resource-rich, upper-middle-income, Central African economy; significant reliance on oil and mineral exports; highly urbanized population; high levels of poverty and unemployment; uncertainty on institutional and development reform progress following 2023 military coup<br>
 
 **Real GDP (purchasing power parity)**<br>
-$48.201 billion (2023 est.)<br>
-$47.134 billion (2022 est.)<br>
-$45.776 billion (2021 est.)<br>
+$46.472 billion (2023 est.)<br>
+$45.363 billion (2022 est.)<br>
+$44.025 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.26% (2023 est.)<br>
-2.97% (2022 est.)<br>
+2.45% (2023 est.)<br>
+3.04% (2022 est.)<br>
 1.47% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$19,800 (2023 est.)<br>
-$19,700 (2022 est.)<br>
-$19,600 (2021 est.)<br>
+$18,700 (2023 est.)<br>
+$18,700 (2022 est.)<br>
+$18,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$20.516 billion (2023 est.)<br>
+$19.388 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -415,17 +430,18 @@ _Standard & Poors rating_: N/A (2016)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 5.8% (2023 est.)<br>
-_industry_: 52.9% (2023 est.)<br>
-_services_: 36.4% (2023 est.)<br>
+_agriculture_: 6.5% (2023 est.)<br>
+_industry_: 53.5% (2023 est.)<br>
+_services_: 38.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 32.3% (2023 est.)<br>
-_government consumption_: 11.6% (2023 est.)<br>
-_investment in fixed capital_: 17.1% (2023 est.)<br>
-_exports of goods and services_: 56.7% (2023 est.)<br>
-_imports of goods and services_: -17.4% (2023 est.)<br>
+_household consumption_: 34.5% (2023 est.)<br>
+_government consumption_: 11.5% (2023 est.)<br>
+_investment in fixed capital_: 18.1% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
+_exports of goods and services_: 63.7% (2023 est.)<br>
+_imports of goods and services_: -27.8% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -436,11 +452,11 @@ plantains, cassava, sugarcane, yams, taro, vegetables, maize, groundnuts, game m
 petroleum extraction and refining; manganese, gold; chemicals, ship repair, food and beverages, textiles, lumbering and plywood, cement<br>
 
 **Industrial production growth rate**<br>
-3.5% (2023 est.)<br>
+3.94% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-763,000 (2023 est.)<br>
+771,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -469,7 +485,7 @@ _highest 10%_: 27.7% (2017 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.09% of GDP (2023 est.)<br>
+0.1% of GDP (2023 est.)<br>
 0.09% of GDP (2022 est.)<br>
 0.09% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -483,7 +499,7 @@ _expenditures_: $2.732 billion (2021 est.)<br>
 62.7% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-9.13% (of GDP) (2021 est.)<br>
+9.49% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -527,7 +543,7 @@ $965.054 million (2017 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$6.06 billion (2022 est.)<br>
+$6.672 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

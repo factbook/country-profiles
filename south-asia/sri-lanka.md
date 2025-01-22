@@ -328,15 +328,22 @@ _residency requirement for naturalization_: 7 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Anura Kumara DISSANAYAKE (since 23 September 2024)<br>
-_head of government_: Prime Minister Harini AMARASURIYA&nbsp; (since 24 September 2024)<br>
+_head of government_: Prime Minister Harini AMARASURIYA (since 24 September 2024)<br>
 _cabinet_: Cabinet appointed by the president in consultation with the prime minister<br>
 _elections/appointments_: president directly elected by preferential majority popular vote for a 5-year term (eligible for a second term); election last held on 21 September 2024 (next to be held in 2029); prime minister appointed by the president<br>
 _election results_: <em><br>2024: </em>Anura Kumara DISSANAYAKE elected president; percent of vote after reallocation - Anura Kumara DISSANAYAKE (JVP) 55.9%, Sajith PREMADASA (SJB) 44.1%<br><em><br>2022: </em>Ranil WICKREMESINGHE elected president by Parliament on 20 July 2022; Parliament vote - WICKREMESINGHE (UNP) 134, Dullas ALAHAPPERUMA (SLPP) 82<br><br><br> <h3> </h3><br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament (225 seats; 196 members directly elected in multi-seat district constituencies by proportional representation vote using a preferential method in which voters select 3 candidates in order of preference; remaining 29 seats, referred to as the "national list" are allocated by each party secretary according to the island wide proportional vote the party obtains; members serve 5-year terms)<br>
-_elections_: last held on 5 August 2020 (next to be held on 14 November 2024)<br>
-_election results_: percent of vote by party/coalition - SLFPA 59.1%, SJB 23.9%, JVP 3.8%, TNA 2.8%, UNP 2.2%, TNPF 0.6%, EPDP 0.5%, other 7.1%; seats by party/coalition - SLFPA 145, SJB 54, TNA 10, JVP 3, other 13; composition- men 213, women 12, percentage women 5.3%<br>
+_legislature name_: Parliament<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 225 (196 directly elected; 29 indirectly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 11/14/2024<br>
+_parties elected and seats per party_: National People's Power (Jathika Jana Balawegaya, NPP) (159); Samagi Jana Balawegaya (SJB) (40); Other (26)<br>
+_percentage of women in chamber_: 10%<br>
+_expected date of next election_: November 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of the Republic (consists of the chief justice and 9 justices); note - the court has exclusive jurisdiction to review legislation<br>
@@ -430,9 +437,9 @@ _services_: 59.9% (2023 est.)<br>
 _household consumption_: 69.3% (2023 est.)<br>
 _government consumption_: 6.9% (2023 est.)<br>
 _investment in fixed capital_: 17.6% (2023 est.)<br>
-_investment in inventories_: 7.7% (2023 est.)<br>
-_exports of goods and services_: 20.4% (2023 est.)<br>
-_imports of goods and services_: -21.9% (2023 est.)<br>
+_investment in inventories_: 7.9% (2023 est.)<br>
+_exports of goods and services_: 20.5% (2023 est.)<br>
+_imports of goods and services_: -22.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -447,7 +454,7 @@ processing of rubber, tea, coconuts, tobacco and other agricultural commodities;
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.707 million (2023 est.)<br>
+8.713 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -480,7 +487,7 @@ _highest 10%_: 30.8% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-6.4% of GDP (2023 est.)<br>
+7.14% of GDP (2023 est.)<br>
 5.15% of GDP (2022 est.)<br>
 6.23% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -495,7 +502,7 @@ _expenditures_: $15.477 billion (2021 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-7.28% (of GDP) (2022 est.)<br>
+9.85% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -539,16 +546,16 @@ $7.648 billion (2019 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$37.487 billion (2022 est.)<br>
+$43.52 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Sri Lankan rupees (LKR) per US dollar -<br>
+327.507 (2023 est.)<br>
+322.633 (2022 est.)<br>
 198.764 (2021 est.)<br>
 185.593 (2020 est.)<br>
 178.745 (2019 est.)<br>
-162.465 (2018 est.)<br>
-152.446 (2017 est.)<br>
 
 ## Energy
 

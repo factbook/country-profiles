@@ -356,10 +356,30 @@ _elections/appointments_: president indirectly elected by the Electoral College 
 _election results_: <em><br>2024:</em> Asif Ali ZARDARI elected president; National Assembly vote - Asif Ali ZARDARI (PPP) 411 votes, Mehmood Khan ACHAKZALI (PMAP) 181 votes; Shahbaz SHARIF elected prime minister; National Assembly vote - Shahbaz SHARIF (PML-N) 201, Omar AYUB (PTI) 92<br><br><em>2018:</em> Arif ALVI elected president; Electoral College vote - Arif ALVI (PTI) 352, Fazl-ur-REHMAN (MMA) 184, Aitzaz AHSAN (PPP) 124; Imran KHAN elected prime minister; National Assembly vote - Imran KHAN (PTI) 176, Shehbaz SHARIF (PML-N) 96<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Majlis-e-Shoora consists of:<br>Senate (96 seats current; members indirectly elected by the 4 provincial assemblies and the federal capital territory indirectly elected by the National Assembly using proportional representation vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National Assembly (336 seats; 266 members directly elected in single-seat constituencies by simple majority vote and 70 members - 60 women and 10 non-Muslims - directly elected by proportional representation vote; all members serve 5-year terms)<br>
-_elections_: Senate - last held on 2 and 9 April 2024 (next to be held in 2027)<br>National Assembly - last held on 8 February 2024 (next to be held in 2029)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 79, women 17, percent of women 17.7%<br><br>National Assembly - percent of vote by party - NA; seats by party - PML-N 75, PPP 54, MQM-P 17, JUI-F 4, Pakistan Muslim League 3, Istehkam-e-Pakistan Party 2, BNP-A 2, BAP 1, PMAP 1, PML-Z 1, NP 1, independent (PTI-backed) 101, other 8, vacant 2 (excludes 60 seats reserved for women and 10 non-Muslims); composition - men 276, women 60, percent of women 17.9%; note - total Parliament percent of women 17.8%<br><br> <p> </p> <p> </p><br>
+_legislature name_: Parliament (Majlis-E-Shoora)<br>
+_legislative structure_: bicameral<br>
 <strong>note</strong>: in May 2018, the Parliament of Pakistan and the Khyber Pakhtunkhwa Assembly passed a constitutional amendment to merge the Federally Administrated Tribal Areas and Provincially Administered Tribal Areas with the province of Khyber Pakhtunkhwa; the amendment reduces the Senate from 104 to 96 members - 4 in the 2024 election and 4 in the 2027 election<br><br><br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: National Assembly<br>
+_number of seats_: 336 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 2/8/2024<br>
+_parties elected and seats per party_: Pakistan Muslim League-Nawaz (PML-N) (75); Pakistan People's Party Parliamentarians (PPPP) (54); Muttahida Quami Movement Pakistan (MQMP) (17); Independents (101); Other (16)<br>
+_percentage of women in chamber_: 17%<br>
+_expected date of next election_: February 2029<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate<br>
+_number of seats_: 96 (all indirectly elected)<br>
+_scope of elections_: partial renewal<br>
+_term in office_: 6 years<br>
+_most recent election date_: 4/2/2024<br>
+_percentage of women in chamber_: 18.8%<br>
+_expected date of next election_: March 2027<br>
+<strong>note: </strong>in 2018, the Parliament of Pakistan and the Khyber Pakhtunkhwa Assembly passed a constitutional amendment to merge the Federally Administrated Tribal Areas and Provincially Administered Tribal Areas with the province of Khyber Pakhtunkhwa; the amendment reduces the Senate from 104 to 96 members -- by 4 in the 2024 election and another 4 in the 2027 election<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Pakistan (consists of the chief justice and 16 judges)<br>
@@ -410,25 +430,25 @@ _selected World Heritage Site locales_: Archaeological Ruins at Moenjodaro; Budd
 lower middle-income South Asian economy; extremely high debt; endemic corruption; major currency devaluation; major food insecurity and inflation; environmentally fragile agricultural sector; regional disputes with India and Afghanistan hinder investment<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.347 trillion (2023 est.)<br>
+$1.346 trillion (2023 est.)<br>
 $1.347 trillion (2022 est.)<br>
 $1.285 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0% (2023 est.)<br>
-4.77% (2022 est.)<br>
+-0.04% (2023 est.)<br>
+4.78% (2022 est.)<br>
 6.51% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$5,600 (2023 est.)<br>
-$5,700 (2022 est.)<br>
-$5,600 (2021 est.)<br>
+$5,400 (2023 est.)<br>
+$5,500 (2022 est.)<br>
+$5,400 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$338.368 billion (2023 est.)<br>
+$337.912 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -444,18 +464,18 @@ _Standard & Poors rating_: B- (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 23.4% (2023 est.)<br>
-_industry_: 20.8% (2023 est.)<br>
-_services_: 50.6% (2023 est.)<br>
+_agriculture_: 23.3% (2023 est.)<br>
+_industry_: 20.7% (2023 est.)<br>
+_services_: 50.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 83.4% (2023 est.)<br>
-_government consumption_: 10.2% (2023 est.)<br>
-_investment in fixed capital_: 12% (2023 est.)<br>
+_household consumption_: 83.2% (2023 est.)<br>
+_government consumption_: 10.3% (2023 est.)<br>
+_investment in fixed capital_: 12.4% (2023 est.)<br>
 _investment in inventories_: 1.7% (2023 est.)<br>
-_exports of goods and services_: 10.4% (2023 est.)<br>
-_imports of goods and services_: -17.7% (2023 est.)<br>
+_exports of goods and services_: 10.5% (2023 est.)<br>
+_imports of goods and services_: -18.1% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -466,11 +486,11 @@ sugarcane, bison milk, wheat, milk, rice, maize, potatoes, mangoes/guavas, cotto
 textiles and apparel, food processing, pharmaceuticals, surgical instruments, construction materials, paper products, fertilizer, shrimp<br>
 
 **Industrial production growth rate**<br>
--3.76% (2023 est.)<br>
+-3.7% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-80.99 million (2023 est.)<br>
+82.187 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -503,7 +523,7 @@ _highest 10%_: 25.5% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-7.85% of GDP (2023 est.)<br>
+7.86% of GDP (2023 est.)<br>
 8.05% of GDP (2022 est.)<br>
 8.98% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -520,13 +540,13 @@ _expenditures_: $49.558 billion (2015 est.)<br>
 15.4% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
--$350.044 million (2023 est.)<br>
+-$825.232 million (2023 est.)<br>
 -$12.216 billion (2022 est.)<br>
 -$12.283 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$36.442 billion (2023 est.)<br>
+$36.317 billion (2023 est.)<br>
 $38.967 billion (2022 est.)<br>
 $35.612 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -540,7 +560,7 @@ garments, fabric, cotton fabric, rice, refined petroleum (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$57.806 billion (2023 est.)<br>
+$57.963 billion (2023 est.)<br>
 $76.594 billion (2022 est.)<br>
 $76.514 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -560,7 +580,7 @@ $22.812 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$74.852 billion (2022 est.)<br>
+$94.271 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

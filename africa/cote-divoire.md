@@ -346,10 +346,29 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <br><em>2020: </em>Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 94.3%, Kouadio Konan BERTIN (PDCI-RDA) 2.0%, other 3.7%<br><br><em>2015: </em>Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 83.7%, Pascal Affi N'GUESSAN (FPI) 9.3%, Konan Bertin KOUADIO (independent) 3.9%, other 3.1%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate or Senat (99 seats; 66 members indirectly elected by the National Assembly and members of municipal, autonomous districts, and regional councils, and 33 members appointed by the president; members serve 5-year terms)<br>National Assembly (255 seats - 254 for 2021-2026 term; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: Senate - last held on 16 September 2023 (next to be held in September 2028)<br>National Assembly - last held on 6 March 2021 (next to be held on 31 March 2026)<br>
-_election results_: Senate - percent by party/coalition NA; seats by party/coalition - RHDP 56, PDCI-RDA 6, independent 2, vacant 2; composition - men 73, women 24, percentage women 15.6% (2 seats vacant); note - 33 members appointed - RHDP 25, independent 8 <br><br>National Assembly - percent of vote by party/coalition - RHDP 49.2%, PDCI-RRA-EDS 16.5%, DPIC 6%, TTB 2.1%, IPF 2%, other 24.2%; seats by party/coalition - RHDP, 137, PDCI-RRA-EDS 50, DPIC 23, EDS 8, TTB 8, IPF 2, independent 26, vacant 1; composition - men 220, women 34, percentage women 13.4%; note - total Parliament percentage women 16.5%<br>
+_legislature name_: Parliament (Parlement)<br>
+_legislative structure_: bicameral<br>
 <br><br><br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: National Assembly (Assemblée nationale)<br>
+_number of seats_: 255 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 3/6/2021 to 6/12/2021<br>
+_parties elected and seats per party_: Rally of Houphouetists for Democracy and Peace (RHDP) (139); Democratic Party of Côte d'Ivoire-African Democratic Rally (PDCI-RDA)-Together for Democracy and Sovereignty (EDS) (49); Democratic Party of Côte d'Ivoire-African Democratic Rally (PDCI-RDA) (23); Independents (26); Other (18)<br>
+_percentage of women in chamber_: 13.4%<br>
+_expected date of next election_: March 2026<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Sénat)<br>
+_number of seats_: 99 (66 indirectly elected; 33 appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 9/16/2023<br>
+_percentage of women in chamber_: 24.7%<br>
+_expected date of next election_: September 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (organized into Judicial, Audit, Constitutional, and Administrative Chambers; consists of the court president, 3 vice presidents for the Judicial, Audit, and Administrative chambers, and 9 associate justices or magistrates)<br>
@@ -399,25 +418,25 @@ _selected World Heritage Site locales_: Como&eacute; National Park (n); Historic
 one of West Africa&rsquo;s most influential, stable, and rapidly developing economies; poverty declines in urban but increases in rural areas; strong construction sector and increasingly diverse economic portfolio; increasing but manageable public debt; large labor force in agriculture<br>
 
 **Real GDP (purchasing power parity)**<br>
-$202.758 billion (2023 est.)<br>
+$202.119 billion (2023 est.)<br>
 $190.319 billion (2022 est.)<br>
 $179.178 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-6.54% (2023 est.)<br>
+6.2% (2023 est.)<br>
 6.22% (2022 est.)<br>
 7.06% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$7,000 (2023 est.)<br>
-$6,800 (2022 est.)<br>
-$6,500 (2021 est.)<br>
+$6,500 (2023 est.)<br>
+$6,300 (2022 est.)<br>
+$6,000 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$78.789 billion (2023 est.)<br>
+$78.875 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -433,17 +452,17 @@ _Moody's rating_: Ba3 (2015)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 14.4% (2023 est.)<br>
-_industry_: 24.5% (2023 est.)<br>
-_services_: 54.3% (2023 est.)<br>
+_industry_: 23.9% (2023 est.)<br>
+_services_: 54.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 67.7% (2023 est.)<br>
-_government consumption_: 10.3% (2023 est.)<br>
-_investment in fixed capital_: 25.5% (2023 est.)<br>
+_household consumption_: 64.9% (2023 est.)<br>
+_government consumption_: 10.5% (2023 est.)<br>
+_investment in fixed capital_: 27.8% (2023 est.)<br>
 _investment in inventories_: 0.3% (2023 est.)<br>
-_exports of goods and services_: 22.9% (2023 est.)<br>
-_imports of goods and services_: -26.6% (2023 est.)<br>
+_exports of goods and services_: 24.5% (2023 est.)<br>
+_imports of goods and services_: -28.1% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -454,11 +473,11 @@ yams, cassava, oil palm fruit, cocoa beans, sugarcane, plantains, rice, rubber, 
 foodstuffs, beverages; wood products, oil refining, gold mining, truck and bus assembly, textiles, fertilizer, building materials, electricity<br>
 
 **Industrial production growth rate**<br>
-9.06% (2023 est.)<br>
+6.1% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-10.954 million (2023 est.)<br>
+11.793 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -491,7 +510,7 @@ _highest 10%_: 27.8% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.57% of GDP (2023 est.)<br>
+1.32% of GDP (2023 est.)<br>
 1.48% of GDP (2022 est.)<br>
 0.6% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -547,7 +566,7 @@ $6.257 billion (31 December 2017 est.)<br>
 $4.935 billion (31 December 2016 est.)<br>
 
 **Debt - external**<br>
-$23.623 billion (2022 est.)<br>
+$27.931 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

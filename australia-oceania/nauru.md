@@ -289,9 +289,14 @@ _election results_: <em><br>2023:</em> David ADEAGN elected president over Delvi
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament (19 seats; members directly elected in multi-seat constituencies by majority vote using the "Dowdall" counting system by which voters rank candidates on their ballots; members serve 3-year terms)<br>
-_elections_: last held on 24 September 2022 (next to be held in September 2025)<br>
-_election results_: percent of vote - NA; seats - independent 19; composition - men 17, women 2, percentage women 10.5%<br>
+_legislature name_: Parliament<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 19 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_term in office_: 3 years<br>
+_most recent election date_: 9/24/2022<br>
+_percentage of women in chamber_: 10.5%<br>
+_expected date of next election_: September 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and several justices); note - in late 2017, the Nauruan Government revoked the 1976 High Court Appeals Act, which had allowed appeals beyond the Nauruan Supreme Court, and in early 2018, the government formed its own appeals court<br>
@@ -331,25 +336,25 @@ _lyrics/music_: Margaret HENDRIE/Laurence Henry HICKS<br>
 upper-middle-income Pacific island country; phosphate resource exhaustion made island interior uninhabitable; licenses fishing rights; houses Australia&rsquo;s Regional Processing Centre; former tax haven; largely dependent on foreign subsidies<br>
 
 **Real GDP (purchasing power parity)**<br>
-$145.958 million (2023 est.)<br>
-$144.937 million (2022 est.)<br>
-$141.875 million (2021 est.)<br>
+$147.996 million (2023 est.)<br>
+$147.127 million (2022 est.)<br>
+$142.811 million (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.7% (2023 est.)<br>
-2.16% (2022 est.)<br>
+0.59% (2023 est.)<br>
+3.02% (2022 est.)<br>
 7.75% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$11,400 (2023 est.)<br>
-$11,400 (2022 est.)<br>
-$11,300 (2021 est.)<br>
+$12,500 (2023 est.)<br>
+$12,500 (2022 est.)<br>
+$12,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$154.128 million (2023 est.)<br>
+$154.17 million (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -357,8 +362,8 @@ $154.128 million (2023 est.)<br>
 8.2% (2016 est.)<br>
 
 **GDP - composition, by end use**<br>
-_exports of goods and services_: 54.7% (2022 est.)<br>
-_imports of goods and services_: -113.2% (2022 est.)<br>
+_exports of goods and services_: 42.7% (2023 est.)<br>
+_imports of goods and services_: -98.7% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -373,9 +378,9 @@ phosphate mining, offshore banking, coconut products<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Remittances**<br>
-4.99% of GDP (2018 est.)<br>
-9.46% of GDP (2017 est.)<br>
-12.04% of GDP (2016 est.)<br>
+0.57% of GDP (2023 est.)<br>
+0.59% of GDP (2022 est.)<br>
+0.68% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -387,19 +392,19 @@ _expenditures_: $132.607 million (2020 est.)<br>
 62% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-44.35% (of GDP) (2020 est.)<br>
+44.4% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$8.406 million (2018 est.)<br>
-$14.11 million (2017 est.)<br>
-$2.079 million (2016 est.)<br>
+$1.923 million (2023 est.)<br>
+$2.966 million (2022 est.)<br>
+$6.597 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$187 million (2021 est.)<br>
-$105 million (2020 est.)<br>
-$32.7 million (2019 est.)<br>
+$64.931 million (2023 est.)<br>
+$78.383 million (2022 est.)<br>
+$54.403 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -411,9 +416,9 @@ fish, phosphates, gas turbines, power equipment, plastic products (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$94.2 million (2021 est.)<br>
-$103 million (2020 est.)<br>
-$88.2 million (2019 est.)<br>
+$150.193 million (2023 est.)<br>
+$165.371 million (2022 est.)<br>
+$141.185 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

@@ -261,9 +261,16 @@ _elections/appointments_: the monarchy is hereditary; governor appointed by the 
 <strong>note:</strong> effective with Constitution Order 2010, October 2010, the office of premier replaced the office of chief minister<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Assembly (12 seats; 9 members directly elected in a single constituency by absolute majority vote in 2 rounds to serve 5-year terms)<br>
-_elections_: last held on 18 November 2019 (next to be held in 2024)<br>
-_election results_: percent of vote by party - MCAP 42.7%, PDM 29.9%, other 17.1%; seats by party - MCAP 5, PDM 3, independent 1; composition - men 8, women 4, percentage women 33.3%<br>
+_legislature name_: Legislative Assembly<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 12 (directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 11/18/2019<br>
+_parties elected and seats per party_: MCAP (5); PDM (3); independent (1)<br>
+_percentage of women in chamber_: 33.3%<br>
+_expected date of next election_: 2024<br>
 <strong>note:</strong> the Assembly elects the speaker from the outside for a 5-year term; the Assembly includes 2 ex-officio members, the attorney general and the financial secretary<br>
 
 **Judicial branch**<br>

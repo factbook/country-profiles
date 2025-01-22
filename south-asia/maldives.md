@@ -327,9 +327,16 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2023:</em> Mohamed MUIZZU elected president in the second round; percent of vote in first round - Mohamed MUIZZU (PNC) 46.1%, Ibrahim Mohamed SOLIH (MDP) 39.1%, Ilyas LABEEB (DEMS) 7.1%, other 7.7%; percent of vote in the second round - Mohamed MUIZZU 54%, Ibrahim Mohamed SOLIH 46%<br><br><em>2018</em>: Ibrahim Mohamed SOLIH elected president in first round; Ibrahim Mohamed SOLIH (MDP) 58.3%, Abdulla YAMEEN Abdul Gayoom (PPM) 41.7%<br>
 
 **Legislative branch**<br>
-_description_: unicameral People's Majlis (93 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: last held on 21 April 2024 (next to be held in 2029)<br>
-_election results_: percent of vote by party - NA; seats by party - PNC 66, MDP 12, MDA 2, JP 1, MNP 1, independent 11; composition - men 90, women 3, percentage women 3.3%<br>
+_legislature name_: People's Majlis (Majlis)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 93 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 4/21/2024<br>
+_parties elected and seats per party_: People's National Congress (PNC) (66); Maldivian Democratic Party (MDP) (12); Independents (11); Other (4)<br>
+_percentage of women in chamber_: 3.2%<br>
+_expected date of next election_: April 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 6 justices<br>
@@ -371,31 +378,31 @@ _lyrics/music_: Mohamed Jameel DIDI/Wannakuwattawaduge DON AMARADEVA<br>
 upper middle-income Indian Ocean island economy; major tourism, fishing, and shipping industries; high public debt; systemic corruption; crippled by COVID-19; ongoing deflation; poverty has tripled since pandemic began<br>
 
 **Real GDP (purchasing power parity)**<br>
-$11.651 billion (2023 est.)<br>
-$11.206 billion (2022 est.)<br>
-$9.838 billion (2021 est.)<br>
+$11.723 billion (2023 est.)<br>
+$11.194 billion (2022 est.)<br>
+$9.834 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.97% (2023 est.)<br>
-13.91% (2022 est.)<br>
+4.73% (2023 est.)<br>
+13.83% (2022 est.)<br>
 37.69% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$22,400 (2023 est.)<br>
+$22,300 (2023 est.)<br>
 $21,400 (2022 est.)<br>
-$18,900 (2021 est.)<br>
+$19,100 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$6.6 billion (2023 est.)<br>
+$6.591 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.93% (2023 est.)<br>
 2.33% (2022 est.)<br>
 0.54% (2021 est.)<br>
--1.37% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -404,14 +411,18 @@ _Moody's rating_: B3 (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 4.9% (2022 est.)<br>
-_industry_: 10.3% (2022 est.)<br>
-_services_: 73.3% (2022 est.)<br>
+_agriculture_: 5.1% (2023 est.)<br>
+_industry_: 9.7% (2023 est.)<br>
+_services_: 70.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_exports of goods and services_: 93.6% (2016 est.)<br>
-_imports of goods and services_: 89% (2016 est.)<br>
+_household consumption_: 51.3% (2023 est.)<br>
+_government consumption_: 17.1% (2023 est.)<br>
+_investment in fixed capital_: 35% (2023 est.)<br>
+_investment in inventories_: -2.1% (2023 est.)<br>
+_exports of goods and services_: 74.4% (2023 est.)<br>
+_imports of goods and services_: -75.7% (2023 est.)<br>
 
 **Agricultural products**<br>
 fruits, vegetables, nuts, other meats, tomatoes, bananas, maize, pulses, coconuts, papayas (2022)<br>
@@ -421,11 +432,11 @@ fruits, vegetables, nuts, other meats, tomatoes, bananas, maize, pulses, coconut
 tourism, fish processing, shipping, boat building, coconut processing, woven mats, rope, handicrafts, coral and sand mining<br>
 
 **Industrial production growth rate**<br>
-7.26% (2023 est.)<br>
+3.25% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-260,000 (2023 est.)<br>
+268,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -454,7 +465,7 @@ _highest 10%_: 23.3% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.07% of GDP (2023 est.)<br>
+0.08% of GDP (2023 est.)<br>
 0.08% of GDP (2022 est.)<br>
 0.09% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -471,15 +482,15 @@ _expenditures_: $1.548 billion (2021 est.)<br>
 19.45% (of GDP) (2021 est.)<br>
 
 **Current account balance**<br>
--$1.033 billion (2022 est.)<br>
--$455.003 million (2021 est.)<br>
--$1.327 billion (2020 est.)<br>
+-$1.401 billion (2023 est.)<br>
+-$1.004 billion (2022 est.)<br>
+-$453.449 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$4.892 billion (2023 est.)<br>
 $5.096 billion (2022 est.)<br>
 $3.985 billion (2021 est.)<br>
-$1.787 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -491,9 +502,9 @@ aircraft, fish, natural gas, scrap iron, refined petroleum (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$4.904 billion (2022 est.)<br>
-$3.484 billion (2021 est.)<br>
-$2.449 billion (2020 est.)<br>
+$4.975 billion (2023 est.)<br>
+$4.899 billion (2022 est.)<br>
+$3.482 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -509,6 +520,9 @@ $590.523 million (2023 est.)<br>
 $832.094 million (2022 est.)<br>
 $805.808 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+
+**Debt - external**<br>
+$3.233 billion (2023 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: rufiyaa (MVR) per US dollar -<br>

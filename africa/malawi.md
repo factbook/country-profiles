@@ -354,9 +354,16 @@ _elections/appointments_: president directly elected by simple majority popular 
 _election results_: <br><em>2020: </em>Lazarus CHAKWERA elected president; Lazarus CHAKWERA (MCP) 59.3%, Peter Mutharika (DPP) 39.9%, other 0.8% <p><em>2014:</em> Peter MUTHARIKA elected president; percent of vote - Peter MUTHARIKA (DPP) 36.4%, Lazarus CHAKWERA (MCP) 27.8%, Joyce BANDA (PP) 20.2%, Atupele MULUZI (UDF) 13.7%, other 1.9% </p><br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly (193 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: last held on 21 May 2019 (next to be held in May 2025)<br>
-_election results_: percent of vote by party - DPP 26%, MCP 22.3%, UTM 9.9%, UDF 4.6%, PP 2.4%, ADF 0.5%, independent 33.4%; seats by party - DPP 62, MCP 56, UDF 10, UTM 4, PP 5, ADF 1, independent 55; composition - men 153, women 40, percentage women 20.7%<br>
+_legislature name_: National Assembly<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 193 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 5/21/2019<br>
+_parties elected and seats per party_: Democratic Progressive Party (DPP) (62); Malawi Congress Party (MCP) (55); United Democratic Front (UDF) (10); Independents (55); Other (10)<br>
+_percentage of women in chamber_: 20.7%<br>
+_expected date of next election_: September 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Appeal (consists of the chief justice and at least 3 judges)<br>
@@ -376,7 +383,7 @@ _telephone_: [1] (202) 451- 0409<br>
 _email address and website_: <br>malawidc@aol.com<br><br>Home | Malawi Embassy USA<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador David YOUNG (since 5 May 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Amy W. DIAZ (since February 2024)<br>
 _embassy_: 16 Jomo Kenyatta Road, Lilongwe 3<br>
 _mailing address_: 2280 Lilongwe Place, Washington DC&nbsp; 20521-2280<br>
 _telephone_: [265] (0) 177-3166<br>
@@ -404,25 +411,25 @@ _selected World Heritage Site locales_: Lake Malawi National Park (n); Chongoni 
 low-income East African economy; primarily agrarian; investing in human capital; urban poverty increasing due to COVID-19; high public debt; endemic corruption and poor property rights; poor hydroelectric grid; localized pharmaceutical industry<br>
 
 **Real GDP (purchasing power parity)**<br>
-$35.238 billion (2023 est.)<br>
-$34.703 billion (2022 est.)<br>
-$34.386 billion (2021 est.)<br>
+$34.789 billion (2023 est.)<br>
+$34.143 billion (2022 est.)<br>
+$33.832 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.54% (2023 est.)<br>
+1.89% (2023 est.)<br>
 0.92% (2022 est.)<br>
 2.75% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$1,700 (2023 est.)<br>
+$1,600 (2023 est.)<br>
 $1,700 (2022 est.)<br>
 $1,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$14.084 billion (2023 est.)<br>
+$12.712 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -432,9 +439,9 @@ $14.084 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 22.1% (2023 est.)<br>
-_industry_: 18.3% (2023 est.)<br>
-_services_: 52.2% (2023 est.)<br>
+_agriculture_: 30.4% (2023 est.)<br>
+_industry_: 15.3% (2023 est.)<br>
+_services_: 47.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -452,11 +459,11 @@ sweet potatoes, cassava, maize, sugarcane, mangoes/guavas, potatoes, tomatoes, p
 tobacco, tea, sugar, sawmill products, cement, consumer goods<br>
 
 **Industrial production growth rate**<br>
-1.58% (2023 est.)<br>
+2.52% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.366 million (2023 est.)<br>
+8.541 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -485,9 +492,9 @@ _highest 10%_: 31% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.85% of GDP (2023 est.)<br>
-2.01% of GDP (2022 est.)<br>
-2.53% of GDP (2021 est.)<br>
+1.41% of GDP (2023 est.)<br>
+2.13% of GDP (2022 est.)<br>
+2.57% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -496,23 +503,23 @@ _expenditures_: $1.941 billion (2020 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-52.63% of GDP (2022 est.)<br>
+55.6% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-12.78% (of GDP) (2022 est.)<br>
+13.5% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$2.276 billion (2022 est.)<br>
+-$2.276 billion (2023 est.)<br>
+-$2.218 billion (2022 est.)<br>
 -$1.918 billion (2021 est.)<br>
--$1.639 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$1.526 billion (2023 est.)<br>
 $1.487 billion (2022 est.)<br>
 $1.587 billion (2021 est.)<br>
-$1.308 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -524,9 +531,9 @@ tobacco, gold, tea, ground nuts, dried legumes (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$3.706 billion (2022 est.)<br>
+$3.995 billion (2023 est.)<br>
+$3.834 billion (2022 est.)<br>
 $3.768 billion (2021 est.)<br>
-$3.373 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -544,16 +551,16 @@ $766.155 million (2018 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$1.971 billion (2022 est.)<br>
+$2.551 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Malawian kwachas (MWK) per US dollar -<br>
+1,161.094 (2023 est.)<br>
+949.039 (2022 est.)<br>
+805.9 (2021 est.)<br>
 749.527 (2020 est.)<br>
 745.541 (2019 est.)<br>
-732.333 (2018 est.)<br>
-730.273 (2017 est.)<br>
-718.005 (2016 est.)<br>
 
 ## Energy
 

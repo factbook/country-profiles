@@ -360,9 +360,15 @@ _election results_: <em><br>2018</em>: Ibrahim Boubacar KEITA reelected presiden
 <strong>note:</strong> an August 2020 coup d'état deposed President Ibrahim Boubacar KEITA; on 21 September 2020, a group of 17 electors chosen by the Malian military junta, known as the National Committee for the Salvation of the People (CNSP) and led by Colonel Assimi GOITA, selected Bah NDAW as transition president; GOITA served as vice president of the transition government which was inaugurated on 25 September 2020; Vice President GOITA seized power on 25 May 2021; NDAW resigned on 26 May 2021; on 6 June 2022, GOITA's government announced a transition period of 24 months with a planned return to civilian rule by March 2024<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Assemblee Nationale (147 seats; members directly elected in single and multi-seat constituencies by absolute majority vote in 2 rounds if needed; 13 seats reserved for citizens living abroad; members serve 5-year terms)<br>
-_elections_: last held on 30 March and 19 April 2020<br>
-_election results_: percent of vote by party - NA; seats by party - NA; composition - NA<br>
+_legislature name_: Transitional National Council (Conseil national de transition)<br>
+_legislative structure_: unicameral<br>
+_chamber name_: Transitional National Council (Conseil national de transition )<br>
+_number of seats_: 147 (all appointed)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_most recent election date_: 12/5/2020<br>
+_percentage of women in chamber_: 30.7%<br>
+_expected date of next election_: December 2025<br>
 <strong>note 1:</strong> the National Assembly was dissolved on 18 August 2020 after a military coup; the transitional government created a Transitional National Council (CNT) that acts as the transitional government's legislative body; a new constitution was ratified in July 2023 that expanded the military junta's powers, and no plans for legislative elections have been announced<br><strong>note 2:</strong> coup leaders appointed a president and vice president; the president then apportioned CNT seats to various groups and political parties<br>
 
 **Judicial branch**<br>
@@ -414,25 +420,25 @@ _selected World Heritage Site locales_: Old Towns of Djenn&eacute; (c); Timbuktu
 low-income Saharan economy; recession due to COVID-19 and political instability; extreme poverty; environmentally fragile; high public debt; agricultural and gold exporter; terrorism and warfare are common<br>
 
 **Real GDP (purchasing power parity)**<br>
-$57.235 billion (2023 est.)<br>
+$56.919 billion (2023 est.)<br>
 $54.387 billion (2022 est.)<br>
 $52.56 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.24% (2023 est.)<br>
+4.66% (2023 est.)<br>
 3.47% (2022 est.)<br>
 3.05% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$2,500 (2023 est.)<br>
+$2,400 (2023 est.)<br>
 $2,400 (2022 est.)<br>
-$2,400 (2021 est.)<br>
+$2,300 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$20.905 billion (2023 est.)<br>
+$20.662 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -446,18 +452,18 @@ _Moody's rating_: Caa1 (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 36.8% (2023 est.)<br>
-_industry_: 19.4% (2023 est.)<br>
-_services_: 36.1% (2023 est.)<br>
+_agriculture_: 35.1% (2023 est.)<br>
+_industry_: 19.9% (2023 est.)<br>
+_services_: 36.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 74.3% (2023 est.)<br>
-_government consumption_: 17.1% (2023 est.)<br>
-_investment in fixed capital_: 20.1% (2023 est.)<br>
-_investment in inventories_: -1.9% (2023 est.)<br>
-_exports of goods and services_: 28.2% (2023 est.)<br>
-_imports of goods and services_: -37.8% (2023 est.)<br>
+_household consumption_: 74.2% (2023 est.)<br>
+_government consumption_: 17.5% (2023 est.)<br>
+_investment in fixed capital_: 19.2% (2023 est.)<br>
+_investment in inventories_: -0.3% (2023 est.)<br>
+_exports of goods and services_: 29.4% (2023 est.)<br>
+_imports of goods and services_: -40% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -468,11 +474,11 @@ maize, rice, millet, sorghum, okra, sugarcane, mangoes/guavas, onions, cotton, b
 food processing; construction; phosphate and gold mining<br>
 
 **Industrial production growth rate**<br>
--0.82% (2023 est.)<br>
+-1.19% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.277 million (2023 est.)<br>
+8.527 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -501,7 +507,7 @@ _highest 10%_: 28.3% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-5.52% of GDP (2023 est.)<br>
+5.58% of GDP (2023 est.)<br>
 5.89% of GDP (2022 est.)<br>
 5.86% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -557,7 +563,7 @@ $647.8 million (31 December 2017 est.)<br>
 $395.7 million (31 December 2016 est.)<br>
 
 **Debt - external**<br>
-$3.923 billion (2022 est.)<br>
+$4.535 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

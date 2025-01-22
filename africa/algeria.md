@@ -336,9 +336,29 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2024: </em>Abdelmadjid TEBBOUNE (NLF) 94.7%, Abdelaali Hassani CHERIF (MSP) 3.2%, Youcef AOUCHICHE (FFS) 2.2%<em><br><br>2019:</em> (FLN) 58.1%, Abdelkader BENGRINA (El-Bina) 17.4%, Ali BENFLIS (Talaie El Hurriyet) 10.6%, Azzedine MIHOUBI (RND) 7.3%, Abdelaziz BELAID (Future Front) 6.7%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Council of the Nation or Majlis al-Umma (174 seats, statutory; 170 currently; two-thirds of members indirectly elected by simple majority vote by an electoral college composed of local assemblies within each wilaya, and one-third of members appointed by the president; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National People's Assembly or al-Majlis al-Sha'abi al-Watani (407 seats, including 8 seats for Algerian diaspora; members directly elected in multi-seat constituencies by open-list proportional representation vote using the Hare Quota method; members serve 5-year terms)<br>
-_elections_: Council of the Nation - last held on 5 February 2022 (next expected in 2025)<br>National People's Assembly - snap election held on 12 June 2021 (next to be held on 12 June 2026)<br>
-_election results_: Council of the Nation - percent of vote by party - NA; seats by party - FLN 54, RND 22, Future Front 7, National Construction Movement 5, FFS 4, other 6, independent 18, appointed 58; composition - men 163, women 7, percentage women 4.1%<br><br>National People's Assembly - percent of vote by party - NA; seats by party - FLN 98, MSP 65, RND 58, (Future Front) 48, Movement of National Construction 39, other 15, independent 84; composition - men 375, women 32, percentage women 7.9%; note - total Parliament percentage women 6.8%<br>
+_legislature name_: Parliament (Barlaman)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: National People's Assembly (Al-Majlis Al-Chaabi Al-Watani)<br>
+_number of seats_: 407 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 6/12/2021<br>
+_parties elected and seats per party_: National Liberation Front (FLN) (98); Movement of Society for Peace (MSP) (65); National Democratic Rally (RND) (58); El-Moustakbel Front (Future", FM) (48); El Binaa Movement (39); Independents (84); Other (15)<br>
+_percentage of women in chamber_: 7.9%<br>
+_expected date of next election_: June 2026<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Council of the Nation (Majlis al-Oumma)<br>
+_number of seats_: 174 (116 indirectly elected; 58 appointed)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: partial renewal<br>
+_term in office_: 6 years<br>
+_most recent election date_: 2/5/2022<br>
+_percentage of women in chamber_: 4.1%<br>
+_expected date of next election_: January 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Le Cour Supr&ecirc;me, (consists of 150 judges organized into 8 chambers: Civil, Commercial and Maritime, Criminal, House of Offenses and Contraventions, House of Petitions, Land, Personal Status, and Social; Constitutional Council (consists of 12 members including the court chairman and deputy chairman); note - Algeria's judicial system does not include sharia courts<br>
@@ -389,9 +409,9 @@ _selected World Heritage Site locales_: Beni Hammad Fort (c); Djémila (c); Casb
 suffering oil and gas economy; lack of sector and market diversification; political instability chilling domestic consumption; poor credit access and declines in business confidence; COVID-19 austerity policies; delayed promised socio-economic reforms<br>
 
 **Real GDP (purchasing power parity)**<br>
-$699.947 billion (2023 est.)<br>
-$672.379 billion (2022 est.)<br>
-$649.015 billion (2021 est.)<br>
+$699.818 billion (2023 est.)<br>
+$672.256 billion (2022 est.)<br>
+$648.896 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -401,13 +421,13 @@ $649.015 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$15,300 (2023 est.)<br>
-$15,000 (2022 est.)<br>
-$14,700 (2021 est.)<br>
+$15,200 (2023 est.)<br>
+$14,800 (2022 est.)<br>
+$14,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$239.899 billion (2023 est.)<br>
+$247.626 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -420,18 +440,18 @@ $239.899 billion (2023 est.)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 13.2% (2023 est.)<br>
-_industry_: 38% (2023 est.)<br>
-_services_: 45.1% (2023 est.)<br>
+_agriculture_: 13.1% (2023 est.)<br>
+_industry_: 37.8% (2023 est.)<br>
+_services_: 45.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 41.2% (2023 est.)<br>
-_government consumption_: 16.9% (2023 est.)<br>
-_investment in fixed capital_: 33.2% (2023 est.)<br>
-_investment in inventories_: 4.6% (2023 est.)<br>
-_exports of goods and services_: 25.2% (2023 est.)<br>
-_imports of goods and services_: -21% (2023 est.)<br>
+_household consumption_: 40.8% (2023 est.)<br>
+_government consumption_: 17.9% (2023 est.)<br>
+_investment in fixed capital_: 32.8% (2023 est.)<br>
+_investment in inventories_: 4.9% (2023 est.)<br>
+_exports of goods and services_: 23.6% (2023 est.)<br>
+_imports of goods and services_: -20.1% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -442,11 +462,11 @@ potatoes, wheat, milk, watermelons, onions, tomatoes, barley, vegetables, dates,
 petroleum, natural gas, light industries, mining, electrical, petrochemical, food processing<br>
 
 **Industrial production growth rate**<br>
-3.74% (2023 est.)<br>
+3.88% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-13.425 million (2023 est.)<br>
+13.552 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -466,8 +486,8 @@ _on food_: 37.1% of household expenditures (2022 est.)<br>
 _on alcohol and tobacco_: 1% of household expenditures (2022 est.)<br>
 
 **Remittances**<br>
-0.74% of GDP (2023 est.)<br>
-0.74% of GDP (2022 est.)<br>
+0.75% of GDP (2023 est.)<br>
+0.76% of GDP (2022 est.)<br>
 0.96% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -523,7 +543,7 @@ $56.211 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$671.248 million (2022 est.)<br>
+$4.839 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -593,7 +613,7 @@ _domestic_: a limited network of fixed-lines with a teledensity of slightly less
 _international_: country code - 213;&nbsp;ALPAL-2 is a submarine telecommunications cable system in the Mediterranean Sea linking Algeria and the Spanish Balearic island of Majorca;&nbsp;ORVAL is a submarine cable to Spain; landing points for the TE North/TGN-Eurasia/SEACOM/SeaMeWe-4 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; MED cable connecting Algeria with France;&nbsp;microwave radio relay to Italy, France, Spain, Morocco, and Tunisia;&nbsp;Algeria part of the 4,500 Km terrestrial Trans Sahara Backbone network which connects to other fiber networks in the region; Alcomstat-1 satellite offering&nbsp; telemedicine network (2020)<br>
 
 **Broadcast media**<br>
-state-run Radio-Television Algerienne operates the broadcast media and carries programming in Arabic, Berber dialects, and French; use of satellite dishes is widespread, providing easy access to European and Arab satellite stations; state-run radio operates several national networks and roughly 40 regional radio stations<br>
+Radio Algerienne is the state-run radio broadcast, whereas the National Company of Television (Entreprise Nationale de T&eacute;l&eacute;vision (ENTV)) is the primary state-run public broadcasting TV station (2024)<br>
 
 **Internet country code**<br>
 .dz<br>

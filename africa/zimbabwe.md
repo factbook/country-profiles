@@ -349,12 +349,35 @@ _chief of state_: President Emmerson Dambudzo MNANGAGWA (since 4 September 2023)
 _head of government_: Vice President Constantino CHIWENGA (since 11 September 2023)<br>
 _cabinet_: Cabinet appointed by president, responsible to National Assembly<br>
 _elections/appointments_: each presidential candidate nominated with a nomination paper signed by at least 10 registered voters (at least 1 candidate from each province) and directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 23 August 2023 (next to be held in 2028); co-vice presidents drawn from party leadership<br>
-_election results_: <em><br>2023: </em>Emmerson MNANGAGWA reelected president in first round; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 52.6%, Nelson CHAMISA (MDC-T) 44%, Wilbert MUBAIWA (NPC) 1.2%, other 2.2%<br><em><br>2018:</em> Emmerson MNANGAGWA elected president in first round; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 50.7%, Nelson CHAMISA (MDC-T) 44.4%, Thokozani KHUPE (MDC-N) 0.9%, other 4%<br>
+_election results_: <em>2023: </em>Emmerson MNANGAGWA reelected president in first round; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 52.6%, Nelson CHAMISA (MDC-T) 44%, Wilbert MUBAIWA (NPC) 1.2%, other 2.2%<br><em><br>2018:</em> Emmerson MNANGAGWA elected president in first round; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 50.7%, Nelson CHAMISA (MDC-T) 44.4%, Thokozani KHUPE (MDC-N) 0.9%, other 4%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (80 seats; 60 members directly elected in multi-seat constituencies - 6 seats in each of the 10 provinces - by proportional representation vote, 16 indirectly elected by the regional governing councils, 18 reserved for the National Council Chiefs, and 2 reserved for members with disabilities; members serve 5-year terms)<br><br>National Assembly (280 seats; 210 members directly elected in single-seat constituencies by simple majority vote and 60 seats reserved for women directly elected by proportional representation vote and 10 additional seats reserved for candidates aged between 21 and 35 directly elected by proportional representation, members serve 5-year terms)<br>
-_elections_: <p>Senate - last held for elected member on 23 August 2023 (next to be held in 2028)<br><br>National Assembly - last held on 23 August 2023 (next to be held in 2028); note - a byelection was held on 11 November 2023 due to the death of a candidate during the August general election; a special byelection was held on 9 December 2023 after nine opposition lawmakers were removed from their seats and disqualified from running again; another byelection was held on 3 February 2024 for six open seats</p><br>
-_election results_: <p>Senate - percent of vote by party - NA; seats by party - ZANU-PF 33, CCC- 27, Chiefs 18, people with disabilities 2; composition - men 36, women 35, percentage of women 49.3%<br><br>National Assembly - percent of vote by party - NA; seats by party - ZANU-PF 190, CCC-93; composition - men 192, women 75, percentage women 28.1%; total Parliament percentage women 32.5%</p><br>
+_legislature name_: Parliament<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: National Assembly<br>
+_number of seats_: 280 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 8/23/2023<br>
+_parties elected and seats per party_: ZANU-PF (175); Citizens Coalition for Change (CCC) (104)<br>
+_percentage of women in chamber_: 28.1%<br>
+_expected date of next election_: August 2028<br>
+<strong>note:</strong> 60 seats are reserved for women and 10 additional seats are reserved for candidates aged 21 - 35<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate<br>
+_number of seats_: 80 (60 directly elected; 20 indirectly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 8/23/2023<br>
+_parties elected and seats per party_: ZANU-PF (33); Citizens Coalition for Change (CCC) (27)<br>
+_percentage of women in chamber_: 49.3%<br>
+_expected date of next election_: August 2028<br>
+<strong>note:</strong> 18 seats are reserved for the National Council Chiefs, and 2 reserved for members with disabilities<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 4 judges); Constitutional Court (consists of the chief and deputy chief justices and 9 judges)<br>
@@ -375,7 +398,7 @@ _FAX_: [1] (202) 483-9326<br>
 _email address and website_: <br>general@zimembassydc.org<br><br>https://zimembassydc.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Elaine M. FRENCH (since August 2022)<br>
+_chief of mission_: Ambassador Pamela M. TREMONT (since August 2024)<br>
 _embassy_: 2 Lorraine Drive, Bluffhill, Harare<br>
 _mailing address_: 2180 Harare Place, Washington DC&nbsp; 20521-2180<br>
 _telephone_: [263] 867-701-1000<br>
@@ -403,25 +426,25 @@ _selected World Heritage Site locales_: Mana Pools National Park, Sapi, and Chew
 low income Sub-Saharan economy; political instability and endemic corruption have prevented reforms and stalled debt restructuring; new Zimbabwe Gold (ZiG) currency latest effort to combat ongoing hyperinflation; reliant on natural resource extraction, agriculture and remittances<br>
 
 **Real GDP (purchasing power parity)**<br>
-$58.583 billion (2023 est.)<br>
-$55.817 billion (2022 est.)<br>
-$52.399 billion (2021 est.)<br>
+$56.249 billion (2023 est.)<br>
+$53.399 billion (2022 est.)<br>
+$50.311 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.96% (2023 est.)<br>
+5.34% (2023 est.)<br>
 6.52% (2022 est.)<br>
 8.47% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$3,500 (2023 est.)<br>
-$3,400 (2022 est.)<br>
-$3,300 (2021 est.)<br>
+$3,400 (2023 est.)<br>
+$3,300 (2022 est.)<br>
+$3,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$26.538 billion (2023 est.)<br>
+$35.231 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -431,18 +454,18 @@ $26.538 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 27% (2023 est.)<br>
-_industry_: 46.9% (2023 est.)<br>
-_services_: 18.5% (2023 est.)<br>
+_agriculture_: 4.1% (2023 est.)<br>
+_industry_: 26.3% (2023 est.)<br>
+_services_: 62.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 77.7% (2022 est.)<br>
-_government consumption_: 16.7% (2022 est.)<br>
-_investment in fixed capital_: 11.3% (2022 est.)<br>
-_investment in inventories_: 3.3% (2022 est.)<br>
-_exports of goods and services_: 28% (2022 est.)<br>
-_imports of goods and services_: -37% (2022 est.)<br>
+_household consumption_: 76.3% (2023 est.)<br>
+_government consumption_: 15.1% (2023 est.)<br>
+_investment in fixed capital_: 12.2% (2023 est.)<br>
+_investment in inventories_: 4.1% (2023 est.)<br>
+_exports of goods and services_: 21.6% (2023 est.)<br>
+_imports of goods and services_: -29.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -453,11 +476,11 @@ sugarcane, maize, beef, milk, cassava, wheat, bananas, vegetables, tobacco, cott
 mining (coal, gold, platinum, copper, nickel, tin, diamonds, clay, numerous metallic and nonmetallic ores), steel, wood products, cement, chemicals, fertilizer, clothing and footwear, foodstuffs, beverages<br>
 
 **Industrial production growth rate**<br>
-5.5% (2022 est.)<br>
+3.18% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-6.561 million (2023 est.)<br>
+6.32 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -486,9 +509,9 @@ _highest 10%_: 34.8% (2017 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-11.74% of GDP (2023 est.)<br>
-11.27% of GDP (2022 est.)<br>
-9.07% of GDP (2021 est.)<br>
+9.37% of GDP (2023 est.)<br>
+9.41% of GDP (2022 est.)<br>
+9.45% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -503,15 +526,15 @@ _expenditures_: $23 million (2018 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$1.096 billion (2020 est.)<br>
-$920.472 million (2019 est.)<br>
--$1.38 billion (2018 est.)<br>
+$133.877 million (2023 est.)<br>
+$304.966 million (2022 est.)<br>
+$348.215 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$7.65 billion (2022 est.)<br>
-$6.462 billion (2021 est.)<br>
-$5.263 billion (2020 est.)<br>
+$7.603 billion (2023 est.)<br>
+$7.453 billion (2022 est.)<br>
+$6.575 billion (2021 est.)<br>
 <strong>note:</strong> GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -523,9 +546,9 @@ gold, nickel, tobacco, iron alloys, diamonds (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$10.126 billion (2022 est.)<br>
-$7.964 billion (2021 est.)<br>
-$5.489 billion (2020 est.)<br>
+$10.293 billion (2023 est.)<br>
+$9.569 billion (2022 est.)<br>
+$8.104 billion (2021 est.)<br>
 <strong>note:</strong> GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -541,6 +564,9 @@ $115.53 million (2023 est.)<br>
 $598.622 million (2022 est.)<br>
 $838.78 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+
+**Debt - external**<br>
+$6.814 billion (2023 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Zimbabwean dollars (ZWD) per US dollar -<br>

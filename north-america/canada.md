@@ -349,16 +349,31 @@ _residency requirement for naturalization_: minimum of 3 of last 5 years residen
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Mary SIMON (since 6 July 2021)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Mary SIMON (since 26 July 2021)<br>
 _head of government_: Prime Minister Justin Pierre James TRUDEAU (since 4 November 2015)<br>
 _cabinet_: Federal Ministry chosen by the prime minister usually from among members of his/her own party sitting in Parliament<br>
-_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister for a 5-year term; following legislative elections, the leader of the majority party or majority coalition in the House of Commons generally designated prime minister by the governor general<br>
+_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister for a 5-year term; following legislative elections, the leader of the majority party or majority coalition in the House of Commons generally designated prime minister by the governor general; on 6 January 2025 Canadian Prime Minister Justin Trudeau has announced he will step down after a new leader is chosen and approved by 24 March 2025<br>
 <strong>note:</strong> the governor general position is largely ceremonial<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (105 seats; members appointed by the governor general on the advice of the prime minister and can serve until age 75)<br>House of Commons or Chambre des Communes (338 seats; members directly elected in single-seat constituencies by simple majority vote with terms up to 4 years)<br>
-_elections_: Senate - last appointed in July 2021<br>House of Commons - last held on 20 September 2021 (next to be held on or before 20 October 2025)<br>
-_election results_: Senate - composition - men 43, women 54, percentage women 55.7% (8 seats are vacant)<br><br>House of Commons - percent of vote by party - CPC 33.7%, Liberal Party 32.6%, NDP 17.8%, Bloc Quebecois 7.7%, Greens 2.3%, other 5.9%; seats by party - Liberal Party 159, CPC 119, NDP 25, Bloc Quebecois 32, Greens 2, independent 1; composition - men 234, women 102; percentage women 30.4%; total Parliament percentage women 35.2%<br>
+_legislature name_: Parliament of Canada - Parlement du Canada<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Commons<br>
+_number of seats_: 338 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 9/20/2021<br>
+_parties elected and seats per party_: Liberal Party (160); Conservative Party (119); Bloc Québécois (BQ) (32); NDP-New Democratic Party (NDP) (25); Other (2)<br>
+_percentage of women in chamber_: 30.7%<br>
+_expected date of next election_: October 2025<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate<br>
+_number of seats_: 105 (all appointed)<br>
+_percentage of women in chamber_: 52.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Canada (consists of the chief justice and 8 judges); note - in 1949, Canada abolished all appeals beyond its Supreme Court, which prior to that time, were heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -411,25 +426,25 @@ _selected World Heritage Site locales_: L'Anse aux Meadows (c); Canadian Rocky M
 one of the world&rsquo;s leading developed economies; globally integrated commercial and financial markets; largest US trading partner; key energy, forestry, manufacturing and service industries; inflation recovering following interest rate hikes; government priorities include climate policy, immigration and affordable housing<br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.238 trillion (2023 est.)<br>
+$2.242 trillion (2023 est.)<br>
 $2.215 trillion (2022 est.)<br>
 $2.133 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.07% (2023 est.)<br>
+1.25% (2023 est.)<br>
 3.82% (2022 est.)<br>
 5.29% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$55,800 (2023 est.)<br>
+$55,900 (2023 est.)<br>
 $56,900 (2022 est.)<br>
 $55,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.14 trillion (2023 est.)<br>
+$2.142 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -453,10 +468,10 @@ _services_: 69.6% (2020 est.)<br>
 **GDP - composition, by end use**<br>
 _household consumption_: 55.2% (2023 est.)<br>
 _government consumption_: 21.2% (2023 est.)<br>
-_investment in fixed capital_: 22.9% (2023 est.)<br>
-_investment in inventories_: 1% (2023 est.)<br>
-_exports of goods and services_: 33.5% (2023 est.)<br>
-_imports of goods and services_: -33.9% (2023 est.)<br>
+_investment in fixed capital_: 22.8% (2023 est.)<br>
+_investment in inventories_: 1.2% (2023 est.)<br>
+_exports of goods and services_: 33.4% (2023 est.)<br>
+_imports of goods and services_: -33.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -467,11 +482,11 @@ wheat, rapeseed, maize, barley, milk, soybeans, potatoes, oats, peas, lentils (2
 transportation equipment, chemicals, processed and unprocessed minerals, food products, wood and paper products, fish products, petroleum, natural gas<br>
 
 **Industrial production growth rate**<br>
--0.9% (2023 est.)<br>
+-0.94% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-22.11 million (2023 est.)<br>
+22.137 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -495,8 +510,8 @@ _on food_: 9.5% of household expenditures (2022 est.)<br>
 _on alcohol and tobacco_: 3.7% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.9% (2019 est.)<br>
-_highest 10%_: 24.4% (2019 est.)<br>
+_lowest 10%_: 3% (2019 est.)<br>
+_highest 10%_: 24% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
@@ -511,21 +526,21 @@ _expenditures_: $399.8 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-61.42% of GDP (2022 est.)<br>
+62.23% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-12.83% (of GDP) (2022 est.)<br>
+14.01% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$13.255 billion (2023 est.)<br>
+-$15.631 billion (2023 est.)<br>
 -$7.622 billion (2022 est.)<br>
 $256.504 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$717.677 billion (2023 est.)<br>
+$714.904 billion (2023 est.)<br>
 $731.81 billion (2022 est.)<br>
 $626.676 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -539,7 +554,7 @@ crude petroleum, cars, natural gas, refined petroleum, gold (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$726.139 billion (2023 est.)<br>
+$724.713 billion (2023 est.)<br>
 $728.732 billion (2022 est.)<br>
 $626.558 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>

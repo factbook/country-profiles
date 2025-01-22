@@ -339,13 +339,20 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Zoran MILANOVIC (since 18 February 2020)<br>
 _head of government_: Prime Minister Andrej PLENKOVIC (since 19 October 2016)<br>
 _cabinet_: Council of Ministers named by the prime minister and approved by the Assembly<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 22 December 2019 with a runoff on 5 January 2020 (next to be held in 2024); the leader of the majority party or majority coalition usually appointed prime minister by the president and approved by the Assembly<br>
-_election results_: <br><em>2019: </em>Zoran MILANOVIC elected president in second round; percent of vote in second round - Zoran MILANOVIC (SDP) 52.7%, Kolinda GRABAR-KITAROVIC (HDZ) 47.3%<br><br><em>2015:</em> Kolinda GRABAR-KITAROVIC elected president in second round; percent of vote in second round - Kolinda GRABAR-KITAROVIC (HDZ) 50.7%, Ivo JOSIPOVIC (Forward Croatia Progressive Alliance) 49.3%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held in December 2024 (first round) and January 2025 (second round); the leader of the majority party or majority coalition is usually appointed prime minister by the president and approved by the Assembly<br>
+_election results_: <br><em>2019: </em>Zoran MILANOVIC elected president in second round; percent of vote in second round - Zoran MILANOVIC (SDP) 74.6%, Dragan PRIMORAC (independent) 25.3%<em><br><br>2019: </em>Zoran MILANOVIC elected president in second round; percent of vote in second round - Zoran MILANOVIC (SDP) 52.7%, Kolinda GRABAR-KITAROVIC (HDZ) 47.3%<br><br>
 
 **Legislative branch**<br>
-_description_: unicameral Assembly or Hrvatski Sabor (151 seats; members serve 4-year terms)<br>
-_elections_: last election held on 17 April 2024 (next to be held by April 2028)<br>
-_election results_: percent of vote by party/coalition - HDZ-led coalition 40.4%, SDP 27.8%, DP 9.3%, MOST 7.3%, We Can! 6.6%, SDSS 2.0%, Independents 1.3%, NPS 1.3%, IDS 1.3%, Bosniaks Together 0.7%, DZMH 0.7%, Focus 0.7%, SRRH 0.7%; seats by party/coalition - HDZ-led coalition 61, SDP 42, DP 14, MOST 11, We Can! 10, SDSS 3, Independents 2, NPS 2, IDS 2, Bosniaks Together 1, DZMH 1, Focus 1, SRRH 1; composition - men 101, women 50, percent of women 33%<br>
+_legislature name_: Croatian Parliament (Hrvatski Sabor)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 151 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 4/17/2024<br>
+_parties elected and seats per party_: Croatian Democratic Union (HDZ) (55); Social Democratic Party of Croatia (SDP) (37); Homeland Movement (DP) (11); We Can! – Political Platform (Možemo!) (10); Independent (NZ) (10); Other (28)<br>
+_percentage of women in chamber_: 33.1%<br>
+_expected date of next election_: April 2028<br>
 <strong>note:</strong> of the 151 seats, 140 members come from 10 multi-seat constituencies, with 3 members in a constituency for Croatian diaspora; voters belonging to recognized minorities elect an additional 8 members from a nationwide constituency: the Serb minority elects 3 members, the Hungarian and Italian minorities elect 1 each, the Czech and Slovak minorities elect 1 jointly, and all other minorities elect 2<br>
 
 **Judicial branch**<br>
@@ -398,25 +405,25 @@ _selected World Heritage Site locales_: Plitvice Lakes National Park (n); Histor
 tourism-based economy that was one of the hardest hit by COVID-19 economic disruptions; newest euro user since 2023, helping recover from a 6-year recession; public debt increases due to COVID-19 and stimulus packages; weak exports; continuing emigration; new liquefied natural gas import terminal<br>
 
 **Real GDP (purchasing power parity)**<br>
-$159.305 billion (2023 est.)<br>
-$154.574 billion (2022 est.)<br>
-$144.425 billion (2021 est.)<br>
+$158.698 billion (2023 est.)<br>
+$153.625 billion (2022 est.)<br>
+$143.189 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.06% (2023 est.)<br>
-7.03% (2022 est.)<br>
+3.3% (2023 est.)<br>
+7.29% (2022 est.)<br>
 13.04% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$41,300 (2023 est.)<br>
-$40,100 (2022 est.)<br>
-$37,200 (2021 est.)<br>
+$41,100 (2023 est.)<br>
+$39,800 (2022 est.)<br>
+$36,900 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$82.689 billion (2023 est.)<br>
+$84.394 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -432,18 +439,18 @@ _Standard & Poors rating_: BBB- (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 3% (2023 est.)<br>
-_industry_: 18.8% (2023 est.)<br>
-_services_: 61.2% (2023 est.)<br>
+_agriculture_: 3.4% (2023 est.)<br>
+_industry_: 21% (2023 est.)<br>
+_services_: 59.1% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 58% (2023 est.)<br>
-_government consumption_: 21.1% (2023 est.)<br>
-_investment in fixed capital_: 19.4% (2023 est.)<br>
-_investment in inventories_: 2.6% (2023 est.)<br>
-_exports of goods and services_: 54% (2023 est.)<br>
-_imports of goods and services_: -55.9% (2023 est.)<br>
+_household consumption_: 57.3% (2023 est.)<br>
+_government consumption_: 21.3% (2023 est.)<br>
+_investment in fixed capital_: 22.5% (2023 est.)<br>
+_investment in inventories_: 0.8% (2023 est.)<br>
+_exports of goods and services_: 52.9% (2023 est.)<br>
+_imports of goods and services_: -54.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -454,7 +461,7 @@ maize, wheat, maize, sugar beets, milk, barley, soybeans, sunflower seeds, grape
 chemicals and plastics, machine tools, fabricated metal, electronics, pig iron and rolled steel products, aluminum, paper, wood products, construction materials, textiles, shipbuilding, petroleum and petroleum refining, food and beverages, tourism<br>
 
 **Industrial production growth rate**<br>
--0.47% (2023 est.)<br>
+0.56% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -491,9 +498,9 @@ _highest 10%_: 22.3% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-6.89% of GDP (2023 est.)<br>
-7.51% of GDP (2022 est.)<br>
-7.23% of GDP (2021 est.)<br>
+7.2% of GDP (2023 est.)<br>
+7.52% of GDP (2022 est.)<br>
+7.22% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -502,23 +509,23 @@ _expenditures_: $3.662 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-82.08% of GDP (2022 est.)<br>
+83% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-21.41% (of GDP) (2022 est.)<br>
+21.65% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$956.968 million (2023 est.)<br>
--$2.336 billion (2022 est.)<br>
-$651.685 million (2021 est.)<br>
+$635.97 million (2023 est.)<br>
+-$2.621 billion (2022 est.)<br>
+$557.487 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$44.969 billion (2023 est.)<br>
-$41.903 billion (2022 est.)<br>
-$34.367 billion (2021 est.)<br>
+$45.064 billion (2023 est.)<br>
+$41.907 billion (2022 est.)<br>
+$34.368 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -530,9 +537,9 @@ refined petroleum, electricity, natural gas, garments, wood (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$46.571 billion (2023 est.)<br>
-$46.664 billion (2022 est.)<br>
-$36.256 billion (2021 est.)<br>
+$46.811 billion (2023 est.)<br>
+$46.769 billion (2022 est.)<br>
+$36.259 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

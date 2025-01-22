@@ -260,15 +260,12 @@ see United States<br>Note: in accordance with US Code Title 8, Section 1408, per
 
 **Executive branch**<br>
 _chief of state_: President Joseph R. BIDEN Jr. (since 20 January 2021)<br>
-_head of government_: Governor Lemanu Peleti MAUGA (since 3 January 2021)<br>
+_head of government_: Governor Nikolao PULA (since 3 January 2025)<br>
 _cabinet_: Cabinet consists of 12 department directors appointed by the governor with the consent of the Legislature or Fono<br>
-_elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state to serve a 4-year term (eligible for a second term); under the US Constitution, residents of unincorporated territories, such as American Samoa, do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican presidential primary elections; governor and lieutenant governor directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 3 November 2020 (next to be held in November 2024)<br>
+_elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state to serve a 4-year term (eligible for a second term); under the US Constitution, residents of unincorporated territories, such as American Samoa, do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican presidential primary elections; governor and lieutenant governor directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 19 November 2024 (next to be held in November 2028)<br>
 _election results_: <br>Lemanu Peleti MAUGA elected governor in first round; percent of vote - Lemanu Peleti MAUGA (independent) 60.3%, Gaoteote Palaie TOFAU (independent) 21.9%, I'aulualo Fa'afetai TALIA (independent) 12.3%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Legislature or the American Samoa Fono consists of:<br>Senate (18 seats; members indirectly selected by regional governing councils to serve 4-year terms)<br>House of Representatives (21 seats; 20 members in single- and multi-seat constituencies directly elected by simple majority popular vote and 1 decided by public meeting on Swains Island; members serve 2-year terms)<br>
-_elections_: Senate - last held on 8 November 2022 (next to be held in November 2024)<br>House of Representatives - last held on 8 November 2022 (next to be held on 5 November 2024)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - independent 18; composition - men 17, women 1; percentage women 5.6%<br><br>House of Representatives - percent of vote by party - NA; seats by party - NA; composition - men 20, women 1; percentage women 4.8%; total Legislature percentage women 5.1%<br>
 <strong>note: </strong>American Samoa elects 1 member by simple majority popular vote to serve a 2-year term as a delegate to the US House of Representatives; the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote<br>
 
 **Judicial branch**<br>

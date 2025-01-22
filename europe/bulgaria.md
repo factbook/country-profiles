@@ -340,9 +340,16 @@ _elections/appointments_: president and vice president elected on the same ballo
 _election results_: <em><br>2021</em>: Rumen RADEV reelected president in second round; percent of vote in the first round - Rumen RADEV (independent) 49.4%, Anastas GERDZHIKOV (independent) 22.8%, Mustafa KARADAYI (DPS) 11.6%, Kostadin KOSTADINOV (Revival) 3.9%, Lozan PANOV (independent) 3.7%, other 8.6%; percent of vote in the second round - Rumen RADEV 66.7%, Anastas GERDZHIKOV 31.8%, neither 1.5%<br><br><em>2016: </em>Rumen RADEV elected president in second round; percent of vote - Rumen RADEV (independent, supported by Bulgarian Socialist Party) 59.4%, Tsetska TSACHEVA (GERB) 36.2%, neither 4.5%<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Narodno Sabranie (240 seats; members directly elected in multi-seat constituencies by open-list, proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 2 April 2023 (snap election to be held on 9 June 2024)<br>
-_election results_: percent of vote by party/coalition - GERB-SDS 25.4%, PP-DB 23.5%, Revival 13.6%, DPS 13.2%, BSP for Bulgaria 8.6%, ITN 3.9%, other 11.8%; seats by party/coalition GERB-SDS 69, PP-DB 64, Revival 37, DPS 36, BSP for Bulgaria 23, ITN 11; composition - men 179, women 61, percentage women 25.4%<br>
+_legislature name_: National Assembly (Narodno sabranie)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 240 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 10/27/2024<br>
+_parties elected and seats per party_: Citizens for European Development of Bulgaria Party (GERB) - Union of Democratic Forces (UDF) (69); We Continue the Change - Democratic Bulgaria (37); Revival (Vuzrazhdane) (35); Movement for Rights and Freedoms (DPS) - New Beginning (30); Bulgarian Socialist Party (BSP for Bulgaria) - United Left (20); Alliance for Rights and Freedoms (APS) (19); There is Such a People (PP-ITN) (18); Political Party Morality, Unity, Honour (PP MECh) (12)<br>
+_percentage of women in chamber_: 20.8%<br>
+_expected date of next election_: October 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Cassation (consists of a chairman and approximately 72 judges organized into penal, civil, and commercial colleges); Supreme Administrative Court (organized into 2 colleges with various panels of 5 judges each); Constitutional Court (consists of 12 justices); note - Constitutional Court resides outside the judiciary<br>
@@ -393,25 +400,25 @@ _selected World Heritage Site locales_: Boyana Church (c); Madara Rider (c); Thr
 upper-middle-income EU economy; currency pegged to the euro with accession pending; joined Schengen area as of March 2024; global events and internal political turmoil triggered export slump and stalled reforms; EU structural funds contributing to investment recovery; skilled labor shortage driven by emigration and aging population<br>
 
 **Real GDP (purchasing power parity)**<br>
-$214.061 billion (2023 est.)<br>
-$210.181 billion (2022 est.)<br>
-$202.24 billion (2021 est.)<br>
+$215.338 billion (2023 est.)<br>
+$211.35 billion (2022 est.)<br>
+$203.146 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.85% (2023 est.)<br>
-3.93% (2022 est.)<br>
+1.89% (2023 est.)<br>
+4.04% (2022 est.)<br>
 7.66% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$33,300 (2023 est.)<br>
-$32,500 (2022 est.)<br>
-$29,400 (2021 est.)<br>
+$33,400 (2023 est.)<br>
+$31,800 (2022 est.)<br>
+$29,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$101.584 billion (2023 est.)<br>
+$102.408 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -427,18 +434,18 @@ _Standard & Poors rating_: BBB (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 3% (2023 est.)<br>
-_industry_: 25.4% (2023 est.)<br>
-_services_: 59.3% (2023 est.)<br>
+_agriculture_: 2.5% (2023 est.)<br>
+_industry_: 22.7% (2023 est.)<br>
+_services_: 62.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 59.8% (2023 est.)<br>
-_government consumption_: 18.2% (2023 est.)<br>
-_investment in fixed capital_: 17.3% (2023 est.)<br>
-_investment in inventories_: 1.5% (2023 est.)<br>
-_exports of goods and services_: 60.9% (2023 est.)<br>
-_imports of goods and services_: -57.7% (2023 est.)<br>
+_household consumption_: 57.7% (2023 est.)<br>
+_government consumption_: 18.4% (2023 est.)<br>
+_investment in fixed capital_: 18.7% (2023 est.)<br>
+_investment in inventories_: 1.1% (2023 est.)<br>
+_exports of goods and services_: 61.9% (2023 est.)<br>
+_imports of goods and services_: -57.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -449,11 +456,11 @@ wheat, maize, sunflower seeds, milk, barley, rapeseed, potatoes, grapes, tomatoe
 electricity, gas, water; food, beverages, tobacco; machinery and equipment, automotive parts, base metals, chemical products, coke, refined petroleum, nuclear fuel; outsourcing centers<br>
 
 **Industrial production growth rate**<br>
-0.91% (2023 est.)<br>
+-4.11% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.103 million (2023 est.)<br>
+3.09 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -486,9 +493,9 @@ _highest 10%_: 29.9% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.44% of GDP (2023 est.)<br>
-2.25% of GDP (2022 est.)<br>
-2.35% of GDP (2021 est.)<br>
+2.3% of GDP (2023 est.)<br>
+2.2% of GDP (2022 est.)<br>
+2.38% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -497,23 +504,23 @@ _expenditures_: $35.619 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-30.3% of GDP (2022 est.)<br>
+30.2% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-21.8% (of GDP) (2022 est.)<br>
+21.73% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$248.13 million (2023 est.)<br>
--$591.65 million (2022 est.)<br>
--$1.516 billion (2021 est.)<br>
+$927.67 million (2023 est.)<br>
+-$2.359 billion (2022 est.)<br>
+-$872.53 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$62.118 billion (2023 est.)<br>
-$60.712 billion (2022 est.)<br>
-$51.49 billion (2021 est.)<br>
+$63.38 billion (2023 est.)<br>
+$63.246 billion (2022 est.)<br>
+$52.125 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -525,9 +532,9 @@ refined petroleum, natural gas, garments, wheat, refined copper (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$58.79 billion (2023 est.)<br>
-$60.252 billion (2022 est.)<br>
-$50.048 billion (2021 est.)<br>
+$59.16 billion (2023 est.)<br>
+$62.26 billion (2022 est.)<br>
+$49.999 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

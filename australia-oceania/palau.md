@@ -301,9 +301,28 @@ _election results_: <em>2024: </em>Surangel WHIPPS, Jr. elected president in sec
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Congress or Olbiil Era Kelulau consists of:<br>Senate (13 seats; members directly elected in single-seat constituencies by majority vote to serve 4-year terms)<br>House of Delegates (16 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: Senate - last held on 3 November 2020 (next to be held in November 2024)<br>House of Delegates - last held on 3 November 2020 (next to be held in November 2024)<br>
-_election results_: Senate - percent of vote - NA; seats - independent 13; composition - men 12, women 1; percentage women 7.7%<br><br>House of Delegates - percent of vote - NA; seats - independent 16; composition - men 15, women 1; percentage women 6.3%; note - total National Congress percentage women 6.9%<br>
+_legislature name_: National Congress (Olbiil Era Kelulau)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Delegates<br>
+_number of seats_: 16 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 11/3/2020<br>
+_percentage of women in chamber_: 25%<br>
+_expected date of next election_: November 2024<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate<br>
+_number of seats_: 15 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 11/3/2020<br>
+_percentage of women in chamber_: 13.3%<br>
+_expected date of next election_: November 2024<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 3 associate justices organized into appellate trial divisions; the Supreme Court organization also includes the Common Pleas and Land Courts)<br>
@@ -325,7 +344,7 @@ _email address and website_: <br>info@palauembassy.org<br><br>https://www.palaue
 _consulate(s)_: Tamuning (Guam)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires James BOUGHNER (since 9 September 2022)<br>
+_chief of mission_: Ambassador Joel EHRENDREICH (since 29 September 2023)<br>
 _embassy_: Omsangel/Beklelachieb, Airai 96940<br>
 _mailing address_: 4260 Koror Place, Washington, DC&nbsp; 20521-4260<br>
 _telephone_: [680] 587-2920<br>
@@ -353,25 +372,25 @@ _selected World Heritage Site locales_: Rock Islands Southern Lagoon<br>
 high-income Pacific island economy; environmentally fragile; subsistence agriculture and fishing industries; US aid reliance; rebounding post-pandemic tourism industry and services sector; very high living standard and low unemployment<br>
 
 **Real GDP (purchasing power parity)**<br>
-$284.695 million (2023 est.)<br>
-$283.424 million (2022 est.)<br>
-$284.454 million (2021 est.)<br>
+$280.025 million (2023 est.)<br>
+$274.866 million (2022 est.)<br>
+$278.538 million (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.45% (2023 est.)<br>
--0.36% (2022 est.)<br>
+1.88% (2023 est.)<br>
+-1.32% (2022 est.)<br>
 -14.16% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $15,800 (2023 est.)<br>
-$15,700 (2022 est.)<br>
-$15,800 (2021 est.)<br>
+$15,500 (2022 est.)<br>
+$15,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$263.021 million (2023 est.)<br>
+$281.849 million (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -381,18 +400,18 @@ $263.021 million (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 3.4% (2022 est.)<br>
-_industry_: 12.3% (2022 est.)<br>
-_services_: 80.1% (2022 est.)<br>
+_agriculture_: 3% (2023 est.)<br>
+_industry_: 9.9% (2023 est.)<br>
+_services_: 76.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 82% (2022 est.)<br>
-_government consumption_: 38.3% (2022 est.)<br>
-_investment in fixed capital_: 38.7% (2022 est.)<br>
-_investment in inventories_: 1.2% (2022 est.)<br>
-_exports of goods and services_: 14.2% (2022 est.)<br>
-_imports of goods and services_: -78.3% (2022 est.)<br>
+_household consumption_: 77.8% (2022 est.)<br>
+_government consumption_: 36.3% (2022 est.)<br>
+_investment in fixed capital_: 36.6% (2022 est.)<br>
+_investment in inventories_: 1.8% (2022 est.)<br>
+_exports of goods and services_: 13.5% (2022 est.)<br>
+_imports of goods and services_: -74.3% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -402,7 +421,7 @@ coconuts, cassava (manioc, tapioca), sweet potatoes; fish, pigs, chickens, eggs,
 tourism, fishing, subsistence agriculture<br>
 
 **Industrial production growth rate**<br>
--19.56% (2022 est.)<br>
+-19.49% (2023 est.)<br>
 <strong>note:</strong> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -415,9 +434,9 @@ tourism, fishing, subsistence agriculture<br>
 _total_: 5.6% (2014)<br>
 
 **Remittances**<br>
-0.38% of GDP (2023 est.)<br>
-0.81% of GDP (2022 est.)<br>
-0.82% of GDP (2021 est.)<br>
+0.69% of GDP (2023 est.)<br>
+0.76% of GDP (2022 est.)<br>
+0.8% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -426,11 +445,11 @@ _expenditures_: $175.508 million (2019 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-85.24% of GDP (2019 est.)<br>
+85.2% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-17.93% (of GDP) (2020 est.)<br>
+18.08% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>

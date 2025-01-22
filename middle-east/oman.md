@@ -327,9 +327,27 @@ _cabinet_: Cabinet appointed by the monarch<br>
 <strong>note</strong> - the monarch is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: bicameral Council of Oman or Majlis Oman consists of:<br>Council of State or Majlis al-Dawla (87 seats including the chairman; members appointed by the sultan from among former government officials and prominent educators, businessmen, and citizens; members serve 4-year term)<br>Consultative Assembly or Majlis al-Shura (90 seats; members directly elected in single- and 2-seat constituencies by simple majority popular vote to serve renewable 4-year terms)<br>
-_elections_: Council of State - last appointments on 8 November 2023 (next appointments in November 2027)<br>Consultative Assembly - last held on 29 October 2023 (next to be held in October 2027)<br>
-_election results_: Council of State - 87 nonpartisan members were appointed by the sultan; composition - men 68, women 18, percentage women 20.9%<br><br>Consultative Assembly percent of vote by party - NA; seats by party - NA; 90 nonpartisan members were elected (organized political parties in Oman are legally banned); composition - 90 men, 0 women, percentage women 0%; total Council of Oman percentage women 10.2%<br>
+_legislature name_: Majles<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: Shura Council (Majles A'Shura)<br>
+_number of seats_: 90 (all directly elected)<br>
+_electoral system_: other systems<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 10/29/2023<br>
+_percentage of women in chamber_: 0%<br>
+_expected date of next election_: October 2027<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: State Council (Majles Addawla)<br>
+_number of seats_: 87 (all appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 11/1/2023<br>
+_percentage of women in chamber_: 20.9%<br>
+_expected date of next election_: November 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 5 judges)<br>

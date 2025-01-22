@@ -331,9 +331,28 @@ _election results_: <em><br>2022: </em>percent of vote<em> -</em> Denis BECIROVI
 <strong>note:</strong> President of the Federation of Bosnia and Herzegovina Lidiia BRADARA (since 28 February 2023); Vice Presidents Refik LENDO (since 28 February 2023) and Igor STOJANOVIC (since 28 February 2023); President of the Republika Srpska Milorad DODIK (since 15 November 2022); Vice Presidents Camil DURAKOVIC (since 15 November 2022) and Davor PRANJIC (since 15 November 2022)<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliamentary Assembly or Skupstina consists of:<br>House of Peoples or Dom Naroda (15 seats - 5 Bosniak, 5 Croat, 5 Serb; members designated by the Federation of Bosnia and Herzegovina's House of Peoples and the Republika Srpska's National Assembly to serve 4-year terms)<br>House of Representatives or Predstavnicki Dom (42 seats to include 28 seats allocated to the Federation of Bosnia and Herzegovina and 14 to the Republika Srpska; members directly elected by proportional representation vote to serve 4-year terms)<br>
-_elections_: House of Peoples - last held on 2 October 2022 (next to be held in 2026)<br>House of Representatives - last held on 2 October 2022 (next to be held in 2026)<br>
-_election results_: House of Peoples - percent of vote by party/coalition - NA; seats by party/coalition - NA; composition - men 13, women 2, percentage women 13.3%<br><br>House of Representatives - percent of vote by party/coalition - SDA 17.2%, SNSD 16.3%, HDZ BiH 8.8%, SDP 8.2%, SDS 7.1%, DF-GS 6.4%, NiP 5%, PDP 4.6%, NS/HC 3.1%, NES 3%, For Justice and Order 2.1%, DEMOS 1.9%, US 1.6%, BHI KF 1.3%, other 13.4%; seats by party/coalition - SDA 9, SNSD 6, SDP 5, HDZ BiH 4, DF-GS 3, NiP 3, SDS 2, PDP 2, NS/HC 2, NES 2, For Justice and Order 1, DEMOS 1, US 1, BHI KF 1; composition - men 34, women 8, percentage women 19.1%; total Parliamentary Assembly percentage women 17.5%<br>
+_legislature name_: Parliamentary Assembly (Skupstina)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives (Predstavnicki dom)<br>
+_number of seats_: 42 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 10/2/2022<br>
+_parties elected and seats per party_: Party of Democratic Action (SDA) (9); Alliance of Independent Social Democrats (SNSD) (6); Social Democratic Party of Bosnia and Herzegovina (SDP) (5); HDZ BiH, HSS, HSP BiH, HKDU, HSPAS, HDU, HSPHB, HRAST (4); Democratic Front (DF) - Civic Alliance (GS) (3); People and Justice (NAROD I PRAVDA) (3); Other (12)<br>
+_percentage of women in chamber_: 19%<br>
+_expected date of next election_: October 2026<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: House of Peoples (Dom Naroda)<br>
+_number of seats_: 15 (all appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 2/16/2023<br>
+_percentage of women in chamber_: 13.3%<br>
+_expected date of next election_: February 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Bosnia and Herzegovina (BiH) Constitutional Court (consists of 9 members); Court of BiH (consists of 44 national judges and 7 international judges organized into 3 divisions - Administrative, Appellate, and Criminal, which includes a War Crimes Chamber)<br>
@@ -386,31 +405,31 @@ _selected World Heritage Site locales_: Old Bridge Area of Mostar (c); Mehmed Pa
 import-dominated economy; remains consumption-heavy; lack of private sector investments and diversification; jointly addressing structural economic challenges; Chinese energy infrastructure investments; high unemployment; tourism industry impacted by COVID-19<br>
 
 **Real GDP (purchasing power parity)**<br>
-$63.769 billion (2023 est.)<br>
+$64.104 billion (2023 est.)<br>
 $62.717 billion (2022 est.)<br>
 $60.174 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.68% (2023 est.)<br>
+2.21% (2023 est.)<br>
 4.23% (2022 est.)<br>
 7.39% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$19,900 (2023 est.)<br>
-$19,400 (2022 est.)<br>
-$18,400 (2021 est.)<br>
+$20,100 (2023 est.)<br>
+$19,600 (2022 est.)<br>
+$18,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$27.055 billion (2023 est.)<br>
+$27.515 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+6.11% (2023 est.)<br>
+14.02% (2022 est.)<br>
 1.98% (2021 est.)<br>
--1.05% (2020 est.)<br>
-0.56% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B3 (2012)<br>
@@ -418,18 +437,18 @@ _Standard & Poors rating_: B (2011)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 4.3% (2023 est.)<br>
-_industry_: 23.3% (2023 est.)<br>
-_services_: 56.4% (2023 est.)<br>
+_agriculture_: 4.7% (2023 est.)<br>
+_industry_: 23.8% (2023 est.)<br>
+_services_: 55.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 71.9% (2023 est.)<br>
-_government consumption_: 19.9% (2023 est.)<br>
-_investment in fixed capital_: 22.1% (2022 est.)<br>
-_investment in inventories_: 4.7% (2023 est.)<br>
+_household consumption_: 68.5% (2023 est.)<br>
+_government consumption_: 19.2% (2023 est.)<br>
+_investment in fixed capital_: 23.1% (2023 est.)<br>
+_investment in inventories_: 3.3% (2023 est.)<br>
 _exports of goods and services_: 44.1% (2023 est.)<br>
-_imports of goods and services_: -56.9% (2023 est.)<br>
+_imports of goods and services_: -55.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -440,11 +459,11 @@ maize, milk, vegetables, potatoes, plums, wheat, apples, barley, chicken, pears 
 steel, coal, iron ore, lead, zinc, manganese, bauxite, aluminum, motor vehicle assembly, textiles, tobacco products, wooden furniture, ammunition, domestic appliances, oil refining<br>
 
 **Industrial production growth rate**<br>
--2.8% (2023 est.)<br>
+-0.47% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.369 million (2023 est.)<br>
+1.382 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -468,7 +487,7 @@ _on food_: 29.2% of household expenditures (2022 est.)<br>
 _on alcohol and tobacco_: 8.3% of household expenditures (2022 est.)<br>
 
 **Remittances**<br>
-10.53% of GDP (2023 est.)<br>
+10.26% of GDP (2023 est.)<br>
 10.52% of GDP (2022 est.)<br>
 10.47% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -479,23 +498,23 @@ _expenditures_: $9.739 billion (2023 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-41.74% of GDP (2022 est.)<br>
+40.42% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-19.09% (of GDP) (2022 est.)<br>
+19.11% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$760.467 million (2023 est.)<br>
--$1.065 billion (2022 est.)<br>
--$418.984 million (2021 est.)<br>
+-$638.769 million (2023 est.)<br>
+-$1.078 billion (2022 est.)<br>
+-$349.24 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$11.942 billion (2023 est.)<br>
-$11.794 billion (2022 est.)<br>
-$10.058 billion (2021 est.)<br>
+$12.126 billion (2023 est.)<br>
+$11.838 billion (2022 est.)<br>
+$10.116 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -507,9 +526,9 @@ aluminum, electricity, footwear, garments, plastic products (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$15.398 billion (2023 est.)<br>
-$15.162 billion (2022 est.)<br>
-$12.738 billion (2021 est.)<br>
+$15.37 billion (2023 est.)<br>
+$15.166 billion (2022 est.)<br>
+$12.739 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -527,7 +546,7 @@ $9.475 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$4.521 billion (2022 est.)<br>
+$5.602 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

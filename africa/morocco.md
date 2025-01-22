@@ -369,9 +369,28 @@ _cabinet_: Council of Ministers chosen by the prime minister in consultation wit
 _elections/appointments_: the monarchy is hereditary; prime minister appointed by the monarch from the majority party following legislative elections<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>House of Councilors or Majlis al-Mustacharine (120 seats; members indirectly elected by an electoral college of local councils, professional organizations, and labor unions; members serve 6-year terms)<br>House of Representatives or Majlis al-Nuwab (395 seats; 305 members directly elected in multi-seat constituencies by proportional representation vote and 90 directly elected in a single nationwide constituency by proportional representation vote; members serve 5-year terms); note - 60 seats reserved for women and 30 seats for those under age 40 in regional multi-seat constituencies, with the seats divided proportionally among the 12 regions by population size of the region<br>
-_elections_: House of Councillors - last held on 5 October 2021 (next to be held by 31 October 2027)<br>House of Representatives - last held on 8 September 2021 (next to be held by 30 September 2026)<br>
-_election results_: House of Councillors - percent of vote by party - NA; seats by party - RNI 27, PAM 19, PI 17, MP 12, USFP 8, UGIM 6, CDT 3, PJD 3, UC 2, UMT 2, Amal 1, FDT 1, MDS 1, PRD 1, independent 1; composition - men 106, women 14, percentage women 11.7%<br><br>House of Representatives - percent of vote by party NA; seats by party - RNI 102, PAM 87, PI 81, USFP 34, MP 28, PPS 22, UC 18, PJD 13, MDS 5, other 5; composition - men 299, women 96, percentage women 24.3%; total Parliament percentage women 21.4%<br>
+_legislature name_: Parliament (Barlaman)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives (Majliss-annouwab)<br>
+_number of seats_: 395 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 9/8/2021<br>
+_parties elected and seats per party_: National Rally of Independents (RNI) (102); Authenticity and Modernity Party (PAM) (87); Istiqlal Party (PI) (81); Socialist Union of Popular Forces (USFP) (34); Popular Movement (MP) (28); Progress and Socialism Party (PPS) (22); Other (41)<br>
+_percentage of women in chamber_: 24.3%<br>
+_expected date of next election_: September 2026<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: House of Councillors (Majlis al-Mustacharin)<br>
+_number of seats_: 120 (all indirectly elected)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 6 years<br>
+_most recent election date_: 10/5/2021<br>
+_percentage of women in chamber_: 11.7%<br>
+_expected date of next election_: October 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Court of Cassation (consists of 5-judge panels organized into civil, family matters, commercial, administrative, social, and criminal sections); Constitutional Court (consists of 12 members)<br>
@@ -422,25 +441,25 @@ _selected World Heritage Site locales_: Medina of Fez; Medina of Marrakesh; Ksar
 lower middle-income North African economy; ongoing recovery from recent drought and earthquake; rebounding via tourism, manufacturing, and raw materials processing; significant trade and investment with EU; reform programs include fiscal rebalancing, state enterprise governance and private sector investments<br>
 
 **Real GDP (purchasing power parity)**<br>
-$337.48 billion (2023 est.)<br>
-$327.085 billion (2022 est.)<br>
-$323.02 billion (2021 est.)<br>
+$339.603 billion (2023 est.)<br>
+$328.425 billion (2022 est.)<br>
+$323.485 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.18% (2023 est.)<br>
-1.26% (2022 est.)<br>
+3.4% (2023 est.)<br>
+1.53% (2022 est.)<br>
 8.02% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$8,800 (2023 est.)<br>
-$8,600 (2022 est.)<br>
+$8,900 (2023 est.)<br>
+$8,700 (2022 est.)<br>
 $8,600 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$141.109 billion (2023 est.)<br>
+$144.417 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -456,18 +475,18 @@ _Standard & Poors rating_: BBB- (2010)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 12% (2023 est.)<br>
-_industry_: 23.8% (2023 est.)<br>
-_services_: 53.9% (2023 est.)<br>
+_agriculture_: 11.1% (2023 est.)<br>
+_industry_: 24.6% (2023 est.)<br>
+_services_: 54.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 61.6% (2023 est.)<br>
-_government consumption_: 18.7% (2023 est.)<br>
-_investment in fixed capital_: 27% (2023 est.)<br>
-_investment in inventories_: 1% (2023 est.)<br>
-_exports of goods and services_: 44% (2023 est.)<br>
-_imports of goods and services_: -52.3% (2023 est.)<br>
+_household consumption_: 61.4% (2023 est.)<br>
+_government consumption_: 18.1% (2023 est.)<br>
+_investment in fixed capital_: 25.4% (2023 est.)<br>
+_investment in inventories_: 3.4% (2023 est.)<br>
+_exports of goods and services_: 42.8% (2023 est.)<br>
+_imports of goods and services_: -51% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -478,7 +497,7 @@ wheat, milk, olives, sugar beets, potatoes, tomatoes, tangerines/mandarins, oran
 automotive parts, phosphate mining and processing, aerospace, food processing, leather goods, textiles, construction, energy, tourism<br>
 
 **Industrial production growth rate**<br>
-0.96% (2023 est.)<br>
+1.34% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -502,9 +521,9 @@ _on food_: 33.9% of household expenditures (2022 est.)<br>
 _on alcohol and tobacco_: 1.4% of household expenditures (2022 est.)<br>
 
 **Remittances**<br>
-8.6% of GDP (2023 est.)<br>
+8.14% of GDP (2023 est.)<br>
 8.53% of GDP (2022 est.)<br>
-7.69% of GDP (2021 est.)<br>
+7.68% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -516,19 +535,19 @@ _expenditures_: $36.939 billion (2022 est.)<br>
 65.1% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-22.12% (of GDP) (2022 est.)<br>
+22.11% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$4.775 billion (2022 est.)<br>
+-$891.222 million (2023 est.)<br>
+-$4.8 billion (2022 est.)<br>
 -$3.349 billion (2021 est.)<br>
--$1.368 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$58.556 billion (2022 est.)<br>
+$61.746 billion (2023 est.)<br>
+$58.575 billion (2022 est.)<br>
 $47.09 billion (2021 est.)<br>
-$37.545 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -540,9 +559,9 @@ fertilizers, cars, garments, insulated wire, phosphoric acid (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$73.783 billion (2022 est.)<br>
+$73.759 billion (2023 est.)<br>
+$73.81 billion (2022 est.)<br>
 $60.215 billion (2021 est.)<br>
-$46.358 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -560,7 +579,7 @@ $35.648 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$36.29 billion (2022 est.)<br>
+$44.353 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

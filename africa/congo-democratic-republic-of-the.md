@@ -361,9 +361,28 @@ _elections/appointments_: president directly elected by simple majority vote for
 _election results_: <em><br>2023: </em>Felix TSHISEKEDI reelected president; percent of vote - Felix TSHISEKEDI (UDPS) 73.3%, Moise KATUMBI (Ensemble) 18.8%, Martin FAYULU (ECIDE) 5.3%, other 2.6%<br><em><br>2018:</em> Felix TSHISEKEDI elected president; percent of vote - Felix TSHISEKEDI (UDPS) 38.6%, Martin FAYULU (Lamuka coalition) 34.8%, Emmanuel Ramazani SHADARY (PPRD) 23.9%, other 2.7%; note - election marred by serious voting irregularities<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Parlement consists of:<br>Senate (109 seats; 109 members to include 108 indirectly elected by provincial assemblies by proportional representation vote to serve 5-year terms and a former president, appointed for life)<br><br>National Assembly (500 seats; 439 members directly elected in multi-seat constituencies by proportional representation vote and 61 directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms) <p> </p><br>
-_elections_: Senate - last held on 29 April 2024 (next to be held 29 April 2029)<br>National Assembly - last held on 20 December 2023 (next to be held in December 2028)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - UDPS 15, AFDC-A 6, AB 5, A24 4, AACPG 4, MLC 4, A/VK2018 3, ANB 3, Ensemble 3, 2ATDC 2, A/A-UNC 2, AA/C 2, AAAP 2, AVC-A 2, FPAV 2. A/B50 1, A1 1, A3A 1, AAAD 1, AAeC 1, ACP-A 1, AN 1, APCF 1, ARDEV-A 1, ART&amp;A 1, ATVA 1, AV 1, CDER 1, CFC 1, MSL 1, independent 26; composition- men 84, women 16, percentage women 15.8%<br><br>National Assembly - percent of vote by party- NA; seats by party - PPRD 62, UDPS 41, PPPD 29, MSR 27, MLC 22, PALU 19, UNC 17, ARC 16, AFDC 15, ECT 11, RRC 11, other 214 (includes numerous political parties that won 10 or fewer seats and 2 constituencies where voting was halted), independent 16; composition - men 415, women 62, percent of women 13%; total Parliament percentage women 13.5%<br>
+_legislature name_: Parlement (Parliament)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: National Assembly (Assemblée nationale)<br>
+_number of seats_: 500 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 12/20/2023<br>
+_parties elected and seats per party_: Union for Democracy and Social Progress/TSHISEKEDI (UDPS/TSHISEKEDI) (69); Action of Allies and Union for the Congolese Nation (A/A-UNC) (35); Alliance of Democratic Forces of Congo and Allies (AFDC-A) (35); Act and Build (AB) (26); Other (312)<br>
+_percentage of women in chamber_: 13%<br>
+_expected date of next election_: December 2028<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Sénat)<br>
+_number of seats_: 109 (all indirectly elected)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 4/29/2024 to 5/26/2024<br>
+_percentage of women in chamber_: 15.8%<br>
+_expected date of next election_: April 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation or Cour de Cassation (consists of 26 justices and organized into legislative and judiciary sections); Constitutional Court (consists of 9 judges)<br>
@@ -427,7 +446,7 @@ $130.244 billion (2021 est.)<br>
 **Real GDP per capita**<br>
 $1,500 (2023 est.)<br>
 $1,400 (2022 est.)<br>
-$1,400 (2021 est.)<br>
+$1,300 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -472,7 +491,7 @@ mining (copper, cobalt, gold, diamonds, coltan, zinc, tin, tungsten), mineral pr
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-35.983 million (2023 est.)<br>
+37.514 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -495,11 +514,11 @@ _female_: 6.7% (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.1% (2020 est.)<br>
-_highest 10%_: 35.8% (2020 est.)<br>
+_highest 10%_: 35.7% (2020 est.)<br>
 
 **Remittances**<br>
-2.05% of GDP (2023 est.)<br>
-2.05% of GDP (2022 est.)<br>
+4.97% of GDP (2023 est.)<br>
+4.96% of GDP (2022 est.)<br>
 2.44% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -515,15 +534,15 @@ _expenditures_: $5.109 billion (2021 est.)<br>
 11.41% (of GDP) (2022 est.)<br>
 
 **Current account balance**<br>
+-$3.883 billion (2023 est.)<br>
+-$3.148 billion (2022 est.)<br>
 -$587.407 million (2021 est.)<br>
--$1.052 billion (2020 est.)<br>
--$1.693 billion (2019 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$29.65 billion (2023 est.)<br>
+$28.753 billion (2022 est.)<br>
 $22.354 billion (2021 est.)<br>
-$13.932 billion (2020 est.)<br>
-$15.173 billion (2019 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -535,9 +554,9 @@ refined copper, cobalt, copper ore, raw copper, crude petroleum (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$33.68 billion (2023 est.)<br>
+$31.699 billion (2022 est.)<br>
 $22.193 billion (2021 est.)<br>
-$14.557 billion (2020 est.)<br>
-$16.892 billion (2019 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -549,22 +568,22 @@ refined petroleum, sulfur, plastic products, trucks, stone processing machines (
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$5.104 billion (2023 est.)<br>
+$4.378 billion (2022 est.)<br>
 $3.467 billion (2021 est.)<br>
-$747.655 million (2020 est.)<br>
-$1.194 billion (2019 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$5.383 billion (2022 est.)<br>
+$8.566 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Congolese francs (CDF) per US dollar -<br>
+2,340.036 (2023 est.)<br>
+2,006.708 (2022 est.)<br>
 1,989.391 (2021 est.)<br>
 1,851.122 (2020 est.)<br>
 1,647.76 (2019 est.)<br>
-1,622.524 (2018 est.)<br>
-1,464.418 (2017 est.)<br>
 
 ## Energy
 

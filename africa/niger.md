@@ -358,9 +358,16 @@ _election results_: <em><br>2020/2021</em>: Mohamed BAZOUM elected president in 
 <strong>note:</strong> deposed president BAZOUM has been under house arrest since a military coup on 26 July 2023<br>
 
 **Legislative branch**<br>
-_description_: formerly the unicameral National Assembly (171 statutory seats - 166 currently; 158 members directly elected from 8 multi-member constituencies in 7 regions and Niamey by party-list proportional representation, 8 reserved for minorities elected in special single-seat constituencies by simple majority vote, 5 seats reserved for Nigeriens living abroad - 1 seat per continent - elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
-_elections_: last held on 27 December 2020 (prior to the military coup, next elections were to be held in December 2025)<br>
-_election results_: percent of vote by party - PNDS-Tarrayya 37%, MODEN/FA Lumana 8.7%, MPR-Jamhuriya 7.6%, MNSD-Nassara 6.8%,&nbsp; RDR-Tchanji 4.4%, CPR-Inganci 4.2%, MPN-Kishin Kassa 4%, PJP Generation Dubara 2.9%, ANDP Zaman Lahya 2.5%, RPP Farrilla 2.1%, ARD Adaltchi-Mutuntchi 1.7%, AMEN AMIN 1.4%, MDEN Falala 1.4%, other 15.3%; seats by party - PNDS-Tarrayya 79, MODEN/FA Lumana 19, MPR-Jamhuriya 14, MNSD-Nassara 13, CPR-Inganci 8, MPN-Kishin Kassa 6, ANDP-Zaman Lahiya 3, RPP Farrilla 2, PJP Generation Dubara 2, ARD Adaltchi-Mutuntchi 2, AMEN AMIN 2, other 16; composition - men 115, women 51, percentage women 30.7%<br>
+_legislature name_: National Assembly (Assemblée nationale)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 171 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 12/27/2020<br>
+_parties elected and seats per party_: Niger Party for Democracy and Socialism (PNDS Tarayya) (80); Nigerien Democratic Movement for an African Federation (Moden Fa . Lumana Africa ) (19); Patriotic Movement for the Republic (MPR-JAMHURIYA) (13); National Movement for the Development of Society (MNSD) - Nassara (13); Other (41)<br>
+_percentage of women in chamber_: 30.7%<br>
+_expected date of next election_: December 2025<br>
 <strong>Note:</strong> on 26 July 2023, the National Council for the Safeguard of the Homeland, a military junta which took control of Niger's government, dissolved the National Assembly<br>
 
 **Judicial branch**<br>
@@ -425,9 +432,9 @@ $38.851 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$1,600 (2023 est.)<br>
+$1,700 (2023 est.)<br>
 $1,700 (2022 est.)<br>
-$1,500 (2021 est.)<br>
+$1,600 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -454,6 +461,7 @@ _services_: 26.9% (2023 est.)<br>
 _household consumption_: 72% (2021 est.)<br>
 _government consumption_: 17.3% (2021 est.)<br>
 _investment in fixed capital_: 26.4% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
 _exports of goods and services_: 8.8% (2023 est.)<br>
 _imports of goods and services_: -21.6% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -470,7 +478,7 @@ uranium mining, petroleum, cement, brick, soap, textiles, food processing, chemi
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-10.237 million (2023 est.)<br>
+10.189 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -486,7 +494,7 @@ _female_: 0.8% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-40.8% (2018 est.)<br>
+45.5% (2021 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -499,7 +507,7 @@ _highest 10%_: 27.8% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-3.15% of GDP (2023 est.)<br>
+4.31% of GDP (2023 est.)<br>
 4.7% of GDP (2022 est.)<br>
 2.37% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -553,7 +561,7 @@ $1.314 billion (31 December 2017 est.)<br>
 $1.186 billion (31 December 2016 est.)<br>
 
 **Debt - external**<br>
-$3.688 billion (2022 est.)<br>
+$4.198 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

@@ -332,9 +332,24 @@ _elections/appointments_: king elected by and from the hereditary rulers of 9 st
 <strong>note: </strong>the position of the king is primarily ceremonial, but he is the final arbiter on the appointment of the prime minister<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament of Malaysia or Parlimen Malaysia consists of:<br>Senate or Dewan Negara (70 seats; 44 members appointed by the king and 26 indirectly elected by 13 state legislatures; members serve 3-year terms)<br><br>House of Representatives or Dewan Rakyat (222 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: Senate - appointed<br>House of Representatives - last held on 19 Nov 2022 (next to be held in 2027)<br>
-_election results_: Senate - appointed; composition - men 51, women 10, percentage women 16.4%<br><br>House of Representatives - percent of vote by party/coalition - PH 37.5%, PN 30.4%, BN 22.4%, GPS 4%, WARISAN 1.8%, GRS 1.3%, other 2.6%; seats by party/coalition - PH 90, PN 50, BN 42, GPS 18, WARISAN 7, PEJUANG 4, PBM 3, PSB 1, MUDA 1, independent 4, vacant 2; composition - 192 men, 30 women; percentage women 13.5%; total Parliament percentage women 9.2%<br>
+_legislature name_: Parliament (Parlimen)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives (Dewan Rakyat)<br>
+_number of seats_: 223 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 11/19/2022<br>
+_parties elected and seats per party_: Pakatan Harapan (PH) (76); National Alliance (PN) (52); National Front (BN) (30); Sarawak Parties Alliance (GPS) (23); Pan-Malaysian Islamic Party (PAS) (22); Other (19)<br>
+_percentage of women in chamber_: 13.5%<br>
+_expected date of next election_: November 2027<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Dewan Negara)<br>
+_number of seats_: 70 (26 indirectly elected; 44 appointed)<br>
+_percentage of women in chamber_: 16.4%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Court (consists of the chief justice, president of the Court of Appeal, chief justice of the High Court of Malaya, chief judge of the High Court of Sabah and Sarawak, 8 judges, and 1 "additional" judge); note - Malaysia has a dual judicial hierarchy of civil and religious (sharia) courts<br>
@@ -385,25 +400,25 @@ _selected World Heritage Site locales_: <p>Gunung Mulu National Park (n); Kinaba
 upper middle-income Southeast Asian economy; implementing key anticorruption policies; major electronics, oil, and chemicals exporter; trade sector employs over 40% of jobs; key economic equity initiative; high labor productivity<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.152 trillion (2023 est.)<br>
-$1.111 trillion (2022 est.)<br>
-$1.023 trillion (2021 est.)<br>
+$1.153 trillion (2023 est.)<br>
+$1.113 trillion (2022 est.)<br>
+$1.022 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.68% (2023 est.)<br>
-8.65% (2022 est.)<br>
+3.56% (2023 est.)<br>
+8.86% (2022 est.)<br>
 3.3% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$33,600 (2023 est.)<br>
-$32,700 (2022 est.)<br>
-$30,500 (2021 est.)<br>
+$32,800 (2023 est.)<br>
+$32,100 (2022 est.)<br>
+$29,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$399.649 billion (2023 est.)<br>
+$399.705 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -419,18 +434,18 @@ _Standard & Poors rating_: A- (2003)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 7.7% (2023 est.)<br>
+_agriculture_: 7.8% (2023 est.)<br>
 _industry_: 37.7% (2023 est.)<br>
-_services_: 53.5% (2023 est.)<br>
+_services_: 53.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 60.4% (2023 est.)<br>
-_government consumption_: 12% (2023 est.)<br>
+_household consumption_: 60.5% (2023 est.)<br>
+_government consumption_: 11.9% (2023 est.)<br>
 _investment in fixed capital_: 19.2% (2023 est.)<br>
-_investment in inventories_: 3.3% (2023 est.)<br>
-_exports of goods and services_: 68.4% (2023 est.)<br>
-_imports of goods and services_: -63.4% (2023 est.)<br>
+_investment in inventories_: 3.2% (2023 est.)<br>
+_exports of goods and services_: 68.6% (2023 est.)<br>
+_imports of goods and services_: -63.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -441,11 +456,11 @@ oil palm fruit, rice, chicken, eggs, coconuts, tropical fruits, vegetables, rubb
 Peninsular Malaysia - rubber and oil palm processing and manufacturing, petroleum and natural gas, light manufacturing, pharmaceuticals, medical technology, electronics and semiconductors, timber processing; Sabah - logging, petroleum and natural gas production; Sarawak - agriculture processing, petroleum and natural gas production, logging<br>
 
 **Industrial production growth rate**<br>
-1.43% (2023 est.)<br>
+1.33% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-17.308 million (2023 est.)<br>
+17.75 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -478,7 +493,7 @@ _highest 10%_: 30.9% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.44% of GDP (2023 est.)<br>
+0.43% of GDP (2023 est.)<br>
 0.4% of GDP (2022 est.)<br>
 0.42% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -489,23 +504,23 @@ _expenditures_: $72.986 billion (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-60.27% of GDP (2022 est.)<br>
+60.18% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-11.65% (of GDP) (2022 est.)<br>
+11.64% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$12.271 billion (2022 est.)<br>
+$6.257 billion (2023 est.)<br>
+$12.738 billion (2022 est.)<br>
 $14.493 billion (2021 est.)<br>
-$14.138 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$312.857 billion (2022 est.)<br>
+$274.1 billion (2023 est.)<br>
+$312.88 billion (2022 est.)<br>
 $263.836 billion (2021 est.)<br>
-$208.217 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -517,9 +532,9 @@ integrated circuits, refined petroleum, natural gas, palm oil, crude petroleum (
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$283.601 billion (2022 est.)<br>
+$253.665 billion (2023 est.)<br>
+$283.758 billion (2022 est.)<br>
 $236.855 billion (2021 est.)<br>
-$186.613 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -531,7 +546,7 @@ integrated circuits, refined petroleum, crude petroleum, coal, vehicle parts/acc
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$113.438 billion (2023 est.)<br>
+$113.463 billion (2023 est.)<br>
 $114.659 billion (2022 est.)<br>
 $116.916 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

@@ -348,9 +348,31 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <br><em>2020: </em>Evariste NDAYISHIMIYE elected president; percent of vote - Evariste NDAYISHIMIYE (CNDD-FDD) 71.5%, Agathon RWASA (CNL) 25.2%, Gaston SINDIMWO (UPRONA) 1.7%, other 1.6%<br><br><em>2015:</em> Pierre NKURUNZIZA reelected president; percent of vote - Pierre NKURUNZIZA (CNDD-FDD) 69.4%, Agathon RWASA (Hope of Burundians - Amizerio y'ABARUNDI) 19%, other 11.6%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Parlement consists of:<br>Senate or Inama Nkenguzamateka (39 seats in the July 2020 election); 36 members indirectly elected by an electoral college of provincial councils using a three-round voting system, which requires a two-thirds majority vote in the first two rounds and simple majority vote for the two leading candidates in the final round; members serve 5-year terms)<br>National Assembly or Inama Nshingamateka (123 seats in the May 2020 election; 100 members directly elected in multi-seat constituencies by proportional representation vote and 23 co-opted members; members serve 5-year terms)<br>
-_elections_: Senate - last held on 20 July 2020 (next to be held in 2025)<br>National Assembly - last held on 20 May 2020 (next to be held in 2025)<br>
-_election results_: Senate - percent of vote by party - CNDD-FDD 87.2%, Twa 7.7%, CNL 2.6%, UPRONA 2.6%; seats by party - CNDD-FDD 34, Twa 3, CNL 1, UPRONA 1; composition - men 23, women 16, percentage women 37.2% <p>National Assembly - percent of vote by party - CNDD-FDD 70.9%, CNL 23.4%, UPRONA 2.5%, other (co-opted Twa) 3.2%; seats by party - CNDD-FDD 86, CNL 32, Twa 3, UPRONA 2; composition - men 76, women 47, percentage women 38.2%; note - total Parliament percentage women 38%</p><br>
+_legislature name_: Parliament (Parlement)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: National Assembly (Inama Nshingamateka)<br>
+_number of seats_: 123 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 5/20/2020<br>
+_parties elected and seats per party_: National Council for the Defense of Democracy - Front for the Defense of Democracy (CNDD-FDD) (86); National Congress for Liberty (CNL) (32); Other (5)<br>
+_percentage of women in chamber_: 38.2%<br>
+_expected date of next election_: May 2025<br>
+<strong>note:</strong> 60% of seats in the National Assembly are allocated to Hutus and 40% to Tutsis; 3 seats are reserved for Twas; 30% of total seats are reserved for women<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Inama Nkenguzamateka)<br>
+_number of seats_: 39 (all indirectly elected)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 7/20/2020<br>
+_parties elected and seats per party_: National Council for the Defense of Democracy - Front for the Defense of Democracy (CNDD-FDD) (34); Other (2)<br>
+_percentage of women in chamber_: 41%<br>
+_expected date of next election_: July 2025<br>
+<strong>note:</strong> 3 seats in the Senate are reserved for Twas, and 30% of all votes are reserved for women<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 9 judges and organized into judicial, administrative, and cassation chambers); Constitutional Court (consists of 7 members)<br>
@@ -407,9 +429,9 @@ $10.848 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$900 (2023 est.)<br>
-$900 (2022 est.)<br>
-$900 (2021 est.)<br>
+$800 (2023 est.)<br>
+$800 (2022 est.)<br>
+$800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -432,6 +454,7 @@ _services_: 48.8% (2023 est.)<br>
 _household consumption_: 75.6% (2023 est.)<br>
 _government consumption_: 30.5% (2023 est.)<br>
 _investment in fixed capital_: 13% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
 _exports of goods and services_: 5.3% (2023 est.)<br>
 _imports of goods and services_: -24.3% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -448,7 +471,7 @@ light consumer goods (sugar, shoes, soap, beer); cement, assembly of imported co
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.722 million (2023 est.)<br>
+5.894 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -473,9 +496,9 @@ _highest 10%_: 29.9% (2020 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.83% of GDP (2023 est.)<br>
-1.45% of GDP (2022 est.)<br>
-1.74% of GDP (2021 est.)<br>
+7.49% of GDP (2023 est.)<br>
+4.89% of GDP (2022 est.)<br>
+6.05% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -490,14 +513,15 @@ _expenditures_: $506.147 million (2021 est.)<br>
 15.64% (of GDP) (2021 est.)<br>
 
 **Current account balance**<br>
--$362.645 million (2018 est.)<br>
--$373.389 million (2017 est.)<br>
--$339.695 million (2016 est.)<br>
+-$625.597 million (2023 est.)<br>
+-$621.969 million (2022 est.)<br>
+-$393.88 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$285.105 million (2018 est.)<br>
-$270.686 million (2017 est.)<br>
+$378.229 million (2023 est.)<br>
+$333.637 million (2022 est.)<br>
+$302.752 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -509,8 +533,9 @@ gold, coffee, tea, rare earth ores, tobacco (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$905.294 million (2018 est.)<br>
-$1.295 billion (2017 est.)<br>
+$1.433 billion (2023 est.)<br>
+$1.42 billion (2022 est.)<br>
+$1.166 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -528,7 +553,7 @@ $266.164 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$444.292 million (2022 est.)<br>
+$858.402 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

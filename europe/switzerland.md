@@ -338,17 +338,38 @@ _residency requirement for naturalization_: 12 years including at least 3 of the
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President of the Swiss Confederation Viola AMHERD (since 1 January 2024)<br>
-_head of government_: President of the Swiss Confederation Viola AMHERD (since 1 January 2024)<br>
+_chief of state_: President of the Swiss Confederation Karin KELLER-SUTTER (since 1 January 2025)<br>
+_head of government_: President of the Swiss Confederation Karin KELLER-SUTTER (since 1 January 2025)<br>
 _cabinet_: Federal Council or Bundesrat (in German), Conseil Federal (in French), Consiglio Federale (in Italian) indirectly elected by the Federal Assembly for a 4-year term<br>
 _elections/appointments_: president and vice president elected by the Federal Assembly from among members of the Federal Council for a 1-year, non-consecutive term; election last held on 13 December 2023 (next to be held in December 2024)<br>
 _election results_: <em><br>2023:  </em>Viola AMHERD elected president for 2024; Federal Assembly vote - Viola AMHERD (The Center) 158 of 204; Karin Keller-Sutter (FDP.The Liberals) elected vice president for 2024; Federal Assembly vote - 138 of 196<br><br><em>2022:  </em>Alain BERSET elected president for 2023; Federal Assembly vote - Alain BERSET (SP) 140 OF 181; Viola AMHERD elected vice president; Federal assembly vote - 207 of 223<br>
 <strong>note:</strong> the Federal Council, comprised of 7 federal councillors, constitutes the federal government of Switzerland; council members rotate the 1-year term of federal president<br>
 
 **Legislative branch**<br>
-_description_: bicameral Federal Assembly or Bundesversammlung (in German), Assemblée Fédérale (in French), Assemblea Federale (in Italian) consists of:<br>Council of States or Ständerat (in German), Conseil des États (in French), Consiglio degli Stati (in Italian) (46 seats; members in two-seat constituencies representing cantons and single-seat constituencies representing half cantons directly elected by simple majority vote except Jura and Neuchatel cantons, which use list proportional representation vote; member term governed by cantonal law)<br>National Council or Nationalrat (in German), Conseil National (in French), Consiglio Nazionale (in Italian) (200 seats; 194 members in cantons directly elected by proportional representation vote and 6 in half cantons directly elected by simple majority vote; members serve 4-year terms)<br>
-_elections_: Council of States - last held in most cantons on 22 October 2023 (each canton determines when the next election will be held)<br>National Council - last held on 22 October 2023 (next to be held on 31 October 2027)<br>
-_election results_: Council of States - percent of vote by party - NA; seats by party - The Center 13, FDP.The Liberals 12, SP 9, SVP 6, Green Party 5, other 1; composition - men 30, women 16, percentage women 34.8%<br><br>National Council - percent of vote by party - SVP 28.6%, SP 18%, The Center 14.6%, FDP.The Liberals 14.4%, Green Party 9.4%, GLP 7.2%, EDU 1.2, EDV/PEV 1.9%, MCR/MCG .5%, other 4%; seats by party - SVP 62, SP 41, The Center 29, FDP.The Liberals 28, Green Party 23, GLP 10, EDU 2, EDV/PEV 2, MCR/MCG 2, other 1; composition - men 123, women 77, percentage women 38.5%; note - total Federal Assembly percentage women 37.8%<br>
+_legislature name_: Federal Assembly (Bundesversammlung - Assemblée fédérale - Assemblea federale)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: National Council (Nationalrat - Conseil national - Consiglio nazionale)<br>
+_number of seats_: 200 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 10/22/2023<br>
+_parties elected and seats per party_: Swiss People's Party (SVP/UDC) (62); Socialist Party (SP/PS) (41); Centre Party (29); FDP/The Liberals (FDP/PLR) (28); Green Party (GPS/PES) (23); Liberal Green Party (GLP/PVL) (10); Other (7)<br>
+_percentage of women in chamber_: 38.5%<br>
+_expected date of next election_: October 2027<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Council of States (Ständerat - Conseil des Etats - Consiglio degli Stati)<br>
+_number of seats_: 46 (all directly elected)<br>
+_electoral system_: other systems<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 10/22/2023<br>
+_parties elected and seats per party_: Centre Party (15); FDP/The Liberals (FDP/PLR) (11); Socialist Party (SP/PS) (9); Swiss People's Party (SVP/UDC) (6); Green Party (GPS/PES) (3); Other (2)<br>
+_percentage of women in chamber_: 34.8%<br>
+_expected date of next election_: October 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Supreme Court (consists of 38 justices and 19 deputy justices organized into 7 divisions)<br>
@@ -412,7 +433,7 @@ $710.319 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$82,900 (2023 est.)<br>
+$82,600 (2023 est.)<br>
 $83,000 (2022 est.)<br>
 $81,600 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
@@ -460,7 +481,7 @@ machinery, chemicals, watches, textiles, precision instruments, tourism, banking
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.991 million (2023 est.)<br>
+5.012 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -476,7 +497,7 @@ _female_: 7.7% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-14.7% (2020 est.)<br>
+15.8% (2021 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -488,13 +509,13 @@ _on food_: 9.3% of household expenditures (2022 est.)<br>
 _on alcohol and tobacco_: 3.5% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.9% (2020 est.)<br>
+_lowest 10%_: 3% (2020 est.)<br>
 _highest 10%_: 26.4% (2020 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.28% of GDP (2023 est.)<br>
-0.38% of GDP (2022 est.)<br>
+0.39% of GDP (2023 est.)<br>
+0.4% of GDP (2022 est.)<br>
 0.39% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -512,15 +533,15 @@ _expenditures_: $136.348 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$67.821 billion (2023 est.)<br>
-$77.245 billion (2022 est.)<br>
-$56.091 billion (2021 est.)<br>
+$58.395 billion (2023 est.)<br>
+$77.801 billion (2022 est.)<br>
+$55.137 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$661.628 billion (2023 est.)<br>
-$627.788 billion (2022 est.)<br>
-$579.011 billion (2021 est.)<br>
+$654.175 billion (2023 est.)<br>
+$628.737 billion (2022 est.)<br>
+$578.938 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -532,9 +553,9 @@ gold, vaccines, packaged medicine, nitrogen compounds, base metal watches (2022)
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$554.358 billion (2023 est.)<br>
-$516.517 billion (2022 est.)<br>
-$481.27 billion (2021 est.)<br>
+$556.351 billion (2023 est.)<br>
+$518.002 billion (2022 est.)<br>
+$481.607 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

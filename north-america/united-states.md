@@ -356,18 +356,39 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Joseph R. BIDEN, Jr. (since 20 January 2021)<br>
-_head of government_: President Joseph R. BIDEN, Jr. (since 20 January 2021)<br>
+_chief of state_: President Donald J. TRUMP (since 20 January 2025)<br>
+_head of government_: President Donald J. TRUMP (since 20 January 2025)<br>
 _cabinet_: Cabinet appointed by the president, approved by the Senate<br>
-_elections/appointments_: president and vice president indirectly elected on the same ballot by the Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); election last held on 3 November 2020 (next to be held on 5 November 2024)<br>
-_election results_: <em><br>2020:</em> Joseph R. BIDEN, Jr. elected president; electoral vote - Joseph R. BIDEN, Jr. (Democratic Party) 306, Donald J. TRUMP (Republican Party) 232; percent of direct popular vote - Joseph R. BIDEN Jr. 51.3%, Donald J. TRUMP 46.9%, other 1.8%<br><br><em>2016:</em> Donald J. TRUMP elected president; electoral vote - Donald J. TRUMP (Republican Party) 304, Hillary D. CLINTON (Democratic Party) 227, other 7; percent of direct popular vote - Hillary D. CLINTON 48.2%, Donald J. TRUMP 46.1%, other 5.7%<br>
+_elections/appointments_: president and vice president indirectly elected on the same ballot by the Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); election last held on 5 November 2024 (next to be held on 7 November 2028)<br>
+_election results_: <em><br>2024:</em> Donald J. TRUMP elected president; electoral vote - Donald J. TRUMP (Republican Party) 312, Kamala HARRIS (Democratic Party) 226; percent of direct popular vote - Donald J. TRUMP 49.8%, Kamala HARRIS 48.3%, other 1.9%<br><em><br>2020:</em> Joseph R. BIDEN, Jr. elected president; electoral vote - Joseph R. BIDEN, Jr. (Democratic Party) 306, Donald J. TRUMP (Republican Party) 232; percent of direct popular vote - Joseph R. BIDEN Jr. 51.3%, Donald J. TRUMP 46.9%, other 1.8%<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: bicameral Congress consists of:<br>Senate (100 seats; 2 members directly elected in each of the 50 state constituencies by simple majority vote except in Georgia and Louisiana which require an absolute majority vote with a second round if needed; members serve 6-year terms with one-third of membership renewed every 2 years)<br>House of Representatives (435 seats; members directly elected in single-seat constituencies by simple majority vote except in Georgia which requires an absolute majority vote with a second round if needed; members serve 2-year terms)<br>
-_elections_: Senate - last held on 8 November 2022 (next to be held on 5 November 2024)<br>House of Representatives - last held on 8 November 2022 (next to be held on 5 November 2024)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - Democratic Party 51, Republican Party 49; composition - men 75, women 25, percentage women 25%<br><br>House of Representatives - percent of vote by party - NA; seats by party - Republican Party 222, Democratic Party 213; composition - men 305, women 126, percentage women 29.2%; total US Congress percentage women 28.4%<br>
+_legislature name_: Congress<br>
+_legislative structure_: bicameral<br>
 <strong>note:</strong> in addition to the regular members of the House of Representatives there are 6 non-voting delegates elected from the District of Columbia and the US territories of American Samoa, Guam, Puerto Rico, the Northern Mariana Islands, and the Virgin Islands; these are single seat constituencies directly elected by simple majority vote to serve a 2-year term (except for the resident commissioner of Puerto Rico who serves a 4-year term); the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote; election of delegates last held on 8 November 2022 (next to be held on 3 November 2024)<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives<br>
+_number of seats_: 435 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 2 years<br>
+_most recent election date_: 11/5/2024<br>
+_parties elected and seats per party_: Republican Party (220); Democratic Party (215)<br>
+_percentage of women in chamber_: 28.2%<br>
+_expected date of next election_: November 2026<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate<br>
+_number of seats_: 100 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: partial renewal<br>
+_term in office_: 6 years<br>
+_most recent election date_: 11/5/2024<br>
+_parties elected and seats per party_: Democratic Party (19); Republican Party (15)<br>
+_percentage of women in chamber_: 25%<br>
+_expected date of next election_: November 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: US Supreme Court (consists of 9 justices - the chief justice and 8 associate justices)<br>
@@ -403,25 +424,25 @@ _selected World Heritage Site locales_: <p>Yellowstone National Park (n); Grand 
 high-income, diversified North American economy; NATO leader; largest importer and second-largest exporter; home to leading financial exchanges; high and growing public debt; rising socioeconomic inequalities; historically low interest rates; hit by COVID-19<br>
 
 **Real GDP (purchasing power parity)**<br>
-$24.662 trillion (2023 est.)<br>
-$24.051 trillion (2022 est.)<br>
-$23.594 trillion (2021 est.)<br>
+$24.977 trillion (2023 est.)<br>
+$24.276 trillion (2022 est.)<br>
+$23.681 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.54% (2023 est.)<br>
-1.94% (2022 est.)<br>
+2.89% (2023 est.)<br>
+2.51% (2022 est.)<br>
 5.8% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$73,600 (2023 est.)<br>
-$72,200 (2022 est.)<br>
-$71,100 (2021 est.)<br>
+$74,600 (2023 est.)<br>
+$72,800 (2022 est.)<br>
+$71,300 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$27.361 trillion (2023 est.)<br>
+$27.721 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -438,17 +459,17 @@ _Standard & Poors rating_: AA+ (2011)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.9% (2021 est.)<br>
-_industry_: 17.7% (2021 est.)<br>
-_services_: 76.7% (2021 est.)<br>
+_industry_: 17.6% (2021 est.)<br>
+_services_: 76.4% (2021 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 68% (2022 est.)<br>
-_government consumption_: 13.9% (2022 est.)<br>
-_investment in fixed capital_: 21.3% (2022 est.)<br>
-_investment in inventories_: 0.6% (2022 est.)<br>
-_exports of goods and services_: 11.6% (2022 est.)<br>
-_imports of goods and services_: -15.4% (2022 est.)<br>
+_household consumption_: 67.9% (2023 est.)<br>
+_government consumption_: 13.4% (2023 est.)<br>
+_investment in fixed capital_: 21.4% (2023 est.)<br>
+_investment in inventories_: 0.2% (2023 est.)<br>
+_exports of goods and services_: 11% (2023 est.)<br>
+_imports of goods and services_: -13.9% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -463,7 +484,7 @@ highly diversified, world leading, high-technology innovator, second-largest ind
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-170.549 million (2023 est.)<br>
+170.715 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -479,7 +500,7 @@ _female_: 7.1% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-39.8 (2021 est.)<br>
+41.3 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -487,8 +508,8 @@ _on food_: 6.7% of household expenditures (2022 est.)<br>
 _on alcohol and tobacco_: 1.8% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.2% (2021 est.)<br>
-_highest 10%_: 30.1% (2021 est.)<br>
+_lowest 10%_: 1.8% (2022 est.)<br>
+_highest 10%_: 30.2% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
@@ -503,23 +524,23 @@ _expenditures_: $6.306 trillion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-110.39% of GDP (2022 est.)<br>
+114.88% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-12.18% (of GDP) (2022 est.)<br>
+10.22% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$818.822 billion (2023 est.)<br>
--$971.594 billion (2022 est.)<br>
--$831.453 billion (2021 est.)<br>
+-$905.378 billion (2023 est.)<br>
+-$1.012 trillion (2022 est.)<br>
+-$867.984 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$3.052 trillion (2023 est.)<br>
-$3.018 trillion (2022 est.)<br>
-$2.567 trillion (2021 est.)<br>
+$3.072 trillion (2023 est.)<br>
+$3.039 trillion (2022 est.)<br>
+$2.571 trillion (2021 est.)<br>
 <strong>note:</strong> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -531,9 +552,9 @@ refined petroleum, crude petroleum, natural gas, cars, integrated circuits (2022
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$3.832 trillion (2023 est.)<br>
-$3.97 trillion (2022 est.)<br>
-$3.409 trillion (2021 est.)<br>
+$3.857 trillion (2023 est.)<br>
+$3.984 trillion (2022 est.)<br>
+$3.419 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

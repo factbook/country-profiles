@@ -304,9 +304,28 @@ _cabinet_: Cabinet appointed by the governor general on the advice of the prime 
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (13 seats; members appointed by the governor general - 10 on the advice of the prime minister and 3 on the advice of the leader of the opposition party; members serve 5-year terms)<br>House of Representatives (15 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: Senate - last appointments on 3 August 2022 (next to be held no later than 2027)<br>House of Representatives - last held on 23 June 2022 (next to be held no later than 2027)<br>
-_election results_: Senate - percent by party - NA; seats by party - NDC 7, NNP 3, independent 3; composition - men 11, women 5, percentage women 31.3%<br><br>House of Representatives - percent of vote by party - NDC 51.8%; NNP 47.8%; other 0.4%; seats by party - NDC 9; NNP 6; composition - men 9, women 4, percentage women 30.8%; note - total Parliament percentage women 31%<br>
+_legislature name_: Parliament<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives<br>
+_number of seats_: 15 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 6/23/2022<br>
+_parties elected and seats per party_: National Democratic Congress (NDC) (9); New National Party (NNP) (6)<br>
+_percentage of women in chamber_: 31.3%<br>
+_expected date of next election_: June 2027<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate<br>
+_number of seats_: 13 (all appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 8/31/2022<br>
+_percentage of women in chamber_: 30.8%<br>
+_expected date of next election_: August 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: regionally, the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 in Grenada; appeals beyond the ECSC in civil and criminal matters are heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -352,25 +371,25 @@ _lyrics/music_: Irva Merle BAPTISTE/Louis Arnold MASANTO<br>
 small OECS service-based economy; large tourism, construction, transportation, and education sectors; major spice exporter; shrinking but still high public debt; vulnerable to hurricanes; emerging blue economy incentives<br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.008 billion (2023 est.)<br>
+$1.984 billion (2023 est.)<br>
 $1.916 billion (2022 est.)<br>
 $1.785 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.81% (2023 est.)<br>
+3.57% (2023 est.)<br>
 7.32% (2022 est.)<br>
 4.69% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$15,900 (2023 est.)<br>
-$15,300 (2022 est.)<br>
-$14,300 (2021 est.)<br>
+$16,900 (2023 est.)<br>
+$16,400 (2022 est.)<br>
+$15,300 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.32 billion (2023 est.)<br>
+$1.317 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -385,8 +404,8 @@ _Standard & Poors rating_: SD (2013)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3.3% (2023 est.)<br>
-_industry_: 14.9% (2023 est.)<br>
-_services_: 64.3% (2023 est.)<br>
+_industry_: 15% (2023 est.)<br>
+_services_: 64.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -426,7 +445,7 @@ _lowest 10%_: 2.1% (2018 est.)<br>
 _highest 10%_: 33.7% (2018 est.)<br>
 
 **Remittances**<br>
-3.74% of GDP (2023 est.)<br>
+6.21% of GDP (2023 est.)<br>
 5.74% of GDP (2022 est.)<br>
 5.53% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -483,7 +502,7 @@ $348.259 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$458.369 million (2022 est.)<br>
+$551.288 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

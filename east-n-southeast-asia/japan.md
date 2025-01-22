@@ -338,9 +338,30 @@ _elections/appointments_: the monarchy is hereditary; the leader of the majority
 _election results_: <em>2024: </em>Shigeru ISHIBA (LDP) elected prime minister on 27 September 2024; upper house vote - 143 of 242 votes; lower house vote - 291 of 461 votes (note - ISHIBA resigned as prime minister on 11 November 2024 following parliamentary elections but was re-elected over Yoshihiko NODA (CDP) in the second round of voting in the lower house, 221-160)<br><br><em>2021:</em> Fumio KISHIDA reelected prime minister on 10 November 2021; upper house vote - Fumio KISHIDA (LDP) 141, Yukio EDANO (CDP) 60; lower house vote - Fumio KISHIDA 297, Yukio EDANO 108<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Diet or Kokkai consists of:<br>House of Councilors or Sangi-in (248 seats; 148 members directly elected in multi-seat districts by simple majority vote and 100 directly elected in a single national constituency by proportional representation vote; members serve 6-year terms with half the membership renewed every 3 years)<br><br>House of Representatives or Shuugi-in (465 seats; 289 members directly elected in single-seat districts by simple majority vote and 176 directly elected in multi-seat districts by party-list proportional representation vote; members serve up to 4-year terms)<br>
-_elections_: House of Councillors - last held on 10 July 2022 (next to be held in July 2025)<br>House of Representatives - last held on 27 October 2024 (next to be held by October 2025)<br>
-_election results_: House of Councillors - percent of vote by party - NA; seats by party/grouping as of January 2024 - LDP 116, CDP-SDP 40, Komeito 27, JCP 11, Ishin 21, DPP 11, Reiwa 5, OW 2, NHK 2, independent 12; composition - men 182, women 66; percentage women 26.6%<br><br>House of Representatives - percent of vote by party - LDP 26.7%, CDP 21.2%, Ishin 9.4%, DPP 11.3%, Komeito 10.9%, Reiwa 7%, JCP 6.2%, Sanseito Party 3.4%, CPJ 2.1%; seats by party as of October 2024 - LDP 191, CDP 148, Ishin 38, DPP 28, Komeito 24, Reiwa 9, JCP 8, Sanseito Party 3, CPJ 3, SDP 1, Independents 12 ; composition - men 392 men, women 73; percentage women 15.7%<br>
+_legislature name_: National Diet (Kokkai)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives (Shugiin)<br>
+_number of seats_: 465 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 10/27/2024<br>
+_parties elected and seats per party_: Liberal Democratic Party (LDP) (191); Constitutional Democratic Party of Japan (148); Nippon Ishin (Japan Innovation Party) (38); Democratic Party for the People (28); Komeito (24); Other (36)<br>
+_percentage of women in chamber_: 15.7%<br>
+_expected date of next election_: October 2028<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: House of Councillors (Sangiin)<br>
+_number of seats_: 248 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: partial renewal<br>
+_term in office_: 6 years<br>
+_most recent election date_: 7/10/2022<br>
+_parties elected and seats per party_: Liberal Democratic Party (LDP) (63); Constitutional Democratic Party of Japan (17); Komeito (13); Nippon Ishin (Japan Innovation Party) (12); Other (20)<br>
+_percentage of women in chamber_: 26.6%<br>
+_expected date of next election_: July 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Saiko saibansho (consists of the chief justice and 14 associate justices); note - the Supreme Court has jurisdiction in constitutional issues<br>
@@ -393,25 +414,25 @@ _selected World Heritage Site locales_: <p>Buddhist Monuments in the Horyu-ji Ar
 fourth-largest economy; trade-oriented and highly diversified; high public debt levels; real wage declines in inflationary environment; sustained near-zero central bank rates coupled with depreciation of yen; strong rebound in tourism<br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.761 trillion (2023 est.)<br>
+$5.747 trillion (2023 est.)<br>
 $5.652 trillion (2022 est.)<br>
 $5.599 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.92% (2023 est.)<br>
+1.68% (2023 est.)<br>
 0.95% (2022 est.)<br>
 2.56% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$46,300 (2023 est.)<br>
+$46,200 (2023 est.)<br>
 $45,200 (2022 est.)<br>
 $44,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$4.213 trillion (2023 est.)<br>
+$4.204 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -435,10 +456,10 @@ _services_: 71.4% (2022 est.)<br>
 **GDP - composition, by end use**<br>
 _household consumption_: 55.6% (2022 est.)<br>
 _government consumption_: 21.6% (2022 est.)<br>
-_investment in fixed capital_: 26% (2022 est.)<br>
-_investment in inventories_: 0.6% (2022 est.)<br>
-_exports of goods and services_: 21.5% (2022 est.)<br>
-_imports of goods and services_: -25.3% (2022 est.)<br>
+_investment in fixed capital_: 25.8% (2023 est.)<br>
+_investment in inventories_: 0.4% (2023 est.)<br>
+_exports of goods and services_: 21.8% (2023 est.)<br>
+_imports of goods and services_: -23.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -453,7 +474,7 @@ motor vehicles, electronic equipment, machine tools, steel and nonferrous metals
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-69.349 million (2023 est.)<br>
+69.208 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -473,7 +494,7 @@ _on food_: 16.3% of household expenditures (2022 est.)<br>
 _on alcohol and tobacco_: 2.7% of household expenditures (2022 est.)<br>
 
 **Remittances**<br>
-0.13% of GDP (2023 est.)<br>
+0.11% of GDP (2023 est.)<br>
 0.13% of GDP (2022 est.)<br>
 0.11% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>

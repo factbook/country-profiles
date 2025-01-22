@@ -333,9 +333,16 @@ _elections/appointments_: the monarchy is hereditary; governor general nominated
 _election results_: James MARAPE reelected prime minister; National Parliament vote - 105 out of 118<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Parliament (111 seats; 89 members directly elected from single-seat open constituencies and 22 governors directly elected from 20 provincial constituencies, 1 autonomous region, and 1 district - all by instant runoff preferential vote; members serve 5-year terms)<br>
-_elections_: last held from 4-22 July 2022 (next to be held in June 2027)<br>
-_election results_: percent of vote by party - NA; seats by party - PANGU PATI - 39, PNC - 17, URP - 11, NAP - 6, SDP - 4, PFP - 4, PP &ndash; 4, PNGP &ndash; 3,&nbsp; ULP - 3, Advance PNG - 2, National Party - 2, Liberal Party - 2, AP - 1, Destiny Party - 1, Greens - 1, MAP - 1, NGP - 1, ODP - 1, PLP - 1, PMC - 1, PPP - 1, PRP - 1, THE - 1, independent - 10; composition - men 108, women 3, percentage women 2.7%<br>
+_legislature name_: National Parliament<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 118 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 7/4/2022 to 7/22/2022<br>
+_parties elected and seats per party_: Papua & Niugini Union Pati (PANGU) (39); People's National Congress Party (PNC) (15); United Resource Party (URP) (11); Others (40); Independents (10)<br>
+_percentage of women in chamber_: 2.7%<br>
+_expected date of next election_: July 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice, deputy chief justice, 35 justices, and 5 acting justices); National Courts (consists of 13 courts located in the provincial capitals, with a total of 19 resident judges)<br>
@@ -383,14 +390,14 @@ _selected World Heritage Site locales_: Kuk Early Agricultural Site<br>
 lower middle-income Pacific island economy; primarily informal agrarian sector; natural resource-rich; key liquified natural gas exporter; growing young workforce; slow post-pandemic recovery; increasingly impoverished citizenry; sustainable inflation<br>
 
 **Real GDP (purchasing power parity)**<br>
-$42.9 billion (2023 est.)<br>
-$41.779 billion (2022 est.)<br>
-$39.728 billion (2021 est.)<br>
+$43.371 billion (2023 est.)<br>
+$42.093 billion (2022 est.)<br>
+$39.82 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.68% (2023 est.)<br>
-5.17% (2022 est.)<br>
+3.04% (2023 est.)<br>
+5.71% (2022 est.)<br>
 -0.78% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
@@ -401,7 +408,7 @@ $4,000 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$30.932 billion (2023 est.)<br>
+$30.729 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -416,9 +423,9 @@ _Standard & Poors rating_: B- (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 16.9% (2022 est.)<br>
-_industry_: 40.3% (2022 est.)<br>
-_services_: 39% (2022 est.)<br>
+_agriculture_: 17% (2023 est.)<br>
+_industry_: 36.3% (2023 est.)<br>
+_services_: 42% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -437,11 +444,11 @@ oil palm fruit, coconuts, bananas, fruits, sweet potatoes, game meat, yams, root
 oil and gas; mining (gold, copper, and nickel); palm oil processing; plywood and wood chip production;&nbsp;copra crushing; construction; tourism; fishing; livestock (pork, poultry, cattle) and dairy farming; spice products (turmeric, vanilla, ginger, cardamom, chili, pepper, citronella, and nutmeg)<br>
 
 **Industrial production growth rate**<br>
-6.61% (2022 est.)<br>
+-0.59% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.229 million (2023 est.)<br>
+3.252 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -457,9 +464,9 @@ _female_: 2.9% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
-0.01% of GDP (2023 est.)<br>
-0.01% of GDP (2022 est.)<br>
-0.05% of GDP (2021 est.)<br>
+0.03% of GDP (2023 est.)<br>
+0.05% of GDP (2022 est.)<br>
+0.01% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -468,23 +475,23 @@ _expenditures_: $6.156 billion (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-48.26% of GDP (2022 est.)<br>
+48.19% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-14.79% (of GDP) (2022 est.)<br>
+14.77% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$4.499 billion (2021 est.)<br>
-$3.419 billion (2020 est.)<br>
-$3.559 billion (2019 est.)<br>
+$4.183 billion (2023 est.)<br>
+$4.567 billion (2022 est.)<br>
+$3.284 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$11.625 billion (2021 est.)<br>
-$9.175 billion (2020 est.)<br>
-$11.236 billion (2019 est.)<br>
+$12.93 billion (2023 est.)<br>
+$14.862 billion (2022 est.)<br>
+$11.032 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -496,9 +503,9 @@ natural gas, gold, palm oil, crude petroleum, copper ore (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$6.303 billion (2021 est.)<br>
-$5.282 billion (2020 est.)<br>
-$6.329 billion (2019 est.)<br>
+$7.192 billion (2023 est.)<br>
+$8.568 billion (2022 est.)<br>
+$6.43 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -510,22 +517,22 @@ refined petroleum, rice, plastic products, excavation machinery, trucks (2022)<b
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$3.901 billion (2023 est.)<br>
 $3.983 billion (2022 est.)<br>
 $3.24 billion (2021 est.)<br>
-$2.686 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$6.35 billion (2022 est.)<br>
+$7.387 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: kina (PGK) per US dollar -<br>
+3.59 (2023 est.)<br>
 3.519 (2022 est.)<br>
 3.509 (2021 est.)<br>
 3.46 (2020 est.)<br>
 3.388 (2019 est.)<br>
-3.293 (2018 est.)<br>
 
 ## Energy
 

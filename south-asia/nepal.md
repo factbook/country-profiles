@@ -341,9 +341,28 @@ _elections/appointments_: president indirectly elected by an electoral college o
 _election results_: <em><br>2023:</em> Ram Chandra POUDEL elected president; electoral college vote - Ram Chandra POUDEL (NC) 33,802, Subash Chandra NEMBANG (CPN-UML) 15,518<br><br><em>2018:</em> Bidhya Devi BHANDARI reelected president; electoral vote - Bidhya Devi BHANDARI (CPN-UML) 39,275, Kumari Laxmi RAI (NC) 11,730 <br>
 
 **Legislative branch**<br>
-_description_: bicameral Federal Parliament consists of:<br>National Assembly (59 seats; 56 members, including at least 3 women, 1 Dalit, 1 member with disabilities, or 1 minority indirectly elected by an electoral college of state and municipal government leaders, and 3 members, including 1 woman, nominated by the president of Nepal on the recommendation of the government; members serve 6-year terms with renewal of one-third of the membership every 2 years)<br>House of Representatives (275 seats statutory, current 272; 165 members directly elected in single-seat constituencies by simple majority vote and 110 members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a threshold of 3% overall valid vote to be allocated a seat; members serve 5-year terms); note - the House of Representatives was dissolved on 22 May 2021, but on 13 July, the Supreme Court directed its reinstatement<br>
-_elections_: National Assembly - last held on 25 January 2024 (next to be held in January 2026)<br><br>House of Representatives - last held on 20 November 2022 (next to be held in November 2027)<br>
-_election results_: National Assembly - percent of vote by party - NA; seats by party - CPN-MC 17, NC 16, CON-UML 10, CPN-US 8, other 5, nominated members 3; composition - men 37, women 22, percentage women 37.3%<br><br>House of Representatives - percent of vote by party - NA; seats by party - NC 89, CPN-UML 78, CPN-MC 32, RSP 20, RPP 14, PSP-N 12, CPN (Unified Socialist) 10, Janamat Party 6, Loktantrik Samajwadi Party 4, other 10<br>other 10; composition - men 182, women 90, percentage women 33.1%; total Federal Parliament percentage women 33.5%<br>
+_legislature name_: Federal Parliament (Sanghiya Sansad)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives (Pratinidhi Sabha)<br>
+_number of seats_: 275 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 11/19/2013<br>
+_parties elected and seats per party_: Nepali Congress (NC) (89); Communist Party of Nepal (Unified Marxist-Leninist, UML) (78); Communist Party of Nepal-Maoist Centre (CPN-MC) (32); Rastriya Swatantra Party (20); Rastriya Prajatantra Party Nepal (RPP) (14); People's Socialist Party, Nepal (12); Communist Party of Nepal (Unified Socialist) (10); Janamat Party (6); Democratic Socialist Party, Nepal (4); People's Freedom Party (3); Nepal Workers Peasants Party (1); Rastriya Janamorcha (1); Independents (5)<br>
+_percentage of women in chamber_: 33.5%<br>
+_expected date of next election_: November 2027<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: National Assembly (Rastriya Sabha)<br>
+_number of seats_: 59 (56 indirectly elected; 3 appointed)<br>
+_scope of elections_: partial renewal<br>
+_term in office_: 6 years<br>
+_most recent election date_: 1/25/2024<br>
+_percentage of women in chamber_: 37.3%<br>
+_expected date of next election_: January 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and up to 20 judges)<br>
@@ -406,8 +425,8 @@ $134 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$4,700 (2023 est.)<br>
-$4,600 (2022 est.)<br>
+$4,900 (2023 est.)<br>
+$4,800 (2022 est.)<br>
 $4,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
@@ -448,7 +467,7 @@ tourism, carpets, textiles, small rice, jute, sugar, oilseed mills, cigarettes, 
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.937 million (2023 est.)<br>
+8.569 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -463,9 +482,19 @@ _male_: 18.7% (2023 est.)<br>
 _female_: 23.3% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
+**Population below poverty line**<br>
+20.3% (2022 est.)<br>
+
+**Gini Index coefficient - distribution of family income**<br>
+30 (2022 est.)<br>
+
+**Household income or consumption by percentage share**<br>
+_lowest 10%_: 3.7% (2022 est.)<br>
+_highest 10%_: 24.2% (2022 est.)<br>
+
 **Remittances**<br>
-26.89% of GDP (2023 est.)<br>
-22.56% of GDP (2022 est.)<br>
+26.31% of GDP (2023 est.)<br>
+22.85% of GDP (2022 est.)<br>
 22.28% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -483,14 +512,14 @@ _expenditures_: $7.163 billion (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$939.38 million (2023 est.)<br>
--$2.518 billion (2022 est.)<br>
+$998.628 million (2023 est.)<br>
+-$2.372 billion (2022 est.)<br>
 -$5.363 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$2.999 billion (2023 est.)<br>
-$2.733 billion (2022 est.)<br>
+$3.02 billion (2023 est.)<br>
+$2.755 billion (2022 est.)<br>
 $2.52 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
@@ -503,8 +532,8 @@ palm oil, soybean oil, garments, synthetic fibers, knotted carpets (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$14.098 billion (2023 est.)<br>
-$15.462 billion (2022 est.)<br>
+$14.104 billion (2023 est.)<br>
+$15.463 billion (2022 est.)<br>
 $16.993 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
@@ -523,7 +552,7 @@ $9.639 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$5.677 billion (2022 est.)<br>
+$6.489 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

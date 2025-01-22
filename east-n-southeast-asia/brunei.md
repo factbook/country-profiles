@@ -322,9 +322,15 @@ _elections/appointments_: none; the monarchy is hereditary<br>
 <strong>note </strong>- the monarch is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Council or Majlis Mesyuarat Negara Brunei (up to 45 seats; up to 30 appointed; up to 15 representatives from the country's four districts: Brunei and Muara (up to seven members), Belait (up to three), Tutong (up to three), and Temburong (up to two)); members serve 5-year terms<br>
-_elections_: January 2023 - appointed by the sultan<br>
-_election results_: Legislative Council last appointed January 2023; composition - men 30, women 4, percentage women 11.8%<br>
+_legislature name_: Legislative Council (Majlis Mesyuarat Negara)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 45 (all appointed)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 1/20/2023<br>
+_percentage of women in chamber_: 11.8%<br>
+_expected date of next election_: January 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the Court of Appeal and the High Court, each with a chief justice and 2 judges); Sharia Court (consists the Court of Appeals and the High Court); note - Brunei has a dual judicial system of secular and sharia (religious) courts; the Judicial Committee of Privy Council (in London) serves as the final appellate court for civil cases only<br>

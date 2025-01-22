@@ -305,7 +305,7 @@ _name_: Tirana (Tirane)<br>
 _geographic coordinates_: 41 19 N, 19 49 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the name Tirana first appears in a 1418 Venetian document; the origin of the name is unclear, but may derive from Tirkan Fortress, whose ruins survive on the slopes of Dajti mountain and which overlooks the city<br>
+_etymology_: the name "Tirana" first appears in a 1418 Venetian document; the origin of the name is unclear<br>
 
 **Administrative divisions**<br>
 12 counties (qarqe, singular - qark); Berat, Diber, Durres, Elbasan, Fier, Gjirokaster, Korce, Kukes, Lezhe, Shkoder, Tirane (Tirana), Vlore<br>
@@ -343,9 +343,17 @@ _elections/appointments_: president indirectly elected by the Assembly for a 5-y
 _election results_: <em><br>2022: </em>Bajram BEGAJ elected president in the fourth round; Assembly vote - 78-4, opposition parties boycotted<br><em><br>2017:</em> Ilir META elected president in the fourth round; Assembly vote - 87-2<br>
 
 **Legislative branch**<br>
-_description_: unicameral Assembly or Kuvendi (140 seats; members directly elected in multi-seat constituencies by open party-list proportional representation vote using the D'Hondt method; members serve 4-year terms)<br>
-_elections_: last held on 25 April 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party/coalition - PS 48.7%, PD-Alliance for Change 39.4%, LSI 6.8%, PSD 2.3%, other 2.8%; seats by party/coalition - PS 74, PD-Alliance for Change 59, LSI 4, PSD 3; composition - men 90, women 50, percentage 35.7%<br>
+_legislature name_: Albanian Parliament<br>
+_legislative structure_: unicameral<br>
+_chamber name_: Parliament (Kuvendi)<br>
+_number of seats_: 140 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 4/25/2021<br>
+_parties elected and seats per party_: Socialist Party of Albania (PS) (74); Democratic Party (PD) (59); Other (7)<br>
+_percentage of women in chamber_: 35.7%<br>
+_expected date of next election_: April 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 19 judges, including the chief justice); Constitutional Court (consists of 9 judges, including the chairman)<br>
@@ -396,31 +404,31 @@ _selected World Heritage Site locales_: Butrint (c); Historic Berat and Gjirokas
 upper-middle -income Balkan economy; EU accession candidate; growth bolstered by tourism, services, construction, and private consumption; fiscal consolidation through revenue collection to address public debt; challenges include weak governance, corruption, climate adaptation, vulnerability to energy sector shocks, and emigration of workers<br>
 
 **Real GDP (purchasing power parity)**<br>
-$49.592 billion (2023 est.)<br>
-$47.943 billion (2022 est.)<br>
-$45.723 billion (2021 est.)<br>
+$50.098 billion (2023 est.)<br>
+$48.201 billion (2022 est.)<br>
+$45.981 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.44% (2023 est.)<br>
-4.86% (2022 est.)<br>
+3.94% (2023 est.)<br>
+4.83% (2022 est.)<br>
 8.91% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$18,100 (2023 est.)<br>
-$17,300 (2022 est.)<br>
-$16,300 (2021 est.)<br>
+$18,200 (2023 est.)<br>
+$17,400 (2022 est.)<br>
+$16,400 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$22.978 billion (2023 est.)<br>
+$23.547 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.76% (2023 est.)<br>
 6.73% (2022 est.)<br>
 2.04% (2021 est.)<br>
-1.62% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -429,18 +437,18 @@ _Standard & Poors rating_: B+ (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 18.3% (2023 est.)<br>
-_industry_: 21.2% (2023 est.)<br>
+_agriculture_: 16.2% (2023 est.)<br>
+_industry_: 23% (2023 est.)<br>
 _services_: 48% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 75.5% (2023 est.)<br>
-_government consumption_: 11.1% (2023 est.)<br>
-_investment in fixed capital_: 24.4% (2023 est.)<br>
-_investment in inventories_: 0.5% (2021 est.)<br>
-_exports of goods and services_: 39.6% (2023 est.)<br>
-_imports of goods and services_: -44.9% (2023 est.)<br>
+_household consumption_: 70.2% (2023 est.)<br>
+_government consumption_: 12% (2023 est.)<br>
+_investment in fixed capital_: 24% (2023 est.)<br>
+_investment in inventories_: -1.1% (2023 est.)<br>
+_exports of goods and services_: 38.7% (2023 est.)<br>
+_imports of goods and services_: -43.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -451,11 +459,11 @@ milk, maize, tomatoes, potatoes, watermelons, wheat, grapes, olives, cucumbers/g
 food; footwear, apparel and clothing; lumber, oil, cement, chemicals, mining, basic metals, hydropower<br>
 
 **Industrial production growth rate**<br>
-4.03% (2023 est.)<br>
+3.08% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.388 million (2023 est.)<br>
+1.371 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -484,9 +492,9 @@ _highest 10%_: 22.8% (2020 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-8.57% of GDP (2023 est.)<br>
-9.23% of GDP (2022 est.)<br>
-9.58% of GDP (2021 est.)<br>
+8.65% of GDP (2023 est.)<br>
+9.18% of GDP (2022 est.)<br>
+9.53% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -495,21 +503,21 @@ _expenditures_: $4.4 billion (2021 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-82.38% of GDP (2021 est.)<br>
+81.92% of GDP (2021 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-18.2% (of GDP) (2021 est.)<br>
+18.1% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$202.323 million (2023 est.)<br>
+-$281.7 million (2023 est.)<br>
 -$1.117 billion (2022 est.)<br>
 -$1.37 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$9.178 billion (2023 est.)<br>
+$9.099 billion (2023 est.)<br>
 $7.057 billion (2022 est.)<br>
 $5.612 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -523,7 +531,7 @@ garments, footwear, iron alloys, electricity, crude petroleum (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$10.373 billion (2023 est.)<br>
+$10.374 billion (2023 est.)<br>
 $9.016 billion (2022 est.)<br>
 $8.004 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -543,7 +551,7 @@ $5.635 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$4.624 billion (2022 est.)<br>
+$5.6 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -612,7 +620,7 @@ _domestic_: fixed-line approximately 7 per 100, teledensity continues to decline
 _international_: country code - 355; submarine cables&nbsp;for the Adria 1 and Italy-Albania provide connectivity to Italy, Croatia, and Greece; a combination submarine cable and land fiber-optic system, provides additional connectivity to Bulgaria, Macedonia, and Turkey; international traffic carried by fiber-optic cable and, when necessary, by microwave radio relay from the Tirana exchange to Italy and Greece (2019)<br>
 
 **Broadcast media**<br>
-Albania has more than 65 TV stations, including several that broadcast nationally; Albanian TV broadcasts are also available to Albanian-speaking populations in neighboring countries; many viewers have access to Italian and Greek TV broadcasts via terrestrial reception; Albania's TV stations have begun a government-mandated conversion from analog to digital broadcast; the government has pledged to provide analog-to-digital converters to low-income families affected by this decision; cable TV service is available; 2 public radio networks and roughly 78 private radio stations; several international broadcasters are available (2019)<br>
+Albania has more than 65 TV stations, including several that broadcast nationally; Albanian TV broadcasts are also available to Albanian-speaking populations in neighboring countries; many viewers have access to Italian and Greek TV broadcasts via terrestrial reception; Albania's TV stations have begun a government-mandated conversion from analog to digital broadcast; the government has pledged to provide analog-to-digital converters to low-income families affected by this decision; cable TV service is available; 2 public radio networks and roughly 78 private radio stations; several international broadcasters are available (2024)<br>
 
 **Internet country code**<br>
 .al<br>

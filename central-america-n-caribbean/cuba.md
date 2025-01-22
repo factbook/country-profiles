@@ -335,9 +335,15 @@ _election results_: <br><em>2023: </em>Miguel DIAZ-CANEL Bermudez (PCC) reelecte
 <em>note</em> - on 19 April 2018, DIAZ-CANEL succeeded Raul CASTRO as president of the Councils of State and Ministers; on 10 October 2019 he was elected to the newly created position of President of the Republic, which replaced the position of President of the Councils of State and Ministers<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly of People's Power or Asamblea Nacional del Poder Popular (474 seats; (470 seats filled in 2023); members directly elected by absolute majority vote; members serve 5-year terms)<br>
-_elections_: last held on 26 March 2023 (next to be held in early 2028)<br>
-_election results_: Cuba's Communist Party is the only legal party, and officially sanctioned candidates run unopposed; composition- men 208, women 262, percent of women 55.7%<br>
+_legislature name_: National Assembly of the People's Power (Asamblea nacional del Poder popular)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 470 (all directly elected)<br>
+_electoral system_: other systems<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 3/26/2023<br>
+_percentage of women in chamber_: 55.7%<br>
+_expected date of next election_: March 2028<br>
 <strong>note:</strong> the National Candidature Commission submits a slate of approved candidates; to be elected, candidates must receive more than 50% of valid votes, otherwise the seat remains vacant or the Council of State can declare another election<br>
 
 **Judicial branch**<br>
@@ -359,7 +365,7 @@ _FAX_: [1] (202) 797-8521<br>
 _email address and website_: <br>recepcion@usadc.embacuba.cu<br><br>https://misiones.cubaminrex.cu/en/usa/embassy-cuba-usa<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Benjamin G. ZIFF (since 14 July 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Mike HAMMER (since 14 November 2024)<br>
 _embassy_: Calzada between L &amp; M Streets, Vedado, Havana<br>
 _mailing address_: 3200 Havana Place, Washington DC&nbsp; 20521-3200<br>
 _telephone_: [53] (7) 839-4100<br>
@@ -394,9 +400,9 @@ $134.2 billion (2015 est.)<br>
 <strong>note:</strong> data are in 2016 dollars<br>
 
 **Real GDP growth rate**<br>
+-1.93% (2023 est.)<br>
 1.77% (2022 est.)<br>
 1.25% (2021 est.)<br>
--10.95% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
@@ -440,11 +446,11 @@ sugarcane, cassava, plantains, vegetables, mangoes/guavas, milk, pumpkins/squash
 petroleum, nickel, cobalt, pharmaceuticals, tobacco, construction, steel, cement, agricultural machinery, sugar<br>
 
 **Industrial production growth rate**<br>
--6.73% (2022 est.)<br>
+-1.56% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.317 million (2023 est.)<br>
+5.238 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>

@@ -340,9 +340,16 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <br><em>2021:</em> Patrice TALON reelected president in the ; percent of vote - Patrice TALON (independent) 86.3%, Alassane SOUMANOU (FCBE) 11.4%, Corentin KOHOUE (The Democrats) 2.3%<br><br><em>2016:</em> Patrice TALON elected president in second round; percent of vote in first round - Lionel ZINSOU (FCBE) 28.4%, Patrice TALON (independent) 24.8%, Sebastien AJAVON (independent) 23%, Abdoulaye Bio TCHANE (ABT) 8.8%, Pascal KOUPAKI (NC) 5.9%, other 9.1%; percent of vote in second round - Patrice TALON 65.4%, Lionel ZINSOU 34.6%<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Assemblee Nationale (109 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms except for the current members whose terms will end in 2026 to facilitate general elections)<br>
-_elections_: last held on 8 January 2023 (next to be held on 11 January 2027)<br>
-_election results_: percent of vote by party - Progressive Union for Renewal 37.6%, Bloc Republicain 29.2%, The Democrats 24%; seats by party - Progressive Union for Renewal 53, Bloc Republicain 28, The Democrats 28; composition- men 80, women 29, percentage women 26.6%<br>
+_legislature name_: National Assembly (Assemblée nationale)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 109 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 1/8/2023<br>
+_parties elected and seats per party_: Progressive Union for Renewal (53); Republican Block (BR) (28); Democrats (28)<br>
+_percentage of women in chamber_: 26.6%<br>
+_expected date of next election_: January 2026<br>
 <strong>note:</strong> seat total includes 24 seats reserved for women<br>
 
 **Judicial branch**<br>
@@ -406,13 +413,13 @@ $46.468 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$3,800 (2023 est.)<br>
-$3,700 (2022 est.)<br>
-$3,600 (2021 est.)<br>
+$3,700 (2023 est.)<br>
+$3,600 (2022 est.)<br>
+$3,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$19.673 billion (2023 est.)<br>
+$19.676 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -454,7 +461,7 @@ textiles, food processing, construction materials, cement<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.964 million (2023 est.)<br>
+5.147 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -470,7 +477,7 @@ _female_: 4.6% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-38.5% (2019 est.)<br>
+38.5% (2018 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -484,7 +491,7 @@ _highest 10%_: 27.2% (2021 est.)<br>
 
 **Remittances**<br>
 1.19% of GDP (2023 est.)<br>
-1.32% of GDP (2022 est.)<br>
+1.44% of GDP (2022 est.)<br>
 1.31% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -499,15 +506,15 @@ _expenditures_: $2.101 billion (2019 est.)<br>
 17.1% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
+-$1.046 billion (2022 est.)<br>
 -$734.659 million (2021 est.)<br>
 -$273.967 million (2020 est.)<br>
--$575.593 million (2019 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$4.271 billion (2022 est.)<br>
 $4.154 billion (2021 est.)<br>
 $3.506 billion (2020 est.)<br>
-$3.585 billion (2019 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -519,9 +526,9 @@ cotton, gold, coconuts/Brazil nuts/cashews, soybeans, oil seeds (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$5.296 billion (2022 est.)<br>
 $4.925 billion (2021 est.)<br>
 $3.942 billion (2020 est.)<br>
-$4.307 billion (2019 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -537,7 +544,7 @@ $698.9 million (31 December 2017 est.)<br>
 $57.5 million (31 December 2016 est.)<br>
 
 **Debt - external**<br>
-$5.328 billion (2022 est.)<br>
+$6.792 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

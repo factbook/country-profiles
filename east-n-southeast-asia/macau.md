@@ -254,15 +254,21 @@ see China<br>
 
 **Executive branch**<br>
 _chief of state_: President of China XI Jinping (since 14 March 2013)<br>
-_head of government_: Chief Executive HO lat Seng (since 20 December 2019)<br>
+_head of government_: Chief Executive Sam Hou FAI (since 20 December 2024)<br>
 _cabinet_: Executive Council appointed by the chief executive<br>
 _elections/appointments_: president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); election last held on 10 March 2023 (next to be held in March 2028); chief executive chosen by a 400-member Election Committee for a 5-year term (eligible for a second term); election last held on 13 October 2024 (next to be held in 2029)<br>
 _election results_: <em>2024:</em> Sam Hou FAI (unopposed; received 394 out of 400 votes)<br><br><em>2019:</em> HO lat Seng (unopposed; received 392 out of 400 votes)<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Assembly or Regiao Administrativa Especial de Macau (33 seats; 14 members directly elected by proportional representation vote, 12 indirectly elected by an electoral college of professional and commercial interest groups, and 7 appointed by the chief executive; members serve 4-year terms)<br>
-_elections_: last held on 12 September 2021 (next to be held in September 2025)<br>
-_election results_: percent of vote - ACUM 20.1%, UPD 18%, NE 13.8%, UMG 12.7%, UPP 11.4%, ABL 10.8%, PS 6.6%, other 6.6%; seats by political group - ACUM 3, UPD 2, UGM 2, UPP 2, ABL 2, NE 2, PS 1; composition - men NA, women NA, percentage women NA%<br>
+_legislature name_: Legislative Assembly (Regiao Administrativa Especial de Macau)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 33 (14 directly elected, 12 indirectly elected, 7 appointed)<br>
+_electoral system_: mixed<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 9/12/2021<br>
+_parties elected and seats per party_: United Citizens Association of Macau (ACUM) (3); Union for Development (UPD) (2); Macau-Guangdong Union (UGM) (2); Union for Promoting Progress (UPP) (2); Alliance for a Happy Home (ABL) (2); New Hope (NE) (2); Association of Synergy of Macau (PS) (1)<br>
+_expected date of next election_: September 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Final Appeal of Macau Special Administrative Region (consists of the court president and 2 associate justices)<br>
@@ -297,31 +303,31 @@ lotus blossom; national colors: green, white, yellow<br>
 high-income, Chinese special administrative region economy; known for apparel exports and gambling tourism; currency pegged to Hong Kong dollar; significant recession due to 2015 Chinese anticorruption campaign; COVID-19 further halved economic activity<br>
 
 **Real GDP (purchasing power parity)**<br>
-$71.837 billion (2023 est.)<br>
-$39.791 billion (2022 est.)<br>
+$71.248 billion (2023 est.)<br>
+$40.699 billion (2022 est.)<br>
 $50.626 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-80.53% (2023 est.)<br>
--21.4% (2022 est.)<br>
+75.06% (2023 est.)<br>
+-19.61% (2022 est.)<br>
 23.54% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$102,000 (2023 est.)<br>
-$57,200 (2022 est.)<br>
-$73,700 (2021 est.)<br>
+$105,000 (2023 est.)<br>
+$60,100 (2022 est.)<br>
+$74,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$47.062 billion (2023 est.)<br>
+$45.803 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+0.48% (2023 est.)<br>
 1.05% (2022 est.)<br>
 0.03% (2021 est.)<br>
-0.81% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -330,17 +336,17 @@ _Moody's rating_: Aa3 (2016)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_industry_: 9.5% (2022 est.)<br>
-_services_: 90.1% (2022 est.)<br>
+_industry_: 5.4% (2023 est.)<br>
+_services_: 91.4% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 29% (2023 est.)<br>
-_government consumption_: 13.7% (2023 est.)<br>
-_investment in fixed capital_: 13.5% (2023 est.)<br>
-_investment in inventories_: 0.4% (2023 est.)<br>
-_exports of goods and services_: 92.7% (2023 est.)<br>
-_imports of goods and services_: -49.3% (2023 est.)<br>
+_household consumption_: 30.1% (2023 est.)<br>
+_government consumption_: 13.8% (2023 est.)<br>
+_investment in fixed capital_: 14.6% (2023 est.)<br>
+_investment in inventories_: 0.9% (2023 est.)<br>
+_exports of goods and services_: 91.4% (2023 est.)<br>
+_imports of goods and services_: -50.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -351,11 +357,11 @@ pork, chicken, beef, eggs, pork offal, pork fat, pepper, beef offal, cattle hide
 tourism, gambling, clothing, textiles, electronics, footwear, toys<br>
 
 **Industrial production growth rate**<br>
--5.63% (2022 est.)<br>
+6.78% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-407,000 (2023 est.)<br>
+396,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -371,8 +377,8 @@ _female_: 5.3% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
-0.19% of GDP (2023 est.)<br>
-0.34% of GDP (2022 est.)<br>
+0.23% of GDP (2023 est.)<br>
+0.33% of GDP (2022 est.)<br>
 0.24% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -385,19 +391,19 @@ _expenditures_: $12.259 billion (2022 est.)<br>
 0% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-17.07% (of GDP) (2022 est.)<br>
+16.7% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$2.782 billion (2022 est.)<br>
+$16.955 billion (2023 est.)<br>
+$2.845 billion (2022 est.)<br>
 $2.683 billion (2021 est.)<br>
-$3.635 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$20.985 billion (2022 est.)<br>
+$43.613 billion (2023 est.)<br>
+$21.071 billion (2022 est.)<br>
 $28.163 billion (2021 est.)<br>
-$15.578 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -409,9 +415,9 @@ jewelry, garments, broadcasting equipment, precious metal watches, trunks and ca
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$21.795 billion (2022 est.)<br>
-$23.769 billion (2021 est.)<br>
-$15.214 billion (2020 est.)<br>
+$23.18 billion (2023 est.)<br>
+$21.405 billion (2022 est.)<br>
+$23.77 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

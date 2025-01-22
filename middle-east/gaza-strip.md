@@ -260,13 +260,13 @@ _etymology_: named for the largest city in the enclave, Gaza, whose settlement c
 ## Economy
 
 **Real GDP (purchasing power parity)**<br>
-$27.418 billion (2023 est.)<br>
+$27.446 billion (2023 est.)<br>
 $29.016 billion (2022 est.)<br>
 $27.878 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars; entry includes West Bank and Gaza Strip<br>
 
 **Real GDP growth rate**<br>
--5.51% (2023 est.)<br>
+-5.41% (2023 est.)<br>
 4.08% (2022 est.)<br>
 7.01% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency; entry includes West Bank and Gaza Strip<br>
@@ -278,7 +278,7 @@ $5,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars; entry includes West Bank and Gaza Strip<br>
 
 **GDP (official exchange rate)**<br>
-$17.396 billion (2023 est.)<br>
+$17.421 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate; entry includes West Bank and Gaza Strip<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -294,12 +294,12 @@ _services_: 58.3% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 101.6% (2023 est.)<br>
-_government consumption_: 20.2% (2023 est.)<br>
-_investment in fixed capital_: 24.8% (2023 est.)<br>
+_household consumption_: 101.5% (2023 est.)<br>
+_government consumption_: 20.3% (2023 est.)<br>
+_investment in fixed capital_: 24.7% (2023 est.)<br>
 _investment in inventories_: 1.5% (2023 est.)<br>
 _exports of goods and services_: 19.6% (2023 est.)<br>
-_imports of goods and services_: -66.9% (2023 est.)<br>
+_imports of goods and services_: -66.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -314,7 +314,7 @@ textiles, food processing, furniture<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency; entry includes West Bank and Gaza Strip<br>
 
 **Labor force**<br>
-1.389 million (2022 est.)<br>
+1.391 million (2022 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work; entry includes West Bank and Gaza Strip<br>
 
 **Unemployment rate**<br>
@@ -343,8 +343,8 @@ _highest 10%_: 25.2% (2016 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population; entry includes West Bank and Gaza Strip<br>
 
 **Remittances**<br>
-21.84% of GDP (2023 est.)<br>
-21.13% of GDP (2022 est.)<br>
+18.62% of GDP (2023 est.)<br>
+23.98% of GDP (2022 est.)<br>
 20.77% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities; entry includes West Bank and Gaza Strip<br>
 
@@ -358,15 +358,15 @@ see entry for the West Bank<br>
 <b>note:</b> central government tax revenue as a % of GDP; entry includes West Bank and Gaza Strip<br>
 
 **Current account balance**<br>
+-$2.895 billion (2023 est.)<br>
 -$2.037 billion (2022 est.)<br>
 -$1.778 billion (2021 est.)<br>
--$1.903 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars; entry includes West Bank and Gaza Strip<br>
 
 **Exports**<br>
+$3.413 billion (2023 est.)<br>
 $3.533 billion (2022 est.)<br>
 $3.14 billion (2021 est.)<br>
-$2.385 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars; entry includes West Bank and Gaza Strip<br>
 
 **Exports - partners**<br>
@@ -378,9 +378,9 @@ building stone, scrap iron, plastic products, furniture, seats (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars; entry includes the West Bank and the Gaza Strip<br>
 
 **Imports**<br>
+$11.637 billion (2023 est.)<br>
 $12.257 billion (2022 est.)<br>
 $10.094 billion (2021 est.)<br>
-$8.065 billion (2020 est.)<br>
 <strong>note:</strong> balance of payments - imports of goods and services in current dollars; entry includes West Bank and Gaza Strip<br>
 
 **Imports - partners**<br>

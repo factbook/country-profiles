@@ -299,8 +299,7 @@ _name_: Luanda<br>
 _geographic coordinates_: 8 50 S, 13 13 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: does not observe daylight savings time<br>
-_etymology_: originally named "Sao Paulo da Assuncao de Loanda" (Saint Paul of the Assumption of Loanda), which over time was shortened and corrupted to just Luanda<br>
-&nbsp;<br>
+_etymology_: the Portuguese named the city "S&atilde;o Paulo da Assun&ccedil;&atilde;o de Loanda" (Saint Paul of the Assumption of Loanda), which over time was shortened to "Luanda," a word that may have been derived from the local Bantu language<br>
 
 **Administrative divisions**<br>
 18 provinces (provincias, singular - provincia); Bengo, Benguela, Bie, Cabinda, Cuando Cubango, Cuanza-Norte, Cuanza-Sul, Cunene, Huambo, Huila, Luanda, Lunda-Norte, Lunda-Sul, Malanje, Moxico, Namibe, Uige, Zaire<br>
@@ -338,9 +337,16 @@ _elections/appointments_: the candidate of the winning party or coalition in the
 _election results_: Joao Manuel Goncalves LOURENCO (MPLA) elected president by then winning party following the 24 August 2022 general election<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Assembleia Nacional (220 seats; members directly elected in a single national constituency and in multi-seat constituencies by closed list proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 24 August 2022 (next to be held in 2027)<br>
-_election results_: percent of vote by party - MPLA 51.1%, UNITA 43.9%, FNLA 1.1%, PHA 1%, PRS 1.1%, other 1.7%; seats by party - MPLA 124, UNITA 90, FNLA 2, PHA 2, PRS 2; composition- men 135, women 85, percentage women 38.6%<br>
+_legislature name_: National Assembly (Assembleia nacional)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 220 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 8/24/2022<br>
+_parties elected and seats per party_: Popular Movement for the Liberation of Angola (MPLA) (124); National Union for the Total Independence of Angola (UNITA) (90); Other (6)<br>
+_percentage of women in chamber_: 39.5%<br>
+_expected date of next election_: August 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Tribunal Supremo (consists of the court president, vice president, and a minimum of 16 judges); Constitutional Court or Tribunal Constitucional (consists of 11 judges)<br>
@@ -390,14 +396,14 @@ _selected World Heritage Site locales_: Mbanza-Kongo<br>
 middle-income, oil-dependent African economy; widespread poverty; rising inflation and currency depreciation; seeking diversification through agricultural production; significant corruption in public institutions; major infrastructure investments from China and US; exited OPEC in 2023<br>
 
 **Real GDP (purchasing power parity)**<br>
-$265.868 billion (2023 est.)<br>
-$263.611 billion (2022 est.)<br>
+$266.249 billion (2023 est.)<br>
+$263.61 billion (2022 est.)<br>
 $255.821 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.86% (2023 est.)<br>
-3.05% (2022 est.)<br>
+1% (2023 est.)<br>
+3.04% (2022 est.)<br>
 1.2% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
@@ -408,7 +414,7 @@ $7,400 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$84.723 billion (2023 est.)<br>
+$84.825 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -426,15 +432,16 @@ _Standard & Poors rating_: CCC+ (2020)<br>
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 14.9% (2023 est.)<br>
 _industry_: 45.3% (2023 est.)<br>
-_services_: 39.7% (2023 est.)<br>
+_services_: 39.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 53.8% (2023 est.)<br>
-_government consumption_: 6.4% (2023 est.)<br>
-_investment in fixed capital_: 26.6% (2023 est.)<br>
-_exports of goods and services_: 39.9% (2023 est.)<br>
-_imports of goods and services_: -26.7% (2023 est.)<br>
+_household consumption_: 56.4% (2023 est.)<br>
+_government consumption_: 5.2% (2023 est.)<br>
+_investment in fixed capital_: 23.8% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
+_exports of goods and services_: 40.9% (2023 est.)<br>
+_imports of goods and services_: -26.2% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -445,11 +452,11 @@ cassava, bananas, maize, sweet potatoes, sugarcane, pineapples, tomatoes, onions
 petroleum; diamonds, iron ore, phosphates, feldspar, bauxite, uranium, and gold; cement; basic metal products; fish processing; food processing, brewing, tobacco products, sugar; textiles; ship repair<br>
 
 **Industrial production growth rate**<br>
--7.18% (2023 est.)<br>
+-1% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-15.223 million (2023 est.)<br>
+15.315 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -500,7 +507,7 @@ _expenditures_: $13.871 billion (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$4.21 billion (2023 est.)<br>
+$4.185 billion (2023 est.)<br>
 $11.763 billion (2022 est.)<br>
 $8.399 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
@@ -520,7 +527,7 @@ crude petroleum, natural gas, diamonds, ships, refined petroleum (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$23.676 billion (2023 est.)<br>
+$23.688 billion (2023 est.)<br>
 $28.564 billion (2022 est.)<br>
 $18.845 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -540,7 +547,7 @@ $14.468 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$46.549 billion (2022 est.)<br>
+$46.196 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -608,7 +615,7 @@ _domestic_: less than one fixed-line per 100 persons; mobile-cellular teledensit
 _international_: country code - 244; landing points for the SAT-3/WASC, WACS, ACE and SACS&nbsp;fiber-optic submarine cable that provides connectivity to other countries in west Africa, Brazil, Europe and Asia; satellite earth stations - 29, Angosat-2 satellite expected by 2021 (2019)<br>
 
 **Broadcast media**<br>
-state controls all broadcast media with nationwide reach; state-owned Televisao Popular de Angola (TPA) provides terrestrial TV service on 2 channels; a third TPA channel is available via cable and satellite; TV subscription services are available; state-owned Radio Nacional de Angola (RNA) broadcasts on 26 stations; approximately20 private radio stations broadcast locally<br>
+State-owned media dominate the media landscape, the many privately owned newspapers that emerged following the advent of multiparty politics in 1992, only four still exist in print form, State-run Radio Nacional de Angola (RNA) is the only outlet to offer programs in indigenous languages such as Bantu, private stations operate in cities, including Catholic Radio Ecclesia, but RNA is the only broadcaster with near-national coverage (2023)<br>
 
 **Internet country code**<br>
 .ao<br>

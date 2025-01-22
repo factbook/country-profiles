@@ -340,9 +340,16 @@ _cabinet_: Council of State appointed by the monarch, approved by Parliament<br>
 _elections/appointments_: the monarchy is hereditary; following parliamentary elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch with the approval of the parliament<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament or Storting (169 seats; members directly elected in multi-seat constituencies by list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 13 September 2021 (next to be held by September 2025)<br>
-_election results_: percent of vote by party - Ap 26.3%, H 20.5%, SP 13.6%, FrP 11.7%, SV 7.6%, R 4.7%, V 4.6%, MDG 3.9%, KrF 3.8%, PF 0.2%, other 3.1%; seats by party - Ap 48, H 36, SP 28, FrP 21, SV 13, R 8, V 8, , KrF 3, MDG 3, PF 1; composition - men 94, women 75, percentage women 44.4%<br>
+_legislature name_: Parliament (Stortinget)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 169 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 9/13/2021<br>
+_parties elected and seats per party_: Labour Party (48); Conservative Party (36); Center Party (28); Progress Party (21); Socialist Left Party (13); Other (23)<br>
+_percentage of women in chamber_: 44.4%<br>
+_expected date of next election_: September 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Hoyesterett (consists of the chief justice and 18 associate justices)<br>
@@ -364,7 +371,7 @@ _email address and website_: <br>emb.washington@mfa.no<br><br>https://www.norway
 _consulate(s) general_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Sharon HUDSON-DEAN (since February 2024)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Eric MEYER (since August 2024)<br>
 _embassy_: Morgedalsvegen 36, 0378 Oslo<br>
 _mailing address_: 5460 Oslo Place, Washington DC&nbsp; 20521-5460<br>
 _telephone_: [47] 21-30-85-40<br>

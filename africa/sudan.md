@@ -343,7 +343,6 @@ _election results_: NA<br>
 <strong>note 1:</strong> the 2019 Constitutional Declaration established a collective chief of state of the "Sovereign Council," which was chaired by al-BURHAN; on 25 October 2021, al-BURHAN dissolved the Sovereign Council but reinstated it on 11 November 2021, replacing its civilian members (previously selected by the umbrella civilian coalition the Forces for Freedom and Change) with civilians of the military’s choosing but then relieved the newly appointed civilian members of their duties on 6 July 2022<br><br><strong>note 2:</strong> Sovereign Council currently consists of only the 5 generals<br><br><strong>note 3: </strong>former Prime Minister Abdallah HAMDOUK resigned on 2 January 2022; HAMDOUK served as prime minister from August 2019 to October 2019 before he was kidnapped; he was later freed and reinstated as prime minister on 21 November 2021<br>
 
 **Legislative branch**<br>
-_elections_: Council of State - last held 1 June 2015; dissolved in April 2019<br>National Assembly - last held on 13-15 April 2015; dissolved in April 2019<br>
 <strong>note:</strong>  the Parliament of Sudan was dissolved after a coup in April 2019; the August 2019 Constitutional Declaration established Sudan's transitional government; a Transitional Legislative Council (TLC) was to have served as the national legislature during the transitional period until elections could be held, but the TLC has not been created<br>
 
 **Judicial branch**<br>
@@ -394,25 +393,25 @@ _selected World Heritage Site locales_: Gebel Barkal and the Sites of the Napata
 <p>low-income Sahel economy devastated by ongoing civil war; major impacts on rural income, basic commodity prices, industrial production, agricultural supply chain, communications and commerce; hyperinflation and currency depreciation worsening food access and humanitarian conditions</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$136.039 billion (2023 est.)<br>
+$123.565 billion (2023 est.)<br>
 $154.672 billion (2022 est.)<br>
 $156.168 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--12.05% (2023 est.)<br>
+-20.11% (2023 est.)<br>
 -0.96% (2022 est.)<br>
 -1.87% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$2,800 (2023 est.)<br>
-$3,300 (2022 est.)<br>
-$3,400 (2021 est.)<br>
+$2,500 (2023 est.)<br>
+$3,100 (2022 est.)<br>
+$3,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$109.327 billion (2023 est.)<br>
+$109.266 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -422,17 +421,18 @@ $109.327 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 5.6% (2023 est.)<br>
-_industry_: 5.2% (2023 est.)<br>
-_services_: 7.6% (2023 est.)<br>
+_agriculture_: 5.5% (2023 est.)<br>
+_industry_: 5.1% (2023 est.)<br>
+_services_: 7.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 81.7% (2023 est.)<br>
-_government consumption_: 16.2% (2023 est.)<br>
-_investment in fixed capital_: 2% (2023 est.)<br>
-_exports of goods and services_: 1.2% (2023 est.)<br>
-_imports of goods and services_: -1% (2023 est.)<br>
+_household consumption_: 80.7% (2023 est.)<br>
+_government consumption_: 17.4% (2023 est.)<br>
+_investment in fixed capital_: 2.2% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
+_exports of goods and services_: 1.1% (2023 est.)<br>
+_imports of goods and services_: -1.4% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -443,11 +443,11 @@ sorghum, sugarcane, milk, groundnuts, millet, onions, sesame seeds, goat milk, b
 oil, cotton ginning, textiles, cement, edible oils, sugar, soap distilling, shoes, petroleum refining, pharmaceuticals, armaments, automobile/light truck assembly, milling<br>
 
 **Industrial production growth rate**<br>
--11.6% (2023 est.)<br>
+-19.71% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-13.59 million (2023 est.)<br>
+14.149 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -472,7 +472,7 @@ _highest 10%_: 27.8% (2014 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.91% of GDP (2023 est.)<br>
+0.92% of GDP (2023 est.)<br>
 2.9% of GDP (2022 est.)<br>
 3.27% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -530,7 +530,7 @@ $173.516 million (2015 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$19.642 billion (2022 est.)<br>
+$21.878 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

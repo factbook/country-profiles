@@ -324,16 +324,23 @@ _residency requirement for naturalization_: unknown<br>
 21 years of age; authorized for all men and women regardless of religion; excludes persons convicted of felonies and other crimes or those imprisoned; excludes all military and security service personnel regardless of rank<br>
 
 **Executive branch**<br>
-_chief of state_: president (vacant)<br>
-_head of government_: Caretaker Prime Minister Najib MIQATI (since 20 September 2021)<br>
-_cabinet_: Cabinet chosen by the prime minister in consultation with the president and Parliament<br>
-_elections/appointments_: president indirectly elected by a qualified majority of two-thirds of Parliament members in the first round and if needed a two-thirds quorum of members by simple majority vote in a second round for a 6-year term (eligible for non-consecutive terms); last held on 31 October 2016; prime minister appointed by the president in consultation with Parliament<br>
-_election results_: <br><em>2023:</em> on 14 June 2023, Parliament failed in its twelfth attempt to elect a president; note - the Hezbollah bloc withdrew following the first round of voting and a second round was not possible since Parliament lacked the required 86-member quorum for a second round of voting<br><em><br>2016:</em> Michel AWN elected president in second round; Parliament vote - Michel AWN (FPM) 83; the president was finally elected in its 46th attempt on 31 October 2016<br>
+_chief of state_: President Joseph AOUN (since 9 January 2025)<br>
+_head of government_: Prime Minister Najib MIQATI (since 20 September 2021)<br>
+_cabinet_: Cabinet chosen by the prime minister in consultation with the president and the National Assembly<br>
+_elections/appointments_: president indirectly elected by a qualified majority of two-thirds of Parliament members in the first round and if needed a two-thirds quorum of members by simple majority popular vote for a 6-year term (eligible for non-consecutive terms); last held on 9 January 2025 (next to be held in 2031); prime minister appointed by the president in consultation with the National Assembly<br>
+_election results_: <em>2025: </em>Joseph AOUN elected president in second round; National Assembly vote - 99 of 128; note - President Michel AWN's term ended 31 October 2022, and the government was in caretaker status until the 9 January National Assembly election of AOUN<br><em><br>2016:</em> Michel AWN elected president in second round; National Assembly vote - Michel AWN (FPM) 83; the president elected in its 46th attempt on 31 October 2016<br>
 
 **Legislative branch**<br>
-_description_: unicameral House of Representatives or Majlis al-Nuwab in Arabic, Chambre des d&eacute;put&eacute;s in French (128 seats; members directly elected in multi-member constituencies by open-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 15 May 2022 (next to be held in May 2026)<br>
-_election results_: percent of vote by party/coalition &ndash; NA; seats by party/coalition &ndash; FPM 16, LF 14, Amal Movement 13, Hezbollah 13, PSP 9, Kata&rsquo;ib Party 4, other 30, independent 29; composition - men 120, women 8, percentage women 6.3%<br>
+_legislature name_: National Assembly (Majlis Al-Nuwwab)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 128 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 5/15/2022<br>
+_parties elected and seats per party_: Strong Republic (19); Strong Lebanon (18); Development and Liberation (15); Loyalty to the Resistance (15); Independent Deputies (9); Democratic Gathering (8); Independents (20); Other (24)<br>
+_percentage of women in chamber_: 6.3%<br>
+_expected date of next election_: May 2026<br>
 <strong>note 1:</strong> Lebanon’s constitution states that the Parliament cannot conduct regular business until it elects a president when the position is vacant <br><strong><br>note 2:</strong> seats are apportioned evenly between Christians and Muslims<br>
 
 **Judicial branch**<br>
@@ -397,12 +404,12 @@ $66.329 billion (2021 est.)<br>
 
 **Real GDP per capita**<br>
 $12,300 (2023 est.)<br>
-$12,000 (2022 est.)<br>
-$11,900 (2021 est.)<br>
+$11,500 (2022 est.)<br>
+$11,600 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$17.937 billion (2023 est.)<br>
+$20.992 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -418,17 +425,18 @@ _Standard & Poors rating_: D (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.1% (2023 est.)<br>
-_industry_: 2.4% (2023 est.)<br>
-_services_: 47.7% (2023 est.)<br>
+_agriculture_: 1.2% (2022 est.)<br>
+_industry_: 2.4% (2022 est.)<br>
+_services_: 88.6% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 129.7% (2023 est.)<br>
-_government consumption_: 5.8% (2023 est.)<br>
-_investment in fixed capital_: 0.9% (2023 est.)<br>
-_exports of goods and services_: 46.1% (2023 est.)<br>
-_imports of goods and services_: -82.4% (2023 est.)<br>
+_household consumption_: 140.4% (2022 est.)<br>
+_government consumption_: 3.6% (2022 est.)<br>
+_investment in fixed capital_: 1.2% (2022 est.)<br>
+_investment in inventories_: 0% (2022 est.)<br>
+_exports of goods and services_: 34.8% (2022 est.)<br>
+_imports of goods and services_: -80.1% (2022 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -439,11 +447,11 @@ potatoes, milk, tomatoes, apples, oranges, olives, cucumbers/gherkins, chicken, 
 banking, tourism, real estate and construction, food processing, wine, jewelry, cement, textiles, mineral and chemical products, wood and furniture products, oil refining, metal fabricating<br>
 
 **Industrial production growth rate**<br>
-0.74% (2023 est.)<br>
+-0.56% (2022 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.771 million (2023 est.)<br>
+1.925 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -522,7 +530,7 @@ $42.44 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$38.856 billion (2022 est.)<br>
+$41.991 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

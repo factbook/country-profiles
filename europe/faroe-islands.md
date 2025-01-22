@@ -277,9 +277,16 @@ _cabinet_: Landsstyri appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; high commissioner appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by the Faroese Parliament; election last held on 8 December 2022 (next to be held in 2026)<br>
 
 **Legislative branch**<br>
-_description_: unicameral Faroese Parliament or Logting (33 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
-_elections_: Faroese Parliament - last held on 8 December 2022 (next to be held in 2026)<br><br>Faroese seats in the Danish Parliament last held on 31 October 2022 (next to be held no later than 31 October 2026)<br>
-_election results_: Faroese Parliament percent of vote by party - JF 26.6%, B 20%, A 18.9%, E 17.7%, F 7.5%, H 6.6%, seats by party - JF 9, B 7, A 6, E 6, F 3, H 2; composition - men 24, women 9; percentage women 27.3%<br><br>Faroese seats in Danish Parliament - percent of vote by party - NA; seats by party - JF 1, B 1; composition - men 2, women 0; percentage women 0%<br>
+_legislature name_: Faroese Parliament (Logting)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 33 (directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 12/8/2022<br>
+_parties elected and seats per party_: JF (9); B (7); A (6); E (6); F (3); H (2)<br>
+_percentage of women in chamber_: 27.3%<br>
+_expected date of next election_: 2026<br>
 <strong>note:</strong> the Faroe Islands elect 2 members to the Danish Parliament to serve 4-year terms<br>
 
 **Judicial branch**<br>
@@ -316,25 +323,25 @@ _lyrics/music_: Simun av SKAROI/Peter ALBERG<br>
 high-income Danish territorial economy; party neither to the EU nor the Schengen Area; associate Nordic Council member; very low unemployment; unique foreign ownership allowance in fishing industry; known salmon exporter; growing IT industries<br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.798 billion (2022 est.)<br>
-$3.603 billion (2021 est.)<br>
-$3.407 billion (2020 est.)<br>
+$3.834 billion (2023 est.)<br>
+$3.741 billion (2022 est.)<br>
+$3.613 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.4% (2022 est.)<br>
+2.49% (2023 est.)<br>
+3.56% (2022 est.)<br>
 5.76% (2021 est.)<br>
--1.93% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$71,500 (2022 est.)<br>
-$68,100 (2021 est.)<br>
-$65,000 (2020 est.)<br>
+$70,400 (2023 est.)<br>
+$69,300 (2022 est.)<br>
+$67,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.556 billion (2022 est.)<br>
+$3.907 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -342,17 +349,18 @@ $3.556 billion (2022 est.)<br>
 -1.7% (2015)<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 18.7% (2022 est.)<br>
-_industry_: 18.1% (2022 est.)<br>
-_services_: 52.3% (2022 est.)<br>
+_agriculture_: 18.2% (2023 est.)<br>
+_industry_: 19.7% (2023 est.)<br>
+_services_: 52% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 41.4% (2022 est.)<br>
-_government consumption_: 27.4% (2022 est.)<br>
-_investment in fixed capital_: 31.4% (2022 est.)<br>
-_exports of goods and services_: 62.4% (2022 est.)<br>
-_imports of goods and services_: -62.5% (2022 est.)<br>
+_household consumption_: 40.6% (2023 est.)<br>
+_government consumption_: 27.3% (2023 est.)<br>
+_investment in fixed capital_: 31% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
+_exports of goods and services_: 57.7% (2023 est.)<br>
+_imports of goods and services_: -56.6% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -377,9 +385,9 @@ fishing, fish processing, tourism, small ship repair and refurbishment, handicra
 10% (2015 est.)<br>
 
 **Remittances**<br>
-4.45% of GDP (2022 est.)<br>
-4.33% of GDP (2021 est.)<br>
-4.86% of GDP (2020 est.)<br>
+4.05% of GDP (2023 est.)<br>
+4.44% of GDP (2022 est.)<br>
+4.32% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Public debt**<br>

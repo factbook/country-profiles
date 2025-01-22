@@ -342,9 +342,30 @@ _election results_: <br><em>2021: </em>Gabriel BORIC elected president in secon
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (50 seats); members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 8-year terms with one-half of the membership renewed every 4 years)<br>Chamber of Deputies or Camara de Diputados (155 seats; members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 4-year terms)<br>
-_elections_: Senate - last held on 21 November 2021 (next to be held on 23 November 2025)<br>Chamber of Deputies - last held on 21 November 2021 (next to be held on 23 November 2025)<br>
-_election results_: Senate - percent of vote by party/coalition - NA; seats by party/coalition - ChP+ 12 (RN 5, UDI 5, EVOPOLI 2), NPS 8 (PS 4, PPD 2, PDC 2), AD 4 (PCCh 2, FREVS 2), PLR 1, independent 2; composition - men 37, women 13, percentage women 26%<br><br>Chamber of Deputies - percent of vote by party/coalition - NA; seats by party/coalition - ChP+ 53 (RN 25, UDI 23, EVOPOLI 4, PRI 1), AD 37 (PCCh 12, CS 9, RD 8, Commons 6, FREVS 2), NPS 37 (PS 13, PDC 8, PPD 7, PL 4, PRSD 4, CIU 1), FSC 15 (PLR 14, PCC 1), PDG 6, PH 3, PEV 2, IU 1, independent 1; composition - men 100, women 55, percentage women 35.5%; total National Congress percentage women 33.2% as of January 2024<br>
+_legislature name_: National Congress (Congreso Nacional)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: Chamber of Deputies (Cámara de Diputados)<br>
+_number of seats_: 155 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 11/21/2021<br>
+_parties elected and seats per party_: Chile Podemos (Empowering Chile", CP +) (53); New Social Pact (NPS) (37); Approving Dignity (AD) (37); Christian Social Front (FSC) (15); Other (13)<br>
+_percentage of women in chamber_: 35.5%<br>
+_expected date of next election_: November 2025<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Senado)<br>
+_number of seats_: 50 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: partial renewal<br>
+_term in office_: 8 years<br>
+_most recent election date_: 11/21/2021<br>
+_parties elected and seats per party_: Chile Podemos (Empowering Chile", CP +) (12); New Social Pact (NPS) (8); Approving Dignity (AD) (4); Independents (2); Other (1)<br>
+_percentage of women in chamber_: 26%<br>
+_expected date of next election_: November 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Corte Suprema (consists of a court president and 20 members or ministros); Constitutional Court (consists of 10 members and is independent of the rest of the judiciary); Elections Qualifying Court (consists of 5 members)<br>
@@ -408,7 +429,7 @@ $566.279 billion (2021 est.)<br>
 
 **Real GDP per capita**<br>
 $29,500 (2023 est.)<br>
-$29,500 (2022 est.)<br>
+$29,600 (2022 est.)<br>
 $29,100 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
@@ -455,7 +476,7 @@ copper, lithium, other minerals, foodstuffs, fish processing, iron and steel, wo
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-9.848 million (2023 est.)<br>
+9.958 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -471,7 +492,7 @@ _female_: 24.5% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-10.8% (2020 est.)<br>
+6.5% (2022 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -683,7 +704,7 @@ Armed Forces of Chile (Fuerzas Armadas de Chile): Chilean Army (Ejército de Chi
 1.9% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 80,000 active armed forces personnel (45,000 Army; 25,000 Navy; 10,000 Air Force); approximately 50,000 Carabineros (2023)<br>
+approximately 75,000 active armed forces personnel (40,000 Army; 25,000 Navy; 10,000 Air Force); approximately 50,000 Carabineros (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Chilean military inventory is comprised of a broad mix of older foreign supplied weapons and equipment and some domestically produced systems; significant foreign suppliers have included Australia, Brazil, France, Germany, Israel, the Netherlands, Spain, the UK, and the US; Chile's defense industry is active in the production of military aircraft, ships, and vehicles (2024)<br>

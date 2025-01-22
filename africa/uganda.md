@@ -339,14 +339,21 @@ _residency requirement for naturalization_: an aggregate of 20 years and continu
 **Executive branch**<br>
 _chief of state_: President Yoweri Kaguta MUSEVENI (since 26 January 1986)<br>
 _head of government_: Prime Minister Robinah NABBANJA (since 14 June 2021)<br>
-_cabinet_: Cabinet appointed by the president from among elected members of the National Assembly or persons who qualify to be elected as members of the National Assembly<br>
+_cabinet_: Cabinet appointed by the president from among elected members of Parliament or persons who qualify to be elected as members of Parliament<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 14 January 2021 (next to be held in 2026)<br>
 _election results_: <em><br>2021: </em>Yoweri Kaguta MUSEVENI reelected president in the first round; percent of vote - Yoweri Kaguta MUSEVENI (NRM) 58.6%, Robert Kyagulanyi SSENTAMU (aka Bobi WINE) (NUP) 34.8%, Patrick Oboi AMURIAT (FDC) 3.2%, other 3.4%<br><em><br><em>2016: </em></em>Yoweri Kaguta MUSEVENI reelected president in the first round; percent of vote - Yoweri Kaguta MUSEVENI (NRM) 60.6%, Kizza BESIGYE (FDC) 35.6%, other 3.8%<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Parliament (556 seats; 353 members directly elected in single-seat constituencies by simple majority vote, 146 for women directly elected in single-seat districts by simple majority vote, and 30 "representatives" reserved for special interest groups - army 10, disabled 5, youth 5, labor 5, older persons 5; 27 ex officio members appointed by the president; members serve 5-year terms)<br>
-_elections_: last held on 14 January 2021 (next to be held in February 2026)<br>
-_election results_: percent of vote by party - NA; seats by party - NRM 336, NUP 57, FDC 32, DP 9, UPDF 10, UPC 9, independent 76 (excludes 27 ex-officio members); composition- men 368, women 189, percentage women 33.9%<br>
+_legislature name_: Parliament<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 529 (499 directly elected; 30 indirectly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 1/14/2021 to 1/18/2021<br>
+_parties elected and seats per party_: National Resistance Movement (NRM) (336); National Unity Platform (NUP) (57); Forum for Democratic Change (FDC) (32); Independents (74); Other (30)<br>
+_percentage of women in chamber_: 33.9%<br>
+_expected date of next election_: January 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Uganda (consists of the chief justice and at least 6 justices)<br>
@@ -395,13 +402,13 @@ _selected World Heritage Site locales_: Bwindi Impenetrable National Park (n); R
 low-income, primarily agrarian East African economy; COVID-19 hurt economic growth and poverty reduction; lower oil prices threaten prior sector investments; endemic corruption; natural resource rich; high female labor force participation but undervalued<br>
 
 **Real GDP (purchasing power parity)**<br>
-$135.668 billion (2023 est.)<br>
+$135.803 billion (2023 est.)<br>
 $128.923 billion (2022 est.)<br>
 $123.267 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.23% (2023 est.)<br>
+5.34% (2023 est.)<br>
 4.59% (2022 est.)<br>
 3.54% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
@@ -413,7 +420,7 @@ $2,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$49.273 billion (2023 est.)<br>
+$48.769 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -429,18 +436,18 @@ _Standard & Poors rating_: B (2014)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 23.8% (2023 est.)<br>
-_industry_: 26% (2023 est.)<br>
-_services_: 42.4% (2023 est.)<br>
+_agriculture_: 24.1% (2023 est.)<br>
+_industry_: 25.8% (2023 est.)<br>
+_services_: 42.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 71.3% (2023 est.)<br>
-_government consumption_: 9.5% (2023 est.)<br>
-_investment in fixed capital_: 22.5% (2023 est.)<br>
+_household consumption_: 71.6% (2023 est.)<br>
+_government consumption_: 9.6% (2023 est.)<br>
+_investment in fixed capital_: 22.1% (2023 est.)<br>
 _investment in inventories_: 0.7% (2023 est.)<br>
-_exports of goods and services_: 13.4% (2023 est.)<br>
-_imports of goods and services_: -23.8% (2023 est.)<br>
+_exports of goods and services_: 11.6% (2023 est.)<br>
+_imports of goods and services_: -21.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -451,11 +458,11 @@ plantains, sugarcane, maize, cassava, milk, sweet potatoes, beans, vegetables, r
 sugar processing, brewing, tobacco, cotton textiles; cement, steel production<br>
 
 **Industrial production growth rate**<br>
-3.5% (2023 est.)<br>
+4.03% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-18.881 million (2023 est.)<br>
+19.077 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -488,7 +495,7 @@ _highest 10%_: 34.5% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.63% of GDP (2023 est.)<br>
+2.93% of GDP (2023 est.)<br>
 2.74% of GDP (2022 est.)<br>
 2.85% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -507,15 +514,15 @@ _expenditures_: $7.473 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$4.172 billion (2022 est.)<br>
--$3.972 billion (2021 est.)<br>
--$3.598 billion (2020 est.)<br>
+-$3.766 billion (2023 est.)<br>
+-$4.065 billion (2022 est.)<br>
+-$3.605 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$9.085 billion (2023 est.)<br>
 $6.115 billion (2022 est.)<br>
 $6.231 billion (2021 est.)<br>
-$5.622 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -527,9 +534,9 @@ gold, coffee, fish, milk, raw sugar (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$11.145 billion (2022 est.)<br>
-$10.686 billion (2021 est.)<br>
-$10.209 billion (2020 est.)<br>
+$13.853 billion (2023 est.)<br>
+$11.079 billion (2022 est.)<br>
+$10.62 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -547,7 +554,7 @@ $3.098 billion (2016 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$9.636 billion (2022 est.)<br>
+$11.436 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

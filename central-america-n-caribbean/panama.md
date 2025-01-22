@@ -330,9 +330,16 @@ _election results_: <br><em>2024:</em> José Raúl MULINO Quintero elected presi
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Asamblea Nacional (71 seats; 45 members directly elected in multi-seat constituencies - populous towns and cities - by open list proportional representation vote and 26 directly elected in single-seat constituencies - outlying rural districts - by simple majority vote; members serve 5-year terms)<br>
-_elections_: last held on 5 May 2024 (next to be held in May 2029)<br>
-_election results_: percent of vote by party - NA; seats by party - independents 21, PRD 13, RM 13, CD 8, Paname&ntilde;ista 8, MOCA 3, PA 2, PP 2, MOLIRENA 1<br>
+_legislature name_: National Assembly (Asamblea Nacional)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 71 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 5/5/2024<br>
+_parties elected and seats per party_: Realizing Goals (RM) (14); Democratic Revolutionary Party (PRD) (13); Democratic Change (CD) (8); Panamenista Party (8); Independents (20); Other (8)<br>
+_percentage of women in chamber_: 21.4%<br>
+_expected date of next election_: May 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (consists of 9 magistrates and 9 alternates and divided into civil, criminal, administrative, and general business chambers)<br>

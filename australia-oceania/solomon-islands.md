@@ -311,9 +311,16 @@ _cabinet_: Cabinet appointed by the governor general on the advice of the prime 
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the National Parliament for up to 5 years (eligible for a second term); following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by the National Parliament; deputy prime minister appointed by the governor general on the advice of the prime minister from among members of the National Parliament<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Parliament (50 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: last held on 17 April 2024 (next to be held in 2028)<br>
-_election results_: percent of vote by party - OUR: 24.1%, independent 21.9%, SIDP 19.3%, SIUP 13.5%, KAD 4.5%, SIPRA 4.5%, PFP 3.2%, U4C 3.0%, DAP 1.6%, others 4.0%; seats by party - OUR Party 15, SIDP 8, SIUP 6, DAP 4, KAD 1, SIPRA 1, PFP 3, U4C 1, independents 11; composition - men 46, women 4, percentage women 8%<br>
+_legislature name_: National Parliament<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 50 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 4/17/2024<br>
+_parties elected and seats per party_: Ownership Unity and Responsibility (OUR Party) (15); Solomon Islands Democratic Party (SIDP) (11); Solomon Islands United Party (UP) (6); Solomon Islands People First Party (SIPFP) (3); Independents (11); Other (4)<br>
+_percentage of women in chamber_: 6%<br>
+_expected date of next election_: April 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president and ex officio members including the High Court chief justice and its puisne judges); High Court (consists of the chief justice and puisne judges, as prescribed by the National Parliament)<br>
@@ -361,25 +368,25 @@ _selected World Heritage Site locales_: East Rennell<br>
 lower middle-income Pacific island economy; natural resource rich but environmentally fragile; key agrarian sector; growing Chinese economic relationship; infrastructure damage due to social unrest; metal mining operations<br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.025 billion (2023 est.)<br>
+$2.027 billion (2023 est.)<br>
 $1.967 billion (2022 est.)<br>
 $1.921 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.95% (2023 est.)<br>
+3.08% (2023 est.)<br>
 2.4% (2022 est.)<br>
 2.56% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$2,700 (2023 est.)<br>
-$2,700 (2022 est.)<br>
-$2,700 (2021 est.)<br>
+$2,500 (2023 est.)<br>
+$2,500 (2022 est.)<br>
+$2,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.631 billion (2023 est.)<br>
+$1.633 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -419,7 +426,7 @@ fish (tuna), mining, timber<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-382,000 (2023 est.)<br>
+423,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -488,13 +495,13 @@ refined petroleum, plastic products, fish, iron structures, construction vehicle
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$688.22 million (2023 est.)<br>
 $661.604 million (2022 est.)<br>
 $694.515 million (2021 est.)<br>
-$660.996 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$117.742 million (2022 est.)<br>
+$201.529 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

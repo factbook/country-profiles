@@ -326,16 +326,23 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Alar KARIS (since 11 October 2021)<br>
-_head of government_: Prime Minister Kaja KALLAS (since 26 January 2021)<br>
+_head of government_: Prime Minister Kristen MICHAL (since 23 July 2024)<br>
 _cabinet_: Cabinet appointed by the prime minister, approved by Parliament<br>
 _elections/appointments_: president indirectly elected by Parliament for a 5-year term (eligible for a second term); if a candidate does not secure two thirds of the votes after 3 rounds of balloting, then an electoral college consisting of Parliament members and local council members elects the president, choosing between the 2 candidates with the highest number of votes; if a president is still not elected, the process begins again; election last held on 30 to 31 August 2021 (next to be held in 2026); prime minister nominated by the president and approved by Parliament<br>
 _election results_: <em><br>2021:</em> Alar KARIS (independent) elected president; won second round of voting in parliament with 72 of 101 votes<br><br><em>2016:</em> Kersti KALJULAID elected president; won sixth round of voting in parliament with 81 of 98 votes (17 ballots blank); KALJULAID sworn in on 10 October 2016 - first female head of state of Estonia<br>
 <strong>note </strong>- Prime Minister Kaja KALLAS resigned on 15 July 2024 but will continue as acting prime minister until the new government is sworn in<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament or Riigikogu (101 seats; members are elected at general elections for a term of four years.)<br>
-_elections_: last held on 5 March 2023; next elections 7 March 2027<br>
-_election results_: percent of vote by party - Reform 31.2%, EKRE 16.1%, Center 15.3%, E200 13.3%, SDE 9.3%, Pro Patria 8.2%, Left 2.4%, Right 2.3%, Greens 1.0%; seats by party - Reform 37, EKRE 17, Center 16, E200 14, SDE 9, Pro Patria 8; composition - men 71, women 30, percent of women 29.7%<br>
+_legislature name_: The Estonian Parliament (Riigikogu)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 101 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 3/5/2023<br>
+_parties elected and seats per party_: Reform Party (37); Conservative People's Party (EKRE) (17); Centre Party (16); Estonia 200 (Eesti 200) (14); Social Democratic Party (9); Pro Patria (Isamaa) (8)<br>
+_percentage of women in chamber_: 29.7%<br>
+_expected date of next election_: March 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 19 justices, including the chief justice, and organized into civil, criminal, administrative, and constitutional review chambers)<br>
@@ -385,25 +392,25 @@ _selected World Heritage Site locales_: Historic Center (Old Town) of Tallinn; S
 advanced, service-based EU and eurozone economy; economic downturn due to inflation, trade, and energy impacts of Ukraine war; decline in intra-EU trade; low public debt relative to EU members; recovery depends on improving private investment and productivity rates<br>
 
 **Real GDP (purchasing power parity)**<br>
-$57.377 billion (2023 est.)<br>
-$59.155 billion (2022 est.)<br>
-$59.429 billion (2021 est.)<br>
+$58.199 billion (2023 est.)<br>
+$60.013 billion (2022 est.)<br>
+$59.977 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--3.01% (2023 est.)<br>
--0.46% (2022 est.)<br>
+-3.02% (2023 est.)<br>
+0.06% (2022 est.)<br>
 7.25% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$42,000 (2023 est.)<br>
-$43,900 (2022 est.)<br>
-$44,700 (2021 est.)<br>
+$42,500 (2023 est.)<br>
+$44,500 (2022 est.)<br>
+$45,100 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$40.745 billion (2023 est.)<br>
+$41.291 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -419,18 +426,18 @@ _Standard & Poors rating_: AA- (2011)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.2% (2023 est.)<br>
-_industry_: 22.3% (2023 est.)<br>
-_services_: 63.8% (2023 est.)<br>
+_agriculture_: 1.9% (2023 est.)<br>
+_industry_: 21.7% (2023 est.)<br>
+_services_: 64.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 53% (2023 est.)<br>
-_government consumption_: 20.9% (2023 est.)<br>
-_investment in fixed capital_: 26.6% (2023 est.)<br>
-_investment in inventories_: 0.1% (2023 est.)<br>
-_exports of goods and services_: 78.4% (2023 est.)<br>
-_imports of goods and services_: -77.8% (2023 est.)<br>
+_household consumption_: 52.3% (2023 est.)<br>
+_government consumption_: 20.6% (2023 est.)<br>
+_investment in fixed capital_: 27.9% (2023 est.)<br>
+_investment in inventories_: -0.2% (2023 est.)<br>
+_exports of goods and services_: 77.9% (2023 est.)<br>
+_imports of goods and services_: -77% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -441,11 +448,11 @@ wheat, milk, barley, rapeseed, oats, peas, potatoes, rye, pork, beans (2022)<br>
 food, engineering, electronics, wood and wood products, textiles; information technology, telecommunications<br>
 
 **Industrial production growth rate**<br>
--9.7% (2023 est.)<br>
+-10.02% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-752,000 (2023 est.)<br>
+757,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -478,9 +485,9 @@ _highest 10%_: 24.3% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.2% of GDP (2023 est.)<br>
-1.24% of GDP (2022 est.)<br>
-1.6% of GDP (2021 est.)<br>
+1.18% of GDP (2023 est.)<br>
+1.22% of GDP (2022 est.)<br>
+1.59% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -489,23 +496,23 @@ _expenditures_: $13.505 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-25.2% of GDP (2022 est.)<br>
+24.9% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-21.01% (of GDP) (2022 est.)<br>
+20.76% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$848.528 million (2023 est.)<br>
--$1.231 billion (2022 est.)<br>
--$1.002 billion (2021 est.)<br>
+-$722.668 million (2023 est.)<br>
+-$1.496 billion (2022 est.)<br>
+-$1.387 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$31.939 billion (2023 est.)<br>
-$32.461 billion (2022 est.)<br>
-$29.522 billion (2021 est.)<br>
+$32.147 billion (2023 est.)<br>
+$33.178 billion (2022 est.)<br>
+$29.525 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -517,9 +524,9 @@ electricity, broadcasting equipment, refined petroleum, wood, coal tar oil (2022
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$31.701 billion (2023 est.)<br>
-$32.671 billion (2022 est.)<br>
-$29.937 billion (2021 est.)<br>
+$31.796 billion (2023 est.)<br>
+$33.655 billion (2022 est.)<br>
+$30.054 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

@@ -319,9 +319,15 @@ _election results_: <em><br>2019:</em> KIM Jong Un reelected unopposed<br>
 <strong>note 1:</strong> KIM Jong Un's titles include general secretary of the Workers' Party of Korea (KWP), chairman of the KWP Central Military Commission, president of the State Affairs Commission, and supreme commander of the Korean People's Army<br><br><strong>note 2:</strong> within the North Korean system, KIM Jong Un's role as chief of state is secondary to his role as general secretary of the Korean Workers' Party; chief of state is used to engage with non-communist countries such as the US; North Korea revised its constitution in 2019 to define "the Chairman of the State Affairs Commission" as "the supreme leader who represents the state"; functions as the commander-in-chief and chief executive; the specific titles associated with this office have changed multiple times under KIM's tenure, however, KIM Jong Un has been supreme leader since his father's death in 2011<br><br><strong>note 3:</strong> the head of government functions as the technical head of state and performs related duties, such as receiving ambassadors' credentials<br>
 
 **Legislative branch**<br>
-_description_: unicameral Supreme People's Assembly (SPA) or Ch'oego Inmin Hoeui (687 seats; members directly elected by majority vote in 2 rounds if needed to serve 5-year terms)<br>
-_elections_: last held on 10 March 2019 (next to be held in 2024)<br>
-_election results_: percent of vote by party - NA; seats by party - KWP 607, KSDP 50, Chondoist Chongu Party 22, General Association of Korean Residents in Japan (Chongryon) 5, religious associations 3; ruling party approves a list of candidates who are elected without opposition; composition as of February 2024 - men 566, women 121, percentage women 17.6%<br>
+_legislature name_: Supreme People's Assembly (Choe Go In Min Hoe Ui)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 687 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 3/10/2019<br>
+_percentage of women in chamber_: 17.6%<br>
+_expected date of next election_: December 2025<br>
 <strong>note:</strong> the SPA functions as a rubberstamp legislature; the Korean Workers' Party selects all candidates<br>
 
 **Judicial branch**<br>

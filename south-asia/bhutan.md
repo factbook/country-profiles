@@ -307,9 +307,29 @@ _cabinet_: Council of Ministers or Lhengye Zhungtshog members nominated by the m
 _elections/appointments_: the monarchy is hereditary but can be removed by a two-thirds vote of Parliament; leader of the majority party in Parliament is nominated as the prime minister, appointed by the monarch<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Chi Tshog consists of:<br>non-partisan National Council or Gyelyong Tshogde (25 seats; 20 members directly elected in single-seat constituencies by simple majority vote and 5 members appointed by the king; members serve 5-year terms)<br> National Assembly or Tshogdu (47 seats; members directly elected in single-seat constituencies in a two-round system; in the primary round, contesting political parties are directly selected by simple majority vote; in the main round, the two top parties in the primary round field candidates who are directly elected by simple majority vote; members serve 5-year terms)<br>
-_elections_: National Council - last held on 20 April 2023 (next to be held in 2028)<br>National Assembly - first round held on 30 November 2023 with a runoff on 9 January 2024 (next to be held in 2028)<br>
-_election results_: National Council - seats by party - independent 20 (all candidates ran as independents) and 5 appointed by the king; composition - men 22, women 3, percentage women 12%<br><br>National Assembly - percent of vote by party in first round - PDP 42.5%, BTP 19.6%, DPT 14.9%, DNT 13.1% DTT 9.8%; percent of vote in second round - PDP 55%, BTP 45%; seats by party PDP 30, BTP 17; composition - men 45, women 2, percentage women 4.3%; total percentage women in Parliament 6.9%<br>
+_legislature name_: Parliament (Chi Tshog)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: National Assembly (Tshogdu)<br>
+_number of seats_: 47 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 1/9/2024<br>
+_parties elected and seats per party_: People's Democratic Party (PDP) (30); Bhutan Tendrel Party (BTP) (17)<br>
+_percentage of women in chamber_: 4.3%<br>
+_expected date of next election_: January 2029<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: National Council (Gyelyong Tshogde)<br>
+_number of seats_: 25 (20 directly elected; 5 appointed)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 4/20/2023<br>
+_percentage of women in chamber_: 12%<br>
+_expected date of next election_: April 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 4 associate&nbsp;justices); note - the Supreme Court has sole jurisdiction in constitutional matters<br>
@@ -362,9 +382,9 @@ $9.995 billion (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$14,000 (2022 est.)<br>
-$13,400 (2021 est.)<br>
-$12,900 (2020 est.)<br>
+$14,100 (2022 est.)<br>
+$13,500 (2021 est.)<br>
+$13,000 (2020 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -384,11 +404,11 @@ _services_: 51.2% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 57.6% (2022 est.)<br>
+_household consumption_: 57.8% (2022 est.)<br>
 _government consumption_: 21% (2022 est.)<br>
-_investment in fixed capital_: 55.2% (2022 est.)<br>
-_investment in inventories_: 0.1% (2022 est.)<br>
-_exports of goods and services_: 25.8% (2022 est.)<br>
+_investment in fixed capital_: 55.1% (2022 est.)<br>
+_investment in inventories_: 0.7% (2022 est.)<br>
+_exports of goods and services_: 25.5% (2022 est.)<br>
 _imports of goods and services_: -60.1% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
@@ -404,7 +424,7 @@ cement, wood products, processed fruits, alcoholic beverages, calcium carbide, t
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-430,000 (2023 est.)<br>
+429,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -486,18 +506,18 @@ computers, refined petroleum, electrical machinery, coke, wood charcoal (2022)<b
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$976.26 million (2021 est.)<br>
-$1.427 billion (2020 est.)<br>
-$1.238 billion (2019 est.)<br>
+$654.481 million (2023 est.)<br>
+$825.755 million (2022 est.)<br>
+$1.05 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$2.514 billion (2022 est.)<br>
+$2.923 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: ngultrum (BTN) per US dollar -<br>
-82.601 (2023 est.)<br>
+82.599 (2023 est.)<br>
 78.604 (2022 est.)<br>
 73.918 (2021 est.)<br>
 74.1 (2020 est.)<br>

@@ -341,9 +341,17 @@ _elections/appointments_: president indirectly elected by the National Assembly 
 _election results_: National elections held in 2024 gave BOKO's UDC 35 seats in the National Assembly, which then selected BOKO as President<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament consists of the National Assembly (65 seats; 58 members directly elected in single-seat constituencies by simple majority vote, 5 nominated by the president and indirectly elected by simple majority vote by the rest of the National Assembly, and 2 ex-officio members - the president and vice president of Botswana; elected members serve 5-year terms)<br>
-_elections_: last held on 23 October 2019 (next to be held by October 2024)<br>
-_election results_: percent of vote by party - BDP 52.7%, UDC 35.9%, BPF 4.4%, AP 5.1%, other 1.7%; seats by party - BDP 38, UDC 15, BPF 3, AP 1; composition- men 56, women 7, percentage women 11.1%<br>
+_legislature name_: Parliament<br>
+_legislative structure_: unicameral<br>
+_chamber name_: National Assembly<br>
+_number of seats_: 69 (61 directly elected; 6 indirectly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 10/30/2024<br>
+_parties elected and seats per party_: Umbrella for Democratic Change (UDC) (36); Botswana Congress Party (BCP) (15); Botswana Patriotic Front (BPF) (5); Botswana Democratic Party (BDP) (4); Other (1)<br>
+_percentage of women in chamber_: 8.7%<br>
+_expected date of next election_: October 2029<br>
 <strong>note:</strong> the House of Chiefs (Ntlo ya Dikgosi), an advisory body to the National Assembly, consists of 35 members -- 8 hereditary chiefs from Botswana's principal tribes, 22 indirectly elected by the chiefs, and 5 appointed by the president; the House of Chiefs consults on issues including powers of chiefs, customary courts, customary law, tribal property, and constitutional amendments<br>
 
 **Judicial branch**<br>
@@ -393,7 +401,7 @@ _selected World Heritage Site locales_: Tsodilo Hills (c); Okavango Delta (n)<br
 good economic governance and financial management; diamond-driven growth model declining; rapid poverty reductions; high unemployment, particularly among youth; COVID-19 sharply contracted the economy and recovery is slow; public sector wages have posed fiscal challenges<br>
 
 **Real GDP (purchasing power parity)**<br>
-$46.742 billion (2023 est.)<br>
+$46.743 billion (2023 est.)<br>
 $45.499 billion (2022 est.)<br>
 $43.133 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
@@ -405,9 +413,9 @@ $43.133 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$17,500 (2023 est.)<br>
-$17,300 (2022 est.)<br>
-$16,700 (2021 est.)<br>
+$18,800 (2023 est.)<br>
+$18,600 (2022 est.)<br>
+$18,000 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -436,8 +444,8 @@ _household consumption_: 42.9% (2023 est.)<br>
 _government consumption_: 28.9% (2023 est.)<br>
 _investment in fixed capital_: 25.7% (2023 est.)<br>
 _investment in inventories_: 4.7% (2023 est.)<br>
-_exports of goods and services_: 31.7% (2023 est.)<br>
-_imports of goods and services_: -35.7% (2023 est.)<br>
+_exports of goods and services_: 32.3% (2023 est.)<br>
+_imports of goods and services_: -36.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -448,11 +456,11 @@ milk, root vegetables, vegetables, maize, sorghum, beef, game meat, watermelons,
 diamonds, copper, nickel, salt, soda ash, potash, coal, iron ore, silver; beef processing; textiles<br>
 
 **Industrial production growth rate**<br>
-2.25% (2023 est.)<br>
+2.26% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.17 million (2023 est.)<br>
+1.084 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -481,8 +489,8 @@ _highest 10%_: 41.5% (2015 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.31% of GDP (2023 est.)<br>
-0.34% of GDP (2022 est.)<br>
+0.36% of GDP (2023 est.)<br>
+0.31% of GDP (2022 est.)<br>
 0.32% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -500,15 +508,15 @@ _expenditures_: $5.099 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$606.394 million (2022 est.)<br>
--$250.118 million (2021 est.)<br>
--$1.531 billion (2020 est.)<br>
+-$116.727 million (2023 est.)<br>
+-$232.122 million (2022 est.)<br>
+-$314.583 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$8.9 billion (2022 est.)<br>
-$7.928 billion (2021 est.)<br>
-$4.703 billion (2020 est.)<br>
+$6.398 billion (2023 est.)<br>
+$8.914 billion (2022 est.)<br>
+$7.861 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -520,9 +528,9 @@ diamonds, copper ore, insulated wire, coal, cattle (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$8.7 billion (2022 est.)<br>
-$9.252 billion (2021 est.)<br>
-$7.554 billion (2020 est.)<br>
+$7.228 billion (2023 est.)<br>
+$8.826 billion (2022 est.)<br>
+$9.25 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -540,7 +548,7 @@ $4.802 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$1.507 billion (2022 est.)<br>
+$1.772 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

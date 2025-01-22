@@ -332,9 +332,16 @@ _elections/appointments_: president elected by Hellenic Parliament for a 5-year 
 _election results_: <em><br>2020:</em> Katerina SAKELLAROPOULOU (independent) elected president by Parliament - 261 of 300 votes; note - SAKELLAROPOULOU is Greece's first woman president<br><em><br>2015:</em> Prokopis PAVLOPOULOS (ND) elected president by Parliament - 233 of 300 votes<br>
 
 **Legislative branch**<br>
-_description_: unicameral Hellenic Parliament or Vouli ton Ellinon (300 seats; 280 members in multi-seat and single-seat constituencies and 15 members - including 3 seats for Greek diaspora - in a single nationwide constituency directly elected by open party-list proportional representation vote; members serve up to 4 years)<br>
-_elections_: last held on 25 June 2023 (next to be held in 2027)<br>
-_election results_: percent of vote by party - ND 40.6%, SYRIZA-PS 17.8%, PASOK-KINAL 11.9%, KKE 7.7%, Spartans 4.6%, Greek Solution 4.4%, NIKI 3.7%, Course of Freedom 3.2%, other 6.1%; seats by party - ND 158, SYRIZA-PS 48, PASOK-KINAL 32, KKE 20, Spartans 12, Greek Solution 12, NIKI 10, Course of Freedom 8; composition - men 231, women 69, percentage women 23%<br>
+_legislature name_: Hellenic Parliament (Vouli Ton Ellinon)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 300 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 6/25/2023<br>
+_parties elected and seats per party_: New Democracy (ND) (158); Coalition of the Radical Left (SYRIZA) (47); Panhellenic Socialist Movement - Movement for Change (PASOK-KINAL) (32); Communist Party (KKE) (21); Other (42)<br>
+_percentage of women in chamber_: 23%<br>
+_expected date of next election_: June 2027<br>
 <strong>note:</strong> only parties surpassing a 3% vote threshold are entitled to parliamentary seats; parties need 10 seats to become formal parliamentary groups but can retain that status if the party participated in the last election and received the minimum 3% threshold<br>
 
 **Judicial branch**<br>
@@ -388,25 +395,25 @@ _selected World Heritage Site locales_: Acropolis, Athens (c); Archaeological si
 developed EU and eurozone economy; strong post-COVID growth driven by tourism, shipping industry, exports, and foreign investment supported by EU cohesion funds; public debt remains high despite recent budget surplus; challenges from negative household savings, high unemployment, corruption, and competitiveness gaps<br>
 
 **Real GDP (purchasing power parity)**<br>
-$375.78 billion (2023 est.)<br>
-$368.37 billion (2022 est.)<br>
-$348.977 billion (2021 est.)<br>
+$384.023 billion (2023 est.)<br>
+$375.271 billion (2022 est.)<br>
+$354.888 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.01% (2023 est.)<br>
-5.56% (2022 est.)<br>
+2.33% (2023 est.)<br>
+5.74% (2022 est.)<br>
 8.38% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$36,300 (2023 est.)<br>
-$35,300 (2022 est.)<br>
-$33,000 (2021 est.)<br>
+$36,900 (2023 est.)<br>
+$36,000 (2022 est.)<br>
+$33,600 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$238.206 billion (2023 est.)<br>
+$243.498 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -422,18 +429,18 @@ _Standard & Poors rating_: BB- (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 3.8% (2023 est.)<br>
-_industry_: 15.7% (2023 est.)<br>
-_services_: 67.6% (2023 est.)<br>
+_agriculture_: 3.3% (2023 est.)<br>
+_industry_: 15.3% (2023 est.)<br>
+_services_: 68.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 68.4% (2023 est.)<br>
-_government consumption_: 19.7% (2023 est.)<br>
-_investment in fixed capital_: 13.9% (2023 est.)<br>
-_investment in inventories_: 2.9% (2023 est.)<br>
-_exports of goods and services_: 44.9% (2023 est.)<br>
-_imports of goods and services_: -49.8% (2023 est.)<br>
+_household consumption_: 66.9% (2023 est.)<br>
+_government consumption_: 19.3% (2023 est.)<br>
+_investment in fixed capital_: 15.2% (2023 est.)<br>
+_investment in inventories_: 1.6% (2023 est.)<br>
+_exports of goods and services_: 43.7% (2023 est.)<br>
+_imports of goods and services_: -48.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -444,11 +451,11 @@ maize, wheat, sheep milk, peaches/nectarines, oranges, grapes, tomatoes, milk, w
 tourism, food and tobacco processing, textiles, chemicals, metal products; mining, petroleum<br>
 
 **Industrial production growth rate**<br>
-1.68% (2023 est.)<br>
+4.74% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.645 million (2023 est.)<br>
+4.666 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -482,7 +489,7 @@ _highest 10%_: 24.8% (2021 est.)<br>
 
 **Remittances**<br>
 0.22% of GDP (2023 est.)<br>
-0.28% of GDP (2022 est.)<br>
+0.27% of GDP (2022 est.)<br>
 0.32% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -492,21 +499,21 @@ _expenditures_: $110.844 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-203.29% of GDP (2022 est.)<br>
+202.08% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-27.81% (of GDP) (2022 est.)<br>
+27.64% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$15.056 billion (2023 est.)<br>
+-$15.008 billion (2023 est.)<br>
 -$22.623 billion (2022 est.)<br>
 -$13.858 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$106.65 billion (2023 est.)<br>
+$107.218 billion (2023 est.)<br>
 $106.189 billion (2022 est.)<br>
 $87.521 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -520,7 +527,7 @@ refined petroleum, packaged medicine, aluminum, natural gas, plastic products (2
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$117.922 billion (2023 est.)<br>
+$119.234 billion (2023 est.)<br>
 $127.82 billion (2022 est.)<br>
 $103.532 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>

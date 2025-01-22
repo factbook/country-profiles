@@ -334,9 +334,16 @@ _elections/appointments_: president indirectly elected by the Knesset for a sing
 _election results_: <br><em>2021:</em> Isaac HERZOG elected president; Knesset vote in first round - Isaac HERZOG (independent) 87, Miriam PERETZ (independent) 26, invalid/blank 7<br><br><em>2014:</em> Reuven RIVLIN elected president in second round; Knesset vote - Reuven RIVLIN (Likud) 63, Meir SHEETRIT (The Movement) 53, other/invalid 4 <p> </p><br>
 
 **Legislative branch**<br>
-_description_: unicameral Knesset (120 seats; members directly elected in a single nationwide constituency by closed party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 1 November 2022 (next to be held in November 2026)<br>
-_election results_: percent by party - Likud 23.4%, Yesh Atid 17.8%, Religious Zionism (electoral alliance of Religious Zionist Party, Jewish Power, and Noam) 10.8%, National Unity 9.1%, Shas 8.2%, UTJ 5.9%, Yisrael Beiteinu 4.5%, United Arab List 4.1%, Hadash-Ta'al 3.8%, Labor 3.7%, Meretz 3.2%, other 1.6%; seats by party - Likud 32, Yesh Atid 24, Religious Zionism (electoral alliance of Religious Zionist Party, Jewish Power, and Noam) 14, National Unity 12, Shas 11, UTJ 7, Yisrael Beiteinu 6, Hadash-Ta'al 5, United Arab List 5, Labor 4; composition - men 90, women 30, percentage women 25%<br>
+_legislature name_: Parliament (Knesset)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 120 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 11/1/2022<br>
+_parties elected and seats per party_: Likud (32); Yesh Atid (24); Religious Zionism (14); National Unity (12); Shas (11); United Torah Judaism (Yahadut Hatorah) (7); Yisrael Beiteinu (6); Other (14)<br>
+_percentage of women in chamber_: 25%<br>
+_expected date of next election_: October 2026<br>
 <strong>note 1:</strong> a 3.25% vote threshold is required to gain representation<br><br><strong>note 2:</strong> following the 1 November 2022 election, the Religious Zionism Alliance split into its three constituent parties in the Knesset:  Religious Zionism 7 seats, Jewish Power (Otzma Yehudit) 6, and Noam 1<br>
 
 **Judicial branch**<br>
@@ -390,25 +397,25 @@ _selected World Heritage Site locales_: Masada; Old City of Acre; White City of 
 high-income, technology- and industrial-based economy; economic contraction and fiscal deficits resulting from war in Gaza; labor force stabilizing following military reservist mobilization; high-tech industry remains resilient while construction and tourism among hardest-hit sectors<br>
 
 **Real GDP (purchasing power parity)**<br>
-$471.03 billion (2023 est.)<br>
-$461.808 billion (2022 est.)<br>
-$432.271 billion (2021 est.)<br>
+$472.533 billion (2023 est.)<br>
+$461.354 billion (2022 est.)<br>
+$433.317 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2% (2023 est.)<br>
-6.83% (2022 est.)<br>
+2.42% (2023 est.)<br>
+6.47% (2022 est.)<br>
 8.61% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$48,300 (2023 est.)<br>
+$48,400 (2023 est.)<br>
 $48,300 (2022 est.)<br>
-$46,100 (2021 est.)<br>
+$46,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$509.901 billion (2023 est.)<br>
+$513.611 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -424,18 +431,18 @@ _Standard & Poors rating_: AA- (2018)<br>
 <strong>note: </strong>the year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.3% (2021 est.)<br>
-_industry_: 17.2% (2021 est.)<br>
-_services_: 72.4% (2021 est.)<br>
+_agriculture_: 1.2% (2022 est.)<br>
+_industry_: 18.9% (2022 est.)<br>
+_services_: 70.8% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 48.2% (2023 est.)<br>
-_government consumption_: 22.4% (2023 est.)<br>
-_investment in fixed capital_: 24% (2023 est.)<br>
+_household consumption_: 47.8% (2023 est.)<br>
+_government consumption_: 22.2% (2023 est.)<br>
+_investment in fixed capital_: 24.4% (2023 est.)<br>
 _investment in inventories_: 1.7% (2023 est.)<br>
-_exports of goods and services_: 30.9% (2023 est.)<br>
-_imports of goods and services_: -27.1% (2023 est.)<br>
+_exports of goods and services_: 30.6% (2023 est.)<br>
+_imports of goods and services_: -26.9% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -446,11 +453,11 @@ milk, chicken, potatoes, tomatoes, avocados, bananas, grapefruits, eggs, tangeri
 high-technology products (including aviation, communications, computer-aided design and manufactures, medical electronics, fiber optics), wood and paper products, potash and phosphates, food, beverages, and tobacco, caustic soda, cement, pharmaceuticals, construction, metal products, chemical products, plastics, cut diamonds, textiles, footwear<br>
 
 **Industrial production growth rate**<br>
-6.05% (2021 est.)<br>
+5.51% (2022 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.554 million (2023 est.)<br>
+4.574 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -478,8 +485,8 @@ _on food_: 16% of household expenditures (2022 est.)<br>
 _on alcohol and tobacco_: 2.8% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.9% (2021 est.)<br>
-_highest 10%_: 27.1% (2021 est.)<br>
+_lowest 10%_: 2% (2021 est.)<br>
+_highest 10%_: 26.6% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
@@ -501,13 +508,13 @@ _expenditures_: $184.823 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$25.089 billion (2023 est.)<br>
-$20.34 billion (2022 est.)<br>
+$24.545 billion (2023 est.)<br>
+$20.328 billion (2022 est.)<br>
 $19.095 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$156.165 billion (2023 est.)<br>
+$156.331 billion (2023 est.)<br>
 $166.227 billion (2022 est.)<br>
 $143.505 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -521,7 +528,7 @@ diamonds, integrated circuits, refined petroleum, fertilizers, medical instrumen
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$137.567 billion (2023 est.)<br>
+$137.487 billion (2023 est.)<br>
 $150.804 billion (2022 est.)<br>
 $125.948 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>

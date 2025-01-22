@@ -315,16 +315,22 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King TUPOU VI (since 18 March 2012)<br>
-_head of government_: Acting Prime Minister Samiu VAIPULU (since 9 December 2024; note - former Prime Minister Siaosi SOVALENI resigned on 9 December 2024)<br>
+_head of government_: Acting Prime Minister Samiu VAIPULU (since 9 December 2024); note - former Prime Minister Siaosi SOVALENI resigned on 9 December 2024)<br>
 _cabinet_: Cabinet nominated by the prime minister and appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; prime minister and deputy prime minister indirectly elected by the Legislative Assembly and appointed by the monarch; election last held on 18 November 2021 (next to be held on 24 December 2024)<br>
 _election results_: <em><br>2021:</em> Siaosi SOVALENI elected prime minister by the Legislative Assembly; Siaosi SOVALENI 16 votes, Aisake EKE 10<br><br><em>2019:</em> Pohiva TU'I'ONETOA (Peoples Party) elected prime minister by parliament receiving 15 of 23 votes cast<br>
 <strong>note:</strong> a Privy Council advises the monarch<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Assembly or Fale Alea (30 seats statutory, 28 current); 17 people's representatives directly elected in single-seat constituencies by simple majority vote, and 9 indirectly elected by hereditary leaders; members serve 4-year terms)<br>
-_elections_: last held on 18 November 2021 (next to be held in November 2025)<br>
-_election results_: percent of vote - NA; seats by party - independent 12, nobles' representatives 9, DPFI 3, TPPI 3; composition - men 26, women 2, percentage women 7.1%<br>
+_legislature name_: Legislative Assembly (Fale Alea)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 30 (17 directly elected; 9 indirectly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 11/18/2021<br>
+_percentage of women in chamber_: 7.1%<br>
+_expected date of next election_: November 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president and a number of judges determined by the monarch); note - appeals beyond the Court of Appeal are brought before the King in Privy Council, the monarch's advisory organ that has both judicial and legislative powers<br>
@@ -366,25 +372,25 @@ _lyrics/music_: Uelingatoni Ngu TUPOUMALOHI/Karl Gustavus SCHMITT<br>
 upper middle-income Pacific island economy; enormous diaspora and remittance reliance; key tourism and agricultural sectors; major fish exporter; rapidly growing Chinese infrastructure investments; rising methamphetamine hub<br>
 
 **Real GDP (purchasing power parity)**<br>
-$700.437 million (2022 est.)<br>
-$714.816 million (2021 est.)<br>
-$734.406 million (2020 est.)<br>
+$724.972 million (2022 est.)<br>
+$742.114 million (2021 est.)<br>
+$739.433 million (2020 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--2.01% (2022 est.)<br>
--2.67% (2021 est.)<br>
+-2.31% (2022 est.)<br>
+0.36% (2021 est.)<br>
 0.49% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$6,600 (2022 est.)<br>
-$6,700 (2021 est.)<br>
+$6,900 (2022 est.)<br>
+$7,000 (2021 est.)<br>
 $7,000 (2020 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$500.275 million (2022 est.)<br>
+$518.18 million (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -394,18 +400,18 @@ $500.275 million (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 16.3% (2021 est.)<br>
-_industry_: 15.9% (2021 est.)<br>
-_services_: 49.7% (2021 est.)<br>
+_agriculture_: 15.6% (2022 est.)<br>
+_industry_: 15.5% (2022 est.)<br>
+_services_: 51.8% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 109% (2021 est.)<br>
-_government consumption_: 30.7% (2021 est.)<br>
-_investment in fixed capital_: 23.2% (2021 est.)<br>
-_investment in inventories_: -1.3% (2021 est.)<br>
-_exports of goods and services_: 12.5% (2021 est.)<br>
-_imports of goods and services_: -60.8% (2021 est.)<br>
+_household consumption_: 77.9% (2022 est.)<br>
+_government consumption_: 30% (2022 est.)<br>
+_investment in fixed capital_: 27.2% (2022 est.)<br>
+_investment in inventories_: -0.4% (2022 est.)<br>
+_exports of goods and services_: 11.6% (2022 est.)<br>
+_imports of goods and services_: -63.8% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -416,11 +422,11 @@ coconuts, pumpkins/squash, cassava, sweet potatoes, vegetables, yams, taro, root
 tourism, construction, fishing<br>
 
 **Industrial production growth rate**<br>
-1.23% (2021 est.)<br>
+-12.25% (2022 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-38,000 (2023 est.)<br>
+36,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -448,9 +454,9 @@ _highest 10%_: 22% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-45.03% of GDP (2022 est.)<br>
-46.95% of GDP (2021 est.)<br>
-38.26% of GDP (2020 est.)<br>
+41.94% of GDP (2022 est.)<br>
+41.98% of GDP (2021 est.)<br>
+38.23% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -459,22 +465,22 @@ _expenditures_: $160.257 million (2020 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-45.02% of GDP (2020 est.)<br>
+43.92% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-21.3% (of GDP) (2020 est.)<br>
+20.79% (of GDP) (2020 est.)<br>
 
 **Current account balance**<br>
--$28.84 million (2022 est.)<br>
--$33.414 million (2021 est.)<br>
--$36.294 million (2020 est.)<br>
+-$30.073 million (2023 est.)<br>
+-$27.749 million (2022 est.)<br>
+-$32.382 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$95.345 million (2023 est.)<br>
 $59.926 million (2022 est.)<br>
 $57.534 million (2021 est.)<br>
-$99.78 million (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -486,9 +492,9 @@ fish, scrap copper, processed crustaceans, vegetables, perfume plants (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$332.743 million (2022 est.)<br>
-$299.094 million (2021 est.)<br>
-$314.803 million (2020 est.)<br>
+$383.462 million (2023 est.)<br>
+$330.306 million (2022 est.)<br>
+$298.304 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -506,7 +512,7 @@ $361.812 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$152.877 million (2022 est.)<br>
+$168.587 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

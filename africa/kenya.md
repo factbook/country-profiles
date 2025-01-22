@@ -346,9 +346,30 @@ _election results_: <em><br>2022</em>:  William RUTO elected president in first
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (68 seats; 47 members directly elected in single-seat constituencies by simple majority vote and 20 directly elected by proportional representation vote - 16 women, 2 representing youth, 2 representing the disabled, and one Senate speaker; members serve 5-year terms)<br>National Assembly (350 seats; 290 members directly elected in single-seat constituencies by simple majority vote, 47 women in single-seat constituencies elected by simple majority vote, and 12 members nominated by the National Assembly - 6 representing youth and 6 representing the disabled, and one Assembly speaker; members serve 5-year terms)<br>
-_elections_: Senate - last held on 9 August 2022 (next to be held on 10 August 2027)<br>National Assembly - last held on 9 August 2022 (next to be held on 10 August 2027)<br>
-_election results_: Senate - percent of vote by party/coalition - NA; seats by party/coalition - Kenya Kwanza 33, Azimio La Umoja 32, independent 2, other 1; composition - men 46, women 21, percentage women is 31.3%<br><br>National Assembly - percent of vote by party/coalition - NA; seats by party/coalition - Kenya Kwanza alliance 176, Azimio La Umoja alliance 161, independent 12, other 1; composition - men 267, women 81, percentage women 24.6%<br>
+_legislature name_: Parliament of Kenya<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: National Assembly<br>
+_number of seats_: 350 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 8/9/2022<br>
+_parties elected and seats per party_: United Democratic Alliance (UDA) (145); Orange Democratic Movement (ODM) (86); Jubilee Party (JP) (28); Wiper Democratic Movement-Kenya (WDM-K) (26); Others (19); Other (45)<br>
+_percentage of women in chamber_: 23.3%<br>
+_expected date of next election_: August 2027<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate<br>
+_number of seats_: 68 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 8/9/2022<br>
+_parties elected and seats per party_: Kenya Kwanza Alliance (33); Azimio la Umoja - One Kenya Coalition Party (32); Other (1)<br>
+_percentage of women in chamber_: 31.3%<br>
+_expected date of next election_: August 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of chief and deputy chief justices and 5 judges)<br>
@@ -370,7 +391,7 @@ _email address and website_: <br>information@kenyaembassydc.org<br><br>https://k
 _consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Margaret "Meg" WHITMAN (since 5 August 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Marc DILLARD (since November 2024)<br>
 _embassy_: P.O. Box 606 Village Market, 00621 Nairobi<br>
 _mailing address_: 8900 Nairobi Place, Washington, DC&nbsp; 20521-8900<br>
 _telephone_: [254] (20) 363-6000<br>
@@ -398,25 +419,25 @@ _selected World Heritage Site locales_: <p>Lake Turkana National Parks (n); Moun
 fast growing, third largest Sub-Saharan economy; strong agriculture sector with emerging services and tourism industries; IMF program to address current account and debt service challenges; business-friendly policies foster infrastructure investment, digital innovation and public-private partnerships; vulnerable to climate change-induced droughts<br>
 
 **Real GDP (purchasing power parity)**<br>
-$314.063 billion (2023 est.)<br>
-$297.9 billion (2022 est.)<br>
+$314.491 billion (2023 est.)<br>
+$297.938 billion (2022 est.)<br>
 $284.129 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.43% (2023 est.)<br>
-4.85% (2022 est.)<br>
+5.56% (2023 est.)<br>
+4.86% (2022 est.)<br>
 7.59% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $5,700 (2023 est.)<br>
 $5,500 (2022 est.)<br>
-$5,400 (2021 est.)<br>
+$5,300 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$107.441 billion (2023 est.)<br>
+$108.039 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -432,18 +453,18 @@ _Standard & Poors rating_: B+ (2010)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 21.3% (2023 est.)<br>
-_industry_: 17.1% (2023 est.)<br>
-_services_: 55.5% (2023 est.)<br>
+_agriculture_: 21.8% (2023 est.)<br>
+_industry_: 16.9% (2023 est.)<br>
+_services_: 55.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 77% (2023 est.)<br>
-_government consumption_: 12.3% (2023 est.)<br>
-_investment in fixed capital_: 17.7% (2023 est.)<br>
-_investment in inventories_: 0.4% (2023 est.)<br>
-_exports of goods and services_: 11.8% (2023 est.)<br>
-_imports of goods and services_: -20.6% (2023 est.)<br>
+_household consumption_: 76.9% (2023 est.)<br>
+_government consumption_: 11.9% (2023 est.)<br>
+_investment in fixed capital_: 17.2% (2023 est.)<br>
+_investment in inventories_: -0.9% (2023 est.)<br>
+_exports of goods and services_: 11.7% (2023 est.)<br>
+_imports of goods and services_: -20.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -454,11 +475,11 @@ sugarcane, milk, maize, tea, bananas, potatoes, cabbages, camel milk, cassava, m
 agriculture, transportation, services, manufacturing, construction, telecommunications, tourism, retail<br>
 
 **Industrial production growth rate**<br>
-2.2% (2023 est.)<br>
+1.88% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-25.502 million (2023 est.)<br>
+25.52 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -474,7 +495,7 @@ _female_: 16.3% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-36.1% (2015 est.)<br>
+38.6% (2021 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -491,8 +512,8 @@ _highest 10%_: 31.8% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-3.92% of GDP (2023 est.)<br>
-3.58% of GDP (2022 est.)<br>
+3.91% of GDP (2023 est.)<br>
+3.55% of GDP (2022 est.)<br>
 3.44% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -505,19 +526,19 @@ _expenditures_: $29.933 billion (2023 est.)<br>
 54.2% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-13.26% (of GDP) (2021 est.)<br>
+13.99% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$5.766 billion (2022 est.)<br>
--$5.744 billion (2021 est.)<br>
--$4.792 billion (2020 est.)<br>
+-$4.317 billion (2023 est.)<br>
+-$5.889 billion (2022 est.)<br>
+-$5.597 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$13.859 billion (2022 est.)<br>
-$11.825 billion (2021 est.)<br>
-$9.709 billion (2020 est.)<br>
+$12.626 billion (2023 est.)<br>
+$13.954 billion (2022 est.)<br>
+$11.815 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -529,9 +550,9 @@ tea, cut flowers, garments, coffee, titanium ore (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$24.406 billion (2022 est.)<br>
-$21.853 billion (2021 est.)<br>
-$17.717 billion (2020 est.)<br>
+$22.046 billion (2023 est.)<br>
+$24.606 billion (2022 est.)<br>
+$22.001 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -549,7 +570,7 @@ $9.491 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$31.029 billion (2022 est.)<br>
+$33.484 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

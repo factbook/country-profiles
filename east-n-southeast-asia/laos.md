@@ -339,9 +339,16 @@ _elections/appointments_: president and vice president indirectly elected by the
 _election results_: <em><br>2021: </em>THONGLOUN Sisoulith (LPRP) elected president; National Assembly vote - 161-1; PHANKHAM Viphavanh (LPRP) elected prime minister; National Assembly vote - 158-3<br><br><em>2016:</em> BOUNNHANG Vorachit (LPRP) elected president; percent of National Assembly vote - NA; THONGLOUN Sisoulith (LPRP) elected prime minister; percent of National Assembly vote - NA<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Sapha Heng Xat (164 seats; members directly elected in multi-seat constituencies by simple majority vote from candidate lists provided by the Lao People's Revolutionary Party; members serve 5-year terms)<br>
-_elections_: last held on 21 February 2021 (next to be held in 2026)<br>
-_election results_: percent of vote by party - NA; seats by party - LPRP 158, independent 6; composition - men 128, women 36, percentage women 22%<br>
+_legislature name_: National Assembly (Sapha Heng Xat)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 164 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 2/21/2021<br>
+_parties elected and seats per party_: Lao People's Revolutionary Party (LPRP) (158); Other (6)<br>
+_percentage of women in chamber_: 22%<br>
+_expected date of next election_: February 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: People's Supreme Court (consists of the court president and organized into criminal, civil, administrative, commercial, family, and juvenile chambers, each with a vice president and several judges)<br>
@@ -433,6 +440,7 @@ _services_: 44% (2023 est.)<br>
 _household consumption_: 65.7% (2016 est.)<br>
 _government consumption_: 14% (2016 est.)<br>
 _investment in fixed capital_: 29% (2016 est.)<br>
+_investment in inventories_: 0% (2016 est.)<br>
 _exports of goods and services_: 33.2% (2016 est.)<br>
 _imports of goods and services_: -41.9% (2016 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -449,7 +457,7 @@ mining (copper, tin, gold, gypsum); timber, electric power, agricultural process
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.174 million (2023 est.)<br>
+3.173 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -482,7 +490,7 @@ _highest 10%_: 31.2% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.42% of GDP (2023 est.)<br>
+1.81% of GDP (2023 est.)<br>
 1.55% of GDP (2022 est.)<br>
 1.17% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -499,15 +507,15 @@ _expenditures_: $1.596 billion (2022 est.)<br>
 12.11% (of GDP) (2022 est.)<br>
 
 **Current account balance**<br>
--$10.954 million (2022 est.)<br>
-$446.505 million (2021 est.)<br>
--$230.973 million (2020 est.)<br>
+$404.523 million (2023 est.)<br>
+-$458.754 million (2022 est.)<br>
+$431.636 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$9.698 billion (2023 est.)<br>
 $8.604 billion (2022 est.)<br>
 $7.82 billion (2021 est.)<br>
-$6.461 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -519,9 +527,9 @@ electricity, gold, rubber, fertilizers, paper (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$7.772 billion (2022 est.)<br>
+$8.596 billion (2023 est.)<br>
+$7.983 billion (2022 est.)<br>
 $6.527 billion (2021 est.)<br>
-$5.816 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -537,6 +545,9 @@ $1.77 billion (2023 est.)<br>
 $1.576 billion (2022 est.)<br>
 $1.951 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+
+**Debt - external**<br>
+$9.853 billion (2023 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: kips (LAK) per US dollar -<br>

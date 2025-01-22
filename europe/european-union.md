@@ -217,9 +217,15 @@ _amendments_: European Union treaties can be amended in several ways: 1) Ordinar
 <strong>note:</strong> for external representation and foreign policy making, member-state leaders appointed Joseph BORRELL (Spain) as the High Representative of the Union for Foreign Affairs and Security Policy; BORRELL took office on 1 December 2019, succeeding Federica MOGHERINI (Italy (2014 - 2019); the High Representative's concurrent appointment as Vice President of the European Commission was meant to bring more coherence to the EU’s foreign policy (including policies managed by the Commission that are particularly relevant for EU external relations, such as trade, humanitarian aid and crisis management, neighborhood policy and enlargement, as well as between member-state capitals and the EU); the High Representative helps develop and implement the EU's Common Foreign and Security Policy and Common Security and Defense Policy components, chairs the Council of the EU's meetings of member-state foreign ministers, called the Foreign Affairs Council, represents and acts for the Union in many international contexts, and oversees the European External Action Service, the diplomatic corps of the EU, established on 1 December 2010<br>
 
 **Legislative branch**<br>
-_description_: two legislative bodies consisting of the Council of the European Union (27 seats; ministers representing the 27 member states) and the European Parliament (720 seats; seats allocated among member states roughly in proportion to population size; members elected by proportional representation to serve 5-year terms)<br>
-_elections_: last held on 6-9 June 2024 (next to be held in June 2029)<br>
-_election results_: European Parliament percent of vote - NA; seats by party - EPP 188, S&amp;D 136, PfE 84, ECR 78, Renew 77, Greens/EFA 53, GUE-NGL 46, ESN 25, non-attached 12, other 21; composition - men 424, women 281, percentage women 39.8%<br>
+_legislature name_: Council of the European Union (Council) and the European Parliament (EP) (separate legislative bodies; <em>see note 2</em>)<br>
+_number of seats_: Council - 27; EP - 720<br>
+_electoral system_: Council - none, composed of ministers from EU member states; EP - proportional representation<br>
+_scope of elections_: EP - full renewal<br>
+_term in office_: 5 years note: for the EP<br>
+_most recent election date_: EP - 6/9/2024<br>
+_parties elected and seats per party_: EP - PP (188); S&amp;D (136); PfE (84); ECR (78); Renew (77); Greens/EFA (53); GUE-NGL (46); ESN (25); non-attached (12); other (21)<br>
+_percentage of women in chamber_: 39.8% note: for the EP<br>
+_expected date of next election_: EP - June 2029<br>
 <strong>note 1:</strong> the European Parliament (EP) President, Roberta METSOLA, was elected in January 2022 and reelected in July 2024 by a majority of EP members (MEPs) and represents the EP in the EU and internationally <br><br><strong>note 2:</strong> the EP and the Council of the EU share responsibilities for adopting the bulk of EU legislation; the European Commission proposes legislation, and the two other bodies have to agree for the proposal to become law -- except in the area of Common Foreign and Security Policy, which is governed by consensus of the EU member-state governments<br>
 
 **Judicial branch**<br>
@@ -261,25 +267,25 @@ _lyrics/music_: no lyrics/Ludwig VAN BEETHOVEN, arranged by Herbert VON KARAJAN<
 ## Economy
 
 **Real GDP (purchasing power parity)**<br>
-$24.177 trillion (2023 est.)<br>
-$24.05 trillion (2022 est.)<br>
-$23.216 trillion (2021 est.)<br>
+$24.436 trillion (2023 est.)<br>
+$24.308 trillion (2022 est.)<br>
+$23.457 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.45% (2023 est.)<br>
-3.48% (2022 est.)<br>
+0.43% (2023 est.)<br>
+3.5% (2022 est.)<br>
 6.01% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$53,800 (2023 est.)<br>
-$53,800 (2022 est.)<br>
-$51,900 (2021 est.)<br>
+$54,400 (2023 est.)<br>
+$54,300 (2022 est.)<br>
+$52,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$18.349 trillion (2023 est.)<br>
+$18.591 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -296,17 +302,17 @@ _Standard & Poors rating_: AA (2016)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.7% (2023 est.)<br>
-_industry_: 23.7% (2023 est.)<br>
-_services_: 65% (2023 est.)<br>
+_industry_: 23.3% (2023 est.)<br>
+_services_: 65.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 52.3% (2023 est.)<br>
-_government consumption_: 21.1% (2023 est.)<br>
-_investment in fixed capital_: 22.2% (2023 est.)<br>
-_investment in inventories_: 0.7% (2023 est.)<br>
-_exports of goods and services_: 52.7% (2023 est.)<br>
-_imports of goods and services_: -49% (2023 est.)<br>
+_household consumption_: 51.6% (2023 est.)<br>
+_government consumption_: 20.8% (2023 est.)<br>
+_investment in fixed capital_: 22.1% (2023 est.)<br>
+_investment in inventories_: 0.3% (2023 est.)<br>
+_exports of goods and services_: 51.9% (2023 est.)<br>
+_imports of goods and services_: -48.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -317,21 +323,21 @@ milk, wheat, sugar beets, maize, barley, potatoes, grapes, pork, rapeseed, tomat
 among the world's largest and most technologically advanced regions, the EU industrial base includes: ferrous and non-ferrous metal production and processing, metal products, petroleum, coal, cement, chemicals, pharmaceuticals, aerospace, rail transportation equipment, passenger and commercial vehicles, construction equipment, industrial equipment, shipbuilding, electrical power equipment, machine tools and automated manufacturing systems, electronics and telecommunications equipment, fishing, food and beverages, furniture, paper, textiles<br>
 
 **Industrial production growth rate**<br>
--1.01% (2023 est.)<br>
+-0.93% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-221.858 million (2023 est.)<br>
+221.675 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.02% (2023 est.)<br>
+6.03% (2023 est.)<br>
 6.15% (2022 est.)<br>
-7.02% (2021 est.)<br>
+7.03% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.1% (2023 est.)<br>
+_total_: 16.2% (2023 est.)<br>
 _male_: 16.4% (2023 est.)<br>
 _female_: 16% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
@@ -344,16 +350,16 @@ _lowest 10%_: 2.8%<br>
 _highest 10%_: 23.8% (2016 est.)<br>
 
 **Remittances**<br>
-0.77% of GDP (2023 est.)<br>
-0.79% of GDP (2022 est.)<br>
-0.77% of GDP (2021 est.)<br>
+0.82% of GDP (2023 est.)<br>
+0.8% of GDP (2022 est.)<br>
+0.78% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Public debt**<br>
 86.8% of GDP (2014)<br>
 
 **Taxes and other revenues**<br>
-19.94% (of GDP) (2022 est.)<br>
+19.7% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -361,9 +367,9 @@ $404.9 billion (2017 est.)<br>
 $359.7 billion (2016 est.)<br>
 
 **Exports**<br>
-$9.712 trillion (2023 est.)<br>
-$9.478 trillion (2022 est.)<br>
-$8.789 trillion (2021 est.)<br>
+$9.667 trillion (2023 est.)<br>
+$9.41 trillion (2022 est.)<br>
+$8.712 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -375,9 +381,9 @@ cars, packaged medicine, refined petroleum, vaccines, vehicle parts/accessories 
 <strong>note:</strong> top five export commodities based on value in dollars; includes both exports to external partners and internal trade among EU member states<br>
 
 **Imports**<br>
-$9.004 trillion (2023 est.)<br>
-$9.143 trillion (2022 est.)<br>
-$8.103 trillion (2021 est.)<br>
+$8.969 trillion (2023 est.)<br>
+$9.061 trillion (2022 est.)<br>
+$8.022 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

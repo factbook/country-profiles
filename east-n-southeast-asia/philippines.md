@@ -347,9 +347,29 @@ _election results_: <em><br>2022: </em>Ferdinand MARCOS, Jr. elected president; 
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: bicameral Congress or Kongreso consists of:<br>Senate or Senado (24 seats; members directly elected in multi-seat constituencies by majority vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>House of Representatives or Kapulungan Ng Mga Kinatawan (316 seats; 253 members directly elected in single-seat constituencies by simple majority vote and 63 representing minorities directly elected by party-list proportional representation vote; members serve 3-year terms)<br>
-_elections_: Senate - elections last held on 9 May 2022 (next to be held in May 2025)<br>House of Representatives - elections last held on 9 May 2022 (next to be held in May 2025)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NPC 5, PDP-Laban 5, NP 4, other 5, independent 5; composition - men 17, women 7, percentage women 29.2%<br><br>House of Representatives - percent of vote by party - PDP-Laban 22.7%, NP 13.7%, NUP 12.6%, NPC 11.7%,  Lakas-CMD 9.4%, LP 3.8%, HNP 2.5%, other 19.6%, independent 4%; seats by party - PDP-Laban 66, NP 36, NPC 35, NUP 33, Lakas-CMD 26, LP 10, HNP 6, other 35, independent 6, party-list 63; composition - men 226, women 85, percentage women 27.3%; total Congress percentage women 27.5%<br>
+_legislature name_: Congress (Kongreso)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives (Kapulungan Ng Mga Kinatawan)<br>
+_number of seats_: 316 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 3 years<br>
+_most recent election date_: 5/9/2022<br>
+_percentage of women in chamber_: 27.3%<br>
+_expected date of next election_: May 2025<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Senado)<br>
+_number of seats_: 24 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: partial renewal<br>
+_term in office_: 6 years<br>
+_most recent election date_: 5/9/2022<br>
+_parties elected and seats per party_: Nationalist People's Coalition (NPC) (5); Partido Demokratiko Pilipino-Laban (PDP-Laban) (5); Nacionalista Party (NP) (4); Independents (5); Other (5)<br>
+_percentage of women in chamber_: 29.2%<br>
+_expected date of next election_: May 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of a chief justice and 14 associate justices)<br>
@@ -412,9 +432,9 @@ $1.002 trillion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$9,700 (2023 est.)<br>
-$9,300 (2022 est.)<br>
-$8,800 (2021 est.)<br>
+$9,900 (2023 est.)<br>
+$9,500 (2022 est.)<br>
+$8,900 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -460,7 +480,7 @@ semiconductors and electronics assembly, business process outsourcing, food and 
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-49.477 million (2023 est.)<br>
+49.414 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -508,17 +528,17 @@ _expenditures_: $75.238 billion (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-14.62% (of GDP) (2022 est.)<br>
+14.1% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$11.206 billion (2023 est.)<br>
+-$11.817 billion (2023 est.)<br>
 -$18.261 billion (2022 est.)<br>
 -$5.943 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$103.601 billion (2023 est.)<br>
+$103.714 billion (2023 est.)<br>
 $98.832 billion (2022 est.)<br>
 $87.798 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -532,7 +552,7 @@ integrated circuits, machine parts, gold, semiconductors, insulated wire (2022)<
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$150.269 billion (2023 est.)<br>
+$150.914 billion (2023 est.)<br>
 $152.638 billion (2022 est.)<br>
 $126.565 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -550,6 +570,9 @@ $103.742 billion (2023 est.)<br>
 $96.04 billion (2022 est.)<br>
 $108.755 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+
+**Debt - external**<br>
+$67.114 billion (2023 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Philippine pesos (PHP) per US dollar -<br>

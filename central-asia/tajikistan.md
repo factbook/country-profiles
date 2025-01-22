@@ -331,16 +331,35 @@ _residency requirement for naturalization_: 5 years or 3 years of continuous res
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Emomali RAHMON (since 6 November 1994; head of state and Supreme Assembly Chairman since 19 November 1992)<br>
+_chief of state_: President Emomali RAHMON (since 16 November 1994; head of state and Supreme Assembly Chairman since 20 November 1992)<br>
 _head of government_: Prime Minister Qohir RASULZODA (since 23 November 2013)<br>
 _cabinet_: Council of Ministers appointed by the president, approved by the Supreme Assembly<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (two-term limit); however, as the "Leader of the Nation" President RAHMON can run an unlimited number of times; election last held on 11 October 2020 (next to be held in 2027); prime minister appointed by the president<br>
-_election results_: <br><em>2020</em>: Emomali RAHMON reelected president; percent of vote - Emomali RAHMON (PDPT) 92.1%, Rustam LATIFZODA (APT) 3.1%, and other 4.8%<br><br><em>2013:</em> Emomali RAHMOND reelected president; percent of vote - Emomali RAHMOND (PDPT) 84%, Ismoil TALBAKOV CPT) 5%, other 11%<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (two-term limit); however, as the "Leader of the Nation" President RAHMON has no term limit; election last held on 11 October 2020 (next to be held in 2027); prime minister appointed by the president<br>
+_election results_: <br><em>2020</em>: Emomali RAHMON reelected president; percent of vote - Emomali RAHMON (PDPT) 92.1%, Rustam LATIFZODA (APT) 3.1%, other 4.8%<br><br><em>2013:</em> Emomali RAHMON reelected president; percent of vote - Emomali RAHMON (PDPT) 84%, Ismoil TALBAKOV CPT) 5%, other 11%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Supreme Assembly or Majlisi Oli consists of:<br>National Assembly or Majlisi Milli (34 seats; 25 members indirectly elected by local representative assemblies or majlisi, 8 appointed by the president, and 1 reserved for each living former president; members serve 5-year terms)<br>Assembly of Representatives or Majlisi Namoyandagon (63 seats; 41 members directly elected in single-seat constituencies by 2-round absolute majority vote and 22 directly elected in a single nationwide constituency by closed-list proportional representation vote; members serve 5-year terms)<br>
-_elections_: National Assembly - last held on 1 March 2020 (next to be held in 2025)<br>Assembly of Representatives - last held on 1 March 2020 (next to be held in 2025)<br>
-_election results_: National Assembly - percent of vote by party - NA; seats by party - PDPT 47, APT 7, PERT 5, CPT 2, DPT1, SPT 1; composition - men 19, women 6, percentage women 24%<br><br>Assembly of Representatives - percent of vote by party - PDPT 50.4%, PERT 16.6%, APT 16.5%, SPT 5.2%, DPT 5.1%, CPT 3.1%, other 3.1%; seats by party - PDPT 47, APT 7, PERT 5, CPT 2, SPT 1, DPT 1; composition - men 48, women 15, percentage women 23.8%; total Supreme Assembly percentage women 27%<br>
+_legislature name_: Supreme Council (Majlisi Oli)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives (Majlisi namoyandogon)<br>
+_number of seats_: 63 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 3/1/2020<br>
+_parties elected and seats per party_: People's Democratic Party of Tajikistan (PDPT) (47); Agrarian Party of Tajikistan (APT) (7); Party of Economic Reforms of Tajikistan (PERT) (5); Other (4)<br>
+_percentage of women in chamber_: 27%<br>
+_expected date of next election_: March 2025<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: National Assembly (Majlisi milli)<br>
+_number of seats_: 33 (25 indirectly elected; 8 appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 3/27/2020<br>
+_percentage of women in chamber_: 25.8%<br>
+_expected date of next election_: March 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chairman, deputy chairmen, and 34 judges organized into civil, family, criminal, administrative offense, and military chambers); Constitutional Court (consists of the court chairman, deputy chairman, and 5 judges); High Economic Court (consists of 16 judicial positions)<br>
@@ -401,9 +420,9 @@ $39.727 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$4,600 (2023 est.)<br>
-$4,300 (2022 est.)<br>
-$4,100 (2021 est.)<br>
+$4,500 (2023 est.)<br>
+$4,200 (2022 est.)<br>
+$4,000 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -448,7 +467,7 @@ aluminum, cement, coal, gold, silver, antimony, textile, vegetable oil<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.677 million (2023 est.)<br>
+2.724 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -533,6 +552,9 @@ $3.847 billion (2022 est.)<br>
 $2.499 billion (2021 est.)<br>
 $2.238 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+
+**Debt - external**<br>
+$3.191 billion (2023 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Tajikistani somoni (TJS) per US dollar -<br>

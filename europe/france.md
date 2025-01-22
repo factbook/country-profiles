@@ -369,9 +369,29 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2022: </em>Emmanuel MACRON reelected in second round; percent of vote in first round - Emmanuel MACRON (LREM) 27.8%, Marine LE PEN (RN) 23.2%, Jean-Luc MELENCHON (LFI) 22%, Eric ZEMMOUR (Reconquête) 7.1%, Valerie PECRESSE (LR) 4.8%, Yannick JADOT (EELV) 4.6%, other 10.6%; percent of vote in second round - MACRON 58.5%, LE PEN 41.5%<em><br></em><br><em>2017:</em> Emmanuel MACRON elected president in second round; percent of vote in first round - Emmanuel MACRON (EM) 24%, Marine LE PEN (FN) 21.3%, Francois FILLON (LR) 20%, Jean-Luc MELENCHON (FI) 19.6%, Benoit HAMON (PS) 6.4%, other 8.7%; percent of vote in second round - MACRON 66.1%, LE PEN 33.9%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Parlement consists of:<br>Senate or Sénat (348 seats; members indirectly elected; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National Assembly or Assemblée Nationale (577 seats - 556 for metropolitan France, 10 for overseas departments, and 11 for citizens abroad; members directly elected by absolute majority vote in 2 rounds if needed to serve 5-year terms)<br>
-_elections_: Senate - last held on 24 September 2023 (next to be held by 30 September 2026)<br>National Assembly - last held on 30 June and 7 July 2024 (next to be held on 30 June 2029)<br>
-_election results_: Senate - percent of vote by party - NA; seats by political caucus (party or group of parties) LR 139, SER 69, UC 51, RDPI 21, CRCE 17, LIRT 17, EST 16, RDSE 14; composition - men 222, women 126, percentage women 36.2%.<br><br>National Assembly - percent of vote by party/coalition in the first round - RN 29.26%, NPF 28.06%, ENS 20.04%, LR 6.57%, UXD 3.96%, other 12.11%; seats by party/coalition in the first round - RN 37, NPF 32, ENS 2, LR 1, UXD 1, other 3; percent of vote in the second round - RN 32.05%, NPF 25.68, ENS 23.14% LR 5.41%, UXD 5.0%, other 8.72%, seats by party/coalition in the second round - NPF 146, ENS 148, RN 88, LR 38, UXD 16, other 65; composition - men 369, women 208, percentage women 36%<br>
+_legislature name_: Parliament (Parlement)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: National Assembly (Assemblée nationale)<br>
+_number of seats_: 577 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 6/30/2024 to 7/7/2024<br>
+_parties elected and seats per party_: New Popular Front (NFP)/UG (178); Ensemble (presidential majority) (150); National Rally (RN) (125); The Republicans (LR) (39); Other (85)<br>
+_percentage of women in chamber_: 36%<br>
+_expected date of next election_: June 2029<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Sénat)<br>
+_number of seats_: 348 (all indirectly elected)<br>
+_scope of elections_: partial renewal<br>
+_term in office_: 6 years<br>
+_most recent election date_: 9/24/2023<br>
+_percentage of women in chamber_: 36.2%<br>
+_expected date of next election_: September 2026<br>
+<strong>note 1:</strong> of the 348 Senate seats, 328 seats are for metropolitan France, overseas departments, and regions of Guadeloupe, Martinique, French Guiana, Reunion, and Mayotte; the remainder of the seats include 2 for New Caledonia, 2 for French Polynesia, 1 for Saint-Pierre and Miquelon, 1 for Saint-Barthelemy, 1 for Saint-Martin, 1 for Wallis and Futuna, and 12 for French nationals abroad<br><strong><br>note 2:</strong> Senate members are indirectly elected by departmental electoral colleges, using absolute majority vote in two rounds if needed for departments with 1-3 members, and proportional representation vote in departments with 4 or more members<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation or Cour de Cassation (consists of the court president, 6 divisional presiding judges, 120 trial judges, and 70 deputy judges organized into 6 divisions - 3 civil, 1 commercial, 1 labor, and 1 criminal); Constitutional Council (consists of 9 members)<br>
@@ -425,25 +445,25 @@ _selected World Heritage Site locales_: Chartres Cathedral (c); Palace and Park 
 high-income, advanced and diversified EU economy and euro user; strong tourism, aircraft manufacturing, pharmaceuticals, and industrial sectors; high public debt; ongoing pension reform efforts; transitioning to a green economy via "France 2030" strategy<br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.764 trillion (2023 est.)<br>
-$3.738 trillion (2022 est.)<br>
-$3.648 trillion (2021 est.)<br>
+$3.786 trillion (2023 est.)<br>
+$3.751 trillion (2022 est.)<br>
+$3.657 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.7% (2023 est.)<br>
-2.45% (2022 est.)<br>
+0.94% (2023 est.)<br>
+2.57% (2022 est.)<br>
 6.44% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$55,200 (2023 est.)<br>
-$55,000 (2022 est.)<br>
-$53,800 (2021 est.)<br>
+$55,400 (2023 est.)<br>
+$55,100 (2022 est.)<br>
+$53,900 (2021 est.)<br>
 <strong>note:</strong> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.031 trillion (2023 est.)<br>
+$3.052 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -459,18 +479,18 @@ _Standard & Poors rating_: AA (2013)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.9% (2023 est.)<br>
-_industry_: 18.7% (2023 est.)<br>
-_services_: 69.2% (2023 est.)<br>
+_agriculture_: 1.7% (2023 est.)<br>
+_industry_: 18.5% (2023 est.)<br>
+_services_: 69.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 53.7% (2023 est.)<br>
-_government consumption_: 23.3% (2023 est.)<br>
-_investment in fixed capital_: 24.8% (2023 est.)<br>
-_investment in inventories_: 0.4% (2023 est.)<br>
-_exports of goods and services_: 32.7% (2023 est.)<br>
-_imports of goods and services_: -34.9% (2023 est.)<br>
+_household consumption_: 53.4% (2023 est.)<br>
+_government consumption_: 23.1% (2023 est.)<br>
+_investment in fixed capital_: 23.1% (2023 est.)<br>
+_investment in inventories_: 0.1% (2023 est.)<br>
+_exports of goods and services_: 34.3% (2023 est.)<br>
+_imports of goods and services_: -36.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -481,11 +501,11 @@ wheat, sugar beets, milk, barley, maize, potatoes, grapes, rapeseed, pork, sunfl
 machinery, chemicals, automobiles, metallurgy, aircraft, electronics, textiles, food processing, tourism<br>
 
 **Industrial production growth rate**<br>
-0.74% (2023 est.)<br>
+4.46% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-31.825 million (2023 est.)<br>
+31.979 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -518,9 +538,9 @@ _highest 10%_: 24.9% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.15% of GDP (2023 est.)<br>
-1.22% of GDP (2022 est.)<br>
-1.11% of GDP (2021 est.)<br>
+1.21% of GDP (2023 est.)<br>
+1.19% of GDP (2022 est.)<br>
+1.1% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -529,23 +549,23 @@ _expenditures_: $1.362 trillion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-98.66% of GDP (2022 est.)<br>
+98.05% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-24.62% (of GDP) (2022 est.)<br>
+24.47% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$22.792 billion (2023 est.)<br>
--$56.672 billion (2022 est.)<br>
-$9.868 billion (2021 est.)<br>
+-$30.334 billion (2023 est.)<br>
+-$33.069 billion (2022 est.)<br>
+$7.245 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$1.052 trillion (2023 est.)<br>
-$1.013 trillion (2022 est.)<br>
-$925.551 billion (2021 est.)<br>
+$1.05 trillion (2023 est.)<br>
+$1.021 trillion (2022 est.)<br>
+$926.762 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -557,9 +577,9 @@ aircraft, packaged medicine, cars, natural gas, vehicle parts/accessories (2022)
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$1.099 trillion (2023 est.)<br>
-$1.103 trillion (2022 est.)<br>
-$963.999 billion (2021 est.)<br>
+$1.094 trillion (2023 est.)<br>
+$1.092 trillion (2022 est.)<br>
+$957.017 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

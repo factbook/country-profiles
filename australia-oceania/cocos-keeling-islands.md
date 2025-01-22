@@ -162,9 +162,15 @@ _cabinet_: NA<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the Australian prime minister; administrator appointed by the governor-general for a 2-year term and represents the monarch and Australia<br>
 
 **Legislative branch**<br>
-_description_: unicameral Cocos (Keeling) Islands Shire Council (7 seats; members directly elected by simple majority vote to serve 4-year terms with 4 members renewed every 2 years)<br>
-_elections_: last held on 21 October 2023 (next to be held in October 2025)<br>
-_election results_: percent of vote by party - NA; seats by party - NA; composition - men 6, women 1, percent of women 16.7%<br>
+_legislature name_: Cocos (Keeling) Islands Shire Council<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 7 (directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: partial renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 10/21/2023<br>
+_percentage of women in chamber_: 16.7%<br>
+_expected date of next election_: October 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: under the terms of the Territorial Law Reform Act 1992, Western Australia provides court services as needed for the island including the Supreme Court and subordinate courts (District Court, Magistrate Court, Family Court, Children's Court, and Coroners' Court)<br>

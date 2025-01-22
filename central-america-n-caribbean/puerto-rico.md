@@ -284,16 +284,38 @@ see United States<br>
 
 **Executive branch**<br>
 _chief of state_: President Joseph R. BIDEN Jr. (since 20 January 2021)<br>
-_head of government_: Governor Pedro PIERLUISI (since 2 January 2021)<br>
+_head of government_: Governor Jenniffer GONZ&Aacute;LEZ-COL&Oacute;N (since 2 January 2025)<br>
 _cabinet_: Cabinet appointed by governor with the consent of the Legislative Assembly<br>
-_elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of Puerto Rico do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican party presidential primary elections; governor directly elected by simple majority popular vote for a 4-year term (no term limits); election last held on 3 November 2020 (next to be held on 5 November 2024)<br>
-_election results_: <p><em>2024: </em>Jenniffer GONZÁLEZ-COLÓN elected governor; percent of vote - Jenniffer GONZÁLEZ-COLÓN (PNP) 39.4%, Juan DALMAU Ramírez (PIP) 32.7%, Jesús Manuel ORTIZ (PPD) 21.1%, Javier JIMÉNEZ (PD) 6.7%, other 0.1%; note - GONZÁLEZ-COLÓN takes office 2 January 2025<em><br><br>2020:</em> Pedro PIERLUISI elected governor; percent of vote - Pedro PIERLUISI (PNP) 32.9%, Carlos DELGADO (PPD) 31.6%, Alexandra LUGARO (independent) 14.2%, Juan DALMAU (PIP) 13.7%, other 7.6%</p><br>
+_elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of Puerto Rico do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican party presidential primary elections; governor directly elected by simple majority popular vote for a 4-year term (no term limits); election last held on 5 November 2024 (next to be held on 7 November 2028)<br>
+_election results_: <p><em>2024: </em>Jenniffer GONZÁLEZ-COLÓN elected governor; percent of vote - Jenniffer GONZÁLEZ-COLÓN (PNP) 39.4%, Juan DALMAU Ramírez (PIP) 32.7%, Jesús Manuel ORTIZ (PPD) 21.1%, Javier JIMÉNEZ (PD) 6.7%, other 0.1%<em><br><br>2020:</em> Pedro PIERLUISI elected governor; percent of vote - Pedro PIERLUISI (PNP) 32.9%, Carlos DELGADO (PPD) 31.6%, Alexandra LUGARO (independent) 14.2%, Juan DALMAU (PIP) 13.7%, other 7.6%</p><br>
 
 **Legislative branch**<br>
-_description_: <br>bicameral Legislative Assembly or Asamblea Legislativa consists of:<br>Senate or Senado (30 seats statutory, 27 current; 16 members directly elected in 8 2-seat constituencies by simple majority vote and 11 at-large members directly elected by simple majority vote to serve 4-year terms)<br>House of Representatives or Camara de Representantes (51 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: Senate - last held on 3 November 2020 (next to be held on 5 November 2024)<br>House of Representatives - last held on 3 November 2020 (next to be held on 5 November 2024)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - PPD 12, NP 10, MVC 2, PD 1, PIP 1, independent 1; composition - men 14, women 13, percentage women 48.1% <br><br>House of Representatives - percent of vote by party - NA; seats by party - PPD 26, PNP 21, MVC 2, PIP 1, PD 1; composition - men 41, women 10, percentage women 19.6%; total Legislative Assembly percentage women 29.5%<br>
+_legislature name_: Legislative Assembly (Asamblea Legislativa)<br>
+_legislative structure_: bicameral<br>
+_term in office_: 4 years<br>
 <strong>note:</strong> Puerto Rico directly elects 1 member by simple majority vote to serve a 4-year term as a commissioner to the US House of Representatives; the commissioner can vote when serving on a committee and when the House meets as the Committee of the Whole House but not when legislation is submitted for a 'full floor' House vote; election of commissioner last held on 6 November 2018 (next to be held in November 2022)<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives (Camara de Representantes)<br>
+_number of seats_: 51 (directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 11/3/2020<br>
+_parties elected and seats per party_: PPD (26); PNP (21); MVC (2); PIP (1); PD (1)<br>
+_percentage of women in chamber_: 19.6%<br>
+_expected date of next election_: November 2024<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Senado)<br>
+_number of seats_: 30 (directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 11/3/2020<br>
+_parties elected and seats per party_: PPD (12); NP (10); MVC (2); PD (1); PIP (1); independent (1)<br>
+_percentage of women in chamber_: 48.1%<br>
+_expected date of next election_: November 2024<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 8 associate justices)<br>

@@ -354,9 +354,29 @@ _elections/appointments_: president elected by absolute majority popular vote in
 _election results_: <em><br>2023:</em> Abdel Fattah EL-SISI reelected president in first round; percent of valid votes cast - Abdel Fattah EL-SISI (independent) 89.6%, Hazam OMAR (Republican People’s Party) 4.5%, Farid ZAHRAN (Egyptian Social Democratic Party 4%, Abdel-Samad YAMAMA 1.9%<br><br><em>2018:</em> Abdelfattah ELSISI reelected president in first round; percent of valid votes cast - Abdelfattah ELSISI (independent) 97.1%, Moussa Mostafa MOUSSA (El Ghad Party) 2.9%; note - more than 7% of ballots cast were deemed invalid<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate or Majlis Al-Shiyoukh (300 seats; 100 members directly elected in single seat constituencies, 100 directly elected by closed party-list vote, and 100 appointed by the president<br>House of Representatives or Majlis Al-Nowaab (596 seats; 448 members directly elected by individual candidacy system, 120 members - with quotas for women, youth, Christians and workers - elected in party-list constituencies by simple majority popular vote, and 28 members appointed by the president; members of both houses serve 5-year terms<br>
-_elections_: Senate - first round held on 11-12 August 2020 (9-10 August for diaspora); second round held on 8-9 September (6-7 September for diaspora) (next to be held in 2025)<br>House of Representatives - last held 24-25 October and 7-8 November 2020) (next to be held in 2025)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - Nation's Future Party 100, independent 100; composition - men 258, women 41, percent of women 13.7%  <br><br>House of Representatives - percent of vote by party - NA; seats by party - Nation's Future Party 316, Republican People's Party 50, New Wafd Party 26, Homeland Defenders Party 23, Modern Egypt Party 11, Reform and Development Party 9, Al-Nour Party 7, Egyptian Conference Party 7, Egyptian Freedom Party 7, Egyptian Social Democratic Party 7, Tagammu 6, Justice Party 2, Etradet Geel Party 1, independent 124; composition - men 428, women 164, percent of women 27.5%; total Parliament percent of women 23%<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives (Majlis Al-Nuwab)<br>
+_number of seats_: 596 (568 directly elected; 28 appointed)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 10/24/2020 to 12/8/2020<br>
+_parties elected and seats per party_: Future of the Nation (Mostakbal Watan) (317); Republican People's party (El Shaab el Gomhory) (49); Independents (117); Other (109)<br>
+_percentage of women in chamber_: 27.7%<br>
+_expected date of next election_: October 2025<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Majlis Al-Shiyoukh)<br>
+_number of seats_: 300 (200 directly elected; 100 appointed)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 8/11/2020 to 9/9/2020<br>
+_parties elected and seats per party_: Future of the Nation (Mostakbal Watan) (148); Republican People's party (17); Independents (88); Other (47)<br>
+_percentage of women in chamber_: 13.7%<br>
+_expected date of next election_: August 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Constitutional Court (SCC) (consists of the court president and 10 justices); the SCC serves as the final court of arbitration on the constitutionality of laws and conflicts between lower courts regarding jurisdiction and rulings; Court of Cassation (CC) (consists of the court president and 550 judges organized in circuits with cases heard by panels of 5 judges); the CC is the highest appeals body for civil and criminal cases, also known as "ordinary justices"; Supreme Administrative Court (SAC) (consists of the court president and NA judges and organized in circuits with cases heard by panels of 5 judges); the SAC is the highest court of the State Council<br>
@@ -420,13 +440,13 @@ $1.729 trillion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$17,000 (2023 est.)<br>
-$16,600 (2022 est.)<br>
-$15,800 (2021 est.)<br>
+$16,700 (2023 est.)<br>
+$16,400 (2022 est.)<br>
+$15,600 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$395.926 billion (2023 est.)<br>
+$396.002 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -442,16 +462,16 @@ _Standard & Poors rating_: B (2018)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 10.6% (2023 est.)<br>
-_industry_: 32.7% (2023 est.)<br>
-_services_: 51.6% (2023 est.)<br>
+_agriculture_: 11.6% (2023 est.)<br>
+_industry_: 32.1% (2023 est.)<br>
+_services_: 51.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 82.6% (2023 est.)<br>
 _government consumption_: 6.8% (2023 est.)<br>
-_investment in fixed capital_: 15.2% (2022 est.)<br>
-_investment in inventories_: -2.3% (2023 est.)<br>
+_investment in fixed capital_: 11.5% (2023 est.)<br>
+_investment in inventories_: 1.4% (2023 est.)<br>
 _exports of goods and services_: 19.1% (2023 est.)<br>
 _imports of goods and services_: -21.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -468,7 +488,7 @@ textiles, food processing, tourism, chemicals, pharmaceuticals, hydrocarbons, co
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-33.431 million (2023 est.)<br>
+34.065 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -501,7 +521,7 @@ _highest 10%_: 27.5% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-6.11% of GDP (2023 est.)<br>
+4.93% of GDP (2023 est.)<br>
 5.94% of GDP (2022 est.)<br>
 7.41% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -520,15 +540,15 @@ _expenditures_: $96.057 billion (2015 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$12.564 billion (2023 est.)<br>
 -$10.537 billion (2022 est.)<br>
 -$18.611 billion (2021 est.)<br>
--$14.236 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$68.218 billion (2023 est.)<br>
 $76.295 billion (2022 est.)<br>
 $58.339 billion (2021 est.)<br>
-$40.102 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -540,9 +560,9 @@ natural gas, fertilizers, garments, refined petroleum, crude petroleum (2022)<br
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$82.265 billion (2023 est.)<br>
 $97.144 billion (2022 est.)<br>
 $94.039 billion (2021 est.)<br>
-$72.482 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -560,7 +580,7 @@ $39.824 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$97.5 billion (2022 est.)<br>
+$121.328 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

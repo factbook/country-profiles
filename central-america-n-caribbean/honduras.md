@@ -335,9 +335,16 @@ _election results_: <br><em>2021: </em>Iris Xiomara CASTRO de Zelaya elected pre
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Congress or Congreso Nacional (128 seats; members directly elected in 18 multi-seat constituencies by closed party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 28 November 2021 (next to be held on 30 November 2025)<br>
-_election results_: percent of vote by party - LIBRE 39.8%, PNH 31.3%, PL 16.4%, PSH 10.9%, DC 0.8%, PAC 0.8%; seats by party - LIBRE 51, PNH 40, PL 21, PSH 14, DC 1, PAC 1; composition - men 93, women 35, percentage women 27.3%<br>
+_legislature name_: National Congress (Congreso Nacional)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 128 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 11/28/2021<br>
+_parties elected and seats per party_: Liberty and Refoundation Party (LIBRE) (50); National Party (PN) (44); Liberal Party (PL) (22); Salvador de Honduras Party (PSH) (10); Other (2)<br>
+_percentage of women in chamber_: 27.3%<br>
+_expected date of next election_: November 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (15 principal judges, including the court president, and 6 alternates; court organized into civil, criminal, constitutional, and labor chambers); note - the court has both judicial and constitutional jurisdiction<br>
@@ -447,7 +454,7 @@ sugar processing, coffee, woven and knit apparel, wood products, cigars<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.676 million (2023 est.)<br>
+4.61 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -463,7 +470,7 @@ _female_: 17% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-48% (2019 est.)<br>
+64.1% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -480,7 +487,7 @@ _highest 10%_: 34.6% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-25.58% of GDP (2023 est.)<br>
+26.07% of GDP (2023 est.)<br>
 27% of GDP (2022 est.)<br>
 25.59% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -498,8 +505,8 @@ _expenditures_: $5.696 billion (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.335 billion (2023 est.)<br>
--$2.063 billion (2022 est.)<br>
+-$1.333 billion (2023 est.)<br>
+-$2.105 billion (2022 est.)<br>
 -$1.538 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
@@ -518,7 +525,7 @@ garments, coffee, insulated wire, palm oil, bananas (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$17.861 billion (2023 est.)<br>
+$17.789 billion (2023 est.)<br>
 $17.943 billion (2022 est.)<br>
 $14.869 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -538,7 +545,7 @@ $8.667 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$7.611 billion (2022 est.)<br>
+$8.342 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

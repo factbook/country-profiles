@@ -332,9 +332,16 @@ _cabinet_: Council of Ministers recommended by the prime minister, appointed by 
 _elections/appointments_: the monarchy is hereditary; following elections to the Chamber of Deputies, the leader of the majority party or majority coalition usually appointed prime minister by the monarch; deputy prime minister appointed by the monarch; prime minister and deputy prime minister are responsible to the Chamber of Deputies<br>
 
 **Legislative branch**<br>
-_description_: unicameral Chamber of Deputies or Chambre des Deputes (60 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 8 October 2023 (next to be held by 31 October 2028)<br>
-_election results_: percent of vote by party - CSV 29.2%, LSAP 18.9%, DP 18.7%, ADR 9.3%, Green Party 8.6%, Pirate Party 6.7%, The Left 3.9%; seats by party - CSV 21, DP 14, LSAP 11, ADR 5, Green Party 4, Pirate Party 3, The Left 2; composition - men 40, women 20, percentage women 33.3%<br>
+_legislature name_: Chamber of Deputies (Chambre des députés)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 60 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 10/8/2023<br>
+_parties elected and seats per party_: Christian Social People's Party (CSV) (21); Democratic Party (PD/DP) (14); Socialist Workers' Party (POSL/LSAP) (11); Alternative Democratic Reform Party (ADR) (5); Greens (DEI GRÉNG) (4); Pirate Party (PIRATEN) (3); Other (2)<br>
+_percentage of women in chamber_: 33.3%<br>
+_expected date of next election_: October 2028<br>
 <strong>note:</strong> a 21-member Council of State is appointed by the Grand Duke on the advice of the prime minister and serves as an advisory body to the Chamber of Deputies<br>
 
 **Judicial branch**<br>

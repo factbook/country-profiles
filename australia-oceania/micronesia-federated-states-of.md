@@ -294,9 +294,15 @@ _elections/appointments_: president and vice president indirectly elected by Con
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: unicameral Congress (14 seats; 10 members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms and 4 at- large members directly elected from each of the 4 states by proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 7 March 2023 (next to be held in March 2025)<br>
-_election results_: percent of vote - NA; seats by party - independent 14; composition - men 11, women 2; percentage women 15.4%<br>
+_legislature name_: Congress<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 14 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 2 years<br>
+_most recent election date_: 3/7/2023<br>
+_percentage of women in chamber_: 15.4%<br>
+_expected date of next election_: March 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federated States of Micronesia (FSM) Supreme Court (consists of the chief justice and not more than 5 associate justices and organized into appellate and criminal divisions)<br>

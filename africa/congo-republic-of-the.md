@@ -353,9 +353,28 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <br><em>2021: </em>Denis SASSOU-Nguesso reelected president in the first round; percent of vote - Denis SASSOU-Nguesso (PCT) 88.4%, Guy Price Parfait KOLELAS (MCDDI) 8.0%, other 3.6% <br><br><em>2016: </em>Denis SASSOU-Nguesso reelected president in the first round; percent of vote - Denis SASSOU-Nguesso (PCT) 60.4%, Guy Price Parfait KOLELAS (MCDDI) 15.1%, Jean-Marie MOKOKO (independent) 13.9%, Pascal Tsaty MABIALA (UPADS) 4.4%, other 6.2%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (72 seats; members indirectly elected by local, district, and regional councils by simple majority vote to serve 6-year terms) note- the Senate is renewed in its entirety following a constitutional reform implemented in 2015 ending the renewal by half<br>National Assembly (151 seats; members directly elected in single-seat constituencies by absolute majority popular vote in 2 rounds if needed; members serve 5-year terms)<br>
-_elections_: Senate - last held on 20 August 2023 (next to be held 31 August 2029)<br>National Assembly - last held on 10 and 31 July 2022 (next to be held in July 2027)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - PCT 52, Independents 7, RDPS 3, MAR 2, Club 2002 PUR 2, PRL 1, UDLC 1, MCDDI 1, LCEM 1, UPADS 1, RC 1; composition - men 49, women 23, percentage women 34.7%<br><br>National Assembly - percent of vote by party - NA; seats by party - PCT 112, UPADS 7, UDH-YUKI 7, MAR 4, RLP 2, CLUB 2002 2, DRR 2, RDPS 2, PAC 1, MSD 1, MDP 1, CPR 1, PPRD 1, CR 1, MCDDI 1, independent 6; composition - men 129, women 22, percentage women 14.6%; total Parliament percentage women 20.2%<br>
+_legislature name_: Parliament (Parlement)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: National Assembly (Assemblée nationale)<br>
+_number of seats_: 151 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 7/10/2022 to 7/31/2022<br>
+_parties elected and seats per party_: Congolese Workers Party (PCT) (112); Other (39)<br>
+_percentage of women in chamber_: 14.6%<br>
+_expected date of next election_: July 2026<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Sénat)<br>
+_number of seats_: 72 (all indirectly elected)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 6 years<br>
+_most recent election date_: 8/20/2023<br>
+_percentage of women in chamber_: 31.9%<br>
+_expected date of next election_: August 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 members); note - a High Court of Justice, outside the judicial authority, tries cases involving treason by the President of the Republic<br>
@@ -417,7 +436,7 @@ $36.904 billion (2021 est.)<br>
 
 **Real GDP per capita**<br>
 $6,200 (2023 est.)<br>
-$6,300 (2022 est.)<br>
+$6,200 (2022 est.)<br>
 $6,300 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
@@ -464,7 +483,7 @@ petroleum extraction, cement, lumber, brewing, sugar, palm oil, soap, flour, cig
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.461 million (2023 est.)<br>
+2.48 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -480,8 +499,8 @@ _female_: 40.1% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
-0.02% of GDP (2023 est.)<br>
-0.02% of GDP (2022 est.)<br>
+0.29% of GDP (2023 est.)<br>
+0.28% of GDP (2022 est.)<br>
 0.3% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -538,7 +557,7 @@ $828.56 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$6.482 billion (2022 est.)<br>
+$6.75 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

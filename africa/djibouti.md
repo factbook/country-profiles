@@ -330,9 +330,16 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2021:</em> Ismail Omar GUELLEH reelected president for a fifth term; percent of vote - Ismail Omar GUELLEH (RPP) 97.4%, Zakaria Ismael FARAH (MDEND) 2.7%<br><br><em>2016:</em> Ismail Omar GUELLEH reelected president for a fourth term; percent of vote - Ismail Omar GUELLEH (RPP) 87%, Omar Elmi KHAIREH (CDU) 7.3%, other 5.6%<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Assembl&eacute;e Nationale, formerly the Chamber of Deputies (65 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 5-year terms)<br>
-_elections_: last held on 24 February 2023 (next to be held in February 2028)<br>
-_election results_: percent of vote by party - UMP 93.6%, UDJ 6.3%; seats by party - UMP 58, UDJ 7; composition - men 48, women 17, percentage women 26.2%<br>
+_legislature name_: National Assembly (Assemblée nationale)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 65 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 2/24/2023<br>
+_parties elected and seats per party_: Union for the Presidential Majority (UMP) (58); Union for Democracy and Justice (UDJ) (7)<br>
+_percentage of women in chamber_: 26.2%<br>
+_expected date of next election_: February 2028<br>
 <strong>note:</strong> most opposition parties boycotted the 2023 polls, stating the elections were "not free, not transparent, and not democratic"<br>
 
 **Judicial branch**<br>
@@ -354,7 +361,7 @@ _FAX_: [1] (202) 331-0302<br>
 _email address and website_: <br>info@djiboutiembassyus.org<br><br>https://www.djiboutiembassyus.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Christopher SNIPES (since October 2023)<br>
+_chief of mission_: Ambassador Cynthia KIERSCHT (since 17 October 2024)<br>
 _embassy_: Lot 350-B Haramouss, B.P. 185<br>
 _mailing address_: 2150 Djibouti Place, Washington DC&nbsp; 20521-2150<br>
 _telephone_: [253] 21-45-30-00<br>
@@ -390,9 +397,9 @@ $6.669 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$6,500 (2023 est.)<br>
-$6,200 (2022 est.)<br>
-$6,000 (2021 est.)<br>
+$6,400 (2023 est.)<br>
+$6,100 (2022 est.)<br>
+$5,900 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -415,6 +422,7 @@ _services_: 76.9% (2023 est.)<br>
 _household consumption_: 60.6% (2023 est.)<br>
 _government consumption_: 14.5% (2023 est.)<br>
 _investment in fixed capital_: 29.4% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
 _exports of goods and services_: 169.1% (2023 est.)<br>
 _imports of goods and services_: -173.6% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -431,7 +439,7 @@ construction, agricultural processing, shipping<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-256,000 (2023 est.)<br>
+261,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -460,7 +468,7 @@ _highest 10%_: 32.3% (2017 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.41% of GDP (2023 est.)<br>
+1.43% of GDP (2023 est.)<br>
 1.54% of GDP (2022 est.)<br>
 2.35% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -476,15 +484,15 @@ _expenditures_: $754 million (2019 est.)<br>
 35.3% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
+$718.559 million (2023 est.)<br>
 $656.207 million (2022 est.)<br>
 -$225.106 million (2021 est.)<br>
-$366.358 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$5.877 billion (2023 est.)<br>
 $5.674 billion (2022 est.)<br>
 $5.16 billion (2021 est.)<br>
-$3.695 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -496,9 +504,9 @@ palm oil, chlorides, seed oils, flax yarn, cattle (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$5.269 billion (2023 est.)<br>
 $5.096 billion (2022 est.)<br>
 $5.483 billion (2021 est.)<br>
-$3.425 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -516,7 +524,7 @@ $588.418 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$2.331 billion (2022 est.)<br>
+$2.672 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

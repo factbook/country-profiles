@@ -342,13 +342,32 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Shavkat MIRZIYOYEV (since 14 December 2016)<br>
 _head of government_: Prime Minister Abdulla ARIPOV (since 14 December 2016)<br>
 _cabinet_: Cabinet of Ministers appointed by the president with most requiring approval of the Senate chamber of the Supreme Assembly (Oliy Majlis)<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term; previously a 5-year term, extended to 7 years by a 2023 constitutional amendment); election last held on 9 July 2023&nbsp; (next to be held in 2030); prime minister nominated by majority party in legislature since 2011 but appointed along with the ministers and deputy ministers by the president<br>
-_election results_: <br>2023: Shavkat MIRZIYOYEV reelected president in snap election; percent of vote - Shavkat MIRZIYOYEV (LDPU) 87.71%, Robaxon Maxmudova (Adolat) 4.47%, Ulugbek Inoyatov (PDP) 4.05%, Abdushukur Xamzayev (Ecological Party) 3.77%<br><br>2021: Shavkat MIRZIYOYEV reelected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 80.3%, Maqsuda VORISOVA (PDP) 6.7%, Alisher QODIROV (National Revival Democratic Party) 5.5%, Narzullo OBLOMURODOV (Ecological Party) 4.1%, Bahrom ABDUHALIMOV (Adolat) 3.4%<br><br><em>2016:</em> Shavkat MIRZIYOYEV elected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 88.6%, Hotamjon KETMONOV (PDP) 3.7%, Narimon UMAROV (Adolat) 3.5%, Sarvar OTAMURODOV (National Revival Democratic Party) 2.4%, other 1.8%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term; previously a 5-year term, extended to 7 years by a 2023 constitutional amendment); election last held on 9 July 2023&nbsp; (next to be held in 2030); prime minister nominated by majority party in the Supreme Assembly since 2011 but appointed along with the ministers and deputy ministers by the president<br>
+_election results_: 2023: Shavkat MIRZIYOYEV reelected president in snap election; percent of vote - Shavkat MIRZIYOYEV (LDPU) 87.7%, Robaxon Maxmudova (Adolat) 4.5%, Ulugbek Inoyatov (PDP) 4%, Abdushukur Xamzayev (Ecological Party) 3.8%<br><br>2021: Shavkat MIRZIYOYEV reelected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 80.3%, Maqsuda VORISOVA (PDP) 6.7%, Alisher QODIROV (National Revival Democratic Party) 5.5%, Narzullo OBLOMURODOV (Ecological Party) 4.1%, Bahrom ABDUHALIMOV (Adolat) 3.4%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Supreme Assembly or Oliy Majlis consists of:<br>Senate or Senat (100 seats); 84 members indirectly elected by regional governing councils and 16 appointed by the president; members serve 5-year terms); note - amendments to the constitution approved in April 2023 call for the reduction of Senate seats to 65 from 100<br>Legislative Chamber or Qonunchilik Palatasi (150 seats statutory, 140 seats current; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)<br>
-_elections_: Senate - last held 16-17 January 2020 (next to be held in 2025)<br>Legislative Chamber - last held on 27 October 2024<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 68, women 22, percentage women 24.4%<br><br>Legislative Chamber - percent of vote by party - Liberal Democratic Party 34.8%, the National Revival Democratic Party 18.8%, the People's Democratic Party 17.1%, the Adolat (Justice) Social Democratic Party 16.2%, the Ecological Party 13.1%; seats by party - LDP 64, National Revival Democratic Party 29, PDP 20, Adolat 21, the Ecological Party 16<br>
+_legislature name_: Supreme Assembly (Oliy Majlis)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: Legislative Chamber (Qonunchilik palatasi)<br>
+_number of seats_: 150 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 10/27/2024<br>
+_parties elected and seats per party_: Movement of Entrepreneurs and Businesspeople - Liberal Democratic Party (UzLiDeP) (64); Milliy Tiklanish Democratic Party (O'zMTDP) (29); Social Democratic Party ("Adolat" SDP) (21); People's Democratic Party (XDP) (20); Ecological Party (O'EP) (16)<br>
+_percentage of women in chamber_: 38%<br>
+_expected date of next election_: October 2029<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Senat)<br>
+_number of seats_: 65 (56 indirectly elected; 9 appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 11/7/2024 to 11/12/2024<br>
+_percentage of women in chamber_: 24.6%<br>
+_expected date of next election_: November 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 67 judges organized into administrative, civil, criminal, and economic sections); Constitutional Court (consists of 7 judges)<br>
@@ -398,25 +417,25 @@ _selected World Heritage Site locales_: Itchan Kala (c); Historic Bukhara (c); H
 lower middle-income Central Asian economy; CIS Free Trade Area member but no intention of EAEU membership; key natural gas, cotton, and gold exporter; landlocked and environmentally fragile; positive growth through COVID-19, but poverty increasing<br>
 
 **Real GDP (purchasing power parity)**<br>
-$319.174 billion (2023 est.)<br>
-$301.139 billion (2022 est.)<br>
-$284.984 billion (2021 est.)<br>
+$356.797 billion (2023 est.)<br>
+$335.678 billion (2022 est.)<br>
+$316.674 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.99% (2023 est.)<br>
-5.67% (2022 est.)<br>
+6.29% (2023 est.)<br>
+6% (2022 est.)<br>
 7.4% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$8,800 (2023 est.)<br>
-$8,400 (2022 est.)<br>
-$8,200 (2021 est.)<br>
+$10,000 (2023 est.)<br>
+$9,600 (2022 est.)<br>
+$9,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$90.889 billion (2023 est.)<br>
+$101.592 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -432,18 +451,18 @@ _Standard & Poors rating_: BB- (2018)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 23% (2023 est.)<br>
-_industry_: 30.5% (2023 est.)<br>
-_services_: 41% (2023 est.)<br>
+_agriculture_: 20.6% (2023 est.)<br>
+_industry_: 30.6% (2023 est.)<br>
+_services_: 43.9% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 59.7% (2023 est.)<br>
-_government consumption_: 16.1% (2023 est.)<br>
-_investment in fixed capital_: 34.8% (2023 est.)<br>
-_investment in inventories_: 8.3% (2023 est.)<br>
-_exports of goods and services_: 26.5% (2023 est.)<br>
-_imports of goods and services_: -45.5% (2023 est.)<br>
+_household consumption_: 68.1% (2023 est.)<br>
+_government consumption_: 14.4% (2023 est.)<br>
+_investment in fixed capital_: 32.2% (2023 est.)<br>
+_investment in inventories_: 2.2% (2023 est.)<br>
+_exports of goods and services_: 23.7% (2023 est.)<br>
+_imports of goods and services_: -40.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -454,11 +473,11 @@ milk, wheat, carrots/turnips, cotton, potatoes, tomatoes, grapes, vegetables, wa
 textiles, food processing, machine building, metallurgy, mining, hydrocarbon extraction, chemicals<br>
 
 **Industrial production growth rate**<br>
-6.15% (2023 est.)<br>
+6.18% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-14.27 million (2023 est.)<br>
+13.837 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -473,6 +492,9 @@ _male_: 7.1% (2023 est.)<br>
 _female_: 18.3% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
+**Population below poverty line**<br>
+11% (2023 est.)<br>
+
 **Gini Index coefficient - distribution of family income**<br>
 31.2 (2022 est.)<br>
 
@@ -485,9 +507,9 @@ _lowest 10%_: 2.5% (2022 est.)<br>
 _highest 10%_: 23.2% (2022 est.)<br>
 
 **Remittances**<br>
-17.71% of GDP (2023 est.)<br>
-20.63% of GDP (2022 est.)<br>
-13.33% of GDP (2021 est.)<br>
+13.95% of GDP (2023 est.)<br>
+17.22% of GDP (2022 est.)<br>
+11.99% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -499,18 +521,18 @@ _expenditures_: $20.79 billion (2022 est.)<br>
 24.3% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-14.79% (of GDP) (2020 est.)<br>
+11.99% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$7.788 billion (2023 est.)<br>
--$617.833 million (2022 est.)<br>
+-$7.8 billion (2023 est.)<br>
+-$2.846 billion (2022 est.)<br>
 -$4.898 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$24.536 billion (2023 est.)<br>
-$21.926 billion (2022 est.)<br>
+$25.05 billion (2023 est.)<br>
+$20.966 billion (2022 est.)<br>
 $16.442 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
@@ -523,8 +545,8 @@ gold, cotton yarn, garments, natural gas, refined copper (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$42.098 billion (2023 est.)<br>
-$35.61 billion (2022 est.)<br>
+$42.646 billion (2023 est.)<br>
+$35.643 billion (2022 est.)<br>
 $27.936 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
@@ -543,7 +565,7 @@ $35.375 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$22.305 billion (2022 est.)<br>
+$27.185 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

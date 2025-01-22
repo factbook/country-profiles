@@ -341,9 +341,16 @@ _cabinet_: Cabinet appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually becomes the prime minister<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament or Riksdag (349 seats; 310 members directly elected in multi-seat constituencies by open party-list proportional representation vote and 39 members in "at-large" seats directly elected by open party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 11 September 2022 (next to be held on 13 September 2026)<br>
-_election results_: percent of vote by party - S/SAP 30.3%, M 19.1%, SD 20.5%, C 6.7%, V 6.7%, KD 5.3%, L 4.6%, MP 5.1%, other 1.7%; seats by party - S/SAP 107, M 68, SD 73, C 24, V 24, KD 19, L 16, MP 18; composition - men 186, women 163, percentage women 46.7%<br>
+_legislature name_: Parliament (Riksdagen)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 349 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 9/11/2022<br>
+_parties elected and seats per party_: Social Democratic Party (SAP) (107); Sweden Democrats (SD) (73); Moderate Party (M) (68); Left Party (VP) (24); Centre Party (CP) (24); Christian Democrats (KD) (19); Green Party (Mpg) (18); Other (16)<br>
+_percentage of women in chamber_: 46.7%<br>
+_expected date of next election_: September 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Sweden (consists of 16 justices, including the court chairman); Supreme Administrative Court (consists of 18 justices, including the court president)<br>
@@ -393,25 +400,25 @@ _selected World Heritage Site locales_: Royal Domain of Drottningholm (c); Lapon
 high-income, largest Nordic economy; EU member but non-euro user; export-oriented led by automotive, electronics, machinery and pharmaceuticals; highly ranked for competitiveness, R&amp;D investments and governance; slowdown triggered by high inflation, weak consumption and financial tightening<br>
 
 **Real GDP (purchasing power parity)**<br>
-$676.353 billion (2023 est.)<br>
-$677.682 billion (2022 est.)<br>
-$660.102 billion (2021 est.)<br>
+$665.016 billion (2023 est.)<br>
+$667.089 billion (2022 est.)<br>
+$657.494 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--0.2% (2023 est.)<br>
-2.66% (2022 est.)<br>
+-0.31% (2023 est.)<br>
+1.46% (2022 est.)<br>
 6.15% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$64,200 (2023 est.)<br>
-$64,600 (2022 est.)<br>
-$63,400 (2021 est.)<br>
+$63,100 (2023 est.)<br>
+$63,600 (2022 est.)<br>
+$63,100 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$593.268 billion (2023 est.)<br>
+$584.96 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -427,18 +434,18 @@ _Standard & Poors rating_: AAA (2004)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.6% (2023 est.)<br>
-_industry_: 22.8% (2023 est.)<br>
-_services_: 65.3% (2023 est.)<br>
+_agriculture_: 1% (2023 est.)<br>
+_industry_: 23.3% (2023 est.)<br>
+_services_: 65.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 43.2% (2023 est.)<br>
-_government consumption_: 25.7% (2023 est.)<br>
-_investment in fixed capital_: 26.7% (2023 est.)<br>
-_investment in inventories_: 0.1% (2023 est.)<br>
-_exports of goods and services_: 54% (2023 est.)<br>
-_imports of goods and services_: -49.6% (2023 est.)<br>
+_household consumption_: 43.8% (2023 est.)<br>
+_government consumption_: 26% (2023 est.)<br>
+_investment in fixed capital_: 25% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
+_exports of goods and services_: 55.2% (2023 est.)<br>
+_imports of goods and services_: -51.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -449,11 +456,11 @@ wheat, milk, sugar beets, barley, potatoes, oats, rapeseed, pork, chicken, triti
 iron and steel, precision equipment (bearings, radio and telephone parts, armaments), wood pulp and paper products, processed foods, motor vehicles<br>
 
 **Industrial production growth rate**<br>
--2.68% (2023 est.)<br>
+-2.56% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.825 million (2023 est.)<br>
+5.837 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -486,9 +493,9 @@ _highest 10%_: 22.7% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.62% of GDP (2023 est.)<br>
-0.56% of GDP (2022 est.)<br>
-0.49% of GDP (2021 est.)<br>
+0.71% of GDP (2023 est.)<br>
+0.64% of GDP (2022 est.)<br>
+0.51% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -497,23 +504,23 @@ _expenditures_: $186.928 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-36.25% of GDP (2022 est.)<br>
+36.91% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-27.11% (of GDP) (2022 est.)<br>
+27.6% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$40.073 billion (2023 est.)<br>
-$31.881 billion (2022 est.)<br>
-$45.248 billion (2021 est.)<br>
+$37.748 billion (2023 est.)<br>
+$28.874 billion (2022 est.)<br>
+$44.123 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$324.073 billion (2023 est.)<br>
-$314.412 billion (2022 est.)<br>
-$299.365 billion (2021 est.)<br>
+$327.876 billion (2023 est.)<br>
+$318.203 billion (2022 est.)<br>
+$304.769 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -525,9 +532,9 @@ refined petroleum, cars, packaged medicine, paper, electricity (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$296.796 billion (2023 est.)<br>
-$298.253 billion (2022 est.)<br>
-$268.334 billion (2021 est.)<br>
+$302.398 billion (2023 est.)<br>
+$304.101 billion (2022 est.)<br>
+$275.348 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

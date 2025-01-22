@@ -344,14 +344,21 @@ _residency requirement for naturalization_: 7 years<br>
 _chief of state_: President Serdar BERDIMUHAMEDOV (since 19 March 2022)<br>
 _head of government_: President Serdar BERDIMUHAMEDOV (since 19 March 2022)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (no term limits); election last held on 12 March 2022 (next to be held in 2029); note - on 11 February 2022, President Gurbanguly BERDIMUHAMEDOV announced his intent to retire, setting up the early presidential election<br>
-_election results_: <em><br>2022:</em> Serdar BERDIMUHAMEDOV elected president; percent of vote - Serdar BERDIMUHAMEDOW (DPT) 73%,  Khydyr NUNNAYEV (independent) 11.1%, Agadzhan BEKMYRADOV (IAP) 7.2%, other 8.7%; note - Serdar BERDIMUHAMEDOV is the son of previous president Gurbanguly BERDIMUHAMEDOV<br><br><em>2017:</em> Gurbanguly BERDIMUHAMEDOV reelected president in the first round; percent of vote - Gurbanguly BERDIMUHAMEDOW (DPT) 97.7%, other 2.3%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (no term limits); election last held on 12 March 2022 (next to be held in 2029); note - on 11 February 2022, President Gurbanguly BERDIMUHAMEDOV announced his intent to retire, setting up an early presidential election<br>
+_election results_: <em>2022:</em> Serdar BERDIMUHAMEDOV elected president; percent of vote - Serdar BERDIMUHAMEDOV (DPT) 73%, Khydyr NUNNAYEV (independent) 11.1%, Agadzhan BEKMYRADOV (IAP) 7.2%, other 8.7%; note - Serdar BERDIMUHAMEDOV is the son of previous president Gurbanguly BERDIMUHAMEDOV<br><br><em>2017:</em> Gurbanguly BERDIMUHAMEDOV reelected president in the first round; percent of vote - Gurbanguly BERDIMUHAMEDOV (DPT) 97.7%, other 2.3%<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: unicameral Assembly or Mejlis (125 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 5-year terms); formerly the Assembly was the lower house of the bicameral National Council or Milli Genes, which consisted of an upper house, the People's Council or Halk Maslahaty, and the Assembly or Mejlis<br>
-_elections_: last held on 26 March 2023 (next to be held in 2028)<br>
-_election results_: percent of vote by party - NA; seats by party - DPT 55, APT 11, PIE 11, independent 48 (individuals nominated by citizen groups); composition men 93, women 32, percentage women 25.6%<br>
+_legislature name_: Assembly (Mejlis)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 125 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 3/26/2023<br>
+_parties elected and seats per party_: Democratic Party of Turkmenistan (DPT) (65); Groups of citizens of Turkmenistan (28); Agrarian Party (24); Party of Industrialists and Entrepreneurs (8)<br>
+_percentage of women in chamber_: 25.6%<br>
+_expected date of next election_: March 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Turkmenistan (consists of the court president and 21 associate judges and organized into civil, criminal, and military chambers)<br>
@@ -373,7 +380,7 @@ _FAX_: [1] (202) 588-1500<br>
 _email address and website_: <br>turkmenembassyus@verizon.net<br><br>https://usa.tmembassy.gov.tm/en<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Matthew S. KLIMOW (since 26 June 2019)<br>
+_chief of mission_: Ambassador Elizabeth ROOD (since 31 July 2024)<br>
 _embassy_: 9 1984 Street (formerly Pushkin Street), Ashgabat 744000<br>
 _mailing address_: 7070 Ashgabat Place, Washington, DC 20521-7070<br>
 _telephone_: [993] (12) 94-00-45<br>
@@ -402,9 +409,9 @@ _selected World Heritage Site locales_: Ancient Merv (c); Kunya-Urgench (c); Par
 upper middle-income Central Asian economy; has 10% of global natural gas reserves, exporting to Russia and China; natural resource rich; authoritarian and dominated by state-owned enterprises; major central-south Asian pipeline development<br>
 
 **Real GDP (purchasing power parity)**<br>
-$94.79 billion (2022 est.)<br>
-$93.205 billion (2021 est.)<br>
-$89.192 billion (2020 est.)<br>
+$131.576 billion (2023 est.)<br>
+$123.778 billion (2022 est.)<br>
+$116.552 billion (2021 est.)<br>
 <b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -414,13 +421,13 @@ $89.192 billion (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$14,700 (2022 est.)<br>
-$14,700 (2021 est.)<br>
-$14,300 (2020 est.)<br>
+$17,900 (2023 est.)<br>
+$17,100 (2022 est.)<br>
+$16,400 (2021 est.)<br>
 <b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$59.887 billion (2023 est.)<br>
+$60.629 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -428,17 +435,17 @@ $59.887 billion (2023 est.)<br>
 3.6% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 11.6% (2022 est.)<br>
-_industry_: 40.6% (2022 est.)<br>
-_services_: 47.8% (2022 est.)<br>
+_agriculture_: 11.3% (2023 est.)<br>
+_industry_: 39.3% (2023 est.)<br>
+_services_: 49.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 50% (2017 est.)<br>
-_government consumption_: 9.8% (2022 est.)<br>
-_investment in fixed capital_: 18.3% (2022 est.)<br>
-_exports of goods and services_: 22.2% (2023 est.)<br>
-_imports of goods and services_: -12.9% (2023 est.)<br>
+_government consumption_: 9.4% (2022 est.)<br>
+_investment in fixed capital_: 18.3% (2023 est.)<br>
+_exports of goods and services_: 21.6% (2023 est.)<br>
+_imports of goods and services_: -12.5% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -453,7 +460,7 @@ natural gas, oil, petroleum products, textiles, food processing<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.163 million (2023 est.)<br>
+2.419 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -473,9 +480,9 @@ _on food_: 36.7% of household expenditures (2022 est.)<br>
 _on alcohol and tobacco_: 2.2% of household expenditures (2022 est.)<br>
 
 **Remittances**<br>
+0% of GDP (2023 est.)<br>
 0% of GDP (2022 est.)<br>
 0% of GDP (2021 est.)<br>
-0% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -525,7 +532,7 @@ $24.91 billion (31 December 2017 est.)<br>
 $25.05 billion (31 December 2016 est.)<br>
 
 **Debt - external**<br>
-$3.729 billion (2022 est.)<br>
+$3.795 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

@@ -264,12 +264,9 @@ _chief of state_: President Joseph R. BIDEN, Jr. (since 20 January 2021)<br>
 _head of government_: Governor Albert BRYAN, Jr. (since 7 January 2019)<br>
 _cabinet_: Territorial Cabinet appointed by the governor and confirmed by the Senate<br>
 _elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of the Virgin Islands do not vote in elections for US president and vice president; however, they may vote in the Democratic and Republican presidential primary elections; governor and lieutenant governor directly elected on the same ballot by absolute majority vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 8 November 2022 (next to be held in November 2026)<br>
-_election results_: <em><br>2022:</em> Albert BRYAN, Jr. reelected governor; percent of vote - Albert BRYAN, Jr. (Democratic Party) 56%, Kurt VIALET (independent) 38%<br><br><em>2018: </em>Albert BRYAN, Jr. elected governor in the second round; percent of vote in first round - Albert BRYAN, Jr. (Democratic Party) 38.1%, Kenneth MAPP (independent) 33.5%, Adlah "Foncie" DONASTORG, Jr. (independent) 16.5%, other 11.9%; percent of vote in second round- Albert BRYAN, Jr. (Democratic Party) 54.5%, Kenneth MAPP (independent) 45.2%, other 0.3%<br>
+_election results_: <em>2022:</em> Albert BRYAN, Jr. reelected governor; percent of vote - Albert BRYAN, Jr. (Democratic Party) 56%, Kurt VIALET (independent) 38%<br><br><em>2018: </em>Albert BRYAN, Jr. elected governor in the second round; percent of vote in first round - Albert BRYAN, Jr. (Democratic Party) 38.1%, Kenneth MAPP (independent) 33.5%, Adlah "Foncie" DONASTORG, Jr. (independent) 16.5%, other 11.9%; percent of vote in second round- Albert BRYAN, Jr. (Democratic Party) 54.5%, Kenneth MAPP (independent) 45.2%, other 0.3%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislature of the Virgin Islands (15 seats; senators directly elected in single- and multi-seat constituencies by simple majority popular vote to serve 2-year terms)<br><br>the Virgin Islands directly elects 1 delegate to the US House of Representatives by simple majority vote to serve a 2-year term<br>
-_elections_: Legislature of the Virgin Islands last held on 8 November 2022 (next to be held on 5 November 2024)<br>Delegate to the US House of Representatives last held on 8 November 2022 (next to be held on 5 November 2024)<br>
-_election results_: Legislature of the Virgin Islands - percent of vote by party - NA; seats by party - Democratic Party 9, independent 6; composition - men 10, women 5, percent of women 33.3%<br><br>delegate to US House of Representatives - seat by party - Democratic Party 1<br>
 <strong>note:</strong> the Virgin Islands delegate to the US House of Representatives can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote<br>
 
 **Judicial branch**<br>
@@ -303,25 +300,25 @@ _lyrics/music_: multiple/Alton Augustus ADAMS, Sr.<br>
 high-income, tourism-based American territorial economy; severe COVID-19 economic disruptions; major rum distillery; high public debt; sluggish reopening of large oil refinery; environmentally susceptible to hurricanes; many informal industries<br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.895 billion (2021 est.)<br>
-$4.759 billion (2020 est.)<br>
-$4.852 billion (2019 est.)<br>
+$4.9 billion (2022 est.)<br>
+$4.965 billion (2021 est.)<br>
+$4.789 billion (2020 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+-1.31% (2022 est.)<br>
 2.85% (2021 est.)<br>
 -1.92% (2020 est.)<br>
-2.93% (2019 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$46,200 (2021 est.)<br>
-$44,800 (2020 est.)<br>
-$45,500 (2019 est.)<br>
+$46,500 (2022 est.)<br>
+$46,900 (2021 est.)<br>
+$45,100 (2020 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$4.444 billion (2021 est.)<br>
+$4.672 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -329,12 +326,12 @@ $4.444 billion (2021 est.)<br>
 2.6% (2015 est.)<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 65.8% (2021 est.)<br>
-_government consumption_: 33.6% (2021 est.)<br>
+_household consumption_: 68.9% (2022 est.)<br>
+_government consumption_: 34.4% (2022 est.)<br>
 _investment in fixed capital_: 7.5% (2016 est.)<br>
 _investment in inventories_: 15% (2016 est.)<br>
-_exports of goods and services_: 91.7% (2021 est.)<br>
-_imports of goods and services_: -91.5% (2021 est.)<br>
+_exports of goods and services_: 97.4% (2022 est.)<br>
+_imports of goods and services_: -108.3% (2022 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -348,7 +345,7 @@ tourism, watch assembly, rum distilling, construction, pharmaceuticals, electron
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-46,000 (2023 est.)<br>
+48,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>

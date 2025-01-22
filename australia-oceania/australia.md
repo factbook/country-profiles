@@ -324,7 +324,7 @@ _etymology_: the name is claimed to derive from either Kambera or Camberry, whic
 6 states and 2 territories*; Australian Capital Territory*, New South Wales, Northern Territory*, Queensland, South Australia, Tasmania, Victoria, Western Australia<br>
 
 **Dependent areas**<br>
-Ashmore and Cartier Islands, Christmas Island, Cocos (Keeling) Islands, Coral Sea Islands, Heard Island and McDonald Islands, Norfolk Island (6)<br>
+Ashmore and Cartier Islands, Christmas Island, Cocos (Keeling) Islands, Coral Sea Islands, Heard Island and McDonald Islands, Jervis Bay, Norfolk Island (7)<br>
 
 **Independence**<br>
 1 January 1901 (from the federation of UK colonies)<br>
@@ -358,9 +358,30 @@ _cabinet_: Cabinet nominated by the prime minister from among members of Parliam
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the leader of the majority party or majority coalition is sworn in as prime minister by the governor general<br>
 
 **Legislative branch**<br>
-_description_: bicameral Federal Parliament consists of:<br>Senate (76 seats; 12 members from each of the 6 states and 2 each from the 2 mainland territories; members directly elected in multi-seat constituencies by proportional representation vote; members serve 6-year terms with one-half of state membership renewed every 3 years and territory membership renewed every 3 years)<br>House of Representatives (151 seats; members directly elected in single-seat constituencies by majority preferential vote; members serve terms of up to 3 years)<br>
-_elections_: Senate - last held on 21 May 2022 (next to be held in May 2025)<br>House of Representatives - last held on 21 May 2022 (next to be held in May 2025)<br>
-_election results_: Senate - percent of vote by party/coalition - Liberal/National Coalition 40.7%, ALP 34.2%, Greens 14.5%, Pauline Hansen's One Nation 2.6%, Jacqui Lambee Network 2.6%, United Australia Party 1.3%, independent 3.9%; seats by party/coalition - Liberal/National Coalition 31, ALP 26, Australian Greens 11, Pauline Hansen's One Nation 2, Jacqui Lambee Network 2, United Australia Party 1, independent 3; composition - 33 men, 42 women; percentage women 56%<br><br>House of Representatives - percent of vote by party/coalition - ALP 50.9%, Coalition 36.4%, 7.9%, 2.6%, others less than 1%; seats by party/coalition - ALP 77, Coalition 55, independent 12, Greens 4, Katter's 1, Center Alliance 1, vacant 1; composition- 92 men, 59 women; percentage women 39.1%; total Federal Parliament percentage women 44.7%<br>
+_legislature name_: Parliament<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives<br>
+_number of seats_: 151 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 3 years<br>
+_most recent election date_: 5/21/2022<br>
+_parties elected and seats per party_: Australian Labor Party (ALP) (77); Liberal National coalition (58); Independents (10); Other (6)<br>
+_percentage of women in chamber_: 38%<br>
+_expected date of next election_: May 2025<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate<br>
+_number of seats_: 76 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: partial renewal<br>
+_term in office_: 6 years<br>
+_most recent election date_: 5/21/2022<br>
+_parties elected and seats per party_: Australian Labor Party (ALP) (15); Liberal (7); The Greens (6); Liberal/Nationals (5); Liberal National Party of Queensland (2); Other (5)<br>
+_percentage of women in chamber_: 56.6%<br>
+_expected date of next election_: May 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: High Court of Australia (consists of 7 justices, including the chief justice); note - each of the 6 states, 2 territories, and Norfolk Island has a Supreme Court; the High Court is the final appellate court beyond the state and territory supreme courts<br>
@@ -412,25 +433,25 @@ _selected World Heritage Site locales_: Great Barrier Reef (n); Greater Blue Mou
 highly developed, diversified, regionally and globally integrated economy; strong mining, manufacturing, and service sectors; net exporter driven by commodities to East Asian trade partners; &ldquo;Future Made in Australia&rdquo; program focused on green energy investments<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.584 trillion (2023 est.)<br>
-$1.537 trillion (2022 est.)<br>
-$1.475 trillion (2021 est.)<br>
+$1.588 trillion (2023 est.)<br>
+$1.535 trillion (2022 est.)<br>
+$1.472 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.02% (2023 est.)<br>
-4.27% (2022 est.)<br>
+3.44% (2023 est.)<br>
+4.24% (2022 est.)<br>
 2.11% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$59,500 (2023 est.)<br>
-$59,100 (2022 est.)<br>
-$57,400 (2021 est.)<br>
+$59,600 (2023 est.)<br>
+$59,000 (2022 est.)<br>
+$57,300 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.724 trillion (2023 est.)<br>
+$1.728 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -446,18 +467,18 @@ _Standard & Poors rating_: AAA (2003)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.4% (2023 est.)<br>
-_industry_: 27.4% (2023 est.)<br>
-_services_: 64.2% (2023 est.)<br>
+_agriculture_: 2.6% (2023 est.)<br>
+_industry_: 27.7% (2023 est.)<br>
+_services_: 63.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 49.6% (2023 est.)<br>
+_household consumption_: 50.3% (2023 est.)<br>
 _government consumption_: 21.3% (2023 est.)<br>
-_investment in fixed capital_: 23.2% (2023 est.)<br>
-_investment in inventories_: 0.3% (2023 est.)<br>
-_exports of goods and services_: 26.7% (2023 est.)<br>
-_imports of goods and services_: -21.4% (2023 est.)<br>
+_investment in fixed capital_: 23.3% (2023 est.)<br>
+_investment in inventories_: 0.7% (2023 est.)<br>
+_exports of goods and services_: 26.8% (2023 est.)<br>
+_imports of goods and services_: -22.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -468,11 +489,11 @@ wheat, sugarcane, barley, milk, rapeseed, cotton, sorghum, beef, oats, chicken (
 mining, industrial and transportation equipment, food processing, chemicals, steel<br>
 
 **Industrial production growth rate**<br>
-1.34% (2023 est.)<br>
+0.88% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-14.501 million (2023 est.)<br>
+14.504 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -499,8 +520,8 @@ _on food_: 10.4% of household expenditures (2022 est.)<br>
 _on alcohol and tobacco_: 4.2% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.7% (2018 est.)<br>
-_highest 10%_: 26.6% (2018 est.)<br>
+_lowest 10%_: 2.8% (2018 est.)<br>
+_highest 10%_: 26.2% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
@@ -515,21 +536,21 @@ _expenditures_: $447.119 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-57.97% of GDP (2022 est.)<br>
+58.05% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-23.6% (of GDP) (2022 est.)<br>
+23.63% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$21.384 billion (2023 est.)<br>
-$17.741 billion (2022 est.)<br>
-$49.092 billion (2021 est.)<br>
+$4.402 billion (2023 est.)<br>
+$14.293 billion (2022 est.)<br>
+$48.838 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$447.508 billion (2023 est.)<br>
+$447.064 billion (2023 est.)<br>
 $464.688 billion (2022 est.)<br>
 $389.158 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -543,8 +564,8 @@ coal, iron ore, natural gas, gold, wheat (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$363.573 billion (2023 est.)<br>
-$367.488 billion (2022 est.)<br>
+$379.066 billion (2023 est.)<br>
+$370.66 billion (2022 est.)<br>
 $299.549 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
@@ -631,7 +652,7 @@ _domestic_: 18 per 100 fixed-line telephone subscriptions and 105 per 100 mobile
 _international_: country code - 61; landing points for&nbsp;more than&nbsp;20 submarine cables including: the SeaMeWe-3 optical telecommunications submarine cable with links to Asia, the Middle East, and Europe; the INDIGO-Central, INDIGO West and ASC, North West Cable System, Australia-Papua New Guinea cable, CSCS, PPC-1, Gondwana-1, SCCN, Hawaiki, TGA, Basslink, Bass Strait-1, Bass Strait-2, JGA-S, with links to other Australian cities, New Zealand&nbsp;and many countries in southeast Asia, US and Europe; the H2 Cable, AJC, Telstra Endeavor, Southern Cross NEXT with links to Japan, Hong Kong, and other Pacific Ocean countries as well as the US; satellite earth stations - 10 Intelsat (4 Indian Ocean and 6 Pacific Ocean), 2 Inmarsat, 2 Globalstar, 5 other (2019)<br>
 
 **Broadcast media**<br>
-the Australian Broadcasting Corporation (ABC) runs multiple national and local radio networks and TV stations, as well as ABC Australia, a TV service that broadcasts in the Asia-Pacific region and is the main public broadcaster; Special Broadcasting Service (SBS), a second large public broadcaster, operates radio and TV networks broadcasting in multiple languages; several large national commercial TV networks, a large number of local commercial TV stations, and hundreds of commercial radio stations are accessible; cable and satellite systems are available (2022)<br>
+<p class="ssrcss-1q0x1qg-Paragraph e1jhz7w10">Australia's media scene is creatively, technologically and economically advanced, there is a tradition of public broadcasting, but privately-owned TV and radio have the biggest audiences, the ownership of print and broadcast media is concentrated, the Australian Broadcasting Corporation (ABC) runs national and local public radio and TV, the other main public broadcaster is the multilingual Special Broadcasting Service (SBS), National commercial TV is dominated by three big free-to-air networks, broadcasters must carry a minimum percentage of Australian-made programs, pay TV via cable, satellite and IPTV has a strong foothold, sports, news, game shows, imported and home-made dramas top the TV ratings, the industry has successfully exported its productions to English-speaking markets overseas</p> (2023)<br>
 
 **Internet country code**<br>
 .au<br>

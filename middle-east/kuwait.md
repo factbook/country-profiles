@@ -331,9 +331,14 @@ _cabinet_: Council of Ministers appointed by the prime minister, approved by the
 _elections/appointments_: amir chosen from within the ruling family, confirmed by the National Assembly; prime minister appointed by the amir<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Majlis al-Umma (65 seats; 50 members directly elected from 5 multi-seat constituencies by simple majority vote and 15 ex-officio members (cabinet ministers)&nbsp;appointed by the amir; members serve 4-year terms)<br>
-_elections_: last held on 4 April 2024 (next to be held in 2028)<br>
-_election results_: 50 nonpartisan candidates, including 29 opposition candidates; composition - men 63, women 2, percent women 3.1%<br>
+_legislature name_: National Assembly (Majles Al-Ommah)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 65 (all directly elected)<br>
+_electoral system_: other systems<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 4/4/2024<br>
+_expected date of next election_: April 2028<br>
 <strong>note:</strong> in May 2024, Amir Sheikh MISHAL al-Ahmad al-Sabah dissolved the National Assembly, and some powers held by the National Assembly were assumed by the government<br>
 
 **Judicial branch**<br>
@@ -356,7 +361,7 @@ _email address and website_: <br>info@kuwaitembassy.us<br><br>https://www.kuwait
 _consulate(s) general_: Beverly Hills (CA), New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires James HOLTSNIDER (since July 2021)<br>
+_chief of mission_: Ambassador Karen Hideko SASAHARA (since 10 March 2024)<br>
 _embassy_: P.O. Box 77, Safat 13001<br>
 _mailing address_: 6200 Kuwait Place, Washington DC&nbsp; 20521-6200<br>
 _telephone_: [00] (965) 2259-1001<br>
@@ -380,25 +385,25 @@ _lyrics/music_: Ahmad MUSHARI al-Adwani/Ibrahim Nasir al-SOULA<br>
 small, high-income, oil-based Middle East economy; renewable energy proponent; regional finance and investment leader; maintains oldest sovereign wealth fund; emerging space and tourism industries; mid-way through 25-year development program<br>
 
 **Real GDP (purchasing power parity)**<br>
-$219.06 billion (2023 est.)<br>
-$224.057 billion (2022 est.)<br>
-$211.099 billion (2021 est.)<br>
+$225.481 billion (2023 est.)<br>
+$234 billion (2022 est.)<br>
+$221.048 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--2.23% (2023 est.)<br>
-6.14% (2022 est.)<br>
+-3.64% (2023 est.)<br>
+5.86% (2022 est.)<br>
 1.7% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$50,800 (2023 est.)<br>
-$52,500 (2022 est.)<br>
-$49,700 (2021 est.)<br>
+$46,500 (2023 est.)<br>
+$51,000 (2022 est.)<br>
+$50,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$161.772 billion (2023 est.)<br>
+$163.705 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -414,17 +419,18 @@ _Standard & Poors rating_: AA- (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.4% (2022 est.)<br>
-_industry_: 67% (2022 est.)<br>
-_services_: 43.6% (2022 est.)<br>
+_agriculture_: 0.5% (2023 est.)<br>
+_industry_: 60.7% (2023 est.)<br>
+_services_: 51.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 40.6% (2019 est.)<br>
-_government consumption_: 24.8% (2019 est.)<br>
-_investment in fixed capital_: 24.6% (2019 est.)<br>
-_exports of goods and services_: 52.3% (2019 est.)<br>
-_imports of goods and services_: -44.1% (2019 est.)<br>
+_household consumption_: 32.5% (2022 est.)<br>
+_government consumption_: 20.7% (2022 est.)<br>
+_investment in fixed capital_: 16.1% (2022 est.)<br>
+_investment in inventories_: 0.8% (2022 est.)<br>
+_exports of goods and services_: 60.3% (2022 est.)<br>
+_imports of goods and services_: -30.4% (2022 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -435,11 +441,11 @@ tomatoes, dates, cucumbers/gherkins, eggs, milk, chicken, lamb/mutton, vegetable
 petroleum, petrochemicals, cement, shipbuilding and repair, water desalination, food processing, construction materials<br>
 
 **Industrial production growth rate**<br>
-8.05% (2022 est.)<br>
+-5.37% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.463 million (2023 est.)<br>
+2.826 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -461,7 +467,7 @@ _on alcohol and tobacco_: 0.1% of household expenditures (2022 est.)<br>
 **Remittances**<br>
 0.01% of GDP (2023 est.)<br>
 0.01% of GDP (2022 est.)<br>
-0.57% of GDP (2021 est.)<br>
+0.54% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>

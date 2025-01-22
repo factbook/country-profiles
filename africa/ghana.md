@@ -337,16 +337,21 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Nana Addo Dankwa AKUFO-ADDO (since 7 January 2017)<br>
+_chief of state_: President John Dramani MAHAMA (since 7 January 2025)<br>
 _head of government_: President Nana Addo Dankwa AKUFO-ADDO (since 7 January 2017)<br>
 _cabinet_: Council of Ministers; nominated by the president, approved by Parliament<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 7 December 2024 (next to be held on 7 December 2028); the president is both chief of state and head of government<br>
 _election results_: <em>2024: </em>John Dramani MAHAMA elected president in the first round; percent of vote- John Dramani MAHAMA (NDC) 56.5%, Mahamudu BAWUMIA (NPC) 41%, other 2.5% <em><br><br>2020:</em> Nana Addo Dankwa AKUFO-ADDO reelected president in the first round; percent of vote - Nana Addo Dankwa AKUFO-ADDO (NPP) 51.3%, John Dramani MAHAMA (NDC) 47.4%, other 1.3% (2020)<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament (275 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: last held on 7 December 2020 (next to be held in December 2024)<br>
-_election results_: percent of vote by party - NPP 50.4%, NDC 46.2%, independent 2.3%, other 1.1%; seats by party- NPP 137, NDC 137, independent 1; composition- men 235, women 40, percentage women 14.6%<br>
+_legislature name_: Parliament<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 276 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 12/7/2024<br>
+_expected date of next election_: December 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 13 justices)<br>
@@ -408,9 +413,9 @@ $214.867 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$6,700 (2023 est.)<br>
+$6,800 (2023 est.)<br>
 $6,700 (2022 est.)<br>
-$6,500 (2021 est.)<br>
+$6,600 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -456,7 +461,7 @@ mining, lumbering, light manufacturing, aluminum smelting, food processing, ceme
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-14.887 million (2023 est.)<br>
+14.84 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -489,9 +494,9 @@ _highest 10%_: 32.2% (2016 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-6.41% of GDP (2023 est.)<br>
-6.24% of GDP (2022 est.)<br>
-5.24% of GDP (2021 est.)<br>
+3.18% of GDP (2023 est.)<br>
+2.79% of GDP (2022 est.)<br>
+2.42% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -507,15 +512,15 @@ _expenditures_: $16.842 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.517 billion (2022 est.)<br>
+$1.407 billion (2023 est.)<br>
+-$1.741 billion (2022 est.)<br>
 -$2.541 billion (2021 est.)<br>
--$2.134 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$25.744 billion (2022 est.)<br>
+$25.365 billion (2023 est.)<br>
+$25.52 billion (2022 est.)<br>
 $23.901 billion (2021 est.)<br>
-$22.077 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -527,9 +532,9 @@ gold, crude petroleum, cocoa beans, coconuts/Brazil nuts/cashews, cocoa paste (2
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$26.024 billion (2023 est.)<br>
 $26.329 billion (2022 est.)<br>
 $25.967 billion (2021 est.)<br>
-$24.545 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -545,6 +550,9 @@ $3.624 billion (2023 est.)<br>
 $5.205 billion (2022 est.)<br>
 $9.917 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+
+**Debt - external**<br>
+$30.242 billion (2023 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: cedis (GHC) per US dollar -<br>

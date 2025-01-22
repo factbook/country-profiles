@@ -344,16 +344,23 @@ _residency requirement for naturalization_: 5 years for those with an ancestor w
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Hakainde HICHILEMA (since 24 August 2021)&nbsp;<br>
+_chief of state_: President Hakainde HICHILEMA (since 24 August 2021)<br>
 _head of government_: President Hakainde HICHILEMA (since 24 August 2021)<br>
 _cabinet_: Cabinet appointed by president from among members of the National Assembly<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 12 August 2021 (next to be held in 2026) note - the president is both chief of state and head of government<br>
-_election results_: <em><br>2021</em>: Hakainde HICHILEMA elected president; percent of the vote - Hakainde HICHILEMA (UPND) 57.9%, Edgar LUNGU (PF) 37.3%, other 4.8%<br><br><em>2016</em>: Edgar LUNGU reelected president; percent of vote - Edgar LUNGU (PF) 50.4%, Hakainde HICHILEMA (UPND) 47.6%, other 2%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 12 August 2021 (next to be held in 2026)<br>
+_election results_: <em>2021</em>: Hakainde HICHILEMA elected president; percent of the vote - Hakainde HICHILEMA (UPND) 57.9%, Edgar LUNGU (PF) 37.3%, other 4.8%<br><br><em>2016</em>: Edgar LUNGU reelected president; percent of vote - Edgar LUNGU (PF) 50.4%, Hakainde HICHILEMA (UPND) 47.6%, other 2%; note - the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly (167 seats statutory, 166 seats current; 156 members directly elected in single-seat constituencies by simple majority vote in 2 rounds if needed, and up to 8 appointed by the president; members serve 5-year terms); 3 ex-officio members elected by National Assembly membership<br>
-_elections_: last held on 12 August 2021 (next to be held in 2026)<br>
-_election results_: percent of vote by party - UPND 53.9%, PF 38.1%, PNUP 0.6%, independent 7.4%; seats by party - UPND 82, PF 62, PNUP 1, independent 11; composition - men 142, women 25, percentage women 15%<br>
+_legislature name_: National Assembly<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 167 (156 directly elected; 8 appointed)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 8/12/2021<br>
+_parties elected and seats per party_: United Party for National Development (UPND) (82); Patriotic Front (PF) (60); Independents (13); Other (1)<br>
+_percentage of women in chamber_: 15%<br>
+_expected date of next election_: August 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice, deputy chief justice, and at least 11 judges); Constitutional Court (consists of the court president, vice president, and 11 judges); note - the Constitutional Court began operation in June 2016<br>
@@ -402,13 +409,13 @@ _selected World Heritage Site locales_: Mosi-oa-Tunya/Victoria Falls<br>
 <p>lower-middle-income sub-Saharan economy; regional hydroelectricity producer; trade ties and infrastructure investments from China; IMF assistance to restructure debt burden; one of youngest and fastest-growing labor forces; systemic corruption; extreme rural poverty</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$76.493 billion (2023 est.)<br>
-$72.277 billion (2022 est.)<br>
+$76.129 billion (2023 est.)<br>
+$72.251 billion (2022 est.)<br>
 $68.672 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.83% (2023 est.)<br>
+5.37% (2023 est.)<br>
 5.25% (2022 est.)<br>
 6.23% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
@@ -420,7 +427,7 @@ $3,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$28.163 billion (2023 est.)<br>
+$27.578 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -436,18 +443,18 @@ _Standard & Poors rating_: SD (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.8% (2023 est.)<br>
-_industry_: 36.1% (2023 est.)<br>
-_services_: 54.9% (2023 est.)<br>
+_agriculture_: 2.2% (2023 est.)<br>
+_industry_: 35.1% (2023 est.)<br>
+_services_: 56.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 35.6% (2022 est.)<br>
-_government consumption_: 14.3% (2022 est.)<br>
-_investment in fixed capital_: 25.1% (2022 est.)<br>
-_investment in inventories_: 1.9% (2022 est.)<br>
+_household consumption_: 47.1% (2023 est.)<br>
+_government consumption_: 13.3% (2023 est.)<br>
+_investment in fixed capital_: 26.4% (2023 est.)<br>
+_investment in inventories_: 5% (2023 est.)<br>
 _exports of goods and services_: 40.8% (2023 est.)<br>
-_imports of goods and services_: -39.1% (2023 est.)<br>
+_imports of goods and services_: -37.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -458,11 +465,11 @@ sugarcane, cassava, maize, milk, soybeans, vegetables, wheat, groundnuts, beef, 
 copper mining and processing, emerald mining, construction, foodstuffs, beverages, chemicals, textiles, fertilizer, horticulture<br>
 
 **Industrial production growth rate**<br>
-1.73% (2023 est.)<br>
+0.87% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-7.051 million (2023 est.)<br>
+7.165 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -486,7 +493,7 @@ _female_: 9.8% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.4% (2022 est.)<br>
+_lowest 10%_: 1.5% (2022 est.)<br>
 _highest 10%_: 39.1% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
@@ -510,15 +517,15 @@ _expenditures_: $5.554 billion (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$582.715 million (2023 est.)<br>
 $1.093 billion (2022 est.)<br>
 $2.63 billion (2021 est.)<br>
-$2.139 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$11.454 billion (2023 est.)<br>
 $12.444 billion (2022 est.)<br>
 $11.728 billion (2021 est.)<br>
-$8.558 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -530,9 +537,9 @@ raw copper, refined copper, gold, precious stones, iron alloys (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$10.854 billion (2023 est.)<br>
 $10.022 billion (2022 est.)<br>
 $7.691 billion (2021 est.)<br>
-$5.866 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -548,6 +555,9 @@ $2.968 billion (2022 est.)<br>
 $2.754 billion (2021 est.)<br>
 $1.203 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+
+**Debt - external**<br>
+$17.613 billion (2023 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Zambian kwacha (ZMK) per US dollar -<br>

@@ -370,10 +370,25 @@ _election results_: <br><em>2024</em>: Vladimir PUTIN reelected president; perce
 <strong>note:</strong> there is also a Presidential Administration that provides staff and policy support to the president, drafts presidential decrees, and coordinates policy among government agencies; a Security Council also reports directly to the president<br>
 
 **Legislative branch**<br>
-_description_: bicameral Federal Assembly or Federalnoye Sobraniye consists of:<br>Federation Council or Sovet Federatsii (170 seats statutory, 169 as of April 2023; 2 members in each of the 83 federal administrative units (see note below) - oblasts, krays, republics, autonomous okrugs and oblasts, and federal cities of Moscow and Saint Petersburg - appointed by the top executive and legislative officials; members serve 4-year terms)<br>State Duma or Gosudarstvennaya Duma (450 seats (see note below); as of February 2014, the electoral system reverted to a mixed electoral system for the 2016 election, in which one-half of the members are directly elected by simple majority vote and one-half directly elected by proportional representation vote; members serve 5-year terms)<br>
-_elections_: State Duma - last held 17 - 19 September 2021 (next to be held in September 2026)<br>
-_election results_: Federation Council - composition - men 137, women 32, percentage women 18.9%<br> <p>State Duma - percent vote by party - United Russia 50.9%, CPRF 19.3%, LDPR 7.7%, A Just Russia 7.6%, New People 5.3% other minor parties and independents 9.2%; seats by party - United Russia 324, CPRF 57, LDPR 21, A Just Russia 27, New People 13; Rodina 1, CP 1, Party of Growth 1, independent 5; composition - men 376, women 74, percentage women 16.4%; total Federal Assembly percentage women 17.1%</p><br>
+_legislature name_: Federal Assembly (Federalnoye Sobraniye)<br>
+_legislative structure_: bicameral<br>
 <strong>note 1:</strong> the State Duma now includes 3 representatives from the "Republic of Crimea," while the Federation Council includes 2 each from the "Republic of Crimea" and the "Federal City of Sevastopol," both regions that Russia occupied and attempted to annex from Ukraine and that the US does not recognize as part of Russia<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: State Duma (Gossoudarstvennaya Duma)<br>
+_number of seats_: 450 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 9/19/2021<br>
+_parties elected and seats per party_: United Russia (326); Communist Party (KPRF) (57); A Just Russia (28); Liberal Democratic Party of Russia (LDPR) (23); Other (16)<br>
+_percentage of women in chamber_: 16.4%<br>
+_expected date of next election_: September 2026<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Council of the Federation (Soviet Federatsii)<br>
+_number of seats_: 170 (all appointed)<br>
+_percentage of women in chamber_: 18.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of the Russian Federation (consists of 170 members organized into the Judicial Panel for Civil Affairs, the Judicial Panel for Criminal Affairs, and the Military Panel); Constitutional Court (consists of 11 members, including the chairperson and deputy); note - in February 2014, Russia&rsquo;s Higher Court of Arbitration was abolished and its former authorities transferred to the Supreme Court, which in addition is the country&rsquo;s highest judicial authority for appeals, civil, criminal, administrative, and military cases, and the disciplinary judicial board, which has jurisdiction over economic disputes<br>
@@ -485,7 +500,7 @@ complete range of mining and extractive industries producing coal, oil, gas, che
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-72.408 million (2023 est.)<br>
+72.459 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -505,7 +520,7 @@ _female_: 13.2% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-36 (2020 est.)<br>
+35.1 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -513,13 +528,13 @@ _on food_: 28.9% of household expenditures (2022 est.)<br>
 _on alcohol and tobacco_: 7.3% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.1% (2020 est.)<br>
-_highest 10%_: 29% (2020 est.)<br>
+_lowest 10%_: 2.7% (2021 est.)<br>
+_highest 10%_: 26.6% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.34% of GDP (2023 est.)<br>
-0.15% of GDP (2022 est.)<br>
+0.13% of GDP (2023 est.)<br>
+0.14% of GDP (2022 est.)<br>
 0.52% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -537,14 +552,14 @@ _expenditures_: $719.521 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$50.224 billion (2023 est.)<br>
-$237.678 billion (2022 est.)<br>
+$50.133 billion (2023 est.)<br>
+$237.735 billion (2022 est.)<br>
 $124.953 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$465.432 billion (2023 est.)<br>
-$640.709 billion (2022 est.)<br>
+$465.66 billion (2023 est.)<br>
+$640.878 billion (2022 est.)<br>
 $549.717 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
@@ -557,7 +572,7 @@ crude petroleum, natural gas, refined petroleum, coal, fertilizers (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$378.615 billion (2023 est.)<br>
+$379.315 billion (2023 est.)<br>
 $347.384 billion (2022 est.)<br>
 $376.923 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>

@@ -334,9 +334,16 @@ _election results_: <br><em>2021:</em> Marcelo REBELO DE SOUSA reelected preside
 <strong>note:</strong> there is also a Council of State that acts as a consultative body to the president<br>
 
 **Legislative branch**<br>
-_description_: unicameral Assembly of the Republic or Assembleia da Republica (230 seats; 226 members directly elected in multi-seat constituencies by closed-list proportional representation vote and 4 members - 2 each in 2 constituencies representing Portuguese living abroad - directly elected by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 10 March 2024 (next to be held on 30 September 2028); note - early elections were called after Prime Minister Antonio Luis Santos da COSTA resigned on 7 November 2023<br>
-_election results_: percent of vote by party - AD (PSD, CDS-PP, PPM) 28.8%, PS, 28%, Enough 18.1%, IL 4.9%, BE 4.4%, L 3.2%, CDU 3.2%, other 9.4%; seats by party - AD (PSD, CDS-PP, PPM) 80, PS 78, Enough 50, IL 8, BE 5, L 4, CDU 4, other 1; composition - men 155, women 75, percentage women 32.6%<br>
+_legislature name_: Assembly of the Republic (Assembleia da Republica)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 230 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 3/10/2024<br>
+_parties elected and seats per party_: Socialist Party (PS) (78); Social Democratic Party (PPD/PSD) - Democratic and Social Centre - People's Party (CDS-PP) - People's Monarchist Party (PPM) (77); Chega (CH) (50); Other (25)<br>
+_percentage of women in chamber_: 32.6%<br>
+_expected date of next election_: September 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Supremo Tribunal de Justica (consists of 12 justices); Constitutional Court or Tribunal Constitucional (consists of 13 judges)<br>
@@ -388,25 +395,25 @@ _selected World Heritage Site locales_: Historic Évora (c); Central Zone of the
 high-income EU and eurozone economy; strong services sector led by tourism and banking; tight labor market; private consumption and export recovery driving post-inflation rebound; EU Recovery and Resilience Plan (RRP) funds a key driver of public investment; high public debt but improving fiscal position<br>
 
 **Real GDP (purchasing power parity)**<br>
-$439.008 billion (2023 est.)<br>
-$429.3 billion (2022 est.)<br>
-$401.863 billion (2021 est.)<br>
+$441.697 billion (2023 est.)<br>
+$430.813 billion (2022 est.)<br>
+$402.682 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.26% (2023 est.)<br>
-6.83% (2022 est.)<br>
+2.53% (2023 est.)<br>
+6.99% (2022 est.)<br>
 5.74% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$41,700 (2023 est.)<br>
-$41,200 (2022 est.)<br>
-$38,800 (2021 est.)<br>
+$41,800 (2023 est.)<br>
+$41,300 (2022 est.)<br>
+$38,900 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$287.08 billion (2023 est.)<br>
+$289.114 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -422,18 +429,18 @@ _Standard & Poors rating_: BBB (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2% (2023 est.)<br>
-_industry_: 18% (2023 est.)<br>
-_services_: 67% (2023 est.)<br>
+_agriculture_: 2.1% (2023 est.)<br>
+_industry_: 18.1% (2023 est.)<br>
+_services_: 66.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 62.6% (2023 est.)<br>
-_government consumption_: 17% (2023 est.)<br>
-_investment in fixed capital_: 19.4% (2023 est.)<br>
-_investment in inventories_: 0.2% (2023 est.)<br>
-_exports of goods and services_: 47.4% (2023 est.)<br>
-_imports of goods and services_: -46.6% (2023 est.)<br>
+_household consumption_: 62.1% (2023 est.)<br>
+_government consumption_: 16.9% (2023 est.)<br>
+_investment in fixed capital_: 20.1% (2023 est.)<br>
+_investment in inventories_: 0.4% (2023 est.)<br>
+_exports of goods and services_: 47.3% (2023 est.)<br>
+_imports of goods and services_: -46.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -444,11 +451,11 @@ milk, tomatoes, grapes, olives, maize, oranges, pork, potatoes, chicken, apples 
 textiles, clothing, footwear, wood and cork, paper and pulp, chemicals, fuels and lubricants, automobiles and auto parts, base metals, minerals, porcelain and ceramics, glassware, technology, telecommunications; dairy products, wine, other foodstuffs; ship construction and refurbishment; tourism, plastics, financial services, optics<br>
 
 **Industrial production growth rate**<br>
--1.13% (2023 est.)<br>
+0.9% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.419 million (2023 est.)<br>
+5.454 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -477,11 +484,11 @@ _on alcohol and tobacco_: 3.4% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8% (2021 est.)<br>
-_highest 10%_: 27.6% (2021 est.)<br>
+_highest 10%_: 27.5% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.47% of GDP (2023 est.)<br>
+0.46% of GDP (2023 est.)<br>
 0.38% of GDP (2022 est.)<br>
 0.3% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -496,7 +503,7 @@ _expenditures_: $100.796 billion (2022 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-23.05% (of GDP) (2022 est.)<br>
+22.89% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>

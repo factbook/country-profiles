@@ -275,9 +275,16 @@ _cabinet_: Cabinet appointed by the governor from among members of the House of 
 _elections/appointments_: the monarch is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party is appointed premier by the governor<br>
 
 **Legislative branch**<br>
-_description_: unicameral House of Assembly (21 seats; 15 members in multi-seat constituencies and a single all-islands constituency directly elected by simple majority vote, 1 member nominated by the premier and appointed by the governor, 1 nominated by the opposition party leader and appointed by the governor, and 2 from the Turks and Caicos Islands Civic Society directly appointed by the governor, and 2 ex-officio members; members serve 4-year terms)<br>
-_elections_: last held on 19 February 2021 (next to be held in 2025)<br>
-_election results_: percent of vote - NA; seats by party - PNP 14, PDM 1; composition - men 11, women 3, percentage women 27.3%<br>
+_legislature name_: House of Assembly<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 21 (directly elected or appointed)<br>
+_electoral system_: mixed<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 2/19/2021<br>
+_parties elected and seats per party_: PNP (14); PDM (1)<br>
+_percentage of women in chamber_: 27.3%<br>
+_expected date of next election_: 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and other judges, as determined by the governor); Court of Appeal (consists of the court president and 2 justices); note - appeals beyond the Supreme Court are referred to the Judicial Committee of the Privy Council (in London)<br>

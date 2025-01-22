@@ -266,9 +266,6 @@ _elections/appointments_: president and vice president indirectly elected on the
 _election results_: <br><em>2022: </em>Arnold PALACIOS elected governor in second round; percent of vote in first round - Ralph TORRES (Republican) 38.8%; Arnold PALACIOS (independent) 32.2%, Tina SABLAN (Democrat) 28%; percent of vote in second round - Arnold PALACIOS 54%, Ralph TORRES 46%; David APATANG (independent) elected lieutenant governor<br><br><em>2018: </em>Ralph TORRES elected governor; percent of vote - Ralph TORRES (Republican) 62.2%, Juan BABAUTA (independent) 37.8%;  Arnold PALACIOS elected lieutenant governor<br>
 
 **Legislative branch**<br>
-_description_: bicameral Northern Marianas Commonwealth Legislature consists of:<br>Senate (9 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br><br>House of Representatives (20 seats; members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms)<br><br>the Northern Mariana Islands directly elects 1 delegate to the US House of Representatives by simple majority vote to serve a 2-year term<br>
-_elections_: CNMI Senate - last held on 8 November 2020 (next to be held on 5 November 2024)<br><br>CNMI House of Representatives - last held on 8 November 2022 (next to be held on 5 November 2024)<br><br>Commonwealth of Northern Mariana Islands delegate to the US House of Representatives - last held on 8 November 2022 (next to be held on 5 November 2024)<br>
-_election results_: CNMI Senate - percent of vote by party - NA; seats by party - Republican Party 6, independent 3; composition - men 6, women 3, percentage women 33.3%<br><br>CNMI House of Representatives - percent of vote by party - NA; seats by party - Republican Party 9, Democrat Party 8, independent 3; composition - men 17, women 3, percentage women 15%; total Commonwealth Legislature percentage women 20.7%<br><br>Northern Mariana Islands delegate to US House of Representatives - seat won by independent; composition - 1 man<br>
 <strong>note: </strong>the Northern Mariana Islands delegate to the US House of Representatives can vote when serving on a committee and when the House meets as the "Committee of the Whole House," but not when legislation is submitted for a “full floor” House vote<br>
 
 **Judicial branch**<br>
@@ -308,9 +305,9 @@ $845 million (2014 est.)<br>
 <strong>note:</strong> GDP estimate includes US subsidy; data are in 2013 dollars<br>
 
 **Real GDP growth rate**<br>
+16.64% (2022 est.)<br>
+4.97% (2021 est.)<br>
 -29.68% (2020 est.)<br>
--11.32% (2019 est.)<br>
--19.27% (2018 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
@@ -319,7 +316,7 @@ $18,400 (2015 est.)<br>
 $16,600 (2014 est.)<br>
 
 **GDP (official exchange rate)**<br>
-$858 million (2020 est.)<br>
+$1.096 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -332,11 +329,11 @@ _industry_: 58.1% (2016 est.)<br>
 _services_: 40.2% (2016)<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 75.1% (2020 est.)<br>
+_household consumption_: 66.2% (2022 est.)<br>
 _government consumption_: 28.9% (2016 est.)<br>
 _investment in fixed capital_: 26.3% (2016 est.)<br>
-_exports of goods and services_: 14.9% (2020 est.)<br>
-_imports of goods and services_: -62.5% (2020 est.)<br>
+_exports of goods and services_: 22.3% (2022 est.)<br>
+_imports of goods and services_: -70.9% (2022 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>

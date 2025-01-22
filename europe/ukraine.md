@@ -343,14 +343,20 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Volodymyr ZELENSKYY (since 20 May 2019)<br>
 _head of government_: Prime Minister Denys SHMYHAL (since 4 March 2020)<br>
 _cabinet_: Cabinet of Ministers nominated by the prime minister, approved by the Verkhovna Rada<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 31 March and 21 April 2019 (next to be held in March 2024); prime minister selected by the Verkhovna Rada<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 31 March and 21 April 2019, the next election was scheduled to be held in March/April 2024 but no election was held because Ukraine has been under martial law since February 2022, and a presidential election cannot be held when martial law is in effect; prime minister selected by the Verkhovna Rada<br>
 _election results_: <em><br>2019:</em> Volodymyr ZELENSKYY elected president in second round; percent of vote in first round - Volodymyr ZELENSKYY (Servant of the People) 30.2%, Petro POROSHENKO (BPP-Solidarity) 15.6%, Yuliya TYMOSHENKO (Fatherland) 13.4%, Yuriy BOYKO (Opposition Platform-For Life) 11.7%, 35 other candidates 29.1%; percent of vote in the second round - Volodymyr ZELENSKYY 73.2%, Petro POROSHENKO 24.5%, other 2.3%; Denys SHMYHAL (independent) elected prime minister; Verkhovna Rada vote - 291-59<br><br><em>2014: </em>Petro POROSHENKO elected president in first round; percent of vote - Petro POROSHENKO (independent) 54.5%, Yuliya TYMOSHENKO (Fatherland) 12.9%, Oleh LYASHKO (Radical Party) 8.4%, other 24.2%; Volodymyr HROYSMAN (BPP) elected prime minister; Verkhovna Rada vote - 257-50<br>
 <strong>note:</strong> there is also a National Security and Defense Council or NSDC originally created in 1992 as the National Security Council; the NSDC staff is tasked with developing national security policy on domestic and international matters and advising the president; a presidential administration helps draft presidential edicts and provides policy support to the president<br>
 
 **Legislative branch**<br>
-_description_: unicameral Supreme Council or Verkhovna Rada (450 seats; 225 members directly elected in single-seat constituencies by simple majority vote and 225 directly elected in a single nationwide constituency by closed, party-list proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 21 July 2019<br>
-_election results_: percent of vote by party - Servant of the People 43.2%, Opposition Platform-For Life 13.1%, Batkivshchyna 8.2%, European Solidarity 8.1%, Voice 5.8%, other 21.6%; Servant of the People 254, Opposition Platform for Life 43, Batkivshchyna 26, European Solidarity 25, Voice 20, Opposition Bloc 6, Svoboda 1, Self Reliance 1, United Centre 1, Bila Tserkva Together 1, independent 46<br>
+_legislature name_: Parliament (Verkhovna Rada)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 450 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 7/21/2019<br>
+_parties elected and seats per party_: Servant of the People (254); Opposition Platform - For Life (43); Fatherland (26); European Solidarity (25); Independents (46); Other (30)<br>
+_percentage of women in chamber_: 21.1%<br>
 <strong>note 1:</strong> the next legislative election is expected to take place after the Russian-Ukrainian War ends<br><br><strong>note 2:</strong> voting not held in Crimea and parts of two Russian-occupied eastern oblasts leaving 26 seats vacant; although this brings the total to 424 elected members (of 450 potential), article 83 of the constitution mandates that a parliamentary majority consists of 226 seats<br>
 
 **Judicial branch**<br>
@@ -403,21 +409,21 @@ _selected World Heritage Site locales_: Kyiv: Saint Sophia Cathedral and Related
 lower-middle-income, non-EU, Eastern European economy; key wheat and corn exporter; gradual recovery after 30% GDP contraction at start of war; damage to infrastructure and agriculture balanced by consumer and business resilience; international aid has stabilized foreign exchange reserves, allowing managed currency float; continued progress on anti-corruption reforms<br>
 
 **Real GDP (purchasing power parity)**<br>
-$559.981 billion (2023 est.)<br>
+$560.111 billion (2023 est.)<br>
 $531.796 billion (2022 est.)<br>
 $746.471 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.3% (2023 est.)<br>
+5.32% (2023 est.)<br>
 -28.76% (2022 est.)<br>
 3.45% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$16,200 (2023 est.)<br>
-$15,000 (2022 est.)<br>
-$18,000 (2021 est.)<br>
+$15,900 (2023 est.)<br>
+$13,800 (2022 est.)<br>
+$17,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -459,11 +465,11 @@ maize, potatoes, wheat, sunflower seeds, sugar beets, milk, barley, soybeans, ra
 industrial machinery, ferrous and nonferrous metals, automotive and aircraft components, electronics, chemicals, textiles, mining, construction<br>
 
 **Industrial production growth rate**<br>
-8.61% (2023 est.)<br>
+6.76% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-20.312 million (2021 est.)<br>
+20.539 million (2021 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -492,11 +498,11 @@ _on alcohol and tobacco_: 6.9% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.3% (2020 est.)<br>
-_highest 10%_: 21.8% (2020 est.)<br>
+_highest 10%_: 21.7% (2020 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-8.46% of GDP (2023 est.)<br>
+8.37% of GDP (2023 est.)<br>
 10.36% of GDP (2022 est.)<br>
 9.04% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -515,8 +521,8 @@ _expenditures_: $93.783 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$9.209 billion (2023 est.)<br>
-$7.972 billion (2022 est.)<br>
+-$9.655 billion (2023 est.)<br>
+$7.976 billion (2022 est.)<br>
 -$3.882 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
@@ -535,7 +541,7 @@ corn, seed oils, wheat, iron ore, rapeseed (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$88.488 billion (2023 est.)<br>
+$88.83 billion (2023 est.)<br>
 $83.254 billion (2022 est.)<br>
 $84.175 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -553,6 +559,9 @@ $40.51 billion (2023 est.)<br>
 $28.506 billion (2022 est.)<br>
 $30.967 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+
+**Debt - external**<br>
+$96.719 billion (2023 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: hryvnia (UAH) per US dollar -<br>

@@ -363,9 +363,16 @@ _election results_: <br><em>2021: </em>Jose Pedro CASTILLO Terrones elected pre
 <strong>note 1: </strong>First Vice President Dina Ercilia BOLUARTE Zegarra assumed the office of the president on 7 December 2022 after President Jose Pedro CASTILLO Terrones was impeached and arrested; BOLUARTE is the first woman to become president of Peru <br><br><strong>note 2:</strong> Prime Minister Gustavo ADRIANZÉN (since 6 March 2024) does not exercise executive power; this power rests with the president; on 5 March 2024, Prime Minister Alberto OTÁROLA resigned amid allegations of corruption<br><br><strong>note 3:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: unicameral Congress of the Republic of Peru or Congreso de la Rep&uacute;blica del Per&uacute; (130 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve single 5-year terms)<br>
-_elections_: last held on 11 April 2021 (next to be held in April 2026)<br>
-_election results_: <br>percent of vote by party/coalition - NA; seats by party/coalition - Free Peru 32, Popular Force 24, AP 15, APP 15, AvP 10, RP 9, Democratic Peru 7, We Are Peru 5, PP 5, JP 5, Purple Party 3; composition - men 80, women 50, percentage women 40%<br>
+_legislature name_: Congress of the Republic (Congreso de la República)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 130 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 4/11/2021<br>
+_parties elected and seats per party_: Free Peru (PL) (37); Popular Force (FP) (24); Popular Action (AP) (16); Alliance for Progress (APP) (15); Go on Country - Social Integration Party (AvP) (10); Popular Renewal (RP) (9); We Are Peru" (SP) - Purple Party (PM) (9); Other (10)<br>
+_percentage of women in chamber_: 38.5%<br>
+_expected date of next election_: April 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 16 judges and divided into civil, criminal, and constitutional-social sectors)<br>
@@ -427,9 +434,9 @@ $506.697 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$15,100 (2023 est.)<br>
-$15,300 (2022 est.)<br>
-$15,000 (2021 est.)<br>
+$15,300 (2023 est.)<br>
+$15,500 (2022 est.)<br>
+$15,300 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -449,9 +456,9 @@ _Standard & Poors rating_: BBB+ (2013)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 7.1% (2022 est.)<br>
-_industry_: 35% (2022 est.)<br>
-_services_: 49.6% (2022 est.)<br>
+_agriculture_: 7.2% (2023 est.)<br>
+_industry_: 33.9% (2023 est.)<br>
+_services_: 51.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -475,7 +482,7 @@ mining and refining of minerals; steel, metal fabrication; petroleum extraction 
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-18.529 million (2023 est.)<br>
+18.581 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -508,7 +515,7 @@ _highest 10%_: 30.7% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.58% of GDP (2023 est.)<br>
+1.66% of GDP (2023 est.)<br>
 1.5% of GDP (2022 est.)<br>
 1.59% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -567,7 +574,7 @@ $78.59 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$37.467 billion (2022 est.)<br>
+$40.901 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

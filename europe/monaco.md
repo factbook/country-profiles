@@ -287,9 +287,16 @@ _cabinet_: Council of Government under the authority of the monarch<br>
 _elections/appointments_: the monarchy is hereditary; minister of state appointed by the monarch from a list of three French national candidates presented by the French Government<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Council or Conseil National (24 seats; 16 members directly elected in multi-seat constituencies by simple majority vote and 8 directly elected by proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 5 February 2023 (next to be held in February 2028)<br>
-_election results_: percent of vote by coalition - Monegasque National Union 100%; seats by coalition - Monegasque National Union 24; composition - men 13, women 11, percent of women 45.8%<br>
+_legislature name_: National Council (Conseil national)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 24 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 2/5/2023<br>
+_parties elected and seats per party_: Monegasque National Union - l’Union (24)<br>
+_percentage of women in chamber_: 45.8%<br>
+_expected date of next election_: February 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 5 permanent members and 2 substitutes)<br>
@@ -335,9 +342,9 @@ $7.672 billion (2015 est.)<br>
 <strong>note:</strong> data are in 2015 dollars<br>
 
 **Real GDP growth rate**<br>
-11.1% (2022 est.)<br>
+5.04% (2023 est.)<br>
+11.05% (2022 est.)<br>
 21.87% (2021 est.)<br>
--13.01% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
@@ -345,12 +352,12 @@ $115,700 (2015 est.)<br>
 $109,200 (2014 est.)<br>
 
 **GDP (official exchange rate)**<br>
-$8.784 billion (2022 est.)<br>
+$9.995 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **GDP - composition, by sector of origin**<br>
-_industry_: 12.3% (2022 est.)<br>
-_services_: 87.7% (2022 est.)<br>
+_industry_: 11.5% (2023 est.)<br>
+_services_: 88.5% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **Agricultural products**<br>

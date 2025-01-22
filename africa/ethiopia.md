@@ -363,10 +363,29 @@ _election results_: <em><br>2021:</em> SAHLE-WORK Zewde reelected president duri
 <strong>note:</strong> SAHLE-WORK Zewde is the first female elected head of state in Ethiopia<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>House of Federation or Yefedereshein Mikir Bete (153 seats maximum; 144 seats current; members indirectly elected by state assemblies to serve 5-year terms)<br>House of People's Representatives or Yehizb Tewokayoch Mekir Bete (547 seats maximum; 470 seats current; members directly elected in single-seat constituencies by simple majority vote; 22 seats reserved for minorities; all members serve 5-year terms)<br>
-_elections_: House of Federation - last held 4 October 2021 (next expected in October 2026)<br>House of People's Representatives - last held in two parts on 21 June 2021 and 30 September 2021 (next expected in June 2026)<br>
-_election results_: House of Federation - percent of vote by party/coalition - NA; seats by party/coalition - NA; composition - men 102, women 43, percentage women 29.7%<br><br>House of Representatives - percent of vote by party/coalition - NA; seats by party/coalition - Prosperity Party 454, NAMA 5, EZEMA 4, Gedeo People's Democratic organization 2, Kucha People Democratic Party 1, independent 4; composition - men 275, women 195, percentage women 41.3%; note - total Parliament percentage women 38.9%<br>
+_legislative structure_: bicameral<br>
 <strong>note:</strong> the House of Federation is responsible for interpreting the constitution and federal-regional issues, and the House of People's Representatives is responsible for passing legislation<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Peoples' Representatives (Yehizb Tewokayoch Mekir Bete)<br>
+_number of seats_: 547 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 6/21/2021 to 9/30/2021<br>
+_parties elected and seats per party_: Prosperity Party (448); Other (22)<br>
+_percentage of women in chamber_: 41.3%<br>
+_expected date of next election_: June 2026<br>
+<strong>note:</strong> only 470 of the 547 seats in the House of People's Representatives were filled during the 2021 elections due to security issues in the Tigray State and other areas<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: House of the Federation (Yefedereshein Mekir Bete)<br>
+_number of seats_: 153 (all indirectly elected)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 10/4/2021<br>
+_percentage of women in chamber_: 29.7%<br>
+_expected date of next election_: October 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Supreme Court (consists of 11 judges); note - the House of Federation has jurisdiction for all constitutional issues<br>
@@ -460,6 +479,7 @@ _services_: 37% (2023 est.)<br>
 _household consumption_: 78.9% (2023 est.)<br>
 _government consumption_: 6.3% (2023 est.)<br>
 _investment in fixed capital_: 22.2% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
 _exports of goods and services_: 6.6% (2023 est.)<br>
 _imports of goods and services_: -14% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -476,7 +496,7 @@ food processing, beverages, textiles, leather, garments, chemicals, metals proce
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-61.664 million (2023 est.)<br>
+62.647 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -509,7 +529,7 @@ _highest 10%_: 28.5% (2015 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.36% of GDP (2023 est.)<br>
+0.33% of GDP (2023 est.)<br>
 0.4% of GDP (2022 est.)<br>
 0.4% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -524,7 +544,7 @@ _expenditures_: $8.83 billion (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-4.51% (of GDP) (2022 est.)<br>
+3.93% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -568,7 +588,7 @@ $3.987 billion (2018 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$21.522 billion (2022 est.)<br>
+$27.166 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

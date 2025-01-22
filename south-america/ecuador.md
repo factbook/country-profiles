@@ -346,9 +346,16 @@ _election results_: <br><em>2023:</em> Daniel NOBOA Azin elected president; perc
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Asamblea Nacional (137 seats; 116 members directly elected in single-seat constituencies by simple majority vote, 15 members directly elected in a single nationwide constituency by open-list proportional representation vote, and 6 directly elected in multi-seat constituencies for Ecuadorians living abroad by simple majority vote; members serve 4-year terms)<br>
-_elections_: last held on 20 August 2023 (next to be held on 28 February 2025)<br>
-_election results_: percent of vote by party - RC5 38%, Construye 20.4%, ADN 10.2%, PSC 10.2%, Actuemos 5.8%, MUPP 2.9%, other 12.4%; seats by party - RC5 52, Construye 28, ADN 14, PSC 14, Actuemos 8, MUPP 4, other 17; composition - men 78, women 59, percentage women 43.1%<br>
+_legislature name_: National Assembly (Asamblea Nacional)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 137 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 8/20/2023<br>
+_parties elected and seats per party_: Citizen Revolution Movement (RC) (51); Movimiento Construye (MC25) (28); National Democratic Action (ADN) (14); Social Christian Party (PSC) (8); Let’s Act (8); Other (28)<br>
+_percentage of women in chamber_: 43.1%<br>
+_expected date of next election_: February 2025<br>
 <strong>note 1:</strong> all Assembly members have alternates from the same party who cast votes when a primary member is absent, resigns, or is removed from office<br><br><strong>note 2:</strong> on 18 May 2023, Ecuador’s National Electoral Council announced that the legislative and presidential elections - originally scheduled for February 2025 - would be held on 20 August 2023 after President Guillermo LASSO dissolved the National Assembly by decree on 17 May 2023; a return to a regular election cycle will occur in February 2025<br>
 
 **Judicial branch**<br>
@@ -371,7 +378,7 @@ _email address and website_: <br>eecuusanotifications@mmrree.gob.ec<br><br>Conta
 _consulate(s) general_: Atlanta, Chicago, Houston, Los Angeles, Miami, Minneapolis (MN), New Haven (CT), New York, Newark (NJ), Phoenix, San Juan (PR)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Michael J. FITZPATRICK (since 3 July 2019)<br>
+_chief of mission_: Ambassador Arthur W. BROWN (since 26 June 2024)<br>
 _embassy_: E12-170 Avenida Avigiras y Avenida Eloy Alfaro, Quito<br>
 _mailing address_: 3420 Quito Place, Washington DC&nbsp; 20521-3420<br>
 _telephone_: [593] (2) 398-5000<br>
@@ -412,8 +419,8 @@ $239.415 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$14,300 (2023 est.)<br>
-$14,100 (2022 est.)<br>
+$14,500 (2023 est.)<br>
+$14,300 (2022 est.)<br>
 $13,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
@@ -456,11 +463,11 @@ sugarcane, bananas, oil palm fruit, milk, maize, rice, plantains, chicken, cocoa
 petroleum, food processing, textiles, wood products, chemicals<br>
 
 **Industrial production growth rate**<br>
--0.75% (2023 est.)<br>
+-0.64% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.893 million (2023 est.)<br>
+8.823 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -480,7 +487,7 @@ _female_: 9.4% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-45.5 (2022 est.)<br>
+44.6 (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -488,12 +495,12 @@ _on food_: 26.4% of household expenditures (2022 est.)<br>
 _on alcohol and tobacco_: 0.8% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.7% (2022 est.)<br>
-_highest 10%_: 34.3% (2022 est.)<br>
+_lowest 10%_: 1.6% (2023 est.)<br>
+_highest 10%_: 33.2% (2023 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-4.33% of GDP (2023 est.)<br>
+4.59% of GDP (2023 est.)<br>
 4.07% of GDP (2022 est.)<br>
 4.07% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -511,14 +518,14 @@ _expenditures_: $35.347 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$2.291 billion (2023 est.)<br>
-$2.133 billion (2022 est.)<br>
-$3.098 billion (2021 est.)<br>
+$2.229 billion (2023 est.)<br>
+$2.093 billion (2022 est.)<br>
+$3.036 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$34.64 billion (2023 est.)<br>
-$35.943 billion (2022 est.)<br>
+$34.672 billion (2023 est.)<br>
+$35.944 billion (2022 est.)<br>
 $29.037 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
@@ -531,7 +538,7 @@ crude petroleum, shellfish, bananas, fish, refined petroleum (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$34.447 billion (2023 est.)<br>
+$34.562 billion (2023 est.)<br>
 $36.051 billion (2022 est.)<br>
 $28.128 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -551,7 +558,7 @@ $7.912 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$39.129 billion (2022 est.)<br>
+$42.649 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

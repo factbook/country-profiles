@@ -270,9 +270,15 @@ _cabinet_: Cabinet selected from the Parliament and appointed by the governor on
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition appointed premier by the governor<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament (21 seats; 19 members directly elected by majority vote and 2 ex-officio members - the deputy governor and attorney general - appointed by the governor; members serve 4-year terms)<br>
-_elections_: last held on 14 April 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party - independent 79.1%, PPM 19.6%; elected seats by party - independent 12, PPM 7; ex-officio members 2; composition - men 16, women 5, percentage women 23.8%<br>
+_legislature name_: Parliament<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 21 (directly elected and appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 4/14/2021<br>
+_parties elected and seats per party_: independent (12); PPM (7)<br>
+_percentage of women in chamber_: 23.8%<br>
+_expected date of next election_: 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president and at least 2 judges); Grand Court (consists of the court president and at least 2 judges); note - appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -308,25 +314,25 @@ _lyrics/music_: Leila E. ROSS<br>
 dominant offshore banking territory; services sector accounts for over 85% of economic activity; recently adopted a fiscal responsibility framework to combat tax evasion and money laundering; large tourism sector; does not have any welfare system; high standard of living<br>
 
 **Real GDP (purchasing power parity)**<br>
+$5.705 billion (2023 est.)<br>
 $5.467 billion (2022 est.)<br>
 $5.199 billion (2021 est.)<br>
-$4.956 billion (2020 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+4.36% (2023 est.)<br>
 5.16% (2022 est.)<br>
 4.9% (2021 est.)<br>
--4.95% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$79,600 (2022 est.)<br>
-$76,300 (2021 est.)<br>
-$73,600 (2020 est.)<br>
+$78,100 (2023 est.)<br>
+$76,400 (2022 est.)<br>
+$74,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$6.601 billion (2022 est.)<br>
+$7.139 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -370,9 +376,9 @@ _male_: 16.4%<br>
 _female_: 11.4%<br>
 
 **Remittances**<br>
-0.15% of GDP (2022 est.)<br>
+0.14% of GDP (2023 est.)<br>
+0.19% of GDP (2022 est.)<br>
 0.17% of GDP (2021 est.)<br>
-0.16% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -383,15 +389,15 @@ _expenditures_: $766.6 million (2017 est.)<br>
 38.9% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
--$821.404 million (2021 est.)<br>
+-$647.271 million (2022 est.)<br>
+-$794.205 million (2021 est.)<br>
 -$827.492 million (2020 est.)<br>
--$646.843 million (2019 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$4.054 billion (2021 est.)<br>
+$5.019 billion (2022 est.)<br>
+$4.138 billion (2021 est.)<br>
 $3.951 billion (2020 est.)<br>
-$4.205 billion (2019 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -403,9 +409,9 @@ ships, aircraft, refined petroleum, natural gas, broadcasting equipment (2022)<b
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$2.743 billion (2021 est.)<br>
+$3.3 billion (2022 est.)<br>
+$2.808 billion (2021 est.)<br>
 $2.51 billion (2020 est.)<br>
-$2.743 billion (2019 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -417,18 +423,18 @@ ships, refined petroleum, diamonds, cars, gold (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$216.8 million (2020 est.)<br>
-$183.5 million (2019 est.)<br>
-$162.074 million (2018 est.)<br>
+$234 million (2023 est.)<br>
+$225.4 million (2022 est.)<br>
+$228.3 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Caymanian dollars (KYD) per US dollar -<br>
+0.833 (2023 est.)<br>
+0.833 (2022 est.)<br>
 0.833 (2021 est.)<br>
 0.833 (2020 est.)<br>
 0.833 (2019 est.)<br>
-0.833 (2018 est.)<br>
-0.833 (2017 est.)<br>
 
 ## Energy
 

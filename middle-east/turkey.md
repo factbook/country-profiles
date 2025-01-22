@@ -345,16 +345,23 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Recep Tayyip ERDOGAN (chief of state since 28 August 2014; head of government since 9 July 2018)<br>
-_head of government_: President Recep Tayyip ERDOGAN (head of government since 9 July 2018; chief of state since 28 August 2014)<br>
+_chief of state_: President Recep Tayyip ERDOGAN (since 28 August 2014)<br>
+_head of government_: President Recep Tayyip ERDOGAN (since 9 July 2018)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 14 May 2023 with a runoff on 28 May 2023 (next to be held in 2028)<br>
 _election results_: <em><br>2023: </em>Recep Tayyip ERDOGAN reelected president in second round - Recep Tayyip ERDOGAN (AKP) 52.2%, Kemal KILICDAROGLU (CHP) 47.8%<em><br><br>2018:</em> Recep Tayyip ERDOGAN reelected president in first round - Recep Tayyip ERDOGAN (AKP) 52.6%, Muharrem INCE (CHP) 30.6%, Selahattin DEMIRTAS (HDP) 8.4%, Meral AKSENER (IYI) 7.3%, other 1.1%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Grand National Assembly of Turkey or Turkey Buyuk Millet Meclisi (600 seats); members directly elected in multi-seat constituencies by closed party-list proportional representation vote, with a 7% threshold required to win a seat; members serve 5-year terms)<br>
-_elections_: last held on 14 May 2023 (next to be held in 2028)<br>
-_election results_: percent of vote by party/coalition - People's Alliance 49.9% (AKP 35.6%, MHP 10.1%, YRP 2.8%, BBP 1%), Nation Alliance 35.4% (CHP 25.3%, IYI 9.7%), Labor and Freedom Alliance 10.7% (YSGP 8.9%, TIP 1.8%); seats by party/coalition - People's Alliance 323 (AKP 268, MHP 50, YRP 5), Nation Alliance 212 (CHP 169, IYI 43), Labor and Freedom Alliance 65 (YSGP 61, TIP 4); composition - men 480, women 119, percentage women 19.9%<br>
+_legislature name_: Grand National Assembly of Türkiye (Türkiye Büyük Millet Meclisi (T.B.M.M))<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 600 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 5/14/2023<br>
+_parties elected and seats per party_: Justice and Development Party (AKP) (267); Republican People's Party (CHP) (130); Green and the Left Party of the Future (YSGP) (57); Nationalist Action Party (MHP) (50); Good Party (İyi Party) (44); Other (52)<br>
+_percentage of women in chamber_: 19.9%<br>
+_expected date of next election_: May 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Constitutional Court or Anayasa Mahkemesi (consists of the president, 2 vice presidents, and 12 judges); Court of Cassation (consists of about 390 judges and is organized into civil and penal chambers); Council of State (organized into 15 divisions - 14 judicial and 1 consultative - each with a division head and at least 5 members)<br>
@@ -407,25 +414,25 @@ _selected World Heritage Site locales_: <p>Archaeological Site of Troy (c); Ephe
 upper middle-income, diversified Middle Eastern economy; heightened inflation and currency depreciation triggered by expansionary monetary and fiscal policy ahead of 2023 elections, now being reversed; industrializing economy that maintains large agricultural base<br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.936 trillion (2023 est.)<br>
+$2.953 trillion (2023 est.)<br>
 $2.81 trillion (2022 est.)<br>
 $2.662 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.52% (2023 est.)<br>
+5.11% (2023 est.)<br>
 5.53% (2022 est.)<br>
 11.44% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$34,400 (2023 est.)<br>
+$34,600 (2023 est.)<br>
 $33,100 (2022 est.)<br>
 $31,600 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.108 trillion (2023 est.)<br>
+$1.118 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -442,17 +449,17 @@ _Standard & Poors rating_: B+ (2018)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 6.2% (2023 est.)<br>
-_industry_: 28.3% (2023 est.)<br>
-_services_: 54% (2023 est.)<br>
+_industry_: 28.4% (2023 est.)<br>
+_services_: 54.1% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 59.4% (2023 est.)<br>
-_government consumption_: 13.6% (2023 est.)<br>
-_investment in fixed capital_: 32.4% (2023 est.)<br>
-_investment in inventories_: -3% (2023 est.)<br>
-_exports of goods and services_: 32.3% (2023 est.)<br>
-_imports of goods and services_: -34.7% (2023 est.)<br>
+_government consumption_: 13.1% (2023 est.)<br>
+_investment in fixed capital_: 31.9% (2023 est.)<br>
+_investment in inventories_: -1.9% (2023 est.)<br>
+_exports of goods and services_: 31.9% (2023 est.)<br>
+_imports of goods and services_: -34.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -463,11 +470,11 @@ milk, wheat, sugar beets, tomatoes, barley, maize, potatoes, apples, grapes, wat
 textiles, food processing, automobiles, electronics, mining (coal, chromate, copper, boron), steel, petroleum, construction, lumber, paper<br>
 
 **Industrial production growth rate**<br>
-2.34% (2023 est.)<br>
+2.52% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-35.071 million (2023 est.)<br>
+35.59 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -483,7 +490,7 @@ _female_: 22.9% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-14.4% (2020 est.)<br>
+14.4% (2021 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -500,7 +507,7 @@ _highest 10%_: 34.7% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.08% of GDP (2023 est.)<br>
+0.09% of GDP (2023 est.)<br>
 0.08% of GDP (2022 est.)<br>
 0.09% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -519,14 +526,14 @@ _expenditures_: $269.146 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$44.961 billion (2023 est.)<br>
--$45.799 billion (2022 est.)<br>
+-$40.503 billion (2023 est.)<br>
+-$46.638 billion (2022 est.)<br>
 -$6.433 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$352.514 billion (2023 est.)<br>
-$346.369 billion (2022 est.)<br>
+$357.025 billion (2023 est.)<br>
+$346.21 billion (2022 est.)<br>
 $287.318 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
@@ -539,8 +546,8 @@ garments, refined petroleum, cars, jewelry, plastic products (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$386.828 billion (2023 est.)<br>
-$383.02 billion (2022 est.)<br>
+$386.666 billion (2023 est.)<br>
+$383.7 billion (2022 est.)<br>
 $284.019 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
@@ -559,7 +566,7 @@ $109.535 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$133.882 billion (2022 est.)<br>
+$151.844 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

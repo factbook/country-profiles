@@ -239,9 +239,16 @@ _cabinet_: Cabinet nominated by the prime minister and appointed by the governor
 _elections/appointments_: the monarch is hereditary; governor appointed by the monarch for a 6-year term; following parliamentary elections, the leader of the majority party usually elected prime minister by Parliament<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament&nbsp;of Sint Maarten&nbsp;(15 seats; members directly elected by proportional representation vote to serve 4-year terms)<br>
-_elections_: last held 11 January 2024 (next to be held in 2028)<br>
-_election results_: percent of vote by party - NA 23.9%, UPP 19.6%, URSM 13.9%, DP 13.6%, PFP 11.9%, NOW 10.3%, other 6.8%; seats by party - NA 4, UPP 3, URSM 2, DP 2, PFP2, NOW 2; composition - men 8, women 7, percentage women 46.7% (additional member is suspended)<br>
+_legislature name_: Parliament&nbsp;of Sint Maarten<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 15 (directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 1/11/2024<br>
+_parties elected and seats per party_: NA (4); UPP (3); URSM (2); DP (2); PFP (2); NOW (2)<br>
+_percentage of women in chamber_: 46.7%<br>
+_expected date of next election_: 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (consists of the presiding judge, other members, and their substitutes); final appeals heard by the Supreme Court (in The Hague, Netherlands); note - prior to 2010, the Joint Court of Justice was the Common Court of Justice of the Netherlands Antilles and Aruba<br>
@@ -278,25 +285,25 @@ _lyrics/music_: Gerard KEMPS<br>
 high-income, tourism-based Dutch autonomous constituent economy; severe hurricane- and COVID-19-related economic recessions; multilateral trust fund helping offset economic downturn; no property taxation; re-exporter to Saint Martin<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.912 billion (2023 est.)<br>
+$1.919 billion (2023 est.)<br>
 $1.849 billion (2022 est.)<br>
 $1.684 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.4% (2023 est.)<br>
+3.8% (2023 est.)<br>
 9.8% (2022 est.)<br>
 4.58% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$46,400 (2023 est.)<br>
-$45,200 (2022 est.)<br>
-$41,400 (2021 est.)<br>
+$44,900 (2023 est.)<br>
+$43,900 (2022 est.)<br>
+$40,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.623 billion (2023 est.)<br>
+$1.628 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -321,21 +328,21 @@ tourism, light industry<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Remittances**<br>
-2.9% of GDP (2023 est.)<br>
-3.15% of GDP (2022 est.)<br>
+2.95% of GDP (2023 est.)<br>
+3.16% of GDP (2022 est.)<br>
 3.44% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Current account balance**<br>
--$41.64 million (2022 est.)<br>
--$300.6 million (2021 est.)<br>
--$290.458 million (2020 est.)<br>
+-$116.693 million (2023 est.)<br>
+-$56.984 million (2022 est.)<br>
+-$311.463 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$1.372 billion (2022 est.)<br>
+$1.504 billion (2023 est.)<br>
+$1.375 billion (2022 est.)<br>
 $790.938 million (2021 est.)<br>
-$527.044 million (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -347,9 +354,9 @@ gas turbines, scrap iron, jewelry, coconuts/Brazil nuts/cashews, flavored water 
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$1.318 billion (2022 est.)<br>
+$1.489 billion (2023 est.)<br>
+$1.32 billion (2022 est.)<br>
 $1.003 billion (2021 est.)<br>
-$760.824 million (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

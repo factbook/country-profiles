@@ -287,9 +287,16 @@ _cabinet_: Cabinet chosen by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; UK representative appointed by the monarch; New Zealand high commissioner appointed by the New Zealand Government; following legislative elections, the leader of the majority party or majority coalition usually becomes prime minister<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament, formerly the Legislative Assembly (24 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: last held on 1 August 2022 (next to be held by 2026)<br>
-_election results_: percent of vote by party - CIP 44%, Demo 26.9%, Cook Islands United Party 26.9%, OCI 2.7%, other 0.2% independent 7.3%; seats by party - CIP 12, Demo 5, Cook Islands United Party 3, OCI 1, independent 3; composition - men 18, women 6, percentage women 25%<br>
+_legislature name_: Parliament<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 24 (directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 8/1/2022<br>
+_parties elected and seats per party_: CIP (12); Demo (5); Cook Islands United Party (3); OCI (1); independent (3)<br>
+_percentage of women in chamber_: 25%<br>
+_expected date of next election_: 2026<br>
 <strong>note:</strong> the House of Ariki, a 24-member parliamentary body of traditional leaders appointed by the King's representative, serves as a consultative body to the Parliament<br>
 
 **Judicial branch**<br>

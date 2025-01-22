@@ -348,9 +348,27 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em>2024:</em> Netumbo Nandi-NDAITWAH elected president in the first round; percent of vote -Netumbo Nandi-NDAITWAH (SWAPO) 57%, Panduleni  ITULA (IPC) 26%, McHenry VENAANI (PDM) 5.10%, Bernadus SWARTBOOI (LPM) 4.72%, Job AMUPANDA (AR) 1.80%, Hendrik GAOBEAB (UDF) 1.16%; other 3.31%<br><br><em>2019:</em> Hage GEINGOB reelected president in the first round; percent of vote - Hage GEINGOB (SWAPO) 56.3%, Panduleni ITULA (independent) 29.4%, McHenry VENAANI (PDM) 5.3%, other .9% <p> </p><br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>National Council (42 seats); members indirectly elected 3 each by the 14 regional councils to serve 5-year terms)<br>National Assembly (104 seats; 96 members directly elected in multi-seat constituencies by closed list, proportional representation vote to serve 5-year terms and 8 nonvoting members appointed by the president)<br>
-_elections_: National Council - elections for regional councils to determine members of the National Council held on 25 November 2020 (next to be held on 25 November 2025)<br>National Assembly - last held on 27 November 2019 (next to be held in November 2024)<br>
-_election results_: Nstional Council - percent of vote by party - NA; seats by party - SWAPO 28, LPM 6, IPC 2, PDM 2, UDF 2, NUDO 1, independent 1; composition - men 36, women 6, percentage women 14.3% <br><br>National Assembly - percent of vote by party - SWAPO 65.5%, PDM 16.6%, LPM 4.7%, NUDO 1.9%, APP 1.8%, UDF 1.8%, RP 1.8%, NEFF 1.7%, RDP 1.1%, CDV .7%, SWANU .6%, other 1.8%; seats by party - SWAPO 63, PDM 16, LPM 4, NUDO 2, APP 2, UDF 2, RP 2, NEFF 2, RDP 1, CDV 1, SWANU 1; composition - men 58, women 46, percentage women 44.2%; total Parliament percentage women 35.6%<br>
+_legislature name_: Parliament<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: National Assembly<br>
+_number of seats_: 104 (96 directly elected; 8 appointed)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 11/27/2024 to 11/30/2024<br>
+_expected date of next election_: November 2029<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: National Council<br>
+_number of seats_: 42 (all indirectly elected)<br>
+_electoral system_: proportional representation<br>
+_term in office_: 5 years<br>
+_most recent election date_: 12/15/2020<br>
+_percentage of women in chamber_: 14.3%<br>
+_expected date of next election_: December 2025<br>
+<strong>note:</strong> the Council primarily reviews legislation passed and referred by the National Assembly<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and at least 3 judges in quorum sessions)<br>
@@ -411,9 +429,9 @@ $27.288 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$11,500 (2023 est.)<br>
-$11,200 (2022 est.)<br>
-$10,800 (2021 est.)<br>
+$10,100 (2023 est.)<br>
+$9,900 (2022 est.)<br>
+$9,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -458,7 +476,7 @@ mining, tourism, fishing, agriculture<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-989,000 (2023 est.)<br>
+1.106 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -483,13 +501,13 @@ _female_: 38.8% (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1% (2015 est.)<br>
-_highest 10%_: 47.3% (2015 est.)<br>
+_highest 10%_: 47.2% (2015 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.5% of GDP (2023 est.)<br>
-0.43% of GDP (2022 est.)<br>
-0.37% of GDP (2021 est.)<br>
+0.71% of GDP (2023 est.)<br>
+0.66% of GDP (2022 est.)<br>
+0.58% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -506,15 +524,15 @@ _expenditures_: $4.535 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.848 billion (2023 est.)<br>
--$1.628 billion (2022 est.)<br>
--$1.391 billion (2021 est.)<br>
+-$1.831 billion (2023 est.)<br>
+-$1.634 billion (2022 est.)<br>
+-$1.407 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$5.641 billion (2023 est.)<br>
-$5.314 billion (2022 est.)<br>
-$4.341 billion (2021 est.)<br>
+$5.691 billion (2023 est.)<br>
+$5.361 billion (2022 est.)<br>
+$4.353 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -526,9 +544,9 @@ diamonds, gold, fish, radioactive chemicals, ships (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$8.281 billion (2023 est.)<br>
-$7.423 billion (2022 est.)<br>
-$6.467 billion (2021 est.)<br>
+$8.283 billion (2023 est.)<br>
+$7.424 billion (2022 est.)<br>
+$6.466 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

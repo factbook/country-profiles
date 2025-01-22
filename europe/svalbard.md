@@ -134,9 +134,6 @@ _head of government_: Governor Lars FAUSE (since 24 June 2021)<br>
 _elections/appointments_: none; the monarchy is hereditary; governor and assistant governor responsible to the Polar Department of the Ministry of Justice<br>
 
 **Legislative branch**<br>
-_description_: unicameral Longyearbyen Community Council (15 seats; members directly elected by majority vote to serve 4-year-terms)<br>
-_elections_: last held on 9 October 2023 (next to be held in October 2027)<br>
-_election results_: seats by party - Liberal 7, Labor 3, Social Liberal 3, Conservative 2<br>
 <strong>note:</strong> the Council acts much like a Norwegian municipality, with responsibility for infrastructure and utilities (including power, land-use and community planning, education, and child welfare); however, the state provides healthcare services<br>
 
 **Judicial branch**<br>

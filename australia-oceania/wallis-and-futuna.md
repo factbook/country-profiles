@@ -255,9 +255,14 @@ _elections/appointments_: French president elected by absolute majority popular 
 <strong>note:</strong> there are 3 traditional kings with limited powers<br>
 
 **Legislative branch**<br>
-_description_: unicameral Territorial Assembly or Assemblee Territoriale (20 seats - Wallis 13, Futuna 7; members directly elected in multi-seat constituencies by party-list proportional representation vote to serve 5-year terms)<br>
-_elections_: <br>Territorial Assembly - last held on 20 March 2022 (next to be held in March 2027)<br>French Senate - last held on 24 September 2023 (next to be held on 30 September 2026)<br>French National Assembly - last held on 12 and 19 June 2022 (next to be held in June 2027)<br>
-_election results_: Territorial Assembly - percent of vote by party - NA; seats by party - 2 members are elected from the list Ofa mo'oni ki tou fenua and 2 members are elected from list Mauli fetokoniaki, 1 seat each from 16 other lists; composition - men NA, women NA, percent of women NA<br><br>French Senate representative - LR 1<br><br>French National Assembly representative - independent 1<br>
+_legislature name_: Territorial Assembly (Assembl&eacute;e territoriale)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 20 (directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 3/20/2022<br>
+_parties elected and seats per party_: Ofa mo'oni ki tou fenua (2); Mauli fetokoniaki (2); 1 seat each from 16 other lists<br>
 <strong>note:</strong> 1 senator is indirectly elected to the French Senate by an electoral college for a 6-year term, and 1 deputy is directly elected to the French National Assembly for a 5-year term<br>
 
 **Judicial branch**<br>

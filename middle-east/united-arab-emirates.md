@@ -323,9 +323,15 @@ _election results_: <em>2022:</em> MUHAMMAD BIN ZAYID Al-Nuhayyan elected presid
 <strong>note:</strong> the Federal Supreme Council (FSC) is composed of the 7 emirate rulers and is the highest constitutional authority in the UAE; the FSC establishes general policies and sanctions federal legislation; meets 4 times a year; Abu Zaby (Abu Dhabi) and Dubayy (Dubai) rulers have effective veto power<br>
 
 **Legislative branch**<br>
-_description_: unicameral Federal National Council (FNC) or Majlis al-Ittihad al-Watani (40 seats; 20 members indirectly elected using single non-transferable vote by an electoral college whose members are selected by each emirate ruler proportional to its FNC membership, and 20 members appointed by the rulers of the 7 constituent states; members serve 4-year terms)<br>
-_elections_: last held for indirectly elected members on 7 October 2023 (next to be held in October 2027); last held for appointed members in October 2023 (next appointments expected in late 2027)<br>
-_election results_: seats by emirate - Abu Dhabi 4, Dubai 4, Sharjah 3, Ras al-Khaimah 3, Ajman 2, Fujairah 2, Umm al-Quwain 2; composition - 13 men, 7 women, percentage elected women 35%; note - to attain overall FNC gender parity, 13 women and 7 men were appointed; total FNC percentage of women 50%<br>
+_legislature name_: Federal National Council (Majlis Watani Itihadi)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 40 (20 indirectly elected; 20 appointed)<br>
+_electoral system_: other systems<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 10/7/2023<br>
+_percentage of women in chamber_: 50%<br>
+_expected date of next election_: October 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Supreme Court (consists of the court president and 4 judges; jurisdiction limited to federal cases)<br>
@@ -376,31 +382,31 @@ _selected World Heritage Site locales_: Cultural Sites of Al Ain (Hafit, Hili, B
 historically oil-driven Middle Eastern economy; diversifying into a trade-oriented logistics and supply chain leader; strong foreign direct investment orientation; building trade and investment ties through partnership agreements; growing banking sector; recent economic linkages with Israel slowing due to Gaza conflict<br>
 
 **Real GDP (purchasing power parity)**<br>
-$719.733 billion (2023 est.)<br>
-$696.041 billion (2022 est.)<br>
+$718.95 billion (2023 est.)<br>
+$693.842 billion (2022 est.)<br>
 $645.376 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.4% (2023 est.)<br>
-7.85% (2022 est.)<br>
+3.62% (2023 est.)<br>
+7.51% (2022 est.)<br>
 4.35% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$75,600 (2023 est.)<br>
-$73,700 (2022 est.)<br>
-$68,900 (2021 est.)<br>
+$68,600 (2023 est.)<br>
+$68,900 (2022 est.)<br>
+$67,400 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$504.173 billion (2023 est.)<br>
+$514.13 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.83% (2022 est.)<br>
--0.01% (2021 est.)<br>
--2.08% (2020 est.)<br>
+1.63% (2023 est.)<br>
+5.29% (2022 est.)<br>
+0.18% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -410,18 +416,18 @@ _Standard & Poors rating_: AA (2007)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.8% (2022 est.)<br>
-_industry_: 51.5% (2022 est.)<br>
-_services_: 47.7% (2022 est.)<br>
+_agriculture_: 0.7% (2023 est.)<br>
+_industry_: 47.7% (2023 est.)<br>
+_services_: 51.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 40.2% (2020 est.)<br>
-_government consumption_: 14.5% (2020 est.)<br>
-_investment in fixed capital_: 20.2% (2020 est.)<br>
-_investment in inventories_: 2.6% (2020 est.)<br>
-_exports of goods and services_: 95.9% (2020 est.)<br>
-_imports of goods and services_: -70.6% (2020 est.)<br>
+_household consumption_: 45.6% (2023 est.)<br>
+_government consumption_: 12.4% (2023 est.)<br>
+_investment in fixed capital_: 27.1% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
+_exports of goods and services_: 108.6% (2023 est.)<br>
+_imports of goods and services_: -93.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -432,11 +438,11 @@ dates, cucumbers/gherkins, camel milk, goat milk, tomatoes, eggs, goat meat, mil
 petroleum and petrochemicals; fishing, aluminum, cement, fertilizer, commercial ship repair, construction materials, handicrafts, textiles<br>
 
 **Industrial production growth rate**<br>
-8.49% (2022 est.)<br>
+0.8% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-6.668 million (2023 est.)<br>
+7.248 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -452,7 +458,7 @@ _female_: 22.9% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-26 (2018 est.)<br>
+26.4 (2018 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -460,8 +466,8 @@ _on food_: 13.5% of household expenditures (2022 est.)<br>
 _on alcohol and tobacco_: 0.4% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4% (2018 est.)<br>
-_highest 10%_: 20% (2018 est.)<br>
+_lowest 10%_: 2.8% (2018 est.)<br>
+_highest 10%_: 20.5% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Budget**<br>
@@ -474,7 +480,7 @@ _expenditures_: $19.483 billion (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-0.57% (of GDP) (2022 est.)<br>
+0.58% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>

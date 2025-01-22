@@ -270,9 +270,16 @@ _elections/appointments_: president indirectly elected by at least two-thirds ma
 _election results_: <em><br>2021: </em> Vjosa OSMANI-Sadriu elected president in third ballot; Assembly vote - Vjosa OSMANI-Sadriu (Guxo!) 71 votes; Albin KURTI (LVV) elected prime minister; Assembly vote - 67 for, 30 against<br><br><em>2017: </em>Ramush HARADINAJ (AAK) elected prime minister; Assembly vote - 61 for, 1 abstention, 0 against (opposition boycott)<br><br><em>2016:</em> Hashim THACI elected president in third ballot; Assembly vote - Hashim THACI (PDK) 71 votes<br>
 
 **Legislative branch**<br>
-_description_: unicameral Assembly or Kuvendi i Kosoves/Skupstina Kosova (120 seats; 100 members directly elected by open-list proportional representation vote with 20 seats reserved for ethnic minorities; members serve 4-year terms)<br>
-_elections_: last held on 14 February 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party - LVV 50%, PDK 16.9%, LDK 12.7%, AAK 7.1%, Serb List 5.1%, other 8.2%; seats by party - LVV 58, PDK 19, LDK 15, Serb List 10, AAK 8, other 10; composition - men 79, women 41, percentage women 34.2%<br>
+_legislature name_: Assembly (Kuvendi i Kosoves/Skupstina Kosova)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 120 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 2/14/2021<br>
+_parties elected and seats per party_: Self-Determination Movement (LVV) (58), Democratic Party of Kosovo (PDK) (19), Democratic League of Kosovo (LDK) (15), Serb List (10), Alliance for the Future of Kosovo (AAK) (8), other (10)<br>
+_percentage of women in chamber_: 34%<br>
+_expected date of next election_: 2025<br>
 <strong>note:</strong> 20 seats reserved for ethnic minorities -- 10 for Serbs and 10 for other minorities<br>
 
 **Judicial branch**<br>
@@ -326,25 +333,25 @@ _selected World Heritage Site locales_: Medieval Monuments in Kosovo<br>
 small-but-growing European economy; non-EU member but unilateral euro user; very high unemployment, especially youth; vulnerable reliance on diaspora tourism services, curtailed by COVID-19 disruptions; unclear public loan portfolio health<br>
 
 **Real GDP (purchasing power parity)**<br>
-$23.794 billion (2023 est.)<br>
+$23.962 billion (2023 est.)<br>
 $23.025 billion (2022 est.)<br>
 $22.08 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.34% (2023 est.)<br>
+4.07% (2023 est.)<br>
 4.28% (2022 est.)<br>
 10.75% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$13,500 (2023 est.)<br>
+$13,600 (2023 est.)<br>
 $13,000 (2022 est.)<br>
 $12,400 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$10.438 billion (2023 est.)<br>
+$10.468 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -354,18 +361,18 @@ $10.438 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 7.8% (2023 est.)<br>
+_agriculture_: 7.2% (2023 est.)<br>
 _industry_: 26.3% (2023 est.)<br>
-_services_: 46% (2023 est.)<br>
+_services_: 46.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 83.9% (2023 est.)<br>
-_government consumption_: 12.5% (2023 est.)<br>
-_investment in fixed capital_: 31.6% (2023 est.)<br>
-_investment in inventories_: 2.7% (2023 est.)<br>
-_exports of goods and services_: 39.7% (2023 est.)<br>
-_imports of goods and services_: -70.5% (2023 est.)<br>
+_household consumption_: 84.1% (2023 est.)<br>
+_government consumption_: 12.6% (2023 est.)<br>
+_investment in fixed capital_: 31.5% (2023 est.)<br>
+_investment in inventories_: 2.5% (2023 est.)<br>
+_exports of goods and services_: 39.6% (2023 est.)<br>
+_imports of goods and services_: -70.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -375,7 +382,7 @@ wheat, corn, berries, potatoes, peppers, fruit; dairy, livestock; fish<br>
 mineral mining, construction materials, base metals, leather, machinery, appliances, foodstuffs and beverages, textiles<br>
 
 **Industrial production growth rate**<br>
-1.56% (2023 est.)<br>
+3.35% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -406,7 +413,7 @@ _highest 10%_: 24.6% (2017 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-18.2% of GDP (2023 est.)<br>
+17.51% of GDP (2023 est.)<br>
 17.24% of GDP (2022 est.)<br>
 18.01% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -422,13 +429,13 @@ _expenditures_: $2.547 billion (2020 est.)<br>
 29% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
--$794.765 million (2023 est.)<br>
+-$785.09 million (2023 est.)<br>
 -$983.283 million (2022 est.)<br>
 -$818.351 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$4.155 billion (2023 est.)<br>
+$4.156 billion (2023 est.)<br>
 $3.579 billion (2022 est.)<br>
 $3.138 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -456,6 +463,9 @@ $1.245 billion (2023 est.)<br>
 $1.248 billion (2022 est.)<br>
 $1.244 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+
+**Debt - external**<br>
+$829.127 million (2023 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>

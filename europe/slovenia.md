@@ -334,9 +334,28 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2022:</em> Natasa PIRC MUSAR elected president in second round: percent of vote in first round - Anze LOGAR (SDS) 34%, Natasa PIRC MUSAR (independent) 26.9%, Milan BRGLEZ (SD) 15.5%, Vladimir PREBILIC (independent) 10.6%, Sabina SENCAR (Resni.ca) 5.9%, Janez CIGLER KRALJ (NSi) 4.4%, other 2.7%; percent of vote in second round - Natasa PIRC MUSAR 53.9%, Anze LOGAR 46.1%; Robert GOLOB (GS) elected prime minister on 25 May 2022, National Assembly vote - 54-30<br><em><br>2017:</em> Borut PAHOR reelected president in second round; percent of vote in first round - Borut PAHOR (independent) 47.1%, Marjan SAREC (Marjan Sarec List) 25%, Romana TOMC (SDS) 13.7%, Ljudmila NOVAK (NSi) 7.2%, other 7%; percent of vote in second round - Borut PAHOR 52.9%, Marjan SAREC 47.1%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>National Council (State Council) or Drzavni Svet (40 seats; members indirectly elected by an electoral college to serve 5-year terms); note - the Council is primarily an advisory body with limited legislative powers<br>National Assembly or Drzavni Zbor (90 seats; 88 members directly elected in single-seat constituencies by proportional representation vote and 2 directly elected in special constituencies for Italian and Hungarian minorities by simple majority vote; members serve 4-year terms)<br>
-_elections_: National Council - last held on 24 November 2022 (next to be held in 2027)<br>National Assembly - last held on 24 April 2022 (next to be held in 2026)<br>
-_election results_: National Council - percent of vote by party - NA; seats by party - NA; composition - men 33, women 7, percentage women 17.5%<br><br>National Assembly - percent of vote by party - GS 34.5%, SDS 23.5%, NSi 6.9%, SD 6.7%, Levica 4.4%, other 24%; seats by party - GS 41, SDS 27, NSi 8, SD 7, Levica 5; composition - men 56, women 34, percentage women 37.8%; total Parliament percentage women 31.5%<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: National Assembly (Drzavni Zbor)<br>
+_number of seats_: 90 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 4/24/2022<br>
+_parties elected and seats per party_: Freedom Movement (SVOBODA) (41); Slovenian Democratic Party (SDS) (27); New Slovenia - Christian Democrats (NSi) (8); Social Democrats (SD) (7); Left (LEVICA) (5); Other (2)<br>
+_percentage of women in chamber_: 37.8%<br>
+_expected date of next election_: April 2026<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: National Council (Drzavni Svet)<br>
+_number of seats_: 40 (all indirectly elected)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 11/23/2022 to 11/24/2022<br>
+_percentage of women in chamber_: 17.5%<br>
+_expected date of next election_: November 2027<br>
+<strong>note:</strong> the National Council is primarily an advisory body with limited legislative powers<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the court president and 37 judges organized into civil, criminal, commercial, labor and social security, administrative, and registry departments); Constitutional Court (consists of the court president, vice president, and 7 judges)<br>
@@ -358,7 +377,7 @@ _email address and website_: <br>sloembassy.washington@gov.si<br><br>http://www.
 _consulate(s) general_: Cleveland (OH)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Jamie L. HARPOOTLIAN&nbsp; (since 17 February 2022)<br>
+_chief of mission_: Ambassador Melania ARREAGA (since 31 July 2024)<br>
 _embassy_: Presernova 31, 1000 Ljubljana<br>
 _mailing address_: 7140 Ljubljana Place, Washington, DC 20521-7140<br>
 _telephone_: [386] (1) 200-5500<br>
@@ -386,25 +405,25 @@ _selected World Heritage Site locales_: &Scaron;kocjan Caves (n); Ancient and Pr
 high-income, EU and eurozone member economy; high per-capita income and low inequality; key exports in automotive and pharmaceuticals; tight labor market with low unemployment; growth supported by EU funds and reconstruction from 2023 floods; pressures over public sector wage demands<br>
 
 **Real GDP (purchasing power parity)**<br>
-$102.036 billion (2023 est.)<br>
-$100.442 billion (2022 est.)<br>
-$98.03 billion (2021 est.)<br>
+$102.299 billion (2023 est.)<br>
+$100.183 billion (2022 est.)<br>
+$97.55 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.59% (2023 est.)<br>
-2.46% (2022 est.)<br>
+2.11% (2023 est.)<br>
+2.7% (2022 est.)<br>
 8.23% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$48,100 (2023 est.)<br>
-$47,600 (2022 est.)<br>
-$46,500 (2021 est.)<br>
+$48,200 (2023 est.)<br>
+$47,400 (2022 est.)<br>
+$46,300 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$68.217 billion (2023 est.)<br>
+$69.148 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -420,18 +439,18 @@ _Standard & Poors rating_: AA- (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.9% (2023 est.)<br>
-_industry_: 29.1% (2023 est.)<br>
-_services_: 57.8% (2023 est.)<br>
+_agriculture_: 1.5% (2023 est.)<br>
+_industry_: 29.7% (2023 est.)<br>
+_services_: 57.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 53% (2023 est.)<br>
-_government consumption_: 19.5% (2023 est.)<br>
-_investment in fixed capital_: 22.5% (2023 est.)<br>
-_investment in inventories_: -1.7% (2023 est.)<br>
-_exports of goods and services_: 84% (2023 est.)<br>
-_imports of goods and services_: -77.3% (2023 est.)<br>
+_household consumption_: 52.3% (2023 est.)<br>
+_government consumption_: 19.2% (2023 est.)<br>
+_investment in fixed capital_: 21.3% (2023 est.)<br>
+_investment in inventories_: 0.9% (2023 est.)<br>
+_exports of goods and services_: 83.3% (2023 est.)<br>
+_imports of goods and services_: -76.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -442,11 +461,11 @@ milk, maize, wheat, barley, grapes, chicken, potatoes, apples, beef, pork (2022)
 ferrous metallurgy and aluminum products, lead and zinc smelting; electronics (including military electronics), trucks, automobiles, electric power equipment, wood products, textiles, chemicals, machine tools<br>
 
 **Industrial production growth rate**<br>
-3.8% (2023 est.)<br>
+5.58% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.055 million (2023 est.)<br>
+1.056 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -475,11 +494,11 @@ _on alcohol and tobacco_: 4.5% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.2% (2021 est.)<br>
-_highest 10%_: 20.7% (2021 est.)<br>
+_highest 10%_: 20.6% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.3% of GDP (2023 est.)<br>
+1.34% of GDP (2023 est.)<br>
 1.3% of GDP (2022 est.)<br>
 1.34% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -494,17 +513,17 @@ _expenditures_: $24.369 billion (2022 est.)<br>
 <strong>note:</strong> defined by the EU's Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities: currency and deposits, securities other than shares excluding financial derivatives, and loans; general government sector comprises the central, state, local government, and social security funds<br>
 
 **Taxes and other revenues**<br>
-18.14% (of GDP) (2022 est.)<br>
+18.18% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$3.057 billion (2023 est.)<br>
+$3.093 billion (2023 est.)<br>
 -$617.374 million (2022 est.)<br>
 $2.073 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$57.489 billion (2023 est.)<br>
+$57.66 billion (2023 est.)<br>
 $56.51 billion (2022 est.)<br>
 $51.662 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -518,7 +537,7 @@ packaged medicine, cars, refined petroleum, electricity, vehicle parts/accessori
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$52.826 billion (2023 est.)<br>
+$53.309 billion (2023 est.)<br>
 $55.158 billion (2022 est.)<br>
 $47.997 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>

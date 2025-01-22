@@ -349,9 +349,28 @@ _cabinet_: Cabinet appointed by the monarch in consultation with the prime minis
 _elections/appointments_: prime minister appointed by the monarch<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Assembly or Majlis al-'Umma consists of:<br>Senate or the House of Notables or Majlis al-Ayan (65 seats; members appointed by the monarch to serve 4-year terms)<br><br>Chamber of Deputies or Majlis al-Nuwaab (138 seats; 97 members directly elected in multi-seat constituencies by open-list proportional representation vote; of these, 12 seats reserved for Christian, Circassian, and Chechen minorities, and 18 reserved for women; the remaining 41 members directly elected from a single national constituency by closed party-list proportional representation vote; of these, 2 seats reserved for Christians and 1 each for members of the Chechen and Circassian minorities; party candidate lists must include at least 1 woman among the first 3 candidates and 1 among the next 3 candidates; all members serve 4-year terms)<br>
-_elections_: Senate - last appointments on 27 Sep 2020 (next appointments by November 2024)<br>Chamber of Deputies - last held on 10 September 2024 (next to be held in 2028)<br>
-_election results_: Senate - composition - men 55, women 10, percent of women 15.4%<br><em><br></em>House of Representatives - percentage by party - NA; seats by party - Islamic Action Front 31, Mithaq 21, Irada 19, and Taqadum 8, other (includes seats reserved for women, minorities)<br>
+_legislature name_: National Assembly (Majlis Al-Umma)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives (Majlis Al-Nuwaab)<br>
+_number of seats_: 138 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 9/10/2024<br>
+_percentage of women in chamber_: 19.6%<br>
+_expected date of next election_: September 2028<br>
+<strong>note:</strong> the total number of Chamber of Deputies' seats increased to 138 from 130 for the September 2024 election<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Majlis Al-Aayan)<br>
+_number of seats_: 69 (all appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 10/24/2024<br>
+_percentage of women in chamber_: 14.5%<br>
+_expected date of next election_: October 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation or Supreme Court (consists of 15 members, including the chief justice); Constitutional Court (consists of&nbsp;9 members)<br>
@@ -400,25 +419,25 @@ _selected World Heritage Site locales_: <p>Petra (c); Quseir Amra (c); Um er-Ras
 <p>upper-middle-income Middle Eastern economy; high debt and unemployment, especially for youth and women; global events triggering trade slump and decreased revenue from tourism; growing manufacturing and agricultural sectors; key US foreign assistance recipient; natural-resource-poor and import-reliant </p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$106.806 billion (2023 est.)<br>
-$104.084 billion (2022 est.)<br>
+$107.101 billion (2023 est.)<br>
+$104.307 billion (2022 est.)<br>
 $101.617 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.62% (2023 est.)<br>
-2.43% (2022 est.)<br>
+2.68% (2023 est.)<br>
+2.65% (2022 est.)<br>
 3.66% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $9,400 (2023 est.)<br>
-$9,200 (2022 est.)<br>
-$9,100 (2021 est.)<br>
+$9,300 (2022 est.)<br>
+$9,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$50.814 billion (2023 est.)<br>
+$50.967 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -435,8 +454,8 @@ _Standard & Poors rating_: B+ (2017)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 4.8% (2023 est.)<br>
-_industry_: 24.1% (2023 est.)<br>
-_services_: 60.6% (2023 est.)<br>
+_industry_: 24.8% (2023 est.)<br>
+_services_: 60.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -444,8 +463,8 @@ _household consumption_: 78.9% (2021 est.)<br>
 _government consumption_: 15.8% (2021 est.)<br>
 _investment in fixed capital_: 22.2% (2021 est.)<br>
 _investment in inventories_: 3% (2021 est.)<br>
-_exports of goods and services_: 30.3% (2021 est.)<br>
-_imports of goods and services_: -50.2% (2021 est.)<br>
+_exports of goods and services_: 43.5% (2023 est.)<br>
+_imports of goods and services_: -56.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -456,11 +475,11 @@ tomatoes, milk, chicken, potatoes, cucumbers/gherkins, olives, watermelons, peac
 tourism, information technology, clothing, fertilizer, potash, phosphate mining, pharmaceuticals, petroleum refining, cement, inorganic chemicals, light manufacturing<br>
 
 **Industrial production growth rate**<br>
-3.28% (2023 est.)<br>
+3.54% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.063 million (2023 est.)<br>
+3.103 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -484,8 +503,8 @@ _on food_: 26.1% of household expenditures (2022 est.)<br>
 _on alcohol and tobacco_: 4.5% of household expenditures (2022 est.)<br>
 
 **Remittances**<br>
-9.72% of GDP (2023 est.)<br>
-10.1% of GDP (2022 est.)<br>
+8.79% of GDP (2023 est.)<br>
+10.07% of GDP (2022 est.)<br>
 10.96% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -495,23 +514,23 @@ _expenditures_: $14.464 billion (2018 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-101.14% of GDP (2022 est.)<br>
+100.91% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-17.51% (of GDP) (2022 est.)<br>
+17.47% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$4.159 billion (2022 est.)<br>
+-$1.91 billion (2023 est.)<br>
+-$3.815 billion (2022 est.)<br>
 -$3.718 billion (2021 est.)<br>
--$2.505 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$20.335 billion (2022 est.)<br>
+$22.186 billion (2023 est.)<br>
+$20.743 billion (2022 est.)<br>
 $13.87 billion (2021 est.)<br>
-$10.444 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -523,9 +542,9 @@ fertilizers, garments, phosphates, jewelry, phosphoric acid (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$29.955 billion (2022 est.)<br>
+$28.922 billion (2023 est.)<br>
+$30.019 billion (2022 est.)<br>
 $23.321 billion (2021 est.)<br>
-$18.424 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -543,7 +562,7 @@ $16.572 billion (2015 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$16.293 billion (2022 est.)<br>
+$21.766 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

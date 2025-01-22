@@ -340,9 +340,16 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2023: </em>Jakov MILATOVIC elected president in second round; percent of vote in first round - Milo DUKANOVIC (DPS) 35.4%, Jakov MILATOVIC (Europe Now!) 28.9%, Andrija MANDIC (DF) 19.3%, Aleksa BECIC (DCG) 11.1%, other 5.3%; percent of vote in second round - Jakov MILATOVIC 58.9%, Milo DUKANOVIC 41.1%<em><br><br>2018:</em> Milo DJUKANOVIC elected president in first round; percent of vote - Milo DJUKANOVIC (DPS) 53.9%, Mladen BOJANIC (independent) 33.4%, Draginja VUKSANOVIC (SDP) 8.2%, Marko MILACIC (PRAVA) 2.8%, other 1.7%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Assembly or Skupstina (81 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 11 June 2023 (next to be held in June 2027)<br>
-_election results_: percent of vote by party/coalition - Europe Now! 25.5%, Together! 23.2%, For the Future of Montenegro 14.7%, Aleksa and Dritan - Count Bravely 12.5%, BP 7.1%, SNP-DEMOS 3.1%, Albanian Forum 1.9%, HGI 0.7%; seats by party/coalition Europe Now! 24, Together! 21, For the Future of Montenegro 13, Aleksa and Dritan - Count Bravely 11, BP 6, SNP-DEMOS 2, Albanian Forum 2, Albanian Alliance 1, HGI 1; composition - men 59, women 22, percentage women 27.2%<br>
+_legislature name_: Parliament (Skupstina)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 81 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 6/11/2023<br>
+_parties elected and seats per party_: Europe now! (Evropa sad) (24); Together! For the future that belongs to you (DPS – SD – DUA – LP - UDSh) (21); For the future of Montenegro (New Serb Democracy; Democratic People’s Party of Montenegro, Labour Party) (13); Bravery counts! (HRABRO se broji!) (11); It’s clear! (Jasno je!) – Bosniak Party (6); Other (6)<br>
+_percentage of women in chamber_: 27.2%<br>
+_expected date of next election_: June 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Vrhovni Sud (consists of the court president, deputy president, and 15 judges); Constitutional Court or Ustavni Sud (consists of the court president and 7 judges)<br>
@@ -393,25 +400,25 @@ _selected World Heritage Site locales_: Natural and Culturo-Historical Region of
 upper middle-income, small Balkan economy; uses euro as de facto currency; strong growth driven by tourism and consumption; new impetus for EU accession under Europe Now government; influx of affluent migrants from Russia and Ukraine; progress in fiscal position subject to risks from pension costs, debt service, and informal sector<br>
 
 **Real GDP (purchasing power parity)**<br>
-$17.115 billion (2023 est.)<br>
+$17.173 billion (2023 est.)<br>
 $16.149 billion (2022 est.)<br>
 $15.177 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.98% (2023 est.)<br>
+6.34% (2023 est.)<br>
 6.41% (2022 est.)<br>
 13.04% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$27,800 (2023 est.)<br>
+$27,900 (2023 est.)<br>
 $26,200 (2022 est.)<br>
 $24,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$7.405 billion (2023 est.)<br>
+$7.531 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -426,18 +433,18 @@ _Standard & Poors rating_: B+ (2014)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 5.6% (2023 est.)<br>
-_industry_: 11.9% (2023 est.)<br>
-_services_: 62.4% (2023 est.)<br>
+_agriculture_: 5.5% (2023 est.)<br>
+_industry_: 12.5% (2023 est.)<br>
+_services_: 62.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 73.6% (2023 est.)<br>
-_government consumption_: 18.1% (2023 est.)<br>
-_investment in fixed capital_: 19.3% (2023 est.)<br>
-_investment in inventories_: 7.7% (2023 est.)<br>
-_exports of goods and services_: 50.7% (2023 est.)<br>
-_imports of goods and services_: -69.3% (2023 est.)<br>
+_household consumption_: 73.1% (2023 est.)<br>
+_government consumption_: 17.9% (2023 est.)<br>
+_investment in fixed capital_: 19.6% (2023 est.)<br>
+_investment in inventories_: 8% (2023 est.)<br>
+_exports of goods and services_: 50% (2023 est.)<br>
+_imports of goods and services_: -68.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -448,11 +455,11 @@ milk, potatoes, grapes, watermelons, sheep milk, cabbages, oranges, eggs, goat m
 steelmaking, aluminum, agricultural processing, consumer goods, tourism<br>
 
 **Industrial production growth rate**<br>
-3.34% (2023 est.)<br>
+2.8% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-286,000 (2023 est.)<br>
+284,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -468,7 +475,7 @@ _female_: 26.3% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-21.2% (2020 est.)<br>
+20.3% (2021 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -485,7 +492,7 @@ _highest 10%_: 24.7% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-10.87% of GDP (2023 est.)<br>
+10.69% of GDP (2023 est.)<br>
 13.33% of GDP (2022 est.)<br>
 13.52% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -503,13 +510,13 @@ _expenditures_: $1.491 billion (2015 est.)<br>
 37.2% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
--$841.765 million (2023 est.)<br>
+-$851.47 million (2023 est.)<br>
 -$817.858 million (2022 est.)<br>
 -$541.201 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$3.775 billion (2023 est.)<br>
+$3.767 billion (2023 est.)<br>
 $3.178 billion (2022 est.)<br>
 $2.502 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -523,7 +530,7 @@ copper ore, electricity, aluminum, aluminum ore, packaged medicine (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$5.163 billion (2023 est.)<br>
+$5.166 billion (2023 est.)<br>
 $4.614 billion (2022 est.)<br>
 $3.637 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -543,7 +550,7 @@ $1.982 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$3.401 billion (2022 est.)<br>
+$3.785 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

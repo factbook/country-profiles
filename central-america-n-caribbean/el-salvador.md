@@ -332,9 +332,16 @@ _election results_: <em><br>2024:</em> Nayib Armando BUKELE Ortez reelected pres
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Assembly or Asamblea Legislativa (84 seats; members directly elected in multi-seat constituencies and a single nationwide constituency by open-list proportional representation vote to serve 3-year terms)<br>
-_elections_: last held on 28 February 2021 (next to be held in 2024)<br>
-_election results_: percent of vote by party - NI 66.5%, ARENA 12.2%, FMLN 6.9%, GANA 5.3%, PCN 4.1%, other 5%; seats by party - NI 56, ARENA 14, GANA 5, FMLN 4, other 5; composition - men 61, women 23, percent of women 27.4%<br>
+_legislature name_: Legislative Assembly (Asamblea legislativa)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 60 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 3 years<br>
+_most recent election date_: 2/4/2024<br>
+_parties elected and seats per party_: New Ideas (N) (54); Other (6)<br>
+_percentage of women in chamber_: 31.7%<br>
+_expected date of next election_: February 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Corte Suprema de Justicia (consists of 15 judges, including its president, and 15 substitute judges organized into Constitutional, Civil, Penal, and Administrative Conflict Chambers)<br>
@@ -397,9 +404,9 @@ $67.623 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$11,300 (2023 est.)<br>
-$11,000 (2022 est.)<br>
-$10,700 (2021 est.)<br>
+$11,400 (2023 est.)<br>
+$11,100 (2022 est.)<br>
+$10,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -445,7 +452,7 @@ food processing, beverages, petroleum, chemicals, fertilizer, textiles, furnitur
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.87 million (2023 est.)<br>
+2.839 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -478,9 +485,9 @@ _highest 10%_: 28.7% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-23.94% of GDP (2023 est.)<br>
-24.05% of GDP (2022 est.)<br>
-25.74% of GDP (2021 est.)<br>
+24.09% of GDP (2023 est.)<br>
+24.54% of GDP (2022 est.)<br>
+26.25% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -489,11 +496,11 @@ _expenditures_: $9.371 billion (2023 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-66.47% of GDP (2021 est.)<br>
+101.7% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-19.69% (of GDP) (2021 est.)<br>
+20.61% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -537,7 +544,7 @@ $4.446 billion (2019 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$11.276 billion (2022 est.)<br>
+$13.076 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -665,7 +672,7 @@ the Armed Force of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of 
 1.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 25,000 active military personnel (21,000 Army; 2,000 Navy; 2,000 Air Force) (2023)<br>
+approximately 25,000 active military personnel (21,000 Army; 2,000 Navy; 2,000 Air Force) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAES is lightly armed with an inventory of mostly older imported arms and equipment, largely from the US&nbsp; (2023)<br>

@@ -324,9 +324,17 @@ _elections/appointments_: president and vice president indirectly elected by the
 _election results_: <em><br>2019</em>: Prithvirajsing ROOPUN (MSM) elected president by the National Assembly - unanimous vote<br><br><em>2015</em>: Ameenah GURIB-FAKIM (independent) elected president by the National Assembly - unanimous vote; note - GURIB-FAKIM, who was Mauritius' first female president, resigned on 23 March 2018; acting presidents served from March 2018 until ROOPUN's appointment in 2019<br><br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Assemblee Nationale (70 seats maximum; 62 members directly elected multi-seat constituencies by simple majority vote and up to 8 seats allocated to non-elected party candidates by the Office of Electoral Commissioner; members serve a 5-year term)<br>
-_elections_: last held on&nbsp;7&nbsp;November 2019&nbsp;(next to be held by late&nbsp;2024)<br>
-_election results_: percent of vote by party - Mauritian Alliance 2019 (MSM, ML, MAG, and PM) 37.7%, National Alliance (PTR, PMSD, and MJCB) 32.8%, MMM 20.6%, OPR 1%, other 7.9%; seats by party - MSM 38, PTR 14, MMM 8, OPR 2; composition - men 56, women 14, percentage women 20% (2019)<br>
+_legislature name_: National Assembly - Assemblée nationale<br>
+_legislative structure_: unicameral<br>
+_chamber name_: National Assembly<br>
+_number of seats_: 67 (62 directly elected; 4 appointed)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 11/10/2024<br>
+_parties elected and seats per party_: Alliance Du Changement (Alliance for Change, AdC) (60); Other (2)<br>
+_percentage of women in chamber_: 19.4%<br>
+_expected date of next election_: October 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Mauritius (consists of the chief justice, a senior puisne judge, and 24 puisne judges); note - the Judicial Committee of the Privy Council (in London) serves as the final court of appeal<br>
@@ -638,7 +646,7 @@ no regular military forces; the Mauritius Police Force (MPF) under the Ministry 
 <strong>note: </strong>the MPF is responsible for law enforcement and maintenance of order within the country; a police commissioner heads the force and has authority over all police and other security forces, including the Coast Guard and Special Mobile Forces; the Special Mobile Forces share responsibility with police for internal security<br>
 
 **Military equipment inventories and acquisitions**<br>
-the MPF's inventory is comprised of mostly secondhand equipment from Western European countries and India (2023)<br>
+the MPF's inventory is comprised of mostly secondhand equipment from Western European countries and India (2024)<br>
 
 **Military - note**<br>
 the MPF's primary security partner is India, which provides training and other support to the National Coast Guard; Indian naval vessels often patrol the country's waters; the MPF has also received assistance and training from France, the UK, and the US; the MPF’s chief security concerns are piracy and narcotics trafficking<br><br>the Special Mobile Force was created in 1960 following the withdrawal of the British garrison (2024)<br>

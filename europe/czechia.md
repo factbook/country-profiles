@@ -342,9 +342,30 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2023: </em>Petr PAVEL elected in the second round; percent of vote in the first round - Petr PAVEL (independent) 35.4%, Andrej BABIS (ANO) 35<em>%</em>, Danuse NERUDOVA (Mayors and Independents) 13.9%, Pavel FISCHER (independent) 6.8%; percent of vote in the second round - Petr PAVEL 58.3%, Andrej BABIS 41.6%<em><br><br>2018:</em> Milos ZEMAN reelected president in the second round; percent of vote - Milos ZEMAN (SPO) 51.4%, Jiri DRAHOS (independent) 48.6%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Parlament consists of:<br>Senate or Senat (81 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years)<br><br>Chamber of Deputies or Poslanecka Snemovna (200 seats; members directly elected in 14 multi-seat constituencies by proportional representation vote with a 5% threshold required to fill a seat; members serve 4-year terms)<br>
-_elections_: Senate - last held on 20 to 21 September 2024 with a runoff from 27 to 28 September 2024 (next to be held in September 2026)<br>Chamber of Deputies - last held on 8 to 9 October 2021 (next to be held by October 2025)<br>
-_election results_: Senate - percent of vote - NA; - seats by party/coalition - NA <br><br>Chamber of Deputies - percent of vote by party/coalition – SPOLU 27.8%, ANO 27.1%, Pirates and STAN 15.6%, SPD 9.6%, other 19.9%; seats by party/coalition - ANO 72, SPOLU 71, Pirates and STAN 37, SPD 20; composition - men 148, women 52, percent of women 26%; note - total Parliament percent of women 23.8%<br>
+_legislature name_: Parliament (Parlament)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: Chamber of Deputies (Poslanecka Snemovna)<br>
+_number of seats_: 200 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 10/8/2021 to 10/9/2021<br>
+_parties elected and seats per party_: ANO (72); SPOLU (71); Pirate Party (Pirati) - Mayors and independents (STAN) (37); Freedom and Direct Democracy (SPD) (20)<br>
+_percentage of women in chamber_: 26%<br>
+_expected date of next election_: October 2025<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Senat)<br>
+_number of seats_: 81 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: partial renewal<br>
+_term in office_: 6 years<br>
+_most recent election date_: 9/20/2024 to 9/28/2024<br>
+_parties elected and seats per party_: Civic Democratic Party (ODS) (8); Christian Democratic Union - Czechoslovak People's Party (KDU - CSL) (7); TOP 09 (3); ANO 2011 (3); Independents (2); Other (4)<br>
+_percentage of women in chamber_: 21.3%<br>
+_expected date of next election_: September 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (organized into Civil Law and Commercial Division, and Criminal Division each with a court chief justice, vice justice, and several judges); Constitutional Court (consists of 15 justices); Supreme Administrative Court (consists of 36 judges, including the court president and vice president, and organized into 6-, 7-, and 9-member chambers)<br>
@@ -395,25 +416,25 @@ _selected World Heritage Site locales_: Historic Prague (c); Historic Telč (c);
 high-income, diversified EU economy; manufacturing-oriented exporter led by automotive industry; growth stalled by inflation and energy supply disruption; business-friendly regulatory frameworks; tight labor market with low unemployment; seeking reforms to support decarbonization and improve energy efficiency<br>
 
 **Real GDP (purchasing power parity)**<br>
-$519.007 billion (2023 est.)<br>
-$520.629 billion (2022 est.)<br>
-$508.67 billion (2021 est.)<br>
+$539.737 billion (2023 est.)<br>
+$540.198 billion (2022 est.)<br>
+$525.243 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--0.31% (2023 est.)<br>
-2.35% (2022 est.)<br>
+-0.09% (2023 est.)<br>
+2.85% (2022 est.)<br>
 3.55% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$47,700 (2023 est.)<br>
-$48,800 (2022 est.)<br>
-$48,400 (2021 est.)<br>
+$49,700 (2023 est.)<br>
+$50,600 (2022 est.)<br>
+$50,000 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$330.858 billion (2023 est.)<br>
+$343.208 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -429,18 +450,18 @@ _Standard & Poors rating_: AA- (2011)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.6% (2023 est.)<br>
-_industry_: 30.2% (2023 est.)<br>
-_services_: 59.8% (2023 est.)<br>
+_agriculture_: 1.7% (2023 est.)<br>
+_industry_: 30.4% (2023 est.)<br>
+_services_: 59.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 45.6% (2023 est.)<br>
-_government consumption_: 20.4% (2023 est.)<br>
-_investment in fixed capital_: 27% (2023 est.)<br>
-_investment in inventories_: 1.9% (2023 est.)<br>
-_exports of goods and services_: 72% (2023 est.)<br>
-_imports of goods and services_: -66.9% (2023 est.)<br>
+_household consumption_: 44% (2023 est.)<br>
+_government consumption_: 19.7% (2023 est.)<br>
+_investment in fixed capital_: 27.3% (2023 est.)<br>
+_investment in inventories_: 0.7% (2023 est.)<br>
+_exports of goods and services_: 69% (2023 est.)<br>
+_imports of goods and services_: -64% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -451,11 +472,11 @@ wheat, sugar beets, milk, barley, rapeseed, potatoes, maize, pork, triticale, oa
 motor vehicles, metallurgy, machinery and equipment, glass, armaments<br>
 
 **Industrial production growth rate**<br>
--0.44% (2023 est.)<br>
+-1.94% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.502 million (2023 est.)<br>
+5.505 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -488,9 +509,9 @@ _highest 10%_: 22.2% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.27% of GDP (2023 est.)<br>
-1.43% of GDP (2022 est.)<br>
-1.56% of GDP (2021 est.)<br>
+1.3% of GDP (2023 est.)<br>
+1.38% of GDP (2022 est.)<br>
+1.51% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -502,19 +523,19 @@ _expenditures_: $103.959 billion (2022 est.)<br>
 34.7% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-13.13% (of GDP) (2022 est.)<br>
+12.64% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$1.281 billion (2023 est.)<br>
--$17.366 billion (2022 est.)<br>
--$7.686 billion (2021 est.)<br>
+$1.035 billion (2023 est.)<br>
+-$13.644 billion (2022 est.)<br>
+-$5.954 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $236.688 billion (2023 est.)<br>
-$217.731 billion (2022 est.)<br>
-$205.626 billion (2021 est.)<br>
+$219.419 billion (2022 est.)<br>
+$205.163 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -527,8 +548,8 @@ cars, vehicle parts/accessories, broadcasting equipment, computers, plastic prod
 
 **Imports**<br>
 $219.393 billion (2023 est.)<br>
-$218.002 billion (2022 est.)<br>
-$197.515 billion (2021 est.)<br>
+$216.042 billion (2022 est.)<br>
+$194.402 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

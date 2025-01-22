@@ -330,9 +330,16 @@ _election results_: <em><br>2023: </em>Edgars RINKEVICS elected president in the
 <strong>note:</strong> on 15 September 2023, Parliament voted 53-39 to approve Prime Minister Evika SILINA<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament or Saeima (100 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 1 October 2022 (next to be held no later than 3 October 2026)<br>
-_election results_: percent of vote by party - JV 19.2%, ZZS 12.6%, AS 11.1%, NA 9.4%, S! 6.9%, LPV 6.3%, PRO 6.2%; seats by party - JV 26, ZZS 16, AS 15, NA 13, S! 11, LPV 9, PRO 10; composition- men 68, women 32, percentage women 32%<br>
+_legislature name_: Parliament (Saeima)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 100 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 10/1/2022<br>
+_parties elected and seats per party_: New Unity (VIENOTIBA) (26); Union of Farmers and Greens (ZZS) (16); United List - Latvian Green Party, Latvian Regional Alliance, Liepāja Party (15); National Alliance of All for Latvia!" - "For Fatherland and Freedom / LNNK" (NA) (13); For Stability! (11); Progressives (10); Latvia First (9)<br>
+_percentage of women in chamber_: 32%<br>
+_expected date of next election_: October 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the Senate with 36 judges); Constitutional Court (consists of 7 judges)<br>
@@ -381,25 +388,25 @@ _selected World Heritage Site locales_: Historic Center of Riga; Struve Geodetic
 high-income EU and eurozone member; economic contraction triggered by export decline and energy shocks; recovery driven by easing inflation, wage growth, and investments supported by EU funds; challenges from skilled labor shortages, capital market access, large informal sector, and green and digital transitions&nbsp;<br>
 
 **Real GDP (purchasing power parity)**<br>
-$71.154 billion (2023 est.)<br>
-$71.355 billion (2022 est.)<br>
-$69.308 billion (2021 est.)<br>
+$69.479 billion (2023 est.)<br>
+$68.313 billion (2022 est.)<br>
+$67.097 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--0.28% (2023 est.)<br>
-2.95% (2022 est.)<br>
+1.71% (2023 est.)<br>
+1.81% (2022 est.)<br>
 6.73% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$37,800 (2023 est.)<br>
-$38,000 (2022 est.)<br>
-$36,800 (2021 est.)<br>
+$37,000 (2023 est.)<br>
+$36,300 (2022 est.)<br>
+$35,600 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$43.627 billion (2023 est.)<br>
+$42.248 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -415,18 +422,18 @@ _Standard & Poors rating_: A+ (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 4.2% (2023 est.)<br>
-_industry_: 20.9% (2023 est.)<br>
-_services_: 63.1% (2023 est.)<br>
+_agriculture_: 3.8% (2023 est.)<br>
+_industry_: 22.3% (2023 est.)<br>
+_services_: 61.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 61.1% (2023 est.)<br>
-_government consumption_: 19.7% (2023 est.)<br>
-_investment in fixed capital_: 24.1% (2023 est.)<br>
-_investment in inventories_: -1.1% (2023 est.)<br>
-_exports of goods and services_: 64.1% (2023 est.)<br>
-_imports of goods and services_: -67.9% (2023 est.)<br>
+_household consumption_: 63.1% (2023 est.)<br>
+_government consumption_: 20.4% (2023 est.)<br>
+_investment in fixed capital_: 24.9% (2023 est.)<br>
+_investment in inventories_: -0.9% (2023 est.)<br>
+_exports of goods and services_: 67% (2023 est.)<br>
+_imports of goods and services_: -70.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -437,11 +444,11 @@ wheat, milk, rapeseed, barley, oats, potatoes, rye, beans, peas, pork (2022)<br>
 processed foods, processed wood products, textiles, processed metals, pharmaceuticals, railroad cars, synthetic fibers, electronics<br>
 
 **Industrial production growth rate**<br>
-0.71% (2023 est.)<br>
+5.1% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-978,000 (2023 est.)<br>
+972,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -474,9 +481,9 @@ _highest 10%_: 26.2% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.82% of GDP (2023 est.)<br>
-3.2% of GDP (2022 est.)<br>
-3.34% of GDP (2021 est.)<br>
+2.92% of GDP (2023 est.)<br>
+3.4% of GDP (2022 est.)<br>
+3.45% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -489,19 +496,19 @@ _expenditures_: $13.672 billion (2022 est.)<br>
 <strong>note:</strong> data cover general government debt, and includes debt instruments issued (or owned) by government entities, including sub-sectors of central government, state government, local government, and social security funds<br>
 
 **Taxes and other revenues**<br>
-22.79% (of GDP) (2022 est.)<br>
+24.23% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.752 billion (2023 est.)<br>
--$1.937 billion (2022 est.)<br>
+-$1.663 billion (2023 est.)<br>
+-$2.082 billion (2022 est.)<br>
 -$1.579 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$27.947 billion (2023 est.)<br>
-$29.374 billion (2022 est.)<br>
-$25.43 billion (2021 est.)<br>
+$28.294 billion (2023 est.)<br>
+$29.364 billion (2022 est.)<br>
+$25.463 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -513,9 +520,9 @@ wood, wheat, natural gas, electricity, broadcasting equipment (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$29.626 billion (2023 est.)<br>
-$31.213 billion (2022 est.)<br>
-$26.681 billion (2021 est.)<br>
+$29.875 billion (2023 est.)<br>
+$31.206 billion (2022 est.)<br>
+$26.684 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

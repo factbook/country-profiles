@@ -321,13 +321,20 @@ _chief of state_: President Chandrikapersad "Chan" SANTOKHI (since 16 July 2020)
 _head of government_: President Chandrikapersad "Chan" SANTOKHI (since 16 July 2020)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _elections/appointments_: president and vice president indirectly elected by the National Assembly; president and vice president serve a 5-year term (no term limits); election last held on 13 July 2020 (next to be held in May 2025)<br>
-_election results_: <em><br>2020:</em> Chandrikapersad "Chan" SANTOKHI elected president unopposed; National Assembly vote - NA<br><br><em>2015:</em> Desire Delano BOUTERSE reelected president unopposed; National Assembly vote - NA<br>
+_election results_: <em>2020:</em> Chandrikapersad "Chan" SANTOKHI elected president unopposed; National Assembly vote - NA<br><br><em>2015:</em> Desire Delano BOUTERSE reelected president unopposed; National Assembly vote - NA<br>
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Nationale Assemblee (51 seats; members directly elected in 10 multi-seat constituencies by party-list proportional representation vote, using the D'Hondt method, to serve 5-year terms)<br>
-_elections_: last held on 25 May 2020 (next to be held in May 2025)<br>
-_election results_: percent of vote by party - VHP 41.1%, NDP 29.4%, ABOP 17.6%, NPS 7.8%, other 3.9%; seats by party - VHP 20, NDP 16, ABOP 9, NPS 3, BEP 2, PL 2; composition - men 35, women 16, percentage women 31.4%<br>
+_legislature name_: National Assembly (Nationale Assemblee)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 51 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 5/25/2020<br>
+_parties elected and seats per party_: Progressive Reform Party (VHP) (20); National Democratic Party (NDP) (16); General Liberation and Development Party (ABOP) (8); National Party of Suriname (NPS) (3); Other (4)<br>
+_percentage of women in chamber_: 31.4%<br>
+_expected date of next election_: May 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: High Court of Justice of Suriname (consists of the court president, vice president, and 4 judges); note - appeals beyond the High Court are referred to the Caribbean Court of Justice; human rights violations can be appealed to the Inter-American Commission on Human Rights with judgments issued by the Inter-American Court on Human Rights<br>
@@ -377,31 +384,31 @@ _selected World Heritage Site locales_: Central Suriname Nature Reserve (n); His
 upper middle-income South American economy; new floating currency regime; key aluminum goods, gold, and hydrocarbon exporter; new IMF plan for economic recovery and fiscal sustainability; controversial hardwood industry<br>
 
 **Real GDP (purchasing power parity)**<br>
-$11.824 billion (2023 est.)<br>
-$11.583 billion (2022 est.)<br>
-$11.308 billion (2021 est.)<br>
+$11.976 billion (2023 est.)<br>
+$11.68 billion (2022 est.)<br>
+$11.405 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.08% (2023 est.)<br>
-2.43% (2022 est.)<br>
+2.54% (2023 est.)<br>
+2.41% (2022 est.)<br>
 -2.44% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $19,000 (2023 est.)<br>
 $18,700 (2022 est.)<br>
-$18,400 (2021 est.)<br>
+$18,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.782 billion (2023 est.)<br>
+$3.455 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+51.59% (2023 est.)<br>
 52.45% (2022 est.)<br>
 59.12% (2021 est.)<br>
-34.89% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -411,9 +418,9 @@ _Standard & Poors rating_: SD (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 8.1% (2022 est.)<br>
-_industry_: 44.8% (2022 est.)<br>
-_services_: 44.7% (2022 est.)<br>
+_agriculture_: 7.5% (2023 est.)<br>
+_industry_: 39.9% (2023 est.)<br>
+_services_: 48.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -432,11 +439,11 @@ rice, sugarcane, oranges, chicken, plantains, vegetables, bananas, coconuts, cas
 gold mining, oil, lumber, food processing, fishing<br>
 
 **Industrial production growth rate**<br>
-3.05% (2022 est.)<br>
+2.07% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-250,000 (2023 est.)<br>
+253,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -459,9 +466,9 @@ _lowest 10%_: 2.2% (2022 est.)<br>
 _highest 10%_: 30.1% (2022 est.)<br>
 
 **Remittances**<br>
-3.88% of GDP (2023 est.)<br>
-4.09% of GDP (2022 est.)<br>
-4.79% of GDP (2021 est.)<br>
+4.25% of GDP (2023 est.)<br>
+3.91% of GDP (2022 est.)<br>
+4.75% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -475,13 +482,13 @@ _expenditures_: $1.648 billion (2019 est.)<br>
 16.4% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
-$146.749 million (2023 est.)<br>
+$148.493 million (2023 est.)<br>
 $76.321 million (2022 est.)<br>
 $176.058 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$2.534 billion (2023 est.)<br>
+$2.533 billion (2023 est.)<br>
 $2.6 billion (2022 est.)<br>
 $2.299 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -495,7 +502,7 @@ gold, refined petroleum, excavation machinery, wood, fish (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$2.218 billion (2023 est.)<br>
+$2.203 billion (2023 est.)<br>
 $2.342 billion (2022 est.)<br>
 $1.876 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -513,6 +520,9 @@ $1.346 billion (2023 est.)<br>
 $1.195 billion (2022 est.)<br>
 $992.257 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+
+**Debt - external**<br>
+$2.968 billion (2023 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Surinamese dollars (SRD) per US dollar -<br>

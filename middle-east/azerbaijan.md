@@ -340,9 +340,16 @@ _election results_: <em><br>2024: </em>Ilham ALIYEV reelected president; percent
 <strong>note:</strong> OSCE observers noted shortcomings in the election, including a restrictive political environment, limits on fundamental freedoms, a lack of genuine competition, and ballot box stuffing<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Milli Mejlis (125 seats, current 116; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: last held on 1 September 2024 (next to be held in 2029)<br>
-_election results_: percent of vote by party - NA; seats by party - YAP 68, CSP 3, Justice, Law, Deomcracy Party 2, Azerbaijan Democratic Enlightenment Party 1, Azerbaijan National Independence Party 1, Democratic Reforms Party 1, Great Azerbaijan Party 1, Great Order Party 1, Motherland Party 1, National Front Party 1, Republican Alternative Party1, independents 44<br>
+_legislature name_: National Assembly (Milli Majlis)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 125 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 9/1/2024<br>
+_parties elected and seats per party_: New Azerbaidjan Party (YAP) (68); Independents (44); Other (13)<br>
+_percentage of women in chamber_: 20.8%<br>
+_expected date of next election_: November 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chairman, vice chairman, and 23 judges in plenum sessions and organized into civil, economic affairs, criminal, and rights violations chambers); Constitutional Court (consists of 9 judges)<br>
@@ -605,7 +612,7 @@ _domestic_: 16 fixed-lines subscriptions per 100 persons; mobile-cellular subscr
 _international_: country code - 994; Azerbaijan’s largest mobile network operator (MNO)  launched trial 5G mobile services in Baku on 27 December 2022 (2023)<br>
 
 **Broadcast media**<br>
-3 state-run and 1 public TV channels; 4 domestic commercial TV stations and about 15 regional TV stations; cable TV services are available in Baku; 1 state-run and 1 public radio network operating; a small number of private commercial radio stations broadcasting; local FM relays of Baku commercial stations are available in many localities; note - all broadcast media is pro-government, and most private broadcast media outlets are owned by entities directly linked to the government<br>
+<p class="ssrcss-1q0x1qg-Paragraph e1jhz7w10">TV is the most popular medium and many homes are hooked up to satellite, all Azerbaijan-based channels promote the government line, state-owned AzTV runs three national channels and there are four national privately-owned stations, state-funded iTV is a notional public service broadcaster, Turkish, Russian and Western TVs are available on cable, opposition and exile TVs use satellite and online distribution, analogue terrestrial TV was phased out in 2016-17, radio outlets focus on entertainment, around a dozen stations are on FM in Baku and many of them are relayed elsewhere, newspapers distribution is largely limited to Baku</p> (2023)<br>
 
 **Internet country code**<br>
 .az<br>

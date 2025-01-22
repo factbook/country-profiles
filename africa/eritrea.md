@@ -321,9 +321,13 @@ _election results_: <em><br>1993:</em> ISAIAS Afwerki elected president by the t
 <strong>note:</strong> the president is both chief of state and head of government and is head of the State Council and National Assembly<br>
 
 **Legislative branch**<br>
-_description_: National Assembly (Hagerawi Baito) (seats - NA; members to be directly elected to serve 5-year terms)<br>
-_elections_: NA<br>
-_election results_: NA<br>
+_legislature name_: National Assembly (Hagerawi Baito)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 150 (all indirectly elected)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 2/1/1994<br>
+_percentage of women in chamber_: 22%<br>
 <strong>note:</strong> in 1997, after the new constitution was adopted, the government formed a Transitional National Assembly to serve as the country's legislative body until countrywide elections to form a National Assembly could be held; the constitution stipulates that once past the transition stage, all National Assembly members will be elected by secret ballot of all eligible voters; National Assembly elections scheduled for December 2001 were postponed indefinitely due to the war with Ethiopia; as of 2024, no sitting legislative body exists<br>
 
 **Judicial branch**<br>
@@ -422,7 +426,7 @@ food processing, beverages, clothing and textiles, light manufacturing, salt, ce
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.8 million (2023 est.)<br>
+1.666 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -482,7 +486,7 @@ $143.412 million (2017 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$471.009 million (2022 est.)<br>
+$513.131 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

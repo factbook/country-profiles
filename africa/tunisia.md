@@ -329,17 +329,34 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Kais SAIED (since 23 October 2019)<br>
-_head of government_: Prime Minister Kamel MADDOURI (since 7 August 2024); President Kais SAIED dismissed Prime Minister Ahmed HACHANI the same day he appointed Kamel MADDOURI<br>
+_head of government_: Prime Minister Kamel MADDOURI (since 8 August 2024); President Kais SAIED dismissed Prime Minister Ahmed HACHANI on 7 August 2024 and appointed Kamel MADDOURI as prime minister<br>
 _cabinet_: prime minister appointed by the president; cabinet members appointed by the president in consultation with the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 6 October 2024 (next to be held in 2029)<br>
 _election results_: <p><em>2024: </em>Kais SAIED reelected president in first round - Kais SAIED (independent) 90.7%, Ayachi ZAMMEL (Long Live Tunisia) 7.3%, Zouhair MAGHZAOUI (People's Movement) 2%<em><br><br>2019:</em> Kais SAIED elected president in second round; percent of vote in first round - Kais SAIED (independent) 18.4%, Nabil KAROUI (Heart of Tunisia) 15.6%, Abdelfattah MOUROU (Nahda Movement) 12.9%, Abdelkrim ZBIDI (independent) 10.7%, Youssef CHAHED (Long Live Tunisia) 7.4%, Safi SAID (independent) 7.1%, Lotfi MRAIHI (Republican People's Union) 6.6%, other 21.3%; percent of vote in second round - Kais SAIED 72.7%, Nabil KAROUI 27.3%<br><br> </p><br>
 <strong>note: </strong>the president can dismiss any member of government on his own initiative or in consultation with the prime minister<br>
 
 **Legislative branch**<br>
-_description_: bicameral legislature (enacted by the 2022 constitution) consists of:<br>newly added National Council of Regions and Districts (Le Conseil national des régions et des districts) (77 seats; members indirectly elected by regional and district councils; members of each Regional Council elect 3 members among themselves to the National Council; each District Council elects 1 member among themselves to the National Council; members serve 5-year term)<br>Assembly of the People's Representatives (161 seats; 151 members in single seat constituencies and 10 members from Tunisian diaspora directly elected by majoritarian two-round voting system; all members serve 5-year terms)<br>
-_elections_: National Council of Regions and Districts - last held on 18 April 2024 for 279 local councils, which indirectly elect the National Council (next to be held in 2029)<br>Assembly of Representatives of the People - last held on 17 December 2022 with a runoff on 29 January 2023 (next to be held in late 2027)<br>
-_election results_: National Council of Regions and Districts - percent of vote by party NA; seats by party NA<br>Assembly of Representatives of the People - percent of vote by party NA; seats by party NA<strong><br></strong><br>
+_legislative structure_: bicameral<br>
 <strong>note:</strong> in 2022, President SAIED issued a new electoral law that requires all legislative candidates to run as independents<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: Assembly of People's Representatives (Majlis Nawwab ash-Sha'ab)<br>
+_number of seats_: 161 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 12/17/2022 to 1/29/2023<br>
+_percentage of women in chamber_: 15.7%<br>
+_expected date of next election_: December 2027<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: National Council of Regions and Districts<br>
+_number of seats_: 77 (all indirectly elected)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 4/19/2024<br>
+_percentage of women in chamber_: 13%<br>
+_expected date of next election_: April 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation (consists of the first president, chamber presidents, and magistrates and organized into 27 civil and 11 criminal chambers)<br>
@@ -391,21 +408,21 @@ _selected World Heritage Site locales_: Amphitheatre of El Jem (c); Archaeologic
 lower middle-income North African economy; drafting reforms for foreign lenders; high unemployment, especially for youth and women; hit hard by COVID-19; high public sector wages; high public debt; protectionist austerity measures; key EU trade partner<br>
 
 **Real GDP (purchasing power parity)**<br>
-$153.637 billion (2023 est.)<br>
-$152.988 billion (2022 est.)<br>
+$153.152 billion (2023 est.)<br>
+$153.092 billion (2022 est.)<br>
 $149.106 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.42% (2023 est.)<br>
-2.6% (2022 est.)<br>
+0.04% (2023 est.)<br>
+2.67% (2022 est.)<br>
 4.61% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$12,300 (2023 est.)<br>
-$12,400 (2022 est.)<br>
-$12,200 (2021 est.)<br>
+$12,600 (2023 est.)<br>
+$12,600 (2022 est.)<br>
+$12,400 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -431,12 +448,12 @@ _services_: 62.1% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 78% (2023 est.)<br>
-_government consumption_: 20.6% (2023 est.)<br>
-_investment in fixed capital_: 16.9% (2023 est.)<br>
-_investment in inventories_: -3.4% (2023 est.)<br>
-_exports of goods and services_: 51.1% (2023 est.)<br>
-_imports of goods and services_: -58.1% (2023 est.)<br>
+_household consumption_: 73.1% (2023 est.)<br>
+_government consumption_: 19.7% (2023 est.)<br>
+_investment in fixed capital_: 15.9% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
+_exports of goods and services_: 51.9% (2023 est.)<br>
+_imports of goods and services_: -55.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -447,11 +464,11 @@ milk, olives, tomatoes, wheat, barley, watermelons, chilies/peppers, potatoes, d
 petroleum, mining (particularly phosphate, iron ore), tourism, textiles, footwear, agribusiness, beverages<br>
 
 **Industrial production growth rate**<br>
--1.5% (2023 est.)<br>
+-0.97% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.445 million (2023 est.)<br>
+4.367 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -484,7 +501,7 @@ _highest 10%_: 27% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-5.56% of GDP (2023 est.)<br>
+5.92% of GDP (2023 est.)<br>
 6.3% of GDP (2022 est.)<br>
 6.34% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -500,15 +517,15 @@ _expenditures_: $12.375 billion (2019 est.)<br>
 24.7% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
--$4.018 billion (2022 est.)<br>
--$2.79 billion (2021 est.)<br>
--$2.524 billion (2020 est.)<br>
+-$1.111 billion (2023 est.)<br>
+-$3.969 billion (2022 est.)<br>
+-$2.77 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$17.258 billion (2022 est.)<br>
+$19.732 billion (2023 est.)<br>
+$17.254 billion (2022 est.)<br>
 $14.054 billion (2021 est.)<br>
-$11.237 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -520,9 +537,9 @@ garments, insulated wire, refined petroleum, crude petroleum, pure olive oil (20
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$22.5 billion (2022 est.)<br>
-$18.198 billion (2021 est.)<br>
-$14.574 billion (2020 est.)<br>
+$21.953 billion (2023 est.)<br>
+$22.453 billion (2022 est.)<br>
+$18.178 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -540,7 +557,7 @@ $8.846 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$18.169 billion (2022 est.)<br>
+$22.336 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

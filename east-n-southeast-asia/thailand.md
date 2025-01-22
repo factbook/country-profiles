@@ -351,13 +351,33 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: King WACHIRALONGKON; also spelled Vajiralongkorn (since 1 December 2016)<br>
 _head of government_: Prime Minister PHAETHONGTHAN Chinnawat; also spelled PAETONGTARN Shinawatra (since 18 August 2024)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, appointed by the king; a Privy Council advises the king<br>
-_elections/appointments_: the monarchy is hereditary; prime minister candidate approved by the House of Representatives and Senate and appointed by the king; starting in 2024, approval of prime minister needed only by the House of Representatives<br>
+_elections/appointments_: the monarchy is hereditary; prime minister candidate approved by the Senate and House of Representatives and appointed by the king; starting in 2024, approval of prime minister needed only by the House of Representatives<br>
 <strong>note: </strong>following its May 2023 election win, the MJP formed an eight-party coalition and put forward its leader PITA Limjaroenrat for prime minister; however, the Senate blocked PITA from becoming prime minister in the first National Assembly vote in July 2023, and the Assembly subsequently voted that he could not submit his name again; the Constitutional Court also suspended PITA after accepting cases accusing him of violating election law; in August 2023, MJP handed over the lead in forming a new government to the second largest party in the coalition, PTP, which then formed a new coalition without MJP; PTP put forward SRETTHA Thavisin for prime minister, and he was approved by the National Assembly 482 votes out of a possible 747<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Assembly or Ratthasapha consists of:<br>Senate or Wuthisapha (200 seats; members indirectly elected in a three-step process (district, provincial, and national) from 20 eligible groups of professionals and then certified by Election Commission for a single 5-year term)<br><br>House of Representatives or Saphaphuthan Ratsadon (500 seats; 400 members directly elected in single-seat constituencies by simple majority vote and 100 members elected in a single nationwide constituency by party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: Senate - last election dates 9, 16, and 26 June 2024; certified on 10 July 2024 (next to be held in June 2029)<br>House of Representatives - last held on 14 May 2023 (next to be held in May 2027)<br>
-_election results_: Senate - percent of vote by party - independents; seats by party - NA; composition - NA<br><br>House of Representatives - percent of vote by party - MFP 36.2%, PTP 27.7%, UTN 11.9%, BJT/PJT 2.9%, DP 2.3%, PPRP 1.4%, PCC 1.5%, other 16%; seats by party - MFP 152, PTP 141, BJT/PJT 71, PPRP 41, UTN 36, DP 24, PCC 9, CTP 10, Thai Sang Thai 6, other 11; composition - 403 men, 97 women, percentage women 19.4%<br>
+_legislature name_: National Assembly (Rathhasapha)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives (Saphaphuthan Ratsadon)<br>
+_number of seats_: 500 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 5/14/2023<br>
+_parties elected and seats per party_: Move Forward (151); Pheu Thai (141); Bhumjaithai (71); Palang Pracharath (40); United Thai Nation (36); Democrat Party (25); Other (36)<br>
+_percentage of women in chamber_: 19.4%<br>
+_expected date of next election_: May 2028<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Wuthisapha)<br>
+_number of seats_: 200 (all indirectly elected)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 6/9/2024 to 6/26/2024<br>
+_percentage of women in chamber_: 22.5%<br>
+_expected date of next election_: June 2029<br>
+<strong>note:</strong> Senate members are indirectly elected from 20 eligible groups of professions, including agriculture, artists or athletes, business owners, education, employees or workers, independent professionals, industrialists, law and justice, mass communication, public health, science and technology, tourism-related professions, women, and elderly, disabled, or ethnic groups<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of the court president, 6 vice presidents, 60-70 judges, and organized into 10 divisions); Constitutional Court (consists of the court president and 8 judges); Supreme Administrative Court (number of judges determined by Judicial Commission of the Administrative Courts)<br>
@@ -415,19 +435,19 @@ $1.452 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.88% (2023 est.)<br>
+1.89% (2023 est.)<br>
 2.46% (2022 est.)<br>
 1.57% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $21,100 (2023 est.)<br>
-$20,800 (2022 est.)<br>
-$20,300 (2021 est.)<br>
+$20,700 (2022 est.)<br>
+$20,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$514.945 billion (2023 est.)<br>
+$514.969 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -469,7 +489,7 @@ tourism, textiles and garments, agricultural processing, beverages, tobacco, cem
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-40.814 million (2023 est.)<br>
+40.823 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -502,7 +522,7 @@ _highest 10%_: 27.1% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.9% of GDP (2023 est.)<br>
+1.88% of GDP (2023 est.)<br>
 1.8% of GDP (2022 est.)<br>
 1.79% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -513,22 +533,22 @@ _expenditures_: $106.576 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-60.35% of GDP (2022 est.)<br>
+61.24% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-14.38% (of GDP) (2022 est.)<br>
+15.45% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$7.002 billion (2023 est.)<br>
--$15.742 billion (2022 est.)<br>
--$10.268 billion (2021 est.)<br>
+$7.412 billion (2023 est.)<br>
+-$17.162 billion (2022 est.)<br>
+-$10.722 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$336.871 billion (2023 est.)<br>
-$324.063 billion (2022 est.)<br>
+$337.45 billion (2023 est.)<br>
+$324.111 billion (2022 est.)<br>
 $295.972 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
@@ -541,9 +561,9 @@ machine parts, integrated circuits, cars, trucks, vehicle parts/accessories (202
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$328.009 billion (2023 est.)<br>
-$334.478 billion (2022 est.)<br>
-$296.115 billion (2021 est.)<br>
+$327.008 billion (2023 est.)<br>
+$334.44 billion (2022 est.)<br>
+$296.569 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -561,7 +581,7 @@ $246.025 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$35.388 billion (2022 est.)<br>
+$37.368 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

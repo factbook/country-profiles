@@ -337,9 +337,30 @@ _elections/appointments_: president indirectly elected by an electoral college c
 _election results_: <br><em>2022:</em> Sergio MATTARELLA (independent) reelected president; electoral college vote count in eighth round - 759 out of 1,009 (505 vote threshold)<br><br><em>2015: </em>Sergio MATTARELLA (independent) elected president; electoral college vote count in fourth round - 665 out of 995 (505 vote threshold) <p> </p><br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Parlamento consists of:<br>Senate or Senato della Repubblica (205 seats; 122 members in multi-seat constituencies directly elected by proportional representation vote, 74 members in single-seat constituencies directly elected by plurality vote, 4 members in multi-seat constituencies abroad directly elected by proportional representation vote, and 5 members appointed by the president of Italy; all members serve 5-year terms)<br>Chamber of Deputies or Camera dei Deputati (400 seats; 245 members directly elected in multi-seat constituencies by proportional representation vote; 147 members directly elected in single-seat constituencies by plurality vote and 8 members in multi-seat constituencies abroad directly elected by proportional representation vote; members serve 5-year terms)<br>
-_elections_: Senate - last held on 25 September 2022 (next to be held no later than December 2027)<br>Chamber of Deputies - last held on 25 September 2022; note - snap elections were called when Prime Minister DRAGHI resigned and the parliament was dissolved on 21 July 2022 (next to be held on 30 September 2027)<br>
-_election results_: Senate - percent of vote by party/coalition - NA; seats by party/coalition - center-right coalition 113 (FdI 65, Lega 30, FI 18), center-left coalition 43 (PD 40, AVS 3), M5S 28, Action-Italia Viva 9, SVP 2, MAIE 1, ScN 1; composition - men 131, women 74, percentage women 36.1%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - center-right coalition 230 (FdI 119, Lega 66, FI 45), center-left coalition 83 (PD 69, AVS 12, +EU 2), M5S 52, Action-Italia Viva 21, SVP 3, MAIE 1, ScN 1; composition - men 271, women 129, percentage women 32.3%; total Parliament percentage women 33.6%<br>
+_legislature name_: Parliament (Il Parlamento)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: Chamber of Deputies (Camera dei Deputati)<br>
+_number of seats_: 400 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 9/25/2022<br>
+_parties elected and seats per party_: Coalition Brothers of Italy (FdI) - Lega - Forza Italia - Us Moderates (Noi moderati, NM) (237); Democratic Party - Democratic and Progressive Italy (PD-IDP) - Greens and Left Alliance (AVS) - +EUROPA" - Civic Commitment (IC) (84); Five Star Movement (M5s) (52); Action - Italia Viva (21); Other (6)<br>
+_percentage of women in chamber_: 32.3%<br>
+_expected date of next election_: September 2027<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Senato della Repubblica)<br>
+_number of seats_: 205 (200 directly elected; 5 appointed)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 9/25/2022<br>
+_parties elected and seats per party_: Coalition Brothers of Italy (FdI) - Lega - Forza Italia - Us Moderates (Noi moderati, NM) (115); Democratic Party - Democratic and Progressive Italy (PD-IDP) - Greens and Left Alliance (AVS) - +EUROPA" - Civic Commitment (IC) (44); Five Star Movement (M5s) (28); Other (13)<br>
+_percentage of women in chamber_: 36.1%<br>
+_expected date of next election_: September 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Cassation or Corte Suprema di Cassazione (consists of the first president (chief justice), deputy president, 54 justices presiding over 6 civil and 7 criminal divisions, and 288 judges; an additional 30 judges of lower courts serve as supporting judges; cases normally heard by 5-judge panels; more complex cases heard by 9-judge panels); Constitutional Court or Corte Costituzionale (consists of the court president and 14 judges)<br>
@@ -392,25 +413,25 @@ _selected World Heritage Site locales_: <p>Historic Center of Rome (c); Archaeol
 core EU economy; strong services, manufacturing, and tourism sectors; sustained recovery in post-COVID inflationary environment; high public debt levels; increasing poverty levels particularly in poorer south; strong exports to EU and US partners<br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.097 trillion (2023 est.)<br>
-$3.068 trillion (2022 est.)<br>
-$2.951 trillion (2021 est.)<br>
+$3.145 trillion (2023 est.)<br>
+$3.123 trillion (2022 est.)<br>
+$2.984 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.92% (2023 est.)<br>
-3.99% (2022 est.)<br>
+0.7% (2023 est.)<br>
+4.66% (2022 est.)<br>
 8.31% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$52,700 (2023 est.)<br>
-$52,100 (2022 est.)<br>
-$49,900 (2021 est.)<br>
+$53,300 (2023 est.)<br>
+$52,900 (2022 est.)<br>
+$50,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.255 trillion (2023 est.)<br>
+$2.301 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -427,17 +448,17 @@ _Standard & Poors rating_: BBB (2017)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.9% (2023 est.)<br>
-_industry_: 23.1% (2023 est.)<br>
-_services_: 64.9% (2023 est.)<br>
+_industry_: 22.9% (2023 est.)<br>
+_services_: 65% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 59.6% (2023 est.)<br>
-_government consumption_: 18.1% (2023 est.)<br>
-_investment in fixed capital_: 21.2% (2023 est.)<br>
-_investment in inventories_: -0.3% (2023 est.)<br>
-_exports of goods and services_: 35.1% (2023 est.)<br>
-_imports of goods and services_: -33.7% (2023 est.)<br>
+_household consumption_: 58.4% (2023 est.)<br>
+_government consumption_: 17.8% (2023 est.)<br>
+_investment in fixed capital_: 22.5% (2023 est.)<br>
+_investment in inventories_: 0.2% (2023 est.)<br>
+_exports of goods and services_: 33.7% (2023 est.)<br>
+_imports of goods and services_: -32.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -448,11 +469,11 @@ milk, grapes, wheat, tomatoes, maize, apples, olives, oranges, potatoes, pork (2
 tourism, machinery, iron and steel, chemicals, food processing, textiles, motor vehicles, clothing, footwear, ceramics<br>
 
 **Industrial production growth rate**<br>
--0.02% (2023 est.)<br>
+0.28% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-25.669 million (2023 est.)<br>
+25.786 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -485,9 +506,9 @@ _highest 10%_: 26.2% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.47% of GDP (2023 est.)<br>
-0.51% of GDP (2022 est.)<br>
-0.49% of GDP (2021 est.)<br>
+0.53% of GDP (2023 est.)<br>
+0.5% of GDP (2022 est.)<br>
+0.48% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -500,17 +521,17 @@ _expenditures_: $1.015 trillion (2022 est.)<br>
 <strong>note:</strong> Italy reports its data on public debt according to guidelines set out in the Maastricht Treaty; general government gross debt is defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year, in the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); the general government sector comprises central, state, and local government and social security funds<br>
 
 **Taxes and other revenues**<br>
-24.92% (of GDP) (2022 est.)<br>
+24.5% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$11.552 billion (2023 est.)<br>
+-$247.462 million (2023 est.)<br>
 -$32.783 billion (2022 est.)<br>
 $51.549 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$793.589 billion (2023 est.)<br>
+$777.594 billion (2023 est.)<br>
 $752.864 billion (2022 est.)<br>
 $691.428 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -524,7 +545,7 @@ packaged medicine, refined petroleum, garments, cars, vehicle parts/accessories 
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$756.154 billion (2023 est.)<br>
+$747.798 billion (2023 est.)<br>
 $785.549 billion (2022 est.)<br>
 $644.93 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>

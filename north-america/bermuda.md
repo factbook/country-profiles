@@ -279,9 +279,27 @@ _cabinet_: Cabinet nominated by the premier, appointed by the governor<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (11 seats; 3 members appointed by the governor, 5 by the premier, and 3 by the opposition party; members serve 5-year terms) <br>House of Assembly (36 seats; members directly elected in single-seat constituencies by simple majority vote to serve up to 5-year terms)<br>
-_elections_: Senate - last appointments in 2022 (next appointments in 2027)<br>House of Assembly - last held on 1 October 2020 (next to be held by 2025)<br>
-_election results_: Senate - composition- men 5, women 6, percentage women 63.6%<br><br>House of Assembly - percent of vote by party - PLP 62.1%, OBA 32.3%, other 5.4%, independent 0.2%; seats by party - PLP 30, OBA 6; composition - men 28, women 7, percentage women 20%; total Parliament percentage women 28.3%<br>
+_legislature name_: Parliament<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Assembly<br>
+_number of seats_: 36 (directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 10/1/2020<br>
+_parties elected and seats per party_: PLP (30); OBA (6)<br>
+_percentage of women in chamber_: 20%<br>
+_expected date of next election_: 2025<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate<br>
+_number of seats_: 11 (appointed)<br>
+_term in office_: 5 years<br>
+_most recent election date_: 2022<br>
+_percentage of women in chamber_: 63.6%<br>
+_expected date of next election_: 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president and at least 2 justices); Supreme Court (consists of the chief justice, 4 puisne judges, and 1 associate justice); note - the Judicial Committee of the Privy Council (in London) is the court of final appeal<br>
@@ -298,7 +316,7 @@ Caricom (associate), ICC (NGOs), Interpol (subbureau), IOC, ITUC (NGOs), UPU, WC
 none (overseas territory of the UK)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Acting Consul General James SALLAY (since 20 August 2022)<br>
+_chief of mission_: Acting Consul General Vanja VUKOTA (since December 2024)<br>
 _embassy_: US Consulate Bermuda, 16 Middle Road, Devonshire, DV 03, Bermuda<br>
 _mailing address_: 5300 Hamilton Place, Washington, DC 20520-5300<br>
 _telephone_: (441) 295-1342<br>
@@ -328,25 +346,25 @@ _selected World Heritage Site locales_: Historic Town of St George and Related F
 small, tourism- and construction-based, territorial-island economy; American import and tourist destination; known offshore banking hub; increasing inflation; major re-exportation and re-importation area<br>
 
 **Real GDP (purchasing power parity)**<br>
+$6.343 billion (2023 est.)<br>
 $6.349 billion (2022 est.)<br>
 $5.965 billion (2021 est.)<br>
-$5.659 billion (2020 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+-0.09% (2023 est.)<br>
 6.43% (2022 est.)<br>
 5.42% (2021 est.)<br>
--6.84% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$99,800 (2022 est.)<br>
-$93,600 (2021 est.)<br>
-$88,600 (2020 est.)<br>
+$98,000 (2023 est.)<br>
+$98,100 (2022 est.)<br>
+$92,300 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$7.828 billion (2022 est.)<br>
+$8.142 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -366,11 +384,12 @@ _services_: 90.5% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 47.2% (2022 est.)<br>
-_government consumption_: 11.9% (2022 est.)<br>
-_investment in fixed capital_: 12.1% (2022 est.)<br>
-_exports of goods and services_: 50.5% (2022 est.)<br>
-_imports of goods and services_: -25% (2022 est.)<br>
+_household consumption_: 47.9% (2023 est.)<br>
+_government consumption_: 12% (2023 est.)<br>
+_investment in fixed capital_: 11.8% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
+_exports of goods and services_: 52.9% (2023 est.)<br>
+_imports of goods and services_: -24.6% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -396,9 +415,9 @@ _male_: 29.7%<br>
 _female_: 29%<br>
 
 **Remittances**<br>
-22.99% of GDP (2022 est.)<br>
+21.49% of GDP (2023 est.)<br>
+22.36% of GDP (2022 est.)<br>
 22.72% of GDP (2021 est.)<br>
-22.86% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>

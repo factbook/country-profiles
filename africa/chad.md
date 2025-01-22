@@ -350,9 +350,14 @@ _election results_: <em><br>2024: </em>Mahamat Idriss DÉBY elected president; p
 <strong>note:</strong> on 20 April 2021; President Idriss DÉBY died of injuries sustained following clashes between government forces and insurgents in northern Chad; following his death, Mahamat Idriss DÉBY , his son, took control of the country, established a Transitional Military Council which was dissolved in October 2022, and was elected president by popular vote in May 2024<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament to replace unicameral National Assembly and to consist of:<br>Senate - representing the Autonomous Communities - NA seats (members indirectly elected by electoral college of provincial and communal councilors for 6-year renewable terms)<br>National Assembly NA seats (members directly elected by popular vote to serve 5-year renewable terms)<br>
-_elections_: last held for National Assembly on 6 May 2011 (first elections for new Parliament expected in late 2024)<br>
-_election results_: 6 May 2011:&nbsp; percent of vote by party - NA; seats by party - NA; composition - men 64, women 29, percent of women 31.2%<br>
+_legislature name_: Transitional National Council (Conseil national de transition)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 203 (all appointed)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_most recent election date_: 9/24/2021<br>
+_percentage of women in chamber_: 26.1%<br>
+_expected date of next election_: December 2024<br>
 <strong>note:</strong> the Transitional Military Council dissolved the National Assembly in September 2021 and replaced it with the National Transitional Council (CNT) in October 2022; the CNT serves as an interim parliament for the country and is tasked with preparations for elections in late 2024<br>
 
 **Judicial branch**<br>
@@ -416,9 +421,9 @@ $30.311 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$1,800 (2023 est.)<br>
-$1,800 (2022 est.)<br>
-$1,800 (2021 est.)<br>
+$1,700 (2023 est.)<br>
+$1,700 (2022 est.)<br>
+$1,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -441,6 +446,7 @@ _services_: 28.7% (2023 est.)<br>
 _household consumption_: 74.6% (2023 est.)<br>
 _government consumption_: 4.2% (2023 est.)<br>
 _investment in fixed capital_: 25.8% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
 _exports of goods and services_: 43.5% (2023 est.)<br>
 _imports of goods and services_: -48.1% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -457,7 +463,7 @@ oil, cotton textiles, brewing, natron (sodium carbonate), soap, cigarettes, cons
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.806 million (2023 est.)<br>
+6.209 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -482,7 +488,7 @@ _female_: 0.7% (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8% (2022 est.)<br>
-_highest 10%_: 29.6% (2022 est.)<br>
+_highest 10%_: 29.5% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
@@ -539,7 +545,7 @@ $310.032 million (2019 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$2.352 billion (2022 est.)<br>
+$2.434 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

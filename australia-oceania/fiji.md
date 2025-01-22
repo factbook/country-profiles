@@ -321,9 +321,16 @@ _elections/appointments_: president elected by Parliament for a 3-year term (eli
 _election results_: <em>2021:</em> Ratu Wiliame KATONIVERE elected president; Wiliame KATONIVERE (People's Alliance) 28 votes, Teimumu KEPA (SODELPA) 23 votes<br><br><em>2018:</em> Jioji Konousi KONROTE reelected president (unopposed) <br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament (55 seats; members directly elected in a nationwide, multi-seat constituency by open-list proportional representation vote with a 5% electoral threshold; members serve 4-year terms)<br>
-_elections_: last held on 14 December 2022 (next to be held in 2026)<br>
-_election results_: percent of vote by party - FijiFirst 42.5%, People's Alliance 35.8%, NFP 8.9%, SODELPA 5.1%, other 7.7%; seats by party - FijiFirst 26, People's Alliance 21, NFP 5, SODELPA 3; composition - men 50, women 5, percentage women 9.1%<br>
+_legislature name_: Parliament<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 55 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 12/14/2022<br>
+_parties elected and seats per party_: FijiFirst (26); People's Alliance (21); National Federation Party (NFP) (5); Social Democratic Liberal Party (Soldelpa) (3)<br>
+_percentage of women in chamber_: 9.1%<br>
+_expected date of next election_: December 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice, all justices of the Court of Appeal, and judges appointed specifically as Supreme Court judges); Court of Appeal (consists of the court president, all puisne judges of the High Court, and judges specifically appointed to the Court of Appeal); High Court (chaired by the chief justice and includes a minimum of 10 puisne judges; High Court organized into civil, criminal, family, employment, and tax divisions)<br>
@@ -372,31 +379,31 @@ _selected World Heritage Site locales_: Levuka Historical Port Town<br>
 upper-middle income, tourism-based Pacific island economy; susceptible to ocean rises; key energy and infrastructure investments; post-pandemic tourism resurgence; improved debt standing; limited workforce<br>
 
 **Real GDP (purchasing power parity)**<br>
-$12.699 billion (2023 est.)<br>
-$11.756 billion (2022 est.)<br>
+$12.617 billion (2023 est.)<br>
+$11.734 billion (2022 est.)<br>
 $9.795 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-8.03% (2023 est.)<br>
-20.02% (2022 est.)<br>
+7.52% (2023 est.)<br>
+19.79% (2022 est.)<br>
 -4.88% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$13,600 (2023 est.)<br>
-$12,600 (2022 est.)<br>
-$10,600 (2021 est.)<br>
+$13,700 (2023 est.)<br>
+$12,800 (2022 est.)<br>
+$10,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$5.495 billion (2023 est.)<br>
+$5.442 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.15% (2023 est.)<br>
 4.52% (2022 est.)<br>
 0.16% (2021 est.)<br>
--2.6% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -405,18 +412,18 @@ _Standard & Poors rating_: BB- (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 8.3% (2023 est.)<br>
-_industry_: 16.1% (2023 est.)<br>
-_services_: 52.9% (2023 est.)<br>
+_agriculture_: 11.7% (2023 est.)<br>
+_industry_: 14.2% (2023 est.)<br>
+_services_: 55.1% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 67.5% (2023 est.)<br>
-_government consumption_: 20.6% (2023 est.)<br>
-_investment in fixed capital_: 17.6% (2023 est.)<br>
-_investment in inventories_: -4.8% (2023 est.)<br>
-_exports of goods and services_: 55.2% (2023 est.)<br>
-_imports of goods and services_: -65.8% (2023 est.)<br>
+_household consumption_: 82.4% (2022 est.)<br>
+_government consumption_: 20.5% (2022 est.)<br>
+_investment in fixed capital_: 17.8% (2022 est.)<br>
+_investment in inventories_: 0.7% (2022 est.)<br>
+_exports of goods and services_: 48.2% (2022 est.)<br>
+_imports of goods and services_: -69.3% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -427,11 +434,11 @@ sugarcane, cassava, taro, chicken, vegetables, coconuts, ginger, rice, milk, swe
 tourism, sugar processing, clothing, copra, gold, silver, lumber<br>
 
 **Industrial production growth rate**<br>
-15.32% (2023 est.)<br>
+-4.86% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-391,000 (2023 est.)<br>
+390,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -460,8 +467,8 @@ _highest 10%_: 24.2% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-9.1% of GDP (2023 est.)<br>
-9.21% of GDP (2022 est.)<br>
+9.19% of GDP (2023 est.)<br>
+9.23% of GDP (2022 est.)<br>
 9.14% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -518,7 +525,7 @@ $1.518 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$1.235 billion (2022 est.)<br>
+$1.499 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

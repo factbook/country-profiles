@@ -341,9 +341,28 @@ _cabinet_: consists of the prime minister, appointed by the King on the advice o
 _elections/appointments_: the monarchy is hereditary, but under the terms of the constitution that came into effect after the March 1993 election, the monarch is a "living symbol of national unity" with no executive or legislative powers; under traditional law, the College of Chiefs has the power to depose the monarch, to determine next in line of succession, or to serve as regent in the event that a successor is not of mature age<br>note - King LETSIE III formerly occupied the throne from November 1990 to February 1995 while his father was in exile<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (33 seats; 22 principal chiefs and 11 other senators nominated by the king with the advice of the Council of State, a 13-member body of key government and non-government officials; members serve 5-year terms)<br>National Assembly (120 seats; 80 members directly elected in single-seat constituencies by simple majority vote and 40 elected through proportional representation; members serve 5-year terms)<br>
-_elections_: Senate - last appointed by the king in November 2022 (next to be appointed 2028)<br>National Assembly - last held on 7 October 2022 (next to be held in February 2028)<br>
-_election results_: Senate - percent of votes by party - NA, seats by party - NA; composition - men 25, women 8, percentage women 24.2%<br><br>National Assembly - percent of votes by party - RFP 38.9%, DC 24.7%, ABC 7.1%, BAP 5.4%, AD 4.0%, MEC 3.2%, LCD 2.3%, SR 2.1%, BNP 1.4%, PFD 0.9%, BCM 0.8%, MPS 0.8%, MIP 0.7%; seats by party - RFP 56, DC 29, ABC 8, BAP 6, AD 5, MEC 4, LCD 3, SR 2, BNP 1, PFD 1, BCM 1, MPS 1, NIP 1, HOPE 1, TBD 1; composition - men 90, women 30, percentage 25%; note - total Parliament percentage women 24.8%<br>
+_legislature name_: Parliament<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: National Assembly<br>
+_number of seats_: 122 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 10/7/2022<br>
+_parties elected and seats per party_: Revolution for Prosperity (RFP) (56); Democratic Congress (DC) (29); All Basotho Convention (ABC) (8); Basotho Action Party (BAP) (6); Other (20)<br>
+_percentage of women in chamber_: 25%<br>
+_expected date of next election_: October 2027<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate<br>
+_number of seats_: 33 (11 appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 11/2/2022<br>
+_percentage of women in chamber_: 21.2%<br>
+_expected date of next election_: November 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president, such number of justices of appeal as set by Parliament, and the Chief Justice and the puisne judges of the High Court ex officio); High Court (consists of the chief justice and such number of puisne judges as set by Parliament); note - both the Court of Appeal and the High Court have jurisdiction in constitutional issues<br>
@@ -364,7 +383,7 @@ _FAX_: [1] (202) 234-6815<br>
 _email address and website_: <br>lesothoembassy@verizon.net<br><br>https://www.gov.ls/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Maria E. BREWER (since 10 March 2022)<br>
+_chief of mission_: Ambassador (vacant); Charge&rsquo; d&rsquo;Affaires Thomas HINES (since August 2024)<br>
 _embassy_: 254 Kingsway Avenue, Maseru<br>
 _mailing address_: 2340 Maseru Place, Washington DC&nbsp; 20521-2340<br>
 _telephone_: [266] 22312666<br>
@@ -392,25 +411,25 @@ _selected World Heritage Site locales_: Maloti-Drakensberg Park<br>
 lower middle-income economy surrounded by South Africa; environmentally fragile and politically unstable; key infrastructure and renewable energy investments; dire poverty; urban job and income losses due to COVID-19; systemic corruption<br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.868 billion (2023 est.)<br>
-$5.816 billion (2022 est.)<br>
-$5.742 billion (2021 est.)<br>
+$6 billion (2023 est.)<br>
+$5.893 billion (2022 est.)<br>
+$5.755 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.9% (2023 est.)<br>
-1.29% (2022 est.)<br>
+1.83% (2023 est.)<br>
+2.39% (2022 est.)<br>
 1.85% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$2,500 (2023 est.)<br>
-$2,500 (2022 est.)<br>
+$2,600 (2023 est.)<br>
+$2,600 (2022 est.)<br>
 $2,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.046 billion (2023 est.)<br>
+$2.118 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -424,18 +443,18 @@ _Fitch rating_: B (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 6.3% (2023 est.)<br>
-_industry_: 29.5% (2023 est.)<br>
-_services_: 51.4% (2023 est.)<br>
+_agriculture_: 6.6% (2023 est.)<br>
+_industry_: 28.7% (2023 est.)<br>
+_services_: 50.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 88.7% (2022 est.)<br>
-_government consumption_: 34.2% (2022 est.)<br>
-_investment in fixed capital_: 28% (2022 est.)<br>
-_investment in inventories_: 0.3% (2022 est.)<br>
-_exports of goods and services_: 47.2% (2022 est.)<br>
-_imports of goods and services_: -98.5% (2022 est.)<br>
+_household consumption_: 92.9% (2023 est.)<br>
+_government consumption_: 35.6% (2023 est.)<br>
+_investment in fixed capital_: 28.3% (2023 est.)<br>
+_investment in inventories_: -1.1% (2023 est.)<br>
+_exports of goods and services_: 42.9% (2023 est.)<br>
+_imports of goods and services_: -98.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -446,11 +465,11 @@ milk, potatoes, maize, vegetables, fruits, beans, wheat, game meat, sorghum, woo
 food, beverages, textiles, apparel assembly, handicrafts, construction, tourism<br>
 
 **Industrial production growth rate**<br>
--0.33% (2023 est.)<br>
+-8.32% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.004 million (2023 est.)<br>
+980,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -479,9 +498,9 @@ _highest 10%_: 32.9% (2017 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-24.12% of GDP (2023 est.)<br>
-23.29% of GDP (2022 est.)<br>
-19.71% of GDP (2021 est.)<br>
+22.87% of GDP (2023 est.)<br>
+22.62% of GDP (2022 est.)<br>
+19.67% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -494,17 +513,17 @@ _expenditures_: $947.517 million (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-31.31% (of GDP) (2022 est.)<br>
+30.44% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$117.501 million (2023 est.)<br>
--$264.265 million (2022 est.)<br>
--$194.1 million (2021 est.)<br>
+-$143.202 million (2023 est.)<br>
+-$265.366 million (2022 est.)<br>
+-$195.013 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$886.278 million (2023 est.)<br>
+$885.789 million (2023 est.)<br>
 $1.07 billion (2022 est.)<br>
 $1.082 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -518,9 +537,9 @@ garments, diamonds, water, wool, power equipment (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$2.058 billion (2023 est.)<br>
+$2.074 billion (2023 est.)<br>
 $2.244 billion (2022 est.)<br>
-$2.222 billion (2021 est.)<br>
+$2.223 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -532,13 +551,13 @@ refined petroleum, fabric, cotton, garments, electricity (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$774.095 million (2019 est.)<br>
-$728.528 million (2018 est.)<br>
-$657.668 million (2017 est.)<br>
+$854.089 million (2023 est.)<br>
+$771.278 million (2022 est.)<br>
+$798.207 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$830.976 million (2022 est.)<br>
+$999.337 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

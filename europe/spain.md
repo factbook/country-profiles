@@ -346,9 +346,30 @@ _election results_: Congress of Deputies vote - 179 to 171 (16 November 2023)<br
 <strong>note:</strong> there is also a Council of State that is the supreme consultative organ of the government, but its recommendations are non-binding<br>
 
 **Legislative branch**<br>
-_description_: bicameral General Courts or Las Cortes Generales consists of:<br>Senate or Senado (265 seats; 208 members directly elected in multi-seat constituencies by simple majority vote and 57 members indirectly elected by the legislatures of the autonomous communities; members serve 4-year terms)<br>Congress of Deputies or Congreso de los Diputados (350 seats; 348 members directly elected in 50 multi-seat constituencies by closed-list proportional representation vote, with a 3% threshold needed to gain a seat, and 2 directly elected from the North African Ceuta and Melilla enclaves by simple majority vote; members serve 4-year terms or until the government is dissolved)<br>
-_elections_: Senate - last held on 23 July 2023 (next to be held no later than July 2027)<br>Congress of Deputies - last held on 23 July 2023 (next to be held no later than July 2027)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - PP 120, PSOE 72, ERC 7, PNV 4, other 5; composition - men 153, women 112; percentage women 42.3%<br><br>Congress of Deputies - percent of vote by party - PP 33.1%, PSOE 31.7%, Vox 12.4%, Sumar 12.3%, ERC 1.7%, Junts 1.6%, EH-Bildu 1.4%, PNV 1.1% other 4.7%; seats by party - PP 137, PSOE 121, Vox 33, Sumar 31, ERC 7, Junts 7, EH-Bildu 6, PNV 5, other 3; composition - men 195, women 155, percentage women 44.3%; total General Courts percentage women 42%<br>
+_legislature name_: The Cortes (Las Cortes Generales)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: Congress of Deputies (Congreso de los Diputados)<br>
+_number of seats_: 350 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 7/23/2023<br>
+_parties elected and seats per party_: People's Party (PP) (136); Spanish Socialist Workers' Party (PSOE) (122); Vox (33); SUMAR (31); Other (28)<br>
+_percentage of women in chamber_: 44.3%<br>
+_expected date of next election_: July 2027<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Senado)<br>
+_number of seats_: 265 (208 directly elected; 57 indirectly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 7/23/2023<br>
+_parties elected and seats per party_: People's Party (PP) (120); Spanish Socialist Workers' Party (PSOE) (72); Other (16)<br>
+_percentage of women in chamber_: 42.3%<br>
+_expected date of next election_: July 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Tribunal Supremo (consists of the court president and organized into the Civil Room, with a president and 9 judges; the Penal Room, with a president and 14 judges; the Administrative Room, with a president and 32 judges; the Social Room, with a president and 12 judges; and the Military Room, with a president and 7 judges); Constitutional Court or Tribunal Constitucional de Espana (consists of 12 judges)<br>
@@ -370,7 +391,7 @@ _email address and website_: <br>emb.washington@maec.es<br><br>https://www.exter
 _consulate(s) general_: Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco, San Juan (Puerto Rico)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Julissa REYNOSO (since 2 February 2022); note - also accredited to Andorra<br>
+_chief of mission_: Ambassador Rian Harker HARRIS (since 15 July 2024); note - also accredited to Andorra<br>
 _embassy_: Calle de Serrano, 75, 28006 Madrid<br>
 _mailing address_: 8500 Madrid Place, Washington DC&nbsp; 20521-8500<br>
 _telephone_: [34] (91) 587-2200<br>
@@ -400,25 +421,25 @@ _selected World Heritage Site locales_: Cave of Altamira and Paleolithic Cave Ar
 high-income core EU and eurozone economy; strong growth driven by public consumption, tourism, and other service exports; tight labor market despite high structural unemployment; government debt remains high amid deficit reductions; innovation and economic freedom ranked lower than EU and OECD peers<br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.242 trillion (2023 est.)<br>
-$2.188 trillion (2022 est.)<br>
-$2.068 trillion (2021 est.)<br>
+$2.279 trillion (2023 est.)<br>
+$2.22 trillion (2022 est.)<br>
+$2.091 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.5% (2023 est.)<br>
-5.77% (2022 est.)<br>
+2.68% (2023 est.)<br>
+6.18% (2022 est.)<br>
 6.4% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$46,400 (2023 est.)<br>
-$45,800 (2022 est.)<br>
-$43,600 (2021 est.)<br>
+$47,100 (2023 est.)<br>
+$46,500 (2022 est.)<br>
+$44,100 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.581 trillion (2023 est.)<br>
+$1.62 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -434,18 +455,18 @@ _Standard & Poors rating_: A (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.3% (2023 est.)<br>
-_industry_: 20.2% (2023 est.)<br>
-_services_: 68.5% (2023 est.)<br>
+_agriculture_: 2.5% (2023 est.)<br>
+_industry_: 20.1% (2023 est.)<br>
+_services_: 68.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 55.6% (2023 est.)<br>
-_government consumption_: 19.9% (2023 est.)<br>
-_investment in fixed capital_: 19.3% (2023 est.)<br>
-_investment in inventories_: 1% (2023 est.)<br>
-_exports of goods and services_: 39% (2023 est.)<br>
-_imports of goods and services_: -34.8% (2023 est.)<br>
+_household consumption_: 54.3% (2023 est.)<br>
+_government consumption_: 19.5% (2023 est.)<br>
+_investment in fixed capital_: 19.7% (2023 est.)<br>
+_investment in inventories_: 1.3% (2023 est.)<br>
+_exports of goods and services_: 38.1% (2023 est.)<br>
+_imports of goods and services_: -34.1% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -456,11 +477,11 @@ milk, barley, wheat, grapes, pork, olives, tomatoes, maize, oranges, sugar beets
 textiles and apparel (including footwear), food and beverages, metals and metal manufactures, chemicals, shipbuilding, automobiles, machine tools, tourism, clay and refractory products, footwear, pharmaceuticals, medical equipment<br>
 
 **Industrial production growth rate**<br>
-1.94% (2023 est.)<br>
+1.07% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-24.108 million (2023 est.)<br>
+24.153 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -493,7 +514,7 @@ _highest 10%_: 24.7% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.31% of GDP (2023 est.)<br>
+0.33% of GDP (2023 est.)<br>
 0.3% of GDP (2022 est.)<br>
 0.27% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -504,23 +525,23 @@ _expenditures_: $514.452 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-111.43% of GDP (2022 est.)<br>
+109.22% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-15.82% (of GDP) (2022 est.)<br>
+15.5% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$41.094 billion (2023 est.)<br>
-$8.095 billion (2022 est.)<br>
-$10.893 billion (2021 est.)<br>
+$43.012 billion (2023 est.)<br>
+$4.482 billion (2022 est.)<br>
+$11.179 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$615.83 billion (2023 est.)<br>
-$578.039 billion (2022 est.)<br>
-$493.359 billion (2021 est.)<br>
+$616.648 billion (2023 est.)<br>
+$573.598 billion (2022 est.)<br>
+$492.568 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -532,9 +553,9 @@ cars, refined petroleum, garments, packaged medicine, vehicle parts/accessories 
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$550.576 billion (2023 est.)<br>
-$561.49 billion (2022 est.)<br>
-$479.392 billion (2021 est.)<br>
+$552.948 billion (2023 est.)<br>
+$561.448 billion (2022 est.)<br>
+$478.032 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

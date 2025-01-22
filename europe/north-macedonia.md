@@ -332,9 +332,16 @@ _elections/appointments_: president directly elected using a modified 2-round sy
 _election results_: <em>2024: </em>Hristijan MICKOSKI elected prime minister; Assembly vote - 77 for, 22 against<em><br><br>2024: </em>Gordana SILJANOVSKA-DAVKOVA elected president in the second round; percent of vote - Gordana SILJANOVSKA-DAVKOVA (VMRO-DPMNE) 69%, Stevo PENDAROVSKI (SDSM) 31%<em><br><br>2024: </em>Talat XHAFERI elected caretaker prime minister; Assembly vote - 65 for (opposition boycott)<em><br><br>2022: </em>Dimitar KOVACEVSKI elected prime minister; Assembly vote - NA<em><br></em><br>
 
 **Legislative branch**<br>
-_description_: unicameral Assembly - Sobranie in Macedonian, Kuvend in Albanian (between 120 and 140 seats, current 123; members directly elected in multi-seat constituencies by closed-list proportional representation vote; possibility of 3 directly elected in diaspora constituencies by simple majority vote provided there is sufficient voter turnout; members serve 4-year terms)<br>
-_elections_: last held on 8 May 2024 (next to be held on 31 May 2028)<br>
-_election results_: percent of vote by party/coalition - Your Macedonia 44.6%, For a European Future 15.8%, European Front 14%, VLEN 10.9%, The Left 7%, For Our Macedonia 5.7%, other 1.9%; seats by party/coalition - Your Macedonia 58, For a European Future 18, European Front 18, VLEN 14, The Left 6, For Our Macedonia 6; composition - TBD<br>
+_legislature name_: Assembly of the Republic (Sobranie)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 123 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 5/8/2024<br>
+_parties elected and seats per party_: Coalition "Your Macedonia" (led by VMRO-DPMNE) (58); Coalition "European Front" (led by the Democratic Union for Integration – DUI) (18); Coalition "For a European Future" (led by the Social Democratic Union of Macedonia – SDSM) (18); Coalition VLEN (14); ZNAM (Movement "I know": For our Macedonia) (6); The Left (Levica) (6)<br>
+_percentage of women in chamber_: 39.2%<br>
+_expected date of next election_: May 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 22 judges); Constitutional Court (consists of 9 judges)<br>
@@ -385,25 +392,25 @@ _selected World Heritage Site locales_: Natural and Cultural Heritage of the Ohr
 upper-middle-income European economy; recovering from energy-driven inflation; macroeconomic support from IMF and EU lending facilities; stalled progress on EU accession; fiscal consolidation hampered by deficit spending on public works; structural challenges of emigration, low productivity growth, and governance<br>
 
 **Real GDP (purchasing power parity)**<br>
-$42.444 billion (2023 est.)<br>
-$42.012 billion (2022 est.)<br>
+$43.108 billion (2023 est.)<br>
+$42.233 billion (2022 est.)<br>
 $41.099 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.03% (2023 est.)<br>
-2.22% (2022 est.)<br>
+2.07% (2023 est.)<br>
+2.76% (2022 est.)<br>
 4.51% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$23,400 (2023 est.)<br>
-$22,900 (2022 est.)<br>
+$23,600 (2023 est.)<br>
+$23,100 (2022 est.)<br>
 $22,400 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$14.761 billion (2023 est.)<br>
+$15.764 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -418,18 +425,18 @@ _Standard & Poors rating_: BB- (2013)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 7% (2023 est.)<br>
-_industry_: 21.4% (2023 est.)<br>
-_services_: 58.2% (2023 est.)<br>
+_agriculture_: 6.6% (2023 est.)<br>
+_industry_: 23.3% (2023 est.)<br>
+_services_: 57.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 72.9% (2023 est.)<br>
-_government consumption_: 16.8% (2023 est.)<br>
-_investment in fixed capital_: 23.5% (2021 est.)<br>
-_investment in inventories_: 0.4% (2023 est.)<br>
-_exports of goods and services_: 72.8% (2023 est.)<br>
-_imports of goods and services_: -86.3% (2023 est.)<br>
+_household consumption_: 68.5% (2023 est.)<br>
+_government consumption_: 14.9% (2023 est.)<br>
+_investment in fixed capital_: 24.7% (2023 est.)<br>
+_investment in inventories_: 4.9% (2023 est.)<br>
+_exports of goods and services_: 67.8% (2023 est.)<br>
+_imports of goods and services_: -80.9% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -440,11 +447,11 @@ milk, grapes, chilies/peppers, wheat, potatoes, apples, tomatoes, cabbages, maiz
 food processing, beverages, textiles, chemicals, iron, steel, cement, energy, pharmaceuticals, automotive parts<br>
 
 **Industrial production growth rate**<br>
--1.07% (2023 est.)<br>
+-1.63% (2022 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-801,000 (2023 est.)<br>
+797,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -477,8 +484,8 @@ _highest 10%_: 22.9% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-3.13% of GDP (2023 est.)<br>
-3.33% of GDP (2022 est.)<br>
+2.93% of GDP (2023 est.)<br>
+3.28% of GDP (2022 est.)<br>
 3.5% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -496,14 +503,14 @@ _expenditures_: $4.666 billion (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$99.23 million (2023 est.)<br>
--$864.777 million (2022 est.)<br>
+$56.573 million (2023 est.)<br>
+-$868.965 million (2022 est.)<br>
 -$374.85 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$10.748 billion (2023 est.)<br>
-$10.126 billion (2022 est.)<br>
+$10.691 billion (2023 est.)<br>
+$10.123 billion (2022 est.)<br>
 $9.208 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
@@ -516,8 +523,8 @@ reaction and catalytic products, insulated wire, electricity, garments, vehicle 
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$12.745 billion (2023 est.)<br>
-$13.008 billion (2022 est.)<br>
+$12.748 billion (2023 est.)<br>
+$13.009 billion (2022 est.)<br>
 $11.362 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
@@ -534,6 +541,9 @@ $5.015 billion (2023 est.)<br>
 $4.12 billion (2022 est.)<br>
 $4.129 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+
+**Debt - external**<br>
+$5.845 billion (2023 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Macedonian denars (MKD) per US dollar -<br>

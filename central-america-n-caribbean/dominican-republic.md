@@ -341,9 +341,30 @@ _election results_: <em><br>2024:</em> Luis Rodolfo ABINADER Corona reelected pr
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (32 seats; 26 members directly elected in single-seat constituencies by simple majority vote, and 6 members indirectly elected based upon province-wide party plurality votes for its candidates to the Chamber of Deputies; all members serve 4-year terms<br><br>House of Representatives or Camara de Diputados (190 seats; 178 members directly elected in multi-seat constituencies by closed party-list proportional representation vote using the D'Hondt method, 5 members in a nationwide constituency, and 7 diaspora members directly elected by simple majority vote; members serve 4-year terms)<br>
-_elections_: Senate - last held on 19 May 2024 (next to be held on 21 May 2028)<br>House of Representatives - last held on 19 May 2024 (next to be held on 21 May 2028)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - PRM 24, FP 3, APD 1, PPG 1, PRI 1, PRL 1, PRSC 1; composition - men NA, women NA, percentage women NA%<br><br>House of Representatives - percent of vote by party - NA; seats by party - PRM 142, FP 28, PLD 13, PRSC 2, other 5; composition - men NA, women NA, percentage women NA%; total National Congress percent of women NA%<br>
+_legislature name_: National Congress of the Republic (Congreso Nacional de la República)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: Chamber of Deputies (Cámara de Diputados)<br>
+_number of seats_: 190 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 5/19/2024<br>
+_parties elected and seats per party_: Modern Revolutionary Party (PRM) and its allies (146); People’s Force (FP) and its allies (28); Other (16)<br>
+_percentage of women in chamber_: 36.8%<br>
+_expected date of next election_: May 2028<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Senado)<br>
+_number of seats_: 32 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 5/19/2024<br>
+_parties elected and seats per party_: Modern Revolutionary Party (PRM) and its allies (24); People’s Force (FP) and its allies (3); Other (5)<br>
+_percentage of women in chamber_: 12.5%<br>
+_expected date of next election_: May 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Suprema Corte de Justicia (consists of a minimum of 16 magistrates); Constitutional Court or Tribunal Constitucional (consists of 13 judges); note - the Constitutional Court was established in 2010 by constitutional amendment<br>
@@ -452,7 +473,7 @@ tourism, sugar processing, gold mining, textiles, cement, tobacco, electrical co
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.302 million (2023 est.)<br>
+5.295 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -485,7 +506,7 @@ _highest 10%_: 28.3% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-8.65% of GDP (2023 est.)<br>
+8.74% of GDP (2023 est.)<br>
 9.05% of GDP (2022 est.)<br>
 11.4% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -541,6 +562,9 @@ $15.547 billion (2023 est.)<br>
 $14.523 billion (2022 est.)<br>
 $13.125 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+
+**Debt - external**<br>
+$33.791 billion (2023 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Dominican pesos (DOP) per US dollar -<br>

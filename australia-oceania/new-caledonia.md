@@ -262,15 +262,21 @@ see France<br>
 
 **Executive branch**<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by High Commissioner Louise LEFRANC (since 6 February 2023)<br>
-_head of government_: President of the Government Louis MAPOU (since 22 July 2021)<br>
+_head of government_: President of the Government Alcide PONGA (since 8 January 2025)<br>
 _cabinet_: Cabinet elected from and by the Territorial Congress<br>
 _elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; president of New Caledonia elected by Territorial Congress for a 5-year term (no term limits); election last held on 8 July 2021 (next to be held in 2026)<br>
 _election results_: <em><br>2021:</em> Louis MAPOU (PALIKA) elected president by Territorial Congress with 6 of 11 votes<br><br><em>2019: </em>Thierry SANTA (The Republicans) elected president by Territorial Congress with 6 of 11 votes<br>
 
 **Legislative branch**<br>
-_description_: unicameral Territorial Congress or Congr&egrave;s du Territoire (54 seats; members indirectly selected proportionally by the partisan makeup of the 3 Provincial Assemblies or Assembl&eacute;s Provinciales; members of the 3 Provincial Assemblies directly elected by party-list proportional representation vote; members serve 5-year terms)<br>
-_elections_: Territorial Congress - last held on 12 May 2019 (next to be held by 15 December 2024)<br>French Senate - election last held on 24 September 2023 (next to be held on 30 September 2026)<br>French National Assembly - election last held on 12 and 19 June 2022 (next to be held by June 2027)<br>
-_election results_: Territorial Congress - percent of vote by party - NA; seats by party - Future With Confidence 18, UNI 9, UC 9, CE 7, FLNKS 6, Oceanic Awakening 3, PT 1, LKS 1 (Anti-Independence 28, Pro-Independence 26)<br><br>French Senate - percent of vote by party - NA; seats by party - UMP 2<br><br>French National Assembly - percent of vote by party - NA; seats by party - CE 2<br>
+_legislature name_: Territorial Congress (Congr&egrave;s du Territoire)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 54 (indirectly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 5/12/2019<br>
+_parties elected and seats per party_: Future With Confidence 18, UNI 9, UC 9, CE 7, FLNKS 6, Oceanic Awakening 3, PT 1, LKS 1 (Anti-Independence 28, Pro-Independence 26)<br>
+_expected date of next election_: December 2024<br>
 <strong>note 1:</strong> the Customary Senate is the assembly of the various traditional councils of the Kanaks, the indigenous population; it rules on laws affecting Kanaks <br><strong><br>note 2:</strong> New Caledonia indirectly elects 2 members to the French Senate and directly elects 2 members to the French National Assembly (see France entry for electoral details)<br>
 
 **Judicial branch**<br>

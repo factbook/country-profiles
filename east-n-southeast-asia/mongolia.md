@@ -344,9 +344,16 @@ _elections/appointments_: presidential candidates nominated by political parties
 _election results_: <em><br>2021:</em> Ukhnaagiin KHURELSUKH elected president in first round; percent of vote - Ukhnaagiin KHURELSUKH (MPP) 68%, Dangaasuren ENKHBAT (RPEC) 20.1%, Sodnomzundui ERDENE (DP) 6%<br><br><em>2017: </em> Khaltmaa BATTULGA elected president in second round; percent of vote in first round - Khaltmaa BATTULGA (DP) 38.1%, Miyegombo ENKHBOLD (MPP) 30.3%, Sainkhuu GANBAATAR (MPRP) 30.2%, invalid 1.4%; percent of vote in second round - Khaltmaa BATTULGA 55.2%, Miyegombo ENKHBOLD 44.8%<br>
 
 **Legislative branch**<br>
-_description_: unicameral State Great Hural or Ulsyn Ikh Khural (126 seats; 78 members directly elected in a selected constituency by simple majority vote and 48 members directly elected by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 28 June 2024 (next to be held June 2028)<br>
-_election results_: percent of vote by party - MPP 35.0%, DP 30.1%, HUN Party 10.4%, National Coalition 5.2%, CWGP 5%, other 14.3%; seats by party - MPP 68, DP 42, HUN Party 8, National Coalition 4, CWGP 4; composition - N/A<br>
+_legislature name_: State Great Hural (Ulsiin Ih Hural)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 126 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 6/28/2024<br>
+_parties elected and seats per party_: Mongolian People's Party (MPP) (68); Democratic Party (DP) (42); HUN Party (8); Other (8)<br>
+_percentage of women in chamber_: 25.4%<br>
+_expected date of next election_: June 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the Chief Justice and 24 judges organized into civil, criminal, and administrative chambers); Constitutional Court or Tsets (consists of the chairman and 8 members)<br>
@@ -396,25 +403,25 @@ _selected World Heritage Site locales_: Uvs Nuur Basin (n); Orkhon Valley Cultur
 lower middle-income East Asian economy; large human capital improvements over last 3 decades; agricultural and natural resource rich; export and consumption-led growth; high inflation due to supply bottlenecks and increased food and energy prices; currency depreciation<br>
 
 **Real GDP (purchasing power parity)**<br>
-$56.264 billion (2023 est.)<br>
+$56.474 billion (2023 est.)<br>
 $52.572 billion (2022 est.)<br>
 $50.053 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-7.02% (2023 est.)<br>
+7.42% (2023 est.)<br>
 5.03% (2022 est.)<br>
 1.64% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$16,300 (2023 est.)<br>
-$15,500 (2022 est.)<br>
-$15,000 (2021 est.)<br>
+$16,200 (2023 est.)<br>
+$15,300 (2022 est.)<br>
+$14,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$19.872 billion (2023 est.)<br>
+$20.325 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -430,18 +437,18 @@ _Standard & Poors rating_: B (2018)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 10.2% (2023 est.)<br>
-_industry_: 40% (2023 est.)<br>
-_services_: 40.1% (2023 est.)<br>
+_agriculture_: 9.9% (2023 est.)<br>
+_industry_: 39.5% (2023 est.)<br>
+_services_: 41% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 47.8% (2023 est.)<br>
-_government consumption_: 13.3% (2023 est.)<br>
-_investment in fixed capital_: 27.4% (2023 est.)<br>
-_investment in inventories_: 5% (2023 est.)<br>
-_exports of goods and services_: 78% (2023 est.)<br>
-_imports of goods and services_: -69.2% (2023 est.)<br>
+_household consumption_: 44.5% (2023 est.)<br>
+_government consumption_: 13% (2023 est.)<br>
+_investment in fixed capital_: 25.3% (2023 est.)<br>
+_investment in inventories_: 8.6% (2023 est.)<br>
+_exports of goods and services_: 76.3% (2023 est.)<br>
+_imports of goods and services_: -66.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -452,11 +459,11 @@ milk, wheat, potatoes, lamb/mutton, goat milk, beef, goat meat, bison milk, shee
 construction and construction materials; mining (coal, copper, molybdenum, fluorspar, tin, tungsten, gold); oil; food and beverages; processing of animal products, cashmere and natural fiber manufacturing<br>
 
 **Industrial production growth rate**<br>
-12.57% (2023 est.)<br>
+12.89% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.403 million (2023 est.)<br>
+1.409 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -472,7 +479,7 @@ _female_: 12.9% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-27.8% (2020 est.)<br>
+27.1% (2022 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -485,7 +492,7 @@ _highest 10%_: 24.6% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.21% of GDP (2023 est.)<br>
+2.24% of GDP (2023 est.)<br>
 2.33% of GDP (2022 est.)<br>
 3.08% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -538,13 +545,13 @@ refined petroleum, cars, trucks, trailers, raw iron bars (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$4.782 billion (2023 est.)<br>
+$4.786 billion (2023 est.)<br>
 $3.398 billion (2022 est.)<br>
 $4.38 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$9.085 billion (2022 est.)<br>
+$8.894 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

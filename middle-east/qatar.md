@@ -328,9 +328,15 @@ _cabinet_: Council of Ministers appointed by the amir<br>
 _elections/appointments_: the monarchy is hereditary; prime minister appointed by the amir<br>
 
 **Legislative branch**<br>
-_description_: unicameral Advisory Council or Majlis al-Shura (45 seats; members appointed by the monarch to serve until resignation or until relieved; note 1 - legislative drafting authority rests with the Council of Ministers and is reviewed by the Advisory Council; note 2 - a constitutional amendment passed in late 2023, replaced direct elections for 30 of the 45 members of the Shura Council with appointments<br>
-_elections_: last held for 30 elected members on 2 October 2021 (next to be held in 2025); last members appointed - 14 October 2021 (next appointments - NA)<br>
-_election results_: <br>30 nonpartisan members elected; composition - men 30, women 0, percentage women 0%<br>15 appointed members; composition men 13, women 2, percentage women 13.3%<br>
+_legislature name_: Shura Council (Majlis Al-Shura)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 45 (30 directly elected; 15 appointed)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 10/2/2021<br>
+_percentage of women in chamber_: 4.4%<br>
+_expected date of next election_: September 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Court of Cassation (consists of the court president and several judges); Supreme Constitutional Court (consists of the chief justice and 6 members)<br>
@@ -381,25 +387,25 @@ _selected World Heritage Site locales_: Al Zubarah Archaeological Site<br>
 high-income, oil-and-gas-based Middle Eastern economy; National Vision 2030 government strategy for economic development, diversification, favorable business conditions to grow investment and employment; infrastructure investments; Islamic finance leader; citizenship-based labor force growth<br>
 
 **Real GDP (purchasing power parity)**<br>
-$304.973 billion (2022 est.)<br>
+$308.522 billion (2023 est.)<br>
+$304.903 billion (2022 est.)<br>
 $292.655 billion (2021 est.)<br>
-$287.97 billion (2020 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.21% (2022 est.)<br>
+1.19% (2023 est.)<br>
+4.19% (2022 est.)<br>
 1.63% (2021 est.)<br>
--3.56% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$113,200 (2022 est.)<br>
-$108,900 (2021 est.)<br>
-$104,300 (2020 est.)<br>
+$116,200 (2023 est.)<br>
+$114,700 (2022 est.)<br>
+$116,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$235.77 billion (2022 est.)<br>
+$213.003 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -415,15 +421,16 @@ _Standard & Poors rating_: AA- (2017)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.3% (2022 est.)<br>
-_industry_: 65.4% (2022 est.)<br>
-_services_: 38.5% (2022 est.)<br>
+_agriculture_: 0.3% (2023 est.)<br>
+_industry_: 60.4% (2023 est.)<br>
+_services_: 45.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 19.5% (2022 est.)<br>
 _government consumption_: 12.9% (2022 est.)<br>
-_investment in fixed capital_: 30.7% (2022 est.)<br>
+_investment in fixed capital_: 30.6% (2022 est.)<br>
+_investment in inventories_: 0% (2022 est.)<br>
 _exports of goods and services_: 68.6% (2022 est.)<br>
 _imports of goods and services_: -31.6% (2022 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -436,11 +443,11 @@ tomatoes, dates, chicken, cucumbers/gherkins, camel milk, eggs, sheep milk, goat
 liquefied natural gas, crude oil production and refining, ammonia, fertilizer, petrochemicals, steel reinforcing bars, cement, commercial ship repair<br>
 
 **Industrial production growth rate**<br>
-1.69% (2022 est.)<br>
+0.31% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.035 million (2023 est.)<br>
+2.003 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -455,14 +462,21 @@ _male_: 0.3% (2023 est.)<br>
 _female_: 1.5% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
+**Gini Index coefficient - distribution of family income**<br>
+35.1 (2017 est.)<br>
+
 **Average household expenditures**<br>
 _on food_: 12.3% of household expenditures (2022 est.)<br>
 _on alcohol and tobacco_: 0.3% of household expenditures (2022 est.)<br>
 
+**Household income or consumption by percentage share**<br>
+_lowest 10%_: 2.6% (2017 est.)<br>
+_highest 10%_: 25.8% (2017 est.)<br>
+
 **Remittances**<br>
+0.67% of GDP (2023 est.)<br>
 0.44% of GDP (2022 est.)<br>
 0.48% of GDP (2021 est.)<br>
-0.45% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -476,13 +490,13 @@ _expenditures_: $57.258 billion (2019 est.)<br>
 26.4% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
-$36.47 billion (2023 est.)<br>
+$36.453 billion (2023 est.)<br>
 $63.118 billion (2022 est.)<br>
 $26.319 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$128.726 billion (2023 est.)<br>
+$128.709 billion (2023 est.)<br>
 $161.693 billion (2022 est.)<br>
 $105.549 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>

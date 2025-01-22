@@ -341,9 +341,16 @@ _election results_: <em><br>2023: </em>Nikos CHRISTODOULIDIS elected president i
 <strong>note:</strong> vice presidency reserved for a Turkish Cypriot, but the post has been vacant since 1974 because Turkish Cypriots do not participate in the Republic of Cyprus Government<br>
 
 **Legislative branch**<br>
-_description_: area under government control: unicameral House of Representatives or Vouli Antiprosopon (80 seats; 56 assigned to Greek Cypriots, 24 to Turkish Cypriots, but only those assigned to Greek Cypriots are filled; members directly elected by both proportional representation and preferential vote; members serve 5-year terms; note - 3 seats each are reserved for the Latin, Maronite, and Armenian religious groups;<br>area administered by Turkish Cypriots: unicameral "Assembly of the Republic" or Cumhuriyet Meclisi (50 seats; members directly elected in multi-seat constituencies by proportional representation vote using a hybrid d'Hondt method with voter preference for individual candidates<br>
-_elections_: area under government control; last held on 30 May 2021 (next to be held in 2026); area administered by Turkish Cypriots: last held on 23 January 2022 (next to be held in 2027)<br>
-_election results_: <br>area under government control: House of Representatives - percent of vote by party/coalition - DISY 27.8%, AKEL 22.3%, DIKO 11.3%, ELAM 6.8%, EDEK-SP 6.7%, DIPA 6.1%, Movement of Ecologists - Citizens' Cooperation 4.4%, other 14.6%; seats by party/coalition - DISY 17, AKEL 15, DIKO 9, ELAM 4, EDEK-SP 4, DIPA 4, Movement of Ecologists - Citizens' Cooperation 3; composition - men 48, women 8, percent of women 14.3%<br><br>area administered by Turkish Cypriots - "Assembly of the Republic" - percent of vote by party - UBP 39.5%, CTP 32%, DP 7.4%, HP 6.7%, YDP 6.4%, other 8%; seats by party - UBP 24, CTP 18, DP 3, HP 3, YDP 2; composition NA<br>
+_legislature name_: House of Representatives (Vouli Antiprosopon)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 80 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 5/30/2021<br>
+_parties elected and seats per party_: Democratic Rally (DISY) (17); Progressive Party of the Working People (AKEL) (15); Democratic Party (DIKO) (9); National Popular Front (ELAM) (4); Movement of Social Democrats (EDEK) (4); Democratic Alignment (DIPA) (4); Cyprus Green Party (KOP) (3)<br>
+_percentage of women in chamber_: 14.3%<br>
+_expected date of next election_: May 2026<br>
 <strong>note:</strong> the area of Cyprus that Turkish Cypriots administer has a separate unicameral Assembly of the Republic, or Cumhuriyet Meclisi (50 seats); members are directly elected in multi-seat constituencies by proportional representation vote<br>
 
 **Judicial branch**<br>
@@ -397,25 +404,25 @@ services-based, high-income EU island economy; heavy tourism; sustained growth b
 <strong>note: </strong>Even though the whole of the island is part of the EU, implementation of the EU "acquis communautaire" has been suspended in the area administered by Turkish Cypriots, known locally as the Turkish Republic of Northern Cyprus, until political conditions permit the reunification of the island. Its market-based economy is roughly one-fifth the size of its southern neighbor and is likewise dominated by the service sector with a large portion of the population employed by the government. Manufacturing is limited mainly to food and beverages, furniture and fixtures, construction materials, metal and non-metal products, textiles and clothing. Little trade exists with the Republic of Cyprus outside of construction, historically relying heavily upon Turkey for financial aid, defense, telecommunications, utilities, and postal services. The Turkish Lira is the preferred currency, though foreign currencies are widely accepted in business transactions.<br>
 
 **Real GDP (purchasing power parity)**<br>
-$46.976 billion (2023 est.)<br>
-$45.845 billion (2022 est.)<br>
-$43.637 billion (2021 est.)<br>
+$49.526 billion (2023 est.)<br>
+$48.266 billion (2022 est.)<br>
+$44.955 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.47% (2023 est.)<br>
-5.06% (2022 est.)<br>
+2.61% (2023 est.)<br>
+7.37% (2022 est.)<br>
 9.91% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$50,600 (2023 est.)<br>
-$50,200 (2022 est.)<br>
-$48,500 (2021 est.)<br>
+$53,400 (2023 est.)<br>
+$52,900 (2022 est.)<br>
+$49,900 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$32.23 billion (2023 est.)<br>
+$33.887 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -431,18 +438,18 @@ _Standard & Poors rating_: BBB- (2018)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.6% (2023 est.)<br>
-_industry_: 12.2% (2023 est.)<br>
-_services_: 74% (2023 est.)<br>
+_agriculture_: 1.2% (2023 est.)<br>
+_industry_: 10.5% (2023 est.)<br>
+_services_: 76.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 59.9% (2023 est.)<br>
-_government consumption_: 19.1% (2023 est.)<br>
-_investment in fixed capital_: 22.1% (2023 est.)<br>
-_investment in inventories_: -0.2% (2023 est.)<br>
-_exports of goods and services_: 89.4% (2023 est.)<br>
-_imports of goods and services_: -90.3% (2023 est.)<br>
+_household consumption_: 59.7% (2023 est.)<br>
+_government consumption_: 18.6% (2023 est.)<br>
+_investment in fixed capital_: 21.2% (2023 est.)<br>
+_investment in inventories_: -0.7% (2023 est.)<br>
+_exports of goods and services_: 97% (2023 est.)<br>
+_imports of goods and services_: -95.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -454,11 +461,11 @@ tourism, food and beverage processing, cement and gypsum, ship repair and refurb
 <strong>note:</strong> area administered by Turkish Cypriots - foodstuffs, textiles, clothing, ship repair, clay, gypsum, copper, furniture<br>
 
 **Industrial production growth rate**<br>
-3.16% (2023 est.)<br>
+3.11% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-693,000 (2023 est.)<br>
+738,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -487,9 +494,9 @@ _highest 10%_: 25.7% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.86% of GDP (2023 est.)<br>
-1.79% of GDP (2022 est.)<br>
-2.13% of GDP (2021 est.)<br>
+1.83% of GDP (2023 est.)<br>
+1.69% of GDP (2022 est.)<br>
+2.06% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -502,7 +509,7 @@ _expenditures_: $10.765 billion (2022 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data exclude debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment<br>
 
 **Taxes and other revenues**<br>
-24.71% (of GDP) (2022 est.)<br>
+23.33% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>

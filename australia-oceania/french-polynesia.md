@@ -269,9 +269,16 @@ _cabinet_: Council of Ministers approved by the Assembly from a list of its memb
 _elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; French Polynesia president indirectly elected by Assembly of French Polynesia for a 5-year term (no term limits)<br>
 
 **Legislative branch**<br>
-_description_: unicameral Assembly of French Polynesia or Assembl&eacute;e de la Polyn&eacute;sie fran&ccedil;aise (57 seats; members serve 5-year terms)<br>
-_elections_: Assembly of French Polynesia - last held on 16 and 30 April 2023 (next to be held in 2028)<br><br>French Senate - last held on 24 September 2023 (next to be held on 30 September 2026)<br><br>French National Assembly - last held in 2 rounds on 12 and 19 June 2022 (next to be held in 2027)<br>
-_election results_: Assembly of French Polynesia - percent of vote by party - People's Servant Party 66.7%; List of the People 26.3%, I Love Polynesia 5.3%, Rally of Mahoi People 1.8%; seats by party - People's Servant People 38; List of the People 15, I Love Polynesia 3, Rally of the Mahoi People 1, composition - men 29, women 28, percentage women 49.1%<br><br>French Senate - percent of vote by party - NA; seats by party - Popular Rally 1, People's Servant Party 1; composition - NA<br><br>French National Assembly - percent of vote by party - NA; seats by party - People's Servant Party 3; composition - NA<br>
+_legislature name_: Assembly of French Polynesia (Assembl&eacute;e de la Polyn&eacute;sie fran&ccedil;aise)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 57 (directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 4/30/2023<br>
+_parties elected and seats per party_: People's Servant People (38); List of the People (15); I Love Polynesia (3); Rally of the Mahoi People (1)<br>
+_percentage of women in chamber_: 49.1%<br>
+_expected date of next election_: 2028<br>
 <strong>note 1:</strong> elections held in two rounds; in the second round, 38 members are directly elected in multi-seat constituencies by a closed-list proportional representation vote; the party receiving the most votes gets an additional 19 seats<br><br><strong>note 2:</strong> French Polynesia indirectly elects 2 senators to the French Senate for 6-year terms with one-half the membership renewed every 3 years and directly elects 3 deputies to the French National Assembly for 5-year terms<br>
 
 **Judicial branch**<br>
@@ -351,6 +358,7 @@ _services_: 76.2% (2019 est.)<br>
 _household consumption_: 71.5% (2022 est.)<br>
 _government consumption_: 31.7% (2022 est.)<br>
 _investment in fixed capital_: 21.8% (2022 est.)<br>
+_investment in inventories_: 0% (2022 est.)<br>
 _exports of goods and services_: 21.1% (2022 est.)<br>
 _imports of goods and services_: -46.1% (2022 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -367,7 +375,7 @@ tourism, pearls, agricultural processing, handicrafts, phosphates<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-137,000 (2023 est.)<br>
+127,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>

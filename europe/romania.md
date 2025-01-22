@@ -348,9 +348,30 @@ _election results_: <em><br>2019: </em>Klaus IOHANNIS reelected president in sec
 <strong>note: </strong>Romania's constitutional court has annulled the results of the most recent presidential election in November-December 2024, which resets the election cycle. A new election is expected in early 2025.<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Parlament consists of:<br>Senate or Senat (136 seats; members directly elected in single- and multi-seat constituencies - including 2 seats for diaspora - by party-list, proportional representation vote; members serve 4-year terms)<br>Chamber of Deputies or Camera Deputatilor (330 seats; members directly elected in single- and multi-seat constituencies - including 4 seats for diaspora - by party-list, proportional representation vote; members serve 4-year terms)<br>
-_elections_: Senate - last held on 6 December 2020 (next to be held in 2024)<br>Chamber of Deputies - last held on 6 December 2020 (next to be held in 2024)<br>
-_election results_: Senate - percent of vote by party - PSD 29.3%, PNL 25.6%, 2020 USR-PLUS Alliance 15.9%, AUR 9.2%, UDMR 5.9%, other 14.1%; seats by party - PSD 47, PNL 41, 2020 USR-PLUS Alliance 25, AUR 14, UDMR 9; composition - men 111, women 24, percentage women 17.8%<br><br>Chamber of Deputies - percent of vote by party - PSD 28.9%, PNL 25.2%, 2020 USR-PLUS Alliance 15.4%, AUR 9.1%, UDMR 5.7%, other 15.7%; seats by party - PSD 110, PNL 93, 2020 USR-PLUS Alliance 55, AUR 33, UDMR 21, other 18; composition - men 265, women 63, percentage women 19.2%; total Parliament percentage women 18.8%<br>
+_legislature name_: Parliament of Romania (Parlamentul României)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: Chamber of Deputies (Camera Deputatilor)<br>
+_number of seats_: 331 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 12/1/2024<br>
+_parties elected and seats per party_: Social Democratic Party (PSD) (86); Alliance for the Union of Romanians (AUR) (63); National Liberal Party (PNL) (49); Save Romania Union (USR) (40); S.O.S. Romania (28); Party of Young People (POT) (24); Democratic Union of Hungarians in Romania (UDMR) (22)<br>
+_percentage of women in chamber_: 19.2%<br>
+_expected date of next election_: November 2028<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Senatul)<br>
+_number of seats_: 134 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 12/1/2024<br>
+_parties elected and seats per party_: Social Democratic Party (PSD) (36); Alliance for the Union of Romanians (AUR) (28); National Liberal Party (PNL) (22); Save Romania Union (USR) (19); S.O.S. Romania (12); Democratic Union of Hungarians in Romania (UDMR) (10); Party of Young People (POT) (7)<br>
+_percentage of women in chamber_: 19.4%<br>
+_expected date of next election_: November 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: High Court of Cassation and Justice (consists of 111 judges organized into civil, penal, commercial, contentious administrative and fiscal business, and joint sections); Supreme Constitutional Court (consists of 9 members)<br>
@@ -401,25 +422,25 @@ _selected World Heritage Site locales_: <p>Danube Delta (n); Churches of Moldavi
 high-income EU member economy; joined Schengen area as of March 2024; euro membership delayed over convergence criteria; persistent inflation but recovery driven by consumption and EU-funded investments; skilled labor shortage; regional economic disparities; fiscal reforms to address rising deficits<br>
 
 **Real GDP (purchasing power parity)**<br>
-$772.107 billion (2023 est.)<br>
-$755.867 billion (2022 est.)<br>
-$726.048 billion (2021 est.)<br>
+$775.064 billion (2023 est.)<br>
+$756.867 billion (2022 est.)<br>
+$727.999 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.15% (2023 est.)<br>
-4.11% (2022 est.)<br>
+2.4% (2023 est.)<br>
+3.97% (2022 est.)<br>
 5.71% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$40,500 (2023 est.)<br>
+$40,700 (2023 est.)<br>
 $39,700 (2022 est.)<br>
-$38,000 (2021 est.)<br>
+$38,100 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$351.003 billion (2023 est.)<br>
+$350.776 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -436,16 +457,16 @@ _Standard & Poors rating_: BBB- (2014)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3.9% (2023 est.)<br>
-_industry_: 27.6% (2023 est.)<br>
-_services_: 59.8% (2023 est.)<br>
+_industry_: 26.7% (2023 est.)<br>
+_services_: 60.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 62.2% (2023 est.)<br>
-_government consumption_: 16.9% (2023 est.)<br>
-_investment in fixed capital_: 26.9% (2023 est.)<br>
+_household consumption_: 61.9% (2023 est.)<br>
+_government consumption_: 17.1% (2023 est.)<br>
+_investment in fixed capital_: 27% (2023 est.)<br>
 _investment in inventories_: -1.2% (2023 est.)<br>
-_exports of goods and services_: 39.1% (2023 est.)<br>
+_exports of goods and services_: 39.2% (2023 est.)<br>
 _imports of goods and services_: -43.9% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
@@ -457,11 +478,11 @@ wheat, maize, milk, sunflower seeds, barley, potatoes, rapeseed, grapes, plums, 
 electric machinery and equipment, auto assembly, textiles and footwear, light machinery, metallurgy, chemicals, food processing, petroleum refining, mining, timber, construction materials<br>
 
 **Industrial production growth rate**<br>
-1.15% (2023 est.)<br>
+1.31% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.282 million (2023 est.)<br>
+8.28 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -494,9 +515,9 @@ _highest 10%_: 24% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.76% of GDP (2023 est.)<br>
-2.94% of GDP (2022 est.)<br>
-3.19% of GDP (2021 est.)<br>
+2.84% of GDP (2023 est.)<br>
+2.96% of GDP (2022 est.)<br>
+3.18% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -505,21 +526,21 @@ _expenditures_: $110.163 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-50.45% of GDP (2022 est.)<br>
+50.88% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-16.02% (of GDP) (2022 est.)<br>
+16.16% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$24.487 billion (2023 est.)<br>
+-$24.461 billion (2023 est.)<br>
 -$27.326 billion (2022 est.)<br>
 -$20.627 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$137.337 billion (2023 est.)<br>
+$136.488 billion (2023 est.)<br>
 $129.286 billion (2022 est.)<br>
 $115.879 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -533,7 +554,7 @@ vehicle parts/accessories, cars, insulated wire, refined petroleum, wheat (2022)
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$154.106 billion (2023 est.)<br>
+$153.427 billion (2023 est.)<br>
 $149.209 billion (2022 est.)<br>
 $132.056 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>

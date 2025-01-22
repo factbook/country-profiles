@@ -349,9 +349,16 @@ _elections/appointments_: president indirectly elected by COR to serve a 4-year 
 _election results_: <em><br>2022: </em>Latif RASHID elected president in second round; COR vote in first round - Latif RASHID (PUK) 157, Barham SALIH (PUK) 99; COR vote in second round - Latif RASHID 167, Barham SALIH 99; Mohammed Shia' al-SUDANI approved as prime minister<em><br><br>2018:</em> Barham SALIH elected president in second round; COR vote in first round - Barham SALIH (PUK) 165, Fuad HUSAYN (KDP) 90; COR vote in second round - Barham SALIH 219, Fuad HUSAYN 22; Adil ABD AL-MAHDI approved as prime minister<br>
 
 **Legislative branch**<br>
-_description_: unicameral Council of Representatives of Iraq (COR) or Majlis an-Nuwwab al-Iraqiyy (329 seats; 320 members directly elected in 83 multi-seat constituencies by single nontransferable vote, 9 seats elected by religious minorities - 5 by Christians, 1 each by Sabaean-Mandaeans, Yazidis, Shabaks andFayli Kurds, and 25% of seats allocated to women; members serve 4-year terms)<br>
-_elections_: last held on 10 October 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party/coalition - NA; seats by party/coalition - Taqadum 47, State of Law Coalition 43, Al Fatah Alliance 37, Kurdistan Democratic Party 31, Kurdistan Coalition 18, Azm Alliance 16, Imtidad 16, State Forces Alliance 11, Ishraqat Kanun 10, New Generation Movement 9, National Contract Party 8, Tasmim Alliance 7, Babiliyun Movement 3, other 73; composition - men 234, women 95, percentage women 29.2%<br>
+_legislature name_: Council of Representatives of Iraq<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 329 (all directly elected)<br>
+_electoral system_: other systems<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 10/10/2021<br>
+_parties elected and seats per party_: Sadrist Bloc (73); National Progress Alliance / Taqadum (37); State of Law Coalition (33); Kurdistan Democratic Party (31); Fatah Alliance (17); Kurdistan Alliance (17); Independents (43); Other (78)<br>
+_percentage of women in chamber_: 28.9%<br>
+_expected date of next election_: October 2025<br>
 <strong>note:</strong> seat counts reflect updated numbers following the 12 June 2022 Sadrist Trend withdrawal from government formation; its 73 seats were reallocated to other parties<br>
 
 **Judicial branch**<br>
@@ -374,7 +381,7 @@ _email address and website_: <br>washington@scrdiraq.gov.iq<br><br>https://www.i
 _consulate(s) general_: Detroit, Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Alina L. ROMANOWSKI (since 2 June 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Elizabeth TRUDEAU (since 7 December 2024)<br>
 _embassy_: Al-Kindi Street, International Zone, Baghdad; note - consulate in Al Basrah closed as of 28 September 2018<br>
 _mailing address_: 6060 Baghdad Place, Washington DC&nbsp; 20521-6060<br>
 _telephone_: 0760-030-3000<br>

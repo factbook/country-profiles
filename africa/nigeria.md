@@ -351,9 +351,30 @@ _election results_: <br><em>2023:</em> Bola Ahmed Adekunle TINUBU elected presid
 <strong>Note </strong>- the president is chief of state, head of government, and commander-in-chief of the armed forces<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Assembly consists of:<br>Senate (109 seats - 3 each for the 36 states and 1 for Abuja-Federal Capital Territory; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>House of Representatives (360 seats statutory, 258 current; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: Senate - last held on 25 February 2023 (next to be held in February 2027)<br>House of Representatives - last held on 25 February 2023 (next to be held in February 2027) <p> </p><br>
-_election results_: Senate - percent of vote by party - NA; seats by party - APC 59, PDP 36, LP 8, NNPP 2, SDP 2, YPP 1, APGA 1; composition - men 105, women 4, percentage women 3.7%<em><em><br><br></em></em>House of Representatives - percent of vote by party - NA; seats by party - APC 178, PDP 114, LP 35, NNPP 19, APGA 5, other 7, vacant 2; composition - men 344, women 14, percentage women 3.8%; note - total National Assembly percentage women 3.9% <p> </p><br>
+_legislature name_: National Assembly<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives<br>
+_number of seats_: 360 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 2/25/2023<br>
+_parties elected and seats per party_: All Progressives Congress (APC) (180); People's Democratic Party (PDP) (116); Labour Party (LP) (35); New Nigeria Peoples Party (NNPP) (19); Other (10)<br>
+_percentage of women in chamber_: 3.9%<br>
+_expected date of next election_: February 2027<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate<br>
+_number of seats_: 109 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 2/25/2023<br>
+_parties elected and seats per party_: All Progressives Congress (APC) (59); People's Democratic Party (PDP) (36); Labour Party (LP) (8); Other (6)<br>
+_percentage of women in chamber_: 3.7%<br>
+_expected date of next election_: February 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 15 justices)<br>
@@ -416,13 +437,13 @@ $1.2 trillion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$5,700 (2023 est.)<br>
-$5,700 (2022 est.)<br>
-$5,600 (2021 est.)<br>
+$5,600 (2023 est.)<br>
+$5,600 (2022 est.)<br>
+$5,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$362.815 billion (2023 est.)<br>
+$363.846 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -463,7 +484,7 @@ crude oil, coal, tin, columbite; rubber products, wood; hides and skins, textile
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-75.721 million (2023 est.)<br>
+78.812 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -496,8 +517,8 @@ _highest 10%_: 26.7% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-5.65% of GDP (2023 est.)<br>
-4.26% of GDP (2022 est.)<br>
+5.37% of GDP (2023 est.)<br>
+4.22% of GDP (2022 est.)<br>
 4.42% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -512,7 +533,7 @@ _expenditures_: $59.868 billion (2019 est.)<br>
 3.4% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
--$805.777 million (2023 est.)<br>
+$6.023 billion (2023 est.)<br>
 $1.019 billion (2022 est.)<br>
 -$3.254 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
@@ -532,7 +553,7 @@ crude petroleum, natural gas, fertilizers, refined petroleum, gold (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$72.251 billion (2023 est.)<br>
+$65.423 billion (2023 est.)<br>
 $77.049 billion (2022 est.)<br>
 $67.478 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -552,7 +573,7 @@ $36.73 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$37.911 billion (2022 est.)<br>
+$47.022 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

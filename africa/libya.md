@@ -328,9 +328,14 @@ _head of government_: GNU Interim Prime Minister Abd-al-Hamid DUBAYBAH (since 5 
 _elections/appointments_: <p>Libya’s first direct presidential election, scheduled for 24 December 2021, was not held; no new date has been set for elections</p><br>
 
 **Legislative branch**<br>
-_description_: unicameral House of Representatives (Majlis Al Nuwab) or HoR (200 seats; members directly elected by majority vote; member term NA)<br>
-_elections_: last held on 25 June 2014<br>
-_election results_: percent of vote by party - NA; seats by party - NA; note - only 188 of the 200 seats were filled in the June 2014 election because of boycotts and lack of security at some polling stations; some elected members of the House of Representatives also boycotted the election<br>
+_legislative structure_: unicameral<br>
+_chamber name_: House of Representatives (Majlis Al-Nuwaab)<br>
+_number of seats_: 200 (all directly elected)<br>
+_electoral system_: other systems<br>
+_scope of elections_: full renewal<br>
+_most recent election date_: 6/25/2014<br>
+_percentage of women in chamber_: 16.5%<br>
+_expected date of next election_: December 2025<br>
 <strong>note:</strong> 32 seats are reserved for women<br>
 
 **Judicial branch**<br>
@@ -378,25 +383,25 @@ _selected World Heritage Site locales_: Archaeological Site of Cyrene; Archaeolo
 upper middle-income, fossil fuel-based North African economy; 31% economic contraction due to COVID-19 and 2020 oil blockade; reduced government spending; central bank had to devalue currency; public wages are over 60% of expenditures<br>
 
 **Real GDP (purchasing power parity)**<br>
-$121.951 billion (2023 est.)<br>
-$124.026 billion (2022 est.)<br>
-$122.39 billion (2021 est.)<br>
+$91.161 billion (2023 est.)<br>
+$82.756 billion (2022 est.)<br>
+$90.199 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--1.67% (2023 est.)<br>
-1.34% (2022 est.)<br>
+10.16% (2023 est.)<br>
+-8.25% (2022 est.)<br>
 153.49% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$17,700 (2023 est.)<br>
-$18,200 (2022 est.)<br>
-$18,200 (2021 est.)<br>
+$12,500 (2023 est.)<br>
+$11,500 (2022 est.)<br>
+$12,600 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$50.492 billion (2023 est.)<br>
+$45.096 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -406,18 +411,18 @@ $50.492 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.6% (2023 est.)<br>
-_industry_: 85% (2023 est.)<br>
-_services_: 46.6% (2023 est.)<br>
+_agriculture_: 1.8% (2023 est.)<br>
+_industry_: 77.3% (2023 est.)<br>
+_services_: 25.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 26.1% (2023 est.)<br>
-_government consumption_: 31.8% (2023 est.)<br>
-_investment in fixed capital_: 16.1% (2018 est.)<br>
-_investment in inventories_: -1.4% (2023 est.)<br>
-_exports of goods and services_: 68.6% (2023 est.)<br>
-_imports of goods and services_: -41.3% (2023 est.)<br>
+_household consumption_: 32.4% (2023 est.)<br>
+_government consumption_: 35.3% (2023 est.)<br>
+_investment in fixed capital_: 16.5% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
+_exports of goods and services_: 85.1% (2023 est.)<br>
+_imports of goods and services_: -70.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -428,11 +433,11 @@ potatoes, watermelons, tomatoes, onions, dates, milk, olives, chicken, wheat, ve
 petroleum, petrochemicals, aluminum, iron and steel, food processing, textiles, handicrafts, cement<br>
 
 **Industrial production growth rate**<br>
-12.54% (2023 est.)<br>
+17.77% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.398 million (2023 est.)<br>
+2.534 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -448,9 +453,9 @@ _female_: 68% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
+0% of GDP (2023 est.)<br>
 0% of GDP (2022 est.)<br>
 0% of GDP (2021 est.)<br>
-0% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>

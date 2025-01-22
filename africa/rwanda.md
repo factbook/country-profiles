@@ -344,9 +344,29 @@ _elections/appointments_: president directly elected by simple majority popular 
 _election results_: <em><br>2024: </em>Paul KAGAME reelected president; Paul KAGAME (RPF) 99.2%, Frank HABINEZA (DGPR) 0.5%, Philippe MPAYIMANA (independent) 0.3%<br><br><em>2017:</em> Paul KAGAME reelected president; Paul KAGAME (RPF) 98.8%, Philippe MPAYIMANA (independent), other 1.2%<br><br> <p> </p><br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate or Senat (26 seats; 12 members indirectly elected by local councils, 8 appointed by the president, 4 appointed by the Political Organizations Forum - a body of registered political parties, and 2 selected by institutions of higher learning; members serve 8-year terms)<br><br>Chamber of Deputies or Chambre des Deputes (80 seats; 53 members directly elected by proportional representation vote, 24 women selected by special interest groups, and 3 selected by youth and disability organizations; members serve 5-year terms)<br>
-_elections_: Senate - last held on 16-18 September 2019 (next to be held 30 September 2024)<br>Chamber of Deputies - last held on 15 July 2024 (next to be held 31 July 2029)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 17, women 9, percentage women 34.6%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - FPR 37, PSD 5, PL 5, DGPR 2, PDI 2, PS 2 composition - men 36, women 44, percentage women 55%; total Parliament percentage women 50% <p> </p><br>
+_legislature name_: Parlement (Parliament)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: Chamber of Deputies (Chambre des Députés)<br>
+_number of seats_: 80 (53 directly elected; 27 indirectly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 7/15/2024 to 7/16/2024<br>
+_parties elected and seats per party_: Rwandan Patriotic Front (FPR) and its allies (37); Liberal Party (PL) (5); Social Democratic Party (PSD) (5); Other (6)<br>
+_percentage of women in chamber_: 63.8%<br>
+_expected date of next election_: July 2029<br>
+<strong>note:</strong> 24 women are selected for seats by special-interest groups, and 3 members are selected by youth and disability organizations<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Sénat)<br>
+_number of seats_: 26 (18 indirectly elected; 8 appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 9/16/2024 to 9/17/2024<br>
+_percentage of women in chamber_: 53.8%<br>
+_expected date of next election_: September 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief and deputy chief justices and 5 judges; normally organized into 3-judge panels); High Court (consists of the court president, vice president, and a minimum of 24 judges and organized into 5 chambers)<br>

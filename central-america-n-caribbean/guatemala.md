@@ -335,9 +335,16 @@ _election results_: <em><br>2023:</em> Bernardo ARÉVALO de León elected presid
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: unicameral Congress of the Republic or Congreso de la Republica (160 seats; 128 members directly elected in multi-seat constituencies in the country's 22 departments and 32 directly elected in a single nationwide constituency by closed party-list proportional representation vote, using the D'Hondt method; members serve 4-year terms)<br>
-_elections_: last held on 25 June 2023 (next to be held in June 2027)<br>
-_election results_: percent of vote by party - NA; seats by party - VAMOS 39, UNE 28, SEMILLA 23, CABAL 18, Valor-Unionist 12, VIVA 11, TODOS 6, VOS 4, BIEN 4, CREO 3, PPN 3, Victoria 3, Blue 2, Elephant 2, Change 1, Winaq-URNG 1; composition - men 128, women 32, percentage women 20%<br>
+_legislature name_: Congress of the Republic (Congreso de la República)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 160 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 6/25/2023<br>
+_parties elected and seats per party_: Let’s Go for a Different Guatemala (Vamos) (39); National Unity of Hope Party (UNE) (28); Seed Movement (Semilla) (23); Cabal (18); Vision with Values (VIVA) (11); Other (41)<br>
+_percentage of women in chamber_: 20%<br>
+_expected date of next election_: June 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (consists of 13 magistrates, including the court president and organized into 3 chambers); note - the court president also supervises trial judges countrywide; note - the Constitutional Court or Corte de Constitucionalidad of Guatemala resides outside the country's judicial system; its sole purpose is the interpretation of the constitution and to see that the laws and regulations are not superior to the constitution (consists of 5 titular magistrates and 5 substitute magistrates)<br>
@@ -389,25 +396,25 @@ _selected World Heritage Site locales_: Antigua Guatemala (c); Tikal National Pa
 developing Central American economy; steady economic growth fueled by remittances; high poverty and income inequality; limited government services, lack of employment opportunities, and frequent natural disasters impede human development efforts and drive emigration<br>
 
 **Real GDP (purchasing power parity)**<br>
-$223.183 billion (2023 est.)<br>
-$215.668 billion (2022 est.)<br>
-$207.138 billion (2021 est.)<br>
+$224.556 billion (2023 est.)<br>
+$216.906 billion (2022 est.)<br>
+$208.163 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.48% (2023 est.)<br>
-4.12% (2022 est.)<br>
+3.53% (2023 est.)<br>
+4.2% (2022 est.)<br>
 8% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$12,700 (2023 est.)<br>
-$12,400 (2022 est.)<br>
-$12,100 (2021 est.)<br>
+$12,400 (2023 est.)<br>
+$12,200 (2022 est.)<br>
+$11,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$102.05 billion (2023 est.)<br>
+$104.45 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -423,18 +430,18 @@ _Standard & Poors rating_: BB- (2017)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 9.2% (2023 est.)<br>
-_industry_: 22.2% (2023 est.)<br>
-_services_: 62.4% (2023 est.)<br>
+_agriculture_: 9.8% (2023 est.)<br>
+_industry_: 22.3% (2023 est.)<br>
+_services_: 61.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 87.8% (2023 est.)<br>
-_government consumption_: 11.6% (2023 est.)<br>
-_investment in fixed capital_: 16.6% (2023 est.)<br>
-_investment in inventories_: -0.2% (2023 est.)<br>
-_exports of goods and services_: 17.2% (2023 est.)<br>
-_imports of goods and services_: -32.9% (2023 est.)<br>
+_household consumption_: 87.4% (2023 est.)<br>
+_government consumption_: 11.2% (2023 est.)<br>
+_investment in fixed capital_: 16.2% (2023 est.)<br>
+_investment in inventories_: 0.3% (2023 est.)<br>
+_exports of goods and services_: 16.6% (2023 est.)<br>
+_imports of goods and services_: -31.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -445,11 +452,11 @@ sugarcane, bananas, oil palm fruit, maize, cantaloupes/melons, potatoes, milk, t
 sugar, textiles and clothing, furniture, chemicals, petroleum, metals, rubber, tourism<br>
 
 **Industrial production growth rate**<br>
-1.91% (2023 est.)<br>
+1.66% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-7.258 million (2023 est.)<br>
+7.442 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -478,13 +485,13 @@ _on alcohol and tobacco_: 1.3% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7% (2014 est.)<br>
-_highest 10%_: 38.1% (2014 est.)<br>
+_highest 10%_: 38% (2014 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-19.46% of GDP (2023 est.)<br>
-19.16% of GDP (2022 est.)<br>
-17.9% of GDP (2021 est.)<br>
+19.13% of GDP (2023 est.)<br>
+19.04% of GDP (2022 est.)<br>
+17.82% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -497,17 +504,17 @@ _expenditures_: $15.376 billion (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-11.9% (of GDP) (2022 est.)<br>
+11.82% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$3.281 billion (2023 est.)<br>
+$3.232 billion (2023 est.)<br>
 $1.197 billion (2022 est.)<br>
 $1.89 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$17.308 billion (2023 est.)<br>
+$17.328 billion (2023 est.)<br>
 $18.141 billion (2022 est.)<br>
 $15.246 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -521,7 +528,7 @@ garments, coffee, bananas, palm oil, raw sugar (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$33.041 billion (2023 est.)<br>
+$33.024 billion (2023 est.)<br>
 $33.939 billion (2022 est.)<br>
 $27.343 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -541,7 +548,7 @@ $20.935 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$10.336 billion (2022 est.)<br>
+$12.243 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

@@ -331,10 +331,31 @@ _election results_: <br><em>2016:</em> Jovenel MOÏSE elected president in first
 <strong>note:</strong> former Prime Minister Ariel HENRY, who had assumed executive responsibilities following the assassination of President MOÏSE on 7 July 2021, resigned on 24 April 2024; a nine-member Presidential Transitional Council, equipped with presidential powers, was sworn in on 25 April 2024 and will remain in place until 7 February 2026<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Assembly or the Assemblée nationale consists of:<br>Senate or le Sénat de la République (30 seats; 0 filled as of January 2023); members directly elected in multi-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms (2-term limit) with one-third of the membership renewed every 2 years)<br>Chamber of Deputies or Chambre des députés (119 seats; 0 filled as of January 2023; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms; no term limits)<br>
-_elections_: Senate - last held on 20 November 2016 with a runoff on 29 January 2017 (next originally scheduled for 27 October 2019 but postponed until political and civil society actors agree to a consensual process) <br>Chamber of Deputies - last held on 9 August 2015 with runoff on 25 October 2015 and 20 November 2016 (next originally scheduled for 27 October 2019 but postponed until political and civil society actors agree to a consensual process)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - NA<br>Chamber of Deputies - percent of vote by party - NA; seats by party - NA; composition - NA<br>
+_legislature name_: National Assembly (Assemblée nationale)<br>
+_legislative structure_: bicameral<br>
 <strong>note 1:</strong> when the two chambers meet collectively, it is known as the National Assembly (or L'Assemblée nationale) and is convened for specific purposes spelled out in the constitution<br><strong><br>note 2:</strong> as of October 2024, the Senate and Chamber of Deputies were not functional<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: Chamber of Deputies (Chambre des Députés)<br>
+_number of seats_: 119 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 8/9/2015 to 10/25/2015<br>
+_parties elected and seats per party_: Haitian Tet Kale Party (PHTK) (9); Konvansyon Inite Demokratik (KID) (7); Ayiti an aksyon (AAA) (6); Fanmi Lavalas (6); Patriotic Unity Party (Inite Patriyotik) (4); People's Struggle Party (OPL) (7); Other (24)<br>
+_percentage of women in chamber_: 0%<br>
+_expected date of next election_: December 2025<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Sénat)<br>
+_number of seats_: 30 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: partial renewal<br>
+_term in office_: 6 years<br>
+_most recent election date_: 11/20/2016 to 1/29/2017<br>
+_parties elected and seats per party_: Haitian Tet Kale Party (PHTK) (9); Truth (Vérité) (3); Konvansyon Inite Demokratik (KID) (2); Bouclier (2); Ayiti an aksyon (AAA) (2); Other (10)<br>
+_percentage of women in chamber_: 0%<br>
+_expected date of next election_: December 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour de cassation (currently 11 of 12 judges as prescribed by the constitution, 8 of whom were appointed in March 2023); note - Haiti is a member of the Caribbean Court of Justice; Constitutional Court, called for in the 1987 constitution but not yet established; High Court of Justice, for trying high government officials - currently not functional<br>
@@ -357,7 +378,7 @@ _email address and website_: <br>amb.washington@diplomatie.ht<br><br>https://www
 _consulate(s) general_: Atlanta, Boston, Chicago, Miami, Orlando (FL), New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador-designate Dennis HANKINS (since 14 March 2024); note - as of March 2024, Haiti has no government official to whom the Ambassador-designate can present his credentials <br><br>
+_chief of mission_: Ambassador Dennis HANKINS (since 3 May 2024) <br><br>
 _embassy_: Tabarre 41, Route de Tabarre, Port-au-Prince<br>
 _mailing address_: 3400 Port-au-Prince Place, Washington, DC 20521-3400<br>
 _telephone_: [011] (509) 2229-8000<br>
@@ -397,7 +418,7 @@ $35.659 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$2,900 (2023 est.)<br>
+$3,000 (2023 est.)<br>
 $3,000 (2022 est.)<br>
 $3,100 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
@@ -422,6 +443,7 @@ _services_: 47.8% (2023 est.)<br>
 _household consumption_: 100.2% (2023 est.)<br>
 _government consumption_: 6.2% (2023 est.)<br>
 _investment in fixed capital_: 13.9% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
 _exports of goods and services_: 5.3% (2023 est.)<br>
 _imports of goods and services_: -25.5% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -438,7 +460,7 @@ textiles, sugar refining, flour milling, cement, light assembly using imported p
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.238 million (2023 est.)<br>
+5.216 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -454,7 +476,7 @@ _female_: 46.6% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
-21.4% of GDP (2023 est.)<br>
+18.91% of GDP (2023 est.)<br>
 18.75% of GDP (2022 est.)<br>
 19.13% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -470,15 +492,15 @@ _expenditures_: $1.527 billion (2020 est.)<br>
 18.2% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
+-$682.57 million (2023 est.)<br>
 -$491.954 million (2022 est.)<br>
 $87.656 million (2021 est.)<br>
-$51.548 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$1.095 billion (2023 est.)<br>
 $1.355 billion (2022 est.)<br>
 $1.272 billion (2021 est.)<br>
-$1.018 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -490,9 +512,9 @@ garments, essential oils, scrap iron, bedding, tropical fruits (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$5.303 billion (2023 est.)<br>
 $5.451 billion (2022 est.)<br>
 $5.048 billion (2021 est.)<br>
-$4.177 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -504,13 +526,13 @@ refined petroleum, rice, cotton fabric, garments, plastic products (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$2.368 billion (2022 est.)<br>
-$2.734 billion (2021 est.)<br>
-$2.59 billion (2020 est.)<br>
+$2.586 billion (2023 est.)<br>
+$2.173 billion (2022 est.)<br>
+$2.457 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$1.645 billion (2022 est.)<br>
+$2.13 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

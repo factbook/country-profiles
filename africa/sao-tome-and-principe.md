@@ -324,15 +324,22 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Carlos Manuel VILA NOVA (since 2 October 2021)<br>
-_head of government_: Prime Minister Patrice TROVOADA (since 11 November 2022)<br>
+_head of government_: Prime Minister Am&eacute;rico d'Oliveira DOS RAMOS (since 12 January 2025)&nbsp;&nbsp;<br>
 _cabinet_: Council of Ministers proposed by the prime minister, appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 18 July 2021 with a runoff on 5 September 2021 (next to be held in 2026); prime minister chosen by the National Assembly and approved by the president<br>
 _election results_: <br><em>2021: </em>Carlos Manuel VILA NOVA elected president in the second round; percent of vote in the first round - Carlos Manuel VILA NOVA (IDA) 39.5%; Guilherme POSSER DA COSTA (MLSTP-PSD) 20.8%; Delfim NEVES (PCD-GR) 16.9%; Abel BOM JESUS (independent) 3.6%; Maria DAS NEVES (independent) 3.3%; other 15.9%; percent of the vote in second round - Carlos Manuel VILA NOVA 57.5%, Guilherme POSSER DA COSTA 42.5%<em><br><br><em>2016: </em></em>Evaristo CARVALHO elected president; percent of vote - Evaristo CARVALHO (ADI) 49.8%, Manuel Pinto DA COSTA (independent) 24.8%, Maria DAS NEVES (MLSTP-PSD) 24.1%; note - first round results for CARVALHO were revised downward from just over 50%, prompting the 7 August runoff; however, on 1 August 2016 DA COSTA withdrew from the runoff, citing voting irregularities, and Evaristo CARVALHO was declared the winner<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Assembleia Nacional (55 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 25 September 2022 (next to be held 30 September 2026)<br>
-_election results_: percent of vote by party - ADI 46.8%, MLSTP-PSD 32.7%, MCI-PS-PUN 6.6%, BASTA Movement 8.8%, other 5.1%; seats by party - ADI 30, MLSTP-PSD 18, MCI-PS-PUN 5, BASTA Movement 2; composition - men 47, women 8, percentage women 14.6%<br>
+_legislature name_: National Assembly (Assembleia Nacional)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 55 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 9/25/2022<br>
+_parties elected and seats per party_: Independent Democratic Alliance (ADI) (30); Sao Tome and Principe Liberation Movement/Social Democratic Party (MLSTP - PSD) (18); Movement of Independent Citizens - Socialist Party (MCI - PS) - National Unity Party (PUN) (5); Other (2)<br>
+_percentage of women in chamber_: 14.5%<br>
+_expected date of next election_: September 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Supremo Tribunal Justica (consists of 5 judges); Constitutional Court or Tribunal Constitucional (consists of 5 judges, 3 of whom are from the Supreme Court)<br>
@@ -374,14 +381,14 @@ _lyrics/music_: Alda Neves DA GRACA do Espirito Santo/Manuel dos Santos Barreto 
 lower middle-income Central African island economy; falling cocoa production due to drought and mismanagement; joint oil venture with Nigeria; government owns 90% of land; high debt, partly from fuel subsidies; tourism gutted by COVID-19<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.267 billion (2023 est.)<br>
-$1.273 billion (2022 est.)<br>
+$1.279 billion (2023 est.)<br>
+$1.275 billion (2022 est.)<br>
 $1.272 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--0.47% (2023 est.)<br>
-0.07% (2022 est.)<br>
+0.37% (2023 est.)<br>
+0.17% (2022 est.)<br>
 1.9% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
@@ -392,7 +399,7 @@ $5,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$603.241 million (2023 est.)<br>
+$678.976 million (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -402,9 +409,9 @@ $603.241 million (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 13.9% (2022 est.)<br>
-_industry_: 4.4% (2022 est.)<br>
-_services_: 79% (2022 est.)<br>
+_agriculture_: 13.7% (2023 est.)<br>
+_industry_: 2.8% (2023 est.)<br>
+_services_: 75.9% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -423,11 +430,11 @@ plantains, oil palm fruit, taro, bananas, fruits, cocoa beans, coconuts, yams, c
 light construction, textiles, soap, beer, fish processing, timber<br>
 
 **Industrial production growth rate**<br>
-6.59% (2022 est.)<br>
+-2.06% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-76,000 (2023 est.)<br>
+77,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -456,8 +463,8 @@ _highest 10%_: 32.8% (2017 est.)<br>
 <strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.35% of GDP (2023 est.)<br>
-1.87% of GDP (2022 est.)<br>
+1.47% of GDP (2023 est.)<br>
+1.88% of GDP (2022 est.)<br>
 2.02% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -507,22 +514,22 @@ refined petroleum, ships, electric generating sets, rice, cars (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$46.247 million (2023 est.)<br>
 $64.476 million (2022 est.)<br>
 $75.017 million (2021 est.)<br>
-$75.288 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$249.404 million (2022 est.)<br>
+$352.814 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: dobras (STD) per US dollar -<br>
+22.658 (2023 est.)<br>
 23.29 (2022 est.)<br>
 20.71 (2021 est.)<br>
 21.507 (2020 est.)<br>
 21.885 (2019 est.)<br>
-20.751 (2018 est.)<br>
 
 ## Energy
 

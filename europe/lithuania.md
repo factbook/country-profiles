@@ -334,9 +334,16 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2024: </em>Gitanas NAUSEDA elected president in second round; percent of vote -Gitanas NAUSEDA (independent) 75.6%, Ingrida SIMONYTE (TS-LKD) 24.4%<br><em><br>2019:</em> Gitanas NAUSEDA elected president in second round; percent of vote - Gitanas NAUSEDA (independent) 66.7%, Ingrida SIMONYTE (independent) 33.3%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament or Seimas (141 seats; 71 members directly elected in single-seat constituencies by absolute majority vote and 70 directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 13 October 2024 first round (next to be held on 27 October 2024 - second round)<br>
-_election results_: preliminary first-round results percent of vote by party - LSDP 19.4%, TS-LKD 18%, NA 15%, DSVL 9.2%, LRLS 7.7%, LVZS 7%, LLRA-KSS 6%; seats by party - LSDP 20, TS-LKD 18, NA 15, DSVL 8, LRLS 8, LVZS 6, LLRA-KSS 2, Independents 1<br>
+_legislature name_: Parliament (Seimas)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 141 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 10/13/2024 to 10/27/2024<br>
+_parties elected and seats per party_: Lithuanian Social Democratic Party (LSDP) (52); Homeland Union - Lithuanian Christian Democrats (TS-LKD) (28); Political Party "The Dawn of Nemunas" (PPNA) (20); Union of Democrats “For Lithuania” (DSVL) (14); Liberals Movement of the Republic of Lithuania (LS) (12); Lithuanian Farmers and Greens Union (LVŽS) (8); Other (7)<br>
+_percentage of women in chamber_: 28.4%<br>
+_expected date of next election_: October 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 37 judges); Constitutional Court (consists of 9 judges)<br>
@@ -386,25 +393,25 @@ _selected World Heritage Site locales_: Vilnius Historic Center; Curonian Spit; 
 high-income EU and eurozone member, largest Baltic economy; growth stalled due to Ukraine war impact on energy, exports, and fiscal spending for defense and refugee support; rebound supported by EU fund-driven investments and reduced inflation; structural challenges include pension reform, labor market inefficiencies, health care, and education spending<br>
 
 **Real GDP (purchasing power parity)**<br>
-$132.712 billion (2023 est.)<br>
-$133.159 billion (2022 est.)<br>
-$129.987 billion (2021 est.)<br>
+$134.219 billion (2023 est.)<br>
+$133.761 billion (2022 est.)<br>
+$130.451 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--0.34% (2023 est.)<br>
-2.44% (2022 est.)<br>
+0.34% (2023 est.)<br>
+2.54% (2022 est.)<br>
 6.28% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$46,200 (2023 est.)<br>
-$47,000 (2022 est.)<br>
-$46,400 (2021 est.)<br>
+$46,700 (2023 est.)<br>
+$47,200 (2022 est.)<br>
+$46,600 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$77.836 billion (2023 est.)<br>
+$79.79 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -420,18 +427,18 @@ _Standard & Poors rating_: A+ (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 3% (2023 est.)<br>
-_industry_: 24.1% (2023 est.)<br>
+_agriculture_: 2.7% (2023 est.)<br>
+_industry_: 24.2% (2023 est.)<br>
 _services_: 63.1% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 58.8% (2023 est.)<br>
-_government consumption_: 17.7% (2023 est.)<br>
-_investment in fixed capital_: 23.3% (2023 est.)<br>
-_investment in inventories_: -3.6% (2023 est.)<br>
-_exports of goods and services_: 78.5% (2023 est.)<br>
-_imports of goods and services_: -74.7% (2023 est.)<br>
+_household consumption_: 57.3% (2023 est.)<br>
+_government consumption_: 17.3% (2023 est.)<br>
+_investment in fixed capital_: 23.7% (2023 est.)<br>
+_investment in inventories_: -1.7% (2023 est.)<br>
+_exports of goods and services_: 76.5% (2023 est.)<br>
+_imports of goods and services_: -72.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -442,11 +449,11 @@ wheat, milk, rapeseed, sugar beets, barley, potatoes, beans, triticale, oats, pe
 metal-cutting machine tools, electric motors, televisions, refrigerators and freezers, petroleum refining, shipbuilding (small ships), furniture, textiles, food processing, fertilizer, agricultural machinery, optical equipment, lasers, electronic components, computers, amber jewelry, information technology, video game development, app/software development, biotechnology<br>
 
 **Industrial production growth rate**<br>
--2.17% (2023 est.)<br>
+-1.39% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.51 million (2023 est.)<br>
+1.519 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -479,7 +486,7 @@ _highest 10%_: 29.1% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.25% of GDP (2023 est.)<br>
+1.22% of GDP (2023 est.)<br>
 1.04% of GDP (2022 est.)<br>
 1.16% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -490,7 +497,7 @@ _expenditures_: $24.219 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-36.05% of GDP (2022 est.)<br>
+36.04% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
@@ -498,15 +505,15 @@ _expenditures_: $24.219 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$1.506 billion (2023 est.)<br>
--$3.874 billion (2022 est.)<br>
-$766.788 million (2021 est.)<br>
+$878.388 million (2023 est.)<br>
+-$4.322 billion (2022 est.)<br>
+$985.051 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$61.101 billion (2023 est.)<br>
-$61.444 billion (2022 est.)<br>
-$53.397 billion (2021 est.)<br>
+$61.02 billion (2023 est.)<br>
+$61.448 billion (2022 est.)<br>
+$53.297 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -518,9 +525,9 @@ refined petroleum, furniture, plastic products, natural gas, wheat (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$58.104 billion (2023 est.)<br>
-$62.853 billion (2022 est.)<br>
-$50.377 billion (2021 est.)<br>
+$57.899 billion (2023 est.)<br>
+$62.916 billion (2022 est.)<br>
+$50.295 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

@@ -328,13 +328,20 @@ _chief of state_: Notification Statement: the United States does not recognize N
 _head of government_: President Nicolas MADURO Moros (since 19 April 2013)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 28 July 2024 (next to be held in 2030)<br>
-_election results_: <em><br>2024:</em> official results disputed; Nicolas MADURO Moros was declared the winner by the MADURO-controlled National Electoral Council; percent of vote - Nicolas MADURO Moros (PSUV) 52%, Edmundo GONZÁLEZ Urrutia (Independent) 43.2%, Luis Eduardo MARTÍNEZ (AD) 1.2%, other 3.6%; note – given overwhelming evidence, including more than 80% of the tally sheets received directly from polling stations throughout Venezuela indicating that GONZÁLEZ received the most votes by an insurmountable margin, the United States recognizes that GONZÁLEZ won the most votes in the 28 July 2024 presidential election<br><br><em>2018: </em>Nicolas MADURO Moros reelected president; percent of vote - Nicolas MADURO Moros (PSUV) 67.9%, Henri FALCON (AP) 20.9%, Javier BERTUCCI 10.8%; note - the election was reportedly marred by serious shortcomings and electoral fraud<br><br><em>2013:</em> Nicolas MADURO Moros elected president; percent of vote - Nicolas MADURO Moros (PSUV) 50.6%, Henrique CAPRILES Radonski (PJ) 49.1%, other 0.3%<br>
+_election results_: <em>2024:</em> official results disputed; Nicolas MADURO Moros was declared the winner by the MADURO-controlled National Electoral Council; percent of vote - Nicolas MADURO Moros (PSUV) 52%, Edmundo GONZÁLEZ Urrutia (Independent) 43.2%, Luis Eduardo MARTÍNEZ (AD) 1.2%, other 3.6%; note – given overwhelming evidence, including more than 80% of the tally sheets received directly from polling stations throughout Venezuela indicating that GONZÁLEZ received the most votes by an insurmountable margin, the United States recognizes that GONZÁLEZ won the most votes in the 28 July 2024 presidential election<br><br><em>2018: </em>Nicolas MADURO Moros reelected president; percent of vote - Nicolas MADURO Moros (PSUV) 67.9%, Henri FALCON (AP) 20.9%, Javier BERTUCCI 10.8%; note - the election was reportedly marred by serious shortcomings and electoral fraud<br><br><em>2013:</em> Nicolas MADURO Moros elected president; percent of vote - Nicolas MADURO Moros (PSUV) 50.6%, Henrique CAPRILES Radonski (PJ) 49.1%, other 0.3%<br>
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Asamblea Nacional (277 seats; 3 seats reserved for indigenous peoples of Venezuela; members serve 5-year terms)<br>
-_elections_: last held on 6 December 2020 (next expected to be held in December 2025)<br>
-_election results_: percent of vote by party - GPP (pro-government) 69.3%, Democratic Alliance (opposition coalition) 17.7%, other 13%; seats by party - GPP 253, Democratic Alliance 18, indigenous peoples 3, other 3; composition - NA<br>
+_legislature name_: National Assembly (Asamblea Nacional)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 167 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 12/6/2015<br>
+_parties elected and seats per party_: Democratic Unity Roundtable alliance (MUD) (109); United Socialist Party of Venezuela (PSUV) (55)<br>
+_percentage of women in chamber_: 22.2%<br>
+_expected date of next election_: December 2025<br>
 <strong>note:</strong> in 2020, the National Electoral Council increased the number of seats in the National Assembly from 167 to 277 for the December 2020 election<br>
 
 **Judicial branch**<br>
@@ -352,8 +359,8 @@ ACS, Caricom (observer), CD, CDB, CELAC, FAO, G-15, G-24, G-77, IADB, IAEA, IBRD
 none<br><br><strong>Note</strong>:  the embassy, which had been run by the Venezuelan political opposition, announced on 5 January 2023, that it had ended all embassy functions<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); as of 19 May 2023, Francisco L. PALMIERI serves as the chief of mission of the Venezuela Affairs Unit, located in the US Embassy, Bogota<br>
-_embassy_: Venezuela Affairs Unit, US Embassy, Carrera 45 N. 24B-27, Bogota, Colombia<br><br>previously - F St. and Suapure St.; Urb. Colinas de Valle Arriba; Caracas 1080<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Francisco L. PALMIERI (since 19 May 2023); note - serves as the chief of mission of the Venezuela Affairs Unit, located in the US Embassy, Bogota<br>
+_embassy_: Venezuela Affairs Unit, US Embassy, Carrera 45 N. 24B-27, Bogota, Colombia<br>
 _mailing address_: 3140 Caracas Place, Washington DC&nbsp; 20521-3140<br>
 _telephone_: 1-888-407-4747<br>  <br>
 _email address and website_: <br>ACSBogota@state.gov<br><br>https://ve.usembassy.gov/<br>
@@ -436,7 +443,7 @@ agricultural products, livestock, raw materials, machinery and equipment, transp
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-11.548 million (2023 est.)<br>
+11.423 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>

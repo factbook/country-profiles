@@ -331,9 +331,16 @@ _election results_: <br><em>2022: </em>Rodrigo CHAVES Robles elected president i
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Assembly or Asamblea Legislativa (57 seats; members directly elected in multi-seat constituencies - corresponding to the country's 7 provinces - by closed party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 6 February 2022 (next to be held in February 2026)<br>
-_election results_: percent of vote by party - PLN 24.8%, PPSD 15%, PUSC 11.4%, PNR 10.1%, PLP 9.1%, 8.3%, other 21.3%; seats by party - PLN 19, PPSD 10, PUSC 9, PNR 7, PLP 6, PFA 6; composition - men 30, women 27, percentage women 47.4%<br>
+_legislature name_: Legislative Assembly (Asamblea Legislativa)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 57 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 2/6/2022<br>
+_parties elected and seats per party_: National Liberation Party (PLN) (19); Democratic Social Progress Party (PPSD) (10); Christian Social Unity Party (USC) (9); New Republic Party (NR) (7); Broad Front (FA) (6); Progressive Liberal Party (LP) (6)<br>
+_percentage of women in chamber_: 49.1%<br>
+_expected date of next election_: February 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of 22 judges organized into 3 cassation chambers each with 5 judges and the Constitutional Chamber with 7 judges)<br>
@@ -396,9 +403,9 @@ $122.15 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$25,800 (2023 est.)<br>
-$24,700 (2022 est.)<br>
-$23,700 (2021 est.)<br>
+$26,300 (2023 est.)<br>
+$25,100 (2022 est.)<br>
+$24,100 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -424,12 +431,12 @@ _services_: 68% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 65.4% (2023 est.)<br>
+_household consumption_: 64.5% (2023 est.)<br>
 _government consumption_: 14.9% (2023 est.)<br>
 _investment in fixed capital_: 16.2% (2023 est.)<br>
-_investment in inventories_: -0.8% (2023 est.)<br>
-_exports of goods and services_: 37.3% (2023 est.)<br>
-_imports of goods and services_: -33% (2023 est.)<br>
+_investment in inventories_: -0.9% (2023 est.)<br>
+_exports of goods and services_: 38.9% (2023 est.)<br>
+_imports of goods and services_: -33.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -444,7 +451,7 @@ medical equipment, food processing, textiles and clothing, construction material
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.408 million (2023 est.)<br>
+2.372 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -464,7 +471,7 @@ _female_: 28.3% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-47.2 (2022 est.)<br>
+46.7 (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -472,12 +479,12 @@ _on food_: 31.1% of household expenditures (2022 est.)<br>
 _on alcohol and tobacco_: 0.7% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.7% (2022 est.)<br>
-_highest 10%_: 35.7% (2022 est.)<br>
+_lowest 10%_: 1.6% (2023 est.)<br>
+_highest 10%_: 35.1% (2023 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.73% of GDP (2023 est.)<br>
+0.77% of GDP (2023 est.)<br>
 0.9% of GDP (2022 est.)<br>
 0.91% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -495,15 +502,15 @@ _expenditures_: $19.799 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$844.64 million (2023 est.)<br>
--$2.235 billion (2022 est.)<br>
--$2.061 billion (2021 est.)<br>
+-$1.238 billion (2023 est.)<br>
+-$2.272 billion (2022 est.)<br>
+-$2.063 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$33.699 billion (2023 est.)<br>
-$29.404 billion (2022 est.)<br>
-$23.609 billion (2021 est.)<br>
+$33.683 billion (2023 est.)<br>
+$29.392 billion (2022 est.)<br>
+$23.608 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -515,9 +522,9 @@ medical instruments, orthopedic appliances, bananas, tropical fruits, other food
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$28.441 billion (2023 est.)<br>
-$27.07 billion (2022 est.)<br>
-$21.94 billion (2021 est.)<br>
+$28.413 billion (2023 est.)<br>
+$27.095 billion (2022 est.)<br>
+$21.938 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -535,7 +542,7 @@ $6.921 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$12.877 billion (2022 est.)<br>
+$15.89 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

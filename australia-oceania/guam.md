@@ -265,13 +265,20 @@ see United States<br>
 _chief of state_: President Joseph R. BIDEN Jr. (since 20 January 2021)<br>
 _head of government_: Governor Lourdes LEON GUERRERO (since 7 January 2019)<br>
 _cabinet_: Cabinet appointed by the governor with the consent of the Legislature<br>
-_elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state to serve a 4-year term (eligible for a second term); under the US Constitution, residents of unincorporated territories, such as Guam, do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican presidential primary elections; governor and lieutenant governor elected on the same ballot by absolute majority vote in 2 rounds if needed for a 4-year term (eligible for 2 consecutive terms); gubernatorial election last held on 8 November 2022 (next to be held in November 2026)<br>
+_elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state to serve a 4-year term (eligible for a second term); under the US Constitution, residents of unincorporated territories, such as Guam, do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican presidential primary elections; governor and lieutenant governor elected on the same ballot by absolute majority vote in 2 rounds if needed for a 4-year term (eligible for 2 consecutive terms); gubernatorial election last held on 8 November 2022 (next to be held on 3 November 2026)<br>
 _election results_: <em><br>2022:</em> Lourdes LEON GUERRERO reelected governor; percent of vote - Lourdes LEON GUERRERO (Democratic Party) 55%, Felix CAMACHO (Republican Party) 44%; Josh TENORIO (Democratic Party) elected lieutenant governor<br><br><em>2018:</em> Lourdes LEON GUERRERO elected governor; percent of vote -  Lourdes LEON GUERRERO (Democratic Party) 50.7%, Ray TENORIO (Republican Party) 26.4%; Josh TENORIO (Democratic Party) elected lieutenant governor<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislature of Guam or Liheslaturan Guahan (15 seats; members elected in a single countrywide constituency by simple majority vote to serve 2-year terms)<br>
-_elections_: Guam Legislature - last held on 8 November 2022 (next to be held on 5 November 2024)<br>delegate to the US House of Representatives - last held on 8 November 2022 (next to be held on 5 November 2024)<br>
-_election results_: Guam Legislature - percent of vote by party - NA; seats by party - Democratic Party 9, Republican Party 6; composition - men 9, women 6, percent of women 40%<br><br>Guam delegate to the US House of Representatives - Democratic Party 1 (man)<br>
+_legislature name_: Legislature of Guam (Liheslaturan Guahan)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 15 (directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 2 years<br>
+_most recent election date_: 11/8/2022<br>
+_parties elected and seats per party_: Democratic Party (9); Republican Party (6)<br>
+_percentage of women in chamber_: 40%<br>
+_expected date of next election_: November 2024<br>
 <strong>note:</strong> Guam directly elects 1 member by simple majority vote to serve a 2-year term as delegate to the US House of Representatives; the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote<br>
 
 **Judicial branch**<br>
@@ -351,7 +358,7 @@ national defense, tourism, construction, transshipment services, concrete produc
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-80,000 (2023 est.)<br>
+77,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>

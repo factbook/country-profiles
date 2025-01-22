@@ -335,8 +335,14 @@ _cabinet_: Council of Ministers appointed by the monarch every 4 years and inclu
 _elections/appointments_: none; the monarchy is hereditary; an Allegiance Council created by royal decree in October 2006 established a committee of Saudi princes for a voice in selecting future Saudi kings<br>
 
 **Legislative branch**<br>
-_description_: unicameral Shura Council (Majlis Ash-Shura) (150 seats plus a speaker; members appointed by the monarch to serve 4-year terms); note - in early 2013, the monarch granted women 30 seats on the Council<br>
-_election results_: composition - men 121, women 30, percentage women 19.9%<br>
+_legislature name_: Shura Council (Majlis Ash-Shura)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 151 (all appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 9/2/2024<br>
+_percentage of women in chamber_: 19.9%<br>
+_expected date of next election_: August 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: High Court (consists of the court chief and organized into circuits with 3-judge panels, except for the criminal circuit, which has a 5-judge panel for cases involving major punishments)<br>

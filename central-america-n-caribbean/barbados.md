@@ -309,10 +309,29 @@ _elections/appointments_: president elected by an electoral college of both Hous
 _election results_: Sandra MASON elected as first president on 20 October 2021<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (21 seats statutory - 21 current; members appointed by the president - 12 on the advice of the prime minister, 2 on the advice of the opposition leader, and 7 at the discretion of the president; members serve 5-year terms) <br>House of Assembly (30 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: Senate - last appointments on 4 February 2022 (next appointments in February 2027)<br>House of Assembly - last held on 19 January 2022 (next to be held in January 2027)<br>
-_election results_: Senate - appointed - BLP 12, independent 9; composition - men 13, women 8, percentage women 38.1%<br><br>House of Assembly - percent of vote by party - BLP 69%, DLP 26.5%, other 4.5%; seats by party - BLP 30; composition - men 22, women 8, percentage women 26.7%; note - total Parliament percentage women 32.7%<br>
+_legislature name_: Parlement de Barbade (Parliament of Barbados)<br>
+_legislative structure_: bicameral<br>
 <strong>note:</strong> tradition dictates that the next election is held within 5 years of the last election, but constitutionally it is 5 years from the first seating of Parliament plus a 90-day grace period<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Assembly<br>
+_number of seats_: 30 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 1/19/2022<br>
+_parties elected and seats per party_: Barbados Labour Party (BLP) (30)<br>
+_percentage of women in chamber_: 26.7%<br>
+_expected date of next election_: January 2027<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate<br>
+_number of seats_: 21 (all appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 2/4/2022<br>
+_percentage of women in chamber_: 38.1%<br>
+_expected date of next election_: February 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the High Court with 8 justices) and the Court of Appeal (consists of the High Court chief justice and president of the court and 4 justices; note - in 2005, Barbados acceded to the Caribbean Court of Justice as the final court of appeal, replacing that of the Judicial Committee of the Privy Council (in London)<br>
@@ -362,25 +381,25 @@ _selected World Heritage Site locales_: Historic Bridgetown and its Garrison<br>
 <p>high-income Eastern Caribbean economy; high standard of living among regional peers; key tourism, construction, and financial sectors driving recent GDP growth; declining but still very high public debt leading to IMF support programs; susceptible to natural disasters and reliance on import partners</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.92 billion (2023 est.)<br>
-$4.708 billion (2022 est.)<br>
-$4.148 billion (2021 est.)<br>
+$5.428 billion (2023 est.)<br>
+$5.214 billion (2022 est.)<br>
+$4.425 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.52% (2023 est.)<br>
-13.48% (2022 est.)<br>
+4.09% (2023 est.)<br>
+17.83% (2022 est.)<br>
 -1.18% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$17,400 (2023 est.)<br>
-$16,700 (2022 est.)<br>
-$14,800 (2021 est.)<br>
+$19,200 (2023 est.)<br>
+$18,500 (2022 est.)<br>
+$15,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$6.394 billion (2023 est.)<br>
+$6.721 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -395,9 +414,9 @@ _Standard & Poors rating_: B- (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.4% (2023 est.)<br>
-_industry_: 13.1% (2023 est.)<br>
-_services_: 72.3% (2023 est.)<br>
+_agriculture_: 1.9% (2023 est.)<br>
+_industry_: 13.2% (2023 est.)<br>
+_services_: 75.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -417,11 +436,11 @@ sugarcane, chicken, vegetables, milk, eggs, sweet potatoes, pork, coconuts, cant
 tourism, sugar, light manufacturing, component assembly for export<br>
 
 **Industrial production growth rate**<br>
-3.64% (2023 est.)<br>
+-1.34% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-146,000 (2023 est.)<br>
+145,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -437,9 +456,9 @@ _female_: 20.3% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
-1.33% of GDP (2023 est.)<br>
-1.46% of GDP (2022 est.)<br>
-1.72% of GDP (2021 est.)<br>
+1.27% of GDP (2023 est.)<br>
+1.36% of GDP (2022 est.)<br>
+1.61% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -448,11 +467,11 @@ _expenditures_: $1.664 billion (2015 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-146.46% of GDP (2016 est.)<br>
+133.2% of GDP (2016 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-27.39% (of GDP) (2016 est.)<br>
+24.91% (of GDP) (2016 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -490,9 +509,9 @@ refined petroleum, plastic products, cars, railway cargo containers, packaged me
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$1.606 billion (2023 est.)<br>
 $1.52 billion (2022 est.)<br>
 $1.673 billion (2021 est.)<br>
-$1.358 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>

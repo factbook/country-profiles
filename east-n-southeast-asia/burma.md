@@ -357,9 +357,8 @@ _state counsellor_: State Counselor AUNG SAN SUU KYI (since 6 April 2016); note 
 <strong>note 1: </strong>the military took over the government on 1 February 2021 and declared a state of emergency<strong><br><br>note 2:</strong> prior to the military takeover, the a state counsellor served the equivalent term of the president and was similar to a prime minister in that the holder acted as a link between the parliament and the executive branch<br><br><br><br>
 
 **Legislative branch**<br>
-_description_: prior to its dissolution after a coup, the bicameral Assembly of the Union or Pyidaungsu consisted of:<br>House of Nationalities or Amyotha Hluttaw, (224 seats; 168 members directly elected in single-seat constituencies by absolute majority vote with a second round if needed and 56 appointed by the military; members served 5-year terms)<br><br>prior to its dissolution after a coup, the House of Representatives or Pyithu Hluttaw, (440 seats, currently 433; 330 members directly elected in single-seat constituencies by simple majority vote and 110 appointed by the military; members served 5-year terms)<br>
-_elections_: House of Nationalities - last held on 8 November 2020 <br>House of Representatives - last held on 8 November 2020<br>
-_election results_: House of Nationalities - percent of vote by party - NLD 61.6%, USDP 3.1%, ANP 1.8%, MUP 1.3%, KySPD 1.3%, other 5.9%, military appointees 25%; seats by party - NLD 138, USDP 7, ANP 4, MUP 3, KySPD 3, SNLD 2, TNP 2, other 2, vacant 7 (canceled due to insurgency), military appointees 56 <br><br>House of Representatives - percent of vote by party - NLD 58.6%, USDP 5.9%, SNLD 3.0%, other 7.5%, military 25%; seats by party - NLD 258, USDP 26, SNLD 13, ANP 4, PNO 3, TNP 3, MUP 2, KySPD 2, other 4, vacant 15 (canceled due to insurgency), military appointees 110<br>
+_legislature name_: Assembly of the Union (Pyidaungsu Hluttaw)<br>
+_legislative structure_: bicameral<br>
 <strong>note 1:</strong> the Assembly of the Union was dissolved on 1 February 2021 after a military coup led by Sr. General MIN AUNG HLAING; it was replaced by the State Administration Council<br><br><strong>note 2:</strong> the military junta overturned the results of the 8 November legislative elections<br>
 
 **Judicial branch**<br>
@@ -411,25 +410,25 @@ _selected World Heritage Site locales_: Pyu Ancient Cities; Bagan<br>
 slowly recovering Southeast Asian economy; household incomes weaken domestic consumption; growing trade deficit; declining employment; high inflation and reduced currency power; agriculture sector remains most stable&nbsp;<br>
 
 **Real GDP (purchasing power parity)**<br>
-$290.507 billion (2023 est.)<br>
+$290.381 billion (2023 est.)<br>
 $287.624 billion (2022 est.)<br>
 $276.462 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1% (2023 est.)<br>
+0.96% (2023 est.)<br>
 4.04% (2022 est.)<br>
 -12.02% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$5,300 (2023 est.)<br>
-$5,300 (2022 est.)<br>
-$5,100 (2021 est.)<br>
+$5,400 (2023 est.)<br>
+$5,400 (2022 est.)<br>
+$5,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$64.815 billion (2023 est.)<br>
+$66.758 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -439,9 +438,9 @@ $64.815 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 20.4% (2023 est.)<br>
-_industry_: 38.1% (2023 est.)<br>
-_services_: 41.5% (2023 est.)<br>
+_agriculture_: 22.7% (2023 est.)<br>
+_industry_: 37.6% (2023 est.)<br>
+_services_: 39.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -460,11 +459,11 @@ rice, sugarcane, vegetables, beans, maize, groundnuts, fruits, plantains, coconu
 agricultural processing; wood and wood products; copper, tin, tungsten, iron; cement, construction materials; pharmaceuticals; fertilizer; oil and natural gas; garments; jade and gems<br>
 
 **Industrial production growth rate**<br>
-1.53% (2023 est.)<br>
+0.02% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-22.884 million (2023 est.)<br>
+22.662 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -497,7 +496,7 @@ _highest 10%_: 25.5% (2017 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.31% of GDP (2023 est.)<br>
+1.65% of GDP (2023 est.)<br>
 2.03% of GDP (2022 est.)<br>
 1.93% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -554,13 +553,16 @@ $5.824 billion (2019 est.)<br>
 $5.646 billion (2018 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
+**Debt - external**<br>
+$9.292 billion (2023 est.)<br>
+
 **Exchange rates**<br>
 _Currency_: kyats (MMK) per US dollar -<br>
+2,100 (2023 est.)<br>
+1,932.543 (2022 est.)<br>
+1,615.367 (2021 est.)<br>
 1,381.619 (2020 est.)<br>
 1,518.255 (2019 est.)<br>
-1,429.808 (2018 est.)<br>
-1,360.359 (2017 est.)<br>
-1,234.87 (2016 est.)<br>
 
 ## Energy
 

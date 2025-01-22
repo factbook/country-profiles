@@ -219,9 +219,16 @@ _elections/appointments_: French president directly elected by absolute majority
 _election results_: <br><em>2022:</em> Louis MUSSINGTON (RSM) elected president; Territorial Council vote - unanimous<em><br><br><em>2017: </em></em>Daniel Gibbs (UD) elected president; Territorial Council vote - 18 of 23 votes<br>
 
 **Legislative branch**<br>
-_description_: unicameral Territorial Council (23 seats; members directly elected by absolute majority vote in 2 rounds if needed to serve 5-year terms)<br>
-_elections_: Territorial Council - first round held on 20 March and second round held on 27 March 2022 (next to be held in March 2027)<br><br>French Senate - last held on 27 September 2020 (next to be held not later than September 2023)<br><br>French National Assembly - last held on 12 and 19 June 2022 (next to be held by June 2027)<br>
-_election results_: Territorial Council - percent of vote by party in first round - RSM 25.4%, UD 24.7%, HOPE 17.5%, Saint Martin with You 13.8%, Alternative 11.2%, Future Saint Martin 7.5%; percent of vote by party in second round - RSM and Alternative 49.1%; UD 33.3%; HOPE, Saint Martin with You, and Future Saint Martin 17.6%; seats by party - RSM and Alternative 16; UD 5, HOPE, Saint Martin with You, and Future Saint Martin 2; composition - men 13, women 10, percentage women 43.5%<br><br>French Senate - 1 seat - UMP 1<br><br>French National Assembly - 1 seat - UMP 1<br>
+_legislature name_: Territorial Council<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 23 (directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 3/27/2022<br>
+_parties elected and seats per party_: RSM and Alternative (16); UD (5); HOPE, Saint Martin with You, and Future Saint Martin (2)<br>
+_percentage of women in chamber_: 43.5%<br>
+_expected date of next election_: March 2027<br>
 <strong>note:</strong> 1 senator is indirectly elected to the French Senate by an electoral college for a 6-year term, and 1 deputy (shared with Saint Barthelemy) is directly elected to the French National Assembly for a 5-year term<br>
 
 **Political parties**<br>

@@ -336,9 +336,27 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2023</em>: Andry RAJOELINA reelected president in first round; percent of vote - Andry RAJOELINA (TGV) 59.0%, Siteny Thierry RANDRIANASOLONIAIKO 14.4%, Marc RAVALOMANANA (TIM) 12.1%, other 14.5%<br><em><br>2018</em>: Andry RAJOELINA elected president in second round; percent of vote in first round - Andry RAJOELINA (TGV) 39.2%, Marc RAVALOMANANA (TIM) 35.4%, other 25.4%; percent of vote in second round - Andry RAJOELINA 55.7%, Marc RAVALOMANANA 44.3%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate or Antenimierandoholona (18 seats; 12 members indirectly elected by an electoral college of municipal, communal, regional, and provincial leaders and 6 appointed by the president; members serve 5-year terms)<br>National Assembly or Antenimierampirenena (151 seats; 87 members directly elected in single-seat constituencies by simple majority vote and 64 directly elected in multi-seat constituencies by closed-list proportional representation vote; members serve 5-year terms)<br>
-_elections_: Senate - last held on 11 December 2020 (next to be held in December 2025)<br>National Assembly - last held on 27 May 2019 (next to be held on 29 May 2024)<br>
-_election results_: Senate - percent of vote by party - NA; elected seats by party - Irmar 10, Malagasy Miara Miainga 2; composition - men 17, women 1, percentage women 5.6%<br><br>National Assembly - percent of vote by party/coalition - IRD 55.6%, TIM 10.6%, independent 30.5%, other 3.3%; seats by party/coalition - IRD 84, TIM 16, independent 46, other 5; composition - men 123, women 28, percentage women 18.5%; total Parliament percentage women 10.7%<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: National Assembly (Antenimierampirenena)<br>
+_number of seats_: 163 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 5/29/2024<br>
+_parties elected and seats per party_: Isika Rehetra Miaraka Amin’i Andry Rajoelina (IRMAR) (84); Firaisankina (22); Independents (50); Other (7)<br>
+_percentage of women in chamber_: 16%<br>
+_expected date of next election_: May 2029<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Antenimierandoholona)<br>
+_number of seats_: 18 (12 indirectly elected; 6 appointed)<br>
+_term in office_: 5 years<br>
+_most recent election date_: 12/11/2020<br>
+_parties elected and seats per party_: IRMAR (10); MALAGASY MIARA-MIAINGA (2)<br>
+_percentage of women in chamber_: 5.6%<br>
+_expected date of next election_: December 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of 11 members; addresses judicial administration issues only); High Constitutional Court or Haute Cour Constitutionnelle (consists of 9 members); High Court of Justice (consists of 11 members; addresses cases brought against the president of Madagascar and high officials for high treason, grave violations of the Constitution, or breach of&nbsp; duties incompatible with the exercise of the presidential mandate)<br>
@@ -387,25 +405,25 @@ _selected World Heritage Site locales_: Tsingy de Bemaraha Strict Nature Reserve
 low-income East African island economy; natural resource rich; extreme poverty; return of political stability has helped growth; sharp tax revenue drop due to COVID-19; leading vanilla producer; environmentally fragile<br>
 
 **Real GDP (purchasing power parity)**<br>
-$51.255 billion (2023 est.)<br>
-$49.291 billion (2022 est.)<br>
+$51.265 billion (2023 est.)<br>
+$49.388 billion (2022 est.)<br>
 $47.488 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.99% (2023 est.)<br>
-3.8% (2022 est.)<br>
+3.8% (2023 est.)<br>
+4% (2022 est.)<br>
 5.74% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$1,700 (2023 est.)<br>
-$1,700 (2022 est.)<br>
+$1,600 (2023 est.)<br>
+$1,600 (2022 est.)<br>
 $1,600 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$16.032 billion (2023 est.)<br>
+$15.79 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -415,18 +433,18 @@ $16.032 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 21.1% (2023 est.)<br>
-_industry_: 14.9% (2023 est.)<br>
-_services_: 54.9% (2023 est.)<br>
+_agriculture_: 22.6% (2023 est.)<br>
+_industry_: 22.4% (2023 est.)<br>
+_services_: 44.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 66.5% (2023 est.)<br>
-_government consumption_: 18.7% (2023 est.)<br>
-_investment in fixed capital_: 20.3% (2023 est.)<br>
-_investment in inventories_: 1% (2023 est.)<br>
-_exports of goods and services_: 32.5% (2023 est.)<br>
-_imports of goods and services_: -39.1% (2023 est.)<br>
+_household consumption_: 63.1% (2023 est.)<br>
+_government consumption_: 22.3% (2023 est.)<br>
+_investment in fixed capital_: 21.6% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
+_exports of goods and services_: 26.9% (2023 est.)<br>
+_imports of goods and services_: -33.9% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -437,11 +455,11 @@ rice, sugarcane, cassava, sweet potatoes, milk, bananas, vegetables, mangoes/gua
 meat processing, seafood, soap, beer, leather, sugar, textiles, glassware, cement, automobile assembly plant, paper, petroleum, tourism, mining<br>
 
 **Industrial production growth rate**<br>
--33.28% (2023 est.)<br>
+2.91% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-15.83 million (2023 est.)<br>
+16.061 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -457,8 +475,8 @@ _female_: 5.6% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
-2.37% of GDP (2023 est.)<br>
-2.52% of GDP (2022 est.)<br>
+2.44% of GDP (2023 est.)<br>
+2.55% of GDP (2022 est.)<br>
 3.02% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -471,7 +489,7 @@ _expenditures_: $1.523 billion (2022 est.)<br>
 36% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-9.25% (of GDP) (2022 est.)<br>
+9.36% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -515,7 +533,7 @@ $2.335 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$2.972 billion (2022 est.)<br>
+$3.991 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

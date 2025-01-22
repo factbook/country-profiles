@@ -353,9 +353,28 @@ _election results_: <em><br>2024: </em>Olzhas BEKTENOV elected as prime minister
 <strong>note: </strong>Prime Minister Alikhan SMAILOV resigned on 5 February 2024<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament of the Republic of Kazakhstan consists of:<br>Senate (50 seats); 40 members indirectly elected by 2-round majority vote by the oblast-level assemblies and 10 members appointed by decree of the president; members serve 6-year terms, with one-half of the membership renewed every 3 years)<br>Mazhilis (98 seats; 69 members directly elected in a single national constituency by party list proportional representation vote (5% minimum threshold to gain seats) and 29 directly elected in single-seat constituencies to serve 5-year terms<br>
-_elections_: Senate - last held on 14 January 2023 (next to be held in 2026)<br>Mazhilis - last held on 19 March 2023 (next to be held in March 2028)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 39, women 11, percentage women 22%<br><br>Mazhilis - percent of vote by party - Nur Otan 53.9%, Auvl 10.9%, Respublica 8.6%, Ak Zhol 8.4%, QHP 6.8%, NSDP 5.2%, Baytak 2.3%, Against all 3.9%; percent of vote by party (single-mandate districts) - Nur Otan 75.9%, independent 24%; seats by party - Nur Otan 62, Auvl 8, Respublica 6, Ak Zhol 6, QHP 5, NSDP 4, independent 7; composition - men 79, women 19, percentage women 18.4%; note - total Parliament percentage women 20.9%<br>
+_legislature name_: Parliament (Parlament)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives (Mazhilis)<br>
+_number of seats_: 98 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 3/19/2023<br>
+_parties elected and seats per party_: Amanat party (62); Auyl party (8); Ak Zhol Democratic Party of Kazakhstan (6); Respublica (6); People's Party of Kazakhstan (5); Independents (7); Other (4)<br>
+_percentage of women in chamber_: 19.4%<br>
+_expected date of next election_: March 2028<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate<br>
+_number of seats_: 50 (40 indirectly elected; 10 appointed)<br>
+_scope of elections_: partial renewal<br>
+_term in office_: 6 years<br>
+_most recent election date_: 1/14/2023<br>
+_percentage of women in chamber_: 24%<br>
+_expected date of next election_: January 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of the Republic (consists of 44 members); Constitutional Council (consists of the chairperson and 6 members)<br>
@@ -418,13 +437,13 @@ $650.47 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$35,500 (2023 est.)<br>
-$34,200 (2022 est.)<br>
-$33,900 (2021 est.)<br>
+$34,700 (2023 est.)<br>
+$33,500 (2022 est.)<br>
+$32,900 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$261.421 billion (2023 est.)<br>
+$262.642 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -440,18 +459,18 @@ _Standard & Poors rating_: BBB- (2016)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 4.3% (2023 est.)<br>
-_industry_: 32% (2023 est.)<br>
-_services_: 56% (2023 est.)<br>
+_agriculture_: 3.9% (2023 est.)<br>
+_industry_: 32.3% (2023 est.)<br>
+_services_: 56.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 49% (2022 est.)<br>
-_government consumption_: 11.3% (2022 est.)<br>
-_investment in fixed capital_: 21.4% (2022 est.)<br>
-_investment in inventories_: 2.8% (2022 est.)<br>
-_exports of goods and services_: 41.8% (2022 est.)<br>
-_imports of goods and services_: -26.3% (2022 est.)<br>
+_household consumption_: 51.3% (2023 est.)<br>
+_government consumption_: 11.1% (2023 est.)<br>
+_investment in fixed capital_: 26.4% (2023 est.)<br>
+_investment in inventories_: 3.3% (2023 est.)<br>
+_exports of goods and services_: 34.4% (2023 est.)<br>
+_imports of goods and services_: -27.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -462,11 +481,11 @@ wheat, milk, potatoes, barley, watermelons, sunflower seeds, cantaloupes/melons,
 oil, coal, iron ore, manganese, chromite, lead, zinc, copper, titanium, bauxite, gold, silver, phosphates, sulfur, uranium, iron and steel; tractors and other agricultural machinery, electric motors, construction materials<br>
 
 **Industrial production growth rate**<br>
-7.36% (2023 est.)<br>
+8.11% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-9.587 million (2023 est.)<br>
+9.808 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -499,7 +518,7 @@ _highest 10%_: 24.8% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.17% of GDP (2023 est.)<br>
+0.12% of GDP (2023 est.)<br>
 0.21% of GDP (2022 est.)<br>
 0.16% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -510,22 +529,22 @@ _expenditures_: $36.451 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-22.41% of GDP (2021 est.)<br>
+20.82% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-9.45% (of GDP) (2021 est.)<br>
+11.86% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$8.658 billion (2023 est.)<br>
-$7.054 billion (2022 est.)<br>
--$2.673 billion (2021 est.)<br>
+-$9.02 billion (2023 est.)<br>
+$6.435 billion (2022 est.)<br>
+-$2.679 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$90.167 billion (2023 est.)<br>
-$93.598 billion (2022 est.)<br>
+$90.531 billion (2023 est.)<br>
+$93.623 billion (2022 est.)<br>
 $71.726 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
@@ -538,8 +557,8 @@ crude petroleum, gold, refined copper, iron alloys, radioactive chemicals (2022)
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$71.811 billion (2023 est.)<br>
-$60.151 billion (2022 est.)<br>
+$72.367 billion (2023 est.)<br>
+$60.202 billion (2022 est.)<br>
 $49.597 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
@@ -558,7 +577,7 @@ $34.378 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$22.643 billion (2022 est.)<br>
+$26.441 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

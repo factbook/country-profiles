@@ -324,13 +324,32 @@ _chief of state_: President Michael D. HIGGINS (since 11 November 2011)<br>
 _head of government_: Taoiseach (Prime Minister) Simon HARRIS resigned on 18 December 2024 but remains in Caretaker status until a new prime minister is appointed (since 9 April 2024)<br>
 _cabinet_: Cabinet nominated by the prime minister, appointed by the president, approved by the Dali Eireann (lower house of Parliament)<br>
 _elections/appointments_: president directly elected by majority popular vote for a 7-year term (eligible for a second term); election last held on 26 October 2018 (next to be held no later than November 2025); taoiseach (prime minister) nominated by the House of Representatives (Dail Eireann), appointed by the president<br>
-_election results_: <em><br>2024: </em>Simon HARRIS is elected taoiseach by parliament, 88 votes to 69, and is appointed taoiseach by the president<em><br><br>2018:</em> Michael D. HIGGINS reelected president in first round; percent of vote in first round - Michael D. HIGGINS (independent) 55.8%, Peter CASEY (independent) 23.3%, Sean GALLAGHER (independent) 6.4%, Liadh NI RIADA (Sinn Fein) 6.4%, Joan FREEMAN (independent) 6%, Gavin DUFFY (independent) 2.2%<br><br><em>2011: </em>Michael D. HIGGINS elected president in second round; percent of vote in first round - Michael D. HIGGINS (Labor) 39.6%, Sean GALLAGHER (independent) 28.5%, Martin McGuinness (Sinn Féin) 13.7%, Gay Mitchell (Fine Gael) 6.4%, David Norris (independent) 6.2%, Mary DAVIS (independent) 2.7%; percent of vote in second round - Michael D. HIGGINS 56.8%, Sean GALLAGHER 35.5%<br>
+_election results_: <em><br>2024: </em>Simon HARRIS is elected taoiseach by parliament, 88 votes to 69, and is appointed taoiseach by the president<em><br><br>2018:</em> Michael D. HIGGINS reelected president in first round; percent of vote in first round - Michael D. HIGGINS (independent) 55.8%, Peter CASEY (independent) 23.3%, Sean GALLAGHER (independent) 6.4%, Liadh NI RIADA (Sinn Fein) 6.4%, Joan FREEMAN (independent) 6%, Gavin DUFFY (independent) 2.2%<br>
 <strong>note:</strong> Taoiseach Leo VARADKAR resigned from the ruling party on 20 March 2024 but remained as the caretaker taoiseach until a successor was appointed on 9 April 2024<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Oireachtas consists of:<br>Senate or Seanad Eireann (60 seats; 49 members indirectly elected from 5 vocational panels of nominees by an electoral college, 11 appointed by the prime minister<br>House of Representatives or Dail Eireann (174 seats; members directly elected in multi-seat constituencies by proportional representation vote; all Parliament members serve 5-year terms)<br>
-_elections_: Senate - last held early on 21-30 May 2020 (next to be held in March 2025)<br>House of Representatives - last held on 29 November 2024 (next to be held no later than November 2029)<br>
-_election results_: <strong> </strong>Senate - percent of vote by party - Fianna Fail 35%, Fine Gael 26.7%, Green Party 6.7%<strong>, </strong>Labor Party 6.7%, Sinn Fein 6.7%, other 1.6%, independent 16.7%; seats by party - Fianna Fail 21, Fine Gael 16, Green Party 4<strong>, </strong>Labor Party 4, Sinn Fein 4, other 1, independent 10; composition - men 36, women 24, percentage women 40%<br><br>House of Representatives - seats by party - Fianna Fail 48, Sinn Fein 39, Fine Gael 38, Social Democrats 11, Labor Party 11, Independent Ireland 4, PBP-S 3, other 1, independent 16; composition - men 130, women 44, percentage women 25.3%; total Parliament percentage women 29.1%<br>
+_legislature name_: Parliament (Oireachtas)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives (Dáil Éireann)<br>
+_number of seats_: 174 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 11/29/2024<br>
+_parties elected and seats per party_: Fianna Fáil (48); Sinn Féin (39); Fine Gael (38); Social Democratic Party (11); Labour Party (11); Independents (16); Other (11)<br>
+_percentage of women in chamber_: 25.3%<br>
+_expected date of next election_: November 2029<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Seanad Éireann - Senate)<br>
+_number of seats_: 60 (49 indirectly elected; 11 appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 3/30/2020 to 3/31/2020<br>
+_percentage of women in chamber_: 40%<br>
+_expected date of next election_: March 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Ireland (consists of the chief justice, 9 judges, 2 ex-officio members - the presidents of the High Court and Court of Appeal - and organized in 3-, 5-, or 7-judge panels, depending on the importance or complexity of an issue of law)<br>
@@ -381,25 +400,25 @@ _selected World Heritage Site locales_: Br&uacute; na B&oacute;inne - Archaeolog
 strong, export-based EU economy; multinational-business-friendly environment known for resilience, even amid COVID-19 disruptions; real wage growth beyond other OECD members; high livings standards; strong social equity and cohesion; aging labor force<br>
 
 **Real GDP (purchasing power parity)**<br>
-$608.463 billion (2023 est.)<br>
-$628.57 billion (2022 est.)<br>
-$574.387 billion (2021 est.)<br>
+$609.962 billion (2023 est.)<br>
+$645.668 billion (2022 est.)<br>
+$594.431 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--3.2% (2023 est.)<br>
-9.43% (2022 est.)<br>
+-5.53% (2023 est.)<br>
+8.62% (2022 est.)<br>
 15.13% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$115,600 (2023 est.)<br>
-$122,600 (2022 est.)<br>
-$114,100 (2021 est.)<br>
+$114,900 (2023 est.)<br>
+$125,000 (2022 est.)<br>
+$118,100 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$545.629 billion (2023 est.)<br>
+$551.395 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -416,17 +435,17 @@ _Standard & Poors rating_: AA- (2019)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.9% (2023 est.)<br>
-_industry_: 37.6% (2023 est.)<br>
-_services_: 56.6% (2023 est.)<br>
+_industry_: 33.2% (2023 est.)<br>
+_services_: 60.9% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 27% (2023 est.)<br>
-_government consumption_: 12.3% (2023 est.)<br>
-_investment in fixed capital_: 23.4% (2023 est.)<br>
-_investment in inventories_: 3.2% (2023 est.)<br>
-_exports of goods and services_: 134.1% (2023 est.)<br>
-_imports of goods and services_: -100.6% (2023 est.)<br>
+_household consumption_: 26.8% (2023 est.)<br>
+_government consumption_: 12.2% (2023 est.)<br>
+_investment in fixed capital_: 23.2% (2023 est.)<br>
+_investment in inventories_: 3.1% (2023 est.)<br>
+_exports of goods and services_: 135.1% (2023 est.)<br>
+_imports of goods and services_: -102.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -437,11 +456,11 @@ milk, barley, wheat, beef, potatoes, pork, oats, chicken, rapeseed, lamb/mutton 
 pharmaceuticals, chemicals, computer hardware and software, food products, beverages and brewing; medical devices<br>
 
 **Industrial production growth rate**<br>
--10.79% (2023 est.)<br>
+-21.06% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.766 million (2023 est.)<br>
+2.796 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -474,9 +493,9 @@ _highest 10%_: 24.8% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.08% of GDP (2023 est.)<br>
-0.08% of GDP (2022 est.)<br>
-0.04% of GDP (2021 est.)<br>
+0.1% of GDP (2023 est.)<br>
+0.1% of GDP (2022 est.)<br>
+0.03% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -485,23 +504,23 @@ _expenditures_: $105.516 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-46.71% of GDP (2022 est.)<br>
+45.4% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-17.27% (of GDP) (2022 est.)<br>
+16.79% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$53.997 billion (2023 est.)<br>
-$57.807 billion (2022 est.)<br>
-$70.909 billion (2021 est.)<br>
+$44.744 billion (2023 est.)<br>
+$48.427 billion (2022 est.)<br>
+$65.118 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$731.814 billion (2023 est.)<br>
-$729.135 billion (2022 est.)<br>
-$685.814 billion (2021 est.)<br>
+$761.876 billion (2023 est.)<br>
+$763.233 billion (2022 est.)<br>
+$722.655 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -513,9 +532,9 @@ vaccines, packaged medicine, nitrogen compounds, integrated circuits, scented mi
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$548.827 billion (2023 est.)<br>
-$516.084 billion (2022 est.)<br>
-$479.284 billion (2021 est.)<br>
+$580.399 billion (2023 est.)<br>
+$536.882 billion (2022 est.)<br>
+$500.334 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

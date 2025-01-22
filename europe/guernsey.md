@@ -243,9 +243,16 @@ _election results_: <em><br>2020: </em>Peter FERBRACHE (independent) elected pre
 <strong>note:</strong> the chief minister is the president of the Policy and Resources Committee and is the de facto head of government; the Policy and Resources Committee, elected by the States of Deliberation, functions as the executive; the 5 members all have equal voting rights<br>
 
 **Legislative branch**<br>
-_description_: unicameral States of Deliberation (40 seats; 38 People's Deputies and 2 representatives of the States of Alderney; members directly elected by majority vote to serve 4-year terms)<br>
-_elections_: last held on 7 October 2020 (next to be held in June 2025)<br>
-_election results_: percent of vote - GPI 24.0%, GP 10%, APG 3.4%, independent 62.6%; seats - GPI 10, GP 6, independent 22, States of Alderney 2; composition - men 32, women 8, percentage women 20%<br>
+_legislature name_: States of Deliberation<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 40 (directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 10/7/2020<br>
+_parties elected and seats per party_: GPI (10); GP (6); independent (22); States of Alderney (2)<br>
+_percentage of women in chamber_: 20%<br>
+_expected date of next election_: June 2025<br>
 <strong>note:</strong> non-voting members include the bailiff (presiding officer), attorney-general, and solicitor-general<br>
 
 **Judicial branch**<br>
@@ -287,22 +294,22 @@ $3.451 billion (2014 est.)<br>
 <strong>note:</strong> data are in 2015 dollars<br>
 
 **Real GDP growth rate**<br>
-7.81% (2022 est.)<br>
+3.72% (2023 est.)<br>
+5.34% (2022 est.)<br>
 15.46% (2021 est.)<br>
--8.47% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency; entry includes Jersey and Guernsey<br>
 
 **Real GDP per capita**<br>
 $52,500 (2014 est.)<br>
 
 **GDP (official exchange rate)**<br>
-$11.228 billion (2022 est.)<br>
+$12.508 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate; entry includes Jersey and Guernsey<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.8% (2022 est.)<br>
-_industry_: 8.4% (2022 est.)<br>
-_services_: 92% (2022 est.)<br>
+_agriculture_: 0.6% (2023 est.)<br>
+_industry_: 8.2% (2023 est.)<br>
+_services_: 91.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **Agricultural products**<br>
@@ -312,11 +319,11 @@ tomatoes, greenhouse flowers, sweet peppers, eggplant, fruit; Guernsey cattle<br
 tourism, banking<br>
 
 **Industrial production growth rate**<br>
-1.64% (2022 est.)<br>
+1.26% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency; entry includes Jersey and Guernsey<br>
 
 **Labor force**<br>
-86,000 (2023 est.)<br>
+83,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work;entry includes Jersey and Guernsey<br>
 
 **Unemployment rate**<br>

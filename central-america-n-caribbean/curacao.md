@@ -264,9 +264,16 @@ _cabinet_: Cabinet sworn-in by the governor<br>
 _elections/appointments_: the monarch is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party usually elected prime minister by the Parliament of Curacao; election last&nbsp;held on 19 March 2021 (next to be held in 2025)<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament of Curacao (21 seats; members directly elected by party-list proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 19 March 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party - MFK 27.8%, PAR 13.9%, PNP 12.5%, MAN 6.4%, KEM 5.4%, TPK 5.2%; seats by party - MFK 9, PAR 4, PNP 4, MAN 2, KEM 1, TPK 1; composition - men 15, women 6, percent of women 28.6%<br>
+_legislature name_: Parliament of Curacao<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 21 (directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 3/19/2021<br>
+_parties elected and seats per party_: MFK (9); PAR (4); PNP (4); MAN (2); KEM (1); TPK (1)<br>
+_percentage of women in chamber_: 28.6%<br>
+_expected date of next election_: 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (sits as a 3-judge panel); final appeals heard by the Supreme Court, in The Hague, Netherlands<br>
@@ -311,25 +318,25 @@ _selected World Heritage Site locales_: Historic Willemstad<br>
 high-income island economy; developed infrastructure; tourism and financial services-based economy; investing in information technology incentives; oil refineries service Venezuela and China; unique COVID-19 stimulus support applied to government debts rather than household support<br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.137 billion (2022 est.)<br>
+$4.271 billion (2023 est.)<br>
+$4.099 billion (2022 est.)<br>
 $3.834 billion (2021 est.)<br>
-$3.68 billion (2020 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-7.9% (2022 est.)<br>
+4.2% (2023 est.)<br>
+6.91% (2022 est.)<br>
 4.2% (2021 est.)<br>
--18.04% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$27,600 (2022 est.)<br>
+$28,900 (2023 est.)<br>
+$27,300 (2022 est.)<br>
 $25,200 (2021 est.)<br>
-$23,700 (2020 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.074 billion (2022 est.)<br>
+$3.281 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -339,9 +346,9 @@ $3.074 billion (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.3% (2022 est.)<br>
-_industry_: 11.2% (2022 est.)<br>
-_services_: 73.4% (2022 est.)<br>
+_agriculture_: 0.3% (2023 est.)<br>
+_industry_: 11.7% (2023 est.)<br>
+_services_: 73.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -369,21 +376,21 @@ _male_: 38.1%<br>
 _female_: 47.1%<br>
 
 **Remittances**<br>
+5.38% of GDP (2023 est.)<br>
 5.16% of GDP (2022 est.)<br>
 5.18% of GDP (2021 est.)<br>
-5.22% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Current account balance**<br>
--$877.284 million (2022 est.)<br>
--$507.018 million (2021 est.)<br>
--$688.805 million (2020 est.)<br>
+-$654.688 million (2023 est.)<br>
+-$822.667 million (2022 est.)<br>
+-$508.758 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$2.049 billion (2022 est.)<br>
-$1.373 billion (2021 est.)<br>
-$1.014 billion (2020 est.)<br>
+$2.107 billion (2023 est.)<br>
+$2.046 billion (2022 est.)<br>
+$1.363 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -395,9 +402,9 @@ refined petroleum, petroleum coke, fish, coal tar oil, scrap iron (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$2.904 billion (2022 est.)<br>
-$1.919 billion (2021 est.)<br>
-$1.709 billion (2020 est.)<br>
+$2.764 billion (2023 est.)<br>
+$2.891 billion (2022 est.)<br>
+$1.91 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

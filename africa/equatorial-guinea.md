@@ -307,9 +307,30 @@ _elections/appointments_: president directly elected by simple majority popular 
 _election results_: <em><br>2022: </em>OBIANG Nguema Mbasogo reelected president; percent of vote - OBIANG Nguema Mbasogo (PDGE) 95%, other 6.1%<br><br><em>2016: </em>OBIANG Nguema Mbasogo reelected president; percent of vote - OBIANG Nguema Mbasogo (PDGE) 93.5%, other 6.5%<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Assembly or Asemblea Nacional consists of:<br>Senate or Senado (70 seats statutory, 74 seats for current term; 55 members directly elected in multi-seat constituencies by closed party-list proportional representation vote, 15 appointed by the president, and 4 ex-officio)<br><br>Chamber of Deputies or Camara de los Diputados (100 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve 5-year terms)<br>
-_elections_: Senate - last held on 19 January 2023 (next to be held in 2028)<br>Chamber of Deputies - last held on 19 January 2023 (next to be held in 2028)<br>
-_election results_: Senate - percent of vote by party - NA; (elected) seats by party - PDGE 55; composition - men 60, women 20, percentage women 25% (includes 15 appointed and 2 ex-officio members)<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - PDGE 100; composition - men 68, women 32, percentage women 32%; total National Assembly percentage women 28.9%<br>
+_legislature name_: Parliament (Parlamento)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: Chamber of Deputies (Cámara de los Diputados)<br>
+_number of seats_: 100 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 11/20/2022<br>
+_parties elected and seats per party_: Democratic Party of Equatorial Guinea (PDGE) and its allies (100)<br>
+_percentage of women in chamber_: 32%<br>
+_expected date of next election_: November 2027<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Senado)<br>
+_number of seats_: 70 (55 directly elected; 15 appointed)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 11/20/2022<br>
+_parties elected and seats per party_: Democratic Party of Equatorial Guinea (PDGE) and its allies (55)<br>
+_percentage of women in chamber_: 25%<br>
+_expected date of next election_: November 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of the President of the Supreme Court and nine judges organized into civil, criminal, commercial, labor, administrative, and customary sections); Constitutional Court (consists of the court president and 4 members)<br>
@@ -354,25 +375,25 @@ _lyrics/music_: Atanasio Ndongo MIYONO/Atanasio Ndongo MIYONO or Ramiro Sanchez 
 growing CEMAC economy and new OPEC member; large oil and gas reserves; targeting economic diversification and poverty reduction; still recovering from CEMAC crisis; improving public financial management; persistent poverty; hard-hit by COVID-19<br>
 
 **Real GDP (purchasing power parity)**<br>
-$28.938 billion (2023 est.)<br>
-$30.685 billion (2022 est.)<br>
+$28.985 billion (2023 est.)<br>
+$30.539 billion (2022 est.)<br>
 $29.585 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--5.69% (2023 est.)<br>
-3.72% (2022 est.)<br>
+-5.09% (2023 est.)<br>
+3.22% (2022 est.)<br>
 0.86% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$16,900 (2023 est.)<br>
-$18,300 (2022 est.)<br>
-$18,100 (2021 est.)<br>
+$15,700 (2023 est.)<br>
+$16,900 (2022 est.)<br>
+$16,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$12.117 billion (2023 est.)<br>
+$12.338 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -382,18 +403,18 @@ $12.117 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.9% (2023 est.)<br>
-_industry_: 51.2% (2023 est.)<br>
-_services_: 44.9% (2023 est.)<br>
+_agriculture_: 3.1% (2023 est.)<br>
+_industry_: 46.5% (2023 est.)<br>
+_services_: 50.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 54.7% (2023 est.)<br>
-_government consumption_: 26% (2023 est.)<br>
-_investment in fixed capital_: 10.8% (2023 est.)<br>
-_investment in inventories_: 0.1% (2019 est.)<br>
-_exports of goods and services_: 47.8% (2023 est.)<br>
-_imports of goods and services_: -39.3% (2023 est.)<br>
+_household consumption_: 52.7% (2023 est.)<br>
+_government consumption_: 26.2% (2023 est.)<br>
+_investment in fixed capital_: 9.3% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
+_exports of goods and services_: 36.6% (2023 est.)<br>
+_imports of goods and services_: -24.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -404,11 +425,11 @@ sweet potatoes, cassava, plantains, oil palm fruit, root vegetables, bananas, co
 petroleum, natural gas, sawmilling<br>
 
 **Industrial production growth rate**<br>
--11.87% (2023 est.)<br>
+-12.92% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-593,000 (2023 est.)<br>
+645,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -424,9 +445,9 @@ _female_: 17.8% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
-0% of GDP (2019 est.)<br>
-0% of GDP (2018 est.)<br>
-0% of GDP (2017 est.)<br>
+0% of GDP (2023 est.)<br>
+0% of GDP (2022 est.)<br>
+0% of GDP (2021 est.)<br>
 
 **Budget**<br>
 _revenues_: $3.62 billion (2022 est.)<br>
@@ -437,7 +458,7 @@ _expenditures_: $1.512 billion (2022 est.)<br>
 37.4% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-6.69% (of GDP) (2022 est.)<br>
+6.6% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>

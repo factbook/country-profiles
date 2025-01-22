@@ -355,9 +355,28 @@ _elections/appointments_: president directly elected by simple majority popular 
 _election results_: <em><br>2018:</em> Paul BIYA reelected president; percent of vote - Paul BIYA (CPDM) 71.3%, Maurice KAMTO (MRC) 14.2%, Cabral LIBII (Univers) 6.3%, other 8.2%<br><br><em>2011: </em>Paul BIYA reelected president; percent of vote - Paul BIYA (CPDM) 78.0%, John FRU NDI (SDF) 10.7%, Garga Haman ADJI 3.2%, other 8.1% (2018)<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (100 seats; 70 members indirectly elected by regional councils and 30 appointed by the president; members serve 5-year terms)<br>National Assembly or Assemblee Nationale (180 seats; members directly elected in 49 single and multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: Senate - last held on 12 March 2023 (next to be held in 2028)<br>National Assembly - last held on 9 February 2020 (next to be held 28 February 2025)<br>
-_election results_: Senate - percent of vote by party - CDPM 100%; seats by party - CDPM 100; composition - men 69, women 31, percentage women 31%<br><br>National Assembly - percent of vote by party - NA; seats by party - CPDM 152, UNDP 7, SDF 5, PCRN 5, UDC 4, FSNC 3, MDR 2, UMS 2; composition - men 119, women 61, percentage women 33.9%; total Parliament percentage women 51.1%; note <strong>- </strong>13 National Assembly seats were vacant after the 9 February 2020 election due to violence in northwest and southwest regions; CDPM won those seats in a 22 March 2020 election<br>
+_legislature name_: Parlement - Parliament<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: National Assembly (Assemblée nationale - National Assembly)<br>
+_number of seats_: 180 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 2/9/2020 to 3/22/2020<br>
+_parties elected and seats per party_: Cameroon People's Democratic Movement (RDPC/CPDM) (152); Other (28)<br>
+_percentage of women in chamber_: 33.9%<br>
+_expected date of next election_: February 2025<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Sénat - Senate)<br>
+_number of seats_: 100 (70 indirectly elected; 30 appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 3/12/2023<br>
+_percentage of women in chamber_: 32%<br>
+_expected date of next election_: March 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Cameroon (consists of 9 titular and 6 surrogate judges and organized into judicial, administrative, and audit chambers); Constitutional Council (consists of 11 members)<br>
@@ -408,25 +427,25 @@ _selected World Heritage Site locales_: Dja Faunal Reserve; Sangha Trinational F
 largest CEMAC economy with many natural resources; recent political instability and terrorism reducing economic output; systemic corruption; poor property rights enforcement; increasing poverty in northern regions<br>
 
 **Real GDP (purchasing power parity)**<br>
-$138.925 billion (2023 est.)<br>
-$133.59 billion (2022 est.)<br>
-$128.969 billion (2021 est.)<br>
+$138.191 billion (2023 est.)<br>
+$133.843 billion (2022 est.)<br>
+$129.022 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.99% (2023 est.)<br>
-3.58% (2022 est.)<br>
+3.25% (2023 est.)<br>
+3.74% (2022 est.)<br>
 3.34% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$4,800 (2023 est.)<br>
+$4,900 (2023 est.)<br>
 $4,800 (2022 est.)<br>
-$4,700 (2021 est.)<br>
+$4,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$47.946 billion (2023 est.)<br>
+$49.279 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -442,18 +461,18 @@ _Standard & Poors rating_: B- (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 16.7% (2023 est.)<br>
-_industry_: 25.2% (2023 est.)<br>
-_services_: 51.6% (2023 est.)<br>
+_agriculture_: 17.3% (2023 est.)<br>
+_industry_: 25.5% (2023 est.)<br>
+_services_: 50.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 73.3% (2023 est.)<br>
-_government consumption_: 11.3% (2023 est.)<br>
-_investment in fixed capital_: 17.5% (2023 est.)<br>
-_investment in inventories_: -0.1% (2023 est.)<br>
-_exports of goods and services_: 18.3% (2023 est.)<br>
-_imports of goods and services_: -20.3% (2023 est.)<br>
+_household consumption_: 73.9% (2023 est.)<br>
+_government consumption_: 10.6% (2023 est.)<br>
+_investment in fixed capital_: 19.1% (2023 est.)<br>
+_investment in inventories_: 0.4% (2023 est.)<br>
+_exports of goods and services_: 16.6% (2023 est.)<br>
+_imports of goods and services_: -20.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -464,11 +483,11 @@ cassava, plantains, oil palm fruit, maize, taro, tomatoes, sorghum, sugarcane, b
 petroleum production and refining, aluminum production, food processing, light consumer goods, textiles, lumber, ship repair<br>
 
 **Industrial production growth rate**<br>
-3.8% (2023 est.)<br>
+-0.41% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-11.965 million (2023 est.)<br>
+11.89 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -501,8 +520,8 @@ _highest 10%_: 31.1% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.78% of GDP (2023 est.)<br>
-1.29% of GDP (2022 est.)<br>
+1.18% of GDP (2023 est.)<br>
+1.27% of GDP (2022 est.)<br>
 0.96% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -515,7 +534,7 @@ _expenditures_: $5.592 billion (2021 est.)<br>
 36.9% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-11.35% (of GDP) (2021 est.)<br>
+11.34% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -559,7 +578,7 @@ $3.962 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$9.612 billion (2022 est.)<br>
+$11.811 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

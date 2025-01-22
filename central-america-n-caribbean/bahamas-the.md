@@ -296,10 +296,29 @@ _cabinet_: Cabinet appointed by governor-general on recommendation of prime mini
 _elections/appointments_: the monarchy is hereditary; governor-general appointed by the monarch on the advice of the prime minister; following parliamentary elections, the leader of the majority party or majority coalition is appointed prime minister by the governor-general; the prime minister recommends the deputy prime minister<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (16 seats; members appointed by the governor-general - 9 selected on the advice of the prime minister, 4 on the advice of the leader of the opposition party, and 3 on the advice of the prime minister in consultation with the opposition leader; members serve 5-year terms)<br>House of Assembly (39 seats statutory, 38 seats current; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: Senate - last appointments on 7 October 2021 (next appointments by 31 October 2026)<br>House of Assembly - last held on 16 September 2021 (next to be held by September 2026)<br>
-_election results_: Senate - appointed: PLP 12, FNM 4; composition - men 12, women 4, percentage women 25%<br><br>House of Assembly - percent of vote by party - PLP 52.5%, FNM 36.2%; seats by party - PLP 32, FNM 7; composition - men 32, women 7, percentage women 18%; total Parliament percentage women 20%<br>
+_legislature name_: Parliament<br>
+_legislative structure_: bicameral<br>
 <strong>note:</strong> Parliament sits for 5 years from the date of the last general election: the government may dissolve the parliament and call elections at any time<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Assembly<br>
+_number of seats_: 39 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 9/16/2021<br>
+_parties elected and seats per party_: Progressive Liberal Party (PLP) (32); Free National Movement (FNM) (7)<br>
+_percentage of women in chamber_: 17.9%<br>
+_expected date of next election_: September 2026<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate<br>
+_number of seats_: 16 (all appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 10/6/2021<br>
+_percentage of women in chamber_: 31.3%<br>
+_expected date of next election_: October 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president and 6 justices, organized in 3-member panels); Supreme Court (consists of the chief justice and 19 justices)<br>

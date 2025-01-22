@@ -330,9 +330,15 @@ _elections/appointments_: president directly elected by simple majority popular 
 _election results_: <em><br>2021: </em>Bashar al-ASAD elected president; percent of vote - Bashar al-ASAD (Ba'th Party) 95.2%, Mahmoud Ahmad MAREI (Democratic Arab Socialist Union) 3.3%, other 1.5%<br><br><em>2014: </em>Bashar al-ASAD elected president; percent of vote - Bashar al-ASAD (Ba'th Party) 88.7%, Hassan al-NOURI (independent) 4.3%, Maher HAJJER (independent) 3.2%, other/invalid 3.8%<br>
 
 **Legislative branch**<br>
-_description_: unicameral People's Assembly or Majlis al-Shaab (250 seats; members directly elected in multi-seat constituencies by simple majority preferential vote to serve 4-year terms)<br>
-_elections_: last held on 15 July 2024 (next to be held in July 2028)<br>
-_election results_: percent of vote by party - NA; seats by party - Ba'ath Party 169, SSNP 3, other 13, independent 65; composition - NA<br>
+_legislature name_: People's Assembly (Majlis Al-Chaab)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 250 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 7/15/2024<br>
+_percentage of women in chamber_: 9.6%<br>
+_expected date of next election_: July 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation (organized into civil, criminal, religious, and military divisions, each with 3 judges); Supreme Constitutional Court (consists of 7 members)<br>
@@ -375,43 +381,44 @@ _selected World Heritage Site locales_: Ancient City of Damascus; Ancient City o
 low-income Middle Eastern economy; prior infrastructure and economy devastated by 11-year civil war; ongoing US sanctions; sporadic trans-migration during conflict; currently being supported by World Bank trust fund; ongoing hyperinflation<br>
 
 **Real GDP (purchasing power parity)**<br>
-$62.151 billion (2021 est.)<br>
-$61.353 billion (2020 est.)<br>
-$61.465 billion (2019 est.)<br>
+$100.066 billion (2022 est.)<br>
+$99.338 billion (2021 est.)<br>
+$97.529 billion (2020 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.3% (2021 est.)<br>
+0.73% (2022 est.)<br>
+1.85% (2021 est.)<br>
 -0.18% (2020 est.)<br>
-1.22% (2019 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$2,900 (2021 est.)<br>
-$3,000 (2020 est.)<br>
-$3,100 (2019 est.)<br>
+$4,500 (2022 est.)<br>
+$4,600 (2021 est.)<br>
+$4,600 (2020 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$8.98 billion (2021 est.)<br>
+$23.623 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-28.1% (2017 est.)<br>
-47.3% (2016 est.)<br>
+13.42% (2019 est.)<br>
+0.94% (2018 est.)<br>
+18.08% (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 27.8% (2021 est.)<br>
-_industry_: 28.9% (2021 est.)<br>
-_services_: 43.3% (2021 est.)<br>
+_agriculture_: 43.1% (2022 est.)<br>
+_industry_: 12% (2022 est.)<br>
+_services_: 44.9% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 128.6% (2021 est.)<br>
-_government consumption_: 10.9% (2021 est.)<br>
-_investment in fixed capital_: 8.7% (2021 est.)<br>
-_exports of goods and services_: 24.8% (2021 est.)<br>
-_imports of goods and services_: -73.1% (2021 est.)<br>
+_household consumption_: 114.8% (2022 est.)<br>
+_government consumption_: 2.7% (2022 est.)<br>
+_investment in fixed capital_: 4.5% (2022 est.)<br>
+_exports of goods and services_: 6.8% (2022 est.)<br>
+_imports of goods and services_: -28.8% (2022 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -422,11 +429,11 @@ wheat, milk, olives, sheep milk, tomatoes, potatoes, maize, watermelons, apples,
 petroleum, textiles, food processing, beverages, tobacco, phosphate rock mining, cement, oil seeds crushing, automobile assembly<br>
 
 **Industrial production growth rate**<br>
--14.03% (2021 est.)<br>
+-13.39% (2022 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-6.315 million (2023 est.)<br>
+6.354 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -452,9 +459,9 @@ _lowest 10%_: 3.8% (2022 est.)<br>
 _highest 10%_: 21.1% (2022 est.)<br>
 
 **Remittances**<br>
+0% of GDP (2022 est.)<br>
 0% of GDP (2021 est.)<br>
 0% of GDP (2020 est.)<br>
-0% of GDP (2019 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -505,7 +512,7 @@ $407.3 million (31 December 2017 est.)<br>
 $504.6 million (31 December 2016 est.)<br>
 
 **Debt - external**<br>
-$3.619 billion (2022 est.)<br>
+$4.578 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

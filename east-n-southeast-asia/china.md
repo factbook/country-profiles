@@ -368,9 +368,14 @@ _election results_: <em><br>2023: </em>XI Jinping reelected president; National 
 <strong>note: </strong>ultimate authority rests with the Communist Party Central Committee’s 25-member Political Bureau (Politburo) and its seven-member Standing Committee; XI Jinping holds the three most powerful positions as party general secretary, state president, and chairman of the Central Military Commission<br>
 
 **Legislative branch**<br>
-_description_: unicameral National People's Congress (NPC) or Quanguo Renmin Daibiao Dahui (maximum of 3,000 seats; members indirectly elected by municipal, regional, and provincial people's congresses, and the People's Liberation Army; members serve 5-year terms)<br>
-_elections_: the 14th NPC convened on 5 March 2023; the 15th NPC will convene in March 2028<br>
-_election results_: percent of vote - NA; seats by party - NA; the 14th NPC consists of 2,977 delegates; 2,187 men, 790 women, percentage women 26.5%<br>
+_legislature name_: National People's Congress (Quanguo Renmin Daibiao Dahui)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 3000 (all indirectly elected)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 3/5/2023<br>
+_percentage of women in chamber_: 26.5%<br>
+_expected date of next election_: March 2028<br>
 <strong>note:</strong> in practice, only members of the Chinese Communist Party (CCP), its 8 allied independent parties, and CCP-approved independent candidates are elected<br>
 
 **Judicial branch**<br>
@@ -426,14 +431,14 @@ in 2018, the Beijing established an investigatory National Supervisory Commissio
 one of the world&rsquo;s top two economies; sustained growth due to export relations, its manufacturing sector, and low-wage workers; only major economy to avoid COVID-19 economic decline; recovery efforts slowing due to longstanding poverty imbalances and other institutional issues; state-sponsored economic controls<br>
 
 **Real GDP (purchasing power parity)**<br>
-$31.227 trillion (2023 est.)<br>
-$29.683 trillion (2022 est.)<br>
+$31.23 trillion (2023 est.)<br>
+$29.672 trillion (2022 est.)<br>
 $28.822 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.2% (2023 est.)<br>
-2.99% (2022 est.)<br>
+5.25% (2023 est.)<br>
+2.95% (2022 est.)<br>
 8.45% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
@@ -466,10 +471,10 @@ _services_: 54.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 37.4% (2022 est.)<br>
-_government consumption_: 16.1% (2022 est.)<br>
-_investment in fixed capital_: 41.9% (2022 est.)<br>
-_investment in inventories_: 1.2% (2022 est.)<br>
+_household consumption_: 39.1% (2023 est.)<br>
+_government consumption_: 16.5% (2023 est.)<br>
+_investment in fixed capital_: 41.3% (2023 est.)<br>
+_investment in inventories_: 0.7% (2023 est.)<br>
 _exports of goods and services_: 19.7% (2023 est.)<br>
 _imports of goods and services_: -17.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -482,11 +487,11 @@ maize, rice, vegetables, wheat, sugarcane, potatoes, cucumbers/gherkins, tomatoe
 world leader in gross value of industrial output; mining and ore processing, iron, steel, aluminum, and other metals, coal; machine building; armaments; textiles and apparel; petroleum; cement; chemicals; fertilizer; consumer products (including footwear, toys, and electronics); food processing; transportation equipment, including automobiles, railcars and locomotives, ships, aircraft; telecommunications equipment, commercial space launch vehicles, satellites<br>
 
 **Industrial production growth rate**<br>
-3.58% (2023 est.)<br>
+4.7% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-779.246 million (2023 est.)<br>
+781.103 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -506,7 +511,7 @@ _female_: 14.2% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-37.1 (2020 est.)<br>
+35.7 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -514,12 +519,12 @@ _on food_: 20.1% of household expenditures (2022 est.)<br>
 _on alcohol and tobacco_: 3% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.1% (2020 est.)<br>
-_highest 10%_: 29.4% (2020 est.)<br>
+_lowest 10%_: 3.2% (2021 est.)<br>
+_highest 10%_: 28.2% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.28% of GDP (2023 est.)<br>
+0.16% of GDP (2023 est.)<br>
 0.15% of GDP (2022 est.)<br>
 0.13% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -577,7 +582,7 @@ $3.428 trillion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$408.967 billion (2022 est.)<br>
+$497.467 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

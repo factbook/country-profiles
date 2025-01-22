@@ -334,15 +334,22 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Faure GNASSINGBE (since 4 May 2005)<br>
-_head of government_: Prime Minister Victoire TOMEGAH Dogb&eacute; (since 25 September 2020)&nbsp;<br>
+_head of government_: Prime Minister Victoire TOMEGAH Dogb&eacute; (since 25 September 2020)<br>
 _cabinet_: Council of Ministers appointed by the president on the advice of the prime minister<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 22 February 2020 (next to be held in 2025); prime minister appointed by the president<br>note- on 21 May 2024 the Prime Minister and her cabinet resigned. The President requested they continue serving during the government transition.<br>
 _election results_: <br><em>2020:</em> Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 70.8%, Agbeyome KODJO (MPDD) 19.5%, Jean-Pierre FABRE (ANC) 4.7%, other 5%<br><br><em>2015:</em> Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 58.8%, Jean-Pierre FABRE (ANC) 35.2%, Tchaboure GOGUE (ADDI) 4%, other 2% <p> </p><br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Assemblee Nationale (113 seats; members directly elected in multi-seat constituencies by closed, party-list proportional representation vote to serve 5-year terms)<br>
-_elections_: last held on 29 April 2024 (next election April 2029)<br>
-_election results_: percent of vote by party - NA; seats by party - UNIR 108, ADDI 2, ANC 1, DMP 1, FDR 1 composition - men 92, women 21, percentage of women elected 18.6%<br>
+_legislature name_: National Assembly (Assemblée nationale)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 113 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 6 years<br>
+_most recent election date_: 4/29/2024<br>
+_parties elected and seats per party_: Union for the Republic (UNIR) (108); Other (5)<br>
+_percentage of women in chamber_: 18.6%<br>
+_expected date of next election_: April 2030<br>
 <strong>note:</strong> party lists are required to contain equal numbers of men and women<br>
 
 **Judicial branch**<br>
@@ -364,8 +371,8 @@ _FAX_: [1] (202) 232-3190<br>
 _email address and website_: <br>embassyoftogo@hotmail.com<br><br>https://embassyoftogousa.com/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Elizabeth FITZSIMMONS (since 26 April 2022)<br>
-_embassy_: Boulevard Eyadema, B.P. 852, Lome<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Ronald E. HAWKINS Jr. (since 31 May 2024)<br>
+_embassy_: DoS PDF Ambassador Assignments Overseas Report, 23 December 2024 and 28 June 2024, accessed 14 January 2025; and<br>U.S. Embassy Togo website homepage, U.S. Mission Leaders, https://tg.usembassy.gov/, Homepage - U.S. Embassy in Togo, current as of 14 January 2025, accessed 14 January 2025; and<br>U.S. Embassy Togo website, U.S. Mission Leaders, (undated), https://tg.usembassy.gov/category/u-s-mission-leaders/, U.S. Mission Leaders Archives - U.S. Embassy in Togo, accessed 14 January 2025<br>X@USEmbassyLome post on departure of Ambassador, 30 May 2024, accessed 14 January 2025<br>
 _mailing address_: 2300 Lome Place, Washington, DC 20521-2300<br>
 _telephone_: [228] 2261-5470<br>
 _FAX_: [228] 2261-5501<br>
@@ -435,6 +442,7 @@ _services_: 51.7% (2023 est.)<br>
 _household consumption_: 78.1% (2023 est.)<br>
 _government consumption_: 12.6% (2023 est.)<br>
 _investment in fixed capital_: 23% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
 _exports of goods and services_: 23.9% (2023 est.)<br>
 _imports of goods and services_: -37.5% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -451,7 +459,7 @@ phosphate mining, agricultural processing, cement, handicrafts, textiles, bevera
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.166 million (2023 est.)<br>
+3.241 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -480,9 +488,9 @@ _highest 10%_: 29.6% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-6.1% of GDP (2023 est.)<br>
-6.81% of GDP (2022 est.)<br>
-6.67% of GDP (2021 est.)<br>
+7.09% of GDP (2023 est.)<br>
+7.96% of GDP (2022 est.)<br>
+7.8% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -536,7 +544,7 @@ $77.8 million (31 December 2017 est.)<br>
 $42.6 million (31 December 2016 est.)<br>
 
 **Debt - external**<br>
-$1.462 billion (2022 est.)<br>
+$2.111 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

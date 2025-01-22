@@ -173,9 +173,12 @@ _elections/appointments_: pope elected by the College of Cardinals, usually for 
 _election results_: <em><br>2013:</em> Jorge Mario BERGOGLIO, former Archbishop of Buenos Aires, elected Pope FRANCIS<br>
 
 **Legislative branch**<br>
-_description_: unicameral Pontifical Commission for the State of Vatican City or Pontificia Commissione per lo Stato della Citta del Vaticano; 7 seats appointed by the pope<br>
-_elections_: appointment dates vary<br>
-_election results_: composition - men 6, woman 1<br>
+_legislature name_: Pontifical Commission for the State of Vatican City (Pontificia Commissione per lo Stato della Citta del Vaticano)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 7<br>
+_term in office_: 5 years<br>
+_most recent election date_: 22 September 2018<br>
+_percentage of women in chamber_: 0%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Supreme Tribunal of the Apostolic Signatura (consists of the cardinal prefect, who serves as ex-officio president of the court, and 2 other cardinals of the Prefect Signatura); note - judicial duties were established by the Motu Proprio, papal directive, of Pope PIUS XII on 1 May 1946; most Vatican City criminal matters are handled by the Republic of Italy courts<br>

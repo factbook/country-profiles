@@ -329,17 +329,24 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Salome ZOURABICHVILI (since 16 December 2018)<br>
+_chief of state_: President Mikheil KAVELASHVILI (since 29 December 2024)<br>
 _head of government_: Prime Minister Irakli KOBAKHIDZE (since 8 February 2024)<br>
 _cabinet_: Cabinet of Ministers<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 November 2018 (next to be held in 2024); prime minister nominated by Parliament, appointed by the president; note - 2017 constitutional amendments made the 2018 election the last where the president was directly elected; future presidents will be elected by a 300-member College of Electors; in light of these changes, ZOURABICHVILI was allowed a six-year term<br>
-_election results_: <em><br>2024: </em>Irakli KOBAKHIDZE approved as prime minister by Parliamentary vote 84-10<em><br><br>2018:</em> Salome ZOURABICHVILI elected president in second round; percent of vote in second round - Salome ZOURABICHVILI (independent, backed by Georgian Dream) 59.5%, Grigol VASHADZE (UNM) 40.5%; Irakli GARIBASHVILI approved as prime minister by Parliamentary vote 89-2; note-resigned on January 29, 2024<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 14 December 2024; next election in 2029; prime minister nominated by Parliament, appointed by the president; note - 2017 constitutional amendments made the 2018 election the last where the president was directly elected; future presidents will be elected by a 300-member College of Electors<br>
+_election results_: <em><br>2024: </em>Mikheil KAVELASHVILI (Georgian Dream Party) was formally inaugurated on 29 December 2024<br><em><br>2024: </em>Irakli KOBAKHIDZE approved as prime minister by Parliamentary vote 84-10<em><br><br>2018:</em> Salome ZOURABICHVILI elected president in second round; percent of vote in second round - Salome ZOURABICHVILI (independent, backed by Georgian Dream) 59.5%, Grigol VASHADZE (UNM) 40.5%; Irakli GARIBASHVILI approved as prime minister by Parliamentary vote 89-2; note-resigned on January 29, 2024<br>
 <strong>note: </strong>Irakli GARIBASHVILI resigned on 29 January 2024 to prepare for general elections in October 2024<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament or Sakartvelos Parlamenti (150 seats statutory, 140 as of October 2024); 120 members directly elected in a single nationwide constituency by closed, party-list proportional representation vote and 30 directly elected in single-seat constituencies by at least 50% majority vote, with a runoff if needed; no party earning less than 40% of total votes may claim a majority; members serve 4-year terms)<br>
-_elections_: last held on 26 October 2024<br>
-_election results_: percent of vote by party - Georgian Dream 53.9%, the Coalition for Change 11%, Unity-National Movement 10.2%, Strong Georgia 8.8%, Gakharia for Georgia 7.8%; seats by party - Georgian Dream 89, Coalition for Change 19, Unity-National Movement 16, Strong Georgia 14, Gakharia for Georgia 12<br>
+_legislature name_: Parliament (Sakartvelos Parlamenti)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 150 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 10/26/2024<br>
+_parties elected and seats per party_: Georgian Dream (89); Coalition for Changes (19); Unity - National Movement (16); Strong Georgia – Lelo, For people, For Liberty! (14); For Georgia (12)<br>
+_percentage of women in chamber_: 22%<br>
+_expected date of next election_: October 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 28 judges organized into several specialized judicial chambers; number of judges determined by the president of Georgia); Constitutional Court (consists of 9 judges); note - the Abkhazian and Ajarian Autonomous republics each have a supreme court and a hierarchy of lower courts<br>
@@ -389,25 +396,25 @@ _selected World Heritage Site locales_: Gelati Monastery (c); Historical Monumen
 <p>main economic activities include cultivation of agricultural products, such as grapes, citrus fruits, and hazelnuts; mining of manganese, copper, and gold; producing alcoholic and nonalcoholic beverages</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$83.656 billion (2023 est.)<br>
+$83.935 billion (2023 est.)<br>
 $77.838 billion (2022 est.)<br>
 $70.151 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-7.47% (2023 est.)<br>
+7.83% (2023 est.)<br>
 10.96% (2022 est.)<br>
 10.64% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$22,200 (2023 est.)<br>
+$22,600 (2023 est.)<br>
 $21,000 (2022 est.)<br>
 $18,900 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$30.536 billion (2023 est.)<br>
+$30.778 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -424,17 +431,17 @@ _Standard & Poors rating_: BB (2019)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 6% (2023 est.)<br>
-_industry_: 19% (2023 est.)<br>
-_services_: 61.7% (2023 est.)<br>
+_industry_: 18.9% (2023 est.)<br>
+_services_: 62.1% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 68.9% (2023 est.)<br>
-_government consumption_: 12.7% (2023 est.)<br>
+_household consumption_: 71.5% (2023 est.)<br>
+_government consumption_: 12.1% (2023 est.)<br>
 _investment in fixed capital_: 21.5% (2023 est.)<br>
-_investment in inventories_: 4.5% (2023 est.)<br>
-_exports of goods and services_: 49.4% (2023 est.)<br>
-_imports of goods and services_: -56.9% (2023 est.)<br>
+_investment in inventories_: 3.5% (2023 est.)<br>
+_exports of goods and services_: 49.3% (2023 est.)<br>
+_imports of goods and services_: -57.9% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -445,11 +452,11 @@ milk, grapes, potatoes, wheat, maize, apples, watermelons, barley, tangerines/ma
 steel, machine tools, electrical appliances, mining (manganese, copper, gold), chemicals, wood products, wine<br>
 
 **Industrial production growth rate**<br>
-6.15% (2023 est.)<br>
+5.13% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.853 million (2023 est.)<br>
+1.838 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -469,7 +476,7 @@ _female_: 32.7% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-34.2 (2021 est.)<br>
+33.5 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -477,12 +484,12 @@ _on food_: 32.1% of household expenditures (2022 est.)<br>
 _on alcohol and tobacco_: 3.4% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.7% (2021 est.)<br>
-_highest 10%_: 26.2% (2021 est.)<br>
+_lowest 10%_: 2.6% (2022 est.)<br>
+_highest 10%_: 25.2% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-14.74% of GDP (2023 est.)<br>
+13.65% of GDP (2023 est.)<br>
 15.42% of GDP (2022 est.)<br>
 14.02% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -501,13 +508,13 @@ _expenditures_: $6.23 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.326 billion (2023 est.)<br>
--$1.12 billion (2022 est.)<br>
+-$1.708 billion (2023 est.)<br>
+-$1.105 billion (2022 est.)<br>
 -$1.943 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$15.161 billion (2023 est.)<br>
+$15.173 billion (2023 est.)<br>
 $13.24 billion (2022 est.)<br>
 $8.086 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -521,7 +528,7 @@ copper ore, cars, fertilizers, iron alloys, wine (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$17.791 billion (2023 est.)<br>
+$17.816 billion (2023 est.)<br>
 $15.665 billion (2022 est.)<br>
 $11.151 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -541,7 +548,7 @@ $4.271 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$6.976 billion (2022 est.)<br>
+$9.791 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

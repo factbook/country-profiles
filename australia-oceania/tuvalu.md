@@ -305,9 +305,16 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 _election results_: <em>2024: </em>TEO was the only candidate nominated by the House of Assembly<em><br><br>2019: </em>Kausea NATANO elected prime minister by House of Assembly; House of Assembly vote - 10 to 6<br>
 
 **Legislative branch**<br>
-_description_: unicameral House of Assembly or Fale I Fono (16 seats; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: last held on 26 January 2024 (next to be held in January 2028)<br>
-_election results_: percent of vote - NA; seats - independent 16; composition - 16 men, 0 women, percentage women 0%<br>
+_legislature name_: Parliament (Palamene)<br>
+_legislative structure_: unicameral<br>
+_chamber name_: Parliament of Tuvalu (Palamene o Tuvalu)<br>
+_number of seats_: 16 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 1/26/2024<br>
+_percentage of women in chamber_: 0%<br>
+_expected date of next election_: January 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the chief justice and not less than 3 appeals judges); High Court (consists of the chief justice); appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>

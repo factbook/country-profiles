@@ -264,19 +264,19 @@ _name_: virtually every country has a national anthem; most (but not all) anthem
 <strong>note: </strong>the world's oldest national anthem is the "Het Wilhelmus" (The William) of the Netherlands, which dates to the 17th century; the first national anthem to be officially adopted (1795) was "La Marseillaise" (The Song of Marseille) of France; Japan claims to have the world's shortest national anthem, entitled "Kimigayo" (The Emperor's Reign), it consists of 11 measures of music (the lyrics are also the world's oldest, dating to the 10th century or earlier); the world's longest national anthem in terms of lyrics is that of Greece, "Ymnos eis tin Eleftherian" (Hymn to Liberty) with 158 stanzas -- only two of which are used; the world's longest national anthem in terms of music is that of Uruguay, "Himno Nacional" (National Anthem of Uruguay) with 105 bars (almost five minutes) -- generally only the first verse and chorus are sung; both Denmark and New Zealand have two official national anthems<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 1,199 (933 cultural, 227 natural, 39 mixed) (2023)<br>
+_total World Heritage Sites_: 1,223 (952 cultural, 231 natural, 40 mixed) (2024)<br>
 <strong>note:</strong> a summary of every country's UNESCO World Heritage Sites (i.e., country-specific "Wonders") may be found in individual country "National heritage" entries; a Wonders of the World field may be found under World &gt; Geography &gt; "Wonders of the World"<br>
 
 ## Economy
 
 **Real GDP (purchasing power parity)**<br>
-$165.804 trillion (2023 est.)<br>
-$160.74 trillion (2022 est.)<br>
-$155.603 trillion (2021 est.)<br>
+$166.647 trillion (2023 est.)<br>
+$161.376 trillion (2022 est.)<br>
+$156.07 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.72% (2023 est.)<br>
+2.83% (2023 est.)<br>
 3.09% (2022 est.)<br>
 6.26% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
@@ -288,28 +288,28 @@ $19,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$105.435 trillion (2023 est.)<br>
+$106.172 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-5.8% (2023 est.)<br>
-7.99% (2022 est.)<br>
-3.45% (2021 est.)<br>
+5.64% (2023 est.)<br>
+7.93% (2022 est.)<br>
+3.48% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 4.1% (2023 est.)<br>
-_industry_: 26.4% (2023 est.)<br>
+_industry_: 26.1% (2023 est.)<br>
 _services_: 61.8% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 55.3% (2022 est.)<br>
-_government consumption_: 16.5% (2022 est.)<br>
-_investment in fixed capital_: 26.1% (2022 est.)<br>
-_investment in inventories_: 1.4% (2022 est.)<br>
+_household consumption_: 56.5% (2023 est.)<br>
+_government consumption_: 16.5% (2023 est.)<br>
+_investment in fixed capital_: 26% (2023 est.)<br>
+_investment in inventories_: 0.6% (2023 est.)<br>
 _exports of goods and services_: 29.3% (2023 est.)<br>
-_imports of goods and services_: -28.7% (2023 est.)<br>
+_imports of goods and services_: -28.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -319,17 +319,17 @@ _imports of goods and services_: -28.7% (2023 est.)<br>
 <p>dominated by the onrush of technology, especially in computers, robotics, telecommunications, and medicines and medical equipment; most of these advances take place in OECD nations; only a small portion of non-OECD countries have succeeded in rapidly adjusting to these technological forces; the accelerated development of new technologies is complicating already grim environmental problems</p><br>
 
 **Industrial production growth rate**<br>
-1.95% (2023 est.)<br>
+2.26% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.628 billion (2023 est.)<br>
+3.642 billion (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.96% (2023 est.)<br>
-5.26% (2022 est.)<br>
-6.03% (2021 est.)<br>
+4.97% (2023 est.)<br>
+5.27% (2022 est.)<br>
+6.04% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -339,9 +339,9 @@ _female_: 15.4% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
-0.82% of GDP (2023 est.)<br>
-0.8% of GDP (2022 est.)<br>
-0.78% of GDP (2021 est.)<br>
+0.78% of GDP (2023 est.)<br>
+0.79% of GDP (2022 est.)<br>
+0.77% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -352,22 +352,22 @@ _expenditures_: $23.81 trillion (2017 est.)<br>
 67.2% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-14.68% (of GDP) (2022 est.)<br>
+14.34% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Exports**<br>
-$31.132 trillion (2023 est.)<br>
-$31.696 trillion (2022 est.)<br>
-$28.359 trillion (2021 est.)<br>
+$31.073 trillion (2023 est.)<br>
+$31.67 trillion (2022 est.)<br>
+$28.271 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - commodities**<br>
 the whole range of industrial and agricultural goods and services<br><br><strong>top ten commodities by share of world trade: </strong>crude petroleum, refined petroleum, integrated circuits, natural gas, cars, broadcasting equipment, garments, gold, packaged medicine, vehicle parts/accessories (2022)<br>
 
 **Imports**<br>
-$30.184 trillion (2023 est.)<br>
-$30.874 trillion (2022 est.)<br>
-$27.27 trillion (2021 est.)<br>
+$30.144 trillion (2023 est.)<br>
+$30.8 trillion (2022 est.)<br>
+$27.184 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - commodities**<br>

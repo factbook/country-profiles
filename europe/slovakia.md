@@ -340,9 +340,17 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2024: </em>Peter PELLEGRINI elected president in the second round; percent of vote in second round Peter PELLEGRINI 53.1%; Ivan KORCOK 46.9%; percent of vote in first round - Ivan KORCOK (independent) 42.5%; Peter PELLEGRINI (Hlas-SD) 37%; Stefan HARABIN (independent) 11.7%, other 8.8%; <em><br><br>2019:</em> Zuzana CAPUTOVA elected president in second round; percent of vote - Zuzana CAPUTOVA (PS) 58.4%, Maros SEFCOVIC (independent) 41.6%<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Council or Narodna Rada (150 seats; members directly elected in a single- and multi-seat constituencies by closed, party-list proportional representation vote; members serve 4-year terms); 76 seats needed for a majority<br>
-_elections_: last held on 30 September 2023 (next to be held by 2027)<br>
-_election results_: percent of vote by party - SMER-SSD 23%, PS 18%, Hlas-SD 14.7%, OL'aNO 8.9%, KDH 6.8%, SaS 6.3%, SNS 5.6%; seats by party - SMER-SSD 42, PS 32, Hlas-SD 27, OL'aNO 16, KDH 12, SaS 11, SNS 10; composition - men 116, women 34, percentage women 22.7%<br>
+_legislature name_: National Council (Narodna rada Slovenskej republiky)<br>
+_legislative structure_: unicameral<br>
+_chamber name_: National Council (Národná rada)<br>
+_number of seats_: 150 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 9/30/2023<br>
+_parties elected and seats per party_: Smer - Social Democracy (Smer-SD) (42); Progressive Slovakia (PS) (32); Hlas (“Voice”) - SD (27); Coalition OĽaNO and Friends, 'For the People' and 'Christian Union' (16); Christian Democratic Movement (KDH) (12); Freedom and Solidarity (SaS) (11); Slovak National Party (SNS) (10)<br>
+_percentage of women in chamber_: 22.7%<br>
+_expected date of next election_: September 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of the Slovak Republic (consists of the court president, vice president, and approximately 80 judges organized into criminal, civil, commercial, and administrative divisions with 3- and 5-judge panels); Constitutional Court of the Slovak Republic (consists of 13 judges organized into 3-judge panels)<br>
@@ -393,25 +401,25 @@ _selected World Heritage Site locales_: Historic Town of Bansk&aacute; &Scaron;t
 high-income EU- and eurozone-member economy; manufacturing and exports led by automotive sector; weakening of anti-corruption laws may impact foreign investment and status of EU funds; influx of foreign labor offsets aging workforce; widening fiscal deficit from social spending and EU-financed public investments&nbsp;<br>
 
 **Real GDP (purchasing power parity)**<br>
-$213.053 billion (2023 est.)<br>
-$209.705 billion (2022 est.)<br>
-$205.856 billion (2021 est.)<br>
+$213.219 billion (2023 est.)<br>
+$210.32 billion (2022 est.)<br>
+$209.379 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.6% (2023 est.)<br>
-1.87% (2022 est.)<br>
+1.38% (2023 est.)<br>
+0.45% (2022 est.)<br>
 4.77% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $39,300 (2023 est.)<br>
-$38,600 (2022 est.)<br>
-$37,800 (2021 est.)<br>
+$38,700 (2022 est.)<br>
+$38,400 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$132.794 billion (2023 est.)<br>
+$132.908 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -428,17 +436,17 @@ _Standard & Poors rating_: A+ (2015)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2% (2023 est.)<br>
-_industry_: 32.7% (2023 est.)<br>
-_services_: 56.5% (2023 est.)<br>
+_industry_: 32.9% (2023 est.)<br>
+_services_: 56.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 58.9% (2023 est.)<br>
 _government consumption_: 20.1% (2023 est.)<br>
-_investment in fixed capital_: 22% (2023 est.)<br>
-_investment in inventories_: -2.3% (2023 est.)<br>
-_exports of goods and services_: 91.4% (2023 est.)<br>
-_imports of goods and services_: -90.1% (2023 est.)<br>
+_investment in fixed capital_: 22.3% (2023 est.)<br>
+_investment in inventories_: -3% (2023 est.)<br>
+_exports of goods and services_: 91.9% (2023 est.)<br>
+_imports of goods and services_: -90.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -449,11 +457,11 @@ wheat, sugar beets, milk, maize, barley, rapeseed, sunflower seeds, potatoes, so
 automobiles; metal and metal products; electricity, gas, coke, oil, nuclear fuel; chemicals, synthetic fibers, wood and paper products; machinery; earthenware and ceramics; textiles; electrical and optical apparatus; rubber products; food and beverages; pharmaceutical<br>
 
 **Industrial production growth rate**<br>
-15.61% (2023 est.)<br>
+15.03% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.823 million (2023 est.)<br>
+2.814 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -482,13 +490,13 @@ _on alcohol and tobacco_: 5% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.4% (2021 est.)<br>
-_highest 10%_: 19.2% (2021 est.)<br>
+_highest 10%_: 19.1% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.69% of GDP (2023 est.)<br>
+1.8% of GDP (2023 est.)<br>
 2% of GDP (2022 est.)<br>
-2.05% of GDP (2021 est.)<br>
+2.01% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -497,23 +505,23 @@ _expenditures_: $46.056 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-64.51% of GDP (2022 est.)<br>
+64.32% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-19.5% (of GDP) (2022 est.)<br>
+19.44% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$2.088 billion (2023 est.)<br>
--$8.452 billion (2022 est.)<br>
--$4.655 billion (2021 est.)<br>
+-$2.23 billion (2023 est.)<br>
+-$11.126 billion (2022 est.)<br>
+-$5.776 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$121.238 billion (2023 est.)<br>
-$114.678 billion (2022 est.)<br>
-$109.565 billion (2021 est.)<br>
+$121.008 billion (2023 est.)<br>
+$114.519 billion (2022 est.)<br>
+$109.237 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -525,9 +533,9 @@ cars, vehicle parts/accessories, video displays, broadcasting equipment, electri
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$118.869 billion (2023 est.)<br>
-$120.622 billion (2022 est.)<br>
-$109.265 billion (2021 est.)<br>
+$119.666 billion (2023 est.)<br>
+$121.473 billion (2022 est.)<br>
+$109.891 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

@@ -336,9 +336,16 @@ _elections/appointments_: president directly elected for a 4-year term (eligible
 _election results_: <em><br>2024: </em>In the second round of presidential elections, incumbent Maia SANDU (PAS) wins 55.4% of the vote, Alexandr STOIANOGLO (PSRM) 44.6; turnout is 54.3%<em><br><br>2020:</em> Maia SANDU elected president in second round; percent of vote in second round - Maia SANDU (PAS) 57.7%, Igor DODON (PSRM) 42.3%<br><br><em>2016</em>: Igor DODON elected president in second round; percent of vote - Igor DODON (PSRM) 52.1%, Maia SANDU (PAS) 47.9%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament (101 seats; 51 members directly elected in single-seat constituencies by simple majority vote and 50 members directly elected in a single, nationwide constituency by closed party-list proportional representation vote; all members serve 4-year terms<br>
-_elections_: last held on 11 July 2021 (next to be held in July 2025)<br>
-_election results_: percent of vote by party - PAS 52.8%, BECS 27.1%, SOR 5.7%, other 14.4%; seats by party - PAS 63, BECS 32, SOR 6; composition - men 58, women 40, percent of women 40.8%<br>
+_legislature name_: Parliament (Parlament)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 101 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 7/11/2021<br>
+_parties elected and seats per party_: Action and Solidarity Party (PAS) (63); Electoral Bloc of Communists and Socialists (BECS) (32); Șor Party (PPȘ) (6)<br>
+_percentage of women in chamber_: 40.8%<br>
+_expected date of next election_: July 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of the chief judge, 3 deputy-chief judges, 45 judges, and 7 assistant judges); Constitutional Court (consists of the court president and 6 judges); note - the Constitutional Court is autonomous to the other branches of government; the Court interprets the Constitution and reviews the constitutionality of parliamentary laws and decisions, decrees of the president, and acts of the government<br>
@@ -360,7 +367,7 @@ _FAX_: [1] (202) 667-2624<br>
 _email address and website_: <br>washington@mfa.gov.md<br><br>https://sua.mfa.gov.md/en<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Kent D. LOGSDON (since 16 February 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Daniela DIPIERRO (since June 2024)<br>
 _embassy_: 103 Mateevici Street, Chisinau MD-2009<br>
 _mailing address_: 7080 Chisinau Place, Washington DC&nbsp; 20521-7080<br>
 _telephone_: [373] (22) 408-300<br>
@@ -401,8 +408,8 @@ $40.708 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$15,700 (2023 est.)<br>
-$15,200 (2022 est.)<br>
+$15,900 (2023 est.)<br>
+$15,300 (2022 est.)<br>
 $15,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
@@ -447,7 +454,7 @@ sugar processing, vegetable oil, food processing, agricultural machinery; foundr
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.464 million (2023 est.)<br>
+1.43 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -476,7 +483,7 @@ _highest 10%_: 22.1% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-12.27% of GDP (2023 est.)<br>
+12.17% of GDP (2023 est.)<br>
 14.04% of GDP (2022 est.)<br>
 15.48% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -495,13 +502,13 @@ _expenditures_: $4.684 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.974 billion (2023 est.)<br>
+-$1.893 billion (2023 est.)<br>
 -$2.482 billion (2022 est.)<br>
 -$1.699 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$5.865 billion (2023 est.)<br>
+$5.866 billion (2023 est.)<br>
 $5.981 billion (2022 est.)<br>
 $4.197 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -515,7 +522,7 @@ refined petroleum, insulated wire, garments, seed oils, corn (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$9.867 billion (2023 est.)<br>
+$9.84 billion (2023 est.)<br>
 $10.265 billion (2022 est.)<br>
 $7.915 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -535,7 +542,7 @@ $3.902 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$1.899 billion (2022 est.)<br>
+$2.852 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

@@ -317,10 +317,27 @@ _elections/appointments_: president indirectly elected by the Federal Parliament
 _election results_: <em><br>2022:</em> HASSAN SHEIKH Mohamud elected president in third round - Federal Parliament percent of vote in first round - Said ABDULLAHI DENI (Kaah) 20.2%, Mohamed ABDULLAHI Mohamed "Farmaajo" (TPP) 18.3%, HASSAN SHEIKH Mohamud (PDP) 16.2%, Hassan Ali KHAYRE (independent) 14.6%, other 30.7%; Federal Parliament percent of vote in second round - HASSAN SHEIKH Mohamud 34.1%, Mohamed ABDULLAHI Mohamed "Farmaajo" 25.7%, Said ABDULLAHI DENI 21%, Hassan Ali KHAYRE 19.2%; Federal Parliament percent of vote in third round - HASSAN SHEIKH Mohamud  66%, Mohamed ABDULLAHI Mohamed "Farmaajo" 34%<br><br><em>2017:</em> Mohamed ABDULLAHI Mohamed "Farmaajo" elected president in second round; Federal Parliament number of votes in first round - HASSAN SHEIKH Mohamud (PDP) 88, Mohamed ABDULLAHI Mohamed "Farmaajo" (TPP) 72, Sheikh SHARIF Sheikh Ahmed (ARS) 49, other 37; Federal Parliament number of votes in second round - Mohamed ABDULLAHI Mohamed "Farmaajo" 184, HASSAN SHEIKH Mohamud 97, Sheikh SHARIF Sheikh Ahmed 45<br>
 
 **Legislative branch**<br>
-_description_: bicameral Federal Parliament to consist of:<br>Senate (54 seats; senators indirectly elected by state assemblies to serve 4-year terms)<br>House of the People (275 seats; members indirectly elected by electoral colleges, each consisting of 51 delegates selected by the 136 Traditional Elders in consultation with sub-clan elders; members serve 4-year terms)<br>
-_elections_: Senate - last held 27 July - 13 November 2021 (next to be held in July 2026)<br>House of the People - last held 1 November 2021 - 05 May 2022 (next to be held in October 2026)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 40, women 14, percentage women 25.9%<br><br>House of the People - percent of vote by party - NA; seats by party - NA; composition - men 221, women 54, percentage women 19.6%; total Federal Parliament percentage women 20.7%<br>
+_legislature name_: Federal Parliament<br>
+_legislative structure_: bicameral<br>
 <strong>note:</strong> despite the formation of political parties in 2020, the 2021 parliamentary elections maintained a primarily clan-based system of appointments; seats in the legislature were apportioned to Somali member states and not by party representation <br><br><br><br><br><br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of the People (Golaha Shacabka)<br>
+_number of seats_: 275 (all indirectly elected)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 11/1/2021 to 5/5/2022<br>
+_percentage of women in chamber_: 19.6%<br>
+_expected date of next election_: October 2026<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Upper House (Aqalka Sare)<br>
+_number of seats_: 54 (all indirectly elected)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 7/27/2021 to 11/13/2021<br>
+_percentage of women in chamber_: 25.9%<br>
+_expected date of next election_: July 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the provisional constitution stipulates the establishment of the Constitutional Court (consists of 5 judges, including the chief judge and deputy chief judge); note - under the terms of the 2004 Transitional National Charter, a Supreme Court based in Mogadishu and the Appeal Court were established; yet most regions have reverted to local forms of conflict resolution, either secular, traditional Somali customary law, or Islamic law<br>
@@ -367,25 +384,25 @@ regional and local governing bodies continue to exist and control various areas 
 low-income African Horn economy; 30 years of war and instability crippled economic potential; high remittances for basic survival; new fiscal federalism approach; cleared some unsustainable debt; environmentally fragile; digitally driven urbanization efforts<br>
 
 **Real GDP (purchasing power parity)**<br>
-$26.351 billion (2023 est.)<br>
-$25.558 billion (2022 est.)<br>
-$24.949 billion (2021 est.)<br>
+$25.747 billion (2023 est.)<br>
+$24.706 billion (2022 est.)<br>
+$24.05 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.1% (2023 est.)<br>
-2.44% (2022 est.)<br>
+4.22% (2023 est.)<br>
+2.73% (2022 est.)<br>
 3.31% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$1,500 (2023 est.)<br>
-$1,500 (2022 est.)<br>
-$1,500 (2021 est.)<br>
+$1,400 (2023 est.)<br>
+$1,400 (2022 est.)<br>
+$1,400 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$11.68 billion (2023 est.)<br>
+$10.969 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -393,11 +410,12 @@ $11.68 billion (2023 est.)<br>
 -71.1% (2016 est.)<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 126.4% (2023 est.)<br>
-_government consumption_: 7% (2023 est.)<br>
-_investment in fixed capital_: 25.3% (2023 est.)<br>
-_exports of goods and services_: 17.9% (2023 est.)<br>
-_imports of goods and services_: -76.7% (2023 est.)<br>
+_household consumption_: 123.5% (2023 est.)<br>
+_government consumption_: 7.3% (2023 est.)<br>
+_investment in fixed capital_: 22.4% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
+_exports of goods and services_: 19.7% (2023 est.)<br>
+_imports of goods and services_: -73% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -412,7 +430,7 @@ light industries, including sugar refining, textiles, wireless communication<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.277 million (2023 est.)<br>
+3.339 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -435,9 +453,9 @@ _female_: 37.4% (2023 est.)<br>
 36.8 (2017 est.)<br>
 
 **Remittances**<br>
-14.85% of GDP (2023 est.)<br>
-16.65% of GDP (2022 est.)<br>
-17.63% of GDP (2021 est.)<br>
+15.82% of GDP (2023 est.)<br>
+17.01% of GDP (2022 est.)<br>
+18.29% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Public debt**<br>
@@ -476,6 +494,9 @@ tobacco, raw sugar, palm oil, rice, milk (2022)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $30.45 million (2014 est.)<br>
+
+**Debt - external**<br>
+$2.743 billion (2023 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Somali shillings (SOS) per US dollar -<br>

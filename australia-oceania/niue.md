@@ -206,9 +206,16 @@ _elections/appointments_: the monarchy is hereditary; prime minister indirectly 
 _election results_: Dalton TAGELAGI reelected prime minister; Legislative Assembly vote - Dalton TAGELAGI (independent) 16, O'Love JACOBSEN (independent) 4<br>
 
 **Legislative branch**<br>
-_description_: unicameral Assembly or Fono Ekepule (20 seats; 14 members directly elected in single-seat constituencies by simple majority vote and 6 directly elected from the National Register or "common roll" by majority vote; members serve 3-year terms)<br>
-_elections_: last held on 29 April 2023 (next to be held in 2026)<br>
-_election results_: percent of vote - NA; seats - independent 20; composition - men 14, women 6, percentage women 30%<br>
+_legislature name_: Niue Assembly (Fono Ekepule)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 20<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 3 years<br>
+_most recent election date_: 29 April 2023<br>
+_parties elected and seats per party_: independents (20)<br>
+_percentage of women in chamber_: 15%<br>
+_expected date of next election_: April 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the chief justice and up to 3 judges); note - the Judicial Committee of the Privy Council (in London) is the final appeal court beyond the Niue Court of Appeal<br>

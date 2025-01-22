@@ -319,9 +319,16 @@ _election results_: <br><em>2020</em>: Wavel RAMKALAWAN elected president; Wavel
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Assemblee Nationale (35 seats in the 2020-25 term; 26 members directly elected in single-seat constituencies by simple majority vote and up to 9 members elected by proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 22-24 October 2020 (next to be held in October 2025); note - the election was originally scheduled for 2021 but was moved up a year and held alongside the presidential election in order to cut election costs<br>
-_election results_: percent of vote by party - LDS 54.8%, US 42.3%, other 2.9%; seats by party - LDS 25, US 10; composition - men 27, women 7, percentage women 20.6%<br>
+_legislature name_: National Assembly<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 35 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 10/22/2020 to 10/24/2020<br>
+_parties elected and seats per party_: Seychelles Democratic Alliance (Linyon Demokratik Seselwa, LDS) (25); United Seychelles (US) (10)<br>
+_percentage of women in chamber_: 20.6%<br>
+_expected date of next election_: October 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Seychelles Court of Appeal (consists of the court president and 4 justices); Supreme Court of Seychelles (consists of the chief justice and 9 puisne judges); Constitutional Court (consists of 3 Supreme Court judges)<br>
@@ -389,9 +396,9 @@ $2.141 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-8.28% (2020 est.)<br>
-2.07% (2019 est.)<br>
-3.7% (2018 est.)<br>
+-1.04% (2023 est.)<br>
+2.63% (2022 est.)<br>
+9.77% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -408,6 +415,7 @@ _services_: 68% (2023 est.)<br>
 _household consumption_: 73.8% (2023 est.)<br>
 _government consumption_: 21.3% (2023 est.)<br>
 _investment in fixed capital_: 16.1% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
 _exports of goods and services_: 85.9% (2023 est.)<br>
 _imports of goods and services_: -97.1% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -449,8 +457,8 @@ _highest 10%_: 23.9% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.49% of GDP (2023 est.)<br>
-0.49% of GDP (2022 est.)<br>
+0.53% of GDP (2023 est.)<br>
+0.53% of GDP (2022 est.)<br>
 0.64% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -502,18 +510,18 @@ ships, refined petroleum, fish, plastic products, cars (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$682.794 million (2023 est.)<br>
 $638.961 million (2022 est.)<br>
 $702.585 million (2021 est.)<br>
-$559.682 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Seychelles rupees (SCR) per US dollar -<br>
+14.018 (2023 est.)<br>
 14.273 (2022 est.)<br>
 16.921 (2021 est.)<br>
 17.617 (2020 est.)<br>
 14.033 (2019 est.)<br>
-13.911 (2018 est.)<br>
 
 ## Energy
 

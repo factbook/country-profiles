@@ -358,10 +358,29 @@ _elections/appointments_: president indirectly elected by an electoral college c
 _election results_: <br><em>2022:</em> Droupadi MURMU elected president; percent of electoral college vote - Droupadi MURMU (BJP) 64%, Yashwant SINHA (AITC) 35.9%; Jagdeep DHANKHAR elected vice president; percent of electoral college vote - Jagdeep DHANKHAR (BJP) 74.4%, Margaret ALVA (INC) 25.6%<br><br><em>2017:</em> Ram Nath KOVIND elected president; percent of electoral college vote - Ram Nath KOVIND (BJP) 65.6%, Meira KUMAR (INC) 34.4%; Venkaiah NAIDU elected vice president; percent of electoral college vote - Venkaiah NAIDU (BJP) 67.9%, Gopal-krishna GANDHI 32.1%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Sansad consists of:<br>Council of States or Rajya Sabha (245 seats; 233 members indirectly elected by state and territorial assemblies by proportional representation vote and 12 members appointed by the president; members serve 6-year terms with one-third of the membership renewed every 2 years at various dates)<br>House of the People or Lok Sabha (545 seats; 543 members directly elected in single-seat constituencies by simple majority vote and 2 appointed by the president; members serve 5-year terms)<br>
-_elections_: Council of States - held by state and territorial assemblies being held from 12 January to 30 June 2024 for expiry of 68 seats<br><br>House of the People - last held in 7 phases from 19 April to 1 June 2024 (next to be held in 2027)<br>
-_election results_: Council of States (2022) - percent of vote by party - NA; seats by party - BJP 97, INC 34, AITC 13, DMK 10, other 2, independent 2; composition as of March 2024 - men 206, women 32, percentage women 13.8%<br><br>House of the People - percent of vote by party - NA; seats by party - BJP 240, INC 99, SP 37, AITC 29, DMK 22, BJD 12, RJD 4, AAP 3, other 93<br><br>seats by party - BJP 303, INC 52, DMK 24, AITC 22, YSRCP 22, SS 18, JDU 16, BJD 12, BSP 10, TRS 9, LJP 6, NCP 5, SP 5, other 35, independent 4, vacant 2; composition as of March 2024 - men 446, women 77, percentage women 14.7%; total Parliament percentage women 14.3%<br>
+_legislature name_: Parliament (Sansad)<br>
+_legislative structure_: bicameral<br>
 <strong>note:</strong> in September 2023, both Rajya Sabha and Lok Sabha passed a bill that reserves one third of the House seats for women; implementation could begin for the House election in 2029<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of the People (Lok Sabha)<br>
+_number of seats_: 545 (543 directly elected; 2 appointed)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 4/19/2024 to 6/1/2024<br>
+_parties elected and seats per party_: Bharatiya Janata Party (BJP) (240); Indian National Congress (INC) (99); Samajwadi Party (SP) (37); All India Trinamool Congress (AITC) (29); Other (138)<br>
+_percentage of women in chamber_: 13.7%<br>
+_expected date of next election_: April 2029<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Council of States (Rajya Sabha)<br>
+_number of seats_: 245 (233 indirectly elected; 12 appointed)<br>
+_scope of elections_: partial renewal<br>
+_term in office_: 6 years<br>
+_most recent election date_: 1/12/2024 to 6/30/2024<br>
+_percentage of women in chamber_: 16.7%<br>
+_expected date of next election_: January 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 28 judges, including the chief justice)<br>
@@ -413,25 +432,25 @@ _selected World Heritage Site locales_: <p>Taj Mahal (c); Red Fort Complex (c); 
 <p>largest South Asian economy; strong, sustained GDP growth led by technology and service sectors, foreign investment, and improved regulatory framework; high poverty rate and income inequality; initiatives on infrastructure development, digitization, manufacturing, and financial access</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$13.104 trillion (2023 est.)<br>
+$13.173 trillion (2023 est.)<br>
 $12.18 trillion (2022 est.)<br>
 $11.384 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-7.58% (2023 est.)<br>
+8.15% (2023 est.)<br>
 6.99% (2022 est.)<br>
 9.69% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $9,200 (2023 est.)<br>
-$8,600 (2022 est.)<br>
+$8,500 (2022 est.)<br>
 $8,100 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.55 trillion (2023 est.)<br>
+$3.568 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -449,16 +468,16 @@ _Standard & Poors rating_: BBB- (2007)<br>
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 16% (2023 est.)<br>
 _industry_: 25% (2023 est.)<br>
-_services_: 49.8% (2023 est.)<br>
+_services_: 49.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 60.3% (2023 est.)<br>
-_government consumption_: 10.5% (2023 est.)<br>
-_investment in fixed capital_: 31.3% (2023 est.)<br>
-_investment in inventories_: 2.4% (2023 est.)<br>
-_exports of goods and services_: 21.9% (2023 est.)<br>
-_imports of goods and services_: -24% (2023 est.)<br>
+_government consumption_: 10.4% (2023 est.)<br>
+_investment in fixed capital_: 30.8% (2023 est.)<br>
+_investment in inventories_: 2.5% (2023 est.)<br>
+_exports of goods and services_: 21.8% (2023 est.)<br>
+_imports of goods and services_: -24.1% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -469,11 +488,11 @@ sugarcane, rice, milk, wheat, bison milk, potatoes, vegetables, bananas, maize, 
 textiles, chemicals, food processing, steel, transportation equipment, cement, mining, petroleum, machinery, software, pharmaceuticals<br>
 
 **Industrial production growth rate**<br>
-9.02% (2023 est.)<br>
+9.51% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-593.729 million (2023 est.)<br>
+596.406 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -498,11 +517,11 @@ _on alcohol and tobacco_: 2.1% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.3% (2021 est.)<br>
-_highest 10%_: 25.6% (2021 est.)<br>
+_highest 10%_: 25.5% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-3.52% of GDP (2023 est.)<br>
+3.35% of GDP (2023 est.)<br>
 3.32% of GDP (2022 est.)<br>
 2.82% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -517,17 +536,17 @@ _expenditures_: $432.856 billion (2018 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-12.02% (of GDP) (2018 est.)<br>
+6.72% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$32.336 billion (2023 est.)<br>
+-$31.962 billion (2023 est.)<br>
 -$79.051 billion (2022 est.)<br>
 -$33.422 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$773.224 billion (2023 est.)<br>
+$773.177 billion (2023 est.)<br>
 $767.643 billion (2022 est.)<br>
 $643.08 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -541,7 +560,7 @@ refined petroleum, diamonds, packaged medicine, garments, jewelry (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$859.485 billion (2023 est.)<br>
+$859.507 billion (2023 est.)<br>
 $902.304 billion (2022 est.)<br>
 $717.119 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -561,7 +580,7 @@ $638.485 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$186.653 billion (2022 est.)<br>
+$220.309 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

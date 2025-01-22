@@ -347,15 +347,22 @@ _residency requirement for naturalization_: 3 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Aleksandar VUCIC (since 31 May 2017)<br>
-_head of government_: Prime Minister Milos Vucevic (since 2 May 2024)<br>
+_head of government_: Prime Minister Milos VUCEVIC (since 2 May 2024)<br>
 _cabinet_: Cabinet elected by the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 17 December 2023 (next to be held in 2028); prime minister elected by the National Assembly<br>
 _election results_: <em><br>2022:</em> Aleksandar VUCIC reelected in first round; percent of vote - Aleksandar VUCIC (SNS) 60%, Zdravko PONOS (US) 18.9%, Milos JOVANOVIC (NADA) 6.1%, Bosko OBRADOVIC (Dveri-POKS) 4.5%, Milica DJURDJEVIC STAMENKOVSKI (SSZ) 4.3%, other 6.2%<br><br><em>2017:</em> Aleksandar VUCIC elected president in first round; percent of vote - Aleksandar VUCIC (SNS) 55.1%, Sasa JANKOVIC (independent) 16.4%, Luka MAKSIMOVIC (independent) 9.4%, Vuk JEREMIC (independent) 5.7%, Vojislav SESELJ (SRS) 4.5%, other 7.3%, invalid/blank 1.6%; Prime Minister Ana BRNABIC reelected by the National Assembly on 5 October 2020; National Assembly vote - NA<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Narodna Skupstina (250 seats; members directly elected by party list proportional representation vote in a single nationwide constituency to serve 4-year terms)<br>
-_elections_: last held on 17 December 2023 (next to be held in 2027)<br>
-_election results_: percent of vote by party/coalition - Serbia Must Stop 48%, SPN 24.4%, SPS-JS-ZS 6.7%, NADA 5.2%, MI-GIN 4.8%, Alliance of Vojvodina Hungarians 1.7%, SPP-DSHV 0.8%, SDAS 0.6%, Political Battle of the Albanians Continues 0.4%, RS-NKPJ 0.3%, other 7.1%; seats by party/coalition - Serbia Must Stop 128, SPN 65, SPS-JS-ZS 18, NADA 13, MI-GIN 13, Alliance of Vojvodina Hungarians 6, SPP-DSHV 3, SDAS 2, Political Battle of the Albanians Continues 1, RS-NKPJ 1; composition - men 155, women 95; percentage of women 38%<br>
+_legislature name_: National Assembly (Narodna skupstina)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 250 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 12/17/2023<br>
+_parties elected and seats per party_: Aleksandar Vucic – Serbia Must Not Stop (129); Serbia Against Violence (65); Ivica Dacic - Prime Minister of Serbia (18); Dr Miloš Jovanović - Hope for Serbia (13); We – Voice of the People, Prof. Dr. Branimir Nestorovic (13); Other (12)<br>
+_percentage of women in chamber_: 38%<br>
+_expected date of next election_: December 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Cassation (consists of 36 judges, including the court president); Constitutional Court (consists of 15 judges, including the court president and vice president)<br>
@@ -407,25 +414,25 @@ _selected World Heritage Site locales_: Stari Ras and Sopoćani; Studenica Monas
 upper middle-income Balkan economy; current EU accession candidate; hit by COVID-19; pursuing green growth development; manageable public debt; new anticorruption efforts; falling unemployment; historic Russian relations; energy import-dependent<br>
 
 **Real GDP (purchasing power parity)**<br>
-$162.213 billion (2023 est.)<br>
-$158.214 billion (2022 est.)<br>
-$154.28 billion (2021 est.)<br>
+$172.402 billion (2023 est.)<br>
+$166.014 billion (2022 est.)<br>
+$161.758 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.53% (2023 est.)<br>
-2.55% (2022 est.)<br>
+3.85% (2023 est.)<br>
+2.63% (2022 est.)<br>
 7.73% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$24,500 (2023 est.)<br>
-$23,700 (2022 est.)<br>
-$22,600 (2021 est.)<br>
+$26,000 (2023 est.)<br>
+$24,900 (2022 est.)<br>
+$23,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$75.187 billion (2023 est.)<br>
+$81.343 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -441,18 +448,18 @@ _Standard & Poors rating_: BB+ (2019)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 5.2% (2023 est.)<br>
-_industry_: 26.4% (2023 est.)<br>
-_services_: 51.2% (2023 est.)<br>
+_agriculture_: 3.8% (2023 est.)<br>
+_industry_: 24% (2023 est.)<br>
+_services_: 57.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 67.3% (2023 est.)<br>
-_government consumption_: 15.9% (2023 est.)<br>
-_investment in fixed capital_: 22.7% (2023 est.)<br>
-_investment in inventories_: -1.3% (2023 est.)<br>
-_exports of goods and services_: 59.9% (2023 est.)<br>
-_imports of goods and services_: -64.4% (2023 est.)<br>
+_household consumption_: 62.6% (2023 est.)<br>
+_government consumption_: 17.1% (2023 est.)<br>
+_investment in fixed capital_: 23.4% (2023 est.)<br>
+_investment in inventories_: 1.2% (2023 est.)<br>
+_exports of goods and services_: 55.1% (2023 est.)<br>
+_imports of goods and services_: -59.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -463,11 +470,11 @@ maize, wheat, sugar beets, milk, sunflower seeds, potatoes, plums, apples, barle
 automobiles, base metals, furniture, food processing, machinery, chemicals, sugar, tires, clothes, pharmaceuticals<br>
 
 **Industrial production growth rate**<br>
-3.62% (2023 est.)<br>
+3.69% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.333 million (2023 est.)<br>
+3.344 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -483,7 +490,7 @@ _female_: 26.1% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-21.2% (2020 est.)<br>
+20% (2021 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -500,9 +507,9 @@ _highest 10%_: 25.9% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-7.68% of GDP (2023 est.)<br>
-8.97% of GDP (2022 est.)<br>
-7.29% of GDP (2021 est.)<br>
+7.1% of GDP (2023 est.)<br>
+8.54% of GDP (2022 est.)<br>
+6.95% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -514,7 +521,7 @@ _expenditures_: $23.693 billion (2022 est.)<br>
 62.5% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-25.11% (of GDP) (2022 est.)<br>
+23.9% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -556,6 +563,9 @@ $27.569 billion (2023 est.)<br>
 $20.68 billion (2022 est.)<br>
 $18.617 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+
+**Debt - external**<br>
+$23.677 billion (2023 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Serbian dinars (RSD) per US dollar -<br>

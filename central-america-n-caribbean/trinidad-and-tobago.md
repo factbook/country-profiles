@@ -303,13 +303,32 @@ _chief of state_: President Christine KANGALOO (since 20 March 2023)<br>
 _head of government_: Prime Minister Keith ROWLEY (since 9 September 2015)<br>
 _cabinet_: Cabinet appointed from among members of Parliament<br>
 _elections/appointments_: president indirectly elected by an electoral college of selected Senate and House of Representatives members for a 5-year term (eligible for a second term); election last held on 20 January 2023 (next to be held by February 2028); the president usually appoints the leader of the majority party in the House of Representatives as prime minister<br>
-_election results_: <br><em>2023: </em>Christine KANGALOO elected president by the electoral college on 20 January 2023; electoral college vote  Christine KANGALOO (PNM) 48, Israel KHAN (UNC) 22<br><br><em>2018: </em>Paula-Mae WEEKES (independent) elected president; ran unopposed and was elected without a vote; she was Trinidad and Tabago's first female head of state<br>
+_election results_: <em>2023: </em>Christine KANGALOO elected president by the electoral college on 20 January 2023; electoral college vote  Christine KANGALOO (PNM) 48, Israel KHAN (UNC) 22<br><br><em>2018: </em>Paula-Mae WEEKES (independent) elected president; ran unopposed and was elected without a vote; she was Trinidad and Tabago's first female head of state<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (31 seats; 16 members appointed by the ruling party, 9 by the president, and 6 by the opposition party; members serve 5-year terms;)<br>House of Representatives (42 seats; 41 members directly elected in single-seat constituencies by simple majority vote and the house speaker - usually designated from outside Parliament; members serve 5-year terms)<br>
-_elections_: Senate - last appointments on 28 August 2020 (next appointments in August 2025)<br>House of Representatives - last held on 10 August 2020 (next to be held in 2025)<br>
-_election results_: Senate - percent by party - NA; seats by party - PNM 16, UNC 6, independent 9; composition - men 19, women 13, percentage women 40.6%<br><br>House of Representatives - percent by party - NA; seats by party - PNM 23, UNC 19; composition - men 30, women 12, percentage women 28.6%; total Parliament percentage women 33.8%<br>
+_legislature name_: Parliament<br>
+_legislative structure_: bicameral<br>
 <strong>note:</strong> Tobago has a unicameral House of Assembly (19 seats; 15 assemblymen directly elected by simple majority vote and 4 appointed councilors - 3 on the advice of the chief secretary and 1 on the advice of the minority leader; members serve 4-year terms)<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives<br>
+_number of seats_: 42 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 8/10/2020<br>
+_parties elected and seats per party_: People's National Movement (PNM) (22); United National Congress (UNC) (19)<br>
+_percentage of women in chamber_: 28.6%<br>
+_expected date of next election_: August 2025<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate<br>
+_number of seats_: 32 (all appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 8/28/2020<br>
+_percentage of women in chamber_: 40.6%<br>
+_expected date of next election_: August 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of the Judicature (consists of a chief justice for both the Court of Appeal with 12 judges and the High Court with 24 judges); note - Trinidad and Tobago can file appeals beyond its Supreme Court to the Caribbean Court of Justice, with final appeal to the Judicial Committee of the Privy Council (in London)<br>
@@ -355,25 +374,25 @@ _lyrics/music_: Patrick Stanislaus CASTAGNE<br>
 high-income Caribbean economy; major hydrocarbon exporter; key tourism and finance sectors; high inflation and growing public debt; long foreign currency access delays; large foreign reserves and sovereign wealth fund<br>
 
 **Real GDP (purchasing power parity)**<br>
-$43.681 billion (2023 est.)<br>
+$43.358 billion (2023 est.)<br>
 $42.781 billion (2022 est.)<br>
 $42.157 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.1% (2023 est.)<br>
+1.35% (2023 est.)<br>
 1.48% (2022 est.)<br>
 -1.04% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$28,500 (2023 est.)<br>
-$27,900 (2022 est.)<br>
-$27,600 (2021 est.)<br>
+$31,700 (2023 est.)<br>
+$31,300 (2022 est.)<br>
+$30,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$28.14 billion (2023 est.)<br>
+$27.372 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -397,6 +416,7 @@ _services_: 47.8% (2022 est.)<br>
 _household consumption_: 78.9% (2017 est.)<br>
 _government consumption_: 16.4% (2017 est.)<br>
 _investment in fixed capital_: 19.8% (2021 est.)<br>
+_investment in inventories_: 0% (2021 est.)<br>
 _exports of goods and services_: 45.4% (2017 est.)<br>
 _imports of goods and services_: -48.7% (2017 est.)<br>
 
@@ -412,7 +432,7 @@ petroleum and petroleum products, liquefied natural gas, methanol, ammonia, urea
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-681,000 (2023 est.)<br>
+612,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -431,7 +451,7 @@ _female_: 11.1% (2023 est.)<br>
 20% (2014 est.)<br>
 
 **Remittances**<br>
-0.63% of GDP (2023 est.)<br>
+0.74% of GDP (2023 est.)<br>
 0.68% of GDP (2022 est.)<br>
 0.96% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -449,15 +469,15 @@ _expenditures_: $7.822 billion (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$5.382 billion (2022 est.)<br>
-$2.695 billion (2021 est.)<br>
--$1.356 billion (2020 est.)<br>
+$3.397 billion (2023 est.)<br>
+$5.244 billion (2022 est.)<br>
+$2.629 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$11.544 billion (2023 est.)<br>
 $17.584 billion (2022 est.)<br>
 $11.542 billion (2021 est.)<br>
-$6.44 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -469,9 +489,9 @@ ammonia, natural gas, crude petroleum, acyclic alcohols, fertilizers (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$8.773 billion (2023 est.)<br>
 $10.694 billion (2022 est.)<br>
 $8.636 billion (2021 est.)<br>
-$6.785 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

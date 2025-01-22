@@ -326,10 +326,29 @@ _cabinet_: Cabinet appointed by the governor general on the advice of the prime 
 _elections/appointments_: the monarchy is hereditary; governor-general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor-general; prime minister recommends the deputy prime minister<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Assembly consists of:<br>Senate (14 seats, including the president); members appointed by the governor-general - 6 on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 1 each on the advice of the Belize Council of Churches and Evangelical Association of Churches, the Belize Chamber of Commerce and Industry and the Belize Better Business Bureau, non-governmental organizations in good standing, and the National Trade Union Congress and the Civil Society Steering Committee; 1 seat is held by the Senate president elected from among the Senate members or from outside the Senate; members serve 5-year terms<br>House of Representatives (32 seats; 31 members directly elected in single-seat constituencies by simple majority vote and the speaker, who may be designated from outside the government; members serve 5-year terms and the speaker serves at the pleasure of the government up to the full 5-year term)<br>
-_elections_: Senate - last appointed 11 November 2020 (next appointments in November 2025)<br>House of Representatives - last held on 11 November 2020 (next to be held in November 2025)<br>
-_election results_: Senate - all members appointed; composition - men 8, women 6, percentage women 42.9%<br><br>House of Representatives - percent of vote by party - PUP 59.6%, UDP 38.8%, other 1.6%; seats by party - PUP 26, UDP 5; composition - men 27, women 5, percentage women 15.6%; total percentage women in the National Assembly 23.9%<br>
+_legislature name_: National Assembly<br>
+_legislative structure_: bicameral<br>
 <strong> </strong><br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives<br>
+_number of seats_: 32 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 11/11/2020<br>
+_parties elected and seats per party_: People's United Party (PUP) (26); United Democratic Party (UDP) (5)<br>
+_percentage of women in chamber_: 15.6%<br>
+_expected date of next election_: November 2025<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate<br>
+_number of seats_: 13 (all appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 12/11/2020<br>
+_percentage of women in chamber_: 42.9%<br>
+_expected date of next election_: November 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Judicature (consists of the Court of Appeal with the court president and 3 justices, and the Supreme Court with the chief justice and 10 justices); note - in 2010, Belize acceded to the Caribbean Court of Justice as the final court of appeal, replacing that of the Judicial Committee of the Privy Council in London<br>
@@ -380,25 +399,25 @@ _selected World Heritage Site locales_: Belize Barrier Reef Reserve System<br>
 tourism- and agriculture-driven economy; strong post-pandemic rebound; innovative and ecological bond restructuring that significantly lowered public debt and expanded marine protections; central bank offering USD-denominated treasury notes; high mobility across borders<br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.257 billion (2023 est.)<br>
-$5.028 billion (2022 est.)<br>
-$4.624 billion (2021 est.)<br>
+$5.12 billion (2023 est.)<br>
+$5.062 billion (2022 est.)<br>
+$4.617 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.54% (2023 est.)<br>
-8.73% (2022 est.)<br>
+1.15% (2023 est.)<br>
+9.65% (2022 est.)<br>
 17.86% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$12,800 (2023 est.)<br>
-$12,400 (2022 est.)<br>
-$11,600 (2021 est.)<br>
+$12,500 (2023 est.)<br>
+$12,600 (2022 est.)<br>
+$11,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.282 billion (2023 est.)<br>
+$3.067 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -413,18 +432,18 @@ _Standard & Poors rating_: CCC+ (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 9% (2023 est.)<br>
-_industry_: 13.2% (2023 est.)<br>
-_services_: 63% (2023 est.)<br>
+_agriculture_: 8.1% (2023 est.)<br>
+_industry_: 14.3% (2023 est.)<br>
+_services_: 62.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 56.8% (2023 est.)<br>
-_government consumption_: 16.1% (2023 est.)<br>
-_investment in fixed capital_: 20.5% (2023 est.)<br>
-_investment in inventories_: 0.7% (2023 est.)<br>
-_exports of goods and services_: 53.6% (2023 est.)<br>
-_imports of goods and services_: -52.9% (2023 est.)<br>
+_household consumption_: 62.9% (2023 est.)<br>
+_government consumption_: 15.7% (2023 est.)<br>
+_investment in fixed capital_: 20.6% (2023 est.)<br>
+_investment in inventories_: -2.3% (2023 est.)<br>
+_exports of goods and services_: 55.3% (2023 est.)<br>
+_imports of goods and services_: -51.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -435,11 +454,11 @@ sugarcane, maize, bananas, oranges, soybeans, sorghum, chicken, rice, beans, mil
 garment production, food processing, tourism, construction, oil<br>
 
 **Industrial production growth rate**<br>
--4.52% (2023 est.)<br>
+-2.48% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-190,000 (2023 est.)<br>
+191,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -455,9 +474,9 @@ _female_: 26.2% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
-4.63% of GDP (2023 est.)<br>
-5.03% of GDP (2022 est.)<br>
-5.58% of GDP (2021 est.)<br>
+4.88% of GDP (2023 est.)<br>
+5% of GDP (2022 est.)<br>
+5.59% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -474,13 +493,13 @@ _expenditures_: $506.316 million (2017 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$90.63 million (2023 est.)<br>
+-$19.753 million (2023 est.)<br>
 -$235.566 million (2022 est.)<br>
 -$157.868 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$1.462 billion (2023 est.)<br>
+$1.536 billion (2023 est.)<br>
 $1.369 billion (2022 est.)<br>
 $1.043 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -494,7 +513,7 @@ raw sugar, bananas, shellfish, bran, refined petroleum (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$1.571 billion (2023 est.)<br>
+$1.573 billion (2023 est.)<br>
 $1.574 billion (2022 est.)<br>
 $1.249 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -514,7 +533,7 @@ $420.103 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$1.176 billion (2022 est.)<br>
+$1.287 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

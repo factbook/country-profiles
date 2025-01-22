@@ -321,9 +321,16 @@ _election results_: <em><br>2024: </em>AZALI Assoumani reelected president in fi
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: unicameral Assembly of the Union (24 members directly elected by absolute majority vote in 2 rounds if needed; members serve 5-year terms)<br>
-_elections_: last held on&nbsp;19 January 2020 with a runoff on 23&nbsp;February 2020 (next to be held in 2025)<br>
-_election results_: percent of vote by party in first round - CRC 60.9%, Orange Party 4.3%, independent 30.8%, other 4%; seats by party in the first round -  CRC 16, Orange Party 1, independent 2; percent of vote by party in the second round - CRC 54.1%, Orange Party 18.9%, independent 26.1%, other 1%; seats by party in the second round - CRC 4, Orange Party 1; composition - men 20, women 4, percentage women 16.7%<br> <h3> </h3><br>
+_legislature name_: Assembly of the Union (Assemblée de l'Union)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 24 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 1/19/2020 to 2/23/2020<br>
+_parties elected and seats per party_: Convention for the Renewal of the Comoros (CRC) (20); Orange Party (2); Independents (2)<br>
+_percentage of women in chamber_: 16.7%<br>
+_expected date of next election_: January 2025<br>
 <strong>note:</strong> opposition parties, which had demanded "transparent, free, and democratic" elections, boycotted the 2020 elections<br>
 
 **Judicial branch**<br>
@@ -366,20 +373,20 @@ _lyrics/music_: Said Hachim SIDI ABDEREMANE/Said Hachim SIDI ABDEREMANE and Kami
 small trade-based island economy; declining remittances; new structural and fiscal reforms; adverse cyclone and COVID-19 impacts; manageable debts; fragile liquidity environment; large foreign direct investment; state-owned enterprises suffering<br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.961 billion (2023 est.)<br>
-$2.883 billion (2022 est.)<br>
+$2.975 billion (2023 est.)<br>
+$2.889 billion (2022 est.)<br>
 $2.816 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.7% (2023 est.)<br>
-2.39% (2022 est.)<br>
+3% (2023 est.)<br>
+2.6% (2022 est.)<br>
 2.11% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $3,500 (2023 est.)<br>
-$3,400 (2022 est.)<br>
+$3,500 (2022 est.)<br>
 $3,400 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
@@ -402,6 +409,7 @@ _services_: 49.6% (2023 est.)<br>
 _household consumption_: 100.1% (2023 est.)<br>
 _government consumption_: 9.3% (2023 est.)<br>
 _investment in fixed capital_: 12.7% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
 _exports of goods and services_: 13% (2023 est.)<br>
 _imports of goods and services_: -35% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -418,7 +426,7 @@ fishing, tourism, perfume distillation<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-234,000 (2023 est.)<br>
+235,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -439,11 +447,11 @@ _female_: 12.2% (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.6% (2014 est.)<br>
-_highest 10%_: 33.7% (2014 est.)<br>
+_highest 10%_: 33.6% (2014 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-20.77% of GDP (2023 est.)<br>
+22.6% of GDP (2023 est.)<br>
 22.68% of GDP (2022 est.)<br>
 22.22% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -459,15 +467,15 @@ _expenditures_: $228 million (2018 est.)<br>
 25.3% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
--$6.614 million (2022 est.)<br>
+-$24.621 million (2023 est.)<br>
+-$5.248 million (2022 est.)<br>
 -$4.076 million (2021 est.)<br>
--$22.048 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$165.347 million (2022 est.)<br>
+$148.455 million (2023 est.)<br>
+$166.032 million (2022 est.)<br>
 $128.331 million (2021 est.)<br>
-$68.937 million (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -479,9 +487,9 @@ cloves, ships, vanilla, essential oils, scrap iron (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$479.94 million (2022 est.)<br>
+$504.036 million (2023 est.)<br>
+$480.268 million (2022 est.)<br>
 $415.965 million (2021 est.)<br>
-$343.608 million (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -499,7 +507,7 @@ $329.672 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$233.947 million (2022 est.)<br>
+$319.436 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

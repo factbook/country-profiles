@@ -344,9 +344,30 @@ _election results_: <br><em>2023: </em>Santiago PEÑA Palacios elected presiden
 <strong>note</strong>: the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Congress or Congreso Nacional consists of:<br>Chamber of Senators or Camara de Senadores (45 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote to serve 5-year terms)<br>Chamber of Deputies or Camara de Diputados (80 seats; members directly elected in 18 multi-seat constituencies - corresponding to the country's 17 departments and capital city - by closed-list proportional representation vote to serve 5-year terms)<br>
-_elections_: Chamber of Senators - last held on 30 April 2023 (next to be held in April 2028)<br>Chamber of Deputies - last held on 30 April 2023 (next to be held in April 2028)<br>
-_election results_: Chamber of Senators - percent of vote by party/coalition - ANR 45.7%, PLRA 24.4%, PCN 11.5%, PEN 5.2%, PPQ 2.5%, other 10.7%; seats by party/coalition - ANR 23, PLRA 12, PCN 5, PEN 2, PPQ 1, other 2; composition - men 34, women 11, percentage women 24.4%<br><br>Chamber of Deputies - percent of vote by party/coalition - ANR 44%, PLRA 30.9%, PCN 8.3%, PPQ 3.6%, PEN 2.9%; other 10.3%; seats by party/coalition - ANR 49, PLRA 21, PCN 4, PEN 2, PPQ 1, other 3; compositio - men 61, women 19, percentage women 23.8%; note - total National Congress percentage women NA%<br>
+_legislature name_: Congress (Congreso)<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: Chamber of Deputies (Cámara de Diputados)<br>
+_number of seats_: 80 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 4/30/2023<br>
+_parties elected and seats per party_: National Republican Association/Colorado Party (ANR) (48); Authentic Radical Liberal Party (PLRA) - Alliances (23); National Crusade Party (CN) (4); Other (5)<br>
+_percentage of women in chamber_: 23.8%<br>
+_expected date of next election_: April 2028<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Cámara de Senadores)<br>
+_number of seats_: 45 (all directly elected)<br>
+_electoral system_: proportional representation<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 4/30/2023<br>
+_parties elected and seats per party_: National Republican Association/Colorado Party (ANR) (23); Authentic Radical Liberal Party (PLRA) - Alliances (12); National Crusade Party (CN) (5); Other (5)<br>
+_percentage of women in chamber_: 24.4%<br>
+_expected date of next election_: April 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (consists of 9 justices divided 3 each into the Constitutional Court, Civil and Commercial Chamber, and Criminal Division)<br>
@@ -409,8 +430,8 @@ $102.978 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$15,700 (2023 est.)<br>
-$15,200 (2022 est.)<br>
+$15,800 (2023 est.)<br>
+$15,300 (2022 est.)<br>
 $15,400 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
@@ -457,7 +478,7 @@ sugar processing, cement, textiles, beverages, wood products, steel, base metals
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.469 million (2023 est.)<br>
+3.456 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -490,7 +511,7 @@ _highest 10%_: 35.4% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.4% of GDP (2023 est.)<br>
+1.74% of GDP (2023 est.)<br>
 1.41% of GDP (2022 est.)<br>
 1.47% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -508,13 +529,13 @@ _expenditures_: $6.937 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$109.625 million (2023 est.)<br>
--$2.993 billion (2022 est.)<br>
+$104.764 million (2023 est.)<br>
+-$2.995 billion (2022 est.)<br>
 -$347.383 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$18.711 billion (2023 est.)<br>
+$18.712 billion (2023 est.)<br>
 $14.971 billion (2022 est.)<br>
 $14.821 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -528,7 +549,7 @@ beef, electricity, soybeans, corn, soybean meal (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$17.906 billion (2023 est.)<br>
+$17.904 billion (2023 est.)<br>
 $17.142 billion (2022 est.)<br>
 $14.316 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -548,7 +569,7 @@ $9.661 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$12.118 billion (2022 est.)<br>
+$14.154 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

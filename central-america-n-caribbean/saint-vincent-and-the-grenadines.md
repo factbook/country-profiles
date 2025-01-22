@@ -305,9 +305,16 @@ _cabinet_: Cabinet appointed by the governor general on the advice of the prime 
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party usually appointed prime minister by the governor general; deputy prime minister appointed by the governor general on the advice of the prime minister<br>
 
 **Legislative branch**<br>
-_description_: unicameral House of Assembly (23 seats; 15 representatives directly elected in single-seat constituencies by simple majority vote, 6 senators appointed by the governor general, and 2 ex officio members - the speaker of the house and the attorney general; members serve 5-year terms)<br>
-_elections_: last held on 5 November 2020 (next to be held in 2025)<br>
-_election results_: percent of vote by party - ULP 49.58%, NDP 50.34%, other 0.8%; seats by party - ULP 9, NDP 6; composition - men 18, women 5, percentage women 21.7%<br>
+_legislature name_: House of Assembly<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 22 (15 directly elected; 6 appointed)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
+_most recent election date_: 11/5/2020<br>
+_parties elected and seats per party_: United Labour Party (ULP) (9); New Democratic Party (NDP) (6)<br>
+_percentage of women in chamber_: 21.7%<br>
+_expected date of next election_: November 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Saint Vincent and the Grenadines; note - Saint Vincent and the Grenadines is also a member of the Caribbean Court of Justice<br>
@@ -360,9 +367,9 @@ $1.635 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$17,900 (2023 est.)<br>
-$16,900 (2022 est.)<br>
-$15,700 (2021 est.)<br>
+$18,300 (2023 est.)<br>
+$17,200 (2022 est.)<br>
+$15,900 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -405,7 +412,7 @@ tourism; food processing, cement, furniture, clothing, starch<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-53,000 (2023 est.)<br>
+52,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -421,7 +428,7 @@ _female_: 42% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
-6.7% of GDP (2023 est.)<br>
+8.61% of GDP (2023 est.)<br>
 9.17% of GDP (2022 est.)<br>
 8.03% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -479,7 +486,7 @@ $311.903 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$414.492 million (2022 est.)<br>
+$502.862 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

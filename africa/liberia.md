@@ -325,9 +325,30 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2023:</em> Joseph BOAKAI elected president in second round; percent of vote in first round - George WEAH (CDC) 43.8%, Joseph BOAKAI (UP) 43.4%, Edward APPLETON (GDM) 2.2%, Lusinee KAMARA (ALCOP) 2%, Alexander B. CUMMINGS, Jr. (CPP) 1.6%, Tiawan Saye GONGLOE (LPP) 1.4%, other 5.6%; percentage of vote in second round - Joseph BOAKAI 50.6%, George WEAH 49.4%<br><br><em>2017:</em> George WEAH elected president in second round; percent of vote in first round - George WEAH (Coalition for Democratic Change) 38.4%, Joseph BOAKAI (UP) 28.8%, Charles BRUMSKINE (LP) 9.6%, Prince JOHNSON (MDR) 8.2%, Alexander B. CUMMINGS (ANC) 7.2%, other 7.8%; percentage of vote in second round - George WEAH 61.5%, Joseph BOAKAI 38.5%<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Assembly consists of:<br>The Liberian Senate (30 seats; members directly elected in 15 2-seat districts by simple majority vote to serve 9-year staggered terms; each district elects 1 senator and elects the second senator 3 years later, followed by a 6-year hiatus, after which the first Senate seat is up for election)<br>House of Representatives (73 seats; members directly elected in single-seat districts by simple majority vote to serve 6-year terms; eligible for a second term)<br>
-_elections_: Senate - general election held on 10 October 2023 with half the seats up for election (next to be held in October 2029)<br>House of Representatives - last held on 10 October 2023 (next to be held in October 2029) <p> </p><br>
-_election results_: Senate - percent of vote by party/coalition - CDC 34.3%, UP 12.0%, MDR 7.1%, LRP 1.5%, independent 24.3%; seats by party/coalition - CDC 6, UP 1, MDR 1, LRP 1, independent 6; composition- men 27, women 3, percentage women 10%<br><br>House of Representatives - percent of vote by party/coalition - CDC 22.1%, UP 13.1%, CPP 7.6%, MDR 2.8%, PUP 4.3%, ALP 2.5%, LINU 2.3%, MPC 1.0%, NDC 1.0%, VOLT 0.8%, LRP 0.8%, Independent 25.7%; seats by party/coalition - CDC 25, UP 11, CPP 6, MDR 4, PUP 2, ALP 1, LINU 1, MPC 1, NDC 1, VOLT 1 LRP 1, independent 19; composition- men 65, women 8, percentage women 11%; total Parliament percentage women 10.6%<br>
+_legislature name_: Legislature<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: House of Representatives<br>
+_number of seats_: 73 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: full renewal<br>
+_term in office_: 6 years<br>
+_most recent election date_: 10/10/2023<br>
+_parties elected and seats per party_: Congress for Democratic Change (CDC) (25); Unity Party (UP) (11); Collaborating Political Parties (CPP) (6); Movement for Democracy and Reconstruction (MDR) (4); Independents (19); Other (8)<br>
+_percentage of women in chamber_: 11%<br>
+_expected date of next election_: October 2029<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: The Liberian Senate<br>
+_number of seats_: 30 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
+_scope of elections_: partial renewal<br>
+_term in office_: 9 years<br>
+_most recent election date_: 10/10/2023<br>
+_parties elected and seats per party_: Congress for Democratic Change (CDC) (6); Unity Party (UP) (1); Movement for Democracy and Reconstruction (MDR) (1); Liberia Restoration Party (LRP) (1); Independents (6)<br>
+_percentage of women in chamber_: 10%<br>
+_expected date of next election_: October 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of a chief justice and 4 associate justices); note - the Supreme Court has jurisdiction for all constitutional cases<br>
@@ -349,7 +370,7 @@ _email address and website_: <br>info@liberianembassyus.org<br><br>http://www.li
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant) Charg&eacute; d'Affaires Catherine RODRIGUEZ (since 11 August 2023)<br>
+_chief of mission_: Ambassador Mark TONER (since 7 August 2024)<br>
 _embassy_: 502 Benson Street, Monrovia<br>
 _mailing address_: 8800 Monrovia Place, Washington DC&nbsp; 20521-8800<br>
 _telephone_: [231] 77-677-7000<br>
@@ -374,13 +395,13 @@ _lyrics/music_: Daniel Bashiel WARNER/Olmstead LUCA<br>
 low-income West African economy; food scarcity, especially in rural areas; high poverty and inflation; bad recession prior to COVID-19 due to Ebola crisis; growing government debt; longest continuously operated rubber plantation; large informal economy<br>
 
 **Real GDP (purchasing power parity)**<br>
-$8.884 billion (2023 est.)<br>
+$8.882 billion (2023 est.)<br>
 $8.484 billion (2022 est.)<br>
 $8.095 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.71% (2023 est.)<br>
+4.68% (2023 est.)<br>
 4.81% (2022 est.)<br>
 4.99% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
@@ -388,23 +409,23 @@ $8.095 billion (2021 est.)<br>
 **Real GDP per capita**<br>
 $1,600 (2023 est.)<br>
 $1,600 (2022 est.)<br>
-$1,600 (2021 est.)<br>
+$1,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$4.332 billion (2023 est.)<br>
+$4.24 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-23.56% (2018 est.)<br>
-12.42% (2017 est.)<br>
-8.83% (2016 est.)<br>
+10.09% (2023 est.)<br>
+7.59% (2022 est.)<br>
+7.82% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 34.9% (2023 est.)<br>
-_industry_: 22.9% (2023 est.)<br>
-_services_: 38.5% (2023 est.)<br>
+_agriculture_: 35.8% (2023 est.)<br>
+_industry_: 24.2% (2023 est.)<br>
+_services_: 36.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -423,11 +444,11 @@ cassava, rice, sugarcane, oil palm fruit, bananas, rubber, vegetables, plantains
 mining (iron ore and gold), rubber processing, palm oil processing, diamonds<br>
 
 **Industrial production growth rate**<br>
-13.86% (2023 est.)<br>
+13.83% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.499 million (2023 est.)<br>
+2.533 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -456,7 +477,7 @@ _highest 10%_: 27.1% (2016 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-18.47% of GDP (2023 est.)<br>
+18.87% of GDP (2023 est.)<br>
 17.24% of GDP (2022 est.)<br>
 15.11% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -509,7 +530,7 @@ $340.966 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$835.846 million (2022 est.)<br>
+$1.487 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

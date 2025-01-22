@@ -333,9 +333,16 @@ _election results_: <em><br>2022</em>: YOON Suk-yeol elected president; YOON Suk
 <strong>note: </strong>the president is both chief of state and head of government; the prime minister serves as the principal executive assistant to the president, similar to the role of a vice president<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Gukhoe (300 seats; 253 members directly elected in single-seat constituencies by simple majority vote and 47 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 10 April 2024 (next to be held in April 2028)<br>
-_election results_: percent of vote by party/coalition (constituency) - Democratic Alliance 52.3%, PPP 45.7%, others 2%; percent of vote by party/coalition (proportional) - PPP 36.7%, Democratic Alliance 26.7%, Rebuilding Korea Party 24.3%, New Reform Party 3.6%, New Future Party 1.7%, others 7%; seats by party - Democratic Alliance 176 (DPK 169), PPP 108, Rebuilding Korea Party 12, New Reform Party 3, New Future Party 1; composition - men 240, women 60, percentage women 20%<br>
+_legislature name_: National Assembly (Kuk Hoe)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 300 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 4/10/2024<br>
+_parties elected and seats per party_: Democratic Party of Korea (161); People Power Party (90); People Future Party (18); Other (31)<br>
+_percentage of women in chamber_: 20%<br>
+_expected date of next election_: April 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of a chief justice and 13 justices); Constitutional Court (consists of a court head and 8 justices)<br>
@@ -408,7 +415,7 @@ $1.713 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-3.59% (2023 est.)<br>
+3.6% (2023 est.)<br>
 5.09% (2022 est.)<br>
 2.5% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
@@ -429,6 +436,7 @@ _services_: 58.4% (2023 est.)<br>
 _household consumption_: 48.9% (2023 est.)<br>
 _government consumption_: 18.9% (2023 est.)<br>
 _investment in fixed capital_: 32.2% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
 _exports of goods and services_: 44% (2023 est.)<br>
 _imports of goods and services_: -43.9% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -445,7 +453,7 @@ electronics, telecommunications, automobile production, chemicals, shipbuilding,
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-29.611 million (2023 est.)<br>
+29.699 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -464,7 +472,7 @@ _female_: 5.4% (2023 est.)<br>
 14.4% (2016 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-31.4 (2016 est.)<br>
+32.9 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -472,8 +480,8 @@ _on food_: 12.1% of household expenditures (2022 est.)<br>
 _on alcohol and tobacco_: 1.8% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.8% (2016 est.)<br>
-_highest 10%_: 24% (2016 est.)<br>
+_lowest 10%_: 2.9% (2021 est.)<br>
+_highest 10%_: 24.6% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>

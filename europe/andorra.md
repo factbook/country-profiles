@@ -304,9 +304,16 @@ _elections/appointments_: head of government indirectly elected by the General C
 _election results_: <em><br>2023: </em>Xaviar Espot ZAMORA (DA) reelected head of government; percent of General Council vote - 57.1%<br><em><br>2019:</em> Xaviar Espot ZAMORA (DA) elected head of government; percent of General Council vote - 60.7<br>
 
 **Legislative branch**<br>
-_description_: unicameral General Council of the Valleys or Consell General de les Valls (28 seats; 14 members directly elected in two-seat constituencies (7 parishes) by simple majority vote and 14 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 2 April 2023 (next to be held in April 2027)<br>
-_election results_: percent of vote by party/coalition - DA, CC, L'A &amp; ACCIO alliance 43.6%, C 21.4%, AE 16%, PS &amp; SDP alliance 21.1%; seats by party/coalition - DA, CC, L'A &amp; ACCIO alliance 17, C 5, AE 3, PS &amp; SDP alliance 3; composition - men 14, women 14, percentage women 50%<br>
+_legislature name_: General Council (Consell General)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 28 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 4/2/2023<br>
+_parties elected and seats per party_: Democrats for Andorra (DA) and its allies (17); Concordia (Concòrdia) and its allies (5); Andorra Forward (Andorra Endavant) (3); Social Democrat Party (PS) - Social Democracy and Progress (SDP) (3)<br>
+_percentage of women in chamber_: 50%<br>
+_expected date of next election_: April 2027<br>
 <strong>note:</strong> voters cast two separate ballots -- one for the national election and one for their parish<br>
 
 **Judicial branch**<br>
@@ -352,25 +359,25 @@ _selected World Heritage Site locales_: Madriu-Perafita-Claror Valley<br>
 high GDP; low unemployment; non-EU Euro user; co-principality duty-free area between Spain and France; tourist hub but hit hard by COVID-19; modern, non-tax haven financial sector; looking for big tech investments; new member of SEPA and IMF<br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.168 billion (2023 est.)<br>
+$5.226 billion (2023 est.)<br>
 $5.094 billion (2022 est.)<br>
 $4.65 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.44% (2023 est.)<br>
+2.58% (2023 est.)<br>
 9.56% (2022 est.)<br>
 8.29% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$64,500 (2023 est.)<br>
-$63,800 (2022 est.)<br>
-$58,800 (2021 est.)<br>
+$64,600 (2023 est.)<br>
+$63,900 (2022 est.)<br>
+$59,300 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.728 billion (2023 est.)<br>
+$3.785 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -385,8 +392,8 @@ _Standard & Poors rating_: BBB+ (2023)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.5% (2023 est.)<br>
-_industry_: 11.4% (2023 est.)<br>
-_services_: 78.6% (2023 est.)<br>
+_industry_: 12.4% (2023 est.)<br>
+_services_: 78.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **Agricultural products**<br>
@@ -396,7 +403,7 @@ small quantities of rye, wheat, barley, oats, vegetables, tobacco, sheep, cattle
 tourism (particularly skiing), banking, timber, furniture<br>
 
 **Industrial production growth rate**<br>
-3.88% (2023 est.)<br>
+14.39% (2023 est.)<br>
 <strong>note:</strong> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -407,8 +414,8 @@ tourism (particularly skiing), banking, timber, furniture<br>
 4.1% (2015 est.)<br>
 
 **Remittances**<br>
-0% of GDP (2023 est.)<br>
-0% of GDP (2022 est.)<br>
+1.18% of GDP (2023 est.)<br>
+1.32% of GDP (2022 est.)<br>
 1.59% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -459,7 +466,7 @@ cars, refined petroleum, garments, electricity, beauty products (2022)<br>
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
 0.925 (2023 est.)<br>
-0.95 (2022 est.)<br>
+0.951 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
@@ -486,7 +493,7 @@ _domestic_: about 63 per 100 fixed-line, 110 per 100 mobile-cellular (2021)<br>
 _international_: country code - 376; landline circuits to France and Spain; modern system with microwave radio relay connections between exchanges (2023)<br>
 
 **Broadcast media**<br>
-1 public TV station and 2 public radio stations; about 10 commercial radio stations; good reception of radio and TV broadcasts from stations in France and Spain; upgraded to terrestrial digital TV broadcasting in 2007; roughly 25 international TV channels available (2019)<br>
+<p class="ssrcss-1q0x1qg-Paragraph e1jhz7w10">the Andorran media scene is partly shaped by the proximity to France and Spain, Andorrans have access to broadcasts from both countries, and for many years Andorra was home to Sud Radio, a powerful station broadcasting to southwest France</p> (2023)<br>
 
 **Internet country code**<br>
 .ad<br>

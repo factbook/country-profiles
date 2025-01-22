@@ -352,10 +352,25 @@ _elections/appointments_: president indirectly elected by a Federal Convention c
 _election results_: <em><br>2022:</em> Frank-Walter STEINMEIER reelected president; Federal Convention vote count - Frank-Walter STEINMEIER (SPD) 1,045, Max OTTE (CDU) 140, Gerhard TRABERT (The Left) 96, Stefanie GEBAUER (Free Voters) 58, abstentions 86<br><br><em>2021</em>:  Olaf SCHOLZ (SPD) elected chancellor; Federal Parliament vote - 395 to 303<br><br><em>2017:</em>  Frank-Walter STEINMEIER elected president; Federal Convention vote count - Frank-Walter STEINMEIER (SPD) 931, Christopher Butterwegge (independent) 128, abstentions 103<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Parlament consists of:<br>Federal Council or Bundesrat (69 seats statutory, 71 current; members appointed by each of the 16 state governments)<br>Federal Diet or Bundestag (736 seats statutory, 736 for the 2021-25 term; approximately one-half of members directly elected in multi-seat constituencies by proportional representation vote and approximately one-half directly elected in single-seat constituencies by simple majority vote; members' terms depend upon the states they represent)<br>
-_elections_: Bundesrat - none; determined by the composition of the state-level governments; the composition of the Bundesrat has the potential to change any time one of the 16 states holds an election<br>Bundestag - last held on 26 September 2021 (next to be held on 23 February 2025); almost all postwar German governments have been coalitions<br>
-_election results_: Bundesrat - composition - men 43, women 26, percentage women 37.7%<br><br>Bundestag - percent of vote by party - SPD 28%, CDU/CSU 26.8%, Alliance '90/Greens 16%, FDP 12.5%, AfD 11%, The Left 5.3%, other .04%; seats by party - SPD 206, CDU/CSU 197, Alliance '90/Greens 118, FDP 92, AfD 81, The Left 39, other 3; composition - men 476, women 260, percentage women 34.9%; note - total Parliament percentage women 35.5%<br>
+_legislative structure_: bicameral<br>
 <strong>note:</strong> due to Germany's recognition of the concepts of "overhang" (when a party's share of the nationwide votes would entitle it to fewer seats than the number of individual constituency seats won in an election under Germany's mixed member proportional system) and "leveling" (whereby additional seats are elected to supplement the members directly elected by each constituency in order to ensure that each party's share of the total seats is roughly proportional to the party's overall shares of votes at the national level), the 20th Bundestag is the largest to date<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: German Bundestag (Deutscher Bundestag)<br>
+_number of seats_: 598 (all directly elected)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 9/26/2021<br>
+_parties elected and seats per party_: Social Democratic Party (SPD) (206); Christian Democratic Union (CDU) (152); Green Party (118); Free Democratic Party (FDP) (92); Alternative for Germany (AfD) (83); Christian Social Union of Bavaria (CSU) (45); Left Party (Die Linke) (39); Other (1)<br>
+_percentage of women in chamber_: 35.3%<br>
+_expected date of next election_: February 2025<br>
+<strong>note 1:</strong> total seats can vary each electoral term; currently includes 4 seats for independent members; approximately one-half of members directly elected in multi-seat constituencies by proportional representation vote and approximately one-half directly elected in single-seat constituencies by simple majority vote; members' terms vary depending on the states they represent<br><strong><br>note 2:</strong> the 20th Bundestag is the largest to date, due to Germany's recognition of "overhang" (when a party's share of the nationwide votes would entitle it to fewer seats than the number of individual constituency seats won in an election) and "leveling" (when additional seats are elected to supplement the members directly elected in order to ensure that each party's share of the total seats is roughly proportional to its overall share of votes at the national level)<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Federal Council (Bundesrat)<br>
+_number of seats_: 69 (all appointed)<br>
+_percentage of women in chamber_: 37.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Court of Justice (court consists of 127 judges, including the court president, vice presidents, presiding judges, other judges and organized into 25 Senates subdivided into 12 civil panels, 5 criminal panels, and 8 special panels); Federal Constitutional Court or Bundesverfassungsgericht (consists of 2 Senates each subdivided into 3 chambers, each with a chairman and 8 members)<br>
@@ -406,25 +421,25 @@ _selected World Heritage Site locales_: <p>Museumsinsel (Museum Island), Berlin 
 leading diversified, export-driven, core EU and eurozone economy; key automotive, chemical, engineering, finance, and green energy industries; growth stalled by energy crisis; tight labor market with falling working-age population; fiscal rebalancing with phaseout of energy price supports<br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.23 trillion (2023 est.)<br>
-$5.246 trillion (2022 est.)<br>
-$5.153 trillion (2021 est.)<br>
+$5.295 trillion (2023 est.)<br>
+$5.309 trillion (2022 est.)<br>
+$5.237 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--0.3% (2023 est.)<br>
-1.81% (2022 est.)<br>
+-0.27% (2023 est.)<br>
+1.37% (2022 est.)<br>
 3.16% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$61,900 (2023 est.)<br>
-$62,600 (2022 est.)<br>
-$61,900 (2021 est.)<br>
+$63,600 (2023 est.)<br>
+$63,400 (2022 est.)<br>
+$63,000 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$4.456 trillion (2023 est.)<br>
+$4.526 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -440,18 +455,18 @@ _Standard & Poors rating_: AAA (1983)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained. Credit ratings prior to 1989 refer to West Germany.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.7% (2023 est.)<br>
-_industry_: 28.1% (2023 est.)<br>
-_services_: 62.6% (2023 est.)<br>
+_agriculture_: 0.8% (2023 est.)<br>
+_industry_: 26.8% (2023 est.)<br>
+_services_: 63.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 50.7% (2023 est.)<br>
-_government consumption_: 21.6% (2023 est.)<br>
-_investment in fixed capital_: 21.9% (2023 est.)<br>
-_investment in inventories_: 1.6% (2023 est.)<br>
-_exports of goods and services_: 47.1% (2023 est.)<br>
-_imports of goods and services_: -43% (2023 est.)<br>
+_household consumption_: 49.9% (2023 est.)<br>
+_government consumption_: 21.2% (2023 est.)<br>
+_investment in fixed capital_: 21.5% (2023 est.)<br>
+_investment in inventories_: 0.2% (2023 est.)<br>
+_exports of goods and services_: 43.4% (2023 est.)<br>
+_imports of goods and services_: -39.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -462,11 +477,11 @@ milk, sugar beets, wheat, barley, potatoes, pork, rapeseed, maize, rye, tritical
 <p>iron, steel, coal, cement, chemicals, machinery, vehicles, machine tools, electronics, automobiles, food and beverages, shipbuilding, textiles</p><br>
 
 **Industrial production growth rate**<br>
--1.59% (2023 est.)<br>
+-0.51% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-44.784 million (2023 est.)<br>
+44.184 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -486,7 +501,7 @@ _female_: 5.1% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-31.7 (2019 est.)<br>
+32.4 (2020 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -494,14 +509,14 @@ _on food_: 11.8% of household expenditures (2022 est.)<br>
 _on alcohol and tobacco_: 3.5% of household expenditures (2022 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.1% (2019 est.)<br>
-_highest 10%_: 25.2% (2019 est.)<br>
+_lowest 10%_: 2.9% (2020 est.)<br>
+_highest 10%_: 25% (2020 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.46% of GDP (2023 est.)<br>
 0.47% of GDP (2022 est.)<br>
-0.46% of GDP (2021 est.)<br>
+0.47% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -514,19 +529,19 @@ _expenditures_: $1.31 trillion (2022 est.)<br>
 <strong>note:</strong> general government gross debt is defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); the general government sector comprises the sub-sectors of central government, state government, local government and social security funds; the series are presented as a percentage of GDP and in millions of euros; GDP used as a denominator is the gross domestic product at current market prices; data expressed in national currency are converted into euro using end-of-year exchange rates provided by the European Central Bank<br>
 
 **Taxes and other revenues**<br>
-11.23% (of GDP) (2022 est.)<br>
+11.01% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$262.723 billion (2023 est.)<br>
-$174.831 billion (2022 est.)<br>
-$312.08 billion (2021 est.)<br>
+$268.67 billion (2023 est.)<br>
+$184.777 billion (2022 est.)<br>
+$301.423 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$2.104 trillion (2023 est.)<br>
-$2.092 trillion (2022 est.)<br>
-$2.034 trillion (2021 est.)<br>
+$1.96 trillion (2023 est.)<br>
+$1.904 trillion (2022 est.)<br>
+$1.857 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -538,9 +553,9 @@ cars, packaged medicine, vehicle parts/accessories, vaccines, plastic products (
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$1.927 trillion (2023 est.)<br>
-$1.997 trillion (2022 est.)<br>
-$1.798 trillion (2021 est.)<br>
+$1.78 trillion (2023 est.)<br>
+$1.799 trillion (2022 est.)<br>
+$1.632 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
