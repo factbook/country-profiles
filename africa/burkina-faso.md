@@ -168,7 +168,7 @@ _female_: 66.1 years<br>
 1.98 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-35.3% (2020/21)<br>
+35.3% (2020/21 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 94.7% of population<br>

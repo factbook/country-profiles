@@ -399,13 +399,13 @@ _selected World Heritage Site locales_: Bryggen (c); Urnes Stave Church (c); Rø
 high-income, non-EU economy with trade links via European Economic Area (EEA); key European energy security role as leader in oil, gas, and electricity exports; major fishing, forestry, and extraction industries; oil sovereign fund supports generous welfare system; low unemployment; inflation and response hampering growth in non-energy sectors<br>
 
 **Real GDP (purchasing power parity)**<br>
-$499.528 billion (2023 est.)<br>
+$499.357 billion (2023 est.)<br>
 $496.973 billion (2022 est.)<br>
 $482.472 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.51% (2023 est.)<br>
+0.48% (2023 est.)<br>
 3.01% (2022 est.)<br>
 3.91% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
@@ -417,7 +417,7 @@ $89,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$485.513 billion (2023 est.)<br>
+$485.311 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -441,8 +441,8 @@ _services_: 50% (2023 est.)<br>
 **GDP - composition, by end use**<br>
 _household consumption_: 37.5% (2023 est.)<br>
 _government consumption_: 21.9% (2023 est.)<br>
-_investment in fixed capital_: 23.4% (2023 est.)<br>
-_investment in inventories_: 2.4% (2023 est.)<br>
+_investment in fixed capital_: 23.3% (2023 est.)<br>
+_investment in inventories_: 2.5% (2023 est.)<br>
 _exports of goods and services_: 47.2% (2023 est.)<br>
 _imports of goods and services_: -32.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -455,11 +455,11 @@ milk, barley, wheat, potatoes, oats, pork, chicken, beef, eggs, rye (2022)<br>
 petroleum and gas, shipping, fishing, aquaculture, food processing, shipbuilding, pulp and paper products, metals, chemicals, timber, mining, textiles<br>
 
 **Industrial production growth rate**<br>
-0.22% (2023 est.)<br>
+0.23% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.009 million (2023 est.)<br>
+3.007 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -511,13 +511,13 @@ _expenditures_: $174.546 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$86.368 billion (2023 est.)<br>
+$84.686 billion (2023 est.)<br>
 $177.149 billion (2022 est.)<br>
 $66.254 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$228.625 billion (2023 est.)<br>
+$224.336 billion (2023 est.)<br>
 $327.706 billion (2022 est.)<br>
 $203.228 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -531,7 +531,7 @@ natural gas, crude petroleum, fish, refined petroleum, aluminum (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$157.032 billion (2023 est.)<br>
+$155.081 billion (2023 est.)<br>
 $161.645 billion (2022 est.)<br>
 $140.331 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
