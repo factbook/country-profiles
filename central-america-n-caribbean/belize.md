@@ -289,7 +289,7 @@ parliamentary democracy (National Assembly) under a constitutional monarchy; a C
 _name_: Belmopan<br>
 _geographic coordinates_: 17 15 N, 88 46 W<br>
 _time difference_: UTC-6 (1 hour behind Washington, DC, during Standard Time)<br>
-_etymology_: the decision to move the capital of the country inland to higher and more stable land was made in the 1960s; the name chosen for the new city was formed from the union of two words: "Belize," the name of the longest river in the country, and "Mopan," one of the rivers in the area of the new capital that empties into the Belize River<br>
+_etymology_: the name is formed from the union of two words: "Belize," the name of the longest river in the country, and "Mopan," one of the rivers in the area that empties into the Belize River<br>
 
 **Administrative divisions**<br>
 6 districts; Belize, Cayo, Corozal, Orange Walk, Stann Creek, Toledo<br>

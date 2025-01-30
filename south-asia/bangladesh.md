@@ -308,7 +308,7 @@ parliamentary republic<br>
 _name_: Dhaka<br>
 _geographic coordinates_: 23 43 N, 90 24 E<br>
 _time difference_: UTC+6 (11 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the origins of the name are unclear, but some sources state that the city's site was originally called "dhakka," meaning "watchtower," and that the area served as a watch-station for Bengal rulers<br>
+_etymology_: the origins of the name are unclear, but it may be derived from either the dhak tree or Dhakeshwari, a goddess with a shrine in the city&nbsp;<br>
 
 **Administrative divisions**<br>
 8 divisions; Barishal, Chattogram, Dhaka, Khulna, Mymensingh, Rajshahi, Rangpur, Sylhet<br>
@@ -370,7 +370,7 @@ _subordinate courts_: civil courts include: Assistant Judge's Court; Joint Distr
 ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, D-8, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSCA, MONUSCO, NAM, OIC, OPCW, PCA, SAARC, SACEP, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNIFIL, UNMISS, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires DM Salahuddin MAHMUD (since 12 September 2024)<br>
+_chief of mission_: Ambassador Asad Alam SIAM (since 13 January 2025)<br>
 _chancery_: 3510 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 244-0183<br>
 _FAX_: [1] (202) 244-2771<br>

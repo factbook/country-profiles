@@ -348,7 +348,7 @@ Alliance Morisien (Mauritian Alliance)<br>Jean-Claude Barbier Movement (Mouvemen
 ACP, AfDB, AOSIS, AU, CD, COMESA, CPLP (associate), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, PCA, SAARC (observer), SADC, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Purmanund JHUGROO (since 7 July 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Dhanandjay GOBOODUN (since 9 January 2025)<br>
 _chancery_: 1709 N Street NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 244-1491<br>
 _FAX_: [1] (202) 966-0983<br>
@@ -384,13 +384,13 @@ _selected World Heritage Site locales_: Aapravasi Ghat; Le Morne Cultural Landsc
 upper middle-income Indian Ocean island economy; diversified portfolio; investing in maritime security; strong tourism sector decimated by COVID-19; expanding in information and financial services; environmentally fragile<br>
 
 **Real GDP (purchasing power parity)**<br>
-$33.53 billion (2023 est.)<br>
+$33.532 billion (2023 est.)<br>
 $31.35 billion (2022 est.)<br>
 $28.793 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-6.95% (2023 est.)<br>
+6.96% (2023 est.)<br>
 8.88% (2022 est.)<br>
 3.4% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
@@ -402,7 +402,7 @@ $22,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$14.397 billion (2023 est.)<br>
+$14.645 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -416,18 +416,18 @@ _Moody's rating_: Baa1 (2012)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 3.8% (2023 est.)<br>
+_agriculture_: 3.9% (2023 est.)<br>
 _industry_: 18.6% (2023 est.)<br>
-_services_: 64.6% (2023 est.)<br>
+_services_: 64.9% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 67.6% (2023 est.)<br>
-_government consumption_: 14.2% (2023 est.)<br>
-_investment in fixed capital_: 23.5% (2023 est.)<br>
+_household consumption_: 66.5% (2023 est.)<br>
+_government consumption_: 13.8% (2023 est.)<br>
+_investment in fixed capital_: 23.9% (2023 est.)<br>
 _investment in inventories_: -0.2% (2023 est.)<br>
-_exports of goods and services_: 53.3% (2023 est.)<br>
-_imports of goods and services_: -55.2% (2023 est.)<br>
+_exports of goods and services_: 52.5% (2023 est.)<br>
+_imports of goods and services_: -55.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -442,7 +442,7 @@ food processing (largely sugar milling), textiles, clothing, mining, chemicals, 
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-588,000 (2023 est.)<br>
+594,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -471,7 +471,7 @@ _highest 10%_: 29.9% (2017 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.94% of GDP (2023 est.)<br>
+2.15% of GDP (2023 est.)<br>
 2.12% of GDP (2022 est.)<br>
 2.37% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -486,17 +486,17 @@ _expenditures_: $3.647 billion (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-19.05% (of GDP) (2022 est.)<br>
+19.79% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$654.051 million (2023 est.)<br>
+-$647.743 million (2023 est.)<br>
 -$1.437 billion (2022 est.)<br>
 -$1.497 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$5.499 billion (2023 est.)<br>
+$5.495 billion (2023 est.)<br>
 $5.004 billion (2022 est.)<br>
 $3.194 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -510,7 +510,7 @@ garments, fish, raw sugar, fertilizers, diamonds (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$8.038 billion (2023 est.)<br>
+$8.027 billion (2023 est.)<br>
 $8.052 billion (2022 est.)<br>
 $6.057 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -530,7 +530,7 @@ $8.563 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$2.827 billion (2022 est.)<br>
+$3.77 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

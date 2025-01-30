@@ -388,7 +388,7 @@ Accord Party or ACC <br>Africa Democratic Congress or ADC  <br>All Progressiv
 ACP, AfDB, ATMIS, AU, C, CD, D-8, ECOWAS, EITI (compliant country), FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINURSO, MNJTF, MONUSCO, NAM, OAS (observer), OIC, OPCW, OPEC, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNITAR, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador-designate Samson ITEGBOJE, (since October 2024)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Samson Sunday ITEGBOJE (since 22 October 2024)<br>
 _chancery_: 3519 International Court NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 800-7201 (ext. 100)<br>
 _FAX_: [1] (202) 362-6541<br>

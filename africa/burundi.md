@@ -309,7 +309,6 @@ presidential republic<br>
 _name_: Gitega (political capital), Bujumbura (commercial capital)<br>
 _geographic coordinates_: 3 25 S, 29 55 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the naming origins for both Gitega and Bujumbura are obscure; Bujumbura's name prior to independence in 1962 was Usumbura<br>
 <strong>note:</strong> in January 2019, the Burundian parliament voted to make Gitega the political capital of the country while Bujumbura would remain its economic capital; as of 2023, the government's move to Gitega remains incomplete<br>
 
 **Administrative divisions**<br>

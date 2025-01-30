@@ -370,7 +370,7 @@ _subordinate courts_: Courts of Appeal; Court of Cassation; Courts of First Inst
 ACP, AfDB, AU, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, PCA, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Amielle Pelenne NIRINIAVISOA MARCEDA (since 31 October 2019)<br>
+_chief of mission_: Ambassador Lantosoa RAKOTOMALALA (since 13 January 2025)<br>
 _chancery_: 2374 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 265-5525<br>
 _FAX_: [1] (202) 265-3034<br>

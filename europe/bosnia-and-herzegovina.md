@@ -291,7 +291,7 @@ _name_: Sarajevo<br>
 _geographic coordinates_: 43 52 N, 18 25 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the name derives from the Turkish noun <em>saray</em>, meaning "palace" or "mansion," and the term <em>ova</em>, signifying "plain(s)," to give a meaning of "palace plains" or "the plains about the palace"<br>
+_etymology_: the name derives from the Turkish word <em>saray</em>, meaning "palace" or "mansion" <br>
 
 **Administrative divisions**<br>
 3 first-order administrative divisions - Brcko District (Brcko Distrikt) (ethnically mixed), Federation of Bosnia and Herzegovina (Federacija Bosne i Hercegovine) (predominantly Bosniak-Croat), Republika Srpska (predominantly Serb)<br>

@@ -361,7 +361,7 @@ none; note - organized political parties are legally banned in Oman, and loyalti
 ABEDA, AFESD, AMF, CAEU, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (NGOs), IDA, IDB, IFAD, IFC, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OIC, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Moosa Hamdan Moosa AL TAI (since 17 February 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Sabra Ahmed Mahmood AL HOOTI (since 4 November 2024)<br>
 _chancery_: 2535 Belmont Road, NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 387-1980<br>
 _FAX_: [1] (202) 745-4933<br>
@@ -396,29 +396,29 @@ _selected World Heritage Site locales_: Bahla Fort; Archaeological Sites of Bat;
 high-income, oil-based economy; large welfare system; growing government debt; citizenship-based labor force growth policy; US free trade agreement; diversifying portfolio; high female labor force participation<br>
 
 **Real GDP (purchasing power parity)**<br>
-$185.96 billion (2023 est.)<br>
-$183.574 billion (2022 est.)<br>
-$175.986 billion (2021 est.)<br>
+$193.445 billion (2023 est.)<br>
+$190.942 billion (2022 est.)<br>
+$174.254 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.3% (2023 est.)<br>
-4.31% (2022 est.)<br>
+1.31% (2023 est.)<br>
+9.58% (2022 est.)<br>
 3.09% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$40,000 (2023 est.)<br>
-$40,100 (2022 est.)<br>
-$38,900 (2021 est.)<br>
+$38,300 (2023 est.)<br>
+$40,400 (2022 est.)<br>
+$38,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$108.192 billion (2023 est.)<br>
+$108.811 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-0.94% (2023 est.)<br>
+0.95% (2023 est.)<br>
 2.51% (2022 est.)<br>
 1.68% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
@@ -430,18 +430,18 @@ _Standard & Poors rating_: B+ (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.8% (2022 est.)<br>
-_industry_: 57% (2022 est.)<br>
-_services_: 44.5% (2022 est.)<br>
+_agriculture_: 2.3% (2023 est.)<br>
+_industry_: 54.3% (2023 est.)<br>
+_services_: 46.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 44.3% (2021 est.)<br>
-_government consumption_: 22.1% (2021 est.)<br>
-_investment in fixed capital_: 25.6% (2021 est.)<br>
-_investment in inventories_: -3.2% (2021 est.)<br>
-_exports of goods and services_: 52.5% (2021 est.)<br>
-_imports of goods and services_: -41.4% (2021 est.)<br>
+_household consumption_: 34.3% (2022 est.)<br>
+_government consumption_: 17.9% (2022 est.)<br>
+_investment in fixed capital_: 22.5% (2022 est.)<br>
+_investment in inventories_: 4.4% (2022 est.)<br>
+_exports of goods and services_: 59.2% (2022 est.)<br>
+_imports of goods and services_: -41.4% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -452,11 +452,11 @@ dates, tomatoes, milk, sorghum, vegetables, goat milk, cucumbers/gherkins, chili
 crude oil production and refining, natural and liquefied natural gas production; construction, cement, copper, steel, chemicals, optic fiber<br>
 
 **Industrial production growth rate**<br>
-5.05% (2022 est.)<br>
+0.06% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.316 million (2023 est.)<br>
+2.579 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -493,15 +493,15 @@ _expenditures_: $35.984 billion (2018 est.)<br>
 31.3% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
-$5.652 billion (2022 est.)<br>
--$4.834 billion (2021 est.)<br>
--$12.514 billion (2020 est.)<br>
+$2.638 billion (2023 est.)<br>
+$4.362 billion (2022 est.)<br>
+-$4.836 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$69.701 billion (2022 est.)<br>
+$64.749 billion (2023 est.)<br>
+$69.483 billion (2022 est.)<br>
 $46.572 billion (2021 est.)<br>
-$35.691 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -513,9 +513,9 @@ crude petroleum, natural gas, refined petroleum, fertilizers, semi-finished iron
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$46.326 billion (2022 est.)<br>
+$47.412 billion (2023 est.)<br>
+$46.682 billion (2022 est.)<br>
 $37.216 billion (2021 est.)<br>
-$33.827 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -527,9 +527,9 @@ refined petroleum, cars, iron ore, milk, iron pipes (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$17.455 billion (2023 est.)<br>
-$17.606 billion (2022 est.)<br>
-$19.731 billion (2021 est.)<br>
+$17.298 billion (2023 est.)<br>
+$17.497 billion (2022 est.)<br>
+$19.73 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>

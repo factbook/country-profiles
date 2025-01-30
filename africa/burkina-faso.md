@@ -304,7 +304,7 @@ presidential republic<br>
 _name_: Ouagadougou<br>
 _geographic coordinates_: 12 22 N, 1 31 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: Ouagadougou is a Francophone spelling of the native name "Wogodogo," meaning "where people get honor and respect"<br>
+_etymology_: Ouagadougou is a Francophone spelling of the native name "Wogodogo," meaning "come to honor us"<br>
 
 **Administrative divisions**<br>
 13 regions; Boucle du Mouhoun, Cascades, Centre, Centre-Est, Centre-Nord, Centre-Ouest, Centre-Sud, Est, Hauts-Bassins, Nord, Plateau-Central, Sahel, Sud-Ouest<br>

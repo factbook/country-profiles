@@ -20,7 +20,7 @@ Map of the world oceans<br>
 
 **Area**<br>
 _total _: 85.133 million sq km<br>
-<strong>note:</strong> includes Baffin Bay, Baltic Sea, Black Sea, Caribbean Sea, Davis Strait, Denmark Strait, part of the Drake Passage, Hudson Bay, Hudson Strait, Gulf of Mexico, Labrador Sea, Mediterranean Sea, North Sea, almost all of the Scotia Sea, and other tributary water bodies<br>
+<strong>note:</strong> includes Baffin Bay, Baltic Sea, Black Sea, Caribbean Sea, Davis Strait, Denmark Strait, part of the Drake Passage, Hudson Bay, Hudson Strait, Gulf of America, Labrador Sea, Mediterranean Sea, North Sea, almost all of the Scotia Sea, and other tributary water bodies<br>
 
 **Area - comparative**<br>
 about 7.5 times the size of the US<br>
@@ -62,12 +62,10 @@ icebergs common in Davis Strait, Denmark Strait, and the northwestern Atlantic O
 **Geography - note**<br>
 major chokepoints include the Dardanelles, Strait of Gibraltar, access to the Panama and Suez Canals; strategic straits include the Strait of Dover, Straits of Florida, Mona Passage, The Sound (Oresund), and Windward Passage; the Equator divides the Atlantic Ocean into the North Atlantic Ocean and South Atlantic Ocean<br>
 
-## People and Society
-
 ## Environment
 
 **Environment - current issues**<br>
-endangered marine species include the manatee, seals, sea lions, turtles, and whales; unsustainable exploitation of fisheries (over fishing, unregulated bottom trawling, drift net fishing, discards, catch of non-target species); pollution (maritime transport, discharges, offshore drilling, oil spills, plastics from improperly disposed waste); municipal sludge pollution off eastern US, southern Brazil, and eastern Argentina; oil pollution in Caribbean Sea, Gulf of Mexico, Lake Maracaibo, Mediterranean Sea, and North Sea; industrial waste and municipal sewage pollution in Baltic Sea, North Sea, and Mediterranean Sea<br>
+endangered marine species include the manatee, seals, sea lions, turtles, and whales; unsustainable exploitation of fisheries (over fishing, unregulated bottom trawling, drift net fishing, discards, catch of non-target species); pollution (maritime transport, discharges, offshore drilling, oil spills, plastics from improperly disposed waste); municipal sludge pollution off eastern US, southern Brazil, and eastern Argentina; oil pollution in Caribbean Sea, Gulf of America, Lake Maracaibo, Mediterranean Sea, and North Sea; industrial waste and municipal sewage pollution in Baltic Sea, North Sea, and Mediterranean Sea<br>
 
 **Climate**<br>
 tropical cyclones (hurricanes) develop off the coast of Africa near Cabo Verde and move westward into the Caribbean Sea; hurricanes can occur from May to December but are most frequent from August to November<br>
@@ -85,7 +83,7 @@ _etymology_: name derives from the Greek description of the waters beyond the St
 ## Transportation
 
 **Transportation - note**<br>
-Kiel Canal and Saint Lawrence Seaway are two important waterways; significant domestic commercial and recreational use of Intracoastal Waterway on central and south Atlantic seaboard and Gulf of Mexico coast of US<br>
+Kiel Canal and Saint Lawrence Seaway are two important waterways; significant domestic commercial and recreational use of Intracoastal Waterway on central and south Atlantic seaboard and Gulf of America coast of US<br>
 
 ## Military and Security
 

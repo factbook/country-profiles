@@ -320,7 +320,7 @@ _name_: Bras&iacute;lia<br>
 _geographic coordinates_: 15 47 S, 47 55 W<br>
 _time difference_: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)<br>
 _time zone note_: Brazil has four time zones, including one for the Fernando de Noronha Islands<br>
-_etymology_: name bestowed on the new capital of Brazil upon its inauguration in 1960; previous Brazilian capitals had been Salvador from 1549 to 1763 and Rio de Janeiro from 1763 to 1960<br>
+_etymology_: name bestowed on the new capital of Brazil in 1960; previous Brazilian capitals were Salvador (1549-1763) and Rio de Janeiro (1763 to 1960)<br>
 
 **Administrative divisions**<br>
 26 states (estados, singular - estado) and 1 federal district* (distrito federal); Acre, Alagoas, Amapa, Amazonas, Bahia, Ceara, Distrito Federal*, Espirito Santo, Goias, Maranhao, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Para, Paraiba, Parana, Pernambuco, Piaui, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondonia, Roraima, Santa Catarina, Sao Paulo, Sergipe, Tocantins<br>

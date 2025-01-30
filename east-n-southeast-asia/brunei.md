@@ -284,7 +284,7 @@ absolute monarchy or sultanate<br>
 _name_: Bandar Seri Begawan<br>
 _geographic coordinates_: 4 53 N, 114 56 E<br>
 _time difference_: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named in 1970 after Sultan Omar Ali SAIFUDDIEN III (1914-1986; "The Father of Independence") who adopted the title of "Seri Begawan" (approximate meaning "honored lord") upon his abdication in 1967; "bandar" in Malay means "town" or "city"; the capital had previously been called Bandar Brunei (Brunei Town)<br>
+_etymology_: named in 1970 after Sultan Omar Ali SAIFUDDIEN III (1914-1986) who adopted the title of "Seri Begawan" (approximate meaning "honored lord") upon his abdication in 1967; "bandar" means "city" in Malay; the capital had previously been called Bandar Brunei (Brunei City)<br>
 
 **Administrative divisions**<br>
 4 districts (daerah-daerah, singular - daerah); Belait, Brunei dan Muara, Temburong, Tutong<br>
@@ -389,9 +389,9 @@ $35.347 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$77,900 (2023 est.)<br>
-$77,400 (2022 est.)<br>
-$79,400 (2021 est.)<br>
+$76,800 (2023 est.)<br>
+$76,400 (2022 est.)<br>
+$78,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -431,7 +431,7 @@ petroleum, petroleum refining, liquefied natural gas, construction, agriculture,
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-228,000 (2023 est.)<br>
+233,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -463,15 +463,15 @@ _expenditures_: $3.189 billion (2020 est.)<br>
 18.5% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
+$1.944 billion (2023 est.)<br>
 $3.264 billion (2022 est.)<br>
 $1.57 billion (2021 est.)<br>
-$513.713 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$11.578 billion (2023 est.)<br>
 $14.411 billion (2022 est.)<br>
 $11.202 billion (2021 est.)<br>
-$6.886 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -483,9 +483,9 @@ refined petroleum, natural gas, crude petroleum, hydrocarbons, fertilizers (2022
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$9.081 billion (2023 est.)<br>
 $10.106 billion (2022 est.)<br>
 $9.219 billion (2021 est.)<br>
-$6.382 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

@@ -377,9 +377,9 @@ $11.63 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$32,000 (2023 est.)<br>
-$31,400 (2022 est.)<br>
-$28,500 (2021 est.)<br>
+$33,100 (2023 est.)<br>
+$32,400 (2022 est.)<br>
+$29,300 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -424,7 +424,7 @@ tourism, banking, oil bunkering, maritime industries, transshipment and logistic
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-242,000 (2023 est.)<br>
+235,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -440,7 +440,7 @@ _female_: 26.7% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
-0.38% of GDP (2023 est.)<br>
+0.44% of GDP (2023 est.)<br>
 0.44% of GDP (2022 est.)<br>
 0.47% of GDP (2021 est.)<br>
 
@@ -458,15 +458,15 @@ _expenditures_: $3.102 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.763 billion (2022 est.)<br>
+-$1.075 billion (2023 est.)<br>
+-$1.233 billion (2022 est.)<br>
 -$2.434 billion (2021 est.)<br>
--$2.285 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$4.744 billion (2022 est.)<br>
+$6.005 billion (2023 est.)<br>
+$5.425 billion (2022 est.)<br>
 $3.33 billion (2021 est.)<br>
-$1.688 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -478,9 +478,9 @@ refined petroleum, ships, aluminum, postage stamps/documents, plastics (2022)<br
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$5.692 billion (2022 est.)<br>
+$6.273 billion (2023 est.)<br>
+$5.843 billion (2022 est.)<br>
 $4.947 billion (2021 est.)<br>
-$3.411 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

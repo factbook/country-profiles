@@ -332,9 +332,9 @@ $958.811 million (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$22,400 (2023 est.)<br>
-$22,300 (2022 est.)<br>
-$21,300 (2021 est.)<br>
+$22,300 (2023 est.)<br>
+$22,200 (2022 est.)<br>
+$21,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>

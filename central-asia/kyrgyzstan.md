@@ -341,7 +341,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Sadyr JAPAROV (since 28 January 2021)<br>
-_head of government_: President Sadyr JAPAROV (since 28 January 2021)<br>
+_head of government_: President Adylbek KASYMALIYEV (since 18 December 2024)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a five-year term (eligible for a second term); election last held on 10 January 2021 (next to be held in 2027)<br>
 _election results_: <em><br>2021:</em> Sadyr JAPAROV elected president in first round; percent of vote - Sadyr JAPAROV (Mekenchil) 79.2%, Adakhan MADUMAROV (United Kyrgyzstan) 6.8%, other 14%<br><br><em>2017:</em> Sooronbay JEENBEKOV elected president; Sooronbay JEENBEKOV (Social Democratic Party of Kyrgyzstan) 54.7%, Omurbek BABANOV (independent) 33.8%, Adakhan MADUMAROV (United Kyrgyzstan) 6.6%, other 4.9%<br>
@@ -371,7 +371,7 @@ Afghan's Party<br>Alliance<br>Ata-Jurt Kyrgyzstan (Fatherland) or AJK<br>Cohesio
 ADB, CICA, CIS, CSTO, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PCA, PFP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); (since 26 October 2024)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires&nbsp;Mirel MURATOV (since 22 November 2024)<br>
 _chancery_: 2360 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 449-9822<br>
 _FAX_: [1] (202) 449-8275<br>
@@ -420,7 +420,7 @@ $39.302 billion (2021 est.)<br>
 **Real GDP per capita**<br>
 $6,400 (2023 est.)<br>
 $6,100 (2022 est.)<br>
-$5,800 (2021 est.)<br>
+$5,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -445,12 +445,12 @@ _services_: 50.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 88.7% (2022 est.)<br>
-_government consumption_: 16.8% (2022 est.)<br>
-_investment in fixed capital_: 21.5% (2022 est.)<br>
-_investment in inventories_: 14.2% (2022 est.)<br>
-_exports of goods and services_: 29.9% (2022 est.)<br>
-_imports of goods and services_: -87.4% (2022 est.)<br>
+_household consumption_: 89.5% (2023 est.)<br>
+_government consumption_: 16.4% (2023 est.)<br>
+_investment in fixed capital_: 21.2% (2023 est.)<br>
+_investment in inventories_: 9.1% (2023 est.)<br>
+_exports of goods and services_: 39.2% (2023 est.)<br>
+_imports of goods and services_: -101% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -465,7 +465,7 @@ small machinery, textiles, food processing, cement, shoes, lumber, refrigerators
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.069 million (2023 est.)<br>
+3.144 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -485,16 +485,16 @@ _female_: 9.2% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-28.8 (2021 est.)<br>
+26.4 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4.1% (2021 est.)<br>
-_highest 10%_: 24.2% (2021 est.)<br>
+_lowest 10%_: 4.4% (2022 est.)<br>
+_highest 10%_: 22% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-18.59% of GDP (2023 est.)<br>
+20.38% of GDP (2023 est.)<br>
 26.58% of GDP (2022 est.)<br>
 32.56% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -505,11 +505,11 @@ _expenditures_: $2.892 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-47.09% of GDP (2022 est.)<br>
+44% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-19.54% (of GDP) (2022 est.)<br>
+21.28% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -553,7 +553,7 @@ $2.983 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$3.457 billion (2022 est.)<br>
+$3.918 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>

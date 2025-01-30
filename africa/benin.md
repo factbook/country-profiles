@@ -302,7 +302,7 @@ presidential republic<br>
 _name_: Porto-Novo (constitutional capital); Cotonou (seat of government)<br>
 _geographic coordinates_: 6 29 N, 2 37 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name Porto-Novo is Portuguese for "new port"; Cotonou means "by the river of death" in the native Fon language<br>
+_etymology_: the name Porto-Novo is Portuguese for "new port"; Cotonou means "mouth of the river of death" in the native Fon language<br>
 
 **Administrative divisions**<br>
 12 departments; Alibori, Atacora, Atlantique, Borgou, Collines, Couffo, Donga, Littoral, Mono, Oueme, Plateau, Zou<br>

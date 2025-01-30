@@ -284,7 +284,6 @@ _conventional long form_: Republic of El Salvador<br>
 _conventional short form_: El Salvador<br>
 _local long form_: Rep&uacute;blica de El Salvador<br>
 _local short form_: El Salvador<br>
-_etymology_: name is an abbreviation of the original Spanish conquistador designation for the area "Provincia de Nuestro Senor Jesus Cristo, el Salvador del Mundo" (Province of Our Lord Jesus Christ, the Saviour of the World), which became simply "El Salvador" (The Savior)<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -293,7 +292,7 @@ presidential republic<br>
 _name_: San Salvador<br>
 _geographic coordinates_: 13 42 N, 89 12 W<br>
 _time difference_: UTC-6 (1 hour behind Washington, DC, during Standard Time)<br>
-_etymology_: Spanish for "Holy Savior" (referring to Jesus Christ)<br>
+_etymology_: Spanish for "The Savior" (referring to Jesus Christ)<br>
 
 **Administrative divisions**<br>
 14 departments (departamentos, singular - departamento); Ahuachapan, Cabanas, Chalatenango, Cuscatlan, La Libertad, La Paz, La Union, Morazan, San Miguel, San Salvador, San Vicente, Santa Ana, Sonsonate, Usulutan<br>

@@ -302,8 +302,8 @@ presidential republic in name, although in fact a dictatorship<br>
 **Capital**<br>
 _name_: Minsk<br>
 _geographic coordinates_: 53 54 N, 27 34 E<br>
-_time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the origin of the name is disputed; Minsk may originally have been located 16&nbsp;km to the southwest, on the banks of Menka River; remnants of a 10th-century settlement on the banks of the Menka have been found<br>
+_time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
+_etymology_: the origin of the name is disputed; it may be derived from the Menka River<br>
 
 **Administrative divisions**<br>
 6 regions (voblastsi, singular - voblasts') and 1 municipality* (horad); Brest, Homyel' (Gomel'), Horad Minsk* (Minsk City), Hrodna (Grodno), Mahilyow (Mogilev), Minsk, Vitsyebsk (Vitebsk)<br>
@@ -338,8 +338,8 @@ _residency requirement for naturalization_: 7 years<br>
 _chief of state_: President Alyaksandr LUKASHENKA (since 20 July 1994)<br>
 _head of government_: Prime Minister Roman GOLOVCHENKO (since 4 June 2020)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); first election held on 23 June and 10 July 1994; according to the 1994 constitution, the next election should have been held in 1999; however, Alyaksandr LUKASHENKA extended his term to 2001 via a November 1996 referendum; subsequent election held on 9 September 2001; an October 2004 referendum ended presidential term limits and allowed the President LUKASHENKA to run and win a third&nbsp; term (19 March 2006); a fourth term (19 December 2010); a fifth term (11 October 2015); a sixth term (9 August 2020); next election to be held in 2025; prime minister and deputy prime ministers appointed by the president and approved by the National Assembly<br>
-_election results_: <em><br>2020:</em> Alyaksandr LUKASHENKA reelected president; percent of vote - Alyaksandr LUKASHENKA (independent) 80.1%, Svyatlana TSIKHANOWSKAYA (independent) 10.1%, other 9.8%; note - widespread street protests erupted following announcement of the election results amid allegations of voter fraud<br><em><br>2015:</em> Alyaksandr LUKASHENKA elected president; percent of vote - Alyaksandr LUKASHENKA (independent) 84.1%, Tatsyana KARATKEVIC (BSDPH) 4.4%, Sergey GAYDUKEVICH (LDP) 3.3%, other 8.2%.<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); first election held on 23 June and 10 July 1994; according to the 1994 constitution, the next election should have been held in 1999; however, Alyaksandr LUKASHENKA extended his term to 2001 via a November 1996 referendum; subsequent election held on 9 September 2001; an October 2004 referendum ended presidential term limits and allowed the President LUKASHENKA to run and win a third&nbsp; term (19 March 2006); a fourth term (19 December 2010); a fifth term (11 October 2015); a sixth term (9 August 2020); a seventh term (26 January 2025); next election to be held in 2030; prime minister and deputy prime ministers appointed by the president and approved by the National Assembly<br>
+_election results_: <em><br>2025:  Alyaksandr LUKASHENKA reelected president; percent of vote - Alyaksandr LUKASHENKA (independent) 86.8%, Sergey Syrankov (Communist Party) with 3.2%, 3.6% voting against all<br><br>2020:</em> Alyaksandr LUKASHENKA reelected president; percent of vote - Alyaksandr LUKASHENKA (independent) 80.1%, Svyatlana TSIKHANOWSKAYA (independent) 10.1%, other 9.8%; note - widespread street protests erupted following announcement of the election results amid allegations of voter fraud<br><em><br>2015:</em> Alyaksandr LUKASHENKA elected president; percent of vote - Alyaksandr LUKASHENKA (independent) 84.1%, Tatsyana KARATKEVIC (BSDPH) 4.4%, Sergey GAYDUKEVICH (LDP) 3.3%, other 8.2%.<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Natsionalnoye Sobranie)<br>

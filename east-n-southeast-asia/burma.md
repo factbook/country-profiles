@@ -316,7 +316,7 @@ military regime<br>
 _name_: Rangoon (aka Yangon, continues to be recognized as the primary Burmese capital by the US Government); Nay Pyi Taw is the administrative capital<br>
 _geographic coordinates_: 16 48 N, 96 10 E<br>
 _time difference_: UTC+6.5 (11.5 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: Rangoon/Yangon derives from the Burmese words <em>yan</em> and <em>koun</em>, which mean "danger" and "no more" respectively and provide the meaning of "end of strife"; Nay Pyi Taw translates as: "Abode of Royals" or "the capital city of a kingdom"<br>
+_etymology_: Rangoon/Yangon derives from the Burmese words <em>yan</em> and <em>koun</em>, commonly translated as "end of strife"; Nay Pyi Taw translates as "Abode of Kings"<br>
 
 **Administrative divisions**<br>
 <p>7 regions (taing-myar, singular - taing), 7 states (pyi ne-myar, singular - pyi ne), 1 union territory</p> <p><strong>regions:</strong> Ayeyarwady (Irrawaddy), Bago, Magway, Mandalay, Sagaing, Tanintharyi, Yangon (Rangoon)</p> <p><strong>states:</strong> Chin, Kachin, Kayah, Karen, Mon, Rakhine, Shan</p> <p><strong>union territory:</strong> Nay Pyi Taw</p><br>

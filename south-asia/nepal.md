@@ -376,7 +376,7 @@ _subordinate courts_: High Court; district courts<br>
 ADB, BIMSTEC, CD, CP, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, NAM, OPCW, SAARC, SACEP, UN, UNAMID, UNCTAD, UNDOF, UNESCO, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Kumar Raj KHAREL (since 26 June 2024)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Sharad Raj ARAN (since 13 November 2024)<br>
 _chancery_: 2730 34th Place NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 667-4550<br>
 _FAX_: [1] (202) 667-5534<br>

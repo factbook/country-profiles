@@ -303,7 +303,7 @@ parliamentary republic<br>
 _name_: Gaborone<br>
 _geographic coordinates_: 24 38 S, 25 54 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named after GABORONE (ca. 1825-1931), a revered kgosi (chief) of the Tlokwa tribe, part of the larger Tswana ethnic group<br>
+_etymology_: named after GABORONE (ca. 1825-1931), a chief of the Tlokwa tribe, whose name means "it is not unbecoming"<br>
 
 **Administrative divisions**<br>
 10 districts and 6 town councils*; Central, Chobe, Francistown*, Gaborone*, Ghanzi, Jwaneng*, Kgalagadi, Kgatleng, Kweneng, Lobatse*, North East, North West, Selebi-Phikwe*, South East, Southern, Sowa Town*<br>

@@ -357,7 +357,7 @@ All People's Congress or APC <br>Sierra Leone People's Party or SLPP<br>
 ACP, AfDB, ATMIS, AU, C, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNOOSA, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Sidique Abou-Bakarr WAI (since 8 April 2019)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Sheku MESALI (since 14 January 2025)<br>
 _chancery_: 1701 19th Street NW, Washington, DC 20009-1605<br>
 _telephone_: [1] (202) 939-9261<br>
 _FAX_: [1] (202) 483-1793<br>

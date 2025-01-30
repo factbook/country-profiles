@@ -380,7 +380,7 @@ Candlelight Party or CP<br>Cambodian People's Party or CPP <br>Khmer Will Party
 ADB, ARF, ASEAN, CICA, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador KEO Chhea (since 19 April 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Socheat OUM&nbsp;(since 20 September 2024)<br>
 _chancery_: 4530 16th Street NW, Washington, DC 20011<br>
 _telephone_: [1] (202) 726-7742<br>
 _FAX_: [1] (202) 726-8381<br>

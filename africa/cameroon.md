@@ -317,7 +317,6 @@ presidential republic<br>
 _name_: Yaounde<br>
 _geographic coordinates_: 3 52 N, 11 31 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: founded as a German colonial settlement of&nbsp;Jaunde in 1888 and named after the local Yaunde (Ewondo) people<br>
 
 **Administrative divisions**<br>
 10 regions (regions, singular - region); Adamaoua, Centre, East (Est), Far North (Extreme-Nord), Littoral, North (Nord), North-West (Nord-Ouest), West (Ouest), South (Sud), South-West (Sud-Ouest)<br>

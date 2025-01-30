@@ -360,7 +360,7 @@ Citizens<br>European Socialists<br>For Georgia<br>Georgian Dream<br>Girchi<br>La
 ADB, BSEC, CD, CE, CPLP (associate), EAPC, EBRD, FAO, G-11, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OIF (observer), OPCW, OSCE, PFP, SELEC (observer), UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador David ZALKALIANI (since 7 June 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires&nbsp;Khatuna KVESELAVA (since 31 December 2024)<br>
 _chancery_: 1824 R Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 387-2390<br>
 _FAX_: [1] (202) 387-0864<br>

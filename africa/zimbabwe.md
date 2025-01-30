@@ -391,7 +391,7 @@ Citizens Coalition for Change <br>Movement for Democratic Change or MDC-T <br>
 ACP, AfDB, ATMIS, AU, COMESA, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, SADC, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Tadeous Tafirenyika CHIFAMBA (since 7 July 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Sarah BHOROMA (since 12 November 2024)<br>
 _chancery_: 1608 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 332-7100<br>
 _FAX_: [1] (202) 483-9326<br>

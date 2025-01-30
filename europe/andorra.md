@@ -328,7 +328,7 @@ Action for Andorra or ACCIO <br>Committed Citizens or CC <br>Concord or C<br>D
 CE, FAO, ICAO, ICC (NGOs), ICCt, ICRM, IFRCS, Interpol, IOC, IPU, ITU, OIF, OPCW, OSCE, UN, UNCTAD, UNESCO, Union Latina, UNWTO, WCO, WHO, WIPO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Joan FORNER ROVIRA (since 20 August 2024); note - also Permanent Representative to the UN<br>
+_chief of mission_: Ambassador Joan FORNER ROVIRA (since 13 January 2025); note - also Permanent Representative to the UN<br>
 _chancery_: 2 United Nations Plaza, 27th Floor, New York, NY 10017<br>
 _telephone_: [1] (212) 750-8064<br>
 _FAX_: [1] (212) 750-6630<br>

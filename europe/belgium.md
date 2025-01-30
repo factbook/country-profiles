@@ -295,7 +295,7 @@ federal parliamentary democracy under a constitutional monarchy<br>
 
 **Capital**<br>
 _name_: Brussels<br>
-_geographic coordinates_: 50 50 N, 4 20 E<br>
+_geographic coordinates_: 50 84 N, 4 35 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
 _etymology_: may derive from the Old Dutch <em>bruoc/broek</em>, meaning "marsh" and <em>sella/zele/sel</em> signifying "home" to express the meaning "home in the marsh"<br>
@@ -373,7 +373,7 @@ _subordinate courts_: Courts of Appeal; regional courts; specialized courts for 
 ADB (nonregional members), AfDB (nonregional members), Australia Group, Benelux, BIS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Sophie Chaska KARLSHAUSEN (since 31 August 2024)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Sophie Chaska KARLSHAUSEN (since 1 August 2024)<br>
 _chancery_: 1430 K Street NW, Washington DC 20005<br>
 _telephone_: [1] (202) 333-6900<br>
 _FAX_: [1] (202) 338-4960<br>
