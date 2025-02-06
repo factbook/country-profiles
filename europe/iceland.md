@@ -360,7 +360,7 @@ _FAX_: [1] (202) 265-6656<br>
 _email address and website_: <br>washington@mfa.is<br><br>https://www.government.is/diplomatic-missions/embassy-of-iceland-in-washington-d.c/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Carrin F. PATMAN (since 6 October 2022)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Erin SAWYER (since January 2025)<br>
 _embassy_: Engjateigur 7, 105 Reykjavik<br>
 _mailing address_: 5640 Reykjavik Place, Washington, D.C. 20521-5640<br>
 _telephone_: [354] 595-2200<br>
@@ -592,7 +592,6 @@ state-owned public TV broadcaster (RUV) operates 21 TV channels nationally (RUV 
 .is<br>
 
 **Internet users**<br>
-_total_: 370,000 (2021 est.)<br>
 _percent of population_: 100% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

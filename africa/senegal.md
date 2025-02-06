@@ -624,7 +624,6 @@ Senegal&rsquo;s media environment includes over 25 private television stations, 
 .sn<br>
 
 **Internet users**<br>
-_total_: 9.86 million (2021 est.)<br>
 _percent of population_: 58% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

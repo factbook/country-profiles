@@ -113,7 +113,6 @@ _international_: country code - none allocated; via satellite (including mobile 
 .aq<br>
 
 **Internet users**<br>
-_total_: 4,400 (2021 est.)<br>
 _percent of population_: 100% (2021 est.)<br>
 
 ## Transportation

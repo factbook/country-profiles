@@ -652,7 +652,6 @@ more than 90% of households are connected to cable or satellite TV systems that 
 .nl<br>
 
 **Internet users**<br>
-_total_: 16.56 million (2021 est.)<br>
 _percent of population_: 92% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

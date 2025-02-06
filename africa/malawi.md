@@ -621,7 +621,6 @@ radio is the main broadcast medium; privately owned Zodiak radio has the widest 
 .mw<br>
 
 **Internet users**<br>
-_total_: 4.8 million (2021 est.)<br>
 _percent of population_: 24% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

@@ -601,7 +601,6 @@ state-owned Radio Nationale Malagasy (RNM) and Television Malagasy (TVM) have an
 .mg<br>
 
 **Internet users**<br>
-_total_: 5.8 million (2021 est.)<br>
 _percent of population_: 20% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

@@ -399,7 +399,7 @@ _email address and website_: <br>chinaemppress_us@mfa.gov.cn<br><br>http://www.c
 _consulate(s) general_: Chicago, Los Angeles, New York, San Francisco; note - the US ordered closure of the Houston consulate in late July 2020<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Nicholas BURNS (since 2 April 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Sarah M. BERAN (since January 2025)<br>
 _embassy_: 55 Anjialou Road, Chaoyang District, Beijing 100600<br>
 _mailing address_: 7300 Beijing Place, Washington DC&nbsp; 20521-7300<br>
 _telephone_: [86] (10) 8531-3000<br>
@@ -669,7 +669,6 @@ all broadcast media are owned by, or affiliated with, the Chinese Communisty Par
 .cn<br>
 
 **Internet users**<br>
-_total_: 1.022 billion (2021 est.)<br>
 _percent of population_: 73% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

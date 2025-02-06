@@ -597,7 +597,6 @@ _international_: country code - 961; landing points for the IMEWE, BERYTAR AND C
 .lb<br>
 
 **Internet users**<br>
-_total_: 4.872 million (2021 est.)<br>
 _percent of population_: 87% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

@@ -609,7 +609,6 @@ several national and regional commercial TV stations are foreign-owned, 2 nation
 .lv<br>
 
 **Internet users**<br>
-_total_: 1.729 million (2021 est.)<br>
 _percent of population_: 91% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

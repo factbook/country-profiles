@@ -366,7 +366,7 @@ _email address and website_: <br>contactus@jamaicaembassy.org<br><br>Jamaican Em
 _consulate(s) general_: Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador N. Nickolas PERRY (since 13 May 2022)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Amy TACHCO (since January 2025)<br>
 _embassy_: 142 Old Hope Road, Kingston 6<br>
 _mailing address_: 3210 Kingston Place, Washington DC&nbsp; 20521-3210<br>
 _telephone_: (876) 702-6000<br>
@@ -611,7 +611,6 @@ _international_: country code - 1-876 and 1-658; landing points for the ALBA-1, 
 .jm<br>
 
 **Internet users**<br>
-_total_: 2.296 million (2021 est.)<br>
 _percent of population_: 82% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

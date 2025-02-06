@@ -627,7 +627,6 @@ state-owned TV broadcaster operates 2 TV networks with relays throughout the cou
 .my<br>
 
 **Internet users**<br>
-_total_: 32.98 million (2021 est.)<br>
 _percent of population_: 97% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

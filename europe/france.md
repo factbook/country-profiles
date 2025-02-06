@@ -414,7 +414,7 @@ _email address and website_: <br>info@ambafrance-us.org<br><br>https://franceint
 _consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New Orleans, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Denise Campbell BAUER (since 5 February 2022); note - also accredited to Monaco<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires David R. McCAWLEY (since January 2025); note - also accredited to Monaco<br>
 _embassy_: 2 avenue Gabriel, 75008 Paris<br>
 _mailing address_: 9200 Paris Place, Washington DC&nbsp; 20521-9200<br>
 _telephone_: [33] (1) 43-12-22-22, [33] (1) 42-66-97-83<br>
@@ -442,7 +442,7 @@ _selected World Heritage Site locales_: Chartres Cathedral (c); Palace and Park 
 ## Economy
 
 **Economic overview**<br>
-high-income, advanced and diversified EU economy and euro user; strong tourism, aircraft manufacturing, pharmaceuticals, and industrial sectors; high public debt; ongoing pension reform efforts; transitioning to a green economy via "France 2030" strategy<br>
+<p>high-income, advanced EU economy and eurozone member; strong tourism, aircraft manufacturing, pharmaceuticals, and industrial sectors; high public debt; ongoing pension reform efforts; transitioning to a green economy via "France 2030" strategy</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $3.786 trillion (2023 est.)<br>
@@ -683,7 +683,6 @@ a mix of both publicly operated and privately owned TV stations; state-owned Fra
 metropolitan France - .fr; French Guiana - .gf; Guadeloupe - .gp; Martinique - .mq; Mayotte - .yt; Reunion - .re<br>
 
 **Internet users**<br>
-_total_: 55.9 million (2021 est.)<br>
 _percent of population_: 86% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

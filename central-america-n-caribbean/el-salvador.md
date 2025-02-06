@@ -611,7 +611,6 @@ multiple privately owned national terrestrial TV networks, supplemented by cable
 .sv<br>
 
 **Internet users**<br>
-_total_: 3.969 million (2021 est.)<br>
 _percent of population_: 63% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

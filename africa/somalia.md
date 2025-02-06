@@ -560,7 +560,6 @@ _international_: country code - 252; landing points for the G2A, DARE1, PEACE, a
 .so<br>
 
 **Internet users**<br>
-_total_: 2.465 million (2021 est.)<br>
 _percent of population_: 14.5% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

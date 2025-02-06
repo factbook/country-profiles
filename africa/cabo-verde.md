@@ -586,7 +586,6 @@ state-run TV and radio broadcast network plus a growing number of private broadc
 .cv<br>
 
 **Internet users**<br>
-_total_: 413,000 (2021 est.)<br>
 _percent of population_: 70% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

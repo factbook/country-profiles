@@ -630,7 +630,6 @@ national public TV broadcaster; 2 privately owned companies provide subscription
 .ml<br>
 
 **Internet users**<br>
-_total_: 7.48 million (2021 est.)<br>
 _percent of population_: 34% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

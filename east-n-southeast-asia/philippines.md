@@ -650,7 +650,6 @@ multiple national private TV and radio networks; multi-channel satellite and cab
 .ph<br>
 
 **Internet users**<br>
-_total_: 58.3 million (2021 est.)<br>
 _percent of population_: 53% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

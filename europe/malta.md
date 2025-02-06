@@ -355,7 +355,7 @@ _FAX_: [1] (202) 530-9753​<br>
 _email address and website_: <br>maltaembassy.washington@gov.mt<br><br>The Embassy (gov.mt)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Constance J. MILSTEIN (since October 27, 2022)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires Ken TOKO (since 20 January 2025)<br>
 _embassy_: Ta' Qali National Park, Attard, ATD 4000<br>
 _mailing address_: 5800 Valletta Place, Washington DC&nbsp; 20521-5800<br>
 _telephone_: [356] 2561-4000<br>
@@ -596,7 +596,6 @@ _international_: country code - 356; landing points for the Malta-Gozo Cable, VM
 .mt<br>
 
 **Internet users**<br>
-_total_: 461,100 (2021 est.)<br>
 _percent of population_: 87% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

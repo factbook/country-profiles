@@ -406,9 +406,9 @@ $1.717 trillion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$49,600 (2023 est.)<br>
-$50,700 (2022 est.)<br>
-$47,800 (2021 est.)<br>
+$55,100 (2023 est.)<br>
+$57,400 (2022 est.)<br>
+$55,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -450,11 +450,11 @@ milk, dates, chicken, wheat, tomatoes, potatoes, watermelons, olives, eggs, onio
 crude oil production, petroleum refining, basic petrochemicals, ammonia, industrial gases, sodium hydroxide (caustic soda), cement, fertilizer, plastics, metals, commercial ship repair, commercial aircraft repair, construction<br>
 
 **Industrial production growth rate**<br>
--1.51% (2023 est.)<br>
+-6.23% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-16.934 million (2023 est.)<br>
+15.553 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -602,7 +602,6 @@ broadcast media are state-controlled; state-run TV operates 4 networks; Saudi Ar
 .sa<br>
 
 **Internet users**<br>
-_total_: 36 million (2021 est.)<br>
 _percent of population_: 100% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

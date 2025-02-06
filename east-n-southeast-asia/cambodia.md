@@ -623,7 +623,6 @@ mixture of state-owned, joint public-private, and privately owned broadcast medi
 .kh<br>
 
 **Internet users**<br>
-_total_: 10.2 million (2021 est.)<br>
 _percent of population_: 60% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

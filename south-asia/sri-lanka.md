@@ -612,7 +612,6 @@ government operates 5 TV channels and 19 radio channels; multi-channel satellite
 .lk<br>
 
 **Internet users**<br>
-_total_: 14.74 million (2021 est.)<br>
 _percent of population_: 67% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

@@ -389,25 +389,25 @@ _selected World Heritage Site locales_: Caribbean Fortifications (c); Darien Nat
 upper middle-income Central American economy; increasing Chinese trade; US dollar user; canal expansion fueling broader infrastructure investment; services sector dominates economy; historic money-laundering and illegal drug hub<br>
 
 **Real GDP (purchasing power parity)**<br>
-$159.867 billion (2023 est.)<br>
-$148.968 billion (2022 est.)<br>
-$134.436 billion (2021 est.)<br>
+$159.908 billion (2023 est.)<br>
+$148.891 billion (2022 est.)<br>
+$134.415 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-7.32% (2023 est.)<br>
-10.81% (2022 est.)<br>
+7.4% (2023 est.)<br>
+10.77% (2022 est.)<br>
 15.84% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$35,800 (2023 est.)<br>
+$35,900 (2023 est.)<br>
 $33,800 (2022 est.)<br>
 $30,900 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$83.382 billion (2023 est.)<br>
+$83.318 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -423,18 +423,18 @@ _Standard & Poors rating_: BBB (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.4% (2023 est.)<br>
-_industry_: 27.1% (2023 est.)<br>
-_services_: 67.9% (2023 est.)<br>
+_agriculture_: 2.5% (2023 est.)<br>
+_industry_: 27.8% (2023 est.)<br>
+_services_: 67.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 46.1% (2022 est.)<br>
-_government consumption_: 12.8% (2022 est.)<br>
-_investment in fixed capital_: 29.5% (2022 est.)<br>
-_investment in inventories_: 11.7% (2022 est.)<br>
-_exports of goods and services_: 47.9% (2022 est.)<br>
-_imports of goods and services_: -48% (2022 est.)<br>
+_household consumption_: 46.7% (2023 est.)<br>
+_government consumption_: 12.2% (2023 est.)<br>
+_investment in fixed capital_: 32.3% (2023 est.)<br>
+_investment in inventories_: 5.5% (2023 est.)<br>
+_exports of goods and services_: 46.5% (2023 est.)<br>
+_imports of goods and services_: -43.1% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -445,11 +445,11 @@ sugarcane, bananas, rice, oranges, oil palm fruit, plantains, chicken, milk, pin
 construction, brewing, cement and other construction materials, sugar milling<br>
 
 **Industrial production growth rate**<br>
-13.06% (2023 est.)<br>
+12.82% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.096 million (2023 est.)<br>
+2.107 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -465,7 +465,7 @@ _female_: 22% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-21.5% (2019 est.)<br>
+21.8% (2021 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -482,7 +482,7 @@ _highest 10%_: 36.9% (2023 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.64% of GDP (2023 est.)<br>
+0.62% of GDP (2023 est.)<br>
 0.69% of GDP (2022 est.)<br>
 0.84% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -611,7 +611,6 @@ multiple privately owned TV networks and a government-owned educational TV stati
 .pa<br>
 
 **Internet users**<br>
-_total_: 2.992 million (2021 est.)<br>
 _percent of population_: 68% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

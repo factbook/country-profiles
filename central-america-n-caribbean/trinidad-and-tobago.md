@@ -572,7 +572,6 @@ _international_: country code - 1-868; landing points for the EC Link, ECFS, Sou
 .tt<br>
 
 **Internet users**<br>
-_total_: 1.185 million (2021 est.)<br>
 _percent of population_: 79% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

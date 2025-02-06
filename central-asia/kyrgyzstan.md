@@ -631,7 +631,6 @@ state-funded public TV broadcaster NTRK has nationwide coverage; also operates A
 .kg<br>
 
 **Internet users**<br>
-_total_: 5.07 million (2021 est.)<br>
 _percent of population_: 78% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

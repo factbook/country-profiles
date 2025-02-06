@@ -597,7 +597,6 @@ TV and radio broadcast licensing and access to local media markets are state con
 .qa<br>
 
 **Internet users**<br>
-_total_: 2.7 million (2021 est.)<br>
 _percent of population_: 100% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

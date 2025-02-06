@@ -620,7 +620,6 @@ state-funded national radio-TV broadcaster operates 2 terrestrial TV networks, 1
 .me<br>
 
 **Internet users**<br>
-_total_: 516,600 (2021 est.)<br>
 _percent of population_: 82% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

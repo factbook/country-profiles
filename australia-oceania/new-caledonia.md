@@ -494,7 +494,6 @@ the publicly owned French Overseas Network (RFO), which operates in France's ove
 .nc<br>
 
 **Internet users**<br>
-_total_: 237,800 (2021 est.)<br>
 _percent of population_: 82% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

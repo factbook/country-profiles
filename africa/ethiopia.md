@@ -661,7 +661,6 @@ _international_: country code - 251; open-wire to Sudan and Djibouti; microwave 
 .et<br>
 
 **Internet users**<br>
-_total_: 20.4 million (2021 est.)<br>
 _percent of population_: 17% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

@@ -606,7 +606,6 @@ _international_: country code - 224; ACE submarine cable connecting Guinea with 
 .gn<br>
 
 **Internet users**<br>
-_total_: 4.9 million (2021 est.)<br>
 _percent of population_: 35% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

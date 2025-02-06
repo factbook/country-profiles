@@ -315,7 +315,7 @@ presidential republic<br>
 _name_: Cairo<br>
 _geographic coordinates_: 30 03 N, 31 15 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-_daylight saving time_: +1hr, begins last Friday in April; ends last Thursday in October<br>
+_daylight saving time_: +1hr, begins last Friday in April; ends last Friday in October<br>
 _etymology_: from the Arabic "al-Qahira," meaning "the victorious"<br>
 
 **Administrative divisions**<br>
@@ -663,7 +663,6 @@ mix of state-run and private broadcast media; state-run TV operates 2 national a
 .eg<br>
 
 **Internet users**<br>
-_total_: 79.2 million (2021 est.)<br>
 _percent of population_: 72% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

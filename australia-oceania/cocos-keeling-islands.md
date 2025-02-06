@@ -126,7 +126,7 @@ _etymology_: the name refers to the abundant coconut trees on the islands and to
 non-self-governing overseas territory of Australia<br>
 
 **Dependency status**<br>
-non-self governing territory of Australia; administered from Canberra by the Department of Infrastructure, Transport, Cities &amp; Regional Development<br>
+non-self-governing territory of Australia; administered from Canberra by the Department of Infrastructure, Transport, Cities &amp; Regional Development<br>
 
 **Capital**<br>
 _name_: West Island<br>
@@ -237,7 +237,6 @@ _international_: international code - 61 8; telephone, telex, and facsimile comm
 .cc<br>
 
 **Internet users**<br>
-_total_: 80 (2021 est.)<br>
 _percent of population_: 13.4% (2021 est.)<br>
 
 ## Transportation

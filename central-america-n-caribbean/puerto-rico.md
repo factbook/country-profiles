@@ -412,7 +412,7 @@ pharmaceuticals, electronics, apparel, food products, tourism<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.154 million (2023 est.)<br>
+1.172 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -528,7 +528,6 @@ more than 30 TV stations operating; cable TV subscription services are available
 .pr<br>
 
 **Internet users**<br>
-_total_: 2,564,100 (2021 est.)<br>
 _percent of population_: 77.7% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

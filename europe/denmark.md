@@ -370,7 +370,7 @@ _email address and website_: <br>wasamb@um.dk<br><br>https://usa.um.dk/en<br>
 _consulate(s) general_: Chicago, Houston, New York, Silicon Valley (CA)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Alan LEVENTHAL (since 1 July 2022)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Jennifer Hall GODFREY (since January 2025)<br>
 _embassy_: Dag Hammarskjolds Alle 24, 2100 Kobenhavn 0<br>
 _mailing address_: 5280 Copenhagen Place, Washington DC&nbsp; 20521-5280<br>
 _telephone_: [45] 33-41-71-00<br>
@@ -624,7 +624,6 @@ strong public-sector TV presence with state-owned Danmarks Radio (DR) operating 
 .dk<br>
 
 **Internet users**<br>
-_total_: 5.841 million (2021 est.)<br>
 _percent of population_: 99% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

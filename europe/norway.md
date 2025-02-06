@@ -627,7 +627,6 @@ state-owned public radio-TV broadcaster operates 3 nationwide TV stations, 3 nat
 .no<br>
 
 **Internet users**<br>
-_total_: 5.346 million (2021 est.)<br>
 _percent of population_: 99% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

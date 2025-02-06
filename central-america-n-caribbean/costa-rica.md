@@ -362,7 +362,7 @@ _email address and website_: <br>embcr-us@rree.go.cr<br><br>http://www.costarica
 _consulate(s) general_: Atlanta, Houston, Los Angeles, Miami, New York, Washington DC<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Cynthia A. TELLES (since 11 March 2022)<br>
+_chief of mission_: Ambassador Michael (Mike) FLORES (since January 2025)<br>
 _embassy_: Calle 98 Via 104, Pavas, San Jose<br>
 _mailing address_: 3180 St. George's Place, Washington DC&nbsp; 20521-3180<br>
 _telephone_: [506] 2519-2000<br>
@@ -611,7 +611,6 @@ over two dozen privately owned TV stations and 1 publicly owned TV station natio
 .cr<br>
 
 **Internet users**<br>
-_total_: 4.316 million (2021 est.)<br>
 _percent of population_: 83% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

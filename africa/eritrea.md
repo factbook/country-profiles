@@ -546,7 +546,6 @@ government controls broadcast media with private ownership prohibited; 1 state-o
 .er<br>
 
 **Internet users**<br>
-_total_: 792,000 (2021 est.)<br>
 _percent of population_: 22% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

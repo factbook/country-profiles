@@ -573,7 +573,6 @@ _international_: country code - 248; landing points for the PEACE and the SEAS s
 .sc<br>
 
 **Internet users**<br>
-_total_: 90,200 (2021 est.)<br>
 _percent of population_: 82% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

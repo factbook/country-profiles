@@ -415,8 +415,8 @@ $5.769 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$1,000 (2023 est.)<br>
-$1,000 (2022 est.)<br>
+$1,100 (2023 est.)<br>
+$1,100 (2022 est.)<br>
 $1,100 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
@@ -457,7 +457,7 @@ gold and diamond mining, logging, brewing, sugar refining<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.114 million (2023 est.)<br>
+1.849 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -541,7 +541,7 @@ $432.524 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$552.586 million (2022 est.)<br>
+$776.149 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -604,7 +604,6 @@ government-owned network, Radiodiffusion Television Centrafricaine, provides lim
 .cf<br>
 
 **Internet users**<br>
-_total_: 605,000 (2021 est.)<br>
 _percent of population_: 11% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

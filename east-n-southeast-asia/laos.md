@@ -615,7 +615,6 @@ _international_: country code - 856; satellite earth station - 1 Intersputnik (I
 .la<br>
 
 **Internet users**<br>
-_total_: 4.588 million (2021 est.)<br>
 _percent of population_: 62% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

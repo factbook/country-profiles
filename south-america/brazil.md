@@ -404,7 +404,7 @@ _email address and website_: <br>contact.washington@itamaraty.gov.br <br><br>ht
 _consulate(s) general_: Atlanta, Boston, Chicago, Hartford (CT), Houston, Los Angeles, Miami, New York, Orlando, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Elizabeth Frawley BAGLEY (since 3 February 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Gabriel ESCOBAR (since 21 January 2025)<br>
 _embassy_: SES - Avenida das Na&ccedil;&otilde;es, Quadra 801, Lote 03, 70403-900 - Bras&iacute;lia, DF<br>
 _mailing address_: 7500 Brasilia Place, Washington DC&nbsp; 20521-7500<br>
 _telephone_: [55] (61) 3312-7000<br>
@@ -676,7 +676,6 @@ state-run Radiobras operates a radio and a TV network; more than 1,000 radio sta
 .br<br>
 
 **Internet users**<br>
-_total_: 170.1 million (2021 est.)<br>
 _percent of population_: 81% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

@@ -646,7 +646,6 @@ _international_: country code - 375; Belarus is landlocked and therefore a membe
 .by<br>
 
 **Internet users**<br>
-_total_: 8.352 million (2021 est.)<br>
 _percent of population_: 87% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

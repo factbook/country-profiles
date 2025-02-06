@@ -444,7 +444,6 @@ _general assessment_: Information, Communications, and Technology (ICT) is tied 
 _international_: <em>economic impact</em> - telecommunications has been and continues to be one of the world’s fastest growing markets; countries and firms are transitioning from analog to digital broadcasting, increasing automation capabilities and applications, adopting more high-definition technologies, and converting to digital channels<br><br>broadcasting typically refers to transmission of information to all devices in a network without any acknowledgment by the receivers; data-processing parts and accessories includes many supporting elements to broadcasting equipment, such as monitors, keyboards, printers, etc.<br>
 
 **Internet users**<br>
-_total_: 5.3 billion (2022 est.)<br>
 _percent of population_: 66% (2022 est.)<br>
 <strong>top ten countries by Internet usage (in millions):</strong> 854 China; 560 India; 293 United States; 171 Indonesia; 149 Brazil; 123 Nigeria; 119 Japan; 116 Russia; 96 Bangladesh; 88 Mexico (2023)<br>
 

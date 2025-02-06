@@ -386,7 +386,7 @@ _consulate(s) general_: Boston, Chicago, Houston, Los Angeles, Miami, New York, 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Michael GOLDMAN (since September 2024)<br>
 _embassy_: 1480 Sokak No. 1, Cukurambar Mahallesi, 06530 Cankaya, Ankara<br>
-_mailing address_: 7000 Ankara Place, Washington&nbsp; DC 20512-7000<br>
+_mailing address_: 7000 Ankara Place, Washington, DC 20512-7000<br>
 _telephone_: [90] (312) 294-0000<br>
 _FAX_: [90] (312) 467-0019<br>
 _email address and website_: <br>Ankara-ACS@state.gov<br><br>https://tr.usembassy.gov/<br>
@@ -411,7 +411,7 @@ _selected World Heritage Site locales_: <p>Archaeological Site of Troy (c); Ephe
 ## Economy
 
 **Economic overview**<br>
-upper middle-income, diversified Middle Eastern economy; heightened inflation and currency depreciation triggered by expansionary monetary and fiscal policy ahead of 2023 elections, now being reversed; industrializing economy that maintains large agricultural base<br>
+<p>upper-middle-income, diversified Middle Eastern economy; industrializing economy that maintains large agricultural base; key energy, tourism, and construction sectors; high inflation, interest rates, and foreign debt pose risk to financial stability</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $2.953 trillion (2023 est.)<br>
@@ -650,7 +650,6 @@ _international_: country code - 90; landing points for the SeaMeWe-3 &amp; -5, M
 .tr<br>
 
 **Internet users**<br>
-_total_: 68.85 million (2021 est.)<br>
 _percent of population_: 81% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

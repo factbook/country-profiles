@@ -634,7 +634,6 @@ _international_: country code - 216; landing points for the SEA-ME-WE-4, Didon, 
 .tn<br>
 
 **Internet users**<br>
-_total_: 9.48 million (2021 est.)<br>
 _percent of population_: 79% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

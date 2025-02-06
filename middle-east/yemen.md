@@ -609,7 +609,6 @@ state-run TV with 2 stations; state-run radio with 2 national radio stations and
 .ye<br>
 
 **Internet users**<br>
-_total_: 8,229,624 (2022 est.)<br>
 _percent of population_: 26.6% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

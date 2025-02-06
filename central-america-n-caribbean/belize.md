@@ -370,7 +370,7 @@ _email address and website_: <br>reception.usa@mfa.gov.bz<br><br>https://www.bel
 _consulate(s) general_: Chicago, Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Michelle KWAN (since 5 December 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires David HODGE (since January 2025)<br>
 _embassy_: 4 Floral Park Road, Belmopan, Cayo<br>
 _mailing address_: 3050 Belmopan Place, Washington DC&nbsp; 20521-3050<br>
 _telephone_: (501) 822-4011<br>
@@ -600,7 +600,6 @@ _international_: country code - 501; landing points for the&nbsp;ARCOS and SEUL&
 .bz<br>
 
 **Internet users**<br>
-_total_: 248,000 (2021 est.)<br>
 _percent of population_: 62% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

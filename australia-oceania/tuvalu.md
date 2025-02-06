@@ -355,9 +355,9 @@ _lyrics/music_: Afaese MANOA<br>
 upper middle-income Pacific island economy; extremely environmentally fragile; currency pegged to Australian dollar; large international aid recipient; subsistence agrarian sector; Te Kakeega sustainable development; domain name licensing incomes<br>
 
 **Real GDP (purchasing power parity)**<br>
-$59.202 million (2023 est.)<br>
-$57.006 million (2022 est.)<br>
-$56.622 million (2021 est.)<br>
+$57.054 million (2023 est.)<br>
+$54.938 million (2022 est.)<br>
+$54.568 million (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -367,9 +367,9 @@ $56.622 million (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$5,200 (2023 est.)<br>
-$5,000 (2022 est.)<br>
-$5,100 (2021 est.)<br>
+$5,800 (2023 est.)<br>
+$5,500 (2022 est.)<br>
+$5,400 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -406,7 +406,7 @@ _male_: 9.8%<br>
 _female_: 45.9%<br>
 
 **Remittances**<br>
-4.82% of GDP (2023 est.)<br>
+3.21% of GDP (2023 est.)<br>
 4.18% of GDP (2022 est.)<br>
 4.9% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -497,7 +497,6 @@ no TV stations; many households use satellite dishes to watch foreign TV station
 .tv<br>
 
 **Internet users**<br>
-_total_: 7,920 (2021 est.)<br>
 _percent of population_: 49% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

@@ -364,7 +364,7 @@ _email address and website_: <br>Embassy.Washington@mfa.ee<br><br>https://washin
 _consulate(s) general_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador George P. KENT (since 21 February 2023)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Matthew E. WALL (since January 2025)<br>
 _embassy_: Kentmanni 20, 15099 Tallinn<br>
 _mailing address_: 4530 Tallinn Place, Washington DC&nbsp; 20521-4530<br>
 _telephone_: [372] 668-8100<br>
@@ -615,7 +615,6 @@ the publicly owned broadcaster, Eesti Rahvusringhaaling (ERR), operates 3 TV cha
 .ee<br>
 
 **Internet users**<br>
-_total_: 1.183 million (2021 est.)<br>
 _percent of population_: 91% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

@@ -394,7 +394,7 @@ _selected World Heritage Site locales_: Monasteries of Haghpat and Sanahin; Mona
 ## Economy
 
 **Economic overview**<br>
-EEU-and CIS-member state but seeking more EU and US trade; business-friendly growth environments; stable monetary regime but vulnerable demand economy; key copper and gold exporter; persistent unemployment; large diaspora and remittances<br>
+<p>upper-middle income, fast-growing Caucasus economy; stable fiscal and monetary regime but vulnerable to geopolitical shocks; economic and energy ties to Russia but seeking more EU and US trade; key copper and gold exporter; business-friendly and anti-corruption reforms; persistent unemployment; influx of migrants from Ukraine war easing</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $57.516 billion (2023 est.)<br>
@@ -624,7 +624,6 @@ _international_: country code - 374; Yerevan is connected to the&nbsp;Caucasus C
 .am<br>
 
 **Internet users**<br>
-_total_: 2.212 million (2021 est.)<br>
 _percent of population_: 79% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

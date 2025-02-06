@@ -574,7 +574,6 @@ _international_: country code - 245; ACE submarine cable connecting Guinea-Bissa
 .gw<br>
 
 **Internet users**<br>
-_total_: 735,000 (2021 est.)<br>
 _percent of population_: 35% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

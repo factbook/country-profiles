@@ -651,7 +651,6 @@ nearly 70 federal government-controlled national and regional TV stations; all 3
 .ng<br>
 
 **Internet users**<br>
-_total_: 115.5 million (2021 est.)<br>
 _percent of population_: 55% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

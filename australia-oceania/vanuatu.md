@@ -570,7 +570,6 @@ _international_: country code - 678; landing points for the ICN1 &amp; ICN2 subm
 .vu<br>
 
 **Internet users**<br>
-_total_: 211,200 (2021 est.)<br>
 _percent of population_: 66% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

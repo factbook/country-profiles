@@ -401,7 +401,7 @@ _email address and website_: <br>eeeuu@mrecic.gov.ar<br><br>https://eeeuu.cancil
 _consulate(s) general_: Atlanta, Chicago, Houston, Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Marc Robert STANLEY (since 24 January 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Abigail L. DRESSEL (since 17 January 2025)<br>
 _embassy_: <br>Avenida Colombia 4300, (C1425GMN) Buenos Aires<br>
 _mailing address_: 3130 Buenos Aires Place, Washington DC&nbsp; 20521-3130<br>
 _telephone_: [54] (11) 5777-4533<br>
@@ -666,7 +666,6 @@ Argentina is one of South America's biggest media markets, there are dozens of T
 .ar<br>
 
 **Internet users**<br>
-_total_: 39.15 million (2021 est.)<br>
 _percent of population_: 87% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

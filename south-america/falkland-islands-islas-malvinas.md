@@ -179,7 +179,7 @@ overseas territory of the UK; also claimed by Argentina<br>
 **Capital**<br>
 _name_: Stanley<br>
 _geographic coordinates_: 51 42 S, 57 51 W<br>
-_time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
+_time difference_: UTC-3 (2 hour ahead of Washington, DC, during Standard Time)<br>
 _etymology_: named after Edward SMITH-STANLEY (1799-1869), the 14th Earl of Derby, a British statesman and three-time prime minister of the UK who never visited the islands<br>
 
 **Administrative divisions**<br>
@@ -361,7 +361,6 @@ TV service provided by a multi-channel service provider; radio services provided
 .fk<br>
 
 **Internet users**<br>
-_total_: 3,762 (2021 est.)<br>
 _percent of population_: 99% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

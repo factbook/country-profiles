@@ -305,10 +305,10 @@ _etymology_: name reflects the intense ivory trade that took place in the region
 presidential republic<br>
 
 **Capital**<br>
-_name_: Yamoussoukro (legislative capital), Abidjan (administrative capital); note - although Yamoussoukro has been the official capital since 1983, Abidjan remains the administrative capital as well as the officially designated economic capital; the US, like other countries, maintains its Embassy in Abidjan<br>
+_name_: Yamoussoukro (legislative capital), Abidjan (administrative and economic capital); note - the US Embassy is in Abidjan<br>
 _geographic coordinates_: 6 49 N, 5 16 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: Yamoussoukro is named after Queen YAMOUSSOU, who ruled in the village of N'Gokro in 1929 at the time of French colonization; the village was renamed Yamoussoukro, the suffix "-kro" meaning "town" in the native Baoule language; Abidjan's name supposedly comes from a misunderstanding; tradition states that an old man carrying branches met a European explorer who asked for the name of the nearest village; the man, not understanding and terrified by this unexpected encounter, fled shouting "min-chan m&rsquo;bidjan," which in the Ebrie language means: "I return from cutting leaves"; the explorer, thinking that his question had been answered, recorded the name of the locale as Abidjan; a different version has the first colonists asking native women the name of the place and getting a similar response<br>
+_etymology_: formerly a village named N'Gokro, Yamoussoukro is named after Queen YAMOUSSOU, who ruled during the early 20th century; Abidjan's name supposedly comes from a misunderstanding; tradition states that an old man carrying branches met a European explorer who asked for the name of the nearest village; the man, not understanding and terrified by this unexpected encounter, fled shouting "min-chan m&rsquo;bidjan," which in the Ebrie language means: "I return from cutting leaves"; the explorer, thinking that his question had been answered, recorded the name of the locale as Abidjan; a different version has the first colonists asking native women the name of the place and getting a similar response<br>
 
 **Administrative divisions**<br>
 12 districts and 2 autonomous districts*; Abidjan*, Bas-Sassandra, Comoe, Denguele, Goh-Djiboua, Lacs, Lagunes, Montagnes, Sassandra-Marahoue, Savanes, Vallee du Bandama, Woroba, Yamoussoukro*, Zanzan<br>
@@ -641,7 +641,6 @@ state-controlled Radiodiffusion Television Ivoirieinne (RTI) is made up of 2 rad
 .ci<br>
 
 **Internet users**<br>
-_total_: 12.15 million (2021 est.)<br>
 _percent of population_: 45% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

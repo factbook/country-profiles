@@ -599,7 +599,6 @@ except for the many organizations now operating in media free zones in Abu Dhabi
 .ae<br>
 
 **Internet users**<br>
-_total_: 9.4 million (2021 est.)<br>
 _percent of population_: 100% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

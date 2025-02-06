@@ -636,7 +636,6 @@ government controls all broadcast media exercising oversight through the Ministr
 .vn<br>
 
 **Internet users**<br>
-_total_: 71.78 million (2021 est.)<br>
 _percent of population_: 74% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

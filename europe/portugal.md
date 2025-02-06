@@ -619,7 +619,6 @@ Radio e Televisao de Portugal, the publicly owned TV broadcaster, operates 4 dom
 .pt<br>
 
 **Internet users**<br>
-_total_: 8.2 million (2021 est.)<br>
 _percent of population_: 82% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

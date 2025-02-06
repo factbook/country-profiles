@@ -627,7 +627,6 @@ _international_: country code - 260; multiple providers operate overland fiber o
 .zm<br>
 
 **Internet users**<br>
-_total_: 3.99 million (2021 est.)<br>
 _percent of population_: 21% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

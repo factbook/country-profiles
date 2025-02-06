@@ -583,7 +583,6 @@ government-dominated broadcast media; the National Communications Network (NCN) 
 .gy<br>
 
 **Internet users**<br>
-_total_: 680,000 (2021 est.)<br>
 _percent of population_: 85% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

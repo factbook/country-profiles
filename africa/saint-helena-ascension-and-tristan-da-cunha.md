@@ -369,7 +369,6 @@ Saint Helena has no local TV station; 2 local radio stations, one of which is re
 .sh; note - Ascension Island assigned .ac<br>
 
 **Internet users**<br>
-_total_: 2,287 (2021 est.)<br>
 _percent of population_: 37.6% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

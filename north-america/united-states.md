@@ -319,7 +319,7 @@ constitutional federal republic<br>
 _name_: Washington, DC<br>
 _geographic coordinates_: 38 53 N, 77 02 W<br>
 _time difference_: UTC-5 (during Standard Time)<br>
-_daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday in November<br>
+_daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday in November; note - no DST for Hawaii and most of Arizona<br>
 _time zone note_: the 50 United States cover six time zones<br>
 _etymology_: named after George WASHINGTON (1732-1799), the first president of the United States<br>
 
@@ -651,7 +651,6 @@ _international_: country code - 1; landing points for the Quintillion Subsea Cab
 .us<br>
 
 **Internet users**<br>
-_total_: 312.8 million (2021 est.)<br>
 _percent of population_: 92% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

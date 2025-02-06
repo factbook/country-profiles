@@ -650,7 +650,6 @@ state-run public TV operates 2 national channels supplemented by 16 regional cha
 .pl<br>
 
 **Internet users**<br>
-_total_: 32.3 million (2021 est.)<br>
 _percent of population_: 85% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

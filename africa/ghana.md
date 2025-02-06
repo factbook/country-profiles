@@ -629,7 +629,6 @@ state-owned TV station, 2 state-owned radio networks; several privately owned TV
 .gh<br>
 
 **Internet users**<br>
-_total_: 22.44 million (2021 est.)<br>
 _percent of population_: 68% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

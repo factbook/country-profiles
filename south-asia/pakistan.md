@@ -667,7 +667,6 @@ television is the most popular and dominant source of news in Pakistan with over
 .pk<br>
 
 **Internet users**<br>
-_total_: 48.3 million (2021 est.)<br>
 _percent of population_: 21% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

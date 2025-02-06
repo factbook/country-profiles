@@ -378,7 +378,7 @@ _email address and website_: <br>mission.washington@mofa.gov.bd<br><br>Embassy o
 _consulate(s) general_: Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Megan BOULDIN (since August 2024)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Ambassador Tracey Ann JACOBSEN (since 11 January 2025)<br>
 _embassy_: Madani Avenue, Baridhara, Dhaka - 1212<br>
 _mailing address_: 6120 Dhaka Place, Washington DC&nbsp; 20521-6120<br>
 _telephone_: [880] (2) 5566-2000<br>
@@ -637,7 +637,6 @@ state-owned Bangladesh Television (BTV) broadcasts throughout the country. Some 
 .bd<br>
 
 **Internet users**<br>
-_total_: 66.3 million (2021 est.)<br>
 _percent of population_: 39% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

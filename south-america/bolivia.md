@@ -653,7 +653,6 @@ large number of radio and TV stations broadcasting with private media outlets do
 .bo<br>
 
 **Internet users**<br>
-_total_: 7.92 million (2021 est.)<br>
 _percent of population_: 66% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

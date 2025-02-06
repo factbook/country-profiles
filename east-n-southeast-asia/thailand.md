@@ -662,7 +662,6 @@ _international_: country code - 66; landing points for the AAE-1, FEA, SeaMeWe-3
 .th<br>
 
 **Internet users**<br>
-_total_: 61.2 million (2021 est.)<br>
 _percent of population_: 85% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

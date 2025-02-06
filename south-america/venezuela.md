@@ -591,7 +591,6 @@ Venezuela has a mixture of state-run and private broadcast media that are subjec
 .ve<br>
 
 **Internet users**<br>
-_total_: 22,734,162 (2022 est.)<br>
 _percent of population_: 78.7% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

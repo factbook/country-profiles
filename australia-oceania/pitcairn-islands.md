@@ -238,7 +238,6 @@ satellite TV from Fiji-based Sky Pacific offering a wide range of international 
 .pn<br>
 
 **Internet users**<br>
-_total_: 37 (2021 est.)<br>
 _percent of population_: 96.2% (2021 est.)<br>
 
 **Communications - note**<br>

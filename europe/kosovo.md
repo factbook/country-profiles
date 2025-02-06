@@ -304,7 +304,7 @@ _consulate(s) general_: New York<br>
 _consulate(s)_: Des Moines (IA)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Jeffrey M. HOVENIER (since 10 January 2022)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires Anu PRATTIPATI (since January 2025)<br>
 _embassy_: Arberia/Dragodan, Rr.&nbsp; 4 KORRIKU Nr. 25, Pristina<br>
 _mailing address_: 9520 Pristina Place, Washington DC&nbsp; 20521-9520<br>
 _telephone_: [383] 38-59-59-3000<br>
@@ -529,7 +529,6 @@ _international_: country code - 383<br>
 &nbsp;<br>
 
 **Internet users**<br>
-_total_: 1,756,300 (2021 est.)<br>
 _percent of population_: 91% (2021 est.)<br>
 
 ## Transportation

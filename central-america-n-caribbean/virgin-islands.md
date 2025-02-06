@@ -440,7 +440,6 @@ about a dozen TV broadcast stations including 1 public TV station; multi-channel
 .vi<br>
 
 **Internet users**<br>
-_total_: 67,508 (2022 est.)<br>
 _percent of population_: 64.8% (2022 est.)<br>
 
 ## Transportation

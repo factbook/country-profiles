@@ -371,7 +371,7 @@ _email address and website_: <br>https://www.ireland.ie/en/usa/washington/<br>
 _consulate(s) general_: Atlanta, Austin (TX), Boston, Chicago, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Claire D. CRONIN (since 10 February 2022)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Michael CLAUSEN (since January 2025)<br>
 _embassy_: 42 Elgin Road, Ballsbridge, Dublin 4<br>
 _mailing address_: 5290 Dublin Place, Washington DC&nbsp; 20521-5290<br>
 _telephone_: [353] (1) 668-8777<br>
@@ -625,7 +625,6 @@ publicly owned broadcaster Radio Telefis Eireann (RTE) operates&nbsp;4 TV statio
 .ie<br>
 
 **Internet users**<br>
-_total_: 4.75 million (2021 est.)<br>
 _percent of population_: 95% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

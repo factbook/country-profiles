@@ -482,7 +482,6 @@ _international_: country code - 1-345; landing points for the Maya-1, Deep Blue 
 .ky<br>
 
 **Internet users**<br>
-_total_: 55,148 (2021 est.)<br>
 _percent of population_: 81.1% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

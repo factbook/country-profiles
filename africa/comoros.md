@@ -568,7 +568,6 @@ national state-owned TV station and a TV station run by Anjouan regional governm
 .km<br>
 
 **Internet users**<br>
-_total_: 221,400 (2021 est.)<br>
 _percent of population_: 27% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

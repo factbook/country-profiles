@@ -434,7 +434,6 @@ _international_: country code - 1-284; landing points for PCCS, ECFS, CBUS, Deep
 .vg<br>
 
 **Internet users**<br>
-_total_: 24,087 (2021 est.)<br>
 _percent of population_: 77.7% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

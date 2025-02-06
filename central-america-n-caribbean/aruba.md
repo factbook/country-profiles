@@ -492,7 +492,6 @@ _international_: country code - 297; landing&nbsp;points for the PAN-AM, PCCS, D
 .aw<br>
 
 **Internet users**<br>
-_total_: 106,800 (2021 est.)<br>
 _percent of population_: 97% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

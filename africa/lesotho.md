@@ -383,7 +383,7 @@ _FAX_: [1] (202) 234-6815<br>
 _email address and website_: <br>lesothoembassy@verizon.net<br><br>https://www.gov.ls/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge&rsquo; d&rsquo;Affaires Thomas HINES (since August 2024)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Thomas HINES (since August 2024)<br>
 _embassy_: 254 Kingsway Avenue, Maseru<br>
 _mailing address_: 2340 Maseru Place, Washington DC&nbsp; 20521-2340<br>
 _telephone_: [266] 22312666<br>
@@ -621,7 +621,6 @@ _international_: country code - 266; Internet accessibility has improved with se
 .ls<br>
 
 **Internet users**<br>
-_total_: 1.104 million (2021 est.)<br>
 _percent of population_: 48% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

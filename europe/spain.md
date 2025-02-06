@@ -656,7 +656,6 @@ _international_: country code - 34; landing points for the MAREA, Tata TGN-Weste
 .es<br>
 
 **Internet users**<br>
-_total_: 44.18 million (2021 est.)<br>
 _percent of population_: 94% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

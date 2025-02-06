@@ -485,7 +485,6 @@ French public overseas broadcaster Reseau Outre-Mer provides 2 TV channels and 1
 .pf<br>
 
 **Internet users**<br>
-_total_: 218,100 (2021 est.)<br>
 _percent of population_: 72.7% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

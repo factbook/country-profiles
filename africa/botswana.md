@@ -617,7 +617,6 @@ _international_: country code - 267; international calls are made via satellite,
 .bw<br>
 
 **Internet users**<br>
-_total_: 1.924 million (2021 est.)<br>
 _percent of population_: 74% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

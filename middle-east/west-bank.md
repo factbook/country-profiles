@@ -490,7 +490,6 @@ the Palestinian Authority operates 1 TV and 1 radio station; about 20 private TV
 .ps; note - IANA has designated .ps for the West Bank, same as Gaza Strip<br>
 
 **Internet users**<br>
-_total_: 3,938,199 (2021 est.)<br>
 _percent of population_: 80% (2021 est.)<br>
 <strong>note:</strong> includes the Gaza Strip<br>
 

@@ -616,7 +616,6 @@ multiple privately owned terrestrial TV networks, supplemented by multiple cable
 .hn<br>
 
 **Internet users**<br>
-_total_: 4.8 million (2021 est.)<br>
 _percent of population_: 48% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

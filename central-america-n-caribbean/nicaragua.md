@@ -398,9 +398,9 @@ $47.089 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$7,300 (2023 est.)<br>
-$7,000 (2022 est.)<br>
-$6,900 (2021 est.)<br>
+$7,500 (2023 est.)<br>
+$7,300 (2022 est.)<br>
+$7,100 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -446,7 +446,7 @@ food processing, chemicals, machinery and metal products, knit and woven apparel
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.264 million (2023 est.)<br>
+3.167 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -475,7 +475,7 @@ _highest 10%_: 37.2% (2014 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-26.18% of GDP (2023 est.)<br>
+26.15% of GDP (2023 est.)<br>
 20.62% of GDP (2022 est.)<br>
 15.2% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -534,7 +534,7 @@ $4.047 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$6.106 billion (2022 est.)<br>
+$7.251 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -599,7 +599,6 @@ multiple terrestrial TV stations, supplemented by cable TV in most urban areas; 
 .ni<br>
 
 **Internet users**<br>
-_total_: 3.933 million (2021 est.)<br>
 _percent of population_: 57% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

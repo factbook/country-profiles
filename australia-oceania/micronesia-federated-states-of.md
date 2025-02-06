@@ -352,9 +352,9 @@ _selected World Heritage Site locales_: Nan Madol: Ceremonial Center of Eastern 
 lower middle-income Pacific island economy; US aid reliance, sunsetting in 2024; low entrepreneurship; mostly fishing and farming; US dollar user; no patent laws; tourism remains underdeveloped; significant corruption<br>
 
 **Real GDP (purchasing power parity)**<br>
-$437.922 million (2023 est.)<br>
-$434.514 million (2022 est.)<br>
-$437.922 million (2021 est.)<br>
+$437.759 million (2023 est.)<br>
+$434.352 million (2022 est.)<br>
+$437.759 million (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -364,8 +364,8 @@ $437.922 million (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$3,800 (2023 est.)<br>
-$3,800 (2022 est.)<br>
+$3,900 (2023 est.)<br>
+$3,900 (2022 est.)<br>
 $3,900 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
@@ -504,7 +504,6 @@ no TV broadcast stations; each state has a multi-channel cable service with TV t
 .fm<br>
 
 **Internet users**<br>
-_total_: 44,000 (2021 est.)<br>
 _percent of population_: 40% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

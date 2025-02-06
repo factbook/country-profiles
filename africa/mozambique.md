@@ -342,8 +342,8 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Filipe Jacinto NYUSI (since 15 January 2015)<br>
-_head of government_: Prime Minister Adriano MALEIANE (since 3 March 2022)<br>
+_chief of state_: President Daniel Francisco CHAPO (since 15 January 2025)<br>
+_head of government_: Prime Minister Maria Benvinda Delfina LEVI (since 17 January 2025)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president elected directly by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for 2 consecutive terms); election last held on 15 October 2019 (next to be held on 9 October 2024); prime minister appointed by the president<br>
 _election results_: <em><br>2019</em>: Filipe NYUSI reelected president in first round; percent of vote - Filipe NYUSI (FRELIMO) 73.0%, Ossufo MOMADE (RENAMO) 21.9%, Daviz SIMANGO (MDM) 5.1%<br><br><em>2014</em>:  Filipe NYUSI elected president in first round; percent of vote - Filipe NYUSI (FRELIMO) 57.0%, Afonso DHLAKAMA (RENAMO) 36.6%, Daviz SIMANGO (MDM) 6.4%<br>
@@ -632,7 +632,6 @@ _international_: country code - 258; landing points for the EASSy and SEACOM/ Ta
 .mz<br>
 
 **Internet users**<br>
-_total_: 5.44 million (2021 est.)<br>
 _percent of population_: 17% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

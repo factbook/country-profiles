@@ -365,7 +365,7 @@ _consulate(s) general_: Boston, Chicago, Los Angeles, New York, Tampa (FL), San 
 _consulate(s)_: Atlanta, Houston<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador George James TSUNIS (since 10 May 2022)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Maria OLSON (since January 2025)<br>
 _embassy_: 91 Vasillisis Sophias Avenue, 10160 Athens<br>
 _mailing address_: 7100 Athens Place, Washington DC&nbsp; 20521-7100<br>
 _telephone_: [30] (210) 721-2951<br>
@@ -623,7 +623,6 @@ broadcast media dominated by the private sector; roughly 150 private TV channels
 .gr<br>
 
 **Internet users**<br>
-_total_: 7.8 million (2021 est.)<br>
 _percent of population_: 78% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

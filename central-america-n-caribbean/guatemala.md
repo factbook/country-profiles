@@ -626,7 +626,6 @@ _international_: country code - 502; landing points for&nbsp;the ARCOS, AMX-1, A
 .gt<br>
 
 **Internet users**<br>
-_total_: 9.18 million (2021 est.)<br>
 _percent of population_: 51% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

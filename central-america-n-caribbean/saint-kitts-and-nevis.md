@@ -362,25 +362,25 @@ _selected World Heritage Site locales_: Brimstone Hill Fortress National Park<br
 high-income, tourism-based Caribbean OECS economy; better debt balancing; CARICOM and ECCU member; growing offshore financial and telecommunications hub; environmentally fragile; unique citizenship-driven growth model<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.438 billion (2023 est.)<br>
+$1.422 billion (2023 est.)<br>
 $1.39 billion (2022 est.)<br>
 $1.258 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.43% (2023 est.)<br>
+2.28% (2023 est.)<br>
 10.52% (2022 est.)<br>
 0.48% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$30,100 (2023 est.)<br>
-$29,200 (2022 est.)<br>
-$26,400 (2021 est.)<br>
+$30,400 (2023 est.)<br>
+$29,800 (2022 est.)<br>
+$26,900 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.077 billion (2023 est.)<br>
+$1.055 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -391,8 +391,8 @@ $1.077 billion (2023 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.4% (2023 est.)<br>
-_industry_: 19.8% (2023 est.)<br>
-_services_: 64.9% (2023 est.)<br>
+_industry_: 20.2% (2023 est.)<br>
+_services_: 66.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -414,7 +414,7 @@ tourism, cotton, salt, copra, clothing, footwear, beverages<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Remittances**<br>
-3.48% of GDP (2023 est.)<br>
+3.46% of GDP (2023 est.)<br>
 3.83% of GDP (2022 est.)<br>
 4.32% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -526,7 +526,6 @@ the government operates a national TV network that broadcasts on 2 channels; cab
 .kn<br>
 
 **Internet users**<br>
-_total_: 37,920 (2021 est.)<br>
 _percent of population_: 79% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

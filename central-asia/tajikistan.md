@@ -631,7 +631,6 @@ state-run TV broadcasters transmit nationally on 9 TV and 10 radio stations, and
 .tj<br>
 
 **Internet users**<br>
-_total_: 3,009,054 (2022 est.)<br>
 _percent of population_: 30.4% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

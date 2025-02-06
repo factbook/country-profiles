@@ -308,8 +308,7 @@ presidential republic<br>
 **Capital**<br>
 _name_: Windhoek<br>
 _geographic coordinates_: 22 34 S, 17 05 E<br>
-_time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-_daylight saving time_: +1hr, begins first Sunday in September; ends first Sunday in April<br>
+_time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _etymology_: may derive from the Afrikaans word "wind-hoek" meaning "windy corner"<br>
 
 **Administrative divisions**<br>
@@ -633,7 +632,6 @@ _international_: country code - 264;&nbsp;landing points for the ACE and WACS&nb
 .na<br>
 
 **Internet users**<br>
-_total_: 1.325 million (2021 est.)<br>
 _percent of population_: 53% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

@@ -617,7 +617,6 @@ public service TV broadcaster Macedonian Radio and Television operates 5 nationa
 .mk<br>
 
 **Internet users**<br>
-_total_: 1.743 million (2021 est.)<br>
 _percent of population_: 83% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

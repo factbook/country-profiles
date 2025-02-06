@@ -634,7 +634,6 @@ _international_: country code - 595; Paraguay's landlocked position means they m
 .py<br>
 
 **Internet users**<br>
-_total_: 5.159 million (2021 est.)<br>
 _percent of population_: 77% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

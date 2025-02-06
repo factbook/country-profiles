@@ -353,7 +353,7 @@ _email address and website_: <br>washington@foreign.gov.bb<br><br>https://www.fo
 _consulate(s) general_: Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Roger F. NYHUS (since 19 January 2024) note - also accredited to Antigua and Barbuda, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Karin B. SULLIVAN (since January 2025) note - also accredited to Antigua and Barbuda, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines<br>
 _embassy_: Wildey Business Park, St. Michael BB 14006, Barbados, W.I.<br>
 _mailing address_: 3120 Bridgetown Place, Washington DC&nbsp; 20521-3120<br>
 _telephone_: (246) 227-4000<br>
@@ -582,7 +582,6 @@ government-owned Caribbean Broadcasting Corporation (CBC) operates the lone terr
 .bb<br>
 
 **Internet users**<br>
-_total_: 240,800 (2021 est.)<br>
 _percent of population_: 86% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

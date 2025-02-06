@@ -595,7 +595,6 @@ _international_: country code - 220; landing point for the ACE submarine cable t
 .gm<br>
 
 **Internet users**<br>
-_total_: 858,000 (2021 est.)<br>
 _percent of population_: 33% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

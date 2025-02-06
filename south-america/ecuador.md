@@ -630,7 +630,6 @@ _international_: country code - 593; landing points for the SPSC (Mistral Submar
 .ec<br>
 
 **Internet users**<br>
-_total_: 13.68 million (2021 est.)<br>
 _percent of population_: 76% (2021 est.)<br>
 according to 2021 statistics from Ecuador's Ministry of Telecommunications and Information Society, 50% of homes do not have access to fixed internet<br>
 

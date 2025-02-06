@@ -331,7 +331,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King PHILIPPE (since 21 July 2013)<br>
-_head of government_: Prime Minister Alexander DE CROO (since 1 October 2020)<br>
+_head of government_: Prime Minister Bart DE WEVER (since 3 February 2025)<br>
 _cabinet_: Council of Ministers formally appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary and constitutional; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch and approved by Parliament<br>
 <strong>note </strong>- Alexander DE CROO resigned on 9 June 2024 following the parliamentary elections and is serving as prime minister in a caretaker status until a new prime minister is sworn into office<br>
@@ -381,7 +381,7 @@ _email address and website_: <br>Washington@diplobel.fed.be<br><br>https://unite
 _consulate(s) general_: Atlanta, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Michael ADLER (since 15 March 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Tim RICHARDSON (since January 2025)<br>
 _embassy_: Regentlaan 27 Boulevard du Regent, B-1000 Brussels<br>
 _mailing address_: 7600 Brussels Place, Washington DC&nbsp; 20521-7600<br>
 _telephone_: [32] (2) 811-4000<br>
@@ -642,7 +642,6 @@ a segmented market with the three major communities (Flemish, French, and German
 .be<br>
 
 **Internet users**<br>
-_total_: 10.92 million (2021 est.)<br>
 _percent of population_: 91% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

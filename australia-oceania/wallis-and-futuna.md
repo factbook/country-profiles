@@ -357,7 +357,6 @@ the publicly owned French Overseas Network (RFO), which broadcasts to France's o
 .wf<br>
 
 **Internet users**<br>
-_total_: 5,496 (2021 est.)<br>
 _percent of population_: 45.8% (2021 est.)<br>
 
 ## Transportation

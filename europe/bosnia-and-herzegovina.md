@@ -621,7 +621,6 @@ _international_: country code - 387; no satellite earth stations<br>
 .ba<br>
 
 **Internet users**<br>
-_total_: 2.508 million (2021 est.)<br>
 _percent of population_: 76% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

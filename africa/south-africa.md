@@ -658,7 +658,6 @@ the South African Broadcasting Corporation (SABC) operates 6 free-to-air TV stat
 .za<br>
 
 **Internet users**<br>
-_total_: 42.48 million (2021 est.)<br>
 _percent of population_: 72% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

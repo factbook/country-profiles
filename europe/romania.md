@@ -656,7 +656,6 @@ a mixture of public and private TV stations; there are 7 public TV stations (2 n
 .ro<br>
 
 **Internet users**<br>
-_total_: 15.96 million (2021 est.)<br>
 _percent of population_: 84% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

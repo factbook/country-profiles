@@ -381,7 +381,7 @@ _email address and website_: <br>washington@scrdiraq.gov.iq<br><br>https://www.i
 _consulate(s) general_: Detroit, Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Elizabeth TRUDEAU (since 7 December 2024)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Daniel Rubinstein (since 28 January 2025)<br>
 _embassy_: Al-Kindi Street, International Zone, Baghdad; note - consulate in Al Basrah closed as of 28 September 2018<br>
 _mailing address_: 6060 Baghdad Place, Washington DC&nbsp; 20521-6060<br>
 _telephone_: 0760-030-3000<br>
@@ -421,9 +421,9 @@ $548.372 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$12,600 (2023 est.)<br>
-$13,300 (2022 est.)<br>
-$12,600 (2021 est.)<br>
+$12,700 (2023 est.)<br>
+$13,400 (2022 est.)<br>
+$12,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -431,9 +431,9 @@ $250.843 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.36% (2023 est.)<br>
 4.99% (2022 est.)<br>
 6.04% (2021 est.)<br>
-0.57% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -449,12 +449,12 @@ _services_: 42.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 40.3% (2021 est.)<br>
-_government consumption_: 17.7% (2021 est.)<br>
-_investment in fixed capital_: 10.1% (2021 est.)<br>
-_investment in inventories_: 11.3% (2021 est.)<br>
-_exports of goods and services_: 37.3% (2021 est.)<br>
-_imports of goods and services_: -24.2% (2021 est.)<br>
+_household consumption_: 31.8% (2022 est.)<br>
+_government consumption_: 15.7% (2022 est.)<br>
+_investment in fixed capital_: 9.7% (2022 est.)<br>
+_investment in inventories_: 12.6% (2022 est.)<br>
+_exports of goods and services_: 44.6% (2022 est.)<br>
+_imports of goods and services_: -24.3% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -469,7 +469,7 @@ petroleum, chemicals, textiles, leather, construction materials, food processing
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-11.812 million (2023 est.)<br>
+11.744 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -492,7 +492,7 @@ _on food_: 28.8% of household expenditures (2022 est.)<br>
 _on alcohol and tobacco_: 4.3% of household expenditures (2022 est.)<br>
 
 **Remittances**<br>
-0.35% of GDP (2023 est.)<br>
+0.46% of GDP (2023 est.)<br>
 0.38% of GDP (2022 est.)<br>
 0.4% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -511,15 +511,15 @@ _expenditures_: $64.512 billion (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$28.375 billion (2023 est.)<br>
 $58.01 billion (2022 est.)<br>
 $24.565 billion (2021 est.)<br>
--$6.306 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$107.852 billion (2023 est.)<br>
 $127.079 billion (2022 est.)<br>
 $78.261 billion (2021 est.)<br>
-$50.666 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -531,9 +531,9 @@ crude petroleum, refined petroleum, gold, petroleum coke, natural gas (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$81.179 billion (2023 est.)<br>
 $69.162 billion (2022 est.)<br>
 $50.707 billion (2021 est.)<br>
-$54.865 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -551,7 +551,7 @@ $64.231 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$15.065 billion (2022 est.)<br>
+$16.092 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -622,7 +622,6 @@ the number of private radio and TV stations has increased rapidly since 2003; go
 .iq<br>
 
 **Internet users**<br>
-_total_: 21.56 million (2021 est.)<br>
 _percent of population_: 49% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

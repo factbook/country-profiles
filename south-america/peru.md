@@ -654,7 +654,6 @@ _international_: country code - 51; landing points for the SAM-1, IGW, American 
 .pe<br>
 
 **Internet users**<br>
-_total_: 24.14 million (2021 est.)<br>
 _percent of population_: 71% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

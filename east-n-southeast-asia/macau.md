@@ -497,7 +497,6 @@ local government dominates broadcast media; 2 television stations operated by th
 .mo<br>
 
 **Internet users**<br>
-_total_: 607,200 (2021 est.)<br>
 _percent of population_: 88% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

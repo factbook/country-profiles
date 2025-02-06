@@ -625,7 +625,6 @@ The Tbilisi-based Georgian Public Broadcaster (GPB) includes Channel 1, Channel 
 .ge<br>
 
 **Internet users**<br>
-_total_: 2.888 million (2021 est.)<br>
 _percent of population_: 76% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

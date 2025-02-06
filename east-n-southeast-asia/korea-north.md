@@ -404,7 +404,7 @@ military products; machine building, electric power, chemicals; mining (coal, ir
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-15.837 million (2023 est.)<br>
+15.966 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>

@@ -556,7 +556,6 @@ The Bahamas has 4 major TV providers that provide service to all major islands i
 .bs<br>
 
 **Internet users**<br>
-_total_: 385,400 (2021 est.)<br>
 _percent of population_: 94% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

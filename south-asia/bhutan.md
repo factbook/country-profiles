@@ -577,7 +577,6 @@ state-owned TV station established in 1999; cable TV service offers dozens of In
 .bt<br>
 
 **Internet users**<br>
-_total_: 670,800 (2021 est.)<br>
 _percent of population_: 86% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

@@ -593,7 +593,6 @@ _international_: country code - 231; landing point for the ACE submarine cable&n
 .lr<br>
 
 **Internet users**<br>
-_total_: 1.768 million (2021 est.)<br>
 _percent of population_: 34% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

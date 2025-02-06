@@ -406,7 +406,7 @@ _selected World Heritage Site locales_: Kyiv: Saint Sophia Cathedral and Related
 ## Economy
 
 **Economic overview**<br>
-lower-middle-income, non-EU, Eastern European economy; key wheat and corn exporter; gradual recovery after 30% GDP contraction at start of war; damage to infrastructure and agriculture balanced by consumer and business resilience; international aid has stabilized foreign exchange reserves, allowing managed currency float; continued progress on anti-corruption reforms<br>
+<p>lower-middle-income, non-EU, Eastern European economy; key wheat and corn exporter; gradual recovery after 30% GDP contraction at start of war; damage to infrastructure and agriculture balanced by consumer and business resilience in western Ukraine; international aid has stabilized foreign exchange reserves, allowing managed currency float; continued progress on anti-corruption reforms</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $560.111 billion (2023 est.)<br>
@@ -648,7 +648,6 @@ Ukraine&rsquo;s media landscape is dominated by oligarch-owned news outlets, whi
 .ua<br>
 
 **Internet users**<br>
-_total_: 34,596,356 (2021 est.)<br>
 _percent of population_: 79% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

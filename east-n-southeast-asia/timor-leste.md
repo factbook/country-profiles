@@ -587,7 +587,6 @@ _international_: country code - 670; &nbsp;international service is available; p
 .tl<br>
 
 **Internet users**<br>
-_total_: 507,000 (2021 est.)<br>
 _percent of population_: 39% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

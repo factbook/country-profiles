@@ -402,7 +402,7 @@ _email address and website_: <br>hoc.washington@mea.gov.in<br><br>https://www.in
 _consulate(s) general_: Atlanta, Chicago, Houston, New York, San Francisco, Seattle<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Eric M. GARCETTI (since 11 May 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Jorgan K. ANDREWS (since January 2025)<br>
 _embassy_: Shantipath, Chanakyapuri, New Delhi - 110021<br>
 _mailing address_: 9000 New Delhi Place, Washington DC&nbsp; 20521-9000<br>
 _telephone_: [91] (11) 2419-8000<br>
@@ -669,7 +669,6 @@ Doordarshan, India's public TV network, has a monopoly on terrestrial broadcasti
 .in<br>
 
 **Internet users**<br>
-_total_: 644 million (2021 est.)<br>
 _percent of population_: 46% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

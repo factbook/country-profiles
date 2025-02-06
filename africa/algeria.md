@@ -619,7 +619,6 @@ Radio Algerienne is the state-run radio broadcast, whereas the National Company 
 .dz<br>
 
 **Internet users**<br>
-_total_: 31.24 million (2021 est.)<br>
 _percent of population_: 71% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

@@ -597,12 +597,11 @@ under the Taliban government, independent media outlets have decreased in number
 .af<br>
 
 **Internet users**<br>
-_total_: 7.02 million (2020 est.)<br>
 _percent of population_: 18% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 26,570 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.1 (2020 est.)<br>
+_total_: 33,200 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 0.08 (2023 est.)<br>
 
 ## Transportation
 

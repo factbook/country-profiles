@@ -634,7 +634,6 @@ a mix of 3 publicly operated TV stations and numerous privately owned TV station
 note - Aland Islands assigned .ax<br>
 
 **Internet users**<br>
-_total_: 5.115 million (2021 est.)<br>
 _percent of population_: 93% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

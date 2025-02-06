@@ -379,7 +379,7 @@ _consulate(s) general_: Chicago, Los Angeles, New York<br>
 _consulate(s)_: Houston, Miami<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador David PRESSMAN (since 14 September 2022)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires David HOLMES (since January 2025)<br>
 _embassy_: Szabadsag ter 12, H-1054 Budapest<br>
 _mailing address_: 5270 Budapest Place, US Department of State, Washington, DC 20521-5270<br>
 _telephone_: [36] (1) 475-4400<br>
@@ -640,7 +640,6 @@ mixed system of state-supported public service broadcast media and private broad
 .hu<br>
 
 **Internet users**<br>
-_total_: 8.633 million (2021 est.)<br>
 _percent of population_: 89% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

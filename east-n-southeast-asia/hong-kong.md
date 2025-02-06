@@ -547,7 +547,6 @@ _international_: country code - 852; landing points for the AAE-1, AAG, APCN-2, 
 .hk<br>
 
 **Internet users**<br>
-_total_: 6.975 million (2021 est.)<br>
 _percent of population_: 93% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

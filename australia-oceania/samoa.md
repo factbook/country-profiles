@@ -563,7 +563,6 @@ state-owned TV station privatized in 2008; 4 privately owned television broadcas
 .ws<br>
 
 **Internet users**<br>
-_total_: 171,600 (2021 est.)<br>
 _percent of population_: 78% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

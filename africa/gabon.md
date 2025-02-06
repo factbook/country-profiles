@@ -617,7 +617,6 @@ state owns and operates 2 TV stations and 2 radio broadcast stations; a few priv
 .ga<br>
 
 **Internet users**<br>
-_total_: 1.656 million (2021 est.)<br>
 _percent of population_: 72% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

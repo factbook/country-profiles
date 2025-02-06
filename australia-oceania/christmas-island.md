@@ -131,7 +131,7 @@ non-self-governing territory of Australia; administered from Canberra by the Dep
 _name_: The Settlement (Flying Fish Cove)<br>
 _geographic coordinates_: 10 25 S, 105 43 E<br>
 _time difference_: UTC+7 (12 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: self-descriptive name for the main locus of population<br>
+_etymology_: Flying Fish Cove was named after a British explorer's ship in 1886<br>
 
 **Administrative divisions**<br>
 none (territory of Australia)<br>
@@ -244,7 +244,6 @@ _international_: international code - 61 8; ASC submarine cable to Singapore and
 .cx<br>
 
 **Internet users**<br>
-_total_: 1,139 (2021 est.)<br>
 _percent of population_: 78.6% (2021 est.)<br>
 
 ## Transportation

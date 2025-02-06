@@ -588,7 +588,6 @@ state-owned Radiodiffusion-Television de Djibouti operates the sole terrestrial 
 .dj<br>
 
 **Internet users**<br>
-_total_: 759,000 (2021 est.)<br>
 _percent of population_: 69% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

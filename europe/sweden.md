@@ -632,7 +632,6 @@ publicly owned TV broadcaster operates 2 terrestrial networks plus regional stat
 .se<br>
 
 **Internet users**<br>
-_total_: 8.8 million (2021 est.)<br>
 _percent of population_: 88% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

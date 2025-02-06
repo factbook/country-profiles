@@ -260,7 +260,6 @@ the Vatican Television Center (CTV) transmits live broadcasts of the Pope's Sund
 .va<br>
 
 **Internet users**<br>
-_total_: 383 (2021 est.)<br>
 _percent of population_: 75% (2021 est.)<br>
 
 **Communications - note**<br>

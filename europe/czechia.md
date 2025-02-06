@@ -387,7 +387,7 @@ _email address and website_: <br>washington@embassy.mzv.cz<br><br>https://www.mz
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Bijan SABET (since 15 February 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Christy AGOR (since January 2025)<br>
 _embassy_: Trziste 15, 118 01 Praha 1 - Mala Strana<br>
 _mailing address_: 5630 Prague Place, Washington DC&nbsp; 20521-5630<br>
 _telephone_: [420] 257-022-000<br>
@@ -648,7 +648,6 @@ _international_: country code - 420; satellite earth stations - 6 (2 Intersputni
 .cz<br>
 
 **Internet users**<br>
-_total_: 9.13 million (2021 est.)<br>
 _percent of population_: 83% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

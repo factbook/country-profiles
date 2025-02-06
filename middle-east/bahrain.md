@@ -602,7 +602,6 @@ state-run Bahrain Radio and Television Corporation (BRTC) operates 6 terrestrial
 .bh<br>
 
 **Internet users**<br>
-_total_: 1.5 million (2021 est.)<br>
 _percent of population_: 100% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

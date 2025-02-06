@@ -358,7 +358,7 @@ Balad<br>Blue and White<br>Hadash<br>Jewish Power (Otzma Yehudit)<br>Labor Party
 BIS, BSEC (observer), CE (observer), CERN, CICA, EBRD, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OECD, OPCW (signatory), OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Michael HERZOG (since 1 December 2021)<br>
+_chief of mission_: Ambassador-designate Yechiel (Michael) LEITER (since 20 January 2025)<br>
 _chancery_: 3514 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 364-5500<br>
 _FAX_: [1] (202) 364-5607<br>
@@ -366,7 +366,7 @@ _email address and website_: <br>consular@washington.mfa.gov.il<br><br>https://e
 _consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Jacob J. LEW (since 5 November 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Stephanie L. HALLETT (since January 2025)<br>
 _embassy_: 14 David Flusser Street, Jerusalem, 9378322<br>
 _mailing address_: 6350 Jerusalem Place, Washington DC&nbsp; 20521-6350<br>
 _telephone_: [972] (2) 630-4000<br>
@@ -619,7 +619,6 @@ the Israel Broadcasting Corporation (est 2015) broadcasts on&nbsp;3 channels,&nb
 .il<br>
 
 **Internet users**<br>
-_total_: 8.01 million (2021 est.)<br>
 _percent of population_: 90% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

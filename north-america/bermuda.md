@@ -521,7 +521,6 @@ _international_: country code - 1-441; landing points for the GlobeNet, Gemini B
 .bm<br>
 
 **Internet users**<br>
-_total_: 64,000 (2021 est.)<br>
 _percent of population_: 100% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

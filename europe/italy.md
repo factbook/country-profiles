@@ -383,7 +383,7 @@ _consulate(s) general_: Boston, Chicago, Houston, Miami, New York, Los Angeles, 
 _consulate(s)_: Detroit<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Jack MARKELL (since September 2023); note - also accredited to San Marino<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Shawn CROWLEY (since January 2025); note - also accredited to San Marino<br>
 _embassy_: via Vittorio Veneto 121, 00187 Roma<br>
 _mailing address_: 9500 Rome Place, Washington DC&nbsp; 20521-9500<br>
 _telephone_: [39] 06-46741<br>
@@ -645,7 +645,6 @@ two Italian media giants dominate with 3 national terrestrial stations and priva
 .it<br>
 
 **Internet users**<br>
-_total_: 44.25 million (2021 est.)<br>
 _percent of population_: 75% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

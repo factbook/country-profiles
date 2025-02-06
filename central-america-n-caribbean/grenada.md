@@ -347,7 +347,7 @@ _email address and website_: <br>embassy@grenadaembassyusa.org<br><br>https://gr
 _consulate(s) general_: Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: the US does not have an official embassy in Grenada; the US Ambassador to Barbados, Ambassador Richard F. NYHUS, is accredited to Grenada<br>
+_chief of mission_: the US does not have an official embassy in Grenada; the Charg&eacute; d&rsquo;Affaires to Barbados, Karin B. SULLIVAN, is accredited to Grenada<br>
 _embassy_: Lance-aux-Epines, Saint George's<br>
 _mailing address_: 3180 Grenada Place, Washington DC&nbsp; 20521-3180<br>
 _telephone_: [1] (473) 444-1173<br>
@@ -564,7 +564,6 @@ multiple publicly and privately owned television and radio stations; Grenada Inf
 .gd<br>
 
 **Internet users**<br>
-_total_: 93,600 (2021 est.)<br>
 _percent of population_: 78% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

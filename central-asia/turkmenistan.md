@@ -601,7 +601,6 @@ broadcast media is government controlled and censored; 7 state-owned TV and 4 st
 .tm<br>
 
 **Internet users**<br>
-_total_: 1,563,023 (2022 est.)<br>
 _percent of population_: 25.3% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

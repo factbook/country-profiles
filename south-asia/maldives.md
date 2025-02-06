@@ -360,6 +360,7 @@ _chief of mission_: Ambassador Hugo Yue-Ho YON (since 6 September 2023); note - 
 _embassy_: 210 Galle Road, Colombo 03, Sri Lanka; note - as of early November 2023, the US has no consular or diplomatic offices in Maldives; the US Mission to Maldives operates from US Embassy Colombo, Sri Lanka<br>
 _telephone_: [94] (11) 249-8500<br>
 _FAX_: [94] (11) 243-7345<br>
+_email address and website_: <br>Homepage - U.S. Embassy in Maldives<br>
 
 **Flag description**<br>
 red with a large green rectangle in the center bearing a vertical white crescent moon; the closed side of the crescent is on the hoist side of the flag; red recalls those who have sacrificed their lives in defense of their country, the green rectangle represents peace and prosperity, and the white crescent signifies Islam<br>
@@ -582,7 +583,6 @@ state-owned radio and TV monopoly until recently;&nbsp;4 state-operated and 7 pr
 .mv<br>
 
 **Internet users**<br>
-_total_: 447,200 (2021 est.)<br>
 _percent of population_: 86% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

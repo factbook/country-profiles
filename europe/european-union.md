@@ -247,7 +247,7 @@ _FAX_: [1] (202) 429-1766<br>
 _email address and website_: <br>delegation-usa-info@eeas.europa.eu<br><br>Delegation of the European Union to the United States of America | EEAS (europa.eu)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Mark GITENSTEIN (since 24 January 2022)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Norman Thatcher SCHARPF (since 17 January 2025)<br>
 _embassy_: Zinnerstraat - 13 - Rue Zinner, B-1000 Brussels<br>
 _mailing address_: use embassy street address<br>
 _telephone_: [32] (2) 811-4100<br>
@@ -431,7 +431,6 @@ note - see individual country entries of member states<br>
 .eu; note - see country entries of member states for individual country codes<br>
 
 **Internet users**<br>
-_total_: 389,063,826 (2021 est.)<br>
 _percent of population_: 87% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

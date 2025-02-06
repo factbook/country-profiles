@@ -415,7 +415,7 @@ _consulate(s)_: Albuquerque (NM), Boise (ID), Brownsville (TX), Calexico (CA), D
 <strong> </strong><br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Ken SALAZAR (since 14 September 2021)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires Mark Coolidge JOHNSON (since January 2025)<br>
 _embassy_: Paseo de la Reforma 305, Colonia Cuauht&eacute;moc, 06500 Mexico, CDMX<br>
 _mailing address_: 8700 Mexico City Place, Washington DC&nbsp; 20521-8700<br>
 _telephone_: (011) [52]-55-5080-2000<br>
@@ -686,7 +686,6 @@ telecom reform in 2013 enabled the creation of new broadcast television channels
 .mx<br>
 
 **Internet users**<br>
-_total_: 98.8 million (2021 est.)<br>
 _percent of population_: 76% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

@@ -647,7 +647,6 @@ mixture of privately owned and state-run broadcast media; more than 100 commerci
 .uy<br>
 
 **Internet users**<br>
-_total_: 3.06 million (2021 est.)<br>
 _percent of population_: 90% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

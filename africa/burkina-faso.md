@@ -611,7 +611,6 @@ since the official inauguration of Terrestrial Digital Television (TNT) in Decem
 .bf<br>
 
 **Internet users**<br>
-_total_: 4.84 million (2021 est.)<br>
 _percent of population_: 22% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

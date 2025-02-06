@@ -496,7 +496,6 @@ the Greenland Broadcasting Company provides public radio and TV services through
 .gl<br>
 
 **Internet users**<br>
-_total_: 38,920 (2021 est.)<br>
 _percent of population_: 69.5% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

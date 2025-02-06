@@ -621,7 +621,6 @@ State-owned media dominate the media landscape, the many privately owned newspap
 .ao<br>
 
 **Internet users**<br>
-_total_: 11.55 million (2021 est.)<br>
 _percent of population_: 33% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

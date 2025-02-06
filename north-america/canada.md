@@ -318,7 +318,7 @@ _geographic coordinates_: 45 25 N, 75 42 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday in November<br>
 _time zone note_: Canada has six time zones<br>
-_etymology_: the city lies on the south bank of the Ottawa River, from which it derives its name; the river name comes from the Algonquin word "adawe" meaning "to trade" and refers to the indigenous peoples who used the river as a trade highway<br>
+_etymology_: the city lies on the south bank of the Ottawa River, from which it derives its name; the river name comes from the Algonquin word "adawe" meaning "to trade"&nbsp;<br>
 
 **Administrative divisions**<br>
 10 provinces and 3 territories*; Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories*, Nova Scotia, Nunavut*, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon*<br>
@@ -396,7 +396,7 @@ _consulate(s) general_: Atlanta, Boston, Chicago, Dallas, Denver, Detroit, Los A
 _trade office(s)_: Houston, Palo Alto (CA), San Diego; note - there are trade offices in the Consulates General<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador David L. COHEN (since December 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Marybeth TURNER (since January 2025)<br>
 _embassy_: 490 Sussex Drive, Ottawa, Ontario K1N 1G8<br>
 _mailing address_: 5480 Ottawa Place, Washington DC&nbsp; 20521-5480<br>
 _telephone_: [1] (613) 688-5335<br>
@@ -657,7 +657,6 @@ _international_: country code - 1; landing points for the Nunavut Undersea Fiber
 .ca<br>
 
 **Internet users**<br>
-_total_: 35.34 million (2021 est.)<br>
 _percent of population_: 93% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

@@ -618,7 +618,6 @@ state-controlled Radio Television Nationale de Burundi (RTNB) operates a TV stat
 .bi<br>
 
 **Internet users**<br>
-_total_: 754,000 (2021 est.)<br>
 _percent of population_: 5.8% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

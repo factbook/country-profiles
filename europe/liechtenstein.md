@@ -354,7 +354,7 @@ high-income European economy; Schengen Area participant; key European financial 
 $4.978 billion (2014 est.)<br>
 
 **GDP (official exchange rate)**<br>
-$7.365 billion (2022 est.)<br>
+$7.362 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -439,7 +439,6 @@ relies on foreign terrestrial and satellite broadcasters for most broadcast medi
 .li<br>
 
 **Internet users**<br>
-_total_: 37,440 (2021 est.)<br>
 _percent of population_: 96% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

@@ -378,7 +378,7 @@ _email address and website_: <br>ukin.washington@fcdo.gov.uk<br><br>https://www.
 _consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Jane HARTLEY (since 19 July 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Matthew PALMER (since January 2025)<br>
 _embassy_: 33 Nine Elms Lane, London, SW11 7US<br>
 _mailing address_: 8400 London Place, Washington DC&nbsp; 20521-8400<br>
 _telephone_: [44] (0) 20-7499-9000<br>
@@ -404,7 +404,7 @@ _selected World Heritage Site locales_: Giant's Causeway and Causeway Coast (n);
 ## Economy
 
 **Economic overview**<br>
-high-income, diversified, non-EU European economy; global financial center and dominant service sector; sluggish growth from stringent monetary policy, reduced business investment, low productivity and participation rates, and post-Brexit trade frictions; fiscal austerity in face of high public debt&nbsp;<br>
+<p>high-income, non-EU European economy; global financial center and dominant service sector; sluggish growth from stringent monetary policy, reduced business investment, low productivity and participation rates; fiscal austerity in face of high public debt </p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $3.728 trillion (2023 est.)<br>
@@ -645,7 +645,6 @@ public service broadcaster, British Broadcasting Corporation (BBC), is the large
 .uk<br>
 
 **Internet users**<br>
-_total_: 64.99 million (2021 est.)<br>
 _percent of population_: 97% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

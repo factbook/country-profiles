@@ -602,7 +602,6 @@ Following the establishment of Sudan&rsquo;s transitional government in August 2
 .sd<br>
 
 **Internet users**<br>
-_total_: 13.248 million (2021 est.)<br>
 _percent of population_: 28.8% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

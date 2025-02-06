@@ -428,7 +428,6 @@ _international_: country code - 1-684; landing points for the ASH, Southern Cros
 .as<br>
 
 **Internet users**<br>
-_total_: 18,135 (2021 est.)<br>
 _percent of population_: 40.3% (2021 est.)<br>
 
 ## Transportation

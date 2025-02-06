@@ -395,7 +395,7 @@ _email address and website_: <br>eestadosunidos@cancilleria.gov.co<br><br>https:
 _consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, Newark (NJ), Orlando, San Francisco, San Juan (Puerto Rico)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Francisco L. PALMIERI (since 1 June 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires John McNAMARA (since 1 February 2025)<br>
 _embassy_: Carrera 45, No. 24B-27, Bogota<br>
 _mailing address_: 3030 Bogota Place, Washington DC&nbsp; 20521-3030<br>
 _telephone_: [57] (601) 275-2000<br>
@@ -655,7 +655,6 @@ combination of state-owned and privately owned broadcast media provide service; 
 .co<br>
 
 **Internet users**<br>
-_total_: 37.96 million (2021 est.)<br>
 _percent of population_: 73% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

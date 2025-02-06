@@ -615,7 +615,6 @@ state-owned national radio-TV broadcaster operates 1 TV and 1 radio station; a t
 .md<br>
 
 **Internet users**<br>
-_total_: 1.891 million (2021 est.)<br>
 _percent of population_: 61% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

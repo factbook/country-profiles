@@ -382,9 +382,9 @@ $2.376 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$28,700 (2023 est.)<br>
-$27,800 (2022 est.)<br>
-$25,500 (2021 est.)<br>
+$29,000 (2023 est.)<br>
+$28,000 (2022 est.)<br>
+$25,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -427,7 +427,7 @@ tourism, construction, light manufacturing (clothing, alcohol, household applian
 11% (2014 est.)<br>
 
 **Remittances**<br>
-2.43% of GDP (2023 est.)<br>
+1.72% of GDP (2023 est.)<br>
 1.86% of GDP (2022 est.)<br>
 2.83% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -537,7 +537,6 @@ state-controlled Antigua and Barbuda Broadcasting Service (ABS) operates 1 TV st
 .ag<br>
 
 **Internet users**<br>
-_total_: 89,280 (2021 est.)<br>
 _percent of population_: 96% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

@@ -452,7 +452,7 @@ electronics, chemicals, financial services, oil drilling equipment, petroleum re
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.619 million (2023 est.)<br>
+3.615 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -604,7 +604,6 @@ state controls broadcast media;&nbsp;6 domestic TV stations operated by MediaCor
 .sg<br>
 
 **Internet users**<br>
-_total_: 5.369 million (2021 est.)<br>
 _percent of population_: 91% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

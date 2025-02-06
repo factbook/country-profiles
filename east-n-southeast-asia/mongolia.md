@@ -621,7 +621,6 @@ following a law passed in 2005, Mongolia's state-run radio and TV provider conve
 .mn<br>
 
 **Internet users**<br>
-_total_: 2.772 million (2021 est.)<br>
 _percent of population_: 84% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

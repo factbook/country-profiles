@@ -635,7 +635,6 @@ state-run TV station; 3 private TV stations provide a mix of local and foreign p
 .ne<br>
 
 **Internet users**<br>
-_total_: 5.5 million (2021 est.)<br>
 _percent of population_: 22% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

@@ -517,7 +517,6 @@ _international_: country code - 886; landing points for the EAC-C2C,&nbsp;APCN-2
 .tw<br>
 
 **Internet users**<br>
-_total_: 21.6 million (2021 est.)<br>
 _percent of population_: 90% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

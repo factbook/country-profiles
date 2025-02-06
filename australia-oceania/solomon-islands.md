@@ -561,7 +561,6 @@ Solomon Islands Broadcasting Corporation (SIBC) does not broadcast television; m
 .sb<br>
 
 **Internet users**<br>
-_total_: 255,600 (2021 est.)<br>
 _percent of population_: 36% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

@@ -418,7 +418,7 @@ _selected World Heritage Site locales_: <p>Museumsinsel (Museum Island), Berlin 
 ## Economy
 
 **Economic overview**<br>
-leading diversified, export-driven, core EU and eurozone economy; key automotive, chemical, engineering, finance, and green energy industries; growth stalled by energy crisis; tight labor market with falling working-age population; fiscal rebalancing with phaseout of energy price supports<br>
+<p>leading export-driven, core EU and eurozone economy; key automotive, chemical, engineering, finance, and green energy industries; growth stalled by energy crisis and declining exports; tight labor market with falling working-age population; fiscal rebalancing with phaseout of energy price supports</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $5.295 trillion (2023 est.)<br>
@@ -653,7 +653,6 @@ a mixture of publicly operated and privately owned TV and radio stations; 70 nat
 .de<br>
 
 **Internet users**<br>
-_total_: 75.53 million (2021 est.)<br>
 _percent of population_: 91% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

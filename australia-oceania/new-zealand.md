@@ -608,7 +608,6 @@ state-owned Television New Zealand operates multiple TV networks and state-owned
 .nz<br>
 
 **Internet users**<br>
-_total_: 4.896 million (2021 est.)<br>
 _percent of population_: 96% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

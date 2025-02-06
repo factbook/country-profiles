@@ -315,9 +315,9 @@ federal parliamentary democracy&nbsp;under a constitutional monarchy; a Commonwe
 **Capital**<br>
 _name_: Canberra<br>
 _geographic coordinates_: 35 16 S, 149 08 E<br>
-_time difference_: UTC+10 (14 hours ahead of Washington, DC, during Standard Time)<br>
+_time difference_: UTC+11 (16 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins first Sunday in October; ends first Sunday in April<br>
-_time zone note_: Australia has four time zones, including Lord Howe Island (UTC+10:30)<br>
+_time zone note_: Australia has six time zones, including Lord Howe Island (UTC+11)<br>
 _etymology_: the name is claimed to derive from either Kambera or Camberry, which are names corrupted from the original native designation for the area "Nganbra" or "Nganbira"<br>
 
 **Administrative divisions**<br>
@@ -404,7 +404,7 @@ _email address and website_: <br>info.us@dfat.gov.au<br><br>https://usa.embassy.
 _consulate(s) general_: Chicago, Honolulu, Houston, Los Angeles, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Caroline KENNEDY (since 25 July 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Erika OLSON (since January 2025)<br>
 _embassy_: Moonah Place, Yarralumla, Australian Capital Territory 2600<br>
 _mailing address_: 7800 Canberra Place, Washington DC&nbsp; 20512-7800<br>
 _telephone_: [61] (02) 6214-5600<br>
@@ -658,7 +658,6 @@ _international_: country code - 61; landing points for&nbsp;more than&nbsp;20 su
 .au<br>
 
 **Internet users**<br>
-_total_: 24.96 million (2021 est.)<br>
 _percent of population_: 96% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

@@ -641,7 +641,6 @@ about a half-dozen large-scale privately owned media companies with TV and radio
 .ke<br>
 
 **Internet users**<br>
-_total_: 15.37 million (2021 est.)<br>
 _percent of population_: 29% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

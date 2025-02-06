@@ -603,7 +603,6 @@ _international_: country code - 268; satellite earth station - 1 Intelsat (Atlan
 .sz<br>
 
 **Internet users**<br>
-_total_: 708,000 (2021 est.)<br>
 _percent of population_: 59% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

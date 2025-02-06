@@ -412,7 +412,7 @@ _email address and website_: <br>washingtonembmorocco@maec.gov.ma<br><br>Embassy
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Puneet TALWAR (since 4 October 2023)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires Aimee CUTRONA (since January 2025)<br>
 _embassy_: Km 5.7 Avenue Mohammed VI, Souissi, Rabat 10170<br>
 _mailing address_: 9400 Rabat Place, Washington DC&nbsp; 20521-9400<br>
 _telephone_: [212] 0537-637-200<br>
@@ -657,7 +657,6 @@ _international_: country code - 212; landing point for the Atlas Offshore, Estep
 .ma<br>
 
 **Internet users**<br>
-_total_: 32.56 million (2021 est.)<br>
 _percent of population_: 88% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

@@ -376,7 +376,7 @@ _consulate(s) general_: Chicago, Los Angeles, New York, Seattle (WA)<br>
 _consulate(s)_: Anchorage (AL), Houston, Kansas City (MO),Minneapolis/St. Paul (MN), New Orleans, Pittsburgh (PA)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Nathalie RAYES (since 25 January 2024)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Trey LYONS (since January 2025)<br>
 _embassy_: Ulica Thomasa Jeffersona 2, 10010 Zagreb<br>
 _mailing address_: 5080 Zagreb Place, Washington DC&nbsp; 20521-5080<br>
 _telephone_: [385] (1) 661-2200<br>
@@ -633,7 +633,6 @@ the national state-owned public broadcaster, Croatian Radiotelevision, operates 
 .hr<br>
 
 **Internet users**<br>
-_total_: 3.321 million (2021 est.)<br>
 _percent of population_: 81% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

@@ -459,7 +459,6 @@ _international_: country code 970 or 972 (2018)<br>
 .ps; <strong>note</strong> - IANA has designated .ps for the Gaza Strip, same as the West Bank<br>
 
 **Internet users**<br>
-_total_: 3,602,452 (2020 est.)<br>
 _percent of population_: 75% (2020 est.)<br>
 <strong>note:</strong> includes the West Bank<br>
 

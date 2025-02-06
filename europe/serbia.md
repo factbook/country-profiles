@@ -639,7 +639,6 @@ _international_: country code - 381<br>
 .rs<br>
 
 **Internet users**<br>
-_total_: 5.589 million (2021 est.)<br>
 _percent of population_: 81% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

@@ -335,7 +335,6 @@ _international_: country code - 683; landing point for the Manatua submarine cab
 .nu<br>
 
 **Internet users**<br>
-_total_: 1,512 (2021 est.)<br>
 _percent of population_: 79.6% (2021 est.)<br>
 
 ## Transportation

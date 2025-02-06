@@ -626,7 +626,6 @@ Albania has more than 65 TV stations, including several that broadcast nationall
 .al<br>
 
 **Internet users**<br>
-_total_: 2.291 million (2021 est.)<br>
 _percent of population_: 79% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

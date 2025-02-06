@@ -371,7 +371,7 @@ _email address and website_: <br>azerbaijan@azembassy.us<br><br>https://washingt
 _consulate(s) general_: Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Mark LIBBY (since 18 January 2024)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires Hugo GUEVAR (since January 2025)<br>
 _embassy_: 111 Azadlig Avenue, AZ1007 Baku<br>
 _mailing address_: 7050 Baku Place, Washington, DC 20521-7050<br>
 _telephone_: [994] (12) 488-3300<br>
@@ -396,7 +396,7 @@ _selected World Heritage Site locales_: Walled City of Baku; Gobustan Rock Art C
 ## Economy
 
 **Economic overview**<br>
-oil-based economy; macroeconomic instabilities due to demand shocks; recent state bailout of largest lender; potential economic gains from Nagorno-Karabakh conflict; negatively impacted by COVID-19; investing in human capital to diversify and retain younger generation<br>
+<p>upper-middle income, oil-dependent Caucasus economy; minimal economic diversification and dominance of state-owned enterprises; growth and fiscal consolidation supported by oil revenues, but risks remain from demand shocks; potential economic gains from Nagorno-Karabakh ceasefire; education investments to diversify and retain human capital</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $215.896 billion (2023 est.)<br>
@@ -459,7 +459,7 @@ petroleum and petroleum products, natural gas, oilfield equipment; steel, iron o
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.473 million (2023 est.)<br>
+5.537 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -482,7 +482,7 @@ _on food_: 42.4% of household expenditures (2022 est.)<br>
 _on alcohol and tobacco_: 2% of household expenditures (2022 est.)<br>
 
 **Remittances**<br>
-3.87% of GDP (2023 est.)<br>
+2.64% of GDP (2023 est.)<br>
 5.01% of GDP (2022 est.)<br>
 2.78% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -497,7 +497,7 @@ _expenditures_: $14.882 billion (2021 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-13.42% (of GDP) (2021 est.)<br>
+15.45% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -541,7 +541,7 @@ $8.29 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$12.319 billion (2022 est.)<br>
+$12.574 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -618,7 +618,6 @@ _international_: country code - 994; Azerbaijan’s largest mobile network opera
 .az<br>
 
 **Internet users**<br>
-_total_: 8.6 million (2021 est.)<br>
 _percent of population_: 86% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

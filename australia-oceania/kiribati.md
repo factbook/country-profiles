@@ -552,7 +552,6 @@ multi-channel TV packages provide access to Australian and US stations; 1 govern
 .ki<br>
 
 **Internet users**<br>
-_total_: 70,200 (2021 est.)<br>
 _percent of population_: 54% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

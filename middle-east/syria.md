@@ -587,7 +587,6 @@ state-run TV and radio broadcast networks;&nbsp;state operates 2 TV networks and
 .sy<br>
 
 **Internet users**<br>
-_total_: 8,492,468 (2022 est.)<br>
 _percent of population_: 46.6% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

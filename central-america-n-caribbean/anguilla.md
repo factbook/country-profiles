@@ -402,7 +402,6 @@ _international_: country code - 1-264; landing points for the&nbsp;SSCS, ECFS, G
 .ai<br>
 
 **Internet users**<br>
-_total_: 13,056 (2021 est.)<br>
 _percent of population_: 81.6% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

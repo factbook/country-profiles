@@ -602,7 +602,6 @@ _international_: country code - 968;&nbsp;landing points for GSA, AAE-1,&nbsp;Se
 .om<br>
 
 **Internet users**<br>
-_total_: 4.32 million (2021 est.)<br>
 _percent of population_: 96% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

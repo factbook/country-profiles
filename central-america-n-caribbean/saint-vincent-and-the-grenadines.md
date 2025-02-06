@@ -548,7 +548,6 @@ St. Vincent and the Grenadines Broadcasting Corporation operates 1 TV station an
 .vc<br>
 
 **Internet users**<br>
-_total_: 85,000 (2021 est.)<br>
 _percent of population_: 85% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

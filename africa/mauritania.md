@@ -621,7 +621,6 @@ _international_: country code - 222; landing point for the ACE submarine cable f
 .mr<br>
 
 **Internet users**<br>
-_total_: 2.714 million (2021 est.)<br>
 _percent of population_: 59% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

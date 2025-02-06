@@ -244,6 +244,7 @@ overseas territory of the UK<br>
 _name_: Grand Turk (Cockburn Town)<br>
 _geographic coordinates_: 21 28 N, 71 08 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
+_daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday in November<br>
 _etymology_: named after Sir Francis COCKBURN, who served as governor of the Bahamas from 1837 to 1844<br>
 
 **Administrative divisions**<br>
@@ -461,7 +462,6 @@ no local terrestrial TV stations, broadcasts from the Bahamas can be received an
 .tc<br>
 
 **Internet users**<br>
-_total_: 37,008 (2022)<br>
 _percent of population_: 93.5% (2022)<br>
 
 ## Transportation

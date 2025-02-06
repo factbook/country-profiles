@@ -364,12 +364,12 @@ _email address and website_: <br>washington.amb@mae.etat.lu<br><br>https://washi
 _consulate(s) general_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Thomas M. BARRETT (since 10 February 2022)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires Michael KONSTANTINO (since 19 January 2025)<br>
 _embassy_: 22 Boulevard Emmanuel Servais, L-2535 Luxembourg City<br>
 _mailing address_: 5380 Luxembourg Place, Washington DC&nbsp; 20521-5380<br>
 _telephone_: [352] 46-01-23-00<br>
 _FAX_: [352] 46-14-01<br>
-_email address and website_: Luxembourgconsular@state.gov<br>https://lu.usembassy.gov/<br>
+_email address and website_: <br>Luxembourgconsular@state.gov<br><br>https://lu.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and light blue; similar to the flag of the Netherlands, which uses a darker blue and is shorter; the coloring is derived from the Grand Duke's coat of arms (a red lion on a white and blue striped field)<br>
@@ -404,7 +404,7 @@ $88.295 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$132,400 (2023 est.)<br>
+$132,800 (2023 est.)<br>
 $137,100 (2022 est.)<br>
 $137,900 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
@@ -448,11 +448,11 @@ milk, wheat, barley, triticale, potatoes, pork, grapes, beef, oats, rapeseed (20
 banking and financial services, construction, real estate services, iron, metals, and steel, information technology, telecommunications, cargo transportation and logistics, chemicals, engineering, tires, glass, aluminum, tourism, biotechnology<br>
 
 **Industrial production growth rate**<br>
-0.49% (2023 est.)<br>
+0.48% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-352,000 (2023 est.)<br>
+350,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -477,13 +477,13 @@ _female_: 22.9% (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8% (2021 est.)<br>
-_highest 10%_: 24.6% (2021 est.)<br>
+_highest 10%_: 24.5% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.72% of GDP (2023 est.)<br>
+2.85% of GDP (2023 est.)<br>
 2.72% of GDP (2022 est.)<br>
-2.83% of GDP (2021 est.)<br>
+2.85% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -500,15 +500,15 @@ _expenditures_: $33.054 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$5.826 billion (2023 est.)<br>
-$6.168 billion (2022 est.)<br>
-$6.819 billion (2021 est.)<br>
+$5.132 billion (2023 est.)<br>
+$5.431 billion (2022 est.)<br>
+$9.558 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$176.133 billion (2023 est.)<br>
-$172.145 billion (2022 est.)<br>
-$184.932 billion (2021 est.)<br>
+$176.717 billion (2023 est.)<br>
+$172.318 billion (2022 est.)<br>
+$187.022 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -520,9 +520,9 @@ iron blocks, plastic products, rubber tires, plastics, gas turbines (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$146.807 billion (2023 est.)<br>
-$141.761 billion (2022 est.)<br>
-$152.01 billion (2021 est.)<br>
+$148.717 billion (2023 est.)<br>
+$143.55 billion (2022 est.)<br>
+$151.729 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -609,7 +609,6 @@ Luxembourg has a long tradition of operating radio and TV services for pan-Europ
 .lu<br>
 
 **Internet users**<br>
-_total_: 633,600 (2021 est.)<br>
 _percent of population_: 99% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

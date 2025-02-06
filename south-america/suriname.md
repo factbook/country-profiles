@@ -589,7 +589,6 @@ _international_: country code - 597; landing point for the SG-SCS submarine cabl
 .sr<br>
 
 **Internet users**<br>
-_total_: 402,600 (2021 est.)<br>
 _percent of population_: 66% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

@@ -591,7 +591,6 @@ Fiji TV, a publicly traded company, operates a free-to-air channel; Digicel Fiji
 .fj<br>
 
 **Internet users**<br>
-_total_: 809,600 (2021 est.)<br>
 _percent of population_: 88% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

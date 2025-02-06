@@ -364,7 +364,7 @@ _email address and website_: <br>generalusa@mofa.go.kr<br><br>https://overseas.m
 _consulate(s) general_: Anchorage (AK), Atlanta, Boston, Chicago, Dallas, Hagatna (Guam), Honolulu, Houston, Los Angeles, New York, San Francisco, Seattle, Philadelphia<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Philip S. GOLDBERG (since 29 July 2022)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires Ambassador Joseph (Joe) YUN (since January 2025)<br>
 _embassy_: 188 Sejong-daero, Jongno-gu, Seoul<br>
 _mailing address_: 9600 Seoul Place, Washington, DC&nbsp; 20521-9600<br>
 _telephone_: [82] (2) 397-4114<br>
@@ -626,7 +626,6 @@ multiple national TV networks with 2 of the 3 largest networks publicly operated
 .kr<br>
 
 **Internet users**<br>
-_total_: 50.96 million (2021 est.)<br>
 _percent of population_: 98% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

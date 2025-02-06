@@ -621,7 +621,6 @@ state operates 3 TV stations, as well as national and regional radio stations; 1
 .np<br>
 
 **Internet users**<br>
-_total_: 15.6 million (2021 est.)<br>
 _percent of population_: 52% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

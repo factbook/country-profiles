@@ -391,7 +391,7 @@ _FAX_: [1] (202) 966-3110<br>
 _email address and website_: <br>hkjconsular@jordanembassyus.org<br><br>http://www.jordanembassyus.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Yael LEMPERT (since 3 September 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Rohit (Ro) NEPAL (since 22 January 2025)<br>
 _embassy_: Abdoun, Al-Umawyeen St., Amman<br>
 _mailing address_: 6050 Amman Place, Washington DC&nbsp; 20521-6050<br>
 _telephone_: [962] (6) 590-6000<br>
@@ -641,7 +641,6 @@ radio and TV dominated by the government-owned Jordan Radio and Television Corpo
 .jo<br>
 
 **Internet users**<br>
-_total_: 9.13 million (2021 est.)<br>
 _percent of population_: 83% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Rwanda -- a small and centralized country dominated by rugged hills and fertile volcanic soil -- has exerted disproportionate influence over the African Great Lakes region for centuries. A Rwandan kingdom increasingly dominated the region from the mid-18th century onward, with the Tutsi monarchs gradually extending the power of the royal court into peripheral areas and expanding their borders through military conquest. While the current ethnic labels Hutu and Tutsi predate colonial rule, their flexibility and importance have varied significantly over time and often manifested more as a hierarchical class distinction than an ethnic or cultural distinction. The majority Hutu and minority Tutsi have long shared a common language and culture, and intermarriage was frequent. The Rwandan royal court centered on the Tutsi king (<em>mwami</em>), who relied on an extensive network of political, cultural, and economic relationships. Social categories became more rigid during the reign of RWABUGIRI (1860-1895), who focused on aggressive expansion and solidifying Rwanda’s bureaucratic structures. German colonial conquest began in the late 1890s, but the territory was ceded to Belgian forces in 1916 during World War I. Both European nations quickly realized the benefits of ruling through the already centralized Rwandan Tutsi kingdom. Colonial rule reinforced existing trends toward autocratic and exclusionary rule, leading to the elimination of traditional positions of authority for Hutus and a calcification of ethnic identities. Belgian administrators significantly increased requirements for communal labor and instituted harsh taxes, increasing frustration and inequality. Changing political attitudes in Belgium contributed to colonial and Catholic officials shifting their support from Tutsi to Hutu leaders in the years leading up to independence.</p> <p>Newly mobilized political parties and simmering resentment of minority rule exploded in 1959, three years before independence from Belgium, when Hutus overthrew the Tutsi king. Thousands of Tutsis were killed over the next several years, and some 150,000 were driven into exile in neighboring countries. Army Chief of Staff Juvenal HABYARIMANA seized power in a coup in 1973 and ruled Rwanda as a single-party state for two decades. HABYARIMANA increasingly discriminated against Tutsis, and extremist Hutu factions gained prominence after multiple parties were introduced in the early 1990s. The children of Tutsi exiles later formed a rebel group, the Rwandan Patriotic Front (RPF) and began a civil war in 1990. The civil war exacerbated ethnic tensions and culminated in the shooting down of HABYARIMANA’s private jet in 1994. The event sparked a state-orchestrated genocide in which Rwandans killed more than 800,000 of their fellow citizens, including approximately three-quarters of the Tutsi population. The genocide ended later that same year when the predominantly Tutsi RPF, operating out of Uganda and northern Rwanda, defeated the national army and Hutu militias and established an RPF-led government of national unity. Rwanda held its first local elections in 1999 and its first post-genocide presidential and legislative elections in 2003, formalizing President Paul KAGAME’s de facto role as head of government. KAGAME was formally elected in 2010, and again in 2017 after changing the constitution to allow him to run for a third term.</p><br>
+<p>Rwanda -- a small and centralized country dominated by rugged hills and fertile volcanic soil -- has exerted disproportionate influence over the African Great Lakes region for centuries. A Rwandan kingdom increasingly dominated the region from the mid-18th century onward, with the Tutsi monarchs gradually extending the power of the royal court into peripheral areas and expanding their borders through military conquest. While the current ethnic labels Hutu and Tutsi predate colonial rule, their flexibility and importance have varied significantly over time and often manifested more as a hierarchical class distinction than an ethnic or cultural distinction. The majority Hutu and minority Tutsi have long shared a common language and culture, and intermarriage was frequent. <br><br>The Rwandan royal court centered on the Tutsi king (<em>mwami</em>), who relied on an extensive network of political, cultural, and economic relationships. Social categories became more rigid during the reign of RWABUGIRI (1860-1895), who focused on aggressive expansion and solidifying Rwanda’s bureaucratic structures. German colonial conquest began in the late 1890s, but the territory was ceded to Belgian forces in 1916 during World War I. Both European nations quickly realized the benefits of ruling through the already centralized Rwandan Tutsi kingdom. Colonial rule reinforced existing trends toward autocratic and exclusionary rule, leading to the elimination of traditional positions of authority for Hutus. Belgian administrators significantly increased requirements for communal labor and instituted harsh taxes, which fed the population's frustration. Changing political attitudes in Belgium contributed to colonial and Catholic officials shifting their support from Tutsi to Hutu leaders in the years leading up to independence.</p> <p>Simmering resentment of minority rule exploded in 1959, three years before independence from Belgium, when Hutus overthrew the Tutsi king. Thousands of Tutsis were killed over the next several years, and some 150,000 were driven into exile in neighboring countries. Army Chief of Staff Juvenal HABYARIMANA seized power in a coup in 1973 and ruled Rwanda as a single-party state for two decades. HABYARIMANA increasingly discriminated against Tutsis, and extremist Hutu factions gained prominence after multiple parties were introduced in the early 1990s. The children of Tutsi exiles later formed a rebel group, the Rwandan Patriotic Front (RPF) and began a civil war in 1990. The civil war exacerbated ethnic tensions and culminated in the shooting down of HABYARIMANA’s private jet in 1994. The event sparked a state-orchestrated genocide in which Rwandans killed more than 800,000 of their fellow citizens, including approximately three-quarters of the Tutsi population. The genocide ended later the same year when the predominantly Tutsi RPF, operating out of Uganda and northern Rwanda, defeated the national army and Hutu militias and established an RPF-led government of national unity. Rwanda held its first local elections in 1999 and its first post-genocide presidential and legislative elections in 2003, formalizing President Paul KAGAME’s de facto role as head of government. KAGAME was formally elected in 2010, and again in 2017 after changing the constitution to allow him to run for a third term.</p><br>
 
 ## Geography
 
@@ -428,7 +428,7 @@ $36.474 billion (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$3,000 (2023 est.)<br>
+$3,100 (2023 est.)<br>
 $2,900 (2022 est.)<br>
 $2,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
@@ -476,7 +476,7 @@ cement, agricultural products, small-scale beverages, soap, furniture, shoes, pl
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.283 million (2023 est.)<br>
+5.259 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -505,7 +505,7 @@ _highest 10%_: 35.6% (2016 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-3.93% of GDP (2023 est.)<br>
+3.67% of GDP (2023 est.)<br>
 3.56% of GDP (2022 est.)<br>
 3.53% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
@@ -563,7 +563,7 @@ $1.867 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$4.254 billion (2022 est.)<br>
+$6.087 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -637,7 +637,6 @@ _international_: country code - 250; international connections employ microwave 
 .rw<br>
 
 **Internet users**<br>
-_total_: 3.9 million (2021 est.)<br>
 _percent of population_: 30% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

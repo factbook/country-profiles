@@ -388,7 +388,7 @@ _consulate(s) general_: Los Angeles, New York<br>
 _consulate(s)_: Chicago<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Victoria Reggie KENNEDY (since 12 January 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Kami A. WITMER (since 20 January 2025)<br>
 _embassy_: Boltzmanngasse 16, 1090, Vienna<br>
 _mailing address_: 9900 Vienna Place, Washington DC&nbsp; 20521-9900<br>
 _telephone_: [43] (1) 31339 0<br>
@@ -642,7 +642,6 @@ _international_: country code - 43; earth stations available in the Astra, Intel
 .at<br>
 
 **Internet users**<br>
-_total_: 8.277 million (2021 est.)<br>
 _percent of population_: 93% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

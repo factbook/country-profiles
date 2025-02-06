@@ -524,7 +524,6 @@ no TV broadcast station; a cable network is available on Majuro with programming
 .mh<br>
 
 **Internet users**<br>
-_total_: 16,254 (2021 est.)<br>
 _percent of population_: 38.7% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

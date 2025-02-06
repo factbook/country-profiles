@@ -635,7 +635,6 @@ public TV broadcaster, Radiotelevizija Slovenija (RTV), operates a system of nat
 .si<br>
 
 **Internet users**<br>
-_total_: 1.869 million (2021 est.)<br>
 _percent of population_: 89% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

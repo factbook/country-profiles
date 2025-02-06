@@ -617,7 +617,6 @@ state-run Office de Radiodiffusion et de Television du Benin (ORTB) operates a T
 .bj<br>
 
 **Internet users**<br>
-_total_: 4.42 million (2021 est.)<br>
 _percent of population_: 34% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

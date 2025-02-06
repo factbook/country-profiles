@@ -638,7 +638,6 @@ government owns all local radio and TV stations; foreign shortwave broadcasts an
 .zw<br>
 
 **Internet users**<br>
-_total_: 5.6 million (2021 est.)<br>
 _percent of population_: 35% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
