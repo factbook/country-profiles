@@ -348,7 +348,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 6 years<br>
 _most recent election date_: 4/29/2024<br>
 _parties elected and seats per party_: Union for the Republic (UNIR) (108); Other (5)<br>
-_percentage of women in chamber_: 18.6%<br>
+_percentage of women in chamber_: 15%<br>
 _expected date of next election_: April 2030<br>
 <strong>note:</strong> party lists are required to contain equal numbers of men and women<br>
 
@@ -597,11 +597,11 @@ _Total energy consumption per capita 2022_: 4.077 million Btu/person (2022 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 66,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
+_total subscriptions_: 67,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6.564 million (2022 est.)<br>
+_total subscriptions_: 7.05 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 74 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -616,11 +616,11 @@ _international_: country code - 228; landing point for the WACS submarine cable,
 .tg<br>
 
 **Internet users**<br>
-_percent of population_: 35% (2021 est.)<br>
+_percent of population_: 38% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 52,706 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.6 (2020 est.)<br>
+_total_: 114,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2023 est.)<br>
 
 ## Transportation
 

@@ -338,7 +338,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 5/5/2024<br>
 _parties elected and seats per party_: Realizing Goals (RM) (14); Democratic Revolutionary Party (PRD) (13); Democratic Change (CD) (8); Panamenista Party (8); Independents (20); Other (8)<br>
-_percentage of women in chamber_: 21.4%<br>
+_percentage of women in chamber_: 21.7%<br>
 _expected date of next election_: May 2029<br>
 
 **Judicial branch**<br>
@@ -361,7 +361,7 @@ _email address and website_: <br>info@embassyofpanama.org<br><br>https://www.emb
 _consulate(s) general_: Houston, Los Angeles, Miami, New Orleans, New York, Philadelphia, Tampa<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Mari Carmen APONTE (since 21 November 2022)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires John M. BARRETT (since January 2025)<br>
 _embassy_: Building 783, Demetrio Basilio Lakas Avenue, Clayton<br>
 _mailing address_: 9100 Panama City PL, Washington, DC 20521-9100<br>
 _telephone_: [507] 317-5000<br>
@@ -473,8 +473,8 @@ _female_: 22% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 15.6% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 1.7% of household expenditures (2022 est.)<br>
+_on food_: 15.4% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 1.6% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.2% (2023 est.)<br>
@@ -592,11 +592,11 @@ _Total energy consumption per capita 2022_: 87.16 million Btu/person (2022 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 811,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 18 (2022 est.)<br>
+_total subscriptions_: 811,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 18 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6.891 million (2022 est.)<br>
+_total subscriptions_: 6.98 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 156 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -611,11 +611,11 @@ multiple privately owned TV networks and a government-owned educational TV stati
 .pa<br>
 
 **Internet users**<br>
-_percent of population_: 68% (2021 est.)<br>
+_percent of population_: 74% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 562,413 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
+_total_: 809,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 18 (2023 est.)<br>
 
 ## Transportation
 

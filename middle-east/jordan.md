@@ -499,8 +499,8 @@ _female_: 47.1% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Average household expenditures**<br>
-_on food_: 26.1% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 4.5% of household expenditures (2022 est.)<br>
+_on food_: 25% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 4.5% of household expenditures (2023 est.)<br>
 
 **Remittances**<br>
 8.79% of GDP (2023 est.)<br>
@@ -622,11 +622,11 @@ _Total energy consumption per capita 2022_: 30.906 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 466,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 4 (2022 est.)<br>
+_total subscriptions_: 451,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 4 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7.626 million (2022 est.)<br>
+_total subscriptions_: 7.73 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 68 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -641,11 +641,11 @@ radio and TV dominated by the government-owned Jordan Radio and Television Corpo
 .jo<br>
 
 **Internet users**<br>
-_percent of population_: 83% (2021 est.)<br>
+_percent of population_: 90% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 630,545 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 6 (2020 est.)<br>
+_total_: 805,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 7 (2023 est.)<br>
 
 ## Transportation
 

@@ -475,8 +475,8 @@ _female_: 12.5% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
-_on food_: 13% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 0.4% of household expenditures (2022 est.)<br>
+_on food_: 13.6% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 0.4% of household expenditures (2023 est.)<br>
 
 **Remittances**<br>
 0% of GDP (2023 est.)<br>
@@ -583,11 +583,11 @@ _Total energy consumption per capita 2022_: 514.32 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 253,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 17 (2022 est.)<br>
+_total subscriptions_: 246,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 16 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2.141 million (2022 est.)<br>
+_total subscriptions_: 2.42 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 145 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -602,11 +602,11 @@ state-run Bahrain Radio and Television Corporation (BRTC) operates 6 terrestrial
 .bh<br>
 
 **Internet users**<br>
-_percent of population_: 100% (2021 est.)<br>
+_percent of population_: 100% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 148,928 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 9 (2020 est.)<br>
+_total_: 268,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 17 (2023 est.)<br>
 
 ## Transportation
 

@@ -369,7 +369,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 3 years<br>
 _most recent election date_: 5/21/2022<br>
 _parties elected and seats per party_: Australian Labor Party (ALP) (77); Liberal National coalition (58); Independents (10); Other (6)<br>
-_percentage of women in chamber_: 38%<br>
+_percentage of women in chamber_: 39.1%<br>
 _expected date of next election_: May 2025<br>
 
 **Legislative branch - upper chamber**<br>
@@ -516,8 +516,8 @@ _female_: 7.5% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 10.4% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 4.2% of household expenditures (2022 est.)<br>
+_on food_: 9.9% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 3.6% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8% (2018 est.)<br>
@@ -639,11 +639,11 @@ _Total energy consumption per capita 2022_: 236.653 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 6.409 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 24 (2022 est.)<br>
+_total subscriptions_: 6.458 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 24 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 28.018 million (2022 est.)<br>
+_total subscriptions_: 29.1 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 107 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -658,11 +658,11 @@ _international_: country code - 61; landing points for&nbsp;more than&nbsp;20 su
 .au<br>
 
 **Internet users**<br>
-_percent of population_: 96% (2021 est.)<br>
+_percent of population_: 95% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 9,099,619 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 36 (2020 est.)<br>
+_total_: 9.63 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 36 (2023 est.)<br>
 
 ## Transportation
 

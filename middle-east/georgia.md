@@ -480,8 +480,8 @@ _female_: 32.7% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 32.1% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 3.4% of household expenditures (2022 est.)<br>
+_on food_: 39% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 3.8% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6% (2022 est.)<br>
@@ -606,11 +606,11 @@ _Total energy consumption per capita 2022_: 58.044 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 301,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 8 (2022 est.)<br>
+_total subscriptions_: 278,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 7 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5.844 million (2022 est.)<br>
+_total subscriptions_: 5.91 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 156 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -625,11 +625,11 @@ The Tbilisi-based Georgian Public Broadcaster (GPB) includes Channel 1, Channel 
 .ge<br>
 
 **Internet users**<br>
-_percent of population_: 76% (2021 est.)<br>
+_percent of population_: 82% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 986,809 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 25 (2021 est.)<br>
+_total_: 1.1 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 29 (2023 est.)<br>
 
 ## Transportation
 

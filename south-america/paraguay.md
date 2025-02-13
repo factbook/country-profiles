@@ -366,7 +366,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 4/30/2023<br>
 _parties elected and seats per party_: National Republican Association/Colorado Party (ANR) (23); Authentic Radical Liberal Party (PLRA) - Alliances (12); National Crusade Party (CN) (5); Other (5)<br>
-_percentage of women in chamber_: 24.4%<br>
+_percentage of women in chamber_: 22.2%<br>
 _expected date of next election_: April 2028<br>
 
 **Judicial branch**<br>
@@ -389,7 +389,7 @@ _email address and website_: <br>gabineteembaparusa@mre.gov.py<br><br>Embajada d
 _consulate(s) general_: Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Marc OSTFIELD (since 9 March 2022)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Amir P. MASLIYAH (since January 2025)<br>
 _embassy_: 1776 Mariscal Lopez Avenue, Asuncion<br>
 _mailing address_: 3020 Asuncion Place, Washington DC&nbsp; 20521-3020<br>
 _telephone_: [595] (21) 248-3000<br>
@@ -502,8 +502,8 @@ _female_: 16.9% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 29.8% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 4.2% of household expenditures (2022 est.)<br>
+_on food_: 29.3% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 4.2% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8% (2022 est.)<br>
@@ -615,11 +615,11 @@ _Total energy consumption per capita 2022_: 28.472 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 169,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
+_total subscriptions_: 206,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8.659 million (2022 est.)<br>
+_total subscriptions_: 8.67 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 128 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -634,11 +634,11 @@ _international_: country code - 595; Paraguay's landlocked position means they m
 .py<br>
 
 **Internet users**<br>
-_percent of population_: 77% (2021 est.)<br>
+_percent of population_: 78% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 562,369 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 8 (2020 est.)<br>
+_total_: 878,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2023 est.)<br>
 
 ## Transportation
 

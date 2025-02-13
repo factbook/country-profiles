@@ -608,11 +608,11 @@ _Total energy consumption per capita 2022_: 7.088 million Btu/person (2022 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 96,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
+_total subscriptions_: 81,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 19.838 million (2022 est.)<br>
+_total subscriptions_: 21.2 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 99 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -627,11 +627,11 @@ _international_: country code - 260; multiple providers operate overland fiber o
 .zm<br>
 
 **Internet users**<br>
-_percent of population_: 21% (2021 est.)<br>
+_percent of population_: 31% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 82,317 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.5 (2020 est.)<br>
+_total_: 99,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 ## Transportation
 

@@ -513,7 +513,7 @@ _Total energy consumption per capita 2022_: 57.072 million Btu/person (2022 est.
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 383,763 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 25 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 7 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 1,777,859 (2022 est.)<br>
@@ -529,7 +529,7 @@ _international_: country code - 383<br>
 &nbsp;<br>
 
 **Internet users**<br>
-_percent of population_: 91% (2021 est.)<br>
+_percent of population_: 89% (2018 est.)<br>
 
 ## Transportation
 

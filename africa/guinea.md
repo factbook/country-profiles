@@ -588,10 +588,10 @@ _Total energy consumption per capita 2022_: 4.891 million Btu/person (2022 est.)
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 0 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 13.795 million (2021 est.)<br>
+_total subscriptions_: 13.8 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 102 (2021 est.)<br>
 
 **Telecommunication systems**<br>
@@ -606,11 +606,11 @@ _international_: country code - 224; ACE submarine cable connecting Guinea with 
 .gn<br>
 
 **Internet users**<br>
-_percent of population_: 35% (2021 est.)<br>
+_percent of population_: 34% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.01 (2020 est.)<br>
+_total_: 1,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 

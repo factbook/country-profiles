@@ -370,7 +370,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 10/2/2022<br>
 _parties elected and seats per party_: Liberal Party (PL) (99); Workers' Party (PT) (69); Brazil Union (União) (59); Progressive Party (PP) (47); Brazilian Democratic Movement (MDB) (42); Social Democratic Party (PSD) (42); Republicans (Republicanos) (40); Other (115)<br>
-_percentage of women in chamber_: 17.5%<br>
+_percentage of women in chamber_: 18.1%<br>
 _expected date of next election_: October 2026<br>
 
 **Legislative branch - upper chamber**<br>
@@ -381,7 +381,7 @@ _scope of elections_: partial renewal<br>
 _term in office_: 8 years<br>
 _most recent election date_: 10/2/2022<br>
 _parties elected and seats per party_: Liberal Party (PL) (8); Brazil Union (União) (5); Workers' Party (PT) (4); Progressive Party (PP) (3); Social Democratic Party (PSD) (2); Republicans (Republicanos) (2); Other (3)<br>
-_percentage of women in chamber_: 17.3%<br>
+_percentage of women in chamber_: 19.8%<br>
 _expected date of next election_: October 2026<br>
 
 **Judicial branch**<br>
@@ -519,8 +519,8 @@ _female_: 20.9% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 16.2% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 1.7% of household expenditures (2022 est.)<br>
+_on food_: 16.2% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 1.7% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.2% (2022 est.)<br>
@@ -657,11 +657,11 @@ _Total energy consumption per capita 2022_: 50.037 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 27.258 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2022 est.)<br>
+_total subscriptions_: 25.574 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 12 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 212.926 million (2022 est.)<br>
+_total subscriptions_: 213 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 99 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -676,11 +676,11 @@ state-run Radiobras operates a radio and a TV network; more than 1,000 radio sta
 .br<br>
 
 **Internet users**<br>
-_percent of population_: 81% (2021 est.)<br>
+_percent of population_: 84% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 36,344,670 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 17 (2020 est.)<br>
+_total_: 48.4 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 23 (2023 est.)<br>
 
 ## Transportation
 

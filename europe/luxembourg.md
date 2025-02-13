@@ -340,7 +340,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 10/8/2023<br>
 _parties elected and seats per party_: Christian Social People's Party (CSV) (21); Democratic Party (PD/DP) (14); Socialist Workers' Party (POSL/LSAP) (11); Alternative Democratic Reform Party (ADR) (5); Greens (DEI GRÉNG) (4); Pirate Party (PIRATEN) (3); Other (2)<br>
-_percentage of women in chamber_: 33.3%<br>
+_percentage of women in chamber_: 35%<br>
 _expected date of next election_: October 2028<br>
 <strong>note:</strong> a 21-member Council of State is appointed by the Grand Duke on the advice of the prime minister and serves as an advisory body to the Chamber of Deputies<br>
 

@@ -355,7 +355,7 @@ _expected date of next election_: July 2029<br>
 **Legislative branch - upper chamber**<br>
 _chamber name_: House of Lords<br>
 _number of seats_: 800 (all appointed)<br>
-_percentage of women in chamber_: 29%<br>
+_percentage of women in chamber_: 30%<br>
 <strong>note: </strong>the number of total seats in the House of Lords does not include ineligible members or members on leave of absence<br>
 
 **Judicial branch**<br>
@@ -491,8 +491,8 @@ _female_: 10.5% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 8.5% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 3.4% of household expenditures (2022 est.)<br>
+_on food_: 8.7% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 3% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3% (2021 est.)<br>

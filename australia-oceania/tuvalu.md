@@ -479,7 +479,7 @@ _proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 2,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 18 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 21 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 9,000 (2021 est.)<br>
@@ -497,11 +497,11 @@ no TV stations; many households use satellite dishes to watch foreign TV station
 .tv<br>
 
 **Internet users**<br>
-_percent of population_: 49% (2021 est.)<br>
+_percent of population_: 81% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 450 (2017 est.)<br>
-_subscriptions per 100 inhabitants_: 4 (2017 est.)<br>
+_total_: 0 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 5 (2022 est.)<br>
 
 ## Transportation
 

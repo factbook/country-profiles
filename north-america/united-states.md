@@ -376,7 +376,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 2 years<br>
 _most recent election date_: 11/5/2024<br>
 _parties elected and seats per party_: Republican Party (220); Democratic Party (215)<br>
-_percentage of women in chamber_: 28.2%<br>
+_percentage of women in chamber_: 28.6%<br>
 _expected date of next election_: November 2026<br>
 
 **Legislative branch - upper chamber**<br>
@@ -386,8 +386,8 @@ _electoral system_: plurality/majority<br>
 _scope of elections_: partial renewal<br>
 _term in office_: 6 years<br>
 _most recent election date_: 11/5/2024<br>
-_parties elected and seats per party_: Democratic Party (19); Republican Party (15)<br>
-_percentage of women in chamber_: 25%<br>
+_parties elected and seats per party_: Republican Party (15); Democratic Party (19)<br>
+_percentage of women in chamber_: 26%<br>
 _expected date of next election_: November 2026<br>
 
 **Judicial branch**<br>
@@ -504,8 +504,8 @@ _female_: 7.1% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 6.7% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 1.8% of household expenditures (2022 est.)<br>
+_on food_: 6.8% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 1.9% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8% (2022 est.)<br>
@@ -632,11 +632,11 @@ _Total energy consumption per capita 2022_: 284.575 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 91.623 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 27 (2022 est.)<br>
+_total subscriptions_: 87.987 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 26 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 372.682 million (2022 est.)<br>
+_total subscriptions_: 386 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 110 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -651,11 +651,11 @@ _international_: country code - 1; landing points for the Quintillion Subsea Cab
 .us<br>
 
 **Internet users**<br>
-_percent of population_: 92% (2021 est.)<br>
+_percent of population_: 97% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 121.176 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 37 (2020 est.)<br>
+_total_: 131 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 38 (2023 est.)<br>
 
 **Communications - note**<br>
 <p>note 1: The Library of Congress, Washington DC, USA, claims to be the largest library in the world with more than 167 million items (as of 2018); its collections are universal, not limited by subject, format, or national boundary, and include materials from all parts of the world and in over 450 languages; collections include: books, newspapers, magazines, sheet music, sound and video recordings, photographic images, artwork, architectural drawings, and copyright data<br><br>note 2: Cape Canaveral, Florida, USA, hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are on Ascension (Saint Helena, Ascension, and Tistan da Cunha), Diego Garcia (British Indian Ocean Territory), and at Kwajalein (Marshall Islands)</p><br>

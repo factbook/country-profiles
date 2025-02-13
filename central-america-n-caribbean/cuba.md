@@ -563,11 +563,11 @@ _Total energy consumption per capita 2022_: 32.255 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.574 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 14 (2022 est.)<br>
+_total subscriptions_: 1.589 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 14 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7.6 million (2022 est.)<br>
+_total subscriptions_: 7.67 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 68 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -582,12 +582,12 @@ government owns and controls all broadcast media: eight national TV channels (Cu
 .cu<br>
 
 **Internet users**<br>
-_percent of population_: 71% (2021 est.)<br>
+_percent of population_: 73% (2022 est.)<br>
 <strong>note:</strong> private citizens are prohibited from buying computers or accessing the Internet without special authorization; foreigners may access the Internet in large hotels but are subject to firewalls; some Cubans buy illegal passwords on the black market or take advantage of public outlets to access limited email and the government-controlled "intranet"; issues relating to COVID-19 impact research into internet adoption, so actual internet user figures may be different than published numbers suggest<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 231,654 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
+_total_: 327,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 
 ## Transportation
 

@@ -302,7 +302,7 @@ _name_: Nicosia (Lefkosia/Lefkosa)<br>
 _geographic coordinates_: 35 10 N, 33 22 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: a mispronunciation of the city's Greek name Lefkosia and its Turkish name Lefkosa, both of which mean "White City"; the Greek name may derive from the Greek phrase "leuke ousia" ("white estate")<br>
+_etymology_: may have been named after Nike, the Greek goddess of victory; the Greek name for the city, Lefkosia, and the Turkish name, Lefkosa, both mean "White City"<br>
 
 **Administrative divisions**<br>
 6 districts; Ammochostos (Famagusta; all but a small part located in the Turkish Cypriot community), Keryneia (Kyrenia; the only district located entirely in the Turkish Cypriot community), Larnaka (Larnaca; with a small part located in the Turkish Cypriot community), Lefkosia (Nicosia; a small part administered by Turkish Cypriots), Lemesos (Limassol), Pafos (Paphos); note - the 5 "districts" of the "Turkish Republic of Northern Cyprus" are Gazimagusa (Famagusta), Girne (Kyrenia), Guzelyurt (Morphou), Iskele (Trikomo), Lefkosa (Nicosia)<br>
@@ -595,11 +595,11 @@ _Total energy consumption per capita 2022_: 106.317 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 297,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 34 (2021 est.)<br>
+_total subscriptions_: 270,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 29 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.392 million (2022 est.)<br>
+_total subscriptions_: 1.43 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 149 (2021 est.)<br>
 
 **Telecommunication systems**<br>
@@ -614,11 +614,11 @@ mixture of state and privately run TV and radio services; the public broadcaster
 .cy<br>
 
 **Internet users**<br>
-_percent of population_: 91% (2021 est.)<br>
+_percent of population_: 91% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 332,080 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 37 (2020 est.)<br>
+_total_: 357,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 39 (2023 est.)<br>
 
 ## Transportation
 

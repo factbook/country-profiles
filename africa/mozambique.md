@@ -356,8 +356,8 @@ _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 10/9/2024<br>
-_parties elected and seats per party_: Mozambique Liberation Front (FRELIMO) (195); Optimist Party for the Development of Mozambique (PODEMOS) (31); Mozambican National Resistance (RENAMO) (20); Other (4)<br>
-_percentage of women in chamber_: 43.2%<br>
+_parties elected and seats per party_: Mozambique Liberation Front (FRELIMO) (171); Optimist Party for the Development of Mozambique (PODEMOS) (43); Mozambican National Resistance (RENAMO) (28); Other (8)<br>
+_percentage of women in chamber_: 39.2%<br>
 _expected date of next election_: October 2029<br>
 
 **Judicial branch**<br>
@@ -617,7 +617,7 @@ _total subscriptions_: 29,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 13.871 million (2022 est.)<br>
+_total subscriptions_: 15 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 42 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -632,11 +632,11 @@ _international_: country code - 258; landing points for the EASSy and SEACOM/ Ta
 .mz<br>
 
 **Internet users**<br>
-_percent of population_: 17% (2021 est.)<br>
+_percent of population_: 21% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 70,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.2 (2020 est.)<br>
+_total_: 65,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 

@@ -475,8 +475,8 @@ _female_: 31.5% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 33% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 6% of household expenditures (2022 est.)<br>
+_on food_: 30.6% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 4.8% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.9% (2019 est.)<br>
@@ -598,11 +598,11 @@ _Total energy consumption per capita 2022_: 46.564 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 436,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 21 (2022 est.)<br>
+_total subscriptions_: 439,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 24 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2.048 million (2022 est.)<br>
+_total subscriptions_: 1.92 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 98 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -617,11 +617,11 @@ public service TV broadcaster Macedonian Radio and Television operates 5 nationa
 .mk<br>
 
 **Internet users**<br>
-_percent of population_: 83% (2021 est.)<br>
+_percent of population_: 84% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 475,569 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 23 (2020 est.)<br>
+_total_: 515,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 28 (2022 est.)<br>
 
 ## Transportation
 

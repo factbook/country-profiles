@@ -346,7 +346,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 5/29/2024<br>
 _parties elected and seats per party_: Isika Rehetra Miaraka Amin’i Andry Rajoelina (IRMAR) (84); Firaisankina (22); Independents (50); Other (7)<br>
-_percentage of women in chamber_: 16%<br>
+_percentage of women in chamber_: 14.1%<br>
 _expected date of next election_: May 2029<br>
 
 **Legislative branch - upper chamber**<br>
@@ -355,7 +355,7 @@ _number of seats_: 18 (12 indirectly elected; 6 appointed)<br>
 _term in office_: 5 years<br>
 _most recent election date_: 12/11/2020<br>
 _parties elected and seats per party_: IRMAR (10); MALAGASY MIARA-MIAINGA (2)<br>
-_percentage of women in chamber_: 5.6%<br>
+_percentage of women in chamber_: 11.1%<br>
 _expected date of next election_: December 2025<br>
 
 **Judicial branch**<br>
@@ -582,11 +582,11 @@ _Total energy consumption per capita 2022_: 1.887 million Btu/person (2022 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 26,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
+_total subscriptions_: 3,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 20.783 million (2022 est.)<br>
+_total subscriptions_: 25.4 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 70 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -601,11 +601,11 @@ state-owned Radio Nationale Malagasy (RNM) and Television Malagasy (TVM) have an
 .mg<br>
 
 **Internet users**<br>
-_percent of population_: 20% (2021 est.)<br>
+_percent of population_: 21% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 32,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.1 (2020 est.)<br>
+_total_: 34,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 ## Transportation
 

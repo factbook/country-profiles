@@ -490,8 +490,8 @@ _female_: 20.4% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 52.7% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 2.1% of household expenditures (2022 est.)<br>
+_on food_: 52.8% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 2.1% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.5% (2022 est.)<br>
@@ -618,11 +618,11 @@ _Total energy consumption per capita 2022_: 9.678 million Btu/person (2022 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 274,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
+_total subscriptions_: 302,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 180.198 million (2022 est.)<br>
+_total subscriptions_: 191 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 105 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -637,11 +637,11 @@ state-owned Bangladesh Television (BTV) broadcasts throughout the country. Some 
 .bd<br>
 
 **Internet users**<br>
-_percent of population_: 39% (2021 est.)<br>
+_percent of population_: 45% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 10,052,819 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 6 (2020 est.)<br>
+_total_: 12.9 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 8 (2023 est.)<br>
 
 ## Transportation
 

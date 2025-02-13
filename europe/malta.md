@@ -333,7 +333,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 3/26/2022<br>
 _parties elected and seats per party_: Labour Party (LP) (44); Nationalist Party (PN) (35)<br>
-_percentage of women in chamber_: 27.8%<br>
+_percentage of women in chamber_: 29.1%<br>
 _expected date of next election_: March 2027<br>
 
 **Judicial branch**<br>
@@ -577,11 +577,11 @@ _Total energy consumption per capita 2022_: 226.072 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 259,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 49 (2022 est.)<br>
+_total subscriptions_: 259,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 49 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 702,000 (2022 est.)<br>
+_total subscriptions_: 749,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 132 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -596,11 +596,11 @@ _international_: country code - 356; landing points for the Malta-Gozo Cable, VM
 .mt<br>
 
 **Internet users**<br>
-_percent of population_: 87% (2021 est.)<br>
+_percent of population_: 92% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 213,419 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 48 (2020 est.)<br>
+_total_: 236,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 44 (2023 est.)<br>
 
 ## Transportation
 

@@ -357,7 +357,7 @@ _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 5/29/2024<br>
-_percentage of women in chamber_: 44.6%<br>
+_percentage of women in chamber_: 44.7%<br>
 _expected date of next election_: May 2029<br>
 
 **Legislative branch - upper chamber**<br>
@@ -390,7 +390,7 @@ _email address and website_: <br>Info.saembassyDC@dirco.gov.za<br><br>https://ww
 _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Reuben E. BRIGETY II (since 11 August 2022)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Dana M. BROWN (since January 2025)<br>
 _embassy_: 877 Pretorius Street, Arcadia, Pretoria<br>
 _mailing address_: 9300 Pretoria Place, Washington DC&nbsp; 20521-9300<br>
 _telephone_: [27] (12) 431-4000<br>
@@ -504,8 +504,8 @@ _female_: 53.2% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 21.6% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 5% of household expenditures (2022 est.)<br>
+_on food_: 16.1% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 4.1% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 0.9% (2014 est.)<br>
@@ -639,11 +639,11 @@ _Total energy consumption per capita 2022_: 95.511 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.31 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
+_total subscriptions_: 1.353 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 100.26 million (2022 est.)<br>
+_total subscriptions_: 108 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 167 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -658,11 +658,11 @@ the South African Broadcasting Corporation (SABC) operates 6 free-to-air TV stat
 .za<br>
 
 **Internet users**<br>
-_percent of population_: 72% (2021 est.)<br>
+_percent of population_: 75% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,303,057 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
+_total_: 2.15 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 
 ## Transportation
 

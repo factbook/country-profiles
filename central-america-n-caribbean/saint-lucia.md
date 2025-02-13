@@ -318,7 +318,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 7/26/2021<br>
 _parties elected and seats per party_: Saint Lucia Labour Party (SLP) (13); United Workers Party (UWP) (2); Independents (2)<br>
-_percentage of women in chamber_: 11.1%<br>
+_percentage of women in chamber_: 10.5%<br>
 _expected date of next election_: July 2026<br>
 
 **Legislative branch - upper chamber**<br>
@@ -327,7 +327,7 @@ _number of seats_: 11 (all appointed)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 8/17/2021<br>
-_percentage of women in chamber_: 45.5%<br>
+_percentage of women in chamber_: 54.5%<br>
 _expected date of next election_: August 2026<br>
 
 **Judicial branch**<br>
@@ -551,11 +551,11 @@ _Total energy consumption per capita 2022_: 48.251 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 14,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 8 (2021 est.)<br>
+_total subscriptions_: 31,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 17 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 172,000 (2021 est.)<br>
+_total subscriptions_: 176,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 96 (2021 est.)<br>
 
 **Telecommunication systems**<br>
@@ -570,11 +570,11 @@ _international_: country code - 1-758; landing points for the ECFS&nbsp;and Sout
 .lc<br>
 
 **Internet users**<br>
-_percent of population_: 78% (2021 est.)<br>
+_percent of population_: 74% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 33,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 18 (2020 est.)<br>
+_total_: 24,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 14 (2022 est.)<br>
 
 ## Transportation
 

@@ -306,7 +306,7 @@ presidential republic<br>
 _name_: Bangui<br>
 _geographic coordinates_: 4 22 N, 18 35 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: established as a French settlement in 1889 and named after its location on the northern bank of the Ubangi River; the Ubangi itself was named from the native word for the "rapids" located beside the outpost, which marked the end of navigable water north from Brazzaville<br>
+_etymology_: established as a French military post in 1889; the name means "rapids" in the local Bobangui language, because of the city's location above the first great rapid on the Ubangi River<br>
 
 **Administrative divisions**<br>
 14 prefectures (prefectures, singular - prefecture), 2 economic prefectures* (prefectures economiques, singular - prefecture economique), and 1 commune**; Bamingui-Bangoran, Bangui**, Basse-Kotto, Haute-Kotto, Haut-Mbomou, Kemo, Lobaye, Mambere-Kadei, Mbomou, Nana-Grebizi*, Nana-Mambere, Ombella-Mpoko, Ouaka, Ouham, Ouham-Pende, Sangha-Mbaere*, Vakaga<br>
@@ -586,10 +586,10 @@ _Total energy consumption per capita 2022_: 881,000 Btu/person (2022 est.)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 2,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.831 million (2021 est.)<br>
+_total subscriptions_: 1.83 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 34 (2021 est.)<br>
 
 **Telecommunication systems**<br>
@@ -607,8 +607,8 @@ government-owned network, Radiodiffusion Television Centrafricaine, provides lim
 _percent of population_: 11% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 499 (2019 est.) Data available for 2019 only.<br>
-_subscriptions per 100 inhabitants_: 0.01 (2019 est.)<br>
+_total_: 1,000 (2022 est.) Data available for 2019 only.<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 

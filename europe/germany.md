@@ -363,14 +363,14 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 9/26/2021<br>
 _parties elected and seats per party_: Social Democratic Party (SPD) (206); Christian Democratic Union (CDU) (152); Green Party (118); Free Democratic Party (FDP) (92); Alternative for Germany (AfD) (83); Christian Social Union of Bavaria (CSU) (45); Left Party (Die Linke) (39); Other (1)<br>
-_percentage of women in chamber_: 35.3%<br>
+_percentage of women in chamber_: 35.7%<br>
 _expected date of next election_: February 2025<br>
 <strong>note 1:</strong> total seats can vary each electoral term; currently includes 4 seats for independent members; approximately one-half of members directly elected in multi-seat constituencies by proportional representation vote and approximately one-half directly elected in single-seat constituencies by simple majority vote; members' terms vary depending on the states they represent<br><strong><br>note 2:</strong> the 20th Bundestag is the largest to date, due to Germany's recognition of "overhang" (when a party's share of the nationwide votes would entitle it to fewer seats than the number of individual constituency seats won in an election) and "leveling" (when additional seats are elected to supplement the members directly elected in order to ensure that each party's share of the total seats is roughly proportional to its overall share of votes at the national level)<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Federal Council (Bundesrat)<br>
 _number of seats_: 69 (all appointed)<br>
-_percentage of women in chamber_: 37.7%<br>
+_percentage of women in chamber_: 34.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Court of Justice (court consists of 127 judges, including the court president, vice presidents, presiding judges, other judges and organized into 25 Senates subdivided into 12 civil panels, 5 criminal panels, and 8 special panels); Federal Constitutional Court or Bundesverfassungsgericht (consists of 2 Senates each subdivided into 3 chambers, each with a chairman and 8 members)<br>
@@ -505,8 +505,8 @@ _female_: 5.1% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 11.8% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 3.5% of household expenditures (2022 est.)<br>
+_on food_: 11.6% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 3.1% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9% (2020 est.)<br>
@@ -634,11 +634,11 @@ _Total energy consumption per capita 2022_: 132.263 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 38.58 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 46 (2022 est.)<br>
+_total subscriptions_: 38.8 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 46 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 104.4 million (2022 est.)<br>
+_total subscriptions_: 105 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 125 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -653,11 +653,11 @@ a mixture of publicly operated and privately owned TV and radio stations; 70 nat
 .de<br>
 
 **Internet users**<br>
-_percent of population_: 91% (2021 est.)<br>
+_percent of population_: 92% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 36,215,303 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 43 (2020 est.)<br>
+_total_: 38.4 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 45 (2023 est.)<br>
 
 ## Transportation
 

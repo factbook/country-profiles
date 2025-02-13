@@ -345,7 +345,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 8/24/2022<br>
 _parties elected and seats per party_: Popular Movement for the Liberation of Angola (MPLA) (124); National Union for the Total Independence of Angola (UNITA) (90); Other (6)<br>
-_percentage of women in chamber_: 39.5%<br>
+_percentage of women in chamber_: 39.1%<br>
 _expected date of next election_: August 2027<br>
 
 **Judicial branch**<br>
@@ -480,8 +480,8 @@ _female_: 25.8% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 49.6% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 1.5% of household expenditures (2022 est.)<br>
+_on food_: 50% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 1.4% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.3% (2018 est.)<br>
@@ -602,11 +602,11 @@ _Total energy consumption per capita 2022_: 9.61 million Btu/person (2022 est.)<
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 94,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
+_total subscriptions_: 87,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 23.978 million (2022 est.)<br>
+_total subscriptions_: 25.7 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 67 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -621,11 +621,11 @@ State-owned media dominate the media landscape, the many privately owned newspap
 .ao<br>
 
 **Internet users**<br>
-_percent of population_: 33% (2021 est.)<br>
+_percent of population_: 39% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 230,610 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.7 (2020 est.)<br>
+_total_: 137,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 ## Transportation
 

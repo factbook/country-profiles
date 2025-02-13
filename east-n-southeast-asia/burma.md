@@ -316,7 +316,7 @@ military regime<br>
 _name_: Rangoon (aka Yangon, continues to be recognized as the primary Burmese capital by the US Government); Nay Pyi Taw is the administrative capital<br>
 _geographic coordinates_: 16 48 N, 96 10 E<br>
 _time difference_: UTC+6.5 (11.5 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: Rangoon/Yangon derives from the Burmese words <em>yan</em> and <em>koun</em>, commonly translated as "end of strife"; Nay Pyi Taw translates as "Abode of Kings"<br>
+_etymology_: Rangoon/Yangon derives from the Burmese words <em>yan</em> and <em>koun</em>, commonly translated as "end of strife"; Nay Pyi Taw translates as "abode of kings"<br>
 
 **Administrative divisions**<br>
 <p>7 regions (taing-myar, singular - taing), 7 states (pyi ne-myar, singular - pyi ne), 1 union territory</p> <p><strong>regions:</strong> Ayeyarwady (Irrawaddy), Bago, Magway, Mandalay, Sagaing, Tanintharyi, Yangon (Rangoon)</p> <p><strong>states:</strong> Chin, Kachin, Kayah, Karen, Mon, Rakhine, Shan</p> <p><strong>union territory:</strong> Nay Pyi Taw</p><br>
@@ -487,8 +487,8 @@ _female_: 8.9% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 56.4% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 0.6% of household expenditures (2022 est.)<br>
+_on food_: 53.9% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 0.5% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.8% (2017 est.)<br>
@@ -614,11 +614,11 @@ _Total energy consumption per capita 2022_: 9.244 million Btu/person (2022 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 535,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
+_total subscriptions_: 588,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 57.807 million (2022 est.)<br>
+_total subscriptions_: 65.5 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 107 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -636,8 +636,8 @@ government controls all domestic broadcast media; 2 state-controlled TV stations
 _percent of population_: 44% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 688,185 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
+_total_: 1.51 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 
 ## Transportation
 

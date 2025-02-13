@@ -618,11 +618,11 @@ _Total energy consumption per capita 2022_: 1.659 million Btu/person (2022 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 10,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
+_total subscriptions_: 8,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11.002 million (2022 est.)<br>
+_total subscriptions_: 12.8 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 80 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -637,11 +637,11 @@ _international_: country code - 250; international connections employ microwave 
 .rw<br>
 
 **Internet users**<br>
-_percent of population_: 30% (2021 est.)<br>
+_percent of population_: 34% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 17,685 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.1 (2020 est.)<br>
+_total_: 62,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 ## Transportation
 

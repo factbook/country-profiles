@@ -602,11 +602,11 @@ _Total energy consumption per capita 2022_: 57.093 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 475,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 14 (2022 est.)<br>
+_total subscriptions_: 524,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 15 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4.836 million (2022 est.)<br>
+_total subscriptions_: 4.84 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 142 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -621,11 +621,11 @@ following a law passed in 2005, Mongolia's state-run radio and TV provider conve
 .mn<br>
 
 **Internet users**<br>
-_percent of population_: 84% (2021 est.)<br>
+_percent of population_: 84% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 307,166 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 9 (2020 est.)<br>
+_total_: 499,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 15 (2023 est.)<br>
 
 ## Transportation
 

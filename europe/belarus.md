@@ -353,7 +353,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 2/25/2024<br>
 _parties elected and seats per party_: Belaya Rus party (51); Republican Party of Labour and Justice (8); Communist Party of Belarus (7); Non-partisans (40); Other (4)<br>
-_percentage of women in chamber_: 33.6%<br>
+_percentage of women in chamber_: 33.9%<br>
 _expected date of next election_: February 2029<br>
 
 **Legislative branch - upper chamber**<br>
@@ -496,8 +496,8 @@ _female_: 9.8% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 31.7% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 7.7% of household expenditures (2022 est.)<br>
+_on food_: 29.5% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 7.6% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.5% (2020 est.)<br>
@@ -627,11 +627,11 @@ _Total energy consumption per capita 2022_: 99.484 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 4.23 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 44 (2022 est.)<br>
+_total subscriptions_: 4.173 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 46 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11.771 million (2022 est.)<br>
+_total subscriptions_: 11.8 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 123 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -646,11 +646,11 @@ _international_: country code - 375; Belarus is landlocked and therefore a membe
 .by<br>
 
 **Internet users**<br>
-_percent of population_: 87% (2021 est.)<br>
+_percent of population_: 92% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,255,552 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 35 (2020 est.)<br>
+_total_: 3.2 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 35 (2023 est.)<br>
 
 ## Transportation
 

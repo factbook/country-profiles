@@ -329,7 +329,7 @@ _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 11/18/2021<br>
-_percentage of women in chamber_: 7.1%<br>
+_percentage of women in chamber_: 10%<br>
 _expected date of next election_: November 2025<br>
 
 **Judicial branch**<br>
@@ -552,7 +552,7 @@ _Total energy consumption per capita 2022_: 17.949 million Btu/person (2022 est.
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 11,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 10 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 64,000 (2021 est.)<br>
@@ -570,11 +570,11 @@ _international_: country code - 676; landing point for the Tonga Cable and the T
 .to<br>
 
 **Internet users**<br>
-_percent of population_: 67% (2021 est.)<br>
+_percent of population_: 58% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 5,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 5 (2020 est.)<br>
+_total_: 9,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 8 (2022 est.)<br>
 
 ## Transportation
 

@@ -509,11 +509,11 @@ _Total energy consumption per capita 2022_: 76.228 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 739,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 23 (2022 est.)<br>
+_total subscriptions_: 758,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 23 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3.896 million (2022 est.)<br>
+_total subscriptions_: 4.04 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 120 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -528,11 +528,11 @@ more than 30 TV stations operating; cable TV subscription services are available
 .pr<br>
 
 **Internet users**<br>
-_percent of population_: 77.7% (2021 est.)<br>
+_percent of population_: 87% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 671,284 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 24 (2020 est.)<br>
+_total_: 751,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 23 (2023 est.)<br>
 
 ## Transportation
 

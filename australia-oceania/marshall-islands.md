@@ -506,7 +506,7 @@ _electrification - rural areas_: 100%<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 2,000 (2014 est.)<br>
-_subscriptions per 100 inhabitants_: 5 (2014 est.)<br>
+_subscriptions per 100 inhabitants_: 5 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 16,000 (2021 est.)<br>
@@ -524,11 +524,11 @@ no TV broadcast station; a cable network is available on Majuro with programming
 .mh<br>
 
 **Internet users**<br>
-_percent of population_: 38.7% (2021 est.)<br>
+_percent of population_: 73% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
+_total_: 1,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 
 **Communications - note**<br>
 Kwajalein hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are at Cape Canaveral, Florida (US), on Ascension (Saint Helena, Ascension, and Tristan da Cunha), and at Diego Garcia (British Indian Ocean Territory))<br>

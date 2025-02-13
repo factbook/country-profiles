@@ -281,7 +281,7 @@ federal presidential republic<br>
 _name_: Moroni<br>
 _geographic coordinates_: 11 42 S, 43 14 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: Moroni derives from "mroni," which means "at the river" in Shingazidja, the Comorian language spoken on Grande Comore (N'gazidja)<br>
+_etymology_: the name means "at the place of fire," referring to the capital's location below the active volcano Mt. Karthala<br>
 
 **Administrative divisions**<br>
 3 islands; Anjouan (Ndzuwani), Grande Comore (N'gazidja), Moheli (Mwali)<br>
@@ -321,17 +321,16 @@ _election results_: <em><br>2024: </em>AZALI Assoumani reelected president in fi
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_legislature name_: Assembly of the Union (Assemblée de l'Union)<br>
+_legislature name_: Assembly of the Union (Assembl&eacute;e de l'Union)<br>
 _legislative structure_: unicameral<br>
-_number of seats_: 24 (all directly elected)<br>
+_number of seats_: 33 (all directly elected)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 1/19/2020 to 2/23/2020<br>
-_parties elected and seats per party_: Convention for the Renewal of the Comoros (CRC) (20); Orange Party (2); Independents (2)<br>
-_percentage of women in chamber_: 16.7%<br>
-_expected date of next election_: January 2025<br>
-<strong>note:</strong> opposition parties, which had demanded "transparent, free, and democratic" elections, boycotted the 2020 elections<br>
+_most recent election date_: 1/12/2025 to 2/16/2025<br>
+_percentage of women in chamber_: 0%<br>
+_expected date of next election_: January 2030<br>
+note: opposition parties, which claimed there was "gross fraud" during the most recent election, boycotted the elections in 2020 and 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of 7 judges)<br>
@@ -549,11 +548,11 @@ _Total energy consumption per capita 2022_: 6.223 million Btu/person (2022 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
+_total subscriptions_: 9,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 839,000 (2022 est.)<br>
+_total subscriptions_: 934,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 100 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -571,8 +570,8 @@ national state-owned TV station and a TV station run by Anjouan regional governm
 _percent of population_: 27% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,066 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.1 (2020 est.)<br>
+_total_: 3,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 ## Transportation
 

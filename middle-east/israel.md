@@ -342,7 +342,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 11/1/2022<br>
 _parties elected and seats per party_: Likud (32); Yesh Atid (24); Religious Zionism (14); National Unity (12); Shas (11); United Torah Judaism (Yahadut Hatorah) (7); Yisrael Beiteinu (6); Other (14)<br>
-_percentage of women in chamber_: 25%<br>
+_percentage of women in chamber_: 24.2%<br>
 _expected date of next election_: October 2026<br>
 <strong>note 1:</strong> a 3.25% vote threshold is required to gain representation<br><br><strong>note 2:</strong> following the 1 November 2022 election, the Religious Zionism Alliance split into its three constituent parties in the Knesset:  Religious Zionism 7 seats, Jewish Power (Otzma Yehudit) 6, and Noam 1<br>
 
@@ -481,8 +481,8 @@ _female_: 5.9% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 16% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 2.8% of household expenditures (2022 est.)<br>
+_on food_: 15.8% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 2.6% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2% (2021 est.)<br>
@@ -600,11 +600,11 @@ _Total energy consumption per capita 2022_: 113.455 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3.574 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 40 (2022 est.)<br>
+_total subscriptions_: 2.905 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 31 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 13.758 million (2022 est.)<br>
+_total subscriptions_: 13.8 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 152 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -619,11 +619,11 @@ the Israel Broadcasting Corporation (est 2015) broadcasts on&nbsp;3 channels,&nb
 .il<br>
 
 **Internet users**<br>
-_percent of population_: 90% (2021 est.)<br>
+_percent of population_: 92% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,602,079 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 30 (2020 est.)<br>
+_total_: 2.76 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 30 (2023 est.)<br>
 
 ## Transportation
 

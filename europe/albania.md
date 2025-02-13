@@ -607,11 +607,11 @@ _Total energy consumption per capita 2022_: 30.306 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 177,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 6 (2022 est.)<br>
+_total subscriptions_: 173,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 6 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2.782 million (2022 est.)<br>
+_total subscriptions_: 2.61 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 98 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -626,11 +626,11 @@ Albania has more than 65 TV stations, including several that broadcast nationall
 .al<br>
 
 **Internet users**<br>
-_percent of population_: 79% (2021 est.)<br>
+_percent of population_: 83% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 508,937 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 18 (2020 est.)<br>
+_total_: 632,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 22 (2023 est.)<br>
 
 ## Transportation
 

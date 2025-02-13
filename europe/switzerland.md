@@ -392,7 +392,7 @@ _consulate(s) general_: Atlanta, Chicago, New York, San Francisco<br>
 _consulate(s)_: Boston<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Scott C. MILLER (since 11 January 2022) note - also accredited to Liechtenstein<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Bradford BELL (since January 2025) note - also accredited to Liechtenstein<br>
 _embassy_: Sulgeneckstrasse 19, CH-3007 Bern<br>
 _mailing address_: 5110 Bern Place, Washington DC&nbsp; 20521-5110<br>
 _telephone_: [41] (031) 357-70-11<br>
@@ -505,8 +505,8 @@ _female_: 7.7% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 9.3% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 3.5% of household expenditures (2022 est.)<br>
+_on food_: 9% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 3.5% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3% (2020 est.)<br>
@@ -631,11 +631,11 @@ _Total energy consumption per capita 2022_: 101.938 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2.919 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 33 (2022 est.)<br>
+_total subscriptions_: 3.003 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 34 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10.45 million (2022 est.)<br>
+_total subscriptions_: 10.9 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 120 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -650,11 +650,11 @@ _international_: country code - 41; satellite earth stations - 2 Intelsat (Atlan
 .ch<br>
 
 **Internet users**<br>
-_percent of population_: 96% (2021 est.)<br>
+_percent of population_: 97% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4,028,238 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 47 (2020 est.)<br>
+_total_: 4.33 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 49 (2023 est.)<br>
 
 ## Transportation
 

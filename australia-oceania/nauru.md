@@ -461,8 +461,8 @@ _from petroleum and other liquids_: 70,000 metric tonnes of CO2 (2022 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: (2018 est.) 0<br>
-_subscriptions per 100 inhabitants_: (2014 est.) less than 1<br>
+_total subscriptions_: 0 (2019 est.) 0<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 10,000 (2021 est.)<br>
@@ -480,11 +480,11 @@ _international_: country code - 674; satellite earth station - 1 Intelsat (Pacif
 .nr<br>
 
 **Internet users**<br>
-_percent of population_: 84% (2021 est.)<br>
+_percent of population_: 83% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 950 (2010 est.)<br>
-_subscriptions per 100 inhabitants_: 10 (2010 est.)<br>
+_total_: 1,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 10 (2022 est.)<br>
 
 ## Transportation
 

@@ -478,11 +478,11 @@ _Total energy consumption per capita 2022_: 69.034 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 92,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2022 est.)<br>
+_total subscriptions_: 87,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 12 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.213 million (2022 est.)<br>
+_total subscriptions_: 1.37 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 175 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -497,11 +497,11 @@ local government dominates broadcast media; 2 television stations operated by th
 .mo<br>
 
 **Internet users**<br>
-_percent of population_: 88% (2021 est.)<br>
+_percent of population_: 90% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 208,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 32 (2020 est.)<br>
+_total_: 212,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 30 (2023 est.)<br>
 
 ## Transportation
 

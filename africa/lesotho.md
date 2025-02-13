@@ -602,11 +602,11 @@ _Total energy consumption per capita 2022_: 5.975 million Btu/person (2022 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
+_total subscriptions_: 7,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.557 million (2022 est.)<br>
+_total subscriptions_: 1.6 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 68 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -621,11 +621,11 @@ _international_: country code - 266; Internet accessibility has improved with se
 .ls<br>
 
 **Internet users**<br>
-_percent of population_: 48% (2021 est.)<br>
+_percent of population_: 47% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 5,060 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.2 (2020 est.)<br>
+_total_: 9,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 ## Transportation
 

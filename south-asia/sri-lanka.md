@@ -342,7 +342,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 11/14/2024<br>
 _parties elected and seats per party_: National People's Power (Jathika Jana Balawegaya, NPP) (159); Samagi Jana Balawegaya (SJB) (40); Other (26)<br>
-_percentage of women in chamber_: 10%<br>
+_percentage of women in chamber_: 9.8%<br>
 _expected date of next election_: November 2029<br>
 
 **Judicial branch**<br>
@@ -478,8 +478,8 @@ _female_: 33.9% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 26.8% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 3.4% of household expenditures (2022 est.)<br>
+_on food_: 27.1% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 3.4% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.1% (2019 est.)<br>
@@ -593,11 +593,11 @@ _Total energy consumption per capita 2022_: 14.449 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2.582 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 12 (2022 est.)<br>
+_total subscriptions_: 1.707 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 7 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 31.237 million (2022 est.)<br>
+_total subscriptions_: 30 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 143 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -612,11 +612,11 @@ government operates 5 TV channels and 19 radio channels; multi-channel satellite
 .lk<br>
 
 **Internet users**<br>
-_percent of population_: 67% (2021 est.)<br>
+_percent of population_: 50% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,781,530 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 8 (2020 est.)<br>
+_total_: 2.01 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 9 (2023 est.)<br>
 
 ## Transportation
 

@@ -422,7 +422,7 @@ _from petroleum and other liquids_: 2.272 million metric tonnes of CO2 (2022 est
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 76,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 76 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 88 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 80,000 (2021 est.)<br>
@@ -440,7 +440,11 @@ about a dozen TV broadcast stations including 1 public TV station; multi-channel
 .vi<br>
 
 **Internet users**<br>
-_percent of population_: 64.8% (2022 est.)<br>
+_percent of population_: 64% (2017 est.)<br>
+
+**Broadband - fixed subscriptions**<br>
+_total_: 9,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 10 (2022 est.)<br>
 
 ## Transportation
 

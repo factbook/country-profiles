@@ -370,7 +370,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 10/28/2020<br>
 _parties elected and seats per party_: Revolutionary Party of Tanzania (CCM) (350); Chadema (Party for Democracy and Development) (20); Other (7)<br>
-_percentage of women in chamber_: 37.4%<br>
+_percentage of women in chamber_: 37.8%<br>
 _expected date of next election_: October 2025<br>
 
 **Judicial branch**<br>
@@ -392,7 +392,7 @@ _FAX_: [1] (202) 797-7408<br>
 _email address and website_: <br>ubalozi@tanzaniaembassy-us.org<br><br>https://us.tzembassy.go.tz/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Michael A. BATTLE Sr. (since 27 February 2023)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Andrew LENTZ (since January 2025)<br>
 _embassy_: 686 Old Bagamoyo Road, Msasani, P.O. Box 9123, Dar es Salaam<br>
 _mailing address_: 2140 Dar es Salaam Place, Washington, DC&nbsp; 20521-2140<br>
 _telephone_: [255] (22) 229-4000<br>
@@ -502,8 +502,8 @@ _female_: 4.4% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 27.9% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 1.6% of household expenditures (2022 est.)<br>
+_on food_: 26.2% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 1.3% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9% (2018 est.)<br>
@@ -626,11 +626,11 @@ _Total energy consumption per capita 2022_: 3.221 million Btu/person (2022 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 85,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
+_total subscriptions_: 76,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 60.192 million (2022 est.)<br>
+_total subscriptions_: 70.2 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 92 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -645,11 +645,11 @@ according to statistics from the Tanzania Communications Regulatory Authority (T
 .tz<br>
 
 **Internet users**<br>
-_percent of population_: 32% (2021 est.)<br>
+_percent of population_: 32% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,135,608 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
+_total_: 1.66 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
 
 ## Transportation
 

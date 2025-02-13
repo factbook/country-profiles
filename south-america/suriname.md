@@ -570,11 +570,11 @@ _Total energy consumption per capita 2022_: 55.101 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 108,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 18 (2022 est.)<br>
+_total subscriptions_: 129,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 20 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 929,000 (2022 est.)<br>
+_total subscriptions_: 989,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 150 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -589,11 +589,11 @@ _international_: country code - 597; landing point for the SG-SCS submarine cabl
 .sr<br>
 
 **Internet users**<br>
-_percent of population_: 66% (2021 est.)<br>
+_percent of population_: 76% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 92,270 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 16 (2020 est.)<br>
+_total_: 125,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 20 (2022 est.)<br>
 
 ## Transportation
 

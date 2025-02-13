@@ -284,7 +284,7 @@ absolute monarchy or sultanate<br>
 _name_: Bandar Seri Begawan<br>
 _geographic coordinates_: 4 53 N, 114 56 E<br>
 _time difference_: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named in 1970 after Sultan Omar Ali SAIFUDDIEN III (1914-1986) who adopted the title of "Seri Begawan" (approximate meaning "honored lord") upon his abdication in 1967; "bandar" means "city" in Malay; the capital had previously been called Bandar Brunei (Brunei City)<br>
+_etymology_: named in 1970 after Sultan Omar Ali SAIFUDDIEN III (1914-1986), who adopted the title of "Seri Begawan" (approximate meaning "honored lord") when he abdicated in 1967; "bandar" means "city" in Malay; the capital had previously been called Bandar Brunei (Brunei City)<br>
 
 **Administrative divisions**<br>
 4 districts (daerah-daerah, singular - daerah); Belait, Brunei dan Muara, Temburong, Tutong<br>
@@ -550,11 +550,11 @@ _Total energy consumption per capita 2022_: 466.111 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 122,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 27 (2022 est.)<br>
+_total subscriptions_: 122,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 26 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 529,000 (2022 est.)<br>
+_total subscriptions_: 541,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 118 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -569,11 +569,11 @@ state-controlled Radio Television Brunei (RTB) operates 5 channels; 3 Malaysian 
 .bn<br>
 
 **Internet users**<br>
-_percent of population_: 98% (2021 est.)<br>
+_percent of population_: 99% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 71,078 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 16 (2020 est.)<br>
+_total_: 93,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 20 (2023 est.)<br>
 
 ## Transportation
 

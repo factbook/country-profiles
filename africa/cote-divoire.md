@@ -308,7 +308,7 @@ presidential republic<br>
 _name_: Yamoussoukro (legislative capital), Abidjan (administrative and economic capital); note - the US Embassy is in Abidjan<br>
 _geographic coordinates_: 6 49 N, 5 16 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: formerly a village named N'Gokro, Yamoussoukro is named after Queen YAMOUSSOU, who ruled during the early 20th century; Abidjan's name supposedly comes from a misunderstanding; tradition states that an old man carrying branches met a European explorer who asked for the name of the nearest village; the man, not understanding and terrified by this unexpected encounter, fled shouting "min-chan m&rsquo;bidjan," which in the Ebrie language means: "I return from cutting leaves"; the explorer, thinking that his question had been answered, recorded the name of the locale as Abidjan; a different version has the first colonists asking native women the name of the place and getting a similar response<br>
+_etymology_: formerly a village named N'Gokro, Yamoussoukro is named after Queen YAMOUSSOU, who ruled during the early 20th century; Abidjan's name may have come from a misunderstanding when a French explorer asked a group of women the name of the village -- thinking it was a question about what they were doing, they replied "t'chan m&rsquo;bi djan," which in the Ebrie language means "I return from cutting leaves," so the explorer recorded the name of the locale as Abidjan<br>
 
 **Administrative divisions**<br>
 12 districts and 2 autonomous districts*; Abidjan*, Bas-Sassandra, Comoe, Denguele, Goh-Djiboua, Lacs, Lagunes, Montagnes, Sassandra-Marahoue, Savanes, Vallee du Bandama, Woroba, Yamoussoukro*, Zanzan<br>
@@ -367,7 +367,7 @@ _number of seats_: 99 (66 indirectly elected; 33 appointed)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 9/16/2023<br>
-_percentage of women in chamber_: 24.7%<br>
+_percentage of women in chamber_: 24.5%<br>
 _expected date of next election_: September 2028<br>
 
 **Judicial branch**<br>
@@ -501,8 +501,8 @@ _female_: 4.9% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 38.2% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 3.2% of household expenditures (2022 est.)<br>
+_on food_: 37.7% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 3.2% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.1% (2021 est.)<br>
@@ -622,11 +622,11 @@ _Total energy consumption per capita 2022_: 7.733 million Btu/person (2022 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 263,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
+_total subscriptions_: 244,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 49.006 million (2022 est.)<br>
+_total subscriptions_: 53.6 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 174 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -641,11 +641,11 @@ state-controlled Radiodiffusion Television Ivoirieinne (RTI) is made up of 2 rad
 .ci<br>
 
 **Internet users**<br>
-_percent of population_: 45% (2021 est.)<br>
+_percent of population_: 38% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 260,097 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
+_total_: 425,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2023 est.)<br>
 
 ## Transportation
 

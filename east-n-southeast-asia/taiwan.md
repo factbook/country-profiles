@@ -301,7 +301,7 @@ _Taipei Economic and Cultural Offices (branch offices)_: Atlanta, Boston, Chicag
 <strong>Note</strong>:  commercial and cultural relations with its citizens in the US are maintained through an unofficial instrumentality, the Taipei Economic and Cultural Representative Office in the United States (TECRO), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts, represented by Ambassador Alexander YUI (since 11 December 2023); office: 4201 Wisconsin Avenue NW, Washington, DC 20016; telephone: [1] (202) 895-1800; fax: [1] (202) 363-0999<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: the US does not have an embassy in Taiwan; commercial and cultural relations with the people of Taiwan are maintained through an unofficial instrumentality, the American Institute in Taiwan (AIT), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts; it is managed by Director Sandra OUDKIRK (since July 2021)<br>
+_chief of mission_: the US does not have an embassy in Taiwan; commercial and cultural relations with the people of Taiwan are maintained through an unofficial instrumentality, the American Institute in Taiwan (AIT), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts; it is managed by Director Raymond F. GREENE (since 8 July 2024)<br>
 _mailing address_: 4170 AIT Taipei Place, Washington DC&nbsp; 20521-4170<br>
 _telephone_: [886] 2-2162-2000<br>
 _FAX_: [886] 2-2162-2251<br>
@@ -391,8 +391,8 @@ electronics, communications and information technology products, petroleum refin
 33.6 (2014)<br>
 
 **Average household expenditures**<br>
-_on food_: 14.2% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 2.4% of household expenditures (2022 est.)<br>
+_on food_: 13.8% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 2.5% of household expenditures (2023 est.)<br>
 
 **Budget**<br>
 _revenues_: $94.943 billion (2019 est.)<br>

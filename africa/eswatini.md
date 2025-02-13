@@ -584,11 +584,11 @@ _Total energy consumption per capita 2022_: 17.642 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 38,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
+_total subscriptions_: 42,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.468 million (2022 est.)<br>
+_total subscriptions_: 1.52 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 122 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -603,11 +603,11 @@ _international_: country code - 268; satellite earth station - 1 Intelsat (Atlan
 .sz<br>
 
 **Internet users**<br>
-_percent of population_: 59% (2021 est.)<br>
+_percent of population_: 58% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 12,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
+_total_: 34,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 
 ## Transportation
 

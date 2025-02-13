@@ -365,7 +365,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 2/14/2024<br>
 _parties elected and seats per party_: Indonesian Democratic Party - Struggle (PDI-P) (110); Party of Functional Groups (Golkar) (102); Great Indonesia Movement (Gerindra) (86); National Democratic Party (NasDem) (69); National Awakening Party (PKB) (68); Prosperous Justice Party (PKS) (53); National Mandate Party (PAN) (48); Democratic Party (PD) (44)<br>
-_percentage of women in chamber_: 21%<br>
+_percentage of women in chamber_: 21.9%<br>
 _expected date of next election_: April 2029<br>
 
 **Judicial branch**<br>
@@ -503,8 +503,8 @@ _female_: 13.6% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 33.7% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 7.4% of household expenditures (2022 est.)<br>
+_on food_: 33.5% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 7.3% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.3% (2023 est.)<br>
@@ -632,11 +632,11 @@ _Total energy consumption per capita 2022_: 33.039 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 8.424 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
+_total subscriptions_: 9.16 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 316.553 million (2022 est.)<br>
+_total subscriptions_: 352 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 115 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -651,11 +651,11 @@ mixture of about a dozen national TV networks -&nbsp;1 public broadcaster, the r
 .id<br>
 
 **Internet users**<br>
-_percent of population_: 62% (2021 est.)<br>
+_percent of population_: 69% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 11,722,218 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 4 (2020 est.)<br>
+_total_: 13.5 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 5 (2023 est.)<br>
 
 ## Transportation
 

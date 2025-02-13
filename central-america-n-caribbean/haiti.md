@@ -582,10 +582,10 @@ _Total energy consumption per capita 2022_: 3.403 million Btu/person (2022 est.)
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 6,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7.319 million (2021 est.)<br>
+_total subscriptions_: 7.32 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 64 (2021 est.)<br>
 
 **Telecommunication systems**<br>
@@ -603,8 +603,8 @@ _international_: country code - 509; landing points for the BDSNi and Fibralink 
 _percent of population_: 39% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 31,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.3 (2020 est.)<br>
+_total_: 35,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 

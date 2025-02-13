@@ -346,6 +346,7 @@ _chief of mission_: Ambassador Ann Marie YASTISHOCK (since 14 March 2024); note 
 _embassy_: BJS Building<br>Commonwealth Avenue<br>Honiara, Solomon Islands<br>
 _telephone_: [677] 23426<br>
 _FAX_: [677] 27429<br>
+_email address and website_: <br>EmbassyHoniara@state.gov<br><br>https://pg.usembassy.gov/<br>
 
 **Flag description**<br>
 divided diagonally by a thin yellow stripe from the lower hoist-side corner; the upper triangle (hoist side) is blue with five white five-pointed stars arranged in an X pattern; the lower triangle is green; blue represents the ocean, green the land, and yellow sunshine; the five stars stand for the five main island groups of the Solomon Islands<br>
@@ -543,7 +544,7 @@ _Total energy consumption per capita 2022_: 6.172 million Btu/person (2022 est.)
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 7,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 1 (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 474,000 (2021 est.)<br>
@@ -561,11 +562,11 @@ Solomon Islands Broadcasting Corporation (SIBC) does not broadcast television; m
 .sb<br>
 
 **Internet users**<br>
-_percent of population_: 36% (2021 est.)<br>
+_percent of population_: 45% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.2 (2020 est.)<br>
+_total_: 1,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 

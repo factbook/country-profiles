@@ -388,7 +388,7 @@ _expected date of next election_: September 2026<br>
 **Legislative branch - upper chamber**<br>
 _chamber name_: Council of the Federation (Soviet Federatsii)<br>
 _number of seats_: 170 (all appointed)<br>
-_percentage of women in chamber_: 18.9%<br>
+_percentage of women in chamber_: 18.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of the Russian Federation (consists of 170 members organized into the Judicial Panel for Civil Affairs, the Judicial Panel for Criminal Affairs, and the Military Panel); Constitutional Court (consists of 11 members, including the chairperson and deputy); note - in February 2014, Russia&rsquo;s Higher Court of Arbitration was abolished and its former authorities transferred to the Supreme Court, which in addition is the country&rsquo;s highest judicial authority for appeals, civil, criminal, administrative, and military cases, and the disciplinary judicial board, which has jurisdiction over economic disputes<br>
@@ -524,8 +524,8 @@ _female_: 13.2% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 28.9% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 7.3% of household expenditures (2022 est.)<br>
+_on food_: 25.3% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 5.9% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.7% (2021 est.)<br>
@@ -663,11 +663,11 @@ _Total energy consumption per capita 2022_: 225.235 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 23.864 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 16 (2021 est.)<br>
+_total subscriptions_: 21.988 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 15 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 245.267 million (2022 est.)<br>
+_total subscriptions_: 245 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 169 (2021 est.)<br>
 
 **Telecommunication systems**<br>
@@ -682,11 +682,11 @@ _international_: country code - 7; landing points for the Far East Submarine Cab
 .ru; note - Russia also has responsibility for a legacy domain ".su" that was allocated to the Soviet Union and is being phased out<br>
 
 **Internet users**<br>
-_percent of population_: 88% (2021 est.)<br>
+_percent of population_: 92% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 33,893,305 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 23 (2020 est.)<br>
+_total_: 35.9 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 25 (2022 est.)<br>
 
 ## Transportation
 

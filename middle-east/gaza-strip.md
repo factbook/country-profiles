@@ -438,12 +438,12 @@ _Total energy consumption per capita 2022_: 15.201 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 458,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 9 (2021 est.)<br>
+_total subscriptions_: 384,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 7 (2023 est.)<br>
 <b>note:</b> entry includes the West Bank and the Gaza Strip<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4.388 million (2022 est.)<br>
+_total subscriptions_: 4.15 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 78 (2021 est.)<br>
 <b>note:</b> entry includes the West Bank and the Gaza Strip<br>
 
@@ -459,12 +459,12 @@ _international_: country code 970 or 972 (2018)<br>
 .ps; <strong>note</strong> - IANA has designated .ps for the Gaza Strip, same as the West Bank<br>
 
 **Internet users**<br>
-_percent of population_: 75% (2020 est.)<br>
+_percent of population_: 87% (2023 est.)<br>
 <strong>note:</strong> includes the West Bank<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 376,911 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 7 (2020 est.)<br>
+_total_: 431,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 8 (2023 est.)<br>
 <strong>note:</strong> includes the West Bank<br>
 
 ## Transportation

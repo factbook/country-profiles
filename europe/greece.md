@@ -340,7 +340,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 6/25/2023<br>
 _parties elected and seats per party_: New Democracy (ND) (158); Coalition of the Radical Left (SYRIZA) (47); Panhellenic Socialist Movement - Movement for Change (PASOK-KINAL) (32); Communist Party (KKE) (21); Other (42)<br>
-_percentage of women in chamber_: 23%<br>
+_percentage of women in chamber_: 23.3%<br>
 _expected date of next election_: June 2027<br>
 <strong>note:</strong> only parties surpassing a 3% vote threshold are entitled to parliamentary seats; parties need 10 seats to become formal parliamentary groups but can retain that status if the party participated in the last election and received the minimum 3% threshold<br>
 
@@ -479,8 +479,8 @@ _female_: 29.5% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 18.8% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 5% of household expenditures (2022 est.)<br>
+_on food_: 16.4% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 4.4% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6% (2021 est.)<br>
@@ -604,11 +604,11 @@ _Total energy consumption per capita 2022_: 94.151 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 4.907 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 47 (2022 est.)<br>
+_total subscriptions_: 4.962 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 48 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11.326 million (2022 est.)<br>
+_total subscriptions_: 11.3 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 109 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -623,11 +623,11 @@ broadcast media dominated by the private sector; roughly 150 private TV channels
 .gr<br>
 
 **Internet users**<br>
-_percent of population_: 78% (2021 est.)<br>
+_percent of population_: 85% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4,257,026 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 41 (2020 est.)<br>
+_total_: 4.48 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 44 (2023 est.)<br>
 
 ## Transportation
 

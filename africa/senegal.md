@@ -359,7 +359,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 11/17/2024<br>
 _parties elected and seats per party_: Pastef Party (130); Coalition Takku Wallu Sénégal (16); Other (19)<br>
-_percentage of women in chamber_: 46.1%<br>
+_percentage of women in chamber_: 41.2%<br>
 _expected date of next election_: November 2029<br>
 
 **Judicial branch**<br>
@@ -605,11 +605,11 @@ _Total energy consumption per capita 2022_: 7.836 million Btu/person (2022 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 297,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
+_total subscriptions_: 399,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 20.855 million (2022 est.)<br>
+_total subscriptions_: 22.4 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 120 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -624,11 +624,11 @@ Senegal&rsquo;s media environment includes over 25 private television stations, 
 .sn<br>
 
 **Internet users**<br>
-_percent of population_: 58% (2021 est.)<br>
+_percent of population_: 60% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 153,813 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
+_total_: 357,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
 
 ## Transportation
 

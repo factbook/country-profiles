@@ -377,7 +377,7 @@ _from consumed natural gas_: 148,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 17,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 53 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 46 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 37,000 (2022 est.)<br>
@@ -395,11 +395,11 @@ Gibraltar Broadcasting Corporation (GBC) provides TV and radio broadcasting serv
 .gi<br>
 
 **Internet users**<br>
-_percent of population_: 94.4% (2021 est.)<br>
+_percent of population_: 94% (2016 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 21,009 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 62 (2020 est.)<br>
+_total_: 23,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 61 (2022 est.)<br>
 
 ## Transportation
 

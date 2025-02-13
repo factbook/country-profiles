@@ -462,8 +462,8 @@ _female_: 22.9% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 13.5% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 0.4% of household expenditures (2022 est.)<br>
+_on food_: 12.2% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 0.3% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8% (2018 est.)<br>
@@ -580,11 +580,11 @@ _Total energy consumption per capita 2022_: 496.365 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2.286 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 24 (2022 est.)<br>
+_total subscriptions_: 2.259 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 21 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 20.036 million (2022 est.)<br>
+_total subscriptions_: 21.2 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 212 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -599,11 +599,11 @@ except for the many organizations now operating in media free zones in Abu Dhabi
 .ae<br>
 
 **Internet users**<br>
-_percent of population_: 100% (2021 est.)<br>
+_percent of population_: 100% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,245,123 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 33 (2020 est.)<br>
+_total_: 3.95 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 37 (2023 est.)<br>
 
 ## Transportation
 

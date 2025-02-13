@@ -467,7 +467,7 @@ _from petroleum and other liquids_: 929,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 139,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 45 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 50 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 328,000 (2022 est.)<br>
@@ -485,11 +485,11 @@ French public overseas broadcaster Reseau Outre-Mer provides 2 TV channels and 1
 .pf<br>
 
 **Internet users**<br>
-_percent of population_: 72.7% (2021 est.)<br>
+_percent of population_: 73% (2017 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 64,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 23 (2020 est.)<br>
+_total_: 78,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 28 (2022 est.)<br>
 
 ## Transportation
 

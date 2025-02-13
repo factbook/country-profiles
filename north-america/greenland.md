@@ -478,7 +478,7 @@ _from petroleum and other liquids_: 562,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 6,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 11 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 9 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 67,000 (2021 est.)<br>
@@ -496,11 +496,11 @@ the Greenland Broadcasting Company provides public radio and TV services through
 .gl<br>
 
 **Internet users**<br>
-_percent of population_: 69.5% (2021 est.)<br>
+_percent of population_: 69% (2017 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 15,649 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 28 (2020 est.)<br>
+_total_: 18,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 32 (2022 est.)<br>
 
 ## Transportation
 

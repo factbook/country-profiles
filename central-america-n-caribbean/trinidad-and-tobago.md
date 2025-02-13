@@ -318,7 +318,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 8/10/2020<br>
 _parties elected and seats per party_: People's National Movement (PNM) (22); United National Congress (UNC) (19)<br>
-_percentage of women in chamber_: 28.6%<br>
+_percentage of women in chamber_: 26.8%<br>
 _expected date of next election_: August 2025<br>
 
 **Legislative branch - upper chamber**<br>
@@ -327,7 +327,7 @@ _number of seats_: 32 (all appointed)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 8/28/2020<br>
-_percentage of women in chamber_: 40.6%<br>
+_percentage of women in chamber_: 32.3%<br>
 _expected date of next election_: August 2025<br>
 
 **Judicial branch**<br>
@@ -350,7 +350,7 @@ _email address and website_: <br>embdcinfo@foreign.gov.tt<br><br>https://foreign
 _consulate(s) general_: Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Candace A. BOND (since 8 December 2022)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Jenifer NEIDHART de ORTIZ (since January 2025)<br>
 _embassy_: 15 Queen's Park West, Port of Spain<br>
 _mailing address_: 3410 Port of Spain Place, Washington DC&nbsp; 20521-3410<br>
 _telephone_: (868) 622-6371<br>
@@ -553,11 +553,11 @@ _from consumed natural gas_: 31.158 million metric tonnes of CO2 (2022 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 326,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 21 (2022 est.)<br>
+_total subscriptions_: 311,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 21 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.999 million (2022 est.)<br>
+_total subscriptions_: 2.02 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 131 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -572,11 +572,11 @@ _international_: country code - 1-868; landing points for the EC Link, ECFS, Sou
 .tt<br>
 
 **Internet users**<br>
-_percent of population_: 79% (2021 est.)<br>
+_percent of population_: 80% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 376,771 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 27 (2020 est.)<br>
+_total_: 404,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 27 (2023 est.)<br>
 
 ## Transportation
 

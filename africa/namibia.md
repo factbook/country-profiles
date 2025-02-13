@@ -357,6 +357,8 @@ _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 11/27/2024 to 11/30/2024<br>
+_parties elected and seats per party_: SWAPO Party (51); Independent Patriots of Change (IPC) (20); Affirmative Repositioning (AR) (6); Landless People's Movement (LPM) (5); Popular Democratic Movement (PDM) (5); Other (9)<br>
+_percentage of women in chamber_: 40.6%<br>
 _expected date of next election_: November 2029<br>
 
 **Legislative branch - upper chamber**<br>
@@ -388,7 +390,7 @@ _FAX_: [1] (202) 986-0443<br>
 _email address and website_: <br>info@namibiaembassyusa.org<br><br>https://namibiaembassyusa.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Randy William BERRY (since 9 February 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Brandon HUDSPETH (since 1 January 2025)<br>
 _embassy_: 38 Metje Street, Klein Windhoek, Windhoek<br>
 _mailing address_: 2540 Windhoek Place, Washington DC&nbsp; 20521-2540<br>
 _telephone_: [264] (61) 202-5000<br>
@@ -613,11 +615,11 @@ _Total energy consumption per capita 2022_: 24.695 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 86,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
+_total subscriptions_: 81,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2.906 million (2022 est.)<br>
+_total subscriptions_: 2.6 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 113 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -632,11 +634,11 @@ _international_: country code - 264;&nbsp;landing points for the ACE and WACS&nb
 .na<br>
 
 **Internet users**<br>
-_percent of population_: 53% (2021 est.)<br>
+_percent of population_: 62% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 71,063 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 3 (2020 est.)<br>
+_total_: 104,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 4 (2023 est.)<br>
 
 ## Transportation
 

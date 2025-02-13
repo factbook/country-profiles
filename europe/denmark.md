@@ -347,7 +347,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 11/1/2022<br>
 _parties elected and seats per party_: Social Democratic Party (50); Liberal Party (Venstre) (23); Moderates (M) (16); Socialist People's Party (SF) (15); Danish Democrats (Æ) (14); Liberal Alliance (14); Conservative People's Party (10); Unity List-Red-Green Alliance (9); Other (24)<br>
-_percentage of women in chamber_: 45.3%<br>
+_percentage of women in chamber_: 43.6%<br>
 _expected date of next election_: October 2026<br>
 
 **Judicial branch**<br>
@@ -483,8 +483,8 @@ _female_: 11.3% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 11.7% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 4% of household expenditures (2022 est.)<br>
+_on food_: 11.9% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 3.5% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.7% (2021 est.)<br>
@@ -605,11 +605,11 @@ _Total energy consumption per capita 2022_: 100.26 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 712,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 12 (2022 est.)<br>
+_total subscriptions_: 755,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7.444 million (2022 est.)<br>
+_total subscriptions_: 7.5 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 127 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -624,11 +624,11 @@ strong public-sector TV presence with state-owned Danmarks Radio (DR) operating 
 .dk<br>
 
 **Internet users**<br>
-_percent of population_: 99% (2021 est.)<br>
+_percent of population_: 99% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,590,282 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 45 (2020 est.)<br>
+_total_: 2.65 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 44 (2023 est.)<br>
 
 ## Transportation
 

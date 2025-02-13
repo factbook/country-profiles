@@ -370,7 +370,7 @@ _embassy_: P.O. Box 699, Kilo 10, Soba, Khartoum<br>
 _mailing address_: 2200 Khartoum Place, Washington DC&nbsp; 20521-2200<br>
 _telephone_: [249] 187-0-22000<br>
 _email address and website_: <br>ACSKhartoum@state.gov<br><br>https://sd.usembassy.gov/<br>
-<strong>note:</strong>  the U.S. Embassy in Khartoum suspended operations on 22 April 2023, and the Department of State ordered the departure of U.S. employees due to the continued threat from armed conflict in Sudan <br>
+<strong>note:</strong>  the U.S. Embassy in Khartoum suspended operations (to include visa, passport, and other routine consular services) on 22 April 2023<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and black with a green isosceles triangle based on the hoist side; colors and design based on the Arab Revolt flag of World War I, but the meanings of the colors are expressed as follows: red signifies the struggle for freedom, white is the color of peace, light, and love, black represents the people of Sudan (in Arabic 'Sudan' means black), green is the color of Islam, agriculture, and prosperity<br>
@@ -587,7 +587,7 @@ _total subscriptions_: 156,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 34.671 million (2022 est.)<br>
+_total subscriptions_: 34.7 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 74 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -602,11 +602,11 @@ Following the establishment of Sudan&rsquo;s transitional government in August 2
 .sd<br>
 
 **Internet users**<br>
-_percent of population_: 28.8% (2021 est.)<br>
+_percent of population_: 29% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 28,782 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.1 (2020 est.)<br>
+_total_: 30,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 

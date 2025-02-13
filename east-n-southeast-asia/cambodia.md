@@ -494,8 +494,8 @@ _female_: 0.9% (2023 est.)<br>
 16.5% (2016 est.)<br>
 
 **Average household expenditures**<br>
-_on food_: 41.4% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 1.9% of household expenditures (2022 est.)<br>
+_on food_: 40.7% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 1.9% of household expenditures (2023 est.)<br>
 
 **Remittances**<br>
 6.57% of GDP (2023 est.)<br>
@@ -608,7 +608,7 @@ _total subscriptions_: 38,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 19.505 million (2022 est.)<br>
+_total subscriptions_: 19.5 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 116 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -623,11 +623,11 @@ mixture of state-owned, joint public-private, and privately owned broadcast medi
 .kh<br>
 
 **Internet users**<br>
-_percent of population_: 60% (2021 est.)<br>
+_percent of population_: 57% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 233,732 (2020 est.) Slowly increase as focus is on mobile internet<br>
-_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
+_total_: 510,000 (2022 est.) Slowly increase as focus is on mobile internet<br>
+_subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
 
 ## Transportation
 

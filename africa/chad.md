@@ -311,7 +311,7 @@ presidential republic<br>
 _name_: N'Djamena<br>
 _geographic coordinates_: 12 06 N, 15 02 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: name taken from the Arab name of a nearby village, Nijamina, meaning "place of rest"<br>
+_etymology_: said to derive its name from a local word meaning "place of rest"<br>
 
 **Administrative divisions**<br>
 23 provinces (provinces, singular - province); Barh-El-Gazel, Batha, Borkou, Chari-Baguirmi, Ennedi-Est, Ennedi-Ouest, Guera, Hadjer-Lamis, Kanem, Lac, Logone Occidental, Logone Oriental, Mandoul, Mayo-Kebbi-Est, Mayo-Kebbi-Ouest, Moyen-Chari, N'Djamena, Ouaddai, Salamat, Sila, Tandjile, Tibesti, Wadi-Fira<br>
@@ -350,15 +350,16 @@ _election results_: <em><br>2024: </em>Mahamat Idriss DÉBY elected president; p
 <strong>note:</strong> on 20 April 2021; President Idriss DÉBY died of injuries sustained following clashes between government forces and insurgents in northern Chad; following his death, Mahamat Idriss DÉBY , his son, took control of the country, established a Transitional Military Council which was dissolved in October 2022, and was elected president by popular vote in May 2024<br>
 
 **Legislative branch**<br>
-_legislature name_: Transitional National Council (Conseil national de transition)<br>
+_legislature name_: Parliament (Parlement)<br>
 _legislative structure_: unicameral<br>
-_number of seats_: 203 (all appointed)<br>
-_electoral system_: proportional representation<br>
+_chamber name_: National Assembly (Conseil national de transition)<br>
+_number of seats_: 188 (all directly elected)<br>
+_electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
-_most recent election date_: 9/24/2021<br>
-_percentage of women in chamber_: 26.1%<br>
-_expected date of next election_: December 2024<br>
-<strong>note:</strong> the Transitional Military Council dissolved the National Assembly in September 2021 and replaced it with the National Transitional Council (CNT) in October 2022; the CNT serves as an interim parliament for the country and is tasked with preparations for elections in late 2024<br>
+_term in office_: 5 years<br>
+_most recent election date_: 12/29/2024<br>
+_percentage of women in chamber_: 34%<br>
+_expected date of next election_: December 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice, 3 chamber presidents, and 12 judges or councilors and divided into 3 chambers); Supreme Council of the Judiciary (consists of the Judiciary president, vice president and 13 members)<br>
@@ -592,7 +593,7 @@ _total subscriptions_: 5,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 12.087 million (2022 est.)<br>
+_total subscriptions_: 12.1 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 68 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -607,7 +608,11 @@ _international_: country code - 235; satellite earth station - 1 Intelsat (Atlan
 .td<br>
 
 **Internet users**<br>
-_percent of population_: 18% (2021 est.)<br>
+_percent of population_: 12% (2022 est.)<br>
+
+**Broadband - fixed subscriptions**<br>
+_total_: 0 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 

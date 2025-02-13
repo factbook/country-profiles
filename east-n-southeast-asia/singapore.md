@@ -339,7 +339,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 7/10/2020<br>
 _parties elected and seats per party_: People's Action Party (PAP) (83); Workers' Party (WPS) (10); Other (2)<br>
-_percentage of women in chamber_: 29.3%<br>
+_percentage of women in chamber_: 29.6%<br>
 _expected date of next election_: July 2025<br>
 
 **Judicial branch**<br>
@@ -364,7 +364,7 @@ _consulate(s) general_: San Francisco<br>
 _consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Jonathan KAPLAN (since December 2021)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Casey K. MACE (since January 2025)<br>
 _embassy_: 27 Napier Road, Singapore 258508<br>
 _mailing address_: 4280 Singapore Place, Washington DC&nbsp; 20521-4280<br>
 _telephone_: [65] 6476-9100<br>
@@ -471,8 +471,8 @@ _female_: 10.4% (2023 est.)<br>
 45.9 (2017)<br>
 
 **Average household expenditures**<br>
-_on food_: 7% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 1.9% of household expenditures (2022 est.)<br>
+_on food_: 7% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 1.7% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.6%<br>
@@ -585,11 +585,11 @@ _Total energy consumption per capita 2022_: 653.844 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.906 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 32 (2022 est.)<br>
+_total subscriptions_: 1.912 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 33 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 9.351 million (2022 est.)<br>
+_total subscriptions_: 9.65 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 156 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -604,11 +604,11 @@ state controls broadcast media;&nbsp;6 domestic TV stations operated by MediaCor
 .sg<br>
 
 **Internet users**<br>
-_percent of population_: 91% (2021 est.)<br>
+_percent of population_: 94% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,509,700 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 26 (2020 est.)<br>
+_total_: 1.57 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 27 (2023 est.)<br>
 
 ## Transportation
 

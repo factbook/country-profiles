@@ -320,7 +320,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 10/13/2022<br>
 _parties elected and seats per party_: Union of Moderate Parties (UMP) (7); Vanua'aku Pati (VP) (7); Leaders Party of Vanuatu (LPV) (5); Reunification Movement for Change (RMC) (5); Graon mo Jastis Pati (Land and Justice Party, GJP) (4); National United Party (NUP) (4); Rural Development Party (RDP) (4); Iauko Group (IG) (3); Other (13)<br>
-_percentage of women in chamber_: 2%<br>
+_percentage of women in chamber_: 1.9%<br>
 _expected date of next election_: January 2025<br>
 
 **Judicial branch**<br>

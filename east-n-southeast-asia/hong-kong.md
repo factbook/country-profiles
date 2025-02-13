@@ -416,8 +416,8 @@ _female_: 9.6% (2023 est.)<br>
 53.9 (2016 est.)<br>
 
 **Average household expenditures**<br>
-_on food_: 11.7% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 0.8% of household expenditures (2022 est.)<br>
+_on food_: 11.5% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 0.7% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8%<br>
@@ -528,11 +528,11 @@ _Total energy consumption per capita 2022_: 167.815 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3.673 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 49 (2022 est.)<br>
+_total subscriptions_: 3.487 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 47 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 21.861 million (2022 est.)<br>
+_total subscriptions_: 23.8 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 292 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -547,11 +547,11 @@ _international_: country code - 852; landing points for the AAE-1, AAG, APCN-2, 
 .hk<br>
 
 **Internet users**<br>
-_percent of population_: 93% (2021 est.)<br>
+_percent of population_: 96% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,885,586 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 39 (2020 est.)<br>
+_total_: 2.97 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 40 (2023 est.)<br>
 
 ## Transportation
 

@@ -344,7 +344,7 @@ _chamber name_: Transitional Senate (Sénat de la transition)<br>
 _number of seats_: 70 (all appointed)<br>
 _scope of elections_: full renewal<br>
 _most recent election date_: 10/6/2023<br>
-_percentage of women in chamber_: 24.3%<br>
+_percentage of women in chamber_: 20.3%<br>
 _expected date of next election_: August 2025<br>
 
 **Judicial branch**<br>
@@ -602,7 +602,7 @@ _total subscriptions_: 43,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2.995 million (2022 est.)<br>
+_total subscriptions_: 3 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 125 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -617,11 +617,11 @@ state owns and operates 2 TV stations and 2 radio broadcast stations; a few priv
 .ga<br>
 
 **Internet users**<br>
-_percent of population_: 72% (2021 est.)<br>
+_percent of population_: 74% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 44,607 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
+_total_: 80,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
 
 ## Transportation
 

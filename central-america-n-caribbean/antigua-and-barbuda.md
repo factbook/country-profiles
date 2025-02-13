@@ -519,7 +519,7 @@ _Total energy consumption per capita 2022_: 114.469 million Btu/person (2022 est
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 27,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 29 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 29 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 184,000 (2021 est.)<br>
@@ -537,11 +537,11 @@ state-controlled Antigua and Barbuda Broadcasting Service (ABS) operates 1 TV st
 .ag<br>
 
 **Internet users**<br>
-_percent of population_: 96% (2021 est.)<br>
+_percent of population_: 91% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 8,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 8 (2020 est.)<br>
+_total_: 10,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2022 est.)<br>
 
 ## Transportation
 

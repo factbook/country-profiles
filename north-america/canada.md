@@ -318,7 +318,7 @@ _geographic coordinates_: 45 25 N, 75 42 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday in November<br>
 _time zone note_: Canada has six time zones<br>
-_etymology_: the city lies on the south bank of the Ottawa River, from which it derives its name; the river name comes from the Algonquin word "adawe" meaning "to trade"&nbsp;<br>
+_etymology_: the city lies on the south bank of the Ottawa River, from which it derives its name; the river name comes from the Algonquin word "adawe" meaning "to trade"<br>
 
 **Administrative divisions**<br>
 10 provinces and 3 territories*; Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories*, Nova Scotia, Nunavut*, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon*<br>
@@ -367,13 +367,13 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 9/20/2021<br>
 _parties elected and seats per party_: Liberal Party (160); Conservative Party (119); Bloc Québécois (BQ) (32); NDP-New Democratic Party (NDP) (25); Other (2)<br>
-_percentage of women in chamber_: 30.7%<br>
+_percentage of women in chamber_: 30.9%<br>
 _expected date of next election_: October 2025<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate<br>
 _number of seats_: 105 (all appointed)<br>
-_percentage of women in chamber_: 52.6%<br>
+_percentage of women in chamber_: 53.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Canada (consists of the chief justice and 8 judges); note - in 1949, Canada abolished all appeals beyond its Supreme Court, which prior to that time, were heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -506,8 +506,8 @@ _female_: 9.8% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 9.5% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 3.7% of household expenditures (2022 est.)<br>
+_on food_: 9.7% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 3.5% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3% (2019 est.)<br>
@@ -638,11 +638,11 @@ _Total energy consumption per capita 2022_: 315.581 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 11.312 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 29 (2022 est.)<br>
+_total subscriptions_: 10.897 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 28 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 35.082 million (2022 est.)<br>
+_total subscriptions_: 36.5 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 91 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -657,11 +657,11 @@ _international_: country code - 1; landing points for the Nunavut Undersea Fiber
 .ca<br>
 
 **Internet users**<br>
-_percent of population_: 93% (2021 est.)<br>
+_percent of population_: 94% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 15,825,813 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 42 (2020 est.)<br>
+_total_: 17 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 43 (2023 est.)<br>
 
 ## Transportation
 

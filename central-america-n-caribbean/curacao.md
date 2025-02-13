@@ -431,11 +431,11 @@ _electrification - total population_: 100% (2022 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 53,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 28 (2021 est.)<br>
+_total subscriptions_: 51,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 27 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 168,000 (2021 est.)<br>
+_total subscriptions_: 172,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 88 (2021 est.)<br>
 
 **Telecommunication systems**<br>
@@ -450,11 +450,11 @@ government-run TeleCuracao operates a TV station and a radio station;&nbsp;2 oth
 <p>.cw</p><br>
 
 **Internet users**<br>
-_percent of population_: 68.1% (2021 est.)<br>
+_percent of population_: 68% (2017 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 55,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 34 (2020 est.)<br>
+_total_: 61,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 33 (2022 est.)<br>
 
 ## Transportation
 

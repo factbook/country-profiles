@@ -602,11 +602,11 @@ _Total energy consumption per capita 2022_: 1.331 million Btu/person (2022 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 9,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
+_total subscriptions_: 5,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 12.269 million (2022 est.)<br>
+_total subscriptions_: 12.9 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 60 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -621,11 +621,11 @@ radio is the main broadcast medium; privately owned Zodiak radio has the widest 
 .mw<br>
 
 **Internet users**<br>
-_percent of population_: 24% (2021 est.)<br>
+_percent of population_: 18% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 12,255 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.1 (2020 est.)<br>
+_total_: 17,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 ## Transportation
 

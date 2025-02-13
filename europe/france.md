@@ -380,7 +380,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 6/30/2024 to 7/7/2024<br>
 _parties elected and seats per party_: New Popular Front (NFP)/UG (178); Ensemble (presidential majority) (150); National Rally (RN) (125); The Republicans (LR) (39); Other (85)<br>
-_percentage of women in chamber_: 36%<br>
+_percentage of women in chamber_: 36.2%<br>
 _expected date of next election_: June 2029<br>
 
 **Legislative branch - upper chamber**<br>
@@ -389,7 +389,7 @@ _number of seats_: 348 (all indirectly elected)<br>
 _scope of elections_: partial renewal<br>
 _term in office_: 6 years<br>
 _most recent election date_: 9/24/2023<br>
-_percentage of women in chamber_: 36.2%<br>
+_percentage of women in chamber_: 37.1%<br>
 _expected date of next election_: September 2026<br>
 <strong>note 1:</strong> of the 348 Senate seats, 328 seats are for metropolitan France, overseas departments, and regions of Guadeloupe, Martinique, French Guiana, Reunion, and Mayotte; the remainder of the seats include 2 for New Caledonia, 2 for French Polynesia, 1 for Saint-Pierre and Miquelon, 1 for Saint-Barthelemy, 1 for Saint-Martin, 1 for Wallis and Futuna, and 12 for French nationals abroad<br><strong><br>note 2:</strong> Senate members are indirectly elected by departmental electoral colleges, using absolute majority vote in two rounds if needed for departments with 1-3 members, and proportional representation vote in departments with 4 or more members<br>
 
@@ -529,8 +529,8 @@ _female_: 16% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 13.6% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 4.1% of household expenditures (2022 est.)<br>
+_on food_: 12.6% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 3.5% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9% (2021 est.)<br>
@@ -663,11 +663,11 @@ _Total energy consumption per capita 2022_: 121.928 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 37.74 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 58 (2022 est.)<br>
+_total subscriptions_: 37.22 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 56 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 76.807 million (2022 est.)<br>
+_total subscriptions_: 77.4 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 119 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -683,11 +683,11 @@ a mix of both publicly operated and privately owned TV stations; state-owned Fra
 metropolitan France - .fr; French Guiana - .gf; Guadeloupe - .gp; Martinique - .mq; Mayotte - .yt; Reunion - .re<br>
 
 **Internet users**<br>
-_percent of population_: 86% (2021 est.)<br>
+_percent of population_: 87% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 30.627 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 47 (2020 est.)<br>
+_total_: 32.3 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 49 (2023 est.)<br>
 
 ## Transportation
 

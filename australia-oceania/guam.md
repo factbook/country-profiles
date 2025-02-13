@@ -448,7 +448,7 @@ _Total energy consumption per capita 2019_: 150.555 million Btu/person (2019 est
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 70,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 41 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 43 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 98,000 (2009 est.)<br>
@@ -466,11 +466,11 @@ about a dozen TV channels, including digital channels; multi-channel cable TV se
 .gu<br>
 
 **Internet users**<br>
-_percent of population_: 80.5% (2021 est.)<br>
+_percent of population_: 81% (2017 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
+_total_: 3,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 
 ## Transportation
 

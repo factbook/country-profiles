@@ -356,7 +356,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 7/21/2019<br>
 _parties elected and seats per party_: Servant of the People (254); Opposition Platform - For Life (43); Fatherland (26); European Solidarity (25); Independents (46); Other (30)<br>
-_percentage of women in chamber_: 21.1%<br>
+_percentage of women in chamber_: 21.2%<br>
 <strong>note 1:</strong> the next legislative election is expected to take place after the Russian-Ukrainian War ends<br><br><strong>note 2:</strong> voting not held in Crimea and parts of two Russian-occupied eastern oblasts leaving 26 seats vacant; although this brings the total to 424 elected members (of 450 potential), article 83 of the constitution mandates that a parliamentary majority consists of 226 seats<br>
 
 **Judicial branch**<br>
@@ -493,8 +493,8 @@ _female_: 20.4% (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 42.7% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 6.9% of household expenditures (2022 est.)<br>
+_on food_: 41.7% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 6.9% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.3% (2020 est.)<br>
@@ -629,11 +629,11 @@ _Total energy consumption per capita 2022_: 53.302 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.739 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 6 (2021 est.)<br>
+_total subscriptions_: 1.434 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 4 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 49.304 million (2022 est.)<br>
+_total subscriptions_: 50.3 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 135 (2021 est.)<br>
 
 **Telecommunication systems**<br>
@@ -651,8 +651,8 @@ Ukraine&rsquo;s media landscape is dominated by oligarch-owned news outlets, whi
 _percent of population_: 79% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 7,769,401 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 19 (2020 est.)<br>
+_total_: 8.07 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 20 (2023 est.)<br>
 
 **Communications - note**<br>
 a sorting code to expeditiously handle large volumes of mail was first set up in Ukraine in the 1930s (then the Ukrainian Soviet Socialist Republic, part of the Soviet Union); the sophisticated, three-part (number-letter-number) postal code system, referred to as an "index," was the world's first postal zip code; the system functioned well and was in use from 1932 to 1939 when it was abruptly discontinued<br>

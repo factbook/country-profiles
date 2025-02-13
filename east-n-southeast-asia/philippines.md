@@ -357,7 +357,7 @@ _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 3 years<br>
 _most recent election date_: 5/9/2022<br>
-_percentage of women in chamber_: 27.3%<br>
+_percentage of women in chamber_: 28%<br>
 _expected date of next election_: May 2025<br>
 
 **Legislative branch - upper chamber**<br>
@@ -368,7 +368,7 @@ _scope of elections_: partial renewal<br>
 _term in office_: 6 years<br>
 _most recent election date_: 5/9/2022<br>
 _parties elected and seats per party_: Nationalist People's Coalition (NPC) (5); Partido Demokratiko Pilipino-Laban (PDP-Laban) (5); Nacionalista Party (NP) (4); Independents (5); Other (5)<br>
-_percentage of women in chamber_: 29.2%<br>
+_percentage of women in chamber_: 30.4%<br>
 _expected date of next election_: May 2025<br>
 
 **Judicial branch**<br>
@@ -504,8 +504,8 @@ _female_: 8.4% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 37.9% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 2% of household expenditures (2022 est.)<br>
+_on food_: 37.3% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 1.9% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.7% (2021 est.)<br>
@@ -631,11 +631,11 @@ _Total energy consumption per capita 2022_: 15.558 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 4.885 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 4 (2022 est.)<br>
+_total subscriptions_: 4.627 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 4 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 166.454 million (2022 est.)<br>
+_total subscriptions_: 135 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 144 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -650,11 +650,11 @@ multiple national private TV and radio networks; multi-channel satellite and cab
 .ph<br>
 
 **Internet users**<br>
-_percent of population_: 53% (2021 est.)<br>
+_percent of population_: 75% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 7,936,574 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 7 (2020 est.)<br>
+_total_: 7.51 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 7 (2023 est.)<br>
 
 ## Transportation
 

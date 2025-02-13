@@ -349,7 +349,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 9/11/2022<br>
 _parties elected and seats per party_: Social Democratic Party (SAP) (107); Sweden Democrats (SD) (73); Moderate Party (M) (68); Left Party (VP) (24); Centre Party (CP) (24); Christian Democrats (KD) (19); Green Party (Mpg) (18); Other (16)<br>
-_percentage of women in chamber_: 46.7%<br>
+_percentage of women in chamber_: 45%<br>
 _expected date of next election_: September 2026<br>
 
 **Judicial branch**<br>
@@ -372,7 +372,7 @@ _email address and website_: <br>ambassaden.washington@gov.se<br><br>https://www
 _consulate(s) general_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Erik D. RAMANATHAN (since 20 January 2022)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Mark EVANS (since January 2025)<br>
 _embassy_: Dag Hammarskjolds Vag 31, SE-115 89 Stockholm<br>
 _mailing address_: 5750 Stockholm Place, Washington, DC&nbsp; 20521-5750<br>
 _telephone_: [46] (08) 783-53-00<br>
@@ -484,8 +484,8 @@ _female_: 21.2% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 12.5% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 3.1% of household expenditures (2022 est.)<br>
+_on food_: 13% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 3.1% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8% (2021 est.)<br>
@@ -613,11 +613,11 @@ _Total energy consumption per capita 2022_: 150.621 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.261 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 12 (2021 est.)<br>
+_total subscriptions_: 898,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 9 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 13.194 million (2022 est.)<br>
+_total subscriptions_: 14.8 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 125 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -632,11 +632,11 @@ publicly owned TV broadcaster operates 2 terrestrial networks plus regional stat
 .se<br>
 
 **Internet users**<br>
-_percent of population_: 88% (2021 est.)<br>
+_percent of population_: 96% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4,179,574 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 41 (2020 est.)<br>
+_total_: 4.3 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 41 (2023 est.)<br>
 
 ## Transportation
 

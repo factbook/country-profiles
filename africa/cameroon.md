@@ -317,6 +317,7 @@ presidential republic<br>
 _name_: Yaounde<br>
 _geographic coordinates_: 3 52 N, 11 31 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
+_etymology_: Germans founded the city in 1888, but the name comes from the native Ewondo people; the meaning of the name is unclear<br>
 
 **Administrative divisions**<br>
 10 regions (regions, singular - region); Adamaoua, Centre, East (Est), Far North (Extreme-Nord), Littoral, North (Nord), North-West (Nord-Ouest), West (Ouest), South (Sud), South-West (Sud-Ouest)<br>
@@ -374,7 +375,7 @@ _number of seats_: 100 (70 indirectly elected; 30 appointed)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 3/12/2023<br>
-_percentage of women in chamber_: 32%<br>
+_percentage of women in chamber_: 33%<br>
 _expected date of next election_: March 2027<br>
 
 **Judicial branch**<br>
@@ -510,8 +511,8 @@ _female_: 7% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 45.2% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 2% of household expenditures (2022 est.)<br>
+_on food_: 45.8% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 2.9% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.1% (2021 est.)<br>
@@ -632,11 +633,11 @@ _Total energy consumption per capita 2022_: 4.656 million Btu/person (2022 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 929,000 (2022 est.)<br>
+_total subscriptions_: 896,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 23.107 million (2022 est.)<br>
+_total subscriptions_: 26.2 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 83 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -651,11 +652,11 @@ government maintains tight control over broadcast media; state-owned Cameroon Ra
 .cm<br>
 
 **Internet users**<br>
-_percent of population_: 46% (2021 est.)<br>
+_percent of population_: 44% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 722,579 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 3 (2020 est.)<br>
+_total_: 603,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 
 ## Transportation
 

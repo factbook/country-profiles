@@ -357,7 +357,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 11/22/2023<br>
 _parties elected and seats per party_: Party for Freedom (PVV) (37); Labour Party (PvdA) (25); People's Party for Freedom and Democracy (VVD) (24); New Social Contract (NSC) (20); Democrats 66 (D66) (9); Other (35)<br>
-_percentage of women in chamber_: 38.7%<br>
+_percentage of women in chamber_: 39.3%<br>
 _expected date of next election_: November 2027<br>
 
 **Legislative branch - upper chamber**<br>
@@ -389,12 +389,12 @@ _email address and website_: <br>was@minbuza.nl<br><br>https://www.netherlandswo
 _consulate(s) general_: Atlanta, Chicago, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Shefali RAZDAN DUGGAL (since 19 October 2022)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Marcus MICHELI (since January 2025)<br>
 _embassy_: John Adams Park 1, 2244 BZ Wassenaar<br>
 _mailing address_: 5780 Amsterdam Place, Washington DC&nbsp; 20521-5780<br>
 _telephone_: [31] (70) 310-2209<br>
 _FAX_: [31] (70) 310-2207<br>
-_email address and website_: AmsterdamUSC@state.gov<br>https://nl.usembassy.gov/<br>
+_email address and website_: <br>AmsterdamUSC@state.gov<br><br>https://nl.usembassy.gov/<br>
 _consulate(s) general_: Amsterdam<br>
 
 **Flag description**<br>
@@ -502,8 +502,8 @@ _female_: 8.5% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 11.8% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 3% of household expenditures (2022 est.)<br>
+_on food_: 11.7% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 3% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.6% (2021 est.)<br>
@@ -633,11 +633,11 @@ _Total energy consumption per capita 2022_: 186.89 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 4.57 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 26 (2022 est.)<br>
+_total subscriptions_: 4.262 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 24 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 20.737 million (2022 est.)<br>
+_total subscriptions_: 21.2 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 118 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -652,11 +652,11 @@ more than 90% of households are connected to cable or satellite TV systems that 
 .nl<br>
 
 **Internet users**<br>
-_percent of population_: 92% (2021 est.)<br>
+_percent of population_: 97% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 7,525,016 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 44 (2020 est.)<br>
+_total_: 7.83 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 43 (2023 est.)<br>
 
 ## Transportation
 

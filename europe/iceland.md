@@ -337,7 +337,7 @@ _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 11/30/2024<br>
-_parties elected and seats per party_: Social Democratic Alliance (SDA) (15); Independence Party (IP) (14); Liberal Reform Party (11); People&rsquo;s Party (10); Center Party (8); Progressive Party (PP) (5)<br>
+_parties elected and seats per party_: Social Democratic Alliance (SDA) (15); Independence Party (IP) (14); Liberal Reform Party (11); People’s Party (10); Center Party (8); Progressive Party (PP) (5)<br>
 _percentage of women in chamber_: 46%<br>
 _expected date of next election_: November 2028<br>
 

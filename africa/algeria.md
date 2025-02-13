@@ -358,7 +358,7 @@ _scope of elections_: partial renewal<br>
 _term in office_: 6 years<br>
 _most recent election date_: 2/5/2022<br>
 _percentage of women in chamber_: 4.1%<br>
-_expected date of next election_: January 2025<br>
+_expected date of next election_: February 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Le Cour Supr&ecirc;me, (consists of 150 judges organized into 8 chambers: Civil, Commercial and Maritime, Criminal, House of Offenses and Contraventions, House of Petitions, Land, Personal Status, and Social; Constitutional Council (consists of 12 members including the court chairman and deputy chairman); note - Algeria's judicial system does not include sharia courts<br>
@@ -482,8 +482,8 @@ _female_: 46% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
-_on food_: 37.1% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 1% of household expenditures (2022 est.)<br>
+_on food_: 37.2% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 1% of household expenditures (2023 est.)<br>
 
 **Remittances**<br>
 0.75% of GDP (2023 est.)<br>
@@ -600,11 +600,11 @@ _Total energy consumption per capita 2022_: 58.473 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5.576 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 12 (2022 est.)<br>
+_total subscriptions_: 6.324 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 14 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 49.019 million (2022 est.)<br>
+_total subscriptions_: 51.5 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 109 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -619,11 +619,11 @@ Radio Algerienne is the state-run radio broadcast, whereas the National Company 
 .dz<br>
 
 **Internet users**<br>
-_percent of population_: 71% (2021 est.)<br>
+_percent of population_: 71% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,790,459 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 9 (2020 est.)<br>
+_total_: 5.54 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 12 (2023 est.)<br>
 
 ## Transportation
 

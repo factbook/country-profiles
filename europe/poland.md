@@ -358,7 +358,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 10/15/2023<br>
 _parties elected and seats per party_: Law and Justice (PiS) (194); Civic Coalition (KO) (157); The Third Way (65); The New Left (Nowa Lewica) (26); Other (18)<br>
-_percentage of women in chamber_: 29.6%<br>
+_percentage of women in chamber_: 31.3%<br>
 _expected date of next election_: October 2027<br>
 
 **Legislative branch - upper chamber**<br>
@@ -392,7 +392,7 @@ _email address and website_: <br>washington.amb.sekretariat@msz.gov.pl<br><br>ht
 _consulate(s) general_: Chicago, Houston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Mark BRZEZINSKI (since 19 January 2022)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Daniel LAWTON (since 20 January 2025)<br>
 _embassy_: Aleje Ujazdowskie 29/31, 00-540 Warsaw<br>
 _mailing address_: 5010 Warsaw Place, Washington, DC 20521-5010<br>
 _telephone_: [48] (22) 504-2000<br>
@@ -506,8 +506,8 @@ _female_: 11.1% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 19.4% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 6.4% of household expenditures (2022 est.)<br>
+_on food_: 18.6% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 6.2% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.4% (2021 est.)<br>
@@ -631,11 +631,11 @@ _Total energy consumption per capita 2022_: 106.196 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5.277 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2022 est.)<br>
+_total subscriptions_: 4.987 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 52.589 million (2022 est.)<br>
+_total subscriptions_: 52.4 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 132 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -650,11 +650,11 @@ state-run public TV operates 2 national channels supplemented by 16 regional cha
 .pl<br>
 
 **Internet users**<br>
-_percent of population_: 85% (2021 est.)<br>
+_percent of population_: 86% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 8,369,218 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 22 (2020 est.)<br>
+_total_: 10.1 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 26 (2023 est.)<br>
 
 ## Transportation
 

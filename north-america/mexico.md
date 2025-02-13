@@ -529,8 +529,8 @@ _female_: 6.7% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 25.7% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 3.6% of household expenditures (2022 est.)<br>
+_on food_: 25.7% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 2.3% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.1% (2022 est.)<br>
@@ -667,11 +667,11 @@ _Total energy consumption per capita 2022_: 59.319 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 27.185 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 21 (2022 est.)<br>
+_total subscriptions_: 25.637 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 20 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 127.872 million (2022 est.)<br>
+_total subscriptions_: 140 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 100 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -686,11 +686,11 @@ telecom reform in 2013 enabled the creation of new broadcast television channels
 .mx<br>
 
 **Internet users**<br>
-_percent of population_: 76% (2021 est.)<br>
+_percent of population_: 81% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 21,936,131 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 17 (2020 est.)<br>
+_total_: 26.6 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 21 (2023 est.)<br>
 
 ## Transportation
 

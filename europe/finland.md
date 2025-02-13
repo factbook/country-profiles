@@ -352,7 +352,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 4/2/2023<br>
 _parties elected and seats per party_: National Coalition Party (KOK) (48); The Finns Party (PS) (46); Social Democratic Party (SDP) (43); Center Party (KESK) (23); The Greens (13); Left Alliance (Vas) (11); Other (16)<br>
-_percentage of women in chamber_: 46%<br>
+_percentage of women in chamber_: 45.5%<br>
 _expected date of next election_: April 2027<br>
 
 **Judicial branch**<br>
@@ -487,8 +487,8 @@ _female_: 15.5% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 11.9% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 5.1% of household expenditures (2022 est.)<br>
+_on food_: 12.3% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 4.4% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.8% (2021 est.)<br>
@@ -614,11 +614,11 @@ _Total energy consumption per capita 2022_: 181.313 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 186,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
+_total subscriptions_: 158,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7.13 million (2022 est.)<br>
+_total subscriptions_: 7.14 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 129 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -634,11 +634,11 @@ a mix of 3 publicly operated TV stations and numerous privately owned TV station
 note - Aland Islands assigned .ax<br>
 
 **Internet users**<br>
-_percent of population_: 93% (2021 est.)<br>
+_percent of population_: 94% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1.846 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 33 (2020 est.)<br>
+_total_: 1.98 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 35 (2023 est.)<br>
 
 ## Transportation
 

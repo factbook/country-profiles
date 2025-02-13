@@ -606,7 +606,7 @@ _total subscriptions_: 48,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5.358 million (2022 est.)<br>
+_total subscriptions_: 5.36 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 113 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -621,11 +621,11 @@ _international_: country code - 222; landing point for the ACE submarine cable f
 .mr<br>
 
 **Internet users**<br>
-_percent of population_: 59% (2021 est.)<br>
+_percent of population_: 44% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 18,457 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.4 (2020 est.)<br>
+_total_: 14,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 

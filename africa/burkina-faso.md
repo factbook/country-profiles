@@ -304,7 +304,7 @@ presidential republic<br>
 _name_: Ouagadougou<br>
 _geographic coordinates_: 12 22 N, 1 31 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: Ouagadougou is a Francophone spelling of the native name "Wogodogo," meaning "come to honor us"<br>
+_etymology_: Ouagadougou is a Francophone spelling of the native name "Wogodogo," which may come from the personal name "Waga" or "Woga" and the Dyula word "dugu," meaning "village"<br>
 
 **Administrative divisions**<br>
 13 regions; Boucle du Mouhoun, Cascades, Centre, Centre-Est, Centre-Nord, Centre-Ouest, Centre-Sud, Est, Hauts-Bassins, Nord, Plateau-Central, Sahel, Sud-Ouest<br>
@@ -593,10 +593,10 @@ _Total energy consumption per capita 2022_: 3.419 million Btu/person (2022 est.)
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 81,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 24.678 million (2021 est.)<br>
+_total subscriptions_: 24.7 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 112 (2021 est.)<br>
 
 **Telecommunication systems**<br>
@@ -611,11 +611,11 @@ since the official inauguration of Terrestrial Digital Television (TNT) in Decem
 .bf<br>
 
 **Internet users**<br>
-_percent of population_: 22% (2021 est.)<br>
+_percent of population_: 20% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 13,979 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.1 (2020 est.)<br>
+_total_: 15,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 

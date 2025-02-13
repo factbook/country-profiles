@@ -309,6 +309,7 @@ presidential republic<br>
 _name_: Gitega (political capital), Bujumbura (commercial capital)<br>
 _geographic coordinates_: 3 25 S, 29 55 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
+_etymology_: the origin of the name Bujumbura is unclear, but "bu-" is a Bantu prefix meaning "place"<br>
 <strong>note:</strong> in January 2019, the Burundian parliament voted to make Gitega the political capital of the country while Bujumbura would remain its economic capital; as of 2023, the government's move to Gitega remains incomplete<br>
 
 **Administrative divisions**<br>
@@ -599,11 +600,11 @@ _Total energy consumption per capita 2022_: 961,000 Btu/person (2022 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 15,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
+_total subscriptions_: 14,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7.471 million (2022 est.)<br>
+_total subscriptions_: 8.65 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 58 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -618,11 +619,11 @@ state-controlled Radio Television Nationale de Burundi (RTNB) operates a TV stat
 .bi<br>
 
 **Internet users**<br>
-_percent of population_: 5.8% (2021 est.)<br>
+_percent of population_: 11% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4,230 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.04 (2020 est.)<br>
+_total_: 3,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 ## Transportation
 

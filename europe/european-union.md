@@ -431,11 +431,11 @@ note - see individual country entries of member states<br>
 .eu; note - see country entries of member states for individual country codes<br>
 
 **Internet users**<br>
-_percent of population_: 87% (2021 est.)<br>
+_percent of population_: 90% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 163,772,540 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 37 (2020 est.)<br>
+_total_: 172.888 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 39 (2022 est.)<br>
 
 ## Transportation
 

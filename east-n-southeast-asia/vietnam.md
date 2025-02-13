@@ -354,7 +354,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 5/23/2021<br>
 _parties elected and seats per party_: Communist Party (485); Other (14)<br>
-_percentage of women in chamber_: 30.6%<br>
+_percentage of women in chamber_: 31.4%<br>
 _expected date of next election_: May 2026<br>
 
 **Judicial branch**<br>
@@ -492,8 +492,8 @@ _female_: 5.9% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 31.1% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 2.1% of household expenditures (2022 est.)<br>
+_on food_: 34.9% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 1.9% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6% (2022 est.)<br>
@@ -617,11 +617,11 @@ _Total energy consumption per capita 2022_: 39.117 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2.391 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
+_total subscriptions_: 2.316 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 137.412 million (2022 est.)<br>
+_total subscriptions_: 131 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 140 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -636,11 +636,11 @@ government controls all broadcast media exercising oversight through the Ministr
 .vn<br>
 
 **Internet users**<br>
-_percent of population_: 74% (2021 est.)<br>
+_percent of population_: 78% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 16,699,249 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 17 (2020 est.)<br>
+_total_: 22.8 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 23 (2023 est.)<br>
 
 ## Transportation
 

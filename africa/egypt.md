@@ -512,8 +512,8 @@ _female_: 49.2% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 37.1% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 4.6% of household expenditures (2022 est.)<br>
+_on food_: 36.9% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 4.6% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.8% (2019 est.)<br>
@@ -644,11 +644,11 @@ _Total energy consumption per capita 2022_: 36.463 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 11.6 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 10 (2022 est.)<br>
+_total subscriptions_: 12.475 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 103.45 million (2022 est.)<br>
+_total subscriptions_: 106 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 93 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -663,11 +663,11 @@ mix of state-run and private broadcast media; state-run TV operates 2 national a
 .eg<br>
 
 **Internet users**<br>
-_percent of population_: 72% (2021 est.)<br>
+_percent of population_: 72% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 9,349,469 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 9 (2020 est.)<br>
+_total_: 13.6 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 12 (2023 est.)<br>
 
 **Communications - note**<br>
 one of the largest and most famous libraries in the ancient world was the Great Library of Alexandria in Egypt (founded about 295 B.C., it may have survived in some form into the 5th century A.D.); seeking to resurrect the great center of learning and communication, the Egyptian Government in 2002 inaugurated the Bibliotheca Alexandrina, an Egyptian National Library on the site of the original Great Library, which commemorates the original archive and also serves as a center of cultural and scientific excellence<br>

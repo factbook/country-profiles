@@ -349,7 +349,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 6/9/2024<br>
 _parties elected and seats per party_: New Flemish Alliance (N-VA) (24); Vlaams Belang (Flemish Interest) (20); Movement for Reform (MR) (20); Socialist Party in Wallonia (PS) (16); Workers' Party of Belgium (PTB*PVDA) (15); LES ENGAGÉS (14); Vooruit (13); Christian Democratic and Flemish (CD&V) (11); Other (17)<br>
-_percentage of women in chamber_: 41.3%<br>
+_percentage of women in chamber_: 39.3%<br>
 _expected date of next election_: June 2029<br>
 
 **Legislative branch - upper chamber**<br>
@@ -493,8 +493,8 @@ _female_: 14.1% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 13.5% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 3.9% of household expenditures (2022 est.)<br>
+_on food_: 12.2% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 4% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.6% (2021 est.)<br>
@@ -623,11 +623,11 @@ _Total energy consumption per capita 2022_: 205.444 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2.953 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 25 (2022 est.)<br>
+_total subscriptions_: 2.667 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 23 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11.874 million (2022 est.)<br>
+_total subscriptions_: 12.1 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 102 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -642,11 +642,11 @@ a segmented market with the three major communities (Flemish, French, and German
 .be<br>
 
 **Internet users**<br>
-_percent of population_: 91% (2021 est.)<br>
+_percent of population_: 95% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4,734,210 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 41 (2020 est.)<br>
+_total_: 5.12 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 44 (2023 est.)<br>
 
 ## Transportation
 

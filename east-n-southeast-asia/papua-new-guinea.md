@@ -579,10 +579,10 @@ _Total energy consumption per capita 2022_: 6.565 million Btu/person (2022 est.)
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 166,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4.818 million (2021 est.)<br>
+_total subscriptions_: 4.82 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 48 (2021 est.)<br>
 
 **Telecommunication systems**<br>
@@ -597,11 +597,11 @@ _international_: country code - 675; landing points for the Kumul Domestic Subma
 .pg<br>
 
 **Internet users**<br>
-_percent of population_: 32% (2021 est.)<br>
+_percent of population_: 27% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 21,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.2 (2020 est.)<br>
+_total_: 22,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 

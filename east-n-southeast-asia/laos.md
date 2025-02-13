@@ -481,8 +481,8 @@ _female_: 2.1% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 50.5% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 10.8% of household expenditures (2022 est.)<br>
+_on food_: 50.5% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 7.8% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3% (2018 est.)<br>
@@ -597,10 +597,10 @@ _Total energy consumption per capita 2022_: 29.176 million Btu/person (2022 est.
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 1.3 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 18 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 18 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4.823 million (2021 est.)<br>
+_total subscriptions_: 4.82 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 65 (2021 est.)<br>
 
 **Telecommunication systems**<br>
@@ -615,11 +615,11 @@ _international_: country code - 856; satellite earth station - 1 Intersputnik (I
 .la<br>
 
 **Internet users**<br>
-_percent of population_: 62% (2021 est.)<br>
+_percent of population_: 66% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 128,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
+_total_: 183,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 
 ## Transportation
 

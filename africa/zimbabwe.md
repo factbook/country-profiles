@@ -363,7 +363,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 8/23/2023<br>
 _parties elected and seats per party_: ZANU-PF (175); Citizens Coalition for Change (CCC) (104)<br>
-_percentage of women in chamber_: 28.1%<br>
+_percentage of women in chamber_: 30.1%<br>
 _expected date of next election_: August 2028<br>
 <strong>note:</strong> 60 seats are reserved for women and 10 additional seats are reserved for candidates aged 21 - 35<br>
 
@@ -375,7 +375,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 8/23/2023<br>
 _parties elected and seats per party_: ZANU-PF (33); Citizens Coalition for Change (CCC) (27)<br>
-_percentage of women in chamber_: 49.3%<br>
+_percentage of women in chamber_: 44.3%<br>
 _expected date of next election_: August 2028<br>
 <strong>note:</strong> 18 seats are reserved for the National Council Chiefs, and 2 reserved for members with disabilities<br>
 
@@ -619,11 +619,11 @@ _Total energy consumption per capita 2022_: 11.726 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 291,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
+_total subscriptions_: 310,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 14.301 million (2022 est.)<br>
+_total subscriptions_: 15 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 88 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -638,11 +638,11 @@ government owns all local radio and TV stations; foreign shortwave broadcasts an
 .zw<br>
 
 **Internet users**<br>
-_percent of population_: 35% (2021 est.)<br>
+_percent of population_: 33% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 203,461 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
+_total_: 269,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
 
 ## Transportation
 

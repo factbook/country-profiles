@@ -345,7 +345,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 6/20/2021<br>
 _parties elected and seats per party_: Civil Contract Party (71); Armenia Alliance (29); I Have the Honour Alliance (7)<br>
-_percentage of women in chamber_: 36.4%<br>
+_percentage of women in chamber_: 38.3%<br>
 _expected date of next election_: June 2026<br>
 <strong>note 1:</strong> additional seats allocated as necessary; the numbers usually change with each parliamentary convocation<br><br><strong>note 2:</strong> four mandates are reserved for national minorities; no more than 70% of the top membership of a party list can belong to the same sex; political parties must meet a 5% threshold and alliances a 7% threshold to win seats; at least three parties must be seated in the Parliament<br>
 
@@ -605,11 +605,11 @@ _Total energy consumption per capita 2022_: 60.957 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 366,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2022 est.)<br>
+_total subscriptions_: 331,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3.761 million (2022 est.)<br>
+_total subscriptions_: 3.96 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 135 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -624,11 +624,11 @@ _international_: country code - 374; Yerevan is connected to the&nbsp;Caucasus C
 .am<br>
 
 **Internet users**<br>
-_percent of population_: 79% (2021 est.)<br>
+_percent of population_: 77% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 430,407 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 15 (2020 est.)<br>
+_total_: 546,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 19 (2023 est.)<br>
 
 ## Transportation
 

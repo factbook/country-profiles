@@ -324,8 +324,7 @@ _chief of state_: President Michael D. HIGGINS (since 11 November 2011)<br>
 _head of government_: Taoiseach (Prime Minister) Michael MARTIN (since 23 January 2025)<br>
 _cabinet_: Cabinet nominated by the prime minister, appointed by the president, approved by the Dali Eireann (lower house of Parliament)<br>
 _elections/appointments_: president directly elected by majority popular vote for a 7-year term (eligible for a second term); election last held on 26 October 2018 (next to be held no later than November 2025); taoiseach (prime minister) nominated by the House of Representatives (Dail Eireann), appointed by the president<br>
-_election results_: <em><br>2024: </em>Simon HARRIS is elected taoiseach by parliament, 88 votes to 69, and is appointed taoiseach by the president<em><br><br>2018:</em> Michael D. HIGGINS reelected president in first round; percent of vote in first round - Michael D. HIGGINS (independent) 55.8%, Peter CASEY (independent) 23.3%, Sean GALLAGHER (independent) 6.4%, Liadh NI RIADA (Sinn Fein) 6.4%, Joan FREEMAN (independent) 6%, Gavin DUFFY (independent) 2.2%<br>
-<strong>note:</strong> Taoiseach Leo VARADKAR resigned from the ruling party on 20 March 2024 but remained as the caretaker taoiseach until a successor was appointed on 9 April 2024<br>
+_election results_: <em>2025: </em>Michael MARTIN is elected taoiseach by parliament, 95 votes to 76, and is appointed taoiseach by the president<br><em><br>2024: </em>Simon HARRIS is elected taoiseach by parliament, 88 votes to 69, and is appointed taoiseach by the president<em><br><br>2018:</em> Michael D. HIGGINS reelected president in first round; percent of vote in first round - Michael D. HIGGINS (independent) 55.8%, Peter CASEY (independent) 23.3%, Sean GALLAGHER (independent) 6.4%, Liadh NI RIADA (Sinn Fein) 6.4%, Joan FREEMAN (independent) 6%, Gavin DUFFY (independent) 2.2%<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Oireachtas)<br>
@@ -347,9 +346,9 @@ _chamber name_: Senate (Seanad Éireann - Senate)<br>
 _number of seats_: 60 (49 indirectly elected; 11 appointed)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 3/30/2020 to 3/31/2020<br>
+_most recent election date_: 1/29/2025 to 1/30/2025<br>
 _percentage of women in chamber_: 40%<br>
-_expected date of next election_: March 2025<br>
+_expected date of next election_: January 2030<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Ireland (consists of the chief justice, 9 judges, 2 ex-officio members - the presidents of the High Court and Court of Appeal - and organized in 3-, 5-, or 7-judge panels, depending on the importance or complexity of an issue of law)<br>
@@ -484,8 +483,8 @@ _female_: 10.6% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 8.2% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 5.6% of household expenditures (2022 est.)<br>
+_on food_: 8.6% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 4% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.6% (2021 est.)<br>
@@ -606,11 +605,11 @@ _Total energy consumption per capita 2022_: 118.037 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.498 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 30 (2022 est.)<br>
+_total subscriptions_: 1.176 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 23 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5.69 million (2022 est.)<br>
+_total subscriptions_: 5.76 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 113 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -625,11 +624,11 @@ publicly owned broadcaster Radio Telefis Eireann (RTE) operates&nbsp;4 TV statio
 .ie<br>
 
 **Internet users**<br>
-_percent of population_: 95% (2021 est.)<br>
+_percent of population_: 96% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,516,473 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 31 (2020 est.)<br>
+_total_: 1.65 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 32 (2023 est.)<br>
 
 ## Transportation
 

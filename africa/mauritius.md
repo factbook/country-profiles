@@ -333,7 +333,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 11/10/2024<br>
 _parties elected and seats per party_: Alliance Du Changement (Alliance for Change, AdC) (60); Other (2)<br>
-_percentage of women in chamber_: 19.4%<br>
+_percentage of women in chamber_: 17.9%<br>
 _expected date of next election_: October 2029<br>
 
 **Judicial branch**<br>
@@ -578,11 +578,11 @@ _Total energy consumption per capita 2022_: 54.401 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 462,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 36 (2022 est.)<br>
+_total subscriptions_: 464,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 36 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2.097 million (2022 est.)<br>
+_total subscriptions_: 2.1 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 161 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -597,11 +597,11 @@ the Mauritius Broadcasting Corporation is the national public television and rad
 .mu<br>
 
 **Internet users**<br>
-_percent of population_: 68% (2021 est.)<br>
+_percent of population_: 76% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 323,200 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 25 (2020 est.)<br>
+_total_: 343,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 27 (2023 est.)<br>
 
 ## Transportation
 

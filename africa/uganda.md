@@ -352,7 +352,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 1/14/2021 to 1/18/2021<br>
 _parties elected and seats per party_: National Resistance Movement (NRM) (336); National Unity Platform (NUP) (57); Forum for Democratic Change (FDC) (32); Independents (74); Other (30)<br>
-_percentage of women in chamber_: 33.9%<br>
+_percentage of women in chamber_: 34.1%<br>
 _expected date of next election_: January 2026<br>
 
 **Judicial branch**<br>
@@ -486,8 +486,8 @@ _female_: 5.6% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 44.2% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 0.9% of household expenditures (2022 est.)<br>
+_on food_: 38.6% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 1.5% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.4% (2019 est.)<br>
@@ -607,11 +607,11 @@ _Total energy consumption per capita 2022_: 2.248 million Btu/person (2022 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 117,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
+_total subscriptions_: 116,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 33.068 million (2022 est.)<br>
+_total subscriptions_: 42.1 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 70 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -629,8 +629,8 @@ public broadcaster, Uganda Broadcasting Corporation (UBC), operates radio and TV
 _percent of population_: 10% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 58,594 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.1 (2020 est.)<br>
+_total_: 44,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 ## Transportation
 

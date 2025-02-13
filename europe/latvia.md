@@ -338,7 +338,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 10/1/2022<br>
 _parties elected and seats per party_: New Unity (VIENOTIBA) (26); Union of Farmers and Greens (ZZS) (16); United List - Latvian Green Party, Latvian Regional Alliance, Liepāja Party (15); National Alliance of All for Latvia!" - "For Fatherland and Freedom / LNNK" (NA) (13); For Stability! (11); Progressives (10); Latvia First (9)<br>
-_percentage of women in chamber_: 32%<br>
+_percentage of women in chamber_: 31%<br>
 _expected date of next election_: October 2026<br>
 
 **Judicial branch**<br>
@@ -472,8 +472,8 @@ _female_: 10.3% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 19.1% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 7.4% of household expenditures (2022 est.)<br>
+_on food_: 19.6% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 7.1% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6% (2021 est.)<br>
@@ -590,11 +590,11 @@ _Total energy consumption per capita 2022_: 64.272 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 174,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 9 (2022 est.)<br>
+_total subscriptions_: 142,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 8 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2.167 million (2022 est.)<br>
+_total subscriptions_: 2.26 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 117 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -609,11 +609,11 @@ several national and regional commercial TV stations are foreign-owned, 2 nation
 .lv<br>
 
 **Internet users**<br>
-_percent of population_: 91% (2021 est.)<br>
+_percent of population_: 92% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 490,569 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 26 (2020 est.)<br>
+_total_: 489,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 26 (2023 est.)<br>
 
 ## Transportation
 

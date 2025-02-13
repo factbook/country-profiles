@@ -364,7 +364,7 @@ _email address and website_: <br>saudisusemb@mofa.gov.sa<br><br>https://www.saud
 _consulate(s) general_: Houston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Michael RATNEY (since 27 April 2023)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Alison DILWORTH (since January 2025)<br>
 _embassy_: Riyadh 11564<br>
 _mailing address_: 6300 Riyadh Place, Washington DC&nbsp; 20521-6300<br>
 _telephone_: [966] (11) 835-4000<br>
@@ -470,8 +470,8 @@ _female_: 24.4% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
-_on food_: 20.4% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 0.7% of household expenditures (2022 est.)<br>
+_on food_: 20.5% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 0.7% of household expenditures (2023 est.)<br>
 
 **Remittances**<br>
 0.03% of GDP (2023 est.)<br>
@@ -583,11 +583,11 @@ _Total energy consumption per capita 2022_: 313.903 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 6.773 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 19 (2022 est.)<br>
+_total subscriptions_: 6.788 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 20 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 48.198 million (2022 est.)<br>
+_total subscriptions_: 52.5 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 132 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -602,11 +602,11 @@ broadcast media are state-controlled; state-run TV operates 4 networks; Saudi Ar
 .sa<br>
 
 **Internet users**<br>
-_percent of population_: 100% (2021 est.)<br>
+_percent of population_: 100% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 7,890,261 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 23 (2020 est.)<br>
+_total_: 14.5 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 44 (2023 est.)<br>
 
 **Communications - note**<br>
 the innovative King Abdulaziz Center for World Culture (informally known as Ithra, meaning "enrichment") opened on 1 December 2017 in Dhahran, Eastern Region; its facilities include a grand library, several museums, an archive, an Idea Lab, a theater, a cinema, and an Energy Exhibit, all which are meant to provide visitors an immersive and transformative experience<br>

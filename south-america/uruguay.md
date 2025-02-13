@@ -356,14 +356,14 @@ _legislature name_: General Assembly (Asamblea General)<br>
 _legislative structure_: bicameral<br>
 
 **Legislative branch - lower chamber**<br>
-_chamber name_: House of Representatives (Cámara de Representantes)<br>
+_chamber name_: House of Representatives (C&aacute;mara de Representantes)<br>
 _number of seats_: 99 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 10/27/2024<br>
 _parties elected and seats per party_: Broad Front (FA) (48); National Party (PN) (29); Colorado Party (PC) (17); Other (5)<br>
-_percentage of women in chamber_: 28.3%<br>
+_percentage of women in chamber_: 24.2%<br>
 _expected date of next election_: October 2029<br>
 
 **Legislative branch - upper chamber**<br>
@@ -374,7 +374,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 10/27/2024<br>
 _parties elected and seats per party_: Broad Front (FA) (16); National Party (PN) (9); Colorado Party (PC) (5)<br>
-_percentage of women in chamber_: 32.3%<br>
+_percentage of women in chamber_: 35.5%<br>
 _expected date of next election_: October 2029<br>
 
 **Judicial branch**<br>
@@ -510,8 +510,8 @@ _female_: 28.3% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 18.6% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 1.3% of household expenditures (2022 est.)<br>
+_on food_: 18.7% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 1.2% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2% (2022 est.)<br>

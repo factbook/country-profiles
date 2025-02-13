@@ -370,7 +370,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 4/19/2024 to 6/1/2024<br>
 _parties elected and seats per party_: Bharatiya Janata Party (BJP) (240); Indian National Congress (INC) (99); Samajwadi Party (SP) (37); All India Trinamool Congress (AITC) (29); Other (138)<br>
-_percentage of women in chamber_: 13.7%<br>
+_percentage of women in chamber_: 13.8%<br>
 _expected date of next election_: April 2029<br>
 
 **Legislative branch - upper chamber**<br>
@@ -512,8 +512,8 @@ _female_: 15.7% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 32% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 2.1% of household expenditures (2022 est.)<br>
+_on food_: 29.9% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 2% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.3% (2021 est.)<br>
@@ -650,11 +650,11 @@ _Total energy consumption per capita 2022_: 24.793 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 27.45 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
+_total subscriptions_: 27.455 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.143 billion (2022 est.)<br>
+_total subscriptions_: 1.14 billion (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 81 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -669,11 +669,11 @@ Doordarshan, India's public TV network, has a monopoly on terrestrial broadcasti
 .in<br>
 
 **Internet users**<br>
-_percent of population_: 46% (2021 est.)<br>
+_percent of population_: 43% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 22.95 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
+_total_: 39.3 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 
 ## Transportation
 

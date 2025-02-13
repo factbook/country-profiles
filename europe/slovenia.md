@@ -344,7 +344,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 4/24/2022<br>
 _parties elected and seats per party_: Freedom Movement (SVOBODA) (41); Slovenian Democratic Party (SDS) (27); New Slovenia - Christian Democrats (NSi) (8); Social Democrats (SD) (7); Left (LEVICA) (5); Other (2)<br>
-_percentage of women in chamber_: 37.8%<br>
+_percentage of women in chamber_: 35.6%<br>
 _expected date of next election_: April 2026<br>
 
 **Legislative branch - upper chamber**<br>
@@ -377,7 +377,7 @@ _email address and website_: <br>sloembassy.washington@gov.si<br><br>http://www.
 _consulate(s) general_: Cleveland (OH)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Melania ARREAGA (since 31 July 2024)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Melania ARREAGA (since 31 July 2024)<br>
 _embassy_: Presernova 31, 1000 Ljubljana<br>
 _mailing address_: 7140 Ljubljana Place, Washington, DC 20521-7140<br>
 _telephone_: [386] (1) 200-5500<br>
@@ -489,8 +489,8 @@ _female_: 9.9% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 14.1% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 4.5% of household expenditures (2022 est.)<br>
+_on food_: 13.9% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 4.5% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.2% (2021 est.)<br>
@@ -616,11 +616,11 @@ _Total energy consumption per capita 2022_: 114.991 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 676,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 32 (2022 est.)<br>
+_total subscriptions_: 647,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 30 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2.675 million (2022 est.)<br>
+_total subscriptions_: 2.73 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 126 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -635,11 +635,11 @@ public TV broadcaster, Radiotelevizija Slovenija (RTV), operates a system of nat
 .si<br>
 
 **Internet users**<br>
-_percent of population_: 89% (2021 est.)<br>
+_percent of population_: 90% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 651,604 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 31 (2020 est.)<br>
+_total_: 683,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 32 (2023 est.)<br>
 
 ## Transportation
 

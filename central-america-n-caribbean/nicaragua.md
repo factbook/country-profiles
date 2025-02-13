@@ -334,7 +334,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 11/7/2021<br>
 _parties elected and seats per party_: Sandinista National Liberation Front (FSLN) (75); Liberal and Constitutionalist Party (PLC) (9); Other (6)<br>
-_percentage of women in chamber_: 53.8%<br>
+_percentage of women in chamber_: 54.9%<br>
 _expected date of next election_: November 2026<br>
 
 **Judicial branch**<br>
@@ -580,11 +580,11 @@ _Total energy consumption per capita 2022_: 12.903 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 216,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
+_total subscriptions_: 234,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6.652 million (2021 est.)<br>
+_total subscriptions_: 7.22 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 97 (2021 est.)<br>
 
 **Telecommunication systems**<br>
@@ -599,11 +599,11 @@ multiple terrestrial TV stations, supplemented by cable TV in most urban areas; 
 .ni<br>
 
 **Internet users**<br>
-_percent of population_: 57% (2021 est.)<br>
+_percent of population_: 61% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 290,351 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 4 (2020 est.)<br>
+_total_: 371,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 5 (2023 est.)<br>
 
 ## Transportation
 

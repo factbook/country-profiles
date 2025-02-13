@@ -464,7 +464,7 @@ _Total energy consumption per capita 2022_: 144.845 million Btu/person (2022 est
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 36,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 53 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 50 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 100,000 (2021 est.)<br>
@@ -482,11 +482,11 @@ _international_: country code - 1-345; landing points for the Maya-1, Deep Blue 
 .ky<br>
 
 **Internet users**<br>
-_percent of population_: 81.1% (2021 est.)<br>
+_percent of population_: 81% (2017 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,200 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 49 (2020 est.)<br>
+_total_: 40,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 56 (2022 est.)<br>
 
 ## Transportation
 

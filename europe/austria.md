@@ -365,7 +365,7 @@ _expected date of next election_: September 2029<br>
 **Legislative branch - upper chamber**<br>
 _chamber name_: Federal Council (Bundesrat)<br>
 _number of seats_: 60 (all indirectly elected)<br>
-_percentage of women in chamber_: 48.3%<br>
+_percentage of women in chamber_: 46.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Oberster Gerichtshof (consists of 85 judges organized into 17 senates or panels of 5 judges each); Constitutional Court or Verfassungsgerichtshof (consists of 20 judges including 6 substitutes; Administrative Court or Verwaltungsgerichtshof - 2 judges plus other members depending on the importance of the case)<br>
@@ -500,8 +500,8 @@ _female_: 11.3% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 10.8% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 3.7% of household expenditures (2022 est.)<br>
+_on food_: 10.1% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 3.5% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8% (2021 est.)<br>
@@ -623,11 +623,11 @@ _Total energy consumption per capita 2022_: 123.11 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3.544 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 40 (2022 est.)<br>
+_total subscriptions_: 3.604 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 40 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11.035 million (2022 est.)<br>
+_total subscriptions_: 11.1 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 123 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -642,11 +642,11 @@ _international_: country code - 43; earth stations available in the Astra, Intel
 .at<br>
 
 **Internet users**<br>
-_percent of population_: 93% (2021 est.)<br>
+_percent of population_: 95% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2.606 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 29 (2020 est.)<br>
+_total_: 2.71 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 30 (2023 est.)<br>
 
 **Communications - note**<br>
 <strong>note 1:</strong> the Austrian National Library contains important collections of the Imperial Library of the Holy Roman Empire and of the Austrian Empire, as well as of the Austrian Republic; among its more than 12 million items are outstanding holdings of rare books, maps, globes, papyrus, and music; its Globe Museum is the only one in the world<br><br><strong>note 2:</strong> on 1 October 1869, Austria-Hungary introduced the world's first postal card - postal stationery with an imprinted stamp indicating the prepayment of postage; simple and cheap (sent for a fraction of the cost of a regular letter), postal cards became an instant success, widely produced in the millions worldwide<br><br><strong>note 3:</strong> Austria followed up with the creation of the world's first commercial picture postcards - cards bearing a picture or photo to which postage is affixed - in May 1871; sent from Vienna, the image served as a souvenir of the city; together, postal cards and post cards served as the world's e-mails of the late 19th and early 20th centuries<br><br><strong>note 4:</strong> Austria was also an airmail pioneer; from March to October of 1918, it conducted the world's first regular (daily) airmail service - between the imperial cities of Vienna, Krakow, and Lemberg - a combined distance of some 650 km (400 mi) (earlier airmail services had been set up in a few parts of the world but only for short stretches, and none lasted beyond a few days or weeks); an expansion of the route in June of 1918 allowed private mail to be flown to Kyiv, in newly independent Ukraine, which made the route the world's first regular international airmail service (covering a distance of some 1,200 km; 750 mi)<br>

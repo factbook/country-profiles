@@ -499,8 +499,8 @@ _female_: 18.3% (2023 est.)<br>
 31.2 (2022 est.)<br>
 
 **Average household expenditures**<br>
-_on food_: 46.4% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 3.2% of household expenditures (2022 est.)<br>
+_on food_: 46.3% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 3.2% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.5% (2022 est.)<br>
@@ -623,11 +623,11 @@ _Total energy consumption per capita 2022_: 53.528 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5.686 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 16 (2022 est.)<br>
+_total subscriptions_: 6.147 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 17 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 35.69 million (2022 est.)<br>
+_total subscriptions_: 37.5 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 103 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -642,11 +642,11 @@ the government controls media; 17 state-owned broadcasters - 13 TV and 4 radio -
 .uz<br>
 
 **Internet users**<br>
-_percent of population_: 77% (2021 est.)<br>
+_percent of population_: 89% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4,820,009 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 14 (2020 est.)<br>
+_total_: 10.8 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 30 (2023 est.)<br>
 
 ## Transportation
 

@@ -341,7 +341,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 4/10/2024<br>
 _parties elected and seats per party_: Democratic Party of Korea (161); People Power Party (90); People Future Party (18); Other (31)<br>
-_percentage of women in chamber_: 20%<br>
+_percentage of women in chamber_: 20.3%<br>
 _expected date of next election_: April 2028<br>
 
 **Judicial branch**<br>
@@ -476,8 +476,8 @@ _female_: 5.4% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 12.1% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 1.8% of household expenditures (2022 est.)<br>
+_on food_: 12.3% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 1.5% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9% (2021 est.)<br>
@@ -607,11 +607,11 @@ _Total energy consumption per capita 2022_: 235.518 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 22.81 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 44 (2022 est.)<br>
+_total subscriptions_: 22.155 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 43 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 76.992 million (2022 est.)<br>
+_total subscriptions_: 83.9 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 149 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -626,11 +626,11 @@ multiple national TV networks with 2 of the 3 largest networks publicly operated
 .kr<br>
 
 **Internet users**<br>
-_percent of population_: 98% (2021 est.)<br>
+_percent of population_: 97% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 22,327,182 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 44 (2020 est.)<br>
+_total_: 24.1 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 47 (2023 est.)<br>
 
 ## Transportation
 

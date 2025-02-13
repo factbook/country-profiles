@@ -517,8 +517,8 @@ _female_: 23% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
-_on food_: 33.9% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 1.4% of household expenditures (2022 est.)<br>
+_on food_: 34.5% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 2.1% of household expenditures (2023 est.)<br>
 
 **Remittances**<br>
 8.14% of GDP (2023 est.)<br>
@@ -638,11 +638,11 @@ _Total energy consumption per capita 2022_: 24.936 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2.645 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 7 (2021 est.)<br>
+_total subscriptions_: 2.874 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 8 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 52.959 million (2022 est.)<br>
+_total subscriptions_: 55.9 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 137 (2021 est.)<br>
 
 **Telecommunication systems**<br>
@@ -657,11 +657,11 @@ _international_: country code - 212; landing point for the Atlas Offshore, Estep
 .ma<br>
 
 **Internet users**<br>
-_percent of population_: 88% (2021 est.)<br>
+_percent of population_: 90% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,102,434 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 6 (2020 est.)<br>
+_total_: 2.42 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 6 (2022 est.)<br>
 
 **Communications - note**<br>
 the University of al-Quarawiyyin Library in Fez is recognized as the oldest existing, continually operating library in the world, dating back to A.D. 859; among its holdings are approximately 4,000 ancient Islamic manuscripts<br>

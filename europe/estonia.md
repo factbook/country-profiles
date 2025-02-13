@@ -341,7 +341,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 3/5/2023<br>
 _parties elected and seats per party_: Reform Party (37); Conservative People's Party (EKRE) (17); Centre Party (16); Estonia 200 (Eesti 200) (14); Social Democratic Party (9); Pro Patria (Isamaa) (8)<br>
-_percentage of women in chamber_: 29.7%<br>
+_percentage of women in chamber_: 28.7%<br>
 _expected date of next election_: March 2027<br>
 
 **Judicial branch**<br>
@@ -476,8 +476,8 @@ _female_: 16% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 18.7% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 7.8% of household expenditures (2022 est.)<br>
+_on food_: 19.9% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 6.7% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.1% (2021 est.)<br>
@@ -596,11 +596,11 @@ _Total energy consumption per capita 2022_: 73.259 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 266,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 20 (2022 est.)<br>
+_total subscriptions_: 238,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 17 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2.056 million (2022 est.)<br>
+_total subscriptions_: 2.05 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 155 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -615,11 +615,11 @@ the publicly owned broadcaster, Eesti Rahvusringhaaling (ERR), operates 3 TV cha
 .ee<br>
 
 **Internet users**<br>
-_percent of population_: 91% (2021 est.)<br>
+_percent of population_: 93% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 415,610 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 31 (2020 est.)<br>
+_total_: 516,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 38 (2023 est.)<br>
 
 ## Transportation
 

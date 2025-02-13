@@ -355,7 +355,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 4/3/2022<br>
 _parties elected and seats per party_: Hungarian Civic Union-Christian Democratic People's Party (FIDESZ-KDNP) (135); Democratic Coalition (DK) (15); Movement for a Better Hungary (Jobbik) (10); Hungarian Socialist Party (MSZP) (10); Momentum (10); Other (19)<br>
-_percentage of women in chamber_: 14.6%<br>
+_percentage of women in chamber_: 15.2%<br>
 _expected date of next election_: April 2026<br>
 
 **Judicial branch**<br>
@@ -491,8 +491,8 @@ _female_: 11.8% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 17.6% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 7.6% of household expenditures (2022 est.)<br>
+_on food_: 16.8% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 7% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.5% (2021 est.)<br>
@@ -621,11 +621,11 @@ _Total energy consumption per capita 2022_: 102.832 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2.845 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 29 (2022 est.)<br>
+_total subscriptions_: 2.693 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 28 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10.372 million (2022 est.)<br>
+_total subscriptions_: 10.2 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 104 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -640,11 +640,11 @@ mixed system of state-supported public service broadcast media and private broad
 .hu<br>
 
 **Internet users**<br>
-_percent of population_: 89% (2021 est.)<br>
+_percent of population_: 91% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,382,136 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 34.83 (2021 est.)<br>
+_total_: 3.56 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 37 (2023 est.)<br>
 
 ## Transportation
 

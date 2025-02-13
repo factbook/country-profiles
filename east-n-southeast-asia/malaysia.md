@@ -349,7 +349,7 @@ _expected date of next election_: November 2027<br>
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate (Dewan Negara)<br>
 _number of seats_: 70 (26 indirectly elected; 44 appointed)<br>
-_percentage of women in chamber_: 16.4%<br>
+_percentage of women in chamber_: 16.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Court (consists of the chief justice, president of the Court of Appeal, chief justice of the High Court of Malaya, chief judge of the High Court of Sabah and Sarawak, 8 judges, and 1 "additional" judge); note - Malaysia has a dual judicial hierarchy of civil and religious (sharia) courts<br>
@@ -484,8 +484,8 @@ _female_: 14.2% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 24.5% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 1.8% of household expenditures (2022 est.)<br>
+_on food_: 26.4% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 1.6% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.3% (2021 est.)<br>
@@ -608,11 +608,11 @@ _Total energy consumption per capita 2022_: 116.494 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 8.453 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 25 (2022 est.)<br>
+_total subscriptions_: 8.402 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 24 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 47.952 million (2022 est.)<br>
+_total subscriptions_: 50.1 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 141 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -627,11 +627,11 @@ state-owned TV broadcaster operates 2 TV networks with relays throughout the cou
 .my<br>
 
 **Internet users**<br>
-_percent of population_: 97% (2021 est.)<br>
+_percent of population_: 98% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,358,800 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 10 (2020 est.)<br>
+_total_: 4.58 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2023 est.)<br>
 
 ## Transportation
 

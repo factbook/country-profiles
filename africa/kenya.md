@@ -503,8 +503,8 @@ _female_: 16.3% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 56.7% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 3.7% of household expenditures (2022 est.)<br>
+_on food_: 42.1% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 3.5% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9% (2021 est.)<br>
@@ -622,11 +622,11 @@ _Total energy consumption per capita 2022_: 5.692 million Btu/person (2022 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 63,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
+_total subscriptions_: 68,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 65.737 million (2022 est.)<br>
+_total subscriptions_: 66.7 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 122 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -641,11 +641,11 @@ about a half-dozen large-scale privately owned media companies with TV and radio
 .ke<br>
 
 **Internet users**<br>
-_percent of population_: 29% (2021 est.)<br>
+_percent of population_: 41% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 674,191 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
+_total_: 1.32 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
 
 ## Transportation
 

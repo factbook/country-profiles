@@ -598,11 +598,11 @@ _Total energy consumption per capita 2022_: 7.638 million Btu/person (2022 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
+_total subscriptions_: 1,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 14.55 million (2022 est.)<br>
+_total subscriptions_: 16.4 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 109 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -617,11 +617,11 @@ state-run Office de Radiodiffusion et de Television du Benin (ORTB) operates a T
 .bj<br>
 
 **Internet users**<br>
-_percent of population_: 34% (2021 est.)<br>
+_percent of population_: 34% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 29,981 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.3 (2020 est.)<br>
+_total_: 24,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 ## Transportation
 

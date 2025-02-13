@@ -344,7 +344,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 7/11/2021<br>
 _parties elected and seats per party_: Action and Solidarity Party (PAS) (63); Electoral Bloc of Communists and Socialists (BECS) (32); Șor Party (PPȘ) (6)<br>
-_percentage of women in chamber_: 40.8%<br>
+_percentage of women in chamber_: 40%<br>
 _expected date of next election_: July 2025<br>
 
 **Judicial branch**<br>

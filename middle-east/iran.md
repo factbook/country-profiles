@@ -355,7 +355,7 @@ _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 3/1/2024 to 5/10/2024<br>
-_percentage of women in chamber_: 4.8%<br>
+_percentage of women in chamber_: 4.9%<br>
 _expected date of next election_: February 2028<br>
 <strong>note:</strong> all candidates to the Majles must be approved by the Council of Guardians, a 12-member group of which 6 are appointed by the supreme leader and 6 are jurists nominated by the judiciary and elected by the Majles<br>
 
@@ -471,8 +471,8 @@ _female_: 35.5% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 28.4% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 0.5% of household expenditures (2022 est.)<br>
+_on food_: 27.9% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 0.5% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8% (2022 est.)<br>
@@ -599,11 +599,11 @@ _Total energy consumption per capita 2022_: 152.479 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 29.342 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 33 (2022 est.)<br>
+_total subscriptions_: 29.02 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 32 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 145.668 million (2022 est.)<br>
+_total subscriptions_: 151 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 165 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -618,11 +618,11 @@ state-run broadcast media with no private, independent broadcasters; Islamic Rep
 .ir<br>
 
 **Internet users**<br>
-_percent of population_: 79% (2021 est.)<br>
+_percent of population_: 82% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 9,564,195 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 11 (2020 est.)<br>
+_total_: 10.9 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 12 (2023 est.)<br>
 
 ## Transportation
 

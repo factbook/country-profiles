@@ -304,7 +304,7 @@ _name_: Prague<br>
 _geographic coordinates_: 50 05 N, 14 28 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the name may derive from an old Slavic root "praga" or "prah", meaning "ford", and refer to the city's origin at a crossing point of the Vltava (Moldau) River<br>
+_etymology_: the name may derive from the old Slavic word "praga" or "prah," meaning "threshold;" it could also be related to the same Slavic root word as the modern Czech "pražiti," a term for woodland cleared by burning<br>
 
 **Administrative divisions**<br>
 13 regions (kraje, singular - kraj) and 1 capital city* (hlavni mesto); Jihocesky (South Bohemia), Jihomoravsky (South Moravia), Karlovarsky (Karlovy Vary), Kralovehradecky (Hradec Kralove), Liberecky (Liberec), Moravskoslezsky (Moravia-Silesia), Olomoucky (Olomouc), Pardubicky (Pardubice), Plzensky (Pilsen), Praha (Prague)*, Stredocesky (Central Bohemia), Ustecky (Usti), Vysocina (Highlands), Zlinsky (Zlin)<br>
@@ -353,7 +353,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 10/8/2021 to 10/9/2021<br>
 _parties elected and seats per party_: ANO (72); SPOLU (71); Pirate Party (Pirati) - Mayors and independents (STAN) (37); Freedom and Direct Democracy (SPD) (20)<br>
-_percentage of women in chamber_: 26%<br>
+_percentage of women in chamber_: 25.5%<br>
 _expected date of next election_: October 2025<br>
 
 **Legislative branch - upper chamber**<br>
@@ -500,8 +500,8 @@ _female_: 9% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 16.4% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 8.2% of household expenditures (2022 est.)<br>
+_on food_: 15.7% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 7.7% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.9% (2021 est.)<br>
@@ -629,11 +629,11 @@ _Total energy consumption per capita 2022_: 149.874 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.214 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 12 (2022 est.)<br>
+_total subscriptions_: 1.197 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 13.475 million (2022 est.)<br>
+_total subscriptions_: 13.6 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 128 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -648,11 +648,11 @@ _international_: country code - 420; satellite earth stations - 6 (2 Intersputni
 .cz<br>
 
 **Internet users**<br>
-_percent of population_: 83% (2021 est.)<br>
+_percent of population_: 86% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,845,426 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 36 (2020 est.)<br>
+_total_: 4.1 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 38 (2023 est.)<br>
 
 ## Transportation
 

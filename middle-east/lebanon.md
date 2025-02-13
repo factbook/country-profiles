@@ -363,7 +363,7 @@ _email address and website_: <br>info@lebanonembassyus.org<br><br>http://www.leb
 _consulate(s) general_: Detroit, New York, Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador-designate Lisa A. JOHNSON (since 11 January 2024)<br>
+_chief of mission_: Ambassador Lisa A. JOHNSON (since 6 February 2025)<br>
 _embassy_: Awkar facing the Municipality<br>P.O. Box 70-840 Antelias, Beirut<br>
 _mailing address_: 6070 Beirut Place, Washington DC&nbsp; 20521-6070<br>
 _telephone_: [961] (04) 543-600<br>
@@ -388,7 +388,7 @@ _selected World Heritage Site locales_: Anjar; Baalbek; Byblos; Tyre; Ouadi Qadi
 ## Economy
 
 **Economic overview**<br>
-upper middle-income Middle Eastern economy; economic activity hurt by economic depression, COVID-19, and port explosion; hyperinflation and sharp poverty increases; banks have ceased lending; new financing facility helping with recovery<br>
+lower middle-income Middle Eastern economy; hyperinflation and sharp poverty increases; banks have ceased lending; economic contraction, destroyed infrastructure, and reduced consumer demand resulting from Israel-Hezbollah conflict<br>
 
 **Real GDP (purchasing power parity)**<br>
 $65.818 billion (2023 est.)<br>
@@ -467,8 +467,8 @@ _female_: 22% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
-_on food_: 20.7% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 1.1% of household expenditures (2022 est.)<br>
+_on food_: 37.1% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 0.7% of household expenditures (2023 est.)<br>
 
 **Remittances**<br>
 35.51% of GDP (2023 est.)<br>
@@ -579,10 +579,10 @@ _Total energy consumption per capita 2022_: 67.466 million Btu/person (2022 est.
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 875,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 16 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 16 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4.288 million (2021 est.)<br>
+_total subscriptions_: 4.29 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 77 (2021 est.)<br>
 
 **Telecommunication systems**<br>
@@ -597,11 +597,11 @@ _international_: country code - 961; landing points for the IMEWE, BERYTAR AND C
 .lb<br>
 
 **Internet users**<br>
-_percent of population_: 87% (2021 est.)<br>
+_percent of population_: 90% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 432,070 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 6 (2020 est.)<br>
+_total_: 419,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 7 (2022 est.)<br>
 
 ## Transportation
 

@@ -305,7 +305,7 @@ _name_: Zagreb<br>
 _geographic coordinates_: 45 48 N, 16 00 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the name seems to be related to "digging"; archeologists suggest that the original settlement was established beyond a water-filled hole or <em>graba</em> and that the name derives from this; <em>za</em> in Slavic means "beyond"; the overall meaning may be "beyond the trench (fault, channel, ditch)"<br>
+_etymology_: the city's name means "beyond the bank (or ditch)"; <em>za </em>in Old Croat means "beyond," and <em>greb </em>means "bank" or "ditch," relating to the city's original site above the Sava River<br>
 
 **Administrative divisions**<br>
 20 counties (zupanije, zupanija - singular) and 1 city* (grad - singular) with special county status; Bjelovarsko-Bilogorska (Bjelovar-Bilogora), Brodsko-Posavska (Brod-Posavina), Dubrovacko-Neretvanska (Dubrovnik-Neretva), Istarska (Istria), Karlovacka (Karlovac), Koprivnicko-Krizevacka (Koprivnica-Krizevci), Krapinsko-Zagorska (Krapina-Zagorje), Licko-Senjska (Lika-Senj), Medimurska (Medimurje), Osjecko-Baranjska (Osijek-Baranja), Pozesko-Slavonska (Pozega-Slavonia), Primorsko-Goranska (Primorje-Gorski Kotar), Sibensko-Kninska (Sibenik-Knin), Sisacko-Moslavacka (Sisak-Moslavina), Splitsko-Dalmatinska (Split-Dalmatia), Varazdinska (Varazdin), Viroviticko-Podravska (Virovitica-Podravina), Vukovarsko-Srijemska (Vukovar-Syrmia), Zadarska (Zadar), Zagreb*, Zagrebacka (Zagreb county)<br>
@@ -489,8 +489,8 @@ _female_: 22.3% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 19.3% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 7.7% of household expenditures (2022 est.)<br>
+_on food_: 18.5% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 7.9% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.1% (2021 est.)<br>
@@ -614,11 +614,11 @@ _Total energy consumption per capita 2022_: 78.371 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.235 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 31 (2022 est.)<br>
+_total subscriptions_: 1.203 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 31 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4.48 million (2022 est.)<br>
+_total subscriptions_: 4.56 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 111 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -633,11 +633,11 @@ the national state-owned public broadcaster, Croatian Radiotelevision, operates 
 .hr<br>
 
 **Internet users**<br>
-_percent of population_: 81% (2021 est.)<br>
+_percent of population_: 83% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,030,973 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 25 (2020 est.)<br>
+_total_: 1.11 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 28 (2023 est.)<br>
 
 ## Transportation
 

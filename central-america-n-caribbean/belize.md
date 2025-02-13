@@ -347,7 +347,7 @@ _number of seats_: 13 (all appointed)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 12/11/2020<br>
-_percentage of women in chamber_: 42.9%<br>
+_percentage of women in chamber_: 28.6%<br>
 _expected date of next election_: November 2025<br>
 
 **Judicial branch**<br>
@@ -582,7 +582,7 @@ _Total energy consumption per capita 2022_: 30.71 million Btu/person (2022 est.)
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 19,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 5 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 4 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 264,000 (2021 est.)<br>
@@ -600,11 +600,11 @@ _international_: country code - 501; landing points for the&nbsp;ARCOS and SEUL&
 .bz<br>
 
 **Internet users**<br>
-_percent of population_: 62% (2021 est.)<br>
+_percent of population_: 70% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 36,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 9 (2020 est.)<br>
+_total_: 39,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 10 (2022 est.)<br>
 
 ## Transportation
 

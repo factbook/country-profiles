@@ -491,8 +491,8 @@ _female_: 9.4% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 26.4% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 0.8% of household expenditures (2022 est.)<br>
+_on food_: 25.9% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 0.9% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.6% (2023 est.)<br>
@@ -611,11 +611,11 @@ _Total energy consumption per capita 2022_: 30.111 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.644 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 9 (2022 est.)<br>
+_total subscriptions_: 1.434 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 8 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 17.491 million (2022 est.)<br>
+_total subscriptions_: 18.2 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 97 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -630,12 +630,12 @@ _international_: country code - 593; landing points for the SPSC (Mistral Submar
 .ec<br>
 
 **Internet users**<br>
-_percent of population_: 76% (2021 est.)<br>
+_percent of population_: 73% (2023 est.)<br>
 according to 2021 statistics from Ecuador's Ministry of Telecommunications and Information Society, 50% of homes do not have access to fixed internet<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,371,297 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
+_total_: 2.89 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 16 (2023 est.)<br>
 
 ## Transportation
 

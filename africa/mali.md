@@ -367,7 +367,7 @@ _number of seats_: 147 (all appointed)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _most recent election date_: 12/5/2020<br>
-_percentage of women in chamber_: 30.7%<br>
+_percentage of women in chamber_: 30.4%<br>
 _expected date of next election_: December 2025<br>
 <strong>note 1:</strong> the National Assembly was dissolved on 18 August 2020 after a military coup; the transitional government created a Transitional National Council (CNT) that acts as the transitional government's legislative body; a new constitution was ratified in July 2023 that expanded the military junta's powers, and no plans for legislative elections have been announced<br><strong>note 2:</strong> coup leaders appointed a president and vice president; the president then apportioned CNT seats to various groups and political parties<br>
 
@@ -615,7 +615,7 @@ _total subscriptions_: 307,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 25.869 million (2022 est.)<br>
+_total subscriptions_: 25.9 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 114 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -630,11 +630,11 @@ national public TV broadcaster; 2 privately owned companies provide subscription
 .ml<br>
 
 **Internet users**<br>
-_percent of population_: 34% (2021 est.)<br>
+_percent of population_: 33% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 243,806 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
+_total_: 179,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2022 est.)<br>
 
 ## Transportation
 

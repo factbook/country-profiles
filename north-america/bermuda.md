@@ -503,7 +503,7 @@ _Total energy consumption per capita 2022_: 124.882 million Btu/person (2022 est
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 25,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 39 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 39 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 68,000 (2021 est.)<br>
@@ -521,11 +521,11 @@ _international_: country code - 1-441; landing points for the GlobeNet, Gemini B
 .bm<br>
 
 **Internet users**<br>
-_percent of population_: 100% (2021 est.)<br>
+_percent of population_: 98% (2017 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 23,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 37 (2020 est.)<br>
+_total_: 23,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 36 (2022 est.)<br>
 
 ## Transportation
 

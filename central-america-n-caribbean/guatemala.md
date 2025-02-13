@@ -480,8 +480,8 @@ _female_: 9.6% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 34.4% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 1.3% of household expenditures (2022 est.)<br>
+_on food_: 35.1% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 1.3% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7% (2014 est.)<br>
@@ -607,11 +607,11 @@ _Total energy consumption per capita 2022_: 16.807 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.918 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 11 (2022 est.)<br>
+_total subscriptions_: 1.94 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 20.553 million (2022 est.)<br>
+_total subscriptions_: 20.6 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 115 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -626,11 +626,11 @@ _international_: country code - 502; landing points for&nbsp;the ARCOS, AMX-1, A
 .gt<br>
 
 **Internet users**<br>
-_percent of population_: 51% (2021 est.)<br>
+_percent of population_: 54% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 612,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 3 (2020 est.)<br>
+_total_: 921,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 5 (2023 est.)<br>
 
 ## Transportation
 

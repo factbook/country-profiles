@@ -368,7 +368,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 7/23/2023<br>
 _parties elected and seats per party_: People's Party (PP) (120); Spanish Socialist Workers' Party (PSOE) (72); Other (16)<br>
-_percentage of women in chamber_: 42.3%<br>
+_percentage of women in chamber_: 42.5%<br>
 _expected date of next election_: July 2027<br>
 
 **Judicial branch**<br>
@@ -391,7 +391,7 @@ _email address and website_: <br>emb.washington@maec.es<br><br>https://www.exter
 _consulate(s) general_: Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco, San Juan (Puerto Rico)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Rian Harker HARRIS (since 15 July 2024); note - also accredited to Andorra<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Rian Harker HARRIS (since 15 July 2024); note - also accredited to Andorra<br>
 _embassy_: Calle de Serrano, 75, 28006 Madrid<br>
 _mailing address_: 8500 Madrid Place, Washington DC&nbsp; 20521-8500<br>
 _telephone_: [34] (91) 587-2200<br>
@@ -505,8 +505,8 @@ _female_: 28.6% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 15.4% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 4.3% of household expenditures (2022 est.)<br>
+_on food_: 12.9% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 4% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2% (2021 est.)<br>
@@ -637,11 +637,11 @@ _Total energy consumption per capita 2022_: 105.979 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 18.687 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 39 (2022 est.)<br>
+_total subscriptions_: 18.431 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 38 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 59.02 million (2022 est.)<br>
+_total subscriptions_: 61.2 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 124 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -656,11 +656,11 @@ _international_: country code - 34; landing points for the MAREA, Tata TGN-Weste
 .es<br>
 
 **Internet users**<br>
-_percent of population_: 94% (2021 est.)<br>
+_percent of population_: 95% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 16,188,502 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 35 (2020 est.)<br>
+_total_: 18.2 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 38 (2023 est.)<br>
 
 ## Transportation
 

@@ -459,7 +459,7 @@ _from petroleum and other liquids_: 825,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 15,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 29 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 28 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 59,000 (2021 est.)<br>
@@ -477,11 +477,11 @@ _international_: country code - 298; landing points for the SHEFA-2, FARICE-1, a
 .fo<br>
 
 **Internet users**<br>
-_percent of population_: 97.6% (2021 est.)<br>
+_percent of population_: 98% (2017 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 18,443 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 38 (2020 est.)<br>
+_total_: 19,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 35 (2022 est.)<br>
 
 ## Transportation
 

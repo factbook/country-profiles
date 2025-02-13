@@ -366,7 +366,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 5/14/2023<br>
 _parties elected and seats per party_: Move Forward (151); Pheu Thai (141); Bhumjaithai (71); Palang Pracharath (40); United Thai Nation (36); Democrat Party (25); Other (36)<br>
-_percentage of women in chamber_: 19.4%<br>
+_percentage of women in chamber_: 19.6%<br>
 _expected date of next election_: May 2028<br>
 
 **Legislative branch - upper chamber**<br>
@@ -513,8 +513,8 @@ _female_: 7.4% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 26.8% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 3% of household expenditures (2022 est.)<br>
+_on food_: 25.9% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 3% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.2% (2021 est.)<br>
@@ -643,11 +643,11 @@ _Total energy consumption per capita 2022_: 69.958 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 4.368 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 6 (2022 est.)<br>
+_total subscriptions_: 4.087 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 6 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 126.414 million (2022 est.)<br>
+_total subscriptions_: 121 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 176 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -662,11 +662,11 @@ _international_: country code - 66; landing points for the AAE-1, FEA, SeaMeWe-3
 .th<br>
 
 **Internet users**<br>
-_percent of population_: 85% (2021 est.)<br>
+_percent of population_: 90% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 11,478,265 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 16 (2020 est.)<br>
+_total_: 11.5 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 16 (2023 est.)<br>
 
 ## Transportation
 

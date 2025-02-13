@@ -374,7 +374,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 6/21/2021 to 9/30/2021<br>
 _parties elected and seats per party_: Prosperity Party (448); Other (22)<br>
-_percentage of women in chamber_: 41.3%<br>
+_percentage of women in chamber_: 41.9%<br>
 _expected date of next election_: June 2026<br>
 <strong>note:</strong> only 470 of the 547 seats in the House of People's Representatives were filled during the 2021 elections due to security issues in the Tigray State and other areas<br>
 
@@ -520,8 +520,8 @@ _female_: 7.4% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 39.7% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 3.1% of household expenditures (2022 est.)<br>
+_on food_: 37.9% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 3.1% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9% (2015 est.)<br>
@@ -643,10 +643,10 @@ _Total energy consumption per capita 2022_: 2.34 million Btu/person (2022 est.)<
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 862,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 1 (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 69.123 million (2022 est.)<br>
+_total subscriptions_: 71.4 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 56 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -661,11 +661,11 @@ _international_: country code - 251; open-wire to Sudan and Djibouti; microwave 
 .et<br>
 
 **Internet users**<br>
-_percent of population_: 17% (2021 est.)<br>
+_percent of population_: 19% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 212,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.2 (2020 est.)<br>
+_total_: 566,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 

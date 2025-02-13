@@ -361,7 +361,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 12/17/2023<br>
 _parties elected and seats per party_: Aleksandar Vucic – Serbia Must Not Stop (129); Serbia Against Violence (65); Ivica Dacic - Prime Minister of Serbia (18); Dr Miloš Jovanović - Hope for Serbia (13); We – Voice of the People, Prof. Dr. Branimir Nestorovic (13); Other (12)<br>
-_percentage of women in chamber_: 38%<br>
+_percentage of women in chamber_: 37.2%<br>
 _expected date of next election_: December 2027<br>
 
 **Judicial branch**<br>
@@ -385,7 +385,7 @@ _email address and website_: <br>info@serbiaembusa.org<br><br>http://www.washing
 _consulate(s) general_: Chicago, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Christopher R. HILL (since 1 April 2022)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Alexander TITOLO (since January 2025)<br>
 _embassy_: 92 Bulevar kneza Aleksandra Karadjordjevica, 11040 Belgrade<br>
 _mailing address_: 5070 Belgrade Place, Washington, DC 20521-5070<br>
 _telephone_: [381] (11) 706-4000<br>
@@ -498,8 +498,8 @@ _female_: 26.1% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 22.9% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 8.4% of household expenditures (2022 est.)<br>
+_on food_: 24.1% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 7.8% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.5% (2021 est.)<br>
@@ -623,11 +623,11 @@ _Total energy consumption per capita 2022_: 89.037 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2.539 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 37 (2021 est.)<br>
+_total subscriptions_: 2.485 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 37 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8.621 million (2022 est.)<br>
+_total subscriptions_: 8.53 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 124 (2021 est.)<br>
 
 **Telecommunication systems**<br>
@@ -639,11 +639,11 @@ _international_: country code - 381<br>
 .rs<br>
 
 **Internet users**<br>
-_percent of population_: 81% (2021 est.)<br>
+_percent of population_: 85% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,730,496 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 25 (2020 est.)<br>
+_total_: 2.08 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 31 (2023 est.)<br>
 
 ## Transportation
 

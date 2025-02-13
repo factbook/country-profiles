@@ -327,7 +327,7 @@ _number of seats_: 275 (all indirectly elected)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 11/1/2021 to 5/5/2022<br>
-_percentage of women in chamber_: 19.6%<br>
+_percentage of women in chamber_: 19%<br>
 _expected date of next election_: October 2026<br>
 
 **Legislative branch - upper chamber**<br>
@@ -358,7 +358,7 @@ _telephone_: [1] (202) 853-9164<br>
 _email address and website_: <br>info@somaliembassydc.net<br><br>https://somaliembassydc.net/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Shane L. DIXON (since 25 July 2023)<br>
+_chief of mission_: Ambassador Richard H. RILEY (since 20 June 2024)<br>
 _embassy_: Mogadishu, (reopened October 2019 on the grounds of the Mogadishu Airport)<br>
 _mailing address_: P.O. Box 606 Village Market<br>00621 Nairobi, Kenya<br>
 _telephone_: [254] 20 363-6451<br>
@@ -542,10 +542,10 @@ _Total energy consumption per capita 2022_: 661,000 Btu/person (2022 est.)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 91,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 1 (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8.844 million (2022 est.)<br>
+_total subscriptions_: 8.84 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 50 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -560,11 +560,11 @@ _international_: country code - 252; landing points for the G2A, DARE1, PEACE, a
 .so<br>
 
 **Internet users**<br>
-_percent of population_: 14.5% (2021 est.)<br>
+_percent of population_: 28% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 119,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
+_total_: 119,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2022 est.)<br>
 
 ## Transportation
 

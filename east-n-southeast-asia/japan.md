@@ -360,7 +360,7 @@ _scope of elections_: partial renewal<br>
 _term in office_: 6 years<br>
 _most recent election date_: 7/10/2022<br>
 _parties elected and seats per party_: Liberal Democratic Party (LDP) (63); Constitutional Democratic Party of Japan (17); Komeito (13); Nippon Ishin (Japan Innovation Party) (12); Other (20)<br>
-_percentage of women in chamber_: 26.6%<br>
+_percentage of women in chamber_: 25.5%<br>
 _expected date of next election_: July 2025<br>
 
 **Judicial branch**<br>
@@ -411,7 +411,7 @@ _selected World Heritage Site locales_: <p>Buddhist Monuments in the Horyu-ji Ar
 ## Economy
 
 **Economic overview**<br>
-fourth-largest economy; trade-oriented and highly diversified; high public debt levels; real wage declines in inflationary environment; sustained near-zero central bank rates coupled with depreciation of yen; strong rebound in tourism<br>
+second-largest East Asian economy; trade-oriented and highly diversified; high public debt levels; following years of near-zero interest rates, gradual increases to address inflation and depreciation of yen; strong rebound in tourism; aging population poses challenges to labor force participation<br>
 
 **Real GDP (purchasing power parity)**<br>
 $5.747 trillion (2023 est.)<br>
@@ -490,8 +490,8 @@ _female_: 3.7% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
-_on food_: 16.3% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 2.7% of household expenditures (2022 est.)<br>
+_on food_: 15.8% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 2.5% of household expenditures (2023 est.)<br>
 
 **Remittances**<br>
 0.11% of GDP (2023 est.)<br>
@@ -616,11 +616,11 @@ _Total energy consumption per capita 2022_: 136.122 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 60.721 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 49 (2022 est.)<br>
+_total subscriptions_: 59.758 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 48 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 207.648 million (2022 est.)<br>
+_total subscriptions_: 219 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 168 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -635,11 +635,11 @@ a mixture of public and commercial broadcast TV and radio stations; 5 national t
 .jp<br>
 
 **Internet users**<br>
-_percent of population_: 83% (2021 est.)<br>
+_percent of population_: 85% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 44,000,791 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 35 (2020 est.)<br>
+_total_: 47.9 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 39 (2023 est.)<br>
 
 ## Transportation
 

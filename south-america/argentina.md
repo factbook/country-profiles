@@ -512,8 +512,8 @@ _female_: 19.5% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 23.1% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 1.9% of household expenditures (2022 est.)<br>
+_on food_: 23.1% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 1.9% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2% (2022 est.)<br>
@@ -647,11 +647,11 @@ _Total energy consumption per capita 2022_: 75.735 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7.615 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 17 (2022 est.)<br>
+_total subscriptions_: 7.034 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 15 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 60.236 million (2022 est.)<br>
+_total subscriptions_: 62.7 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 132 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -666,11 +666,11 @@ Argentina is one of South America's biggest media markets, there are dozens of T
 .ar<br>
 
 **Internet users**<br>
-_percent of population_: 87% (2021 est.)<br>
+_percent of population_: 89% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 9,571,562 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 21 (2020 est.)<br>
+_total_: 11.5 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 25 (2023 est.)<br>
 
 ## Transportation
 

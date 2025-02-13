@@ -353,7 +353,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 11/21/2021<br>
 _parties elected and seats per party_: Chile Podemos (Empowering Chile", CP +) (53); New Social Pact (NPS) (37); Approving Dignity (AD) (37); Christian Social Front (FSC) (15); Other (13)<br>
-_percentage of women in chamber_: 35.5%<br>
+_percentage of women in chamber_: 35.1%<br>
 _expected date of next election_: November 2025<br>
 
 **Legislative branch - upper chamber**<br>
@@ -500,8 +500,8 @@ _female_: 24.5% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 18% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 3.3% of household expenditures (2022 est.)<br>
+_on food_: 19.4% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 3.5% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.3% (2022 est.)<br>
@@ -623,11 +623,11 @@ _Total energy consumption per capita 2022_: 69.194 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2.217 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 11 (2022 est.)<br>
+_total subscriptions_: 1.978 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 10 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 26.415 million (2022 est.)<br>
+_total subscriptions_: 26.7 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 135 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -642,11 +642,11 @@ national and local terrestrial TV channels, coupled with extensive cable TV netw
 .cl<br>
 
 **Internet users**<br>
-_percent of population_: 90% (2021 est.)<br>
+_percent of population_: 94% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,763,826 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 20 (2020 est.)<br>
+_total_: 4.52 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 23 (2023 est.)<br>
 
 ## Transportation
 

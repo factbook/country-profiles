@@ -342,7 +342,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 3/10/2024<br>
 _parties elected and seats per party_: Socialist Party (PS) (78); Social Democratic Party (PPD/PSD) - Democratic and Social Centre - People's Party (CDS-PP) - People's Monarchist Party (PPM) (77); Chega (CH) (50); Other (25)<br>
-_percentage of women in chamber_: 32.6%<br>
+_percentage of women in chamber_: 34.8%<br>
 _expected date of next election_: September 2028<br>
 
 **Judicial branch**<br>
@@ -366,7 +366,7 @@ _consulate(s) general_: Boston, Newark (NJ), New York, San Francisco<br>
 _consulate(s)_: New Bedford (MA), Providence (RI)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Randi Charno LEVINE (since 22 April 2022)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Douglas A. KONEFF (since January 2025)<br>
 _embassy_: Avenida das Forcas Armadas, 1600-081 Lisboa<br>
 _mailing address_: 5320 Lisbon Place, Washington DC&nbsp; 20521-5320<br>
 _telephone_: [351] (21) 727-3300<br>
@@ -479,8 +479,8 @@ _female_: 19.9% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 17.6% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 3.4% of household expenditures (2022 est.)<br>
+_on food_: 17.3% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 3.1% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8% (2021 est.)<br>

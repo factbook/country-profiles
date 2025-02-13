@@ -515,8 +515,8 @@ _female_: 14.2% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 20.1% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 3% of household expenditures (2022 est.)<br>
+_on food_: 21.2% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 3.2% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.2% (2021 est.)<br>
@@ -650,11 +650,11 @@ _Total energy consumption per capita 2022_: 122.004 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 179.414 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2022 est.)<br>
+_total subscriptions_: 173.326 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 12 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.781 billion (2022 est.)<br>
+_total subscriptions_: 1.81 billion (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 125 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -669,11 +669,11 @@ all broadcast media are owned by, or affiliated with, the Chinese Communisty Par
 .cn<br>
 
 **Internet users**<br>
-_percent of population_: 73% (2021 est.)<br>
+_percent of population_: 77% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 483,549,500 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 34 (2020 est.)<br>
+_total_: 636 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 45 (2023 est.)<br>
 
 ## Transportation
 

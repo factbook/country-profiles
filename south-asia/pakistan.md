@@ -401,7 +401,7 @@ _email address and website_: <br>consularsection@embassyofpakistanusa.org<br><br
 _consulate(s) general_: Chicago, Houston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Donald BLOME (since 2 July 2022)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Natalie A. BAKER (since January 2025)<br>
 _embassy_: Diplomatic Enclave, Ramna 5, Islamabad<br>
 _mailing address_: 8100 Islamabad Place, Washington, DC 20521-8100<br>
 _telephone_: [92] 051-201-4000<br>
@@ -427,7 +427,7 @@ _selected World Heritage Site locales_: Archaeological Ruins at Moenjodaro; Budd
 ## Economy
 
 **Economic overview**<br>
-lower middle-income South Asian economy; extremely high debt; endemic corruption; major currency devaluation; major food insecurity and inflation; environmentally fragile agricultural sector; regional disputes with India and Afghanistan hinder investment<br>
+lower middle-income South Asian economy; extremely high debt; endemic corruption; regional disputes with India and Afghanistan hinder investment; falling inflation, IMF relief programs, and strong agricultural output slowly contributing to economic recovery<br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.346 trillion (2023 est.)<br>
@@ -514,8 +514,8 @@ _female_: 10.7% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 39.1% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 1.2% of household expenditures (2022 est.)<br>
+_on food_: 37.8% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 1.3% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.2% (2018 est.)<br>
@@ -648,11 +648,11 @@ _Total energy consumption per capita 2022_: 14.902 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2.799 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2022 est.)<br>
+_total subscriptions_: 2.573 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 192.78 million (2022 est.)<br>
+_total subscriptions_: 189 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 82 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -667,11 +667,11 @@ television is the most popular and dominant source of news in Pakistan with over
 .pk<br>
 
 **Internet users**<br>
-_percent of population_: 21% (2021 est.)<br>
+_percent of population_: 33% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,523,027 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
+_total_: 3.36 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2023 est.)<br>
 
 ## Transportation
 

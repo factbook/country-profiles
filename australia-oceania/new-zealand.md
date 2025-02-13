@@ -367,7 +367,7 @@ _email address and website_: <br>wshinfo@mfat.govt.nz<br><br>https://www.mfat.go
 _consulate(s) general_: Honolulu, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Thomas Stewart UDALL (since 1 December 2021); note - also accredited to Samoa<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires David GEHRENBECK (since January 2025); note - also accredited to Samoa<br>
 _embassy_: 29 Fitzherbert Terrace, Thorndon, Wellington 6011<br>
 _mailing address_: 4370 Auckland Place, Washington DC&nbsp; 20521-4370<br>
 _telephone_: [64] (4) 462-6000<br>
@@ -472,8 +472,8 @@ _female_: 10.5% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
-_on food_: 12.5% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 4.9% of household expenditures (2022 est.)<br>
+_on food_: 12.8% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 4.7% of household expenditures (2023 est.)<br>
 
 **Remittances**<br>
 0.32% of GDP (2023 est.)<br>
@@ -589,11 +589,11 @@ _Total energy consumption per capita 2022_: 120.219 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 757,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 15 (2022 est.)<br>
+_total subscriptions_: 660,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5.947 million (2022 est.)<br>
+_total subscriptions_: 6.56 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 115 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -608,11 +608,11 @@ state-owned Television New Zealand operates multiple TV networks and state-owned
 .nz<br>
 
 **Internet users**<br>
-_percent of population_: 96% (2021 est.)<br>
+_percent of population_: 96% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,764,984 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 37 (2020 est.)<br>
+_total_: 1.93 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 37 (2023 est.)<br>
 
 ## Transportation
 

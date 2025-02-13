@@ -578,11 +578,11 @@ _Total energy consumption per capita 2022_: 2.686 million Btu/person (2022 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 146,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
+_total subscriptions_: 182,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 22.678 million (2021 est.)<br>
+_total subscriptions_: 23 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 57 (2021 est.)<br>
 
 **Telecommunication systems**<br>
@@ -600,8 +600,8 @@ under the Taliban government, independent media outlets have decreased in number
 _percent of population_: 18% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 33,200 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 0.08 (2023 est.)<br>
+_total_: 33,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 ## Transportation
 
