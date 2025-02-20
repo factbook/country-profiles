@@ -485,7 +485,7 @@ _Total energy consumption per capita 2022_: 25.876 million Btu/person (2022 est.
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 1.18 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 5 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 4 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 6 million (2021 est.)<br>

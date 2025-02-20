@@ -344,6 +344,9 @@ _election results_: <em><br>2023: </em>Petr PAVEL elected in the second round; p
 **Legislative branch**<br>
 _legislature name_: Parliament (Parlament)<br>
 _legislative structure_: bicameral<br>
+_chamber name_: Senate or Senat<br>Chamber of Deputies or Poslanecka Snemovna<br>
+_number of seats_: Senate - 81 seats<br>Chamber of Deputies or Poslanecka Snemovna 200 seats<br>
+_expected date of next election_: Senate 30 September 2026<br>Chamber of Deputies 31 October 2025<br>
 
 **Legislative branch - lower chamber**<br>
 _chamber name_: Chamber of Deputies (Poslanecka Snemovna)<br>

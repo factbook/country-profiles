@@ -416,11 +416,11 @@ _electrification - total population_: 100% (2022 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 45,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 122 (2022 est.)<br>
+_total subscriptions_: 43,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 111 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 39,000 (2022 est.)<br>
+_total subscriptions_: 41,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 107 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -435,11 +435,11 @@ TV Monte-Carlo operates a TV network; cable TV available; Radio Monte-Carlo has 
 .mc<br>
 
 **Internet users**<br>
-_percent of population_: 86% (2021 est.)<br>
+_percent of population_: 98% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 20,877 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 53 (2020 est.)<br>
+_total_: 22,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 56 (2023 est.)<br>
 
 ## Transportation
 

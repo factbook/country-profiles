@@ -294,7 +294,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Salva KIIR Mayardit (since 9 July 2011)<br>
 _head of government_: President Salva KIIR Mayardit (since 9 July 2011)<br>
 _cabinet_: National Council of Ministers appointed by the president, approved by the Transitional National Legislative Assembly<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 11 to 15 April 2010 (originally scheduled for 2015 but postponed several times, currently to be held in December 2024)<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 11 to 15 April 2010 (next election was scheduled for 2015 but has been postponed multiple times, currently to be held in December 2026)<br>
 _election results_: <em>2010:</em> Salva KIIR Mayardit elected leader of then-Southern Sudan; percent of vote - Salva KIIR Mayardit (SPLM) 93%, Lam AKOL (SPLM-DC) 7%<br>
 <strong>note: </strong>the president is both chief of state and head of government<br>
 

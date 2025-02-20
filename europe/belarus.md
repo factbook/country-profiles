@@ -344,6 +344,12 @@ _election results_: <em><br>2025:  Alyaksandr LUKASHENKA reelected president; p
 **Legislative branch**<br>
 _legislature name_: National Assembly (Natsionalnoye Sobranie)<br>
 _legislative structure_: bicameral<br>
+_chamber name_: Council of the Republic<br>House of Representatives<br>
+_number of seats_: Council of the Republic - 56<br>House of Representatives - 110<br>
+_electoral system_: Plurality/majority<br>
+_most recent election date_: Council of the Republic 4 April 2024<br>House of Representatives 25 February 2024<br>
+_parties elected and seats per party_: Council of the Republic - seats by party - independent 54, other 2<br>House of Representatives - seats by party - Belaya Rus 51, RPTS 8, CPB 7, LDPB 4, independent 40<br>
+_expected date of next election_: Council of the Republic - 31 March 2029<br>House of Representatives -2 February 2029<br>
 
 **Legislative branch - lower chamber**<br>
 _chamber name_: House of Representatives (Palata Predstaviteley)<br>

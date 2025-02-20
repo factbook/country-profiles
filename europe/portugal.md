@@ -600,11 +600,11 @@ _Total energy consumption per capita 2022_: 80.316 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5.437 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 53 (2022 est.)<br>
+_total subscriptions_: 5.505 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 53 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 12.792 million (2022 est.)<br>
+_total subscriptions_: 12.8 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 125 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -619,11 +619,11 @@ Radio e Televisao de Portugal, the publicly owned TV broadcaster, operates 4 dom
 .pt<br>
 
 **Internet users**<br>
-_percent of population_: 82% (2021 est.)<br>
+_percent of population_: 86% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4,160,795 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 41 (2020 est.)<br>
+_total_: 4.6 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 44 (2023 est.)<br>
 
 ## Transportation
 

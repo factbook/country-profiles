@@ -419,11 +419,11 @@ _electrification - total population_: 100% (2022 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 11,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 28 (2022 est.)<br>
+_total subscriptions_: 10,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 26 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 50,000 (2022 est.)<br>
+_total subscriptions_: 50,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 126 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -439,11 +439,11 @@ relies on foreign terrestrial and satellite broadcasters for most broadcast medi
 .li<br>
 
 **Internet users**<br>
-_percent of population_: 96% (2021 est.)<br>
+_percent of population_: 97% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 18,050 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 47 (2020 est.)<br>
+_total_: 20,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 50 (2023 est.)<br>
 
 ## Transportation
 

@@ -328,9 +328,9 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Gitanas NAUSEDA (since 12 July 2019)<br>
-_head of government_: Prime Minister Ingrida SIMONYTE (since 24 November 2020)<br>
+_head of government_: Prime Minister Gintautas PALUCKAS (since 12 December 2024)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, appointed by the president, approved by Parliament<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); first round held on 12 May 2024 (runoff held on 12 May 2024); prime minister appointed by the president, approved by Parliament<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 26 May 2024 (next election to be held in 2029); prime minister appointed by the president, approved by Parliament<br>
 _election results_: <em><br>2024: </em>Gitanas NAUSEDA elected president in second round; percent of vote -Gitanas NAUSEDA (independent) 75.6%, Ingrida SIMONYTE (TS-LKD) 24.4%<br><em><br>2019:</em> Gitanas NAUSEDA elected president in second round; percent of vote - Gitanas NAUSEDA (independent) 66.7%, Ingrida SIMONYTE (independent) 33.3%<br>
 
 **Legislative branch**<br>

@@ -372,6 +372,12 @@ _election results_: <br><em>2024</em>: Vladimir PUTIN reelected president; perce
 **Legislative branch**<br>
 _legislature name_: Federal Assembly (Federalnoye Sobraniye)<br>
 _legislative structure_: bicameral<br>
+_chamber name_: State Duma<br>
+_number of seats_: 450<br>
+_electoral system_: Mixed system<br>
+_most recent election date_: 19 September 2021<br>
+_parties elected and seats per party_: <em>election results</em>: seats by party - United Russia 326, Communist Party (KPRF) 57, A Just Russia 28, Liberal Democratic Party of Russia (LDPR) 23, New People 15, Independents 1<br>
+_expected date of next election_: 30 September 2026<br>
 <strong>note 1:</strong> the State Duma now includes 3 representatives from the "Republic of Crimea," while the Federation Council includes 2 each from the "Republic of Crimea" and the "Federal City of Sevastopol," both regions that Russia occupied and attempted to annex from Ukraine and that the US does not recognize as part of Russia<br>
 
 **Legislative branch - lower chamber**<br>

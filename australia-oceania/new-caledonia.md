@@ -476,7 +476,7 @@ _from petroleum and other liquids_: 2.44 million metric tonnes of CO2 (2022 est.
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 46,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 16 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 16 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 260,000 (2021 est.)<br>
@@ -494,11 +494,11 @@ the publicly owned French Overseas Network (RFO), which operates in France's ove
 .nc<br>
 
 **Internet users**<br>
-_percent of population_: 82% (2021 est.)<br>
+_percent of population_: 82% (2017 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 55,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 19 (2020 est.)<br>
+_total_: 56,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 19 (2022 est.)<br>
 
 ## Transportation
 

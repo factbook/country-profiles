@@ -346,7 +346,7 @@ _term in office_: 5 years<br>
 _most recent election date_: 6/20/2021<br>
 _parties elected and seats per party_: Civil Contract Party (71); Armenia Alliance (29); I Have the Honour Alliance (7)<br>
 _percentage of women in chamber_: 38.3%<br>
-_expected date of next election_: June 2026<br>
+_expected date of next election_: 30 June 2026<br>
 <strong>note 1:</strong> additional seats allocated as necessary; the numbers usually change with each parliamentary convocation<br><br><strong>note 2:</strong> four mandates are reserved for national minorities; no more than 70% of the top membership of a party list can belong to the same sex; political parties must meet a 5% threshold and alliances a 7% threshold to win seats; at least three parties must be seated in the Parliament<br>
 
 **Judicial branch**<br>

@@ -301,7 +301,7 @@ _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 2 years<br>
 _most recent election date_: 3/7/2023<br>
-_percentage of women in chamber_: 15.4%<br>
+_percentage of women in chamber_: 21.4%<br>
 _expected date of next election_: March 2025<br>
 
 **Judicial branch**<br>
@@ -486,7 +486,7 @@ _from petroleum and other liquids_: 166,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 7,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 6 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 6 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 22,000 (2021 est.)<br>
@@ -504,11 +504,11 @@ no TV broadcast stations; each state has a multi-channel cable service with TV t
 .fm<br>
 
 **Internet users**<br>
-_percent of population_: 40% (2021 est.)<br>
+_percent of population_: 41% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 6,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 5 (2020 est.)<br>
+_total_: 7,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 6 (2022 est.)<br>
 
 ## Transportation
 

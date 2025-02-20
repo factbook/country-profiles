@@ -349,7 +349,7 @@ _term in office_: 5 years<br>
 _most recent election date_: 9/1/2024<br>
 _parties elected and seats per party_: New Azerbaidjan Party (YAP) (68); Independents (44); Other (13)<br>
 _percentage of women in chamber_: 20.8%<br>
-_expected date of next election_: November 2029<br>
+_expected date of next election_: 4 November 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chairman, vice chairman, and 23 judges in plenum sessions and organized into civil, economic affairs, criminal, and rights violations chambers); Constitutional Court (consists of 9 judges)<br>
