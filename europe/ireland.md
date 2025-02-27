@@ -356,7 +356,7 @@ _judge selection and term of office_: judges nominated by the prime minister and
 _subordinate courts_: High Court, Court of Appeal; circuit and district courts; criminal courts<br>
 
 **Political parties**<br>
-Aontu <br>Solidarity-People Before Profit or PBP-S <br>Fianna Fail <br>Fine Gael <br>Green Party <br>Human Dignity Alliance<br>Independent Ireland <br>Labor (Labour) Party <br>Right to Change or RTC<br>Sinn Fein <br>Social Democrats <br>Socialist Party<br>The Workers' Party<br>
+Aontu <br>Solidarity-People Before Profit or PBP-S <br>Fianna Fail <br>Fine Gael <br>Green Party <br>Human Dignity Alliance<br>Independent Ireland <br>Labor (Labour) Party<br>100% Redress <br>Right to Change or RTC<br>Sinn Fein <br>Social Democrats <br>Socialist Party<br>The Workers' Party<br>
 
 **International organization participation**<br>
 ADB (nonregional member), Australia Group, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNIFIL, UNOCI, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -396,7 +396,7 @@ _selected World Heritage Site locales_: Br&uacute; na B&oacute;inne - Archaeolog
 ## Economy
 
 **Economic overview**<br>
-strong, export-based EU economy; multinational-business-friendly environment known for resilience, even amid COVID-19 disruptions; real wage growth beyond other OECD members; high livings standards; strong social equity and cohesion; aging labor force<br>
+<p>high-income, export-oriented EU economy; large multinational business sector contributes to growth and tax revenues but poses volatility risks; high living standards; strong labor market challenged by skill shortages and aging workforce</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $609.962 billion (2023 est.)<br>

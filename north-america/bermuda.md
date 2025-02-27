@@ -273,7 +273,7 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Rena LALGIE (since 14 December 2020)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Andrew MURDOCH (since 23 January 2025)<br>
 _head of government_: Premier David BURT (since 19 July 2017)<br>
 _cabinet_: Cabinet nominated by the premier, appointed by the governor<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor<br>

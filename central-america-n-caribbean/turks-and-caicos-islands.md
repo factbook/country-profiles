@@ -282,10 +282,10 @@ _number of seats_: 21 (directly elected or appointed)<br>
 _electoral system_: mixed<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 2/19/2021<br>
-_parties elected and seats per party_: PNP (14); PDM (1)<br>
+_most recent election date_: 2/07/2025<br>
+_parties elected and seats per party_: PNP (16); PDM (2); independents (1)<br>
 _percentage of women in chamber_: 27.3%<br>
-_expected date of next election_: 2025<br>
+_expected date of next election_: 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and other judges, as determined by the governor); Court of Appeal (consists of the court president and 2 justices); note - appeals beyond the Supreme Court are referred to the Judicial Committee of the Privy Council (in London)<br>
@@ -444,7 +444,7 @@ _from petroleum and other liquids_: 244,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 4,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 9 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 9 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 25,085 (2004 est.)<br>

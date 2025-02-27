@@ -62,7 +62,7 @@ _other_: 38.9% (2018 est.)<br>
 0 sq km (2020)<br>
 
 **Population distribution**<br>
-most of the population is concentrated in The Valley in the center of the island; settlmement is fairly uniform in the southwest, but rather sparce in the northeast<br>
+most of the population is concentrated in The Valley in the center of the island; settlement is fairly uniform in the southwest, but rather sparce in the northeast<br>
 
 **Natural hazards**<br>
 frequent hurricanes and other tropical storms (July to October)<br>
@@ -120,7 +120,7 @@ _female_: 39 years<br>
 10.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-most of the population is concentrated in The Valley in the center of the island; settlmement is fairly uniform in the southwest, but rather sparce in the northeast<br>
+most of the population is concentrated in The Valley in the center of the island; settlement is fairly uniform in the southwest, but rather sparce in the northeast<br>
 
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>

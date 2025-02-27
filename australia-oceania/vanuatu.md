@@ -305,10 +305,10 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Nikenike VUROBARAVU (since 23 July 2022)<br>
-_head of government_: Prime Minister Charlot SALWAI (since 6 October 2023)<br>
+_head of government_: Prime Minister Jotham NAPAT (since 11 February 2025)<br>
 _cabinet_: Council of Ministers appointed by the prime minister, responsible to Parliament<br>
-_elections/appointments_: president indirectly elected by an electoral college consisting of Parliament and presidents of the 6 provinces; Vanuatu president serves a 5-year term; election last held on 23 July 2022 (next to be held in 2027); following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by Parliament from among its members; election for prime minister last held on 20 April 2020 (next to be held following general elections in 2024)<br>
-_election results_: <em>2022:</em> Nikenike VUROBARAVU elected president in eighth round; electoral college vote - Nikenike VUROBARAVU (VP) 48 votes, Solas MOLISA (VP) 4 votes; note - Charlot SALWAI (RMC) elected prime minister on 6 October 2023, 29 votes for, 0 against; Prime Minister Sato KILMAN lost no-confidence vote on 6 October 2023, requiring a new election<br>
+_elections/appointments_: president indirectly elected by an electoral college consisting of Parliament and presidents of the 6 provinces; Vanuatu president serves a 5-year term; election last held on 23 July 2022 (next to be held in 2027); following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by Parliament from among its members; election for prime minister last held on 11 February 2025<br>
+_election results_: <em>2022:</em> Nikenike VUROBARAVU elected president in eighth round; electoral college vote - Nikenike VUROBARAVU (VP) 48 votes, Solas MOLISA (VP) 4 votes; note - Jotham NAPAT (LVP) elected prime minister on 11 February 2025, 50 votes for, 0 against<br>
 <strong>note:</strong> the National Council of Chiefs (Malvatu Mauri) is a formal advisory body of chiefs recognized by the country's constitution; it advises the government on matters of culture and language<br>
 
 **Legislative branch**<br>
@@ -329,7 +329,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: Magistrates Courts; Island Courts<br>
 
 **Political parties**<br>
-Iauko Group (Eagle Party) or IG <br>Laverwo Movement or LM <br>Land and Justice Party (Graon mo Jastis Pati or GJP) <br>Leaders Party of Vanuatu or LVP <br>Nagriamel Movement or NAG <br>National United Party or NUP <br>Nagwasoanda Custom Movement or NCM <br>People's Progressive Party or PPP <br>People Unity Development Party or PUDP <br>Rural Development Party or RDP <br>Reunification of Movement for Change or RMC <br>Union of Moderate Parties or UMP<br>Unity for Change Movement or UCM <br>Vanua'aku Pati (Our Land Party) or VP <br>Vanuatu Liberal Movement or VLM <br>Vanuatu National Development Party or VNDP <br>Vanuatu Progressive Development Party or VPDP <br>
+Iauko Group (Eagle Party) or IG <br>Laverwo Movement or LM <br>Land and Justice Party (Graon mo Jastis Pati or GJP) <br>Leaders Party of Vanuatu or LVP <br>Nagriamel Movement or NAG <br>National United Party or NUP <br>Nagwasoanda Custom Movement or NCM <br>People's Progressive Party or PPP <br>People Unity Development Party or PUDP <br>Rural Development Party or RDP <br>Reunification of Movement for Change or RMC <br>Union of Moderate Parties or UMP<br>Unity for Change Movement or UCM <br>Vanua'aku Pati (Our Land Party) or VP <br>Vanuatu Liberal Movement or VLM <br>Vanuatu National Development Party or VNDP <br>Vanuatu Progressive Development Party or VPDP<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IMSO, IOC, IOM, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIF, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -570,11 +570,11 @@ _international_: country code - 678; landing points for the ICN1 &amp; ICN2 subm
 .vu<br>
 
 **Internet users**<br>
-_percent of population_: 66% (2021 est.)<br>
+_percent of population_: 70% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,785 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
+_total_: 4,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2022 est.)<br>
 
 ## Transportation
 

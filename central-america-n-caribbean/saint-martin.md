@@ -212,7 +212,7 @@ see France<br>
 18 years of age, universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by Prefect Vincent BERTON (since 28 March 2022)<br>
+_chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by Prefect Cyrille LE VELY (since 10 February 2025)<br>
 _head of government_: President of Territorial Council Louis MUSSINGTON (since 3 April 2022)<br>
 _cabinet_: Executive Council; note - there is also an advisory economic, social, and cultural council<br>
 _elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); prefect appointed by French president on the advice of French Ministry of Interior; president of Territorial Council elected by its members for a 5-year term; election last held on 3 April 2022 (next to be held in 2027)<br>

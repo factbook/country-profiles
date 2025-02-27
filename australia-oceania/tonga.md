@@ -318,7 +318,7 @@ _chief of state_: King TUPOU VI (since 18 March 2012)<br>
 _head of government_: Prime Minister Aisake Valu EKE (since 22 January 2025)<br>
 _cabinet_: Cabinet nominated by the prime minister and appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; prime minister and deputy prime minister indirectly elected by the Legislative Assembly and appointed by the monarch; election last held on 18 November 2021 (next to be held on 24 December 2024)<br>
-_election results_: <em><br>2021:</em> Siaosi SOVALENI elected prime minister by the Legislative Assembly; Siaosi SOVALENI 16 votes, Aisake EKE 10<br><br><em>2019:</em> Pohiva TU'I'ONETOA (Peoples Party) elected prime minister by parliament receiving 15 of 23 votes cast<br>
+_election results_: <em>2024: </em>Aisake Valu EKE elected prime minsiter by the Legislative Assembly; Aisake Valu EKE (Independent) 16 votes, Viliami LATU (Independent) 8<br><em><br>2021:</em> Siaosi SOVALENI elected prime minister by the Legislative Assembly; Siaosi SOVALENI 16 votes, Aisake EKE 10<br>
 <strong>note:</strong> a Privy Council advises the monarch<br>
 
 **Legislative branch**<br>

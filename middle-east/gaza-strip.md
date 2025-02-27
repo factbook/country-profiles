@@ -481,7 +481,7 @@ HAMAS maintains security forces inside Gaza in addition to its military wing, th
 not available<br>
 
 **Military and security service personnel strengths**<br>
-prior to the start of the 2023-2024 conflict with Israel, the military wing of HAMAS had an estimated 20-25,000 fighters (2023)<br>
+prior to the start of the 2023-2025 conflict with Israel, the military wing of HAMAS was estimated to have 20-30,000 fighters (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military wing is armed with light weapons, including an inventory of rocket, anti-tank, anti-aircraft, indirect fire (typically mortars), and armed UAV capabilities; HAMAS acquires its weapons through smuggling or local construction and receives significant military support from Iran (2024)<br>

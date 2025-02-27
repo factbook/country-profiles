@@ -61,7 +61,7 @@ _other_: 86.6% (2018 est.)<br>
 NA<br>
 
 **Population distribution**<br>
-most residents live in or around Oranjestad and San Nicolaas; most settlments tend to be located on the less mountainous western side of the island<br>
+most residents live in or around Oranjestad and San Nicolaas; most settlements tend to be located on the less mountainous western side of the island<br>
 
 **Natural hazards**<br>
 hurricanes; lies outside the Caribbean hurricane belt and is rarely threatened<br>
@@ -119,7 +119,7 @@ _female_: 42.4 years<br>
 8 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-most residents live in or around Oranjestad and San Nicolaas; most settlments tend to be located on the less mountainous western side of the island<br>
+most residents live in or around Oranjestad and San Nicolaas; most settlements tend to be located on the less mountainous western side of the island<br>
 
 **Urbanization**<br>
 _urban population_: 44.3% of total population (2023)<br>
@@ -474,7 +474,7 @@ _Total energy consumption per capita 2022_: 161.715 million Btu/person (2022 est
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 35,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 33 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 32 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 141,000 (2021 est.)<br>
@@ -492,11 +492,11 @@ _international_: country code - 297; landing&nbsp;points for the PAN-AM, PCCS, D
 .aw<br>
 
 **Internet users**<br>
-_percent of population_: 97% (2021 est.)<br>
+_percent of population_: 97% (2017 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 19,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 18 (2020 est.)<br>
+_total_: 19,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 17 (2022 est.)<br>
 
 ## Transportation
 

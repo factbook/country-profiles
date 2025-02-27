@@ -379,7 +379,7 @@ _selected World Heritage Site locales_: Cultural Sites of Al Ain (Hafit, Hili, B
 ## Economy
 
 **Economic overview**<br>
-historically oil-driven Middle Eastern economy; diversifying into a trade-oriented logistics and supply chain leader; strong foreign direct investment orientation; building trade and investment ties through partnership agreements; growing banking sector; recent economic linkages with Israel slowing due to Gaza conflict<br>
+<p>high-income, oil-driven Middle Eastern economy; fastest GDP growth of Gulf states; diversification through tourism, construction, and services; strong foreign direct investment orientation; continued government investment and business-friendly reforms</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $718.95 billion (2023 est.)<br>

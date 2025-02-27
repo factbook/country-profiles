@@ -347,7 +347,7 @@ _judge selection and term of office_: judges proposed by Ministry of Interior se
 _subordinate courts_: Appellate Court or Landsrettur; 8 district courts; Labor Court<br>
 
 **Political parties**<br>
-<p>Centrist Party (Midflokkurinn) or CP <br>Independence Party (Sjalfstaedisflokkurinn) or IP <br>Left-Green Movement (Vinstrihreyfingin-graent frambod) or LGM <br>People's Party (Flokkur Folksins) <br>Pirate Party (Piratar) <br>Progressive Party (Framsoknarflokkurinn) or PP <br>Reform Party (Vidreisn) <br>Social Democratic Alliance (Samfylkingin) or SDA </p><br>
+<p>Center Party (Midflokkurinn) or CP <br>Independence Party (Sjalfstaedisflokkurinn) or IP <br>Left-Green Movement (Vinstrihreyfingin-graent frambod) or LGM <br>Liberal Reform Party (Vidreisn) <br>People's Party (Flokkur Folksins) <br>Pirate Party (Piratar) <br>Progressive Party (Framsoknarflokkurinn) or PP <br>Social Democratic Alliance (Samfylkingin) or SDA </p><br>
 
 **International organization participation**<br>
 Arctic Council, Australia Group, BIS, CBSS, CD, CE, EAPC, EBRD, EFTA, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -573,11 +573,11 @@ _from petroleum and other liquids_: 3.065 million metric tonnes of CO2 (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 93,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 25 (2022 est.)<br>
+_total subscriptions_: 82,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 21 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 457,000 (2022 est.)<br>
+_total subscriptions_: 478,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 123 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -592,11 +592,11 @@ state-owned public TV broadcaster (RUV) operates 21 TV channels nationally (RUV 
 .is<br>
 
 **Internet users**<br>
-_percent of population_: 100% (2021 est.)<br>
+_percent of population_: 100% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 141,816 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 42 (2020 est.)<br>
+_total_: 145,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 37 (2023 est.)<br>
 
 ## Transportation
 

@@ -688,8 +688,8 @@ _key ports_: Andres (Andres Lng Terminal), Las Calderas, Puerto de Haina, Puerto
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Dominican Republic: Army of the Dominican Republic (Ejercito de la República Dominicana, ERD), Navy (Armada de República Dominicana or ARD; includes naval infantry), Dominican Air Force (Fuerza Aerea de la República Dominicana, FARD)  (2024)<br>
-<strong>note 1:</strong> in addition to the three main branches of the military, the Ministry of Defense directs the Airport Security Authority and Civil Aviation (CESAC), Port Security Authority (CESEP), the Tourist Security Corps (CESTUR), and Border Security Corps (CESFRONT); these specialized corps are joint forces, made up of personnel from all military branches in addition to civilian personnel; these forces may also assist in overall citizen security working together with the National Police, which is under the Ministry of Interior<br>
+Armed Forces of the Dominican Republic: Army of the Dominican Republic (Ejercito de la República Dominicana, ERD), Navy (Armada de República Dominicana or ARD; includes naval infantry), Dominican Air Force (Fuerza Aerea de la República Dominicana, FARD) (2025)<br>
+<strong>note 1:</strong> in addition to the three main branches of the military, the Ministry of Defense directs the Specialized Border Security Corps (CESFRONT), the Specialized Corps in Port Security (CESEP), and the Specialized Corps in Airport and Civil Aviation Safety (CESAC); these specialized corps are joint forces, made up of personnel from all military branches in addition to civilian personnel; they may also assist in overall citizen security working together with the National Police, which is under the Ministry of Interior<br>
 
 **Military expenditures**<br>
 0.6% of GDP (2023 est.)<br>
@@ -702,7 +702,7 @@ Armed Forces of the Dominican Republic: Army of the Dominican Republic (Ejercito
 approximately 55-60,000 Armed Forces personnel; up to 35,000 National Police (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's equipment inventory comes largely from the US, with smaller quantities from such suppliers as Brazil and Spain&nbsp; (2024)<br>
+the military's equipment inventory comes largely from the US, with smaller quantities from such suppliers as Brazil and Spain (2024)<br>
 
 **Military service age and obligation**<br>
 16-23 years of age for voluntary military service for men and women (ages vary slightly according to the military service; under 18 admitted with permission of parents); recruits must have completed primary school and be Dominican Republic citizens (2024)<br>

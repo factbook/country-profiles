@@ -357,6 +357,7 @@ _term in office_: 5 years<br>
 _most recent election date_: 7/21/2019<br>
 _parties elected and seats per party_: Servant of the People (254); Opposition Platform - For Life (43); Fatherland (26); European Solidarity (25); Independents (46); Other (30)<br>
 _percentage of women in chamber_: 21.2%<br>
+_expected date of next election_: May 2025<br>
 <strong>note 1:</strong> the next legislative election is expected to take place after the Russian-Ukrainian War ends<br><br><strong>note 2:</strong> voting not held in Crimea and parts of two Russian-occupied eastern oblasts leaving 26 seats vacant; although this brings the total to 424 elected members (of 450 potential), article 83 of the constitution mandates that a parliamentary majority consists of 226 seats<br>
 
 **Judicial branch**<br>

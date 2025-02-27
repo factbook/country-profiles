@@ -339,17 +339,11 @@ _chief of state_: President Alyaksandr LUKASHENKA (since 20 July 1994)<br>
 _head of government_: Prime Minister Roman GOLOVCHENKO (since 4 June 2020)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); first election held on 23 June and 10 July 1994; according to the 1994 constitution, the next election should have been held in 1999; however, Alyaksandr LUKASHENKA extended his term to 2001 via a November 1996 referendum; subsequent election held on 9 September 2001; an October 2004 referendum ended presidential term limits and allowed the President LUKASHENKA to run and win a third&nbsp; term (19 March 2006); a fourth term (19 December 2010); a fifth term (11 October 2015); a sixth term (9 August 2020); a seventh term (26 January 2025); next election to be held in 2030; prime minister and deputy prime ministers appointed by the president and approved by the National Assembly<br>
-_election results_: <em><br>2025:  Alyaksandr LUKASHENKA reelected president; percent of vote - Alyaksandr LUKASHENKA (independent) 86.8%, Sergey Syrankov (Communist Party) with 3.2%, 3.6% voting against all<br><br>2020:</em> Alyaksandr LUKASHENKA reelected president; percent of vote - Alyaksandr LUKASHENKA (independent) 80.1%, Svyatlana TSIKHANOWSKAYA (independent) 10.1%, other 9.8%; note - widespread street protests erupted following announcement of the election results amid allegations of voter fraud<br><em><br>2015:</em> Alyaksandr LUKASHENKA elected president; percent of vote - Alyaksandr LUKASHENKA (independent) 84.1%, Tatsyana KARATKEVIC (BSDPH) 4.4%, Sergey GAYDUKEVICH (LDP) 3.3%, other 8.2%.<br>
+_election results_: <em><br>2025: </em>Alyaksandr LUKASHENKA reelected president; percent of vote - Alyaksandr LUKASHENKA (independent) 86.8%, Sergey Syrankov (Communist Party) 3.2%, 3.6% voting against all<em><br><br>2020:</em> Alyaksandr LUKASHENKA reelected president; percent of vote - Alyaksandr LUKASHENKA (independent) 80.1%, Svyatlana TSIKHANOWSKAYA (independent) 10.1%, other 9.8%; note - widespread street protests erupted following announcement of the election results amid allegations of voter fraud<br><em><br>2015:</em> Alyaksandr LUKASHENKA elected president; percent of vote - Alyaksandr LUKASHENKA (independent) 84.1%, Tatsyana KARATKEVIC (BSDPH) 4.4%, Sergey GAYDUKEVICH (LDP) 3.3%, other 8.2%.<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Natsionalnoye Sobranie)<br>
 _legislative structure_: bicameral<br>
-_chamber name_: Council of the Republic<br>House of Representatives<br>
-_number of seats_: Council of the Republic - 56<br>House of Representatives - 110<br>
-_electoral system_: Plurality/majority<br>
-_most recent election date_: Council of the Republic 4 April 2024<br>House of Representatives 25 February 2024<br>
-_parties elected and seats per party_: Council of the Republic - seats by party - independent 54, other 2<br>House of Representatives - seats by party - Belaya Rus 51, RPTS 8, CPB 7, LDPB 4, independent 40<br>
-_expected date of next election_: Council of the Republic - 31 March 2029<br>House of Representatives -2 February 2029<br>
 
 **Legislative branch - lower chamber**<br>
 _chamber name_: House of Representatives (Palata Predstaviteley)<br>
