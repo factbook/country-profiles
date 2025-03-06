@@ -300,7 +300,7 @@ _residency requirement for naturalization_: 8 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Christine KANGALOO (since 20 March 2023)<br>
-_head of government_: Prime Minister Keith ROWLEY (since 9 September 2015)<br>
+_head of government_: Prime Minister Keith ROWLEY (since 9 September 2015); note - on 26 February 2025, Prime Minister ROWLEY announced that he will be resigning on 16 March 2025<br>
 _cabinet_: Cabinet appointed from among members of Parliament<br>
 _elections/appointments_: president indirectly elected by an electoral college of selected Senate and House of Representatives members for a 5-year term (eligible for a second term); election last held on 20 January 2023 (next to be held by February 2028); the president usually appoints the leader of the majority party in the House of Representatives as prime minister<br>
 _election results_: <em>2023: </em>Christine KANGALOO elected president by the electoral college on 20 January 2023; electoral college vote  Christine KANGALOO (PNM) 48, Israel KHAN (UNC) 22<br><br><em>2018: </em>Paula-Mae WEEKES (independent) elected president; ran unopposed and was elected without a vote; she was Trinidad and Tabago's first female head of state<br>
@@ -421,7 +421,7 @@ _exports of goods and services_: 45.4% (2017 est.)<br>
 _imports of goods and services_: -48.7% (2017 est.)<br>
 
 **Agricultural products**<br>
-chicken, fruits, coconuts, citrus fruits, plantains, maize, eggs, oranges, tomatoes, bananas (2022)<br>
+chicken, fruits, coconuts, citrus fruits, maize, oranges, plantains, eggs, taro, mangoes/guavas (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

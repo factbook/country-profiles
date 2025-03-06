@@ -449,7 +449,7 @@ _imports of goods and services_: -12.5% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-milk, cotton, wheat, potatoes, watermelons, tomatoes, grapes, beef, sugar beets, lamb/mutton (2022)<br>
+milk, wheat, potatoes, cotton, watermelons, tomatoes, grapes, barley, beef, lamb/mutton (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

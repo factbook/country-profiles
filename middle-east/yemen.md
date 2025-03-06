@@ -441,7 +441,7 @@ _imports of goods and services_: -50.1% (2018 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-mangoes/guavas, potatoes, onions, milk, sorghum, spices, watermelons, chicken, tomatoes, grapes (2022)<br>
+mangoes/guavas, potatoes, milk, onions, spices, chicken, sorghum, watermelons, tomatoes, grapes (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

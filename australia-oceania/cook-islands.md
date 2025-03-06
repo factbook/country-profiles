@@ -354,7 +354,7 @@ $16,800 (2020 est.)<br>
 $336 million (2022 est.)<br>
 
 **Agricultural products**<br>
-coconuts, vegetables, papayas, pork, sweet potatoes, tomatoes, fruits, mangoes/guavas, watermelons, eggs (2022)<br>
+coconuts, vegetables, papayas, pork, sweet potatoes, tomatoes, fruits, mangoes/guavas, watermelons, chicken (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

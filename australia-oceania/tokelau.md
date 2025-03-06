@@ -262,7 +262,7 @@ $12.658 million (2017 est.)<br>
 <strong>note: </strong>Tokelau notes that its wide inflation swings are due almost entirely to cigarette prices, a chief import.<br>
 
 **Agricultural products**<br>
-coconuts, root vegetables, tropical fruits, pork, bananas, eggs, chicken, pork offal, pork fat, fruits (2022)<br>
+coconuts, root vegetables, tropical fruits, pork, bananas, eggs, chicken (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

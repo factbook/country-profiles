@@ -437,7 +437,7 @@ _exports of goods and services_: 49.3% (2017 est.)<br>
 _imports of goods and services_: -22.3% (2017 est.)<br>
 
 **Agricultural products**<br>
-oil palm fruit, coconuts, bananas, fruits, sweet potatoes, game meat, yams, root vegetables, sugarcane, vegetables (2022)<br>
+oil palm fruit, coconuts, bananas, fruits, sweet potatoes, game meat, yams, root vegetables, vegetables, sugarcane (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

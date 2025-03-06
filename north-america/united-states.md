@@ -107,8 +107,8 @@ White 61.6%, Black or African American 12.4%, Asian 6%, Indigenous and Alaska na
 <strong>note:</strong> a separate listing for Hispanic is not included because the US Census Bureau considers Hispanic to mean persons of Spanish/Hispanic/Latino origin including those of Mexican, Cuban, Puerto Rican, Dominican Republic, Spanish, and Central or South American origin living in the US who may be of any race or ethnic group (White, Black, Asian, etc.); an estimated 18.7% of the total US population is Hispanic as of 2020<br>
 
 **Languages**<br>
-English only 78.2%, Spanish 13.4%, Chinese 1.1%, other 7.3% (2017 est.)<br>
-<strong>note:</strong> data represent the language spoken at home; the US has no official national language, but English has acquired official status in 32 of the 50 states; Hawaiian is an official language in the state of Hawaii, and 20 indigenous languages are official in Alaska<br>
+English only (official) 78.2%, Spanish 13.4%, Chinese 1.1%, other 7.3% (2017 est.)<br>
+<strong>note:</strong> data represent the language spoken at home; English is the official national language as of March 2025, but English previously had official status in 32 of the 50 states; Hawaiian is an official language in the state of Hawaii, and 20 indigenous languages are official in Alaska<br>
 
 **Religions**<br>
 Protestant 46.5%, Roman Catholic 20.8%, Jewish 1.9%, Church of Jesus Christ 1.6%, other Christian 0.9%, Muslim 0.9%, Jehovah's Witness 0.8%, Buddhist 0.7%, Hindu 0.7%, other 1.8%, unaffiliated 22.8%, don't know/refused 0.6% (2014 est.)<br>
@@ -248,7 +248,7 @@ _female_: 17 years (2020)<br>
 air pollution; large emitter of carbon dioxide from the burning of fossil fuels; water pollution from runoff of pesticides and fertilizers; declining natural freshwater resources in much of the western part of the country require careful management; deforestation; mining; desertification; species conservation; invasive species (the Hawaiian Islands are particularly vulnerable)<br>
 
 **Environment - international agreements**<br>
-_party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Climate Change, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Marine Dumping-London Convention, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
+_party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Climate Change, Desertification, Endangered Species, Environmental Modification, Marine Dumping-London Convention, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Air Pollution-Persistent Organic Pollutants, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change-Kyoto Protocol, Comprehensive Nuclear Test Ban, Hazardous Wastes, Marine Dumping-London Protocol<br>
 
 **Climate**<br>
@@ -421,7 +421,7 @@ _selected World Heritage Site locales_: <p>Yellowstone National Park (n); Grand 
 ## Economy
 
 **Economic overview**<br>
-high-income, diversified North American economy; NATO leader; largest importer and second-largest exporter; home to leading financial exchanges; high and growing public debt; rising socioeconomic inequalities; historically low interest rates; hit by COVID-19<br>
+<p>world’s largest economy by nominal GDP; largest importer and second-largest exporter; home to leading financial exchanges and global reserve currency; high and growing public debt; inflation moderating but remains above pre-pandemic levels</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $24.977 trillion (2023 est.)<br>
@@ -473,7 +473,7 @@ _imports of goods and services_: -13.9% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-maize, soybeans, milk, wheat, sugarcane, sugar beets, chicken, potatoes, beef, pork (2022)<br>
+maize, soybeans, milk, wheat, sugar beets, sugarcane, potatoes, chicken, pork, tomatoes (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

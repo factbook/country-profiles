@@ -417,7 +417,7 @@ _exports of goods and services_: 60% (2017 est.)<br>
 _imports of goods and services_: -55% (2017 est.)<br>
 
 **Agricultural products**<br>
-coconuts, sugarcane, eggs, bananas, vegetables, fruits, plantains, root vegetables, grapefruits, avocados (2022)<br>
+sugarcane, coconuts, eggs, vegetables, fruits, bananas, plantains, grapefruits, avocados, mangoes/guavas (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -545,11 +545,11 @@ _Total energy consumption per capita 2022_: 40.666 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 26,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 21 (2021 est.)<br>
+_total subscriptions_: 17,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 14 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 101,000 (2021 est.)<br>
+_total subscriptions_: 112,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 81 (2021 est.)<br>
 
 **Telecommunication systems**<br>
@@ -564,11 +564,11 @@ multiple publicly and privately owned television and radio stations; Grenada Inf
 .gd<br>
 
 **Internet users**<br>
-_percent of population_: 78% (2021 est.)<br>
+_percent of population_: 80% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 32,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 28 (2020 est.)<br>
+_total_: 35,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 30 (2022 est.)<br>
 
 ## Transportation
 

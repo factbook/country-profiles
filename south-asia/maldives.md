@@ -426,7 +426,7 @@ _exports of goods and services_: 74.4% (2023 est.)<br>
 _imports of goods and services_: -75.7% (2023 est.)<br>
 
 **Agricultural products**<br>
-fruits, vegetables, nuts, other meats, tomatoes, bananas, maize, pulses, coconuts, papayas (2022)<br>
+fruits, vegetables, nuts, other meats, papayas, bananas, tomatoes, maize, pulses, chillies/peppers (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

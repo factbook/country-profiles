@@ -456,7 +456,7 @@ _imports of goods and services_: -60.3% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-cassava, sugarcane, maize, tomatoes, sweet potatoes, beans, bananas, onions, rice, coconuts (2022)<br>
+cassava, maize, sugarcane, tomatoes, beans, potatoes, sweet potatoes, bananas, coconuts, onions (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

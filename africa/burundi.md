@@ -460,7 +460,7 @@ _imports of goods and services_: -24.3% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-cassava, bananas, sweet potatoes, vegetables, beans, potatoes, maize, sugarcane, fruits, rice (2022)<br>
+cassava, bananas, sweet potatoes, beans, maize, vegetables, potatoes, rice, sugarcane, fruits (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -663,7 +663,7 @@ the military has a mix of mostly older weapons and equipment typically of French
 18 years of age for voluntary military service for men and women (2023)<br>
 
 **Military deployments**<br>
-760 Central African Republic (MINUSCA); up to 3,000 in Somalia (ATMIS; note - foreign troop contingents under ATMIS are drawing down towards a final exit in December 2024) (2024)<br>
+760 Central African Republic (MINUSCA) (2024)<br>
 <strong>note: </strong>Burundi deployed military troops to the Democratic Republic of the Congo (DRC) in 2022 as part of an East African regional force; as of 2024, as many as 1,000 troops reportedly remained in the DRC<br>
 
 **Military - note**<br>

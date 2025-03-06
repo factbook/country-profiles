@@ -431,7 +431,7 @@ _imports of goods and services_: -93.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-dates, cucumbers/gherkins, camel milk, goat milk, tomatoes, eggs, goat meat, milk, chicken, camel meat (2022)<br>
+dates, cucumbers/gherkins, camel milk, goat milk, tomatoes, chicken, goat meat, eggs, milk, camel meat (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

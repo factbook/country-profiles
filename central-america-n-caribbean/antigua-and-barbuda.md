@@ -413,7 +413,7 @@ _imports of goods and services_: -62.9% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-tropical fruits, milk, mangoes/guavas, eggs, lemons/limes, pumpkins/squash, vegetables, sweet potatoes, cassava, yams (2022)<br>
+tropical fruits, milk, mangoes/guavas, eggs, lemons/limes, pumpkins/squash, sweet potatoes, vegetables, cucumbers/gherkins, yams (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

@@ -383,7 +383,7 @@ _imports of goods and services_: -176% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-pork, chicken, spinach, vegetables, game meat, pork offal, fruits, onions, lettuce, pork fat (2022)<br>
+pork, chicken, spinach, vegetables, pork offal, game meat, beef, fruits, onions, pork fat (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

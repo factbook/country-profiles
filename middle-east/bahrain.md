@@ -448,7 +448,7 @@ _imports of goods and services_: -70.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-lamb/mutton, dates, milk, chicken, tomatoes, fruits, sheep offal, eggs, sheepskins, cucumbers/gherkins (2022)<br>
+lamb/mutton, dates, milk, tomatoes, chicken, eggs, sheep offal, sheepskins, eggplants, chillies/peppers (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

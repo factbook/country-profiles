@@ -426,7 +426,7 @@ _imports of goods and services_: -70.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-potatoes, watermelons, tomatoes, onions, dates, milk, olives, chicken, wheat, vegetables (2022)<br>
+potatoes, onions, watermelons, tomatoes, dates, olives, milk, chicken, wheat, vegetables (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

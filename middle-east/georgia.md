@@ -393,7 +393,7 @@ _selected World Heritage Site locales_: Gelati Monastery (c); Historical Monumen
 ## Economy
 
 **Economic overview**<br>
-<p>main economic activities include cultivation of agricultural products, such as grapes, citrus fruits, and hazelnuts; mining of manganese, copper, and gold; producing alcoholic and nonalcoholic beverages</p><br>
+<p>upper-middle income, fast-growing South Caucasus economy; regionally focused exporter of cars, metal ores, and energy; financial and migrant inflows resulting from Ukraine conflict; EU accession talks suspended over disputed election and foreign influence law; low inflation but persistent high unemployment</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $83.935 billion (2023 est.)<br>
@@ -445,7 +445,7 @@ _imports of goods and services_: -57.9% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-milk, grapes, potatoes, wheat, maize, apples, watermelons, barley, tangerines/mandarins, tomatoes (2022)<br>
+milk, grapes, potatoes, maize, wheat, tangerines/mandarins, tomatoes, barley, apples, eggs (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

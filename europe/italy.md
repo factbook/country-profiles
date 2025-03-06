@@ -462,7 +462,7 @@ _imports of goods and services_: -32.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-milk, grapes, wheat, tomatoes, maize, apples, olives, oranges, potatoes, pork (2022)<br>
+milk, wheat, grapes, tomatoes, maize, olives, apples, oranges, sugar beets, rice (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -626,11 +626,11 @@ _Total energy consumption per capita 2022_: 98.458 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 19.982 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 34 (2022 est.)<br>
+_total subscriptions_: 20.107 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 34 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 78.503 million (2022 est.)<br>
+_total subscriptions_: 78.5 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 133 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -645,11 +645,11 @@ two Italian media giants dominate with 3 national terrestrial stations and priva
 .it<br>
 
 **Internet users**<br>
-_percent of population_: 75% (2021 est.)<br>
+_percent of population_: 87% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 18,128,787 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 30 (2020 est.)<br>
+_total_: 20.1 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 34 (2023 est.)<br>
 
 ## Transportation
 

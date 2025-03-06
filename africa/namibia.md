@@ -466,7 +466,7 @@ _imports of goods and services_: -66.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-root vegetables, milk, maize, millet, grapes, beef, onions, wheat, fruits, pulses (2022)<br>
+root vegetables, milk, maize, beef, grapes, onions, wheat, fruits, pulses, vegetables (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

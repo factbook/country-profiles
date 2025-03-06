@@ -428,7 +428,7 @@ in 2018, the Beijing established an investigatory National Supervisory Commissio
 ## Economy
 
 **Economic overview**<br>
-one of the world&rsquo;s top two economies; sustained growth due to export relations, its manufacturing sector, and low-wage workers; only major economy to avoid COVID-19 economic decline; recovery efforts slowing due to longstanding poverty imbalances and other institutional issues; state-sponsored economic controls<br>
+<p>world’s second-largest economy by nominal GDP; global leader in exports and manufacturing; historically strong growth slowing; challenges of aging workforce, weak productivity, rising youth unemployment, struggling property sector, and public debt; state-sponsored economic controls and infrastructure investments</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $31.23 trillion (2023 est.)<br>
@@ -480,7 +480,7 @@ _imports of goods and services_: -17.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-maize, rice, vegetables, wheat, sugarcane, potatoes, cucumbers/gherkins, tomatoes, watermelons, pork (2022)<br>
+maize, rice, vegetables, wheat, sugarcane, potatoes, cucumbers/gherkins, tomatoes, watermelons, pork (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

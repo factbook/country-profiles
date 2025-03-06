@@ -423,7 +423,7 @@ _exports of goods and services_: 7.9% (2017 est.)<br>
 _imports of goods and services_: -40.4% (2017 est.)<br>
 
 **Agricultural products**<br>
-plantains, oil palm fruit, taro, bananas, fruits, cocoa beans, coconuts, yams, cassava, carrots/turnips (2022)<br>
+plantains, oil palm fruit, taro, bananas, fruits, cocoa beans, yams, coconuts, cassava, vegetables (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -563,11 +563,11 @@ _Total energy consumption per capita 2022_: 9.873 million Btu/person (2022 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2022 est.)<br>
+_total subscriptions_: 2,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 197,000 (2022 est.)<br>
+_total subscriptions_: 152,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 87 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -582,11 +582,11 @@ _international_: country code - 239; landing points for the Ultramar GE and ACE 
 .st<br>
 
 **Internet users**<br>
-_percent of population_: 51% (2021 est.)<br>
+_percent of population_: 57% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,512 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
+_total_: 6,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 
 ## Transportation
 

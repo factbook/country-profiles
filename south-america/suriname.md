@@ -432,7 +432,7 @@ _exports of goods and services_: 68.9% (2017 est.)<br>
 _imports of goods and services_: -60.6% (2017 est.)<br>
 
 **Agricultural products**<br>
-rice, sugarcane, oranges, chicken, plantains, vegetables, bananas, coconuts, cassava, eggs (2022)<br>
+rice, sugarcane, oranges, vegetables, chicken, cassava, plantains, pineapples, eggs, citrus fruits (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

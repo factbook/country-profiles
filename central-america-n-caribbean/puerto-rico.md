@@ -401,7 +401,7 @@ _imports of goods and services_: -47.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-milk, plantains, bananas, chicken, tomatoes, mangoes/guavas, eggs, oranges, pumpkins/squash, papayas (2022)<br>
+milk, plantains, bananas, tomatoes, chicken, oranges, mangoes/guavas, pineapples, eggs, pumpkins/squash (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

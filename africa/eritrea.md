@@ -415,7 +415,7 @@ _exports of goods and services_: 10.9% (2017 est.)<br>
 _imports of goods and services_: -22.5% (2017 est.)<br>
 
 **Agricultural products**<br>
-sorghum, milk, barley, vegetables, root vegetables, cereals, pulses, millet, wheat, beef (2022)<br>
+sorghum, milk, barley, vegetables, root vegetables, cereals, pulses, wheat, beef, maize (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

@@ -330,7 +330,7 @@ _number of seats_: 21 (all appointed)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 2/4/2022<br>
-_percentage of women in chamber_: 38.1%<br>
+_percentage of women in chamber_: 33.3%<br>
 _expected date of next election_: February 2027<br>
 
 **Judicial branch**<br>
@@ -429,7 +429,7 @@ _imports of goods and services_: -42.2% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-sugarcane, chicken, vegetables, milk, eggs, sweet potatoes, pork, coconuts, cantaloupes/melons, tropical fruits (2022)<br>
+sugarcane, chicken, vegetables, milk, eggs, sweet potatoes, pork, coconuts, tropical fruits, pulses (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -582,11 +582,11 @@ government-owned Caribbean Broadcasting Corporation (CBC) operates the lone terr
 .bb<br>
 
 **Internet users**<br>
-_percent of population_: 86% (2021 est.)<br>
+_percent of population_: 76% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 128,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 45 (2020 est.)<br>
+_total_: 106,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 37 (2022 est.)<br>
 
 ## Transportation
 

@@ -303,7 +303,7 @@ civil law system; Supreme Court may review administrative acts<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 19 November 1986, effective 9 January 1987<br>
-_amendments_: proposed by the president of the republic or assent of at least half of the National Assembly membership; passage requires approval by 60% of the membership of the next elected Assembly and promulgation by the president of the republic; amended several times, last in 2021<br>
+_amendments_: proposed by the president of the republic or assent of at least half of the National Assembly membership; passage requires approval by 60% of the membership of the next elected Assembly and promulgation by the president of the republic; amended several times, last in 2025<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt<br>
@@ -321,7 +321,7 @@ _residency requirement for naturalization_: 4 years<br>
 _chief of state_: President Jose Daniel ORTEGA Saavedra (since 10 January 2007)<br>
 _head of government_: President Jose Daniel ORTEGA Saavedra (since 10 January 2007)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by qualified plurality vote for a 5-year term (no term limits); election last held on 7 November 2021 (next to be held on 1 November 2026)<br>
+_elections/appointments_: president and vice president directly elected on the same ballot by qualified plurality vote for a 6-year term (no term limits); election last held on 7 November 2021 (next to be held on 1 November 2026)<br>
 _election results_: <br><em>2021:</em> Jose Daniel ORTEGA Saavedra reelected president for a fourth consecutive term; percent of vote - Jose Daniel ORTEGA Saavedra (FSLN) 75.9%, Walter ESPINOZA (PLC) 14.3%, Guillermo OSORNO (CCN) 3.3%, Marcelo MONTIEL (ALN) 3.1%, other 3.4%<br><em><br>2016:</em> Jose Daniel ORTEGA Saavedra reelected president for a third consecutive term; percent of vote - Jose Daniel ORTEGA Saavedra (FSLN) 72.4%, Maximino RODRIGUEZ (PLC) 15%, Jose del Carmen ALVARADO (PLI) 4.5%, Saturnino CERRATO Hodgson (ALN) 4.3%, other 3.7%<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
@@ -435,7 +435,7 @@ _imports of goods and services_: -59.1% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-sugarcane, milk, rice, oil palm fruit, maize, plantains, cassava, groundnuts, beans, coffee (2022)<br>
+sugarcane, milk, rice, oil palm fruit, maize, plantains, cassava, groundnuts, beans, chicken (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

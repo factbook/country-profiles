@@ -446,7 +446,7 @@ _imports of goods and services_: -29% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-cassava, groundnuts, yams, coffee, maize, sesame seeds, bananas, taro, sugarcane, beef (2022)<br>
+cassava, groundnuts, yams, coffee, maize, sesame seeds, taro, sugarcane, beef, milk (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

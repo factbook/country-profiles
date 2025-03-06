@@ -471,7 +471,7 @@ _imports of goods and services_: -23.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-sugarcane, potatoes, rice, bananas, milk, chicken, maize, oil palm fruit, cassava, grapes (2022)<br>
+sugarcane, potatoes, rice, bananas, milk, maize, chicken, oil palm fruit, cassava, grapes (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

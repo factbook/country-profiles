@@ -327,7 +327,7 @@ accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction
 **Citizenship**<br>
 _citizenship by birth_: no<br>
 _citizenship by descent only_: at least one parent must be a citizen of Norway<br>
-_dual citizenship recognized_: no<br>
+_dual citizenship recognized_: yes<br>
 _residency requirement for naturalization_: 7 years<br>
 
 **Suffrage**<br>
@@ -448,7 +448,7 @@ _imports of goods and services_: -32.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-milk, barley, wheat, potatoes, oats, pork, chicken, beef, eggs, rye (2022)<br>
+milk, barley, potatoes, oats, wheat, pork, chicken, beef, eggs, carrots/turnips (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

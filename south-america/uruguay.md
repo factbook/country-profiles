@@ -344,11 +344,11 @@ _residency requirement for naturalization_: 3-5 years<br>
 18 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: President Luis Alberto LACALLE POU (since 1 March 2020)<br>
-_head of government_: President Luis Alberto LACALLE POU (since 1 March 2020)<br>
+_chief of state_: President Yamand&uacute; ORSI Mart&iacute;nez (since 1 March 2025)<br>
+_head of government_: President Yamand&uacute; ORSI Mart&iacute;nez (since 1 March 2025)<br>
 _cabinet_: Council of Ministers appointed by the president with approval of the General Assembly<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority vote in 2 rounds if needed for a 5-year term (eligible for nonconsecutive terms); election last held on 27 October 2024 with a runoff on 24 November 2024 (next to be held on 28 October 2029 and a runoff, if needed, on 25 November 2029)<br>
-_election results_: <em>2024: </em>Yamandú ORSI Martínez elected president in second round; percent of vote in first round - Yamandú ORSI Martínez (FA) 46.2%, Álvaro Luis DELGADO Ceretta (PN) 28.2%, Andrés OJEDA Ojeda Spitz (PC) 16.9%, other 8.7%; percent of vote in second round - Yamandú ORSI Martínez 52.1%, Álvaro Luis DELGADO Ceretta 47.9%; note - ORSI will take office 1 March 2025<br><em><br>2019:</em> Luis Alberto LACALLE POU elected president in second round; percent of vote in first round - Daniel MARTINEZ (FA) 40.7%, Luis Alberto LACALLE POU (PN) 29.7%, Ernesto TALVI (Colorado Party) 12.8%, Guido MANINI RIOS (Open Cabildo) 11.3%, other 5.5%; percent of vote in second round - Luis Alberto LACALLE POU 50.6%, Daniel MARTINEZ 49.4%<br><br><em>2014:</em> Tabare VAZQUEZ elected president in second round; percent of vote - Tabare VAZQUEZ (Socialist Party) 56.5%, Luis Alberto LACALLE Pou (PN) 43.4%<br>
+_election results_: <em>2024: </em>Yamandú ORSI Martínez elected president in second round; percent of vote in first round - Yamandú ORSI Martínez (FA) 46.2%, Álvaro Luis DELGADO Ceretta (PN) 28.2%, Andrés OJEDA Ojeda Spitz (PC) 16.9%, other 8.7%; percent of vote in second round - Yamandú ORSI Martínez 52.1%, Álvaro Luis DELGADO Ceretta 47.9%<br><em><br>2019:</em> Luis Alberto LACALLE POU elected president in second round; percent of vote in first round - Daniel MARTINEZ (FA) 40.7%, Luis Alberto LACALLE POU (PN) 29.7%, Ernesto TALVI (Colorado Party) 12.8%, Guido MANINI RIOS (Open Cabildo) 11.3%, other 5.5%; percent of vote in second round - Luis Alberto LACALLE POU 50.6%, Daniel MARTINEZ 49.4%<br><br><em>2014:</em> Tabare VAZQUEZ elected president in second round; percent of vote - Tabare VAZQUEZ (Socialist Party) 56.5%, Luis Alberto LACALLE Pou (PN) 43.4%<br>
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -475,7 +475,7 @@ _imports of goods and services_: -24.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-milk, rice, wheat, barley, soybeans, beef, rapeseed, sugarcane, maize, oranges (2022)<br>
+milk, rice, wheat, barley, soybeans, beef, rapeseed, sugarcane, maize, beef offal (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -628,11 +628,11 @@ _Total energy consumption per capita 2022_: 47.237 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.259 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 37 (2022 est.)<br>
+_total subscriptions_: 1.205 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 36 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4.741 million (2022 est.)<br>
+_total subscriptions_: 4.8 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 139 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -647,11 +647,11 @@ mixture of privately owned and state-run broadcast media; more than 100 commerci
 .uy<br>
 
 **Internet users**<br>
-_percent of population_: 90% (2021 est.)<br>
+_percent of population_: 90% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,063,701 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 31 (2020 est.)<br>
+_total_: 1.1 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 32 (2023 est.)<br>
 
 ## Transportation
 

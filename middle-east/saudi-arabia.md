@@ -443,7 +443,7 @@ _imports of goods and services_: -27.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-milk, dates, chicken, wheat, tomatoes, potatoes, watermelons, olives, eggs, onions (2022)<br>
+milk, dates, chicken, wheat, tomatoes, watermelons, potatoes, olives, eggs, onions (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -504,12 +504,12 @@ $286.502 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 19%, India 13%, Japan 10%, South Korea 10%, US 7% (2022)<br>
-<b>note:</b> top five export partners based on percentage share of exports<br>
+China 21%, India 12%, Japan 12%, US 6%, UAE 4% (2023)<br>
+<strong>note:</strong> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, refined petroleum, ethylene polymers, plastics, fertilizers (2022)<br>
-<b>note:</b> top five export commodities based on value in dollars<br>
+crude petroleum, refined petroleum, plastics, alcohols, ships (2023)<br>
+<strong>note:</strong> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $291.565 billion (2023 est.)<br>
@@ -518,12 +518,12 @@ $213.516 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 22%, UAE 16%, US 6%, India 6%, Germany 4% (2022)<br>
-<b>note:</b> top five import partners based on percentage share of imports<br>
+China 21%, UAE 8%, US 7%, India 6%, Germany 5% (2023)<br>
+<strong>note:</strong> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars, broadcasting equipment, garments, gold, refined petroleum (2022)<br>
-<b>note:</b> top five import commodities based on value in dollars<br>
+cars, refined petroleum, gold, broadcasting equipment, packaged medicine (2023)<br>
+<strong>note:</strong> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $457.949 billion (2023 est.)<br>

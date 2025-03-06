@@ -403,7 +403,7 @@ _exports of goods and services_: 62.5% (2017 est.)<br>
 _imports of goods and services_: -60.4% (2017 est.)<br>
 
 **Agricultural products**<br>
-coconuts, tropical fruits, root vegetables, vegetables, eggs, pulses, tomatoes, beef, sweet potatoes, watermelons (2022)<br>
+coconuts, tropical fruits, root vegetables, vegetables, eggs, pulses, sweet potatoes, watermelons, cucumbers/gherkins, tomatoes (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -507,11 +507,11 @@ _Total energy consumption per capita 2022_: 77.743 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 16,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 33 (2021 est.)<br>
+_total subscriptions_: 16,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 33 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 57,000 (2021 est.)<br>
+_total subscriptions_: 56,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 119 (2021 est.)<br>
 
 **Telecommunication systems**<br>
@@ -526,11 +526,11 @@ the government operates a national TV network that broadcasts on 2 channels; cab
 .kn<br>
 
 **Internet users**<br>
-_percent of population_: 79% (2021 est.)<br>
+_percent of population_: 76% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 30,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 56 (2020 est.)<br>
+_total_: 22,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 47 (2022 est.)<br>
 
 ## Transportation
 

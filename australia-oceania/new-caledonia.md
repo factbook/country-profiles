@@ -359,7 +359,7 @@ _imports of goods and services_: -37.9% (2017 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-coconuts, vegetables, fruits, maize, beef, pork, eggs, yams, bananas, mangoes/guavas (2022)<br>
+coconuts, vegetables, fruits, pork, beef, maize, eggs, bananas, yams, oranges (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

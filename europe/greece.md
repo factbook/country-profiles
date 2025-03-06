@@ -444,7 +444,7 @@ _imports of goods and services_: -48.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-maize, wheat, sheep milk, peaches/nectarines, oranges, grapes, tomatoes, milk, watermelons, potatoes (2022)<br>
+maize, wheat, sheep milk, oranges, tomatoes, milk, peaches/nectarines, grapes, watermelons, barley (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -519,12 +519,12 @@ $87.521 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Italy 10%, Bulgaria 7%, Germany 6%, Cyprus 5%, Turkey 5% (2022)<br>
-<b>note:</b> top five export partners based on percentage share of exports<br>
+Italy 12%, Germany 6%, Cyprus 6%, Bulgaria 5%, US 4% (2023)<br>
+<strong>note:</strong> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, packaged medicine, aluminum, natural gas, plastic products (2022)<br>
-<b>note:</b> top five export commodities based on value in dollars<br>
+refined petroleum, packaged medicine, aluminum, olive oil, tobacco (2023)<br>
+<strong>note:</strong> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $119.234 billion (2023 est.)<br>
@@ -533,12 +533,12 @@ $103.532 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 12%, Germany 9%, Russia 9%, Italy 7%, Iraq 7% (2022)<br>
-<b>note:</b> top five import partners based on percentage share of imports<br>
+Germany 10%, China 10%, Italy 8%, Iraq 6%, Netherlands 6% (2023)<br>
+<strong>note:</strong> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-crude petroleum, natural gas, refined petroleum, garments, packaged medicine (2022)<br>
-<b>note:</b> top five import commodities based on value in dollars<br>
+crude petroleum, refined petroleum, natural gas, cars, packaged medicine (2023)<br>
+<strong>note:</strong> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $13.608 billion (2023 est.)<br>

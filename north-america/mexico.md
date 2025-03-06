@@ -494,7 +494,7 @@ _imports of goods and services_: -37.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-sugarcane, maize, milk, oranges, sorghum, tomatoes, chicken, wheat, chilies/peppers, lemons/limes (2022)<br>
+sugarcane, maize, milk, oranges, sorghum, tomatoes, chicken, chillies/peppers, wheat, lemons/limes (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

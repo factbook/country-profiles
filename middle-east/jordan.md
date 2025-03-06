@@ -468,7 +468,7 @@ _imports of goods and services_: -56.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-tomatoes, milk, chicken, potatoes, cucumbers/gherkins, olives, watermelons, peaches/nectarines, sheep milk, chilies/peppers (2022)<br>
+tomatoes, milk, chicken, potatoes, olives, cucumbers/gherkins, onions, chillies/peppers, peaches/nectarines, sheep milk (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

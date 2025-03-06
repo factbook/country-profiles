@@ -441,7 +441,7 @@ _imports of goods and services_: -181.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-milk, wheat, barley, triticale, potatoes, pork, grapes, beef, oats, rapeseed (2022)<br>
+milk, wheat, barley, triticale, potatoes, pork, grapes, beef, rye, rapeseed (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -590,11 +590,11 @@ _Total energy consumption per capita 2022_: 232.384 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 261,000 (2022 est.)<br>
+_total subscriptions_: 260,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 40 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 876,000 (2021 est.)<br>
+_total subscriptions_: 961,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 137 (2021 est.)<br>
 
 **Telecommunication systems**<br>
@@ -609,11 +609,11 @@ Luxembourg has a long tradition of operating radio and TV services for pan-Europ
 .lu<br>
 
 **Internet users**<br>
-_percent of population_: 99% (2021 est.)<br>
+_percent of population_: 99% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 235,155 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 38 (2020 est.)<br>
+_total_: 250,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 38 (2022 est.)<br>
 
 ## Transportation
 

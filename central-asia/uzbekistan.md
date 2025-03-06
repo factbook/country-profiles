@@ -414,7 +414,7 @@ _selected World Heritage Site locales_: Itchan Kala (c); Historic Bukhara (c); H
 ## Economy
 
 **Economic overview**<br>
-lower middle-income Central Asian economy; CIS Free Trade Area member but no intention of EAEU membership; key natural gas, cotton, and gold exporter; landlocked and environmentally fragile; positive growth through COVID-19, but poverty increasing<br>
+<p>lower-middle income Central Asian economy; key exporter of natural gas, cotton, and gold; ongoing reform efforts to reduce state-owned sector dominance, attract foreign investment, and improve sustainability of cotton production</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $356.797 billion (2023 est.)<br>
@@ -466,7 +466,7 @@ _imports of goods and services_: -40.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-milk, wheat, carrots/turnips, cotton, potatoes, tomatoes, grapes, vegetables, watermelons, apples (2022)<br>
+milk, wheat, cotton, potatoes, carrots/turnips, tomatoes, grapes, watermelons, vegetables, apples (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

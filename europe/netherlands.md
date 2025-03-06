@@ -467,7 +467,7 @@ _imports of goods and services_: -77.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-milk, sugar beets, potatoes, pork, onions, wheat, chicken, tomatoes, carrots/turnips, goat milk (2022)<br>
+milk, sugar beets, potatoes, onions, pork, wheat, chicken, tomatoes, carrots/turnips, beef (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -719,7 +719,7 @@ approximately 45,000 active-duty personnel (19,000 Army; 8,000 Navy; 8,000 Air F
 <strong>note:</strong> the total figures include about 6,000 reservists on active duty; the Navy figures include about 2,300 marines<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of a mix of domestically produced and modern European- and US-sourced equipment; in recent years, the US has been the leading supplier of weapons systems; the Netherlands has an advanced domestic defense industry that focuses on armored vehicles, naval ships, and air defense systems; it also participates with the US and other European countries on joint development and production of advanced weapons systems (2024)<br>
+the military's inventory consists of a mix of domestically produced and modern European- and US-sourced equipment; the Netherlands has an advanced domestic defense industry that focuses on armored vehicles, naval ships, and air defense systems; it also participates with the US and other European countries on joint development and production of advanced weapons systems (2025)<br>
 
 **Military service age and obligation**<br>
 17 years of age for voluntary service for men and women; the military is an all-volunteer force; conscription remains in place, but the requirement to show up for compulsory military service was suspended in 1997; must be a citizen of the Netherlands (2024)<br>

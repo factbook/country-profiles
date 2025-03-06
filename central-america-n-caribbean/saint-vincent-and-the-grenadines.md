@@ -401,7 +401,7 @@ _exports of goods and services_: 37.1% (2017 est.)<br>
 _imports of goods and services_: -51.7% (2017 est.)<br>
 
 **Agricultural products**<br>
-bananas, root vegetables, plantains, vegetables, fruits, coconuts, mangoes/guavas, yams, spices, sweet potatoes (2022)<br>
+bananas, root vegetables, plantains, spices, coconuts, fruits, apples, vegetables, mangoes/guavas, sweet potatoes (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -529,11 +529,11 @@ _Total energy consumption per capita 2022_: 35.826 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 11,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 11 (2022 est.)<br>
+_total subscriptions_: 10,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 10 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 104,000 (2022 est.)<br>
+_total subscriptions_: 103,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 100 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -548,11 +548,11 @@ St. Vincent and the Grenadines Broadcasting Corporation operates 1 TV station an
 .vc<br>
 
 **Internet users**<br>
-_percent of population_: 85% (2021 est.)<br>
+_percent of population_: 78% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 24,733 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 22 (2020 est.)<br>
+_total_: 31,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 30 (2023 est.)<br>
 
 ## Transportation
 

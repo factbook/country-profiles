@@ -443,7 +443,7 @@ _imports of goods and services_: -52.1% (2019 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-sugarcane, yams, goat milk, chicken, coconuts, oranges, bananas, pumpkins/squash, plantains, sweet potatoes (2022)<br>
+sugarcane, goat milk, yams, chicken, oranges, coconuts, bananas, plantains, pumpkins/squash, pineapples (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

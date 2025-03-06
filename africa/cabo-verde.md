@@ -329,7 +329,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 4/18/2021<br>
 _parties elected and seats per party_: Movement for Democracy (MpD) (38); African Party for the Independence of Cabo Verde (PAICV) (30); Union for an Independent Democratic Cape Verde (UCID) (4)<br>
-_percentage of women in chamber_: 38.9%<br>
+_percentage of women in chamber_: 44.4%<br>
 _expected date of next election_: April 2026<br>
 
 **Judicial branch**<br>
@@ -428,7 +428,7 @@ _imports of goods and services_: -56.4% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-sugarcane, tomatoes, coconuts, pulses, goat milk, vegetables, bananas, milk, cabbages, potatoes (2022)<br>
+sugarcane, tomatoes, coconuts, pulses, goat milk, milk, vegetables, bananas, cabbages, onions (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -567,11 +567,11 @@ _Total energy consumption per capita 2022_: 16.298 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 57,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 10 (2022 est.)<br>
+_total subscriptions_: 60,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 12 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 589,000 (2022 est.)<br>
+_total subscriptions_: 590,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 99 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -586,11 +586,11 @@ state-run TV and radio broadcast network plus a growing number of private broadc
 .cv<br>
 
 **Internet users**<br>
-_percent of population_: 70% (2021 est.)<br>
+_percent of population_: 72% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 24,839 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 5 (2020 est.)<br>
+_total_: 38,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 7 (2023 est.)<br>
 
 ## Transportation
 

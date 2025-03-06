@@ -412,7 +412,7 @@ _imports of goods and services_: -61.9% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-coconuts, taro, bananas, tropical fruits, pineapples, mangoes/guavas, papayas, root vegetables, milk, pork (2022)<br>
+coconuts, bananas, taro, tropical fruits, pineapples, mangoes/guavas, papayas, root vegetables, milk, avocados (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

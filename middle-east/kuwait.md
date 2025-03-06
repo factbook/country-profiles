@@ -434,7 +434,7 @@ _imports of goods and services_: -30.4% (2022 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-tomatoes, dates, cucumbers/gherkins, eggs, milk, chicken, lamb/mutton, vegetables, potatoes, eggplants (2022)<br>
+dates, eggs, milk, tomatoes, chicken, lamb/mutton, cucumbers/gherkins, vegetables, maize, eggplants (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

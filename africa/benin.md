@@ -450,7 +450,7 @@ _imports of goods and services_: -30.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-cassava, yams, maize, oil palm fruit, cotton, rice, pineapples, soybeans, tomatoes, vegetables (2022)<br>
+cassava, yams, maize, oil palm fruit, cotton, soybeans, rice, pineapples, tomatoes, chillies/peppers (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

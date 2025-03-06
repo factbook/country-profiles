@@ -436,7 +436,7 @@ _imports of goods and services_: -47.6% (2022 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-sugarcane, maize, root vegetables, grapefruits, oranges, milk, pineapples, bananas, beef, potatoes (2022)<br>
+sugarcane, maize, root vegetables, grapefruits, oranges, milk, pineapples, bananas, beef, sweet potatoes (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

@@ -448,7 +448,7 @@ _imports of goods and services_: -102.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-milk, barley, wheat, beef, potatoes, pork, oats, chicken, rapeseed, lamb/mutton (2022)<br>
+milk, barley, beef, wheat, potatoes, pork, oats, chicken, rapeseed, beans (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

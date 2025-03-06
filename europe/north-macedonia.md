@@ -440,7 +440,7 @@ _imports of goods and services_: -80.9% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-milk, grapes, chilies/peppers, wheat, potatoes, apples, tomatoes, cabbages, maize, barley (2022)<br>
+chillies/peppers, milk, wheat, potatoes, grapes, barley, cabbages, maize, watermelons, tomatoes (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

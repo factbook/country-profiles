@@ -490,7 +490,7 @@ _imports of goods and services_: -51% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-wheat, milk, olives, sugar beets, potatoes, tomatoes, tangerines/mandarins, oranges, apples, onions (2022)<br>
+wheat, milk, potatoes, sugar beets, tomatoes, barley, olives, apples, tangerines/mandarins, onions (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

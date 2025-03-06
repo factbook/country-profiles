@@ -428,7 +428,7 @@ _imports of goods and services_: -173.6% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-vegetables, beans, milk, beef, camel milk, lemons/limes, goat meat, lamb/mutton, tomatoes, beef offal (2022)<br>
+vegetables, beans, milk, beef, camel milk, lemons/limes, goat meat, lamb/mutton, tomatoes, beef offal (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -569,11 +569,11 @@ _Total energy consumption per capita 2022_: 9.559 million Btu/person (2022 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 28,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
+_total subscriptions_: 29,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 519,000 (2022 est.)<br>
+_total subscriptions_: 574,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 46 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -588,11 +588,11 @@ state-owned Radiodiffusion-Television de Djibouti operates the sole terrestrial 
 .dj<br>
 
 **Internet users**<br>
-_percent of population_: 69% (2021 est.)<br>
+_percent of population_: 65% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 25,053 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 3 (2020 est.)<br>
+_total_: 17,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2023 est.)<br>
 
 ## Transportation
 
@@ -652,7 +652,7 @@ the FAD's inventory is a mix of mostly older or secondhand equipment from a wide
 18 years of age for voluntary military service for men and women; 16-25 years of age for voluntary military training; no conscription (2023)<br>
 
 **Military deployments**<br>
-approximately 950 Somalia (ATMIS; note - ATMIS troop contingents are drawing down towards a final exit in December 2024); Djibouti has about 200 police deployed to the Central African Republic under MINUSCA (2024)<br>
+approximately 1,500 Somalia (AUSSOM) (2025)<br>
 
 **Military - note**<br>
 Djibouti's military forces are largely focused on border, coastal, and internal security duties, such as counterterrorism; China, France, Italy, Japan, and the US maintain bases in Djibouti for regional military missions, including counter-terrorism, counter-piracy, crisis response, and security assistance (note &ndash; France has multiple bases and hosts troop contingents from Germany and Spain); the EU and NATO also maintain a presence to support multinational naval counter-piracy operations and maritime training efforts (2023)<br>

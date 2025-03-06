@@ -452,7 +452,7 @@ _exports of goods and services_: 27.9% (2017 est.)<br>
 _imports of goods and services_: -43.8% (2017 est.)<br>
 
 **Agricultural products**<br>
-sweet potatoes, cassava, maize, sugarcane, mangoes/guavas, potatoes, tomatoes, pigeon peas, bananas, pumpkins/squash (2022)<br>
+sweet potatoes, cassava, maize, sugarcane, mangoes/guavas, potatoes, tomatoes, pigeon peas, pumpkins/squash, plantains (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

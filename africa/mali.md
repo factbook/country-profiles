@@ -467,7 +467,7 @@ _imports of goods and services_: -40% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-maize, rice, millet, sorghum, okra, sugarcane, mangoes/guavas, onions, cotton, bananas (2022)<br>
+maize, rice, millet, sorghum, onions, okra, sugarcane, cotton, mangoes/guavas, sweet potatoes (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

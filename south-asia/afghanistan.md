@@ -387,7 +387,7 @@ _selected World Heritage Site locales_: Minaret of Jam; Buddhas of Bamyan<br>
 ## Economy
 
 **Economic overview**<br>
-extremely low-income South Asian economy; import drops, currency depreciation, disappearing central bank reserves, and increasing inflation after Taliban takeover; increasing Chinese trade; hit hard by COVID; ongoing sanctions<br>
+<p>low-income South Asian economy; economy stable after major contraction due to Taliban takeover, but recovery remains fragile; widespread poverty and obstacles to human development; import-reliant for food, fuel, and machinery; ongoing sanctions, suspended development aid, and frozen reserve assets</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $82.595 billion (2023 est.)<br>
@@ -433,7 +433,7 @@ _imports of goods and services_: -50.5% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-wheat, milk, watermelons, grapes, potatoes, cantaloupes/melons, vegetables, rice, onions, apples (2022)<br>
+wheat, milk, grapes, watermelons, potatoes, cantaloupes/melons, vegetables, rice, onions, maize (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

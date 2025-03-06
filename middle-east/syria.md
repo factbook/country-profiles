@@ -422,7 +422,7 @@ _imports of goods and services_: -28.8% (2022 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-wheat, milk, olives, sheep milk, tomatoes, potatoes, maize, watermelons, apples, oranges (2022)<br>
+wheat, barley, milk, sheep milk, tomatoes, olives, potatoes, maize, oranges, grapes (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

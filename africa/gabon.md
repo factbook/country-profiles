@@ -445,7 +445,7 @@ _imports of goods and services_: -27.8% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-plantains, cassava, sugarcane, yams, taro, vegetables, maize, groundnuts, game meat, rubber (2022)<br>
+oil palm fruit, plantains, cassava, sugarcane, yams, taro, vegetables, maize, groundnuts, game meat (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -666,7 +666,7 @@ _key ports_: Libreville, Oguendjo Terminal, Port Gentil, Port Owendo<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Gabonese Armed Forces (Force Armées Gabonaise or FAG; aka National Defense and Security Forces of Gabon or des Forces Nationales de Défense et de Sécurité (FNDS) du Gabon): Army (Armée de Terre, AT), Navy (Marine Nationale, MN), Air Force (l'Armée de l'Air, AA), Light Aviation (L’Aviation Légère des Armées, ALA), Fire Brigade (du Corps des Sapeurs-Pompiers); National Gendarmerie (Gendarmerie Gabonaise, GENA); Republican Guard (Garde Républicaine, GR); Military Health Service (Service de Santé Militaire, SSM); Military Engineering (Génie Militaire) (2024)<br>
+Gabonese Armed Forces (Force Armées Gabonaise or FAG; aka National Defense and Security Forces of Gabon or des Forces Nationales de Défense et de Sécurité (FNDS) du Gabon): Army (Armée de Terre, AT), Navy (Marine Nationale, MN), Air Force (l'Armée de l'Air, AA), Light Aviation (L’Aviation Légère des Armées, ALA), Fire Brigade (du Corps des Sapeurs-Pompiers); National Gendarmerie (Gendarmerie Gabonaise, GENA); Republican Guard (Garde Républicaine, GR); Military Health Service (Service de Santé Militaire, SSM); Military Engineering (Génie Militaire) (2025)<br>
 <strong>note 1: </strong>the National Police Forces, under the Ministry of Interior, and the National Gendarmerie (GENA), under the Ministry of Defense, are responsible for law enforcement and public security; elements of the armed forces and the Republican Guard, an elite unit that protects the president under his direct authority, sometimes perform internal security functions<br><br><strong>note 2:</strong> the GENA is organized into regionally-based “legions,” mobile forces, a national parks security unit, and a special intervention group<br>
 
 **Military expenditures**<br>
@@ -677,7 +677,7 @@ Gabonese Armed Forces (Force Armées Gabonaise or FAG; aka National Defense and 
 1.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 7,000 active-duty troops including the Republican Guard and Gendarmerie (2023)<br>
+approximately 7,000 active-duty troops including the Republican Guard and Gendarmerie (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Gabonese military has a mix of older and more modern weapons and equipment from a variety of suppliers including Brazil, China, France, Germany, Russia/former Soviet Union, and South Africa (2024)<br>

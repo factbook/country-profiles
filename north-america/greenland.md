@@ -248,7 +248,7 @@ _name_: Nuuk<br>
 _geographic coordinates_: 64 11 N, 51 45 W<br>
 _time difference_: UTC-2 (3 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_time zone note_: Greenland has four time zones<br>
+_time zone note_: Greenland has three time zones<br>
 _etymology_: "nuuk" is the Inuit word for "cape" and refers to the city's position at the end of the Nuup Kangerlua fjord<br>
 
 **Administrative divisions**<br>

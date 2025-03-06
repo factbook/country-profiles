@@ -310,9 +310,9 @@ _number of seats_: 16 (all directly elected)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 11/3/2020<br>
+_most recent election date_: 11/5/2024<br>
 _percentage of women in chamber_: 25%<br>
-_expected date of next election_: November 2024<br>
+_expected date of next election_: November 2028<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate<br>
@@ -320,9 +320,9 @@ _number of seats_: 15 (all directly elected)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 11/3/2020<br>
+_most recent election date_: 11/5/2024<br>
 _percentage of women in chamber_: 13.3%<br>
-_expected date of next election_: November 2024<br>
+_expected date of next election_: November 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 3 associate justices organized into appellate trial divisions; the Supreme Court organization also includes the Common Pleas and Land Courts)<br>
@@ -502,11 +502,11 @@ _electrification - rural areas_: 100%<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 8,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 44 (2022 est.)<br>
+_total subscriptions_: 8,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 45 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 24,000 (2022 est.)<br>
+_total subscriptions_: 24,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 133 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -524,8 +524,8 @@ no broadcast TV stations; a cable TV network covers the major islands and provid
 _percent of population_: 37.2% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,224 (2015 est.)<br>
-_subscriptions per 100 inhabitants_: 7 (2015 est.)<br>
+_total_: 1,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 7 (2023 est.)<br>
 
 ## Transportation
 

@@ -445,7 +445,7 @@ _imports of goods and services_: -41.4% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-dates, tomatoes, milk, sorghum, vegetables, goat milk, cucumbers/gherkins, chilies/peppers, watermelons, cantaloupes/melons (2022)<br>
+vegetables, dates, milk, tomatoes, sorghum, chillies/peppers, goat milk, cucumbers/gherkins, cantaloupes/melons, cabbages (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -472,8 +472,8 @@ _female_: 13.3% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
-_on food_: 21.8% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 0.2% of household expenditures (2022 est.)<br>
+_on food_: 18.7% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 0.1% of household expenditures (2023 est.)<br>
 
 **Remittances**<br>
 0.04% of GDP (2023 est.)<br>
@@ -583,11 +583,11 @@ _Total energy consumption per capita 2022_: 285.886 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 563,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2021 est.)<br>
+_total subscriptions_: 579,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6.75 million (2022 est.)<br>
+_total subscriptions_: 6.98 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 135 (2021 est.)<br>
 
 **Telecommunication systems**<br>
@@ -602,11 +602,11 @@ _international_: country code - 968;&nbsp;landing points for GSA, AAE-1,&nbsp;Se
 .om<br>
 
 **Internet users**<br>
-_percent of population_: 96% (2021 est.)<br>
+_percent of population_: 95% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 508,949 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 11 (2020 est.)<br>
+_total_: 562,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2023 est.)<br>
 
 ## Transportation
 
