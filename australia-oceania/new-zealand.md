@@ -55,9 +55,9 @@ natural gas, iron ore, sand, coal, timber, hydropower, gold, limestone<br>
 
 **Land use**<br>
 _agricultural land_: 43.2% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 1.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 41.1% (2018 est.)<br>
+_arable land_: arable land: 1.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 41.1% (2018 est.)<br>
 _forest_: 31.4% (2018 est.)<br>
 _other_: 25.4% (2018 est.)<br>
 
@@ -179,7 +179,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-10% of GDP (2020)<br>
+10% of GDP (2021)<br>
 
 **Physician density**<br>
 3.62 physicians/1,000 population (2020)<br>
@@ -243,9 +243,9 @@ temperate with sharp regional contrasts<br>
 
 **Land use**<br>
 _agricultural land_: 43.2% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 1.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 41.1% (2018 est.)<br>
+_arable land_: arable land: 1.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 41.1% (2018 est.)<br>
 _forest_: 31.4% (2018 est.)<br>
 _other_: 25.4% (2018 est.)<br>
 
@@ -390,6 +390,9 @@ _lyrics/music_: Thomas BRACKEN [English], Thomas Henry SMITH [Maori]/John Joseph
 _total World Heritage Sites_: 3 (2 natural, 1 mixed)<br>
 _selected World Heritage Site locales_: Te Wahipounamu – South West New Zealand (n); Tongariro National Park (m); New Zealand Sub-Antarctic Islands (n)<br>
 
+**National coat of arms**<br>
+The first quarter of the shield shows four stars that represent the Southern Cross constellation, then three ships symbolizing New Zealand's sea trade. In the second quarter, a fleece represents the sheep farming industry. The wheat sheaf in the third quarter represents the agricultural industry, and the crossed hammers in the fourth quarter represent mining. On either side of the shield are a Māori chieftain holding a <em>taiaha </em>(a Māori war weapon) and a European woman holding the New Zealand flag. St Edward's Crown, shown above the shield, symbolizes the British monarch.<br>
+
 ## Economy
 
 **Economic overview**<br>
@@ -507,11 +510,11 @@ $54.923 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 28%, Australia 11%, US 11%, Japan 6%, South Korea 4% (2022)<br>
+China 28%, USA 12%, Australia 12%, Japan 6%, S. Korea 3% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-milk, beef, wood, sheep and goat meat, butter (2022)<br>
+milk, wood, beef, butter, sheep and goat meat (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -521,11 +524,11 @@ $62.984 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 21%, Australia 14%, US 8%, South Korea 7%, Singapore 6% (2022)<br>
+China 20%, Australia 11%, USA 9%, S. Korea 7%, Japan 7% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, plastic products, garments, trucks (2022)<br>
+refined petroleum, cars, gas turbines, broadcasting equipment, trucks (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

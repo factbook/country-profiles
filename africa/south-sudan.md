@@ -52,8 +52,8 @@ hydropower, fertile agricultural land, gold, diamonds, petroleum, hardwoods, lim
 
 **Land use**<br>
 _agricultural land_: 45% (2018)<br>
-_agricultural land: arable land_: arable land: 4.4% (2018)<br>
-_agricultural land: permanent pasture_: permanent pasture: 40.7% (2018)<br>
+_arable land_: arable land: 4.4% (2018)<br>
+_permanent pasture_: permanent pasture: 40.7% (2018)<br>
 _forest_: 11.3% (2018)<br>
 _other_: 43.5% (2018)<br>
 
@@ -173,7 +173,7 @@ _unimproved: rural_: rural: 24.2% of population<br>
 _unimproved: total_: total: 21.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.3% of GDP (2020)<br>
+5.9% of GDP (2021)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 60.6% of population<br>
@@ -215,8 +215,8 @@ hot with seasonal rainfall influenced by the annual shift of the Inter-Tropical 
 
 **Land use**<br>
 _agricultural land_: 45% (2018)<br>
-_agricultural land: arable land_: arable land: 4.4% (2018)<br>
-_agricultural land: permanent pasture_: permanent pasture: 40.7% (2018)<br>
+_arable land_: arable land: 4.4% (2018)<br>
+_permanent pasture_: permanent pasture: 40.7% (2018)<br>
 _forest_: 11.3% (2018)<br>
 _other_: 43.5% (2018)<br>
 
@@ -403,7 +403,7 @@ _imports of goods and services_: -28.9% (2015 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-milk, cassava, sorghum, goat milk, vegetables, fruits, maize, groundnuts, sesame seeds, beef (2022)<br>
+milk, cassava, sorghum, goat milk, vegetables, fruits, groundnuts, sesame seeds, beef, maize (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industrial production growth rate**<br>
@@ -466,11 +466,11 @@ $4.652 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 44%, Italy 26%, Singapore 12%, Japan 9%, UAE 8% (2022)<br>
+China 51%, Singapore 29%, UAE 10%, Germany 4%, Uganda 3% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, refined petroleum, gold, forage crops, barley (2022)<br>
+crude petroleum, refined petroleum, forage crops, gold, scrap iron (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -480,11 +480,11 @@ $4.037 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-UAE 39%, Kenya 18%, China 17%, US 4%, India 3% (2022)<br>
+Uganda 33%, UAE 26%, Kenya 14%, China 10%, USA 3% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-garments, cars, trucks, packaged medicine, malt extract (2022)<br>
+garments, cement, other foods, iron bars, cereal flours (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

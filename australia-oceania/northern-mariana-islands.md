@@ -52,9 +52,9 @@ arable land, fish<br>
 
 **Land use**<br>
 _agricultural land_: 6.6% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 2.2% (2018 est.)<br>
+_arable land_: arable land: 2.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 2.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 2.2% (2018 est.)<br>
 _forest_: 65.5% (2018 est.)<br>
 _other_: 27.9% (2018 est.)<br>
 
@@ -162,9 +162,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 NA<br>
 
@@ -197,9 +194,9 @@ tropical marine; moderated by northeast trade winds, little seasonal temperature
 
 **Land use**<br>
 _agricultural land_: 6.6% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 2.2% (2018 est.)<br>
+_arable land_: arable land: 2.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 2.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 2.2% (2018 est.)<br>
 _forest_: 65.5% (2018 est.)<br>
 _other_: 27.9% (2018 est.)<br>
 
@@ -363,11 +360,12 @@ $660 million (2018 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-South Korea 48%, Thailand 9%, Germany 6%, Cyprus 6%, India 6% (2022)<br>
+Sweden 21%, Singapore 20%, Hong Kong 12%, UK 8%, India 7% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-scrap iron, refined petroleum, scrap copper, hydraulic engines, integrated circuits, peas, scrap aluminum (2021)<br>
+scrap iron, refined petroleum, scrap copper, hydraulic engines, integrated circuits (2021)<br>
+top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $536 million (2020 est.)<br>
@@ -376,11 +374,11 @@ $754 million (2018 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Singapore 42%, Japan 20%, South Korea 16%, Hong Kong 7%, Taiwan 3% (2022)<br>
+Singapore 63%, Japan 12%, Hong Kong 8%, Taiwan 4%, Philippines 3% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, trunks/cases, cars, watches, jewelry (2019)<br>
+refined petroleum, cars, jewelry, trunks and cases, flavored water (2023)<br>
 
 **Exchange rates**<br>
 <p>the US dollar is used</p><br>

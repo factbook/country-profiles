@@ -53,9 +53,9 @@ forests, sandy beaches, minerals (pumice), mineral springs, geothermal potential
 
 **Land use**<br>
 _agricultural land_: 17.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 4.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 11.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 1% (2018 est.)<br>
+_arable land_: arable land: 4.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 11.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 1% (2018 est.)<br>
 _forest_: 77% (2018 est.)<br>
 _other_: 5.6% (2018 est.)<br>
 
@@ -167,7 +167,7 @@ _unimproved: rural_: rural: 1.5% of population<br>
 _unimproved: total_: total: 1.3% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.7% of GDP (2020)<br>
+6.2% of GDP (2021)<br>
 
 **Physician density**<br>
 0.64 physicians/1,000 population (2017)<br>
@@ -223,9 +223,9 @@ tropical, moderated by northeast trade winds; dry season January to April, rainy
 
 **Land use**<br>
 _agricultural land_: 17.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 4.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 11.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 1% (2018 est.)<br>
+_arable land_: arable land: 4.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 11.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 1% (2018 est.)<br>
 _forest_: 77% (2018 est.)<br>
 _other_: 5.6% (2018 est.)<br>
 
@@ -415,7 +415,7 @@ _exports of goods and services_: 62.7% (2017 est.)<br>
 _imports of goods and services_: -56.9% (2017 est.)<br>
 
 **Agricultural products**<br>
-coconuts, bananas, tropical fruits, fruits, plantains, root vegetables, chicken, vegetables, cassava, pork (2022)<br>
+coconuts, bananas, tropical fruits, fruits, root vegetables, plantains, vegetables, cassava, chicken, milk (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -485,11 +485,11 @@ $710.754 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 17%, Guyana 16%, Trinidad and Tobago 14%, Barbados 9%, Suriname 7% (2022)<br>
+Guyana 20%, Suriname 15%, USA 11%, Barbados 8%, Dominica 7% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-beer, gravel and crushed stone, paper containers, refined petroleum, liquor (2022)<br>
+refined petroleum, gravel and crushed stone, beer, liquor, paper containers (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -499,11 +499,11 @@ $891.761 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-US 76%, Trinidad and Tobago 4%, China 3%, UK 2%, Barbados 2% (2022)<br>
+USA 59%, Guyana 8%, Brazil 7%, China 5%, UK 3% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, plastic products, poultry, flavored water (2022)<br>
+refined petroleum, crude petroleum, cars, poultry, plastic products (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

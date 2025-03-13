@@ -55,9 +55,9 @@ gold, timber, industrial diamonds, bauxite, manganese, fish, rubber, hydropower,
 
 **Land use**<br>
 _agricultural land_: 69.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 20.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 11.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 36.5% (2018 est.)<br>
+_arable land_: arable land: 20.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 11.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 36.5% (2018 est.)<br>
 _forest_: 21.2% (2018 est.)<br>
 _other_: 9.7% (2018 est.)<br>
 
@@ -183,7 +183,7 @@ _unimproved: rural_: rural: 16.2% of population<br>
 _unimproved: total_: total: 7.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4% of GDP (2020)<br>
+4.2% of GDP (2021)<br>
 
 **Physician density**<br>
 0.17 physicians/1,000 population (2020)<br>
@@ -253,9 +253,9 @@ tropical; warm and comparatively dry along southeast coast; hot and humid in sou
 
 **Land use**<br>
 _agricultural land_: 69.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 20.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 11.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 36.5% (2018 est.)<br>
+_arable land_: arable land: 20.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 11.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 36.5% (2018 est.)<br>
 _forest_: 21.2% (2018 est.)<br>
 _other_: 9.7% (2018 est.)<br>
 
@@ -367,7 +367,7 @@ All Peoples Congress or APC <br>Convention People's Party or CPP <br>Ghana Fre
 ACP, AfDB, ATMIS, AU, C, ECOWAS, EITI (compliant country), FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OAS (observer), OIF, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Alima MAHAMA (since 7 July 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires (vacant); note - The Embassy website notes Francis GBORGLAH is the Acting Head of Mission (since 5 February 2025)<br>
 _chancery_: 3512 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 686-4520<br>
 _FAX_: [1] (202) 686-4527<br>
@@ -452,7 +452,7 @@ _imports of goods and services_: -35% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-cassava, yams, plantains, maize, oil palm fruit, taro, rice, cocoa beans, oranges, pineapples (2022)<br>
+cassava, yams, plantains, maize, oil palm fruit, taro, rice, oranges, pineapples, cocoa beans (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -526,11 +526,11 @@ $23.901 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-UAE 24%, Switzerland 17%, US 14%, India 10%, China 10% (2022)<br>
+Switzerland 24%, UAE 18%, India 8%, South Africa 7%, China 7% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, crude petroleum, cocoa beans, coconuts/Brazil nuts/cashews, cocoa paste (2022)<br>
+gold, crude petroleum, cocoa beans, manganese ore, cocoa paste (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -540,11 +540,11 @@ $25.967 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 41%, Netherlands 7%, India 5%, US 5%, Cote d'Ivoire 4% (2022)<br>
+China 30%, Netherlands 8%, India 5%, USA 5%, Russia 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, plastic products, garments, coated flat-rolled iron, ships (2022)<br>
+refined petroleum, cars, plastics, plastic products, footwear (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

@@ -55,9 +55,9 @@ petroleum (reserves declining), timber, natural gas, coal, iron ore, salt, arabl
 
 **Land use**<br>
 _agricultural land_: 60.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 39.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 19.7% (2018 est.)<br>
+_arable land_: arable land: 39.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 19.7% (2018 est.)<br>
 _forest_: 28.7% (2018 est.)<br>
 _other_: 10.6% (2018 est.)<br>
 
@@ -182,7 +182,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.3% of GDP (2020)<br>
+6.5% of GDP (2021)<br>
 
 **Physician density**<br>
 2.98 physicians/1,000 population (2017)<br>
@@ -247,9 +247,9 @@ temperate; cold, cloudy winters with frequent snow and fog; sunny summers with f
 
 **Land use**<br>
 _agricultural land_: 60.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 39.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 19.7% (2018 est.)<br>
+_arable land_: arable land: 39.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 19.7% (2018 est.)<br>
 _forest_: 28.7% (2018 est.)<br>
 _other_: 10.6% (2018 est.)<br>
 
@@ -340,12 +340,12 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Klaus Werner IOHANNIS (since 21 December 2014)<br>
+_chief of state_: Interim President Ilie BOLOJAN (since 12 February 2025)<br>
 _head of government_: Prime Minister Marcel CIOLACU (since 15 June 2023)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held in November 2024, but results were annulled, with new election expected in early 2025; prime minister appointed by the president with consent of Parliament<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held in November 2024, but results were annulled, with new election expected in May 2025; prime minister appointed by the president with consent of Parliament<br>
 _election results_: <em><br>2019: </em>Klaus IOHANNIS reelected president in second round; percent of vote - Klaus IOHANNIS (PNL) 66.1%, Viorica DANCILA (PSD) 33.9%<br><br><em>2014:</em> Klaus IOHANNIS elected president in second round; percent of vote - Klaus IOHANNIS (PNL) 54.4%, Victor PONTA (PSD) 45.6%<br>
-<strong>note: </strong>Romania's constitutional court has annulled the results of the most recent presidential election in November-December 2024, which resets the election cycle. A new election is expected in early 2025.<br>
+<strong>note: </strong>Romania's constitutional court has annulled the results of the most recent presidential election in November-December 2024, which resets the election cycle. A new election is expected in May 2025.<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament of Romania (Parlamentul României)<br>
@@ -359,18 +359,18 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 12/1/2024<br>
 _parties elected and seats per party_: Social Democratic Party (PSD) (86); Alliance for the Union of Romanians (AUR) (63); National Liberal Party (PNL) (49); Save Romania Union (USR) (40); S.O.S. Romania (28); Party of Young People (POT) (24); Democratic Union of Hungarians in Romania (UDMR) (22)<br>
-_percentage of women in chamber_: 19.2%<br>
+_percentage of women in chamber_: 22.4%<br>
 _expected date of next election_: November 2028<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate (Senatul)<br>
-_number of seats_: 134 (all directly elected)<br>
+_number of seats_: 136 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 12/1/2024<br>
 _parties elected and seats per party_: Social Democratic Party (PSD) (36); Alliance for the Union of Romanians (AUR) (28); National Liberal Party (PNL) (22); Save Romania Union (USR) (19); S.O.S. Romania (12); Democratic Union of Hungarians in Romania (UDMR) (10); Party of Young People (POT) (7)<br>
-_percentage of women in chamber_: 19.4%<br>
+_percentage of women in chamber_: 20.1%<br>
 _expected date of next election_: November 2028<br>
 
 **Judicial branch**<br>
@@ -471,7 +471,7 @@ _imports of goods and services_: -43.9% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-wheat, maize, milk, sunflower seeds, barley, potatoes, rapeseed, grapes, plums, apples (2022)<br>
+wheat, maize, milk, sunflower seeds, barley, rapeseed, potatoes, grapes, plums, apples (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -506,8 +506,8 @@ _female_: 21.4% (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 25.1% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 5.5% of household expenditures (2022 est.)<br>
+_on food_: 25.1% of household expenditures (2023 est.)<br>
+_on alcohol and tobacco_: 6.1% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.9% (2021 est.)<br>
@@ -546,11 +546,11 @@ $115.879 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 19%, Italy 10%, Hungary 7%, France 6%, Bulgaria 4% (2022)<br>
+Germany 19%, Italy 10%, France 6%, UK 5%, Hungary 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-vehicle parts/accessories, cars, insulated wire, refined petroleum, wheat (2022)<br>
+cars, vehicle parts/accessories, insulated wire, garments, wheat (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -560,11 +560,11 @@ $132.056 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Germany 17%, Italy 8%, Hungary 6%, Turkey 6%, Poland 6% (2022)<br>
+Germany 19%, Italy 8%, Hungary 6%, Poland 6%, China 6% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-crude petroleum, vehicle parts/accessories, refined petroleum, packaged medicine, cars (2022)<br>
+vehicle parts/accessories, packaged medicine, cars, crude petroleum, plastic products (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
@@ -637,11 +637,11 @@ _Total energy consumption per capita 2022_: 60.67 million Btu/person (2022 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2.222 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 11 (2022 est.)<br>
+_total subscriptions_: 1.96 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 10 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 23.219 million (2022 est.)<br>
+_total subscriptions_: 23.2 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 118 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -656,11 +656,11 @@ a mixture of public and private TV stations; there are 7 public TV stations (2 n
 .ro<br>
 
 **Internet users**<br>
-_percent of population_: 84% (2021 est.)<br>
+_percent of population_: 89% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 5,684,782 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 30 (2020 est.)<br>
+_total_: 6.63 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 35 (2023 est.)<br>
 
 ## Transportation
 

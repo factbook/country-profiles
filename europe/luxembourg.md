@@ -52,9 +52,9 @@ iron ore (no longer exploited), arable land<br>
 
 **Land use**<br>
 _agricultural land_: 50.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 24% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 26.1% (2018 est.)<br>
+_arable land_: arable land: 24% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.6% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 26.1% (2018 est.)<br>
 _forest_: 33.5% (2018 est.)<br>
 _other_: 15.8% (2018 est.)<br>
 
@@ -173,7 +173,7 @@ _unimproved: rural_: rural: 1.4% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.8% of GDP (2020)<br>
+5.5% of GDP (2022)<br>
 
 **Physician density**<br>
 3.01 physicians/1,000 population (2017)<br>
@@ -237,9 +237,9 @@ modified continental with mild winters, cool summers<br>
 
 **Land use**<br>
 _agricultural land_: 50.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 24% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 26.1% (2018 est.)<br>
+_arable land_: arable land: 24% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.6% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 26.1% (2018 est.)<br>
 _forest_: 33.5% (2018 est.)<br>
 _other_: 15.8% (2018 est.)<br>
 
@@ -512,11 +512,11 @@ $187.022 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 20%, France 15%, Belgium 10%, Netherlands 8%, Italy 4% (2022)<br>
+Germany 18%, France 15%, Belgium 8%, Netherlands 7%, Italy 6% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-iron blocks, plastic products, rubber tires, plastics, gas turbines (2022)<br>
+iron blocks, gas turbines, plastic products, rubber tires, plastics (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -526,11 +526,11 @@ $151.729 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Belgium 26%, Germany 26%, France 11%, Netherlands 6%, US 3% (2022)<br>
+Belgium 26%, Germany 23%, France 10%, Netherlands 5%, USA 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, electricity, natural gas, scrap iron (2022)<br>
+cars, refined petroleum, electricity, plastic products, gas turbines (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

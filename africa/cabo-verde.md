@@ -53,9 +53,9 @@ salt, basalt rock, limestone, kaolin, fish, clay, gypsum<br>
 
 **Land use**<br>
 _agricultural land_: 18.6% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 11.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.7% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 6.2% (2018 est.)<br>
+_arable land_: arable land: 11.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.7% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 6.2% (2018 est.)<br>
 _forest_: 21% (2018 est.)<br>
 _other_: 60.4% (2018 est.)<br>
 
@@ -170,7 +170,7 @@ _unimproved: rural_: rural: 10% of population<br>
 _unimproved: total_: total: 3.3% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6% of GDP (2020)<br>
+6.9% of GDP (2021)<br>
 
 **Physician density**<br>
 0.83 physicians/1,000 population (2018)<br>
@@ -235,9 +235,9 @@ temperate; warm, dry summer; precipitation meager and erratic<br>
 
 **Land use**<br>
 _agricultural land_: 18.6% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 11.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.7% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 6.2% (2018 est.)<br>
+_arable land_: arable land: 11.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.7% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 6.2% (2018 est.)<br>
 _forest_: 21% (2018 est.)<br>
 _other_: 60.4% (2018 est.)<br>
 
@@ -498,11 +498,11 @@ $465.348 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Spain 56%, Portugal 12%, Italy 9%, US 6%, India 5% (2022)<br>
+Spain 46%, Portugal 9%, Togo 7%, Italy 7%, India 6% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-fish, shellfish, garments, natural gas, scrap iron (2022)<br>
+fish, refined petroleum, railway cargo containers, shellfish, garments (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -512,11 +512,11 @@ $1.117 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Portugal 41%, Spain 12%, China 8%, Netherlands 7%, Togo 5% (2022)<br>
+Portugal 29%, Saudi Arabia 11%, Netherlands 9%, Spain 8%, China 7% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, fish, plastic products, milk, cars (2022)<br>
+refined petroleum, aircraft, cars, fish, railway cargo containers (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

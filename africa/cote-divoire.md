@@ -54,9 +54,9 @@ petroleum, natural gas, diamonds, manganese, iron ore, cobalt, bauxite, copper, 
 
 **Land use**<br>
 _agricultural land_: 64.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 9.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 14.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 41.5% (2018 est.)<br>
+_arable land_: arable land: 9.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 14.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 41.5% (2018 est.)<br>
 _forest_: 32.7% (2018 est.)<br>
 _other_: 2.5% (2018 est.)<br>
 
@@ -183,7 +183,7 @@ _unimproved: rural_: rural: 30.9% of population<br>
 _unimproved: total_: total: 20.2% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-3.3% of GDP (2020)<br>
+3.1% of GDP (2021)<br>
 
 **Physician density**<br>
 0.16 physicians/1,000 population (2019)<br>
@@ -250,9 +250,9 @@ tropical along coast, semiarid in far north; three seasons - warm and dry (Novem
 
 **Land use**<br>
 _agricultural land_: 64.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 9.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 14.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 41.5% (2018 est.)<br>
+_arable land_: arable land: 9.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 14.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 41.5% (2018 est.)<br>
 _forest_: 32.7% (2018 est.)<br>
 _other_: 2.5% (2018 est.)<br>
 
@@ -466,7 +466,7 @@ _imports of goods and services_: -28.1% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-yams, cassava, oil palm fruit, cocoa beans, sugarcane, plantains, rice, rubber, maize, cashews (2022)<br>
+yams, cassava, oil palm fruit, cocoa beans, sugarcane, plantains, rice, rubber, maize, cashews (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -540,11 +540,11 @@ $13.232 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Switzerland 9%, Mali 8%, Netherlands 8%, US 6%, France 5% (2022)<br>
+Switzerland 17%, Netherlands 9%, Mali 7%, USA 5%, Malaysia 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-cocoa beans, gold, rubber, refined petroleum, cocoa paste (2022)<br>
+gold, cocoa beans, rubber, refined petroleum, coconuts/brazil nuts/cashews (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -554,11 +554,11 @@ $12.66 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 18%, Nigeria 11%, France 8%, India 5%, Belgium 4% (2022)<br>
+China 16%, Nigeria 12%, France 6%, India 5%, USA 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-crude petroleum, refined petroleum, ships, rice, fish (2022)<br>
+crude petroleum, ships, refined petroleum, fish, rice (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

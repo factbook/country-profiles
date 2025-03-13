@@ -51,9 +51,9 @@ fish<br>
 
 **Land use**<br>
 _agricultural land_: 84.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 46.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 29.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 8.1% (2018 est.)<br>
+_arable land_: arable land: 46.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 29.6% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 8.1% (2018 est.)<br>
 _forest_: 1.4% (2018 est.)<br>
 _other_: 14.2% (2018 est.)<br>
 
@@ -173,7 +173,7 @@ _unimproved: rural_: rural: 11.5% of population<br>
 _unimproved: total_: total: 8.9% of population (2017 est.)<br>
 
 **Current health expenditure**<br>
-5.4% of GDP (2020)<br>
+6.3% of GDP (2021)<br>
 
 **Physician density**<br>
 0.26 physicians/1,000 population (2018)<br>
@@ -232,9 +232,9 @@ tropical marine; rainy season (November to May)<br>
 
 **Land use**<br>
 _agricultural land_: 84.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 46.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 29.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 8.1% (2018 est.)<br>
+_arable land_: arable land: 46.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 29.6% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 8.1% (2018 est.)<br>
 _forest_: 1.4% (2018 est.)<br>
 _other_: 14.2% (2018 est.)<br>
 
@@ -328,7 +328,8 @@ _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 1/12/2025 to 2/16/2025<br>
-_percentage of women in chamber_: 0%<br>
+_parties elected and seats per party_: Convention for the Renewal of the Comoros (CRC) (20); Orange Party (2); Independents (2)<br>
+_percentage of women in chamber_: 15.2%<br>
 _expected date of next election_: January 2030<br>
 note: opposition parties, which claimed there was "gross fraud" during the most recent election, boycotted the elections in 2020 and 2025<br>
 
@@ -414,7 +415,7 @@ _imports of goods and services_: -35% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-coconuts, bananas, cassava, yams, maize, taro, milk, tomatoes, sweet potatoes, pulses (2022)<br>
+bananas, coconuts, cassava, yams, maize, taro, milk, tomatoes, sweet potatoes, pulses (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -478,11 +479,11 @@ $128.331 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Turkey 23%, India 19%, UAE 9%, US 9%, Indonesia 8% (2022)<br>
+Indonesia 25%, India 23%, Turkey 16%, UAE 11%, USA 3% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-cloves, ships, vanilla, essential oils, scrap iron (2022)<br>
+cloves, ships, essential oils, vanilla, scrap iron (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -492,11 +493,11 @@ $415.965 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-UAE 25%, China 19%, India 12%, France 8%, Tanzania 7% (2022)<br>
+China 24%, UAE 21%, Tanzania 12%, France 7%, India 6% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-rice, refined petroleum, poultry, water, synthetic fabric (2022)<br>
+refined petroleum, poultry, rice, flavored water, additive manufacturing machines (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

@@ -52,9 +52,9 @@ lignite, phosphorites, gypsum, limestone, arable land<br>
 
 **Land use**<br>
 _agricultural land_: 74.9% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 55.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 9.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 10.7% (2018 est.)<br>
+_arable land_: arable land: 55.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 9.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 10.7% (2018 est.)<br>
 _forest_: 11.9% (2018 est.)<br>
 _other_: 13.2% (2018 est.)<br>
 
@@ -177,7 +177,7 @@ _unimproved: rural_: rural: 13% of population<br>
 _unimproved: total_: total: 7.9% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.8% of GDP (2020)<br>
+7.8% of GDP (2021)<br>
 
 **Physician density**<br>
 3.1 physicians/1,000 population (2020)<br>
@@ -239,9 +239,9 @@ moderate winters, warm summers<br>
 
 **Land use**<br>
 _agricultural land_: 74.9% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 55.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 9.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 10.7% (2018 est.)<br>
+_arable land_: arable land: 55.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 9.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 10.7% (2018 est.)<br>
 _forest_: 11.9% (2018 est.)<br>
 _other_: 13.2% (2018 est.)<br>
 
@@ -514,11 +514,11 @@ $4.197 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Romania 27%, Ukraine 15%, Italy 7%, Turkey 6%, Germany 5% (2022)<br>
+Romania 31%, Ukraine 13%, Italy 6%, Germany 6%, Czechia 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, insulated wire, garments, seed oils, corn (2022)<br>
+insulated wire, garments, refined petroleum, seed oils, wheat (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -528,11 +528,11 @@ $7.915 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Romania 23%, Russia 11%, Ukraine 10%, China 8%, Turkey 7% (2022)<br>
+Romania 16%, Ukraine 13%, China 11%, Turkey 8%, Germany 7% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, natural gas, cars, plastic products, insulated wire (2022)<br>
+refined petroleum, natural gas, cars, packaged medicine, plastic products (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

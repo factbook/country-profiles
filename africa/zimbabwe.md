@@ -52,9 +52,9 @@ coal, chromium ore, asbestos, gold, nickel, copper, iron ore, vanadium, lithium,
 
 **Land use**<br>
 _agricultural land_: 42.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 10.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 31.3% (2018 est.)<br>
+_arable land_: arable land: 10.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 31.3% (2018 est.)<br>
 _forest_: 39.5% (2018 est.)<br>
 _other_: 18% (2018 est.)<br>
 
@@ -183,7 +183,7 @@ _unimproved: rural_: rural: 33.1% of population<br>
 _unimproved: total_: total: 23.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-3.4% of GDP (2020)<br>
+2.8% of GDP (2021)<br>
 
 **Physician density**<br>
 0.2 physicians/1,000 population (2020)<br>
@@ -253,9 +253,9 @@ tropical; moderated by altitude; rainy season (November to March)<br>
 
 **Land use**<br>
 _agricultural land_: 42.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 10.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 31.3% (2018 est.)<br>
+_arable land_: arable land: 10.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 31.3% (2018 est.)<br>
 _forest_: 39.5% (2018 est.)<br>
 _other_: 18% (2018 est.)<br>
 
@@ -469,7 +469,7 @@ _imports of goods and services_: -29.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-sugarcane, maize, beef, milk, cassava, wheat, bananas, vegetables, tobacco, cotton (2022)<br>
+sugarcane, beef, maize, cabbages, potatoes, tomatoes, milk, onions, bananas, wheat (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -538,11 +538,11 @@ $6.575 billion (2021 est.)<br>
 <strong>note:</strong> GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-UAE 57%, South Africa 17%, China 7%, Belgium 4%, Mozambique 2% (2022)<br>
+UAE 45%, China 18%, South Africa 15%, Mozambique 4%, Hong Kong 2% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, nickel, tobacco, iron alloys, diamonds (2022)<br>
+gold, tobacco, nickel, minerals, diamonds (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -552,11 +552,11 @@ $8.104 billion (2021 est.)<br>
 <strong>note:</strong> GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-South Africa 39%, China 15%, Singapore 12%, UAE 6%, Mozambique 4% (2022)<br>
+South Africa 37%, China 15%, Bahamas, The 5%, Singapore 5%, UAE 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, fertilizers, trucks, soybean oil, electricity (2022)<br>
+refined petroleum, fertilizers, trucks, soybean oil, stone processing machines (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

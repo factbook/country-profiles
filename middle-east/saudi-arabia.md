@@ -54,9 +54,9 @@ petroleum, natural gas, iron ore, gold, copper<br>
 
 **Land use**<br>
 _agricultural land_: 80.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 1.5% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 79.1% (2018 est.)<br>
+_arable land_: arable land: 1.5% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 79.1% (2018 est.)<br>
 _forest_: 0.5% (2018 est.)<br>
 _other_: 18.8% (2018 est.)<br>
 
@@ -176,7 +176,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.5% of GDP (2018)<br>
+6% of GDP (2021)<br>
 
 **Physician density**<br>
 2.74 physicians/1,000 population (2020)<br>
@@ -241,9 +241,9 @@ harsh, dry desert with great temperature extremes<br>
 
 **Land use**<br>
 _agricultural land_: 80.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 1.5% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 79.1% (2018 est.)<br>
+_arable land_: arable land: 1.5% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 79.1% (2018 est.)<br>
 _forest_: 0.5% (2018 est.)<br>
 _other_: 18.8% (2018 est.)<br>
 
@@ -391,7 +391,7 @@ _selected World Heritage Site locales_: <p>Hegra Archaeological Site (al-Hijr / 
 ## Economy
 
 **Economic overview**<br>
-high-income, oil-based Middle Eastern economy; OPEC leader; diversifying portfolio; declining per-capita incomes; young labor force; key human capital gaps; heavy bureaucracy and increasing corruption; substantial poverty; low innovation economy<br>
+<p>high-income, oil-based Middle Eastern economy; OPEC founding member; Vision 2030 strategy prioritizing economic diversification, increased private sector involvement, and projects funded by sovereign wealth fund and foreign investment; young labor force; falling but significant poverty rate despite lack of official statistics</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.831 trillion (2023 est.)<br>
@@ -504,7 +504,7 @@ $286.502 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 21%, India 12%, Japan 12%, US 6%, UAE 4% (2023)<br>
+China 21%, India 12%, Japan 12%, USA 6%, UAE 4% (2023)<br>
 <strong>note:</strong> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
@@ -518,7 +518,7 @@ $213.516 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 21%, UAE 8%, US 7%, India 6%, Germany 5% (2023)<br>
+China 21%, UAE 8%, USA 7%, India 6%, Germany 5% (2023)<br>
 <strong>note:</strong> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>

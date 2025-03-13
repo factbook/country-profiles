@@ -55,9 +55,9 @@ fertile plains of the pampas, lead, zinc, tin, copper, iron ore, manganese, petr
 
 **Land use**<br>
 _agricultural land_: 53.9% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 13.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.4% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 39.6% (2018 est.)<br>
+_arable land_: arable land: 13.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.4% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 39.6% (2018 est.)<br>
 _forest_: 10.7% (2018 est.)<br>
 _other_: 35.4% (2018 est.)<br>
 
@@ -186,7 +186,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: (2020 est.) NA<br>
 
 **Current health expenditure**<br>
-10% of GDP (2020)<br>
+9.7% of GDP (2021)<br>
 
 **Physician density**<br>
 4.06 physicians/1,000 population (2020)<br>
@@ -254,9 +254,9 @@ mostly temperate; arid in southeast; subantarctic in southwest<br>
 
 **Land use**<br>
 _agricultural land_: 53.9% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 13.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.4% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 39.6% (2018 est.)<br>
+_arable land_: arable land: 13.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.4% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 39.6% (2018 est.)<br>
 _forest_: 10.7% (2018 est.)<br>
 _other_: 35.4% (2018 est.)<br>
 
@@ -551,11 +551,11 @@ $87.575 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Brazil 15%, China 9%, US 8%, Chile 6%, India 5% (2022)<br>
+Brazil 18%, USA 9%, Chile 8%, China 8%, India 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-soybean meal, corn, soybean oil, wheat, trucks (2022)<br>
+soybean meal, corn, trucks, soybean oil, crude petroleum (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -565,11 +565,11 @@ $72.58 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 21%, Brazil 20%, US 14%, Germany 3%, Paraguay 2% (2022)<br>
+Brazil 23%, China 20%, USA 12%, Paraguay 5%, Germany 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, vehicle parts/accessories, natural gas, fertilizers, cars (2022)<br>
+soybeans, vehicle parts/accessories, refined petroleum, natural gas, cars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

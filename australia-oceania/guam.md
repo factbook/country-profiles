@@ -51,9 +51,9 @@ aquatic wildlife (supporting tourism), fishing (largely undeveloped)<br>
 
 **Land use**<br>
 _agricultural land_: 33.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 1.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 16.7% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 14.8% (2018 est.)<br>
+_arable land_: arable land: 1.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 16.7% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 14.8% (2018 est.)<br>
 _forest_: 47.9% (2018 est.)<br>
 _other_: 18.7% (2018 est.)<br>
 
@@ -161,9 +161,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 89.8% of population (2015 est.)<br>
 _improved: rural_: rural: 89.8% of population (2015 est.)<br>
@@ -196,9 +193,9 @@ tropical marine; generally warm and humid, moderated by northeast trade winds; d
 
 **Land use**<br>
 _agricultural land_: 33.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 1.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 16.7% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 14.8% (2018 est.)<br>
+_arable land_: arable land: 1.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 16.7% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 14.8% (2018 est.)<br>
 _forest_: 47.9% (2018 est.)<br>
 _other_: 18.7% (2018 est.)<br>
 
@@ -394,12 +391,12 @@ $1.403 billion (2019 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Singapore 30%, Taiwan 20%, South Korea 14%, Philippines 12%, Hong Kong 8% (2022)<br>
+Taiwan 42%, Hong Kong 12%, Philippines 11%, Italy 8%, Australia 6% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, scrap iron, scrap copper, trunks and cases, aircraft parts (2022)<br>
-<b>note:</b> top five export commodities based on value in dollars<br>
+scrap iron, scrap copper, trunks and cases (2023)<br>
+<strong>note:</strong> top export commodities based on value in dollars over $500,000<br>
 
 **Imports**<br>
 $3.667 billion (2021 est.)<br>
@@ -408,11 +405,11 @@ $3.552 billion (2019 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-South Korea 37%, Singapore 35%, Japan 12%, Taiwan 3%, Hong Kong 3% (2022)<br>
+Singapore 52%, Japan 15%, Malaysia 6%, Taiwan 4%, Greece 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, raw iron bars, electric generating sets, trunks and cases (2022)<br>
+refined petroleum, cars, trunks and cases, gas turbines, flavored water (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>

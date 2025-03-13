@@ -134,9 +134,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 NA<br>
 
@@ -281,6 +278,7 @@ United States 35%, Netherlands 26%, Antigua and Barbuda 21%, France 10% (2019)<b
 
 **Exports - commodities**<br>
 gold, special use vessels, furniture, scrap aluminum, rum (2019)<br>
+top five export commodities based on value in dollars<br>
 
 **Imports - partners**<br>
 United States 76%, Netherlands 7%, France 7% (2019)<br>

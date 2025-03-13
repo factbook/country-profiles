@@ -54,9 +54,9 @@ gold, silver, copper, tungsten, lead, zinc, timber, fish<br>
 
 **Land use**<br>
 _agricultural land_: 42.2% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 12.5% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 27.2% (2018 est.)<br>
+_arable land_: arable land: 12.5% (2018 est.)<br>
+_permanent crops_: permanent crops: 2.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 27.2% (2018 est.)<br>
 _forest_: 25.3% (2018 est.)<br>
 _other_: 32.5% (2018 est.)<br>
 
@@ -180,7 +180,7 @@ _unimproved: rural_: rural: 37.4% of population<br>
 _unimproved: total_: total: 16.8% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-8.6% of GDP (2020)<br>
+9.7% of GDP (2021)<br>
 
 **Physician density**<br>
 1.67 physicians/1,000 population (2018)<br>
@@ -232,9 +232,9 @@ tropical in lowlands, cooler in highlands<br>
 
 **Land use**<br>
 _agricultural land_: 42.2% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 12.5% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 27.2% (2018 est.)<br>
+_arable land_: arable land: 12.5% (2018 est.)<br>
+_permanent crops_: permanent crops: 2.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 27.2% (2018 est.)<br>
 _forest_: 25.3% (2018 est.)<br>
 _other_: 32.5% (2018 est.)<br>
 
@@ -506,11 +506,11 @@ $6.618 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 52%, Mexico 12%, Honduras 7%, El Salvador 6%, Costa Rica 3% (2022)<br>
+USA 51%, Mexico 12%, El Salvador 6%, Canada 6%, Switzerland 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-garments, gold, coffee, insulated wire, beef (2022)<br>
+garments, gold, insulated wire, coffee, beef (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -520,11 +520,11 @@ $8.342 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-US 26%, China 11%, Honduras 10%, Guatemala 9%, Mexico 9% (2022)<br>
+USA 24%, China 13%, Mexico 9%, Honduras 9%, Guatemala 8% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-garments, refined petroleum, fabric, plastic products, crude petroleum (2022)<br>
+garments, refined petroleum, crude petroleum, plastic products, fabric (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

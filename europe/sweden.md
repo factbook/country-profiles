@@ -54,9 +54,9 @@ iron ore, copper, lead, zinc, gold, silver, tungsten, uranium, arsenic, feldspar
 
 **Land use**<br>
 _agricultural land_: 7.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 6.4% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 1.1% (2018 est.)<br>
+_arable land_: arable land: 6.4% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 1.1% (2018 est.)<br>
 _forest_: 68.7% (2018 est.)<br>
 _other_: 23.8% (2018 est.)<br>
 
@@ -182,7 +182,7 @@ _unimproved: rural_: rural: 0.3% of population<br>
 _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-11.4% of GDP (2020)<br>
+10.7% of GDP (2022)<br>
 
 **Physician density**<br>
 7.09 physicians/1,000 population (2019)<br>
@@ -246,9 +246,9 @@ temperate in south with cold, cloudy winters and cool, partly cloudy summers; su
 
 **Land use**<br>
 _agricultural land_: 7.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 6.4% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 1.1% (2018 est.)<br>
+_arable land_: arable land: 6.4% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 1.1% (2018 est.)<br>
 _forest_: 68.7% (2018 est.)<br>
 _other_: 23.8% (2018 est.)<br>
 
@@ -524,11 +524,11 @@ $304.769 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 10%, Norway 10%, US 9%, Denmark 8%, Finland 7% (2022)<br>
+Germany 10%, USA 10%, Denmark 8%, Norway 6%, Netherlands 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, cars, packaged medicine, paper, electricity (2022)<br>
+cars, refined petroleum, packaged medicine, paper, vehicle parts/accessories (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -538,11 +538,11 @@ $275.348 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Germany 16%, Netherlands 10%, Norway 9%, China 7%, Denmark 6% (2022)<br>
+Germany 17%, Netherlands 10%, Norway 9%, Denmark 6%, China 6% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-crude petroleum, cars, refined petroleum, broadcasting equipment, garments (2022)<br>
+cars, crude petroleum, refined petroleum, vehicle parts/accessories, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
@@ -703,7 +703,7 @@ the SAF's inventory is comprised of domestically produced and imported Western w
 <strong>note 1: </strong>Sweden conscripts about 5,500 men and women each year; it plans to increase this number to 8,000 by 2025; conscientious objectors in Sweden have the right to apply for alternative service (called vapenfri tjänst); after completing alternative service, the conscript then belongs to the civilian reserve<br><br><strong>note 2: </strong>as of 2023, women made over 20% of the military's personnel<br>
 
 **Military deployments**<br>
-the Swedish military has small numbers of personnel deployed on multiple EU-, NATO-, and UN-led missions (2024)<br>
+approximately 600 Latvia (NATO) (2025)<br>
 
 **Military - note**<br>
 the Swedish military is responsible for the defense of the country and its territories against armed attack, supporting Sweden’s national security interests, providing societal support, such as humanitarian aid, and contributing to international peacekeeping and peacemaking operations<br><br>the military has a relatively small active duty force that is designed to be rapidly mobilized in a crisis; it is equipped with modern, mostly Swedish-made weapons, exercises regularly, and is backed up by a trained reserve and a Home Guard; the military’s main focus is maintaining itself as a credible and visible deterrent through training and exercises, sustaining high levels of readiness, cooperating and collaborating with both domestic and foreign partners<br><br>Sweden maintained a policy of military non-alignment for over 200 years before applying for NATO membership in May 2022 following Russia’s full-scale invasion of Ukraine; it became a NATO member in March of 2024; prior to membership, Stockholm joined NATO’s Partnership for Peace program in 1994 and contributed to NATO-led missions, including those in Afghanistan, Iraq, and Kosovo; the military cooperates closely with the forces of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO; established 2009), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; Sweden is a signatory of the EU’s Common Security and Defense Policy (CSDP) and contributes to CSDP missions and operations, including EU battlegroups; it also participates in UN-led missions; Sweden has close bilateral security relations with some NATO member states, particularly Finland, Germany, the UK, and the US (2024)<br>

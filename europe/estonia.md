@@ -54,9 +54,9 @@ oil shale, peat, rare earth elements, phosphorite, clay, limestone, sand, dolomi
 
 **Land use**<br>
 _agricultural land_: 22.2% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 14.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 7.2% (2018 est.)<br>
+_arable land_: arable land: 14.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 7.2% (2018 est.)<br>
 _forest_: 52.1% (2018 est.)<br>
 _other_: 25.7% (2018 est.)<br>
 
@@ -174,7 +174,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.8% of GDP (2020)<br>
+6.9% of GDP (2022)<br>
 
 **Physician density**<br>
 3.47 physicians/1,000 population (2019)<br>
@@ -239,9 +239,9 @@ maritime; wet, moderate winters, cool summers<br>
 
 **Land use**<br>
 _agricultural land_: 22.2% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 14.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 7.2% (2018 est.)<br>
+_arable land_: arable land: 14.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 7.2% (2018 est.)<br>
 _forest_: 52.1% (2018 est.)<br>
 _other_: 25.7% (2018 est.)<br>
 
@@ -516,11 +516,11 @@ $29.525 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Finland 13%, Latvia 12%, Sweden 8%, Lithuania 7%, Russia 6% (2022)<br>
+Finland 14%, Latvia 10%, Lithuania 9%, Sweden 7%, Russia 6% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-electricity, broadcasting equipment, refined petroleum, wood, coal tar oil (2022)<br>
+cars, wood, broadcasting equipment, refined petroleum, prefabricated buildings (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -530,11 +530,11 @@ $30.054 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Finland 13%, Germany 10%, Lithuania 8%, Latvia 8%, Russia 8% (2022)<br>
+Finland 11%, Germany 11%, China 10%, Lithuania 6%, Poland 6% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, electricity, natural gas, coal tar oil (2022)<br>
+cars, refined petroleum, broadcasting equipment, natural gas, packaged medicine (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

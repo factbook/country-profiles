@@ -55,9 +55,9 @@ diamonds, titanium ore, bauxite, iron ore, gold, chromite<br>
 
 **Land use**<br>
 _agricultural land_: 56.2% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 23.4% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 30.5% (2018 est.)<br>
+_arable land_: arable land: 23.4% (2018 est.)<br>
+_permanent crops_: permanent crops: 2.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 30.5% (2018 est.)<br>
 _forest_: 37.5% (2018 est.)<br>
 _other_: 6.3% (2018 est.)<br>
 
@@ -179,7 +179,7 @@ _unimproved: rural_: rural: 42% of population<br>
 _unimproved: total_: total: 27.2% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-8.8% of GDP (2020)<br>
+8.6% of GDP (2021)<br>
 
 **Physician density**<br>
 0.07 physicians/1,000 population (2018)<br>
@@ -241,9 +241,9 @@ tropical; hot, humid; summer rainy season (May to December); winter dry season (
 
 **Land use**<br>
 _agricultural land_: 56.2% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 23.4% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 30.5% (2018 est.)<br>
+_arable land_: arable land: 23.4% (2018 est.)<br>
+_permanent crops_: permanent crops: 2.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 30.5% (2018 est.)<br>
 _forest_: 37.5% (2018 est.)<br>
 _other_: 6.3% (2018 est.)<br>
 
@@ -430,7 +430,7 @@ _imports of goods and services_: -34.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-cassava, rice, oil palm fruit, vegetables, sweet potatoes, milk, citrus fruits, groundnuts, fruits, sugarcane (2022)<br>
+cassava, rice, oil palm fruit, vegetables, sweet potatoes, milk, citrus fruits, fruits, groundnuts, sugarcane (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -498,11 +498,11 @@ $1.114 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 54%, Belgium 12%, UAE 6%, Germany 4%, Netherlands 4% (2022)<br>
+China 67%, India 6%, Belgium 5%, Netherlands 4%, Ireland 3% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-iron ore, titanium ore, diamonds, wood, aluminum ore (2022)<br>
+iron ore, titanium ore, diamonds, aluminum ore, cocoa beans (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -512,11 +512,11 @@ $1.906 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 33%, India 12%, Turkey 9%, US 6%, UAE 5% (2022)<br>
+China 32%, India 15%, UAE 5%, USA 5%, Turkey 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-rice, plastic products, refined petroleum, vaccines, packaged medicine (2022)<br>
+rice, plastic products, packaged medicine, cement, cars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

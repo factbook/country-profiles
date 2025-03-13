@@ -52,9 +52,9 @@ natural gas, petroleum, coal, copper, chromite, talc, barites, sulfur, lead, zin
 
 **Land use**<br>
 _agricultural land_: 58.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 11.8% (2018)<br>
-_agricultural land: permanent crops_: permanent crops: 0.3% (2018)<br>
-_agricultural land: permanent pasture_: permanent pasture: 46% (2018)<br>
+_arable land_: arable land: 11.8% (2018)<br>
+_permanent crops_: permanent crops: 0.3% (2018)<br>
+_permanent pasture_: permanent pasture: 46% (2018)<br>
 _forest_: 1.8% (2018 est.)<br>
 _other_: 40.1% (2018)<br>
 
@@ -182,7 +182,7 @@ _unimproved: rural_: rural: 31.7% of population<br>
 _unimproved: total_: total: 23.5% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-15.5% of GDP (2020)<br>
+21.8% of GDP (2021)<br>
 
 **Physician density**<br>
 0.25 physicians/1,000 population (2020)<br>
@@ -251,9 +251,9 @@ arid to semiarid; cold winters and hot summers<br>
 
 **Land use**<br>
 _agricultural land_: 58.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 11.8% (2018)<br>
-_agricultural land: permanent crops_: permanent crops: 0.3% (2018)<br>
-_agricultural land: permanent pasture_: permanent pasture: 46% (2018)<br>
+_arable land_: arable land: 11.8% (2018)<br>
+_permanent crops_: permanent crops: 0.3% (2018)<br>
+_permanent pasture_: permanent pasture: 46% (2018)<br>
 _forest_: 1.8% (2018 est.)<br>
 _other_: 40.1% (2018)<br>
 
@@ -349,7 +349,7 @@ _elections/appointments_: the 2004 Afghan constitution directed that the preside
 note: the United States has not yet made a decision whether to recognize the Taliban or any other entity as the government of Afghanistan<br>
 
 **Legislative branch**<br>
-<strong>note:</strong> before August 2021, Afghanistan had a bicameral National Assembly that consisted of the House of Elders and House of the People; the parliament has been on hiatus since August 2021 and the Taliban has shown no interest in reviving it<br>
+<strong>note:</strong> Afghanistan’s bicameral National Assembly consisted of the House of Elders and House of the People but was dissolved after the Taliban took control of Afghanistan in August 2021<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the Taliban are purported to have appointed clerics, including a "Chief Justice", to Afghanistan's Supreme Court<br>
@@ -494,11 +494,11 @@ $1.609 billion (2018 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Pakistan 57%, India 28%, China 3%, UAE 2%, Turkey 2% (2022)<br>
+Pakistan 42%, India 40%, China 4%, UAE 2%, Turkey 2% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-coal, cotton, grapes, gum resins, nuts (2022)<br>
+coal, grapes, tropical fruits, gum resins, other nuts (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -508,11 +508,11 @@ $7.988 billion (2018 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-UAE 21%, Kazakhstan 17%, Pakistan 17%, China 9%, Uzbekistan 9% (2022)<br>
+UAE 28%, Pakistan 15%, China 15%, Uzbekistan 12%, Kazakhstan 9% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-wheat, tobacco, palm oil, packaged medicine, rice (2022)<br>
+wheat flours, tobacco, palm oil, broadcasting equipment, synthetic fabric (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

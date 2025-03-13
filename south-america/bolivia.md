@@ -52,9 +52,9 @@ lithium, tin, natural gas, petroleum, zinc, tungsten, antimony, silver, iron, le
 
 **Land use**<br>
 _agricultural land_: 34.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 3.6% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 30.5% (2018 est.)<br>
+_arable land_: arable land: 3.6% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 30.5% (2018 est.)<br>
 _forest_: 52.5% (2018 est.)<br>
 _other_: 13.2% (2018 est.)<br>
 
@@ -185,7 +185,7 @@ _unimproved: rural_: rural: 19.8% of population<br>
 _unimproved: total_: total: 6.5% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.9% of GDP (2020)<br>
+8.2% of GDP (2021)<br>
 
 **Physician density**<br>
 1.03 physicians/1,000 population (2017)<br>
@@ -250,9 +250,9 @@ varies with altitude; humid and tropical to cold and semiarid<br>
 
 **Land use**<br>
 _agricultural land_: 34.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 3.6% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 30.5% (2018 est.)<br>
+_arable land_: arable land: 3.6% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 30.5% (2018 est.)<br>
 _forest_: 52.5% (2018 est.)<br>
 _other_: 13.2% (2018 est.)<br>
 
@@ -548,11 +548,11 @@ $11.594 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-India 16%, Brazil 14%, Argentina 13%, Colombia 8%, Japan 7% (2022)<br>
+Brazil 15%, India 13%, China 11%, Argentina 11%, UAE 8% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-natural gas, gold, zinc ore, soybean meal, soybean oil (2022)<br>
+gold, natural gas, precious metal ore, zinc ore, soybean meal (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -562,11 +562,11 @@ $10.187 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Brazil 20%, China 19%, Chile 13%, Peru 9%, Argentina 6% (2022)<br>
+China 22%, Brazil 18%, Chile 13%, USA 7%, Peru 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, pesticides, plastic products, trucks (2022)<br>
+refined petroleum, cars, pesticides, trucks, plastics (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

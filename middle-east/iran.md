@@ -55,9 +55,9 @@ petroleum, natural gas, coal, chromium, copper, iron ore, lead, manganese, zinc,
 
 **Land use**<br>
 _agricultural land_: 30.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 10.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 18.1% (2018 est.)<br>
+_arable land_: arable land: 10.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 18.1% (2018 est.)<br>
 _forest_: 6.8% (2018 est.)<br>
 _other_: 63.1% (2018 est.)<br>
 
@@ -179,7 +179,7 @@ _unimproved: rural_: rural: 1.9% of population<br>
 _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.3% of GDP (2020)<br>
+5.8% of GDP (2021)<br>
 
 **Physician density**<br>
 1.58 physicians/1,000 population (2018)<br>
@@ -244,9 +244,9 @@ mostly arid or semiarid, subtropical along Caspian coast<br>
 
 **Land use**<br>
 _agricultural land_: 30.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 10.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 18.1% (2018 est.)<br>
+_arable land_: arable land: 10.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 18.1% (2018 est.)<br>
 _forest_: 6.8% (2018 est.)<br>
 _other_: 63.1% (2018 est.)<br>
 
@@ -506,11 +506,11 @@ $46.568 billion (2020 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 36%, Turkey 20%, Kuwait 6%, Pakistan 5%, India 4% (2022)<br>
+China 35%, Turkey 16%, India 8%, Pakistan 7%, Armenia 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-ethylene polymers, refined copper, acyclic alcohols, aluminum, natural gas (2022)<br>
+plastics, iron ore, alcohols, natural gas, refined copper (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -520,11 +520,11 @@ $58.461 billion (2020 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 28%, UAE 19%, Brazil 13%, Turkey 9%, India 6% (2022)<br>
+China 34%, UAE 20%, Turkey 11%, Brazil 8%, Germany 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-broadcasting equipment, corn, soybeans, vehicle parts/accessories, rice (2022)<br>
+broadcasting equipment, vehicle parts/accessories, corn, soybeans, vehicle bodies (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

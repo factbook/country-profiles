@@ -52,9 +52,9 @@ diamonds, copper, nickel, salt, soda ash, potash, coal, iron ore, silver<br>
 
 **Land use**<br>
 _agricultural land_: 45.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0.6% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 45.2% (2018 est.)<br>
+_arable land_: arable land: 0.6% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 45.2% (2018 est.)<br>
 _forest_: 19.8% (2018 est.)<br>
 _other_: 34.4% (2018 est.)<br>
 
@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 3.1% of population<br>
 _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.2% of GDP (2020)<br>
+6.3% of GDP (2021)<br>
 
 **Physician density**<br>
 0.38 physicians/1,000 population (2018)<br>
@@ -243,9 +243,9 @@ semiarid; warm winters and hot summers<br>
 
 **Land use**<br>
 _agricultural land_: 45.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0.6% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 45.2% (2018 est.)<br>
+_arable land_: arable land: 0.6% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 45.2% (2018 est.)<br>
 _forest_: 19.8% (2018 est.)<br>
 _other_: 34.4% (2018 est.)<br>
 
@@ -395,6 +395,9 @@ _lyrics/music_: Kgalemang Tumedisco MOTSETE<br>
 _total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>
 _selected World Heritage Site locales_: Tsodilo Hills (c); Okavango Delta (n)<br>
 
+**National coat of arms**<br>
+The two zebras on Botswana's coat of arms are the country’s national symbol. They support an elephant tusk that represents the country's fauna and a head of sorghum that signifies agriculture. The three wavy blue bands symbolize the country’s reliance on water, the cog wheels stand for industry, and the bull’s head represents the cattle industry. The coat of arms also features the national colors of light blue, white, and black. The motto reflects the scarcity of rain in the country: <em>pula </em>means “let there be rain” in Setswana, the national language.<br>
+
 ## Economy
 
 **Economic overview**<br>
@@ -520,11 +523,11 @@ $7.861 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-UAE 27%, Belgium 18%, India 15%, South Africa 10%, Hong Kong 6% (2022)<br>
+UAE 27%, India 17%, Belgium 16%, South Africa 8%, USA 7% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-diamonds, copper ore, insulated wire, coal, cattle (2022)<br>
+diamonds, copper ore, insulated wire, carbonates, cattle (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -534,11 +537,11 @@ $9.25 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-South Africa 61%, Namibia 9%, Belgium 5%, India 4%, Canada 4% (2022)<br>
+South Africa 65%, Namibia 8%, Canada 5%, China 3%, India 3% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-diamonds, refined petroleum, trucks, raw sugar, plastic products (2022)<br>
+refined petroleum, diamonds, cars, flavored water, electricity (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

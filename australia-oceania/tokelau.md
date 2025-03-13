@@ -51,9 +51,9 @@ fish<br>
 
 **Land use**<br>
 _agricultural land_: 60% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 60% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 0% (2018 est.)<br>
+_permanent crops_: permanent crops: 60% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 40% (2018 est.)<br>
 
@@ -136,9 +136,9 @@ tropical; moderated by trade winds (April to November)<br>
 
 **Land use**<br>
 _agricultural land_: 60% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 60% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 0% (2018 est.)<br>
+_permanent crops_: permanent crops: 60% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 40% (2018 est.)<br>
 
@@ -283,22 +283,22 @@ _expenditures_: $11,666,542 (2017 est.)<br>
 $103,000 (2015 est.)<br>
 
 **Exports - partners**<br>
-Poland 97%, Singapore 0%, Brazil 0%, South Africa 0%, Rwanda 0% (2022)<br>
+Czechia 92%, Singapore 2%, Brazil 1%, South Africa 1%, Sri Lanka 1% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-cars, iron fasteners, garments, silver, perfumes (2022)<br>
+cars, telephones, garments, iron fasteners, fabric (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $15,792,720 (2015 est.)<br>
 
 **Imports - partners**<br>
-Germany 40%, Sweden 10%, Singapore 8%, France 5%, Netherlands 5% (2022)<br>
+Samoa 31%, Italy 23%, France 21%, Netherlands 16%, Germany 2% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars, orthopedic appliances, surveying equipment, butter, nuts (2022)<br>
+integrated circuits, stone processing machines, refined petroleum, gas turbines, plastic products (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>

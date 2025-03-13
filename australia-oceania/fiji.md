@@ -54,9 +54,9 @@ timber, fish, gold, copper, offshore oil potential, hydropower<br>
 
 **Land use**<br>
 _agricultural land_: 23.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 4.7% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 9.6% (2018 est.)<br>
+_arable land_: arable land: 9% (2018 est.)<br>
+_permanent crops_: permanent crops: 4.7% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 9.6% (2018 est.)<br>
 _forest_: 55.7% (2018 est.)<br>
 _other_: 21% (2018 est.)<br>
 
@@ -169,7 +169,7 @@ _unimproved: rural_: rural: 10.9% of population<br>
 _unimproved: total_: total: 5.7% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-3.8% of GDP (2020)<br>
+5.4% of GDP (2021)<br>
 
 **Physician density**<br>
 0.86 physicians/1,000 population (2015)<br>
@@ -233,9 +233,9 @@ tropical marine; only slight seasonal temperature variation<br>
 
 **Land use**<br>
 _agricultural land_: 23.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 4.7% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 9.6% (2018 est.)<br>
+_arable land_: arable land: 9% (2018 est.)<br>
+_permanent crops_: permanent crops: 4.7% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 9.6% (2018 est.)<br>
 _forest_: 55.7% (2018 est.)<br>
 _other_: 21% (2018 est.)<br>
 
@@ -427,7 +427,7 @@ _imports of goods and services_: -69.3% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-sugarcane, cassava, taro, chicken, vegetables, coconuts, ginger, rice, milk, sweet potatoes (2022)<br>
+sugarcane, cassava, taro, vegetables, chicken, coconuts, eggs, ginger, milk, sweet potatoes (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -497,11 +497,11 @@ $1.23 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 39%, Australia 11%, Tonga 5%, NZ 5%, China 4% (2022)<br>
+USA 32%, Australia 12%, Tonga 6%, NZ 6%, Samoa 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-water, fish, refined petroleum, wood, garments (2022)<br>
+water, fish, raw sugar, refined petroleum, garments (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -511,11 +511,11 @@ $1.977 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Singapore 23%, China 16%, Australia 13%, NZ 11%, South Korea 8% (2022)<br>
+Singapore 25%, China 16%, Australia 15%, NZ 14%, USA 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, plastic products, plastics, wheat, garments (2022)<br>
+refined petroleum, medical instruments, cars, broadcasting equipment, plastics (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
@@ -573,7 +573,7 @@ _Total energy consumption per capita 2022_: 21.041 million Btu/person (2022 est.
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 49,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 5 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 4 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 992,000 (2021 est.)<br>
@@ -591,11 +591,11 @@ Fiji TV, a publicly traded company, operates a free-to-air channel; Digicel Fiji
 .fj<br>
 
 **Internet users**<br>
-_percent of population_: 88% (2021 est.)<br>
+_percent of population_: 85% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 23,062 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 3 (2020 est.)<br>
+_total_: 23,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
 
 ## Transportation
 

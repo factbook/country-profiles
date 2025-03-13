@@ -54,9 +54,9 @@ coal, iron ore, copper, chromium, antimony, mercury, gold, barite, borate, celes
 
 **Land use**<br>
 _agricultural land_: 49.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 26.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 4% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 19% (2018 est.)<br>
+_arable land_: arable land: 26.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 4% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 19% (2018 est.)<br>
 _forest_: 14.9% (2018 est.)<br>
 _other_: 35.4% (2018 est.)<br>
 
@@ -182,7 +182,7 @@ _unimproved: rural_: rural: 1.3% of population<br>
 _unimproved: total_: total: 1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.6% of GDP (2020)<br>
+4.6% of GDP (2021)<br>
 
 **Physician density**<br>
 1.93 physicians/1,000 population (2019)<br>
@@ -251,9 +251,9 @@ temperate; hot, dry summers with mild, wet winters; harsher in interior<br>
 
 **Land use**<br>
 _agricultural land_: 49.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 26.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 4% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 19% (2018 est.)<br>
+_arable land_: arable land: 26.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 4% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 19% (2018 est.)<br>
 _forest_: 14.9% (2018 est.)<br>
 _other_: 35.4% (2018 est.)<br>
 
@@ -463,7 +463,7 @@ _imports of goods and services_: -34.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-milk, wheat, sugar beets, tomatoes, barley, maize, potatoes, apples, grapes, watermelons (2022)<br>
+sugar beets, wheat, milk, tomatoes, barley, maize, potatoes, apples, grapes, watermelons (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -538,11 +538,11 @@ $287.318 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 8%, US 7%, Iraq 5%, UK 5%, Italy 5% (2022)<br>
+Germany 9%, USA 6%, UK 6%, UAE 5%, Iraq 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-garments, refined petroleum, cars, jewelry, plastic products (2022)<br>
+garments, cars, gold, refined petroleum, vehicle parts/accessories (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -552,11 +552,11 @@ $284.019 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 13%, Germany 9%, Russia 8%, US 5%, Italy 5% (2022)<br>
+China 13%, Russia 9%, Germany 9%, Switzerland 6%, USA 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-gold, refined petroleum, plastics, scrap iron, cars (2022)<br>
+gold, refined petroleum, cars, plastics, natural gas (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
@@ -734,13 +734,13 @@ the Turkish Armed Forces (TAF) have a range of responsibilities, including prote
 ## Space
 
 **Space agency/agencies**<br>
-Turkish Space Agency (TUA; established 2018); T&Uuml;BİTAK Space Technologies Research Institute (UZAY; established in 1985 as Ankara Electronics Research and Development Institute) (2024)<br>
+Turkish Space Agency (TUA; established 2018); T&Uuml;BİTAK Space Technologies Research Institute (UZAY; established in 1985 as Ankara Electronics Research and Development Institute) (2025)<br>
 
 **Space launch site(s)**<br>
-rocket test launch site on the Black Sea in Sinop Province; the 2021 national space program called for the establishment of a space port; has reportedly discussed building a rocket launch site in Somalia or using a sea-launch facility for future space launch vehicles (2024)<br>
+rocket test launch site on the Black Sea in Sinop Province; constructing a rocket launch facility in Somalia as of early 2025 (2025)<br>
 
 **Space program overview**<br>
-has an ambitious space program with a large focus on satellites, software development, ground station technologies, and building up the country’s space industries; in recent years has also initiated a space launch program with the goal of placing domestically produced satellites into orbit independently and a probe on the Moon; manufactures and operates remote sensing and telecommunications satellites, as well as satellite components; has a space/satellite launch vehicle program; space sector is heavily import-reliant, particularly at the component level; has established relations with more than 25 foreign space agencies and corporations, including those of Azerbaijan, China, France, India, Japan, Kazakhstan, Pakistan, Russia, South Korea, Ukraine, and the US, as well as the European Space Agency; has state-owned rocket development and satellite communications companies, including some under the Ministry of Defense (2024)<br>
+has an ambitious space program with a large focus on satellites, software development, ground station technologies, and building up the country’s space industries; in recent years has also initiated a space launch program with the goal of placing domestically produced satellites into orbit independently and a probe on the Moon; manufactures and operates remote sensing and telecommunications satellites, as well as satellite components; has a space/satellite launch vehicle program; space sector is heavily import-reliant, particularly at the component level; has established relations with more than 25 foreign space agencies and corporations, including those of Azerbaijan, China, France, India, Japan, Kazakhstan, Pakistan, Russia, South Korea, Ukraine, and the US, as well as the European Space Agency; has state-owned rocket development and satellite communications companies, including some under the Ministry of Defense (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

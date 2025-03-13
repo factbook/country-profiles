@@ -54,9 +54,9 @@ fish<br>
 
 **Land use**<br>
 _agricultural land_: 23.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 10% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 10% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 3.3% (2018 est.)<br>
+_arable land_: arable land: 10% (2018 est.)<br>
+_permanent crops_: permanent crops: 10% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 3.3% (2018 est.)<br>
 _forest_: 3% (2018 est.)<br>
 _other_: 73.7% (2018 est.)<br>
 
@@ -172,7 +172,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-11.4% of GDP (2020)<br>
+10% of GDP (2021)<br>
 
 **Physician density**<br>
 2.05 physicians/1,000 population (2019)<br>
@@ -241,9 +241,9 @@ tropical; hot, humid; dry, northeast monsoon (November to March); rainy, southwe
 
 **Land use**<br>
 _agricultural land_: 23.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 10% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 10% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 3.3% (2018 est.)<br>
+_arable land_: arable land: 10% (2018 est.)<br>
+_permanent crops_: permanent crops: 10% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 3.3% (2018 est.)<br>
 _forest_: 3% (2018 est.)<br>
 _other_: 73.7% (2018 est.)<br>
 
@@ -495,11 +495,11 @@ $3.985 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-India 71%, Thailand 12%, Germany 3%, Oman 2%, UK 2% (2022)<br>
+Thailand 32%, India 21%, Singapore 9%, UK 7%, Germany 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-aircraft, fish, natural gas, scrap iron, refined petroleum (2022)<br>
+fish, aircraft, refined petroleum, scrap iron, natural gas (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -509,11 +509,11 @@ $3.482 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-India 16%, China 16%, UAE 10%, Oman 9%, Malaysia 6% (2022)<br>
+India 15%, UAE 15%, Oman 14%, China 12%, Singapore 8% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, ships, aircraft, plastic products, broadcasting equipment (2022)<br>
+refined petroleum, plastic products, aircraft, granite, ships (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

@@ -52,9 +52,9 @@ hardwood forests, fish, hydropower<br>
 
 **Land use**<br>
 _agricultural land_: 12.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 7.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 1.8% (2018 est.)<br>
+_arable land_: arable land: 2.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 7.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 1.8% (2018 est.)<br>
 _forest_: 60.4% (2018 est.)<br>
 _other_: 27.2% (2018 est.)<br>
 
@@ -167,7 +167,7 @@ _unimproved: rural_: rural: 2% of population<br>
 _unimproved: total_: total: 1.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.3% of GDP (2020)<br>
+6.8% of GDP (2021)<br>
 
 **Physician density**<br>
 0.6 physicians/1,000 population (2020)<br>
@@ -229,9 +229,9 @@ tropical; rainy season (November to April), dry season (May to October)<br>
 
 **Land use**<br>
 _agricultural land_: 12.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 7.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 1.8% (2018 est.)<br>
+_arable land_: arable land: 2.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 7.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 1.8% (2018 est.)<br>
 _forest_: 60.4% (2018 est.)<br>
 _other_: 27.2% (2018 est.)<br>
 
@@ -473,11 +473,11 @@ $97.774 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-India 23%, US 19%, NZ 12%, Hungary 8%, Poland 6% (2022)<br>
+India 26%, NZ 14%, USA 12%, American Samoa 10%, Australia 9% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-coconut oil, integrated circuits, insulated wire, citrus, power equipment (2022)<br>
+refined petroleum, integrated circuits, coconut oil, fish, insulated wire (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -487,11 +487,11 @@ $430.011 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 25%, Singapore 16%, NZ 14%, South Korea 7%, US 7% (2022)<br>
+NZ 20%, Singapore 19%, China 17%, Australia 10%, Fiji 9% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, coated flat-rolled iron, fish, poultry, ships (2022)<br>
+refined petroleum, poultry, cars, plastic products, milk (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

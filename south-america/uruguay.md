@@ -55,9 +55,9 @@ arable land, hydropower, minor minerals, fish<br>
 
 **Land use**<br>
 _agricultural land_: 87.2% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 10.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 76.9% (2018 est.)<br>
+_arable land_: arable land: 10.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 76.9% (2018 est.)<br>
 _forest_: 10.2% (2018 est.)<br>
 _other_: 2.6% (2018 est.)<br>
 
@@ -184,7 +184,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-9.2% of GDP (2020)<br>
+9.4% of GDP (2021)<br>
 
 **Physician density**<br>
 4.94 physicians/1,000 population (2017)<br>
@@ -249,9 +249,9 @@ warm temperate; freezing temperatures almost unknown<br>
 
 **Land use**<br>
 _agricultural land_: 87.2% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 10.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 76.9% (2018 est.)<br>
+_arable land_: arable land: 10.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 76.9% (2018 est.)<br>
 _forest_: 10.2% (2018 est.)<br>
 _other_: 2.6% (2018 est.)<br>
 
@@ -356,25 +356,25 @@ _legislature name_: General Assembly (Asamblea General)<br>
 _legislative structure_: bicameral<br>
 
 **Legislative branch - lower chamber**<br>
-_chamber name_: House of Representatives (C&aacute;mara de Representantes)<br>
+_chamber name_: House of Representatives (Cámara de Representantes)<br>
 _number of seats_: 99 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 10/27/2024<br>
 _parties elected and seats per party_: Broad Front (FA) (48); National Party (PN) (29); Colorado Party (PC) (17); Other (5)<br>
-_percentage of women in chamber_: 24.2%<br>
+_percentage of women in chamber_: 28.3%<br>
 _expected date of next election_: October 2029<br>
 
 **Legislative branch - upper chamber**<br>
-_chamber name_: Senate (C&aacute;mara de Senadores)<br>
+_chamber name_: Senate (Cámara de Senadores)<br>
 _number of seats_: 31 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 10/27/2024<br>
 _parties elected and seats per party_: Broad Front (FA) (16); National Party (PN) (9); Colorado Party (PC) (5)<br>
-_percentage of women in chamber_: 35.5%<br>
+_percentage of women in chamber_: 32.3%<br>
 _expected date of next election_: October 2029<br>
 
 **Judicial branch**<br>
@@ -550,11 +550,11 @@ $19.973 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 24%, Brazil 14%, Argentina 8%, US 7%, Netherlands 5% (2022)<br>
+China 21%, Brazil 17%, USA 8%, Argentina 5%, Netherlands 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-beef, wood pulp, soybeans, milk, rice (2022)<br>
+wood pulp, beef, milk, rice, wood (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -564,11 +564,11 @@ $15.448 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Brazil 20%, China 18%, US 15%, Argentina 11%, Germany 3% (2022)<br>
+Brazil 22%, China 18%, Argentina 11%, USA 9%, Nigeria 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-crude petroleum, fertilizers, cars, packaged medicine, broadcasting equipment (2022)<br>
+crude petroleum, refined petroleum, cars, trucks, fertilizers (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

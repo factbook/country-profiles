@@ -55,9 +55,9 @@ coal, petroleum, natural gas, iron ore, lead, zinc, gold, tin, limestone, salt, 
 
 **Land use**<br>
 _agricultural land_: 71% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 25.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 45.7% (2018 est.)<br>
+_arable land_: arable land: 25.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 45.7% (2018 est.)<br>
 _forest_: 11.9% (2018 est.)<br>
 _other_: 17.1% (2018 est.)<br>
 
@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-12% of GDP (2020)<br>
+11.3% of GDP (2022)<br>
 
 **Physician density**<br>
 3 physicians/1,000 population (2020)<br>
@@ -242,9 +242,9 @@ temperate; moderated by prevailing southwest winds over the North Atlantic Curre
 
 **Land use**<br>
 _agricultural land_: 71% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 25.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 45.7% (2018 est.)<br>
+_arable land_: arable land: 25.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 45.7% (2018 est.)<br>
 _forest_: 11.9% (2018 est.)<br>
 _other_: 17.1% (2018 est.)<br>
 
@@ -370,7 +370,7 @@ Alliance Party or APNI (Northern Ireland) <br>Conservative and Unionist Party 
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, C, CBSS (observer), CD, CDB, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNOOSA, UNRWA, UN Security Council (permanent), UNSOM, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Karen Elizabeth PIERCE (since 8 April 2020)<br>
+_chief of mission_: Ambassador Peter MANDELSON (since 25 February 2025)<br>
 _chancery_: 3100 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 588-6500<br>
 _FAX_: [1] (202) 588-7870<br>
@@ -456,7 +456,7 @@ _imports of goods and services_: -32.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-milk, wheat, barley, sugar beets, potatoes, chicken, rapeseed, oats, pork, beef (2022)<br>
+milk, wheat, sugar beets, barley, potatoes, chicken, rapeseed, pork, beef, oats (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -531,11 +531,11 @@ $916.573 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 13%, Netherlands 9%, Germany 9%, China 8%, Ireland 7% (2022)<br>
+USA 14%, China 8%, Germany 8%, Netherlands 7%, Ireland 7% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, cars, gas turbines, crude petroleum, packaged medicine (2022)<br>
+cars, gold, gas turbines, packaged medicine, crude petroleum (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -545,11 +545,11 @@ $923.549 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 12%, Germany 10%, US 10%, Norway 8%, Netherlands 5% (2022)<br>
+China 13%, USA 11%, Germany 10%, France 5%, Norway 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-natural gas, cars, crude petroleum, gold, garments (2022)<br>
+cars, gold, crude petroleum, refined petroleum, natural gas (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
@@ -626,11 +626,11 @@ _Total energy consumption per capita 2022_: 99.499 million Btu/person (2022 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 29.798 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 44 (2022 est.)<br>
+_total subscriptions_: 26.627 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 39 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 81.564 million (2022 est.)<br>
+_total subscriptions_: 84.3 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 121 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -645,11 +645,11 @@ public service broadcaster, British Broadcasting Corporation (BBC), is the large
 .uk<br>
 
 **Internet users**<br>
-_percent of population_: 97% (2021 est.)<br>
+_percent of population_: 95% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 27,330,297 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 40 (2020 est.)<br>
+_total_: 28.2 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 41 (2023 est.)<br>
 
 **Communications - note**<br>
 <p>note 1: the British Library claims to be the largest library in the world with well over 150 million items and in most known languages; it receives copies of all books produced in the UK or Ireland, as well as a significant proportion of overseas titles distributed in the UK; in addition to books (print and digital), holdings include: journals, manuscripts, newspapers, magazines, sound and music recordings, videos, maps, prints, patents, and drawings<br><br>note 2: on 1 May 1840, the United Kingdom led the world with the introduction of postage stamps; the Austrian Empire had examined the idea of an "adhesive tax postmark" for the prepayment of postage in 1835; while the suggestion was reviewed in detail, it was rejected for the time being; other countries (including Austria) soon followed the UK's example with their own postage stamps; by the 1860s, most countries were issuing stamps; originally, stamps had to be cut from sheets; the UK issued the first postage stamps with perforations in 1854</p><br>

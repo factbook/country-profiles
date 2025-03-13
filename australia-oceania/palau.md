@@ -53,9 +53,9 @@ forests, minerals (especially gold), marine products, deep-seabed minerals<br>
 
 **Land use**<br>
 _agricultural land_: 10.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 4.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 4.3% (2018 est.)<br>
+_arable land_: arable land: 2.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 4.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 4.3% (2018 est.)<br>
 _forest_: 87.6% (2018 est.)<br>
 _other_: 1.6% (2018 est.)<br>
 
@@ -165,7 +165,7 @@ _unimproved: rural_: rural: 0.2% of population<br>
 _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-18.4% of GDP (2020)<br>
+16.4% of GDP (2021)<br>
 
 **Physician density**<br>
 1.77 physicians/1,000 population (2020)<br>
@@ -220,9 +220,9 @@ tropical; hot and humid; wet season May to November<br>
 
 **Land use**<br>
 _agricultural land_: 10.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 4.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 4.3% (2018 est.)<br>
+_arable land_: arable land: 2.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 4.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 4.3% (2018 est.)<br>
 _forest_: 87.6% (2018 est.)<br>
 _other_: 1.6% (2018 est.)<br>
 
@@ -465,12 +465,12 @@ $52.897 million (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Greece 27%, Japan 26%, France 18%, Taiwan 8%, US 7% (2022)<br>
+India 41%, Turkey 26%, Taiwan 10%, USA 9%, Japan 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-ships, computers, machine parts, scrap iron, fish (2022)<br>
-<b>note:</b> top five export commodities based on value in dollars<br>
+ships, refined petroleum (2023)<br>
+<strong>note:</strong> top export commodities based on value in dollars over $500,000<br>
 
 **Imports**<br>
 $216.681 million (2022 est.)<br>
@@ -479,11 +479,11 @@ $207.224 million (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 35%, US 14%, South Korea 13%, Japan 8%, Italy 6% (2022)<br>
+Italy 32%, China 25%, USA 11%, Turkey 10%, Japan 6% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-ships, refined petroleum, iron structures, plastic products, electric batteries (2022)<br>
+ships, refined petroleum, additive manufacturing machines, cars, plastic products (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

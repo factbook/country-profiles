@@ -53,9 +53,9 @@ phosphate (production discontinued in 1979), coconuts (copra), fish<br>
 
 **Land use**<br>
 _agricultural land_: 42% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.5% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 39.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 2.5% (2018 est.)<br>
+_permanent crops_: permanent crops: 39.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 15% (2018 est.)<br>
 _other_: 43% (2018 est.)<br>
 
@@ -171,7 +171,7 @@ _unimproved: rural_: rural: 36.9% of population<br>
 _unimproved: total_: total: 18% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-11.6% of GDP (2020)<br>
+14.8% of GDP (2021)<br>
 
 **Physician density**<br>
 0.2 physicians/1,000 population (2013)<br>
@@ -235,9 +235,9 @@ tropical; marine, hot and humid, moderated by trade winds<br>
 
 **Land use**<br>
 _agricultural land_: 42% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.5% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 39.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 2.5% (2018 est.)<br>
+_permanent crops_: permanent crops: 39.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 15% (2018 est.)<br>
 _other_: 43% (2018 est.)<br>
 
@@ -415,7 +415,7 @@ _imports of goods and services_: -92.4% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-coconuts, bananas, vegetables, taro, tropical fruits, pork, chicken, nuts, eggs, pork offal (2022)<br>
+coconuts, bananas, vegetables, taro, tropical fruits, pork, chicken, nuts, eggs, pork offal (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -474,12 +474,12 @@ $10.754 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Thailand 55%, Philippines 15%, Japan 10%, Indonesia 8%, South Korea 4% (2022)<br>
+Thailand 85%, Japan 6%, Philippines 3%, UAE 2%, Fiji 1% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-fish, ships, coconut oil, copra, raw sugar (2022)<br>
-<b>note:</b> top five export commodities based on value in dollars<br>
+fish, coconut oil (2023)<br>
+<strong>note:</strong> top export commodities based on value in dollars over $500,000<br>
 
 **Imports**<br>
 $293.624 million (2023 est.)<br>
@@ -488,11 +488,11 @@ $201.984 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Taiwan 25%, China 22%, Fiji 13%, Australia 9%, South Korea 7% (2022)<br>
+China 24%, Australia 20%, Fiji 15%, Japan 7%, NZ 6% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-ships, refined petroleum, rice, twine and rope, prepared meat (2022)<br>
+ships, centrifuges, refined petroleum, rice, raw sugar (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>

@@ -51,9 +51,9 @@ nickel, chrome, iron, cobalt, manganese, silver, gold, lead, copper<br>
 
 **Land use**<br>
 _agricultural land_: 10.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0.4% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 9.8% (2018 est.)<br>
+_arable land_: arable land: 0.4% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 9.8% (2018 est.)<br>
 _forest_: 45.9% (2018 est.)<br>
 _other_: 43.7% (2018 est.)<br>
 
@@ -162,9 +162,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.7% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 NA<br>
 
@@ -201,9 +198,9 @@ tropical; modified by southeast trade winds; hot, humid<br>
 
 **Land use**<br>
 _agricultural land_: 10.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0.4% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 9.8% (2018 est.)<br>
+_arable land_: arable land: 0.4% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 9.8% (2018 est.)<br>
 _forest_: 45.9% (2018 est.)<br>
 _other_: 43.7% (2018 est.)<br>
 
@@ -414,11 +411,11 @@ $1.79 billion (2019 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 62%, South Korea 14%, Japan 12%, Taiwan 2%, Spain 2% (2022)<br>
+China 75%, Japan 9%, Taiwan 3%, India 3%, France 2% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-iron alloys, nickel ore, nickel, aircraft, essential oils (2022)<br>
+iron alloys, nickel, nickel ore, processed crustaceans, shellfish (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -428,11 +425,11 @@ $2.48 billion (2019 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-France 30%, Australia 22%, Singapore 13%, China 6%, Malaysia 6% (2022)<br>
+France 36%, Singapore 16%, Australia 15%, China 6%, NZ 3% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, coal, cars, packaged medicine, trucks (2022)<br>
+refined petroleum, coal, cars, aircraft, packaged medicine (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>

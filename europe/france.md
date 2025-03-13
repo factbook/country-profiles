@@ -61,9 +61,9 @@ _mean elevation_: 375 m<br>
 
 **Land use**<br>
 _agricultural land_: 52.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 33.4% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 17.5% (2018 est.)<br>
+_arable land_: arable land: 33.4% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 17.5% (2018 est.)<br>
 _forest_: 29.2% (2018 est.)<br>
 _other_: 18.1% (2018 est.)<br>
 
@@ -194,7 +194,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-12.2% of GDP (2020)<br>
+12.3% of GDP (2021)<br>
 
 **Physician density**<br>
 3.27 physicians/1,000 population (2019)<br>
@@ -259,9 +259,9 @@ _signed, but not ratified_: none of the selected agreements<br>
 
 **Land use**<br>
 _agricultural land_: 52.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 33.4% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 17.5% (2018 est.)<br>
+_arable land_: arable land: 33.4% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 17.5% (2018 est.)<br>
 _forest_: 29.2% (2018 est.)<br>
 _other_: 18.1% (2018 est.)<br>
 
@@ -569,11 +569,11 @@ $926.762 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 13%, Italy 9%, US 8%, Belgium 8%, Spain 8% (2022)<br>
+Germany 11%, Italy 9%, USA 8%, Belgium 8%, Spain 7% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-aircraft, packaged medicine, cars, natural gas, vehicle parts/accessories (2022)<br>
+aircraft, cars, packaged medicine, gas turbines, vehicle parts/accessories (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -583,11 +583,11 @@ $957.017 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Germany 15%, Belgium 9%, Spain 8%, Italy 8%, Netherlands 8% (2022)<br>
+Germany 15%, Belgium 11%, Netherlands 9%, Spain 8%, Italy 8% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-natural gas, cars, refined petroleum, crude petroleum, garments (2022)<br>
+cars, natural gas, crude petroleum, refined petroleum, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
@@ -762,7 +762,7 @@ generally 17-30 years of age for both men and women with some variations by serv
 <strong>note 1: </strong>in 2023, women comprised more than 16% of the uniformed armed forces  <br><br><strong>note 2:</strong> French citizens can also volunteer for the Voluntary Military Service (VMS), which allows unemployed youth aged 18-25 to learn a trade or gain work experience while receiving basic military training and sports activities; French citizens may also join the military operational reserve up to age 72<br><br><strong>note 3:</strong> men between the ages of 17.5 and 39.5 years of age, of any nationality, may join the French Foreign Legion; those volunteers selected for service sign five-year contracts<br>
 
 **Military deployments**<br>
-France typically has up to 30,000 total air, ground, and naval forces deployed on permanent or temporary foreign missions; up to 10,000 are permanently deployed, including Djibouti (1,500); French Guyana (2,600); French Polynesia (1,000); French West Indies (1,000); Reunion Island (2,100); West Africa (1,200), and the UAE (800)<br><br>other non-permanent deployments include military missions under NATO, the EU, and the UN in such places as Europe, Africa, and the Middle East and  adjacent waters (2025)<br>
+France typically has up to 30,000 total air, ground, and naval forces deployed on permanent or temporary foreign missions; up to 10,000 are permanently deployed, including Djibouti (1,500); French Guyana (2,600); French Polynesia (1,000); French West Indies (1,000); Reunion Island (2,100); West Africa (1,200), and the UAE (800)<br><br>other non-permanent deployments include military missions under NATO, the EU, and the UN, as well as some unilateral operations, in such places as Europe, Africa, and the Middle East and adjacent waters (2025)<br>
 
 **Military - note**<br>
 the French military has a global footprint and a wide range of missions and responsibilities; it operates under France’s overall defense and national security strategy, currently defined through the five major strategic functions of anticipation, prevention, deterrence, protection, and intervention; the military’s responsibilities include protecting French territory, population, and interests, and fulfilling France’s commitments to NATO, European security, and international peacekeeping operations under the UN; it is the largest military in the EU and has a leading role in the EU security framework, as well as in NATO; in recent years, it has actively participated in coalition peacekeeping and other security operations in regions such as Africa, the Middle East, and the Balkans, often in a lead role; the military regularly conducts large-scale exercises and participates in a variety of bi-lateral and multinational exercises; it also has a domestic security mission, including providing enhanced security at sensitive sites and large events and support during national crises or disasters, such as fighting forest fires; in recent years, defense responsibilities have expanded to include cyber and space domains <br><br>in 2010, France and the UK signed a declaration on defense and security cooperation that included greater military interoperability and a Combined Joint Expeditionary Force (CJEF), a deployable, combined Anglo-French military force for use in a wide range of crisis scenarios, up to and including high intensity combat operations; the CJEF has no standing forces, but would be available at short notice for French-UK bilateral, NATO, EU, UN, or other operations; combined training exercises began in 2011, and as of 2020, the CJEF was assessed as having full operating capacity with the ability to rapidly deploy over 10,000 personnel capable of high intensity operations, peacekeeping, disaster relief, and humanitarian assistance <br><br>the French Foreign Legion, established in 1831, is a military force that is open to foreign recruits willing to serve in the French military for service in France and abroad; the Foreign Legion is an integrated part of the French Army and is comprised of approximately 8,000 personnel; its combat units are a mix of armored cavalry and airborne, light, mechanized, and motorized infantry regiments (2024)<br>

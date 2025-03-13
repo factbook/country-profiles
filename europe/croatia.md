@@ -53,9 +53,9 @@ oil, some coal, bauxite, low-grade iron ore, calcium, gypsum, natural asphalt, s
 
 **Land use**<br>
 _agricultural land_: 23.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 16% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 6.2% (2018 est.)<br>
+_arable land_: arable land: 16% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 6.2% (2018 est.)<br>
 _forest_: 34.4% (2018 est.)<br>
 _other_: 41.9% (2018 est.)<br>
 
@@ -178,7 +178,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.8% of GDP (2020)<br>
+8.1% of GDP (2021)<br>
 
 **Physician density**<br>
 3.47 physicians/1,000 population (2019)<br>
@@ -243,9 +243,9 @@ Mediterranean and continental; continental climate predominant with hot summers 
 
 **Land use**<br>
 _agricultural land_: 23.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 16% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 6.2% (2018 est.)<br>
+_arable land_: arable land: 16% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 6.2% (2018 est.)<br>
 _forest_: 34.4% (2018 est.)<br>
 _other_: 41.9% (2018 est.)<br>
 
@@ -529,11 +529,11 @@ $34.368 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Italy 13%, Slovenia 11%, Germany 11%, Hungary 10%, Bosnia and Herzegovina 9% (2022)<br>
+Italy 14%, Germany 11%, Slovenia 11%, Bosnia &amp; Herzegovina 6%, Austria 6% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, electricity, natural gas, garments, wood (2022)<br>
+ships, garments, electricity, packaged medicine, wood (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -543,11 +543,11 @@ $36.259 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Italy 14%, Germany 12%, Slovenia 11%, Hungary 7%, US 7% (2022)<br>
+Italy 14%, Germany 14%, Slovenia 11%, Hungary 6%, Austria 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-natural gas, refined petroleum, electricity, garments, cars (2022)<br>
+refined petroleum, cars, garments, natural gas, crude petroleum (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

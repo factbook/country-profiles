@@ -52,9 +52,9 @@ timber, hydropower, gypsum, calcium carbonate<br>
 
 **Land use**<br>
 _agricultural land_: 13.6% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.6% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 10.7% (2018 est.)<br>
+_arable land_: arable land: 2.6% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 10.7% (2018 est.)<br>
 _forest_: 85.5% (2018 est.)<br>
 _other_: 0.9% (2018 est.)<br>
 
@@ -160,7 +160,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.4% of GDP (2020)<br>
+3.8% of GDP (2021)<br>
 
 **Physician density**<br>
 0.5 physicians/1,000 population (2020)<br>
@@ -220,9 +220,9 @@ varies; tropical in southern plains; cool winters and hot summers in central val
 
 **Land use**<br>
 _agricultural land_: 13.6% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.6% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 10.7% (2018 est.)<br>
+_arable land_: arable land: 2.6% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 10.7% (2018 est.)<br>
 _forest_: 85.5% (2018 est.)<br>
 _other_: 0.9% (2018 est.)<br>
 
@@ -484,11 +484,11 @@ $739.514 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-India 88%, Italy 5%, Nepal 2%, Colombia 2%, Singapore 1% (2022)<br>
+India 92%, Italy 4%, Indonesia 1%, China 1%, Singapore 0% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-iron alloys, dolomite, gypsum, cement, electricity (2022)<br>
+iron alloys, aircraft, dolomite, semi-finished iron, cement (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -498,11 +498,11 @@ $1.027 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-India 75%, China 12%, Indonesia 5%, Thailand 2%, Singapore 1% (2022)<br>
+India 82%, Singapore 8%, China 5%, Thailand 2%, Indonesia 1% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-computers, refined petroleum, electrical machinery, coke, wood charcoal (2022)<br>
+refined petroleum, gold, plastics, broadcasting equipment, iron reductions (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

@@ -54,9 +54,9 @@ bauxite, copper, lead, zinc, coal, timber, arable land<br>
 
 **Land use**<br>
 _agricultural land_: 46.9% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 29.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 15.5% (2018 est.)<br>
+_arable land_: arable land: 29.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 15.5% (2018 est.)<br>
 _forest_: 36.7% (2018 est.)<br>
 _other_: 16.4% (2018 est.)<br>
 
@@ -179,7 +179,7 @@ _unimproved: rural_: rural: 2.6% of population<br>
 _unimproved: total_: total: 1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-8.5% of GDP (2020)<br>
+8.6% of GDP (2021)<br>
 
 **Physician density**<br>
 4.2 physicians/1,000 population (2018)<br>
@@ -244,9 +244,9 @@ temperate; cold, damp winters; hot, dry summers<br>
 
 **Land use**<br>
 _agricultural land_: 46.9% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 29.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 15.5% (2018 est.)<br>
+_arable land_: arable land: 29.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 15.5% (2018 est.)<br>
 _forest_: 36.7% (2018 est.)<br>
 _other_: 16.4% (2018 est.)<br>
 
@@ -347,7 +347,7 @@ _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 10/27/2024<br>
-_parties elected and seats per party_: Citizens for European Development of Bulgaria Party (GERB) - Union of Democratic Forces (UDF) (69); We Continue the Change - Democratic Bulgaria (37); Revival (Vuzrazhdane) (35); Movement for Rights and Freedoms (DPS) - New Beginning (30); Bulgarian Socialist Party (BSP for Bulgaria) - United Left (20); Alliance for Rights and Freedoms (APS) (19); There is Such a People (PP-ITN) (18); Political Party Morality, Unity, Honour (PP MECh) (12)<br>
+_parties elected and seats per party_: Citizens for European Development of Bulgaria Party (GERB) - Union of Democratic Forces (UDF) (69); We Continue the Change - Democratic Bulgaria (37); Revival (Vuzrazhdane) (35); Movement for Rights and Freedoms (DPS) - New Beginning (30); Bulgarian Socialist Party (BSP) - United Left (20); Alliance for Rights and Freedoms (APS) (19); There is Such a People (PP-ITN) (18); Political Party Morality, Unity, Honour (PP MECh) (12)<br>
 _percentage of women in chamber_: 21.3%<br>
 _expected date of next election_: October 2028<br>
 
@@ -524,11 +524,11 @@ $52.125 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 13%, Romania 13%, Italy 7%, Turkey 6%, Greece 6% (2022)<br>
+Germany 14%, Romania 11%, Italy 8%, Greece 6%, Turkey 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, natural gas, garments, wheat, refined copper (2022)<br>
+refined petroleum, garments, refined copper, wheat, natural gas (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -538,11 +538,11 @@ $49.999 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Germany 10%, Russia 10%, Turkey 9%, Romania 7%, Greece 6% (2022)<br>
+Germany 12%, Turkey 8%, Romania 8%, Russia 7%, Italy 6% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-crude petroleum, natural gas, copper ore, cars, packaged medicine (2022)<br>
+crude petroleum, copper ore, cars, packaged medicine, electricity (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

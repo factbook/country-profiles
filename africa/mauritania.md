@@ -55,9 +55,9 @@ iron ore, gypsum, copper, phosphate, diamonds, gold, oil, fish<br>
 
 **Land use**<br>
 _agricultural land_: 38.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0.4% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 38.1% (2018 est.)<br>
+_arable land_: arable land: 0.4% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 38.1% (2018 est.)<br>
 _forest_: 0.2% (2018 est.)<br>
 _other_: 61.3% (2018 est.)<br>
 
@@ -187,7 +187,7 @@ _unimproved: rural_: rural: 31.6% of population<br>
 _unimproved: total_: total: 14.8% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-3.4% of GDP (2020)<br>
+4.1% of GDP (2021)<br>
 
 **Physician density**<br>
 0.19 physicians/1,000 population (2018)<br>
@@ -254,9 +254,9 @@ desert; constantly hot, dry, dusty<br>
 
 **Land use**<br>
 _agricultural land_: 38.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0.4% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 38.1% (2018 est.)<br>
+_arable land_: arable land: 0.4% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 38.1% (2018 est.)<br>
 _forest_: 0.2% (2018 est.)<br>
 _other_: 61.3% (2018 est.)<br>
 
@@ -456,7 +456,7 @@ _imports of goods and services_: -53.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-rice, milk, sorghum, goat milk, sheep milk, lamb/mutton, beef, camel meat, camel milk, dates (2022)<br>
+rice, milk, goat milk, sorghum, sheep milk, lamb/mutton, beef, camel meat, camel milk, dates (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -525,11 +525,11 @@ $3.18 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 24%, Canada 12%, UAE 12%, Spain 9%, Turkey 6% (2022)<br>
+China 25%, Switzerland 14%, Canada 12%, UAE 9%, Spain 7% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, iron ore, fish, processed crustaceans, animal meal (2022)<br>
+gold, iron ore, fish, processed crustaceans, copper ore (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -539,11 +539,11 @@ $4.312 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 18%, Spain 7%, Morocco 6%, UAE 6%, Indonesia 6% (2022)<br>
+China 19%, UAE 14%, Morocco 6%, Spain 6%, France 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, iron pipes, wheat, raw sugar, palm oil (2022)<br>
+refined petroleum, raw sugar, palm oil, wheat, soybean oil (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

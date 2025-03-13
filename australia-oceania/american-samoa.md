@@ -52,9 +52,9 @@ pumice, pumicite<br>
 
 **Land use**<br>
 _agricultural land_: 24.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 15% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 9.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 15% (2018 est.)<br>
+_permanent crops_: permanent crops: 9.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 75.5% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
@@ -158,9 +158,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 NA<br>
 
@@ -196,9 +193,9 @@ tropical marine, moderated by southeast trade winds; annual rainfall averages ab
 
 **Land use**<br>
 _agricultural land_: 24.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 15% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 9.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 15% (2018 est.)<br>
+_permanent crops_: permanent crops: 9.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 75.5% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
@@ -361,11 +358,11 @@ $427 million (2020 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Australia 33%, South Korea 16%, Taiwan 8%, Kuwait 8%, Senegal 5% (2022)<br>
+Australia 31%, UK 18%, Tanzania 9%, UAE 7%, Senegal 6% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-animal meal, packaged medicine, machinery, refined petroleum, insulated wire (2022)<br>
+animal meal, aluminum, refined petroleum, gas turbines, broadcasting equipment (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -375,11 +372,11 @@ $686 million (2020 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Malaysia 27%, Singapore 24%, Fiji 12%, South Korea 9%, Taiwan 9% (2022)<br>
+Singapore 28%, NZ 15%, Fiji 14%, Taiwan 11%, Malaysia 11% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, fish, cars, paper containers, wood (2022)<br>
+refined petroleum, fish, paper containers, wood, construction vehicles (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>

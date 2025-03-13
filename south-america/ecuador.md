@@ -57,9 +57,9 @@ petroleum, fish, timber, hydropower<br>
 
 **Land use**<br>
 _agricultural land_: 29.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 4.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 5.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 19.4% (2018 est.)<br>
+_arable land_: arable land: 4.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 5.6% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 19.4% (2018 est.)<br>
 _forest_: 38.9% (2018 est.)<br>
 _other_: 31.4% (2018 est.)<br>
 
@@ -180,7 +180,7 @@ _unimproved: rural_: rural: 12.9% of population<br>
 _unimproved: total_: total: 4.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-8.5% of GDP (2020)<br>
+8.3% of GDP (2021)<br>
 
 **Physician density**<br>
 2.22 physicians/1,000 population (2017)<br>
@@ -249,9 +249,9 @@ tropical along coast, becoming cooler inland at higher elevations; tropical in A
 
 **Land use**<br>
 _agricultural land_: 29.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 4.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 5.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 19.4% (2018 est.)<br>
+_arable land_: arable land: 4.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 5.6% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 19.4% (2018 est.)<br>
 _forest_: 38.9% (2018 est.)<br>
 _other_: 31.4% (2018 est.)<br>
 
@@ -348,14 +348,14 @@ _election results_: <br><em>2025:</em> First round election results elected pres
 **Legislative branch**<br>
 _legislature name_: National Assembly (Asamblea Nacional)<br>
 _legislative structure_: unicameral<br>
-_number of seats_: 137 (all directly elected)<br>
+_number of seats_: 151 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 8/20/2023<br>
+_most recent election date_: 2/9/2025<br>
 _parties elected and seats per party_: Citizen Revolution Movement (RC) (51); Movimiento Construye (MC25) (28); National Democratic Action (ADN) (14); Social Christian Party (PSC) (8); Let’s Act (8); Other (28)<br>
 _percentage of women in chamber_: 43.1%<br>
-_expected date of next election_: February 2025<br>
+_expected date of next election_: February 2029<br>
 <strong>note 1:</strong> all Assembly members have alternates from the same party who cast votes when a primary member is absent, resigns, or is removed from office<br><br><strong>note 2:</strong> on 18 May 2023, Ecuador’s National Electoral Council announced that the legislative and presidential elections - originally scheduled for February 2025 - would be held on 20 August 2023 after President Guillermo LASSO dissolved the National Assembly by decree on 17 May 2023; a return to a regular election cycle will occur in February 2025<br>
 
 **Judicial branch**<br>
@@ -456,7 +456,7 @@ _imports of goods and services_: -28.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-sugarcane, bananas, oil palm fruit, milk, maize, rice, plantains, chicken, cocoa beans, pineapples (2022)<br>
+bananas, sugarcane, milk, oil palm fruit, maize, rice, plantains, chicken, pineapples, cocoa beans (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -530,11 +530,11 @@ $29.037 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 27%, China 17%, Panama 14%, Chile 4%, Colombia 3% (2022)<br>
+USA 22%, China 21%, Panama 12%, Japan 3%, Peru 3% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, shellfish, bananas, fish, refined petroleum (2022)<br>
+crude petroleum, shellfish, bananas, fish, gold (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -544,11 +544,11 @@ $28.128 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-US 26%, China 23%, Colombia 6%, Peru 4%, Brazil 4% (2022)<br>
+USA 27%, China 20%, Colombia 7%, Brazil 4%, Peru 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, coal tar oil, cars, natural gas, soybean meal (2022)<br>
+refined petroleum, coal tar oil, cars, packaged medicine, plastics (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
@@ -707,7 +707,7 @@ the military's inventory includes a diverse mix of older and smaller quantities 
 <strong>note: </strong>in 2022, women made up an estimated 3-4% of the military<br>
 
 **Military - note**<br>
-the military is responsible for preserving Ecuador’s national sovereignty and defending the integrity of the state; it also has some domestic security responsibilities and may complement police operations in maintaining public order if required; the military shares responsibility for border enforcement with the National Police; it participates in bilateral and multinational training exercises and has sent troops on UN peacekeeping missions; the military has defense ties to regional countries, such as Chile, Colombia, and Peru, and security ties with the US have been revived in recent years<br><br>border conflicts with Peru dominated the military’s focus until the late 1990s and border security remains a priority, but in more recent years, security challenges have included counterinsurgency and counternarcotics operations, particularly in the northern border area where violence and other criminal activity related to terrorism, insurgency, and narco-trafficking in Colombia, as well as refugees from Venezuela, have spilled over the border; the military has established a joint service task force for counterinsurgency and counternarcotics operations and boosted troop deployments along those borders; other missions include countering illegal mining, smuggling, and maritime piracy; since 2012, the Ecuadorian Government has expanded the military’s role in general public security and domestic crime operations, in part due to rising violence, police corruption, and police ineffectiveness <br><br>the Joint Command of the Armed Forces (El Comando Conjunto de las Fuerzas Armadas or CCFFAA) is the military’s highest body for planning, preparation, and strategic conduct of military operations; the chief of the CCFFAA is appointed by the president; the military is deployed throughout the country in five joint service operational commands or task forces; it also has a cyber defense command <br><br>the military has had a large role in Ecuador’s political history; it ruled the country from 1963-1966 and 1972-1979, and supported a dictatorship in 1970-1972; during the 1980s, the military remained loyal to the civilian government, but civilian-military relations were at times tenuous, and the military had considerable autonomy from civilian oversight; it was involved in coup attempts in 2000 and 2010 (2024)<br>
+the military is responsible for preserving Ecuador’s national sovereignty and defending the integrity of the state; it also has some domestic security responsibilities and may complement police operations in maintaining public order if required; the military shares responsibility for border enforcement with the National Police; it participates in bilateral and multinational training exercises and has sent troops on UN peacekeeping missions; the military has defense ties to regional countries, such as Chile, Colombia, and Peru, and security ties with the US have been revived in recent years<br><br>border conflicts with Peru dominated the military’s focus until the late 1990s and border security remains a priority, but in more recent years, security challenges have included counterinsurgency and counternarcotics operations, particularly in the northern border area where violence and other criminal activity related to terrorism, insurgency, and narco-trafficking in Colombia, as well as refugees from Venezuela, have spilled over the border; the military has established a joint service task force for counterinsurgency and counternarcotics operations and boosted troop deployments along those borders; other missions include countering illegal mining, smuggling, and maritime piracy; since 2012, the Ecuadorian Government has expanded the military’s role in general public security and domestic crime operations, in part due to rising violence, police corruption, and police ineffectiveness <br><br>the Joint Command of the Armed Forces (El Comando Conjunto de las Fuerzas Armadas or CCFFAA) is the military’s highest body for planning, preparation, and strategic conduct of military operations; the chief of the CCFFAA is appointed by the president; the military is deployed throughout the country in five joint service operational commands or task forces; it also has a cyber defense command <br><br>the military ruled the country from 1963-1966 and 1972-1979, and supported a dictatorship in 1970-1972; during the 1980s, the military remained loyal to the civilian government, but civilian-military relations were at times tenuous, and the military had considerable autonomy from civilian oversight; it was involved in coup attempts in 2000 and 2010 (2024)<br>
 
 ## Space
 

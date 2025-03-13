@@ -57,9 +57,9 @@ gold, chromium, antimony, coal, iron ore, manganese, nickel, phosphates, tin, ra
 
 **Land use**<br>
 _agricultural land_: 79.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 9.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 69.2% (2018 est.)<br>
+_arable land_: arable land: 9.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 69.2% (2018 est.)<br>
 _forest_: 7.6% (2018 est.)<br>
 _other_: 13% (2018 est.)<br>
 
@@ -186,7 +186,7 @@ _unimproved: rural_: rural: 9.7% of population<br>
 _unimproved: total_: total: 3.3% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-8.6% of GDP (2020)<br>
+8.3% of GDP (2021)<br>
 
 **Physician density**<br>
 0.79 physicians/1,000 population (2019)<br>
@@ -253,9 +253,9 @@ mostly semiarid; subtropical along east coast; sunny days, cool nights<br>
 
 **Land use**<br>
 _agricultural land_: 79.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 9.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 69.2% (2018 est.)<br>
+_arable land_: arable land: 9.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 69.2% (2018 est.)<br>
 _forest_: 7.6% (2018 est.)<br>
 _other_: 13% (2018 est.)<br>
 
@@ -357,7 +357,7 @@ _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 5/29/2024<br>
-_percentage of women in chamber_: 44.7%<br>
+_percentage of women in chamber_: 44.8%<br>
 _expected date of next election_: May 2029<br>
 
 **Legislative branch - upper chamber**<br>
@@ -469,7 +469,7 @@ _imports of goods and services_: -32.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-sugarcane, maize, milk, potatoes, wheat, grapes, chicken, oranges, apples, soybeans (2022)<br>
+sugarcane, maize, milk, soybeans, potatoes, wheat, grapes, chicken, oranges, apples (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -544,11 +544,11 @@ $131.09 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 16%, US 7%, Germany 7%, India 6%, Japan 6% (2022)<br>
+China 19%, USA 8%, Germany 7%, India 7%, UK 6% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, platinum, coal, cars, diamonds (2022)<br>
+gold, platinum, coal, cars, iron ore (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -558,11 +558,11 @@ $104.881 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 21%, Germany 9%, India 7%, US 5%, Saudi Arabia 4% (2022)<br>
+China 21%, India 7%, USA 7%, Germany 6%, UAE 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, crude petroleum, vehicle parts/accessories, broadcasting equipment (2022)<br>
+refined petroleum, crude petroleum, gold, cars, broadcasting equipment (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

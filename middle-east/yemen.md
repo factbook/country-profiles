@@ -56,9 +56,9 @@ petroleum, fish, rock salt, marble; small deposits of coal, gold, lead, nickel, 
 
 **Land use**<br>
 _agricultural land_: 44.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 41.7% (2018 est.)<br>
+_arable land_: arable land: 2.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.6% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 41.7% (2018 est.)<br>
 _forest_: 1% (2018 est.)<br>
 _other_: 54.5% (2018 est.)<br>
 
@@ -236,9 +236,9 @@ mostly desert; hot and humid along west coast; temperate in western mountains af
 
 **Land use**<br>
 _agricultural land_: 44.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 41.7% (2018 est.)<br>
+_arable land_: arable land: 2.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.6% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 41.7% (2018 est.)<br>
 _forest_: 1% (2018 est.)<br>
 _other_: 54.5% (2018 est.)<br>
 
@@ -509,11 +509,11 @@ $1.867 billion (2015 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 32%, Thailand 20%, India 12%, UAE 7%, Oman 5% (2022)<br>
+UAE 28%, India 21%, Saudi Arabia 17%, Oman 7%, Malaysia 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, scrap iron, gold, fish, shellfish (2022)<br>
+gold, fish, scrap iron, shellfish, industrial acids/oils/alcohols (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -523,11 +523,11 @@ $7.697 billion (2015 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 26%, UAE 14%, Turkey 10%, India 10%, Oman 4% (2022)<br>
+China 23%, UAE 15%, Saudi Arabia 11%, Turkey 8%, India 7% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-wheat, raw iron bars, rice, garments, milk (2022)<br>
+wheat, raw sugar, rice, iron bars, plastic products (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

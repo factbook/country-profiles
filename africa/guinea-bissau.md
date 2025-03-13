@@ -53,9 +53,9 @@ fish, timber, phosphates, bauxite, clay, granite, limestone, unexploited deposit
 
 **Land use**<br>
 _agricultural land_: 44.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 8.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 6.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 29.7% (2018 est.)<br>
+_arable land_: arable land: 8.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 6.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 29.7% (2018 est.)<br>
 _forest_: 55.2% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
@@ -173,7 +173,7 @@ _unimproved: rural_: rural: 40.9% of population<br>
 _unimproved: total_: total: 26.9% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-8.4% of GDP (2020)<br>
+8.2% of GDP (2021)<br>
 
 **Physician density**<br>
 0.2 physicians/1,000 population (2020)<br>
@@ -235,9 +235,9 @@ tropical; generally hot and humid; monsoonal-type rainy season (June to November
 
 **Land use**<br>
 _agricultural land_: 44.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 8.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 6.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 29.7% (2018 est.)<br>
+_arable land_: arable land: 8.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 6.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 29.7% (2018 est.)<br>
 _forest_: 55.2% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
@@ -334,7 +334,7 @@ _term in office_: 4 years<br>
 _most recent election date_: 6/4/2023<br>
 _parties elected and seats per party_: Inclusive Alliance Platform/Terra Coalition (54); Movement for Democratic Alternation (MADEM G.15) (29); Party for Social Renewal (PRS) (12); Bissau-Guinean Workers’ Party (6); Other (1)<br>
 _percentage of women in chamber_: 9.8%<br>
-_expected date of next election_: December 2025<br>
+_expected date of next election_: November 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Supremo Tribunal de Justica (consists of 9 judges and organized into Civil, Criminal, and Social and Administrative Disputes Chambers); note - the Supreme Court has both appellate and constitutional jurisdiction<br>
@@ -419,7 +419,7 @@ _imports of goods and services_: -28.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-rice, groundnuts, cashews, root vegetables, oil palm fruit, plantains, cassava, vegetables, sweet potatoes, coconuts (2022)<br>
+rice, groundnuts, cashews, root vegetables, oil palm fruit, plantains, cassava, coconuts, vegetables, sweet potatoes (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -489,11 +489,11 @@ $232.536 million (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-India 92%, Cote d'Ivoire 2%, Togo 2%, Netherlands 1%, South Korea 1% (2022)<br>
+India 66%, Chile 9%, Cote d'Ivoire 5%, Ghana 4%, Netherlands 3% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-coconuts/Brazil nuts/cashews, fish, fish oil, palm oil, dried fruits (2022)<br>
+coconuts/brazil nuts/cashews, fish, fish oil, processed crustaceans, malt extract (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -503,11 +503,11 @@ $439.386 million (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Portugal 34%, Senegal 22%, China 14%, Netherlands 6%, Spain 3% (2022)<br>
+Senegal 28%, Portugal 24%, China 11%, Gambia, The 10%, Pakistan 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, steel, rice, flavored water, beer (2022)<br>
+refined petroleum, iron bars, rice, plastics, flavored water (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

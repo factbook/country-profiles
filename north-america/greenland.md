@@ -52,9 +52,9 @@ coal, iron ore, lead, zinc, molybdenum, diamonds, gold, platinum, niobium, tanta
 
 **Land use**<br>
 _agricultural land_: 0.6% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.6% (2018 est.)<br>
+_arable land_: arable land: 0% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0.6% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 99.4% (2018 est.)<br>
 
@@ -164,9 +164,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 1.87 physicians/1,000 population (2016)<br>
 
@@ -206,9 +203,9 @@ arctic to subarctic; cool summers, cold winters<br>
 
 **Land use**<br>
 _agricultural land_: 0.6% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.6% (2018 est.)<br>
+_arable land_: arable land: 0% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0.6% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 99.4% (2018 est.)<br>
 
@@ -419,11 +416,11 @@ $1.23 billion (2019 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Denmark 49%, China 24%, UK 6%, Japan 5%, Taiwan 3% (2022)<br>
+Denmark 50%, China 23%, UK 5%, Japan 5%, Germany 3% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-fish, shellfish, processed crustaceans, precious stones, animal products (2022)<br>
+fish, shellfish, processed crustaceans, ships, precious stones (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -433,11 +430,11 @@ $1.533 billion (2019 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Denmark 56%, Sweden 22%, France 10%, Iceland 3%, Canada 3% (2022)<br>
+Denmark 58%, Sweden 19%, Spain 8%, Iceland 7%, Canada 2% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, aircraft, garments, construction vehicles, plastic products (2022)<br>
+refined petroleum, ships, garments, plastic products, furniture (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>

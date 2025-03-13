@@ -52,9 +52,9 @@ fish, lobster<br>
 
 **Land use**<br>
 _agricultural land_: 30.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 10.3% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 20.5% (2018 est.)<br>
+_arable land_: arable land: 10.3% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 20.5% (2018 est.)<br>
 _forest_: 5.1% (2018 est.)<br>
 _other_: 64.1% (2018 est.)<br>
 
@@ -168,9 +168,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.9% of population (2020)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 NA<br>
 
@@ -203,9 +200,9 @@ development threatens unique biota on Saint Helena<br>
 
 **Land use**<br>
 _agricultural land_: 30.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 10.3% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 20.5% (2018 est.)<br>
+_arable land_: arable land: 10.3% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 20.5% (2018 est.)<br>
 _forest_: 5.1% (2018 est.)<br>
 _other_: 64.1% (2018 est.)<br>
 
@@ -289,6 +286,9 @@ Saint Helena plover (bird)<br>
 **National anthem**<br>
 <p><strong>note:</strong> as an overseas territory of the UK, "God Save the King" is official (see United Kingdom)</p><br>
 
+**National coat of arms**<br>
+The coat of arms of Saint Helena was officially granted on January 30, 1984. The national bird, the Saint Helena plover (<em>Charadrius sanctaehelenae</em>), is at the top of the shield. The lower part of the shield shows a three-masted sailing ship with the mountainous island to the left. Below the shield is a scroll with the motto “Loyal and unshakable.” The crest shows an image of Saint Helena, holding a cross and a flower.<br>
+
 ## Economy
 
 **Economic overview**<br>
@@ -301,19 +301,19 @@ coffee, corn, potatoes, vegetables; fish, lobster; livestock; timber<br>
 construction, crafts (furniture, lacework, fancy woodwork), fishing, collectible postage stamps<br>
 
 **Exports - partners**<br>
-US 55%, Netherlands 17%, Singapore 10%, Japan 8%, Senegal 2% (2022)<br>
+Singapore 33%, USA 16%, Japan 10%, Turkey 10%, Senegal 8% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-fish, shellfish, iron alloys, glass working machines, corn (2022)<br>
+fish, shellfish, natural gas, trucks, construction vehicles (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports - partners**<br>
-UK 44%, South Africa 25%, US 21%, Czechia 4%, Namibia 2% (2022)<br>
+UK 34%, Greece 26%, Spain 16%, South Africa 15%, Namibia 2% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-asphalt, baked goods, air pumps, plastic products, iron sheet piling (2022)<br>
+refined petroleum, baked goods, plastic products, vehicle parts/accessories, air pumps (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>

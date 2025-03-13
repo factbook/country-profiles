@@ -54,9 +54,9 @@ petroleum, phosphates, chrome and manganese ores, asphalt, iron ore, rock salt, 
 
 **Land use**<br>
 _agricultural land_: 75.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 25.4% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 5.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 44.6% (2018 est.)<br>
+_arable land_: arable land: 25.4% (2018 est.)<br>
+_permanent crops_: permanent crops: 5.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 44.6% (2018 est.)<br>
 _forest_: 2.7% (2018 est.)<br>
 _other_: 21.5% (2018 est.)<br>
 
@@ -177,9 +177,6 @@ _unimproved: urban_: urban: 0.4% of population<br>
 _unimproved: rural_: rural: 0.7% of population<br>
 _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 1.29 physicians/1,000 population (2016)<br>
 
@@ -238,9 +235,9 @@ mostly desert; hot, dry, sunny summers (June to August) and mild, rainy winters 
 
 **Land use**<br>
 _agricultural land_: 75.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 25.4% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 5.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 44.6% (2018 est.)<br>
+_arable land_: arable land: 25.4% (2018 est.)<br>
+_permanent crops_: permanent crops: 5.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 44.6% (2018 est.)<br>
 _forest_: 2.7% (2018 est.)<br>
 _other_: 21.5% (2018 est.)<br>
 
@@ -486,11 +483,11 @@ $2.94 billion (2019 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Turkey 29%, Kuwait 15%, Lebanon 14%, Jordan 8%, Egypt 7% (2022)<br>
+Turkey 29%, Saudi Arabia 16%, Lebanon 10%, India 10%, UAE 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-pure olive oil, nuts, phosphates, cotton, garments (2022)<br>
+olive oil, phosphates, spice seeds, cotton, tomatoes (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -500,11 +497,11 @@ $6.552 billion (2019 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Turkey 45%, UAE 10%, China 9%, Lebanon 8%, Egypt 7% (2022)<br>
+Turkey 49%, UAE 11%, China 8%, Egypt 7%, Lebanon 3% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-tobacco, plastics, wheat, seed oils, plastic products (2022)<br>
+tobacco, plastics, wheat flours, plastic products, seed oils (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
@@ -642,7 +639,7 @@ _key ports_: Al Ladhiqiyah, Baniyas, Tartus<br>
 ## Military and Security
 
 **Military and security forces**<br>
-prior to the fall of the Syrian ASAD regime in December 2024, the Syrian Armed Forces (SAF) consisted of the Syrian Arab Army (included the Republican Guard), Syrian Naval Forces, Syrian Air Forces, Syrian Air Defense Forces, National Defense Forces (NDF), and Local Defense Forces (LDF); the NDF and LDF were pro-government militia and auxiliary forces, some of which were backed by Iran (2024)<br>
+as of early 2025, the interim authorities in Syria had established a ministry of defense and was seeking to unify the dozens of armed factions operating in Syria under a single, state-linked army and police force (2025)<br>
 
 **Military expenditures**<br>
 6.5% of GDP (2019 est.)<br>
@@ -652,14 +649,13 @@ prior to the fall of the Syrian ASAD regime in December 2024, the Syrian Armed F
 7.2% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-not available; prior to the start of the civil war in 2011, the SAF had approximately 300,000 total troops (2024)<br>
+not available; prior to the start of the civil war in 2011, the SAF had approximately 300,000 total active troops (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 prior to the fall of the ASAD regime in December 2024, the SAF was inventory was comprised mostly of Russian and Soviet-era weapons and equipment (2024)<br>
 
 **Military service age and obligation**<br>
 prior to the fall of the ASAD regime in December 2024, men 18-42 were obligated to perform military service; compulsory service obligation was up to 30 months; women were not conscripted but could volunteer to serve, including in combat arms (2024)<br>
-<strong>note:</strong> the military was comprised largely of conscripts; men in their late 40s and 50s reportedly had been drafted into military service during the civil war<br>
 
 **Military - note**<br>
 the UN Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; UNDOF has about 1,000 personnel (2024)<br>

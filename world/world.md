@@ -161,6 +161,9 @@ _unimproved: urban_: urban: 3.5% of population<br>
 _unimproved: rural_: rural: 15.3% of population<br>
 _unimproved: total_: total: 8.9% of population (2015 est.)<br>
 
+**Current health expenditure**<br>
+10.4% of GDP (2021)<br>
+
 **Sanitation facility access**<br>
 _improved: urban_: urban: 82.3% of population<br>
 _improved: rural_: rural: 50.5% of population<br>
@@ -313,7 +316,7 @@ _imports of goods and services_: -28.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-<p>the whole range of agricultural products<br><br><strong>top ten agricultural products by global production tonnage:</strong> sugarcane, maize, wheat, rice, milk, oil palm fruit, potatoes, soybeans, cassava, vegetables (2022)</p><br>
+<p>the whole range of agricultural products<br><br><strong>top ten agricultural products by global production tonnage:</strong> sugarcane, maize, rice, wheat, milk, oil palm fruit, potatoes, soybeans, cassava, vegetables (2023)</p><br>
 
 **Industries**<br>
 <p>dominated by the onrush of technology, especially in computers, robotics, telecommunications, and medicines and medical equipment; most of these advances take place in OECD nations; only a small portion of non-OECD countries have succeeded in rapidly adjusting to these technological forces; the accelerated development of new technologies is complicating already grim environmental problems</p><br>
@@ -362,7 +365,7 @@ $28.271 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - commodities**<br>
-the whole range of industrial and agricultural goods and services<br><br><strong>top ten commodities by share of world trade: </strong>crude petroleum, refined petroleum, integrated circuits, natural gas, cars, broadcasting equipment, garments, gold, packaged medicine, vehicle parts/accessories (2022)<br>
+the whole range of industrial and agricultural goods and services<br><br><strong>top ten commodities by share of world trade: </strong>crude petroleum, cars, refined petroleum, integrated circuits, broadcasting equipment, gold, natural gas, garments, vehicle parts/accessories, packaged medicine (2022)<br>
 
 **Imports**<br>
 $30.144 trillion (2023 est.)<br>

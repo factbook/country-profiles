@@ -51,7 +51,7 @@ _lowest point_: Caribbean Sea 0 m<br>
 
 **Land use**<br>
 _agricultural land_: 10% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 10% (2018)<br>
+_arable land_: arable land: 10% (2018)<br>
 _other_: 90% (2018 est.)<br>
 
 **Irrigated land**<br>
@@ -189,7 +189,7 @@ _female_: 18 years (2013)<br>
 
 **Land use**<br>
 _agricultural land_: 10% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 10% (2018)<br>
+_arable land_: arable land: 10% (2018)<br>
 _other_: 90% (2018 est.)<br>
 
 **Urbanization**<br>
@@ -394,11 +394,11 @@ $1.363 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 17%, Costa Rica 16%, India 9%, Netherlands 7%, Guatemala 7% (2022)<br>
+Armenia 57%, USA 15%, Guyana 5%, Dominican Republic 4%, Netherlands 2% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, petroleum coke, fish, coal tar oil, scrap iron (2022)<br>
+diamonds, refined petroleum, crude petroleum, gold, petroleum coke (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -408,11 +408,11 @@ $1.91 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-US 35%, Netherlands 22%, China 7%, Ecuador 5%, Philippines 3% (2022)<br>
+USA 39%, Netherlands 24%, China 6%, Colombia 5%, Brazil 3% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, garments, integrated circuits, packaged medicine (2022)<br>
+refined petroleum, cars, garments, plastic products, packaged medicine (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>

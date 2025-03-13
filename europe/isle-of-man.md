@@ -51,9 +51,9 @@ none<br>
 
 **Land use**<br>
 _agricultural land_: 74.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 43.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 30.9% (2018 est.)<br>
+_arable land_: arable land: 43.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 30.9% (2018 est.)<br>
 _forest_: 6.1% (2018 est.)<br>
 _other_: 19.2% (2018 est.)<br>
 
@@ -162,9 +162,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.9% of population (2020)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 NA<br>
 
@@ -197,9 +194,9 @@ temperate; cool summers and mild winters; overcast about a third of the time<br>
 
 **Land use**<br>
 _agricultural land_: 74.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 43.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 30.9% (2018 est.)<br>
+_arable land_: arable land: 43.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 30.9% (2018 est.)<br>
 _forest_: 6.1% (2018 est.)<br>
 _other_: 19.2% (2018 est.)<br>
 
@@ -375,6 +372,7 @@ almost entirely United Kingdom (2022)<br>
 
 **Exports - commodities**<br>
 crude petroleum, artwork, vegetables, fruits, whiskies (2022)<br>
+<strong>note:</strong> top five export commodities based on value in dollars<br>
 
 **Imports - partners**<br>
 almost entirely United Kingdom (2022)<br>

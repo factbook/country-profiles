@@ -52,9 +52,9 @@ petroleum, fish, shrimp, natural gas<br>
 
 **Land use**<br>
 _agricultural land_: 8.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0.6% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 7.6% (2018 est.)<br>
+_arable land_: arable land: 0.6% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 7.6% (2018 est.)<br>
 _forest_: 0.4% (2018 est.)<br>
 _other_: 91.1% (2018 est.)<br>
 
@@ -174,7 +174,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.3% of GDP (2020)<br>
+5.8% of GDP (2021)<br>
 
 **Physician density**<br>
 2.34 physicians/1,000 population (2020)<br>
@@ -239,9 +239,9 @@ dry desert; intensely hot summers; short, cool winters<br>
 
 **Land use**<br>
 _agricultural land_: 8.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0.6% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 7.6% (2018 est.)<br>
+_arable land_: arable land: 0.6% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 7.6% (2018 est.)<br>
 _forest_: 0.4% (2018 est.)<br>
 _other_: 91.1% (2018 est.)<br>
 
@@ -331,15 +331,8 @@ _cabinet_: Council of Ministers appointed by the prime minister, approved by the
 _elections/appointments_: amir chosen from within the ruling family, confirmed by the National Assembly; prime minister appointed by the amir<br>
 
 **Legislative branch**<br>
-_legislature name_: National Assembly (Majles Al-Ommah)<br>
-_legislative structure_: unicameral<br>
-_number of seats_: 65 (all directly elected)<br>
-_electoral system_: other systems<br>
-_scope of elections_: full renewal<br>
-_term in office_: 4 years<br>
-_most recent election date_: 4/4/2024<br>
 _expected date of next election_: April 2028<br>
-<strong>note:</strong> in May 2024, Amir Sheikh MISHAL al-Ahmad al-Sabah dissolved the National Assembly, and some powers held by the National Assembly were assumed by the government<br>
+<strong>note:</strong> the unicameral National Assembly was dissolved on 10 May 2024 by Emir Sheikh Meshal al-Ahmad AL-SABAH for a period of up to four years; the Emir and cabinet officials have assumed the role of the parliament<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Constitutional Court (consists of 5 judges); Supreme Court or Court of Cassation (organized into several circuits, each with 5 judges)<br>
@@ -494,11 +487,11 @@ $77.121 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 24%, India 15%, South Korea 11%, Japan 9%, Taiwan 7% (2022)<br>
+China 25%, India 13%, Japan 13%, Taiwan 7%, UK 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, refined petroleum, hydrocarbons, natural gas, acyclic alcohols (2022)<br>
+crude petroleum, refined petroleum, natural gas, hydrocarbons, plastics (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -508,11 +501,11 @@ $48.954 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-UAE 20%, China 16%, Saudi Arabia 9%, US 7%, Japan 4% (2022)<br>
+China 18%, UAE 10%, USA 9%, Saudi Arabia 6%, Japan 6% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars, gold, jewelry, garments, packaged medicine (2022)<br>
+cars, natural gas, garments, broadcasting equipment, packaged medicine (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

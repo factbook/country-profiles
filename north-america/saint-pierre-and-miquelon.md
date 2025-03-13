@@ -52,9 +52,9 @@ fish, deepwater ports<br>
 
 **Land use**<br>
 _agricultural land_: 8.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 8.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 8.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 12.5% (2018 est.)<br>
 _other_: 78.8% (2018 est.)<br>
 
@@ -163,9 +163,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 8.6% of population (2017 est.)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 NA<br>
 
@@ -201,9 +198,9 @@ cold and wet, with considerable mist and fog; spring and autumn are often windy<
 
 **Land use**<br>
 _agricultural land_: 8.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 8.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 8.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 12.5% (2018 est.)<br>
 _other_: 78.8% (2018 est.)<br>
 
@@ -329,19 +326,19 @@ fish processing and supply base for fishing fleets; tourism<br>
 8.7% (2015 est.)<br>
 
 **Exports - partners**<br>
-Canada 84%, France 11%, Ireland 3%, Slovakia 1%, Democratic Republic of the Congo 0% (2022)<br>
+Canada 78%, Ireland 5%, France 5%, Djibouti 4%, UK 2% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-processed crustaceans, shellfish, fish, special purpose motor vehicles, vehicle parts/accessories (2022)<br>
-<b>note:</b> top five export commodities based on value in dollars<br>
+processed crustaceans, shellfish (2023)<br>
+<strong>note:</strong> top export commodities based on value in dollars over $500,000<br>
 
 **Imports - partners**<br>
-France 52%, Canada 42%, Netherlands 2%, Germany 1%, Belgium 1% (2022)<br>
+France 57%, Canada 37%, Netherlands 3%, Belgium 2%, Spain 0% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, packaged medicine, other foods, plastic products, cars (2022)<br>
+refined petroleum, packaged medicine, cars, plastic products, other foods (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>

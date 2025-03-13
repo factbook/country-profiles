@@ -52,9 +52,9 @@ NEGL<br>
 
 **Land use**<br>
 _agricultural land_: 42.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 7.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 35.7% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 7.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 35.7% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 41.9% (2018 est.)<br>
 _other_: 15.3% (2018 est.)<br>
 
@@ -156,9 +156,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: 0.9% of population<br>
 _unimproved: total_: total: 0.9% of population (2020)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 NA<br>
 
@@ -194,9 +191,9 @@ tropical; hot, rainy season (November to April); cool, dry season (May to Octobe
 
 **Land use**<br>
 _agricultural land_: 42.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 7.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 35.7% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 7.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 35.7% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 41.9% (2018 est.)<br>
 _other_: 15.3% (2018 est.)<br>
 
@@ -314,18 +311,19 @@ _expenditures_: $34.18 million (2015 est.)<br>
 16.7% (of GDP) (2015 est.)<br>
 
 **Exports - partners**<br>
-France 48%, Singapore 12%, US 10%, Guatemala 9%, UK 4% (2022)<br>
+Denmark 35%, Sweden 14%, Netherlands 14%, Pakistan 9%, Poland 7% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-integrated circuits, jewelry, cars, aircraft parts, polyacetals (2019)<br>
+seats (2023)<br>
+<strong>note:</strong> top export commodities based on value in dollars over $500,000<br>
 
 **Imports - partners**<br>
-Fiji 38%, France 31%, NZ 8%, Iceland 6%, Australia 5% (2022)<br>
+Fiji 35%, France 32%, NZ 11%, Australia 6%, China 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, beef products, poultry meats, engine parts, packaged medicines (2019)<br>
+refined petroleum, prepared meat, poultry, iron pipe fittings, animal food (2023)<br>
 
 **Exchange rates**<br>
 _Currency_: Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>

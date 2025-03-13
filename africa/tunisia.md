@@ -54,9 +54,9 @@ petroleum, phosphates, iron ore, lead, zinc, salt<br>
 
 **Land use**<br>
 _agricultural land_: 64.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 18.3% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 15.4% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 31.1% (2018 est.)<br>
+_arable land_: arable land: 18.3% (2018 est.)<br>
+_permanent crops_: permanent crops: 15.4% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 31.1% (2018 est.)<br>
 _forest_: 6.6% (2018 est.)<br>
 _other_: 28.6% (2018 est.)<br>
 
@@ -176,7 +176,7 @@ _unimproved: rural_: rural: 2.7% of population<br>
 _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.3% of GDP (2020)<br>
+7% of GDP (2021)<br>
 
 **Physician density**<br>
 1.3 physicians/1,000 population (2017)<br>
@@ -244,9 +244,9 @@ temperate in north with mild, rainy winters and hot, dry summers; desert in sout
 
 **Land use**<br>
 _agricultural land_: 64.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 18.3% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 15.4% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 31.1% (2018 est.)<br>
+_arable land_: arable land: 18.3% (2018 est.)<br>
+_permanent crops_: permanent crops: 15.4% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 31.1% (2018 est.)<br>
 _forest_: 6.6% (2018 est.)<br>
 _other_: 28.6% (2018 est.)<br>
 
@@ -529,11 +529,11 @@ $14.054 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-France 22%, Italy 16%, Germany 14%, Spain 4%, Libya 4% (2022)<br>
+France 22%, Italy 17%, Germany 13%, USA 4%, Libya 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-garments, insulated wire, refined petroleum, crude petroleum, pure olive oil (2022)<br>
+garments, insulated wire, olive oil, refined petroleum, crude petroleum (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -543,11 +543,11 @@ $18.178 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Italy 14%, France 14%, China 9%, Germany 7%, Turkey 6% (2022)<br>
+Italy 13%, France 12%, China 10%, Russia 8%, Germany 7% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, natural gas, plastic products, wheat, cars (2022)<br>
+refined petroleum, natural gas, plastic products, cars, plastics (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

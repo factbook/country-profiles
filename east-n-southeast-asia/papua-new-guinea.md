@@ -55,9 +55,9 @@ gold, copper, silver, natural gas, timber, oil, fisheries<br>
 
 **Land use**<br>
 _agricultural land_: 2.6% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.4% (2018 est.)<br>
+_arable land_: arable land: 0.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0.4% (2018 est.)<br>
 _forest_: 63.1% (2018 est.)<br>
 _other_: 34.3% (2018 est.)<br>
 
@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 58.5% of population<br>
 _unimproved: total_: total: 52.5% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-2.5% of GDP (2020)<br>
+2.3% of GDP (2021)<br>
 
 **Physician density**<br>
 0.07 physicians/1,000 population (2019)<br>
@@ -240,9 +240,9 @@ tropical; northwest monsoon (December to March), southeast monsoon (May to Octob
 
 **Land use**<br>
 _agricultural land_: 2.6% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.4% (2018 est.)<br>
+_arable land_: arable land: 0.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0.4% (2018 est.)<br>
 _forest_: 63.1% (2018 est.)<br>
 _other_: 34.3% (2018 est.)<br>
 
@@ -495,11 +495,11 @@ $11.032 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Japan 26%, China 22%, Australia 11%, South Korea 10%, Taiwan 9% (2022)<br>
+China 28%, Japan 25%, Australia 17%, Taiwan 8%, India 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-natural gas, gold, palm oil, crude petroleum, copper ore (2022)<br>
+natural gas, gold, copper ore, palm oil, nickel (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -509,11 +509,11 @@ $6.43 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 26%, Australia 23%, Singapore 16%, Malaysia 9%, Indonesia 4% (2022)<br>
+Australia 27%, China 24%, Singapore 15%, Malaysia 9%, Japan 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, rice, plastic products, excavation machinery, trucks (2022)<br>
+refined petroleum, trucks, rice, plastic products, excavation machinery (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

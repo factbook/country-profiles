@@ -53,9 +53,9 @@ timber, potash, copper ore, natural gas, phosphate rock, magnesium bromide, clay
 
 **Land use**<br>
 _agricultural land_: 23.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 13.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 3.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 6.3% (2018 est.)<br>
+_arable land_: arable land: 13.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 3.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 6.3% (2018 est.)<br>
 _forest_: 7.1% (2018 est.)<br>
 _other_: 69.1% (2018 est.)<br>
 
@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-8.3% of GDP (2020)<br>
+7.9% of GDP (2021)<br>
 
 **Physician density**<br>
 3.63 physicians/1,000 population (2020)<br>
@@ -240,9 +240,9 @@ temperate; hot and dry in southern and eastern desert areas<br>
 
 **Land use**<br>
 _agricultural land_: 23.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 13.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 3.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 6.3% (2018 est.)<br>
+_arable land_: arable land: 13.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 3.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 6.3% (2018 est.)<br>
 _forest_: 7.1% (2018 est.)<br>
 _other_: 69.1% (2018 est.)<br>
 
@@ -358,7 +358,7 @@ Balad<br>Blue and White<br>Hadash<br>Jewish Power (Otzma Yehudit)<br>Labor Party
 BIS, BSEC (observer), CE (observer), CERN, CICA, EBRD, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OECD, OPCW (signatory), OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador-designate Yechiel (Michael) LEITER (since 20 January 2025)<br>
+_chief of mission_: Ambassador Yechiel (Michael) LEITER (since 4 February 2025)<br>
 _chancery_: 3514 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 364-5500<br>
 _FAX_: [1] (202) 364-5607<br>
@@ -520,11 +520,11 @@ $143.505 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 25%, China 7%, West Bank/Gaza Strip 6%, Ireland 5%, UK 4% (2022)<br>
+USA 29%, China 10%, Ireland 6%, Germany 4%, Hong Kong 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-diamonds, integrated circuits, refined petroleum, fertilizers, medical instruments (2022)<br>
+integrated circuits, diamonds, broadcasting equipment, medical instruments, refined petroleum (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -534,11 +534,11 @@ $125.948 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 14%, US 11%, Turkey 7%, Germany 6%, India 5% (2022)<br>
+China 17%, USA 12%, Germany 7%, Turkey 6%, Italy 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-diamonds, cars, crude petroleum, refined petroleum, garments (2022)<br>
+cars, diamonds, crude petroleum, broadcasting equipment, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

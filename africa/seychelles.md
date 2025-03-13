@@ -53,9 +53,9 @@ fish, coconuts (copra), cinnamon trees<br>
 
 **Land use**<br>
 _agricultural land_: 6.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 4.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 2.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 4.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 88.5% (2018 est.)<br>
 _other_: 5% (2018 est.)<br>
 
@@ -170,7 +170,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 3.8% of population (2017 est.)<br>
 
 **Current health expenditure**<br>
-6.4% of GDP (2020)<br>
+5.3% of GDP (2021)<br>
 
 **Physician density**<br>
 2.25 physicians/1,000 population (2019)<br>
@@ -232,9 +232,9 @@ tropical marine; humid; cooler season during southeast monsoon (late May to Sept
 
 **Land use**<br>
 _agricultural land_: 6.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 4.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 2.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 4.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 88.5% (2018 est.)<br>
 _other_: 5% (2018 est.)<br>
 
@@ -328,7 +328,7 @@ _term in office_: 5 years<br>
 _most recent election date_: 10/22/2020 to 10/24/2020<br>
 _parties elected and seats per party_: Seychelles Democratic Alliance (Linyon Demokratik Seselwa, LDS) (25); United Seychelles (US) (10)<br>
 _percentage of women in chamber_: 28.6%<br>
-_expected date of next election_: October 2025<br>
+_expected date of next election_: September 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Seychelles Court of Appeal (consists of the court president and 4 justices); Supreme Court of Seychelles (consists of the chief justice and 9 puisne judges); Constitutional Court (consists of 3 Supreme Court judges)<br>
@@ -421,7 +421,7 @@ _imports of goods and services_: -97.1% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-coconuts, vegetables, bananas, eggs, chicken, pork, fruits, tomatoes, tropical fruits, cassava (2022)<br>
+coconuts, vegetables, bananas, eggs, chicken, pork, fruits, tomatoes, tropical fruits, cassava (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -488,11 +488,11 @@ $1.751 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-UAE 18%, France 17%, UK 9%, Mauritius 9%, Japan 8% (2022)<br>
+France 20%, Mauritius 12%, UK 9%, Japan 8%, Italy 8% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-fish, refined petroleum, ships, aircraft, animal meal (2022)<br>
+fish, scrap iron, animal meal, broadcasting equipment, ships (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -502,11 +502,11 @@ $1.821 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-UAE 22%, Netherlands 14%, Cayman Islands 7%, France 6%, China 6% (2022)<br>
+UAE 32%, Spain 10%, France 6%, South Africa 6%, India 6% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-ships, refined petroleum, fish, plastic products, cars (2022)<br>
+refined petroleum, fish, ships, cars, plastic products (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
@@ -554,11 +554,11 @@ _Total energy consumption per capita 2022_: 111.2 million Btu/person (2022 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 19,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 18 (2022 est.)<br>
+_total subscriptions_: 18,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 14 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 205,000 (2022 est.)<br>
+_total subscriptions_: 165,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 192 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -573,11 +573,11 @@ _international_: country code - 248; landing points for the PEACE and the SEAS s
 .sc<br>
 
 **Internet users**<br>
-_percent of population_: 82% (2021 est.)<br>
+_percent of population_: 87% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 34,966 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 36 (2020 est.)<br>
+_total_: 39,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 31 (2023 est.)<br>
 
 ## Transportation
 

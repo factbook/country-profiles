@@ -51,9 +51,9 @@ building stone<br>
 
 **Land use**<br>
 _agricultural land_: 16.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 16.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 16.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 83.3% (2018 est.)<br>
 
@@ -160,7 +160,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020)<br>
 
 **Current health expenditure**<br>
-8.7% of GDP (2020)<br>
+8% of GDP (2021)<br>
 
 **Physician density**<br>
 6.11 physicians/1,000 population (2014)<br>
@@ -209,9 +209,9 @@ Mediterranean; mild to cool winters; warm, sunny summers<br>
 
 **Land use**<br>
 _agricultural land_: 16.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 16.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 16.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 83.3% (2018 est.)<br>
 
@@ -436,11 +436,11 @@ $2.439 billion (2020 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 10%, Germany 9%, France 9%, Austria 9%, Romania 7% (2022)<br>
+Germany 12%, Austria 10%, USA 9%, Romania 8%, Brazil 7% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-washing and bottling machines, woodworking machines, furniture, other foods, packaged medicine (2022)<br>
+washing and bottling machines, other foods, packaged medicine, woodworking machines, aircraft (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -450,11 +450,11 @@ $2.232 billion (2020 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Italy 22%, Germany 20%, Poland 7%, Spain 7%, Netherlands 7% (2022)<br>
+Germany 24%, Italy 13%, Netherlands 9%, Spain 9%, Poland 8% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-electricity, garments, cars, aluminum, footwear (2022)<br>
+garments, cars, electricity, animal food, footwear (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
@@ -481,7 +481,7 @@ _electrification - total population_: 100% (2022 est.)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 16,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 48 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 47 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 41,000 (2022 est.)<br>
@@ -499,11 +499,11 @@ state-owned public broadcaster operates 1 TV station and 3 radio stations; recei
 .sm<br>
 
 **Internet users**<br>
-_percent of population_: 75% (2021 est.)<br>
+_percent of population_: 85% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 11,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 32 (2020 est.)<br>
+_total_: 12,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 36 (2022 est.)<br>
 
 ## Transportation
 

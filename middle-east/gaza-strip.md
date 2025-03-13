@@ -68,10 +68,6 @@ _total_: 2,141,643<br>
 _male_: 1,086,340<br>
 _female_: 1,055,303 (2024 est.)<br>
 
-**Nationality**<br>
-_noun_: NA<br>
-_adjective_: NA<br>
-
 **Ethnic groups**<br>
 Palestinian Arab<br>
 
@@ -162,9 +158,6 @@ _unimproved: urban_: urban: 1.1% of population<br>
 _unimproved: rural_: rural: 1% of population<br>
 _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 <strong>note:</strong> includes Gaza Strip and the West Bank<br>
-
-**Current health expenditure**<br>
-NA<br>
 
 **Physician density**<br>
 2.71 physicians/1,000 population (2020)<br>
@@ -370,11 +363,11 @@ $3.14 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars; entry includes West Bank and Gaza Strip<br>
 
 **Exports - partners**<br>
-Israel 81%, Jordan 10%, UAE 2%, US 1%, Turkey 1% (2022)<br>
+Jordan 51%, Turkey 12%, UAE 8%, Saudi Arabia 5%, UK 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports; entry includes the West Bank and the Gaza Strip<br>
 
 **Exports - commodities**<br>
-building stone, scrap iron, plastic products, furniture, seats (2022)<br>
+scrap iron, tropical fruits, olive oil, building stone, prepared meat (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars; entry includes the West Bank and the Gaza Strip<br>
 
 **Imports**<br>
@@ -384,11 +377,11 @@ $10.094 billion (2021 est.)<br>
 <strong>note:</strong> balance of payments - imports of goods and services in current dollars; entry includes West Bank and Gaza Strip<br>
 
 **Imports - partners**<br>
-Israel 57%, Turkey 6%, Egypt 6%, Jordan 4%, China 4% (2022)<br>
+Egypt 25%, Jordan 17%, China 8%, Germany 7%, UAE 7% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports; entry includes the West Bank and the Gaza Strip<br>
 
 **Imports - commodities**<br>
-refined petroleum, electricity, animal food, cars, cement (2022)<br>
+cement, raw sugar, cars, baked goods, perfumes (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars; entry includes the West Bank and the Gaza Strip<br>
 
 **Reserves of foreign exchange and gold**<br>

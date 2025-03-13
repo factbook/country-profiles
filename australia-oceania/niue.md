@@ -51,9 +51,9 @@ arable land, fish<br>
 
 **Land use**<br>
 _agricultural land_: 19.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 3.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 11.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 3.8% (2018 est.)<br>
+_arable land_: arable land: 3.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 11.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 3.8% (2018 est.)<br>
 _forest_: 71.2% (2018 est.)<br>
 _other_: 9.7% (2018 est.)<br>
 
@@ -143,9 +143,9 @@ tropical; modified by southeast trade winds<br>
 
 **Land use**<br>
 _agricultural land_: 19.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 3.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 11.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 3.8% (2018 est.)<br>
+_arable land_: arable land: 3.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 11.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 3.8% (2018 est.)<br>
 _forest_: 71.2% (2018 est.)<br>
 _other_: 9.7% (2018 est.)<br>
 
@@ -172,7 +172,7 @@ _etymology_: the origin of the name is obscure; in Niuean, the word supposedly t
 parliamentary democracy<br>
 
 **Dependency status**<br>
-self-governing in free association with New Zealand since 1974; Niue is fully responsible for internal affairs; New Zealand retains responsibility for external affairs and defense; however, these responsibilities confer no rights of control and are only exercised at the request of the Government of Niue<br>
+self-governing in free association with New Zealand since 1974; Niue is fully responsible for internal affairs; under the Niue Constitution Act of 1974, New Zealand provides necessary economic and administrative assistance to Niue, as well as assistance with foreign affairs, defense, and security if requested by the Niue Government<br>
 
 **Capital**<br>
 _name_: Alofi<br>
@@ -264,7 +264,7 @@ $12,400 (2019 est.)<br>
 <strong>note:</strong> data are in 2009 dollars<br>
 
 **Agricultural products**<br>
-taro, coconuts, fruits, sweet potatoes, tropical fruits, yams, vegetables, lemons/limes, bananas, pork (2022)<br>
+coconuts, taro, fruits, sweet potatoes, tropical fruits, yams, vegetables, lemons/limes, bananas, pork (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -274,22 +274,22 @@ handicrafts, food processing<br>
 $5.68 million (2021 est.)<br>
 
 **Exports - partners**<br>
-US 56%, Brazil 9%, UK 6%, Kuwait 4%, Australia 4% (2022)<br>
+USA 54%, Germany 8%, Canada 5%, UK 5%, Guatemala 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-broadcasting equipment, abrasive powder, collector's items, coin, milling stones (2022)<br>
-<b>note:</b> top five export commodities based on value in dollars<br>
+abrasive powder, coin (2023)<br>
+<strong>note:</strong> top export commodities based on value in dollars over $500,000<br>
 
 **Imports**<br>
 $43.8 million (2021 est.)<br>
 
 **Imports - partners**<br>
-UK 46%, NZ 31%, Japan 19%, Brazil 1%, US 1% (2022)<br>
+NZ 87%, Fiji 6%, UAE 2%, Slovakia 1%, Australia 1% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-iron structures, ships, refined petroleum, plastic products, cars (2022)<br>
+refined petroleum, plastic products, machine parts, construction vehicles, cars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>

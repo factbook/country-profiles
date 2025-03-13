@@ -54,9 +54,9 @@ tin, petroleum, timber, copper, iron ore, natural gas, bauxite<br>
 
 **Land use**<br>
 _agricultural land_: 23.2% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 19.4% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.9% (2018 est.)<br>
+_arable land_: arable land: 2.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 19.4% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0.9% (2018 est.)<br>
 _forest_: 62% (2018 est.)<br>
 _other_: 14.8% (2018 est.)<br>
 
@@ -173,7 +173,7 @@ _unimproved: rural_: rural: 9.3% of population<br>
 _unimproved: total_: total: 2.5% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.1% of GDP (2020)<br>
+4.4% of GDP (2021)<br>
 
 **Physician density**<br>
 1.54 physicians/1,000 population (2020)<br>
@@ -238,9 +238,9 @@ tropical; annual southwest (April to October) and northeast (October to February
 
 **Land use**<br>
 _agricultural land_: 23.2% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 19.4% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.9% (2018 est.)<br>
+_arable land_: arable land: 2.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 19.4% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0.9% (2018 est.)<br>
 _forest_: 62% (2018 est.)<br>
 _other_: 14.8% (2018 est.)<br>
 
@@ -363,7 +363,7 @@ _subordinate courts_: Court of Appeal; High Court; Sessions Court; Magistrates' 
 ADB, APEC, ARF, ASEAN, BIS, C, CICA (observer), CP, D-8, EAS, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OIC, OPCW, PCA, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Mohamed NAZRI Bin Abdul Aziz (since 19 April 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires KHAERIAH Zaehera Abd Kayyum (since 9 February 2025)<br>
 _chancery_: 3516 International Court NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 572-9700<br>
 _FAX_: [1] (202) 572-9882<br>
@@ -449,7 +449,7 @@ _imports of goods and services_: -63.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-oil palm fruit, rice, chicken, eggs, coconuts, tropical fruits, vegetables, rubber, bananas, pineapples (2022)<br>
+oil palm fruit, rice, chicken, eggs, tropical fruits, coconuts, vegetables, pineapples, rubber, bananas (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -524,11 +524,11 @@ $263.836 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Singapore 14%, China 13%, US 12%, Japan 6%, Hong Kong 6% (2022)<br>
+China 21%, Singapore 12%, USA 12%, Japan 5%, Hong Kong 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-integrated circuits, refined petroleum, natural gas, palm oil, crude petroleum (2022)<br>
+integrated circuits, refined petroleum, crude petroleum, natural gas, palm oil (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -538,11 +538,11 @@ $236.855 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 28%, Singapore 12%, US 6%, Taiwan 6%, Japan 5% (2022)<br>
+China 24%, Singapore 11%, USA 7%, Japan 5%, Taiwan 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-integrated circuits, refined petroleum, crude petroleum, coal, vehicle parts/accessories (2022)<br>
+integrated circuits, refined petroleum, crude petroleum, coal, broadcasting equipment (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

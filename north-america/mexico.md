@@ -55,9 +55,9 @@ petroleum, silver, antimony, copper, gold, lead, zinc, natural gas, timber<br>
 
 **Land use**<br>
 _agricultural land_: 54.9% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 11.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.4% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 41.7% (2018 est.)<br>
+_arable land_: arable land: 11.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.4% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 41.7% (2018 est.)<br>
 _forest_: 33.3% (2018 est.)<br>
 _other_: 11.8% (2018 est.)<br>
 
@@ -187,7 +187,7 @@ _unimproved: rural_: rural: 1.7% of population<br>
 _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.2% of GDP (2020)<br>
+6.1% of GDP (2021)<br>
 
 **Physician density**<br>
 2.43 physicians/1,000 population (2019)<br>
@@ -257,9 +257,9 @@ varies from tropical to desert<br>
 
 **Land use**<br>
 _agricultural land_: 54.9% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 11.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.4% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 41.7% (2018 est.)<br>
+_arable land_: arable land: 11.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.4% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 41.7% (2018 est.)<br>
 _forest_: 33.3% (2018 est.)<br>
 _other_: 11.8% (2018 est.)<br>
 
@@ -569,11 +569,11 @@ $537.714 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 77%, Canada 4%, China 2%, Taiwan 1%, South Korea 1% (2022)<br>
+USA 76%, Canada 5%, China 2%, Germany 2%, Spain 1% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-cars, computers, vehicle parts/accessories, crude petroleum, trucks (2022)<br>
+cars, vehicle parts/accessories, crude petroleum, trucks, computers (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -583,11 +583,11 @@ $560.842 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-US 56%, China 17%, Germany 3%, South Korea 3%, Japan 2% (2022)<br>
+USA 46%, China 20%, Germany 4%, Japan 3%, S. Korea 3% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, vehicle parts/accessories, machine parts, integrated circuits, natural gas (2022)<br>
+vehicle parts/accessories, refined petroleum, integrated circuits, broadcasting equipment, cars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

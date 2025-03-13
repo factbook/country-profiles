@@ -55,9 +55,9 @@ petroleum, natural gas<br>
 
 **Land use**<br>
 _agricultural land_: 4.6% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0.5% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 3.6% (2018 est.)<br>
+_arable land_: arable land: 0.5% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 3.6% (2018 est.)<br>
 _forest_: 3.8% (2018 est.)<br>
 _other_: 91.6% (2018 est.)<br>
 
@@ -172,7 +172,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.5% of GDP (2020)<br>
+5.3% of GDP (2021)<br>
 
 **Physician density**<br>
 2.6 physicians/1,000 population (2019)<br>
@@ -232,9 +232,9 @@ desert; cooler in eastern mountains<br>
 
 **Land use**<br>
 _agricultural land_: 4.6% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0.5% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 3.6% (2018 est.)<br>
+_arable land_: arable land: 0.5% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 3.6% (2018 est.)<br>
 _forest_: 3.8% (2018 est.)<br>
 _other_: 91.6% (2018 est.)<br>
 
@@ -494,11 +494,11 @@ $392.863 billion (2018 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-India 13%, Japan 10%, China 8%, Saudi Arabia 7%, Iraq 5% (2022)<br>
+China 11%, India 11%, Japan 10%, Iraq 6%, Thailand 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, refined petroleum, gold, broadcasting equipment, natural gas (2022)<br>
+crude petroleum, refined petroleum, gold, broadcasting equipment, natural gas (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -508,11 +508,11 @@ $281.536 billion (2018 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 18%, India 10%, US 6%, UK 4%, Saudi Arabia 3% (2022)<br>
+China 19%, India 7%, USA 6%, Turkey 4%, Japan 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-gold, broadcasting equipment, refined petroleum, diamonds, cars (2022)<br>
+gold, broadcasting equipment, cars, refined petroleum, diamonds (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
@@ -670,7 +670,7 @@ continues to maintain a small force in Yemen; also maintains some troops at mili
 <strong>note:</strong> in 2015, UAE intervened militarily in Yemen as part of the Saudi-led coalition in support of the Republic of Yemen Government with an estimated 3,500 troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a small military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC)<br>
 
 **Military - note**<br>
-the UAE Armed Forces (UAEAF) are responsible for external defense and supporting the UAE’s foreign policy objectives; the military’s primary concerns include terrorism, regional instability, particularly in neighboring Yemen, and Iran, including a territorial dispute over three islands in the Strait of Hormuz and Iranian support to proxy forces in the region; in recent years, the UAE has undertaken a large military modernization program to go along with an assertive security policy which has included military involvments in Libya, Syria, and Yemen, as well as peacekeeping missions in Afghanistan and Somalia; the UAEAF has organized, trained, and equipped tens of thousands of militia forces in Yemen and offered training and equipment to several countries in Africa; the UAE also hosts the region’s first military school for women, which has trained female peacekeepers for deployment in Africa and Asia<br><br>the UAE has close security ties to France and the US; it hosts a multi-service French military base, which includes the French naval command for the Indian Ocean (ALINDIEN); the UAE has a defense cooperation agreement with the US and hosts thousands of US military troops, mostly air and naval personnel; it also has defense ties with a variety of other countries, including Australia, China, Egypt, Israel, Jordan, Malaysia, South Korea, and the UK, as well as NATO and fellow members of the Gulf Cooperation Council, particularly Saudi Arabia<br><br>the UAEAF traces its origins to the establishment of the Trucial Oman Scouts in 1951, a joint UK-Abu Dhabi organization modeled after Jordan’s Arab Legion, which became the Abu Dhabi Defense Force in 1965; the modern UAEAF were formed in 1976 and are considered to be one of the best-trained and most capable forces in the Persian Gulf region (2024)<br>
+the UAE Armed Forces (UAEAF) are responsible for external defense and supporting the UAE’s foreign policy objectives; the military’s primary concerns include terrorism, regional instability, particularly in Somalia, Yemen, and Iran, including a territorial dispute over three islands in the Strait of Hormuz and Iranian support to proxy forces in the region; in recent years, the UAE has undertaken a large military modernization program to go along with an assertive security policy which has included military involvements in Libya, Syria, and Yemen, as well as peacekeeping missions in Afghanistan and Somalia; the UAEAF has organized, trained, and equipped tens of thousands of militia forces in Yemen and offered training and equipment to several countries in Africa; the UAE also hosts the region’s first military school for women, which has trained female peacekeepers for deployment in Africa and Asia<br><br>the UAE has close security ties to France and the US; it hosts a multi-service French military base, which includes the French naval command for the Indian Ocean (ALINDIEN); the UAE has a defense cooperation agreement with the US and hosts thousands of US military troops, mostly air and naval personnel; it also has defense ties with a variety of other countries, including Australia, China, Egypt, Israel, Jordan, Malaysia, South Korea, and the UK, as well as NATO and fellow members of the Gulf Cooperation Council, particularly Saudi Arabia<br><br>the UAEAF traces its origins to the establishment of the Trucial Oman Scouts in 1951, a joint UK-Abu Dhabi organization modeled after Jordan’s Arab Legion, which became the Abu Dhabi Defense Force in 1965; the modern UAEAF were formed in 1976 and are considered to be one of the best-trained and most capable forces in the Persian Gulf region (2024)<br>
 
 ## Space
 

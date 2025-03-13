@@ -52,9 +52,9 @@ fish<br>
 
 **Land use**<br>
 _agricultural land_: 25% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 25% (2018 est.)<br>
+_arable land_: arable land: 0% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 25% (2018 est.)<br>
 _forest_: 11.5% (2018 est.)<br>
 _other_: 63.5% (2018 est.)<br>
 
@@ -106,9 +106,9 @@ subtropical; mild, little seasonal temperature variation<br>
 
 **Land use**<br>
 _agricultural land_: 25% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 25% (2018 est.)<br>
+_arable land_: arable land: 0% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 25% (2018 est.)<br>
 _forest_: 11.5% (2018 est.)<br>
 _other_: 63.5% (2018 est.)<br>
 
@@ -201,6 +201,9 @@ _name_: "Come Ye Blessed"<br>
 _lyrics/music_: New Testament/John Prindle SCOTT<br>
 <strong>note:</strong> the local anthem, whose lyrics consist of the words from Matthew 25:34-36, 40, is also known as "The Pitcairn Anthem;" the island does not recognize "Advance Australia Fair" (which other Australian territories use); instead "God Save the King" is official (see United Kingdom)<br>
 
+**National coat of arms**<br>
+Norfolk Island is part of the Commonwealth of Australia, and in 1980, Queen Elizabeth II granted it a separate coat of arms (pictured). In the center is the island&rsquo;s symbol, the Norfolk Island Pine, with Britain&rsquo;s lion and Australia&rsquo;s kangaroo supporting the shield. The island&rsquo;s motto, &ldquo;Inasmuch,&rdquo; comes from a verse in the Bible&rsquo;s Gospel of Matthew<br>
+
 ## Economy
 
 **Economic overview**<br>
@@ -213,18 +216,19 @@ Norfolk Island pine seed, Kentia palm seed, cereals, vegetables, fruit; cattle, 
 tourism, light industry, ready mixed concrete<br>
 
 **Exports - partners**<br>
-India 16%, Belgium 14%, US 14%, Malaysia 13%, Singapore 10% (2022)<br>
+USA 31%, Belgium 9%, Philippines 7%, Israel 6%, Singapore 6% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-pine seeds, lumber, cars and vehicle parts, soybeans, lactose syrup, cleaning products, scrap aluminum (2021)<br>
+pine seeds, lumber, cars and vehicle parts, soybeans, lactose syrup (2021)<br>
+top five export commodities based on value in dollars<br>
 
 **Imports - partners**<br>
-Australia 34%, Philippines 19%, NZ 17%, Fiji 9%, Brazil 7% (2022)<br>
+Australia 52%, Fiji 13%, NZ 12%, Saudi Arabia 12%, Malaysia 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-clothing and apparel, chemical analysis instruments, refined petroleum, cars, kitchen machinery (2019)<br>
+refined petroleum, plastics, electrical lighting/signalling equipment, cars, machinery (2023)<br>
 
 **Exchange rates**<br>
 _Currency_: Australian dollars (AUD) per US dollar -<br>

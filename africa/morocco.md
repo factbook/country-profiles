@@ -57,9 +57,9 @@ phosphates, iron ore, manganese, lead, zinc, fish, salt<br>
 
 **Land use**<br>
 _agricultural land_: 67.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 17.5% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 47.1% (2018 est.)<br>
+_arable land_: arable land: 17.5% (2018 est.)<br>
+_permanent crops_: permanent crops: 2.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 47.1% (2018 est.)<br>
 _forest_: 11.5% (2018 est.)<br>
 _other_: 21% (2018 est.)<br>
 <strong>note:</strong> does not include the area of the former Western Sahara, which is almost exclusively desert<br>
@@ -187,8 +187,7 @@ _unimproved: total_: total: 9% of population (2017 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Current health expenditure**<br>
-6% of GDP (2020)<br>
-<strong>note:</strong> does not include data from the former Western Sahara<br>
+5.7% of GDP (2021)<br>
 
 **Physician density**<br>
 0.73 physicians/1,000 population (2017)<br>
@@ -267,9 +266,9 @@ Mediterranean in the north, becoming more extreme in the interior; in the south,
 
 **Land use**<br>
 _agricultural land_: 67.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 17.5% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 47.1% (2018 est.)<br>
+_arable land_: arable land: 17.5% (2018 est.)<br>
+_permanent crops_: permanent crops: 2.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 47.1% (2018 est.)<br>
 _forest_: 11.5% (2018 est.)<br>
 _other_: 21% (2018 est.)<br>
 <strong>note:</strong> does not include the area of the former Western Sahara, which is almost exclusively desert<br>
@@ -551,11 +550,11 @@ $47.09 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Spain 18%, France 17%, India 6%, Italy 5%, Brazil 4% (2022)<br>
+Spain 20%, France 17%, Germany 6%, UK 5%, Italy 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-fertilizers, cars, garments, insulated wire, phosphoric acid (2022)<br>
+fertilizers, cars, garments, insulated wire, tomatoes (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -565,11 +564,11 @@ $60.215 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Spain 18%, France 10%, China 10%, US 6%, Saudi Arabia 6% (2022)<br>
+Spain 16%, China 11%, France 10%, USA 9%, Turkey 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, wheat, natural gas, coal, vehicle parts/accessories (2022)<br>
+refined petroleum, cars, vehicle parts/accessories, natural gas, coal (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

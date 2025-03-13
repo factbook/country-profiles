@@ -56,9 +56,9 @@ alumina, coal, iron ore, copper, lithium, tin, gold, silver, uranium, nickel, tu
 
 **Land use**<br>
 _agricultural land_: 46.65% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 4.03% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.04% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 42.58% (2018 est.)<br>
+_arable land_: arable land: 4.03% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.04% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 42.58% (2018 est.)<br>
 _forest_: 17.42% (2018 est.)<br>
 _other_: 33.42% (2018 est.)<br>
 
@@ -190,7 +190,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-10.7% of GDP (2020)<br>
+10.5% of GDP (2021)<br>
 
 **Physician density**<br>
 4.13 physicians/1,000 population (2020)<br>
@@ -254,9 +254,9 @@ generally arid to semiarid; temperate in south and east; tropical in north<br>
 
 **Land use**<br>
 _agricultural land_: 46.65% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 4.03% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.04% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 42.58% (2018 est.)<br>
+_arable land_: arable land: 4.03% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.04% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 42.58% (2018 est.)<br>
 _forest_: 17.42% (2018 est.)<br>
 _other_: 33.42% (2018 est.)<br>
 
@@ -427,6 +427,9 @@ _lyrics/music_: Peter Dodds McCORMICK<br>
 _total World Heritage Sites_: 20 (4 cultural, 12 natural, 4 mixed); note - includes one site on Heard Island and McDonald Islands<br>
 _selected World Heritage Site locales_: Great Barrier Reef (n); Greater Blue Mountains Area (n); Fraser Island (n); Gondwana Rainforests (n); Lord Howe Island Group (n); Royal Exhibition Building and Carlton Gardens (c); Shark Bay (n); Sydney Opera House (c); Uluṟu-Kata Tjuṯa National Park (m); Kakadu National Park (m)<br>
 
+**National coat of arms**<br>
+King George V granted the current Commonwealth Coat of Arms to Australia on 19 September 1912. The center of the shield has the symbols of Australia&rsquo;s six states. The kangaroo and the emu symbolize a nation moving forward, based on the fact that neither animal can move backwards easily. The gold Commonwealth Star sits above the shield, with six of the star&rsquo;s points representing the Australian states and the seventh point representing the territories. The gold and blue in the wreath under the star are the "livery," or "identifying," colors for the coat of arms. Australia&rsquo;s floral emblem, the golden wattle, frames the shield.<br>
+
 ## Economy
 
 **Economic overview**<br>
@@ -556,11 +559,11 @@ $389.158 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 29%, Japan 19%, South Korea 10%, India 7%, Taiwan 6% (2022)<br>
+China 37%, Japan 16%, S. Korea 6%, India 5%, Taiwan 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-coal, iron ore, natural gas, gold, wheat (2022)<br>
+iron ore, coal, natural gas, gold, minerals (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -570,11 +573,11 @@ $299.549 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 28%, US 10%, South Korea 6%, Japan 6%, Singapore 5% (2022)<br>
+China 26%, USA 11%, S. Korea 6%, Japan 6%, Thailand 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, garments, trucks, plastic products (2022)<br>
+refined petroleum, cars, trucks, broadcasting equipment, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
@@ -733,7 +736,7 @@ the military's inventory includes a mix of domestically produced and imported We
 
 **Military service age and obligation**<br>
 17 years of age (with parental consent; 18 years of age to deploy) for voluntary military service for men and women; no conscription (abolished 1972) (2024)<br>
-<strong>note 1: </strong>as of July 2024, New Zealanders who are permanent residents and have lived in Australia for at least 12 months could apply to join the ADF; from January 2025, eligible permanent residents from Canada, the UK, and the US will also be able to apply<br><br><strong>note 2:</strong> women have served in all roles, including combat arms, since 2013; in 2024, they comprised slightly more than 20% of the military<br>
+<strong>note 1: </strong>as of July 2024, New Zealanders who are permanent residents and have lived in Australia for at least 12 months could apply to join the ADF; from January 2025, eligible permanent residents from Canada, the UK, and the US were also to be allowed to apply<br><br><strong>note 2:</strong> women have served in all roles, including combat arms, since 2013; in 2024, they comprised slightly more than 20% of the military<br>
 
 **Military deployments**<br>
 <strong>note: </strong>the number of Australian military forces varies by mission; since the 1990s, Australia has deployed more than 30,000 personnel on nearly 100 UN peacekeeping and coalition military operations around the World<br>

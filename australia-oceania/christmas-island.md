@@ -207,19 +207,19 @@ high-income Australian territorial economy; development through government servi
 tourism, phosphate extraction (near depletion)<br>
 
 **Exports - partners**<br>
-NZ 25%, Indonesia 18%, Singapore 12%, Australia 9%, Ireland 8% (2022)<br>
+Indonesia 30%, USA 26%, Malaysia 12%, Ireland 8%, UK 7% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-phosphates, fertilizers, chemical analysis instruments, electrical transformers, measuring instruments (2022)<br>
-<b>note:</b> top five export commodities based on value in dollars<br>
+fertilizers, paintings, amine compounds (2023)<br>
+<strong>note:</strong> top export commodities based on value in dollars over $500,000<br>
 
 **Imports - partners**<br>
-Australia 93%, US 3%, Malaysia 2%, Singapore 1%, Fiji 0% (2022)<br>
+USA 58%, Australia 40%, Malaysia 1%, Fiji 0%, Singapore 0% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, iron structures, air conditioners, paintings (2022)<br>
+aircraft, refined petroleum, cars, air conditioners, plastic products (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>

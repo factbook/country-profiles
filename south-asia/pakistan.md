@@ -55,9 +55,9 @@ arable land, extensive natural gas reserves, limited petroleum, poor quality coa
 
 **Land use**<br>
 _agricultural land_: 35.2% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 27.6% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 6.5% (2018 est.)<br>
+_arable land_: arable land: 27.6% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 6.5% (2018 est.)<br>
 _forest_: 2.1% (2018 est.)<br>
 _other_: 62.7% (2018 est.)<br>
 
@@ -185,7 +185,7 @@ _unimproved: rural_: rural: 7.5% of population<br>
 _unimproved: total_: total: 6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-2.8% of GDP (2020)<br>
+2.9% of GDP (2021)<br>
 
 **Physician density**<br>
 1.12 physicians/1,000 population (2019)<br>
@@ -255,9 +255,9 @@ mostly hot, dry desert; temperate in northwest; arctic in north<br>
 
 **Land use**<br>
 _agricultural land_: 35.2% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 27.6% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 6.5% (2018 est.)<br>
+_arable land_: arable land: 27.6% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 6.5% (2018 est.)<br>
 _forest_: 2.1% (2018 est.)<br>
 _other_: 62.7% (2018 est.)<br>
 
@@ -552,11 +552,11 @@ $35.612 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 17%, Germany 7%, China 7%, UAE 7%, UK 6% (2022)<br>
+USA 14%, UAE 10%, China 9%, Germany 7%, UK 6% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-garments, fabric, cotton fabric, rice, refined petroleum (2022)<br>
+garments, fabric, refined petroleum, rice, cotton fabric (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -566,11 +566,11 @@ $76.514 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 28%, UAE 8%, Indonesia 6%, Saudi Arabia 6%, Kuwait 5% (2022)<br>
+China 25%, Qatar 11%, UAE 9%, Saudi Arabia 8%, Indonesia 6% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, crude petroleum, natural gas, palm oil, cotton (2022)<br>
+natural gas, refined petroleum, crude petroleum, palm oil, plastics (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

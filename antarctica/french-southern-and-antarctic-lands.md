@@ -115,19 +115,19 @@ the flag of France is used<br>
 very small, fishing-based, domestic economic activity; military base servicing<br>
 
 **Exports - partners**<br>
-France 80%, Singapore 5%, Belgium 5%, Poland 3%, Czechia 2% (2022)<br>
+France 47%, USA 34%, Poland 9%, Singapore 3%, Saudi Arabia 2% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-fish, shellfish, measuring instruments, aluminum products, trunks and cases (2022)<br>
-<b>note:</b> top five export commodities based on value in dollars<br>
+fish (2023)<br>
+<strong>note:</strong> top export commodities based on value in dollars over $500,000<br>
 
 **Imports - partners**<br>
-France 23%, US 13%, Netherlands 12%, Poland 11%, Germany 9% (2022)<br>
+France 41%, Ireland 15%, Germany 11%, Poland 7%, Netherlands 7% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, surveying equipment, gas turbines, tractors, trucks (2022)<br>
+scented mixtures, industrial acids/oils/alcohols, surveying equipment, fish, refined petroleum (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 ## Communications

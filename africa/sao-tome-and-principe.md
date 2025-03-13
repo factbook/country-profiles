@@ -52,9 +52,9 @@ fish, hydropower<br>
 
 **Land use**<br>
 _agricultural land_: 50.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 9.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 40.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 1% (2018 est.)<br>
+_arable land_: arable land: 9.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 40.6% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 1% (2018 est.)<br>
 _forest_: 28.1% (2018 est.)<br>
 _other_: 21.2% (2018 est.)<br>
 
@@ -174,7 +174,7 @@ _unimproved: rural_: rural: 6% of population<br>
 _unimproved: total_: total: 1.5% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.9% of GDP (2020)<br>
+7.8% of GDP (2021)<br>
 
 **Physician density**<br>
 0.49 physicians/1,000 population (2019)<br>
@@ -244,9 +244,9 @@ tropical; hot, humid; one rainy season (October to May)<br>
 
 **Land use**<br>
 _agricultural land_: 50.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 9.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 40.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 1% (2018 est.)<br>
+_arable land_: arable land: 9.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 40.6% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 1% (2018 est.)<br>
 _forest_: 28.1% (2018 est.)<br>
 _other_: 21.2% (2018 est.)<br>
 
@@ -492,11 +492,11 @@ $49.337 million (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Netherlands 26%, France 11%, Belgium 11%, Portugal 8%, Angola 6% (2022)<br>
+Pakistan 54%, Germany 11%, Netherlands 7%, France 5%, UAE 3% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-cocoa beans, palm oil, gas turbines, integrated circuits, coconut oil (2022)<br>
+crude petroleum, cocoa beans, vehicle parts/accessories, palm oil, aircraft parts (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -506,11 +506,11 @@ $160.097 million (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Portugal 35%, Angola 18%, Togo 13%, China 6%, Italy 5% (2022)<br>
+Portugal 35%, Angola 13%, Gabon 11%, Japan 8%, China 6% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, ships, electric generating sets, rice, cars (2022)<br>
+ships, refined petroleum, rice, electric generating sets, cars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

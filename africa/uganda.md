@@ -51,9 +51,9 @@ copper, cobalt, hydropower, limestone, salt, arable land, gold<br>
 
 **Land use**<br>
 _agricultural land_: 71.2% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 34.3% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 11.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 25.6% (2018 est.)<br>
+_arable land_: arable land: 34.3% (2018 est.)<br>
+_permanent crops_: permanent crops: 11.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 25.6% (2018 est.)<br>
 _forest_: 14.5% (2018 est.)<br>
 _other_: 14.3% (2018 est.)<br>
 
@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 20% of population<br>
 _unimproved: total_: total: 16.9% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4% of GDP (2020)<br>
+4.7% of GDP (2021)<br>
 
 **Physician density**<br>
 0.15 physicians/1,000 population (2020)<br>
@@ -246,9 +246,9 @@ tropical; generally rainy with two dry seasons (December to February, June to Au
 
 **Land use**<br>
 _agricultural land_: 71.2% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 34.3% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 11.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 25.6% (2018 est.)<br>
+_arable land_: arable land: 34.3% (2018 est.)<br>
+_permanent crops_: permanent crops: 11.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 25.6% (2018 est.)<br>
 _forest_: 14.5% (2018 est.)<br>
 _other_: 14.3% (2018 est.)<br>
 
@@ -526,11 +526,11 @@ $6.231 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-UAE 31%, India 12%, Hong Kong 9%, Kenya 8%, Italy 7% (2022)<br>
+India 21%, UAE 16%, Hong Kong 10%, South Sudan 8%, Kenya 6% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, coffee, fish, milk, raw sugar (2022)<br>
+gold, coffee, fish, refined petroleum, tobacco (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -540,11 +540,11 @@ $10.62 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 23%, Kenya 15%, India 13%, UAE 7%, Tanzania 6% (2022)<br>
+China 19%, UAE 12%, Tanzania 11%, India 10%, Kenya 7% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-vaccines, packaged medicine, plastic products, cars, motorcycles and cycles (2022)<br>
+refined petroleum, gold, plastics, packaged medicine, palm oil (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
@@ -680,10 +680,10 @@ the UPDF's inventory is mix of older and some more modern weapons and equipment;
 18-25 years of age for voluntary military duty for men and women; 18-30 for those with degrees/diplomas in specialized fields such as medicine, engineering, chemistry, and education, or possess qualifications in some vocational skills; 9-year service obligation (2024)<br>
 
 **Military deployments**<br>
-as many as 4-5,000 Democratic Republic of the Congo; approximately 4,500 Somalia (African Union Support and Stabilization Mission in Somalia or AUSSOM) (2025)<br>
+as many as 4-5,000 Democratic Republic of Congo; approximately 4,500 Somalia (African Union Support and Stabilization Mission in Somalia or AUSSOM) (2025)<br>
 
 **Military - note**<br>
-the UPDF’s missions include defending the sovereignty and territorial integrity of Uganda, assisting the civilian authorities in emergencies and natural disasters, and participating in socio-economic development projects; it supports the police in maintaining internal security and participates in African and UN peacekeeping missions; it is a key contributor to the East Africa Standby Force; the UPDF also has considerable political influence; it is constitutionally granted seats in parliament and is widely viewed as a key constituency for MUSEVENI; it has been used by MUSEVENI and his political party to break up rallies, raid opposition offices, and surveil rival candidates<br><br>since the 2010s, the UPDF has participated in several internal and regional military operations in addition to its large commitment to an international peacekeeping force in Somalia; from 2012-2017, it led regional efforts to pursue the Lord’s Resistance Army (LRA), a small, violent group of Ugandan origin that conducted widespread attacks against civilians in much of Central Africa; Uganda intervened in the South Sudan civil war in 2013-2016, and UPDF forces have clashed with South Sudanese forces along the border as recently as 2023; since 2021, it is also conducting operations along the border with the Democratic Republic of the Congo (DRC) against the Allied Democratic Front (ADF), which has been designated by the US as the Islamic State of Iraq and ash-Sham in the DRC (see Appendix T); in December 2022, Uganda sent about 1,000 UPDF troops to the DRC as part of a regional force to assist the DRC Government in combating the M23 rebel group; in addition, elements of the UPDF have deployed internally to assist the police against cattle rustlers, poachers, and criminal gangs<br><br>the military traces its history back to the formation of the Uganda Rifles in 1895 under the British colonial government; the Uganda Rifles were merged with the Central Africa Regiment and the East Africa Rifles to form the King’s African Rifles (KAR) in 1902, which participated in both world wars, as well as the Mau Mau rebellion in Kenya (1952-1960); in 1962, the Ugandan battalion of the KAR was transformed into the country's first military force, the Uganda Rifles, which was subsequently renamed the Uganda Army; the UPDF was established in 1995 from the former rebel National Resistance Army following the enactment of the 1995 Constitution of Uganda (2024)<br>
+the UPDF’s missions include defending the sovereignty and territorial integrity of Uganda, assisting the civilian authorities in emergencies and natural disasters, and participating in socio-economic development projects; it supports the police in maintaining internal security and participates in African and UN peacekeeping missions; it is a key contributor to the East Africa Standby Force; the UPDF also has considerable political influence; it is constitutionally granted seats in parliament and is widely viewed as a key constituency for MUSEVENI; it has been used by MUSEVENI and his political party to break up rallies, raid opposition offices, and surveil rival candidates<br><br>since the 2010s, the UPDF has participated in several internal and regional military operations in addition to its large commitment to an international peacekeeping force in Somalia; from 2012-2017, it led regional efforts to pursue the Lord’s Resistance Army (LRA), a small, violent group of Ugandan origin that conducted widespread attacks against civilians in much of Central Africa; Uganda intervened in the South Sudan civil war in 2013-2016, and UPDF forces have clashed with South Sudanese forces along the border as recently as 2023; since 2021, the UPDF has conducted operations along the border with the Democratic Republic of the Congo (DRC) against the Allied Democratic Front (ADF), which has been designated by the US as the Islamic State of Iraq and ash-Sham in the DRC, and in December 2022 UPDF troops were sent to the DRC as part of a regional force to assist the DRC Government in combating the M23 rebel group; in addition, elements of the UPDF have deployed internally to assist the police against cattle rustlers, poachers, and criminal gangs<br><br>the military traces its history back to the formation of the Uganda Rifles in 1895 under the British colonial government; the Uganda Rifles were merged with the Central Africa Regiment and the East Africa Rifles to form the King’s African Rifles (KAR) in 1902, which participated in both world wars, as well as the Mau Mau rebellion in Kenya (1952-1960); in 1962, the Ugandan battalion of the KAR was transformed into the country's first military force, the Uganda Rifles, which was subsequently renamed the Uganda Army; the UPDF was established in 1995 from the former rebel National Resistance Army following the enactment of the 1995 Constitution of Uganda (2024)<br>
 
 ## Terrorism
 

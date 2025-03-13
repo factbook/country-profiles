@@ -55,9 +55,9 @@ natural gas, petroleum, peat, limestone, salt, sand and gravel, arable land<br>
 
 **Land use**<br>
 _agricultural land_: 55.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 29.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 24.2% (2018 est.)<br>
+_arable land_: arable land: 29.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 24.2% (2018 est.)<br>
 _forest_: 10.8% (2018 est.)<br>
 _other_: 34.1% (2018 est.)<br>
 
@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-11.1% of GDP (2020)<br>
+11.3% of GDP (2021)<br>
 
 **Physician density**<br>
 4.08 physicians/1,000 population (2020)<br>
@@ -245,9 +245,9 @@ temperate; marine; cool summers and mild winters<br>
 
 **Land use**<br>
 _agricultural land_: 55.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 29.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 24.2% (2018 est.)<br>
+_arable land_: arable land: 29.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 24.2% (2018 est.)<br>
 _forest_: 10.8% (2018 est.)<br>
 _other_: 34.1% (2018 est.)<br>
 
@@ -542,11 +542,11 @@ $910.795 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 19%, Belgium 14%, France 9%, UK 6%, Italy 5% (2022)<br>
+Germany 16%, Belgium 15%, France 11%, Italy 6%, USA 6% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, broadcasting equipment, machinery, packaged medicine, crude petroleum (2022)<br>
+refined petroleum, vaccines, machinery, crude petroleum, broadcasting equipment (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -556,11 +556,11 @@ $808.111 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Germany 14%, China 12%, US 9%, Belgium 9%, UK 5% (2022)<br>
+Germany 16%, Belgium 10%, China 10%, USA 10%, UK 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-crude petroleum, refined petroleum, natural gas, broadcasting equipment, computers (2022)<br>
+crude petroleum, refined petroleum, broadcasting equipment, cars, natural gas (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

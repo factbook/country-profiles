@@ -202,18 +202,19 @@ vegetables, bananas, pawpaws, coconuts<br>
 copra products, tourism<br>
 
 **Exports - partners**<br>
-US 45%, UK 12%, France 7%, Canada 6%, Poland 5% (2022)<br>
+USA 31%, Singapore 29%, UK 12%, Australia 3%, Brazil 3% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-integrated circuits, vaccines and cultures, furniture, carbon batteries, rubber gloves (2021)<br>
+ships (2023)<br>
+<strong>note:</strong> top export commodities based on value in dollars over $500,000<br>
 
 **Imports - partners**<br>
-Australia 75%, US 18%, Netherlands 2%, UK 2%, Turkey 1% (2022)<br>
+Australia 87%, USA 3%, Philippines 2%, Sweden 2%, Brazil 1% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-gold, x-ray equipment, cars, prefabricated buildings, packaged medicines (2019)<br>
+iron structures, special purpose motor vehicles, cars, ships, aluminum structures (2023)<br>
 
 **Exchange rates**<br>
 _Currency_: Australian dollars (AUD) per US dollar -<br>

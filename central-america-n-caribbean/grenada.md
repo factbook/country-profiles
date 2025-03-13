@@ -51,9 +51,9 @@ timber, tropical fruit<br>
 
 **Land use**<br>
 _agricultural land_: 32.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 8.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 20.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 2.9% (2018 est.)<br>
+_arable land_: arable land: 8.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 20.6% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 2.9% (2018 est.)<br>
 _forest_: 50% (2018 est.)<br>
 _other_: 17.7% (2018 est.)<br>
 
@@ -161,7 +161,7 @@ _improved: total_: total: 96.8% of population<br>
 _unimproved: total_: total: 3.2% of population (2017 est.)<br>
 
 **Current health expenditure**<br>
-5.8% of GDP (2020)<br>
+5.7% of GDP (2021)<br>
 
 **Physician density**<br>
 1.44 physicians/1,000 population (2018)<br>
@@ -221,9 +221,9 @@ tropical; tempered by northeast trade winds<br>
 
 **Land use**<br>
 _agricultural land_: 32.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 8.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 20.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 2.9% (2018 est.)<br>
+_arable land_: arable land: 8.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 20.6% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 2.9% (2018 est.)<br>
 _forest_: 50% (2018 est.)<br>
 _other_: 17.7% (2018 est.)<br>
 
@@ -474,11 +474,11 @@ $537.898 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 33%, Antigua and Barbuda 10%, India 4%, Saint Vincent and the Grenadines 4%, France 3% (2022)<br>
+USA 24%, Antigua &amp; Barbuda 13%, St. Vincent &amp; the Grenadines 8%, Dominica 6%, Trinidad &amp; Tobago 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-nutmeg/cardamom, frozen fruits and nuts, fish, other fruits, toilet paper (2022)<br>
+nutmeg/cardamons, fish, wheat flours, frozen fruits and nuts, aqueous paints (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -488,11 +488,11 @@ $621.896 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-US 37%, Trinidad and Tobago 11%, Cayman Islands 11%, China 5%, UK 3% (2022)<br>
+USA 37%, Trinidad &amp; Tobago 13%, Cayman Islands 10%, China 4%, UK 3% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, poultry, plastic products, wheat, cars (2022)<br>
+refined petroleum, cars, poultry, ships, plastic products (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

@@ -54,9 +54,9 @@ petroleum, diamonds, iron ore, phosphates, copper, feldspar, gold, bauxite, uran
 
 **Land use**<br>
 _agricultural land_: 45.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 3.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 41.5% (2018 est.)<br>
+_arable land_: arable land: 3.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 41.5% (2018 est.)<br>
 _forest_: 54.3% (2018 est.)<br>
 
 **Irrigated land**<br>
@@ -184,7 +184,7 @@ _unimproved: rural_: rural: 63.5% of population<br>
 _unimproved: total_: total: 33.5% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-2.9% of GDP (2020)<br>
+3% of GDP (2021)<br>
 
 **Physician density**<br>
 0.21 physicians/1,000 population (2018)<br>
@@ -241,9 +241,9 @@ semiarid in south and along coast to Luanda; north has cool, dry season (May to 
 
 **Land use**<br>
 _agricultural land_: 45.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 3.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 41.5% (2018 est.)<br>
+_arable land_: arable land: 3.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 41.5% (2018 est.)<br>
 _forest_: 54.3% (2018 est.)<br>
 
 **Urbanization**<br>
@@ -519,11 +519,11 @@ $33.675 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 40%, India 9%, Netherlands 7%, France 7%, UAE 7% (2022)<br>
+China 40%, India 9%, UAE 6%, Spain 6%, Netherlands 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, natural gas, diamonds, ships, refined petroleum (2022)<br>
+crude petroleum, diamonds, natural gas, ships, refined petroleum (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -533,11 +533,11 @@ $18.845 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 24%, Portugal 10%, Netherlands 8%, UAE 5%, India 4% (2022)<br>
+China 19%, Portugal 10%, UAE 7%, India 6%, USA 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, wheat, cars, poultry, palm oil (2022)<br>
+refined petroleum, wheat, ships, cars, trucks (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

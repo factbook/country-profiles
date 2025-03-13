@@ -52,9 +52,9 @@ gold, potash, zinc, copper, salt, possibly oil and natural gas, fish<br>
 
 **Land use**<br>
 _agricultural land_: 75.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 6.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 68.3% (2018 est.)<br>
+_arable land_: arable land: 6.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 68.3% (2018 est.)<br>
 _forest_: 15.1% (2018 est.)<br>
 _other_: 9.8% (2018 est.)<br>
 
@@ -174,7 +174,7 @@ _unimproved: rural_: rural: 46.7% of population<br>
 _unimproved: total_: total: 42.2% of population (2015 est.)<br>
 
 **Current health expenditure**<br>
-4.1% of GDP (2020)<br>
+4.2% of GDP (2021)<br>
 
 **Physician density**<br>
 0.08 physicians/1,000 population (2020)<br>
@@ -239,9 +239,9 @@ hot, dry desert strip along Red Sea coast; cooler and wetter in the central high
 
 **Land use**<br>
 _agricultural land_: 75.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 6.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 68.3% (2018 est.)<br>
+_arable land_: arable land: 6.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 68.3% (2018 est.)<br>
 _forest_: 15.1% (2018 est.)<br>
 _other_: 9.8% (2018 est.)<br>
 
@@ -460,11 +460,11 @@ $624.3 million (2017 est.)<br>
 $485.4 million (2016 est.)<br>
 
 **Exports - partners**<br>
-China 52%, UAE 33%, South Korea 9%, Japan 2%, Madagascar 2% (2022)<br>
+China 67%, UAE 26%, Philippines 5%, Italy 1%, Croatia 1% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-zinc ore, gold, copper ore, wheat, garments (2022)<br>
+copper ore, zinc ore, gold, garments, liquor (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -472,11 +472,11 @@ $1.127 billion (2017 est.)<br>
 $1.048 billion (2016 est.)<br>
 
 **Imports - partners**<br>
-China 34%, UAE 26%, Turkey 12%, US 7%, India 4% (2022)<br>
+China 32%, UAE 27%, Turkey 9%, USA 7%, Italy 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-ships, sorghum, wheat, construction vehicles, other foods (2022)<br>
+trucks, sorghum, construction vehicles, wheat flours, other foods (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

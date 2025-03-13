@@ -145,9 +145,6 @@ NA<br>
 _improved: total_: total: 95.1% of population<br>
 _unimproved: total_: total: 4.9% of population (2017)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 NA<br>
 
@@ -346,11 +343,11 @@ $790.938 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-France 41%, Antigua and Barbuda 18%, US 13%, Morocco 9%, UK 7% (2022)<br>
+Antigua &amp; Barbuda 28%, USA 16%, France 12%, Netherlands 8%, Morocco 7% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gas turbines, scrap iron, jewelry, coconuts/Brazil nuts/cashews, flavored water (2022)<br>
+scrap iron, ships, jewelry, flavored water, liquor (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -360,11 +357,11 @@ $1.003 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-US 77%, Netherlands 7%, France 4%, Trinidad and Tobago 2%, Switzerland 2% (2022)<br>
+USA 82%, Netherlands 7%, France 4%, Brazil 1%, Switzerland 1% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, jewelry, pearl products, diamonds, cars (2022)<br>
+jewelry, refined petroleum, ships, pearl products, diamonds (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>

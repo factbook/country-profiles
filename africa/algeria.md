@@ -54,9 +54,9 @@ petroleum, natural gas, iron ore, phosphates, uranium, lead, zinc<br>
 
 **Land use**<br>
 _agricultural land_: 17.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 3.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.4% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 13.8% (2018 est.)<br>
+_arable land_: arable land: 3.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.4% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 13.8% (2018 est.)<br>
 _forest_: 0.8% (2018 est.)<br>
 _other_: 81.8% (2018 est.)<br>
 
@@ -179,7 +179,7 @@ _unimproved: rural_: rural: 1.2% of population<br>
 _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.3% of GDP (2020)<br>
+5.5% of GDP (2021)<br>
 
 **Physician density**<br>
 1.72 physicians/1,000 population (2018)<br>
@@ -242,9 +242,9 @@ arid to semiarid; mild, wet winters with hot, dry summers along coast; drier wit
 
 **Land use**<br>
 _agricultural land_: 17.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 3.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.4% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 13.8% (2018 est.)<br>
+_arable land_: arable land: 3.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.4% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 13.8% (2018 est.)<br>
 _forest_: 0.8% (2018 est.)<br>
 _other_: 81.8% (2018 est.)<br>
 
@@ -358,7 +358,7 @@ _scope of elections_: partial renewal<br>
 _term in office_: 6 years<br>
 _most recent election date_: 2/5/2022<br>
 _percentage of women in chamber_: 4.1%<br>
-_expected date of next election_: February 2025<br>
+_expected date of next election_: March 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Le Cour Supr&ecirc;me, (consists of 150 judges organized into 8 chambers: Civil, Commercial and Maritime, Criminal, House of Offenses and Contraventions, House of Petitions, Land, Personal Status, and Social; Constitutional Council (consists of 12 members including the court chairman and deputy chairman); note - Algeria's judicial system does not include sharia courts<br>
@@ -515,11 +515,11 @@ $41.851 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Italy 29%, Spain 12%, France 12%, US 5%, South Korea 5% (2022)<br>
+Italy 29%, France 14%, Spain 13%, USA 6%, Netherlands 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-natural gas, crude petroleum, refined petroleum, fertilizers, ammonia (2022)<br>
+natural gas, crude petroleum, refined petroleum, fertilizers, iron bars (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -529,11 +529,11 @@ $44.297 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 18%, France 14%, Italy 7%, Turkey 6%, Brazil 6% (2022)<br>
+China 24%, France 12%, Italy 8%, Turkey 7%, Brazil 6% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-wheat, milk, plastics, corn, iron ore (2022)<br>
+wheat, plastics, cars, milk, corn (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

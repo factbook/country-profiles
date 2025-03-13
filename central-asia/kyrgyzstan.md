@@ -52,9 +52,9 @@ abundant hydropower; gold, rare earth metals; locally exploitable coal, oil, and
 
 **Land use**<br>
 _agricultural land_: 55.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 6.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.4% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 48.3% (2018 est.)<br>
+_arable land_: arable land: 6.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.4% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 48.3% (2018 est.)<br>
 _forest_: 5.1% (2018 est.)<br>
 _other_: 39.5% (2018 est.)<br>
 
@@ -182,7 +182,7 @@ _unimproved: rural_: rural: 10.1% of population<br>
 _unimproved: total_: total: 6.4% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.3% of GDP (2020)<br>
+5.4% of GDP (2021)<br>
 
 **Physician density**<br>
 2.21 physicians/1,000 population (2014)<br>
@@ -251,9 +251,9 @@ dry continental to polar in high Tien Shan Mountains; subtropical in southwest (
 
 **Land use**<br>
 _agricultural land_: 55.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 6.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.4% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 48.3% (2018 est.)<br>
+_arable land_: arable land: 6.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.4% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 48.3% (2018 est.)<br>
 _forest_: 5.1% (2018 est.)<br>
 _other_: 39.5% (2018 est.)<br>
 
@@ -371,7 +371,7 @@ Afghan's Party<br>Alliance<br>Ata-Jurt Kyrgyzstan (Fatherland) or AJK<br>Cohesio
 ADB, CICA, CIS, CSTO, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PCA, PFP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires&nbsp;Mirel MURATOV (since 22 November 2024)<br>
+_chief of mission_: Ambassador Aibek MOLDOGAZIEV (since 25 February 2025)<br>
 _chancery_: 2360 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 449-9822<br>
 _FAX_: [1] (202) 449-8275<br>
@@ -454,7 +454,7 @@ _imports of goods and services_: -101% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-milk, potatoes, maize, wheat, barley, sugar beets, tomatoes, onions, watermelons, carrots/turnips (2022)<br>
+milk, potatoes, maize, sugar beets, wheat, barley, tomatoes, onions, watermelons, carrots/turnips (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -525,11 +525,11 @@ $2.435 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Russia 43%, Kazakhstan 18%, Uzbekistan 10%, Turkey 6%, UAE 4% (2022)<br>
+Switzerland 30%, Russia 19%, Kazakhstan 14%, UAE 10%, Turkey 8% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-garments, refined petroleum, gold, precious metal ore, dried legumes (2022)<br>
+gold, coal, precious metal ore, refined petroleum, garments (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -539,11 +539,11 @@ $4.051 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 64%, Russia 10%, Uzbekistan 4%, Turkey 4%, Kazakhstan 4% (2022)<br>
+China 44%, Russia 12%, Kazakhstan 6%, Turkey 6%, Uzbekistan 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-garments, footwear, refined petroleum, cars, fabric (2022)<br>
+cars, garments, refined petroleum, fabric, footwear (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

@@ -55,9 +55,9 @@ negligible mineral resources, fish <br>
 
 **Land use**<br>
 _agricultural land_: 12.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 11.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 11.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 68.5% (2018 est.)<br>
 _other_: 19% (2018 est.)<br>
 
@@ -179,7 +179,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-10.9% of GDP (2020)<br>
+10.8% of GDP (2021)<br>
 
 **Physician density**<br>
 2.48 physicians/1,000 population (2018)<br>
@@ -243,9 +243,9 @@ varies from tropical in south to cool temperate in north<br>
 
 **Land use**<br>
 _agricultural land_: 12.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 11.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 11.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 68.5% (2018 est.)<br>
 _other_: 19% (2018 est.)<br>
 
@@ -408,6 +408,9 @@ _lyrics/music_: unknown/Hiromori HAYASHI<br>
 _total World Heritage Sites_: 26 (21 cultural, 5 natural)<br>
 _selected World Heritage Site locales_: <p>Buddhist Monuments in the Horyu-ji Area (c); Historic Monuments of Ancient Nara (c); Himeji-jo (c); Shiretoko (n); Mozu-Furuichi Kofun Group: Mounded Tombs of Ancient Japan (c); Iwami Ginzan Silver Mine and its Cultural Landscape (c); Jomon Prehistoric Sites in Northern Japan (c); Yakushima (n); Historic Monuments of Ancient Kyoto (Kyoto, Uji and Otsu Cities)(c); Hiroshima Peace Memorial (Genbaku Dome) (c); Shirakami-Sanchi (n); Historic Villages of Shirakawa-go and Gokayama (c); Itsukushima Shinto Shrine (c); Historic Monuments of Ancient Nara (c); Shrines and Temples of Nikko (c); Gusuku Sites and Related Properties of the Kingdom of Ryukyu (c); Sacred Sites and Pilgrimage Routes in the Kii Mountain Range (c); Hiraizumi – Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land (c); Ogasawara Islands (n); Fujisan, sacred place and source of artistic inspiration (c); Tomioka Silk Mill and Related Sites (c); Sites of Japan’s Meiji Industrial Revolution: Iron and Steel, Shipbuilding and Coal Mining (c); The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement (c); Sacred Island of Okinoshima and Associated Sites in the Munakata Region (c); Hidden Christian Sites in the Nagasaki Region (c); Amami-Oshima Island, Tokunoshima Island, Northern part of Okinawa Island, and Iriomote Island (n); Jomon Prehistoric Sites in Northern Japan (c); Sado Island Gold Mines (c)</p><br>
 
+**National coat of arms**<br>
+The Kikumon is the Japanese emperor's family Coat of Arms and dates from 1183. The Imperial chrysanthemum emblem (菊の御紋, <em>kikunogomon</em>) symbol is a yellow or orange chrysanthemum with black or red outlines and background. A central disc is surrounded by a front set of 16 petals. A rear set of 16 petals are half-staggered in relation to the front set and are visible at the edges of the flower.<br>
+
 ## Economy
 
 **Economic overview**<br>
@@ -524,11 +527,11 @@ $920.639 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 19%, China 19%, South Korea 7%, Taiwan 7%, Thailand 4% (2022)<br>
+USA 19%, China 18%, Taiwan 6%, S. Korea 6%, Hong Kong 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-cars, machinery, integrated circuits, vehicle parts/accessories, refined petroleum (2022)<br>
+cars, integrated circuits, machinery, vehicle parts/accessories, construction vehicles (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -538,11 +541,11 @@ $942.45 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 22%, Australia 10%, US 10%, UAE 5%, Saudi Arabia 4% (2022)<br>
+China 22%, USA 11%, Australia 8%, UAE 5%, Saudi Arabia 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-crude petroleum, natural gas, coal, integrated circuits, garments (2022)<br>
+crude petroleum, natural gas, coal, integrated circuits, broadcasting equipment (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

@@ -53,9 +53,9 @@ timber, petroleum, nickel, cobalt, silver, gold, salt, copper<br>
 
 **Land use**<br>
 _agricultural land_: 41% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 18.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 17.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5% (2018 est.)<br>
+_arable land_: arable land: 18.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 17.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 5% (2018 est.)<br>
 _forest_: 25.9% (2018 est.)<br>
 _other_: 33.1% (2018 est.)<br>
 
@@ -179,7 +179,7 @@ _unimproved: rural_: rural: 5% of population<br>
 _unimproved: total_: total: 3% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.1% of GDP (2020)<br>
+5.1% of GDP (2022)<br>
 
 **Physician density**<br>
 0.77 physicians/1,000 population (2020)<br>
@@ -251,9 +251,9 @@ tropical marine; northeast monsoon (November to April); southwest monsoon (May t
 
 **Land use**<br>
 _agricultural land_: 41% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 18.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 17.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5% (2018 est.)<br>
+_arable land_: arable land: 18.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 17.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 5% (2018 est.)<br>
 _forest_: 25.9% (2018 est.)<br>
 _other_: 33.1% (2018 est.)<br>
 
@@ -414,6 +414,9 @@ _lyrics/music_: Jose PALMA (revised by Felipe PADILLA de Leon)/Julian FELIPE<br>
 _total World Heritage Sites_: 6 (3 cultural, 3 natural)<br>
 _selected World Heritage Site locales_: Baroque Churches of the Philippines (c); Tubbataha Reefs Natural Park (n); Rice Terraces of the Philippine Cordilleras (c); Historic Vigan (c); Puerto-Princesa Subterranean River National Park (n); Mount Hamiguitan Range Wildlife Sanctuary (n)<br>
 
+**National coat of arms**<br>
+The coat of arms of the Philippines was adopted on 3 July 1946. The three gold stars represent the major island groups of Luzon, the Visayas, and Mindanao. The rays of the sun represent the provinces of the Philippines. The American eagle and lion of Spain represent the nation's colonial past.<br>
+
 ## Economy
 
 **Economic overview**<br>
@@ -469,7 +472,7 @@ _imports of goods and services_: -40.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-sugarcane, rice, coconuts, maize, bananas, vegetables, tropical fruits, plantains, pineapples, cassava (2022)<br>
+sugarcane, rice, coconuts, maize, bananas, vegetables, tropical fruits, plantains, pineapples, cassava (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -544,11 +547,11 @@ $87.798 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 14%, China 14%, Hong Kong 11%, Japan 10%, Singapore 6% (2022)<br>
+China 19%, USA 13%, Hong Kong 12%, Japan 11%, Germany 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-integrated circuits, machine parts, gold, semiconductors, insulated wire (2022)<br>
+integrated circuits, machine parts, gold, insulated wire, semiconductors (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -558,11 +561,11 @@ $126.565 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 32%, Indonesia 8%, South Korea 7%, Japan 7%, Singapore 6% (2022)<br>
+China 25%, Indonesia 8%, Japan 8%, S. Korea 6%, USA 6% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-integrated circuits, refined petroleum, coal, cars, plastic products (2022)<br>
+integrated circuits, refined petroleum, cars, crude petroleum, coal (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

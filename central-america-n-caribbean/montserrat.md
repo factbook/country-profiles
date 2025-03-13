@@ -51,9 +51,9 @@ NEGL<br>
 
 **Land use**<br>
 _agricultural land_: 30% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 20% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 10% (2018 est.)<br>
+_arable land_: arable land: 20% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 10% (2018 est.)<br>
 _forest_: 25% (2018 est.)<br>
 _other_: 45% (2018 est.)<br>
 
@@ -159,9 +159,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 1.9% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 NA<br>
 
@@ -202,9 +199,9 @@ tropical; little daily or seasonal temperature variation<br>
 
 **Land use**<br>
 _agricultural land_: 30% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 20% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 10% (2018 est.)<br>
+_arable land_: arable land: 20% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 10% (2018 est.)<br>
 _forest_: 25% (2018 est.)<br>
 _other_: 45% (2018 est.)<br>
 
@@ -349,12 +346,12 @@ $4.4 million (2017 est.)<br>
 $5.2 million (2016 est.)<br>
 
 **Exports - partners**<br>
-US 23%, France 21%, Antigua and Barbuda 19%, Ireland 15%, UK 7% (2022)<br>
+USA 25%, Antigua &amp; Barbuda 13%, Guyana 13%, Egypt 12%, France 10% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-sand, gravel and crushed stone, packaged medicine, lead products, liquid pumps (2022)<br>
-<b>note:</b> top five export commodities based on value in dollars<br>
+gravel and crushed stone, sand (2023)<br>
+<strong>note:</strong> top export commodities based on value in dollars over $500,000<br>
 
 **Imports**<br>
 $15.3 million (2021 est.)<br>
@@ -362,11 +359,11 @@ $39.44 million (2017 est.)<br>
 $36.1 million (2016 est.)<br>
 
 **Imports - partners**<br>
-US 54%, UK 8%, Singapore 4%, Antigua and Barbuda 4%, Trinidad and Tobago 4% (2022)<br>
+USA 62%, Antigua &amp; Barbuda 6%, UK 5%, Belgium 4%, Trinidad &amp; Tobago 3% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, machine parts, plastic products, machinery, natural gas (2022)<br>
+refined petroleum, electric generating sets, cars, stone processing machines, x-ray equipment (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

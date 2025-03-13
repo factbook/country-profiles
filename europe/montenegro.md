@@ -53,9 +53,9 @@ bauxite, hydroelectricity<br>
 
 **Land use**<br>
 _agricultural land_: 38.2% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 12.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 24.1% (2018 est.)<br>
+_arable land_: arable land: 12.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 24.1% (2018 est.)<br>
 _forest_: 40.4% (2018 est.)<br>
 _other_: 21.4% (2018 est.)<br>
 
@@ -177,7 +177,7 @@ _unimproved: rural_: rural: 1.8% of population<br>
 _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-11.4% of GDP (2020)<br>
+10.6% of GDP (2021)<br>
 
 **Physician density**<br>
 2.74 physicians/1,000 population (2020)<br>
@@ -247,9 +247,9 @@ Mediterranean climate, hot dry summers and autumns and relatively cold winters w
 
 **Land use**<br>
 _agricultural land_: 38.2% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 12.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 24.1% (2018 est.)<br>
+_arable land_: arable land: 12.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 24.1% (2018 est.)<br>
 _forest_: 40.4% (2018 est.)<br>
 _other_: 21.4% (2018 est.)<br>
 
@@ -448,7 +448,7 @@ _imports of goods and services_: -68.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-milk, potatoes, grapes, watermelons, sheep milk, cabbages, oranges, eggs, goat milk, figs (2022)<br>
+milk, potatoes, watermelons, grapes, sheep milk, cabbages, oranges, eggs, goat milk, figs (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -522,11 +522,11 @@ $2.502 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-South Korea 24%, Serbia 12%, Italy 9%, Switzerland 9%, Bosnia and Herzegovina 7% (2022)<br>
+Italy 38%, Serbia 13%, Spain 6%, Slovenia 5%, Bosnia &amp; Herzegovina 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-copper ore, electricity, aluminum, aluminum ore, packaged medicine (2022)<br>
+electricity, aluminum, copper ore, aluminum ore, packaged medicine (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -536,11 +536,11 @@ $3.637 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Serbia 24%, China 8%, Italy 8%, Croatia 7%, Greece 7% (2022)<br>
+Serbia 21%, China 10%, Germany 8%, Croatia 6%, Italy 6% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-electricity, refined petroleum, aluminum, cars, garments (2022)<br>
+refined petroleum, cars, electricity, packaged medicine, aluminum (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

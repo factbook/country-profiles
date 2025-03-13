@@ -52,9 +52,9 @@ water, agricultural and grazing land, diamonds, sand, clay, building stone<br>
 
 **Land use**<br>
 _agricultural land_: 76.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 10.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 65.9% (2018 est.)<br>
+_arable land_: arable land: 10.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 65.9% (2018 est.)<br>
 _forest_: 1.5% (2018 est.)<br>
 _other_: 22.4% (2018 est.)<br>
 
@@ -179,7 +179,7 @@ _unimproved: rural_: rural: 22.8% of population<br>
 _unimproved: total_: total: 17.4% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-11.8% of GDP (2020)<br>
+10.2% of GDP (2021)<br>
 
 **Physician density**<br>
 0.47 physicians/1,000 population (2018)<br>
@@ -246,9 +246,9 @@ temperate; cool to cold, dry winters; hot, wet summers<br>
 
 **Land use**<br>
 _agricultural land_: 76.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 10.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 65.9% (2018 est.)<br>
+_arable land_: arable land: 10.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 65.9% (2018 est.)<br>
 _forest_: 1.5% (2018 est.)<br>
 _other_: 22.4% (2018 est.)<br>
 
@@ -458,7 +458,7 @@ _imports of goods and services_: -98.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-milk, potatoes, maize, vegetables, fruits, beans, wheat, game meat, sorghum, wool (2022)<br>
+milk, potatoes, maize, vegetables, fruits, sorghum, wheat, game meat, beans, wool (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -529,11 +529,11 @@ $1.082 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-South Africa 37%, US 28%, Belgium 19%, UAE 6%, UK 3% (2022)<br>
+South Africa 31%, Belgium 26%, USA 20%, UAE 8%, India 8% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-garments, diamonds, water, wool, power equipment (2022)<br>
+diamonds, garments, wool, power equipment, bedding (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -543,11 +543,11 @@ $2.223 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-South Africa 77%, China 6%, Taiwan 5%, Zimbabwe 4%, India 2% (2022)<br>
+South Africa 78%, China 10%, Taiwan 3%, Japan 1%, India 1% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, fabric, cotton, garments, electricity (2022)<br>
+refined petroleum, fabric, trucks, garments, cotton fabric (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

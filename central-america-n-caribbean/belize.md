@@ -53,9 +53,9 @@ arable land potential, timber, fish, hydropower<br>
 
 **Land use**<br>
 _agricultural land_: 6.9% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 3.3% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.4% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 2.2% (2018 est.)<br>
+_arable land_: arable land: 3.3% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.4% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 2.2% (2018 est.)<br>
 _forest_: 60.6% (2018 est.)<br>
 _other_: 32.5% (2018 est.)<br>
 
@@ -173,7 +173,7 @@ _unimproved: rural_: rural: 0.6% of population<br>
 _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.9% of GDP (2020)<br>
+5% of GDP (2021)<br>
 
 **Physician density**<br>
 1.08 physicians/1,000 population (2018)<br>
@@ -242,9 +242,9 @@ tropical; very hot and humid; rainy season (May to November); dry season (Februa
 
 **Land use**<br>
 _agricultural land_: 6.9% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 3.3% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.4% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 2.2% (2018 est.)<br>
+_arable land_: arable land: 3.3% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.4% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 2.2% (2018 est.)<br>
 _forest_: 60.6% (2018 est.)<br>
 _other_: 32.5% (2018 est.)<br>
 
@@ -339,7 +339,7 @@ _term in office_: 5 years<br>
 _most recent election date_: 11/11/2020<br>
 _parties elected and seats per party_: People's United Party (PUP) (26); United Democratic Party (UDP) (5)<br>
 _percentage of women in chamber_: 15.6%<br>
-_expected date of next election_: November 2025<br>
+_expected date of next election_: March 2025<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate<br>
@@ -348,7 +348,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 12/11/2020<br>
 _percentage of women in chamber_: 28.6%<br>
-_expected date of next election_: November 2025<br>
+_expected date of next election_: March 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Judicature (consists of the Court of Appeal with the court president and 3 justices, and the Supreme Court with the chief justice and 10 justices); note - in 2010, Belize acceded to the Caribbean Court of Justice as the final court of appeal, replacing that of the Judicial Committee of the Privy Council in London<br>
@@ -505,11 +505,11 @@ $1.043 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 22%, UK 16%, Guatemala 10%, Spain 7%, Honduras 5% (2022)<br>
+USA 22%, UK 14%, Spain 9%, Guatemala 7%, Portugal 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-raw sugar, bananas, shellfish, bran, refined petroleum (2022)<br>
+raw sugar, bananas, fish, shellfish, refined petroleum (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -519,11 +519,11 @@ $1.249 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-US 33%, China 23%, Guatemala 9%, Mexico 8%, Canada 3% (2022)<br>
+USA 37%, China 17%, Guatemala 10%, Mexico 8%, Costa Rica 6% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, ships, tobacco, garments, plastic products (2022)<br>
+refined petroleum, orthopedic appliances, ships, garments, tobacco (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

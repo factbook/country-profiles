@@ -55,9 +55,9 @@ petroleum, natural gas, iron ore, gold, bauxite, other minerals, hydropower, dia
 
 **Land use**<br>
 _agricultural land_: 24.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 3.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 20.6% (2018 est.)<br>
+_arable land_: arable land: 3.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 20.6% (2018 est.)<br>
 _forest_: 52.1% (2018 est.)<br>
 _other_: 23.4% (2018 est.)<br>
 
@@ -182,7 +182,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 5.8% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-3.8% of GDP (2020)<br>
+4% of GDP (2021)<br>
 
 **Physician density**<br>
 1.73 physicians/1,000 population (2017)<br>
@@ -237,9 +237,9 @@ tropical; hot, humid; more moderate in highlands<br>
 
 **Land use**<br>
 _agricultural land_: 24.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 3.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 20.6% (2018 est.)<br>
+_arable land_: arable land: 3.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 20.6% (2018 est.)<br>
 _forest_: 52.1% (2018 est.)<br>
 _other_: 23.4% (2018 est.)<br>
 
@@ -340,7 +340,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 12/6/2020<br>
 _parties elected and seats per party_: Democratic Unity Roundtable alliance (MUD) (109); United Socialist Party of Venezuela (PSUV) (55)<br>
-_percentage of women in chamber_: 22.2%<br>
+_percentage of women in chamber_: 32.1%<br>
 _expected date of next election_: April 2025<br>
 <strong>note:</strong> in 2020, the National Electoral Council increased the number of seats in the National Assembly from 167 to 277 for the December 2020 election<br>
 
@@ -432,7 +432,7 @@ _imports of goods and services_: -31.4% (2014 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-milk, sugarcane, maize, plantains, oil palm fruit, bananas, rice, potatoes, pineapples, chicken (2022)<br>
+milk, sugarcane, maize, rice, plantains, oil palm fruit, bananas, chicken, pineapples, potatoes (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -493,11 +493,11 @@ $28.684 billion (2016 est.)<br>
 <strong>note:</strong> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 16%, Turkey 14%, Spain 12%, US 10%, Brazil 8% (2022)<br>
+USA 50%, China 10%, Spain 9%, Brazil 6%, Turkey 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-scrap iron, petroleum coke, crude petroleum, acyclic alcohols, aluminum (2022)<br>
+crude petroleum, petroleum coke, scrap iron, alcohols, fertilizers (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -507,11 +507,11 @@ $25.81 billion (2016 est.)<br>
 <strong>note:</strong> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 31%, US 23%, Brazil 14%, Colombia 7%, Turkey 4% (2022)<br>
+China 35%, USA 24%, Brazil 12%, Colombia 7%, Turkey 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-soybean oil, wheat, soybean meal, corn, plastic products (2022)<br>
+refined petroleum, soybean meal, corn, plastic products, vehicle parts/accessories (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

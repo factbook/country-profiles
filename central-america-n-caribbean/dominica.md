@@ -52,9 +52,9 @@ timber, hydropower, arable land<br>
 
 **Land use**<br>
 _agricultural land_: 34.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 24% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 2.7% (2018 est.)<br>
+_arable land_: arable land: 8% (2018 est.)<br>
+_permanent crops_: permanent crops: 24% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 2.7% (2018 est.)<br>
 _forest_: 59.2% (2018 est.)<br>
 _other_: 6.1% (2018 est.)<br>
 
@@ -159,7 +159,7 @@ _improved: urban_: urban: 95.7% of population<br>
 _unimproved: urban_: urban: 4.3% of population<br>
 
 **Current health expenditure**<br>
-5.7% of GDP (2020)<br>
+6.5% of GDP (2021)<br>
 
 **Physician density**<br>
 1.1 physicians/1,000 population (2018)<br>
@@ -208,9 +208,9 @@ tropical; moderated by northeast trade winds; heavy rainfall<br>
 
 **Land use**<br>
 _agricultural land_: 34.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 24% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 2.7% (2018 est.)<br>
+_arable land_: arable land: 8% (2018 est.)<br>
+_permanent crops_: permanent crops: 24% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 2.7% (2018 est.)<br>
 _forest_: 59.2% (2018 est.)<br>
 _other_: 6.1% (2018 est.)<br>
 
@@ -300,7 +300,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 12/6/2022<br>
 _parties elected and seats per party_: Dominica Labor Party (DLP) (19); Independents (2)<br>
-_percentage of women in chamber_: 37.5%<br>
+_percentage of women in chamber_: 40.6%<br>
 _expected date of next election_: December 2027<br>
 
 **Judicial branch**<br>
@@ -389,7 +389,7 @@ _imports of goods and services_: -77.8% (2018 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-taro, grapefruits, yams, bananas, plantains, coconuts, milk, yautia, oranges, sugarcane (2022)<br>
+taro, grapefruits, yams, bananas, coconuts, plantains, milk, yautia, sugarcane, oranges (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -429,11 +429,11 @@ $117.709 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Bahamas, The 12%, Guyana 8%, Antigua and Barbuda 7%, Dominican Republic 7%, Barbados 6% (2022)<br>
+Bahamas, The 13%, Saudi Arabia 11%, Iceland 10%, Guyana 7%, Antigua &amp; Barbuda 7% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-power equipment, soap, raw iron bars, natural gas, tropical fruits (2022)<br>
+iron blocks, medical instruments, excavation machinery, power equipment, soap (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -443,11 +443,11 @@ $313.729 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-US 51%, China 9%, Indonesia 4%, Trinidad and Tobago 4%, Italy 3% (2022)<br>
+USA 24%, China 11%, Indonesia 8%, Trinidad &amp; Tobago 7%, Italy 7% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, natural gas, crude petroleum, plastic products, cars (2022)<br>
+refined petroleum, ships, plastic products, semi-finished iron, cars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
@@ -498,10 +498,10 @@ _Total energy consumption per capita 2022_: 35.086 million Btu/person (2022 est.
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 7,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 10 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 62,000 (2021 est.)<br>
+_total subscriptions_: 57,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 86 (2021 est.)<br>
 
 **Telecommunication systems**<br>
@@ -516,11 +516,11 @@ no terrestrial TV service available; subscription cable TV provider offers some 
 .dm<br>
 
 **Internet users**<br>
-_percent of population_: 81% (2021 est.)<br>
+_percent of population_: 83% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 16,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 22 (2020 est.)<br>
+_total_: 14,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 21 (2022 est.)<br>
 
 ## Transportation
 

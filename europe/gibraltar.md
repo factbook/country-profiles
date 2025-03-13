@@ -152,9 +152,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 NA<br>
 
@@ -325,19 +322,19 @@ tourism, banking and finance, ship repairing, tobacco<br>
 $202.3 million (2014 est.)<br>
 
 **Exports - partners**<br>
-Ireland 20%, India 18%, Brazil 12%, Netherlands 10%, South Korea 8% (2022)<br>
+Netherlands 38%, France 26%, Cyprus 7%, Poland 7%, Sweden 6% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, crude petroleum, ships, cars, natural gas (2022)<br>
+refined petroleum, natural gas, ships, cars, scrap iron (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports - partners**<br>
-Spain 19%, Italy 17%, Greece 11%, Nigeria 10%, UK 6% (2022)<br>
+Italy 26%, Greece 12%, Spain 10%, Netherlands 9%, India 9% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, crude petroleum, coal tar oil, ships, cars (2022)<br>
+refined petroleum, crude petroleum, coal tar oil, natural gas, ships (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>

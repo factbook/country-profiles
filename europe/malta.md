@@ -53,9 +53,9 @@ limestone, salt, arable land<br>
 
 **Land use**<br>
 _agricultural land_: 32.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 28.4% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 3.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 28.4% (2018 est.)<br>
+_permanent crops_: permanent crops: 3.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 0.9% (2018 est.)<br>
 _other_: 66.8% (2018 est.)<br>
 
@@ -171,7 +171,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-10.8% of GDP (2020)<br>
+10.6% of GDP (2021)<br>
 
 **Physician density**<br>
 2.86 physicians/1,000 population (2015)<br>
@@ -236,9 +236,9 @@ Mediterranean; mild, rainy winters; hot, dry summers<br>
 
 **Land use**<br>
 _agricultural land_: 32.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 28.4% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 3.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 28.4% (2018 est.)<br>
+_permanent crops_: permanent crops: 3.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 0.9% (2018 est.)<br>
 _other_: 66.8% (2018 est.)<br>
 
@@ -502,11 +502,11 @@ $22.605 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 12%, Italy 6%, France 6%, Japan 5%, Singapore 5% (2022)<br>
+Nigeria 28%, Germany 10%, China 6%, Singapore 5%, Hong Kong 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-integrated circuits, packaged medicine, refined petroleum, fish, postage stamps/documents (2022)<br>
+refined petroleum, integrated circuits, packaged medicine, ships, postage stamps/documents (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -516,11 +516,11 @@ $18.795 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Italy 14%, China 11%, South Korea 11%, Germany 10%, Canada 5% (2022)<br>
+Italy 18%, China 10%, Germany 8%, France 7%, Turkey 7% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-ships, refined petroleum, aircraft, integrated circuits, packaged medicine (2022)<br>
+ships, refined petroleum, integrated circuits, aircraft, packaged medicine (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

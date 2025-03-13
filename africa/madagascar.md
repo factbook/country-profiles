@@ -54,9 +54,9 @@ graphite, chromite, coal, bauxite, rare earth elements, salt, quartz, tar sands,
 
 **Land use**<br>
 _agricultural land_: 71.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 6% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 64.1% (2018 est.)<br>
+_arable land_: arable land: 6% (2018 est.)<br>
+_permanent crops_: permanent crops: 1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 64.1% (2018 est.)<br>
 _forest_: 21.5% (2018 est.)<br>
 _other_: 7.4% (2018 est.)<br>
 
@@ -176,7 +176,7 @@ _unimproved: rural_: rural: 62% of population<br>
 _unimproved: total_: total: 43.9% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-3.9% of GDP (2020)<br>
+3.5% of GDP (2021)<br>
 
 **Physician density**<br>
 0.2 physicians/1,000 population (2018)<br>
@@ -246,9 +246,9 @@ tropical along coast, temperate inland, arid in south<br>
 
 **Land use**<br>
 _agricultural land_: 71.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 6% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 64.1% (2018 est.)<br>
+_arable land_: arable land: 6% (2018 est.)<br>
+_permanent crops_: permanent crops: 1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 64.1% (2018 est.)<br>
 _forest_: 21.5% (2018 est.)<br>
 _other_: 7.4% (2018 est.)<br>
 
@@ -505,11 +505,11 @@ $2.589 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 18%, France 15%, China 13%, Japan 11%, Germany 4% (2022)<br>
+USA 16%, France 15%, Japan 8%, China 6%, S. Korea 6% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-nickel, garments, vanilla, cloves, cobalt (2022)<br>
+garments, nickel, vanilla, cloves, gold (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -519,11 +519,11 @@ $3.718 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 24%, India 10%, France 9%, Oman 6%, South Africa 6% (2022)<br>
+China 19%, Oman 13%, France 10%, India 8%, South Africa 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, rice, fabric, palm oil, cotton fabric (2022)<br>
+refined petroleum, rice, fabric, cotton fabric, wheat (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

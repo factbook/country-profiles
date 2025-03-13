@@ -52,9 +52,9 @@ nickel, lead, zinc, magnesium, lignite, kaolin, chrome, bauxite<br>
 
 **Land use**<br>
 _agricultural land_: 52.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 27.4% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 23.5% (2018 est.)<br>
+_arable land_: arable land: 27.4% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 23.5% (2018 est.)<br>
 _forest_: 41.7% (2018 est.)<br>
 _other_: 5.5% (2018 est.)<br>
 
@@ -163,9 +163,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 NA<br>
 
@@ -193,9 +190,9 @@ influenced by continental air masses resulting in relatively cold winters with h
 
 **Land use**<br>
 _agricultural land_: 52.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 27.4% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 23.5% (2018 est.)<br>
+_arable land_: arable land: 27.4% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 23.5% (2018 est.)<br>
 _forest_: 41.7% (2018 est.)<br>
 _other_: 5.5% (2018 est.)<br>
 
@@ -444,7 +441,8 @@ $3.138 billion (2021 est.)<br>
 United States 16%, Albania 15%, North Macedonia 12%, Germany 8%, Italy 8% (2021)<br>
 
 **Exports - commodities**<br>
-mattress materials, iron alloys, metal piping, scrap iron, building plastics, mineral water, seating (2021)<br>
+mattress materials, iron alloys, metal piping, scrap iron, building plastics (2021)<br>
+top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $7.362 billion (2023 est.)<br>

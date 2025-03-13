@@ -52,9 +52,9 @@ petroleum, uranium, natron, kaolin, fish (Lake Chad), gold, limestone, sand and 
 
 **Land use**<br>
 _agricultural land_: 39.6% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 3.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 35.7% (2018 est.)<br>
+_arable land_: arable land: 3.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 35.7% (2018 est.)<br>
 _forest_: 9.1% (2018 est.)<br>
 _other_: 51.3% (2018 est.)<br>
 
@@ -183,7 +183,7 @@ _unimproved: rural_: rural: 48.1% of population<br>
 _unimproved: total_: total: 39.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.4% of GDP (2020)<br>
+5.2% of GDP (2021)<br>
 
 **Physician density**<br>
 0.06 physicians/1,000 population (2020)<br>
@@ -250,9 +250,9 @@ tropical in south, desert in north<br>
 
 **Land use**<br>
 _agricultural land_: 39.6% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 3.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 35.7% (2018 est.)<br>
+_arable land_: arable land: 3.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 35.7% (2018 est.)<br>
 _forest_: 9.1% (2018 est.)<br>
 _other_: 51.3% (2018 est.)<br>
 
@@ -350,16 +350,27 @@ _election results_: <em><br>2024: </em>Mahamat Idriss DÉBY elected president; p
 <strong>note:</strong> on 20 April 2021; President Idriss DÉBY died of injuries sustained following clashes between government forces and insurgents in northern Chad; following his death, Mahamat Idriss DÉBY , his son, took control of the country, established a Transitional Military Council which was dissolved in October 2022, and was elected president by popular vote in May 2024<br>
 
 **Legislative branch**<br>
-_legislature name_: Parliament (Parlement)<br>
-_legislative structure_: unicameral<br>
+_legislature name_: Parliament<br>
+_legislative structure_: bicameral<br>
+
+**Legislative branch - lower chamber**<br>
 _chamber name_: National Assembly (Conseil national de transition)<br>
 _number of seats_: 188 (all directly elected)<br>
 _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 12/29/2024<br>
+_parties elected and seats per party_: Patriotic Salvation Movement (MPS) (124); Rally of Chadian Nationalists/Awakening (RNDT/ Le Réveil) (12); Others (27); Other (25)<br>
 _percentage of women in chamber_: 34%<br>
 _expected date of next election_: December 2029<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Senate)<br>
+_number of seats_: 69 (46 indirectly elected; 23 appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 6 years<br>
+_most recent election date_: 2/25/2025<br>
+_expected date of next election_: February 2031<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice, 3 chamber presidents, and 12 judges or councilors and divided into 3 chambers); Supreme Council of the Judiciary (consists of the Judiciary president, vice president and 13 members)<br>
@@ -453,7 +464,7 @@ _imports of goods and services_: -48.1% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-sorghum, groundnuts, millet, cereals, beef, sugarcane, yams, maize, cassava, milk (2022)<br>
+sorghum, groundnuts, millet, beef, cereals, yams, sugarcane, maize, cassava, milk (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -518,11 +529,11 @@ $2.863 billion (2020 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 25%, China 21%, UAE 20%, Taiwan 12%, France 10% (2022)<br>
+UAE 26%, China 19%, Germany 17%, Netherlands 13%, France 10% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, gold, oil seeds, gum resins, cotton (2022)<br>
+crude petroleum, gold, oil seeds, gum resins, cotton (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -532,11 +543,11 @@ $4.502 billion (2020 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 25%, UAE 20%, France 7%, US 7%, Belgium 7% (2022)<br>
+China 28%, UAE 23%, Turkey 10%, France 9%, India 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-vaccines, jewelry, electric generators, broadcasting equipment, packaged medicine (2022)<br>
+jewelry, broadcasting equipment, packaged medicine, cars, refined petroleum (2023)<br>
 <strong>note:</strong> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

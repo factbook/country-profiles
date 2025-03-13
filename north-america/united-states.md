@@ -60,9 +60,9 @@ coal, copper, lead, molybdenum, phosphates, rare earth elements, uranium, bauxit
 
 **Land use**<br>
 _agricultural land_: 44.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 16.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 27.4% (2018 est.)<br>
+_arable land_: arable land: 16.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 27.4% (2018 est.)<br>
 _forest_: 33.3% (2018 est.)<br>
 _other_: 22.2% (2018 est.)<br>
 
@@ -192,7 +192,7 @@ _unimproved: rural_: rural: 0.3% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-18.8% of GDP (2020)<br>
+16.6% of GDP (2022)<br>
 
 **Physician density**<br>
 2.61 physicians/1,000 population (2018)<br>
@@ -257,9 +257,9 @@ mostly temperate, but tropical in Hawaii and Florida, arctic in Alaska, semiarid
 
 **Land use**<br>
 _agricultural land_: 44.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 16.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 27.4% (2018 est.)<br>
+_arable land_: arable land: 16.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 27.4% (2018 est.)<br>
 _forest_: 33.3% (2018 est.)<br>
 _other_: 22.2% (2018 est.)<br>
 
@@ -544,11 +544,11 @@ $2.571 trillion (2021 est.)<br>
 <strong>note:</strong> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Canada 16%, Mexico 15%, China 8%, Japan 4%, UK 4% (2022)<br>
+Canada 14%, Mexico 13%, China 8%, Germany 5%, Japan 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, crude petroleum, natural gas, cars, integrated circuits (2022)<br>
+crude petroleum, refined petroleum, natural gas, gas turbines, cars (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -558,11 +558,11 @@ $3.419 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 18%, Canada 14%, Mexico 14%, Germany 5%, Japan 4% (2022)<br>
+Mexico 15%, China 15%, Canada 14%, Germany 5%, Japan 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-crude petroleum, cars, broadcasting equipment, garments, computers (2022)<br>
+cars, crude petroleum, broadcasting equipment, computers, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
@@ -745,7 +745,7 @@ National Aeronautics and Space Administration (NASA; established 1958); National
 has 20 commercial, government, and private space ports hosting Federal Aviation Administration-licensed activity spread across 10 states (Alabama, Alaska, California, Colorado, Florida, Georgia, New Mexico, Oklahoma, Texas, and Virginia) (2024)<br>
 
 **Space program overview**<br>
-has a large and comprehensive space program and is one of the world’s top space powers; builds, launches, and operates space launch vehicles (SLVs)/rockets and the full spectrum of spacecraft, including interplanetary probes, manned craft, reusable rockets, satellites, space stations, and space planes; has an astronaut program and a large corps of astronauts; researching and developing a broad range of other space-related capabilities and technologies, such as advanced telecommunications and optics, navigational aids, propulsion, robotics, solar sails, space-based manufacturing, and robotic satellite repair/refueling; has launched orbital or lander probes to the Sun and all planets in the solar system, as well as to asteroids and beyond the solar system; has international missions and projects with dozens of countries and organizations, including such major partners as Canada, Japan, Russia, and South Korea, as well as the European Space Agency (ESA), the EU, and their individual member states; as of December 2024, more than 50 countries had signed onto the US-led Artemis Accords, whose purpose is to establish principles, guidelines, and best practices to enhance the governance of the civil exploration and use of outer space with the intention of advancing the Artemis Program, an international effort to establish a sustainable and robust presence on the Moon and an onward human mission to Mars; the US commercial space industry is one of the world’s largest and most capable and is active across the entire spectrum of US government space programs; the majority of both NASA and US military space launches are conducted by US commercial companies; the US space economy was valued at over $200 billion in 2021 (2024)<br>
+has a large and comprehensive space program and is one of the world’s top space powers; builds, launches, and operates space launch vehicles (SLVs)/rockets and the full spectrum of spacecraft, including interplanetary probes, manned craft, reusable rockets, satellites, space stations, and space planes; has an astronaut program and a large corps of astronauts; researching and developing a broad range of other space-related capabilities and technologies, such as advanced telecommunications and optics, navigational aids, propulsion, robotics, solar sails, space-based manufacturing, and robotic satellite repair/refueling; has launched orbital or lander probes to the Sun and all planets in the solar system, as well as to asteroids and beyond the solar system; has international missions and projects with dozens of countries and organizations, including such major partners as Canada, Japan, Russia, and South Korea, as well as the European Space Agency (ESA), the EU, and their individual member states; as of January 2025, more than 50 countries had signed onto the US-led Artemis Accords, whose purpose is to establish principles, guidelines, and best practices to enhance the governance of the civil exploration and use of outer space with the intention of advancing the Artemis Program, an international effort to establish a sustainable and robust presence on the Moon and an onward human mission to Mars; the US commercial space industry is one of the world’s largest and most capable and is active across the entire spectrum of US government space programs; the majority of both NASA and US military space launches are conducted by US commercial companies; the US space economy was valued at over $200 billion in 2021 (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

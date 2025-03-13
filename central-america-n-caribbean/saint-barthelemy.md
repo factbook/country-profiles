@@ -130,9 +130,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 NA<br>
 
@@ -252,19 +249,19 @@ _lyrics/music_: Isabelle Massart DERAVIN/Michael VALENTI<br>
 high-income French Caribbean territorial economy; duty-free luxury commerce and tourism industries; import-dependent for food, water, energy, and manufacturing; large Brazilian and Portuguese labor supply; environmentally fragile<br>
 
 **Exports - partners**<br>
-Nigeria 98%, Suriname 1%, France 0%, Switzerland 0%, Poland 0% (2022)<br>
+Spain 57%, Switzerland 24%, France 6%, Ireland 5%, Canada 2% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, fruit juice, precious metal watches, beauty products, special pharmaceuticals (2022)<br>
-<b>note:</b> top five export commodities based on value in dollars<br>
+refined copper, jewelry (2023)<br>
+<strong>note:</strong> top export commodities based on value in dollars over $500,000<br>
 
 **Imports - partners**<br>
-Switzerland 37%, Italy 14%, Portugal 11%, Suriname 9%, Brazil 5% (2022)<br>
+Switzerland 50%, Portugal 14%, Brazil 6%, Japan 5%, Ireland 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-precious metal watches, base metal watches, jewelry, refined petroleum, cars (2022)<br>
+precious metal watches, base metal watches, jewelry, cars, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>

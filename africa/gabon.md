@@ -54,9 +54,9 @@ petroleum, natural gas, diamond, niobium, manganese, uranium, gold, timber, iron
 
 **Land use**<br>
 _agricultural land_: 19% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 1.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 17.2% (2018 est.)<br>
+_arable land_: arable land: 1.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.6% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 17.2% (2018 est.)<br>
 _forest_: 81% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 44.7% of population<br>
 _unimproved: total_: total: 6.9% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-3.4% of GDP (2020)<br>
+2.7% of GDP (2021)<br>
 
 **Physician density**<br>
 0.65 physicians/1,000 population (2018)<br>
@@ -236,9 +236,9 @@ tropical; always hot, humid<br>
 
 **Land use**<br>
 _agricultural land_: 19% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 1.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 17.2% (2018 est.)<br>
+_arable land_: arable land: 1.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.6% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 17.2% (2018 est.)<br>
 _forest_: 81% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
@@ -390,6 +390,9 @@ _lyrics/music_: Georges Aleka DAMAS<br>
 _total World Heritage Sites_: 2 (1 natural, 1 mixed)<br>
 _selected World Heritage Site locales_: Ecosystem and Relict Cultural Landscape of Lop&eacute;-Okanda (m); Ivindo National Park (n)<br>
 
+**National coat of arms**<br>
+On Gabon’s coat of arms, the panthers represent vigilance and courage, and they support a shield with a ship and an okoume tree, which is a symbol of the timber trade. The ribbon below the shield has the national motto in French, <em>Union, Travail, Justice</em> ("Union, Work, Justice"), and the ribbon above the shield has the Latin phrase <em>Uniti Progrediemur</em> ("We shall go forward united").<br>
+
 ## Economy
 
 **Economic overview**<br>
@@ -515,11 +518,11 @@ $7.275 billion (2020 est.)<br>
 <strong>note:</strong> GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 43%, South Korea 8%, Italy 7%, India 7%, Indonesia 5% (2022)<br>
+China 26%, Indonesia 8%, Spain 7%, Israel 6%, Congo, Republic of the 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, manganese ore, wood, veneer sheets, refined petroleum (2022)<br>
+crude petroleum, ships, manganese ore, refined petroleum, wood (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -529,11 +532,11 @@ $3.454 billion (2020 est.)<br>
 <strong>note:</strong> GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 22%, France 21%, UAE 5%, US 5%, Belgium 4% (2022)<br>
+France 14%, China 13%, S. Korea 13%, USA 7%, India 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-poultry, plastic products, iron pipes, fish, excavation machinery (2022)<br>
+ships, refined petroleum, iron pipes, cars, packaged medicine (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

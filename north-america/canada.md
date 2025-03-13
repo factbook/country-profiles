@@ -57,9 +57,9 @@ bauxite, iron ore, nickel, zinc, copper, gold, lead, uranium, rare earth element
 
 **Land use**<br>
 _agricultural land_: 6.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 4.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 1.6% (2018 est.)<br>
+_arable land_: arable land: 4.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 1.6% (2018 est.)<br>
 _forest_: 34.1% (2018 est.)<br>
 _other_: 59.1% (2018 est.)<br>
 
@@ -188,7 +188,7 @@ _unimproved: rural_: rural: 0.9% of population<br>
 _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-12.9% of GDP (2020)<br>
+11.2% of GDP (2022)<br>
 
 **Physician density**<br>
 2.44 physicians/1,000 population (2019)<br>
@@ -252,9 +252,9 @@ varies from temperate in south to subarctic and arctic in north<br>
 
 **Land use**<br>
 _agricultural land_: 6.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 4.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 1.6% (2018 est.)<br>
+_arable land_: arable land: 4.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 1.6% (2018 est.)<br>
 _forest_: 34.1% (2018 est.)<br>
 _other_: 59.1% (2018 est.)<br>
 
@@ -373,7 +373,7 @@ _expected date of next election_: October 2025<br>
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate<br>
 _number of seats_: 105 (all appointed)<br>
-_percentage of women in chamber_: 53.6%<br>
+_percentage of women in chamber_: 53.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Canada (consists of the chief justice and 8 judges); note - in 1949, Canada abolished all appeals beyond its Supreme Court, which prior to that time, were heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -546,11 +546,11 @@ $626.676 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 75%, China 4%, Japan 2%, UK 2%, Mexico 1% (2022)<br>
+USA 71%, China 5%, UK 3%, Japan 2%, Mexico 2% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, cars, natural gas, refined petroleum, gold (2022)<br>
+crude petroleum, cars, gold, natural gas, refined petroleum (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -560,11 +560,11 @@ $626.558 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-US 56%, China 11%, Mexico 4%, Germany 3%, Japan 2% (2022)<br>
+USA 51%, China 11%, Mexico 6%, Germany 3%, Japan 3% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars, refined petroleum, vehicle parts/accessories, trucks, crude petroleum (2022)<br>
+cars, trucks, vehicle parts/accessories, refined petroleum, crude petroleum (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

@@ -55,9 +55,9 @@ cobalt, nickel, iron ore, chromium, copper, salt, timber, silica, petroleum, ara
 
 **Land use**<br>
 _agricultural land_: 60.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 33.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 3.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 22.9% (2018 est.)<br>
+_arable land_: arable land: 33.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 3.6% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 22.9% (2018 est.)<br>
 _forest_: 27.3% (2018 est.)<br>
 _other_: 12.4% (2018 est.)<br>
 
@@ -172,7 +172,7 @@ _unimproved: rural_: rural: 3% of population<br>
 _unimproved: total_: total: 1.5% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-12.5% of GDP (2020)<br>
+13.8% of GDP (2021)<br>
 
 **Physician density**<br>
 8.42 physicians/1,000 population (2018)<br>
@@ -245,9 +245,9 @@ tropical; moderated by trade winds; dry season (November to April); rainy season
 
 **Land use**<br>
 _agricultural land_: 60.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 33.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 3.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 22.9% (2018 est.)<br>
+_arable land_: arable land: 33.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 3.6% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 22.9% (2018 est.)<br>
 _forest_: 27.3% (2018 est.)<br>
 _other_: 12.4% (2018 est.)<br>
 
@@ -439,7 +439,7 @@ _imports of goods and services_: -48.8% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-sugarcane, cassava, plantains, vegetables, mangoes/guavas, milk, pumpkins/squash, tomatoes, sweet potatoes, bananas (2022)<br>
+sugarcane, cassava, plantains, vegetables, mangoes/guavas, milk, tomatoes, pumpkins/squash, sweet potatoes, bananas (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -486,11 +486,11 @@ $14.53 billion (2018 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 40%, Spain 13%, Germany 5%, Portugal 4%, Switzerland 4% (2022)<br>
+China 34%, Spain 12%, Germany 6%, Switzerland 5%, Hong Kong 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-tobacco, nickel, zinc ore, liquor, raw sugar (2022)<br>
+tobacco, nickel, liquor, zinc ore, precious metal ore (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -500,11 +500,11 @@ $12.567 billion (2018 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Spain 23%, China 12%, US 10%, Brazil 8%, Netherlands 6% (2022)<br>
+Spain 24%, China 13%, Netherlands 10%, USA 9%, Canada 6% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-poultry, wheat, milk, plastic products, soybean oil (2022)<br>
+beer, poultry, rice, plastic products, soybean oil (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

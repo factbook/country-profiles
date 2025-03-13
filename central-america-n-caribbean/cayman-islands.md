@@ -52,9 +52,9 @@ fish, climate and beaches that foster tourism<br>
 
 **Land use**<br>
 _agricultural land_: 11.2% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 8.3% (2018 est.)<br>
+_arable land_: arable land: 0.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 2.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 8.3% (2018 est.)<br>
 _forest_: 52.9% (2018 est.)<br>
 _other_: 35.9% (2018 est.)<br>
 
@@ -162,9 +162,6 @@ _improved: total_: total: 97.4% of population<br>
 _unimproved: urban_: urban: 2.6% of population<br>
 _unimproved: total_: total: 2.6% of population (2015 est.)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 NA<br>
 
@@ -198,9 +195,9 @@ tropical marine; warm, rainy summers (May to October) and cool, relatively dry w
 
 **Land use**<br>
 _agricultural land_: 11.2% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 8.3% (2018 est.)<br>
+_arable land_: arable land: 0.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 2.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 8.3% (2018 est.)<br>
 _forest_: 52.9% (2018 est.)<br>
 _other_: 35.9% (2018 est.)<br>
 
@@ -401,11 +398,11 @@ $3.951 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Malta 30%, Norway 22%, Seychelles 16%, Grenada 8%, US 5% (2022)<br>
+UK 40%, Cyprus 21%, Germany 9%, Grenada 8%, Italy 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-ships, aircraft, refined petroleum, natural gas, broadcasting equipment (2022)<br>
+aircraft, ships, refined petroleum, natural gas, broadcasting equipment (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -415,11 +412,11 @@ $2.51 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-US 47%, Italy 19%, Turkey 7%, Germany 6%, Switzerland 4% (2022)<br>
+Germany 30%, USA 29%, Italy 20%, Turkey 5%, China 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-ships, refined petroleum, diamonds, cars, gold (2022)<br>
+ships, refined petroleum, cars, furniture, jewelry (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

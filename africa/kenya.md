@@ -54,9 +54,9 @@ limestone, soda ash, salt, gemstones, fluorspar, zinc, diatomite, gypsum, wildli
 
 **Land use**<br>
 _agricultural land_: 48.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 9.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 37.4% (2018 est.)<br>
+_arable land_: arable land: 9.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 37.4% (2018 est.)<br>
 _forest_: 6.1% (2018 est.)<br>
 _other_: 45.8% (2018 est.)<br>
 
@@ -186,7 +186,7 @@ _unimproved: rural_: rural: 36.7% of population<br>
 _unimproved: total_: total: 28.8% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.3% of GDP (2020)<br>
+4.5% of GDP (2021)<br>
 
 **Physician density**<br>
 0.16 physicians/1,000 population (2018)<br>
@@ -243,9 +243,9 @@ varies from tropical along coast to arid in interior<br>
 
 **Land use**<br>
 _agricultural land_: 48.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 9.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 37.4% (2018 est.)<br>
+_arable land_: arable land: 9.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 37.4% (2018 est.)<br>
 _forest_: 6.1% (2018 est.)<br>
 _other_: 45.8% (2018 est.)<br>
 
@@ -542,11 +542,11 @@ $11.815 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 10%, Uganda 9%, Pakistan 7%, Netherlands 7%, Rwanda 6% (2022)<br>
+Uganda 10%, USA 10%, UAE 8%, Netherlands 8%, Pakistan 6% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-tea, cut flowers, garments, coffee, titanium ore (2022)<br>
+tea, cut flowers, garments, gold, tropical fruits (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -556,11 +556,11 @@ $22.001 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 26%, UAE 14%, India 11%, Malaysia 4%, Saudi Arabia 4% (2022)<br>
+China 22%, UAE 14%, India 10%, Saudi Arabia 5%, Malaysia 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, palm oil, garments, wheat, plastics (2022)<br>
+refined petroleum, palm oil, wheat, plastics, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

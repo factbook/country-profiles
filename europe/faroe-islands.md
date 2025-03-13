@@ -52,9 +52,9 @@ fish, whales, hydropower, possible oil and gas<br>
 
 **Land use**<br>
 _agricultural land_: 2.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 2.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 0.1% (2018 est.)<br>
 _other_: 97.8% (2018 est.)<br>
 
@@ -161,9 +161,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 2.62 physicians/1,000 population (2016)<br>
 
@@ -202,9 +199,9 @@ mild winters, cool summers; usually overcast; foggy, windy<br>
 
 **Land use**<br>
 _agricultural land_: 2.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 2.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 0.1% (2018 est.)<br>
 _other_: 97.8% (2018 est.)<br>
 
@@ -364,7 +361,7 @@ _imports of goods and services_: -56.6% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-milk, potatoes, lamb/mutton, sheepskins, sheep offal, beef, sheep fat, beef offal, cattle hides, beef suet (2022)<br>
+milk, potatoes, lamb/mutton, sheepskins, sheep offal, beef, sheep fat, beef offal, cattle hides, beef suet (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>

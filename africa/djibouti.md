@@ -54,9 +54,9 @@ potential geothermal power, gold, clay, granite, limestone, marble, salt, diatom
 
 **Land use**<br>
 _agricultural land_: 73.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 73.3% (2018 est.)<br>
+_arable land_: arable land: 0.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 73.3% (2018 est.)<br>
 _forest_: 0.2% (2018 est.)<br>
 _other_: 26.4% (2018 est.)<br>
 
@@ -174,7 +174,7 @@ _unimproved: rural_: rural: 40.7% of population<br>
 _unimproved: total_: total: 9.2% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-2% of GDP (2020)<br>
+2.9% of GDP (2021)<br>
 
 **Physician density**<br>
 0.22 physicians/1,000 population (2014)<br>
@@ -237,9 +237,9 @@ desert; torrid, dry<br>
 
 **Land use**<br>
 _agricultural land_: 73.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 73.3% (2018 est.)<br>
+_arable land_: arable land: 0.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 73.3% (2018 est.)<br>
 _forest_: 0.2% (2018 est.)<br>
 _other_: 26.4% (2018 est.)<br>
 
@@ -496,11 +496,11 @@ $5.16 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Ethiopia 61%, China 17%, India 7%, Jordan 2%, Central African Republic 1% (2022)<br>
+Ethiopia 77%, UAE 5%, China 3%, Singapore 2%, France 2% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-palm oil, chlorides, seed oils, flax yarn, cattle (2022)<br>
+raw sugar, seed oils, cars, palm oil, rice (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -510,11 +510,11 @@ $5.483 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 38%, UAE 20%, India 10%, Morocco 6%, Turkey 6% (2022)<br>
+China 32%, India 12%, UAE 10%, Turkey 6%, Morocco 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, palm oil, fertilizers, cars, raw sugar (2022)<br>
+refined petroleum, palm oil, fertilizers, cars, seed oils (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

@@ -52,9 +52,9 @@ low-grade iron ore, copper, lead, zinc, chromite, manganese, nickel, tungsten, g
 
 **Land use**<br>
 _agricultural land_: 44.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 16.4% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.4% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 26.5% (2018 est.)<br>
+_arable land_: arable land: 16.4% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.4% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 26.5% (2018 est.)<br>
 _forest_: 39.8% (2018 est.)<br>
 _other_: 15.9% (2018 est.)<br>
 
@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 1% of population<br>
 _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.9% of GDP (2020)<br>
+8.5% of GDP (2021)<br>
 
 **Physician density**<br>
 2.87 physicians/1,000 population (2015)<br>
@@ -239,9 +239,9 @@ warm, dry summers and autumns; relatively cold winters with heavy snowfall<br>
 
 **Land use**<br>
 _agricultural land_: 44.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 16.4% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.4% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 26.5% (2018 est.)<br>
+_arable land_: arable land: 16.4% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.4% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 26.5% (2018 est.)<br>
 _forest_: 39.8% (2018 est.)<br>
 _other_: 15.9% (2018 est.)<br>
 
@@ -515,11 +515,11 @@ $9.208 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 42%, Serbia 8%, Greece 7%, Bulgaria 5%, Italy 3% (2022)<br>
+Germany 39%, Serbia 8%, Bulgaria 6%, Greece 5%, Czechia 3% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-reaction and catalytic products, insulated wire, electricity, garments, vehicle parts/accessories (2022)<br>
+reaction and catalytic products, insulated wire, electricity, garments, seats (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -529,11 +529,11 @@ $11.362 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-UK 16%, Greece 13%, Germany 9%, Serbia 8%, China 6% (2022)<br>
+UK 12%, Germany 10%, Greece 9%, China 9%, Serbia 8% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-platinum, refined petroleum, electricity, precious metal compounds, natural gas (2022)<br>
+platinum, refined petroleum, laboratory ceramic ware, cars, natural gas (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

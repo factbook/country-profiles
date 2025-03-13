@@ -54,9 +54,9 @@ coal, lignite, natural gas, iron ore, copper, nickel, uranium, potash, salt, con
 
 **Land use**<br>
 _agricultural land_: 48% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 34.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 13.3% (2018 est.)<br>
+_arable land_: arable land: 34.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.6% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 13.3% (2018 est.)<br>
 _forest_: 31.8% (2018 est.)<br>
 _other_: 20.2% (2018 est.)<br>
 
@@ -184,7 +184,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-12.8% of GDP (2020)<br>
+12.7% of GDP (2022)<br>
 
 **Physician density**<br>
 4.44 physicians/1,000 population (2020)<br>
@@ -248,9 +248,9 @@ temperate and marine; cool, cloudy, wet winters and summers; occasional warm mou
 
 **Land use**<br>
 _agricultural land_: 48% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 34.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 13.3% (2018 est.)<br>
+_arable land_: arable land: 34.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.6% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 13.3% (2018 est.)<br>
 _forest_: 31.8% (2018 est.)<br>
 _other_: 20.2% (2018 est.)<br>
 
@@ -357,14 +357,14 @@ _legislative structure_: bicameral<br>
 
 **Legislative branch - lower chamber**<br>
 _chamber name_: German Bundestag (Deutscher Bundestag)<br>
-_number of seats_: 598 (all directly elected)<br>
+_number of seats_: 630 (all directly elected)<br>
 _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 9/26/2021<br>
+_most recent election date_: 2/23/2025<br>
 _parties elected and seats per party_: Social Democratic Party (SPD) (206); Christian Democratic Union (CDU) (152); Green Party (118); Free Democratic Party (FDP) (92); Alternative for Germany (AfD) (83); Christian Social Union of Bavaria (CSU) (45); Left Party (Die Linke) (39); Other (1)<br>
-_percentage of women in chamber_: 35.7%<br>
-_expected date of next election_: February 2025<br>
+_percentage of women in chamber_: 32.4%<br>
+_expected date of next election_: February 2029<br>
 <strong>note 1:</strong> total seats can vary each electoral term; currently includes 4 seats for independent members; approximately one-half of members directly elected in multi-seat constituencies by proportional representation vote and approximately one-half directly elected in single-seat constituencies by simple majority vote; members' terms vary depending on the states they represent<br><strong><br>note 2:</strong> the 20th Bundestag is the largest to date, due to Germany's recognition of "overhang" (when a party's share of the nationwide votes would entitle it to fewer seats than the number of individual constituency seats won in an election) and "leveling" (when additional seats are elected to supplement the members directly elected in order to ensure that each party's share of the total seats is roughly proportional to its overall share of votes at the national level)<br>
 
 **Legislative branch - upper chamber**<br>
@@ -470,7 +470,7 @@ _imports of goods and services_: -39.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-milk, sugar beets, wheat, barley, potatoes, pork, rapeseed, maize, rye, triticale (2022)<br>
+milk, sugar beets, wheat, potatoes, barley, maize, rapeseed, pork, rye, triticale (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -545,11 +545,11 @@ $1.857 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 10%, France 7%, China 7%, Netherlands 7%, Italy 6% (2022)<br>
+USA 10%, France 8%, Netherlands 7%, China 7%, Italy 6% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-cars, packaged medicine, vehicle parts/accessories, vaccines, plastic products (2022)<br>
+cars, vehicle parts/accessories, packaged medicine, plastic products, vaccines (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -559,11 +559,11 @@ $1.632 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 10%, Netherlands 9%, Poland 6%, Belgium 6%, Italy 5% (2022)<br>
+China 12%, Netherlands 7%, USA 7%, Poland 6%, France 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-natural gas, cars, garments, vehicle parts/accessories, crude petroleum (2022)<br>
+cars, vehicle parts/accessories, garments, natural gas, vaccines (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

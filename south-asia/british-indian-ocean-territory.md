@@ -52,9 +52,9 @@ coconuts, fish, sugarcane<br>
 
 **Land use**<br>
 _agricultural land_: 0% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 0% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 100% (2018 est.)<br>
 
@@ -80,9 +80,9 @@ tropical marine; hot, humid, moderated by trade winds<br>
 
 **Land use**<br>
 _agricultural land_: 0% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 0% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 100% (2018 est.)<br>
 
@@ -135,19 +135,19 @@ white with six blue wavy horizontal stripes; the flag of the UK is in the upper 
 small island territory economy; economic activity mainly on Diego Garcia with national military installations; recently settled disputes with Mauritius have increased oil exports; established marine reserve has limited commercial fishing<br>
 
 **Exports - partners**<br>
-Malta 42%, Brazil 11%, Switzerland 9%, France 8%, Egypt 6% (2022)<br>
+Singapore 86%, Pakistan 8%, USA 1%, South Africa 1%, Czechia 1% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-ships, refined petroleum, asphalt, diamonds, jewelry (2022)<br>
-<b>note:</b> top five export commodities based on value in dollars<br>
+fish (2023)<br>
+<strong>note:</strong> top export commodities based on value in dollars over $500,000<br>
 
 **Imports - partners**<br>
-US 34%, Switzerland 13%, China 11%, Italy 11%, France 7% (2022)<br>
+Greece 52%, Singapore 38%, USA 4%, Panama 2%, UAE 2% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-ships, refined petroleum, diamonds, aircraft, aluminum (2022)<br>
+refined petroleum, animal products, aluminum structures, insulated wire, prefabricated buildings (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>

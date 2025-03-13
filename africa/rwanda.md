@@ -52,9 +52,9 @@ gold, cassiterite (tin ore), wolframite (tungsten ore), methane, hydropower, ara
 
 **Land use**<br>
 _agricultural land_: 74.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 47% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 10.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 17.4% (2018 est.)<br>
+_arable land_: arable land: 47% (2018 est.)<br>
+_permanent crops_: permanent crops: 10.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 17.4% (2018 est.)<br>
 _forest_: 18% (2018 est.)<br>
 _other_: 7.5% (2018 est.)<br>
 
@@ -183,7 +183,7 @@ _unimproved: rural_: rural: 19.3% of population<br>
 _unimproved: total_: total: 17.3% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.3% of GDP (2020)<br>
+7.3% of GDP (2021)<br>
 
 **Physician density**<br>
 0.12 physicians/1,000 population (2019)<br>
@@ -248,9 +248,9 @@ temperate; two rainy seasons (February to April, November to January); mild in m
 
 **Land use**<br>
 _agricultural land_: 74.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 47% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 10.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 17.4% (2018 est.)<br>
+_arable land_: arable land: 47% (2018 est.)<br>
+_permanent crops_: permanent crops: 10.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 17.4% (2018 est.)<br>
 _forest_: 18% (2018 est.)<br>
 _other_: 7.5% (2018 est.)<br>
 
@@ -465,7 +465,7 @@ _imports of goods and services_: -40.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-bananas, cassava, sweet potatoes, potatoes, plantains, maize, beans, pumpkins/squash, taro, sorghum (2022)<br>
+bananas, cassava, sweet potatoes, plantains, potatoes, maize, beans, pumpkins/squash, taro, sorghum (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -535,11 +535,11 @@ $2.11 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-UAE 32%, Democratic Republic of the Congo 25%, Thailand 5%, US 3%, Ethiopia 3% (2022)<br>
+UAE 66%, China 10%, USA 3%, Kenya 3%, Thailand 2% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, tin ores, coffee, malt extract, rare earth ores (2022)<br>
+gold, rare earth ores, coffee, tea, tin ores (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -549,11 +549,11 @@ $3.856 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 19%, Tanzania 11%, Kenya 10%, UAE 10%, India 7% (2022)<br>
+China 19%, Kenya 14%, Uganda 13%, Tanzania 9%, UAE 7% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, gold, palm oil, rice, raw sugar (2022)<br>
+broadcasting equipment, fish, corn, packaged medicine, plastic products (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

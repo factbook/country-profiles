@@ -54,9 +54,9 @@ petroleum, natural gas, gypsum<br>
 
 **Land use**<br>
 _agricultural land_: 8.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 7.6% (2018 est.)<br>
+_arable land_: arable land: 1% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 7.6% (2018 est.)<br>
 _forest_: 0.1% (2018 est.)<br>
 _other_: 91.1% (2018 est.)<br>
 
@@ -179,9 +179,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 2.09 physicians/1,000 population (2017)<br>
 
@@ -235,9 +232,9 @@ Mediterranean along coast; dry, extreme desert interior<br>
 
 **Land use**<br>
 _agricultural land_: 8.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 7.6% (2018 est.)<br>
+_arable land_: arable land: 1% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 7.6% (2018 est.)<br>
 _forest_: 0.1% (2018 est.)<br>
 _other_: 91.1% (2018 est.)<br>
 
@@ -481,11 +478,11 @@ $29.326 billion (2019 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Italy 26%, Spain 10%, Germany 9%, China 7%, France 6% (2022)<br>
+Italy 23%, Germany 15%, Spain 9%, France 7%, China 6% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, natural gas, gold, refined petroleum, scrap iron (2022)<br>
+crude petroleum, natural gas, refined petroleum, gold, scrap iron (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -495,11 +492,11 @@ $25.368 billion (2019 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Turkey 15%, China 12%, Italy 12%, Greece 10%, UAE 7% (2022)<br>
+China 17%, Turkey 15%, Italy 8%, UAE 8%, Egypt 8% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, garments, broadcasting equipment, tobacco (2022)<br>
+refined petroleum, broadcasting equipment, tobacco, garments, cars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

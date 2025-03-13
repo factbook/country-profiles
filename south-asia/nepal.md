@@ -52,9 +52,9 @@ quartz, water, timber, hydropower, scenic beauty, small deposits of lignite, cop
 
 **Land use**<br>
 _agricultural land_: 28.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 15.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 12.5% (2018 est.)<br>
+_arable land_: arable land: 15.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 12.5% (2018 est.)<br>
 _forest_: 25.4% (2018 est.)<br>
 _other_: 45.8% (2018 est.)<br>
 
@@ -179,7 +179,7 @@ _unimproved: rural_: rural: 5.6% of population<br>
 _unimproved: total_: total: 5.9% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.2% of GDP (2020)<br>
+5.4% of GDP (2021)<br>
 
 **Physician density**<br>
 0.85 physicians/1,000 population (2020)<br>
@@ -249,9 +249,9 @@ varies from cool summers and severe winters in north to subtropical summers and 
 
 **Land use**<br>
 _agricultural land_: 28.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 15.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 12.5% (2018 est.)<br>
+_arable land_: arable land: 15.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 12.5% (2018 est.)<br>
 _forest_: 25.4% (2018 est.)<br>
 _other_: 45.8% (2018 est.)<br>
 
@@ -524,11 +524,11 @@ $2.52 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-India 67%, US 11%, Germany 3%, Turkey 2%, UK 2% (2022)<br>
+India 67%, USA 12%, Germany 3%, China 2%, UK 2% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-palm oil, soybean oil, garments, synthetic fibers, knotted carpets (2022)<br>
+knotted carpets, garments, flat-rolled iron, synthetic fibers, palm oil (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -538,11 +538,11 @@ $16.993 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-India 64%, China 13%, UAE 3%, Indonesia 2%, US 2% (2022)<br>
+India 71%, China 17%, UAE 3%, Singapore 2%, Germany 1% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, natural gas, gold, rice, soybean oil (2022)<br>
+refined petroleum, natural gas, garments, iron reductions, broadcasting equipment (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

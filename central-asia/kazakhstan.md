@@ -52,9 +52,9 @@ major deposits of petroleum, natural gas, coal, iron ore, manganese, chrome ore,
 
 **Land use**<br>
 _agricultural land_: 77.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 8.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 68.5% (2018 est.)<br>
+_arable land_: arable land: 8.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 68.5% (2018 est.)<br>
 _forest_: 1.2% (2018 est.)<br>
 _other_: 21.4% (2018 est.)<br>
 
@@ -185,7 +185,7 @@ _unimproved: rural_: rural: 6.2% of population<br>
 _unimproved: total_: total: 2.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-3.8% of GDP (2020)<br>
+3.9% of GDP (2021)<br>
 
 **Physician density**<br>
 3.98 physicians/1,000 population (2020)<br>
@@ -250,9 +250,9 @@ continental, cold winters and hot summers, arid and semiarid<br>
 
 **Land use**<br>
 _agricultural land_: 77.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 8.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 68.5% (2018 est.)<br>
+_arable land_: arable land: 8.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 68.5% (2018 est.)<br>
 _forest_: 1.2% (2018 est.)<br>
 _other_: 21.4% (2018 est.)<br>
 
@@ -549,11 +549,11 @@ $71.726 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 14%, Italy 13%, Russia 9%, UK 8%, Netherlands 6% (2022)<br>
+China 16%, UK 15%, Russia 10%, Turkey 6%, Italy 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, gold, refined copper, iron alloys, radioactive chemicals (2022)<br>
+crude petroleum, gold, radioactive chemicals, refined copper, copper ore (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -563,11 +563,11 @@ $49.597 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Russia 29%, China 28%, Germany 5%, South Korea 4%, Turkey 3% (2022)<br>
+China 28%, Russia 24%, Gambia, The 4%, Turkey 4%, USA 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-garments, cars, broadcasting equipment, plastic products, packaged medicine (2022)<br>
+garments, cars, broadcasting equipment, vehicle bodies, packaged medicine (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
@@ -718,7 +718,7 @@ Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and A
 information varies; approximately 40,000 active-duty personnel (25,000 Land Forces; 3,000 Naval Forces; 12,000 Air and Air Defense Forces); approximately 30,000 National Guard (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Kazakh military's inventory is comprised of mostly Russian and Soviet-era equipment; in recent years, other suppliers have included China, France, Israel, South Korea, and Turkey; Kazakhstan has a defense industry capable of assembling or producing such items as naval vessels, combat vehicles, helicopters, and radar systems&nbsp; (2024)<br>
+the Kazakh military's inventory is comprised of mostly Russian and Soviet-era equipment; in recent years, other suppliers have included China, France, Israel, South Korea, and Turkey; Kazakhstan has a defense industry capable of assembling or producing such items as naval vessels, combat vehicles, helicopters, and radar systems (2024)<br>
 
 **Military service age and obligation**<br>
 all men 18-27 are required to serve in the military for 12-24 months; women may volunteer (2023)<br>

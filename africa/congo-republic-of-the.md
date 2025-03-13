@@ -54,9 +54,9 @@ petroleum, timber, potash, lead, zinc, uranium, copper, phosphates, gold, magnes
 
 **Land use**<br>
 _agricultural land_: 31.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 1.6% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 29.3% (2018 est.)<br>
+_arable land_: arable land: 1.6% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 29.3% (2018 est.)<br>
 _forest_: 65.6% (2018 est.)<br>
 _other_: 3.3% (2018 est.)<br>
 
@@ -185,7 +185,7 @@ _unimproved: rural_: rural: 43.6% of population<br>
 _unimproved: total_: total: 15.8% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.5% of GDP (2020)<br>
+3.9% of GDP (2021)<br>
 
 **Physician density**<br>
 0.1 physicians/1,000 population (2018)<br>
@@ -252,9 +252,9 @@ tropical; rainy season (March to June); dry season (June to October); persistent
 
 **Land use**<br>
 _agricultural land_: 31.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 1.6% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 29.3% (2018 est.)<br>
+_arable land_: arable land: 1.6% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 29.3% (2018 est.)<br>
 _forest_: 65.6% (2018 est.)<br>
 _other_: 3.3% (2018 est.)<br>
 
@@ -472,7 +472,7 @@ _imports of goods and services_: -39.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-cassava, sugarcane, oil palm fruit, bananas, plantains, root vegetables, game meat, vegetables, mangoes/guavas, fruits (2022)<br>
+cassava, sugarcane, oil palm fruit, bananas, plantains, root vegetables, game meat, vegetables, mangoes/guavas, fruits (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -529,11 +529,11 @@ $7.855 billion (2019 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 39%, India 20%, UAE 15%, Italy 5%, Vietnam 4% (2022)<br>
+China 46%, UAE 23%, India 6%, Saudi Arabia 5%, Portugal 3% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, refined copper, wood, tin ores, rare earth ores (2022)<br>
+crude petroleum, refined copper, gold, wood, refined petroleum (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -543,11 +543,11 @@ $4.945 billion (2019 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 26%, France 9%, UAE 6%, Belgium 6%, India 5% (2022)<br>
+China 24%, Angola 20%, Gabon 9%, France 6%, UAE 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-poultry, garments, vaccines, ships, fish (2022)<br>
+ships, poultry, garments, iron pipes, refined petroleum (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

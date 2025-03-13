@@ -52,9 +52,9 @@ nickel, uranium, rare earth oxides, peat, cobalt, copper, platinum, vanadium, ar
 
 **Land use**<br>
 _agricultural land_: 73.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 38.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 15.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 18.8% (2018 est.)<br>
+_arable land_: arable land: 38.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 15.6% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 18.8% (2018 est.)<br>
 _forest_: 6.6% (2018 est.)<br>
 _other_: 20.1% (2018 est.)<br>
 
@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 21.1% of population<br>
 _unimproved: total_: total: 18.4% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.5% of GDP (2020)<br>
+9.1% of GDP (2021)<br>
 
 **Physician density**<br>
 0.07 physicians/1,000 population (2020)<br>
@@ -251,9 +251,9 @@ equatorial; high plateau with considerable altitude variation (772 m to 2,670 m 
 
 **Land use**<br>
 _agricultural land_: 73.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 38.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 15.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 18.8% (2018 est.)<br>
+_arable land_: arable land: 38.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 15.6% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 18.8% (2018 est.)<br>
 _forest_: 6.6% (2018 est.)<br>
 _other_: 20.1% (2018 est.)<br>
 
@@ -360,7 +360,7 @@ _term in office_: 5 years<br>
 _most recent election date_: 5/20/2020<br>
 _parties elected and seats per party_: National Council for the Defense of Democracy - Front for the Defense of Democracy (CNDD-FDD) (86); National Congress for Liberty (CNL) (32); Other (5)<br>
 _percentage of women in chamber_: 38.2%<br>
-_expected date of next election_: May 2025<br>
+_expected date of next election_: June 2025<br>
 <strong>note:</strong> 60% of seats in the National Assembly are allocated to Hutus and 40% to Tutsis; 3 seats are reserved for Twas; 30% of total seats are reserved for women<br>
 
 **Legislative branch - upper chamber**<br>
@@ -525,11 +525,11 @@ $302.752 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-UAE 32%, Democratic Republic of the Congo 14%, China 5%, Sudan 5%, Germany 4% (2022)<br>
+UAE 59%, Uganda 8%, China 5%, Germany 5%, USA 3% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, coffee, tea, rare earth ores, tobacco (2022)<br>
+gold, coffee, tea, tin ores, iron bars (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -539,11 +539,11 @@ $1.166 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 15%, UAE 14%, Saudi Arabia 13%, Tanzania 12%, India 7% (2022)<br>
+Tanzania 26%, China 15%, Uganda 10%, Kenya 10%, India 6% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, fertilizers, packaged medicine, cement, plastic products (2022)<br>
+fertilizers, cement, packaged medicine, plastic products, cars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
@@ -664,7 +664,7 @@ the military has a mix of mostly older weapons and equipment typically of French
 
 **Military deployments**<br>
 760 Central African Republic (MINUSCA) (2024)<br>
-<strong>note: </strong>Burundi deployed military troops to the Democratic Republic of the Congo (DRC) in 2022 as part of an East African regional force; as of 2024, as many as 1,000 troops reportedly remained in the DRC<br>
+<strong>note: </strong>Burundi deployed military troops to the Democratic Republic of the Congo (DRC) in 2022 as part of an East African regional force; as of 2025, a contingent remained in the DRC<br>
 
 **Military - note**<br>
 the FDNB is responsible for defending Burundi’s territorial integrity and protecting its sovereignty; it has an internal security role, including maintaining and restoring public order if required; the FDNB also participates in providing humanitarian/disaster assistance, countering terrorism, narcotics trafficking, piracy, and illegal arms trade, and protecting the country’s environment; the FDNB conducts limited training with foreign partners such as Russia and participates in regional peacekeeping missions, most recently in the Central African Republic, the Democratic Republic of the Congo (DRC), and Somalia; these missions have provided the force some operational experience and funding; in recent years the FDNB has conducted operations against anti-government rebel groups based in the neighboring DRC that have carried out sporadic attacks in Burundi, such as the such as National Forces of Liberation (FNL), the Resistance for the Rule of Law-Tabara (aka RED Tabara), and Popular Forces of Burundi (FPB or FOREBU)<br><br>the Arusha Accords that ended the 1993-2005 civil war created a unified military by balancing the predominantly Tutsi ex-Burundi Armed Forces (ex-FAB) and the largely Hutu dominated armed movements and requiring the military to have a 50/50 ethnic mix of Tutsis and Hutus (2024)<br>

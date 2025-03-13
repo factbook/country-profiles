@@ -54,9 +54,9 @@ hydropower, tin, phosphates, iron ore, coal, diamonds, gemstones (including tanz
 
 **Land use**<br>
 _agricultural land_: 43.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 14.3% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 27.1% (2018 est.)<br>
+_arable land_: arable land: 14.3% (2018 est.)<br>
+_permanent crops_: permanent crops: 2.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 27.1% (2018 est.)<br>
 _forest_: 37.3% (2018 est.)<br>
 _other_: 19% (2018 est.)<br>
 
@@ -187,7 +187,7 @@ _unimproved: rural_: rural: 40.6% of population<br>
 _unimproved: total_: total: 28% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-3.8% of GDP (2020)<br>
+3.4% of GDP (2021)<br>
 
 **Physician density**<br>
 0.05 physicians/1,000 population (2018)<br>
@@ -257,9 +257,9 @@ varies from tropical along coast to temperate in highlands<br>
 
 **Land use**<br>
 _agricultural land_: 43.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 14.3% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 27.1% (2018 est.)<br>
+_arable land_: arable land: 14.3% (2018 est.)<br>
+_permanent crops_: permanent crops: 2.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 27.1% (2018 est.)<br>
 _forest_: 37.3% (2018 est.)<br>
 _other_: 19% (2018 est.)<br>
 
@@ -541,11 +541,11 @@ $9.874 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-India 27%, UAE 11%, South Africa 9%, Kenya 5%, Rwanda 5% (2022)<br>
+India 15%, UAE 14%, Uganda 12%, South Africa 10%, China 6% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, raw copper, refined copper, copper ore, coconuts/Brazil nuts/cashews (2022)<br>
+gold, refined petroleum, dried legumes, refined copper, coal (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -555,11 +555,11 @@ $11.61 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 30%, India 18%, UAE 11%, Democratic Republic of the Congo 5%, Saudi Arabia 2% (2022)<br>
+China 32%, India 13%, UAE 9%, Saudi Arabia 5%, Japan 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, refined copper, garments, fertilizers, plastics (2022)<br>
+refined petroleum, plastics, garments, fertilizers, wheat (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

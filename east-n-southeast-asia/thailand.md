@@ -54,9 +54,9 @@ tin, rubber, natural gas, tungsten, tantalum, timber, lead, fish, gypsum, lignit
 
 **Land use**<br>
 _agricultural land_: 41.2% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 30.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 8.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 1.6% (2018 est.)<br>
+_arable land_: arable land: 30.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 8.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 1.6% (2018 est.)<br>
 _forest_: 37.2% (2018 est.)<br>
 _other_: 21.6% (2018 est.)<br>
 
@@ -186,7 +186,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.4% of GDP (2020)<br>
+5.2% of GDP (2021)<br>
 
 **Physician density**<br>
 0.95 physicians/1,000 population (2020)<br>
@@ -253,9 +253,9 @@ tropical; rainy, warm, cloudy southwest monsoon (mid-May to September); dry, coo
 
 **Land use**<br>
 _agricultural land_: 41.2% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 30.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 8.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 1.6% (2018 est.)<br>
+_arable land_: arable land: 30.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 8.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 1.6% (2018 est.)<br>
 _forest_: 37.2% (2018 est.)<br>
 _other_: 21.6% (2018 est.)<br>
 
@@ -553,11 +553,11 @@ $295.972 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 17%, China 11%, Japan 8%, Vietnam 4%, Malaysia 4% (2022)<br>
+USA 18%, China 13%, Japan 7%, Australia 4%, Singapore 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-machine parts, integrated circuits, cars, trucks, vehicle parts/accessories (2022)<br>
+machine parts, integrated circuits, trucks, cars, broadcasting equipment (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -567,11 +567,11 @@ $296.569 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 26%, Japan 11%, UAE 6%, US 5%, Malaysia 5% (2022)<br>
+China 26%, Japan 11%, USA 7%, UAE 6%, Taiwan 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-crude petroleum, integrated circuits, gold, natural gas, vehicle parts/accessories (2022)<br>
+crude petroleum, integrated circuits, natural gas, gold, vehicle parts/accessories (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

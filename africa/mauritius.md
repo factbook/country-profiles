@@ -54,9 +54,9 @@ arable land, fish<br>
 
 **Land use**<br>
 _agricultural land_: 43.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 38.4% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 3.4% (2018 est.)<br>
+_arable land_: arable land: 38.4% (2018 est.)<br>
+_permanent crops_: permanent crops: 2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 3.4% (2018 est.)<br>
 _forest_: 17.3% (2018 est.)<br>
 _other_: 38.9% (2018 est.)<br>
 
@@ -172,7 +172,7 @@ _unimproved: rural_: rural: 0.2% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.7% of GDP (2020)<br>
+6.4% of GDP (2021)<br>
 
 **Physician density**<br>
 2.71 physicians/1,000 population (2020)<br>
@@ -237,9 +237,9 @@ tropical, modified by southeast trade winds; warm, dry winter (May to November);
 
 **Land use**<br>
 _agricultural land_: 43.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 38.4% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 3.4% (2018 est.)<br>
+_arable land_: arable land: 38.4% (2018 est.)<br>
+_permanent crops_: permanent crops: 2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 3.4% (2018 est.)<br>
 _forest_: 17.3% (2018 est.)<br>
 _other_: 38.9% (2018 est.)<br>
 
@@ -502,11 +502,11 @@ $3.194 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Zimbabwe 11%, South Africa 11%, France 10%, Madagascar 8%, US 7% (2022)<br>
+USA 11%, France 11%, Zimbabwe 10%, South Africa 7%, Zambia 7% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-garments, fish, raw sugar, fertilizers, diamonds (2022)<br>
+fish, garments, raw sugar, fertilizers, diamonds (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -516,11 +516,11 @@ $6.057 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 16%, South Africa 10%, UAE 9%, India 9%, Oman 8% (2022)<br>
+China 15%, UAE 11%, India 10%, South Africa 9%, France 6% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, coal, fish, cars, packaged medicine (2022)<br>
+refined petroleum, cars, fish, coal, packaged medicine (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

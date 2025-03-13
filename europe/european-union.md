@@ -132,6 +132,9 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
 
+**Current health expenditure**<br>
+10.9% of GDP (2021)<br>
+
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
@@ -316,7 +319,7 @@ _imports of goods and services_: -48.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-milk, wheat, sugar beets, maize, barley, potatoes, grapes, pork, rapeseed, tomatoes (2022)<br>
+milk, wheat, sugar beets, maize, potatoes, barley, grapes, pork, rapeseed, tomatoes (2022)<br>
 <strong>note:</strong> top ten agricultural products based on tonnage for all EU member states<br>
 
 **Industries**<br>
@@ -373,11 +376,11 @@ $8.712 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 20%, UK 12%, China 9%, Switzerland 7%, Turkey 4% (2022)<br>
+US 20%, UK 12%, China 10%, Switzerland 7%, Turkey 4% (2023)<br>
 <strong>note: </strong>top five non-EU export partners based on percentage share of external exports; does not include internal trade among EU member states<br>
 
 **Exports - commodities**<br>
-cars, packaged medicine, refined petroleum, vaccines, vehicle parts/accessories (2022)<br>
+cars, packaged medicine, refined petroleum, vehicle parts/accessories, vaccines (2023)<br>
 <strong>note:</strong> top five export commodities based on value in dollars; includes both exports to external partners and internal trade among EU member states<br>
 
 **Imports**<br>
@@ -387,11 +390,11 @@ $8.022 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 20%, US 11%, UK 8%, Norway 6%, Russia 6% (2022)<br>
+China 21%, US 14%, UK 7%, Switzerland 6%, Norway 5% (2023)<br>
 <strong>note: </strong>top five non-EU import partners based on percentage share of external imports; does not include internal trade among EU member states<br>
 
 **Imports - commodities**<br>
-natural gas, crude petroleum, cars, refined petroleum, garments (2022)<br>
+cars, crude petroleum, natural gas, refined petroleum, vehicle parts/accessories (2023)<br>
 <strong>note: </strong>top five import commodities based on value in dollars; includes both imports from external partners and internal trade among EU member states<br>
 
 **Reserves of foreign exchange and gold**<br>

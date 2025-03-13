@@ -53,9 +53,9 @@ small reserves of gold, platinum, copper, potash, natural gas, hydropower<br>
 
 **Land use**<br>
 _agricultural land_: 36.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 15.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 20% (2018 est.)<br>
+_arable land_: arable land: 15.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 20% (2018 est.)<br>
 _forest_: 12.2% (2018 est.)<br>
 _other_: 51.5% (2018 est.)<br>
 
@@ -188,7 +188,7 @@ _unimproved: rural_: rural: 29.8% of population<br>
 _unimproved: total_: total: 23.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-3.5% of GDP (2020)<br>
+3.2% of GDP (2021)<br>
 
 **Physician density**<br>
 0.11 physicians/1,000 population (2020)<br>
@@ -258,9 +258,9 @@ tropical monsoon with wide topographic-induced variation<br>
 
 **Land use**<br>
 _agricultural land_: 36.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 15.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 20% (2018 est.)<br>
+_arable land_: arable land: 15.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 20% (2018 est.)<br>
 _forest_: 12.2% (2018 est.)<br>
 _other_: 51.5% (2018 est.)<br>
 
@@ -399,7 +399,7 @@ Ethiopian Citizens for Social Justice and Democracy or EZEMA   <br>Gedeo Peopl
 ACP, AfDB, ATMIS, AU, BRICS, COMESA, EITI, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (accession candidate)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Aster Mamo ANA (since 31 July 2024)<br>
+_chief of mission_: Ambassador BINALF Andualem Ashenef (since 25 February 2025)<br>
 _chancery_: 3506 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 364-1200<br>
 _FAX_: [1] (202) 587-0195<br>
@@ -560,11 +560,11 @@ $9.496 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-UAE 17%, US 13%, Germany 6%, Saudi Arabia 6%, Somalia 6% (2022)<br>
+USA 12%, China 10%, UAE 8%, Saudi Arabia 8%, Netherlands 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-coffee, gold, garments, cut flowers, vegetables (2022)<br>
+coffee, garments, dried legumes, cut flowers, oil seeds (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -574,11 +574,11 @@ $20.859 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 24%, US 9%, India 8%, UAE 6%, UK 4% (2022)<br>
+China 26%, Djibouti 16%, India 7%, Kuwait 7%, Saudi Arabia 6% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-wheat, refined petroleum, fertilizers, vaccines, palm oil (2022)<br>
+refined petroleum, fertilizers, plastics, raw sugar, cars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

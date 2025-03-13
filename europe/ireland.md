@@ -53,9 +53,9 @@ natural gas, peat, copper, lead, zinc, silver, barite, gypsum, limestone, dolomi
 
 **Land use**<br>
 _agricultural land_: 66.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 15.4% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 50.7% (2018 est.)<br>
+_arable land_: arable land: 15.4% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 50.7% (2018 est.)<br>
 _forest_: 10.9% (2018 est.)<br>
 _other_: 23% (2018 est.)<br>
 
@@ -170,7 +170,7 @@ _unimproved: rural_: rural: 1.9% of population<br>
 _unimproved: total_: total: 2.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.1% of GDP (2020)<br>
+6.1% of GDP (2022)<br>
 
 **Physician density**<br>
 3.49 physicians/1,000 population (2020)<br>
@@ -234,9 +234,9 @@ temperate maritime; modified by North Atlantic Current; mild winters, cool summe
 
 **Land use**<br>
 _agricultural land_: 66.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 15.4% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 50.7% (2018 est.)<br>
+_arable land_: arable land: 15.4% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 50.7% (2018 est.)<br>
 _forest_: 10.9% (2018 est.)<br>
 _other_: 23% (2018 est.)<br>
 
@@ -347,7 +347,7 @@ _number of seats_: 60 (49 indirectly elected; 11 appointed)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 1/29/2025 to 1/30/2025<br>
-_percentage of women in chamber_: 40%<br>
+_percentage of women in chamber_: 45%<br>
 _expected date of next election_: January 2030<br>
 
 **Judicial branch**<br>
@@ -523,11 +523,11 @@ $722.655 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 30%, Germany 12%, UK 8%, Belgium 7%, China 7% (2022)<br>
+USA 28%, Germany 11%, UK 8%, Belgium 8%, China 7% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-vaccines, packaged medicine, nitrogen compounds, integrated circuits, scented mixtures (2022)<br>
+vaccines, packaged medicine, nitrogen compounds, integrated circuits, hormones (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -537,11 +537,11 @@ $500.334 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-UK 26%, US 16%, Germany 9%, China 6%, Netherlands 6% (2022)<br>
+UK 20%, USA 17%, France 10%, China 7%, Germany 7% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-aircraft, nitrogen compounds, refined petroleum, natural gas, vaccines (2022)<br>
+aircraft, nitrogen compounds, vaccines, packaged medicine, integrated circuits (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

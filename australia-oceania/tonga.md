@@ -52,9 +52,9 @@ arable land, fish<br>
 
 **Land use**<br>
 _agricultural land_: 43.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 22.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 15.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5.6% (2018 est.)<br>
+_arable land_: arable land: 22.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 15.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 5.6% (2018 est.)<br>
 _forest_: 12.5% (2018 est.)<br>
 _other_: 44.4% (2018 est.)<br>
 
@@ -171,7 +171,7 @@ _unimproved: rural_: rural: 0.4% of population<br>
 _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.3% of GDP (2020)<br>
+6.3% of GDP (2021)<br>
 
 **Physician density**<br>
 0.95 physicians/1,000 population (2020)<br>
@@ -238,9 +238,9 @@ tropical; modified by trade winds; warm season (December to May), cool season (M
 
 **Land use**<br>
 _agricultural land_: 43.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 22.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 15.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5.6% (2018 est.)<br>
+_arable land_: arable land: 22.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 15.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 5.6% (2018 est.)<br>
 _forest_: 12.5% (2018 est.)<br>
 _other_: 44.4% (2018 est.)<br>
 
@@ -415,7 +415,7 @@ _imports of goods and services_: -63.8% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-coconuts, pumpkins/squash, cassava, sweet potatoes, vegetables, yams, taro, root vegetables, plantains, lemons/limes (2022)<br>
+coconuts, pumpkins/squash, cassava, sweet potatoes, vegetables, yams, taro, root vegetables, plantains, lemons/limes (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -484,11 +484,11 @@ $57.534 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 31%, Australia 19%, NZ 12%, Hong Kong 8%, Belgium 8% (2022)<br>
+Guyana 17%, USA 17%, NZ 15%, Australia 15%, UAE 12% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-fish, scrap copper, processed crustaceans, vegetables, perfume plants (2022)<br>
+refined petroleum, gold, processed fruits and nuts, cassava, fish (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -498,11 +498,11 @@ $298.304 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Fiji 28%, China 23%, NZ 21%, Australia 6%, US 5% (2022)<br>
+Fiji 27%, NZ 24%, China 21%, Australia 8%, USA 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, plastic products, poultry, sheep and goat meat, cars (2022)<br>
+refined petroleum, plastic products, poultry, cars, sheep and goat meat (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

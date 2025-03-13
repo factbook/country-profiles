@@ -54,9 +54,9 @@ NEGL; pleasant climate fosters tourism<br>
 
 **Land use**<br>
 _agricultural land_: 20.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 9% (2018 est.)<br>
+_arable land_: arable land: 9% (2018 est.)<br>
+_permanent crops_: permanent crops: 2.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 9% (2018 est.)<br>
 _forest_: 18.8% (2018 est.)<br>
 _other_: 60.8% (2018 est.)<br>
 
@@ -165,7 +165,7 @@ _improved: total_: total: 96.7% of population<br>
 _unimproved: total_: total: 3.2% of population (2017 est.)<br>
 
 **Current health expenditure**<br>
-5.6% of GDP (2020)<br>
+5.9% of GDP (2021)<br>
 
 **Physician density**<br>
 2.76 physicians/1,000 population (2017)<br>
@@ -221,9 +221,9 @@ tropical maritime; little seasonal temperature variation<br>
 
 **Land use**<br>
 _agricultural land_: 20.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 9% (2018 est.)<br>
+_arable land_: arable land: 9% (2018 est.)<br>
+_permanent crops_: permanent crops: 2.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 9% (2018 est.)<br>
 _forest_: 18.8% (2018 est.)<br>
 _other_: 60.8% (2018 est.)<br>
 
@@ -456,11 +456,11 @@ $705.697 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Suriname 28%, Poland 20%, Germany 13%, UK 8%, Barbados 5% (2022)<br>
+Suriname 29%, Poland 21%, USA 8%, Dominican Republic 7%, Australia 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, ships, gas turbines, soybean meal, liquor (2022)<br>
+refined petroleum, ships, soybean meal, shellfish, paintings (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -470,11 +470,11 @@ $872.781 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-US 57%, China 7%, Spain 4%, Brazil 4%, Finland 3% (2022)<br>
+USA 43%, Poland 6%, China 5%, UK 4%, Germany 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, ships, engine parts, plastic products, cars (2022)<br>
+ships, refined petroleum, cars, plastic products, furniture (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

@@ -53,8 +53,8 @@ small deposits of coal, natural gas, limestone, marble, asbestos, arable land<br
 
 **Land use**<br>
 _agricultural land_: 22.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 16.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 5.8% (2018 est.)<br>
+_arable land_: arable land: 16.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 5.8% (2018 est.)<br>
 _other_: 77.3% (2018 est.)<br>
 
 **Irrigated land**<br>
@@ -165,9 +165,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 NA<br>
 
@@ -204,8 +201,8 @@ tropical; marine; rainy season during southwest monsoon (June to August); persis
 
 **Land use**<br>
 _agricultural land_: 22.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 16.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 5.8% (2018 est.)<br>
+_arable land_: arable land: 16.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 5.8% (2018 est.)<br>
 _other_: 77.3% (2018 est.)<br>
 
 **Urbanization**<br>
@@ -371,7 +368,7 @@ _exports of goods and services_: 65.2% (2017 est.)<br>
 _imports of goods and services_: -52.6% (2017 est.)<br>
 
 **Agricultural products**<br>
-rice, vegetables, pork, chicken, cabbages, sugarcane, milk, eggs, tropical fruits, pineapples (2022)<br>
+rice, vegetables, pork, chicken, cabbages, milk, sugarcane, tropical fruits, pineapples, eggs (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -415,11 +412,11 @@ $383.484 billion (2018 est.)<br>
 $382.736 billion (2017 est.)<br>
 
 **Exports - partners**<br>
-China 22%, US 15%, Hong Kong 12%, Singapore 7%, Japan 6% (2022)<br>
+China 20%, USA 17%, Hong Kong 13%, Singapore 9%, Japan 7% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-integrated circuits, machine parts, computers, refined petroleum, plastics (2022)<br>
+integrated circuits, machine parts, broadcasting equipment, computers, plastics (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -428,11 +425,11 @@ $305.428 billion (2018 est.)<br>
 $303.067 billion (2017 est.)<br>
 
 **Imports - partners**<br>
-China 19%, Japan 12%, US 10%, South Korea 7%, Australia 6% (2022)<br>
+China 21%, Japan 13%, USA 11%, S. Korea 9%, Australia 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-integrated circuits, crude petroleum, machinery, natural gas, coal (2022)<br>
+integrated circuits, crude petroleum, machinery, natural gas, coal (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

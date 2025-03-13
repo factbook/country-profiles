@@ -51,9 +51,9 @@ hydroelectric potential, arable land<br>
 
 **Land use**<br>
 _agricultural land_: 37.6% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 18.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 18.8% (2018 est.)<br>
+_arable land_: arable land: 18.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 18.8% (2018 est.)<br>
 _forest_: 43.1% (2018 est.)<br>
 _other_: 19.3% (2018 est.)<br>
 
@@ -169,9 +169,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 NA<br>
 
@@ -216,9 +213,9 @@ continental; cold, cloudy winters with frequent snow or rain; cool to moderately
 
 **Land use**<br>
 _agricultural land_: 37.6% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 18.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 18.8% (2018 est.)<br>
+_arable land_: arable land: 18.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 18.8% (2018 est.)<br>
 _forest_: 43.1% (2018 est.)<br>
 _other_: 19.3% (2018 est.)<br>
 
@@ -308,10 +305,10 @@ _number of seats_: 25 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 2/7/2021<br>
+_most recent election date_: 9 February 2025<br>
 _parties elected and seats per party_: Patriotic Union (VU) (10); Progressive Citizens' Party (FBP) (10); Free List (FL) (3); Democrats for Liechtenstein (DpL) (2)<br>
 _percentage of women in chamber_: 28%<br>
-_expected date of next election_: February 2025<br>
+_expected date of next election_: 28 February 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Supreme Court or F&uuml;rstlicher Oberster Gerichtshof (consists of 5 judges and 5 substitutes); Constitutional Court or Staatsgerichtshof (consists of 5 judges, and 5 alternates)<br>
@@ -394,7 +391,8 @@ $3.774 billion (2014 est.)<br>
 <strong>note:</strong> trade data exclude trade with Switzerland<br>
 
 **Exports - commodities**<br>
-small specialty machinery, connectors for audio and video, parts for motor vehicles, dental products, hardware, prepared foodstuffs, electronic equipment, optical products<br>
+small specialty machinery, connectors for audio and video, parts for motor vehicles, dental products, hardware<br>
+top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $2.23 billion (2014 est.)<br>

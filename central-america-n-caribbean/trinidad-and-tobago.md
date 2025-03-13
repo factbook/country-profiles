@@ -55,9 +55,9 @@ petroleum, natural gas, asphalt<br>
 
 **Land use**<br>
 _agricultural land_: 10.6% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 4.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 4.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 1.4% (2018 est.)<br>
+_arable land_: arable land: 4.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 4.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 1.4% (2018 est.)<br>
 _forest_: 44% (2018 est.)<br>
 _other_: 45.4% (2018 est.)<br>
 
@@ -170,7 +170,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.3% of GDP (2020)<br>
+7% of GDP (2021)<br>
 
 **Physician density**<br>
 4.48 physicians/1,000 population (2019)<br>
@@ -222,9 +222,9 @@ tropical; rainy season (June to December)<br>
 
 **Land use**<br>
 _agricultural land_: 10.6% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 4.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 4.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 1.4% (2018 est.)<br>
+_arable land_: arable land: 4.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 4.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 1.4% (2018 est.)<br>
 _forest_: 44% (2018 est.)<br>
 _other_: 45.4% (2018 est.)<br>
 
@@ -368,6 +368,9 @@ _name_: "Forged From the Love of Liberty"<br>
 _lyrics/music_: Patrick Stanislaus CASTAGNE<br>
 <strong>note:</strong> adopted 1962; song originally created to serve as an anthem for the West Indies Federation; adopted by Trinidad and Tobago following the Federation's dissolution in 1962<br>
 
+**National coat of arms**<br>
+Designed in 1962, Trinidad and Tobago&rsquo;s coat of arms shows the scarlet ibis (national bird of Trinidad) and the cocrico (national bird of Tobago). They support a shield displaying two hummingbirds, because Trinidad is home to 18 species of the bird and is called the &ldquo;Land of Hummingbirds.&rdquo; Three gold ships on a backdrop of national colors represent Christopher Columbus, who visited the islands. The three peaks in the lower left refer to Trinidad being named after the Holy Trinity and also represent a famous mountain. The image of a gold ship's wheel in front of a coconut palm was also used on the Great Seals of British Colonial Tobago. The gold helmet represents Queen Elizabeth II of England (ruler of the country at the time), and the national motto promotes harmony in diversity<br>
+
 ## Economy
 
 **Economic overview**<br>
@@ -481,11 +484,11 @@ $11.542 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 35%, Belgium 6%, Morocco 5%, Spain 4%, Brazil 4% (2022)<br>
+USA 28%, China 7%, Guyana 5%, Chile 5%, Netherlands 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-ammonia, natural gas, crude petroleum, acyclic alcohols, fertilizers (2022)<br>
+natural gas, alcohols, ammonia, crude petroleum, iron reductions (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -495,11 +498,11 @@ $8.636 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-US 40%, China 9%, Italy 7%, Brazil 4%, Canada 3% (2022)<br>
+USA 29%, Guyana 27%, China 8%, Brazil 4%, Canada 3% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, iron ore, cars, plastic products, excavation machinery (2022)<br>
+railway cargo containers, refined petroleum, cars, iron ore, excavation machinery (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

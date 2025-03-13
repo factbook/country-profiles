@@ -52,9 +52,9 @@ none<br>
 
 **Land use**<br>
 _agricultural land_: 1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 0% (2018 est.)<br>
+_permanent crops_: permanent crops: 1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 99% (2018 est.)<br>
 
@@ -165,7 +165,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-1.7% of GDP (2020)<br>
+3.7% of GDP (2021)<br>
 
 **Physician density**<br>
 7.51 physicians/1,000 population (2014)<br>
@@ -206,9 +206,9 @@ Mediterranean with mild, wet winters and hot, dry summers<br>
 
 **Land use**<br>
 _agricultural land_: 1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 0% (2018 est.)<br>
+_permanent crops_: permanent crops: 1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 99% (2018 est.)<br>
 
@@ -388,6 +388,7 @@ $964.6 million (2017 est.)<br>
 
 **Exports - commodities**<br>
 jewelry, perfumes, watches, packaged medicines, cars (2021)<br>
+top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $1.371 billion (2017 est.)<br>

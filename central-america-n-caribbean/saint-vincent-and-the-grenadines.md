@@ -53,9 +53,9 @@ hydropower, arable land<br>
 
 **Land use**<br>
 _agricultural land_: 25.6% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 12.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 7.7% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5.1% (2018 est.)<br>
+_arable land_: arable land: 12.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 7.7% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 5.1% (2018 est.)<br>
 _forest_: 68.7% (2018 est.)<br>
 _other_: 5.7% (2018 est.)<br>
 
@@ -163,7 +163,7 @@ _improved: total_: total: 95.1% of population<br>
 _unimproved: total_: total: 4.9% of population (2017 est.)<br>
 
 **Current health expenditure**<br>
-4.8% of GDP (2020)<br>
+5.4% of GDP (2021)<br>
 
 **Physician density**<br>
 0.66 physicians/1,000 population (2012)<br>
@@ -222,9 +222,9 @@ tropical; little seasonal temperature variation; rainy season (May to November)<
 
 **Land use**<br>
 _agricultural land_: 25.6% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 12.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 7.7% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5.1% (2018 est.)<br>
+_arable land_: arable land: 12.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 7.7% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 5.1% (2018 est.)<br>
 _forest_: 68.7% (2018 est.)<br>
 _other_: 5.7% (2018 est.)<br>
 
@@ -458,11 +458,11 @@ $140.607 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Malaysia 34%, US 10%, Greece 9%, Barbados 8%, Spain 6% (2022)<br>
+Croatia 16%, Barbados 14%, USA 10%, St. Lucia 10%, St. Kitts &amp; Nevis 8% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, ships, fish, shellfish, wheat (2022)<br>
+ships, wheat flours, animal food, shellfish, construction vehicles (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -472,11 +472,11 @@ $425.694 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-US 40%, Trinidad and Tobago 10%, China 6%, UK 6%, Turkey 5% (2022)<br>
+USA 37%, Italy 7%, Trinidad &amp; Tobago 7%, China 6%, UK 6% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, poultry, ships, raw sugar, plastic products (2022)<br>
+ships, refined petroleum, wheat, coal, poultry (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

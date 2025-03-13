@@ -55,9 +55,9 @@ manganese, hardwood forests, fish<br>
 
 **Land use**<br>
 _agricultural land_: 15.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 1.6% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 10.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 3.4% (2018 est.)<br>
+_arable land_: arable land: 1.6% (2018 est.)<br>
+_permanent crops_: permanent crops: 10.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 3.4% (2018 est.)<br>
 _forest_: 36.1% (2018 est.)<br>
 _other_: 48.6% (2018 est.)<br>
 
@@ -170,7 +170,7 @@ _unimproved: rural_: rural: 10.3% of population<br>
 _unimproved: total_: total: 7.7% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4% of GDP (2020)<br>
+4.4% of GDP (2021)<br>
 
 **Physician density**<br>
 0.17 physicians/1,000 population (2016)<br>
@@ -227,9 +227,9 @@ tropical; moderated by southeast trade winds from May to October; moderate rainf
 
 **Land use**<br>
 _agricultural land_: 15.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 1.6% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 10.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 3.4% (2018 est.)<br>
+_arable land_: arable land: 1.6% (2018 est.)<br>
+_permanent crops_: permanent crops: 10.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 3.4% (2018 est.)<br>
 _forest_: 36.1% (2018 est.)<br>
 _other_: 48.6% (2018 est.)<br>
 
@@ -318,10 +318,10 @@ _number of seats_: 52 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 10/13/2022<br>
-_parties elected and seats per party_: Union of Moderate Parties (UMP) (7); Vanua'aku Pati (VP) (7); Leaders Party of Vanuatu (LPV) (5); Reunification Movement for Change (RMC) (5); Graon mo Jastis Pati (Land and Justice Party, GJP) (4); National United Party (NUP) (4); Rural Development Party (RDP) (4); Iauko Group (IG) (3); Other (13)<br>
+_most recent election date_: 1/16/2025<br>
+_parties elected and seats per party_: Leaders Party of Vanuatu (LPV) (9); Vanua'aku Pati (VP) (7); Iauko Group (IG) (6); Union of Moderate Parties (UMP) (6); Rural Development Party (RDP) (6); Graon mo Jastis Pati (Land and Justice Party, GJP) (5); Reunification Movement for Change (RMC) (5); Other (8)<br>
 _percentage of women in chamber_: 1.9%<br>
-_expected date of next election_: January 2025<br>
+_expected date of next election_: January 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of 2 or more judges of the Supreme Court designated by the chief justice); Supreme Court (consists of the chief justice and 6 puisne judges - 3 local and 3 expatriate)<br>
@@ -329,7 +329,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: Magistrates Courts; Island Courts<br>
 
 **Political parties**<br>
-Iauko Group (Eagle Party) or IG <br>Laverwo Movement or LM <br>Land and Justice Party (Graon mo Jastis Pati or GJP) <br>Leaders Party of Vanuatu or LVP <br>Nagriamel Movement or NAG <br>National United Party or NUP <br>Nagwasoanda Custom Movement or NCM <br>People's Progressive Party or PPP <br>People Unity Development Party or PUDP <br>Rural Development Party or RDP <br>Reunification of Movement for Change or RMC <br>Union of Moderate Parties or UMP<br>Unity for Change Movement or UCM <br>Vanua'aku Pati (Our Land Party) or VP <br>Vanuatu Liberal Movement or VLM <br>Vanuatu National Development Party or VNDP <br>Vanuatu Progressive Development Party or VPDP<br>
+Iauko Group (Eagle Party) or IG <br>Land and Justice Party (Graon mo Jastis Pati or GJP) <br>Leaders Party of Vanuatu or LPV <br>Rural Development Party or RDP <br>Reunification of Movement for Change or RMC <br>Union of Moderate Parties or UMP<br>Vanua'aku Pati (Our Land Party) or VP<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IMSO, IOC, IOM, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIF, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -481,11 +481,11 @@ $132.943 million (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Thailand 42%, Japan 27%, South Korea 7%, Philippines 6%, China 5% (2022)<br>
+Thailand 49%, Japan 19%, Cote d'Ivoire 10%, China 7%, USA 3% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-fish, perfume plants, copra, shellfish, cocoa beans (2022)<br>
+fish, ships, perfume plants, wood, copra (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -495,11 +495,11 @@ $438.373 million (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 24%, Australia 15%, Malaysia 12%, NZ 9%, Fiji 8% (2022)<br>
+China 26%, Australia 15%, Angola 11%, Fiji 9%, NZ 8% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, ships, plastic products, poultry, broadcasting equipment (2022)<br>
+refined petroleum, ships, plastic products, poultry, trucks (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

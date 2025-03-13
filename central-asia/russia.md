@@ -56,9 +56,9 @@ wide natural-resource base including major deposits of oil, natural gas, coal, a
 
 **Land use**<br>
 _agricultural land_: 13.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 7.3% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5.7% (2018 est.)<br>
+_arable land_: arable land: 7.3% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 5.7% (2018 est.)<br>
 _forest_: 49.4% (2018 est.)<br>
 _other_: 37.5% (2018 est.)<br>
 
@@ -191,7 +191,7 @@ _unimproved: rural_: rural: 6.9% of population<br>
 _unimproved: total_: total: 2.4% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.6% of GDP (2020)<br>
+7.4% of GDP (2021)<br>
 
 **Physician density**<br>
 3.82 physicians/1,000 population (2020)<br>
@@ -260,9 +260,9 @@ ranges from steppes in the south through humid continental in much of European R
 
 **Land use**<br>
 _agricultural land_: 13.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 7.3% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5.7% (2018 est.)<br>
+_arable land_: arable land: 7.3% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 5.7% (2018 est.)<br>
 _forest_: 49.4% (2018 est.)<br>
 _other_: 37.5% (2018 est.)<br>
 
@@ -434,6 +434,9 @@ _lyrics/music_: Sergey Vladimirovich MIKHALKOV/Aleksandr Vasilyevich ALEKSANDROV
 _total World Heritage Sites_: 32 (21 cultural, 11 natural)<br>
 _selected World Heritage Site locales_: <p>Historic Centre of Saint Petersburg and Related Groups of Monuments (c); Kizhi Pogost (c); Kremlin and Red Square, Moscow (c); Cultural and Historic Ensemble of the Solovetsky Islands (c); Historic Monuments of Novgorod and Surroundings (c); White Monuments of Vladimir and Suzdal (c); Architectural Ensemble of the Trinity Sergius Lavra in Sergiev Posad (c); Church of the Ascension, Kolomenskoye (c); Virgin Komi Forests (n); Lake Baikal (n); Volcanoes of Kamchatka (n); Golden Mountains of Altai (n); Western Caucasus (n); Curonian Spit (c); Ensemble of the Ferapontov Monastery (c); Historic and Architectural Complex of the Kazan Kremlin (c); Central Sikhote-Alin (n); Citadel, Ancient City and Fortress Buildings of Derbent (c); Uvs Nuur Basin (n); Ensemble of the Novodevichy Convent(c); Natural System of Wrangel Island Reserve (n); Historical Centre of the City of Yaroslavl (c); Struve Geodetic Arc (c); Putorana Plateau (n); Lena Pillars Nature Park (n); Bolgar Historical and Archaeological Complex (c); Assumption Cathedral and Monastery of the town-island of Sviyazhsk (c); Landscapes of Dauria (n); Churches of the Pskov School of Architecture (c); Petroglyphs of Lake Onega and the White Sea (c); Astronomical Observatories of Kazan Federal University (c); Cultural Landscape of Kenozero Lake (c)</p><br>
 
+**National coat of arms**<br>
+The current coat of arms of Russia was adopted by presidential decree on 30 November 1993. The double-headed eagle was adopted as a Russian symbol in 1472 when Ivan III married Sophia Palaiologina, niece of the last Byzantine emperor in Constantinople. The eagle had served as her family's emblem.<br>
+
 ## Economy
 
 **Economic overview**<br>
@@ -489,7 +492,7 @@ _imports of goods and services_: -18.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-wheat, sugar beets, milk, barley, potatoes, sunflower seeds, maize, soybeans, chicken, pork (2022)<br>
+wheat, sugar beets, milk, barley, potatoes, sunflower seeds, maize, soybeans, chicken, pork (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -564,11 +567,11 @@ $549.717 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 21%, India 8%, Germany 6%, Turkey 5%, Italy 5% (2022)<br>
+China 33%, India 17%, Turkey 8%, Kazakhstan 4%, Brazil 3% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, natural gas, refined petroleum, coal, fertilizers (2022)<br>
+crude petroleum, refined petroleum, natural gas, coal, fertilizers (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -578,11 +581,11 @@ $376.923 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 39%, Germany 8%, Turkey 5%, Kazakhstan 5%, South Korea 3% (2022)<br>
+China 53%, Turkey 5%, Germany 5%, Kazakhstan 5%, Italy 2% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-packaged medicine, broadcasting equipment, cars, garments, plastic products (2022)<br>
+cars, packaged medicine, broadcasting equipment, garments, plastic products (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

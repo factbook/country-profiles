@@ -52,9 +52,9 @@ salt, fish, lobster<br>
 
 **Land use**<br>
 _agricultural land_: 0% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 0% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 61.1% (2018 est.)<br>
 _other_: 38.9% (2018 est.)<br>
 
@@ -161,9 +161,6 @@ _improved: total_: total: 97.5% of population<br>
 _unimproved: urban_: urban: 2.5% of population<br>
 _unimproved: total_: total: 2.5% of population (2017 est.)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 NA<br>
 
@@ -197,9 +194,9 @@ tropical; moderated by northeast trade winds<br>
 
 **Land use**<br>
 _agricultural land_: 0% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 0% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 61.1% (2018 est.)<br>
 _other_: 38.9% (2018 est.)<br>
 
@@ -293,6 +290,9 @@ _name_: "God Bless Anguilla"<br>
 _lyrics/music_: Alex RICHARDSON<br>
 <strong>note:</strong> local anthem adopted 1981; as an overseas territory of the United Kingdom, "God Save the King" is official (see United Kingdom)<br>
 
+**National coat of arms**<br>
+The Anguillan coat of arms features three interlocking dolphins jumping out of seawater. The dolphins represent endurance, unity, and strength, and their circular motion stands for continuity. The white background symbolizes peace and tranquility, and the turquoise-blue base represents the sea, as well as faith, youth, and hope.<br>
+
 ## Economy
 
 **Economic overview**<br>
@@ -344,11 +344,11 @@ $3.9 million (2016 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
-Chile 74%, Hungary 7%, Kyrgyzstan 3%, US 2%, Netherlands 2% (2022)<br>
+Chile 60%, Netherlands 8%, Brazil 5%, Hungary 4%, USA 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-packaged medicine, garments, vehicle parts/accessories, trucks, blank audio media (2022)<br>
+packaged medicine, garments, vehicle parts/accessories, vaccines, cars (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -356,11 +356,11 @@ $186.2 million (2017 est.)<br>
 $170.1 million (2016 est.)<br>
 
 **Imports - partners**<br>
-Chile 48%, US 27%, Botswana 18%, Canada 1%, Japan 1% (2022)<br>
+Chile 50%, USA 27%, Botswana 15%, Japan 1%, Dominican Republic 1% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-poultry, copper ore, refined petroleum, natural gas, fish (2022)<br>
+poultry, copper ore, natural gas, refined petroleum, fish (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

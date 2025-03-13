@@ -55,9 +55,9 @@ diamonds, copper, uranium, gold, silver, lead, tin, lithium, cadmium, tungsten, 
 
 **Land use**<br>
 _agricultural land_: 47.2% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 46.2% (2018 est.)<br>
+_arable land_: arable land: 1% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 46.2% (2018 est.)<br>
 _forest_: 8.8% (2018 est.)<br>
 _other_: 44% (2018 est.)<br>
 
@@ -186,7 +186,7 @@ _unimproved: rural_: rural: 16.8% of population<br>
 _unimproved: total_: total: 8.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-8.9% of GDP (2020)<br>
+9.4% of GDP (2021)<br>
 
 **Physician density**<br>
 0.59 physicians/1,000 population (2018)<br>
@@ -246,9 +246,9 @@ desert; hot, dry; rainfall sparse and erratic<br>
 
 **Land use**<br>
 _agricultural land_: 47.2% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 46.2% (2018 est.)<br>
+_arable land_: arable land: 1% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 46.2% (2018 est.)<br>
 _forest_: 8.8% (2018 est.)<br>
 _other_: 44% (2018 est.)<br>
 
@@ -537,11 +537,11 @@ $4.353 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-South Africa 28%, Botswana 11%, China 10%, Zambia 5%, France 4% (2022)<br>
+South Africa 27%, China 12%, Botswana 8%, Belgium 7%, France 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-diamonds, gold, fish, radioactive chemicals, ships (2022)<br>
+gold, diamonds, radioactive chemicals, fish, refined petroleum (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -551,11 +551,11 @@ $6.466 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-South Africa 41%, China 7%, Nigeria 5%, India 4%, UAE 4% (2022)<br>
+South Africa 36%, China 9%, India 7%, UAE 4%, USA 3% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, ships, copper ore, trucks, electricity (2022)<br>
+refined petroleum, copper ore, ships, electricity, trucks (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

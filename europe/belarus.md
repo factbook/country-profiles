@@ -52,9 +52,9 @@ timber, peat deposits, small quantities of oil and natural gas, granite, dolomit
 
 **Land use**<br>
 _agricultural land_: 43.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 27.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 15.9% (2018 est.)<br>
+_arable land_: arable land: 27.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.6% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 15.9% (2018 est.)<br>
 _forest_: 42.7% (2018 est.)<br>
 _other_: 13.6% (2018 est.)<br>
 
@@ -176,7 +176,7 @@ _unimproved: rural_: rural: 0.4% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.4% of GDP (2020)<br>
+6.6% of GDP (2021)<br>
 
 **Physician density**<br>
 4.54 physicians/1,000 population (2019)<br>
@@ -246,9 +246,9 @@ cold winters, cool and moist summers; transitional between continental and marit
 
 **Land use**<br>
 _agricultural land_: 43.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 27.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 15.9% (2018 est.)<br>
+_arable land_: arable land: 27.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.6% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 15.9% (2018 est.)<br>
 _forest_: 42.7% (2018 est.)<br>
 _other_: 13.6% (2018 est.)<br>
 
@@ -536,11 +536,11 @@ $49.435 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 15%, Ukraine 12%, Poland 9%, Kazakhstan 8%, Lithuania 8% (2022)<br>
+China 34%, Kazakhstan 10%, Uzbekistan 7%, Poland 6%, Brazil 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-fertilizers, refined petroleum, rapeseed oil, wood, beef (2022)<br>
+fertilizers, rapeseed oil, wood, poultry, beef (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -550,11 +550,11 @@ $45.485 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 26%, Poland 15%, Germany 12%, Lithuania 12%, Turkey 9% (2022)<br>
+China 33%, Poland 16%, Germany 11%, Lithuania 10%, Turkey 9% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars, packaged medicine, fabric, plastic products, vehicle parts/accessories (2022)<br>
+cars, broadcasting equipment, fabric, plastic products, video displays (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

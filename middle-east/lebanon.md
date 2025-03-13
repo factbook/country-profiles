@@ -52,9 +52,9 @@ limestone, iron ore, salt, water-surplus state in a water-deficit region, arable
 
 **Land use**<br>
 _agricultural land_: 63.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 11.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 12.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 39.1% (2018 est.)<br>
+_arable land_: arable land: 11.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 12.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 39.1% (2018 est.)<br>
 _forest_: 13.4% (2018 est.)<br>
 _other_: 23.3% (2018 est.)<br>
 
@@ -169,7 +169,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-8% of GDP (2020)<br>
+10.1% of GDP (2021)<br>
 
 **Physician density**<br>
 2.21 physicians/1,000 population (2019)<br>
@@ -238,9 +238,9 @@ Mediterranean; mild to cool, wet winters with hot, dry summers; the Lebanon Moun
 
 **Land use**<br>
 _agricultural land_: 63.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 11.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 12.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 39.1% (2018 est.)<br>
+_arable land_: arable land: 11.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 12.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 39.1% (2018 est.)<br>
 _forest_: 13.4% (2018 est.)<br>
 _other_: 23.3% (2018 est.)<br>
 
@@ -502,11 +502,11 @@ $9.684 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-UAE 22%, Syria 8%, Egypt 5%, US 5%, Turkey 4% (2022)<br>
+UAE 26%, Egypt 7%, Turkey 5%, Iraq 5%, USA 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-diamonds, plastics, jewelry, gold, scrap iron (2022)<br>
+jewelry, cars, diamonds, scrap iron, gold (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -516,11 +516,11 @@ $17.667 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 14%, Turkey 13%, Greece 9%, UAE 7%, Italy 5% (2022)<br>
+Switzerland 12%, China 11%, Greece 9%, Turkey 8%, Italy 6% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, gold, broadcasting equipment, diamonds (2022)<br>
+refined petroleum, gold, cars, packaged medicine, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
@@ -669,7 +669,7 @@ the LAF inventory includes a wide mix of mostly older equipment from a diverse a
 <strong>note:</strong> women were allowed to volunteer for military service in the 1980s; as of 2023, they comprised about 5% of the active duty military<br>
 
 **Military - note**<br>
-the primary responsibilities of the Lebanese Armed Forces (LAF) are defense against external attack, border security, protecting the country’s territorial waters, and assisting with internal security and development projects; on Lebanon’s eastern and northern borders with Syria, the LAF has conducted operations to prevent or eliminate infiltrations of militants linked to the Islamic State of Iraq and ash-Sham (ISIS) and al-Qa’ida terrorist groups since the start of the Syrian civil war in 2011; in the south, its focus is on maintaining stability along its volatile land border with Israel where the LAF and the Israel Defense Forces (IDF) are separated by the "Blue Line," a demarcation line established by the UN in 2000 following the withdrawal of the IDF, which had occupied southern Lebanon since invading in 1982; since the line’s establishment, the LAF and IDF have had periodic clashes, and IDF aircraft have routinely entered Lebanese air space<br><br>the Iranian-backed terrorist group Hizballah is based in south Lebanon where it has significant influence and acts as a militia alongside the LAF; it has launched periodic cross-border attacks on Israel and threatened additional attacks, while the IDF has conducted air strikes on Hizballah positions and in 2006 launched a ground invasion into southern Lebanon to suppress the group; following the terrorist group HAMAS's attack on Israel from Gaza in October 2023 and subsequent Israeli invasion of Gaza, Hizballah has sought to demonstrate solidarity with HAMAS by launching barrages of missiles, rockets, and armed drones into northern Israel; these attacks continued into 2024 and have been countered by numerous strikes from Israel on Hizballah targets in Lebanon <br><br>the LAF’s domestic security responsibilities include countering narcotics trafficking and smuggling, managing protests, conducting search and rescue, and intervening to prevent violence between rival political factions; in recent years, the military has faced a financial crisis as government debt and national economic difficulties have undercut its ability to train and fully pay and supply personnel, which has sparked domestic and international fears that the armed forces may disintegrate; the UN, as well as individual countries such as France and the US have provided financial assistance <br><br>the UN Interim Force In Lebanon (UNIFIL) has operated in the country since 1978, originally under UNSCRs 425 and 426 to confirm Israeli withdrawal from Lebanon, restore international peace and security, and assist the Lebanese Government in restoring its effective authority in the area; following the July-August 2006 war, the UN Security Council adopted resolution 1701 enhancing UNIFIL and deciding that in addition to the original mandate, it would, among other things, monitor the cessation of hostilities, support the LAF as they deployed throughout the south of Lebanon, and provide assistance for humanitarian access for civilians and the return of displaced persons; UNIFIL has approximately 9,500 military personnel deployed in the country and includes a maritime task force (2024)<br>
+the primary responsibilities of the Lebanese Armed Forces (LAF) are defense against external attack, border security, protecting the country’s territorial waters, and assisting with internal security and development projects<br><br>the LAF’s domestic security responsibilities include countering narcotics trafficking and smuggling, managing protests, conducting search and rescue, and intervening to prevent violence between rival political factions; in recent years, the military has faced a financial crisis as government debt and national economic difficulties have undercut its ability to train and fully pay and supply personnel, which has sparked domestic and international fears that the armed forces might disintegrate; the UN, as well as individual countries such as France and the US have provided financial assistance <br><br>the UN Interim Force In Lebanon (UNIFIL) has operated in the southern part of the country since 1978; it has approximately 9,500 military personnel assigned and includes a maritime task force (2024)<br>
 
 ## Terrorism
 

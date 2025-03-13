@@ -51,9 +51,9 @@ spiny lobster, conch<br>
 
 **Land use**<br>
 _agricultural land_: 1.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 1.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 1.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 36.2% (2018 est.)<br>
 _other_: 62.7% (2018 est.)<br>
 
@@ -157,9 +157,6 @@ _female_: 84.1 years<br>
 _improved: total_: total: 94.3% of population<br>
 _unimproved: total_: total: 5.7% of population (2017)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 NA<br>
 
@@ -207,9 +204,9 @@ tropical; marine; moderated by trade winds; sunny and relatively dry<br>
 
 **Land use**<br>
 _agricultural land_: 1.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 1.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 1.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 36.2% (2018 est.)<br>
 _other_: 62.7% (2018 est.)<br>
 
@@ -393,11 +390,11 @@ $741.173 million (2016 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Togo 61%, US 13%, Zimbabwe 6%, Democratic Republic of the Congo 3%, Central African Republic 2% (2022)<br>
+Gabon 27%, USA 25%, Zimbabwe 17%, Czechia 8%, UAE 3% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-fertilizers, shellfish, plastics, sulfur, soybean oil (2022)<br>
+plastics, shellfish, carbonates, tobacco, garments (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -407,11 +404,11 @@ $438.041 million (2016 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-US 75%, Dominican Republic 6%, Italy 3%, Switzerland 2%, China 2% (2022)<br>
+USA 73%, Dominican Republic 4%, Italy 3%, Japan 3%, China 2% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, plastic products, furniture, aluminum structures (2022)<br>
+refined petroleum, cars, aluminum structures, furniture, plastic products (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>

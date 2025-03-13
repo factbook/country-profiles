@@ -51,9 +51,9 @@ timber, fish, cobalt, hydropower<br>
 
 **Land use**<br>
 _agricultural land_: 12.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 6.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5.5% (2018 est.)<br>
+_arable land_: arable land: 0.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 6.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 5.5% (2018 est.)<br>
 _forest_: 43.7% (2018 est.)<br>
 _other_: 43.8% (2018 est.)<br>
 
@@ -162,9 +162,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 NA<br>
 
@@ -200,9 +197,9 @@ tropical, but moderate<br>
 
 **Land use**<br>
 _agricultural land_: 12.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 6.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5.5% (2018 est.)<br>
+_arable land_: arable land: 0.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 6.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 5.5% (2018 est.)<br>
 _forest_: 43.7% (2018 est.)<br>
 _other_: 43.8% (2018 est.)<br>
 
@@ -409,11 +406,11 @@ $184 million (2019 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-France 18%, US 18%, Hong Kong 18%, Japan 13%, Netherlands 9% (2022)<br>
+Japan 44%, USA 15%, France 12%, Netherlands 9%, China 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-pearls, fish, aircraft parts, coconut oil, electrical power accessories (2022)<br>
+pearls, fish, aircraft parts, gas turbines, vanilla (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -423,11 +420,11 @@ $2.24 billion (2019 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-France 30%, China 13%, US 9%, South Korea 6%, NZ 6% (2022)<br>
+France 26%, China 11%, USA 10%, NZ 7%, Malaysia 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, packaged medicine, beef, plastic products (2022)<br>
+cars, packaged medicine, refined petroleum, poultry, broadcasting equipment (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>

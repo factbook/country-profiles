@@ -54,9 +54,9 @@ limestone, graphite, mineral sands, gems, phosphates, clay, hydropower, arable l
 
 **Land use**<br>
 _agricultural land_: 43.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 20.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 15.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 7% (2018 est.)<br>
+_arable land_: arable land: 20.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 15.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 7% (2018 est.)<br>
 _forest_: 29.4% (2018 est.)<br>
 _other_: 27.1% (2018 est.)<br>
 
@@ -173,7 +173,7 @@ _unimproved: rural_: rural: 8.8% of population<br>
 _unimproved: total_: total: 7.2% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.1% of GDP (2020)<br>
+4.1% of GDP (2021)<br>
 
 **Physician density**<br>
 1.23 physicians/1,000 population (2020)<br>
@@ -242,9 +242,9 @@ tropical monsoon; northeast monsoon (December to March); southwest monsoon (June
 
 **Land use**<br>
 _agricultural land_: 43.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 20.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 15.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 7% (2018 est.)<br>
+_arable land_: arable land: 20.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 15.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 7% (2018 est.)<br>
 _forest_: 29.4% (2018 est.)<br>
 _other_: 27.1% (2018 est.)<br>
 
@@ -518,11 +518,11 @@ $14.974 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 24%, India 8%, UK 7%, Germany 6%, Italy 4% (2022)<br>
+USA 22%, India 7%, Germany 7%, UK 7%, Italy 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-garments, tea, used rubber tires, rubber products, precious stones (2022)<br>
+garments, tea, precious stones, used rubber tires, rubber products (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -532,11 +532,11 @@ $21.526 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-India 34%, China 19%, UAE 5%, Malaysia 4%, Singapore 4% (2022)<br>
+India 21%, China 19%, UAE 10%, Singapore 5%, Malaysia 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, fabric, ships, cotton fabric, synthetic fabric (2022)<br>
+refined petroleum, fabric, crude petroleum, packaged medicine, cotton fabric (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

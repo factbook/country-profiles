@@ -55,9 +55,9 @@ bauxite, alumina, gypsum, limestone<br>
 
 **Land use**<br>
 _agricultural land_: 41.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 11.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 9.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 21.1% (2018 est.)<br>
+_arable land_: arable land: 11.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 9.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 21.1% (2018 est.)<br>
 _forest_: 31.1% (2018 est.)<br>
 _other_: 27.5% (2018 est.)<br>
 
@@ -173,7 +173,7 @@ _unimproved: rural_: rural: 6.1% of population<br>
 _unimproved: total_: total: 3.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.6% of GDP (2020)<br>
+7.2% of GDP (2021)<br>
 
 **Physician density**<br>
 0.53 physicians/1,000 population (2018)<br>
@@ -238,9 +238,9 @@ tropical; hot, humid; temperate interior<br>
 
 **Land use**<br>
 _agricultural land_: 41.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 11.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 9.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 21.1% (2018 est.)<br>
+_arable land_: arable land: 11.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 9.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 21.1% (2018 est.)<br>
 _forest_: 31.1% (2018 est.)<br>
 _other_: 27.5% (2018 est.)<br>
 
@@ -511,11 +511,11 @@ $4.401 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 57%, Russia 5%, Canada 4%, UK 4%, Iceland 2% (2022)<br>
+USA 37%, Russia 7%, Latvia 7%, Iceland 7%, UK 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, natural gas, aluminum oxide, liquor, aluminum ore (2022)<br>
+aluminum oxide, refined petroleum, natural gas, liquor, processed fruits and nuts (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -525,11 +525,11 @@ $7.405 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-US 36%, China 12%, Trinidad and Tobago 6%, Brazil 5%, Turkey 4% (2022)<br>
+USA 39%, China 11%, Brazil 4%, Colombia 4%, Japan 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, crude petroleum, natural gas, cars, plastic products (2022)<br>
+refined petroleum, natural gas, cars, crude petroleum, plastic products (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

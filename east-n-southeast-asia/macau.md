@@ -159,9 +159,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 NA<br>
 
@@ -350,7 +347,7 @@ _imports of goods and services_: -50.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-pork, chicken, beef, eggs, pork offal, pork fat, pepper, beef offal, cattle hides, goose meat (2022)<br>
+pork, chicken, beef, eggs, pork offal, pork fat, pepper, beef offal, cattle hides, goose meat (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -407,11 +404,11 @@ $28.163 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Hong Kong 65%, China 8%, US 7%, Switzerland 3%, Israel 2% (2022)<br>
+Hong Kong 73%, China 6%, USA 6%, Philippines 3%, Singapore 1% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-jewelry, garments, broadcasting equipment, precious metal watches, trunks and cases (2022)<br>
+jewelry, garments, broadcasting equipment, precious metal watches, video and card games (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -421,11 +418,11 @@ $23.77 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 39%, Hong Kong 25%, France 5%, Italy 4%, US 3% (2022)<br>
+China 36%, Hong Kong 17%, USA 6%, France 6%, Japan 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-jewelry, garments, electricity, broadcasting equipment, trunks and cases (2022)<br>
+jewelry, garments, trunks and cases, broadcasting equipment, electricity (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

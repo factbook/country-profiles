@@ -51,9 +51,9 @@ salt, aragonite, timber, arable land<br>
 
 **Land use**<br>
 _agricultural land_: 1.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.4% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.2% (2018 est.)<br>
+_arable land_: arable land: 0.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.4% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0.2% (2018 est.)<br>
 _forest_: 51.4% (2018 est.)<br>
 _other_: 47.2% (2018 est.)<br>
 
@@ -159,7 +159,7 @@ _improved: total_: total: 98.9% of population<br>
 _unimproved: total_: total: 1.1% of population (2017 est.)<br>
 
 **Current health expenditure**<br>
-7.6% of GDP (2020)<br>
+7.1% of GDP (2021)<br>
 
 **Physician density**<br>
 1.94 physicians/1,000 population (2017)<br>
@@ -214,9 +214,9 @@ tropical marine; moderated by warm waters of Gulf Stream<br>
 
 **Land use**<br>
 _agricultural land_: 1.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.4% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.2% (2018 est.)<br>
+_arable land_: arable land: 0.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.4% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0.2% (2018 est.)<br>
 _forest_: 51.4% (2018 est.)<br>
 _other_: 47.2% (2018 est.)<br>
 
@@ -359,6 +359,9 @@ _name_: "March On, Bahamaland!"<br>
 _lyrics/music_: Timothy GIBSON<br>
 <strong>note:</strong> adopted 1973; as a Commonwealth country, in addition to the national anthem, "God Save the King" serves as the royal anthem (see United Kingdom)<br>
 
+**National coat of arms**<br>
+The motto on the Bahamas coat of arms is &ldquo;Forward, Upward, Onward Together.&rdquo; The flamingo and marlin supporting the shield are national animals that represent respectively the land and sea; the pink conch shell symbolizes the marine life of the islands; and the green palm fronds represent the natural vegetation. The Santa Maria, Christopher Columbus&rsquo;s flagship, also appears on the shield, and the sun signifies the world-famous climate and the bright future of the islands.<br>
+
 ## Economy
 
 **Economic overview**<br>
@@ -413,7 +416,7 @@ _imports of goods and services_: -43% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-sugarcane, grapefruits, vegetables, bananas, tomatoes, chicken, tropical fruits, oranges, coconuts, mangoes/guavas (2022)<br>
+sugarcane, grapefruits, vegetables, bananas, tomatoes, chicken, tropical fruits, oranges, coconuts, mangoes/guavas (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -470,11 +473,11 @@ $3.33 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 49%, Cote d'Ivoire 20%, Germany 9%, Thailand 7%, Poland 4% (2022)<br>
+USA 36%, Zimbabwe 16%, Cote d'Ivoire 14%, Germany 8%, Guyana 8% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, ships, aluminum, postage stamps/documents, plastics (2022)<br>
+refined petroleum, ships, aluminum, shellfish, plastics (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -484,11 +487,11 @@ $4.947 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-US 59%, South Korea 6%, Germany 6%, China 5%, Brazil 4% (2022)<br>
+USA 60%, Germany 13%, China 5%, Japan 3%, Brazil 2% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, ships, cars, crude petroleum, coal tar oil (2022)<br>
+refined petroleum, ships, aircraft, cars, crude petroleum (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
@@ -537,11 +540,11 @@ _Total energy consumption per capita 2022_: 115.318 million Btu/person (2022 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 86,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 21 (2022 est.)<br>
+_total subscriptions_: 97,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 24 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 404,000 (2022 est.)<br>
+_total subscriptions_: 400,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 99 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -556,11 +559,11 @@ The Bahamas has 4 major TV providers that provide service to all major islands i
 .bs<br>
 
 **Internet users**<br>
-_percent of population_: 94% (2021 est.)<br>
+_percent of population_: 94% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 83,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 21 (2020 est.)<br>
+_total_: 95,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 24 (2023 est.)<br>
 
 ## Transportation
 

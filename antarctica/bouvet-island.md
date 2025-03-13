@@ -50,9 +50,9 @@ none<br>
 
 **Land use**<br>
 _agricultural land_: 0% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 0% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 100% (2018 est.)<br>
 
@@ -77,9 +77,9 @@ antarctic<br>
 
 **Land use**<br>
 _agricultural land_: 0% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 0% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 100% (2018 est.)<br>
 
@@ -101,22 +101,6 @@ the laws of Norway apply where applicable<br>
 the flag of Norway is used<br>
 
 ## Economy
-
-**Exports - partners**<br>
-Singapore 76%, US 7%, Uzbekistan 5%, UK 2%, Brazil 1% (2022)<br>
-<b>note:</b> top five export partners based on percentage share of exports<br>
-
-**Exports - commodities**<br>
-fish, tensile testing machines, jewelry, paper, garments (2022)<br>
-<b>note:</b> top five export commodities based on value in dollars<br>
-
-**Imports - partners**<br>
-Singapore 72%, US 18%, Panama 3%, Indonesia 2%, Denmark 1% (2022)<br>
-<b>note:</b> top five import partners based on percentage share of imports<br>
-
-**Imports - commodities**<br>
-aluminum structures, animal products, cement, air pumps, electrical transformers (2022)<br>
-<b>note:</b> top five import commodities based on value in dollars<br>
 
 ## Communications
 

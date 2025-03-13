@@ -54,9 +54,9 @@ peat, limestone, dolomite, amber, hydropower, timber, arable land<br>
 
 **Land use**<br>
 _agricultural land_: 29.2% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 18.6% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 10.5% (2018 est.)<br>
+_arable land_: arable land: 18.6% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 10.5% (2018 est.)<br>
 _forest_: 54.1% (2018 est.)<br>
 _other_: 16.7% (2018 est.)<br>
 
@@ -174,7 +174,7 @@ _unimproved: rural_: rural: 1.4% of population<br>
 _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.5% of GDP (2020)<br>
+9% of GDP (2021)<br>
 
 **Physician density**<br>
 3.4 physicians/1,000 population (2020)<br>
@@ -239,9 +239,9 @@ maritime; wet, moderate winters<br>
 
 **Land use**<br>
 _agricultural land_: 29.2% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 18.6% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 10.5% (2018 est.)<br>
+_arable land_: arable land: 18.6% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 10.5% (2018 est.)<br>
 _forest_: 54.1% (2018 est.)<br>
 _other_: 16.7% (2018 est.)<br>
 
@@ -512,11 +512,11 @@ $25.463 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Lithuania 18%, Estonia 10%, Germany 6%, Russia 6%, Sweden 5% (2022)<br>
+Lithuania 19%, Estonia 6%, Russia 6%, Germany 6%, Sweden 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-wood, wheat, natural gas, electricity, broadcasting equipment (2022)<br>
+wood, wheat, broadcasting equipment, packaged medicine, natural gas (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -526,11 +526,11 @@ $26.684 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Lithuania 22%, Estonia 10%, Germany 9%, Poland 9%, Russia 6% (2022)<br>
+Lithuania 18%, Germany 11%, Poland 10%, Estonia 8%, Finland 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-natural gas, refined petroleum, electricity, cars, packaged medicine (2022)<br>
+refined petroleum, cars, packaged medicine, broadcasting equipment, natural gas (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

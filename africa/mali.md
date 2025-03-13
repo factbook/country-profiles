@@ -53,9 +53,9 @@ gold, phosphates, kaolin, salt, limestone, uranium, gypsum, granite, hydropower<
 
 **Land use**<br>
 _agricultural land_: 34.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 5.6% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 28.4% (2018 est.)<br>
+_arable land_: arable land: 5.6% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 28.4% (2018 est.)<br>
 _forest_: 10.2% (2018 est.)<br>
 _other_: 55.7% (2018 est.)<br>
 
@@ -187,7 +187,7 @@ _unimproved: rural_: rural: 24.1% of population<br>
 _unimproved: total_: total: 13.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.3% of GDP (2020)<br>
+4.5% of GDP (2021)<br>
 
 **Physician density**<br>
 0.13 physicians/1,000 population (2018)<br>
@@ -257,9 +257,9 @@ subtropical to arid; hot and dry (February to June); rainy, humid, and mild (Jun
 
 **Land use**<br>
 _agricultural land_: 34.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 5.6% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 28.4% (2018 est.)<br>
+_arable land_: arable land: 5.6% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 28.4% (2018 est.)<br>
 _forest_: 10.2% (2018 est.)<br>
 _other_: 55.7% (2018 est.)<br>
 
@@ -537,11 +537,11 @@ $5.196 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-UAE 74%, Switzerland 17%, Australia 5%, China 1%, Turkey 1% (2022)<br>
+UAE 73%, Switzerland 15%, Australia 5%, China 1%, Uganda 1% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, cotton, oil seeds, wood, fertilizers (2022)<br>
+gold, cotton, oil seeds, fertilizers, gum resins (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -551,11 +551,11 @@ $6.339 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Cote d'Ivoire 24%, Senegal 19%, China 10%, France 6%, Burkina Faso 5% (2022)<br>
+Cote d'Ivoire 25%, Senegal 19%, China 12%, France 5%, Burkina Faso 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cotton fabric, broadcasting equipment, packaged medicine, gold (2022)<br>
+refined petroleum, broadcasting equipment, cement, cotton fabric, plastic products (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

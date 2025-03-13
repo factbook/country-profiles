@@ -52,9 +52,9 @@ diamonds, uranium, timber, gold, oil, hydropower<br>
 
 **Land use**<br>
 _agricultural land_: 8.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5.1% (2018 est.)<br>
+_arable land_: arable land: 2.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 5.1% (2018 est.)<br>
 _forest_: 36.2% (2018 est.)<br>
 _other_: 55.7% (2018 est.)<br>
 
@@ -179,7 +179,7 @@ _unimproved: rural_: rural: 52.5% of population<br>
 _unimproved: total_: total: 37.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-9.4% of GDP (2020)<br>
+9.1% of GDP (2021)<br>
 
 **Physician density**<br>
 0.07 physicians/1,000 population (2018)<br>
@@ -244,9 +244,9 @@ tropical; hot, dry winters; mild to hot, wet summers<br>
 
 **Land use**<br>
 _agricultural land_: 8.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5.1% (2018 est.)<br>
+_arable land_: arable land: 2.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 5.1% (2018 est.)<br>
 _forest_: 36.2% (2018 est.)<br>
 _other_: 55.7% (2018 est.)<br>
 
@@ -513,11 +513,11 @@ $353.021 million (2020 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-UAE 40%, Italy 11%, Pakistan 10%, China 10%, France 6% (2022)<br>
+UAE 54%, China 14%, France 6%, Turkey 5%, Belgium 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, wood, diamonds, vehicle parts/accessories, electrical machinery (2022)<br>
+gold, wood, diamonds, vehicle parts/accessories, cotton (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -527,11 +527,11 @@ $799.195 million (2020 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Cameroon 28%, US 8%, China 7%, France 6%, South Korea 5% (2022)<br>
+China 16%, Cameroon 14%, France 8%, Belgium 6%, Cote d'Ivoire 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, engines, aircraft, prefabricated buildings, packaged medicine (2022)<br>
+refined petroleum, cars, packaged medicine, vaccines, tanks and armored vehicles (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

@@ -52,9 +52,9 @@ asbestos, coal, clay, cassiterite, hydropower, forests, small gold and diamond d
 
 **Land use**<br>
 _agricultural land_: 68.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 9.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 57.7% (2018 est.)<br>
+_arable land_: arable land: 9.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 57.7% (2018 est.)<br>
 _forest_: 31.7% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
@@ -169,7 +169,7 @@ _unimproved: rural_: rural: 25.2% of population<br>
 _unimproved: total_: total: 19.7% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.5% of GDP (2020)<br>
+7% of GDP (2021)<br>
 
 **Physician density**<br>
 0.14 physicians/1,000 population (2020)<br>
@@ -234,9 +234,9 @@ varies from tropical to near temperate<br>
 
 **Land use**<br>
 _agricultural land_: 68.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 9.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 57.7% (2018 est.)<br>
+_arable land_: arable land: 9.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 57.7% (2018 est.)<br>
 _forest_: 31.7% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
@@ -384,6 +384,9 @@ _name_: "Nkulunkulu Mnikati wetibusiso temaSwati" (Oh God, Bestower of the Bless
 _lyrics/music_: Andrease Enoke Fanyana SIMELANE/David Kenneth RYCROFT<br>
 <strong>note:</strong> adopted 1968; uses elements of both ethnic Swazi and Western music styles<br>
 
+**National coat of arms**<br>
+Eswatini&rsquo;s national coat of arms was adopted in 1968 after it gained independence from the United Kingdom. Two national symbols, the lion (representing the king of Eswatini) and the elephant (representing the queen mother), support a traditional Nguni shield. Above the shield is the king's lidlabe, or crown of feathers, and at the bottom is Eswatini's motto, &ldquo;Siyinqaba,&rdquo; or "We are the fortress.&rdquo;<br>
+
 ## Economy
 
 **Economic overview**<br>
@@ -505,11 +508,11 @@ $2.132 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-South Africa 66%, Kenya 5%, Nigeria 3%, Democratic Republic of the Congo 3%, Mozambique 3% (2022)<br>
+South Africa 61%, Ireland 4%, Mozambique 4%, Kenya 4%, Nigeria 3% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-scented mixtures, raw sugar, garments, industrial acids/oils/alcohols, wood (2022)<br>
+scented mixtures, raw sugar, industrial acids/oils/alcohols, garments, wood (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -519,11 +522,11 @@ $2.173 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-South Africa 76%, China 4%, US 3%, Mozambique 3%, Mauritania 3% (2022)<br>
+South Africa 71%, China 8%, India 4%, USA 2%, Mozambique 1% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, gold, plastic products, electricity, garments (2022)<br>
+refined petroleum, electricity, plastic products, cotton fabric, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

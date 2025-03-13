@@ -54,9 +54,9 @@ coal, iron ore, limestone, magnesite, graphite, copper, zinc, lead, precious met
 
 **Land use**<br>
 _agricultural land_: 21.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 19.5% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.4% (2018 est.)<br>
+_arable land_: arable land: 19.5% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0.4% (2018 est.)<br>
 _forest_: 46% (2018 est.)<br>
 _other_: 32.2% (2018 est.)<br>
 
@@ -169,9 +169,6 @@ _unimproved: urban_: urban: 2.2% of population<br>
 _unimproved: rural_: rural: 10.9% of population<br>
 _unimproved: total_: total: 5.5% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 3.68 physicians/1,000 population (2017)<br>
 
@@ -235,9 +232,9 @@ temperate, with rainfall concentrated in summer; long, bitter winters<br>
 
 **Land use**<br>
 _agricultural land_: 21.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 19.5% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.4% (2018 est.)<br>
+_arable land_: arable land: 19.5% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0.4% (2018 est.)<br>
 _forest_: 46% (2018 est.)<br>
 _other_: 32.2% (2018 est.)<br>
 
@@ -425,11 +422,11 @@ $4.582 billion (2017 est.)<br>
 $2.908 billion (2015 est.)<br>
 
 **Exports - partners**<br>
-China 53%, Senegal 11%, Nigeria 6%, Poland 4%, Netherlands 3% (2022)<br>
+China 74%, Poland 3%, Senegal 3%, Angola 3%, Austria 3% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-tungsten ore, refined petroleum, iron alloys, electricity, molybdenum ore (2022)<br>
+fake hair, iron alloys, tungsten ore, electricity, cars (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -437,11 +434,11 @@ $2.32 billion (2018 est.)<br>
 $3.86 billion (2016 est.)<br>
 
 **Imports - partners**<br>
-China 98%, Zimbabwe 0%, Netherlands 0%, India 0%, Colombia 0% (2022)<br>
+China 97%, Togo 1%, Peru 1%, Gabon 1%, India 0% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-plastic products, tobacco, soybean oil, rubber tires, packaged medicine (2022)<br>
+processed hair, plastic products, garments, fabric, soybean oil (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>

@@ -54,9 +54,9 @@ hydropower, geothermal power, petroleum, arable land<br>
 
 **Land use**<br>
 _agricultural land_: 74.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 33.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 10.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 30.7% (2018 est.)<br>
+_arable land_: arable land: 33.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 10.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 30.7% (2018 est.)<br>
 _forest_: 13.6% (2018 est.)<br>
 _other_: 11.7% (2018 est.)<br>
 
@@ -176,7 +176,7 @@ _unimproved: rural_: rural: 5.8% of population<br>
 _unimproved: total_: total: 1.8% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-9.9% of GDP (2020)<br>
+9.7% of GDP (2021)<br>
 
 **Physician density**<br>
 2.87 physicians/1,000 population (2018)<br>
@@ -245,9 +245,9 @@ tropical; rainy season (May to October); dry season (November to April); tropica
 
 **Land use**<br>
 _agricultural land_: 74.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 33.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 10.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 30.7% (2018 est.)<br>
+_arable land_: arable land: 33.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 10.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 30.7% (2018 est.)<br>
 _forest_: 13.6% (2018 est.)<br>
 _other_: 11.7% (2018 est.)<br>
 
@@ -515,11 +515,11 @@ $8.351 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 38%, Guatemala 16%, Honduras 16%, Nicaragua 7%, Costa Rica 4% (2022)<br>
+USA 36%, Guatemala 17%, Honduras 15%, Nicaragua 8%, Costa Rica 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-garments, plastic products, electrical capacitors, fabric, raw sugar (2022)<br>
+garments, plastic products, electrical capacitors, raw sugar, toilet paper (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -529,11 +529,11 @@ $15.483 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-US 30%, China 16%, Guatemala 12%, Mexico 8%, Honduras 6% (2022)<br>
+USA 28%, China 15%, Guatemala 11%, Mexico 8%, Honduras 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, garments, natural gas, plastic products, plastics (2022)<br>
+refined petroleum, natural gas, garments, packaged medicine, plastics (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

@@ -54,9 +54,9 @@ copper, silver, gold, petroleum, timber, fish, iron ore, coal, phosphate, potash
 
 **Land use**<br>
 _agricultural land_: 18.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 3.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 14.6% (2018 est.)<br>
+_arable land_: arable land: 3.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 14.6% (2018 est.)<br>
 _forest_: 53% (2018 est.)<br>
 _other_: 28.2% (2018 est.)<br>
 
@@ -188,7 +188,7 @@ _unimproved: rural_: rural: 17.6% of population<br>
 _unimproved: total_: total: 6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.3% of GDP (2020)<br>
+6.2% of GDP (2021)<br>
 
 **Physician density**<br>
 1.37 physicians/1,000 population (2018)<br>
@@ -257,9 +257,9 @@ varies from tropical in east to dry desert in west; temperate to frigid in Andes
 
 **Land use**<br>
 _agricultural land_: 18.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 3.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 14.6% (2018 est.)<br>
+_arable land_: arable land: 3.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 14.6% (2018 est.)<br>
 _forest_: 53% (2018 est.)<br>
 _other_: 28.2% (2018 est.)<br>
 
@@ -326,8 +326,7 @@ _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
 _etymology_: the word "Lima" derives from the Spanish pronunciation of "Limaq," the native name for the valley in which the city was founded in 1535; "limaq" means "talker" in coastal Quechua and referred to an oracle that was situated in the valley but which was eventually destroyed by the Spanish and replaced with a church<br>
 
 **Administrative divisions**<br>
-25 regions (regiones, singular - region) and 1 province* (provincia); Amazonas, Ancash, Apurimac, Arequipa, Ayacucho, Cajamarca, Callao, Cusco, Huancavelica, Huanuco, Ica, Junin, La Libertad, Lambayeque, Lima, Lima*, Loreto, Madre de Dios, Moquegua, Pasco, Piura, Puno, San Martin, Tacna, Tumbes, Ucayali<br>
-<strong>note:</strong> Callao, the largest port in Peru, is also referred to as a constitutional province, the only province of the Callao region<br>
+24 departments (departamentos, singular - departamento), 1 province* (provincia), and 1 constitutional province** (provincia constitucional); Amazonas, Ancash, Apurimac, Arequipa, Ayacucho, Cajamarca, Callao**, Cusco, Huancavelica, Huanuco, Ica, Junin, La Libertad, Lambayeque, Lima, Lima*, Loreto, Madre de Dios, Moquegua, Pasco, Piura, Puno, San Martin, Tacna, Tumbes, Ucayali<br>
 
 **Independence**<br>
 28 July 1821 (from Spain)<br>
@@ -546,11 +545,11 @@ $66.061 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 30%, US 15%, Japan 5%, Canada 5%, South Korea 4% (2022)<br>
+China 34%, USA 14%, Canada 5%, India 4%, Switzerland 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-copper ore, gold, natural gas, refined copper, refined petroleum (2022)<br>
+copper ore, gold, refined copper, refined petroleum, grapes (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -560,11 +559,11 @@ $58.509 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 27%, US 24%, Brazil 6%, Argentina 4%, Chile 3% (2022)<br>
+China 26%, USA 21%, Brazil 7%, Argentina 5%, Mexico 3% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, crude petroleum, cars, broadcasting equipment, trucks (2022)<br>
+refined petroleum, crude petroleum, cars, trucks, broadcasting equipment (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

@@ -52,9 +52,9 @@ coconuts (copra)<br>
 
 **Land use**<br>
 _agricultural land_: 8.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 4.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 4.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 4.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 4.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 64.6% (2018 est.)<br>
 _other_: 27% (2018 est.)<br>
 
@@ -222,9 +222,9 @@ tropical oceanic; moderated by trade winds; a dry season from April to November 
 
 **Land use**<br>
 _agricultural land_: 8.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 4.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 4.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 4.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 4.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 64.6% (2018 est.)<br>
 _other_: 27% (2018 est.)<br>
 
@@ -250,7 +250,7 @@ _etymology_: named after Captain James COOK, the British explorer who visited th
 parliamentary democracy<br>
 
 **Dependency status**<br>
-self-governing in free association with New Zealand; Cook Islands is fully responsible for internal affairs; New Zealand retains responsibility for external affairs and defense in consultation with the Cook Islands<br>
+self-governing in free association with New Zealand; Cook Islands is fully responsible for internal affairs and conducts its own international relations, including establishing diplomatic relationships with foreign countries; New Zealand has a constitutional responsibility to respond to requests for assistance with foreign affairs, disasters, and defense from the Government of the Cook Islands<br>
 
 **Capital**<br>
 _name_: Avarua<br>
@@ -370,22 +370,22 @@ $31.4 million (2021 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
-Japan 42%, France 27%, Thailand 12%, US 4%, Italy 3% (2022)<br>
+Japan 33%, Thailand 15%, Greece 15%, France 11%, China 8% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-fish, ships, surveying equipment, sports equipment, garments (2022)<br>
-<b>note:</b> top five export commodities based on value in dollars<br>
+fish, ships, garments, shellfish (2023)<br>
+<strong>note:</strong> top export commodities based on value in dollars over $500,000<br>
 
 **Imports**<br>
 $215 million (2021 est.)<br>
 
 **Imports - partners**<br>
-NZ 51%, Italy 18%, Fiji 11%, China 7%, Australia 3% (2022)<br>
+NZ 44%, Italy 26%, Fiji 9%, China 7%, Australia 3% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, ships, cars, plastic products, other foods (2022)<br>
+ships, refined petroleum, cars, plastic products, additive manufacturing machines (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>

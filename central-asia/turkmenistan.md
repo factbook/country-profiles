@@ -52,9 +52,9 @@ petroleum, natural gas, sulfur, salt<br>
 
 **Land use**<br>
 _agricultural land_: 72% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 4.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 67.8% (2018 est.)<br>
+_arable land_: arable land: 4.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 67.8% (2018 est.)<br>
 _forest_: 8.8% (2018 est.)<br>
 _other_: 19.2% (2018 est.)<br>
 
@@ -182,7 +182,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.7% of GDP (2020)<br>
+5.6% of GDP (2021)<br>
 
 **Physician density**<br>
 2.23 physicians/1,000 population (2014)<br>
@@ -251,9 +251,9 @@ subtropical desert<br>
 
 **Land use**<br>
 _agricultural land_: 72% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 4.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 67.8% (2018 est.)<br>
+_arable land_: arable land: 4.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 67.8% (2018 est.)<br>
 _forest_: 8.8% (2018 est.)<br>
 _other_: 19.2% (2018 est.)<br>
 
@@ -506,11 +506,11 @@ $11.188 billion (2019 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 71%, Turkey 7%, Uzbekistan 5%, Azerbaijan 4%, Morocco 2% (2022)<br>
+China 63%, Turkey 11%, Greece 7%, Uzbekistan 6%, Azerbaijan 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-natural gas, refined petroleum, fertilizers, crude petroleum, electricity (2022)<br>
+natural gas, refined petroleum, fertilizers, crude petroleum, electricity (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -520,11 +520,11 @@ $8.844 billion (2019 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-UAE 27%, Turkey 24%, China 19%, Kazakhstan 7%, Germany 4% (2022)<br>
+Turkey 21%, UAE 21%, China 20%, Kazakhstan 8%, Germany 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-broadcasting equipment, cars, wheat, computers, iron structures (2022)<br>
+broadcasting equipment, cars, wheat, computers, iron pipes (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

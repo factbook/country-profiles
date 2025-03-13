@@ -52,9 +52,9 @@ oil, associated and nonassociated natural gas, fish, pearls<br>
 
 **Land use**<br>
 _agricultural land_: 11.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 3.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5.3% (2018 est.)<br>
+_arable land_: arable land: 2.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 3.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 5.3% (2018 est.)<br>
 _forest_: 0.7% (2018 est.)<br>
 _other_: 88% (2018 est.)<br>
 
@@ -170,7 +170,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.2% of GDP (2020)<br>
+4.3% of GDP (2021)<br>
 
 **Physician density**<br>
 0.93 physicians/1,000 population (2015)<br>
@@ -235,9 +235,9 @@ arid; mild, pleasant winters; very hot, humid summers<br>
 
 **Land use**<br>
 _agricultural land_: 11.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 3.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5.3% (2018 est.)<br>
+_arable land_: arable land: 2.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 3.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 5.3% (2018 est.)<br>
 _forest_: 0.7% (2018 est.)<br>
 _other_: 88% (2018 est.)<br>
 
@@ -507,11 +507,11 @@ $35.653 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Saudi Arabia 15%, UAE 10%, US 9%, Japan 5%, India 4% (2022)<br>
+UAE 16%, Saudi Arabia 15%, South Africa 8%, USA 6%, India 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-aluminum, refined petroleum, iron ore, aluminum wire, iron blocks (2022)<br>
+refined petroleum, aluminum, iron ore, aluminum wire, jewelry (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -521,11 +521,11 @@ $27.996 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 15%, UAE 12%, Brazil 9%, Australia 8%, India 7% (2022)<br>
+China 13%, Saudi Arabia 12%, UAE 11%, Brazil 8%, Australia 7% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-iron ore, aluminum oxide, cars, gold, ships (2022)<br>
+iron ore, aluminum oxide, ships, cars, gold (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

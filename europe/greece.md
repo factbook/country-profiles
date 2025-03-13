@@ -54,9 +54,9 @@ lignite, petroleum, iron ore, bauxite, lead, zinc, nickel, magnesite, marble, sa
 
 **Land use**<br>
 _agricultural land_: 63.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 19.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 8.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 34.8% (2018 est.)<br>
+_arable land_: arable land: 19.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 8.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 34.8% (2018 est.)<br>
 _forest_: 30.5% (2018 est.)<br>
 _other_: 6.1% (2018 est.)<br>
 
@@ -173,7 +173,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-9.5% of GDP (2020)<br>
+9.2% of GDP (2021)<br>
 
 **Physician density**<br>
 6.31 physicians/1,000 population (2019)<br>
@@ -238,9 +238,9 @@ temperate; mild, wet winters; hot, dry summers<br>
 
 **Land use**<br>
 _agricultural land_: 63.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 19.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 8.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 34.8% (2018 est.)<br>
+_arable land_: arable land: 19.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 8.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 34.8% (2018 est.)<br>
 _forest_: 30.5% (2018 est.)<br>
 _other_: 6.1% (2018 est.)<br>
 
@@ -392,7 +392,7 @@ _selected World Heritage Site locales_: Acropolis, Athens (c); Archaeological si
 ## Economy
 
 **Economic overview**<br>
-developed EU and eurozone economy; strong post-COVID growth driven by tourism, shipping industry, exports, and foreign investment supported by EU cohesion funds; public debt remains high despite recent budget surplus; challenges from negative household savings, high unemployment, corruption, and competitiveness gaps<br>
+<p>high-income EU and eurozone economy; growth above euro average, supported by private consumption and EU fund investments; structural reforms strengthening public finances and enhancing resilience within banking system; declining unemployment but low labor productivity and skill shortages</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $384.023 billion (2023 est.)<br>
@@ -519,7 +519,7 @@ $87.521 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Italy 12%, Germany 6%, Cyprus 6%, Bulgaria 5%, US 4% (2023)<br>
+Italy 12%, Germany 6%, Cyprus 6%, Bulgaria 4%, USA 4% (2023)<br>
 <strong>note:</strong> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
@@ -533,7 +533,7 @@ $103.532 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Germany 10%, China 10%, Italy 8%, Iraq 6%, Netherlands 6% (2023)<br>
+Germany 10%, China 10%, Italy 8%, Iraq 7%, Netherlands 6% (2023)<br>
 <strong>note:</strong> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>

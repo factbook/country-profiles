@@ -148,9 +148,6 @@ _improved: total_: total: 94.2% of population<br>
 _unimproved: total_: total: 5.9% of population (2017 est.)<br>
 <strong>note</strong>: includes data for Jersey<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
@@ -342,7 +339,8 @@ _female_: 13.2% (2023 est.)<br>
 almost entirely United Kingdom (2022)<br>
 
 **Exports - commodities**<br>
-aircraft, photo lab equipment, clocks, ships, paintings, scientific instruments (2022)<br>
+aircraft, photo lab equipment, clocks, ships, paintings (2022)<br>
+top five export commodities based on value in dollars<br>
 
 **Imports - partners**<br>
 almost entirely United Kingdom (2022)<br>

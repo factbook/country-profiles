@@ -54,9 +54,9 @@ copper, mahogany forests, shrimp, hydropower<br>
 
 **Land use**<br>
 _agricultural land_: 30.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 7.3% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 20.7% (2018 est.)<br>
+_arable land_: arable land: 7.3% (2018 est.)<br>
+_permanent crops_: permanent crops: 2.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 20.7% (2018 est.)<br>
 _forest_: 43.6% (2018 est.)<br>
 _other_: 25.9% (2018 est.)<br>
 
@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 11.9% of population<br>
 _unimproved: total_: total: 3.8% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-9.7% of GDP (2020)<br>
+9.7% of GDP (2021)<br>
 
 **Physician density**<br>
 1.63 physicians/1,000 population (2019)<br>
@@ -240,9 +240,9 @@ tropical maritime; hot, humid, cloudy; prolonged rainy season (May to January), 
 
 **Land use**<br>
 _agricultural land_: 30.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 7.3% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 20.7% (2018 est.)<br>
+_arable land_: arable land: 7.3% (2018 est.)<br>
+_permanent crops_: permanent crops: 2.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 20.7% (2018 est.)<br>
 _forest_: 43.6% (2018 est.)<br>
 _other_: 25.9% (2018 est.)<br>
 
@@ -512,11 +512,11 @@ $27.488 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 17%, Japan 12%, South Korea 8%, US 5%, Spain 5% (2022)<br>
+China 25%, Japan 10%, USA 6%, Thailand 5%, Costa Rica 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-copper ore, ships, fish, bananas, refined petroleum (2022)<br>
+copper ore, ships, refined petroleum, bananas, fish (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -526,11 +526,11 @@ $24.459 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 20%, US 20%, Guyana 11%, Colombia 11%, Ecuador 9% (2022)<br>
+USA 15%, Colombia 13%, China 13%, Ecuador 13%, Japan 11% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-crude petroleum, refined petroleum, ships, garments, packaged medicine (2022)<br>
+crude petroleum, ships, refined petroleum, nitrogen compounds, cars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

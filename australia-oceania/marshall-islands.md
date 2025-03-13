@@ -54,9 +54,9 @@ coconut products, marine products, deep seabed minerals<br>
 
 **Land use**<br>
 _agricultural land_: 50.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 7.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 31.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 11.7% (2018 est.)<br>
+_arable land_: arable land: 7.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 31.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 11.7% (2018 est.)<br>
 _forest_: 49.3% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
@@ -167,7 +167,7 @@ _unimproved: rural_: rural: 0.2% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-13% of GDP (2020)<br>
+12.5% of GDP (2021)<br>
 
 **Physician density**<br>
 0.42 physicians/1,000 population (2012)<br>
@@ -225,9 +225,9 @@ tropical; hot and humid; wet season May to November; islands border typhoon belt
 
 **Land use**<br>
 _agricultural land_: 50.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 7.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 31.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 11.7% (2018 est.)<br>
+_arable land_: arable land: 7.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 31.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 11.7% (2018 est.)<br>
 _forest_: 49.3% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
@@ -408,7 +408,7 @@ _imports of goods and services_: -71.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-coconuts (2022)<br>
+coconuts (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -468,11 +468,11 @@ $91.394 million (2019 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 30%, Denmark 15%, UK 14%, Malta 6%, Indonesia 5% (2022)<br>
+UK 16%, Germany 13%, Denmark 10%, Ghana 9%, Cyprus 9% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-ships, refined petroleum, fish, coated flat-rolled iron, wood carpentry (2022)<br>
+ships, refined petroleum, fish, natural gas, stone processing machines (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -482,11 +482,11 @@ $129.682 million (2019 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 33%, South Korea 31%, Japan 12%, Taiwan 4%, Brazil 4% (2022)<br>
+China 47%, Japan 15%, Germany 5%, Brazil 4%, Cyprus 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-ships, refined petroleum, additive manufacturing machines, centrifuges, iron structures (2022)<br>
+ships, refined petroleum, additive manufacturing machines, iron structures, crude petroleum (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>

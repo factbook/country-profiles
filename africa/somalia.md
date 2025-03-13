@@ -53,9 +53,9 @@ uranium and largely unexploited reserves of iron ore, tin, gypsum, bauxite, copp
 
 **Land use**<br>
 _agricultural land_: 70.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 1.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 68.5% (2018 est.)<br>
+_arable land_: arable land: 1.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 68.5% (2018 est.)<br>
 _forest_: 10.6% (2018 est.)<br>
 _other_: 19.1% (2018 est.)<br>
 
@@ -173,9 +173,6 @@ _unimproved: urban_: urban: 3.6% of population<br>
 _unimproved: rural_: rural: 26.3% of population<br>
 _unimproved: total_: total: 15.8% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 0.02 physicians/1,000 population (2014)<br>
 
@@ -230,9 +227,9 @@ principally desert; northeast monsoon (December to February), moderate temperatu
 
 **Land use**<br>
 _agricultural land_: 70.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 1.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 68.5% (2018 est.)<br>
+_arable land_: arable land: 1.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 68.5% (2018 est.)<br>
 _forest_: 10.6% (2018 est.)<br>
 _other_: 19.1% (2018 est.)<br>
 
@@ -473,11 +470,11 @@ _female_: 37.4% (2023 est.)<br>
 $819 million (2014 est.)<br>
 
 **Exports - partners**<br>
-UAE 50%, Oman 30%, Bulgaria 3%, India 3%, Kuwait 2% (2022)<br>
+UAE 35%, Saudi Arabia 27%, Oman 18%, Djibouti 8%, India 3% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, sheep and goats, cattle, gum resins, shellfish (2022)<br>
+sheep and goats, gold, postage stamps/documents, other animals, cattle (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -485,11 +482,11 @@ $94.43 billion (2018 est.)<br>
 $80.07 billion (2017 est.)<br>
 
 **Imports - partners**<br>
-UAE 33%, China 19%, India 16%, Turkey 7%, Ethiopia 5% (2022)<br>
+UAE 29%, China 19%, India 15%, Turkey 8%, Oman 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-tobacco, raw sugar, palm oil, rice, milk (2022)<br>
+raw sugar, tobacco, broadcasting equipment, rice, milk (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

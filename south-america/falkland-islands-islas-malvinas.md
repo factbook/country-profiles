@@ -53,9 +53,9 @@ fish, squid, wildlife, calcified seaweed, sphagnum moss<br>
 
 **Land use**<br>
 _agricultural land_: 92.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 92.4% (2018 est.)<br>
+_arable land_: arable land: 0% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 92.4% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 7.6% (2018 est.)<br>
 
@@ -153,9 +153,9 @@ cold marine; strong westerly winds, cloudy, humid; rain occurs on more than half
 
 **Land use**<br>
 _agricultural land_: 92.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 92.4% (2018 est.)<br>
+_arable land_: arable land: 0% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 92.4% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 7.6% (2018 est.)<br>
 
@@ -298,19 +298,19 @@ fish and wool processing; tourism<br>
 $257.3 million (2015 est.)<br>
 
 **Exports - partners**<br>
-Spain 70%, Morocco 9%, US 8%, Namibia 5%, Germany 2% (2022)<br>
+Spain 68%, Morocco 10%, USA 8%, Namibia 3%, Germany 2% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-shellfish, fish, wool, sheep and goat meat, surveying equipment (2022)<br>
-<b>note:</b> top five export commodities based on value in dollars<br>
+shellfish, fish, wool, sheep and goat meat (2023)<br>
+<strong>note:</strong> top export commodities based on value in dollars over $500,000<br>
 
 **Imports - partners**<br>
-UK 73%, Spain 24%, Netherlands 1%, Ireland 0%, Switzerland 0% (2022)<br>
+UK 68%, Greece 19%, Spain 11%, Netherlands 1%, NZ 0% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, prefabricated buildings, aircraft, plastic products, iron structures (2022)<br>
+refined petroleum, aircraft parts, prefabricated buildings, plastic products, surveying equipment (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>

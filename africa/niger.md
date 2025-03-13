@@ -52,9 +52,9 @@ uranium, coal, iron ore, tin, phosphates, gold, molybdenum, gypsum, salt, petrol
 
 **Land use**<br>
 _agricultural land_: 35.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 12.3% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 22.7% (2018 est.)<br>
+_arable land_: arable land: 12.3% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 22.7% (2018 est.)<br>
 _forest_: 1% (2018 est.)<br>
 _other_: 63.9% (2018 est.)<br>
 
@@ -186,7 +186,7 @@ _unimproved: rural_: rural: 36.9% of population<br>
 _unimproved: total_: total: 31.4% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.2% of GDP (2020)<br>
+5.8% of GDP (2021)<br>
 
 **Physician density**<br>
 0.04 physicians/1,000 population (2020)<br>
@@ -251,9 +251,9 @@ desert; mostly hot, dry, dusty; tropical in extreme south<br>
 
 **Land use**<br>
 _agricultural land_: 35.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 12.3% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 22.7% (2018 est.)<br>
+_arable land_: arable land: 12.3% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 22.7% (2018 est.)<br>
 _forest_: 1% (2018 est.)<br>
 _other_: 63.9% (2018 est.)<br>
 
@@ -358,7 +358,7 @@ _election results_: <em><br>2020/2021</em>: Mohamed BAZOUM elected president in 
 <strong>note:</strong> deposed president BAZOUM has been under house arrest since a military coup on 26 July 2023<br>
 
 **Legislative branch**<br>
-_legislature name_: National Assembly (Assemblée nationale)<br>
+_legislature name_: National Assembly (Assembl&eacute;e nationale)<br>
 _legislative structure_: unicameral<br>
 _number of seats_: 171 (all directly elected)<br>
 _electoral system_: mixed system<br>
@@ -368,7 +368,7 @@ _most recent election date_: 12/27/2020<br>
 _parties elected and seats per party_: Niger Party for Democracy and Socialism (PNDS Tarayya) (80); Nigerien Democratic Movement for an African Federation (Moden Fa . Lumana Africa ) (19); Patriotic Movement for the Republic (MPR-JAMHURIYA) (13); National Movement for the Development of Society (MNSD) - Nassara (13); Other (41)<br>
 _percentage of women in chamber_: 30.7%<br>
 _expected date of next election_: December 2025<br>
-<strong>Note:</strong> on 26 July 2023, the National Council for the Safeguard of the Homeland, a military junta which took control of Niger's government, dissolved the National Assembly<br>
+<strong>Note:</strong> on 26 July 2023, the National Council for the Safeguard of the Homeland, a military junta which took control of Niger's government, dissolved the National Assembly; a commission recommended to the junta in February 2025 a minimum of a five-year transition to democratic rule<br>
 
 **Judicial branch**<br>
 _highest court(s)_: formerly the Constitutional Court (consists of 7 judges); High Court of Justice (consists of 7 members)<br>
@@ -467,7 +467,7 @@ _imports of goods and services_: -21.6% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-millet, cowpeas, sorghum, onions, milk, groundnuts, sugarcane, cabbages, cassava, potatoes (2022)<br>
+millet, cowpeas, sorghum, onions, milk, sugarcane, cabbages, cassava, groundnuts, tomatoes (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -535,11 +535,11 @@ $1.338 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-UAE 69%, France 9%, China 9%, Nigeria 3%, Mali 2% (2022)<br>
+UAE 31%, France 23%, China 18%, India 6%, Sweden 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, oil seeds, radioactive chemicals, refined petroleum, uranium and thorium ore (2022)<br>
+gold, oil seeds, uranium and thorium ore, radioactive chemicals, refined petroleum (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -549,11 +549,11 @@ $3.542 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 22%, France 14%, Nigeria 8%, Germany 5%, UAE 5% (2022)<br>
+China 26%, France 15%, India 12%, Nigeria 7%, UAE 6% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-weapons parts and accessories, rice, aircraft, tobacco, iron pipes (2022)<br>
+rice, aircraft parts, iron structures, refined petroleum, centrifuges (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

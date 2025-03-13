@@ -55,9 +55,9 @@ petroleum; small reserves of iron ore, copper, chromium ore, zinc, tungsten, mic
 
 **Land use**<br>
 _agricultural land_: 100% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 15.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 84.2% (2018 est.)<br>
+_arable land_: arable land: 15.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 84.2% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
@@ -182,7 +182,7 @@ _unimproved: rural_: rural: 19.3% of population<br>
 _unimproved: total_: total: 12.9% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-3% of GDP (2020)<br>
+2.8% of GDP (2021)<br>
 
 **Physician density**<br>
 0.26 physicians/1,000 population (2017)<br>
@@ -242,9 +242,9 @@ hot and dry; arid desert; rainy season varies by region (April to November)<br>
 
 **Land use**<br>
 _agricultural land_: 100% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 15.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 84.2% (2018 est.)<br>
+_arable land_: arable land: 15.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 84.2% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
@@ -436,7 +436,7 @@ _imports of goods and services_: -1.4% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-sorghum, sugarcane, milk, groundnuts, millet, onions, sesame seeds, goat milk, bananas, mangoes/guavas (2022)<br>
+sugarcane, sorghum, milk, onions, groundnuts, sesame seeds, goat milk, bananas, mangoes/guavas, millet (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -502,11 +502,11 @@ $5.065 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-UAE 43%, China 16%, Italy 8%, Egypt 8%, Turkey 4% (2022)<br>
+UAE 21%, China 17%, Saudi Arabia 16%, Malaysia 9%, Egypt 8% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, crude petroleum, oil seeds, ground nuts, cotton (2022)<br>
+crude petroleum, gold, oil seeds, sheep and goats, ground nuts (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -516,11 +516,11 @@ $10.52 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 22%, UAE 20%, India 18%, Egypt 9%, Turkey 5% (2022)<br>
+China 21%, India 19%, Egypt 16%, UAE 14%, Saudi Arabia 7% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-raw sugar, wheat, refined petroleum, garments, jewelry (2022)<br>
+raw sugar, wheat flours, refined petroleum, garments, packaged medicine (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
@@ -680,7 +680,7 @@ the SAF's inventory includes a mix of mostly Chinese, Russian, Soviet-era, and d
 <strong>note:</strong> implementation of conscription is reportedly uneven<br>
 
 **Military - note**<br>
-<p>the primary responsibilities of the Sudanese Armed Forces (SAF) are internal security, border control, and countering potential external threats from its neighbors; SAF operations have traditionally been supported by militia and paramilitary forces, particularly the Rapid Support Forces (RSF); in the Spring of 2023, heavy fighting broke out between the SAF and the paramilitary RSF, particularly around the capital Khartoum and in the western region of Darfur, amid disputes over an internationally-backed plan for a transition towards civilian rule; fighting has since spread and continued into 2024 with reports of atrocities, ethnic cleansing, food insecurity, heavy civilian casualties, and millions of internally displaced persons<br><br>the Sudanese military has been a dominant force in the ruling of the country since its independence in 1956; in addition, the military has a large role in the country's economy, reportedly controlling over 200 commercial companies, including businesses involved in gold mining, rubber production, agriculture, and meat exports</p> the UN Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; as of 2024, UNISFA had approximately 3,200 personnel assigned<br><br>the October 2020 peace agreement provided for the establishment of a Joint Security Keeping Forces (JSKF) comprised of 12,000 personnel tasked with securing the Darfur region in the place of the UN African Union Hybrid Operation in Darfur (UNAMID), a joint African Union-UN peacekeeping force that operated in the war-torn region between 2007 and the end of its mandate in December 2020; in June 2021, Sudan's transitional government announced it would increase the size of this force to 20,000 and expand its mission scope to include the capital and other parts of the country suffering from violence; the force would include the SAF, RSF, police, intelligence, and representatives from armed groups involved in peace negotiations; in September 2022, the first 2,000 members of the JSKF completed training; the status of the JSKF since the start of the civil war is not available (2024)<br>
+<p>the primary responsibilities of the Sudanese Armed Forces (SAF) are internal security, border control, and countering potential external threats from its neighbors; SAF operations have traditionally been supported by militia and paramilitary forces, particularly the Rapid Support Forces (RSF); in the Spring of 2023, heavy fighting broke out between the SAF and the paramilitary RSF, particularly around the capital Khartoum and in the western region of Darfur, amid disputes over an internationally-backed plan for a transition towards civilian rule; fighting has since spread and continued into 2025 with reports of atrocities, ethnic cleansing, food insecurity, heavy civilian casualties, and millions of internally displaced persons<br><br>the Sudanese military has been a dominant force in the ruling of the country since its independence in 1956; in addition, the military has a large role in the country's economy, reportedly controlling over 200 commercial companies, including businesses involved in gold mining, rubber production, agriculture, and meat exports</p> the UN Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; as of 2024, UNISFA had approximately 3,200 personnel assigned<br><br>the October 2020 peace agreement provided for the establishment of a Joint Security Keeping Forces (JSKF) comprised of 12,000 personnel tasked with securing the Darfur region in the place of the UN African Union Hybrid Operation in Darfur (UNAMID), a joint African Union-UN peacekeeping force that operated in the war-torn region between 2007 and the end of its mandate in December 2020; in June 2021, Sudan's transitional government announced it would increase the size of this force to 20,000 and expand its mission scope to include the capital and other parts of the country suffering from violence; the force would include the SAF, RSF, police, intelligence, and representatives from armed groups involved in peace negotiations; in September 2022, the first 2,000 members of the JSKF completed training; the status of the JSKF since the start of the civil war is not available (2025)<br>
 
 ## Terrorism
 

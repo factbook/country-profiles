@@ -52,9 +52,9 @@ some copper and nickel; potential for onshore and offshore oil<br>
 
 **Land use**<br>
 _agricultural land_: 22% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 6.6% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 5.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 9.8% (2018 est.)<br>
+_arable land_: arable land: 6.6% (2018 est.)<br>
+_permanent crops_: permanent crops: 5.6% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 9.8% (2018 est.)<br>
 _forest_: 63.2% (2018 est.)<br>
 _other_: 14.8% (2018 est.)<br>
 
@@ -167,9 +167,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 3.06 physicians/1,000 population (2018)<br>
 
@@ -211,9 +208,9 @@ tropical marine, mild; little seasonal temperature variation<br>
 
 **Land use**<br>
 _agricultural land_: 22% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 6.6% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 5.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 9.8% (2018 est.)<br>
+_arable land_: arable land: 6.6% (2018 est.)<br>
+_permanent crops_: permanent crops: 5.6% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 9.8% (2018 est.)<br>
 _forest_: 63.2% (2018 est.)<br>
 _other_: 14.8% (2018 est.)<br>
 
@@ -452,6 +449,7 @@ Italy 15%, Netherlands 15%, Belgium 9%, Japan 8%, Germany 8%, Austria 8%, Spain 
 
 **Exports - commodities**<br>
 packaged medicines, medical cultures/vaccines, hormones, orthopedic and medical appliances, sulfur compounds (2019)<br>
+top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $51.509 billion (2022 est.)<br>

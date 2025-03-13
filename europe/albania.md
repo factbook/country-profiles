@@ -53,9 +53,9 @@ petroleum, natural gas, coal, bauxite, chromite, copper, iron ore, nickel, salt,
 
 **Land use**<br>
 _agricultural land_: 42.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 22.3% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 17.4% (2018 est.)<br>
+_arable land_: arable land: 22.3% (2018 est.)<br>
+_permanent crops_: permanent crops: 3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 17.4% (2018 est.)<br>
 _forest_: 28.8% (2018 est.)<br>
 _other_: 28.2% (2018 est.)<br>
 
@@ -179,7 +179,7 @@ _unimproved: rural_: rural: 3.6% of population<br>
 _unimproved: total_: total: 3% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.7% of GDP (2018)<br>
+7.3% of GDP (2021)<br>
 
 **Physician density**<br>
 1.88 physicians/1,000 population (2020)<br>
@@ -249,9 +249,9 @@ mild temperate; cool, cloudy, wet winters; hot, clear, dry summers; interior is 
 
 **Land use**<br>
 _agricultural land_: 42.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 22.3% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 17.4% (2018 est.)<br>
+_arable land_: arable land: 22.3% (2018 est.)<br>
+_permanent crops_: permanent crops: 3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 17.4% (2018 est.)<br>
 _forest_: 28.8% (2018 est.)<br>
 _other_: 28.2% (2018 est.)<br>
 
@@ -353,7 +353,7 @@ _term in office_: 4 years<br>
 _most recent election date_: 4/25/2021<br>
 _parties elected and seats per party_: Socialist Party of Albania (PS) (74); Democratic Party (PD) (59); Other (7)<br>
 _percentage of women in chamber_: 35.7%<br>
-_expected date of next election_: April 2026<br>
+_expected date of next election_: May 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 19 judges, including the chief justice); Constitutional Court (consists of 9 judges, including the chairman)<br>
@@ -452,7 +452,7 @@ _imports of goods and services_: -43.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-milk, maize, tomatoes, potatoes, watermelons, wheat, grapes, olives, cucumbers/gherkins, onions (2022)<br>
+milk, maize, tomatoes, watermelons, potatoes, wheat, grapes, onions, cucumbers/gherkins, olives (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -523,11 +523,11 @@ $5.612 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Italy 41%, Greece 10%, Spain 7%, Germany 5%, China 4% (2022)<br>
+Italy 41%, Greece 10%, Germany 5%, Spain 5%, Serbia 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-garments, footwear, iron alloys, electricity, crude petroleum (2022)<br>
+garments, footwear, electricity, crude petroleum, iron alloys (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -537,11 +537,11 @@ $8.004 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Italy 25%, Turkey 14%, Greece 12%, China 10%, Germany 5% (2022)<br>
+Italy 22%, China 11%, Turkey 9%, Germany 7%, Greece 6% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, garments, electricity, cars, raw iron bars (2022)<br>
+cars, refined petroleum, garments, packaged medicine, iron bars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

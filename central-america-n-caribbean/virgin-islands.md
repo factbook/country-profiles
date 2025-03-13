@@ -51,9 +51,9 @@ pleasant climate, beaches foster tourism<br>
 
 **Land use**<br>
 _agricultural land_: 11.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5.7% (2018 est.)<br>
+_arable land_: arable land: 2.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 2.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 5.7% (2018 est.)<br>
 _forest_: 57.4% (2018 est.)<br>
 _other_: 31.1% (2018 est.)<br>
 
@@ -162,9 +162,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 1.3% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 NA<br>
 
@@ -200,9 +197,9 @@ subtropical, tempered by easterly trade winds, relatively low humidity, little s
 
 **Land use**<br>
 _agricultural land_: 11.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5.7% (2018 est.)<br>
+_arable land_: arable land: 2.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 2.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 5.7% (2018 est.)<br>
 _forest_: 57.4% (2018 est.)<br>
 _other_: 31.1% (2018 est.)<br>
 
@@ -381,6 +378,7 @@ Haiti 14%, Guadeloupe 7%, Malaysia 7%, Martinique 7%, Barbados 7%, British Virgi
 
 **Exports - commodities**<br>
 refined petroleum, jewelry, recreational boats, watches, rum (2019)<br>
+top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $4.065 billion (2021 est.)<br>

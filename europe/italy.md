@@ -54,9 +54,9 @@ coal, antimony, mercury, zinc, potash, marble, barite, asbestos, pumice, fluorsp
 
 **Land use**<br>
 _agricultural land_: 47.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 22.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 8.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 15.7% (2018 est.)<br>
+_arable land_: arable land: 22.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 8.6% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 15.7% (2018 est.)<br>
 _forest_: 31.4% (2018 est.)<br>
 _other_: 21.5% (2018 est.)<br>
 
@@ -176,7 +176,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-9.6% of GDP (2020)<br>
+9% of GDP (2022)<br>
 
 **Physician density**<br>
 3.95 physicians/1,000 population (2020)<br>
@@ -241,9 +241,9 @@ predominantly Mediterranean; alpine in far north; hot, dry in south<br>
 
 **Land use**<br>
 _agricultural land_: 47.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 22.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 8.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 15.7% (2018 est.)<br>
+_arable land_: arable land: 22.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 8.6% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 15.7% (2018 est.)<br>
 _forest_: 31.4% (2018 est.)<br>
 _other_: 21.5% (2018 est.)<br>
 
@@ -410,7 +410,7 @@ _selected World Heritage Site locales_: <p>Historic Center of Rome (c); Archaeol
 ## Economy
 
 **Economic overview**<br>
-core EU economy; strong services, manufacturing, and tourism sectors; sustained recovery in post-COVID inflationary environment; high public debt levels; increasing poverty levels particularly in poorer south; strong exports to EU and US partners<br>
+<p>high-income, core EU economy; strong services, manufacturing, and tourism sectors; modest growth supported by net exports, low inflation, and public investments via EU funds; tight labor market with aging workforce and shortages in specialized skills; high public debt levels</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $3.145 trillion (2023 est.)<br>
@@ -537,11 +537,11 @@ $691.428 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 12%, US 11%, France 10%, Spain 5%, UK 4% (2022)<br>
+Germany 11%, USA 11%, France 10%, Spain 5%, UK 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-packaged medicine, refined petroleum, garments, cars, vehicle parts/accessories (2022)<br>
+packaged medicine, garments, cars, refined petroleum, vehicle parts/accessories (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -551,11 +551,11 @@ $644.93 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Germany 14%, France 8%, China 8%, Netherlands 5%, Spain 5% (2022)<br>
+Germany 15%, France 9%, China 8%, Netherlands 6%, Spain 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-natural gas, crude petroleum, cars, packaged medicine, garments (2022)<br>
+natural gas, crude petroleum, cars, packaged medicine, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

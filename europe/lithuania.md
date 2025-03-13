@@ -52,9 +52,9 @@ peat, arable land, amber<br>
 
 **Land use**<br>
 _agricultural land_: 44.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 34.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 9.4% (2018 est.)<br>
+_arable land_: arable land: 34.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 9.4% (2018 est.)<br>
 _forest_: 34.6% (2018 est.)<br>
 _other_: 20.6% (2018 est.)<br>
 
@@ -173,7 +173,7 @@ _unimproved: rural_: rural: 6.2% of population<br>
 _unimproved: total_: total: 2% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.5% of GDP (2020)<br>
+7.5% of GDP (2022)<br>
 
 **Physician density**<br>
 5.08 physicians/1,000 population (2020)<br>
@@ -241,9 +241,9 @@ transitional, between maritime and continental; wet, moderate winters and summer
 
 **Land use**<br>
 _agricultural land_: 44.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 34.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 9.4% (2018 est.)<br>
+_arable land_: arable land: 34.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 9.4% (2018 est.)<br>
 _forest_: 34.6% (2018 est.)<br>
 _other_: 20.6% (2018 est.)<br>
 
@@ -442,7 +442,7 @@ _imports of goods and services_: -72.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-wheat, milk, rapeseed, sugar beets, barley, potatoes, beans, triticale, oats, peas (2022)<br>
+wheat, milk, sugar beets, rapeseed, barley, potatoes, triticale, oats, beans, peas (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -517,11 +517,11 @@ $53.297 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Latvia 13%, Poland 8%, Germany 8%, Russia 6%, US 6% (2022)<br>
+Latvia 11%, Poland 8%, Germany 7%, Netherlands 6%, Russia 6% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, furniture, plastic products, natural gas, wheat (2022)<br>
+refined petroleum, furniture, plastic products, wheat, cars (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -531,11 +531,11 @@ $50.295 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Poland 12%, Germany 11%, Latvia 8%, US 6%, Russia 5% (2022)<br>
+Germany 13%, Poland 13%, Latvia 8%, USA 7%, Norway 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-crude petroleum, natural gas, electricity, cars, plastic products (2022)<br>
+crude petroleum, cars, natural gas, packaged medicine, plastic products (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

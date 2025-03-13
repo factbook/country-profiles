@@ -53,9 +53,9 @@ petroleum, natural gas, phosphates, sulfur<br>
 
 **Land use**<br>
 _agricultural land_: 18.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 8.4% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 9.2% (2018 est.)<br>
+_arable land_: arable land: 8.4% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 9.2% (2018 est.)<br>
 _forest_: 1.9% (2018 est.)<br>
 _other_: 80% (2018 est.)<br>
 
@@ -182,7 +182,7 @@ _unimproved: rural_: rural: 2.6% of population<br>
 _unimproved: total_: total: 0.7% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.1% of GDP (2020)<br>
+5.2% of GDP (2021)<br>
 
 **Physician density**<br>
 0.97 physicians/1,000 population (2020)<br>
@@ -246,9 +246,9 @@ mostly desert; mild to cool winters with dry, hot, cloudless summers; northern m
 
 **Land use**<br>
 _agricultural land_: 18.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 8.4% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 9.2% (2018 est.)<br>
+_arable land_: arable land: 8.4% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 9.2% (2018 est.)<br>
 _forest_: 1.9% (2018 est.)<br>
 _other_: 80% (2018 est.)<br>
 
@@ -523,11 +523,11 @@ $78.261 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-India 32%, China 28%, US 8%, South Korea 7%, Greece 5% (2022)<br>
+China 33%, India 28%, USA 8%, Greece 5%, UAE 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, refined petroleum, gold, petroleum coke, natural gas (2022)<br>
+crude petroleum, refined petroleum, petroleum coke, gold, natural gas (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -537,11 +537,11 @@ $50.707 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-UAE 32%, China 21%, Turkey 20%, India 4%, South Korea 2% (2022)<br>
+UAE 32%, China 20%, Turkey 18%, India 5%, USA 2% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, broadcasting equipment, cars, jewelry, garments (2022)<br>
+refined petroleum, cars, broadcasting equipment, jewelry, gold (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

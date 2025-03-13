@@ -53,9 +53,9 @@ bauxite, iron ore, diamonds, gold, uranium, hydropower, fish, salt<br>
 
 **Land use**<br>
 _agricultural land_: 58.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 11.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 43.5% (2018 est.)<br>
+_arable land_: arable land: 11.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 2.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 43.5% (2018 est.)<br>
 _forest_: 26.5% (2018 est.)<br>
 _other_: 15.4% (2018 est.)<br>
 
@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 23.1% of population<br>
 _unimproved: total_: total: 14.8% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4% of GDP (2020)<br>
+3.8% of GDP (2021)<br>
 
 **Physician density**<br>
 0.23 physicians/1,000 population (2018)<br>
@@ -246,9 +246,9 @@ generally hot and humid; monsoonal-type rainy season (June to November) with sou
 
 **Land use**<br>
 _agricultural land_: 58.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 11.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 43.5% (2018 est.)<br>
+_arable land_: arable land: 11.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 2.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 43.5% (2018 est.)<br>
 _forest_: 26.5% (2018 est.)<br>
 _other_: 15.4% (2018 est.)<br>
 
@@ -446,7 +446,7 @@ _imports of goods and services_: -49% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-cassava, rice, groundnuts, oil palm fruit, maize, fonio, plantains, potatoes, sweet potatoes, yams (2022)<br>
+rice, cassava, maize, groundnuts, oil palm fruit, plantains, potatoes, fonio, yams, sweet potatoes (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -514,11 +514,11 @@ $10.266 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 37%, India 27%, UAE 25%, Switzerland 3%, Spain 2% (2022)<br>
+UAE 50%, China 36%, India 8%, Switzerland 1%, Spain 1% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, aluminum ore, coconuts/Brazil nuts/cashews, cocoa beans, fish (2022)<br>
+gold, aluminum ore, cocoa beans, crude petroleum, coconuts/brazil nuts/cashews (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -528,11 +528,11 @@ $5.353 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 37%, India 10%, Netherlands 8%, UAE 4%, Belgium 4% (2022)<br>
+China 39%, India 9%, Netherlands 7%, Belgium 6%, UAE 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, rice, garments, plastic products, wheat (2022)<br>
+refined petroleum, rice, garments, construction vehicles, cars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

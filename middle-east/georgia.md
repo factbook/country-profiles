@@ -54,9 +54,9 @@ timber, hydropower, manganese deposits, iron ore, copper, minor coal and oil dep
 
 **Land use**<br>
 _agricultural land_: 35.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 5.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 27.9% (2018 est.)<br>
+_arable land_: arable land: 5.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 27.9% (2018 est.)<br>
 _forest_: 39.4% (2018 est.)<br>
 _other_: 25.1% (2018 est.)<br>
 
@@ -177,7 +177,7 @@ _unimproved: rural_: rural: 5.7% of population<br>
 _unimproved: total_: total: 2.7% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.6% of GDP (2020)<br>
+7.4% of GDP (2022)<br>
 
 **Physician density**<br>
 5.11 physicians/1,000 population (2020)<br>
@@ -247,9 +247,9 @@ warm and pleasant; Mediterranean-like on Black Sea coast<br>
 
 **Land use**<br>
 _agricultural land_: 35.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 5.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 27.9% (2018 est.)<br>
+_arable land_: arable land: 5.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 1.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 27.9% (2018 est.)<br>
 _forest_: 39.4% (2018 est.)<br>
 _other_: 25.1% (2018 est.)<br>
 
@@ -520,11 +520,11 @@ $8.086 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 11%, Azerbaijan 10%, Russia 9%, Armenia 8%, Bulgaria 7% (2022)<br>
+Azerbaijan 13%, Turkey 11%, Armenia 11%, Russia 10%, Kyrgyzstan 8% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-copper ore, cars, fertilizers, iron alloys, wine (2022)<br>
+cars, copper ore, electricity, garments, wine (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -534,11 +534,11 @@ $11.151 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Turkey 17%, Russia 12%, China 8%, US 8%, Germany 5% (2022)<br>
+Turkey 16%, USA 13%, Russia 11%, China 8%, Germany 6% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars, refined petroleum, natural gas, packaged medicine, copper ore (2022)<br>
+cars, refined petroleum, packaged medicine, natural gas, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

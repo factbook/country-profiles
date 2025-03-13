@@ -54,9 +54,9 @@ small offshore oil deposits, limestone, marble, timber<br>
 
 **Land use**<br>
 _agricultural land_: 31.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 22.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 3.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 4.9% (2018 est.)<br>
+_arable land_: arable land: 22.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 3.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 4.9% (2018 est.)<br>
 _forest_: 40% (2018 est.)<br>
 _other_: 28.7% (2018 est.)<br>
 
@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 29.2% of population<br>
 _unimproved: total_: total: 25.3% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-2.6% of GDP (2020)<br>
+2.6% of GDP (2021)<br>
 
 **Physician density**<br>
 0.07 physicians/1,000 population (2019)<br>
@@ -248,9 +248,9 @@ tropical; hot, humid in south; semiarid in north<br>
 
 **Land use**<br>
 _agricultural land_: 31.3% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 22.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 3.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 4.9% (2018 est.)<br>
+_arable land_: arable land: 22.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 3.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 4.9% (2018 est.)<br>
 _forest_: 40% (2018 est.)<br>
 _other_: 28.7% (2018 est.)<br>
 
@@ -518,11 +518,11 @@ $3.506 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-India 27%, Bangladesh 24%, UAE 23%, China 4%, Egypt 2% (2022)<br>
+UAE 42%, Bangladesh 20%, India 11%, China 5%, Togo 3% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-cotton, gold, coconuts/Brazil nuts/cashews, soybeans, oil seeds (2022)<br>
+gold, cotton, coconuts/brazil nuts/cashews, soybeans, wood (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -532,11 +532,11 @@ $3.942 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 24%, India 14%, US 6%, UAE 6%, France 5% (2022)<br>
+China 21%, India 15%, USA 6%, France 6%, Nigeria 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-rice, refined petroleum, palm oil, cars, poultry (2022)<br>
+rice, refined petroleum, palm oil, poultry, cars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

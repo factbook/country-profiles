@@ -52,9 +52,9 @@ hydropower, mineral water, timber, iron ore, lead<br>
 
 **Land use**<br>
 _agricultural land_: 40% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 1.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 38.3% (2018 est.)<br>
+_arable land_: arable land: 1.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 38.3% (2018 est.)<br>
 _forest_: 34% (2018 est.)<br>
 _other_: 26% (2018 est.)<br>
 
@@ -168,7 +168,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-9.1% of GDP (2020)<br>
+8.3% of GDP (2021)<br>
 
 **Physician density**<br>
 3.63 physicians/1,000 population (2015)<br>
@@ -225,9 +225,9 @@ temperate; snowy, cold winters and warm, dry summers<br>
 
 **Land use**<br>
 _agricultural land_: 40% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 1.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 38.3% (2018 est.)<br>
+_arable land_: arable land: 1.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 38.3% (2018 est.)<br>
 _forest_: 34% (2018 est.)<br>
 _other_: 26% (2018 est.)<br>
 
@@ -442,11 +442,11 @@ $1.842 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Spain 73%, France 6%, UK 3%, US 2%, Germany 2% (2022)<br>
+Spain 39%, USA 21%, France 11%, UK 5%, UAE 3% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-paintings, integrated circuits, cars, orthopedic appliances, garments (2022)<br>
+paintings, integrated circuits, cars, orthopedic appliances, garments (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -456,11 +456,11 @@ $1.727 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Spain 66%, France 12%, Germany 4%, China 3%, Italy 3% (2022)<br>
+Spain 65%, France 11%, Germany 4%, China 3%, Italy 3% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars, refined petroleum, garments, electricity, beauty products (2022)<br>
+cars, refined petroleum, garments, perfumes, electricity (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>
@@ -480,11 +480,11 @@ _electrification - total population_: 100% (2022 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 51,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 64 (2022 est.)<br>
+_total subscriptions_: 52,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 64 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 114,000 (2022 est.)<br>
+_total subscriptions_: 126,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 142 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -499,11 +499,11 @@ _international_: country code - 376; landline circuits to France and Spain; mode
 .ad<br>
 
 **Internet users**<br>
-_percent of population_: 94% (2021 est.)<br>
+_percent of population_: 94% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 37,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 48 (2020 est.)<br>
+_total_: 42,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 52 (2023 est.)<br>
 
 ## Transportation
 

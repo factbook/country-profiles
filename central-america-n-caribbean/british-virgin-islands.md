@@ -52,9 +52,9 @@ NEGL; pleasant climate, beaches foster tourism<br>
 
 **Land use**<br>
 _agricultural land_: 46.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 6.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 6.7% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 33.3% (2018 est.)<br>
+_arable land_: arable land: 6.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 6.7% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 33.3% (2018 est.)<br>
 _forest_: 24.3% (2018 est.)<br>
 _other_: 29% (2018 est.)<br>
 
@@ -158,9 +158,6 @@ NA<br>
 _improved: total_: total: 99.9% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 NA<br>
 
@@ -201,9 +198,9 @@ subtropical; humid; temperatures moderated by trade winds<br>
 
 **Land use**<br>
 _agricultural land_: 46.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 6.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 6.7% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 33.3% (2018 est.)<br>
+_arable land_: arable land: 6.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 6.7% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 33.3% (2018 est.)<br>
 _forest_: 24.3% (2018 est.)<br>
 _other_: 29% (2018 est.)<br>
 
@@ -366,20 +363,20 @@ $23 million (2015 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
-Malta 30%, Seychelles 29%, Switzerland 14% (2019)<br>
+Malta 33%, Guyana 22%, Greece 11%, Germany 7%, Indonesia 4% (2023)<br>
 
 **Exports - commodities**<br>
-aircraft, recreational boats, ships, hydrogen, halogens (2021)<br>
+ships, refined petroleum, aircraft, molasses, precious stones (2023)<br>
 
 **Imports**<br>
 $300 million (2017 est.)<br>
 $210 million (2016 est.)<br>
 
 **Imports - partners**<br>
-Germany 32%, United States 22%, Italy 9%, France 7%, Seychelles 7% (2019)<br>
+USA 34%, Italy 10%, France 9%, China 8%, Luxembourg 5% (2023)<br>
 
 **Imports - commodities**<br>
-recreational boats, aircraft, refined petroleum, cars, furniture (2019)<br>
+ships, refined petroleum, aircraft, railway cargo containers, jewelry (2023)<br>
 
 **Exchange rates**<br>
 <p>the US dollar is used</p><br>

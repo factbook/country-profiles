@@ -53,9 +53,9 @@ fish, forests, gold, bauxite, phosphates, lead, zinc, nickel<br>
 
 **Land use**<br>
 _agricultural land_: 3.9% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.3% (2018 est.)<br>
+_arable land_: arable land: 0.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 2.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0.3% (2018 est.)<br>
 _forest_: 78.9% (2018 est.)<br>
 _other_: 17.2% (2018 est.)<br>
 
@@ -171,7 +171,7 @@ _unimproved: rural_: rural: 34.1% of population<br>
 _unimproved: total_: total: 26.9% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.4% of GDP (2020)<br>
+4.8% of GDP (2021)<br>
 
 **Physician density**<br>
 0.19 physicians/1,000 population (2016)<br>
@@ -230,9 +230,9 @@ tropical monsoon; few temperature and weather extremes<br>
 
 **Land use**<br>
 _agricultural land_: 3.9% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.3% (2018 est.)<br>
+_arable land_: arable land: 0.7% (2018 est.)<br>
+_permanent crops_: permanent crops: 2.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0.3% (2018 est.)<br>
 _forest_: 78.9% (2018 est.)<br>
 _other_: 17.2% (2018 est.)<br>
 
@@ -416,7 +416,7 @@ _imports of goods and services_: -51.7% (2022 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-oil palm fruit, coconuts, sweet potatoes, taro, yams, fruits, pulses, vegetables, cocoa beans, cassava (2022)<br>
+oil palm fruit, coconuts, sweet potatoes, yams, taro, fruits, pulses, vegetables, cocoa beans, cassava (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -474,11 +474,11 @@ $413.657 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 51%, India 9%, Italy 8%, Australia 5%, Netherlands 4% (2022)<br>
+China 56%, Australia 11%, Italy 10%, Spain 5%, Netherlands 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-wood, fish, palm oil, gold, coconut oil (2022)<br>
+wood, fish, gold, precious metal ore, palm oil (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -488,11 +488,11 @@ $619.46 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 37%, Singapore 16%, Malaysia 12%, Australia 10%, NZ 4% (2022)<br>
+China 42%, Singapore 13%, Australia 13%, Taiwan 5%, Malaysia 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, plastic products, fish, iron structures, construction vehicles (2022)<br>
+refined petroleum, plastic products, fish, broadcasting equipment, iron structures (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

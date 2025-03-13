@@ -55,9 +55,9 @@ hydropower<br>
 
 **Land use**<br>
 _agricultural land_: 37.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 4.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 6.7% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 25.5% (2018 est.)<br>
+_arable land_: arable land: 4.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 6.7% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 25.5% (2018 est.)<br>
 _forest_: 51.5% (2018 est.)<br>
 _other_: 11.4% (2018 est.)<br>
 
@@ -173,7 +173,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.9% of GDP (2020)<br>
+7.6% of GDP (2021)<br>
 
 **Physician density**<br>
 3.3 physicians/1,000 population (2020)<br>
@@ -242,9 +242,9 @@ tropical and subtropical; dry season (December to April); rainy season (May to N
 
 **Land use**<br>
 _agricultural land_: 37.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 4.9% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 6.7% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 25.5% (2018 est.)<br>
+_arable land_: arable land: 4.9% (2018 est.)<br>
+_permanent crops_: permanent crops: 6.7% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 25.5% (2018 est.)<br>
 _forest_: 51.5% (2018 est.)<br>
 _other_: 11.4% (2018 est.)<br>
 
@@ -440,7 +440,7 @@ _imports of goods and services_: -33.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-sugarcane, pineapples, bananas, milk, oil palm fruit, fruits, oranges, chicken, cassava, rice (2022)<br>
+sugarcane, pineapples, bananas, oil palm fruit, milk, fruits, oranges, chicken, cassava, beef (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -514,11 +514,11 @@ $23.608 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 40%, Netherlands 7%, Guatemala 5%, Belgium 5%, Nicaragua 3% (2022)<br>
+USA 40%, Netherlands 6%, China 5%, Guatemala 4%, Belgium 3% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-medical instruments, orthopedic appliances, bananas, tropical fruits, other foods (2022)<br>
+medical instruments, integrated circuits, orthopedic appliances, bananas, tropical fruits (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -528,11 +528,11 @@ $21.938 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-US 39%, China 14%, Mexico 5%, Guatemala 3%, Brazil 3% (2022)<br>
+USA 38%, China 15%, Mexico 6%, Brazil 3%, Guatemala 3% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, plastic products, medical instruments, cars, broadcasting equipment (2022)<br>
+refined petroleum, plastic products, cars, medical instruments, broadcasting equipment (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

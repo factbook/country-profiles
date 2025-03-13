@@ -52,9 +52,9 @@ hard coal, soft coal, kaolin, clay, graphite, timber, arable land<br>
 
 **Land use**<br>
 _agricultural land_: 54.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 41% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 12.8% (2018 est.)<br>
+_arable land_: arable land: 41% (2018 est.)<br>
+_permanent crops_: permanent crops: 1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 12.8% (2018 est.)<br>
 _forest_: 34.4% (2018 est.)<br>
 _other_: 10.8% (2018 est.)<br>
 
@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 0.2% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-9.2% of GDP (2020)<br>
+9.5% of GDP (2021)<br>
 
 **Physician density**<br>
 4.15 physicians/1,000 population (2020)<br>
@@ -243,9 +243,9 @@ temperate; cool summers; cold, cloudy, humid winters<br>
 
 **Land use**<br>
 _agricultural land_: 54.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 41% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 12.8% (2018 est.)<br>
+_arable land_: arable land: 41% (2018 est.)<br>
+_permanent crops_: permanent crops: 1% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 12.8% (2018 est.)<br>
 _forest_: 34.4% (2018 est.)<br>
 _other_: 10.8% (2018 est.)<br>
 
@@ -539,11 +539,11 @@ $205.163 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 32%, Slovakia 8%, Poland 7%, France 5%, Austria 5% (2022)<br>
+Germany 29%, Slovakia 7%, Poland 6%, France 5%, UK 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-cars, vehicle parts/accessories, broadcasting equipment, computers, plastic products (2022)<br>
+cars, vehicle parts/accessories, broadcasting equipment, computers, plastic products (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -553,11 +553,11 @@ $194.402 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Germany 24%, China 13%, Poland 10%, Slovakia 6%, Russia 4% (2022)<br>
+Germany 22%, China 17%, Poland 8%, Slovakia 5%, Italy 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-broadcasting equipment, vehicle parts/accessories, natural gas, machine parts, plastic products (2022)<br>
+broadcasting equipment, vehicle parts/accessories, cars, plastic products, computers (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

@@ -51,9 +51,9 @@ petroleum, fish, natural gas<br>
 
 **Land use**<br>
 _agricultural land_: 32.6% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 25.6% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 4.7% (2018 est.)<br>
+_arable land_: arable land: 25.6% (2018 est.)<br>
+_permanent crops_: permanent crops: 2.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 4.7% (2018 est.)<br>
 _forest_: 19.4% (2018 est.)<br>
 _other_: 48% (2018 est.)<br>
 
@@ -165,7 +165,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 2% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.2% of GDP (2020)<br>
+8.1% of GDP (2021)<br>
 
 **Physician density**<br>
 2.49 physicians/1,000 population (2017)<br>
@@ -222,9 +222,9 @@ tropical; rainy season (June to October)<br>
 
 **Land use**<br>
 _agricultural land_: 32.6% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 25.6% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.3% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 4.7% (2018 est.)<br>
+_arable land_: arable land: 25.6% (2018 est.)<br>
+_permanent crops_: permanent crops: 2.3% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 4.7% (2018 est.)<br>
 _forest_: 19.4% (2018 est.)<br>
 _other_: 48% (2018 est.)<br>
 
@@ -487,11 +487,11 @@ $2.358 billion (2015 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 23%, Jamaica 11%, Trinidad and Tobago 9%, Guyana 8%, Poland 6% (2022)<br>
+USA 22%, Jamaica 17%, Trinidad &amp; Tobago 8%, Canada 6%, Guyana 6% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-liquor, packaged medicine, ships, paper labels, baked goods (2022)<br>
+liquor, refined petroleum, packaged medicine, margarine, baked goods (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -501,11 +501,11 @@ $2.238 billion (2016 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-US 43%, China 8%, Trinidad and Tobago 7%, UK 5%, Netherlands 3% (2022)<br>
+USA 32%, Trinidad &amp; Tobago 19%, Netherlands 6%, UK 6%, Guyana 5% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, plastic products, cars, railway cargo containers, packaged medicine (2022)<br>
+refined petroleum, crude petroleum, cars, plastic products, ships (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

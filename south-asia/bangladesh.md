@@ -55,9 +55,9 @@ natural gas, arable land, timber, coal<br>
 
 **Land use**<br>
 _agricultural land_: 70.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 59% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 6.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 4.6% (2018 est.)<br>
+_arable land_: arable land: 59% (2018 est.)<br>
+_permanent crops_: permanent crops: 6.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 4.6% (2018 est.)<br>
 _forest_: 11.1% (2018 est.)<br>
 _other_: 18.8% (2018 est.)<br>
 
@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 1.3% of population<br>
 _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-2.6% of GDP (2020)<br>
+2.4% of GDP (2021)<br>
 
 **Physician density**<br>
 0.67 physicians/1,000 population (2020)<br>
@@ -247,9 +247,9 @@ tropical; mild winter (October to March); hot, humid summer (March to June); hum
 
 **Land use**<br>
 _agricultural land_: 70.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 59% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 6.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 4.6% (2018 est.)<br>
+_arable land_: arable land: 59% (2018 est.)<br>
+_permanent crops_: permanent crops: 6.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 4.6% (2018 est.)<br>
 _forest_: 11.1% (2018 est.)<br>
 _other_: 18.8% (2018 est.)<br>
 
@@ -346,17 +346,8 @@ _elections/appointments_: president indirectly elected by the National Parliamen
 _election results_: President Mohammad Shahabuddin CHUPPI (AL) elected unopposed by the National Parliament; Sheikh HASINA reappointed prime minister for a fifth term following the 7 January 2024 parliamentary election<br>
 
 **Legislative branch**<br>
-_legislature name_: Parliament (Jatiya Sangsad)<br>
-_legislative structure_: unicameral<br>
-_number of seats_: 350 (300 directly elected; 50 indirectly elected)<br>
-_electoral system_: plurality/majority<br>
-_scope of elections_: full renewal<br>
-_term in office_: 5 years<br>
-_most recent election date_: 1/7/2024<br>
-_parties elected and seats per party_: Bangladesh Awami League (AL) (272); Independents (62); Other (16)<br>
-_percentage of women in chamber_: 20%<br>
 _expected date of next election_: December 2025<br>
-<strong>note 1:</strong> 50 seats are reserved for women only and are indirectly elected by the House of the Nation members using proportional representation<br><br><strong>note 2:</strong> on 5 August 2024, Prime Minister Sheikh HASINA Wazed resigned, and the following day, President Mohammad Shahabuddin CHUPPI dissolved House of the Nation<br>
+<strong><strong>note: </strong></strong>the Parliament (House of the Nation) was dissolved on 6 August 2024 by President Mohammad Shahabuddin CHUPPI following the resignation of Prime Minister Sheikh HASINA Wazed on 5 August 2024; new national elections may be held in late 2025 or early 2026<strong><strong><br></strong></strong><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Bangladesh (organized into the Appellate Division with 7 justices and the High Court Division with 99 justices)<br>
@@ -399,6 +390,9 @@ _lyrics/music_: Rabindranath TAGORE<br>
 **National heritage**<br>
 _total World Heritage Sites_: 3 (2 cultural, 1 natural)<br>
 _selected World Heritage Site locales_: Bagerhat Historic Mosque (c); Ruins of the Buddhist Vihara at Paharpur (c); Sundarbans (n)<br>
+
+**National coat of arms**<br>
+The coat of arms of Bangladesh features the water lily, which is the national flower and symbolizes promise, aesthetics, and elegance. The water under the lily, the rice sheaves on the sides, and the jute leaves at the top represent the Bangladeshi landscape and economy. The four stars represent the aims and ambition of the nation.<br>
 
 ## Economy
 
@@ -455,7 +449,7 @@ _imports of goods and services_: -17.8% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-rice, milk, potatoes, maize, sugarcane, onions, vegetables, jute, mangoes/guavas, tropical fruits (2022)<br>
+rice, milk, potatoes, maize, sugarcane, onions, jute, vegetables, mangoes/guavas, tropical fruits (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -529,11 +523,11 @@ $49.291 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 18%, Germany 16%, UK 8%, Spain 7%, Poland 6% (2022)<br>
+USA 16%, Germany 15%, UK 8%, Spain 7%, Poland 6% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-garments, footwear, fabric, textiles, jute yarn (2022)<br>
+garments, footwear, fabric, textiles, trunks and cases (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -543,11 +537,11 @@ $85.299 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 32%, India 17%, Singapore 6%, Malaysia 5%, Indonesia 5% (2022)<br>
+China 34%, India 17%, Indonesia 5%, Singapore 5%, Malaysia 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cotton fabric, cotton, fabric, fertilizers (2022)<br>
+refined petroleum, cotton fabric, natural gas, cotton, fabric (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

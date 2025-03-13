@@ -52,9 +52,9 @@ limestone, pleasant climate fostering tourism<br>
 
 **Land use**<br>
 _agricultural land_: 14.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 14.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 14.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 20% (2018 est.)<br>
 _other_: 65.2% (2018 est.)<br>
 
@@ -162,9 +162,6 @@ _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.1% of population (2020)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 NA<br>
 
@@ -205,9 +202,9 @@ subtropical; mild, humid; gales, strong winds common in winter<br>
 
 **Land use**<br>
 _agricultural land_: 14.8% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 14.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 14.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 20% (2018 est.)<br>
 _other_: 65.2% (2018 est.)<br>
 
@@ -340,6 +337,9 @@ _lyrics/music_: Bette JOHNS<br>
 _total World Heritage Sites_: 1 (cultural); note - excerpted from the UK entry<br>
 _selected World Heritage Site locales_: Historic Town of St George and Related Fortifications<br>
 
+**National coat of arms**<br>
+Bermuda's coat of arms was formally granted by Royal Warrant on 4 October 1910 but had been in use since at least 1624. The red lion is a symbol of Great Britain. The Latin motto under the coat of arms, <em>Quo Fata Ferunt</em>, means "Whither the Fates Carry [Us]." The ship is the "Sea Venture," an English ship that was wrecked on the then-uninhabited Bermuda in 1609.<br>
+
 ## Economy
 
 **Economic overview**<br>
@@ -443,11 +443,11 @@ $1.605 billion (2019 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Zambia 26%, US 16%, Angola 10%, France 10%, Tanzania 8% (2022)<br>
+Germany 40%, South Africa 38%, Netherlands 15%, USA 2%, Angola 2% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-fertilizers, ships, liquor, vaccines, railway cargo containers (2022)<br>
+crude petroleum, ships, aircraft, liquor, railway cargo containers (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -457,11 +457,11 @@ $2.224 billion (2019 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-US 34%, Norway 19%, South Korea 19%, China 5%, Canada 5% (2022)<br>
+USA 38%, Cyprus 31%, UK 6%, China 6%, Canada 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-ships, refined petroleum, railway cargo containers, packaged medicine, cars (2022)<br>
+ships, refined petroleum, railway cargo containers, packaged medicine, cars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>

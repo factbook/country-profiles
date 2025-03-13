@@ -51,9 +51,9 @@ outstanding deepwater harbor, feldspar<br>
 
 **Land use**<br>
 _agricultural land_: 5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 3.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.9% (2018 est.)<br>
+_arable land_: arable land: 3.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0.9% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 95% (2018 est.)<br>
 
@@ -167,9 +167,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 2.04 physicians/1,000 population (2020)<br>
 
@@ -213,9 +210,9 @@ subtropical monsoon; cool and humid in winter, hot and rainy from spring through
 
 **Land use**<br>
 _agricultural land_: 5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 3.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.9% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.9% (2018 est.)<br>
+_arable land_: arable land: 3.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.9% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0.9% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 95% (2018 est.)<br>
 
@@ -452,11 +449,11 @@ $752.621 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 21%, India 13%, Netherlands 6%, Switzerland 4%, US 3% (2022)<br>
+China 22%, Vietnam 12%, S. Korea 8%, Netherlands 5%, Switzerland 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, integrated circuits, gas turbines, broadcasting equipment, machine parts (2022)<br>
+gold, integrated circuits, gas turbines, broadcasting equipment, jewelry (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -466,11 +463,11 @@ $732.087 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 44%, Taiwan 11%, Singapore 8%, South Korea 5%, Japan 4% (2022)<br>
+China 40%, Taiwan 10%, Singapore 7%, Japan 5%, S. Korea 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-integrated circuits, broadcasting equipment, machine parts, gold, jewelry (2022)<br>
+integrated circuits, broadcasting equipment, gold, machine parts, jewelry (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

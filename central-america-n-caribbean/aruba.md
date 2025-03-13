@@ -51,9 +51,9 @@ NEGL; white sandy beaches foster tourism<br>
 
 **Land use**<br>
 _agricultural land_: 11.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 11.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 11.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 2.3% (2018 est.)<br>
 _other_: 86.6% (2018 est.)<br>
 
@@ -162,9 +162,6 @@ _unimproved: urban_: urban: 1.9% of population<br>
 _unimproved: rural_: rural: 1.9% of population<br>
 _unimproved: total_: total: 1.9% of population (2015 est.)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 NA<br>
 
@@ -206,9 +203,9 @@ tropical marine; little seasonal temperature variation<br>
 
 **Land use**<br>
 _agricultural land_: 11.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 11.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 11.1% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 2.3% (2018 est.)<br>
 _other_: 86.6% (2018 est.)<br>
 
@@ -408,11 +405,11 @@ $1.444 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Colombia 40%, US 12%, Jordan 11%, Guyana 8%, Netherlands 6% (2022)<br>
+Jordan 34%, Colombia 31%, USA 7%, Guyana 5%, Slovakia 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-tobacco, liquor, refined petroleum, scrap iron, orthopedic appliances (2022)<br>
+tobacco, gas turbines, refined petroleum, steam turbines, heating machinery (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -422,11 +419,11 @@ $1.644 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-US 39%, Netherlands 11%, Guyana 9%, Colombia 8%, China 5% (2022)<br>
+USA 53%, Netherlands 15%, China 6%, Colombia 3%, Brazil 3% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, crude petroleum, tobacco, jewelry, other foods (2022)<br>
+refined petroleum, tobacco, cars, garments, jewelry (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

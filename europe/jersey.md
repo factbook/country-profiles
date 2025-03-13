@@ -51,9 +51,9 @@ arable land<br>
 
 **Land use**<br>
 _agricultural land_: 66% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 66% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 66% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 34% (2018 est.)<br>
 
@@ -161,9 +161,6 @@ _improved: total_: total: 94.2% of population<br>
 _unimproved: total_: total: 5.9% of population (2017 est.)<br>
 <strong>note</strong>: includes data for Guernsey<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Physician density**<br>
 NA<br>
 
@@ -196,9 +193,9 @@ temperate; mild winters and cool summers<br>
 
 **Land use**<br>
 _agricultural land_: 66% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 66% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_arable land_: arable land: 66% (2018 est.)<br>
+_permanent crops_: permanent crops: 0% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 34% (2018 est.)<br>
 
@@ -367,6 +364,7 @@ almost entirely United Kingdom (2022)<br>
 
 **Exports - commodities**<br>
 refined petroleum, beverages, ships, jewelry, artwork (2022)<br>
+top five export commodities based on value in dollars<br>
 
 **Imports - partners**<br>
 almost entirely United Kingdom (2022)<br>

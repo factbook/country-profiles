@@ -54,9 +54,9 @@ copper, pyrites, asbestos, gypsum, timber, salt, marble, clay earth pigment<br>
 
 **Land use**<br>
 _agricultural land_: 13.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 9.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 3.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.4% (2018 est.)<br>
+_arable land_: arable land: 9.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 3.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0.4% (2018 est.)<br>
 _forest_: 18.8% (2018 est.)<br>
 _other_: 67.8% (2018 est.)<br>
 
@@ -177,7 +177,7 @@ _unimproved: rural_: rural: 0.2% of population<br>
 _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-8.1% of GDP (2020)<br>
+9.4% of GDP (2021)<br>
 
 **Physician density**<br>
 3.14 physicians/1,000 population (2019)<br>
@@ -245,9 +245,9 @@ temperate; Mediterranean with hot, dry summers and cool winters<br>
 
 **Land use**<br>
 _agricultural land_: 13.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 9.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 3.2% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.4% (2018 est.)<br>
+_arable land_: arable land: 9.8% (2018 est.)<br>
+_permanent crops_: permanent crops: 3.2% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 0.4% (2018 est.)<br>
 _forest_: 18.8% (2018 est.)<br>
 _other_: 67.8% (2018 est.)<br>
 
@@ -453,7 +453,7 @@ _imports of goods and services_: -95.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-milk, potatoes, sheep milk, pork, goat milk, wheat, chicken, barley, grapes, olives (2022)<br>
+milk, potatoes, sheep milk, pork, goat milk, wheat, chicken, olives, grapes, barley (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -525,11 +525,11 @@ $26.303 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Hong Kong 10%, Greece 10%, Lebanon 7%, UK 6%, Liberia 5% (2022)<br>
+Libya 14%, Greece 11%, Lebanon 8%, Bermuda 7%, Marshall Islands 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-ships, refined petroleum, packaged medicine, cheese, scented mixtures (2022)<br>
+ships, refined petroleum, packaged medicine, cheese, scented mixtures (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -539,11 +539,11 @@ $25.164 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Greece 19%, Turkey 12%, Italy 9%, China 9%, Israel 5% (2022)<br>
+Greece 20%, UK 10%, Italy 7%, Turkey 6%, Spain 6% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, ships, cars, packaged medicine, garments (2022)<br>
+refined petroleum, ships, cars, packaged medicine, coal tar oil (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

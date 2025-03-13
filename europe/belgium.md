@@ -55,9 +55,9 @@ construction materials, silica sand, carbonates, arable land<br>
 
 **Land use**<br>
 _agricultural land_: 44.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 27.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 16.1% (2018 est.)<br>
+_arable land_: arable land: 27.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 16.1% (2018 est.)<br>
 _forest_: 22.4% (2018 est.)<br>
 _other_: 33.5% (2018 est.)<br>
 
@@ -176,7 +176,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-11.1% of GDP (2020)<br>
+11% of GDP (2021)<br>
 
 **Physician density**<br>
 6.08 physicians/1,000 population (2020)<br>
@@ -240,9 +240,9 @@ temperate; mild winters, cool summers; rainy, humid, cloudy<br>
 
 **Land use**<br>
 _agricultural land_: 44.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 27.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 16.1% (2018 est.)<br>
+_arable land_: arable land: 27.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 16.1% (2018 est.)<br>
 _forest_: 22.4% (2018 est.)<br>
 _other_: 33.5% (2018 est.)<br>
 
@@ -349,7 +349,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 6/9/2024<br>
 _parties elected and seats per party_: New Flemish Alliance (N-VA) (24); Vlaams Belang (Flemish Interest) (20); Movement for Reform (MR) (20); Socialist Party in Wallonia (PS) (16); Workers' Party of Belgium (PTB*PVDA) (15); LES ENGAGÉS (14); Vooruit (13); Christian Democratic and Flemish (CD&V) (11); Other (17)<br>
-_percentage of women in chamber_: 39.3%<br>
+_percentage of women in chamber_: 41.3%<br>
 _expected date of next election_: June 2029<br>
 
 **Legislative branch - upper chamber**<br>
@@ -373,7 +373,7 @@ _subordinate courts_: Courts of Appeal; regional courts; specialized courts for 
 ADB (nonregional members), AfDB (nonregional members), Australia Group, Benelux, BIS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Sophie Chaska KARLSHAUSEN (since 1 August 2024)<br>
+_chief of mission_: Ambassador Fr&eacute;d&eacute;ric BERNARD (since 25 February 2025)<br>
 _chancery_: 1430 K Street NW, Washington DC 20005<br>
 _telephone_: [1] (202) 333-6900<br>
 _FAX_: [1] (202) 338-4960<br>
@@ -458,7 +458,7 @@ _imports of goods and services_: -84.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-sugar beets, milk, potatoes, wheat, pork, lettuce, maize, chicken, barley, pears (2022)<br>
+sugar beets, milk, potatoes, wheat, pork, lettuce, maize, chicken, barley, pears (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -533,11 +533,11 @@ $535.988 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 19%, France 15%, Netherlands 14%, US 6%, Italy 5% (2022)<br>
+France 20%, Netherlands 15%, Germany 14%, Italy 6%, USA 5% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-natural gas, vaccines, refined petroleum, packaged medicine, cars (2022)<br>
+refined petroleum, natural gas, vaccines, cars, packaged medicine (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -547,11 +547,11 @@ $524.617 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Netherlands 19%, Germany 12%, France 9%, US 6%, China 6% (2022)<br>
+Netherlands 20%, Germany 13%, France 11%, USA 7%, Ireland 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-natural gas, refined petroleum, cars, packaged medicine, vaccines (2022)<br>
+cars, natural gas, vaccines, packaged medicine, crude petroleum (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

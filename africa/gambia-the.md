@@ -55,9 +55,9 @@ fish, clay, silica sand, titanium (rutile and ilmenite), tin, zircon<br>
 
 **Land use**<br>
 _agricultural land_: 56.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 41% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 14.6% (2018 est.)<br>
+_arable land_: arable land: 41% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 14.6% (2018 est.)<br>
 _forest_: 43.9% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
@@ -183,7 +183,7 @@ _unimproved: rural_: rural: 14.3% of population<br>
 _unimproved: total_: total: 10.5% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-2.6% of GDP (2020)<br>
+3.2% of GDP (2021)<br>
 
 **Physician density**<br>
 0.08 physicians/1,000 population (2020)<br>
@@ -248,9 +248,9 @@ tropical; hot, rainy season (June to November); cooler, dry season (November to 
 
 **Land use**<br>
 _agricultural land_: 56.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 41% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.5% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 14.6% (2018 est.)<br>
+_arable land_: arable land: 41% (2018 est.)<br>
+_permanent crops_: permanent crops: 0.5% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 14.6% (2018 est.)<br>
 _forest_: 43.9% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
@@ -439,7 +439,7 @@ _imports of goods and services_: -32.8% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-groundnuts, milk, rice, millet, oil palm fruit, maize, vegetables, cassava, fruits, sorghum (2022)<br>
+rice, groundnuts, milk, millet, oil palm fruit, maize, vegetables, cassava, fruits, sorghum (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -508,11 +508,11 @@ $142.652 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-India 31%, China 23%, Italy 7%, Chile 7%, Portugal 5% (2022)<br>
+Kazakhstan 92%, Guinea-Bissau 2%, China 1%, India 1%, Greece 1% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-coconuts/Brazil nuts/cashews, wood, shellfish, scrap iron, fish oil (2022)<br>
+packaged medicine, cars, harvesting machinery, refined petroleum, trailers (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -522,11 +522,11 @@ $726.23 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 31%, Senegal 12%, India 8%, Brazil 8%, US 5% (2022)<br>
+Kazakhstan 26%, China 18%, Senegal 8%, India 7%, Brazil 4% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cotton fabric, rice, raw sugar, poultry, palm oil (2022)<br>
+crude petroleum, refined petroleum, cotton fabric, iron alloys, rice (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>

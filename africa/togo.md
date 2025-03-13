@@ -53,9 +53,9 @@ phosphates, limestone, marble, arable land<br>
 
 **Land use**<br>
 _agricultural land_: 67.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 45.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 3.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 18.4% (2018 est.)<br>
+_arable land_: arable land: 45.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 3.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 18.4% (2018 est.)<br>
 _forest_: 4.9% (2018 est.)<br>
 _other_: 27.7% (2018 est.)<br>
 
@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 39.7% of population<br>
 _unimproved: total_: total: 25.4% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6% of GDP (2020)<br>
+5.6% of GDP (2021)<br>
 
 **Physician density**<br>
 0.08 physicians/1,000 population (2020)<br>
@@ -248,9 +248,9 @@ tropical; hot, humid in south; semiarid in north<br>
 
 **Land use**<br>
 _agricultural land_: 67.4% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 45.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 3.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 18.4% (2018 est.)<br>
+_arable land_: arable land: 45.2% (2018 est.)<br>
+_permanent crops_: permanent crops: 3.8% (2018 est.)<br>
+_permanent pasture_: permanent pasture: 18.4% (2018 est.)<br>
 _forest_: 4.9% (2018 est.)<br>
 _other_: 27.7% (2018 est.)<br>
 
@@ -340,8 +340,12 @@ _elections/appointments_: president directly elected by simple majority popular 
 _election results_: <br><em>2020:</em> Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 70.8%, Agbeyome KODJO (MPDD) 19.5%, Jean-Pierre FABRE (ANC) 4.7%, other 5%<br><br><em>2015:</em> Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 58.8%, Jean-Pierre FABRE (ANC) 35.2%, Tchaboure GOGUE (ADDI) 4%, other 2% <p> </p><br>
 
 **Legislative branch**<br>
-_legislature name_: National Assembly (Assemblée nationale)<br>
-_legislative structure_: unicameral<br>
+_legislature name_: Parliament<br>
+_legislative structure_: bicameral<br>
+<strong>note:</strong> party lists are required to contain equal numbers of men and women<br>
+
+**Legislative branch - lower chamber**<br>
+_chamber name_: National Assembly (Assemblée nationale)<br>
 _number of seats_: 113 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
@@ -350,7 +354,15 @@ _most recent election date_: 4/29/2024<br>
 _parties elected and seats per party_: Union for the Republic (UNIR) (108); Other (5)<br>
 _percentage of women in chamber_: 15%<br>
 _expected date of next election_: April 2030<br>
-<strong>note:</strong> party lists are required to contain equal numbers of men and women<br>
+
+**Legislative branch - upper chamber**<br>
+_chamber name_: Senate (Sénat)<br>
+_number of seats_: 61 (41 directly elected; 20 appointed)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 6 years<br>
+_most recent election date_: 2/15/2025<br>
+_parties elected and seats per party_: Union for the Republic (UNIR) (34); Independents (3); Other (4)<br>
+_expected date of next election_: February 2031<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (organized into criminal and administrative chambers, each with a chamber president and advisors); Constitutional Court (consists of 9 judges, including the court president)<br>
@@ -448,7 +460,7 @@ _imports of goods and services_: -37.5% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
-cassava, yams, maize, oil palm fruit, sorghum, soybeans, beans, rice, vegetables, cotton (2022)<br>
+cassava, maize, yams, sorghum, soybeans, beans, rice, vegetables, oil palm fruit, cotton (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
@@ -518,11 +530,11 @@ $1.703 billion (2018 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-UAE 26%, India 11%, Cote d'Ivoire 11%, South Africa 6%, Burkina Faso 6% (2022)<br>
+UAE 40%, India 13%, Angola 13%, Burkina Faso 4%, Cote d'Ivoire 3% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, refined petroleum, phosphates, soybeans, plastic products (2022)<br>
+gold, refined petroleum, soybeans, phosphates, coconuts/brazil nuts/cashews (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
@@ -532,11 +544,11 @@ $2.329 billion (2018 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-India 30%, China 16%, South Korea 13%, Nigeria 4%, Taiwan 4% (2022)<br>
+China 26%, India 26%, Belgium 6%, Netherlands 6%, USA 3% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, crude petroleum, motorcycles and cycles, garments, rice (2022)<br>
+refined petroleum, garments, rice, palm oil, motorcycles and cycles (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
