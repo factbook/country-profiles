@@ -50,12 +50,12 @@ _lowest point_: Atlantic Ocean 0 m<br>
 salt, aragonite, timber, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 1.4% (2018 est.)<br>
-_arable land_: arable land: 0.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0.2% (2018 est.)<br>
-_forest_: 51.4% (2018 est.)<br>
-_other_: 47.2% (2018 est.)<br>
+_agricultural land_: 1.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.2% (2022 est.)<br>
+_forest_: 50.9% (2022 est.)<br>
+_other_: 47.8% (2022 est.)<br>
 
 **Irrigated land**<br>
 10 sq km (2012)<br>
@@ -213,12 +213,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical marine; moderated by warm waters of Gulf Stream<br>
 
 **Land use**<br>
-_agricultural land_: 1.4% (2018 est.)<br>
-_arable land_: arable land: 0.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0.2% (2018 est.)<br>
-_forest_: 51.4% (2018 est.)<br>
-_other_: 47.2% (2018 est.)<br>
+_agricultural land_: 1.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.2% (2022 est.)<br>
+_forest_: 50.9% (2022 est.)<br>
+_other_: 47.8% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 83.6% of total population (2023)<br>
@@ -274,8 +274,8 @@ Independence Day, 10 July (1973)<br>
 common law system based on the English model<br>
 
 **Constitution**<br>
-_history_: previous 1964 (preindependence); latest adopted 20 June 1973, effective 10 July 1973<br>
-_amendments_: proposed as an "Act" by Parliament; passage of amendments to articles such as the organization and composition of the branches of government requires approval by at least two-thirds majority of the membership of both houses of Parliament and majority approval in a referendum; passage of amendments to constitutional articles such as fundamental rights and individual freedoms, the powers, authorities, and procedures of the branches of government, or changes to the Bahamas Independence Act 1973 requires approval by at least three-fourths majority of the membership of both houses and majority approval in a referendum; amended many times, last in 2016<br>
+_history_: previous 1964 (pre-independence); latest adopted 20 June 1973, effective 10 July 1973<br>
+_amendment process_: proposed as an "Act" by Parliament; passage of amendments to articles such as the organization and composition of the branches of government requires approval by at least two-thirds majority of the membership of both houses of Parliament and majority approval in a referendum; passage of amendments to constitutional articles such as fundamental rights and individual freedoms, the powers, authorities, and procedures of the branches of government, or changes to the Bahamas Independence Act 1973 requires approval by at least three-fourths majority of the membership of both houses and majority approval in a referendum<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>

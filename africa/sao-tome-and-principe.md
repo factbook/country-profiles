@@ -51,12 +51,12 @@ _lowest point_: Atlantic Ocean 0 m<br>
 fish, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 50.7% (2018 est.)<br>
-_arable land_: arable land: 9.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 40.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 1% (2018 est.)<br>
-_forest_: 28.1% (2018 est.)<br>
-_other_: 21.2% (2018 est.)<br>
+_agricultural land_: 44.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 4.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 39.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 1% (2022 est.)<br>
+_forest_: 52.8% (2022 est.)<br>
+_other_: 2.4% (2022 est.)<br>
 
 **Irrigated land**<br>
 100 sq km (2012)<br>
@@ -243,12 +243,12 @@ _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 tropical; hot, humid; one rainy season (October to May)<br>
 
 **Land use**<br>
-_agricultural land_: 50.7% (2018 est.)<br>
-_arable land_: arable land: 9.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 40.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 1% (2018 est.)<br>
-_forest_: 28.1% (2018 est.)<br>
-_other_: 21.2% (2018 est.)<br>
+_agricultural land_: 44.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 4.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 39.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 1% (2022 est.)<br>
+_forest_: 52.8% (2022 est.)<br>
+_other_: 2.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 76.4% of total population (2023)<br>
@@ -308,7 +308,7 @@ mixed legal system of civil law based on the Portuguese model and customary law<
 
 **Constitution**<br>
 _history_: approved 5 November 1975<br>
-_amendments_: proposed by the National Assembly; passage requires two-thirds majority vote by the Assembly; the Assembly can propose to the president of the republic that an amendment be submitted to a referendum; revised several times, last in 2006<br>
+_amendment process_: proposed by the National Assembly; passage requires two-thirds majority vote by the Assembly; the Assembly can propose to the president of the republic that an amendment be submitted to a referendum<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>

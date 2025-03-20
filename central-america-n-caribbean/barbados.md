@@ -50,12 +50,12 @@ _lowest point_: Atlantic Ocean 0 m<br>
 petroleum, fish, natural gas<br>
 
 **Land use**<br>
-_agricultural land_: 32.6% (2018 est.)<br>
-_arable land_: arable land: 25.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 4.7% (2018 est.)<br>
-_forest_: 19.4% (2018 est.)<br>
-_other_: 48% (2018 est.)<br>
+_agricultural land_: 23.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 16.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.7% (2022 est.)<br>
+_forest_: 14.7% (2022 est.)<br>
+_other_: 62.1% (2022 est.)<br>
 
 **Irrigated land**<br>
 50 sq km (2012)<br>
@@ -221,12 +221,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; rainy season (June to October)<br>
 
 **Land use**<br>
-_agricultural land_: 32.6% (2018 est.)<br>
-_arable land_: arable land: 25.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 4.7% (2018 est.)<br>
-_forest_: 19.4% (2018 est.)<br>
-_other_: 48% (2018 est.)<br>
+_agricultural land_: 23.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 16.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.7% (2022 est.)<br>
+_forest_: 14.7% (2022 est.)<br>
+_other_: 62.1% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 31.4% of total population (2023)<br>
@@ -286,8 +286,7 @@ English common law; no judicial review of legislative acts<br>
 
 **Constitution**<br>
 _history_: adopted 22 November 1966, effective 30 November 1966; Constitution (Amendment) (No. 2) Bill, 2021 establishes Barbados as a republic and revokes the earlier Order in Council<br>
-_amendments_: proposed by Parliament; passage of amendments to constitutional sections such as citizenship, fundamental rights and freedoms, and the organization and authorities of the branches of government requires two-thirds majority vote by the membership of both houses of Parliament; passage of other amendments only requires a majority vote of both houses; amended several times, last in 2021<br>
-<strong>note: </strong>following the transition to a republic in November 2021, the Government of Barbados in February 2022 began the process of establishing a constitution commission to review a new draft constitution<br>
+_amendment process_: proposed by Parliament; passage of amendments to constitutional sections such as citizenship, fundamental rights and freedoms, and the organization and authorities of the branches of government requires two-thirds majority vote by the membership of both houses of Parliament; passage of other amendments only requires a majority vote of both houses<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>

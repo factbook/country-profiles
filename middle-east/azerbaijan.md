@@ -52,15 +52,15 @@ _mean elevation_: 384 m<br>
 petroleum, natural gas, iron ore, nonferrous metals, bauxite<br>
 
 **Land use**<br>
-_agricultural land_: 57.6% (2018 est.)<br>
-_arable land_: arable land: 22.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.7% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 32.1% (2018 est.)<br>
-_forest_: 11.3% (2018 est.)<br>
-_other_: 31.1% (2018 est.)<br>
+_agricultural land_: 57.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 25.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 29.2% (2022 est.)<br>
+_forest_: 14% (2022 est.)<br>
+_other_: 28.2% (2022 est.)<br>
 
 **Irrigated land**<br>
-14,649 sq km (2020)<br>
+14,693 sq km (2022)<br>
 
 **Major lakes (area sq km)**<br>
 _salt water lake(s)_: Caspian Sea (shared with Iran, Russia, Turkmenistan, and Kazakhstan) - 374,000 sq km<br>
@@ -245,12 +245,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 dry, semiarid steppe<br>
 
 **Land use**<br>
-_agricultural land_: 57.6% (2018 est.)<br>
-_arable land_: arable land: 22.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.7% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 32.1% (2018 est.)<br>
-_forest_: 11.3% (2018 est.)<br>
-_other_: 31.1% (2018 est.)<br>
+_agricultural land_: 57.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 25.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 29.2% (2022 est.)<br>
+_forest_: 14% (2022 est.)<br>
+_other_: 28.2% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 57.6% of total population (2023)<br>
@@ -290,7 +290,7 @@ _conventional short form_: Azerbaijan<br>
 _local long form_: Azarbaycan Respublikasi<br>
 _local short form_: Azarbaycan<br>
 _former_: Azerbaijan Soviet Socialist Republic<br>
-_etymology_: the name translates as "Land of Fire" and refers to naturally occurring surface fires on ancient oil pools or from natural gas discharges<br>
+_etymology_: the name can be translated as "Fire Keeper" or "The Land of Fire," from the local word <em>azer</em>, or "fire," and <em>baydjan</em>, a word derived from the Iranian word <em>baykan</em>, or "guardian;" may refer to fire worshippers who lived in the region<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -317,7 +317,7 @@ civil law system<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 12 November 1995<br>
-_amendments_: proposed by the president of the republic or by at least 63 members of the National Assembly; passage requires at least 95 votes of Assembly members in two separate readings of the draft amendment six months apart and requires presidential approval after each of the two Assembly votes, followed by presidential signature; constitutional articles on the authority, sovereignty, and unity of the people cannot be amended; amended 2002, 2009, 2016<br>
+_amendment process_: proposed by the president of the republic or by at least 63 members of the National Assembly; passage requires at least 95 votes of Assembly members in two separate readings of the draft amendment six months apart and requires presidential approval after each of the two Assembly votes, followed by presidential signature; constitutional articles on the authority, sovereignty, and unity of the people cannot be amended<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>

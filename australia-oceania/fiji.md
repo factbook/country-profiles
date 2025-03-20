@@ -53,12 +53,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 timber, fish, gold, copper, offshore oil potential, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 23.3% (2018 est.)<br>
-_arable land_: arable land: 9% (2018 est.)<br>
-_permanent crops_: permanent crops: 4.7% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 9.6% (2018 est.)<br>
-_forest_: 55.7% (2018 est.)<br>
-_other_: 21% (2018 est.)<br>
+_agricultural land_: 17.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 4.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.5% (2022 est.)<br>
+_forest_: 63.1% (2022 est.)<br>
+_other_: 19.8% (2022 est.)<br>
 
 **Irrigated land**<br>
 40 sq km (2012)<br>
@@ -232,12 +232,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical marine; only slight seasonal temperature variation<br>
 
 **Land use**<br>
-_agricultural land_: 23.3% (2018 est.)<br>
-_arable land_: arable land: 9% (2018 est.)<br>
-_permanent crops_: permanent crops: 4.7% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 9.6% (2018 est.)<br>
-_forest_: 55.7% (2018 est.)<br>
-_other_: 21% (2018 est.)<br>
+_agricultural land_: 17.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 4.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.5% (2022 est.)<br>
+_forest_: 63.1% (2022 est.)<br>
+_other_: 19.8% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 58.7% of total population (2023)<br>
@@ -299,7 +299,7 @@ common law system based on the English model<br>
 
 **Constitution**<br>
 _history_: several previous; latest signed into law 6 September 2013<br>
-_amendments_: proposed as a bill by Parliament and supported by at least three quarters of its members, followed by referral to the president and then to the Electoral Commission, which conducts a referendum; passage requires approval by at least three-quarters of registered voters and assent by the president<br>
+_amendment process_: proposed as a bill by Parliament and supported by at least three quarters of its members, followed by referral to the president and then to the Electoral Commission, which conducts a referendum; passage requires approval by at least three-quarters of registered voters and assent by the president<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -314,11 +314,11 @@ _residency requirement for naturalization_: at least 5 years residency out of th
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Ratu Wiliame KATONIVERE (since 12 November 2021)<br>
+_chief of state_: President Ratu Naiqama LALABALAVU (since 12 November 2024)<br>
 _head of government_: Prime Minister Sitiveni Ligamamada RABUKA (since 24 December 2022)<br>
 _cabinet_: Cabinet appointed by the prime minister from among members of Parliament and is responsible to Parliament<br>
-_elections/appointments_: president elected by Parliament for a 3-year term (eligible for a second term); election last held on 22 October 2021 (next to be held in 2024); prime minister endorsed by the president<br>
-_election results_: <em>2021:</em> Ratu Wiliame KATONIVERE elected president; Wiliame KATONIVERE (People's Alliance) 28 votes, Teimumu KEPA (SODELPA) 23 votes<br><br><em>2018:</em> Jioji Konousi KONROTE reelected president (unopposed) <br>
+_elections/appointments_: president elected by Parliament for a 3-year term (eligible for a second term); election last held on 31 October 2024 (next to be held in 2027); prime minister endorsed by the president<br>
+_election results_: <em>2024: </em>Ratu Naiqama LALABALAVU elected president (People's Alliance) 35 votes, Meli Tora TAVAIQIA (Fiji First) 14 votes<em><br><br>2021:</em> Ratu Wiliame KATONIVERE elected president; Wiliame KATONIVERE (People's Alliance) 28 votes, Teimumu KEPA (SODELPA) 23 votes<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -334,11 +334,11 @@ _expected date of next election_: December 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice, all justices of the Court of Appeal, and judges appointed specifically as Supreme Court judges); Court of Appeal (consists of the court president, all puisne judges of the High Court, and judges specifically appointed to the Court of Appeal); High Court (chaired by the chief justice and includes a minimum of 10 puisne judges; High Court organized into civil, criminal, family, employment, and tax divisions)<br>
-_judge selection and term of office_: chief justice appointed by the president of Fiji on the advice of the prime minister following consultation with the parliamentary leader of the opposition; judges of the Supreme Court, the president of the Court of Appeal, the justices of the Court of Appeal, and puisne judges of the High Court appointed by the president of Fiji upon the nomination of the Judicial Service Commission after consulting with the cabinet minister and the committee of the House of Representatives responsible for the administration of justice; the chief justice, Supreme Court judges and justices of Appeal generally required to retire at age 70, but this requirement may be waived for one or more sessions of the court; puisne judges appointed for not less than 4 years nor more than 7 years, with mandatory retirement at age 65<br>
+_judge selection and term of office_: chief justice appointed by the president of Fiji on the advice of the prime minister following consultation with the parliamentary leader of the opposition; judges of the Supreme Court, the president of the Court of Appeal, the justices of the Court of Appeal, and puisne judges of the High Court appointed by the president of Fiji on the nomination of the Judicial Service Commission after consulting with the cabinet minister and the House of Representatives committee responsible for the administration of justice; the chief justice, Supreme Court judges, and justices of Appeal generally required to retire at age 70, but this requirement may be waived for one or more sessions of the court; puisne judges appointed for not less than 4 years or more than 7 years, with mandatory retirement at age 65<br>
 _subordinate courts_: Magistrates' Court (organized into civil, criminal, juvenile, and small claims divisions)<br>
 
 **Political parties**<br>
-Fiji First <br>Fiji Labor Party or FLP <br>Freedom Alliance (formerly Fiji United Freedom Party or FUFP)<br>National Federation Party or NFP <br>People's Alliance <br>Peoples Democratic Party or PDP <br>Social Democratic Liberal Party or SODELPA <br>Unity Fiji <br>
+Fiji First <br>Fiji Labor Party or FLP <br>Freedom Alliance (formerly Fiji United Freedom Party or FUFP)<br>National Federation Party or NFP <br>People's Alliance <br>Peoples Democratic Party or PDP <br>Social Democratic Liberal Party or SODELPA <br>Unity Fiji<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, C, CP, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OPCW, PCA, PIF, Sparteca (suspended), SPC, UN, UNCTAD, UNDOF, UNESCO, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

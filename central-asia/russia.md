@@ -55,12 +55,12 @@ wide natural-resource base including major deposits of oil, natural gas, coal, a
 <strong>note:</strong> formidable obstacles of climate, terrain, and distance hinder exploitation of natural resources<br>
 
 **Land use**<br>
-_agricultural land_: 13.1% (2018 est.)<br>
-_arable land_: arable land: 7.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 5.7% (2018 est.)<br>
-_forest_: 49.4% (2018 est.)<br>
-_other_: 37.5% (2018 est.)<br>
+_agricultural land_: 13.2% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 7.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5.6% (2022 est.)<br>
+_forest_: 49.8% (2022 est.)<br>
+_other_: 37.1% (2022 est.)<br>
 
 **Irrigated land**<br>
 43,000 sq km (2012)<br>
@@ -259,12 +259,12 @@ _signed, but not ratified_: Air Pollution-Sulfur 94<br>
 ranges from steppes in the south through humid continental in much of European Russia; subarctic in Siberia to tundra climate in the polar north; winters vary from cool along Black Sea coast to frigid in Siberia; summers vary from warm in the steppes to cool along Arctic coast<br>
 
 **Land use**<br>
-_agricultural land_: 13.1% (2018 est.)<br>
-_arable land_: arable land: 7.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 5.7% (2018 est.)<br>
-_forest_: 49.4% (2018 est.)<br>
-_other_: 37.5% (2018 est.)<br>
+_agricultural land_: 13.2% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 7.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5.6% (2022 est.)<br>
+_forest_: 49.8% (2022 est.)<br>
+_other_: 37.1% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 75.3% of total population (2023)<br>
@@ -347,7 +347,7 @@ civil law system; judicial review of legislative acts<br>
 
 **Constitution**<br>
 _history_: several previous (during Russian Empire and Soviet era); latest drafted 12 July 1993, adopted by referendum 12 December 1993, effective 25 December 1993<br>
-_amendments_: proposed by the president of the Russian Federation, by either house of the Federal Assembly, by the government of the Russian Federation, or by legislative (representative) bodies of the Federation's constituent entities; proposals to amend the government&rsquo;s constitutional system, human and civil rights and freedoms, and procedures for amending or drafting a new constitution require formation of a Constitutional Assembly; passage of such amendments requires two-thirds majority vote of its total membership; passage in a referendum requires participation of an absolute majority of eligible voters and an absolute majority of valid votes; approval of proposed amendments to the government structure, authorities, and procedures requires approval by the legislative bodies of at least two thirds of the Russian Federation's constituent entities; amended several times, last in 2020 (major revisions)<br>
+_amendment process_: proposed by the president of the Russian Federation, by either house of the Federal Assembly, by the government of the Russian Federation, or by legislative (representative) bodies of the Federation's constituent entities; proposals to amend the government&rsquo;s constitutional system, human and civil rights and freedoms, and procedures for amending or drafting a new constitution require formation of a Constitutional Assembly; passage of such amendments requires two-thirds majority vote of its total membership; passage in a referendum requires participation of an absolute majority of eligible voters and an absolute majority of valid votes; approval of proposed amendments to the government structure, authorities, and procedures requires approval by the legislative bodies of at least two thirds of the Russian Federation's constituent entities<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -391,9 +391,9 @@ _number of seats_: 170 (all appointed)<br>
 _percentage of women in chamber_: 18.5%<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court of the Russian Federation (consists of 170 members organized into the Judicial Panel for Civil Affairs, the Judicial Panel for Criminal Affairs, and the Military Panel); Constitutional Court (consists of 11 members, including the chairperson and deputy); note - in February 2014, Russia&rsquo;s Higher Court of Arbitration was abolished and its former authorities transferred to the Supreme Court, which in addition is the country&rsquo;s highest judicial authority for appeals, civil, criminal, administrative, and military cases, and the disciplinary judicial board, which has jurisdiction over economic disputes<br>
+_highest court(s)_: Supreme Court of the Russian Federation (consists of 170 members organized into the Judicial Panel for Civil Affairs, the Judicial Panel for Criminal Affairs, and the Military Panel); Constitutional Court (consists of 11 members, including the chairperson and deputy)<br>
 _judge selection and term of office_: all members of Russia's 3 highest courts nominated by the president and appointed by the Federation Council (the upper house of the legislature); members of all 3 courts appointed for life<br>
-_subordinate courts_: regional (kray) and provincial (oblast) courts; Moscow and St. Petersburg city courts; autonomous province and district courts; note - the 21 Russian Republics have court systems specified by their own constitutions<br>
+_subordinate courts_: regional (kray) and provincial (oblast) courts; Moscow and St. Petersburg city courts; autonomous province and district courts (the 21 Russian republics have court systems specified by their own constitutions)<br>
 
 **Political parties**<br>
 A Just Russia or SRZP<br>Civic Platform or GP<br>Communist Party of the Russian Federation or KPRF<br>Liberal Democratic Party of Russia or LDPR<br>New People NL<br>Party of Growth PR<br>Rodina<br>United Russia ER<br>

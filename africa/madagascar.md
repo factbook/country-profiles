@@ -53,12 +53,12 @@ _mean elevation_: 615 m<br>
 graphite, chromite, coal, bauxite, rare earth elements, salt, quartz, tar sands, semiprecious stones, mica, fish, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 71.1% (2018 est.)<br>
-_arable land_: arable land: 6% (2018 est.)<br>
-_permanent crops_: permanent crops: 1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 64.1% (2018 est.)<br>
-_forest_: 21.5% (2018 est.)<br>
-_other_: 7.4% (2018 est.)<br>
+_agricultural land_: 70.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 5.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 64.1% (2022 est.)<br>
+_forest_: 21.3% (2022 est.)<br>
+_other_: 8.4% (2022 est.)<br>
 
 **Irrigated land**<br>
 10,860 sq km (2012)<br>
@@ -245,12 +245,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical along coast, temperate inland, arid in south<br>
 
 **Land use**<br>
-_agricultural land_: 71.1% (2018 est.)<br>
-_arable land_: arable land: 6% (2018 est.)<br>
-_permanent crops_: permanent crops: 1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 64.1% (2018 est.)<br>
-_forest_: 21.5% (2018 est.)<br>
-_other_: 7.4% (2018 est.)<br>
+_agricultural land_: 70.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 5.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 64.1% (2022 est.)<br>
+_forest_: 21.3% (2022 est.)<br>
+_other_: 8.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 40.6% of total population (2023)<br>
@@ -314,7 +314,7 @@ civil law system based on the old French civil code and customary law in matters
 
 **Constitution**<br>
 _history_: previous 1992; latest passed by referendum 17 November 2010, promulgated 11 December 2010<br>
-_amendments_: proposed by the president of the republic in consultation with the cabinet or supported by a least two thirds of both the Senate and National Assembly membership; passage requires at least three-fourths approval of both the Senate and National Assembly and approval in a referendum; constitutional articles, including the form and powers of government, the sovereignty of the state, and the autonomy of Madagascar&rsquo;s collectivities, cannot be amended<br>
+_amendment process_: proposed by the president of the republic in consultation with the cabinet or supported by a least two thirds of both the Senate and National Assembly membership; passage requires at least three-fourths approval of both the Senate and National Assembly and approval in a referendum; constitutional articles, including the form and powers of government, the sovereignty of the state, and the autonomy of Madagascar&rsquo;s collectivities, cannot be amended<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -359,9 +359,9 @@ _percentage of women in chamber_: 11.1%<br>
 _expected date of next election_: December 2025<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court or Cour Supreme (consists of 11 members; addresses judicial administration issues only); High Constitutional Court or Haute Cour Constitutionnelle (consists of 9 members); High Court of Justice (consists of 11 members; addresses cases brought against the president of Madagascar and high officials for high treason, grave violations of the Constitution, or breach of&nbsp; duties incompatible with the exercise of the presidential mandate)<br>
+_highest court(s)_: Supreme Court or Cour Supr&ecirc;me (consists of 11 members; addresses judicial administration issues only); High Constitutional Court or Haute Cour Constitutionnelle (consists of 9 members); High Court of Justice (consists of 11 members; addresses cases brought against the president of Madagascar and senior officials for high treason, grave violations of the Constitution, or breach of duties incompatible with the exercise of the presidential mandate)<br>
 _judge selection and term of office_: Supreme Court heads elected by the president and judiciary officials to serve 3-year, single renewable terms; High Constitutional Court members appointed - 3 each by the president, by both legislative bodies, and by the Council of Magistrates; members serve single, 7-year terms; High Court of Justice members include: first president of the Supreme Court; 2 presidents from the Court of Cassation; 2 presidents from the Court of Appeal; 2 deputies&nbsp; from the National Assembly; 2 senators from the Senate; 2 members from the High Council for the Defense of Democracy and the State of law<br>
-_subordinate courts_: Courts of Appeal; Court of Cassation; Courts of First Instance; military courts; traditional (dina) courts; Trade Court<br>
+_subordinate courts_: Courts of Appeal; Court of Cassation; Courts of First Instance; military courts; traditional courts (dina); Trade Court<br>
 
 **Political parties**<br>
 <p>Group of Young Malagasy Patriots (Groupe des Jeunes Malgaches Patriotes) or GJMP<br>I Love Madagascar (Tiako I Madagasikara) or TIM<br>Isika Rehetra Miaraka amin'i Andry Rajoelina coalition or IRD<br>Malagasy Aware (Malagasy Tonga Saina) or MTS<br>Malagasy Tia Tanindrazana or MATITA or ANGADY<br>Movement for Democracy in Madagascar (Mouvement pour la Démocratie à Madagascar) or MDM<br>Rally for Democratic Socialism (Rassemblement pour Socialisme Démocratique - Nouveau) or RPSD Vaovao<br>Young Malagasies Determined (Tanora Malagasy Vonona) or TGV</p><br>

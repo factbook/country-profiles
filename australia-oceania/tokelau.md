@@ -50,12 +50,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 fish<br>
 
 **Land use**<br>
-_agricultural land_: 60% (2018 est.)<br>
-_arable land_: arable land: 0% (2018 est.)<br>
-_permanent crops_: permanent crops: 60% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 0% (2018 est.)<br>
-_other_: 40% (2018 est.)<br>
+_agricultural land_: 60% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 60% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 0% (2022 est.)<br>
+_other_: 40% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -135,12 +135,12 @@ overexploitation of certain fish and other marine species, coastal sand, and for
 tropical; moderated by trade winds (April to November)<br>
 
 **Land use**<br>
-_agricultural land_: 60% (2018 est.)<br>
-_arable land_: arable land: 0% (2018 est.)<br>
-_permanent crops_: permanent crops: 60% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 0% (2018 est.)<br>
-_other_: 40% (2018 est.)<br>
+_agricultural land_: 60% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 60% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 0% (2022 est.)<br>
+_other_: 40% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 0% of total population (2023)<br>
@@ -181,7 +181,7 @@ common law system of New Zealand<br>
 
 **Constitution**<br>
 _history_: many previous; latest effective 1 January 1949 (Tokelau Islands Act 1948)<br>
-_amendments_: proposed as a resolution by the General Fono; passage requires support by each village and approval by the General Fono; amended several times, last in 2007<br>
+_amendment process_: proposed as a resolution by the General Fono; passage requires support by each village and approval by the General Fono<br>
 
 **Citizenship**<br>
 see New Zealand<br>

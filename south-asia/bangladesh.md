@@ -54,15 +54,15 @@ _mean elevation_: 85 m<br>
 natural gas, arable land, timber, coal<br>
 
 **Land use**<br>
-_agricultural land_: 70.1% (2018 est.)<br>
-_arable land_: arable land: 59% (2018 est.)<br>
-_permanent crops_: permanent crops: 6.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 4.6% (2018 est.)<br>
-_forest_: 11.1% (2018 est.)<br>
-_other_: 18.8% (2018 est.)<br>
+_agricultural land_: 72.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 60.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 7.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.6% (2022 est.)<br>
+_forest_: 14.5% (2022 est.)<br>
+_other_: 13.2% (2022 est.)<br>
 
 **Irrigated land**<br>
-81,270 sq km (2020)<br>
+83,690 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
 Brahmaputra river mouth (shared with China [s] and India) - 3,969 km; Ganges river mouth (shared with India [s]) - 2,704 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -246,12 +246,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; mild winter (October to March); hot, humid summer (March to June); humid, warm rainy monsoon (June to October)<br>
 
 **Land use**<br>
-_agricultural land_: 70.1% (2018 est.)<br>
-_arable land_: arable land: 59% (2018 est.)<br>
-_permanent crops_: permanent crops: 6.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 4.6% (2018 est.)<br>
-_forest_: 11.1% (2018 est.)<br>
-_other_: 18.8% (2018 est.)<br>
+_agricultural land_: 72.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 60.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 7.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.6% (2022 est.)<br>
+_forest_: 14.5% (2022 est.)<br>
+_other_: 13.2% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 40.5% of total population (2023)<br>
@@ -323,8 +323,8 @@ Independence Day, 26 March (1971); Victory Day, 16 December (1971); note - 26 Ma
 common law; since independence, statutory law enacted by the Parliament of Bangladesh has been the primary form of legislation; Bangladeshi law incorporates elements of English common law; Islamic law applies to Bangladeshi Muslims in family and inheritance laws, with Hindu personal law applying to Bangladeshi Hindus and Buddhists&nbsp;&nbsp;<br>
 
 **Constitution**<br>
-_history_: previous 1935, 1956, 1962 (preindependence); latest enacted 4 November 1972, effective 16 December 1972, suspended March 1982, restored November 1986<br>
-_amendments_: proposed by the House of the Nation; approval requires at least two-thirds majority vote of the House membership and assent of the president of the republic; amended many times, last in 2018<br>
+_history_: previous 1935, 1956, 1962 (pre-independence); latest enacted 4 November 1972, effective 16 December 1972, suspended March 1982, restored November 1986<br>
+_amendment process_: proposed by the House of the Nation; approval requires at least two-thirds majority vote of the House membership and assent of the president of the republic<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>

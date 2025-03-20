@@ -51,15 +51,15 @@ _mean elevation_: 139 m<br>
 lignite, phosphorites, gypsum, limestone, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 74.9% (2018 est.)<br>
-_arable land_: arable land: 55.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 9.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 10.7% (2018 est.)<br>
-_forest_: 11.9% (2018 est.)<br>
-_other_: 13.2% (2018 est.)<br>
+_agricultural land_: 69.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 52.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 6.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 10.2% (2022 est.)<br>
+_forest_: 11.8% (2022 est.)<br>
+_other_: 18.9% (2022 est.)<br>
 
 **Irrigated land**<br>
-2,155 sq km (2020)<br>
+2,150 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
 <p>Dunărea (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, and Romania [m]) - 2,888 km; Nistru (Dniester) (shared with Ukraine [s/m]) - 1,411 km <br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
@@ -238,12 +238,12 @@ _signed, but not ratified_: Air Pollution-Multi-effect Protocol<br>
 moderate winters, warm summers<br>
 
 **Land use**<br>
-_agricultural land_: 74.9% (2018 est.)<br>
-_arable land_: arable land: 55.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 9.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 10.7% (2018 est.)<br>
-_forest_: 11.9% (2018 est.)<br>
-_other_: 13.2% (2018 est.)<br>
+_agricultural land_: 69.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 52.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 6.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 10.2% (2022 est.)<br>
+_forest_: 11.8% (2022 est.)<br>
+_other_: 18.9% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 43.4% of total population (2023)<br>
@@ -314,7 +314,7 @@ civil law system with Germanic law influences; Constitutional Court review of le
 
 **Constitution**<br>
 _history_: previous 1978; latest adopted 29 July 1994, effective 27 August 1994<br>
-_amendments_: proposed by voter petition (at least 200,000 eligible voters), by at least one third of Parliament members, or by the government; passage requires two-thirds majority vote of Parliament within one year of initial proposal; revisions to constitutional articles on sovereignty, independence, and neutrality require majority vote by referendum; articles on fundamental rights and freedoms cannot be amended; amended many times, last in 2018<br>
+_amendment process_: proposed by voter petition (at least 200,000 eligible voters), by at least one third of Parliament members, or by the government; passage requires two-thirds majority vote of Parliament within one year of initial proposal; revisions to constitutional articles on sovereignty, independence, and neutrality require majority vote by referendum; articles on fundamental rights and freedoms cannot be amended<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -348,9 +348,10 @@ _percentage of women in chamber_: 40%<br>
 _expected date of next election_: July 2025<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court of Justice (consists of the chief judge, 3 deputy-chief judges, 45 judges, and 7 assistant judges); Constitutional Court (consists of the court president and 6 judges); note - the Constitutional Court is autonomous to the other branches of government; the Court interprets the Constitution and reviews the constitutionality of parliamentary laws and decisions, decrees of the president, and acts of the government<br>
-_judge selection and term of office_: Supreme Court of Justice judges appointed by the president upon the recommendation of the Superior Council of Magistracy, an 11-member body of judicial officials; all judges serve 4-year renewable terms; Constitutional Court judges appointed 2 each by Parliament, the president, and the Higher Council of Magistracy for 6-year terms; court president elected by other court judges for a 3-year term<br>
+_highest court(s)_: Supreme Court of Justice (consists of the chief judge, 3 deputy-chief judges, 45 judges, and 7 assistant judges); Constitutional Court (consists of the court president and 6 judges)<br>
+_judge selection and term of office_: Supreme Court of Justice judges appointed by the president on the recommendation of the Superior Council of Magistracy, an 11-member body of judicial officials; all judges serve 4-year renewable terms; Constitutional Court judges appointed 2 each by Parliament, the president, and the Higher Council of Magistracy for 6-year terms; court president elected by other court judges for a 3-year term<br>
 _subordinate courts_: Courts of Appeal; Court of Business Audit; municipal courts<br>
+<strong>note</strong>: the Constitutional Court is autonomous; it interprets the Constitution and reviews the constitutionality of parliamentary laws and decisions, decrees of the president, and acts of the government<br>
 
 **Political parties**<br>
 <p>Bloc of Communists and Socialists or BCS<br>Party of Action and Solidarity or PAS</p><br>

@@ -53,15 +53,15 @@ _mean elevation_: 380 m<br>
 natural gas, petroleum, tin, iron ore, coal, limestone, niobium, lead, zinc, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 78% (2018 est.)<br>
-_arable land_: arable land: 37.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 7.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 33.3% (2018 est.)<br>
-_forest_: 9.5% (2018 est.)<br>
-_other_: 12.5% (2018 est.)<br>
+_agricultural land_: 75.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 40% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 8.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.3% (2022 est.)<br>
+_forest_: 23.1% (2022 est.)<br>
+_other_: 1.1% (2022 est.)<br>
 
 **Irrigated land**<br>
-2,930 sq km (2012)<br>
+2,188 sq km (2017)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lake Chad (endorheic lake shared with Niger, Chad, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
@@ -250,12 +250,12 @@ _signed, but not ratified_: Tropical Timber 2006<br>
 varies; equatorial in south, tropical in center, arid in north<br>
 
 **Land use**<br>
-_agricultural land_: 78% (2018 est.)<br>
-_arable land_: arable land: 37.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 7.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 33.3% (2018 est.)<br>
-_forest_: 9.5% (2018 est.)<br>
-_other_: 12.5% (2018 est.)<br>
+_agricultural land_: 75.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 40% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 8.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.3% (2022 est.)<br>
+_forest_: 23.1% (2022 est.)<br>
+_other_: 1.1% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 54.3% of total population (2023)<br>
@@ -328,7 +328,7 @@ mixed legal system of English common law, Islamic law (in 12 northern states), a
 
 **Constitution**<br>
 _history_: several previous; latest adopted 5 May 1999, effective 29 May 1999<br>
-_amendments_: proposed by the National Assembly; passage requires at least two-thirds majority vote of both houses and approval by the Houses of Assembly of at least two thirds of the states; amendments to constitutional articles on the creation of a new state, fundamental constitutional rights, or constitution-amending procedures requires at least four-fifths majority vote by both houses of the National Assembly and approval by the Houses of Assembly in at least two thirds of the states; passage of amendments limited to the creation of a new state require at least two-thirds majority vote by the proposing National Assembly house and approval by the Houses of Assembly in two thirds of the states; amended several times, last in 2018<br>
+_amendment process_: proposed by the National Assembly; passage requires at least two-thirds majority vote of both houses and approval by the Houses of Assembly of at least two thirds of the states; amendments to constitutional articles on the creation of a new state, fundamental constitutional rights, or constitution-amending procedures requires at least four-fifths majority vote by both houses of the National Assembly and approval by the Houses of Assembly in at least two thirds of the states; passage of amendments limited to the creation of a new state require at least two-thirds majority vote by the proposing National Assembly house and approval by the Houses of Assembly in two thirds of the states<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>

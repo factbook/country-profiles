@@ -54,12 +54,12 @@ _mean elevation_: 388 m<br>
 natural gas, iron ore, sand, coal, timber, hydropower, gold, limestone<br>
 
 **Land use**<br>
-_agricultural land_: 43.2% (2018 est.)<br>
-_arable land_: arable land: 1.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 41.1% (2018 est.)<br>
-_forest_: 31.4% (2018 est.)<br>
-_other_: 25.4% (2018 est.)<br>
+_agricultural land_: 37% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 34.7% (2022 est.)<br>
+_forest_: 37.7% (2022 est.)<br>
+_other_: 25.3% (2022 est.)<br>
 
 **Irrigated land**<br>
 7,000 sq km (2014)<br>
@@ -242,12 +242,12 @@ _signed, but not ratified_: Antarctic Seals, Marine Life Conservation<br>
 temperate with sharp regional contrasts<br>
 
 **Land use**<br>
-_agricultural land_: 43.2% (2018 est.)<br>
-_arable land_: arable land: 1.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 41.1% (2018 est.)<br>
-_forest_: 31.4% (2018 est.)<br>
-_other_: 25.4% (2018 est.)<br>
+_agricultural land_: 37% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 34.7% (2022 est.)<br>
+_forest_: 37.7% (2022 est.)<br>
+_other_: 25.3% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 87% of total population (2023)<br>
@@ -314,7 +314,7 @@ common law system, based on English model, with special legislation and land cou
 
 **Constitution**<br>
 _history_: New Zealand has no single constitution document; the Constitution Act 1986, effective 1 January 1987, includes only part of the uncodified constitution; others include a collection of statutes or "acts of Parliament," the Treaty of Waitangi, Orders in Council, letters patent, court decisions, and unwritten conventions<br>
-_amendments_: proposed as bill by Parliament or by referendum called either by the government or by citizens; passage of a bill as an act normally requires two separate readings with committee reviews in between to make changes and corrections, a third reading approved by the House of Representatives membership or by the majority of votes in a referendum, and assent of the governor-general; passage of amendments to reserved constitutional provisions affecting the term of Parliament, electoral districts, and voting restrictions requires approval by 75% of the House membership or the majority of votes in a referendum; amended many times, last in 2020<br>
+_amendment process_: proposed as bill by Parliament or by referendum called either by the government or by citizens; passage of a bill as an act normally requires two separate readings with committee reviews in between to make changes and corrections, a third reading approved by the House of Representatives membership or by the majority of votes in a referendum, and assent of the governor-general; passage of amendments to reserved constitutional provisions affecting the term of Parliament, electoral districts, and voting restrictions requires approval by 75% of the House membership or the majority of votes in a referendum<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -348,7 +348,7 @@ _percentage of women in chamber_: 45.5%<br>
 _expected date of next election_: September 2026<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court (consists of 5 justices, including the chief justice); note - the Supreme Court in 2004 replaced the Judicial Committee of the Privy Council (in London) as the final appeals court<br>
+_highest court(s)_: Supreme Court (consists of 5 justices, including the chief justice)<br>
 _judge selection and term of office_: justices appointed by the governor-general upon the recommendation of the attorney- general; justices appointed until compulsory retirement at age 70<br>
 _subordinate courts_: Court of Appeal; High Court; tribunals and authorities; district courts; specialized courts for issues related to employment, environment, family, Maori lands, youth, military; tribunals<br>
 

@@ -52,12 +52,12 @@ _lowest point_: Atlantic Ocean 0 m<br>
 salt, basalt rock, limestone, kaolin, fish, clay, gypsum<br>
 
 **Land use**<br>
-_agricultural land_: 18.6% (2018 est.)<br>
-_arable land_: arable land: 11.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.7% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 6.2% (2018 est.)<br>
-_forest_: 21% (2018 est.)<br>
-_other_: 60.4% (2018 est.)<br>
+_agricultural land_: 19.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 12.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 6.2% (2022 est.)<br>
+_forest_: 11.5% (2022 est.)<br>
+_other_: 68.9% (2022 est.)<br>
 
 **Irrigated land**<br>
 35 sq km (2012)<br>
@@ -234,12 +234,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate; warm, dry summer; precipitation meager and erratic<br>
 
 **Land use**<br>
-_agricultural land_: 18.6% (2018 est.)<br>
-_arable land_: arable land: 11.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.7% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 6.2% (2018 est.)<br>
-_forest_: 21% (2018 est.)<br>
-_other_: 60.4% (2018 est.)<br>
+_agricultural land_: 19.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 12.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 6.2% (2022 est.)<br>
+_forest_: 11.5% (2022 est.)<br>
+_other_: 68.9% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 68% of total population (2023)<br>
@@ -299,7 +299,7 @@ civil law system of Portugal<br>
 
 **Constitution**<br>
 _history_: previous 1981; latest effective 25 September 1992<br>
-_amendments_: proposals require support of at least four fifths of the active National Assembly membership; amendment drafts require sponsorship of at least one third of the active Assembly membership; passage requires at least two-thirds majority vote by the Assembly membership; constitutional sections, including those on national independence, form of government, political pluralism, suffrage, and human rights and liberties, cannot be amended; revised 1995, 1999, 2010<br>
+_amendment process_: proposals require support of at least four fifths of the active National Assembly membership; amendment drafts require sponsorship of at least one third of the active Assembly membership; passage requires at least two-thirds majority vote by the Assembly membership; constitutional sections, including those on national independence, form of government, political pluralism, suffrage, and human rights and liberties, cannot be amended<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>

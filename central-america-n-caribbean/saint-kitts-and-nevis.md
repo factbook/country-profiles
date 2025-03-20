@@ -52,12 +52,12 @@ _lowest point_: Caribbean Sea 0 m<br>
 arable land<br>
 
 **Land use**<br>
-_agricultural land_: 23.1% (2018 est.)<br>
-_arable land_: arable land: 19.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 3.5% (2018 est.)<br>
-_forest_: 42.3% (2018 est.)<br>
-_other_: 34.6% (2018 est.)<br>
+_agricultural land_: 23.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 19.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 3.5% (2022 est.)<br>
+_forest_: 42.3% (2022 est.)<br>
+_other_: 34.6% (2022 est.)<br>
 
 **Irrigated land**<br>
 8 sq km (2012)<br>
@@ -222,12 +222,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical, tempered by constant sea breezes; little seasonal temperature variation; rainy season (May to November)<br>
 
 **Land use**<br>
-_agricultural land_: 23.1% (2018 est.)<br>
-_arable land_: arable land: 19.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 3.5% (2018 est.)<br>
-_forest_: 42.3% (2018 est.)<br>
-_other_: 34.6% (2018 est.)<br>
+_agricultural land_: 23.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 19.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 3.5% (2022 est.)<br>
+_forest_: 42.3% (2022 est.)<br>
+_other_: 34.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 31.1% of total population (2023)<br>
@@ -286,8 +286,8 @@ Independence Day, 19 September (1983)<br>
 English common law<br>
 
 **Constitution**<br>
-_history_: several previous (preindependence); latest presented 22 June 1983, effective 23 June 1983<br>
-_amendments_: proposed by the National Assembly; passage requires approval by at least two-thirds majority vote of the total Assembly membership and assent of the governor general; amendments to constitutional provisions such as the sovereignty of the federation, fundamental rights and freedoms, the judiciary, and the Nevis Island Assembly also require approval in a referendum by at least two thirds of the votes cast in Saint Kitts and in Nevis<br>
+_history_: several previous (pre-independence); latest presented 22 June 1983, effective 23 June 1983<br>
+_amendment process_: proposed by the National Assembly; passage requires approval by at least two-thirds majority vote of the total Assembly membership and assent of the governor general; amendments to constitutional provisions such as the sovereignty of the federation, fundamental rights and freedoms, the judiciary, and the Nevis Island Assembly also require approval in a referendum by at least two thirds of the votes cast in Saint Kitts and in Nevis<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -320,8 +320,8 @@ _percentage of women in chamber_: 31.3%<br>
 _expected date of next election_: October 2027<br>
 
 **Judicial branch**<br>
-_highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Saint Kitts and Nevis; note - the ECSC in 2003 replaced the Judicial Committee of the Privy Council (in London) as the final court of appeal on Saint Kitts and Nevis; Saint Kitts and Nevis is also a member of the Caribbean Court of Justice<br>
-_judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by His Majesty, King Charles III; other justices and judges appointed by the Judicial and Legal Services Commission, an independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
+_highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC is headquartered on St. Lucia and consists of the Court of Appeal -- headed by the chief justice and 4 judges -- and the High Court with 18 judges; the Court of Appeal travels to member states on a schedule to hear appeals from the High Court and subordinate courts; Saint Kitts and Nevis is a member of the Caribbean Court of Justice<br>
+_judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by the British monarch; other justices and judges appointed by the Judicial and Legal Services Commission, an independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
 _subordinate courts_: magistrates' courts<br>
 
 **Political parties**<br>

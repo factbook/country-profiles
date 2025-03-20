@@ -50,8 +50,9 @@ _lowest point_: South China Sea 0 m<br>
 NEGL<br>
 
 **Land use**<br>
-_agricultural land_: 0% (2018 est.)<br>
-_other_: 100% (2018 est.)<br>
+_agricultural land_: 0% (2022 est.)<br>
+_forest_: 0% (2022 est.)<br>
+_other_: 100% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2012)<br>
@@ -191,8 +192,9 @@ air pollution; coastal waters pollution; insufficient policies in reducing and r
 subtropical; marine with cool winters, warm summers<br>
 
 **Land use**<br>
-_agricultural land_: 0% (2018 est.)<br>
-_other_: 100% (2018 est.)<br>
+_agricultural land_: 0% (2022 est.)<br>
+_forest_: 0% (2022 est.)<br>
+_other_: 100% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
@@ -241,7 +243,7 @@ civil law system based on the Portuguese model<br>
 
 **Constitution**<br>
 _history_: previous 1976 (Organic Statute of Macau, under Portuguese authority); latest adopted 31 March 1993, effective 20 December 1999 (Basic Law of the Macau Special Administrative Region of the People's Republic of China serves as Macau's constitution)<br>
-_amendments_: proposed by the Standing Committee of the National People&rsquo;s Congress (NPC), the People&rsquo;s Republic of China State Council, and the Macau Special Administrative Region; submittal of proposals to the NPC requires two-thirds majority vote by the Legislative Assembly of Macau, approval by two thirds of Macau's deputies to the NPC, and consent of the Macau chief executive; final passage requires approval by the NPC; amended 2005, 2012<br>
+_amendment process_: proposed by the Standing Committee of the National People&rsquo;s Congress (NPC), the People&rsquo;s Republic of China State Council, and the Macau Special Administrative Region; submittal of proposals to the NPC requires two-thirds majority vote by the Legislative Assembly of Macau, approval by two thirds of Macau's deputies to the NPC, and consent of the Macau chief executive; final passage requires approval by the NPC<br>
 
 **Citizenship**<br>
 see China<br>

@@ -54,15 +54,15 @@ _mean elevation_: 568 m<br>
 petroleum; small reserves of iron ore, copper, chromium ore, zinc, tungsten, mica, silver, gold; hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 100% (2018 est.)<br>
-_arable land_: arable land: 15.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 84.2% (2018 est.)<br>
-_forest_: 0% (2018 est.)<br>
-_other_: 0% (2018 est.)<br>
+_agricultural land_: 60.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 11.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 49% (2022 est.)<br>
+_forest_: 9.6% (2022 est.)<br>
+_other_: 30% (2022 est.)<br>
 
 **Irrigated land**<br>
-15,666 sq km (2020)<br>
+15,504 sq km (2019)<br>
 
 **Major rivers (by length in km)**<br>
 <p>An Nīl (Nile) (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Egypt [m]) - 6,650 km; Blue Nile river mouth (shared with Ethiopia [s]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
@@ -241,12 +241,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 hot and dry; arid desert; rainy season varies by region (April to November)<br>
 
 **Land use**<br>
-_agricultural land_: 100% (2018 est.)<br>
-_arable land_: arable land: 15.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 84.2% (2018 est.)<br>
-_forest_: 0% (2018 est.)<br>
-_other_: 0% (2018 est.)<br>
+_agricultural land_: 60.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 11.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 49% (2022 est.)<br>
+_forest_: 9.6% (2022 est.)<br>
+_other_: 30% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 36.3% of total population (2023)<br>
@@ -320,7 +320,7 @@ mixed legal system of Islamic law and English common law; note - in mid-July 202
 
 **Constitution**<br>
 _history_: previous 1973, 1998, 2005 (interim constitution, which was suspended in April 2019); latest initial draft completed by Transitional Military Council in May 2019; revised draft known as the "Draft Constitutional Charter for the 2019 Transitional Period," or &ldquo;2019 Constitutional Declaration&rdquo; was signed by the Council and opposition coalition on 4 August 2019<br>
-_amendments_: amended 2020 to incorporate the Juba Agreement for Peace in Sudan; the military suspended several provisions of the Constitutional Declaration in October 2021<br>
+<strong>note: </strong>amended 2020 to incorporate the Juba Agreement for Peace in Sudan; the military suspended several provisions of the Constitutional Declaration in October 2021<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; withdrew acceptance of ICCt jurisdiction in 2008<br>
@@ -346,8 +346,8 @@ _election results_: NA<br>
 <strong>note:</strong>  the Parliament of Sudan was dissolved after a coup in April 2019; the August 2019 Constitutional Declaration established Sudan's transitional government; a Transitional Legislative Council (TLC) was to have served as the national legislature during the transitional period until elections could be held, but the TLC has not been created<br>
 
 **Judicial branch**<br>
-_highest court(s)_: National Supreme Court (consists of 70 judges organized into panels of 3 judges and includes 4 circuits that operate outside the capital); Constitutional Court (consists of 9 justices including the court president); note - the Constitutional Court resides outside the national judiciary and has not been appointed since the signature of the 2019 Constitutional Declaration<br>
-_judge selection and term of office_: National Supreme Court and Constitutional Court judges selected by the Supreme Judicial Council, which replaced the National Judicial Service Commission upon enactment of the 2019 Constitutional Declaration<br>
+_highest court(s)_: National Supreme Court (consists of 70 judges organized into panels of 3 judges and includes 4 circuits that operate outside the capital); a Constitutional Court was required in the 2019 Constitutional Declaration, but it has yet to be implemented<br>
+_judge selection and term of office_: National Supreme Court and Constitutional Court judges selected by the Supreme Judicial Council<br>
 _subordinate courts_: Court of Appeal; other national courts; public courts; district, town, and rural courts<br>
 
 **Political parties**<br>

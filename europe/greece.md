@@ -53,15 +53,15 @@ _mean elevation_: 498 m<br>
 lignite, petroleum, iron ore, bauxite, lead, zinc, nickel, magnesite, marble, salt, hydropower potential<br>
 
 **Land use**<br>
-_agricultural land_: 63.4% (2018 est.)<br>
-_arable land_: arable land: 19.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 8.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 34.8% (2018 est.)<br>
-_forest_: 30.5% (2018 est.)<br>
-_other_: 6.1% (2018 est.)<br>
+_agricultural land_: 44.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 14.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 22.3% (2022 est.)<br>
+_forest_: 30.3% (2022 est.)<br>
+_other_: 25.4% (2022 est.)<br>
 
 **Irrigated land**<br>
-11,853 sq km (2019)<br>
+12,191 sq km (2021)<br>
 
 **Population distribution**<br>
 one-third of the population lives in and around metropolitan Athens; the remainder of the country has moderate population density mixed with sizeable urban clusters<br>
@@ -237,12 +237,12 @@ _signed, but not ratified_: Air Pollution-Heavy Metals, Air Pollution-Multi-effe
 temperate; mild, wet winters; hot, dry summers<br>
 
 **Land use**<br>
-_agricultural land_: 63.4% (2018 est.)<br>
-_arable land_: arable land: 19.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 8.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 34.8% (2018 est.)<br>
-_forest_: 30.5% (2018 est.)<br>
-_other_: 6.1% (2018 est.)<br>
+_agricultural land_: 44.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 14.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 22.3% (2022 est.)<br>
+_forest_: 30.3% (2022 est.)<br>
+_other_: 25.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 80.7% of total population (2023)<br>
@@ -310,7 +310,7 @@ civil legal system based on Roman law<br>
 
 **Constitution**<br>
 _history_: many previous; latest entered into force 11 June 1975<br>
-_amendments_: proposed by at least 50 members of Parliament and agreed by three-fifths majority vote in two separate ballots at least 30 days apart; passage requires absolute majority vote by the next elected Parliament; entry into force finalized through a "special parliamentary resolution"; articles on human rights and freedoms and the form of government cannot be amended; amended 1986, 2001, 2008, 2019<br>
+_amendment process_: proposed by at least 50 members of Parliament and agreed by three-fifths majority vote in two separate ballots at least 30 days apart; passage requires absolute majority vote by the next elected Parliament; entry into force finalized through a "special parliamentary resolution"; articles on human rights and freedoms and the form of government cannot be amended<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -345,8 +345,8 @@ _expected date of next election_: June 2027<br>
 <strong>note:</strong> only parties surpassing a 3% vote threshold are entitled to parliamentary seats; parties need 10 seats to become formal parliamentary groups but can retain that status if the party participated in the last election and received the minimum 3% threshold<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Civil and Criminal Court or Areios Pagos (consists of 56 judges, including the court presidents); Council of State (supreme administrative court) (consists of the president, 7 vice presidents, 42 privy councilors, 48 associate councilors and 50 reporting judges, organized into six 5- and 7-member chambers; Court of Audit (government audit and enforcement) consists of the president, 5 vice presidents, 20 councilors, and 90 associate and reporting judges<br>
-_judge selection and term of office_: Supreme Court judges appointed by presidential decree on the advice of the Supreme Judicial Council (SJC), which includes the president of the Supreme Court, other judges, and the prosecutor of the Supreme Court; judges appointed for life following a 2-year probationary period; Council of State president appointed by the Greek Cabinet to serve a 4-year term; other judge appointments and tenure NA; Court of Audit president appointed by decree of the president of the republic on the advice of the SJC; court president serves a 4-year term or until age 67; tenure of vice presidents, councilors, and judges NA<br>
+_highest court(s)_: Supreme Civil and Criminal Court or Areios Pagos (consists of 56 judges, including the court presidents); Council of State (supreme administrative court) consists of the president, 7 vice presidents, 42 privy councilors, 48 associate councilors and 50 reporting judges, organized into six 5- and 7-member chambers; Court of Audit (government audit and enforcement) consists of the president, 5 vice presidents, 20 councilors, and 90 associate and reporting judges<br>
+_judge selection and term of office_: Supreme Court judges appointed by presidential decree on the advice of the Supreme Judicial Council (SJC), which includes the president of the Supreme Court, other judges, and the prosecutor of the Supreme Court; judges appointed for life after a 2-year probationary period; Council of State president appointed by the Greek Cabinet to serve a 4-year term; other judge appointments and tenure NA; Court of Audit president appointed by decree of the president of the republic on the advice of the SJC; court president serves a 4-year term or until age 67; tenure of vice presidents, councilors, and judges NA<br>
 _subordinate courts_: Courts of Appeal and Courts of First Instance (district courts)<br>
 
 **Political parties**<br>

@@ -54,12 +54,12 @@ _mean elevation_: 108 m<br>
 cobalt, nickel, iron ore, chromium, copper, salt, timber, silica, petroleum, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 60.3% (2018 est.)<br>
-_arable land_: arable land: 33.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 3.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 22.9% (2018 est.)<br>
-_forest_: 27.3% (2018 est.)<br>
-_other_: 12.4% (2018 est.)<br>
+_agricultural land_: 61.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 28% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 6.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.4% (2022 est.)<br>
+_forest_: 31.2% (2022 est.)<br>
+_other_: 7.1% (2022 est.)<br>
 
 **Irrigated land**<br>
 8,700 sq km (2012)<br>
@@ -244,12 +244,12 @@ _signed, but not ratified_: Marine Life Conservation<br>
 tropical; moderated by trade winds; dry season (November to April); rainy season (May to October)<br>
 
 **Land use**<br>
-_agricultural land_: 60.3% (2018 est.)<br>
-_arable land_: arable land: 33.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 3.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 22.9% (2018 est.)<br>
-_forest_: 27.3% (2018 est.)<br>
-_other_: 12.4% (2018 est.)<br>
+_agricultural land_: 61.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 28% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 6.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.4% (2022 est.)<br>
+_forest_: 31.2% (2022 est.)<br>
+_other_: 7.1% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 77.5% of total population (2023)<br>
@@ -312,7 +312,7 @@ civil law system based on Spanish civil code<br>
 
 **Constitution**<br>
 _history_: several previous; latest drafted 14 July 2018, approved by the National Assembly 22 December 2018, approved by referendum 24 February 2019<br>
-_amendments_: proposed by the National Assembly of People&rsquo;s Power; passage requires approval of at least two-thirds majority of the National Assembly membership; amendments to constitutional articles on the authorities of the National Assembly, Council of State, or any rights and duties in the constitution also require approval in a referendum; constitutional articles on the Cuban political, social, and economic system cannot be amended<br>
+_amendment process_: proposed by the National Assembly of People&rsquo;s Power; passage requires approval of at least two-thirds majority of the National Assembly membership; amendments to constitutional articles on the authorities of the National Assembly, Council of State, or any rights and duties in the constitution also require approval in a referendum; constitutional articles on the Cuban political, social, and economic system cannot be amended<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>

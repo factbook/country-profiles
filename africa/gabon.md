@@ -53,12 +53,12 @@ _mean elevation_: 377 m<br>
 petroleum, natural gas, diamond, niobium, manganese, uranium, gold, timber, iron ore, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 19% (2018 est.)<br>
-_arable land_: arable land: 1.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 17.2% (2018 est.)<br>
-_forest_: 81% (2018 est.)<br>
-_other_: 0% (2018 est.)<br>
+_agricultural land_: 8.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 6.4% (2022 est.)<br>
+_forest_: 91.2% (2022 est.)<br>
+_other_: 0.4% (2022 est.)<br>
 
 **Irrigated land**<br>
 40 sq km (2012)<br>
@@ -235,12 +235,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; always hot, humid<br>
 
 **Land use**<br>
-_agricultural land_: 19% (2018 est.)<br>
-_arable land_: arable land: 1.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 17.2% (2018 est.)<br>
-_forest_: 81% (2018 est.)<br>
-_other_: 0% (2018 est.)<br>
+_agricultural land_: 8.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 6.4% (2022 est.)<br>
+_forest_: 91.2% (2022 est.)<br>
+_other_: 0.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 91% of total population (2023)<br>
@@ -306,7 +306,7 @@ mixed legal system of French civil law and customary law<br>
 
 **Constitution**<br>
 _history_: previous 1961, 1991; latest approved in November 2024 referendum<br>
-_amendments_: proposed by the president of the republic, by the Council of Ministers, or by one third of either house of Parliament; passage requires Constitutional Court evaluation, at least two-thirds majority vote of two thirds of the Parliament membership convened in joint session, and approval in a referendum; constitutional articles on Gabon&rsquo;s democratic form of government cannot be amended; amended several times, last in 2023 (presidential term reduced to 5 years and election reduced to a single vote)<br>
+_amendment process_: proposed by the president of the republic, by the Council of Ministers, or by one third of either house of Parliament; passage requires Constitutional Court evaluation, at least two-thirds majority vote of two thirds of the Parliament membership convened in joint session, and approval in a referendum; constitutional articles on Gabon&rsquo;s democratic form of government cannot be amended<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>

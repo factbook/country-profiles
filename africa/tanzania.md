@@ -53,12 +53,12 @@ _mean elevation_: 1,018 m<br>
 hydropower, tin, phosphates, iron ore, coal, diamonds, gemstones (including tanzanite, found only in Tanzania), gold, natural gas, nickel<br>
 
 **Land use**<br>
-_agricultural land_: 43.7% (2018 est.)<br>
-_arable land_: arable land: 14.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 27.1% (2018 est.)<br>
-_forest_: 37.3% (2018 est.)<br>
-_other_: 19% (2018 est.)<br>
+_agricultural land_: 44.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 15.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.1% (2022 est.)<br>
+_forest_: 50.6% (2022 est.)<br>
+_other_: 4.8% (2022 est.)<br>
 
 **Irrigated land**<br>
 1,840 sq km (2012)<br>
@@ -256,12 +256,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 varies from tropical along coast to temperate in highlands<br>
 
 **Land use**<br>
-_agricultural land_: 43.7% (2018 est.)<br>
-_arable land_: arable land: 14.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 27.1% (2018 est.)<br>
-_forest_: 37.3% (2018 est.)<br>
-_other_: 19% (2018 est.)<br>
+_agricultural land_: 44.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 15.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.1% (2022 est.)<br>
+_forest_: 50.6% (2022 est.)<br>
+_other_: 4.8% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 37.4% of total population (2023)<br>
@@ -338,8 +338,8 @@ Union Day (Tanganyika and Zanzibar), 26 April (1964)<br>
 English common law; judicial review of legislative acts limited to matters of interpretation<br>
 
 **Constitution**<br>
-_history_: several previous; latest adopted 25 April 1977; note - drafting of a new constitution by the National Assembly in 2014 had stalled, and not until 2021, when President HASSAN expressed the need for broad government reform was there a renewed mandate for a new constitution; a task force drafted and submitted a report in October 2202 with broad government reform recommendations, including a six-pronged approach to a new constitution; the president as recently as mid-2023 reaffirmed her commitment to a new constitution; Tanzania's political opposition in early 2024, called for protests rallying countrywide support for action on this issue<br>
-_amendments_: proposed by the National Assembly; passage of amendments to constitutional articles including those on sovereignty of the United Republic, the authorities and powers of the government, the president, the Assembly, and the High Court requires two-thirds majority vote of the mainland Assembly membership and of the Zanzibar House of Representatives membership; House of Representatives approval of other amendments is not required; amended several times, last in 2017<br>
+_history_: several previous; latest adopted 25 April 1977<br>
+_amendment process_: proposed by the National Assembly; passage of amendments to constitutional articles including those on sovereignty of the United Republic, the authorities and powers of the government, the president, the Assembly, and the High Court requires two-thirds majority vote of the mainland Assembly membership and of the Zanzibar House of Representatives membership; House of Representatives approval of other amendments is not required<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -375,7 +375,7 @@ _expected date of next election_: October 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal of the United Republic of Tanzania (consists of the chief justice and 14 justices); High Court of the United Republic for Mainland Tanzania (consists of the principal judge and 30 judges organized into commercial, land, and labor courts); High Court of Zanzibar (consists of the chief justice and 10 justices)<br>
-_judge selection and term of office_: Court of Appeal and High Court justices appointed by the national president after consultation with the Judicial Service Commission for Tanzania, a judicial body of high level judges and 2 members appointed by the national president; Court of Appeal and High Court judges serve until mandatory retirement at age 60, but terms can be extended; High Court of Zanzibar judges appointed by the national president after consultation with the Judicial Commission of Zanzibar; judges can serve until mandatory retirement at age 65<br>
+_judge selection and term of office_: Court of Appeal and High Court justices appointed by the national president after consultation with the Judicial Service Commission for Tanzania, a judicial body of high-level judges and 2 members appointed by the national president; Court of Appeal and High Court judges serve until mandatory retirement at age 60, but terms can be extended; High Court of Zanzibar judges appointed by the national president after consultation with the Judicial Commission of Zanzibar; judges can serve until mandatory retirement at age 65<br>
 _subordinate courts_: Resident Magistrates Courts; Kadhi courts (for Islamic family matters); district and primary courts<br>
 
 **Political parties**<br>

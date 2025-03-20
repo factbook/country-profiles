@@ -50,9 +50,10 @@ _lowest point_: Caribbean Sea 0 m<br>
 <p>calcium phosphates, protected harbors, hot springs</p><br>
 
 **Land use**<br>
-_agricultural land_: 10% (2018 est.)<br>
-_arable land_: arable land: 10% (2018)<br>
-_other_: 90% (2018 est.)<br>
+_agricultural land_: 0% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 10% (2018)<br>
+_forest_: 0.2% (2022 est.)<br>
+_other_: 99.8% (2022 est.)<br>
 
 **Irrigated land**<br>
 NA<br>
@@ -188,9 +189,10 @@ _female_: 18 years (2013)<br>
 <p>tropical marine climate, ameliorated by northeast trade winds, results in mild temperatures; semiarid with average rainfall of 60 cm/year</p><br>
 
 **Land use**<br>
-_agricultural land_: 10% (2018 est.)<br>
-_arable land_: arable land: 10% (2018)<br>
-_other_: 90% (2018 est.)<br>
+_agricultural land_: 0% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 10% (2018)<br>
+_forest_: 0.2% (2022 est.)<br>
+_other_: 99.8% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 89% of total population (2023)<br>
@@ -249,7 +251,7 @@ _etymology_: named after Prince WILLIAM II of Orange (1626-1650), who served as 
 <p>based on Dutch civil law</p><br>
 
 **Constitution**<br>
-_history_: previous 1947, 1955; latest adopted 5 September 2010, entered into force 10 October 2010 (regulates governance of Curacao but is subordinate to the Charter for the Kingdom of the Netherlands); note - in October 2010, with the dissolution of the Netherlands Antilles, Curacao became a semi-autonomous entity within the Kingdom of the Netherlands<br>
+_history_: previous 1947, 1955; latest adopted 5 September 2010, entered into force 10 October 2010 (regulates governance of Curacao but is subordinate to the Charter for the Kingdom of the Netherlands)<br>
 
 **Citizenship**<br>
 see the Netherlands<br>
@@ -276,7 +278,7 @@ _percentage of women in chamber_: 28.6%<br>
 _expected date of next election_: 2025<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (sits as a 3-judge panel); final appeals heard by the Supreme Court, in The Hague, Netherlands<br>
+_highest court(s)_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (sits as a 3-judge panel); final appeals heard by the Supreme Court in The Hague, Netherlands<br>
 _judge selection and term of office_: Joint Court judges appointed by the monarch for life<br>
 _subordinate courts_: first instance courts, appeals court; specialized courts<br>
 

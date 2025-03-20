@@ -51,12 +51,12 @@ _mean elevation_: 2,220 m<br>
 timber, hydropower, gypsum, calcium carbonate<br>
 
 **Land use**<br>
-_agricultural land_: 13.6% (2018 est.)<br>
-_arable land_: arable land: 2.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 10.7% (2018 est.)<br>
-_forest_: 85.5% (2018 est.)<br>
-_other_: 0.9% (2018 est.)<br>
+_agricultural land_: 12.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 10.8% (2022 est.)<br>
+_forest_: 71.6% (2022 est.)<br>
+_other_: 15.6% (2022 est.)<br>
 
 **Irrigated land**<br>
 320 sq km (2012)<br>
@@ -219,12 +219,12 @@ _signed, but not ratified_: Law of the Sea<br>
 varies; tropical in southern plains; cool winters and hot summers in central valleys; severe winters and cool summers in Himalayas<br>
 
 **Land use**<br>
-_agricultural land_: 13.6% (2018 est.)<br>
-_arable land_: arable land: 2.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 10.7% (2018 est.)<br>
-_forest_: 85.5% (2018 est.)<br>
-_other_: 0.9% (2018 est.)<br>
+_agricultural land_: 12.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 10.8% (2022 est.)<br>
+_forest_: 71.6% (2022 est.)<br>
+_other_: 15.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 44.4% of total population (2023)<br>
@@ -286,7 +286,7 @@ civil law based on Buddhist religious law<br>
 
 **Constitution**<br>
 _history_: previous governing documents were various royal decrees; first constitution drafted November 2001 to March 2005, ratified 18 July 2008<br>
-_amendments_: proposed as a motion by simple majority vote in a joint session of Parliament; passage requires at least a three-fourths majority vote in a joint session of the next Parliament and assent by the king<br>
+_amendment process_: proposed as a motion by simple majority vote in a joint session of Parliament; passage requires at least a three-fourths majority vote in a joint session of the next Parliament and assent by the king<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -332,9 +332,10 @@ _percentage of women in chamber_: 12%<br>
 _expected date of next election_: April 2028<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court (consists of the chief justice and 4 associate&nbsp;justices); note - the Supreme Court has sole jurisdiction in constitutional matters<br>
-_judge selection and term of office_: Supreme Court chief justice appointed by the monarch upon the advice of the National Judicial Commission, a 4-member body to include the Legislative Committee of the National Assembly, the attorney general, the Chief Justice of Bhutan and the senior Associate Justice of the Supreme Court; other judges (drangpons) appointed by the monarch from among the High Court judges selected by the National Judicial Commission; chief justice serves a 5-year term or until reaching age 65 years, whichever is earlier; the 4 other judges serve 10-year terms or until age 65, whichever is earlier<br>
+_highest court(s)_: Supreme Court (consists of the chief justice and 4 associate justices)<br>
+_judge selection and term of office_: Supreme Court chief justice appointed by the monarch on the advice of the National Judicial Commission, a 4-member body to include the Legislative Committee of the National Assembly, the attorney general, the Chief Justice of Bhutan and the senior Associate Justice of the Supreme Court; other judges (drangpons) appointed by the monarch from among the High Court judges selected by the National Judicial Commission; chief justice serves a 5-year term or until reaching age 65 years, whichever is earlier; the 4 other judges serve 10-year terms or until age 65, whichever is earlier<br>
 _subordinate courts_: High Court (first appellate court); District or Dzongkhag Courts; sub-district or Dungkhag Courts<br>
+<strong>note:</strong> the Supreme Court has sole jurisdiction in constitutional matters<br>
 
 **Political parties**<br>
 <p>Bhutan Peace and Prosperity Party (Druk Phuensum Tshogpa) or DPT<br>Bhutan Tendrel Party or BTP<br>Druk Thuendrel Tshogpa or DTT<br>People's Democratic Party or PDP<br>United Party of Bhutan (Druk Nyamrup Tshogpa) or DNT</p><br>

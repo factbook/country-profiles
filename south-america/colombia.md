@@ -54,12 +54,12 @@ _mean elevation_: 593 m<br>
 petroleum, natural gas, coal, iron ore, nickel, gold, copper, emeralds, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 37.5% (2018 est.)<br>
-_arable land_: arable land: 1.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 34.5% (2018 est.)<br>
-_forest_: 54.4% (2018 est.)<br>
-_other_: 8.1% (2018 est.)<br>
+_agricultural land_: 37.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 33.2% (2022 est.)<br>
+_forest_: 52.9% (2022 est.)<br>
+_other_: 9.4% (2022 est.)<br>
 
 **Irrigated land**<br>
 10,900 sq km (2012)<br>
@@ -250,12 +250,12 @@ _signed, but not ratified_: Law of the Sea<br>
 tropical along coast and eastern plains; cooler in highlands<br>
 
 **Land use**<br>
-_agricultural land_: 37.5% (2018 est.)<br>
-_arable land_: arable land: 1.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 34.5% (2018 est.)<br>
-_forest_: 54.4% (2018 est.)<br>
-_other_: 8.1% (2018 est.)<br>
+_agricultural land_: 37.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 33.2% (2022 est.)<br>
+_forest_: 52.9% (2022 est.)<br>
+_other_: 9.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 82.4% of total population (2023)<br>
@@ -326,7 +326,7 @@ civil law system influenced by the Spanish and French civil codes<br>
 
 **Constitution**<br>
 _history_: several previous; latest promulgated 4 July 1991<br>
-_amendments_: proposed by the government, by Congress, by a constituent assembly, or by public petition; passage requires a majority vote by Congress in each of two consecutive sessions; passage of amendments to constitutional articles on citizen rights, guarantees, and duties also require approval in a referendum by over one half of voters and participation of over one fourth of citizens registered to vote; amended many times, last in 2020<br>
+_amendment process_: proposed by the government, by Congress, by a constituent assembly, or by public petition; passage requires a majority vote by Congress in each of two consecutive sessions; passage of amendments to constitutional articles on citizen rights, guarantees, and duties also require approval in a referendum by over one half of voters and participation of over one fourth of citizens registered to vote<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>

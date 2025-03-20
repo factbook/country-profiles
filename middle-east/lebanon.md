@@ -51,12 +51,12 @@ _mean elevation_: 1,250 m<br>
 limestone, iron ore, salt, water-surplus state in a water-deficit region, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 63.3% (2018 est.)<br>
-_arable land_: arable land: 11.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 12.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 39.1% (2018 est.)<br>
-_forest_: 13.4% (2018 est.)<br>
-_other_: 23.3% (2018 est.)<br>
+_agricultural land_: 66.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 13.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 13.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 39.1% (2022 est.)<br>
+_forest_: 14.1% (2022 est.)<br>
+_other_: 19.5% (2022 est.)<br>
 
 **Irrigated land**<br>
 1,040 sq km (2012)<br>
@@ -237,12 +237,12 @@ _signed, but not ratified_: Environmental Modification, Marine Life Conservation
 Mediterranean; mild to cool, wet winters with hot, dry summers; the Lebanon Mountains experience heavy winter snows<br>
 
 **Land use**<br>
-_agricultural land_: 63.3% (2018 est.)<br>
-_arable land_: arable land: 11.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 12.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 39.1% (2018 est.)<br>
-_forest_: 13.4% (2018 est.)<br>
-_other_: 23.3% (2018 est.)<br>
+_agricultural land_: 66.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 13.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 13.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 39.1% (2022 est.)<br>
+_forest_: 14.1% (2022 est.)<br>
+_other_: 19.5% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 89.4% of total population (2023)<br>
@@ -309,7 +309,7 @@ mixed legal system of civil law based on the French civil code, Ottoman legal tr
 
 **Constitution**<br>
 _history_: drafted 15 May 1926, adopted 23 May 1926<br>
-_amendments_: proposed by the president of the republic and introduced as a government bill to the National Assembly or proposed by at least 10 members of the Assembly and agreed upon by two thirds of its members; if proposed by the National Assembly, review and approval by two-thirds majority of the Cabinet is required; if approved, the proposal is next submitted to the Cabinet for drafting as an amendment; Cabinet approval requires at least two-thirds majority, followed by submission to the National Assembly for discussion and vote; passage requires at least two-thirds majority vote of a required two-thirds quorum of the Assembly membership and promulgation by the president; amended several times, last in 2004<br>
+_amendment process_: proposed by the president of the republic and introduced as a government bill to the National Assembly or proposed by at least 10 members of the Assembly and agreed upon by two thirds of its members; if proposed by the National Assembly, review and approval by two-thirds majority of the Cabinet is required; if approved, the proposal is next submitted to the Cabinet for drafting as an amendment; Cabinet approval requires at least two-thirds majority, followed by submission to the National Assembly for discussion and vote; passage requires at least two-thirds majority vote of a required two-thirds quorum of the Assembly membership and promulgation by the president<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>

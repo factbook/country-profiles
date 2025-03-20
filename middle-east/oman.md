@@ -53,15 +53,15 @@ _mean elevation_: 310 m<br>
 petroleum, copper, asbestos, some marble, limestone, chromium, gypsum, natural gas<br>
 
 **Land use**<br>
-_agricultural land_: 4.7% (2018 est.)<br>
-_arable land_: arable land: 0.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 4.5% (2018 est.)<br>
-_forest_: 0% (2018 est.)<br>
-_other_: 95.3% (2018 est.)<br>
+_agricultural land_: 4.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.4% (2022 est.)<br>
+_forest_: 0% (2022 est.)<br>
+_other_: 95.3% (2022 est.)<br>
 
 **Irrigated land**<br>
-1,079 sq km (2020)<br>
+1,162 sq km (2022)<br>
 
 **Major aquifers**<br>
 Arabian Aquifer System<br>
@@ -237,12 +237,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 dry desert; hot, humid along coast; hot, dry interior; strong southwest summer monsoon (May to September) in far south<br>
 
 **Land use**<br>
-_agricultural land_: 4.7% (2018 est.)<br>
-_arable land_: arable land: 0.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 4.5% (2018 est.)<br>
-_forest_: 0% (2018 est.)<br>
-_other_: 95.3% (2018 est.)<br>
+_agricultural land_: 4.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.4% (2022 est.)<br>
+_forest_: 0% (2022 est.)<br>
+_other_: 95.3% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 88.4% of total population (2023)<br>
@@ -306,7 +306,7 @@ mixed legal system of Anglo-Saxon law and Islamic law<br>
 
 **Constitution**<br>
 _history_: promulgated by royal decree 6 November 1996 (the Basic Law of the Sultanate of Oman serves as the constitution); amended by royal decree in 2011<br>
-_amendments_: promulgated by the sultan or proposed by the Council of Oman and drafted by a technical committee as stipulated by royal decree and then promulgated through royal decree; amended by royal decree 2011, 2021<br>
+_amendment process_: promulgated by the sultan or proposed by the Council of Oman and drafted by a technical committee as stipulated by royal decree and then promulgated through royal decree<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>

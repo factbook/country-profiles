@@ -55,15 +55,15 @@ alumina, coal, iron ore, copper, lithium, tin, gold, silver, uranium, nickel, tu
 <strong>note 1:</strong> Australia is the world's largest net exporter of coal accounting for 26.5% of global coal exports in 2021; coal is the country’s most abundant energy resource, and coal ranks as the second-largest export commodity from Australia in terms of revenue; in 2020, Australia held the third-largest recoverable coal reserves in the world behind the United States and Russia<br><br><strong>note 2:</strong> Australia is by far the world's largest supplier of opals<br><br><strong>note 3:</strong> Australia holds the largest uranium reserves in the world and was the second-largest global uranium producer behind Kazakhstan in 2020<br><br><strong>note 4: </strong>Australia was the largest exporter of LNG in the world in 2020<br>
 
 **Land use**<br>
-_agricultural land_: 46.65% (2018 est.)<br>
-_arable land_: arable land: 4.03% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.04% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 42.58% (2018 est.)<br>
-_forest_: 17.42% (2018 est.)<br>
-_other_: 33.42% (2018 est.)<br>
+_agricultural land_: 47.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 4.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 43.1% (2022 est.)<br>
+_forest_: 17.4% (2022 est.)<br>
+_other_: 35.3% (2022 est.)<br>
 
 **Irrigated land**<br>
-15,210 sq km (2020)<br>
+19,450 sq km (2022)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lake Alexandrina - 570 sq km<br>
@@ -253,12 +253,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 generally arid to semiarid; temperate in south and east; tropical in north<br>
 
 **Land use**<br>
-_agricultural land_: 46.65% (2018 est.)<br>
-_arable land_: arable land: 4.03% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.04% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 42.58% (2018 est.)<br>
-_forest_: 17.42% (2018 est.)<br>
-_other_: 33.42% (2018 est.)<br>
+_agricultural land_: 47.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 4.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 43.1% (2022 est.)<br>
+_forest_: 17.4% (2022 est.)<br>
+_other_: 35.3% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 86.6% of total population (2023)<br>
@@ -307,7 +307,7 @@ _agricultural_: 8.57 billion cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: Commonwealth of Australia<br>
 _conventional short form_: Australia<br>
-_etymology_: the name Australia derives from the Latin "australis" meaning "southern"; the Australian landmass was long referred to as "Terra Australis" or the Southern Land<br>
+_etymology_: the name Australia derives from the Latin <em>australis </em>meaning "southern"; the Australian landmass was long referred to as "Terra Australis," or the Southern Land<br>
 
 **Government type**<br>
 federal parliamentary democracy&nbsp;under a constitutional monarchy; a Commonwealth realm<br>
@@ -337,7 +337,7 @@ common law system based on the English model<br>
 
 **Constitution**<br>
 _history_: approved in a series of referenda from 1898 through 1900 and became law 9 July 1900, effective 1 January 1901<br>
-_amendments_: proposed by Parliament; passage requires approval of a referendum bill by absolute majority vote in both houses of Parliament, approval in a referendum by a majority of voters in at least four states and in the territories, and Royal Assent; proposals that would reduce a state&rsquo;s representation in either house or change a state&rsquo;s boundaries require that state&rsquo;s approval prior to Royal Assent; amended several times, last in 1977<br>
+_amendment process_: proposed by Parliament; passage requires approval of a referendum bill by absolute majority vote in both houses of Parliament, approval in a referendum by a majority of voters in at least four states and in the territories, and Royal Assent; proposals that would reduce a state&rsquo;s representation in either house or change a state&rsquo;s boundaries require that state&rsquo;s approval prior to Royal Assent<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -386,7 +386,7 @@ _expected date of next election_: May 2025<br>
 **Judicial branch**<br>
 _highest court(s)_: High Court of Australia (consists of 7 justices, including the chief justice); note - each of the 6 states, 2 territories, and Norfolk Island has a Supreme Court; the High Court is the final appellate court beyond the state and territory supreme courts<br>
 _judge selection and term of office_: justices appointed by the governor-general in council for life with mandatory retirement at age 70<br>
-_subordinate courts_: subordinate courts: <em>at the federal level:</em> Federal Court; Federal Circuit and Family Court of Australia;  <em>at the state and territory level:</em> Local Court - New South Wales; Magistrates' Courts – Victoria, Queensland, South Australia, Western Australia, Tasmania, Northern Territory, Australian Capital Territory; District Courts – New South Wales, Queensland, South Australia, Western Australia; County Court – Victoria; Family Court – Western Australia; Court of Petty Sessions – Norfolk Island <p> </p> <p> </p><br>
+_subordinate courts_: subordinate courts: <em>at the federal level:</em> Federal Court; Federal Circuit and Family Court of Australia;  <em>at the state and territory level:</em> Local Court - New South Wales; Magistrates' Courts – Victoria, Queensland, South Australia, Western Australia, Tasmania, Northern Territory, Australian Capital Territory; District Courts – New South Wales, Queensland, South Australia, Western Australia; County Court – Victoria; Family Court – Western Australia; Court of Petty Sessions – Norfolk Island<br>
 
 **Political parties**<br>
 Australian Greens Party or The Greens <br>Australian Labor Party or ALP <br>Centre Alliance (formerly known as the Nick Xenophon Team or NXT)<br>Jacqui Lambie Network or JLN <br>Katter's Australian Party <br>Liberal Party of Australia <br>The Nationals <br>One Nation or ONP <br>United Australia Party <br>

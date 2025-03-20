@@ -50,6 +50,14 @@ _lowest point_: English Channel 0 m<br>
 **Natural resources**<br>
 cropland<br>
 
+**Land use**<br>
+_agricultural land_: 43.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 18.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 24.9% (2022 est.)<br>
+_forest_: 5.2% (2022 est.)<br>
+_other_: 51.6% (2022 est.)<br>
+
 **Irrigated land**<br>
 NA<br>
 
@@ -176,6 +184,14 @@ coastal erosion, coastal flooding; declining biodiversity due to land abandonmen
 **Climate**<br>
 temperate with mild winters and cool summers; about 50% of days are overcast<br>
 
+**Land use**<br>
+_agricultural land_: 43.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 18.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 24.9% (2022 est.)<br>
+_forest_: 5.2% (2022 est.)<br>
+_other_: 51.6% (2022 est.)<br>
+
 **Urbanization**<br>
 _urban population_: 31.2% of total population (2023)<br>
 _rate of urbanization_: 0.68% annual rate of change (2020-25 est.)<br>
@@ -223,7 +239,7 @@ customary legal system based on Norman customary law; includes elements of the F
 
 **Constitution**<br>
 _history_: unwritten; includes royal charters, statutes, and common law and practice<br>
-_amendments_: new laws or changes to existing laws are initiated by the States of Deliberation; passage requires majority vote; many laws have been passed; in 2019, 60 laws were passed<br>
+_amendment process_: new laws or changes to existing laws are initiated by the States of Deliberation; passage requires majority vote<br>
 
 **Citizenship**<br>
 see United Kingdom<br>
@@ -253,9 +269,10 @@ _expected date of next election_: June 2025<br>
 <strong>note:</strong> non-voting members include the bailiff (presiding officer), attorney-general, and solicitor-general<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Guernsey Court of Appeal (consists of the Bailiff of Guernsey, who is the ex-officio president of the Guernsey Court of Appeal, and at least 12 judges); Royal Court (organized into 3 divisions - Full Court sits with 1 judge and 7 to 12 jurats acting as judges of fact, Ordinary Court sits with 1 judge and normally 3 jurats, and Matrimonial Causes Division sits with 1 judge and 4 jurats); note - appeals beyond Guernsey courts are heard by the Judicial Committee of the Privy Council (in London)<br>
+_highest court(s)_: Guernsey Court of Appeal (consists of the Bailiff of Guernsey, who is the ex-officio president of the Guernsey Court of Appeal, and at least 12 judges); Royal Court (organized into 3 divisions - Full Court sits with 1 judge and 7 to 12 jurats acting as judges of fact, Ordinary Court sits with 1 judge and normally 3 jurats, and Matrimonial Causes Division sits with 1 judge and 4 jurats)<br>
 _judge selection and term of office_: Royal Court Bailiff, Deputy Bailiff, and Court of Appeal justices appointed by the British Crown and hold office at Her Majesty's pleasure; jurats elected by the States of Election, a body chaired by the Bailiff and a number of jurats<br>
 _subordinate courts_: Court of Alderney; Court of the Seneschal of Sark; Magistrates' Court (includes Juvenile Court); Contracts Court; Ecclesiastical Court; Court of Chief Pleas<br>
+<strong>note:</strong> appeals beyond Guernsey courts are heard by the Judicial Committee of the Privy Council (in London)<br>
 
 **Political parties**<br>
 Alliance Party Guernsey or APG <br>Guernsey Partnership of Independents or GPI <br>Guernsey Party or GP <br>

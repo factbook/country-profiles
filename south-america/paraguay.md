@@ -51,12 +51,12 @@ _mean elevation_: 178 m<br>
 hydropower, timber, iron ore, manganese, limestone<br>
 
 **Land use**<br>
-_agricultural land_: 53.8% (2018 est.)<br>
-_arable land_: arable land: 10.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 42.8% (2018 est.)<br>
-_forest_: 43.8% (2018 est.)<br>
-_other_: 2.4% (2018 est.)<br>
+_agricultural land_: 42% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 11.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 30.3% (2022 est.)<br>
+_forest_: 39.3% (2022 est.)<br>
+_other_: 18.8% (2022 est.)<br>
 
 **Irrigated land**<br>
 1,362 sq km (2012)<br>
@@ -247,12 +247,12 @@ _signed, but not ratified_: Nuclear Test Ban, Tropical Timber 2006<br>
 subtropical to temperate; substantial rainfall in the eastern portions, becoming semiarid in the far west<br>
 
 **Land use**<br>
-_agricultural land_: 53.8% (2018 est.)<br>
-_arable land_: arable land: 10.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 42.8% (2018 est.)<br>
-_forest_: 43.8% (2018 est.)<br>
-_other_: 2.4% (2018 est.)<br>
+_agricultural land_: 42% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 11.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 30.3% (2022 est.)<br>
+_forest_: 39.3% (2022 est.)<br>
+_other_: 18.8% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 63.1% of total population (2023)<br>
@@ -321,7 +321,7 @@ civil law system with influences from Argentine, Spanish, Roman, and French civi
 
 **Constitution**<br>
 _history_: several previous; latest approved and promulgated 20 June 1992<br>
-_amendments_: proposed at the initiative of at least one quarter of either chamber of the National Congress, by the president of the republic, or by petition of at least 30,000 voters; passage requires a two-thirds majority vote by both chambers and approval in a referendum; amended 2011<br>
+_amendment process_: proposed at the initiative of at least one quarter of either chamber of the National Congress, by the president of the republic, or by petition of at least 30,000 voters; passage requires a two-thirds majority vote by both chambers and approval in a referendum<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction<br>

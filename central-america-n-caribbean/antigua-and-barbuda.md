@@ -53,12 +53,12 @@ _lowest point_: Caribbean Sea 0 m<br>
 NEGL; pleasant climate fosters tourism<br>
 
 **Land use**<br>
-_agricultural land_: 20.5% (2018 est.)<br>
-_arable land_: arable land: 9% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 9% (2018 est.)<br>
-_forest_: 18.8% (2018 est.)<br>
-_other_: 60.8% (2018 est.)<br>
+_agricultural land_: 20.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 9.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.1% (2022 est.)<br>
+_forest_: 18.2% (2022 est.)<br>
+_other_: 61.4% (2022 est.)<br>
 
 **Irrigated land**<br>
 1.3 sq km (2012)<br>
@@ -220,12 +220,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical maritime; little seasonal temperature variation<br>
 
 **Land use**<br>
-_agricultural land_: 20.5% (2018 est.)<br>
-_arable land_: arable land: 9% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 9% (2018 est.)<br>
-_forest_: 18.8% (2018 est.)<br>
-_other_: 60.8% (2018 est.)<br>
+_agricultural land_: 20.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 9.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.1% (2022 est.)<br>
+_forest_: 18.2% (2022 est.)<br>
+_other_: 61.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 24.3% of total population (2023)<br>
@@ -256,9 +256,9 @@ _agricultural_: 1.8 million cubic meters (2017 est.)<br>
 ## Government
 
 **Country name**<br>
-_conventional long form_: none<br>
+_conventional long form_: Antigua and Barbuda<br>
 _conventional short form_: Antigua and Barbuda<br>
-_etymology_: "antiguo" is Spanish for "ancient" or "old"; the island was discovered by Christopher COLUMBUS in 1493 and, according to tradition, named by him after the church of Santa Maria la Antigua (Old Saint Mary's) in Seville; "barbuda" is Spanish for "bearded" and the adjective may refer to the alleged beards of the indigenous people or to the island's bearded fig trees<br>
+_etymology_: <em>antiguo </em>is Spanish for "ancient" or "old"; Christopher COLUMBUS named the island in 1493, after the church of Santa Maria la Antigua (Old Saint Mary's) in Seville, Spain; <em>barbuda </em>is Spanish for "bearded" and may refer to the island's lichen-covered fig trees<br>
 
 **Government type**<br>
 parliamentary democracy under a constitutional monarchy; a Commonwealth realm<br>
@@ -283,7 +283,7 @@ common law based on the English model<br>
 
 **Constitution**<br>
 _history_: several previous; latest presented 31 July 1981, effective 31 October 1981 (The Antigua and Barbuda Constitution Order 1981)<br>
-_amendments_: proposed by either house of Parliament; passage of amendments to constitutional sections such as citizenship, fundamental rights and freedoms, the establishment, power, and authority of the executive and legislative branches, the Supreme Court Order, and the procedure for amending the constitution requires approval by at least two-thirds majority vote of the membership of both houses, approval by at least two-thirds majority in a referendum, and assent to by the governor general; passage of other amendments requires only two-thirds majority vote by both houses; amended 2009, 2011, 2018<br>
+_amendment process_: proposed by either house of Parliament; passage of amendments to constitutional sections such as citizenship, fundamental rights and freedoms, the establishment, power, and authority of the executive and legislative branches, the Supreme Court Order, and the procedure for amending the constitution requires approval by at least two-thirds majority vote of the membership of both houses, approval by at least two-thirds majority in a referendum, and assent to by the governor general; passage of other amendments requires only two-thirds majority vote by both houses<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -328,8 +328,8 @@ _percentage of women in chamber_: 41.2%<br>
 _expected date of next election_: February 2028<br>
 
 **Judicial branch**<br>
-_highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Antigua and Barbuda<br>
-_judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by the His Majesty, King CHARLES III; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
+_highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC is headquartered on St. Lucia and consists of the Court of Appeal -- headed by the chief justice and 4 judges -- and the High Court with 18 judges; the Court of Appeal travels to member states on a schedule to hear appeals from the High Court and subordinate courts<br>
+_judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by the British monarch; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
 _subordinate courts_: Industrial Court; Magistrates' Courts<br>
 
 **Political parties**<br>

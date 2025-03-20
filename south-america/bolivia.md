@@ -51,12 +51,12 @@ _mean elevation_: 1,192 m<br>
 lithium, tin, natural gas, petroleum, zinc, tungsten, antimony, silver, iron, lead, gold, timber, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 34.3% (2018 est.)<br>
-_arable land_: arable land: 3.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 30.5% (2018 est.)<br>
-_forest_: 52.5% (2018 est.)<br>
-_other_: 13.2% (2018 est.)<br>
+_agricultural land_: 35.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 5.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 30.5% (2022 est.)<br>
+_forest_: 46.5% (2022 est.)<br>
+_other_: 17.6% (2022 est.)<br>
 
 **Irrigated land**<br>
 2,972 sq km (2017)<br>
@@ -249,12 +249,12 @@ _signed, but not ratified_: Environmental Modification, Marine Life Conservation
 varies with altitude; humid and tropical to cold and semiarid<br>
 
 **Land use**<br>
-_agricultural land_: 34.3% (2018 est.)<br>
-_arable land_: arable land: 3.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 30.5% (2018 est.)<br>
-_forest_: 52.5% (2018 est.)<br>
-_other_: 13.2% (2018 est.)<br>
+_agricultural land_: 35.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 5.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 30.5% (2022 est.)<br>
+_forest_: 46.5% (2022 est.)<br>
+_other_: 17.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 71.2% of total population (2023)<br>
@@ -327,7 +327,7 @@ civil law system with influences from Roman, Spanish, canon (religious), French,
 
 **Constitution**<br>
 _history_: many previous; latest drafted 6 August 2006 to 9 December 2008, approved by referendum 25 January 2009, effective 7 February 2009<br>
-_amendments_: proposed through public petition by at least 20% of voters or by the Plurinational Legislative Assembly; passage requires approval by at least two-thirds majority vote of the total membership of the Assembly and approval in a referendum; amended 2013<br>
+_amendment process_: proposed through public petition by at least 20% of voters or by the Plurinational Legislative Assembly; passage requires approval by at least two-thirds majority vote of the total membership of the Assembly and approval in a referendum<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -376,7 +376,7 @@ _percentage of women in chamber_: 55.6%<br>
 _expected date of next election_: October 2025<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court or Tribunal Supremo de Justicia (consists of 12 judges or ministros organized into civil, penal, social, and administrative chambers); Plurinational Constitutional Tribunal (consists of 7 primary and 7 alternate magistrates); Plurinational Electoral Organ (consists of 7 members and 6 alternates); National Agro-Environment Court (consists of 5 primary and 5 alternate judges; Council of the Judiciary (consists of 3 primary and 3 alternate judges)<br>
+_highest court(s)_: Supreme Court or Tribunal Supremo de Justicia (consists of 12 judges<em> </em>organized into civil, penal, social, and administrative chambers); Plurinational Constitutional Tribunal (consists of 7 primary and 7 alternate magistrates); Plurinational Electoral Organ (consists of 7 members and 6 alternates); National Agro-Environment Court (consists of 5 primary and 5 alternate judges; Council of the Judiciary (consists of 3 primary and 3 alternate judges)<br>
 _judge selection and term of office_: Supreme Court, Plurinational Constitutional Tribunal, National Agro-Environmental Court, and Council of the Judiciary candidates pre-selected by the Plurinational Legislative Assembly and elected by direct popular vote; judges elected for 6-year terms; Plurinational Electoral Organ judges appointed - 6 by the Legislative Assembly and 1 by the president of the republic; members serve single 6-year terms<br>
 _subordinate courts_: National Electoral Court; District Courts (in each of the 9 administrative departments); agro-environmental lower courts<br>
 

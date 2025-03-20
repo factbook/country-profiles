@@ -52,15 +52,15 @@ _mean elevation_: 173 m<br>
 coal, sulfur, copper, natural gas, silver, lead, salt, amber, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 48.2% (2018 est.)<br>
-_arable land_: arable land: 36.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 10.7% (2018 est.)<br>
-_forest_: 30.6% (2018 est.)<br>
-_other_: 21.2% (2018 est.)<br>
+_agricultural land_: 46.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 36.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 8.6% (2022 est.)<br>
+_forest_: 31.1% (2022 est.)<br>
+_other_: 22.6% (2022 est.)<br>
 
 **Irrigated land**<br>
-760 sq km (2013)<br>
+1,327 sq km (2016)<br>
 
 **Major lakes (area sq km)**<br>
 _salt water lake(s)_: Zalew Szczecinski/Stettiner Haff (shared with Germany) - 900 sq km<br>
@@ -243,12 +243,12 @@ _signed, but not ratified_: Air Pollution-Heavy Metals, Air Pollution-Multi-effe
 temperate with cold, cloudy, moderately severe winters with frequent precipitation; mild summers with frequent showers and thundershowers<br>
 
 **Land use**<br>
-_agricultural land_: 48.2% (2018 est.)<br>
-_arable land_: arable land: 36.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 10.7% (2018 est.)<br>
-_forest_: 30.6% (2018 est.)<br>
-_other_: 21.2% (2018 est.)<br>
+_agricultural land_: 46.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 36.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 8.6% (2022 est.)<br>
+_forest_: 31.1% (2022 est.)<br>
+_other_: 22.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 60.2% of total population (2023)<br>
@@ -325,7 +325,7 @@ civil law system; judicial review of legislative, administrative, and other gove
 
 **Constitution**<br>
 _history_: several previous; latest adopted 2 April 1997, approved by referendum 25 May 1997, effective 17 October 1997<br>
-_amendments_: proposed by at least one fifth of Sejm deputies, by the Senate, or by the president of the republic; passage requires at least two-thirds majority vote in the Sejm and absolute majority vote in the Senate; amendments to articles relating to sovereignty, personal freedoms, and constitutional amendment procedures also require passage by majority vote in a referendum; amended 2006, 2009<br>
+_amendment process_: proposed by at least one fifth of Sejm deputies, by the Senate, or by the president of the republic; passage requires at least two-thirds majority vote in the Sejm and absolute majority vote in the Senate; amendments to articles relating to sovereignty, personal freedoms, and constitutional amendment procedures also require passage by majority vote in a referendum<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>

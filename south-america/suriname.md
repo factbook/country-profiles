@@ -52,12 +52,12 @@ _mean elevation_: 246 m<br>
 timber, hydropower, fish, kaolin, shrimp, bauxite, gold, and small amounts of nickel, copper, platinum, iron ore<br>
 
 **Land use**<br>
-_agricultural land_: 0.5% (2018 est.)<br>
-_arable land_: arable land: 0.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0.1% (2018 est.)<br>
-_forest_: 94.6% (2018 est.)<br>
-_other_: 4.9% (2018 est.)<br>
+_agricultural land_: 0.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.1% (2022 est.)<br>
+_forest_: 94.5% (2022 est.)<br>
+_other_: 5% (2022 est.)<br>
 
 **Irrigated land**<br>
 600 sq km (2020)<br>
@@ -233,12 +233,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; moderated by trade winds<br>
 
 **Land use**<br>
-_agricultural land_: 0.5% (2018 est.)<br>
-_arable land_: arable land: 0.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0.1% (2018 est.)<br>
-_forest_: 94.6% (2018 est.)<br>
-_other_: 4.9% (2018 est.)<br>
+_agricultural land_: 0.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.1% (2022 est.)<br>
+_forest_: 94.5% (2022 est.)<br>
+_other_: 5% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 66.4% of total population (2023)<br>
@@ -302,7 +302,7 @@ civil law system influenced by Dutch civil law; note - a new criminal code was e
 
 **Constitution**<br>
 _history_: previous 1975; latest ratified 30 September 1987, effective 30 October 1987<br>
-_amendments_: proposed by the National Assembly; passage requires at least two-thirds majority vote of the total membership; amended 1992<br>
+_amendment process_: proposed by the National Assembly; passage requires at least two-thirds majority vote of the total membership<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -337,9 +337,10 @@ _percentage of women in chamber_: 31.4%<br>
 _expected date of next election_: May 2025<br>
 
 **Judicial branch**<br>
-_highest court(s)_: High Court of Justice of Suriname (consists of the court president, vice president, and 4 judges); note - appeals beyond the High Court are referred to the Caribbean Court of Justice; human rights violations can be appealed to the Inter-American Commission on Human Rights with judgments issued by the Inter-American Court on Human Rights<br>
+_highest court(s)_: High Court of Justice of Suriname (consists of the court president, vice president, and 4 judges)<br>
 _judge selection and term of office_: court judges appointed by the national president in consultation with the National Assembly, the State Advisory Council, and the Order of Private Attorneys; judges serve for life<br>
 _subordinate courts_: cantonal courts<br>
+<strong>note</strong>: appeals beyond the High Court are referred to the Caribbean Court of Justice; human rights violations can be appealed to the Inter-American Commission on Human Rights with judgments issued by the Inter-American Court on Human Rights<br>
 
 **Political parties**<br>
 Brotherhood and Unity in Politics or BEP<br>Democratic Alternative '91 or DA91<br>General Liberation and Development Party or ABOP<br>National Democratic Party or NDP<br>National Party of Suriname or NPS<br>Party for Democracy and Development in Unity or DOE<br>Party for National Unity and Solidarity or KTPI<br>People's Alliance (Pertjajah Luhur) or PL<br>Progressive Workers' and Farmers' Union or PALU<br>Progressive Reform Party or VHP<br>Reform and Renewal Movement or HVB<br>Surinamese Labor Party or SPA<br>

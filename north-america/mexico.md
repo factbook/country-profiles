@@ -54,15 +54,15 @@ _mean elevation_: 1,111 m<br>
 petroleum, silver, antimony, copper, gold, lead, zinc, natural gas, timber<br>
 
 **Land use**<br>
-_agricultural land_: 54.9% (2018 est.)<br>
-_arable land_: arable land: 11.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 41.7% (2018 est.)<br>
-_forest_: 33.3% (2018 est.)<br>
-_other_: 11.8% (2018 est.)<br>
+_agricultural land_: 49.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 9.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 38.1% (2022 est.)<br>
+_forest_: 33.7% (2022 est.)<br>
+_other_: 16.9% (2022 est.)<br>
 
 **Irrigated land**<br>
-60,620 sq km (2020)<br>
+59,910 sq km (2022)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Laguna de Chapala - 1,140 sq km<br>
@@ -256,12 +256,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 varies from tropical to desert<br>
 
 **Land use**<br>
-_agricultural land_: 54.9% (2018 est.)<br>
-_arable land_: arable land: 11.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 41.7% (2018 est.)<br>
-_forest_: 33.3% (2018 est.)<br>
-_other_: 11.8% (2018 est.)<br>
+_agricultural land_: 49.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 9.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 38.1% (2022 est.)<br>
+_forest_: 33.7% (2022 est.)<br>
+_other_: 16.9% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 81.6% of total population (2023)<br>
@@ -343,7 +343,7 @@ civil law system with US constitutional law influence; judicial review of legisl
 
 **Constitution**<br>
 _history_: several previous; latest approved 5 February 1917<br>
-_amendments_: proposed by the Congress of the Union; passage requires approval by at least two thirds of the members present and approval by a majority of the state legislatures; amended many times, last in 2024<br>
+_amendment process_: proposed by the Congress of the Union; passage requires approval by at least two thirds of the members present and approval by a majority of the state legislatures<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>

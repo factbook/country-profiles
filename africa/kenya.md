@@ -53,12 +53,12 @@ _mean elevation_: 762 m<br>
 limestone, soda ash, salt, gemstones, fluorspar, zinc, diatomite, gypsum, wildlife, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 48.1% (2018 est.)<br>
-_arable land_: arable land: 9.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 37.4% (2018 est.)<br>
-_forest_: 6.1% (2018 est.)<br>
-_other_: 45.8% (2018 est.)<br>
+_agricultural land_: 49.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 11.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 37.4% (2022 est.)<br>
+_forest_: 6.3% (2022 est.)<br>
+_other_: 43.9% (2022 est.)<br>
 
 **Irrigated land**<br>
 1,030 sq km (2012)<br>
@@ -242,12 +242,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 varies from tropical along coast to arid in interior<br>
 
 **Land use**<br>
-_agricultural land_: 48.1% (2018 est.)<br>
-_arable land_: arable land: 9.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 37.4% (2018 est.)<br>
-_forest_: 6.1% (2018 est.)<br>
-_other_: 45.8% (2018 est.)<br>
+_agricultural land_: 49.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 11.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 37.4% (2022 est.)<br>
+_forest_: 6.3% (2022 est.)<br>
+_other_: 43.9% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 29.5% of total population (2023)<br>
@@ -323,7 +323,7 @@ mixed legal system of English common law, Islamic law, and customary law; judici
 
 **Constitution**<br>
 _history_: current constitution passed by referendum on 4 August 2010<br>
-_amendments_: amendments can be proposed by either house of Parliament or by petition of at least one million eligible voters; passage of amendments by Parliament requires approval by at least two-thirds majority vote of both houses in each of two readings, approval in a referendum by majority of votes cast by at least 20% of eligible voters in at least one half of Kenya&rsquo;s counties, and approval by the president; passage of amendments introduced by petition requires approval by a majority of county assemblies, approval by majority vote of both houses, and approval by the president<br>
+_amendment process_: amendments can be proposed by either house of Parliament or by petition of at least one million eligible voters; passage of amendments by Parliament requires approval by at least two-thirds majority vote of both houses in each of two readings, approval in a referendum by majority of votes cast by at least 20% of eligible voters in at least one half of Kenya&rsquo;s counties, and approval by the president; passage of amendments introduced by petition requires approval by a majority of county assemblies, approval by majority vote of both houses, and approval by the president<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>

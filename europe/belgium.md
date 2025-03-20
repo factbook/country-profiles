@@ -54,12 +54,12 @@ _mean elevation_: 181 m<br>
 construction materials, silica sand, carbonates, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 44.1% (2018 est.)<br>
-_arable land_: arable land: 27.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 16.1% (2018 est.)<br>
-_forest_: 22.4% (2018 est.)<br>
-_other_: 33.5% (2018 est.)<br>
+_agricultural land_: 44.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 28.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 15.5% (2022 est.)<br>
+_forest_: 22.6% (2022 est.)<br>
+_other_: 32.8% (2022 est.)<br>
 
 **Irrigated land**<br>
 57 sq km (2013)<br>
@@ -239,12 +239,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate; mild winters, cool summers; rainy, humid, cloudy<br>
 
 **Land use**<br>
-_agricultural land_: 44.1% (2018 est.)<br>
-_arable land_: arable land: 27.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 16.1% (2018 est.)<br>
-_forest_: 22.4% (2018 est.)<br>
-_other_: 33.5% (2018 est.)<br>
+_agricultural land_: 44.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 28.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 15.5% (2022 est.)<br>
+_forest_: 22.6% (2022 est.)<br>
+_other_: 32.8% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 98.2% of total population (2023)<br>
@@ -315,7 +315,7 @@ civil law system based on the French Civil Code; note - Belgian law continues to
 
 **Constitution**<br>
 _history_: drafted 25 November 1830, approved 7 February 1831, entered into force 26 July 1831, revised 14 July 1993 (creating a federal state)<br>
-_amendments_: "revisions" proposed as declarations by the federal government in accord with the king or by Parliament followed by dissolution of Parliament and new elections; adoption requires two-thirds majority vote of a two-thirds quorum in both houses of the next elected Parliament; amended many times, last in 2019<br>
+_amendment process_: "revisions" proposed as declarations by the federal government in accord with the king or by Parliament followed by dissolution of Parliament and new elections; adoption requires two-thirds majority vote of a two-thirds quorum in both houses of the next elected Parliament<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>

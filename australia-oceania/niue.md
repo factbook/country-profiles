@@ -50,12 +50,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 arable land, fish<br>
 
 **Land use**<br>
-_agricultural land_: 19.1% (2018 est.)<br>
-_arable land_: arable land: 3.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 11.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 3.8% (2018 est.)<br>
-_forest_: 71.2% (2018 est.)<br>
-_other_: 9.7% (2018 est.)<br>
+_agricultural land_: 18.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 3.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 10.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 3.8% (2022 est.)<br>
+_forest_: 72.7% (2022 est.)<br>
+_other_: 8.9% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -142,12 +142,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; modified by southeast trade winds<br>
 
 **Land use**<br>
-_agricultural land_: 19.1% (2018 est.)<br>
-_arable land_: arable land: 3.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 11.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 3.8% (2018 est.)<br>
-_forest_: 71.2% (2018 est.)<br>
-_other_: 9.7% (2018 est.)<br>
+_agricultural land_: 18.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 3.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 10.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 3.8% (2022 est.)<br>
+_forest_: 72.7% (2022 est.)<br>
+_other_: 8.9% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 48.2% of total population (2023)<br>
@@ -193,7 +193,7 @@ English common law<br>
 
 **Constitution**<br>
 _history_: several previous (New Zealand colonial statutes); latest 19 October 1974 (Niue Constitution Act 1974)<br>
-_amendments_: proposed by the Assembly; passage requires at least two-thirds majority vote of the Assembly membership in each of three readings and approval by at least two-thirds majority votes in a referendum; passage of amendments to a number of sections, including Niue&rsquo;s self-governing status, British nationality and New Zealand citizenship, external affairs and defense, economic and administrative assistance by New Zealand, and amendment procedures, requires at least two-thirds majority vote by the Assembly and at least two thirds of votes in a referendum; amended 1992, 2007; note - in early 2021, the constitution review committee of the Assembly requested suggestions from the public about changes to the constitution<br>
+_amendment process_: proposed by the Assembly; passage requires at least two-thirds majority vote of the Assembly membership in each of three readings and approval by at least two-thirds majority votes in a referendum; passage of amendments to a number of sections, including Niue&rsquo;s self-governing status, British nationality and New Zealand citizenship, external affairs and defense, economic and administrative assistance by New Zealand, and amendment procedures, requires at least two-thirds majority vote by the Assembly and at least two thirds of votes in a referendum&nbsp;<br>
 
 **Suffrage**<br>
 18 years of age; universal<br>
@@ -218,10 +218,10 @@ _percentage of women in chamber_: 15%<br>
 _expected date of next election_: April 2026<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Court of Appeal (consists of the chief justice and up to 3 judges); note - the Judicial Committee of the Privy Council (in London) is the final appeal court beyond the Niue Court of Appeal<br>
+_highest court(s)_: Court of Appeal (consists of the chief justice and up to 3 judges)<br>
 _judge selection and term of office_: Niue chief justice appointed by the governor general on the advice of the Cabinet and tendered by the premier; other judges appointed by the governor general on the advice of the Cabinet and tendered by the chief justice and the minister of justice; judges serve until age 68<br>
 _subordinate courts_: High Court<br>
-<strong>note:</strong> Niue is a participant in the Pacific Judicial Development Program, which is designed to build governance and the rule of law in 15 Pacific island countries<br>
+<strong>note:</strong> the Judicial Committee of the Privy Council (in London) is the final appeal court beyond the Niue Court of Appeal<br>
 
 **Political parties**<br>
 none<br>

@@ -55,15 +55,15 @@ _mean elevation_: 424 m<br>
 nickel, bauxite, gold, silver, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 51.5% (2018 est.)<br>
-_arable land_: arable land: 16.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 10.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 24.8% (2018 est.)<br>
-_forest_: 40.8% (2018 est.)<br>
-_other_: 7.7% (2018 est.)<br>
+_agricultural land_: 50.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 18.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 7.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 24.8% (2022 est.)<br>
+_forest_: 44.8% (2022 est.)<br>
+_other_: 4.6% (2022 est.)<br>
 
 **Irrigated land**<br>
-2,980 sq km (2018)<br>
+2,981 sq km (2018)<br>
 
 **Major lakes (area sq km)**<br>
 _salt water lake(s)_: Lago de Enriquillo - 500 sq km<br>
@@ -247,12 +247,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical maritime; little seasonal temperature variation; seasonal variation in rainfall<br>
 
 **Land use**<br>
-_agricultural land_: 51.5% (2018 est.)<br>
-_arable land_: arable land: 16.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 10.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 24.8% (2018 est.)<br>
-_forest_: 40.8% (2018 est.)<br>
-_other_: 7.7% (2018 est.)<br>
+_agricultural land_: 50.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 18.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 7.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 24.8% (2022 est.)<br>
+_forest_: 44.8% (2022 est.)<br>
+_other_: 4.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 84.4% of total population (2023)<br>
@@ -318,7 +318,7 @@ civil law system based on the French civil code; Criminal Procedures Code modifi
 
 **Constitution**<br>
 _history_: many previous (38 total); latest proclaimed 13 June 2015<br>
-_amendments_: proposed by a special session of the National Congress called the National Revisory Assembly; passage requires at least two-thirds majority approval by at least one half of those present in both houses of the Assembly; passage of amendments to constitutional articles, such as fundamental rights and guarantees, territorial composition, nationality, or the procedures for constitutional reform, also requires approval in a referendum<br>
+_amendment process_: proposed by a special session of the National Congress called the National Revisory Assembly; passage requires at least two-thirds majority approval by at least one half of those present in both houses of the Assembly; passage of amendments to constitutional articles, such as fundamental rights and guarantees, territorial composition, nationality, or the procedures for constitutional reform, also requires approval in a referendum<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction<br>
@@ -367,8 +367,8 @@ _percentage of women in chamber_: 12.5%<br>
 _expected date of next election_: May 2028<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court of Justice or Suprema Corte de Justicia (consists of a minimum of 16 magistrates); Constitutional Court or Tribunal Constitucional (consists of 13 judges); note - the Constitutional Court was established in 2010 by constitutional amendment<br>
-_judge selection and term of office_: Supreme Court and Constitutional Court judges appointed by the National Council of the Judiciary comprised of the president, the leaders of both chambers of congress, the president of the Supreme Court, and a non-governing party congressional representative; Supreme Court judges appointed for 7-year terms; Constitutional Court judges appointed for 9-year terms<br>
+_highest court(s)_: Supreme Court of Justice or Suprema Corte de Justicia (consists of a minimum of 16 magistrates); Constitutional Court or Tribunal Constitucional (consists of 13 judges)<br>
+_judge selection and term of office_: Supreme Court and Constitutional Court judges appointed by the National Council of the Judiciary composed of the president, the leaders of both chambers of congress, the president of the Supreme Court, and a non-governing party congressional representative; Supreme Court judges appointed for 7-year terms; Constitutional Court judges appointed for 9-year terms<br>
 _subordinate courts_: courts of appeal; courts of first instance; justices of the peace; special courts for juvenile, labor, and land cases; Contentious Administrative Court for cases filed against the government<br>
 
 **Political parties**<br>

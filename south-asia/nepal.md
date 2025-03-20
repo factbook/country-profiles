@@ -51,15 +51,15 @@ _mean elevation_: 2,565 m<br>
 quartz, water, timber, hydropower, scenic beauty, small deposits of lignite, copper, cobalt, iron ore<br>
 
 **Land use**<br>
-_agricultural land_: 28.8% (2018 est.)<br>
-_arable land_: arable land: 15.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 12.5% (2018 est.)<br>
-_forest_: 25.4% (2018 est.)<br>
-_other_: 45.8% (2018 est.)<br>
+_agricultural land_: 26.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 12.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 12.5% (2022 est.)<br>
+_forest_: 41.6% (2022 est.)<br>
+_other_: 32.3% (2022 est.)<br>
 
 **Irrigated land**<br>
-13,320 sq km (2012)<br>
+12,090 sq km (2022)<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km)<br>
@@ -248,12 +248,12 @@ _signed, but not ratified_: Comprehensive Nuclear Test Ban, Marine Life Conserva
 varies from cool summers and severe winters in north to subtropical summers and mild winters in south<br>
 
 **Land use**<br>
-_agricultural land_: 28.8% (2018 est.)<br>
-_arable land_: arable land: 15.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 12.5% (2018 est.)<br>
-_forest_: 25.4% (2018 est.)<br>
-_other_: 45.8% (2018 est.)<br>
+_agricultural land_: 26.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 12.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 12.5% (2022 est.)<br>
+_forest_: 41.6% (2022 est.)<br>
+_other_: 32.3% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 21.9% of total population (2023)<br>
@@ -319,7 +319,7 @@ English common law and Hindu legal concepts; note - new criminal and civil codes
 
 **Constitution**<br>
 _history_: several previous; latest approved by the Second Constituent Assembly 16 September 2015, signed by the president and effective 20 September 2015<br>
-_amendments_: proposed as a bill by either house of the Federal Parliament; bills affecting a state border or powers delegated to a state must be submitted to the affected state assembly; passage of such bills requires a majority vote of that state assembly membership; bills not requiring state assembly consent require at least two-thirds majority vote by the membership of both houses of the Federal Parliament; parts of the constitution on the sovereignty, territorial integrity, independence, and sovereignty vested in the people cannot be amended; amended 2016, 2020<br>
+_amendment process_: proposed as a bill by either house of the Federal Parliament; bills affecting a state border or powers delegated to a state must be submitted to the affected state assembly; passage of such bills requires a majority vote of that state assembly membership; bills not requiring state assembly consent require at least two-thirds majority vote by the membership of both houses of the Federal Parliament; parts of the constitution on the sovereignty, territorial integrity, independence, and sovereignty vested in the people cannot be amended<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -366,7 +366,7 @@ _expected date of next election_: January 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and up to 20 judges)<br>
-_judge selection and term of office_: Supreme Court chief justice appointed by the president upon the recommendation of the Constitutional Council, a 5-member, high-level advisory body headed by the prime minister; other judges appointed by the president upon the recommendation of the Judicial Council, a 5-member advisory body headed by the chief justice; the chief justice serves a 6-year term; judges serve until age 65<br>
+_judge selection and term of office_: Supreme Court chief justice appointed by the president on the recommendation of the Constitutional Council, a 5-member, high-level advisory body headed by the prime minister; other judges appointed by the president on the recommendation of the Judicial Council, a 5-member advisory body headed by the chief justice; the chief justice serves a 6-year term; judges serve until age 65<br>
 _subordinate courts_: High Court; district courts<br>
 
 **Political parties**<br>

@@ -51,12 +51,12 @@ _mean elevation_: 853 m<br>
 gold, potash, zinc, copper, salt, possibly oil and natural gas, fish<br>
 
 **Land use**<br>
-_agricultural land_: 75.1% (2018 est.)<br>
-_arable land_: arable land: 6.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 68.3% (2018 est.)<br>
-_forest_: 15.1% (2018 est.)<br>
-_other_: 9.8% (2018 est.)<br>
+_agricultural land_: 62.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 5.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 57% (2022 est.)<br>
+_forest_: 8.7% (2022 est.)<br>
+_other_: 28.6% (2022 est.)<br>
 
 **Irrigated land**<br>
 210 sq km (2012)<br>
@@ -238,12 +238,12 @@ _signed, but not ratified_: Climate Change-Paris Agreement<br>
 hot, dry desert strip along Red Sea coast; cooler and wetter in the central highlands (up to 61 cm of rainfall annually, heaviest June to September); semiarid in western hills and lowlands<br>
 
 **Land use**<br>
-_agricultural land_: 75.1% (2018 est.)<br>
-_arable land_: arable land: 6.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 68.3% (2018 est.)<br>
-_forest_: 15.1% (2018 est.)<br>
-_other_: 9.8% (2018 est.)<br>
+_agricultural land_: 62.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 5.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 57% (2022 est.)<br>
+_forest_: 8.7% (2022 est.)<br>
+_other_: 28.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 43.3% of total population (2023)<br>
@@ -298,7 +298,7 @@ mixed legal system of civil, customary, and Islamic religious law<br>
 
 **Constitution**<br>
 _history_: ratified by the Constituent Assembly 23 May 1997 (never implemented)<br>
-_amendments_: proposed by the president of Eritrea or by assent of at least one half of the National Assembly membership; passage requires at least an initial three-quarters majority vote by the Assembly and, after one year, final passage by at least four-fifths majority vote by the Assembly<br>
+_amendment process_: proposed by the president of Eritrea or by assent of at least one half of the National Assembly membership; passage requires at least an initial three-quarters majority vote by the Assembly and, after one year, final passage by at least four-fifths majority vote by the Assembly<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>

@@ -51,12 +51,12 @@ _lowest point_: Mediterranean Sea 0 m<br>
 none<br>
 
 **Land use**<br>
-_agricultural land_: 1% (2018 est.)<br>
-_arable land_: arable land: 0% (2018 est.)<br>
-_permanent crops_: permanent crops: 1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 0% (2018 est.)<br>
-_other_: 99% (2018 est.)<br>
+_agricultural land_: 0% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0% (2018 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2018 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_forest_: 0% (2022 est.)<br>
+_other_: 100% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -205,12 +205,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 Mediterranean with mild, wet winters and hot, dry summers<br>
 
 **Land use**<br>
-_agricultural land_: 1% (2018 est.)<br>
-_arable land_: arable land: 0% (2018 est.)<br>
-_permanent crops_: permanent crops: 1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 0% (2018 est.)<br>
-_other_: 99% (2018 est.)<br>
+_agricultural land_: 0% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0% (2018 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2018 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_forest_: 0% (2022 est.)<br>
+_other_: 100% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
@@ -266,7 +266,7 @@ civil law system influenced by French legal tradition<br>
 
 **Constitution**<br>
 _history_: previous 1911 (suspended 1959); latest adopted 17 December 1962<br>
-_amendments_: proposed by joint agreement of the chief of state (the prince) and the National Council; passage requires two-thirds majority vote of National Council members; amended 2002<br>
+_amendment process_: proposed by joint agreement of the chief of state (the prince) and the National Council; passage requires two-thirds majority vote of National Council members<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>

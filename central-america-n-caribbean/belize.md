@@ -52,12 +52,12 @@ _mean elevation_: 173 m<br>
 arable land potential, timber, fish, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 6.9% (2018 est.)<br>
-_arable land_: arable land: 3.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 2.2% (2018 est.)<br>
-_forest_: 60.6% (2018 est.)<br>
-_other_: 32.5% (2018 est.)<br>
+_agricultural land_: 8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 4.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 2.2% (2022 est.)<br>
+_forest_: 55% (2022 est.)<br>
+_other_: 37% (2022 est.)<br>
 
 **Irrigated land**<br>
 35 sq km (2012)<br>
@@ -241,12 +241,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; very hot and humid; rainy season (May to November); dry season (February to May)<br>
 
 **Land use**<br>
-_agricultural land_: 6.9% (2018 est.)<br>
-_arable land_: arable land: 3.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 2.2% (2018 est.)<br>
-_forest_: 60.6% (2018 est.)<br>
-_other_: 32.5% (2018 est.)<br>
+_agricultural land_: 8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 4.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 2.2% (2022 est.)<br>
+_forest_: 55% (2022 est.)<br>
+_other_: 37% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 46.6% of total population (2023)<br>
@@ -304,8 +304,8 @@ Battle of St. George's Caye Day (National Day), 10 September (1798); Independenc
 English common law<br>
 
 **Constitution**<br>
-_history_: previous 1954, 1963 (preindependence); latest signed and entered into force 21 September 1981; note - in July 2022, the government introduced a bill to establish the People's Constitutional Commission to review the constitution and to provide recommendations to the National Assembly<br>
-_amendments_: proposed and adopted by two-thirds majority vote of the National Assembly House of Representatives except for amendments relating to rights and freedoms, changes to the Assembly, and to elections and judiciary matters, which require at least three-quarters majority vote of the House; both types of amendments require assent of the governor general; amended several times, last in 2017<br>
+_history_: previous 1954, 1963 (pre-independence); latest signed and entered into force 21 September 1981<br>
+_amendment process_: proposed and adopted by two-thirds majority vote of the National Assembly House of Representatives except for amendments relating to rights and freedoms, changes to the Assembly, and to elections and judiciary matters, which require at least three-quarters majority vote of the House; both types of amendments require assent of the governor general<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -351,8 +351,8 @@ _percentage of women in chamber_: 28.6%<br>
 _expected date of next election_: March 2025<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court of Judicature (consists of the Court of Appeal with the court president and 3 justices, and the Supreme Court with the chief justice and 10 justices); note - in 2010, Belize acceded to the Caribbean Court of Justice as the final court of appeal, replacing that of the Judicial Committee of the Privy Council in London<br>
-_judge selection and term of office_: Court of Appeal president and justices appointed by the governor-general upon advice of the prime minister after consultation with the National Assembly opposition leader; justices' tenures vary by terms of appointment; Supreme Court chief justice appointed by the governor-general upon the advice of the prime minister and the National Assembly opposition leader; other judges appointed by the governor-general upon the advice of the Judicial and Legal Services Section of the Public Services Commission and with the concurrence of the prime minister after consultation with the National Assembly opposition leader; judges can be appointed beyond age 65 but must retire by age 75; in 2013, the Supreme Court chief justice overturned a constitutional amendment that had restricted Court of Appeal judge appointments to as short as 1 year<br>
+_highest court(s)_: Supreme Court of Judicature (consists of the Court of Appeal with the court president and 3 justices, and the Supreme Court with the chief justice and 10 justices); the Caribbean Court of Justice is the final court of appeal<br>
+_judge selection and term of office_: Court of Appeal president and justices appointed by the governor-general upon advice of the prime minister after consultation with the National Assembly opposition leader; justices' tenures vary by terms of appointment; Supreme Court chief justice appointed by the governor-general upon the advice of the prime minister and the National Assembly opposition leader; other judges appointed by the governor-general upon the advice of the Judicial and Legal Services Section of the Public Services Commission and with the concurrence of the prime minister after consultation with the National Assembly opposition leader; judges can be appointed beyond age 65 but must retire by age 75<br>
 _subordinate courts_: Magistrates' Courts; Family Court<br>
 
 **Political parties**<br>

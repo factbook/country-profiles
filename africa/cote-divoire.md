@@ -53,12 +53,12 @@ _mean elevation_: 250 m<br>
 petroleum, natural gas, diamonds, manganese, iron ore, cobalt, bauxite, copper, gold, nickel, tantalum, silica sand, clay, cocoa beans, coffee, palm oil, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 64.8% (2018 est.)<br>
-_arable land_: arable land: 9.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 14.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 41.5% (2018 est.)<br>
-_forest_: 32.7% (2018 est.)<br>
-_other_: 2.5% (2018 est.)<br>
+_agricultural land_: 84.2% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 13.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 29.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 41.5% (2022 est.)<br>
+_forest_: 8.2% (2022 est.)<br>
+_other_: 7.6% (2022 est.)<br>
 
 **Irrigated land**<br>
 730 sq km (2012)<br>
@@ -249,12 +249,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical along coast, semiarid in far north; three seasons - warm and dry (November to March), hot and dry (March to May), hot and wet (June to October)<br>
 
 **Land use**<br>
-_agricultural land_: 64.8% (2018 est.)<br>
-_arable land_: arable land: 9.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 14.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 41.5% (2018 est.)<br>
-_forest_: 32.7% (2018 est.)<br>
-_other_: 2.5% (2018 est.)<br>
+_agricultural land_: 84.2% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 13.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 29.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 41.5% (2022 est.)<br>
+_forest_: 8.2% (2022 est.)<br>
+_other_: 7.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 53.1% of total population (2023)<br>
@@ -324,7 +324,7 @@ civil law system based on the French civil code; judicial review of legislation 
 
 **Constitution**<br>
 _history_: previous 1960, 2000; latest draft completed 24 September 2016, approved by the National Assembly 11 October 2016, approved by referendum 30 October 2016, promulgated 8 November 2016<br>
-_amendments_: proposed by the president of the republic or by Parliament; consideration of drafts or proposals requires an absolute majority vote by the parliamentary membership; passage of amendments affecting presidential elections, presidential term of office and vacancies, and amendment procedures requires approval by absolute majority in a referendum; passage of other proposals by the president requires at least four-fifths majority vote by Parliament; constitutional articles on the sovereignty of the state and its republican and secular form of government cannot be amended; amended 2020<br>
+_amendment process_: proposed by the president of the republic or by Parliament; consideration of drafts or proposals requires an absolute majority vote by the parliamentary membership; passage of amendments affecting presidential elections, presidential term of office and vacancies, and amendment procedures requires approval by absolute majority in a referendum; passage of other proposals by the president requires at least four-fifths majority vote by Parliament; constitutional articles on the sovereignty of the state and its republican and secular form of government cannot be amended<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>

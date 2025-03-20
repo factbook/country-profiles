@@ -51,15 +51,15 @@ _mean elevation_: 2,988 m<br>
 abundant hydropower; gold, rare earth metals; locally exploitable coal, oil, and natural gas; other deposits of nepheline, mercury, bismuth, lead, and zinc<br>
 
 **Land use**<br>
-_agricultural land_: 55.4% (2018 est.)<br>
-_arable land_: arable land: 6.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 48.3% (2018 est.)<br>
-_forest_: 5.1% (2018 est.)<br>
-_other_: 39.5% (2018 est.)<br>
+_agricultural land_: 54% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 6.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 46.9% (2022 est.)<br>
+_forest_: 7% (2022 est.)<br>
+_other_: 38.9% (2022 est.)<br>
 
 **Irrigated land**<br>
-10,043 sq km (2020)<br>
+10,041 sq km (2022)<br>
 
 **Major lakes (area sq km)**<br>
 _salt water lake(s)_: Ozero Issyk-Kul 6,240 sq km<br>note - second largest saline lake after the Caspian Sea; second highest mountain lake after Lake Titicaca; it is an endorheic mountain basin; although surrounded by snow capped mountains it never freezes<br>
@@ -250,12 +250,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 dry continental to polar in high Tien Shan Mountains; subtropical in southwest (Fergana Valley); temperate in northern foothill zone<br>
 
 **Land use**<br>
-_agricultural land_: 55.4% (2018 est.)<br>
-_arable land_: arable land: 6.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 48.3% (2018 est.)<br>
-_forest_: 5.1% (2018 est.)<br>
-_other_: 39.5% (2018 est.)<br>
+_agricultural land_: 54% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 6.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 46.9% (2022 est.)<br>
+_forest_: 7% (2022 est.)<br>
+_other_: 38.9% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 37.8% of total population (2023)<br>
@@ -324,8 +324,8 @@ Independence Day, 31 August (1991)<br>
 civil law system, which includes features of French civil law and Russian Federation laws<br>
 
 **Constitution**<br>
-_history_: previous 1993, 2007, 2010; latest approved by referendum in April 2021 that transitioned Kyrgyzstan from a parliamentary to a presidential system, and implemented changes that allow the president to serve for two 5-year terms rather than one 6-year term, reduced the number of seats in Kyrgyzstan's legislature from 120 to 90, and established a Kurultay - a public advisory council<br>
-_amendments_: proposed as a draft law by the majority of the Supreme Council membership or by petition of 300,000 voters; passage requires at least two-thirds majority vote of the Council membership in each of at least three readings of the draft two months apart; the draft may be submitted to a referendum if approved by two thirds of the Council membership; adoption requires the signature of the president<br>
+_history_: previous 1993, 2007, 2010; latest approved by referendum in April 2021 that transitioned Kyrgyzstan from a parliamentary to a presidential system, and implemented changes that allow the president to serve for two 5-year terms rather than one 6-year term, reduced the number of seats in Kyrgyzstan's legislature from 120 to 90, and established a Kurultay (a public advisory council)<br>
+_amendment process_: proposed as a draft law by the majority of the Supreme Council membership or by petition of 300,000 voters; passage requires at least two-thirds majority vote of the Council membership in each of at least three readings of the draft two months apart; the draft may be submitted to a referendum if approved by two thirds of the Council membership; adoption requires the signature of the president<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>

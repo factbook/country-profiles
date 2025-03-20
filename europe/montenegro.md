@@ -52,12 +52,12 @@ _mean elevation_: 1,086 m<br>
 bauxite, hydroelectricity<br>
 
 **Land use**<br>
-_agricultural land_: 38.2% (2018 est.)<br>
-_arable land_: arable land: 12.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 24.1% (2018 est.)<br>
-_forest_: 40.4% (2018 est.)<br>
-_other_: 21.4% (2018 est.)<br>
+_agricultural land_: 18.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 17.8% (2022 est.)<br>
+_forest_: 61.5% (2022 est.)<br>
+_other_: 19.7% (2022 est.)<br>
 
 **Irrigated land**<br>
 24 sq km (2012)<br>
@@ -246,12 +246,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 Mediterranean climate, hot dry summers and autumns and relatively cold winters with heavy snowfalls inland<br>
 
 **Land use**<br>
-_agricultural land_: 38.2% (2018 est.)<br>
-_arable land_: arable land: 12.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 24.1% (2018 est.)<br>
-_forest_: 40.4% (2018 est.)<br>
-_other_: 21.4% (2018 est.)<br>
+_agricultural land_: 18.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 17.8% (2022 est.)<br>
+_forest_: 61.5% (2022 est.)<br>
+_other_: 19.7% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 68.5% of total population (2023)<br>
@@ -318,7 +318,7 @@ civil law<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 22 October 2007<br>
-_amendments_: proposed by the president of Montenegro, by the government, or by at least 25 members of the Assembly; passage of draft proposals requires two-thirds majority vote of the Assembly, followed by a public hearing; passage of draft amendments requires two-thirds majority vote of the Assembly; changes to certain constitutional articles, such as sovereignty, state symbols, citizenship, and constitutional change procedures, require three-fifths majority vote in a referendum; amended 2013<br>
+_amendment process_: proposed by the president of Montenegro, by the government, or by at least 25 members of the Assembly; passage of draft proposals requires two-thirds majority vote of the Assembly, followed by a public hearing; passage of draft amendments requires two-thirds majority vote of the Assembly; changes to certain constitutional articles, such as sovereignty, state symbols, citizenship, and constitutional change procedures, require three-fifths majority vote in a referendum<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>

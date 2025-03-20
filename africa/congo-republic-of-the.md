@@ -53,12 +53,12 @@ _mean elevation_: 430 m<br>
 petroleum, timber, potash, lead, zinc, uranium, copper, phosphates, gold, magnesium, natural gas, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 31.1% (2018 est.)<br>
-_arable land_: arable land: 1.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 29.3% (2018 est.)<br>
-_forest_: 65.6% (2018 est.)<br>
-_other_: 3.3% (2018 est.)<br>
+_agricultural land_: 31.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 29.3% (2022 est.)<br>
+_forest_: 64.2% (2022 est.)<br>
+_other_: 4.5% (2022 est.)<br>
 
 **Irrigated land**<br>
 20 sq km (2012)<br>
@@ -251,12 +251,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; rainy season (March to June); dry season (June to October); persistent high temperatures and humidity; particularly enervating climate astride the Equator<br>
 
 **Land use**<br>
-_agricultural land_: 31.1% (2018 est.)<br>
-_arable land_: arable land: 1.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 29.3% (2018 est.)<br>
-_forest_: 65.6% (2018 est.)<br>
-_other_: 3.3% (2018 est.)<br>
+_agricultural land_: 31.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 29.3% (2022 est.)<br>
+_forest_: 64.2% (2022 est.)<br>
+_other_: 4.5% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 69.2% of total population (2023)<br>
@@ -331,7 +331,7 @@ mixed legal system of French civil law and customary law<br>
 
 **Constitution**<br>
 _history_: several previous; latest approved by referendum 25 October 2015<br>
-_amendments_: proposed by the president of the republic or by Parliament; passage of presidential proposals requires Supreme Court review followed by approval in a referendum; such proposals may also be submitted directly to Parliament, in which case passage requires at least three-quarters majority vote of both houses in joint session; proposals by Parliament require three-fourths majority vote of both houses in joint session; constitutional articles including those affecting the country&rsquo;s territory, republican form of government, and secularity of the state are not amendable<br>
+_amendment process_: proposed by the president of the republic or by Parliament; passage of presidential proposals requires Supreme Court review followed by approval in a referendum; such proposals may also be submitted directly to Parliament, in which case passage requires at least three-quarters majority vote of both houses in joint session; proposals by Parliament require three-fourths majority vote of both houses in joint session; constitutional articles including those affecting the country&rsquo;s territory, republican form of government, and secularity of the state are not amendable<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -377,9 +377,10 @@ _percentage of women in chamber_: 31.9%<br>
 _expected date of next election_: August 2029<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 members); note - a High Court of Justice, outside the judicial authority, tries cases involving treason by the President of the Republic<br>
-_judge selection and term of office_: Supreme Court judges elected by Parliament and serve until age 65; Constitutional Court members appointed by the president of the republic - 3 directly by the president and 6 nominated by Parliament; members appointed for renewable 9-year terms with one-third of the membership renewed every 3 years<br>
+_highest court(s)_: Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 members)<br>
+_judge selection and term of office_: Supreme Court judges elected by Parliament and serve until age 65; Constitutional Court members appointed by the president of the republic - 3 directly by the president and 6 nominated by Parliament; members appointed for renewable 9-year terms with one third of the membership renewed every 3 years<br>
 _subordinate courts_: Court of Audit and Budgetary Discipline; courts of appeal; regional and district courts; employment tribunals; juvenile courts<br>
+<strong>note:</strong> a High Court of Justice, outside the judicial authority, tries cases involving treason by the President of the Republic<br>
 
 **Political parties**<br>
 Alliance of the Presidential Majority or AMP<br>Action Movement for Renewal or MAR <br>Citizen's Rally or RC <br>Congolese Labour Party or PCT <br>Congolese Movement for Democracy and Integral Development or MCDDI <br>Congo on the Move or LCEM <br>Movement for Unity, Solidarity, and Work or MUST <br>Pan-African Union for Social Development or UPADS <br>Club 2002-Party for the Unity and the Republic or Club 2002 <br>Patriotic Union for Democracy and Progress or UPDP <br>Perspectives and Realities Club or CPR <br>Rally for Democracy and Social Progress or RDPS <br>Republican and Liberal Party or PRL <br>Union of Democratic Forces or UDF <br>Union for Democracy and Republic or UDR<br>Union of Humanist Democrats or UDH-YUKI <br>Union for the Republic or UR <br>

@@ -52,12 +52,12 @@ _mean elevation_: 410 m<br>
 uranium and largely unexploited reserves of iron ore, tin, gypsum, bauxite, copper, salt, natural gas, likely oil reserves<br>
 
 **Land use**<br>
-_agricultural land_: 70.3% (2018 est.)<br>
-_arable land_: arable land: 1.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 68.5% (2018 est.)<br>
-_forest_: 10.6% (2018 est.)<br>
-_other_: 19.1% (2018 est.)<br>
+_agricultural land_: 70.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 68.5% (2022 est.)<br>
+_forest_: 9.3% (2022 est.)<br>
+_other_: 20.4% (2022 est.)<br>
 
 **Irrigated land**<br>
 2,000 sq km (2012)<br>
@@ -226,12 +226,12 @@ _signed, but not ratified_: Nuclear Test Ban<br>
 principally desert; northeast monsoon (December to February), moderate temperatures in north and hot in south; southwest monsoon (May to October), torrid in the north and hot in the south, irregular rainfall, hot and humid periods (tangambili) between monsoons<br>
 
 **Land use**<br>
-_agricultural land_: 70.3% (2018 est.)<br>
-_arable land_: arable land: 1.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 68.5% (2018 est.)<br>
-_forest_: 10.6% (2018 est.)<br>
-_other_: 19.1% (2018 est.)<br>
+_agricultural land_: 70.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 68.5% (2022 est.)<br>
+_forest_: 9.3% (2022 est.)<br>
+_other_: 20.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 47.9% of total population (2023)<br>
@@ -291,8 +291,8 @@ Foundation of the Somali Republic, 1 July (1960); note - 26 June (1960) in Somal
 mixed legal system of civil law, Islamic (sharia) law, and customary law (referred to as Xeer)<br>
 
 **Constitution**<br>
-_history_: previous 1961, 1979; latest drafted 12 June 2012, adopted 1 August 2012 (provisional)<br>
-_amendments_: proposed by the federal government, by members of the state governments, the Federal Parliament, or by public petition; proposals require review by a joint committee of Parliament with inclusion of public comments and state legislatures&rsquo; comments; passage requires at least two-thirds majority vote in both houses of Parliament and approval by a majority of votes cast in a referendum; constitutional clauses on Islamic principles, the federal system, human rights and freedoms, powers and authorities of the government branches, and inclusion of women in national institutions cannot be amended; amended 2024<br>
+_history_: previous 1961, 1979; latest drafted 12 June 2012, adopted 1 August 2012&nbsp;<br>
+_amendment process_: proposed by the federal government, by members of the state governments, the Federal Parliament, or by public petition; proposals require review by a joint committee of Parliament with inclusion of public comments and state legislatures&rsquo; comments; passage requires at least two-thirds majority vote in both houses of Parliament and approval by a majority of votes cast in a referendum; constitutional clauses on Islamic principles, the federal system, human rights and freedoms, powers and authorities of the government branches, and inclusion of women in national institutions cannot be amended<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt<br>
@@ -337,9 +337,10 @@ _percentage of women in chamber_: 25.9%<br>
 _expected date of next election_: July 2026<br>
 
 **Judicial branch**<br>
-_highest court(s)_: the provisional constitution stipulates the establishment of the Constitutional Court (consists of 5 judges, including the chief judge and deputy chief judge); note - under the terms of the 2004 Transitional National Charter, a Supreme Court based in Mogadishu and the Appeal Court were established; yet most regions have reverted to local forms of conflict resolution, either secular, traditional Somali customary law, or Islamic law<br>
-_judge selection and term of office_: judges appointed by the president upon proposal of the Judicial Service Commission, a 9-member judicial and administrative body; judge tenure NA<br>
+_highest court(s)_: the provisional constitution stipulates the establishment of the Constitutional Court (consists of 5 judges, including the chief judge and deputy chief judge)<br>
+_judge selection and term of office_: judges appointed by the president on proposal of the Judicial Service Commission, a 9-member judicial and administrative body; judge tenure NA<br>
 _subordinate courts_: federal courts; federal member state-level courts; military courts; sharia courts<br>
+<strong>note</strong>: under the terms of the 2004 Transitional National Charter, a Supreme Court based in Mogadishu and the Appeal Court were established, but most regions have reverted to local forms of conflict resolution, whether secular, Somali customary law, or Islamic law<br>
 
 **Political parties**<br>
 <p>Cosmopolitan Democratic Party<br>Green Party<br>Himilo Qaran Party<br>Ilays Party<br>Justice and Reconciliation Party<br>National Progressive Party<br>Peace and Unity Party<br>Qaransoor Party<br>Qiimo Qaran Party<br>Security and Justice Party<br>Social Justice Party<br>Somali Labour Party<br>Somali Republic Party<br>Somali Social Unity Party or SSUP<br>Union for Peace and Development Party or PDP<br>Wadajir Party</p><br>

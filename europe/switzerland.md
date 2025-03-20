@@ -51,15 +51,15 @@ _mean elevation_: 1,350 m<br>
 hydropower potential, timber, salt<br>
 
 **Land use**<br>
-_agricultural land_: 38.7% (2018 est.)<br>
-_arable land_: arable land: 10.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 27.9% (2018 est.)<br>
-_forest_: 31.5% (2018 est.)<br>
-_other_: 29.8% (2018 est.)<br>
+_agricultural land_: 37.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 10% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.2% (2022 est.)<br>
+_forest_: 32.3% (2022 est.)<br>
+_other_: 29.8% (2022 est.)<br>
 
 **Irrigated land**<br>
-327 sq km (2016)<br>
+494 sq km (2020)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lake Constance (shared with Germany and Austria) - 540 sq km; Lake Geneva (shared with France) - 580 sq km<br>
@@ -244,12 +244,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate, but varies with altitude; cold, cloudy, rainy/snowy winters; cool to warm, cloudy, humid summers with occasional showers<br>
 
 **Land use**<br>
-_agricultural land_: 38.7% (2018 est.)<br>
-_arable land_: arable land: 10.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 27.9% (2018 est.)<br>
-_forest_: 31.5% (2018 est.)<br>
-_other_: 29.8% (2018 est.)<br>
+_agricultural land_: 37.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 10% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.2% (2022 est.)<br>
+_forest_: 32.3% (2022 est.)<br>
+_other_: 29.8% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 74.2% of total population (2023)<br>
@@ -323,7 +323,7 @@ civil law system; judicial review of legislative acts, except for federal decree
 
 **Constitution**<br>
 _history_: previous 1848, 1874; latest adopted by referendum 18 April 1999, effective 1 January 2000<br>
-_amendments_: proposed by the two houses of the Federal Assembly or by petition of at least one&nbsp;hundred thousand&nbsp;voters (called the "federal popular initiative"); passage of proposals requires majority vote in a referendum; following drafting of an amendment by the Assembly, its passage requires approval by majority vote in a referendum and approval by the majority of cantons; amended many times, last in 2018<br>
+_amendment process_: proposed by the two houses of the Federal Assembly or by petition of at least one hundred thousand voters (called the "federal popular initiative"); passage of proposals requires majority vote in a referendum; following drafting of an amendment by the Assembly, its passage requires approval by majority vote in a referendum and approval by the majority of cantons<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -373,8 +373,9 @@ _expected date of next election_: October 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Supreme Court (consists of 38 justices and 19 deputy justices organized into 7 divisions)<br>
-_judge selection and term of office_: judges elected by the Federal Assembly for 6-year terms; note - judges are affiliated with political parties and are elected according to linguistic and regional criteria in approximate proportion to the level of party representation in the Federal Assembly<br>
-_subordinate courts_: Federal Criminal Court (established in 2004); Federal Administrative Court (established in 2007); note - each of Switzerland's 26 cantons has its own courts<br>
+_judge selection and term of office_: judges elected by the Federal Assembly for 6-year terms; judges are affiliated with political parties and are elected according to linguistic and regional criteria in approximate proportion to party representation in the Federal Assembly<br>
+_subordinate courts_: Federal Criminal Court (established in 2004); Federal Administrative Court (established in 2007)<br>
+ <strong>note</strong>: each of Switzerland's 26 cantons has its own courts<br>
 
 **Political parties**<br>
 The Center (Die Mitte, Alleanza del Centro, Le Centre, Allianza dal Center) (merger of the Christian Democratic People's Party and the Conservative Democratic Party)<br>Evangelical Peoples' Party or EVP/PEV <br>Federal Democrats or EDU <br>Geneva Citizens Movement or MCR/MCG <br>Green Liberal Party (Gruenliberale Partei or GLP, Parti vert liberale or PVL, Partito Verde-Liberale or PVL, Partida Verde Liberale or PVL) <br>Green Party (Gruene Partei der Schweiz or Gruene, Parti Ecologiste Suisse or Les Verts, Partito Ecologista Svizzero or I Verdi, Partida Ecologica Svizra or La Verda)<br>The Liberals or FDP.The Liberals (FDP.Die Liberalen, PLR.Les Liberaux-Radicaux, PLR.I Liberali, Ils Liberals)<br>Social Democratic Party (Sozialdemokratische Partei der Schweiz or SP, Parti Socialiste Suisse or PSS, Partito Socialista Svizzero or PSS, Partida Socialdemocratica de la Svizra or PSS) <br>Swiss People's Party (Schweizerische Volkspartei or SVP, Union Democratique du Centre or UDC, Unione Democratica di Centro or UDC, Uniun Democratica dal Center or UDC) <br>

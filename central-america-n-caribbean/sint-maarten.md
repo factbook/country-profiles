@@ -51,6 +51,11 @@ _lowest point_: Caribbean Sea 0 m<br>
 **Natural resources**<br>
 <p>fish, salt</p><br>
 
+**Land use**<br>
+_agricultural land_: 0% (2022 est.)<br>
+_forest_: 10.9% (2022 est.)<br>
+_other_: 89.1% (2022 est.)<br>
+
 **Population distribution**<br>
 most populous areas are Lower Prince's Quarter (north of Philipsburg), followed closely by Cul de Sac<br>
 
@@ -180,6 +185,11 @@ _female_: 12 years (2014)<br>
 **Climate**<br>
 <p>tropical marine climate, ameliorated by northeast trade winds, results in moderate temperatures; average rainfall of 150 cm/year; hurricane season stretches from July to November</p><br>
 
+**Land use**<br>
+_agricultural land_: 0% (2022 est.)<br>
+_forest_: 10.9% (2022 est.)<br>
+_other_: 89.1% (2022 est.)<br>
+
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 1.16% annual rate of change (2020-25 est. est.)<br>
@@ -221,7 +231,7 @@ _etymology_: founded and named in 1763 by John PHILIPS, a Scottish captain in th
 
 **Constitution**<br>
 _history_: previous 1947, 1955; latest adopted 21 July 2010, entered into force 10 October 2010 (regulates governance of Sint Maarten but is subordinate to the Charter for the Kingdom of the Netherlands)<br>
-_amendments_: proposals initiated by the Government or by Parliament; passage requires at least a two-thirds majority of the Parliament membership; passage of amendments relating to fundamental rights, authorities of the governor and of Parliament must include the "views" of the Kingdom of the Netherlands Government prior to ratification by Parliament<br>
+_amendment process_: proposals initiated by the Government or by Parliament; passage requires at least a two-thirds majority of the Parliament membership; passage of amendments relating to fundamental rights, authorities of the governor and of Parliament must include the "views" of the Kingdom of the Netherlands Government prior to ratification by Parliament<br>
 
 **Citizenship**<br>
 see the Netherlands<br>
@@ -248,7 +258,7 @@ _percentage of women in chamber_: 46.7%<br>
 _expected date of next election_: 2028<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (consists of the presiding judge, other members, and their substitutes); final appeals heard by the Supreme Court (in The Hague, Netherlands); note - prior to 2010, the Joint Court of Justice was the Common Court of Justice of the Netherlands Antilles and Aruba<br>
+_highest court(s)_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (consists of the presiding judge, other members, and their substitutes); final appeals heard by the Supreme Court in The Hague, Netherlands<br>
 _judge selection and term of office_: Joint Court judges appointed by the monarch serve for life<br>
 _subordinate courts_: Courts in First Instance<br>
 

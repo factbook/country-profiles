@@ -38,10 +38,15 @@ temperature averages 27-29 degrees Celsius all year long; low humidity, gentle t
 
 **Elevation**<br>
 _highest point_: Pic du Paradis 424 m<br>
-_lowest point_: Caribbean Ocean 0 m<br>
+_lowest point_: Caribbean Sea 0 m<br>
 
 **Natural resources**<br>
 salt<br>
+
+**Land use**<br>
+_agricultural land_: 0% (2022 est.)<br>
+_forest_: 24.8% (2022 est.)<br>
+_other_: 75.2% (2022 est.)<br>
 
 **Population distribution**<br>
 most of the population is found along the coast, with a largest concentrations around the capital Marigot, Orleans, and Grand-Case<br>
@@ -164,6 +169,11 @@ excessive population pressure (increasing settlement); waste management; salinit
 **Climate**<br>
 temperature averages 27-29 degrees Celsius all year long; low humidity, gentle trade winds, brief, intense rain showers; hurricane season stretches from July to November<br>
 
+**Land use**<br>
+_agricultural land_: 0% (2022 est.)<br>
+_forest_: 24.8% (2022 est.)<br>
+_other_: 75.2% (2022 est.)<br>
+
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 15,480 tons (2012 est.)<br>
 
@@ -200,7 +210,7 @@ French civil law<br>
 
 **Constitution**<br>
 _history_: 4 October 1958 (French Constitution)<br>
-_amendments_: amendment procedures of France's constitution apply<br>
+_amendment process_: amendment procedures of France's constitution apply<br>
 
 **Citizenship**<br>
 see France<br>

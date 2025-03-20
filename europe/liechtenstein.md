@@ -50,12 +50,12 @@ _lowest point_: Ruggeller Riet 430 m<br>
 hydroelectric potential, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 37.6% (2018 est.)<br>
-_arable land_: arable land: 18.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 18.8% (2018 est.)<br>
-_forest_: 43.1% (2018 est.)<br>
-_other_: 19.3% (2018 est.)<br>
+_agricultural land_: 32.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 10.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 21.5% (2022 est.)<br>
+_forest_: 41.9% (2022 est.)<br>
+_other_: 25.8% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2012)<br>
@@ -212,12 +212,12 @@ _signed, but not ratified_: Air Pollution-Multi-effect Protocol, Law of the Sea<
 continental; cold, cloudy winters with frequent snow or rain; cool to moderately warm, cloudy, humid summers<br>
 
 **Land use**<br>
-_agricultural land_: 37.6% (2018 est.)<br>
-_arable land_: arable land: 18.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 18.8% (2018 est.)<br>
-_forest_: 43.1% (2018 est.)<br>
-_other_: 19.3% (2018 est.)<br>
+_agricultural land_: 32.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 10.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 21.5% (2022 est.)<br>
+_forest_: 41.9% (2022 est.)<br>
+_other_: 25.8% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 14.6% of total population (2023)<br>
@@ -277,7 +277,7 @@ civil law system influenced by Swiss, Austrian, and German law<br>
 
 **Constitution**<br>
 _history_: previous 1862; latest adopted 5 October 1921<br>
-_amendments_: proposed by Parliament, by the reigning prince (in the form of "Government" proposals), by petition of at least 1,500 qualified voters, or by at least four communes; passage requires unanimous approval of Parliament members in one sitting or three-quarters majority vote in two successive sittings; referendum required only if petitioned by at least 1,500 voters or by at least four communes; passage by referendum requires absolute majority of votes cast; amended many times, last in 2023<br>
+_amendment process_: proposed by Parliament, by the reigning prince (in the form of "Government" proposals), by petition of at least 1,500 qualified voters, or by at least four communes; passage requires unanimous approval of Parliament members in one sitting or three-quarters majority vote in two successive sittings; referendum required only if petitioned by at least 1,500 voters or by at least four communes; passage by referendum requires absolute majority of votes cast<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>

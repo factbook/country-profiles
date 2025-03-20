@@ -54,12 +54,12 @@ diamonds, copper, uranium, gold, silver, lead, tin, lithium, cadmium, tungsten, 
 <strong>note:</strong> suspected deposits of oil, coal, and iron ore<br>
 
 **Land use**<br>
-_agricultural land_: 47.2% (2018 est.)<br>
-_arable land_: arable land: 1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 46.2% (2018 est.)<br>
-_forest_: 8.8% (2018 est.)<br>
-_other_: 44% (2018 est.)<br>
+_agricultural land_: 47.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 46.2% (2022 est.)<br>
+_forest_: 7.9% (2022 est.)<br>
+_other_: 45% (2022 est.)<br>
 
 **Irrigated land**<br>
 80 sq km (2012)<br>
@@ -245,12 +245,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 desert; hot, dry; rainfall sparse and erratic<br>
 
 **Land use**<br>
-_agricultural land_: 47.2% (2018 est.)<br>
-_arable land_: arable land: 1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 46.2% (2018 est.)<br>
-_forest_: 8.8% (2018 est.)<br>
-_other_: 44% (2018 est.)<br>
+_agricultural land_: 47.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 46.2% (2022 est.)<br>
+_forest_: 7.9% (2022 est.)<br>
+_other_: 45% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 54.9% of total population (2023)<br>
@@ -325,7 +325,7 @@ mixed legal system of uncodified civil law based on Roman-Dutch law and customar
 
 **Constitution**<br>
 _history_: adopted 9 February 1990, entered into force 21 March 1990<br>
-_amendments_: passage requires majority vote of the National Assembly membership and of the National Council of Parliament and assent of the president of the republic; if the National Council fails to pass an amendment, the president can call for a referendum; passage by referendum requires two-thirds majority of votes cast; amendments that detract from or repeal constitutional articles on fundamental rights and freedoms cannot be amended, and the requisite majorities needed by Parliament to amend the constitution cannot be changed; amended 1998, 2010, 2014<br>
+_amendment process_: passage requires majority vote of the National Assembly membership and of the National Council of Parliament and assent of the president of the republic; if the National Council fails to pass an amendment, the president can call for a referendum; passage by referendum requires two-thirds majority of votes cast; amendments that detract from or repeal constitutional articles on fundamental rights and freedoms cannot be amended, and the requisite majorities needed by Parliament to amend the constitution cannot be changed<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -373,7 +373,7 @@ _expected date of next election_: December 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and at least 3 judges in quorum sessions)<br>
-_judge selection and term of office_: judges appointed by the president of Namibia upon the recommendation of the Judicial Service Commission; judges serve until age 65, but terms can be extended by the president until age 70<br>
+_judge selection and term of office_: judges appointed by the president of Namibia on the recommendation of the Judicial Service Commission; judges serve until age 65, but terms can be extended by the president until age 70<br>
 _subordinate courts_: High Court; Electoral Court, Labor Court; regional and district magistrates' courts; community courts<br>
 
 **Political parties**<br>

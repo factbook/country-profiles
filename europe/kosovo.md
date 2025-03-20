@@ -52,9 +52,9 @@ nickel, lead, zinc, magnesium, lignite, kaolin, chrome, bauxite<br>
 
 **Land use**<br>
 _agricultural land_: 52.8% (2018 est.)<br>
-_arable land_: arable land: 27.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 23.5% (2018 est.)<br>
+_agricultural land: arable land_: arable land: 27.4% (2018 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.9% (2018 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 23.5% (2018 est.)<br>
 _forest_: 41.7% (2018 est.)<br>
 _other_: 5.5% (2018 est.)<br>
 
@@ -190,9 +190,9 @@ influenced by continental air masses resulting in relatively cold winters with h
 
 **Land use**<br>
 _agricultural land_: 52.8% (2018 est.)<br>
-_arable land_: arable land: 27.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 23.5% (2018 est.)<br>
+_agricultural land: arable land_: arable land: 27.4% (2018 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.9% (2018 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 23.5% (2018 est.)<br>
 _forest_: 41.7% (2018 est.)<br>
 _other_: 5.5% (2018 est.)<br>
 
@@ -244,8 +244,8 @@ Independence Day, 17 February (2008)<br>
 civil law system; note - the European Union Rule of Law Mission (EULEX) retained limited executive powers within the Kosovo judiciary for complex cases from 2008 to 2018<br>
 
 **Constitution**<br>
-_history_: previous 1974, 1990; latest (postindependence) draft finalized 2 April 2008, signed 7 April 2008, ratified 9 April 2008, entered into force 15 June 2008; note - amendment 24, passed by the Assembly in August 2015, established the Kosovo Relocated Specialist Institution, referred to as the Kosovo Specialist Chamber or "Specialist Court," to try war crimes, crimes against humanity, and other crimes under Kosovo law committed during and immediately after the Kosovo War (1998-2000)<br>
-_amendments_: proposed by the government, by the president of the republic, or by one fourth of Assembly deputies; passage requires two-thirds majority vote of the Assembly, including two-thirds majority vote of deputies representing non-majority communities, followed by a favorable Constitutional Court assessment; amended several times, last in 2020<br>
+_history_: previous 1974, 1990; latest (post-independence) draft finalized 2 April 2008, signed 7 April 2008, ratified 9 April 2008, entered into force 15 June 2008<br>
+_amendment process_: proposed by the government, by the president of the republic, or by one fourth of Assembly deputies; passage requires two-thirds majority vote of the Assembly, including two-thirds majority vote of deputies representing non-majority communities, followed by a favorable Constitutional Court assessment<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -283,7 +283,7 @@ _expected date of next election_: 2025<br>
 _highest court(s)_: Supreme Court (consists of the court president and 18 judges and organized into Appeals Panel of the Kosovo Property Agency and Special Chamber); Constitutional Court (consists of the court president, vice president, and 7 judges)<br>
 _judge selection and term of office_: Supreme Court judges nominated by the Kosovo Judicial Council, a 13-member independent body staffed by judges and lay members, and also responsible for overall administration of Kosovo's judicial system; judges appointed by the president of the Republic of Kosovo; judges appointed until mandatory retirement age; Constitutional Court judges nominated by the Kosovo Assembly and appointed by the president of the republic to serve single, 9-year terms<br>
 _subordinate courts_: Court of Appeals (organized into 4 departments: General, Serious Crime, Commercial Matters, and Administrative Matters); Basic Court (located in 7 municipalities, each with several branches)<br>
-<strong>note:</strong> in August 2015, the Kosovo Assembly approved a constitutional amendment that established the Kosovo Relocated Specialist Judicial Institution, also referred to as the Kosovo Specialist Chambers or "Special Court"; the court, located at the Hague in the Netherlands, began operating in late 2016 and has jurisdiction to try crimes against humanity, war crimes, and other crimes under Kosovo law that occurred in the 1998-2000 period<br>
+<strong>note:</strong> in 2015, the Kosovo Assembly approved a constitutional amendment that established the Kosovo Relocated Specialist Judicial Institution, also referred to as the Kosovo Specialist Chambers or "Special Court"; the court, located at the Hague in the Netherlands, began operating in 2016 and has jurisdiction to try crimes against humanity, war crimes, and other crimes under Kosovo law that occurred in the 1998-2000 period<br>
 
 **Political parties**<br>
 Alliance for the Future of Kosovo or AAK<br>Ashkali Party for Integration or PAI<br>Civic Initiative for Freedom, Justice, and Survival<br>Democratic League of Kosovo or LDK<br>Democratic Party of Kosovo or PDK<br>New Democratic Initiative of Kosovo or IRDK<br>New Democratic Party or NDS <br>Progressive Movement of Kosovar Roma or LPRK<br>Romani Initiative<br>Self-Determination Movement (Lëvizja Vetevendosje or Vetevendosie) or LVV or VV<br>Serb List or SL<br>Social Democratic Union or SDU<br>Turkish Democratic Party of Kosovo or KDTP<br>Unique Gorani Party or JGP<br>Vakat Coalition or VAKAT<br>

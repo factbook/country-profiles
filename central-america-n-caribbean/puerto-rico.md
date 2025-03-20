@@ -51,12 +51,12 @@ _mean elevation_: 261 m<br>
 some copper and nickel; potential for onshore and offshore oil<br>
 
 **Land use**<br>
-_agricultural land_: 22% (2018 est.)<br>
-_arable land_: arable land: 6.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 5.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 9.8% (2018 est.)<br>
-_forest_: 63.2% (2018 est.)<br>
-_other_: 14.8% (2018 est.)<br>
+_agricultural land_: 19% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 5.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 11.6% (2022 est.)<br>
+_forest_: 56.1% (2022 est.)<br>
+_other_: 24.9% (2022 est.)<br>
 
 **Irrigated land**<br>
 220 sq km (2012)<br>
@@ -207,12 +207,12 @@ soil erosion; occasional droughts cause water shortages; industrial pollution<br
 tropical marine, mild; little seasonal temperature variation<br>
 
 **Land use**<br>
-_agricultural land_: 22% (2018 est.)<br>
-_arable land_: arable land: 6.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 5.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 9.8% (2018 est.)<br>
-_forest_: 63.2% (2018 est.)<br>
-_other_: 14.8% (2018 est.)<br>
+_agricultural land_: 19% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 5.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 11.6% (2022 est.)<br>
+_forest_: 56.1% (2022 est.)<br>
+_other_: 24.9% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 93.6% of total population (2023)<br>
@@ -271,7 +271,7 @@ civil law system based on the Spanish civil code and within the framework of the
 
 **Constitution**<br>
 _history_: previous 1900 (Organic Act, or Foraker Act); latest ratified by referendum 3 March 1952, approved 3 July 1952, effective 25 July 1952<br>
-_amendments_: proposed by a concurrent resolution of at least two-thirds majority by the total Legislative Assembly membership; approval requires at least two-thirds majority vote by the membership of both houses and approval by a majority of voters in a special referendum; if passed by at least three-fourths Assembly vote, the referendum can be held concurrently with the next general election; constitutional articles such as the republican form of government or the bill of rights cannot be amended; amended 1952<br>
+_amendment process_: proposed by a concurrent resolution of at least two-thirds majority by the total Legislative Assembly membership; approval requires at least two-thirds majority vote by the membership of both houses and approval by a majority of voters in a special referendum; if passed by at least three-fourths Assembly vote, the referendum can be held concurrently with the next general election; constitutional articles such as the republican form of government or the bill of rights cannot be amended<br>
 
 **Citizenship**<br>
 see United States<br>

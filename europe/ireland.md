@@ -52,12 +52,12 @@ _mean elevation_: 118 m<br>
 natural gas, peat, copper, lead, zinc, silver, barite, gypsum, limestone, dolomite<br>
 
 **Land use**<br>
-_agricultural land_: 66.1% (2018 est.)<br>
-_arable land_: arable land: 15.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 50.7% (2018 est.)<br>
-_forest_: 10.9% (2018 est.)<br>
-_other_: 23% (2018 est.)<br>
+_agricultural land_: 63.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 6.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 56.6% (2022 est.)<br>
+_forest_: 11.5% (2022 est.)<br>
+_other_: 25.4% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -233,12 +233,12 @@ _signed, but not ratified_: Air Pollution-Heavy Metals, Air Pollution-Multi-effe
 temperate maritime; modified by North Atlantic Current; mild winters, cool summers; consistently humid; overcast about half the time<br>
 
 **Land use**<br>
-_agricultural land_: 66.1% (2018 est.)<br>
-_arable land_: arable land: 15.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 50.7% (2018 est.)<br>
-_forest_: 10.9% (2018 est.)<br>
-_other_: 23% (2018 est.)<br>
+_agricultural land_: 63.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 6.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 56.6% (2022 est.)<br>
+_forest_: 11.5% (2022 est.)<br>
+_other_: 25.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 64.5% of total population (2023)<br>
@@ -305,7 +305,7 @@ common law system based on the English model but substantially modified by custo
 
 **Constitution**<br>
 _history_: previous 1922; latest drafted 14 June 1937, adopted by plebiscite 1 July 1937, effective 29 December 1937<br>
-_amendments_: proposed as bills by Parliament; passage requires majority vote by both the Senate and House of Representatives, majority vote in a referendum, and presidential signature; amended many times, last in 2019<br>
+_amendment process_: proposed as bills by Parliament; passage requires majority vote by both the Senate and House of Representatives, majority vote in a referendum, and presidential signature<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -351,7 +351,7 @@ _percentage of women in chamber_: 45%<br>
 _expected date of next election_: January 2030<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court of Ireland (consists of the chief justice, 9 judges, 2 ex-officio members - the presidents of the High Court and Court of Appeal - and organized in 3-, 5-, or 7-judge panels, depending on the importance or complexity of an issue of law)<br>
+_highest court(s)_: Supreme Court of Ireland (consists of the chief justice, 9 judges, 2 ex-officio members -- the presidents of the High Court and Court of Appeal -- and organized in 3-, 5-, or 7-judge panels, depending on the importance or complexity of an issue of law)<br>
 _judge selection and term of office_: judges nominated by the prime minister and Cabinet and appointed by the president; chief justice serves in the position for 7 years; judges can serve until age 70<br>
 _subordinate courts_: High Court, Court of Appeal; circuit and district courts; criminal courts<br>
 

@@ -51,12 +51,12 @@ _mean elevation_: 543 m<br>
 petroleum, uranium, natron, kaolin, fish (Lake Chad), gold, limestone, sand and gravel, salt<br>
 
 **Land use**<br>
-_agricultural land_: 39.6% (2018 est.)<br>
-_arable land_: arable land: 3.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 35.7% (2018 est.)<br>
-_forest_: 9.1% (2018 est.)<br>
-_other_: 51.3% (2018 est.)<br>
+_agricultural land_: 40% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 4.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 35.7% (2022 est.)<br>
+_forest_: 3.2% (2022 est.)<br>
+_other_: 56.8% (2022 est.)<br>
 
 **Irrigated land**<br>
 300 sq km (2012)<br>
@@ -249,12 +249,12 @@ _signed, but not ratified_: Marine Dumping-London Convention<br>
 tropical in south, desert in north<br>
 
 **Land use**<br>
-_agricultural land_: 39.6% (2018 est.)<br>
-_arable land_: arable land: 3.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 35.7% (2018 est.)<br>
-_forest_: 9.1% (2018 est.)<br>
-_other_: 51.3% (2018 est.)<br>
+_agricultural land_: 40% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 4.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 35.7% (2022 est.)<br>
+_forest_: 3.2% (2022 est.)<br>
+_other_: 56.8% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 24.4% of total population (2023)<br>
@@ -327,7 +327,7 @@ mixed legal system of civil and customary law<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted by National Transitional Council 27 June 2023, approved by referendum 17 December, verified by Chad Supreme Court 28 December, promulgated 1 January 2024<br>
-_amendments_: previous process: proposed as a revision by the president of the republic after a Council of Ministers (cabinet) decision or by the National Assembly; approval for consideration of a revision requires at least three-fifths majority vote by the Assembly; passage requires approval by referendum or at least two-thirds majority vote by the Assembly<br>
+_amendment process_: previous process: proposed as a revision by the president of the republic after a Council of Ministers (cabinet) decision or by the National Assembly; approval for consideration of a revision requires at least three-fifths majority vote by the Assembly; passage requires approval by referendum or at least two-thirds majority vote by the Assembly<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>

@@ -51,12 +51,12 @@ _mean elevation_: 1,792 m<br>
 coal, iron ore, lead, zinc, molybdenum, diamonds, gold, platinum, niobium, tantalite, uranium, fish, seals, whales, hydropower, possible oil and gas<br>
 
 **Land use**<br>
-_agricultural land_: 0.6% (2018 est.)<br>
-_arable land_: arable land: 0% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0.6% (2018 est.)<br>
-_forest_: 0% (2018 est.)<br>
-_other_: 99.4% (2018 est.)<br>
+_agricultural land_: 0.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.6% (2022 est.)<br>
+_forest_: 0% (2022 est.)<br>
+_other_: 99.4% (2022 est.)<br>
 
 **Irrigated land**<br>
 NA<br>
@@ -202,12 +202,12 @@ especially vulnerable to climate change and disruption of the Arctic environment
 arctic to subarctic; cool summers, cold winters<br>
 
 **Land use**<br>
-_agricultural land_: 0.6% (2018 est.)<br>
-_arable land_: arable land: 0% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0.6% (2018 est.)<br>
-_forest_: 0% (2018 est.)<br>
-_other_: 99.4% (2018 est.)<br>
+_agricultural land_: 0.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.6% (2022 est.)<br>
+_forest_: 0% (2022 est.)<br>
+_other_: 99.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 87.9% of total population (2023)<br>
@@ -272,7 +272,7 @@ see Denmark<br>
 
 **Executive branch**<br>
 _chief of state_: King FREDERIK X of Denmark (since 14 January 2024), represented by High Commissioner Julie Praest WILCHE (since May 2022) (2024)<br>
-_head of government_: Premier Mute B. EGEDE (since 23 April 2021)<br>
+_head of government_: Premier Mute B. EGEDE in caretaker status (since 12 March 2025)<br>
 _cabinet_: Self-rule Government (Naalakkersuisut) elected by the Parliament (Inatsisartut)<br>
 _elections/appointments_: the monarchy is hereditary; high commissioner appointed by the monarch; premier indirectly elected by Parliament for a 4-year term<br>
 _election results_: <em><br>2021:</em> Mute B. EGEDE elected premier; Parliament vote - Mute B. EGEDE (Inuit Ataqatigiit) unanimous<br><br><em>2014:</em> Kim KIELSEN elected premier; Parliament vote - Kim KIELSEN (S) 27.2%, Sara OLSVIG (IA) 25.5%, Randi Vestergaard EVALDSEN (D) 19.5%, other 27.8%<br>
@@ -291,9 +291,10 @@ _expected date of next election_: 2025<br>
 <strong>note:</strong> Greenland elects 2 members to the Danish Parliament to serve 4-year terms<br>
 
 **Judicial branch**<br>
-_highest court(s)_: High Court of Greenland (consists of the presiding professional judge and 2 lay assessors); note - appeals beyond the High Court of Greenland can be heard by the Supreme Court (in Copenhagen)<br>
-_judge selection and term of office_: judges appointed by the monarch upon the recommendation of the Judicial Appointments Council, a 6-member independent body of judges and lawyers; judges appointed for life with retirement at age 70<br>
+_highest court(s)_: High Court of Greenland (consists of the presiding professional judge and 2 lay assessors)<br>
+_judge selection and term of office_: judges appointed by the monarch on the recommendation of the Judicial Appointments Council, a 6-member independent body of judges and lawyers; judges appointed for life with retirement at age 70<br>
 _subordinate courts_: Court of Greenland; 18 district or magistrates' courts<br>
+<strong>note:</strong> appeals beyond the High Court of Greenland can be heard by the Supreme Court (in Copenhagen)<br>
 
 **Political parties**<br>
 Democrats Party (Demokraatit) or D <br>Fellowship Party (Atassut) or A <br>Forward Party (Siumut) or S <br>Inuit Community (Inuit Ataqatigiit) or IA <br>Signpost Party (Naleraq) or N (formerly Partii Naleraq)<br>

@@ -59,12 +59,12 @@ coal, copper, lead, molybdenum, phosphates, rare earth elements, uranium, bauxit
 <strong>note: </strong>the US has the world's largest coal reserves with 491 billion short tons accounting for 27% of the world's total<br>
 
 **Land use**<br>
-_agricultural land_: 44.5% (2018 est.)<br>
-_arable land_: arable land: 16.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 27.4% (2018 est.)<br>
-_forest_: 33.3% (2018 est.)<br>
-_other_: 22.2% (2018 est.)<br>
+_agricultural land_: 45.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 16.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 28.2% (2022 est.)<br>
+_forest_: 33.9% (2022 est.)<br>
+_other_: 21% (2022 est.)<br>
 
 **Irrigated land**<br>
 234,782 sq km (2017)<br>
@@ -256,12 +256,12 @@ mostly temperate, but tropical in Hawaii and Florida, arctic in Alaska, semiarid
 <strong>note:</strong> many consider Mount McKinley, the highest peak in the United States, to be the world’s coldest mountain because of its combination of high elevation and its subarctic location at 63 degrees north latitude; permanent snow and ice cover over 75 percent of the mountain, and enormous glaciers, up to 45 miles long and 3,700 feet thick, spider out from its base in every direction; it is home to some of the world’s coldest and most violent weather, where winds of over 150 miles per hour and temperatures of -93˚F have been recorded.<br>
 
 **Land use**<br>
-_agricultural land_: 44.5% (2018 est.)<br>
-_arable land_: arable land: 16.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 27.4% (2018 est.)<br>
-_forest_: 33.3% (2018 est.)<br>
-_other_: 22.2% (2018 est.)<br>
+_agricultural land_: 45.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 16.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 28.2% (2022 est.)<br>
+_forest_: 33.9% (2022 est.)<br>
+_other_: 21% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 83.3% of total population (2023)<br>
@@ -341,7 +341,7 @@ common law system based on English common law at the federal level; state legal 
 
 **Constitution**<br>
 _history_: previous 1781 (Articles of Confederation and Perpetual Union); latest drafted July - September 1787, submitted to the Congress of the Confederation 20 September 1787, submitted for states' ratification 28 September 1787, ratification completed by nine of the 13 states 21 June 1788, effective 4 March 1789<br>
-_amendments_: proposed as a "joint resolution" by Congress, which requires a two-thirds majority vote in both the House of Representatives and the Senate or by a constitutional convention called for by at least two thirds of the state legislatures; passage requires ratification by three fourths of the state legislatures or passage in state-held constitutional conventions as specified by Congress; the US president has no role in the constitutional amendment process; amended many times, last in 1992<br>
+_amendment process_: proposed as a "joint resolution" by Congress, which requires a two-thirds majority vote in both the House of Representatives and the Senate or by a constitutional convention called for by at least two thirds of the state legislatures; passage requires ratification by three fourths of the state legislatures or passage in state-held constitutional conventions as specified by Congress; the US president has no role in the constitutional amendment process<br>
 
 **International law organization participation**<br>
 withdrew acceptance of compulsory ICJ jurisdiction in 2005; withdrew acceptance of ICCt jurisdiction in 2002<br>
@@ -391,10 +391,10 @@ _percentage of women in chamber_: 26%<br>
 _expected date of next election_: November 2026<br>
 
 **Judicial branch**<br>
-_highest court(s)_: US Supreme Court (consists of 9 justices - the chief justice and 8 associate justices)<br>
+_highest court(s)_: US Supreme Court (consists of 9 justices -- the chief justice and 8 associate justices)<br>
 _judge selection and term of office_: president nominates and, with the advice and consent of the Senate, appoints Supreme Court justices; justices serve for life<br>
 _subordinate courts_: Courts of Appeal (includes the US Court of Appeal for the Federal District and 12 regional appeals courts); 94 federal district courts in 50 states and territories<br>
-<strong>note:</strong> the US court system consists of the federal court system and the state court systems; although each court system is responsible for hearing certain types of cases, neither is completely independent of the other, and the systems often interact<br>
+<strong>note:</strong> the US court system consists of the federal court system and the state court systems; each court system is responsible for hearing certain types of cases, but neither is completely independent of the other, and the systems often interact<br>
 
 **Political parties**<br>
 Democratic Party<br>Green Party<br>Libertarian Party<br>Republican Party<br>

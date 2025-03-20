@@ -51,12 +51,12 @@ _mean elevation_: 635 m<br>
 diamonds, uranium, timber, gold, oil, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 8.1% (2018 est.)<br>
-_arable land_: arable land: 2.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 5.1% (2018 est.)<br>
-_forest_: 36.2% (2018 est.)<br>
-_other_: 55.7% (2018 est.)<br>
+_agricultural land_: 9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.8% (2022 est.)<br>
+_forest_: 35.7% (2022 est.)<br>
+_other_: 55.3% (2022 est.)<br>
 
 **Irrigated land**<br>
 10 sq km (2012)<br>
@@ -243,12 +243,12 @@ _signed, but not ratified_: Law of the Sea<br>
 tropical; hot, dry winters; mild to hot, wet summers<br>
 
 **Land use**<br>
-_agricultural land_: 8.1% (2018 est.)<br>
-_arable land_: arable land: 2.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 5.1% (2018 est.)<br>
-_forest_: 36.2% (2018 est.)<br>
-_other_: 55.7% (2018 est.)<br>
+_agricultural land_: 9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.8% (2022 est.)<br>
+_forest_: 35.7% (2022 est.)<br>
+_other_: 55.3% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 43.6% of total population (2023)<br>
@@ -321,8 +321,8 @@ Republic Day, 1 December (1958)<br>
 civil law system based on the French model<br>
 
 **Constitution**<br>
-_history_: several previous; latest constitution passed by a national referendum on 30 July 2023 and validated by the Constitutional Court on 30 August 2023; note - the new constitution was proposed by President Faustin-Archange Touad&eacute;ra, extended the presidential term from 5 to 7 years, removed term limits, and will allow President Touad&eacute;ra to run again in 2025; opposition parties denounced the changes, claiming they were created to facilitate a "life precedency" for Touad&eacute;ra<br>
-_amendments_: proposals require support of the government, two thirds of the National Council of Transition, and assent by the "Mediator of the Central African" crisis; passage requires at least three-fourths majority vote by the National Council membership; non-amendable constitutional provisions include those on the secular and republican form of government, fundamental rights and freedoms, amendment procedures, or changes to the authorities of various high-level executive, parliamentary, and judicial officials<br>
+_history_: several previous; latest constitution passed by a national referendum on 30 July 2023 and validated by the Constitutional Court on 30 August 2023<br>
+_amendment process_: proposals require support of the government, two thirds of the National Council of Transition, and assent by the "Mediator of the Central African" crisis; passage requires at least three-fourths majority vote by the National Council membership; non-amendable constitutional provisions include those on the secular and republican form of government, fundamental rights and freedoms, amendment procedures, or changes to the authorities of various high-level executive, parliamentary, and judicial officials<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -357,7 +357,7 @@ _expected date of next election_: December 2025<br>
 <strong>note 1:</strong> on 27 December 2020, the day of first round elections, voting in many electoral areas was disrupted by armed groups; on 13 February 2021, President TOUADERA announced that new first round elections would be held on 27 February 2021 for those areas controlled by armed groups and the second round on 14 March 2021; ultimately, two additional rounds were held on 23 May and 25 July 2021 in areas that continued to suffer from election security problems<br><br><strong>note 2:</strong> in accordance with article 98 of the constitution published in August 2023, the parliamentary term has increased from five to seven years and will be first applied to the legislature due to be elected in late 2025<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 judges, at least 3 of whom are women)<br>
+_highest court(s)_: Supreme Court or Cour Supreme (number of judges unknown); Constitutional Court (consists of 9 judges, at least 3 of whom are women)<br>
 _judge selection and term of office_: Supreme Court judges appointed by the president; Constitutional Court judge appointments - 2 by the president, 1 by the speaker of the National Assembly, 2 elected by their peers, 2 are advocates elected by their peers, and 2 are law professors elected by their peers; judges serve 7-year non-renewable terms<br>
 _subordinate courts_: high courts; magistrates' courts<br>
 

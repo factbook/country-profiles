@@ -52,12 +52,12 @@ _mean elevation_: 236 m<br>
 phosphates, limestone, marble, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 67.4% (2018 est.)<br>
-_arable land_: arable land: 45.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 3.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 18.4% (2018 est.)<br>
-_forest_: 4.9% (2018 est.)<br>
-_other_: 27.7% (2018 est.)<br>
+_agricultural land_: 70.2% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 48.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 18.4% (2022 est.)<br>
+_forest_: 22.1% (2022 est.)<br>
+_other_: 7.6% (2022 est.)<br>
 
 **Irrigated land**<br>
 70 sq km (2012)<br>
@@ -247,12 +247,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; hot, humid in south; semiarid in north<br>
 
 **Land use**<br>
-_agricultural land_: 67.4% (2018 est.)<br>
-_arable land_: arable land: 45.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 3.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 18.4% (2018 est.)<br>
-_forest_: 4.9% (2018 est.)<br>
-_other_: 27.7% (2018 est.)<br>
+_agricultural land_: 70.2% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 48.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 18.4% (2022 est.)<br>
+_forest_: 22.1% (2022 est.)<br>
+_other_: 7.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 44.5% of total population (2023)<br>
@@ -318,7 +318,7 @@ customary law system<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 27 September 1992, effective 14 October 1992; revised 6 May 2024<br>
-_amendments_: proposed by the president of the republic or supported by at least one fifth of the National Assembly membership; passage requires four-fifths majority vote by the Assembly; a referendum is required if approved by only two-thirds majority of the Assembly or if requested by the president; constitutional articles on the republican and secular form of government cannot be amended; amended 2002, 2007, last in 2024 (reported as a revision)<br>
+_amendment process_: proposed by the president of the republic or supported by at least one fifth of the National Assembly membership; passage requires four-fifths majority vote by the Assembly; a referendum is required if approved by only two-thirds majority of the Assembly or if requested by the president; constitutional articles on the republican and secular form of government cannot be amended<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt<br>
@@ -365,8 +365,8 @@ _parties elected and seats per party_: Union for the Republic (UNIR) (34); Indep
 _expected date of next election_: February 2031<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court or Cour Supreme (organized into criminal and administrative chambers, each with a chamber president and advisors); Constitutional Court (consists of 9 judges, including the court president)<br>
-_judge selection and term of office_: Supreme Court president appointed by decree of the president of the republic upon the proposal of the Supreme Council of the Magistracy, a 9-member judicial, advisory, and disciplinary body; other judicial appointments and judge tenure NA; Constitutional Court judges appointed by the National Assembly; judge tenure NA<br>
+_highest court(s)_: Supreme Court or Cour Supr&ecirc;me (organized into criminal and administrative chambers, each with a chamber president and advisors); Constitutional Court (consists of 9 judges, including the court president)<br>
+_judge selection and term of office_: Supreme Court president appointed by decree of the president of the republic on the proposal of the Supreme Council of the Magistracy, a 9-member judicial, advisory, and disciplinary body; other judicial appointments and judge tenure NA; Constitutional Court judges appointed by the National Assembly; judge tenure NA<br>
 _subordinate courts_: Court of Assizes (sessions court); Appeal Court; tribunals of first instance (divided into civil, commercial, and correctional chambers; Court of State Security; military tribunal<br>
 
 **Political parties**<br>

@@ -51,12 +51,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 coconuts (copra)<br>
 
 **Land use**<br>
-_agricultural land_: 8.4% (2018 est.)<br>
-_arable land_: arable land: 4.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 4.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 64.6% (2018 est.)<br>
-_other_: 27% (2018 est.)<br>
+_agricultural land_: 7.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 65% (2022 est.)<br>
+_other_: 27.1% (2022 est.)<br>
 
 **Irrigated land**<br>
 NA<br>
@@ -221,12 +221,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical oceanic; moderated by trade winds; a dry season from April to November and a more humid season from December to March<br>
 
 **Land use**<br>
-_agricultural land_: 8.4% (2018 est.)<br>
-_arable land_: arable land: 4.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 4.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 64.6% (2018 est.)<br>
-_other_: 27% (2018 est.)<br>
+_agricultural land_: 7.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 65% (2022 est.)<br>
+_other_: 27.1% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 76.2% of total population (2023)<br>
@@ -272,7 +272,7 @@ common law similar to New Zealand common law<br>
 
 **Constitution**<br>
 _history_: 4 August 1965 (Cook Islands Constitution Act 1964)<br>
-_amendments_: proposed by Parliament; passage requires at least two-thirds majority vote by the Parliament membership in each of several readings and assent of the chief of state&rsquo;s representative; passage of amendments relating to the chief of state also requires two-thirds majority approval in a referendum; amended many times, last in 2004<br>
+_amendment process_: proposed by Parliament; passage requires at least two-thirds majority vote by the Parliament membership in each of several readings and assent of the chief of state&rsquo;s representative; passage of amendments relating to the chief of state also requires two-thirds majority approval in a referendum<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration (New Zealand normally retains responsibility for external affairs); accepts ICCt jurisdiction<br>
@@ -300,9 +300,10 @@ _expected date of next election_: 2026<br>
 <strong>note:</strong> the House of Ariki, a 24-member parliamentary body of traditional leaders appointed by the King's representative, serves as a consultative body to the Parliament<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Court of Appeal (consists of the chief justice and 3 judges of the High Court); High Court (consists of the chief justice and at least 4 judges and organized into civil, criminal, and land divisions); note - appeals beyond the Cook Islands Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
+_highest court(s)_: Court of Appeal (consists of the chief justice and 3 judges of the High Court); High Court (consists of the chief justice and at least 4 judges and organized into civil, criminal, and land divisions)&nbsp;<br>
 _judge selection and term of office_: High Court chief justice appointed by the Queen's Representative on the advice of the Executive Council tendered by the prime minister; other judges appointed by the Queen's Representative, on the advice of the Executive Council tendered by the chief justice, High Court chief justice, and the minister of justice; chief justice and judges appointed for 3-year renewable terms<br>
 _subordinate courts_: justices of the peace<br>
+<strong>note:</strong> appeals beyond the Cook Islands Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
 
 **Political parties**<br>
 Cook Islands Party or CIP<br>Cook Islands United Party <br>Democratic Party or Demo<br>One Cook Islands Movement or OCI<br>

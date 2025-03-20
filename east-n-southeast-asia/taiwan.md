@@ -52,10 +52,12 @@ _mean elevation_: 1,150 m<br>
 small deposits of coal, natural gas, limestone, marble, asbestos, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 22.7% (2018 est.)<br>
-_arable land_: arable land: 16.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 5.8% (2018 est.)<br>
-_other_: 77.3% (2018 est.)<br>
+_agricultural land_: 22% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 16.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 0% (2022 est.)<br>
+_other_: 78% (2022 est.)<br>
 
 **Irrigated land**<br>
 3,820 sq km (2012)<br>
@@ -200,10 +202,12 @@ air pollution; water pollution from industrial emissions, raw sewage; contaminat
 tropical; marine; rainy season during southwest monsoon (June to August); persistent and extensive cloudiness all year<br>
 
 **Land use**<br>
-_agricultural land_: 22.7% (2018 est.)<br>
-_arable land_: arable land: 16.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 5.8% (2018 est.)<br>
-_other_: 77.3% (2018 est.)<br>
+_agricultural land_: 22% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 16.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 0% (2022 est.)<br>
+_other_: 78% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 80.1% of total population (2023)<br>
@@ -246,7 +250,7 @@ civil law system<br>
 
 **Constitution**<br>
 _history_: previous 1912, 1931; latest adopted 25 December 1946, promulgated 1 January 1947, effective 25 December 1947<br>
-_amendments_: proposed by at least one fourth of the Legislative Yuan membership; passage requires approval by at least three-fourths majority vote of at least three fourths of the Legislative Yuan membership and approval in a referendum by more than half of eligible voters; revised several times, last in 2005<br>
+_amendment process_: proposed by at least one fourth of the Legislative Yuan membership; passage requires approval by at least three-fourths majority vote of at least three fourths of the Legislative Yuan membership and approval in a referendum by more than half of eligible voters<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -281,7 +285,7 @@ _expected date of next election_: January 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the court president, vice president, and approximately 100 judges organized into civil and criminal panels, each with a chief justice and 4 associate justices); Constitutional Court (consists of the court president, vice president, and 13 justices)<br>
-_judge selection and term of office_: Supreme Court justices appointed by the president; Constitutional Court justices appointed by the president, with approval of the Legislative Yuan; Supreme Court justices serve for life; Constitutional Court justices appointed for 8-year terms, with half the membership renewed every 4 years<br>
+_judge selection and term of office_: Supreme Court justices appointed for life by the president; Constitutional Court justices appointed by the president, with approval of the Legislative Yuan, for 8-year terms, with half the membership renewed every 4 years<br>
 _subordinate courts_: high courts; district courts; hierarchy of administrative courts<br>
 
 **Political parties**<br>
@@ -580,7 +584,7 @@ approximately 180,000 active-duty troops (95,000 Army; 45,000 Navy, including ap
 <strong>note: </strong>Taiwan trains about 120,000 reservists annually, but in 2022 announced intentions to increase that figure to 260,000<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Taiwan military's inventory is a mix of domestically-produced items and equipment acquired from the US, either as secondhand or direct acquisitions; Taiwan's domestic defense industry produces weapons systems such as aircraft, armored vehicles, missiles, and naval platforms (2024)<br>
+the Taiwan military's inventory is a mix of domestically produced items and equipment acquired from the US, either as secondhand or direct acquisitions; Taiwan's domestic defense industry produces weapons systems such as aircraft, armored vehicles, missiles, and naval platforms (2024)<br>
 
 **Military service age and obligation**<br>
 men 18-36 years of age may volunteer or must complete 12 months of compulsory military service; civil service can be substituted for military service in some cases; women may enlist but are restricted to noncombat roles in most cases (2024)<br>

@@ -54,12 +54,12 @@ _mean elevation_: 470 m<br>
 bauxite, copper, calcium carbonate, gold, marble, hydropower, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 66.4% (2018 est.)<br>
-_arable land_: arable land: 38.5% (2018 est.)<br>
-_permanent crops_: permanent crops: 10.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 17.7% (2018 est.)<br>
-_forest_: 3.6% (2018 est.)<br>
-_other_: 30% (2018 est.)<br>
+_agricultural land_: 65.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 36.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 10.9% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 17.8% (2022 est.)<br>
+_forest_: 12.4% (2022 est.)<br>
+_other_: 22.5% (2022 est.)<br>
 
 **Irrigated land**<br>
 800 sq km (2013)<br>
@@ -239,12 +239,12 @@ _signed, but not ratified_: Nuclear Test Ban<br>
 tropical; semiarid where mountains in east cut off trade winds<br>
 
 **Land use**<br>
-_agricultural land_: 66.4% (2018 est.)<br>
-_arable land_: arable land: 38.5% (2018 est.)<br>
-_permanent crops_: permanent crops: 10.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 17.7% (2018 est.)<br>
-_forest_: 3.6% (2018 est.)<br>
-_other_: 30% (2018 est.)<br>
+_agricultural land_: 65.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 36.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 10.9% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 17.8% (2022 est.)<br>
+_forest_: 12.4% (2022 est.)<br>
+_other_: 22.5% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 59.7% of total population (2023)<br>
@@ -307,8 +307,9 @@ Independence Day, 1 January (1804)<br>
 civil law system strongly influenced by Napoleonic Code<br>
 
 **Constitution**<br>
-_history_: many previous; latest adopted 10 March 1987, with substantial revisions in June 2012; note &ndash; the constitution is commonly referred to as the &ldquo;amended 1987 constitution&rdquo;<br>
-_amendments_: proposed by the executive branch or by either the Senate or the Chamber of Deputies; consideration of proposed amendments requires support by at least two-thirds majority of both houses; passage requires at least two-thirds majority of the membership present and at least two-thirds majority of the votes cast; approved amendments enter into force after installation of the next president of the republic; constitutional articles on the democratic and republican form of government cannot be amended; amended many times, last in 2012<br>
+_history_: many previous; latest adopted 10 March 1987, with substantial revisions in June 2012<br>
+_amendment process_: proposed by the executive branch or by either the Senate or the Chamber of Deputies; consideration of proposed amendments requires support by at least two-thirds majority of both houses; passage requires at least two-thirds majority of the membership present and at least two-thirds majority of the votes cast; approved amendments enter into force after installation of the next president of the republic; constitutional articles on the democratic and republican form of government cannot be amended<br>
+<strong>note:</strong> the constitution is commonly referred to as the “amended 1987 constitution”<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction; non-party state to the ICCt<br>
@@ -358,10 +359,10 @@ _percentage of women in chamber_: 0%<br>
 _expected date of next election_: December 2025<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court or Cour de cassation (currently 11 of 12 judges as prescribed by the constitution, 8 of whom were appointed in March 2023); note - Haiti is a member of the Caribbean Court of Justice; Constitutional Court, called for in the 1987 constitution but not yet established; High Court of Justice, for trying high government officials - currently not functional<br>
-_judge selection and term of office_: judges appointed by the president from candidate lists submitted by the Senate of the National Assembly; note - Article 174 of Haiti's constitution states that judges of the Supreme Court are appointed for 10 years, whereas Article 177 states that judges of the Supreme Court are appointed for life<br>
+_highest court(s)_: Supreme Court or Cour de cassation (consists of 12 judges)<br>
+_judge selection and term of office_: judges appointed by the president from candidate lists submitted by the Senate of the National Assembly<br>
 _subordinate courts_: Courts of Appeal; Courts of First Instance; magistrate's courts; land, labor, and children's courts<br>
-<strong>note</strong>: the Superior Council of the Judiciary or Conseil Superieur du Pouvoir Judiciaire is a 9-member body charged with the administration and oversight of the judicial branch of government<br>
+<strong>note</strong>: the Superior Council of the Judiciary or Conseil Supérieur du Pouvoir Judiciaire is a 9-member body charged with the administration and oversight of the judicial branch of government<br><br><strong>note</strong>: Haiti is a member of the Caribbean Court of Justice, the Constitutional Court (called for in the 1987 constitution but not yet established), and the High Court of Justice, for trying high government officials (currently not functional)<br><br><strong>note</strong>: Article 174 of Haiti's constitution states that judges of the Supreme Court are appointed for 10 years, whereas Article 177 states that judges of the Supreme Court are appointed for life<br>
 
 **Political parties**<br>
 Alternative League for Haitian Progress and Emancipation (Ligue Alternative pour le Progres et l’Emancipation Haitienne) or LAPEH<br>Christian Movement for a New Haiti or MCNH or Mochrenha<br>Christian National Movement for the Reconstruction of Haiti or UNCRH<br>Combat of Peasant Workers to Liberate Haiti (Konbit Travaye Peyizan Pou Libere Ayiti) or Kontra Pep La <br>Convention for Democratic Unity or KID<br>Cooperative Action to Rebuild Haiti or KONBA<br>December 16 Platform or Platfom 16 Desanm<br>Democratic Alliance Party or ALYANS (coalition includes KID and PPRH)<br>Democratic Centers' National Council or CONACED<br>Democratic and Popular Sector (Secteur Democratique et Populaire) or SDP<br>Democratic Unity Convention (Konvansyon Inite Demokratik) or KID<br>Dessalinian Patriotic and Popular Movement or MOPOD<br>Effort and Solidarity to Create an Alternative for the People or ESKAMP<br>Fanmi Lavalas or FL<br>Forward (En Avant)<br>Fusion of Haitian Social Democrats (Fusion Des Sociaux-Démocrates Haïtiens) or FHSD<br>G18 Policy Platform (Plateforme Politique G18)<br>Haiti in Action (Ayiti An Aksyon Haiti's Action) or AAA<br>Haitian Tet Kale Party (Parti Haitien Tet Kale) or PHTK<br>Independent Movement for National Reconciliation or MIRN<br>Lavni Organization or LAVNI<br>Lod Demokratik<br>Love Haiti (Renmen Ayiti) or RA<br>MTV Ayiti<br>National Consortium of Haitian Political Parties (Consortium National des Partis Politiques Haitiens) or CNPPH <br>National Shield Network (Reseau Bouclier National)<br>Organization of the People's Struggle (Oganizasyon Pep Kap Lite) or OPL<br>Patriotic Unity (Inite Patriyotik) or Inite<br>Platform Pitit Desalin (Politik Pitit Dessalines) or PPD<br>Political Party for Us All or Bridge (Pont) or Pou Nou Tout<br>Popular Patriotic Dessalinien Movement (Mouvement Patriotique Populaire Dessalinien) or MOPOD<br>Rally of Progressive National Democrats (Rassemblement des Democrates Nationaux Progressistes) or RDNP<br>Respe (Respect)<br>Women and Families Political Parties (Defile Pati Politik Fanm Ak Fanmi)<br>

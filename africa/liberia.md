@@ -54,12 +54,12 @@ _mean elevation_: 243 m<br>
 iron ore, timber, diamonds, gold, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 28.1% (2018 est.)<br>
-_arable land_: arable land: 5.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 20.8% (2018 est.)<br>
-_forest_: 44.6% (2018 est.)<br>
-_other_: 27.3% (2018 est.)<br>
+_agricultural land_: 20% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 5.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 12.7% (2022 est.)<br>
+_forest_: 78.5% (2022 est.)<br>
+_other_: 1.6% (2022 est.)<br>
 
 **Irrigated land**<br>
 30 sq km (2012)<br>
@@ -237,12 +237,12 @@ _signed, but not ratified_: Environmental Modification, Marine Life Conservation
 tropical; hot, humid; dry winters with hot days and cool to cold nights; wet, cloudy summers with frequent heavy showers<br>
 
 **Land use**<br>
-_agricultural land_: 28.1% (2018 est.)<br>
-_arable land_: arable land: 5.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 20.8% (2018 est.)<br>
-_forest_: 44.6% (2018 est.)<br>
-_other_: 27.3% (2018 est.)<br>
+_agricultural land_: 20% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 5.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 12.7% (2022 est.)<br>
+_forest_: 78.5% (2022 est.)<br>
+_other_: 1.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 53.6% of total population (2023)<br>
@@ -303,7 +303,7 @@ mixed legal system of common law, based on Anglo-American law, and customary law
 
 **Constitution**<br>
 _history_: previous 1847 (at independence); latest drafted 19 October 1983, revision adopted by referendum 3 July 1984, effective 6 January 1986<br>
-_amendments_: proposed by agreement of at least two thirds of both National Assembly houses or by petition of at least 10,000 citizens; passage requires at least two-thirds majority approval of both houses and approval in a referendum by at least two-thirds majority of registered voters; amended 2011, 2020<br>
+_amendment process_: proposed by agreement of at least two thirds of both National Assembly houses or by petition of at least 10,000 citizens; passage requires at least two-thirds majority approval of both houses and approval in a referendum by at least two-thirds majority of registered voters<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -351,9 +351,10 @@ _percentage of women in chamber_: 10%<br>
 _expected date of next election_: October 2029<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court (consists of a chief justice and 4 associate justices); note - the Supreme Court has jurisdiction for all constitutional cases<br>
+_highest court(s)_: Supreme Court (consists of a chief justice and 4 associate justices)<br>
 _judge selection and term of office_: chief justice and associate justices appointed by the president of Liberia with consent of the Senate; judges can serve until age 70<br>
 _subordinate courts_: judicial circuit courts; special courts, including criminal, civil, labor, traffic; magistrate and traditional or customary courts<br>
+<strong>note</strong>: the Supreme Court has jurisdiction for all constitutional cases<br>
 
 **Political parties**<br>
 All Liberian Party or ALP <br>Alliance for Peace and Democracy or APD <br>Alternative National Congress or ANC <br>Coalition for Democratic Change (includes CDC, NPP, and LPDP)<br>Collaborating Political Parties or CPP (coalition includes ANC, LP; CPP dissolved in April 2024)<br>Congress for Democratic Change or CDC <br>Liberia Destiny Party or LDP <br>Liberia National Union or LINU <br>Liberia Transformation Party or LTP <br>Liberian People Democratic Party or LPDP <br>Liberian People's Party or LPP <br>Liberian Restoration Party or LRP <br>Liberty Party or LP <br>Movement for Democracy and Reconstruction or MDR <br>Movement for Economic Empowerment <br>Movement for Progressive Change or MPC <br>National Democratic Coalition or NDC <br>National Democratic Party of Liberia or NDPL <br>National Patriotic Party or NPP <br>National Reformist Party or NRP <br>National Union for Democratic Progress or NUDP <br>People's Unification Party or PUP <br>Unity Party or UP <br>United People's Party <br>Victory for Change Party or VCP <br>

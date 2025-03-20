@@ -55,15 +55,15 @@ _mean elevation_: 1,871 m<br>
 copper, timber, iron ore, nitrates, precious metals, molybdenum, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 21.1% (2018 est.)<br>
-_arable land_: arable land: 1.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 18.8% (2018 est.)<br>
-_forest_: 21.9% (2018 est.)<br>
-_other_: 57% (2018 est.)<br>
+_agricultural land_: 14.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 11.8% (2022 est.)<br>
+_forest_: 24.8% (2022 est.)<br>
+_other_: 60.9% (2022 est.)<br>
 
 **Irrigated land**<br>
-11,100 sq km (2012)<br>
+9,094 sq km (2022)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lago General Carrera (shared with Argentina) - 2,240 sq km; Lago O'Higgins (shared with Argentina) - 1,010 sq km; Lago Llanquihue - 800 sq km; Lago Fagnano (shared with Argentina) - 590 sq km<br>
@@ -242,12 +242,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate; desert in north; Mediterranean in central region; cool and damp in south<br>
 
 **Land use**<br>
-_agricultural land_: 21.1% (2018 est.)<br>
-_arable land_: arable land: 1.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 18.8% (2018 est.)<br>
-_forest_: 21.9% (2018 est.)<br>
-_other_: 57% (2018 est.)<br>
+_agricultural land_: 14.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 11.8% (2022 est.)<br>
+_forest_: 24.8% (2022 est.)<br>
+_other_: 60.9% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 88% of total population (2023)<br>
@@ -319,7 +319,7 @@ civil law system influenced by several West European civil legal systems; judici
 
 **Constitution**<br>
 _history_: many previous; latest adopted 11 September 1980, effective 11 March 1981; in September 2022 and again in December 2023, referendums presented for a new constitution were both defeated, and the September 1980 constitution remains in force<br>
-_amendments_: proposed by members of either house of the National Congress or by the president of the republic; passage requires at least four-sevenths majority vote of the membership in both houses and approval by the president; passage of amendments to constitutional articles, such as the republican form of government, basic rights and freedoms, the Constitutional Tribunal, electoral justice, the Council of National Security, or the constitutional amendment process, requires at least four-sevenths majority vote by both houses of Congress and approval by the president; the president can opt to hold a referendum when Congress and the president disagree on an amendment; amended many times, last in 2022<br>
+_amendment process_: proposed by members of either house of the National Congress or by the president of the republic; passage requires at least four-sevenths majority vote of the membership in both houses and approval by the president; passage of amendments to constitutional articles, such as the republican form of government, basic rights and freedoms, the Constitutional Tribunal, electoral justice, the Council of National Security, or the constitutional amendment process, requires at least four-sevenths majority vote by both houses of Congress and approval by the president; the president can opt to hold a referendum when Congress and the president disagree on an amendment<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -368,7 +368,7 @@ _percentage of women in chamber_: 26%<br>
 _expected date of next election_: November 2025<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court or Corte Suprema (consists of a court president and 20 members or ministros); Constitutional Court (consists of 10 members and is independent of the rest of the judiciary); Elections Qualifying Court (consists of 5 members)<br>
+_highest court(s)_: Supreme Court or Corte Suprema (consists of a court president and 20 members); Constitutional Court (consists of 10 members and is independent of the rest of the judiciary); Elections Qualifying Court (consists of 5 members)<br>
 _judge selection and term of office_: Supreme Court president and judges (ministers) appointed by the president of the republic and ratified by the Senate from lists of candidates provided by the court itself; judges appointed for life with mandatory retirement at age 70; Constitutional Court members appointed - 3 by the Supreme Court, 3 by the president of the republic, 2 by the Chamber of Deputies, and 2 by the Senate; members serve 9-year terms with partial membership replacement every 3 years (the court reviews constitutionality of legislation); Elections Qualifying Court members appointed by lottery - 1 by the former president or vice president of the Senate and 1 by the former president or vice president of the Chamber of Deputies, 2 by the Supreme Court, and 1 by the Appellate Court of Valparaiso; members appointed for 4-year terms<br>
 _subordinate courts_: Courts of Appeal; oral criminal tribunals; military tribunals; local police courts; specialized tribunals and courts in matters such as family, labor, customs, taxes, and electoral affairs<br>
 

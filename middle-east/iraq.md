@@ -52,12 +52,12 @@ _mean elevation_: 312 m<br>
 petroleum, natural gas, phosphates, sulfur<br>
 
 **Land use**<br>
-_agricultural land_: 18.1% (2018 est.)<br>
-_arable land_: arable land: 8.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 9.2% (2018 est.)<br>
-_forest_: 1.9% (2018 est.)<br>
-_other_: 80% (2018 est.)<br>
+_agricultural land_: 21.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 11.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.2% (2022 est.)<br>
+_forest_: 1.9% (2022 est.)<br>
+_other_: 76.3% (2022 est.)<br>
 
 **Irrigated land**<br>
 35,250 sq km (2012)<br>
@@ -245,12 +245,12 @@ _signed, but not ratified_: Climate Change-Paris Agreement, Environmental Modifi
 mostly desert; mild to cool winters with dry, hot, cloudless summers; northern mountainous regions along Iranian and Turkish borders experience cold winters with occasionally heavy snows that melt in early spring, sometimes causing extensive flooding in central and southern Iraq<br>
 
 **Land use**<br>
-_agricultural land_: 18.1% (2018 est.)<br>
-_arable land_: arable land: 8.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 9.2% (2018 est.)<br>
-_forest_: 1.9% (2018 est.)<br>
-_other_: 80% (2018 est.)<br>
+_agricultural land_: 21.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 11.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.2% (2022 est.)<br>
+_forest_: 1.9% (2022 est.)<br>
+_other_: 76.3% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 71.6% of total population (2023)<br>
@@ -327,7 +327,7 @@ mixed legal system of civil and Islamic law<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted by referendum 15 October 2005<br>
-_amendments_: proposed by the president of the republic and the Council of Minsters collectively, or by one fifth of the Council of Representatives members; passage requires at least two-thirds majority vote by the Council of Representatives, approval by referendum, and ratification by the president; passage of amendments to articles on citizen rights and liberties requires two-thirds majority vote of Council of Representatives members after two successive electoral terms, approval in a referendum, and ratification by the president<br>
+_amendment process_: proposed by the president of the republic and the Council of Minsters collectively, or by one fifth of the Council of Representatives members; passage requires at least two-thirds majority vote by the Council of Representatives, approval by referendum, and ratification by the president; passage of amendments to articles on citizen rights and liberties requires two-thirds majority vote of Council of Representatives members after two successive electoral terms, approval in a referendum, and ratification by the president<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -362,9 +362,10 @@ _expected date of next election_: October 2025<br>
 <strong>note:</strong> seat counts reflect updated numbers following the 12 June 2022 Sadrist Trend withdrawal from government formation; its 73 seats were reallocated to other parties<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Federal Supreme Court or FSC (consists of 9 judges); note - court jurisdiction limited to constitutional issues, application of federal laws, ratification of election results for the COR, judicial competency disputes, and disputes between regions or governorates and the central government; Court of Cassation (consists of a court president, 5 vice presidents, and at least 24 judges)<br>
-_judge selection and term of office_: Federal Supreme Court (FSC) judges nominated by the High Judicial Council (HJC) president, the FSC chief justice, the public prosecutor's office chief, and the head of the Judicial Oversight Commission; FSC members required to retire at age 72; Court of Cassation judges appointed by the HJC and confirmed by the Council of Representatives to serve until retirement, nominally at age 63, but can be extended to age 66 by the HJC<br>
+_highest court(s)_: Federal Supreme Court or FSC (consists of 9 judges); Court of Cassation (consists of a court president, 5 vice presidents, and at least 24 judges)<br>
+_judge selection and term of office_: Federal Supreme Court (FSC) judges nominated by the High Judicial Council (HJC) president, the FSC chief justice, the public prosecutor's office chief, and the head of the Judicial Oversight Commission; FSC members required to retire at age 72; Court of Cassation judges appointed by the HJC and confirmed by the Council of Representatives to serve until retirement, nominally at age 63, but can be extended to age 66&nbsp;<br>
 _subordinate courts_: Courts of Appeal (governorate level); civil courts, including first instance, personal status, labor, and customs; criminal courts including felony, misdemeanor, investigative, major crimes, juvenile, and traffic courts<br>
+<strong>note</strong>: Federal Supreme Court jurisdiction limited to constitutional issues, application of federal laws, ratification of election results for the COR, judicial competency disputes, and disputes between regions or governorates and the central government<br>
 
 **Political parties**<br>
 Al Fatah Alliance<br>Azm Alliance<br>Babiliyun Movement<br>Imtidad<br>Ishraqat Konun<br>Kurdistan Democratic Party<br>National Contract Party<br>New Generation Movement<br>Patriotic Union of Kurdistan<br>Sadrist Bloc<br>State Forces Alliance<br>State of Law Coalition<br>Taqadum<br>Tasmim Alliance<br>

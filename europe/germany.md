@@ -53,15 +53,15 @@ _mean elevation_: 263 m<br>
 coal, lignite, natural gas, iron ore, copper, nickel, uranium, potash, salt, construction materials, timber, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 48% (2018 est.)<br>
-_arable land_: arable land: 34.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 13.3% (2018 est.)<br>
-_forest_: 31.8% (2018 est.)<br>
-_other_: 20.2% (2018 est.)<br>
+_agricultural land_: 47.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 33.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 13.5% (2022 est.)<br>
+_forest_: 32.7% (2022 est.)<br>
+_other_: 19.8% (2022 est.)<br>
 
 **Irrigated land**<br>
-5,056 sq km (2020)<br>
+5,065 sq km (2020)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lake Constance (shared with Switzerland and Austria) - 540 sq km<br>
@@ -247,12 +247,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate and marine; cool, cloudy, wet winters and summers; occasional warm mountain (foehn) wind<br>
 
 **Land use**<br>
-_agricultural land_: 48% (2018 est.)<br>
-_arable land_: arable land: 34.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 13.3% (2018 est.)<br>
-_forest_: 31.8% (2018 est.)<br>
-_other_: 20.2% (2018 est.)<br>
+_agricultural land_: 47.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 33.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 13.5% (2022 est.)<br>
+_forest_: 32.7% (2022 est.)<br>
+_other_: 19.8% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 77.8% of total population (2023)<br>
@@ -330,7 +330,7 @@ civil law system<br>
 
 **Constitution**<br>
 _history_: previous 1919 (Weimar Constitution); latest drafted 10-23 August 1948, approved 12 May 1949, promulgated 23 May 1949, entered into force 24 May 1949<br>
-_amendments_: proposed by Parliament; passage and enactment into law require two-thirds majority vote by both the Bundesrat (upper house) and the Bundestag (lower house) of Parliament; articles including those on basic human rights and freedoms cannot be amended; amended many times, last in 2020; note - in early 2021, the German federal government introduced a bill to incorporate children&rsquo;s rights into the constitution<br>
+_amendment process_: proposed by Parliament; passage and enactment into law require two-thirds majority vote by both the Bundesrat (upper house) and the Bundestag (lower house) of Parliament; articles including those on basic human rights and freedoms cannot be amended<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -373,9 +373,9 @@ _number of seats_: 69 (all appointed)<br>
 _percentage of women in chamber_: 34.8%<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Federal Court of Justice (court consists of 127 judges, including the court president, vice presidents, presiding judges, other judges and organized into 25 Senates subdivided into 12 civil panels, 5 criminal panels, and 8 special panels); Federal Constitutional Court or Bundesverfassungsgericht (consists of 2 Senates each subdivided into 3 chambers, each with a chairman and 8 members)<br>
-_judge selection and term of office_: Federal Court of Justice judges selected by the Judges Election Committee, which consists of the Secretaries of Justice from each of the 16 federated states and 16 members appointed by the Federal Parliament; judges appointed by the president; judges serve until mandatory retirement at age 65; Federal Constitutional Court judges - one-half elected by the House of Representatives and one-half by the Senate; judges appointed for 12-year terms with mandatory retirement at age 68<br>
-_subordinate courts_: Federal Administrative Court; Federal Finance Court; Federal Labor Court; Federal Social Court; each of the 16 federated states or Land has its own constitutional court and a hierarchy of ordinary (civil, criminal, family) and specialized (administrative, finance, labor, social) courts; two English-speaking commercial courts opened in late 2020 in the state of Baden-Wuerttemberg - English-speaking Stuttgart Commercial Court and English-speaking Mannheim Commercial Court<br>
+_highest court(s)_: Federal Court of Justice (court consists of 127 judges, including the court president, vice presidents, presiding judges, other judges; organized into 25 Senates subdivided into 12 civil panels, 5 criminal panels, and 8 special panels); Federal Constitutional Court or Bundesverfassungsgericht (consists of 2 Senates each subdivided into 3 chambers, each with a chairman and 8 members)<br>
+_judge selection and term of office_: Federal Court of Justice judges selected by the Judges Election Committee, which consists of the Secretaries of Justice from each of the 16 federated states and 16 members appointed by the Federal Parliament; judges appointed by the president; judges serve until mandatory retirement at age 65; half of Federal Constitutional Court judges are elected by the House of Representatives and half by the Senate; judges appointed for 12-year terms with mandatory retirement at age 68<br>
+_subordinate courts_: Federal Administrative Court; Federal Finance Court; Federal Labor Court; Federal Social Court; each of the 16 federated states or Land has its own constitutional court and a hierarchy of ordinary (civil, criminal, family) and specialized (administrative, finance, labor, social) courts; two English-speaking commercial courts opened in 2020 in the state of Baden-Wuerttemberg -- the Stuttgart Commercial Court and the Mannheim Commercial Court<br>
 
 **Political parties**<br>
 Alliance '90/Greens <br>Alternative for Germany or AfD <br>Christian Democratic Union or CDU <br>Christian Social Union or CSU <br>Free Democratic Party or FDP <br>Free Voters <br>The Left or Die Linke <br>Social Democratic Party or SPD <br>

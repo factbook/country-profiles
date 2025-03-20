@@ -51,15 +51,15 @@ _mean elevation_: 110 m<br>
 peat, arable land, amber<br>
 
 **Land use**<br>
-_agricultural land_: 44.8% (2018 est.)<br>
-_arable land_: arable land: 34.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 9.4% (2018 est.)<br>
-_forest_: 34.6% (2018 est.)<br>
-_other_: 20.6% (2018 est.)<br>
+_agricultural land_: 46.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 36.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.3% (2022 est.)<br>
+_forest_: 35.2% (2022 est.)<br>
+_other_: 18.3% (2022 est.)<br>
 
 **Irrigated land**<br>
-16 sq km (2013)<br>
+61 sq km (2020)<br>
 
 **Major lakes (area sq km)**<br>
 _salt water lake(s)_: Curonian Lagoon (shared with Russia) - 1,620 sq km<br>
@@ -240,12 +240,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 transitional, between maritime and continental; wet, moderate winters and summers<br>
 
 **Land use**<br>
-_agricultural land_: 44.8% (2018 est.)<br>
-_arable land_: arable land: 34.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 9.4% (2018 est.)<br>
-_forest_: 34.6% (2018 est.)<br>
-_other_: 20.6% (2018 est.)<br>
+_agricultural land_: 46.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 36.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.3% (2022 est.)<br>
+_forest_: 35.2% (2022 est.)<br>
+_other_: 18.3% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 68.7% of total population (2023)<br>
@@ -312,7 +312,7 @@ civil law system; legislative acts can be appealed to the Constitutional Court<b
 
 **Constitution**<br>
 _history_: several previous; latest adopted by referendum 25 October 1992, entered into force 2 November 1992<br>
-_amendments_: proposed by at least one fourth of all Parliament members or by petition of at least 300,000 voters; passage requires two-thirds majority vote of Parliament in each of two readings three months apart and a presidential signature; amendments to constitutional articles on national sovereignty and constitutional amendment procedure also require three-fourths voter approval in a referendum; amended many times, last in 2022<br>
+_amendment process_: proposed by at least one fourth of all Parliament members or by petition of at least 300,000 voters; passage requires two-thirds majority vote of Parliament in each of two readings three months apart and a presidential signature; amendments to constitutional articles on national sovereignty and constitutional amendment procedure also require three-fourths voter approval in a referendum<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -347,7 +347,7 @@ _expected date of next election_: October 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 37 judges); Constitutional Court (consists of 9 judges)<br>
-_judge selection and term of office_: Supreme Court judges nominated by the president and appointed by the Seimas; judges serve 5-year renewable terms; Constitutional Court judges appointed by the Seimas from nominations - 3 each by the president of the republic, the Seimas speaker, and the Supreme Court president; judges serve 9-year, nonrenewable terms; one-third of membership reconstituted every 3 years<br>
+_judge selection and term of office_: Supreme Court judges nominated by the president and appointed by the Seimas; judges serve 5-year renewable terms; Constitutional Court judges appointed by the Seimas from nominations - 3 each by the president of the republic, the Seimas speaker, and the Supreme Court president; judges serve 9-year, nonrenewable terms; one third of membership reconstituted every 3 years<br>
 _subordinate courts_: Court of Appeals; district and local courts<br>
 
 **Political parties**<br>

@@ -50,12 +50,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 nickel, chrome, iron, cobalt, manganese, silver, gold, lead, copper<br>
 
 **Land use**<br>
-_agricultural land_: 10.4% (2018 est.)<br>
-_arable land_: arable land: 0.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 9.8% (2018 est.)<br>
-_forest_: 45.9% (2018 est.)<br>
-_other_: 43.7% (2018 est.)<br>
+_agricultural land_: 10.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.5% (2022 est.)<br>
+_forest_: 45.8% (2022 est.)<br>
+_other_: 44.1% (2022 est.)<br>
 
 **Irrigated land**<br>
 100 sq km (2012)<br>
@@ -197,12 +197,12 @@ preservation of coral reefs; prevention of invasive species; limiting erosion ca
 tropical; modified by southeast trade winds; hot, humid<br>
 
 **Land use**<br>
-_agricultural land_: 10.4% (2018 est.)<br>
-_arable land_: arable land: 0.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 9.8% (2018 est.)<br>
-_forest_: 45.9% (2018 est.)<br>
-_other_: 43.7% (2018 est.)<br>
+_agricultural land_: 10.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.5% (2022 est.)<br>
+_forest_: 45.8% (2022 est.)<br>
+_other_: 44.1% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 72.7% of total population (2023)<br>
@@ -249,7 +249,7 @@ civil law system based on French civil law<br>
 
 **Constitution**<br>
 _history_: 4 October 1958 (French Constitution with changes as reflected in the Noumea Accord of 5 May 1998)<br>
-_amendments_: French constitution amendment procedures apply<br>
+_amendment process_: French constitution amendment procedures apply<br>
 
 **Citizenship**<br>
 see France<br>
@@ -277,9 +277,10 @@ _expected date of next election_: December 2025<br>
 <strong>note 1:</strong> the Customary Senate is the assembly of the various traditional councils of the Kanaks, the indigenous population; it rules on laws affecting Kanaks <br><strong><br>note 2:</strong> New Caledonia indirectly elects 2 members to the French Senate and directly elects 2 members to the French National Assembly (see France entry for electoral details)<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Court of Appeal in Noumea or Cour d'Appel; organized into civil, commercial, social, and pre-trial investigation chambers; court bench normally includes the court president and 2 counselors); Administrative Court (number of judges NA); note - final appeals beyond the Court of Appeal are referred to the Court of Cassation or Cour de Cassation (in Paris); final appeals beyond the Administrative Court are referred to the Administrative Court of Appeal (in Paris)<br>
+_highest court(s)_: Court of Appeal or Cour d'Appel; organized into civil, commercial, social, and pre-trial investigation chambers; court bench normally includes the court president and 2 counselors); Administrative Court (number of judges NA)<br>
 _judge selection and term of office_: judge appointment and tenure based on France's judicial system<br>
 _subordinate courts_: Courts of First Instance include: civil, juvenile, commercial, labor, police, criminal, assizes, and also a pre-trial investigation chamber; Joint Commerce Tribunal; administrative courts<br>
+<strong>note</strong>: final appeals beyond the Court of Appeal are referred to the Court of Cassation or Cour de Cassation (in Paris); final appeals beyond the Administrative Court are referred to the Administrative Court of Appeal (in Paris)<br>
 
 **Political parties**<br>
 Caledonia Together or CE <br>Caledonian Union or UC <br>Future With Confidence or AEC <br>Kanak Socialist Front for National Liberation or FLNKS (alliance includes PALIKA, UNI, UC, and UPM) <br>Labor Party or PT <br>National Union for Independence or UNI <br>Oceanian Awakening <br>Party of Kanak Liberation or PALIKA <br>Socialist Kanak Liberation or LKS <br>The Republicans (formerly The Rally or UMP) <br>

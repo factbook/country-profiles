@@ -53,15 +53,15 @@ _mean elevation_: 360 m<br>
 copper, mahogany forests, shrimp, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 30.5% (2018 est.)<br>
-_arable land_: arable land: 7.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 20.7% (2018 est.)<br>
-_forest_: 43.6% (2018 est.)<br>
-_other_: 25.9% (2018 est.)<br>
+_agricultural land_: 29.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 7.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 20.3% (2022 est.)<br>
+_forest_: 56.5% (2022 est.)<br>
+_other_: 14.1% (2022 est.)<br>
 
 **Irrigated land**<br>
-407 sq km (2020)<br>
+394 sq km (2022)<br>
 
 **Major lakes (area sq km)**<br>
 _salt water lake(s)_: Laguna de Chiriqui - 900 sq km<br>
@@ -239,12 +239,12 @@ _signed, but not ratified_: Marine Life Conservation<br>
 tropical maritime; hot, humid, cloudy; prolonged rainy season (May to January), short dry season (January to May)<br>
 
 **Land use**<br>
-_agricultural land_: 30.5% (2018 est.)<br>
-_arable land_: arable land: 7.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 20.7% (2018 est.)<br>
-_forest_: 43.6% (2018 est.)<br>
-_other_: 25.9% (2018 est.)<br>
+_agricultural land_: 29.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 7.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 20.3% (2022 est.)<br>
+_forest_: 56.5% (2022 est.)<br>
+_other_: 14.1% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 69.5% of total population (2023)<br>
@@ -307,7 +307,7 @@ civil law system; judicial review of legislative acts in the Supreme Court of Ju
 
 **Constitution**<br>
 _history_: several previous; latest effective 11 October 1972<br>
-_amendments_: proposed by the National Assembly, by the Cabinet, or by the Supreme Court of Justice; passage requires approval by one of two procedures: 1) absolute majority vote of the Assembly membership in each of three readings and by absolute majority vote of the next elected Assembly in a single reading without textual modifications; 2) absolute majority vote of the Assembly membership in each of three readings, followed by absolute majority vote of the next elected Assembly in each of three readings with textual modifications, and approval in a referendum; amended several times, last in 2004<br>
+_amendment process_: proposed by the National Assembly, by the Cabinet, or by the Supreme Court of Justice; passage requires approval by one of two procedures: 1) absolute majority vote of the Assembly membership in each of three readings and by absolute majority vote of the next elected Assembly in a single reading without textual modifications; 2) absolute majority vote of the Assembly membership in each of three readings, followed by absolute majority vote of the next elected Assembly in each of three readings with textual modifications, and approval in a referendum<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>

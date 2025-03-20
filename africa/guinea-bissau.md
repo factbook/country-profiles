@@ -52,12 +52,12 @@ _mean elevation_: 70 m<br>
 fish, timber, phosphates, bauxite, clay, granite, limestone, unexploited deposits of petroleum<br>
 
 **Land use**<br>
-_agricultural land_: 44.8% (2018 est.)<br>
-_arable land_: arable land: 8.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 6.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 29.7% (2018 est.)<br>
-_forest_: 55.2% (2018 est.)<br>
-_other_: 0% (2018 est.)<br>
+_agricultural land_: 30% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 14% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 8.9% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 7.1% (2022 est.)<br>
+_forest_: 69.8% (2022 est.)<br>
+_other_: 0.1% (2022 est.)<br>
 
 **Irrigated land**<br>
 250 sq km (2012)<br>
@@ -234,12 +234,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; generally hot and humid; monsoonal-type rainy season (June to November) with southwesterly winds; dry season (December to May) with northeasterly harmattan winds<br>
 
 **Land use**<br>
-_agricultural land_: 44.8% (2018 est.)<br>
-_arable land_: arable land: 8.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 6.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 29.7% (2018 est.)<br>
-_forest_: 55.2% (2018 est.)<br>
-_other_: 0% (2018 est.)<br>
+_agricultural land_: 30% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 14% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 8.9% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 7.1% (2022 est.)<br>
+_forest_: 69.8% (2022 est.)<br>
+_other_: 0.1% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 45.5% of total population (2023)<br>
@@ -302,8 +302,8 @@ Independence Day, 24 September (1973)<br>
 mixed legal system of civil law, which incorporated Portuguese law at independence and influenced by Economic Community of West African States (ECOWAS), West African Economic and Monetary Union (UEMOA), African Francophone Public Law, and customary law<br>
 
 **Constitution**<br>
-_history_: promulgated 16 May 1984; note - constitution suspended following military coup April 2012, restored 2014; note - in May 2020, President EMBALO established a commission to draft a revised constitution<br>
-_amendments_: proposed by the National People&rsquo;s Assembly if supported by at least one third of its members, by the Council of State (a presidential consultant body), or by the government; passage requires approval by at least two-thirds majority vote of the Assembly; constitutional articles on the republican and secular form of government and national sovereignty cannot be amended; amended 1991, 1993, 1996<br>
+_history_: promulgated 16 May 1984<br>
+_amendment process_: proposed by the National People&rsquo;s Assembly if supported by at least one third of its members, by the Council of State (a presidential consultant body), or by the government; passage requires approval by at least two-thirds majority vote of the Assembly; constitutional articles on the republican and secular form of government and national sovereignty cannot be amended<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction; non-party state to the ICCt<br>
@@ -337,9 +337,10 @@ _percentage of women in chamber_: 9.8%<br>
 _expected date of next election_: November 2025<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court or Supremo Tribunal de Justica (consists of 9 judges and organized into Civil, Criminal, and Social and Administrative Disputes Chambers); note - the Supreme Court has both appellate and constitutional jurisdiction<br>
+_highest court(s)_: Supreme Court or Supremo Tribunal de Justica (consists of 9 judges and organized into Civil, Criminal, and Social and Administrative Disputes Chambers)<br>
 _judge selection and term of office_: judges nominated by the Higher Council of the Magistrate, a major government organ responsible for judge appointments, dismissals, and judiciary discipline; judges appointed by the president for life<br>
 _subordinate courts_: Appeals Court; regional (first instance) courts; military court<br>
+<strong>note:</strong> the Supreme Court has both appellate and constitutional jurisdiction<br>
 
 **Political parties**<br>
 African Party for the Independence of Guinea and Cabo Verde or PAIGC <br>Democratic Convergence Party or PCD <br>Movement for Democratic Alternation Group of 15 or MADEM-G15 <br>National People’s Assembly – Democratic Party of Guinea Bissau or APU-PDGB <br>New Democracy Party or PND <br>Party for Social Renewal or PRS <br>Republican Party for Independence and Development or PRID <br>Union for Change or UM <br>

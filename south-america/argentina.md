@@ -54,15 +54,15 @@ _mean elevation_: 595 m<br>
 fertile plains of the pampas, lead, zinc, tin, copper, iron ore, manganese, petroleum, uranium, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 53.9% (2018 est.)<br>
-_arable land_: arable land: 13.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 39.6% (2018 est.)<br>
-_forest_: 10.7% (2018 est.)<br>
-_other_: 35.4% (2018 est.)<br>
+_agricultural land_: 43.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 15.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.3% (2022 est.)<br>
+_forest_: 10.4% (2022 est.)<br>
+_other_: 46.2% (2022 est.)<br>
 
 **Irrigated land**<br>
-23,600 sq km (2012)<br>
+13,910 sq km (2018)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lago Buenos Aires (shared with Chile) - 2,240 sq km; Lago Argentino - 1,410 sq km; Lago Viedma - 1,090 sq km; Lago San Mart&iacute;n (shared with Chile) - 1,010 sq km; Lago Colhu&eacute; Huapi - 800 sq km; Lago Fagnano (shared with Chile) - 590 sq km; Lago Nahuel Huapi - 550 sq km<br>
@@ -253,12 +253,12 @@ _signed, but not ratified_: Marine Dumping-London Protocol, Marine Life Conserva
 mostly temperate; arid in southeast; subantarctic in southwest<br>
 
 **Land use**<br>
-_agricultural land_: 53.9% (2018 est.)<br>
-_arable land_: arable land: 13.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 39.6% (2018 est.)<br>
-_forest_: 10.7% (2018 est.)<br>
-_other_: 35.4% (2018 est.)<br>
+_agricultural land_: 43.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 15.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.3% (2022 est.)<br>
+_forest_: 10.4% (2022 est.)<br>
+_other_: 46.2% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 92.5% of total population (2023)<br>
@@ -308,7 +308,7 @@ _conventional long form_: Argentine Republic<br>
 _conventional short form_: Argentina<br>
 _local long form_: Rep&uacute;blica Argentina<br>
 _local short form_: Argentina<br>
-_etymology_: originally the area was referred to as Tierra Argentina, i.e., "Land beside the Silvery River" or "silvery land," which referred to the massive estuary in the east of the country, the R&iacute;o de la Plata (River of Silver); over time the name shortened to simply Argentina or "silvery"<br>
+_etymology_: the name is derived from one of the words for "silver" in Spanish, but the origin is unclear; it may have described the land next to the Rio de la Plata ("Silver River"), a major river that forms the boundary between Argentina and Uruguay; another possible source is the Spanish explorers mistakenly believing that the silver ornaments they bought from inhabitants in the 16th century came from a local source of silver<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -334,7 +334,7 @@ civil law system based on West European legal systems; note - in mid-2015, Argen
 
 **Constitution**<br>
 _history_: several previous; latest effective 11 May 1853<br>
-_amendments_: a declaration of proposed amendments requires two-thirds majority vote by both houses of the National Congress followed by approval by an ad hoc, multi-member constitutional convention; amended several times, last significant amendment in 1994<br>
+_amendment process_: a declaration of proposed amendments requires two-thirds majority vote by both houses of the National Congress followed by approval by an ad hoc, multi-member constitutional convention<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -384,7 +384,7 @@ _expected date of next election_: October 2025<br>
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Corte Suprema (consists of the court president, vice president, 2 judges, 1 vacancy)<br>
 _judge selection and term of office_: judges nominated by the president and approved by the Senate; ministers can serve until mandatory retirement at age 75; extensions beyond 75 require renomination by the president and approval by the Senate<br>
-_subordinate courts_: federal level appellate, district, and territorial courts; provincial level supreme, appellate, and first instance courts<br>
+_subordinate courts_: federal-level appellate, district, and territorial courts; provincial-level supreme, appellate, and first-instance courts<br>
 
 **Political parties**<br>
 <p>Avanza Libertad or AL<br>Civic Coalition ARI or CC-ARI<br>Consenso Federal (Federal Consensus) or CF<br>Frente Cívico por Santiago (Civic Front for Santiago)<br>Frente de Izquierda y de los Trabajadores – Unidad (Workers' Left Front) or FIT-U (coalition of leftist parties in lower house; includes PTS, PO, and MST) <br>Frente de la Concordia Misionero (Front for the Renewal of Social Concord) or FRCS<br>Frente Renovador (Renewal Front) or FR<br>Generación por un Encuentro Nacional (Generation for a National Encounter) or GEN<br>Hacemos por Córdoba (We do for Cordoba) or HC<br>Hacemos por Nuestro Pais (We Do For Our Country) or NHP<br>Juntos por el Cambio (Together for Change) or JxC (includes CC-ARI, PRO, and UCR); note - primary opposition coalition since 2019<br>Juntos Somos Río Negro (Together We Are Rio Negro) or JSRN  <br>Partido Justicialista (Justicialist Party) or PJ<br>La Cámpora<br>La Libertad Avanza (The Liberty Advances) or LLA<br>Movimiento Popular Neuquino (Neuquén People's Movement) or MPN<br>Movimiento Socialista de los Trabajadores (Workers' Socialist Movement) or MST <br>Partido de los Trabajadores Socialistas (Socialist Workers' Party) or PTS<br>Partido Demócrata (Democratic Party) or PDN<br>Partido Libertario (Libertarian Party) or PL; note - party is also a founding member of the coalition La Libertad Avanza<br>Partido Obrero (Workers' Party) or PO<br>Partido Socialista or PS<br>Propuesta Republicana (Republican Proposal) or PRO<br>Unidad Federal (coalition of provencial parties in the lower house; includes FRCS and JSRN)<br>Unión Cívica Radical (Radical Civic Union) or UCR<br>Unión por la Patria (Union for the Homeland) or UP <em>(formerly Frente de Todos (Everyone's Front) or FdT) </em>(includes FR, La Cámpora, and PJ); note - ruling coalition since 2019; includes several national and provincial Peronist political parties<br>Vamos con Vos (Let's Go with You) or VcV </p><br>

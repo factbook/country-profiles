@@ -51,12 +51,12 @@ _mean elevation_: 500 m<br>
 coal, iron ore, antimony, bauxite, copper, lead, zinc, chromite, cobalt, manganese, nickel, clay, gypsum, salt, sand, timber, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 42.2% (2018 est.)<br>
-_arable land_: arable land: 19.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 20.5% (2018 est.)<br>
-_forest_: 42.8% (2018 est.)<br>
-_other_: 15% (2018 est.)<br>
+_agricultural land_: 44.2% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 19.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 22.4% (2022 est.)<br>
+_forest_: 42.7% (2022 est.)<br>
+_other_: 13.1% (2022 est.)<br>
 
 **Irrigated land**<br>
 30 sq km (2012)<br>
@@ -235,12 +235,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 hot summers and cold winters; areas of high elevation have short, cool summers and long, severe winters; mild, rainy winters along coast<br>
 
 **Land use**<br>
-_agricultural land_: 42.2% (2018 est.)<br>
-_arable land_: arable land: 19.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 20.5% (2018 est.)<br>
-_forest_: 42.8% (2018 est.)<br>
-_other_: 15% (2018 est.)<br>
+_agricultural land_: 44.2% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 19.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 22.4% (2022 est.)<br>
+_forest_: 42.7% (2022 est.)<br>
+_other_: 13.1% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 50.3% of total population (2023)<br>
@@ -308,7 +308,7 @@ civil law system; Constitutional Court review of legislative acts<br>
 
 **Constitution**<br>
 _history_: 14 December 1995 (constitution included as part of the Dayton Peace Accords); note - each of the political entities has its own constitution<br>
-_amendments_: decided by the Parliamentary Assembly, including a two-thirds majority vote of members present in the House of Representatives; the constitutional article on human rights and fundamental freedoms cannot be amended; amended several times, last in 2009<br>
+_amendment process_: decided by the Parliamentary Assembly, including a two-thirds majority vote of members present in the House of Representatives; the constitutional article on human rights and fundamental freedoms cannot be amended<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>

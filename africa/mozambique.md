@@ -52,12 +52,12 @@ _mean elevation_: 345 m<br>
 coal, titanium, natural gas, hydropower, tantalum, graphite<br>
 
 **Land use**<br>
-_agricultural land_: 56.3% (2018 est.)<br>
-_arable land_: arable land: 6.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 49.6% (2018 est.)<br>
-_forest_: 43.7% (2018 est.)<br>
-_other_: 0% (2018 est.)<br>
+_agricultural land_: 52.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 7.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 45.1% (2022 est.)<br>
+_forest_: 46.1% (2022 est.)<br>
+_other_: 1.2% (2022 est.)<br>
 
 **Irrigated land**<br>
 1,180 sq km (2012)<br>
@@ -247,12 +247,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical to subtropical<br>
 
 **Land use**<br>
-_agricultural land_: 56.3% (2018 est.)<br>
-_arable land_: arable land: 6.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 49.6% (2018 est.)<br>
-_forest_: 43.7% (2018 est.)<br>
-_other_: 0% (2018 est.)<br>
+_agricultural land_: 52.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 7.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 45.1% (2022 est.)<br>
+_forest_: 46.1% (2022 est.)<br>
+_other_: 1.2% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 38.8% of total population (2023)<br>
@@ -327,7 +327,7 @@ mixed legal system of Portuguese civil law and customary law<br>
 
 **Constitution**<br>
 _history_: previous 1975, 1990; latest adopted 16 November 2004, effective 21 December 2004<br>
-_amendments_: proposed by the president of the republic or supported by at least one third of the Assembly of the Republic membership; passage of amendments affecting constitutional provisions, including the independence and sovereignty of the state, the republican form of government, basic rights and freedoms, and universal suffrage, requires at least a two-thirds majority vote by the Assembly and approval in a referendum; referenda not required for passage of other amendments; amended 2007, 2018<br>
+_amendment process_: proposed by the president of the republic or supported by at least one third of the Assembly of the Republic membership; passage of amendments affecting constitutional provisions, including the independence and sovereignty of the state, the republican form of government, basic rights and freedoms, and universal suffrage, requires at least a two-thirds majority vote by the Assembly and approval in a referendum; referenda not required for passage of other amendments<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -361,7 +361,7 @@ _percentage of women in chamber_: 39.2%<br>
 _expected date of next election_: October 2029<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court (consists of the court president, vice president, and 5 judges); Constitutional Council (consists of 7 judges); note - the Higher Council of the Judiciary Magistracy is responsible for judiciary management and discipline<br>
+_highest court(s)_: Supreme Court (consists of the court president, vice president, and 5 judges); Constitutional Council (consists of 7 judges)<br>
 _judge selection and term of office_: Supreme Court president appointed by the president of the republic; vice president appointed by the president in consultation with the Higher Council of the Judiciary (CSMJ) and ratified by the Assembly of the Republic; other judges elected by the Assembly; judges serve 5-year renewable terms; Constitutional Council judges appointed - 1 by the president, 5 by the Assembly, and 1 by the CSMJ; judges serve 5-year nonrenewable terms<br>
 _subordinate courts_: Administrative Court (capital city only); provincial courts or Tribunais Judicias de Provincia; District Courts or Tribunais Judicias de Districto; customs courts; maritime courts; courts marshal; labor courts; community courts<br>
 

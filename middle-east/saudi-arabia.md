@@ -53,15 +53,15 @@ _mean elevation_: 665 m<br>
 petroleum, natural gas, iron ore, gold, copper<br>
 
 **Land use**<br>
-_agricultural land_: 80.7% (2018 est.)<br>
-_arable land_: arable land: 1.5% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 79.1% (2018 est.)<br>
-_forest_: 0.5% (2018 est.)<br>
-_other_: 18.8% (2018 est.)<br>
+_agricultural land_: 80.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 79.1% (2022 est.)<br>
+_forest_: 0.5% (2022 est.)<br>
+_other_: 18.8% (2022 est.)<br>
 
 **Irrigated land**<br>
-11,910 sq km (2018)<br>
+7,575 sq km (2022)<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
@@ -240,12 +240,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 harsh, dry desert with great temperature extremes<br>
 
 **Land use**<br>
-_agricultural land_: 80.7% (2018 est.)<br>
-_arable land_: arable land: 1.5% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 79.1% (2018 est.)<br>
-_forest_: 0.5% (2018 est.)<br>
-_other_: 18.8% (2018 est.)<br>
+_agricultural land_: 80.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 79.1% (2022 est.)<br>
+_forest_: 0.5% (2022 est.)<br>
+_other_: 18.8% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 85% of total population (2023)<br>
@@ -313,7 +313,7 @@ Islamic (sharia) legal system with some elements of Egyptian, French, and custom
 
 **Constitution**<br>
 _history_: 1 March 1992 - Basic Law of Government, issued by royal decree, serves as the constitutional framework and is based on the Qur'an and the life and traditions of the Prophet Muhammad<br>
-_amendments_: proposed by the king directly or proposed to the king by the Consultative Assembly or by the Council of Ministers; passage by the king through royal decree; Basic Law amended many times, last in 2017<br>
+_amendment process_: proposed by the king directly or proposed to the king by the Consultative Assembly or by the Council of Ministers; passage by the king through royal decree<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -345,8 +345,8 @@ _percentage of women in chamber_: 19.9%<br>
 _expected date of next election_: August 2028<br>
 
 **Judicial branch**<br>
-_highest court(s)_: High Court (consists of the court chief and organized into circuits with 3-judge panels, except for the criminal circuit, which has a 5-judge panel for cases involving major punishments)<br>
-_judge selection and term of office_: High Court chief and chiefs of the High Court Circuits appointed by royal decree upon the recommendation of the Supreme Judiciary Council, a 10-member body of high-level judges and other judicial heads; new judges and assistant judges serve 1- and 2-year probations, respectively, before permanent assignment<br>
+_highest court(s)_: High Court (consists of the court chief; organized into circuits with 3-judge panels, except for the criminal circuit, which has a 5-judge panel for cases involving major punishments)<br>
+_judge selection and term of office_: High Court chief and chiefs of the High Court Circuits appointed by royal decree on the recommendation of the Supreme Judiciary Council, a 10-member body of high-level judges and other judicial heads; new judges and assistant judges serve 1- and 2-year probations, respectively, before permanent assignment<br>
 _subordinate courts_: Court of Appeals; Specialized Criminal Court, first-degree courts composed of general, criminal, personal status, and commercial courts; Labor Court; a hierarchy of administrative courts<br>
 
 **Political parties**<br>

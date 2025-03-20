@@ -53,12 +53,12 @@ _mean elevation_: 1,432 m<br>
 timber, hydropower, manganese deposits, iron ore, copper, minor coal and oil deposits; coastal climate and soils allow for important tea and citrus growth<br>
 
 **Land use**<br>
-_agricultural land_: 35.5% (2018 est.)<br>
-_arable land_: arable land: 5.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 27.9% (2018 est.)<br>
-_forest_: 39.4% (2018 est.)<br>
-_other_: 25.1% (2018 est.)<br>
+_agricultural land_: 34.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 4.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.9% (2022 est.)<br>
+_forest_: 40.6% (2022 est.)<br>
+_other_: 25.1% (2022 est.)<br>
 
 **Irrigated land**<br>
 4,330 sq km (2012)<br>
@@ -246,12 +246,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 warm and pleasant; Mediterranean-like on Black Sea coast<br>
 
 **Land use**<br>
-_agricultural land_: 35.5% (2018 est.)<br>
-_arable land_: arable land: 5.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 27.9% (2018 est.)<br>
-_forest_: 39.4% (2018 est.)<br>
-_other_: 25.1% (2018 est.)<br>
+_agricultural land_: 34.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 4.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.9% (2022 est.)<br>
+_forest_: 40.6% (2022 est.)<br>
+_other_: 25.1% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 60.7% of total population (2023)<br>
@@ -314,7 +314,7 @@ civil law system<br>
 
 **Constitution**<br>
 _history_: previous 1921, 1978 (based on 1977 Soviet Union constitution); latest approved 24 August 1995, effective 17 October 1995<br>
-_amendments_: proposed as a draft law supported by more than one half of the Parliament membership or by petition of at least 200,000 voters; passage requires support by at least three fourths of the Parliament membership in two successive sessions three months apart and the signature and promulgation by the president of Georgia; amended several times, last in 2020 (legislative electoral system revised)<br>
+_amendment process_: proposed as a draft law supported by more than one half of the Parliament membership or by petition of at least 200,000 voters; passage requires support by at least three fourths of the Parliament membership in two successive sessions three months apart and the signature and promulgation by the president of Georgia<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction<br>
@@ -349,9 +349,10 @@ _percentage of women in chamber_: 22%<br>
 _expected date of next election_: October 2028<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court (consists of 28 judges organized into several specialized judicial chambers; number of judges determined by the president of Georgia); Constitutional Court (consists of 9 judges); note - the Abkhazian and Ajarian Autonomous republics each have a supreme court and a hierarchy of lower courts<br>
+_highest court(s)_: Supreme Court (consists of 28 judges organized into several specialized judicial chambers; number of judges determined by the president of Georgia); Constitutional Court (consists of 9 judges)&nbsp;<br>
 _judge selection and term of office_: Supreme Court judges nominated by the High Council of Justice (a 14-member body consisting of the Supreme Court chairperson, common court judges, and appointees of the president of Georgia) and appointed by Parliament; judges appointed for life; Constitutional Court judges appointed 3 each by the president, by Parliament, and by the Supreme Court judges; judges appointed for 10-year terms<br>
 _subordinate courts_: Courts of Appeal; regional (town) and district courts<br>
+<strong>note:</strong> the Abkhazian and Ajarian Autonomous republics each have a supreme court and a hierarchy of lower courts<br>
 
 **Political parties**<br>
 Citizens<br>European Socialists<br>For Georgia<br>Georgian Dream<br>Girchi<br>Law and Justice<br>Lelo for Georgia<br>National Democratic Party<br>People's Power<br>Progress and Freedom<br>Republican Party<br>State for the People<br>Strategy Aghmashenebeli<br>United National Movement or UNM<br>Victorious Georgia<br>

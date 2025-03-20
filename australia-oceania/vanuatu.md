@@ -54,12 +54,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 manganese, hardwood forests, fish<br>
 
 **Land use**<br>
-_agricultural land_: 15.3% (2018 est.)<br>
-_arable land_: arable land: 1.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 10.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 3.4% (2018 est.)<br>
-_forest_: 36.1% (2018 est.)<br>
-_other_: 48.6% (2018 est.)<br>
+_agricultural land_: 15.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 10.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 3.4% (2022 est.)<br>
+_forest_: 36.3% (2022 est.)<br>
+_other_: 48.4% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -226,12 +226,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; moderated by southeast trade winds from May to October; moderate rainfall from November to April; may be affected by cyclones from December to April<br>
 
 **Land use**<br>
-_agricultural land_: 15.3% (2018 est.)<br>
-_arable land_: arable land: 1.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 10.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 3.4% (2018 est.)<br>
-_forest_: 36.1% (2018 est.)<br>
-_other_: 48.6% (2018 est.)<br>
+_agricultural land_: 15.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 10.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 3.4% (2022 est.)<br>
+_forest_: 36.3% (2022 est.)<br>
+_other_: 48.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 26% of total population (2023)<br>
@@ -289,7 +289,7 @@ mixed legal system of English common law, French law, and customary law<br>
 
 **Constitution**<br>
 _history_: draft completed August 1979, finalized by constitution conference 19 September 1979, ratified by French and British Governments 23 October 1979, effective 30 July 1980 at independence<br>
-_amendments_: proposed by the prime minister or by the Parliament membership; passage requires at least two-thirds majority vote by Parliament in special session with at least three fourths of the membership; passage of amendments affecting the national and official languages, or the electoral and parliamentary system also requires approval in a referendum; amended several times, last in 2013<br>
+_amendment process_: proposed by the prime minister or by the Parliament membership; passage requires at least two-thirds majority vote by Parliament in special session with at least three fourths of the membership; passage of amendments affecting the national and official languages, or the electoral and parliamentary system also requires approval in a referendum<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -324,7 +324,7 @@ _percentage of women in chamber_: 1.9%<br>
 _expected date of next election_: January 2029<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Court of Appeal (consists of 2 or more judges of the Supreme Court designated by the chief justice); Supreme Court (consists of the chief justice and 6 puisne judges - 3 local and 3 expatriate)<br>
+_highest court(s)_: Court of Appeal (consists of 2 or more judges of the Supreme Court designated by the chief justice); Supreme Court (consists of the chief justice and 6 puisne judges -- 3 local and 3 expatriate)<br>
 _judge selection and term of office_: Supreme Court chief justice appointed by the president after consultation with the prime minister and the leader of the opposition; other judges appointed by the president on the advice of the Judicial Service Commission, a 4-member advisory body; judges serve until the age of retirement<br>
 _subordinate courts_: Magistrates Courts; Island Courts<br>
 

@@ -50,12 +50,12 @@ _lowest point_: Albert Nile 614 m<br>
 copper, cobalt, hydropower, limestone, salt, arable land, gold<br>
 
 **Land use**<br>
-_agricultural land_: 71.2% (2018 est.)<br>
-_arable land_: arable land: 34.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 11.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 25.6% (2018 est.)<br>
-_forest_: 14.5% (2018 est.)<br>
-_other_: 14.3% (2018 est.)<br>
+_agricultural land_: 71.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 34.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 26.5% (2022 est.)<br>
+_forest_: 11.2% (2022 est.)<br>
+_other_: 16.9% (2022 est.)<br>
 
 **Irrigated land**<br>
 105 sq km (2013)<br>
@@ -245,12 +245,12 @@ _signed, but not ratified_: Environmental Modification<br>
 tropical; generally rainy with two dry seasons (December to February, June to August); semiarid in northeast<br>
 
 **Land use**<br>
-_agricultural land_: 71.2% (2018 est.)<br>
-_arable land_: arable land: 34.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 11.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 25.6% (2018 est.)<br>
-_forest_: 14.5% (2018 est.)<br>
-_other_: 14.3% (2018 est.)<br>
+_agricultural land_: 71.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 34.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 26.5% (2022 est.)<br>
+_forest_: 11.2% (2022 est.)<br>
+_other_: 16.9% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 26.8% of total population (2023)<br>
@@ -322,7 +322,7 @@ mixed legal system of English common law and customary law<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 27 September 1995, promulgated 8 October 1995<br>
-_amendments_: proposed by the National Assembly; passage requires at least two-thirds majority vote of the Assembly membership in the second and third readings; proposals affecting "entrenched clauses," including the sovereignty of the people, supremacy of the constitution, human rights and freedoms, the democratic and multiparty form of government, presidential term of office, independence of the judiciary, and the institutions of traditional or cultural leaders, also requires passage by referendum, ratification by at least two-thirds majority vote of district council members in at least two thirds of Uganda's districts, and assent of the president of the republic; amended several times, last in 2018<br>
+_amendment process_: proposed by the National Assembly; passage requires at least two-thirds majority vote of the Assembly membership in the second and third readings; proposals affecting "entrenched clauses," including the sovereignty of the people, supremacy of the constitution, human rights and freedoms, the democratic and multiparty form of government, presidential term of office, independence of the judiciary, and the institutions of traditional or cultural leaders, also requires passage by referendum, ratification by at least two-thirds majority vote of district council members in at least two thirds of Uganda's districts, and assent of the president of the republic<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction<br>

@@ -53,15 +53,15 @@ _mean elevation_: 273 m<br>
 small offshore oil deposits, limestone, marble, timber<br>
 
 **Land use**<br>
-_agricultural land_: 31.3% (2018 est.)<br>
-_arable land_: arable land: 22.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 3.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 4.9% (2018 est.)<br>
-_forest_: 40% (2018 est.)<br>
-_other_: 28.7% (2018 est.)<br>
+_agricultural land_: 43.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 31.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 6.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.9% (2022 est.)<br>
+_forest_: 26.9% (2022 est.)<br>
+_other_: 30% (2022 est.)<br>
 
 **Irrigated land**<br>
-172 sq km (2017)<br>
+530 sq km (2019)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
@@ -247,12 +247,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; hot, humid in south; semiarid in north<br>
 
 **Land use**<br>
-_agricultural land_: 31.3% (2018 est.)<br>
-_arable land_: arable land: 22.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 3.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 4.9% (2018 est.)<br>
-_forest_: 40% (2018 est.)<br>
-_other_: 28.7% (2018 est.)<br>
+_agricultural land_: 43.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 31.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 6.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.9% (2022 est.)<br>
+_forest_: 26.9% (2022 est.)<br>
+_other_: 30% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 50.1% of total population (2023)<br>
@@ -317,8 +317,8 @@ Independence Day, 1 August (1960)<br>
 civil law system modeled largely on the French system and some customary law<br>
 
 **Constitution**<br>
-_history_: previous 1946, 1958 (preindependence); latest adopted by referendum 2 December 1990, promulgated 11 December 1990<br>
-_amendments_: proposed concurrently by the president of the republic (after a decision in the Council of Ministers) and the National Assembly; consideration of drafts or proposals requires at least three-fourths majority vote of the Assembly membership; passage requires approval in a referendum unless approved by at least four-fifths majority vote of the Assembly membership; constitutional articles affecting territorial sovereignty, the republican form of government, and secularity of Benin cannot be amended; amended 2019<br>
+_history_: previous 1946, 1958 (pre-independence); latest adopted by referendum 2 December 1990, promulgated 11 December 1990<br>
+_amendment process_: proposed concurrently by the president of the republic (after a decision in the Council of Ministers) and the National Assembly; consideration of drafts or proposals requires at least three-fourths majority vote of the Assembly membership; passage requires approval in a referendum unless approved by at least four-fifths majority vote of the Assembly membership; constitutional articles affecting territorial sovereignty, the republican form of government, and secularity of Benin cannot be amended<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -353,9 +353,10 @@ _expected date of next election_: January 2026<br>
 <strong>note:</strong> seat total includes 24 seats reserved for women<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court or Cour Supreme (consists of the chief justice and 16 justices organized into an administrative division, judicial chamber, and chamber of accounts); Constitutional Court or Cour Constitutionnelle (consists of 7 members, including the court president); High Court of Justice (consists of the Constitutional Court members, 6 members appointed by the National Assembly, and the Supreme Court president); note - jurisdiction of the High Court of Justice is limited to cases of high treason by the national president or members of the government while in office<br>
-_judge selection and term of office_: Supreme Court president and judges appointed by the president of the republic&nbsp;upon the advice of the National Assembly; judges appointed for single renewable 5-year terms; Constitutional Court members - 4 appointed by the National Assembly and 3 by the president of the republic; members appointed for single renewable 5-year terms; other members of the High Court of Justice elected by the National Assembly; member tenure NA<br>
-_subordinate courts_: Court of Appeal or Cour d'Appel; Court for the Repression of Economic and Terrorism Infractions (CRIET) or Cour de Repression des Infractions Economiques et du Terrorisme; district courts; village courts; Assize courts<br>
+_highest court(s)_: Supreme Court or Cour Supreme (consists of the chief justice and 16 justices organized into an administrative division, judicial chamber, and chamber of accounts); Constitutional Court or Cour Constitutionnelle (consists of 7 members, including the court president); High Court of Justice (consists of the Constitutional Court members, 6 members appointed by the National Assembly, and the Supreme Court president)&nbsp;<br>
+_judge selection and term of office_: Supreme Court president and judges appointed by the president of the republic on the advice of the National Assembly; judges appointed for single renewable 5-year terms; Constitutional Court members - 4 appointed by the National Assembly and 3 by the president of the republic; members appointed for single renewable 5-year terms; other members of the High Court of Justice elected by the National Assembly; member tenure NA<br>
+_subordinate courts_: Court of Appeal or Cour d'Appel; Court for the Repression of Economic and Terrorism Infractions (CRIET) or Cour de R&eacute;pression des Infractions Economiques et du Terrorisme; district courts; village courts; Assize courts<br>
+<strong>note:</strong> jurisdiction of the High Court of Justice is limited to cases of high treason by the national president or members of the government while in office<br>
 
 **Political parties**<br>
 African Movement for Development and Progress or MADEP <br>Benin Renaissance or RB <br>Cowrie Force for an Emerging Benin or FCBE <br>Democratic Renewal Party or PRD <br>Progressive Union for Renewal <br>Republican Bloc <br>Sun Alliance or AS <br>The Democrats <br>Union Makes the Nation or UN (includes PRD, MADEP)<br>

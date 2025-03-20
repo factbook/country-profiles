@@ -53,15 +53,15 @@ _mean elevation_: 320 m<br>
 iron ore, copper, lead, zinc, gold, silver, tungsten, uranium, arsenic, feldspar, timber, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 7.5% (2018 est.)<br>
-_arable land_: arable land: 6.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 1.1% (2018 est.)<br>
-_forest_: 68.7% (2018 est.)<br>
-_other_: 23.8% (2018 est.)<br>
+_agricultural land_: 7.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 6.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 1.1% (2022 est.)<br>
+_forest_: 68.7% (2022 est.)<br>
+_other_: 23.9% (2022 est.)<br>
 
 **Irrigated land**<br>
-519 sq km (2013)<br>
+510 sq km (2016)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Vanern - 5,580 sq km; Vattern - 1,910 sq km; Malaren - 1,140 sq km<br>
@@ -245,12 +245,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate in south with cold, cloudy winters and cool, partly cloudy summers; subarctic in north<br>
 
 **Land use**<br>
-_agricultural land_: 7.5% (2018 est.)<br>
-_arable land_: arable land: 6.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 1.1% (2018 est.)<br>
-_forest_: 68.7% (2018 est.)<br>
-_other_: 23.8% (2018 est.)<br>
+_agricultural land_: 7.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 6.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 1.1% (2022 est.)<br>
+_forest_: 68.7% (2022 est.)<br>
+_other_: 23.9% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 88.7% of total population (2023)<br>
@@ -320,7 +320,7 @@ civil law system influenced by Roman-Germanic law and customary law<br>
 
 **Constitution**<br>
 _history_: Sweden has four fundamental laws which together make up the Constitution: The Instrument of Government (several previous; latest 1974); The Act of Succession (enacted 1810; changed in 1937 and 1980); The Freedom of the Press Act (many previous; latest in 1949); The Fundamental Law on Freedom of Expression (adopted 1991)<br>
-_amendments_: proposed by Parliament; passage requires simple majority vote in two consecutive parliamentary terms with an intervening general election; passage also requires approval by simple majority vote in a referendum if Parliament approves a motion for a referendum by one third of its members; the results of such a referendum are only binding if a majority vote against the proposal; there has not been a referendum on constitutional matters; The Instrument of Government - amended several times, last in 2018; The Act of Succession - changed in 1937, 1980; The Freedom of the Press Act - amended several times, last in 2019; The Fundamental Law on Freedom of Expression - amended several times, last in 2023<br>
+_amendment process_: proposed by Parliament; passage requires simple majority vote in two consecutive parliamentary terms with an intervening general election; passage also requires approval by simple majority vote in a referendum if Parliament approves a motion for a referendum by one third of its members; the results of such a referendum are only binding if a majority vote against the proposal<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -354,7 +354,7 @@ _expected date of next election_: September 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Sweden (consists of 16 justices, including the court chairman); Supreme Administrative Court (consists of 18 justices, including the court president)<br>
-_judge selection and term of office_: Supreme Court and Supreme Administrative Court justices nominated by the Judges Proposal Board, a 9-member nominating body consisting of high-level judges, prosecutors, and members of Parliament; justices appointed by the Government; following a probationary period, justices' appointments are permanent<br>
+_judge selection and term of office_: Supreme Court and Supreme Administrative Court justices nominated by the Judges Proposal Board, a 9-member nominating body consisting of high-level judges, prosecutors, and members of Parliament; justices appointed by the government; after a probationary period, justices' appointments are permanent<br>
 _subordinate courts_: first instance, appellate, general, and administrative courts; specialized courts that handle cases such as land and environment, immigration, labor, markets, and patents<br>
 
 **Political parties**<br>

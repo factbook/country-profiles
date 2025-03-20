@@ -51,12 +51,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 phosphates, fish<br>
 
 **Land use**<br>
-_agricultural land_: 20% (2018 est.)<br>
-_arable land_: arable land: 0% (2018 est.)<br>
-_permanent crops_: permanent crops: 20% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 0% (2018 est.)<br>
-_other_: 80% (2018 est.)<br>
+_agricultural land_: 20% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 20% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 0% (2022 est.)<br>
+_other_: 80% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -216,12 +216,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical with a monsoonal pattern; rainy season (November to February)<br>
 
 **Land use**<br>
-_agricultural land_: 20% (2018 est.)<br>
-_arable land_: arable land: 0% (2018 est.)<br>
-_permanent crops_: permanent crops: 20% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 0% (2018 est.)<br>
-_other_: 80% (2018 est.)<br>
+_agricultural land_: 20% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 20% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 0% (2022 est.)<br>
+_other_: 80% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
@@ -272,7 +272,7 @@ mixed legal system of common law based on the English model and customary law<br
 
 **Constitution**<br>
 _history_: effective 29 January 1968<br>
-_amendments_: proposed by Parliament; passage requires two-thirds majority vote of Parliament; amendments to constitutional articles, such as the republican form of government, protection of fundamental rights and freedoms, the structure and authorities of the executive and legislative branches, also require two-thirds majority of votes in a referendum; amended several times, last in 2018<br>
+_amendment process_: proposed by Parliament; passage requires two-thirds majority vote of Parliament; amendments to constitutional articles, such as the republican form of government, protection of fundamental rights and freedoms, the structure and authorities of the executive and legislative branches, also require two-thirds majority of votes in a referendum<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -299,9 +299,10 @@ _percentage of women in chamber_: 10.5%<br>
 _expected date of next election_: September 2025<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court (consists of the chief justice and several justices); note - in late 2017, the Nauruan Government revoked the 1976 High Court Appeals Act, which had allowed appeals beyond the Nauruan Supreme Court, and in early 2018, the government formed its own appeals court<br>
+_highest court(s)_: Supreme Court (consists of the chief justice and several justices)<br>
 _judge selection and term of office_: judges appointed by the president to serve until age 65<br>
 _subordinate courts_: District Court, Family Court<br>
+<strong>note</strong>: in 2017, the Nauruan Government revoked the 1976 High Court Appeals Act, which had allowed appeals beyond the Nauruan Supreme Court, and in 2018, the government formed its own appeals court<br>
 
 **Political parties**<br>
 Nauru does not have formal political parties; alliances within the government are often formed based on extended family ties<br>

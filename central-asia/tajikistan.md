@@ -51,15 +51,15 @@ _mean elevation_: 3,186 m<br>
 hydropower, some petroleum, uranium, mercury, brown coal, lead, zinc, antimony, tungsten, silver, gold<br>
 
 **Land use**<br>
-_agricultural land_: 34.7% (2018 est.)<br>
-_arable land_: arable land: 6.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 27.7% (2018 est.)<br>
-_forest_: 2.9% (2018 est.)<br>
-_other_: 62.4% (2018 est.)<br>
+_agricultural land_: 28.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 20.3% (2022 est.)<br>
+_forest_: 3.1% (2022 est.)<br>
+_other_: 68.9% (2022 est.)<br>
 
 **Irrigated land**<br>
-5,690 sq km (2020)<br>
+5,681 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
 Syr Darya (shared with Kyrgyzstan [s], Uzbekistan, and Kazakhstan [m]) - 3,078 km; Amu Darya river source (shared with Turkmenistan, Afghanistan, and Uzbekistan [m]) - 2,620 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -243,12 +243,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 mid-latitude continental, hot summers, mild winters; semiarid to polar in Pamir Mountains<br>
 
 **Land use**<br>
-_agricultural land_: 34.7% (2018 est.)<br>
-_arable land_: arable land: 6.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 27.7% (2018 est.)<br>
-_forest_: 2.9% (2018 est.)<br>
-_other_: 62.4% (2018 est.)<br>
+_agricultural land_: 28.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 20.3% (2022 est.)<br>
+_forest_: 3.1% (2022 est.)<br>
+_other_: 68.9% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 28.2% of total population (2023)<br>
@@ -316,7 +316,7 @@ civil law system<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 6 November 1994<br>
-_amendments_: proposed by the president of the republic or by at least one third of the total membership of both houses of the Supreme Assembly; adoption of any amendment requires a referendum, which includes approval of the president or approval by at least two-thirds majority of the Assembly of Representatives; passage in a referendum requires participation of an absolute majority of eligible voters and an absolute majority of votes; constitutional articles, including Tajikistan&rsquo;s form of government, its territory, and its democratic nature, cannot be amended; amended 1999, 2003, 2016<br>
+_amendment process_: proposed by the president of the republic or by at least one third of the total membership of both houses of the Supreme Assembly; adoption of any amendment requires a referendum, which includes approval of the president or approval by at least two-thirds majority of the Assembly of Representatives; passage in a referendum requires participation of an absolute majority of eligible voters and an absolute majority of votes; constitutional articles, including Tajikistan&rsquo;s form of government, its territory, and its democratic nature, cannot be amended<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -364,7 +364,7 @@ _expected date of next election_: March 2025<br>
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chairman, deputy chairmen, and 34 judges organized into civil, family, criminal, administrative offense, and military chambers); Constitutional Court (consists of the court chairman, deputy chairman, and 5 judges); High Economic Court (consists of 16 judicial positions)<br>
 _judge selection and term of office_: Supreme Court, Constitutional Court, and High Economic Court judges nominated by the president and approved by the National Assembly; judges of all 3 courts appointed for 10-year renewable terms with no term limits, but the last appointment must occur before the age of 65<br>
-_subordinate courts_: regional and district courts; Dushanbe City Court; viloyat (province level) courts; Court of Gorno-Badakhshan Autonomous Region<br>
+_subordinate courts_: regional and district courts; Dushanbe City Court; viloyat (province-level) courts; Court of Gorno-Badakhshan Autonomous Region<br>
 
 **Political parties**<br>
 Agrarian Party of Tajikistan or APT<br>Communist Party of Tajikistan or CPT<br>Democratic Party of Tajikistan or DPT<br>Party of Economic Reform of Tajikistan or PERT<br>People's Democratic Party of Tajikistan or PDPT<br>Social Democratic Party of Tajikistan or SDPT<br>Socialist Party of Tajikistan or SPT<br>

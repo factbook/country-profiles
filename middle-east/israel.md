@@ -52,15 +52,15 @@ _mean elevation_: 508 m<br>
 timber, potash, copper ore, natural gas, phosphate rock, magnesium bromide, clays, sand<br>
 
 **Land use**<br>
-_agricultural land_: 23.8% (2018 est.)<br>
-_arable land_: arable land: 13.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 3.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 6.3% (2018 est.)<br>
-_forest_: 7.1% (2018 est.)<br>
-_other_: 69.1% (2018 est.)<br>
+_agricultural land_: 29.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 17.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 4.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 7.6% (2022 est.)<br>
+_forest_: 6.5% (2022 est.)<br>
+_other_: 64% (2022 est.)<br>
 
 **Irrigated land**<br>
-2,159 sq km (2020)<br>
+1,927 sq km (2022)<br>
 
 **Major lakes (area sq km)**<br>
 _salt water lake(s)_: Dead Sea (shared with Jordan and West Bank) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
@@ -239,12 +239,12 @@ _signed, but not ratified_: Comprehensive Nuclear Test Ban, Marine Life Conserva
 temperate; hot and dry in southern and eastern desert areas<br>
 
 **Land use**<br>
-_agricultural land_: 23.8% (2018 est.)<br>
-_arable land_: arable land: 13.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 3.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 6.3% (2018 est.)<br>
-_forest_: 7.1% (2018 est.)<br>
-_other_: 69.1% (2018 est.)<br>
+_agricultural land_: 29.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 17.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 4.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 7.6% (2022 est.)<br>
+_forest_: 6.5% (2022 est.)<br>
+_other_: 64% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 92.9% of total population (2023)<br>
@@ -311,7 +311,7 @@ mixed legal system of English common law, British Mandate regulations, and Jewis
 
 **Constitution**<br>
 _history_: no formal constitution; some functions of a constitution are filled by the Declaration of Establishment (1948), the Basic Laws, and the Law of Return (as amended)<br>
-_amendments_: proposed by Government of Israel ministers or by the Knesset; passage requires a majority vote of Knesset members and subject to Supreme Court judicial review; 11 of the 13 Basic Laws have been amended at least once, latest in 2020 (Basic Law: the Knesset)<br>
+_amendment process_: proposed by Government of Israel ministers or by the Knesset; passage requires a majority vote of Knesset members and subject to Supreme Court judicial review<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; withdrew acceptance of ICCt jurisdiction in 2002<br>

@@ -51,12 +51,12 @@ _lowest point_: Persian Gulf 0 m<br>
 oil, associated and nonassociated natural gas, fish, pearls<br>
 
 **Land use**<br>
-_agricultural land_: 11.3% (2018 est.)<br>
-_arable land_: arable land: 2.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 3.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 5.3% (2018 est.)<br>
-_forest_: 0.7% (2018 est.)<br>
-_other_: 88% (2018 est.)<br>
+_agricultural land_: 10.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5.1% (2022 est.)<br>
+_forest_: 0.9% (2022 est.)<br>
+_other_: 88.8% (2022 est.)<br>
 
 **Irrigated land**<br>
 40 sq km (2012)<br>
@@ -234,12 +234,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 arid; mild, pleasant winters; very hot, humid summers<br>
 
 **Land use**<br>
-_agricultural land_: 11.3% (2018 est.)<br>
-_arable land_: arable land: 2.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 3.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 5.3% (2018 est.)<br>
-_forest_: 0.7% (2018 est.)<br>
-_other_: 88% (2018 est.)<br>
+_agricultural land_: 10.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5.1% (2022 est.)<br>
+_forest_: 0.9% (2022 est.)<br>
+_other_: 88.8% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 89.9% of total population (2023)<br>
@@ -306,7 +306,7 @@ mixed legal system of Islamic (sharia) law, English common law, Egyptian civil, 
 
 **Constitution**<br>
 _history_: previous 1973; latest adopted 14 February 2002, entry into force 14 February 2002<br>
-_amendments_: proposed by the king or by at least 15 members of either chamber of the National Assembly followed by submission to an Assembly committee for review and, if approved, submitted to the government for restatement as drafts; passage requires a two-thirds majority vote by the membership of both chambers and validation by the king; constitutional articles on the state religion (Islam), state language (Arabic), and the monarchy and "inherited rule" cannot be amended; amended 2012, 2017<br>
+_amendment process_: proposed by the king or by at least 15 members of either chamber of the National Assembly followed by submission to an Assembly committee for review and, if approved, submitted to the government for restatement as drafts; passage requires a two-thirds majority vote by the membership of both chambers and validation by the king; constitutional articles on the state religion (Islam), state language (Arabic), and the monarchy and "inherited rule" cannot be amended<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>

@@ -52,12 +52,12 @@ _lowest point_: Atlantic Ocean 0 m<br>
 fish, squid, wildlife, calcified seaweed, sphagnum moss<br>
 
 **Land use**<br>
-_agricultural land_: 92.4% (2018 est.)<br>
-_arable land_: arable land: 0% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 92.4% (2018 est.)<br>
-_forest_: 0% (2018 est.)<br>
-_other_: 7.6% (2018 est.)<br>
+_agricultural land_: 93.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 93.5% (2022 est.)<br>
+_forest_: 0% (2022 est.)<br>
+_other_: 6.5% (2022 est.)<br>
 
 **Irrigated land**<br>
 NA<br>
@@ -152,12 +152,12 @@ overfishing by unlicensed vessels is a problem; reindeer - introduced to the isl
 cold marine; strong westerly winds, cloudy, humid; rain occurs on more than half of days in year; average annual rainfall is 60 cm in Stanley; occasional snow all year, except in January and February, but typically does not accumulate<br>
 
 **Land use**<br>
-_agricultural land_: 92.4% (2018 est.)<br>
-_arable land_: arable land: 0% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 92.4% (2018 est.)<br>
-_forest_: 0% (2018 est.)<br>
-_other_: 7.6% (2018 est.)<br>
+_agricultural land_: 93.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 93.5% (2022 est.)<br>
+_forest_: 0% (2022 est.)<br>
+_other_: 6.5% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 79.7% of total population (2023)<br>
@@ -221,9 +221,10 @@ _percentage of women in chamber_: 25% note: does not include the speaker<br>
 _expected date of next election_: November 2025<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Court of Appeal (consists of the court president, the chief justice as an ex officio non-resident member, and 2 justices of appeal); Supreme Court (consists of the chief justice); note - appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>
+_highest court(s)_: Court of Appeal (consists of the court president, the chief justice as an ex officio non-resident member, and 2 justices of appeal); Supreme Court (consists of the chief justice)<br>
 _judge selection and term of office_: chief justice, court of appeal president, and justices appointed by the governor; tenure specified in each justice's instrument of appointment<br>
 _subordinate courts_: Magistrate's Court (senior magistrate presides over civil and criminal divisions); Court of Summary Jurisdiction<br>
+<strong>note:</strong> appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>
 
 **Political parties**<br>
 none; all independents<br>

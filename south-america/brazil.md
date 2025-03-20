@@ -55,15 +55,15 @@ _mean elevation_: 320 m<br>
 alumina, bauxite, beryllium, gold, iron ore, manganese, nickel, niobium, phosphates, platinum, tantalum, tin, rare earth elements, uranium, petroleum, hydropower, timber<br>
 
 **Land use**<br>
-_agricultural land_: 32.9% (2018 est.)<br>
-_arable land_: arable land: 8.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 23.5% (2018 est.)<br>
-_forest_: 61.9% (2018 est.)<br>
-_other_: 5.2% (2018 est.)<br>
+_agricultural land_: 26.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 6.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.9% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 19.1% (2022 est.)<br>
+_forest_: 59.1% (2022 est.)<br>
+_other_: 14.2% (2022 est.)<br>
 
 **Irrigated land**<br>
-69,029 sq km (2017)<br>
+91,833 sq km (2022)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lagoa dos Patos - 10,140 sq km<br>
@@ -251,12 +251,12 @@ _signed, but not ratified_: Marine Dumping-London Protocol<br>
 mostly tropical, but temperate in south<br>
 
 **Land use**<br>
-_agricultural land_: 32.9% (2018 est.)<br>
-_arable land_: arable land: 8.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 23.5% (2018 est.)<br>
-_forest_: 61.9% (2018 est.)<br>
-_other_: 5.2% (2018 est.)<br>
+_agricultural land_: 26.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 6.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.9% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 19.1% (2022 est.)<br>
+_forest_: 59.1% (2022 est.)<br>
+_other_: 14.2% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 87.8% of total population (2023)<br>
@@ -336,7 +336,7 @@ civil law; note - a new civil law code was enacted in 2002 replacing the 1916 co
 
 **Constitution**<br>
 _history_: several previous; latest ratified 5 October 1988<br>
-_amendments_: proposed by at least one third of either house of the National Congress, by the president of the republic, or by simple majority vote by more than half of the state legislative assemblies; passage requires at least three-fifths majority vote by both houses in each of two readings; constitutional provisions affecting the federal form of government, separation of powers, suffrage, or individual rights and guarantees cannot be amended; amended many times, last in 2023<br>
+_amendment process_: proposed by at least one third of either house of the National Congress, by the president of the republic, or by simple majority vote by more than half of the state legislative assemblies; passage requires at least three-fifths majority vote by both houses in each of two readings; constitutional provisions affecting the federal form of government, separation of powers, suffrage, or individual rights and guarantees cannot be amended<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>

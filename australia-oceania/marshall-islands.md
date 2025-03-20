@@ -53,12 +53,12 @@ _mean elevation_: 2 m<br>
 coconut products, marine products, deep seabed minerals<br>
 
 **Land use**<br>
-_agricultural land_: 50.7% (2018 est.)<br>
-_arable land_: arable land: 7.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 31.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 11.7% (2018 est.)<br>
-_forest_: 49.3% (2018 est.)<br>
-_other_: 0% (2018 est.)<br>
+_agricultural land_: 38.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 36.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 52.2% (2022 est.)<br>
+_other_: 8.9% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -224,12 +224,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; hot and humid; wet season May to November; islands border typhoon belt<br>
 
 **Land use**<br>
-_agricultural land_: 50.7% (2018 est.)<br>
-_arable land_: arable land: 7.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 31.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 11.7% (2018 est.)<br>
-_forest_: 49.3% (2018 est.)<br>
-_other_: 0% (2018 est.)<br>
+_agricultural land_: 38.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 36.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 52.2% (2022 est.)<br>
+_other_: 8.9% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 78.9% of total population (2023)<br>
@@ -285,7 +285,7 @@ mixed legal system of US and English common law, customary law, and local statut
 
 **Constitution**<br>
 _history_: effective 1 May 1979<br>
-_amendments_: proposed by the National Parliament or by a constitutional convention; passage by Parliament requires at least two-thirds majority vote of the total membership in each of two readings and approval by a majority of votes in a referendum; amendments submitted by a constitutional convention require approval of at least two thirds of votes in a referendum; amended several times, last in 2018<br>
+_amendment process_: proposed by the National Parliament or by a constitutional convention; passage by Parliament requires at least two-thirds majority vote of the total membership in each of two readings and approval by a majority of votes in a referendum; amendments submitted by a constitutional convention require approval of at least two thirds of votes in a referendum<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -321,7 +321,7 @@ _expected date of next election_: November 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 2 associate justices)<br>
-_judge selection and term of office_: judges appointed by the Cabinet upon the recommendation of the Judicial Service Commission (consists of the chief justice of the High Court, the attorney general and a private citizen selected by the Cabinet) and upon approval of the Nitijela; the current chief justice, appointed in 2013, serves for 10 years; Marshallese citizens appointed as justices serve until retirement at age 72<br>
+_judge selection and term of office_: judges appointed by the Cabinet on the recommendation of the Judicial Service Commission (consists of the chief justice of the High Court, the attorney general and a private citizen selected by the Cabinet) and upon approval of the Nitijela; the current chief justice, appointed in 2013, serves for 10 years; Marshallese citizens appointed as justices serve until retirement at age 72<br>
 _subordinate courts_: High Court; District Courts; Traditional Rights Court; Community Courts<br>
 
 **Political parties**<br>

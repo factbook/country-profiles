@@ -51,15 +51,15 @@ _mean elevation_: 474 m<br>
 uranium, coal, iron ore, tin, phosphates, gold, molybdenum, gypsum, salt, petroleum<br>
 
 **Land use**<br>
-_agricultural land_: 35.1% (2018 est.)<br>
-_arable land_: arable land: 12.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 22.7% (2018 est.)<br>
-_forest_: 1% (2018 est.)<br>
-_other_: 63.9% (2018 est.)<br>
+_agricultural land_: 36.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 14% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 22.7% (2022 est.)<br>
+_forest_: 0.8% (2022 est.)<br>
+_other_: 62.4% (2022 est.)<br>
 
 **Irrigated land**<br>
-2,666 sq km (2020)<br>
+2,881 sq km (2022)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lake Chad (endorheic lake shared with Chad, Nigeria, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
@@ -250,12 +250,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 desert; mostly hot, dry, dusty; tropical in extreme south<br>
 
 **Land use**<br>
-_agricultural land_: 35.1% (2018 est.)<br>
-_arable land_: arable land: 12.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 22.7% (2018 est.)<br>
-_forest_: 1% (2018 est.)<br>
-_other_: 63.9% (2018 est.)<br>
+_agricultural land_: 36.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 14% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 22.7% (2022 est.)<br>
+_forest_: 0.8% (2022 est.)<br>
+_other_: 62.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 17.1% of total population (2023)<br>
@@ -334,7 +334,7 @@ note - following the 26 July 2023 military coup, the National Council for the Sa
 
 **Constitution**<br>
 _history_: several previous; passed by referendum 31 October 2010, entered into force 25 November 2010<br>
-_amendments_: formerly proposed by the president of the republic or by the National Assembly; consideration of amendments requires at least three-fourths majority vote by the Assembly; passage requires at least four-fifths majority vote; if disapproved, the proposed amendment is dropped or submitted to a referendum; constitutional articles on the form of government, the multiparty system, the separation of state and religion, disqualification of Assembly members, amendment procedures, and amnesty of participants in the 2010 coup cannot be amended; amended 2011, 2017<br>
+_amendment process_: formerly proposed by the president of the republic or by the National Assembly; consideration of amendments requires at least three-fourths majority vote by the Assembly; passage requires at least four-fifths majority vote; if disapproved, the proposed amendment is dropped or submitted to a referendum; constitutional articles on the form of government, the multiparty system, the separation of state and religion, disqualification of Assembly members, amendment procedures, and amnesty of participants in the 2010 coup cannot be amended<br>
 <strong>Note: </strong>on 26 July 2023, the National Council for the Safeguard of the Homeland, a military junta which took control of Niger's government, dissolved the country's constitution<br>
 
 **International law organization participation**<br>
@@ -371,10 +371,9 @@ _expected date of next election_: December 2025<br>
 <strong>Note:</strong> on 26 July 2023, the National Council for the Safeguard of the Homeland, a military junta which took control of Niger's government, dissolved the National Assembly; a commission recommended to the junta in February 2025 a minimum of a five-year transition to democratic rule<br>
 
 **Judicial branch**<br>
-_highest court(s)_: formerly the Constitutional Court (consists of 7 judges); High Court of Justice (consists of 7 members)<br>
-_judge selection and term of office_: formerly, Constitutional Court judges nominated/elected - 1 by the president of the Republic, 1 by the president of the National Assembly, 2 by peer judges, 2 by peer lawyers, 1 law professor by peers, and 1 from within Nigerien society; all appointed by the president; judges serve 6-year nonrenewable terms with one-third of membership renewed every 2 years; High Judicial Court members selected from among the legislature and judiciary; members serve 5-year terms<br>
-_subordinate courts_: formerly, Court of Cassation; Council of State; Court of Finances; various specialized tribunals and customary courts<br>
-<strong>Note:</strong> on 26 July 2023, the National Council for the Safeguard of the Homeland, a military junta which took control of Niger's government, dissolved the country's judicial system<br>
+_highest court(s)_: High Court of Justice (consists of 7 members); Supreme Court (membership NA); Constitutional Court (consists of 7 judges)<br>
+_judge selection and term of office_: High Judicial Court members selected from among the legislature and judiciary to 5-year terms; Constitutional Court judges nominated/elected - 1 by the president of the Republic, 1 by the president of the National Assembly, 2 by peer judges, 2 by peer lawyers, 1 law professor by peers, and 1 from within Nigerien society; all appointed by the president; judges serve 6-year nonrenewable terms with one-third of membership renewed every 2 years<br>
+_subordinate courts_: Court of Cassation; Council of State; Court of Finances; various specialized tribunals and customary courts<br>
 
 **Political parties**<br>
 <p>Alliance for Democracy and the Republic<br>Alliance for Democratic Renewal or ARD-Adaltchi-Mutuntchi <br>Alliance of Movements for the Emergence of Niger or AMEN AMIN<br>Congress for the Republic or CPR-Inganci<br>Democratic Alternation for Equity in Niger<br>Democratic and Republican Renewal-RDR-Tchanji<br>Democratic Movement for the Emergence of Niger Falala<br>Democratic Patriots' Rally or RPD Bazara<br>National Movement for the Development of Society-Nassara or MNSD-Nassara<br>Nigerien Alliance for Democracy and Progress-Zaman Lahiya or ANDP-Zaman Lahiya<br>Nigerien Democratic Movement for an African Federation or MODEN/FA Lumana<br>Nigerien Party for Democracy and Socialism or PNDS-Tarrayya<br>Nigerien Patriotic Movement or MPN-Kishin Kassa<br>Nigerien Rally for Democracy and Peace<br>Patriotic Movement for the Republic or MPR-Jamhuriya<br>Peace, Justice, Progress–Generation Doubara<br>Rally for Democracy and Progress-Jama'a or RDP-Jama'a<br>Rally for Peace and Progress or RPP Farilla<br>Social Democratic Rally or RSD-Gaskiyya<br>Social Democratic Party or PSD-Bassira</p><br>

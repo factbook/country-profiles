@@ -52,15 +52,15 @@ _mean elevation_: 1,330 m<br>
 small reserves of gold, platinum, copper, potash, natural gas, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 36.3% (2018 est.)<br>
-_arable land_: arable land: 15.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 20% (2018 est.)<br>
-_forest_: 12.2% (2018 est.)<br>
-_other_: 51.5% (2018 est.)<br>
+_agricultural land_: 34.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 14.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 17.7% (2022 est.)<br>
+_forest_: 15% (2022 est.)<br>
+_other_: 50.9% (2022 est.)<br>
 
 **Irrigated land**<br>
-1,813 sq km (2020)<br>
+1,814 sq km (2020)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lake Tana - 3,600 sq km; Abaya Hayk - 1,160 sq km; Ch'amo Hayk - 550 sq km<br>
@@ -257,12 +257,12 @@ _signed, but not ratified_: Environmental Modification, Law of the Sea, Nuclear 
 tropical monsoon with wide topographic-induced variation<br>
 
 **Land use**<br>
-_agricultural land_: 36.3% (2018 est.)<br>
-_arable land_: arable land: 15.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 20% (2018 est.)<br>
-_forest_: 12.2% (2018 est.)<br>
-_other_: 51.5% (2018 est.)<br>
+_agricultural land_: 34.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 14.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 17.7% (2022 est.)<br>
+_forest_: 15% (2022 est.)<br>
+_other_: 50.9% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 23.2% of total population (2023)<br>
@@ -340,7 +340,7 @@ civil law system<br>
 
 **Constitution**<br>
 _history_: several previous; latest drafted June 1994, adopted 8 December 1994, entered into force 21 August 1995<br>
-_amendments_: proposals submitted for discussion require two-thirds majority approval in either house of Parliament or majority approval of one-third of the State Councils; passage of amendments other than constitutional articles on fundamental rights and freedoms and the initiation and amendment of the constitution requires two-thirds majority vote in a joint session of Parliament and majority vote by two thirds of the State Councils; passage of amendments affecting rights and freedoms and amendment procedures requires two-thirds majority vote in each house of Parliament and majority vote by all the State Councils<br>
+_amendment process_: proposals submitted for discussion require two-thirds majority approval in either house of Parliament or majority approval of one-third of the State Councils; passage of amendments other than constitutional articles on fundamental rights and freedoms and the initiation and amendment of the constitution requires two-thirds majority vote in a joint session of Parliament and majority vote by two thirds of the State Councils; passage of amendments affecting rights and freedoms and amendment procedures requires two-thirds majority vote in each house of Parliament and majority vote by all the State Councils<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -388,9 +388,10 @@ _percentage of women in chamber_: 29.7%<br>
 _expected date of next election_: October 2026<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Federal Supreme Court (consists of 11 judges); note - the House of Federation has jurisdiction for all constitutional issues<br>
+_highest court(s)_: Federal Supreme Court (consists of 11 judges)<br>
 _judge selection and term of office_: president and vice president of Federal Supreme Court recommended by the prime minister and appointed by the House of People's Representatives; other Supreme Court judges nominated by the Federal Judicial Administrative Council (a 10-member body chaired by the president of the Federal Supreme Court) and appointed by the House of People's Representatives; judges serve until retirement at age 60<br>
 _subordinate courts_: federal high courts and federal courts of first instance; state court systems (mirror structure of federal system); sharia courts and customary and traditional courts<br>
+<strong>note:</strong> the House of Federation has jurisdiction for all constitutional issues<br>
 
 **Political parties**<br>
 Ethiopian Citizens for Social Justice and Democracy or EZEMA   <br>Gedeo People's Democratic Party<br>Independent<br>Kucha People Democratic Party <br>National Movement of Amhara or NAMA<br>Prosperity Party or PP<br>

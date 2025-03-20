@@ -53,12 +53,12 @@ _mean elevation_: 287 m<br>
 tin, rubber, natural gas, tungsten, tantalum, timber, lead, fish, gypsum, lignite, fluorite, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 41.2% (2018 est.)<br>
-_arable land_: arable land: 30.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 8.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 1.6% (2018 est.)<br>
-_forest_: 37.2% (2018 est.)<br>
-_other_: 21.6% (2018 est.)<br>
+_agricultural land_: 46% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 33.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 10.9% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 1.6% (2022 est.)<br>
+_forest_: 38.8% (2022 est.)<br>
+_other_: 15.2% (2022 est.)<br>
 
 **Irrigated land**<br>
 64,150 sq km (2012)<br>
@@ -252,12 +252,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; rainy, warm, cloudy southwest monsoon (mid-May to September); dry, cool northeast monsoon (November to mid-March); southern isthmus always hot and humid<br>
 
 **Land use**<br>
-_agricultural land_: 41.2% (2018 est.)<br>
-_arable land_: arable land: 30.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 8.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 1.6% (2018 est.)<br>
-_forest_: 37.2% (2018 est.)<br>
-_other_: 21.6% (2018 est.)<br>
+_agricultural land_: 46% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 33.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 10.9% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 1.6% (2022 est.)<br>
+_forest_: 38.8% (2022 est.)<br>
+_other_: 15.2% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 53.6% of total population (2023)<br>
@@ -333,7 +333,7 @@ civil law system with common law influences<br>
 
 **Constitution**<br>
 _history_: many previous; latest drafted and presented 29 March 2016, approved by referendum 7 August 2016, signed into law by the king on 6 April 2017<br>
-_amendments_: amendments require a majority vote in a joint session of the House and Senate and further require at least one fifth of opposition House members and one third of the Senate vote in favor; a national referendum is additionally required for certain amendments; all amendments require signature by the king; Thailand's 2017 constitution was amended in November 2021 to increase the number of constituency members of parliament (MPs) from 350 to 400, reduce the number of party-list MPs from 150 to 100, and change the election to a two-ballot system<br>
+_amendment process_: amendments require a majority vote in a joint session of the House and Senate and further require at least one fifth of opposition House members and one third of the Senate vote in favor; a national referendum is additionally required for certain amendments; all amendments require signature by the king<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>

@@ -54,12 +54,12 @@ _mean elevation_: 279 m<br>
 diamonds, titanium ore, bauxite, iron ore, gold, chromite<br>
 
 **Land use**<br>
-_agricultural land_: 56.2% (2018 est.)<br>
-_arable land_: arable land: 23.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 30.5% (2018 est.)<br>
-_forest_: 37.5% (2018 est.)<br>
-_other_: 6.3% (2018 est.)<br>
+_agricultural land_: 54.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 21.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 30.5% (2022 est.)<br>
+_forest_: 34.6% (2022 est.)<br>
+_other_: 10.7% (2022 est.)<br>
 
 **Irrigated land**<br>
 300 sq km (2012)<br>
@@ -240,12 +240,12 @@ _signed, but not ratified_: Environmental Modification<br>
 tropical; hot, humid; summer rainy season (May to December); winter dry season (December to April)<br>
 
 **Land use**<br>
-_agricultural land_: 56.2% (2018 est.)<br>
-_arable land_: arable land: 23.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 30.5% (2018 est.)<br>
-_forest_: 37.5% (2018 est.)<br>
-_other_: 6.3% (2018 est.)<br>
+_agricultural land_: 54.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 21.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 30.5% (2022 est.)<br>
+_forest_: 34.6% (2022 est.)<br>
+_other_: 10.7% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 44.3% of total population (2023)<br>
@@ -311,7 +311,7 @@ mixed legal system of English common law and customary law<br>
 
 **Constitution**<br>
 _history_: several previous; latest effective 1 October 1991<br>
-_amendments_: proposed by Parliament; passage of amendments requires at least two-thirds majority vote of Parliament in two successive readings and assent of the president of the republic; passage of amendments affecting fundamental rights and freedoms and many other constitutional sections also requires approval in a referendum with participation of at least one half of qualified voters and at least two thirds of votes cast; amended several times, last in 2016<br>
+_amendment process_: proposed by Parliament; passage of amendments requires at least two-thirds majority vote of Parliament in two successive readings and assent of the president of the republic; passage of amendments affecting fundamental rights and freedoms and many other constitutional sections also requires approval in a referendum with participation of at least one half of qualified voters and at least two thirds of votes cast<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -346,7 +346,7 @@ _expected date of next election_: June 2028<br>
 <strong>note:</strong> 14 seats are reserved for "paramount chiefs," who are indirectly elected to represent the 14 provincial districts<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Superior Court of Judicature (consists of the Supreme Court - at the apex - with the chief justice and 4 other judges, the Court of Appeal with the chief justice and 7 other judges, and the High Court of Justice with the chief justice and 9 other judges); note &ndash; the Judicature has jurisdiction in all civil, criminal, and constitutional matters<br>
+_highest court(s)_: Superior Court of Judicature (consists of the Supreme Court at the top, with the chief justice and 4 other judges, the Court of Appeal with the chief justice and 7 other judges, and the High Court of Justice with the chief justice and 9 other judges)<br>
 _judge selection and term of office_: Supreme Court chief justice and other judges of the Judicature appointed by the president on the advice of the Judicial and Legal Service Commission, a 7-member independent body of judges, presidential appointees, and the Commission chairman, and are subject to approval by Parliament; all Judicature judges serve until retirement at age 65<br>
 _subordinate courts_: magistrates' courts; District Appeals Court; local courts<br>
 

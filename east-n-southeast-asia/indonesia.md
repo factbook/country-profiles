@@ -54,12 +54,12 @@ petroleum, tin, natural gas, nickel, timber, bauxite, copper, fertile soils, coa
 <strong>note:</strong> Indonesia is the World's leading producer of nickel with an output of 1.6 million mt in 2022<br>
 
 **Land use**<br>
-_agricultural land_: 31.2% (2018 est.)<br>
-_arable land_: arable land: 13% (2018 est.)<br>
-_permanent crops_: permanent crops: 12.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 6.1% (2018 est.)<br>
-_forest_: 51.7% (2018 est.)<br>
-_other_: 17.1% (2018 est.)<br>
+_agricultural land_: 29.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 9.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 14.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5.8% (2022 est.)<br>
+_forest_: 48% (2022 est.)<br>
+_other_: 22.2% (2022 est.)<br>
 
 **Irrigated land**<br>
 67,220 sq km (2012)<br>
@@ -254,12 +254,12 @@ _signed, but not ratified_: Marine Life Conservation<br>
 tropical; hot, humid; more moderate in highlands<br>
 
 **Land use**<br>
-_agricultural land_: 31.2% (2018 est.)<br>
-_arable land_: arable land: 13% (2018 est.)<br>
-_permanent crops_: permanent crops: 12.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 6.1% (2018 est.)<br>
-_forest_: 51.7% (2018 est.)<br>
-_other_: 17.1% (2018 est.)<br>
+_agricultural land_: 29.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 9.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 14.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5.8% (2022 est.)<br>
+_forest_: 48% (2022 est.)<br>
+_other_: 22.2% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 58.6% of total population (2023)<br>
@@ -334,7 +334,7 @@ civil law system based on the Roman-Dutch model and influenced by customary law<
 
 **Constitution**<br>
 _history_: drafted July to August 1945, effective 18 August 1945, abrogated by 1949 and 1950 constitutions; 1945 constitution restored 5 July 1959<br>
-_amendments_: proposed by the People&rsquo;s Consultative Assembly, with at least two thirds of its members present; passage requires simple majority vote by the Assembly membership; constitutional articles on the unitary form of the state cannot be amended; amended several times, last in 2002<br>
+_amendment process_: proposed by the People&rsquo;s Consultative Assembly, with at least two thirds of its members present; passage requires simple majority vote by the Assembly membership; constitutional articles on the unitary form of the state cannot be amended<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>

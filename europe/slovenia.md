@@ -51,15 +51,15 @@ _mean elevation_: 492 m<br>
 lignite, lead, zinc, building stone, hydropower, forests<br>
 
 **Land use**<br>
-_agricultural land_: 22.8% (2018 est.)<br>
-_arable land_: arable land: 8.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 13.1% (2018 est.)<br>
-_forest_: 62.3% (2018 est.)<br>
-_other_: 14.9% (2018 est.)<br>
+_agricultural land_: 30.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 8.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 18.8% (2022 est.)<br>
+_forest_: 61.3% (2022 est.)<br>
+_other_: 8.4% (2022 est.)<br>
 
 **Irrigated land**<br>
-39 sq km (2020)<br>
+50 sq km (2022)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -236,12 +236,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 Mediterranean climate on the coast, continental climate with mild to hot summers and cold winters in the plateaus and valleys to the east<br>
 
 **Land use**<br>
-_agricultural land_: 22.8% (2018 est.)<br>
-_arable land_: arable land: 8.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 13.1% (2018 est.)<br>
-_forest_: 62.3% (2018 est.)<br>
-_other_: 14.9% (2018 est.)<br>
+_agricultural land_: 30.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 8.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 18.8% (2022 est.)<br>
+_forest_: 61.3% (2022 est.)<br>
+_other_: 8.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 56.1% of total population (2023)<br>
@@ -311,8 +311,8 @@ Independence Day/Statehood Day, 25 June (1991)<br>
 civil law system<br>
 
 **Constitution**<br>
-_history_: previous 1974 (preindependence); latest passed by Parliament 23 December 1991<br>
-_amendments_: proposed by at least 20 National Assembly members, by the government, or by petition of at least 30,000 voters; passage requires at least two-thirds majority vote by the Assembly; referendum required if agreed upon by at least 30 Assembly members; passage in a referendum requires participation of a majority of eligible voters and a simple majority of votes cast; amended several times, last in 2016<br>
+_history_: previous 1974 (pre-independence); latest passed by Parliament 23 December 1991<br>
+_amendment process_: proposed by at least 20 National Assembly members, by the government, or by petition of at least 30,000 voters; passage requires at least two-thirds majority vote by the Assembly; referendum required if agreed upon by at least 30 Assembly members; passage in a referendum requires participation of a majority of eligible voters and a simple majority of votes cast<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -359,7 +359,7 @@ _expected date of next election_: November 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the court president and 37 judges organized into civil, criminal, commercial, labor and social security, administrative, and registry departments); Constitutional Court (consists of the court president, vice president, and 7 judges)<br>
-_judge selection and term of office_: Supreme Court president and vice president appointed by the National Assembly upon the proposal of the Minister of Justice based on the opinions of the Judicial Council, an 11-member independent body elected by the National Assembly from proposals submitted by the president, attorneys, law universities, and sitting judges; other Supreme Court judges elected by the National Assembly from candidates proposed by the Judicial Council; Supreme Court judges serve for life; Constitutional Court judges appointed by the National Assembly from nominations by the president of the republic; Constitutional Court president selected from among its own membership for a 3-year term; other judges elected for single 9-year terms<br>
+_judge selection and term of office_: Supreme Court president and vice president appointed by the National Assembly on the proposal of the Minister of Justice, based on the opinions of the Judicial Council, an 11-member independent body elected by the National Assembly from proposals submitted by the president, attorneys, law universities, and sitting judges; other Supreme Court judges elected by the National Assembly from candidates proposed by the Judicial Council; Supreme Court judges serve for life; Constitutional Court judges appointed by the National Assembly from nominations by the president of the republic; Constitutional Court president selected from among its own membership for a 3-year term; other judges elected for single 9-year terms<br>
 _subordinate courts_: county, district, regional, and high courts; specialized labor-related and social courts; Court of Audit; Administrative Court<br>
 
 **Political parties**<br>

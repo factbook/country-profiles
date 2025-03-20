@@ -50,8 +50,9 @@ _lowest point_: Saint Peter's Square 19 m<br>
 none<br>
 
 **Land use**<br>
-_agricultural land_: 0% (2018 est.)<br>
-_other_: 100% (2018 est.)<br>
+_agricultural land_: 0% (2022 est.)<br>
+_forest_: 0% (2022 est.)<br>
+_other_: 100% (2022 est.)<br>
 
 **Natural hazards**<br>
 occasional earthquakes<br>
@@ -104,8 +105,9 @@ _signed, but not ratified_: Air Pollution, Environmental Modification<br>
 temperate; mild, rainy winters (September to May) with hot, dry summers (May to September)<br>
 
 **Land use**<br>
-_agricultural land_: 0% (2018 est.)<br>
-_other_: 100% (2018 est.)<br>
+_agricultural land_: 0% (2022 est.)<br>
+_forest_: 0% (2022 est.)<br>
+_other_: 100% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
@@ -149,8 +151,8 @@ Election Day of Pope FRANCIS, 13 March (2013)<br>
 religious legal system based on canon (religious) law<br>
 
 **Constitution**<br>
-_history_: previous 1929, 2000; latest issued by Pope FRANCIS 13 May 2023, effective 7 June 2023 (Fundamental Law of Vatican City State, the main governing document of the Vatican's civil entities); the Roman Curia is the administrative apparatus – the departments and ministries – used by the pontiff in governing the church; note - Pope Francis in October 2013, instituted a 9-member Council of Cardinal Advisers to reform the Roman Curia to include writing a new constitution; in June 2018, Pope Francis approved the Council of Cardinals' first draft of the new apostolic constitution, <em>Predicate Evangelium</em> (Preach the Gospel); it became effective 5 June 2022, replacing <em>Pastor Bonus</em>, the previous governing document of the Roman Curia<br>
-_amendments_: note - although the Fundamental Law of Vatican City State makes no mention of amendments, Article Four (drafting laws), states that this legislative responsibility resides with the Pontifical Commission for Vatican City State; draft legislation is submitted through the Secretariat of State and considered by the pope<br>
+_history_: previous 1929, 2000; latest issued by Pope FRANCIS 13 May 2023, effective 7 June 2023 (Fundamental Law of Vatican City State, the main governing document of the Vatican's civil entities); the Roman Curia is the administrative apparatus &ndash; the departments and ministries &ndash; used by the pontiff in governing the church<br>
+_amendment process_: although the Fundamental Law of Vatican City State makes no mention of amendments, Article Four (drafting laws), states that this legislative responsibility resides with the Pontifical Commission for Vatican City State; draft legislation is submitted through the Secretariat of State and considered by the pope<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -181,9 +183,10 @@ _most recent election date_: 22 September 2018<br>
 _percentage of women in chamber_: 0%<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court or Supreme Tribunal of the Apostolic Signatura (consists of the cardinal prefect, who serves as ex-officio president of the court, and 2 other cardinals of the Prefect Signatura); note - judicial duties were established by the Motu Proprio, papal directive, of Pope PIUS XII on 1 May 1946; most Vatican City criminal matters are handled by the Republic of Italy courts<br>
+_highest court(s)_: Supreme Court or Supreme Tribunal of the Apostolic Signatura (consists of the cardinal prefect, who serves as ex-officio president of the court, and 2 other cardinals of the Prefect Signatura)<br>
 _judge selection and term of office_: cardinal prefect appointed by the pope; the other 2 cardinals of the court appointed by the cardinal prefect on a yearly basis<br>
 _subordinate courts_: Appellate Court of Vatican City; Tribunal of Vatican City<br>
+<strong>note</strong>: the Motu Proprio (papal directive) of Pope PIUS XII established judicial duties on 1 May 1946; most Vatican City criminal matters are handled by the Republic of Italy courts<br>
 
 **Political parties**<br>
 none<br>

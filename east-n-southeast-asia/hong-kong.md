@@ -50,12 +50,12 @@ _lowest point_: South China Sea 0 m<br>
 outstanding deepwater harbor, feldspar<br>
 
 **Land use**<br>
-_agricultural land_: 5% (2018 est.)<br>
-_arable land_: arable land: 3.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0.9% (2018 est.)<br>
-_forest_: 0% (2018 est.)<br>
-_other_: 95% (2018 est.)<br>
+_agricultural land_: 3.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 1% (2022 est.)<br>
+_forest_: 0% (2022 est.)<br>
+_other_: 96.2% (2022 est.)<br>
 
 **Irrigated land**<br>
 10 sq km (2012)<br>
@@ -209,12 +209,12 @@ air and water pollution from rapid urbanization; urban waste pollution; industri
 subtropical monsoon; cool and humid in winter, hot and rainy from spring through summer, warm and sunny in fall<br>
 
 **Land use**<br>
-_agricultural land_: 5% (2018 est.)<br>
-_arable land_: arable land: 3.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0.9% (2018 est.)<br>
-_forest_: 0% (2018 est.)<br>
-_other_: 95% (2018 est.)<br>
+_agricultural land_: 3.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 1% (2022 est.)<br>
+_forest_: 0% (2022 est.)<br>
+_other_: 96.2% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
@@ -263,8 +263,9 @@ National Day (Anniversary of the Founding of the People's Republic of China), 1 
 mixed legal system of common law based on the English model and Chinese customary law (in matters of family and land tenure); PRC imposition of National Security Law incorporates elements of Chinese civil law<br>
 
 **Constitution**<br>
-_history_: several previous (governance documents while under British authority); latest drafted April 1988 to February 1989, approved March 1990, effective 1 July 1997 (Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China serves as the constitution); note - since 1990, China's National People's Congress has interpreted specific articles of the Basic Law<br>
-_amendments_: proposed by the Standing Committee of the National People&rsquo;s Congress (NPC), the People&rsquo;s Republic of China State Council, or the Special Administrative Region of Hong Kong; submittal of proposals to the NPC requires two-thirds majority vote by the Legislative Council of Hong Kong, approval by two thirds of Hong Kong&rsquo;s deputies to the NPC, and approval by the Hong Kong chief executive; final passage requires approval by the NPC<br>
+_history_: several previous (governance documents while under British authority); latest drafted April 1988 to February 1989, approved March 1990, effective 1 July 1997 (Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China serves as the constitution)&nbsp;<br>
+_amendment process_: proposed by the Standing Committee of the National People&rsquo;s Congress (NPC), the People&rsquo;s Republic of China State Council, or the Special Administrative Region of Hong Kong; submittal of proposals to the NPC requires two-thirds majority vote by the Legislative Council of Hong Kong, approval by two thirds of Hong Kong&rsquo;s deputies to the NPC, and approval by the Hong Kong chief executive; final passage requires approval by the NPC<br>
+<strong>note:</strong> since 1990, China's National People's Congress has interpreted specific articles of the Basic Law<br>
 
 **Citizenship**<br>
 see China<br>
@@ -292,8 +293,8 @@ _expected date of next election_: December 2025<br>
 <strong>note 1:</strong> all political candidates are evaluated by the Candidate Eligibility Review Committee (CERC), which was established in April 2022; CERC members are all appointed by the chief executive<br><br><strong>note 2:</strong> Hong Kong's leading pro-democracy political parties boycotted the 2021 election<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Court of Final Appeal (consists of the chief justice, 3 permanent judges, and 20 non-permanent judges); note - a sitting bench consists of the chief justice, 3 permanent judges, and 1 non-permanent judge<br>
-_judge selection and term of office_: all judges appointed by the Hong Kong Chief Executive upon the recommendation of the Judicial Officers Recommendation Commission, an independent body consisting of the Secretary for Justice, other judges, and judicial and legal professionals; permanent judges serve until normal retirement at age 65, but term can be extended; non-permanent judges appointed for renewable 3-year terms without age limit<br>
+_highest court(s)_: Court of Final Appeal (consists of the chief justice, 3 permanent judges, and 20 non-permanent judges)<br>
+_judge selection and term of office_: all judges appointed by the Hong Kong Chief Executive on the recommendation of the Judicial Officers Recommendation Commission, an independent body consisting of the Secretary for Justice, other judges, and judicial and legal professionals; permanent judges serve until normal retirement at age 65, but term can be extended; non-permanent judges appointed for renewable 3-year terms without age limit<br>
 _subordinate courts_: High Court (consists of the Court of Appeal and Court of First Instance); District Courts (includes Family and Land Courts); magistrates' courts; specialized tribunals<br>
 
 **Political parties**<br>

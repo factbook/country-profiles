@@ -53,12 +53,12 @@ _mean elevation_: 61 m<br>
 oil shale, peat, rare earth elements, phosphorite, clay, limestone, sand, dolomite, arable land, sea mud<br>
 
 **Land use**<br>
-_agricultural land_: 22.2% (2018 est.)<br>
-_arable land_: arable land: 14.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 7.2% (2018 est.)<br>
-_forest_: 52.1% (2018 est.)<br>
-_other_: 25.7% (2018 est.)<br>
+_agricultural land_: 23.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 16.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 6.4% (2022 est.)<br>
+_forest_: 57.1% (2022 est.)<br>
+_other_: 19.9% (2022 est.)<br>
 
 **Irrigated land**<br>
 20 sq km (2016)<br>
@@ -238,12 +238,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 maritime; wet, moderate winters, cool summers<br>
 
 **Land use**<br>
-_agricultural land_: 22.2% (2018 est.)<br>
-_arable land_: arable land: 14.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 7.2% (2018 est.)<br>
-_forest_: 52.1% (2018 est.)<br>
-_other_: 25.7% (2018 est.)<br>
+_agricultural land_: 23.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 16.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 6.4% (2022 est.)<br>
+_forest_: 57.1% (2022 est.)<br>
+_other_: 19.9% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 69.8% of total population (2023)<br>
@@ -310,7 +310,7 @@ civil law system<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 28 June 1992, entered into force 3 July 1992<br>
-_amendments_: proposed by at least one-fifth of Parliament members or by the president of the republic; passage requires three readings of the proposed amendment and a simple majority vote in two successive memberships of Parliament; passage of amendments to the "General Provisions" and "Amendment of the Constitution" chapters requires at least three-fifths majority vote by Parliament to conduct a referendum and majority vote in a referendum; amended several times, last in 2015<br>
+_amendment process_: proposed by at least one-fifth of Parliament members or by the president of the republic; passage requires three readings of the proposed amendment and a simple majority vote in two successive memberships of Parliament; passage of amendments to the "General Provisions" and "Amendment of the Constitution" chapters requires at least three-fifths majority vote by Parliament to conduct a referendum and majority vote in a referendum<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>

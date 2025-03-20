@@ -53,12 +53,12 @@ _mean elevation_: 1,555 m<br>
 copper, silver, gold, petroleum, timber, fish, iron ore, coal, phosphate, potash, hydropower, natural gas<br>
 
 **Land use**<br>
-_agricultural land_: 18.8% (2018 est.)<br>
-_arable land_: arable land: 3.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 14.6% (2018 est.)<br>
-_forest_: 53% (2018 est.)<br>
-_other_: 28.2% (2018 est.)<br>
+_agricultural land_: 19.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 3.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 14.2% (2022 est.)<br>
+_forest_: 56.2% (2022 est.)<br>
+_other_: 24.7% (2022 est.)<br>
 
 **Irrigated land**<br>
 25,800 sq km (2012)<br>
@@ -256,12 +256,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 varies from tropical in east to dry desert in west; temperate to frigid in Andes<br>
 
 **Land use**<br>
-_agricultural land_: 18.8% (2018 est.)<br>
-_arable land_: arable land: 3.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 14.6% (2018 est.)<br>
-_forest_: 53% (2018 est.)<br>
-_other_: 28.2% (2018 est.)<br>
+_agricultural land_: 19.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 3.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 14.2% (2022 est.)<br>
+_forest_: 56.2% (2022 est.)<br>
+_other_: 24.7% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 78.9% of total population (2023)<br>
@@ -339,7 +339,7 @@ civil law system<br>
 
 **Constitution**<br>
 _history_: several previous; latest promulgated 29 December 1993, enacted 31 December 1993<br>
-_amendments_: proposed by Congress, by the president of the republic with the approval of the Council of Ministers or by petition of at least 0.3% of voters; passage requires absolute majority approval by the Congress membership, followed by approval in a referendum; a referendum is not required if Congress approves the amendment by greater than two-thirds majority vote in each of two successive sessions; amended many times, last in 2021<br>
+_amendment process_: proposed by Congress, by the president of the republic with the approval of the Council of Ministers or by petition of at least 0.3% of voters; passage requires absolute majority approval by the Congress membership, followed by approval in a referendum; a referendum is not required if Congress approves the amendment by greater than two-thirds majority vote in each of two successive sessions<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>

@@ -137,7 +137,7 @@ _elections/appointments_: none; the monarchy is hereditary; governor and assista
 <strong>note:</strong> the Council acts much like a Norwegian municipality, with responsibility for infrastructure and utilities (including power, land-use and community planning, education, and child welfare); however, the state provides healthcare services<br>
 
 **Judicial branch**<br>
-_highest court(s)_: none; note - Svalbard is subordinate to Norway's Nord-Troms District Court and Halogaland Court of Appeal, both located in Tromso<br>
+_highest court(s)_: Svalbard is subordinate to Norway's Nord-Troms District Court and Halogaland Court of Appeal, both located in Tromso<br>
 
 **Political parties**<br>
 Conservative <br>Labor <br>Liberal <br>Progress <br>Socialist Left<br>

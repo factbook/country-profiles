@@ -51,15 +51,15 @@ _mean elevation_: 1,528 m<br>
 oil, coal, copper, molybdenum, tungsten, phosphates, tin, nickel, zinc, fluorspar, gold, silver, iron<br>
 
 **Land use**<br>
-_agricultural land_: 73% (2018 est.)<br>
-_arable land_: arable land: 0.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 72.6% (2018 est.)<br>
-_forest_: 7% (2018 est.)<br>
-_other_: 20% (2018 est.)<br>
+_agricultural land_: 71.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 71.2% (2022 est.)<br>
+_forest_: 9.1% (2022 est.)<br>
+_other_: 19% (2022 est.)<br>
 
 **Irrigated land**<br>
-602 sq km (2020)<br>
+796 sq km (2022)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Hovsgol Nuur - 2,620 sq km; Har Us Nuur - 1,760 sq km;&nbsp;<br>
@@ -247,12 +247,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 desert; continental (large daily and seasonal temperature ranges)<br>
 
 **Land use**<br>
-_agricultural land_: 73% (2018 est.)<br>
-_arable land_: arable land: 0.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 72.6% (2018 est.)<br>
-_forest_: 7% (2018 est.)<br>
-_other_: 20% (2018 est.)<br>
+_agricultural land_: 71.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 71.2% (2022 est.)<br>
+_forest_: 9.1% (2022 est.)<br>
+_other_: 19% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 69.1% of total population (2023)<br>
@@ -322,7 +322,7 @@ civil law system influenced by Soviet and Romano-Germanic legal systems; constit
 
 **Constitution**<br>
 _history_: several previous; latest adopted 13 January 1992, effective 12 February 1992<br>
-_amendments_: proposed by the State Great Hural, by the president of the republic, by the government, or by petition submitted to the State Great Hural by the Constitutional Court; conducting referenda on proposed amendments requires at least two-thirds majority vote of the State Great Hural; passage of amendments by the State Great Hural requires at least three-quarters majority vote; passage by referendum requires majority participation of qualified voters and a majority of votes; amended 1999, 2000, 2019, 2023; note - an amendment passed in a referendum held in May 2023 increased the seats in the State Great Hural from 76 to 126<br>
+_amendment process_: proposed by the State Great Hural, by the president of the republic, by the government, or by petition submitted to the State Great Hural by the Constitutional Court; conducting referenda on proposed amendments requires at least two-thirds majority vote of the State Great Hural; passage of amendments by the State Great Hural requires at least three-quarters majority vote; passage by referendum requires majority participation of qualified voters and a majority of votes&nbsp;<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -357,7 +357,7 @@ _expected date of next election_: June 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the Chief Justice and 24 judges organized into civil, criminal, and administrative chambers); Constitutional Court or Tsets (consists of the chairman and 8 members)<br>
-_judge selection and term of office_: Supreme Court chief justice and judges appointed by the president upon recommendation by the General Council of Courts - a 14-member body of judges and judicial officials - to the State Great Hural; appointment is for life; chairman of the Constitutional Court elected from among its members; members appointed from nominations by the State Great Hural - 3 each by the president, the State Great Hural, and the Supreme Court; appointment is 6 years; chairmanship limited to a single renewable 3-year term<br>
+_judge selection and term of office_: Supreme Court chief justice and judges appointed by the president on recommendation of the General Council of Courts -- a 14-member body of judges and judicial officials -- to the State Great Hural; appointment is for life; chairman of the Constitutional Court elected from among its members; members appointed from nominations by the State Great Hural - 3 each by the president, the State Great Hural, and the Supreme Court; appointment is 6 years; chairmanship limited to a single renewable 3-year term<br>
 _subordinate courts_: aimag (provincial) and capital city appellate courts; soum, inter-soum, and district courts; Administrative Cases Courts<br>
 
 **Political parties**<br>

@@ -51,12 +51,12 @@ _mean elevation_: 2,161 m<br>
 water, agricultural and grazing land, diamonds, sand, clay, building stone<br>
 
 **Land use**<br>
-_agricultural land_: 76.1% (2018 est.)<br>
-_arable land_: arable land: 10.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 65.9% (2018 est.)<br>
-_forest_: 1.5% (2018 est.)<br>
-_other_: 22.4% (2018 est.)<br>
+_agricultural land_: 74.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 8.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 65.9% (2022 est.)<br>
+_forest_: 1.1% (2022 est.)<br>
+_other_: 24.1% (2022 est.)<br>
 
 **Irrigated land**<br>
 12 sq km (2013)<br>
@@ -245,12 +245,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate; cool to cold, dry winters; hot, wet summers<br>
 
 **Land use**<br>
-_agricultural land_: 76.1% (2018 est.)<br>
-_arable land_: arable land: 10.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 65.9% (2018 est.)<br>
-_forest_: 1.5% (2018 est.)<br>
-_other_: 22.4% (2018 est.)<br>
+_agricultural land_: 74.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 8.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 65.9% (2022 est.)<br>
+_forest_: 1.1% (2022 est.)<br>
+_other_: 24.1% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 30.4% of total population (2023)<br>
@@ -320,7 +320,7 @@ mixed legal system of English common law and Roman-Dutch law; judicial review of
 
 **Constitution**<br>
 _history_: previous 1959, 1967; latest adopted 2 April 1993 (effectively restoring the 1967 version)<br>
-_amendments_: proposed by Parliament; passage of amendments affecting constitutional provisions, including fundamental rights and freedoms, sovereignty of the kingdom, the office of the king, and powers of Parliament, requires a majority vote by the National Assembly, approval by the Senate, approval in a referendum by a majority of qualified voters, and assent of the king; passage of amendments other than those specified provisions requires at least a two-thirds majority vote in both houses of Parliament; amended several times, last in 2011<br>
+_amendment process_: proposed by Parliament; passage of amendments affecting constitutional provisions, including fundamental rights and freedoms, sovereignty of the kingdom, the office of the king, and powers of Parliament, requires a majority vote by the National Assembly, approval by the Senate, approval in a referendum by a majority of qualified voters, and assent of the king; passage of amendments other than those specified provisions requires at least a two-thirds majority vote in both houses of Parliament<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -365,9 +365,10 @@ _percentage of women in chamber_: 21.2%<br>
 _expected date of next election_: November 2027<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Court of Appeal (consists of the court president, such number of justices of appeal as set by Parliament, and the Chief Justice and the puisne judges of the High Court ex officio); High Court (consists of the chief justice and such number of puisne judges as set by Parliament); note - both the Court of Appeal and the High Court have jurisdiction in constitutional issues<br>
+_highest court(s)_: Court of Appeal (consists of the court president, such number of justices of appeal as set by Parliament, and the Chief Justice and the puisne judges of the High Court ex officio); High Court (consists of the chief justice and such number of puisne judges as set by Parliament)<br>
 _judge selection and term of office_: Court of Appeal president and High Court chief justice appointed by the monarch on the advice of the prime minister; puisne judges appointed by the monarch on advice of the Judicial Service Commission, an independent body of judicial officers and officials designated by the monarch; judges of both courts can serve until age 75<br>
 _subordinate courts_: Magistrate Courts; customary or traditional courts; military courts<br>
+<strong>note</strong>: both the Court of Appeal and the High Court have jurisdiction in constitutional issues<br>
 
 **Political parties**<br>
 All Basotho Convention or ABC <br>Alliance of Democrats or AD <br>Basotho Action Party or BAP <br>Basotho National Party or BNP <br>Democratic Congress or DC <br>Democratic Party of Lesotho or DPL <br>Lesotho People's Congress or LPC <br>Movement of Economic Change or MEC <br>National Independent Party or NIP <br>Popular Front for Democracy of PFD<br>Reformed Congress of Lesotho or RCL <br>

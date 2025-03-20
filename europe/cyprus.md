@@ -53,15 +53,15 @@ _mean elevation_: 91 m<br>
 copper, pyrites, asbestos, gypsum, timber, salt, marble, clay earth pigment<br>
 
 **Land use**<br>
-_agricultural land_: 13.4% (2018 est.)<br>
-_arable land_: arable land: 9.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 3.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0.4% (2018 est.)<br>
-_forest_: 18.8% (2018 est.)<br>
-_other_: 67.8% (2018 est.)<br>
+_agricultural land_: 13.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 10.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.2% (2022 est.)<br>
+_forest_: 18.7% (2022 est.)<br>
+_other_: 68% (2022 est.)<br>
 
 **Irrigated land**<br>
-268 sq km (2020)<br>
+269 sq km (2020)<br>
 
 **Population distribution**<br>
 population concentrated in central Nicosia and in the major cities of the south: Paphos, Limassol, and Larnaca<br>
@@ -244,12 +244,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate; Mediterranean with hot, dry summers and cool winters<br>
 
 **Land use**<br>
-_agricultural land_: 13.4% (2018 est.)<br>
-_arable land_: arable land: 9.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 3.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0.4% (2018 est.)<br>
-_forest_: 18.8% (2018 est.)<br>
-_other_: 67.8% (2018 est.)<br>
+_agricultural land_: 13.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 10.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.2% (2022 est.)<br>
+_forest_: 18.7% (2022 est.)<br>
+_other_: 68% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 67% of total population (2023)<br>
@@ -317,8 +317,9 @@ Independence Day, 1 October (1960); note - Turkish Cypriots celebrate 15 Novembe
 mixed legal system of English common law and civil law with European law supremacy<br>
 
 **Constitution**<br>
-_history_: ratified 16 August 1960; note - in 1963, the constitution was partly suspended as Turkish Cypriots withdrew from the government; Turkish-held territory in 1983 was declared the "Turkish Republic of Northern Cyprus" ("TRNC"); in 1985, the "TRNC" approved its own constitution<br>
-_amendments_: constitution of the Republic of Cyprus - proposed by the House of Representatives; passage requires at least two-thirds majority vote of the total membership of the "Greek Community" and the "Turkish Community"; however, all seats of Turkish Cypriot members have remained vacant since 1964; amended many times, last in 2020;<br>constitution of the “Turkish Republic of Northern Cyprus” - proposed by at least 10 members of the "Assembly of the Republic"; passage requires at least two-thirds majority vote of the total Assembly membership and approval by referendum; amended 2014<br>
+_history_: ratified 16 August 1960<br>
+_amendment process_: constitution of the Republic of Cyprus -- proposed by the House of Representatives; passage requires at least two-thirds majority vote of the total membership of the "Greek Community" and the "Turkish Community"; however, all seats of Turkish Cypriot members have remained vacant since 1964<br><br>constitution of the “Turkish Republic of Northern Cyprus” -- proposed by at least 10 members of the "Assembly of the Republic"; passage requires at least two-thirds majority vote of the total Assembly membership and approval by referendum<br>
+<strong>note:</strong> in 1963, the constitution was partly suspended as Turkish Cypriots withdrew from the government; Turkish-held territory in 1983 was declared the "Turkish Republic of Northern Cyprus" ("TRNC"); in 1985, the "TRNC" approved its own constitution<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -354,9 +355,10 @@ _expected date of next election_: May 2026<br>
 <strong>note:</strong> the area of Cyprus that Turkish Cypriots administer has a separate unicameral Assembly of the Republic, or Cumhuriyet Meclisi (50 seats); members are directly elected in multi-seat constituencies by proportional representation vote<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court of Cyprus (consists of 13 judges, including the court president); note - the highest court in the "TRNC" is the "Supreme Court" (consists of 8 "judges," including the "court president")<br>
+_highest court(s)_: Supreme Court of Cyprus (consists of 13 judges, including the court president)<br>
 _judge selection and term of office_: Republic of Cyprus Supreme Court judges appointed by the president of the republic upon the recommendation of the Supreme Court judges; judges can serve until age 68; "TRNC Supreme Court" judges appointed by the "Supreme Council of Judicature," a 12-member body of judges, the attorney general, appointees by the president of the "TRNC," and by the "Legislative Assembly," and members elected by the bar association; judge tenure NA<br>
-_subordinate courts_: Republic of Cyprus district courts; Assize Courts; Administrative Court; specialized courts for issues relating to family, industrial disputes, the military, and rent control; "TRNC Assize Courts"; "district and family courts"<br>
+_subordinate courts_: Republic of Cyprus district courts; Assize Courts; Administrative Court; specialized courts for issues relating to family, industrial disputes, the military, and rent control; "TRNC Assize Courts"; "TNRC district and family courts"<br>
+<strong>note:</strong> the highest court in the TRNC is the Supreme Court (consists of 8 judges, including the court president)<br>
 
 **Political parties**<br>
 <strong>area under government control:</strong> <br>Democratic Front or DIPA <br>Democratic Party or DIKO<br>Democratic Rally or DISY <br>Movement of Ecologists - Citizens' Alliance <br>Movement of Social Democrats EDEK<br>National Popular Front or ELAM <br>Progressive Party of the Working People or AKEL (Communist Party) <br>Solidarity Movement<br><br><strong>area administered by Turkish Cypriots:</strong> <br>Communal Democracy Party or TDP<br>Communal Liberation Party - New Forces or TKP-YG<br>Cyprus Socialist Party or KSP<br>Democratic Party or DP<br>National Democratic Party or NDP<br>National Unity Party or UBP <br>New Cyprus Party or YKP<br>People's Party or HP <br>Rebirth Party or YDP<br>Republican Turkish Party or CTP<br>United Cyprus Party or BKP<br>

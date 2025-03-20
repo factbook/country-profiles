@@ -52,12 +52,12 @@ _mean elevation_: 2 m<br>
 phosphate (production discontinued in 1979), coconuts (copra), fish<br>
 
 **Land use**<br>
-_agricultural land_: 42% (2018 est.)<br>
-_arable land_: arable land: 2.5% (2018 est.)<br>
-_permanent crops_: permanent crops: 39.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 15% (2018 est.)<br>
-_other_: 43% (2018 est.)<br>
+_agricultural land_: 42% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 39.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 1.5% (2022 est.)<br>
+_other_: 56.6% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -234,12 +234,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; marine, hot and humid, moderated by trade winds<br>
 
 **Land use**<br>
-_agricultural land_: 42% (2018 est.)<br>
-_arable land_: arable land: 2.5% (2018 est.)<br>
-_permanent crops_: permanent crops: 39.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 15% (2018 est.)<br>
-_other_: 43% (2018 est.)<br>
+_agricultural land_: 42% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 39.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 1.5% (2022 est.)<br>
+_other_: 56.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 57.8% of total population (2023)<br>
@@ -296,8 +296,8 @@ Independence Day, 12 July (1979)<br>
 English common law supplemented by customary law<br>
 
 **Constitution**<br>
-_history_: The Gilbert and Ellice Islands Order in Council 1915, The Gilbert Islands Order in Council 1975 (preindependence); latest promulgated 12 July 1979 (at independence)<br>
-_amendments_: proposed by the House of Assembly; passage requires two-thirds majority vote by the Assembly membership; passage of amendments affecting the constitutional section on amendment procedures and parts of the constitutional chapter on citizenship requires deferral of the proposal to the next Assembly meeting where approval is required by at least two-thirds majority vote of the Assembly membership and support of the nominated or elected Banaban member of the Assembly; amendments affecting the protection of fundamental rights and freedoms also requires approval by at least two-thirds majority in a referendum; amended several times, last in 2018<br>
+_history_: The Gilbert and Ellice Islands Order in Council 1915, The Gilbert Islands Order in Council 1975 (pre-independence); latest promulgated 12 July 1979 (at independence)<br>
+_amendment process_: proposed by the House of Assembly; passage requires two-thirds majority vote by the Assembly membership; passage of amendments affecting the constitutional section on amendment procedures and parts of the constitutional chapter on citizenship requires deferral of the proposal to the next Assembly meeting where approval is required by at least two-thirds majority vote of the Assembly membership and support of the nominated or elected Banaban member of the Assembly; amendments affecting the protection of fundamental rights and freedoms also requires approval by at least two-thirds majority in a referendum<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -331,7 +331,7 @@ _percentage of women in chamber_: 11.1%<br>
 _expected date of next election_: August 2028<br>
 
 **Judicial branch**<br>
-_highest court(s)_: High Court (consists of a chief justice and other judges as prescribed by the president); note - the High Court has jurisdiction on constitutional issues<br>
+_highest court(s)_: High Court (consists of a chief justice and other judges as prescribed by the president)<br>
 _judge selection and term of office_: chief justice appointed by the president on the advice of the cabinet in consultation with the Public Service Commission (PSC); other judges appointed by the president on the advice of the chief justice along with the PSC<br>
 _subordinate courts_: Court of Appeal; magistrates' courts<br>
 

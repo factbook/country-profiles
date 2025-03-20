@@ -51,12 +51,12 @@ _lowest point_: Dead Sea -431 m<br>
 arable land<br>
 
 **Land use**<br>
-_agricultural land_: 43.3% (2018 est.)<br>
-_arable land_: arable land: 7.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 11% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 24.9% (2018 est.)<br>
-_forest_: 1.5% (2018 est.)<br>
-_other_: 55.2% (2018 est.)<br>
+_agricultural land_: 64.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 46.1% (2022 est.)<br>
+_forest_: 1.7% (2022 est.)<br>
+_other_: 33.4% (2022 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
 **Irrigated land**<br>
@@ -223,12 +223,12 @@ adequacy of freshwater supply; sewage treatment<br>
 temperate; temperature and precipitation vary with altitude, warm to hot summers, cool to mild winters<br>
 
 **Land use**<br>
-_agricultural land_: 43.3% (2018 est.)<br>
-_arable land_: arable land: 7.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 11% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 24.9% (2018 est.)<br>
-_forest_: 1.5% (2018 est.)<br>
-_other_: 55.2% (2018 est.)<br>
+_agricultural land_: 64.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 46.1% (2022 est.)<br>
+_forest_: 1.7% (2022 est.)<br>
+_other_: 33.4% (2022 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
 **Urbanization**<br>

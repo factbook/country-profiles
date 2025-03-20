@@ -50,12 +50,12 @@ _lowest point_: Irish Sea 0 m<br>
 none<br>
 
 **Land use**<br>
-_agricultural land_: 74.7% (2018 est.)<br>
-_arable land_: arable land: 43.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 30.9% (2018 est.)<br>
-_forest_: 6.1% (2018 est.)<br>
-_other_: 19.2% (2018 est.)<br>
+_agricultural land_: 71.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 42.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 29.1% (2022 est.)<br>
+_forest_: 6.1% (2022 est.)<br>
+_other_: 22.5% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -193,12 +193,12 @@ air pollution, marine pollution; waste disposal (both household and industrial)<
 temperate; cool summers and mild winters; overcast about a third of the time<br>
 
 **Land use**<br>
-_agricultural land_: 74.7% (2018 est.)<br>
-_arable land_: arable land: 43.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 30.9% (2018 est.)<br>
-_forest_: 6.1% (2018 est.)<br>
-_other_: 19.2% (2018 est.)<br>
+_agricultural land_: 71.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 42.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 29.1% (2022 est.)<br>
+_forest_: 6.1% (2022 est.)<br>
+_other_: 22.5% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 53.5% of total population (2023)<br>
@@ -247,7 +247,7 @@ the laws of the UK&nbsp;apply where applicable and include Manx statutes<br>
 
 **Constitution**<br>
 _history_: development of the Isle of Man constitution dates to at least the 14th century<br>
-_amendments_: proposed as a bill in the House of Keys, by the "Government," by a "Member of the House," or through petition to the House or Legislative Council; passage normally requires three separate readings and approval of at least 13 House members; following both House and Council agreement, assent is required by the lieutenant governor on behalf of the Crown; the constitution has been expanded and amended many times, last in 2020<br>
+_amendment process_: proposed as a bill in the House of Keys, by the "Government," by a "Member of the House," or through petition to the House or Legislative Council; passage normally requires three separate readings and approval of at least 13 House members; following both House and Council agreement, assent is required by the lieutenant governor on behalf of the Crown<br>
 
 **Citizenship**<br>
 see United Kingdom<br>
@@ -288,9 +288,10 @@ _percentage of women in chamber_: 36.4%<br>
 _expected date of next election_: March 2028<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Isle of Man High Court of Justice (consists of 3 permanent judges or "deemsters" and 1 judge of appeal; organized into the Staff of Government Division or Court of Appeal and the Civil Division); the Court of General Gaol Delivery is not formally part of the High Court but is administered as though part of the High Court and deals with serious criminal cases; note - appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>
+_highest court(s)_: Isle of Man High Court of Justice (consists of 3 permanent judges or "deemsters" and 1 judge of appeal; organized into the Staff of Government Division or Court of Appeal and the Civil Division); the Court of General Gaol Delivery (not formally part of the High Court but is administered as such) deals with serious criminal cases<br>
 _judge selection and term of office_: deemsters appointed by the Lord Chancellor of England on the nomination of the lieutenant governor; deemsters can serve until age 70<br>
 _subordinate courts_: High Court; Court of Summary Gaol Delivery; Summary Courts; Magistrate's Court; specialized courts<br>
+<strong>note</strong>: appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>
 
 **Political parties**<br>
 Green Party <br>Liberal Vannin Party or LVP <br>Manx Labor Party<br>Mec Vannin (sometimes referred to as the Manx Nationalist Party)<br>

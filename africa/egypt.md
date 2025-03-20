@@ -54,12 +54,12 @@ _mean elevation_: 321 m<br>
 petroleum, natural gas, iron ore, phosphates, manganese, limestone, gypsum, talc, asbestos, lead, rare earth elements, zinc<br>
 
 **Land use**<br>
-_agricultural land_: 3.6% (2018 est.)<br>
-_arable land_: arable land: 2.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 0.1% (2018 est.)<br>
-_other_: 96.3% (2018 est.)<br>
+_agricultural land_: 4.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 3.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 0% (2022 est.)<br>
+_other_: 95.9% (2022 est.)<br>
 
 **Irrigated land**<br>
 36,500 sq km (2012)<br>
@@ -254,12 +254,12 @@ _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 desert; hot, dry summers with moderate winters<br>
 
 **Land use**<br>
-_agricultural land_: 3.6% (2018 est.)<br>
-_arable land_: arable land: 2.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 0.1% (2018 est.)<br>
-_other_: 96.3% (2018 est.)<br>
+_agricultural land_: 4.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 3.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 0% (2022 est.)<br>
+_other_: 95.9% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 43.1% of total population (2023)<br>
@@ -332,7 +332,7 @@ mixed legal system based on Napoleonic civil and penal law, Islamic religious la
 
 **Constitution**<br>
 _history_: several previous; latest approved by a constitutional committee in December 2013, approved by referendum held on 14-15 January 2014, ratified by interim president on 19 January 2014<br>
-_amendments_: proposed by the president of the republic or by one fifth of the House of Representatives members; a decision to accept the proposal requires majority vote by House members; passage of amendment requires a two-thirds majority vote by House members and passage by majority vote in a referendum; articles of reelection of the president and principles of freedom are not amendable unless the amendment "brings more guarantees;" amended 2019<br>
+_amendment process_: proposed by the president of the republic or by one fifth of the House of Representatives members; a decision to accept the proposal requires majority vote by House members; passage of amendment requires a two-thirds majority vote by House members and passage by majority vote in a referendum; articles of reelection of the president and principles of freedom are not amendable unless the amendment "brings more guarantees"&nbsp;<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt<br>

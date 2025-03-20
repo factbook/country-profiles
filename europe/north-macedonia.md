@@ -51,12 +51,12 @@ _mean elevation_: 741 m<br>
 low-grade iron ore, copper, lead, zinc, chromite, manganese, nickel, tungsten, gold, silver, asbestos, gypsum, timber, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 44.3% (2018 est.)<br>
-_arable land_: arable land: 16.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 26.5% (2018 est.)<br>
-_forest_: 39.8% (2018 est.)<br>
-_other_: 15.9% (2018 est.)<br>
+_agricultural land_: 49.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 16.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 31.8% (2022 est.)<br>
+_forest_: 39.7% (2022 est.)<br>
+_other_: 10.4% (2022 est.)<br>
 
 **Irrigated land**<br>
 844 sq km (2016)<br>
@@ -238,12 +238,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 warm, dry summers and autumns; relatively cold winters with heavy snowfall<br>
 
 **Land use**<br>
-_agricultural land_: 44.3% (2018 est.)<br>
-_arable land_: arable land: 16.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 26.5% (2018 est.)<br>
-_forest_: 39.8% (2018 est.)<br>
-_other_: 15.9% (2018 est.)<br>
+_agricultural land_: 49.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 16.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 31.8% (2022 est.)<br>
+_forest_: 39.7% (2022 est.)<br>
+_other_: 10.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 59.5% of total population (2023)<br>
@@ -310,7 +310,7 @@ civil law system; judicial review of legislative acts<br>
 
 **Constitution**<br>
 _history_: several previous (since 1944); latest adopted 17 November 1991, effective 20 November 1991<br>
-_amendments_: proposed by the president of the republic, by the government, by at least 30 members of the Assembly, or by petition of at least 150,000 citizens; final approval requires a two-thirds majority vote by the Assembly; amended several times, last in 2019; this amendment was the result of the 2018 Prespa Agreement with Greece, in which the constitutional name of the country would be modified to Republic of North Macedonia in exchange for assurances that Greece would no longer object to its integration in international organizations; note - a referendum on&nbsp; amendments to the constitution is expected in 2024<br>
+_amendment process_: proposed by the president of the republic, by the government, by at least 30 members of the Assembly, or by petition of at least 150,000 citizens; final approval requires a two-thirds majority vote by the Assembly<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>

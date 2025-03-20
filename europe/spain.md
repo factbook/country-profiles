@@ -55,15 +55,15 @@ _mean elevation_: 660 m<br>
 coal, lignite, iron ore, copper, lead, zinc, uranium, tungsten, mercury, pyrites, magnesite, fluorspar, gypsum, sepiolite, kaolin, potash, hydropower, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 54.1% (2018 est.)<br>
-_arable land_: arable land: 24.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 9.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 20.1% (2018 est.)<br>
-_forest_: 36.8% (2018 est.)<br>
-_other_: 9.1% (2018 est.)<br>
+_agricultural land_: 53.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 23.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 10.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 19.8% (2022 est.)<br>
+_forest_: 37.2% (2022 est.)<br>
+_other_: 9.5% (2022 est.)<br>
 
 **Irrigated land**<br>
-37,593 sq km (2020)<br>
+38,012 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
 Tagus river source (shared with Portugal [m]) - 1,006<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -245,12 +245,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate; clear, hot summers in interior, more moderate and cloudy along coast; cloudy, cold winters in interior, partly cloudy and cool along coast<br>
 
 **Land use**<br>
-_agricultural land_: 54.1% (2018 est.)<br>
-_arable land_: arable land: 24.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 9.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 20.1% (2018 est.)<br>
-_forest_: 36.8% (2018 est.)<br>
-_other_: 9.1% (2018 est.)<br>
+_agricultural land_: 53.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 23.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 10.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 19.8% (2022 est.)<br>
+_forest_: 37.2% (2022 est.)<br>
+_other_: 9.5% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 81.6% of total population (2023)<br>
@@ -323,7 +323,7 @@ civil law system with regional variations<br>
 
 **Constitution**<br>
 _history_: several previous; latest approved by the General Courts 31 October 1978, passed by referendum 6 December 1978, signed by the king 27 December 1978, effective 29 December 1978<br>
-_amendments_: proposed by the government, by the General Courts (the Congress or the Senate), or by the self-governing communities submitted through the government; passage requires three-fifths majority vote by both houses and passage by referendum if requested by one tenth of the members of either house; proposals disapproved by both houses are submitted to a joint committee, which submits an agreed upon text for another vote; passage requires two-thirds majority vote in Congress and simple majority vote in the Senate; amended 1992, 2011<br>
+_amendment process_: proposed by the government, by the General Courts (the Congress or the Senate), or by the self-governing communities submitted through the government; passage requires three-fifths majority vote by both houses and passage by referendum if requested by one tenth of the members of either house; proposals disapproved by both houses are submitted to a joint committee, which submits an agreed upon text for another vote; passage requires two-thirds majority vote in Congress and simple majority vote in the Senate<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -373,7 +373,7 @@ _expected date of next election_: July 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Tribunal Supremo (consists of the court president and organized into the Civil Room, with a president and 9 judges; the Penal Room, with a president and 14 judges; the Administrative Room, with a president and 32 judges; the Social Room, with a president and 12 judges; and the Military Room, with a president and 7 judges); Constitutional Court or Tribunal Constitucional de Espana (consists of 12 judges)<br>
-_judge selection and term of office_: Supreme Court judges appointed by the monarch from candidates proposed by the General Council of the Judiciary Power, a 20-member governing board chaired by the monarch that includes presidential appointees, lawyers, and jurists confirmed by the National Assembly; judges can serve until age 70; Constitutional Court judges nominated by the National Assembly, executive branch, and the General Council of the Judiciary, and appointed by the monarch for 9-year terms<br>
+_judge selection and term of office_: Supreme Court judges appointed by the monarch from candidates proposed by the General Council of the Judiciary Power, a 20-member governing board chaired by the monarch; judges can serve until age 70; Constitutional Court judges nominated by the National Assembly, executive branch, and the General Council of the Judiciary, and appointed by the monarch for 9-year terms<br>
 _subordinate courts_: National High Court; High Courts of Justice (in each of the autonomous communities); provincial courts; courts of first instance<br>
 
 **Political parties**<br>

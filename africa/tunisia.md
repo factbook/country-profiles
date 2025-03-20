@@ -53,12 +53,12 @@ _mean elevation_: 246 m<br>
 petroleum, phosphates, iron ore, lead, zinc, salt<br>
 
 **Land use**<br>
-_agricultural land_: 64.8% (2018 est.)<br>
-_arable land_: arable land: 18.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 15.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 31.1% (2018 est.)<br>
-_forest_: 6.6% (2018 est.)<br>
-_other_: 28.6% (2018 est.)<br>
+_agricultural land_: 62.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 18.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 13.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 30.6% (2022 est.)<br>
+_forest_: 4.5% (2022 est.)<br>
+_other_: 33% (2022 est.)<br>
 
 **Irrigated land**<br>
 3,920 sq km (2013)<br>
@@ -243,12 +243,12 @@ _signed, but not ratified_: Marine Life Conservation<br>
 temperate in north with mild, rainy winters and hot, dry summers; desert in south<br>
 
 **Land use**<br>
-_agricultural land_: 64.8% (2018 est.)<br>
-_arable land_: arable land: 18.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 15.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 31.1% (2018 est.)<br>
-_forest_: 6.6% (2018 est.)<br>
-_other_: 28.6% (2018 est.)<br>
+_agricultural land_: 62.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 18.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 13.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 30.6% (2022 est.)<br>
+_forest_: 4.5% (2022 est.)<br>
+_other_: 33% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 70.5% of total population (2023)<br>
@@ -313,7 +313,7 @@ mixed legal system of civil law, based on the French civil code and Islamic (sha
 
 **Constitution**<br>
 _history_: <p>several previous; latest - draft published by the president 30 June 2022, approved by referendum 25 July 2022, and adopted 27 July 2022</p><br>
-_amendments_: proposed by the president of the republic or by one third of the Assembly of the Representatives of the People membership; following review by the Constitutional Court, approval to proceed requires an absolute majority vote by the Assembly and final passage requires a two-thirds Assembly majority vote; the president can opt to submit an amendment to a referendum, which requires an absolute majority of votes cast for passage<br>
+_amendment process_: proposed by the president of the republic or by one third of the Assembly of the Representatives of the People membership; following review by the Constitutional Court, approval to proceed requires an absolute majority vote by the Assembly and final passage requires a two-thirds Assembly majority vote; the president can opt to submit an amendment to a referendum, which requires an absolute majority of votes cast for passage<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -359,8 +359,8 @@ _percentage of women in chamber_: 13%<br>
 _expected date of next election_: April 2029<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Court of Cassation (consists of the first president, chamber presidents, and magistrates and organized into 27 civil and 11 criminal chambers)<br>
-_judge selection and term of office_: Supreme Court judges nominated by the Supreme Judicial Council, an independent 4-part body consisting mainly of elected judges and the remainder legal specialists; judge tenure based on terms of appointment; Constitutional Court (established in the 2014 and 2022 constitutions, but inception has been delayed; note - in mid-February 2022, President SAIED dissolved the Supreme Judicial Council and replaced it with an interim council in early March 2022<br>
+_highest court(s)_: Court of Cassation (consists of the first president, chamber presidents, and magistrates; organized into 27 civil and 11 criminal chambers)<br>
+_judge selection and term of office_: Supreme Court judges nominated by the Supreme Judicial Council, an independent 4-part body consisting mainly of elected judges and the remainder legal specialists; judge tenure based on terms of appointment; Constitutional Court (established in the 2014 and 2022 constitutions, but never implemented)<br>
 _subordinate courts_: Courts of Appeal; administrative courts; Court of Audit; Housing Court; courts of first instance; lower district courts; military courts<br>
 <strong>note:</strong> the Tunisian constitution of January 2014 called for the establishment of a constitutional court by the end of 2015, but the court was never formed; the new constitution of July 2022 calls for the establishment of a constitutional court consisting of 9 members appointed by presidential decree; members to include former senior judges of other courts<br>
 

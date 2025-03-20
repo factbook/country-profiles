@@ -53,11 +53,12 @@ _mean elevation_: 1,112 m<br>
 petroleum, diamonds, iron ore, phosphates, copper, feldspar, gold, bauxite, uranium<br>
 
 **Land use**<br>
-_agricultural land_: 45.7% (2018 est.)<br>
-_arable land_: arable land: 3.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 41.5% (2018 est.)<br>
-_forest_: 54.3% (2018 est.)<br>
+_agricultural land_: 36.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 4.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 32.3% (2022 est.)<br>
+_forest_: 52.5% (2022 est.)<br>
+_other_: 10.6% (2022 est.)<br>
 
 **Irrigated land**<br>
 860 sq km (2014)<br>
@@ -240,11 +241,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 semiarid in south and along coast to Luanda; north has cool, dry season (May to October) and hot, rainy season (November to April)<br>
 
 **Land use**<br>
-_agricultural land_: 45.7% (2018 est.)<br>
-_arable land_: arable land: 3.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 41.5% (2018 est.)<br>
-_forest_: 54.3% (2018 est.)<br>
+_agricultural land_: 36.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 4.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 32.3% (2022 est.)<br>
+_forest_: 52.5% (2022 est.)<br>
+_other_: 10.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 68.7% of total population (2023)<br>
@@ -289,7 +291,7 @@ _conventional short form_: Angola<br>
 _local long form_: Republica de Angola<br>
 _local short form_: Angola<br>
 _former_: People's Republic of Angola<br>
-_etymology_: name derived by the Portuguese from the title "ngola" held by kings of the Ndongo (Ndongo was a kingdom in what is now Angola)<br>
+_etymology_: in the 15th century, Portuguese explorers derived the name from the title "n'gola," which was held by kings of the Ndongo<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -315,7 +317,7 @@ civil legal system based on Portuguese civil law; no judicial review of legislat
 
 **Constitution**<br>
 _history_: previous 1975, 1992; latest passed by National Assembly 21 January 2010, adopted 5 February 2010<br>
-_amendments_: proposed by the president of the republic or supported by at least one third of the National Assembly membership; passage requires at least two-thirds majority vote of the Assembly subject to prior Constitutional Court review if requested by the president of the republic<br>
+_amendment process_: proposed by the president of the republic or supported by at least one third of the National Assembly membership; passage requires at least two-thirds majority vote of the Assembly subject to prior Constitutional Court review if requested by the president of the republic<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>

@@ -53,12 +53,12 @@ _mean elevation_: 207 m<br>
 bauxite, gold, diamonds, hardwood timber, shrimp, fish<br>
 
 **Land use**<br>
-_agricultural land_: 8.4% (2018 est.)<br>
-_arable land_: arable land: 2.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 6.2% (2018 est.)<br>
-_forest_: 77.4% (2018 est.)<br>
-_other_: 14.2% (2018 est.)<br>
+_agricultural land_: 5.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 3% (2022 est.)<br>
+_forest_: 93.5% (2022 est.)<br>
+_other_: 1.2% (2022 est.)<br>
 
 **Irrigated land**<br>
 1,430 sq km (2012)<br>
@@ -242,12 +242,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; hot, humid, moderated by northeast trade winds; two rainy seasons (May to August, November to January)<br>
 
 **Land use**<br>
-_agricultural land_: 8.4% (2018 est.)<br>
-_arable land_: arable land: 2.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 6.2% (2018 est.)<br>
-_forest_: 77.4% (2018 est.)<br>
-_other_: 14.2% (2018 est.)<br>
+_agricultural land_: 5.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 3% (2022 est.)<br>
+_forest_: 93.5% (2022 est.)<br>
+_other_: 1.2% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 27.2% of total population (2023)<br>
@@ -311,7 +311,7 @@ common law system, based on the English model, with some Roman-Dutch civil law i
 
 **Constitution**<br>
 _history_: several previous; latest promulgated 6 October 1980<br>
-_amendments_: proposed by the National Assembly; passage of amendments affecting constitutional articles, such as national sovereignty, government structure and powers, and constitutional amendment procedures, requires approval by the Assembly membership, approval in a referendum, and assent of the president; other amendments only require Assembly approval; amended many times, last in 2016<br>
+_amendment process_: proposed by the National Assembly; passage of amendments affecting constitutional articles, such as national sovereignty, government structure and powers, and constitutional amendment procedures, requires approval by the Assembly membership, approval in a referendum, and assent of the president; other amendments only require Assembly approval<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -347,7 +347,7 @@ _percentage of women in chamber_: 39.4%<br>
 _expected date of next election_: March 2025<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court of Judicature (consists of the Court of Appeal with a chief justice and 3 justices, and the High Court with a chief justice and 10 justices organized into 3- or 5-judge panels); note - in 2009, Guyana acceded to the Caribbean Court of Justice as the final court of appeal in civil and criminal cases, replacing that of the Judicial Committee of the Privy Council (in London)<br>
+_highest court(s)_: Supreme Court of Judicature (consists of the Court of Appeal with a chief justice and 3 justices, and the High Court with a chief justice and 10 justices organized into 3- or 5-judge panels); Caribbean Court of Justice is the final court of appeal in civil and criminal cases<br>
 _judge selection and term of office_: Court of Appeal and High Court chief justices appointed by the president; other judges of both courts appointed by the Judicial Service Commission, a body appointed by the president; judges appointed for life with retirement at age 65<br>
 _subordinate courts_: Land Court; magistrates' courts<br>
 

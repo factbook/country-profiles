@@ -51,15 +51,15 @@ _lowest point_: Pacific Ocean 0 m<br>
 NEGL<br>
 
 **Land use**<br>
-_agricultural land_: 42.8% (2018 est.)<br>
-_arable land_: arable land: 7.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 35.7% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 41.9% (2018 est.)<br>
-_other_: 15.3% (2018 est.)<br>
+_agricultural land_: 42.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 7.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 35.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 41.6% (2022 est.)<br>
+_other_: 15.5% (2022 est.)<br>
 
 **Irrigated land**<br>
-0.6 sq km (2020)<br>
+0.6 sq km (2022)<br>
 
 **Natural hazards**<br>
 cyclones; tsunamis<br>
@@ -190,12 +190,12 @@ deforestation (only small portions of the original forests remain) largely as a 
 tropical; hot, rainy season (November to April); cool, dry season (May to October); rains 250-300 cm per year (80% humidity); average temperature 26.6 degrees Celsius<br>
 
 **Land use**<br>
-_agricultural land_: 42.8% (2018 est.)<br>
-_arable land_: arable land: 7.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 35.7% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 41.9% (2018 est.)<br>
-_other_: 15.3% (2018 est.)<br>
+_agricultural land_: 42.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 7.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 35.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 41.6% (2022 est.)<br>
+_other_: 15.5% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 0% of total population (2023)<br>
@@ -236,7 +236,7 @@ French civil law<br>
 
 **Constitution**<br>
 _history_: 4 October 1958 (French Constitution)<br>
-_amendments_: French constitution amendment procedures apply<br>
+_amendment process_: French constitution amendment procedures apply<br>
 
 **Citizenship**<br>
 see France<br>
@@ -263,9 +263,10 @@ _parties elected and seats per party_: Ofa mo'oni ki tou fenua (2); Mauli fetoko
 <strong>note:</strong> 1 senator is indirectly elected to the French Senate by an electoral college for a 6-year term, and 1 deputy is directly elected to the French National Assembly for a 5-year term<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Court of Assizes or Cour d'Assizes (consists of 1 judge; court hears primarily serious criminal cases); note - appeals beyond the Court of Assizes are heard before the Court of Appeal or Cour d'Appel (in Noumea, New Caledonia)<br>
+_highest court(s)_: Court of Assizes or Cour d'Assizes (consists of 1 judge; court hears primarily serious criminal cases)<br>
 _judge selection and term of office_: NA<br>
-_subordinate courts_: courts of first instance; labor court; note - justice generally administered under French law by the high administrator, but the 3 traditional kings administer customary law, and there is a magistrate in Mata-Utu<br>
+_subordinate courts_: courts of first instance; labor court<br>
+<strong>note 1</strong>: appeals beyond the Court of Assizes are heard before the Court of Appeal or Cour d'Appel (in Noumea, New Caledonia)<br><br><strong>note 2</strong>: justice is generally administered under French law by the high administrator, but the 3 traditional kings administer customary law<br>
 
 **Political parties**<br>
 Left Radical Party or PRG (formerly Radical Socialist Party or PRS and the Left Radical Movement or MRG)<br>Lua Kae Tahi (Giscardians)<br>Rally for Wallis and Futuna-The Republicans (Rassemblement pour Wallis and Futuna) or RPWF-LR <br>Socialist Party or PS<br>Taumu'a Lelei <br>Union Pour la Democratie Francaise or UDF<br>

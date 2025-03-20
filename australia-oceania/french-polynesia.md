@@ -50,12 +50,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 timber, fish, cobalt, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 12.5% (2018 est.)<br>
-_arable land_: arable land: 0.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 6.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 5.5% (2018 est.)<br>
-_forest_: 43.7% (2018 est.)<br>
-_other_: 43.8% (2018 est.)<br>
+_agricultural land_: 14% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 7.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5.8% (2022 est.)<br>
+_forest_: 43.1% (2022 est.)<br>
+_other_: 43% (2022 est.)<br>
 
 **Irrigated land**<br>
 10 sq km (2012)<br>
@@ -196,12 +196,12 @@ sea level rise; extreme weather events (cyclones, storms, and tsunamis producing
 tropical, but moderate<br>
 
 **Land use**<br>
-_agricultural land_: 12.5% (2018 est.)<br>
-_arable land_: arable land: 0.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 6.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 5.5% (2018 est.)<br>
-_forest_: 43.7% (2018 est.)<br>
-_other_: 43.8% (2018 est.)<br>
+_agricultural land_: 14% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 7.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5.8% (2022 est.)<br>
+_forest_: 43.1% (2022 est.)<br>
+_other_: 43% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 62.3% of total population (2023)<br>
@@ -251,7 +251,7 @@ the laws of France, where applicable, apply<br>
 
 **Constitution**<br>
 _history_: 4 October 1958 (French Constitution)<br>
-_amendments_: French constitution amendment procedures apply<br>
+_amendment process_: French constitution amendment procedures apply<br>
 
 **Citizenship**<br>
 see France<br>
@@ -279,9 +279,10 @@ _expected date of next election_: 2028<br>
 <strong>note 1:</strong> elections held in two rounds; in the second round, 38 members are directly elected in multi-seat constituencies by a closed-list proportional representation vote; the party receiving the most votes gets an additional 19 seats<br><br><strong>note 2:</strong> French Polynesia indirectly elects 2 senators to the French Senate for 6-year terms with one-half the membership renewed every 3 years and directly elects 3 deputies to the French National Assembly for 5-year terms<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Court of Appeal or Cour d'Appel (composition NA); note - appeals beyond the French Polynesia Court of Appeal are heard by the Court of Cassation (in Paris)<br>
-_judge selection and term of office_: judges assigned from France normally for 3 years<br>
-_subordinate courts_: Court of the First Instance or Tribunal de Premiere Instance; Court of Administrative Law or Tribunal Administratif<br>
+_highest court(s)_: Court of Appeal or Cour d'Appel (composition NA)<br>
+_judge selection and term of office_: judges assigned from France for 3 years<br>
+_subordinate courts_: Court of the First Instance or Tribunal de Premi&egrave;re Instance; Court of Administrative Law or Tribunal Administratif<br>
+<strong>note: </strong>appeals beyond the French Polynesia Court of Appeal are heard by the Court of Cassation (in Paris)<br>
 
 **Political parties**<br>
 I Love Polynesia (A here la Porinetia) <br>List of the People (Tapura Huiraatira) <br>People's Servant Party (Tavini Huiraatira) <br>Rally of the Maohi People (Amuitahiraʻa o te Nunaʻa Maohi) (formerly known as Popular Rally (Tahoeraa Huiraatira))<br>

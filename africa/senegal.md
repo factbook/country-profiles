@@ -54,12 +54,12 @@ _mean elevation_: 69 m<br>
 fish, phosphates, iron ore<br>
 
 **Land use**<br>
-_agricultural land_: 46.8% (2018 est.)<br>
-_arable land_: arable land: 17.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 29.1% (2018 est.)<br>
-_forest_: 43.8% (2018 est.)<br>
-_other_: 9.4% (2018 est.)<br>
+_agricultural land_: 49.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 19.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 29.1% (2022 est.)<br>
+_forest_: 41.5% (2022 est.)<br>
+_other_: 9.1% (2022 est.)<br>
 
 **Irrigated land**<br>
 1,200 sq km (2012)<br>
@@ -251,12 +251,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; hot, humid; rainy season (May to November) has strong southeast winds; dry season (December to April) dominated by hot, dry, harmattan wind<br>
 
 **Land use**<br>
-_agricultural land_: 46.8% (2018 est.)<br>
-_arable land_: arable land: 17.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 29.1% (2018 est.)<br>
-_forest_: 43.8% (2018 est.)<br>
-_other_: 9.4% (2018 est.)<br>
+_agricultural land_: 49.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 19.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 29.1% (2022 est.)<br>
+_forest_: 41.5% (2022 est.)<br>
+_other_: 9.1% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 49.6% of total population (2023)<br>
@@ -329,7 +329,7 @@ civil law system based on French law; judicial review of legislative acts in Con
 
 **Constitution**<br>
 _history_: previous 1959 (pre-independence), 1963; latest adopted by referendum 7 January 2001, promulgated 22 January 2001<br>
-_amendments_: proposed by the president of the republic&nbsp;or by the National Assembly; passage requires Assembly approval and approval in a referendum; the president can bypass a referendum and submit an amendment directly to the Assembly, which requires at least three-fifths majority vote; the republican form of government is not amendable; amended several times, last in 2019<br>
+_amendment process_: proposed by the president of the republic or by the National Assembly; passage requires Assembly approval and approval in a referendum; the president can bypass a referendum and submit an amendment directly to the Assembly, which requires at least three-fifths majority vote; the republican form of government is not amendable<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -363,8 +363,8 @@ _percentage of women in chamber_: 41.2%<br>
 _expected date of next election_: November 2029<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court or <em>Cour Suprême  </em>(consists of the court president and 12 judges and organized into civil and commercial, criminal, administrative, and social chambers); Constitutional Council or <em>Conseil Constitutionnel </em> (consists of 7 members, including the court president, vice president, and 5 judges)<br>
-_judge selection and term of office_: Supreme Court judges appointed by the president of the republic upon recommendation of the Superior Council of the Magistrates, a body chaired by the president and minister of justice; judge tenure varies, with mandatory retirement either at 65 or 68 years; Constitutional Council members appointed - 5 by the president and 2 by the National Assembly speaker; judges serve 6-year terms, with renewal of 2 members every 2 years<br>
+_highest court(s)_: Supreme Court or Cour Supr&ecirc;me (consists of the court president and 12 judges and organized into civil and commercial, criminal, administrative, and social chambers); Constitutional Council or Conseil Constitutionnel&nbsp;(consists of 7 members, including the court president, vice president, and 5 judges)<br>
+_judge selection and term of office_: Supreme Court judges appointed by the president of the republic upon recommendation of the Superior Council of the Magistrates, a body chaired by the president and minister of justice; judge tenure varies, with mandatory retirement either at 65 or 68 years; Constitutional Council members are appointed, 5 by the president and 2 by the National Assembly speaker; judges serve 6-year terms, with renewal of 2 members every 2 years<br>
 _subordinate courts_: High Court of Justice (for crimes of high treason by the president); Courts of Appeal; Court of Auditors; assize courts; regional and district courts; Labor Court<br>
 
 **Political parties**<br>

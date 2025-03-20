@@ -51,12 +51,12 @@ _mean elevation_: 325 m<br>
 iron ore (no longer exploited), arable land<br>
 
 **Land use**<br>
-_agricultural land_: 50.7% (2018 est.)<br>
-_arable land_: arable land: 24% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 26.1% (2018 est.)<br>
-_forest_: 33.5% (2018 est.)<br>
-_other_: 15.8% (2018 est.)<br>
+_agricultural land_: 51.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 24.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 26.7% (2022 est.)<br>
+_forest_: 34.5% (2022 est.)<br>
+_other_: 14.2% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2012)<br>
@@ -236,12 +236,12 @@ _signed, but not ratified_: Environmental Modification<br>
 modified continental with mild winters, cool summers<br>
 
 **Land use**<br>
-_agricultural land_: 50.7% (2018 est.)<br>
-_arable land_: arable land: 24% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 26.1% (2018 est.)<br>
-_forest_: 33.5% (2018 est.)<br>
-_other_: 15.8% (2018 est.)<br>
+_agricultural land_: 51.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 24.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 26.7% (2022 est.)<br>
+_forest_: 34.5% (2022 est.)<br>
+_other_: 14.2% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 92.1% of total population (2023)<br>
@@ -311,7 +311,7 @@ civil law system<br>
 
 **Constitution**<br>
 _history_: previous 1842 (heavily amended 1848, 1856); latest effective 17 October 1868<br>
-_amendments_: proposed by the Chamber of Deputies or by the monarch to the Chamber; passage requires at least two-thirds majority vote by the Chamber in two successive readings three months apart; a referendum can be substituted for the second reading if approved by more than a quarter of the Chamber members or by 25,000 valid voters; adoption by referendum requires a majority of all valid voters; amended many times, last in 2020<br>
+_amendment process_: proposed by the Chamber of Deputies or by the monarch to the Chamber; passage requires at least two-thirds majority vote by the Chamber in two successive readings three months apart; a referendum can be substituted for the second reading if approved by more than a quarter of the Chamber members or by 25,000 valid voters; adoption by referendum requires a majority of all valid voters<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction<br>

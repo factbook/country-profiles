@@ -54,12 +54,12 @@ _mean elevation_: 460 m<br>
 petroleum, natural gas, iron ore, copper, lead, zinc, titanium, pyrites, nickel, fish, timber, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 2.7% (2018 est.)<br>
-_arable land_: arable land: 2.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0.5% (2018 est.)<br>
-_forest_: 27.8% (2018 est.)<br>
-_other_: 69.5% (2018 est.)<br>
+_agricultural land_: 2.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.5% (2022 est.)<br>
+_forest_: 33.5% (2022 est.)<br>
+_other_: 63.8% (2022 est.)<br>
 
 **Irrigated land**<br>
 337 sq km (2016)<br>
@@ -243,12 +243,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate along coast, modified by North Atlantic Current; colder interior with increased precipitation and colder summers; rainy year-round on west coast<br>
 
 **Land use**<br>
-_agricultural land_: 2.7% (2018 est.)<br>
-_arable land_: arable land: 2.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0.5% (2018 est.)<br>
-_forest_: 27.8% (2018 est.)<br>
-_other_: 69.5% (2018 est.)<br>
+_agricultural land_: 2.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.5% (2022 est.)<br>
+_forest_: 33.5% (2022 est.)<br>
+_other_: 63.8% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 84% of total population (2023)<br>
@@ -319,7 +319,7 @@ mixed legal system of civil, common, and customary law; Supreme Court can advise
 
 **Constitution**<br>
 _history_: drafted spring 1814, adopted 16 May 1814, signed by Constituent Assembly 17 May 1814<br>
-_amendments_: proposals submitted by members of Parliament or by the government within the first three years of Parliament's four-year term; passage requires two-thirds majority vote of a two-thirds quorum in the next elected Parliament; amended over 400 times, last in 2023<br>
+_amendment process_: proposals submitted by members of Parliament or by the government within the first three years of Parliament's four-year term; passage requires two-thirds majority vote of a two-thirds quorum in the next elected Parliament<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -353,8 +353,9 @@ _expected date of next election_: September 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Hoyesterett (consists of the chief justice and 18 associate justices)<br>
-_judge selection and term of office_: justices appointed by the monarch (King in Council) upon the recommendation of the Judicial Appointments Board; justices can serve until mandatory retirement at age 70<br>
-_subordinate courts_: Courts of Appeal or Lagmennsrett; regional and district courts; Conciliation Boards; ordinary and special courts; note - in addition to professionally trained judges, elected lay judges sit on the bench with professional judges in the Courts of Appeal and district courts<br>
+_judge selection and term of office_: justices appointed by the monarch (King in Council) on the recommendation of the Judicial Appointments Board; justices can serve until mandatory retirement at age 70<br>
+_subordinate courts_: Courts of Appeal or Lagmennsrett; regional and district courts; Conciliation Boards; ordinary and special courts<br>
+<strong>note</strong>: in addition to professionally trained judges, elected lay judges sit on the bench with professional judges in the Courts of Appeal and district courts<br>
 
 **Political parties**<br>
 <p>Center Party or Sp <br>Christian Democratic Party or KrF <br>Conservative Party or H <br>Green Party or MDG <br>Labor Party or Ap <br>Liberal Party or V<br>Patient Focus or PF <br>Progress Party or FrP <br>Red Party or R <br>Socialist Left Party or SV </p><br>

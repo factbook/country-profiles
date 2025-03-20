@@ -60,12 +60,12 @@ _mean elevation_: 375 m<br>
 <em>metropolitan France:</em> coal, iron ore, bauxite, zinc, uranium, antimony, arsenic, potash, feldspar, fluorspar, gypsum, timber, arable land, fish; <em>French Guiana</em><em>:</em> gold deposits, petroleum, kaolin, niobium, tantalum, clay<br>
 
 **Land use**<br>
-_agricultural land_: 52.7% (2018 est.)<br>
-_arable land_: arable land: 33.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 17.5% (2018 est.)<br>
-_forest_: 29.2% (2018 est.)<br>
-_other_: 18.1% (2018 est.)<br>
+_agricultural land_: 51.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 34.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.9% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 15.7% (2022 est.)<br>
+_forest_: 31.8% (2022 est.)<br>
+_other_: 16.5% (2022 est.)<br>
 
 **Irrigated land**<br>
 14,236 sq km (2020)<br>
@@ -258,12 +258,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 <strong>French Guiana:</strong> tropical; hot, humid; little seasonal temperature variation <br><br><strong>Guadeloupe and Martinique:</strong> subtropical tempered by trade winds; moderately high humidity; rainy season (June to October); vulnerable to devastating cyclones (hurricanes) every eight years on average <br><br><strong>Mayotte:</strong> tropical; marine; hot, humid, rainy season during northeastern monsoon (November to May); dry season is cooler (May to November) <br><br><strong>Reunion:</strong> tropical, but temperature moderates with elevation; cool and dry (May to November), hot and rainy (November to April)<br>
 
 **Land use**<br>
-_agricultural land_: 52.7% (2018 est.)<br>
-_arable land_: arable land: 33.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 17.5% (2018 est.)<br>
-_forest_: 29.2% (2018 est.)<br>
-_other_: 18.1% (2018 est.)<br>
+_agricultural land_: 51.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 34.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.9% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 15.7% (2022 est.)<br>
+_forest_: 31.8% (2022 est.)<br>
+_other_: 16.5% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 81.8% of total population (2023)<br>
@@ -347,7 +347,7 @@ civil law; review of administrative but not legislative acts<br>
 
 **Constitution**<br>
 _history_: many previous; latest effective 4 October 1958<br>
-_amendments_: proposed by the president of the republic (upon recommendation of the prime minister and Parliament) or by Parliament; proposals submitted by Parliament members require passage by both houses followed by approval in a referendum; passage of proposals submitted by the government can bypass a referendum if submitted by the president to Parliament and passed by at least three-fifths majority vote by Parliament&rsquo;s National Assembly; amended many times, last in 2008<br>
+_amendment process_: proposed by the president of the republic (upon recommendation of the prime minister and Parliament) or by Parliament; proposals submitted by Parliament members require passage by both houses followed by approval in a referendum; passage of proposals submitted by the government can bypass a referendum if submitted by the president to Parliament and passed by at least three-fifths majority vote by Parliament&rsquo;s National Assembly<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -394,10 +394,9 @@ _expected date of next election_: September 2026<br>
 <strong>note 1:</strong> of the 348 Senate seats, 328 seats are for metropolitan France, overseas departments, and regions of Guadeloupe, Martinique, French Guiana, Reunion, and Mayotte; the remainder of the seats include 2 for New Caledonia, 2 for French Polynesia, 1 for Saint-Pierre and Miquelon, 1 for Saint-Barthelemy, 1 for Saint-Martin, 1 for Wallis and Futuna, and 12 for French nationals abroad<br><strong><br>note 2:</strong> Senate members are indirectly elected by departmental electoral colleges, using absolute majority vote in two rounds if needed for departments with 1-3 members, and proportional representation vote in departments with 4 or more members<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Court of Cassation or Cour de Cassation (consists of the court president, 6 divisional presiding judges, 120 trial judges, and 70 deputy judges organized into 6 divisions - 3 civil, 1 commercial, 1 labor, and 1 criminal); Constitutional Council (consists of 9 members)<br>
-_judge selection and term of office_: Court of Cassation judges appointed by the president of the republic from nominations from the High Council of the Judiciary, presided over by the Court of Cassation and 15 appointed members; judges appointed for life; Constitutional Council members - 3 appointed by the president of the republic and 3 each by the National Assembly and Senate presidents; members serve 9-year, non-renewable terms with one-third of the membership renewed every 3 years<br>
-_subordinate courts_: appellate courts or Cour d'Appel; regional courts or Tribunal de Grande Instance; first instance courts or Tribunal d'instance; administrative courts<br>
-<strong>note:</strong> in April 2021, the French Government submitted a bill on judicial reform to Parliament<br>
+_highest court(s)_: Court of Cassation or Cour de Cassation (consists of the court president, 6 divisional presiding judges, 120 trial judges, and 70 deputy judges organized into 6 divisions -- 3 civil, 1 commercial, 1 labor, and 1 criminal); Constitutional Council (consists of 9 members)<br>
+_judge selection and term of office_: Court of Cassation judges appointed by the president of the republic from nominations from the High Council of the Judiciary, presided over by the Court of Cassation and 15 appointed members; judges appointed for life; Constitutional Council has 3 members appointed by the president of the republic and 3 each by the National Assembly and Senate presidents; members serve 9-year, non-renewable terms with one third of the membership renewed every 3 years<br>
+_subordinate courts_: appellate courts or cours d'appel; regional courts or tribunaux judiciaires; first instance courts or tribunaux de proximit&eacute;; administrative courts<br>
 
 **Political parties**<br>
 Citizen and Republican Movement or MRC <br>Debout la France or DLF <br>Democratic Movement or MoDem <br>Ensemble or ENS (electoral coalition including RE, MoDem, Horizons, PRV, UDI)<br>The Ecologists - the Greens or EELV<br>French Communist Party or PCF <br>Horizons <br>La France Insoumise or FI <br>Liberties, Independents, Overseas and Territories or LIOT <br>Movement of Progressives or MDP <br>National Rally or RN (formerly National Front or FN)<br>New Democrats or LND (formerly Ecology Democracy Solidarity or EDS)<br>New Popular Front or NFP (electoral coalition including FI, EELV, PS, PCF)<br>Radical Party of the Left or PRV <br>Reconquete or REC <br>Renaissance or RE <br>Résistons! <br>Socialist Party or PS <br>The Republicans or LR <br>Union of Democrats and Independents or UDI<br>Union of Far Right or UXD (electoral coalition of LR, RN)<br>

@@ -51,12 +51,12 @@ _mean elevation_: 1,138 m<br>
 copper, cobalt, zinc, lead, coal, emeralds, gold, silver, uranium, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 31.7% (2018 est.)<br>
-_arable land_: arable land: 4.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 26.9% (2018 est.)<br>
-_forest_: 66.3% (2018 est.)<br>
-_other_: 2% (2018 est.)<br>
+_agricultural land_: 32.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 5.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 26.9% (2022 est.)<br>
+_forest_: 59.8% (2022 est.)<br>
+_other_: 8.2% (2022 est.)<br>
 
 **Irrigated land**<br>
 1,560 sq km (2012)<br>
@@ -250,12 +250,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; modified by altitude; rainy season (October to April)<br>
 
 **Land use**<br>
-_agricultural land_: 31.7% (2018 est.)<br>
-_arable land_: arable land: 4.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 26.9% (2018 est.)<br>
-_forest_: 66.3% (2018 est.)<br>
-_other_: 2% (2018 est.)<br>
+_agricultural land_: 32.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 5.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 26.9% (2022 est.)<br>
+_forest_: 59.8% (2022 est.)<br>
+_other_: 8.2% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 46.3% of total population (2023)<br>
@@ -329,7 +329,7 @@ mixed legal system of English common law and customary law<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 24 August 1991, promulgated 30 August 1991<br>
-_amendments_: proposed by the National Assembly; passage requires two-thirds majority vote by the Assembly in two separate readings at least 30 days apart; passage of amendments affecting fundamental rights and freedoms requires approval by at least one half of votes cast in a referendum prior to consideration and voting by the Assembly; amended 1996, 2015, 2016; note - in late 2020, an amendment which would have altered the structure of the constitution was defeated in the National Assembly<br>
+_amendment process_: proposed by the National Assembly; passage requires two-thirds majority vote by the Assembly in two separate readings at least 30 days apart; passage of amendments affecting fundamental rights and freedoms requires approval by at least one half of votes cast in a referendum prior to consideration and voting by the Assembly<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -363,7 +363,7 @@ _percentage of women in chamber_: 15%<br>
 _expected date of next election_: August 2026<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court (consists of the chief justice, deputy chief justice, and at least 11 judges); Constitutional Court (consists of the court president, vice president, and 11 judges); note - the Constitutional Court began operation in June 2016<br>
+_highest court(s)_: Supreme Court (consists of the chief justice, deputy chief justice, and at least 11 judges); Constitutional Court (consists of the court president, vice president, and 11 judges)<br>
 _judge selection and term of office_: Supreme Court and Constitutional Court judges appointed by the president of the republic upon the advice of the 9-member Judicial Service Commission, which is headed by the chief justice, and ratified by the National Assembly; judges normally serve until age 65<br>
 _subordinate courts_: Court of Appeal; High Court; Industrial Relations Court; subordinate courts (3 levels, based on upper limit of money involved); Small Claims Court; local courts (2 grades, based on upper limit of money involved)<br>
 

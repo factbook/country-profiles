@@ -52,15 +52,15 @@ _mean elevation_: 708 m<br>
 petroleum, natural gas, coal, bauxite, chromite, copper, iron ore, nickel, salt, timber, hydropower, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 42.8% (2018 est.)<br>
-_arable land_: arable land: 22.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 17.4% (2018 est.)<br>
-_forest_: 28.8% (2018 est.)<br>
-_other_: 28.2% (2018 est.)<br>
+_agricultural land_: 41.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 21.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 16.4% (2022 est.)<br>
+_forest_: 28.8% (2022 est.)<br>
+_other_: 29.8% (2022 est.)<br>
 
 **Irrigated land**<br>
-1,820 sq km (2020)<br>
+1,907 sq km (2022)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lake Scutari (shared with Montenegro) - 400 sq km<br>note - largest lake in the Balkans<br>
@@ -248,12 +248,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 mild temperate; cool, cloudy, wet winters; hot, clear, dry summers; interior is cooler and wetter<br>
 
 **Land use**<br>
-_agricultural land_: 42.8% (2018 est.)<br>
-_arable land_: arable land: 22.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 17.4% (2018 est.)<br>
-_forest_: 28.8% (2018 est.)<br>
-_other_: 28.2% (2018 est.)<br>
+_agricultural land_: 41.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 21.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 16.4% (2022 est.)<br>
+_forest_: 28.8% (2022 est.)<br>
+_other_: 29.8% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 64.6% of total population (2023)<br>
@@ -295,7 +295,7 @@ _conventional short form_: Albania<br>
 _local long form_: Republika e Shqiperise<br>
 _local short form_: Shqiperia<br>
 _former_: People's Socialist Republic of Albania<br>
-_etymology_: the English-language country name seems to be derived from the ancient Illyrian tribe of the Albani; the native name "Shqiperia" is derived from the Albanian word "Shqiponje" ("Eagle") and is popularly interpreted to mean "Land of the Eagles"<br>
+_etymology_: name may be derived from the pre-Celtic word <em>alb</em>, meaning "hill," or from the Indo-European root word <em>albh</em>, meaning "white;" the local name "Shqiperia" is derived from the Albanian word <em>shqiponje </em>("eagle") and is popularly interpreted to mean "Land of the Eagles"<br>
 
 **Government type**<br>
 parliamentary republic<br>
@@ -321,7 +321,7 @@ civil law system except in the northern rural areas where customary law known as
 
 **Constitution**<br>
 _history_: several previous; latest approved by the Assembly 21 October 1998, adopted by referendum 22 November 1998, promulgated 28 November 1998<br>
-_amendments_: proposed by at least one-fifth of the Assembly membership; passage requires at least a two-thirds majority vote by the Assembly; referendum required only if approved by two-thirds of the Assembly; amendments approved by referendum effective upon declaration by the president of the republic; amended several times, last in 2020<br>
+_amendment process_: proposed by at least one-fifth of the Assembly membership; passage requires at least a two-thirds majority vote by the Assembly; referendum required only if approved by two-thirds of the Assembly; amendments approved by referendum effective upon declaration by the president of the republic<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>

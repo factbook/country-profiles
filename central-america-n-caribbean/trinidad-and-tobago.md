@@ -54,12 +54,12 @@ _mean elevation_: 83 m<br>
 petroleum, natural gas, asphalt<br>
 
 **Land use**<br>
-_agricultural land_: 10.6% (2018 est.)<br>
-_arable land_: arable land: 4.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 4.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 1.4% (2018 est.)<br>
-_forest_: 44% (2018 est.)<br>
-_other_: 45.4% (2018 est.)<br>
+_agricultural land_: 10.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 4.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 4.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 1.4% (2022 est.)<br>
+_forest_: 44.3% (2022 est.)<br>
+_other_: 45.2% (2022 est.)<br>
 
 **Irrigated land**<br>
 70 sq km (2012)<br>
@@ -221,12 +221,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; rainy season (June to December)<br>
 
 **Land use**<br>
-_agricultural land_: 10.6% (2018 est.)<br>
-_arable land_: arable land: 4.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 4.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 1.4% (2018 est.)<br>
-_forest_: 44% (2018 est.)<br>
-_other_: 45.4% (2018 est.)<br>
+_agricultural land_: 10.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 4.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 4.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 1.4% (2022 est.)<br>
+_forest_: 44.3% (2022 est.)<br>
+_other_: 45.2% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 53.4% of total population (2023)<br>
@@ -284,7 +284,7 @@ English common law; judicial review of legislative acts in the Supreme Court<br>
 
 **Constitution**<br>
 _history_: previous 1962; latest 1976<br>
-_amendments_: proposed by Parliament; passage of amendments affecting constitutional provisions, such as human rights and freedoms or citizenship, requires at least two-thirds majority vote by the membership of both houses and assent of the president; passage of amendments, such as the powers and authorities of the executive, legislative, and judicial branches of government, and the procedure for amending the constitution, requires at least three-quarters majority vote by the House membership, two-thirds majority vote by the Senate membership, and assent of the president; amended many times, last in 2007<br>
+_amendment process_: proposed by Parliament; passage of amendments affecting constitutional provisions, such as human rights and freedoms or citizenship, requires at least two-thirds majority vote by the membership of both houses and assent of the president; passage of amendments, such as the powers and authorities of the executive, legislative, and judicial branches of government, and the procedure for amending the constitution, requires at least three-quarters majority vote by the House membership, two-thirds majority vote by the Senate membership, and assent of the president<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -300,7 +300,7 @@ _residency requirement for naturalization_: 8 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Christine KANGALOO (since 20 March 2023)<br>
-_head of government_: Prime Minister Keith ROWLEY (since 9 September 2015); note - on 26 February 2025, Prime Minister ROWLEY announced that he will be resigning on 16 March 2025<br>
+_head of government_: Prime Minister Stuart Richard YOUNG (since 17 March 2025)<br>
 _cabinet_: Cabinet appointed from among members of Parliament<br>
 _elections/appointments_: president indirectly elected by an electoral college of selected Senate and House of Representatives members for a 5-year term (eligible for a second term); election last held on 20 January 2023 (next to be held by February 2028); the president usually appoints the leader of the majority party in the House of Representatives as prime minister<br>
 _election results_: <em>2023: </em>Christine KANGALOO elected president by the electoral college on 20 January 2023; electoral college vote  Christine KANGALOO (PNM) 48, Israel KHAN (UNC) 22<br><br><em>2018: </em>Paula-Mae WEEKES (independent) elected president; ran unopposed and was elected without a vote; she was Trinidad and Tabago's first female head of state<br>
@@ -331,9 +331,10 @@ _percentage of women in chamber_: 32.3%<br>
 _expected date of next election_: August 2025<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court of the Judicature (consists of a chief justice for both the Court of Appeal with 12 judges and the High Court with 24 judges); note - Trinidad and Tobago can file appeals beyond its Supreme Court to the Caribbean Court of Justice, with final appeal to the Judicial Committee of the Privy Council (in London)<br>
+_highest court(s)_: Supreme Court of the Judicature (consists of a chief justice for both the Court of Appeal with 12 judges and the High Court with 24 judges)<br>
 _judge selection and term of office_: Supreme Court chief justice appointed by the president after consultation with the prime minister and the parliamentary leader of the opposition; other judges appointed by the Judicial Legal Services Commission, headed by the chief justice and 5 members with judicial experience; all judges serve for life with mandatory retirement normally at age 65<br>
 _subordinate courts_: Courts of Summary Criminal Jurisdiction; Petty Civil Courts; Family Court<br>
+<strong>note</strong>: Trinidad and Tobago can file appeals beyond its Supreme Court to the Caribbean Court of Justice, with final appeal to the Judicial Committee of the Privy Council (in London)<br>
 
 **Political parties**<br>
 People's National Movement or PNM<br>United National Congress or UNC<br>Tobago People’s Party or Tobago<br>

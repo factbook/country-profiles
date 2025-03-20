@@ -53,12 +53,12 @@ _mean elevation_: 298 m<br>
 gold, silver, copper, tungsten, lead, zinc, timber, fish<br>
 
 **Land use**<br>
-_agricultural land_: 42.2% (2018 est.)<br>
-_arable land_: arable land: 12.5% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 27.2% (2018 est.)<br>
-_forest_: 25.3% (2018 est.)<br>
-_other_: 32.5% (2018 est.)<br>
+_agricultural land_: 42.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 12.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.4% (2022 est.)<br>
+_forest_: 26.7% (2022 est.)<br>
+_other_: 31% (2022 est.)<br>
 
 **Irrigated land**<br>
 1,990 sq km (2012)<br>
@@ -231,12 +231,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical in lowlands, cooler in highlands<br>
 
 **Land use**<br>
-_agricultural land_: 42.2% (2018 est.)<br>
-_arable land_: arable land: 12.5% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 27.2% (2018 est.)<br>
-_forest_: 25.3% (2018 est.)<br>
-_other_: 32.5% (2018 est.)<br>
+_agricultural land_: 42.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 12.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.4% (2022 est.)<br>
+_forest_: 26.7% (2022 est.)<br>
+_other_: 31% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 59.8% of total population (2023)<br>
@@ -303,7 +303,7 @@ civil law system; Supreme Court may review administrative acts<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 19 November 1986, effective 9 January 1987<br>
-_amendments_: proposed by the president of the republic or assent of at least half of the National Assembly membership; passage requires approval by 60% of the membership of the next elected Assembly and promulgation by the president of the republic; amended several times, last in 2025<br>
+_amendment process_: proposed by the president of the republic or assent of at least half of the National Assembly membership; passage requires approval by 60% of the membership of the next elected Assembly and promulgation by the president of the republic<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt<br>

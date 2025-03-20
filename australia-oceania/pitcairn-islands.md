@@ -51,9 +51,9 @@ miro trees (used for handicrafts), fish<br>
 <strong>note: </strong>manganese, iron, copper, gold, silver, and zinc have been discovered offshore<br>
 
 **Land use**<br>
-_agricultural land_: 0% (2011 est.)<br>
-_forest_: 74.5% (2018 est.)<br>
-_other_: 25.5% (2018 est.)<br>
+_agricultural land_: 0% (2022 est.)<br>
+_forest_: 74.5% (2022 est.)<br>
+_other_: 25.5% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -100,9 +100,9 @@ deforestation (only a small portion of the original forest remains because of bu
 tropical; hot and humid; modified by southeast trade winds; rainy season (November to March)<br>
 
 **Land use**<br>
-_agricultural land_: 0% (2011 est.)<br>
-_forest_: 74.5% (2018 est.)<br>
-_other_: 25.5% (2018 est.)<br>
+_agricultural land_: 0% (2022 est.)<br>
+_forest_: 74.5% (2022 est.)<br>
+_other_: 25.5% (2022 est.)<br>
 
 ## Government
 
@@ -165,9 +165,10 @@ _expected date of next election_: N/A<br>
 <strong>note:</strong> the Council includes 5 councilors, the mayor, and the deputy mayor (who are elected by popular vote) and 3 ex officio non-voting members -- the administrator, who serves as both the head of government and the representative of the governor of Pitcairn Islands, the governor, and the deputy governor<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Pitcairn Court of Appeal (consists of the court president, 2 judges, and the Supreme Court chief justice, an ex-officio member); Pitcairn Supreme Court (consists of the chief justice and 2 judges); note - appeals beyond the Pitcairn Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>
+_highest court(s)_: Pitcairn Court of Appeal (consists of the court president, 2 judges, and the Supreme Court chief justice, an ex-officio member); Pitcairn Supreme Court (consists of the chief justice and 2 judges)<br>
 _judge selection and term of office_: all judges of both courts appointed by the governor of the Pitcairn Islands on the instructions of the British monarch through the Secretary of State; all judges can serve until retirement, normally at age 75<br>
 _subordinate courts_: Magistrate's Court<br>
+<strong>note</strong>: appeals beyond the Pitcairn Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>
 
 **Political parties**<br>
 none<br>
@@ -201,7 +202,7 @@ honey; wide variety of fruits and vegetables; goats, chickens; fish<br>
 postage stamps, handicrafts, beekeeping, honey<br>
 
 **Exports - partners**<br>
-Zambia 99%, Czechia 0%, UK 0%, US 0%, Australia 0% (2022)<br>
+UK 21%, Canada 19%, Tanzania 12%, Colombia 11%, Spain 8% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
@@ -209,11 +210,11 @@ fertilizers, sulfur, refined petroleum, excavation machinery, ethylene polymers 
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports - partners**<br>
-Zambia 100%, NZ 0%, Brazil 0%, UAE 0%, UK 0% (2022)<br>
+USA 59%, NZ 37%, Italy 2%, UAE 1%, Brazil 1% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-raw copper, refined copper, cobalt oxides and hydroxides, corn, soybean meal (2022)<br>
+construction vehicles, refined petroleum, beef, computers, other foods (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>

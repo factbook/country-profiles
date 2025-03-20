@@ -51,12 +51,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 arable land, fish<br>
 
 **Land use**<br>
-_agricultural land_: 6.6% (2018 est.)<br>
-_arable land_: arable land: 2.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 2.2% (2018 est.)<br>
-_forest_: 65.5% (2018 est.)<br>
-_other_: 27.9% (2018 est.)<br>
+_agricultural land_: 1.2% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.8% (2022 est.)<br>
+_forest_: 53% (2022 est.)<br>
+_other_: 45.9% (2022 est.)<br>
 
 **Irrigated land**<br>
 1 sq km (2012)<br>
@@ -193,12 +193,12 @@ contamination of groundwater on Saipan may contribute to disease; clean-up of la
 tropical marine; moderated by northeast trade winds, little seasonal temperature variation; dry season December to June, rainy season July to October<br>
 
 **Land use**<br>
-_agricultural land_: 6.6% (2018 est.)<br>
-_arable land_: arable land: 2.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 2.2% (2018 est.)<br>
-_forest_: 65.5% (2018 est.)<br>
-_other_: 27.9% (2018 est.)<br>
+_agricultural land_: 1.2% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.8% (2022 est.)<br>
+_forest_: 53% (2022 est.)<br>
+_other_: 45.9% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 92.1% of total population (2023)<br>
@@ -247,7 +247,7 @@ the laws of the US apply, except for customs and some aspects of taxation<br>
 
 **Constitution**<br>
 _history_: partially effective 9 January 1978 (Constitution of the Commonwealth of the Northern Mariana Islands); fully effective 4 November 1986 (Covenant Agreement)<br>
-_amendments_: proposed by constitutional convention, by public petition, or by the Legislature; ratification of proposed amendments requires approval by voters at the next general election or special election; amendments proposed by constitutional convention or by petition become effective if approved by a majority of voters and at least two-thirds majority of voters in each of two senatorial districts; amendments proposed by the Legislature are effective if approved by majority vote; amended several times, last in 2012<br>
+_amendment process_: proposed by constitutional convention, by public petition, or by the Legislature; ratification of proposed amendments requires approval by voters at the next general election or special election; amendments proposed by constitutional convention or by petition become effective if approved by a majority of voters and at least two-thirds majority of voters in each of two senatorial districts; amendments proposed by the Legislature are effective if approved by majority vote<br>
 
 **Citizenship**<br>
 see United States<br>
@@ -266,9 +266,10 @@ _election results_: <br><em>2022: </em>Arnold PALACIOS elected governor in secon
 <strong>note: </strong>the Northern Mariana Islands delegate to the US House of Representatives can vote when serving on a committee and when the House meets as the "Committee of the Whole House," but not when legislation is submitted for a “full floor” House vote<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court of the Commonwealth of the Northern Mariana Islands (CNMI) (consists of the chief justice and 2 associate justices); US Federal District Court (consists of 1 judge); note - US Federal District Court jurisdiction limited to US federal laws; appeals beyond the CNMI Supreme Court are referred to the US Supreme Court<br>
+_highest court(s)_: Supreme Court of the Commonwealth of the Northern Mariana Islands (CNMI) (consists of the chief justice and 2 associate justices); US Federal District Court (consists of 1 judge)<br>
 _judge selection and term of office_: CNMI Supreme Court judges appointed by the governor and confirmed by the CNMI Senate; judges appointed for 8-year terms and another term if directly elected in a popular election; US Federal District Court judges appointed by the US president and confirmed by the US Senate; judges appointed for renewable 10-year terms<br>
 _subordinate courts_: Superior Court<br>
+<strong>note</strong>: US Federal District Court jurisdiction limited to US federal laws; appeals beyond the CNMI Supreme Court are referred to the US Supreme Court<br>
 
 **Political parties**<br>
 Democratic Party<br>Republican Party<br>

@@ -52,12 +52,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 forests, minerals (especially gold), marine products, deep-seabed minerals<br>
 
 **Land use**<br>
-_agricultural land_: 10.8% (2018 est.)<br>
-_arable land_: arable land: 2.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 4.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 4.3% (2018 est.)<br>
-_forest_: 87.6% (2018 est.)<br>
-_other_: 1.6% (2018 est.)<br>
+_agricultural land_: 9.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 4.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.3% (2022 est.)<br>
+_forest_: 90.4% (2022 est.)<br>
+_other_: 0.3% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -219,12 +219,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; hot and humid; wet season May to November<br>
 
 **Land use**<br>
-_agricultural land_: 10.8% (2018 est.)<br>
-_arable land_: arable land: 2.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 4.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 4.3% (2018 est.)<br>
-_forest_: 87.6% (2018 est.)<br>
-_other_: 1.6% (2018 est.)<br>
+_agricultural land_: 9.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 4.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.3% (2022 est.)<br>
+_forest_: 90.4% (2022 est.)<br>
+_other_: 0.3% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 82.4% of total population (2023)<br>
@@ -278,7 +278,7 @@ mixed legal system of civil, common, and customary law<br>
 
 **Constitution**<br>
 _history_: ratified 9 July 1980, effective 1 January 1981<br>
-_amendments_: proposed by a constitutional convention (held at least once every 15 years with voter approval), by public petition of at least 25% of eligible voters, or by a resolution adopted by at least three fourths of National Congress members; passage requires approval by a majority of votes in at least three fourths of the states in the next regular general election; amended several times, last in 2020<br>
+_amendment process_: proposed by a constitutional convention (held at least once every 15 years with voter approval), by public petition of at least 25% of eligible voters, or by a resolution adopted by at least three fourths of National Congress members; passage requires approval by a majority of votes in at least three fourths of the states in the next regular general election<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -327,7 +327,7 @@ _expected date of next election_: November 2028<br>
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 3 associate justices organized into appellate trial divisions; the Supreme Court organization also includes the Common Pleas and Land Courts)<br>
 _judge selection and term of office_: justices nominated by a 7-member independent body consisting of judges, presidential appointees, and lawyers and appointed by the president; judges can serve until mandatory retirement at age 65<br>
-_subordinate courts_: National Court and other 'inferior' courts<br>
+_subordinate courts_: National Court and other inferior courts<br>
 
 **Political parties**<br>
 none<br>

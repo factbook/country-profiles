@@ -51,11 +51,12 @@ _lowest point_: White Nile 381 m<br>
 hydropower, fertile agricultural land, gold, diamonds, petroleum, hardwoods, limestone, iron ore, copper, chromium ore, zinc, tungsten, mica, silver<br>
 
 **Land use**<br>
-_agricultural land_: 45% (2018)<br>
-_arable land_: arable land: 4.4% (2018)<br>
-_permanent pasture_: permanent pasture: 40.7% (2018)<br>
-_forest_: 11.3% (2018)<br>
-_other_: 43.5% (2018)<br>
+_agricultural land_: 44.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 3.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 40.8% (2022 est.)<br>
+_forest_: 11.3% (2022 est.)<br>
+_other_: 44% (2022 est.)<br>
 
 **Irrigated land**<br>
 1,000 sq km (2012)<br>
@@ -214,11 +215,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 hot with seasonal rainfall influenced by the annual shift of the Inter-Tropical Convergence Zone; rainfall heaviest in upland areas of the south and diminishes to the north<br>
 
 **Land use**<br>
-_agricultural land_: 45% (2018)<br>
-_arable land_: arable land: 4.4% (2018)<br>
-_permanent pasture_: permanent pasture: 40.7% (2018)<br>
-_forest_: 11.3% (2018)<br>
-_other_: 43.5% (2018)<br>
+_agricultural land_: 44.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 3.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 40.8% (2022 est.)<br>
+_forest_: 11.3% (2022 est.)<br>
+_other_: 44% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 21.2% of total population (2023)<br>
@@ -278,8 +280,8 @@ _etymology_: the name derives from Djouba, another name for the Bari people of S
 Independence Day, 9 July (2011)<br>
 
 **Constitution**<br>
-_history_: previous 2005 (preindependence); latest signed 7 July 2011, effective 9 July 2011 (Transitional Constitution of the Republic of South Sudan, 2011); note - new constitution pending establishment under the 2018 peace agreement<br>
-_amendments_: proposed by the National Legislature or by the president of the republic; passage requires submission of the proposal to the Legislature at least one month prior to consideration, approval by at least two-thirds majority vote in both houses of the Legislature, and assent of the president; amended 2013, 2015, 2018<br>
+_history_: previous 2005 (pre-independence); latest signed 7 July 2011, effective 9 July 2011 (Transitional Constitution of the Republic of South Sudan, 2011)<br>
+_amendment process_: proposed by the National Legislature or by the president of the republic; passage requires submission of the proposal to the Legislature at least one month prior to consideration, approval by at least two-thirds majority vote in both houses of the Legislature, and assent of the president<br>
 
 **Citizenship**<br>
 _citizenship by birth_: no<br>
@@ -319,10 +321,10 @@ _percentage of women in chamber_: 32.1%<br>
 _expected date of next election_: December 2026<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court of South Sudan (consists of a chief justice, deputy chief justice, and 5 additional justices); note - consistent with the 2008 Judiciary Act, the Transitional Constitution of South Sudan calls for 9, rather than 5 additional justices<br>
-_judge selection and term of office_: justices appointed by the president (the 2011 Transitional Constitution of South Sudan calls for the establishment of a Judicial Service Council to recommend prospective justices to the president, and for the justices' tenures to be set by the National Legislature; neither of these steps have been effectively implemented as of mid-2023)<br>
+_highest court(s)_: Supreme Court of South Sudan (consists of a chief justice, deputy chief justice, and 5 additional justices); the 2011 Transitional Constitution of South Sudan calls for 9, rather than 5 additional justices<br>
+_judge selection and term of office_: the 2011 Transitional Constitution of South Sudan calls for the establishment of a Judicial Service Council to recommend prospective justices to the president, and for the justices' tenures to be set by the National Legislature<br>
 _subordinate courts_: national level - Courts of Appeal; High Courts; County Courts; state level - High Courts; County Courts; customary courts; other specialized courts and tribunals<br>
-Note: in mid-2022, the Government of South Sudan inaugurated an Ad-hoc Judiciary Committee, a 12-member body led by two eminent jurists, which is charged with reviewing relevant laws, advising on judicial reform and restructuring of the judiciary<br>
+<strong>note</strong>: in mid-2022, the Government of South Sudan inaugurated an ad-hoc judiciary committee, a 12-member body led by two eminent jurists, that is charged with reviewing relevant laws, advising on judicial reform, and restructuring the judiciary<br>
 
 **Political parties**<br>
 <p>Democratic Change or DC<br>Democratic Forum or DF<br>Labour Party or LPSS<br>South Sudan Opposition Alliance or SSOA<br>Sudan African National Union or SANU<br>Sudan People's Liberation Movement or SPLM<br>Sudan People’s Liberation Movement-In Opposition or SPLM-IO<br>United Democratic Salvation Front or UDSF    <br>United South Sudan African Party or USSAP<br>United South Sudan Party or USSP</p><br>

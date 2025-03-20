@@ -51,12 +51,12 @@ _lowest point_: Atlantic Ocean 0 m<br>
 limestone, pleasant climate fostering tourism<br>
 
 **Land use**<br>
-_agricultural land_: 14.8% (2018 est.)<br>
-_arable land_: arable land: 14.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 20% (2018 est.)<br>
-_other_: 65.2% (2018 est.)<br>
+_agricultural land_: 5.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 5.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 18.5% (2022 est.)<br>
+_other_: 75.9% (2022 est.)<br>
 
 **Irrigated land**<br>
 NA<br>
@@ -201,12 +201,12 @@ dense population and heavy vehicle traffic create serious congestion and air pol
 subtropical; mild, humid; gales, strong winds common in winter<br>
 
 **Land use**<br>
-_agricultural land_: 14.8% (2018 est.)<br>
-_arable land_: arable land: 14.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 20% (2018 est.)<br>
-_other_: 65.2% (2018 est.)<br>
+_agricultural land_: 5.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 5.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 18.5% (2022 est.)<br>
+_other_: 75.9% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
@@ -255,7 +255,7 @@ English common law<br>
 
 **Constitution**<br>
 _history_: several previous (dating to 1684); latest entered into force 8 June 1968 (Bermuda Constitution Order 1968)<br>
-_amendments_: proposal procedure - NA; passage by an Order in Council in the UK; amended several times, last in 2012<br>
+_amendment process_: proposal procedure - NA; passage by an Order in Council in the UK<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -299,7 +299,7 @@ _percentage of women in chamber_: 63.6%<br>
 _expected date of next election_: 2027<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Court of Appeal (consists of the court president and at least 2 justices); Supreme Court (consists of the chief justice, 4 puisne judges, and 1 associate justice); note - the Judicial Committee of the Privy Council (in London) is the court of final appeal<br>
+_highest court(s)_: Court of Appeal (consists of the court president and at least 2 justices); Supreme Court (consists of the chief justice, 4 puisne judges, and 1 associate justice); the Judicial Committee of the Privy Council (in London) is the court of final appeal<br>
 _judge selection and term of office_: Court of Appeal justice appointed by the governor; justice tenure by individual appointment; Supreme Court judges nominated by the Judicial and Legal Services Commission and appointed by the governor; judge tenure based on terms of appointment<br>
 _subordinate courts_: commercial court (began in 2006); magistrates' courts<br>
 

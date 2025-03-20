@@ -51,15 +51,15 @@ _mean elevation_: 458 m<br>
 lignite, small amounts of iron ore, copper and manganese ore; salt; arable land<br>
 
 **Land use**<br>
-_agricultural land_: 40.1% (2018 est.)<br>
-_arable land_: arable land: 28.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 10.8% (2018 est.)<br>
-_forest_: 40.2% (2018 est.)<br>
-_other_: 19.7% (2018 est.)<br>
+_agricultural land_: 38.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 27.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 10.6% (2022 est.)<br>
+_forest_: 40.1% (2022 est.)<br>
+_other_: 21.1% (2022 est.)<br>
 
 **Irrigated land**<br>
-211 sq km (2015)<br>
+259 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
 Dunaj (Danube) (shared with Germany [s], Austria, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -240,12 +240,12 @@ _signed, but not ratified_: Antarctic-Environmental Protection<br>
 temperate; cool summers; cold, cloudy, humid winters<br>
 
 **Land use**<br>
-_agricultural land_: 40.1% (2018 est.)<br>
-_arable land_: arable land: 28.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 10.8% (2018 est.)<br>
-_forest_: 40.2% (2018 est.)<br>
-_other_: 19.7% (2018 est.)<br>
+_agricultural land_: 38.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 27.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 10.6% (2022 est.)<br>
+_forest_: 40.1% (2022 est.)<br>
+_other_: 21.1% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 54% of total population (2023)<br>
@@ -317,8 +317,8 @@ Constitution Day, 1 September (1992)<br>
 civil law system based on Austro-Hungarian codes; note - legal code modified to comply with the obligations of Organization on Security and Cooperation in Europe<br>
 
 **Constitution**<br>
-_history_: several previous (preindependence); latest passed by the National Council 1 September 1992, signed 3 September 1992, effective 1 October 1992<br>
-_amendments_: proposed by the National Council; passage requires at least three-fifths majority vote of Council members; amended many times, last in 2020<br>
+_history_: several previous (pre-independence); latest passed by the National Council 1 September 1992, signed 3 September 1992, effective 1 October 1992<br>
+_amendment process_: proposed by the National Council; passage requires at least three-fifths majority vote of Council members<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -354,8 +354,8 @@ _expected date of next election_: September 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of the Slovak Republic (consists of the court president, vice president, and approximately 80 judges organized into criminal, civil, commercial, and administrative divisions with 3- and 5-judge panels); Constitutional Court of the Slovak Republic (consists of 13 judges organized into 3-judge panels)<br>
-_judge selection and term of office_: Supreme Court judge candidates nominated by the Judicial Council of the Slovak Republic, an 18-member self-governing body that includes the Supreme Court chief justice and presidential, governmental, parliamentary, and judiciary appointees; judges appointed by the president serve for life subject to removal by the president at age 65; Constitutional Court judges nominated by the National Council of the Republic and appointed by the president; judges serve 12-year terms<br>
-_subordinate courts_: regional and district civil courts; Special Criminal Court; Higher Military Court; military district courts; Court of Audit;<br>
+_judge selection and term of office_: Supreme Court judge candidates nominated by the Judicial Council of the Slovak Republic, an 18-member self-governing body that includes the Supreme Court chief justice and presidential, governmental, parliamentary, and judiciary appointees; judges appointed by the president serve for life, subject to removal by the president at age 65; Constitutional Court judges nominated by the National Council of the Republic and appointed by the president; judges serve 12-year terms<br>
+_subordinate courts_: regional and district civil courts; Special Criminal Court; Higher Military Court; military district courts; Court of Audit<br>
 
 **Political parties**<br>
 Alliance-Szovetseg or A-S<br>Christian Union or KÚ<br>Civic Conservative Party or OKS<br>Democrats<br>Direction-Social Democracy or Smer-SSD<br>For the People or Za Ludi<br>Freedom and Solidarity or SaS<br>Life National Party or Život–NS (formerly Christian Democracy - Life and Prosperity - Alliance for Slovkia)<br>New Majority or NOVA<br>Ordinary People and Independent Personalities - New Majority or OLaNO-NOVA<br>People's Party Our Slovakia or LSNS<br>Progressive Slovakia or PS<br>Republic<br>Slovak National Party or SNS<br>Voice - Social Democracy or Hlas-SD<br>We Are Family or Sme-Rodina (formerly Party of Citizens of Slovakia)<br>

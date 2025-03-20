@@ -51,12 +51,12 @@ _mean elevation_: 961 m<br>
 coal, chromium ore, asbestos, gold, nickel, copper, iron ore, vanadium, lithium, tin, platinum group metals<br>
 
 **Land use**<br>
-_agricultural land_: 42.5% (2018 est.)<br>
-_arable land_: arable land: 10.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 31.3% (2018 est.)<br>
-_forest_: 39.5% (2018 est.)<br>
-_other_: 18% (2018 est.)<br>
+_agricultural land_: 39.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 8.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 31.3% (2022 est.)<br>
+_forest_: 44.9% (2022 est.)<br>
+_other_: 15.7% (2022 est.)<br>
 
 **Irrigated land**<br>
 1,740 sq km (2012)<br>
@@ -252,12 +252,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; moderated by altitude; rainy season (November to March)<br>
 
 **Land use**<br>
-_agricultural land_: 42.5% (2018 est.)<br>
-_arable land_: arable land: 10.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 31.3% (2018 est.)<br>
-_forest_: 39.5% (2018 est.)<br>
-_other_: 18% (2018 est.)<br>
+_agricultural land_: 39.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 8.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 31.3% (2022 est.)<br>
+_forest_: 44.9% (2022 est.)<br>
+_other_: 15.7% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 32.5% of total population (2023)<br>
@@ -330,7 +330,7 @@ mixed legal system of English common law, Roman-Dutch civil law, and customary l
 
 **Constitution**<br>
 _history_: previous 1965 (at Rhodesian independence), 1979 (Lancaster House Agreement), 1980 (at Zimbabwean independence); latest final draft completed January 2013, approved by referendum 16 March 2013, approved by Parliament 9 May 2013, effective 22 May 2013<br>
-_amendments_: proposed by the Senate or by the National Assembly; passage requires two-thirds majority vote by the membership of both houses of Parliament and assent of the president of the republic; amendments to constitutional chapters on fundamental human rights and freedoms and on agricultural lands also require approval by a majority of votes cast in a referendum; amended many times, last in 2017<br>
+_amendment process_: proposed by the Senate or by the National Assembly; passage requires two-thirds majority vote by the membership of both houses of Parliament and assent of the president of the republic; amendments to constitutional chapters on fundamental human rights and freedoms and on agricultural lands also require approval by a majority of votes cast in a referendum<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -381,7 +381,7 @@ _expected date of next election_: August 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 4 judges); Constitutional Court (consists of the chief and deputy chief justices and 9 judges)<br>
-_judge selection and term of office_: Supreme Court judges appointed by the president upon recommendation of the Judicial Service Commission, an independent body consisting of the chief justice, Public Service Commission chairman, attorney general, and 2-3 members appointed by the president; judges normally serve until age 65 but can elect to serve until age 70; Constitutional Court judge appointment NA; judges serve nonrenewable 15-year terms<br>
+_judge selection and term of office_: Supreme Court judges appointed by the president on recommendation of the Judicial Service Commission, an independent body consisting of the chief justice, Public Service Commission chairman, attorney general, and 2-3 members appointed by the president; judges normally serve until age 65 but can elect to serve until age 70; Constitutional Court judge appointment NA; judges serve nonrenewable 15-year terms<br>
 _subordinate courts_: High Court; Labor Court; Administrative Court; regional magistrate courts; customary law courts; special courts<br>
 
 **Political parties**<br>

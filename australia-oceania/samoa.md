@@ -51,12 +51,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 hardwood forests, fish, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 12.4% (2018 est.)<br>
-_arable land_: arable land: 2.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 7.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 1.8% (2018 est.)<br>
-_forest_: 60.4% (2018 est.)<br>
-_other_: 27.2% (2018 est.)<br>
+_agricultural land_: 17.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 4.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 2.3% (2022 est.)<br>
+_forest_: 57.8% (2022 est.)<br>
+_other_: 24.4% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -228,12 +228,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; rainy season (November to April), dry season (May to October)<br>
 
 **Land use**<br>
-_agricultural land_: 12.4% (2018 est.)<br>
-_arable land_: arable land: 2.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 7.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 1.8% (2018 est.)<br>
-_forest_: 60.4% (2018 est.)<br>
-_other_: 27.2% (2018 est.)<br>
+_agricultural land_: 17.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 4.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 2.3% (2022 est.)<br>
+_forest_: 57.8% (2022 est.)<br>
+_other_: 24.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 17.5% of total population (2023)<br>
@@ -290,8 +290,8 @@ Independence Day Celebration, 1 June (1962); note - 1 January 1962 is the date o
 mixed legal system of English common law and customary law; judicial review of legislative acts with respect to fundamental rights of the citizen<br>
 
 **Constitution**<br>
-_history_: several previous (preindependence); latest 1 January 1962<br>
-_amendments_: proposed as an act by the Legislative Assembly; passage requires at least two-thirds majority vote by the Assembly membership in the third reading - provided at least 90 days have elapsed since the second reading, and assent of the chief of state; passage of amendments affecting constitutional articles on customary land or constitutional amendment procedures also requires at least two-thirds majority approval in a referendum; amended several times, last in 2020<br>
+_history_: several previous (pre-independence); latest 1 January 1962<br>
+_amendment process_: proposed as an act by the Legislative Assembly; passage requires at least two-thirds majority vote by the Assembly membership in the third reading - provided at least 90 days have elapsed since the second reading, and assent of the chief of state; passage of amendments affecting constitutional articles on customary land or constitutional amendment procedures also requires at least two-thirds majority approval in a referendum<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -326,8 +326,8 @@ _expected date of next election_: March 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the chief justice and 2 Supreme Court judges and meets once or twice a year); Supreme Court (consists of the chief justice and several judges)<br>
-_judge selection and term of office_: chief justice appointed by the chief of state upon the advice of the prime minister; other Supreme Court judges appointed by the Judicial Service Commission, a 3-member body chaired by the chief justice and includes the attorney general and an appointee of the Minister of Justice; judges normally serve until retirement at age 68<br>
-_subordinate courts_: District Court; Magistrates' Courts; Land and Titles Courts; village fono or village chief councils<br>
+_judge selection and term of office_: chief justice appointed by the chief of state on the advice of the prime minister; other Supreme Court judges appointed by the Judicial Service Commission, a 3-member body chaired by the chief justice and includes the attorney general and an appointee of the Minister of Justice; judges normally serve until retirement at age 68<br>
+_subordinate courts_: District Court; Magistrates' Courts; Land and Titles Courts; village chief councils<br>
 
 **Political parties**<br>
 Fa'atuatua i le Atua Samoa ua Tasi or FAST <br>Human Rights Protection Party or HRPP <br>Tautua Samoa Party or TSP <br>

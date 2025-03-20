@@ -49,6 +49,14 @@ _lowest point_: Mediterranean Sea 0 m<br>
 **Natural resources**<br>
 arable land, natural gas<br>
 
+**Land use**<br>
+_agricultural land_: 64.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 46.1% (2022 est.)<br>
+_forest_: 1.7% (2022 est.)<br>
+_other_: 33.4% (2022 est.)<br>
+
 **Irrigated land**<br>
 (2013) 151 sq km; note - includes the West Bank<br>
 
@@ -211,6 +219,14 @@ soil degradation; desertification; water pollution from chemicals and pesticides
 
 **Climate**<br>
 temperate, mild winters, dry and warm to hot summers<br>
+
+**Land use**<br>
+_agricultural land_: 64.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 46.1% (2022 est.)<br>
+_forest_: 1.7% (2022 est.)<br>
+_other_: 33.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 77.6% of total population (2023)<br>

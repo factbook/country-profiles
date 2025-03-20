@@ -54,12 +54,12 @@ _mean elevation_: 190 m<br>
 gold, timber, industrial diamonds, bauxite, manganese, fish, rubber, hydropower, petroleum, silver, salt, limestone<br>
 
 **Land use**<br>
-_agricultural land_: 69.1% (2018 est.)<br>
-_arable land_: arable land: 20.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 11.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 36.5% (2018 est.)<br>
-_forest_: 21.2% (2018 est.)<br>
-_other_: 9.7% (2018 est.)<br>
+_agricultural land_: 55.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 20.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11.9% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 22.8% (2022 est.)<br>
+_forest_: 35.2% (2022 est.)<br>
+_other_: 9.4% (2022 est.)<br>
 
 **Irrigated land**<br>
 360 sq km (2013)<br>
@@ -252,12 +252,12 @@ _signed, but not ratified_: Marine Life Conservation<br>
 tropical; warm and comparatively dry along southeast coast; hot and humid in southwest; hot and dry in north<br>
 
 **Land use**<br>
-_agricultural land_: 69.1% (2018 est.)<br>
-_arable land_: arable land: 20.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 11.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 36.5% (2018 est.)<br>
-_forest_: 21.2% (2018 est.)<br>
-_other_: 9.7% (2018 est.)<br>
+_agricultural land_: 55.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 20.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11.9% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 22.8% (2022 est.)<br>
+_forest_: 35.2% (2022 est.)<br>
+_other_: 9.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 59.2% of total population (2023)<br>
@@ -322,7 +322,7 @@ mixed system of English common law and customary law<br>
 
 **Constitution**<br>
 _history_: several previous; latest drafted 31 March 1992, approved and promulgated 28 April 1992, entered into force 7 January 1993<br>
-_amendments_: proposed by Parliament; consideration requires prior referral to the Council of State, a body of prominent citizens who advise the president of the republic; passage of amendments to "entrenched" constitutional articles (including those on national sovereignty, fundamental rights and freedoms, the structure and authorities of the branches of government, and amendment procedures) requires approval in a referendum by at least 40% participation of eligible voters and at least 75% of votes cast, followed by at least two-thirds majority vote in Parliament, and assent of the president; amendments to non-entrenched articles do not require referenda; amended 1996<br>
+_amendment process_: proposed by Parliament; consideration requires prior referral to the Council of State, a body of prominent citizens who advise the president of the republic; passage of amendments to "entrenched" constitutional articles (including those on national sovereignty, fundamental rights and freedoms, the structure and authorities of the branches of government, and amendment procedures) requires approval in a referendum by at least 40% participation of eligible voters and at least 75% of votes cast, followed by at least two-thirds majority vote in Parliament, and assent of the president; amendments to non-entrenched articles do not require referenda<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -357,7 +357,7 @@ _expected date of next election_: December 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 13 justices)<br>
-_judge selection and term of office_: chief justice appointed by the president in consultation with the Council of State (a small advisory body of prominent citizens) and with the approval of Parliament; other justices appointed by the president upon the advice of the Judicial Council (an 18-member independent body of judicial, military and police officials, and presidential nominees) and on the advice of the Council of State; justices can retire at age 60, with compulsory retirement at age 70<br>
+_judge selection and term of office_: chief justice appointed by the president in consultation with the Council of State (a small advisory body of prominent citizens) and with the approval of Parliament; other justices appointed by the president on the advice of the Judicial Council (an 18-member independent body of judicial, military and police officials, and presidential nominees) and on the advice of the Council of State; justices can retire at age 60, with compulsory retirement at age 70<br>
 _subordinate courts_: Court of Appeal; High Court; Circuit Court; District Court; regional tribunals<br>
 
 **Political parties**<br>

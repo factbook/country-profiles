@@ -51,15 +51,15 @@ _mean elevation_: 710 m<br>
 timber, hydropower, gypsum, tin, gold, gemstones<br>
 
 **Land use**<br>
-_agricultural land_: 10.6% (2018 est.)<br>
-_arable land_: arable land: 6.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.7% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 3.7% (2018 est.)<br>
-_forest_: 67.9% (2018 est.)<br>
-_other_: 21.5% (2018 est.)<br>
+_agricultural land_: 9.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 5.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 2.9% (2022 est.)<br>
+_forest_: 71.6% (2022 est.)<br>
+_other_: 18.6% (2022 est.)<br>
 
 **Irrigated land**<br>
-4,409 sq km (2020)<br>
+4,410 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
 Mènam Khong (Mekong) (shared with China [s], Burma, Thailand, Cambodia, and Vietnam [m]) - 4,350 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -246,12 +246,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical monsoon; rainy season (May to November); dry season (December to April)<br>
 
 **Land use**<br>
-_agricultural land_: 10.6% (2018 est.)<br>
-_arable land_: arable land: 6.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.7% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 3.7% (2018 est.)<br>
-_forest_: 67.9% (2018 est.)<br>
-_other_: 21.5% (2018 est.)<br>
+_agricultural land_: 9.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 5.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 2.9% (2022 est.)<br>
+_forest_: 71.6% (2022 est.)<br>
+_other_: 18.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 38.2% of total population (2023)<br>
@@ -316,8 +316,8 @@ Republic Day (National Day), 2 December (1975)<br>
 civil law system similar in form to the French system<br>
 
 **Constitution**<br>
-_history_: previous 1947 (preindependence); latest promulgated 13-15 August 1991<br>
-_amendments_: proposed by the National Assembly; passage requires at least two-thirds majority vote of the Assembly membership and promulgation by the president of the republic; amended 2003, 2015<br>
+_history_: previous 1947 (pre-independence); latest promulgated 13-15 August 1991<br>
+_amendment process_: proposed by the National Assembly; passage requires at least two-thirds majority vote of the Assembly membership and promulgation by the president of the republic<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>

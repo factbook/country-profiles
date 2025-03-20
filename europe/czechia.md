@@ -51,15 +51,15 @@ _mean elevation_: 433 m<br>
 hard coal, soft coal, kaolin, clay, graphite, timber, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 54.8% (2018 est.)<br>
-_arable land_: arable land: 41% (2018 est.)<br>
-_permanent crops_: permanent crops: 1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 12.8% (2018 est.)<br>
-_forest_: 34.4% (2018 est.)<br>
-_other_: 10.8% (2018 est.)<br>
+_agricultural land_: 45.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 32.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 13% (2022 est.)<br>
+_forest_: 34.7% (2022 est.)<br>
+_other_: 19.5% (2022 est.)<br>
 
 **Irrigated land**<br>
-220 sq km (2020)<br>
+220 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
 Labe (Elbe) river source (shared with Germany [m]) - 1,252 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -242,12 +242,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate; cool summers; cold, cloudy, humid winters<br>
 
 **Land use**<br>
-_agricultural land_: 54.8% (2018 est.)<br>
-_arable land_: arable land: 41% (2018 est.)<br>
-_permanent crops_: permanent crops: 1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 12.8% (2018 est.)<br>
-_forest_: 34.4% (2018 est.)<br>
-_other_: 10.8% (2018 est.)<br>
+_agricultural land_: 45.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 32.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 13% (2022 est.)<br>
+_forest_: 34.7% (2022 est.)<br>
+_other_: 19.5% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 74.6% of total population (2023)<br>
@@ -320,7 +320,7 @@ new civil code enacted in 2014, replacing civil code of 1964 - based on former A
 
 **Constitution**<br>
 _history_: previous 1960; latest ratified 16 December 1992, effective 1 January 1993<br>
-_amendments_: passage requires at least three-fifths concurrence of members present in both houses of Parliament; amended several times, last in 2021<br>
+_amendment process_: passage requires at least three-fifths concurrence of members present in both houses of Parliament<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>

@@ -54,12 +54,12 @@ _mean elevation_: 684 m<br>
 timber, gold, silver, copper, lead, zinc, iron ore, antimony, coal, fish, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 28.8% (2018 est.)<br>
-_arable land_: arable land: 9.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 15.7% (2018 est.)<br>
-_forest_: 45.3% (2018 est.)<br>
-_other_: 25.9% (2018 est.)<br>
+_agricultural land_: 32% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 9.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 17.5% (2022 est.)<br>
+_forest_: 56.5% (2022 est.)<br>
+_other_: 11.6% (2022 est.)<br>
 
 **Irrigated land**<br>
 900 sq km (2012)<br>
@@ -244,12 +244,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 subtropical in lowlands, temperate in mountains<br>
 
 **Land use**<br>
-_agricultural land_: 28.8% (2018 est.)<br>
-_arable land_: arable land: 9.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 15.7% (2018 est.)<br>
-_forest_: 45.3% (2018 est.)<br>
-_other_: 25.9% (2018 est.)<br>
+_agricultural land_: 32% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 9.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 17.5% (2022 est.)<br>
+_forest_: 56.5% (2022 est.)<br>
+_other_: 11.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 60.2% of total population (2023)<br>
@@ -312,7 +312,7 @@ civil law system<br>
 
 **Constitution**<br>
 _history_: several previous; latest approved 11 January 1982, effective 20 January 1982<br>
-_amendments_: proposed by the National Congress with at least two-thirds majority vote of the membership; passage requires at least two-thirds majority vote of Congress in its next annual session; constitutional articles, such as the form of government, national sovereignty, the presidential term, and the procedure for amending the constitution, cannot be amended; amended several times, last in 2021<br>
+_amendment process_: proposed by the National Congress with at least two-thirds majority vote of the membership; passage requires at least two-thirds majority vote of Congress in its next annual session; constitutional articles, such as the form of government, national sovereignty, the presidential term, and the procedure for amending the constitution, cannot be amended<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -347,9 +347,10 @@ _percentage of women in chamber_: 27.3%<br>
 _expected date of next election_: November 2025<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (15 principal judges, including the court president, and 6 alternates; court organized into civil, criminal, constitutional, and labor chambers); note - the court has both judicial and constitutional jurisdiction<br>
+_highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (15 principal judges, including the court president, and 6 alternates; court organized into civil, criminal, constitutional, and labor chambers)<br>
 _judge selection and term of office_: court president elected by his peers; judges elected by the National Congress from candidates proposed by the Nominating Board, a diverse 7-member group of judicial officials and other government and non-government officials nominated by each of their organizations; judges elected by Congress for renewable, 7-year terms<br>
 _subordinate courts_: courts of appeal; courts of first instance; justices of the peace<br>
+<strong>note</strong>: the Supreme Court has both judicial and constitutional jurisdiction<br>
 
 **Political parties**<br>
 Anti-Corruption Party or PAC<br>Christian Democratic Party or DC<br>Democratic Liberation of Honduras or Liderh<br>Democratic Unification Party or UD<br>The Front or El Frente<br>Honduran Patriotic Alliance or AP<br>Innovation and Unity Party or PINU<br>Liberal Party or PL<br>Liberty and Refoundation Party or LIBRE<br>National Party of Honduras or PNH<br>New Route or NR<br>Opposition Alliance against the Dictatorship or Alianza de Oposicion contra la Dictadura (electoral coalition)<br>Savior Party of Honduras or PSH<br>Vamos or Let’s Go<br>We Are All Honduras (Todos Somos Honduras) or TSH<br>

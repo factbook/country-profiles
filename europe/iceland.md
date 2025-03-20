@@ -52,15 +52,15 @@ _mean elevation_: 557 m<br>
 fish, hydropower, geothermal power, diatomite<br>
 
 **Land use**<br>
-_agricultural land_: 18.7% (2018 est.)<br>
-_arable land_: arable land: 1.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 17.5% (2018 est.)<br>
-_forest_: 0.3% (2018 est.)<br>
-_other_: 81% (2018 est.)<br>
+_agricultural land_: 18.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 17.4% (2022 est.)<br>
+_forest_: 0.5% (2022 est.)<br>
+_other_: 80.9% (2022 est.)<br>
 
 **Irrigated land**<br>
-0.5 sq km (2020)<br>
+0.5 sq km (2022)<br>
 
 **Population distribution**<br>
 Iceland is almost entirely urban with half of the population located in and around the capital of Reykjavik; smaller clusters are primarily found along the coast in the north and west<br>
@@ -237,12 +237,12 @@ _signed, but not ratified_: Air Pollution-Heavy Metals, Environmental Modificati
 temperate; moderated by North Atlantic Current; mild, windy winters; damp, cool summers<br>
 
 **Land use**<br>
-_agricultural land_: 18.7% (2018 est.)<br>
-_arable land_: arable land: 1.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 17.5% (2018 est.)<br>
-_forest_: 0.3% (2018 est.)<br>
-_other_: 81% (2018 est.)<br>
+_agricultural land_: 18.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 17.4% (2022 est.)<br>
+_forest_: 0.5% (2022 est.)<br>
+_other_: 80.9% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 94% of total population (2023)<br>
@@ -308,7 +308,7 @@ civil law system influenced by the Danish model<br>
 
 **Constitution**<br>
 _history_: several previous; latest ratified 16 June 1944, effective 17 June 1944 (at independence)<br>
-_amendments_: proposed by the Althingi; passage requires approval by the Althingi and by the next elected Althingi, and confirmation by the president of the republic; proposed amendments to Article 62 of the constitution &ndash; that the Evangelical Lutheran Church shall be the state church of Iceland &ndash; also require passage by referendum; amended many times, last in 2013<br>
+_amendment process_: proposed by the Althingi; passage requires approval by the Althingi and by the next elected Althingi, and confirmation by the president of the republic; proposed amendments to Article 62 of the constitution &ndash; that the Evangelical Lutheran Church shall be the state church of Iceland &ndash; also require passage by referendum<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -343,7 +343,7 @@ _expected date of next election_: November 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Haestirettur (consists of 7 judges)<br>
-_judge selection and term of office_: judges proposed by Ministry of Interior selection committee and appointed by the president; judges appointed for an indefinite period<br>
+_judge selection and term of office_: judges proposed by Ministry of Interior selection committee and appointed by the president for an indefinite period<br>
 _subordinate courts_: Appellate Court or Landsrettur; 8 district courts; Labor Court<br>
 
 **Political parties**<br>

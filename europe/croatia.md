@@ -52,15 +52,15 @@ _mean elevation_: 331 m<br>
 oil, some coal, bauxite, low-grade iron ore, calcium, gypsum, natural asphalt, silica, mica, clays, salt, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 23.7% (2018 est.)<br>
-_arable land_: arable land: 16% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 6.2% (2018 est.)<br>
-_forest_: 34.4% (2018 est.)<br>
-_other_: 41.9% (2018 est.)<br>
+_agricultural land_: 25.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 15.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.2% (2022 est.)<br>
+_forest_: 34.7% (2022 est.)<br>
+_other_: 39.4% (2022 est.)<br>
 
 **Irrigated land**<br>
-171 sq km (2020)<br>
+170 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
 Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -242,12 +242,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 Mediterranean and continental; continental climate predominant with hot summers and cold winters; mild winters, dry summers along coast<br>
 
 **Land use**<br>
-_agricultural land_: 23.7% (2018 est.)<br>
-_arable land_: arable land: 16% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 6.2% (2018 est.)<br>
-_forest_: 34.4% (2018 est.)<br>
-_other_: 41.9% (2018 est.)<br>
+_agricultural land_: 25.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 15.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.2% (2022 est.)<br>
+_forest_: 34.7% (2022 est.)<br>
+_other_: 39.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 58.6% of total population (2023)<br>
@@ -321,7 +321,7 @@ civil law system influenced by legal heritage of Austria-Hungary; note - Croatia
 
 **Constitution**<br>
 _history_: several previous; latest adopted 22 December 1990<br>
-_amendments_: proposed by at least one fifth of the Assembly membership, by the president of the republic, by the Government of Croatia, or through petition by at least 10% of the total electorate; proceedings to amend require majority vote by the Assembly; passage requires two-thirds majority vote by the Assembly; passage by petition requires a majority vote in a referendum and promulgation by the Assembly; amended several times, last in 2014<br>
+_amendment process_: proposed by at least one fifth of the Assembly membership, by the president of the republic, by the Government of Croatia, or through petition by at least 10% of the total electorate; proceedings to amend require majority vote by the Assembly; passage requires two-thirds majority vote by the Assembly; passage by petition requires a majority vote in a referendum and promulgation by the Assembly<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -358,7 +358,8 @@ _expected date of next election_: April 2028<br>
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the court president and vice president, 25 civil department justices, and 16 criminal department justices)<br>
 _judge selection and term of office_: president of Supreme Court nominated by the president of Croatia and elected by the Sabor for a 4-year term; other Supreme Court justices appointed by the National Judicial Council; all judges serve until age 70<br>
-_subordinate courts_: Administrative Court; county, municipal, and specialized courts; note - there is an 11-member Constitutional Court with jurisdiction limited to constitutional issues but is outside of the judicial system<br>
+_subordinate courts_: Administrative Court; county, municipal, and specialized courts<br>
+<strong>note:</strong> an 11-member Constitutional Court has jurisdiction limited to constitutional issues, but it is outside the judicial system<br>
 
 **Political parties**<br>
 Bosniaks Together<br>The Bridge or MOST (formerly the Bridge of Independent Lists)<br>Croatia Romani Union Kali Sara (SRRH)<br>Croatian Democratic Union or HDZ<br>Democratic Union of Hungarians in Croatia (DZMH)<br>Focus or Fokus<br>Homeland Movement or DP (also known as Miroslav Škoro Homeland Movement or DPMS)<br>Independent Democratic Serb Party or SDSS <br>Independent Platform of the North (NPS)<br>Istrian Democratic Assembly or IDS<br>Social Democratic Party of Croatia or SDP<br>We Can! or Mozemo! <br>

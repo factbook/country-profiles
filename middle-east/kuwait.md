@@ -51,12 +51,12 @@ _mean elevation_: 108 m<br>
 petroleum, fish, shrimp, natural gas<br>
 
 **Land use**<br>
-_agricultural land_: 8.5% (2018 est.)<br>
-_arable land_: arable land: 0.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 7.6% (2018 est.)<br>
-_forest_: 0.4% (2018 est.)<br>
-_other_: 91.1% (2018 est.)<br>
+_agricultural land_: 8.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 7.6% (2022 est.)<br>
+_forest_: 0.4% (2022 est.)<br>
+_other_: 91.2% (2022 est.)<br>
 
 **Irrigated land**<br>
 100 sq km (2015)<br>
@@ -238,12 +238,12 @@ _signed, but not ratified_: Marine Dumping-London Convention<br>
 dry desert; intensely hot summers; short, cool winters<br>
 
 **Land use**<br>
-_agricultural land_: 8.5% (2018 est.)<br>
-_arable land_: arable land: 0.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 7.6% (2018 est.)<br>
-_forest_: 0.4% (2018 est.)<br>
-_other_: 91.1% (2018 est.)<br>
+_agricultural land_: 8.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 7.6% (2022 est.)<br>
+_forest_: 0.4% (2022 est.)<br>
+_other_: 91.2% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
@@ -309,7 +309,7 @@ mixed legal system consisting of English common law, French civil law, and Islam
 
 **Constitution**<br>
 _history_: approved and promulgated 11 November 1962; suspended 1976 to 1981 (4 articles); 1986 to 1991; May to July 1999<br>
-_amendments_: proposed by the amir or supported by at least one third of the National Assembly; passage requires two-thirds consent of the Assembly membership and promulgation by the amir; constitutional articles on the initiation, approval, and promulgation of general legislation cannot be amended<br>
+_amendment process_: proposed by the amir or supported by at least one third of the National Assembly; passage requires two-thirds consent of the Assembly membership and promulgation by the amir; constitutional articles on the initiation, approval, and promulgation of general legislation cannot be amended<br>
 <strong>Note:</strong> on 10 May 2024, Amir Sheikh MISHAL al-Ahmad al-Sabah dissolved the National Assembly and suspended several articles of the constitution for up to four years<br>
 
 **International law organization participation**<br>
@@ -336,7 +336,7 @@ _expected date of next election_: April 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Constitutional Court (consists of 5 judges); Supreme Court or Court of Cassation (organized into several circuits, each with 5 judges)<br>
-_judge selection and term of office_: all Kuwaiti judges appointed by the Amir upon recommendation of the Supreme Judicial Council, a consultative body comprised of Kuwaiti judges and Ministry of Justice officials<br>
+_judge selection and term of office_: all Kuwaiti judges appointed by the Amir on recommendation of the Supreme Judicial Council, a consultative body comprised of Kuwaiti judges and Ministry of Justice officials<br>
 _subordinate courts_: High Court of Appeal; Court of First Instance; Summary Court<br>
 
 **Political parties**<br>

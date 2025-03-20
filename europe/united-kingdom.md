@@ -54,12 +54,12 @@ _mean elevation_: 162 m<br>
 coal, petroleum, natural gas, iron ore, lead, zinc, gold, tin, limestone, salt, clay, chalk, gypsum, potash, silica sand, slate, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 71% (2018 est.)<br>
-_arable land_: arable land: 25.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 45.7% (2018 est.)<br>
-_forest_: 11.9% (2018 est.)<br>
-_other_: 17.1% (2018 est.)<br>
+_agricultural land_: 69.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 24.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 44.6% (2022 est.)<br>
+_forest_: 13.3% (2022 est.)<br>
+_other_: 17.2% (2022 est.)<br>
 
 **Irrigated land**<br>
 718 sq km (2018)<br>
@@ -241,12 +241,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate; moderated by prevailing southwest winds over the North Atlantic Current; more than one-half of the days are overcast<br>
 
 **Land use**<br>
-_agricultural land_: 71% (2018 est.)<br>
-_arable land_: arable land: 25.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 45.7% (2018 est.)<br>
-_forest_: 11.9% (2018 est.)<br>
-_other_: 17.1% (2018 est.)<br>
+_agricultural land_: 69.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 24.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 44.6% (2022 est.)<br>
+_forest_: 13.3% (2022 est.)<br>
+_other_: 17.2% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 84.6% of total population (2023)<br>
@@ -316,7 +316,7 @@ common law system; has nonbinding judicial review of Acts of Parliament under th
 
 **Constitution**<br>
 _history_: uncoded; partly statutes, partly common law and practice<br>
-_amendments_: proposed as a bill for an Act of Parliament by the government, by the House of Commons, or by the House of Lords; passage requires agreement by both houses and by the monarch (Royal Assent); many previous, last in 2020 -&nbsp; The European Union (Withdrawal Agreement) Act 2020, European Union (Future Relationship) Act 2020<br>
+_amendment process_: proposed as a bill for an Act of Parliament by the government, by the House of Commons, or by the House of Lords; passage requires agreement by both houses and by the monarch (Royal Assent)<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -359,8 +359,8 @@ _percentage of women in chamber_: 30%<br>
 <strong>note: </strong>the number of total seats in the House of Lords does not include ineligible members or members on leave of absence<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court (consists of 12 justices, including the court president and deputy president); note - the Supreme Court was established by the Constitutional Reform Act 2005 and implemented in 2009, replacing the Appellate Committee of the House of Lords as the highest court in the United Kingdom<br>
-_judge selection and term of office_: judge candidates selected by an independent committee of several judicial commissions, followed by their recommendations to the prime minister, and appointed by the monarch; justices serve for life<br>
+_highest court(s)_: Supreme Court (consists of 12 justices, including the court president and deputy president)<br>
+_judge selection and term of office_: judge candidates selected by an independent committee of several judicial commissions, then recommended to the prime minister, and appointed by the monarch; justices serve for life<br>
 _subordinate courts_: England and Wales: Court of Appeal (civil and criminal divisions); High Court; Crown Court; County Courts; Magistrates' Courts; Scotland: Court of Sessions; Sheriff Courts; High Court of Justiciary; tribunals; Northern Ireland: Court of Appeal in Northern Ireland; High Court; county courts; magistrates' courts; specialized tribunals<br>
 
 **Political parties**<br>

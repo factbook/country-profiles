@@ -51,15 +51,15 @@ _mean elevation_: 1,792 m<br>
 small deposits of gold, copper, molybdenum, zinc, bauxite<br>
 
 **Land use**<br>
-_agricultural land_: 59.7% (2018 est.)<br>
-_arable land_: arable land: 15.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 42% (2018 est.)<br>
-_forest_: 9.1% (2018 est.)<br>
-_other_: 31.2% (2018 est.)<br>
+_agricultural land_: 58.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 15.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 41.1% (2022 est.)<br>
+_forest_: 11.5% (2022 est.)<br>
+_other_: 29.6% (2022 est.)<br>
 
 **Irrigated land**<br>
-1,554 sq km (2020)<br>
+1,559 sq km (2022)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lake Sevan - 1,360 sq km<br>
@@ -245,12 +245,12 @@ _signed, but not ratified_: Air Pollution-Heavy Metals, Air Pollution-Multi-effe
 highland continental, hot summers, cold winters<br>
 
 **Land use**<br>
-_agricultural land_: 59.7% (2018 est.)<br>
-_arable land_: arable land: 15.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 42% (2018 est.)<br>
-_forest_: 9.1% (2018 est.)<br>
-_other_: 31.2% (2018 est.)<br>
+_agricultural land_: 58.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 15.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 41.1% (2022 est.)<br>
+_forest_: 11.5% (2022 est.)<br>
+_other_: 29.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 63.7% of total population (2023)<br>
@@ -289,7 +289,7 @@ _conventional short form_: Armenia<br>
 _local long form_: Hayastani Hanrapetut'yun<br>
 _local short form_: Hayastan<br>
 _former_: Armenian Soviet Socialist Republic, Armenian Republic<br>
-_etymology_: the etymology of the country's name remains obscure; according to tradition, the country is named after Hayk, the legendary patriarch of the Armenians and the great-great-grandson of Noah; Hayk's descendant, Aram, purportedly is the source of the name Armenia<br>
+_etymology_: the etymology of the country's name remains obscure; according to tradition, the local name for the country, Hayastan, comes from Hayk, the legendary patriarch of the Armenians and the great-great-grandson of Noah; the name Armenia was first recorded in a rock inscription from A.D. 521 in modern-day Iran<br>
 
 **Government type**<br>
 parliamentary democracy; note - constitutional changes adopted in December 2015 transformed the government to a parliamentary system<br>
@@ -314,7 +314,7 @@ civil law system<br>
 
 **Constitution**<br>
 _history_: previous 1915, 1978; latest adopted 5 July 1995<br>
-_amendments_: <p>proposed by the president of the republic or by the National Assembly; passage requires approval by the president, by the National Assembly, and by a referendum with at least 25% registered voter participation and more than 50% of votes; constitutional articles on the form of government and democratic procedures are not amendable; amended 2005, 2015, last in 2020; the Constitutional Reform Council formed in 2019 was dissolved in December 2021, and replaced by a new Constitutional Reform Council, whose members were officially appointed in late January 2022; the new council is expected to address the form of government, i.e. presidential or semi-presidential or parliamentary,  and whether to merge the Court of Cassation with the Constitutional Court</p><br>
+_amendment process_: <p>proposed by the president of the republic or by the National Assembly; passage requires approval by the president, by the National Assembly, and by a referendum with at least 25% registered voter participation and more than 50% of votes; constitutional articles on the form of government and democratic procedures are not amendable</p><br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>

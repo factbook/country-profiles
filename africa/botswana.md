@@ -51,12 +51,12 @@ _mean elevation_: 1,013 m<br>
 diamonds, copper, nickel, salt, soda ash, potash, coal, iron ore, silver<br>
 
 **Land use**<br>
-_agricultural land_: 45.8% (2018 est.)<br>
-_arable land_: arable land: 0.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 45.2% (2018 est.)<br>
-_forest_: 19.8% (2018 est.)<br>
-_other_: 34.4% (2018 est.)<br>
+_agricultural land_: 45.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 45.2% (2022 est.)<br>
+_forest_: 26.5% (2022 est.)<br>
+_other_: 27.9% (2022 est.)<br>
 
 **Irrigated land**<br>
 25 sq km (2014)<br>
@@ -242,12 +242,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 semiarid; warm winters and hot summers<br>
 
 **Land use**<br>
-_agricultural land_: 45.8% (2018 est.)<br>
-_arable land_: arable land: 0.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 45.2% (2018 est.)<br>
-_forest_: 19.8% (2018 est.)<br>
-_other_: 34.4% (2018 est.)<br>
+_agricultural land_: 45.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 45.2% (2022 est.)<br>
+_forest_: 26.5% (2022 est.)<br>
+_other_: 27.9% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 72.9% of total population (2023)<br>
@@ -319,7 +319,7 @@ mixed legal system of civil law influenced by the Roman-Dutch model and also cus
 
 **Constitution**<br>
 _history_: previous 1960 (pre-independence); latest adopted March 1965, effective 30 September 1966<br>
-_amendments_: proposed by the National Assembly; passage requires approval in two successive Assembly votes with at least two-thirds majority in the final vote; proposals to amend constitutional provisions on fundamental rights and freedoms, the structure and branches of government, and public services also requires approval by majority vote in a referendum and assent by the president of the republic; amended several times, last in 2021<br>
+_amendment process_: proposed by the National Assembly; passage requires approval in two successive Assembly votes with at least two-thirds majority in the final vote; proposals to amend constitutional provisions on fundamental rights and freedoms, the structure and branches of government, and public services also requires approval by majority vote in a referendum and assent by the president of the republic<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>

@@ -54,12 +54,12 @@ _mean elevation_: 276 m<br>
 iron ore, gypsum, copper, phosphate, diamonds, gold, oil, fish<br>
 
 **Land use**<br>
-_agricultural land_: 38.5% (2018 est.)<br>
-_arable land_: arable land: 0.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 38.1% (2018 est.)<br>
-_forest_: 0.2% (2018 est.)<br>
-_other_: 61.3% (2018 est.)<br>
+_agricultural land_: 38.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 38.1% (2022 est.)<br>
+_forest_: 0.3% (2022 est.)<br>
+_other_: 61.2% (2022 est.)<br>
 
 **Irrigated land**<br>
 450 sq km (2012)<br>
@@ -253,12 +253,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 desert; constantly hot, dry, dusty<br>
 
 **Land use**<br>
-_agricultural land_: 38.5% (2018 est.)<br>
-_arable land_: arable land: 0.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 38.1% (2018 est.)<br>
-_forest_: 0.2% (2018 est.)<br>
-_other_: 61.3% (2018 est.)<br>
+_agricultural land_: 38.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 38.1% (2022 est.)<br>
+_forest_: 0.3% (2022 est.)<br>
+_other_: 61.2% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 57.7% of total population (2023)<br>
@@ -332,7 +332,7 @@ mixed legal system of Islamic and French civil law<br>
 
 **Constitution**<br>
 _history_: previous 1964; latest adopted 12 July 1991<br>
-_amendments_: proposed by the president of the republic or by Parliament; consideration of amendments by Parliament requires approval of at least one third of the membership; a referendum is held only if the amendment is approved by two-thirds majority vote; passage by referendum requires simple majority vote by eligible voters; passage of amendments proposed by the president can bypass a referendum if approved by at least three-fifths majority vote by Parliament; amended 2006, 2012, 2017<br>
+_amendment process_: proposed by the president of the republic or by Parliament; consideration of amendments by Parliament requires approval of at least one third of the membership; a referendum is held only if the amendment is approved by two-thirds majority vote; passage by referendum requires simple majority vote by eligible voters; passage of amendments proposed by the president can bypass a referendum if approved by at least three-fifths majority vote by Parliament<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -367,9 +367,9 @@ _expected date of next election_: May 2028<br>
 <strong>note:</strong> the early parliamentary elections in 2023 were the first to be held under President Mohamed Ould Cheikh El GHAZOUANI, elected in 2019 in the first peaceful transition of power; the elections followed the agreement between the government and parties in September 2022 to renew the Independent National Electoral Commission (CENI) and hold the elections in the first semester of 2023 for climatic and logistical reasons<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court or Cour Supreme (subdivided into 7 chambers: 2 civil, 2 labor, 1 commercial, 1 administrative, and 1 criminal, each with a chamber president and 2 councilors); Constitutional Council (consists of 9 members); High Court of Justice (consists of 9 members)<br>
+_highest court(s)_: Supreme Court or Cour Supr&ecirc;me (subdivided into 7 chambers: 2 civil, 2 labor, 1 commercial, 1 administrative, and 1 criminal, each with a chamber president and 2 councilors); Constitutional Council (consists of 9 members); High Court of Justice (consists of 9 members)<br>
 _judge selection and term of office_: Supreme Court president appointed by the president of the republic to serve a 5-year renewable term; Constitutional Council members appointed - 3 by the president of the republic, 2 by the president of the National Assembly, 1 by the prime minister, 1 by the leader of the democratic opposition, 1 by the largest opposition party in the National Assembly, and 1 by the second largest party in the National Assembly; members serve single, 9-year terms with one-third of membership renewed every 3 years; High Court of Justice members appointed by Parliament - 6 by the ruling Coalition of Majority Parties and 3 by opposition parties<br>
-_subordinate courts_: Courts of Appeal; courts of first instance or wilya courts are established in the regions' headquarters and include commercial and labor courts, criminal courts, Moughataa (district) Courts, and informal/customary courts<br>
+_subordinate courts_: Courts of Appeal; courts of first instance, or wilya courts, are established in the regions' headquarters and include commercial and labor courts, criminal courts, Moughataa (district) Courts, and informal/customary courts<br>
 
 **Political parties**<br>
 Alliance for Justice and Democracy/Movement for Renewal or AJD/MR<br>El Insaf or Equity Party<br>El Islah or Reform Party<br>El Karama or Dignity Party<br>El Vadila or Virtue Party<br>Mauritanian Party of Union and Change or HATEM<br>National Democratic Alliance or AND<br>National Rally for Reform and Development or RNRD or TAWASSOUL<br>Nida El-Watan<br>Party for Conciliation and Prosperity or HIWAR<br>Party of the Mauritanian Masses or Hakam<br>Republican Front for Unity and Democracy or FRUD<br>Sawab Party<br>Union for Democracy and Progress or UDP<br>Union of Planning and Construction or UPC<br>

@@ -56,12 +56,12 @@ gold, chromium, antimony, coal, iron ore, manganese, nickel, phosphates, tin, ra
 <strong>note: </strong>South Africa was the World's leading chromite ore producer in 2022 with an output of 18,000 mt<br>
 
 **Land use**<br>
-_agricultural land_: 79.4% (2018 est.)<br>
-_arable land_: arable land: 9.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 69.2% (2018 est.)<br>
-_forest_: 7.6% (2018 est.)<br>
-_other_: 13% (2018 est.)<br>
+_agricultural land_: 79.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 9.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 69.2% (2022 est.)<br>
+_forest_: 14% (2022 est.)<br>
+_other_: 6.6% (2022 est.)<br>
 
 **Irrigated land**<br>
 16,700 sq km (2012)<br>
@@ -252,12 +252,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 mostly semiarid; subtropical along east coast; sunny days, cool nights<br>
 
 **Land use**<br>
-_agricultural land_: 79.4% (2018 est.)<br>
-_arable land_: arable land: 9.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 69.2% (2018 est.)<br>
-_forest_: 7.6% (2018 est.)<br>
-_other_: 13% (2018 est.)<br>
+_agricultural land_: 79.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 9.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 69.2% (2022 est.)<br>
+_forest_: 14% (2022 est.)<br>
+_other_: 6.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 68.8% of total population (2023)<br>
@@ -325,7 +325,7 @@ mixed legal system of Roman-Dutch civil law, English common law, and customary l
 
 **Constitution**<br>
 _history_: several previous; latest drafted 8 May 1996, approved by the Constitutional Court 4 December 1996, effective 4 February 1997<br>
-_amendments_: proposed by the National Assembly of Parliament; passage of amendments affecting constitutional sections on human rights and freedoms, non-racism and non-sexism, supremacy of the constitution, suffrage, the multi-party system of democratic government, and amendment procedures requires at least 75% majority vote of the Assembly, approval by at least six of the nine provinces represented in the National Council of Provinces, and assent of the president of the republic; passage of amendments affecting the Bill of Rights, and those related to provincial boundaries, powers, and authorities requires at least two-thirds majority vote of the Assembly, approval by at least six of the nine provinces represented in the National Council, and assent of the president; amended many times, last in 2020<br>
+_amendment process_: proposed by the National Assembly of Parliament; passage of amendments affecting constitutional sections on human rights and freedoms, non-racism and non-sexism, supremacy of the constitution, suffrage, the multi-party system of democratic government, and amendment procedures requires at least 75% majority vote of the Assembly, approval by at least six of the nine provinces represented in the National Council of Provinces, and assent of the president of the republic; passage of amendments affecting the Bill of Rights, and those related to provincial boundaries, powers, and authorities requires at least two-thirds majority vote of the Assembly, approval by at least six of the nine provinces represented in the National Council, and assent of the president<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -372,7 +372,7 @@ _expected date of next election_: June 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Appeals (consists of the court president, deputy president, and 21 judges); Constitutional Court (consists of the chief and deputy chief justices and 9 judges)<br>
-_judge selection and term of office_: Supreme Court of Appeals president and vice president appointed by the national president after consultation with the Judicial Services Commission (JSC), a 23-member body chaired by the chief justice and includes other judges and judicial executives, members of parliament, practicing lawyers and advocates, a teacher of law, and several members designated by the president of South Africa; other Supreme Court judges appointed by the national president on the advice of the JSC and hold office until discharged from active service by an Act of Parliament; Constitutional Court chief and deputy chief justices appointed by the president of South Africa after consultation with the JSC and with heads of the National Assembly; other Constitutional Court judges appointed by the national president after consultation with the chief justice and leaders of the National Assembly; Constitutional Court judges serve 12-year nonrenewable terms or until age 70<br>
+_judge selection and term of office_: Supreme Court of Appeals president and vice president appointed by the national president after consultation with the Judicial Services Commission (JSC), a 23-member body chaired by the chief justice; other Supreme Court judges appointed by the national president on the advice of the JSC and hold office until discharged from active service by an Act of Parliament; Constitutional Court chief and deputy chief justices appointed by the president of South Africa after consultation with the JSC and with heads of the National Assembly; other Constitutional Court judges appointed by the national president after consultation with the chief justice and leaders of the National Assembly; Constitutional Court judges serve 12-year nonrenewable terms or until age 70<br>
 _subordinate courts_: High Courts; Magistrates' Courts; labor courts; land claims courts<br>
 
 **Political parties**<br>
@@ -382,7 +382,7 @@ African Christian Democratic Party or ACDP <br>African Independent Congress or 
 ACP, AfDB, AIIB, AU, BIS, BRICS, C, CD, FAO, FATF, G-20, G-24, G-5, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, NSG, OECD (enhanced engagement), OPCW, Paris Club (associate), PCA, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNITAR, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Ebrahim RASOOL (since 13 January 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Ismail ESAU (since 18 March 2025)<br>
 _chancery_: 3051 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (240) 937-5760<br>
 _FAX_: [1] (202) 265-1607<br>
@@ -390,7 +390,7 @@ _email address and website_: <br>Info.saembassyDC@dirco.gov.za<br><br>https://ww
 _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Dana M. BROWN (since January 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires David J. GREENE (since March 2025)<br>
 _embassy_: 877 Pretorius Street, Arcadia, Pretoria<br>
 _mailing address_: 9300 Pretoria Place, Washington DC&nbsp; 20521-9300<br>
 _telephone_: [27] (12) 431-4000<br>

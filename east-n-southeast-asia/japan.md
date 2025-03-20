@@ -54,12 +54,12 @@ negligible mineral resources, fish <br>
 <strong>note:</strong> with virtually no natural energy resources, Japan is almost totally dependent on imported sources of energy<br>
 
 **Land use**<br>
-_agricultural land_: 12.5% (2018 est.)<br>
-_arable land_: arable land: 11.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 68.5% (2018 est.)<br>
-_other_: 19% (2018 est.)<br>
+_agricultural land_: 12.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 11.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.9% (2022 est.)<br>
+_forest_: 68.4% (2022 est.)<br>
+_other_: 18.9% (2022 est.)<br>
 
 **Irrigated land**<br>
 15,730 sq km (2014)<br>
@@ -242,12 +242,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 varies from tropical in south to cool temperate in north<br>
 
 **Land use**<br>
-_agricultural land_: 12.5% (2018 est.)<br>
-_arable land_: arable land: 11.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 68.5% (2018 est.)<br>
-_other_: 19% (2018 est.)<br>
+_agricultural land_: 12.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 11.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.9% (2022 est.)<br>
+_forest_: 68.4% (2022 est.)<br>
+_other_: 18.9% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 92% of total population (2023)<br>
@@ -316,7 +316,7 @@ civil law system based on German model; system also reflects Anglo-American infl
 
 **Constitution**<br>
 _history_: previous 1890; latest approved 6 October 1946, adopted 3 November 1946, effective 3 May 1947<br>
-_amendments_: proposed by the Diet; passage requires approval by at least two-thirds majority of both houses of the Diet and approval by majority in a referendum; note - the constitution has not been amended since its enactment in 1947<br>
+_amendment process_: proposed by the Diet; passage requires approval by at least two-thirds majority of both houses of the Diet and approval by majority in a referendum<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -364,9 +364,10 @@ _percentage of women in chamber_: 25.5%<br>
 _expected date of next election_: July 2025<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court or Saiko saibansho (consists of the chief justice and 14 associate justices); note - the Supreme Court has jurisdiction in constitutional issues<br>
-_judge selection and term of office_: Supreme Court chief justice designated by the Cabinet and appointed by the monarch; associate justices appointed by the Cabinet and confirmed by the monarch; all justices are reviewed in a popular referendum at the first general election of the House of Representatives following each judge's appointment and every 10 years afterward<br>
+_highest court(s)_: Supreme Court or Saiko saibansho (consists of the chief justice and 14 associate justices)<br>
+_judge selection and term of office_: Supreme Court chief justice designated by the Cabinet and appointed by the monarch; associate justices appointed by the Cabinet and confirmed by the monarch; all justices are reviewed in a popular referendum during the first general election of the House of Representatives after each judge's appointment and every 10 years afterward<br>
 _subordinate courts_: 8 High Courts (Koto-saiban-sho), each with a Family Court (Katei-saiban-sho); 50 District Courts (Chiho saibansho), with 203 additional branches; 438 Summary Courts (Kani saibansho)<br>
+<strong>note</strong>: the Supreme Court has jurisdiction in constitutional issues<br>
 
 **Political parties**<br>
 Conservative Party of Japan or CPJ<br>Constitutional Democratic Party of Japan or CDP <br>Democratic Party for the People or DPFP or DPP <br>Japan Communist Party or JCP <br>Japan Innovation Party or Nippon Ishin no kai or Ishin <br>Komeito or Komei<br>Liberal Democratic Party or LDP <br>Okinawa Social Mass Party or Okinawa Whirlwind or OW<br>Party to Protect the People from NHK or NHK<br>Reiwa Shinsengumi <br>Sanseito Party<br>Social Democratic Party or SDP<br>

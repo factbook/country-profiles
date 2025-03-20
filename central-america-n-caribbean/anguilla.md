@@ -51,12 +51,12 @@ _lowest point_: Caribbean Sea 0 m<br>
 salt, fish, lobster<br>
 
 **Land use**<br>
-_agricultural land_: 0% (2018 est.)<br>
-_arable land_: arable land: 0% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 61.1% (2018 est.)<br>
-_other_: 38.9% (2018 est.)<br>
+_agricultural land_: 0% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0% (2018 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_forest_: 61.1% (2022 est.)<br>
+_other_: 38.9% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2020)<br>
@@ -193,12 +193,12 @@ supplies of potable water sometimes cannot meet increasing demand largely becaus
 tropical; moderated by northeast trade winds<br>
 
 **Land use**<br>
-_agricultural land_: 0% (2018 est.)<br>
-_arable land_: arable land: 0% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 61.1% (2018 est.)<br>
-_other_: 38.9% (2018 est.)<br>
+_agricultural land_: 0% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0% (2018 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_forest_: 61.1% (2022 est.)<br>
+_other_: 38.9% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
@@ -209,7 +209,7 @@ _rate of urbanization_: 0.47% annual rate of change (2020-25 est.)<br>
 **Country name**<br>
 _conventional long form_: none<br>
 _conventional short form_: Anguilla<br>
-_etymology_: the name Anguilla means "eel" in various Romance languages (Spanish, Italian, Portuguese, French) and likely derives from the island's lengthy shape<br>
+_etymology_: in 1493, Christopher Columbus named the island Anguilla, meaning "eel" in Spanish, because of the island's elongated shape<br>
 
 **Government type**<br>
 parliamentary democracy (House of Assembly); self-governing overseas territory of the UK<br>
@@ -237,7 +237,6 @@ common law based on the English model<br>
 
 **Constitution**<br>
 _history_: several previous; latest 1 April 1982<br>
-_amendments_: amended 1990, 2012, 2017, 2019<br>
 
 **Citizenship**<br>
 see United Kingdom<br>
@@ -263,8 +262,8 @@ _parties elected and seats per party_: APM (7); AUF (4)<br>
 _percentage of women in chamber_: 27.3%<br>
 
 **Judicial branch**<br>
-_highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, though none on Anguilla<br>
-_judge selection and term of office_: Eastern Caribbean Supreme Court chief justice appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
+_highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC is headquartered on St. Lucia&nbsp; and consists of the Court of Appeal -- headed by the chief justice and 4 judges -- and the High Court with 18 judges; the Court of Appeal travels to member states on a schedule to hear appeals from the High Court and subordinate courts<br>
+_judge selection and term of office_: Eastern Caribbean Supreme Court chief justice appointed by the British monarch; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
 _subordinate courts_: Magistrate's Court; Juvenile Court<br>
 
 **Political parties**<br>

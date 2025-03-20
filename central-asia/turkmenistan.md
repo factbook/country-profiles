@@ -51,15 +51,15 @@ _mean elevation_: 230 m<br>
 petroleum, natural gas, sulfur, salt<br>
 
 **Land use**<br>
-_agricultural land_: 72% (2018 est.)<br>
-_arable land_: arable land: 4.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 67.8% (2018 est.)<br>
-_forest_: 8.8% (2018 est.)<br>
-_other_: 19.2% (2018 est.)<br>
+_agricultural land_: 84.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 3.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 80.8% (2022 est.)<br>
+_forest_: 8.8% (2022 est.)<br>
+_other_: 7% (2022 est.)<br>
 
 **Irrigated land**<br>
-19,950 sq km (2012)<br>
+16,459 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
 _salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Russia, and Kazakhstan) - 374,000 sq km<br>
@@ -250,12 +250,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 subtropical desert<br>
 
 **Land use**<br>
-_agricultural land_: 72% (2018 est.)<br>
-_arable land_: arable land: 4.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 67.8% (2018 est.)<br>
-_forest_: 8.8% (2018 est.)<br>
-_other_: 19.2% (2018 est.)<br>
+_agricultural land_: 84.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 3.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 80.8% (2022 est.)<br>
+_forest_: 8.8% (2022 est.)<br>
+_other_: 7% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 54% of total population (2023)<br>
@@ -326,7 +326,7 @@ civil law system with Islamic (sharia) law influences<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 14 September 2016<br>
-_amendments_: proposed by the Assembly or Mejlis; passage requires two-thirds majority vote or absolute majority approval in a referendum; amended several times, last in 2023 (changed legislature from bicameral to unicameral Assembly or Mejlis; reestablished People's Council or Halk Maslahaty and named former president Gurbanguly BERDIMUHAMEDOV as National Leader of the Turkmen people<br>
+_amendment process_: proposed by the Assembly or Mejlis; passage requires two-thirds majority vote or absolute majority approval in a referendum<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>

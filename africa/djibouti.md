@@ -53,12 +53,12 @@ _mean elevation_: 430 m<br>
 potential geothermal power, gold, clay, granite, limestone, marble, salt, diatomite, gypsum, pumice, petroleum<br>
 
 **Land use**<br>
-_agricultural land_: 73.4% (2018 est.)<br>
-_arable land_: arable land: 0.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 73.3% (2018 est.)<br>
-_forest_: 0.2% (2018 est.)<br>
-_other_: 26.4% (2018 est.)<br>
+_agricultural land_: 73.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 73.3% (2022 est.)<br>
+_forest_: 0.3% (2022 est.)<br>
+_other_: 26.2% (2022 est.)<br>
 
 **Irrigated land**<br>
 10 sq km (2012)<br>
@@ -236,12 +236,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 desert; torrid, dry<br>
 
 **Land use**<br>
-_agricultural land_: 73.4% (2018 est.)<br>
-_arable land_: arable land: 0.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 73.3% (2018 est.)<br>
-_forest_: 0.2% (2018 est.)<br>
-_other_: 26.4% (2018 est.)<br>
+_agricultural land_: 73.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 73.3% (2022 est.)<br>
+_forest_: 0.3% (2022 est.)<br>
+_other_: 26.2% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 78.6% of total population (2023)<br>
@@ -308,7 +308,7 @@ mixed legal system based primarily on the French civil code (as it existed in 19
 
 **Constitution**<br>
 _history_: approved by referendum 4 September 1992<br>
-_amendments_: proposed by the president of the republic or by the National Assembly; Assembly consideration of proposals requires assent of at least one third of the membership; passage requires a simple majority vote by the Assembly and approval by simple majority vote in a referendum; the president can opt to bypass a referendum if adopted by at least two-thirds majority vote of the Assembly; constitutional articles on the sovereignty of Djibouti, its republican form of government, and its pluralist form of democracy cannot be amended; amended 2006, 2008, 2010<br>
+_amendment process_: proposed by the president of the republic or by the National Assembly; Assembly consideration of proposals requires assent of at least one third of the membership; passage requires a simple majority vote by the Assembly and approval by simple majority vote in a referendum; the president can opt to bypass a referendum if adopted by at least two-thirds majority vote of the Assembly; constitutional articles on the sovereignty of Djibouti, its republican form of government, and its pluralist form of democracy cannot be amended<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -343,7 +343,7 @@ _expected date of next election_: February 2028<br>
 <strong>note:</strong> most opposition parties boycotted the 2023 polls, stating the elections were "not free, not transparent, and not democratic"<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court or Cour Supreme (consists of NA magistrates); Constitutional Council (consists of 6 magistrates)<br>
+_highest court(s)_: Supreme Court or Cour Supr&ecirc;me (consists of NA magistrates); Constitutional Council (consists of 6 magistrates)<br>
 _judge selection and term of office_: Supreme Court magistrates appointed by the president with the advice of the Superior Council of the Magistracy (CSM), a 10-member body consisting of 4 judges, 3 members (non-parliamentarians and judges) appointed by the president, and 3 appointed by the National Assembly president or speaker; magistrates appointed for life with retirement at age 65; Constitutional Council magistrate appointments - 2 by the president of the republic, 2 by the president of the National Assembly, and 2 by the CSM; magistrates appointed for 8-year, non-renewable terms<br>
 _subordinate courts_: High Court of Appeal; Courts of First Instance; customary courts; State Court (replaced sharia courts in 2003)<br>
 

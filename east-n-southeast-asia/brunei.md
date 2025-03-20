@@ -52,12 +52,12 @@ _mean elevation_: 478 m<br>
 petroleum, natural gas, timber<br>
 
 **Land use**<br>
-_agricultural land_: 2.5% (2018 est.)<br>
-_arable land_: arable land: 0.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0.6% (2018 est.)<br>
-_forest_: 71.8% (2018 est.)<br>
-_other_: 25.7% (2018 est.)<br>
+_agricultural land_: 2.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.6% (2022 est.)<br>
+_forest_: 72.1% (2022 est.)<br>
+_other_: 25.4% (2022 est.)<br>
 
 **Irrigated land**<br>
 10 sq km (2012)<br>
@@ -236,12 +236,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; hot, humid, rainy<br>
 
 **Land use**<br>
-_agricultural land_: 2.5% (2018 est.)<br>
-_arable land_: arable land: 0.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0.6% (2018 est.)<br>
-_forest_: 71.8% (2018 est.)<br>
-_other_: 25.7% (2018 est.)<br>
+_agricultural land_: 2.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.6% (2022 est.)<br>
+_forest_: 72.1% (2022 est.)<br>
+_other_: 25.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 79.1% of total population (2023)<br>
@@ -299,8 +299,9 @@ National Day, 23 February (1984); note - 1 January 1984 was the date of independ
 mixed legal system based on English common law and Islamic law; note - in April 2019, the full sharia penal codes came into force and apply to Muslims and partly to non-Muslims in parallel with present common law codes<br>
 
 **Constitution**<br>
-_history_: drafted 1954 to 1959, signed 29 September 1959; note - some constitutional provisions suspended since 1962 under a State of Emergency, others suspended since independence in 1984<br>
-_amendments_: proposed by the monarch; passage requires submission to the Privy Council for Legislative Council review and finalization takes place by proclamation; the monarch can accept or reject changes to the original proposal provided by the Legislative Council; amended several times, last in 2010<br>
+_history_: drafted 1954 to 1959, signed 29 September 1959<br>
+_amendment process_: proposed by the monarch; passage requires submission to the Privy Council for Legislative Council review and finalization takes place by proclamation; the monarch can accept or reject changes to the original proposal provided by the Legislative Council<br>
+<strong>note:</strong> some constitutional provisions suspended since 1962 under a state of emergency, others suspended since independence in 1984<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICC<br>
@@ -333,9 +334,10 @@ _percentage of women in chamber_: 11.8%<br>
 _expected date of next election_: January 2028<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court (consists of the Court of Appeal and the High Court, each with a chief justice and 2 judges); Sharia Court (consists the Court of Appeals and the High Court); note - Brunei has a dual judicial system of secular and sharia (religious) courts; the Judicial Committee of Privy Council (in London) serves as the final appellate court for civil cases only<br>
+_highest court(s)_: Supreme Court (consists of the Court of Appeal and the High Court, each with a chief justice and 2 judges); Sharia Court (consists the Court of Appeals and the High Court);&nbsp;<br>
 _judge selection and term of office_: Supreme Court judges appointed by the monarch to serve until age 65, and older if approved by the monarch; Sharia Court judges appointed by the monarch for life<br>
 _subordinate courts_: Intermediate Court; Magistrates' Courts; Juvenile Court; small claims courts; lower sharia courts<br>
+<strong>note:</strong> Brunei has a dual judicial system of secular and sharia (religious) courts; the Judicial Committee of Privy Council (in London) serves as the final appellate court for civil cases only<br>
 
 **Political parties**<br>
 National Development Party or NDP<br>

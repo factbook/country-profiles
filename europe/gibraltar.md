@@ -50,8 +50,9 @@ _lowest point_: Mediterranean Sea 0 m<br>
 none<br>
 
 **Land use**<br>
-_agricultural land_: 0% (2011 est.)<br>
-_other_: 100% (2018 est.)<br>
+_agricultural land_: 0% (2022 est.)<br>
+_forest_: 0% (2022 est.)<br>
+_other_: 100% (2022 est.)<br>
 
 **Irrigated land**<br>
 NA<br>
@@ -186,8 +187,9 @@ limited natural freshwater resources: more than 90% of drinking water supplied b
 Mediterranean with mild winters and warm summers<br>
 
 **Land use**<br>
-_agricultural land_: 0% (2011 est.)<br>
-_other_: 100% (2018 est.)<br>
+_agricultural land_: 0% (2022 est.)<br>
+_forest_: 0% (2022 est.)<br>
+_other_: 100% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
@@ -233,7 +235,7 @@ the laws of the UK, where applicable, apply<br>
 
 **Constitution**<br>
 _history_: previous 1969; latest passed by referendum 30 November 2006, entered into effect 14 December 2006, entered into force 2 January 2007<br>
-_amendments_: proposed by Parliament and requires prior consent of the British monarch (through the Secretary of State); passage requires at least three-fourths majority vote in Parliament followed by simple majority vote in a referendum; note &ndash; only sections 1 through 15 in Chapter 1 (Protection of Fundamental Rights and Freedoms) can be amended by Parliament<br>
+_amendment process_: proposed by Parliament and requires prior consent of the British monarch (through the Secretary of State); passage requires at least three-fourths majority vote in Parliament followed by simple majority vote in a referendum; note &ndash; only sections 1 through 15 in Chapter 1 (Protection of Fundamental Rights and Freedoms) can be amended by Parliament<br>
 
 **Citizenship**<br>
 see United Kingdom<br>
@@ -260,9 +262,10 @@ _percentage of women in chamber_: 38.5%<br>
 _expected date of next election_: October 2027<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Court of Appeal (consists of at least 3 judges, including the court president); Supreme Court of Gibraltar (consists of the chief justice and 3 judges); note - appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
-_judge selection and term of office_: Court of Appeal and Supreme Court judges appointed by the governor upon the advice of the Judicial Service Commission, a 7-member body of judges and appointees of the governor; tenure of the Court of Appeal president based on terms of appointment; Supreme Court chief justice and judges normally appointed until retirement at age 67 but tenure can be extended 3 years<br>
+_highest court(s)_: Court of Appeal (consists of at least 3 judges, including the court president); Supreme Court of Gibraltar (consists of the chief justice and 3 judges)&nbsp;<br>
+_judge selection and term of office_: Court of Appeal and Supreme Court judges appointed by the governor upon the advice of the Judicial Service Commission, a 7-member body of judges and appointees of the governor; tenure of the Court of Appeal president based on terms of appointment; Supreme Court chief justice and judges normally appointed until retirement at age 67, but tenure can be extended 3 years<br>
 _subordinate courts_: Court of First Instance; Magistrates' Court; specialized tribunals for issues relating to social security, taxes, and employment<br>
+<strong>note:</strong> appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
 
 **Political parties**<br>
 Gibraltar Liberal Party or Liberal Party of Gibraltar or LPG <br>Gibraltar Social Democrats or GSD <br>Gibraltar Socialist Labor Party or GSLP <br>GSLP-Liberal Alliance <br>Together Gibraltar or TG <br>

@@ -51,12 +51,12 @@ _mean elevation_: 910 m<br>
 oil, coal, lignite, timber, iron ore, copper, zinc, antimony, magnesite, tungsten, graphite, salt, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 38.4% (2018 est.)<br>
-_arable land_: arable land: 16.5% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 21.1% (2018 est.)<br>
-_forest_: 47.2% (2018 est.)<br>
-_other_: 14.4% (2018 est.)<br>
+_agricultural land_: 31.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 16% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 14.7% (2022 est.)<br>
+_forest_: 47.2% (2022 est.)<br>
+_other_: 21.3% (2022 est.)<br>
 
 **Irrigated land**<br>
 382 sq km (2016)<br>
@@ -245,12 +245,12 @@ _signed, but not ratified_: Air Pollution-Multi-effect Protocol, Antarctic-Envir
 temperate; continental, cloudy; cold winters with frequent rain and some snow in lowlands and snow in mountains; moderate summers with occasional showers<br>
 
 **Land use**<br>
-_agricultural land_: 38.4% (2018 est.)<br>
-_arable land_: arable land: 16.5% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 21.1% (2018 est.)<br>
-_forest_: 47.2% (2018 est.)<br>
-_other_: 14.4% (2018 est.)<br>
+_agricultural land_: 31.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 16% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 14.7% (2022 est.)<br>
+_forest_: 47.2% (2022 est.)<br>
+_other_: 21.3% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 59.5% of total population (2023)<br>
@@ -300,7 +300,7 @@ _conventional long form_: Republic of Austria<br>
 _conventional short form_: Austria<br>
 _local long form_: Republik Oesterreich<br>
 _local short form_: Oesterreich<br>
-_etymology_: the name Oesterreich means "eastern realm" and dates to the 10th century; the designation refers to the fact that Austria was the easternmost extension of both Bavaria and all German peoples; the word Austria is a Latinization of the German name<br>
+_etymology_: the name Oesterreich means "eastern realm" and dates to the 10th century; the designation refers to the fact that Austria was the easternmost extension of Bavaria and German peoples; the word Austria is a Latinization of the German name<br>
 
 **Government type**<br>
 federal parliamentary republic<br>
@@ -326,7 +326,7 @@ civil law system; judicial review of legislative acts by the Constitutional Cour
 
 **Constitution**<br>
 _history_: several previous; latest adopted 1 October 1920, revised 1929, replaced May 1934, replaced by German Weimar constitution in 1938 following German annexation, reinstated 1 May 1945<br>
-_amendments_: proposed through laws designated "constitutional laws" or through the constitutional process if the amendment is part of another law; approval required by at least a two-thirds majority vote by the National Assembly and the presence of one-half of the members; a referendum is required only if requested by one-third of the National Council or Federal Council membership; passage by referendum requires absolute majority vote; amended many times, last in 2020<br>
+_amendment process_: proposed through laws designated "constitutional laws" or through the constitutional process if the amendment is part of another law; approval required by at least a two-thirds majority vote by the National Assembly and the presence of one-half of the members; a referendum is required only if requested by one-third of the National Council or Federal Council membership; passage by referendum requires absolute majority vote<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction<br>

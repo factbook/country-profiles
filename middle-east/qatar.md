@@ -53,15 +53,15 @@ _mean elevation_: 28 m<br>
 petroleum, fish, natural gas<br>
 
 **Land use**<br>
-_agricultural land_: 5.6% (2018 est.)<br>
-_arable land_: arable land: 1.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 4.3% (2018 est.)<br>
-_forest_: 0% (2018 est.)<br>
-_other_: 94.4% (2018 est.)<br>
+_agricultural land_: 6.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.4% (2022 est.)<br>
+_forest_: 0% (2022 est.)<br>
+_other_: 93.6% (2022 est.)<br>
 
 **Irrigated land**<br>
-130 sq km (2020)<br>
+130 sq km (2022)<br>
 
 **Major aquifers**<br>
 Arabian Aquifer System<br>
@@ -236,12 +236,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 arid; mild, pleasant winters; very hot, humid summers<br>
 
 **Land use**<br>
-_agricultural land_: 5.6% (2018 est.)<br>
-_arable land_: arable land: 1.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 4.3% (2018 est.)<br>
-_forest_: 0% (2018 est.)<br>
-_other_: 94.4% (2018 est.)<br>
+_agricultural land_: 6.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.4% (2022 est.)<br>
+_forest_: 0% (2022 est.)<br>
+_other_: 93.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 99.4% of total population (2023)<br>
@@ -307,7 +307,7 @@ mixed legal system of civil law and Islamic (sharia) law (in family and personal
 
 **Constitution**<br>
 _history_: previous 1972 (provisional); latest drafted 2 July 2002, approved by referendum 29 April 2003, endorsed 8 June 2004, effective 9 June 2005<br>
-_amendments_: proposed by the Amir or by one third of Advisory Council members; passage requires two-thirds majority vote of Advisory Council members and approval and promulgation by the emir; articles pertaining to the rule of state and its inheritance, functions of the emir, and citizen rights and liberties cannot be amended; amended by referendum November 2024; note - among the 19 proposed amendments, a major one was replacing direct elections for 30 of the 45 members of the Shura Council with appointments<br>
+_amendment process_: proposed by the Amir or by one third of Advisory Council members; passage requires two-thirds majority vote of Advisory Council members and approval and promulgation by the emir; articles pertaining to the rule of state and its inheritance, functions of the emir, and citizen rights and liberties cannot be amended<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>

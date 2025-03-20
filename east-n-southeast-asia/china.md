@@ -54,12 +54,12 @@ _mean elevation_: 1,840 m<br>
 coal, iron ore, helium, petroleum, natural gas, arsenic, bismuth, cobalt, cadmium, ferrosilicon, gallium, germanium, hafnium, indium, lithium, mercury, tantalum, tellurium, tin, titanium, tungsten, antimony, manganese, magnesium, molybdenum, selenium, strontium, vanadium, magnetite, aluminum, lead, zinc, rare earth elements, uranium, hydropower potential (world's largest), arable land<br>
 
 **Land use**<br>
-_agricultural land_: 54.7% (2018 est.)<br>
-_arable land_: arable land: 11.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 41.8% (2018 est.)<br>
-_forest_: 22.3% (2018 est.)<br>
-_other_: 23% (2018 est.)<br>
+_agricultural land_: 55.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 11.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 41.7% (2022 est.)<br>
+_forest_: 23.7% (2022 est.)<br>
+_other_: 21% (2022 est.)<br>
 
 **Irrigated land**<br>
 690,070 sq km (2012)<br>
@@ -259,12 +259,12 @@ _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 extremely diverse; tropical in south to subarctic in north<br>
 
 **Land use**<br>
-_agricultural land_: 54.7% (2018 est.)<br>
-_arable land_: arable land: 11.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 41.8% (2018 est.)<br>
-_forest_: 22.3% (2018 est.)<br>
-_other_: 23% (2018 est.)<br>
+_agricultural land_: 55.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 11.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 41.7% (2022 est.)<br>
+_forest_: 23.7% (2022 est.)<br>
+_other_: 21% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 64.6% of total population (2023)<br>
@@ -345,7 +345,7 @@ civil law influenced by Soviet and continental European civil law systems; legis
 
 **Constitution**<br>
 _history_: several previous; latest promulgated 4 December 1982<br>
-_amendments_: proposed by the Standing Committee of the National People&rsquo;s Congress or supported by more than one fifth of the National People&rsquo;s Congress membership; passage requires more than two-thirds majority vote of the Congress membership; amended several times, last in 2018<br>
+_amendment process_: proposed by the Standing Committee of the National People&rsquo;s Congress or supported by more than one fifth of the National People&rsquo;s Congress membership; passage requires more than two-thirds majority vote of the Congress membership<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>

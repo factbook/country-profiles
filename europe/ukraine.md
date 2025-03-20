@@ -54,15 +54,15 @@ _mean elevation_: 175 m<br>
 iron ore, coal, manganese, natural gas, oil, salt, sulfur, graphite, titanium, magnesium, kaolin, nickel, mercury, timber, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 71.2% (2018 est.)<br>
-_arable land_: arable land: 56.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 13.6% (2018 est.)<br>
-_forest_: 16.8% (2018 est.)<br>
-_other_: 12% (2018 est.)<br>
+_agricultural land_: 71.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 56.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 13% (2022 est.)<br>
+_forest_: 16.7% (2022 est.)<br>
+_other_: 12% (2022 est.)<br>
 
 **Irrigated land**<br>
-4,350 sq km (2020)<br>
+1,000 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
 Dunay (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Romania [m]) - 2,888 km; Dnipro (Dnieper) river mouth (shared with Russia [s] and Belarus) - 2,287 km; Dnister (Dniester) river source and mouth (shared with Moldova) - 1,411 km; Vistula (shared with Poland [s/m] and Belarus) - 1,213 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -245,12 +245,12 @@ _signed, but not ratified_: Air Pollution-Heavy Metals, Air Pollution-Persistent
 temperate continental; Mediterranean only on the southern Crimean coast; precipitation disproportionately distributed, highest in west and north, lesser in east and southeast; winters vary from cool along the Black Sea to cold farther inland; warm summers across the greater part of the country, hot in the south<br>
 
 **Land use**<br>
-_agricultural land_: 71.2% (2018 est.)<br>
-_arable land_: arable land: 56.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 13.6% (2018 est.)<br>
-_forest_: 16.8% (2018 est.)<br>
-_other_: 12% (2018 est.)<br>
+_agricultural land_: 71.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 56.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 13% (2022 est.)<br>
+_forest_: 16.7% (2022 est.)<br>
+_other_: 12% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 70.1% of total population (2023)<br>
@@ -325,7 +325,7 @@ civil law system; judicial review of legislative acts<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted and ratified 28 June 1996<br>
-_amendments_: proposed by the president of Ukraine or by at least one third of the Supreme Council members; adoption requires simple majority vote by the Council and at least two-thirds majority vote in its next regular session; adoption of proposals relating to general constitutional principles, elections, and amendment procedures requires two-thirds majority vote by the Council and approval in a referendum; constitutional articles on personal rights and freedoms, national independence, and territorial integrity cannot be amended; amended several times, last in 2019<br>
+_amendment process_: proposed by the president of Ukraine or by at least one third of the Supreme Council members; adoption requires simple majority vote by the Council and at least two-thirds majority vote in its next regular session; adoption of proposals relating to general constitutional principles, elections, and amendment procedures requires two-thirds majority vote by the Council and approval in a referendum; constitutional articles on personal rights and freedoms, national independence, and territorial integrity cannot be amended<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -362,9 +362,8 @@ _expected date of next election_: May 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Ukraine or SCU (consists of 100 judges, organized into civil, criminal, commercial and administrative chambers, and a grand chamber); Constitutional Court (consists of 18 justices); High Anti-Corruption Court (consists of 39 judges, including 12 in the Appeals Chamber)<br>
-_judge selection and term of office_: Supreme Court judges recommended by the High Qualification Commission of Judges (a 16-member state body responsible for judicial candidate testing and assessment and judicial administration), submitted to the High Council of Justice, a 21-member independent body of judicial officials responsible for judicial self-governance and administration, and appointed by the president; judges serve until mandatory retirement at age 65; High Anti-Corruption Court judges are selected by the same process as Supreme Court justices, with one addition – a majority of a combined High Qualification Commission of Judges and a 6-member Public Council of International Experts must vote in favor of potential judges in order to recommend their nomination to the High Council of Justice; this majority must include at least 3 members of the Public Council of International Experts; Constitutional Court justices appointed - 6 each by the president, by the Congress of Judges, and by the Verkhovna Rada; judges serve 9-year nonrenewable terms <p> </p><br>
+_judge selection and term of office_: Supreme Court judges recommended by the High Qualification Commission of Judges (a 16-member state body responsible for judicial candidate testing and assessment and judicial administration), submitted to the High Council of Justice, a 21-member independent body of judicial officials; judges serve until mandatory retirement at age 65; High Anti-Corruption Court judges are selected by the same process, with one addition – a majority of a combined High Qualification Commission of Judges and a 6-member Public Council of International Experts must vote in favor of potential judges in order to recommend their nomination to the High Council of Justice; Constitutional Court justices appointed - 6 each by the president, the Congress of Judges, and the Verkhovna Rada; judges serve 9-year nonrenewable terms <p> </p><br>
 _subordinate courts_: <p>Courts of Appeal; district courts</p><br>
-<strong>note:</strong> specialized courts were abolished as part of Ukraine's judicial reform program; in November 2019, President ZELENSKYY signed a bill on legal reforms<br>
 
 **Political parties**<br>
 Batkivshchyna (Fatherland)<br>European Solidarity or YeS<br>Holos (Voice or Vote)<br>Opposition Bloc (formerly known as Opposition Bloc — Party for Peace and Development, successor of the Industrial Party of Ukraine, and resulted from a schism in the original Opposition Bloc in 2019; banned in court June 2022; ceased to exist in July 2022)<br>Opposition Bloc or OB (divided into Opposition Bloc - Party for Peace and Development and Opposition Platform - For Life in 2019; ceased to exist in July 2022)<br>Opposition Platform - For Life (resulted from a schism in the original Opposition Bloc in 2019; activities suspended by the National Security and Defense Council in March 2022; dissolved in April 2022)<br>Platform for Life and Peace<br>Radical Party or RPOL<br>Samopomich (Self Reliance)<br>Servant of the People<br>Svoboda (Freedom)<br>

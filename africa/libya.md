@@ -53,12 +53,12 @@ _mean elevation_: 423 m<br>
 petroleum, natural gas, gypsum<br>
 
 **Land use**<br>
-_agricultural land_: 8.8% (2018 est.)<br>
-_arable land_: arable land: 1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 7.6% (2018 est.)<br>
-_forest_: 0.1% (2018 est.)<br>
-_other_: 91.1% (2018 est.)<br>
+_agricultural land_: 8.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 7.6% (2022 est.)<br>
+_forest_: 0.1% (2022 est.)<br>
+_other_: 91.2% (2022 est.)<br>
 
 **Irrigated land**<br>
 4,700 sq km (2012)<br>
@@ -231,12 +231,12 @@ _signed, but not ratified_: Climate Change-Paris Agreement, Law of the Sea<br>
 Mediterranean along coast; dry, extreme desert interior<br>
 
 **Land use**<br>
-_agricultural land_: 8.8% (2018 est.)<br>
-_arable land_: arable land: 1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 7.6% (2018 est.)<br>
-_forest_: 0.1% (2018 est.)<br>
-_other_: 91.1% (2018 est.)<br>
+_agricultural land_: 8.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 7.6% (2022 est.)<br>
+_forest_: 0.1% (2022 est.)<br>
+_other_: 91.2% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 81.6% of total population (2023)<br>
@@ -304,8 +304,8 @@ Liberation Day, 23 October (2011)<br>
 Libya's post-revolution legal system is in flux and driven by state and non-state entities<br>
 
 **Constitution**<br>
-_history_: previous 1951, 1977; in July 2017, the Constitutional Assembly completed and approved a draft of a new permanent constitution; in September 2018, the House of Representatives passed a constitutional referendum law in a session with contested reports of the quorum needed to pass the vote and submitted it to the High National Elections Commission in December to begin preparations for a constitutional referendum<br>
-_amendments_: note - in early March 2023, the High Council of State voted for a constitutional amendment to provide a groundwork for elections<br>
+_history_: previous 1951, 1977, 2011 (interim)<br>
+<strong>note: </strong>a draft constitution was approved in 2017, but it is not yet ratified<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -336,7 +336,7 @@ _expected date of next election_: December 2025<br>
 <strong>note:</strong> 32 seats are reserved for women<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Libya's judicial system consists of a supreme court, central high courts (in Tripoli, Benghazi, and Sabha), and a series of lower courts; the judicial system is factious given the ongoing tension between Libya's eastern and western regions; since 2011, Libyan political factions and armed groups have targeted judges and courthouses<br>
+_highest court(s)_: Libya's judicial system consists of a supreme court, central high courts (in Tripoli, Benghazi, and Sabha), and a series of lower courts<br>
 
 **Political parties**<br>
 NA<br><br>

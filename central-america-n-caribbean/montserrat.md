@@ -50,12 +50,12 @@ _lowest point_: Caribbean Sea 0 m<br>
 NEGL<br>
 
 **Land use**<br>
-_agricultural land_: 30% (2018 est.)<br>
-_arable land_: arable land: 20% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 10% (2018 est.)<br>
-_forest_: 25% (2018 est.)<br>
-_other_: 45% (2018 est.)<br>
+_agricultural land_: 30% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 20% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 10% (2022 est.)<br>
+_forest_: 25% (2022 est.)<br>
+_other_: 45% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -198,12 +198,12 @@ land erosion occurs on slopes that have been cleared for cultivation<br>
 tropical; little daily or seasonal temperature variation<br>
 
 **Land use**<br>
-_agricultural land_: 30% (2018 est.)<br>
-_arable land_: arable land: 20% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 10% (2018 est.)<br>
-_forest_: 25% (2018 est.)<br>
-_other_: 45% (2018 est.)<br>
+_agricultural land_: 30% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 20% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 10% (2022 est.)<br>
+_forest_: 25% (2022 est.)<br>
+_other_: 45% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 9.3% of total population (2023)<br>
@@ -242,7 +242,6 @@ English common law<br>
 
 **Constitution**<br>
 _history_: previous 1960; latest put into force 20 October 2010 (The Montserrat Constitution Order 2010)<br>
-_amendments_: amended 2011, 2020<br>
 
 **Citizenship**<br>
 see United Kingdom<br>
@@ -271,8 +270,8 @@ _expected date of next election_: 2024<br>
 <strong>note:</strong> the Assembly elects the speaker from the outside for a 5-year term; the Assembly includes 2 ex-officio members, the attorney general and the financial secretary<br>
 
 **Judicial branch**<br>
-_highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 1 assigned to Montserrat; Montserrat is also a member of the Caribbean Court of Justice<br>
-_judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by the Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, and independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
+_highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC is headquartered on St. Lucia and consists of the Court of Appeal -- headed by the chief justice and 4 judges -- and the High Court with 18 judges; the Court of Appeal travels to member states on a schedule to hear appeals from the High Court and subordinate courts; Montserrat is a member of the Caribbean Court of Justice<br>
+_judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by the British monarch; other justices and judges appointed by the Judicial and Legal Services Commission, and independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
 _subordinate courts_: magistrate's court<br>
 
 **Political parties**<br>

@@ -53,15 +53,15 @@ _mean elevation_: 800 m<br>
 petroleum, natural gas, iron ore, phosphates, uranium, lead, zinc<br>
 
 **Land use**<br>
-_agricultural land_: 17.4% (2018 est.)<br>
-_arable land_: arable land: 3.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 13.8% (2018 est.)<br>
-_forest_: 0.8% (2018 est.)<br>
-_other_: 81.8% (2018 est.)<br>
+_agricultural land_: 17.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 3.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 13.8% (2022 est.)<br>
+_forest_: 0.8% (2022 est.)<br>
+_other_: 81.8% (2022 est.)<br>
 
 **Irrigated land**<br>
-12,605 sq km (2016)<br>
+13,819 sq km (2019)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
@@ -241,12 +241,12 @@ _signed, but not ratified_: Nuclear Test Ban<br>
 arid to semiarid; mild, wet winters with hot, dry summers along coast; drier with cold winters and hot summers on high plateau; sirocco is a hot, dust/sand-laden wind especially common in summer<br>
 
 **Land use**<br>
-_agricultural land_: 17.4% (2018 est.)<br>
-_arable land_: arable land: 3.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 13.8% (2018 est.)<br>
-_forest_: 0.8% (2018 est.)<br>
-_other_: 81.8% (2018 est.)<br>
+_agricultural land_: 17.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 3.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 13.8% (2022 est.)<br>
+_forest_: 0.8% (2022 est.)<br>
+_other_: 81.8% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 75.3% of total population (2023)<br>
@@ -314,7 +314,7 @@ mixed legal system of French civil law and Islamic law; judicial review of legis
 
 **Constitution**<br>
 _history_: several previous; latest approved by referendum 1 November 2020<br>
-_amendments_: proposed by the president of the republic or through the president with the support of three fourths of the members of both houses of Parliament in joint session; passage requires approval by both houses, approval by referendum, and promulgation by the president; the president can forego a referendum if the Constitutional Council determines the proposed amendment does not conflict with basic constitutional principles; articles including the republican form of government, the integrity and unity of the country, and fundamental citizens&rsquo; liberties and rights cannot be amended; amended 2002, 2008, 2016; last in 2020<br>
+_amendment process_: proposed by the president of the republic or through the president with the support of three fourths of the members of both houses of Parliament in joint session; passage requires approval by both houses, approval by referendum, and promulgation by the president; the president can forego a referendum if the Constitutional Council determines the proposed amendment does not conflict with basic constitutional principles; articles including the republican form of government, the integrity and unity of the country, and fundamental citizens&rsquo; liberties and rights cannot be amended<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -361,9 +361,10 @@ _percentage of women in chamber_: 4.1%<br>
 _expected date of next election_: March 2025<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court or Le Cour Supr&ecirc;me, (consists of 150 judges organized into 8 chambers: Civil, Commercial and Maritime, Criminal, House of Offenses and Contraventions, House of Petitions, Land, Personal Status, and Social; Constitutional Council (consists of 12 members including the court chairman and deputy chairman); note - Algeria's judicial system does not include sharia courts<br>
+_highest court(s)_: Supreme Court or Le Cour Supr&ecirc;me, (consists of 150 judges organized into 8 chambers: Civil, Commercial and Maritime, Criminal, House of Offenses and Contraventions, House of Petitions, Land, Personal Status, and Social; Constitutional Council (consists of 12 members including the court chairman and deputy chairman)<br>
 _judge selection and term of office_: Supreme Court judges appointed by the High Council of Magistracy, an administrative body presided over by the president of the republic, and includes the republic vice-president and several members; judges appointed for life; Constitutional Council members - 4 appointed by the president of the republic, 2 each by the 2 houses of Parliament, 2 by the Supreme Court, and 2 by the Council of State; Council president and members appointed for single 6-year terms with half the membership renewed every 3 years<br>
 _subordinate courts_: appellate or wilaya courts; first instance or daira tribunals<br>
+<strong>note:</strong> Algeria's judicial system does not include sharia courts<br>
 
 **Political parties**<br>
 Algerian National Front or FNA<br>Algerian Popular Movement or MPA<br>Algeria's Hope Rally or TAJ<br>Dignity or El Karama<br>El-Infitah<br>El Mostakbal (Future Front)<br>Ennour El Djazairi Party (Algerian Radiance Party) or PED<br>Equity and Proclamation Party or PEP<br>Islamic Renaissance Movement or Ennahda Movement<br>Justice and Development Front or FJD<br>Movement for National Reform or El Islah<br>Movement of Society for Peace or MSP<br>National Construction Movement or El-Bina (Harakat El-Binaa El-Watani)<br>National Democratic Rally (Rassemblement National Democratique) or RND<br>National Front for Social Justice or FNJS<br>National Liberation Front or FLN<br>National Militancy Front or FMN<br>National Party for Solidarity and Development or PNSD<br>National Republican Alliance or ANR<br>New Dawn Party (El-Fajr El-Jadid)<br>New Generation (Jil Jadid)<br>Oath of 1954 or Ahd 54<br>Party of Justice and Liberty or PLJ<br>Rally for Culture and Democracy or RCD<br>Socialist Forces Front or FFS<br>Union for Change and Progress or UCP<br>Union of Democratic and Social Forces or UFDS<br>Vanguard of Liberties (Talaie El Hurriyet)<br>Workers Party or PT<br>Youth Party or PJ<br>

@@ -51,15 +51,15 @@ _mean elevation_: 143 m<br>
 bauxite, coal, natural gas, fertile soils, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 58.9% (2018 est.)<br>
-_arable land_: arable land: 48.5% (2018 est.)<br>
-_permanent crops_: permanent crops: 2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 8.4% (2018 est.)<br>
-_forest_: 22.5% (2018 est.)<br>
-_other_: 18.6% (2018 est.)<br>
+_agricultural land_: 55.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 45.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 8.5% (2022 est.)<br>
+_forest_: 22.5% (2022 est.)<br>
+_other_: 21.9% (2022 est.)<br>
 
 **Irrigated land**<br>
-1,010 sq km (2019)<br>
+1,331 sq km (2022)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lake Balaton - 590 sq km<br>
@@ -242,12 +242,12 @@ _signed, but not ratified_: Antarctic-Environmental Protection<br>
 temperate; cold, cloudy, humid winters; warm summers<br>
 
 **Land use**<br>
-_agricultural land_: 58.9% (2018 est.)<br>
-_arable land_: arable land: 48.5% (2018 est.)<br>
-_permanent crops_: permanent crops: 2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 8.4% (2018 est.)<br>
-_forest_: 22.5% (2018 est.)<br>
-_other_: 18.6% (2018 est.)<br>
+_agricultural land_: 55.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 45.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 8.5% (2022 est.)<br>
+_forest_: 22.5% (2022 est.)<br>
+_other_: 21.9% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 72.9% of total population (2023)<br>
@@ -324,7 +324,7 @@ civil legal system influenced by the German model<br>
 
 **Constitution**<br>
 _history_: previous 1949 (heavily amended in 1989 following the collapse of communism); latest approved 18 April 2011, signed 25 April 2011, effective 1 January 2012<br>
-_amendments_: proposed by the president of the republic, by the government, by parliamentary committee, or by Parliament members; passage requires two-thirds majority vote of Parliament members and approval by the president; amended several times, last in 2018<br>
+_amendment process_: proposed by the president of the republic, by the government, by parliamentary committee, or by Parliament members; passage requires two-thirds majority vote of Parliament members and approval by the president<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICC jurisdiction<br>
@@ -360,7 +360,7 @@ _expected date of next election_: April 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Curia or Supreme Judicial Court (consists of the president, vice president, department heads, and has a maximum of 113 judges, and is organized into civil, criminal, and administrative-labor departments; Constitutional Court (consists of 15 judges, including the court president and vice president)<br>
-_judge selection and term of office_: Curia president elected by the National Assembly on the recommendation of the president of the republic; other Curia judges appointed by the president upon the recommendation of the National Judicial Council, a separate 15-member administrative body; judge tenure based on interim evaluations until normal retirement at age 62; Constitutional Court judges, including the president of the court, elected by the National Assembly; court vice president elected by the court itself; members serve 12-year terms with mandatory retirement at age 62<br>
+_judge selection and term of office_: Curia president elected by the National Assembly on the recommendation of the president of the republic; other Curia judges appointed by the president on the recommendation of the National Judicial Council, a separate 15-member administrative body; judge tenure based on interim evaluations until normal retirement at age 62; Constitutional Court judges, including the president of the court, elected by the National Assembly; court vice president elected by the court itself; members serve 12-year terms with mandatory retirement at age 62<br>
 _subordinate courts_: 5 regional courts of appeal; 19 regional or county courts (including Budapest Metropolitan Court); 20 administrative-labor courts; 111 district or local courts<br>
 
 **Political parties**<br>

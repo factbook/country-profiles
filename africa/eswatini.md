@@ -51,12 +51,12 @@ _mean elevation_: 305 m<br>
 asbestos, coal, clay, cassiterite, hydropower, forests, small gold and diamond deposits, quarry stone, and talc<br>
 
 **Land use**<br>
-_agricultural land_: 68.3% (2018 est.)<br>
-_arable land_: arable land: 9.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 57.7% (2018 est.)<br>
-_forest_: 31.7% (2018 est.)<br>
-_other_: 0% (2018 est.)<br>
+_agricultural land_: 69.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 10.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 58.1% (2022 est.)<br>
+_forest_: 29.1% (2022 est.)<br>
+_other_: 1.5% (2022 est.)<br>
 
 **Irrigated land**<br>
 500 sq km (2012)<br>
@@ -233,12 +233,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 varies from tropical to near temperate<br>
 
 **Land use**<br>
-_agricultural land_: 68.3% (2018 est.)<br>
-_arable land_: arable land: 9.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 57.7% (2018 est.)<br>
-_forest_: 31.7% (2018 est.)<br>
-_other_: 0% (2018 est.)<br>
+_agricultural land_: 69.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 10.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 58.1% (2022 est.)<br>
+_forest_: 29.1% (2022 est.)<br>
+_other_: 1.5% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 24.8% of total population (2023)<br>
@@ -303,7 +303,7 @@ mixed legal system of civil, common, and customary law<br>
 
 **Constitution**<br>
 _history_: previous 1968, 1978; latest signed by the king 26 July 2005, effective 8 February 2006<br>
-_amendments_: proposed at a joint sitting of both houses of Parliament; passage requires majority vote by both houses and/or majority vote in a referendum, and assent of the king; passage of amendments affecting "specially entrenched" constitutional provisions requires at least three-fourths majority vote by both houses, passage by simple majority vote in a referendum, and assent of the king; passage of "entrenched" provisions requires at least two-thirds majority vote of both houses, passage in a referendum, and assent of the king<br>
+_amendment process_: proposed at a joint sitting of both houses of Parliament; passage requires majority vote by both houses and/or majority vote in a referendum, and assent of the king; passage of amendments affecting "specially entrenched" constitutional provisions requires at least three-fourths majority vote by both houses, passage by simple majority vote in a referendum, and assent of the king; passage of "entrenched" provisions requires at least two-thirds majority vote of both houses, passage in a referendum, and assent of the king<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt<br>
@@ -348,9 +348,10 @@ _percentage of women in chamber_: 46.7%<br>
 _expected date of next election_: November 2028<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court (consists of the chief justice and at least 4 justices) and the High Court (consists of the chief justice - ex officio - and 4 justices); note - the Supreme Court has jurisdiction in all constitutional matters<br>
+_highest court(s)_: Supreme Court (consists of the chief justice and at least 4 justices) and the High Court (consists of the chief justice ex officio and 4 justices)<br>
 _judge selection and term of office_: justices of the Supreme Court and High Court appointed by the monarch on the advice of the Judicial Service Commission (JSC), a judicial advisory body consisting of the Supreme Court Chief Justice, 4 members appointed by the monarch, and the chairman of the Civil Service Commission; justices of both courts eligible for retirement at age 65 with mandatory retirement at age 75<br>
 _subordinate courts_: magistrates' courts; National Swazi Courts for administering customary/traditional laws (jurisdiction restricted to customary law for Swazi citizens)<br>
+<strong>note: </strong>the Supreme Court has jurisdiction in all constitutional matters<br>
 
 **Political parties**<br>
 political parties exist but conditions for their operations, particularly in elections, are undefined, legally unclear, or culturally restricted; the following are considered political associations:<br>African United Democratic Party or AUDP <br>Ngwane National Liberatory Congress or NNLC <br>People's United Democratic Movement or PUDEMO <br>Swazi Democratic Party or SWADEPA <br>

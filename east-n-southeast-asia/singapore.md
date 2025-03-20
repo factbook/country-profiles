@@ -50,12 +50,12 @@ _lowest point_: Singapore Strait 0 m<br>
 fish, deepwater ports<br>
 
 **Land use**<br>
-_agricultural land_: 1% (2018 est.)<br>
-_arable land_: arable land: 0.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 3.3% (2018 est.)<br>
-_other_: 95.7% (2018 est.)<br>
+_agricultural land_: 0.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 21.2% (2022 est.)<br>
+_other_: 77.9% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -242,12 +242,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; hot, humid, rainy; two distinct monsoon seasons - northeastern monsoon (December to March) and southwestern monsoon (June to September); inter-monsoon - frequent afternoon and early evening thunderstorms<br>
 
 **Land use**<br>
-_agricultural land_: 1% (2018 est.)<br>
-_arable land_: arable land: 0.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 3.3% (2018 est.)<br>
-_other_: 95.7% (2018 est.)<br>
+_agricultural land_: 0.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 21.2% (2022 est.)<br>
+_other_: 77.9% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
@@ -309,7 +309,7 @@ English common law<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 22 December 1965<br>
-_amendments_: proposed by Parliament; passage requires two-thirds majority vote in the second and third readings by the elected Parliament membership and assent of the president of the republic; passage of amendments affecting sovereignty or control of the Police Force or the Armed Forces requires at least two-thirds majority vote in a referendum; amended many times, last in 2020<br>
+_amendment process_: proposed by Parliament; passage requires two-thirds majority vote in the second and third readings by the elected Parliament membership and assent of the president of the republic; passage of amendments affecting sovereignty or control of the Police Force or the Armed Forces requires at least two-thirds majority vote in a referendum<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -343,7 +343,7 @@ _percentage of women in chamber_: 29.6%<br>
 _expected date of next election_: July 2025<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court (although the number of judges varies - as of April 2019,&nbsp;the court&nbsp;totaled 20 judges, 7 judicial commissioners, 4 judges of appeal, and 16 international judges); the court is organized into an upper tier Appeal Court and a lower tier High Court<br>
+_highest court(s)_: Supreme Court (number of judges varies but includes judicial commissioners, judges of appeal, and international judges); the court is organized into an upper-tier Appeal Court and a lower-tier High Court<br>
 _judge selection and term of office_: judges appointed by the president from candidates recommended by the prime minister after consultation with the chief justice; judges usually serve until retirement at age 65, but terms can be extended<br>
 _subordinate courts_: district, magistrates', juvenile, family, community, and coroners' courts; small claims tribunals; employment claims tribunals<br>
 

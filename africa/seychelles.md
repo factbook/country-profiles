@@ -52,12 +52,12 @@ _lowest point_: Indian Ocean 0 m<br>
 fish, coconuts (copra), cinnamon trees<br>
 
 **Land use**<br>
-_agricultural land_: 6.5% (2018 est.)<br>
-_arable land_: arable land: 2.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 4.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 88.5% (2018 est.)<br>
-_other_: 5% (2018 est.)<br>
+_agricultural land_: 3.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 73.3% (2022 est.)<br>
+_other_: 23.4% (2022 est.)<br>
 
 **Irrigated land**<br>
 3 sq km (2012)<br>
@@ -231,12 +231,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical marine; humid; cooler season during southeast monsoon (late May to September); warmer season during northwest monsoon (March to May)<br>
 
 **Land use**<br>
-_agricultural land_: 6.5% (2018 est.)<br>
-_arable land_: arable land: 2.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 4.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 88.5% (2018 est.)<br>
-_other_: 5% (2018 est.)<br>
+_agricultural land_: 3.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 73.3% (2022 est.)<br>
+_other_: 23.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 58.8% of total population (2023)<br>
@@ -296,7 +296,7 @@ mixed legal system of English common law, French civil law, and customary law<br
 
 **Constitution**<br>
 _history_: previous 1970, 1979; latest drafted May 1993, approved by referendum 18 June 1993, effective 23 June 1993<br>
-_amendments_: proposed by the National Assembly; passage requires at least two-thirds majority vote by the National Assembly; passage of amendments affecting the country&rsquo;s sovereignty, symbols and languages, the supremacy of the constitution, fundamental rights and freedoms, amendment procedures, and dissolution of the Assembly also requires approval by at least 60% of voters in a referendum; amended several times, last in 2018<br>
+_amendment process_: proposed by the National Assembly; passage requires at least two-thirds majority vote by the National Assembly; passage of amendments affecting the country&rsquo;s sovereignty, symbols and languages, the supremacy of the constitution, fundamental rights and freedoms, amendment procedures, and dissolution of the Assembly also requires approval by at least 60% of voters in a referendum<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>

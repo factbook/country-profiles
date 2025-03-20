@@ -54,15 +54,15 @@ _mean elevation_: 149 m<br>
 petroleum, natural gas<br>
 
 **Land use**<br>
-_agricultural land_: 4.6% (2018 est.)<br>
-_arable land_: arable land: 0.5% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 3.6% (2018 est.)<br>
-_forest_: 3.8% (2018 est.)<br>
-_other_: 91.6% (2018 est.)<br>
+_agricultural land_: 5.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.2% (2022 est.)<br>
+_forest_: 4.5% (2022 est.)<br>
+_other_: 90% (2022 est.)<br>
 
 **Irrigated land**<br>
-898 sq km (2020)<br>
+940 sq km (2022)<br>
 
 **Population distribution**<br>
 population is heavily concentrated to the northeast on the Musandam Peninsula; the three largest emirates - Abu Dhabi, Dubai, and Sharjah - are home to nearly 85% of the population<br>
@@ -231,12 +231,12 @@ _signed, but not ratified_: Law of the Sea<br>
 desert; cooler in eastern mountains<br>
 
 **Land use**<br>
-_agricultural land_: 4.6% (2018 est.)<br>
-_arable land_: arable land: 0.5% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 3.6% (2018 est.)<br>
-_forest_: 3.8% (2018 est.)<br>
-_other_: 91.6% (2018 est.)<br>
+_agricultural land_: 5.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.2% (2022 est.)<br>
+_forest_: 4.5% (2022 est.)<br>
+_other_: 90% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 87.8% of total population (2023)<br>
@@ -300,7 +300,7 @@ mixed legal system of Islamic (sharia) law and civil law<br>
 
 **Constitution**<br>
 _history_: previous 1971 (provisional); latest drafted in 1979, became permanent May 1996<br>
-_amendments_: proposed by the Supreme Council and submitted to the Federal National Council; passage requires at least a two-thirds majority vote of Federal National Council members present and approval of the Supreme Council president; amended 2009<br>
+_amendment process_: proposed by the Supreme Council and submitted to the Federal National Council; passage requires at least a two-thirds majority vote of Federal National Council members present and approval of the Supreme Council president<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -335,8 +335,9 @@ _expected date of next election_: October 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Supreme Court (consists of the court president and 4 judges; jurisdiction limited to federal cases)<br>
-_judge selection and term of office_: judges appointed by the federal president following approval by the Federal Supreme Council, the highest executive and legislative authority consisting of the 7 emirate rulers; judges serve until retirement age or the expiry of their appointment terms<br>
-_subordinate courts_: Federal Court of Cassation (determines the constitutionality of laws promulgated at the federal and emirate level; federal level courts of first instance and appeals courts); the emirates of Abu Dhabi, Dubai, and Ra's al Khaymah have parallel court systems; the other 4 emirates have incorporated their courts into the federal system; note - the Abu Dhabi Global Market Courts and the Dubai International Financial Center Courts, the country&rsquo;s two largest financial free zones, both adjudicate civil and commercial disputes.<br>
+_judge selection and term of office_: judges appointed by the federal president after approval from the Federal Supreme Council, the highest executive and legislative authority consisting of the 7 emirate rulers; judges serve until retirement age or the expiration of their appointment terms<br>
+_subordinate courts_: Federal Court of Cassation (determines the constitutionality of laws); the emirates of Abu Dhabi, Dubai, and Ra's al Khaymah have parallel court systems; the other 4 emirates have incorporated their courts into the federal system<br>
+<strong>note</strong>: the Abu Dhabi Global Market Courts and the Dubai International Financial Center Courts, the country’s two largest financial free zones, adjudicate civil and commercial disputes<br>
 
 **Political parties**<br>
 none; political parties are banned; all candidates run as independents<br>

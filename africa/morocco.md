@@ -56,12 +56,12 @@ _mean elevation_: 909 m<br>
 phosphates, iron ore, manganese, lead, zinc, fish, salt<br>
 
 **Land use**<br>
-_agricultural land_: 67.5% (2018 est.)<br>
-_arable land_: arable land: 17.5% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 47.1% (2018 est.)<br>
-_forest_: 11.5% (2018 est.)<br>
-_other_: 21% (2018 est.)<br>
+_agricultural land_: 67.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 16.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 47.1% (2022 est.)<br>
+_forest_: 12.9% (2022 est.)<br>
+_other_: 19.2% (2022 est.)<br>
 <strong>note:</strong> does not include the area of the former Western Sahara, which is almost exclusively desert<br>
 
 **Irrigated land**<br>
@@ -265,12 +265,12 @@ Mediterranean in the north, becoming more extreme in the interior; in the south,
 <strong>note:</strong>  data does not include former Western Sahara<br>
 
 **Land use**<br>
-_agricultural land_: 67.5% (2018 est.)<br>
-_arable land_: arable land: 17.5% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 47.1% (2018 est.)<br>
-_forest_: 11.5% (2018 est.)<br>
-_other_: 21% (2018 est.)<br>
+_agricultural land_: 67.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 16.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 47.1% (2022 est.)<br>
+_forest_: 12.9% (2022 est.)<br>
+_other_: 19.2% (2022 est.)<br>
 <strong>note:</strong> does not include the area of the former Western Sahara, which is almost exclusively desert<br>
 
 **Urbanization**<br>
@@ -346,8 +346,8 @@ Throne Day (accession of King MOHAMMED VI to the throne), 30 July (1999)<br>
 mixed legal system of civil law based on French civil law and Islamic (sharia) law; judicial review of legislative acts by Constitutional Court<br>
 
 **Constitution**<br>
-_history_: several previous; latest drafted 17 June 2011, approved by referendum 1 July 2011; note - sources disagree on whether the 2011 referendum was for a new constitution or for reforms to the existing constitution<br>
-_amendments_: proposed by the king, by the prime minister, or by members in either chamber of Parliament; passage requires at least two-thirds majority vote by both chambers and approval in a referendum; the king can opt to submit self-initiated proposals directly to a referendum<br>
+_history_: several previous; latest drafted 17 June 2011, approved by referendum 1 July 2011&nbsp;<br>
+_amendment process_: proposed by the king, by the prime minister, or by members in either chamber of Parliament; passage requires at least two-thirds majority vote by both chambers and approval in a referendum; the king can opt to submit self-initiated proposals directly to a referendum<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>

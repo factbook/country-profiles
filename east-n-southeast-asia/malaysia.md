@@ -53,15 +53,15 @@ _mean elevation_: 419 m<br>
 tin, petroleum, timber, copper, iron ore, natural gas, bauxite<br>
 
 **Land use**<br>
-_agricultural land_: 23.2% (2018 est.)<br>
-_arable land_: arable land: 2.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 19.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0.9% (2018 est.)<br>
-_forest_: 62% (2018 est.)<br>
-_other_: 14.8% (2018 est.)<br>
+_agricultural land_: 26.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 22.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.9% (2022 est.)<br>
+_forest_: 57.9% (2022 est.)<br>
+_other_: 16% (2022 est.)<br>
 
 **Irrigated land**<br>
-4,420 sq km (2020)<br>
+4,420 sq km (2022)<br>
 
 **Population distribution**<br>
 a highly uneven distribution with over 80% of the population residing on the Malay Peninsula<br>
@@ -237,12 +237,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; annual southwest (April to October) and northeast (October to February) monsoons<br>
 
 **Land use**<br>
-_agricultural land_: 23.2% (2018 est.)<br>
-_arable land_: arable land: 2.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 19.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0.9% (2018 est.)<br>
-_forest_: 62% (2018 est.)<br>
-_other_: 14.8% (2018 est.)<br>
+_agricultural land_: 26.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 22.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.9% (2022 est.)<br>
+_forest_: 57.9% (2022 est.)<br>
+_other_: 16% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 78.7% of total population (2023)<br>
@@ -310,7 +310,7 @@ mixed legal system of English common law, Islamic law (sharia), and customary la
 
 **Constitution**<br>
 _history_: previous 1948; latest drafted 21 February 1957, effective 27 August 1957<br>
-_amendments_: proposed as a bill by Parliament; passage requires at least two-thirds majority vote by the Parliament membership in the bill&rsquo;s second and third readings; a number of constitutional sections are excluded from amendment or repeal; amended many times, last in 2019<br>
+_amendment process_: proposed as a bill by Parliament; passage requires at least two-thirds majority vote by the Parliament membership in the bill&rsquo;s second and third readings; a number of constitutional sections are excluded from amendment or repeal<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -352,9 +352,10 @@ _number of seats_: 70 (26 indirectly elected; 44 appointed)<br>
 _percentage of women in chamber_: 16.1%<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Federal Court (consists of the chief justice, president of the Court of Appeal, chief justice of the High Court of Malaya, chief judge of the High Court of Sabah and Sarawak, 8 judges, and 1 "additional" judge); note - Malaysia has a dual judicial hierarchy of civil and religious (sharia) courts<br>
+_highest court(s)_: Federal Court (consists of the chief justice, president of the Court of Appeal, chief justice of the High Court of Malaya, chief judge of the High Court of Sabah and Sarawak, 8 judges, and 1 "additional" judge)<br>
 _judge selection and term of office_: Federal Court justices appointed by the monarch on advice of the prime minister; judges serve until mandatory retirement at age 66 with the possibility of a single 6-month extension<br>
 _subordinate courts_: Court of Appeal; High Court; Sessions Court; Magistrates' Court<br>
+<strong>note</strong>: Malaysia has a dual judicial hierarchy of civil and religious (sharia) courts<br>
 
 **Political parties**<br>
 <strong>National Front (Barisan Nasional) or BN:<br></strong>Malaysian Chinese Association (Persatuan Cina Malaysia) or MCA <br>Malaysian Indian Congress (Kongres India Malaysia) or MIC <br>United Malays National Organization (Pertubuhan Kebansaan Melayu Bersatu) or UMNO <br>United Sabah People's Party (Parti Bersatu Rakyat Sabah) or PBRS <br><br><strong>Alliance of Hope (Pakatan Harapan) or PH:</strong><br>Democratic Action Party (Parti Tindakan Demokratik) or DAP <br>National Trust Party (Parti Amanah Negara) or AMANAH <br>People's Justice Party (Parti Keadilan Rakyat) or PKR <br>United Progressive Kinabalu Organization (Pertubuhan Kinabalu Progresif Bersatu) or UPKO <br><br><strong>National Alliance (Perikatan Nasional) or PN:</strong><br>Malaysian People's Movement Party (Parti Gerakan Rakyat Malaysia) or GERAKAN or PGRM <br>Malaysian United Indigenous Party (Parti Pribumi Bersatu Malaysia) or PPBM or BERSATU <br>Pan-Malaysian Islamic Party (Parti Islam Se-Malaysia) or PAS <br> <p><strong>Sabah People's Alliance (Gabungan Rakya Sabah) or GRS:<br></strong>Homeland Solidarity Party (Parti Solidariti Tanah Airku) or STAR <br>Love Sabah Party (Parti Cinta Sabah) or PCS<br>Sabah People's Ideas Party (Parti Gagasan Rakyat Sabah) or GAGASAN or PGRS <br> <br><br><strong>Sarawak Parties Alliance (Gabungan Parti Sarawak) or GPS:</strong><br>Progressive Democratic Party (Parti Demokratik Progresif) or PDP <br>Sarawak People's Party (Parti Rakyat Sarawak) or PRS <br>Sarawak United People's Party (Parti Rakyat Bersatu Sarawak) or SUPP <br>United Bumiputera Heritage Party (Parti Pesaka Bumiputera Bersata) or PBB <br><strong><br>Others: </strong><strong><br></strong>Malaysian Nation Party (Parti Bangsa Malaysia) or PBM<br>Heritage Party (Parti Warisan) or WARISAN <br>Homeland Fighter's Party (Parti Pejuang Tanah Air) or PEJUANG <br>Malaysian United Democratic Alliance (Ikatan Demokratik Malaysia) or MUDA <br>United Sarawak Party (PSB) </p><br>

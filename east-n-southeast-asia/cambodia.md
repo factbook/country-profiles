@@ -54,12 +54,12 @@ _mean elevation_: 126 m<br>
 oil and gas, timber, gemstones, iron ore, manganese, phosphates, hydropower potential, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 32.1% (2018 est.)<br>
-_arable land_: arable land: 22.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 8.5% (2018 est.)<br>
-_forest_: 56.5% (2018 est.)<br>
-_other_: 11.4% (2018 est.)<br>
+_agricultural land_: 34.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 23.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 8.5% (2022 est.)<br>
+_forest_: 43.9% (2022 est.)<br>
+_other_: 21.4% (2022 est.)<br>
 
 **Irrigated land**<br>
 3,540 sq km (2012)<br>
@@ -245,12 +245,12 @@ _signed, but not ratified_: Law of the Sea<br>
 tropical; rainy, monsoon season (May to November); dry season (December to April); little seasonal temperature variation<br>
 
 **Land use**<br>
-_agricultural land_: 32.1% (2018 est.)<br>
-_arable land_: arable land: 22.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 8.5% (2018 est.)<br>
-_forest_: 56.5% (2018 est.)<br>
-_other_: 11.4% (2018 est.)<br>
+_agricultural land_: 34.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 23.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 8.5% (2022 est.)<br>
+_forest_: 43.9% (2022 est.)<br>
+_other_: 21.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 25.6% of total population (2023)<br>
@@ -320,7 +320,7 @@ civil law system (influenced by the UN Transitional Authority in Cambodia) custo
 
 **Constitution**<br>
 _history_: previous 1947; latest promulgated 21 September 1993<br>
-_amendments_: proposed by the monarch, by the prime minister, or by the president of the National Assembly if supported by one fourth of the Assembly membership; passage requires two-thirds majority of the Assembly membership; constitutional articles on the multiparty democratic form of government and the monarchy cannot be amended; amended several times, latest 2022<br>
+_amendment process_: proposed by the monarch, by the prime minister, or by the president of the National Assembly if supported by one fourth of the Assembly membership; passage requires two-thirds majority of the Assembly membership; constitutional articles on the multiparty democratic form of government and the monarchy cannot be amended<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -368,8 +368,8 @@ _percentage of women in chamber_: 19.4%<br>
 _expected date of next election_: February 2030<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Council (organized into 5- and 9-judge panels and includes a court chief and deputy chief); Constitutional Court (consists of 9 members); note - in 1997, the Cambodian Government requested UN assistance in establishing trials to prosecute former Khmer Rouge senior leaders for crimes against humanity committed during the 1975-1979 Khmer Rouge regime; the Extraordinary Chambers of the Courts of Cambodia (also called the Khmer Rouge Tribunal) was established in 2006 and began hearings for the first case in 2009; court proceedings remain ongoing in 2021<br>
-_judge selection and term of office_: Supreme Court and Constitutional Council judge candidates recommended by the Supreme Council of Magistracy, a 17-member body chaired by the monarch and includes other high-level judicial officers; judges of both courts appointed by the monarch; Supreme Court judges appointed for life; Constitutional Council judges appointed for 9-year terms with one-third of the court renewed every 3 years<br>
+_highest court(s)_: Supreme Council (organized into 5- and 9-judge panels and includes a court chief and deputy chief); Constitutional Court (consists of 9 members)<br>
+_judge selection and term of office_: Supreme Court and Constitutional Council judge candidates recommended by the Supreme Council of Magistracy, a 17-member body chaired by the monarch and includes other high-level judicial officers; judges of both courts appointed by the monarch; Supreme Court judges appointed for life; Constitutional Council judges appointed for 9-year terms with one third of the court renewed every 3 years<br>
 _subordinate courts_: Appellate Court; provincial and municipal courts; Military Court<br>
 
 **Political parties**<br>

@@ -54,15 +54,15 @@ _mean elevation_: 160 m<br>
 coal (fourth-largest reserves in the world), antimony, iron ore, lead, manganese, mica, bauxite, rare earth elements, titanium ore, chromite, natural gas, diamonds, petroleum, limestone, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 60.5% (2018 est.)<br>
-_arable land_: arable land: 52.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 4.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 3.5% (2018 est.)<br>
-_forest_: 23.1% (2018 est.)<br>
-_other_: 16.4% (2018 est.)<br>
+_agricultural land_: 60% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 51.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 4.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 3.5% (2022 est.)<br>
+_forest_: 24.4% (2022 est.)<br>
+_other_: 15.5% (2022 est.)<br>
 
 **Irrigated land**<br>
-715,539 sq km (2020)<br>
+754,562 sq km (2022)<br>
 
 **Major lakes (area sq km)**<br>
 _salt water lake(s)_: Chilika Lake - 1,170 sq km<br>
@@ -256,12 +256,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 varies from tropical monsoon in south to temperate in north<br>
 
 **Land use**<br>
-_agricultural land_: 60.5% (2018 est.)<br>
-_arable land_: arable land: 52.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 4.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 3.5% (2018 est.)<br>
-_forest_: 23.1% (2018 est.)<br>
-_other_: 16.4% (2018 est.)<br>
+_agricultural land_: 60% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 51.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 4.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 3.5% (2022 est.)<br>
+_forest_: 24.4% (2022 est.)<br>
+_other_: 15.5% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 36.4% of total population (2023)<br>
@@ -335,8 +335,8 @@ Republic Day, 26 January (1950)<br>
 common law system based on the English model; separate personal law codes apply to Muslims, Christians, and Hindus; judicial review of legislative acts<br>
 
 **Constitution**<br>
-_history_: previous 1935 (preindependence); latest draft completed 4 November 1949, adopted 26 November 1949, effective 26 January 1950<br>
-_amendments_: proposed by either the Council of States or the House of the People; passage requires majority participation of the total membership in each house and at least two-thirds majority of voting members of each house, followed by assent of the president of India; proposed amendments to the constitutional amendment procedures also must be ratified by at least one half of the India state legislatures before presidential assent; amended many times, last in 2023<br>
+_history_: previous 1935 (pre-independence); latest draft completed 4 November 1949, adopted 26 November 1949, effective 26 January 1950<br>
+_amendment process_: proposed by either the Council of States or the House of the People; passage requires majority participation of the total membership in each house and at least two-thirds majority of voting members of each house, followed by assent of the president of India; proposed amendments to the constitutional amendment procedures also must be ratified by at least one half of the India state legislatures before presidential assent<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt<br>

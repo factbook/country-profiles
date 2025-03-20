@@ -51,12 +51,12 @@ _lowest point_: Atlantic Ocean 0 m<br>
 fish, whales, hydropower, possible oil and gas<br>
 
 **Land use**<br>
-_agricultural land_: 2.1% (2018 est.)<br>
-_arable land_: arable land: 2.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 0.1% (2018 est.)<br>
-_other_: 97.8% (2018 est.)<br>
+_agricultural land_: 70.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 70.1% (2022 est.)<br>
+_forest_: 0.1% (2022 est.)<br>
+_other_: 29.8% (2022 est.)<br>
 
 **Population distribution**<br>
 the island of Streymoy is by far the most populous with over 40% of the population; it has approximately twice as many inhabitants as Eysturoy, the second most populous island; seven of the inhabited islands have fewer than 100 people<br>
@@ -198,12 +198,12 @@ coastal erosion, landslides and rockfalls, flash flooding, wind storms; oil spil
 mild winters, cool summers; usually overcast; foggy, windy<br>
 
 **Land use**<br>
-_agricultural land_: 2.1% (2018 est.)<br>
-_arable land_: arable land: 2.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 0.1% (2018 est.)<br>
-_other_: 97.8% (2018 est.)<br>
+_agricultural land_: 70.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 70.1% (2022 est.)<br>
+_forest_: 0.1% (2022 est.)<br>
+_other_: 29.8% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 43% of total population (2023)<br>
@@ -259,7 +259,7 @@ the laws of Denmark apply where applicable<br>
 
 **Constitution**<br>
 _history_: 5 June 1953 (Danish Constitution), 23 March 1948 (Home Rule Act), and 24 June 2005 (Takeover Act) serve as the Faroe Islands' constitutional position in the Unity of the Realm<br>
-_amendments_: see entry for Denmark<br>
+_amendment process_: see entry for Denmark<br>
 
 **Citizenship**<br>
 see Denmark<br>
@@ -287,8 +287,8 @@ _expected date of next election_: 2026<br>
 <strong>note:</strong> the Faroe Islands elect 2 members to the Danish Parliament to serve 4-year terms<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Faroese Court or Raett (Rett - Danish) decides both civil and criminal cases; the Court is part of the Danish legal system<br>
-_subordinate courts_: Court of the First Instance or Tribunal de Premiere Instance; Court of Administrative Law or Tribunal Administratif; Mixed Commercial Court; Land Court<br>
+_highest court(s)_: Faroese Court or Raett (Rett in Danish) decides both civil and criminal cases; the Court is part of the Danish legal system<br>
+_subordinate courts_: Court of the First Instance or Tribunal de Premi&egrave;re Instance; Court of Administrative Law or Tribunal Administratif; Mixed Commercial Court; Land Court<br>
 
 **Political parties**<br>
 Center Party or H (Midflokkurin) <br>People's Party or A (Folkaflokkurin) <br>Progress Party or F (Framsokn) <br>Republic or E (Tjodveldi)  (formerly the Republican Party)<br>Self-Government Party or D (Sjalvstyri or Sjalvstyrisflokkurin) <br>Social Democratic Party or JF (Javnadarflokkurin) or JF <br>Union Party or B (Sambandsflokkurin) <br>

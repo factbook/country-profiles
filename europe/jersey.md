@@ -50,12 +50,12 @@ _lowest point_: English Channel 0 m<br>
 arable land<br>
 
 **Land use**<br>
-_agricultural land_: 66% (2018 est.)<br>
-_arable land_: arable land: 66% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 0% (2018 est.)<br>
-_other_: 34% (2018 est.)<br>
+_agricultural land_: 43.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 18.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 24.9% (2022 est.)<br>
+_forest_: 5.2% (2022 est.)<br>
+_other_: 51.6% (2022 est.)<br>
 
 **Irrigated land**<br>
 NA<br>
@@ -192,12 +192,12 @@ habitat and species depletion due to human encroachment; water pollution; improp
 temperate; mild winters and cool summers<br>
 
 **Land use**<br>
-_agricultural land_: 66% (2018 est.)<br>
-_arable land_: arable land: 66% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 0% (2018 est.)<br>
-_other_: 34% (2018 est.)<br>
+_agricultural land_: 43.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 18.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 24.9% (2022 est.)<br>
+_forest_: 5.2% (2022 est.)<br>
+_other_: 51.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 31.2% of total population (2023)<br>
@@ -245,7 +245,7 @@ the laws of the UK apply where applicable; includes local statutes<br>
 
 **Constitution**<br>
 _history_: unwritten; partly statutes, partly common law and practice<br>
-_amendments_: proposed by a government minister to the Assembly of the States of Jersey, by an Assembly member, or by an elected parish head; passage requires several Assembly readings, a majority vote by the Assembly, review by the UK Ministry of Justice, and approval of the British monarch (Royal Assent)<br>
+_amendment process_: proposed by a government minister to the Assembly of the States of Jersey, by an Assembly member, or by an elected parish head; passage requires several Assembly readings, a majority vote by the Assembly, review by the UK Ministry of Justice, and approval of the British monarch (Royal Assent)<br>
 
 **Citizenship**<br>
 see United Kingdom<br>

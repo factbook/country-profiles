@@ -54,12 +54,12 @@ _mean elevation_: 398 m<br>
 antimony, phosphates, coal, manganese, rare earth elements, bauxite, chromate, offshore oil and gas deposits, timber, hydropower, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 34.8% (2018 est.)<br>
-_arable land_: arable land: 20.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 12.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 2.1% (2018 est.)<br>
-_forest_: 45% (2018 est.)<br>
-_other_: 20.2% (2018 est.)<br>
+_agricultural land_: 39.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 21.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 15.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 2% (2022 est.)<br>
+_forest_: 47.2% (2022 est.)<br>
+_other_: 13.5% (2022 est.)<br>
 
 **Irrigated land**<br>
 46,000 sq km (2012)<br>
@@ -245,12 +245,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical in south; monsoonal in north with hot, rainy season (May to September) and warm, dry season (October to March)<br>
 
 **Land use**<br>
-_agricultural land_: 34.8% (2018 est.)<br>
-_arable land_: arable land: 20.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 12.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 2.1% (2018 est.)<br>
-_forest_: 45% (2018 est.)<br>
-_other_: 20.2% (2018 est.)<br>
+_agricultural land_: 39.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 21.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 15.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 2% (2022 est.)<br>
+_forest_: 47.2% (2022 est.)<br>
+_other_: 13.5% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 39.5% of total population (2023)<br>
@@ -324,7 +324,7 @@ civil law system; note - the civil code of 2005 reflects a European-style civil 
 
 **Constitution**<br>
 _history_: several previous; latest adopted 28 November 2013, effective 1 January 2014<br>
-_amendments_: proposed by the president, by the National Assembly&rsquo;s Standing Committee, or by at least two thirds of the National Assembly membership; a decision to draft an amendment requires approval by at least a two-thirds majority vote of the Assembly membership, followed by the formation of a constitutional drafting committee to write a draft and collect citizens&rsquo; opinions; passage requires at least two-thirds majority of the Assembly membership; the Assembly can opt to conduct a referendum<br>
+_amendment process_: proposed by the president, by the National Assembly&rsquo;s Standing Committee, or by at least two thirds of the National Assembly membership; a decision to draft an amendment requires approval by at least a two-thirds majority vote of the Assembly membership, followed by the formation of a constitutional drafting committee to write a draft and collect citizens&rsquo; opinions; passage requires at least two-thirds majority of the Assembly membership; the Assembly can opt to conduct a referendum<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -360,7 +360,8 @@ _expected date of next election_: May 2026<br>
 **Judicial branch**<br>
 _highest court(s)_: Supreme People's Court (consists of the chief justice and 13 judges)<br>
 _judge selection and term of office_: chief justice elected by the National Assembly upon the recommendation of the president for a 5-year, renewable term; deputy chief justice appointed by the president from among the judges for a 5-year term; judges appointed by the president and confirmed by the National Assembly for 5-year terms<br>
-_subordinate courts_: High Courts (administrative, civil, criminal, economic, labor, family, juvenile); provincial courts; district courts; Military Court; note - the National Assembly Standing Committee can establish special tribunals upon the recommendation of the chief justice<br>
+_subordinate courts_: High Courts (administrative, civil, criminal, economic, labor, family, juvenile); provincial courts; district courts; Military Court<br>
+<strong>note</strong>: the National Assembly Standing Committee can establish special tribunals on the recommendation of the chief justice<br>
 
 **Political parties**<br>
 Communist Party of Vietnam or CPV<br>

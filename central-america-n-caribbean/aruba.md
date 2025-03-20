@@ -50,12 +50,12 @@ _lowest point_: Caribbean Sea 0 m<br>
 NEGL; white sandy beaches foster tourism<br>
 
 **Land use**<br>
-_agricultural land_: 11.1% (2018 est.)<br>
-_arable land_: arable land: 11.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 2.3% (2018 est.)<br>
-_other_: 86.6% (2018 est.)<br>
+_agricultural land_: 11.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 11.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 2.3% (2022 est.)<br>
+_other_: 86.6% (2022 est.)<br>
 
 **Irrigated land**<br>
 NA<br>
@@ -202,12 +202,12 @@ difficulty in properly disposing of waste produced by large numbers of tourists;
 tropical marine; little seasonal temperature variation<br>
 
 **Land use**<br>
-_agricultural land_: 11.1% (2018 est.)<br>
-_arable land_: arable land: 11.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 2.3% (2018 est.)<br>
-_other_: 86.6% (2018 est.)<br>
+_agricultural land_: 11.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 11.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 2.3% (2022 est.)<br>
+_other_: 86.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 44.3% of total population (2023)<br>
@@ -231,7 +231,7 @@ _conventional long form_: Country of Aruba<br>
 _conventional short form_: Aruba<br>
 _local long form_: Land Aruba (Dutch); Pais Aruba (Papiamento)<br>
 _local short form_: Aruba<br>
-_etymology_: the origin of the island's name is unclear; according to tradition, the name comes from the Spanish phrase "oro huba" (there was gold), but in fact no gold was ever found on the island; another possibility is the native word "oruba," which means "well-situated"<br>
+_etymology_: the origin of the island's name is unclear; according to tradition, the name comes from the Spanish phrase <em>oro hubo</em> ("there was gold"), but no gold was ever found on the island; other possible sources are either the local word <em>oruba</em>, which means "well-situated," or a combination of two Carib Indian words, <em>ora </em>and <em>oubao</em>,<em> </em>respectively meaning "shell" and "island"<br>
 
 **Government type**<br>
 parliamentary democracy; part of the Kingdom of the Netherlands<br>

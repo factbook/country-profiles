@@ -51,15 +51,15 @@ _mean elevation_: 442 m<br>
 oil, gas, coal, iron ore, copper, zinc, antimony, chromite, gold, silver, magnesium, pyrite, limestone, marble, salt, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 57.9% (2018 est.)<br>
-_arable land_: arable land: 37.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 3.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 16.8% (2018 est.)<br>
-_forest_: 31.6% (2018 est.)<br>
-_other_: 10.5% (2018 est.)<br>
+_agricultural land_: 41.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 30.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 7.9% (2022 est.)<br>
+_forest_: 32.4% (2022 est.)<br>
+_other_: 26.4% (2022 est.)<br>
 
 **Irrigated land**<br>
-520 sq km (2020)<br>
+550 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
 Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -250,12 +250,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 in the north, continental climate (cold winters and hot, humid summers with well-distributed rainfall); in other parts, continental and Mediterranean climate (relatively cold winters with heavy snowfall and hot, dry summers and autumns)<br>
 
 **Land use**<br>
-_agricultural land_: 57.9% (2018 est.)<br>
-_arable land_: arable land: 37.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 3.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 16.8% (2018 est.)<br>
-_forest_: 31.6% (2018 est.)<br>
-_other_: 10.5% (2018 est.)<br>
+_agricultural land_: 41.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 30.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 7.9% (2022 est.)<br>
+_forest_: 32.4% (2022 est.)<br>
+_other_: 26.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 57.1% of total population (2023)<br>
@@ -331,7 +331,7 @@ civil law system<br>
 
 **Constitution**<br>
 _history_: many previous; latest adopted 30 September 2006, approved by referendum 28-29 October 2006, effective 8 November 2006<br>
-_amendments_: proposed by at least one third of deputies in the National Assembly, by the president of the republic, by the government, or by petition of at least 150,000 voters; passage of proposals and draft amendments each requires at least two-thirds majority vote in the Assembly; amendments to constitutional articles including the preamble, constitutional principles, and human and minority rights and freedoms also require passage by simple majority vote in a referendum<br>
+_amendment process_: proposed by at least one third of deputies in the National Assembly, by the president of the republic, by the government, or by petition of at least 150,000 voters; passage of proposals and draft amendments each requires at least two-thirds majority vote in the Assembly; amendments to constitutional articles including the preamble, constitutional principles, and human and minority rights and freedoms also require passage by simple majority vote in a referendum<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>

@@ -51,12 +51,12 @@ _mean elevation_: 779 m<br>
 limestone, arable land, hydropower, unexploited deposits of uranium, coal, and bauxite<br>
 
 **Land use**<br>
-_agricultural land_: 59.2% (2018 est.)<br>
-_arable land_: arable land: 38.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 19.6% (2018 est.)<br>
-_forest_: 34% (2018 est.)<br>
-_other_: 6.8% (2018 est.)<br>
+_agricultural land_: 64.2% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 42.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 19.6% (2022 est.)<br>
+_forest_: 22.9% (2022 est.)<br>
+_other_: 12.9% (2022 est.)<br>
 
 **Irrigated land**<br>
 740 sq km (2012)<br>
@@ -253,12 +253,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 sub-tropical; rainy season (November to May); dry season (May to November)<br>
 
 **Land use**<br>
-_agricultural land_: 59.2% (2018 est.)<br>
-_arable land_: arable land: 38.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 19.6% (2018 est.)<br>
-_forest_: 34% (2018 est.)<br>
-_other_: 6.8% (2018 est.)<br>
+_agricultural land_: 64.2% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 42.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 19.6% (2022 est.)<br>
+_forest_: 22.9% (2022 est.)<br>
+_other_: 12.9% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 18.3% of total population (2023)<br>
@@ -332,7 +332,7 @@ mixed legal system of English common law and customary law; judicial review of l
 
 **Constitution**<br>
 _history_: previous 1953 (pre-independence), 1964, 1966; latest drafted January to May 1994, approved 16 May 1994, entered into force 18 May 1995<br>
-_amendments_: proposed by the National Assembly; passage of amendments affecting constitutional articles, including the sovereignty and territory of the state, fundamental constitutional principles, human rights, voting rights, and the judiciary, requires majority approval in a referendum and majority approval by the Assembly; passage of other amendments requires at least two-thirds majority vote of the Assembly; amended several times, last in 2017<br>
+_amendment process_: proposed by the National Assembly; passage of amendments affecting constitutional articles, including the sovereignty and territory of the state, fundamental constitutional principles, human rights, voting rights, and the judiciary, requires majority approval in a referendum and majority approval by the Assembly; passage of other amendments requires at least two-thirds majority vote of the Assembly<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -367,7 +367,7 @@ _expected date of next election_: September 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Appeal (consists of the chief justice and at least 3 judges)<br>
-_judge selection and term of office_: Supreme Court chief justice appointed by the president and confirmed by the National Assembly; other judges appointed by the president upon the recommendation of the Judicial Service Commission, which regulates judicial officers; judges serve until age 65<br>
+_judge selection and term of office_: Supreme Court chief justice appointed by the president and confirmed by the National Assembly; other judges appointed by the president on the recommendation of the Judicial Service Commission, which regulates judicial officers; judges serve until age 65<br>
 _subordinate courts_: High Court; magistrate courts; Industrial Relations Court; district and city traditional or local courts<br>
 
 **Political parties**<br>

@@ -55,15 +55,15 @@ _mean elevation_: 34 m<br>
 petroleum, natural gas, fish, arable land, salt, limestone, chalk, stone, gravel and sand<br>
 
 **Land use**<br>
-_agricultural land_: 63.4% (2018 est.)<br>
-_arable land_: arable land: 58.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 4.4% (2018 est.)<br>
-_forest_: 12.9% (2018 est.)<br>
-_other_: 23.7% (2018 est.)<br>
+_agricultural land_: 65.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 59% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5.8% (2022 est.)<br>
+_forest_: 15.8% (2022 est.)<br>
+_other_: 18.6% (2022 est.)<br>
 
 **Irrigated land**<br>
-2,360 sq km (2020)<br>
+2,420 sq km (2022)<br>
 
 **Population distribution**<br>
 with excellent access to the North Sea, Skagerrak, Kattegat, and the Baltic Sea, population centers tend to be along coastal areas, particularly in Copenhagen and the eastern side of the country's mainland<br>
@@ -244,12 +244,12 @@ _signed, but not ratified_: Antarctic-Environmental Protection<br>
 temperate; humid and overcast; mild, windy winters and cool summers<br>
 
 **Land use**<br>
-_agricultural land_: 63.4% (2018 est.)<br>
-_arable land_: arable land: 58.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 4.4% (2018 est.)<br>
-_forest_: 12.9% (2018 est.)<br>
-_other_: 23.7% (2018 est.)<br>
+_agricultural land_: 65.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 59% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5.8% (2022 est.)<br>
+_forest_: 15.8% (2022 est.)<br>
+_other_: 18.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 88.5% of total population (2023)<br>
@@ -316,7 +316,7 @@ civil law; judicial review of legislative acts<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 5 June 1953<br>
-_amendments_: proposed by the Folketing (Parliament) with consent of the government; passage requires approval by the next Folketing following a general election, approval by simple majority vote of at least 40% of voters in a referendum, and assent of the chief of state; changed several times, last in 2009 (Danish Act of Succession)<br>
+_amendment process_: proposed by the Folketing (Parliament) with consent of the government; passage requires approval by the next Folketing following a general election, approval by simple majority vote of at least 40% of voters in a referendum, and assent of the chief of state<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>

@@ -53,15 +53,15 @@ _mean elevation_: 538 m<br>
 coal, antimony, mercury, zinc, potash, marble, barite, asbestos, pumice, fluorspar, feldspar, pyrite (sulfur), natural gas and crude oil reserves, fish, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 47.1% (2018 est.)<br>
-_arable land_: arable land: 22.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 8.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 15.7% (2018 est.)<br>
-_forest_: 31.4% (2018 est.)<br>
-_other_: 21.5% (2018 est.)<br>
+_agricultural land_: 44% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 24% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 8.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 11.9% (2022 est.)<br>
+_forest_: 32.7% (2022 est.)<br>
+_other_: 23.3% (2022 est.)<br>
 
 **Irrigated land**<br>
-26,010 sq km (2013)<br>
+24,460 sq km (2021)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
@@ -240,12 +240,12 @@ _signed, but not ratified_: Air Pollution-Heavy Metals, Air Pollution-Multi-effe
 predominantly Mediterranean; alpine in far north; hot, dry in south<br>
 
 **Land use**<br>
-_agricultural land_: 47.1% (2018 est.)<br>
-_arable land_: arable land: 22.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 8.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 15.7% (2018 est.)<br>
-_forest_: 31.4% (2018 est.)<br>
-_other_: 21.5% (2018 est.)<br>
+_agricultural land_: 44% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 24% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 8.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 11.9% (2022 est.)<br>
+_forest_: 32.7% (2022 est.)<br>
+_other_: 23.3% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 72% of total population (2023)<br>
@@ -315,7 +315,7 @@ civil law system; judicial review of legislation under certain conditions in Con
 
 **Constitution**<br>
 _history_: previous 1848 (originally for the Kingdom of Sardinia and adopted by the Kingdom of Italy in 1861); latest enacted 22 December 1947, adopted 27 December 1947, entered into force 1 January 1948<br>
-_amendments_: proposed by both houses of Parliament; passage requires two successive debates and approval by absolute majority of each house on the second vote; a referendum is only required when requested by one fifth of the members of either house, by voter petition, or by 5 Regional Councils (elected legislative assemblies of the 15 first-level administrative regions and 5 autonomous regions of Italy); referendum not required if an amendment has been approved by a two-thirds majority in each house in the second vote; amended many times, last in 2020; note - in June 2024, the Senate approved in its first vote an amendment calling for the direct election of the prime minister; subsequent votes by both the Senate and House of Deputies is required for passage; lacking approval by Parliament, approval is required by constitutional referendum<br>
+_amendment process_: proposed by both houses of Parliament; passage requires two successive debates and approval by absolute majority of each house on the second vote; a referendum is only required when requested by one fifth of the members of either house, by voter petition, or by 5 Regional Councils (elected legislative assemblies of the 15 first-level administrative regions and 5 autonomous regions of Italy); referendum not required if an amendment has been approved by a two-thirds majority in each house in the second vote<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -363,7 +363,7 @@ _percentage of women in chamber_: 36.3%<br>
 _expected date of next election_: September 2027<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court of Cassation or Corte Suprema di Cassazione (consists of the first president (chief justice), deputy president, 54 justices presiding over 6 civil and 7 criminal divisions, and 288 judges; an additional 30 judges of lower courts serve as supporting judges; cases normally heard by 5-judge panels; more complex cases heard by 9-judge panels); Constitutional Court or Corte Costituzionale (consists of the court president and 14 judges)<br>
+_highest court(s)_: Supreme Court of Cassation or Corte Suprema di Cassazione (consists of the first president, deputy president, 54 justices presiding over 6 civil and 7 criminal divisions, and 288 judges; an additional 30 judges of lower courts serve as supporting judges; cases normally heard by 5-judge panels; more complex cases heard by 9-judge panels); Constitutional Court or Corte Costituzionale (consists of the court president and 14 judges)<br>
 _judge selection and term of office_: Supreme Court judges appointed by the High Council of the Judiciary, headed by the president of the republic; judges may serve for life; Constitutional Court judges - 5 appointed by the president, 5 elected by Parliament, 5 elected by select higher courts; judges serve up to 9 years<br>
 _subordinate courts_: various lower civil and criminal courts (primary and secondary tribunals and courts of appeal)<br>
 

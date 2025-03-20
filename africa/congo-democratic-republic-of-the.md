@@ -53,12 +53,12 @@ cobalt, copper, niobium, tantalum, petroleum, industrial and gem diamonds, gold,
 <strong>note 1:</strong> coltan, the industrial name for a columbite–tantalite mineral from which niobium and tantalum are extracted, is mainly artisanal and small-scale; tantalum, tin, tungsten, and gold extracted from central Africa are considered "conflict minerals" and as such are subject to international monitoring<br><br><strong>note 2:</strong> the DROC is the World's leading producer of cobalt, accounting for as much as 70% of the World's supply; between 20-30% of this cobalt is produced in artisanal and small-scale mining operations<br>
 
 **Land use**<br>
-_agricultural land_: 11.4% (2018 est.)<br>
-_arable land_: arable land: 3.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 8% (2018 est.)<br>
-_forest_: 67.9% (2018 est.)<br>
-_other_: 20.7% (2018 est.)<br>
+_agricultural land_: 15.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 6.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.9% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 8% (2022 est.)<br>
+_forest_: 54.7% (2022 est.)<br>
+_other_: 29.8% (2022 est.)<br>
 
 **Irrigated land**<br>
 110 sq km (2012)<br>
@@ -254,12 +254,12 @@ _signed, but not ratified_: Environmental Modification<br>
 tropical; hot and humid in equatorial river basin; cooler and drier in southern highlands; cooler and wetter in eastern highlands; north of Equator - wet season (April to October), dry season (December to February); south of Equator - wet season (November to March), dry season (April to October)<br>
 
 **Land use**<br>
-_agricultural land_: 11.4% (2018 est.)<br>
-_arable land_: arable land: 3.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 8% (2018 est.)<br>
-_forest_: 67.9% (2018 est.)<br>
-_other_: 20.7% (2018 est.)<br>
+_agricultural land_: 15.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 6.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.9% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 8% (2022 est.)<br>
+_forest_: 54.7% (2022 est.)<br>
+_other_: 29.8% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 47.4% of total population (2023)<br>
@@ -339,7 +339,7 @@ civil law system primarily based on Belgian law, but also customary and tribal l
 
 **Constitution**<br>
 _history_: several previous; latest adopted 13 May 2005, approved by referendum 18-19 December 2005, promulgated 18 February 2006<br>
-_amendments_: proposed by the president of the republic, by the government, by either house of Parliament, or by public petition; agreement on the substance of a proposed bill requires absolute majority vote in both houses; passage requires a referendum only if both houses in joint meeting fail to achieve three-fifths majority vote; constitutional articles, including the form of government, universal suffrage, judicial independence, political pluralism, and personal freedoms, cannot be amended; amended 2011<br>
+_amendment process_: proposed by the president of the republic, by the government, by either house of Parliament, or by public petition; agreement on the substance of a proposed bill requires absolute majority vote in both houses; passage requires a referendum only if both houses in joint meeting fail to achieve three-fifths majority vote; constitutional articles, including the form of government, universal suffrage, judicial independence, political pluralism, and personal freedoms, cannot be amended<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -386,8 +386,8 @@ _expected date of next election_: April 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation or Cour de Cassation (consists of 26 justices and organized into legislative and judiciary sections); Constitutional Court (consists of 9 judges)<br>
-_judge selection and term of office_: Court of Cassation judges nominated by the Judicial Service Council, an independent body of public prosecutors and selected judges of the lower courts; judge tenure NA; Constitutional Court judges - 3 nominated by the president, 3 by the Judicial Service Council, and 3 by the legislature; judges appointed by the president to serve 9-year non-renewable terms with one-third of the membership renewed every 3 years<br>
-_subordinate courts_: State Security Court; Court of Appeals (organized into administrative and judiciary sections); Tribunal de Grande; magistrates' courts; customary courts<br>
+_judge selection and term of office_: Court of Cassation judges nominated by the Judicial Service Council, an independent body of public prosecutors and selected judges of the lower courts; judge tenure NA; Constitutional Court judges - 3 nominated by the president, 3 by the Judicial Service Council, and 3 by the legislature; judges appointed by the president to serve 9-year non-renewable terms with one third of the membership renewed every 3 years<br>
+_subordinate courts_: State Security Court; Court of Appeals (organized into administrative and judiciary sections); Tribunal de Grande Instance; magistrates' courts; customary courts<br>
 
 **Political parties**<br>
 Christian Democrat Party or PDC <br>Congolese Rally for Democracy or RCD <br>Convention of Christian Democrats or CDC <br>Engagement for Citizenship and Development or ECIDE <br>Forces of Renewal or FR <br>Movement for the Liberation of the Congo or MLC <br>Nouvel Elan <br>Our Congo or CNB ("Congo Na Biso") <br>People's Party for Reconstruction and Democracy or PPRD <br>Social Movement for Renewal or MSR <br>Together for Change ("Ensemble") <br>Unified Lumumbist Party or PALU<br>Union for the Congolese Nation or UNC <br>Union for Democracy and Social Progress or UDPS<br>

@@ -50,12 +50,12 @@ _lowest point_: Caribbean Sea 0 m<br>
 timber, tropical fruit<br>
 
 **Land use**<br>
-_agricultural land_: 32.3% (2018 est.)<br>
-_arable land_: arable land: 8.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 20.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 2.9% (2018 est.)<br>
-_forest_: 50% (2018 est.)<br>
-_other_: 17.7% (2018 est.)<br>
+_agricultural land_: 23.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 8.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 2.9% (2022 est.)<br>
+_forest_: 52.1% (2022 est.)<br>
+_other_: 24.4% (2022 est.)<br>
 
 **Irrigated land**<br>
 20 sq km (2012)<br>
@@ -220,12 +220,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; tempered by northeast trade winds<br>
 
 **Land use**<br>
-_agricultural land_: 32.3% (2018 est.)<br>
-_arable land_: arable land: 8.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 20.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 2.9% (2018 est.)<br>
-_forest_: 50% (2018 est.)<br>
-_other_: 17.7% (2018 est.)<br>
+_agricultural land_: 23.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 8.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 2.9% (2022 est.)<br>
+_forest_: 52.1% (2022 est.)<br>
+_other_: 24.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 37.1% of total population (2023)<br>
@@ -283,7 +283,7 @@ common law based on English model<br>
 
 **Constitution**<br>
 _history_: previous 1967; latest presented 19 December 1973, effective 7 February 1974, suspended 1979 following a revolution but restored in 1983<br>
-_amendments_: proposed by either house of Parliament; passage requires two-thirds majority vote by the membership in both houses and assent of the governor general; passage of amendments to constitutional sections, such as personal rights and freedoms, the structure, authorities, and procedures of the branches of government, the delimitation of electoral constituencies, or the procedure for amending the constitution, also requires two-thirds majority approval in a referendum; amended 1991, 1992<br>
+_amendment process_: proposed by either house of Parliament; passage requires two-thirds majority vote by the membership in both houses and assent of the governor general; passage of amendments to constitutional sections, such as personal rights and freedoms, the structure, authorities, and procedures of the branches of government, the delimitation of electoral constituencies, or the procedure for amending the constitution, also requires two-thirds majority approval in a referendum<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -328,9 +328,10 @@ _percentage of women in chamber_: 30.8%<br>
 _expected date of next election_: August 2027<br>
 
 **Judicial branch**<br>
-_highest court(s)_: regionally, the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 in Grenada; appeals beyond the ECSC in civil and criminal matters are heard by the Judicial Committee of the Privy Council (in London)<br>
-_judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, and independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
+_highest court(s)_: regionally, the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC is headquartered on St. Lucia and consists of the Court of Appeal -- headed by the chief justice and 4 judges -- and the High Court with 18 judges; the Court of Appeal travels to member states on a schedule to hear appeals from the High Court and subordinate courts&nbsp;<br>
+_judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by the British monarch; other justices and judges appointed by the Judicial and Legal Services Commission, and independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
 _subordinate courts_: magistrates' courts; Court of Magisterial Appeals<br>
+<strong>note:</strong> appeals beyond the ECSC in civil and criminal matters are heard by the Judicial Committee of the Privy Council (in London)<br>
 
 **Political parties**<br>
 National Democratic Congress or NDC<br>New National Party or NNP<br>

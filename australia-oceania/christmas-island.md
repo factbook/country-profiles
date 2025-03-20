@@ -147,7 +147,6 @@ legal system is under the authority of the governor general of Australia and Aus
 
 **Constitution**<br>
 _history_: 1 October 1958 (Christmas Island Act 1958)<br>
-_amendments_: amended many times, last in 2020<br>
 
 **Citizenship**<br>
 see Australia<br>

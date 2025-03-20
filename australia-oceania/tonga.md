@@ -51,12 +51,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 arable land, fish<br>
 
 **Land use**<br>
-_agricultural land_: 43.1% (2018 est.)<br>
-_arable land_: arable land: 22.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 15.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 5.6% (2018 est.)<br>
-_forest_: 12.5% (2018 est.)<br>
-_other_: 44.4% (2018 est.)<br>
+_agricultural land_: 48.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 27.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 15.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5.6% (2022 est.)<br>
+_forest_: 12.4% (2022 est.)<br>
+_other_: 39% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -237,12 +237,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; modified by trade winds; warm season (December to May), cool season (May to December)<br>
 
 **Land use**<br>
-_agricultural land_: 43.1% (2018 est.)<br>
-_arable land_: arable land: 22.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 15.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 5.6% (2018 est.)<br>
-_forest_: 12.5% (2018 est.)<br>
-_other_: 44.4% (2018 est.)<br>
+_agricultural land_: 48.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 27.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 15.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5.6% (2022 est.)<br>
+_forest_: 12.4% (2022 est.)<br>
+_other_: 39% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 23.2% of total population (2023)<br>
@@ -299,7 +299,7 @@ English common law<br>
 
 **Constitution**<br>
 _history_: adopted 4 November 1875, revised 1988, 2016<br>
-_amendments_: proposed by the Legislative Assembly; passage requires approval by the Assembly in each of three readings, the unanimous approval of the Privy Council (a high-level advisory body to the monarch), the Cabinet, and assent to by the monarch; revised 1988; amended many times, last in 2013<br>
+_amendment process_: proposed by the Legislative Assembly; passage requires approval by the Assembly in each of three readings, the unanimous approval of the Privy Council (a high-level advisory body to the monarch), the Cabinet, and assent to by the monarch<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -333,9 +333,10 @@ _percentage of women in chamber_: 10%<br>
 _expected date of next election_: November 2025<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Court of Appeal (consists of the court president and a number of judges determined by the monarch); note - appeals beyond the Court of Appeal are brought before the King in Privy Council, the monarch's advisory organ that has both judicial and legislative powers<br>
+_highest court(s)_: Court of Appeal (consists of the court president and a number of judges determined by the monarch)<br>
 _judge selection and term of office_: judge appointments and tenures made by the King in Privy Council and subject to consent of the Legislative Assembly<br>
 _subordinate courts_: Supreme Court; Magistrates' Courts; Land Courts<br>
+<strong>note</strong>: appeals beyond the Court of Appeal are brought before the King in Privy Council, the monarch's advisory organ that has both judicial and legislative powers<br>
 
 **Political parties**<br>
 Democratic Party of the Friendly Islands or DPFI or PTOA <br>Tonga People's Party (Paati ʻa e Kakai ʻo Tonga) or PAK or TPPI<br>

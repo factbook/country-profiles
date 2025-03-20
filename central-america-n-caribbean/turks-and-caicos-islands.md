@@ -44,18 +44,18 @@ low, flat limestone; extensive marshes and mangrove swamps<br>
 
 **Elevation**<br>
 _highest point_: Blue Hill on Providenciales and Flamingo Hill on East Caicos 48 m<br>
-_lowest point_: Caribbean Sea 0 m<br>
+_lowest point_: Atlantic Ocean 0 m<br>
 
 **Natural resources**<br>
 spiny lobster, conch<br>
 
 **Land use**<br>
-_agricultural land_: 1.1% (2018 est.)<br>
-_arable land_: arable land: 1.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 36.2% (2018 est.)<br>
-_other_: 62.7% (2018 est.)<br>
+_agricultural land_: 1.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 11.1% (2022 est.)<br>
+_other_: 87.9% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -203,12 +203,12 @@ limited natural freshwater resources, private cisterns collect rainwater<br>
 tropical; marine; moderated by trade winds; sunny and relatively dry<br>
 
 **Land use**<br>
-_agricultural land_: 1.1% (2018 est.)<br>
-_arable land_: arable land: 1.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 36.2% (2018 est.)<br>
-_other_: 62.7% (2018 est.)<br>
+_agricultural land_: 1.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 11.1% (2022 est.)<br>
+_other_: 87.9% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 94.2% of total population (2023)<br>
@@ -258,7 +258,6 @@ mixed legal system of English common law and civil law<br>
 
 **Constitution**<br>
 _history_: several previous; latest signed 7 August 2012, effective 15 October 2012 (The Turks and Caicos Constitution Order 2011)<br>
-_amendments_: NA<br>
 
 **Citizenship**<br>
 see United Kingdom<br>
@@ -285,9 +284,10 @@ _percentage of women in chamber_: 27.3%<br>
 _expected date of next election_: 2029<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court (consists of the chief justice and other judges, as determined by the governor); Court of Appeal (consists of the court president and 2 justices); note - appeals beyond the Supreme Court are referred to the Judicial Committee of the Privy Council (in London)<br>
+_highest court(s)_: Supreme Court (consists of the chief justice and other judges, as determined by the governor); Court of Appeal (consists of the court president and 2 justices)<br>
 _judge selection and term of office_: Supreme Court and Appeals Court judges appointed by the governor in accordance with the Judicial Service Commission, a 3-member body of high-level judicial officials; Supreme Court judges serve until mandatory retirement at age 65, but terms can be extended to age 70; Appeals Court judge tenure determined by individual terms of appointment<br>
 _subordinate courts_: magistrates' courts<br>
+<strong>note</strong>: appeals beyond the Supreme Court are referred to the Judicial Committee of the Privy Council (in London)<br>
 
 **Political parties**<br>
 People's Democratic Movement or PDM<br>Progressive National Party or PNP<br>

@@ -76,7 +76,7 @@ tropical cyclones (hurricanes) develop off the coast of Africa near Cabo Verde a
 ## Government
 
 **Country name**<br>
-_etymology_: name derives from the Greek description of the waters beyond the Strait of Gibraltar, <em>Atlantis thalassa</em>, meaning "Sea of Atlas"<br>
+_etymology_: name derives from the ancient Greek description of the waters beyond the Strait of Gibraltar, <em>Atlantis thalassa</em>, meaning "Sea of Atlas"<br>
 
 ## Economy
 

@@ -53,12 +53,12 @@ _mean elevation_: 87 m<br>
 peat, limestone, dolomite, amber, hydropower, timber, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 29.2% (2018 est.)<br>
-_arable land_: arable land: 18.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 10.5% (2018 est.)<br>
-_forest_: 54.1% (2018 est.)<br>
-_other_: 16.7% (2018 est.)<br>
+_agricultural land_: 31.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 21.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.7% (2022 est.)<br>
+_forest_: 54.9% (2022 est.)<br>
+_other_: 13.4% (2022 est.)<br>
 
 **Irrigated land**<br>
 6 sq km (2016)<br>
@@ -238,12 +238,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 maritime; wet, moderate winters<br>
 
 **Land use**<br>
-_agricultural land_: 29.2% (2018 est.)<br>
-_arable land_: arable land: 18.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 10.5% (2018 est.)<br>
-_forest_: 54.1% (2018 est.)<br>
-_other_: 16.7% (2018 est.)<br>
+_agricultural land_: 31.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 21.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.7% (2022 est.)<br>
+_forest_: 54.9% (2022 est.)<br>
+_other_: 13.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 68.7% of total population (2023)<br>
@@ -306,8 +306,8 @@ Independence Day (Republic of Latvia Proclamation Day), 18 November (1918); note
 civil law system with traces of socialist legal traditions and practices<br>
 
 **Constitution**<br>
-_history_: several previous (pre-1991 independence); note - following the restoration of independence in 1991, parts of the 1922 constitution were reintroduced 4 May 1990 and fully reintroduced 6 July 1993<br>
-_amendments_: proposed by two thirds of Parliament members or by petition of one tenth of qualified voters submitted through the president; passage requires at least two-thirds majority vote of Parliament in each of three readings; amendment of constitutional articles, including national sovereignty, language, the parliamentary electoral system, and constitutional amendment procedures, requires passage in a referendum by majority vote of at least one half of the electorate; amended several times, last in 2019<br>
+_history_: several previous (pre-1991 independence); after independence was restored in 1991, parts of the 1922 constitution were reintroduced on 4 May 1990 and fully reintroduced on 6 July 1993<br>
+_amendment process_: proposed by two thirds of Parliament members or by petition of one tenth of qualified voters submitted through the president; passage requires at least two-thirds majority vote of Parliament in each of three readings; amendment of constitutional articles, including national sovereignty, language, the parliamentary electoral system, and constitutional amendment procedures, requires passage in a referendum by majority vote of at least one half of the electorate<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>

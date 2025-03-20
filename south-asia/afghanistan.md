@@ -51,15 +51,15 @@ _mean elevation_: 1,884 m<br>
 natural gas, petroleum, coal, copper, chromite, talc, barites, sulfur, lead, zinc, iron ore, salt, precious and semiprecious stones, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 58.1% (2018 est.)<br>
-_arable land_: arable land: 11.8% (2018)<br>
-_permanent crops_: permanent crops: 0.3% (2018)<br>
-_permanent pasture_: permanent pasture: 46% (2018)<br>
-_forest_: 1.8% (2018 est.)<br>
-_other_: 40.1% (2018)<br>
+_agricultural land_: 58.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 12% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 46.4% (2022 est.)<br>
+_forest_: 1.9% (2022 est.)<br>
+_other_: 39.4% (2022 est.)<br>
 
 **Irrigated land**<br>
-24,930 sq km (2020)<br>
+24,930 sq km (2022)<br>
 
 **Major lakes (area sq km)**<br>
 _salt water lake(s)_: Ab-e Istadah-ye Muqur (endorheic basin) - 520 sq km<br>
@@ -250,12 +250,12 @@ _signed, but not ratified_: Law of the Sea, Marine Life Conservation<br>
 arid to semiarid; cold winters and hot summers<br>
 
 **Land use**<br>
-_agricultural land_: 58.1% (2018 est.)<br>
-_arable land_: arable land: 11.8% (2018)<br>
-_permanent crops_: permanent crops: 0.3% (2018)<br>
-_permanent pasture_: permanent pasture: 46% (2018)<br>
-_forest_: 1.8% (2018 est.)<br>
-_other_: 40.1% (2018)<br>
+_agricultural land_: 58.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 12% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 46.4% (2022 est.)<br>
+_forest_: 1.9% (2022 est.)<br>
+_other_: 39.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 26.9% of total population (2023)<br>

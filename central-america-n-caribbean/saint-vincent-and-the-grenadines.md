@@ -52,12 +52,12 @@ _lowest point_: Caribbean Sea 0 m<br>
 hydropower, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 25.6% (2018 est.)<br>
-_arable land_: arable land: 12.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 7.7% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 5.1% (2018 est.)<br>
-_forest_: 68.7% (2018 est.)<br>
-_other_: 5.7% (2018 est.)<br>
+_agricultural land_: 17.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 5.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 7.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5.1% (2022 est.)<br>
+_forest_: 73.2% (2022 est.)<br>
+_other_: 8.9% (2022 est.)<br>
 
 **Irrigated land**<br>
 10 sq km (2012)<br>
@@ -221,12 +221,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; little seasonal temperature variation; rainy season (May to November)<br>
 
 **Land use**<br>
-_agricultural land_: 25.6% (2018 est.)<br>
-_arable land_: arable land: 12.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 7.7% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 5.1% (2018 est.)<br>
-_forest_: 68.7% (2018 est.)<br>
-_other_: 5.7% (2018 est.)<br>
+_agricultural land_: 17.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 5.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 7.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5.1% (2022 est.)<br>
+_forest_: 73.2% (2022 est.)<br>
+_other_: 8.9% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 54.3% of total population (2023)<br>
@@ -284,7 +284,7 @@ English common law<br>
 
 **Constitution**<br>
 _history_: previous 1969, 1975; latest drafted 26 July 1979, effective 27 October 1979 (The Saint Vincent Constitution Order 1979)<br>
-_amendments_: proposed by the House of Assembly; passage requires at least two-thirds majority vote of the Assembly membership and assent of the governor general; passage of amendments to constitutional sections on fundamental rights and freedoms, citizen protections, various government functions and authorities, and constitutional amendment procedures requires approval by the Assembly membership, approval in a referendum of at least two thirds of the votes cast, and assent of the governor general<br>
+_amendment process_: proposed by the House of Assembly; passage requires at least two-thirds majority vote of the Assembly membership and assent of the governor general; passage of amendments to constitutional sections on fundamental rights and freedoms, citizen protections, various government functions and authorities, and constitutional amendment procedures requires approval by the Assembly membership, approval in a referendum of at least two thirds of the votes cast, and assent of the governor general<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -317,8 +317,8 @@ _percentage of women in chamber_: 21.7%<br>
 _expected date of next election_: November 2025<br>
 
 **Judicial branch**<br>
-_highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Saint Vincent and the Grenadines; note - Saint Vincent and the Grenadines is also a member of the Caribbean Court of Justice<br>
-_judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, an independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
+_highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC is headquartered on St. Lucia and consists of the Court of Appeal -- headed by the chief justice and 4 judges -- and the High Court with 18 judges; the Court of Appeal travels to member states on a schedule to hear appeals from the High Court and subordinate courts; Saint Vincent and the Grenadines is a member of the Caribbean Court of Justice<br>
+_judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by the British monarch; other justices and judges appointed by the Judicial and Legal Services Commission, an independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
 _subordinate courts_: magistrates' courts<br>
 
 **Political parties**<br>

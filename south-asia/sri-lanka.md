@@ -53,12 +53,12 @@ _mean elevation_: 228 m<br>
 limestone, graphite, mineral sands, gems, phosphates, clay, hydropower, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 43.5% (2018 est.)<br>
-_arable land_: arable land: 20.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 15.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 7% (2018 est.)<br>
-_forest_: 29.4% (2018 est.)<br>
-_other_: 27.1% (2018 est.)<br>
+_agricultural land_: 45.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 22.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 16.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 7.1% (2022 est.)<br>
+_forest_: 34.1% (2022 est.)<br>
+_other_: 20.5% (2022 est.)<br>
 
 **Irrigated land**<br>
 5,700 sq km (2012)<br>
@@ -241,12 +241,12 @@ _signed, but not ratified_: Comprehensive Nuclear Test Ban, Marine Life Conserva
 tropical monsoon; northeast monsoon (December to March); southwest monsoon (June to October)<br>
 
 **Land use**<br>
-_agricultural land_: 43.5% (2018 est.)<br>
-_arable land_: arable land: 20.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 15.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 7% (2018 est.)<br>
-_forest_: 29.4% (2018 est.)<br>
-_other_: 27.1% (2018 est.)<br>
+_agricultural land_: 45.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 22.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 16.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 7.1% (2022 est.)<br>
+_forest_: 34.1% (2022 est.)<br>
+_other_: 20.5% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 19.2% of total population (2023)<br>
@@ -312,7 +312,7 @@ mixed legal system of Roman-Dutch civil law, English common law, Jaffna Tamil cu
 
 **Constitution**<br>
 _history_: several previous; latest adopted 16 August 1978, certified 31 August 1978<br>
-_amendments_: proposed by Parliament; passage requires at least two-thirds majority vote of its total membership, certification by the president of the republic or the Parliament speaker, and in some cases approval in a referendum by absolute majority of valid votes; amended many times, last in 2020<br>
+_amendment process_: proposed by Parliament; passage requires at least two-thirds majority vote of its total membership, certification by the president of the republic or the Parliament speaker, and in some cases approval in a referendum by absolute majority of valid votes<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -346,7 +346,7 @@ _percentage of women in chamber_: 9.8%<br>
 _expected date of next election_: November 2029<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court of the Republic (consists of the chief justice and 9 justices); note - the court has exclusive jurisdiction to review legislation<br>
+_highest court(s)_: Supreme Court of the Republic (consists of the chief justice and 9 justices); has exclusive jurisdiction to review legislation<br>
 _judge selection and term of office_: chief justice nominated by the Constitutional Council (CC), a 9-member high-level advisory body, and appointed by the president; other justices nominated by the CC and appointed by the president on the advice of the chief justice; all justices can serve until age 65<br>
 _subordinate courts_: Court of Appeals; High Courts; Magistrates' Courts; municipal and primary courts<br>
 

@@ -54,15 +54,15 @@ _mean elevation_: 164 m<br>
 timber, iron ore, copper, lead, zinc, chromite, nickel, gold, silver, limestone<br>
 
 **Land use**<br>
-_agricultural land_: 7.5% (2018 est.)<br>
-_arable land_: arable land: 7.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0.1% (2018 est.)<br>
-_forest_: 72.9% (2018 est.)<br>
-_other_: 19.6% (2018 est.)<br>
+_agricultural land_: 7.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 7.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.1% (2022 est.)<br>
+_forest_: 73.7% (2022 est.)<br>
+_other_: 18.8% (2022 est.)<br>
 
 **Irrigated land**<br>
-80 sq km (2015)<br>
+80 sq km (2016)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Saimaa - 1,760 sq km; Paijanne - 1,090 sq km; Inarijarvi - 1,000 sq km; Oulujarvi - 900 sq km; Pielinen - 850 sq km<br>
@@ -247,12 +247,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 cold temperate; potentially subarctic but comparatively mild because of moderating influence of the North Atlantic Current, Baltic Sea, and more than 60,000 lakes<br>
 
 **Land use**<br>
-_agricultural land_: 7.5% (2018 est.)<br>
-_arable land_: arable land: 7.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0.1% (2018 est.)<br>
-_forest_: 72.9% (2018 est.)<br>
-_other_: 19.6% (2018 est.)<br>
+_agricultural land_: 7.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 7.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.1% (2022 est.)<br>
+_forest_: 73.7% (2022 est.)<br>
+_other_: 18.8% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 85.8% of total population (2023)<br>
@@ -322,7 +322,7 @@ civil law system based on the Swedish model<br>
 
 **Constitution**<br>
 _history_: previous 1906, 1919; latest drafted 17 June 1997, approved by Parliament 11 June 1999, entered into force 1 March 2000<br>
-_amendments_: proposed by Parliament; passage normally requires simple majority vote in two readings in the first parliamentary session and at least two-thirds majority vote in a single reading by the newly elected Parliament; proposals declared "urgent" by five-sixths of Parliament members can be passed by at least two-thirds majority vote in the first parliamentary session only; amended several times, last in 2018<br>
+_amendment process_: proposed by Parliament; passage normally requires simple majority vote in two readings in the first parliamentary session and at least two-thirds majority vote in a single reading by the newly elected Parliament; proposals declared "urgent" by five-sixths of Parliament members can be passed by at least two-thirds majority vote in the first parliamentary session only<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -356,9 +356,10 @@ _percentage of women in chamber_: 45.5%<br>
 _expected date of next election_: April 2027<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court or Korkein Oikeus (consists of the court president and 18 judges); Supreme Administrative Court (consists of 21 judges, including the court president and organized into 3 chambers); note - Finland has a dual judicial system - courts with civil and criminal jurisdiction and administrative courts with jurisdiction for litigation between individuals and administrative organs of the state and communities<br>
+_highest court(s)_: Supreme Court or Korkein Oikeus (consists of the court president and 18 judges); Supreme Administrative Court (consists of 21 judges, including the court president; organized into 3 chambers)<br>
 _judge selection and term of office_: Supreme Court and Supreme Administrative Court judges appointed by the president of the republic; judges serve until mandatory retirement at age 68<br>
 _subordinate courts_: 6 Courts of Appeal; 8 regional administrative courts; 27 district courts; special courts for issues relating to markets, labor, insurance, impeachment, land, tenancy, and water rights<br>
+<strong>note:</strong> Finland has a dual judicial system; courts with civil and criminal jurisdiction, and administrative courts with jurisdiction for litigation between individuals and administrative organs of the state and communities<br>
 
 **Political parties**<br>
 Aland Coalition (a coalition of several political parties on the Aland Islands)<br>Center Party or Kesk <br>Christian Democrats or KD <br>Finns Party or PS <br>Green League or Vihr <br>Left Alliance or Vas <br>Movement Now or Liike Nyt <br>National Coalition Party or Kok <br>Social Democratic Party or SDP <br>Swedish People's Party or RKP or SFP <br>

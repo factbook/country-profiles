@@ -53,15 +53,15 @@ _mean elevation_: 472 m<br>
 bauxite, copper, lead, zinc, coal, timber, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 46.9% (2018 est.)<br>
-_arable land_: arable land: 29.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 15.5% (2018 est.)<br>
-_forest_: 36.7% (2018 est.)<br>
-_other_: 16.4% (2018 est.)<br>
+_agricultural land_: 46.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 31.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 13% (2022 est.)<br>
+_forest_: 36.1% (2022 est.)<br>
+_other_: 17.6% (2022 est.)<br>
 
 **Irrigated land**<br>
-987 sq km (2013)<br>
+929 sq km (2016)<br>
 
 **Major rivers (by length in km)**<br>
 Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -243,12 +243,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate; cold, damp winters; hot, dry summers<br>
 
 **Land use**<br>
-_agricultural land_: 46.9% (2018 est.)<br>
-_arable land_: arable land: 29.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 15.5% (2018 est.)<br>
-_forest_: 36.7% (2018 est.)<br>
-_other_: 16.4% (2018 est.)<br>
+_agricultural land_: 46.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 31.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 13% (2022 est.)<br>
+_forest_: 36.1% (2022 est.)<br>
+_other_: 17.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 76.7% of total population (2023)<br>
@@ -318,7 +318,7 @@ civil law<br>
 
 **Constitution**<br>
 _history_: several previous; latest drafted between late 1990 and early 1991, adopted 13 July 1991<br>
-_amendments_: proposed by the National Assembly or by the president of the republic; passage requires three-fourths majority vote of National Assembly members in three ballots; signed by the National Assembly chairperson; note - under special circumstances, a "Grand National Assembly" is elected with the authority to write a new constitution and amend certain articles of the constitution, including those affecting basic civil rights and national sovereignty; passage requires at least two-thirds majority vote in each of several readings; amended several times, last in 2023<br>
+_amendment process_: proposed by the National Assembly or by the president of the republic; passage requires three-fourths majority vote of National Assembly members in three ballots; signed by the National Assembly chairperson; note - under special circumstances, a "Grand National Assembly" is elected with the authority to write a new constitution and amend certain articles of the constitution, including those affecting basic civil rights and national sovereignty; passage requires at least two-thirds majority vote in each of several readings<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -352,7 +352,7 @@ _percentage of women in chamber_: 21.3%<br>
 _expected date of next election_: October 2028<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court of Cassation (consists of a chairman and approximately 72 judges organized into penal, civil, and commercial colleges); Supreme Administrative Court (organized into 2 colleges with various panels of 5 judges each); Constitutional Court (consists of 12 justices); note - Constitutional Court resides outside the judiciary<br>
+_highest court(s)_: Supreme Court of Cassation consists of a chairman and approximately 72 judges organized into penal, civil, and commercial colleges; Supreme Administrative Court is organized into 2 colleges with various panels of 5 judges each; Constitutional Court consists of 12 justices) and resides outside the judiciary<br>
 _judge selection and term of office_: Supreme Court of Cassation and Supreme Administrative judges elected by the Supreme Judicial Council or SJC (consists of 25 members with extensive legal experience) and appointed by the president; judges can serve until mandatory retirement at age 65; Constitutional Court justices elected by the National Assembly and appointed by the president and the SJC; justices appointed for 9-year terms with renewal of 4 justices every 3 years<br>
 _subordinate courts_: appeals courts; regional and district courts; administrative courts; courts martial<br>
 

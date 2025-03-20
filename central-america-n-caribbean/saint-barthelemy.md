@@ -37,10 +37,15 @@ hilly, almost completely surrounded by shallow-water reefs, with plentiful beach
 
 **Elevation**<br>
 _highest point_: Morne du Vitet 286 m<br>
-_lowest point_: Caribbean Ocean 0 m<br>
+_lowest point_: Caribbean Sea 0 m<br>
 
 **Natural resources**<br>
 few natural resources; beaches foster tourism<br>
+
+**Land use**<br>
+_agricultural land_: 0% (2022 est.)<br>
+_forest_: 8.5% (2022 est.)<br>
+_other_: 91.5% (2022 est.)<br>
 
 **Population distribution**<br>
 most of the populace concentrated in and around the capital of Gustavia, but scattered settlements exist around the island periphery<br>
@@ -160,6 +165,11 @@ land-based pollution; urbanization; with no natural rivers or streams, fresh wat
 **Climate**<br>
 tropical, with practically no variation in temperature; has two seasons (dry and humid)<br>
 
+**Land use**<br>
+_agricultural land_: 0% (2022 est.)<br>
+_forest_: 8.5% (2022 est.)<br>
+_other_: 91.5% (2022 est.)<br>
+
 ## Government
 
 **Country name**<br>
@@ -193,7 +203,7 @@ French civil law<br>
 
 **Constitution**<br>
 _history_: 4 October 1958 (French Constitution)<br>
-_amendments_: amendment procedures of France's constitution apply<br>
+_amendment process_: amendment procedures of France's constitution apply<br>
 
 **Citizenship**<br>
 see France<br>

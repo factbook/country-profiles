@@ -52,12 +52,12 @@ _mean elevation_: 442 m<br>
 timber, petroleum, nickel, cobalt, silver, gold, salt, copper<br>
 
 **Land use**<br>
-_agricultural land_: 41% (2018 est.)<br>
-_arable land_: arable land: 18.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 17.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 5% (2018 est.)<br>
-_forest_: 25.9% (2018 est.)<br>
-_other_: 33.1% (2018 est.)<br>
+_agricultural land_: 42.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 18.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 18.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5% (2022 est.)<br>
+_forest_: 24.3% (2022 est.)<br>
+_other_: 33.1% (2022 est.)<br>
 
 **Irrigated land**<br>
 16,270 sq km (2012)<br>
@@ -250,12 +250,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical marine; northeast monsoon (November to April); southwest monsoon (May to October)<br>
 
 **Land use**<br>
-_agricultural land_: 41% (2018 est.)<br>
-_arable land_: arable land: 18.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 17.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 5% (2018 est.)<br>
-_forest_: 25.9% (2018 est.)<br>
-_other_: 33.1% (2018 est.)<br>
+_agricultural land_: 42.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 18.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 18.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5% (2022 est.)<br>
+_forest_: 24.3% (2022 est.)<br>
+_other_: 33.1% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 48.3% of total population (2023)<br>
@@ -324,7 +324,7 @@ mixed legal system of civil, common, Islamic (sharia), and customary law<br>
 
 **Constitution**<br>
 _history_: several previous; latest ratified 2 February 1987, effective 11 February 1987<br>
-_amendments_: proposed by Congress if supported by three fourths of the membership, by a constitutional convention called by Congress, or by public petition; passage by either of the three proposal methods requires a majority vote in a national referendum; note - the constitution has not been amended since its enactment in 1987<br>
+_amendment process_: proposed by Congress if supported by three fourths of the membership, by a constitutional convention called by Congress, or by public petition; passage by either of the three proposal methods requires a majority vote in a national referendum<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; withdrew from the ICCt in March 2019<br>

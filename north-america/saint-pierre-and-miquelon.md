@@ -51,12 +51,12 @@ _lowest point_: Atlantic Ocean 0 m<br>
 fish, deepwater ports<br>
 
 **Land use**<br>
-_agricultural land_: 8.7% (2018 est.)<br>
-_arable land_: arable land: 8.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 12.5% (2018 est.)<br>
-_other_: 78.8% (2018 est.)<br>
+_agricultural land_: 8.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 8.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 5.1% (2022 est.)<br>
+_other_: 86.2% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -197,12 +197,12 @@ overfishing; recent test drilling for oil in waters around Saint Pierre and Miqu
 cold and wet, with considerable mist and fog; spring and autumn are often windy<br>
 
 **Land use**<br>
-_agricultural land_: 8.7% (2018 est.)<br>
-_arable land_: arable land: 8.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 12.5% (2018 est.)<br>
-_other_: 78.8% (2018 est.)<br>
+_agricultural land_: 8.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 8.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 5.1% (2022 est.)<br>
+_other_: 86.2% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 90.1% of total population (2023)<br>
@@ -244,7 +244,7 @@ French civil law<br>
 
 **Constitution**<br>
 _history_: 4 October 1958 (French Constitution)<br>
-_amendments_: amendment procedures of France's constitution apply<br>
+_amendment process_: amendment procedures of France's constitution apply<br>
 
 **Citizenship**<br>
 see France<br>
@@ -272,9 +272,8 @@ _expected date of next election_: March 2028<br>
 <strong>note:</strong> 1 senator is indirectly elected to the French Senate by an electoral college for a 6-year term, and 1 deputy is directly elected to the French National Assembly for a 5-year term<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Superior Tribunal of Appeals or Tribunal Superieur d'Appel (composition NA)<br>
+_highest court(s)_: Superior Tribunal of Appeals or Tribunal Sup&eacute;rieur d'Appel (composition NA)<br>
 _judge selection and term of office_: judge selection and tenure NA<br>
-_subordinate courts_: NA<br>
 
 **Political parties**<br>
 Archipelago Tomorrow (Archipel Domain) or AD (affiliated with The Republicans)<br>Focus on the Future (Cap sur l'Avenir) (affiliated with Left Radical Party)<br>Together to Build (Ensemble pour Construire)<br>

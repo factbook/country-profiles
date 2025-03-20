@@ -54,12 +54,12 @@ _mean elevation_: 30 m<br>
 natural gas, petroleum, peat, limestone, salt, sand and gravel, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 55.1% (2018 est.)<br>
-_arable land_: arable land: 29.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 24.2% (2018 est.)<br>
-_forest_: 10.8% (2018 est.)<br>
-_other_: 34.1% (2018 est.)<br>
+_agricultural land_: 53.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 29.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 22.7% (2022 est.)<br>
+_forest_: 11% (2022 est.)<br>
+_other_: 35.4% (2022 est.)<br>
 
 **Irrigated land**<br>
 2,969 sq km (2019)<br>
@@ -244,12 +244,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate; marine; cool summers and mild winters<br>
 
 **Land use**<br>
-_agricultural land_: 55.1% (2018 est.)<br>
-_arable land_: arable land: 29.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 24.2% (2018 est.)<br>
-_forest_: 10.8% (2018 est.)<br>
-_other_: 34.1% (2018 est.)<br>
+_agricultural land_: 53.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 29.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 22.7% (2022 est.)<br>
+_forest_: 11% (2022 est.)<br>
+_other_: 35.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 93.2% of total population (2023)<br>
@@ -325,7 +325,7 @@ civil law system based on the French system; constitution does not permit judici
 
 **Constitution**<br>
 _history_: many previous to adoption of the "Basic Law of the Kingdom of the Netherlands" on 24 August 1815; revised 8 times, the latest in 1983<br>
-_amendments_: proposed as an Act of Parliament by or on behalf of the king or by the Second Chamber of the States General; the Second Chamber is dissolved after its first reading of the Act; passage requires a second reading by both the First Chamber and the newly elected Second Chamber, followed by at least two-thirds majority vote of both chambers, and ratification by the king; amended many times, last in 2023<br>
+_amendment process_: proposed as an Act of Parliament by or on behalf of the king or by the Second Chamber of the States General; the Second Chamber is dissolved after its first reading of the Act; passage requires a second reading by both the First Chamber and the newly elected Second Chamber, followed by at least two-thirds majority vote of both chambers, and ratification by the king<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -370,7 +370,7 @@ _percentage of women in chamber_: 40%<br>
 _expected date of next election_: May 2027<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court or Hoge Raad (consists of 41 judges: the president, 6 vice presidents, 31 justices or raadsheren, and 3 justices in exceptional service, referred to as buitengewone dienst); the court is divided into criminal, civil, tax, and ombuds chambers<br>
+_highest court(s)_: Supreme Court or Hoge Raad (consists of 41 judges: the president, 6 vice presidents, 31 justices, and 3 justices in exceptional service); the court is divided into criminal, civil, tax, and ombuds chambers<br>
 _judge selection and term of office_: justices appointed by the monarch from a list provided by the House of Representatives of the States General; justices appointed for life or until mandatory retirement at age 70<br>
 _subordinate courts_: courts of appeal; district courts, each with up to 5 subdistrict courts; Netherlands Commercial Court<br>
 

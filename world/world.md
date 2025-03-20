@@ -51,6 +51,14 @@ _lowest point_: Denman Glacier (Antarctica) more than -3,500 m (in the oceanic r
 _mean elevation_: 840 m<br>
 <strong>top ten highest mountains (measured from sea level):</strong> Mount Everest (China-Nepal) 8,849 m; K2 (Pakistan) 8,611 m; Kanchenjunga (India-Nepal) 8,598 m; Lhotse (Nepal) 8,516 m; Makalu (China-Nepal) 8,463 m; Cho Oyu (China-Nepal) 8,201 m; Dhaulagiri (Nepal) 8,167 m; Manaslu (Nepal) 8,163 m; Nanga Parbat (Pakistan) 8,125 m; Anapurna (Nepal) 8,091 m; <strong>note -</strong> Mauna Kea (United States) is the world's tallest mountain as measured from base to summit; the peak of this volcanic colossus lies on the island of Hawaii, but its base begins more than 70 km offshore and at a depth of about 6,000 m; total height estimates range from 9,966 m to 10,203 m <br><br><strong>top ten highest island peaks:</strong> Puncak Jaya (New Guinea) 4,884 m (Indonesia)*; Mauna Kea (Hawaii) 4,207 m (United States); Gunung Kinabalu (Borneo) 4,095 m (Malaysia)*; Yu Shan (Taiwan) 3,952 (Taiwan)*; Mount Kerinci (Sumatra) 3,805 m (Indonesia); Mount Erebus (Ross Island) 3,794 (Antarctica); Mount Fuji (Honshu) 3,776 m (Japan)*; Mount Rinjani (Lombok) 3,726 m (Indonesia); Aoraki-Mount Cook (South Island) 3,724 m (New Zealand)*; Pico de Teide (Tenerife) 3,718 m (Spain)*; <strong>note -</strong> * indicates the highest peak for that Factbook entry <br><br><strong>highest point on each continent:</strong> Asia - Mount Everest (China-Nepal) 8,849 m; South America - Cerro Aconcagua (Argentina) 6,960 m; North America - Mount McKinley (United States) 6,190 m; Africa - Kilimanjaro (Tanzania) 5,895 m; Europe - El'brus (Russia) 5,633 m; Antarctica - Vinson Massif 4,897 m; Australia - Mount Kosciuszko 2,229 m <br><br><strong>highest capital on each continent:</strong> South America - La Paz (Bolivia) 3,640 m; Africa - Addis Ababa (Ethiopia) 2,355 m; Asia - Thimphu (Bhutan) 2,334 m; North America - Mexico City (Mexico) 2,240 m; Europe - Andorra la Vella (Andorra) 1,023 m; Australia - Canberra (Australia) 605 m <br><br><strong>lowest point on each continent:</strong> Antarctica - Denman Glacier more than -3,500 m; Asia - Dead Sea (Israel-Jordan) -431 m; Africa - Lac Assal (Djibouti) -155 m; South America - Laguna del Carbon (Argentina) -105 m; North America - Death Valley (United States) -86 m; Europe - Caspian Sea (Azerbaijan-Kazakhstan-Russia) -28 m; Australia - Lake Eyre -15 <br><br><strong>lowest capital on each continent:</strong> Asia - Baku (Azerbaijan) -28 m; Europe - Amsterdam (Netherlands) -2 m; Africa - Banjul (Gambia); Bissau (Guinea-Bissau), Conakry (Guinea), Djibouti (Djibouti), Libreville (Gabon), Male (Maldives), Monrovia (Liberia), Tunis (Tunisia), Victoria (Seychelles) 0 m; North America - Basseterre (Saint Kitts and Nevis), Kingstown (Saint Vincent and the Grenadines), Panama City (Panama), Port of Spain (Trinidad and Tobago), Roseau (Dominica), Saint John's (Antigua and Barbuda), Santo Domingo (Dominican Republic) 0 m; South America - Georgetown (Guyana) 0 m; Australia - Canberra (Australia) 605 m<br>
 
+**Land use**<br>
+_agricultural land_: 38% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 10.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 25.8% (2022 est.)<br>
+_forest_: 30.6% (2022 est.)<br>
+_other_: 31.4% (2022 est.)<br>
+
 **Irrigated land**<br>
 3,242,917 sq km (2012 est.)<br>
 
@@ -213,6 +221,14 @@ _ten driest places on Earth (average annual precipitation)_: McMurdo Dry Valleys
 _ten wettest places on Earth (average annual precipitation)_: Mawsynram, India 11,871 mm (467.4 in)<br>Cherrapunji, India 11,777 mm (463.7 in)<br>Tutunendo, Colombia 11,770 mm (463.4 in)<br>Cropp River, New Zealand 11,516 mm (453.4 in)<br>San Antonia de Ureca, Equatorial Guinea 10,450 mm (411.4 in)<br>Debundsha, Cameroon 10,299 mm (405.5 in)<br>Big Bog, US (Hawaii) 10,272 mm (404.4 in)<br>Mt Waialeale, US (Hawaii) 9,763 mm (384.4 in)<br>Kukui, US (Hawaii) 9,293 mm (365.9 in)<br>Emeishan, China 8,169 mm (321.6 in)<br>
 _ten coldest places on Earth (lowest average monthly temperature)_: Verkhoyansk, Russia (Siberia) -47°C (-53°F) January<br>Oymyakon, Russia (Siberia) -46°C (-52°F) January<br>Eureka, Canada -38.4°C (-37.1°F) February<br>Isachsen, Canada -36°C (-32.8°F) February<br>Alert, Canada -34°C (-28°F) February<br>Kap Morris Jesup, Greenland -34°C (-29°F) March<br>Cornwallis Island, Canada -33.5°C (-28.3°F) February<br>Cambridge Bay, Canada -33.5°C (28.3°F) February<br>Ilirnej, Russia -33°C (-28°F) January<br>Resolute, Canada -33°C (-27.4°F) February<br>
 _ten hottest places on Earth (highest average monthly temperature)_: Death Valley, US (California) 39°C (101°F) July<br>Iranshahr, Iran 38.3°C (100.9°F) June <br>Ouallene, Algeria 38°C (100.4°F) July<br>Kuwait City, Kuwait 37.7°C (100°F) July<br>Medina, Saudi Arabia 36°C (97°F) July<br>Buckeye, US (Arizona) 34°C (93°F) July<br>Jazan, Saudi Arabia 33°C (91°F) June<br>Al Kufrah, Libya 31°C (87°F) July<br>Alice Springs, Australia 29°C (84°F) January<br>Tamanrasset, Algeria 29°C (84°F) June<br>
+
+**Land use**<br>
+_agricultural land_: 38% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 10.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 25.8% (2022 est.)<br>
+_forest_: 30.6% (2022 est.)<br>
+_other_: 31.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 57.5% of total population (2023)<br>

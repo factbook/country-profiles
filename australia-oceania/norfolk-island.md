@@ -51,12 +51,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 fish<br>
 
 **Land use**<br>
-_agricultural land_: 25% (2018 est.)<br>
-_arable land_: arable land: 0% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 25% (2018 est.)<br>
-_forest_: 11.5% (2018 est.)<br>
-_other_: 63.5% (2018 est.)<br>
+_agricultural land_: 25% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 25% (2022 est.)<br>
+_forest_: 12.3% (2022 est.)<br>
+_other_: 62.8% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -105,12 +105,12 @@ inadequate solid waste management; most freshwater obtained through rainwater ca
 subtropical; mild, little seasonal temperature variation<br>
 
 **Land use**<br>
-_agricultural land_: 25% (2018 est.)<br>
-_arable land_: arable land: 0% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 25% (2018 est.)<br>
-_forest_: 11.5% (2018 est.)<br>
-_other_: 63.5% (2018 est.)<br>
+_agricultural land_: 25% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 25% (2022 est.)<br>
+_forest_: 12.3% (2022 est.)<br>
+_other_: 62.8% (2022 est.)<br>
 
 ## Government
 
@@ -146,7 +146,6 @@ English common law and the laws of Australia<br>
 
 **Constitution**<br>
 _history_: previous 1913, 1957; latest effective 7 August 1979<br>
-_amendments_: amended many times, last in 2020<br>
 
 **Citizenship**<br>
 see Australia<br>
@@ -173,9 +172,10 @@ _percentage of women in chamber_: 20%<br>
 _expected date of next election_: March 2021 (postponed)<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court of Norfolk Island (consists of the chief justice and several justices); note - appeals beyond the Supreme Court of Norfolk Island are heard by the Federal Court and the High Court of Australia<br>
+_highest court(s)_: Supreme Court of Norfolk Island (consists of the chief justice and several justices)<br>
 _judge selection and term of office_: justices appointed by the governor general of Australia from among justices of the Federal Court of Australia; justices serve until mandatory retirement at age 70<br>
 _subordinate courts_: Petty Court of Sessions; specialized courts, including a Coroner's Court and the Employment Tribunal<br>
+<strong>note</strong>: appeals beyond the Supreme Court of Norfolk Island are heard by the Federal Court and the High Court of Australia<br>
 
 **Political parties**<br>
 Norfolk Island Labor Party <br>Norfolk Liberals <br>

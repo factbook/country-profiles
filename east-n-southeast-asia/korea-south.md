@@ -54,12 +54,12 @@ _mean elevation_: 282 m<br>
 coal, tungsten, graphite, molybdenum, lead, hydropower potential<br>
 
 **Land use**<br>
-_agricultural land_: 18.1% (2018 est.)<br>
-_arable land_: arable land: 15.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0.6% (2018 est.)<br>
-_forest_: 63.9% (2018 est.)<br>
-_other_: 18% (2018 est.)<br>
+_agricultural land_: 16.2% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 13.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.6% (2022 est.)<br>
+_forest_: 64.2% (2022 est.)<br>
+_other_: 19.6% (2022 est.)<br>
 
 **Irrigated land**<br>
 7,780 sq km (2012)<br>
@@ -238,12 +238,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate, with rainfall heavier in summer than winter; cold winters<br>
 
 **Land use**<br>
-_agricultural land_: 18.1% (2018 est.)<br>
-_arable land_: arable land: 15.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0.6% (2018 est.)<br>
-_forest_: 63.9% (2018 est.)<br>
-_other_: 18% (2018 est.)<br>
+_agricultural land_: 16.2% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 13.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.6% (2022 est.)<br>
+_forest_: 64.2% (2022 est.)<br>
+_other_: 19.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 81.5% of total population (2023)<br>
@@ -310,7 +310,7 @@ mixed legal system combining European civil law, Anglo-American law, and Chinese
 
 **Constitution**<br>
 _history_: several previous; latest passed by National Assembly 12 October 1987, approved in referendum 28 October 1987, effective 25 February 1988<br>
-_amendments_: proposed by the president or by majority support of the National Assembly membership; passage requires at least two-thirds majority vote by the Assembly membership, approval in a referendum by more than one half of the votes by more than one half of eligible voters, and promulgation by the president; amended several times, last in 1987<br>
+_amendment process_: proposed by the president or by majority support of the National Assembly membership; passage requires at least two-thirds majority vote by the Assembly membership, approval in a referendum by more than one half of the votes by more than one half of eligible voters, and promulgation by the president<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -346,7 +346,7 @@ _expected date of next election_: April 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of a chief justice and 13 justices); Constitutional Court (consists of a court head and 8 justices)<br>
-_judge selection and term of office_: Supreme Court chief justice appointed by the president with the consent of the National Assembly; other justices appointed by the president upon the recommendation of the chief justice and consent of the National Assembly; position of the chief justice is a 6-year nonrenewable term; other justices serve 6-year renewable terms; Constitutional Court justices appointed - 3 by the president, 3 by the National Assembly, and 3 by the Supreme Court chief justice; court head serves until retirement at age 70, while other justices serve 6-year renewable terms with mandatory retirement at age 65<br>
+_judge selection and term of office_: Supreme Court chief justice appointed by the president with the consent of the National Assembly; other justices appointed by the president on the recommendation of the chief justice and consent of the National Assembly; position of the chief justice is a 6-year nonrenewable term; other justices serve 6-year renewable terms; Constitutional Court justices appointed - 3 by the president, 3 by the National Assembly, and 3 by the Supreme Court chief justice; court head serves until retirement at age 70, while other justices serve 6-year renewable terms with mandatory retirement at age 65<br>
 _subordinate courts_: High Courts; District Courts; Branch Courts (organized under the District Courts); specialized courts for family and administrative issues<br>
 
 **Political parties**<br>

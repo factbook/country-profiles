@@ -52,12 +52,12 @@ _mean elevation_: 577 m<br>
 petroleum, natural gas, timber, gold, bauxite, diamonds, tantalum, sand and gravel, clay<br>
 
 **Land use**<br>
-_agricultural land_: 10.1% (2018 est.)<br>
-_arable land_: arable land: 4.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 3.7% (2018 est.)<br>
-_forest_: 57.5% (2018 est.)<br>
-_other_: 32.4% (2018 est.)<br>
+_agricultural land_: 3.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.2% (2022 est.)<br>
+_forest_: 86.7% (2022 est.)<br>
+_other_: 9.6% (2022 est.)<br>
 
 **Irrigated land**<br>
 NA<br>
@@ -219,12 +219,12 @@ _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 tropical; always hot, humid<br>
 
 **Land use**<br>
-_agricultural land_: 10.1% (2018 est.)<br>
-_arable land_: arable land: 4.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 3.7% (2018 est.)<br>
-_forest_: 57.5% (2018 est.)<br>
-_other_: 32.4% (2018 est.)<br>
+_agricultural land_: 3.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.2% (2022 est.)<br>
+_forest_: 86.7% (2022 est.)<br>
+_other_: 9.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 74.4% of total population (2023)<br>
@@ -285,7 +285,7 @@ mixed system of civil and customary law<br>
 
 **Constitution**<br>
 _history_: previous 1968, 1973, 1982; approved by referendum 17 November 1991<br>
-_amendments_: proposed by the president of the republic or supported by three fourths of the membership in either house of the National Assembly; passage requires three-fourths majority vote by both houses of the Assembly and approval in a referendum if requested by the president; amended several times, last in 2012<br>
+_amendment process_: proposed by the president of the republic or supported by three fourths of the membership in either house of the National Assembly; passage requires three-fourths majority vote by both houses of the Assembly and approval in a referendum if requested by the president<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction<br>
@@ -334,7 +334,7 @@ _expected date of next election_: November 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of the President of the Supreme Court and nine judges organized into civil, criminal, commercial, labor, administrative, and customary sections); Constitutional Court (consists of the court president and 4 members)<br>
-_judge selection and term of office_: Supreme Court judges appointed by the president for five-year terms; Constitutional Court members appointed by the president, 2 of whom are nominated by the Chamber of Deputies; note - judges subject to dismissal by the president at any time<br>
+_judge selection and term of office_: Supreme Court judges appointed by the president for five-year terms; Constitutional Court members appointed by the president, 2 of whom are nominated by the Chamber of Deputies<br>
 _subordinate courts_: Court of Guarantees; military courts; Courts of Appeal; first instance tribunals; district and county tribunals<br>
 
 **Political parties**<br>

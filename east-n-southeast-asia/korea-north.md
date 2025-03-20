@@ -53,12 +53,12 @@ _mean elevation_: 600 m<br>
 coal, iron ore, limestone, magnesite, graphite, copper, zinc, lead, precious metals, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 21.8% (2018 est.)<br>
-_arable land_: arable land: 19.5% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0.4% (2018 est.)<br>
-_forest_: 46% (2018 est.)<br>
-_other_: 32.2% (2018 est.)<br>
+_agricultural land_: 21.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 19.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.4% (2022 est.)<br>
+_forest_: 49.7% (2022 est.)<br>
+_other_: 28.7% (2022 est.)<br>
 
 **Irrigated land**<br>
 14,600 sq km (2012)<br>
@@ -231,12 +231,12 @@ _signed, but not ratified_: Antarctic-Environmental Protection, Law of the Sea<b
 temperate, with rainfall concentrated in summer; long, bitter winters<br>
 
 **Land use**<br>
-_agricultural land_: 21.8% (2018 est.)<br>
-_arable land_: arable land: 19.5% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0.4% (2018 est.)<br>
-_forest_: 46% (2018 est.)<br>
-_other_: 32.2% (2018 est.)<br>
+_agricultural land_: 21.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 19.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.4% (2022 est.)<br>
+_forest_: 49.7% (2022 est.)<br>
+_other_: 28.7% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 63.2% of total population (2023)<br>
@@ -293,7 +293,7 @@ civil law system based on the Prussian model; system influenced by Japanese trad
 
 **Constitution**<br>
 _history_: previous 1948, 1972; latest adopted 1998 (during KIM Jong-il era)<br>
-_amendments_: proposed by the Supreme People&rsquo;s Assembly (SPA); passage requires more than two-thirds majority vote of the total SPA membership; revised several times, last in 2023<br>
+_amendment process_: proposed by the Supreme People&rsquo;s Assembly (SPA); passage requires more than two-thirds majority vote of the total SPA membership<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>

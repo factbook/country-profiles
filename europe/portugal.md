@@ -55,12 +55,12 @@ _mean elevation_: 372 m<br>
 fish, forests (cork), iron ore, copper, zinc, tin, tungsten, silver, gold, uranium, marble, clay, gypsum, salt, arable land, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 39.7% (2018 est.)<br>
-_arable land_: arable land: 11.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 7.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 20% (2018 est.)<br>
-_forest_: 37.8% (2018 est.)<br>
-_other_: 22.5% (2018 est.)<br>
+_agricultural land_: 42.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 10.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 9.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 23.1% (2022 est.)<br>
+_forest_: 36.2% (2022 est.)<br>
+_other_: 21.1% (2022 est.)<br>
 
 **Irrigated land**<br>
 5,662 sq km (2019)<br>
@@ -238,12 +238,12 @@ _signed, but not ratified_: Air Pollution-Persistent Organic Pollutants, Air Pol
 maritime temperate; cool and rainy in north, warmer and drier in south<br>
 
 **Land use**<br>
-_agricultural land_: 39.7% (2018 est.)<br>
-_arable land_: arable land: 11.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 7.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 20% (2018 est.)<br>
-_forest_: 37.8% (2018 est.)<br>
-_other_: 22.5% (2018 est.)<br>
+_agricultural land_: 42.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 10.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 9.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 23.1% (2022 est.)<br>
+_forest_: 36.2% (2022 est.)<br>
+_other_: 21.1% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 67.9% of total population (2023)<br>
@@ -311,7 +311,7 @@ civil law system; Constitutional Court review of legislative acts<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 2 April 1976, effective 25 April 1976<br>
-_amendments_: proposed by the Assembly of the Republic; adoption requires two-thirds majority vote of Assembly members; amended several times, last in 2005<br>
+_amendment process_: proposed by the Assembly of the Republic; adoption requires two-thirds majority vote of Assembly members<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>

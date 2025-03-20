@@ -51,12 +51,12 @@ _lowest point_: Caribbean Sea 0 m<br>
 fish, climate and beaches that foster tourism<br>
 
 **Land use**<br>
-_agricultural land_: 11.2% (2018 est.)<br>
-_arable land_: arable land: 0.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 8.3% (2018 est.)<br>
-_forest_: 52.9% (2018 est.)<br>
-_other_: 35.9% (2018 est.)<br>
+_agricultural land_: 11.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 8.3% (2022 est.)<br>
+_forest_: 52.7% (2022 est.)<br>
+_other_: 36.1% (2022 est.)<br>
 
 **Irrigated land**<br>
 NA<br>
@@ -194,12 +194,12 @@ no natural freshwater resources; drinking water supplies are met by reverse osmo
 tropical marine; warm, rainy summers (May to October) and cool, relatively dry winters (November to April)<br>
 
 **Land use**<br>
-_agricultural land_: 11.2% (2018 est.)<br>
-_arable land_: arable land: 0.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 8.3% (2018 est.)<br>
-_forest_: 52.9% (2018 est.)<br>
-_other_: 35.9% (2018 est.)<br>
+_agricultural land_: 11.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 8.3% (2022 est.)<br>
+_forest_: 52.7% (2022 est.)<br>
+_other_: 36.1% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
@@ -252,7 +252,6 @@ English common law and local statutes<br>
 
 **Constitution**<br>
 _history_: several previous; latest approved 10 June 2009, entered into force 6 November 2009 (The Cayman Islands Constitution Order 2009)<br>
-_amendments_: amended 2016, 2020<br>
 
 **Citizenship**<br>
 see United Kingdom<br>
@@ -278,9 +277,10 @@ _percentage of women in chamber_: 23.8%<br>
 _expected date of next election_: 2025<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Court of Appeal (consists of the court president and at least 2 judges); Grand Court (consists of the court president and at least 2 judges); note - appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
+_highest court(s)_: Court of Appeal (consists of the court president and at least 2 judges); Grand Court (consists of the court president and at least 2 judges)&nbsp;<br>
 _judge selection and term of office_: Court of Appeal and Grand Court judges appointed by the governor on the advice of the Judicial and Legal Services Commission, an 8-member independent body consisting of governor appointees, Court of Appeal president, and attorneys; Court of Appeal judges' tenure based on their individual instruments of appointment; Grand Court judges normally appointed until retirement at age 65 but can be extended until age 70<br>
 _subordinate courts_: Summary Court<br>
+<strong>note:</strong> appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
 
 **Political parties**<br>
 Cayman Islands Peoples Party or CIPP<br>People's Progressive Movement or PPM<br>

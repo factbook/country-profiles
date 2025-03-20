@@ -54,12 +54,12 @@ _mean elevation_: 702 m<br>
 petroleum, timber, tin, antimony, zinc, copper, tungsten, lead, coal, marble, limestone, precious stones, natural gas, hydropower, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 19.2% (2018 est.)<br>
-_arable land_: arable land: 16.5% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0.5% (2018 est.)<br>
-_forest_: 48.2% (2018 est.)<br>
-_other_: 32.6% (2018 est.)<br>
+_agricultural land_: 19.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 16.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.7% (2022 est.)<br>
+_forest_: 42.8% (2022 est.)<br>
+_other_: 37.3% (2022 est.)<br>
 
 **Irrigated land**<br>
 17,140 sq km (2020)<br>
@@ -256,12 +256,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical monsoon; cloudy, rainy, hot, humid summers (southwest monsoon, June to September); less cloudy, scant rainfall, mild temperatures, lower humidity during winter (northeast monsoon, December to April)<br>
 
 **Land use**<br>
-_agricultural land_: 19.2% (2018 est.)<br>
-_arable land_: arable land: 16.5% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0.5% (2018 est.)<br>
-_forest_: 48.2% (2018 est.)<br>
-_other_: 32.6% (2018 est.)<br>
+_agricultural land_: 19.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 16.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.7% (2022 est.)<br>
+_forest_: 42.8% (2022 est.)<br>
+_other_: 37.3% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 32.1% of total population (2023)<br>
@@ -332,7 +332,7 @@ mixed legal system of English common law (as introduced in codifications designe
 
 **Constitution**<br>
 _history_: previous 1947, 1974 (suspended until 2008); latest drafted 9 April 2008, approved by referendum 29 May 2008<br>
-_amendments_: proposals require at least 20% approval by the Assembly of the Union membership; passage of amendments to sections of the constitution on basic principles, government structure, branches of government, state emergencies, and amendment procedures requires 75% approval by the Assembly and approval in a referendum by absolute majority of registered voters; passage of amendments to other sections requires only 75% Assembly approval; military granted 25% of parliamentary seats by default; amended 2015<br>
+_amendment process_: proposals require at least 20% approval by the Assembly of the Union membership; passage of amendments to sections of the constitution on basic principles, government structure, branches of government, state emergencies, and amendment procedures requires 75% approval by the Assembly and approval in a referendum by absolute majority of registered voters; passage of amendments to other sections requires only 75% Assembly approval; military granted 25% of parliamentary seats by default<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>

@@ -53,15 +53,15 @@ _mean elevation_: 442 m<br>
 hydropower, geothermal power, petroleum, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 74.7% (2018 est.)<br>
-_arable land_: arable land: 33.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 10.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 30.7% (2018 est.)<br>
-_forest_: 13.6% (2018 est.)<br>
-_other_: 11.7% (2018 est.)<br>
+_agricultural land_: 57.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 34.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 7.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 15.2% (2022 est.)<br>
+_forest_: 27.7% (2022 est.)<br>
+_other_: 14.5% (2022 est.)<br>
 
 **Irrigated land**<br>
-274 sq km (2020)<br>
+240 sq km (2022)<br>
 
 **Population distribution**<br>
 athough it is the smallest country in land area in Central America, El Salvador has a population that is 18 times larger than Belize; at least 20% of the population lives abroad; high population density country-wide, with particular concentration around the capital of San Salvador<br>
@@ -244,12 +244,12 @@ _signed, but not ratified_: Law of the Sea<br>
 tropical; rainy season (May to October); dry season (November to April); tropical on coast; temperate in uplands<br>
 
 **Land use**<br>
-_agricultural land_: 74.7% (2018 est.)<br>
-_arable land_: arable land: 33.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 10.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 30.7% (2018 est.)<br>
-_forest_: 13.6% (2018 est.)<br>
-_other_: 11.7% (2018 est.)<br>
+_agricultural land_: 57.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 34.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 7.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 15.2% (2022 est.)<br>
+_forest_: 27.7% (2022 est.)<br>
+_other_: 14.5% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 75.4% of total population (2023)<br>
@@ -284,6 +284,7 @@ _conventional long form_: Republic of El Salvador<br>
 _conventional short form_: El Salvador<br>
 _local long form_: Rep&uacute;blica de El Salvador<br>
 _local short form_: El Salvador<br>
+_etymology_: means "the Savior" in Spanish and is a shortened form of "the Divine Savior of the World" (el Divino Salvador del Mundo), referring to Jesus Christ; Spanish colonists gave the name to the fort located where the country's capital of San Salvador now stands, and the name was later used for the city, the surrounding region, and after 1824, the country<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -292,7 +293,7 @@ presidential republic<br>
 _name_: San Salvador<br>
 _geographic coordinates_: 13 42 N, 89 12 W<br>
 _time difference_: UTC-6 (1 hour behind Washington, DC, during Standard Time)<br>
-_etymology_: Spanish for "The Savior" (referring to Jesus Christ)<br>
+_etymology_: Spanish for "Holy Savior" (referring to Jesus Christ)<br>
 
 **Administrative divisions**<br>
 14 departments (departamentos, singular - departamento); Ahuachapan, Cabanas, Chalatenango, Cuscatlan, La Libertad, La Paz, La Union, Morazan, San Miguel, San Salvador, San Vicente, Santa Ana, Sonsonate, Usulutan<br>
@@ -308,7 +309,7 @@ civil law system with minor common law influence; judicial review of legislative
 
 **Constitution**<br>
 _history_: many previous; latest drafted 16 December 1983, enacted 23 December 1983<br>
-_amendments_: proposals require agreement by absolute majority of the Legislative Assembly membership; passage requires at least two-thirds majority vote of the Assembly; constitutional articles on basic principles, and citizen rights and freedoms cannot be amended; amended 2003, 2009, 2014<br>
+_amendment process_: proposals require agreement by absolute majority of the Legislative Assembly membership; passage requires at least two-thirds majority vote of the Assembly; constitutional articles on basic principles, and citizen rights and freedoms cannot be amended<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -344,7 +345,7 @@ _expected date of next election_: February 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Corte Suprema de Justicia (consists of 15 judges, including its president, and 15 substitute judges organized into Constitutional, Civil, Penal, and Administrative Conflict Chambers)<br>
-_judge selection and term of office_: judges elected by the Legislative Assembly on the recommendation of both the National Council of the Judicature, an independent body elected by the Legislative Assembly, and the Bar Association; judges elected for 9-year terms, with renewal of one-third of membership every 3 years; consecutive reelection is allowed<br>
+_judge selection and term of office_: judges elected by the Legislative Assembly on the recommendation of both the National Council of the Judicature, an independent body elected by the Legislative Assembly, and the Bar Association; judges elected for 9-year terms, with renewal of one third of membership every 3 years; consecutive reelection is allowed<br>
 _subordinate courts_: Appellate Courts; Courts of First Instance; Courts of Peace<br>
 
 **Political parties**<br>

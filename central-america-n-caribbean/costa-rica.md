@@ -54,12 +54,12 @@ _mean elevation_: 746 m<br>
 hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 37.1% (2018 est.)<br>
-_arable land_: arable land: 4.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 6.7% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 25.5% (2018 est.)<br>
-_forest_: 51.5% (2018 est.)<br>
-_other_: 11.4% (2018 est.)<br>
+_agricultural land_: 34.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 3.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 6.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 24.4% (2022 est.)<br>
+_forest_: 60.1% (2022 est.)<br>
+_other_: 5.3% (2022 est.)<br>
 
 **Irrigated land**<br>
 1,015 sq km (2012)<br>
@@ -241,12 +241,12 @@ _signed, but not ratified_: Marine Life Conservation<br>
 tropical and subtropical; dry season (December to April); rainy season (May to November); cooler in highlands<br>
 
 **Land use**<br>
-_agricultural land_: 37.1% (2018 est.)<br>
-_arable land_: arable land: 4.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 6.7% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 25.5% (2018 est.)<br>
-_forest_: 51.5% (2018 est.)<br>
-_other_: 11.4% (2018 est.)<br>
+_agricultural land_: 34.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 3.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 6.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 24.4% (2022 est.)<br>
+_forest_: 60.1% (2022 est.)<br>
+_other_: 5.3% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 82.6% of total population (2023)<br>
@@ -308,7 +308,7 @@ civil law system based on Spanish civil code; judicial review of legislative act
 
 **Constitution**<br>
 _history_: many previous; latest effective 8 November 1949<br>
-_amendments_: proposals require the signatures of at least 10 Legislative Assembly members or petition of at least 5% of qualified voters; consideration of proposals requires two-thirds majority approval in each of three readings by the Assembly, followed by preparation of the proposal as a legislative bill and its approval by simple majority of the Assembly; passage requires at least two-thirds majority vote of the Assembly membership; a referendum is required only if approved by at least two thirds of the Assembly; amended many times, last in 2020<br>
+_amendment process_: proposals require the signatures of at least 10 Legislative Assembly members or petition of at least 5% of qualified voters; consideration of proposals requires two-thirds majority approval in each of three readings by the Assembly, followed by preparation of the proposal as a legislative bill and its approval by simple majority of the Assembly; passage requires at least two-thirds majority vote of the Assembly membership; a referendum is required only if approved by at least two thirds of the Assembly<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction<br>

@@ -51,12 +51,12 @@ _mean elevation_: 1,996 m<br>
 hydropower, mineral water, timber, iron ore, lead<br>
 
 **Land use**<br>
-_agricultural land_: 40% (2018 est.)<br>
-_arable land_: arable land: 1.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 38.3% (2018 est.)<br>
-_forest_: 34% (2018 est.)<br>
-_other_: 26% (2018 est.)<br>
+_agricultural land_: 39.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 38.3% (2022 est.)<br>
+_forest_: 34% (2022 est.)<br>
+_other_: 26.1% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -224,12 +224,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate; snowy, cold winters and warm, dry summers<br>
 
 **Land use**<br>
-_agricultural land_: 40% (2018 est.)<br>
-_arable land_: arable land: 1.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 38.3% (2018 est.)<br>
-_forest_: 34% (2018 est.)<br>
-_other_: 26% (2018 est.)<br>
+_agricultural land_: 39.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 38.3% (2022 est.)<br>
+_forest_: 34% (2022 est.)<br>
+_other_: 26.1% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 87.8% of total population (2023)<br>
@@ -256,7 +256,7 @@ _conventional long form_: Principality of Andorra<br>
 _conventional short form_: Andorra<br>
 _local long form_: Principat d'Andorra<br>
 _local short form_: Andorra<br>
-_etymology_: the origin of the country's name is obscure; the name may derive from the Arabic "ad-darra" meaning "the forest," a reference to its location as part of the Spanish March (defensive buffer zone) against the invading Moors in the 8th century; an alternate explanation is that the name originates from a Navarrese word "andurrial" meaning "shrub-covered land"<br>
+_etymology_: the origin of the country's name is obscure; may originate from the Navarrese word <em>andurrial, </em>meaning "shrub-covered land;" alternately, may derive from the Arabic <em>ad-darra</em> meaning "the forest," a reference to its location; many other theories exist<br>
 
 **Government type**<br>
 parliamentary democracy (since March 1993) that retains its chiefs of state in the form of a co-principality; the two princes are the President of France and Bishop of Seu d'Urgell, Spain<br>
@@ -282,7 +282,7 @@ mixed legal system of civil and customary law with the influence of canon (relig
 
 **Constitution**<br>
 _history_: drafted 1991, approved by referendum 14 March 1993, effective 28 April 1993<br>
-_amendments_: proposed by the coprinces jointly or by the General Council; passage requires at least a two-thirds majority vote by the General Council, ratification in a referendum, and sanctioning by the coprinces<br>
+_amendment process_: proposed by the co-princes jointly or by the General Council; passage requires at least a two-thirds majority vote by the General Council, ratification in a referendum, and sanctioning by the co-princes<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -318,7 +318,7 @@ _expected date of next election_: April 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice of Andorra or Tribunal Superior de la Justicia d'Andorra (consists of the court president and 8 judges organized into civil, criminal, and administrative chambers); Constitutional Court or Tribunal Constitucional (consists of 4 magistrates)<br>
-_judge selection and term of office_: Supreme Court president and judges appointed by the Supreme Council of Justice, a 5-member judicial policy and administrative body appointed 1 each by the coprinces, 1 by the General Council, 1 by the executive council president, and 1 by the courts; judges serve 6-year renewable terms; Constitutional magistrates - 2 appointed by the coprinces and 2 by the General Council; magistrates' appointments limited to 2 consecutive 8-year terms<br>
+_judge selection and term of office_: Supreme Court president and judges appointed by the Supreme Council of Justice, a 5-member judicial policy and administrative body appointed 1 each by the co-princes, 1 by the General Council, 1 by the executive council president, and 1 by the courts; judges serve 6-year renewable terms; Constitutional magistrates - 2 appointed by the co-princes and 2 by the General Council; magistrates' appointments limited to 2 consecutive 8-year terms<br>
 _subordinate courts_: Tribunal of Judges or Tribunal de Batlles; Tribunal of the Courts or Tribunal de Corts<br>
 
 **Political parties**<br>

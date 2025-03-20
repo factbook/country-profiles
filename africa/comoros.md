@@ -50,12 +50,12 @@ _lowest point_: Indian Ocean 0 m<br>
 fish<br>
 
 **Land use**<br>
-_agricultural land_: 84.4% (2018 est.)<br>
-_arable land_: arable land: 46.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 29.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 8.1% (2018 est.)<br>
-_forest_: 1.4% (2018 est.)<br>
-_other_: 14.2% (2018 est.)<br>
+_agricultural land_: 71.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 34.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 28.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 8.1% (2022 est.)<br>
+_forest_: 17.2% (2022 est.)<br>
+_other_: 11.3% (2022 est.)<br>
 
 **Irrigated land**<br>
 1.3 sq km (2012)<br>
@@ -231,12 +231,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical marine; rainy season (November to May)<br>
 
 **Land use**<br>
-_agricultural land_: 84.4% (2018 est.)<br>
-_arable land_: arable land: 46.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 29.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 8.1% (2018 est.)<br>
-_forest_: 1.4% (2018 est.)<br>
-_other_: 14.2% (2018 est.)<br>
+_agricultural land_: 71.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 34.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 28.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 8.1% (2022 est.)<br>
+_forest_: 17.2% (2022 est.)<br>
+_other_: 11.3% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 30.1% of total population (2023)<br>
@@ -297,7 +297,7 @@ mixed legal system of Islamic religious law, the French civil code of 1975, and 
 
 **Constitution**<br>
 _history_: previous 1996, 2001; newest adopted 30 July 2018<br>
-_amendments_: proposed by the president of the union or supported by at least one third of the Assembly of the Union membership; adoption requires approval by at least three-quarters majority of the total Assembly membership or approval in a referendum<br>
+_amendment process_: proposed by the president of the union or supported by at least one third of the Assembly of the Union membership; adoption requires approval by at least three-quarters majority of the total Assembly membership or approval in a referendum<br>
 <strong>note: </strong>a referendum held on 30 July 2018 - boycotted by the opposition - overwhelmingly approved a new constitution that allows for 2 consecutive 5-year presidential terms while retaining the rotating presidency within the islands<br>
 
 **International law organization participation**<br>
@@ -336,7 +336,7 @@ note: opposition parties, which claimed there was "gross fraud" during the most 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of 7 judges)<br>
 _judge selection and term of office_: Supreme Court judges - selection and term of office NA<br>
-_subordinate courts_: Court of Appeals (in Moroni); Tribunal de premiere instance; island village (community) courts; religious courts<br>
+_subordinate courts_: Court of Appeals (in Moroni); Tribunal de premi&egrave;re instance; island village (community) courts; religious courts<br>
 <br>   <br><br> <br>
 
 **Political parties**<br>

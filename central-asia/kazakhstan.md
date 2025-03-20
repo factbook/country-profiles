@@ -51,15 +51,15 @@ _mean elevation_: 387 m<br>
 major deposits of petroleum, natural gas, coal, iron ore, manganese, chrome ore, nickel, cobalt, copper, molybdenum, lead, zinc, bauxite, gold, uranium<br>
 
 **Land use**<br>
-_agricultural land_: 77.4% (2018 est.)<br>
-_arable land_: arable land: 8.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 68.5% (2018 est.)<br>
-_forest_: 1.2% (2018 est.)<br>
-_other_: 21.4% (2018 est.)<br>
+_agricultural land_: 79.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 11% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 68.3% (2022 est.)<br>
+_forest_: 1.3% (2022 est.)<br>
+_other_: 19.3% (2022 est.)<br>
 
 **Irrigated land**<br>
-18,099 sq km (2020)<br>
+17,794 sq km (2022)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Ozero Balkhash - 22,000 sq km; Ozero Zaysan - 1,800 sq km<br>
@@ -249,12 +249,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 continental, cold winters and hot summers, arid and semiarid<br>
 
 **Land use**<br>
-_agricultural land_: 77.4% (2018 est.)<br>
-_arable land_: arable land: 8.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 68.5% (2018 est.)<br>
-_forest_: 1.2% (2018 est.)<br>
-_other_: 21.4% (2018 est.)<br>
+_agricultural land_: 79.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 11% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 68.3% (2022 est.)<br>
+_forest_: 1.3% (2022 est.)<br>
+_other_: 19.3% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 58.2% of total population (2023)<br>
@@ -329,8 +329,8 @@ Independence Day, 16 December (1991)<br>
 civil law system influenced by Roman-Germanic law and by the theory and practice of the Russian Federation<br>
 
 **Constitution**<br>
-_history_: previous 1937, 1978 (preindependence), 1993; latest approved by referendum 30 August 1995, effective 5 September 1995<br>
-_amendments_: introduced by a referendum initiated by the president of the republic, on the recommendation of Parliament, or by the government; the president has the option of submitting draft amendments to Parliament or directly to a referendum; passage of amendments by Parliament requires four-fifths majority vote of both houses and the signature of the president; passage by referendum requires absolute majority vote by more than one half of the voters in at least two thirds of the oblasts, major cities, and the capital, followed by the signature of the president; amended several times, last in 2022<br>
+_history_: previous 1937, 1978 (pre-independence), 1993; latest approved by referendum 30 August 1995, effective 5 September 1995<br>
+_amendment process_: introduced by a referendum initiated by the president of the republic, on the recommendation of Parliament, or by the government; the president has the option of submitting draft amendments to Parliament or directly to a referendum; passage of amendments by Parliament requires four-fifths majority vote of both houses and the signature of the president; passage by referendum requires absolute majority vote by more than one half of the voters in at least two thirds of the oblasts, major cities, and the capital, followed by the signature of the president<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>

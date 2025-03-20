@@ -50,12 +50,12 @@ _lowest point_: Torrente Ausa 55 m<br>
 building stone<br>
 
 **Land use**<br>
-_agricultural land_: 16.7% (2018 est.)<br>
-_arable land_: arable land: 16.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 0% (2018 est.)<br>
-_other_: 83.3% (2018 est.)<br>
+_agricultural land_: 38.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 33.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 16.7% (2022 est.)<br>
+_other_: 45% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -208,12 +208,12 @@ _signed, but not ratified_: Air Pollution<br>
 Mediterranean; mild to cool winters; warm, sunny summers<br>
 
 **Land use**<br>
-_agricultural land_: 16.7% (2018 est.)<br>
-_arable land_: arable land: 16.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 0% (2018 est.)<br>
-_other_: 83.3% (2018 est.)<br>
+_agricultural land_: 38.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 33.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 16.7% (2022 est.)<br>
+_other_: 45% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 97.8% of total population (2023)<br>
@@ -264,7 +264,7 @@ civil law system with Italian civil law influences<br>
 
 **Constitution**<br>
 _history_: San Marino&rsquo;s principal legislative instruments consist of old customs (antiche consuetudini), the Statutory Laws of San Marino (Leges Statutae Sancti Marini), old statutes (antichi statute) from the1600s, Brief Notes on the Constitutional Order and Institutional Organs of the Republic of San Marino (Brevi Cenni sull&rsquo;Ordinamento Costituzionale e gli Organi Istituzionali della Repubblica di San Marino) and successive legislation, chief among them is the Declaration of the Rights of Citizens and Fundamental Principles of the San Marino Legal Order (Dichiarazione dei Diritti dei Cittadini e dei Principi Fondamentali dell&rsquo;Ordinamento Sammarinese), approved 8 July 1974<br>
-_amendments_: proposed by the Great and General Council; passage requires two-thirds majority Council vote; Council passage by absolute majority vote also requires passage in a referendum; Declaration of Civil Rights amended several times, last in 2019<br>
+_amendment process_: proposed by the Great and General Council; passage requires two-thirds majority Council vote; Council passage by absolute majority vote also requires passage in a referendum<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -299,9 +299,10 @@ _percentage of women in chamber_: 35%<br>
 _expected date of next election_: June 2029<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Council of Twelve or Consiglio dei XII (consists of 12 members); note - the College of Guarantors for the Constitutionality and General Norms functions as San Marino's constitutional court<br>
+_highest court(s)_: Council of Twelve or Consiglio dei XII (consists of 12 members)<br>
 _judge selection and term of office_: judges elected by the Grand and General Council from among its own to serve 5-year terms<br>
 _subordinate courts_: first instance and first appeal criminal, administrative, and civil courts; Court for the Trust and Trustee Relations; justices of the peace or conciliatory judges<br>
+<strong>note</strong>: the College of Guarantors for the Constitutionality and General Norms functions as San Marino's constitutional court<br>
 
 **Political parties**<br>
 Domani - Modus Liberi or DML <br>Free San Marino (Libera San Marino) or Libera <br>Future Republic or RF <br>Party of Socialists and Democrats or PSD <br>Reformist Alliance or AR <br>RETE Movement <br>Sammarinese Christian Democratic Party or PDCS <br>Socialist Party or PS <br>Tomorrow in Movement coalition (includes RETE Movement, DML)<br>

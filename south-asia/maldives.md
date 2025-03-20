@@ -53,12 +53,12 @@ _mean elevation_: 2 m<br>
 fish<br>
 
 **Land use**<br>
-_agricultural land_: 23.3% (2018 est.)<br>
-_arable land_: arable land: 10% (2018 est.)<br>
-_permanent crops_: permanent crops: 10% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 3.3% (2018 est.)<br>
-_forest_: 3% (2018 est.)<br>
-_other_: 73.7% (2018 est.)<br>
+_agricultural land_: 19.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 13% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 3.3% (2022 est.)<br>
+_forest_: 2.7% (2022 est.)<br>
+_other_: 77.6% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2012)<br>
@@ -240,12 +240,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; hot, humid; dry, northeast monsoon (November to March); rainy, southwest monsoon (June to August)<br>
 
 **Land use**<br>
-_agricultural land_: 23.3% (2018 est.)<br>
-_arable land_: arable land: 10% (2018 est.)<br>
-_permanent crops_: permanent crops: 10% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 3.3% (2018 est.)<br>
-_forest_: 3% (2018 est.)<br>
-_other_: 73.7% (2018 est.)<br>
+_agricultural land_: 19.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 13% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 3.3% (2022 est.)<br>
+_forest_: 2.7% (2022 est.)<br>
+_other_: 77.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 42% of total population (2023)<br>
@@ -305,7 +305,7 @@ Islamic (sharia) legal system with English common law influences, primarily in c
 
 **Constitution**<br>
 _history_: many previous; latest ratified 7 August 2008<br>
-_amendments_: proposed by Parliament; passage requires at least three-quarters majority vote by its membership and the signature of the president of the republic; passage of amendments to constitutional articles on rights and freedoms and the terms of office of Parliament and of the president also requires a majority vote in a referendum; amended 2015<br>
+_amendment process_: proposed by Parliament; passage requires at least three-quarters majority vote by its membership and the signature of the president of the republic; passage of amendments to constitutional articles on rights and freedoms and the terms of office of Parliament and of the president also requires a majority vote in a referendum<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -339,8 +339,8 @@ _percentage of women in chamber_: 3.2%<br>
 _expected date of next election_: April 2029<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court (consists of the chief justice and 6 justices<br>
-_judge selection and term of office_: Supreme Court judges appointed by the president in consultation with the Judicial Service Commission - a 10-member body of selected high government officials and the public - and upon confirmation by voting members of the People's Majlis; judges serve until mandatory retirement at age 70<br>
+_highest court(s)_: Supreme Court (consists of the chief justice and 6 justices)<br>
+_judge selection and term of office_: Supreme Court judges appointed by the president in consultation with the Judicial Service Commission -- a 10-member body of selected senior government officials and the public -- and on confirmation by voting members of the People's Majlis; judges serve until mandatory retirement at age 70<br>
 _subordinate courts_: High Court; Criminal, Civil, Family, Juvenile, and Drug Courts; Magistrate Courts (on each of the inhabited islands)<br>
 
 **Political parties**<br>

@@ -54,12 +54,12 @@ _mean elevation_: 450 m<br>
 petroleum, natural gas, iron ore, gold, bauxite, other minerals, hydropower, diamonds<br>
 
 **Land use**<br>
-_agricultural land_: 24.5% (2018 est.)<br>
-_arable land_: arable land: 3.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 20.6% (2018 est.)<br>
-_forest_: 52.1% (2018 est.)<br>
-_other_: 23.4% (2018 est.)<br>
+_agricultural land_: 24.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 20.6% (2022 est.)<br>
+_forest_: 52.3% (2022 est.)<br>
+_other_: 23.3% (2022 est.)<br>
 
 **Irrigated land**<br>
 10,550 sq km (2012)<br>
@@ -236,12 +236,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; hot, humid; more moderate in highlands<br>
 
 **Land use**<br>
-_agricultural land_: 24.5% (2018 est.)<br>
-_arable land_: arable land: 3.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 20.6% (2018 est.)<br>
-_forest_: 52.1% (2018 est.)<br>
-_other_: 23.4% (2018 est.)<br>
+_agricultural land_: 24.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 20.6% (2022 est.)<br>
+_forest_: 52.3% (2022 est.)<br>
+_other_: 23.3% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 88.4% of total population (2023)<br>
@@ -309,7 +309,8 @@ civil law system based on the Spanish civil code<br>
 
 **Constitution**<br>
 _history_: many previous; latest adopted 15 December 1999, effective 30 December 1999<br>
-_amendments_: proposed through agreement by at least 39% of the National Assembly membership, by the president of the republic in session with the cabinet of ministers, or by petition of at least 15% of registered voters; passage requires simple majority vote by the Assembly and simple majority approval in a referendum; amended 2009; note - in 2016, President MADURO issued a decree to hold an election to form a constituent assembly to change the constitution; the election in July 2017 approved the formation of a 545-member constituent assembly and elected its delegates, empowering them to change the constitution and dismiss government institutions and officials<br>
+_amendment process_: proposed through agreement by at least 39% of the National Assembly membership, by the president of the republic in session with the cabinet of ministers, or by petition of at least 15% of registered voters; passage requires simple majority vote by the Assembly and simple majority approval in a referendum<br>
+<strong>note:</strong> in 2016, President MADURO issued a decree to hold an election to form a constituent assembly to change the constitution; the election in July 2017 approved the formation of a 545-member constituent assembly and elected its delegates, empowering them to change the constitution and dismiss government institutions and officials<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -346,7 +347,7 @@ _expected date of next election_: April 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Tribunal of Justice (consists of 32 judges organized into constitutional, political-administrative, electoral, civil appeals, criminal appeals, and social divisions)<br>
-_judge selection and term of office_: judges proposed by the Committee of Judicial Postulation (an independent body of organizations dealing with legal issues and of the organs of citizen power) and appointed by the National Assembly; judges serve nonrenewable 12-year terms; note - in July 2017, the National Assembly named 33 judges to the court to replace a series of judges, it argued, had been illegally appointed in late 2015 by the outgoing, socialist-party-led Assembly; MADURO and the Socialist Party-appointed judges refused to recognize these appointments, however, and many of the new judges have since been imprisoned or forced into exile<br>
+_judge selection and term of office_: judges proposed by the Committee of Judicial Postulation (an independent body of organizations dealing with legal issues and of the organs of citizen power) and appointed by the National Assembly; judges serve nonrenewable 12-year terms<br>
 _subordinate courts_: Superior or Appeals Courts (Tribunales Superiores); District Tribunals (Tribunales de Distrito); Courts of First Instance (Tribunales de Primera Instancia); Parish Courts (Tribunales de Parroquia); Justices of the Peace (Justicia de Paz) Network<br>
 
 **Political parties**<br>

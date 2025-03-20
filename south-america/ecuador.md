@@ -56,15 +56,15 @@ _mean elevation_: 1,117 m<br>
 petroleum, fish, timber, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 29.7% (2018 est.)<br>
-_arable land_: arable land: 4.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 5.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 19.4% (2018 est.)<br>
-_forest_: 38.9% (2018 est.)<br>
-_other_: 31.4% (2018 est.)<br>
+_agricultural land_: 21.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 3.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 12.1% (2022 est.)<br>
+_forest_: 49.8% (2022 est.)<br>
+_other_: 28.7% (2022 est.)<br>
 
 **Irrigated land**<br>
-10,000 sq km (2020)<br>
+12,520 sq km (2022)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
@@ -248,12 +248,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical along coast, becoming cooler inland at higher elevations; tropical in Amazonian jungle lowlands<br>
 
 **Land use**<br>
-_agricultural land_: 29.7% (2018 est.)<br>
-_arable land_: arable land: 4.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 5.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 19.4% (2018 est.)<br>
-_forest_: 38.9% (2018 est.)<br>
-_other_: 31.4% (2018 est.)<br>
+_agricultural land_: 21.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 3.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 12.1% (2022 est.)<br>
+_forest_: 49.8% (2022 est.)<br>
+_other_: 28.7% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 64.8% of total population (2023)<br>
@@ -323,7 +323,7 @@ civil law based on the Chilean civil code with modifications; traditional law in
 
 **Constitution**<br>
 _history_: many previous; latest approved 20 October 2008<br>
-_amendments_: proposed by the president of the republic through a referendum, by public petition of at least 1% of registered voters, or by agreement of at least one-third membership of the National Assembly; passage requires two separate readings a year apart and approval by at least two-thirds majority vote of the Assembly, and approval by absolute majority in a referendum; amendments such as changes to the structure of the state, constraints on personal rights and guarantees, or constitutional amendment procedures are not allowed; amended 2011, 2015, 2018, 2024<br>
+_amendment process_: proposed by the president of the republic through a referendum, by public petition of at least 1% of registered voters, or by agreement of at least one-third membership of the National Assembly; passage requires two separate readings a year apart and approval by at least two-thirds majority vote of the Assembly, and approval by absolute majority in a referendum; amendments such as changes to the structure of the state, constraints on personal rights and guarantees, or constitutional amendment procedures are not allowed<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -360,7 +360,7 @@ _expected date of next election_: February 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: National Court of Justice or Corte Nacional de Justicia (consists of 21 judges, including the chief justice and organized into 5 specialized chambers); Constitutional Court or Corte Constitucional (consists of the court president and 8 judges)<br>
-_judge selection and term of office_: candidates for the National Court of Justice evaluated and appointed justices by the Judicial Council, a 9-member independent body of law professionals; justices elected for 9-year, non-renewable terms, with one-third of the membership renewed every 3 years; candidates for the Constitutional Court evaluated and appointed judges by a 6-member independent body of law professionals; judges appointed for 4-year renewable terms<br>
+_judge selection and term of office_: candidates for the National Court of Justice evaluated and appointed justices by the Judicial Council, a 9-member independent body of law professionals; justices elected for 9-year, non-renewable terms, with one third of the membership renewed every 3 years; candidates for the Constitutional Court evaluated and appointed judges by a 6-member independent body of law professionals; judges appointed for 4-year renewable terms<br>
 _subordinate courts_: provincial courts (one for each province except Galapagos); fiscal, criminal, and administrative tribunals; Election Dispute Settlement Courts; cantonal courts<br>
 
 **Political parties**<br>

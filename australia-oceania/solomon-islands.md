@@ -52,12 +52,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 fish, forests, gold, bauxite, phosphates, lead, zinc, nickel<br>
 
 **Land use**<br>
-_agricultural land_: 3.9% (2018 est.)<br>
-_arable land_: arable land: 0.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0.3% (2018 est.)<br>
-_forest_: 78.9% (2018 est.)<br>
-_other_: 17.2% (2018 est.)<br>
+_agricultural land_: 4.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.3% (2022 est.)<br>
+_forest_: 90.1% (2022 est.)<br>
+_other_: 5.6% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -229,12 +229,12 @@ _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 tropical monsoon; few temperature and weather extremes<br>
 
 **Land use**<br>
-_agricultural land_: 3.9% (2018 est.)<br>
-_arable land_: arable land: 0.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 2.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0.3% (2018 est.)<br>
-_forest_: 78.9% (2018 est.)<br>
-_other_: 17.2% (2018 est.)<br>
+_agricultural land_: 4.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.3% (2022 est.)<br>
+_forest_: 90.1% (2022 est.)<br>
+_other_: 5.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 26% of total population (2023)<br>
@@ -289,8 +289,8 @@ Independence Day, 7 July (1978)<br>
 mixed legal system of English common law and customary law<br>
 
 **Constitution**<br>
-_history_: adopted 31 May 1978, effective 7 July 1978; note - in late 2017, provincial leaders agreed to adopt a new federal constitution; progress has been stalled, but as of February 2023, the draft constitution was with the Constitutional Review Unit in the prime minister's office&nbsp;<br>
-_amendments_: proposed by the National Parliament; passage of constitutional sections, including those on fundamental rights and freedoms, the legal system, Parliament, alteration of the constitution and the ombudsman, requires three-fourths majority vote by Parliament and assent of the governor general; passage of other amendments requires two-thirds majority vote and assent of the governor general; amended several times, last in 2018<br>
+_history_: adopted 31 May 1978, effective 7 July 1978<br>
+_amendment process_: proposed by the National Parliament; passage of constitutional sections, including those on fundamental rights and freedoms, the legal system, Parliament, alteration of the constitution and the ombudsman, requires three-fourths majority vote by Parliament and assent of the governor general; passage of other amendments requires two-thirds majority vote and assent of the governor general<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -323,8 +323,8 @@ _percentage of women in chamber_: 6%<br>
 _expected date of next election_: April 2028<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Court of Appeal (consists of the court president and ex officio members including the High Court chief justice and its puisne judges); High Court (consists of the chief justice and puisne judges, as prescribed by the National Parliament)<br>
-_judge selection and term of office_: Court of Appeal and High Court president, chief justices, and puisne judges appointed by the governor general upon recommendation of the Judicial and Legal Service Commission, chaired by the chief justice and includes 5 members, mostly judicial officials and legal professionals; all judges serve until retirement at age 60<br>
+_highest court(s)_: Court of Appeal (consists of the court president and ex officio members including the High Court chief justice and puisne judges); High Court (consists of the chief justice and puisne judges)<br>
+_judge selection and term of office_: Court of Appeal and High Court president, chief justices, and puisne judges appointed by the governor general on recommendation of the Judicial and Legal Service Commission, chaired by the chief justice and includes 5 members, mostly judicial officials and legal professionals; all judges serve until retirement at age 60<br>
 _subordinate courts_: Magistrates' Courts; Customary Land Appeal Court; local courts<br>
 
 **Political parties**<br>

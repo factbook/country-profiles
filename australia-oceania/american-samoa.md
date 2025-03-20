@@ -51,12 +51,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 pumice, pumicite<br>
 
 **Land use**<br>
-_agricultural land_: 24.5% (2018 est.)<br>
-_arable land_: arable land: 15% (2018 est.)<br>
-_permanent crops_: permanent crops: 9.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 75.5% (2018 est.)<br>
-_other_: 0% (2018 est.)<br>
+_agricultural land_: 14.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 4.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 9.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 85.4% (2022 est.)<br>
+_other_: 0.2% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -192,12 +192,12 @@ limited supply of drinking water; pollution; waste disposal; coastal and stream 
 tropical marine, moderated by southeast trade winds; annual rainfall averages about 3 m; rainy season (November to April), dry season (May to October); little seasonal temperature variation<br>
 
 **Land use**<br>
-_agricultural land_: 24.5% (2018 est.)<br>
-_arable land_: arable land: 15% (2018 est.)<br>
-_permanent crops_: permanent crops: 9.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 75.5% (2018 est.)<br>
-_other_: 0% (2018 est.)<br>
+_agricultural land_: 14.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 4.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 9.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 85.4% (2022 est.)<br>
+_other_: 0.2% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 87.2% of total population (2023)<br>
@@ -219,7 +219,7 @@ _conventional long form_: American Samoa<br>
 _conventional short form_: American Samoa<br>
 _former_: Eastern Samoa<br>
 _abbreviation_: AS<br>
-_etymology_: the meaning of Samoa is disputed; some modern explanations are that the "sa" connotes&nbsp; "sacred" and "moa" indicates "center," so the name can mean "Holy Center"; alternatively, some assertions state that it can mean "place of the sacred moa bird" of Polynesian mythology; the name, however, may go back to Proto-Polynesian (PPn) times (before 1000 B.C.); a plausible PPn reconstruction has the first syllable as "sa'a" meaning "tribe or people" and "moa" meaning "deep sea or ocean" to convey the meaning "people of the deep sea"<br>
+_etymology_: the meaning of Samoa is disputed; according to one theory, <em>sa </em>means "sacred" and <em>moa </em>means "center," so the name can mean "Holy Center"; alternatively, some assert that the name can mean "place of the sacred moa bird" of Polynesian mythology; however, the name may pre-date the Polynesian era (before 1000 B.C.), with <em>sa'a</em> meaning "tribe or people" and <em>moa </em>meaning "deep sea," or "people of the deep sea"<br>
 
 **Government type**<br>
 unincorporated, unorganized Territory of the US with local self-government; republican form of territorial government with separate executive, legislative, and judicial branches<br>
@@ -247,7 +247,7 @@ mixed legal system of US common law and customary law<br>
 
 **Constitution**<br>
 _history_: adopted 17 October 1960; revised 1 July 1967<br>
-_amendments_: proposed by either house of the Legislative Assembly; passage requires three-fifths majority vote by the membership of each house, approval by simple majority vote in a referendum, approval by the US Secretary of the Interior, and only by an act of the US Congress; amended several times, last in 2021<br>
+_amendment process_: proposed by either house of the Legislative Assembly; passage requires three-fifths majority vote by the membership of each house, approval by simple majority vote in a referendum, approval by the US Secretary of the Interior, and only by an act of the US Congress<br>
 
 **Citizenship**<br>
 see United States<br>Note: in accordance with US Code Title 8, Section 1408, persons born in American Samoa are US nationals but not US citizens<br>
@@ -266,9 +266,10 @@ _election results_: <br>Lemanu Peleti MAUGA elected governor in first round; per
 <strong>note: </strong>American Samoa elects 1 member by simple majority popular vote to serve a 2-year term as a delegate to the US House of Representatives; the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote<br>
 
 **Judicial branch**<br>
-_highest court(s)_: High Court of American Samoa (consists of the chief justice, associate chief justice, and 6 Samoan associate judges and organized into trial, family, drug, and appellate divisions); note - American Samoa has no US federal courts<br>
+_highest court(s)_: High Court of American Samoa (consists of the chief justice, associate chief justice, and 6 Samoan associate judges and organized into trial, family, drug, and appellate divisions)&nbsp;<br>
 _judge selection and term of office_: chief justice and associate chief justice appointed by the US Secretary of the Interior to serve for life; Samoan associate judges appointed by the governor to serve for life<br>
 _subordinate courts_: district and village courts<br>
+<strong>note:</strong> American Samoa has no US federal courts<br>
 
 **Political parties**<br>
 Democratic Party<br>Republican Party<br>

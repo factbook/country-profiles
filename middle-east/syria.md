@@ -53,15 +53,15 @@ _mean elevation_: 514 m<br>
 petroleum, phosphates, chrome and manganese ores, asphalt, iron ore, rock salt, marble, gypsum, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 75.8% (2018 est.)<br>
-_arable land_: arable land: 25.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 5.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 44.6% (2018 est.)<br>
-_forest_: 2.7% (2018 est.)<br>
-_other_: 21.5% (2018 est.)<br>
+_agricultural land_: 73.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 23.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 44.1% (2022 est.)<br>
+_forest_: 2.8% (2022 est.)<br>
+_other_: 23.7% (2022 est.)<br>
 
 **Irrigated land**<br>
-13,100 sq km (2013)<br>
+9,820 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
 Euphrates (shared with Turkey [s], Iran, and Iraq [m]) - 3,596 km; Tigris (shared with Turkey, Iran, and Iraq [m]) - 1,950 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -234,12 +234,12 @@ _signed, but not ratified_: Environmental Modification<br>
 mostly desert; hot, dry, sunny summers (June to August) and mild, rainy winters (December to February) along coast; cold weather with snow or sleet periodically in Damascus<br>
 
 **Land use**<br>
-_agricultural land_: 75.8% (2018 est.)<br>
-_arable land_: arable land: 25.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 5.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 44.6% (2018 est.)<br>
-_forest_: 2.7% (2018 est.)<br>
-_other_: 21.5% (2018 est.)<br>
+_agricultural land_: 73.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 23.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 44.1% (2022 est.)<br>
+_forest_: 2.8% (2022 est.)<br>
+_other_: 23.7% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 57.4% of total population (2023)<br>
@@ -304,8 +304,7 @@ Independence Day (Evacuation Day), 17 April (1946); note - celebrates the leavin
 mixed legal system of civil and Islamic (sharia) law (for family courts)<br>
 
 **Constitution**<br>
-_history_: <p>several previous; latest issued 15 February 2012, passed by referendum and effective 27 February 2012; note – UN-sponsored talks, which began in late 2019 between delegates from government and opposition forces to draft a new constitution; in June 2022, the 8th round of the Syrian Constitutional Committee ended in Geneva with no results, and the 9th round, scheduled for July 2022, was cancelled due to lack of Russian and regime participation</p><br>
-_amendments_: proposed by the president of the republic or by one third of the People&rsquo;s Assembly members; following review by a special Assembly committee, passage requires at least three-quarters majority vote by the Assembly and approval by the president<br>
+_history_: Syria's 2012 constitution was rescinded by the Hayat Tahrir al-Sham-led government in January 2025; in March 2025, interim authorities announced a transitional constitution to remain in effect for up to five years<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICC<br>
@@ -340,7 +339,7 @@ _expected date of next election_: July 2028<br>
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation (organized into civil, criminal, religious, and military divisions, each with 3 judges); Supreme Constitutional Court (consists of 7 members)<br>
 _judge selection and term of office_: Court of Cassation judges appointed by the Supreme Judicial Council (SJC), a judicial management body headed by the minister of justice with 7 members, including the national president; judge tenure NA; Supreme Constitutional Court judges nominated by the president and appointed by the SJC; judges serve 4-year renewable terms<br>
-_subordinate courts_: courts of first instance; magistrates' courts; religious and military courts; Economic Security Court; Counterterrorism Court (established June 2012)<br>
+_subordinate courts_: courts of first instance; magistrates' courts; religious and military courts; Economic Security Court; Counterterrorism Court<br>
 
 **Political parties**<br>
 <strong>legal parties/alliances:<br></strong> Arab Socialist Ba'ath Party<br>Arab Socialist (Ba'ath) Party – Syrian Regional<br>Arab Socialist Ba'ath Party – Syrian Regional Branch, Socialist Unionist Democratic Party<br>Arab Socialist Union of Syria or ASU<br>Democratic Arab Socialist Union<br>National Progressive Front or NPF<br>Socialist Unionist Democratic Party<br>Socialist Unionist Party<br>Syrian Communist Party (two branches)<br>Syrian Social Nationalist Party or SSNP<br>Unionist Socialist Party<br><strong><br>major political organizations:<br></strong>Kurdish Democratic Union Party or PYD<br>Kurdish National Council or KNC<br>Syriac Union Party<br>Syrian Democratic Council or SDC<br>Syrian Democratic Party<br>Syrian Opposition Coalition<br> <p><strong>de facto governance entities:<br></strong>Democratic Autonomous Administration of Northeast Syria or DAANES <br>Syrian Interim Government or SIG<br>Syrian Salvation Government or SSG</p><br>

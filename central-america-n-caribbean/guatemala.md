@@ -53,12 +53,12 @@ _mean elevation_: 759 m<br>
 petroleum, nickel, rare woods, fish, chicle, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 41.2% (2018 est.)<br>
-_arable land_: arable land: 14.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 8.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 18.2% (2018 est.)<br>
-_forest_: 33.6% (2018 est.)<br>
-_other_: 25.2% (2018 est.)<br>
+_agricultural land_: 43% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 14.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 17.5% (2022 est.)<br>
+_forest_: 32.7% (2022 est.)<br>
+_other_: 24.3% (2022 est.)<br>
 
 **Irrigated land**<br>
 3,375 sq km (2012)<br>
@@ -244,12 +244,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; hot, humid in lowlands; cooler in highlands<br>
 
 **Land use**<br>
-_agricultural land_: 41.2% (2018 est.)<br>
-_arable land_: arable land: 14.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 8.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 18.2% (2018 est.)<br>
-_forest_: 33.6% (2018 est.)<br>
-_other_: 25.2% (2018 est.)<br>
+_agricultural land_: 43% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 14.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 17.5% (2022 est.)<br>
+_forest_: 32.7% (2022 est.)<br>
+_other_: 24.3% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 53.1% of total population (2023)<br>
@@ -312,7 +312,7 @@ civil law system; judicial review of legislative acts<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 31 May 1985, effective 14 January 1986; suspended and reinstated in 1994<br>
-_amendments_: proposed by the president of the republic, by agreement of 10 or more deputies of Congress, by the Constitutional Court, or by public petition of at least 5,000 citizens; passage requires at least two-thirds majority vote by the Congress membership and approval by public referendum, referred to as "popular consultation"; constitutional articles such as national sovereignty, the republican form of government, limitations on those seeking the presidency, or presidential tenure cannot be amended; amended 1993<br>
+_amendment process_: proposed by the president of the republic, by agreement of 10 or more deputies of Congress, by the Constitutional Court, or by public petition of at least 5,000 citizens; passage requires at least two-thirds majority vote by the Congress membership and approval by public referendum, referred to as "popular consultation"; constitutional articles such as national sovereignty, the republican form of government, limitations on those seeking the presidency, or presidential tenure cannot be amended<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -347,9 +347,10 @@ _percentage of women in chamber_: 20%<br>
 _expected date of next election_: June 2027<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (consists of 13 magistrates, including the court president and organized into 3 chambers); note - the court president also supervises trial judges countrywide; note - the Constitutional Court or Corte de Constitucionalidad of Guatemala resides outside the country's judicial system; its sole purpose is the interpretation of the constitution and to see that the laws and regulations are not superior to the constitution (consists of 5 titular magistrates and 5 substitute magistrates)<br>
+_highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (consists of 13 magistrates, including the court president and organized into 3 chambers)<br>
 _judge selection and term of office_: Supreme Court magistrates elected by the Congress of the Republic from candidates proposed by the Postulation Committee, an independent body of deans of the country's university law schools, representatives of the country's law associations, and representatives of the Courts of Appeal; magistrates elected for concurrent, renewable 5-year terms; Constitutional Court judges - 1 elected by the Congress of the Republic, 1 by the Supreme Court, 1 by the president of the republic, 1 by the (public) University of San Carlos, and 1 by the Assembly of the College of Attorneys and Notaries; judges elected for renewable, consecutive 5-year terms; the presidency of the court rotates among the magistrates for a single 1-year term<br>
 _subordinate courts_: Appellate Courts of Accounts, Contentious Administrative Tribunal, courts of appeal, first instance courts, child and adolescence courts, minor or peace courts<br>
+<strong>note 1: </strong>the Supreme Court of Justice president also supervises trial judges countrywide<br><br><strong>note 2:</strong> the Constitutional Court or Corte de Constitucionalidad of Guatemala resides outside the country's judicial system; its sole purpose is the interpretation of the constitution and to see that the laws and regulations are not superior to the constitution (consists of 5 titular magistrates and 5 substitute magistrates)<br>
 
 **Political parties**<br>
 Bienestar Nacional or BIEN<br>Blue Party (Partido Azul) or Blue<br>CABAL<br>Cambio<br>Citizen Prosperity or PC<br>Commitment, Renewal, and Order or CREO<br>Elephant Community (Comunidad Elefante) or Elephant<br>Everyone Together for Guatemala or TODOS<br>Guatemalan National Revolutionary Unity or URNG-MAIZ or URNG<br>Humanist Party of Guatemala or PHG<br>Movement for the Liberation of Peoples or MLP<br>Movimiento Semilla or SEMILLA<br>National Advancement Party or PAN<br>National Convergence Front or FCN-NACION<br>National Unity for Hope or UNE<br>Nationalist Change Union or UCN (dissolved 16 December 2021)<br>Nosotros or PPN<br>PODEMOS<br>Political Movement Winaq or Winaq<br>TODOS<br>Value or VALOR<br>Vamos por una Guatemala Diferente or VAMOS<br>Victory or VICTORIA<br>Vision with Values or VIVA<br>Will, Opportunity and Solidarity (Voluntad, Oportunidad y Solidaridad) or VOS<br>

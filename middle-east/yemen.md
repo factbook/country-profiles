@@ -55,12 +55,12 @@ _mean elevation_: 999 m<br>
 petroleum, fish, rock salt, marble; small deposits of coal, gold, lead, nickel, and copper; fertile soil in west<br>
 
 **Land use**<br>
-_agricultural land_: 44.5% (2018 est.)<br>
-_arable land_: arable land: 2.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 41.7% (2018 est.)<br>
-_forest_: 1% (2018 est.)<br>
-_other_: 54.5% (2018 est.)<br>
+_agricultural land_: 44.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 41.7% (2022 est.)<br>
+_forest_: 1% (2022 est.)<br>
+_other_: 54.5% (2022 est.)<br>
 
 **Irrigated land**<br>
 6,800 sq km (2012)<br>
@@ -235,12 +235,12 @@ _signed, but not ratified_: Climate Change-Paris Agreement, Comprehensive Nuclea
 mostly desert; hot and humid along west coast; temperate in western mountains affected by seasonal monsoon; extraordinarily hot, dry, harsh desert in east<br>
 
 **Land use**<br>
-_agricultural land_: 44.5% (2018 est.)<br>
-_arable land_: arable land: 2.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 41.7% (2018 est.)<br>
-_forest_: 1% (2018 est.)<br>
-_other_: 54.5% (2018 est.)<br>
+_agricultural land_: 44.4% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 41.7% (2022 est.)<br>
+_forest_: 1% (2022 est.)<br>
+_other_: 54.5% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 39.8% of total population (2023)<br>
@@ -305,8 +305,7 @@ Unification Day, 22 May (1990)<br>
 mixed legal system of Islamic (sharia) law, Napoleonic law, English common law, and customary law<br>
 
 **Constitution**<br>
-_history_: adopted by referendum 16 May 1991 (following unification); note - after the National Dialogue ended in January 2015, a Constitutional Drafting Committee appointed by the president worked to prepare a new draft constitution that was expected to be put to a national referendum before being adopted; however, the start of the current conflict in early 2015 interrupted the process<br>
-_amendments_: amended several times, last in 2009<br>
+_history_: adopted by referendum 16 May 1991 (following unification)<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>

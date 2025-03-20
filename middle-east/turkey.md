@@ -53,15 +53,15 @@ _mean elevation_: 1,132 m<br>
 coal, iron ore, copper, chromium, antimony, mercury, gold, barite, borate, celestite (strontium), emery, feldspar, limestone, magnesite, marble, perlite, pumice, pyrites (sulfur), clay, arable land, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 49.7% (2018 est.)<br>
-_arable land_: arable land: 26.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 19% (2018 est.)<br>
-_forest_: 14.9% (2018 est.)<br>
-_other_: 35.4% (2018 est.)<br>
+_agricultural land_: 50% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 26.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 4.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 19% (2022 est.)<br>
+_forest_: 29.3% (2022 est.)<br>
+_other_: 20.7% (2022 est.)<br>
 
 **Irrigated land**<br>
-52,150 sq km (2020)<br>
+52,150 sq km (2022)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lake Beysehir - 650 sq km; Lake Egridir - 520 sq km<br>
@@ -250,12 +250,12 @@ _signed, but not ratified_: Climate Change-Paris Agreement, Environmental Modifi
 temperate; hot, dry summers with mild, wet winters; harsher in interior<br>
 
 **Land use**<br>
-_agricultural land_: 49.7% (2018 est.)<br>
-_arable land_: arable land: 26.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 4% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 19% (2018 est.)<br>
-_forest_: 14.9% (2018 est.)<br>
-_other_: 35.4% (2018 est.)<br>
+_agricultural land_: 50% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 26.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 4.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 19% (2022 est.)<br>
+_forest_: 29.3% (2022 est.)<br>
+_other_: 20.7% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 77.5% of total population (2023)<br>
@@ -330,7 +330,7 @@ civil law system based on various European legal systems, notably the Swiss civi
 
 **Constitution**<br>
 _history_: several previous; latest ratified 9 November 1982<br>
-_amendments_: proposed by written consent of at least one third of Grand National Assembly (GNA) of Turkey (TBMM) members; adoption of draft amendments requires two debates in plenary TBMM session and three-fifths majority vote of all GNA members; the president of the republic can request TBMM reconsideration of the amendment and, if readopted by two-thirds majority TBMM vote, the president may submit the amendment to a referendum; passage by referendum requires absolute majority vote; amended several times, last in 2017<br>
+_amendment process_: proposed by written consent of at least one third of Grand National Assembly (GNA) of Turkey (TBMM) members; adoption of draft amendments requires two debates in plenary TBMM session and three-fifths majority vote of all GNA members; the president of the republic can request TBMM reconsideration of the amendment and, if readopted by two-thirds majority TBMM vote, the president may submit the amendment to a referendum; passage by referendum requires absolute majority vote<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -364,9 +364,9 @@ _percentage of women in chamber_: 19.9%<br>
 _expected date of next election_: May 2028<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Constitutional Court or Anayasa Mahkemesi (consists of the president, 2 vice presidents, and 12 judges); Court of Cassation (consists of about 390 judges and is organized into civil and penal chambers); Council of State (organized into 15 divisions - 14 judicial and 1 consultative - each with a division head and at least 5 members)<br>
+_highest court(s)_: Constitutional Court or Anayasa Mahkemesi (consists of the president, 2 vice presidents, and 12 judges); Court of Cassation (consists of about 390 judges and is organized into civil and penal chambers); Council of State (organized into 15 divisions -- 14 judicial and 1 consultative -- each with a division head and at least 5 members)<br>
 _judge selection and term of office_: Constitutional Court members - 3 appointed by the Grand National Assembly and 12 by the president of the republic; court president and 2 deputy court presidents appointed from among its members for 4-year terms; judges serve 12-year, nonrenewable terms with mandatory retirement at age 65; Court of Cassation judges appointed by the Board of Judges and Prosecutors, a 13-member body of judicial officials; Court of Cassation judges serve until retirement at age 65; Council of State members appointed by the Board and by the president of the republic; members serve renewable, 4-year terms<br>
-_subordinate courts_: regional appeals courts; basic (first instance) courts; peace courts; aggravated crime courts; specialized courts, including administrative and audit; note - a constitutional amendment in 2017 abolished military courts unless established to investigate military personnel actions during war conditions<br>
+_subordinate courts_: regional appeals courts; basic (first instance) courts; peace courts; aggravated crime courts; specialized courts, including administrative and audit<br>
 
 **Political parties**<br>
 Democracy and Progress Party or DEVA<br>Democrat Party or DP<br>Democratic Regions Party or DBP<br>Felicity Party (Saadet Party) or SP<br>Free Cause Party or HUDA PAR<br>Future Party (Gelecek Partisi) or GP<br>Good Party or IYI<br>Grand Unity Party or BBP <br>Justice and Development Party or AKP <br>Labor and Freedom Alliance (electoral alliance includes YSGP, HDP, TIP)<br>Nationalist Movement Party or MHP <br>New Welfare Party or YRP <br>Party of Greens and the Left Future or YSGP <br>People's Alliance (electoral alliance includes AKP, BBP, MHP, YRP)<br>Peoples' Democratic Party or HDP<br>Republican People's Party or CHP <br>Workers' Party of Turkey or TIP<br>

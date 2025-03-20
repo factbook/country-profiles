@@ -54,12 +54,12 @@ _mean elevation_: 1,305 m<br>
 petroleum, natural gas, coal, chromium, copper, iron ore, lead, manganese, zinc, sulfur<br>
 
 **Land use**<br>
-_agricultural land_: 30.1% (2018 est.)<br>
-_arable land_: arable land: 10.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 18.1% (2018 est.)<br>
-_forest_: 6.8% (2018 est.)<br>
-_other_: 63.1% (2018 est.)<br>
+_agricultural land_: 29% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 9.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 18.2% (2022 est.)<br>
+_forest_: 6.6% (2022 est.)<br>
+_other_: 64.4% (2022 est.)<br>
 
 **Irrigated land**<br>
 79,721 sq km (2020)<br>
@@ -243,12 +243,12 @@ _signed, but not ratified_: Climate Change-Paris Agreement, Comprehensive Nuclea
 mostly arid or semiarid, subtropical along Caspian coast<br>
 
 **Land use**<br>
-_agricultural land_: 30.1% (2018 est.)<br>
-_arable land_: arable land: 10.8% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 18.1% (2018 est.)<br>
-_forest_: 6.8% (2018 est.)<br>
-_other_: 63.1% (2018 est.)<br>
+_agricultural land_: 29% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 9.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 18.2% (2022 est.)<br>
+_forest_: 6.6% (2022 est.)<br>
+_other_: 64.4% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 77.3% of total population (2023)<br>
@@ -325,7 +325,7 @@ religious legal system based on secular and Islamic law<br>
 
 **Constitution**<br>
 _history_: previous 1906; latest adopted 24 October 1979, effective 3 December 1979<br>
-_amendments_: proposed by the supreme leader &ndash; after consultation with the Exigency Council &ndash; and submitted as an edict to the "Council for Revision of the Constitution," a body consisting of various executive, legislative, judicial, and academic leaders and members; passage requires absolute majority vote in a referendum and approval of the supreme leader; articles including Iran&rsquo;s political system, its religious basis, and its form of government cannot be amended; amended 1989<br>
+_amendment process_: proposed by the supreme leader &ndash; after consultation with the Exigency Council &ndash; and submitted as an edict to the "Council for Revision of the Constitution," a body consisting of various executive, legislative, judicial, and academic leaders and members; passage requires absolute majority vote in a referendum and approval of the supreme leader; articles including Iran&rsquo;s political system, its religious basis, and its form of government cannot be amended<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>

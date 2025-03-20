@@ -50,15 +50,15 @@ _lowest point_: Sariqamish Kuli -12 m<br>
 natural gas, petroleum, coal, gold, uranium, silver, copper, lead and zinc, tungsten, molybdenum<br>
 
 **Land use**<br>
-_agricultural land_: 62.6% (2018 est.)<br>
-_arable land_: arable land: 10.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 51.7% (2018 est.)<br>
-_forest_: 7.7% (2018 est.)<br>
-_other_: 29.7% (2018 est.)<br>
+_agricultural land_: 58.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 9.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 47.9% (2022 est.)<br>
+_forest_: 8.5% (2022 est.)<br>
+_other_: 33.5% (2022 est.)<br>
 
 **Irrigated land**<br>
-37,320 sq km (2020)<br>
+37,305 sq km (2022)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Aral Sea (shared with Kazakhstan) - largely dried up<br>
@@ -247,12 +247,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 mostly mid-latitude desert, long, hot summers, mild winters; semiarid grassland in east<br>
 
 **Land use**<br>
-_agricultural land_: 62.6% (2018 est.)<br>
-_arable land_: arable land: 10.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.8% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 51.7% (2018 est.)<br>
-_forest_: 7.7% (2018 est.)<br>
-_other_: 29.7% (2018 est.)<br>
+_agricultural land_: 58.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 9.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 47.9% (2022 est.)<br>
+_forest_: 8.5% (2022 est.)<br>
+_other_: 33.5% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 50.5% of total population (2023)<br>
@@ -323,8 +323,7 @@ civil law system;<strong> note:</strong> in early 2020, the president signed an
 
 **Constitution**<br>
 _history_: several previous; latest adopted 8 December 1992<br>
-_amendments_: proposed by the Supreme Assembly or by referendum; passage requires two-thirds majority vote of both houses of the Assembly or passage in a referendum; amended several times, last in 2023<br>
-<strong>note:</strong> in a public referendum passed in April 2023, among the changes were the extension of the presidential term to 7 years from 5 years, and modifications to the structure and powers of the Supreme Assembly and to the criminal code <br>
+_amendment process_: proposed by the Supreme Assembly or by referendum; passage requires two-thirds majority vote of both houses of the Assembly or passage in a referendum<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>

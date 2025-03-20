@@ -51,12 +51,12 @@ _mean elevation_: 1,598 m<br>
 gold, cassiterite (tin ore), wolframite (tungsten ore), methane, hydropower, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 74.5% (2018 est.)<br>
-_arable land_: arable land: 47% (2018 est.)<br>
-_permanent crops_: permanent crops: 10.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 17.4% (2018 est.)<br>
-_forest_: 18% (2018 est.)<br>
-_other_: 7.5% (2018 est.)<br>
+_agricultural land_: 81.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 51.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 14.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 15.6% (2022 est.)<br>
+_forest_: 11.3% (2022 est.)<br>
+_other_: 7.5% (2022 est.)<br>
 
 **Irrigated land**<br>
 96 sq km (2012)<br>
@@ -247,12 +247,12 @@ _signed, but not ratified_: Law of the Sea<br>
 temperate; two rainy seasons (February to April, November to January); mild in mountains with frost and snow possible<br>
 
 **Land use**<br>
-_agricultural land_: 74.5% (2018 est.)<br>
-_arable land_: arable land: 47% (2018 est.)<br>
-_permanent crops_: permanent crops: 10.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 17.4% (2018 est.)<br>
-_forest_: 18% (2018 est.)<br>
-_other_: 7.5% (2018 est.)<br>
+_agricultural land_: 81.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 51.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 14.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 15.6% (2022 est.)<br>
+_forest_: 11.3% (2022 est.)<br>
+_other_: 7.5% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 17.9% of total population (2023)<br>
@@ -322,7 +322,7 @@ mixed legal system of civil law, based on German and Belgian models, and customa
 
 **Constitution**<br>
 _history_: several previous; latest adopted by referendum 26 May 2003, effective 4 June 2003<br>
-_amendments_: proposed by the president of the republic (with Council of Ministers approval) or by two-thirds majority vote of both houses of Parliament; passage requires at least three-quarters majority vote in both houses; changes to constitutional articles on national sovereignty, the presidential term, the form and system of government, and political pluralism also require approval in a referendum; amended several times, last in 2015<br>
+_amendment process_: proposed by the president of the republic (with Council of Ministers approval) or by two-thirds majority vote of both houses of Parliament; passage requires at least three-quarters majority vote in both houses; changes to constitutional articles on national sovereignty, the presidential term, the form and system of government, and political pluralism also require approval in a referendum<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -370,7 +370,7 @@ _expected date of next election_: September 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief and deputy chief justices and 5 judges; normally organized into 3-judge panels); High Court (consists of the court president, vice president, and a minimum of 24 judges and organized into 5 chambers)<br>
-_judge selection and term of office_: Supreme Court judges nominated by the president after consultation with the Cabinet and the Superior Council of the Judiciary (SCJ), a 27-member body of judges, other judicial officials, and legal professionals) and approved by the Senate; chief and deputy chief justices appointed for 8-year nonrenewable terms; tenure of judges NA; High Court president and vice president appointed by the president of the republic upon approval by the Senate; judges appointed by the Supreme Court chief justice upon approval of the SCJ; judge tenure NA<br>
+_judge selection and term of office_: Supreme Court judges nominated by the president after consultation with the Cabinet and the Superior Council of the Judiciary (SCJ), a 27-member body of judges, other judicial officials, and legal professionals, and approved by the Senate; chief and deputy chief justices appointed for 8-year nonrenewable terms; tenure of judges NA; High Court president and vice president appointed by the president of the republic upon approval by the Senate; judges appointed by the Supreme Court chief justice upon approval of the SCJ; judge tenure NA<br>
 _subordinate courts_: High Court of the Republic; commercial courts including the High Commercial Court; intermediate courts; primary courts; and military specialized courts<strong><br></strong><br>
 <strong> </strong><br>
 

@@ -84,7 +84,7 @@ _agricultural land_: 0% (2018 est.)<br>
 **Country name**<br>
 _conventional long form_: Territory of Ashmore and Cartier Islands<br>
 _conventional short form_: Ashmore and Cartier Islands<br>
-_etymology_: named after British Captain Samuel ASHMORE, who first sighted his namesake island in 1811, and after the ship Cartier, from which the second island was discovered in 1800<br>
+_etymology_: named after British Captain Samuel ASHMORE, who first sighted the island in 1811, and after the ship <em>Cartier</em>, from which the second island was discovered in 1800<br>
 
 **Dependency status**<br>
 territory of Australia; administered from Canberra by the Department of Regional Australia, Local Government, Arts and Sport<br>

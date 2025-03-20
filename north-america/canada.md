@@ -56,12 +56,12 @@ _mean elevation_: 487 m<br>
 bauxite, iron ore, nickel, zinc, copper, gold, lead, uranium, rare earth elements, molybdenum, potash, diamonds, silver, fish, timber, wildlife, coal, petroleum, natural gas, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 6.8% (2018 est.)<br>
-_arable land_: arable land: 4.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 1.6% (2018 est.)<br>
-_forest_: 34.1% (2018 est.)<br>
-_other_: 59.1% (2018 est.)<br>
+_agricultural land_: 6.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 4.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 2.1% (2022 est.)<br>
+_forest_: 39.5% (2022 est.)<br>
+_other_: 54% (2022 est.)<br>
 
 **Irrigated land**<br>
 9,045 sq km (2015)<br>
@@ -251,12 +251,12 @@ _signed, but not ratified_: Air Pollution-Volatile Organic Compounds, Marine Lif
 varies from temperate in south to subarctic and arctic in north<br>
 
 **Land use**<br>
-_agricultural land_: 6.8% (2018 est.)<br>
-_arable land_: arable land: 4.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.5% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 1.6% (2018 est.)<br>
-_forest_: 34.1% (2018 est.)<br>
-_other_: 59.1% (2018 est.)<br>
+_agricultural land_: 6.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 4.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 2.1% (2022 est.)<br>
+_forest_: 39.5% (2022 est.)<br>
+_other_: 54% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 81.9% of total population (2023)<br>
@@ -334,7 +334,7 @@ common law system except in Quebec, where civil law based on the French civil co
 
 **Constitution**<br>
 _history_: consists of unwritten and written acts, customs, judicial decisions, and traditions dating from 1763; the written part of the constitution consists of the Constitution Act of 29 March 1867, which created a federation of four provinces, and the Constitution Act of 17 April 1982<br>
-_amendments_: proposed by either house of Parliament or by the provincial legislative assemblies; there are 5 methods for passage though most require approval by both houses of Parliament, approval of at least two thirds of the provincial legislative assemblies and assent and formalization as a proclamation by the governor general in council; the most restrictive method is reserved for amendments affecting fundamental sections of the constitution, such as the office of the monarch or the governor general, and the constitutional amendment procedures, which require unanimous approval by both houses and by all the provincial assemblies, and assent of the governor general in council; amended 11 times, last in 2011 (Fair Representation Act, 2011)<br>
+_amendment process_: proposed by either house of Parliament or by the provincial legislative assemblies; there are 5 methods for passage though most require approval by both houses of Parliament, approval of at least two thirds of the provincial legislative assemblies and assent and formalization as a proclamation by the governor general in council; the most restrictive method is reserved for amendments affecting fundamental sections of the constitution, such as the office of the monarch or the governor general, and the constitutional amendment procedures, which require unanimous approval by both houses and by all the provincial assemblies, and assent of the governor general in council<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -350,9 +350,9 @@ _residency requirement for naturalization_: minimum of 3 of last 5 years residen
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Mary SIMON (since 26 July 2021)<br>
-_head of government_: Prime Minister Justin Pierre James TRUDEAU (since 4 November 2015)<br>
+_head of government_: Prime Minister Mark CARNEY (since 14 March 2025)<br>
 _cabinet_: Federal Ministry chosen by the prime minister usually from among members of his/her own party sitting in Parliament<br>
-_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister for a 5-year term; following legislative elections, the leader of the majority party or majority coalition in the House of Commons generally designated prime minister by the governor general; on 6 January 2025 Canadian Prime Minister Justin Trudeau has announced he will step down after a new leader is chosen and approved by 24 March 2025<br>
+_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister for a 5-year term; following legislative elections, the leader of the majority party or majority coalition in the House of Commons generally designated prime minister by the governor general<br>
 <strong>note:</strong> the governor general position is largely ceremonial<br>
 
 **Legislative branch**<br>
@@ -376,9 +376,10 @@ _number of seats_: 105 (all appointed)<br>
 _percentage of women in chamber_: 53.5%<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court of Canada (consists of the chief justice and 8 judges); note - in 1949, Canada abolished all appeals beyond its Supreme Court, which prior to that time, were heard by the Judicial Committee of the Privy Council (in London)<br>
+_highest court(s)_: Supreme Court of Canada (consists of the chief justice and 8 judges)<br>
 _judge selection and term of office_: chief justice and judges appointed by the prime minister in council; all judges appointed for life with mandatory retirement at age 75<br>
-_subordinate courts_: federal level: Federal Court of Appeal; Federal Court; Tax Court; federal administrative tribunals; Courts Martial; provincial/territorial level: provincial superior, appeals, first instance, and specialized courts; note - in 1999, the Nunavut Court - a circuit court with the power of a provincial superior court, as well as a territorial court - was established to serve isolated settlements<br>
+_subordinate courts_: federal level: Federal Court of Appeal; Federal Court; Tax Court; federal administrative tribunals; Courts Martial; provincial/territorial level: provincial superior, appeals, first instance, and specialized courts<br>
+<strong>note:</strong> in 1999, the Nunavut Court -- a circuit court with the power of a provincial superior court, as well as a territorial court -- was established to serve isolated settlements<br>
 
 **Political parties**<br>
 Bloc Quebecois<br>Conservative Party of Canada or CPC<br>Green Party<br>Liberal Party<br>New Democratic Party or NDP<br>People's Party of Canada<br>

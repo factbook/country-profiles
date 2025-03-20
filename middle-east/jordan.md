@@ -51,15 +51,15 @@ _mean elevation_: 812 m<br>
 phosphates, potash, shale oil<br>
 
 **Land use**<br>
-_agricultural land_: 11.4% (2018 est.)<br>
-_arable land_: arable land: 2% (2018 est.)<br>
-_permanent crops_: permanent crops: 1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 8.4% (2018 est.)<br>
-_forest_: 1.1% (2018 est.)<br>
-_other_: 87.5% (2018 est.)<br>
+_agricultural land_: 11.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.9% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 8.4% (2022 est.)<br>
+_forest_: 1.1% (2022 est.)<br>
+_other_: 87.3% (2022 est.)<br>
 
 **Irrigated land**<br>
-833 sq km (2020)<br>
+875 sq km (2022)<br>
 
 **Major lakes (area sq km)**<br>
 _salt water lake(s)_: Dead Sea (shared with Israel and West Bank) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
@@ -251,12 +251,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 mostly arid desert; rainy season in west (November to April)<br>
 
 **Land use**<br>
-_agricultural land_: 11.4% (2018 est.)<br>
-_arable land_: arable land: 2% (2018 est.)<br>
-_permanent crops_: permanent crops: 1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 8.4% (2018 est.)<br>
-_forest_: 1.1% (2018 est.)<br>
-_other_: 87.5% (2018 est.)<br>
+_agricultural land_: 11.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.9% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 8.4% (2022 est.)<br>
+_forest_: 1.1% (2022 est.)<br>
+_other_: 87.3% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 92% of total population (2023)<br>
@@ -327,8 +327,8 @@ Independence Day, 25 May (1946)<br>
 mixed system developed from codes instituted by the Ottoman Empire (based on French law), British common law, and Islamic law<br>
 
 **Constitution**<br>
-_history_: previous 1928 (preindependence); latest initially adopted 28 November 1947, revised and ratified 1 January 1952<br>
-_amendments_: constitutional amendments require at least a two-thirds majority vote of both the Senate and the House and ratification by the king; amended several times, last in 2022<br>
+_history_: previous 1928 (pre-independence); latest initially adopted 28 November 1947, revised and ratified 1 January 1952<br>
+_amendment process_: constitutional amendments require at least a two-thirds majority vote of both the Senate and the House and ratification by the king<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -374,7 +374,7 @@ _expected date of next election_: October 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation or Supreme Court (consists of 15 members, including the chief justice); Constitutional Court (consists of&nbsp;9 members)<br>
-_judge selection and term of office_: Supreme Court chief justice appointed by the king; other judges nominated by the Judicial Council, an 11-member judicial policymaking body consisting of high-level judicial officials and judges, and approved by the king; judge tenure not limited; Constitutional Court members appointed by the king for 6-year non-renewable terms with one-third of the membership renewed every 2 years<br>
+_judge selection and term of office_: Supreme Court chief justice appointed by the king; other judges nominated by the Judicial Council, an 11-member judicial policymaking body consisting of high-level judicial officials and judges, and approved by the king; judge tenure not limited; Constitutional Court members appointed by the king for 6-year non-renewable terms with one third of the membership renewed every 2 years<br>
 _subordinate courts_: Courts of Appeal; Great Felonies Court; religious courts; military courts; juvenile courts; Land Settlement Courts; Income Tax Court; Higher Administrative Court; Customs Court; special courts including the State Security Court<br>
 
 **Political parties**<br>

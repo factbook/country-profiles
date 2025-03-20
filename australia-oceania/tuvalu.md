@@ -52,12 +52,12 @@ _mean elevation_: 2 m<br>
 fish, coconut (copra)<br>
 
 **Land use**<br>
-_agricultural land_: 60% (2018 est.)<br>
-_arable land_: arable land: 0% (2018 est.)<br>
-_permanent crops_: permanent crops: 60% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 33.3% (2018 est.)<br>
-_other_: 6.7% (2018 est.)<br>
+_agricultural land_: 60% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 60% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 33.3% (2022 est.)<br>
+_other_: 6.7% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -223,12 +223,12 @@ _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 tropical; moderated by easterly trade winds (March to November); westerly gales and heavy rain (November to March)<br>
 
 **Land use**<br>
-_agricultural land_: 60% (2018 est.)<br>
-_arable land_: arable land: 0% (2018 est.)<br>
-_permanent crops_: permanent crops: 60% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 33.3% (2018 est.)<br>
-_other_: 6.7% (2018 est.)<br>
+_agricultural land_: 60% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 0% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 60% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 33.3% (2022 est.)<br>
+_other_: 6.7% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 66.2% of total population (2023)<br>
@@ -283,7 +283,7 @@ mixed legal system of English common law and local customary law<br>
 
 **Constitution**<br>
 _history_: previous 1978 (at independence); latest effective 1 October 1986<br>
-_amendments_: proposed by the House of Assembly; passage requires at least two-thirds majority vote by the Assembly membership in the final reading; amended 2007, 2010, 2013, 2023<br>
+_amendment process_: proposed by the House of Assembly; passage requires at least two-thirds majority vote by the Assembly membership in the final reading<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>

@@ -53,15 +53,15 @@ _lowest point_: Indian Ocean 0 m<br>
 arable land, fish<br>
 
 **Land use**<br>
-_agricultural land_: 43.8% (2018 est.)<br>
-_arable land_: arable land: 38.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 3.4% (2018 est.)<br>
-_forest_: 17.3% (2018 est.)<br>
-_other_: 38.9% (2018 est.)<br>
+_agricultural land_: 43.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 37.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 3.5% (2022 est.)<br>
+_forest_: 19.5% (2022 est.)<br>
+_other_: 37.5% (2022 est.)<br>
 
 **Irrigated land**<br>
-158 sq km (2020)<br>
+143 sq km (2022)<br>
 
 **Population distribution**<br>
 population density is one of the highest in the world; urban clusters are found throughout the main island, with a greater density in and around Port Luis; population on Rodrigues Island is spread across the island with a slightly denser cluster on the north coast as shown in this population distribution map<br>
@@ -236,12 +236,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical, modified by southeast trade winds; warm, dry winter (May to November); hot, wet, humid summer (November to May)<br>
 
 **Land use**<br>
-_agricultural land_: 43.8% (2018 est.)<br>
-_arable land_: arable land: 38.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 3.4% (2018 est.)<br>
-_forest_: 17.3% (2018 est.)<br>
-_other_: 38.9% (2018 est.)<br>
+_agricultural land_: 43.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 37.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 3.5% (2022 est.)<br>
+_forest_: 19.5% (2022 est.)<br>
+_other_: 37.5% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 40.9% of total population (2023)<br>
@@ -302,7 +302,7 @@ civil legal system based on French civil law with some elements of English commo
 
 **Constitution**<br>
 _history_: several previous; latest adopted 12 March 1968<br>
-_amendments_: proposed by the National Assembly; passage of amendments affecting constitutional articles, including the sovereignty of the state, fundamental rights and freedoms, citizenship, or the branches of government, requires approval in a referendum by at least three-fourths majority of voters followed by a unanimous vote by the Assembly; passage of other amendments requires only two-thirds majority vote by the Assembly; amended many times, last in 2016<br>
+_amendment process_: proposed by the National Assembly; passage of amendments affecting constitutional articles, including the sovereignty of the state, fundamental rights and freedoms, citizenship, or the branches of government, requires approval in a referendum by at least three-fourths majority of voters followed by a unanimous vote by the Assembly; passage of other amendments requires only two-thirds majority vote by the Assembly<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -337,9 +337,10 @@ _percentage of women in chamber_: 17.9%<br>
 _expected date of next election_: October 2029<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court of Mauritius (consists of the chief justice, a senior puisne judge, and 24 puisne judges); note - the Judicial Committee of the Privy Council (in London) serves as the final court of appeal<br>
+_highest court(s)_: Supreme Court of Mauritius (consists of the chief justice, a senior puisne judge, and 24 puisne judges)<br>
 _judge selection and term of office_: chief justice appointed by the president after consultation with the prime minister; senior puisne judge appointed by the president with the advice of the chief justice; other puisne judges appointed by the president with the advice of the Judicial and Legal Commission, a 4-member body of judicial officials including the chief justice; all judges serve until retirement at age 67<br>
 _subordinate courts_: lower regional courts known as District Courts, Court of Civil Appeal; Court of Criminal Appeal; Public Bodies Appeal Tribunal<br>
+<strong>note</strong>: the Judicial Committee of the Privy Council (in London) serves as the final court of appeal<br>
 
 **Political parties**<br>
 Alliance Morisien (Mauritian Alliance)<br>Jean-Claude Barbier Movement (Mouvement Jean-Claude Barbier) or MJCB<br>Mauritian Militant Movement (Mouvement Militant Mauricien) or MMM<br>Mauritian Social Democratic Party (Parti Mauricien Social Democrate) or PMSD<br>Mauritius Labor Party (Parti Travailliste) or PTR or MLP<br>Militant Platform (Plateforme Militante) or PM<br>Militant Socialist Movement (Mouvement Socialist Mauricien) or MSM<br>Muvman Liberater or ML<br>National Alliance<br>Patriotic Movement (Mouvement Patriotique) or MAG<br>Rodrigues Peoples Organization (Organisation du Peuple Rodriguais) or OPR<br>

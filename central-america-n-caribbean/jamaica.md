@@ -54,12 +54,12 @@ _mean elevation_: 18 m<br>
 bauxite, alumina, gypsum, limestone<br>
 
 **Land use**<br>
-_agricultural land_: 41.4% (2018 est.)<br>
-_arable land_: arable land: 11.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 9.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 21.1% (2018 est.)<br>
-_forest_: 31.1% (2018 est.)<br>
-_other_: 27.5% (2018 est.)<br>
+_agricultural land_: 38.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 11.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 6.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 21.1% (2022 est.)<br>
+_forest_: 55.8% (2022 est.)<br>
+_other_: 5.7% (2022 est.)<br>
 
 **Irrigated land**<br>
 250 sq km (2012)<br>
@@ -237,12 +237,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; hot, humid; temperate interior<br>
 
 **Land use**<br>
-_agricultural land_: 41.4% (2018 est.)<br>
-_arable land_: arable land: 11.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 9.2% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 21.1% (2018 est.)<br>
-_forest_: 31.1% (2018 est.)<br>
-_other_: 27.5% (2018 est.)<br>
+_agricultural land_: 38.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 11.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 6.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 21.1% (2022 est.)<br>
+_forest_: 55.8% (2022 est.)<br>
+_other_: 5.7% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 57.4% of total population (2023)<br>
@@ -300,8 +300,8 @@ Independence Day, 6 August (1962)<br>
 common law system based on the English model<br>
 
 **Constitution**<br>
-_history_: several previous (preindependence); latest drafted 1961-62, submitted to British Parliament 24 July 1962, entered into force 6 August 1962 (at independence)<br>
-_amendments_: proposed by Parliament; passage of amendments to "non-entrenched" constitutional sections, such as lowering the voting age, requires majority vote by the Parliament membership; passage of amendments to "entrenched" sections, such as fundamental rights and freedoms, requires two-thirds majority vote of Parliament; passage of amendments to "specially entrenched" sections such as the dissolution of Parliament or the executive authority of the monarch requires two-thirds approval by Parliament and approval in a referendum; amended many times, last in 2017; note - in mid-July 2024, Jamaica’s Constitutional Reform Committee submitted its report on recommendations for reform of the constitution and awaiting debate in Parliament<br>
+_history_: several previous (pre-independence); latest drafted 1961-62, submitted to British Parliament 24 July 1962, entered into force 6 August 1962 (at independence)<br>
+_amendment process_: proposed by Parliament; passage of amendments to "non-entrenched" constitutional sections, such as lowering the voting age, requires majority vote by the Parliament membership; passage of amendments to "entrenched" sections, such as fundamental rights and freedoms, requires two-thirds majority vote of Parliament; passage of amendments to "specially entrenched" sections such as the dissolution of Parliament or the executive authority of the monarch requires two-thirds approval by Parliament and approval in a referendum&nbsp;<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -347,9 +347,10 @@ _percentage of women in chamber_: 40%<br>
 _expected date of next election_: September 2025<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Court of Appeal (consists of president of the court and a minimum of 4 judges); Supreme Court (40 judges organized in specialized divisions); note - appeals beyond Jamaica's highest courts are referred to the Judicial Committee of the Privy Council (in London) rather than to the Caribbean Court of Justice (the appellate court for member states of the Caribbean Community)<br>
+_highest court(s)_: Court of Appeal (consists of president of the court and a minimum of 4 judges); Supreme Court (40 judges organized in specialized divisions)<br>
 _judge selection and term of office_: chief justice of the Supreme Court and president of the Court of Appeal appointed by the governor-general on the advice of the prime minister; other judges of both courts appointed by the governor-general on the advice of the Judicial Service Commission; judges of both courts serve till age 70<br>
 _subordinate courts_: resident magistrate courts, district courts, and petty sessions courts<br>
+<strong>note</strong>: appeals beyond Jamaica's highest courts are referred to the Judicial Committee of the Privy Council (in London) rather than to the Caribbean Court of Justice (the appellate court for member states of the Caribbean Community)<br>
 
 **Political parties**<br>
 <p>Jamaica Labor Party or JLP<br>Jamaica Progressive Party or JPP<br>People's National Party or PNP<br>United Independents' Congress or UIC</p><br>

@@ -50,12 +50,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 aquatic wildlife (supporting tourism), fishing (largely undeveloped)<br>
 
 **Land use**<br>
-_agricultural land_: 33.4% (2018 est.)<br>
-_arable land_: arable land: 1.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 16.7% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 14.8% (2018 est.)<br>
-_forest_: 47.9% (2018 est.)<br>
-_other_: 18.7% (2018 est.)<br>
+_agricultural land_: 29.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 13% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 14.8% (2022 est.)<br>
+_forest_: 51.9% (2022 est.)<br>
+_other_: 18.5% (2022 est.)<br>
 
 **Irrigated land**<br>
 2 sq km (2012)<br>
@@ -192,12 +192,12 @@ fresh water scarcity; reef damage; inadequate sewage treatment; extermination of
 tropical marine; generally warm and humid, moderated by northeast trade winds; dry season (January to June), rainy season (July to December); little seasonal temperature variation<br>
 
 **Land use**<br>
-_agricultural land_: 33.4% (2018 est.)<br>
-_arable land_: arable land: 1.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 16.7% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 14.8% (2018 est.)<br>
-_forest_: 47.9% (2018 est.)<br>
-_other_: 18.7% (2018 est.)<br>
+_agricultural land_: 29.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 1.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 13% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 14.8% (2022 est.)<br>
+_forest_: 51.9% (2022 est.)<br>
+_other_: 18.5% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 95.2% of total population (2022)<br>
@@ -250,7 +250,6 @@ common law modeled on US system; US federal laws apply<br>
 
 **Constitution**<br>
 _history_: effective 1 July 1950 (Guam Act of 1950 serves as a constitution)<br>
-_amendments_: amended many times, last in 2015<br>
 
 **Citizenship**<br>
 see United States<br>
@@ -279,9 +278,10 @@ _expected date of next election_: November 2024<br>
 <strong>note:</strong> Guam directly elects 1 member by simple majority vote to serve a 2-year term as delegate to the US House of Representatives; the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court of Guam (consists of 3 justices); note - appeals beyond the Supreme Court of Guam are referred to the US Supreme Court<br>
-_judge selection and term of office_: justices appointed by the governor and confirmed by the Guam legislature; justices appointed for life subject to retention election every 10 years<br>
-_subordinate courts_: Superior Court of Guam - includes several divisions; US Federal District Court for the District of Guam (a US territorial court; appeals beyond this court are heard before the US Court of Appeals for the Ninth Circuit)<br>
+_highest court(s)_: Supreme Court of Guam (consists of 3 justices)<br>
+_judge selection and term of office_: justices appointed by the governor and confirmed by the Guam legislature; justices appointed for life but subject to retention election every 10 years<br>
+_subordinate courts_: Superior Court of Guam (includes several divisions); US Federal District Court for the District of Guam (a US territorial court; appeals beyond this court are heard before the US Court of Appeals for the Ninth Circuit)<br>
+<strong>note:</strong> appeals beyond the Supreme Court of Guam are referred to the US Supreme Court<br>
 
 **Political parties**<br>
 Democratic Party<br>Republican Party<br>

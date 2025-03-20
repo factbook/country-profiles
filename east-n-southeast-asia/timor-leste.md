@@ -52,12 +52,12 @@ _lowest point_: Timor Sea, Savu Sea, and Banda Sea 0 m<br>
 gold, petroleum, natural gas, manganese, marble<br>
 
 **Land use**<br>
-_agricultural land_: 25.1% (2018 est.)<br>
-_arable land_: arable land: 10.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 4.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 10.1% (2018 est.)<br>
-_forest_: 49.1% (2018 est.)<br>
-_other_: 25.8% (2018 est.)<br>
+_agricultural land_: 23% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 7.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 10.1% (2022 est.)<br>
+_forest_: 61.8% (2022 est.)<br>
+_other_: 15.3% (2022 est.)<br>
 
 **Irrigated land**<br>
 350 sq km (2012)<br>
@@ -239,12 +239,12 @@ _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 tropical; hot, humid; distinct rainy and dry seasons<br>
 
 **Land use**<br>
-_agricultural land_: 25.1% (2018 est.)<br>
-_arable land_: arable land: 10.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 4.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 10.1% (2018 est.)<br>
-_forest_: 49.1% (2018 est.)<br>
-_other_: 25.8% (2018 est.)<br>
+_agricultural land_: 23% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 7.5% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 10.1% (2022 est.)<br>
+_forest_: 61.8% (2022 est.)<br>
+_other_: 15.3% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 32.5% of total population (2023)<br>
@@ -306,7 +306,7 @@ civil law system based on the Portuguese model; note - penal and civil law codes
 
 **Constitution**<br>
 _history_: drafted 2001, approved 22 March 2002, entered into force 20 May 2002<br>
-_amendments_: proposed by Parliament and parliamentary groups; consideration of amendments requires at least four-fifths majority approval by Parliament; passage requires two-thirds majority vote by Parliament and promulgation by the president of the republic; passage of amendments to the republican form of government and the flag requires approval in a referendum<br>
+_amendment process_: proposed by Parliament and parliamentary groups; consideration of amendments requires at least four-fifths majority approval by Parliament; passage requires two-thirds majority vote by Parliament and promulgation by the president of the republic; passage of amendments to the republican form of government and the flag requires approval in a referendum<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -344,7 +344,6 @@ _expected date of next election_: May 2028<br>
 _highest court(s)_: Court of Appeals (consists of the court president and NA judges)<br>
 _judge selection and term of office_: court president appointed by the president of the republic from among the other court judges to serve a 4-year term; other court judges appointed - 1 by the Parliament and the others by the Supreme Council for the Judiciary, a body chaired by the court president and that includes mostly presidential and parliamentary appointees; other judges serve for life<br>
 _subordinate courts_: Court of Appeal; High Administrative, Tax, and Audit Court; district courts; magistrates' courts; military courts<br>
-<strong>note:</strong> the UN Justice System Programme, launched in 2003 and being rolled out in 4 phases through 2018, is helping strengthen the country's justice system; the Programme is aligned with the country's long-range Justice Sector Strategic Plan, which includes legal reforms<br>
 
 **Political parties**<br>
 Democratic Party or PD <br>National Congress for Timorese Reconstruction or CNRT <br>National Unity of the Sons of Timor (Haburas Unidade Nasional Timor Oan or KHUNTO) <br>People's Liberation Party or PLP <br>Revolutionary Front of Independent Timor-Leste or FRETILIN<br>

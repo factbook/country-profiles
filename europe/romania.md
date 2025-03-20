@@ -54,15 +54,15 @@ _mean elevation_: 414 m<br>
 petroleum (reserves declining), timber, natural gas, coal, iron ore, salt, arable land, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 60.7% (2018 est.)<br>
-_arable land_: arable land: 39.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 19.7% (2018 est.)<br>
-_forest_: 28.7% (2018 est.)<br>
-_other_: 10.6% (2018 est.)<br>
+_agricultural land_: 55.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 35.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 17.7% (2022 est.)<br>
+_forest_: 30.1% (2022 est.)<br>
+_other_: 14.8% (2022 est.)<br>
 
 **Irrigated land**<br>
-4,730 sq km (2020)<br>
+5,280 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
 Dunărea (Danube) river mouth (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Ukraine) - 2,888 km <br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -246,12 +246,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate; cold, cloudy winters with frequent snow and fog; sunny summers with frequent showers and thunderstorms<br>
 
 **Land use**<br>
-_agricultural land_: 60.7% (2018 est.)<br>
-_arable land_: arable land: 39.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 19.7% (2018 est.)<br>
-_forest_: 28.7% (2018 est.)<br>
-_other_: 10.6% (2018 est.)<br>
+_agricultural land_: 55.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 35.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 17.7% (2022 est.)<br>
+_forest_: 30.1% (2022 est.)<br>
+_other_: 14.8% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 54.7% of total population (2023)<br>
@@ -325,7 +325,7 @@ civil law system<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 21 November 1991, approved by referendum and effective 8 December 1991<br>
-_amendments_: initiated by the president of Romania through a proposal by the government, by at least one fourth of deputies or senators in Parliament, or by petition of eligible voters representing at least half of Romania&rsquo;s counties; passage requires at least two-thirds majority vote by both chambers or &ndash; if mediation is required - by three-fourths majority vote in a joint session, followed by approval in a referendum; articles, including those on national sovereignty, form of government, political pluralism, and fundamental rights and freedoms cannot be amended; amended 2003<br>
+_amendment process_: initiated by the president of Romania through a proposal by the government, by at least one fourth of deputies or senators in Parliament, or by petition of eligible voters representing at least half of Romania&rsquo;s counties; passage requires at least two-thirds majority vote by both chambers or &ndash; if mediation is required - by three-fourths majority vote in a joint session, followed by approval in a referendum; articles, including those on national sovereignty, form of government, political pluralism, and fundamental rights and freedoms cannot be amended<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>

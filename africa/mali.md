@@ -52,12 +52,12 @@ gold, phosphates, kaolin, salt, limestone, uranium, gypsum, granite, hydropower<
 <strong>note: </strong>bauxite, iron ore, manganese, tin, and copper deposits are known but not exploited<br>
 
 **Land use**<br>
-_agricultural land_: 34.1% (2018 est.)<br>
-_arable land_: arable land: 5.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 28.4% (2018 est.)<br>
-_forest_: 10.2% (2018 est.)<br>
-_other_: 55.7% (2018 est.)<br>
+_agricultural land_: 35.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 6.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 28.4% (2022 est.)<br>
+_forest_: 10.9% (2022 est.)<br>
+_other_: 53.6% (2022 est.)<br>
 
 **Irrigated land**<br>
 3,780 sq km (2012)<br>
@@ -256,12 +256,12 @@ _signed, but not ratified_: Nuclear Test Ban<br>
 subtropical to arid; hot and dry (February to June); rainy, humid, and mild (June to November); cool and dry (November to February)<br>
 
 **Land use**<br>
-_agricultural land_: 34.1% (2018 est.)<br>
-_arable land_: arable land: 5.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 28.4% (2018 est.)<br>
-_forest_: 10.2% (2018 est.)<br>
-_other_: 55.7% (2018 est.)<br>
+_agricultural land_: 35.5% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 6.8% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 28.4% (2022 est.)<br>
+_forest_: 10.9% (2022 est.)<br>
+_other_: 53.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 46.2% of total population (2023)<br>
@@ -336,8 +336,7 @@ Independence Day, 22 September (1960)<br>
 civil law system based on the French civil law model and influenced by customary law; judicial review of legislative acts in the Constitutional Court<br>
 
 **Constitution**<br>
-_history_: several previous; latest drafted 13 October 2022 and submitted to Transition President Assimi GOITA; final draft completed 1 March 2023; approved by&nbsp;referendum 18 June 2023; validated by Constitutional Court 22 July 2023; note - the new constitution includes provisions for expansion of presidential and military powers and creation of a "senate"<br>
-_amendments_: procedure for amending the 2023 constitution NA<br>
+_history_: several previous; latest drafted 13 October 2022 and submitted to Transition President Assimi GOITA; final draft completed 1 March 2023; approved by referendum 18 June 2023; validated by Constitutional Court 22 July 2023<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -372,7 +371,7 @@ _expected date of next election_: December 2025<br>
 <strong>note 1:</strong> the National Assembly was dissolved on 18 August 2020 after a military coup; the transitional government created a Transitional National Council (CNT) that acts as the transitional government's legislative body; a new constitution was ratified in July 2023 that expanded the military junta's powers, and no plans for legislative elections have been announced<br><strong>note 2:</strong> coup leaders appointed a president and vice president; the president then apportioned CNT seats to various groups and political parties<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court or Cour Supreme (consists of 19 judges organized into judicial, administrative, and accounting sections); Constitutional Court (consists of 9 judges)<br>
+_highest court(s)_: Supreme Court or Cour Supr&ecirc;me (consists of 19 judges organized into judicial, administrative, and accounting sections); Constitutional Court (consists of 9 judges)<br>
 _judge selection and term of office_: Supreme Court judges appointed by the Ministry of Justice to serve 5-year terms; Constitutional Court judges selected - 3 each by the president, the National Assembly, and the Supreme Council of the Magistracy; members serve single renewable 7-year terms<br>
 _subordinate courts_: Court of Appeal; High Court of Justice (jurisdiction limited to cases of high treason or criminal offenses by the president or ministers while in office); administrative courts (first instance and appeal); commercial courts; magistrate courts; labor courts; juvenile courts; special court of state security<br>
 

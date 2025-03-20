@@ -52,12 +52,12 @@ _mean elevation_: 667 m<br>
 petroleum, bauxite, iron ore, timber, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 20.6% (2018 est.)<br>
-_arable land_: arable land: 13.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 3.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 4.2% (2018 est.)<br>
-_forest_: 41.7% (2018 est.)<br>
-_other_: 37.7% (2018 est.)<br>
+_agricultural land_: 20.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 13.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.2% (2022 est.)<br>
+_forest_: 42.8% (2022 est.)<br>
+_other_: 36.6% (2022 est.)<br>
 
 **Irrigated land**<br>
 290 sq km (2012)<br>
@@ -253,12 +253,12 @@ _signed, but not ratified_: Nuclear Test Ban<br>
 varies with terrain, from tropical along coast to semiarid and hot in north<br>
 
 **Land use**<br>
-_agricultural land_: 20.6% (2018 est.)<br>
-_arable land_: arable land: 13.1% (2018 est.)<br>
-_permanent crops_: permanent crops: 3.3% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 4.2% (2018 est.)<br>
-_forest_: 41.7% (2018 est.)<br>
-_other_: 37.7% (2018 est.)<br>
+_agricultural land_: 20.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 13.1% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3.3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.2% (2022 est.)<br>
+_forest_: 42.8% (2022 est.)<br>
+_other_: 36.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 59.3% of total population (2023)<br>
@@ -333,7 +333,7 @@ mixed legal system of English common law, French civil law, and customary law<br
 
 **Constitution**<br>
 _history_: several previous; latest effective 18 January 1996<br>
-_amendments_: proposed by the president of the republic or by Parliament; amendment drafts require approval of at least one third of the membership in either house of Parliament; passage requires absolute majority vote of the Parliament membership; passage of drafts requested by the president for a second reading in Parliament requires two-thirds majority vote of its membership; the president can opt to submit drafts to a referendum, in which case passage requires a simple majority; constitutional articles on Cameroon&rsquo;s unity and territorial integrity and its democratic principles cannot be amended; amended 2008<br>
+_amendment process_: proposed by the president of the republic or by Parliament; amendment drafts require approval of at least one third of the membership in either house of Parliament; passage requires absolute majority vote of the Parliament membership; passage of drafts requested by the president for a second reading in Parliament requires two-thirds majority vote of its membership; the president can opt to submit drafts to a referendum, in which case passage requires a simple majority; constitutional articles on Cameroon&rsquo;s unity and territorial integrity and its democratic principles cannot be amended<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction; non-party state to the ICCt<br>

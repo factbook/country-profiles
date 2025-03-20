@@ -51,12 +51,12 @@ _lowest point_: Caribbean Sea 0 m<br>
 NEGL; pleasant climate, beaches foster tourism<br>
 
 **Land use**<br>
-_agricultural land_: 46.7% (2018 est.)<br>
-_arable land_: arable land: 6.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 6.7% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 33.3% (2018 est.)<br>
-_forest_: 24.3% (2018 est.)<br>
-_other_: 29% (2018 est.)<br>
+_agricultural land_: 46.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 6.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 6.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 33.3% (2022 est.)<br>
+_forest_: 24.1% (2022 est.)<br>
+_other_: 29.2% (2022 est.)<br>
 
 **Irrigated land**<br>
 NA<br>
@@ -197,12 +197,12 @@ limited natural freshwater resources except for a few seasonal streams and sprin
 subtropical; humid; temperatures moderated by trade winds<br>
 
 **Land use**<br>
-_agricultural land_: 46.7% (2018 est.)<br>
-_arable land_: arable land: 6.7% (2018 est.)<br>
-_permanent crops_: permanent crops: 6.7% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 33.3% (2018 est.)<br>
-_forest_: 24.3% (2018 est.)<br>
-_other_: 29% (2018 est.)<br>
+_agricultural land_: 46.7% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 6.7% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 6.7% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 33.3% (2022 est.)<br>
+_forest_: 24.1% (2022 est.)<br>
+_other_: 29.2% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 49.7% of total population (2023)<br>
@@ -248,7 +248,7 @@ English common law<br>
 
 **Constitution**<br>
 _history_: several previous; latest effective 15 June 2007 (The Virgin Islands Constitution Order 2007)<br>
-_amendments_: initiated by any elected member of the House of Assembly; passage requires simple majority vote by the elected members of the Assembly and assent by the governor on behalf of the monarch; amended 2015<br>
+_amendment process_: initiated by any elected member of the House of Assembly; passage requires simple majority vote by the elected members of the Assembly and assent by the governor on behalf of the monarch<br>
 
 **Citizenship**<br>
 see United Kingdom<br>
@@ -274,8 +274,8 @@ _parties elected and seats per party_: VIP (6); NDP (3); PVIM (3); PU (1)<br>
 _expected date of next election_: 2027<br>
 
 **Judicial branch**<br>
-_highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 3 in the British Virgin Islands<br>
-_judge selection and term of office_: Eastern Caribbean Supreme Court chief justice appointed by His Majesty, King Charles III; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
+_highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC is headquartered on St. Lucia and consists of the Court of Appeal -- headed by the chief justice and 4 judges -- and the High Court with 18 judges; the Court of Appeal travels to member states on a schedule to hear appeals from the High Court and subordinate courts<br>
+_judge selection and term of office_: Eastern Caribbean Supreme Court chief justice appointed by the British monarch; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
 _subordinate courts_: Magistrates' Courts<br>
 
 **Political parties**<br>

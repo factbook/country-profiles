@@ -51,12 +51,12 @@ _lowest point_: Atlantic Ocean 0 m<br>
 fish, lobster<br>
 
 **Land use**<br>
-_agricultural land_: 30.8% (2018 est.)<br>
-_arable land_: arable land: 10.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 20.5% (2018 est.)<br>
-_forest_: 5.1% (2018 est.)<br>
-_other_: 64.1% (2018 est.)<br>
+_agricultural land_: 30.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 10.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 20.5% (2022 est.)<br>
+_forest_: 5.1% (2022 est.)<br>
+_other_: 64.1% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -199,12 +199,12 @@ development threatens unique biota on Saint Helena<br>
 <p><strong>Saint Helena:</strong> tropical marine; mild, tempered by trade winds</p> <p><strong>Ascension Island:</strong> tropical marine; mild, semi-arid</p> <p><strong>Tristan da Cunha:</strong> temperate marine; mild, tempered by trade winds (tends to be cooler than Saint Helena)</p><br>
 
 **Land use**<br>
-_agricultural land_: 30.8% (2018 est.)<br>
-_arable land_: arable land: 10.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 20.5% (2018 est.)<br>
-_forest_: 5.1% (2018 est.)<br>
-_other_: 64.1% (2018 est.)<br>
+_agricultural land_: 30.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 10.3% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 20.5% (2022 est.)<br>
+_forest_: 5.1% (2022 est.)<br>
+_other_: 64.1% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 40.7% of total population (2023)<br>
@@ -242,7 +242,7 @@ Official birthday of King Charles III, April or June as designated by the govern
 English common law and local statutes<br>
 
 **Constitution**<br>
-_history_: several previous; latest effective 1 September 2009 (St Helena, Ascension and Tristan da Cunha Constitution Order 2009)<br>
+_history_: several previous; latest effective 1 September 2009 (St. Helena, Ascension and Tristan da Cunha Constitution Order 2009)<br>
 
 **Citizenship**<br>
 see United Kingdom<br>
@@ -261,9 +261,10 @@ _elections/appointments_: none; the monarchy is hereditary; governor appointed b
 <strong>note:</strong> the Constitution Order provides for separate Island Councils for both Ascension and Tristan da Cunha<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Court of Appeal (consists of the court president and 2 justices); Supreme Court (consists of the chief justice - a nonresident - and NA judges); note - appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
-_judge selection and term of office_: Court of Appeal and Supreme Court justices appointed by the governor acting upon the instructions from a secretary of state acting on behalf of King CHARLES III; justices of both courts serve until retirement at age 70, but terms can be extended<br>
+_highest court(s)_: Court of Appeal (consists of the court president and 2 justices); Supreme Court (consists of the chief justice and judges)<br>
+_judge selection and term of office_: Court of Appeal and Supreme Court justices appointed by the governor acting upon the instructions from a secretary of state acting on behalf of the British monarch; justices of both courts serve until retirement at age 70, but terms can be extended<br>
 _subordinate courts_: Magistrates' Court; Small Claims Court; Juvenile Court<br>
+<strong>note</strong>: appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
 
 **Political parties**<br>
 none<br>

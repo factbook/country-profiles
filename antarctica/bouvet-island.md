@@ -50,9 +50,9 @@ none<br>
 
 **Land use**<br>
 _agricultural land_: 0% (2018 est.)<br>
-_arable land_: arable land: 0% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_agricultural land: arable land_: arable land: 0% (2018 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 100% (2018 est.)<br>
 
@@ -77,9 +77,9 @@ antarctic<br>
 
 **Land use**<br>
 _agricultural land_: 0% (2018 est.)<br>
-_arable land_: arable land: 0% (2018 est.)<br>
-_permanent crops_: permanent crops: 0% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
+_agricultural land: arable land_: arable land: 0% (2018 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 100% (2018 est.)<br>
 

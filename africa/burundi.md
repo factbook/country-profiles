@@ -51,12 +51,12 @@ _mean elevation_: 1,504 m<br>
 nickel, uranium, rare earth oxides, peat, cobalt, copper, platinum, vanadium, arable land, hydropower, niobium, tantalum, gold, tin, tungsten, kaolin, limestone<br>
 
 **Land use**<br>
-_agricultural land_: 73.3% (2018 est.)<br>
-_arable land_: arable land: 38.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 15.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 18.8% (2018 est.)<br>
-_forest_: 6.6% (2018 est.)<br>
-_other_: 20.1% (2018 est.)<br>
+_agricultural land_: 82.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 50.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 13.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 18.8% (2022 est.)<br>
+_forest_: 10.9% (2022 est.)<br>
+_other_: 6.3% (2022 est.)<br>
 
 **Irrigated land**<br>
 230 sq km (2012)<br>
@@ -250,12 +250,12 @@ _signed, but not ratified_: Law of the Sea, Nuclear Test Ban<br>
 equatorial; high plateau with considerable altitude variation (772 m to 2,670 m above sea level); average annual temperature varies with altitude from 23 to 17 degrees Celsius but is generally moderate; average annual rainfall is about 150 cm with two wet seasons (February to May and September to November) and two dry seasons (June to August and December to January)<br>
 
 **Land use**<br>
-_agricultural land_: 73.3% (2018 est.)<br>
-_arable land_: arable land: 38.9% (2018 est.)<br>
-_permanent crops_: permanent crops: 15.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 18.8% (2018 est.)<br>
-_forest_: 6.6% (2018 est.)<br>
-_other_: 20.1% (2018 est.)<br>
+_agricultural land_: 82.8% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 50.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 13.6% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 18.8% (2022 est.)<br>
+_forest_: 10.9% (2022 est.)<br>
+_other_: 6.3% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 14.8% of total population (2023)<br>
@@ -326,7 +326,7 @@ mixed legal system of Belgian civil law and customary law<br>
 
 **Constitution**<br>
 _history_: several previous, ratified by referendum 28 February 2005<br>
-_amendments_: proposed by the president of the republic after consultation with the government or by absolute majority support of the membership in both houses of Parliament; passage requires at least two-thirds majority vote by the Senate membership and at least four-fifths majority vote by the National Assembly; the president can opt to submit amendment bills to a referendum; constitutional articles including those on national unity, the secularity of Burundi, its democratic form of government, and its sovereignty cannot be amended; amended 2018 (amendments extended the presidential term from 5 to 7 years, reintroduced the position of prime minister, and reduced the number of&nbsp;vice presidents from 2 to 1)<br>
+_amendment process_: proposed by the president of the republic after consultation with the government or by absolute majority support of the membership in both houses of Parliament; passage requires at least two-thirds majority vote by the Senate membership and at least four-fifths majority vote by the National Assembly; the president can opt to submit amendment bills to a referendum; constitutional articles including those on national unity, the secularity of Burundi, its democratic form of government, and its sovereignty cannot be amended<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; withdrew from ICCt in October 2017<br>

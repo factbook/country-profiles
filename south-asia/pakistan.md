@@ -54,15 +54,15 @@ _mean elevation_: 900 m<br>
 arable land, extensive natural gas reserves, limited petroleum, poor quality coal, iron ore, copper, salt, limestone<br>
 
 **Land use**<br>
-_agricultural land_: 35.2% (2018 est.)<br>
-_arable land_: arable land: 27.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 6.5% (2018 est.)<br>
-_forest_: 2.1% (2018 est.)<br>
-_other_: 62.7% (2018 est.)<br>
+_agricultural land_: 46.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 39.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.9% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 6.5% (2022 est.)<br>
+_forest_: 4.7% (2022 est.)<br>
+_other_: 48.6% (2022 est.)<br>
 
 **Irrigated land**<br>
-193,400 sq km (2020)<br>
+194,200 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
 Indus river mouth (shared with China [s] and India) - 3,610 km; Sutlej river mouth (shared with China [s] and India) - 1,372 km; Chenab river mouth (shared with India [s]) - 1,086 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -254,12 +254,12 @@ _signed, but not ratified_: Marine Life Conservation<br>
 mostly hot, dry desert; temperate in northwest; arctic in north<br>
 
 **Land use**<br>
-_agricultural land_: 35.2% (2018 est.)<br>
-_arable land_: arable land: 27.6% (2018 est.)<br>
-_permanent crops_: permanent crops: 1.1% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 6.5% (2018 est.)<br>
-_forest_: 2.1% (2018 est.)<br>
-_other_: 62.7% (2018 est.)<br>
+_agricultural land_: 46.6% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 39.2% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.9% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 6.5% (2022 est.)<br>
+_forest_: 4.7% (2022 est.)<br>
+_other_: 48.6% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 38% of total population (2023)<br>
@@ -334,7 +334,7 @@ common law system with Islamic law influence<br>
 
 **Constitution**<br>
 _history_: several previous; latest endorsed 12 April 1973, passed 19 April 1973, entered into force 14 August 1973 (suspended and restored several times)<br>
-_amendments_: proposed by the Senate or by the National Assembly; passage requires at least two-thirds majority vote of both houses; amended many times, last in 2018<br>
+_amendment process_: proposed by the Senate or by the National Assembly; passage requires at least two-thirds majority vote of both houses<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt<br>
@@ -383,7 +383,7 @@ _expected date of next election_: March 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Pakistan (consists of the chief justice and 16 judges)<br>
-_judge selection and term of office_: justices nominated by an 8-member parliamentary committee upon the recommendation of the Judicial Commission, a 9-member body of judges and other judicial professionals, and appointed by the president; justices can serve until age 65<br>
+_judge selection and term of office_: justices nominated by an 8-member parliamentary committee on the recommendation of the Judicial Commission, a 9-member body of judges and other judicial professionals, and appointed by the president; justices can serve until age 65<br>
 _subordinate courts_: High Courts; Federal Shariat Court; provincial and district civil and criminal courts; specialized courts for issues, such as taxation, banking, and customs<br>
 
 **Political parties**<br>

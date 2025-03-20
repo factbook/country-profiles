@@ -51,12 +51,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 timber, marine products, deep-seabed minerals, phosphate<br>
 
 **Land use**<br>
-_agricultural land_: 25.5% (2018 est.)<br>
-_arable land_: arable land: 2.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 19.7% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 3.5% (2018 est.)<br>
-_forest_: 74.5% (2018 est.)<br>
-_other_: 0% (2018 est.)<br>
+_agricultural land_: 7.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.3% (2022 est.)<br>
+_forest_: 92.1% (2022 est.)<br>
+_other_: 0.8% (2022 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -212,12 +212,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; heavy year-round rainfall, especially in the eastern islands; located on southern edge of the typhoon belt with occasionally severe damage<br>
 
 **Land use**<br>
-_agricultural land_: 25.5% (2018 est.)<br>
-_arable land_: arable land: 2.3% (2018 est.)<br>
-_permanent crops_: permanent crops: 19.7% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 3.5% (2018 est.)<br>
-_forest_: 74.5% (2018 est.)<br>
-_other_: 0% (2018 est.)<br>
+_agricultural land_: 7.1% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 2.9% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.3% (2022 est.)<br>
+_forest_: 92.1% (2022 est.)<br>
+_other_: 0.8% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 23.4% of total population (2023)<br>
@@ -272,7 +272,8 @@ mixed legal system of common and customary law<br>
 
 **Constitution**<br>
 _history_: drafted June 1975, ratified 1 October 1978, entered into force 10 May 1979<br>
-_amendments_: proposed by Congress, by a constitutional convention, or by public petition; passage requires approval by at least three-fourths majority vote in at least three fourths of the states; amended 1990; note &ndash; at least every 10 years as part of a general or special election, voters are asked whether to hold a constitution convention; a majority of affirmative votes is required to proceed; amended many times, last in 2019 (approval by referendum to hold a constitutional convention)<br>
+_amendment process_: proposed by Congress, by a constitutional convention, or by public petition; passage requires approval by at least three-fourths majority vote in at least three fourths of the states<br>
+<strong>note:</strong> at least every ten years, voters are asked as part of a general or special election whether to hold a constitution convention; a majority of affirmative votes is required to proceed<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -305,7 +306,7 @@ _percentage of women in chamber_: 21.4%<br>
 _expected date of next election_: March 2025<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Federated States of Micronesia (FSM) Supreme Court (consists of the chief justice and not more than 5 associate justices and organized into appellate and criminal divisions)<br>
+_highest court(s)_: Federated States of Micronesia Supreme Court (consists of the chief justice and not more than 5 associate justices and organized into appellate and criminal divisions)<br>
 _judge selection and term of office_: justices appointed by the FSM president with the approval of two-thirds of Congress; justices appointed for life<br>
 _subordinate courts_: the highest state-level courts are: Chuuk Supreme Court; Korsae State Court; Pohnpei State Court; Yap State Court<br>
 

@@ -51,15 +51,15 @@ _mean elevation_: 160 m<br>
 timber, peat deposits, small quantities of oil and natural gas, granite, dolomitic limestone, marl, chalk, sand, gravel, clay<br>
 
 **Land use**<br>
-_agricultural land_: 43.7% (2018 est.)<br>
-_arable land_: arable land: 27.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 15.9% (2018 est.)<br>
-_forest_: 42.7% (2018 est.)<br>
-_other_: 13.6% (2018 est.)<br>
+_agricultural land_: 39.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 27.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 11.8% (2022 est.)<br>
+_forest_: 43.3% (2022 est.)<br>
+_other_: 16.8% (2022 est.)<br>
 
 **Irrigated land**<br>
-303 sq km (2020)<br>
+260 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
 Dnyapro (Dnieper) (shared with Russia [s] and Ukraine [m]) - 2,287 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -245,12 +245,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 cold winters, cool and moist summers; transitional between continental and maritime<br>
 
 **Land use**<br>
-_agricultural land_: 43.7% (2018 est.)<br>
-_arable land_: arable land: 27.2% (2018 est.)<br>
-_permanent crops_: permanent crops: 0.6% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 15.9% (2018 est.)<br>
-_forest_: 42.7% (2018 est.)<br>
-_other_: 13.6% (2018 est.)<br>
+_agricultural land_: 39.9% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 27.6% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 11.8% (2022 est.)<br>
+_forest_: 43.3% (2022 est.)<br>
+_other_: 16.8% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 80.7% of total population (2023)<br>
@@ -320,7 +320,8 @@ civil law system; note - nearly all major codes (civil, civil procedure, crimina
 
 **Constitution**<br>
 _history_: several previous; latest drafted between late 1991 and early 1994, signed 15 March 1994<br>
-_amendments_: proposed by the president of the republic through petition to the National Assembly or by petition of least 150,000 eligible voters; approval required by at least two-thirds majority vote in both chambers or by simple majority of votes cast in a referendum; amended 1996, 2004; note -one of several amendments passed in the February 2022 referendum - the presidential 5-year, two-term limit - will be imposed after the 2025 election<br>
+_amendment process_: proposed by the president of the republic through petition to the National Assembly or by petition of least 150,000 eligible voters; approval required by at least two-thirds majority vote in both chambers or by simple majority of votes cast in a referendum<br>
+<strong>note: </strong>one of several amendments passed in the February 2022 referendum -- the presidential 5-year, two-term limit -- will be imposed after the 2025 election<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -711,7 +712,7 @@ the military's inventory is comprised mostly of Russian and Soviet-origin equipm
 <strong>note:</strong> conscripts can be assigned to the military, to the Ministry of Interior, or to the Ministry of Labor and Social Protection (alternative service)<br>
 
 **Military - note**<br>
-the military of Belarus is responsible for territorial defense; it is a mixed force of conscripts and professionals that is equipped with Russian or Soviet-era weapons; Russia is the country’s closest security partner, a relationship that includes an integrated air and missile defense system and joint military training centers and exercises; Russia leases from Belarus a strategic ballistic missile defense site operated by Russian Aerospace Forces and a global communications facility for the Russian Navy; in 2020, the countries signed an agreement allowing for close security cooperation between the Belarusian Ministry of Interior and the Russian National Guard, including protecting public order and key government facilities and combating extremism and terrorism; in 2022, Belarus allowed Russian military forces to stage on its territory for their invasion of Ukraine and continues to supply arms and other aid to the Russian military, including logistical support, medical care, and airfields for Russian combat aircraft; in 2023, Belarus agreed to permit Russia to deploy nuclear weapons on its soil<br><br>Belarus has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and has committed an airborne brigade to CSTO's rapid reaction force; the military trains regularly with other CSTO members (2023)<br>
+the military of Belarus is responsible for territorial defense; it is a mixed force of conscripts and professionals that is equipped with Russian or Soviet-era weapons; Russia is the country’s closest security partner; in 2022, Belarus allowed Russian military forces to stage on its territory for their invasion of Ukraine; in 2023, Belarus agreed to permit Russia to deploy nuclear weapons on its soil<br><br>Belarus has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and has committed an airborne brigade to CSTO's rapid reaction force; the military trains regularly with other CSTO members (2024)<br>
 
 ## Space
 

@@ -52,15 +52,15 @@ _lowest point_: Mediterranean Sea 0 m<br>
 limestone, salt, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 32.3% (2018 est.)<br>
-_arable land_: arable land: 28.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 3.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 0.9% (2018 est.)<br>
-_other_: 66.8% (2018 est.)<br>
+_agricultural land_: 27.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 24.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 1.4% (2022 est.)<br>
+_other_: 71.2% (2022 est.)<br>
 
 **Irrigated land**<br>
-35 sq km (2020)<br>
+39 sq km (2022)<br>
 
 **Population distribution**<br>
 most of the population lives on the eastern half of Malta, the largest of the three inhabited islands<br>
@@ -235,12 +235,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 Mediterranean; mild, rainy winters; hot, dry summers<br>
 
 **Land use**<br>
-_agricultural land_: 32.3% (2018 est.)<br>
-_arable land_: arable land: 28.4% (2018 est.)<br>
-_permanent crops_: permanent crops: 3.9% (2018 est.)<br>
-_permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 0.9% (2018 est.)<br>
-_other_: 66.8% (2018 est.)<br>
+_agricultural land_: 27.3% (2022 est.)<br>
+_agricultural land: arable land_: arable land: 24.4% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
+_forest_: 1.4% (2022 est.)<br>
+_other_: 71.2% (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 94.9% of total population (2023)<br>
@@ -303,7 +303,7 @@ mixed legal system of English common law and civil law based on the Roman and Na
 
 **Constitution**<br>
 _history_: many previous; latest adopted 21 September 1964<br>
-_amendments_: proposals (Acts of Parliament) require at least two-thirds majority vote by the House of Representatives; passage of Acts requires majority vote by referendum, followed by final majority vote by the House and assent of the president of the republic; amended many times, last in 2020<br>
+_amendment process_: proposals (Acts of Parliament) require at least two-thirds majority vote by the House of Representatives; passage of Acts requires majority vote by referendum, followed by final majority vote by the House and assent of the president of the republic<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -338,7 +338,7 @@ _expected date of next election_: March 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of either 1 or 3 judges); Constitutional Court (consists of 3 judges); Court of Criminal Appeal (consists of either 1 or 3 judges)<br>
-_judge selection and term of office_: Court of Appeal and Constitutional Court judges appointed by the president, usually upon the advice of the prime minister; judges of both courts serve until age 65<br>
+_judge selection and term of office_: Court of Appeal and Constitutional Court judges appointed by the president, usually on the advice of the prime minister; judges of both courts serve until age 65<br>
 _subordinate courts_: Civil Court (divided into the General Jurisdiction Section, Family Section, and Voluntary Section); Criminal Court; Court of Magistrates; Gozo Courts (for the islands of Gozo and Comino)<br>
 
 **Political parties**<br>
