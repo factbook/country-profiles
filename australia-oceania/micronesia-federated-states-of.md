@@ -164,6 +164,9 @@ _unimproved: total_: total: 21.4% of population (2017 est.)<br>
 **Current health expenditure**<br>
 11% of GDP (2021)<br>
 
+**Physician density**<br>
+0.97 physicians/1,000 population (2020)<br>
+
 **Hospital bed density**<br>
 3.2 beds/1,000 population<br>
 
@@ -517,7 +520,7 @@ _subscriptions per 100 inhabitants_: 6 (2022 est.)<br>
 V6<br>
 
 **Airports**<br>
-7 (2024)<br>
+7 (2025)<br>
 
 **Roadways**<br>
 _total_: 388 km (2022)<br>

@@ -189,7 +189,7 @@ _unimproved: total_: total: (2020 est.) NA<br>
 9.7% of GDP (2021)<br>
 
 **Physician density**<br>
-4.06 physicians/1,000 population (2020)<br>
+5.11 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 5 beds/1,000 population (2017)<br>
@@ -308,7 +308,7 @@ _conventional long form_: Argentine Republic<br>
 _conventional short form_: Argentina<br>
 _local long form_: Rep&uacute;blica Argentina<br>
 _local short form_: Argentina<br>
-_etymology_: the name is derived from one of the words for "silver" in Spanish, but the origin is unclear; it may have described the land next to the Rio de la Plata ("Silver River"), a major river that forms the boundary between Argentina and Uruguay; another possible source is the Spanish explorers mistakenly believing that the silver ornaments they bought from inhabitants in the 16th century came from a local source of silver<br>
+_etymology_: the name is derived from one of the Spanish words for "silver," but the origin is unclear; it may have described the land next to the Rio de la Plata ("Silver River"), a major river that forms the boundary between Argentina and Uruguay; another possible source is the Spanish explorers in the 16th century mistakenly believing that the silver ornaments they bought from inhabitants came from a local source of silver<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -611,9 +611,9 @@ _hydroelectricity_: 16.4% of total installed capacity (2022 est.)<br>
 _biomass and waste_: 1.5% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 3 (2023)<br>
-_Number of nuclear reactors under construction_: 1 (2023)<br>
-_Net capacity of operational nuclear reactors_: 1.64GW (2023 est.)<br>
+_Number of operational nuclear reactors_: 3 (2025)<br>
+_Number of nuclear reactors under construction_: 1 (2025)<br>
+_Net capacity of operational nuclear reactors_: 1.64GW (2025 est.)<br>
 _Percent of total electricity production_: 6.3% (2023 est.)<br>
 
 **Coal**<br>
@@ -684,10 +684,10 @@ _annual freight traffic on registered air carriers_: 311.57 million (2018) mt-km
 LV<br>
 
 **Airports**<br>
-756 (2024)<br>
+764 (2025)<br>
 
 **Heliports**<br>
-144 (2024)<br>
+148 (2025)<br>
 
 **Pipelines**<br>
 29,930 km gas, 41 km liquid petroleum gas, 6,248 km oil, 3,631 km refined products (2013)<br>

@@ -184,7 +184,7 @@ _unimproved: total_: total: 6.9% of population (2020 est.)<br>
 2.7% of GDP (2021)<br>
 
 **Physician density**<br>
-0.65 physicians/1,000 population (2018)<br>
+0.52 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 6.3 beds/1,000 population<br>
@@ -281,7 +281,7 @@ _conventional long form_: Gabonese Republic<br>
 _conventional short form_: Gabon<br>
 _local long form_: R&eacute;publique Gabonaise<br>
 _local short form_: Gabon<br>
-_etymology_: name originates from the Portuguese word "gabao" meaning "cloak," which is roughly the shape that the early explorers gave to the estuary of the Komo River by the capital of Libreville<br>
+_etymology_: name originates from the Portuguese word <em>gabão, </em>meaning "cloak," possibly used by early explorers to describe the shape of the Komo River estuary<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -636,7 +636,7 @@ _inventory of registered aircraft operated by air carriers_: 8<br>
 TR<br>
 
 **Airports**<br>
-40 (2024)<br>
+42 (2025)<br>
 
 **Pipelines**<br>
 807 km gas, 1,639 km oil, 3 km water (2013)<br>

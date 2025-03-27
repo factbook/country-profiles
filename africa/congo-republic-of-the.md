@@ -188,7 +188,7 @@ _unimproved: total_: total: 15.8% of population (2020 est.)<br>
 3.9% of GDP (2021)<br>
 
 **Physician density**<br>
-0.1 physicians/1,000 population (2018)<br>
+0.17 physicians/1,000 population (2022)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 73.4% of population<br>
@@ -306,7 +306,7 @@ _conventional short form_: Congo (Brazzaville)<br>
 _local long form_: R&eacute;publique du Congo<br>
 _local short form_: Congo<br>
 _former_: French Congo, Middle Congo, People's Republic of the Congo, Congo/Brazzaville<br>
-_etymology_: named for the Congo River, which makes up much of the country's eastern border; the river name derives from Kongo, a Bantu kingdom that occupied its mouth at the time of Portuguese discovery in the late 15th century and whose name stems from its people the Bakongo, meaning "hunters"<br>
+_etymology_: named for the Congo River, which makes up much of the country's eastern border; the river name derives from Kongo, a Bantu kingdom in the area<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -648,7 +648,7 @@ _annual freight traffic on registered air carriers_: 4.6 million (2018) mt-km<br
 TN<br>
 
 **Airports**<br>
-56 (2024)<br>
+56 (2025)<br>
 
 **Pipelines**<br>
 232 km gas, 4 km liquid petroleum gas, 982 km oil (2013)<br>

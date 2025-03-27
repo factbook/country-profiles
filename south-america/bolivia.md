@@ -188,7 +188,7 @@ _unimproved: total_: total: 6.5% of population (2020 est.)<br>
 8.2% of GDP (2021)<br>
 
 **Physician density**<br>
-1.03 physicians/1,000 population (2017)<br>
+1.28 physicians/1,000 population (2021)<br>
 
 **Hospital bed density**<br>
 1.3 beds/1,000 population (2017)<br>
@@ -301,7 +301,8 @@ _conventional long form_: Plurinational State of Bolivia<br>
 _conventional short form_: Bolivia<br>
 _local long form_: Estado Plurinacional de Bolivia<br>
 _local short form_: Bolivia<br>
-_etymology_: the country is named after Sim&oacute;n BOL&Iacute;VAR, a 19th-century leader in the South American wars for independence<br>
+_former_: Upper Peru<br>
+_etymology_: the country is named in honor of Sim&oacute;n BOL&Iacute;VAR, a 19th-century leader in the South American wars for independence<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -671,10 +672,10 @@ _annual freight traffic on registered air carriers_: 13.73 million (2018) mt-km<
 CP<br>
 
 **Airports**<br>
-200 (2024)<br>
+201 (2025)<br>
 
 **Heliports**<br>
-3 (2024)<br>
+3 (2025)<br>
 
 **Pipelines**<br>
 5,457 km gas, 51 km liquid petroleum gas, 2,511 km oil, 1,627 km refined products (2013)<br>

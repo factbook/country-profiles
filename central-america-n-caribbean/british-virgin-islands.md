@@ -158,9 +158,6 @@ NA<br>
 _improved: total_: total: 99.9% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
-**Physician density**<br>
-NA<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 97.5% of population<br>
 _improved: rural_: rural: 97.5% of population<br>
@@ -220,7 +217,7 @@ _municipal solid waste generated annually_: 21,099 tons (2000 est.)<br>
 _conventional long form_: none<br>
 _conventional short form_: British Virgin Islands<br>
 _abbreviation_: BVI<br>
-_etymology_: the myriad islets, cays, and rocks surrounding the major islands reminded explorer Christopher COLUMBUS in 1493 of Saint Ursula and her 11,000 virgin followers (Santa Ursula y las Once Mil Virgenes), which over time shortened to the Virgins (las Virgenes)<br>
+_etymology_: the islets, cays, and rocks surrounding the major islands reminded explorer Christopher COLUMBUS in 1493 of Saint Ursula and her 11,000 virgin followers (Santa Ursula y las Once Mil Virgenes), which over time was shortened to the Virgins (las Virgenes)<br>
 
 **Government type**<br>
 Overseas Territory of the UK with limited self-government; parliamentary democracy<br>
@@ -443,10 +440,10 @@ _subscriptions per 100 inhabitants_: 18 (2022 est.)<br>
 VP-L<br>
 
 **Airports**<br>
-3 (2024)<br>
+3 (2025)<br>
 
 **Heliports**<br>
-1 (2024)<br>
+2 (2025)<br>
 
 **Roadways**<br>
 _total_: 200 km<br>

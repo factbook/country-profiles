@@ -181,7 +181,7 @@ _unimproved: total_: total: 25.3% of population (2020 est.)<br>
 2.6% of GDP (2021)<br>
 
 **Physician density**<br>
-0.07 physicians/1,000 population (2019)<br>
+0.22 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 0.5 beds/1,000 population<br>
@@ -293,7 +293,7 @@ _conventional short form_: Benin<br>
 _local long form_: R&eacute;publique du Benin<br>
 _local short form_: Benin<br>
 _former_: Dahomey, People's Republic of Benin<br>
-_etymology_: named for the Bight of Benin, the body of water on which the country lies<br>
+_etymology_: the current name comes from a local ethnic group, the Bini, whose name may be related to the Arabic word <em>bani</em>, meaning "sons;" the former name, Dahomey, comes from a previous kingdom in the area called Dan Homé<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -636,7 +636,7 @@ _annual freight traffic on registered air carriers_: 805,347 (2015) mt-km<br>
 TY<br>
 
 **Airports**<br>
-10 (2024)<br>
+10 (2025)<br>
 
 **Pipelines**<br>
 134 km gas<br>

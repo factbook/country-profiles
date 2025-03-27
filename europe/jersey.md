@@ -161,9 +161,6 @@ _improved: total_: total: 94.2% of population<br>
 _unimproved: total_: total: 5.9% of population (2017 est.)<br>
 <strong>note</strong>: includes data for Guernsey<br>
 
-**Physician density**<br>
-NA<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
@@ -424,7 +421,7 @@ _number of registered air carriers_: 1 (2020) (registered in UK)<br>
 _inventory of registered aircraft operated by air carriers_: 4 (registered in UK)<br>
 
 **Airports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Roadways**<br>
 _total_: 576 km (2010)<br>

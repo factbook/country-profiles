@@ -184,7 +184,7 @@ _unimproved: total_: total: 3.1% of population (2020 est.)<br>
 4.6% of GDP (2021)<br>
 
 **Physician density**<br>
-0.83 physicians/1,000 population (2016)<br>
+1.11 physicians/1,000 population (2021)<br>
 
 **Hospital bed density**<br>
 3.2 beds/1,000 population (2013)<br>
@@ -361,7 +361,7 @@ _expected date of next election_: May 2026<br>
 _highest court(s)_: Supreme People's Court (consists of the chief justice and 13 judges)<br>
 _judge selection and term of office_: chief justice elected by the National Assembly upon the recommendation of the president for a 5-year, renewable term; deputy chief justice appointed by the president from among the judges for a 5-year term; judges appointed by the president and confirmed by the National Assembly for 5-year terms<br>
 _subordinate courts_: High Courts (administrative, civil, criminal, economic, labor, family, juvenile); provincial courts; district courts; Military Court<br>
-<strong>note</strong>: the National Assembly Standing Committee can establish special tribunals on the recommendation of the chief justice<br>
+<strong>note: </strong>the National Assembly Standing Committee can establish special tribunals on the recommendation of the chief justice<br>
 
 **Political parties**<br>
 Communist Party of Vietnam or CPV<br>
@@ -655,10 +655,10 @@ _annual freight traffic on registered air carriers_: 481.37 million (2018) mt-km
 VN<br>
 
 **Airports**<br>
-42 (2024)<br>
+36 (2025)<br>
 
 **Heliports**<br>
-25 (2024)<br>
+26 (2025)<br>
 
 **Pipelines**<br>
 72 km condensate, 398 km condensate/gas, 955 km gas, 128 km oil, 33 km oil/gas/water, 206 km refined products, 13 km water (2013)<br>

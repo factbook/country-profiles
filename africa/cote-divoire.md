@@ -186,7 +186,7 @@ _unimproved: total_: total: 20.2% of population (2020 est.)<br>
 3.1% of GDP (2021)<br>
 
 **Physician density**<br>
-0.16 physicians/1,000 population (2019)<br>
+0.17 physicians/1,000 population (2023)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 77.8% of population<br>
@@ -298,7 +298,7 @@ _conventional short form_: C&ocirc;te d'Ivoire<br>
 _local long form_: R&eacute;publique de C&ocirc;te d'Ivoire<br>
 _local short form_: Cote d'Ivoire<br>
 _former_: Ivory Coast<br>
-_etymology_: name reflects the intense ivory trade that took place in the region from the 15th to 17th centuries<br>
+_etymology_: name, which means "Ivory Coast" in French, reflects the ivory trade in the region from the 15th to 17th centuries; the French version of the name has been used internationally since 1986, at the country's request<br>
 <strong>note:</strong> pronounced coat-div-whar<br>
 
 **Government type**<br>
@@ -659,10 +659,10 @@ _annual freight traffic on registered air carriers_: 5.8 million (2018) mt-km<br
 TU<br>
 
 **Airports**<br>
-29 (2024)<br>
+29 (2025)<br>
 
 **Heliports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Pipelines**<br>
 101 km condensate, 256 km gas, 118 km oil, 5 km oil/gas/water, 7 km water (2013)<br>

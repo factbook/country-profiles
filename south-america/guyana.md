@@ -181,7 +181,7 @@ _unimproved: total_: total: 3.2% of population (2020 est.)<br>
 4.9% of GDP (2021)<br>
 
 **Physician density**<br>
-1.42 physicians/1,000 population (2020)<br>
+1.39 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 1.7 beds/1,000 population (2016)<br>
@@ -286,7 +286,7 @@ _agricultural_: 1.36 billion cubic meters (2020 est.)<br>
 _conventional long form_: Cooperative Republic of Guyana<br>
 _conventional short form_: Guyana<br>
 _former_: British Guiana<br>
-_etymology_: the name is derived from Guiana, the original name for the region that included British Guiana, Dutch Guiana, and French Guiana; ultimately the word is derived from an indigenous Amerindian language and means "Land of Many Waters" (referring to the area's multitude of rivers and streams)<br>
+_etymology_: the name is derived from Guiana, the original name for the region that included British Guiana, Dutch Guiana, and French Guiana; ultimately the word is derived from an Amerindian language and means "Land of Many Waters" (referring to the area's multitude of rivers and streams)<br>
 
 **Government type**<br>
 parliamentary republic<br>
@@ -595,7 +595,7 @@ _subscriptions per 100 inhabitants_: 13 (2022 est.)<br>
 8R<br>
 
 **Airports**<br>
-51 (2024)<br>
+55 (2025)<br>
 
 **Roadways**<br>
 _total_: 3,995 km<br>

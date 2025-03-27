@@ -162,9 +162,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.9% of population (2020)<br>
 
-**Physician density**<br>
-NA<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
@@ -291,7 +288,7 @@ _expected date of next election_: March 2028<br>
 _highest court(s)_: Isle of Man High Court of Justice (consists of 3 permanent judges or "deemsters" and 1 judge of appeal; organized into the Staff of Government Division or Court of Appeal and the Civil Division); the Court of General Gaol Delivery (not formally part of the High Court but is administered as such) deals with serious criminal cases<br>
 _judge selection and term of office_: deemsters appointed by the Lord Chancellor of England on the nomination of the lieutenant governor; deemsters can serve until age 70<br>
 _subordinate courts_: High Court; Court of Summary Gaol Delivery; Summary Courts; Magistrate's Court; specialized courts<br>
-<strong>note</strong>: appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>
+<strong>note:</strong> appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>
 
 **Political parties**<br>
 Green Party <br>Liberal Vannin Party or LVP <br>Manx Labor Party<br>Mec Vannin (sometimes referred to as the Manx Nationalist Party)<br>
@@ -413,10 +410,10 @@ national public radio broadcasts over 3 FM stations and 1 AM station; 2 commerci
 M<br>
 
 **Airports**<br>
-4 (2024)<br>
+4 (2025)<br>
 
 **Heliports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Railways**<br>
 _total_: 63 km (2008)<br>

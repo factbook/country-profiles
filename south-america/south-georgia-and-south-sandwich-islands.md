@@ -112,7 +112,7 @@ blue with the flag of the UK in the upper hoist-side quadrant and the South Geor
 ## Transportation
 
 **Heliports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Ports**<br>
 _total ports_: 3 (2024)<br>

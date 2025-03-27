@@ -189,7 +189,7 @@ _unimproved: total_: total: 31.4% of population (2020 est.)<br>
 5.8% of GDP (2021)<br>
 
 **Physician density**<br>
-0.04 physicians/1,000 population (2020)<br>
+0.04 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 0.4 beds/1,000 population (2017)<br>
@@ -650,7 +650,7 @@ _inventory of registered aircraft operated by air carriers_: 3<br>
 5U<br>
 
 **Airports**<br>
-26 (2024)<br>
+26 (2025)<br>
 
 **Pipelines**<br>
 2,444 km oil (2024)<br>

@@ -162,7 +162,7 @@ _unimproved: urban_: urban: 2.5% of population<br>
 _unimproved: total_: total: 2.5% of population (2017 est.)<br>
 
 **Physician density**<br>
-NA<br>
+1.51 physicians/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.1% of population<br>
@@ -209,7 +209,7 @@ _rate of urbanization_: 0.47% annual rate of change (2020-25 est.)<br>
 **Country name**<br>
 _conventional long form_: none<br>
 _conventional short form_: Anguilla<br>
-_etymology_: in 1493, Christopher Columbus named the island Anguilla, meaning "eel" in Spanish, because of the island's elongated shape<br>
+_etymology_: in 1493, Christopher COLUMBUS named the island Anguilla, meaning "eel" in Spanish, because of the island's elongated shape<br>
 
 **Government type**<br>
 parliamentary democracy (House of Assembly); self-governing overseas territory of the UK<br>
@@ -417,7 +417,7 @@ _inventory of registered aircraft operated by air carriers_: 4<br>
 VP-A<br>
 
 **Airports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Roadways**<br>
 _total_: 175 km<br>

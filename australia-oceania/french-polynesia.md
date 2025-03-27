@@ -163,7 +163,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Physician density**<br>
-NA<br>
+0.02 physicians/1,000 population (2023)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
@@ -221,9 +221,9 @@ _percent of municipal solid waste recycled_: 39% (2013 est.)<br>
 _conventional long form_: Overseas Lands of French Polynesia<br>
 _conventional short form_: French Polynesia<br>
 _local long form_: Pays d'outre-mer de la Polyn&eacute;sie fran&ccedil;aise<br>
-_local short form_: Polynesie Francaise<br>
+_local short form_: Polyn&eacute;sie Fran&ccedil;aise<br>
 _former_: Establishments in Oceania, French Establishments in Oceania<br>
-_etymology_: the term "Polynesia" is an 18th-century construct composed of two Greek words, "poly" (many) and "nesoi" (islands), and refers to the more than 1,000 islands scattered over the central and southern Pacific Ocean<br>
+_etymology_: the term "Polynesia" is an 18th-century construct composed of two Greek words, <em>poly </em>(many) and <em>nesoi </em>(islands), and refers to the more than 1,000 islands scattered over the central and southern Pacific Ocean<br>
 
 **Government type**<br>
 parliamentary democracy (Assembly of French Polynesia); an overseas collectivity of France<br>
@@ -499,7 +499,7 @@ _inventory of registered aircraft operated by air carriers_: 19 (registered in F
 F-OH<br>
 
 **Airports**<br>
-54 (2024)<br>
+54 (2025)<br>
 
 **Roadways**<br>
 _total_: 2,590 km<br>

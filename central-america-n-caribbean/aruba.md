@@ -162,9 +162,6 @@ _unimproved: urban_: urban: 1.9% of population<br>
 _unimproved: rural_: rural: 1.9% of population<br>
 _unimproved: total_: total: 1.9% of population (2015 est.)<br>
 
-**Physician density**<br>
-NA<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 97.7% of population<br>
 _improved: rural_: rural: 97.7% of population<br>
@@ -231,7 +228,7 @@ _conventional long form_: Country of Aruba<br>
 _conventional short form_: Aruba<br>
 _local long form_: Land Aruba (Dutch); Pais Aruba (Papiamento)<br>
 _local short form_: Aruba<br>
-_etymology_: the origin of the island's name is unclear; according to tradition, the name comes from the Spanish phrase <em>oro hubo</em> ("there was gold"), but no gold was ever found on the island; other possible sources are either the local word <em>oruba</em>, which means "well-situated," or a combination of two Carib Indian words, <em>ora </em>and <em>oubao</em>,<em> </em>respectively meaning "shell" and "island"<br>
+_etymology_: the origin of the island's name is unclear; according to tradition, the name comes from the Spanish phrase <em>oro hubo</em> ("there was gold"), but no gold was ever found on the island; other possible sources are either the local word <em>oruba</em>, meaning "well-situated," or a combination of two Carib Indian words, <em>ora </em>and <em>oubao</em>,<em> </em>respectively meaning "shell" and "island"<br>
 
 **Government type**<br>
 parliamentary democracy; part of the Kingdom of the Netherlands<br>
@@ -506,7 +503,7 @@ _annual passenger traffic on registered air carriers_: 274,280 (2018)<br>
 P4<br>
 
 **Airports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Roadways**<br>
 _total_: 1,000 km (2010)<br>

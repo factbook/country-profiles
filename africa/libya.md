@@ -180,7 +180,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Physician density**<br>
-2.09 physicians/1,000 population (2017)<br>
+2.04 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
 3.2 beds/1,000 population (2017)<br>
@@ -589,7 +589,7 @@ _annual passenger traffic on registered air carriers_: 927,153 (2018)<br>
 5A<br>
 
 **Airports**<br>
-66 (2024)<br>
+75 (2025)<br>
 
 **Pipelines**<br>
 882 km condensate, 3,743 km gas, 7,005 km oil (2013)<br>

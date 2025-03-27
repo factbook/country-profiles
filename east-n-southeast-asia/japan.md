@@ -182,7 +182,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 10.8% of GDP (2021)<br>
 
 **Physician density**<br>
-2.48 physicians/1,000 population (2018)<br>
+2.65 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 13 beds/1,000 population (2018)<br>
@@ -367,7 +367,7 @@ _expected date of next election_: July 2025<br>
 _highest court(s)_: Supreme Court or Saiko saibansho (consists of the chief justice and 14 associate justices)<br>
 _judge selection and term of office_: Supreme Court chief justice designated by the Cabinet and appointed by the monarch; associate justices appointed by the Cabinet and confirmed by the monarch; all justices are reviewed in a popular referendum during the first general election of the House of Representatives after each judge's appointment and every 10 years afterward<br>
 _subordinate courts_: 8 High Courts (Koto-saiban-sho), each with a Family Court (Katei-saiban-sho); 50 District Courts (Chiho saibansho), with 203 additional branches; 438 Summary Courts (Kani saibansho)<br>
-<strong>note</strong>: the Supreme Court has jurisdiction in constitutional issues<br>
+<strong>note:</strong> the Supreme Court has jurisdiction in constitutional issues<br>
 
 **Political parties**<br>
 Conservative Party of Japan or CPJ<br>Constitutional Democratic Party of Japan or CDP <br>Democratic Party for the People or DPFP or DPP <br>Japan Communist Party or JCP <br>Japan Innovation Party or Nippon Ishin no kai or Ishin <br>Komeito or Komei<br>Liberal Democratic Party or LDP <br>Okinawa Social Mass Party or Okinawa Whirlwind or OW<br>Party to Protect the People from NHK or NHK<br>Reiwa Shinsengumi <br>Sanseito Party<br>Social Democratic Party or SDP<br>
@@ -583,11 +583,11 @@ _geothermal_: 0.3% of total installed capacity (2022 est.)<br>
 _biomass and waste_: 5.6% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 12 (2023)<br>
-_Number of nuclear reactors under construction_: 2 (2023)<br>
-_Net capacity of operational nuclear reactors_: 11.05GW (2023 est.)<br>
+_Number of operational nuclear reactors_: 14 (2025)<br>
+_Number of nuclear reactors under construction_: 2 (2025)<br>
+_Net capacity of operational nuclear reactors_: 12.63GW (2025 est.)<br>
 _Percent of total electricity production_: 5.5% (2023 est.)<br>
-_Number of nuclear reactors permanently shut down_: 27 (2023)<br>
+_Number of nuclear reactors permanently shut down_: 27 (2025)<br>
 
 **Coal**<br>
 _production_: 29.141 million metric tons (2022 est.)<br>
@@ -657,10 +657,10 @@ _annual freight traffic on registered air carriers_: 9,420,660,000 (2018) mt-km<
 JA<br>
 
 **Airports**<br>
-279 (2024)<br>
+280 (2025)<br>
 
 **Heliports**<br>
-2,839 (2024)<br>
+3,036 (2025)<br>
 
 **Pipelines**<br>
 4,456 km gas, 174 km oil, 104 km oil/gas/water (2013)<br>

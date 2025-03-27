@@ -179,7 +179,7 @@ _unimproved: total_: total: 1.8% of population (2020 est.)<br>
 9.7% of GDP (2021)<br>
 
 **Physician density**<br>
-2.87 physicians/1,000 population (2018)<br>
+1.62 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 1.2 beds/1,000 population (2017)<br>
@@ -284,7 +284,7 @@ _conventional long form_: Republic of El Salvador<br>
 _conventional short form_: El Salvador<br>
 _local long form_: Rep&uacute;blica de El Salvador<br>
 _local short form_: El Salvador<br>
-_etymology_: means "the Savior" in Spanish and is a shortened form of "the Divine Savior of the World" (el Divino Salvador del Mundo), referring to Jesus Christ; Spanish colonists gave the name to the fort located where the country's capital of San Salvador now stands, and the name was later used for the city, the surrounding region, and after 1824, the country<br>
+_etymology_: means "the Savior" in Spanish and is a shortened form of "the Divine Savior of the World" (el Divino Salvador del Mundo), referring to Jesus Christ; 16th-century Spanish colonists gave the name "San Salvador" to the fort located where the country's capital of San Salvador now stands, and the name was later used for the city and the surrounding region; the country was officially named El Salvador in 1824<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -630,7 +630,7 @@ _annual freight traffic on registered air carriers_: 10.73 million (2018) mt-km<
 YS<br>
 
 **Airports**<br>
-27 (2024)<br>
+27 (2025)<br>
 
 **Railways**<br>
 _total_: 12.5 km (2014)<br>

@@ -242,7 +242,7 @@ _percent of population_: 13.4% (2021 est.)<br>
 ## Transportation
 
 **Airports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Roadways**<br>
 _total_: 22 km<br>

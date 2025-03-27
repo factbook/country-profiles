@@ -187,7 +187,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 12.7% of GDP (2022)<br>
 
 **Physician density**<br>
-4.44 physicians/1,000 population (2020)<br>
+4.53 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 8 beds/1,000 population (2017)<br>
@@ -304,7 +304,7 @@ _conventional short form_: Germany<br>
 _local long form_: Bundesrepublik Deutschland<br>
 _local short form_: Deutschland<br>
 _former_: German Reich<br>
-_etymology_: the Gauls (Celts) of Western Europe may have referred to the newly arriving Germanic tribes who settled in neighboring areas east of the Rhine during the first centuries B.C. as "Germani," a term the Romans adopted as "Germania"; the native designation "Deutsch" comes from the Old High German "diutisc" meaning "of the people"<br>
+_etymology_: the origin of the name is unclear; it may come from Celtic words meaning "neighboring people," or it may derive from Germanic words meaning either "spear man" or "head man;" the native designation "Deutsch" comes from the Old High German "diutisc" meaning "national"<br>
 
 **Government type**<br>
 federal parliamentary republic<br>
@@ -602,7 +602,7 @@ _biomass and waste_: 10.5% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
 _Percent of total electricity production_: 1.4% (2023 est.)<br>
-_Number of nuclear reactors permanently shut down_: 33 (2023)<br>
+_Number of nuclear reactors permanently shut down_: 33 (2025)<br>
 
 **Coal**<br>
 _production_: 138.981 million metric tons (2022 est.)<br>
@@ -671,10 +671,10 @@ _annual freight traffic on registered air carriers_: 7,969,860,000 (2018) mt-km<
 D<br>
 
 **Airports**<br>
-838 (2024)<br>
+840 (2025)<br>
 
 **Heliports**<br>
-388 (2024)<br>
+449 (2025)<br>
 
 **Pipelines**<br>
 37 km condensate, 26,985 km gas, 2,400 km oil, 4,479 km refined products, 8 km water (2013)<br>

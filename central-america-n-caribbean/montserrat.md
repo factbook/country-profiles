@@ -159,9 +159,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 1.9% of population (2020 est.)<br>
 
-**Physician density**<br>
-NA<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
@@ -438,7 +435,7 @@ _inventory of registered aircraft operated by air carriers_: 3<br>
 VP-M<br>
 
 **Airports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Roadways**<br>
 <p><strong>note:</strong> volcanic eruptions that began in 1995 destroyed most of the 227 km road system; a new road infrastructure has been built on the north end of the island</p><br>

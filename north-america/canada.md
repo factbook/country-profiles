@@ -191,7 +191,7 @@ _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 11.2% of GDP (2022)<br>
 
 **Physician density**<br>
-2.44 physicians/1,000 population (2019)<br>
+2.82 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 2.5 beds/1,000 population (2019)<br>
@@ -307,7 +307,7 @@ _global geoparks and regional networks_: Perce; Stonehammer; Tumbler Ridge; Clif
 **Country name**<br>
 _conventional long form_: none<br>
 _conventional short form_: Canada<br>
-_etymology_: the country name likely derives from the St. Lawrence Iroquoian word "kanata" meaning village or settlement<br>
+_etymology_: the name is probably derived from the Huron or Iroquois word <em>kanata</em>, meaning village or camp<br>
 
 **Government type**<br>
 federal parliamentary democracy (Parliament of Canada) under a constitutional monarchy; a Commonwealth realm; federal and state authorities and responsibilities regulated in constitution<br>
@@ -603,10 +603,10 @@ _hydroelectricity_: 61.5% of total installed capacity (2022 est.)<br>
 _biomass and waste_: 1.5% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 19 (2023)<br>
-_Net capacity of operational nuclear reactors_: 13.7GW (2023 est.)<br>
+_Number of operational nuclear reactors_: 17 (2025)<br>
+_Net capacity of operational nuclear reactors_: 12.71GW (2025 est.)<br>
 _Percent of total electricity production_: 13.7% (2023 est.)<br>
-_Number of nuclear reactors permanently shut down_: 6 (2023)<br>
+_Number of nuclear reactors permanently shut down_: 8 (2025)<br>
 
 **Coal**<br>
 _production_: 43.024 million metric tons (2022 est.)<br>
@@ -676,10 +676,10 @@ _annual freight traffic on registered air carriers_: 3,434,070,000 (2018) mt-km<
 C<br>
 
 **Airports**<br>
-1,425 (2024)<br>
+1,459 (2025)<br>
 
 **Heliports**<br>
-481 (2024)<br>
+506 (2025)<br>
 
 **Pipelines**<br>
 840,000 km oil and gas (2020)<br>

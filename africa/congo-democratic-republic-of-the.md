@@ -191,7 +191,7 @@ _unimproved: total_: total: 40.6% of population (2020 est.)<br>
 3.8% of GDP (2021)<br>
 
 **Physician density**<br>
-0.38 physicians/1,000 population (2018)<br>
+0.21 physicians/1,000 population (2022)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 53.4% of population<br>
@@ -313,7 +313,7 @@ _local long form_: R&eacute;publique d&eacute;mocratique du Congo<br>
 _local short form_: RDC<br>
 _former_: Congo Free State, Belgian Congo, Congo/Leopoldville, Congo/Kinshasa, Zaire<br>
 _abbreviation_: DRC (or DROC)<br>
-_etymology_: named for the Congo River, most of which lies within the DRC; the river name derives from Kongo, a Bantu kingdom that occupied its mouth and whose name stems from its people the Bakongo, meaning "hunters"<br>
+_etymology_: named for the Congo River, most of which lies within the DRC; the river name derives from Kongo, a Bantu kingdom in the area&nbsp;<br>
 
 **Government type**<br>
 semi-presidential republic<br>
@@ -669,10 +669,10 @@ _annual freight traffic on registered air carriers_: 890,000 (2018) mt-km<br>
 9Q<br>
 
 **Airports**<br>
-272 (2024)<br>
+273 (2025)<br>
 
 **Heliports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Pipelines**<br>
 62 km gas, 77 km oil, 756 km refined products (2013)<br>

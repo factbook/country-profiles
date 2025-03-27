@@ -153,9 +153,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020)<br>
 
-**Physician density**<br>
-NA<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: NA<br>
@@ -206,7 +203,7 @@ _municipal solid waste generated annually_: 16,954 tons (2012 est.)<br>
 **Country name**<br>
 _conventional long form_: none<br>
 _conventional short form_: Gibraltar<br>
-_etymology_: from the Spanish derivation of the Arabic "Jabal Tariq," which means "Mountain of Tariq" and which refers to the Rock of Gibraltar<br>
+_etymology_: from the Spanish derivation of the Arabic <em>jabal tariq</em>, which means "Mountain of Tariq" and refers to the Berber chief who captured the peninsula in A.D. 711<br>
 
 **Government type**<br>
 parliamentary democracy (Parliament); self-governing overseas territory of the UK<br>
@@ -283,7 +280,7 @@ _embassy_: none (overseas territory of the UK)<br>
 two horizontal bands of white (top, double width) and red with a three-towered red castle in the center of the white band; hanging from the castle gate is a gold key centered in the red band; the design is that of Gibraltar's coat of arms granted on 10 July 1502 by King Ferdinand and Queen Isabella of Spain; the castle symbolizes Gibraltar as a fortress, while the key represents Gibraltar's strategic importance - the key to the Mediterranean<br>
 
 **National symbol(s)**<br>
-Barbary macaque; national colors: red, white, yellow<br>
+Barbary partridge; national colors: red, white, yellow<br>
 
 **National anthem**<br>
 _name_: "Gibraltar Anthem"<br>
@@ -407,7 +404,7 @@ _subscriptions per 100 inhabitants_: 61 (2022 est.)<br>
 VP-G<br>
 
 **Airports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Roadways**<br>
 _total_: 29 km<br>

@@ -186,7 +186,7 @@ _unimproved: total_: total: 10.5% of population (2020 est.)<br>
 3.2% of GDP (2021)<br>
 
 **Physician density**<br>
-0.08 physicians/1,000 population (2020)<br>
+0.09 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 1.1 beds/1,000 population (2011)<br>
@@ -291,7 +291,7 @@ _agricultural_: 40 million cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of The Gambia<br>
 _conventional short form_: The Gambia<br>
-_etymology_: named for the Gambia River that flows through the heart of the country<br>
+_etymology_: named for the Gambia River that flows through the country; Portuguese explorers in the 15th century derived the name for the river from its local name, Ba-Dimma, meaning "the river"<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -613,7 +613,7 @@ _annual passenger traffic on registered air carriers_: 53,735 (2018)<br>
 C5<br>
 
 **Airports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Roadways**<br>
 _total_: 2,977 km<br>

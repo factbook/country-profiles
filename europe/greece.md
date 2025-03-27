@@ -176,7 +176,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 9.2% of GDP (2021)<br>
 
 **Physician density**<br>
-6.31 physicians/1,000 population (2019)<br>
+6.58 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 4.2 beds/1,000 population (2018)<br>
@@ -284,7 +284,7 @@ _conventional short form_: Greece<br>
 _local long form_: Elliniki Dimokratia<br>
 _local short form_: Ellas or Ellada<br>
 _former_: Hellenic State, Kingdom of Greece<br>
-_etymology_: the English name derives from the Roman (Latin) designation "Graecia," meaning "Land of the Greeks"; the Greeks call their country "Hellas" or "Ellada"<br>
+_etymology_: the English name derives from the Roman (Latin) designation <em>Graecia</em>, meaning "Land of the Greeks"; the Greeks call their country Ellas or Ellada, which is probably derived from Hellas, the name of the mythical son of Deucalian <br>
 
 **Government type**<br>
 parliamentary republic<br>
@@ -641,10 +641,10 @@ _annual freight traffic on registered air carriers_: 21.91 million (2018) mt-km<
 SX<br>
 
 **Airports**<br>
-81 (2024)<br>
+82 (2025)<br>
 
 **Heliports**<br>
-51 (2024)<br>
+59 (2025)<br>
 
 **Pipelines**<br>
 1,466 km gas, 94 km oil (2013)<br>

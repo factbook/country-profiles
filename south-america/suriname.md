@@ -177,7 +177,7 @@ _unimproved: total_: total: 0.9% of population (2020 est.)<br>
 5.7% of GDP (2021)<br>
 
 **Physician density**<br>
-0.82 physicians/1,000 population (2018)<br>
+1.36 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 3 beds/1,000 population (2017)<br>
@@ -340,7 +340,7 @@ _expected date of next election_: May 2025<br>
 _highest court(s)_: High Court of Justice of Suriname (consists of the court president, vice president, and 4 judges)<br>
 _judge selection and term of office_: court judges appointed by the national president in consultation with the National Assembly, the State Advisory Council, and the Order of Private Attorneys; judges serve for life<br>
 _subordinate courts_: cantonal courts<br>
-<strong>note</strong>: appeals beyond the High Court are referred to the Caribbean Court of Justice; human rights violations can be appealed to the Inter-American Commission on Human Rights with judgments issued by the Inter-American Court on Human Rights<br>
+<strong>note:</strong> appeals beyond the High Court are referred to the Caribbean Court of Justice; human rights violations can be appealed to the Inter-American Commission on Human Rights with judgments issued by the Inter-American Court on Human Rights<br>
 
 **Political parties**<br>
 Brotherhood and Unity in Politics or BEP<br>Democratic Alternative '91 or DA91<br>General Liberation and Development Party or ABOP<br>National Democratic Party or NDP<br>National Party of Suriname or NPS<br>Party for Democracy and Development in Unity or DOE<br>Party for National Unity and Solidarity or KTPI<br>People's Alliance (Pertjajah Luhur) or PL<br>Progressive Workers' and Farmers' Union or PALU<br>Progressive Reform Party or VHP<br>Reform and Renewal Movement or HVB<br>Surinamese Labor Party or SPA<br>
@@ -608,10 +608,10 @@ _annual freight traffic on registered air carriers_: 33.2 million (2018) mt-km<b
 PZ<br>
 
 **Airports**<br>
-55 (2024)<br>
+55 (2025)<br>
 
 **Heliports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Pipelines**<br>
 50 km oil (2013)<br>

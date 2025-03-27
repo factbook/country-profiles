@@ -188,7 +188,7 @@ _unimproved: total_: total: 33.5% of population (2020 est.)<br>
 3% of GDP (2021)<br>
 
 **Physician density**<br>
-0.21 physicians/1,000 population (2018)<br>
+0.24 physicians/1,000 population (2022)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 93.7% of population<br>
@@ -291,7 +291,7 @@ _conventional short form_: Angola<br>
 _local long form_: Republica de Angola<br>
 _local short form_: Angola<br>
 _former_: People's Republic of Angola<br>
-_etymology_: in the 15th century, Portuguese explorers derived the name from the title "n'gola," which was held by kings of the Ndongo<br>
+_etymology_: in the 15th century, Portuguese explorers derived the name from the title "N'gola," which was held by kings of the Ndongo<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -641,10 +641,10 @@ _annual freight traffic on registered air carriers_: 78.16 million (2018) mt-km<
 D2<br>
 
 **Airports**<br>
-106 (2024)<br>
+107 (2025)<br>
 
 **Heliports**<br>
-2 (2024)<br>
+2 (2025)<br>
 
 **Pipelines**<br>
 352 km gas, 85 km liquid petroleum gas, 1,065 km oil, 5 km oil/gas/water (2013)<br>

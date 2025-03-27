@@ -127,7 +127,7 @@ American Armed Forces Radio and Television Service (AFRTS) provides satellite ra
 ## Transportation
 
 **Airports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Ports**<br>
 _total ports_: 1 (2024)<br>

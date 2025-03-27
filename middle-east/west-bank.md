@@ -494,10 +494,10 @@ _subscriptions per 100 inhabitants_: 8 (2023 est.)<br>
 ## Transportation
 
 **Airports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Heliports**<br>
-2 (2024)<br>
+2 (2025)<br>
 
 **Roadways**<br>
 _total_: 4,686 km (2010)<br>

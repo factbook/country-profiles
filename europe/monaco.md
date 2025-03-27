@@ -168,7 +168,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 3.7% of GDP (2021)<br>
 
 **Physician density**<br>
-7.51 physicians/1,000 population (2014)<br>
+8.61 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 13.8 beds/1,000 population (2012)<br>
@@ -448,7 +448,7 @@ _subscriptions per 100 inhabitants_: 56 (2023 est.)<br>
 3A<br>
 
 **Heliports**<br>
-3 (2024)<br>
+3 (2025)<br>
 
 **Railways**<br>
 <strong>note:</strong> Monaco has a single railway station but does not operate its own train service;  the French operator SNCF operates rail services in Monaco<br>

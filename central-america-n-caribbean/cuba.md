@@ -175,7 +175,7 @@ _unimproved: total_: total: 1.5% of population (2020 est.)<br>
 13.8% of GDP (2021)<br>
 
 **Physician density**<br>
-8.42 physicians/1,000 population (2018)<br>
+9.54 physicians/1,000 population (2021)<br>
 
 **Hospital bed density**<br>
 5.3 beds/1,000 population (2017)<br>
@@ -286,7 +286,7 @@ _conventional long form_: Republic of Cuba<br>
 _conventional short form_: Cuba<br>
 _local long form_: Rep&uacute;blica de Cuba<br>
 _local short form_: Cuba<br>
-_etymology_: name derives from the Taino Indian designation for the island "coabana" meaning "great place"<br>
+_etymology_: the origin of the name is disputed; it could be derived from a local Taino word, either <em>cubao</em>, meaning "where fertile land is abundant," or coabana, meaning "great place"<br>
 
 **Government type**<br>
 communist state<br>
@@ -601,10 +601,10 @@ _annual freight traffic on registered air carriers_: 17.76 million (2018) mt-km<
 CU<br>
 
 **Airports**<br>
-123 (2024)<br>
+120 (2025)<br>
 
 **Heliports**<br>
-4 (2024)<br>
+4 (2025)<br>
 
 **Pipelines**<br>
 41 km gas, 230 km oil (2013)<br>

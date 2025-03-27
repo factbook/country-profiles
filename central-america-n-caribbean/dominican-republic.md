@@ -182,7 +182,7 @@ _unimproved: total_: total: 2.8% of population (2020 est.)<br>
 4.9% of GDP (2021)<br>
 
 **Physician density**<br>
-1.45 physicians/1,000 population (2019)<br>
+2.43 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 1.6 beds/1,000 population (2017)<br>
@@ -293,7 +293,7 @@ _conventional short form_: The Dominican<br>
 _local long form_: Rep&uacute;blica Dominicana<br>
 _local short form_: La Dominicana<br>
 _former_: Santo Domingo (the capital city's name formerly applied to the entire country)<br>
-_etymology_: the country name derives from the capital city of Santo Domingo (Saint Dominic)<br>
+_etymology_: the name is a latinized form of the Spanish term <em>Santo Domingo</em>, meaning "holy Sunday;" Spanish explorers originally settled the island on a Sunday in 1496, and the name was first given to the island of Hispaniola as a whole in 1697<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -305,7 +305,7 @@ _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<
 _etymology_: named after Saint Dominic de GUZMAN (1170-1221), founder of the Dominican Order<br>
 
 **Administrative divisions**<br>
-10 regions (regiones, singular - region); Cibao Nordeste, Cibao Noroeste, Cibao Norte, Cibao Sur, El Valle, Enriquillo, Higuamo, Ozama, Valdesia, Yuma<br>
+31 provinces (provincias, singular - provincia), 1 district* (distrito); Azua, Baoruco, Barahona, Dajab&oacute;n, Distrito Nacional*, Duarte, El&iacute;as Pi&ntilde;a, El Seibo, Espaillat, Hato Mayor, Hermanas Mirabal, Independencia, La Altagracia, La Romana, La Vega, Mar&iacute;a Trinidad S&aacute;nchez, Monse&ntilde;or Nouel, Monte Cristi, Monte Plata, Pedernales, Peravia, Puerto Plata, Saman&aacute;, S&aacute;nchez Ram&iacute;rez, San Crist&oacute;bal, San Jos&eacute; de Ocoa, San Juan, San Pedro de Macor&iacute;s, Santiago, Santiago Rodr&iacute;guez, Santo Domingo, Valverde<br>
 
 **Independence**<br>
 27 February 1844 (from Haiti)<br>
@@ -653,10 +653,10 @@ _inventory of registered aircraft operated by air carriers_: 6<br>
 HI<br>
 
 **Airports**<br>
-32 (2024)<br>
+32 (2025)<br>
 
 **Heliports**<br>
-4 (2024)<br>
+8 (2025)<br>
 
 **Pipelines**<br>
 27 km gas, 103 km oil (2013)<br>

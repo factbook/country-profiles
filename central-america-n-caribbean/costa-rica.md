@@ -176,7 +176,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 7.6% of GDP (2021)<br>
 
 **Physician density**<br>
-3.3 physicians/1,000 population (2020)<br>
+2.69 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 1.1 beds/1,000 population (2019)<br>
@@ -283,7 +283,7 @@ _conventional long form_: Republic of Costa Rica<br>
 _conventional short form_: Costa Rica<br>
 _local long form_: Rep&uacute;blica de Costa Rica<br>
 _local short form_: Costa Rica<br>
-_etymology_: the name means "rich coast" in Spanish and was first applied in the early colonial period of the 16th century<br>
+_etymology_: the name means "rich coast" in Spanish; Christopher COLUMBUS named it in 1502, referring to the region's abundant vegetation and water<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -374,7 +374,7 @@ five horizontal bands of blue (top), white, red (double width), white, and blue,
 <strong>note:</strong> somewhat resembles the flag of North Korea; similar to the flag of Thailand but with the blue and red colors reversed<br>
 
 **National symbol(s)**<br>
-yiguirro (clay-colored robin); national colors: blue, white, red<br>
+yiguirro (clay-colored thrush); national colors: blue, white, red<br>
 
 **National anthem**<br>
 _name_: "Himno Nacional de Costa Rica" (National Anthem of Costa Rica)<br>
@@ -629,10 +629,10 @@ _annual freight traffic on registered air carriers_: 11.13 million (2018) mt-km<
 TI<br>
 
 **Airports**<br>
-129 (2024)<br>
+132 (2025)<br>
 
 **Heliports**<br>
-8 (2024)<br>
+8 (2025)<br>
 
 **Pipelines**<br>
 662 km refined products (2013)<br>

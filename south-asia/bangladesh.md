@@ -181,7 +181,7 @@ _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 2.4% of GDP (2021)<br>
 
 **Physician density**<br>
-0.67 physicians/1,000 population (2020)<br>
+0.72 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 0.8 beds/1,000 population (2016)<br>
@@ -299,7 +299,7 @@ _conventional short form_: Bangladesh<br>
 _local long form_: Gana Prajatantri Bangladesh<br>
 _local short form_: Bangladesh<br>
 _former_: East Bengal, East Pakistan<br>
-_etymology_: the name - a compound of the Bengali words "Bangla" (Bengal) and "desh" (country) - means "Country of Bengal"<br>
+_etymology_: the name is a compound of the Bengali words <em>Bangla </em>(Bengali) and <em>desh </em>(country)<br>
 
 **Government type**<br>
 parliamentary republic<br>
@@ -581,7 +581,7 @@ _solar_: 0.5% of total installed capacity (2022 est.)<br>
 _hydroelectricity_: 0.8% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of nuclear reactors under construction_: 2 (2023)<br>
+_Number of nuclear reactors under construction_: 2 (2025)<br>
 
 **Coal**<br>
 _production_: 754,000 metric tons (2022 est.)<br>
@@ -649,10 +649,10 @@ _annual freight traffic on registered air carriers_: 63.82 million (2018) mt-km<
 S2<br>
 
 **Airports**<br>
-17 (2024)<br>
+17 (2025)<br>
 
 **Heliports**<br>
-35 (2024)<br>
+36 (2025)<br>
 
 **Pipelines**<br>
 2,950 km gas (2013)<br>

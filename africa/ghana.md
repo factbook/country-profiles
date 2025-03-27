@@ -186,7 +186,7 @@ _unimproved: total_: total: 7.6% of population (2020 est.)<br>
 4.2% of GDP (2021)<br>
 
 **Physician density**<br>
-0.17 physicians/1,000 population (2020)<br>
+0.27 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 0.9 beds/1,000 population (2011)<br>
@@ -297,7 +297,7 @@ _agricultural_: 1.07 billion cubic meters (2020 est.)<br>
 _conventional long form_: Republic of Ghana<br>
 _conventional short form_: Ghana<br>
 _former_: Gold Coast<br>
-_etymology_: named for the medieval West African kingdom of the same name but whose location was actually further north than the modern country<br>
+_etymology_: named for a tribal chieftain who ruled a large part of the region prior to the 13th century, even though his territory was northwest of modern-day Ghana; the former name, Gold Coast, came from the gold that Portuguese explorers discovered in the region in the late 15th century<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -648,10 +648,10 @@ _annual passenger traffic on registered air carriers_: 467,438 (2018)<br>
 9G<br>
 
 **Airports**<br>
-11 (2024)<br>
+11 (2025)<br>
 
 **Heliports**<br>
-7 (2024)<br>
+7 (2025)<br>
 
 **Pipelines**<br>
 681.3 km gas, 11.4 km oil, 435 km refined products (2022)<br>

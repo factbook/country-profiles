@@ -191,7 +191,7 @@ _unimproved: total_: total: 23.6% of population (2020 est.)<br>
 3.2% of GDP (2021)<br>
 
 **Physician density**<br>
-0.11 physicians/1,000 population (2020)<br>
+0.14 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 0.3 beds/1,000 population (2016)<br>
@@ -315,7 +315,7 @@ _local long form_: YeItyop'iya Federalawi Demokrasiyawi Ripeblik<br>
 _local short form_: Ityop'iya<br>
 _former_: Abyssinia, Italian East Africa<br>
 _abbreviation_: FDRE<br>
-_etymology_: the country name derives from the Greek word "Aethiopia," which in classical times referred to lands south of Egypt in the Upper Nile region<br>
+_etymology_: the country name derives from the ancient Greek word used to describe the inhabitants, <em>aithiops</em>, meaning "burnt appearance"<br>
 
 **Government type**<br>
 federal parliamentary republic<br>
@@ -680,10 +680,10 @@ _annual freight traffic on registered air carriers_: 2,089,280,000 (2018) mt-km<
 ET<br>
 
 **Airports**<br>
-57 (2024)<br>
+58 (2025)<br>
 
 **Heliports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Railways**<br>
 _total_: 659 km (2017) (Ethiopian segment of the 756 km Addis Ababa-Djibouti railroad)<br>

@@ -177,7 +177,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 10.6% of GDP (2022)<br>
 
 **Physician density**<br>
-5.48 physicians/1,000 population (2019)<br>
+5.85 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 3.5 beds/1,000 population (2018)<br>
@@ -637,10 +637,10 @@ _annual freight traffic on registered air carriers_: 454.21 million (2018) mt-km
 CR, CS<br>
 
 **Airports**<br>
-130 (2024)<br>
+128 (2025)<br>
 
 **Heliports**<br>
-63 (2024)<br>
+65 (2025)<br>
 
 **Pipelines**<br>
 1,344 km gas, 11 km oil, 188 km refined products (2013)<br>

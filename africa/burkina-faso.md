@@ -182,7 +182,7 @@ _unimproved: total_: total: 21.5% of population (2020 est.)<br>
 6.4% of GDP (2021)<br>
 
 **Physician density**<br>
-0.09 physicians/1,000 population (2019)<br>
+0.15 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 0.4 beds/1,000 population<br>
@@ -295,7 +295,7 @@ _conventional short form_: Burkina Faso<br>
 _local long form_: none<br>
 _local short form_: Burkina Faso<br>
 _former_: Upper Volta, Republic of Upper Volta<br>
-_etymology_: name translates as "Land of the Honest (Incorruptible) Men"<br>
+_etymology_: name translates as "Land of the Worthy Men," from the Dyula words <em>burkina</em>, or "worthy," and <em>faso</em>, which means "land" or literally "father village," from <em>fa</em>, or "father," and <em>so</em>, or "village"<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -629,7 +629,7 @@ _annual freight traffic on registered air carriers_: 100,000 (2018) mt-km<br>
 XT<br>
 
 **Airports**<br>
-49 (2024)<br>
+49 (2025)<br>
 
 **Railways**<br>
 _total_: 622 km (2014)<br>

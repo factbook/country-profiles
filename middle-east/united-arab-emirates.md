@@ -175,7 +175,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 5.3% of GDP (2021)<br>
 
 **Physician density**<br>
-2.6 physicians/1,000 population (2019)<br>
+2.99 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 1.4 beds/1,000 population (2017)<br>
@@ -337,7 +337,7 @@ _expected date of next election_: October 2027<br>
 _highest court(s)_: Federal Supreme Court (consists of the court president and 4 judges; jurisdiction limited to federal cases)<br>
 _judge selection and term of office_: judges appointed by the federal president after approval from the Federal Supreme Council, the highest executive and legislative authority consisting of the 7 emirate rulers; judges serve until retirement age or the expiration of their appointment terms<br>
 _subordinate courts_: Federal Court of Cassation (determines the constitutionality of laws); the emirates of Abu Dhabi, Dubai, and Ra's al Khaymah have parallel court systems; the other 4 emirates have incorporated their courts into the federal system<br>
-<strong>note</strong>: the Abu Dhabi Global Market Courts and the Dubai International Financial Center Courts, the country’s two largest financial free zones, adjudicate civil and commercial disputes<br>
+<strong>note:</strong> the Abu Dhabi Global Market Courts and the Dubai International Financial Center Courts, the country’s two largest financial free zones, adjudicate civil and commercial disputes<br>
 
 **Political parties**<br>
 none; political parties are banned; all candidates run as independents<br>
@@ -548,8 +548,8 @@ _nuclear_: 11.4% of total installed capacity (2022 est.)<br>
 _solar_: 4% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 4 (2023)<br>
-_Net capacity of operational nuclear reactors_: 5.32GW (2023 est.)<br>
+_Number of operational nuclear reactors_: 4 (2025)<br>
+_Net capacity of operational nuclear reactors_: 5.35GW (2025 est.)<br>
 _Percent of total electricity production_: 19.7% (2023 est.)<br>
 
 **Coal**<br>
@@ -618,10 +618,10 @@ _annual freight traffic on registered air carriers_: 15,962,900,000 (2018) mt-km
 A6<br>
 
 **Airports**<br>
-42 (2024)<br>
+42 (2025)<br>
 
 **Heliports**<br>
-203 (2024)<br>
+204 (2025)<br>
 
 **Pipelines**<br>
 533 km condensate, 3,277 km gas, 300 km liquid petroleum gas, 3287 km oil, 24 km oil/gas/water, 218 km refined products, 99 km water (2013)<br>

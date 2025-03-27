@@ -176,7 +176,7 @@ _unimproved: total_: total: 3.6% of population (2020 est.)<br>
 7.2% of GDP (2021)<br>
 
 **Physician density**<br>
-0.53 physicians/1,000 population (2018)<br>
+0.46 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 1.7 beds/1,000 population (2017)<br>
@@ -350,7 +350,7 @@ _expected date of next election_: September 2025<br>
 _highest court(s)_: Court of Appeal (consists of president of the court and a minimum of 4 judges); Supreme Court (40 judges organized in specialized divisions)<br>
 _judge selection and term of office_: chief justice of the Supreme Court and president of the Court of Appeal appointed by the governor-general on the advice of the prime minister; other judges of both courts appointed by the governor-general on the advice of the Judicial Service Commission; judges of both courts serve till age 70<br>
 _subordinate courts_: resident magistrate courts, district courts, and petty sessions courts<br>
-<strong>note</strong>: appeals beyond Jamaica's highest courts are referred to the Judicial Committee of the Privy Council (in London) rather than to the Caribbean Court of Justice (the appellate court for member states of the Caribbean Community)<br>
+<strong>note:</strong> appeals beyond Jamaica's highest courts are referred to the Judicial Committee of the Privy Council (in London) rather than to the Caribbean Court of Justice (the appellate court for member states of the Caribbean Community)<br>
 
 **Political parties**<br>
 <p>Jamaica Labor Party or JLP<br>Jamaica Progressive Party or JPP<br>People's National Party or PNP<br>United Independents' Congress or UIC</p><br>
@@ -378,7 +378,7 @@ _email address and website_: <br>KingstonACS@state.gov<br><br>https://jm.usembas
 diagonal yellow cross divides the flag into four triangles - green (top and bottom) and black (hoist side and fly side); green represents hope, vegetation, and agriculture, black reflects hardships overcome and to be faced, and yellow recalls golden sunshine and the island's natural resources<br>
 
 **National symbol(s)**<br>
-green-and-black streamertail (bird), Guaiacum officinale (Guaiacwood); national colors: green, yellow, black<br>
+green-and-black streamertail (bird), Guiacum officinale (Lignum Vitae); national colors: green, yellow, black<br>
 
 **National anthem**<br>
 _name_: "Jamaica, Land We Love"<br>
@@ -627,10 +627,10 @@ _number of registered air carriers_: 0 (2020)<br>
 6Y<br>
 
 **Airports**<br>
-20 (2024)<br>
+20 (2025)<br>
 
 **Heliports**<br>
-2 (2024)<br>
+2 (2025)<br>
 
 **Roadways**<br>
 _total_: 25,595 km (2017)<br>

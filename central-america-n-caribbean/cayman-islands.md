@@ -162,9 +162,6 @@ _improved: total_: total: 97.4% of population<br>
 _unimproved: urban_: urban: 2.6% of population<br>
 _unimproved: total_: total: 2.6% of population (2015 est.)<br>
 
-**Physician density**<br>
-NA<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 95.6% of population<br>
 _improved: total_: total: 95.6% of population<br>
@@ -224,7 +221,7 @@ _percent of municipal solid waste recycled_: 21% (2013 est.)<br>
 **Country name**<br>
 _conventional long form_: none<br>
 _conventional short form_: Cayman Islands<br>
-_etymology_: the islands' name comes from the native Carib word "caiman," describing the marine crocodiles living there<br>
+_etymology_: Spanish explorers named the islands in the early 16th century, using the Carib word for marine crocodiles, <em>caiman</em><br>
 
 **Government type**<br>
 parliamentary democracy; self-governing overseas territory of the UK<br>
@@ -495,10 +492,10 @@ _inventory of registered aircraft operated by air carriers_: 6<br>
 VP-C<br>
 
 **Airports**<br>
-3 (2024)<br>
+3 (2025)<br>
 
 **Heliports**<br>
-5 (2024)<br>
+5 (2025)<br>
 
 **Roadways**<br>
 _total_: 785 km<br>

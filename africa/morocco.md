@@ -190,8 +190,7 @@ _unimproved: total_: total: 9% of population (2017 est.)<br>
 5.7% of GDP (2021)<br>
 
 **Physician density**<br>
-0.73 physicians/1,000 population (2017)<br>
-<strong>note:</strong> does not include data from the former Western Sahara<br>
+0.74 physicians/1,000 population (2021)<br>
 
 **Hospital bed density**<br>
 1 beds/1,000 population (2017)<br>
@@ -677,10 +676,10 @@ _annual freight traffic on registered air carriers_: 97.71 million (2018) mt-km<
 CN<br>
 
 **Airports**<br>
-49 (2024)<br>
+48 (2025)<br>
 
 **Heliports**<br>
-17 (2024)<br>
+17 (2025)<br>
 
 **Pipelines**<br>
 944 km gas, 270 km oil, 175 km refined products (2013)<br>

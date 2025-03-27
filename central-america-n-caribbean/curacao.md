@@ -159,9 +159,6 @@ _unimproved: total_: total: 0% of population (2017)<br>
 **Current health expenditure**<br>
 NA<br>
 
-**Physician density**<br>
-NA<br>
-
 **Sanitation facility access**<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017)<br>
@@ -223,7 +220,7 @@ _conventional short form_: Curacao<br>
 _local long form_: Land Curacao (Dutch)/ Pais Korsou (Papiamento)<br>
 _local short form_: Curacao (Dutch)/ Korsou (Papiamento)<br>
 _former_: Netherlands Antilles; Curacao and Dependencies<br>
-_etymology_: the most plausible name derivation is that the island was designated Isla de la Curacion (Spanish meaning "Island of the Cure" or "Island of Healing") or Ilha da Curacao (Portuguese meaning the same) to reflect the locale's function as a recovery stop for sick crewmen<br>
+_etymology_: the origin of the name is disputed; many historians now agree that the name derives from a similar-sounding word the original inhabitants used to describe themselves<br>
 
 **Government type**<br>
 <p>parliamentary democracy</p><br>
@@ -468,7 +465,7 @@ _inventory of registered aircraft operated by air carriers_: 11<br>
 PJ<br>
 
 **Airports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Roadways**<br>
 _total_: 550 km<br>

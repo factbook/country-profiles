@@ -185,7 +185,7 @@ _unimproved: total_: total: 0.7% of population (2020 est.)<br>
 5.2% of GDP (2021)<br>
 
 **Physician density**<br>
-0.97 physicians/1,000 population (2020)<br>
+1.02 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 1.3 beds/1,000 population (2017)<br>
@@ -363,9 +363,9 @@ _expected date of next election_: October 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Supreme Court or FSC (consists of 9 judges); Court of Cassation (consists of a court president, 5 vice presidents, and at least 24 judges)<br>
-_judge selection and term of office_: Federal Supreme Court (FSC) judges nominated by the High Judicial Council (HJC) president, the FSC chief justice, the public prosecutor's office chief, and the head of the Judicial Oversight Commission; FSC members required to retire at age 72; Court of Cassation judges appointed by the HJC and confirmed by the Council of Representatives to serve until retirement, nominally at age 63, but can be extended to age 66&nbsp;<br>
+_judge selection and term of office_: Federal Supreme Court (FSC) judges nominated by the High Judicial Council (HJC) president, the FSC chief justice, the public prosecutor's office chief, and the head of the Judicial Oversight Commission; FSC members required to retire at age 72; Court of Cassation judges appointed by the HJC and confirmed by the Council of Representatives to serve until retirement, nominally at age 63, but can be extended to age 66<br>
 _subordinate courts_: Courts of Appeal (governorate level); civil courts, including first instance, personal status, labor, and customs; criminal courts including felony, misdemeanor, investigative, major crimes, juvenile, and traffic courts<br>
-<strong>note</strong>: Federal Supreme Court jurisdiction limited to constitutional issues, application of federal laws, ratification of election results for the COR, judicial competency disputes, and disputes between regions or governorates and the central government<br>
+<strong>note:</strong> Federal Supreme Court jurisdiction limited to constitutional issues, application of federal laws, ratification of election results for the COR, judicial competency disputes, and disputes between regions or governorates and the central government<br>
 
 **Political parties**<br>
 Al Fatah Alliance<br>Azm Alliance<br>Babiliyun Movement<br>Imtidad<br>Ishraqat Konun<br>Kurdistan Democratic Party<br>National Contract Party<br>New Generation Movement<br>Patriotic Union of Kurdistan<br>Sadrist Bloc<br>State Forces Alliance<br>State of Law Coalition<br>Taqadum<br>Tasmim Alliance<br>
@@ -641,10 +641,10 @@ _annual freight traffic on registered air carriers_: 16.2 million (2018) mt-km<b
 YI<br>
 
 **Airports**<br>
-71 (2024)<br>
+73 (2025)<br>
 
 **Heliports**<br>
-10 (2024)<br>
+10 (2025)<br>
 
 **Pipelines**<br>
 2,455 km gas, 913 km liquid petroleum gas, 5,432 km oil, 1,637 km refined products (2013)<br>

@@ -188,7 +188,7 @@ _unimproved: total_: total: 2.6% of population (2020 est.)<br>
 3.9% of GDP (2021)<br>
 
 **Physician density**<br>
-3.98 physicians/1,000 population (2020)<br>
+3.75 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 6.1 beds/1,000 population (2014)<br>
@@ -607,7 +607,7 @@ _wind_: 1.5% of total installed capacity (2022 est.)<br>
 _hydroelectricity_: 8% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of nuclear reactors permanently shut down_: 1 (2023)<br>
+_Number of nuclear reactors permanently shut down_: 1 (2025)<br>
 
 **Coal**<br>
 _production_: 118.195 million metric tons (2022 est.)<br>
@@ -677,10 +677,10 @@ _annual freight traffic on registered air carriers_: 50.22 million (2018) mt-km<
 UP<br>
 
 **Airports**<br>
-132 (2024)<br>
+132 (2025)<br>
 
 **Heliports**<br>
-30 (2024)<br>
+32 (2025)<br>
 
 **Pipelines**<br>
 658 km condensate, 15,429 km gas (2020), 8,020 km oil (2020), 1,095 km refined products, 1,975 km water (2017) (2020)<br>

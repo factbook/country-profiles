@@ -186,7 +186,7 @@ _unimproved: total_: total: 39.1% of population (2020 est.)<br>
 5.2% of GDP (2021)<br>
 
 **Physician density**<br>
-0.06 physicians/1,000 population (2020)<br>
+0.09 physicians/1,000 population (2023)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 57.5% of population<br>
@@ -301,7 +301,7 @@ _conventional long form_: Republic of Chad<br>
 _conventional short form_: Chad<br>
 _local long form_: R&eacute;publique du Tchad/Jumhuriyat Tshad<br>
 _local short form_: Tchad/Tshad<br>
-_etymology_: named for Lake Chad, which lies along the country's western border; the word "tsade" means "large body of water" or "lake" in several local native languages<br>
+_etymology_: named for Lake Chad, which lies along the country's western border; taken from a local word meaning "large body of water" or "lake"<br>
 <strong>note:</strong> the only country whose name is composed of a single syllable with a single vowel<br>
 
 **Government type**<br>
@@ -635,7 +635,7 @@ _inventory of registered aircraft operated by air carriers_: 3<br>
 TT<br>
 
 **Airports**<br>
-42 (2024)<br>
+44 (2025)<br>
 
 **Pipelines**<br>
 582 km oil (2013)<br>

@@ -164,7 +164,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 13.1% of GDP (2021)<br>
 
 **Physician density**<br>
-1.35 physicians/1,000 population (2015)<br>
+1.27 physicians/1,000 population (2015)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 96.3% of population<br>
@@ -302,7 +302,7 @@ _expected date of next election_: September 2025<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and several justices)<br>
 _judge selection and term of office_: judges appointed by the president to serve until age 65<br>
 _subordinate courts_: District Court, Family Court<br>
-<strong>note</strong>: in 2017, the Nauruan Government revoked the 1976 High Court Appeals Act, which had allowed appeals beyond the Nauruan Supreme Court, and in 2018, the government formed its own appeals court<br>
+<strong>note:</strong> in 2017, the Nauruan Government revoked the 1976 High Court Appeals Act, which had allowed appeals beyond the Nauruan Supreme Court, and in 2018, the government formed its own appeals court<br>
 
 **Political parties**<br>
 Nauru does not have formal political parties; alliances within the government are often formed based on extended family ties<br>
@@ -499,7 +499,7 @@ _annual freight traffic on registered air carriers_: 7.94 million (2018) mt-km<b
 C2<br>
 
 **Airports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Roadways**<br>
 _total_: 30 km<br>

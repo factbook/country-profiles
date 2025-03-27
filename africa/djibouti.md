@@ -177,7 +177,7 @@ _unimproved: total_: total: 9.2% of population (2020 est.)<br>
 2.9% of GDP (2021)<br>
 
 **Physician density**<br>
-0.22 physicians/1,000 population (2014)<br>
+0.21 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 1.4 beds/1,000 population (2017)<br>
@@ -604,10 +604,10 @@ _inventory of registered aircraft operated by air carriers_: 4<br>
 J2<br>
 
 **Airports**<br>
-10 (2024)<br>
+10 (2025)<br>
 
 **Heliports**<br>
-6 (2024)<br>
+6 (2025)<br>
 
 **Railways**<br>
 _total_: 97 km (2017) (Djibouti segment of the 756 km Addis Ababa-Djibouti railway)<br>

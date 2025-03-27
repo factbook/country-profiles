@@ -190,7 +190,7 @@ _unimproved: total_: total: 4.5% of population (2020 est.)<br>
 3.3% of GDP (2021)<br>
 
 **Physician density**<br>
-0.74 physicians/1,000 population (2020)<br>
+0.72 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 0.5 beds/1,000 population (2017)<br>
@@ -614,9 +614,9 @@ _hydroelectricity_: 9.9% of total installed capacity (2022 est.)<br>
 _biomass and waste_: 1.9% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 20 (2023)<br>
-_Number of nuclear reactors under construction_: 7 (2023)<br>
-_Net capacity of operational nuclear reactors_: 6.92GW (2023 est.)<br>
+_Number of operational nuclear reactors_: 20 (2025)<br>
+_Number of nuclear reactors under construction_: 7 (2025)<br>
+_Net capacity of operational nuclear reactors_: 6.92GW (2025 est.)<br>
 _Percent of total electricity production_: 3.1% (2023 est.)<br>
 
 **Coal**<br>
@@ -687,10 +687,10 @@ _annual freight traffic on registered air carriers_: 2,703,960,000 (2018) mt-km<
 VT<br>
 
 **Airports**<br>
-311 (2024)<br>
+315 (2025)<br>
 
 **Heliports**<br>
-276 (2024)<br>
+289 (2025)<br>
 
 **Pipelines**<br>
 17,389 km natural gas, 10, 419 km crude oil, 3,544 liquid petroleum gas, 14,729 km refined products (2020) 9 km condensate/gas, 20 km oil/gas/water (2013) (2020)<br>

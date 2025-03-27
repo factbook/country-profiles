@@ -171,7 +171,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 8.3% of GDP (2021)<br>
 
 **Physician density**<br>
-3.63 physicians/1,000 population (2015)<br>
+5.07 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 2.5 beds/1,000 population<br>
@@ -256,7 +256,7 @@ _conventional long form_: Principality of Andorra<br>
 _conventional short form_: Andorra<br>
 _local long form_: Principat d'Andorra<br>
 _local short form_: Andorra<br>
-_etymology_: the origin of the country's name is obscure; may originate from the Navarrese word <em>andurrial, </em>meaning "shrub-covered land;" alternately, may derive from the Arabic <em>ad-darra</em> meaning "the forest," a reference to its location; many other theories exist<br>
+_etymology_: the origin of the country's name is obscure; may originate from the Navarrese word <em>andurrial, </em>meaning "shrub-covered land;" alternatively, may derive from the Arabic <em>ad-darra</em> meaning "the forest," a reference to its location; many other theories exist<br>
 
 **Government type**<br>
 parliamentary democracy (since March 1993) that retains its chiefs of state in the form of a co-principality; the two princes are the President of France and Bishop of Seu d'Urgell, Spain<br>
@@ -511,7 +511,7 @@ _subscriptions per 100 inhabitants_: 52 (2023 est.)<br>
 C3<br>
 
 **Heliports**<br>
-2 (2024)<br>
+2 (2025)<br>
 
 **Roadways**<br>
 _total_: 320 km (2019)<br>

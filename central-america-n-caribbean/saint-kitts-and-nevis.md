@@ -167,7 +167,7 @@ _unimproved: total_: total: 1.7% of population (2015 est.)<br>
 6.2% of GDP (2021)<br>
 
 **Physician density**<br>
-2.77 physicians/1,000 population (2018)<br>
+3.09 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
 4.8 beds/1,000 population (2012)<br>
@@ -538,10 +538,10 @@ _subscriptions per 100 inhabitants_: 47 (2022 est.)<br>
 V4<br>
 
 **Airports**<br>
-2 (2024)<br>
+2 (2025)<br>
 
 **Heliports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Railways**<br>
 _total_: 50 km (2008)<br>

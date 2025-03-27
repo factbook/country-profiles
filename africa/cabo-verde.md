@@ -173,7 +173,7 @@ _unimproved: total_: total: 3.3% of population (2020 est.)<br>
 6.9% of GDP (2021)<br>
 
 **Physician density**<br>
-0.83 physicians/1,000 population (2018)<br>
+0.73 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 2.1 beds/1,000 population<br>
@@ -274,7 +274,7 @@ _conventional long form_: Republic of Cabo Verde<br>
 _conventional short form_: Cabo Verde<br>
 _local long form_: Republica de Cabo Verde<br>
 _local short form_: Cabo Verde<br>
-_etymology_: the name derives from Cap-Vert (Green Cape) on the Senegalese coast, the westernmost point of Africa and the nearest mainland to the islands<br>
+_etymology_: the name derives from the Cape Verde (Green Cape) peninsula on the Senegalese coast, the westernmost point of Africa and the nearest mainland to the islands<br>
 
 **Government type**<br>
 parliamentary republic<br>
@@ -604,7 +604,7 @@ _annual freight traffic on registered air carriers_: 1,728,152 (2015) mt-km<br>
 D4<br>
 
 **Airports**<br>
-10 (2024)<br>
+10 (2025)<br>
 
 **Roadways**<br>
 _total_: 1,350 km<br>

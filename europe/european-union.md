@@ -414,6 +414,12 @@ _Currency_: euros (EUR) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 100 (2025)<br>
+_Number of nuclear reactors under construction_: 1 (2025)<br>
+_Net capacity of operational nuclear reactors_: 97.63GW (2025 est.)<br>
+_Number of nuclear reactors permanently shut down_: 75 (2025)<br>
+
 **Carbon dioxide emissions**<br>
 3.475 billion metric tonnes of CO2 (2015 est.)<br>
 
@@ -447,10 +453,10 @@ _annual passenger traffic on registered air carriers_: 636,860,155 (2018)<br>
 _annual freight traffic on registered air carriers_: 31,730,660,000 (2018)<br>
 
 **Airports**<br>
-4,585 (2024)<br>
+5,211 (2025)<br>
 
 **Heliports**<br>
-1,755 (2024)<br>
+2,069 (2025)<br>
 
 **Railways**<br>
 _total_: 4,894,173 km (2019)<br>

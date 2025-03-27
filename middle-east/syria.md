@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 0.7% of population<br>
 _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 
 **Physician density**<br>
-1.29 physicians/1,000 population (2016)<br>
+1.52 physicians/1,000 population (2021)<br>
 
 **Hospital bed density**<br>
 1.4 beds/1,000 population (2017)<br>
@@ -360,7 +360,7 @@ three equal horizontal bands of red (top), white, and black; two small, green, f
 <strong>note:</strong> similar to the flag of Yemen, which has a plain white band; Iraq, which has an Arabic inscription centered in the white band; and that of Egypt, which has a gold Eagle of Saladin centered in the white band<br>
 
 **National symbol(s)**<br>
-hawk; national colors: red, white, black, green<br>
+northern bald ibis; national colors: red, white, black, green<br>
 
 **National anthem**<br>
 _name_: "Humat ad-Diyar" (Guardians of the Homeland)<br>
@@ -601,10 +601,10 @@ _annual freight traffic on registered air carriers_: 30,000 (2018) mt-km<br>
 YK<br>
 
 **Airports**<br>
-39 (2024)<br>
+42 (2025)<br>
 
 **Heliports**<br>
-12 (2024)<br>
+13 (2025)<br>
 
 **Pipelines**<br>
 3,170 km gas, 2029 km oil (2013)<br>

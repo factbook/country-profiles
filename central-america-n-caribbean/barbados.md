@@ -168,7 +168,7 @@ _unimproved: total_: total: 2% of population (2020 est.)<br>
 8.1% of GDP (2021)<br>
 
 **Physician density**<br>
-2.49 physicians/1,000 population (2017)<br>
+2.96 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 6 beds/1,000 population (2017)<br>
@@ -261,7 +261,7 @@ _agricultural_: 5 million cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: none<br>
 _conventional short form_: Barbados<br>
-_etymology_: the name derives from the Portuguese "as barbadas," which means "the bearded ones" and can refer either to the long, hanging roots of the island's bearded fig trees or to the alleged beards of the indigenous Carib inhabitants<br>
+_etymology_: the name is the plural of the Spanish word <em>barbado</em> and means "the bearded ones," which could refer either to the beard-like leaves of the island's fig trees or to the beards of Carib inhabitants<br>
 
 **Government type**<br>
 parliamentary republic; a Commonwealth realm<br>
@@ -593,10 +593,10 @@ _subscriptions per 100 inhabitants_: 37 (2022 est.)<br>
 8P<br>
 
 **Airports**<br>
-2 (2024)<br>
+1 (2025)<br>
 
 **Heliports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Pipelines**<br>
 33 km gas, 64 km oil, 6 km refined products (2013)<br>

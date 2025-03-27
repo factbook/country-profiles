@@ -232,7 +232,7 @@ _conventional long form_: none<br>
 _conventional short form_: Greenland<br>
 _local long form_: none<br>
 _local short form_: Kalaallit Nunaat<br>
-_etymology_: named by Norwegian adventurer Erik THORVALDSSON (Erik the Red) in A.D. 985 in order to entice settlers to the island<br>
+_etymology_: named by Norse navigator Erik THORVALDSSON (Erik the Red) in A.D. 985 to attract settlers to the island; the original Greenlandic name, Kalaallit Nunaat, means "land of the people"<br>
 
 **Government type**<br>
 parliamentary democracy (Parliament of Greenland or Inatsisartut)<br>
@@ -272,7 +272,7 @@ see Denmark<br>
 
 **Executive branch**<br>
 _chief of state_: King FREDERIK X of Denmark (since 14 January 2024), represented by High Commissioner Julie Praest WILCHE (since May 2022) (2024)<br>
-_head of government_: Premier Mute B. EGEDE in caretaker status (since 12 March 2025)<br>
+_head of government_: Prime Minister Mute B. EGEDE in caretaker status (since 12 March 2025)<br>
 _cabinet_: Self-rule Government (Naalakkersuisut) elected by the Parliament (Inatsisartut)<br>
 _elections/appointments_: the monarchy is hereditary; high commissioner appointed by the monarch; premier indirectly elected by Parliament for a 4-year term<br>
 _election results_: <em><br>2021:</em> Mute B. EGEDE elected premier; Parliament vote - Mute B. EGEDE (Inuit Ataqatigiit) unanimous<br><br><em>2014:</em> Kim KIELSEN elected premier; Parliament vote - Kim KIELSEN (S) 27.2%, Sara OLSVIG (IA) 25.5%, Randi Vestergaard EVALDSEN (D) 19.5%, other 27.8%<br>
@@ -334,7 +334,7 @@ _selected World Heritage Site locales_: Ilulissat Icefjord (n); Kujataa, Norse a
 ## Economy
 
 **Economic overview**<br>
-large self-governing Danish territorial economy; preferential EU market access; high-income economy; dependent on Danish financial support, even for whaling and sealing industries; growing tourism; hydropower-fueled but environmentally fragile economy<br>
+high-income, self-governing Danish territorial economy; non-EU member but preferential market access; dependent on Danish financial support; exports led by fishing industry; growing tourism and interest in untapped mineral deposits; relies on hydropower for fuel<br>
 
 **Real GDP (purchasing power parity)**<br>
 $3.857 billion (2021 est.)<br>
@@ -510,10 +510,10 @@ _inventory of registered aircraft operated by air carriers_: 8 (registered in De
 OY-H<br>
 
 **Airports**<br>
-25 (2024)<br>
+25 (2025)<br>
 
 **Heliports**<br>
-55 (2024)<br>
+54 (2025)<br>
 
 **Roadways**<br>
 <p><strong>note:</strong> although there are short roads in towns, there are no roads between towns; inter-urban transport is either by sea or by air</p><br>

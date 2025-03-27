@@ -187,7 +187,7 @@ _unimproved: total_: total: 21.4% of population (2020 est.)<br>
 3.8% of GDP (2021)<br>
 
 **Physician density**<br>
-0.13 physicians/1,000 population (2019)<br>
+0.14 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 1.3 beds/1,000 population<br>
@@ -308,7 +308,7 @@ _conventional short form_: Cameroon<br>
 _local long form_: R&eacute;publique du Cameroun (French)/Republic of Cameroon (English)<br>
 _local short form_: Cameroun/Cameroon<br>
 _former_: Kamerun, French Cameroon, British Cameroon, Federal Republic of Cameroon, United Republic of Cameroon<br>
-_etymology_: in the 15th century, Portuguese explorers named the area near the mouth of the Wouri River the Rio dos Camaroes (River of Prawns) after the abundant shrimp in the water; over time the designation became Cameroon in English; this is the only instance where a country is named after a crustacean<br>
+_etymology_: in the 16th century, Portuguese explorers named an estuary near the mouth of the Wouri River the Rio dos Camaroes (River of Prawns) after the abundant shrimp in the water; the name Camaroes evolved into "Cameroon"<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -670,10 +670,10 @@ _annual freight traffic on registered air carriers_: 70,000 (2018) mt-km<br>
 TJ<br>
 
 **Airports**<br>
-37 (2024)<br>
+37 (2025)<br>
 
 **Heliports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Pipelines**<br>
 53 km gas, 5 km liquid petroleum gas, 1,107 km oil, 35 km water (2013)<br>

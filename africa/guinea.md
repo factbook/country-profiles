@@ -184,7 +184,7 @@ _unimproved: total_: total: 14.8% of population (2020 est.)<br>
 3.8% of GDP (2021)<br>
 
 **Physician density**<br>
-0.23 physicians/1,000 population (2018)<br>
+0.21 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 0.3 beds/1,000 population (2011)<br>
@@ -297,7 +297,7 @@ _conventional short form_: Guinea<br>
 _local long form_: R&eacute;publique de Guin&eacute;e<br>
 _local short form_: Guin&eacute;e<br>
 _former_: French Guinea<br>
-_etymology_: the country is named after the Guinea region of West Africa that lies along the Gulf of Guinea and stretches north to the Sahel<br>
+_etymology_: the country is named after the Guinea region of West Africa that lies along the Gulf of Guinea, but the name itself derives from the Tuareg word <em>aginaw</em>, meaning "black people"<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -617,10 +617,10 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 3X<br>
 
 **Airports**<br>
-16 (2024)<br>
+16 (2025)<br>
 
 **Heliports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Railways**<br>
 _total_: 1,086 km (2017)<br>

@@ -162,9 +162,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Physician density**<br>
-NA<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
@@ -269,7 +266,7 @@ _election results_: <br><em>2022: </em>Arnold PALACIOS elected governor in secon
 _highest court(s)_: Supreme Court of the Commonwealth of the Northern Mariana Islands (CNMI) (consists of the chief justice and 2 associate justices); US Federal District Court (consists of 1 judge)<br>
 _judge selection and term of office_: CNMI Supreme Court judges appointed by the governor and confirmed by the CNMI Senate; judges appointed for 8-year terms and another term if directly elected in a popular election; US Federal District Court judges appointed by the US president and confirmed by the US Senate; judges appointed for renewable 10-year terms<br>
 _subordinate courts_: Superior Court<br>
-<strong>note</strong>: US Federal District Court jurisdiction limited to US federal laws; appeals beyond the CNMI Supreme Court are referred to the US Supreme Court<br>
+<strong>note:</strong> US Federal District Court jurisdiction limited to US federal laws; appeals beyond the CNMI Supreme Court are referred to the US Supreme Court<br>
 
 **Political parties**<br>
 Democratic Party<br>Republican Party<br>
@@ -439,10 +436,10 @@ _percent of population_: 25.1% (2021 est.)<br>
 ## Transportation
 
 **Airports**<br>
-4 (2024)<br>
+4 (2025)<br>
 
 **Heliports**<br>
-7 (2024)<br>
+7 (2025)<br>
 
 **Roadways**<br>
 _total_: 536 km (2008)<br>

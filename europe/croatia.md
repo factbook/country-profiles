@@ -181,7 +181,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 8.1% of GDP (2021)<br>
 
 **Physician density**<br>
-3.47 physicians/1,000 population (2019)<br>
+3.91 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 5.5 beds/1,000 population (2017)<br>
@@ -295,7 +295,7 @@ _conventional short form_: Croatia<br>
 _local long form_: Republika Hrvatska<br>
 _local short form_: Hrvatska<br>
 _former_: People's Republic of Croatia, Socialist Republic of Croatia<br>
-_etymology_: name derives from the Croats, a Slavic tribe who migrated to the Balkans in the 7th century A.D.<br>
+_etymology_: name probably derives from the Croats, a Slavic tribe who migrated to the Balkans in the 7th century A.D., but that name may be related to the Russian word <em>khrebet</em>, meaning "mountain chain"  <br>
 
 **Government type**<br>
 parliamentary republic<br>
@@ -652,10 +652,10 @@ _annual freight traffic on registered air carriers_: 530,000 (2018) mt-km<br>
 9A<br>
 
 **Airports**<br>
-40 (2024)<br>
+45 (2025)<br>
 
 **Heliports**<br>
-4 (2024)<br>
+7 (2025)<br>
 
 **Pipelines**<br>
 2,410 km gas, 610 km oil (2011)<br>

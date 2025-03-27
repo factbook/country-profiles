@@ -164,7 +164,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 3.2% of GDP (2020)<br>
 
 **Physician density**<br>
-1.41 physicians/1,000 population (2014)<br>
+1.67 physicians/1,000 population (2020)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
@@ -456,7 +456,7 @@ _inventory of registered aircraft operated by air carriers_: 6<br>
 E5<br>
 
 **Airports**<br>
-10 (2024)<br>
+10 (2025)<br>
 
 **Roadways**<br>
 _total_: 295 km<br>

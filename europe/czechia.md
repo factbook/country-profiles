@@ -181,7 +181,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 9.5% of GDP (2021)<br>
 
 **Physician density**<br>
-4.15 physicians/1,000 population (2020)<br>
+4.35 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 6.6 beds/1,000 population (2018)<br>
@@ -294,7 +294,7 @@ _conventional long form_: Czech Republic<br>
 _conventional short form_: Czechia<br>
 _local long form_: Ceska republika<br>
 _local short form_: Cesko<br>
-_etymology_: name derives from the Czechs, a West Slavic tribe who rose to prominence in the late 9th century A.D.; the country officially adopted the English short-form name of Czechia on 1 July 2016<br>
+_etymology_: name derives from the Czechs, a West Slavic tribe who rose to prominence in the late 9th century A.D.; the tribal name is said to come from an ancestral chief<br>
 
 **Government type**<br>
 parliamentary republic<br>
@@ -595,8 +595,8 @@ _hydroelectricity_: 2.2% of total installed capacity (2022 est.)<br>
 _biomass and waste_: 6.2% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 6 (2023)<br>
-_Net capacity of operational nuclear reactors_: 3.93GW (2023 est.)<br>
+_Number of operational nuclear reactors_: 6 (2025)<br>
+_Net capacity of operational nuclear reactors_: 3.96GW (2025 est.)<br>
 _Percent of total electricity production_: 40% (2023 est.)<br>
 
 **Coal**<br>
@@ -666,10 +666,10 @@ _annual freight traffic on registered air carriers_: 25.23 million (2018) mt-km<
 OK<br>
 
 **Airports**<br>
-243 (2024)<br>
+252 (2025)<br>
 
 **Heliports**<br>
-82 (2024)<br>
+107 (2025)<br>
 
 **Pipelines**<br>
 7,160 km gas, 675 km oil, 94 km refined products (2016)<br>

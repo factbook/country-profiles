@@ -184,7 +184,7 @@ _unimproved: total_: total: 18.4% of population (2020 est.)<br>
 9.1% of GDP (2021)<br>
 
 **Physician density**<br>
-0.07 physicians/1,000 population (2020)<br>
+0.08 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 0.8 beds/1,000 population (2014)<br>
@@ -300,7 +300,7 @@ _conventional short form_: Burundi<br>
 _local long form_: R&eacute;publique du Burundi (French)/ Republika y'u Burundi (Kirundi)<br>
 _local short form_: Burundi<br>
 _former_: Urundi, German East Africa, Ruanda-Urundi, Kingdom of Burundi<br>
-_etymology_: name derived from the pre-colonial Kingdom of Burundi (17th-19th century)<br>
+_etymology_: name dates from 1966 and is derived from the name of the local Bantu people, the Rundi or Barundi; <em>ba</em>- is the prefix for the people, and <em>bu</em>- is the prefix for the country; the former name, Urundi, is the Swahili version<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -631,7 +631,7 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 9U<br>
 
 **Airports**<br>
-6 (2024)<br>
+6 (2025)<br>
 
 **Roadways**<br>
 _total_: 12,000 km<br>

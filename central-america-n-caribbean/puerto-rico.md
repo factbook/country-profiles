@@ -535,10 +535,10 @@ _subscriptions per 100 inhabitants_: 23 (2023 est.)<br>
 ## Transportation
 
 **Airports**<br>
-20 (2024)<br>
+20 (2025)<br>
 
 **Heliports**<br>
-38 (2024)<br>
+40 (2025)<br>
 
 **Roadways**<br>
 _total_: 26,862 km (2012) (includes 454 km of expressways)<br>

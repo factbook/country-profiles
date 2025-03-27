@@ -173,7 +173,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 7% of GDP (2021)<br>
 
 **Physician density**<br>
-4.48 physicians/1,000 population (2019)<br>
+4.16 physicians/1,000 population (2021)<br>
 
 **Hospital bed density**<br>
 3 beds/1,000 population (2017)<br>
@@ -334,7 +334,7 @@ _expected date of next election_: August 2025<br>
 _highest court(s)_: Supreme Court of the Judicature (consists of a chief justice for both the Court of Appeal with 12 judges and the High Court with 24 judges)<br>
 _judge selection and term of office_: Supreme Court chief justice appointed by the president after consultation with the prime minister and the parliamentary leader of the opposition; other judges appointed by the Judicial Legal Services Commission, headed by the chief justice and 5 members with judicial experience; all judges serve for life with mandatory retirement normally at age 65<br>
 _subordinate courts_: Courts of Summary Criminal Jurisdiction; Petty Civil Courts; Family Court<br>
-<strong>note</strong>: Trinidad and Tobago can file appeals beyond its Supreme Court to the Caribbean Court of Justice, with final appeal to the Judicial Committee of the Privy Council (in London)<br>
+<strong>note:</strong> Trinidad and Tobago can file appeals beyond its Supreme Court to the Caribbean Court of Justice, with final appeal to the Judicial Committee of the Privy Council (in London)<br>
 
 **Political parties**<br>
 People's National Movement or PNM<br>United National Congress or UNC<br>Tobago People’s Party or Tobago<br>
@@ -594,7 +594,7 @@ _annual freight traffic on registered air carriers_: 41.14 million (2018) mt-km<
 9Y<br>
 
 **Airports**<br>
-3 (2024)<br>
+3 (2025)<br>
 
 **Pipelines**<br>
 257 km condensate, 11 km condensate/gas, 1,567 km gas, 587 km oil (2013)<br>

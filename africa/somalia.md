@@ -174,7 +174,7 @@ _unimproved: rural_: rural: 26.3% of population<br>
 _unimproved: total_: total: 15.8% of population (2020 est.)<br>
 
 **Physician density**<br>
-0.02 physicians/1,000 population (2014)<br>
+0.05 physicians/1,000 population (2014)<br>
 
 **Hospital bed density**<br>
 0.9 beds/1,000 population (2017)<br>
@@ -340,7 +340,7 @@ _expected date of next election_: July 2026<br>
 _highest court(s)_: the provisional constitution stipulates the establishment of the Constitutional Court (consists of 5 judges, including the chief judge and deputy chief judge)<br>
 _judge selection and term of office_: judges appointed by the president on proposal of the Judicial Service Commission, a 9-member judicial and administrative body; judge tenure NA<br>
 _subordinate courts_: federal courts; federal member state-level courts; military courts; sharia courts<br>
-<strong>note</strong>: under the terms of the 2004 Transitional National Charter, a Supreme Court based in Mogadishu and the Appeal Court were established, but most regions have reverted to local forms of conflict resolution, whether secular, Somali customary law, or Islamic law<br>
+<strong>note:</strong> under the terms of the 2004 Transitional National Charter, a Supreme Court based in Mogadishu and the Appeal Court were established, but most regions have reverted to local forms of conflict resolution, whether secular, Somali customary law, or Islamic law<br>
 
 **Political parties**<br>
 <p>Cosmopolitan Democratic Party<br>Green Party<br>Himilo Qaran Party<br>Ilays Party<br>Justice and Reconciliation Party<br>National Progressive Party<br>Peace and Unity Party<br>Qaransoor Party<br>Qiimo Qaran Party<br>Security and Justice Party<br>Social Justice Party<br>Somali Labour Party<br>Somali Republic Party<br>Somali Social Unity Party or SSUP<br>Union for Peace and Development Party or PDP<br>Wadajir Party</p><br>
@@ -575,7 +575,7 @@ _annual passenger traffic on registered air carriers_: 4,486 (2018)<br>
 6O<br>
 
 **Airports**<br>
-38 (2024)<br>
+40 (2025)<br>
 
 **Roadways**<br>
 _total_: 15,000 km (2013)<br>

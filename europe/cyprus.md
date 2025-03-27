@@ -180,7 +180,7 @@ _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 9.4% of GDP (2021)<br>
 
 **Physician density**<br>
-3.14 physicians/1,000 population (2019)<br>
+3.56 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 3.4 beds/1,000 population (2017)<br>
@@ -290,7 +290,7 @@ _conventional long form_: Republic of Cyprus<br>
 _conventional short form_: Cyprus<br>
 _local long form_: Kypriaki Dimokratia (Greek)/ Kibris Cumhuriyeti (Turkish)<br>
 _local short form_: Kypros (Greek)/ Kibris (Turkish)<br>
-_etymology_: the derivation of the name "Cyprus" is unknown, but the extensive mining of copper metal on the island in antiquity gave rise to the Latin word "cuprum" for copper<br>
+_etymology_: the Greek name for the island is Kupros, which is probably derived from the Sumerian <em>kabar</em>, meaning "copper" or "bronze;" copper mines were located on the island in antiquity<br>
 <strong>note:</strong> the Turkish Cypriot community, which administers the northern part of the island, refers to itself as the "Turkish Republic of Northern Cyprus" or "TRNC" ("Kuzey Kibris Turk Cumhuriyeti" or "KKTC")<br>
 
 **Government type**<br>
@@ -634,10 +634,10 @@ _annual freight traffic on registered air carriers_: 20,000 (2018) mt-km<br>
 5B<br>
 
 **Airports**<br>
-13 (2024)<br>
+14 (2025)<br>
 
 **Heliports**<br>
-69 (2024)<br>
+68 (2025)<br>
 
 **Roadways**<br>
 _total_: 13,027 km (2022)<br>

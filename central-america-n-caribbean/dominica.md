@@ -162,7 +162,7 @@ _unimproved: urban_: urban: 4.3% of population<br>
 6.5% of GDP (2021)<br>
 
 **Physician density**<br>
-1.1 physicians/1,000 population (2018)<br>
+1.16 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
 3.8 beds/1,000 population<br>
@@ -245,7 +245,7 @@ _agricultural_: 1 million cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Commonwealth of Dominica<br>
 _conventional short form_: Dominica<br>
-_etymology_: the island was named by explorer Christopher COLUMBUS for the day of the week on which he spotted it, Sunday ("Domingo" in Latin), 3 November 1493<br>
+_etymology_: the island was named by explorer Christopher COLUMBUS for the day of the week on which he spotted it, Sunday (<em>Domingo </em>in Spanish, <em>dominica dies </em>in Latin), 3 November 1493<br>
 
 **Government type**<br>
 parliamentary republic<br>
@@ -528,7 +528,7 @@ _subscriptions per 100 inhabitants_: 21 (2022 est.)<br>
 J7<br>
 
 **Airports**<br>
-2 (2024)<br>
+2 (2025)<br>
 
 **Roadways**<br>
 _total_: 1,512 km<br>

@@ -183,7 +183,7 @@ _unimproved: total_: total: 15.6% of population (2020 est.)<br>
 8% of GDP (2021)<br>
 
 **Physician density**<br>
-1.72 physicians/1,000 population (2014)<br>
+1.87 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 4.7 beds/1,000 population (2014)<br>
@@ -391,7 +391,7 @@ _email address and website_: <br>DushanbeConsular@state.gov<br><br>https://tj.us
 three horizontal stripes of red (top), a wider stripe of white, and green; a gold crown surmounted by seven gold, five-pointed stars is located in the center of the white stripe; red represents the sun, victory, and the unity of the nation, white stands for purity, cotton, and mountain snows, while green is the color of Islam and the bounty of nature; the crown symbolizes the Tajik people; the seven stars signify the Tajik magic number "seven" - a symbol of perfection and the embodiment of happiness<br>
 
 **National symbol(s)**<br>
-crown surmounted by an arc of seven, five-pointed stars; snow leopard; national colors: red, white, green<br>
+crown surmounted by an arc of seven, five-pointed stars; Marco Polo sheep; national colors: red, white, green<br>
 
 **National anthem**<br>
 _name_: "Surudi milli" (National Anthem)<br>
@@ -649,7 +649,10 @@ _annual freight traffic on registered air carriers_: 2.34 million (2018) mt-km<b
 EY<br>
 
 **Airports**<br>
-19 (2024)<br>
+19 (2025)<br>
+
+**Heliports**<br>
+1 (2025)<br>
 
 **Pipelines**<br>
 549 km gas, 38 km oil (2013)<br>

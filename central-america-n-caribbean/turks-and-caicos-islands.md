@@ -157,9 +157,6 @@ _female_: 84.1 years<br>
 _improved: total_: total: 94.3% of population<br>
 _unimproved: total_: total: 5.7% of population (2017)<br>
 
-**Physician density**<br>
-NA<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
@@ -287,7 +284,7 @@ _expected date of next election_: 2029<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and other judges, as determined by the governor); Court of Appeal (consists of the court president and 2 justices)<br>
 _judge selection and term of office_: Supreme Court and Appeals Court judges appointed by the governor in accordance with the Judicial Service Commission, a 3-member body of high-level judicial officials; Supreme Court judges serve until mandatory retirement at age 65, but terms can be extended to age 70; Appeals Court judge tenure determined by individual terms of appointment<br>
 _subordinate courts_: magistrates' courts<br>
-<strong>note</strong>: appeals beyond the Supreme Court are referred to the Judicial Committee of the Privy Council (in London)<br>
+<strong>note:</strong> appeals beyond the Supreme Court are referred to the Judicial Committee of the Privy Council (in London)<br>
 
 **Political parties**<br>
 People's Democratic Movement or PDM<br>Progressive National Party or PNP<br>
@@ -471,7 +468,7 @@ _inventory of registered aircraft operated by air carriers_: 22<br>
 VQ-T<br>
 
 **Airports**<br>
-9 (2024)<br>
+9 (2025)<br>
 
 **Roadways**<br>
 _total_: 121 km<br>

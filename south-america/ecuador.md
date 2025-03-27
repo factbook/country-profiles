@@ -183,7 +183,7 @@ _unimproved: total_: total: 4.6% of population (2020 est.)<br>
 8.3% of GDP (2021)<br>
 
 **Physician density**<br>
-2.22 physicians/1,000 population (2017)<br>
+2.31 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 1.4 beds/1,000 population (2016)<br>
@@ -297,7 +297,8 @@ _conventional long form_: Republic of Ecuador<br>
 _conventional short form_: Ecuador<br>
 _local long form_: Rep&uacute;blica del Ecuador<br>
 _local short form_: Ecuador<br>
-_etymology_: the country's position on the globe, straddling the Equator, accounts for its Spanish name<br>
+_former_: Quito<br>
+_etymology_: the name is the Spanish word for "equator," referring to its geographic position<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -649,10 +650,10 @@ _annual freight traffic on registered air carriers_: 64.2 million (2018) mt-km<b
 HC<br>
 
 **Airports**<br>
-310 (2024)<br>
+317 (2025)<br>
 
 **Heliports**<br>
-28 (2024)<br>
+28 (2025)<br>
 
 **Pipelines**<br>
 485 km extra heavy crude, 123 km gas, 2,131 km oil, 1,526 km refined products (2017)<br>

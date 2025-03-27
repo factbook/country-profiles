@@ -162,9 +162,6 @@ _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.1% of population (2020)<br>
 
-**Physician density**<br>
-NA<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.9% of population<br>
 _improved: rural_: rural: NA<br>
@@ -226,7 +223,7 @@ _percent of municipal solid waste recycled_: 2% (2012 est.)<br>
 _conventional long form_: none<br>
 _conventional short form_: Bermuda<br>
 _former_: Somers Islands<br>
-_etymology_: the islands making up Bermuda are named after Juan de BERMUDEZ, an early 16th century Spanish sea captain and the first European explorer of the archipelago<br>
+_etymology_: named after Juan de BERMUDEZ, an early 16th-century Spanish sea captain and the first European explorer of the archipelago<br>
 
 **Government type**<br>
 Overseas Territory of the UK with limited self-government; parliamentary democracy<br>
@@ -533,7 +530,7 @@ _subscriptions per 100 inhabitants_: 36 (2022 est.)<br>
 VP-B<br>
 
 **Airports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Roadways**<br>
 _total_: 447 km<br>

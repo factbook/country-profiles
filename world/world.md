@@ -416,9 +416,10 @@ _geothermal_: 0.3% of total installed capacity (2022 est.)<br>
 _biomass and waste_: 2.6% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 416 (2023)<br>
-_Number of nuclear reactors under construction_: 59<br>
-_Net capacity of operational nuclear reactors_: 374.67GW (2023)<br>
+_Number of operational nuclear reactors_: 416 (2025)<br>
+_Number of nuclear reactors under construction_: 62 (2025)<br>
+_Net capacity of operational nuclear reactors_: 376.59GW (2025)<br>
+_Number of nuclear reactors permanently shut down_: 214 (2025)<br>
 
 **Coal**<br>
 _production_: 9.279 billion metric tons (2022 est.)<br>
@@ -476,10 +477,10 @@ _subscriptions per 100 inhabitants_: 18 (2022 est.)<br>
 ## Transportation
 
 **Airports**<br>
-45,527 (2024)<br>
+47,242 (2025)<br>
 
 **Heliports**<br>
-20,316 (2024)<br>
+21,741 (2025)<br>
 
 **Railways**<br>
 _total_: 1,148,186 km (2013)<br>

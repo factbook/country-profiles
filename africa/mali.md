@@ -190,7 +190,7 @@ _unimproved: total_: total: 13.6% of population (2020 est.)<br>
 4.5% of GDP (2021)<br>
 
 **Physician density**<br>
-0.13 physicians/1,000 population (2018)<br>
+0.19 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 0.1 beds/1,000 population<br>
@@ -644,10 +644,10 @@ _number of registered air carriers_: 0 (2020)<br>
 TZ, TT<br>
 
 **Airports**<br>
-30 (2024)<br>
+30 (2025)<br>
 
 **Heliports**<br>
-3 (2024)<br>
+4 (2025)<br>
 
 **Railways**<br>
 _total_: 593 km (2014)<br>

@@ -86,7 +86,7 @@ _conventional short form_: Clipperton Island<br>
 _local long form_: none<br>
 _local short form_: Ile Clipperton<br>
 _former_: sometimes referred to as Ile de la Passion or Atoll Clipperton<br>
-_etymology_: named after an 18th-century English pirate who supposedly used the island as a base<br>
+_etymology_: named after an 18th-century English pirate who is alleged to have used the island as a base starting in 1705<br>
 
 **Dependency status**<br>
 possession of France; administered directly by the Minister of Overseas France<br>

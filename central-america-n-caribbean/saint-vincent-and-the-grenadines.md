@@ -564,7 +564,7 @@ _inventory of registered aircraft operated by air carriers_: 11<br>
 J8<br>
 
 **Airports**<br>
-5 (2024)<br>
+5 (2025)<br>
 
 **Merchant marine**<br>
 _total_: 830 (2023)<br>

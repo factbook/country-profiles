@@ -163,7 +163,7 @@ _unimproved: total_: total: 0% of population (2020)<br>
 8% of GDP (2021)<br>
 
 **Physician density**<br>
-6.11 physicians/1,000 population (2014)<br>
+4.63 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 3.8 beds/1,000 population (2012)<br>
@@ -302,7 +302,7 @@ _expected date of next election_: June 2029<br>
 _highest court(s)_: Council of Twelve or Consiglio dei XII (consists of 12 members)<br>
 _judge selection and term of office_: judges elected by the Grand and General Council from among its own to serve 5-year terms<br>
 _subordinate courts_: first instance and first appeal criminal, administrative, and civil courts; Court for the Trust and Trustee Relations; justices of the peace or conciliatory judges<br>
-<strong>note</strong>: the College of Guarantors for the Constitutionality and General Norms functions as San Marino's constitutional court<br>
+<strong>note:</strong> the College of Guarantors for the Constitutionality and General Norms functions as San Marino's constitutional court<br>
 
 **Political parties**<br>
 Domani - Modus Liberi or DML <br>Free San Marino (Libera San Marino) or Libera <br>Future Republic or RF <br>Party of Socialists and Democrats or PSD <br>Reformist Alliance or AR <br>RETE Movement <br>Sammarinese Christian Democratic Party or PDCS <br>Socialist Party or PS <br>Tomorrow in Movement coalition (includes RETE Movement, DML)<br>
@@ -512,10 +512,7 @@ _subscriptions per 100 inhabitants_: 36 (2022 est.)<br>
 T7<br>
 
 **Airports**<br>
-1 (2024)<br>
-
-**Heliports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Roadways**<br>
 _total_: 292 km<br>

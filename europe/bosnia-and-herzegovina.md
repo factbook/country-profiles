@@ -177,7 +177,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 9.6% of GDP (2021)<br>
 
 **Physician density**<br>
-2.16 physicians/1,000 population (2015)<br>
+2.58 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
 3.5 beds/1,000 population (2014)<br>
@@ -281,7 +281,7 @@ _local long form_: none<br>
 _local short form_: Bosna i Hercegovina<br>
 _former_: People's Republic of Bosnia and Herzegovina, Socialist Republic of Bosnia and Herzegovina<br>
 _abbreviation_: BiH<br>
-_etymology_: the larger northern territory is named for the Bosna River; the smaller southern section takes its name from the German word "herzog," meaning "duke," and the ending "-ovina," meaning "land," forming the combination denoting "dukedom"<br>
+_etymology_: the larger northern territory is named for the Bosna River; the smaller southern section takes its name from the Old Serbian word <em>herceg</em>, meaning "duke," combined with the possessive -<em>ov </em>and the suffix -<em>ina</em>, meaning "country," to denote "dukedom"<br>
 
 **Government type**<br>
 parliamentary republic<br>
@@ -639,10 +639,10 @@ _annual freight traffic on registered air carriers_: 87 (2015) mt-km<br>
 T9<br>
 
 **Airports**<br>
-13 (2024)<br>
+20 (2025)<br>
 
 **Heliports**<br>
-3 (2024)<br>
+3 (2025)<br>
 
 **Pipelines**<br>
 147 km gas, 9 km oil (2013)<br>

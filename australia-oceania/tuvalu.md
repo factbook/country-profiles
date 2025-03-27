@@ -167,7 +167,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 20% of GDP (2021)<br>
 
 **Physician density**<br>
-1.19 physicians/1,000 population (2020)<br>
+1.35 physicians/1,000 population (2020)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 91.8% of population<br>
@@ -509,7 +509,7 @@ _subscriptions per 100 inhabitants_: 5 (2022 est.)<br>
 T2<br>
 
 **Airports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Roadways**<br>
 _total_: 16 km (2022)<br>

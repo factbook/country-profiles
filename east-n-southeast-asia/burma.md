@@ -189,7 +189,7 @@ _unimproved: total_: total: 14.7% of population (2020 est.)<br>
 5.6% of GDP (2021)<br>
 
 **Physician density**<br>
-0.74 physicians/1,000 population (2019)<br>
+0.76 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
 1 beds/1,000 population (2017)<br>
@@ -306,7 +306,7 @@ _conventional short form_: Burma<br>
 _local long form_: Pyidaungzu Thammada Myanma Naingngandaw (translated as the Republic of the Union of Myanmar)<br>
 _local short form_: Myanma Naingngandaw<br>
 _former_: Socialist Republic of the Union of Burma, Union of Myanmar<br>
-_etymology_: both "Burma" and "Myanmar" derive from the name of the majority Burman (Bamar) ethnic group<br>
+_etymology_: both "Burma" and "Myanmar" derive from the name of the majority Burman (Bamar) ethnic group, with the term <em>myanma</em>, or "the strong," being the group's name for itself<br>
 <strong>note:</strong> since 1989 the military authorities in Burma and the deposed parliamentary government have promoted the name Myanmar as a conventional name for their state; the US Government has not officially adopted the name<br>
 
 **Government type**<br>
@@ -651,10 +651,10 @@ _annual freight traffic on registered air carriers_: 4.74 million (2018) mt-km<b
 XY<br>
 
 **Airports**<br>
-73 (2024)<br>
+74 (2025)<br>
 
 **Heliports**<br>
-6 (2024)<br>
+6 (2025)<br>
 
 **Pipelines**<br>
 3,739 km gas, 1321 km oil (2017)<br>

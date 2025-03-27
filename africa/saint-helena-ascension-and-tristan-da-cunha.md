@@ -168,9 +168,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.9% of population (2020)<br>
 
-**Physician density**<br>
-NA<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
@@ -264,7 +261,7 @@ _elections/appointments_: none; the monarchy is hereditary; governor appointed b
 _highest court(s)_: Court of Appeal (consists of the court president and 2 justices); Supreme Court (consists of the chief justice and judges)<br>
 _judge selection and term of office_: Court of Appeal and Supreme Court justices appointed by the governor acting upon the instructions from a secretary of state acting on behalf of the British monarch; justices of both courts serve until retirement at age 70, but terms can be extended<br>
 _subordinate courts_: Magistrates' Court; Small Claims Court; Juvenile Court<br>
-<strong>note</strong>: appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
+<strong>note:</strong> appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
 
 **Political parties**<br>
 none<br>
@@ -282,7 +279,7 @@ _embassy_: none (overseas territory of the UK)<br>
 blue with the flag of the UK in the upper hoist-side quadrant and the Saint Helenian shield centered on the outer half of the flag; the upper third of the shield depicts a white plover (wire bird) on a yellow field; the remainder of the shield depicts a rocky coastline on the left, offshore is a three-masted sailing ship with sails furled but flying an English flag<br>
 
 **National symbol(s)**<br>
-Saint Helena plover (bird)<br>
+Saint Helena plover (wire bird)<br>
 
 **National anthem**<br>
 <p><strong>note:</strong> as an overseas territory of the UK, "God Save the King" is official (see United Kingdom)</p><br>
@@ -385,10 +382,10 @@ Ascension Island hosts one of four dedicated ground antennas that assist in the 
 VQ-H<br>
 
 **Airports**<br>
-2 (2024)<br>
+2 (2025)<br>
 
 **Heliports**<br>
-2 (2024)<br>
+2 (2025)<br>
 
 **Roadways**<br>
 _total_: 198 km (Saint Helena 138 km, Ascension 40 km, Tristan da Cunha 20 km)<br>

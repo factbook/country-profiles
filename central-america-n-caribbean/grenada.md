@@ -164,7 +164,7 @@ _unimproved: total_: total: 3.2% of population (2017 est.)<br>
 5.7% of GDP (2021)<br>
 
 **Physician density**<br>
-1.44 physicians/1,000 population (2018)<br>
+1.38 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
 3.6 beds/1,000 population (2017)<br>
@@ -258,7 +258,7 @@ _agricultural_: 2.1 million cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: none<br>
 _conventional short form_: Grenada<br>
-_etymology_: derivation of the name remains obscure; some sources attribute the designation to Spanish influence (most likely named for the Spanish city of Granada), with subsequent French and English interpretations resulting in the present-day Grenada; in Spanish "granada" means "pomegranate"<br>
+_etymology_: origin of the name remains obscure; some sources attribute the designation to Spanish influence (most likely named for the Spanish city of Granada); in Spanish <em>granada </em>means "pomegranate"<br>
 
 **Government type**<br>
 parliamentary democracy under a constitutional monarchy; a Commonwealth realm<br>
@@ -577,7 +577,7 @@ _subscriptions per 100 inhabitants_: 30 (2022 est.)<br>
 J3<br>
 
 **Airports**<br>
-2 (2024)<br>
+2 (2025)<br>
 
 **Roadways**<br>
 _total_: 1,127 km<br>

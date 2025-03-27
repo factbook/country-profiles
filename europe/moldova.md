@@ -180,7 +180,7 @@ _unimproved: total_: total: 7.9% of population (2020 est.)<br>
 7.8% of GDP (2021)<br>
 
 **Physician density**<br>
-3.1 physicians/1,000 population (2020)<br>
+4.02 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 5.7 beds/1,000 population (2014)<br>
@@ -351,7 +351,7 @@ _expected date of next election_: July 2025<br>
 _highest court(s)_: Supreme Court of Justice (consists of the chief judge, 3 deputy-chief judges, 45 judges, and 7 assistant judges); Constitutional Court (consists of the court president and 6 judges)<br>
 _judge selection and term of office_: Supreme Court of Justice judges appointed by the president on the recommendation of the Superior Council of Magistracy, an 11-member body of judicial officials; all judges serve 4-year renewable terms; Constitutional Court judges appointed 2 each by Parliament, the president, and the Higher Council of Magistracy for 6-year terms; court president elected by other court judges for a 3-year term<br>
 _subordinate courts_: Courts of Appeal; Court of Business Audit; municipal courts<br>
-<strong>note</strong>: the Constitutional Court is autonomous; it interprets the Constitution and reviews the constitutionality of parliamentary laws and decisions, decrees of the president, and acts of the government<br>
+<strong>note:</strong> the Constitutional Court is autonomous; it interprets the Constitution and reviews the constitutionality of parliamentary laws and decisions, decrees of the president, and acts of the government<br>
 
 **Political parties**<br>
 <p>Bloc of Communists and Socialists or BCS<br>Party of Action and Solidarity or PAS</p><br>
@@ -634,7 +634,10 @@ _annual freight traffic on registered air carriers_: 640,000 (2018) mt-km<br>
 ER<br>
 
 **Airports**<br>
-11 (2024)<br>
+10 (2025)<br>
+
+**Heliports**<br>
+1 (2025)<br>
 
 **Pipelines**<br>
 2,026 km gas (2021) (2021)<br>

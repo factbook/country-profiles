@@ -179,7 +179,7 @@ _unimproved: total_: total: 16% of population (2020 est.)<br>
 16.6% of GDP (2021)<br>
 
 **Physician density**<br>
-0.05 physicians/1,000 population (2018)<br>
+0.18 physicians/1,000 population (2022)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 68% of population<br>
@@ -354,7 +354,7 @@ _expected date of next election_: October 2029<br>
 _highest court(s)_: Supreme Court (consists of a chief justice and 4 associate justices)<br>
 _judge selection and term of office_: chief justice and associate justices appointed by the president of Liberia with consent of the Senate; judges can serve until age 70<br>
 _subordinate courts_: judicial circuit courts; special courts, including criminal, civil, labor, traffic; magistrate and traditional or customary courts<br>
-<strong>note</strong>: the Supreme Court has jurisdiction for all constitutional cases<br>
+<strong>note: </strong>the Supreme Court has jurisdiction for all constitutional cases<br>
 
 **Political parties**<br>
 All Liberian Party or ALP <br>Alliance for Peace and Democracy or APD <br>Alternative National Congress or ANC <br>Coalition for Democratic Change (includes CDC, NPP, and LPDP)<br>Collaborating Political Parties or CPP (coalition includes ANC, LP; CPP dissolved in April 2024)<br>Congress for Democratic Change or CDC <br>Liberia Destiny Party or LDP <br>Liberia National Union or LINU <br>Liberia Transformation Party or LTP <br>Liberian People Democratic Party or LPDP <br>Liberian People's Party or LPP <br>Liberian Restoration Party or LRP <br>Liberty Party or LP <br>Movement for Democracy and Reconstruction or MDR <br>Movement for Economic Empowerment <br>Movement for Progressive Change or MPC <br>National Democratic Coalition or NDC <br>National Democratic Party of Liberia or NDPL <br>National Patriotic Party or NPP <br>National Reformist Party or NRP <br>National Union for Democratic Progress or NUDP <br>People's Unification Party or PUP <br>Unity Party or UP <br>United People's Party <br>Victory for Change Party or VCP <br>
@@ -606,7 +606,7 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 A8<br>
 
 **Airports**<br>
-19 (2024)<br>
+19 (2025)<br>
 
 **Pipelines**<br>
 4 km oil (2013)<br>

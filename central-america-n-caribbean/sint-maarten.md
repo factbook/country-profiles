@@ -150,9 +150,6 @@ NA<br>
 _improved: total_: total: 95.1% of population<br>
 _unimproved: total_: total: 4.9% of population (2017)<br>
 
-**Physician density**<br>
-NA<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
@@ -407,7 +404,7 @@ _percent of population_: 89.5% (2022)<br>
 ## Transportation
 
 **Airports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Roadways**<br>
 _total_: 53 km<br>

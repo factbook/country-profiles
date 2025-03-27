@@ -190,7 +190,7 @@ _unimproved: total_: total: 4.9% of population (2020 est.)<br>
 5.4% of GDP (2021)<br>
 
 **Physician density**<br>
-2.23 physicians/1,000 population (2019)<br>
+3.11 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 4.3 beds/1,000 population (2017)<br>
@@ -318,7 +318,7 @@ _conventional short form_: China<br>
 _local long form_: Zhonghua Renmin Gongheguo<br>
 _local short form_: Zhongguo<br>
 _abbreviation_: PRC<br>
-_etymology_: English name derives from the Qin (Chin) rulers of the 3rd century B.C., who comprised the first imperial dynasty of ancient China; the Chinese name Zhongguo translates as "Central Nation" or "Middle Kingdom"<br>
+_etymology_: English name could be derived from the Qin (Chin, Ts'in) rulers in the 3rd century B.C., or from the province of Shaanxi (Shensi) with its capital of Xi'an (Sian); the Chinese name Zhongguo translates as "Central Nation" or "Middle Country"<br>
 
 **Government type**<br>
 communist party-led state<br>
@@ -614,9 +614,9 @@ _hydroelectricity_: 15.1% of total installed capacity (2022 est.)<br>
 _biomass and waste_: 2.1% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 56 (2023)<br>
-_Number of nuclear reactors under construction_: 25 (2023)<br>
-_Net capacity of operational nuclear reactors_: 54.15GW (2023 est.)<br>
+_Number of operational nuclear reactors_: 57 (2025)<br>
+_Number of nuclear reactors under construction_: 28 (2025)<br>
+_Net capacity of operational nuclear reactors_: 55.32GW (2025 est.)<br>
 _Percent of total electricity production_: 4.9% (2023 est.)<br>
 
 **Coal**<br>
@@ -687,10 +687,10 @@ _annual freight traffic on registered air carriers_: 611,439,830 (2018) mt-km<br
 B<br>
 
 **Airports**<br>
-531 (2024)<br>
+552 (2025)<br>
 
 **Heliports**<br>
-104 (2024)<br>
+120 (2025)<br>
 
 **Pipelines**<br>
 76,000 km gas, 30,400 km crude oil, 27,700 km refined petroleum products, 797,000 km water (2018)<br>

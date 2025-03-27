@@ -643,10 +643,10 @@ _annual passenger traffic on registered air carriers_: 303,137 (2018)<br>
 ZA<br>
 
 **Airports**<br>
-3 (2024)<br>
+3 (2025)<br>
 
 **Heliports**<br>
-9 (2024)<br>
+9 (2025)<br>
 
 **Pipelines**<br>
 498 km gas (a majority of the network is in disrepair and parts of it are missing), 249 km oil (2015)<br>

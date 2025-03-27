@@ -78,7 +78,7 @@ the Arctic fishery region (Region 18) is the smallest in the world with a catch 
 ## Government
 
 **Country name**<br>
-_etymology_: the name Arctic comes from the Greek word <em>arktikos </em>meaning "near the bear" or "northern," and that word derives from <em>arktos</em>, meaning "bear"; the name refers either to the constellation Ursa Major, the "Great Bear," which is prominent in the northern celestial sphere, or to the constellation Ursa Minor, the "Little Bear," which contains Polaris, the North (Pole) Star<br>
+_etymology_: the name comes from the Greek word <em>arktikos </em>meaning "near the bear" or "northern," and that word derives from <em>arktos</em>, meaning "bear"; the name refers either to the constellation Ursa Major, the "Great Bear," which is prominent in the northern celestial sphere, or to the constellation Ursa Minor, the "Little Bear," which contains Polaris, the North (Pole) Star<br>
 
 ## Economy
 

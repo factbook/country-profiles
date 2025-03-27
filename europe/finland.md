@@ -184,7 +184,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 10.2% of GDP (2021)<br>
 
 **Physician density**<br>
-4.64 physicians/1,000 population (2018)<br>
+3.61 physicians/1,000 population (2021)<br>
 
 **Hospital bed density**<br>
 3.6 beds/1,000 population (2018)<br>
@@ -296,7 +296,7 @@ _conventional long form_: Republic of Finland<br>
 _conventional short form_: Finland<br>
 _local long form_: Suomen tasavalta (Finnish)/ Republiken Finland (Swedish)<br>
 _local short form_: Suomi (Finnish)/ Finland (Swedish)<br>
-_etymology_: name may derive from the ancient Fenni peoples who are first described as living in northeastern Europe in the first centuries A.D.<br>
+_etymology_: name derives from the Finns, an ethnic group in northeastern Europe; their name comes from the Germanic word <em>finna</em>, meaning "fish scale;" the local name, Suomi, may come from two local words: <em>suo</em>, meaning "marsh," and <em>maa</em>, meaning "land"<br>
 
 **Government type**<br>
 parliamentary republic<br>
@@ -584,9 +584,9 @@ _hydroelectricity_: 19.2% of total installed capacity (2022 est.)<br>
 _biomass and waste_: 19% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 5 (2023)<br>
-_Net capacity of operational nuclear reactors_: 4.93GW (2023 est.)<br>
-_Percent of total electricity production_: 42% (2023 est.)<br>
+_Number of operational nuclear reactors_: 5 (2025)<br>
+_Net capacity of operational nuclear reactors_: 4.37GW (2025 est.)<br>
+_Percent of total electricity production_: 42% (2025 est.)<br>
 
 **Coal**<br>
 _production_: 808,000 metric tons (2022 est.)<br>
@@ -653,10 +653,10 @@ _annual freight traffic on registered air carriers_: 957.64 million (2018) mt-km
 OH<br>
 
 **Airports**<br>
-98 (2024)<br>
+98 (2025)<br>
 
 **Heliports**<br>
-15 (2024)<br>
+17 (2025)<br>
 
 **Pipelines**<br>
 1,288 km gas transmission pipes, 1,976 km distribution pipes (2016)<br>

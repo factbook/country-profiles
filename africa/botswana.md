@@ -181,7 +181,7 @@ _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 6.3% of GDP (2021)<br>
 
 **Physician density**<br>
-0.38 physicians/1,000 population (2018)<br>
+0.38 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 1.8 beds/1,000 population<br>
@@ -294,7 +294,7 @@ _conventional short form_: Botswana<br>
 _local long form_: Republic of Botswana<br>
 _local short form_: Botswana<br>
 _former_: Bechuanaland<br>
-_etymology_: the name Botswana means "Land of the Tswana" - referring to the country's largest ethnic group<br>
+_etymology_: the name Botswana means "Land of the Tswana," referring to the country's largest ethnic group<br>
 
 **Government type**<br>
 parliamentary republic<br>
@@ -638,7 +638,7 @@ _annual freight traffic on registered air carriers_: 110,000 (2018) mt-km<br>
 A2<br>
 
 **Airports**<br>
-122 (2024)<br>
+122 (2025)<br>
 
 **Railways**<br>
 _total_: 888 km (2014)<br>

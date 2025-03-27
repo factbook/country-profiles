@@ -591,10 +591,10 @@ _annual freight traffic on registered air carriers_: 7.79 million (2018) mt-km<b
 S7<br>
 
 **Airports**<br>
-16 (2024)<br>
+16 (2025)<br>
 
 **Heliports**<br>
-6 (2024)<br>
+6 (2025)<br>
 
 **Roadways**<br>
 _total_: 526 km<br>

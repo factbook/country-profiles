@@ -190,7 +190,7 @@ _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 6.1% of GDP (2021)<br>
 
 **Physician density**<br>
-2.43 physicians/1,000 population (2019)<br>
+2.59 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 1 beds/1,000 population (2018)<br>
@@ -396,7 +396,7 @@ _expected date of next election_: June 2030<br>
 _highest court(s)_: Supreme Court of Justice or Suprema Corte de Justicia de la Naci&oacute;n (consists of the chief justice and 11 justices and organized into civil, criminal, administrative, and labor panels) and the Electoral Tribunal of the Federal Judiciary (organized into the superior court, with 7 judges including the court president, and 5 regional courts, each with 3 judges)<br>
 _judge selection and term of office_: Supreme Court justices nominated by the president of the republic and approved by two-thirds vote of the members present in the Senate; justices serve 15-year terms; Electoral Tribunal superior and regional court judges nominated by the Supreme Court and elected by two-thirds vote of members present in the Senate; superior court president elected from among its members to hold office for a 4-year term; other judges of the superior and regional courts serve staggered, 9-year terms<br>
 _subordinate courts_: federal level includes circuit, collegiate, and unitary courts; state and district level courts<br>
-<strong>note</strong>: in April 2021, the Mexican congress passed a judicial reform which changed 7 articles of the constitution and preceded a new Organic Law on the Judicial Branch of the Federation<br>
+<strong>note:</strong> in April 2021, the Mexican congress passed a judicial reform which changed 7 articles of the constitution and preceded a new Organic Law on the Judicial Branch of the Federation<br>
 
 **Political parties**<br>
 <p>Citizen's Movement (Movimiento Ciudadano) or MC<br>Institutional Revolutionary Party (Partido Revolucionario Institucional) or PRI<br>Labor Party (Partido del Trabajo) or PT<br>Mexican Green Ecological Party (Partido Verde Ecologista de México) or PVEM<br>Movement for National Regeneration (Movimiento Regeneración Nacional) or MORENA<br>National Action Party (Partido Acción Nacional) or PAN<br>Party of the Democratic Revolution (Partido de la Revolución Democrática) or PRD<br>This Is For Mexico (Va Por México) (alliance that includes PAN, PRI, and PRD)<br>Together We Make History (Juntos Hacemos Historia) (alliance that included MORENA, PT, PVEM) (dissolved 23 December 2020)<br><br></p><br>
@@ -632,8 +632,8 @@ _geothermal_: 1.5% of total installed capacity (2022 est.)<br>
 _biomass and waste_: 0.6% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 2 (2023)<br>
-_Net capacity of operational nuclear reactors_: 1.55GW (2023 est.)<br>
+_Number of operational nuclear reactors_: 2 (2025)<br>
+_Net capacity of operational nuclear reactors_: 1.55GW (2025 est.)<br>
 _Percent of total electricity production_: 4.9% (2023 est.)<br>
 
 **Coal**<br>
@@ -704,10 +704,10 @@ _annual freight traffic on registered air carriers_: 1,090,380,000 (2018) mt-km<
 XA<br>
 
 **Airports**<br>
-1,485 (2024)<br>
+1,580 (2025)<br>
 
 **Heliports**<br>
-460 (2024)<br>
+488 (2025)<br>
 
 **Pipelines**<br>
 17,210 km natural gas (2022), 9,757 km oil (2017), 10,237 km refined products (2020)<br>

@@ -177,7 +177,7 @@ _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 6.9% of GDP (2022)<br>
 
 **Physician density**<br>
-3.47 physicians/1,000 population (2019)<br>
+3.47 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 4.6 beds/1,000 population (2018)<br>
@@ -284,7 +284,7 @@ _conventional short form_: Estonia<br>
 _local long form_: Eesti Vabariik<br>
 _local short form_: Eesti<br>
 _former_: Estonian Soviet Socialist Republic (while occupied by the USSR)<br>
-_etymology_: the country name may derive from the Aesti, an ancient people who lived along the eastern Baltic Sea in the first centuries A.D.<br>
+_etymology_: derives from the name of the people who lived along the eastern Baltic Sea in the first centuries A.D., which came from the Baltic word <em>aueist</em>, meaning "waterside dwellers"<br>
 
 **Government type**<br>
 parliamentary republic<br>
@@ -632,10 +632,10 @@ _annual passenger traffic on registered air carriers_: 31,981 (2018)<br>
 ES<br>
 
 **Airports**<br>
-26 (2024)<br>
+34 (2025)<br>
 
 **Heliports**<br>
-2 (2024)<br>
+10 (2025)<br>
 
 **Pipelines**<br>
 2,360 km gas (2016)<br>

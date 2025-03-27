@@ -185,7 +185,7 @@ _unimproved: total_: total: 6.4% of population (2020 est.)<br>
 5.4% of GDP (2021)<br>
 
 **Physician density**<br>
-2.21 physicians/1,000 population (2014)<br>
+1.85 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 4.4 beds/1,000 population (2014)<br>
@@ -648,10 +648,10 @@ _annual passenger traffic on registered air carriers_: 709,198 (2018)<br>
 EX<br>
 
 **Airports**<br>
-28 (2024)<br>
+28 (2025)<br>
 
 **Heliports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Pipelines**<br>
 4,195 km gas (2022), 16 km oil (2022) (2022)<br>

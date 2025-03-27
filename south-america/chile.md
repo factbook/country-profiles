@@ -181,7 +181,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 9% of GDP (2022)<br>
 
 **Physician density**<br>
-2.84 physicians/1,000 population (2020)<br>
+3.33 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 2.1 beds/1,000 population (2018)<br>
@@ -291,7 +291,7 @@ _conventional long form_: Republic of Chile<br>
 _conventional short form_: Chile<br>
 _local long form_: Rep&uacute;blica de Chile<br>
 _local short form_: Chile<br>
-_etymology_: derivation of the name is unclear, but it may come from the Mapuche word "chilli" meaning "limit of the earth" or from the Quechua "chiri" meaning "cold"<br>
+_etymology_: derivation of the name is unclear; it may come from a local word meaning either "land's end" or "cold," or a local word that was confused with the Mexican Spanish word <em>chili</em>, meaning a chili pepper, in reference to the area's shape<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -660,10 +660,10 @@ _annual freight traffic on registered air carriers_: 1,226,440,000 (2018) mt-km<
 CC<br>
 
 **Airports**<br>
-374 (2024)<br>
+379 (2025)<br>
 
 **Heliports**<br>
-114 (2024)<br>
+115 (2025)<br>
 
 **Pipelines**<br>
 3,160 km gas, 781 km liquid petroleum gas, 985 km oil, 722 km refined products (2013)<br>

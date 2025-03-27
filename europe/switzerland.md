@@ -184,7 +184,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 11.8% of GDP (2021)<br>
 
 **Physician density**<br>
-4.38 physicians/1,000 population (2020)<br>
+4.48 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 4.6 beds/1,000 population (2018)<br>
@@ -375,7 +375,7 @@ _expected date of next election_: October 2027<br>
 _highest court(s)_: Federal Supreme Court (consists of 38 justices and 19 deputy justices organized into 7 divisions)<br>
 _judge selection and term of office_: judges elected by the Federal Assembly for 6-year terms; judges are affiliated with political parties and are elected according to linguistic and regional criteria in approximate proportion to party representation in the Federal Assembly<br>
 _subordinate courts_: Federal Criminal Court (established in 2004); Federal Administrative Court (established in 2007)<br>
- <strong>note</strong>: each of Switzerland's 26 cantons has its own courts<br>
+<strong>note: </strong>each of Switzerland's 26 cantons has its own courts<br>
 
 **Political parties**<br>
 The Center (Die Mitte, Alleanza del Centro, Le Centre, Allianza dal Center) (merger of the Christian Democratic People's Party and the Conservative Democratic Party)<br>Evangelical Peoples' Party or EVP/PEV <br>Federal Democrats or EDU <br>Geneva Citizens Movement or MCR/MCG <br>Green Liberal Party (Gruenliberale Partei or GLP, Parti vert liberale or PVL, Partito Verde-Liberale or PVL, Partida Verde Liberale or PVL) <br>Green Party (Gruene Partei der Schweiz or Gruene, Parti Ecologiste Suisse or Les Verts, Partito Ecologista Svizzero or I Verdi, Partida Ecologica Svizra or La Verda)<br>The Liberals or FDP.The Liberals (FDP.Die Liberalen, PLR.Les Liberaux-Radicaux, PLR.I Liberali, Ils Liberals)<br>Social Democratic Party (Sozialdemokratische Partei der Schweiz or SP, Parti Socialiste Suisse or PSS, Partito Socialista Svizzero or PSS, Partida Socialdemocratica de la Svizra or PSS) <br>Swiss People's Party (Schweizerische Volkspartei or SVP, Union Democratique du Centre or UDC, Unione Democratica di Centro or UDC, Uniun Democratica dal Center or UDC) <br>
@@ -602,10 +602,10 @@ _hydroelectricity_: 48% of total installed capacity (2022 est.)<br>
 _biomass and waste_: 5% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 4 (2023)<br>
-_Net capacity of operational nuclear reactors_: 2.97GW (2023 est.)<br>
+_Number of operational nuclear reactors_: 4 (2025)<br>
+_Net capacity of operational nuclear reactors_: 2.97GW (2025 est.)<br>
 _Percent of total electricity production_: 32.4% (2023 est.)<br>
-_Number of nuclear reactors permanently shut down_: 2 (2023)<br>
+_Number of nuclear reactors permanently shut down_: 2 (2025)<br>
 
 **Coal**<br>
 _consumption_: 161,000 metric tons (2022 est.)<br>
@@ -669,10 +669,10 @@ _annual freight traffic on registered air carriers_: 1,841,310,000 (2018) mt-km<
 HB<br>
 
 **Airports**<br>
-62 (2024)<br>
+66 (2025)<br>
 
 **Heliports**<br>
-51 (2024)<br>
+52 (2025)<br>
 
 **Pipelines**<br>
 1,800 km gas, 94 km oil (of which 60 are inactive), 17 km refined products (2017)<br>

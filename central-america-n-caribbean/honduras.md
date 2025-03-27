@@ -183,7 +183,7 @@ _unimproved: total_: total: 3.9% of population (2020 est.)<br>
 9.2% of GDP (2021)<br>
 
 **Physician density**<br>
-0.5 physicians/1,000 population (2020)<br>
+0.49 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 0.6 beds/1,000 population (2017)<br>
@@ -350,7 +350,7 @@ _expected date of next election_: November 2025<br>
 _highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (15 principal judges, including the court president, and 6 alternates; court organized into civil, criminal, constitutional, and labor chambers)<br>
 _judge selection and term of office_: court president elected by his peers; judges elected by the National Congress from candidates proposed by the Nominating Board, a diverse 7-member group of judicial officials and other government and non-government officials nominated by each of their organizations; judges elected by Congress for renewable, 7-year terms<br>
 _subordinate courts_: courts of appeal; courts of first instance; justices of the peace<br>
-<strong>note</strong>: the Supreme Court has both judicial and constitutional jurisdiction<br>
+<strong>note:</strong> the Supreme Court has both judicial and constitutional jurisdiction<br>
 
 **Political parties**<br>
 Anti-Corruption Party or PAC<br>Christian Democratic Party or DC<br>Democratic Liberation of Honduras or Liderh<br>Democratic Unification Party or UD<br>The Front or El Frente<br>Honduran Patriotic Alliance or AP<br>Innovation and Unity Party or PINU<br>Liberal Party or PL<br>Liberty and Refoundation Party or LIBRE<br>National Party of Honduras or PNH<br>New Route or NR<br>Opposition Alliance against the Dictatorship or Alianza de Oposicion contra la Dictadura (electoral coalition)<br>Savior Party of Honduras or PSH<br>Vamos or Let’s Go<br>We Are All Honduras (Todos Somos Honduras) or TSH<br>
@@ -635,10 +635,10 @@ _annual freight traffic on registered air carriers_: 450,000 (2018) mt-km<br>
 HR<br>
 
 **Airports**<br>
-129 (2024)<br>
+129 (2025)<br>
 
 **Heliports**<br>
-6 (2024)<br>
+6 (2025)<br>
 
 **Railways**<br>
 _total_: 699 km (2014)<br>

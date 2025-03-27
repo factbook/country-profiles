@@ -178,7 +178,7 @@ _unimproved: total_: total: 23.5% of population (2020 est.)<br>
 3.5% of GDP (2021)<br>
 
 **Physician density**<br>
-0.23 physicians/1,000 population (2018)<br>
+0.29 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 0.7 beds/1,000 population (2013)<br>
@@ -362,7 +362,7 @@ _expected date of next election_: December 2025<br>
 _highest court(s)_: Supreme Court or Cour de cassation (consists of 12 judges)<br>
 _judge selection and term of office_: judges appointed by the president from candidate lists submitted by the Senate of the National Assembly<br>
 _subordinate courts_: Courts of Appeal; Courts of First Instance; magistrate's courts; land, labor, and children's courts<br>
-<strong>note</strong>: the Superior Council of the Judiciary or Conseil Supérieur du Pouvoir Judiciaire is a 9-member body charged with the administration and oversight of the judicial branch of government<br><br><strong>note</strong>: Haiti is a member of the Caribbean Court of Justice, the Constitutional Court (called for in the 1987 constitution but not yet established), and the High Court of Justice, for trying high government officials (currently not functional)<br><br><strong>note</strong>: Article 174 of Haiti's constitution states that judges of the Supreme Court are appointed for 10 years, whereas Article 177 states that judges of the Supreme Court are appointed for life<br>
+<strong>note:</strong> the Superior Council of the Judiciary or Conseil Supérieur du Pouvoir Judiciaire is a 9-member body charged with the administration and oversight of the judicial branch of government<br><br><strong>note: </strong>Haiti is a member of the Caribbean Court of Justice, the Constitutional Court (called for in the 1987 constitution but not yet established), and the High Court of Justice, for trying high government officials (currently not functional)<br><br><strong>note</strong>: Article 174 of Haiti's constitution states that judges of the Supreme Court are appointed for 10 years, whereas Article 177 states that judges of the Supreme Court are appointed for life<br>
 
 **Political parties**<br>
 Alternative League for Haitian Progress and Emancipation (Ligue Alternative pour le Progres et l’Emancipation Haitienne) or LAPEH<br>Christian Movement for a New Haiti or MCNH or Mochrenha<br>Christian National Movement for the Reconstruction of Haiti or UNCRH<br>Combat of Peasant Workers to Liberate Haiti (Konbit Travaye Peyizan Pou Libere Ayiti) or Kontra Pep La <br>Convention for Democratic Unity or KID<br>Cooperative Action to Rebuild Haiti or KONBA<br>December 16 Platform or Platfom 16 Desanm<br>Democratic Alliance Party or ALYANS (coalition includes KID and PPRH)<br>Democratic Centers' National Council or CONACED<br>Democratic and Popular Sector (Secteur Democratique et Populaire) or SDP<br>Democratic Unity Convention (Konvansyon Inite Demokratik) or KID<br>Dessalinian Patriotic and Popular Movement or MOPOD<br>Effort and Solidarity to Create an Alternative for the People or ESKAMP<br>Fanmi Lavalas or FL<br>Forward (En Avant)<br>Fusion of Haitian Social Democrats (Fusion Des Sociaux-Démocrates Haïtiens) or FHSD<br>G18 Policy Platform (Plateforme Politique G18)<br>Haiti in Action (Ayiti An Aksyon Haiti's Action) or AAA<br>Haitian Tet Kale Party (Parti Haitien Tet Kale) or PHTK<br>Independent Movement for National Reconciliation or MIRN<br>Lavni Organization or LAVNI<br>Lod Demokratik<br>Love Haiti (Renmen Ayiti) or RA<br>MTV Ayiti<br>National Consortium of Haitian Political Parties (Consortium National des Partis Politiques Haitiens) or CNPPH <br>National Shield Network (Reseau Bouclier National)<br>Organization of the People's Struggle (Oganizasyon Pep Kap Lite) or OPL<br>Patriotic Unity (Inite Patriyotik) or Inite<br>Platform Pitit Desalin (Politik Pitit Dessalines) or PPD<br>Political Party for Us All or Bridge (Pont) or Pou Nou Tout<br>Popular Patriotic Dessalinien Movement (Mouvement Patriotique Populaire Dessalinien) or MOPOD<br>Rally of Progressive National Democrats (Rassemblement des Democrates Nationaux Progressistes) or RDNP<br>Respe (Respect)<br>Women and Families Political Parties (Defile Pati Politik Fanm Ak Fanmi)<br>
@@ -617,10 +617,10 @@ _inventory of registered aircraft operated by air carriers_: 1<br>
 HH<br>
 
 **Airports**<br>
-17 (2024)<br>
+17 (2025)<br>
 
 **Heliports**<br>
-1 (2024)<br>
+2 (2025)<br>
 
 **Roadways**<br>
 _total_: 3,875 km (2022)<br>

@@ -174,7 +174,7 @@ _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 6.3% of GDP (2021)<br>
 
 **Physician density**<br>
-0.95 physicians/1,000 population (2020)<br>
+1.01 physicians/1,000 population (2021)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.4% of population<br>
@@ -336,7 +336,7 @@ _expected date of next election_: November 2025<br>
 _highest court(s)_: Court of Appeal (consists of the court president and a number of judges determined by the monarch)<br>
 _judge selection and term of office_: judge appointments and tenures made by the King in Privy Council and subject to consent of the Legislative Assembly<br>
 _subordinate courts_: Supreme Court; Magistrates' Courts; Land Courts<br>
-<strong>note</strong>: appeals beyond the Court of Appeal are brought before the King in Privy Council, the monarch's advisory organ that has both judicial and legislative powers<br>
+<strong>note:</strong> appeals beyond the Court of Appeal are brought before the King in Privy Council, the monarch's advisory organ that has both judicial and legislative powers<br>
 
 **Political parties**<br>
 Democratic Party of the Friendly Islands or DPFI or PTOA <br>Tonga People's Party (Paati ʻa e Kakai ʻo Tonga) or PAK or TPPI<br>
@@ -587,7 +587,7 @@ _inventory of registered aircraft operated by air carriers_: 1<br>
 A3<br>
 
 **Airports**<br>
-6 (2024)<br>
+6 (2025)<br>
 
 **Roadways**<br>
 _total_: 680 km<br>

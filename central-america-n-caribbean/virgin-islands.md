@@ -162,9 +162,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 1.3% of population (2020 est.)<br>
 
-**Physician density**<br>
-NA<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
@@ -446,10 +443,10 @@ _subscriptions per 100 inhabitants_: 10 (2022 est.)<br>
 ## Transportation
 
 **Airports**<br>
-2 (2024)<br>
+2 (2025)<br>
 
 **Heliports**<br>
-3 (2024)<br>
+4 (2025)<br>
 
 **Roadways**<br>
 _total_: 1,260 km (2008)<br>

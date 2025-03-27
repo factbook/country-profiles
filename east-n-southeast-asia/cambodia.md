@@ -189,7 +189,7 @@ _unimproved: total_: total: 14.9% of population (2020 est.)<br>
 7.5% of GDP (2021)<br>
 
 **Physician density**<br>
-0.19 physicians/1,000 population (2014)<br>
+0.21 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
 1.9 beds/1,000 population (2016)<br>
@@ -295,7 +295,7 @@ _conventional short form_: Cambodia<br>
 _local long form_: Preahreacheanachakr Kampuchea (phonetic transliteration)<br>
 _local short form_: Kampuchea<br>
 _former_: Khmer Republic, Democratic Kampuchea, People's Republic of Kampuchea, State of Cambodia<br>
-_etymology_: the English name Cambodia is an anglicization of the French Cambodge, which is the French transliteration of the native name Kampuchea<br>
+_etymology_: the name is derived from Kambu, a legendary ancestor of the Cambodian people<br>
 
 **Government type**<br>
 parliamentary constitutional monarchy<br>
@@ -641,10 +641,10 @@ _annual freight traffic on registered air carriers_: 680,000 (2018) mt-km<br>
 XU<br>
 
 **Airports**<br>
-13 (2024)<br>
+12 (2025)<br>
 
 **Heliports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Railways**<br>
 _total_: 642 km (2014)<br>

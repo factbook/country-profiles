@@ -193,7 +193,7 @@ _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 4.6% of GDP (2021)<br>
 
 **Physician density**<br>
-0.75 physicians/1,000 population (2019)<br>
+0.67 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 1.4 beds/1,000 population (2017)<br>
@@ -306,7 +306,7 @@ _conventional short form_: Egypt<br>
 _local long form_: Jumhuriyat Misr al-Arabiyah<br>
 _local short form_: Misr<br>
 _former_: United Arab Republic (short-lived unification with Syria)<br>
-_etymology_: the English name "Egypt" derives from the ancient Greek name for the country "Aigyptos"; the Arabic name "Misr" can be traced to the ancient Akkadian "misru" meaning border or frontier<br>
+_etymology_: the English name Egypt derives from the ancient Greek name for the country, "Aguptos," and the ancient Roman name, "Aegyptus," with the Greek form coming from the words <em>aia gupos</em>, or "land of the vulture;" the Arabic name for the country, Misr, can be traced to the Assyrian word <em>misir</em>, meaning "fort" <br>
 
 **Government type**<br>
 presidential republic<br>
@@ -611,7 +611,7 @@ _hydroelectricity_: 6.2% of total installed capacity (2022 est.)<br>
 _biomass and waste_: 0.2% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of nuclear reactors under construction_: 4 (2023)<br>
+_Number of nuclear reactors under construction_: 4 (2025)<br>
 
 **Coal**<br>
 _production_: 289,000 metric tons (2022 est.)<br>
@@ -684,10 +684,10 @@ _annual freight traffic on registered air carriers_: 437.63 million (2018) mt-km
 SU<br>
 
 **Airports**<br>
-73 (2024)<br>
+73 (2025)<br>
 
 **Heliports**<br>
-56 (2024)<br>
+60 (2025)<br>
 
 **Pipelines**<br>
 486 km condensate, 74 km condensate/gas, 7,986 km gas, 957 km liquid petroleum gas, 5,225 km oil, 37 km oil/gas/water, 895 km refined products, 65 km water (2013)<br>

@@ -175,7 +175,7 @@ _unimproved: total_: total: 0.1% of population (2020)<br>
 2.2% of GDP (2021)<br>
 
 **Physician density**<br>
-1.61 physicians/1,000 population (2017)<br>
+1.89 physicians/1,000 population (2021)<br>
 
 **Hospital bed density**<br>
 2.9 beds/1,000 population (2017)<br>
@@ -275,7 +275,7 @@ _conventional long form_: Brunei Darussalam<br>
 _conventional short form_: Brunei<br>
 _local long form_: Negara Brunei Darussalam<br>
 _local short form_: Brunei<br>
-_etymology_: derivation of the name is unclear; according to legend, MUHAMMAD SHAH, who would become the first sultan of Brunei, upon discovering what would become Brunei exclaimed "Baru nah," which roughly translates as "there" or "that's it"<br>
+_etymology_: derivation of the name is unclear; the name may come from the Sanskrit word <em>bhumi</em>, meaning "land" or "region" <br>
 
 **Government type**<br>
 absolute monarchy or sultanate<br>
@@ -589,10 +589,10 @@ _annual freight traffic on registered air carriers_: 129.35 million (2018) mt-km
 V8<br>
 
 **Airports**<br>
-2 (2024)<br>
+2 (2025)<br>
 
 **Heliports**<br>
-14 (2024)<br>
+14 (2025)<br>
 
 **Pipelines**<br>
 33 km condensate, 86 km condensate/gas, 628 km gas, 492 km oil (2013)<br>

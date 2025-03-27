@@ -115,6 +115,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0.3% of population<br>
 _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 
+**Physician density**<br>
+1.67 physicians/1,000 population (2021)<br>
+
 **Sanitation facility access**<br>
 _improved: rural_: rural: 100% of population<br>
 

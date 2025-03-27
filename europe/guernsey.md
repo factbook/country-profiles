@@ -209,7 +209,7 @@ _percent of municipal solid waste recycled_: 28.4% (2016 est.)<br>
 _conventional long form_: Bailiwick of Guernsey<br>
 _conventional short form_: Guernsey<br>
 _former_: Norman Isles<br>
-_etymology_: the name is of Old Norse origin, but the meaning of the root "Guern(s)" is uncertain; the "-ey" ending means "island"<br>
+_etymology_: the name is of Old Norse origin; the meaning of the root "Guern(s)" is unclear but may refer to a person's name, Grani, or to the color green; the "-ey" ending means "island"<br>
 
 **Government type**<br>
 parliamentary democracy (States of Deliberation)<br>
@@ -417,7 +417,10 @@ _inventory of registered aircraft operated by air carriers_: 9 (registered in UK
 2<br>
 
 **Airports**<br>
-2 (2024)<br>
+2 (2025)<br>
+
+**Heliports**<br>
+1 (2025)<br>
 
 **Roadways**<br>
 _total_: 260 km (2017)<br>

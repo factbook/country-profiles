@@ -182,7 +182,7 @@ _unimproved: total_: total: 27.2% of population (2020 est.)<br>
 8.6% of GDP (2021)<br>
 
 **Physician density**<br>
-0.07 physicians/1,000 population (2018)<br>
+0.13 physicians/1,000 population (2022)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 79.5% of population<br>
@@ -606,10 +606,10 @@ _annual freight traffic on registered air carriers_: 0 (2015) mt-km<br>
 9L<br>
 
 **Airports**<br>
-8 (2024)<br>
+8 (2025)<br>
 
 **Heliports**<br>
-3 (2024)<br>
+3 (2025)<br>
 
 **Roadways**<br>
 _total_: 11,701 km<br>

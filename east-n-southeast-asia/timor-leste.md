@@ -178,7 +178,7 @@ _unimproved: total_: total: 12.6% of population (2020 est.)<br>
 11.4% of GDP (2021)<br>
 
 **Physician density**<br>
-0.76 physicians/1,000 population (2020)<br>
+0.75 physicians/1,000 population (2020)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 88.7% of population<br>
@@ -602,10 +602,10 @@ _inventory of registered aircraft operated by air carriers_: 2<br>
 4W<br>
 
 **Airports**<br>
-10 (2024)<br>
+11 (2025)<br>
 
 **Heliports**<br>
-2 (2024)<br>
+2 (2025)<br>
 
 **Roadways**<br>
 _total_: 6,040 km<br>

@@ -176,6 +176,9 @@ _unimproved: total_: total: 21.6% of population (2020 est.)<br>
 **Current health expenditure**<br>
 5.9% of GDP (2021)<br>
 
+**Physician density**<br>
+0.04 physicians/1,000 population (2022)<br>
+
 **Sanitation facility access**<br>
 _improved: urban_: urban: 60.6% of population<br>
 _improved: rural_: rural: 15.5% of population<br>
@@ -324,7 +327,7 @@ _expected date of next election_: December 2026<br>
 _highest court(s)_: Supreme Court of South Sudan (consists of a chief justice, deputy chief justice, and 5 additional justices); the 2011 Transitional Constitution of South Sudan calls for 9, rather than 5 additional justices<br>
 _judge selection and term of office_: the 2011 Transitional Constitution of South Sudan calls for the establishment of a Judicial Service Council to recommend prospective justices to the president, and for the justices' tenures to be set by the National Legislature<br>
 _subordinate courts_: national level - Courts of Appeal; High Courts; County Courts; state level - High Courts; County Courts; customary courts; other specialized courts and tribunals<br>
-<strong>note</strong>: in mid-2022, the Government of South Sudan inaugurated an ad-hoc judiciary committee, a 12-member body led by two eminent jurists, that is charged with reviewing relevant laws, advising on judicial reform, and restructuring the judiciary<br>
+<strong>note:</strong> in mid-2022, the Government of South Sudan inaugurated an ad-hoc judiciary committee, a 12-member body led by two eminent jurists, that is charged with reviewing relevant laws, advising on judicial reform, and restructuring the judiciary<br>
 
 **Political parties**<br>
 <p>Democratic Change or DC<br>Democratic Forum or DF<br>Labour Party or LPSS<br>South Sudan Opposition Alliance or SSOA<br>Sudan African National Union or SANU<br>Sudan People's Liberation Movement or SPLM<br>Sudan People’s Liberation Movement-In Opposition or SPLM-IO<br>United Democratic Salvation Front or UDSF    <br>United South Sudan African Party or USSAP<br>United South Sudan Party or USSP</p><br>
@@ -573,10 +576,10 @@ _annual freight traffic on registered air carriers_: 0 mt-km<br>
 Z8<br>
 
 **Airports**<br>
-82 (2024)<br>
+89 (2025)<br>
 
 **Heliports**<br>
-1 (2024)<br>
+2 (2025)<br>
 
 **Railways**<br>
 _total_: 248 km (2018)<br>

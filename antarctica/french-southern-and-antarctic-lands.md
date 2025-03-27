@@ -141,10 +141,10 @@ has one or more meteorological stations on each possession<br>
 ## Transportation
 
 **Airports**<br>
-4 (2024)<br>
+4 (2025)<br>
 
 **Heliports**<br>
-3 (2024)<br>
+3 (2025)<br>
 
 **Merchant marine**<br>
 _total_: 2 (2023)<br>

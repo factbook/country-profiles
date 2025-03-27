@@ -168,7 +168,7 @@ _expected date of next election_: N/A<br>
 _highest court(s)_: Pitcairn Court of Appeal (consists of the court president, 2 judges, and the Supreme Court chief justice, an ex-officio member); Pitcairn Supreme Court (consists of the chief justice and 2 judges)<br>
 _judge selection and term of office_: all judges of both courts appointed by the governor of the Pitcairn Islands on the instructions of the British monarch through the Secretary of State; all judges can serve until retirement, normally at age 75<br>
 _subordinate courts_: Magistrate's Court<br>
-<strong>note</strong>: appeals beyond the Pitcairn Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>
+<strong>note:</strong> appeals beyond the Pitcairn Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>
 
 **Political parties**<br>
 none<br>

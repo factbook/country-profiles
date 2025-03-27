@@ -321,7 +321,7 @@ _email address and website_: <br>acshk@state.gov<br><br>https://hk.usconsulate.g
 red with a stylized, white, five-petal Bauhinia flower in the center; each petal contains a small, red, five-pointed star in its middle; the red color is the same as that on the Chinese flag and represents the motherland; the fragrant Bauhinia - developed in Hong Kong the late 19th century - has come to symbolize the region; the five stars echo those on the flag of China<br>
 
 **National symbol(s)**<br>
-orchid tree flower; national colors: red, white<br>
+bauhinia flower; national colors: red, white<br>
 
 **National anthem**<br>
 <p><strong>note:</strong> as a Special Administrative Region of China, "Yiyongjun Jinxingqu" is the official anthem (see China)</p><br>
@@ -563,10 +563,10 @@ _annual freight traffic on registered air carriers_: 12,676,720,000 (2018) mt-km
 B-H<br>
 
 **Airports**<br>
-3 (2024)<br>
+2 (2025)<br>
 
 **Heliports**<br>
-94 (2024)<br>
+142 (2025)<br>
 
 **Roadways**<br>
 _total_: 2,193 km<br>

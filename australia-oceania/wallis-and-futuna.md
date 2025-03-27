@@ -156,9 +156,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: 0.9% of population<br>
 _unimproved: total_: total: 0.9% of population (2020)<br>
 
-**Physician density**<br>
-NA<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: 92.9% of population<br>
@@ -266,7 +263,7 @@ _parties elected and seats per party_: Ofa mo'oni ki tou fenua (2); Mauli fetoko
 _highest court(s)_: Court of Assizes or Cour d'Assizes (consists of 1 judge; court hears primarily serious criminal cases)<br>
 _judge selection and term of office_: NA<br>
 _subordinate courts_: courts of first instance; labor court<br>
-<strong>note 1</strong>: appeals beyond the Court of Assizes are heard before the Court of Appeal or Cour d'Appel (in Noumea, New Caledonia)<br><br><strong>note 2</strong>: justice is generally administered under French law by the high administrator, but the 3 traditional kings administer customary law<br>
+<strong>note 1:</strong> appeals beyond the Court of Assizes are heard before the Court of Appeal or Cour d'Appel (in Noumea, New Caledonia)<br><br><strong>note 2:</strong> justice is generally administered under French law by the high administrator, but the 3 traditional kings administer customary law<br>
 
 **Political parties**<br>
 Left Radical Party or PRG (formerly Radical Socialist Party or PRS and the Left Radical Movement or MRG)<br>Lua Kae Tahi (Giscardians)<br>Rally for Wallis and Futuna-The Republicans (Rassemblement pour Wallis and Futuna) or RPWF-LR <br>Socialist Party or PS<br>Taumu'a Lelei <br>Union Pour la Democratie Francaise or UDF<br>
@@ -361,7 +358,7 @@ _percent of population_: 45.8% (2021 est.)<br>
 ## Transportation
 
 **Airports**<br>
-2 (2024)<br>
+2 (2025)<br>
 
 **Merchant marine**<br>
 _total_: 1 (2023)<br>

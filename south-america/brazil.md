@@ -190,7 +190,7 @@ _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 9.9% of GDP (2021)<br>
 
 **Physician density**<br>
-2.31 physicians/1,000 population (2019)<br>
+2.36 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 2.1 beds/1,000 population (2017)<br>
@@ -310,7 +310,7 @@ _conventional long form_: Federative Republic of Brazil<br>
 _conventional short form_: Brazil<br>
 _local long form_: Rep&uacute;blica Federativa do Brasil<br>
 _local short form_: Brasil<br>
-_etymology_: the country name derives from the brazilwood tree that used to grow plentifully along the coast of Brazil and that was used to produce a deep red dye<br>
+_etymology_: the country name derives from the brazil tree that used to grow plentifully along the coast of Brazil and that was used to produce a deep red dye<br>
 
 **Government type**<br>
 federal presidential republic<br>
@@ -621,9 +621,9 @@ _hydroelectricity_: 63.3% of total installed capacity (2022 est.)<br>
 _biomass and waste_: 8.4% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 2 (2023)<br>
-_Number of nuclear reactors under construction_: 1 (2023)<br>
-_Net capacity of operational nuclear reactors_: 1.88GW (2023 est.)<br>
+_Number of operational nuclear reactors_: 2 (2025)<br>
+_Number of nuclear reactors under construction_: 1 (2025)<br>
+_Net capacity of operational nuclear reactors_: 1.88GW (2025 est.)<br>
 _Percent of total electricity production_: 2.2% (2023 est.)<br>
 
 **Coal**<br>
@@ -694,10 +694,10 @@ _annual freight traffic on registered air carriers_: 1,845,650,000 (2018) mt-km<
 PP<br>
 
 **Airports**<br>
-4,919 (2024)<br>
+5,297 (2025)<br>
 
 **Heliports**<br>
-1,768 (2024)<br>
+1,871 (2025)<br>
 
 **Pipelines**<br>
 5,959 km refined petroleum product (1,165 km distribution, 4,794 km transport), 11,696 km natural gas (2,274 km distribution, 9,422 km transport), 1,985 km crude oil (distribution), 77 km ethanol/petrochemical (37 km distribution, 40 km transport) (2016)<br>

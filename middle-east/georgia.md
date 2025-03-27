@@ -180,7 +180,7 @@ _unimproved: total_: total: 2.7% of population (2020 est.)<br>
 7.4% of GDP (2022)<br>
 
 **Physician density**<br>
-5.11 physicians/1,000 population (2020)<br>
+5.64 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 2.9 beds/1,000 population (2014)<br>
@@ -288,7 +288,7 @@ _conventional short form_: Georgia<br>
 _local long form_: Republic of Georgia<br>
 _local short form_: Sak'art'velo<br>
 _former_: Georgian Soviet Socialist Republic<br>
-_etymology_: the Western name may derive from the Persian designation "gurgan" meaning "Land of the Wolves"; the native name "Sak'art'velo" means "Land of the Kartvelians" and refers to the core central Georgian region of Kartli<br>
+_etymology_: the Western name probably derives from the name of the local people, the Gurz, whose name origin is uncertain; the native name "Sak'art'velo" means "Land of the Kartvelians" and refers to the core central Georgian region of Kartli<br>
 
 **Government type**<br>
 semi-presidential republic<br>
@@ -644,10 +644,10 @@ _annual freight traffic on registered air carriers_: 750,000 (2018) mt-km<br>
 4L<br>
 
 **Airports**<br>
-19 (2024)<br>
+21 (2025)<br>
 
 **Heliports**<br>
-4 (2024)<br>
+4 (2025)<br>
 
 **Pipelines**<br>
 1,596 km gas, 1,175 km oil (2013)<br>

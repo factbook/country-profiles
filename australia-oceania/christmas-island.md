@@ -119,7 +119,7 @@ _other_: 100% (2018 est.)<br>
 **Country name**<br>
 _conventional long form_: Territory of Christmas Island<br>
 _conventional short form_: Christmas Island<br>
-_etymology_: named by English Captain William MYNORS for the day of its rediscovery, Christmas Day (25 December 1643); the island had been sighted by Europeans as early as 1615<br>
+_etymology_: named by English Captain William MYNORS for the day of its rediscovery, Christmas Day (25 December 1643); Europeans had sighted the island as early as 1615<br>
 
 **Government type**<br>
 non-self-governing overseas territory of Australia<br>
@@ -248,7 +248,7 @@ _percent of population_: 78.6% (2021 est.)<br>
 ## Transportation
 
 **Airports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Railways**<br>
 _total_: 18 km (2017)<br>

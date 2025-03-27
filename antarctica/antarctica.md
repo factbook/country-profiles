@@ -118,10 +118,10 @@ _percent of population_: 100% (2021 est.)<br>
 ## Transportation
 
 **Airports**<br>
-30 (2024)<br>
+31 (2025)<br>
 
 **Heliports**<br>
-5 (2024)<br>
+5 (2025)<br>
 
 **Ports**<br>
 _total ports_: 8 (2024)<br>

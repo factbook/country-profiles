@@ -168,7 +168,7 @@ _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 <strong>note:</strong> includes Gaza Strip and the West Bank<br>
 
 **Physician density**<br>
-2.71 physicians/1,000 population (2020)<br>
+2.17 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 1.3 beds/1,000 population (2019)<br>
@@ -264,7 +264,7 @@ _conventional long form_: none<br>
 _conventional short form_: Gaza, Gaza Strip<br>
 _local long form_: none<br>
 _local short form_: Qita' Ghazzah<br>
-_etymology_: named for the largest city in the enclave, Gaza, whose settlement can be traced back to at least the 15th century B.C. (as "Ghazzat")<br>
+_etymology_: named for the largest city in the enclave, Gaza, whose settlement can be traced back to at least the 15th century B.C. (as "Ghazzat"); "Strip" refers to its elongated shape along the Mediterranean<br>
 
 ## Economy
 

@@ -183,7 +183,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 8.1% of GDP (2022)<br>
 
 **Physician density**<br>
-5.04 physicians/1,000 population (2020)<br>
+4.98 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 3.5 beds/1,000 population (2018)<br>
@@ -355,7 +355,7 @@ _expected date of next election_: September 2025<br>
 _highest court(s)_: Supreme Court or Hoyesterett (consists of the chief justice and 18 associate justices)<br>
 _judge selection and term of office_: justices appointed by the monarch (King in Council) on the recommendation of the Judicial Appointments Board; justices can serve until mandatory retirement at age 70<br>
 _subordinate courts_: Courts of Appeal or Lagmennsrett; regional and district courts; Conciliation Boards; ordinary and special courts<br>
-<strong>note</strong>: in addition to professionally trained judges, elected lay judges sit on the bench with professional judges in the Courts of Appeal and district courts<br>
+<strong>note:</strong> in addition to professionally trained judges, elected lay judges sit on the bench with professional judges in the Courts of Appeal and district courts<br>
 
 **Political parties**<br>
 <p>Center Party or Sp <br>Christian Democratic Party or KrF <br>Conservative Party or H <br>Green Party or MDG <br>Labor Party or Ap <br>Liberal Party or V<br>Patient Focus or PF <br>Progress Party or FrP <br>Red Party or R <br>Socialist Left Party or SV </p><br>
@@ -644,10 +644,10 @@ _inventory of registered aircraft operated by air carriers_: 125<br>
 LN<br>
 
 **Airports**<br>
-145 (2024)<br>
+146 (2025)<br>
 
 **Heliports**<br>
-77 (2024)<br>
+113 (2025)<br>
 
 **Pipelines**<br>
 8,520 km gas, 1,304 km oil/condensate (2017)<br>

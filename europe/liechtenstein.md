@@ -170,7 +170,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020)<br>
 
 **Physician density**<br>
-NA<br>
+1.3 physicians/1,000 population (2022)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
@@ -449,7 +449,7 @@ _subscriptions per 100 inhabitants_: 50 (2023 est.)<br>
 HB<br>
 
 **Heliports**<br>
-2 (2024)<br>
+2 (2025)<br>
 
 **Pipelines**<br>
 434.5 km gas (2018)<br>

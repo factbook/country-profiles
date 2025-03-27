@@ -176,7 +176,7 @@ _unimproved: total_: total: 26.9% of population (2020 est.)<br>
 8.2% of GDP (2021)<br>
 
 **Physician density**<br>
-0.2 physicians/1,000 population (2020)<br>
+0.25 physicians/1,000 population (2022)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 62.4% of population<br>
@@ -278,7 +278,7 @@ _conventional short form_: Guinea-Bissau<br>
 _local long form_: Republica da Guine-Bissau<br>
 _local short form_: Guine-Bissau<br>
 _former_: Portuguese Guinea<br>
-_etymology_: the country is named after the Guinea region of West Africa that lies along the Gulf of Guinea and stretches north to the Sahel; "Bissau," the name of the capital city, distinguishes the country from neighboring Guinea<br>
+_etymology_: the country is partly named after the Guinea region of West Africa that lies along the Gulf of Guinea; the name itself is derived from the Tuareg word <em>aginaw</em>, meaning "black people;" Bissau, the name of the capital city, distinguishes the country from neighboring Guinea and is derived from the local Bijuga people<br>
 
 **Government type**<br>
 semi-presidential republic<br>
@@ -587,7 +587,7 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 J5<br>
 
 **Airports**<br>
-7 (2024)<br>
+7 (2025)<br>
 
 **Roadways**<br>
 _total_: 4,400 km<br>

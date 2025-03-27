@@ -164,7 +164,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
 
 **Physician density**<br>
-NA<br>
+0.2 physicians/1,000 population (2015)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
@@ -538,10 +538,10 @@ _number of registered air carriers_: 0 (2020)<br>
 Z6<br>
 
 **Airports**<br>
-4 (2024)<br>
+2 (2025)<br>
 
 **Heliports**<br>
-6 (2024)<br>
+11 (2025)<br>
 
 **Railways**<br>
 _total_: 437 km (2020)<br>

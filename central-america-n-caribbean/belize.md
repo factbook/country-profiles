@@ -176,7 +176,7 @@ _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 5% of GDP (2021)<br>
 
 **Physician density**<br>
-1.08 physicians/1,000 population (2018)<br>
+1.09 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
 1 beds/1,000 population (2017)<br>
@@ -280,7 +280,7 @@ _agricultural_: 70 million cubic meters (2020 est.)<br>
 _conventional long form_: none<br>
 _conventional short form_: Belize<br>
 _former_: British Honduras<br>
-_etymology_: may be named for the Belize River, whose name possibly derives from the Maya word "belix," meaning "muddy-watered"<br>
+_etymology_: traditionally believed to be derived from the Spanish pronunciation of the last name of Scottish explorer Peter Wallace, who settled in the area in 1638; alternatively, may be named for the Belize River, whose name possibly derives from the Maya word "belix," meaning "muddy-watered"<br>
 
 **Government type**<br>
 parliamentary democracy (National Assembly) under a constitutional monarchy; a Commonwealth realm<br>
@@ -618,10 +618,10 @@ _annual freight traffic on registered air carriers_: 3.78 million (2018) mt-km<b
 V3<br>
 
 **Airports**<br>
-27 (2024)<br>
+27 (2025)<br>
 
 **Heliports**<br>
-5 (2024)<br>
+5 (2025)<br>
 
 **Roadways**<br>
 _total_: 3,281 km<br>

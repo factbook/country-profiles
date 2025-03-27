@@ -186,7 +186,7 @@ _unimproved: total_: total: 26.7% of population (2020 est.)<br>
 9.1% of GDP (2021)<br>
 
 **Physician density**<br>
-0.09 physicians/1,000 population (2020)<br>
+0.18 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 0.7 beds/1,000 population (2011)<br>
@@ -390,7 +390,7 @@ three equal horizontal bands of green (top), black, and yellow with a red isosce
 <strong>note:</strong> one of only two national flags featuring a firearm, the other is Guatemala<br>
 
 **National symbol(s)**<br>
-national colors: green, black, yellow, white, red<br>
+national colors: green, black, yellow, white, red; national symbols: rifle, hoe, and book&nbsp;&nbsp;<br>
 
 **National anthem**<br>
 _name_: "Patria Amada" (Lovely Fatherland)<br>
@@ -650,7 +650,7 @@ _annual freight traffic on registered air carriers_: 4.78 million (2018) mt-km<b
 C9<br>
 
 **Airports**<br>
-92 (2024)<br>
+92 (2025)<br>
 
 **Pipelines**<br>
 972 km gas, 278 km refined products (2013)<br>
@@ -697,7 +697,7 @@ Armed Forces for the Defense of Mozambique (Forcas Armadas de Defesa de Mocambiq
 information limited and varied; estimated 12,000 active personnel (11,000 Army and about 1,000 Air Force and Navy) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FADM's inventory consists primarily of Russian and Soviet-era equipment, although in recent years it has received limited quantities of more modern equipment from a variety of countries, mostly as aid/donations (2024)<br>
+the FADM's inventory consists primarily of Russian and Soviet-era equipment, although in recent years it has received some more modern equipment from a variety of countries, mostly as aid/donations (2024)<br>
 
 **Military service age and obligation**<br>
 registration for military service is mandatory for all men and women at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service for men and women; 24-month service obligation (note - in 2023, the Mozambique Government said it intended to raise the length of service from two to five years) (2023)<br>

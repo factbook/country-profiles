@@ -182,7 +182,7 @@ _unimproved: total_: total: 17.4% of population (2020 est.)<br>
 10.2% of GDP (2021)<br>
 
 **Physician density**<br>
-0.47 physicians/1,000 population (2018)<br>
+0.24 physicians/1,000 population (2022)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 93.6% of population<br>
@@ -368,7 +368,7 @@ _expected date of next election_: November 2027<br>
 _highest court(s)_: Court of Appeal (consists of the court president, such number of justices of appeal as set by Parliament, and the Chief Justice and the puisne judges of the High Court ex officio); High Court (consists of the chief justice and such number of puisne judges as set by Parliament)<br>
 _judge selection and term of office_: Court of Appeal president and High Court chief justice appointed by the monarch on the advice of the prime minister; puisne judges appointed by the monarch on advice of the Judicial Service Commission, an independent body of judicial officers and officials designated by the monarch; judges of both courts can serve until age 75<br>
 _subordinate courts_: Magistrate Courts; customary or traditional courts; military courts<br>
-<strong>note</strong>: both the Court of Appeal and the High Court have jurisdiction in constitutional issues<br>
+<strong>note:</strong> both the Court of Appeal and the High Court have jurisdiction in constitutional issues<br>
 
 **Political parties**<br>
 All Basotho Convention or ABC <br>Alliance of Democrats or AD <br>Basotho Action Party or BAP <br>Basotho National Party or BNP <br>Democratic Congress or DC <br>Democratic Party of Lesotho or DPL <br>Lesotho People's Congress or LPC <br>Movement of Economic Change or MEC <br>National Independent Party or NIP <br>Popular Front for Democracy of PFD<br>Reformed Congress of Lesotho or RCL <br>
@@ -634,7 +634,7 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 7P<br>
 
 **Airports**<br>
-33 (2024)<br>
+34 (2025)<br>
 
 **Roadways**<br>
 _total_: 6,906 km<br>

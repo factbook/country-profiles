@@ -168,7 +168,7 @@ _rate of urbanization_: 0.53% annual rate of change (2020-25 est.)<br>
 **Country name**<br>
 _conventional long form_: none<br>
 _conventional short form_: Falkland Islands (Islas Malvinas)<br>
-_etymology_: the archipelago takes its name from the Falkland Sound, the strait separating the two main islands; the channel itself was named after the Viscount of FALKLAND, who sponsored an expedition to the islands in 1690; the Spanish name for the archipelago derives from the French "Iles Malouines," meaning Islands of Malo, the name applied to the islands by French explorer Louis-Antoine de BOUGAINVILLE in 1764 after the port of Saint-Malo<br>
+_etymology_: the archipelago takes its name from the Falkland Sound, the strait separating the two main islands; the channel was named after the Fifth Viscount of FALKLAND, who sponsored an expedition to the islands in 1690; the Spanish name for the archipelago derives from the French "Iles Malouines," meaning Islands of Malo, the name French explorer Louis-Antoine de BOUGAINVILLE gave the islands in 1764 in honor of the French port of Saint-Malo<br>
 
 **Government type**<br>
 parliamentary democracy (Legislative Assembly); self-governing overseas territory of the UK<br>
@@ -378,7 +378,7 @@ _inventory of registered aircraft operated by air carriers_: 5<br>
 VP-F<br>
 
 **Airports**<br>
-34 (2024)<br>
+34 (2025)<br>
 
 **Roadways**<br>
 _total_: 440 km<br>

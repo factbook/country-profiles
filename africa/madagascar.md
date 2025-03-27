@@ -179,7 +179,7 @@ _unimproved: total_: total: 43.9% of population (2020 est.)<br>
 3.5% of GDP (2021)<br>
 
 **Physician density**<br>
-0.2 physicians/1,000 population (2018)<br>
+0.17 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 0.2 beds/1,000 population<br>
@@ -388,7 +388,7 @@ _email address and website_: <br>antanACS@state.gov<br><br>https://mg.usembassy.
 two equal horizontal bands of red (top) and green with a vertical white band of the same width on hoist side; by tradition, red stands for sovereignty, green for hope, white for purity<br>
 
 **National symbol(s)**<br>
-traveller's palm, zebu; national colors: red, green, white<br>
+traveller's palm (ravenala), zebu; national colors: red, green, white<br>
 
 **National anthem**<br>
 _name_: "Ry Tanindraza nay malala o" (Oh, Our Beloved Fatherland)<br>
@@ -619,7 +619,7 @@ _annual freight traffic on registered air carriers_: 16.25 million (2018) mt-km<
 5R<br>
 
 **Airports**<br>
-91 (2024)<br>
+93 (2025)<br>
 
 **Railways**<br>
 _total_: 836 km (2018)<br>

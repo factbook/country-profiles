@@ -167,9 +167,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
 
-**Physician density**<br>
-NA<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
@@ -463,11 +460,10 @@ _hydroelectricity_: 1.8% of total installed capacity (2022 est.)<br>
 _biomass and waste_: 1.3% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 2 (2023)<br>
-_Number of nuclear reactors under construction_: 0<br>
-_Net capacity of operational nuclear reactors_: 1.87GW (2023)<br>
-_Percent of total electricity production_: 11% (2021)<br>
-_Number of nuclear reactors permanently shut down_: 2<br>
+_Number of operational nuclear reactors_: 1 (2025)<br>
+_Net capacity of operational nuclear reactors_: 0.94GW (2025 est.)<br>
+_Percent of total electricity production_: 6.9% (2023 est.)<br>
+_Number of nuclear reactors permanently shut down_: 5 (2025)<br>
 
 **Coal**<br>
 _production_: 5.608 million metric tons (2022 est.)<br>
@@ -534,10 +530,10 @@ _inventory of registered aircraft operated by air carriers_: 216<br>
 B<br>
 
 **Airports**<br>
-53 (2024)<br>
+57 (2025)<br>
 
 **Heliports**<br>
-39 (2024)<br>
+56 (2025)<br>
 
 **Pipelines**<br>
 25 km condensate, 2,200 km gas, 13,500 km oil (2018)<br>

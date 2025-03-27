@@ -170,7 +170,7 @@ _unimproved: rural_: rural: 10.9% of population<br>
 _unimproved: total_: total: 5.5% of population (2020 est.)<br>
 
 **Physician density**<br>
-3.68 physicians/1,000 population (2017)<br>
+3.63 physicians/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 92.7% of population<br>
@@ -511,10 +511,10 @@ _annual freight traffic on registered air carriers_: 250,000 (2018) mt-km<br>
 P<br>
 
 **Airports**<br>
-83 (2024)<br>
+81 (2025)<br>
 
 **Heliports**<br>
-8 (2024)<br>
+8 (2025)<br>
 
 **Pipelines**<br>
 6 km oil (2013)<br>

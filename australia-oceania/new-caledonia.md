@@ -163,7 +163,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.7% of population (2020 est.)<br>
 
 **Physician density**<br>
-NA<br>
+0.24 physicians/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
@@ -280,7 +280,7 @@ _expected date of next election_: December 2025<br>
 _highest court(s)_: Court of Appeal or Cour d'Appel; organized into civil, commercial, social, and pre-trial investigation chambers; court bench normally includes the court president and 2 counselors); Administrative Court (number of judges NA)<br>
 _judge selection and term of office_: judge appointment and tenure based on France's judicial system<br>
 _subordinate courts_: Courts of First Instance include: civil, juvenile, commercial, labor, police, criminal, assizes, and also a pre-trial investigation chamber; Joint Commerce Tribunal; administrative courts<br>
-<strong>note</strong>: final appeals beyond the Court of Appeal are referred to the Court of Cassation or Cour de Cassation (in Paris); final appeals beyond the Administrative Court are referred to the Administrative Court of Appeal (in Paris)<br>
+<strong>note:</strong> final appeals beyond the Court of Appeal are referred to the Court of Cassation or Cour de Cassation (in Paris); final appeals beyond the Administrative Court are referred to the Administrative Court of Appeal (in Paris)<br>
 
 **Political parties**<br>
 Caledonia Together or CE <br>Caledonian Union or UC <br>Future With Confidence or AEC <br>Kanak Socialist Front for National Liberation or FLNKS (alliance includes PALIKA, UNI, UC, and UPM) <br>Labor Party or PT <br>National Union for Independence or UNI <br>Oceanian Awakening <br>Party of Kanak Liberation or PALIKA <br>Socialist Kanak Liberation or LKS <br>The Republicans (formerly The Rally or UMP) <br>
@@ -505,10 +505,10 @@ _number of registered air carriers_: 3 (2020) (registered in France)<br>
 _inventory of registered aircraft operated by air carriers_: 15 (registered in France)<br>
 
 **Airports**<br>
-21 (2024)<br>
+21 (2025)<br>
 
 **Heliports**<br>
-2 (2024)<br>
+2 (2025)<br>
 
 **Roadways**<br>
 _total_: 5,622 km (2006)<br>

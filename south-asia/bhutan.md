@@ -163,7 +163,7 @@ _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 3.8% of GDP (2021)<br>
 
 **Physician density**<br>
-0.5 physicians/1,000 population (2020)<br>
+0.55 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 1.7 beds/1,000 population (2012)<br>
@@ -261,7 +261,7 @@ _conventional long form_: Kingdom of Bhutan<br>
 _conventional short form_: Bhutan<br>
 _local long form_: Druk Gyalkhap<br>
 _local short form_: Druk Yul<br>
-_etymology_: named after the Bhotia, the ethnic Tibetans who migrated from Tibet to Bhutan; "Bod" is the Tibetan name for their land; the Bhutanese name "Druk Yul" means "Land of the Thunder Dragon"<br>
+_etymology_: name may derive from the Sanskrit words <em>bhoṭa</em>, the name for Tibet, and <em>anta</em>, meaning "end" -- a reference to Bhutan's location at the southernmost end of Tibet; the local Dzongkha name Druk Yul means "Land of the Dragon"<br>
 
 **Government type**<br>
 constitutional monarchy<br>
@@ -596,10 +596,10 @@ _annual freight traffic on registered air carriers_: 690,000 (2018) mt-km<br>
 A5<br>
 
 **Airports**<br>
-4 (2024)<br>
+4 (2025)<br>
 
 **Heliports**<br>
-8 (2024)<br>
+8 (2025)<br>
 
 **Roadways**<br>
 _total_: 12,205 km (2017)<br>

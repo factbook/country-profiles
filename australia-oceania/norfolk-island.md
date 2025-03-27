@@ -175,7 +175,7 @@ _expected date of next election_: March 2021 (postponed)<br>
 _highest court(s)_: Supreme Court of Norfolk Island (consists of the chief justice and several justices)<br>
 _judge selection and term of office_: justices appointed by the governor general of Australia from among justices of the Federal Court of Australia; justices serve until mandatory retirement at age 70<br>
 _subordinate courts_: Petty Court of Sessions; specialized courts, including a Coroner's Court and the Employment Tribunal<br>
-<strong>note</strong>: appeals beyond the Supreme Court of Norfolk Island are heard by the Federal Court and the High Court of Australia<br>
+<strong>note:</strong> appeals beyond the Supreme Court of Norfolk Island are heard by the Federal Court and the High Court of Australia<br>
 
 **Political parties**<br>
 Norfolk Island Labor Party <br>Norfolk Liberals <br>
@@ -257,7 +257,7 @@ _percent of population_: 46.1% (2021 est.)<br>
 ## Transportation
 
 **Airports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Roadways**<br>
 _total_: 80 km<br>

@@ -176,7 +176,7 @@ _unimproved: total_: total: 2.5% of population (2020 est.)<br>
 4.4% of GDP (2021)<br>
 
 **Physician density**<br>
-1.54 physicians/1,000 population (2020)<br>
+2.34 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 1.9 beds/1,000 population (2017)<br>
@@ -355,7 +355,7 @@ _percentage of women in chamber_: 16.1%<br>
 _highest court(s)_: Federal Court (consists of the chief justice, president of the Court of Appeal, chief justice of the High Court of Malaya, chief judge of the High Court of Sabah and Sarawak, 8 judges, and 1 "additional" judge)<br>
 _judge selection and term of office_: Federal Court justices appointed by the monarch on advice of the prime minister; judges serve until mandatory retirement at age 66 with the possibility of a single 6-month extension<br>
 _subordinate courts_: Court of Appeal; High Court; Sessions Court; Magistrates' Court<br>
-<strong>note</strong>: Malaysia has a dual judicial hierarchy of civil and religious (sharia) courts<br>
+<strong>note:</strong> Malaysia has a dual judicial hierarchy of civil and religious (sharia) courts<br>
 
 **Political parties**<br>
 <strong>National Front (Barisan Nasional) or BN:<br></strong>Malaysian Chinese Association (Persatuan Cina Malaysia) or MCA <br>Malaysian Indian Congress (Kongres India Malaysia) or MIC <br>United Malays National Organization (Pertubuhan Kebansaan Melayu Bersatu) or UMNO <br>United Sabah People's Party (Parti Bersatu Rakyat Sabah) or PBRS <br><br><strong>Alliance of Hope (Pakatan Harapan) or PH:</strong><br>Democratic Action Party (Parti Tindakan Demokratik) or DAP <br>National Trust Party (Parti Amanah Negara) or AMANAH <br>People's Justice Party (Parti Keadilan Rakyat) or PKR <br>United Progressive Kinabalu Organization (Pertubuhan Kinabalu Progresif Bersatu) or UPKO <br><br><strong>National Alliance (Perikatan Nasional) or PN:</strong><br>Malaysian People's Movement Party (Parti Gerakan Rakyat Malaysia) or GERAKAN or PGRM <br>Malaysian United Indigenous Party (Parti Pribumi Bersatu Malaysia) or PPBM or BERSATU <br>Pan-Malaysian Islamic Party (Parti Islam Se-Malaysia) or PAS <br> <p><strong>Sabah People's Alliance (Gabungan Rakya Sabah) or GRS:<br></strong>Homeland Solidarity Party (Parti Solidariti Tanah Airku) or STAR <br>Love Sabah Party (Parti Cinta Sabah) or PCS<br>Sabah People's Ideas Party (Parti Gagasan Rakyat Sabah) or GAGASAN or PGRS <br> <br><br><strong>Sarawak Parties Alliance (Gabungan Parti Sarawak) or GPS:</strong><br>Progressive Democratic Party (Parti Demokratik Progresif) or PDP <br>Sarawak People's Party (Parti Rakyat Sarawak) or PRS <br>Sarawak United People's Party (Parti Rakyat Bersatu Sarawak) or SUPP <br>United Bumiputera Heritage Party (Parti Pesaka Bumiputera Bersata) or PBB <br><strong><br>Others: </strong><strong><br></strong>Malaysian Nation Party (Parti Bangsa Malaysia) or PBM<br>Heritage Party (Parti Warisan) or WARISAN <br>Homeland Fighter's Party (Parti Pejuang Tanah Air) or PEJUANG <br>Malaysian United Democratic Alliance (Ikatan Demokratik Malaysia) or MUDA <br>United Sarawak Party (PSB) </p><br>
@@ -646,10 +646,10 @@ _annual freight traffic on registered air carriers_: 1,404,410,000 (2018) mt-km<
 9M<br>
 
 **Airports**<br>
-102 (2024)<br>
+100 (2025)<br>
 
 **Heliports**<br>
-24 (2024)<br>
+24 (2025)<br>
 
 **Pipelines**<br>
 354 km condensate, 6,439 km gas, 155 km liquid petroleum gas, 1,937 km oil, 43 km oil/gas/water, 114 km refined products, 26 km water (2013)<br>

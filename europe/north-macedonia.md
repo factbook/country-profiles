@@ -178,7 +178,7 @@ _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 8.5% of GDP (2021)<br>
 
 **Physician density**<br>
-2.87 physicians/1,000 population (2015)<br>
+2.94 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 4.3 beds/1,000 population (2017)<br>
@@ -629,10 +629,10 @@ _subscriptions per 100 inhabitants_: 28 (2022 est.)<br>
 Z3<br>
 
 **Airports**<br>
-13 (2024)<br>
+13 (2025)<br>
 
 **Heliports**<br>
-8 (2024)<br>
+13 (2025)<br>
 
 **Pipelines**<br>
 262 km gas, 120 km oil (2017)<br>

@@ -177,7 +177,7 @@ _unimproved: total_: total: 42.2% of population (2015 est.)<br>
 4.2% of GDP (2021)<br>
 
 **Physician density**<br>
-0.08 physicians/1,000 population (2020)<br>
+0.09 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 0.7 beds/1,000 population (2011)<br>
@@ -273,7 +273,7 @@ _conventional short form_: Eritrea<br>
 _local long form_: Hagere Ertra<br>
 _local short form_: Ertra<br>
 _former_: Eritrea Autonomous Region in Ethiopia<br>
-_etymology_: the country name derives from the ancient Greek appellation "Erythra Thalassa" meaning Red Sea, which is the major water body bordering the country<br>
+_etymology_: the country name derives from the ancient Greek name <em>Erythra Thalassa</em>, meaning "Red Sea," the body of water that borders the country<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -563,7 +563,7 @@ _annual passenger traffic on registered air carriers_: 102,729 (2018)<br>
 E3<br>
 
 **Airports**<br>
-10 (2024)<br>
+11 (2025)<br>
 
 **Railways**<br>
 _total_: 306 km (2018)<br>

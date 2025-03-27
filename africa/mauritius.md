@@ -175,7 +175,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 6.4% of GDP (2021)<br>
 
 **Physician density**<br>
-2.71 physicians/1,000 population (2020)<br>
+1.44 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 3.7 beds/1,000 population (2020)<br>
@@ -340,7 +340,7 @@ _expected date of next election_: October 2029<br>
 _highest court(s)_: Supreme Court of Mauritius (consists of the chief justice, a senior puisne judge, and 24 puisne judges)<br>
 _judge selection and term of office_: chief justice appointed by the president after consultation with the prime minister; senior puisne judge appointed by the president with the advice of the chief justice; other puisne judges appointed by the president with the advice of the Judicial and Legal Commission, a 4-member body of judicial officials including the chief justice; all judges serve until retirement at age 67<br>
 _subordinate courts_: lower regional courts known as District Courts, Court of Civil Appeal; Court of Criminal Appeal; Public Bodies Appeal Tribunal<br>
-<strong>note</strong>: the Judicial Committee of the Privy Council (in London) serves as the final court of appeal<br>
+<strong>note:</strong> the Judicial Committee of the Privy Council (in London) serves as the final court of appeal<br>
 
 **Political parties**<br>
 Alliance Morisien (Mauritian Alliance)<br>Jean-Claude Barbier Movement (Mouvement Jean-Claude Barbier) or MJCB<br>Mauritian Militant Movement (Mouvement Militant Mauricien) or MMM<br>Mauritian Social Democratic Party (Parti Mauricien Social Democrate) or PMSD<br>Mauritius Labor Party (Parti Travailliste) or PTR or MLP<br>Militant Platform (Plateforme Militante) or PM<br>Militant Socialist Movement (Mouvement Socialist Mauricien) or MSM<br>Muvman Liberater or ML<br>National Alliance<br>Patriotic Movement (Mouvement Patriotique) or MAG<br>Rodrigues Peoples Organization (Organisation du Peuple Rodriguais) or OPR<br>
@@ -616,10 +616,10 @@ _annual freight traffic on registered air carriers_: 233.72 million (2018) mt-km
 3B<br>
 
 **Airports**<br>
-4 (2024)<br>
+5 (2025)<br>
 
 **Heliports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Roadways**<br>
 _total_: 2,428 km<br>

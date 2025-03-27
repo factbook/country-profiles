@@ -182,7 +182,7 @@ _unimproved: total_: total: 1% of population (2020 est.)<br>
 8.6% of GDP (2021)<br>
 
 **Physician density**<br>
-4.2 physicians/1,000 population (2018)<br>
+4.33 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 7.5 beds/1,000 population (2017)<br>
@@ -292,7 +292,7 @@ _conventional short form_: Bulgaria<br>
 _local long form_: Republika Bulgaria<br>
 _local short form_: Bulgaria<br>
 _former_: Kingdom of Bulgaria, People's Republic of Bulgaria<br>
-_etymology_: named after the Bulgar tribes who settled the lower Balkan region in the 7th century A.D.<br>
+_etymology_: named after the Bulgar tribes who settled the lower Balkan region in the 7th century A.D.; the tribal name may come from the Turkic word <em>bulga</em>, or "mixed," referring to the blend of Turkic and Slavic ethnicities in the tribes<br>
 
 **Government type**<br>
 parliamentary republic<br>
@@ -586,10 +586,10 @@ _hydroelectricity_: 7.2% of total installed capacity (2022 est.)<br>
 _biomass and waste_: 4.5% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 2 (2023)<br>
-_Net capacity of operational nuclear reactors_: 2.01GW (2023 est.)<br>
+_Number of operational nuclear reactors_: 2 (2025)<br>
+_Net capacity of operational nuclear reactors_: 2.01GW (2025 est.)<br>
 _Percent of total electricity production_: 40.3% (2023 est.)<br>
-_Number of nuclear reactors permanently shut down_: 4 (2023)<br>
+_Number of nuclear reactors permanently shut down_: 4 (2025)<br>
 
 **Coal**<br>
 _production_: 35.516 million metric tons (2022 est.)<br>
@@ -659,10 +659,10 @@ _annual freight traffic on registered air carriers_: 1.38 million (2018) mt-km<b
 LZ<br>
 
 **Airports**<br>
-111 (2024)<br>
+107 (2025)<br>
 
 **Heliports**<br>
-8 (2024)<br>
+8 (2025)<br>
 
 **Pipelines**<br>
 2,765 km gas, 346 km oil, 378 km refined products (2017)<br>

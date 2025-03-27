@@ -197,7 +197,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 12.3% of GDP (2021)<br>
 
 **Physician density**<br>
-3.27 physicians/1,000 population (2019)<br>
+3.28 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 5.9 beds/1,000 population (2018)<br>
@@ -315,7 +315,7 @@ _conventional long form_: French Republic<br>
 _conventional short form_: France<br>
 _local long form_: R&eacute;publique fran&ccedil;aise<br>
 _local short form_: France<br>
-_etymology_: name derives from the Latin "Francia" meaning "Land of the Franks"; the Franks were a group of Germanic tribes located along the middle and lower Rhine River in the 3rd century A.D. who merged with Gallic-Roman populations in succeeding centuries and to whom they passed on their name<br>
+_etymology_: derives from the Latin name <em>Francia, </em>meaning "Land of the Franks"; the Franks were a group of Germanic tribes located along the middle and lower Rhine River in the 3rd century A.D.; the origin of the tribal name is unclear but may come from the Old German word <em>franka</em>, meaning "brave," or from a personal name such as Francio or Francus<br>
 
 **Government type**<br>
 semi-presidential republic<br>
@@ -625,11 +625,10 @@ _tide and wave_: 0.1% of total installed capacity (2022 est.)<br>
 _biomass and waste_: 2.7% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 56 (2023)<br>
-_Number of nuclear reactors under construction_: 1 (2023)<br>
-_Net capacity of operational nuclear reactors_: 61.37GW (2023 est.)<br>
+_Number of operational nuclear reactors_: 57 (2025)<br>
+_Net capacity of operational nuclear reactors_: 61.37GW (2025 est.)<br>
 _Percent of total electricity production_: 64.8% (2023 est.)<br>
-_Number of nuclear reactors permanently shut down_: 14 (2023)<br>
+_Number of nuclear reactors permanently shut down_: 14 (2025)<br>
 
 **Coal**<br>
 _production_: 2.419 million metric tons (2022 est.)<br>
@@ -700,11 +699,12 @@ _annual freight traffic on registered air carriers_: 4,443,790,000 (2018) mt-km<
 F<br>
 
 **Airports**<br>
-689 (2024)<br>
-<strong>note:</strong> Includes 27 airports in French overseas departments (French Guiana, Guadeloupe, Martinique, Mayotte, Reunion)<br>
+1,218 (2025)<br>
+<strong>note:</strong> Includes 29 airports in French overseas departments (French Guiana, Guadeloupe, Martinique, Mayotte, Reunion)<br>
 
 **Heliports**<br>
-290 (2024)<br>
+405 (2025)<br>
+<strong>note:</strong> Includes 11 heliports in French overseas departments (French Guiana, Guadeloupe, Martinique, Mayotte, Reunion)<br>
 
 **Pipelines**<br>
 15,322 km gas, 2,939 km oil, 5,084 km refined products (2013)<br>

@@ -172,7 +172,7 @@ Diego Garcia hosts one of four dedicated ground antennas that assist in the oper
 ## Transportation
 
 **Airports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Roadways**<br>
 <p><strong>note:</strong> short section of paved road between port and airfield on Diego Garcia</p><br>

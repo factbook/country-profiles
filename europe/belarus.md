@@ -179,7 +179,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 6.6% of GDP (2021)<br>
 
 **Physician density**<br>
-4.54 physicians/1,000 population (2019)<br>
+4.72 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 10.8 beds/1,000 population (2014)<br>
@@ -294,7 +294,7 @@ _conventional short form_: Belarus<br>
 _local long form_: Respublika Byelarus' (Belarusian)/ Respublika Belarus' (Russian)<br>
 _local short form_: Byelarus' (Belarusian)/ Belarus' (Russian)<br>
 _former_: Belorussian (Byelorussian) Soviet Socialist Republic<br>
-_etymology_: the name is a compound of the Belarusian words "bel" (white) and "Rus" (the Old East Slavic ethnic designation) to form the meaning White Rusian or White Ruthenian<br>
+_etymology_: the name is a compound of the Slavic words "bel" (white) and "Rus" (the Old East Slavic ethnic designation) to form the meaning White Rusian or White Ruthenian<br>
 
 **Government type**<br>
 presidential republic in name, although in fact a dictatorship<br>
@@ -596,8 +596,8 @@ _hydroelectricity_: 1% of total installed capacity (2022 est.)<br>
 _biomass and waste_: 1.4% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 2 (2023)<br>
-_Net capacity of operational nuclear reactors_: 2.22GW (2023 est.)<br>
+_Number of operational nuclear reactors_: 2 (2025)<br>
+_Net capacity of operational nuclear reactors_: 2.22GW (2025 est.)<br>
 _Percent of total electricity production_: 28.6% (2023 est.)<br>
 
 **Coal**<br>
@@ -665,10 +665,10 @@ _annual freight traffic on registered air carriers_: 1.9 million (2018) mt-km<br
 EW<br>
 
 **Airports**<br>
-46 (2024)<br>
+46 (2025)<br>
 
 **Heliports**<br>
-4 (2024)<br>
+4 (2025)<br>
 
 **Pipelines**<br>
 5,386 km gas, 1,589 km oil, 1,730 km refined products (2013)<br>

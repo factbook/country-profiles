@@ -158,9 +158,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 
-**Physician density**<br>
-NA<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
@@ -219,7 +216,7 @@ _conventional long form_: American Samoa<br>
 _conventional short form_: American Samoa<br>
 _former_: Eastern Samoa<br>
 _abbreviation_: AS<br>
-_etymology_: the meaning of Samoa is disputed; according to one theory, <em>sa </em>means "sacred" and <em>moa </em>means "center," so the name can mean "Holy Center"; alternatively, some assert that the name can mean "place of the sacred moa bird" of Polynesian mythology; however, the name may pre-date the Polynesian era (before 1000 B.C.), with <em>sa'a</em> meaning "tribe or people" and <em>moa </em>meaning "deep sea," or "people of the deep sea"<br>
+_etymology_: the name's meaning is disputed; according to one theory, <em>sa </em>means "sacred" and <em>moa </em>means "center," so the name can mean "Holy Center"; alternatively, some assert that the name can mean "place of the sacred moa bird" of Polynesian mythology; however, the name may pre-date the Polynesian era (before 1000 B.C.), with <em>sa'a</em> meaning "tribe or people" and <em>moa </em>meaning "deep sea," or "people of the deep sea"<br>
 
 **Government type**<br>
 unincorporated, unorganized Territory of the US with local self-government; republican form of territorial government with separate executive, legislative, and judicial branches<br>
@@ -431,7 +428,7 @@ _percent of population_: 40.3% (2021 est.)<br>
 ## Transportation
 
 **Airports**<br>
-3 (2024)<br>
+3 (2025)<br>
 
 **Roadways**<br>
 _total_: 241 km (2016)<br>

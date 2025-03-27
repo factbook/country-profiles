@@ -182,7 +182,7 @@ _unimproved: total_: total: 2.2% of population (2020 est.)<br>
 7.7% of GDP (2021)<br>
 
 **Physician density**<br>
-2.37 physicians/1,000 population (2014)<br>
+2.81 physicians/1,000 population (2021)<br>
 
 **Hospital bed density**<br>
 4 beds/1,000 population (2014)<br>
@@ -659,10 +659,10 @@ _annual freight traffic on registered air carriers_: 89.43 million (2018) mt-km<
 UK<br>
 
 **Airports**<br>
-74 (2024)<br>
+74 (2025)<br>
 
 **Heliports**<br>
-3 (2024)<br>
+3 (2025)<br>
 
 **Pipelines**<br>
 13,700 km gas, 944 km oil (2016)<br>

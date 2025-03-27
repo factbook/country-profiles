@@ -162,7 +162,7 @@ _unimproved: total_: total: 1.1% of population (2017 est.)<br>
 7.1% of GDP (2021)<br>
 
 **Physician density**<br>
-1.94 physicians/1,000 population (2017)<br>
+1.9 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
 3 beds/1,000 population (2017)<br>
@@ -249,7 +249,7 @@ _municipal_: 30 million cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: Commonwealth of The Bahamas<br>
 _conventional short form_: The Bahamas<br>
-_etymology_: name derives from the Spanish "baha mar," meaning "shallow sea," which describes the shallow waters of the Bahama Banks<br>
+_etymology_: name may be derived from the Spanish <em>baha mar</em>, meaning "low sea," which describes the shallow waters of the Bahama Banks; alternatively, it may be a form of the local name Guanahani, which is of unknown origin and meaning<br>
 
 **Government type**<br>
 parliamentary democracy&nbsp;under a constitutional monarchy; a Commonwealth realm<br>
@@ -577,10 +577,10 @@ _annual freight traffic on registered air carriers_: 160,000 (2018) mt-km<br>
 C6<br>
 
 **Airports**<br>
-55 (2024)<br>
+54 (2025)<br>
 
 **Heliports**<br>
-9 (2024)<br>
+9 (2025)<br>
 
 **Roadways**<br>
 _total_: 2,700 km<br>

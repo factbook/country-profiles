@@ -62,7 +62,7 @@ _forest_: 52.9% (2022 est.)<br>
 _other_: 9.4% (2022 est.)<br>
 
 **Irrigated land**<br>
-10,900 sq km (2012)<br>
+6,506 sq km (2013)<br>
 
 **Major rivers (by length in km)**<br>
 Rio Negro river source (shared with Venezuela and Brazil [m]) - 2,250 km; Orinoco (shared with Venezuela [s]) - 2,101 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -189,7 +189,7 @@ _unimproved: total_: total: 2.3% of population (2020 est.)<br>
 9% of GDP (2021)<br>
 
 **Physician density**<br>
-2.33 physicians/1,000 population (2020)<br>
+2.54 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 1.7 beds/1,000 population (2018)<br>
@@ -301,7 +301,7 @@ _conventional long form_: Republic of Colombia<br>
 _conventional short form_: Colombia<br>
 _local long form_: Rep&uacute;blica de Colombia<br>
 _local short form_: Colombia<br>
-_etymology_: the country is named after explorer Christopher COLUMBUS<br>
+_etymology_: named after explorer Christopher COLUMBUS<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -673,10 +673,10 @@ _annual freight traffic on registered air carriers_: 1,349,450,000 (2018) mt-km<
 HJ, HK<br>
 
 **Airports**<br>
-662 (2024)<br>
+661 (2025)<br>
 
 **Heliports**<br>
-55 (2024)<br>
+57 (2025)<br>
 
 **Pipelines**<br>
 4,991 km gas, 6,796 km oil, 3,429 km refined products (2013)<br>

@@ -172,7 +172,7 @@ _unimproved: total_: total: 5.7% of population (2020 est.)<br>
 5.4% of GDP (2021)<br>
 
 **Physician density**<br>
-0.86 physicians/1,000 population (2015)<br>
+0.81 physicians/1,000 population (2015)<br>
 
 **Hospital bed density**<br>
 2 beds/1,000 population (2016)<br>
@@ -274,7 +274,7 @@ _conventional long form_: Republic of Fiji<br>
 _conventional short form_: Fiji<br>
 _local long form_: Republic of Fiji (English)/ Matanitu ko Viti (Fijian)<br>
 _local short form_: Fiji (English)/ Viti (Fijian)<br>
-_etymology_: the Fijians called their home Viti, but the neighboring Tongans called it Fisi, and in the Anglicized spelling of the Tongan pronunciation - promulgated by explorer Captain James COOK - the designation became Fiji<br>
+_etymology_: the Fijians called their home Viti, but the neighboring Tongans called it Fisi; in the Anglicized spelling of the Tongan pronunciation -- promulgated by explorer Captain James COOK -- the designation became Fiji<br>
 
 **Government type**<br>
 parliamentary republic<br>
@@ -609,10 +609,10 @@ _annual freight traffic on registered air carriers_: 106.83 million (2018) mt-km
 DQ<br>
 
 **Airports**<br>
-26 (2024)<br>
+26 (2025)<br>
 
 **Heliports**<br>
-2 (2024)<br>
+2 (2025)<br>
 
 **Railways**<br>
 _total_: 597 km (2008)<br>

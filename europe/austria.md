@@ -185,7 +185,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 12.1% of GDP (2021)<br>
 
 **Physician density**<br>
-5.29 physicians/1,000 population (2020)<br>
+5.52 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 7.3 beds/1,000 population (2018)<br>
@@ -300,7 +300,7 @@ _conventional long form_: Republic of Austria<br>
 _conventional short form_: Austria<br>
 _local long form_: Republik Oesterreich<br>
 _local short form_: Oesterreich<br>
-_etymology_: the name Oesterreich means "eastern realm" and dates to the 10th century; the designation refers to the fact that Austria was the easternmost extension of Bavaria and German peoples; the word Austria is a Latinization of the German name<br>
+_etymology_: the name Oesterreich means "eastern realm" and dates to the 10th century; the designation refers to the fact that Austria was the easternmost extension of Bavaria and the German peoples; the word Austria is a Latinization of the German name<br>
 
 **Government type**<br>
 federal parliamentary republic<br>
@@ -663,10 +663,10 @@ _annual freight traffic on registered air carriers_: 373.51 million (2018) mt-km
 OE<br>
 
 **Airports**<br>
-61 (2024)<br>
+62 (2025)<br>
 
 **Heliports**<br>
-105 (2024)<br>
+112 (2025)<br>
 
 **Pipelines**<br>
 1,888 km gas, 594 km oil, 157 km refined products (2017)<br>

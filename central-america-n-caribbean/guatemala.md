@@ -183,7 +183,7 @@ _unimproved: total_: total: 5% of population (2020 est.)<br>
 6.9% of GDP (2021)<br>
 
 **Physician density**<br>
-1.24 physicians/1,000 population (2020)<br>
+1.28 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 0.4 beds/1,000 population (2017)<br>
@@ -287,7 +287,7 @@ _conventional long form_: Republic of Guatemala<br>
 _conventional short form_: Guatemala<br>
 _local long form_: Rep&uacute;blica de Guatemala<br>
 _local short form_: Guatemala<br>
-_etymology_: the Spanish conquistadors used many native Americans as allies in their conquest of Guatemala; the site of their first capital (established in 1524), a former Maya settlement, was called "Quauhtemallan" by their Nahuatl-speaking Mexican allies, a name that means "land of trees" or "forested land", but which the Spanish pronounced "Guatemala"; the Spanish applied that name to a re-founded capital city three years later and eventually it became the name of the country<br>
+_etymology_: the Spanish conquistadors' first capital (established in 1524) was a former Mayan settlement called "Quauhtemallan" by their Nahuatl-speaking Mexican allies, a name that means "land of the eagle" but that the Spanish probably pronounced "Guatemala"<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -645,10 +645,10 @@ _annual freight traffic on registered air carriers_: 110,000 (2018) mt-km<br>
 TG<br>
 
 **Airports**<br>
-58 (2024)<br>
+58 (2025)<br>
 
 **Heliports**<br>
-2 (2024)<br>
+2 (2025)<br>
 
 **Pipelines**<br>
 480 km oil (2013)<br>

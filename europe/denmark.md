@@ -181,7 +181,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 9.5% of GDP (2022)<br>
 
 **Physician density**<br>
-4.23 physicians/1,000 population (2018)<br>
+7.24 physicians/1,000 population (2021)<br>
 
 **Hospital bed density**<br>
 2.6 beds/1,000 population (2019)<br>
@@ -290,7 +290,7 @@ _conventional long form_: Kingdom of Denmark<br>
 _conventional short form_: Denmark<br>
 _local long form_: Kongeriget Danmark<br>
 _local short form_: Danmark<br>
-_etymology_: the name derives from the words "Dane(s)" and "mark"; the latter referring to a march (borderland) or forest<br>
+_etymology_: the name derives from the words <em>Dane</em>, a tribal name with unclear Germanic origins, and <em>mark</em>, a Danish word that refers to a march (borderland)<br>
 
 **Government type**<br>
 parliamentary constitutional monarchy<br>
@@ -642,10 +642,10 @@ _annual freight traffic on registered air carriers_: mt-km<br>
 OY<br>
 
 **Airports**<br>
-99 (2024)<br>
+102 (2025)<br>
 
 **Heliports**<br>
-25 (2024)<br>
+29 (2025)<br>
 
 **Pipelines**<br>
 1,536 km gas, 330 km oil (2015)<br>

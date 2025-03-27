@@ -176,7 +176,7 @@ _unimproved: total_: total: 8.9% of population (2017 est.)<br>
 6.3% of GDP (2021)<br>
 
 **Physician density**<br>
-0.26 physicians/1,000 population (2018)<br>
+0.42 physicians/1,000 population (2022)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 62.4% of population<br>
@@ -272,7 +272,7 @@ _conventional short form_: Comoros<br>
 _local long form_: Udzima wa Komori (Comorian)/Union des Comores (French)/Al Ittihad al Qumuri (Arabic)<br>
 _local short form_: Komori (Comorian)/Les Comores (French)/Juzur al Qamar (Arabic)<br>
 _former_: Comorian State, Federal Islamic Republic of the Comoros<br>
-_etymology_: name derives from the Arabic designation "Juzur al Qamar" meaning "Islands of the Moon"<br>
+_etymology_: name derives from the Arabic <em>al qamar</em>, meaning "the moon"<br>
 
 **Government type**<br>
 federal presidential republic<br>
@@ -584,7 +584,7 @@ _inventory of registered aircraft operated by air carriers_: 9<br>
 D6<br>
 
 **Airports**<br>
-3 (2024)<br>
+3 (2025)<br>
 
 **Roadways**<br>
 _total_: 849 km<br>

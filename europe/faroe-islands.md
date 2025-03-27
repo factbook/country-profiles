@@ -230,7 +230,7 @@ _conventional long form_: none<br>
 _conventional short form_: Faroe Islands<br>
 _local long form_: none<br>
 _local short form_: Foroyar<br>
-_etymology_: the archipelago's name may derive from the Old Norse word "faer," meaning sheep<br>
+_etymology_: the archipelago's name derives from the Old Norse name Faeroyar, meaning "sheep islands;" <em>faer </em>means "sheep," and -<em>oyar </em>means "islands"<br>
 
 **Government type**<br>
 parliamentary democracy (Faroese Parliament); part of the Kingdom of Denmark<br>
@@ -490,10 +490,10 @@ _inventory of registered aircraft operated by air carriers_: 3 (registered in De
 OY-H<br>
 
 **Airports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Heliports**<br>
-12 (2024)<br>
+12 (2025)<br>
 
 **Roadways**<br>
 _total_: 960 km<br>

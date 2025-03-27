@@ -182,7 +182,7 @@ _unimproved: total_: total: 37.1% of population (2020 est.)<br>
 9.1% of GDP (2021)<br>
 
 **Physician density**<br>
-0.07 physicians/1,000 population (2018)<br>
+0.07 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
 1 beds/1,000 population (2011)<br>
@@ -297,7 +297,7 @@ _local long form_: R&eacute;publique centrafricaine<br>
 _local short form_: none<br>
 _former_: Ubangi-Shari, Central African Empire<br>
 _abbreviation_: CAR<br>
-_etymology_: self-descriptive name specifying the country's location on the continent; "Africa" is derived from the Roman designation of the area corresponding to present-day Tunisia "Africa terra," which meant "Land of the Afri" (the tribe resident in that area), but which eventually came to mean the entire continent<br>
+_etymology_: self-descriptive name specifying the country's location on the continent; "Africa" is derived from the Roman designation of the area corresponding to present-day Tunisia, "Africa terra," which meant "Land of the Afri" (the tribe resident in that area), but which eventually came to mean the entire continent<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -622,7 +622,7 @@ _annual freight traffic on registered air carriers_: 0 (2015) mt-km<br>
 TL<br>
 
 **Airports**<br>
-43 (2024)<br>
+43 (2025)<br>
 
 **Roadways**<br>
 _total_: 24,000 km<br>

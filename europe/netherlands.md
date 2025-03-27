@@ -184,7 +184,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 11.3% of GDP (2021)<br>
 
 **Physician density**<br>
-4.08 physicians/1,000 population (2020)<br>
+3.88 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
 3.2 beds/1,000 population (2018)<br>
@@ -401,7 +401,7 @@ _consulate(s) general_: Amsterdam<br>
 three equal horizontal bands of red (bright vermilion; top), white, and blue (cobalt); similar to the flag of Luxembourg, which uses a lighter blue and is longer; the colors were derived from those of WILLIAM I, Prince of Orange, who led the Dutch Revolt against Spanish sovereignty in the latter half of the 16th century; originally the upper band was orange, but because its dye tended to turn red over time, the red shade was eventually made the permanent color; the banner is perhaps the oldest tricolor in continuous use<br>
 
 **National symbol(s)**<br>
-lion, tulip; national color: orange<br>
+lion, daisy; national color: orange<br>
 
 **National anthem**<br>
 _name_: "Het Wilhelmus" (The William)<br>
@@ -597,10 +597,10 @@ _wind_: 17.6% of total installed capacity (2022 est.)<br>
 _biomass and waste_: 9.2% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 1 (2023)<br>
-_Net capacity of operational nuclear reactors_: 0.48GW (2023 est.)<br>
-_Percent of total electricity production_: 3.4% (2023 est.)<br>
-_Number of nuclear reactors permanently shut down_: 1 (2023)<br>
+_Number of operational nuclear reactors_: 1 (2025)<br>
+_Net capacity of operational nuclear reactors_: 0.48GW (2025 est.)<br>
+_Percent of total electricity production_: 3.2% (2023 est.)<br>
+_Number of nuclear reactors permanently shut down_: 1 (2025)<br>
 
 **Coal**<br>
 _production_: 1.825 million metric tons (2022 est.)<br>
@@ -670,11 +670,11 @@ _annual freight traffic on registered air carriers_: 5,886,510,000 (2018) mt-km<
 PH<br>
 
 **Airports**<br>
-45 (2024)<br>
+44 (2025)<br>
 <strong>note:</strong> Includes 3 airports in Bonaire, Sint Eustatius and Saba<br>
 
 **Heliports**<br>
-184 (2024)<br>
+194 (2025)<br>
 
 **Pipelines**<br>
 14,000 km gas, 2,500 km oil and refined products, 3,000 km chemicals (2017)<br>

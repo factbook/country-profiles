@@ -100,6 +100,12 @@ _etymology_: Portuguese navigators began to refer to the "Ilhas do Pracel" in th
 
 ## Transportation
 
+**Airports**<br>
+2 (2025)<br>
+
+**Heliports**<br>
+7 (2025)<br>
+
 ## Military and Security
 
 **Military - note**<br>

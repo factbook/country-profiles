@@ -160,9 +160,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020)<br>
 
-**Physician density**<br>
-NA<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -514,10 +511,10 @@ _annual freight traffic on registered air carriers_: 31.84 million (2018) mt-km<
 B-M<br>
 
 **Airports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 **Heliports**<br>
-4 (2024)<br>
+4 (2025)<br>
 
 **Roadways**<br>
 _total_: 428 km<br>

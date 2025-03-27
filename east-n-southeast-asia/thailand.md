@@ -189,7 +189,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 5.2% of GDP (2021)<br>
 
 **Physician density**<br>
-0.95 physicians/1,000 population (2020)<br>
+0.54 physicians/1,000 population (2021)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.9% of population<br>
@@ -680,10 +680,10 @@ _annual freight traffic on registered air carriers_: 2,666,260,000 (2018) mt-km<
 HS<br>
 
 **Airports**<br>
-108 (2024)<br>
+105 (2025)<br>
 
 **Heliports**<br>
-5 (2024)<br>
+5 (2025)<br>
 
 **Pipelines**<br>
 2 km condensate, 5,900 km gas, 85 km liquid petroleum gas, 1 km oil, 1,097 km refined products (2013)<br>

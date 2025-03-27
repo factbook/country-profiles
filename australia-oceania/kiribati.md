@@ -569,7 +569,7 @@ _annual passenger traffic on registered air carriers_: 66,567 (2018)<br>
 T3<br>
 
 **Airports**<br>
-21 (2024)<br>
+21 (2025)<br>
 
 **Roadways**<br>
 _total_: 670 km (2017)<br>

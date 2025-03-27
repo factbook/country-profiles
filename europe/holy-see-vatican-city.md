@@ -186,7 +186,7 @@ _percentage of women in chamber_: 0%<br>
 _highest court(s)_: Supreme Court or Supreme Tribunal of the Apostolic Signatura (consists of the cardinal prefect, who serves as ex-officio president of the court, and 2 other cardinals of the Prefect Signatura)<br>
 _judge selection and term of office_: cardinal prefect appointed by the pope; the other 2 cardinals of the court appointed by the cardinal prefect on a yearly basis<br>
 _subordinate courts_: Appellate Court of Vatican City; Tribunal of Vatican City<br>
-<strong>note</strong>: the Motu Proprio (papal directive) of Pope PIUS XII established judicial duties on 1 May 1946; most Vatican City criminal matters are handled by the Republic of Italy courts<br>
+<strong>note:</strong> the Motu Proprio (papal directive) of Pope PIUS XII established judicial duties on 1 May 1946; most Vatican City criminal matters are handled by the Republic of Italy courts<br>
 
 **Political parties**<br>
 none<br>
@@ -271,7 +271,7 @@ the Vatican Apostolic Library is one of the world's oldest libraries, formally e
 ## Transportation
 
 **Heliports**<br>
-1 (2024)<br>
+1 (2025)<br>
 
 ## Military and Security
 

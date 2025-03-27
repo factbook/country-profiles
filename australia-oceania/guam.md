@@ -222,7 +222,7 @@ _conventional short form_: Guam<br>
 _local long form_: none<br>
 _local short form_: Guahan<br>
 _abbreviation_: GU<br>
-_etymology_: the native Chamorro name for the island "Guahan" (meaning "we have" or "ours") was changed to Guam in the 1898 Treaty of Paris, whereby Spain relinquished Guam, Cuba, Puerto Rico, and the Philippines to the US<br>
+_etymology_: the native Chamorro name for the island, Guahan (meaning "we have"), was changed to Guam in the 1898 Treaty of Paris, when Spain relinquished Guam, Cuba, Puerto Rico, and the Philippines to the US<br>
 
 **Government type**<br>
 unincorporated organized territory of the US with local self-government; republican form of territorial government with separate executive, legislative, and judicial branches<br>
@@ -475,10 +475,10 @@ _subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 N<br>
 
 **Airports**<br>
-3 (2024)<br>
+3 (2025)<br>
 
 **Heliports**<br>
-2 (2024)<br>
+2 (2025)<br>
 
 **Roadways**<br>
 _total_: 1,045 km (2008)<br>
