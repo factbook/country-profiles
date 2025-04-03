@@ -541,25 +541,25 @@ _electrification - urban areas_: 95.9%<br>
 _electrification - rural areas_: 81.7%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 627,000 kW (2022 est.)<br>
-_consumption_: 5.994 billion kWh (2022 est.)<br>
-_imports_: 5.881 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 717.333 million kWh (2022 est.)<br>
+_installed generating capacity_: 627,000 kW (2023 est.)<br>
+_consumption_: 6.468 billion kWh (2023 est.)<br>
+_imports_: 6.221 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 725.652 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 15.6% of total installed capacity (2022 est.)<br>
-_solar_: 9.6% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 74.8% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 13.3% of total installed capacity (2023 est.)<br>
+_solar_: 9.7% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 77% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_production_: 4.885 million metric tons (2022 est.)<br>
-_consumption_: 1.545 million metric tons (2022 est.)<br>
-_exports_: 3.343 million metric tons (2022 est.)<br>
-_imports_: 4,000 metric tons (2022 est.)<br>
-_proven reserves_: 66 million metric tons (2022 est.)<br>
+_production_: 767,000 metric tons (2023 est.)<br>
+_consumption_: 503,000 metric tons (2023 est.)<br>
+_exports_: 265,000 metric tons (2023 est.)<br>
+_imports_: 2,000 metric tons (2023 est.)<br>
+_proven reserves_: 66 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 27,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 58,000 bbl/day (2023 est.)<br>
 
 **Natural gas**<br>
 _production_: 80.2 million cubic meters (2020 est.)<br>
@@ -567,13 +567,12 @@ _consumption_: 80.2 million cubic meters (2020 est.)<br>
 _proven reserves_: 49.554 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 7.029 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 3.125 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 3.904 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 167,000 metric tonnes of CO2 (2020 est.)<br>
+_total emissions_: 7.757 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 930,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 6.827 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 2.686 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 3.38 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -634,7 +633,7 @@ _unpaved_: 17,000 km (2021)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Taliban claims authority over a Ministry of Defense and a National Army (aka Army of the Islamic Emirate of Afghanistan, Islamic Emirate Army, or Afghan Army); it has also formed police forces under a Ministry of Interior (2024)<br>
+the Taliban claims authority over a Ministry of Defense and a National Army (aka Army of the Islamic Emirate of Afghanistan, Islamic Emirate Army, or Afghan Army); it has also formed police forces under a Ministry of Interior (2025)<br>
 
 **Military expenditures**<br>
 3.3% of GDP (2019)<br>
@@ -644,7 +643,7 @@ the Taliban claims authority over a Ministry of Defense and a National Army (aka
 2.9% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-the Taliban claims that the defense forces have approximately 150,000 personnel; it also claims that over 50,000 personnel had been trained for the police forces (2024)<br>
+the Taliban claims to have 190,000 personnel under the Ministry of Defense and 215,000 under the Ministry of Interior (Jan 2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Taliban military/security forces are armed with weapons and equipment captured in 2021 from the Afghan National Defense and Security Forces, which was largely equipped with Russian/Soviet-era and US material (2024)<br>
@@ -654,12 +653,12 @@ service is voluntary; there is no conscription (2023)<br>
 <strong>note: </strong>the Taliban dismissed nearly all women from the former Afghan National Defense and Security Forces, except those serving in detention facilities and assisting with body searches<br>
 
 **Military - note**<br>
-the Taliban&rsquo;s security focuses include border security, ISIS-Khorasan, and anti-Taliban resistance elements (2023)<br>
+the Taliban&rsquo;s security priorities include border security, armed anti-Taliban resistance elements, and the Islamic State of Iraq and ash-Sham - Khorasan (ISIS-K) terrorist group (2025)<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Haqqani Taliban Network; Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Islamic Jihad Union; Islamic Movement of Uzbekistan; Islamic State of Iraq and ash-Sham-Khorasan Province (ISIS-K); Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Jaish-e-Mohammed; Jaysh al Adl (Jundallah); Lashkar i Jhangvi; Lashkar-e Tayyiba; al-Qa’ida; al-Qa'ida in the Indian Subcontinent (AQIS); Tehrik-e-Taliban Pakistan (TTP)<br>
+Haqqani Network; Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Islamic Jihad Union (IJU); Islamic Movement of Uzbekistan (IMU); Islamic State of Iraq and ash-Sham-Khorasan Province (ISIS-K); Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Jaish-e-Mohammed; Jaysh al Adl (Jundallah); Lashkar i Jhangvi; Lashkar-e Tayyiba; al-Qa’ida; al-Qa'ida in the Indian Subcontinent (AQIS); Tehrik-e-Taliban Pakistan (TTP)<br>
 <strong><strong>note 1:  </strong></strong>as of 2024, Afghanistan was assessed to be a place of global significance for terrorism, with approximately 20 designated and non-designated terrorist groups operating in the country<strong><strong><br></strong></strong><strong><br>note 2:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

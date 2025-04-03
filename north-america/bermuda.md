@@ -475,26 +475,28 @@ _Currency_: Bermudian dollars (BMD) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 173,000 kW (2022 est.)<br>
-_consumption_: 581.097 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 42.493 million kWh (2022 est.)<br>
+_installed generating capacity_: 172,000 kW (2023 est.)<br>
+_consumption_: 590.38 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 43.172 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 99% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 1% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 99% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 1% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_imports_: 54.3 metric tons (2022 est.)<br>
+_consumption_: 4 metric tons (2023 est.)<br>
+_imports_: 4 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 4,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 4,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 582,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 582,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 577,000 metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 9 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 577,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 124.882 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 122.737 million Btu/person (2023 est.)<br>
 
 ## Communications
 

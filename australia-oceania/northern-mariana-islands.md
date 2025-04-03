@@ -386,29 +386,6 @@ refined petroleum, cars, jewelry, trunks and cases, flavored water (2023)<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
-**Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-
-**Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 2,100 bbl/day (2019 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
-
 ## Communications
 
 **Telephones - fixed lines**<br>

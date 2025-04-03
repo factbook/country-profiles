@@ -491,37 +491,37 @@ _Currency_: Hong Kong dollars (HKD) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 13.388 million kW (2022 est.)<br>
-_consumption_: 44.677 billion kWh (2022 est.)<br>
-_imports_: 12.573 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 3.834 billion kWh (2022 est.)<br>
+_installed generating capacity_: 13.3 million kW (2023 est.)<br>
+_consumption_: 45.54 billion kWh (2023 est.)<br>
+_imports_: 11.593 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 3.684 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 99.4% of total installed capacity (2022 est.)<br>
-_solar_: 0.2% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 0.4% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 99.1% of total installed capacity (2023 est.)<br>
+_solar_: 0.5% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 0.4% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_consumption_: 6.217 million metric tons (2022 est.)<br>
-_exports_: 800 metric tons (2022 est.)<br>
-_imports_: 5.681 million metric tons (2022 est.)<br>
+_consumption_: 5.567 million metric tons (2023 est.)<br>
+_exports_: 16,000 metric tons (2023 est.)<br>
+_imports_: 5.884 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 96 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 414,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 233,000 bbl/day (2023 est.)<br>
 
 **Natural gas**<br>
-_consumption_: 4.835 billion cubic meters (2022 est.)<br>
-_imports_: 4.835 billion cubic meters (2022 est.)<br>
+_consumption_: 5.12 billion cubic meters (2023 est.)<br>
+_imports_: 5.12 billion cubic meters (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 87.498 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 14.039 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 63.975 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 9.484 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 58.433 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 12.935 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 35.453 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 10.045 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 167.815 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 116.811 million Btu/person (2023 est.)<br>
 
 ## Communications
 

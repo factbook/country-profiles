@@ -321,7 +321,7 @@ _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
 _etymology_: according to tradition, the site was originally a fishing village named after a prominent local tree referred to as "nia niam"<br>
 
 **Administrative divisions**<br>
-7 regions (regions, singular - region) and 1 capital district* (communaute urbaine); Agadez, Diffa, Dosso, Maradi, Niamey*, Tahoua, Tillaberi, Zinder<br>
+7 regions (r&eacute;gions, singular - r&eacute;gion) and 1 capital district* (communaut&eacute; urbaine); Agadez, Diffa, Dosso, Maradi, Niamey*, Tahoua, Tillaberi, Zinder<br>
 
 **Independence**<br>
 3 August 1960 (from France)<br>
@@ -579,38 +579,38 @@ _electrification - urban areas_: 66.1%<br>
 _electrification - rural areas_: 7.7%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 359,000 kW (2022 est.)<br>
-_consumption_: 1.594 billion kWh (2022 est.)<br>
-_imports_: 1.173 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 364.8 million kWh (2022 est.)<br>
+_installed generating capacity_: 377,000 kW (2023 est.)<br>
+_consumption_: 1.645 billion kWh (2023 est.)<br>
+_imports_: 1.213 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 372.245 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 94.1% of total installed capacity (2022 est.)<br>
-_solar_: 5.9% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 97% of total installed capacity (2023 est.)<br>
+_solar_: 3% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_production_: 457,000 metric tons (2022 est.)<br>
-_consumption_: 457,000 metric tons (2022 est.)<br>
-_imports_: 3,000 metric tons (2022 est.)<br>
-_proven reserves_: 90 million metric tons (2022 est.)<br>
+_production_: 427,000 metric tons (2023 est.)<br>
+_consumption_: 426,000 metric tons (2023 est.)<br>
+_imports_: 400 metric tons (2023 est.)<br>
+_proven reserves_: 90 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 6,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 13,000 bbl/day (2022 est.)<br>
+_total petroleum production_: 13,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 18,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 150 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 29.509 million cubic meters (2022 est.)<br>
-_consumption_: 29.858 million cubic meters (2022 est.)<br>
+_production_: 26.805 million cubic meters (2023 est.)<br>
+_consumption_: 26.872 million cubic meters (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 2.454 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 674,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 1.722 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 58,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 3.132 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 622,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 2.457 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 52,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 1.405 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 1.772 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -685,9 +685,6 @@ the FAN has a wide mix of mostly older, typically Soviet-era, or donated/secondh
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for selective compulsory or voluntary military service for unmarried men and women; 24-month service term (2023)<br>
-
-**Military deployments**<br>
-Niger has committed about 1,000 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations are conducted periodically (2024)<br>
 
 **Military - note**<br>
 the military seized control of the government in 2023; since its establishment in 1960-61, it has played a significant role in the country’s politics, attempting coups in 1974, 1996, 1999, 2010, and 2021, and ruling Niger for much of the period before 1999<br><br>while the FAN is responsible for ensuring external security, most of its focus is on internal counterinsurgency/counterterrorism operations against terrorist groups operating in the areas bordering Burkina Faso, Libya, Mali, and Nigeria, as well as much of northern Niger and the Diffa and Lake Chad regions; these groups include the Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS), Boko Haram, ISIS-West Africa, and Jama’at Nusrat al-Islam wal-Muslimin (JNIM)<br><br>since the 2010s, Niger has placed considerable emphasis on improving the effectiveness and mobility of its security forces for countering terrorism and protecting the country’s borders; with training support and material assistance from the US and the EU, each security service has created new units or reconfigured existing units with an emphasis on mobility, hybridization, and specialized training; the Army has established a special operations command, several special intervention battalions, and an anti-terrorism unit known as the 1st Expeditionary Force of Niger (EFoN); the National Gendarmerie has created mobile units modeled on European gendarmerie forces known as the Rapid Action Group—Surveillance and Response in the Sahel (Groupe d'action Rapides—Surveillance et Intervention au Sahel or GAR-SI Sahel); the National Guard (GNN) has established mobile Multipurpose Squadrons (Escadrons Polyvalentes de la Garde Nationale de Niger or EP-GNN), while the National Police have created Mobile Border Control Companies (Compagnie Mobile de Contrôle des Frontières or CMCF); Niger has also established training centers for special forces in Tillia and peacekeeping in Ouallam; meanwhile, the Air Force has received armed UAVs from Turkey (2024)<br>

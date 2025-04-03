@@ -572,30 +572,31 @@ _electrification - urban areas_: 64%<br>
 _electrification - rural areas_: 1.7%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 114,000 kW (2022 est.)<br>
-_consumption_: 415.198 million kWh (2022 est.)<br>
-_imports_: 101 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 40 million kWh (2022 est.)<br>
+_installed generating capacity_: 131,000 kW (2023 est.)<br>
+_consumption_: 444.018 million kWh (2023 est.)<br>
+_imports_: 100 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 39.994 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 33.9% of total installed capacity (2022 est.)<br>
-_solar_: 2.3% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 62.1% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 1.7% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 31.2% of total installed capacity (2023 est.)<br>
+_solar_: 0.5% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 66.7% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 1.6% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_imports_: 9,000 metric tons (2022 est.)<br>
+_consumption_: 1,000 metric tons (2023 est.)<br>
+_imports_: 10,000 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 6,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 6,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 800,000 metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 5,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 795,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 838,000 metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 32,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 806,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 961,000 Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 946,000 Btu/person (2023 est.)<br>
 
 ## Communications
 

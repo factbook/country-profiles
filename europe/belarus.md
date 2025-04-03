@@ -581,19 +581,19 @@ _Currency_: Belarusian rubles (BYB/BYR) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 11.508 million kW (2022 est.)<br>
-_consumption_: 35.516 billion kWh (2022 est.)<br>
-_exports_: 4.676 billion kWh (2022 est.)<br>
-_imports_: 4.287 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 2.717 billion kWh (2022 est.)<br>
+_installed generating capacity_: 12.653 million kW (2023 est.)<br>
+_consumption_: 39.883 billion kWh (2023 est.)<br>
+_exports_: 4.553 billion kWh (2023 est.)<br>
+_imports_: 4 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 3.149 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 84.5% of total installed capacity (2022 est.)<br>
-_nuclear_: 12.1% of total installed capacity (2022 est.)<br>
-_solar_: 0.4% of total installed capacity (2022 est.)<br>
-_wind_: 0.5% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 1% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 1.4% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 70% of total installed capacity (2023 est.)<br>
+_nuclear_: 26.9% of total installed capacity (2023 est.)<br>
+_solar_: 0.5% of total installed capacity (2023 est.)<br>
+_wind_: 0.4% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 0.9% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 1.2% of total installed capacity (2023 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 2 (2025)<br>
@@ -601,29 +601,29 @@ _Net capacity of operational nuclear reactors_: 2.22GW (2025 est.)<br>
 _Percent of total electricity production_: 28.6% (2023 est.)<br>
 
 **Coal**<br>
-_consumption_: 778,000 metric tons (2022 est.)<br>
-_exports_: 1.213 million metric tons (2022 est.)<br>
-_imports_: 2.467 million metric tons (2022 est.)<br>
+_consumption_: 710,000 metric tons (2023 est.)<br>
+_exports_: 966,000 metric tons (2023 est.)<br>
+_imports_: 1.635 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 30,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 131,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 125,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 198 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 73.929 million cubic meters (2022 est.)<br>
-_consumption_: 16.683 billion cubic meters (2022 est.)<br>
-_imports_: 16.688 billion cubic meters (2022 est.)<br>
+_production_: 68.494 million cubic meters (2023 est.)<br>
+_consumption_: 15.094 billion cubic meters (2023 est.)<br>
+_imports_: 15.433 billion cubic meters (2023 est.)<br>
 _proven reserves_: 2.832 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 51.682 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 1.946 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 17.32 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 32.415 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 46.709 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 1.497 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 15.884 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 29.328 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 99.484 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 104.821 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -712,7 +712,7 @@ the military's inventory is comprised mostly of Russian and Soviet-origin equipm
 <strong>note:</strong> conscripts can be assigned to the military, to the Ministry of Interior, or to the Ministry of Labor and Social Protection (alternative service)<br>
 
 **Military - note**<br>
-the military of Belarus is responsible for territorial defense; it is a mixed force of conscripts and professionals that is equipped with Russian or Soviet-era weapons; Russia is the country’s closest security partner; in 2022, Belarus allowed Russian military forces to stage on its territory for their invasion of Ukraine; in 2023, Belarus agreed to permit Russia to deploy nuclear weapons on its soil<br><br>Belarus has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and has committed an airborne brigade to CSTO's rapid reaction force; the military trains regularly with other CSTO members (2024)<br>
+the military of Belarus is responsible for territorial defense; it is a mixed force of conscripts and professionals and equipped with Russian or Soviet-era weapons; Russia is the country’s closest security partner; in 2022, Belarus allowed Russian military forces to stage on its territory for their invasion of Ukraine; in 2023, Belarus agreed to permit Russia to deploy nuclear weapons on its soil<br><br>Belarus has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and has committed an airborne brigade to CSTO's rapid reaction force; the military trains regularly with other CSTO members (2024)<br>
 
 ## Space
 

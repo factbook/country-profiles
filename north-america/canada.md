@@ -321,7 +321,7 @@ _time zone note_: Canada has six time zones<br>
 _etymology_: the city lies on the south bank of the Ottawa River, from which it derives its name; the river name comes from the Algonquin word "adawe" meaning "to trade"<br>
 
 **Administrative divisions**<br>
-10 provinces and 3 territories*; Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories*, Nova Scotia, Nunavut*, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon*<br>
+10 provinces and 3 territories*; Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories*, Nova Scotia, Nunavut*, Ontario, Prince Edward Island, Qu&eacute;bec, Saskatchewan, Yukon*<br>
 
 **Independence**<br>
 1 July 1867 (union of British North American colonies); 11 December 1931 (recognized by UK per Statute of Westminster)<br>
@@ -588,19 +588,19 @@ _Currency_: Canadian dollars (CAD) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 158.973 million kW (2022 est.)<br>
-_consumption_: 553.261 billion kWh (2022 est.)<br>
-_exports_: 65.225 billion kWh (2022 est.)<br>
-_imports_: 14.116 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 33.626 billion kWh (2022 est.)<br>
+_installed generating capacity_: 161.988 million kW (2023 est.)<br>
+_consumption_: 555.683 billion kWh (2023 est.)<br>
+_exports_: 49.444 billion kWh (2023 est.)<br>
+_imports_: 21.77 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 31.784 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 17.2% of total installed capacity (2022 est.)<br>
-_nuclear_: 12.9% of total installed capacity (2022 est.)<br>
-_solar_: 0.9% of total installed capacity (2022 est.)<br>
-_wind_: 6% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 61.5% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 1.5% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 18.9% of total installed capacity (2023 est.)<br>
+_nuclear_: 13.7% of total installed capacity (2023 est.)<br>
+_solar_: 1.4% of total installed capacity (2023 est.)<br>
+_wind_: 6% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 58.6% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 1.4% of total installed capacity (2023 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 17 (2025)<br>
@@ -609,32 +609,32 @@ _Percent of total electricity production_: 13.7% (2023 est.)<br>
 _Number of nuclear reactors permanently shut down_: 8 (2025)<br>
 
 **Coal**<br>
-_production_: 43.024 million metric tons (2022 est.)<br>
-_consumption_: 17.138 million metric tons (2022 est.)<br>
-_exports_: 29.114 million metric tons (2022 est.)<br>
-_imports_: 6.444 million metric tons (2022 est.)<br>
-_proven reserves_: 6.582 billion metric tons (2022 est.)<br>
+_production_: 50.687 million metric tons (2023 est.)<br>
+_consumption_: 20.092 million metric tons (2023 est.)<br>
+_exports_: 35.447 million metric tons (2023 est.)<br>
+_imports_: 7.03 million metric tons (2023 est.)<br>
+_proven reserves_: 6.582 billion metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 5.692 million bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 2.454 million bbl/day (2023 est.)<br>
+_total petroleum production_: 5.688 million bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 2.377 million bbl/day (2024 est.)<br>
 _crude oil estimated reserves_: 170.3 billion barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 187.686 billion cubic meters (2022 est.)<br>
-_consumption_: 130.316 billion cubic meters (2022 est.)<br>
-_exports_: 84.928 billion cubic meters (2022 est.)<br>
-_imports_: 27.481 billion cubic meters (2022 est.)<br>
+_production_: 194.105 billion cubic meters (2023 est.)<br>
+_consumption_: 131.887 billion cubic meters (2023 est.)<br>
+_exports_: 82.537 billion cubic meters (2023 est.)<br>
+_imports_: 29.058 billion cubic meters (2023 est.)<br>
 _proven reserves_: 2.067 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 572.82 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 25.74 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 290.996 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 256.084 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 585.853 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 32.486 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 294.196 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 259.171 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 315.581 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 311.599 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -756,7 +756,7 @@ has a substantial program, a national space strategy, and a long history of deve
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS); Hizballah<br>
+Hizballah; Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

@@ -577,28 +577,32 @@ _electrification - urban areas_: 83.6%<br>
 _electrification - rural areas_: 37.7%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 75,000 kW (2022 est.)<br>
-_consumption_: 828.817 million kWh (2022 est.)<br>
-_imports_: 429.639 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 102.88 million kWh (2022 est.)<br>
+_installed generating capacity_: 104,000 kW (2023 est.)<br>
+_consumption_: 833.009 million kWh (2023 est.)<br>
+_imports_: 453.992 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 102.88 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 0.1% of total installed capacity (2022 est.)<br>
-_solar_: 0.3% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 99.6% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 0.1% of total installed capacity (2023 est.)<br>
+_solar_: 0.3% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 99.6% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_imports_: 23,000 metric tons (2022 est.)<br>
+_production_: 57,000 metric tons (2023 est.)<br>
+_consumption_: 81,000 metric tons (2023 est.)<br>
+_exports_: 1 metric tons (2023 est.)<br>
+_imports_: 24,000 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 5,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 7,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 752,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 752,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 1.148 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 175,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 973,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 5.975 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 8.117 million Btu/person (2023 est.)<br>
 
 ## Communications
 

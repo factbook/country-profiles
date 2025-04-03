@@ -566,45 +566,45 @@ _Currency_: ringgits (MYR) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 36.301 million kW (2022 est.)<br>
-_consumption_: 181.004 billion kWh (2022 est.)<br>
-_exports_: 1.062 billion kWh (2022 est.)<br>
-_imports_: 38.028 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 12.262 billion kWh (2022 est.)<br>
+_installed generating capacity_: 37.22 million kW (2023 est.)<br>
+_consumption_: 178.653 billion kWh (2023 est.)<br>
+_exports_: 1.2 billion kWh (2023 est.)<br>
+_imports_: 61.678 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 13.188 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 81.4% of total installed capacity (2022 est.)<br>
-_solar_: 1.1% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 16.9% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 0.6% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 81.9% of total installed capacity (2023 est.)<br>
+_solar_: 1.1% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 16.3% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 0.6% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_production_: 3.731 million metric tons (2022 est.)<br>
-_consumption_: 35.05 million metric tons (2022 est.)<br>
-_exports_: 168,000 metric tons (2022 est.)<br>
-_imports_: 31.834 million metric tons (2022 est.)<br>
-_proven reserves_: 226 million metric tons (2022 est.)<br>
+_production_: 4.476 million metric tons (2023 est.)<br>
+_consumption_: 35.741 million metric tons (2023 est.)<br>
+_exports_: 462,000 metric tons (2023 est.)<br>
+_imports_: 31.706 million metric tons (2023 est.)<br>
+_proven reserves_: 226 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 582,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 717,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 672,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 3.6 billion barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 75.456 billion cubic meters (2022 est.)<br>
-_consumption_: 42.499 billion cubic meters (2022 est.)<br>
-_exports_: 38.603 billion cubic meters (2022 est.)<br>
-_imports_: 4.529 billion cubic meters (2022 est.)<br>
+_production_: 74.32 billion cubic meters (2023 est.)<br>
+_consumption_: 47.112 billion cubic meters (2023 est.)<br>
+_exports_: 37.451 billion cubic meters (2023 est.)<br>
+_imports_: 3.359 billion cubic meters (2023 est.)<br>
 _proven reserves_: 1.189 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 262.458 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 82.481 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 96.127 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 83.85 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 260.005 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 76.78 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 90.273 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 92.951 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 116.494 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 113.163 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -721,7 +721,7 @@ has a growing space program focused on the areas of remote sensing (RS), communi
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS); Jemaah Islamiyah (JI); Abu Sayyaf Group (ASG)<br>
+Abu Sayyaf Group, al-Qa'ida, Islamic State of Iraq and ash-Sham (ISIS) <br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

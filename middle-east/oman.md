@@ -546,39 +546,40 @@ _Currency_: Omani rials (OMR) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 9.129 million kW (2022 est.)<br>
-_consumption_: 39.012 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 4.043 billion kWh (2022 est.)<br>
+_installed generating capacity_: 11.589 million kW (2023 est.)<br>
+_consumption_: 40.738 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 4.267 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 99.4% of total installed capacity (2022 est.)<br>
-_solar_: 0.6% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 96% of total installed capacity (2023 est.)<br>
+_solar_: 3.8% of total installed capacity (2023 est.)<br>
+_wind_: 0.3% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_consumption_: 31,000 metric tons (2022 est.)<br>
-_exports_: 73,000 metric tons (2022 est.)<br>
-_imports_: 105,000 metric tons (2022 est.)<br>
+_consumption_: 82,000 metric tons (2023 est.)<br>
+_exports_: 70,000 metric tons (2023 est.)<br>
+_imports_: 323,000 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 1.056 million bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 211,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 218,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 5.373 billion barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 40.754 billion cubic meters (2022 est.)<br>
-_consumption_: 27.364 billion cubic meters (2022 est.)<br>
-_exports_: 15.446 billion cubic meters (2022 est.)<br>
-_imports_: 1.506 billion cubic meters (2022 est.)<br>
+_production_: 41.726 billion cubic meters (2023 est.)<br>
+_consumption_: 28.646 billion cubic meters (2023 est.)<br>
+_exports_: 15.536 billion cubic meters (2023 est.)<br>
+_imports_: 1.924 billion cubic meters (2023 est.)<br>
 _proven reserves_: 651.287 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 79.559 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 24,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 27.188 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 52.348 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 84.073 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 661,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 28.611 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 54.8 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 285.886 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 296.586 million Btu/person (2023 est.)<br>
 
 ## Communications
 

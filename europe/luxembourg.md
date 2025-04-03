@@ -553,39 +553,39 @@ _Currency_: euros (EUR) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 2.002 million kW (2022 est.)<br>
-_consumption_: 6.122 billion kWh (2022 est.)<br>
-_exports_: 1.639 billion kWh (2022 est.)<br>
-_imports_: 7.146 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 147.934 million kWh (2022 est.)<br>
+_installed generating capacity_: 2.212 million kW (2023 est.)<br>
+_consumption_: 5.87 billion kWh (2023 est.)<br>
+_exports_: 1.188 billion kWh (2023 est.)<br>
+_imports_: 6.39 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 141.867 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 13.6% of total installed capacity (2022 est.)<br>
-_solar_: 28% of total installed capacity (2022 est.)<br>
-_wind_: 43.4% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: -40.1% of total installed capacity (2022 est.) <b>note:</b> Luxembourg has negative net hydroelectric power generation based on losses from use of pumped storage hydropower<br>
-_biomass and waste_: 55.1% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 10.5% of total installed capacity (2023 est.)<br>
+_solar_: 37.2% of total installed capacity (2023 est.)<br>
+_wind_: 55.6% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: -35.8% of total installed capacity (2023 est.) <b>note:</b> Luxembourg has negative net hydroelectric power generation based on losses from use of pumped storage hydropower<br>
+_biomass and waste_: 32.5% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_consumption_: 62,000 metric tons (2022 est.)<br>
+_consumption_: 34,000 metric tons (2023 est.)<br>
 _exports_: 30.2 metric tons (2022 est.)<br>
-_imports_: 3,000 metric tons (2022 est.)<br>
+_imports_: 34,000 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 51,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 51,000 bbl/day (2024 est.)<br>
 
 **Natural gas**<br>
-_consumption_: 594.24 million cubic meters (2022 est.)<br>
-_imports_: 590.144 million cubic meters (2022 est.)<br>
+_consumption_: 556.63 million cubic meters (2023 est.)<br>
+_imports_: 552.714 million cubic meters (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 8.694 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 135,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 7.338 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 1.221 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 8.715 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 75,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 7.496 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 1.144 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 232.384 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 224.651 million Btu/person (2023 est.)<br>
 
 ## Communications
 

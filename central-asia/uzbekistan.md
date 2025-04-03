@@ -581,43 +581,44 @@ _Currency_: Uzbekistani soum (UZS) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 16.926 million kW (2022 est.)<br>
-_consumption_: 67.642 billion kWh (2022 est.)<br>
-_exports_: 2.644 billion kWh (2022 est.)<br>
-_imports_: 6.232 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 10.704 billion kWh (2022 est.)<br>
+_installed generating capacity_: 17.901 million kW (2023 est.)<br>
+_consumption_: 75.753 billion kWh (2023 est.)<br>
+_exports_: 2.043 billion kWh (2023 est.)<br>
+_imports_: 4.977 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 3.433 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 93.3% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 6.7% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 90.8% of total installed capacity (2023 est.)<br>
+_solar_: 0.6% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 8.7% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_production_: 5.356 million metric tons (2022 est.)<br>
-_consumption_: 7.396 million metric tons (2022 est.)<br>
-_exports_: 9,000 metric tons (2022 est.)<br>
-_imports_: 2.194 million metric tons (2022 est.)<br>
-_proven reserves_: 1.375 billion metric tons (2022 est.)<br>
+_production_: 6.379 million metric tons (2023 est.)<br>
+_consumption_: 8.941 million metric tons (2023 est.)<br>
+_exports_: 4,000 metric tons (2023 est.)<br>
+_imports_: 3.521 million metric tons (2023 est.)<br>
+_proven reserves_: 1.375 billion metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 64,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 91,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 111,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 594 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 47.5 billion cubic meters (2022 est.)<br>
-_consumption_: 43.227 billion cubic meters (2022 est.)<br>
-_exports_: 5.595 billion cubic meters (2022 est.)<br>
-_imports_: 12,000 cubic meters (2022 est.)<br>
+_production_: 43.249 billion cubic meters (2023 est.)<br>
+_consumption_: 44.455 billion cubic meters (2023 est.)<br>
+_exports_: 1.308 billion cubic meters (2023 est.)<br>
+_imports_: 2.514 billion cubic meters (2023 est.)<br>
 _proven reserves_: 1.841 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 103.219 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 9.807 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 11.041 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 82.37 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 110.992 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 12.845 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 13.437 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 84.71 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 53.528 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 55.305 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -715,7 +716,7 @@ has a small space program focused on acquiring satellites and developing the cou
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic Jihad Union; Islamic Movement of Uzbekistan; Islamic State of Iraq and ash-Sham - Khorasan (ISIS-K)<br>
+Islamic Jihad Union (IJU); Islamic Movement of Uzbekistan (IMU); Islamic State of Iraq and ash-Sham - Khorasan (ISIS-K)<br>
 <strong>note 1:</strong> these groups have typically been active in the area where the Uzbek, Kyrgyz, and Tajik borders converge and ill-defined and porous borders allow for the relatively free movement of people and illicit goods <strong><br><br>note 2:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

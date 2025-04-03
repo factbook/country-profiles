@@ -49,7 +49,7 @@ _Top ten world caves_: compiled from "Geography - note(s)" under various country
 _highest point_: Mount Everest 8,849 m<br>
 _lowest point_: Denman Glacier (Antarctica) more than -3,500 m (in the oceanic realm, Challenger Deep in the Mariana Trench is the lowest point, lying -10,924 m below the surface of the Pacific Ocean)<br>
 _mean elevation_: 840 m<br>
-<strong>top ten highest mountains (measured from sea level):</strong> Mount Everest (China-Nepal) 8,849 m; K2 (Pakistan) 8,611 m; Kanchenjunga (India-Nepal) 8,598 m; Lhotse (Nepal) 8,516 m; Makalu (China-Nepal) 8,463 m; Cho Oyu (China-Nepal) 8,201 m; Dhaulagiri (Nepal) 8,167 m; Manaslu (Nepal) 8,163 m; Nanga Parbat (Pakistan) 8,125 m; Anapurna (Nepal) 8,091 m; <strong>note -</strong> Mauna Kea (United States) is the world's tallest mountain as measured from base to summit; the peak of this volcanic colossus lies on the island of Hawaii, but its base begins more than 70 km offshore and at a depth of about 6,000 m; total height estimates range from 9,966 m to 10,203 m <br><br><strong>top ten highest island peaks:</strong> Puncak Jaya (New Guinea) 4,884 m (Indonesia)*; Mauna Kea (Hawaii) 4,207 m (United States); Gunung Kinabalu (Borneo) 4,095 m (Malaysia)*; Yu Shan (Taiwan) 3,952 (Taiwan)*; Mount Kerinci (Sumatra) 3,805 m (Indonesia); Mount Erebus (Ross Island) 3,794 (Antarctica); Mount Fuji (Honshu) 3,776 m (Japan)*; Mount Rinjani (Lombok) 3,726 m (Indonesia); Aoraki-Mount Cook (South Island) 3,724 m (New Zealand)*; Pico de Teide (Tenerife) 3,718 m (Spain)*; <strong>note -</strong> * indicates the highest peak for that Factbook entry <br><br><strong>highest point on each continent:</strong> Asia - Mount Everest (China-Nepal) 8,849 m; South America - Cerro Aconcagua (Argentina) 6,960 m; North America - Mount McKinley (United States) 6,190 m; Africa - Kilimanjaro (Tanzania) 5,895 m; Europe - El'brus (Russia) 5,633 m; Antarctica - Vinson Massif 4,897 m; Australia - Mount Kosciuszko 2,229 m <br><br><strong>highest capital on each continent:</strong> South America - La Paz (Bolivia) 3,640 m; Africa - Addis Ababa (Ethiopia) 2,355 m; Asia - Thimphu (Bhutan) 2,334 m; North America - Mexico City (Mexico) 2,240 m; Europe - Andorra la Vella (Andorra) 1,023 m; Australia - Canberra (Australia) 605 m <br><br><strong>lowest point on each continent:</strong> Antarctica - Denman Glacier more than -3,500 m; Asia - Dead Sea (Israel-Jordan) -431 m; Africa - Lac Assal (Djibouti) -155 m; South America - Laguna del Carbon (Argentina) -105 m; North America - Death Valley (United States) -86 m; Europe - Caspian Sea (Azerbaijan-Kazakhstan-Russia) -28 m; Australia - Lake Eyre -15 <br><br><strong>lowest capital on each continent:</strong> Asia - Baku (Azerbaijan) -28 m; Europe - Amsterdam (Netherlands) -2 m; Africa - Banjul (Gambia); Bissau (Guinea-Bissau), Conakry (Guinea), Djibouti (Djibouti), Libreville (Gabon), Male (Maldives), Monrovia (Liberia), Tunis (Tunisia), Victoria (Seychelles) 0 m; North America - Basseterre (Saint Kitts and Nevis), Kingstown (Saint Vincent and the Grenadines), Panama City (Panama), Port of Spain (Trinidad and Tobago), Roseau (Dominica), Saint John's (Antigua and Barbuda), Santo Domingo (Dominican Republic) 0 m; South America - Georgetown (Guyana) 0 m; Australia - Canberra (Australia) 605 m<br>
+<strong>top ten highest mountains (measured from sea level):</strong> Mount Everest (China-Nepal) 8,849 m; K2 (China-Pakistan) 8,611 m; Kanchenjunga (India-Nepal) 8,586 m; Lhotse (China-Nepal) 8,516 m; Makalu (China-Nepal) 8,485 m; Cho Oyu (China-Nepal) 8,188 m; Dhaulagiri (Nepal) 8,167 m; Manaslu (Nepal) 8,156 m; Nanga Parbat (Pakistan) 8,125 m; Annapurna (Nepal) 8,091 m; <strong>note -</strong> Mauna Kea (United States) is the world's tallest mountain as measured from base to summit; the peak of this volcanic colossus lies on the island of Hawaii, but its base begins more than 70 km offshore and at a depth of about 6,000 m; total height estimates range from 9,966 m to 10,203 m <br><br><strong>top ten highest island peaks:</strong> Puncak Jaya (New Guinea) 4,884 m (Indonesia)*; Mauna Kea (Hawaii) 4,207 m (United States); Gunung Kinabalu (Borneo) 4,095 m (Malaysia)*; Yu Shan (Taiwan) 3,952 (Taiwan)*; Mount Kerinci (Sumatra) 3,805 m (Indonesia); Mount Erebus (Ross Island) 3,794 (Antarctica); Mount Fuji (Honshu) 3,776 m (Japan)*; Mount Rinjani (Lombok) 3,726 m (Indonesia); Aoraki-Mount Cook (South Island) 3,724 m (New Zealand)*; Pico de Teide (Tenerife) 3,718 m (Spain)*; <strong>note -</strong> * indicates the highest peak for that Factbook entry <br><br><strong>highest point on each continent:</strong> Asia - Mount Everest (China-Nepal) 8,849 m; South America - Cerro Aconcagua (Argentina) 6,960 m; North America - Mount McKinley (United States) 6,190 m; Africa - Kilimanjaro (Tanzania) 5,895 m; Europe - El'brus (Russia) 5,633 m; Antarctica - Vinson Massif 4,897 m; Australia - Mount Kosciuszko 2,229 m <br><br><strong>highest capital on each continent:</strong> South America - La Paz (Bolivia) 3,640 m; Africa - Addis Ababa (Ethiopia) 2,355 m; Asia - Thimphu (Bhutan) 2,334 m; North America - Mexico City (Mexico) 2,240 m; Europe - Andorra la Vella (Andorra) 1,023 m; Australia - Canberra (Australia) 605 m <br><br><strong>lowest point on each continent:</strong> Antarctica - Denman Glacier more than -3,500 m; Asia - Dead Sea (Israel-Jordan) -431 m; Africa - Lac Assal (Djibouti) -155 m; South America - Laguna del Carbon (Argentina) -105 m; North America - Death Valley (United States) -86 m; Europe - Caspian Sea (Azerbaijan-Kazakhstan-Russia) -28 m; Australia - Lake Eyre -15 <br><br><strong>lowest capital on each continent:</strong> Asia - Baku (Azerbaijan) -28 m; Europe - Amsterdam (Netherlands) -2 m; Africa - Banjul (Gambia); Bissau (Guinea-Bissau), Conakry (Guinea), Djibouti (Djibouti), Libreville (Gabon), Male (Maldives), Monrovia (Liberia), Tunis (Tunisia), Victoria (Seychelles) 0 m; North America - Basseterre (Saint Kitts and Nevis), Kingstown (Saint Vincent and the Grenadines), Panama City (Panama), Port of Spain (Trinidad and Tobago), Roseau (Dominica), Saint John's (Antigua and Barbuda), Santo Domingo (Dominican Republic) 0 m; South America - Georgetown (Guyana) 0 m; Australia - Canberra (Australia) 605 m<br>
 
 **Land use**<br>
 _agricultural land_: 38% (2022 est.)<br>
@@ -400,20 +400,20 @@ _electrification - urban areas_: 97.7%<br>
 _electrification - rural areas_: 84%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 8.483 billion kW (2022 est.)<br>
-_consumption_: 26.587 trillion kWh (2022 est.)<br>
-_exports_: 805.371 billion kWh (2022 est.)<br>
-_imports_: 811.992 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 2.064 trillion kWh (2022 est.)<br>
+_installed generating capacity_: 9.08 billion kW (2023 est.)<br>
+_consumption_: 27.047 trillion kWh (2023 est.)<br>
+_exports_: 810.999 billion kWh (2023 est.)<br>
+_imports_: 804.542 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 2.053 trillion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 61.2% of total installed capacity (2022 est.)<br>
-_nuclear_: 9% of total installed capacity (2022 est.)<br>
-_solar_: 4.5% of total installed capacity (2022 est.)<br>
-_wind_: 7.3% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 15% of total installed capacity (2022 est.)<br>
-_geothermal_: 0.3% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 2.6% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 60.1% of total installed capacity (2023 est.)<br>
+_nuclear_: 9.2% of total installed capacity (2023 est.)<br>
+_solar_: 5.6% of total installed capacity (2023 est.)<br>
+_wind_: 8% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 14.4% of total installed capacity (2023 est.)<br>
+_geothermal_: 0.3% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 2.4% of total installed capacity (2023 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 416 (2025)<br>
@@ -422,32 +422,32 @@ _Net capacity of operational nuclear reactors_: 376.59GW (2025)<br>
 _Number of nuclear reactors permanently shut down_: 214 (2025)<br>
 
 **Coal**<br>
-_production_: 9.279 billion metric tons (2022 est.)<br>
-_consumption_: 9.456 billion metric tons (2022 est.)<br>
-_exports_: 1.445 billion metric tons (2022 est.)<br>
-_imports_: 1.416 billion metric tons (2022 est.)<br>
-_proven reserves_: 1.141 trillion metric tons (2022 est.)<br>
+_production_: 9.368 billion metric tons (2023 est.)<br>
+_consumption_: 9.382 billion metric tons (2023 est.)<br>
+_exports_: 1.494 billion metric tons (2023 est.)<br>
+_imports_: 1.507 billion metric tons (2023 est.)<br>
+_proven reserves_: 1.166 trillion metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 99.478 million bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 99.845 million bbl/day (2022 est.)<br>
+_total petroleum production_: 99.887 million bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 101.86 million bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 1.697 trillion barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 4.108 trillion cubic meters (2022 est.)<br>
-_consumption_: 4.052 trillion cubic meters (2022 est.)<br>
-_exports_: 1.288 trillion cubic meters (2022 est.)<br>
-_imports_: 1.274 trillion cubic meters (2022 est.)<br>
+_production_: 4.143 trillion cubic meters (2023 est.)<br>
+_consumption_: 4.1 trillion cubic meters (2023 est.)<br>
+_exports_: 1.219 trillion cubic meters (2023 est.)<br>
+_imports_: 1.226 trillion cubic meters (2023 est.)<br>
 _proven reserves_: 206.683 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 38.502 billion metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 18.399 billion metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 12.242 billion metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 7.862 billion metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 37.079 billion metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 16.652 billion metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 12.463 billion metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 7.964 billion metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 75.306 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 73.108 million Btu/person (2023 est.)<br>
 
 ## Communications
 

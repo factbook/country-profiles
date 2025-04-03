@@ -530,24 +530,24 @@ _Currency_: pa'anga (TOP) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 33,000 kW (2022 est.)<br>
-_consumption_: 69.136 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 6 million kWh (2022 est.)<br>
+_installed generating capacity_: 34,000 kW (2023 est.)<br>
+_consumption_: 67.01 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 5.99 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 86.7% of total installed capacity (2022 est.)<br>
-_solar_: 9.3% of total installed capacity (2022 est.)<br>
-_wind_: 4% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 89% of total installed capacity (2023 est.)<br>
+_solar_: 9.6% of total installed capacity (2023 est.)<br>
+_wind_: 1.4% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 900 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 1,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 131,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 131,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 174,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 174,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 17.949 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 23.272 million Btu/person (2023 est.)<br>
 
 ## Communications
 

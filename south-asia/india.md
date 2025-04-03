@@ -599,19 +599,19 @@ _electrification - urban areas_: 100%<br>
 _electrification - rural areas_: 99.3%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 487.407 million kW (2022 est.)<br>
-_consumption_: 1.463 trillion kWh (2022 est.)<br>
-_exports_: 9.574 billion kWh (2022 est.)<br>
-_imports_: 9.127 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 296.958 billion kWh (2022 est.)<br>
+_installed generating capacity_: 499.136 million kW (2023 est.)<br>
+_consumption_: 1.5 trillion kWh (2023 est.)<br>
+_exports_: 9.529 billion kWh (2023 est.)<br>
+_imports_: 7.843 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 303.066 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 76.1% of total installed capacity (2022 est.)<br>
-_nuclear_: 2.6% of total installed capacity (2022 est.)<br>
-_solar_: 5.2% of total installed capacity (2022 est.)<br>
-_wind_: 4.3% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 9.9% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 1.9% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 75.5% of total installed capacity (2023 est.)<br>
+_nuclear_: 2.7% of total installed capacity (2023 est.)<br>
+_solar_: 6.6% of total installed capacity (2023 est.)<br>
+_wind_: 5.1% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 8.2% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 1.9% of total installed capacity (2023 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 20 (2025)<br>
@@ -620,32 +620,32 @@ _Net capacity of operational nuclear reactors_: 6.92GW (2025 est.)<br>
 _Percent of total electricity production_: 3.1% (2023 est.)<br>
 
 **Coal**<br>
-_production_: 985.671 million metric tons (2022 est.)<br>
-_consumption_: 1.2 billion metric tons (2022 est.)<br>
-_exports_: 1.775 million metric tons (2022 est.)<br>
-_imports_: 215.649 million metric tons (2022 est.)<br>
-_proven reserves_: 111.052 billion metric tons (2022 est.)<br>
+_production_: 1.02 billion metric tons (2023 est.)<br>
+_consumption_: 1.262 billion metric tons (2023 est.)<br>
+_exports_: 1.632 million metric tons (2023 est.)<br>
+_imports_: 243.488 million metric tons (2023 est.)<br>
+_proven reserves_: 127.727 billion metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 795,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 5.049 million bbl/day (2022 est.)<br>
+_total petroleum production_: 822,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 5.271 million bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 4.605 billion barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 33.17 billion cubic meters (2022 est.)<br>
-_consumption_: 58.867 billion cubic meters (2022 est.)<br>
+_production_: 35.168 billion cubic meters (2023 est.)<br>
+_consumption_: 62.196 billion cubic meters (2023 est.)<br>
 _exports_: 91.921 million cubic meters (2019 est.)<br>
-_imports_: 27.446 billion cubic meters (2022 est.)<br>
+_imports_: 29.337 billion cubic meters (2023 est.)<br>
 _proven reserves_: 1.381 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 2.805 billion metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 2.067 billion metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 620.731 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 117.577 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 2.821 billion metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 2.054 billion metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 642.909 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 124.226 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 24.793 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 25.179 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -766,7 +766,7 @@ has one of the world’s largest space programs; designs, builds, launches, oper
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Hizbul Mujahideen; Indian Mujahedeen; Islamic State of Iraq and ash-Sham – India; Jaish-e-Mohammed;<strong> </strong>Lashkar-e Tayyiba; al-Qa’ida; al-Qa’ida in the Indian Subcontinent; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
+Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami (HUJI); Hizbul Mujahideen; Indian Mujahedeen; Islamic State of Iraq and ash-Sham (ISIS) – India (ISI); Jaish-e-Mohammed (JeM);<strong> </strong>Lashkar-e Tayyiba (LeT); al-Qa’ida; al-Qa’ida in the Indian Subcontinent (AQIS); Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

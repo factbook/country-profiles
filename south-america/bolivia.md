@@ -596,41 +596,41 @@ _electrification - urban areas_: 100%<br>
 _electrification - rural areas_: 95.6%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 4.104 million kW (2022 est.)<br>
-_consumption_: 10.565 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 948.628 million kWh (2022 est.)<br>
+_installed generating capacity_: 4.375 million kW (2023 est.)<br>
+_consumption_: 10.863 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 1.079 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 65% of total installed capacity (2022 est.)<br>
-_solar_: 3% of total installed capacity (2022 est.)<br>
-_wind_: 3.8% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 24.8% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 3.4% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 65% of total installed capacity (2023 est.)<br>
+_solar_: 2.9% of total installed capacity (2023 est.)<br>
+_wind_: 3.7% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 24.9% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 3.5% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_consumption_: 9,000 metric tons (2022 est.)<br>
-_imports_: 9,000 metric tons (2022 est.)<br>
-_proven reserves_: 1 million metric tons (2022 est.)<br>
+_consumption_: 9,000 metric tons (2023 est.)<br>
+_imports_: 7,000 metric tons (2023 est.)<br>
+_proven reserves_: 1 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 58,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 87,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 100,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 240.9 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 13.76 billion cubic meters (2022 est.)<br>
-_consumption_: 3.055 billion cubic meters (2022 est.)<br>
-_exports_: 10.285 billion cubic meters (2022 est.)<br>
+_production_: 12.302 billion cubic meters (2023 est.)<br>
+_consumption_: 4.025 billion cubic meters (2023 est.)<br>
+_exports_: 7.816 billion cubic meters (2023 est.)<br>
 _proven reserves_: 302.99 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 17.773 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 24,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 11.768 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 5.981 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 21.552 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 24,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 13.647 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 7.881 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 24.229 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 29.34 million Btu/person (2023 est.)<br>
 
 ## Communications
 

@@ -328,22 +328,22 @@ _Currency_: Saint Helena pounds (SHP) per US dollar -<br>
 _electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 8,000 kW (2022 est.)<br>
-_consumption_: 6.963 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 1.5 million kWh (2022 est.)<br>
+_installed generating capacity_: 5,000 kW (2023 est.)<br>
+_consumption_: 6.962 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 1.5 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 100% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 100% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_imports_: 69.9 metric tons (2022 est.)<br>
+_imports_: 70 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 81 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 85 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 13,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 13,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 12,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 12,000 metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

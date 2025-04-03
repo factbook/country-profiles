@@ -555,36 +555,36 @@ _electrification - urban areas_: 96.1%<br>
 _electrification - rural areas_: 65%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 1.776 million kW (2022 est.)<br>
-_consumption_: 2.367 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 589.902 million kWh (2022 est.)<br>
+_installed generating capacity_: 1.79 million kW (2023 est.)<br>
+_consumption_: 2.579 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 486.24 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 79.6% of total installed capacity (2022 est.)<br>
-_solar_: 20.4% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 83% of total installed capacity (2023 est.)<br>
+_solar_: 17% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_consumption_: 165,000 metric tons (2022 est.)<br>
-_imports_: 165,000 metric tons (2022 est.)<br>
+_consumption_: 27,000 metric tons (2023 est.)<br>
+_imports_: 36,000 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 15,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 60,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 58,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 3 billion barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 189.432 million cubic meters (2022 est.)<br>
-_consumption_: 189.432 million cubic meters (2022 est.)<br>
+_production_: 10.286 million cubic meters (2023 est.)<br>
+_consumption_: 10.286 million cubic meters (2023 est.)<br>
 _proven reserves_: 478.555 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 9.017 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 373,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 8.26 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 385,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 8.193 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 93,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 8.08 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 21,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 3.939 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 2.987 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -674,7 +674,7 @@ government forces under the Yemeni Ministry of Defense are responsible for terri
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and ash-Sham - Yemen; al-Qa'ida in the Arabian Peninsula (AQAP), Hizballah<br>
+Ansarallah (Houthis); Hizballah; Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and ash-Sham (ISIS) - Yemen; al-Qa'ida in the Arabian Peninsula (AQAP)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

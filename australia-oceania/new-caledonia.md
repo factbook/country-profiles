@@ -447,28 +447,28 @@ _Currency_: Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 1.069 million kW (2022 est.)<br>
-_consumption_: 2.666 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 66.3 million kWh (2022 est.)<br>
+_installed generating capacity_: 1.174 million kW (2023 est.)<br>
+_consumption_: 3.02 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 66.3 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 83.4% of total installed capacity (2022 est.)<br>
-_solar_: 6.5% of total installed capacity (2022 est.)<br>
-_wind_: 2% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 8.1% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 73.8% of total installed capacity (2023 est.)<br>
+_solar_: 7.3% of total installed capacity (2023 est.)<br>
+_wind_: 1.4% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 17.5% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_consumption_: 1.039 million metric tons (2022 est.)<br>
-_imports_: 1.039 million metric tons (2022 est.)<br>
-_proven reserves_: 2 million metric tons (2022 est.)<br>
+_consumption_: 1.026 million metric tons (2023 est.)<br>
+_imports_: 1.001 million metric tons (2023 est.)<br>
+_proven reserves_: 2 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 16,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 17,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 4.806 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 2.366 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 2.44 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 4.887 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 2.312 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 2.575 million metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

@@ -514,28 +514,32 @@ _Currency_: Bahamian dollars (BSD) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 578,000 kW (2022 est.)<br>
-_consumption_: 2.021 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 10 million kWh (2022 est.)<br>
+_installed generating capacity_: 608,000 kW (2023 est.)<br>
+_consumption_: 2.036 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 10 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 99.8% of total installed capacity (2022 est.)<br>
-_solar_: 0.2% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 99.1% of total installed capacity (2023 est.)<br>
+_solar_: 0.9% of total installed capacity (2023 est.)<br>
+
+**Coal**<br>
+_imports_: 600 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 22,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 20,000 bbl/day (2023 est.)<br>
 
 **Natural gas**<br>
-_consumption_: 13.847 million cubic meters (2022 est.)<br>
-_imports_: 13.847 million cubic meters (2022 est.)<br>
+_consumption_: 14.13 million cubic meters (2023 est.)<br>
+_imports_: 14.13 million cubic meters (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 3.431 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 3.409 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 22,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 2.99 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 2,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 2.966 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 23,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 115.318 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 104.409 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -603,7 +607,7 @@ _key ports_: Clifton Pier, Cockburn Town, Freeport, Matthew Town, Nassau, South 
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Bahamas Defense Force (RBDF): includes land, air, maritime elements; Royal Bahamas Police Force (RBPF) (2024)<br>
+Royal Bahamas Defense Force (RBDF): includes land, air, maritime elements; Royal Bahamas Police Force (RBPF) (2025)<br>
 <strong>note:</strong> the RBPF maintains internal security; both the RBDF and the RBPF, as well as the Department of Corrections, report to the Minister of National Security<br>
 
 **Military expenditures**<br>
@@ -620,10 +624,10 @@ approximately 1,700 active RBDF personnel (2024)<br>
 most of the RBDF's major equipment inventory has been acquired from the Netherlands or the US (2024)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary service for men and women (18-60 for Reserves); no conscription (2024)<br>
+18-30 years of age for voluntary service for men and women (18-60 for Reserves); no conscription (2025)<br>
 
 **Military - note**<br>
-established in 1980; the RBDF's primary responsibilities are disaster relief, maritime security, and counter-narcotics operations; it also provides security at a detention center for migrants and performs some domestic security functions, such as guarding embassies; the RBDF is a naval force, but includes a lightly-armed marine infantry/commando squadron for base and internal security, as well as a few light non-combat aircraft; the maritime element has coastal patrol craft and patrol boats; the RBDF maintains training relationships with the UK and the US (2024)<br>
+the RBDF was established in 1980; its primary responsibilities are maritime security and safeguarding the territorial integrity of the Bahamas, providing disaster relief and humanitarian assistance, and supporting internal law and order in conjunction with other law enforcement agencies; the RBDF is a naval force with a few light aircraft, coastal patrol craft, and patrol boats, as well as a lightly-armed marine infantry/commando squadron for base and internal security; the RBDF has training relationships with the UK and the US (2025)<br>
 
 ## Transnational Issues
 

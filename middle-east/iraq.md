@@ -569,37 +569,38 @@ _Currency_: Iraqi dinars (IQD) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 31.339 million kW (2022 est.)<br>
-_consumption_: 65.908 billion kWh (2022 est.)<br>
-_imports_: 3.534 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 71.17 billion kWh (2022 est.)<br>
+_installed generating capacity_: 31.339 million kW (2023 est.)<br>
+_consumption_: 73.521 billion kWh (2023 est.)<br>
+_imports_: 3.134 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 79.904 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 98% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 2% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 98.8% of total installed capacity (2023 est.)<br>
+_solar_: 0.3% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 0.9% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_imports_: 3,000 metric tons (2022 est.)<br>
+_imports_: 3,000 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 4.437 million bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 918,000 bbl/day (2022 est.)<br>
+_total petroleum production_: 4.448 million bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 1.043 million bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 145.019 billion barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 9.86 billion cubic meters (2022 est.)<br>
-_consumption_: 19.298 billion cubic meters (2022 est.)<br>
-_imports_: 9.438 billion cubic meters (2022 est.)<br>
+_production_: 10.537 billion cubic meters (2023 est.)<br>
+_consumption_: 19.308 billion cubic meters (2023 est.)<br>
+_imports_: 8.771 billion cubic meters (2023 est.)<br>
 _proven reserves_: 3.729 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 156.892 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 6,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 119.027 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 37.858 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 190.815 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 7,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 152.931 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 37.878 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 57.702 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 64.311 million Btu/person (2023 est.)<br>
 
 ## Communications
 

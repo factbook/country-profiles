@@ -299,7 +299,7 @@ _time difference_: UTC-6 (1 hour behind Washington, DC during Standard Time)<br>
 _etymology_: while most sources agree that Tegucigalpa is of Nahuatl derivation, there is no consensus on its original meaning<br>
 
 **Administrative divisions**<br>
-18 departments (departamentos, singular - departamento); Atlantida, Choluteca, Colon, Comayagua, Copan, Cortes, El Paraiso, Francisco Morazan, Gracias a Dios, Intibuca, Islas de la Bahia, La Paz, Lempira, Ocotepeque, Olancho, Santa Barbara, Valle, Yoro<br>
+18 departments (departamentos, singular - departamento); Atl&aacute;ntida, Choluteca, Colon, Comayagua, Copan, Cortes, El Paraiso, Francisco Moraz&aacute;n, Gracias a Dios, Intibuca, Islas de la Bahia, La Paz, Lempira, Ocotepeque, Olancho, Santa Barbara, Valle, Yoro<br>
 
 **Independence**<br>
 15 September 1821 (from Spain)<br>
@@ -565,35 +565,35 @@ _electrification - urban areas_: 100%<br>
 _electrification - rural areas_: 86.8%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 3.195 million kW (2022 est.)<br>
-_consumption_: 8.789 billion kWh (2022 est.)<br>
-_exports_: 3 million kWh (2022 est.)<br>
-_imports_: 212.156 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 3.424 billion kWh (2022 est.)<br>
+_installed generating capacity_: 3.334 million kW (2023 est.)<br>
+_consumption_: 8.303 billion kWh (2023 est.)<br>
+_exports_: 4 million kWh (2023 est.)<br>
+_imports_: 214.601 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 3.617 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 36.9% of total installed capacity (2022 est.)<br>
-_solar_: 9.9% of total installed capacity (2022 est.)<br>
-_wind_: 6.5% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 33.3% of total installed capacity (2022 est.)<br>
-_geothermal_: 3% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 10.4% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 38.4% of total installed capacity (2023 est.)<br>
+_solar_: 8.9% of total installed capacity (2023 est.)<br>
+_wind_: 5.9% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 33.2% of total installed capacity (2023 est.)<br>
+_geothermal_: 3% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 10.7% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_consumption_: 190,000 metric tons (2022 est.)<br>
-_imports_: 190,000 metric tons (2022 est.)<br>
+_consumption_: 144,000 metric tons (2023 est.)<br>
+_imports_: 148,000 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 20 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 67,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 71,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 9.428 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 429,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 8.999 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 10.534 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 324,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 10.21 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 16.386 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 16.642 million Btu/person (2023 est.)<br>
 
 ## Communications
 

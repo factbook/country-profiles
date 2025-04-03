@@ -105,6 +105,8 @@ the flag of Australia is used<br>
 
 ## Economy
 
+## Energy
+
 ## Communications
 
 **Communications - note**<br>

@@ -577,19 +577,19 @@ _Currency_: hryvnia (UAH) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 58.531 million kW (2022 est.)<br>
-_consumption_: 99.69 billion kWh (2022 est.)<br>
-_exports_: 2.48 billion kWh (2022 est.)<br>
-_imports_: 1.034 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 11.108 billion kWh (2022 est.)<br>
+_installed generating capacity_: 60.297 million kW (2023 est.)<br>
+_consumption_: 89.402 billion kWh (2023 est.)<br>
+_exports_: 6.1 billion kWh (2023 est.)<br>
+_imports_: 3.28 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 10.347 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 32.6% of total installed capacity (2022 est.)<br>
-_nuclear_: 54.5% of total installed capacity (2022 est.)<br>
-_solar_: 4.1% of total installed capacity (2022 est.)<br>
-_wind_: 1.8% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 6.5% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 0.5% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 32.9% of total installed capacity (2023 est.)<br>
+_nuclear_: 50.6% of total installed capacity (2023 est.)<br>
+_solar_: 4.5% of total installed capacity (2023 est.)<br>
+_wind_: 1% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 9.9% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 1% of total installed capacity (2023 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 15 (2025)<br>
@@ -599,32 +599,32 @@ _Percent of total electricity production_: 55% (2023 est.)<br>
 _Number of nuclear reactors permanently shut down_: 4 (2025)<br>
 
 **Coal**<br>
-_production_: 4.248 million metric tons (2022 est.)<br>
-_consumption_: 10.953 million metric tons (2022 est.)<br>
-_exports_: 9,000 metric tons (2022 est.)<br>
-_imports_: 6.553 million metric tons (2022 est.)<br>
-_proven reserves_: 34.375 billion metric tons (2022 est.)<br>
+_production_: 19.603 million metric tons (2023 est.)<br>
+_consumption_: 25.012 million metric tons (2023 est.)<br>
+_exports_: 32,000 metric tons (2023 est.)<br>
+_imports_: 5.442 million metric tons (2023 est.)<br>
+_proven reserves_: 34.375 billion metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 3,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 248,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 192,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 395 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 18.725 billion cubic meters (2022 est.)<br>
-_consumption_: 22.856 billion cubic meters (2022 est.)<br>
+_production_: 17.681 billion cubic meters (2023 est.)<br>
+_consumption_: 19.705 billion cubic meters (2023 est.)<br>
 _exports_: 95.994 million cubic meters (2022 est.)<br>
-_imports_: 5.404 billion cubic meters (2022 est.)<br>
+_imports_: 2.028 billion cubic meters (2023 est.)<br>
 _proven reserves_: 1.104 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 93.36 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 19.401 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 31.22 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 42.739 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 106.847 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 45.512 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 24.488 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 36.847 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 53.302 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 57.856 million Btu/person (2023 est.)<br>
 
 ## Communications
 

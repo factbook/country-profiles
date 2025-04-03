@@ -528,36 +528,38 @@ _Currency_: Barbadian dollars (BBD) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 340,000 kW (2022 est.)<br>
-_consumption_: 1.02 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 65.871 million kWh (2022 est.)<br>
+_installed generating capacity_: 320,000 kW (2023 est.)<br>
+_consumption_: 1.025 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 64.586 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 92.1% of total installed capacity (2022 est.)<br>
-_solar_: 7.7% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 0.2% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 91.9% of total installed capacity (2023 est.)<br>
+_solar_: 7.9% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 0.2% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_imports_: 100 metric tons (2022 est.)<br>
+_exports_: 4 metric tons (2023 est.)<br>
+_imports_: 57 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 2,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 9,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 8,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 1.978 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 9.759 million cubic meters (2022 est.)<br>
-_consumption_: 15.813 million cubic meters (2022 est.)<br>
-_imports_: 6.054 million cubic meters (2022 est.)<br>
+_production_: 7.957 million cubic meters (2023 est.)<br>
+_consumption_: 32.593 million cubic meters (2023 est.)<br>
+_imports_: 24.636 million cubic meters (2023 est.)<br>
 _proven reserves_: 113.267 million cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 1.347 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 1.316 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 31,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 1.348 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 2 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.284 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 64,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 68.271 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 68.293 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -621,8 +623,8 @@ _key ports_: Bridgetown<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Barbados Defense Force (BDF): The Barbados Regiment, The Barbados Coast Guard (2024)<br>
-<strong>note 1: </strong>the BDF also has a Youth Development Wing, which is comprised of the Barbados Cadet Corps and the Barbados Defense Force Sports Program; the Barbados Cadet Corps is a national youth organization based in the country's school system and open to all school children 11-18 years of age <br><br><strong>note 2:</strong> authority over the BDF is shared between the president and prime minister, with the president overseeing strategic direction and the prime minister responsible for operational leadership<br><br><strong>note 3: </strong>the Barbados Police Service (TBPS) is the national police force; it is modeled after London's Metropolitan Police Service and divided into three territorial divisions<br>
+Barbados Defense Force (BDF): The Barbados Regiment, The Barbados Coast Guard (2025)<br>
+<strong>note 1: </strong>the Barbados Police Service (TBPS) is the national police force; it is modeled after London's Metropolitan Police Service and divided into three territorial divisions<strong><br><br>note 2: </strong>the Barbados Cadet Corps is a national youth organization affiliated with the BDF; membership is open to all school children in Barbados between the ages of 11 and 18<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2023 est.)<br>

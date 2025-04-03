@@ -564,43 +564,43 @@ _Currency_: euros (EUR) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 11.53 million kW (2022 est.)<br>
-_consumption_: 30.736 billion kWh (2022 est.)<br>
-_exports_: 1.342 billion kWh (2022 est.)<br>
-_imports_: 1.552 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 2.455 billion kWh (2022 est.)<br>
+_installed generating capacity_: 12.321 million kW (2023 est.)<br>
+_consumption_: 32.282 billion kWh (2023 est.)<br>
+_exports_: 441.615 million kWh (2023 est.)<br>
+_imports_: 3.89 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 2.489 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 58.2% of total installed capacity (2022 est.)<br>
-_solar_: 0.3% of total installed capacity (2022 est.)<br>
-_wind_: 35.9% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 1.5% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 4.1% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 55.7% of total installed capacity (2023 est.)<br>
+_solar_: 1.3% of total installed capacity (2023 est.)<br>
+_wind_: 37% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 2.3% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 3.7% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_consumption_: 1.322 million metric tons (2022 est.)<br>
-_exports_: 96,000 metric tons (2022 est.)<br>
-_imports_: 1.335 million metric tons (2022 est.)<br>
-_proven reserves_: 40 million metric tons (2022 est.)<br>
+_consumption_: 1.341 million metric tons (2023 est.)<br>
+_exports_: 76,000 metric tons (2023 est.)<br>
+_imports_: 1.711 million metric tons (2023 est.)<br>
+_proven reserves_: 40 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 600 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 156,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 159,000 bbl/day (2024 est.)<br>
 
 **Natural gas**<br>
-_production_: 1.447 billion cubic meters (2022 est.)<br>
-_consumption_: 5.28 billion cubic meters (2022 est.)<br>
-_imports_: 3.836 billion cubic meters (2022 est.)<br>
+_production_: 1.165 billion cubic meters (2023 est.)<br>
+_consumption_: 4.919 billion cubic meters (2023 est.)<br>
+_imports_: 3.707 billion cubic meters (2023 est.)<br>
 _proven reserves_: 9.911 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 35.957 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 2.973 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 22.441 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 10.543 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 35.486 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 3.029 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 22.635 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 9.822 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 118.037 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 113.837 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -704,7 +704,7 @@ Ireland has a long-standing policy of military neutrality; however, it participa
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS)<br>
+Continuity Irish Republican Army (CIRA); Real Irish Republican Army (RIRA); Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

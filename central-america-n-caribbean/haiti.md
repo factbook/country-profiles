@@ -295,7 +295,7 @@ _daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday i
 _etymology_: according to tradition, in 1706, a Captain de Saint-Andre named the bay and its surrounding area after his ship Le Prince; the name of the town that grew there means, "the Port of The Prince"<br>
 
 **Administrative divisions**<br>
-10 departments (departements, singular - departement); Artibonite, Centre, Grand'Anse, Nippes, Nord, Nord-Est, Nord-Ouest, Ouest, Sud, Sud-Est<br>
+10 departments (d&eacute;partements, singular - d&eacute;partement); Artibonite, Centre, Grand'Anse, Nippes, Nord, Nord-Est, Nord-Ouest, Ouest, Sud, Sud-Est<br>
 
 **Independence**<br>
 1 January 1804 (from France)<br>
@@ -552,32 +552,32 @@ _electrification - urban areas_: 83%<br>
 _electrification - rural areas_: 1.2% (2019 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 471,000 kW (2022 est.)<br>
-_consumption_: 418.367 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 624 million kWh (2022 est.)<br>
+_installed generating capacity_: 472,000 kW (2023 est.)<br>
+_consumption_: 861 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 152 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 85.9% of total installed capacity (2022 est.)<br>
-_solar_: 0.3% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 13.8% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 81.3% of total installed capacity (2023 est.)<br>
+_solar_: 0.4% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 18.3% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
 _imports_: 5.7 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 19,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 19,000 bbl/day (2023 est.)<br>
 
 **Natural gas**<br>
-_consumption_: 3.256 million cubic meters (2022 est.)<br>
-_imports_: 3.256 million cubic meters (2022 est.)<br>
+_consumption_: 3.2 million cubic meters (2023 est.)<br>
+_imports_: 3.2 million cubic meters (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 2.805 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 2.799 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 6,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 2.854 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 2.848 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 6,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 3.403 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 3.486 million Btu/person (2023 est.)<br>
 
 ## Communications
 

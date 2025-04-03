@@ -421,22 +421,21 @@ refined petroleum, cars, trunks and cases, gas turbines, flavored water (2023)<b
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 525,000 kW (2022 est.)<br>
-_consumption_: 1.662 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 90.023 million kWh (2022 est.)<br>
+_installed generating capacity_: 525,000 kW (2023 est.)<br>
+_consumption_: 1.715 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 90.023 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 94.9% of total installed capacity (2022 est.)<br>
-_solar_: 5.1% of total installed capacity (2022 est.)<br>
-_wind_: 0.1% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 92.1% of total installed capacity (2023 est.)<br>
+_solar_: 7.8% of total installed capacity (2023 est.)<br>
+_wind_: 0.1% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 12,000 bbl/day (2022 est.)<br>
-_crude oil estimated reserves_: Data represented includes both Guam and Northern Mariana Islands<br>
+_refined petroleum consumption_: 11,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 1.83 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 1.83 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 1.819 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.819 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 150.555 million Btu/person (2019 est.)<br>

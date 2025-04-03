@@ -561,17 +561,17 @@ _Currency_: drams (AMD) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 3.893 million kW (2022 est.)<br>
-_consumption_: 7.393 billion kWh (2022 est.)<br>
-_exports_: 1.12 billion kWh (2022 est.)<br>
-_imports_: 362.079 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 621.552 million kWh (2022 est.)<br>
+_installed generating capacity_: 4.265 million kW (2023 est.)<br>
+_consumption_: 7.012 billion kWh (2023 est.)<br>
+_exports_: 1.3 billion kWh (2023 est.)<br>
+_imports_: 194.045 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 530.327 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 43.4% of total installed capacity (2022 est.)<br>
-_nuclear_: 30% of total installed capacity (2022 est.)<br>
-_solar_: 3.8% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 22.8% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 43% of total installed capacity (2023 est.)<br>
+_nuclear_: 29% of total installed capacity (2023 est.)<br>
+_solar_: 8.9% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 19% of total installed capacity (2023 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 1 (2025)<br>
@@ -580,27 +580,27 @@ _Percent of total electricity production_: 31.1% (2023 est.)<br>
 _Number of nuclear reactors permanently shut down_: 1 (2025)<br>
 
 **Coal**<br>
-_production_: 60 metric tons (2022 est.)<br>
-_consumption_: 23,000 metric tons (2022 est.)<br>
-_exports_: 32.3 metric tons (2022 est.)<br>
-_imports_: 47,000 metric tons (2022 est.)<br>
-_proven reserves_: 317 million metric tons (2022 est.)<br>
+_production_: 300 metric tons (2023 est.)<br>
+_consumption_: 19,000 metric tons (2023 est.)<br>
+_exports_: 24 metric tons (2023 est.)<br>
+_imports_: 23,000 metric tons (2023 est.)<br>
+_proven reserves_: 317 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 14,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 15,000 bbl/day (2023 est.)<br>
 
 **Natural gas**<br>
-_consumption_: 2.861 billion cubic meters (2022 est.)<br>
-_imports_: 2.861 billion cubic meters (2022 est.)<br>
+_consumption_: 2.631 billion cubic meters (2023 est.)<br>
+_imports_: 2.631 billion cubic meters (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 7.344 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 62,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 1.669 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 5.613 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 7.144 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 48,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.934 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 5.162 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 60.957 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 54.689 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -659,7 +659,7 @@ _non-urban_: 3,920 km<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armenian Republic Armed Forces: Armenian Army (includes land, air, air defense forces) (2024)<br>
+Armenian Republic Armed Forces: Armenian Army (includes land, air, air defense forces) (2025)<br>
 <strong>note: </strong>the Police of the Republic of Armenia is responsible for internal security, while the National Security Service is responsible for national security, intelligence activities, and border control<br>
 
 **Military expenditures**<br>

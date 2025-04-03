@@ -309,7 +309,7 @@ _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
 _etymology_: established as a French military post in 1889; the name means "rapids" in the local Bobangui language, because of the city's location above the first great rapid on the Ubangi River<br>
 
 **Administrative divisions**<br>
-14 prefectures (prefectures, singular - prefecture), 2 economic prefectures* (prefectures economiques, singular - prefecture economique), and 1 commune**; Bamingui-Bangoran, Bangui**, Basse-Kotto, Haute-Kotto, Haut-Mbomou, Kemo, Lobaye, Mambere-Kadei, Mbomou, Nana-Grebizi*, Nana-Mambere, Ombella-Mpoko, Ouaka, Ouham, Ouham-Pende, Sangha-Mbaere*, Vakaga<br>
+14 prefectures (pr&eacute;fectures, singular - pr&eacute;fecture), 2 economic pr&eacute;fectures* (pr&eacute;fectures &eacute;conomiques, singular - pr&eacute;fecture &eacute;conomique), and 1 commune**; Bamingui-Bangoran, Bangui**, Basse-Kotto, Haute-Kotto, Haut-Mbomou, Kemo, Lobaye, Mambere-Kadei, Mbomou, Nana-Grebizi*, Nana-Mambere, Ombella-Mpoko, Ouaka, Ouham, Ouham-Pende, Sangha-Mbaere*, Vakaga<br>
 
 **Independence**<br>
 13 August 1960 (from France)<br>
@@ -560,27 +560,27 @@ _electrification - urban areas_: 34.7%<br>
 _electrification - rural areas_: 1.6%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 38,000 kW (2022 est.)<br>
-_consumption_: 141.105 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 10 million kWh (2022 est.)<br>
+_installed generating capacity_: 63,000 kW (2023 est.)<br>
+_consumption_: 132.105 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 10 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 0.7% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 99.3% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 0.8% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 99.2% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_imports_: 0.7 metric tons (2022 est.)<br>
-_proven reserves_: 3 million metric tons (2022 est.)<br>
+_imports_: 1 metric tons (2023 est.)<br>
+_proven reserves_: 3 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 2,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 2,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 316,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 316,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 313,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 313,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 881,000 Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 954,000 Btu/person (2023 est.)<br>
 
 ## Communications
 

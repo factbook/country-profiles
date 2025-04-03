@@ -545,28 +545,25 @@ _electrification - urban areas_: 55.3%<br>
 _electrification - rural areas_: 5%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 138,000 kW (2022 est.)<br>
-_consumption_: 122.083 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 76.158 million kWh (2022 est.)<br>
+_installed generating capacity_: 149,000 kW (2023 est.)<br>
+_consumption_: 131.321 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 81.921 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 3.7% of total installed capacity (2022 est.)<br>
-_solar_: 3% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 90.8% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 2.5% of total installed capacity (2022 est.)<br>
-
-**Coal**<br>
-_imports_: (2022 est.) less than 1 metric ton<br>
+_fossil fuels_: 3.4% of total installed capacity (2023 est.)<br>
+_solar_: 9.8% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 84.4% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 2.3% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 9,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 9,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 1.352 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 1.352 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 1.342 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.342 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 2.229 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 2.301 million Btu/person (2023 est.)<br>
 
 ## Communications
 

@@ -320,7 +320,7 @@ _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
 _etymology_: Germans founded the city in 1888, but the name comes from the native Ewondo people; the meaning of the name is unclear<br>
 
 **Administrative divisions**<br>
-10 regions (regions, singular - region); Adamaoua, Centre, East (Est), Far North (Extreme-Nord), Littoral, North (Nord), North-West (Nord-Ouest), West (Ouest), South (Sud), South-West (Sud-Ouest)<br>
+10 regions (regions, singular - region); Adamaoua, Centre, East (Est), Far North (Extr&ecirc;me-Nord), Littoral, North (Nord), North-West (Nord-Ouest), West (Ouest), South (Sud), South-West (Sud-Ouest)<br>
 
 **Independence**<br>
 1 January 1960 (from French-administered UN trusteeship)<br>
@@ -597,38 +597,39 @@ _electrification - urban areas_: 94%<br>
 _electrification - rural areas_: 25%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 1.763 million kW (2022 est.)<br>
-_consumption_: 6.311 billion kWh (2022 est.)<br>
-_imports_: 58.1 million kWh (2020 est.)<br>
-_transmission/distribution losses_: 1.811 billion kWh (2022 est.)<br>
+_installed generating capacity_: 1.798 million kW (2023 est.)<br>
+_consumption_: 6.161 billion kWh (2023 est.)<br>
+_imports_: 60 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 2.238 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 37.6% of total installed capacity (2022 est.)<br>
-_solar_: 0.3% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 61.6% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 0.5% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 36.1% of total installed capacity (2023 est.)<br>
+_solar_: 0.3% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 63.1% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 0.5% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_imports_: 90.9 metric tons (2022 est.)<br>
+_imports_: 300 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 54,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 40,000 bbl/day (2022 est.)<br>
+_total petroleum production_: 64,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 41,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 200 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 2.595 billion cubic meters (2022 est.)<br>
-_consumption_: 877.058 million cubic meters (2022 est.)<br>
-_exports_: 1.768 billion cubic meters (2022 est.)<br>
+_production_: 2.356 billion cubic meters (2023 est.)<br>
+_consumption_: 534.691 million cubic meters (2023 est.)<br>
+_exports_: 1.821 billion cubic meters (2023 est.)<br>
 _proven reserves_: 135.071 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 7.239 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 5.518 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 1.721 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 6.707 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 200 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 5.658 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 1.049 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 4.656 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 4.271 million Btu/person (2023 est.)<br>
 
 ## Communications
 

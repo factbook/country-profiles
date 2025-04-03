@@ -323,7 +323,7 @@ _time zone note_: Brazil has four time zones, including one for the Fernando de 
 _etymology_: name bestowed on the new capital of Brazil in 1960; previous Brazilian capitals were Salvador (1549-1763) and Rio de Janeiro (1763 to 1960)<br>
 
 **Administrative divisions**<br>
-26 states (estados, singular - estado) and 1 federal district* (distrito federal); Acre, Alagoas, Amapa, Amazonas, Bahia, Ceara, Distrito Federal*, Espirito Santo, Goias, Maranhao, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Para, Paraiba, Parana, Pernambuco, Piaui, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondonia, Roraima, Santa Catarina, Sao Paulo, Sergipe, Tocantins<br>
+26 states (estados, singular - estado) and 1 federal district* (distrito federal); Acre, Alagoas, Amapa, Amazonas, Bahia, Ceara, Distrito Federal*, Espirito Santo, Goias, Maranhao, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Para, Paraiba, Parana, Pernambuco, Piaui, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondonia, Roraima, Santa Catarina, S&atilde;o Paulo, Sergipe, Tocantins<br>
 
 **Independence**<br>
 7 September 1822 (from Portugal)<br>
@@ -606,19 +606,19 @@ _electrification - urban areas_: 100%<br>
 _electrification - rural areas_: 97.3%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 220.319 million kW (2022 est.)<br>
-_consumption_: 583.184 billion kWh (2022 est.)<br>
-_exports_: 4.979 billion kWh (2022 est.)<br>
-_imports_: 17.887 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 103.995 billion kWh (2022 est.)<br>
+_installed generating capacity_: 240.251 million kW (2023 est.)<br>
+_consumption_: 608.451 billion kWh (2023 est.)<br>
+_exports_: 7.186 billion kWh (2023 est.)<br>
+_imports_: 22.294 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 106.916 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 9.9% of total installed capacity (2022 est.)<br>
-_nuclear_: 2.2% of total installed capacity (2022 est.)<br>
-_solar_: 4% of total installed capacity (2022 est.)<br>
-_wind_: 12.1% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 63.3% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 8.4% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 8.9% of total installed capacity (2023 est.)<br>
+_nuclear_: 2.1% of total installed capacity (2023 est.)<br>
+_solar_: 6.9% of total installed capacity (2023 est.)<br>
+_wind_: 13.5% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 60.2% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 8.3% of total installed capacity (2023 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 2 (2025)<br>
@@ -627,32 +627,32 @@ _Net capacity of operational nuclear reactors_: 1.88GW (2025 est.)<br>
 _Percent of total electricity production_: 2.2% (2023 est.)<br>
 
 **Coal**<br>
-_production_: 15.644 million metric tons (2022 est.)<br>
-_consumption_: 32.787 million metric tons (2022 est.)<br>
-_exports_: 7,000 metric tons (2022 est.)<br>
-_imports_: 20.389 million metric tons (2022 est.)<br>
-_proven reserves_: 6.596 billion metric tons (2022 est.)<br>
+_production_: 15.556 million metric tons (2023 est.)<br>
+_consumption_: 32.223 million metric tons (2023 est.)<br>
+_exports_: 5,000 metric tons (2023 est.)<br>
+_imports_: 18.257 million metric tons (2023 est.)<br>
+_proven reserves_: 6.596 billion metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 4.221 million bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 3.027 million bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 3.163 million bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 12.715 billion barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 22.67 billion cubic meters (2022 est.)<br>
-_consumption_: 31.654 billion cubic meters (2022 est.)<br>
-_exports_: 75.122 million cubic meters (2021 est.)<br>
-_imports_: 8.812 billion cubic meters (2022 est.)<br>
+_production_: 22.702 billion cubic meters (2023 est.)<br>
+_consumption_: 29.065 billion cubic meters (2023 est.)<br>
+_exports_: 101.203 million cubic meters (2023 est.)<br>
+_imports_: 6.356 billion cubic meters (2023 est.)<br>
 _proven reserves_: 363.985 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 516.752 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 54.455 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 404.548 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 57.749 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 437.769 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 53.664 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 331.079 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 53.026 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 50.037 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 48.889 million Btu/person (2023 est.)<br>
 
 ## Communications
 

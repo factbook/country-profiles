@@ -587,19 +587,19 @@ _Currency_: lei (RON) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 19.126 million kW (2022 est.)<br>
-_consumption_: 49.805 billion kWh (2022 est.)<br>
-_exports_: 7.429 billion kWh (2022 est.)<br>
-_imports_: 8.653 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 6.204 billion kWh (2022 est.)<br>
+_installed generating capacity_: 19.748 million kW (2023 est.)<br>
+_consumption_: 48.73 billion kWh (2023 est.)<br>
+_exports_: 13.106 billion kWh (2023 est.)<br>
+_imports_: 10.088 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 5.817 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 39.1% of total installed capacity (2022 est.)<br>
-_nuclear_: 18.6% of total installed capacity (2022 est.)<br>
-_solar_: 3.2% of total installed capacity (2022 est.)<br>
-_wind_: 12.7% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 25.3% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 0.9% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 32.2% of total installed capacity (2023 est.)<br>
+_nuclear_: 18% of total installed capacity (2023 est.)<br>
+_solar_: 3.9% of total installed capacity (2023 est.)<br>
+_wind_: 13% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 32.5% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 0.4% of total installed capacity (2023 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 2 (2025)<br>
@@ -607,32 +607,32 @@ _Net capacity of operational nuclear reactors_: 1.3GW (2025 est.)<br>
 _Percent of total electricity production_: 18.9% (2023 est.)<br>
 
 **Coal**<br>
-_production_: 18.16 million metric tons (2022 est.)<br>
-_consumption_: 19.404 million metric tons (2022 est.)<br>
-_exports_: 242,000 metric tons (2022 est.)<br>
-_imports_: 1.338 million metric tons (2022 est.)<br>
-_proven reserves_: 291 million metric tons (2022 est.)<br>
+_production_: 14.752 million metric tons (2023 est.)<br>
+_consumption_: 15.533 million metric tons (2023 est.)<br>
+_exports_: 290,000 metric tons (2023 est.)<br>
+_imports_: 736,000 metric tons (2023 est.)<br>
+_proven reserves_: 291 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 67,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 221,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 220,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 600 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 9.501 billion cubic meters (2022 est.)<br>
-_consumption_: 10.055 billion cubic meters (2022 est.)<br>
-_exports_: 832.421 million cubic meters (2022 est.)<br>
-_imports_: 2.977 billion cubic meters (2022 est.)<br>
+_production_: 9.632 billion cubic meters (2023 est.)<br>
+_consumption_: 9.395 billion cubic meters (2023 est.)<br>
+_exports_: 2.231 billion cubic meters (2023 est.)<br>
+_imports_: 2.793 billion cubic meters (2023 est.)<br>
 _proven reserves_: 105.48 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 62.594 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 15.319 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 28.604 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 18.67 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 61.416 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 13.07 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 30.902 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 17.444 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 60.67 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 59.377 million Btu/person (2023 est.)<br>
 
 ## Communications
 

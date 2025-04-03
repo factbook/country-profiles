@@ -308,7 +308,7 @@ _time difference_: UTC-3 (2 hour ahead of Washington, DC, during Standard Time)<
 _etymology_: the name means "assumption" and derives from the original name given to the city at its founding in 1537, Nuestra Senora Santa Maria de la Asuncion (Our Lady Saint Mary of the Assumption)<br>
 
 **Administrative divisions**<br>
-17 departments (departamentos, singular - departamento) and 1 capital city*; Alto Paraguay, Alto Parana, Amambay, Asuncion*, Boqueron, Caaguazu, Caazapa, Canindeyu, Central, Concepcion, Cordillera, Guaira, Itapua, Misiones, Neembucu, Paraguari, Presidente Hayes, San Pedro<br>
+17 departments (departamentos, singular - departamento) and 1 capital city*; Alto Paraguay, Alto Parana, Amambay, Asuncion*, Boquer&oacute;n, Caaguaz&uacute;, Caazap&aacute;, Canindey&uacute;, Central, Concepcion, Cordillera, Guair&aacute;, Itap&uacute;a, Misiones, &Ntilde;eembuc&uacute;, Paraguar&iacute;, Presidente Hayes, San Pedro<br>
 
 **Independence**<br>
 14-15 May 1811 (from Spain); note - the uprising against Spanish authorities took place during the night of 14-15 May 1811 and both days are celebrated in Paraguay<br>
@@ -586,31 +586,31 @@ _Currency_: guarani (PYG) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 8.833 million kW (2022 est.)<br>
-_consumption_: 17.486 billion kWh (2022 est.)<br>
-_exports_: 21.719 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 4.8 billion kWh (2022 est.)<br>
+_installed generating capacity_: 8.928 million kW (2023 est.)<br>
+_consumption_: 14.835 billion kWh (2023 est.)<br>
+_exports_: 24.202 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 5.209 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_hydroelectricity_: 99.7% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 0.3% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 99.4% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 0.5% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_consumption_: 1,000 metric tons (2022 est.)<br>
-_exports_: (2022 est.) less than 1 metric ton<br>
-_imports_: 200 metric tons (2022 est.)<br>
+_consumption_: 700 metric tons (2023 est.)<br>
+_exports_: 10 metric tons (2023 est.)<br>
+_imports_: 100 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 2,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 57,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 52,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 8.234 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 3,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 8.231 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 7.509 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 2,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 7.507 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 28.472 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 25.733 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -720,7 +720,7 @@ has a small, recently established space program focused on the acquisition of sa
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Hizballah (2022)<br>
+Hizballah<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

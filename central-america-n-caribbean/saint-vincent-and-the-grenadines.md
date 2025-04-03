@@ -503,28 +503,29 @@ _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 54,000 kW (2022 est.)<br>
-_consumption_: 162.316 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 10.868 million kWh (2022 est.)<br>
+_installed generating capacity_: 55,000 kW (2023 est.)<br>
+_consumption_: 140.316 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 10.868 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 75.2% of total installed capacity (2022 est.)<br>
-_solar_: 1.7% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 23.1% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 86.1% of total installed capacity (2023 est.)<br>
+_solar_: 1.3% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 12.6% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_exports_: 16.8 metric tons (2022 est.)<br>
-_imports_: 16 metric tons (2022 est.)<br>
+_exports_: 8 metric tons (2023 est.)<br>
+_imports_: 8,000 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 2,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 2,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 246,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 246,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 268,000 metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 19,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 249,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 35.826 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 37.253 million Btu/person (2023 est.)<br>
 
 ## Communications
 

@@ -474,25 +474,25 @@ _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 42,000 kW (2022 est.)<br>
-_consumption_: 162.827 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 8 million kWh (2022 est.)<br>
+_installed generating capacity_: 41,000 kW (2023 est.)<br>
+_consumption_: 145.827 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 8 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 75.9% of total installed capacity (2022 est.)<br>
-_solar_: 0.1% of total installed capacity (2022 est.)<br>
-_wind_: 0.6% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 23.4% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 84.3% of total installed capacity (2023 est.)<br>
+_solar_: 0.1% of total installed capacity (2023 est.)<br>
+_wind_: 0.7% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 15% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 1,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 1,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 175,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 175,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 168,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 168,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 35.086 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 36.395 million Btu/person (2023 est.)<br>
 
 ## Communications
 

@@ -295,7 +295,7 @@ _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<
 _etymology_: named for the native Caracas tribe that originally settled in the city's valley site near the Caribbean coast<br>
 
 **Administrative divisions**<br>
-23 states (estados, singular - estado), 1 capital district* (distrito capital), and 1 federal dependency** (dependencia federal); Amazonas, Anzoategui, Apure, Aragua, Barinas, Bolivar, Carabobo, Cojedes, Delta Amacuro, Dependencias Federales (Federal Dependencies)**, Distrito Capital (Capital District)*, Falcon, Guarico, La Guaira, Lara, Merida, Miranda, Monagas, Nueva Esparta, Portuguesa, Sucre, Tachira, Trujillo, Yaracuy, Zulia<br>
+23 states (estados, singular - estado), 1 capital district* (distrito capital), and 1 federal dependency** (dependencia federal); Amazonas, Anzoátegui, Apure, Aragua, Barinas, Bolivar, Carabobo, Cojedes, Delta Amacuro, Dependencias Federales (Federal Dependencies)**, Distrito Capital (Capital District)*, Falcon, Guárico, La Guairá, Lara, Merida, Miranda, Monagas, Nueva Esparta, Portuguesa, Sucre, Táchira, Trujillo, Yaracuy, Zulia<br>
 <strong>note:</strong> the federal dependency consists of 11 federally controlled island groups with a total of 72 individual islands<br>
 
 **Independence**<br>
@@ -534,41 +534,40 @@ _Currency_: bolivars (VEB) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 34.742 million kW (2022 est.)<br>
-_consumption_: 56.768 billion kWh (2022 est.)<br>
-_exports_: 652 million kWh (2020 est.)<br>
-_transmission/distribution losses_: 27.882 billion kWh (2022 est.)<br>
+_installed generating capacity_: 33.493 million kW (2023 est.)<br>
+_consumption_: 56.493 billion kWh (2023 est.)<br>
+_exports_: 600 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 25.849 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 22.3% of total installed capacity (2022 est.)<br>
-_wind_: 0.1% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 77.6% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 21.6% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 78.3% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_production_: 197,000 metric tons (2022 est.)<br>
-_consumption_: 82,000 metric tons (2022 est.)<br>
-_exports_: 124,000 metric tons (2022 est.)<br>
-_imports_: 300 metric tons (2022 est.)<br>
-_proven reserves_: 730.999 million metric tons (2022 est.)<br>
+_production_: 149,000 metric tons (2023 est.)<br>
+_consumption_: 80,000 metric tons (2023 est.)<br>
+_exports_: 124,000 metric tons (2023 est.)<br>
+_imports_: 2,000 metric tons (2023 est.)<br>
+_proven reserves_: 730.999 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 761,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 367,000 bbl/day (2022 est.)<br>
+_total petroleum production_: 801,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 203,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 303.806 billion barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 17.696 billion cubic meters (2022 est.)<br>
-_consumption_: 17.696 billion cubic meters (2022 est.)<br>
+_production_: 23.873 billion cubic meters (2023 est.)<br>
+_consumption_: 23.873 billion cubic meters (2023 est.)<br>
 _proven reserves_: 5.674 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 80.769 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 188,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 44.539 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 36.042 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 76.73 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 179,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 27.928 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 48.623 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 57.282 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 54.474 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -680,7 +679,7 @@ has a small program primarily focused on the acquisition of satellites and devel
 ## Terrorism
 
 **Terrorist group(s)**<br>
-National Liberation Army (ELN); Revolutionary Armed Forces of Colombia-People's Army (FARC-EP); Segundo Marquetalia<br>
+Tren de Aragua (TdA); National Liberation Army (ELN); Revolutionary Armed Forces of Colombia-People's Army (FARC-EP); Segundo Marquetalia (SM)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

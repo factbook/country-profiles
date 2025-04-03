@@ -560,46 +560,46 @@ _Currency_: euros (EUR) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 22.336 million kW (2022 est.)<br>
-_consumption_: 47.283 billion kWh (2022 est.)<br>
-_exports_: 4.303 billion kWh (2022 est.)<br>
-_imports_: 7.751 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 5.344 billion kWh (2022 est.)<br>
+_installed generating capacity_: 24.169 million kW (2023 est.)<br>
+_consumption_: 46.929 billion kWh (2023 est.)<br>
+_exports_: 3.24 billion kWh (2023 est.)<br>
+_imports_: 8.152 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 5.346 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 53.4% of total installed capacity (2022 est.)<br>
-_solar_: 14.5% of total installed capacity (2022 est.)<br>
-_wind_: 22.1% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 8.9% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 1% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 48.9% of total installed capacity (2023 est.)<br>
+_solar_: 17.5% of total installed capacity (2023 est.)<br>
+_wind_: 23.3% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 9.8% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 0.6% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_production_: 13.703 million metric tons (2022 est.)<br>
-_consumption_: 13.988 million metric tons (2022 est.)<br>
-_exports_: 362,000 metric tons (2022 est.)<br>
-_imports_: 71,000 metric tons (2022 est.)<br>
-_proven reserves_: 2.876 billion metric tons (2022 est.)<br>
+_production_: 10.469 million metric tons (2023 est.)<br>
+_consumption_: 10.091 million metric tons (2023 est.)<br>
+_exports_: 5 metric tons (2023 est.)<br>
+_imports_: 49,000 metric tons (2023 est.)<br>
+_proven reserves_: 2.876 billion metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 5,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 303,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 308,000 bbl/day (2024 est.)<br>
 _crude oil estimated reserves_: 10 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 3.284 million cubic meters (2021 est.)<br>
-_consumption_: 5.173 billion cubic meters (2022 est.)<br>
-_exports_: 10.647 billion cubic meters (2022 est.)<br>
-_imports_: 15.946 billion cubic meters (2022 est.)<br>
+_production_: 1.323 million cubic meters (2023 est.)<br>
+_consumption_: 3.344 billion cubic meters (2023 est.)<br>
+_exports_: 8.362 billion cubic meters (2023 est.)<br>
+_imports_: 11.619 billion cubic meters (2023 est.)<br>
 _proven reserves_: 991.09 million cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 62.142 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 6.449 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 45.457 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 10.236 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 62.06 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 10.794 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 44.649 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 6.617 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 94.151 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 92.693 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -713,7 +713,7 @@ has a relatively new and growing space program focused on building and operating
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary People's Liberation Party/Front (DHKP/C)<br>
+Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle (RS); Revolutionary People's Liberation Party/Front (DHKP/C)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

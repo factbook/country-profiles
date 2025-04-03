@@ -273,7 +273,7 @@ _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<
 _etymology_: in 1785, the village of Carenage was renamed Castries, after Charles Eugene Gabriel de La Croix de CASTRIES (1727-1801), who was then the French Minister of the Navy and Colonies<br>
 
 **Administrative divisions**<br>
-10 districts; Anse-la-Raye, Canaries, Castries, Choiseul, Dennery, Gros-Islet, Laborie, Micoud, Soufriere, Vieux-Fort<br>
+10 districts; Anse-la-Raye, Canaries, Castries, Choiseul, Dennery, Gros-Islet, Laborie, Micoud, Soufri&egrave;re, Vieux-Fort<br>
 
 **Independence**<br>
 22 February 1979 (from the UK)<br>
@@ -530,23 +530,23 @@ _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 92,000 kW (2022 est.)<br>
-_consumption_: 360.34 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 31.038 million kWh (2022 est.)<br>
+_installed generating capacity_: 93,000 kW (2023 est.)<br>
+_consumption_: 365.178 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 31.038 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 99.2% of total installed capacity (2022 est.)<br>
-_solar_: 0.8% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 98% of total installed capacity (2023 est.)<br>
+_solar_: 2% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 4,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 4,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 617,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 617,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 605,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 605,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 48.251 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 47.522 million Btu/person (2023 est.)<br>
 
 ## Communications
 

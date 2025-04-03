@@ -299,7 +299,7 @@ _daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday i
 _etymology_: the sites of Spanish colonial cities often retained their original Taino names; Habana, the Spanish name for the city, may be based on the name of a local Taino chief, HABAGUANEX<br>
 
 **Administrative divisions**<br>
-15 provinces (provincias, singular - provincia) and 1 special municipality* (municipio especial); Artemisa, Camaguey, Ciego de Avila, Cienfuegos, Granma, Guantanamo, Holguin, Isla de la Juventud*, La Habana (Havana), Las Tunas, Matanzas, Mayabeque, Pinar del Rio, Sancti Spiritus, Santiago de Cuba, Villa Clara<br>
+15 provinces (provincias, singular - provincia) and 1 special municipality* (municipio especial); Artemisa, Camaguey, Ciego de Avila, Cienfuegos, Granma, Guantanamo, Holguin, Isla de la Juventud*, La Habana (Havana), Las Tunas, Matanzas, Mayabeque, Pinar del R&iacute;o, Sancti Spiritus, Santiago de Cuba, Villa Clara<br>
 
 **Independence**<br>
 20 May 1902 (from Spain 10 December 1898; administered by the US from 1898 to 1902); not acknowledged by the Cuban Government as a day of independence<br>
@@ -526,39 +526,40 @@ _Currency_: Cuban pesos (CUP) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 7.667 million kW (2022 est.)<br>
-_consumption_: 14.559 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 3.688 billion kWh (2022 est.)<br>
+_installed generating capacity_: 7.264 million kW (2023 est.)<br>
+_consumption_: 11.951 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 3.352 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 95.4% of total installed capacity (2022 est.)<br>
-_solar_: 1.5% of total installed capacity (2022 est.)<br>
-_wind_: 0.1% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 0.7% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 2.4% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 95.2% of total installed capacity (2023 est.)<br>
+_solar_: 1.4% of total installed capacity (2023 est.)<br>
+_wind_: 0.4% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 0.8% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 2.2% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_consumption_: 2,000 metric tons (2022 est.)<br>
-_imports_: 4,000 metric tons (2022 est.)<br>
+_consumption_: 1,000 metric tons (2023 est.)<br>
+_exports_: 25 metric tons (2023 est.)<br>
+_imports_: 8,000 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 34,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 165,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 118,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 124 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 659.434 million cubic meters (2022 est.)<br>
-_consumption_: 659.434 million cubic meters (2022 est.)<br>
+_production_: 850.133 million cubic meters (2023 est.)<br>
+_consumption_: 850.133 million cubic meters (2023 est.)<br>
 _proven reserves_: 70.792 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 21.693 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 7,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 20.46 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 1.226 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 19.716 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 16,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 18.12 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 1.58 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 32.255 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 26.07 million Btu/person (2023 est.)<br>
 
 ## Communications
 

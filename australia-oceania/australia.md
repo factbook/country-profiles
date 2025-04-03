@@ -600,44 +600,44 @@ _Currency_: Australian dollars (AUD) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 101.35 million kW (2022 est.)<br>
-_consumption_: 250.005 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 11.481 billion kWh (2022 est.)<br>
+_installed generating capacity_: 108.193 million kW (2023 est.)<br>
+_consumption_: 267.818 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 11.455 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 65.5% of total installed capacity (2022 est.)<br>
-_solar_: 15.2% of total installed capacity (2022 est.)<br>
-_wind_: 12% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 6.3% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 1.1% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 64.9% of total installed capacity (2023 est.)<br>
+_solar_: 17.1% of total installed capacity (2023 est.)<br>
+_wind_: 11.5% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 5.4% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 1.1% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_production_: 465.865 million metric tons (2022 est.)<br>
-_consumption_: 107.624 million metric tons (2022 est.)<br>
-_exports_: 364.589 million metric tons (2022 est.)<br>
-_imports_: 657,000 metric tons (2022 est.)<br>
-_proven reserves_: 150.227 billion metric tons (2022 est.)<br>
+_production_: 445.077 million metric tons (2023 est.)<br>
+_consumption_: 95.667 million metric tons (2023 est.)<br>
+_exports_: 348.32 million metric tons (2023 est.)<br>
+_imports_: 630,000 metric tons (2023 est.)<br>
+_proven reserves_: 149.472 billion metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 386,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 1.123 million bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 1.151 million bbl/day (2024 est.)<br>
 _crude oil estimated reserves_: 2.446 billion barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 153.783 billion cubic meters (2022 est.)<br>
-_consumption_: 50.188 billion cubic meters (2022 est.)<br>
-_exports_: 106.072 billion cubic meters (2022 est.)<br>
-_imports_: 2.925 billion cubic meters (2022 est.)<br>
+_production_: 151.307 billion cubic meters (2023 est.)<br>
+_consumption_: 48.845 billion cubic meters (2023 est.)<br>
+_exports_: 105.146 billion cubic meters (2023 est.)<br>
+_imports_: 521.034 million cubic meters (2023 est.)<br>
 _proven reserves_: 3.228 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 415.177 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 173.542 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 145.566 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 96.069 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 394.653 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 146.81 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 154.346 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 93.497 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 236.653 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 223.158 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -717,8 +717,8 @@ _key ports_: Brisbane, Dampier, Darwin, Fremantle, Geelong, Hobart, Melbourne, N
 ## Military and Security
 
 **Military and security forces**<br>
-Australian Defense Force (ADF): Australian Army, Royal Australian Navy, Royal Australian Air Force (2024)<br>
-<strong>note: </strong>the Australian Federal Police (AFP) is an independent agency of the Attorney-General’s Department; the AFP, state, and territorial police forces are responsible for internal security; the Australian Border Force is under the Department of Home Affairs<br>
+Australian Defense Force (ADF): Australian Army, Royal Australian Navy, Royal Australian Air Force (2025)<br>
+<strong>note: </strong>the Australian Federal Police (AFP) is an independent agency of the Attorney-General’s Department; the AFP, state, and territorial police forces are responsible for internal security; the Australian Border Force (ABF) is under the Department of Home Affairs<br>
 
 **Military expenditures**<br>
 2% of GDP (2023 est.)<br>

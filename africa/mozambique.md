@@ -573,42 +573,42 @@ _electrification - urban areas_: 79.4%<br>
 _electrification - rural areas_: 5%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 2.77 million kW (2022 est.)<br>
-_consumption_: 13.09 billion kWh (2022 est.)<br>
-_exports_: 11.096 billion kWh (2022 est.)<br>
-_imports_: 8.219 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 3.052 billion kWh (2022 est.)<br>
+_installed generating capacity_: 2.86 million kW (2023 est.)<br>
+_consumption_: 12.983 billion kWh (2023 est.)<br>
+_exports_: 11.483 billion kWh (2023 est.)<br>
+_imports_: 8.287 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 3.38 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 17.6% of total installed capacity (2022 est.)<br>
-_solar_: 0.4% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 81.4% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 0.6% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 16.3% of total installed capacity (2023 est.)<br>
+_solar_: 0.4% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 82.7% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 0.6% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_production_: 9.015 million metric tons (2022 est.)<br>
-_consumption_: 11,000 metric tons (2022 est.)<br>
-_exports_: 9.413 million metric tons (2022 est.)<br>
-_imports_: 9,000 metric tons (2022 est.)<br>
-_proven reserves_: 1.792 billion metric tons (2022 est.)<br>
+_production_: 10.583 million metric tons (2023 est.)<br>
+_consumption_: 13,000 metric tons (2023 est.)<br>
+_exports_: 10.658 million metric tons (2023 est.)<br>
+_imports_: 900 metric tons (2023 est.)<br>
+_proven reserves_: 1.792 billion metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 40,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 42,000 bbl/day (2023 est.)<br>
 
 **Natural gas**<br>
-_production_: 5.338 billion cubic meters (2022 est.)<br>
-_consumption_: 1.347 billion cubic meters (2022 est.)<br>
-_exports_: 3.963 billion cubic meters (2022 est.)<br>
+_production_: 8.873 billion cubic meters (2023 est.)<br>
+_consumption_: 1.625 billion cubic meters (2023 est.)<br>
+_exports_: 7.09 billion cubic meters (2023 est.)<br>
 _proven reserves_: 2.832 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 8.423 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 59,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 5.568 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 2.796 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 9.549 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: -68,287 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 6.244 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 3.373 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 5.426 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 5.789 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -684,7 +684,7 @@ _key ports_: Beira, Chinde, Inhambane, Maputo, Mocambique, Pebane, Porto Belo<br
 
 **Military and security forces**<br>
 Armed Forces for the Defense of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM): Mozambique Army (Ramo do Exercito), Mozambique Navy (Marinha de Guerra de Mocambique, MGM), Mozambique Air Force (Forca Aerea de Mocambique, FAM)<br><br>Ministry of Interior: Mozambique National Police (PRM), the National Criminal Investigation Service (SERNIC), Rapid Intervention Unit (UIR; police special forces), Border Security Force; other security forces include the Presidential Guard and the Force for the Protection of High-Level Individuals (2024)<br>
-<strong>note 1: </strong>the FADM and other security forces are referred to collectively as the Defense and Security Forces (DFS)<br><strong><br>note 2:</strong> the PRM, SERNIC, and the UIR are responsible for law enforcement and internal security; the Border Security Force is responsible for protecting the country’s international borders and for carrying out police duties within 24 miles of borders<br><strong><br>note 3</strong>: the Presidential Guard provides security for the president, and the Force for the Protection of High-level Individuals provides security for senior-level officials at the national and provincial levels<br><br><strong>note 4:</strong> in 2023, the Mozambique Government legalized local militias that have been assisting security forces operating in Cabo Delgado against Islamic militants since 2020; this Local Force is comprised of ex-combatants and other civilians and receives training, uniforms, weapons, and logistical support from the FADM<br>
+<strong>note 1: </strong>the FADM and other security forces are referred to collectively as the Mozambican Defense and Security Forces (FDS)<br><strong><br>note 2:</strong> the PRM, SERNIC, and the UIR are responsible for law enforcement and internal security; the Border Security Force is responsible for protecting the country’s international borders and for carrying out police duties within 24 miles of borders<br><strong><br>note 3</strong>: the Presidential Guard provides security for the president, and the Force for the Protection of High-level Individuals provides security for senior-level officials at the national and provincial levels<br><br><strong>note 4:</strong> in 2023, the Mozambique Government legalized local militias that have been assisting security forces operating in Cabo Delgado against Islamic militants since 2020; this Local Force is comprised of ex-combatants and other civilians and receives training, uniforms, weapons, and logistical support from the FADM<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2023 est.)<br>

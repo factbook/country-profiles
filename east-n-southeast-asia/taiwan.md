@@ -447,17 +447,17 @@ _Currency_: New Taiwan dollars (TWD) per US dollar -<br>
 ## Energy
 
 **Electricity**<br>
-_installed generating capacity_: 61.944 million kW (2022 est.)<br>
-_consumption_: 274.029 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 9.615 billion kWh (2022 est.)<br>
+_installed generating capacity_: 64.535 million kW (2023 est.)<br>
+_consumption_: 270.648 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 7.907 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 83.7% of total installed capacity (2022 est.)<br>
-_nuclear_: 8.1% of total installed capacity (2022 est.)<br>
-_solar_: 3.8% of total installed capacity (2022 est.)<br>
-_wind_: 1.2% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 1.8% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 1.3% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 84.2% of total installed capacity (2023 est.)<br>
+_nuclear_: 6.4% of total installed capacity (2023 est.)<br>
+_solar_: 4.6% of total installed capacity (2023 est.)<br>
+_wind_: 2.2% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 1.2% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 1.3% of total installed capacity (2023 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 1 (2025)<br>
@@ -466,31 +466,31 @@ _Percent of total electricity production_: 6.9% (2023 est.)<br>
 _Number of nuclear reactors permanently shut down_: 5 (2025)<br>
 
 **Coal**<br>
-_production_: 5.608 million metric tons (2022 est.)<br>
-_consumption_: 66.855 million metric tons (2022 est.)<br>
-_exports_: 52,000 metric tons (2022 est.)<br>
-_imports_: 63.855 million metric tons (2022 est.)<br>
-_proven reserves_: 1 million metric tons (2022 est.)<br>
+_production_: 5.212 million metric tons (2023 est.)<br>
+_consumption_: 64.609 million metric tons (2023 est.)<br>
+_exports_: 47,000 metric tons (2023 est.)<br>
+_imports_: 58.15 million metric tons (2023 est.)<br>
+_proven reserves_: 1 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 800 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 1.022 million bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 954,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 2.38 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 63.747 million cubic meters (2022 est.)<br>
-_consumption_: 27.157 billion cubic meters (2022 est.)<br>
-_imports_: 27.085 billion cubic meters (2022 est.)<br>
+_production_: 60.761 million cubic meters (2023 est.)<br>
+_consumption_: 27.222 billion cubic meters (2023 est.)<br>
+_imports_: 26.997 billion cubic meters (2023 est.)<br>
 _proven reserves_: 6.23 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 306.035 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 143.069 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 106.739 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 56.227 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 289.109 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 140.734 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 92.014 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 56.361 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 208.336 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 206.102 million Btu/person (2023 est.)<br>
 
 ## Communications
 

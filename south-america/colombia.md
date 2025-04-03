@@ -593,45 +593,45 @@ _Currency_: Colombian pesos (COP) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 18.896 million kW (2022 est.)<br>
-_consumption_: 80.936 billion kWh (2022 est.)<br>
-_exports_: 48.176 million kWh (2022 est.)<br>
-_imports_: 479 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 4.69 billion kWh (2022 est.)<br>
+_installed generating capacity_: 21.053 million kW (2023 est.)<br>
+_consumption_: 82.309 billion kWh (2023 est.)<br>
+_exports_: 1.293 billion kWh (2023 est.)<br>
+_imports_: 407.788 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 7.232 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 28.1% of total installed capacity (2022 est.)<br>
-_solar_: 0.4% of total installed capacity (2022 est.)<br>
-_wind_: 0.1% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 68.9% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 2.6% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 34% of total installed capacity (2023 est.)<br>
+_solar_: 1.3% of total installed capacity (2023 est.)<br>
+_wind_: 0.1% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 62.1% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 2.5% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_production_: 58.747 million metric tons (2022 est.)<br>
-_consumption_: 7.88 million metric tons (2022 est.)<br>
-_exports_: 60.923 million metric tons (2022 est.)<br>
-_imports_: 800 metric tons (2022 est.)<br>
-_proven reserves_: 4.554 billion metric tons (2022 est.)<br>
+_production_: 52.376 million metric tons (2023 est.)<br>
+_consumption_: 9.72 million metric tons (2023 est.)<br>
+_exports_: 46.425 million metric tons (2023 est.)<br>
+_imports_: 1,000 metric tons (2023 est.)<br>
+_proven reserves_: 4.554 billion metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 800,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 320,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 374,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 2.036 billion barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 11.29 billion cubic meters (2022 est.)<br>
-_consumption_: 11.451 billion cubic meters (2022 est.)<br>
-_imports_: 161.491 million cubic meters (2022 est.)<br>
+_production_: 10.927 billion cubic meters (2023 est.)<br>
+_consumption_: 11.885 billion cubic meters (2023 est.)<br>
+_imports_: 958.724 million cubic meters (2023 est.)<br>
 _proven reserves_: 87.782 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 70.163 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 6.507 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 43.723 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 19.932 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 85.878 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 15.463 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 49.727 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 20.688 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 25.8 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 29.305 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -747,7 +747,7 @@ has a small program focused on acquiring satellites, particularly remote sensing
 ## Terrorism
 
 **Terrorist group(s)**<br>
-National Liberation Army (ELN); Revolutionary Armed Forces of Colombia - People's Army (FARC-EP); Segunda Marquetalia<br>
+National Liberation Army (ELN); Revolutionary Armed Forces of Colombia - People's Army (FARC-EP); Segunda Marquetalia (SM)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

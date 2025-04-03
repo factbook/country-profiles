@@ -588,40 +588,40 @@ _electrification - urban areas_: 74.7%<br>
 _electrification - rural areas_: 36%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 1.677 million kW (2022 est.)<br>
-_consumption_: 7.931 billion kWh (2022 est.)<br>
-_imports_: 148.53 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 1.238 billion kWh (2022 est.)<br>
+_installed generating capacity_: 1.818 million kW (2023 est.)<br>
+_consumption_: 9.109 billion kWh (2023 est.)<br>
+_imports_: 157.688 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 2.039 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 67.4% of total installed capacity (2022 est.)<br>
-_solar_: 0.5% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 31.3% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 0.8% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 74.5% of total installed capacity (2023 est.)<br>
+_solar_: 0.3% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 24.6% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 0.7% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_production_: 2.511 million metric tons (2022 est.)<br>
-_consumption_: 802,000 metric tons (2022 est.)<br>
-_exports_: 1.71 million metric tons (2022 est.)<br>
-_imports_: 100 metric tons (2022 est.)<br>
-_proven reserves_: 1.41 billion metric tons (2022 est.)<br>
+_production_: 2.341 million metric tons (2023 est.)<br>
+_consumption_: 740,000 metric tons (2023 est.)<br>
+_exports_: 1.602 million metric tons (2023 est.)<br>
+_imports_: 21 metric tons (2023 est.)<br>
+_proven reserves_: 1.41 billion metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 58,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 85,000 bbl/day (2023 est.)<br>
 
 **Natural gas**<br>
-_production_: 1.808 billion cubic meters (2022 est.)<br>
-_consumption_: 1.808 billion cubic meters (2022 est.)<br>
+_production_: 2.016 billion cubic meters (2023 est.)<br>
+_consumption_: 2.016 billion cubic meters (2023 est.)<br>
 _proven reserves_: 6.513 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 12.804 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 1.762 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 7.494 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 3.547 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 17.707 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 1.687 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 12.066 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 3.954 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 3.221 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 4.091 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -726,7 +726,7 @@ the TDPF&rsquo;s primary concerns are maritime piracy and smuggling, border secu
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
+al-Shabaab; Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

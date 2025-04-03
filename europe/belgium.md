@@ -301,7 +301,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: may derive from the Old Dutch <em>bruoc/broek</em>, meaning "marsh" and <em>sella/zele/sel</em> signifying "home" to express the meaning "home in the marsh"<br>
 
 **Administrative divisions**<br>
-3 regions (French: regions, singular - region; Dutch: gewesten, singular - gewest); Brussels-Capital Region, also known as Brussels Hoofdstedelijk Gewest (Dutch), Region de Bruxelles-Capitale (French long form), Bruxelles-Capitale (French short form); Flemish Region (Flanders), also known as Vlaams Gewest (Dutch long form), Vlaanderen (Dutch short form), Region Flamande (French long form), Flandre (French short form); Walloon Region (Wallonia), also known as Region Wallone (French long form), Wallonie (French short form), Waals Gewest (Dutch long form), Wallonie (Dutch short form)<br>
+3 regions (French: régions, singular - région; Dutch: gewesten, singular - gewest); Brussels-Capital Region, also known as Brussels Hoofdstedelijk Gewest (Dutch), Region de Bruxelles-Capitale (French long form), Bruxelles-Capitale (French short form); Flemish Region (Flanders), also known as Vlaams Gewest (Dutch long form), Vlaanderen (Dutch short form), Region Flamande (French long form), Flandre (French short form); Walloon Region (Wallonia), also known as Region Wallone (French long form), Wallonie (French short form), Waals Gewest (Dutch long form), Wallonie (Dutch short form)<br>
 <strong>note:</strong> as a result of the 1993 constitutional revision that furthered devolution into a federal state, there are now three levels of government (federal, regional, and linguistic community) with a complex division of responsibilities; the 2012 sixth state reform transferred additional competencies from the federal state to the regions and linguistic communities<br>
 
 **Independence**<br>
@@ -574,19 +574,19 @@ _Currency_: euros (EUR) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 26.31 million kW (2022 est.)<br>
-_consumption_: 79.972 billion kWh (2022 est.)<br>
-_exports_: 23.877 billion kWh (2022 est.)<br>
-_imports_: 16.35 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 3.394 billion kWh (2022 est.)<br>
+_installed generating capacity_: 28.248 million kW (2023 est.)<br>
+_consumption_: 74.537 billion kWh (2023 est.)<br>
+_exports_: 18.279 billion kWh (2023 est.)<br>
+_imports_: 18.626 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 3.147 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 29% of total installed capacity (2022 est.)<br>
-_nuclear_: 45.8% of total installed capacity (2022 est.)<br>
-_solar_: 7.7% of total installed capacity (2022 est.)<br>
-_wind_: 13% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: -0.2% of total installed capacity (2022 est.) <b>note:</b> Belgium has negative net hydroelectric power generation based on losses from use of pumped storage hydropower<br>
-_biomass and waste_: 4.7% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 24.1% of total installed capacity (2023 est.)<br>
+_nuclear_: 40.4% of total installed capacity (2023 est.)<br>
+_solar_: 9.4% of total installed capacity (2023 est.)<br>
+_wind_: 20% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: -0.1% of total installed capacity (2023 est.) <b>note:</b> Belgium has negative net hydroelectric power generation based on losses from use of pumped storage hydropower<br>
+_biomass and waste_: 6.2% of total installed capacity (2023 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 4 (2025)<br>
@@ -595,30 +595,30 @@ _Percent of total electricity production_: 41.2% (2023 est.)<br>
 _Number of nuclear reactors permanently shut down_: 3 (2025)<br>
 
 **Coal**<br>
-_production_: 1.27 million metric tons (2022 est.)<br>
-_consumption_: 4.869 million metric tons (2022 est.)<br>
-_exports_: 557,000 metric tons (2022 est.)<br>
-_imports_: 4.554 million metric tons (2022 est.)<br>
-_proven reserves_: 4.1 billion metric tons (2022 est.)<br>
+_production_: 1.269 million metric tons (2023 est.)<br>
+_consumption_: 4.372 million metric tons (2023 est.)<br>
+_exports_: 184,000 metric tons (2023 est.)<br>
+_imports_: 4.046 million metric tons (2023 est.)<br>
+_proven reserves_: 4.1 billion metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 11,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 585,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 596,000 bbl/day (2024 est.)<br>
 
 **Natural gas**<br>
-_production_: 13.436 million cubic meters (2022 est.)<br>
-_consumption_: 15.347 billion cubic meters (2022 est.)<br>
-_exports_: 9.86 billion cubic meters (2022 est.)<br>
-_imports_: 25.327 billion cubic meters (2022 est.)<br>
+_production_: 12.938 million cubic meters (2023 est.)<br>
+_consumption_: 14.382 billion cubic meters (2023 est.)<br>
+_exports_: 8.461 billion cubic meters (2023 est.)<br>
+_imports_: 23.007 billion cubic meters (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 116.271 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 8.163 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 78.995 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 29.113 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 112.083 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 8.166 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 76.635 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 27.282 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 205.444 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 190.416 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -694,8 +694,8 @@ _key ports_: Antwerpen, Bruxelles, Ghent, Oostende, Zeebrugge<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Belgian Armed Forces (Defensie or  La Défense): Land Component, Marine (Naval) Component, Air Component, Medical Component (2024)<br>
-<strong>note: </strong>the Belgian Federal Police is the national police force and responsible for internal security and nationwide law and order, including migration and border enforcement; the force reports to the ministers of interior and justice<br>
+Belgian Armed Forces (Defensie or La Défense): Land Component, Marine (Naval) Component, Air Component, Medical Component, Cyber Command (2025)<br>
+<strong>note: </strong>the Belgian Federal Police is the national police force and responsible for internal security and nationwide law and order, including migration and border enforcement<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2024 est.)<br>

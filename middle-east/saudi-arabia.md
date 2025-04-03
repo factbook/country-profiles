@@ -545,40 +545,40 @@ _Currency_: Saudi riyals (SAR) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 80.11 million kW (2022 est.)<br>
-_consumption_: 393.213 billion kWh (2022 est.)<br>
-_exports_: 382.556 million kWh (2022 est.)<br>
-_imports_: 334.737 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 38.658 billion kWh (2022 est.)<br>
+_installed generating capacity_: 119.62 million kW (2023 est.)<br>
+_consumption_: 383.512 billion kWh (2023 est.)<br>
+_exports_: 352 million kWh (2023 est.)<br>
+_imports_: 308 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 38.23 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 99.7% of total installed capacity (2022 est.)<br>
-_solar_: 0.2% of total installed capacity (2022 est.)<br>
-_wind_: 0.1% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 99.3% of total installed capacity (2023 est.)<br>
+_solar_: 0.3% of total installed capacity (2023 est.)<br>
+_wind_: 0.4% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_consumption_: 164,000 metric tons (2022 est.)<br>
-_exports_: 200 metric tons (2022 est.)<br>
-_imports_: 164,000 metric tons (2022 est.)<br>
+_consumption_: 66,000 metric tons (2023 est.)<br>
+_exports_: 500 metric tons (2023 est.)<br>
+_imports_: 223,000 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 11.113 million bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 3.649 million bbl/day (2022 est.)<br>
+_total petroleum production_: 11.174 million bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 3.524 million bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 258.6 billion barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 121.87 billion cubic meters (2022 est.)<br>
-_consumption_: 121.87 billion cubic meters (2022 est.)<br>
+_production_: 121.219 billion cubic meters (2023 est.)<br>
+_consumption_: 121.219 billion cubic meters (2023 est.)<br>
 _proven reserves_: 9.423 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 638.449 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 437,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 398.933 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 239.078 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 656.511 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 384,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 418.326 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 237.801 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 313.903 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 349.692 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -696,7 +696,7 @@ has an ambitious and growing space program; manufactures and operates communicat
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida; al-Qa’ida in the Arabian Peninsula (AQAP)<br>
+Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

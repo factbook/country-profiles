@@ -596,19 +596,19 @@ _Currency_: Argentine pesos (ARS) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 46.82 million kW (2022 est.)<br>
-_consumption_: 127.98 billion kWh (2022 est.)<br>
-_exports_: 31 million kWh (2022 est.)<br>
-_imports_: 12.909 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 29.877 billion kWh (2022 est.)<br>
+_installed generating capacity_: 47.631 million kW (2023 est.)<br>
+_consumption_: 114.667 billion kWh (2023 est.)<br>
+_exports_: 31 million kWh (2023 est.)<br>
+_imports_: 11.393 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 27.027 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 65.3% of total installed capacity (2022 est.)<br>
-_nuclear_: 5.2% of total installed capacity (2022 est.)<br>
-_solar_: 2% of total installed capacity (2022 est.)<br>
-_wind_: 9.7% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 16.4% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 1.5% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 61.5% of total installed capacity (2023 est.)<br>
+_nuclear_: 6.9% of total installed capacity (2023 est.)<br>
+_solar_: 2.5% of total installed capacity (2023 est.)<br>
+_wind_: 11% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 16.5% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 1.7% of total installed capacity (2023 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 3 (2025)<br>
@@ -617,32 +617,32 @@ _Net capacity of operational nuclear reactors_: 1.64GW (2025 est.)<br>
 _Percent of total electricity production_: 6.3% (2023 est.)<br>
 
 **Coal**<br>
-_production_: 1.318 million metric tons (2022 est.)<br>
-_consumption_: 3.391 million metric tons (2022 est.)<br>
-_exports_: 8,000 metric tons (2022 est.)<br>
-_imports_: 2.196 million metric tons (2022 est.)<br>
-_proven reserves_: 799.999 million metric tons (2022 est.)<br>
+_production_: 869,000 metric tons (2023 est.)<br>
+_consumption_: 2.534 million metric tons (2023 est.)<br>
+_exports_: 300 metric tons (2023 est.)<br>
+_imports_: 1.936 million metric tons (2023 est.)<br>
+_proven reserves_: 799.999 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 807,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 706,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 749,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 2.483 billion barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 43.28 billion cubic meters (2022 est.)<br>
-_consumption_: 46.228 billion cubic meters (2022 est.)<br>
-_exports_: 3.422 billion cubic meters (2022 est.)<br>
-_imports_: 6.229 billion cubic meters (2022 est.)<br>
+_production_: 43.69 billion cubic meters (2023 est.)<br>
+_consumption_: 46.028 billion cubic meters (2023 est.)<br>
+_exports_: 2.344 billion cubic meters (2023 est.)<br>
+_imports_: 5.225 billion cubic meters (2023 est.)<br>
 _proven reserves_: 396.464 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 185.37 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 5.392 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 89.464 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 90.515 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 198.141 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 5.022 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 102.998 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 90.122 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 75.735 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 78.496 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -719,7 +719,7 @@ _key ports_: Buenos Aires, Campana, Concepcion del Uruguay, La Plata, Mar del Pl
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Argentine Republic (Fuerzas Armadas de la República Argentina): Argentine Army (Ejercito Argentino, EA), Navy of the Argentine Republic (Armada Republica, ARA; includes naval aviation and naval infantry), Argentine Air Force (Fuerza Aerea Argentina, FAA)<br><br>Ministry of Security: Gendarmería Nacional Argentina (National Gendarmerie), Coast Guard (Prefectura Naval) (2024)<br>
+Armed Forces of the Argentine Republic (Fuerzas Armadas de la República Argentina): Argentine Army (Ejercito Argentino, EA), Navy of the Argentine Republic (Armada Republica, ARA; includes naval aviation and naval infantry), Argentine Air Force (Fuerza Aerea Argentina, FAA)<br><br>Ministry of Security: Gendarmería Nacional Argentina (National Gendarmerie), Coast Guard (Prefectura Naval) (2025)<br>
 <strong>note: </strong>all federal police forces are under the Ministry of Security<br>
 
 **Military expenditures**<br>

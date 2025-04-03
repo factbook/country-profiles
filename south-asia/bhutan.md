@@ -530,31 +530,31 @@ _Currency_: ngultrum (BTN) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 2.342 million kW (2022 est.)<br>
-_consumption_: 9.752 billion kWh (2022 est.)<br>
+_installed generating capacity_: 2.344 million kW (2023 est.)<br>
+_consumption_: 11.914 billion kWh (2023 est.)<br>
 _exports_: 6 billion kWh (2020 est.)<br>
-_imports_: 834.7 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 83.626 million kWh (2022 est.)<br>
+_imports_: 834.7 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 86.681 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_hydroelectricity_: 100% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 100% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_production_: 177,000 metric tons (2022 est.)<br>
-_consumption_: 325,000 metric tons (2022 est.)<br>
-_exports_: 100 metric tons (2022 est.)<br>
-_imports_: 148,000 metric tons (2022 est.)<br>
+_production_: 4,000 metric tons (2023 est.)<br>
+_consumption_: 105,000 metric tons (2023 est.)<br>
+_exports_: 54 metric tons (2023 est.)<br>
+_imports_: 122,000 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 3,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 4,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 1.206 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 728,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 478,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 733,000 metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 241,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 492,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 60.788 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 64.082 million Btu/person (2023 est.)<br>
 
 ## Communications
 

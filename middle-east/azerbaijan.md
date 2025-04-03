@@ -558,43 +558,43 @@ _Currency_: Azerbaijani manats (AZN) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 7.71 million kW (2022 est.)<br>
-_consumption_: 23.827 billion kWh (2022 est.)<br>
-_exports_: 2.997 billion kWh (2022 est.)<br>
-_imports_: 137 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 2.25 billion kWh (2022 est.)<br>
+_installed generating capacity_: 8.383 million kW (2023 est.)<br>
+_consumption_: 23.857 billion kWh (2023 est.)<br>
+_exports_: 3.246 billion kWh (2023 est.)<br>
+_imports_: 212 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 2.197 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 93.6% of total installed capacity (2022 est.)<br>
-_solar_: 0.2% of total installed capacity (2022 est.)<br>
-_wind_: 0.3% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 5.5% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 0.4% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 93.5% of total installed capacity (2023 est.)<br>
+_solar_: 0.2% of total installed capacity (2023 est.)<br>
+_wind_: 0.3% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 5.6% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 0.4% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_consumption_: 60,000 metric tons (2022 est.)<br>
-_imports_: 20,000 metric tons (2022 est.)<br>
+_consumption_: 6,000 metric tons (2023 est.)<br>
+_imports_: 10,000 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 618,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 105,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 109,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 7 billion barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 34.175 billion cubic meters (2022 est.)<br>
-_consumption_: 11.759 billion cubic meters (2022 est.)<br>
-_exports_: 22.4 billion cubic meters (2022 est.)<br>
-_imports_: 67.711 million cubic meters (2022 est.)<br>
+_production_: 35.775 billion cubic meters (2023 est.)<br>
+_consumption_: 12.703 billion cubic meters (2023 est.)<br>
+_exports_: 23.65 billion cubic meters (2023 est.)<br>
+_imports_: 2.173 billion cubic meters (2023 est.)<br>
 _proven reserves_: 1.699 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 36.187 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 137,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 12.982 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 23.068 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 38.892 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 17,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 13.954 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 24.921 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 61.497 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 66.467 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -659,7 +659,7 @@ _by type_: general cargo 40, oil tanker 44, other 228<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Azerbaijan Armed Forces: Land Forces, Air Forces, Navy Forces, State Border Service, Coast Guard<br><br>Ministry of Internal Affairs: Internal Troops, local police forces; Special State Protection Service (SSPS): National Guard (2024)<br>
+Azerbaijan Armed Forces: Land Forces, Air Forces, Navy Forces, Special Forces, State Border Service, Coast Guard<br><br>Ministry of Internal Affairs: Internal Troops, local police forces; Special State Protection Service (SSPS): National Guard (2024)<br>
 <strong>note:</strong> the Ministry of Internal Affairs and the State Security Service (intelligence, counterterrorism) are responsible for internal security; the SSPS is under the president and provides protective services to senior officials, foreign missions, significant state assets, government buildings, etc; the National Guard also serves as a reserve for the Army<br>
 
 **Military expenditures**<br>

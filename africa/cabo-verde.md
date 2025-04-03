@@ -286,7 +286,7 @@ _time difference_: UTC-1 (4 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the earlier Portuguese name was Villa de Praia ("Village of the Beach"); it became just Praia in 1974 (prior to full independence in 1975)<br>
 
 **Administrative divisions**<br>
-22 municipalities (concelhos, singular - concelho); Boa Vista, Brava, Maio, Mosteiros, Paul, Porto Novo, Praia, Ribeira Brava, Ribeira Grande, Ribeira Grande de Santiago, Sal, Santa Catarina, Santa Catarina do Fogo, Santa Cruz, Sao Domingos, Sao Filipe, Sao Lourenco dos Orgaos, Sao Miguel, Sao Salvador do Mundo, Sao Vicente, Tarrafal, Tarrafal de Sao Nicolau<br>
+22 municipalities (concelhos, singular - concelho); Boa Vista, Brava, Maio, Mosteiros, Paul, Porto Novo, Praia, Ribeira Brava, Ribeira Grande, Ribeira Grande de Santiago, Sal, Santa Catarina, Santa Catarina do Fogo, Santa Cruz, S&atilde;o Domingos, S&atilde;o Filipe, S&atilde;o Lourenco dos Orgaos, S&atilde;o Miguel, S&atilde;o Salvador do Mundo, S&atilde;o Vicente, Tarrafal, Tarrafal de S&atilde;o Nicolau<br>
 
 **Independence**<br>
 5 July 1975 (from Portugal)<br>
@@ -545,24 +545,24 @@ _electrification - urban areas_: 95.3%<br>
 _electrification - rural areas_: 96.9%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 204,000 kW (2022 est.)<br>
-_consumption_: 327 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 106 million kWh (2022 est.)<br>
+_installed generating capacity_: 200,000 kW (2023 est.)<br>
+_consumption_: 400 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 106 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 83.1% of total installed capacity (2022 est.)<br>
-_solar_: 2.1% of total installed capacity (2022 est.)<br>
-_wind_: 14.8% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 71.1% of total installed capacity (2023 est.)<br>
+_solar_: 14.2% of total installed capacity (2023 est.)<br>
+_wind_: 14.6% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 4,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 5,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 681,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 681,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 714,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 714,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 16.298 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 19.999 million Btu/person (2023 est.)<br>
 
 ## Communications
 

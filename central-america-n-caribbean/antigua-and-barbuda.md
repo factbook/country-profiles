@@ -497,23 +497,26 @@ _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 97,000 kW (2022 est.)<br>
-_consumption_: 318.337 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 37.847 million kWh (2022 est.)<br>
+_installed generating capacity_: 148,000 kW (2023 est.)<br>
+_consumption_: 322.923 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 38.121 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 94.2% of total installed capacity (2022 est.)<br>
-_solar_: 5.8% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 93.6% of total installed capacity (2023 est.)<br>
+_solar_: 6.4% of total installed capacity (2023 est.)<br>
+
+**Coal**<br>
+_imports_: 25 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 5,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 5,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 769,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 769,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 725,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 725,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 114.469 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 110.114 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -581,7 +584,7 @@ _key ports_: St. John's<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Antigua and Barbuda Defense Force (ABDF): Antigua and Barbuda Regiment, Air Wing, Coast Guard<br><br>Royal Police Force of Antigua and Barbuda (2024)<br>
+Antigua and Barbuda Defense Force (ABDF): Antigua and Barbuda Regiment, Air Wing, Coast Guard<br><br>Royal Police Force of Antigua and Barbuda (RPFAB) (2024)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 250 active military personnel (2024)<br>
@@ -590,7 +593,7 @@ approximately 250 active military personnel (2024)<br>
 the ABDF's equipment inventory is limited to small arms, light weapons, and soft-skin vehicles; the Coast Guard maintains ex-US patrol vessels and some smaller boats (2024)<br>
 
 **Military service age and obligation**<br>
-18-23 years of age for voluntary military service for both men and women; no conscription (2023)<br>
+18-23 years of age for voluntary military service for both men and women; no conscription (2024)<br>
 
 **Military - note**<br>
 the ABDF’s responsibilities include providing for internal security and support to the police in maintaining law and order, interdicting narcotics smuggling, responding to natural disasters, and monitoring the country’s territorial waters and maritime resources; established in 1981 from colonial forces originally created in 1897, it is one of the world’s smallest militaries<br><br>the country has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Barbados, Dominica, Grenada, Guyana, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2024)<br>

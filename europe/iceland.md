@@ -549,26 +549,26 @@ _Currency_: Icelandic kronur (ISK) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 3.006 million kW (2022 est.)<br>
-_consumption_: 19.296 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 568.767 million kWh (2022 est.)<br>
+_installed generating capacity_: 3.005 million kW (2023 est.)<br>
+_consumption_: 19.584 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 543 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_hydroelectricity_: 70.2% of total installed capacity (2022 est.)<br>
-_geothermal_: 29.8% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 70.1% of total installed capacity (2023 est.)<br>
+_geothermal_: 29.9% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_consumption_: 188,000 metric tons (2022 est.)<br>
-_exports_: (2022 est.) less than 1 metric ton<br>
-_imports_: 113,000 metric tons (2022 est.)<br>
+_consumption_: 137,000 metric tons (2023 est.)<br>
+_exports_: 81 metric tons (2023 est.)<br>
+_imports_: 106,000 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 18,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 19,000 bbl/day (2024 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 3.579 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 514,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 3.065 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 3.101 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 376,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 2.725 million metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

@@ -329,8 +329,8 @@ _time zone note_: applies to metropolitan France only; for its overseas regions 
 _etymology_: name derives from the Parisii, a Celtic tribe that inhabited the area from the 3rd century B.C., but who were conquered by the Romans in the 1st century B.C.; the Celtic settlement became the Roman town of Lutetia Parisiorum (Lutetia of the Parisii); over subsequent centuries it became Parisium and then just Paris<br>
 
 **Administrative divisions**<br>
-18 regions (regions, singular - region); Auvergne-Rhone-Alpes, Bourgogne-Franche-Comte (Burgundy-Free County), Bretagne (Brittany), Centre-Val de Loire (Center-Loire Valley), Corse (Corsica), Grand Est (Grand East), Guadeloupe, Guyane (French Guiana), Hauts-de-France (Upper France), Ile-de-France, Martinique, Mayotte, Normandie (Normandy), Nouvelle-Aquitaine (New Aquitaine), Occitanie (Occitania), Pays de la Loire (Lands of the Loire), Provence-Alpes-Cote d'Azur, Reunion<br>
-<strong>note:</strong> France is divided into 13 metropolitan regions (including the "collectivity" of Corse or Corsica) and 5 overseas regions (French Guiana, Guadeloupe, Martinique, Mayotte, and Reunion) and is subdivided into 96 metropolitan departments and 5 overseas departments (which are the same as the overseas regions)<br>
+18 regions (régions, singular - région); Auvergne-Rhône-Alpes, Bourgogne-Franche-Comté, Bretagne (Brittany), Centre-Val de Loire (Center-Loire Valley), Corse (Corsica), Grand Est (Grand East), Guadeloupe, Guyane (French Guiana), Hauts-de-France (Upper France), Ile-de-France, Martinique, Mayotte, Normandie (Normandy), Nouvelle-Aquitaine (New Aquitaine), Occitanie (Occitania), Pays de la Loire (Lands of the Loire), Provence-Alpes-Côte d'Azur, Réunion<br>
+<strong>note:</strong> France is divided into 13 metropolitan regions (including the "collectivity" of Corse or Corsica) and 5 overseas regions (French Guiana, Guadeloupe, Martinique, Mayotte, and Réunion) and is subdivided into 96 metropolitan departments and 5 overseas departments (which are the same as the overseas regions)<br>
 
 **Dependent areas**<br>
 Clipperton Island, French Polynesia, French Southern and Antarctic Lands, New Caledonia, Saint Barthelemy, Saint Martin, Saint Pierre and Miquelon, Wallis and Futuna (8)<br>
@@ -609,20 +609,20 @@ _Currency_: euros (EUR) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 148.914 million kW (2022 est.)<br>
-_consumption_: 425.994 billion kWh (2022 est.)<br>
-_exports_: 37.329 billion kWh (2022 est.)<br>
-_imports_: 53.255 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 36.223 billion kWh (2022 est.)<br>
+_installed generating capacity_: 151.463 million kW (2023 est.)<br>
+_consumption_: 415.542 billion kWh (2023 est.)<br>
+_exports_: 76.207 billion kWh (2023 est.)<br>
+_imports_: 25.107 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 35.282 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 12.1% of total installed capacity (2022 est.)<br>
-_nuclear_: 62.5% of total installed capacity (2022 est.)<br>
-_solar_: 4.5% of total installed capacity (2022 est.)<br>
-_wind_: 8.5% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 9.5% of total installed capacity (2022 est.)<br>
-_tide and wave_: 0.1% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 2.7% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 7.9% of total installed capacity (2023 est.)<br>
+_nuclear_: 63.9% of total installed capacity (2023 est.)<br>
+_solar_: 4.5% of total installed capacity (2023 est.)<br>
+_wind_: 10.4% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 10.8% of total installed capacity (2023 est.)<br>
+_tide and wave_: 0.1% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 2.3% of total installed capacity (2023 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 57 (2025)<br>
@@ -631,32 +631,32 @@ _Percent of total electricity production_: 64.8% (2023 est.)<br>
 _Number of nuclear reactors permanently shut down_: 14 (2025)<br>
 
 **Coal**<br>
-_production_: 2.419 million metric tons (2022 est.)<br>
-_consumption_: 12.985 million metric tons (2022 est.)<br>
-_exports_: 120,000 metric tons (2022 est.)<br>
-_imports_: 10.181 million metric tons (2022 est.)<br>
-_proven reserves_: 160 million metric tons (2022 est.)<br>
+_production_: 2.157 million metric tons (2023 est.)<br>
+_consumption_: 12.57 million metric tons (2023 est.)<br>
+_exports_: 64,000 metric tons (2023 est.)<br>
+_imports_: 10.347 million metric tons (2023 est.)<br>
+_proven reserves_: 160 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 80,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 1.554 million bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 1.536 million bbl/day (2024 est.)<br>
 _crude oil estimated reserves_: 61.719 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 20.132 million cubic meters (2022 est.)<br>
-_consumption_: 37.001 billion cubic meters (2022 est.)<br>
-_exports_: 15.25 billion cubic meters (2022 est.)<br>
-_imports_: 56.281 billion cubic meters (2022 est.)<br>
+_production_: 17.928 million cubic meters (2023 est.)<br>
+_consumption_: 33.238 billion cubic meters (2023 est.)<br>
+_exports_: 13.584 billion cubic meters (2023 est.)<br>
+_imports_: 46.909 billion cubic meters (2023 est.)<br>
 _proven reserves_: 7.787 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 311.904 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 27.266 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 207.798 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 76.84 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 303.779 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 25.355 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 209.4 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 69.025 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 121.928 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 123.526 million Btu/person (2023 est.)<br>
 
 ## Communications
 

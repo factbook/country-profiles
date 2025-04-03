@@ -383,9 +383,6 @@ _Currency_: Jersey pounds (JEP) per US dollar<br>
 _electrification - total population_: 100% (2022 est.)<br>
 <strong>note:</strong> includes Guernsey and Jersey<br>
 
-**Carbon dioxide emissions**<br>
-450,000 metric tonnes of CO2 (2012 est.)<br>
-
 ## Communications
 
 **Telephones - fixed lines**<br>

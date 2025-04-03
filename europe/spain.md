@@ -309,7 +309,7 @@ _time zone note_: Spain has two time zones, including the Canary Islands (UTC 0)
 _etymology_: the Romans named the original settlement "Matrice" after the river that ran through it; under Arab rule it became "Majerit," meaning "source of water"; in medieval Romance dialects (Mozarabic) it became "Matrit," which over time changed to "Madrid"<br>
 
 **Administrative divisions**<br>
-17 autonomous communities (comunidades autonomas, singular - comunidad autonoma) and 2 autonomous cities* (ciudades autonomas, singular - ciudad autonoma); Andalucia; Aragon; Asturias; Canarias (Canary Islands); Cantabria; Castilla-La Mancha; Castilla-Leon; Cataluna (Castilian), Catalunya (Catalan), Catalonha (Aranese) [Catalonia]; Ceuta*; Comunidad Valenciana (Castilian), Comunitat Valenciana (Valencian) [Valencian Community]; Extremadura; Galicia; Illes Baleares (Balearic Islands); La Rioja; Madrid; Melilla*; Murcia; Navarra (Castilian), Nafarroa (Basque) [Navarre]; Pais Vasco (Castilian), Euskadi (Basque) [Basque Country]<br>
+17 autonomous communities (comunidades autonomas, singular - comunidad autonoma) and 2 autonomous cities* (ciudades autonomas, singular - ciudad autonoma); Andalucia; Aragon; Asturias; Canarias (Canary Islands); Cantabria; Castilla-La Mancha; Castilla-Leon; Cataluña (Castilian), Catalunya (Catalan), Catalonha (Aranese) [Catalonia]; Ceuta*; Comunidad Valenciana (Castilian), Comunitat Valenciana (Valencian) [Valencian Community]; Extremadura; Galicia; Illes Baleares (Balearic Islands); La Rioja; Madrid; Melilla*; Murcia; Navarra (Castilian), Nafarroa (Basque) [Navarre]; Pais Vasco (Castilian), Euskadi (Basque) [Basque Country]<br>
 <strong>note:</strong> the autonomous cities of Ceuta and Melilla plus three small islands of Islas Chafarinas, Penon de Alhucemas, and Penon de Velez de la Gomera, administered directly by the Spanish central government, are all along the coast of Morocco and are collectively referred to as Places of Sovereignty (Plazas de Soberania)<br>
 
 **Independence**<br>
@@ -586,19 +586,19 @@ _Currency_: euros (EUR) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 118.141 million kW (2022 est.)<br>
-_consumption_: 232.66 billion kWh (2022 est.)<br>
-_exports_: 27.916 billion kWh (2022 est.)<br>
-_imports_: 8.043 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 26.117 billion kWh (2022 est.)<br>
+_installed generating capacity_: 130.366 million kW (2023 est.)<br>
+_consumption_: 227.187 billion kWh (2023 est.)<br>
+_exports_: 25.279 billion kWh (2023 est.)<br>
+_imports_: 11.315 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 24.532 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 37.8% of total installed capacity (2022 est.)<br>
-_nuclear_: 20.1% of total installed capacity (2022 est.)<br>
-_solar_: 11.8% of total installed capacity (2022 est.)<br>
-_wind_: 22% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 5.6% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 2.8% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 28% of total installed capacity (2023 est.)<br>
+_nuclear_: 20.4% of total installed capacity (2023 est.)<br>
+_solar_: 17.3% of total installed capacity (2023 est.)<br>
+_wind_: 23.6% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 8.5% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 2.2% of total installed capacity (2023 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 7 (2025)<br>
@@ -607,32 +607,32 @@ _Percent of total electricity production_: 20.3% (2023 est.)<br>
 _Number of nuclear reactors permanently shut down_: 3 (2025)<br>
 
 **Coal**<br>
-_production_: 1.293 million metric tons (2022 est.)<br>
-_consumption_: 8.255 million metric tons (2022 est.)<br>
-_exports_: 1.45 million metric tons (2022 est.)<br>
-_imports_: 10.775 million metric tons (2022 est.)<br>
-_proven reserves_: 1.187 billion metric tons (2022 est.)<br>
+_production_: 1.28 million metric tons (2023 est.)<br>
+_consumption_: 7.388 million metric tons (2023 est.)<br>
+_exports_: 1.629 million metric tons (2023 est.)<br>
+_imports_: 9.798 million metric tons (2023 est.)<br>
+_proven reserves_: 1.187 billion metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 47,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 1.269 million bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 1.325 million bbl/day (2024 est.)<br>
 _crude oil estimated reserves_: 150 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 41.009 million cubic meters (2022 est.)<br>
-_consumption_: 32.833 billion cubic meters (2022 est.)<br>
-_exports_: 6.066 billion cubic meters (2022 est.)<br>
-_imports_: 39.662 billion cubic meters (2022 est.)<br>
+_production_: 34.124 million cubic meters (2023 est.)<br>
+_consumption_: 29.041 billion cubic meters (2023 est.)<br>
+_exports_: 6.576 billion cubic meters (2023 est.)<br>
+_imports_: 35.252 billion cubic meters (2023 est.)<br>
 _proven reserves_: 2.549 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 266.476 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 15.6 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 184.054 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 66.823 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 254.823 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 13.39 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 182.327 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 59.105 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 105.979 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 101.12 million Btu/person (2023 est.)<br>
 
 ## Communications
 

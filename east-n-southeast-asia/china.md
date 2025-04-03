@@ -599,19 +599,19 @@ _Currency_: Renminbi yuan (RMB) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 2.594 billion kW (2022 est.)<br>
-_consumption_: 8.54 trillion kWh (2022 est.)<br>
-_exports_: 20.176 billion kWh (2022 est.)<br>
-_imports_: 5.87 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 327.874 billion kWh (2022 est.)<br>
+_installed generating capacity_: 2.949 billion kW (2023 est.)<br>
+_consumption_: 8.894 trillion kWh (2023 est.)<br>
+_exports_: 20.577 billion kWh (2023 est.)<br>
+_imports_: 7.195 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 325.352 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 64.9% of total installed capacity (2022 est.)<br>
-_nuclear_: 4.7% of total installed capacity (2022 est.)<br>
-_solar_: 4.7% of total installed capacity (2022 est.)<br>
-_wind_: 8.5% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 15.1% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 2.1% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 64.2% of total installed capacity (2023 est.)<br>
+_nuclear_: 4.7% of total installed capacity (2023 est.)<br>
+_solar_: 6.3% of total installed capacity (2023 est.)<br>
+_wind_: 9.6% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 13.3% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 1.9% of total installed capacity (2023 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 57 (2025)<br>
@@ -620,32 +620,32 @@ _Net capacity of operational nuclear reactors_: 55.32GW (2025 est.)<br>
 _Percent of total electricity production_: 4.9% (2023 est.)<br>
 
 **Coal**<br>
-_production_: 4.827 billion metric tons (2022 est.)<br>
-_consumption_: 5.313 billion metric tons (2022 est.)<br>
-_exports_: 12.925 million metric tons (2022 est.)<br>
-_imports_: 313.937 million metric tons (2022 est.)<br>
-_proven reserves_: 143.197 billion metric tons (2022 est.)<br>
+_production_: 4.805 billion metric tons (2023 est.)<br>
+_consumption_: 5.191 billion metric tons (2023 est.)<br>
+_exports_: 13.239 million metric tons (2023 est.)<br>
+_imports_: 401.517 million metric tons (2023 est.)<br>
+_proven reserves_: 157.041 billion metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 4.984 million bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 15.148 million bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 16.189 million bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 26.023 billion barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 225.341 billion cubic meters (2022 est.)<br>
-_consumption_: 366.16 billion cubic meters (2022 est.)<br>
-_exports_: 5.617 billion cubic meters (2022 est.)<br>
-_imports_: 142.784 billion cubic meters (2022 est.)<br>
+_production_: 239.402 billion cubic meters (2023 est.)<br>
+_consumption_: 395.341 billion cubic meters (2023 est.)<br>
+_exports_: 6.025 billion cubic meters (2023 est.)<br>
+_imports_: 161.808 billion cubic meters (2023 est.)<br>
 _proven reserves_: 6.654 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 13.506 billion metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 11.059 billion metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 1.729 billion metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 716.939 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 12.196 billion metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 9.575 billion metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.847 billion metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 774.076 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 122.004 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 113.805 million Btu/person (2023 est.)<br>
 
 ## Communications
 

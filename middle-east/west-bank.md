@@ -431,32 +431,32 @@ _electrification - total population_: 100% (2022 est.)<br>
 <strong>note:</strong> includes the West Bank and the Gaza Strip<br>
 
 **Electricity**<br>
-_installed generating capacity_: 352,000 kW (2022 est.)<br>
-_consumption_: 6.746 billion kWh (2022 est.)<br>
-_imports_: 6.7 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 880.312 million kWh (2022 est.)<br>
+_installed generating capacity_: 352,000 kW (2023 est.)<br>
+_consumption_: 6.956 billion kWh (2023 est.)<br>
+_imports_: 6.925 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 988 million kWh (2023 est.)<br>
 <strong>note:</strong> includes the West Bank and the Gaza Strip<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 77.5% of total installed capacity (2022 est.)<br>
-_solar_: 22.4% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 66.5% of total installed capacity (2023 est.)<br>
+_solar_: 33.5% of total installed capacity (2023 est.)<br>
 <strong>note:</strong> includes the West Bank and the Gaza Strip<br>
 
 **Coal**<br>
-_exports_: (2022 est.) less than 1 metric ton<br>
+_exports_: 1 metric tons (2023 est.)<br>
 <strong>note:</strong> includes the West Bank and the Gaza Strip<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 29,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 29,000 bbl/day (2023 est.)<br>
 <strong>note:</strong> includes the West Bank and the Gaza Strip<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 3.942 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 3.942 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 3.913 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 3.913 million metric tonnes of CO2 (2023 est.)<br>
 <strong>note:</strong> includes the West Bank and the Gaza Strip<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 15.201 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 14.991 million Btu/person (2023 est.)<br>
 <strong>note:</strong> includes the West Bank and the Gaza Strip<br>
 
 ## Communications
@@ -525,7 +525,7 @@ Palestinian Authority security forces maintain security control of 17.5% (called
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Al-Aqsa Martyrs Brigade; HAMAS; Kahane Chai; Palestine Islamic Jihad; Palestine Liberation Front; Popular Front for the Liberation of Palestine<br>
+Al-Aqsa Martyrs Brigade; HAMAS; Palestine Islamic Jihad; Palestine Liberation Front; Popular Front for the Liberation of Palestine<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

@@ -468,13 +468,6 @@ _electrification - total population_: 100% (2022 est.)<br>
 _electrification - urban areas_: 100%<br>
 _electrification - rural areas_: 99.1%<br>
 
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
-
 ## Communications
 
 **Telephones - fixed lines**<br>

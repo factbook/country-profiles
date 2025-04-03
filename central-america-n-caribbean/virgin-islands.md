@@ -397,20 +397,23 @@ refined petroleum, crude petroleum, rubber piping, jewelry, beer (2019)<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 326,000 kW (2022 est.)<br>
-_consumption_: 625.127 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 50 million kWh (2022 est.)<br>
+_installed generating capacity_: 326,000 kW (2023 est.)<br>
+_consumption_: 618.819 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 50.181 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 97.4% of total installed capacity (2022 est.)<br>
-_solar_: 2.6% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 97.2% of total installed capacity (2023 est.)<br>
+_solar_: 2.8% of total installed capacity (2023 est.)<br>
+
+**Coal**<br>
+_exports_: 4 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 16,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 16,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 2.272 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 2.272 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 2.378 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 2.378 million metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

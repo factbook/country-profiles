@@ -563,40 +563,41 @@ _electrification - urban areas_: 100%<br>
 _electrification - rural areas_: 99.3%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 21.706 million kW (2022 est.)<br>
-_consumption_: 77.786 billion kWh (2022 est.)<br>
-_exports_: 1.529 billion kWh (2022 est.)<br>
-_imports_: 391.148 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 9.263 billion kWh (2022 est.)<br>
+_installed generating capacity_: 22.591 million kW (2023 est.)<br>
+_consumption_: 85.687 billion kWh (2023 est.)<br>
+_exports_: 2.753 billion kWh (2023 est.)<br>
+_imports_: 475.8 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 9.237 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 99.2% of total installed capacity (2022 est.)<br>
-_solar_: 0.7% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 98.1% of total installed capacity (2023 est.)<br>
+_solar_: 0.9% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 0.9% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_consumption_: 167,000 metric tons (2022 est.)<br>
-_imports_: 168,000 metric tons (2022 est.)<br>
-_proven reserves_: 223 million metric tons (2022 est.)<br>
+_consumption_: 3,000 metric tons (2023 est.)<br>
+_imports_: 241,000 metric tons (2023 est.)<br>
+_proven reserves_: 223 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 1.443 million bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 428,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 446,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 12.2 billion barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 100.726 billion cubic meters (2022 est.)<br>
-_consumption_: 47.963 billion cubic meters (2022 est.)<br>
-_exports_: 49.583 billion cubic meters (2022 est.)<br>
+_production_: 104.896 billion cubic meters (2023 est.)<br>
+_consumption_: 52.831 billion cubic meters (2023 est.)<br>
+_exports_: 51.566 billion cubic meters (2023 est.)<br>
 _proven reserves_: 4.504 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 147.93 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 501,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 51.989 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 95.439 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 163.661 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 741,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 57.795 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 105.125 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 58.473 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 61.843 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -668,7 +669,7 @@ _key ports_: Alger, Annaba, Arzew, Arzew El Djedid, Bejaia, Mers El Kebir, Oran,
 ## Military and Security
 
 **Military and security forces**<br>
-Algerian People's National Army (ANP): Land Forces, Naval Forces (includes Coast Guard), Air Forces, Territorial Air Defense Forces, Republican Guard (under ANP but responsible to the President), National Gendarmerie<br><br>Ministry of Interior: General Directorate of National Security (national police) (2024)<br>
+Algerian People's National Army (ANP): Land Forces, Naval Forces (includes Coast Guard), Air Forces, Territorial Air Defense Forces, Republican Guard (under ANP but responsible to the President), National Gendarmerie<br><br>Ministry of Interior: General Directorate of National Security (national police) (2025)<br>
 <strong>note: </strong>the National Gendarmerie performs police functions outside urban areas under the auspices of the Ministry of National Defense; it is comprised of territorial, intervention/mobile, border guard, railway, riot control, and air support units; General Directorate of National Security share responsibility for maintaining law and order<br>
 
 **Military expenditures**<br>

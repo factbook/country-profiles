@@ -560,39 +560,39 @@ _Currency_: Moldovan lei (MDL) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 625,000 kW (2022 est.)<br>
-_consumption_: 5.579 billion kWh (2022 est.)<br>
-_exports_: 94 million kWh (2022 est.)<br>
-_imports_: 936 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 576.529 million kWh (2022 est.)<br>
+_installed generating capacity_: 779,000 kW (2023 est.)<br>
+_consumption_: 5.674 billion kWh (2023 est.)<br>
+_exports_: 94 million kWh (2023 est.)<br>
+_imports_: 1.264 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 550.069 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 90.8% of total installed capacity (2022 est.)<br>
-_solar_: 0.6% of total installed capacity (2022 est.)<br>
-_wind_: 1.2% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 5.5% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 0.5% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 88% of total installed capacity (2023 est.)<br>
+_solar_: 1.7% of total installed capacity (2023 est.)<br>
+_wind_: 3.8% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 6.3% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 0.2% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_consumption_: 120,000 metric tons (2022 est.)<br>
-_imports_: 121,000 metric tons (2022 est.)<br>
+_consumption_: 90,000 metric tons (2023 est.)<br>
+_imports_: 86,000 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 22,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 22,000 bbl/day (2023 est.)<br>
 
 **Natural gas**<br>
 _production_: 10,000 cubic meters (2021 est.)<br>
-_consumption_: 2.344 billion cubic meters (2022 est.)<br>
-_imports_: 2.344 billion cubic meters (2022 est.)<br>
+_consumption_: 2.223 billion cubic meters (2023 est.)<br>
+_imports_: 2.223 billion cubic meters (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 7.319 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 293,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 3.035 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 3.991 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 7.093 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 219,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 3.087 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 3.786 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 34.021 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 35.686 million Btu/person (2023 est.)<br>
 
 ## Communications
 

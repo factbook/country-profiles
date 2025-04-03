@@ -47,7 +47,7 @@ mostly flat alluvial plain; hilly in southeast<br>
 
 **Elevation**<br>
 _highest point_: Mowdok Taung 1,060 m<br>
-_lowest point_: Indian Ocean 0 m<br>
+_lowest point_: Bay of Bengal 0 m<br>
 _mean elevation_: 85 m<br>
 
 **Natural resources**<br>
@@ -570,44 +570,44 @@ _electrification - urban areas_: 100%<br>
 _electrification - rural areas_: 99.3%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 22.449 million kW (2022 est.)<br>
-_consumption_: 99.553 billion kWh (2022 est.)<br>
-_imports_: 8.643 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 11.09 billion kWh (2022 est.)<br>
+_installed generating capacity_: 22.699 million kW (2023 est.)<br>
+_consumption_: 107.285 billion kWh (2023 est.)<br>
+_imports_: 9.407 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 8.279 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 98.7% of total installed capacity (2022 est.)<br>
-_solar_: 0.5% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 0.8% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 98.4% of total installed capacity (2023 est.)<br>
+_solar_: 1% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 0.6% of total installed capacity (2023 est.)<br>
 
 **Nuclear energy**<br>
 _Number of nuclear reactors under construction_: 2 (2025)<br>
 
 **Coal**<br>
-_production_: 754,000 metric tons (2022 est.)<br>
-_consumption_: 7.514 million metric tons (2022 est.)<br>
-_imports_: 5.62 million metric tons (2022 est.)<br>
-_proven reserves_: 3.26 billion metric tons (2022 est.)<br>
+_production_: 767,000 metric tons (2023 est.)<br>
+_consumption_: 14.05 million metric tons (2023 est.)<br>
+_imports_: 13.305 million metric tons (2023 est.)<br>
+_proven reserves_: 3.26 billion metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 13,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 160,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 263,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 28 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 24.62 billion cubic meters (2022 est.)<br>
-_consumption_: 30.384 billion cubic meters (2022 est.)<br>
-_imports_: 5.765 billion cubic meters (2022 est.)<br>
+_production_: 22.334 billion cubic meters (2023 est.)<br>
+_consumption_: 29.119 billion cubic meters (2023 est.)<br>
+_imports_: 6.785 billion cubic meters (2023 est.)<br>
 _proven reserves_: 126.293 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 99.57 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 15.102 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 25.09 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 59.378 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 125.956 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 26.967 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 42.083 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 56.906 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 9.678 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 11.472 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -724,7 +724,7 @@ has a modest space program focused on designing, building, and operating satelli
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bangladesh (ISB); al-Qa'ida; al-Qa'ida in the Indian Subcontinent (AQIS)<br>
+Harakat ul-Jihad-i-Islami/Bangladesh (HUJI-B); Islamic State of Iraq and ash-Sham (ISIS) in Bangladesh (ISB); al-Qa'ida; al-Qa'ida in the Indian Subcontinent (AQIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

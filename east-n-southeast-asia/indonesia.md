@@ -46,7 +46,7 @@ mostly coastal lowlands; larger islands have interior mountains<br>
 
 **Elevation**<br>
 _highest point_: Puncak Jaya 4,884 m<br>
-_lowest point_: Indian Ocean 0 m<br>
+_lowest point_: Indian/Pacific Oceans 0 m<br>
 _mean elevation_: 367 m<br>
 
 **Natural resources**<br>
@@ -588,46 +588,46 @@ _electrification - urban areas_: 100%<br>
 _electrification - rural areas_: 98.2%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 69.706 million kW (2022 est.)<br>
-_consumption_: 312.423 billion kWh (2022 est.)<br>
-_imports_: 972.7 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 25.71 billion kWh (2022 est.)<br>
+_installed generating capacity_: 70.826 million kW (2023 est.)<br>
+_consumption_: 356.135 billion kWh (2023 est.)<br>
+_imports_: 828.198 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 27.477 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 79.9% of total installed capacity (2022 est.)<br>
-_solar_: 0.1% of total installed capacity (2022 est.)<br>
-_wind_: 0.1% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 8.1% of total installed capacity (2022 est.)<br>
-_geothermal_: 4.9% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 6.8% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 82% of total installed capacity (2023 est.)<br>
+_solar_: 0.2% of total installed capacity (2023 est.)<br>
+_wind_: 0.1% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 6.4% of total installed capacity (2023 est.)<br>
+_geothermal_: 4.4% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 6.9% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_production_: 659.357 million metric tons (2022 est.)<br>
-_consumption_: 202.283 million metric tons (2022 est.)<br>
-_exports_: 469.09 million metric tons (2022 est.)<br>
-_imports_: 12.396 million metric tons (2022 est.)<br>
-_proven reserves_: 34.869 billion metric tons (2022 est.)<br>
+_production_: 783.453 million metric tons (2023 est.)<br>
+_consumption_: 281.159 million metric tons (2023 est.)<br>
+_exports_: 519.23 million metric tons (2023 est.)<br>
+_imports_: 16.935 million metric tons (2023 est.)<br>
+_proven reserves_: 35.055 billion metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 865,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 1.728 million bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 1.645 million bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 2.48 billion barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 57.41 billion cubic meters (2022 est.)<br>
-_consumption_: 36.061 billion cubic meters (2022 est.)<br>
-_exports_: 22.064 billion cubic meters (2022 est.)<br>
-_imports_: 1.027 billion cubic meters (2022 est.)<br>
+_production_: 58.691 billion cubic meters (2023 est.)<br>
+_consumption_: 38.378 billion cubic meters (2023 est.)<br>
+_exports_: 20.989 billion cubic meters (2023 est.)<br>
+_imports_: 727.056 million cubic meters (2023 est.)<br>
 _proven reserves_: 1.408 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 684.926 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 386.828 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 224.45 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 73.649 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 829.655 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 527.923 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 223.352 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 78.38 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 33.039 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 37.39 million Btu/person (2023 est.)<br>
 
 ## Communications
 

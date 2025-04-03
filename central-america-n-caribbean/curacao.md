@@ -5,7 +5,7 @@ _Central America and Caribbean / Dependencies (Netherlands)_
 ## Introduction
 
 **Background**<br>
-The original Arawak Indian settlers who arrived on Curacao from South America in about A.D. 1000 were largely enslaved by the Spanish early in the 16th century and forcibly relocated to other colonies where labor was needed. The Dutch seized Curacao from the Spanish in 1634. Once the center of the Caribbean slave trade, Curacao was hard hit economically when the Dutch abolished slavery in 1863. Its prosperity (and that of neighboring Aruba) was restored in the early 20th century with the construction of the Isla Refineria to service the newly discovered Venezuelan oilfields. In 1954, Curacao and several other Dutch Caribbean colonies were reorganized as the Netherlands Antilles, part of the Kingdom of the Netherlands. In referenda in 2005 and 2009, the citizens of Curacao voted to become a self-governing country within the Kingdom of the Netherlands. The change in status became effective in 2010 with the dissolution of the Netherlands Antilles.<br>
+The original Arawak Indian settlers who arrived on Cura&ccedil;ao from South America in about A.D. 1000 were largely enslaved by the Spanish early in the 16th century and forcibly relocated to other colonies where labor was needed. The Dutch seized Cura&ccedil;ao from the Spanish in 1634. Once the center of the Caribbean slave trade, Cura&ccedil;ao was hard hit economically when the Dutch abolished slavery in 1863. Its prosperity (and that of neighboring Aruba) was restored in the early 20th century with the construction of the Isla Refineria to service the newly discovered Venezuelan oilfields. In 1954, Cura&ccedil;ao and several other Dutch Caribbean colonies were reorganized as the Netherlands Antilles, part of the Kingdom of the Netherlands. In referenda in 2005 and 2009, the citizens of Cura&ccedil;ao voted to become a self-governing country within the Kingdom of the Netherlands. The change in status became effective in 2010 with the dissolution of the Netherlands Antilles.<br>
 
 ## Geography
 
@@ -65,7 +65,7 @@ largest concentration on the island is Willemstad; smaller settlements near the 
 <p>Curacao is south of the Caribbean hurricane belt and is rarely threatened</p><br>
 
 **Geography - note**<br>
-<p>Curacao is a part of the Windward Islands (southern) group in the Lesser Antilles</p><br>
+<p>Curaçao is a part of the Windward Islands (southern) group in the Lesser Antilles</p><br>
 
 ## People and Society
 
@@ -236,7 +236,7 @@ _etymology_: named after Prince WILLIAM II of Orange (1626-1650), who served as 
 
 **Administrative divisions**<br>
 <p>none (part of the Kingdom of the Netherlands)</p><br>
-<strong>note:</strong> Curacao is one of four constituent countries of the Kingdom of the Netherlands; the other three are the Netherlands, Aruba, and Sint Maarten<br>
+<strong>note:</strong> Curaçao is one of four constituent countries of the Kingdom of the Netherlands; the other three are the Netherlands, Aruba, and Sint Maarten<br>
 
 **Independence**<br>
 <p>none (part of the Kingdom of the Netherlands)</p><br>
@@ -314,7 +314,7 @@ _selected World Heritage Site locales_: Historic Willemstad<br>
 ## Economy
 
 **Economic overview**<br>
-high-income island economy; developed infrastructure; tourism and financial services-based economy; investing in information technology incentives; oil refineries service Venezuela and China; unique COVID-19 stimulus support applied to government debts rather than household support<br>
+high-income island economy; developed infrastructure; tourism and financial services-based economy; investing in information technology incentives; oil refineries service Venezuela and China<br>
 
 **Real GDP (purchasing power parity)**<br>
 $4.271 billion (2023 est.)<br>

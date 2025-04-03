@@ -599,18 +599,18 @@ _electrification - urban areas_: 100%<br>
 _electrification - rural areas_: 93%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 43.478 million kW (2022 est.)<br>
-_consumption_: 145.999 billion kWh (2022 est.)<br>
-_imports_: 498.228 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 23.021 billion kWh (2022 est.)<br>
+_installed generating capacity_: 43.512 million kW (2023 est.)<br>
+_consumption_: 145.357 billion kWh (2023 est.)<br>
+_imports_: 481.25 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 25.811 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 62.5% of total installed capacity (2022 est.)<br>
-_nuclear_: 13.2% of total installed capacity (2022 est.)<br>
-_solar_: 0.8% of total installed capacity (2022 est.)<br>
-_wind_: 1.9% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 20.5% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 1.1% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 60.4% of total installed capacity (2023 est.)<br>
+_nuclear_: 14.1% of total installed capacity (2023 est.)<br>
+_solar_: 0.7% of total installed capacity (2023 est.)<br>
+_wind_: 3.7% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 19.9% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 1.1% of total installed capacity (2023 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 6 (2025)<br>
@@ -620,31 +620,31 @@ _Percent of total electricity production_: 17.4% (2023 est.)<br>
 _Number of nuclear reactors permanently shut down_: 1 (2025)<br>
 
 **Coal**<br>
-_production_: 12.712 million metric tons (2022 est.)<br>
-_consumption_: 34.027 million metric tons (2022 est.)<br>
-_exports_: 1,000 metric tons (2022 est.)<br>
-_imports_: 21.944 million metric tons (2022 est.)<br>
-_proven reserves_: 3.064 billion metric tons (2022 est.)<br>
+_production_: 13.765 million metric tons (2023 est.)<br>
+_consumption_: 30.191 million metric tons (2023 est.)<br>
+_exports_: 900 metric tons (2023 est.)<br>
+_imports_: 16.185 million metric tons (2023 est.)<br>
+_proven reserves_: 2.857 billion metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 101,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 473,000 bbl/day (2022 est.)<br>
+_total petroleum production_: 91,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 645,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 540 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 36.937 billion cubic meters (2022 est.)<br>
-_consumption_: 46.448 billion cubic meters (2022 est.)<br>
-_imports_: 10.851 billion cubic meters (2022 est.)<br>
+_production_: 27.476 billion cubic meters (2023 est.)<br>
+_consumption_: 36.323 billion cubic meters (2023 est.)<br>
+_imports_: 8.847 billion cubic meters (2023 est.)<br>
 _proven reserves_: 592.219 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 213.498 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 71.24 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 66.804 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 75.454 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 212.655 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 59.937 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 93.713 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 59.006 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 14.902 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 14.076 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -760,7 +760,7 @@ space program dates back to the early 1960s but funding shortfalls and shifts in
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Haqqani Network; Harakat ul-Jihad-i-Islami; Harakat ul-Mujahidin; Hizbul Mujahideen;<strong> </strong>Indian Mujahedeen; Islamic State of Iraq and ash-Sham-Khorasan (ISIS-K); Islamic State of ash-Sham – India; Islamic State of ash-Sham – Pakistan; Islamic Movement of Uzbekistan; Jaish-e-Mohammed; Jaysh al Adl (Jundallah); Lashkar i Jhangvi; Lashkar-e Tayyiba; Tehrik-e-Taliban Pakistan (TTP); al-Qa’ida; al-Qa’ida in the Indian Subcontinent (AQIS)<br>
+Haqqani Network (HQN); Harakat ul-Jihad-i-Islami (HUJI); Harakat ul-Mujahidin; Hizbul Mujahideen;<strong> </strong>Indian Mujahedeen; Islamic State of Iraq and ash-Sham-Khorasan (ISIS-K); Islamic State of Iraq and ash-Sham – India (ISI); Islamic State of ash-Sham – Pakistan (ISP); Islamic Movement of Uzbekistan (IMU); Jaish-e-Mohammed (JeM); Jaysh al Adl (Jundallah); Lashkar i Jhangvi (LJ); Lashkar-e Tayyiba (LeT); Tehrik-e-Taliban Pakistan (TTP); al-Qa’ida; al-Qa’ida in the Indian Subcontinent (AQIS)<br>
 <strong>note 1:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br><br><strong>note 2:</strong> the Balochistan Liberation Army (BLA), an armed separatist group that targets security forces and civilians, has been active in Pakistan since the 2000s, mainly in ethnic Baloch areas of the country; in 2019, the US designated BLA as Specially Designated Global Terrorists<br>
 
 ## Transnational Issues

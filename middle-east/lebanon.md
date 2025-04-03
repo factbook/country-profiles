@@ -547,33 +547,33 @@ _Currency_: Lebanese pounds (LBP) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 4.141 million kW (2022 est.)<br>
-_consumption_: 9.166 billion kWh (2022 est.)<br>
-_imports_: 448.671 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 1.328 billion kWh (2022 est.)<br>
+_installed generating capacity_: 5.161 million kW (2023 est.)<br>
+_consumption_: 4.077 billion kWh (2023 est.)<br>
+_imports_: 797 million kWh (2021 est.)<br>
+_transmission/distribution losses_: 436.839 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 90.6% of total installed capacity (2022 est.)<br>
-_solar_: 3% of total installed capacity (2022 est.)<br>
-_wind_: 0.1% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 6% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 0.3% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 52.6% of total installed capacity (2023 est.)<br>
+_solar_: 31% of total installed capacity (2023 est.)<br>
+_wind_: 0.1% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 15.5% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 0.7% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_consumption_: 207,000 metric tons (2022 est.)<br>
-_exports_: 47.1 metric tons (2022 est.)<br>
-_imports_: 197,000 metric tons (2022 est.)<br>
+_consumption_: 166,000 metric tons (2023 est.)<br>
+_exports_: 47 metric tons (2022 est.)<br>
+_imports_: 164,000 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 174,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 115,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 26.594 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 456,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 26.137 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 17.484 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 375,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 17.109 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 67.466 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 43.105 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -674,7 +674,7 @@ the primary responsibilities of the Lebanese Armed Forces (LAF) are defense agai
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; Asbat al-Ansar; HAMAS; Hizballah; Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); al-Nusrah Front (Hay'at Tahrir al-Sham); Palestine Liberation Front; Popular Front for the Liberation of Palestine (PFLP); PFLP-General Command<br>
+Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; Asbat al-Ansar; HAMAS; Hizballah; Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); Hay'at Tahrir al-Sham (HTS; al-Nusrah Front); Palestine Liberation Front (PLF); Popular Front for the Liberation of Palestine (PFLP); PFLP-General Command (PFLP-GC)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

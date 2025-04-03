@@ -238,7 +238,7 @@ _time difference_: UTC-10 (5 hours behind Washington, DC, during Standard Time)<
 _etymology_: the name means "water basket" and refers to the fact that the islanders originally used calabashes enclosed in baskets to fetch water at a spring in the area<br>
 
 **Administrative divisions**<br>
-5 administrative subdivisions (subdivisions administratives, singular - subdivision administrative): Iles Australes (Austral Islands), Iles du Vent (Windward Islands), Iles Marquises (Marquesas Islands), Iles Sous-le-Vent (Leeward Islands), Iles Tuamotu-Gambier; note - the Leeward Islands and the Windward Islands together make up the Society Islands (Iles de la Societe)<br>
+5 administrative subdivisions (subdivisions administratives, singular - subdivision administrative): Iles Australes (Austral Islands), Iles du Vent (Windward Islands), Iles Marquises (Marquesas Islands), Iles Sous-le-Vent (Leeward Islands), Iles Tuamotu-Gambier; note - the Leeward Islands and the Windward Islands together make up the Society Islands (Iles de la Soci&eacute;t&eacute;)<br>
 
 **Independence**<br>
 none (overseas land of France)<br>
@@ -442,24 +442,24 @@ _Currency_: Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 280,000 kW (2022 est.)<br>
-_consumption_: 653.978 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 42.663 million kWh (2022 est.)<br>
+_installed generating capacity_: 345,000 kW (2023 est.)<br>
+_consumption_: 669.5 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 42.663 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 67.5% of total installed capacity (2022 est.)<br>
-_solar_: 6.7% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 25.8% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 66% of total installed capacity (2023 est.)<br>
+_solar_: 7% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 27% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_imports_: (2022 est.) less than 1 metric ton<br>
+_imports_: 1 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 6,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 7,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 929,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 929,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 1.01 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.01 million metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

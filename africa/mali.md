@@ -324,7 +324,7 @@ _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name in the Bambara language can mean either "crocodile tail" or "crocodile river" and three crocodiles appear on the city seal<br>
 
 **Administrative divisions**<br>
-10 regions (regions, singular - region), 1 district*; District de Bamako*, Gao, Kayes, Kidal, Koulikoro, Menaka, Mopti, Segou, Sikasso, Taoudenni, Tombouctou (Timbuktu); note - Menaka and Taoudenni were legislated in 2016, but implementation has not been confirmed by the US Board on Geographic Names<br>
+19 regions (regions, singular - region), 1 district*; Bamako*, Bandiagara, Bougouni, Dioila, Douentza, Gao, Kayes, Kidal, Kita, Koulikoro, Koutiala, Menaka, Mopti, Nara, Nioro, San, Segou, Sikasso, Taoudenni, Tombouctou (Timbuktu)<br>
 
 **Independence**<br>
 22 September 1960 (from France)<br>
@@ -581,31 +581,31 @@ _electrification - urban areas_: 99.7%<br>
 _electrification - rural areas_: 18.3%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 1.145 million kW (2022 est.)<br>
-_consumption_: 3.5 billion kWh (2022 est.)<br>
-_exports_: 600 million kWh (2022 est.)<br>
-_imports_: 775.87 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 433.773 million kWh (2022 est.)<br>
+_installed generating capacity_: 1.222 million kW (2023 est.)<br>
+_consumption_: 4.261 billion kWh (2023 est.)<br>
+_exports_: 661.63 million kWh (2023 est.)<br>
+_imports_: 880 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 320.616 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 60.2% of total installed capacity (2022 est.)<br>
-_solar_: 0.9% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 37.3% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 1.6% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 57.3% of total installed capacity (2023 est.)<br>
+_solar_: 3.5% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 37.6% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 1.6% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_exports_: (2022 est.) less than 1 metric ton<br>
-_imports_: 100 metric tons (2022 est.)<br>
+_imports_: 36 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 46,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 46,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 6.868 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 6.868 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 6.858 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 83 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 6.858 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 4.476 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 4.307 million Btu/person (2023 est.)<br>
 
 ## Communications
 

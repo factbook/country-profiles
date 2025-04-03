@@ -95,12 +95,16 @@ unofficial; a True South flag, created in 2018, has quickly become popular for i
 
 ## Energy
 
+**Coal**<br>
+_imports_: 2,000 metric tons (2023 est.)<br>
+
 **Petroleum**<br>
-_refined petroleum consumption_: 79.9 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 79 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 12,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 12,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 15,000 metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 2,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 13,000 metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

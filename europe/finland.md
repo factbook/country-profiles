@@ -569,19 +569,19 @@ _Currency_: euros (EUR) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 24.784 million kW (2022 est.)<br>
-_consumption_: 80.082 billion kWh (2022 est.)<br>
-_exports_: 6.896 billion kWh (2022 est.)<br>
-_imports_: 19.825 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 3.009 billion kWh (2022 est.)<br>
+_installed generating capacity_: 26.782 million kW (2023 est.)<br>
+_consumption_: 77.419 billion kWh (2023 est.)<br>
+_exports_: 7.883 billion kWh (2023 est.)<br>
+_imports_: 9.644 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 2.721 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 9.9% of total installed capacity (2022 est.)<br>
-_nuclear_: 34.5% of total installed capacity (2022 est.)<br>
-_solar_: 0.4% of total installed capacity (2022 est.)<br>
-_wind_: 17% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 19.2% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 19% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 5.6% of total installed capacity (2023 est.)<br>
+_nuclear_: 41.8% of total installed capacity (2023 est.)<br>
+_solar_: 0.8% of total installed capacity (2023 est.)<br>
+_wind_: 18.7% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 19.4% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 13.7% of total installed capacity (2023 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 5 (2025)<br>
@@ -589,28 +589,28 @@ _Net capacity of operational nuclear reactors_: 4.37GW (2025 est.)<br>
 _Percent of total electricity production_: 42% (2025 est.)<br>
 
 **Coal**<br>
-_production_: 808,000 metric tons (2022 est.)<br>
-_consumption_: 4.141 million metric tons (2022 est.)<br>
-_exports_: 37,000 metric tons (2022 est.)<br>
-_imports_: 4.068 million metric tons (2022 est.)<br>
+_production_: 811,000 metric tons (2023 est.)<br>
+_consumption_: 3.933 million metric tons (2023 est.)<br>
+_exports_: 113,000 metric tons (2023 est.)<br>
+_imports_: 2.624 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 8,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 175,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 172,000 bbl/day (2024 est.)<br>
 
 **Natural gas**<br>
-_consumption_: 1.157 billion cubic meters (2022 est.)<br>
-_exports_: 106.77 million cubic meters (2022 est.)<br>
-_imports_: 1.372 billion cubic meters (2022 est.)<br>
+_consumption_: 1.55 billion cubic meters (2023 est.)<br>
+_exports_: 479.457 million cubic meters (2023 est.)<br>
+_imports_: 2.112 billion cubic meters (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 36.006 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 8.577 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 25.198 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 2.231 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 33.594 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 7.536 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 23.069 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 2.989 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 181.313 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 183.54 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -714,6 +714,11 @@ at age 18, all Finnish men are obligated to serve 5.5-12 months of service withi
 
 **Military - note**<br>
 the Finnish Defense Forces (FDF) are focused primarily on territorial defense, which is based on having a large, trained reserve force created by general conscription; active-duty FDF units absorb and train more than 20,000 conscripts annually; the resulting pool of trained reservists gives the FDF a wartime strength of approximately 280,000 and a total reserve of some 900,000 citizens with military service; other FDF responsibilities include support to international peacekeeping operations and some domestic security duties, such as assisting the National Police in maintaining law and order in crises<br><br>the FDF is also focused on fulfilling its new commitment to NATO; following Russia’s full-scale invasion of Ukraine in 2022, Finland reassessed its security policy situation and applied for NATO membership, gaining entry in April 2023; as a member of the Alliance, Finland is part of NATO’s collective defense and is covered by the security guarantees enshrined in Article 5 of the North Atlantic Treaty (also known as the Washington Treaty); Finland had been part of NATO’s Partnership for Peace program since 1994, and the FDF exercised with some NATO members and participated in NATO-led military missions in the Balkans, Afghanistan, and Iraq; in 2024, it joined NATO's Air Policing mission in Eastern Europe<br><br>Finland is a signatory of the EU’s Common Security and Defense Policy and actively participates in EU crisis management missions and operations; the FDF also cooperates closely with the militaries of other Nordic countries through the Nordic Defense Cooperation structure (NORDEFCO; established 2009), which consists of Denmark, Finland, Iceland, Norway, and Sweden and involves cooperation in such areas as armaments, education, human resources, training and exercises, and operations; Sweden, the UK, and the US are close bi-lateral defense partners; in 2022, Finland signed a mutual security agreement with the UK, and since 2014 has been part of the UK-led Joint Expeditionary Force, a pool of high-readiness military forces from 10 Baltic and Scandinavian countries designed to respond to a wide range of contingencies in the North Atlantic, Baltic Sea, and High North regions (2024)<br>
+
+## Terrorism
+
+**Terrorist group(s)**<br>
+Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 ## Transnational Issues
 

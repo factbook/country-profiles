@@ -480,11 +480,11 @@ _electrification - urban areas_: 98.6%<br>
 _electrification - rural areas_: 79.4%<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 1,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 800 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 166,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 166,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 121,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 121,000 metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

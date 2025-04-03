@@ -330,7 +330,7 @@ _time zone note_: Mexico has four time zones<br>
 _etymology_: named after the Mexica, the largest and most powerful branch of the Aztecs; the meaning of the name is uncertain<br>
 
 **Administrative divisions**<br>
-32 states (estados, singular - estado); Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Coahuila, Colima, Cuidad de Mexico, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Mexico, Michoacan, Morelos, Nayarit, Nuevo Leon, Oaxaca, Puebla, Queretaro, Quintana Roo, San Luis Potosi, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatan, Zacatecas<br>
+32 states (estados, singular - estado); Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Coahuila, Colima, Cuidad de Mexico, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Mexico, Michoac&aacute;n, Morelos, Nayarit, Nuevo Leon, Oaxaca, Puebla, Queretaro, Quintana Roo, San Luis Potosi, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatan, Zacatecas<br>
 
 **Independence**<br>
 16 September 1810 (declared independence from Spain); 27 September 1821 (recognized by Spain)<br>
@@ -616,20 +616,20 @@ _electrification - urban areas_: 99.8%<br>
 _electrification - rural areas_: 100%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 104.318 million kW (2022 est.)<br>
-_consumption_: 296.969 billion kWh (2022 est.)<br>
-_exports_: 1.447 billion kWh (2022 est.)<br>
-_imports_: 4.551 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 39.275 billion kWh (2022 est.)<br>
+_installed generating capacity_: 105.586 million kW (2023 est.)<br>
+_consumption_: 332.042 billion kWh (2023 est.)<br>
+_exports_: 1.97 billion kWh (2023 est.)<br>
+_imports_: 4.863 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 45.47 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 75% of total installed capacity (2022 est.)<br>
-_nuclear_: 3.2% of total installed capacity (2022 est.)<br>
-_solar_: 3.5% of total installed capacity (2022 est.)<br>
-_wind_: 6.1% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 10.2% of total installed capacity (2022 est.)<br>
-_geothermal_: 1.5% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 0.6% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 79.6% of total installed capacity (2023 est.)<br>
+_nuclear_: 3.2% of total installed capacity (2023 est.)<br>
+_solar_: 4.2% of total installed capacity (2023 est.)<br>
+_wind_: 5.7% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 5.2% of total installed capacity (2023 est.)<br>
+_geothermal_: 1.1% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 1% of total installed capacity (2023 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 2 (2025)<br>
@@ -637,32 +637,32 @@ _Net capacity of operational nuclear reactors_: 1.55GW (2025 est.)<br>
 _Percent of total electricity production_: 4.9% (2023 est.)<br>
 
 **Coal**<br>
-_production_: 7.453 million metric tons (2022 est.)<br>
-_consumption_: 18.423 million metric tons (2022 est.)<br>
-_exports_: 2,000 metric tons (2022 est.)<br>
-_imports_: 9.917 million metric tons (2022 est.)<br>
-_proven reserves_: 1.211 billion metric tons (2022 est.)<br>
+_production_: 6.296 million metric tons (2023 est.)<br>
+_consumption_: 15.132 million metric tons (2023 est.)<br>
+_exports_: 4,000 metric tons (2023 est.)<br>
+_imports_: 8.809 million metric tons (2023 est.)<br>
+_proven reserves_: 1.16 billion metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 2.101 million bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 1.737 million bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 1.741 million bbl/day (2024 est.)<br>
 _crude oil estimated reserves_: 5.786 billion barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 31.422 billion cubic meters (2022 est.)<br>
-_consumption_: 90.566 billion cubic meters (2022 est.)<br>
-_exports_: 30.129 million cubic meters (2022 est.)<br>
-_imports_: 59.436 billion cubic meters (2022 est.)<br>
+_production_: 33.118 billion cubic meters (2023 est.)<br>
+_consumption_: 97.118 billion cubic meters (2023 est.)<br>
+_exports_: 27.92 million cubic meters (2023 est.)<br>
+_imports_: 64.289 billion cubic meters (2023 est.)<br>
 _proven reserves_: 180.322 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 453.6 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 38.781 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 246.324 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 168.494 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 441.049 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 32.087 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 228.279 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 180.684 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 59.319 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 57.539 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -772,6 +772,12 @@ Mexican Space Agency (Agencia Espacial Mexicana or AEM; established 2010 and beg
 **Space program overview**<br>
 the AEM’s focus is on coordinating Mexico’s space policy and the country’s commercial space sector, including developing specialists, technologies, and infrastructure, and acquiring satellites; manufactures and operates communications and scientific satellites; conducts research in a range of space-related capabilities and technologies, including satellites and satellite payloads, telecommunications, remote sensing, robotics, Earth and weather sciences, astronomy, and astrophysics; has relations with a variety of foreign space agencies and commercial space industries, including those of Argentina, Brazil, Chile, the European Space Agency (ESA) and its member states (particularly France, Germany, and the UK), India, Peru, Russia, Ukraine, and the US; leading member of the Latin American and Caribbean Space Agency (ALCE) (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
+
+## Terrorism
+
+**Terrorist group(s)**<br>
+Gulf Cartel (CDG); Jalisco Cartel New Generation (CJNG); Northeast Cartel (CDN); The New Family Michoacana (LNFM); Sinaloa Cartel; United Cartels (CU)<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

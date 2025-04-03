@@ -548,36 +548,37 @@ _Currency_: Turkmenistani manat (TMM) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 5.202 million kW (2022 est.)<br>
-_consumption_: 16.977 billion kWh (2022 est.)<br>
-_exports_: 3.201 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 2.892 billion kWh (2022 est.)<br>
+_installed generating capacity_: 6.512 million kW (2023 est.)<br>
+_consumption_: 21.526 billion kWh (2023 est.)<br>
+_exports_: 9 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 3.258 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 100% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 100% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_imports_: 100 metric tons (2022 est.)<br>
-_proven reserves_: 799.999 million metric tons (2022 est.)<br>
+_imports_: 200 metric tons (2023 est.)<br>
+_proven reserves_: 799.999 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 272,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 152,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 152,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 600 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 86.472 billion cubic meters (2022 est.)<br>
-_consumption_: 41.561 billion cubic meters (2022 est.)<br>
-_exports_: 44.567 billion cubic meters (2022 est.)<br>
+_production_: 84.277 billion cubic meters (2023 est.)<br>
+_consumption_: 44.936 billion cubic meters (2023 est.)<br>
+_exports_: 41.334 billion cubic meters (2023 est.)<br>
 _proven reserves_: 11.327 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 101.442 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 19.91 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 81.532 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 106.215 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 100 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 18.062 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 88.153 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 282.657 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 261.142 million Btu/person (2023 est.)<br>
 
 ## Communications
 

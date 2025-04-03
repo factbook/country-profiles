@@ -316,7 +316,7 @@ _time difference_: UTC 0 (5 hours ahead of Washington, D.C., during Standard Tim
 _etymology_: the Atlantic coast trading settlement of Ndakaaru came to be called "Dakar" by French colonialists<br>
 
 **Administrative divisions**<br>
-14 regions (regions, singular - region); Dakar, Diourbel, Fatick, Kaffrine, Kaolack, K&eacute;edougou, Kolda, Louga, Matam, Saint-Louis, Sedhiou, Tambacounda, Thies, Ziguinchor<br>
+14 regions (r&eacute;gions, singular - r&eacute;gion); Dakar, Diourbel, Fatick, Kaffrine, Kaolack, K&eacute;edougou, Kolda, Louga, Matam, Saint-Louis, Sedhiou, Tambacounda, Thies, Ziguinchor<br>
 
 **Independence**<br>
 4 April 1960 (from France); note - complete independence achieved upon dissolution of federation with Mali on 20 August 1960<br>
@@ -569,38 +569,39 @@ _electrification - urban areas_: 96.6%<br>
 _electrification - rural areas_: 43.4%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 1.668 million kW (2022 est.)<br>
-_consumption_: 7.025 billion kWh (2022 est.)<br>
-_imports_: 326.425 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 1.057 billion kWh (2022 est.)<br>
+_installed generating capacity_: 1.772 million kW (2023 est.)<br>
+_consumption_: 7.547 billion kWh (2023 est.)<br>
+_imports_: 486 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 983 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 74.3% of total installed capacity (2022 est.)<br>
-_solar_: 10.9% of total installed capacity (2022 est.)<br>
-_wind_: 9.5% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 4% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 1.4% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 78.3% of total installed capacity (2023 est.)<br>
+_solar_: 7.4% of total installed capacity (2023 est.)<br>
+_wind_: 9.1% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 3.9% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 1.4% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_consumption_: 502,000 metric tons (2022 est.)<br>
-_imports_: 502,000 metric tons (2022 est.)<br>
+_consumption_: 138,000 metric tons (2023 est.)<br>
+_exports_: 21 metric tons (2023 est.)<br>
+_imports_: 181,000 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 9,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 55,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 65,000 bbl/day (2023 est.)<br>
 
 **Natural gas**<br>
-_production_: 54.646 million cubic meters (2022 est.)<br>
-_consumption_: 54.498 million cubic meters (2022 est.)<br>
+_production_: 34.646 million cubic meters (2023 est.)<br>
+_consumption_: 34.604 million cubic meters (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 9.152 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 1.134 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 7.926 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 92,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 10.373 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 456,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 9.859 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 58,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 7.836 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 8.303 million Btu/person (2023 est.)<br>
 
 ## Communications
 

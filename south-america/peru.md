@@ -326,7 +326,7 @@ _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
 _etymology_: the word "Lima" derives from the Spanish pronunciation of "Limaq," the native name for the valley in which the city was founded in 1535; "limaq" means "talker" in coastal Quechua and referred to an oracle that was situated in the valley but which was eventually destroyed by the Spanish and replaced with a church<br>
 
 **Administrative divisions**<br>
-24 departments (departamentos, singular - departamento), 1 province* (provincia), and 1 constitutional province** (provincia constitucional); Amazonas, Ancash, Apurimac, Arequipa, Ayacucho, Cajamarca, Callao**, Cusco, Huancavelica, Huanuco, Ica, Junin, La Libertad, Lambayeque, Lima, Lima*, Loreto, Madre de Dios, Moquegua, Pasco, Piura, Puno, San Martin, Tacna, Tumbes, Ucayali<br>
+24 departments (departamentos, singular - departamento), 1 province* (provincia), and 1 constitutional province** (provincia constitucional); Amazonas, Ancash, Apurimac, Arequipa, Ayacucho, Cajamarca, Callao**, Cusco, Huancavelica, Huánuco, Ica, Junín, La Libertad, Lambayeque, Lima, Lima*, Loreto, Madre de Dios, Moquegua, Pasco, Piura, Puno, San Martin, Tacna, Tumbes, Ucayali<br>
 
 **Independence**<br>
 28 July 1821 (from Spain)<br>
@@ -592,44 +592,44 @@ _electrification - urban areas_: 99%<br>
 _electrification - rural areas_: 85.1%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 15.504 million kW (2022 est.)<br>
-_consumption_: 50.868 billion kWh (2022 est.)<br>
-_imports_: 43 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 6.814 billion kWh (2022 est.)<br>
+_installed generating capacity_: 16.164 million kW (2023 est.)<br>
+_consumption_: 53.3 billion kWh (2023 est.)<br>
+_imports_: 47.696 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 6.638 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 38.6% of total installed capacity (2022 est.)<br>
-_solar_: 1.4% of total installed capacity (2022 est.)<br>
-_wind_: 3.1% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 55.8% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 1% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 44.8% of total installed capacity (2023 est.)<br>
+_solar_: 1.4% of total installed capacity (2023 est.)<br>
+_wind_: 3.2% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 49.6% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 1% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_production_: 153,000 metric tons (2022 est.)<br>
-_consumption_: 712,000 metric tons (2022 est.)<br>
-_exports_: 1.159 million metric tons (2022 est.)<br>
-_imports_: 356,000 metric tons (2022 est.)<br>
-_proven reserves_: 1.567 billion metric tons (2022 est.)<br>
+_production_: 1.382 million metric tons (2023 est.)<br>
+_consumption_: 973,000 metric tons (2023 est.)<br>
+_exports_: 1.261 million metric tons (2023 est.)<br>
+_imports_: 446,000 metric tons (2023 est.)<br>
+_proven reserves_: 1.567 billion metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 118,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 210,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 255,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 858.89 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 12.27 billion cubic meters (2022 est.)<br>
-_consumption_: 7.185 billion cubic meters (2022 est.)<br>
-_exports_: 5.041 billion cubic meters (2022 est.)<br>
+_production_: 14.647 billion cubic meters (2023 est.)<br>
+_consumption_: 9.675 billion cubic meters (2023 est.)<br>
+_exports_: 4.883 billion cubic meters (2023 est.)<br>
 _proven reserves_: 300.159 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 45.504 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 1.481 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 27.786 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 16.236 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 58.903 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 2.177 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 34.863 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 21.863 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 24.932 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 30.923 million Btu/person (2023 est.)<br>
 
 ## Communications
 

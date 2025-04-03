@@ -303,19 +303,19 @@ _Currency_: New Zealand dollars (NZD) per US dollar -<br>
 ## Energy
 
 **Electricity**<br>
-_installed generating capacity_: 3,000 kW (2022 est.)<br>
-_consumption_: 3 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 400,000 kWh (2022 est.)<br>
+_installed generating capacity_: 3,000 kW (2023 est.)<br>
+_consumption_: 3 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 400,000 kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 100% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 100% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 58.2 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 61 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 8,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 8,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 9,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 9,000 metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

@@ -564,43 +564,44 @@ _Currency_: Danish kroner (DKK) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 19.503 million kW (2022 est.)<br>
-_consumption_: 33.167 billion kWh (2022 est.)<br>
-_exports_: 17.392 billion kWh (2022 est.)<br>
-_imports_: 18.797 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 1.965 billion kWh (2022 est.)<br>
+_installed generating capacity_: 20.794 million kW (2023 est.)<br>
+_consumption_: 35.253 billion kWh (2023 est.)<br>
+_exports_: 16.698 billion kWh (2023 est.)<br>
+_imports_: 19.831 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 1.825 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 11.2% of total installed capacity (2022 est.)<br>
-_solar_: 6.3% of total installed capacity (2022 est.)<br>
-_wind_: 56.4% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 26.1% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 11.3% of total installed capacity (2023 est.)<br>
+_solar_: 9.9% of total installed capacity (2023 est.)<br>
+_wind_: 57.6% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 0.1% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 21.2% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_consumption_: 1.788 million metric tons (2022 est.)<br>
-_exports_: 826,000 metric tons (2022 est.)<br>
-_imports_: 1.89 million metric tons (2022 est.)<br>
+_consumption_: 1.135 million metric tons (2023 est.)<br>
+_exports_: 124,000 metric tons (2023 est.)<br>
+_imports_: 1.296 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 63,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 152,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 151,000 bbl/day (2024 est.)<br>
 _crude oil estimated reserves_: 441 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 1.879 billion cubic meters (2022 est.)<br>
-_consumption_: 2.208 billion cubic meters (2022 est.)<br>
-_exports_: 2.041 billion cubic meters (2022 est.)<br>
-_imports_: 2.582 billion cubic meters (2022 est.)<br>
+_production_: 2.021 billion cubic meters (2023 est.)<br>
+_consumption_: 2.309 billion cubic meters (2023 est.)<br>
+_exports_: 8.388 billion cubic meters (2023 est.)<br>
+_imports_: 8.612 billion cubic meters (2023 est.)<br>
 _proven reserves_: 29.534 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 30.308 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 3.973 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 21.706 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 4.628 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 29.915 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 2.54 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 22.535 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 4.841 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 100.26 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 98.513 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -712,7 +713,7 @@ a member of the European Space Agency (ESA) and fully integrated within its stru
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qods Force<br>
+Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

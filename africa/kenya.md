@@ -589,35 +589,35 @@ _electrification - urban areas_: 98%<br>
 _electrification - rural areas_: 65.6%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 3.746 million kW (2022 est.)<br>
-_consumption_: 9.622 billion kWh (2022 est.)<br>
-_exports_: 18 million kWh (2022 est.)<br>
-_imports_: 221.841 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 2.947 billion kWh (2022 est.)<br>
+_installed generating capacity_: 3.824 million kW (2023 est.)<br>
+_consumption_: 10.002 billion kWh (2023 est.)<br>
+_exports_: 34 million kWh (2023 est.)<br>
+_imports_: 316 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 3.069 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 8% of total installed capacity (2022 est.)<br>
-_solar_: 3.1% of total installed capacity (2022 est.)<br>
-_wind_: 17.3% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 24.6% of total installed capacity (2022 est.)<br>
-_geothermal_: 44.6% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 2.3% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 10.2% of total installed capacity (2023 est.)<br>
+_solar_: 4.5% of total installed capacity (2023 est.)<br>
+_wind_: 15.7% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 20.9% of total installed capacity (2023 est.)<br>
+_geothermal_: 47.2% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 1.6% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_consumption_: 1.168 million metric tons (2022 est.)<br>
-_exports_: (2022 est.) less than 1 metric ton<br>
-_imports_: 1.168 million metric tons (2022 est.)<br>
+_consumption_: 1.453 million metric tons (2023 est.)<br>
+_exports_: 30 metric tons (2023 est.)<br>
+_imports_: 1.453 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 119,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 113,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 19.471 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 2.638 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 16.833 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 19.023 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 3.316 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 15.707 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 5.692 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 5.486 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -733,7 +733,7 @@ has a national space strategy focused on acquiring and applying space technologi
 ## Terrorism
 
 **Terrorist group(s)**<br>
-al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
+al-Shabaab<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

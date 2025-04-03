@@ -43,7 +43,7 @@ _exclusive economic zone_: 200 nm from Iles Kerguelen and Iles Eparses (does not
 **Elevation**<br>
 _highest point_: Mont de la Dives on Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul) 867 m<br>
 _lowest point_: Indian Ocean 0 m<br>
-<strong>highest points throughout the French Southern and Antarctic Lands: </strong>unnamed location on Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul) 272 m; Pic Marion-Dufresne in Iles Crozet 1090 m; Mont Ross in Iles Kerguelen 1850 m; unnamed location on Bassas de India (Iles Eparses) 2.4 m;24 unnamed location on Europa Island (Iles Eparses) 24 m; unnamed location on Glorioso Islands (Iles Eparses) 12 m; unnamed location on Juan de Nova Island (Iles Eparses) 10 m; unnamed location on Tromelin Island (Iles Eparses) 7 m<br>
+<strong>highest points throughout the French Southern and Antarctic Lands: </strong>Crête de la Novara on Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul) 284 m; Pic Marion-Dufresne in Iles Crozet 1090 m; Mont Ross in Iles Kerguelen 1850 m; unnamed location on Bassas de India (Iles Eparses) 2.4 m; 24 unnamed location on Europa Island (Iles Eparses) 6 m; unnamed location on Glorioso Islands (Iles Eparses) 12 m; unnamed location on Juan de Nova Island (Iles Eparses) 10 m; unnamed location on Tromelin Island (Iles Eparses) 7 m<br>
 
 **Natural resources**<br>
 fish, crayfish, note, Glorioso Islands and Tromelin Island (Iles Eparses) have guano, phosphates, and coconuts<br>
@@ -83,7 +83,7 @@ _etymology_: self-descriptive name specifying the territories' affiliation and l
 overseas territory of France since 1955<br>
 
 **Administrative divisions**<br>
-none (overseas territory of France); there are no first-order administrative divisions as defined by the US Government, but there are 5 administrative districts named Iles Crozet, Iles Eparses, Iles Kerguelen, Ile Saint-Paul et Ile Amsterdam; the fifth district is the "Adelie Land" claim in Antarctica that is not recognized by the US<br>
+none (overseas territory of France); there are no first-order administrative divisions as defined by the US Government, but there are 5 administrative districts named Iles Crozet, Iles &Eacute;parses, Iles Kerguelen, Ile Saint-Paul et Ile Amsterdam; the fifth district is the "Adelie Land" claim in Antarctica that the US does not recognize<br>
 
 **Legal system**<br>
 the laws of France, where applicable, apply<br>

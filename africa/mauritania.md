@@ -571,33 +571,33 @@ _electrification - total population_: 49% (2022 est.)<br>
 _electrification - urban areas_: 91.6%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 675,000 kW (2022 est.)<br>
-_consumption_: 1.658 billion kWh (2022 est.)<br>
-_imports_: 193.742 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 231.44 million kWh (2022 est.)<br>
+_installed generating capacity_: 812,000 kW (2023 est.)<br>
+_consumption_: 1.7 billion kWh (2023 est.)<br>
+_imports_: 378 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 320 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 70.1% of total installed capacity (2022 est.)<br>
-_solar_: 8.3% of total installed capacity (2022 est.)<br>
-_wind_: 9.2% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 12.4% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 72.4% of total installed capacity (2023 est.)<br>
+_solar_: 8.5% of total installed capacity (2023 est.)<br>
+_wind_: 6.3% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 12.8% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_imports_: 58 metric tons (2022 est.)<br>
+_imports_: 1 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 29,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 32,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 20 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
 _proven reserves_: 28.317 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 4.322 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 4.322 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 4.86 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 4.86 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 13.306 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 14.135 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -672,7 +672,7 @@ _key ports_: Nouadhibou, Nouakchott<br>
 
 **Military and security forces**<br>
 Mauritanian Armed Forces (aka Armée Nationale Mauritanienne): National Army, National Navy (Marine Nationale), Mauritania Islamic Air Force; Gendarmerie (Ministry of Defense)<br><br>Ministry of Interior and Decentralization: National Police, National Guard (2024)<br>
-<strong>note 1:</strong> the National Police are responsible for enforcing the law and maintaining order in urban areas, while the paramilitary Gendarmerie is responsible for maintaining civil order around metropolitan areas and providing law enforcement services in rural areas; like the Mauritanian Armed Forces, the Gendarmerie is under the Ministry of Defense, but also supports the ministries of Interior and Justice<br><br><strong>note 2:</strong> the National Guard performs a limited police function in keeping with its peacetime role of providing security at government facilities, to include prisons; regional authorities may call upon the National Guard to restore civil order during riots and other large-scale disturbances<br>
+<strong>note 1:</strong> the National Police are responsible for enforcing the law and maintaining order in urban areas, while the paramilitary Gendarmerie is responsible for maintaining civil order around metropolitan areas and providing law enforcement services in rural areas; like the Mauritanian Armed Forces, the Gendarmerie is under the Ministry of Defense, but also supports the ministries of Interior and Justice<br><br><strong>note 2:</strong> the National Guard performs a limited police function in keeping with its peacetime role of providing security at government facilities, to include prisons; regional authorities may call upon the National Guard to restore civil order during riots and other large-scale disturbances; the National Guard includes the nomadic Camel Corps, also known as the Méhariste<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2023 est.)<br>

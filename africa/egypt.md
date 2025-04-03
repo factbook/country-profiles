@@ -597,49 +597,49 @@ _Currency_: Egyptian pounds (EGP) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 59.248 million kW (2022 est.)<br>
-_consumption_: 176.719 billion kWh (2022 est.)<br>
-_exports_: 1.61 billion kWh (2022 est.)<br>
-_imports_: 176 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 37.615 billion kWh (2022 est.)<br>
+_installed generating capacity_: 59.68 million kW (2023 est.)<br>
+_consumption_: 162.026 billion kWh (2023 est.)<br>
+_exports_: 1.785 billion kWh (2023 est.)<br>
+_imports_: 187 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 45.67 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 88.5% of total installed capacity (2022 est.)<br>
-_solar_: 2.1% of total installed capacity (2022 est.)<br>
-_wind_: 2.9% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 6.2% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 0.2% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 87.9% of total installed capacity (2023 est.)<br>
+_solar_: 2.2% of total installed capacity (2023 est.)<br>
+_wind_: 2.8% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 7% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 0.2% of total installed capacity (2023 est.)<br>
 
 **Nuclear energy**<br>
 _Number of nuclear reactors under construction_: 4 (2025)<br>
 
 **Coal**<br>
-_production_: 289,000 metric tons (2022 est.)<br>
-_consumption_: 3.083 million metric tons (2022 est.)<br>
-_exports_: 92.8 metric tons (2022 est.)<br>
-_imports_: 2.733 million metric tons (2022 est.)<br>
-_proven reserves_: 182 million metric tons (2022 est.)<br>
+_production_: 69,000 metric tons (2023 est.)<br>
+_consumption_: 3.262 million metric tons (2023 est.)<br>
+_exports_: 68,000 metric tons (2023 est.)<br>
+_imports_: 3.263 million metric tons (2023 est.)<br>
+_proven reserves_: 182 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 667,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 851,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 830,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 3.3 billion barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 64.817 billion cubic meters (2022 est.)<br>
-_consumption_: 60.089 billion cubic meters (2022 est.)<br>
-_exports_: 9.28 billion cubic meters (2022 est.)<br>
-_imports_: 6.648 billion cubic meters (2022 est.)<br>
+_production_: 57.181 billion cubic meters (2023 est.)<br>
+_consumption_: 58.695 billion cubic meters (2023 est.)<br>
+_exports_: 5.344 billion cubic meters (2023 est.)<br>
+_imports_: 9.126 billion cubic meters (2023 est.)<br>
 _proven reserves_: 1.784 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 240.225 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 6.77 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 115.575 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 117.879 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 236.618 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 6.966 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 114.507 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 115.144 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 36.463 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 34.975 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -759,7 +759,7 @@ has a growing program with a focus on developing the capabilities to manufacture
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province (ISIS-SP); al-Qa’ida<br>
+Army of Islam; Harakat Sawa'd Misr (HASM); Islamic State of Iraq and ash-Sham – Sinai Province (ISIS-SP); al-Qa’ida<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

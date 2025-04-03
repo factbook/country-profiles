@@ -283,7 +283,7 @@ _time difference_: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)
 _etymology_: founded as L'etablissement in 1778 by French colonists, the town was renamed in 1841 by the British after Queen VICTORIA (1819-1901); "victoria" is the Latin word for "victory"<br>
 
 **Administrative divisions**<br>
-27 administrative districts; Anse aux Pins, Anse Boileau, Anse Etoile, Anse Royale, Au Cap, Baie Lazare, Baie Sainte Anne, Beau Vallon, Bel Air, Bel Ombre, Cascade, Glacis, Grand Anse Mahe, Grand Anse Praslin, Ile Perseverance I, Ile Perseverance II, La Digue, La Riviere Anglaise, Les Mamelles, Mont Buxton, Mont Fleuri, Plaisance, Pointe Larue, Port Glaud, Roche Caiman, Saint Louis, Takamaka<br>
+27 administrative districts; Anse aux Pins, Anse Boileau, Anse Etoile, Anse Royale, Au Cap, Baie Lazare, Baie Sainte Anne, Beau Vallon, Bel Air, Bel Ombre, Cascade, Glacis, Grand Anse Mahe, Grand Anse Praslin, Ile Pers&eacute;v&eacute;rance I, Ile Pers&eacute;v&eacute;rance II, La Digue, La Rivi&egrave;re Anglaise, Les Mamelles, Mont Buxton, Mont Fleuri, Plaisance, Pointe Larue, Port Glaud, Roche Caiman, Saint Louis, Takamaka<br>
 
 **Independence**<br>
 29 June 1976 (from the UK)<br>
@@ -529,27 +529,28 @@ _Currency_: Seychelles rupees (SCR) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 158,000 kW (2022 est.)<br>
-_consumption_: 571.297 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 44.034 million kWh (2022 est.)<br>
+_installed generating capacity_: 156,000 kW (2023 est.)<br>
+_consumption_: 581.227 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 44.034 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 86.1% of total installed capacity (2022 est.)<br>
-_solar_: 12.9% of total installed capacity (2022 est.)<br>
-_wind_: 1% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 86.4% of total installed capacity (2023 est.)<br>
+_solar_: 12.7% of total installed capacity (2023 est.)<br>
+_wind_: 1% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_imports_: (2022 est.) less than 1 metric ton<br>
+_imports_: 500 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 6,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 6,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 867,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 867,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 893,000 metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 92 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 893,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 111.2 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 98.847 million Btu/person (2023 est.)<br>
 
 ## Communications
 

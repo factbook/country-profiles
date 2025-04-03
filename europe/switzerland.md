@@ -309,7 +309,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: origin of the name is uncertain but may derive from a 2nd century B.C. Celtic place name, possibly "berna" meaning "cleft," that was subsequently adopted by a Roman settlement<br>
 
 **Administrative divisions**<br>
-26 cantons (cantons, singular - canton in French; cantoni, singular - cantone in Italian; Kantone, singular - Kanton in German); Aargau, Appenzell Ausserrhoden, Appenzell Innerrhoden, Basel-Landschaft, Basel-Stadt, Berne/Bern, Fribourg/Freiburg, Geneve (Geneva), Glarus, Graubuenden/Grigioni/Grischun, Jura, Luzern (Lucerne), Neuchatel, Nidwalden, Obwalden, Sankt Gallen, Schaffhausen, Schwyz, Solothurn, Thurgau, Ticino, Uri, Valais/Wallis, Vaud, Zug, Zuerich<br>
+26 cantons (cantons, singular - canton in French; cantoni, singular - cantone in Italian; Kantone, singular - Kanton in German); Aargau, Appenzell Ausserrhoden, Appenzell Innerrhoden, Basel-Landschaft, Basel-Stadt, Berne/Bern, Fribourg/Freiburg, Genève (Geneva), Glarus, Graubuenden/Grigioni/Grischun, Jura, Luzern (Lucerne), Neuchatel, Nidwalden, Obwalden, Sankt Gallen, Schaffhausen, Schwyz, Solothurn, Thurgau, Ticino, Uri, Valais/Wallis, Vaud, Zug, Zuerich<br>
 <strong>note:</strong> the canton names are in the official language(s) of the canton with the exception of Geneve and Luzern, where the conventional names (Geneva and Lucerne) have been added in parentheses; 6 of the cantons - Appenzell Ausserrhoden, Appenzell Innerrhoden, Basel-Landschaft, Basel-Stadt, Nidwalden, Obwalden - are referred to as half cantons because they elect only one member (instead of two) to the Council of States and, in popular referendums where a majority of popular votes and a majority of cantonal votes are required, these 6 cantons only have a half vote<br>
 
 **Independence**<br>
@@ -587,19 +587,19 @@ _Currency_: Swiss francs (CHF) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 24.014 million kW (2022 est.)<br>
-_consumption_: 57.187 billion kWh (2022 est.)<br>
-_exports_: 29.881 billion kWh (2022 est.)<br>
-_imports_: 33.02 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 4.678 billion kWh (2022 est.)<br>
+_installed generating capacity_: 26.502 million kW (2023 est.)<br>
+_consumption_: 55.643 billion kWh (2023 est.)<br>
+_exports_: 33.856 billion kWh (2023 est.)<br>
+_imports_: 27.462 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 4.81 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 0.9% of total installed capacity (2022 est.)<br>
-_nuclear_: 39.4% of total installed capacity (2022 est.)<br>
-_solar_: 6.5% of total installed capacity (2022 est.)<br>
-_wind_: 0.3% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 48% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 5% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 0.6% of total installed capacity (2023 est.)<br>
+_nuclear_: 34.9% of total installed capacity (2023 est.)<br>
+_solar_: 6.6% of total installed capacity (2023 est.)<br>
+_wind_: 0.3% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 53% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 4.7% of total installed capacity (2023 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 4 (2025)<br>
@@ -608,26 +608,26 @@ _Percent of total electricity production_: 32.4% (2023 est.)<br>
 _Number of nuclear reactors permanently shut down_: 2 (2025)<br>
 
 **Coal**<br>
-_consumption_: 161,000 metric tons (2022 est.)<br>
-_exports_: 3.3 metric tons (2022 est.)<br>
-_imports_: 184,000 metric tons (2022 est.)<br>
+_consumption_: 126,000 metric tons (2023 est.)<br>
+_exports_: 300 metric tons (2023 est.)<br>
+_imports_: 156,000 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 300 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 193,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 194,000 bbl/day (2024 est.)<br>
 
 **Natural gas**<br>
-_consumption_: 3.138 billion cubic meters (2022 est.)<br>
-_imports_: 3.099 billion cubic meters (2022 est.)<br>
+_consumption_: 2.915 billion cubic meters (2023 est.)<br>
+_imports_: 2.869 billion cubic meters (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 33.609 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 268,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 27.331 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 6.009 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 33.306 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 195,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 27.528 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 5.583 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 101.938 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 99.578 million Btu/person (2023 est.)<br>
 
 ## Communications
 

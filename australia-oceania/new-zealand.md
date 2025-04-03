@@ -551,43 +551,43 @@ _Currency_: New Zealand dollars (NZD) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 10.412 million kW (2022 est.)<br>
-_consumption_: 41.466 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 2.712 billion kWh (2022 est.)<br>
+_installed generating capacity_: 10.643 million kW (2023 est.)<br>
+_consumption_: 40.794 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 3.058 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 13.2% of total installed capacity (2022 est.)<br>
-_solar_: 0.5% of total installed capacity (2022 est.)<br>
-_wind_: 6.5% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 58.5% of total installed capacity (2022 est.)<br>
-_geothermal_: 17.7% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 3.5% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 12.4% of total installed capacity (2023 est.)<br>
+_solar_: 0.8% of total installed capacity (2023 est.)<br>
+_wind_: 8% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 59.7% of total installed capacity (2023 est.)<br>
+_geothermal_: 17.6% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 1.5% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_production_: 3.036 million metric tons (2022 est.)<br>
-_consumption_: 2.441 million metric tons (2022 est.)<br>
-_exports_: 1.278 million metric tons (2022 est.)<br>
-_imports_: 727,000 metric tons (2022 est.)<br>
-_proven reserves_: 7.575 billion metric tons (2022 est.)<br>
+_production_: 3.011 million metric tons (2023 est.)<br>
+_consumption_: 2.696 million metric tons (2023 est.)<br>
+_exports_: 906,000 metric tons (2023 est.)<br>
+_imports_: 283,000 metric tons (2023 est.)<br>
+_proven reserves_: 6.75 billion metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 12,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 154,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 154,000 bbl/day (2024 est.)<br>
 _crude oil estimated reserves_: 40.993 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 3.77 billion cubic meters (2022 est.)<br>
-_consumption_: 3.819 billion cubic meters (2022 est.)<br>
+_production_: 3.97 billion cubic meters (2023 est.)<br>
+_consumption_: 3.891 billion cubic meters (2023 est.)<br>
 _proven reserves_: 31.149 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 31.998 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 3.687 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 21.018 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 7.293 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 33.506 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 4.24 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 21.836 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 7.43 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 120.219 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 121.647 million Btu/person (2023 est.)<br>
 
 ## Communications
 

@@ -574,19 +574,19 @@ _electrification - urban areas_: 99.9%<br>
 _electrification - rural areas_: 100%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 111.02 million kW (2022 est.)<br>
-_consumption_: 287.128 billion kWh (2022 est.)<br>
-_exports_: 20.793 billion kWh (2022 est.)<br>
-_imports_: 15.451 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 26.125 billion kWh (2022 est.)<br>
+_installed generating capacity_: 114.749 million kW (2023 est.)<br>
+_consumption_: 262.166 billion kWh (2023 est.)<br>
+_exports_: 9.449 billion kWh (2023 est.)<br>
+_imports_: 33.212 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 28.961 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 41.5% of total installed capacity (2022 est.)<br>
-_nuclear_: 13.6% of total installed capacity (2022 est.)<br>
-_solar_: 4.3% of total installed capacity (2022 est.)<br>
-_wind_: 25.3% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 1.7% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 13.5% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 36.2% of total installed capacity (2023 est.)<br>
+_nuclear_: 13.8% of total installed capacity (2023 est.)<br>
+_solar_: 4.9% of total installed capacity (2023 est.)<br>
+_wind_: 30.7% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 1.7% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 12.6% of total installed capacity (2023 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 9 (2025)<br>
@@ -596,32 +596,32 @@ _Percent of total electricity production_: 12.5% (2023 est.)<br>
 _Number of nuclear reactors permanently shut down_: 36 (2025)<br>
 
 **Coal**<br>
-_production_: 1.891 million metric tons (2022 est.)<br>
-_consumption_: 8.568 million metric tons (2022 est.)<br>
-_exports_: 691,000 metric tons (2022 est.)<br>
-_imports_: 7.792 million metric tons (2022 est.)<br>
-_proven reserves_: 26 million metric tons (2022 est.)<br>
+_production_: 1.568 million metric tons (2023 est.)<br>
+_consumption_: 7.372 million metric tons (2023 est.)<br>
+_exports_: 981,000 metric tons (2023 est.)<br>
+_imports_: 6.633 million metric tons (2023 est.)<br>
+_proven reserves_: 26 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 753,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 1.397 million bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 1.406 million bbl/day (2024 est.)<br>
 _crude oil estimated reserves_: 2.5 billion barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 37.758 billion cubic meters (2022 est.)<br>
-_consumption_: 70.141 billion cubic meters (2022 est.)<br>
-_exports_: 23.475 billion cubic meters (2022 est.)<br>
-_imports_: 56.501 billion cubic meters (2022 est.)<br>
+_production_: 34.029 billion cubic meters (2023 est.)<br>
+_consumption_: 63.553 billion cubic meters (2023 est.)<br>
+_exports_: 15.842 billion cubic meters (2023 est.)<br>
+_imports_: 45.226 billion cubic meters (2023 est.)<br>
 _proven reserves_: 180.661 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 353.407 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 19.558 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 194.001 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 139.848 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 340.94 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 17.093 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 197.133 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 126.713 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 99.499 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 94.28 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -714,8 +714,8 @@ United Kingdom Armed Forces (aka British Armed Forces, aka His Majesty's Armed F
 2.4% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 145,000 regular forces (80,000 Army including the Gurkhas; 33,000 Navy including the Royal Marines; 32,000 Air Force) (2024)<br>
-<strong>note: </strong>the military also has approximately 40-45,000 reserves and other personnel on active duty<br>
+approximately 138,000 Regular Forces (75,000 Army including the Gurkhas; 32,000 Navy including the Royal Marines; 31,000 Air Force) (2025)<br>
+<strong>note: </strong>the military also maintains approximately 40-45,000 reserves and other personnel on active duty<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the British military is comprised mostly of domestically produced weapons and equipment, with a smaller mix of some imported Western weapons systems, particularly from the US; the UK defense industry is capable of producing a wide variety of air, land, and sea weapons systems and is one of the world's top weapons suppliers; it also cooperates with other European countries and the US in the research and development of weapons systems (2024)<br>
@@ -745,7 +745,7 @@ has a comprehensive space program and is active across all areas of the space se
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Continuity Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS); New Irish Republican Army; al-Qa'ida<br>
+Continuity Irish Republican Army (CIRA); Islamic State of Iraq and ash-Sham (ISIS); al-Qa'ida; Real Irish Republican Army (RIRA)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

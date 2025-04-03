@@ -526,33 +526,34 @@ _Currency_: Trinidad and Tobago dollars (TTD) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 2.522 million kW (2022 est.)<br>
-_consumption_: 8.981 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 427.688 million kWh (2022 est.)<br>
+_installed generating capacity_: 2.139 million kW (2023 est.)<br>
+_consumption_: 9.001 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 492 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 99.9% of total installed capacity (2022 est.)<br>
-_solar_: 0.1% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 99.9% of total installed capacity (2023 est.)<br>
+_solar_: 0.1% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_consumption_: 100 metric tons (2021 est.)<br>
-_imports_: 200 metric tons (2022 est.)<br>
+_consumption_: 6 metric tons (2022 est.)<br>
+_imports_: 2,000 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 73,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 32,000 bbl/day (2022 est.)<br>
+_total petroleum production_: 72,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 26,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 242.982 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 26.772 billion cubic meters (2022 est.)<br>
-_consumption_: 15.913 billion cubic meters (2022 est.)<br>
-_exports_: 10.878 billion cubic meters (2022 est.)<br>
+_production_: 25.994 billion cubic meters (2023 est.)<br>
+_consumption_: 15.316 billion cubic meters (2023 est.)<br>
+_exports_: 10.737 billion cubic meters (2023 est.)<br>
 _proven reserves_: 298.063 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 35.415 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 4.257 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 31.158 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 33.629 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 6,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 3.634 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 29.989 million metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

@@ -568,41 +568,41 @@ _Currency_: leke (ALL) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 2.635 million kW (2022 est.)<br>
-_consumption_: 6.5 billion kWh (2022 est.)<br>
-_exports_: 2.123 billion kWh (2022 est.)<br>
-_imports_: 3.044 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 1.423 billion kWh (2022 est.)<br>
+_installed generating capacity_: 2.857 million kW (2023 est.)<br>
+_consumption_: 7.49 billion kWh (2023 est.)<br>
+_exports_: 2.2 billion kWh (2023 est.)<br>
+_imports_: 1.922 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 1.238 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_solar_: 0.6% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 99.4% of total installed capacity (2022 est.)<br>
+_solar_: 3.3% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 96.7% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_production_: 379,000 metric tons (2022 est.)<br>
-_consumption_: 389,000 metric tons (2022 est.)<br>
-_exports_: 31,000 metric tons (2022 est.)<br>
-_imports_: 42,000 metric tons (2022 est.)<br>
-_proven reserves_: 522 million metric tons (2022 est.)<br>
+_production_: 473,000 metric tons (2023 est.)<br>
+_consumption_: 255,000 metric tons (2023 est.)<br>
+_exports_: 345,000 metric tons (2023 est.)<br>
+_imports_: 180,000 metric tons (2023 est.)<br>
+_proven reserves_: 522 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 14,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 26,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 21,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 150 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 50.623 million cubic meters (2022 est.)<br>
-_consumption_: 50.623 million cubic meters (2022 est.)<br>
+_production_: 49.977 million cubic meters (2023 est.)<br>
+_consumption_: 49.977 million cubic meters (2023 est.)<br>
 _proven reserves_: 5.692 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 3.856 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 608,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 3.153 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 94,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 3.392 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 566,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 2.734 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 93,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 30.306 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 27.407 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -677,7 +677,7 @@ _key ports_: Durres, Shengjin, Vlores<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Republic of Albania Armed Forces (Forcat e Armatosura të Republikës së Shqipërisë (FARSH); aka Albanian Armed Forces (AAF)): Land Forces, Naval Force (includes Coast Guard), Air Forces<br><br>Ministry of Interior: Guard of the Republic, State Police (includes the Border and Migration Police) (2024)<br>
+Republic of Albania Armed Forces (Forcat e Armatosura të Republikës së Shqipërisë (FARSH); aka Albanian Armed Forces (AAF)): Land Forces, Naval Force (includes Coast Guard), Air Forces<br><br>Ministry of Interior: Guard of the Republic, State Police (includes the Border and Migration Police) (2025)<br>
 <strong>note:</strong> the State Police are primarily responsible for internal security, including counterterrorism, while the Guard of the Republic protects senior state officials, foreign dignitaries, and certain state properties<br>
 
 **Military expenditures**<br>

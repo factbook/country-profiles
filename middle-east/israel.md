@@ -561,41 +561,42 @@ _Currency_: new Israeli shekels (ILS) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 22.207 million kW (2022 est.)<br>
-_consumption_: 65.442 billion kWh (2022 est.)<br>
-_exports_: 6.916 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 3.557 billion kWh (2022 est.)<br>
+_installed generating capacity_: 22.612 million kW (2023 est.)<br>
+_consumption_: 63.964 billion kWh (2023 est.)<br>
+_exports_: 6.93 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 3.51 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 90.1% of total installed capacity (2022 est.)<br>
-_solar_: 9.7% of total installed capacity (2022 est.)<br>
-_wind_: 0.2% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 89.5% of total installed capacity (2023 est.)<br>
+_solar_: 9.4% of total installed capacity (2023 est.)<br>
+_wind_: 1% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 0.1% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_consumption_: 6.476 million metric tons (2022 est.)<br>
-_exports_: 8.9 metric tons (2022 est.)<br>
-_imports_: 6.561 million metric tons (2022 est.)<br>
+_consumption_: 5.297 million metric tons (2023 est.)<br>
+_exports_: 9 metric tons (2022 est.)<br>
+_imports_: 4.887 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 15,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 230,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 219,000 bbl/day (2024 est.)<br>
 _crude oil estimated reserves_: 12.73 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 22.886 billion cubic meters (2022 est.)<br>
-_consumption_: 11.51 billion cubic meters (2022 est.)<br>
-_exports_: 9.578 billion cubic meters (2022 est.)<br>
+_production_: 24.186 billion cubic meters (2023 est.)<br>
+_consumption_: 12.608 billion cubic meters (2023 est.)<br>
+_exports_: 11.505 billion cubic meters (2023 est.)<br>
 _imports_: 59.369 million cubic meters (2022 est.)<br>
 _proven reserves_: 176.018 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 64.871 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 14.043 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 28.858 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 21.97 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 64.401 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 11.542 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 28.793 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 24.066 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 113.455 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 112.437 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -707,7 +708,7 @@ has an ambitious space program and one of the most advanced in the region; desig
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS); Popular Front for the Liberation of Palestine; Palestinian Islamic Jihad; HAMAS<br>
+Islamic State of Iraq and ash-Sham (ISIS); Popular Front for the Liberation of Palestine (PFLP); Palestinian Islamic Jihad (PIJ); HAMAS<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

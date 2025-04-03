@@ -614,19 +614,19 @@ _electrification - urban areas_: 99.1%<br>
 _electrification - rural areas_: 100%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 301.123 million kW (2022 est.)<br>
-_consumption_: 1.026 trillion kWh (2022 est.)<br>
-_exports_: 18.582 billion kWh (2022 est.)<br>
-_imports_: 1.532 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 95.804 billion kWh (2022 est.)<br>
+_installed generating capacity_: 301.926 million kW (2023 est.)<br>
+_consumption_: 1.011 trillion kWh (2023 est.)<br>
+_exports_: 18.66 billion kWh (2023 est.)<br>
+_imports_: 2.852 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 97.301 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 60.3% of total installed capacity (2022 est.)<br>
-_nuclear_: 19.6% of total installed capacity (2022 est.)<br>
-_solar_: 0.2% of total installed capacity (2022 est.)<br>
-_wind_: 0.3% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 19.2% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 0.3% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 61.8% of total installed capacity (2023 est.)<br>
+_nuclear_: 19.3% of total installed capacity (2023 est.)<br>
+_solar_: 0.2% of total installed capacity (2023 est.)<br>
+_wind_: 0.7% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 17.6% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 0.3% of total installed capacity (2023 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 36 (2025)<br>
@@ -636,32 +636,32 @@ _Percent of total electricity production_: 18.4% (2023 est.)<br>
 _Number of nuclear reactors permanently shut down_: 11 (2025)<br>
 
 **Coal**<br>
-_production_: 508.19 million metric tons (2022 est.)<br>
-_consumption_: 310.958 million metric tons (2022 est.)<br>
-_exports_: 220.306 million metric tons (2022 est.)<br>
-_imports_: 23.074 million metric tons (2022 est.)<br>
-_proven reserves_: 162.166 billion metric tons (2022 est.)<br>
+_production_: 531.13 million metric tons (2023 est.)<br>
+_consumption_: 290.763 million metric tons (2023 est.)<br>
+_exports_: 211.944 million metric tons (2023 est.)<br>
+_imports_: 20.765 million metric tons (2023 est.)<br>
+_proven reserves_: 162.166 billion metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 10.727 million bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 3.684 million bbl/day (2022 est.)<br>
+_total petroleum production_: 10.879 million bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 3.863 million bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 80 billion barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 617.83 billion cubic meters (2022 est.)<br>
-_consumption_: 472.239 billion cubic meters (2022 est.)<br>
-_exports_: 176.056 billion cubic meters (2022 est.)<br>
-_imports_: 8.129 billion cubic meters (2022 est.)<br>
+_production_: 613.447 billion cubic meters (2023 est.)<br>
+_consumption_: 474.448 billion cubic meters (2023 est.)<br>
+_exports_: 124.479 billion cubic meters (2023 est.)<br>
+_imports_: 5.724 billion cubic meters (2023 est.)<br>
 _proven reserves_: 47.805 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 1.84 billion metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 517.718 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 414.253 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 907.83 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 1.844 billion metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 479.311 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 453.103 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 912.076 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 225.235 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 224.858 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -761,8 +761,8 @@ approximately 1.3 million Armed Forces personnel; estimated 350,000-plus Federal
 the Russian Federation's military and paramilitary services are equipped with domestically produced weapons systems, although in recent years Russia has imported considerable amounts of military hardware from external suppliers such as Iran and North Korea; the Russian defense industry is capable of designing, developing, and producing a full range of advanced air, land, missile, and naval systems; Russia is the world's second largest exporter of military hardware (2024)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory service for men; 18-40 for voluntary/contractual service; women and non-Russian citizens (18-30) may volunteer; men are registered for the draft at 17 years of age; 12-month service obligation (Russia offers the option of serving on a 24-month contract instead of completing a 12-month conscription period); reserve obligation for non-officers to age 50 (Russian men who have completed their compulsory service to re-enter the army up to the age of 55); enrollment in military schools from the age of 16 (2023)<br>
-<strong>note 1:</strong> in May 2022, Russia's parliament approved a law removing the upper age limit for contractual service in the military; in November 2022, President Vladimir PUTIN signed a decree allowing dual-national Russians and those with permanent residency status in foreign countries to be drafted into the army for military service<br><br><strong>note 2: </strong>historically, the Russian military has taken in about 260,000 conscripts each year in two semi-annual drafts (Spring and Fall)<br><br><strong>note 3:</strong> prior to the invasion of Ukraine in 2022, approximately 40-45,000 women served in the Russian Armed Forces<br><br><strong>note 4:</strong> since 2015, foreigners 18-30 with a good command of Russian have been allowed to join the military on five-year contracts and become eligible for Russian citizenship after serving three years; in October 2022, the Interior Ministry opened up recruitment centers for foreigners to sign a one-year service contract with the armed forces, other troops, or military formations participating in the invasion of Ukraine with the promise of simplifying the process of obtaining Russian citizenship<br>
+18-30 years of age for compulsory service for men; 18-40 for voluntary/contractual service; women and non-Russian citizens (18-30) may volunteer; 12-month service obligation (Russia offers the option of serving on a 24-month contract instead of completing a 12-month conscription period); reserve obligation for non-officers to age 50 (Russian men who have completed their compulsory service to re-enter the army up to the age of 55) (2023)<br>
+<strong>note 1:</strong> in 2022, Russia's parliament approved a law removing the upper age limit for contractual service in the military; also in 2022, President Vladimir PUTIN signed a decree allowing dual-national Russians and those with permanent residency status in foreign countries to be drafted into the army for military service<br><br><strong>note 2: </strong>historically, the Russian military has taken in about 260,000 conscripts each year in two semi-annual drafts (Spring and Fall)<br><br><strong>note 3:</strong> prior to the full-scale invasion of Ukraine in 2022, approximately 40-45,000 women served in the Russian Armed Forces<br><br><strong>note 4:</strong> since 2015, foreigners 18-30 with a good command of Russian have been allowed to join the military on five-year contracts and become eligible for Russian citizenship after serving three years; in October 2022, the Interior Ministry opened up recruitment centers for foreigners to sign a one-year service contract with the armed forces, other troops, or military formations participating in the invasion of Ukraine with the promise of simplifying the process of obtaining Russian citizenship<br>
 
 **Military deployments**<br>
 information varies and may not reflect troops transferred to support Russian military operations in Ukraine; approximately 3,000 Armenia; up to 5,000 Belarus; up to 10,000 Georgia; approximately 500 Kyrgyzstan; approximately 1,500 Moldova (Transnistria); estimated 2,000-5,000 Syria; approximately 3-5,000 Tajikistan (2024)<br>

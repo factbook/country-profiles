@@ -581,44 +581,44 @@ _Currency_: euros (EUR) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 29.81 million kW (2022 est.)<br>
-_consumption_: 65.168 billion kWh (2022 est.)<br>
-_exports_: 19.882 billion kWh (2022 est.)<br>
-_imports_: 28.595 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 3.252 billion kWh (2022 est.)<br>
+_installed generating capacity_: 33.371 million kW (2023 est.)<br>
+_consumption_: 64.611 billion kWh (2023 est.)<br>
+_exports_: 21.631 billion kWh (2023 est.)<br>
+_imports_: 21.55 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 3.095 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 25.1% of total installed capacity (2022 est.)<br>
-_solar_: 4.5% of total installed capacity (2022 est.)<br>
-_wind_: 11.7% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 51.2% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 7.5% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 14.9% of total installed capacity (2023 est.)<br>
+_solar_: 9% of total installed capacity (2023 est.)<br>
+_wind_: 11.9% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 56.4% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 7.8% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_production_: 1.271 million metric tons (2022 est.)<br>
-_consumption_: 5.026 million metric tons (2022 est.)<br>
+_production_: 1.288 million metric tons (2023 est.)<br>
+_consumption_: 5.403 million metric tons (2023 est.)<br>
 _exports_: 2,000 metric tons (2022 est.)<br>
-_imports_: 4.152 million metric tons (2022 est.)<br>
+_imports_: 4.179 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 18,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 245,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 244,000 bbl/day (2024 est.)<br>
 _crude oil estimated reserves_: 35.2 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 618.209 million cubic meters (2022 est.)<br>
-_consumption_: 8.136 billion cubic meters (2022 est.)<br>
-_imports_: 12.132 billion cubic meters (2022 est.)<br>
+_production_: 548.976 million cubic meters (2023 est.)<br>
+_consumption_: 6.971 billion cubic meters (2023 est.)<br>
+_imports_: 7.084 billion cubic meters (2023 est.)<br>
 _proven reserves_: 5.04 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 57.876 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 9.483 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 32.758 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 15.636 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 56.959 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 10.527 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 33.036 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 13.397 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 123.11 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 120.211 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -687,7 +687,7 @@ _by type_: other 1<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Austrian Armed Forces (Bundesheer): Land Forces, Air Forces, Cyber Forces, Special Operations Forces, Militia (reserves) (2024)<br>
+Austrian Armed Forces (Bundesheer): Land Forces, Air Force, Cyber Forces, Special Operations Forces, Militia (reserves) (2025)<br>
 <strong>note 1:</strong> the federal police maintain internal security and report to the Ministry of the Interior<br><br><strong>note 2:</strong> the militia is comprised of men and women who have done their basic military or training service and continue to perform a task in the armed forces; they are integrated into the military but have civilian jobs and only participate in exercises or operations; missions for the militia may include providing disaster relief, assisting security police, and protecting critical infrastructure (energy, water, etc.), as well as deployments on missions abroad<br>
 
 **Military expenditures**<br>

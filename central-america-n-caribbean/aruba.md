@@ -266,7 +266,7 @@ see the Netherlands<br>
 
 **Executive branch**<br>
 _chief of state_: King WILLEM-ALEXANDER of the Netherlands (since 30 April 2013); represented by Governor General Alfonso BOEKHOUDT (since 1 January 2017)<br>
-_head of government_: Prime Minister Evelyn WEVER-CROES (since 17 November 2017)<br>
+_head of government_: Prime Minister Mike EMAN (since 28 March 2025)<br>
 _cabinet_: Council of Ministers elected by the Legislature (Staten)<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch for a 6-year term; prime minister and deputy prime minister indirectly elected by the Staten for 4-year term; election last held on 25 June 2021 (next to be held by June 2025)<br>
 _election results_: as leader of the majority party of the ruling coalition, Evelyn WEVER-CROES (MEP) elected prime minister; percent of Staten vote - NA<br>
@@ -445,24 +445,27 @@ _electrification - urban areas_: 100%<br>
 _electrification - rural areas_: 100%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 304,000 kW (2022 est.)<br>
-_consumption_: 809.548 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 166.766 million kWh (2022 est.)<br>
+_installed generating capacity_: 305,000 kW (2023 est.)<br>
+_consumption_: 824.036 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 166.766 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 84.9% of total installed capacity (2022 est.)<br>
-_solar_: 1.2% of total installed capacity (2022 est.)<br>
-_wind_: 13.9% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 83.6% of total installed capacity (2023 est.)<br>
+_solar_: 2.6% of total installed capacity (2023 est.)<br>
+_wind_: 13.7% of total installed capacity (2023 est.)<br>
+
+**Coal**<br>
+_imports_: 1 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 8,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 8,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 1.214 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 1.214 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 1.163 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.163 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 161.715 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 153.952 million Btu/person (2023 est.)<br>
 
 ## Communications
 
@@ -524,7 +527,7 @@ _key ports_: Paardenbaai (Oranjestad), Sint Nicolaas Baai<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Aruban Militia (ARUMIL); Police Department for local law enforcement, supported by the Royal Netherlands Marechaussee (Gendarmerie), the Dutch Caribbean Police Force (Korps Politie Caribisch Nederland, KPCN), and the Dutch Caribbean Coast Guard (DCCG or Kustwacht Caribisch Gebied (KWCARIB)) (2024)<br>
+no regular military forces; Aruban Militia (ARUMIL); Police Department for local law enforcement, supported by the Royal Netherlands Marechaussee (Gendarmerie), the Dutch Caribbean Police Force (Korps Politie Caribisch Nederland, KPCN), and the Dutch Caribbean Coast Guard (DCCG or Kustwacht Caribisch Gebied (KWCARIB)) (2025)<br>
 
 **Military - note**<br>
 defense is the responsibility of the Kingdom of the Netherlands; the Aruba security services focus on organized crime and terrorism; the Dutch Government controls foreign and defense policy; the Dutch Caribbean Coast Guard (DCCG) provides maritime security; the Dutch military maintains a presence on Aruba, including a marine company and a naval base (2024)<br>

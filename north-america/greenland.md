@@ -452,25 +452,27 @@ _Currency_: Danish kroner (DKK) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 188,000 kW (2022 est.)<br>
-_consumption_: 558.48 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 10 million kWh (2022 est.)<br>
+_installed generating capacity_: 190,000 kW (2023 est.)<br>
+_consumption_: 534.5 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 10 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 23.4% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 76.2% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 0.4% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 13.6% of total installed capacity (2023 est.)<br>
+_solar_: 0.2% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 85.8% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 0.5% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_imports_: 2 metric tons (2022 est.)<br>
-_proven reserves_: 383 million metric tons (2022 est.)<br>
+_imports_: 5 metric tons (2023 est.)<br>
+_proven reserves_: 383 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 4,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 4,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 562,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 562,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 527,000 metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 12 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 527,000 metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

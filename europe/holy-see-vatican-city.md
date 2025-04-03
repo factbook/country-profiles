@@ -227,7 +227,7 @@ _selected World Heritage Site locales_: Historic Center of Rome, the Properties 
 ## Economy
 
 **Economic overview**<br>
-limited, tourism-based economy; euro user but issues commemorative stamps and coins; solar energy producer; some printing industry to support museums and religious needs<br>
+limited, tourism-based economy; euro user with own minted coins; produces commemorative stamps, coins, and publications to support museums and religious needs; residents pay no direct taxes; &ldquo;zero deficit&rdquo; plan to address budget shortfall<br>
 
 **Industries**<br>
 printing; production of coins, medals, postage stamps; mosaics, staff uniforms; worldwide banking and financial activities<br>

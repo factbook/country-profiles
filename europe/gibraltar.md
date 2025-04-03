@@ -351,24 +351,24 @@ _Currency_: Gibraltar pounds (GIP) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 43,000 kW (2022 est.)<br>
-_consumption_: 244.5 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 7 million kWh (2022 est.)<br>
+_installed generating capacity_: 50,000 kW (2023 est.)<br>
+_consumption_: 213.744 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 6.256 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 100% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 100% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 84,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 91,000 bbl/day (2023 est.)<br>
 
 **Natural gas**<br>
-_consumption_: 75.781 million cubic meters (2022 est.)<br>
-_imports_: 75.781 million cubic meters (2022 est.)<br>
+_consumption_: 77.196 million cubic meters (2023 est.)<br>
+_imports_: 77.196 million cubic meters (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 14.297 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 14.149 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 148,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 15.608 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 15.458 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 150,000 metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

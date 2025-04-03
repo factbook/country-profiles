@@ -444,20 +444,20 @@ _Currency_: Australian dollars (AUD) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 19,000 kW (2022 est.)<br>
-_consumption_: 37.48 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 3.922 million kWh (2022 est.)<br>
+_installed generating capacity_: 19,000 kW (2023 est.)<br>
+_consumption_: 37.893 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 3.922 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 88.9% of total installed capacity (2022 est.)<br>
-_solar_: 11.1% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 88% of total installed capacity (2023 est.)<br>
+_solar_: 12% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 500 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 500 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 70,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 70,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 86,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 86,000 metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

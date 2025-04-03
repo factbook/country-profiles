@@ -380,22 +380,20 @@ _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 6,000 kW (2022 est.)<br>
-_consumption_: 13.968 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 370,000 kWh (2022 est.)<br>
+_installed generating capacity_: 6,000 kW (2023 est.)<br>
+_consumption_: 15.968 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 370,000 kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 100% of total installed capacity (2022 est.)<br>
-
-**Coal**<br>
-_imports_: (2022 est.) less than 1 metric ton<br>
+_fossil fuels_: 87.8% of total installed capacity (2023 est.)<br>
+_solar_: 12.2% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 200 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 200 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 26,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 26,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 24,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 24,000 metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 
