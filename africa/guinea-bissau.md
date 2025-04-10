@@ -77,9 +77,9 @@ this small country is swampy along its western coast and low-lying inland<br>
 ## People and Society
 
 **Population**<br>
-_total_: 2,132,325<br>
+_total_: 2,132,325 (2024 est.)<br>
 _male_: 1,042,910<br>
-_female_: 1,089,415 (2024 est.)<br>
+_female_: 1,089,415<br>
 
 **Nationality**<br>
 _noun_: Bissau-Guinean(s)<br>
@@ -93,9 +93,6 @@ Portuguese-based Creole, Portuguese (official; largely used as a second or third
 
 **Religions**<br>
 Muslim 46.1%, folk religions 30.6%, Christian 18.9%, other or unaffiliated 4.4% (2020 est.)<br>
-
-**Demographic profile**<br>
-<p>Guinea-Bissau’s young and growing population is sustained by high fertility; approximately 60% of the population is under the age of 25 as of 2020. Its large reproductive-age population and total fertility rate of more than 4 children per woman offsets the country’s high infant and maternal mortality rates. The latter is among the world’s highest because of the prevalence of early childbearing, a lack of birth spacing, the high percentage of births outside of health care facilities, and a shortage of medicines and supplies.</p> <p>Guinea-Bissau’s history of political instability, a civil war, and several coups (the latest in 2012) have resulted in a fragile state with a weak economy, high unemployment, rampant corruption, widespread poverty, and thriving drug and child trafficking. With the country lacking educational infrastructure, school funding and materials, and qualified teachers, and with the cultural emphasis placed on religious education, parents frequently send boys to study in residential Koranic schools (daaras) in Senegal and The Gambia. They often are extremely deprived and are forced into street begging or agricultural work by marabouts (Muslim religious teachers), who enrich themselves at the expense of the children. Boys who leave their marabouts often end up on the streets of Dakar or other large Senegalese towns and are vulnerable to even worse abuse.</p> <p>Some young men lacking in education and job prospects become involved in the flourishing international drug trade. Local drug use and associated violent crime are growing.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 42.3% (male 453,513/female 448,514)<br>
@@ -512,8 +509,8 @@ refined petroleum, iron bars, rice, plastics, flavored water (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$356.4 million (31 December 2017 est.)<br>
-$349.4 million (31 December 2016 est.)<br>
+$356.4 million (2017 est.)<br>
+$349.4 million (2016 est.)<br>
 
 **Debt - external**<br>
 $962.442 million (2023 est.)<br>

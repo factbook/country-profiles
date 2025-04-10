@@ -24,7 +24,7 @@ _land_: 102 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-about 0.6 times the size of Washington, DC<br>
+about 0.6 times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -72,10 +72,9 @@ the island is entirely volcanic in origin and composed of three major volcanic c
 ## People and Society
 
 **Population**<br>
-_total_: 5,468<br>
+_total_: 5,468 (2024 est.)<br>
 _male_: 2,728<br>
-_female_: 2,740 (2024 est.)<br>
-<strong>note:</strong> an estimated 8,000 refugees left the island following the resumption of volcanic activity in July 1995; some have returned<br>
+_female_: 2,740<br>
 
 **Nationality**<br>
 _noun_: Montserratian(s)<br>
@@ -211,7 +210,7 @@ _rate of urbanization_: 0.94% annual rate of change (2020-25 est.)<br>
 **Country name**<br>
 _conventional long form_: none<br>
 _conventional short form_: Montserrat<br>
-_etymology_: island named by explorer Christopher COLUMBUS in 1493 after the Benedictine abbey Santa Maria de Montserrat, near Barcelona, Spain<br>
+_etymology_: explorer Christopher COLUMBUS named the island in 1493 after the Benedictine abbey Santa Maria de Montserrat, near Barcelona, Spain<br>
 
 **Government type**<br>
 parliamentary democracy; self-governing overseas territory of the UK<br>
@@ -363,8 +362,8 @@ refined petroleum, electric generating sets, cars, stone processing machines, x-
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$47.58 million (31 December 2017 est.)<br>
-$51.47 million (31 December 2015 est.)<br>
+$47.58 million (2017 est.)<br>
+$51.47 million (2015 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>

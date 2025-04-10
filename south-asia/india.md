@@ -88,9 +88,9 @@ dominates South Asian subcontinent; near important Indian Ocean trade routes; Ka
 ## People and Society
 
 **Population**<br>
-_total_: 1,409,128,296<br>
+_total_: 1,409,128,296 (2024 est.)<br>
 _male_: 725,784,825<br>
-_female_: 683,343,471 (2024 est.)<br>
+_female_: 683,343,471<br>
 
 **Nationality**<br>
 _noun_: Indian(s)<br>
@@ -310,7 +310,7 @@ _conventional long form_: Republic of India<br>
 _conventional short form_: India<br>
 _local long form_: Republic of India (English)/ Bharatiya Ganarajya (Hindi)<br>
 _local short form_: India (English)/ Bharat (Hindi)<br>
-_etymology_: the English name derives from the Indus River; the Indian name "Bharat" may derive from the "Bharatas" tribe mentioned in the Vedas of the second millennium B.C.; the name is also associated with Emperor Bharata, the legendary conqueror of all of India<br>
+_etymology_: the English name derives from the Indus River; the Indian name, Bharat, may derive from the Bharatas tribe mentioned in the Sanskrit Vedas (Hindu religious texts); the name is also associated with Emperor Bharata, the legendary conqueror of India<br>
 
 **Government type**<br>
 federal parliamentary republic<br>

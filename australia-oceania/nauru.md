@@ -24,7 +24,7 @@ _land_: 21 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-about 0.1 times the size of Washington, DC<br>
+about 0.1 times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -73,9 +73,9 @@ Nauru is the third-smallest country in the world behind the Holy See (Vatican Ci
 ## People and Society
 
 **Population**<br>
-_total_: 9,892<br>
+_total_: 9,892 (2024 est.)<br>
 _male_: 4,856<br>
-_female_: 5,036 (2024 est.)<br>
+_female_: 5,036<br>
 
 **Nationality**<br>
 _noun_: Nauruan(s)<br>
@@ -249,7 +249,7 @@ _conventional short form_: Nauru<br>
 _local long form_: Republic of Nauru<br>
 _local short form_: Nauru<br>
 _former_: Pleasant Island<br>
-_etymology_: the island name may derive from the Nauruan word "anaoero" meaning "I go to the beach"<br>
+_etymology_: the island name may derive from the Nauruan word "anaoero" meaning "I go to the beach"; the former name, Pleasant Island, came from British navigator John Frean, who visited in 1798<br>
 
 **Government type**<br>
 parliamentary republic<br>

@@ -76,9 +76,9 @@ lies near vital North Atlantic sea lanes; only 35 km from France and linked by t
 ## People and Society
 
 **Population**<br>
-_total_: 68,459,055 United Kingdom<br>
+_total_: 68,459,055 (2024 est.) United Kingdom<br>
 _male_: 34,005,445<br>
-_female_: 34,453,610 (2024 est.)<br>
+_female_: 34,453,610<br>
 
 **Nationality**<br>
 _noun_: Briton(s), British (collective plural)<br>
@@ -355,7 +355,10 @@ _expected date of next election_: July 2029<br>
 **Legislative branch - upper chamber**<br>
 _chamber name_: House of Lords<br>
 _number of seats_: 800 (all appointed)<br>
-_percentage of women in chamber_: 30%<br>
+_scope of elections_: Full renewal<br>
+_most recent election date_: 4/13/2015 to 4/16/2015<br>
+_parties elected and seats per party_: National Congress Party (NCP) (323); Others (44); Democratic Unionist Party (25); Other (34)<br>
+_percentage of women in chamber_: 31%<br>
 <strong>note: </strong>the number of total seats in the House of Lords does not include ineligible members or members on leave of absence<br>
 
 **Judicial branch**<br>

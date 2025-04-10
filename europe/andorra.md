@@ -24,7 +24,7 @@ _land_: 468 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-2.5 times the size of Washington, DC<br>
+2.5 times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 118 km<br>
@@ -73,9 +73,9 @@ landlocked; straddles a number of important crossroads in the Pyrenees<br>
 ## People and Society
 
 **Population**<br>
-_total_: 85,370<br>
+_total_: 85,370 (2024 est.)<br>
 _male_: 43,652<br>
-_female_: 41,718 (2024 est.)<br>
+_female_: 41,718<br>
 
 **Nationality**<br>
 _noun_: Andorran(s)<br>

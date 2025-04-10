@@ -77,9 +77,9 @@ landlocked; highlands are main recharge area for Israel's coastal aquifers; ther
 ## People and Society
 
 **Population**<br>
-_total_: 3,243,369<br>
+_total_: 3,243,369 (2024 est.)<br>
 _male_: 1,648,450<br>
-_female_: 1,594,919 (2024 est.)<br>
+_female_: 1,594,919<br>
 <strong>note:</strong> approximately 468,300 Israeli settlers live in the West Bank (2022); approximately 236,600 Israeli settlers live in East Jerusalem (2021)<br>
 
 **Ethnic groups**<br>

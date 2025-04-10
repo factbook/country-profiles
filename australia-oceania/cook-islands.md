@@ -24,7 +24,7 @@ _land_: 236 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-1.3 times the size of Washington, DC<br>
+1.3 times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -73,9 +73,9 @@ the northern Cook Islands are seven low-lying, sparsely populated, coral atolls;
 ## People and Society
 
 **Population**<br>
-_total_: 7,761<br>
+_total_: 7,761 (2024 est.)<br>
 _male_: 3,980<br>
-_female_: 3,781 (2024 est.)<br>
+_female_: 3,781<br>
 
 **Nationality**<br>
 _noun_: Cook Islander(s)<br>
@@ -400,23 +400,23 @@ _Currency_: New Zealand dollars (NZD) per US dollar -<br>
 ## Energy
 
 **Electricity**<br>
-_installed generating capacity_: 17,000 kW (2022 est.)<br>
-_consumption_: 37.5 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 3.2 million kWh (2022 est.)<br>
+_installed generating capacity_: 17,000 kW (2023 est.)<br>
+_consumption_: 37.5 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 3.2 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 60.9% of total installed capacity (2022 est.)<br>
-_solar_: 39.1% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 60.9% of total installed capacity (2023 est.)<br>
+_solar_: 39.1% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_imports_: 1.3 metric tons (2022 est.)<br>
+_imports_: 1 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 600 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 700 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 87,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 87,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 103,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 103,000 metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

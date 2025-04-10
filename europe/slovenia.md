@@ -76,9 +76,9 @@ despite its small size, this eastern Alpine country controls some of Europe's ma
 ## People and Society
 
 **Population**<br>
-_total_: 2,097,893<br>
+_total_: 2,097,893 (2024 est.)<br>
 _male_: 1,051,044<br>
-_female_: 1,046,849 (2024 est.)<br>
+_female_: 1,046,849<br>
 
 **Nationality**<br>
 _noun_: Slovene(s)<br>

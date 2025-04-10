@@ -73,9 +73,9 @@ occupies an almost central position within Polynesia<br>
 ## People and Society
 
 **Population**<br>
-_total_: 208,853<br>
+_total_: 208,853 (2024 est.)<br>
 _male_: 105,920<br>
-_female_: 102,933 (2024 est.)<br>
+_female_: 102,933<br>
 
 **Nationality**<br>
 _noun_: Samoan(s)<br>
@@ -520,26 +520,26 @@ _electrification - urban areas_: 100%<br>
 _electrification - rural areas_: 97.9%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 53,000 kW (2022 est.)<br>
-_consumption_: 177.279 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 17.175 million kWh (2022 est.)<br>
+_installed generating capacity_: 54,000 kW (2023 est.)<br>
+_consumption_: 141.846 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 17.284 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 66.9% of total installed capacity (2022 est.)<br>
-_solar_: 12.3% of total installed capacity (2022 est.)<br>
-_wind_: 0.1% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 20.6% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 0.1% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 59.7% of total installed capacity (2023 est.)<br>
+_solar_: 15.1% of total installed capacity (2023 est.)<br>
+_wind_: 0.1% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 18.9% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 6.3% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 2,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 2,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 311,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 311,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 335,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 335,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 20.949 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 23.476 million Btu/person (2023 est.)<br>
 
 ## Communications
 

@@ -24,7 +24,7 @@ _land_: 455 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-2.5 times the size of Washington, DC<br>
+2.5 times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -74,9 +74,9 @@ the smallest African country in terms of both area and population; the constitut
 ## People and Society
 
 **Population**<br>
-_total_: 98,187<br>
+_total_: 98,187 (2024 est.)<br>
 _male_: 50,973<br>
-_female_: 47,214 (2024 est.)<br>
+_female_: 47,214<br>
 
 **Nationality**<br>
 _noun_: Seychellois (singular and plural)<br>
@@ -90,9 +90,6 @@ Seychellois Creole (official) 89.1%, English (official) 5.1%, French (official) 
 
 **Religions**<br>
 Roman Catholic 76.2%, Protestant 10.5% (Anglican 6.1%, Pentecostal Assembly 1.5%, Seventh Day Adventist 1.2%, other Protestant 1.7%), other Christian 2.4%, Hindu 2.4%, Muslim 1.6%, other non-Christian 1.1%, unspecified 4.8%, none 0.9% (2010 est.)<br>
-
-**Demographic profile**<br>
-<p>Seychelles has no indigenous population and was first permanently settled by a small group of French planters, African slaves, and South Indians in 1770. Seychelles’ modern population is composed of the descendants of French and later British settlers, Africans, and Indian, Chinese, and Middle Eastern traders and is concentrated on three of its 155 islands – the vast majority on Mahe and lesser numbers on Praslin and La Digue. Seychelles’ population grew rapidly during the second half of the 20th century, largely due to natural increase, but the pace has slowed because of fertility decline. The total fertility rate dropped sharply from 4.0 children per woman in 1980 to 1.9 in 2015, mainly as a result of a family planning program, free education and health care, and increased female labor force participation. Life expectancy has increased steadily, but women on average live 9 years longer than men, a difference that is higher than that typical of developed countries.</p><p>The combination of reduced fertility and increased longevity has resulted in an aging population, which will put pressure on the government’s provision of pensions and health care. Seychelles’ sustained investment in social welfare services, such as free primary health care and education up to the post-secondary level, have enabled the country to achieve a high human development index score – among the highest in Africa. Despite some of its health and education indicators being nearly on par with Western countries, Seychelles has a high level of income inequality.</p><p>An increasing number of migrant workers – mainly young men – have been coming to Seychelles in recent years to work in the construction and tourism industries. As of 2011, foreign workers made up nearly a quarter of the workforce. Indians are the largest non-Seychellois population – representing half of the country’s foreigners – followed by Malagasy.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 17.7% (male 8,912/female 8,439)<br>

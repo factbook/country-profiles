@@ -77,9 +77,9 @@ Azores and Madeira Islands occupy strategic locations along western sea approach
 ## People and Society
 
 **Population**<br>
-_total_: 10,207,177<br>
+_total_: 10,207,177 (2024 est.)<br>
 _male_: 4,835,763<br>
-_female_: 5,371,414 (2024 est.)<br>
+_female_: 5,371,414<br>
 
 **Nationality**<br>
 _noun_: Portuguese (singular and plural)<br>
@@ -343,7 +343,7 @@ _term in office_: 4 years<br>
 _most recent election date_: 3/10/2024<br>
 _parties elected and seats per party_: Socialist Party (PS) (78); Social Democratic Party (PPD/PSD) - Democratic and Social Centre - People's Party (CDS-PP) - People's Monarchist Party (PPM) (77); Chega (CH) (50); Other (25)<br>
 _percentage of women in chamber_: 34.8%<br>
-_expected date of next election_: September 2028<br>
+_expected date of next election_: May 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Supremo Tribunal de Justica (consists of 12 justices); Constitutional Court or Tribunal Constitucional (consists of 13 judges)<br>

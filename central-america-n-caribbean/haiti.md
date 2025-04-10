@@ -76,9 +76,9 @@ shares island of Hispaniola with Dominican Republic (western one-third is Haiti,
 ## People and Society
 
 **Population**<br>
-_total_: 11,753,943<br>
+_total_: 11,753,943 (2024 est.)<br>
 _male_: 5,792,443<br>
-_female_: 5,961,500 (2024 est.)<br>
+_female_: 5,961,500<br>
 
 **Nationality**<br>
 _noun_: Haitian(s)<br>
@@ -282,7 +282,7 @@ _conventional long form_: Republic of Haiti<br>
 _conventional short form_: Haiti<br>
 _local long form_: R&eacute;publique d'Ha&iuml;ti (French)/Repiblik d Ayiti (Haitian Creole)<br>
 _local short form_: Ha&iuml;ti (French)/ Ayiti (Haitian Creole)<br>
-_etymology_: the native Taino name means "Land of High Mountains" and was originally applied to the entire island of Hispaniola<br>
+_etymology_: derived from the Arawak name Ayti, meaning "Land of Mountains," that was originally applied to the entire island of Hispaniola<br>
 
 **Government type**<br>
 semi-presidential republic<br>

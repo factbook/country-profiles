@@ -80,9 +80,9 @@ strategic location along approaches to Strait of Gibraltar; Spain controls a num
 ## People and Society
 
 **Population**<br>
-_total_: 47,280,433<br>
+_total_: 47,280,433 (2024 est.)<br>
 _male_: 23,069,327<br>
-_female_: 24,211,106 (2024 est.)<br>
+_female_: 24,211,106<br>
 
 **Nationality**<br>
 _noun_: Spaniard(s)<br>

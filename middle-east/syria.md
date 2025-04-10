@@ -82,9 +82,9 @@ the capital of Damascus -- located at an oasis fed by the Barada River -- is tho
 ## People and Society
 
 **Population**<br>
-_total_: 23,865,423<br>
+_total_: 23,865,423 (2024 est.)<br>
 _male_: 11,981,578<br>
-_female_: 11,883,845 (2024 est.)<br>
+_female_: 11,883,845<br>
 
 **Nationality**<br>
 _noun_: Syrian(s)<br>
@@ -504,8 +504,8 @@ tobacco, plastics, wheat flours, plastic products, seed oils (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$407.3 million (31 December 2017 est.)<br>
-$504.6 million (31 December 2016 est.)<br>
+$407.3 million (2017 est.)<br>
+$504.6 million (2016 est.)<br>
 
 **Debt - external**<br>
 $4.578 billion (2023 est.)<br>
@@ -638,7 +638,7 @@ _key ports_: Al Ladhiqiyah, Baniyas, Tartus<br>
 ## Military and Security
 
 **Military and security forces**<br>
-as of early 2025, the interim authorities in Syria had established a ministry of defense and was seeking to unify the dozens of armed factions operating in Syria under a single, state-linked army and police force (2025)<br>
+as of early 2025, the interim government authorities in Syria had established a ministry of defense and were seeking to unify the dozens of armed factions operating in Syria under a single, state-linked army and police force (2025)<br>
 
 **Military expenditures**<br>
 6.5% of GDP (2019 est.)<br>

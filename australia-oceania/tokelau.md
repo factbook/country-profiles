@@ -24,7 +24,7 @@ _land_: 12 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-about 17 times the size of the National Mall in Washington, DC<br>
+about 17 times the size of the National Mall in Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -72,7 +72,9 @@ consists of three atolls (Atafu, Fakaofo, Nukunonu), each with a lagoon surround
 ## People and Society
 
 **Population**<br>
-_total_: 1,647 (2019 est.)<br>
+_total_: 2,453 (2024 est.)<br>
+_male_: 1,201<br>
+_female_: 1,252<br>
 
 **Nationality**<br>
 _noun_: Tokelauan(s)<br>

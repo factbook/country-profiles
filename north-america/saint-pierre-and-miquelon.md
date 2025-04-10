@@ -25,7 +25,7 @@ _water_: 0 sq km<br>
 <strong>note:</strong> includes eight small islands in the Saint Pierre and the Miquelon groups<br>
 
 **Area - comparative**<br>
-one and half times the size of Washington, DC<br>
+one and half times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -73,9 +73,9 @@ vegetation scanty; the islands are part of the northern Appalachians, along with
 ## People and Society
 
 **Population**<br>
-_total_: 5,132<br>
+_total_: 5,132 (2024 est.)<br>
 _male_: 2,476<br>
-_female_: 2,656 (2024 est.)<br>
+_female_: 2,656<br>
 
 **Nationality**<br>
 _noun_: Frenchman(men), Frenchwoman(women)<br>
@@ -348,19 +348,19 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity**<br>
-_installed generating capacity_: 26,000 kW (2022 est.)<br>
-_consumption_: 48.714 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 2 million kWh (2022 est.)<br>
+_installed generating capacity_: 26,000 kW (2023 est.)<br>
+_consumption_: 48.714 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 2 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 100% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 100% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 400 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 400 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 59,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 59,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 57,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 57,000 metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

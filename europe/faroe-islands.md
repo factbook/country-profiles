@@ -24,7 +24,7 @@ _land_: 1,393 sq km<br>
 _water_: 0 sq km (some lakes and streams)<br>
 
 **Area - comparative**<br>
-eight times the size of Washington, DC<br>
+eight times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -70,9 +70,9 @@ archipelago of 17 inhabited islands and one uninhabited island, and a few uninha
 ## People and Society
 
 **Population**<br>
-_total_: 52,933<br>
+_total_: 52,933 (2024 est.)<br>
 _male_: 27,400<br>
-_female_: 25,533 (2024 est.)<br>
+_female_: 25,533<br>
 
 **Nationality**<br>
 _noun_: Faroese (singular and plural)<br>

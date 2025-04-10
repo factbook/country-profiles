@@ -75,9 +75,9 @@ consists of 332 islands, approximately 110 of which are inhabited, and more than
 ## People and Society
 
 **Population**<br>
-_total_: 951,611<br>
+_total_: 951,611 (2024 est.)<br>
 _male_: 482,304<br>
-_female_: 469,307 (2024 est.)<br>
+_female_: 469,307<br>
 
 **Nationality**<br>
 _noun_: Fijian(s)<br>

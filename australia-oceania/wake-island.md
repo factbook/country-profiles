@@ -24,7 +24,7 @@ _land_: 6.5 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-about 11 times the size of the National Mall in Washington, DC<br>
+about 11 times the size of the National Mall in Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -110,11 +110,11 @@ the flag of the US is used<br>
 _electrification - total population_: 100% (2021)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 8,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 8,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 1.221 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 1.221 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 1.214 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.214 million metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

@@ -76,9 +76,9 @@ most of the country is composed of fertile low-lying plains with some hills in t
 ## People and Society
 
 **Population**<br>
-_total_: 1,801,246<br>
+_total_: 1,801,246 (2024 est.)<br>
 _male_: 836,982<br>
-_female_: 964,264 (2024 est.)<br>
+_female_: 964,264<br>
 
 **Nationality**<br>
 _noun_: Latvian(s)<br>
@@ -281,7 +281,7 @@ _conventional short form_: Latvia<br>
 _local long form_: Latvijas Republika<br>
 _local short form_: Latvija<br>
 _former_: Latvian Soviet Socialist Republic (while occupied by the USSR)<br>
-_etymology_: the name "Latvia" originates from the ancient Latgalians, one of four eastern Baltic tribes that formed the ethnic core of the Latvian people (ca. 8th-12th centuries A.D.)<br>
+_etymology_: the name originates from the Latgalians, one of four eastern Baltic tribes that formed the ethnic core of the Latvian people (ca. 8th-12th centuries A.D.)<br>
 
 **Government type**<br>
 parliamentary republic<br>

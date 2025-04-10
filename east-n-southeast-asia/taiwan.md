@@ -74,9 +74,9 @@ strategic location adjacent to both the Taiwan Strait and the Luzon Strait<br>
 ## People and Society
 
 **Population**<br>
-_total_: 23,595,274<br>
+_total_: 23,595,274 (2024 est.)<br>
 _male_: 11,606,491<br>
-_female_: 11,988,783 (2024 est.)<br>
+_female_: 11,988,783<br>
 
 **Nationality**<br>
 _noun_: Taiwan (singular and plural)<br>
@@ -434,8 +434,8 @@ integrated circuits, crude petroleum, machinery, natural gas, coal (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$456.7 billion (31 December 2017 est.)<br>
-$439 billion (31 December 2016 est.)<br>
+$456.7 billion (2017 est.)<br>
+$439 billion (2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: New Taiwan dollars (TWD) per US dollar -<br>

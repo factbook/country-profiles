@@ -58,9 +58,9 @@ flooding along coasts; avalanches in mountainous area; earthquakes in the south;
 ## People and Society
 
 **Population**<br>
-_total_: 451,815,312<br>
+_total_: 451,815,312 (2024 est.)<br>
 _male_: 220,631,332<br>
-_female_: 231,183,980 (2024 est.)<br>
+_female_: 231,183,980<br>
 
 **Languages**<br>
 Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovene, Spanish, Swedish<br>
@@ -398,7 +398,7 @@ cars, crude petroleum, natural gas, refined petroleum, vehicle parts/accessories
 <strong>note: </strong>top five import commodities based on value in dollars; includes both imports from external partners and internal trade among EU member states<br>
 
 **Reserves of foreign exchange and gold**<br>
-$740.9 billion (31 December 2014 est.)<br>
+$740.9 billion (2014 est.)<br>
 <strong>note:</strong> data are for the European Central Bank<br>
 
 **Exchange rates**<br>

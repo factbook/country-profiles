@@ -26,7 +26,7 @@ _water_: 0 sq km<br>
 <strong>note:</strong> includes Ashmore Reef (West, Middle, and East Islets) and Cartier Island<br>
 
 **Area - comparative**<br>
-about eight times the size of the National Mall in Washington, DC<br>
+about eight times the size of the National Mall in Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>

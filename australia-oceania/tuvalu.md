@@ -24,7 +24,7 @@ _land_: 26 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-0.1 times the size of Washington, DC<br>
+0.1 times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -74,9 +74,9 @@ one of the smallest and most remote countries on Earth; six of the nine coral at
 ## People and Society
 
 **Population**<br>
-_total_: 11,733<br>
+_total_: 11,733 (2024 est.)<br>
 _male_: 5,816<br>
-_female_: 5,917 (2024 est.)<br>
+_female_: 5,917<br>
 
 **Nationality**<br>
 _noun_: Tuvaluan(s)<br>

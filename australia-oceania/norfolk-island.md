@@ -24,7 +24,7 @@ _land_: 36 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-about 0.2 times the size of Washington, DC<br>
+about 0.2 times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -73,7 +73,7 @@ most of the 32 km coastline consists of almost inaccessible cliffs, but the land
 ## People and Society
 
 **Population**<br>
-_total_: 1,748 (2016 est.)<br>
+_total_: 2,188 (2021)<br>
 
 **Nationality**<br>
 _noun_: Norfolk Islander(s)<br>

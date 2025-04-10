@@ -25,7 +25,7 @@ _water_: 10 sq km<br>
 <strong>note:</strong> includes Agalega Islands, Cargados Carajos Shoals (Saint Brandon), and Rodrigues<br>
 
 **Area - comparative**<br>
-almost 11 times the size of Washington, DC<br>
+almost 11 times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -75,9 +75,9 @@ the main island, from which the country derives its name, is of volcanic origin 
 ## People and Society
 
 **Population**<br>
-_total_: 1,310,504<br>
+_total_: 1,310,504 (2024 est.)<br>
 _male_: 639,270<br>
-_female_: 671,234 (2024 est.)<br>
+_female_: 671,234<br>
 
 **Nationality**<br>
 _noun_: Mauritian(s)<br>
@@ -92,9 +92,6 @@ Creole 86.5%, Bhojpuri 5.3%, French 4.1%, two languages 1.4%, other 2.6% (includ
 
 **Religions**<br>
 Hindu 48.5%, Roman Catholic 26.3%, Muslim 17.3%, other Christian 6.4%, other 0.6%, none 0.7%, unspecified 0.1% (2011 est.)<br>
-
-**Demographic profile**<br>
-<p>Mauritius has transitioned from a country of high fertility and high mortality rates in the 1950s and mid-1960s to one with among the lowest population growth rates in the developing world today. After World War II, Mauritius’ population began to expand quickly due to increased fertility and a dramatic drop in mortality rates as a result of improved health care and the eradication of malaria. This period of heightened population growth – reaching about 3% a year – was followed by one of the world’s most rapid birth rate declines.</p> <p>The total fertility rate fell from 6.2 children per women in 1963 to 3.2 in 1972 – largely the result of improved educational attainment, especially among young women, accompanied by later marriage and the adoption of family planning methods. The family planning programs’ success was due to support from the government and eventually the traditionally pronatalist religious communities, which both recognized that controlling population growth was necessary because of Mauritius’ small size and limited resources. Mauritius’ fertility rate has consistently been below replacement level since the late 1990s, a rate that is substantially lower than nearby countries in southern Africa.</p> <p>With no indigenous population, Mauritius’ ethnic mix is a product of more than two centuries of European colonialism and continued international labor migration. Sugar production relied on slave labor mainly from Madagascar, Mozambique, and East Africa from the early 18th century until its abolition in 1835, when slaves were replaced with indentured Indians. Most of the influx of indentured labor – peaking between the late 1830s and early 1860s – settled permanently creating massive population growth of more than 7% a year and reshaping the island’s social and cultural composition. While Indians represented about 12% of Mauritius’ population in 1837, they and their descendants accounted for roughly two-thirds by the end of the 19th century. Most were Hindus, but the majority of the free Indian traders were Muslims.</p> <p>Mauritius again turned to overseas labor when its success in clothing and textile exports led to a labor shortage in the mid-1980s. Clothing manufacturers brought in contract workers (increasingly women) from China, India, and, to a lesser extent Bangladesh and Madagascar, who worked longer hours for lower wages under poor conditions and were viewed as more productive than locals. Downturns in the sugar and textile industries in the mid-2000s and a lack of highly qualified domestic workers for Mauritius’ growing services sector led to the emigration of low-skilled workers and a reliance on skilled foreign labor. Since 2007, Mauritius has pursued a circular migration program to enable citizens to acquire new skills and savings abroad and then return home to start businesses and to invest in the country’s development.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 15.1% (male 100,973/female 96,711)<br>
@@ -276,7 +273,7 @@ _conventional long form_: Republic of Mauritius<br>
 _conventional short form_: Mauritius<br>
 _local long form_: Republic of Mauritius<br>
 _local short form_: Mauritius<br>
-_etymology_: island named after Prince Maurice VAN NASSAU, stadtholder of the Dutch Republic, in 1598<br>
+_etymology_: named after Prince Maurice VAN NASSAU, stadtholder (governor) of the Dutch Republic, in 1598<br>
 <strong>note:</strong> pronounced mah-rish-us<br>
 
 **Government type**<br>

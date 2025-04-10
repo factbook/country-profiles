@@ -85,9 +85,9 @@ Kilimanjaro is the highest point in Africa and one of only three mountain ranges
 ## People and Society
 
 **Population**<br>
-_total_: 67,462,121<br>
+_total_: 67,462,121 (2024 est.)<br>
 _male_: 33,691,904<br>
-_female_: 33,770,217 (2024 est.)<br>
+_female_: 33,770,217<br>
 
 **Nationality**<br>
 _noun_: Tanzanian(s)<br>
@@ -103,9 +103,6 @@ _major-language sample(s)_: <br>The World Factbook, Chanzo cha Lazima Kuhusu Hab
 **Religions**<br>
 Christian 63.1%, Muslim 34.1%, folk religion 1.1%, Buddhist &lt;1%, Hindu &lt;1%, Jewish &lt;1%, other &lt;1%, unspecified 1.6% (2020 est.)<br>
 <strong>note:</strong> Zanzibar is almost entirely Muslim<br>
-
-**Demographic profile**<br>
-<p>Tanzania has the largest population in East Africa and the lowest population density; more than a third of the population is urban. Tanzania’s youthful population – over 60% of the population is under 25 as of 2020 – is growing rapidly because of the high total fertility rate of 4.4 children per woman, as of 2022. Progress in reducing the birth rate has stalled, sustaining the country’s nearly 3% annual growth rate. The maternal mortality rate has improved since 2000, yet it remains very high because of early and frequent pregnancies, inadequate maternal health services, and a lack of skilled birth attendants – problems that are worse among poor and rural women. Tanzania has made strides in reducing under-5 and infant mortality rates, but a recent drop in immunization threatens to undermine gains in child health. Malaria is a leading killer of children under 5, while HIV is the main source of adult mortality.</p> <p>For Tanzania, most migration is internal, rural to urban movement, while some temporary labor migration from towns to plantations takes place seasonally for harvests. Tanzania was Africa’s largest refugee-hosting country for decades, hosting hundreds of thousands of refugees from the Great Lakes region, primarily Burundi, over the last fifty years. However, the assisted repatriation and naturalization of tens of thousands of Burundian refugees between 2002 and 2014 dramatically reduced the refugee population. Tanzania is increasingly a transit country for illegal migrants from the Horn of Africa and the Great Lakes region who are heading to southern Africa for security reasons and/or economic opportunities. Some of these migrants choose to settle in Tanzania.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 41.2% (male 14,039,292/female 13,740,439)<br>

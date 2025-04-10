@@ -94,9 +94,9 @@ large urban clusters are spread throughout the eastern half of the US (particula
 ## People and Society
 
 **Population**<br>
-_total_: 341,963,408<br>
+_total_: 341,963,408 (2024 est.)<br>
 _male_: 168,598,780<br>
-_female_: 173,364,628 (2024 est.)<br>
+_female_: 173,364,628<br>
 
 **Nationality**<br>
 _noun_: American(s)<br>
@@ -376,7 +376,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 2 years<br>
 _most recent election date_: 11/5/2024<br>
 _parties elected and seats per party_: Republican Party (220); Democratic Party (215)<br>
-_percentage of women in chamber_: 28.6%<br>
+_percentage of women in chamber_: 28.9%<br>
 _expected date of next election_: November 2026<br>
 
 **Legislative branch - upper chamber**<br>

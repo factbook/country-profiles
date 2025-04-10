@@ -25,7 +25,7 @@ _water_: 0 sq km<br>
 <strong>note:</strong> includes Redonda, 1.6 sq km<br>
 
 **Area - comparative**<br>
-2.5 times the size of Washington, DC<br>
+2.5 times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -75,9 +75,9 @@ Antigua has a deeply indented shoreline with many natural harbors and beaches; B
 ## People and Society
 
 **Population**<br>
-_total_: 102,634<br>
+_total_: 102,634 (2024 est.)<br>
 _male_: 48,311<br>
-_female_: 54,323 (2024 est.)<br>
+_female_: 54,323<br>
 
 **Nationality**<br>
 _noun_: Antiguan(s), Barbudan(s)<br>

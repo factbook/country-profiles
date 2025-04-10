@@ -76,9 +76,9 @@ facing the Atlantic Ocean, the coastline is characterized by lagoons, mangrove s
 ## People and Society
 
 **Population**<br>
-_total_: 5,437,249<br>
+_total_: 5,437,249 (2024 est.)<br>
 _male_: 2,711,324<br>
-_female_: 2,725,925 (2024 est.)<br>
+_female_: 2,725,925<br>
 
 **Nationality**<br>
 _noun_: Liberian(s)<br>
@@ -92,9 +92,6 @@ English 20% (official) and 27 indigenous languages, including Liberian English v
 
 **Religions**<br>
 Christian 84.9%, Muslim 12%, Traditional 0.5%, other 0.1%, none 2.6% (2022 est.)<br>
-
-**Demographic profile**<br>
-<p>Liberia’s high fertility rate of nearly 5 children per woman and large youth cohort – more than 60% of the population is under the age of 25 as of 2020 – will sustain a high dependency ratio for many years to come. Significant progress has been made in preventing child deaths, despite a lack of health care workers and infrastructure. Infant and child mortality have dropped nearly 70% since 1990; the annual reduction rate of about 5.4% is the highest in Africa.</p> <p>Nevertheless, Liberia’s high maternal mortality rate remains among the world’s worst; it reflects a high unmet need for family planning services, frequency of early childbearing, lack of quality obstetric care, high adolescent fertility, and a low proportion of births attended by a medical professional. Female mortality is also increased by the prevalence of female genital cutting (FGC), which is practiced by 10 of Liberia’s 16 tribes and affects more than two-thirds of women and girls. FGC is an initiation ritual performed in rural bush schools, which teach traditional beliefs on marriage and motherhood and are an obstacle to formal classroom education for Liberian girls.</p> <p>Liberia has been both a source and a destination for refugees. During Liberia’s 14-year civil war (1989-2003), more than 250,000 people became refugees and another half million were internally displaced. Between 2004 and the cessation of refugee status for Liberians in June 2012, the UNHCR helped more than 155,000 Liberians to voluntarily repatriate, while others returned home on their own. Some Liberian refugees spent more than two decades living in other West African countries. Between 2011 and 2022, more than 300,000 Ivoirian refugees in Liberia have been repatriated; as of year-end 2022, less than 2,300 Ivoirian refugees were still living in Liberia.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 38.9% (male 1,064,100/female 1,052,556)<br>
@@ -278,7 +275,7 @@ _agricultural_: 10 million cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Liberia<br>
 _conventional short form_: Liberia<br>
-_etymology_: name derives from the Latin word "liber" meaning "free"; so named because the nation was created as a homeland for liberated African-American slaves<br>
+_etymology_: name derives from the Latin word <em>liber, </em>meaning "free;" so named because the nation was created as a homeland for liberated African-American slaves<br>
 
 **Government type**<br>
 presidential republic<br>

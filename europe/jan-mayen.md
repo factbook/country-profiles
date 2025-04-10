@@ -24,7 +24,7 @@ _land_: 377 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-slightly more than twice the size of Washington, DC<br>
+slightly more than twice the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -46,7 +46,7 @@ volcanic island, partly covered by glaciers<br>
 
 **Elevation**<br>
 _highest point_: Haakon VII Toppen on Beerenberg 2,277<br>
-_lowest point_: Norwegian Sea 0 m<br>
+_lowest point_: Norwegian/Greenland Seas 0 m<br>
 <strong>note:</strong> Beerenberg volcano has numerous peaks; the highest point on the volcano rim is named Haakon VII Toppen, after Norway's first king following the reestablishment of Norwegian independence in 1905<br>
 
 **Natural resources**<br>

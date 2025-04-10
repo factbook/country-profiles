@@ -79,9 +79,9 @@ landlocked; most of the country is mountainous and thickly forested; the Mekong 
 ## People and Society
 
 **Population**<br>
-_total_: 7,953,556<br>
+_total_: 7,953,556 (2024 est.)<br>
 _male_: 3,966,320<br>
-_female_: 3,987,236 (2024 est.)<br>
+_female_: 3,987,236<br>
 
 **Nationality**<br>
 _noun_: Lao(s) or Laotian(s)<br>
@@ -97,9 +97,6 @@ _major-language sample(s)_: <br>ແຫລ່ງທີ່ຂາດບໍ່ໄດ
 
 **Religions**<br>
 Buddhist 64.7%, Christian 1.7%, none 31.4%, other/not stated 2.1% (2015 est.)<br>
-
-**Demographic profile**<br>
-<p>Laos is a predominantly rural country with a youthful population – almost 55% of the population is under the age of 25.  Its progress on health and development issues has been uneven geographically, among ethnic groups, and socioeconomically.  Laos has made headway in poverty reduction, with the poverty rate almost halving from 46% in 1992/93 to 22% in 2012/13.  Nevertheless, pronounced rural-urban disparities persist, and income inequality is rising.  Poverty most affects populations in rural and highland areas, particularly ethnic minority groups. </p> <p>The total fertility rate (TFR) has decreased markedly from around 6 births per woman on average in 1990 to approximately 2.8 in 2016, but it is still one of the highest in Southeast Asia.  TFR is higher in rural and remote areas, among ethnic minority groups, the less-educated, and the poor; it is lower in urban areas and among the more educated and those with higher incomes.  Although Laos’ mortality rates have improved substantially over the last few decades, the maternal mortality rate and childhood malnutrition remain at high levels.  As fertility and mortality rates continue to decline, the proportion of Laos’ working-age population will increase, and its share of dependents will shrink.  The age structure shift will provide Laos with the potential to realize a demographic dividend during the next few decades, if it can improve educational access and quality and gainfully employ its growing working-age population in productive sectors.  Currently, Laos primary school enrollment is nearly universal, but the drop-out rate remains problematic.  Secondary school enrollment has also increased but remains low, especially for girls. </p> <p>Laos has historically been a country of emigration and internal displacement due to conflict and a weak economy. The Laos civil war (1953 – 1975) mainly caused internal displacement (numbering in the hundreds of thousands).  Following the end of the Vietnam War in 1975, indigenous people in remote, war-struck areas were resettled and more than 300,000 people fled to Thailand to escape the communist regime that took power.  The majority of those who sought refuge in Thailand ultimately were resettled in the US (mainly Hmong who fought with US forces), and lesser numbers went to France, Canada, and Australia. </p> <p>The Laos Government carried out resettlement programs between the mid-1980s and mid-1990s to relocate ethnic minority groups from the rural northern highlands to development areas in the lowlands ostensibly to alleviate poverty, make basic services more accessible, eliminate slash-and-burn agriculture and opium production, integrate ethnic minorities, and control rebel groups (including Hmong insurgents).  For many, however, resettlement has exacerbated poverty, led to the loss of livelihoods, and increased food insecurity and mortality rates.  As the resettlement programs started to wane in the second half of the 1990s, migration from the northern highlands to urban centers – chiefly the capital Vientiane – to pursue better jobs in the growing manufacturing and service sectors became the main type of relocation.  Migration of villagers from the south seeking work in neighboring Thailand also increased.  Thailand is the main international migration destination for Laotians because of the greater availability of jobs and higher pay than at home; nearly a million Laotian migrants were estimated to live in Thailand as of 2015.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 30.1% (male 1,214,429/female 1,181,845)<br>
@@ -288,11 +285,11 @@ _agricultural_: 7.05 billion cubic meters (2020 est.)<br>
 
 **Country name**<br>
 _conventional long form_: Lao People's Democratic Republic<br>
-_conventional short form_: Laos&nbsp;<br>
+_conventional short form_: Laos<br>
 _local long form_: Sathalanalat Paxathipatai Paxaxon Lao<br>
 _local short form_: Mueang Lao (unofficial)<br>
 _abbreviation_: Lao PDR<br>
-_etymology_: name means "Land of the Lao [people]"<br>
+_etymology_: name means "Land of the Lao [people];" it derives from the name of the country's founder, Lao<br>
 
 **Government type**<br>
 communist party-led state<br>

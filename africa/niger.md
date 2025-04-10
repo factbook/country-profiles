@@ -85,9 +85,9 @@ landlocked; one of the hottest countries in the world; northern four-fifths is d
 ## People and Society
 
 **Population**<br>
-_total_: 26,342,784<br>
+_total_: 26,342,784 (2024 est.)<br>
 _male_: 13,056,203<br>
-_female_: 13,286,581 (2024 est.)<br>
+_female_: 13,286,581<br>
 
 **Nationality**<br>
 _noun_: Nigerien(s)<br>
@@ -102,9 +102,6 @@ Hausa, Zarma, French (official), Fufulde, Tamashek, Kanuri, Gurmancema, Tagdal<b
 
 **Religions**<br>
 Muslim 95.5%, ethnic religionist 4.1%, Christian 0.3%, agnostics and other 0.1% (2020 est.)<br>
-
-**Demographic profile**<br>
-<p>Niger has the highest total fertility rate (TFR) of any country in the world, averaging close to 7 children per woman in 2022. A slight decline in fertility over the last few decades has stalled. This leveling off of the high fertility rate is in large part a product of the continued desire for large families. In Niger, the TFR is lower than the desired fertility rate, which makes it unlikely that contraceptive use will increase. The high TFR sustains rapid population growth and a large youth population – almost 70% of the populace is under the age of 25, as of 2020. Gender inequality, including a lack of educational opportunities for women and early marriage and childbirth, also contributes to high population growth.</p> <p>Because of large family sizes, children are inheriting smaller and smaller parcels of land. The dependence of most Nigeriens on subsistence farming on increasingly small landholdings, coupled with declining rainfall and the resultant shrinkage of arable land, are all preventing food production from keeping up with population growth.</p> <p>For more than half a century, Niger's lack of economic development has led to steady net outmigration. In the 1960s, Nigeriens mainly migrated to coastal West African countries to work on a seasonal basis. Some headed to Libya and Algeria in the 1970s to work in the booming oil industry until its decline in the 1980s. Since the 1990s, the principal destinations for Nigerien labor migrants have been West African countries, especially Burkina Faso and Cote d’Ivoire, while emigration to Europe and North America has remained modest. During the same period, Niger’s desert trade route town Agadez became a hub for West African and other Sub-Saharan migrants crossing the Sahara to North Africa and sometimes onward to Europe.</p> <p>More than 60,000 Malian refugees have fled to Niger since violence between Malian government troops and armed rebels began in early 2012. Ongoing attacks by the Boko Haram Islamist insurgency, dating to 2013 in northern Nigeria and February 2015 in southeastern Niger, pushed tens of thousands of Nigerian refugees and Nigerien returnees across the border to Niger and displaced thousands of locals in Niger’s already impoverished Diffa region.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 49.5% (male 6,567,460/female 6,463,877)<br>
@@ -358,16 +355,6 @@ _election results_: <em><br>2020/2021</em>: Mohamed BAZOUM elected president in 
 <strong>note:</strong> deposed president BAZOUM has been under house arrest since a military coup on 26 July 2023<br>
 
 **Legislative branch**<br>
-_legislature name_: National Assembly (Assembl&eacute;e nationale)<br>
-_legislative structure_: unicameral<br>
-_number of seats_: 171 (all directly elected)<br>
-_electoral system_: mixed system<br>
-_scope of elections_: full renewal<br>
-_term in office_: 5 years<br>
-_most recent election date_: 12/27/2020<br>
-_parties elected and seats per party_: Niger Party for Democracy and Socialism (PNDS Tarayya) (80); Nigerien Democratic Movement for an African Federation (Moden Fa . Lumana Africa ) (19); Patriotic Movement for the Republic (MPR-JAMHURIYA) (13); National Movement for the Development of Society (MNSD) - Nassara (13); Other (41)<br>
-_percentage of women in chamber_: 30.7%<br>
-_expected date of next election_: December 2025<br>
 <strong>Note:</strong> on 26 July 2023, the National Council for the Safeguard of the Homeland, a military junta which took control of Niger's government, dissolved the National Assembly; a commission recommended to the junta in February 2025 a minimum of a five-year transition to democratic rule<br>
 
 **Judicial branch**<br>
@@ -556,8 +543,8 @@ rice, aircraft parts, iron structures, refined petroleum, centrifuges (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.314 billion (31 December 2017 est.)<br>
-$1.186 billion (31 December 2016 est.)<br>
+$1.314 billion (2017 est.)<br>
+$1.186 billion (2016 est.)<br>
 
 **Debt - external**<br>
 $4.198 billion (2023 est.)<br>

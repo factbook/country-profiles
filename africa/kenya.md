@@ -85,9 +85,9 @@ the Kenyan Highlands comprise one of the most successful agricultural production
 ## People and Society
 
 **Population**<br>
-_total_: 58,246,378<br>
+_total_: 58,246,378 (2024 est.)<br>
 _male_: 29,091,800<br>
-_female_: 29,154,578 (2024 est.)<br>
+_female_: 29,154,578<br>
 
 **Nationality**<br>
 _noun_: Kenyan(s)<br>
@@ -102,9 +102,6 @@ _major-language sample(s)_: <br>The World Factbook, the indispensable source for
 
 **Religions**<br>
 Christian 85.5% (Protestant 33.4%, Catholic 20.6%, Evangelical 20.4%, African Instituted Churches 7%, other Christian 4.1%), Muslim 10.9%, other 1.8%, none 1.6%,&nbsp;don't&nbsp;know/no answer&nbsp;0.2% (2019 est.)<br>
-
-**Demographic profile**<br>
-<p>Kenya has experienced dramatic population growth since the mid-20th century as a result of its high birth rate and its declining mortality rate. Almost 40% of Kenyans are under the age of 15 as of 2020 because of sustained high fertility, early marriage and childbearing, and an unmet need for family planning. Kenya’s persistent rapid population growth strains the labor market, social services, arable land, and natural resources. Although Kenya in 1967 was the first Sub-Saharan country to launch a nationwide family planning program, progress in reducing the birth rate has largely stalled since the late 1990s, when the government decreased its support for family planning to focus on the HIV epidemic. Government commitment and international technical support spurred Kenyan contraceptive use, decreasing the fertility rate (children per woman) from about 8 in the late 1970s to less than 5 children twenty years later, but it has plateaued at about 3 children as of 2022.</p> <p>Kenya is a source of emigrants and a host country for refugees. In the 1960s and 1970s, Kenyans pursued higher education in the UK because of colonial ties, but as British immigration rules tightened, the US, the then Soviet Union, and Canada became attractive study destinations. Kenya’s stagnant economy and political problems during the 1980s and 1990s led to an outpouring of Kenyan students and professionals seeking permanent opportunities in the West and southern Africa. Nevertheless, Kenya’s relative stability since its independence in 1963 has attracted hundreds of thousands of refugees escaping violent conflicts in neighboring countries; Kenya was sheltering nearly 280,000 Somali refugees as of 2022.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 35.8% (male 10,464,384/female 10,366,997)<br>
@@ -298,7 +295,7 @@ _conventional short form_: Kenya<br>
 _local long form_: Republic of Kenya (English)/ Jamhuri ya Kenya (Swahili)<br>
 _local short form_: Kenya<br>
 _former_: British East Africa<br>
-_etymology_: named for Mount Kenya; the meaning of the name is unclear but may derive from the Kikuyu, Embu, and Kamba words "kirinyaga," "kirenyaa," and "kiinyaa" - all of which mean "God's resting place"<br>
+_etymology_: named for Mount Kenya; the mountain's name may derive from the Kikuyu word <em>kere nyaga</em>, or "white mountain"<br>
 
 **Government type**<br>
 presidential republic<br>

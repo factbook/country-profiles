@@ -79,9 +79,9 @@ landlocked; straddles crest of the Nile-Congo watershed; the Kagera, which drain
 ## People and Society
 
 **Population**<br>
-_total_: 13,590,102<br>
+_total_: 13,590,102 (2024 est.)<br>
 _male_: 6,755,456<br>
-_female_: 6,834,646 (2024 est.)<br>
+_female_: 6,834,646<br>
 
 **Nationality**<br>
 _noun_: Burundian(s)<br>
@@ -97,9 +97,6 @@ _major-language sample(s)_: <br>Igitabo Mpuzamakungu c'ibimenyetso bifatika, iso
 
 **Religions**<br>
 Christian 93.9% (Roman Catholic 58.6%, Protestant 35.3% [includes Adventist 2.7% and other Protestant religions 32.6%]), Muslim 3.4%, other 1.3%, none 1.3% (2016-17 est.)<br>
-
-**Demographic profile**<br>
-<p>Burundi is a densely populated country with a high population growth rate, factors that combined with land scarcity and poverty place a large share of its population at risk of food insecurity. About 90% of the population relies on subsistence agriculture. Subdivision of land to sons, and redistribution to returning refugees, results in smaller, overworked, and less-productive plots. Food shortages, poverty, and a lack of clean water contribute to a 60% chronic malnutrition rate among children. A lack of reproductive health services has prevented a significant reduction in Burundi’s maternal mortality and fertility rates, which are both among the world’s highest. With almost two-thirds of its population under the age of 25 and a birth rate of about 5 children per woman as of 2022, Burundi’s population will continue to expand rapidly for decades to come, putting additional strain on a poor country.</p> <p>Historically, migration flows into and out of Burundi have consisted overwhelmingly of refugees from violent conflicts. In the last decade, more than a half million Burundian refugees returned home from neighboring countries, mainly Tanzania. Reintegrating the returnees has been problematic due to their prolonged time in exile, land scarcity, poor infrastructure, poverty, and unemployment. Repatriates and existing residents (including internally displaced persons) compete for limited land and other resources. To further complicate matters, international aid organizations reduced their assistance because they no longer classified Burundi as a post-conflict country. Conditions deteriorated when renewed violence erupted in April 2015, causing another outpouring of refugees. In addition to refugee out-migration, Burundi has hosted thousands of refugees from neighboring countries, mostly from the Democratic Republic of the Congo and lesser numbers from Rwanda.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 42.3% (male 2,895,275/female 2,848,286)<br>
@@ -645,7 +642,7 @@ _paved_: 1,500 km (2020)<br>
 
 **Military and security forces**<br>
 Burundi National Defense Force (BNDF; Force de Defense Nationale du Burundi or FDNB) : Land Force (la Force Terrestre), the Navy Force (la Force de la Marine), the Air Force (la Force Aérienne) and Specialized Units (des Unités Spécialisées)<br><br>Ministry of Interior, Community Development, and Public Security: Burundi National Police (Police Nationale du Burundi) (2024)<br>
-<strong>note 1:</strong> the Naval Force is responsible for monitoring Burundi’s 175-km shoreline on Lake Tanganyika; the Specialized Units include a special security brigade for the protection of institutions (aka BSPI), commandos, special forces, and military police<br><br><strong>note 2:</strong> in 2022, Burundi created a new reserve force (Force de réserve et d’appui au développement, FRAD); the FRAD's duties include organizing paramilitary trainings, supporting other components in protecting the integrity of the national territory, conceiving and implementing development projects, and operationalizing national and international partnerships<br>
+<strong>note:</strong> the Naval Force is responsible for monitoring Burundi’s 175-km shoreline on Lake Tanganyika; the Specialized Units include a special security brigade for the protection of institutions (aka BSPI), commandos, special forces, and military police<br>
 
 **Military expenditures**<br>
 3.7% of GDP (2023 est.)<br>

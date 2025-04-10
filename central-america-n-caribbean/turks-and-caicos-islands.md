@@ -24,7 +24,7 @@ _land_: 948 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-2.5 times the size of Washington, DC<br>
+2.5 times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -72,9 +72,9 @@ include eight large islands and numerous smaller cays, islets, and reefs; only t
 ## People and Society
 
 **Population**<br>
-_total_: 60,439<br>
+_total_: 60,439 (2024 est.)<br>
 _male_: 30,389<br>
-_female_: 30,050 (2024 est.)<br>
+_female_: 30,050<br>
 
 **Nationality**<br>
 _noun_: none<br>

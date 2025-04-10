@@ -24,7 +24,7 @@ _land_: 180 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-slightly larger than Washington, DC<br>
+slightly larger than Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -72,9 +72,9 @@ a flat, riverless island renowned for its white sand beaches; its tropical clima
 ## People and Society
 
 **Population**<br>
-_total_: 125,063<br>
+_total_: 125,063 (2024 est.)<br>
 _male_: 59,101<br>
-_female_: 65,962 (2024 est.)<br>
+_female_: 65,962<br>
 
 **Nationality**<br>
 _noun_: Aruban(s)<br>

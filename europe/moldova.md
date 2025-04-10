@@ -79,9 +79,9 @@ landlocked; well-endowed with various sedimentary rocks and minerals including s
 ## People and Society
 
 **Population**<br>
-_total_: 3,599,528<br>
+_total_: 3,599,528 (2024 est.)<br>
 _male_: 1,698,249<br>
-_female_: 1,901,279 (2024 est.)<br>
+_female_: 1,901,279<br>
 
 **Nationality**<br>
 _noun_: Moldovan(s)<br>
@@ -287,7 +287,7 @@ _conventional short form_: Moldova<br>
 _local long form_: Republica Moldova<br>
 _local short form_: Moldova<br>
 _former_: Moldavian Soviet Socialist Republic, Moldovan Soviet Socialist Republic<br>
-_etymology_: named for the Moldova River in neighboring eastern Romania<br>
+_etymology_: named for the Moldova River in neighboring eastern Romania; the river's name probably comes from the Indoeuropean root word <em>mel</em>, meaning "dark" or "black"<br>
 
 **Government type**<br>
 parliamentary republic<br>

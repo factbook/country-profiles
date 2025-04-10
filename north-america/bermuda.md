@@ -24,7 +24,7 @@ _land_: 54 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-about one-third the size of Washington, DC<br>
+about one-third the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -73,9 +73,9 @@ consists of about 138 coral islands and islets with ample rainfall, but no river
 ## People and Society
 
 **Population**<br>
-_total_: 72,800<br>
+_total_: 72,800 (2024 est.)<br>
 _male_: 35,401<br>
-_female_: 37,399 (2024 est.)<br>
+_female_: 37,399<br>
 
 **Nationality**<br>
 _noun_: Bermudian(s)<br>
@@ -556,7 +556,7 @@ _key ports_: Freeport, Hamilton, Ireland Island, St. George<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Bermuda Regiment; Bermuda Police Service (2024)<br>
+Royal Bermuda Regiment; Bermuda Police Service (2025)<br>
 <strong>note:</strong> the Royal Bermuda Regiment (aka "The Regiment") includes the Royal Bermuda Regiment Coast Guard<br>
 
 **Military and security service personnel strengths**<br>
@@ -566,7 +566,7 @@ the Royal Bermuda Regiment has about 350 troops (2024)<br>
 the Regiment is equipped with small arms (2024)<br>
 
 **Military service age and obligation**<br>
-men and women who are Commonwealth citizens and 18-45 years of age can volunteer for the Bermuda Regiment; service is for a minimum period of three years and two months from the date of enlistment; service can be extended only by volunteering or an executive order from the Governor; annual training commitment is about 30 days a year, which includes a two-week camp, weekends, and drill nights (2024)<br>
+men and women who are Commonwealth citizens and 18-45 years of age can volunteer for the Bermuda Regiment; service is for a minimum period of three years and two months from the date of enlistment; service can be extended only by volunteering or an executive order from the Governor; annual training commitment is about 30 days a year, which includes a two-week camp, weekends, and drill nights (2025)<br>
 
 **Military - note**<br>
 defense is the responsibility of the UK; the Royal Bermuda Regiment&rsquo;s responsibilities include maritime security of Bermuda&rsquo;s inshore waters, search and rescue, ceremonial duties, humanitarian/disaster assistance, security of key installations, and assisting the Bermuda Police with maintaining public order; it includes explosive ordnance disposal, diver, maritime, security police, and support units (2024)<br>

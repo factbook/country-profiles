@@ -24,7 +24,7 @@ _land_: 444 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-<p>more than twice the size of Washington, DC</p><br>
+<p>more than twice the size of Washington, D.C.</p><br>
 
 **Land boundaries**<br>
 0<br>
@@ -70,9 +70,9 @@ largest concentration on the island is Willemstad; smaller settlements near the 
 ## People and Society
 
 **Population**<br>
-_total_: 153,289<br>
+_total_: 153,289 (2024 est.)<br>
 _male_: 73,755<br>
-_female_: 79,534 (2024 est.)<br>
+_female_: 79,534<br>
 
 **Nationality**<br>
 _noun_: Curacaoan<br>
@@ -486,10 +486,10 @@ _key ports_: Bullenbaai, Caracasbaai, Sint Michelsbaai, Willemstad<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Curacao Militia (CURMIL); Police Department for local law enforcement, supported by the Royal Netherlands Marechaussee (Gendarmerie), the Dutch Caribbean Police Force (Korps Politie Caribisch Nederland, KPCN), and the Dutch Caribbean Coast Guard (DCCG or Kustwacht Caribisch Gebied (KWCARIB))  (2024)<br>
+no regular military forces; Curaçao Militia (CURMIL); Curaçao Volunteer Corps; Curacao Police Force (Korps Politie Curacao) (2025)<br>
 
 **Military - note**<br>
-defense is the responsibility of the Kingdom of the Netherlands; the Dutch Government controls foreign and defense policy; the Dutch Caribbean Coast Guard (DCCG) provides maritime security (2024)<br>
+defense is the responsibility of the Kingdom of the Netherlands; the Dutch Government controls foreign and defense policy; local security forces are supported by the Royal Netherlands Marechaussee (Gendarmerie), the Dutch Caribbean Police Force (Korps Politie Caribisch Nederland, KPCN), and the Dutch Caribbean Coast Guard (DCCG or Kustwacht Caribisch Gebied (KWCARIB)); there are two Dutch naval bases on Cura&ccedil;ao, and the Dutch Army maintains a small unit on a rotational basis (2025)<br>
 
 ## Transnational Issues
 

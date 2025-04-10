@@ -24,7 +24,7 @@ _land_: 160 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-about 0.9 times the size of Washington, DC<br>
+about 0.9 times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 75 km<br>
@@ -75,9 +75,9 @@ along with Uzbekistan, one of only two doubly landlocked countries in the world;
 ## People and Society
 
 **Population**<br>
-_total_: 40,272<br>
+_total_: 40,272 (2024 est.)<br>
 _male_: 20,072<br>
-_female_: 20,200 (2024 est.)<br>
+_female_: 20,200<br>
 
 **Nationality**<br>
 _noun_: Liechtensteiner(s)<br>
@@ -251,7 +251,7 @@ _conventional long form_: Principality of Liechtenstein<br>
 _conventional short form_: Liechtenstein<br>
 _local long form_: Fuerstentum Liechtenstein<br>
 _local short form_: Liechtenstein<br>
-_etymology_: named after the Liechtenstein dynasty that purchased and united the counties of Schellenburg and Vaduz and that was allowed by the Holy Roman Emperor in 1719 to rename the new property after their family; the name in German means "light (bright) stone"<br>
+_etymology_: named after the Liechtenstein family that purchased and united the counties of Schellenburg and Vaduz in 1719; the family name was taken from its Austrian castle of the same name, which in German means "light stone"<br>
 
 **Government type**<br>
 constitutional monarchy<br>
@@ -305,10 +305,10 @@ _number of seats_: 25 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 9 February 2025<br>
+_most recent election date_: 2/9/2025<br>
 _parties elected and seats per party_: Patriotic Union (VU) (10); Progressive Citizens' Party (FBP) (10); Free List (FL) (3); Democrats for Liechtenstein (DpL) (2)<br>
-_percentage of women in chamber_: 28%<br>
-_expected date of next election_: 28 February 2029<br>
+_percentage of women in chamber_: 32%<br>
+_expected date of next election_: February 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Supreme Court or F&uuml;rstlicher Oberster Gerichtshof (consists of 5 judges and 5 substitutes); Constitutional Court or Staatsgerichtshof (consists of 5 judges, and 5 alternates)<br>
@@ -341,6 +341,9 @@ princely hat (crown); national colors: blue, red<br>
 _name_: "Oben am jungen Rhein" (High Above the Young Rhine)<br>
 _lyrics/music_: Jakob Joseph JAUCH/Josef FROMMELT<br>
 <strong>note:</strong> adopted 1850, revised 1963; uses the tune of "God Save the King"<br>
+
+**National coat of arms**<br>
+<p>The six motifs on Liechtenstein‘s coat of arms provide a history of the royal House of Liechtenstein since 1719, when the country was founded. The small shield at the center is the royal family’s gold-and-red coat of arms, the gold-crowned eagle signifies the Silesia family, the diamond wreath represents the Kuenringer family, the red-and-silver shield is the Duchy of Troppau, the black eagle comes from the coat of arms of a family that married into the royal line, and the golden hunting horn represents the Duchy of Jägerndorf.</p> <p> </p><br>
 
 ## Economy
 

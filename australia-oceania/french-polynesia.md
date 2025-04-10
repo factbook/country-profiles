@@ -72,9 +72,9 @@ includes five archipelagoes: four volcanic (Iles Gambier, Iles Marquises, Iles T
 ## People and Society
 
 **Population**<br>
-_total_: 303,540<br>
+_total_: 303,540 (2024 est.)<br>
 _male_: 155,138<br>
-_female_: 148,402 (2024 est.)<br>
+_female_: 148,402<br>
 
 **Nationality**<br>
 _noun_: French Polynesian(s)<br>

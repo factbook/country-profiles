@@ -24,7 +24,7 @@ _land_: 316 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-slightly less than twice the size of Washington, DC<br>
+slightly less than twice the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -74,9 +74,9 @@ the country is an archipelago, with only the three largest islands (Malta, Ghawd
 ## People and Society
 
 **Population**<br>
-_total_: 469,730<br>
+_total_: 469,730 (2024 est.)<br>
 _male_: 237,023<br>
-_female_: 232,707 (2024 est.)<br>
+_female_: 232,707<br>
 
 **Nationality**<br>
 _noun_: Maltese (singular and plural)<br>
@@ -277,7 +277,7 @@ _conventional long form_: Republic of Malta<br>
 _conventional short form_: Malta<br>
 _local long form_: Repubblika ta' Malta<br>
 _local short form_: Malta<br>
-_etymology_: the ancient Greeks called the island "Melite" meaning "honey-sweet" from the Greek word "meli" meaning "honey" and referring to the island's honey production<br>
+_etymology_: the origin is unclear; the name may come from the ancient term <em>mel</em>, meaning "high" and probably referring to the island's rocks; the ancient Greeks called the island "Melite," possibly from the Greek word <em>meli,</em> meaning "honey" and referring to the island's honey production<br>
 
 **Government type**<br>
 parliamentary republic<br>

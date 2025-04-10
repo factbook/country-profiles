@@ -82,9 +82,9 @@ hot, dry, dusty harmattan winds occur in north; periodic droughts; locust plague
 ## People and Society
 
 **Population**<br>
-_total_: 19,093,595<br>
+_total_: 19,093,595 (2024 est.)<br>
 _male_: 9,464,699<br>
-_female_: 9,628,896 (2024 est.)<br>
+_female_: 9,628,896<br>
 
 **Nationality**<br>
 _noun_: Chadian(s)<br>
@@ -99,9 +99,6 @@ _major-language sample(s)_: <br>The World Factbook, une source indispensable d'i
 
 **Religions**<br>
 Muslim 52.1%, Protestant 23.9%, Roman Catholic 20%, animist 0.3%, other Christian 0.2%, none 2.8%, unspecified 0.7% (2014-15 est.)<br>
-
-**Demographic profile**<br>
-<p>Despite the start of oil production in 2003, around 40% of Chad’s population lived below the poverty line as of 2018. The population will continue to grow rapidly because of the country’s very high fertility rate and large youth cohort – more than 65% of the populace is under the age of 25 as of 2022 – although the mortality rate is high and life expectancy is low. Chad has the world’s second highest maternal mortality rate as of 2017. Among the primary risk factors are poverty, anemia, rural habitation, high fertility, poor education, and a lack of access to family planning and obstetric care. Impoverished, uneducated adolescents living in rural areas are most affected. To improve women’s reproductive health and reduce fertility, Chad will need to increase women’s educational attainment, job participation, and knowledge of and access to family planning. Less than a quarter of women are literate, less than 10% use contraceptives, and more than 40% undergo genital cutting.</p> <p>As of December 2022, more than 403,000 refugees from Sudan and more than 120,000 from the Central African Republic strain Chad’s limited resources and create tensions in host communities. Thousands of new refugees fled to Chad in 2013 to escape worsening violence in the Darfur region of Sudan. The large refugee populations are hesitant to return to their home countries because of continued instability. Chad was relatively stable in 2012 in comparison to other states in the region, but past fighting between government forces and opposition groups and inter-communal violence have left more than 380,000 of its citizens displaced in the eastern part of the country as of 2022.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 45.8% (male 4,428,132/female 4,323,398)<br>
@@ -370,6 +367,7 @@ _number of seats_: 69 (46 indirectly elected; 23 appointed)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 6 years<br>
 _most recent election date_: 2/25/2025<br>
+_percentage of women in chamber_: 37.7%<br>
 _expected date of next election_: February 2031<br>
 
 **Judicial branch**<br>
@@ -655,8 +653,8 @@ _total_: 40,000 km (2018)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Chadian National Army (Armee Nationale du Tchad, ANT): Land Forces (l'Armee de Terre, AdT), Chadian Air Force (l'Armee de l'Air Tchadienne, AAT), General Direction of the Security Services of State Institutions (Direction Generale des Services de Securite des Institutions de l'Etat, GDSSIE); National Gendarmerie; Ministry of Public Security and Immigration: National Nomadic Guard of Chad (GNNT) (2023)<br>
-<strong>note 1:</strong> the GDSSIE, formerly known as the Republican Guard, is the presidential guard force and is considered to be Chad's elite military unit; it is reportedly a division-sized force with infantry, armor, and special forces/anti-terrorism regiments (known as the Special Anti-Terrorist Group or SATG, aka Division of Special Anti-Terrorist Groups or DGSAT)<br><br><strong>note 2:</strong> the Chadian National Police are under the Ministry of Public Security and Immigration; border security duties are shared by the Army, Customs (Ministry of Public Security and Immigration), the Gendarmerie, and the GNNT<br>
+Chadian National Army (Armee Nationale du Tchad, ANT): Ground Forces (l'Armee de Terre, AdT), Chadian Air Force (l'Armee de l'Air Tchadienne, AAT), Chadian National Gendarmerie; General Direction of the Security Services of State Institutions (Direction Generale des Services de Securite des Institutions de l'Etat, GDSSIE)<br><br>Ministry of Public Security and Immigration: National Nomadic Guard of Chad (GNNT) (2023)<br>
+<strong>note 1:</strong> the GDSSIE is the presidential guard force and is considered to be Chad's elite military unit; it is reportedly a division-sized force with infantry, armor, and special forces/anti-terrorism regiments (known as the Special Anti-Terrorist Group or SATG, aka Division of Special Anti-Terrorist Groups or DGSAT); it reports directly to the president<br><br><strong>note 2:</strong> the Chadian National Police are under the Ministry of Public Security and Immigration; border security duties are shared by the ANT, Customs (Ministry of Public Security and Immigration), the National Gendarmerie, and the GNNT<br>
 
 **Military expenditures**<br>
 2.9% of GDP (2023 est.)<br>

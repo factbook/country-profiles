@@ -72,9 +72,9 @@ consists of the main island of New Caledonia (one of the largest in the Pacific 
 ## People and Society
 
 **Population**<br>
-_total_: 304,167<br>
+_total_: 304,167 (2024 est.)<br>
 _male_: 151,389<br>
-_female_: 152,778 (2024 est.)<br>
+_female_: 152,778<br>
 
 **Nationality**<br>
 _noun_: New Caledonian(s)<br>
@@ -221,7 +221,7 @@ _conventional long form_: Territory of New Caledonia and Dependencies<br>
 _conventional short form_: New Caledonia<br>
 _local long form_: Territoire des Nouvelle-Cal&eacute;donie et d&eacute;pendances<br>
 _local short form_: Nouvelle-Cal&eacute;donie<br>
-_etymology_: British explorer Captain James COOK discovered and named New Caledonia in 1774; he used the appellation because the northeast of the island reminded him of Scotland (Caledonia is the Latin designation for Scotland)<br>
+_etymology_: the name came from British explorer Captain James COOK in 1774 and uses the Latin name for Scotland, Caledonia<br>
 
 **Government type**<br>
 parliamentary democracy (Territorial Congress); an overseas collectivity of France<br>

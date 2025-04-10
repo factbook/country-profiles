@@ -25,7 +25,7 @@ _water_: 0 sq km<br>
 <strong>note:</strong> includes numerous small islands and reefs scattered over a sea area of about 780,000 sq km (300,000 sq mi) with the Willis Islets the most important<br>
 
 **Area - comparative**<br>
-about four times the size of the National Mall in Washington, DC<br>
+about four times the size of the National Mall in Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -63,7 +63,7 @@ important nesting area for birds and turtles<br>
 ## People and Society
 
 **Population**<br>
-_total_: no indigenous inhabitants (2021)<br>
+_total_: (2021) no indigenous inhabitants<br>
 <strong>note:</strong> a staff of four operates the meteorological station on Willis Island<br>
 
 ## Environment
@@ -104,8 +104,6 @@ _embassy_: none (territory of Australia)<br>
 the flag of Australia is used<br>
 
 ## Economy
-
-## Energy
 
 ## Communications
 

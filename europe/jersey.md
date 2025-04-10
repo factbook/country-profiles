@@ -24,7 +24,7 @@ _land_: 116 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-about two-thirds the size of Washington, DC<br>
+about two-thirds the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -72,9 +72,9 @@ largest and southernmost of Channel Islands; about 30% of population concentrate
 ## People and Society
 
 **Population**<br>
-_total_: 103,387<br>
+_total_: 103,387 (2024 est.)<br>
 _male_: 51,028<br>
-_female_: 52,359 (2024 est.)<br>
+_female_: 52,359<br>
 
 **Nationality**<br>
 _noun_: Channel Islander(s)<br>
@@ -213,7 +213,7 @@ _percent of municipal solid waste recycled_: 28.4% (2016 est.)<br>
 _conventional long form_: Bailiwick of Jersey<br>
 _conventional short form_: Jersey<br>
 _former_: Norman Isles<br>
-_etymology_: the name is of Old Norse origin, but the meaning of the root "Jer(s)" is uncertain; the "-ey" ending means "island"<br>
+_etymology_: the name is of Old Norse origin, with -<em>ey</em> meaning "island;" "Jer(s)" may derive from a person with the Scandinavian name Geirr, meaning "spear"<br>
 
 **Government type**<br>
 parliamentary democracy (Assembly of the States of Jersey)<br>

@@ -82,9 +82,9 @@ located at mouths of three major European rivers (Rhine (Rijn), Meuse (Maas), an
 ## People and Society
 
 **Population**<br>
-_total_: 17,772,378<br>
+_total_: 17,772,378 (2024 est.)<br>
 _male_: 8,844,100<br>
-_female_: 8,928,278 (2024 est.)<br>
+_female_: 8,928,278<br>
 
 **Nationality**<br>
 _noun_: Dutchman(men), Dutchwoman(women)<br>
@@ -297,7 +297,7 @@ _conventional short form_: Netherlands<br>
 _local long form_: Koninkrijk der Nederlanden<br>
 _local short form_: Nederland<br>
 _abbreviation_: NL<br>
-_etymology_: the country name literally means "the lowlands" and refers to the geographic features of the land being both flat and down river from higher areas (i.e., at the estuaries of the Scheldt, Meuse, and Rhine Rivers; only about half of the Netherlands is more than 1 meter above sea level)<br>
+_etymology_: the English name is derived from the country's Dutch name, which means "the lowlands" and describes the geographic area; only about half the Netherlands is more than 1 meter (3.3 ft) above sea level<br>
 
 **Government type**<br>
 parliamentary constitutional monarchy; part of the Kingdom of the Netherlands<br>
@@ -727,8 +727,8 @@ the military's inventory consists of a mix of domestically produced and modern E
 <strong>note: </strong>in 2023, women made up about 14% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-350 Lithuania (NATO); 200 Romania (NATO) (2024)<br>
-<strong>note:</strong> as of 2024, the Dutch military had close to 1,000 total military personnel deployed abroad<br>
+350 Lithuania (NATO); 150 Romania (NATO); approximately 800 deployed to Dutch territories in the Caribbean (2025)<br>
+<strong>note: </strong> the Netherlands contributes naval assets to support freedom of the sea missions in such places as the Red Sea and the Strait of Hormuz; it also assists with monitoring the airspace of the eastern flank of NATO territory by means of fighter aircraft and provides some ground personnel to a variety of other NATO, UN, and EU security missions<br>
 
 **Military - note**<br>
 the Dutch military is charged with the three core tasks of defending the country’s national territory and that of its allies, enforcing the national and international rule of law, and providing assistance during disasters and other crises; it also has some domestic security duties, including in the Dutch Caribbean territories; the military operates globally but rarely carries out military operations independently and focuses on cooperating with the armed forces of other countries, particularly with Belgium, Denmark, Germany, and the UK <br><br>the Netherlands has been a member of NATO since its founding in 1949, and the Dutch military is heavily involved in NATO missions and operations with air, ground, and naval forces, including air policing missions over the Benelux countries and Eastern Europe, NATO’s Enhanced Forward Presence initiative in the Baltic States and Eastern Europe, and several NATO naval flotillas, as well as standby units for NATO’s rapid response force; the military has previously deployed forces to NATO-led operations in Afghanistan, Iraq, and Kosovo and also regularly contributes to EU- and UN-led missions; Royal Netherlands Marechaussee detachments have been included in international police units deployed by NATO<br><br>the Dutch Army has especially close ties with the German Army, including having its air mobile and mechanized brigades assigned to German divisional headquarters; in addition, the Army shares with the Germans command of a NATO high-readiness corps-level headquarters, which can be ready for deployment inside or outside NATO territory within 20 days; in 2020, Belgium, Denmark, and the Netherlands formed a joint composite special operations component command<br><br>founded in the late 1400s, the Royal Netherlands Navy is one of the oldest naval forces in the World and conducts a variety of missions worldwide; in addition to its close ties with NATO, the Navy cooperates closely with the Belgian Navy, including a joint staff known as the Admiralty Benelux; it has a command responsible for the activities of Dutch naval units in the Caribbean, which includes combating drug trafficking, environmental crime, and illegal fishing, as well as providing search and rescue and disaster relief capabilities; the Netherlands has naval bases on Curaçao and Aruba; since 1973, the Dutch Marine Corps has worked closely with the British Royal Marines, including jointly in the UK-Netherlands amphibious landing force<br><br>the Dutch military is also part of the UK-led Joint Expeditionary Force, a defense framework of 10 Northern European nations designed to provide security to the High North, North Atlantic, and the Baltic Sea Region in response to a crisis (2024)<br>

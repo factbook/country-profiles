@@ -83,9 +83,9 @@ historically, an area of conflict because of flat terrain and the lack of natura
 ## People and Society
 
 **Population**<br>
-_total_: 38,746,310<br>
+_total_: 38,746,310 (2024 est.)<br>
 _male_: 18,441,415<br>
-_female_: 20,304,895 (2024 est.)<br>
+_female_: 20,304,895<br>
 
 **Nationality**<br>
 _noun_: Pole(s)<br>
@@ -587,46 +587,46 @@ _Currency_: zlotych (PLN) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 58.719 million kW (2022 est.)<br>
-_consumption_: 156.869 billion kWh (2022 est.)<br>
-_exports_: 16.915 billion kWh (2022 est.)<br>
-_imports_: 15.238 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 8.659 billion kWh (2022 est.)<br>
+_installed generating capacity_: 64.806 million kW (2023 est.)<br>
+_consumption_: 159.639 billion kWh (2023 est.)<br>
+_exports_: 11.403 billion kWh (2023 est.)<br>
+_imports_: 15.14 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 8.549 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 78.4% of total installed capacity (2022 est.)<br>
-_solar_: 4.9% of total installed capacity (2022 est.)<br>
-_wind_: 11% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 0.8% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 4.9% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 72.7% of total installed capacity (2023 est.)<br>
+_solar_: 6.9% of total installed capacity (2023 est.)<br>
+_wind_: 14.4% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 1.1% of total installed capacity (2023 est.)<br>
+_biomass and waste_: 4.9% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_production_: 116.682 million metric tons (2022 est.)<br>
-_consumption_: 123.782 million metric tons (2022 est.)<br>
-_exports_: 12.047 million metric tons (2022 est.)<br>
-_imports_: 13.347 million metric tons (2022 est.)<br>
-_proven reserves_: 28.531 billion metric tons (2022 est.)<br>
+_production_: 96.72 million metric tons (2023 est.)<br>
+_consumption_: 99.932 million metric tons (2023 est.)<br>
+_exports_: 10.805 million metric tons (2023 est.)<br>
+_imports_: 10.041 million metric tons (2023 est.)<br>
+_proven reserves_: 27.758 billion metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _total petroleum production_: 24,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 722,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 743,000 bbl/day (2024 est.)<br>
 _crude oil estimated reserves_: 113 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 5.551 billion cubic meters (2022 est.)<br>
-_consumption_: 20.056 billion cubic meters (2022 est.)<br>
-_exports_: 587.771 million cubic meters (2022 est.)<br>
-_imports_: 14.42 billion cubic meters (2022 est.)<br>
+_production_: 5.345 billion cubic meters (2023 est.)<br>
+_consumption_: 20.602 billion cubic meters (2023 est.)<br>
+_exports_: 747.124 million cubic meters (2023 est.)<br>
+_imports_: 15.111 billion cubic meters (2023 est.)<br>
 _proven reserves_: 91.492 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 293.356 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 163.359 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 94.138 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 35.86 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 264.031 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 132.101 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 95.095 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 36.835 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 106.196 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 103.651 million Btu/person (2023 est.)<br>
 
 ## Communications
 

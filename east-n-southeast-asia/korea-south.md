@@ -76,9 +76,9 @@ strategic location on Korea Strait; about 3,000 mostly small and uninhabited isl
 ## People and Society
 
 **Population**<br>
-_total_: 52,081,799<br>
+_total_: 52,081,799 (2024 est.)<br>
 _male_: 26,119,111<br>
-_female_: 25,962,688 (2024 est.)<br>
+_female_: 25,962,688<br>
 
 **Nationality**<br>
 _noun_: Korean(s)<br>
@@ -285,7 +285,7 @@ _conventional short form_: South Korea<br>
 _local long form_: Taehan-min'guk<br>
 _local short form_: Han'guk<br>
 _abbreviation_: ROK<br>
-_etymology_: derived from the Chinese name for Goryeo, which was the Korean dynasty that united the peninsula in the 10th century A.D.; the South Korean name "Han'guk" derives from the long form, "Taehan-min'guk," which is itself a derivation from "Daehan-je'guk," which means "the Great Empire of the Han"; "Han" refers to the "Sam'han" or the "Three Han Kingdoms" (Goguryeo, Baekje, and Silla from the Three Kingdoms Era, 1st-7th centuries A.D.)<br>
+_etymology_: derived from the Chinese name for Goryeo, which was the Korean dynasty that united the peninsula in the 10th century A.D.; the South Korean name "Han'guk" derives from the long form, "Taehan-min'guk," which is itself a derivation from "Daehan-je'guk," which means "the Great Han Empire"<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -325,10 +325,10 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal; note - the voting age was lowered from 19 to 18 beginning with the 2020 national election<br>
 
 **Executive branch**<br>
-_chief of state_: President YOON Suk Yeol (since 10 May 2022); note - Prime Minister HAN Duck-soo became Acting President on 14 December 2024 after the National Assembly impeached and suspended YOON from office (South Korea's Constitutional Court has 180 days to rule on YOON's removal); Deputy Prime Minister CHOI Sang-mok became Acting President on 27 December 2024 after the National Assembly impeached and suspended HAN from office; on 24 March 2025, the Constitutional Court dismissed the 27 December impeachment of HAN Duck-soo, reinstating him as prime minister and acting president<br>
-_head of government_: President YOON Suk Yeol (since 10 May 2022); note - Prime Minister HAN Duck-soo became Acting President on 14 December 2024 after the National Assembly impeached and suspended YOON from office (South Korea's Constitutional Court has 180 days to rule on YOON's removal); Deputy Prime Minister CHOI Sang-mok became Acting President on 27 December 2024 after the National Assembly impeached and suspended HAN from office; on 24 March 2025, the Constitutional Court dismissed the 27 December impeachment of HAN Duck-soo, reinstating him as prime minister and acting president<br>
+_chief of state_: Prime Minister HAN Duck-soo became Acting President on 14 December 2024 after the National Assembly impeached and suspended President YOON Suk Yeol (inaugurated 10 May 2022) from office; on 4 April 2025, the Constitutional Court confirmed YOON's impeachment and removal from office; under Article 68 of the Constitution, a new presidential election must be held within 60 days of the court's ruling<br>
+_head of government_: Prime Minister HAN Duck-soo became Acting President on 14 December 2024 after the National Assembly impeached and suspended President YOON Suk Yeol (inaugurated 10 May 2022) from office; on 4 April 2025, the Constitutional Court confirmed YOON's impeachment and removal from office<br>
 _cabinet_: State Council appointed by the president on the prime minister's recommendation<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a single 5-year term; election last held on 9 March 2022 (next to be held in March 2027); prime minister appointed by president with consent of the National Assembly<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a single 5-year term; election last held on 9 March 2022 (next to be held by 3 June 2025); prime minister appointed by president with consent of the National Assembly<br>
 _election results_: <em>2022</em>: YOON Suk-yeol elected president; YOON Suk-yeol (PPP) 48.6%, LEE Jae-myung (DP) 47.8%; other 3.6%<br><br><em>2017</em>: MOON Jae-in elected president; MOON Jae-in (DP) 41.1%, HONG Joon-pyo (Liberty Korea Party) 24%, AHN Cheol-soo (PP) 21.4%, YOO Seung-min (Bareun Party) 6.8%, SIM Sang-jung (Justice Party) 6.2%<br>
 <strong>note: </strong>the president is both chief of state and head of government; the prime minister serves as the principal executive assistant to the president, similar to the role of a vice president<br>
 

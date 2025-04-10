@@ -83,9 +83,9 @@ the Zambezi River flows through the north-central and most fertile part of the c
 ## People and Society
 
 **Population**<br>
-_total_: 33,350,954<br>
+_total_: 33,350,954 (2024 est.)<br>
 _male_: 16,449,734<br>
-_female_: 16,901,220 (2024 est.)<br>
+_female_: 16,901,220<br>
 
 **Nationality**<br>
 _noun_: Mozambican(s)<br>
@@ -99,9 +99,6 @@ Makhuwa 26.1%, Portuguese (official) 16.6%, Tsonga 8.6%, Nyanja 8.1, Sena 7.1%, 
 
 **Religions**<br>
 Roman Catholic 27.2%, Muslim 18.9%, Zionist Christian 15.6%, Evangelical/Pentecostal 15.3%, Anglican 1.7%, other 4.8%, none 13.9%, unspecified 2.5% (2017 est.)<br>
-
-**Demographic profile**<br>
-<p>Mozambique is a poor, sparsely populated country with high fertility and mortality rates and a rapidly growing youthful population – 45% of the population is younger than 15, as of 2020. Mozambique’s high poverty rate is sustained by natural disasters, disease, high population growth, low agricultural productivity, and the unequal distribution of wealth. The country’s birth rate is among the world’s highest, averaging around  5 children per woman (and higher in rural areas) for at least the last three decades. The sustained high level of fertility reflects gender inequality, low contraceptive use, early marriages and childbearing, and a lack of education, particularly among women. The high population growth rate is somewhat restrained by the country’s high HIV/AIDS and overall mortality rates. Mozambique ranks among the worst in the world for HIV/AIDS prevalence, HIV/AIDS deaths, and life expectancy at birth, as of 2022.</p> <p>Mozambique is predominantly a country of emigration, but internal, rural-urban migration has begun to grow. Mozambicans, primarily from the country’s southern region, have been migrating to South Africa for work for more than a century. Additionally, approximately 1.7 million Mozambicans fled to Malawi, South Africa, and other neighboring countries between 1979 and 1992 to escape from civil war. Labor migrants have usually been men from rural areas whose crops have failed or who are unemployed and have headed to South Africa to work as miners; multiple generations of the same family often become miners. Since the abolition of apartheid in South Africa in 1991, other job opportunities have opened to Mozambicans, including in the informal and manufacturing sectors, but mining remains their main source of employment.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 44.7% (male 7,548,247/female 7,350,012)<br>
@@ -302,7 +299,7 @@ _conventional short form_: Mozambique<br>
 _local long form_: Republica de Mocambique<br>
 _local short form_: Mocambique<br>
 _former_: Portuguese East Africa, People's Republic of Mozambique<br>
-_etymology_: named for the offshore island of Mozambique; the island was apparently named after Mussa al-BIK, an influential Arab slave trader who set himself up as sultan on the island in the 15th century<br>
+_etymology_: named for an offshore island; the island was named after Mussa bin BIQUE (or Mussa Ibn MALIK), an influential Arab slave trader who set himself up as sultan on the island in the 15th century<br>
 
 **Government type**<br>
 presidential republic<br>

@@ -24,7 +24,7 @@ _land_: 344 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-twice the size of Washington, DC<br>
+twice the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -72,9 +72,9 @@ the administration of the islands of the Grenadines group is divided between Sai
 ## People and Society
 
 **Population**<br>
-_total_: 114,621<br>
+_total_: 114,621 (2024 est.)<br>
 _male_: 58,168<br>
-_female_: 56,453 (2024 est.)<br>
+_female_: 56,453<br>
 
 **Nationality**<br>
 _noun_: Grenadian(s)<br>

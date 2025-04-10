@@ -85,9 +85,9 @@ westernmost country on the African continent; The Gambia is almost an enclave wi
 ## People and Society
 
 **Population**<br>
-_total_: 18,847,519<br>
+_total_: 18,847,519 (2024 est.)<br>
 _male_: 9,283,314<br>
-_female_: 9,564,205 (2024 est.)<br>
+_female_: 9,564,205<br>
 
 **Nationality**<br>
 _noun_: Senegalese (singular and plural)<br>
@@ -101,9 +101,6 @@ French (official), Wolof, Pulaar, Jola, Mandinka, Serer, Soninke<br>
 
 **Religions**<br>
 Muslim 97.2% (most adhere to one of the four main Sufi brotherhoods), Christian 2.7% (mostly Roman Catholic) (2019 est.)<br>
-
-**Demographic profile**<br>
-<p>Senegal has a large and growing youth population but has not been successful in developing its potential human capital. Senegal’s high total fertility rate of almost 4.5 children per woman continues to bolster the country’s large youth cohort – more than 60% of the population is under the age of 25. Fertility remains high because of the continued desire for large families, the low use of family planning, and early childbearing. Because of the country’s high illiteracy rate (more than 40%), high unemployment (even among university graduates), and widespread poverty, Senegalese youths face dim prospects; women are especially disadvantaged.</p> <p>Senegal historically was a destination country for economic migrants, but in recent years West African migrants more often use Senegal as a transit point to North Africa – and sometimes illegally onward to Europe. The country also has been host to several thousand black Mauritanian refugees since they were expelled from their homeland during its 1989 border conflict with Senegal. The country’s economic crisis in the 1970s stimulated emigration; departures accelerated in the 1990s. Destinations shifted from neighboring countries, which were experiencing economic decline, civil wars, and increasing xenophobia, to Libya and Mauritania because of their booming oil industries and to developed countries (most notably former colonial ruler France, as well as Italy and Spain). The latter became attractive in the 1990s because of job opportunities and their periodic regularization programs (legalizing the status of illegal migrants).</p> <p> </p><br>
 
 **Age structure**<br>
 _0-14 years_: 40.7% (male 3,907,986/female 3,760,594)<br>
@@ -546,8 +543,8 @@ refined petroleum, crude petroleum, rice, garments, wheat (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.827 billion (31 December 2017 est.)<br>
-$116.9 million (31 December 2016 est.)<br>
+$1.827 billion (2017 est.)<br>
+$116.9 million (2016 est.)<br>
 
 **Debt - external**<br>
 $16.004 billion (2023 est.)<br>

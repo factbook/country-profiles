@@ -75,9 +75,9 @@ world's fourth-largest island; strategic location along Mozambique Channel; desp
 ## People and Society
 
 **Population**<br>
-_total_: 29,452,714<br>
+_total_: 29,452,714 (2024 est.)<br>
 _male_: 14,760,501<br>
-_female_: 14,692,213 (2024 est.)<br>
+_female_: 14,692,213<br>
 
 **Nationality**<br>
 _noun_: Malagasy (singular and plural)<br>
@@ -92,9 +92,6 @@ Malagasy (official) 99.9%, French (official) 23.6%, English 8.2%, other 0.6% (20
 
 **Religions**<br>
 Church of Jesus Christ in Madagascar/Malagasy Lutheran Church/Anglican Church 34%, Roman Catholic 32.3%, other Christian 8.1%, traditional/Animist 1.7%, Muslim 1.4%, other 0.6%, none 21.9% (2021 est.)<br>
-
-**Demographic profile**<br>
-<p>Madagascar’s youthful population – nearly 60% are under the age of 25 as of 2020 – and moderately high total fertility rate of more than 3.6 children per woman ensures that the Malagasy population will continue its rapid growth trajectory for the foreseeable future. The population is predominantly rural and poor; chronic malnutrition is prevalent, and large families are the norm. Many young Malagasy girls are withdrawn from school, marry early (often pressured to do so by their parents), and soon begin having children. Early childbearing, coupled with Madagascar’s widespread poverty and lack of access to skilled health care providers during delivery, increases the risk of death and serious health problems for young mothers and their babies.</p> <p>Child marriage perpetuates gender inequality and is prevalent among the poor, the uneducated, and rural households – as of 2018, 40% of Malagasy women aged 20 to 24 were married. Although the legal age for marriage is 18, parental consent is often given for earlier marriages or the law is flouted, especially in rural areas that make up approximately 60% of the country. Forms of arranged marriage whereby young girls are married to older men in exchange for oxen or money are traditional. If a union does not work out, a girl can be placed in another marriage, but the dowry paid to her family diminishes with each unsuccessful marriage.</p> <p>Madagascar’s population consists of 18 main ethnic groups, all of whom speak the same Malagasy language. Most Malagasy are multi-ethnic, however, reflecting the island’s diversity of settlers and historical contacts (see Background). Madagascar’s legacy of hierarchical societies practicing domestic slavery (most notably the Merina Kingdom of the 16th to the 19th century) is evident today in persistent class tension, with some ethnic groups maintaining a caste system. Slave descendants are vulnerable to unequal access to education and jobs, despite Madagascar’s constitutional guarantee of free compulsory primary education and its being party to several international conventions on human rights. Historical distinctions also remain between central highlanders and coastal people.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 37% (male 5,507,847/female 5,400,551)<br>
@@ -289,7 +286,7 @@ _conventional short form_: Madagascar<br>
 _local long form_: R&eacute;publique de Madagascar/Repoblikan'i Madagasikara<br>
 _local short form_: Madagascar/Madagasikara<br>
 _former_: Malagasy Republic<br>
-_etymology_: the name "Madageiscar" was first used by the 13th-century Venetian explorer Marco POLO, as a corrupted transliteration of Mogadishu, the Somali port with which POLO confused the island<br>
+_etymology_: a variant of the name was first used by 13th-century Venetian explorer Marco POLO when he confused the island with the Somali port of Mogadishu; the transliteration was later adopted as the official name<br>
 
 **Government type**<br>
 semi-presidential republic<br>

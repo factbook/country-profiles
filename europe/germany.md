@@ -85,9 +85,9 @@ strategic location on North European Plain and along the entrance to the Baltic 
 ## People and Society
 
 **Population**<br>
-_total_: 84,119,100<br>
+_total_: 84,119,100 (2024 est.)<br>
 _male_: 41,572,702<br>
-_female_: 42,546,398 (2024 est.)<br>
+_female_: 42,546,398<br>
 
 **Nationality**<br>
 _noun_: German(s)<br>
@@ -362,7 +362,7 @@ _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 2/23/2025<br>
-_parties elected and seats per party_: Social Democratic Party (SPD) (206); Christian Democratic Union (CDU) (152); Green Party (118); Free Democratic Party (FDP) (92); Alternative for Germany (AfD) (83); Christian Social Union of Bavaria (CSU) (45); Left Party (Die Linke) (39); Other (1)<br>
+_parties elected and seats per party_: Christian Democratic Union (CDU) (164); Alternative for Germany (AfD) (152); Social Democratic Party (SPD) (120); Green Party (85); Left Party (Die Linke) (64); Christian Social Union of Bavaria (CSU) (44); Other (1)<br>
 _percentage of women in chamber_: 32.4%<br>
 _expected date of next election_: February 2029<br>
 <strong>note 1:</strong> total seats can vary each electoral term; currently includes 4 seats for independent members; approximately one-half of members directly elected in multi-seat constituencies by proportional representation vote and approximately one-half directly elected in single-seat constituencies by simple majority vote; members' terms vary depending on the states they represent<br><strong><br>note 2:</strong> the 20th Bundestag is the largest to date, due to Germany's recognition of "overhang" (when a party's share of the nationwide votes would entitle it to fewer seats than the number of individual constituency seats won in an election) and "leveling" (when additional seats are elected to supplement the members directly elected in order to ensure that each party's share of the total seats is roughly proportional to its overall share of votes at the national level)<br>
@@ -370,6 +370,8 @@ _expected date of next election_: February 2029<br>
 **Legislative branch - upper chamber**<br>
 _chamber name_: Federal Council (Bundesrat)<br>
 _number of seats_: 69 (all appointed)<br>
+_scope of elections_: Full renewal<br>
+_most recent election date_: 11/8/2020<br>
 _percentage of women in chamber_: 34.8%<br>
 
 **Judicial branch**<br>

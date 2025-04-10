@@ -81,9 +81,9 @@ most of the inhabitants live along the sandy coastal region; apart from the capi
 ## People and Society
 
 **Population**<br>
-_total_: 29,981,758<br>
+_total_: 29,981,758 (2024 est.)<br>
 _male_: 15,040,032<br>
-_female_: 14,941,726 (2024 est.)<br>
+_female_: 14,941,726<br>
 
 **Nationality**<br>
 _noun_: Ivoirian(s)<br>
@@ -99,9 +99,6 @@ _major-language sample(s)_: <br>The World Factbook, une source indispensable d'i
 **Religions**<br>
 Muslim 42.9%, Catholic 17.2%, Evangelical 11.8%, Methodist 1.7%, other Christian 3.2%, animist 3.6%, other religion 0.5%, none 19.1% (2014 est.)<br>
 <strong>note:</strong> the majority of foreign migrant workers are Muslim (72.7%) and Christian (17.7%)<br>
-
-**Demographic profile**<br>
-<p>Cote d’Ivoire’s population is likely to continue growing for the foreseeable future because almost 60% of the populace is younger than 25 as of 2020, the total fertility rate is holding steady at about 3.5 children per woman, and contraceptive use is under 30%. The country will need to improve education, health care, and gender equality in order to turn its large and growing youth cohort into human capital. Even prior to 2010 unrest that shuttered schools for months, access to education was poor, especially for women. The lack of educational attainment contributes to Cote d’Ivoire’s high rates of unskilled labor, adolescent pregnancy, and HIV/AIDS prevalence.</p> <p>Following its independence in 1960, Cote d’Ivoire’s stability and the blossoming of its labor-intensive cocoa and coffee industries in the southwest made it an attractive destination for migrants from other parts of the country and its neighbors, particularly Burkina Faso. The HOUPHOUET-BOIGNY administration continued the French colonial policy of encouraging labor immigration by offering liberal land ownership laws. Foreigners from West Africa, Europe (mainly France), and Lebanon composed about 25% of the population by 1998.</p> <p>Ongoing economic decline since the 1980s and the power struggle after HOUPHOUET-BOIGNY’s death in 1993 ushered in the politics of "Ivoirite," institutionalizing an Ivoirian identity that further marginalized northern Ivoirians and scapegoated immigrants. The hostile Muslim north-Christian south divide snowballed into a 2002 civil war, pushing tens of thousands of foreign migrants, Liberian refugees, and Ivoirians to flee to war-torn Liberia or other regional countries and more than a million people to be internally displaced. Subsequently, violence following the contested 2010 presidential election prompted some 250,000 people to seek refuge in Liberia and other neighboring countries and again internally displaced as many as a million people. By July 2012, the majority had returned home, but ongoing inter-communal tension and armed conflict continue to force people from their homes.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 36.1% (male 5,437,108/female 5,390,782)<br>
@@ -562,8 +559,8 @@ crude petroleum, ships, refined petroleum, fish, rice (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$6.257 billion (31 December 2017 est.)<br>
-$4.935 billion (31 December 2016 est.)<br>
+$6.257 billion (2017 est.)<br>
+$4.935 billion (2016 est.)<br>
 
 **Debt - external**<br>
 $27.931 billion (2023 est.)<br>
@@ -693,8 +690,8 @@ _key ports_: Abidjan, Baobab Marine Terminal, Espoir Marine Terminal, Port Bouet
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Cote d'Ivoire (Forces Armees de Cote d'Ivoire, FACI; aka Republican Forces of Ivory Coast, FRCI): Army (Land Force), National Navy, Air Force, Special Forces; National Gendarmerie (under the Ministry of Defense)<br><br>Ministry of Security and Civil Protection: National Police, Coordination Center for Operational Decisions (a mix of police, gendarmerie, and FACI personnel for assisting police in providing security in some large cities), Directorate of Territorial Surveillance (2024)<br>
-<strong>note:</strong> the National Gendarmerie is a military force established to ensure public safety, maintain order, enforce laws, and protect institutions, people, and property; it is organized into "legions" and has both territorial and mobile units; the Mobile Gendarmerie is responsible for maintaining and restoring order and is considered the backbone of the country’s domestic security; the Territorial Gendarmerie is responsible for the administrative, judicial, and military police; the Gendarmerie also has separate specialized units for security, intervention (counterterrorism, hostage rescue, etc), VIP protection, and surveillance; the Directorate of Territorial Surveillance is responsible for countering internal threats<br>
+Armed Forces of Cote d'Ivoire (Forces Armees de Cote d'Ivoire, FACI; aka Republican Forces of Ivory Coast, FRCI): Army, National Navy, Air Force, Special Forces; National Gendarmerie <br><br>Ministry of Security and Civil Protection: National Police (2025)<br>
+<strong>note:</strong> the National Gendarmerie is a paramilitary force under the Ministry of Defense that is responsible for ensuring public safety, maintaining order, enforcing laws, and protecting institutions, people, and property; it is organized into mobile and territorial components; the Mobile Gendarmerie is responsible for maintaining and restoring order and is considered the backbone of the country’s domestic security; the Territorial Gendarmerie is responsible for the administrative, judicial, and military police; the Gendarmerie also has separate specialized units for security, intervention (counterterrorism, hostage rescue, etc), VIP protection, and surveillance<br><br>
 
 **Military expenditures**<br>
 0.9% of GDP (2023 est.)<br>
@@ -707,7 +704,7 @@ Armed Forces of Cote d'Ivoire (Forces Armees de Cote d'Ivoire, FACI; aka Republi
 approximately 20-25,000 active FACI troops; approximately 5,000 Gendarmerie (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the FACI consists mostly of older or second-hand equipment, typically of French or Soviet-era origin; Cote d'Ivoire was under a partial UN arms embargo from 2004 to 2016; in recent years it has received some new and second-hand equipment from a variety of suppliers, including Bulgaria, China, France, South Africa, and Turkey (2024)<br>
+the inventory of the FACI consists mostly of older or second-hand equipment, typically of French or Soviet-era origin; Cote d'Ivoire was under a partial UN arms embargo from 2004 to 2016; in recent years it has received some new and secondhand equipment from a variety of suppliers, including Bulgaria, China, France, South Africa, and Turkey (2024)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for compulsory and voluntary military service for men and women; conscription is reportedly not enforced (2023)<br>

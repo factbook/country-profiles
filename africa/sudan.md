@@ -85,9 +85,9 @@ the Nile is Sudan's primary water source; its major tributaries, the White Nile 
 ## People and Society
 
 **Population**<br>
-_total_: 50,467,278<br>
+_total_: 50,467,278 (2024 est.)<br>
 _male_: 25,335,092<br>
-_female_: 25,132,186 (2024 est.)<br>
+_female_: 25,132,186<br>
 
 **Nationality**<br>
 _noun_: Sudanese (singular and plural)<br>
@@ -102,9 +102,6 @@ _major-language sample(s)_: <br>كتاب حقائق العالم، المصدر 
 
 **Religions**<br>
 Sunni Muslim, small Christian minority<br>
-
-**Demographic profile**<br>
-<p>Sudan’s population grew almost fourfold between 1956 and 2008, the date of its last census.  Even after the southern part of the country became independent South Sudan in 2011, the population of Sudan has continued to grow.  The gender balance overall is fairly even.  Females, however, are more prevalent in rural areas because of males migrating to urban areas in search of work.  The total fertility rate (TFR) remains high despite falling from 7 children per woman in Sudan’s first census in 1955 to about 4.5 in 2022, which can be attributed to early marriage and a low contraceptive prevalence rate.  Among the factors that led to the reduction in fertility are family planning, improvement in women’s education and participation in the labor force outside the home, and migration and urbanization. </p> <p>The continued slow decline in fertility accompanied by a drop in mortality and increased life expectancy has produced an age structure where approximately 55% of the population was of working age (15-64) as of 2020.  This share will grow as the sizable youth population becomes working age.  As Sudan’s working age population increasingly outnumbers the youth and elderly populations (the dependent populations), the country will approach the possibility of a demographic dividend.  The window of opportunity for potential economic growth depends not only on a favorable age structure but also on having a trained and educated workforce, job creation (particularly in the formal market), and investment in health, as well as generating savings to invest in schooling and care for the elderly.  As of 2018, Sudan’s literacy rate was just over 60%, and even lower among women.  Improvements in school enrollment, student-teacher ratio, infrastructure, funding, and educational quality could help the country to realize a demographic dividend.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 40.1% (male 10,278,453/female 9,949,343)<br>

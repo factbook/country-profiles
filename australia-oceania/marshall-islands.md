@@ -25,7 +25,7 @@ _water_: 0 sq km<br>
 <strong>note:</strong> the archipelago includes 11,673 sq km of lagoon waters and encompasses the atolls of Bikini, Enewetak, Kwajalein, Majuro, Rongelap, and Utirik<br>
 
 **Area - comparative**<br>
-about the size of Washington, DC<br>
+about the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -75,9 +75,9 @@ the islands of Bikini and Enewetak are former US nuclear test sites; Kwajalein a
 ## People and Society
 
 **Population**<br>
-_total_: 82,011<br>
+_total_: 82,011 (2024 est.)<br>
 _male_: 41,581<br>
-_female_: 40,430 (2024 est.)<br>
+_female_: 40,430<br>
 
 **Nationality**<br>
 _noun_: Marshallese (singular and plural)<br>

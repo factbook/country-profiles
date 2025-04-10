@@ -80,9 +80,9 @@ shares island of Hispaniola with Haiti (eastern two-thirds makes up the Dominica
 ## People and Society
 
 **Population**<br>
-_total_: 10,815,857<br>
+_total_: 10,815,857 (2024 est.)<br>
 _male_: 5,465,776<br>
-_female_: 5,350,081 (2024 est.)<br>
+_female_: 5,350,081<br>
 
 **Nationality**<br>
 _noun_: Dominican(s)<br>
@@ -708,7 +708,7 @@ the military's equipment inventory comes largely from the US, with smaller quant
 <strong>note:</strong> as of 2023, women made up approximately 18% of the active duty military<br>
 
 **Military - note**<br>
-the military is responsible for defending the independence, integrity, and sovereignty of the Dominican Republic; it also has an internal security role, which includes assisting with airport, border, port, tourism, and urban security, supporting the police in maintaining or restoring public order, countering transnational crime, and providing disaster or emergency relief/management; a key area of focus is securing the country&rsquo;s 217-mile (350-kilometer) long border with Haiti; the Army in recent years, for example, has assigned three of its six infantry brigades and some 10-12,000 troops to assist with security along the Haitian border; these forces complement the personnel of the Border Security Corps permanently deployed along the border; the Air Force and Navy also provide support to the Haitian border mission; the Army has a brigade dedicated to managing and providing relief during natural disasters; the military also contributes personnel to the National Drug Control Directorate, and both the Air Force and Navy devote assets to detecting and interdicting narcotics trafficking; the Navy conducts regular bilateral maritime interdiction exercises with the US Navy (2024)<br>
+the military is responsible for defending the independence, integrity, and sovereignty of the Dominican Republic; it also has an internal security role, which includes assisting with airport, border, port, tourism, and urban security, supporting the police in maintaining or restoring public order, countering transnational crime, and providing disaster or emergency relief/management; a key area of focus is securing the country&rsquo;s 217-mile (350-kilometer) long border with Haiti; the Army in recent years, for example, has assigned as many as 12,000 troops to assist with security along the Haitian border; these forces complement the personnel of the Border Security Corps permanently deployed along the border; the Air Force and Navy also provide support to the Haitian border mission; the Army has a brigade dedicated to managing and providing relief during natural disasters; the military also contributes personnel to the National Drug Control Directorate, and both the Air Force and Navy devote assets to detecting and interdicting narcotics trafficking; the Navy conducts regular bilateral maritime interdiction exercises with the US Navy (2025)<br>
 
 ## Transnational Issues
 

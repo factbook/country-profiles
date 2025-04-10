@@ -79,9 +79,9 @@ strategic location at head of Persian Gulf<br>
 ## People and Society
 
 **Population**<br>
-_total_: 3,138,355<br>
+_total_: 3,138,355 (2024 est.)<br>
 _male_: 1,810,542<br>
-_female_: 1,327,813 (2024 est.)<br>
+_female_: 1,327,813<br>
 
 **Nationality**<br>
 _noun_: Kuwaiti(s)<br>
@@ -284,7 +284,7 @@ _conventional long form_: State of Kuwait<br>
 _conventional short form_: Kuwait<br>
 _local long form_: Dawlat al Kuwayt<br>
 _local short form_: Al Kuwayt<br>
-_etymology_: the name derives from the capital city, which is from Arabic "al-Kuwayt" a diminutive of "kut" meaning "fortress," possibly a reference to a small castle built on the current location of Kuwait City by the Beni Khaled tribe in the 17th century<br>
+_etymology_: the name derives from the capital city, which comes from the Arabic <em>al-kuwayt</em>, itself a diminutive of the Hindustani term <em>kut</em>, meaning a fortress-like house<br>
 
 **Government type**<br>
 constitutional monarchy (emirate)<br>

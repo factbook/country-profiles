@@ -78,9 +78,9 @@ the third-smallest country in South America after Suriname and Uruguay; substant
 ## People and Society
 
 **Population**<br>
-_total_: 794,099<br>
+_total_: 794,099 (2024 est.)<br>
 _male_: 405,244<br>
-_female_: 388,855 (2024 est.)<br>
+_female_: 388,855<br>
 
 **Nationality**<br>
 _noun_: Guyanese (singular and plural)<br>
@@ -94,9 +94,6 @@ English (official), Guyanese Creole, Amerindian languages (including Caribbean a
 
 **Religions**<br>
 Protestant 34.8% (Pentecostal 22.8%, Seventh Day Adventist 5.4%, Anglican 5.2%, Methodist 1.4%), Hindu 24.8%, other Christian 20.8%, Roman Catholic 7.1%, Muslim 6.8%, Jehovah's Witness 1.3%, Rastafarian 0.5%, other 0.9%, none 3.1% (2012 est.)<br>
-
-**Demographic profile**<br>
-<p>Guyana is the only English-speaking country in South America and shares cultural and historical bonds with the Anglophone Caribbean. Guyana's two largest ethnic groups are the Afro-Guyanese (descendants of African slaves) and the Indo-Guyanese (descendants of Indian indentured laborers), which together comprise about three quarters of Guyana's population. Tensions periodically have boiled over between the two groups, which back ethnically based political parties and vote along ethnic lines. Poverty reduction has stagnated since the late 1990s. About one-third of the Guyanese population lives below the poverty line; indigenous people are disproportionately affected. Although Guyana's literacy rate is reported to be among the highest in the Western Hemisphere, the level of functional literacy is considerably lower, which has been attributed to poor education quality, teacher training, and infrastructure.</p><p>Guyana's emigration rate is among the highest in the world - more than 55% of its citizens reside abroad - and it is one of the largest recipients of remittances relative to GDP among Latin American and Caribbean counties. Although remittances are a vital source of income for most citizens, the pervasive emigration of skilled workers deprives Guyana of professionals in healthcare and other key sectors. More than 80% of Guyanese nationals with tertiary level educations have emigrated. Brain drain and the concentration of limited medical resources in Georgetown hamper Guyana's ability to meet the health needs of its predominantly rural population. Guyana has one of the highest HIV prevalence rates in the region and continues to rely on international support for its HIV treatment and prevention programs.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 23.5% (male 95,223/female 91,272)<br>
@@ -286,7 +283,7 @@ _agricultural_: 1.36 billion cubic meters (2020 est.)<br>
 _conventional long form_: Cooperative Republic of Guyana<br>
 _conventional short form_: Guyana<br>
 _former_: British Guiana<br>
-_etymology_: the name is derived from Guiana, the original name for the region that included British Guiana, Dutch Guiana, and French Guiana; ultimately the word is derived from an Amerindian language and means "Land of Many Waters" (referring to the area's multitude of rivers and streams)<br>
+_etymology_: the name is derived from Guiana, the original name for the region that included British Guiana, Dutch Guiana, and French Guiana; the name Guiana may be derived from a local term meaning "Land of Water" (referring to the area's multitude of rivers and streams)<br>
 
 **Government type**<br>
 parliamentary republic<br>
@@ -344,7 +341,7 @@ _term in office_: 5 years<br>
 _most recent election date_: 3/2/2020<br>
 _parties elected and seats per party_: People's Progressive Party/Civic (PPP/C) (33); A Partnership for National Unity - Alliance for Change (APNU-AFC) (31); Other (1)<br>
 _percentage of women in chamber_: 39.4%<br>
-_expected date of next election_: March 2025<br>
+_expected date of next election_: May 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Judicature (consists of the Court of Appeal with a chief justice and 3 justices, and the High Court with a chief justice and 10 justices organized into 3- or 5-judge panels); Caribbean Court of Justice is the final court of appeal in civil and criminal cases<br>

@@ -85,9 +85,9 @@ Mauritania is considered both a part of North Africa's Maghreb region and West A
 ## People and Society
 
 **Population**<br>
-_total_: 4,328,040<br>
+_total_: 4,328,040 (2024 est.)<br>
 _male_: 2,083,690<br>
-_female_: 2,244,350 (2024 est.)<br>
+_female_: 2,244,350<br>
 
 **Nationality**<br>
 _noun_: Mauritanian(s)<br>
@@ -103,9 +103,6 @@ _major-language sample(s)_: <br>كتاب حقائق العالم، المصدر 
 
 **Religions**<br>
 Muslim (official) 100%<br>
-
-**Demographic profile**<br>
-<p>With a sustained total fertility rate of about 3.5 children per woman and almost 60% of the population under the age of 25 as of 2020, Mauritania's population is likely to continue growing for the foreseeable future. Mauritania's large youth cohort is vital to its development prospects, but available schooling does not adequately prepare students for the workplace. Girls continue to be underrepresented in the classroom, educational quality remains poor, and the dropout rate is high. The literacy rate is only about 50%, even though access to primary education has improved since the mid-2000s. Women's restricted access to education and discriminatory laws maintain gender inequality - worsened by early and forced marriages and female genital cutting.</p> <p>The denial of education to black Moors also helps to perpetuate slavery. Although Mauritania abolished slavery in 1981 (the last country in the world to do so) and made it a criminal offense in 2007, the millenniums-old practice persists largely because anti-slavery laws are rarely enforced and the custom is so ingrained.  According to a 2018 nongovernmental organization's report, a little more than 2% of Mauritania's population is enslaved, which includes individuals subjected to forced labor and forced marriage, while many thousands of individuals who are legally free contend with discrimination, poor education, and a lack of identity papers and, therefore, live in de facto slavery.  The UN and international press outlets have claimed that up to 20% of Mauritania's population is enslaved, which would be the highest rate worldwide.</p> <p>Drought, poverty, and unemployment have driven outmigration from Mauritania since the 1970s. Early flows were directed toward other West African countries, including Senegal, Mali, Cote d'Ivoire, and Gambia. The 1989 Mauritania-Senegal conflict forced thousands of black Mauritanians to take refuge in Senegal and pushed labor migrants toward the Gulf, Libya, and Europe in the late 1980s and early 1990s. Mauritania has accepted migrants from neighboring countries to fill labor shortages since its independence in 1960 and more recently has received refugees escaping civil wars, including tens of thousands of Tuaregs who fled Mali in 2012.</p> <p>Mauritania was an important transit point for Sub-Saharan migrants moving illegally to North Africa and Europe. In the mid-2000s, as border patrols increased in the Strait of Gibraltar, security increased around Spain's North African enclaves (Ceuta and Melilla), and Moroccan border controls intensified, illegal migration flows shifted from the Western Mediterranean to Spain's Canary Islands. In 2006, departure points moved southward along the West African coast from Morocco and then Western Sahara to Mauritania's two key ports (Nouadhibou and the capital Nouakchott), and illegal migration to the Canaries peaked at almost 32,000. The numbers fell dramatically in the following years because of joint patrolling off the West African coast by Frontex (the EU's border protection agency), Spain, Mauritania, and Senegal; the expansion of Spain's border surveillance system; and the 2008 European economic downturn.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 35.7% (male 776,035/female 770,132)<br>
@@ -307,7 +304,7 @@ _conventional long form_: Islamic Republic of Mauritania<br>
 _conventional short form_: Mauritania<br>
 _local long form_: Al Jumhuriyah al Islamiyah al Muritaniyah<br>
 _local short form_: Muritaniyah<br>
-_etymology_: named for the ancient kingdom of Mauretania (3rd century B.C. to 1st century A.D.) and the subsequent Roman province (1st-7th centuries A.D.), which existed further north in present-day Morocco; the name derives from the Mauri (Moors), the Berber-speaking peoples of northwest Africa<br>
+_etymology_: named for the ancient kingdom of Mauretania (3rd century B.C. to 1st century A.D.); its name derives from the Mauri (Moors) of northwest Africa<br>
 
 **Government type**<br>
 presidential republic<br>

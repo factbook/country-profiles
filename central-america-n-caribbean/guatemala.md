@@ -78,9 +78,9 @@ the vast majority of the populace resides in the southern half of the country, p
 ## People and Society
 
 **Population**<br>
-_total_: 18,255,216<br>
+_total_: 18,255,216 (2024 est.)<br>
 _male_: 9,050,684<br>
-_female_: 9,204,532 (2024 est.)<br>
+_female_: 9,204,532<br>
 
 **Nationality**<br>
 _noun_: Guatemalan(s)<br>
@@ -96,9 +96,6 @@ _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indi
 
 **Religions**<br>
 Evangelical 45.7%, Roman Catholic 42.4%, none 11%, unspecified 0.9% (2023 est.)<br>
-
-**Demographic profile**<br>
-<p>Guatemala is a predominantly poor country that struggles in several areas of health and development, including infant, child, and maternal mortality, malnutrition, literacy, and contraceptive awareness and use. The country's large indigenous population is disproportionately affected. Guatemala is the most populous country in Central America and has the highest fertility rate in Latin America. It also has the highest population growth rate in Latin America, which is likely to continue because of its large reproductive-age population and high birth rate. Almost half of Guatemala's population is under age 19, making it the youngest population in Latin America. Guatemala's total fertility rate has slowly declined during the last few decades due in part to limited government-funded health programs. However, the birth rate is still more close to three children per woman and is markedly higher among its rural and indigenous populations.</p><p>Guatemalans have a history of emigrating legally and illegally to Mexico, the United States, and Canada because of a lack of economic opportunity, political instability, and natural disasters. Emigration, primarily to the United States, escalated during the 1960 to 1996 civil war and accelerated after a peace agreement was signed. Thousands of Guatemalans who fled to Mexico returned after the war, but labor migration to southern Mexico continues.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 31.5% (male 2,925,079/female 2,819,927)<br>

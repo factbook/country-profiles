@@ -24,7 +24,7 @@ _land_: 50 sq km<br>
 _water_: negligible<br>
 
 **Area - comparative**<br>
-more than one-third the size of Washington, DC<br>
+more than one-third the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 16 km<br>

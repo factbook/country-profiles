@@ -24,7 +24,7 @@ _land_: 260 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-1.5 times the size of Washington, DC<br>
+1.5 times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -72,7 +72,9 @@ one of world's largest coral islands; the only major break in the surrounding co
 ## People and Society
 
 **Population**<br>
-_total_: 2,000 (2022 est.)<br>
+_total_: 1,681 (2022)<br>
+_male_: 827<br>
+_female_: 854<br>
 <strong>note:</strong> because of the island's limited economic and educational opportunities, Niueans have emigrated for decades - primarily to New Zealand but also to Australia and other Pacific island states; Niue's population peaked in 1966 at 5,194, but by 2005 had fallen to 1,508; since then, it has rebounded slightly; as of 2013, 23,883 people of Niuean ancestry lived in New Zealand - with more than 20% Niue-born - or about 15 times as many persons of Niuean ancestry living in New Zealand as in Niue<br>
 
 **Nationality**<br>
@@ -107,6 +109,10 @@ _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
 1,000 ALOFI (capital) (2018)<br>
+
+**Life expectancy at birth**<br>
+_male_: 71.8 years (2016)<br>
+_female_: 75.7 years (2016 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 97% of population<br>

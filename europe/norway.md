@@ -76,9 +76,9 @@ about two-thirds mountains; some 50,000 islands off its much-indented coastline;
 ## People and Society
 
 **Population**<br>
-_total_: 5,509,733<br>
+_total_: 5,509,733 (2024 est.)<br>
 _male_: 2,780,972<br>
-_female_: 2,728,761 (2024 est.)<br>
+_female_: 2,728,761<br>
 
 **Nationality**<br>
 _noun_: Norwegian(s)<br>
@@ -94,9 +94,6 @@ _major-language sample(s)_: <br>Verdens Faktabok, den essensielle kilden for gru
 
 **Religions**<br>
 Church of Norway (Evangelical Lutheran - official) 67.5%, Muslim 3.1%, Roman Catholic 3.1%, other Christian 3.8%, other 2.6%, unspecified 19.9% (2021 est.)<br>
-
-**Demographic profile**<br>
-<p>Norway is a trendsetter country in gender equality, especially in workforce participation.  Of particular value to families are the child and parental leave benefits.  This supplement is a monthly allowance paid to families from a month after birth until the child reaches 18 to defray some of the costs of raising children.  This is helpful to families with young children where the mother works limited hours.  The parental leave benefit is available to qualified mothers in a child’s first year, enabling parents to share at-home childcare for up to 49 weeks at full salary (or 59 weeks with 80% of their salary).  Afterward, parents can put their child in high-quality subsidized daycare or receive funding toward private child care or as compensation for one parent staying home to care for their child.</p> <p>Norway was originally a country of emigration with almost 850,000 Norwegians going abroad between 1825 and 1945.  At the turn of the 20th century, most Norwegians emigrated temporarily to work in the US.  Immigrants to Norway in the 1960s were mostly from neighboring Nordic countries, with whom they shared a common labor market.  By the end of the 1960s, with a strong economy and population shortage, Norway admitted guest workers from Pakistan, Morocco, then Yugoslavia, and Turkey.  The labor migrants were expected to be temporary, but many settled in Norway.  Eventually, Norway imposed immigration restrictions and the majority of migrants came in as refugees or for family reunification.  Beginning in the 1990s, Norway’s migration policy aimed at achieving integration – including language instruction and integration into the job market – as well as combatting racism and xenophobia.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 16.3% (male 461,979/female 438,243)<br>

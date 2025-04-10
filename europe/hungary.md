@@ -79,9 +79,9 @@ landlocked; strategic location astride main land routes between Western Europe a
 ## People and Society
 
 **Population**<br>
-_total_: 9,855,745<br>
+_total_: 9,855,745 (2024 est.)<br>
 _male_: 4,812,668<br>
-_female_: 5,043,077 (2024 est.)<br>
+_female_: 5,043,077<br>
 
 **Nationality**<br>
 _noun_: Hungarian(s)<br>
@@ -298,7 +298,7 @@ _conventional short form_: Hungary<br>
 _local long form_: none<br>
 _local short form_: Magyarorszag<br>
 _former_: Kingdom of Hungary, Hungarian People's Republic, Hungarian Soviet Republic, Hungarian Republic<br>
-_etymology_: the Byzantine Greeks refered to the tribes that arrived on the steppes of Eastern Europe in the 9th century as the "Oungroi," a name that was later Latinized to "Ungri" and which became "Hungari"; the name originally meant an "[alliance of] ten tribes"; the Hungarian name "Magyarorszag" means "Country of the Magyars"; the term may derive from the most prominent of the Hungarian tribes, the Megyer<br>
+_etymology_: the Byzantine Greeks referred to the tribes that arrived on the steppes of Eastern Europe in the 9th century as the "Oungroi," a name that later became "Hungari," which originally meant an "[alliance of] ten tribes;" the Hungarian name Magyarorszag means "Country of the Magyars," which may be derived from the name of the most prominent of the Hungarian tribes<br>
 
 **Government type**<br>
 parliamentary republic<br>

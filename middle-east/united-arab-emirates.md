@@ -76,9 +76,9 @@ strategic location along southern approaches to Strait of Hormuz, a vital transi
 ## People and Society
 
 **Population**<br>
-_total_: 10,032,213<br>
+_total_: 10,032,213 (2024 est.)<br>
 _male_: 6,824,131<br>
-_female_: 3,208,082 (2024 est.)<br>
+_female_: 3,208,082<br>
 
 **Nationality**<br>
 _noun_: Emirati(s)<br>

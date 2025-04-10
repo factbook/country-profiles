@@ -75,9 +75,9 @@ strategic location near major Indian Ocean sea lanes; Adam's Bridge is a chain o
 ## People and Society
 
 **Population**<br>
-_total_: 21,982,608<br>
+_total_: 21,982,608 (2024 est.)<br>
 _male_: 10,642,043<br>
-_female_: 11,340,565 (2024 est.)<br>
+_female_: 11,340,565<br>
 
 **Nationality**<br>
 _noun_: Sri Lankan(s)<br>

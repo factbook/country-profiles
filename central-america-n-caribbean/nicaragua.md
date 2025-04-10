@@ -24,7 +24,7 @@ _land_: 119,990 sq km<br>
 _water_: 10,380 sq km<br>
 
 **Area - comparative**<br>
-slightly larger than Pennsylvania; slightly smaller than New York state<br>
+slightly larger than Pennsylvania; slightly smaller than New York State<br>
 
 **Land boundaries**<br>
 _total_: 1,253 km<br>
@@ -78,9 +78,9 @@ largest country in Central America; contains the largest freshwater body in Cent
 ## People and Society
 
 **Population**<br>
-_total_: 6,676,948<br>
+_total_: 6,676,948 (2024 est.)<br>
 _male_: 3,273,900<br>
-_female_: 3,403,048 (2024 est.)<br>
+_female_: 3,403,048<br>
 
 **Nationality**<br>
 _noun_: Nicaraguan(s)<br>
@@ -96,9 +96,6 @@ _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indi
 
 **Religions**<br>
 Roman Catholic 44.9%, Protestant 38.7% (Evangelical 38.2, Adventist 0.5%), other 1.2%, (includes Jehovah's Witness and Church of Jesus Christ), believer but not belonging to a church 1%, agnostic or atheist 0.4%, none 13.7%, unspecified 0.2% (2020 est.)<br>
-
-**Demographic profile**<br>
-<p>Despite being one of the poorest countries in Latin America, Nicaragua has improved its access to potable water and sanitation and has ameliorated its life expectancy, infant and child mortality, and immunization rates. However, income distribution is very uneven, and the poor, agriculturalists, and indigenous people continue to have less access to healthcare services. Nicaragua's total fertility rate has fallen from around 6 children per woman in 1980 to below replacement level today, but the high birth rate among adolescents perpetuates a cycle of poverty and low educational attainment.</p><p>Nicaraguans emigrate primarily to Costa Rica and to a lesser extent the United States. Nicaraguan men have been migrating seasonally to Costa Rica to harvest bananas and coffee since the early 20th century. Political turmoil, civil war, and natural disasters from the 1970s through the 1990s dramatically increased the flow of refugees and permanent migrants seeking jobs, higher wages, and better social and healthcare benefits. Since 2000, Nicaraguan emigration to Costa Rica has slowed and stabilized. Today roughly 300,000 Nicaraguans are permanent residents of Costa Rica - about 75% of the foreign population - and thousands more migrate seasonally for work, many illegally.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 25.1% (male 855,256/female 818,714)<br>
@@ -278,7 +275,7 @@ _conventional long form_: Republic of Nicaragua<br>
 _conventional short form_: Nicaragua<br>
 _local long form_: Rep&uacute;blica de Nicaragua<br>
 _local short form_: Nicaragua<br>
-_etymology_: Nicarao was the name of the largest indigenous settlement at the time of Spanish arrival; conquistador Gil GONZALEZ Davila, who explored the area (1622-23), combined the name of the community with the Spanish word "agua" (water), referring to the two large lakes in the west of the country (Lake Managua and Lake Nicaragua)<br>
+_etymology_: 16th-century Spanish explorer Gil GONZALEZ Davila is said to have combined the name of a local chieftain, Nicarao, with the Spanish word <em>agua </em>(water), referring to the two large lakes in the west of the country (Lake Managua and Lake Nicaragua)<br>
 
 **Government type**<br>
 presidential republic<br>

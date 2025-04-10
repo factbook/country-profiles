@@ -24,7 +24,7 @@ _land_: 143,351 sq km<br>
 _water_: 3,830 sq km<br>
 
 **Area - comparative**<br>
-slightly larger than New York state<br>
+slightly larger than New York State<br>
 
 **Land boundaries**<br>
 _total_: 3,159 km<br>
@@ -79,9 +79,9 @@ landlocked; strategic location between China and India; contains eight of world'
 ## People and Society
 
 **Population**<br>
-_total_: 31,122,387<br>
+_total_: 31,122,387 (2024 est.)<br>
 _male_: 15,240,643<br>
-_female_: 15,881,744 (2024 est.)<br>
+_female_: 15,881,744<br>
 
 **Nationality**<br>
 _noun_: Nepali (singular and plural)<br>
@@ -294,7 +294,7 @@ _conventional long form_: none<br>
 _conventional short form_: Nepal<br>
 _local long form_: none<br>
 _local short form_: Nepal<br>
-_etymology_: the Newar people of the Kathmandu Valley and surrounding areas apparently gave their name to the country; the terms "Nepal," "Newar," "Nepar," and "Newal" are phonetically different forms of the same word<br>
+_etymology_: the name probably comes from the Sanskrit term <em>nepala</em>, from the words for "fly down" and "house," which would refer to the villages at the base of the mountains<br>
 
 **Government type**<br>
 federal parliamentary republic<br>

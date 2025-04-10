@@ -72,9 +72,9 @@ strategic location adjacent to US and Cuba; extensive island chain of which 30 a
 ## People and Society
 
 **Population**<br>
-_total_: 410,862<br>
+_total_: 410,862 (2024 est.)<br>
 _male_: 190,100<br>
-_female_: 220,762 (2024 est.)<br>
+_female_: 220,762<br>
 
 **Nationality**<br>
 _noun_: Bahamian(s)<br>

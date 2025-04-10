@@ -81,9 +81,9 @@ Saudi Arabia is the largest country in the world without a river; extensive coas
 ## People and Society
 
 **Population**<br>
-_total_: 36,544,431<br>
+_total_: 36,544,431 (2024 est.)<br>
 _male_: 20,700,838<br>
-_female_: 15,843,593 (2024 est.)<br>
+_female_: 15,843,593<br>
 
 **Nationality**<br>
 _noun_: Saudi(s)<br>

@@ -90,9 +90,9 @@ population is primarily located on the periphery, with the highest concentration
 ## People and Society
 
 **Population**<br>
-_total_: 26,768,598<br>
+_total_: 26,768,598 (2024 est.)<br>
 _male_: 13,305,110<br>
-_female_: 13,463,488 (2024 est.)<br>
+_female_: 13,463,488<br>
 
 **Nationality**<br>
 _noun_: Australian(s)<br>

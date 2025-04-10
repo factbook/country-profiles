@@ -24,7 +24,7 @@ _land_: 61 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-about one-third the size of Washington, DC<br>
+about one-third the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 37 km<br>
@@ -69,9 +69,9 @@ landlocked; an enclave of (completely surrounded by) Italy; smallest independent
 ## People and Society
 
 **Population**<br>
-_total_: 35,095<br>
+_total_: 35,095 (2024 est.)<br>
 _male_: 16,944<br>
-_female_: 18,151 (2024 est.)<br>
+_female_: 18,151<br>
 
 **Nationality**<br>
 _noun_: Sammarinese (singular and plural)<br>
@@ -279,11 +279,11 @@ _residency requirement for naturalization_: 30 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: co-chiefs of state Captains Regent Francesca CIVERCHIA and Dalibor RICCARDI (for the period 1 October 2024 - 30 March 2025)<br>
+_chief of state_: co-chiefs of state Captains Regent Denise BRONZETTI and Italo RIGHI (for the period 1 April 2025 - 30 September 2025)<br>
 _head of government_: Secretary of State for Foreign and Political Affairs Luca BECCARI (since 8 January 2020)<br>
 _cabinet_: Congress of State elected by the Grand and General Council<br>
-_elections/appointments_: co-chiefs of state (captains regent) indirectly elected by the Grand and General Council for a single 6-month term; election last held on 1 October 2024 (next to be held in March 2025); Secretary of State for Foreign and Political Affairs indirectly elected by the Grand and General Council for a single 5-year term; election last held on 28 December 2019<br>
-_election results_: October 2024:  Francesca CIVERCHIA (PDCS) and Dalibor RICCARDI (Free San Marino) elected captains regent; percent of Grand and General Council vote - NA<br><em><br>March 2024:  </em>Alessandro ROSSI (Demos) and Milena GASPERONI (We for the Republic) elected captains regent; percent of Grand and General Council vote - NA<em><br><br>September 2023:</em> Filippo TAMAGNINI and Gaetano TROINA elected captains regent; percent of Grand and General Council vote - NA<br><br><em>2019:</em> Luca BECCARI (PDCS) elected Secretary of State for Foreign and Political Affairs; percent of Grand and General Council vote - NA<br>
+_elections/appointments_: co-chiefs of state (captains regent) indirectly elected by the Grand and General Council for a single 6-month term; election last held on 1 April 2025 (next to be held in September 2025); Secretary of State for Foreign and Political Affairs indirectly elected by the Grand and General Council for a single 5-year term; election last held on 28 December 2019<br>
+_election results_: <em>April 2025</em>:  Denise BRONZETTI (Reformist Alliance) and Italo RIGHI (Christian Democrat) elected captains regent: percent of Grand and General Council vote - NA<br><br><em>October 2024</em>:  Francesca CIVERCHIA (PDCS) and Dalibor RICCARDI (Free San Marino) elected captains regent; percent of Grand and General Council vote - NA<br><em><br>March 2024:  </em>Alessandro ROSSI (Demos) and Milena GASPERONI (We for the Republic) elected captains regent; percent of Grand and General Council vote - NA<br><br><em>2019:</em> Luca BECCARI (PDCS) elected Secretary of State for Foreign and Political Affairs; percent of Grand and General Council vote - NA<br>
 <strong>note:</strong> the captains regent preside over meetings of the Grand and General Council and its cabinet (Congress of State), which has seven other members who are selected by the Grand and General Council; assisting the captains regent are seven secretaries of state; the secretary of state for Foreign Affairs has some prime ministerial roles<br>
 
 **Legislative branch**<br>

@@ -90,9 +90,9 @@ recurring droughts in northeast; floods and occasional frost in south<br>
 ## People and Society
 
 **Population**<br>
-_total_: 220,051,512<br>
+_total_: 220,051,512 (2024 est.)<br>
 _male_: 108,166,491<br>
-_female_: 111,885,021 (2024 est.)<br>
+_female_: 111,885,021<br>
 
 **Nationality**<br>
 _noun_: Brazilian(s)<br>
@@ -107,9 +107,6 @@ _major-language sample(s)_: <br>O Livro de Fatos Mundiais, a fonte indispensáve
 
 **Religions**<br>
 Roman Catholic 52.8%, Protestant 26.7% (Evangelical 25.5%, other Protestant 1.2%), African-American cultist/Umbanda 1.8%, other 3%, agnostic/atheist 0.6%, none 13.6%, unspecified 1.4% (2023 est.)<br>
-
-**Demographic profile**<br>
-<p>Brazil’s rapid fertility decline since the 1960s is the main factor behind the country's slowing population growth rate, aging population, and fast-paced demographic transition.  As of 2023, Brazil’s total fertility rate – the average number of children born per woman – was 1.75, below the 2.1 replacement rate needed to prevent a population decrease.   The 2022 national census showed that population growth had slowed more than expected.  Factors behind the decrease include fewer births as couples marry later and more women work, an increase in the mortality rate as the population ages, the Zika epidemic, the COVID-19 pandemic, as well as economic troubles and the emigration of young people. The current window of opportunity to benefit from a demographic bonus – when the working-age population exceeds the number of children and the elderly combined – is expected to close around 2035, ten years earlier than expected. </p> <p>Well-funded public pensions have nearly wiped out poverty among the elderly, and Bolsa Familia and other social programs have lifted tens of millions out of poverty. More than half of Brazil’s population is considered middle class, but poverty and income inequality levels remain high; the Northeast, North, and Center-West, women, and black, mixed race, and indigenous populations are disproportionately affected. Disparities in opportunities foster social exclusion and contribute to Brazil’s high crime rate, particularly violent crime in cities and favelas.</p> <p>Brazil has traditionally been a net recipient of immigrants, with its southeast being the prime destination. After abolishing slavery in 1888, the last country in the Americas to do so, Brazil sought Europeans (Italians, Portuguese, Spaniards, and Germans) and later Asians (Japanese) to work in agriculture, especially coffee cultivation.  Lebanese and Syrian immigrants arrived at the end of the 19th century and focused on trade and later commerce. Between 2011 and 2020, the largest immigrant groups came from Venezuela, Haiti, Bolivia, Colombia, and the US. Since Brazil’s economic downturn in the 1980s, emigration to the United States, Paraguay, Europe, and Japan has been rising but is negligible relative to Brazil’s total population. The majority of these emigrants are well-educated and middle-class. Fewer Brazilian peasants are emigrating to neighboring countries to take up agricultural work. </p><br>
 
 **Age structure**<br>
 _0-14 years_: 19.6% (male 22,025,593/female 21,088,398)<br>
@@ -733,8 +730,8 @@ _key ports_: Belem, DTSE/Gegua Oil Terminal, Itajai, Port de Salvador, Porto Ale
 ## Military and Security
 
 **Military and security forces**<br>
-Brazilian Armed Forces (Forças Armadas Brasileiras): Brazilian Army (Exercito Brasileiro, EB), Brazilian Navy (Marinha do Brasil, MB, includes Naval Aviation (Aviacao Naval Brasileira) and Marine Corps (Corpo de Fuzileiros Navais)), Brazilian Air Force (Forca Aerea Brasileira, FAB) (2024)<br>
-<strong>note:</strong> the three national police forces – the Federal Police, Federal Highway Police, and Federal Railway Police – have domestic security responsibilities and report to the Ministry of Justice and Public Security (Ministry of Justice); there are two distinct units within the state police forces: the civil police, which performs an investigative role, and the military police, charged with maintaining law and order in the states and the Federal District; despite the name, military police forces report to the Ministry of Justice, not the Ministry of Defense; the armed forces also have some domestic security responsibilities and report to the Ministry of Defense<br>
+Brazilian Armed Forces (Forças Armadas Brasileiras): Brazilian Army (Exercito Brasileiro, EB), Brazilian Navy (Marinha do Brasil; includes Naval Aviation (Aviacao Naval Brasileira) and Marine Corps (Corpo de Fuzileiros Navais)), Brazilian Air Force (Forca Aerea Brasileira) (2025)<br>
+<strong>note:</strong> the three national police forces – the Federal Police, Federal Highway Police, and Federal Railway Police – have domestic security responsibilities and report to the Ministry of Justice and Public Security (Ministry of Justice)<br>
 
 **Military expenditures**<br>
 1.1% of GDP (2023 est.)<br>

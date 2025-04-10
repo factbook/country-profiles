@@ -76,9 +76,9 @@ a Y-shaped chain of four main islands and 80 smaller islands; several of the isl
 ## People and Society
 
 **Population**<br>
-_total_: 318,007<br>
+_total_: 318,007 (2024 est.)<br>
 _male_: 157,932<br>
-_female_: 160,075 (2024 est.)<br>
+_female_: 160,075<br>
 
 **Nationality**<br>
 _noun_: Ni-Vanuatu (singular and plural)<br>

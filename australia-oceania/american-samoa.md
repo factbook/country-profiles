@@ -25,7 +25,7 @@ _water_: 0 sq km<br>
 <strong>note:</strong> includes Rose Atoll and Swains Island<br>
 
 **Area - comparative**<br>
-slightly larger than Washington, DC<br>
+slightly larger than Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -70,9 +70,9 @@ Pago Pago has one of the best natural deepwater harbors in the South Pacific Oce
 ## People and Society
 
 **Population**<br>
-_total_: 43,895<br>
+_total_: 43,895 (2024 est.)<br>
 _male_: 21,804<br>
-_female_: 22,091 (2024 est.)<br>
+_female_: 22,091<br>
 
 **Nationality**<br>
 _noun_: American Samoan(s) (US nationals)<br>
@@ -383,20 +383,20 @@ refined petroleum, fish, paper containers, wood, construction vehicles (2023)<br
 ## Energy
 
 **Electricity**<br>
-_installed generating capacity_: 48,000 kW (2022 est.)<br>
-_consumption_: 157.326 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 13.975 million kWh (2022 est.)<br>
+_installed generating capacity_: 50,000 kW (2023 est.)<br>
+_consumption_: 157.697 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 13.975 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 97.1% of total installed capacity (2022 est.)<br>
-_solar_: 2.9% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 97.1% of total installed capacity (2023 est.)<br>
+_solar_: 2.9% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 3,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 3,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 391,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 391,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 389,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 389,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 89.105 million Btu/person (2019 est.)<br>

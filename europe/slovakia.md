@@ -79,9 +79,9 @@ landlocked; most of the country is rugged and mountainous; the Tatra Mountains i
 ## People and Society
 
 **Population**<br>
-_total_: 5,563,649<br>
+_total_: 5,563,649 (2024 est.)<br>
 _male_: 2,684,747<br>
-_female_: 2,878,902 (2024 est.)<br>
+_female_: 2,878,902<br>
 
 **Nationality**<br>
 _noun_: Slovak(s)<br>

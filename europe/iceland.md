@@ -74,9 +74,9 @@ strategic location between Greenland and Europe; westernmost European country; R
 ## People and Society
 
 **Population**<br>
-_total_: 364,036<br>
+_total_: 364,036 (2024 est.)<br>
 _male_: 182,268<br>
-_female_: 181,768 (2024 est.)<br>
+_female_: 181,768<br>
 
 **Nationality**<br>
 _noun_: Icelander(s)<br>
@@ -91,9 +91,6 @@ Icelandic, English, Polish, Nordic languages, German<br>
 
 **Religions**<br>
 Evangelical Lutheran Church of Iceland (official) 58.6% Roman Catholic 3.8%, Independent Congregation of Reykjavik 2.6%, Independent Congregation of Hafnarfjordur 1.9%, pagan worship 1.5%, Icelandic Ethical Humanist Association 1.4%, other (includes Zuist and Pentecostal) or unspecified 18.7%, none 7.7% (2024 est.)<br>
-
-**Demographic profile**<br>
-<p>Iceland is one of the most gender-equal countries in the world.  Its welfare policies enable both men and women to balance work and family life.  Iceland lagged its Nordic neighbors in introducing new childcare policies, and even when they did in the 1990s, parents still faced a childcare gap between the paid parental leave period and the start of pre-school. The female labor participation rate continued to grow from the 1960s to the 2000s, as women’s educational attainment increased.  Icelanders are marrying later, if they marry at all, and people are having children later.  The interval between births has decreased. Non-marital cohabitation and childbearing outside of marriage are common. Approximately 2 out of 3 children are born out of wedlock, which is among the highest in Europe.  Iceland’s total fertility rate (TFR) has been fairly stable, hovering around replacement level (2.1 children per woman), for decades – a rate higher even than its Nordic neighbors. </p> <p>Iceland has fluctuated over time between being a country of net emigration and one of net immigration.  Most Icelandic emigrants return to their native country after a few years.  From 1960 to 1996, Iceland registered a net outflow, followed by a net inflow until the 2008 banking crisis. During and after the crisis, more Icelanders left the country than immigrated to it.  Following the crisis, Iceland returned to being a country of net immigration.  In 2017, the country’s foreign-born population accounted for 11% of the population and 17% had an immigrant background.  The countries of origin have become more diverse over time, with Polish immigrants composing the largest share in 2017. Foreigners acquiring Icelandic citizenship must have a basic comprehension of the Icelandic language.  The requirement that new citizens modify or change their names to be more Icelandic was dropped in 1996.  The most popular emigration destination was Sweden, followed by Denmark and Norway in 2021.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 19.8% (male 36,692/female 35,239)<br>
@@ -283,7 +280,7 @@ _conventional long form_: none<br>
 _conventional short form_: Iceland<br>
 _local long form_: none<br>
 _local short form_: Island<br>
-_etymology_: Floki VILGERDARSON, an early Norse explorer of the island (9th century), applied the name "Land of Ice" after spotting a fjord full of drift ice to the north and spending a bitter winter on the island; he eventually settled on the island, however, after he saw how it greened up in the summer and that it was, in fact, habitable<br>
+_etymology_: Floki VILGERDARSON, an early Norse explorer of the island in the 10th century, applied the name "Land of Ice," from the local words <em>ís </em>(ice) and <em>land </em>(land)<br>
 
 **Government type**<br>
 unitary parliamentary republic<br>

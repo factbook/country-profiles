@@ -75,9 +75,9 @@ strategic location dominating the Aegean Sea and southern approach to Turkish St
 ## People and Society
 
 **Population**<br>
-_total_: 10,461,091<br>
+_total_: 10,461,091 (2024 est.)<br>
 _male_: 5,117,862<br>
-_female_: 5,343,229 (2024 est.)<br>
+_female_: 5,343,229<br>
 
 **Nationality**<br>
 _noun_: Greek(s)<br>

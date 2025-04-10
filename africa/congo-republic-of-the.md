@@ -84,9 +84,9 @@ about 70% of the population lives in Brazzaville, Pointe-Noire, or along the rai
 ## People and Society
 
 **Population**<br>
-_total_: 6,097,665<br>
+_total_: 6,097,665 (2024 est.)<br>
 _male_: 3,045,973<br>
-_female_: 3,051,692 (2024 est.)<br>
+_female_: 3,051,692<br>
 
 **Nationality**<br>
 _noun_: Congolese (singular and plural)<br>
@@ -101,9 +101,6 @@ _major-language sample(s)_: <br>Buku oyo ya bosembo ya Mokili Mobimba Ezali na M
 
 **Religions**<br>
 Roman Catholic 33.1%, Awakening Churches/Christian Revival 22.3%, Protestant 19.9%, Salutiste 2.2%, Muslim 1.6%, Kimbanguiste 1.5%, other 8.1%, none 11.3% (2007 est.)<br>
-
-**Demographic profile**<br>
-<p>The Republic of the Congo is one of the most urbanized countries in Africa, with nearly 70% of Congolese living in urban areas.  The population is concentrated in the southwest of the country, mainly in the capital Brazzaville, Pointe-Noire, and along the railway line that connects the two.  The tropical jungles in the north of the country are sparsely populated.  Most Congolese are Bantu, and most belong to one of four main ethnic groups, the Kongo, Teke, Mbochi, and Sangha, which consist of over 70 subgroups.</p> <p>The Republic of Congo is in the early stages of a demographic transition, whereby a population shifts from high fertility and mortality rates to low fertility and mortality rates associated with industrialized societies.  Its total fertility rate (TFR), the average number of children born per woman, remains high at 4.4 as of 2022.  While its TFR has steadily decreased, the progress slowed beginning in about 1995.  The slowdown in fertility reduction has delayed the demographic transition and Congo’s potential to reap a demographic dividend, the economic boost that can occur when the share of the working-age population is larger than the dependent age groups. </p> <p>The TFR differs significantly between urban and rural areas – 3.7 in urban areas versus 6.5 in rural areas.  The TFR also varies among regions.  The urban regions of Brazzaville and Pointe-Noire have much lower TFRs than other regions, which are predominantly or completely rural.  The gap between desired fertility and actual fertility is also greatest in rural areas.  Rural families may have more children to contribute to agricultural production and/or due to a lack of information about and access to contraception.  Urban families may prefer to have fewer children because raising them is more expensive and balancing work and childcare may be more difficult.  The number of births among teenage girls, the frequency of giving birth before the age of fifteen, and a lack of education are the most likely reasons for higher TFRs in rural areas.  Although 90% of school-age children are enrolled in primary school, repetition and dropout rates are high and the quality of education is poor.  Congolese women with no or little education start having children earlier and have more children in total than those with at least some secondary education.</p> <p> </p><br>
 
 **Age structure**<br>
 _0-14 years_: 37.8% (male 1,162,298/female 1,143,668)<br>

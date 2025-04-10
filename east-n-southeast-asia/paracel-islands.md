@@ -24,7 +24,7 @@ _land_: 7.75 sq km ca.<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-land area is about 13 times the size of the National Mall in Washington, DC<br>
+land area is about 13 times the size of the National Mall in Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -66,7 +66,7 @@ composed of 130 small coral islands and reefs divided into the northeast Amphitr
 ## People and Society
 
 **Population**<br>
-_total_: 1,440 (July 2014 est.)<br>
+_total_: 1,440 (2024 est.)<br>
 <strong>note:</strong> Chinese activity has increased in recent years, particularly on Woody Island, where the population exceeds 1,000; some other islands have scattered Chinese garrisons<br>
 
 **Population growth rate**<br>

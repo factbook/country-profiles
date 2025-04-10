@@ -90,9 +90,9 @@ population is heavily concentrated in the westernmost fifth of the country exten
 ## People and Society
 
 **Population**<br>
-_total_: 140,820,810<br>
+_total_: 140,820,810 (2024 est.)<br>
 _male_: 65,496,805<br>
-_female_: 75,324,005 (2024 est.)<br>
+_female_: 75,324,005<br>
 
 **Nationality**<br>
 _noun_: Russian(s)<br>
@@ -388,7 +388,11 @@ _expected date of next election_: September 2026<br>
 **Legislative branch - upper chamber**<br>
 _chamber name_: Council of the Federation (Soviet Federatsii)<br>
 _number of seats_: 170 (all appointed)<br>
+_scope of elections_: Full renewal<br>
+_most recent election date_: 12/27/2020<br>
+_parties elected and seats per party_: Niger Party for Democracy and Socialism (PNDS Tarayya) (80); Nigerien Democratic Movement for an African Federation (Moden Fa . Lumana Africa ) (19); Patriotic Movement for the Republic (MPR-JAMHURIYA) (13); National Movement for the Development of Society (MNSD) - Nassara (13); Other (41)<br>
 _percentage of women in chamber_: 18.5%<br>
+_expected date of next election_: December 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of the Russian Federation (consists of 170 members organized into the Judicial Panel for Civil Affairs, the Judicial Panel for Criminal Affairs, and the Military Panel); Constitutional Court (consists of 11 members, including the chairperson and deputy)<br>

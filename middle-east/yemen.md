@@ -77,9 +77,9 @@ strategic location on Bab el Mandeb, the strait linking the Red Sea and the Gulf
 ## People and Society
 
 **Population**<br>
-_total_: 32,140,443<br>
+_total_: 32,140,443 (2024 est.)<br>
 _male_: 16,221,139<br>
-_female_: 15,919,304 (2024 est.)<br>
+_female_: 15,919,304<br>
 
 **Nationality**<br>
 _noun_: Yemeni(s)<br>

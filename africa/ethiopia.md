@@ -87,9 +87,9 @@ highest density is found in the highlands of the north and middle areas of the c
 ## People and Society
 
 **Population**<br>
-_total_: 118,550,298<br>
+_total_: 118,550,298 (2024 est.)<br>
 _male_: 59,062,093<br>
-_female_: 59,488,205 (2024 est.)<br>
+_female_: 59,488,205<br>
 
 **Nationality**<br>
 _noun_: Ethiopian(s)<br>
@@ -104,9 +104,6 @@ _major-language sample(s)_: <br>Kitaaba Addunyaa Waan Qabataamaatiif - Kan Madda
 
 **Religions**<br>
 Ethiopian Orthodox 43.8%, Muslim 31.3%, Protestant 22.8%, Catholic 0.7%, traditional 0.6%, other 0.8% (2016 est.)<br>
-
-**Demographic profile**<br>
-<p>Ethiopia is a predominantly agricultural country – nearly 80% of the population lives in rural areas – that is in the early stages of demographic transition. Infant, child, and maternal mortality have fallen sharply over the past decade, but the total fertility rate has declined more slowly and the population continues to grow. The rising age of marriage and the increasing proportion of women remaining single have contributed to fertility reduction. While the use of modern contraceptive methods among married women has increased significantly from 6 percent in 2000 to 27 percent in 2012, the overall rate is still quite low.</p> <p>Ethiopia’s rapid population growth is putting increasing pressure on land resources, expanding environmental degradation, and raising vulnerability to food shortages. With about 40 percent of the population below the age of 15 and a fertility rate of 4 children per woman (and even higher in rural areas), Ethiopia will have to make further progress in meeting its family planning needs if it is to achieve the age structure necessary for reaping a demographic dividend in the coming decades.</p> <p>Poverty, drought, political repression, and forced government resettlement have driven Ethiopia’s internal and external migration since the 1960s. Before the 1974 revolution, only small numbers of the Ethiopian elite went abroad to study and then returned home, but under the brutal Derg regime thousands fled the country, primarily as refugees. Between 1982 and 1991 there was a new wave of migration to the West for family reunification. Since the defeat of the Derg in 1991, Ethiopians have migrated to escape violence among some of the country’s myriad ethnic groups or to pursue economic opportunities. Internal and international trafficking of women and children for domestic work and prostitution is a growing problem.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 38.7% (male 23,092,496/female 22,765,882)<br>

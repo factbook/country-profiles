@@ -25,7 +25,7 @@ _water_: 0 sq km<br>
 <strong>note:</strong> includes Ile Uvea (Wallis Island), Ile Futuna (Futuna Island), Ile Alofi, and 20 islets<br>
 
 **Area - comparative**<br>
-1.5 times the size of Washington, DC<br>
+1.5 times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -70,9 +70,9 @@ both island groups have fringing reefs; Wallis contains several prominent crater
 ## People and Society
 
 **Population**<br>
-_total_: 15,964<br>
+_total_: 15,964 (2024 est.)<br>
 _male_: 8,201<br>
-_female_: 7,763 (2024 est.)<br>
+_female_: 7,763<br>
 
 **Nationality**<br>
 _noun_: Wallisian(s), Futunan(s), or Wallis and Futuna Islanders<br>

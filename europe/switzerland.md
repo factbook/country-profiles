@@ -43,7 +43,7 @@ temperate, but varies with altitude; cold, cloudy, rainy/snowy winters; cool to 
 mostly mountains (Alps in south, Jura in northwest) with a central plateau of rolling hills, plains, and large lakes<br>
 
 **Elevation**<br>
-_highest point_: Dufourspitze 4,634 m<br>
+_highest point_: Dufourspitze on Monte Rosa 4,634 m<br>
 _lowest point_: Lake Maggiore 195 m<br>
 _mean elevation_: 1,350 m<br>
 
@@ -82,9 +82,9 @@ landlocked; crossroads of northern and southern Europe; along with southeastern 
 ## People and Society
 
 **Population**<br>
-_total_: 8,860,574<br>
+_total_: 8,860,574 (2024 est.)<br>
 _male_: 4,403,105<br>
-_female_: 4,457,469 (2024 est.)<br>
+_female_: 4,457,469<br>
 
 **Nationality**<br>
 _noun_: Swiss (singular and plural)<br>

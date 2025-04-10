@@ -76,9 +76,9 @@ largest country in Caribbean and westernmost island of the Greater Antilles<br>
 ## People and Society
 
 **Population**<br>
-_total_: 10,966,038<br>
+_total_: 10,966,038 (2024 est.)<br>
 _male_: 5,441,507<br>
-_female_: 5,524,531 (2024 est.)<br>
+_female_: 5,524,531<br>
 
 **Nationality**<br>
 _noun_: Cuban(s)<br>
@@ -508,8 +508,8 @@ beer, poultry, rice, plastic products, soybean oil (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$11.35 billion (31 December 2017 est.)<br>
-$12.3 billion (31 December 2016 est.)<br>
+$11.35 billion (2017 est.)<br>
+$12.3 billion (2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Cuban pesos (CUP) per US dollar -<br>
@@ -641,7 +641,7 @@ _key ports_: Antilla, Bahai de la Habana, Bahia de Sagua de Tanamo, Cabanas, Cas
 ## Military and Security
 
 **Military and security forces**<br>
-Revolutionary Armed Forces (Fuerzas Armadas Revolucionarias, FAR): Revolutionary Army (Ejercito Revolucionario, ER), Revolutionary Navy (Marina de Guerra Revolucionaria, MGR, includes Marine Corps), Revolutionary Air and Air Defense Forces (Defensas Anti-Aereas y Fuerza Aerea Revolucionaria, DAAFAR); Paramilitary forces: Youth Labor Army (Ejercito Juvenil del Trabajo, EJT), Territorial Militia Troops (Milicia de Tropas de Territoriales, MTT), Civil Defense Force<br><br>Ministry of Interior: Border Guards, State Security, National Revolutionary Police (2023)<br>
+Revolutionary Armed Forces (Fuerzas Armadas Revolucionarias, FAR): Ground Troops (Tropas Terrestres), Revolutionary Navy (Marina de Guerra Revolucionaria, MGR), Revolutionary Air and Air Defense Forces (Defensas Anti-Aereas y Fuerza Aerea Revolucionaria, DAAFAR)<br><br>Paramilitary forces under the FAR: Youth Labor Army (Ejercito Juvenil del Trabajo, EJT), Territorial Militia Troops (Milicia de Tropas de Territoriales, MTT), Defense and Production Brigades (Brigadas de Producción y Defensa, BPD), Civil Defense Organization (Defensa Civil de Cuba) <br><br>Ministry of Interior: National Revolutionary Police (Policía Nacional Revolucionaria, PNR), Directorate of Border Guard Troops (Dirección de Tropas de Guardia Fronteriza, TGF), Department of State Security (Departamento de Seguridad del Estado, DSE) (2025)<br>
 
 **Military expenditures**<br>
 4.2% of GDP (2020 est.)<br>
@@ -657,10 +657,10 @@ limited available information; estimated 50,000 active personnel (2024)<br>
 the military's inventory is comprised of Russian and Soviet-era equipment (2024)<br>
 
 **Military service age and obligation**<br>
-17-28 years of age for compulsory (men) and voluntary (men and women) military service; conscripts serve for 24 months (2024)<br>
+17-28 years of age for compulsory (men) and voluntary (men and women) military service; conscripts serve for 18-24 months (2025)<br>
 
 **Military - note**<br>
-the Revolutionary Armed Forces (FAR) are a central pillar of the Cuban regime and viewed as the guardian of the Cuban revolution; the FAR has a large role in the country’s politics and economy; many senior government posts are held by military officers, and a FAR-controlled umbrella enterprise known as the Armed Forces Business Group (Grupo de Administración Empresarial or GAESA) has interests in banking and finance, construction, import/export, ports, real estate, retail, shipping, transportation, and tourism<br><br>the FAR is largely focused on protecting territorial integrity and the state, and perceives the US as its primary threat; the fall of the Soviet Union in 1991 and the subsequent end of Soviet military aid had far-reaching consequences for the FAR, transforming it from one of the largest and most capable militaries in the region, as well as one that was heavily involved in foreign missions during the Cold War, particularly in Africa, into a much smaller, home-based and defensive force with limited capabilities and armed with Soviet-era weapons and equipment (2023)<br>
+the Cuban military is largely focused on protecting territorial integrity and the state, and perceives the US as its primary threat; the military is a central pillar of the Cuban regime and viewed as the guardian of the Cuban revolution; it has a large role in the country&rsquo;s politics and economy; many senior government posts are held by military officers, and the FAR reportedly has interests in agriculture, banking and finance, construction, import/export, ports, industry, real estate, retail, shipping, transportation, and tourism (2024)<br>
 
 ## Transnational Issues
 

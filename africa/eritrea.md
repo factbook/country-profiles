@@ -73,9 +73,9 @@ strategic geopolitical position along world's busiest shipping lanes; Eritrea re
 ## People and Society
 
 **Population**<br>
-_total_: 6,343,956<br>
+_total_: 6,343,956 (2024 est.)<br>
 _male_: 3,122,433<br>
-_female_: 3,221,523 (2024 est.)<br>
+_female_: 3,221,523<br>
 
 **Nationality**<br>
 _noun_: Eritrean(s)<br>
@@ -90,9 +90,6 @@ Tigrinya (official), Arabic (official), English (official), Tigre, Kunama, Afar,
 
 **Religions**<br>
 Eritrean Orthodox, Roman Catholic, Evangelical Lutheran, Sunni Muslim<br>
-
-**Demographic profile**<br>
-<p>Eritrea is a persistently poor country that has made progress in some socioeconomic categories but not in others. Education and human capital formation are national priorities for facilitating economic development and eradicating poverty. To this end, Eritrea has made great strides in improving adult literacy – doubling the literacy rate over the last 20 years – in large part because of its successful adult education programs. The overall literacy rate was estimated to be more than 75% in 2018; more work needs to be done to raise female literacy and school attendance among nomadic and rural communities. Subsistence farming fails to meet the needs of Eritrea’s growing population because of repeated droughts, dwindling arable land, overgrazing, soil erosion, and a shortage of farmers due to conscription and displacement. The government’s emphasis on spending on defense over agriculture and its lack of foreign exchange to import food also contribute to food insecurity.</p> <p>Eritrea has been a leading refugee source country since at least the 1960s, when its 30-year war for independence from Ethiopia began. Since gaining independence in 1993, Eritreans have continued migrating to Sudan, Ethiopia, Yemen, Egypt, or Israel because of a lack of basic human rights or political freedom, educational and job opportunities, or to seek asylum because of militarization. Eritrea’s large diaspora has been a source of vital remittances, funding its war for independence and providing 30% of the country’s GDP annually since it became independent.</p> <p>In the last few years, Eritreans have increasingly been trafficked and held hostage by Bedouins in the Sinai Desert, where they are victims of organ harvesting, rape, extortion, and torture. Some Eritrean trafficking victims are kidnapped after being smuggled to Sudan or Ethiopia, while others are kidnapped from within or around refugee camps or crossing Eritrea’s borders. Eritreans composed approximately 90% of the conservatively estimated 25,000-30,000 victims of Sinai trafficking from 2009-2013, according to a 2013 consultancy firm report.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 35.7% (male 1,138,382/female 1,123,925)<br>
@@ -321,14 +318,7 @@ _election results_: <em><br>1993:</em> ISAIAS Afwerki elected president by the t
 <strong>note:</strong> the president is both chief of state and head of government and is head of the State Council and National Assembly<br>
 
 **Legislative branch**<br>
-_legislature name_: National Assembly (Hagerawi Baito)<br>
-_legislative structure_: unicameral<br>
-_number of seats_: 150 (all indirectly elected)<br>
-_scope of elections_: full renewal<br>
-_term in office_: 4 years<br>
-_most recent election date_: 2/1/1994<br>
-_percentage of women in chamber_: 22%<br>
-<strong>note:</strong> in 1997, after the new constitution was adopted, the government formed a Transitional National Assembly to serve as the country's legislative body until countrywide elections to form a National Assembly could be held; the constitution stipulates that once past the transition stage, all National Assembly members will be elected by secret ballot of all eligible voters; National Assembly elections scheduled for December 2001 were postponed indefinitely due to the war with Ethiopia; as of 2024, no sitting legislative body exists<br>
+<strong>note:</strong> in 1997, after the new constitution was adopted, the government formed a Transitional National Assembly to serve as the country's legislative body until countrywide elections to form a National Assembly could be held; the constitution stipulates that once past the transition stage, all National Assembly members will be elected by secret ballot of all eligible voters; National Assembly elections scheduled for December 2001 were postponed indefinitely due to the war with Ethiopia; as of 2025, no sitting legislative body exists<br>
 
 **Judicial branch**<br>
 _highest court(s)_: High Court (consists of 20 judges and organized into civil, commercial, criminal, labor, administrative, and customary sections)<br>

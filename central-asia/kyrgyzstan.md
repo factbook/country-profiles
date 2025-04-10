@@ -82,9 +82,9 @@ landlocked; entirely mountainous, dominated by the Tien Shan range; 94% of the c
 ## People and Society
 
 **Population**<br>
-_total_: 6,172,101<br>
+_total_: 6,172,101 (2024 est.)<br>
 _male_: 3,021,318<br>
-_female_: 3,150,783 (2024 est.)<br>
+_female_: 3,150,783<br>
 
 **Nationality**<br>
 _noun_: Kyrgyzstani(s)<br>
@@ -99,9 +99,6 @@ _major-language sample(s)_: <br>Дүйнөлүк фактылар китеби, 
 
 **Religions**<br>
 Muslim 90% (majority Sunni), Christian 7% (Russian Orthodox 3%), other 3% (includes Jewish, Buddhist, Baha'i) (2017 est.)<br>
-
-**Demographic profile**<br>
-<p>Kyrgyzstan is a sparsely populated country whose population is unevenly distributed.  More than 50% of the population lives in or around the two cities of Bishkek and Osh and their surrounding districts, which together account for about 12% of the country’s area.  Kyrgyzstan’s population continues to grow rapidly owing to its high fertility rate and the traditional preference for larger families, a low mortality rate, a growing share of women of reproductive age, and measures to support families with children. The country has a youthful age structure; over 45% of the population is under the age of 25 as of 2022.  Nevertheless, Kyrgyzstan is transitioning from an agricultural society with high fertility and mortality rates to an industrial society with lower fertility and mortality rates.</p> <p>As part of the USSR, Kyrgyzstan’s rapid population growth was not problematic because its needs were redistributed among the Soviet States.  As an independent state, however, population growth became burdensome.  International labor migration continues to serve as a safety valve that decreases pressure on the labor market and resources (healthcare, education, and pensions), while also reducing poverty through much-needed remittances.  The main destinations for labor migrants are Russia and Kazakhstan, where wages are higher; almost a third of Kyrgyzstan’s working-age population migrates to Russia alone.  Outmigration was most pronounced in the 1990s, after the collapse of the USSR, when ethnic Russians, Ukrainians, and Germans left Kyrgyzstan, changing the proportion of ethnic Kyrgyz in the country from barely 50% in 1992 to almost three-quarters today.</p> <p>While Kyrgyzstan is a net emigration country, it does receive immigrants.  The majority of immigrants are from the Commonwealth of Independent States – particularly Kazakhstan, Russia, and Uzbekistan – but more recent arrivals also include persons from China, Turkey, and Turkmenistan.  Chinese immigrants work primarily in construction and gold mining, while Turkish immigrants mainly work in construction, trade, education, and services.  Border areas between Kyrgyzstan, Tajikistan, and Uzbekistan experience irregular migration, but many of these migrants plan to move on to Europe.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 29.1% (male 922,086/female 873,245)<br>
@@ -299,7 +296,7 @@ _conventional long form_: Kyrgyz Republic<br>
 _conventional short form_: Kyrgyzstan<br>
 _local long form_: Kyrgyz Respublikasy<br>
 _local short form_: Kyrgyzstan<br>
-_etymology_: a combination of the Turkic words "kyrg" (forty) and "-yz" (tribes) with the Persian suffix "-stan" (country) creating the meaning "Land of the Forty Tribes"; the name refers to the 40 clans united by the mythic Kyrgyz hero, MANAS<br>
+_etymology_: named for the local Kyrgyz people, with "-stan" coming from the Persian word <em>ostan</em>, meaning "country;" the Kyrgyz name may derive from the Turkic root words <em>kir</em>, or "steppe," and <em>gismek</em>, "to wander;" the name is traditionally said to come from a combination of the Turkic words <em>kyrg </em>(forty) and -<em>is </em>(hundred), based on a tale about two tribes and the number of their tents<br>
 
 **Government type**<br>
 parliamentary republic<br>

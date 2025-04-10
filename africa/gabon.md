@@ -81,9 +81,9 @@ a small population and oil and mineral reserves have helped Gabon become one of 
 ## People and Society
 
 **Population**<br>
-_total_: 2,455,105<br>
+_total_: 2,455,105 (2024 est.)<br>
 _male_: 1,270,023<br>
-_female_: 1,185,082 (2024 est.)<br>
+_female_: 1,185,082<br>
 
 **Nationality**<br>
 _noun_: Gabonese (singular and plural)<br>
@@ -97,9 +97,6 @@ French (official), Fang, Myene, Nzebi, Bapounou/Eschira, Bandjabi<br>
 
 **Religions**<br>
 Protestant 46.4% (Revival Church 37%, other Protestant 9.4%), Roman Catholic 29.8%, other Christian 4%, Muslim 10.8%, traditional/animist 1.1%, other 0.9%, none 7% (2019-21 est.)<br>
-
-**Demographic profile**<br>
-<p>Gabon’s oil revenues have given it one of the highest per capita income levels in Sub-Saharan Africa, but the wealth is not evenly distributed and poverty is widespread. Unemployment is especially prevalent among the large youth population; more than 60% of the population is under the age of 25 as of 2020. With a fertility rate still averaging more than 3 children per woman, the youth population will continue to grow and further strain the mismatch between Gabon’s supply of jobs and the skills of its labor force.</p> <p>Gabon has been a magnet to migrants from neighboring countries since the 1960s because of the discovery of oil, as well as the country’s political stability and timber, mineral, and natural gas resources. Nonetheless, income inequality and high unemployment have created slums in Libreville full of migrant workers from Senegal, Nigeria, Cameroon, Benin, Togo, and elsewhere in West Africa. In 2011, Gabon declared an end to refugee status for 9,500 remaining Congolese nationals to whom it had granted asylum during the Republic of the Congo’s civil war between 1997 and 2003. About 5,400 of these refugees received permits to reside in Gabon.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 34.6% (male 429,133/female 421,120)<br>

@@ -74,9 +74,9 @@ strategic location 500 km from west coast of Africa near major north-south sea r
 ## People and Society
 
 **Population**<br>
-_total_: 611,014<br>
+_total_: 611,014 (2024 est.)<br>
 _male_: 297,106<br>
-_female_: 313,908 (2024 est.)<br>
+_female_: 313,908<br>
 
 **Nationality**<br>
 _noun_: Cabo Verdean(s)<br>
@@ -90,9 +90,6 @@ Portuguese (official), Crioulo (a Portuguese-based creole language with two main
 
 **Religions**<br>
 Roman Catholic 72.5%, Protestant 4% (includes Adventist 1.9%, Nazarene 1.8%, Assembly of God 0.2%, God is Love 0.1%), Christian Rationalism 1.7%, Muslim 1.3%, Jehovah's Witness 1.2%, Church of Jesus Christ 1%, other Christian 1.3%, other 1.2%, none 15.6%, no response 0.4% (2021 est.)<br>
-
-**Demographic profile**<br>
-<p>Cabo Verde’s population descends from its first permanent inhabitants in the late 15th-century – a preponderance of West African slaves, a small share of Portuguese colonists, and even fewer Italians, Spaniards, and Portuguese Jews. Over the centuries, the country’s overall population size has fluctuated significantly, as recurring periods of famine and epidemics have caused high death tolls and emigration.</p><p>Labor migration historically reduced Cabo Verde’s population growth and still provides a key source of income through remittances. Expatriates probably outnumber Cabo Verde’s resident population, with most families having a member abroad. Cabo Verdeans have settled in the US, Europe, Africa, and South America. The largest diaspora community in New Bedford, Massachusetts, dating to the early 1800s, is a byproduct of the transatlantic whaling industry. Cabo Verdean men fleeing poverty at home joined the crews of US whaling ships that stopped in the islands. Many settled in New Bedford and stayed in the whaling or shipping trade, worked in the textile or cranberry industries, or operated their own transatlantic packet ships that transported compatriots to the US. Increased Cabo Verdean emigration to the US coincided with the gradual and eventually complete abolition of slavery in the archipelago in 1878.</p><p>During the same period, Portuguese authorities coerced Cabo Verdeans to go to Sao Tome and Principe and other Portuguese colonies in Africa to work as indentured laborers on plantations. In the 1920s, when the US implemented immigration quotas, Cabo Verdean emigration shifted toward Portugal, West Africa (Senegal), and South America (Argentina). Growing numbers of Cabo Verdean labor migrants headed to Western Europe in the 1960s and 1970s. They filled unskilled jobs in Portugal, as many Portuguese sought out work opportunities in the more prosperous economies of northwest Europe. Cabo Verdeans eventually expanded their emigration to the Netherlands, where they worked in the shipping industry. Migration to the US resumed under relaxed migration laws. Cabo Verdean women also began migrating to southern Europe to become domestic workers, a trend that continues today and has shifted the gender balance of Cabo Verdean emigration.</p><p>Emigration has declined in more recent decades due to the adoption of more restrictive migration policies in destination countries. Reduced emigration along with a large youth population, decreased mortality rates, and increased life expectancies, has boosted population growth, putting further pressure on domestic employment and resources. In addition, Cabo Verde has attracted increasing numbers of migrants in recent decades, consisting primarily of people from West Africa, Portuguese-speaking African countries, Portugal, and China. Since the 1990s, some West African migrants have used Cabo Verde as a stepping stone for illegal migration to Europe.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 26.4% (male 80,973/female 80,129)<br>
@@ -627,7 +624,7 @@ _key ports_: Porto da Praia, Porto Grande<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Cabo Verdean Armed Forces (FACV): National Guard (GN; serves as the army and includes a small air component), Cabo Verde Coast Guard (Guardia Costeira de Cabo Verde, GCCV) (2024)<br>
+Cabo Verdean Armed Forces (FACV): National Guard (GN), Cabo Verde Coast Guard (Guardia Costeira de Cabo Verde, GCCV) (2025)<br>
 <strong>note:</strong>  the National Police are under the Ministry of Internal Affairs<br>
 
 **Military expenditures**<br>

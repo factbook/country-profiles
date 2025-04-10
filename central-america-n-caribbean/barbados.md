@@ -24,7 +24,7 @@ _land_: 430 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-2.5 times the size of Washington, DC<br>
+2.5 times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -72,9 +72,9 @@ easternmost Caribbean island<br>
 ## People and Society
 
 **Population**<br>
-_total_: 304,139<br>
+_total_: 304,139 (2024 est.)<br>
 _male_: 146,587<br>
-_female_: 157,552 (2024 est.)<br>
+_female_: 157,552<br>
 
 **Nationality**<br>
 _noun_: Barbadian(s) or Bajan (colloquial)<br>

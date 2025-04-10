@@ -25,7 +25,7 @@ _water_: 0 sq km<br>
 <strong>note:</strong> includes three island groups - Gilbert Islands, Line Islands, and Phoenix Islands - dispersed over about 3.5 million sq km (1.35 million sq mi)<br>
 
 **Area - comparative**<br>
-four times the size of Washington, DC<br>
+four times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -74,9 +74,9 @@ typhoons can occur any time, but usually November to March; occasional tornadoes
 ## People and Society
 
 **Population**<br>
-_total_: 116,545<br>
+_total_: 116,545 (2024 est.)<br>
 _male_: 56,364<br>
-_female_: 60,181 (2024 est.)<br>
+_female_: 60,181<br>
 
 **Nationality**<br>
 _noun_: I-Kiribati (singular and plural)<br>
@@ -270,7 +270,7 @@ _conventional short form_: Kiribati<br>
 _local long form_: Republic of Kiribati<br>
 _local short form_: Kiribati<br>
 _former_: Gilbert Islands<br>
-_etymology_: the name is the local pronunciation of "Gilberts," the former designation of the islands; originally named after explorer Thomas GILBERT, who mapped many of the islands in 1788<br>
+_etymology_: the name is the local pronunciation of "Gilbert," the former designation of the islands; originally named after explorer Thomas GILBERT, who mapped many of the islands in 1788<br>
 <strong>note:</strong> pronounced keer-ree-bahss<br>
 
 **Government type**<br>
@@ -512,23 +512,23 @@ _electrification - urban areas_: 86%<br>
 _electrification - rural areas_: 94.3% (2020 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 11,000 kW (2022 est.)<br>
-_consumption_: 26.225 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 5 million kWh (2022 est.)<br>
+_installed generating capacity_: 12,000 kW (2023 est.)<br>
+_consumption_: 27.388 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 5 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 84.5% of total installed capacity (2022 est.)<br>
-_solar_: 15.5% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 81.5% of total installed capacity (2023 est.)<br>
+_solar_: 18.5% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 500 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 500 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 78,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 78,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 81,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 81,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 8.403 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 8.578 million Btu/person (2023 est.)<br>
 
 ## Communications
 

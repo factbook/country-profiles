@@ -82,9 +82,9 @@ strategic location along Strait of Gibraltar; the only African nation to have bo
 ## People and Society
 
 **Population**<br>
-_total_: 37,387,585<br>
+_total_: 37,387,585 (2024 est.)<br>
 _male_: 18,664,263<br>
-_female_: 18,723,322 (2024 est.)<br>
+_female_: 18,723,322<br>
 
 **Nationality**<br>
 _noun_: Moroccan(s)<br>
@@ -102,9 +102,6 @@ _major-language sample(s)_: <br>كتاب ديال لحقائق متاع العا
 **Religions**<br>
 Muslim 99% (official; virtually all Sunni, &lt;0.1% Shia), other 1% (includes Christian, Jewish, and Baha'i); note - Jewish about 3,000-3,500 (2020 est.)<br>
 note: does not include data from the former Western Sahara<br>
-
-**Demographic profile**<br>
-<p>Morocco is undergoing a demographic transition. Its population is growing but at a declining rate, as people live longer and women have fewer children. Infant, child, and maternal mortality rates have been reduced through better health care, nutrition, hygiene, and vaccination coverage, although disparities between urban and rural and rich and poor households persist. Morocco’s shrinking child cohort reflects the decline of its total fertility rate from 5 in mid-1980s to 2.2 in 2010, which is a result of increased female educational attainment, higher contraceptive use, delayed marriage, and the desire for smaller families. Young adults (persons aged 15-29) make up almost 26% of the total population and represent a potential economic asset if they can be gainfully employed. Currently, however, many youths are unemployed because Morocco’s job creation rate has not kept pace with the growth of its working-age population. Most youths who have jobs work in the informal sector with little security or benefits.</p><p>During the second half of the 20th century, Morocco became one of the world’s top emigration countries, creating large, widely dispersed migrant communities in Western Europe. The Moroccan Government has encouraged emigration since its independence in 1956, both to secure remittances for funding national development and as an outlet to prevent unrest in rebellious (often Berber) areas. Although Moroccan labor migrants earlier targeted Algeria and France, the flood of Moroccan "guest workers" from the mid-1960s to the early 1970s spread widely across northwestern Europe to fill unskilled jobs in the booming manufacturing, mining, construction, and agriculture industries. Host societies and most Moroccan migrants expected this migration to be temporary, but deteriorating economic conditions in Morocco related to the 1973 oil crisis and tighter European immigration policies resulted in these stays becoming permanent.</p><p>A wave of family migration followed in the 1970s and 1980s, with a growing number of second generation Moroccans opting to become naturalized citizens of their host countries. Spain and Italy emerged as new destination countries in the mid-1980s, but their introduction of visa restrictions in the early 1990s pushed Moroccans increasingly to migrate either legally by marrying Moroccans already in Europe or illegally to work in the underground economy. Women began to make up a growing share of these labor migrants. At the same time, some higher-skilled Moroccans went to the US and Quebec, Canada.</p><p>In the mid-1990s, Morocco developed into a transit country for asylum seekers from Sub-Saharan Africa and illegal labor migrants from Sub-Saharan Africa and South Asia trying to reach Europe via southern Spain, Spain’s Canary Islands, or Spain’s North African enclaves, Ceuta and Melilla. Forcible expulsions by Moroccan and Spanish security forces have not deterred these illegal migrants or calmed Europe’s security concerns. Rabat remains unlikely to adopt an EU agreement to take back third-country nationals who have entered the EU illegally via Morocco. Thousands of other illegal migrants have chosen to stay in Morocco until they earn enough money for further travel or permanently as a "second-best" option. The launching of a regularization program in 2014 legalized the status of some migrants and granted them equal access to education, health care, and work, but xenophobia and racism remain obstacles.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 25.7% (male 4,898,154/female 4,701,786)<br>
@@ -320,7 +317,7 @@ _conventional short form_: Morocco<br>
 _local long form_: Al Mamlakah al Maghribiyah<br>
 _local short form_: Al Maghrib<br>
 _former_: French Protectorate in Morocco, Spanish Protectorate in Morocco, Ifni, Spanish Sahara, Western Sahara<br>
-_etymology_: the English name "Morocco" derives from, respectively, the Spanish and Portuguese names "Marruecos" and "Marrocos," which stem from "Marrakesh" the Latin name for the former capital of ancient Morocco; the Arabic name "Al Maghrib" translates as "The West"<br>
+_etymology_: the English name of Morocco derives from, respectively, the Spanish and Portuguese names Marruecos and Marrocos, which stem from Marrakesh, the Latin name for the former capital of ancient Morocco; the Arabic name, Al Maghrib, translates as "The West"<br>
 
 **Government type**<br>
 parliamentary constitutional monarchy<br>

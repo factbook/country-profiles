@@ -78,9 +78,9 @@ the mainland terrain is flat, boggy, and partly wooded; offshore lie more than 1
 ## People and Society
 
 **Population**<br>
-_total_: 1,193,791<br>
+_total_: 1,193,791 (2024 est.)<br>
 _male_: 563,079<br>
-_female_: 630,712 (2024 est.)<br>
+_female_: 630,712<br>
 
 **Nationality**<br>
 _noun_: Estonian(s)<br>

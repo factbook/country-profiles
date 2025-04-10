@@ -24,7 +24,7 @@ _land_: 2,235 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-slightly more than 12 times the size of Washington, DC<br>
+slightly more than 12 times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -72,9 +72,9 @@ important location at northern end of Mozambique Channel; the only Arab League c
 ## People and Society
 
 **Population**<br>
-_total_: 900,141<br>
+_total_: 900,141 (2024 est.)<br>
 _male_: 435,758<br>
-_female_: 464,383 (2024 est.)<br>
+_female_: 464,383<br>
 
 **Nationality**<br>
 _noun_: Comoran(s)<br>
@@ -89,9 +89,6 @@ Arabic (official), French (official), Shikomoro (official; similar to Swahili), 
 **Religions**<br>
 Muslim 98.1% (overwhelmingly Sunni Muslim, small Shia Muslim and Ahmadiyya Muslim populations), ethnic religionist 1.1%, Christian 0.6%, other 0.3% (2020 est.)<br>
 <strong>note:</strong> Sunni Islam is the state religion<br>
-
-**Demographic profile**<br>
-<p>Comoros’ population is a melange of Arabs, Persians, Indonesians, Africans, and Indians, and the much smaller number of Europeans that settled on the islands between the 8th and 19th centuries, when they served as a regional trade hub. The Arab and Persian influence is most evident in the islands’ overwhelmingly Muslim majority – about 98% of Comorans are Sunni Muslims. The country is densely populated, averaging nearly 350 people per square mile, although this varies widely among the islands, with Anjouan being the most densely populated.</p><p>Given the large share of land dedicated to agriculture and Comoros’ growing population, habitable land is becoming increasingly crowded. The combination of increasing population pressure on limited land and resources, widespread poverty, and poor job prospects motivates thousands of Comorans each year to attempt to illegally migrate using small fishing boats to the neighboring island of Mayotte, which is a French territory. The majority of legal Comoran migration to France came after Comoros’ independence from France in 1975, with the flow peaking in the mid-1980s.</p><p>At least 150,000 to 200,000 people of Comoran citizenship or descent live abroad, mainly in France, where they have gone seeking a better quality of life, job opportunities, higher education (Comoros has no universities), advanced health care, and to finance elaborate traditional wedding ceremonies (aada). Remittances from the diaspora are an economic mainstay, in 2013 representing approximately 25% of Comoros’ GDP and significantly more than the value of its exports of goods and services (only 15% of GDP). Grand Comore, Comoros’ most populous island, is both the primary source of emigrants and the main recipient of remittances. Most remittances are spent on private consumption, but this often goes toward luxury goods and the aada and does not contribute to economic development or poverty reduction. Although the majority of the diaspora is now French-born with more distant ties to Comoros, it is unclear whether they will sustain the current level of remittances.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 32.6% (male 146,480/female 146,626)<br>

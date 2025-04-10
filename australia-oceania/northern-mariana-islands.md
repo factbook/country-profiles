@@ -25,7 +25,7 @@ _water_: 0 sq km<br>
 <strong>note:</strong> consists of 14 islands including Saipan, Rota, and Tinian<br>
 
 **Area - comparative**<br>
-2.5 times the size of Washington, DC<br>
+2.5 times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -73,9 +73,9 @@ strategic location in the North Pacific Ocean<br>
 ## People and Society
 
 **Population**<br>
-_total_: 51,118<br>
+_total_: 51,118 (2024 est.)<br>
 _male_: 27,044<br>
-_female_: 24,074 (2024 est.)<br>
+_female_: 24,074<br>
 
 **Nationality**<br>
 _noun_: NA (US citizens)<br>

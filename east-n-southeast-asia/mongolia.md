@@ -80,9 +80,9 @@ landlocked; strategic location between China and Russia<br>
 ## People and Society
 
 **Population**<br>
-_total_: 3,281,676<br>
+_total_: 3,281,676 (2024 est.)<br>
 _male_: 1,595,596<br>
-_female_: 1,686,080 (2024 est.)<br>
+_female_: 1,686,080<br>
 
 **Nationality**<br>
 _noun_: Mongolian(s)<br>
@@ -295,7 +295,7 @@ _conventional short form_: Mongolia<br>
 _local long form_: none<br>
 _local short form_: Mongol Uls<br>
 _former_: Outer Mongolia, Mongolian People's Republic<br>
-_etymology_: the name means "Land of the Mongols" in Latin; the Mongolian name Mongol Uls translates as "Mongol State"<br>
+_etymology_: name comes from the Mongol people, whose name derives from the Mongol root word <em>mengu </em>or <em>mongu</em>, meaning "brave" or "unconquered;" the Mongolian name Mongol Uls translates as "Mongol State"<br>
 
 **Government type**<br>
 semi-presidential republic<br>

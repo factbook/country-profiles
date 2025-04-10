@@ -80,9 +80,9 @@ _fresh water lake(s)_: Lago General Carrera (shared with Argentina) - 2,240 sq k
 ## People and Society
 
 **Population**<br>
-_total_: 18,664,652<br>
+_total_: 18,664,652 (2024 est.)<br>
 _male_: 9,169,736<br>
-_female_: 9,494,916 (2024 est.)<br>
+_female_: 9,494,916<br>
 
 **Nationality**<br>
 _noun_: Chilean(s)<br>
@@ -98,9 +98,6 @@ _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indi
 
 **Religions**<br>
 Roman Catholic 42%, Evangelical 14%, other 6%, none 37% (2021 est.)<br>
-
-**Demographic profile**<br>
-<p>Chile is in the advanced stages of demographic transition and is becoming an aging society—with fertility below replacement level, low mortality rates, and life expectancy on par with developed countries. The share of older, those 65 and early, people may exceed 65% by 2065. Nevertheless, with its dependency ratio nearing its low point, Chile could benefit from its favorable age structure. It will need to keep its large working-age population productively employed, while preparing to provide for the needs of its growing proportion of elderly people, especially as women—the traditional caregivers—increasingly enter the workforce. Over the last two decades, Chile has made great strides in reducing its poverty rate, but income inequality remains persistent in large part because a lack of a lack of access to quality education.</p> <p>Chile has been both a country of emigration and immigration. After becoming independent in 1810, Chile began seeking out immigrants from Europe to establish factories and to populate the southern part of the country.  Following the two World Wars, fears of an influx of refugees prompted Chile to stop encouraging European immigration. However, Arab immigration increased between 1907 and 1940.  During the Pinochet dictatorship that began in 1973, hundreds of thousands of Chileans emigrated, adding to the thousands who had left in the 1950s.  At the same time, the repressiveness of the Pinochet regime discouraged the arrival of new immigrants.  With the return of democracy and improving economic stability in 1990, some emigrants returned and new immigrants arrived from other South American countries experiencing deteriorating economic and political conditions. Immigration became more diverse starting in the 2010s, with the arrival of Haitians and Colombians of African descent.  However, the largest group of recent immigrants are Venezuelans fleeing their country’s socio-economic and political crisis.  As of 2020, almost one-third of Chile’s immigrant population are Venezuelan, while other top source countries continue to be Peru, Haiti, and Colombia.  Nearly 1.5 million immigrants account for almost 9% of Chile’s total population, as of 2020.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 19.2% (male 1,822,908/female 1,751,528)<br>
@@ -692,8 +689,8 @@ _key ports_: Antofagasta, Bahia de Valdivia, Bahia de Valparaiso, Coronel, Iquiq
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Chile (Fuerzas Armadas de Chile): Chilean Army (Ejército de Chile), Chilean Navy (Armada de Chile, includes Marine Corps and Maritime Territory and Merchant Marine Directorate or Directemar), Chilean Air Force (Fuerza Aerea de Chile, FACh) (2024)<br>
-<strong>note 1: </strong>the Directemar is the country's coast guard<br> <br><strong>note 2:</strong> the National Police Force (Carabineros de Chile) are responsible to both the Ministry of Defense and the Ministry of the Interior and Public Security<br>
+Armed Forces of Chile (Fuerzas Armadas de Chile): Chilean Army (Ejército de Chile), Chilean Navy (Armada de Chile, includes Marine Corps and Maritime Territory and Merchant Marine Directorate or Directemar), Chilean Air Force (Fuerza Aerea de Chile, FACh) (2025)<br>
+<strong>note 1: </strong>the Directemar is the country's coast guard<br> <br><strong>note 2:</strong> the National Police Force (Carabineros de Chile) is responsible to both the Ministry of Defense and the Ministry of the Interior and Public Security<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2023 est.)<br>

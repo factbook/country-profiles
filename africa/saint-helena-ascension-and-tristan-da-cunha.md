@@ -25,7 +25,7 @@ _water_: 0 sq km<br>
 88 sq km Ascension Island, 184 sq km Tristan da Cunha island group (includes Tristan (98 sq km), Inaccessible, Nightingale, and Gough islands)<br>
 
 **Area - comparative**<br>
-slightly more than twice the size of Washington, DC<br>
+slightly more than twice the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -73,9 +73,9 @@ Saint Helena harbors at least 40 species of plants unknown elsewhere in the worl
 ## People and Society
 
 **Population**<br>
-_total_: 7,943<br>
+_total_: 7,943 (2024 est.)<br>
 _male_: 3,978<br>
-_female_: 3,965 (2024 est.)<br>
+_female_: 3,965<br>
 
 **Nationality**<br>
 _noun_: Saint Helenian(s)<br>
@@ -92,9 +92,6 @@ English<br>
 **Religions**<br>
 Protestant 69.4% (includes Anglican 63.2%, Baptist 2.3%, Salvation Army 2%, Seventh Day Adventist 1.9%), Jehovah's Witness 3.8%, Roman Catholic 2.2%, New Apostolic 1.6%, other Christian 1.4%, other 1.1%, none 9%, unspecified 11.4% (2021 est.)<br>
 <strong>note:</strong> data represent Saint Helena only<br>
-
-**Demographic profile**<br>
-<p>The vast majority of the population of Saint Helena, Ascension, and Tristan da Cunha live on Saint Helena. Ascension has no indigenous or permanent residents and is inhabited only by persons contracted to work on the island (mainly with the UK and US military or in the space and communications industries) or their dependents, while Tristan da Cunha – the main island in a small archipelago – has fewer than 300 residents. The population of Saint Helena consists of the descendants of 17th century British sailors and settlers from the East India Company, African slaves, and indentured servants and laborers from India, Indonesia, and China. Most of the population of Ascension are Saint Helenians, Britons, and Americans, while that of Tristan da Cunha descends from shipwrecked sailors and Saint Helenians.</p> <p>Change in Saint Helena’s population size is driven by net outward migration. Since the 1980s, Saint Helena’s population steadily has shrunk and aged as the birth rate has decreased and many working-age residents left for better opportunities elsewhere. The restoration of British citizenship in 2002 accelerated family emigration; from 1998 to 2008 alone, population declined by about 20%.</p> <p>In the 2010s, the population experienced some temporary growth, as foreigners and returning Saint Helenians, came to build an international airport, but numbers faded as the project reached completion and workers departed. With the airport fully operational, increased access to the remote island has the potential to boost tourism and fishing, provide more jobs for Saint Helenians domestically, and could encourage some ex-patriots to return home. In the meantime, however, Saint Helena, Ascension, and Tristan da Cunha have to contend with the needs of an aging population. The elderly population of the islands has risen from an estimated 9.4% in 1998 to 18% in 2022.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 14.3% (male 579/female 556)<br>

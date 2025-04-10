@@ -24,7 +24,7 @@ _land_: 0.44 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-about 0.7 times the size of the National Mall in Washington, DC<br>
+about 0.7 times the size of the National Mall in Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 3.4 km<br>
@@ -63,7 +63,7 @@ landlocked; an enclave in Rome, Italy; world's smallest state; beyond the territ
 ## People and Society
 
 **Population**<br>
-_total_: 1,000 (2022 est.)<br>
+_total_: 1,000 (2024)<br>
 
 **Nationality**<br>
 _noun_: none<br>
@@ -126,7 +126,7 @@ _conventional long form_: The Holy See (Vatican City State)<br>
 _conventional short form_: Holy See (Vatican City)<br>
 _local long form_: La Santa Sede (Stato della Citta del Vaticano)<br>
 _local short form_: Santa Sede (Citta del Vaticano)<br>
-_etymology_: "holy" comes from the Greek word "hera" meaning "sacred"; "see" comes from the Latin word "sedes" meaning "seat," and refers to the episcopal chair; the term "Vatican" derives from the hill Mons Vaticanus on which the Vatican is located and which comes from the Latin "vaticinari" (to prophesy), referring to the fortune tellers and soothsayers who frequented the area in Roman times<br>
+_etymology_: "holy" comes from the Greek word <em>hera</em>, meaning "sacred"; "see" comes from the Latin word <em>sedes</em>, meaning "seat," and refers to the episcopal chair; the name Vatican derives from the hill Mons Vaticanus on which the Vatican is located and which comes from the Latin <em>vates </em>(prophet), referring to the fortune tellers and soothsayers who frequented the area in Roman times<br>
 
 **Government type**<br>
 ecclesiastical elective monarchy; self-described as an "absolute monarchy"<br>

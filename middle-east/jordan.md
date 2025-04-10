@@ -303,7 +303,7 @@ _conventional short form_: Jordan<br>
 _local long form_: Al Mamlakah al Urduniyah al Hashimiyah<br>
 _local short form_: Al Urdun<br>
 _former_: Transjordan<br>
-_etymology_: named for the Jordan River, which makes up part of Jordan's northwest border<br>
+_etymology_: named for the Jordan River, which makes up part of Jordan's northwest border; the origin of the river's name is unclear, but it may come from a local word meaning "river"<br>
 
 **Government type**<br>
 parliamentary constitutional monarchy<br>

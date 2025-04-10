@@ -76,9 +76,9 @@ Pitch Lake, on Trinidad's southwestern coast, is the world's largest natural res
 ## People and Society
 
 **Population**<br>
-_total_: 1,408,966<br>
+_total_: 1,408,966 (2024 est.)<br>
 _male_: 708,260<br>
-_female_: 700,706 (2024 est.)<br>
+_female_: 700,706<br>
 
 **Nationality**<br>
 _noun_: Trinidadian(s), Tobagonian(s)<br>
@@ -319,7 +319,7 @@ _term in office_: 5 years<br>
 _most recent election date_: 8/10/2020<br>
 _parties elected and seats per party_: People's National Movement (PNM) (22); United National Congress (UNC) (19)<br>
 _percentage of women in chamber_: 26.8%<br>
-_expected date of next election_: August 2025<br>
+_expected date of next election_: April 2025<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate<br>

@@ -24,7 +24,7 @@ _land_: 2 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-about three times the size of the National Mall in Washington, DC<br>
+about three times the size of the National Mall in Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 6 km<br>
@@ -73,9 +73,9 @@ second-smallest independent state in the world (after the Holy See); smallest co
 ## People and Society
 
 **Population**<br>
-_total_: 31,813<br>
+_total_: 31,813 (2024 est.)<br>
 _male_: 15,366<br>
-_female_: 16,447 (2024 est.)<br>
+_female_: 16,447<br>
 
 **Nationality**<br>
 _noun_: Monegasque(s) or Monacan(s)<br>
@@ -240,7 +240,7 @@ _conventional long form_: Principality of Monaco<br>
 _conventional short form_: Monaco<br>
 _local long form_: Principaut&eacute; de Monaco<br>
 _local short form_: Monaco<br>
-_etymology_: founded as a Greek colony in the 6th century B.C., the name derives from two Greek words "monos" (single, alone) and "oikos" (house) to convey the sense of a people "living apart" or in a "single habitation"<br>
+_etymology_: founded as a Greek colony in the 6th century B.C., the name's origin is unclear; it could derive from the Greek term <em>monoikos</em> (solitary), the Ligurian word <em>monegu</em> (rock), or the Basque word <em>muno</em> (mountain)<br>
 
 **Government type**<br>
 constitutional monarchy<br>

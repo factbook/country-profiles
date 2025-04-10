@@ -74,9 +74,9 @@ strategic location on sea routes between the South Pacific Ocean, the Solomon Se
 ## People and Society
 
 **Population**<br>
-_total_: 726,799<br>
+_total_: 726,799 (2024 est.)<br>
 _male_: 370,970<br>
-_female_: 355,829 (2024 est.)<br>
+_female_: 355,829<br>
 
 **Nationality**<br>
 _noun_: Solomon Islander(s)<br>

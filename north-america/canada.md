@@ -90,9 +90,9 @@ vast majority of Canadians are positioned in a discontinuous band within approxi
 ## People and Society
 
 **Population**<br>
-_total_: 38,794,813<br>
+_total_: 38,794,813 (2024 est.)<br>
 _male_: 19,234,729<br>
-_female_: 19,560,084 (2024 est.)<br>
+_female_: 19,560,084<br>
 
 **Nationality**<br>
 _noun_: Canadian(s)<br>
@@ -368,12 +368,15 @@ _term in office_: 4 years<br>
 _most recent election date_: 9/20/2021<br>
 _parties elected and seats per party_: Liberal Party (160); Conservative Party (119); Bloc Québécois (BQ) (32); NDP-New Democratic Party (NDP) (25); Other (2)<br>
 _percentage of women in chamber_: 30.9%<br>
-_expected date of next election_: October 2025<br>
+_expected date of next election_: April 2025<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate<br>
 _number of seats_: 105 (all appointed)<br>
-_percentage of women in chamber_: 53.5%<br>
+_scope of elections_: Full renewal<br>
+_most recent election date_: 11/8/2020<br>
+_parties elected and seats per party_: National League for Democracy (NLD) (258); Union Solidarity and Development Party (USDP) (26); Other (31)<br>
+_percentage of women in chamber_: 54.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Canada (consists of the chief justice and 8 judges)<br>
@@ -713,8 +716,8 @@ _key ports_: Argentia, Canaport (St. John), Halifax, Hamilton, Montreal, New Wes
 ## Military and Security
 
 **Military and security forces**<br>
-Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force; Department of Fisheries and Oceans: Coast Guard (2024)<br>
-<strong>note 1: </strong>the CAF is comprised of both a Regular Force and a Reserve Force; the Reserve Force is part of all three services (Army, Navy, and Air Force) and is considered an integral component of the CAF; reservists are primarily part-time service positions; they may volunteer for full-time employment or deployment on operations; they typically serve one or more evenings a week and/or during weekends at locations close to home; the Reserve Force is comprised of the Primary Reserve, Canadian Rangers, Cadet Organizations Administration and Training Service, and the Supplementary Reserve; the Canadian Rangers are part of the Army Reserve Force and provide a limited presence in Canada's northern, coastal, and isolated areas for sovereignty, public safety, and surveillance roles <br><br><strong>note 2: </strong>the Royal Canadian Mounted Police (RCMP or "Mounties") are under the Department of Public Safety; only Ontario, Quebec, and Newfoundland and Labrador have provincial police forces, but the Royal Newfoundland Constabulary contracts policing in regions of the province to the RCMP; the RCMP and municipal forces provide coverage for other provinces and territories; some Indigenous reserves provide Indigenous policing; provincial and municipal police report to their respective provincial authorities<br>
+Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force (2025)<br>
+<strong>note 1: </strong>the CAF is comprised of both a Regular Force and a Reserve Force; the Reserve Force is comprised of the Primary Reserve, Canadian Rangers, Cadet Organizations Administration and Training Service, and the Supplementary Reserve; the Canadian Rangers are part of the Army Reserve Force and provide a limited presence in Canada's northern, coastal, and isolated areas for sovereignty, public safety, and surveillance roles <br><br><strong>note 2: </strong>the Royal Canadian Mounted Police (RCMP or "Mounties") is under the Department of Public Safety; the Coast Guard is under the Department of Fisheries and Oceans<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2024)<br>
@@ -724,8 +727,7 @@ Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force; D
 1.4% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 70,000 active armed forces personnel (23,000 Army; 12,000 Navy; 12,000 Air Force; 23,000 other) (2024)<br>
-<strong>note:</strong> the Army also has approximately 19,000 part-time volunteer soldiers in the Reserve Force, including about 5,500 Rangers<br>
+the authorized target strength of the CAF Regular Force is 71,500 personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the CAF's inventory is a mix of domestically produced equipment and imported weapons systems from Australia, Europe, Israel, and the US; in recent years, the leading supplier has been the US; Canada's defense industry develops, maintains, and produces a range of equipment, including aircraft, combat vehicles, naval vessels, and associated components (2024)<br>

@@ -76,9 +76,9 @@ within Bosnia and Herzegovina's recognized borders, the country is divided into 
 ## People and Society
 
 **Population**<br>
-_total_: 3,798,671<br>
+_total_: 3,798,671 (2024 est.)<br>
 _male_: 1,852,164<br>
-_female_: 1,946,507 (2024 est.)<br>
+_female_: 1,946,507<br>
 
 **Nationality**<br>
 _noun_: Bosnian(s), Herzegovinian(s)<br>
@@ -669,7 +669,7 @@ _key ports_: Neum<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Bosnia and Herzegovina (AFBiH or Oruzanih Snaga Bosne i Hercegovine, OSBiH): Army, Air, Air Defense forces organized into an Operations Command and a Support Command<br><br>Ministry of Security: Border Police (2024)<br>
+Armed Forces of Bosnia and Herzegovina (AFBiH or Oruzanih Snaga Bosne i Hercegovine, OSBiH): Army, Air, Air Defense forces organized into an Operations Command and a Support Command<br><br>Ministry of Security: Border Police (2025)<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2023 est.)<br>

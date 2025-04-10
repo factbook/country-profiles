@@ -82,9 +82,9 @@ landlocked; most of the country is intensively cultivated and rugged, with the p
 ## People and Society
 
 **Population**<br>
-_total_: 13,623,302<br>
+_total_: 13,623,302 (2024 est.)<br>
 _male_: 6,684,655<br>
-_female_: 6,938,647 (2024 est.)<br>
+_female_: 6,938,647<br>
 
 **Nationality**<br>
 _noun_: Rwandan(s)<br>
@@ -99,9 +99,6 @@ _major-language sample(s)_: <br>Inkoranya nzimbuzi y'isi, isoko fatizo y'amakuru
 
 **Religions**<br>
 Christian 95.9% (Protestant 57.7% [includes Adventist 12.6%], Roman Catholic 38.2%), Muslim 2.1%, other 1% (includes traditional, Jehovah's Witness), none 1.1% (2019-20 est.)<br>
-
-**Demographic profile**<br>
-<p>Rwanda’s fertility rate declined sharply during the last decade, as a result of the government’s commitment to family planning, the increased use of contraceptives, and a downward trend in ideal family size. Increases in educational attainment, particularly among girls, and exposure to social media also contributed to the reduction in the birth rate. The average number of births per woman decreased from a 5.6 in 2005 to 4.5 in 2016 and 3.3 in 2022. Despite these significant strides in reducing fertility, Rwanda’s birth rate remains very high and will continue to for an extended period of time because of its large population entering reproductive age. Because Rwanda is one of the most densely populated countries in Africa, its persistent high population growth and increasingly small agricultural landholdings will put additional strain on families’ ability to raise foodstuffs and access potable water. These conditions will also hinder the government’s efforts to reduce poverty and prevent environmental degradation.</p> <p>The UNHCR recommended that effective 30 June 2013 countries invoke a cessation of refugee status for those Rwandans who fled their homeland between 1959 and 1998, including the 1994 genocide, on the grounds that the conditions that drove them to seek protection abroad no longer exist. The UNHCR’s decision is controversial because many Rwandan refugees still fear persecution if they return home, concerns that are supported by the number of Rwandans granted asylum since 1998 and by the number exempted from the cessation. Rwandan refugees can still seek an exemption or local integration, but host countries are anxious to send the refugees back to Rwanda and are likely to avoid options that enable them to stay. Conversely, Rwanda itself hosts approximately 125,000 refugees as of 2022; virtually all of them fleeing conflict in neighboring Burundi and the Democratic Republic of the Congo.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 37.2% (male 2,561,884/female 2,508,218)<br>

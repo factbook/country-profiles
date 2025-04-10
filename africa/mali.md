@@ -86,9 +86,9 @@ landlocked; divided into three natural zones: the southern, cultivated Sudanese;
 ## People and Society
 
 **Population**<br>
-_total_: 21,990,607<br>
+_total_: 21,990,607 (2024 est.)<br>
 _male_: 10,688,755<br>
-_female_: 11,301,852 (2024 est.)<br>
+_female_: 11,301,852<br>
 
 **Nationality**<br>
 _noun_: Malian(s)<br>
@@ -103,9 +103,6 @@ Bambara (official), French 17.2%, Peuhl/Foulfoulbe/Fulani 9.4%, Dogon 7.2%, Mara
 
 **Religions**<br>
 Muslim 93.9%, Christian 2.8%, animist 0.7%, none 2.5% (2018 est.)<br>
-
-**Demographic profile**<br>
-<p>Mali’s total population is expected to double by 2035; its capital Bamako is one of the fastest-growing cities in Africa. A young age structure, a declining mortality rate, and a sustained high total fertility rate of 5.5 children per woman – the fourth highest in the world, as of 2022 – ensure continued rapid population growth for the foreseeable future. Significant outmigration only marginally tempers this growth. Despite decreases, Mali’s infant, child, and maternal mortality rates remain among the highest in Sub-Saharan Africa because of limited access to and adoption of family planning, early childbearing, short birth intervals, the prevalence of female genital cutting, infrequent use of skilled birth attendants, and a lack of emergency obstetrical and neonatal care.</p> <p>Mali’s high total fertility rate has been virtually unchanged for decades, as a result of the ongoing preference for large families, early childbearing, the lack of female education and empowerment, poverty, and extremely low contraceptive use. Slowing Mali’s population growth by lowering its birth rate will be essential for poverty reduction, improving food security, and developing human capital and the economy.</p> <p>Mali has a long history of seasonal migration and emigration driven by poverty, conflict, demographic pressure, unemployment, food insecurity, and droughts. Many Malians from rural areas migrate during the dry period to nearby villages and towns to do odd jobs or to adjoining countries to work in agriculture or mining. Pastoralists and nomads move seasonally to southern Mali or nearby coastal states. Others migrate long term to Mali’s urban areas, Cote d’Ivoire, other neighboring countries, and in smaller numbers to France, Mali’s former colonial ruler. Since the early 1990s, Mali’s role has grown as a transit country for regional migration flows and illegal migration to Europe. Human smugglers and traffickers exploit the same regional routes used for moving contraband drugs, arms, and cigarettes.</p> <p>Between early 2012 and 2013, renewed fighting in northern Mali between government forces and Tuareg secessionists and their Islamist allies, a French-led international military intervention, as well as chronic food shortages, caused the displacement of hundreds of thousands of Malians. Most of those displaced domestically sought shelter in urban areas of southern Mali, except for pastoralist and nomadic groups, who abandoned their traditional routes, gave away or sold their livestock, and dispersed into the deserts of northern Mali or crossed into neighboring countries. Almost all Malians who took refuge abroad (mostly Tuareg and Maure pastoralists) stayed in the region, largely in Mauritania, Niger, and Burkina Faso.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 46.8% (male 5,175,714/female 5,114,128)<br>
@@ -312,7 +309,7 @@ _conventional short form_: Mali<br>
 _local long form_: R&eacute;publique de Mali<br>
 _local short form_: Mali<br>
 _former_: French Sudan, Sudanese Republic, Mali Federation<br>
-_etymology_: name derives from the West African Mali Empire of the 13th to 16th centuries A.D.<br>
+_etymology_: name derives from the Mali Empire of the 13th to 16th centuries A.D.; the Mali name may come from a local ethnic group, the Malinke, whose name is derived from the words <em>ma</em>, meaning "mother," and <em>dink</em>, meaning "child" -- a reference to the matrilinear descent of Malinke families<br>
 
 **Government type**<br>
 semi-presidential republic<br>
@@ -558,8 +555,8 @@ refined petroleum, broadcasting equipment, cement, cotton fabric, plastic produc
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$647.8 million (31 December 2017 est.)<br>
-$395.7 million (31 December 2016 est.)<br>
+$647.8 million (2017 est.)<br>
+$395.7 million (2016 est.)<br>
 
 **Debt - external**<br>
 $4.535 billion (2023 est.)<br>

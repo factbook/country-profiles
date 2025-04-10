@@ -73,9 +73,9 @@ smallest country in continental Asia; Nahr el Litani is the only major river in 
 ## People and Society
 
 **Population**<br>
-_total_: 5,364,482<br>
+_total_: 5,364,482 (2024 est.)<br>
 _male_: 2,678,543<br>
-_female_: 2,685,939 (2024 est.)<br>
+_female_: 2,685,939<br>
 
 **Nationality**<br>
 _noun_: Lebanese (singular and plural)<br>
@@ -283,7 +283,7 @@ _conventional short form_: Lebanon<br>
 _local long form_: Al Jumhuriyah al Lubnaniyah<br>
 _local short form_: Lubnan<br>
 _former_: Greater Lebanon<br>
-_etymology_: derives from the Semitic root "lbn" meaning "white" and refers to snow-capped Mount Lebanon<br>
+_etymology_: derives from the Semitic root <em>lbn, </em>meaning "white," and probably refers to the country's snow-capped mountains<br>
 
 **Government type**<br>
 parliamentary democratic republic<br>

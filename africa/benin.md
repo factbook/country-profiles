@@ -78,9 +78,9 @@ sandbanks create difficult access to a coast with no natural harbors, river mout
 ## People and Society
 
 **Population**<br>
-_total_: 14,697,052<br>
+_total_: 14,697,052 (2024 est.)<br>
 _male_: 7,253,258<br>
-_female_: 7,443,794 (2024 est.)<br>
+_female_: 7,443,794<br>
 
 **Nationality**<br>
 _noun_: Beninese (singular and plural)<br>
@@ -94,9 +94,6 @@ Fon and related 38.4%, Adja and related 15.1%, Yoruba and related 12%, Bariba an
 
 **Religions**<br>
 Muslim 27.7%, Roman Catholic 25.5%, Protestant 13.5% (Celestial 6.7%, Methodist 3.4%, other Protestant 3.4%), Vodoun 11.6%, other Christian 9.5%, other traditional religions 2.6%, other 2.6%, none 5.8% (2013 est.)<br>
-
-**Demographic profile**<br>
-<p>Benin has a youthful age structure – almost 65% of the population is under the age of 25 as of 2022 – which is bolstered by high fertility and population growth rates. Benin’s total fertility has been falling over time but remains high, declining from almost 7 children per women in 1990 to 5.4 in 2022. Benin’s low contraceptive use and high unmet need for contraception contribute to the sustained high fertility rate. Although the majority of Beninese women use skilled health care personnel for antenatal care and delivery, the high rate of maternal mortality indicates the need for more access to high quality obstetric care.</p> <p>Poverty, unemployment, increased living costs, and dwindling resources increasingly drive the Beninese to migrate. An estimated 4.4 million, more than 30%, of Beninese live abroad. Virtually all Beninese emigrants move to West African countries, particularly Nigeria and Cote d’Ivoire. Of the less than 1% of Beninese emigrants who settle in Europe, the vast majority live in France, Benin’s former colonial ruler.</p> <p>With about 40% of the population living below the poverty line as of 2019, many desperate parents resort to sending their children to work in wealthy households as domestic servants (a common practice known as vidomegon), mines, quarries, or agriculture domestically or in Nigeria and other neighboring countries, often under brutal conditions. Unlike in other West African countries, where rural people move to the coast, farmers from Benin’s densely populated southern and northwestern regions move to the historically sparsely populated central region to pursue agriculture. Immigrants from West African countries came to Benin in increasing numbers between 1992 and 2002 because of its political stability and porous borders.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 45.3% (male 3,360,027/female 3,294,201)<br>
@@ -541,8 +538,8 @@ rice, refined petroleum, palm oil, poultry, cars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$698.9 million (31 December 2017 est.)<br>
-$57.5 million (31 December 2016 est.)<br>
+$698.9 million (2017 est.)<br>
+$57.5 million (2016 est.)<br>
 
 **Debt - external**<br>
 $6.792 billion (2023 est.)<br>
@@ -667,7 +664,7 @@ _key ports_: Cotonou<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Beninese Armed Forces (Forces Armees Beninoises, FAB; aka Benin Defense Forces): Land Force, Air Force, National Navy, National Guard (aka Republican Guard)<br><br>Ministry of Interior and Public Security: Republican Police (Police Republicaine, DGPR) (2024)<br>
+Beninese Armed Forces (Forces Armees Beninoises, FAB; aka Benin Defense Forces): Army, Air Force, National Navy, National Guard (aka Republican Guard)<br><br>Ministry of Interior and Public Security: Republican Police (Police Republicaine, DGPR) (2025)<br>
 <strong>note:</strong> FAB is under the Ministry of Defense and is responsible for external security and supporting the DGPR in maintaining internal security, which has primary responsibility for enforcing law and maintaining order; the DGPR was formed in 2018 through a merger of police and gendarmes<br>
 
 **Military expenditures**<br>
@@ -678,7 +675,7 @@ Beninese Armed Forces (Forces Armees Beninoises, FAB; aka Benin Defense Forces):
 0.5% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 12,000 active-duty troops, including about 3,000 National Guard; estimated 5,000 Republican Police (2024)<br>
+approximately 12,000 active-duty troops, including about 3,000 National Guard (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAB is equipped with a small mix of mostly older or secondhand French, Soviet-era, and US equipment; in recent years, the EU, France, and the US have provided it with limited amounts of newer military hardware such as armored vehicles and helicopters (2024)<br>

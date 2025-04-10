@@ -24,7 +24,7 @@ _land_: 606 sq km<br>
 _water_: 10 sq km<br>
 
 **Area - comparative**<br>
-three and a half times the size of Washington, DC<br>
+three and a half times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -74,9 +74,9 @@ the twin Pitons (Gros Piton and Petit Piton), striking cone-shaped peaks south o
 ## People and Society
 
 **Population**<br>
-_total_: 168,038<br>
+_total_: 168,038 (2024 est.)<br>
 _male_: 81,517<br>
-_female_: 86,521 (2024 est.)<br>
+_female_: 86,521<br>
 
 **Nationality**<br>
 _noun_: Saint Lucian(s)<br>

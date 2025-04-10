@@ -78,9 +78,9 @@ strategic location on eastern end of isthmus forming land bridge connecting Nort
 ## People and Society
 
 **Population**<br>
-_total_: 4,470,241<br>
+_total_: 4,470,241 (2024 est.)<br>
 _male_: 2,251,257<br>
-_female_: 2,218,984 (2024 est.)<br>
+_female_: 2,218,984<br>
 
 **Nationality**<br>
 _noun_: Panamanian(s)<br>
@@ -95,9 +95,6 @@ _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indi
 
 **Religions**<br>
 Evangelical 55%, Roman Catholic 33.4%, none 10.1%, unspecified 1.5% (2023 est.)<br>
-
-**Demographic profile**<br>
-<p>Panama is a country of demographic and economic contrasts. It is in the midst of a demographic transition, characterized by steadily declining rates of fertility, mortality, and population growth, but disparities persist based on wealth, geography, and ethnicity. Panama has one of the fastest growing economies in Latin America and dedicates substantial funding to social programs, yet poverty and inequality remain prevalent. The indigenous population accounts for a growing share of Panama's poor and extreme poor, while the non-indigenous rural poor have been more successful at rising out of poverty through rural-to-urban labor migration. The government's large expenditures on untargeted, indirect subsidies for water, electricity, and fuel have been ineffective, but its conditional cash transfer program has shown some promise in helping to decrease extreme poverty among the indigenous population.</p><p>Panama has expanded access to education and clean water, but the availability of sanitation and, to a lesser extent, electricity remains poor. The increase in secondary schooling - led by female enrollment - is spreading to rural and indigenous areas, which probably will help to alleviate poverty if educational quality and the availability of skilled jobs improve. Inadequate access to sanitation contributes to a high incidence of diarrhea in Panama's children, which is one of the main causes of Panama's elevated chronic malnutrition rate, especially among indigenous communities.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 25% (male 574,336/female 544,180)<br>

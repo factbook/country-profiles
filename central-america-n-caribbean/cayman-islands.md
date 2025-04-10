@@ -24,7 +24,7 @@ _land_: 264 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-1.5 times the size of Washington, DC<br>
+1.5 times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -73,9 +73,9 @@ important location between Cuba and Central America<br>
 ## People and Society
 
 **Population**<br>
-_total_: 66,653<br>
+_total_: 66,653 (2024 est.)<br>
 _male_: 32,379<br>
-_female_: 34,274 (2024 est.)<br>
+_female_: 34,274<br>
 
 **Nationality**<br>
 _noun_: Caymanian(s)<br>

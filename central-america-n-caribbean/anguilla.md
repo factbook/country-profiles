@@ -24,7 +24,7 @@ _land_: 91 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-about one-half the size of Washington, DC<br>
+about one-half the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -73,9 +73,9 @@ the most northerly of the Leeward Islands in the Lesser Antilles<br>
 ## People and Society
 
 **Population**<br>
-_total_: 19,416<br>
+_total_: 19,416 (2024 est.)<br>
 _male_: 9,107<br>
-_female_: 10,309 (2024 est.)<br>
+_female_: 10,309<br>
 
 **Nationality**<br>
 _noun_: Anguillan(s)<br>
@@ -363,8 +363,8 @@ poultry, copper ore, natural gas, refined petroleum, fish (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$76.38 million (31 December 2017 est.)<br>
-$48.14 million (31 December 2015 est.)<br>
+$76.38 million (2017 est.)<br>
+$48.14 million (2015 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>

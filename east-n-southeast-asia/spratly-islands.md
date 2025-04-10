@@ -25,7 +25,7 @@ _water_: 0 sq km<br>
 <strong>note:</strong> includes 100 or so islets, coral reefs, and sea mounts scattered over an area of nearly 410,000 sq km (158,000 sq mi) of the central South China Sea<br>
 
 **Area - comparative**<br>
-land area is about seven times the size of the National Mall in Washington, DC<br>
+land area is about seven times the size of the National Mall in Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -61,7 +61,7 @@ strategically located near several primary shipping lanes in the central South C
 ## People and Society
 
 **Population**<br>
-_total_: (July 2021 est.) no indigenous inhabitants<br>
+_total_: no indigenous inhabitants<br>
 <strong>note:</strong> scattered garrisons are occupied by military personnel of several claimant states<br>
 
 ## Environment

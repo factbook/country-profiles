@@ -76,9 +76,9 @@ landlocked; the only grand duchy in the world<br>
 ## People and Society
 
 **Population**<br>
-_total_: 671,254<br>
+_total_: 671,254 (2024 est.)<br>
 _male_: 338,702<br>
-_female_: 332,552 (2024 est.)<br>
+_female_: 332,552<br>
 
 **Nationality**<br>
 _noun_: Luxembourger(s)<br>
@@ -285,7 +285,7 @@ _conventional long form_: Grand Duchy of Luxembourg<br>
 _conventional short form_: Luxembourg<br>
 _local long form_: Grand Duch&eacute; de Luxembourg<br>
 _local short form_: Luxembourg<br>
-_etymology_: the name derives from the Celtic "lucilem" (little) and the German "burg" (castle or fortress) to produce the meaning of the "little castle"; the name is actually ironic, since for centuries the Fortress of Luxembourg was one of Europe's most formidable fortifications; the name passed to the surrounding city and then to the country itself<br>
+_etymology_: probably derived from an early Celtic or Germanic form of the name, Lucilinburhuc, that was thought to mean "little fortress;" the name first referred to the city and was later used for the country<br>
 
 **Government type**<br>
 constitutional monarchy<br>

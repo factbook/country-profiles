@@ -325,20 +325,20 @@ _Currency_: Falkland pounds (FKP) per US dollar -<br>
 ## Energy
 
 **Electricity**<br>
-_installed generating capacity_: 10,000 kW (2022 est.)<br>
-_consumption_: 19.957 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 900,000 kWh (2022 est.)<br>
+_installed generating capacity_: 10,000 kW (2023 est.)<br>
+_consumption_: 18.257 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 900,000 kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 67.9% of total installed capacity (2022 est.)<br>
-_wind_: 32.1% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 73.9% of total installed capacity (2023 est.)<br>
+_wind_: 26.1% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 300 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 200 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 38,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 38,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 36,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 36,000 metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

@@ -24,7 +24,7 @@ _land_: 28.2 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-less than one-sixth the size of Washington, DC<br>
+less than one-sixth the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 3 km<br>
@@ -69,9 +69,9 @@ essentially urban; an area of land reclaimed from the sea measuring 5.2 sq km an
 ## People and Society
 
 **Population**<br>
-_total_: 644,426<br>
+_total_: 644,426 (2024 est.)<br>
 _male_: 304,988<br>
-_female_: 339,438 (2024 est.)<br>
+_female_: 339,438<br>
 
 **Nationality**<br>
 _noun_: Chinese<br>
@@ -218,7 +218,7 @@ _conventional long form_: Macau Special Administrative Region<br>
 _conventional short form_: Macau<br>
 _official long form_: Aomen Tebie Xingzhengqu (Chinese)/ Regiao Administrativa Especial de Macau (Portuguese)<br>
 _official short form_: Aomen (Chinese)/ Macau (Portuguese)<br>
-_etymology_: name is thought to derive from the A-Ma Temple - built in 1488 and dedicated to Mazu, the goddess of seafarers and fishermen - which is referred to locally as "Maa Gok" - and in Portuguese became "Macau"; the Chinese name Aomen means "inlet gates"<br>
+_etymology_: name derived from the Chinese a<em>ma-gao</em>, or “Bay of Ama,” for Ama, the patron goddess of sailors<br>
 
 **Government type**<br>
 executive-led limited democracy; a special administrative region of the People's Republic of China<br>

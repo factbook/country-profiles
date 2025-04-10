@@ -24,7 +24,7 @@ _land_: 709.2 sq km<br>
 _water_: 10 sq km<br>
 
 **Area - comparative**<br>
-slightly more than 3.5 times the size of Washington, DC<br>
+slightly more than 3.5 times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -72,9 +72,9 @@ focal point for Southeast Asian sea routes; consists of about 60 islands, the la
 ## People and Society
 
 **Population**<br>
-_total_: 6,028,459<br>
+_total_: 6,028,459 (2024 est.)<br>
 _male_: 3,013,630<br>
-_female_: 3,014,829 (2024 est.)<br>
+_female_: 3,014,829<br>
 
 **Nationality**<br>
 _noun_: Singaporean(s)<br>
@@ -91,9 +91,6 @@ _major-language sample(s)_: <br>The World Factbook, the indispensable source for
 
 **Religions**<br>
 Buddhist 31.1%, Christian 18.9%, Muslim 15.6%, Taoist 8.8%, Hindu 5%, other 0.6%, none 20% (2020 est.)<br>
-
-**Demographic profile**<br>
-<p>Singapore has one of the lowest total fertility rates (TFR) in the world – an average of 1.15 children born per woman – and a rapidly aging population. Women’s expanded educations, widened aspirations, and a desire to establish careers has contributed to delayed marriage and smaller families. Most married couples have only one or two children in order to invest more in each child, including the high costs of education. In addition, more and more Singaporeans, particularly women, are staying single. Factors contributing to this trend are a focus on careers, long working hours, the high cost of living, and long waits for public housing. With fertility at such a low rate and rising life expectancy, the proportion of the population aged 65 or over is growing and the youth population is shrinking.  Singapore is projected to experience one of the largest percentage point increases in the elderly share of the population at 21% between 2019 and 2050, according to the UN. The working-age population (aged 15-64) will gradually decrease, leaving fewer workers to economically support the elderly population.</p> <p>Migration has played a key role in Singapore’s development. As Singapore’s economy expanded during the 19th century, more and more Chinese, Indian, and Malay labor immigrants arrived. Most of Singapore’s pre-World War II population growth was a result of immigration. During World War II, immigration came to a halt when the Japanese occupied the island but revived in the postwar years. Policy was restrictive during the 1950s and 1960s, aiming to protect jobs for residents by reducing the intake of low-skilled foreign workers and focusing instead on attracting professionals from abroad with specialist skills. Consequently, the nonresident share of Singapore’s population plummeted to less than 3%. </p> <p>As the country industrialized, however, it loosened restrictions on the immigration of manual workers.  From the 1980s through the 2000s, the foreign population continued to grow as a result of policies aimed at attracting foreign workers of all skill levels. More recently, the government has instituted immigration policies that target highly skilled workers. Skilled workers are encouraged to stay and are given the opportunity to become permanent residents or citizens. The country, however, imposes restrictions on unskilled and low-skilled workers to ensure they do not establish roots, including prohibiting them from bringing their families and requiring employers to pay a monthly foreign worker levy and security bond.  The country has also become increasingly attractive to international students. The growth of the foreign-born population has continued to be rapid; as of 2015, the foreign-born composed 46% of the total population.  At the same time, growing numbers of Singaporeans are emigrating for education and work experience in highly skilled sectors such finance, information technology, and medicine. Increasingly, the moves abroad are permanent.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 14.6% (male 455,536/female 424,969)<br>

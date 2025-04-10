@@ -25,7 +25,7 @@ _water_: 0 sq km<br>
 <strong>note:</strong> includes the two main islands of West Island and Home Island<br>
 
 **Area - comparative**<br>
-about 24 times the size of The Mall in Washington, DC<br>
+about 24 times the size of the National Mall in Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>

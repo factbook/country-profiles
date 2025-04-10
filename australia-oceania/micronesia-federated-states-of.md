@@ -25,7 +25,7 @@ _water_: 0 sq km (fresh water only)<br>
 <strong>note:</strong> includes Pohnpei (Ponape), Chuuk (Truk) Islands, Yap Islands, and Kosrae (Kosaie)<br>
 
 **Area - comparative**<br>
-four times the size of Washington, DC (land area only)<br>
+four times the size of Washington, D.C. (land area only)<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -73,9 +73,9 @@ composed of four major island groups totaling 607 islands<br>
 ## People and Society
 
 **Population**<br>
-_total_: 99,603<br>
+_total_: 99,603 (2024 est.)<br>
 _male_: 48,708<br>
-_female_: 50,895 (2024 est.)<br>
+_female_: 50,895<br>
 
 **Nationality**<br>
 _noun_: Micronesian(s)<br>
@@ -249,7 +249,7 @@ _local long form_: Federated States of Micronesia<br>
 _local short form_: none<br>
 _former_: New Philippines; Caroline Islands; Trust Territory of the Pacific Islands, Ponape, Truk, and Yap Districts<br>
 _abbreviation_: FSM<br>
-_etymology_: the term "Micronesia" is a 19th-century construct of two Greek words, "micro" (small) and "nesoi" (islands), and refers to thousands of small islands in the western Pacific Ocean<br>
+_etymology_: the name is a 19th-century construct of two Greek words, <em>mikros </em>(small) and <em>nesoi </em>(islands), and refers to its thousands of small islands in the western Pacific Ocean<br>
 
 **Government type**<br>
 federal republic in free association with the US<br>

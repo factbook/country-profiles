@@ -77,9 +77,9 @@ the country's length allows it to stretch through six distinct geographic region
 ## People and Society
 
 **Population**<br>
-_total_: 8,917,994<br>
+_total_: 8,917,994 (2024 est.)<br>
 _male_: 4,395,271<br>
-_female_: 4,522,723 (2024 est.)<br>
+_female_: 4,522,723<br>
 
 **Nationality**<br>
 _noun_: Togolese (singular and plural)<br>
@@ -94,9 +94,6 @@ French (official, language of commerce), Ewe and Mina (in the south), Kabye (som
 
 **Religions**<br>
 Christian 42.3%, folk religion 36.9%, Muslim 14%, Hindu &lt;1%, Buddhist &lt;1%, Jewish &lt;1%, other &lt;1%, none 6.2% (2020 est.)<br>
-
-**Demographic profile**<br>
-<p>Togo’s population is estimated to have grown to four times its size between 1960 and 2010. With nearly 60% of its populace under the age of 25 and a high annual growth rate attributed largely to high fertility, Togo’s population is likely to continue to expand for the foreseeable future. Reducing fertility, boosting job creation, and improving education will be essential to reducing the country’s high poverty rate. In 2008, Togo eliminated primary school enrollment fees, leading to higher enrollment but increased pressure on limited classroom space, teachers, and materials. Togo has a good chance of achieving universal primary education, but educational quality, the underrepresentation of girls, and the low rate of enrollment in secondary and tertiary schools remain concerns.</p> <p>Togo is both a country of emigration and asylum. In the early 1990s, southern Togo suffered from the economic decline of the phosphate sector and ethnic and political repression at the hands of dictator Gnassingbe EYADEMA and his northern, Kabye-dominated administration. The turmoil led 300,000 to 350,000 predominantly southern Togolese to flee to Benin and Ghana, with most not returning home until relative stability was restored in 1997. In 2005, another outflow of 40,000 Togolese to Benin and Ghana occurred when violence broke out between the opposition and security forces over the disputed election of EYADEMA’s son Faure GNASSINGBE to the presidency. About half of the refugees reluctantly returned home in 2006, many still fearing for their safety. Despite ethnic tensions and periods of political unrest, Togo in December 2022 was home to almost 8,400 refugees from Ghana.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 38.7% (male 1,749,533/female 1,699,084)<br>
@@ -362,6 +359,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 6 years<br>
 _most recent election date_: 2/15/2025<br>
 _parties elected and seats per party_: Union for the Republic (UNIR) (34); Independents (3); Other (4)<br>
+_percentage of women in chamber_: 24.6%<br>
 _expected date of next election_: February 2031<br>
 
 **Judicial branch**<br>
@@ -552,8 +550,8 @@ refined petroleum, garments, rice, palm oil, motorcycles and cycles (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$77.8 million (31 December 2017 est.)<br>
-$42.6 million (31 December 2016 est.)<br>
+$77.8 million (2017 est.)<br>
+$42.6 million (2016 est.)<br>
 
 **Debt - external**<br>
 $2.111 billion (2023 est.)<br>

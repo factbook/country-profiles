@@ -85,9 +85,9 @@ strategic location on the Persian Gulf and Strait of Hormuz, which are vital mar
 ## People and Society
 
 **Population**<br>
-_total_: 88,386,937<br>
+_total_: 88,386,937 (2024 est.)<br>
 _male_: 44,795,539<br>
-_female_: 43,591,398 (2024 est.)<br>
+_female_: 43,591,398<br>
 
 **Nationality**<br>
 _noun_: Iranian(s)<br>
@@ -299,7 +299,7 @@ _conventional short form_: Iran<br>
 _local long form_: Jomhuri-ye Eslami-ye Iran<br>
 _local short form_: Iran<br>
 _former_: Persia<br>
-_etymology_: name derives from the Avestan term "aryanam" meaning "Land of the Noble [Ones]"<br>
+_etymology_: the name derives from the Sanskrit word <em>arya</em>, referring to people living in a mountainous land, from the root word <em>ar</em>-, or "mountain;" the former name, Persia, was originally "Pars" (or the Arabic-influenced variant "Fars") from the Old Persian <em>parsi</em>, meaning "pure"<br>
 
 **Government type**<br>
 theocratic republic<br>
@@ -528,8 +528,8 @@ broadcasting equipment, vehicle parts/accessories, corn, soybeans, vehicle bodie
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$120.6 billion (31 December 2017 est.)<br>
-$133.7 billion (31 December 2016 est.)<br>
+$120.6 billion (2017 est.)<br>
+$133.7 billion (2016 est.)<br>
 
 **Debt - external**<br>
 $6.771 billion (2023 est.)<br>

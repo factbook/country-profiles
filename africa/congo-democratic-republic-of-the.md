@@ -87,9 +87,9 @@ urban clusters are spread throughout the country, particularly in the northeast 
 ## People and Society
 
 **Population**<br>
-_total_: 115,403,027<br>
+_total_: 115,403,027 (2024 est.)<br>
 _male_: 57,688,160<br>
-_female_: 57,714,867 (2024 est.)<br>
+_female_: 57,714,867<br>
 
 **Nationality**<br>
 _noun_: Congolese (singular and plural)<br>
@@ -104,9 +104,6 @@ _major-language sample(s)_: <br>Buku oyo ya bosembo ya Mokili Mobimba Ezali na M
 
 **Religions**<br>
 &nbsp;Christian 93/1% (Roman Catholic 29.9%, Protestant 26.7%, other Christian 36.5%), Kimbanguist 2.8%, Muslim 1.3%, other (includes syncretic sects and indigenous beliefs) 1.2%, none 1.3%, unspecified 0.2% (2014 est.)<br>
-
-**Demographic profile**<br>
-<p>Despite a wealth of fertile soil, hydroelectric power potential, and mineral resources, the Democratic Republic of the Congo (DRC) struggles with many socioeconomic problems, including high infant and maternal mortality rates, malnutrition, poor vaccination coverage, lack of access to improved water sources and sanitation, and frequent and early fertility. Ongoing conflict, mismanagement of resources, and a lack of investment have resulted in food insecurity; almost 25% of children under the age of 5 were malnourished as of 2018. The overall coverage of basic public services – education, health, sanitation, and potable water – is very limited and piecemeal, with substantial regional and rural/urban disparities. Fertility remains high at more than 5 children per woman and is likely to remain high because of the low use of contraception and the cultural preference for larger families.</p> <p>The DRC is a source and host country for refugees. Between 2012 and 2014, more than 119,000 Congolese refugees returned from the Republic of Congo to the relative stability of northwest DRC, but more than 1 million Congolese refugees and asylum seekers were hosted by neighboring countries as of December 2022. In addition, an estimated 5.5 million Congolese were internally displaced as of October 2022, the vast majority fleeing violence between rebel group and Congolese armed forces. Thousands of refugees have come to the DRC from neighboring countries, including Rwanda, the Central African Republic, South Sudan, and Burundi.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 45.7% (male 26,584,268/female 26,208,891)<br>
@@ -706,8 +703,8 @@ _key ports_: Banana, Boma, Matadi<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Republique Democratique du Congo, FARDC): Land Forces, National Navy (La Marine Nationale), Congolese Air Force (Force Aerienne Congolaise, FAC); Republican Guard<br><br>Ministry of Interior: Congolese National Police (2024)<br>
-<strong>note: </strong>the Republican Guard is a division-size element with armored and infantry units; it is regarded as the country’s most capable unit and is under the direct control of the president<br>
+Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Republique Democratique du Congo, FARDC): Land Forces (Forces Terrestres), National Navy (La Marine Nationale), Congolese Air Force (Force Aerienne Congolaise, FAC); Republican Guard (Garde Républicaine, GR)<br><br>Ministry of Interior: Congolese National Police (Police Nationale Congolaise, PNC) (2025)<br>
+<strong>note: </strong>the Republican Guard is a military unit under the direct control of the president<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2023 est.)<br>

@@ -70,9 +70,9 @@ landlocked; strategic location between China and India; controls several key Him
 ## People and Society
 
 **Population**<br>
-_total_: 884,546<br>
+_total_: 884,546 (2024 est.)<br>
 _male_: 457,665<br>
-_female_: 426,881 (2024 est.)<br>
+_female_: 426,881<br>
 
 **Nationality**<br>
 _noun_: Bhutanese (singular and plural)<br>
@@ -608,7 +608,7 @@ _urban_: 437 km<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Bhutan Army (RBA; includes Royal Bodyguard of Bhutan, or RBG, and an air wing); National Militia<br><br>Ministry of Home and Cultural Affairs: Royal Bhutan Police (2024)<br>
+Royal Bhutan Army (RBA; includes Royal Bodyguard of Bhutan, or RBG, and an air wing); National Militia<br><br>Ministry of Home and Cultural Affairs: Royal Bhutan Police (2025)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 7-8,000 active personnel (2024)<br>

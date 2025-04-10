@@ -85,9 +85,9 @@ subject to floods, rockslides, mudslides; periodic droughts<br>
 ## People and Society
 
 **Population**<br>
-_total_: 31,250,306<br>
+_total_: 31,250,306 (2024 est.)<br>
 _male_: 15,555,451<br>
-_female_: 15,694,855 (2024 est.)<br>
+_female_: 15,694,855<br>
 
 **Nationality**<br>
 _noun_: Venezuelan(s)<br>
@@ -102,9 +102,6 @@ _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indi
 
 **Religions**<br>
 Roman Catholic 48.1%, Protestant 31.6% (Evangelical 31.4%, Adventist 0.2%), Jehovah's Witness 1.4%, African American/umbanda 0.7%, other 0.1%, believer 3.5%, agnostic 0.1%, atheist, 0.4%, none 13.6%, unspecified 0.6% (2023 est.)<br>
-
-**Demographic profile**<br>
-<p>Venezuela’s ongoing socio-economic, political, and human rights crises have resulted in widespread poverty and food insecurity and have devastated the country’s healthcare system.  According to a 2018 national hospital survey, many hospitals were unable to provide basic services, and 20% of operating rooms and intensive care units were non-functional.  Hospitals reported shortages in water (79%), medicines (88%), and surgical supplies (79%).  The poor conditions in healthcare facilities have motivated many doctors and other health professionals to emigrate, resulting in shortages of specialists, particularly in emergency care.  The scarcity of medicines, vaccines, medical supplies, and mosquito controls is leading to a rise in infectious diseases.  Tuberculosis cases jumped by 68% between 2014 and 2017, and malaria rates had the largest rise in the world from 2016 to 2017 at 69%.  Diptheria, which had been eradicated in the country in 1999, re-emerged in 2016, and new cases have surfaced in 2023.  Infectious disease outbreaks, such as measles and malaria, have crossed into neighboring countries.  Infant mortality, which had been decreasing since the 1950s, has been on the rise since 2009.  Between 2015 and 2016, infant deaths increased 30%, while maternal mortality increased 65%.  </p> <p>As of November 2023, more than 7.7 million Venezuelan migrants, refugees, and asylum seekers had been reported by host governments, with approximately 85% relocating in Latin America and the Caribbean.  Colombia has been the largest recipient, accommodating almost 2.5 million as of February 2022, followed by Peru and Ecuador.  As of June 2022, almost 212,000 of the refugees and close to 1.04 million of the asylum seekers were recognized by national authorities.  An additional 4.3 million Venezuelans have been granted residence permits or other types of regular stay arrangements, as of March 2023.  The initial wave of migrants were highly educated professionals.  These were followed by university-educated young people.  As the economy collapsed in 2017-2018, Venezuelan migrants have been less-educated and from low-income households.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 25% (male 3,987,361/female 3,811,307)<br>
@@ -342,7 +339,7 @@ _term in office_: 5 years<br>
 _most recent election date_: 12/6/2020<br>
 _parties elected and seats per party_: Democratic Unity Roundtable alliance (MUD) (109); United Socialist Party of Venezuela (PSUV) (55)<br>
 _percentage of women in chamber_: 32.1%<br>
-_expected date of next election_: April 2025<br>
+_expected date of next election_: May 2025<br>
 <strong>note:</strong> in 2020, the National Electoral Council increased the number of seats in the National Assembly from 167 to 277 for the December 2020 election<br>
 
 **Judicial branch**<br>

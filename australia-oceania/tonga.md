@@ -24,7 +24,7 @@ _land_: 717 sq km<br>
 _water_: 30 sq km<br>
 
 **Area - comparative**<br>
-four times the size of Washington, DC<br>
+four times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -73,9 +73,9 @@ the western islands (making up the Tongan Volcanic Arch) are all of volcanic ori
 ## People and Society
 
 **Population**<br>
-_total_: 104,889<br>
+_total_: 104,889 (2024 est.)<br>
 _male_: 52,606<br>
-_female_: 52,283 (2024 est.)<br>
+_female_: 52,283<br>
 
 **Nationality**<br>
 _noun_: Tongan(s)<br>

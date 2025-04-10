@@ -81,9 +81,9 @@ along with Liechtenstein, one of the only two doubly landlocked countries in the
 ## People and Society
 
 **Population**<br>
-_total_: 36,520,593<br>
+_total_: 36,520,593 (2024 est.)<br>
 _male_: 18,324,813<br>
-_female_: 18,195,780 (2024 est.)<br>
+_female_: 18,195,780<br>
 
 **Nationality**<br>
 _noun_: Uzbekistani<br>

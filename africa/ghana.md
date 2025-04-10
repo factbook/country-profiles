@@ -82,9 +82,9 @@ Lake Volta is the world's largest artificial lake (manmade reservoir) by surface
 ## People and Society
 
 **Population**<br>
-_total_: 34,589,092<br>
+_total_: 34,589,092 (2024 est.)<br>
 _male_: 16,902,073<br>
-_female_: 17,687,019 (2024 est.)<br>
+_female_: 17,687,019<br>
 
 **Nationality**<br>
 _noun_: Ghanaian(s)<br>
@@ -99,9 +99,6 @@ Asante 16%, Ewe 14%, Fante 11.6%, Boron (Brong) 4.9%, Dagomba 4.4%, Dangme 4.2%,
 
 **Religions**<br>
 Christian 71.3% (Pentecostal/Charismatic 31.6%, Protestant 17.4%, Catholic 10%, other 12.3%), Muslim 19.9%, traditionalist 3.2%, other 4.5%, none 1.1% (2021 est.)<br>
-
-**Demographic profile**<br>
-<p>Ghana has a young age structure, with approximately 56% of the population under the age of 25 as of 2020. Its total fertility rate fell significantly during the 1980s and 1990s but has stalled at around four children per woman for the last few years. Fertility remains higher in the northern region than the Greater Accra region. On average, desired fertility has remained stable for several years; urban dwellers want fewer children than rural residents. Increased life expectancy, due to better health care, nutrition, and hygiene, and reduced fertility have increased Ghana’s share of elderly persons; Ghana’s proportion of persons aged 60+ is among the highest in Sub-Saharan Africa. Poverty has declined in Ghana, but it remains pervasive in the northern region, which is susceptible to droughts and floods and has less access to transportation infrastructure, markets, fertile farming land, and industrial centers. The northern region also has lower school enrollment, higher illiteracy, and fewer opportunities for women.</p> <p>Ghana was a country of immigration in the early years after its 1957 independence, attracting labor migrants largely from Nigeria and other neighboring countries to mine minerals and harvest cocoa – immigrants composed about 12% of Ghana’s population in 1960. In the late 1960s, worsening economic and social conditions discouraged immigration, and hundreds of thousands of immigrants, mostly Nigerians, were expelled.</p> <p>During the 1970s, severe drought and an economic downturn transformed Ghana into a country of emigration; neighboring Cote d’Ivoire was the initial destination. Later, hundreds of thousands of Ghanaians migrated to Nigeria to work in its booming oil industry, but most were deported in 1983 and 1985 as oil prices plummeted. Many Ghanaians then turned to more distant destinations, including other parts of Africa, Europe, and North America, but the majority continued to migrate within West Africa. Since the 1990s, increased emigration of skilled Ghanaians, especially to the US and the UK, drained the country of its health care and education professionals. Internally, poverty and other developmental disparities continue to drive Ghanaians from the north to the south, particularly to its urban centers.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 37.4% (male 6,527,386/female 6,400,245)<br>

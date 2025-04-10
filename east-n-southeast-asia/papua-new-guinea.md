@@ -79,9 +79,9 @@ population concentrated in the highlands and eastern coastal areas on the island
 ## People and Society
 
 **Population**<br>
-_total_: 10,046,233<br>
+_total_: 10,046,233 (2024 est.)<br>
 _male_: 5,092,262<br>
-_female_: 4,953,971 (2024 est.)<br>
+_female_: 4,953,971<br>
 
 **Nationality**<br>
 _noun_: Papua New Guinean(s)<br>

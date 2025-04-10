@@ -85,9 +85,9 @@ landlocked; the Zambezi forms a natural riverine boundary with Zimbabwe; Lake Ka
 ## People and Society
 
 **Population**<br>
-_total_: 20,799,116<br>
+_total_: 20,799,116 (2024 est.)<br>
 _male_: 10,407,253<br>
-_female_: 10,391,863 (2024 est.)<br>
+_female_: 10,391,863<br>
 
 **Nationality**<br>
 _noun_: Zambian(s)<br>
@@ -102,9 +102,6 @@ Bemba 33.4%, Nyanja 14.7%, Tonga 11.4%, Lozi 5.5%, Chewa 4.5%, Nsenga 2.9%, Tumb
 
 **Religions**<br>
 Protestant 75.3%, Roman Catholic 20.2%, other 2.7% (includes Muslim, Buddhist, Hindu, and Baha'i), none 1.8% (2010 est.)<br>
-
-**Demographic profile**<br>
-<p>Zambia’s poor, youthful population consists primarily of Bantu-speaking people representing nearly 70 different ethnicities. Zambia’s high fertility rate continues to drive rapid population growth, averaging almost 3% annually between 2000 and 2010, and reaching over 3.3% in 2022. The country’s total fertility rate has fallen by less than 1.5 children per woman during the last 30 years and still averages among the world’s highest, almost 6 children per woman, largely because of the country’s lack of access to family planning services, education for girls, and employment for women. Zambia also exhibits wide fertility disparities based on rural or urban location, education, and income. Poor, uneducated women from rural areas are more likely to marry young, to give birth early, and to have more children, viewing children as a sign of prestige and recognizing that not all of their children will live to adulthood. HIV/AIDS is prevalent in Zambia and contributes to its low life expectancy.</p> <p>Zambian emigration is low compared to many other African countries and is comprised predominantly of the well-educated. The small amount of brain drain, however, has a major impact in Zambia because of its limited human capital and lack of educational infrastructure for developing skilled professionals in key fields. For example, Zambia has few schools for training doctors, nurses, and other health care workers. Its spending on education is low compared to other Sub-Saharan countries.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 42.1% (male 4,418,980/female 4,337,187)<br>

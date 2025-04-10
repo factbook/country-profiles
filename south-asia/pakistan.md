@@ -85,9 +85,9 @@ controls Khyber Pass and Bolan Pass, traditional invasion routes between Central
 ## People and Society
 
 **Population**<br>
-_total_: 252,363,571<br>
+_total_: 252,363,571 (2024 est.)<br>
 _male_: 128,387,797<br>
-_female_: 123,975,774 (2024 est.)<br>
+_female_: 123,975,774<br>
 <strong>note:</strong> results of Pakistan's 2017 national census estimate the country's total population to be 207,684,626<br>
 
 **Nationality**<br>

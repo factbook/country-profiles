@@ -24,7 +24,7 @@ _land_: 5.4 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-about nine times the size of the National Mall in Washington, DC<br>
+about nine times the size of the National Mall in Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -79,7 +79,7 @@ _other_: 100% (2018 est.)<br>
 **Country name**<br>
 _conventional long form_: none<br>
 _conventional short form_: Navassa Island<br>
-_etymology_: the flat island was named "Navaza" by some of Christopher COLUMBUS' sailors in 1504; the name derives from the Spanish term "nava" meaning "flat land, plain, or field"<br>
+_etymology_: the flat island was named "Navaza" by sailors with the Christopher COLUMBUS expedition in 1504; the name derives from the Spanish word <em>nava</em>, meaning "flat land or level ground"<br>
 
 **Dependency status**<br>
 unorganized, unincorporated territory of the US; administered by the Fish and Wildlife Service, US Department of the Interior from the Caribbean Islands National Wildlife Refuge in Boqueron, Puerto Rico; in September 1996, the Coast Guard ceased operations and maintenance of the Navassa Island Light, a 46-meter-tall lighthouse on the southern side of the island; Haiti has claimed the island since the 19th century<br>

@@ -78,9 +78,9 @@ strategic location near world's busiest shipping lanes and close to Arabian oilf
 ## People and Society
 
 **Population**<br>
-_total_: 994,974<br>
+_total_: 994,974 (2024 est.)<br>
 _male_: 450,796<br>
-_female_: 544,178 (2024 est.)<br>
+_female_: 544,178<br>
 
 **Nationality**<br>
 _noun_: Djiboutian(s)<br>
@@ -94,9 +94,6 @@ French (official), Arabic (official), Somali, Afar<br>
 
 **Religions**<br>
 Sunni Muslim 94% (nearly all Djiboutians), other 6% (mainly foreign-born residents - Shia Muslim, Christian, Hindu, Jewish, Baha'i, and atheist)<br>
-
-**Demographic profile**<br>
-<p>Djibouti is a poor, predominantly urban country, characterized by high rates of illiteracy, unemployment, and childhood malnutrition. Approximately 70% of the population lives in cities and towns (predominantly in the capital, Djibouti). The rural population subsists primarily on nomadic herding. Prone to droughts and floods, the country has few natural resources and must import more than 80% of its food from neighboring countries or Europe. Health care, particularly outside the capital, is limited by poor infrastructure, shortages of equipment and supplies, and a lack of qualified personnel. More than a third of health care recipients are migrants because the services are still better than those available in their neighboring home countries. The nearly universal practice of female genital cutting reflects Djibouti’s lack of gender equality and is a major contributor to obstetrical complications and its high rates of maternal and infant mortality. A 1995 law prohibiting the practice has never been enforced.</p> <p>Because of its political stability and its strategic location at the confluence of East Africa and the Gulf States along the Gulf of Aden and the Red Sea, Djibouti is a key transit point for migrants and asylum seekers heading for the Gulf States and beyond. Each year some 100,000 people, mainly Ethiopians and some Somalis, journey through Djibouti, usually to the port of Obock, to attempt a dangerous sea crossing to Yemen. However, with the escalation of the ongoing Yemen conflict, Yemenis began fleeing to Djibouti in March 2015, with almost 20,000 arriving by August 2017. Most Yemenis remain unregistered and head for Djibouti City rather than seeking asylum at one of Djibouti’s three spartan refugee camps. Djibouti has been hosting refugees and asylum seekers, predominantly Somalis and lesser numbers of Ethiopians and Eritreans, at camps for 20 years, despite lacking potable water, food shortages, and unemployment.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 28.4% (male 141,829/female 140,696)<br>
@@ -634,8 +631,8 @@ _key ports_: Djibouti, Doraleh<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Djibouti Armed Forces (Forces Armées Djiboutiennes or FAD): Army, Navy, Air Force; Djibouti Coast Guard<br><br>Ministry of Interior: National Police (2024)<br>
-<strong>note:</strong> the National Police is responsible for security within Djibouti City and has primary control over immigration and customs procedures for all land border-crossing points, while the National Gendarmerie, which reports to the Ministry of Defense, is responsible for all security outside of Djibouti City, as well as for protecting critical infrastructure within the city, such as the international airport<br>
+Djibouti Armed Forces (Forces Armées Djiboutiennes or FAD): Djiboutian (or National) Army, Djiboutian Navy (includes Djiboutian Coast Guard), Djiboutian Air Force; Djiboutian National Gendarmerie<br><br>Ministry of Interior: National Police (Police Nationale) (2025)<br>
+<strong>note 1: </strong>the National Gendarmerie is a security force with military status under the FAD and the Ministry of Defense, but also has responsibilities to the Ministry of Interior; the Gendarmerie's duties include providing security outside of Djibouti City and protecting critical infrastructure within the city, such as the international airport<strong><br><br>note 2:</strong> the National Police is responsible for security within Djibouti City and has primary control over immigration and customs procedures for all land border-crossing points<br>
 
 **Military expenditures**<br>
 3.5% of GDP (2019 est.)<br>
@@ -648,7 +645,7 @@ Djibouti Armed Forces (Forces Armées Djiboutiennes or FAD): Army, Navy, Air For
 approximately 10,000 active-duty military personnel; approximately 2,000 Gendarmerie (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAD's inventory is a mix of mostly older or secondhand equipment from a wide variety of suppliers, including China, France, Italy, Russia/former Soviet Union, South Africa, Turkey, and the US (2024)<br>
+the FAD's inventory is a mix of mostly older or secondhand equipment from a wide variety of suppliers, including China, France, Italy, Japan, Russia/former Soviet Union, South Africa, Turkey, and the US (2024)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; 16-25 years of age for voluntary military training; no conscription (2023)<br>
@@ -657,7 +654,7 @@ the FAD's inventory is a mix of mostly older or secondhand equipment from a wide
 approximately 1,500 Somalia (AUSSOM) (2025)<br>
 
 **Military - note**<br>
-Djibouti's military forces are largely focused on border, coastal, and internal security duties, such as counterterrorism; China, France, Italy, Japan, and the US maintain bases in Djibouti for regional military missions, including counter-terrorism, counter-piracy, crisis response, and security assistance (note &ndash; France has multiple bases and hosts troop contingents from Germany and Spain); the EU and NATO also maintain a presence to support multinational naval counter-piracy operations and maritime training efforts (2023)<br>
+Djibouti's military forces are largely focused on border, coastal, and internal security duties, such as counterterrorism; as recently as February 2025, Djiboutian forces have conducted operations near its border with Ethiopia against members of the Armed Front for the Restoration of Unity and Democracy (FRUD A), which Djibouti considers a terrorist group<br> <br>China, France, Italy, Japan, and the US maintain bases in Djibouti for regional military missions, including counterterrorism, counter-piracy, crisis response, and security assistance; other countries, such as Germany and Spain, also maintain a smaller presence; the EU and NATO also maintain a presence to support multinational naval counter-piracy operations and maritime training efforts (2025)<br>
 
 ## Terrorism
 

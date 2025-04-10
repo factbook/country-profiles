@@ -79,9 +79,9 @@ crossroads of Western Europe; most West European capitals are within 1,000 km of
 ## People and Society
 
 **Population**<br>
-_total_: 11,977,634<br>
+_total_: 11,977,634 (2024 est.)<br>
 _male_: 5,909,057<br>
-_female_: 6,068,577 (2024 est.)<br>
+_female_: 6,068,577<br>
 
 **Nationality**<br>
 _noun_: Belgian(s)<br>

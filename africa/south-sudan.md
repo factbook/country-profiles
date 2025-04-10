@@ -76,9 +76,9 @@ landlocked; The Sudd is a vast swamp in the north central region of South Sudan,
 ## People and Society
 
 **Population**<br>
-_total_: 12,703,714<br>
+_total_: 12,703,714 (2024 est.)<br>
 _male_: 6,476,341<br>
-_female_: 6,227,373 (2024 est.)<br>
+_female_: 6,227,373<br>
 
 **Nationality**<br>
 _noun_: South Sudanese (singular and plural)<br>
@@ -94,9 +94,6 @@ _major-language sample(s)_: <br>The World Factbook, the indispensable source for
 
 **Religions**<br>
 Christian 60.5%, folk religion 32.9%, Muslim 6.2%, other &lt;1%, unaffiliated &lt;1% (2020 est.)<br>
-
-**Demographic profile**<br>
-<p>South Sudan, independent from Sudan since July 2011 after decades of civil war, is one of the world’s poorest countries and ranks among the lowest in many socioeconomic categories. Problems are exacerbated by ongoing tensions with Sudan over oil revenues and land borders, fighting between government forces and rebel groups, and inter-communal violence. Most of the population lives off of farming, while smaller numbers rely on animal husbandry; abput 80% of the populace lives in rural areas. The maternal mortality rate is among the world’s highest for a variety of reasons, including a shortage of health care workers, facilities, and supplies; poor roads and a lack of transport; and cultural beliefs that prevent women from seeking obstetric care. Most women marry and start having children early, giving birth at home with the assistance of traditional birth attendants, who are unable to handle complications.</p> <p>Educational attainment is extremely poor due to the lack of schools, qualified teachers, and materials. Only one-third of the population is literate (the rate is even lower among women), and half live below the poverty line. Teachers and students are also struggling with the switch from Arabic to English as the language of instruction. Many adults missed out on schooling because of warfare and displacement.</p> <p>More than 2 million South Sudanese have sought refuge in neighboring countries since the current conflict began in December 2013. Another 2.2 million South Sudanese are internally displaced as of October 2022. Despite South Sudan’s instability and lack of infrastructure and social services, more than 275,000 people had fled to South Sudan to escape fighting in Sudan as of December 2022.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 42.1% (male 2,725,520/female 2,619,035)<br>

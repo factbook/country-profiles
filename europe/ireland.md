@@ -74,9 +74,9 @@ strategic location on major air and sea routes between North America and norther
 ## People and Society
 
 **Population**<br>
-_total_: 5,233,461<br>
+_total_: 5,233,461 (2024 est.)<br>
 _male_: 2,590,542<br>
-_female_: 2,642,919 (2024 est.)<br>
+_female_: 2,642,919<br>
 
 **Nationality**<br>
 _noun_: Irishman(men), Irishwoman(women), Irish (collective plural)<br>
@@ -279,7 +279,7 @@ _conventional long form_: none<br>
 _conventional short form_: Ireland<br>
 _local long form_: none<br>
 _local short form_: Eire<br>
-_etymology_: the modern Irish name "Eire" evolved from the Gaelic "Eriu," the name of the matron goddess of Ireland (goddess of the land); the names "Ireland" in English and "Eire" in Irish are direct translations of each other<br>
+_etymology_: the Irish name Eire evolved from the Gaelic name Eriu, which is possibly derived from the Old Celtic <em>iveriu</em>, meaning "good land;" the English name, Ireland, is a direct translation<br>
 
 **Government type**<br>
 parliamentary republic<br>

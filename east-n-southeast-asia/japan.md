@@ -79,9 +79,9 @@ all primary and secondary regions of high population density lie on the coast; o
 ## People and Society
 
 **Population**<br>
-_total_: 123,201,945<br>
+_total_: 123,201,945 (2024 est.)<br>
 _male_: 59,875,269<br>
-_female_: 63,326,676 (2024 est.)<br>
+_female_: 63,326,676<br>
 
 **Nationality**<br>
 _noun_: Japanese (singular and plural)<br>
@@ -291,7 +291,7 @@ _conventional long form_: none<br>
 _conventional short form_: Japan<br>
 _local long form_: Nihon-koku/Nippon-koku<br>
 _local short form_: Nihon/Nippon<br>
-_etymology_: the English word for Japan comes via the Chinese name for the country "Cipangu"; both Nihon and Nippon mean "where the sun originates" and are frequently translated as "Land of the Rising Sun"<br>
+_etymology_: the English word for Japan comes from the Chinese name for the country, Cipangu; both Nihon and Nippon come from the Japanese words <em>nichi</em>, or "sun," and <em>hon</em>, or "origin,"<em> </em>which is frequently translated as "Land of the Rising Sun"<br>
 
 **Government type**<br>
 parliamentary constitutional monarchy<br>

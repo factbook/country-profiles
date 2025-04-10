@@ -82,9 +82,9 @@ strategic position at the crossroads between Europe and Asia; second-largest cou
 ## People and Society
 
 **Population**<br>
-_total_: 35,661,826<br>
+_total_: 35,661,826 (2024 est.)<br>
 _male_: 17,510,149<br>
-_female_: 18,151,677 (2024 est.)<br>
+_female_: 18,151,677<br>
 
 **Nationality**<br>
 _noun_: Ukrainian(s)<br>

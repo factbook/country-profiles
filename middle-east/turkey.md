@@ -85,9 +85,9 @@ strategic location controlling the Turkish Straits (Bosporus, Sea of Marmara, Da
 ## People and Society
 
 **Population**<br>
-_total_: 84,119,531<br>
+_total_: 84,119,531 (2024 est.)<br>
 _male_: 42,247,430<br>
-_female_: 41,872,101 (2024 est.)<br>
+_female_: 41,872,101<br>
 
 **Nationality**<br>
 _noun_: Turk(s)<br>

@@ -25,7 +25,7 @@ _water_: 0 sq km<br>
 <strong>note:</strong> Dutch part of the island of Saint Martin<br>
 
 **Area - comparative**<br>
-<p>one-fifth the size of Washington, DC</p><br>
+<p>one-fifth the size of Washington, D.C.</p><br>
 
 **Land boundaries**<br>
 _total_: 16 km<br>
@@ -45,7 +45,7 @@ _exclusive economic zone_: 200 nm<br>
 <p>low, hilly terrain, volcanic origin</p><br>
 
 **Elevation**<br>
-_highest point_: Mount Flagstaff 383 m<br>
+_highest point_: 250 m SW of Mount Flagstaff summit, 383 m<br>
 _lowest point_: Caribbean Sea 0 m<br>
 
 **Natural resources**<br>

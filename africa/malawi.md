@@ -83,9 +83,9 @@ landlocked; Lake Nyasa, some 580 km long, is the country's most prominent physic
 ## People and Society
 
 **Population**<br>
-_total_: 21,763,309<br>
+_total_: 21,763,309 (2024 est.)<br>
 _male_: 10,674,594<br>
-_female_: 11,088,715 (2024 est.)<br>
+_female_: 11,088,715<br>
 
 **Nationality**<br>
 _noun_: Malawian(s)<br>
@@ -100,9 +100,6 @@ English (official), Chewa (dominant), Lambya, Lomwe, Ngoni, Nkhonde, Nyakyusa, N
 
 **Religions**<br>
 Protestant 33.5% (includes Church of Central Africa Presbyterian 14.2%, Seventh Day Adventist/Baptist 9.4%, Pentecostal 7.6%, Anglican 2.3%), Roman Catholic 17.2%, other Christian 26.6%, Muslim 13.8%, traditionalist 1.1%, other 5.6%, none 2.1% (2018 est.)<br>
-
-**Demographic profile**<br>
-<p>Malawi has made great improvements in maternal and child health, but has made less progress in reducing its high fertility rate. In both rural and urban areas, very high proportions of mothers are receiving prenatal care and skilled birth assistance, and most children are being vaccinated. Malawi’s fertility rate, however, has only declined slowly, decreasing from more than 7 children per woman in the 1980s to about 5.5 today. Nonetheless, Malawians prefer smaller families than in the past, and women are increasingly using contraceptives to prevent or space pregnancies. Rapid population growth and high population density is putting pressure on Malawi’s land, water, and forest resources. Reduced plot sizes and increasing vulnerability to climate change, further threaten the sustainability of Malawi’s agriculturally based economy and will worsen food shortages. About 80% of the population is employed in agriculture.</p><p>Historically, Malawians migrated abroad in search of work, primarily to South Africa and present-day Zimbabwe, but international migration became uncommon after the 1970s, and most migration in recent years has been internal. During the colonial period, Malawians regularly migrated to southern Africa as contract farm laborers, miners, and domestic servants. In the decade and a half after independence in 1964, the Malawian Government sought to transform its economy from one dependent on small-scale farms to one based on estate agriculture. The resulting demand for wage labor induced more than 300,000 Malawians to return home between the mid-1960s and the mid-1970s. In recent times, internal migration has generally been local, motivated more by marriage than economic reasons.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 37.7% (male 4,080,567/female 4,132,710)<br>
@@ -307,7 +304,7 @@ _conventional short form_: Malawi<br>
 _local long form_: Dziko la Malawi<br>
 _local short form_: Malawi<br>
 _former_: British Central African Protectorate, Nyasaland Protectorate, Nyasaland<br>
-_etymology_: named for the East African Maravi Kingdom of the 16th century; the word "maravi" means "fire flames"<br>
+_etymology_: named for the Maravi people who inhabited the area since the 14th century; the word <em>maravi </em>means "flames"<br>
 
 **Government type**<br>
 presidential republic<br>

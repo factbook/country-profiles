@@ -24,7 +24,7 @@ _land_: 751 sq km<br>
 _water_: NEGL<br>
 
 **Area - comparative**<br>
-slightly more than four times the size of Washington, DC<br>
+slightly more than four times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -73,9 +73,9 @@ known as "The Nature Island of the Caribbean" due to its spectacular, lush, and 
 ## People and Society
 
 **Population**<br>
-_total_: 74,661<br>
+_total_: 74,661 (2024 est.)<br>
 _male_: 37,753<br>
-_female_: 36,908 (2024 est.)<br>
+_female_: 36,908<br>
 
 **Nationality**<br>
 _noun_: Dominican(s)<br>
@@ -551,10 +551,10 @@ _key ports_: Portsmouth, Roseau<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Commonwealth of Dominica Police Force (includes Coast Guard) under the Ministry of Justice, Immigration, and National Security (2024)<br>
+no regular military forces; Commonwealth of Dominica Police Force (CDPF) under the Ministry of National Security and Legal Affairs (2025)<br>
 
 **Military - note**<br>
-Dominica has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Grenada, Guyana, St. Kitts and Nevis, St. Lucia, and St. Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2024)<br>
+Dominica has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Grenada, Guyana, St. Kitts and Nevis, St. Lucia, and St. Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2025)<br>
 
 ## Transnational Issues
 

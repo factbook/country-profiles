@@ -25,7 +25,7 @@ _water_: 0 sq km<br>
 <strong>note:</strong> comprised of 16 inhabited and more than 20 uninhabited islands; includes the islands of Tortola, Anegada, Virgin Gorda, Jost van Dyke<br>
 
 **Area - comparative**<br>
-about 0.9 times the size of Washington, DC<br>
+about 0.9 times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -73,9 +73,9 @@ strong ties to nearby US Virgin Islands and Puerto Rico<br>
 ## People and Society
 
 **Population**<br>
-_total_: 40,102<br>
+_total_: 40,102 (2024 est.)<br>
 _male_: 19,042<br>
-_female_: 21,060 (2024 est.)<br>
+_female_: 21,060<br>
 
 **Nationality**<br>
 _noun_: British Virgin Islander(s)<br>

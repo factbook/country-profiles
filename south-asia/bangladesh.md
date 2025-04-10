@@ -82,9 +82,9 @@ most of the country is situated on deltas of large rivers flowing from the Himal
 ## People and Society
 
 **Population**<br>
-_total_: 168,697,184<br>
+_total_: 168,697,184 (2024 est.)<br>
 _male_: 82,708,252<br>
-_female_: 85,988,932 (2024 est.)<br>
+_female_: 85,988,932<br>
 
 **Nationality**<br>
 _noun_: Bangladeshi(s)<br>
@@ -686,8 +686,8 @@ _key ports_: Chittagong, Mongla<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Bangladesh (aka Bangladesh Defense Force): Bangladesh Army, Bangladesh Navy, Bangladesh Air Force<br><br>Ministry of Home Affairs: Border Guard Bangladesh (BGB), Bangladesh Coast Guard, Rapid Action Battalion (RAB), Ansars, Village Defense Party (VDP) (2024)<br>
-<strong>note 1: </strong>the Armed Forces of Bangladesh are jointly administered by the Ministry of Defense (MOD) and the Armed Forces Division (AFD), both under the Prime Minister's Office; the AFD has ministerial status and parallel functions with MOD; the AFD is a joint coordinating headquarters for the three services and also functions as a joint command center during wartime; to coordinate policy, the prime minister and the president are advised by a six-member board, which includes the three service chiefs of staff, the principal staff officer of the AFD, and the military secretaries to the prime minister and president<br><br><strong>note 2: </strong>the RAB, Ansars, and VDP are paramilitary organizations for internal security; the RAB is a joint task force founded in 2004 and composed of members of the police, Army, Navy, Air Force, and Border Guards seconded to the RAB from their respective units; its mandate includes internal security, intelligence gathering related to criminal activities, and government-directed investigations<br>
+Armed Forces of Bangladesh (aka Bangladesh Defense Force): Bangladesh Army, Bangladesh Navy, Bangladesh Air Force<br><br>Ministry of Home Affairs: Bangladesh Police, Border Guard Bangladesh (BGB), Bangladesh Coast Guard, Rapid Action Battalion (RAB), Ansars, Village Defense Party (VDP) (2025)<br>
+<strong>note 1: </strong>the Armed Forces of Bangladesh are jointly administered by the Ministry of Defense (MOD) and the Armed Forces Division (AFD), both under the Prime Minister's Office; the AFD has ministerial status and parallel functions with MOD; the AFD is a joint coordinating headquarters for the three services and also functions as a joint command center during wartime; to coordinate policy, the prime minister and the president are advised by a six-member board, which includes the three service chiefs of staff, the principal staff officer of the AFD, and the military secretaries to the prime minister and president<br><br><strong>note 2: </strong>the RAB, Ansars, and VDP are paramilitary organizations for internal security; the RAB is a joint task force comprised of Police, Army, Navy, Air Force, and Border Guards personnel seconded to the RAB; its mandate includes internal security, intelligence gathering related to criminal activities, and government-directed investigations<br>
 
 **Military expenditures**<br>
 1% of GDP (2023 est.)<br>

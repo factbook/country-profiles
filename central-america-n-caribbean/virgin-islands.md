@@ -24,7 +24,7 @@ _land_: 346 sq km<br>
 _water_: 1,564 sq km<br>
 
 **Area - comparative**<br>
-twice the size of Washington, DC<br>
+twice the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -72,9 +72,9 @@ important location along the Anegada Passage -- a key shipping lane for the Pana
 ## People and Society
 
 **Population**<br>
-_total_: 104,377<br>
+_total_: 104,377 (2024 est.)<br>
 _male_: 49,520<br>
-_female_: 54,857 (2024 est.)<br>
+_female_: 54,857<br>
 
 **Nationality**<br>
 _noun_: Virgin Islander(s) (US citizens)<br>

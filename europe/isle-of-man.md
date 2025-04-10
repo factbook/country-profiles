@@ -24,7 +24,7 @@ _land_: 572 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-slightly more than three times the size of Washington, DC<br>
+slightly more than three times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -72,9 +72,9 @@ one small islet, the Calf of Man, lies to the southwest and is a bird sanctuary<
 ## People and Society
 
 **Population**<br>
-_total_: 92,269<br>
+_total_: 92,269 (2024 est.)<br>
 _male_: 46,331<br>
-_female_: 45,938 (2024 est.)<br>
+_female_: 45,938<br>
 
 **Nationality**<br>
 _noun_: Manxman (men), Manxwoman (women)<br>
@@ -214,8 +214,9 @@ _percent of municipal solid waste recycled_: 50% (2011 est.)<br>
 **Country name**<br>
 _conventional long form_: none<br>
 _conventional short form_: Isle of Man<br>
+_local long form_: Ellan Vannin<br>
 _abbreviation_: I.O.M.<br>
-_etymology_: the name "man" may be derived from the Celtic word for "mountain"<br>
+_etymology_: the name "man" may be derived from the Gaelic word for "mountain;" the local name is from the words <em>ellan</em>, or "island," and Vannin, a form of the name Mannan<br>
 
 **Government type**<br>
 parliamentary democracy (Tynwald)<br>

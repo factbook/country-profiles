@@ -68,7 +68,9 @@ northernmost part of the Kingdom of Norway; consists of nine main islands; glaci
 ## People and Society
 
 **Population**<br>
-_total_: 2,926 (2021 est.)<br>
+_total_: 2,556 (2025 est.)<br>
+_male_: 1,353<br>
+_female_: 1,203<br>
 
 **Ethnic groups**<br>
 Norwegian 61.1%, foreign population 38.9% (consists primarily of Russians, Thais, Swedes, Filipinos, and Ukrainians) (2021 est.)<br>

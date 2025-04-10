@@ -79,9 +79,9 @@ has only a short Pacific coast but a long Caribbean shoreline, including the vir
 ## People and Society
 
 **Population**<br>
-_total_: 9,529,188<br>
+_total_: 9,529,188 (2024 est.)<br>
 _male_: 4,591,247<br>
-_female_: 4,937,941 (2024 est.)<br>
+_female_: 4,937,941<br>
 
 **Nationality**<br>
 _noun_: Honduran(s)<br>
@@ -96,9 +96,6 @@ _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indi
 
 **Religions**<br>
 Evangelical 55%, Roman Catholic 33.4%, none 10.1%, unspecified 1.5% (2023 est.)<br>
-
-**Demographic profile**<br>
-<p>Honduras is one of the poorest countries in Latin America and has one of the world's highest murder rates. More than half of the population lives in poverty and per capita income is one of the lowest in the region. Poverty rates are higher among rural and indigenous people and in the south, west, and along the eastern border than in the north and central areas where most of Honduras' industries and infrastructure are concentrated. The increased productivity needed to break Honduras' persistent high poverty rate depends, in part, on further improvements in educational attainment. Although primary-school enrollment is near 100%, educational quality is poor, the drop-out rate and grade repetition remain high, and teacher and school accountability is low.</p> <p>Honduras' population growth rate has slowed since the 1990s and is now 1.2% annually with a birth rate that averages 2.1 children per woman and more among rural, indigenous, and poor women. Honduras' young adult population - ages 15 to 29 - is projected to continue growing rapidly for the next three decades and then stabilize or slowly shrink. Population growth and limited job prospects outside of agriculture will continue to drive emigration. Remittances represent about a fifth of GDP.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 28.7% (male 1,378,026/female 1,353,238)<br>

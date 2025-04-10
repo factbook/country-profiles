@@ -78,9 +78,9 @@ consists of Oman proper and two northern exclaves, Musandam and Al Madhah; the f
 ## People and Society
 
 **Population**<br>
-_total_: 3,901,992<br>
+_total_: 3,901,992 (2024 est.)<br>
 _male_: 2,096,126<br>
-_female_: 1,805,866 (2024 est.)<br>
+_female_: 1,805,866<br>
 
 **Nationality**<br>
 _noun_: Omani(s)<br>

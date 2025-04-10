@@ -74,9 +74,9 @@ the island of Timor is part of the Malay Archipelago and is the largest and east
 ## People and Society
 
 **Population**<br>
-_total_: 1,506,909<br>
+_total_: 1,506,909 (2024 est.)<br>
 _male_: 750,665<br>
-_female_: 756,244 (2024 est.)<br>
+_female_: 756,244<br>
 
 **Nationality**<br>
 _noun_: Timorese<br>
@@ -91,9 +91,6 @@ Tetun Prasa 30.6%, Mambai 16.6%, Makasai 10.5%, Tetun Terik 6.1%, Baikenu 5.9%, 
 
 **Religions**<br>
 Roman Catholic 97.6%, Protestant/Evangelical 2%, Muslim 0.2%, other 0.2% (2015 est.)<br>
-
-**Demographic profile**<br>
-<p>Timor-Leste’s high fertility and population growth rates sustain its very youthful age structure – approximately 40% of the population is below the age of 15 and the country’s median age is 20.  While Timor-Leste’s total fertility rate (TFR) – the average number of births per woman – decreased significantly from over 7 in the early 2000s, it remains high at 4.3 in 2021 and will probably continue to decline slowly.  The low use of contraceptives and the traditional preference for large families is keeping fertility elevated.  The high TFR and falling mortality rates continue to fuel a high population growth rate of nearly 2.2%, which is the highest in Southeast Asia.  The country’s high total dependency ratio – a measure of the ratio of dependents to the working-age population – could divert more government spending toward social programs. Timor-Leste’s growing, poorly educated working-age population and insufficient job creation are ongoing problems.  Some 70% of the population lives in rural areas, where most of people are dependent on the agricultural sector.  Malnutrition and poverty are prevalent, with 42% of the population living under the poverty line as of 2014.</p> <p>During the Indonesian occupation (1975-1999) and Timor-Leste’s fight for independence, approximately 250,000 Timorese fled to western Timor and, in lesser numbers, Australia, Portugal, and other countries. Many of these emigrants later returned.  Since Timor-Leste’s 1999 independence referendum, economic motives and periods of conflict have been the main drivers of emigration.  Bilateral labor agreements with Australia, Malaysia, and South Korea and the presence of Timorese populations abroad, are pull factors, but the high cost prevents many young Timorese from emigrating.  Timorese communities are found in its former colonizers, Indonesia and Portugal, as well as the Philippines and the UK.  The country has also become a destination for migrants in the surrounding region, mainly men seeking work in construction, commerce, and services in Dili.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 38.7% (male 299,929/female 283,416)<br>

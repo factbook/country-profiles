@@ -78,9 +78,9 @@ the peninsula occupies a strategic location in the central Persian Gulf near maj
 ## People and Society
 
 **Population**<br>
-_total_: 2,552,088<br>
+_total_: 2,552,088 (2024 est.)<br>
 _male_: 1,961,135<br>
-_female_: 590,953 (2024 est.)<br>
+_female_: 590,953<br>
 
 **Nationality**<br>
 _noun_: Qatari(s)<br>

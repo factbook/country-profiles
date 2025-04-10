@@ -24,7 +24,7 @@ _land_: 1,073 sq km<br>
 _water_: 35 sq km<br>
 
 **Area - comparative**<br>
-six times the size of Washington, DC<br>
+six times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 33 km<br>
@@ -72,9 +72,9 @@ consists of a mainland area (the New Territories) and more than 200 islands<br>
 ## People and Society
 
 **Population**<br>
-_total_: 7,297,821<br>
+_total_: 7,297,821 (2024 est.)<br>
 _male_: 3,367,812<br>
-_female_: 3,930,009 (2024 est.)<br>
+_female_: 3,930,009<br>
 
 **Nationality**<br>
 _noun_: Chinese/Hong Konger<br>

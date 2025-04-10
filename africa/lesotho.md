@@ -79,9 +79,9 @@ landlocked, an enclave of (completely surrounded by) South Africa; mountainous, 
 ## People and Society
 
 **Population**<br>
-_total_: 2,227,548<br>
+_total_: 2,227,548 (2024 est.)<br>
 _male_: 1,101,959<br>
-_female_: 1,125,589 (2024 est.)<br>
+_female_: 1,125,589<br>
 
 **Nationality**<br>
 _noun_: Mosotho (singular), Basotho (plural)<br>
@@ -95,9 +95,6 @@ Sesotho (official), English (official), Phuthi, Xhosa, Zulu<br>
 
 **Religions**<br>
 Protestant 47.8% (Pentecostal 23.1%, Lesotho Evangelical 17.3%, Anglican 7.4%), Roman Catholic 39.3%, other Christian 9.1%, non-Christian 1.4%, none 2.3% (2014 est.)<br>
-
-**Demographic profile**<br>
-<p>Lesotho faces great socioeconomic challenges. Almost half of its population lives below the poverty line as of 2017, and the country’s HIV/AIDS prevalence rate is the second highest in the world as of 2021. In addition, Lesotho is a small, mountainous, landlocked country with little arable land, leaving its population vulnerable to food shortages and reliant on remittances. Lesotho’s persistently high infant, child, and maternal mortality rates have been increasing during the last decade, according to the last two Demographic and Health Surveys. Despite these significant shortcomings, Lesotho has made good progress in education; it is on-track to achieve universal primary education and has one of the highest adult literacy rates in Africa.</p> <p>Lesotho’s migration history is linked to its unique geography; it is surrounded by South Africa with which it shares linguistic and cultural traits. Lesotho at one time had more of its workforce employed outside its borders than any other country. Today remittances equal about 20% of its GDP. With few job options at home, a high rate of poverty, and higher wages available across the border, labor migration to South Africa replaced agriculture as the prevailing Basotho source of income decades ago. The majority of Basotho migrants were single men contracted to work as gold miners in South Africa. However, migration trends changed in the 1990s, and fewer men found mining jobs in South Africa because of declining gold prices, stricter immigration policies, and a preference for South African workers.</p> <p>Although men still dominate cross-border labor migration, more women are working in South Africa, mostly as domestics, because they are widows or their husbands are unemployed. Internal rural-urban flows have also become more frequent, with more women migrating within the country to take up jobs in the garment industry or moving to care for loved ones with HIV/AIDS. Lesotho’s small population of immigrants is increasingly composed of Taiwanese and Chinese migrants who are involved in the textile industry and small retail businesses.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 32% (male 358,137/female 353,618)<br>
@@ -295,7 +292,7 @@ _conventional short form_: Lesotho<br>
 _local long form_: Kingdom of Lesotho<br>
 _local short form_: Lesotho<br>
 _former_: Basutoland<br>
-_etymology_: the name translates as "Land of the Sesotho Speakers"<br>
+_etymology_: the name comes from the Sotho people, whose name means "dark-skinned;"<em> Le</em>- is a singular noun prefix; the former name, Basutoland, uses the plural noun prefix, <em>Ba</em>-<br>
 
 **Government type**<br>
 parliamentary constitutional monarchy<br>

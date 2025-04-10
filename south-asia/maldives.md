@@ -24,7 +24,7 @@ _land_: 298 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-about 1.7 times the size of Washington, DC<br>
+about 1.7 times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -75,9 +75,9 @@ smallest Asian country; archipelago of 1,190 coral islands grouped into 26 atoll
 ## People and Society
 
 **Population**<br>
-_total_: 388,858<br>
+_total_: 388,858 (2024 est.)<br>
 _male_: 197,739<br>
-_female_: 191,119 (2024 est.)<br>
+_female_: 191,119<br>
 
 **Nationality**<br>
 _noun_: Maldivian(s)<br>
@@ -280,7 +280,7 @@ _conventional long form_: Republic of Maldives<br>
 _conventional short form_: Maldives<br>
 _local long form_: Dhivehi Raajjeyge Jumhooriyyaa<br>
 _local short form_: Dhivehi Raajje<br>
-_etymology_: archipelago apparently named after the main island (and capital) of Male; the word "Maldives" means "the islands (dives) of Male"; alternatively, the name may derive from the Sanskrit word "maladvipa" meaning "garland of islands"; Dhivehi Raajje in Dhivehi means "Kingdom of the Dhivehi people"<br>
+_etymology_: the origin of the name is obscure but may derive from the Sanskrit word <em>maladvipa</em>, meaning "garland of islands;" the local name, Dhivehi Raajje, means "land of the Dhivehi people" in the local language<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -539,27 +539,27 @@ _Currency_: rufiyaa (MVR) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 566,000 kW (2022 est.)<br>
-_consumption_: 821.397 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 25.867 million kWh (2022 est.)<br>
+_installed generating capacity_: 432,000 kW (2023 est.)<br>
+_consumption_: 821.397 million kWh (2023 est.)<br>
+_transmission/distribution losses_: 25.867 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 93.2% of total installed capacity (2022 est.)<br>
-_solar_: 6.6% of total installed capacity (2022 est.)<br>
-_wind_: 0.2% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 93.2% of total installed capacity (2023 est.)<br>
+_solar_: 6.6% of total installed capacity (2023 est.)<br>
+_wind_: 0.2% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_imports_: 1 metric tons (2022 est.)<br>
+_imports_: 8 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 14,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 13,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 2.247 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 2.247 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 1.908 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.908 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 56.264 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 50.886 million Btu/person (2023 est.)<br>
 
 ## Communications
 

@@ -73,9 +73,9 @@ important location along the Mona Passage -- a key shipping lane to the Panama C
 ## People and Society
 
 **Population**<br>
-_total_: 3,019,450<br>
+_total_: 3,019,450 (2024 est.)<br>
 _male_: 1,418,753<br>
-_female_: 1,600,697 (2024 est.)<br>
+_female_: 1,600,697<br>
 
 **Nationality**<br>
 _noun_: Puerto Rican(s) (US citizens)<br>

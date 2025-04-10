@@ -79,9 +79,9 @@ landlocked; highest point, Qullai Ismoili Somoni (formerly Communism Peak), was 
 ## People and Society
 
 **Population**<br>
-_total_: 10,394,063<br>
+_total_: 10,394,063 (2024 est.)<br>
 _male_: 5,221,818<br>
-_female_: 5,172,245 (2024 est.)<br>
+_female_: 5,172,245<br>
 
 **Nationality**<br>
 _noun_: Tajikistani(s)<br>
@@ -97,9 +97,6 @@ _major-language sample(s)_: <br>Китоби Фактҳои Ҷаҳонӣ, ман
 
 **Religions**<br>
 Muslim 98% (Sunni 95%, Shia 3%) other 2% (2014 est.)<br>
-
-**Demographic profile**<br>
-<p>Tajikistan has a youthful age structure with almost 50% of the population under the age of 25.  As a Soviet republic, Tajikistan had the highest fertility rate in the Soviet Union.  The total fertility rate – the average number of births per woman – was highest in the mid-1970s, when it reached 6.3.  In an effort to expand populations to meet economic goals, the Soviets provided resources that made large families affordable.  The fertility rate decreased to 5 by the time of independence in 1991 and continued to decline thereafter.  In 1996, the Tajik Government discontinued subsidies for large families and having several children became too expensive.  The loss of subsidies, the 5-year civil war that followed independence, and other factors caused fertility to continue to fall steadily, but it remains above replacement level at 2.5.  The availability of healthcare providers and family planning services is limited, contributing to couples having more children than they would like.  As of 2017, 21% of women were using contraceptives.</p> <p>Tajikistan’s ethnic make-up changed with the Soviet’s introduction of industrialization.  Large numbers of Russian and Ukrainian immigrants arrived in the mid-1920s. Some were forced to immigrate while others came voluntarily to work in the cotton industry and in Tajikistan’s Soviet Government.  The Russian and Ukrainian immigrants formed urban communities, while Tajiks and Uzbeks continued to live predominantly in rural areas.  In addition, thousands of Tatars and Germans were deported to Tajikistan, accused of Nazi complicity during WWII. </p> <p>Tajikistan’s ethnic composition was later shaped by the post-independence civil war from 1992-1997 and the economic devastation that followed.  Most non-Tajik ethnic groups, including Uzbeks, Russians, Kyrgyz, and Ukrainians, fled to Russia and other former Soviet republics and many never returned, making the country overwhelming Tajik; approximately 80% of the population was Tajik by 2000. </p> <p>Since the mid-1990s, labor has probably been Tajikistan’s main export.  Remittances accounted for 30% of GDP in 2018 and are Tajikistan’s largest source of external income.  Poverty, a lack of jobs, and higher wages abroad push Tajiks to emigrate.  Russia – particularly Moscow – is the main destination, while a smaller number of religious Muslims, usually of Uzbek ancestry, migrate to Uzbekistan.  The vast majority of labor migrants are unskilled or low-skilled young men who work primarily in construction but also agriculture, transportation, and retail.  Many Tajik families are dependent on the money they send home for necessities, such as food and clothing, as well as for education and weddings rather than investment.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 36.9% (male 1,953,472/female 1,877,192)<br>
@@ -347,10 +344,10 @@ _number of seats_: 63 (all directly elected)<br>
 _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 3/1/2020<br>
+_most recent election date_: 3/2/2025<br>
 _parties elected and seats per party_: People's Democratic Party of Tajikistan (PDPT) (47); Agrarian Party of Tajikistan (APT) (7); Party of Economic Reforms of Tajikistan (PERT) (5); Other (4)<br>
 _percentage of women in chamber_: 27%<br>
-_expected date of next election_: March 2025<br>
+_expected date of next election_: March 2030<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: National Assembly (Majlisi milli)<br>

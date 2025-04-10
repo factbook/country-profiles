@@ -79,9 +79,9 @@ over three-quarters of New Zealanders, including the indigenous Maori, live on t
 ## People and Society
 
 **Population**<br>
-_total_: 5,161,211<br>
+_total_: 5,161,211 (2024 est.)<br>
 _male_: 2,584,607<br>
-_female_: 2,576,604 (2024 est.)<br>
+_female_: 2,576,604<br>
 
 **Nationality**<br>
 _noun_: New Zealander(s)<br>
@@ -283,8 +283,9 @@ _agricultural_: 3.2 billion cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: none<br>
 _conventional short form_: New Zealand<br>
+_former_: Nieuw Zeeland<br>
 _abbreviation_: NZ<br>
-_etymology_: Dutch explorer Abel TASMAN was the first European to reach New Zealand in 1642; he named it Staten Landt, but Dutch cartographers renamed it Nova Zeelandia in 1645 after the Dutch province of Zeeland; British explorer Captain James COOK subsequently anglicized the name to New Zealand when he mapped the islands in 1769<br>
+_etymology_: the name is an anglicized form of the Dutch name Nieuw Zeeland, or "New Sea Land," which was first used in 1643 in honor of the Dutch province of Zeeland<br>
 
 **Government type**<br>
 parliamentary democracy&nbsp;under a constitutional monarchy; a Commonwealth realm<br>

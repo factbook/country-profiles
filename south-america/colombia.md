@@ -85,9 +85,9 @@ only South American country with coastlines on both the North Pacific Ocean and 
 ## People and Society
 
 **Population**<br>
-_total_: 49,588,357<br>
+_total_: 49,588,357 (2024 est.)<br>
 _male_: 24,206,371<br>
-_female_: 25,381,986 (2024 est.)<br>
+_female_: 25,381,986<br>
 
 **Nationality**<br>
 _noun_: Colombian(s)<br>
@@ -102,9 +102,6 @@ _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indi
 
 **Religions**<br>
 Roman Catholic 63.6%, Protestant 17.2% (Evangelical 16.7%, Adventist 0.3%, other Protestant 0.2%), Jehovah's Witness 0.6%, Church of Jesus Christ 0.1%, other 0.3%, believer, 0.2%. agnostic 1%, atheist 1%, none 14.2%, unspecified 1.8% (2023 est.)<br>
-
-**Demographic profile**<br>
-<p>Colombia is in the midst of a demographic transition resulting from steady declines in its fertility, mortality, and population growth rates. The birth rate has fallen from more than 6 children per woman in the 1960s to just below replacement level today as a result of increased literacy, family planning services, and urbanization. However, income inequality is among the worst in the world, and almost one-third of the population lives below the poverty line.</p> <p>Colombia experiences significant legal and illegal economic emigration and refugee outflows. Large-scale labor emigration dates to the 1960s; the United States and, until recently, Venezuela have been the main host countries.  Emigration to Spain picked up in the 1990s because of its economic growth, but this flow has since diminished because of Spain’s ailing economy and high unemployment. Venezuela’s political and economic crisis since 2015 has prompted many Colombians to return home. </p> <p>Forced displacement continues to be prevalent because of violence among guerrillas, paramilitary groups, and Colombian security forces. Afro-Colombian and indigenous populations are disproportionately affected.  Even with the Colombian Government’s December 2016 peace agreement with the Revolutionary Armed Forces of Colombia (FARC), the risk of displacement remains as other rebel groups fill the void left by the FARC.  As of April 2023, almost 6.9 million people were internally displaced in Colombia. This estimate may undercount actual numbers because many internally displaced persons are not registered. Historically, Colombia also has one of the world’s highest levels of forced disappearances. The Colombian Truth Commission estimated than nearly 122,000 people were the victims of forced disappearances during the countries five-decade-long armed conflict—including human rights activists, trade unionists, Afro-Colombians, indigenous people, and farmers in rural conflict zones.</p> <p>Because of political violence and economic problems, Colombia received limited numbers of immigrants during the 19th and 20th centuries, mostly from the Middle East, Europe, and Japan.  More recently, growth in the oil, mining, and manufacturing sectors has attracted increased labor migration; the primary source countries are Venezuela, the US, Mexico, and Argentina.  Colombia has also become a transit area for illegal migrants from Africa, Asia, and the Caribbean – especially Haiti and Cuba – who are en route to the US or Canada.  Between 2016 and October 2022, Colombia was host to the largest number of Venezuelan refugees and migrants, totaling almost 2.9 million. Ecuadorian migrants also go to Colombia, many of them attempting to transit the dense and dangerous jungles of the Darien Gap to enter Panama and head onward to the US.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 22.3% (male 5,643,995/female 5,394,147)<br>
@@ -709,8 +706,8 @@ _key ports_: Barranquilla, Buenaventura, Cartagena, Covenas, El Bosque, Mamonal,
 ## Military and Security
 
 **Military and security forces**<br>
-Military Forces of Colombia (Fuerzas Militares de Colombia<em lang="es">)</em>: National Army (Ejercito Nacional), Republic of Colombia Navy (Armada Republica de Colombia, ARC; includes Coast Guard and marines), Colombian Air Force (Fuerza Aerea de Colombia, FAC); Colombian National Police (PNC) (2024)<br>
-note: the PNC is a civilian force that is under the jurisdiction of the Ministry of Defense<br>
+Military Forces of Colombia (Fuerzas Militares de Colombia<em lang="es">)</em>: National Army (Ejercito Nacional), Colombian Aerospace Force (Fuerza Aeroespacial Colombiana, FAC), Colombian Navy (Armada de Colombia; includes Coast Guard); National Police of Colombia (Policia Nacional de Colombia, PNC) (2025)<br>
+<strong>note:</strong> the PNC is a civilian force under the jurisdiction of the Ministry of Defense<br>
 
 **Military expenditures**<br>
 2.9% of GDP (2023 est.)<br>
@@ -726,7 +723,7 @@ information varies; approximately 260,000 active troops (200,000 Army; 45,000 Na
 the military's inventory includes a wide mix of equipment from a variety of suppliers, including Canada, Germany, Israel, South Korea, and especially the US; Colombia's defense industry is active in producing air, land, and naval platforms (2024)<br>
 
 **Military service age and obligation**<br>
-18-24 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 18 months or 12 months for those with a college degree; conscripted soldiers reportedly include regular soldiers (conscripts without a high school degree), drafted high school graduates (bachilleres), and rural (campesino) soldiers who serve in their home regions (2024)<br>
+18-24 years of age for compulsory (men) and voluntary (men and women) military (and police) service; conscript service obligation is 18 months or 12 months for those with a college degree; conscripted soldiers reportedly include regular soldiers (conscripts without a high school degree), drafted high school graduates (bachilleres), and rural (campesino) soldiers who serve in their home regions (2024)<br>
 <strong>note:</strong> the Colombian military first incorporated women in 1976 in administrative positions; women were incorporated as non-commissioned officers in 1983 and officers in 2009; as of 2023, about 6,000 women served in the uniformed military while more than 30,000 served in the National Police<br>
 
 **Military deployments**<br>

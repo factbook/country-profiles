@@ -24,7 +24,7 @@ _land_: 360 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-slightly more than twice the size of Washington, DC<br>
+slightly more than twice the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 72 km<br>
@@ -72,9 +72,9 @@ once a strategic strip of land along Mideast-North African trade routes that has
 ## People and Society
 
 **Population**<br>
-_total_: 2,141,643<br>
+_total_: 2,141,643 (2024 est.)<br>
 _male_: 1,086,340<br>
-_female_: 1,055,303 (2024 est.)<br>
+_female_: 1,055,303<br>
 
 **Ethnic groups**<br>
 Palestinian Arab<br>

@@ -94,9 +94,9 @@ largest West European nation; most major French rivers -- the Meuse, Seine, Loir
 ## People and Society
 
 **Population**<br>
-_total_: 68,374,591<br>
+_total_: 68,374,591 (2024 est.)<br>
 _male_: 33,557,094<br>
-_female_: 34,817,497 (2024 est.)<br>
+_female_: 34,817,497<br>
 
 **Nationality**<br>
 _noun_: Frenchman(men), Frenchwoman(women)<br>

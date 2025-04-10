@@ -24,7 +24,7 @@ _land_: 397,302 sq km<br>
 _water_: 9,450 sq km<br>
 
 **Area - comparative**<br>
-about three times the size of New York state; slightly smaller than California<br>
+about three times the size of New York State; slightly smaller than California<br>
 
 **Land boundaries**<br>
 _total_: 4,655 km<br>
@@ -82,9 +82,9 @@ local flooding in southeast (early September to June); poorly drained plains may
 ## People and Society
 
 **Population**<br>
-_total_: 7,522,549<br>
+_total_: 7,522,549 (2024 est.)<br>
 _male_: 3,769,376<br>
-_female_: 3,753,173 (2024 est.)<br>
+_female_: 3,753,173<br>
 
 **Nationality**<br>
 _noun_: Paraguayan(s)<br>
@@ -100,9 +100,6 @@ _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indi
 
 **Religions**<br>
 Roman Catholic 80.4%, Protestant 7% (Evangelical (non-specific) 6.7%, Evangelical Pentecostal &lt;0.1%, Adventist &lt;0.1%, Protestant (non-specific) &lt;0.1%), Believer (not belonging to the church) 5.7%, other 0.6%, agnostic &lt;0.1%, none 0.2%, unspecified 6.2% (2023 est.)<br>
-
-**Demographic profile**<br>
-<p>Paraguay falls below the Latin American average in several socioeconomic categories, including immunization rates, potable water, sanitation, and secondary school enrollment, and has greater rates of income inequality and child and maternal mortality. Paraguay's poverty rate has declined in recent years but remains high, especially in rural areas, with more than a third of the population below the poverty line. However, the well-being of the poor in many regions has improved in terms of housing quality and access to clean water, telephone service, and electricity. The fertility rate continues to drop, declining sharply from an average 4.3 births per woman in the late 1990s to about 2 in 2013, as a result of the greater educational attainment of women, increased use of contraception, and a desire for smaller families among young women.</p><p>Paraguay is a country of emigration; it has not attracted large numbers of immigrants because of political instability, civil wars, years of dictatorship, and the greater appeal of neighboring countries. Paraguay first tried to encourage immigration in 1870 in order to rebound from the heavy death toll it suffered during the War of the Triple Alliance, but it received few European and Middle Eastern immigrants. In the 20th century, limited numbers of immigrants arrived from Lebanon, Japan, South Korea, and China, as well as Mennonites from Canada, Russia, and Mexico. Large flows of Brazilian immigrants have been arriving since the 1960s, mainly to work in agriculture. Paraguayans continue to emigrate to Argentina, Brazil, Uruguay, the United States, Italy, Spain, and France.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 22.2% (male 850,191/female 821,237)<br>

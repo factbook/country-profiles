@@ -80,9 +80,9 @@ controls most land routes from Western Europe to Aegean Sea and Turkish Straits;
 ## People and Society
 
 **Population**<br>
-_total_: 4,150,116<br>
+_total_: 4,150,116 (2024 est.)<br>
 _male_: 2,003,431<br>
-_female_: 2,146,685 (2024 est.)<br>
+_female_: 2,146,685<br>
 
 **Nationality**<br>
 _noun_: Croat(s), Croatian(s)<br>
@@ -685,7 +685,7 @@ _key ports_: Bakar, Dubrovnik, Omisalj, Rijeka Luka, Rovinj, Sibenik, Split, Zad
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH): Ground Forces (Hrvatska Kopnena Vojska, HKoV), Naval Forces (Hrvatska Ratna Mornarica, HRM; includes Coast Guard), Air Force (Hrvatsko Ratno Zrakoplovstvo, HRZ) (2024)<br>
+Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH): Croatian Army (Hrvatska Kopnena Vojska, HKoV), Croatian Navy (Hrvatska Ratna Mornarica, HRM; includes Coast Guard), Croatian Air Force (Hrvatsko Ratno Zrakoplovstvo, HRZ) (2025)<br>
 <strong>note:</strong> the Ministry of the Interior is responsible for internal security, including law enforcement (Croatia Police) and border security<br>
 
 **Military expenditures**<br>

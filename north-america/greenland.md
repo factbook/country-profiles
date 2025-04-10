@@ -73,9 +73,9 @@ dominates North Atlantic Ocean between North America and Europe; sparse populati
 ## People and Society
 
 **Population**<br>
-_total_: 57,751<br>
+_total_: 57,751 (2024 est.)<br>
 _male_: 29,843<br>
-_female_: 27,908 (2024 est.)<br>
+_female_: 27,908<br>
 
 **Nationality**<br>
 _noun_: Greenlander(s)<br>

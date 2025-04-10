@@ -76,9 +76,9 @@ fertile central plains are separated by hilly uplands that are ancient glacial d
 ## People and Society
 
 **Population**<br>
-_total_: 2,628,186<br>
+_total_: 2,628,186 (2024 est.)<br>
 _male_: 1,214,994<br>
-_female_: 1,413,192 (2024 est.)<br>
+_female_: 1,413,192<br>
 
 **Nationality**<br>
 _noun_: Lithuanian(s)<br>
@@ -286,7 +286,7 @@ _conventional short form_: Lithuania<br>
 _local long form_: Lietuvos Respublika<br>
 _local short form_: Lietuva<br>
 _former_: Lithuanian Soviet Socialist Republic (while occupied by the USSR)<br>
-_etymology_: meaning of the name "Lietuva" remains unclear and is debated by scholars; it may derive from the Lietava, a stream in east central Lithuania<br>
+_etymology_: meaning of the name is obscure; may be derived from the local words <em>lietava</em>, meaning "small river," or <em>lietus</em>, meaning "rain" or "land of rain," or the Latin word <em>litus</em>, meaning "shore"<br>
 
 **Government type**<br>
 semi-presidential republic<br>

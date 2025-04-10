@@ -24,7 +24,7 @@ _land_: 437,367 sq km<br>
 _water_: 950 sq km<br>
 
 **Area - comparative**<br>
-slightly more than three times the size of New York state<br>
+slightly more than three times the size of New York State<br>
 
 **Land boundaries**<br>
 _total_: 3,809 km<br>
@@ -86,9 +86,9 @@ strategic location on Shatt al Arab waterway and at the head of the Persian Gulf
 ## People and Society
 
 **Population**<br>
-_total_: 42,083,436<br>
+_total_: 42,083,436 (2024 est.)<br>
 _male_: 21,193,356<br>
-_female_: 20,890,080 (2024 est.)<br>
+_female_: 20,890,080<br>
 
 **Nationality**<br>
 _noun_: Iraqi(s)<br>
@@ -301,7 +301,7 @@ _conventional short form_: Iraq<br>
 _local long form_: Jumhuriyat al-Iraq/Komar-i Eraq<br>
 _local short form_: Al Iraq/Eraq<br>
 _former_: Mesopotamia, Mandatory Iraq, Hashemite Kingdom of Iraq<br>
-_etymology_: the name probably derives from "Uruk" (Biblical "Erech"), the ancient Sumerian and Babylonian city on the Euphrates River<br>
+_etymology_: the name probably derives from Uruk ("Erech" in Aramaic), the ancient Sumerian and Babylonian city on the Euphrates River<br>
 
 **Government type**<br>
 federal parliamentary republic<br>

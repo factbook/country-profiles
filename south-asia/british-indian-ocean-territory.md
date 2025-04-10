@@ -25,7 +25,7 @@ _water_: 54,340 sq km<br>
 <strong>note:</strong> includes the entire Chagos Archipelago of 55 islands<br>
 
 **Area - comparative**<br>
-land area is about one-third the size of Washington, DC<br>
+land area is about one-third the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>

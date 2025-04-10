@@ -91,9 +91,9 @@ _The New Seven Wonders of the World_: <p>A private initiative to come up with a 
 ## People and Society
 
 **Population**<br>
-_total_: 8,057,236,243<br>
+_total_: 8,057,236,243 (2024 est.)<br>
 _male_: 4,046,854,454<br>
-_female_: 4,010,381,789 (2024 est.)<br>
+_female_: 4,010,381,789<br>
 
 **Languages**<br>
 <p><strong>most-spoken language: </strong>English 18.8%, Mandarin Chinese 13.8%, Hindi 7.5%, Spanish 6.9%, French 3.4%, Arabic 3.4%, Bengali 3.4%, Russian 3.2%, Portuguese 3.2%, Urdu 2.9% (2022 est.) <br><br><strong>most-spoken first language:</strong> Mandarin Chinese 12.3%, Spanish 6%, English 5.1%, Arabic 5.1%, Hindi 3.5%, Bengali 3.3%, Portuguese 3%, Russian 2.1%, Japanese 1.7%, Punjabi, Western 1.3%, Javanese 1.1% (2018 est.)</p> <p><strong>note 1:</strong> the six UN languages - Arabic, Chinese (Mandarin), English, French, Russian, and Spanish (Castilian) - are the mother tongue or second language of about 49.6% of the world's population (2022), and are the official languages in more than half the states in the world; some 400 languages have more than a million first-language speakers (2018)</p> <p><strong>note 2:</strong> all told, there are estimated to be 7,168 living languages spoken in the world (2023); approximately 80% of these languages are spoken by less than 100,000 people; about 150 languages are spoken by fewer than 10 people; communities that are isolated from each other in mountainous regions often develop multiple languages; Papua New Guinea, for example, boasts about 840 separate languages (2018)</p> <p><strong>note 3:</strong> approximately 2,300 languages are spoken in Asia, 2,140, in Africa, 1,310 in the Pacific, 1,060 in the Americas, and 290 in Europe (2020)</p><br>

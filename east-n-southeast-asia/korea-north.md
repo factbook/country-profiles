@@ -75,9 +75,9 @@ strategic location bordering China, South Korea, and Russia; mountainous interio
 ## People and Society
 
 **Population**<br>
-_total_: 26,298,666<br>
+_total_: 26,298,666 (2024 est.)<br>
 _male_: 12,828,269<br>
-_female_: 13,470,397 (2024 est.)<br>
+_female_: 13,470,397<br>
 
 **Nationality**<br>
 _noun_: Korean(s)<br>
@@ -453,30 +453,30 @@ _Currency_: North Korean won (KPW) per US dollar (average market rate)<br>
 _electrification - total population_: 54.7% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 8.277 million kW (2022 est.)<br>
-_consumption_: 18.24 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 4.033 billion kWh (2022 est.)<br>
+_installed generating capacity_: 8.357 million kW (2023 est.)<br>
+_consumption_: 22.448 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 4.101 billion kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 42.1% of total installed capacity (2022 est.)<br>
-_solar_: 0.3% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 57.6% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 36.9% of total installed capacity (2023 est.)<br>
+_solar_: 0.6% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 62.5% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_production_: 21.747 million metric tons (2022 est.)<br>
-_consumption_: 21.747 million metric tons (2022 est.)<br>
-_proven reserves_: 10.6 billion metric tons (2022 est.)<br>
+_production_: 21.928 million metric tons (2023 est.)<br>
+_consumption_: 22.105 million metric tons (2023 est.)<br>
+_proven reserves_: 10.6 billion metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 17,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 18,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 61.605 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 58.987 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 2.617 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 55.744 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 52.985 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 2.759 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 25.876 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 23.83 million Btu/person (2023 est.)<br>
 
 ## Communications
 

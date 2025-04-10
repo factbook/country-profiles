@@ -77,9 +77,9 @@ both the main area of the country and the Naxcivan exclave are landlocked<br>
 ## People and Society
 
 **Population**<br>
-_total_: 10,650,239<br>
+_total_: 10,650,239 (2024 est.)<br>
 _male_: 5,330,233<br>
-_female_: 5,320,006 (2024 est.)<br>
+_female_: 5,320,006<br>
 
 **Nationality**<br>
 _noun_: Azerbaijani(s)<br>
@@ -97,9 +97,6 @@ _major-language sample(s)_: <br>Dünya fakt kitabı, əsas məlumatlar üçün �
 **Religions**<br>
 Muslim 97.3% (predominantly Shia), Christian 2.6%, other &lt;0.1, unaffiliated &lt;0.1 (2020 est.)<br>
 <strong>note:</strong> religious affiliation for the majority of Azerbaijanis is largely nominal, percentages for actual practicing adherents are probably much lower<br>
-
-**Demographic profile**<br>
-<p>Azerbaijan’s citizenry has over 80 ethnic groups. The far eastern part of the country has the highest population density, particularly in and around Baku. Apart from smaller urbanized areas, the rest of the country has a fairly light and evenly distributed population. Approximately 57% of the country’s inhabitants lives in urban areas.  While the population is continuing to grow, it is in the early stages of aging. The declining fertility rate – which has decreased from about 5.5 children per woman in the 1950s to less than the 2.1 replacement level in 2022 – combined with increasing life expectancy has resulted in the elderly making up a larger share of Azerbaijan’s populace. The percentage of elderly residents and the slowed growth and eventual shrinkage of the working-age population could put pressure on the country’s pension and healthcare systems. </p><br>
 
 **Age structure**<br>
 _0-14 years_: 22.3% (male 1,269,241/female 1,104,529)<br>

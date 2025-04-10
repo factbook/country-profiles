@@ -81,9 +81,9 @@ nearly half of the population is concentrated in the interior in the Andean inte
 ## People and Society
 
 **Population**<br>
-_total_: 18,309,984<br>
+_total_: 18,309,984 (2024 est.)<br>
 _male_: 9,023,170<br>
-_female_: 9,286,814 (2024 est.)<br>
+_female_: 9,286,814<br>
 
 **Nationality**<br>
 _noun_: Ecuadorian(s)<br>
@@ -99,9 +99,6 @@ _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indi
 
 **Religions**<br>
 Roman Catholic 68.2%, Protestant 19% (Evangelical 18.3%, Adventist 0.6%, other Protestant 0.2%), Jehovah's Witness 1.4%, other 2.3%, none 8.2% don't know/no response 1% (2023 est.)<br>
-
-**Demographic profile**<br>
-<p>Ecuador’s high poverty and income inequality most affect indigenous, mixed race, and rural populations.  The government has increased its social spending to ameliorate these problems, but critics question the efficiency and implementation of its national development plan.  Nevertheless, the conditional cash transfer program, which requires participants’ children to attend school and have medical check-ups, has helped improve educational attainment and health care among poor children.  Ecuador’s total fertility rate – the average number of children born per woman – is just below replacement level as of 2023, but its population is continuing to grow.</p> <p>Ecuador continues to be both a country of emigration and immigration. The first large-scale emigration of largely undocumented Ecuadorians occurred between 1980 and 2000, when an economic crisis drove Ecuadorians from southern provinces to New York City, where they had connections from the earlier Panama hat trade. Emigration from all parts of Ecuador in the late 1990s was caused by another economic downturn, political instability, and a currency crisis. Spain was the logical destination because of its shared language and the wide availability of low-skilled, informal jobs at a time when increased border surveillance made illegal migration to the US difficult. Ecuador became Spain’s second largest immigrant source country. The bulk of Ecuadorian emigration, however, occurred between 2000 and 2007, largely to the US, Spain, and Italy.  Emigration has again surged since 2017, as economic problems, high unemployment, poverty, and violence have lead thousands of Ecuadorian migrants and refugees to head to the US.  As of 2021, Ecuadorians were the fourth-highest nationality coming into contact with US Customs and Border Protection at the US-Mexico border. Most Ecuadorian migrants and refugees traverse the dangerous Darien Gap between Colombia and Panama to reach Mexico. Although Mexico reinstated a visa requirement in September 2021, Ecuadorians continue to enter Mexico illegally and then travel to the US or Canada.  Some wind up staying in Mexico if their journeys north fail. Emigrants represent 8-10% of Ecuador’s population, as of 2021. </p> <p>Ecuador hosts one of the region’s largest refugee populations.  From 2000-2005, Colombians arrived in growing numbers to escape armed conflict, and they have continued to immigrate to Ecuador steadily.  Between 2008, when Ecuador lifted visa requirements for all countries, and 2016, immigrants entered from Haiti, Cuba, and other continents.  The influx of Venezuelans began in 2017, and, as of May 2022, Ecuador was home to the third-largest community of Venezuelan migrants and refugees in the world at over half a million.  Immigrants and refugees account for 3-5% of the Ecuador’s population, as of 2021.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 26.8% (male 2,505,729/female 2,395,198)<br>
@@ -354,8 +351,8 @@ _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 2/9/2025<br>
-_parties elected and seats per party_: Citizen Revolution Movement (RC) (51); Movimiento Construye (MC25) (28); National Democratic Action (ADN) (14); Social Christian Party (PSC) (8); Let’s Act (8); Other (28)<br>
-_percentage of women in chamber_: 43.1%<br>
+_parties elected and seats per party_: Citizen Revolution Movement (RC) - Renewal Movement (RETO) (67); National Democratic Action (ADN) (66); Pachakutik (9); Other (9)<br>
+_percentage of women in chamber_: 45%<br>
 _expected date of next election_: February 2029<br>
 <strong>note 1:</strong> all Assembly members have alternates from the same party who cast votes when a primary member is absent, resigns, or is removed from office<br><br><strong>note 2:</strong> on 18 May 2023, Ecuador’s National Electoral Council announced that the legislative and presidential elections - originally scheduled for February 2025 - would be held on 20 August 2023 after President Guillermo LASSO dissolved the National Assembly by decree on 17 May 2023; a return to a regular election cycle will occur in February 2025<br>
 
@@ -687,7 +684,7 @@ _key ports_: Esmeraldas, Guayaquil, La Libertad, Manta, Puerto Bolivar, Puerto M
 ## Military and Security
 
 **Military and security forces**<br>
-Ecuadorian Armed Forces: the Ecuadorian Army (Ejército Ecuatoriano), Ecuadorian Navy (Armada del Ecuador, Fuerza Naval del Ecuador, FNE; includes naval infantry, naval aviation, coast guard), Ecuadorian Air Force (Fuerza Aerea Ecuatoriana, FAE) (2024)<br>
+Ecuadorian Armed Forces ((Fuerzas Armadas del Ecuador): Ground Force (Fuerza Terrestre), Naval Force (Fuerza Naval; includes naval infantry, naval aviation, coast guard), Ecuadorian Air Force (Fuerza Aérea Ecuatoriana) (2024)<br>
 <strong>note:</strong> the National Police of Ecuador (Policía Nacional del Ecuador) is under the Ministry of Government/Interior<br>
 
 **Military expenditures**<br>
@@ -708,7 +705,7 @@ the military's inventory includes a diverse mix of older and smaller quantities 
 <strong>note: </strong>in 2022, women made up an estimated 3-4% of the military<br>
 
 **Military - note**<br>
-the military is responsible for preserving Ecuador’s national sovereignty and defending the integrity of the state; it also has some domestic security responsibilities and may complement police operations in maintaining public order if required; the military shares responsibility for border enforcement with the National Police; it participates in bilateral and multinational training exercises and has sent troops on UN peacekeeping missions; the military has defense ties to regional countries, such as Chile, Colombia, and Peru, and security ties with the US have been revived in recent years<br><br>border conflicts with Peru dominated the military’s focus until the late 1990s and border security remains a priority, but in more recent years, security challenges have included counterinsurgency and counternarcotics operations, particularly in the northern border area where violence and other criminal activity related to terrorism, insurgency, and narco-trafficking in Colombia, as well as refugees from Venezuela, have spilled over the border; the military has established a joint service task force for counterinsurgency and counternarcotics operations and boosted troop deployments along those borders; other missions include countering illegal mining, smuggling, and maritime piracy; since 2012, the Ecuadorian Government has expanded the military’s role in general public security and domestic crime operations, in part due to rising violence, police corruption, and police ineffectiveness <br><br>the Joint Command of the Armed Forces (El Comando Conjunto de las Fuerzas Armadas or CCFFAA) is the military’s highest body for planning, preparation, and strategic conduct of military operations; the chief of the CCFFAA is appointed by the president; the military is deployed throughout the country in five joint service operational commands or task forces; it also has a cyber defense command <br><br>the military ruled the country from 1963-1966 and 1972-1979, and supported a dictatorship in 1970-1972; during the 1980s, the military remained loyal to the civilian government, but civilian-military relations were at times tenuous, and the military had considerable autonomy from civilian oversight; it was involved in coup attempts in 2000 and 2010 (2024)<br>
+the military is responsible for preserving Ecuador’s national sovereignty and defending the integrity of the state; it also has some domestic security responsibilities and may complement police operations in maintaining public order if required; the military shares responsibility for border enforcement with the National Police; it participates in bilateral and multinational training exercises and has sent troops on UN peacekeeping missions; the military has defense ties to regional countries, such as Chile, Colombia, and Peru, and security ties with the US have been revived in recent years<br><br>border conflicts with Peru dominated the military’s focus until the late 1990s and border security remains a priority, but in more recent years, security challenges have included counterinsurgency and counternarcotics operations, particularly in the northern border area where violence and other criminal activity related to terrorism, insurgency, and narco-trafficking in Colombia, as well as refugees from Venezuela, have spilled over the border; the military has established a joint service task force for counterinsurgency and counternarcotics operations and boosted troop deployments along those borders; other missions include countering illegal mining, smuggling, and maritime piracy; since 2012, the Ecuadorian Government has expanded the military’s role in general public security and domestic crime operations, in part due to rising violence, police corruption, and police ineffectiveness <br><br>the military ruled the country from 1963-1966 and 1972-1979, and supported a dictatorship in 1970-1972; during the 1980s, the military remained loyal to the civilian government, but civilian-military relations were at times tenuous, and the military had considerable autonomy from civilian oversight; it was involved in coup attempts in 2000 and 2010 (2025)<br>
 
 ## Space
 

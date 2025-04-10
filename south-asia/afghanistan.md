@@ -82,9 +82,9 @@ landlocked; the Hindu Kush mountains that run northeast to southwest divide the 
 ## People and Society
 
 **Population**<br>
-_total_: 40,121,552<br>
+_total_: 40,121,552 (2024 est.)<br>
 _male_: 20,301,066<br>
-_female_: 19,820,486 (2024 est.)<br>
+_female_: 19,820,486<br>
 
 **Nationality**<br>
 _noun_: Afghan(s)<br>

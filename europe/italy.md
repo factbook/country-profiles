@@ -78,9 +78,9 @@ strategic location dominating central Mediterranean as well as southern sea and 
 ## People and Society
 
 **Population**<br>
-_total_: 60,964,931<br>
+_total_: 60,964,931 (2024 est.)<br>
 _male_: 29,414,065<br>
-_female_: 31,550,866 (2024 est.)<br>
+_female_: 31,550,866<br>
 
 **Nationality**<br>
 _noun_: Italian(s)<br>
@@ -289,7 +289,7 @@ _conventional short form_: Italy<br>
 _local long form_: Repubblica Italiana<br>
 _local short form_: Italia<br>
 _former_: Kingdom of Italy<br>
-_etymology_: derivation is unclear, but the Latin "Italia" may come from the Oscan "Viteliu" meaning "[Land] of Young Cattle" (the bull was a symbol of southern Italic tribes)<br>
+_etymology_: derivation is unclear; traditionally said to come from the Vitali, a tribe that settled in what is now Calabria, and whose name is believed to be linked to the Latin word <em>vitulus</em>, or "calf;" alternatively, the name may derive from a local ruler known to the Romans as Italus<br>
 
 **Government type**<br>
 parliamentary republic<br>
@@ -332,7 +332,7 @@ _residency requirement for naturalization_: 4 years for EU nationals, 5 years fo
 **Executive branch**<br>
 _chief of state_: President Sergio MATTARELLA (since 3 February 2015)<br>
 _head of government_: Prime Minister Giorgia MELONI (since 22 October 2022); the prime minister's official title is President of the Council of Ministers<br>
-_cabinet_: Council of Ministers proposed by the prime minister, known officially as the President of the Council of Ministers and locally as the Premier; nominated by the president<br>
+_cabinet_: Council of Ministers proposed by the prime minister, who is known officially as the President of the Council of Ministers and locally as the Premier; nominated by the president<br>
 _elections/appointments_: president indirectly elected by an electoral college consisting of both houses of Parliament and 58 regional representatives for a 7-year term (no term limits); election last held on 24-29 January 2022 (eight rounds) (next to be held in 2029); prime minister appointed by the president, confirmed by parliament<br>
 _election results_: <br><em>2022:</em> Sergio MATTARELLA (independent) reelected president; electoral college vote count in eighth round - 759 out of 1,009 (505 vote threshold)<br><br><em>2015: </em>Sergio MATTARELLA (independent) elected president; electoral college vote count in fourth round - 665 out of 995 (505 vote threshold) <p> </p><br>
 

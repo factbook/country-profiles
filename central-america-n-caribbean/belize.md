@@ -74,9 +74,9 @@ only country in Central America without a coastline on the North Pacific Ocean<b
 ## People and Society
 
 **Population**<br>
-_total_: 415,789<br>
+_total_: 415,789 (2024 est.)<br>
 _male_: 205,895<br>
-_female_: 209,894 (2024 est.)<br>
+_female_: 209,894<br>
 
 **Nationality**<br>
 _noun_: Belizean(s)<br>
@@ -93,9 +93,6 @@ _major-language sample(s)_: <br>The World Factbook, the indispensable source for
 
 **Religions**<br>
 Roman Catholic 40.1%, Protestant 31.5% (includes Pentecostal 8.4%, Seventh Day Adventist 5.4%, Anglican 4.7%, Mennonite 3.7%, Baptist 3.6%, Methodist 2.9%, Nazarene 2.8%), Jehovah's Witness 1.7%, other 10.5% (includes Baha'i, Buddhist, Hindu, Church of Jesus Christ, Muslim, Rastafarian, Salvation Army), unspecified 0.6%, none 15.5% (2010 est.)<br>
-
-**Demographic profile**<br>
-<p>Migration continues to transform Belize's population. About 16% of Belizeans live abroad, while immigrants constitute approximately 15% of Belize's population. Belizeans seeking job and educational opportunities have preferred to emigrate to the United States rather than former colonizer Great Britain because of the United States' closer proximity and stronger trade ties with Belize. Belizeans also emigrate to Canada, Mexico, and English-speaking Caribbean countries. The emigration of a large share of Creoles (Afro-Belizeans) and the influx of Central American immigrants, mainly Guatemalans, Salvadorans, and Hondurans, has changed Belize's ethnic composition. Mestizos have become the largest ethnic group, and Belize now has more native Spanish speakers than English or Creole speakers, despite English being the official language. In addition, Central American immigrants are establishing new communities in rural areas, which contrasts with the urbanization trend seen in neighboring countries. Recently, Chinese, European, and North American immigrants have become more frequent.</p><p>Immigration accounts for an increasing share of Belize's population growth rate, which is steadily falling due to fertility decline. Belize's declining birth rate and its increased life expectancy are creating an aging population. As the elderly population grows and nuclear families replace extended households, Belize's government will be challenged to balance a rising demand for pensions, social services, and healthcare for its senior citizens with the need to reduce poverty and social inequality and to improve sanitation.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 27.7% (male 58,529/female 56,811)<br>
@@ -336,10 +333,10 @@ _number of seats_: 32 (all directly elected)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 11/11/2020<br>
+_most recent election date_: 3/12/2025<br>
 _parties elected and seats per party_: People's United Party (PUP) (26); United Democratic Party (UDP) (5)<br>
-_percentage of women in chamber_: 15.6%<br>
-_expected date of next election_: March 2025<br>
+_percentage of women in chamber_: 9.7%<br>
+_expected date of next election_: March 2030<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate<br>
@@ -649,8 +646,8 @@ _key ports_: Belize City, Big Creek<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Belize Defense Force (BDF): Army, Air Wing; Belize Coast Guard; Belize Police Department (2024)<br>
-<strong>note:</strong> the Ministry of National Defense and Border Security is responsible for oversight of the BDF and the Coast Guard, while the Ministry of Home Affairs and New Growth Industries has responsibility for the Belize Police Department and prisons; the Police Department is primarily responsible for internal security<br>
+Belize Defense Force (BDF): Army, Air Wing; Belize Coast Guard (BCG) (2025)<br>
+<strong>note:</strong> the Ministry of National Defense and Border Security is responsible for oversight of the BDF and the Coast Guard, while the Ministry of Home Affairs and New Growth Industries has responsibility for the Belize Police Department (BPD) and prisons<br>
 
 **Military expenditures**<br>
 0.9% of GDP (2023 est.)<br>

@@ -80,9 +80,9 @@ strategic location along Strait of Otranto (links Adriatic Sea to Ionian Sea and
 ## People and Society
 
 **Population**<br>
-_total_: 3,107,100<br>
+_total_: 3,107,100 (2024 est.)<br>
 _male_: 1,531,063<br>
-_female_: 1,576,037 (2024 est.)<br>
+_female_: 1,576,037<br>
 
 **Nationality**<br>
 _noun_: Albanian(s)<br>

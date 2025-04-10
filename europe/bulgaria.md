@@ -81,9 +81,9 @@ strategic location near Turkish Straits; controls key land routes from Europe to
 ## People and Society
 
 **Population**<br>
-_total_: 6,782,659<br>
+_total_: 6,782,659 (2024 est.)<br>
 _male_: 3,303,491<br>
-_female_: 3,479,168 (2024 est.)<br>
+_female_: 3,479,168<br>
 
 **Nationality**<br>
 _noun_: Bulgarian(s)<br>
@@ -693,8 +693,8 @@ _key ports_: Burgas, Varna<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bulgarian Armed Forces (aka Bulgarian Army): Land Forces, Air Force, Navy<br><br>Ministry of Interior: General Directorate National Police (GDNP), General Directorate Border Police (GDBP), General Directorate for Combating Organized Crime (GDCOC), Fire Safety and Civil Protection General Directorate, Special Unit for Combating Terrorism (SOBT) (2024)<br>
-<strong>note:</strong> the GDMP includes the Gendarmerie, a special police force with military status deployed to secure important facilities, buildings and infrastructure, to respond to riots, and to counter militant threats<br>
+Bulgarian Armed Forces (aka Bulgarian Army): Land Forces, Air Force, Navy<br><br>Ministry of Interior: General Directorate National Police (GDNP), General Directorate Border Police (GDBP), Special Unit for Combating Terrorism (SOBT) (2025)<br>
+<strong>note 1: </strong>the Bulgarian military also has a Joint Special Operations Command, a Logistic Support Command, and a Communications and Information Support and Cyber Defence Command<br><strong><br>note 2:</strong> the GDNP includes the Gendarmerie, a special police force with military status deployed to secure important facilities, buildings and infrastructure, respond to riots, and counter militant threats<br>
 
 **Military expenditures**<br>
 2.2% of GDP (2024 est.)<br>
@@ -708,7 +708,7 @@ approximately 27,000 active-duty personnel (17,000 Army; 3,000 Navy; 7,000 Air F
 <strong>note:</strong> in 2021, Bulgaria released a 10-year defense plan which called for an active military strength of 43,000<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists mostly of Soviet-era equipment, although in recent years Bulgaria has procured limited amounts of more modern Western weapons systems (2023)<br>
+the military's inventory consists mostly of Soviet-era equipment, although in recent years Bulgaria has procured limited amounts of more modern Western weapons systems (2024)<br>
 
 **Military service age and obligation**<br>
 18-40 years of age for voluntary military service; conscription ended in 2007; service obligation 6-9 months (2023)<br>

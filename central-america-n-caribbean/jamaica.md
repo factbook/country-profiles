@@ -76,9 +76,9 @@ third largest island in the Caribbean (after Cuba and Hispaniola); strategic loc
 ## People and Society
 
 **Population**<br>
-_total_: 2,823,713<br>
+_total_: 2,823,713 (2024 est.)<br>
 _male_: 1,397,495<br>
-_female_: 1,426,218 (2024 est.)<br>
+_female_: 1,426,218<br>
 
 **Nationality**<br>
 _noun_: Jamaican(s)<br>
@@ -275,7 +275,7 @@ _agricultural_: 110 million cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: none<br>
 _conventional short form_: Jamaica<br>
-_etymology_: from the native Taino word "haymaca" meaning "Land of Wood and Water" or possibly "Land of Springs"<br>
+_etymology_: from the Arawak word <em>xaymaca</em>, meaning "Land of Wood and Water" or possibly "Land of Springs"<br>
 
 **Government type**<br>
 parliamentary democracy (Parliament) under a constitutional monarchy; a Commonwealth realm<br>

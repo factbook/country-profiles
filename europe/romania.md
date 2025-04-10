@@ -82,9 +82,9 @@ controls the most easily traversable land route between the Balkans, Moldova, an
 ## People and Society
 
 **Population**<br>
-_total_: 18,148,155<br>
+_total_: 18,148,155 (2024 est.)<br>
 _male_: 8,747,795<br>
-_female_: 9,400,360 (2024 est.)<br>
+_female_: 9,400,360<br>
 
 **Nationality**<br>
 _noun_: Romanian(s)<br>

@@ -79,9 +79,9 @@ landlocked; glacial scouring accounts for the flatness of Belarusian terrain and
 ## People and Society
 
 **Population**<br>
-_total_: 9,501,451<br>
+_total_: 9,501,451 (2024 est.)<br>
 _male_: 4,433,839<br>
-_female_: 5,067,612 (2024 est.)<br>
+_female_: 5,067,612<br>
 
 **Nationality**<br>
 _noun_: Belarusian(s)<br>
@@ -691,7 +691,7 @@ _by type_: other 4<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Belarus Armed Forces: Army, Air and Air Defense Force, Special Operations Force, Special Troops (electronic warfare, signals, engineers, biological/chemical/nuclear protection troops, etc)<br><br>Ministry of Interior: State Border Troops, Militia, Internal Troops (2024)<br>
+Belarus Armed Forces: Army, Air and Air Defense Force, Special Operations Force, Special Troops, Territorial Defense Forces<br><br>Ministry of Interior: State Border Troops, Militia, Internal Troops (2025)<br>
 <strong>note:</strong> in early 2023, President LUKASHENKA ordered the formation of a new volunteer paramilitary territorial defense force to supplement the Army<br>
 
 **Military expenditures**<br>

@@ -78,9 +78,9 @@ strategic location in central Mediterranean; Malta and Tunisia are discussing th
 ## People and Society
 
 **Population**<br>
-_total_: 12,048,847<br>
+_total_: 12,048,847 (2024 est.)<br>
 _male_: 5,972,242<br>
-_female_: 6,076,605 (2024 est.)<br>
+_female_: 6,076,605<br>
 
 **Nationality**<br>
 _noun_: Tunisian(s)<br>
@@ -96,9 +96,6 @@ _major-language sample(s)_: <br>كتاب حقائق العالم، أحسن كت
 
 **Religions**<br>
 Muslim (official; Sunni) 99%, other (includes Christian, Jewish, Shia Muslim, and Baha'i) &lt;1%<br>
-
-**Demographic profile**<br>
-<p>The Tunisian Government took steps in the 1960s to decrease population growth and gender inequality in order to improve socioeconomic development. Through its introduction of a national family planning program (the first in Africa) and by raising the legal age of marriage, Tunisia rapidly reduced its total fertility rate from about 7 children per woman in 1960 to 2 in 2022. Unlike many of its North African and Middle Eastern neighbors, Tunisia will soon be shifting from being a youth-bulge country to having a transitional age structure, characterized by lower fertility and mortality rates, a slower population growth rate, a rising median age, and a longer average life expectancy.</p> <p>Currently, the sizable young working-age population is straining Tunisia’s labor market and education and health care systems. Persistent high unemployment among Tunisia’s growing workforce, particularly its increasing number of university graduates and women, was a key factor in the uprisings that led to the overthrow of the BEN ALI regime in 2011. In the near term, Tunisia’s large number of jobless young, working-age adults; deficiencies in primary and secondary education; and the ongoing lack of job creation and skills mismatches could contribute to future unrest. In the longer term, a sustained low fertility rate will shrink future youth cohorts and alleviate demographic pressure on Tunisia’s labor market, but employment and education hurdles will still need to be addressed.</p> <p>Tunisia has a history of labor emigration. In the 1960s, workers migrated to European countries to escape poor economic conditions and to fill Europe’s need for low-skilled labor in construction and manufacturing. The Tunisian Government signed bilateral labor agreements with France, Germany, Belgium, Hungary, and the Netherlands, with the expectation that Tunisian workers would eventually return home. At the same time, growing numbers of Tunisians headed to Libya, often illegally, to work in the expanding oil industry. In the mid-1970s, with European countries beginning to restrict immigration and Tunisian-Libyan tensions brewing, Tunisian economic migrants turned toward the Gulf countries. After mass expulsions from Libya in 1983, Tunisian migrants increasingly sought family reunification in Europe or moved illegally to southern Europe, while Tunisia itself developed into a transit point for Sub-Saharan migrants heading to Europe.</p> <p>Following the ousting of BEN ALI in 2011, the illegal migration of unemployed Tunisian youths to Italy and onward to France soared into the tens of thousands. Thousands more Tunisian and foreign workers escaping civil war in Libya flooded into Tunisia and joined the exodus. A readmission agreement signed by Italy and Tunisia in April 2011 helped stem the outflow, leaving Tunisia and international organizations to repatriate, resettle, or accommodate some 1 million Libyans and third-country nationals.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 24.4% (male 1,516,871/female 1,426,522)<br>

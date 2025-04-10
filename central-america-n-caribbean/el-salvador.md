@@ -75,9 +75,9 @@ smallest Central American country and only one without a coastline on the Caribb
 ## People and Society
 
 **Population**<br>
-_total_: 6,628,702<br>
+_total_: 6,628,702 (2024 est.)<br>
 _male_: 3,172,244<br>
-_female_: 3,456,458 (2024 est.)<br>
+_female_: 3,456,458<br>
 
 **Nationality**<br>
 _noun_: Salvadoran(s)<br>
@@ -92,9 +92,6 @@ _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indi
 
 **Religions**<br>
 Roman Catholic 43.9%, Protestant 39.6% (Evangelical - unspecified 38.2%, Evangelical - Methodist 1.3%, Evangelical - Baptist 0.1%), none 16.3%, unspecified 0.2% (2023 est.)<br>
-
-**Demographic profile**<br>
-<p>El Salvador is the smallest and most densely populated country in Central America. It is well into its demographic transition, experiencing slower population growth, a decline in its number of youths, and the gradual aging of its population. The increased use of family planning has substantially lowered El Salvador's fertility rate, from approximately 6 children per woman in the 1970s to replacement level today. A 2008 national family planning survey showed that female sterilization remained the most common contraception method in El Salvador - its sterilization rate is among the highest in Latin America and the Caribbean - but that the use of injectable contraceptives is growing. Fertility differences between rich and poor and urban and rural women are narrowing.</p><p>Salvadorans fled during the 1979 to 1992 civil war mainly to the United States but also to Canada and to neighboring Mexico, Guatemala, Honduras, Nicaragua, and Costa Rica. Emigration to the United States increased again in the 1990s and 2000s as a result of deteriorating economic conditions, natural disasters (Hurricane Mitch in 1998 and earthquakes in 2001), and family reunification. At least 20% of El Salvador's population lives abroad. The remittances they send home account for close to 20% of GDP, are the second largest source of external income after exports, and have helped reduce poverty.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 25.3% (male 855,841/female 818,642)<br>
@@ -359,7 +356,7 @@ _chief of mission_: Ambassador Carmen Milena MAYORGA VALERA (since 23 December 2
 _chancery_: 1400 16th Street NW, Suite 100, Washington, DC 20036<br>
 _telephone_: [1] (202) 595-7500<br>
 _FAX_: [1] (202) 232-3763<br>
-_email address and website_: <br>infoEEUU@rree.gob.sv<br>
+_email address and website_: <br>infoEEUU@rree.gob.sv<br><br>https://rree.gob.sv/embajadas-consulados-y-misiones-permanentes-de-la-republica-de-el-salvador/<br>
 _consulate(s) general_: Aurora (CO), Boston, Charlotte (NC), Chicago, Dallas, Doral (FL), Duluth (GA), El Paso (TX), Elizabeth (NJ), Fresno (CA), Houston, Las Vegas (NV), Laredo (TX), Long Island (NY), Los Angeles, McAllen (TX), New York, Omaha (NE), San Bernardino (CA), San Francisco, Salt Lake City, Seattle, Silver Spring (MD), Springdale (AR), St. Paul (MN), Tucson (AZ), Woodbridge (VA)<br>
 
 **Diplomatic representation from the US**<br>
@@ -389,7 +386,7 @@ _selected World Heritage Site locales_: Joya de Cer&eacute;n Archaeological Site
 ## Economy
 
 **Economic overview**<br>
-growth-challenged Central American economy buttressed via remittances; dense labor force; fairly aggressive COVID-19 stimulus plan; new and lower banking reserve requirements; earthquake, tropical storm, and crime disruptions; widespread corruption<br>
+upper-middle income, dollarized Central American economy; reliant on remittances from US; recent growth linked to infrastructure investment, consumption, and crime reduction; $1.3 billion IMF loan to address fiscal imbalances; Bitcoin adopted as legal tender; persistent poverty and large informal sector<br>
 
 **Real GDP (purchasing power parity)**<br>
 $71.957 billion (2023 est.)<br>
@@ -661,8 +658,7 @@ _key ports_: Acajutla, Acajutla Offshore Terminal, La Union<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Armed Force of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of El Salvador (Ejercito de El Salvador, ES), Navy of El Salvador (Fuerza Naval de El Salvador, FNES), Salvadoran Air Force (Fuerza Aerea Salvadorena, FAS) (2024)<br>
-<strong>note:</strong> the National Civil Police (Policia Nacional Civil, PNC) are under the Ministry of Justice and Public Safety; in 2016, El Salvador created a combined Army commando and PNC unit to combat criminal gang violence<br>
+The Armed Forces of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of El Salvador (Ejercito de El Salvador, ES), Naval Force of El Salvador (Fuerza Naval de El Salvador, FNES), Salvadoran Air Force (Fuerza Aérea Salvadoreña, FAS)<br><br>Ministry of Justice and Public Safety: National Civil Police (Policia Nacional Civil, PNC) (2025)<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2023 est.)<br>

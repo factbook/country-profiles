@@ -25,7 +25,7 @@ _water_: 0 sq km<br>
 <strong>note:</strong> includes Alderney, Guernsey, Herm, Sark, and some other smaller islands<br>
 
 **Area - comparative**<br>
-about one-half the size of Washington, DC<br>
+about one-half the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -70,9 +70,9 @@ large, deepwater harbor at Saint Peter Port<br>
 ## People and Society
 
 **Population**<br>
-_total_: 67,787<br>
+_total_: 67,787 (2024 est.)<br>
 _male_: 33,712<br>
-_female_: 34,075 (2024 est.)<br>
+_female_: 34,075<br>
 
 **Nationality**<br>
 _noun_: Channel Islander(s)<br>

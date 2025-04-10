@@ -76,9 +76,9 @@ landlocked; major transportation corridor from Western and Central Europe to Aeg
 ## People and Society
 
 **Population**<br>
-_total_: 2,135,622<br>
+_total_: 2,135,622 (2024 est.)<br>
 _male_: 1,064,727<br>
-_female_: 1,070,895 (2024 est.)<br>
+_female_: 1,070,895<br>
 
 **Nationality**<br>
 _noun_: Macedonian(s)<br>

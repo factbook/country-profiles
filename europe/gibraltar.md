@@ -24,7 +24,7 @@ _land_: 6.5 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-more than 10 times the size of The National Mall in Washington, D.C.<br>
+more than 10 times the size of the National Mall in Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 1.2 km<br>
@@ -66,9 +66,9 @@ occasional droughts; no streams or large bodies of water on the peninsula (all p
 ## People and Society
 
 **Population**<br>
-_total_: 29,683<br>
+_total_: 29,683 (2024 est.)<br>
 _male_: 14,919<br>
-_female_: 14,764 (2024 est.)<br>
+_female_: 14,764<br>
 
 **Nationality**<br>
 _noun_: Gibraltarian(s)<br>

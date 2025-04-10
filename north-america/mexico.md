@@ -89,9 +89,9 @@ most of the population is found in the middle of the country between the states 
 ## People and Society
 
 **Population**<br>
-_total_: 130,739,927<br>
+_total_: 130,739,927 (2024 est.)<br>
 _male_: 63,899,138<br>
-_female_: 66,840,789 (2024 est.)<br>
+_female_: 66,840,789<br>
 
 **Nationality**<br>
 _noun_: Mexican(s)<br>
@@ -316,7 +316,7 @@ _conventional short form_: Mexico<br>
 _local long form_: Estados Unidos Mexicanos<br>
 _local short form_: Mexico<br>
 _former_: Mexican Republic, Mexican Empire<br>
-_etymology_: named after the capital city, whose name stems from the Mexica, the largest and most powerful branch of the Aztecs; the meaning of the name is uncertain<br>
+_etymology_: name may derive from one of the Nahuatl (Aztec) names for the capital city, Metztlixihtlico, which probably meant "the center of the moon;" alternatively, it may come from Mexica, the original name of the Aztec people<br>
 
 **Government type**<br>
 federal presidential republic<br>

@@ -82,9 +82,9 @@ landslides; avalanches; earthquakes<br>
 ## People and Society
 
 **Population**<br>
-_total_: 8,967,982<br>
+_total_: 8,967,982 (2024 est.)<br>
 _male_: 4,392,898<br>
-_female_: 4,575,084 (2024 est.)<br>
+_female_: 4,575,084<br>
 
 **Nationality**<br>
 _noun_: Austrian(s)<br>

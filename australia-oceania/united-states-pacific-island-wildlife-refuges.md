@@ -23,7 +23,7 @@ _land_: 6,959.41 sq km (emergent land - 22.41 sq km; submerged - 6,937 sq km)<br
 <strong>Baker Island: </strong>total - 129.1 sq km; emergent land - 2.1 sq km; submerged - 127 sq km<br> <strong>Howland Island: </strong>total - 138.6 sq km; emergent land - 2.6 sq km; submerged - 136 sq km<br> <strong>Jarvis Island: </strong>total - 152 sq km; emergent land - 5 sq km; submerged - 147 sq km<br> <strong>Johnston Atoll: </strong>total - 276.6 sq km; emergent land - 2.6 sq km; submerged - 274 sq km<br> <strong>Kingman Reef: </strong>total - 1,958.01 sq km; emergent land - 0.01 sq km; submerged - 1,958 sq km<br> <strong>Midway Islands: </strong>total - 2,355.2 sq km; emergent land - 6.2 sq km; submerged - 2,349 sq km<br> <strong>Palmyra Atoll: </strong>total - 1,949.9 sq km; emergent land - 3.9 sq km; submerged - 1,946 sq km<br>
 
 **Area - comparative**<br>
-<p><strong>Baker Island:</strong> about 2.5 times the size of the National Mall in Washington, DC; </p><p><strong>Howland Island:</strong> about three times the size of the National Mall in Washington, DC; </p><p><strong>Jarvis Island:</strong> about eight times the size of the National Mall in Washington, DC; </p><p><strong>Johnston Atoll:</strong> about 4.5 times the size of the National Mall in Washington, DC; </p><p><strong>Kingman Reef:</strong> a little more than 1.5 times the size of the National Mall in Washington, DC; </p><p><strong>Midway Islands:</strong> about nine times the size of the National Mall in Washington, DC; </p><p><strong>Palmyra Atoll:</strong> about 20 times the size of the National Mall in Washington, DC</p><br>
+<p><strong>Baker Island:</strong> about 2.5 times the size of the National Mall in Washington, D.C.;</p> <p><strong>Howland Island:</strong> about three times the size of the National Mall in Washington, D.C.;</p> <p><strong>Jarvis Island:</strong> about eight times the size of the National Mall in Washington, D.C.;</p> <p><strong>Johnston Atoll:</strong> about 4.5 times the size of the National Mall in Washington, D.C.;</p> <p><strong>Kingman Reef:</strong> a little more than 1.5 times the size of the National Mall in Washington, D.C.;</p> <p><strong>Midway Islands:</strong> about nine times the size of the National Mall in Washington, D.C.;</p> <p><strong>Palmyra Atoll:</strong> about 20 times the size of the National Mall in Washington, D.C.</p><br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -99,19 +99,19 @@ the flag of the US is used<br>
 ## Energy
 
 **Coal**<br>
-_imports_: 108,000 metric tons (2022 est.)<br>
+_imports_: 108,000 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 2,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 2,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 297,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 297,000 metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 294,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 294,000 metric tonnes of CO2 (2023 est.)<br>
 
 ## Transportation
 
 **Airports**<br>
-2 (2024)<br>
+2 (2025)<br>
 
 ## Military and Security
 

@@ -80,9 +80,9 @@ strategic location along the Adriatic coast<br>
 ## People and Society
 
 **Population**<br>
-_total_: 599,849<br>
+_total_: 599,849 (2024 est.)<br>
 _male_: 294,482<br>
-_female_: 305,367 (2024 est.)<br>
+_female_: 305,367<br>
 
 **Nationality**<br>
 _noun_: Montenegrin(s)<br>
@@ -292,7 +292,7 @@ _conventional short form_: Montenegro<br>
 _local long form_: none<br>
 _local short form_: Crna Gora<br>
 _former_: People's Republic of Montenegro, Socialist Republic of Montenegro, Republic of Montenegro<br>
-_etymology_: the country's name locally as well as in most Western European languages means "black mountain" and refers to the dark coniferous forests on Mount Lovcen and the surrounding area<br>
+_etymology_: the name in Italian means "dark mountain" and is a translation of the Serbo-Croatian name Crna Gora; both refer to the dark coniferous forests in the mountainous region<br>
 
 **Government type**<br>
 parliamentary republic<br>
@@ -568,35 +568,35 @@ _Currency_: euros (EUR) per US dollar -<br>
 _electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 1.066 million kW (2022 est.)<br>
-_consumption_: 2.963 billion kWh (2022 est.)<br>
-_exports_: 8.326 billion kWh (2022 est.)<br>
-_imports_: 8.467 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 507.151 million kWh (2022 est.)<br>
+_installed generating capacity_: 1.082 million kW (2023 est.)<br>
+_consumption_: 2.719 billion kWh (2023 est.)<br>
+_exports_: 6.288 billion kWh (2023 est.)<br>
+_imports_: 5.421 billion kWh (2023 est.)<br>
+_transmission/distribution losses_: 601.023 million kWh (2023 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 47% of total installed capacity (2022 est.)<br>
-_solar_: 0.1% of total installed capacity (2022 est.)<br>
-_wind_: 9.8% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 43.1% of total installed capacity (2022 est.)<br>
+_fossil fuels_: 39.1% of total installed capacity (2023 est.)<br>
+_solar_: 0.4% of total installed capacity (2023 est.)<br>
+_wind_: 7.5% of total installed capacity (2023 est.)<br>
+_hydroelectricity_: 53% of total installed capacity (2023 est.)<br>
 
 **Coal**<br>
-_production_: 1.734 million metric tons (2022 est.)<br>
-_consumption_: 1.517 million metric tons (2022 est.)<br>
-_exports_: 234,000 metric tons (2022 est.)<br>
+_production_: 1.862 million metric tons (2023 est.)<br>
+_consumption_: 1.658 million metric tons (2023 est.)<br>
+_exports_: 205,000 metric tons (2023 est.)<br>
 _imports_: 2.8 metric tons (2022 est.)<br>
-_proven reserves_: 337 million metric tons (2022 est.)<br>
+_proven reserves_: 337 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 8,000 bbl/day (2022 est.)<br>
+_refined petroleum consumption_: 9,000 bbl/day (2023 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 2.566 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 1.401 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 1.165 million metric tonnes of CO2 (2022 est.)<br>
+_total emissions_: 2.808 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 1.543 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.265 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 59.174 million Btu/person (2022 est.)<br>
+_Total energy consumption per capita 2023_: 63.407 million Btu/person (2023 est.)<br>
 
 ## Communications
 

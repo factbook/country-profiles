@@ -82,9 +82,9 @@ landlocked; the western and central low-lying desolate portions of the country m
 ## People and Society
 
 **Population**<br>
-_total_: 5,744,151<br>
+_total_: 5,744,151 (2024 est.)<br>
 _male_: 2,842,870<br>
-_female_: 2,901,281 (2024 est.)<br>
+_female_: 2,901,281<br>
 
 **Nationality**<br>
 _noun_: Turkmenistani(s)<br>
@@ -99,9 +99,6 @@ _major-language sample(s)_: <br>Dünýä Faktlar Kitaby – esasy maglumatlaryň
 
 **Religions**<br>
 Muslim 93%, Christian 6.4%, Buddhist &lt;1%, folk religion &lt;1%, Jewish &lt;1%, other &lt;1%, unspecified &lt;1% (2020 est.)<br>
-
-**Demographic profile**<br>
-<p>While Turkmenistan reputedly has a population of more than 5.6 million, the figure is most likely considerably less. Getting an accurate population estimate for the country is impossible because then President Gurbanguly BERDIMUHAMEDOW withheld the results of the last two censuses. The 2012 census results reportedly show that nearly 2 million citizens have emigrated in the last decade, which prompted BERDIMUHAMEDOW to order another census. Results of this census, covering 2008-2018, also were not released to the public but purportedly are similar. Another census was held in December 2022.</p> <p>Authorities have reacted to the dramatic population decline by preventing Turkmen from leaving the country, including removing citizens from international flights and refusing to provide necessary documents. Turkmenistan’s rise in outmigration – mainly to Turkey, Russia, and Uzbekistan – coincided with the country’s 2013-2014 economic crisis. The outflow has been sustained by poor living standards, inflation, low income, and a lack of health care. At the same time, Ashbagat is encouraging people to have more children to make up for its shrinking population.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 24.5% (male 711,784/female 692,967)<br>
@@ -528,8 +525,8 @@ broadcasting equipment, cars, wheat, computers, iron pipes (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$24.91 billion (31 December 2017 est.)<br>
-$25.05 billion (31 December 2016 est.)<br>
+$24.91 billion (2017 est.)<br>
+$25.05 billion (2016 est.)<br>
 
 **Debt - external**<br>
 $3.795 billion (2023 est.)<br>

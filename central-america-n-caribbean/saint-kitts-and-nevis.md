@@ -24,7 +24,7 @@ _land_: 261 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-1.5 times the size of Washington, DC<br>
+1.5 times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -74,9 +74,9 @@ smallest country in the Western Hemisphere both in terms of area and population;
 ## People and Society
 
 **Population**<br>
-_total_: 55,133<br>
+_total_: 55,133 (2024 est.)<br>
 _male_: 27,599<br>
-_female_: 27,534 (2024 est.)<br>
+_female_: 27,534<br>
 
 **Nationality**<br>
 _noun_: Kittitian(s), Nevisian(s)<br>
@@ -355,6 +355,9 @@ _lyrics/music_: Kenrick Anderson GEORGES<br>
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
 _selected World Heritage Site locales_: Brimstone Hill Fortress National Park<br>
+
+**National coat of arms**<br>
+<p>The coat of arms of Saint Kitts and Nevis features a Carib that represents the original inhabitants of the islands, and a fleur-de-lis and rose that represent the French and English who arrived in the 1620s. The shield also features the poinciana (the national flower) and a traditional boat. Three hands hold the torch, which represents the quest for freedom: the hand of an African, a European, and a person of mixed ethnicity. Pelicans (the national bird) support the shield, with a sugarcane plant and a coconut tree that symbolize the land.</p><br>
 
 ## Economy
 

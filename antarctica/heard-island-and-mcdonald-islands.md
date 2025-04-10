@@ -24,7 +24,7 @@ _land_: 412 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-slightly more than two times the size of Washington, DC<br>
+slightly more than two times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -82,7 +82,7 @@ _other_: 100% (2018 est.)<br>
 _conventional long form_: Territory of Heard Island and McDonald Islands<br>
 _conventional short form_: Heard Island and McDonald Islands<br>
 _abbreviation_: HIMI<br>
-_etymology_: named after American Captain John HEARD, who sighted the island on 25 November 1853, and American Captain William McDONALD, who discovered the islands on 4 January 1854<br>
+_etymology_: named after US Captain John HEARD, who sighted the island on 25 November 1853, and US Captain William McDONALD, who discovered the islands on 4 January 1854<br>
 
 **Dependency status**<br>
 territory of Australia; administered from Canberra by the Department of Agriculture, Water and the Environment (Australian Antarctic Division)<br>
@@ -113,7 +113,7 @@ _selected World Heritage Site locales_: Heard Island and McDonald Islands<br>
 ## Transportation
 
 **Heliports**<br>
-2 (2024)<br>
+2 (2025)<br>
 
 ## Military and Security
 

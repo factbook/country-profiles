@@ -73,9 +73,9 @@ the 41-km long Nerodimka River divides into two branches, each of which flows in
 ## People and Society
 
 **Population**<br>
-_total_: 1,977,093<br>
+_total_: 1,977,093 (2024 est.)<br>
 _male_: 1,017,992<br>
-_female_: 959,101 (2024 est.)<br>
+_female_: 959,101<br>
 
 **Nationality**<br>
 _noun_: Kosovan<br>
@@ -219,7 +219,7 @@ _conventional long form_: Republic of Kosovo<br>
 _conventional short form_: Kosovo<br>
 _local long form_: Republika e Kosoves (Albanian)/ Republika Kosovo (Serbian)<br>
 _local short form_: Kosove (Albanian)/ Kosovo (Serbian)<br>
-_etymology_: name derives from the Serbian "kos" meaning "blackbird," an ellipsis (linguistic omission) for "kosove polje" or "field of the blackbirds"<br>
+_etymology_: name may derive from the Serbian word <em>kos</em>, meaning "blackbird," or from a personal name<br>
 
 **Government type**<br>
 parliamentary republic<br>

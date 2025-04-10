@@ -83,9 +83,9 @@ world's largest landlocked country and one of only two landlocked countries in t
 ## People and Society
 
 **Population**<br>
-_total_: 20,260,006<br>
+_total_: 20,260,006 (2024 est.)<br>
 _male_: 9,817,172<br>
-_female_: 10,442,834 (2024 est.)<br>
+_female_: 10,442,834<br>
 
 **Nationality**<br>
 _noun_: Kazakhstani(s)<br>
@@ -101,9 +101,6 @@ _major-language sample(s)_: <br>Әлемдік деректер кітабы, н
 
 **Religions**<br>
 Muslim 69.3%, Christian 17.2% (Orthodox 17%, other 0.2%), Buddhism 0.1%, other 0.1%, non-believers 2.3%, unspecified 11% (2021 est.)<br>
-
-**Demographic profile**<br>
-<p>Nearly 40% of Kazakhstan’s population is under the age of 25.  Like many former Soviet states, Kazakhstan’s total fertility rate (TFR) – the average number of births per woman – decreased after independence amidst economic problems and fell below replacement level, 2.1.  However, in the late 2000s, as the economy improved and incomes rose, Kazakhstan experienced a small baby boom and TFR reached 2.5.  TFR has since fallen and is now just over 2.1.  Mortality rates are also decreasing and life expectancy is rising, signs that Kazakhstan’s demographic transition is progressing. </p> <p>Kazakhstan has a diverse population consisting of Asian ethnic groups (predominantly Kazakhs, as well as Uzbeks, Uighurs, and Tatars) and ethnic Europeans (mainly Russians but also Ukrainians and Germans).  Approximately two thirds of Kazakhstan’s population today is Kazakh.  During the mid-20th century, as Kazakhstan industrialized, waves of ethnic Russians and deportees from other parts of the Soviet Union arrived.  Eventually, the ethnic Russian population outnumbered the Kazakhs.  In the 1990s, following Kazakhstan’s independence, Russian and other ethnic Europeans began emigrating, while some ethnic Kazakhs (referred to as Oralmans) returned to their homeland from neighboring countries, China, and Mongolia.  As a result, the country’s ethnic make-up changed, and a Kazakh majority was reestablished.</p> <p>In recent years, Kazakhstan has shifted from being mainly a migrant-sending country to a migrant-receiving country.  Due to its oil-driven economic boom, Kazakhstan has become a more popular destination.  The country needs highly skilled workers in the industrial, business, and education sectors and low-skilled labor in agriculture, markets, services, and construction.  Kazakhstan is increasingly reliant on migrant workers, primarily from Kyrgyzstan, Tajikistan, and Uzbekistan, to fill its labor shortage.  At the same time, highly skilled Kazakhs continue to emigrate, mostly to Russia, seeking higher salaries or further education.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 27.6% (male 2,883,200/female 2,712,772)<br>
@@ -302,7 +299,7 @@ _conventional short form_: Kazakhstan<br>
 _local long form_: Qazaqstan Respublikasy<br>
 _local short form_: Qazaqstan<br>
 _former_: Kazakh Soviet Socialist Republic<br>
-_etymology_: the name "Kazakh" may derive from the Turkic word "kaz" meaning "to wander," recalling the Kazakh's nomadic lifestyle; the Persian suffix "-stan" means "place of" or "country," so the word Kazakhstan literally means "Land of the Wanderers"<br>
+_etymology_: the name may derive from the Turkic word <em>kazak, </em>meaning "nomad;" the Persian suffix -<em>stan</em> means "place of" or "country"<br>
 
 **Government type**<br>
 presidential republic<br>
