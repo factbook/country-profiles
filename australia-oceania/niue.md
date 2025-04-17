@@ -171,7 +171,7 @@ _particulate matter emissions_: 6.74 micrograms per cubic meter (2019 est.)<br>
 _conventional long form_: none<br>
 _conventional short form_: Niue<br>
 _former_: Savage Island<br>
-_etymology_: the origin of the name is obscure; in Niuean, the word supposedly translates as "behold the coconut"<br>
+_etymology_: the origin of the name is obscure; in Niuean, the word translates as "behold the coconut;" the former name, Savage Island, was the result of an acrimonious meeting in 1774 between English explorer Captain James COOK and local people<br>
 <strong>note:</strong> pronunciation falls between nyu-way and new-way, but not like new-wee<br>
 
 **Government type**<br>

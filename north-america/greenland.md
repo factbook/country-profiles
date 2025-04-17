@@ -537,7 +537,7 @@ _key ports_: Aasiaat, Illulissat (Jakobshavn), Kusanartoq, Nuuk, Paamuit (Freder
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces&nbsp;<br>
+no regular military forces<br>
 
 **Military - note**<br>
 the Danish military&rsquo;s Joint Arctic Command in Nuuk is responsible for coordinating Denmark's defense of Greenland<br>

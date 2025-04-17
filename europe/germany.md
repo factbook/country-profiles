@@ -709,7 +709,7 @@ _key ports_: Brake, Bremen, Bremerhaven, Cuxhaven, Emden, Hamburg, Kiel, Lubeck,
 ## Military and Security
 
 **Military and security forces**<br>
-Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes naval air arm), Air Force (Luftwaffe, includes air defense), Joint Support and Enabling Service (Streitkraeftebasis, SKB), Central Medical Service (Zentraler Sanitaetsdienst, ZSanDstBw), Cyber and Information Space Command (Kommando Cyber und Informationsraum, Kdo CIR) (2024)<br>
+Federal Armed Forces (Bundeswehr): German Army (Deutsche Heer), German Navy (Deutsche Marine, includes naval air arm), German Air Force (Deutsche Luftwaffe, includes air defense), Cyber and Information Space (Cyber und Informationsraum) (2025)<br>
 <strong>note:</strong> responsibility for internal and border security is shared by the police forces of the 16 states, the Federal Criminal Police Office, and the Federal Police; the states’ police forces report to their respective interior ministries while the Federal Police forces report to the Federal Ministry of the Interior<br>
 
 **Military expenditures**<br>

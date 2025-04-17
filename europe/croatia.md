@@ -295,7 +295,7 @@ _conventional short form_: Croatia<br>
 _local long form_: Republika Hrvatska<br>
 _local short form_: Hrvatska<br>
 _former_: People's Republic of Croatia, Socialist Republic of Croatia<br>
-_etymology_: name probably derives from the Croats, a Slavic tribe who migrated to the Balkans in the 7th century A.D., but that name may be related to the Russian word <em>khrebet</em>, meaning "mountain chain"  <br>
+_etymology_: name probably derives from the Croats, a Slavic tribe who migrated to the Balkans in the 7th century A.D., but that name may be related to the Russian word <em>khrebet</em>, meaning "mountain chain"<br>
 
 **Government type**<br>
 parliamentary republic<br>

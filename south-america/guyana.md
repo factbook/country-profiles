@@ -616,7 +616,7 @@ _key ports_: Georgetown, Linden, New Amsterdam<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Guyana Defense Force (GDF) is a unified force with ground, air, and coast guard components, as well as the Guyana National Reserve (2024)<br>
+the Guyana Defense Force (GDF) is a unified force with ground, air, and coast guard components, as well as the Guyana National Reserve (2025)<br>
 <strong>note:</strong> the Guyana Police Force under the Ministry of Home Affairs is responsible for internal security<br>
 
 **Military expenditures**<br>

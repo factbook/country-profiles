@@ -218,7 +218,7 @@ _conventional long form_: Macau Special Administrative Region<br>
 _conventional short form_: Macau<br>
 _official long form_: Aomen Tebie Xingzhengqu (Chinese)/ Regiao Administrativa Especial de Macau (Portuguese)<br>
 _official short form_: Aomen (Chinese)/ Macau (Portuguese)<br>
-_etymology_: name derived from the Chinese a<em>ma-gao</em>, or “Bay of Ama,” for Ama, the patron goddess of sailors<br>
+_etymology_: name derived from the Chinese <em>ama-gao</em>, or “Bay of Ama,” for Ama, the patron goddess of sailors<br>
 
 **Government type**<br>
 executive-led limited democracy; a special administrative region of the People's Republic of China<br>

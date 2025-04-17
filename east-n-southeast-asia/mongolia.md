@@ -661,7 +661,7 @@ _by type_: bulk carrier 8, container ship 8, general cargo 151, oil tanker 58, o
 ## Military and Security
 
 **Military and security forces**<br>
-Mongolian Armed Forces (MAF): Ground Force, Air Force, Cyber Security Forces, Special Forces, Construction-Engineering Forces (2024)<br>
+Mongolian Armed Forces (MAF): Land Force, Air Force, Cyber Security Forces, Special Forces, Construction-Engineering Forces (2025)<br>
 <strong>note: </strong>the National Police Agency and the General Authority for Border Protection, which operate under the Ministry of Justice and Home Affairs, are primarily responsible for internal security; they are assisted by the General Intelligence Agency under the prime minister; the MAF assists the internal security forces in providing domestic emergency assistance and disaster relief<br>
 
 **Military expenditures**<br>

@@ -94,7 +94,6 @@ _other_: 100% (2018 est.)<br>
 **Country name**<br>
 _conventional long form_: none<br>
 _conventional short form_: Paracel Islands<br>
-_etymology_: Portuguese navigators began to refer to the "Ilhas do Pracel" in the 16th century as a designation of low lying islets, sandbanks, and reefs scattered over a wide area; over time the name changed to "parcel" and then "paracel"<br>
 
 ## Economy
 

@@ -279,7 +279,7 @@ _conventional long form_: Republic of Panama<br>
 _conventional short form_: Panama<br>
 _local long form_: Rep&uacute;blica de Panama<br>
 _local short form_: Panama<br>
-_etymology_: named after the capital city which was itself named after a former indigenous fishing village<br>
+_etymology_: origin is unclear; may come from a Guarani word meaning "place of many fish"<br>
 
 **Government type**<br>
 presidential republic<br>

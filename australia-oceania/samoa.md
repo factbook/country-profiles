@@ -266,7 +266,7 @@ _conventional short form_: Samoa<br>
 _local long form_: Malo Sa'oloto Tuto'atasi o Samoa<br>
 _local short form_: Samoa<br>
 _former_: Western Samoa<br>
-_etymology_: the meaning of Samoa is disputed; some modern explanations are that the "sa" connotes&nbsp; "sacred" and "moa" indicates "center," so the name can mean "Holy Center"; alternatively, some assertions state that it can mean "place of the sacred moa bird" of Polynesian mythology; the name, however, may go back to Proto-Polynesian (PPn) times (before 1000 B.C.); a plausible PPn reconstruction has the first syllable as "sa'a" meaning "tribe or people" and "moa" meaning "deep sea or ocean" to convey the meaning "people of the deep sea"<br>
+_etymology_: the name's meaning and origin are unclear; some assert that it can mean "place of the moa bird" of Polynesian mythology, or it could be a local chieftain's name<br>
 
 **Government type**<br>
 parliamentary republic<br>

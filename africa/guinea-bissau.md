@@ -625,7 +625,7 @@ People's Revolutionary Armed Force (Forcas Armadas Revolucionarias do Povo or FA
 1.9% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 4,000 active troops, including a few hundred air and naval personnel (2023)<br>
+approximately 4,000 active troops, including a few hundred air and naval personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FARP is outfitted mostly with Soviet-era weapons and equipment, along with a handful of secondhand items from France and Spain (2024)<br>
@@ -634,7 +634,7 @@ the FARP is outfitted mostly with Soviet-era weapons and equipment, along with a
 18-25 years of age for selective compulsory military service for men and women (Air Force service is voluntary); 16 years of age or younger, with parental consent, for voluntary service (2023)<br>
 
 **Military - note**<br>
-the FARP is focused on external security, but also has some internal security duties, and it has been influential in the country’s politics since independence was gained in 1974, having staged at least nine coup attempts as well as several mutinies; FARP members were suspected of coup plotting as recently as 2021, and it put down an attempted coup in 2022, while the National Guard attempted a coup in December 2023; since the 2000s, the FARP has undergone various attempts at defense and security sector reforms under the auspices of the African Union, the EU, the Economic Community of West Africa (ECOWAS), and the UN <br><br>from 2012-2020, ECOWAS deployed a security force to Guinea-Bissau to manage the post-coup transition, including protecting key political figures and public buildings, restoring civil institutions, and re-establishing the rule of law; at the height of the deployment, the force, known as the ECOWAS Mission in Guinea-Bissau (ECOMIB), deployed nearly 700 military and police personnel from Burkina Faso, Nigeria, and Senegal; as of 2024, ECOMIB remained in Guinea-Bissau (2024)<br>
+the FARP is focused on external security, but also has some internal security duties, and it has been influential in the country’s politics since independence was gained in 1974, having staged at least nine coup attempts as well as several mutinies; FARP members were suspected of coup plotting as recently as 2021, and it put down an attempted coup in 2022, while the National Guard attempted a coup in December 2023; since the 2000s, the FARP has undergone various attempts at defense and security sector reforms under the auspices of the African Union, the EU, the Economic Community of West Africa (ECOWAS), and the UN <br><br>from 2012-2020, ECOWAS deployed a security force to Guinea-Bissau to manage the post-coup transition, including protecting key political figures and public buildings, restoring civil institutions, and re-establishing the rule of law; the ECOWAS mission withdrew at the end of 2020, but returned in mid-2022 after the attempted coup in February 2022 (2024)<br>
 
 ## Transnational Issues
 

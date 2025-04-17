@@ -70,7 +70,7 @@ Britain's most isolated dependency; only the larger island of Pitcairn is inhabi
 ## People and Society
 
 **Population**<br>
-_total_: 50 (2021 est.)<br>
+_total_: 50 (2025 est.)<br>
 
 **Nationality**<br>
 _noun_: Pitcairn Islander(s)<br>
@@ -109,7 +109,7 @@ _other_: 25.5% (2022 est.)<br>
 **Country name**<br>
 _conventional long form_: Pitcairn, Henderson, Ducie, and Oeno Islands<br>
 _conventional short form_: Pitcairn Islands<br>
-_etymology_: named after Midshipman Robert PITCAIRN who first sighted the island in 1767<br>
+_etymology_: named after English midshipman Robert PITCAIRN, who first sighted the island in 1767<br>
 
 **Government type**<br>
 parliamentary democracy<br>

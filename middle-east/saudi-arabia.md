@@ -288,7 +288,7 @@ _conventional long form_: Kingdom of Saudi Arabia<br>
 _conventional short form_: Saudi Arabia<br>
 _local long form_: Al Mamlakah al Arabiyah as Suudiyah<br>
 _local short form_: Al Arabiyah as Suudiyah<br>
-_etymology_: named after the ruling dynasty of the country, the House of Saud; the name "Arabia" can be traced back many centuries B.C., the ancient Egyptians referred to the region as "Ar Rabi"<br>
+_etymology_: named after the ruling dynasty of the country, the House of Saud; the name Arabia can be traced back at least as far as the ancient Romans, who referred to the peninsula as "Arabia Felix" (Arabia the Fortunate)<br>
 
 **Government type**<br>
 absolute monarchy<br>

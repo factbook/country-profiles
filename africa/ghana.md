@@ -682,8 +682,7 @@ _key ports_: Saltpond, Sekondi, Takoradi, Tema<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Ghana Armed Forces (GAF): Army, Navy, Air Force (2024)<br>
-<strong>note:</strong> the Ghana Police Service is under the Ministry of the Interior<br>
+Ghana Armed Forces (GAF): Army, Air Force, Ghana Navy, Ghana Armed Forces Medical Service/Corps<br><br>Ministry of Interior: Ghana Police Service (2025)<br>
 
 **Military expenditures**<br>
 0.4% of GDP (2023 est.)<br>
@@ -707,7 +706,7 @@ the military's inventory is a mix of older and some newer Chinese, Russian, and 
 <strong>note:</strong> since sending a contingent of troops to the Congo in 1960, the military has been a regular contributor to African- and UN-sponsored peacekeeping missions<br>
 
 **Military - note**<br>
-the military’s primary missions are border defense, assisting with internal security, peacekeeping, and protecting the country’s territorial waters, particularly its offshore oil and gas infrastructure; it has benefited from cooperation with foreign partners, such as the UK and the US, and experience gained from participation in multiple international peacekeeping missions<br> <br>in 2022, Ghana began beefing up its military presence in the north of the country against threats from the terrorist organization Jama’at Nasr al-Islam wal Muslimin (JNIM), a coalition of al-Qa'ida linked militant groups, which has conducted attacks in the neighboring countries of Burkina Faso, Cote d'Ivoire, and Togo; Ghana’s northern frontier with Burkina Faso is also an area with well-established smuggling routes, porous borders, and illegal gold mining; Ghana has also made efforts to increase its naval capabilities to protect its maritime claims and counter threats such as piracy<br><br>the military traces its origins to the Gold Coast Constabulary that was established in 1879 and renamed the Gold Coast Regiment in 1901; the Gold Coast Regiment was part of the West African Frontier Force, a multi-regiment unit formed by the British colonial office in 1900 to garrison Britain's West African colonies, which went on to serve in both World Wars; following Ghana's independence in 1957, the Gold Coast Regiment formed the basis for the new Ghanaian Army (2024)<br>
+the military’s primary missions are border defense, assisting with internal security, peacekeeping, and protecting the country’s territorial waters, particularly its offshore oil and gas infrastructure; it has benefited from cooperation with foreign partners, such as the UK and the US, and experience gained from participation in multiple international peacekeeping missions<br> <br>since 2022, Ghana has reinforced its military presence in the north of the country against threats from the terrorist organization Jama’at Nasr al-Islam wal Muslimin (JNIM), a coalition of al-Qa'ida linked militant groups, which has conducted attacks in the neighboring countries of Burkina Faso, Cote d'Ivoire, and Togo; Ghana’s northern frontier with Burkina Faso is also an area with well-established smuggling routes, porous borders, and illegal gold mining; Ghana has also made efforts to increase its naval capabilities to protect its maritime claims and counter threats such as piracy<br><br>the military traces its origins to the Gold Coast Constabulary that was established in 1879 and renamed the Gold Coast Regiment in 1901; the Gold Coast Regiment was part of the West African Frontier Force, a multi-regiment unit formed by the British colonial office in 1900 to garrison Britain's West African colonies, which went on to serve in both World Wars; following Ghana's independence in 1957, the Gold Coast Regiment formed the basis for the new Ghanaian Army (2024)<br>
 
 ## Space
 

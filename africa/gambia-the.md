@@ -637,7 +637,7 @@ _key ports_: Banjul<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Gambian Armed Forces (GAF; aka Armed Forces of the Gambia): the Gambian National Army (GNA), Gambia Navy, Gambia Air Force, Republican National Guard (RNG)<br><br>Ministry of Interior: Gambia Police Force (GPF) (2024)<br>
+Gambian Armed Forces (GAF; aka Armed Forces of the Gambia): the Gambian National Army (GNA), Gambia Navy, Gambia Air Force, Republican National Guard (RNG)<br><br>Ministry of Interior: Gambia Police Force (GPF) (2025)<br>
 <strong>note: </strong>the RNG is responsible for VIP protection, riot control, and presidential security, while the GPF maintains internal security<br>
 
 **Military expenditures**<br>

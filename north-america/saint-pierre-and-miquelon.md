@@ -212,7 +212,7 @@ _conventional long form_: Territorial Collectivity of Saint Pierre and Miquelon<
 _conventional short form_: Saint Pierre and Miquelon<br>
 _local long form_: D&eacute;partement de Saint-Pierre et Miquelon<br>
 _local short form_: Saint-Pierre et Miquelon<br>
-_etymology_: Saint-Pierre is named after Saint PETER, the patron saint of fishermen; Miquelon may be a corruption of the Basque name Mikelon<br>
+_etymology_: Saint-Pierre and Miquelon is reputed to be named after two navigators, one called Peter and one called Michael (in a nickname form) or Mikelon, a Basque name<br>
 
 **Government type**<br>
 parliamentary democracy (Territorial Council); overseas collectivity of France<br>

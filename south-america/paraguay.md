@@ -293,7 +293,7 @@ _conventional long form_: Republic of Paraguay<br>
 _conventional short form_: Paraguay<br>
 _local long form_: Rep&uacute;blica del Paraguay<br>
 _local short form_: Paraguay<br>
-_etymology_: the precise meaning of the name Paraguay is unclear, but it seems to derive from the river of the same name; one explanation has the name meaning "water of the Payagua" (an indigenous tribe that lived along the river)<br>
+_etymology_: derives from the river of the same name; the river's name may come from the Guarani words <em>para </em>(water or river) and <em>guay </em>(born)<br>
 
 **Government type**<br>
 presidential republic<br>

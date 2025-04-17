@@ -284,7 +284,7 @@ _conventional short form_: Greece<br>
 _local long form_: Elliniki Dimokratia<br>
 _local short form_: Ellas or Ellada<br>
 _former_: Hellenic State, Kingdom of Greece<br>
-_etymology_: the English name derives from the Roman (Latin) designation <em>Graecia</em>, meaning "Land of the Greeks"; the Greeks call their country Ellas or Ellada, which is probably derived from Hellas, the name of the mythical son of Deucalian <br>
+_etymology_: the English name derives from the Roman (Latin) designation <em>Graecia</em>, meaning "Land of the Greeks"; the Greeks call their country Ellas or Ellada, which is probably derived from Hellas, the name of the mythical son of Deucalian<br>
 
 **Government type**<br>
 parliamentary republic<br>
@@ -674,8 +674,8 @@ _key ports_: Alexandroupoli, Iraklion, Kerkira, Ormos Aliveriou, Piraievs, Soudh
 ## Military and Security
 
 **Military and security forces**<br>
-Hellenic Armed Forces: Hellenic Army (Ellinikos Stratos, ES; includes National Guard), Hellenic Navy (Elliniko Polemiko Navtiko, EPN), Hellenic Air Force (Elliniki Polemiki Aeroporia, EPA; includes air defense) (2024)<br>
-<strong>note 1:</strong> the police (under the Ministry of Citizen Protection) and the armed forces (Ministry of National Defense) share law enforcement duties in certain border areas; the Greek Coast Guard is under the Ministry of Shipping Affairs and Island Policy<br><br><strong>note 2:</strong> the National Guard was established in 1982 as an official part of the Army to help protect Greece and provide reinforcements and support to the Army in peacetime and in times of mobilization and war; members undergo weekly training run by the Army, which also provides weapons and ammunition<br>
+Hellenic Armed Forces (HAF; Ellinikes Enoples Dynamis, EED): Hellenic Army (Ellinikos Stratos, ES; includes National Guard), Hellenic Navy (Elliniko Polemiko Navtiko, EPN), Hellenic Air Force (Elliniki Polemiki Aeroporia, EPA; includes air defense) (2025)<br>
+<strong>note 1:</strong> the police (under the Ministry of Citizen Protection) and the armed forces (Ministry of National Defense) share law enforcement duties in certain border areas; the Greek Coast Guard is under the Ministry of Shipping Affairs and Island Policy<br><br><strong>note 2:</strong> the National Guard was established in 1982 as an official part of the Army to help protect Greece and provide reinforcements and support to the Army in peacetime and in times of mobilization and war<br>
 
 **Military expenditures**<br>
 3.1% of GDP (2024 est.)<br>
@@ -699,7 +699,7 @@ the military's inventory consists of a mix of domestically produced and imported
 approximately 1,000 Cyprus; 110 Kosovo (NATO); 120 Lebanon (UNIFIL) (2024)<br>
 
 **Military - note**<br>
-the Hellenic Armed Forces (HAF) are responsible for protecting Greece’s independence, sovereignty, and territorial integrity; the HAF also maintains a presence on Cyprus (the Hellenic Force in Cyprus or ELDYK) to assist and support the Cypriot National Guard; as a member of the EU, NATO, and other international organizations, the HAF participates in multinational peacekeeping and other security missions abroad, taking a particular interest in missions occurring in the near regions, such as the Balkans, the Mediterranean and Aegean seas, the Middle East, and North Africa; areas of focus for the HAF include instability in the Balkans, territorial disputes with Turkey, and support to European security through the EU and NATO<br><br>Greece’s NATO membership is a key component of its security; it became a NATO member in 1952 and occupies a strategic location in the Eastern Mediterranean on NATO’s southern flank; Greece is host to several NATO facilities, including the Deployable Corps Greece (NDC-GR) headquarters in Thessaloniki, the Combined Air Operations Center in Larissa, the Multinational Peace Support Operations Training Center in Kilkis, the Multinational Sealift Coordination Center in Athens, and the Naval Base, Maritime Interdiction Operational Training Centre, and NATO Missile Firing Installation at Souda, Crete (2024)<br>
+the Hellenic Armed Forces (HAF) are responsible for protecting Greece’s independence, sovereignty, and territorial integrity; the HAF also maintains a presence on Cyprus (the Hellenic Force in Cyprus or ELDYK) to assist and support the Cypriot National Guard; as a member of the EU, NATO, and other international organizations, the HAF participates in multinational peacekeeping and other security missions abroad, taking a particular interest in missions occurring in the near regions, such as the Balkans, the Mediterranean and Aegean seas, the Middle East, and North Africa; areas of focus for the HAF include instability in the Balkans, territorial disputes with Turkey, and support to European security through the EU and NATO<br><br>Greece’s NATO membership is a key component of its security; it became a NATO member in 1952 and occupies a strategic location in the Eastern Mediterranean on NATO’s southern flank; Greece is host to several NATO facilities, including the Deployable Corps Greece (NDC-GR) headquarters in Thessaloniki, the Combined Air Operations Center in Larissa, the Multinational Peace Support Operations Training Center in Kilkis, the Multinational Sealift Coordination Center in Athens, and the Naval Base, Maritime Interdiction Operational Training Centre, and NATO Missile Firing Installation at Souda, Crete (2025)<br>
 
 ## Space
 

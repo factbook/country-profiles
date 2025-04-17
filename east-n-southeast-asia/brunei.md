@@ -272,7 +272,7 @@ _conventional long form_: Brunei Darussalam<br>
 _conventional short form_: Brunei<br>
 _local long form_: Negara Brunei Darussalam<br>
 _local short form_: Brunei<br>
-_etymology_: derivation of the name is unclear; the name may come from the Sanskrit word <em>bhumi</em>, meaning "land" or "region" <br>
+_etymology_: derivation of the name is unclear; the name may come from the Sanskrit word <em>bhumi</em>, meaning "land" or "region"<br>
 
 **Government type**<br>
 absolute monarchy or sultanate<br>

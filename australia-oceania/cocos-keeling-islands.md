@@ -70,9 +70,9 @@ cyclone season is October to April<br>
 ## People and Society
 
 **Population**<br>
-_total_: 593<br>
+_total_: 593 (2021 est.)<br>
 _male_: 301<br>
-_female_: 292 (2021 est.)<br>
+_female_: 292<br>
 
 **Nationality**<br>
 _noun_: Cocos Islander(s)<br>

@@ -285,7 +285,7 @@ _conventional short form_: Papua New Guinea<br>
 _local short form_: Papuaniugini<br>
 _former_: German New Guinea, British New Guinea, Territory of Papua and New Guinea<br>
 _abbreviation_: PNG<br>
-_etymology_: the word "papua" derives from the Malay "papuah" describing the frizzy hair of the Melanesians; Spanish explorer Ynigo ORTIZ de RETEZ applied the term "Nueva Guinea" to the island of New Guinea in 1545 after noting the resemblance of the locals to the peoples of the Guinea coast of Africa<br>
+_etymology_: the name derives from the Malay word <em>pua-pua</em>, describing the tightly curled hair of the Papuan people; Spanish explorer Ynigo ORTIZ de RETEZ applied the term "Nueva Guinea" to the island in 1545 because he thought the locals resembled the peoples of the Guinea coast of Africa<br>
 
 **Government type**<br>
 parliamentary democracy under a constitutional monarchy; a Commonwealth realm<br>

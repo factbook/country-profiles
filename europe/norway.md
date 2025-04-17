@@ -287,7 +287,7 @@ _conventional long form_: Kingdom of Norway<br>
 _conventional short form_: Norway<br>
 _local long form_: Kongeriket Norge<br>
 _local short form_: Norge<br>
-_etymology_: derives from the Old Norse words "nordr" and "vegr" meaning "northern way" and refers to the long coastline of western Norway<br>
+_etymology_: derives from the Old Norse words <em>norre </em>and <em>vegr</em>, meaning "northern way," and refers to the long coastline of western Norway<br>
 
 **Government type**<br>
 parliamentary constitutional monarchy<br>

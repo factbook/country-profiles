@@ -588,8 +588,7 @@ _key ports_: Hong Kong<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular indigenous military forces; Hong Kong Police Force (specialized units include the Police Counterterrorism Response Unit, the Explosive Ordnance Disposal Bureau, the Special Duties Unit, the Airport Security Unit, and the VIP Protection Unit) (2024)<br>
-<strong>note: </strong>the Hong Kong garrison of China's People's Liberation Army (PLA) includes elements of the PLA Army, PLA Navy, and PLA Air Force; these forces are under the direct leadership of the Central Military Commission in Beijing and under administrative control of the adjacent Southern Theater Command<br>
+no regular indigenous military forces; Hong Kong Police Force (specialized units include the Police Counterterrorism Response Unit, the Explosive Ordnance Disposal Bureau, the Special Duties Unit, the Airport Security Unit, and the VIP Protection Unit)<br><br>China's People's Liberation Army (PLA) Hong Kong Garrison is responsible for defense duties; the garrison includes elements of the PLA Army, PLA Navy, and PLA Air Force and are under the direct leadership of the Central Military Commission in Beijing and under administrative control of the adjacent Southern Theater Command (2025)<br>
 
 **Military - note**<br>
 defense is the responsibility of China<br>

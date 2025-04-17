@@ -426,7 +426,7 @@ _key ports_: Europa Point<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Gibraltar Regiment (2024)<br>
+Royal Gibraltar Regiment (2025)<br>
 
 **Military - note**<br>
 defense is the responsibility of the UK<br>

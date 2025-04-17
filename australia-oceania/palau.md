@@ -74,9 +74,9 @@ westernmost archipelago in the Caroline chain, consists of six island groups tot
 ## People and Society
 
 **Population**<br>
-_total_: 21,864<br>
+_total_: 21,864 (2024 est.)<br>
 _male_: 11,235<br>
-_female_: 10,629 (2024 est.)<br>
+_female_: 10,629<br>
 
 **Nationality**<br>
 _noun_: Palauan(s)<br>
@@ -252,7 +252,7 @@ _conventional short form_: Palau<br>
 _local long form_: Beluu er a Belau<br>
 _local short form_: Belau<br>
 _former_: Trust Territory of the Pacific Islands, Palau District<br>
-_etymology_: from the Palauan name for the islands, Belau, which likely derives from the Palauan word "beluu" meaning "village"<br>
+_etymology_: from the Palauan name for the islands, Belau, which likely derives from the Palauan word <em>beluu</em>, meaning "village"<br>
 
 **Government type**<br>
 presidential republic in free association with the US<br>
@@ -487,7 +487,7 @@ ships, refined petroleum, additive manufacturing machines, cars, plastic product
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$580.9 million (31 December 2015 est.)<br>
+$580.9 million (2015 est.)<br>
 
 **Exchange rates**<br>
 <p>the US dollar is used</p><br>

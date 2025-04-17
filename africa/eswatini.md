@@ -633,7 +633,7 @@ _unpaved_: 3,000 km (2022)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Umbutfo Eswatini Defense Force (UEDF): Army (includes a small air wing); the Royal Eswatini Police Service (REPS) (2024)<br>
+Umbutfo Eswatini Defense Force (UEDF): Army (includes a small air wing); the Royal Eswatini Police Service (REPS) (2025)<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2023 est.)<br>
@@ -652,7 +652,7 @@ the UEDF has a light and small inventory of mostly older equipment originating f
 18-35 years of age for voluntary military service for men and women; no conscription (2023)<br>
 
 **Military - note**<br>
-the UEDF&rsquo;s primary mission is external security but it also has domestic security responsibilities, including protecting members of the royal family; the king is the UEDF commander in chief and holds the position of minister of defense, although the UEDF reports to the Army commander and principal undersecretary of defense for day-to-day operations; the Royal Eswatini Police Service (REPS) is responsible for maintaining internal security as well as migration and border crossing enforcement; it is under the prime minister, although the king is the force&rsquo;s titular commissioner in chief; the UEDF was originally created in 1973 as the Royal Swaziland Defense Force (2023)<br>
+the UEDF&rsquo;s primary mission is external security but it also has domestic security responsibilities, including protecting members of the royal family; the king is the UEDF commander in chief and holds the position of minister of defense, although the UEDF reports to the Army commander and principal undersecretary of defense for day-to-day operations; the Royal Eswatini Police Service (REPS) is responsible for maintaining internal security as well as migration and border crossing enforcement; it is under the prime minister, although the king is the force&rsquo;s titular commissioner in chief; the UEDF was originally created in 1973 as the Royal Swaziland Defense Force (2024)<br>
 
 ## Transnational Issues
 

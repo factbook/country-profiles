@@ -642,8 +642,7 @@ _key ports_: Lautoka Harbor, Levuka, Malai, Savusavu Bay, Suva Harbor<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Republic of Fiji Military Forces (RFMF): Land Force Command, Maritime Command (2024)<br>
-<strong>note: </strong>the RFMF is subordinate to the president as the commander-in-chief, while the Fiji Police Force reports to the Ministry of Defense, National Security, and Policing<br>
+Republic of Fiji Military Forces (RFMF): Land Force, Republic of Fiji Navy (2025)<br>
 
 **Military expenditures**<br>
 1.1% of GDP (2023 est.)<br>
@@ -666,7 +665,7 @@ the RFMF is lightly armed and equipped; Australia has provided patrol boats and 
 170 Egypt (MFO); 160 Iraq (UNAMI); 150 Golan Heights (UNDOF) (2024)<br>
 
 **Military - note**<br>
-established in 1920,<strong> </strong>the RFMF is a small and lightly-armed force with a history of intervening in the country’s politics, including coups in 1987 and 2006, and a mutiny in 2000, and it continues to have significant political power; the RFMF is responsible for external security but can be assigned some domestic security responsibilities in specific circumstances; it also has a tradition of participating in UN peacekeeping operations, having sent troops on nearly 20 such missions since first deploying personnel to South Lebanon in 1978; these deployments have offered experience and a source of financial support; the RFMF has an infantry regiment and a small naval element comprised of patrol boats <br><br>Fiji has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Fiji's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>
+established in 1920,<strong> </strong>the RFMF is a small and lightly-armed force with a history of intervening in the country’s politics, including coups in 1987 and 2006, and a mutiny in 2000, and it continues to have significant political power; the RFMF is responsible for external security but can be assigned some domestic security responsibilities in specific circumstances; it also has a tradition of participating in UN peacekeeping operations, having sent troops on nearly 20 such missions since first deploying personnel to South Lebanon in 1978; these deployments have offered experience and a source of financial support; the RFMF has an infantry regiment and a small naval element comprised of patrol boats <br><br>Fiji has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Fiji's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2025)<br>
 
 ## Transnational Issues
 

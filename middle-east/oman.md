@@ -281,7 +281,7 @@ _conventional short form_: Oman<br>
 _local long form_: Saltanat Uman<br>
 _local short form_: Uman<br>
 _former_: Sultanate of Muscat and Oman<br>
-_etymology_: the origin of the name is uncertain, but it apparently dates back at least 2,000 years since an "Omana" is mentioned by Pliny the Elder (1st century A.D.) and an "Omanon" by Ptolemy (2nd century A.D.)<br>
+_etymology_: the origin of the name is uncertain, but it may date back at least 2,000 years, with&nbsp; an "Omana" mentioned by Pliny the Elder (1st century A.D.) and an "Omanon" by Ptolemy (2nd century A.D.); it is said to derive from Oman ben Ibrahim al Khalil (Oman ben Kahtan), who founded the state<br>
 
 **Government type**<br>
 absolute monarchy<br>

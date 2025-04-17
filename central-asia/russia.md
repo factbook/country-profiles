@@ -319,7 +319,7 @@ _conventional short form_: Russia<br>
 _local long form_: Rossiyskaya Federatsiya<br>
 _local short form_: Rossiya<br>
 _former_: Russian Empire, Russian Soviet Federative Socialist Republic<br>
-_etymology_: Russian lands were generally referred to as Muscovy until PETER I officially declared the Russian Empire in 1721; the new name sought to invoke the patrimony of the medieval eastern European Rus state centered on Kyiv in present-day Ukraine; the Rus were a Varangian (eastern Viking) elite that imposed their rule and eventually their name on their Slavic subjects<br>
+_etymology_: Russian lands were referred to as Muscovy until PETER I declared the Empire of All Russias in 1721; the new name aimed at identifying the new Russia with European political tradition; "Rus" was the Old Finnish name given to Varangians (eastern Vikings) who entered the area in the 9th century<br>
 
 **Government type**<br>
 semi-presidential federation<br>

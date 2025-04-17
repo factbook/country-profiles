@@ -608,7 +608,7 @@ _key ports_: Bata, Ceiba Terminal, Cogo, Luba, Malabo, Punta Europa Terminal, Se
 
 **Military and security forces**<br>
 Equatorial Guinea Armed Forces (Fuerzas Armadas de Guinea Ecuatorial, FAGE): Equatorial Guinea National Guard (Guardia Nacional de Guinea Ecuatorial, GNGE (Army)), Navy, Air Force; Gendarmerie (Guardia Civil) (2024)<br>
-<strong>note:</strong> police report to the Ministry of National Security, while gendarmes report to the Ministry of National Defense; police generally are responsible for maintaining law and order in the cities, while gendarmes are responsible for security outside cities and for special events<br>
+<strong>note:</strong> the National Police report to the Ministry of National Security, while the Gendarmerie reports to the Ministry of National Defense; police generally are responsible for maintaining law and order in the cities, while gendarmes are responsible for security outside cities and for special events<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2023 est.)<br>
@@ -618,7 +618,7 @@ Equatorial Guinea Armed Forces (Fuerzas Armadas de Guinea Ecuatorial, FAGE): Equ
 1.5% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 1,500 active-duty troops (2023)<br>
+approximately 1,500 active-duty troops (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAGE is armed with mostly older (typically Soviet-era) and second-hand weapons systems; in recent years, it has sought to modernize its naval inventory with purchases of vessels from several countries, including Bulgaria and Israel; China and Russia have also supplied some equipment to the FAGE (2024)<br>

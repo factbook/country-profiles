@@ -296,7 +296,7 @@ _conventional long form_: Republic of the Philippines<br>
 _conventional short form_: Philippines<br>
 _local long form_: Republika ng Pilipinas<br>
 _local short form_: Pilipinas<br>
-_etymology_: named in honor of King PHILLIP II of Spain by Spanish explorer Ruy LOPEZ de VILLALOBOS, who visited some of the islands in 1543<br>
+_etymology_: named in honor of King PHILLIP II of Spain by Spanish explorer Ruy LOPEZ de VILLALOBOS, who visited the islands in 1543<br>
 
 **Government type**<br>
 presidential republic<br>

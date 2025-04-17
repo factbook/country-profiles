@@ -371,7 +371,7 @@ _email address and website_: <br>office@bulgaria-embassy.org<br><br>https://www.
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires H. Martin McDOWELL (since January 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Susan FALATKO (since 18 February 2025)<br>
 _embassy_: 16, Kozyak Street, Sofia 1408<br>
 _mailing address_: 5740 Sofia Place, Washington, DC&nbsp; 20521-5740<br>
 _telephone_: [359] (2) 937-5100<br>

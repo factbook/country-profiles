@@ -703,8 +703,8 @@ _key ports_: Belawan, Cilacap, Dumai, Jakarta, Kasim Terminal, Merak Mas Termina
 ## Military and Security
 
 **Military and security forces**<br>
-Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-Angkatan Darat (TNI-AD)), Navy (TNI-Angkatan Laut (TNI-AL); includes Marine Corps (Korps Marinir or KorMar)), Air Force (TNI-Angkatan Udara (TNI-AU)) (2024)<br>
-<strong>note 1:</strong> in 2014, Indonesia created a Maritime Security Agency (Bakamla) to coordinate the actions of all maritime security agencies, including the Navy, the Indonesian Sea and Coast Guard (Kesatuan Penjagaan Laut dan Pantai, KPLP), the Water Police (Polair), Customs (Bea Cukai), and Ministry of Marine Affairs and Fisheries<br><br><strong>note 2: </strong>the Indonesian National Police, which reports directly to the president, includes a paramilitary Mobile Brigade Corps (BRIMOB) and Detachment 88 (Densus or Detasemen Khusus 88 Antiteror), a specialized counterterrorism force<br>
+Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-Angkatan Darat, TNI-AD), Navy (TNI-Angkatan Laut, TNI-AL; includes Marine Corps (Korps Marinir or KorMar)), Air Force (TNI-Angkatan Udara, TNI-AU) (2024)<br>
+<strong>note 1:</strong> in 2014, Indonesia created a Maritime Security Agency (Badan Keamanan Laut Republik Indonesia or Bakamla) to coordinate the actions of all maritime security agencies, including the Navy, the Indonesian Sea and Coast Guard (Kesatuan Penjagaan Laut dan Pantai, KPLP), the Water Police (Polair), Customs (Bea Cukai), and Ministry of Marine Affairs and Fisheries<br><br><strong>note 2: </strong>the Indonesian National Police (POLRI), which reports directly to the president, includes a paramilitary Mobile Brigade Corps (BRIMOB) and Detachment 88 (Densus or Detasemen Khusus 88 Antiteror), a specialized counterterrorism force<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2023 est.)<br>

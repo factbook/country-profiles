@@ -284,7 +284,7 @@ _conventional short form_: North Macedonia<br>
 _local long form_: Republika Severna Makedonija<br>
 _local short form_: Severna Makedonija<br>
 _former_: Democratic Federal Macedonia, People's Republic of Macedonia, Socialist Republic of Macedonia, Republic of Macedonia<br>
-_etymology_: the country name derives from the ancient kingdom of Macedon (7th to 2nd centuries B.C.)<br>
+_etymology_: the name derives from the ancient kingdom of Macedon (7th to 2nd centuries B.C.), whose name origin is unclear; it may derive from the mythological Macedon, the son of the Greek god Zeus; alternatively, it may come from the Greek word <em>makednos</em>, meaning "tail," or the Illyrian word <em>maketia</em>, meaning "cattle"<br>
 
 **Government type**<br>
 parliamentary republic<br>

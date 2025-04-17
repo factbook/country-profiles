@@ -372,7 +372,7 @@ _FAX_: [1] (202) 332-9893<br>
 _email address and website_: <br>centrafricwashington@yahoo.com<br><br>https://www.usrcaembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Patricia A. MAHONEY (since 8 April 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires TBD (since 27 March 2025)<br>
 _embassy_: Avenue David Dacko, Bangui<br>
 _mailing address_: 2060 Bangui Place, Washington DC&nbsp; 20521-2060<br>
 _telephone_: [236] 2161-0200<br>

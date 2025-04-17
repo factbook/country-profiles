@@ -304,8 +304,8 @@ _conventional long form_: Republic of Niger<br>
 _conventional short form_: Niger<br>
 _local long form_: R&eacute;publique du Niger<br>
 _local short form_: Niger<br>
-_etymology_: named for the Niger River that passes through the southwest of the country; from a native term "Ni Gir" meaning "River Gir"<br>
-<strong>note:</strong> pronounced nee-zhair<br>
+_etymology_: named for the Niger River that passes through the southwest of the country; the name of the river probably comes from the local Tuareg name, <em>egereou n-igereouen </em>(big rivers)<br>
+<strong>note:</strong> pronounced nee-ZHAIR<br>
 
 **Government type**<br>
 formerly, semi-presidential republic<br>

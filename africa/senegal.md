@@ -301,7 +301,7 @@ _conventional short form_: Senegal<br>
 _local long form_: R&eacute;publique du S&eacute;n&eacute;gal<br>
 _local short form_: S&eacute;n&eacute;gal<br>
 _former_: Senegambia (along with The Gambia), Mali Federation<br>
-_etymology_: named for the Senegal River that forms the northern border of the country; many theories exist for the origin of the river name; perhaps the most widely cited derives the name from "Azenegue," the Portuguese appellation for the Berber Zenaga people who lived north of the river<br>
+_etymology_: named for the Senegal River that forms the northern border of the country; the river's name may derive from "Azenegue," the Portuguese name for the Berber Zenaga people who lived north of the river, or it could come from a local word meaning "navigable"<br>
 
 **Government type**<br>
 presidential republic<br>

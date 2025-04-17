@@ -56,9 +56,9 @@ a 1,200-hectare marine nature reserve, the Reserve Naturelle, is made up of five
 ## People and Society
 
 **Population**<br>
-_total_: 7,086<br>
+_total_: 7,086 (2024 est.)<br>
 _male_: 3,737<br>
-_female_: 3,349 (2024 est.)<br>
+_female_: 3,349<br>
 
 **Ethnic groups**<br>
 French, Portuguese, Caribbean, Afro-Caribbean<br>
@@ -175,7 +175,7 @@ _conventional short form_: Saint Barthelemy<br>
 _local long form_: Collectivit&eacute; d'outre mer de Saint-Barth&eacute;lemy<br>
 _local short form_: Saint-Barth&eacute;lemy<br>
 _abbreviation_: Saint-Barth (French)/ St. Barts or St. Barths (English)<br>
-_etymology_: explorer Christopher COLUMBUS named the island in honor of his brother Bartolomeo's namesake saint in 1493<br>
+_etymology_: explorer Christopher COLUMBUS named the island in honor of his brother Bartolomeo in 1493<br>
 
 **Government type**<br>
 parliamentary democracy (Territorial Council); overseas collectivity of France<br>

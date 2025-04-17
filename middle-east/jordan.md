@@ -82,9 +82,9 @@ strategic location at the head of the Gulf of Aqaba and as the Arab country that
 ## People and Society
 
 **Population**<br>
-_total_: 11,174,024<br>
+_total_: 11,174,024 (2024 est.)<br>
 _male_: 5,844,979<br>
-_female_: 5,329,045 (2024 est.)<br>
+_female_: 5,329,045<br>
 <strong>note:</strong> increased estimate reflects revised assumptions about the net migration rate due to the increased flow of Syrian refugees<br>
 
 **Nationality**<br>
@@ -556,7 +556,7 @@ cars, refined petroleum, gold, crude petroleum, jewelry (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$15.56 billion (31 December 2017 est.)<br>
+$15.56 billion (2017 est.)<br>
 $15.543 billion (2016 est.)<br>
 $16.572 billion (2015 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

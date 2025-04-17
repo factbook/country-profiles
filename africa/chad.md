@@ -390,7 +390,7 @@ _FAX_: [1] (202) 578-0431<br>
 _email address and website_: <br>info@chadembassy.us<br><br>https://chadembassy.us/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Alexander LASKARIS (since 19 August 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Rick SWART (since 28 February 2025)<br>
 _embassy_: Rond-Point Chagoua, B.P. 413, N&rsquo;Djamena<br>
 _mailing address_: 2410 N'Djamena Place, Washington DC&nbsp; 20521-2410<br>
 _telephone_: [235] 6885-1065<br>

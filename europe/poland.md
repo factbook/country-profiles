@@ -299,7 +299,7 @@ _conventional short form_: Poland<br>
 _local long form_: Rzeczpospolita Polska<br>
 _local short form_: Polska<br>
 _former_: Polish People's Republic<br>
-_etymology_: name derives from the Polanians, a west Slavic tribe that united several surrounding Slavic groups (9th-10th centuries A.D.) and who passed on their name to the country; the name of the tribe likely comes from the Slavic "pole" (field or plain), indicating the flat nature of their country<br>
+_etymology_: the name probably comes from the Slavic word <em>pole (</em>field or plain), indicating the flat nature of the country<br>
 
 **Government type**<br>
 parliamentary republic<br>

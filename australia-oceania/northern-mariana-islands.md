@@ -216,7 +216,7 @@ _conventional long form_: Commonwealth of the Northern Mariana Islands<br>
 _conventional short form_: Northern Mariana Islands<br>
 _former_: Trust Territory of the Pacific Islands, Mariana Islands District<br>
 _abbreviation_: CNMI<br>
-_etymology_: formally claimed and named by Spain in 1667 in honor of the Spanish Queen, MARIANA of Austria<br>
+_etymology_: Spain named the islands in 1667 in honor of the Spanish Queen, MARIANA of Austria<br>
 
 **Government type**<br>
 a commonwealth in political union with and under the sovereignty of the US; republican form of government with separate executive, legislative, and judicial branches<br>

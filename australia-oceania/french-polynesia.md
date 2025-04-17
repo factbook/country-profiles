@@ -525,7 +525,7 @@ _key ports_: Atuona, Baie Taiohae, Papeete, Port Rikitea, Uturoa, Vaitape<br>
 no regular military forces<br>
 
 **Military - note**<br>
-defense is the responsibility of France; France maintains forces (about 900 troops) in French Polynesia<br>
+defense is the responsibility of France, and it maintains a military garrison in French Polynesia<br>
 
 ## Transnational Issues
 

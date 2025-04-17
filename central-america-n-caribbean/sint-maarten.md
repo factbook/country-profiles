@@ -68,9 +68,9 @@ most populous areas are Lower Prince's Quarter (north of Philipsburg), followed 
 ## People and Society
 
 **Population**<br>
-_total_: 46,215<br>
+_total_: 46,215 (2024 est.)<br>
 _male_: 22,817<br>
-_female_: 23,398 (2024 est.)<br>
+_female_: 23,398<br>
 
 **Ethnic groups**<br>
 Saint Maarten 29.9%, Dominican Republic 10.2%, Haiti 7.8%, Jamaica 6.6%, Saint Martin 5.9%, Guyana 5%, Dominica 4.4%, Curacao 4.1%, Aruba 3.4%, Saint Kitts and Nevis 2.8%, India 2.6%, Netherlands 2.2%, US 1.6%, Suriname 1.4%, Saint Lucia 1.3%, Anguilla 1.1%, other 8%, unspecified 1.7% (2011 est.)<br>

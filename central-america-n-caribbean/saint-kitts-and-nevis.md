@@ -261,8 +261,8 @@ _agricultural_: 200,000 cubic meters (2017 est.)<br>
 _conventional long form_: Federation of Saint Kitts and Nevis<br>
 _conventional short form_: Saint Kitts and Nevis<br>
 _former_: Federation of Saint Christopher and Nevis<br>
-_etymology_: Saint Kitts was, and still is, referred to as Saint Christopher and this name was well established by the 17th century (although who first applied the name is unclear); in the 17th century a common nickname for Christopher was Kit or Kitt, so the island began to be referred to as "Saint Kitt's Island" or just "Saint Kitts"; Nevis is derived from the original Spanish name "Nuestra Senora de las Nieves" (Our Lady of the Snows) and refers to the white halo of clouds that generally wreathes Nevis Peak<br>
-<strong>note:</strong> Nevis is pronounced nee-vis<br>
+_etymology_: explorer Christopher COLUMBUS visited the islands in 1493 and named one for his own patron saint; a common nickname for Christopher during the following centuries was Kit or Kitt, and Saint Kitts is still referred to as Saint Christopher; the name of Nevis is said to derive from the original Spanish name "Las Nieves" (The Snows) and refers to its cloud-topped mountain<br>
+<strong>note:</strong> Nevis is pronounced NEE-vis<br>
 
 **Government type**<br>
 federal parliamentary democracy under a constitutional monarchy; a Commonwealth realm<br>

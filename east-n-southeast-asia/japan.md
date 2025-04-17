@@ -385,7 +385,7 @@ _consulate(s) general_: Chicago<br>
 _consulate(s)_: Anchorage (AK), Atlanta, Boston, Denver (CO), Detroit (MI), Hagatna (Guam), Honolulu, Houston, Los Angeles, Miami, Nashville (TN), New York, Portland (OR), San Francisco, Saipan (Northern Mariana Islands), Seattle (WA)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Katherine E. (Kemy) MONAHAN (since 15 January 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Joseph M. YOUNG (since 9 February 2025)<br>
 _embassy_: 1-10-5 Akasaka, Minato-ku, Tokyo 107-8420<br>
 _mailing address_: 9800 Tokyo Place, Washington DC&nbsp; 20521-9800<br>
 _telephone_: [81] (03) 3224-5000<br>

@@ -311,7 +311,7 @@ _conventional long form_: Republic of Peru<br>
 _conventional short form_: Peru<br>
 _local long form_: Rep&uacute;blica del Per&uacute;<br>
 _local short form_: Per&uacute;<br>
-_etymology_: exact meaning is obscure, but the name may derive from a native word "biru" meaning "river"<br>
+_etymology_: the name may derive from the Guarani word biru, meaning "river"<br>
 
 **Government type**<br>
 presidential republic<br>

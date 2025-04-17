@@ -673,8 +673,7 @@ _key ports_: Batumi, Sokhumi, Supsa Marine Terminal<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Georgian Defense Forces (GDF; aka Defense Forces of Georgia or DFG): Ground Forces, Air Force, National Guard, Special Operations Forces, National Guard; Ministry of Internal Affairs: Border Police, Coast Guard (includes Georgian naval forces, which were merged with the Coast Guard in 2009) (2024)<br>
-<strong>note:</strong> the Ministry of Internal Affairs also has forces for protecting strategic infrastructure and conducting special operations<br>
+Georgian Defense Forces (GDF; aka Defense Forces of Georgia, DFG): Ground Forces, Air Force, Special Operations Forces, National Guard<br><br>Ministry of Internal Affairs: Police, Border Police of Georgia, Coast Guard of Georgia (includes naval forces, which were merged with the Coast Guard in 2009) (2025)<br>
 
 **Military expenditures**<br>
 1.7% of GDP (2023 est.)<br>

@@ -281,8 +281,8 @@ _conventional long form_: State of Qatar<br>
 _conventional short form_: Qatar<br>
 _local long form_: Dawlat Qatar<br>
 _local short form_: Qatar<br>
-_etymology_: the origin of the name is uncertain, but it dates back at least 2,000 years since a term "Catharrei" was used to describe the inhabitants of the peninsula by Pliny the Elder (1st century A.D.), and a "Catara" peninsula is depicted on a map by Ptolemy (2nd century A.D.)<br>
-<strong>note:</strong> closest approximation of the native pronunciation is gat-tar or cot-tar<br>
+_etymology_: the name may derive from the Arabic word <em>katran</em>, meaning "tar" or "resin" in reference to the area's oil and natural gas reserves<br>
+<strong>note:</strong> closest approximation of the native pronunciation is GAT-tar or COT-tar<br>
 
 **Government type**<br>
 absolute monarchy<br>

@@ -276,7 +276,7 @@ the Vatican Apostolic Library is one of the world's oldest libraries, formally e
 ## Military and Security
 
 **Military and security forces**<br>
-the Pontifical Swiss Guard Corps (Corpo della Guardia Svizzera Pontificia) serves as the de facto military force of Vatican City; the Gendarmerie Corps of Vatican City (Corpo della Gendarmeriais) is a police force that helps augment the Pontifical Swiss Guard Corps during the Pope’s appearances, as well as providing general security, traffic direction, and investigative duties for the Vatican City State (2024)<br>
+the Pontifical Swiss Guard Corps (Corpo della Guardia Svizzera Pontificia) serves as the de facto military force of Vatican City; the Gendarmerie Corps of Vatican City (Corpo della Gendarmeriais) is a police force that helps augment the Pontifical Swiss Guard Corps during the Pope’s appearances, as well as providing general security, traffic direction, and investigative duties for the Vatican City State (2025)<br>
 <strong>note: </strong>the Swiss Guard Corps has protected the Pope and his residence since 1506<br>
 
 **Military service age and obligation**<br>

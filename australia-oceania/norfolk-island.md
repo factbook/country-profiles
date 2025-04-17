@@ -117,7 +117,7 @@ _other_: 62.8% (2022 est.)<br>
 **Country name**<br>
 _conventional long form_: Territory of Norfolk Island<br>
 _conventional short form_: Norfolk Island<br>
-_etymology_: named by British explorer Captain James COOK after Mary HOWARD, Duchess of Norfolk, in 1774<br>
+_etymology_: named by British explorer Captain James COOK after Edward HOWARD, the ninth Duke of Norfolk, in 1774<br>
 
 **Government type**<br>
 non-self-governing overseas territory of Australia; note - the Norfolk Island Regional Council, which began operations 1 July 2016, is responsible for planning and managing a variety of public services, including those funded by the Government of Australia<br>

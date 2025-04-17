@@ -259,7 +259,7 @@ _agricultural_: 0 cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: none<br>
 _conventional short form_: Saint Vincent and the Grenadines<br>
-_etymology_: Saint Vincent was named by explorer Christopher COLUMBUS after Saint VINCENT of Saragossa because the 22 January 1498 day of discovery was the saint's feast day<br>
+_etymology_: explorer Christopher COLUMBUS named the island after Saint VINCENT of Saragossa because 22 January 1498, the day of discovery, was the saint's feast day<br>
 
 **Government type**<br>
 parliamentary democracy under a constitutional monarchy; a Commonwealth realm<br>

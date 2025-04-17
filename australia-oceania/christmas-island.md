@@ -69,9 +69,9 @@ located along major sea lanes of the Indian Ocean<br>
 ## People and Society
 
 **Population**<br>
-_total_: 1,692<br>
+_total_: 1,692 (2021 est.)<br>
 _male_: 1,007<br>
-_female_: 685 (2021 est.)<br>
+_female_: 685<br>
 
 **Nationality**<br>
 _noun_: Christmas Islander(s)<br>

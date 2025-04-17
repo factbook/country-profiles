@@ -299,7 +299,7 @@ _conventional short form_: Romania<br>
 _local long form_: none<br>
 _local short form_: Romania<br>
 _former_: Kingdom of Romania, Romanian People's Republic, Socialist Republic of Romania<br>
-_etymology_: the name derives from the Latin "Romanus" meaning "citizen of Rome" and was used to stress the common ancient heritage of Romania's three main regions - Moldavia, Transylvania, and Wallachia - during their gradual unification between the mid-19th century and early 20th century<br>
+_etymology_: the name derives from the Latin <em>Romani</em>, meaning "people from Rome;" the area was an outpost of the Roman Empire in the 2nd century A.D., and the current name was adopted when Moldavia and Wallachia merged in 1861<br>
 
 **Government type**<br>
 semi-presidential republic<br>

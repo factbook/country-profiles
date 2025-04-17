@@ -318,11 +318,11 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Transitional President Gen. Brice OLIGUI Nguema (since 4 September 2023)<br>
-_head of government_: Prime Minister Raymond NDONG SIMA (since 7 September 2023)<br>
+_chief of state_: President Brice OLIGUI Nguema (since 12 April 2025)<br>
+_head of government_: Prime Minister Raymond NDONG SIMA (since 7 September 2023)<br><br> <p> </p><br>
 _cabinet_: formerly the Council of Ministers, appointed by the prime minister in consultation with the president<br>
-_elections/appointments_: formerly, the president directly elected by plurality vote for a 5-year term (no term limits); election last held on 26 August 2023; prime minister appointed by the president; note - in August 2023, Gen. Brice OLIGUI Nguema led a military group called Committee for the Transition and Restoration of Institutions in a coup in which President Ali BONGO Ondimba was arrested and detained, election results were canceled, and state institutions were dissolved; in September 2023, OLIGUI was sworn in as transitional president; a general election is planned for August 2025; note - November 2024 voters in Gabon voted on a referendum to extend the presidential term to seven years and replace the prime minister with a vice president, elections slated for August 2025&nbsp;<br>
-_election results_: <em><br>2016: </em>Ali BONGO Ondimba reelected president; percent of vote - Ali BONGO Ondimba (PDG) 49.8%, Jean PING (UFC) 48.2%, other 2.0%<br><br><em>2009: </em>Ali BONGO Ondimba elected president; percent of vote - Ali BONGO Ondimba (PDG) 41.7%, Andre MBA OBAME (independent) 25.9%, Pierre MAMBOUNDOU (UPG) 25.2%, Zacharie MYBOTO (UGDD) 3.9%, other 3.3%<br>
+_elections/appointments_: formerly, the president directly elected by plurality vote for a 5-year term (no term limits); election last held on 26 August 2023; prime minister appointed by the president; note - in August 2023, Gen. Brice OLIGUI Nguema led a military group called Committee for the Transition and Restoration of Institutions in a coup in which President Ali BONGO Ondimba was arrested and detained, election results were canceled, and state institutions were dissolved; in September 2023, OLIGUI was sworn in as transitional president; a general election is planned for August 2025; note - November 2024 voters in Gabon voted on a referendum to extend the presidential term to seven years and replace the prime minister with a vice president, elections slated for August 2025<br>
+_election results_: <em>2025: </em>Brice OLIGUI Nguema elected president; percent of vote- Brice OLIGUI Nguema (Ind.) 90.35%, Alain Claude Bilie By Nze (EPG) 3.02%, other 6.63%<br><em><br>2016: </em>Ali BONGO Ondimba reelected president; percent of vote - Ali BONGO Ondimba (PDG) 49.8%, Jean PING (UFC) 48.2%, other 2.0%<br><br>
 
 **Legislative branch**<br>
 _legislature name_: Transitional Parlement (Parliament de la transition)<br>

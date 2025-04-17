@@ -284,7 +284,7 @@ _conventional long form_: Portuguese Republic<br>
 _conventional short form_: Portugal<br>
 _local long form_: Republica Portuguesa<br>
 _local short form_: Portugal<br>
-_etymology_: name derives from the Roman designation "Portus Cale" meaning "Port of Cale"; Cale was an ancient Celtic town and port in present-day northern Portugal<br>
+_etymology_: name derives from the Roman designation "Portus Cale," meaning "Port of Cale;" Cale was located in present-day northern Portugal, and its name is said to come from the Latin word <em>calere </em>(to be warm) because the harbor never iced over<br>
 
 **Government type**<br>
 semi-presidential republic<br>

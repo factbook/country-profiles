@@ -280,7 +280,7 @@ _conventional long form_: Democratic Republic of Sao Tome and Principe<br>
 _conventional short form_: Sao Tome and Principe<br>
 _local long form_: Republica Democratica de Sao Tome e Principe<br>
 _local short form_: Sao Tome e Principe<br>
-_etymology_: Sao Tome was named after Saint THOMAS the Apostle by the Portuguese who discovered the island on 21 December 1470 (or 1471), the saint's feast day; Principe is a shortening of the original Portuguese name of "Ilha do Principe" (Isle of the Prince) referring to the Prince of Portugal to whom duties on the island's sugar crop were paid<br>
+_etymology_: Sao Tome was named after Saint THOMAS the Apostle by the Portuguese who discovered the island on 21 December 1470 (or 1471), the saint's feast day; Principe is a shortening of the original Portuguese name of "Ilha do Principe" (Isle of the Prince), referring to Prince ALPHONSO of Portugal<br>
 
 **Government type**<br>
 semi-presidential republic<br>

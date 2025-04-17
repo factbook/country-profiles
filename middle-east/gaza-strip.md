@@ -495,9 +495,6 @@ prior to the start of the 2023-2025 conflict with Israel, the military wing of H
 **Military equipment inventories and acquisitions**<br>
 the military wing is armed with light weapons, including an inventory of rocket, anti-tank, anti-aircraft, indirect fire (typically mortars), and armed UAV capabilities; HAMAS acquires its weapons through smuggling or local construction and receives significant military support from Iran (2024)<br>
 
-**Military - note**<br>
-since seizing control of the Gaza Strip in 2007, the terrorist group HAMAS has had repeated clashes with Israel, including armed conflicts in 2008-09, 2012, 2014, 2021, and 2023-24; the Palestine Islamic Jihad (PIJ) terrorist group also operates in the Gaza Strip and has cooperated with HAMAS (2024)<br>
-
 ## Terrorism
 
 **Terrorist group(s)**<br>

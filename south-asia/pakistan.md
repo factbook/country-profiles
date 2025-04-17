@@ -309,7 +309,7 @@ _conventional short form_: Pakistan<br>
 _local long form_: Jamhuryat Islami Pakistan<br>
 _local short form_: Pakistan<br>
 _former_: West Pakistan<br>
-_etymology_: the word "pak" means "pure" in Persian or Pashto, while the Persian suffix "-stan" means "place of" or "country," so the word Pakistan literally means "Land of the Pure"<br>
+_etymology_: the name is said to have been proposed in the early 1930s by Muslim students at Cambridge University, created from the initials of Punjab, Afghanistan, and Kashmir; the word <em>pak </em>also means "pure" in Persian or Pashto, and the Persian suffix -<em>stan </em>means "place of" or "country," so Pakistan literally means "Land of the Pure"<br>
 
 **Government type**<br>
 federal parliamentary republic<br>

@@ -260,8 +260,8 @@ _agricultural_: 30 million cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: none<br>
 _conventional short form_: Saint Lucia<br>
-_etymology_: named after Saint LUCY of Syracuse by French sailors who were shipwrecked on the island on 13 December 1502, the saint's feast day; Saint Lucia is the only country named specifically after a woman<br>
-<strong>note:</strong> pronounced saynt-looshuh<br>
+_etymology_: believed to be named after Saint LUCY (Sainte ALOUSIE) of Syracuse by French sailors who were shipwrecked on the island on 13 December 1502, the saint's feast day<br>
+<strong>note:</strong> pronounced saynt-LOO-shuh<br>
 
 **Government type**<br>
 parliamentary democracy under a constitutional monarchy; a Commonwealth realm<br>

@@ -300,7 +300,7 @@ _agricultural_: 5.51 billion cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: Federal Republic of Nigeria<br>
 _conventional short form_: Nigeria<br>
-_etymology_: named for the Niger River that flows through the west of the country to the Atlantic Ocean; from a native term "Ni Gir" meaning "River Gir"<br>
+_etymology_: named for the Niger River that flows through the west of the country to the Atlantic Ocean; the name of the river probably comes from the local Tuareg name, <em>egereou n-igereouen </em>(big rivers)<br>
 
 **Government type**<br>
 federal presidential republic<br>

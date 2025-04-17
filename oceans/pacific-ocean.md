@@ -78,7 +78,7 @@ planetary air pressure systems and resultant wind patterns exhibit remarkable un
 ## Government
 
 **Country name**<br>
-_etymology_: named by Portuguese explorer Ferdinand MAGELLAN during the Spanish circumnavigation of the world in 1521; encountering favorable winds upon reaching the ocean, he called it "Mar Pacifico," which means "peaceful sea" in both Portuguese and Spanish<br>
+_etymology_: named by Portuguese explorer Ferdinand MAGELLAN while circumnavigating the world in 1520; he called it "Mar Pacifico," which means "peaceful sea" in both Portuguese and Spanish, because he encountered no storms during the crossing<br>
 
 ## Economy
 

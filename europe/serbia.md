@@ -304,7 +304,7 @@ _conventional short form_: Serbia<br>
 _local long form_: Republika Srbija<br>
 _local short form_: Srbija<br>
 _former_: People's Republic of Serbia, Socialist Republic of Serbia<br>
-_etymology_: the origin of the name is uncertain, but seems to be related to the name of the West Slavic Sorbs who reside in the Lusatian region in present-day eastern Germany; by tradition, the Serbs migrated from that region to the Balkans in about the 6th century A.D.<br>
+_etymology_: the country takes its name from the Serb people; the origin of their name is unclear but may derive from the Caucasian root word <em>ser</em>, meaning "man"<br>
 
 **Government type**<br>
 parliamentary republic<br>

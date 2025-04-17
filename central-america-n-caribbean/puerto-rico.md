@@ -243,7 +243,7 @@ _agricultural_: 110 million cubic meters (2020 est.)<br>
 _conventional long form_: Commonwealth of Puerto Rico<br>
 _conventional short form_: Puerto Rico<br>
 _abbreviation_: PR<br>
-_etymology_: Christopher COLUMBUS named the island San Juan Bautista (Saint John the Baptist) and the capital city and main port Cuidad de Puerto Rico (Rich Port City); over time, however, the names were shortened and transposed and the island came to be called Puerto Rico and its capital San Juan<br>
+_etymology_: Christopher COLUMBUS originally named the island San Juan Bautista (Saint John the Baptist) and the capital city and main port Cuidad de Puerto Rico (Rich Port City); over time, the names were shortened and transposed<br>
 
 **Government type**<br>
 unincorporated organized territory of the US with local self-government; republican form of territorial government with separate executive, legislative, and judicial branches; note - reference Puerto Rican Federal Relations Act, 2 March 1917, as amended by Public Law 600, 3 July 1950<br>

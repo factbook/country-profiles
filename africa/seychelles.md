@@ -268,7 +268,7 @@ _conventional long form_: Republic of Seychelles<br>
 _conventional short form_: Seychelles<br>
 _local long form_: Republic of Seychelles<br>
 _local short form_: Seychelles<br>
-_etymology_: named by French Captain Corneille Nicholas MORPHEY after Jean Moreau de SECHELLES, the finance minister of France, in 1756<br>
+_etymology_: named by French Captain Corneille Nicholas MORPHEY after Jean Moreau de S&Eacute;CHELLES, the finance minister of France, in 1756; the British changed the spelling of the name in 1815 when they acquired the islands<br>
 
 **Government type**<br>
 presidential republic<br>

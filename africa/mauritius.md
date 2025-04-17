@@ -274,7 +274,7 @@ _conventional short form_: Mauritius<br>
 _local long form_: Republic of Mauritius<br>
 _local short form_: Mauritius<br>
 _etymology_: named after Prince Maurice VAN NASSAU, stadtholder (governor) of the Dutch Republic, in 1598<br>
-<strong>note:</strong> pronounced mah-rish-us<br>
+<strong>note:</strong> pronounced mahr-ish-us<br>
 
 **Government type**<br>
 parliamentary republic<br>

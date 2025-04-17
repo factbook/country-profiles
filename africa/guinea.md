@@ -648,7 +648,7 @@ _key ports_: Benti, Conakry, Kamsar, Victoria<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Guinean (or National) Armed Forces (Forces Armées Guinéennes): Army (Armée de terre), Air Force (Armée de l'air), Navy (Armée de mer), Presidential Security Battalion (Battailon Autonome de la Sécurité Presidentielle, BASP), National Gendarmerie (Gendarmerie Nationale) (2024)<br>
+Guinean (or National) Armed Forces (Forces Armées Guinéennes): Army (Armée de Terre), Air Force (Armée de l'Air), Navy (Armée de Mer), National Gendarmerie (Gendarmerie Nationale) (2024)<br>
 <strong>note:</strong> the National Gendarmerie is overseen by the Ministry of Defense, while the National Police is under the Ministry of Security; the Gendarmerie and National Police share responsibility for internal security, but only the Gendarmerie can arrest police or military officials; Guinea's military and security forces are sometimes collectively referred to as the Defense and Security Forces<br>
 
 **Military expenditures**<br>

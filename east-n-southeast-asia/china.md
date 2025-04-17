@@ -399,7 +399,7 @@ _email address and website_: <br>chinaemppress_us@mfa.gov.cn<br><br>http://www.c
 _consulate(s) general_: Chicago, Los Angeles, New York, San Francisco; note - the US ordered closure of the Houston consulate in late July 2020<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Sarah M. BERAN (since January 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Anny VU (since March 2025)<br>
 _embassy_: 55 Anjialou Road, Chaoyang District, Beijing 100600<br>
 _mailing address_: 7300 Beijing Place, Washington DC&nbsp; 20521-7300<br>
 _telephone_: [86] (10) 8531-3000<br>

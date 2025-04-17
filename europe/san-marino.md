@@ -238,7 +238,7 @@ _conventional long form_: Republic of San Marino<br>
 _conventional short form_: San Marino<br>
 _local long form_: Repubblica di San Marino<br>
 _local short form_: San Marino<br>
-_etymology_: named after Saint MARINUS, who in A.D. 301 founded the monastic settlement around which the city and later the state of San Marino coalesced<br>
+_etymology_: named after Saint MARINUS, who founded a monastic settlement on Monte Titano in the early 4th century<br>
 
 **Government type**<br>
 parliamentary republic<br>

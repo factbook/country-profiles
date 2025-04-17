@@ -675,7 +675,7 @@ _key ports_: Cobh, Cork, Dublin, Foynes<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Irish Defense Forces (Oglaigh na h-Eireannn): Army, Air Corps, Naval Service, Reserve Defense Forces (2024)<br>
+Irish Defense Forces (Oglaigh na h-Eireannn): Army, Air Corps, Naval Service, Reserve Defense Forces (2025)<br>
 <strong>note:</strong> An Garda Siochana (or Garda) is the national police force and maintains internal security under the auspices of the Department of Justice<br>
 
 **Military expenditures**<br>

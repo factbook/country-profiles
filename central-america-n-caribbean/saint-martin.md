@@ -60,9 +60,9 @@ subject to hurricanes from July to November<br>
 ## People and Society
 
 **Population**<br>
-_total_: 32,996<br>
+_total_: 32,996 (2024 est.)<br>
 _male_: 15,791<br>
-_female_: 17,205 (2024 est.)<br>
+_female_: 17,205<br>
 
 **Ethnic groups**<br>
 Creole (Mulatto), Black, Guadeloupe Mestizo (French-East Asian), White, East Indian, other<br>
@@ -181,7 +181,7 @@ _conventional long form_: Overseas Collectivity of Saint Martin<br>
 _conventional short form_: Saint Martin<br>
 _local long form_: Collectivit&eacute; d'outre mer de Saint-Martin<br>
 _local short form_: Saint-Martin<br>
-_etymology_: explorer Christopher COLUMBUS named the island after Saint MARTIN of Tours because the 11 November 1493 day of discovery was the saint's feast day<br>
+_etymology_: explorer Christopher COLUMBUS named the island after Saint MARTIN of Tours during a visit on 11 November 1493, the saint's feast day<br>
 
 **Government type**<br>
 parliamentary democracy (Territorial Council); overseas collectivity of France<br>

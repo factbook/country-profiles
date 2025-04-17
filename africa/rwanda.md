@@ -294,7 +294,7 @@ _conventional short form_: Rwanda<br>
 _local long form_: Republika y'u Rwanda<br>
 _local short form_: Rwanda<br>
 _former_: Kingdom of Rwanda, Ruanda, German East Africa<br>
-_etymology_: the name translates as "domain" in the native Kinyarwanda language<br>
+_etymology_: the country is named for a local people, but the meaning of their own name is obscure<br>
 
 **Government type**<br>
 presidential republic<br>

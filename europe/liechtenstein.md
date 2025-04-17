@@ -293,7 +293,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: Prince HANS-ADAM II (since 13 November 1989, assumed executive powers on 26 August 1984)<br>
-_head of government_: Prime Minister Daniel RISCH (since 25 March 2021)<br>
+_head of government_: Prime Minister Brigitte HAAS (since 10 April 2025)<br>
 _cabinet_: Cabinet elected by the Parliament, confirmed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party in Parliament usually appointed the head of government by the monarch, and the leader of the largest minority party in Parliament usually appointed the deputy head of government by the monarch if there is a coalition government<br>
 <strong>note</strong>: the prince's successor is Heir Apparent and Regent of Liechtenstein Prince ALOIS (son of the monarch, born 11 June 1968); on 15 August 2004, HANS-ADAM II transferred the official duties of the ruling prince to ALOIS, but Prince HANS-ADAM II retains status of chief of state<br>

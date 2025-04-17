@@ -681,7 +681,7 @@ _key ports_: Djeno Terminal, Dussafu Terminal, N'kossa Terminal, Pointe Noire, Y
 ## Military and Security
 
 **Military and security forces**<br>
-Congolese Armed Forces (Forces Armees Congolaises, FAC): Army, Navy, Congolese Air Force, National Gendarmerie<br><br>Ministry of Interior: National Police (2024)<br>
+Congolese Armed Forces (Forces Armees Congolaises, FAC): Army, Navy, Congolese Air Force, National Gendarmerie<br><br>Ministry of Interior: National Police (2025)<br>
 <strong>note:</strong> the National Gendarmerie (GN) is a paramilitary force with domestic law enforcement and security responsibilities; it is under the Ministry of Defense, but also reports to the Ministry of Interior; the GN nominally includes the Republican Guard (GR), which is responsible for presidential security and has a separate command structure<br>
 
 **Military expenditures**<br>

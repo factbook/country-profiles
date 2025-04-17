@@ -599,7 +599,7 @@ _key ports_: St. George's<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; the Royal Grenada Police Force (under the Ministry of National Security) includes a Coast Guard and a paramilitary Special Services Unit (2024)<br>
+no regular military forces; the Royal Grenada Police Force (under the Ministry of National Security) includes a Coast Guard and a paramilitary Special Services Unit (2025)<br>
 
 **Military - note**<br>
 Grenada joined the Caribbean Regional Security System (RSS) in 1985; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Guyana, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2024)<br>

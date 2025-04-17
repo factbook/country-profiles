@@ -667,7 +667,7 @@ _key ports_: Coxen Hole, La Ceiba, Puerto Castilla, Puerto Cortes, Puerto de Hen
 ## Military and Security
 
 **Military and security forces**<br>
-Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Honduran Naval Forces (Fuerzas Naval Hondurena, FNH; includes marines), Honduran Air Force (Fuerza Aerea Hondurena, FAH), Honduran Military Police of Public Order (Policía Militar del Orden Público or PMOP) (2024)<br>
+Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Honduran Naval Force (Fuerza Naval Hondurena, FNH; includes marines), Honduran Air Force (Fuerza Aerea Hondurena, FAH), Honduran Military Police of Public Order (Policía Militar del Orden Público or PMOP) (2025)<br>
 <strong>note 1:</strong> the National Police of Honduras (Policía Nacional de Honduras, PNH) are under the Secretariat of Security and responsible for internal security; some larger cities have police forces that operate independently of the national police and report to municipal authorities <br><br><strong>note 2:</strong> the PMOP supports the PNH against narcotics trafficking and organized crime; it is subordinate to the Secretariat of Defense/FFAA, but conducts operations sanctioned by civilian security officials as well as by military leaders <br><br><strong>note 3:</strong> the National Interinstitutional Security Force is an interagency command that coordinates the overlapping responsibilities of the HNP, PMOP, and other security organizations such as the National Intelligence Directorate and the Public Ministry (public prosecutor), but exercises coordination, command, and control responsibilities only during interagency operations involving those forces<br>
 
 **Military expenditures**<br>
@@ -678,7 +678,7 @@ Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Hond
 1.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 16,000 active personnel (7,500 Army; 1,500 Navy, including about 1,000 marines; 2,000 Air Force; 5,000 Military Police of Public Order); approximately 18,000 National Police (2023)<br>
+approximately 16,000 active personnel (7,500 Army; 1,500 Navy, including about 1,000 marines; 2,000 Air Force; 5,000 Military Police of Public Order); approximately 18,000 National Police (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FFAA's inventory is comprised of a mix of older or secondhand and limited amounts of more equipment from a wide mix of suppliers, including Colombia, Germany, Israel, the Netherlands, South Korea, the UK, and the US (2024)<br>
@@ -688,7 +688,7 @@ the FFAA's inventory is comprised of a mix of older or secondhand and limited am
 <strong>note: </strong>as of 2023, women made up about 9% of the active duty military<br>
 
 **Military - note**<br>
-the Honduran Armed Forces (FFAA) are responsible for maintaining the country’s territory, defending its sovereignty, providing emergency/humanitarian assistance, and supporting the National Police (PNH); the FFAA’s primary focus is internal and border security, and since 2011 a considerable portion of it has been deployed to support the PNH in combating narcotics trafficking and organized crime; military support to domestic security included the creation of the Military Police of Public Order (PMOP) in 2013 to provide security in areas controlled by street gangs to combat crime and make arrests; the PMOP also has sent personnel to reinforce security operations along the country’s border as part of a tri-national security task force with El Salvador and Guatemala<br><br>the FFAA has received military equipment, training, humanitarian, and technical assistance from the US military; the US military maintains a joint service task force co-located with the FFAA at Soto Cano Air Base (2024)<br>
+the Honduran Armed Forces (FFAA) are responsible for maintaining the country’s territory, defending its sovereignty, providing emergency/humanitarian assistance, and supporting the National Police (PNH); the FFAA’s primary focus is internal and border security, and since 2011 a considerable portion of it has been deployed to support the PNH in combating narcotics trafficking and organized crime; military support to domestic security included the creation of the Military Police of Public Order (PMOP) in 2013 to provide security in areas controlled by street gangs to combat crime and make arrests; the PMOP also has sent personnel to reinforce security operations along the country’s border as part of a tri-national security task force with El Salvador and Guatemala<br><br>the FFAA has received military equipment, training, humanitarian, and technical assistance from the US military; the US military maintains a joint service task force co-located with the FFAA at Soto Cano Air Base (2025)<br>
 
 ## Transnational Issues
 

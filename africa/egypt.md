@@ -303,7 +303,7 @@ _conventional short form_: Egypt<br>
 _local long form_: Jumhuriyat Misr al-Arabiyah<br>
 _local short form_: Misr<br>
 _former_: United Arab Republic (short-lived unification with Syria)<br>
-_etymology_: the English name Egypt derives from the ancient Greek name for the country, "Aguptos," and the ancient Roman name, "Aegyptus," with the Greek form coming from the words <em>aia gupos</em>, or "land of the vulture;" the Arabic name for the country, Misr, can be traced to the Assyrian word <em>misir</em>, meaning "fort" <br>
+_etymology_: the English name Egypt derives from the ancient Greek name for the country, "Aguptos," and the ancient Roman name, "Aegyptus," with the Greek form coming from the words <em>aia gupos</em>, or "land of the vulture;" the Arabic name for the country, Misr, can be traced to the Assyrian word <em>misir</em>, meaning "fort"<br>
 
 **Government type**<br>
 presidential republic<br>
