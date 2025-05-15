@@ -109,11 +109,10 @@ _15-64 years_: 65.9% (male 12,236,752/female 12,410,567)<br>
 _65 years and over_: 8.4% (2024 est.) (male 1,529,357/female 1,610,969)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 52.2<br>
-_youth dependency ratio_: 40.9<br>
-_elderly dependency ratio_: 11.3<br>
-_potential support ratio_: 8.9 (2021 est.)<br>
-<strong>note:</strong> does not include data from the former Western Sahara<br>
+_total dependency ratio_: 51.7 (2024 est.)<br>
+_youth dependency ratio_: 38.9 (2024 est.)<br>
+_elderly dependency ratio_: 12.7 (2024 est.)<br>
+_potential support ratio_: 7.8 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 30.6 years (2024 est.)<br>
@@ -249,7 +248,7 @@ _female_: 14 years (2021)<br>
 ## Environment
 
 **Environment - current issues**<br>
-in the north, land degradation/desertification (soil erosion resulting from farming of marginal areas, overgrazing, destruction of vegetation); water and soil pollution due to dumping of industrial wastes into the ocean and inland water sources, and onto the land; in the south, desertification; overgrazing; sparse water and lack of arable land<br>
+in the north: land degradation and desertification, with soil erosion from farming, overgrazing, and vegetation removal; water and soil pollution from industrial-waste dumping; in the south: desertification; overgrazing; sparse water<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
 
 **Environment - international agreements**<br>
@@ -273,12 +272,6 @@ _other_: 19.2% (2022 est.)<br>
 _urban population_: 65.1% of total population (2023)<br>
 _rate of urbanization_: 1.88% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
-
-**Revenue from forest resources**<br>
-0.13% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 13.44 micrograms per cubic meter (2019 est.)<br>
@@ -326,7 +319,7 @@ parliamentary constitutional monarchy<br>
 _name_: Rabat<br>
 _geographic coordinates_: 34 01 N, 6 49 W<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: name derives from the Arabic title "Ribat el-Fath," meaning "stronghold of victory," applied to the newly constructed citadel in 1170<br>
+_etymology_: derives from the Arabic name Ribat el-Fath, from the words <em>ribat </em>(fortified monastery) and <em>fath </em>(conquest); the third Almohad sultan, Abu Yusuf Yaqub al-Manṣur, gave the name to a fort on the site in the 12th century <br>
 
 **Administrative divisions**<br>
 12 regions; Beni Mellal-Khenifra, Casablanca-Settat, Dakhla-Oued Ed-Dahab, Draa-Tafilalet, Fes-Meknes, Guelmim-Oued Noun, Laayoune-Sakia El Hamra, Marrakech-Safi, Oriental, Rabat-Sale-Kenitra, Souss-Massa, Tanger-Tetouan-Al Hoceima<br>
@@ -339,7 +332,7 @@ _etymology_: name derives from the Arabic title "Ribat el-Fath," meaning "strong
 Throne Day (accession of King MOHAMMED VI to the throne), 30 July (1999)<br>
 
 **Legal system**<br>
-mixed legal system of civil law based on French civil law and Islamic (sharia) law; judicial review of legislative acts by Constitutional Court<br>
+mixed system of civil law based on French civil law and Islamic (sharia) law; Constitutional Court reviews legislative acts<br>
 
 **Constitution**<br>
 _history_: several previous; latest drafted 17 June 2011, approved by referendum 1 July 2011&nbsp;<br>
@@ -458,9 +451,9 @@ $144.417 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-6.09% (2023 est.)<br>
-6.66% (2022 est.)<br>
-1.4% (2021 est.)<br>
+1% (2024 est.)<br>
+6.1% (2023 est.)<br>
+6.7% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -496,19 +489,19 @@ automotive parts, phosphate mining and processing, aerospace, food processing, l
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-12.284 million (2023 est.)<br>
+12.475 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-9.11% (2023 est.)<br>
-9.53% (2022 est.)<br>
-10.54% (2021 est.)<br>
+8.9% (2024 est.)<br>
+9% (2023 est.)<br>
+9.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 22.6% (2023 est.)<br>
-_male_: 22.5% (2023 est.)<br>
-_female_: 23% (2023 est.)<br>
+_total_: 22.1% (2024 est.)<br>
+_male_: 22% (2024 est.)<br>
+_female_: 22.4% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
@@ -530,7 +523,7 @@ _expenditures_: $36.939 billion (2022 est.)<br>
 65.1% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-22.11% (of GDP) (2022 est.)<br>
+21% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -568,22 +561,22 @@ refined petroleum, cars, vehicle parts/accessories, natural gas, coal (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$35.269 billion (2024 est.)<br>
 $36.328 billion (2023 est.)<br>
 $32.314 billion (2022 est.)<br>
-$35.648 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$44.353 billion (2023 est.)<br>
+$42.262 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Moroccan dirhams (MAD) per US dollar -<br>
+9.942 (2024 est.)<br>
 10.131 (2023 est.)<br>
 10.161 (2022 est.)<br>
 8.988 (2021 est.)<br>
 9.497 (2020 est.)<br>
-9.617 (2019 est.)<br>
 
 ## Energy
 
@@ -646,7 +639,7 @@ _domestic_: fixed-line teledensity is 7 per 100 persons and mobile-cellular subs
 _international_: country code - 212; landing point for the Atlas Offshore, Estepona-Tetouan, Canalink&nbsp;and SEA-ME-WE-3 fiber-optic telecommunications undersea cables that provide connectivity to Asia,&nbsp;Africa,&nbsp;the Middle East, Europe and Australia; satellite earth stations - 2 Intelsat (Atlantic Ocean) and 1 Arabsat; microwave radio relay to Gibraltar, Spain, and Western Sahara (2019)<br>
 
 **Broadcast media**<br>
-2 TV broadcast networks with state-run Radio-Television Marocaine (RTM) operating one network and the state partially owning the other; foreign TV broadcasts are available via satellite dish; 3 radio broadcast networks with RTM operating one; the government-owned network includes 10 regional radio channels in addition to its national service (2019)<br>
+2 TV broadcast networks with state-run Radio-Television Marocaine (RTM) operating one network and the state partially owning the other; foreign TV is available via satellite dish; 3 radio broadcast networks, with RTM operating one; the state-owned network includes 10 regional radio channels in addition to its national service (2019)<br>
 
 **Internet country code**<br>
 .ma<br>
@@ -663,12 +656,6 @@ the University of al-Quarawiyyin Library in Fez is recognized as the oldest exis
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 3 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 76<br>
-_annual passenger traffic on registered air carriers_: 8,132,917 (2018)<br>
-_annual freight traffic on registered air carriers_: 97.71 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 CN<br>
 
@@ -678,15 +665,9 @@ CN<br>
 **Heliports**<br>
 17 (2025)<br>
 
-**Pipelines**<br>
-944 km gas, 270 km oil, 175 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 2,067 km (2014)<br>
 _standard gauge_: 2,067 km (2014) 1.435-m gauge (1,022 km electrified)<br>
-
-**Roadways**<br>
-_total_: 57,300 km (2018)<br>
 
 **Merchant marine**<br>
 _total_: 94 (2023)<br>
@@ -704,8 +685,8 @@ _key ports_: Agadir, Casablanca, Tanger, Tangier-Mediterranean<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Armed Forces (FAR): Royal Moroccan Army (includes the Moroccan Royal Guard), Royal Moroccan Navy (includes Coast Guard, marines), Royal Moroccan Air Force, Royal Moroccan Gendarmerie<br><br>Ministry of Interior: National Police (DGSN), Auxiliary Forces (2024)<br>
-<strong>note 1:</strong> the Moroccan Royal Guard is officially part of the Royal Moroccan Army, but is under the direct operational control of the Royal Military Household of His Majesty the King; it provides for the security and safety of the King and royal family; it was established in the 11th century and is considered one of the world's oldest active units still in military service<strong><br><br></strong><strong>note 2:  </strong>the National Police manage internal law enforcement in cities; the Royal Gendarmerie (Administration of National Defense) is responsible for law enforcement in rural regions and on national highways; the Gendarmerie operates mobile and fixed checkpoints along the roads in border areas and at the entrances to major municipalities; it also has a counterterrorism role; the Auxiliary Forces provide support to the Gendarmerie and National Police and includes a Mobile Intervention Corps, a motorized paramilitary security force that supplements the military and the police as needed<br>
+Royal Moroccan Armed Forces (FAR): Royal Moroccan Army (includes the Moroccan Royal Guard), Royal Moroccan Navy (includes Coast Guard, marines), Royal Moroccan Air Force, Moroccan Royal Guard, Royal Moroccan Gendarmerie<br><br>Ministry of Interior: General Directorate for National Security (DGSN; aka National Police), Auxiliary Forces (2025)<br>
+<strong>note 1:</strong> the Royal Guard is officially part of the Army, but is under the direct operational control of the Royal Military Household of His Majesty the King; it provides for the security and safety of the King and royal family; it was established in the 11th century and is considered one of the world's oldest active units still in military service<strong><br><br></strong><strong>note 2:  </strong>the DGSN manages internal law enforcement in cities; the Gendarmerie is responsible for law enforcement in rural regions and on national highways and has a counterterrorism role; the Auxiliary Forces provide support to the Gendarmerie and DGSN <br>
 
 **Military expenditures**<br>
 4% of GDP (2023 est.)<br>
@@ -715,7 +696,7 @@ Royal Armed Forces (FAR): Royal Moroccan Army (includes the Moroccan Royal Guard
 3.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 200,000 active personnel (175,000 Army; 10,000 Navy; 15,000 Air Force); estimated 20,000 Gendarmerie; estimated 5,000 Mobile Intervention Corps; estimated 25-30,000 Auxiliary Forces (2023)<br>
+estimated 220,000 active Armed Forces personnel (175,000 Army; 10,000 Navy; 15,000 Air Force, 20,000 Gendarmerie) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Moroccan military's inventory is comprised of mostly older French and US equipment, although in recent years it has embarked on a modernization program and received quantities of more modern equipment from a variety of countries, particularly France, Spain, and the US (2024)<br>

@@ -57,17 +57,15 @@ _other_: 100% (2018 est.)<br>
 Mawson Peak, an active volcano, is on Heard Island<br>
 
 **Geography - note**<br>
-Mawson Peak on Heard Island is the highest Australian mountain (at 2,745 meters, it is taller than Mt. Kosciuszko in Australia proper), and one of only two active volcanoes located in Australian territory, the other being McDonald Island; in 1992, McDonald Island broke its dormancy and began erupting; it has erupted several times since, most recently in 2005<br>
+Mawson Peak on Heard Island is the highest Australian mountain; at 2,745 m (9,006 ft), Mawson is taller than Mt. Kosciuszko in mainland Australia), and one of only two active volcanoes located in Australian territory; in 1992, McDonald Island, the other active volcano, broke its dormancy and began erupting; it has erupted several times since<br>
 
 ## People and Society
 
 **Population**<br>
 _total_: uninhabited<br>
+<strong>note: </strong>limited scientific research and expeditions<br>
 
 ## Environment
-
-**Environment - current issues**<br>
-none; uninhabited and mostly ice covered<br>
 
 **Climate**<br>
 antarctic<br>
@@ -85,10 +83,10 @@ _abbreviation_: HIMI<br>
 _etymology_: named after US Captain John HEARD, who sighted the island on 25 November 1853, and US Captain William McDONALD, who discovered the islands on 4 January 1854<br>
 
 **Dependency status**<br>
-territory of Australia; administered from Canberra by the Department of Agriculture, Water and the Environment (Australian Antarctic Division)<br>
+territory of Australia; administered from Canberra by the Department of Agriculture, Water, and the Environment (Australian Antarctic Division)<br>
 
 **Legal system**<br>
-the laws of Australia apply where applicable<br>
+the laws of Australia apply&nbsp;<br>
 
 **Diplomatic representation in the US**<br>
 none (territory of Australia)<br>

@@ -77,7 +77,7 @@ urbanization is not particularly high, and a fairly even population distribution
 earthquakes, most severe in south and southwest; geologic structure and climate promote landslides<br>
 
 **Geography - note**<br>
-controls the most easily traversable land route between the Balkans, Moldova, and Ukraine; the Carpathian Mountains dominate the center of the country, while the Danube River forms much of the southern boundary with Serbia and Bulgaria<br>
+controls the most easily traversable land route between the Balkans, Moldova, and Ukraine; the Carpathian Mountains dominate the center of the country, and the Danube River forms much of the southern boundary with Serbia and Bulgaria<br>
 
 ## People and Society
 
@@ -109,10 +109,10 @@ _15-64 years_: 62% (male 5,618,366/female 5,632,718)<br>
 _65 years and over_: 22.6% (2024 est.) (male 1,688,070/female 2,405,338)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.7<br>
-_youth dependency ratio_: 24.6<br>
-_elderly dependency ratio_: 29.1<br>
-_potential support ratio_: 3.4 (2021 est.)<br>
+_total dependency ratio_: 61.3 (2024 est.)<br>
+_youth dependency ratio_: 24.9 (2024 est.)<br>
+_elderly dependency ratio_: 36.4 (2024 est.)<br>
+_potential support ratio_: 2.7 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 45.5 years (2024 est.)<br>
@@ -257,12 +257,6 @@ _other_: 14.8% (2022 est.)<br>
 _urban population_: 54.7% of total population (2023)<br>
 _rate of urbanization_: -0.15% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-0.16% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.03% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 13.3 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 69.26 megatons (2016 est.)<br>
@@ -309,7 +303,7 @@ _name_: Bucharest<br>
 _geographic coordinates_: 44 26 N, 26 06 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: related to the Romanian word "bucura" that is believed to be of Dacian origin and whose meaning is "to be glad (happy)"; Bucharest's meaning is thus akin to "city of joy"<br>
+_etymology_: the name is said to come from a shepherd named Bucur who is reputed to have founded the town in 1457, but a settlement probably already existed on the site; the name may come from the personal name of an early landowner<br>
 
 **Administrative divisions**<br>
 41 counties (judete, singular - judet) and 1 municipality* (municipiu); Alba, Arad, Arges, Bacau, Bihor, Bistrita-Nasaud, Botosani, Braila, Brasov, Bucuresti (Bucharest)*, Buzau, Calarasi, Caras-Severin, Cluj, Constanta, Covasna, Dambovita, Dolj, Galati, Gorj, Giurgiu, Harghita, Hunedoara, Ialomita, Iasi, Ilfov, Maramures, Mehedinti, Mures, Neamt, Olt, Prahova, Salaj, Satu Mare, Sibiu, Suceava, Teleorman, Timis, Tulcea, Vaslui, Valcea, Vrancea<br>
@@ -341,7 +335,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: Interim President Ilie BOLOJAN (since 12 February 2025)<br>
-_head of government_: Prime Minister Marcel CIOLACU (since 15 June 2023)<br>
+_head of government_: Interim Prime Minister Catalin PREDOIU (since 6 May 2025)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held in November 2024, but results were annulled, with new election expected in May 2025; prime minister appointed by the president with consent of Parliament<br>
 _election results_: <em><br>2019: </em>Klaus IOHANNIS reelected president in second round; percent of vote - Klaus IOHANNIS (PNL) 66.1%, Viorica DANCILA (PSD) 33.9%<br><br><em>2014:</em> Klaus IOHANNIS elected president in second round; percent of vote - Klaus IOHANNIS (PNL) 54.4%, Victor PONTA (PSD) 45.6%<br>
@@ -444,9 +438,9 @@ $350.776 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+-4.5% (2024 est.)<br>
 10.4% (2023 est.)<br>
 13.8% (2022 est.)<br>
-5.05% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -482,19 +476,19 @@ electric machinery and equipment, auto assembly, textiles and footwear, light ma
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.28 million (2023 est.)<br>
+8.215 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+5.4% (2024 est.)<br>
 5.6% (2023 est.)<br>
-5.61% (2022 est.)<br>
-5.59% (2021 est.)<br>
+5.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21.3% (2023 est.)<br>
-_male_: 21.2% (2023 est.)<br>
-_female_: 21.4% (2023 est.)<br>
+_total_: 21.3% (2024 est.)<br>
+_male_: 21.1% (2024 est.)<br>
+_female_: 21.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -526,23 +520,23 @@ _expenditures_: $110.163 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-50.88% of GDP (2022 est.)<br>
+50.9% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-16.16% (of GDP) (2022 est.)<br>
+16.2% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
 -$24.461 billion (2023 est.)<br>
 -$27.326 billion (2022 est.)<br>
--$20.627 billion (2021 est.)<br>
+-$20.566 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $136.488 billion (2023 est.)<br>
 $129.286 billion (2022 est.)<br>
-$115.879 billion (2021 est.)<br>
+$115.874 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -556,7 +550,7 @@ cars, vehicle parts/accessories, insulated wire, garments, wheat (2023)<br>
 **Imports**<br>
 $153.427 billion (2023 est.)<br>
 $149.209 billion (2022 est.)<br>
-$132.056 billion (2021 est.)<br>
+$132.042 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -568,18 +562,18 @@ vehicle parts/accessories, packaged medicine, cars, crude petroleum, plastic pro
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$64.699 billion (2024 est.)<br>
 $73 billion (2023 est.)<br>
 $55.81 billion (2022 est.)<br>
-$51.886 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: lei (RON) per US dollar -<br>
+4.598 (2024 est.)<br>
 4.574 (2023 est.)<br>
 4.688 (2022 est.)<br>
 4.16 (2021 est.)<br>
 4.244 (2020 est.)<br>
-4.238 (2019 est.)<br>
 
 ## Energy
 
@@ -650,7 +644,7 @@ _domestic_: fixed-line teledensity is 13 telephones per 100 persons; mobile-cell
 _international_: country code - 40; landing point for the Diamond Link Global submarine cable linking Romania with Georgia; satellite earth stations - 10; digital, international, direct-dial exchanges operate in Bucharest (2019)<br>
 
 **Broadcast media**<br>
-a mixture of public and private TV stations; there are 7 public TV stations (2 national, 5 regional) using terrestrial broadcasting and 187 private TV stations (out of which 171 offer local coverage) using terrestrial broadcasting, plus 11 public TV stations using satellite broadcasting and 86 private TV stations using satellite broadcasting; state-owned public radio broadcaster operates 4 national networks and regional and local stations, having in total 20 public radio stations by terrestrial broadcasting plus 4 public radio stations by satellite broadcasting; there are 502 operational private radio stations using terrestrial broadcasting and 26 private radio stations using satellite broadcasting<br>
+a mixture of public and private TV stations; 7 public (2 national, 5 regional) and 187 private TV stations using terrestrial broadcasting, plus 11 public and 86 private TV stations using satellite broadcasting; state-owned public radio broadcaster operates 4 national networks, as well as regional and local stations; 502 private radio stations using terrestrial broadcasting, and 26 using satellite broadcasting<br>
 
 **Internet country code**<br>
 .ro<br>
@@ -664,12 +658,6 @@ _subscriptions per 100 inhabitants_: 35 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 8 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 60<br>
-_annual passenger traffic on registered air carriers_: 4,908,235 (2018)<br>
-_annual freight traffic on registered air carriers_: 2.71 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 YR<br>
 
@@ -679,17 +667,8 @@ YR<br>
 **Heliports**<br>
 24 (2025)<br>
 
-**Pipelines**<br>
-3,726 km gas, 2,451 km oil (2013)<br>
-
 **Railways**<br>
 _total_: 10,628 km (2020) 4,030 km electrified<br>
-
-**Roadways**<br>
-_total_: 85,387 km (2022)<br>
-
-**Waterways**<br>
-1,731 km (2010) (includes 1,075 km on the Danube River, 524 km on secondary branches, and 132 km on canals)<br>
 
 **Merchant marine**<br>
 _total_: 127 (2023)<br>
@@ -707,7 +686,7 @@ _key ports_: Basarabi, Braila, Cernavoda, Constanta, Danube-Black Sea Canal, Gal
 ## Military and Security
 
 **Military and security forces**<br>
-Romanian Armed Forces (Forțele Armate Române or Armata Română): Land Forces, Naval Forces, Air Force<br><br>Ministry of Internal Affairs: General Inspectorate of the Romanian Police, the Romanian Gendarmerie (Jandarmeria Română), the Romanian Border Police, the General Directorate for Internal Protection, and the Directorate General for Anticorruption (2024)<br>
+Romanian Armed Forces (Forțele Armate Române or Armata Română): Romanian Land Forces, Romanian Naval Forces, Romanian Air Force<br><br>Ministry of Internal Affairs: Romanian Police, Romanian Gendarmerie, Romanian Border Police (2025)<br>
 
 **Military expenditures**<br>
 2.3% of GDP (2024 est.)<br>

@@ -78,7 +78,7 @@ population density is highest south of Lake Nyasa as shown in this population di
 flooding; droughts; earthquakes<br>
 
 **Geography - note**<br>
-landlocked; Lake Nyasa, some 580 km long, is the country's most prominent physical feature; it contains more fish species than any other lake on earth<br>
+landlocked; Lake Nyasa, about 580 km (360 mi) long, is the country's most prominent physical feature; it contains more fish species than any other lake on earth<br>
 
 ## People and Society
 
@@ -107,10 +107,10 @@ _15-64 years_: 58.4% (male 6,217,761/female 6,487,273)<br>
 _65 years and over_: 3.9% (2024 est.) (male 376,266/female 468,732)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 84.7<br>
-_youth dependency ratio_: 79.7<br>
-_elderly dependency ratio_: 5<br>
-_potential support ratio_: 20.1 (2021 est.)<br>
+_total dependency ratio_: 71.3 (2024 est.)<br>
+_youth dependency ratio_: 64.6 (2024 est.)<br>
+_elderly dependency ratio_: 6.7 (2024 est.)<br>
+_potential support ratio_: 15 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 20.3 years (2024 est.)<br>
@@ -240,7 +240,7 @@ _female_: 11 years (2011)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation; land degradation; water pollution from agricultural runoff, sewage, industrial wastes; siltation of spawning grounds endangers fish populations; negative effects of climate change (extreme high temperatures, changing precipitation patterns)<br>
+deforestation; land degradation; water pollution from agricultural runoff, sewage, industrial wastes; siltation of fish spawning grounds; high temperatures and changing precipitation patterns<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -263,12 +263,6 @@ _rate of urbanization_: 4.41% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: <em><em>due to </em>weather extremes and high food prices - </em>the latest analysis indicates that about 3.8 million people (20 percent of the population) are estimated to have faced high levels of acute food insecurity between January and March 2023; this figure is more than double the number in the corresponding months of 2022; high food prices are the key reason for the deterioration in food insecurity, which, in the absence of a substantial increase in incomes, are severely constraining households’ economic access to food; production shortfalls in southern districts in 2022, areas that have the highest prevalence of food insecurity, are a further contributing factor; the impact of Cyclone Freddy (February-March 2023) on southern districts, including crop losses and destruction of infrastructure as well as high food prices, are expected to aggravate food insecurity conditions in 2023 (2023)<br>
-
-**Revenue from forest resources**<br>
-6.19% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.03% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 18.57 micrograms per cubic meter (2019 est.)<br>
@@ -313,7 +307,7 @@ presidential republic<br>
 _name_: Lilongwe<br>
 _geographic coordinates_: 13 58 S, 33 47 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named after the Lilongwe River that flows through the city<br>
+_etymology_: named after the Lilongwe River that flows through the city; the origin of the river's name is unclear<br>
 
 **Administrative divisions**<br>
 28 districts; Balaka, Blantyre, Chikwawa, Chiradzulu, Chitipa, Dedza, Dowa, Karonga, Kasungu, Likoma, Lilongwe, Machinga, Mangochi, Mchinji, Mulanje, Mwanza, Mzimba, Neno, Ntcheu, Nkhata Bay, Nkhotakota, Nsanje, Ntchisi, Phalombe, Rumphi, Salima, Thyolo, Zomba<br>
@@ -325,7 +319,7 @@ _etymology_: named after the Lilongwe River that flows through the city<br>
 Independence Day, 6 July (1964); note - also called Republic Day since 6 July 1966<br>
 
 **Legal system**<br>
-mixed legal system of English common law and customary law; judicial review of legislative acts in the Supreme Court of Appeal<br>
+mixed system of English common law and customary law; Supreme Court of Appeal reviews legislative acts<br>
 
 **Constitution**<br>
 _history_: previous 1953 (pre-independence), 1964, 1966; latest drafted January to May 1994, approved 16 May 1994, entered into force 18 May 1995<br>
@@ -430,9 +424,9 @@ $12.712 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-28.79% (2023 est.)<br>
-20.95% (2022 est.)<br>
-9.33% (2021 est.)<br>
+32.2% (2024 est.)<br>
+28.8% (2023 est.)<br>
+21% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -460,19 +454,19 @@ tobacco, tea, sugar, sawmill products, cement, consumer goods<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.541 million (2023 est.)<br>
+8.602 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.04% (2023 est.)<br>
-5.05% (2022 est.)<br>
-5.59% (2021 est.)<br>
+5% (2024 est.)<br>
+5% (2023 est.)<br>
+5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 6.8% (2023 est.)<br>
-_male_: 6.4% (2023 est.)<br>
-_female_: 7.2% (2023 est.)<br>
+_total_: 6.8% (2024 est.)<br>
+_male_: 6.4% (2024 est.)<br>
+_female_: 7.1% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -548,7 +542,7 @@ $766.155 million (2018 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$2.551 billion (2023 est.)<br>
+$2.269 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -611,7 +605,7 @@ _domestic_: limited fixed-line subscribership less than 1 per 100 households; mo
 _international_: country code - 265; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-radio is the main broadcast medium; privately owned Zodiak radio has the widest national broadcasting reach, followed by state-run radio; numerous private and community radio stations broadcast in cities and towns around the country; the largest TV network is government-owned, but at least 4 private TV networks broadcast in urban areas; relays of multiple international broadcasters are available (2019)<br>
+radio is the main broadcast medium; privately owned Zodiak radio has the widest national reach, followed by state-run radio; numerous private and community radio stations broadcast in cities and towns; the largest TV network is state-owned, but at least 4 private TV networks broadcast in urban areas; relays of multiple international broadcasters are available (2019)<br>
 
 **Internet country code**<br>
 .mw<br>
@@ -625,12 +619,6 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 9<br>
-_annual passenger traffic on registered air carriers_: 10,545 (2018)<br>
-_annual freight traffic on registered air carriers_: 10,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 7Q<br>
 
@@ -641,18 +629,10 @@ _annual freight traffic on registered air carriers_: 10,000 (2018) mt-km<br>
 _total_: 767 km (2014)<br>
 _narrow gauge_: 767 km (2014) 1.067-m gauge<br>
 
-**Roadways**<br>
-_total_: 15,451 km<br>
-_paved_: 4,038 km<br>
-_unpaved_: 11,413 km (2022)<br>
-
-**Waterways**<br>
-700 km (2010) (on Lake Nyasa [Lake Malawi] and Shire River)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>
-Malawi Defense Force (MDF): Land Forces (Army), Maritime Force, Air Force, National Service (reserve force)<br><br>Ministry of Homeland Security: Malawi Police Service (2024)<br>
+Malawi Defense Force (MDF): Malawi Army (Land Forces), Malawi Maritime Force (MMF), Malawi Air Force (MAF), Malawi National Service (MNS)<br><br>Ministry of Homeland Security: Malawi Police Service (2025)<br>
 <strong>note:</strong> the MDF reports directly to the president as commander in chief<br>
 
 **Military expenditures**<br>
@@ -663,7 +643,7 @@ Malawi Defense Force (MDF): Land Forces (Army), Maritime Force, Air Force, Natio
 1.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 10,000 active military personnel (2023)<br>
+estimated 10,000 active military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the MDF's inventory is a mix of mostly older or secondhand equipment originating from such countries as France, South Africa, and the UK&nbsp; (2024)<br>
@@ -672,7 +652,7 @@ the MDF's inventory is a mix of mostly older or secondhand equipment originating
 18-30years of age for men and women for voluntary military service; high school equivalent required for enlisted recruits and college equivalent for officer recruits; initial engagement is 7 years for enlisted personnel and 10 years for officers (2023)<br>
 
 **Military deployments**<br>
-740 Democratic Republic of the Congo (MONUSCO; note - as of early 2024, MONUSCO forces were drawing down towards a complete withdrawal by the end of 2024) (2024)<br>
+750 Democratic Republic of the Congo (MONUSCO) (2025)<br>
 
 **Military - note**<br>
 the MDF’s primary responsibility is external security; it is also tasked as necessary with providing support to civilian authorities during emergencies, supporting the Police Service, protecting national forest reserves, and participating in regional peacekeeping missions, as well as assisting with infrastructure development; it is generally considered to be a professional and effective service, although most of its equipment is aging and obsolescent; Malawi contributes regularly to African Union and UN peace support operations<br><br>the MDF was established in 1964 from elements of the Kings African Rifles (KAR), a British colonial regiment raised from Great Britain's various possessions in East Africa from 1902 until independence in the 1960s; the KAR conducted both military and internal security functions within the colonial territories, and served outside the territories during the World Wars (2023)<br>

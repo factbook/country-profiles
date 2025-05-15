@@ -80,7 +80,7 @@ one of the highest levels of urbanization in Africa; high density in the central
 periodic drought; tropical storms (November to April)<br>
 
 **Geography - note**<br>
-landlocked; the Zambezi forms a natural riverine boundary with Zimbabwe; Lake Kariba on the Zambia-Zimbabwe border forms the world's largest reservoir by volume (180 cu km; 43 cu mi)<br>
+landlocked; the Zambezi forms a natural river boundary with Zimbabwe; Lake Kariba on the Zambia-Zimbabwe border forms the world's largest reservoir by volume (180 cu km; 43 cu mi)<br>
 
 ## People and Society
 
@@ -109,10 +109,10 @@ _15-64 years_: 55.1% (male 5,726,265/female 5,736,732)<br>
 _65 years and over_: 2.8% (2024 est.) (male 262,008/female 317,944)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 81.8<br>
-_youth dependency ratio_: 78.7<br>
-_elderly dependency ratio_: 3.2<br>
-_potential support ratio_: 31.6 (2021 est.)<br>
+_total dependency ratio_: 81.4 (2024 est.)<br>
+_youth dependency ratio_: 76.4 (2024 est.)<br>
+_elderly dependency ratio_: 5.1 (2024 est.)<br>
+_potential support ratio_: 19.8 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 18.4 years (2024 est.)<br>
@@ -237,7 +237,7 @@ _female_: 83.1% (2018)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution and resulting acid rain in the mineral extraction and refining region; chemical runoff into watersheds; loss of biodiversity; poaching seriously threatens rhinoceros, elephant, antelope, and large cat populations; deforestation; soil erosion; desertification; lack of adequate water treatment presents human health risks<br>
+air pollution and acid rain in the mineral extraction and refining region; chemical runoff into watersheds; loss of biodiversity; poaching; deforestation; soil erosion; desertification; lack of adequate water treatment<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
@@ -260,12 +260,6 @@ _rate of urbanization_: 4.15% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to reduced incomes and localized shortfalls in cereal production -</em>an estimated 1.95 million people were projected to face acute food insecurity between October 2022 and March 2023, an increase compared to the 1.6 million people estimated in 2021/22; the high level of acute food insecurity is associated with the effects of a below-average cereal harvest and high food prices that adversely impacted households’ food availability and access (2023)<br>
-
-**Revenue from forest resources**<br>
-4.45% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.04% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 16.9 micrograms per cubic meter (2019 est.)<br>
@@ -301,7 +295,7 @@ _agricultural_: 1.15 billion cubic meters (2020 est.)<br>
 _conventional long form_: Republic of Zambia<br>
 _conventional short form_: Zambia<br>
 _former_: Northern Rhodesia<br>
-_etymology_: name derived from the Zambezi River, which flows through the western part of the country and forms its southern border with neighboring Zimbabwe<br>
+_etymology_: name is derived from the Zambezi River, which flows through the western part of the country and forms the southern border with Zimbabwe<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -310,7 +304,7 @@ presidential republic<br>
 _name_: Lusaka<br>
 _geographic coordinates_: 15 25 S, 28 17 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named after a village called Lusaka, located at Manda Hill, near where Zambia's National Assembly building currently stands; the village was named after a headman (chief) LUSAKASA<br>
+_etymology_: named after a village with a headman (chief) called LUSAAKAS<br>
 
 **Administrative divisions**<br>
 10 provinces; Central, Copperbelt, Eastern, Luapula, Lusaka, Muchinga, Northern, North-Western, Southern, Western<br>
@@ -322,7 +316,7 @@ _etymology_: named after a village called Lusaka, located at Manda Hill, near wh
 Independence Day, 24 October (1964)<br>
 
 **Legal system**<br>
-mixed legal system of English common law and customary law<br>
+mixed system of English common law and customary law<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 24 August 1991, promulgated 30 August 1991<br>
@@ -428,9 +422,9 @@ $27.578 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-10.88% (2023 est.)<br>
-10.99% (2022 est.)<br>
-22.02% (2021 est.)<br>
+10.9% (2023 est.)<br>
+11% (2022 est.)<br>
+22% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -466,19 +460,19 @@ copper mining and processing, emerald mining, construction, foodstuffs, beverage
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-7.165 million (2023 est.)<br>
+7.407 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.91% (2023 est.)<br>
-5.99% (2022 est.)<br>
-5.2% (2021 est.)<br>
+6% (2024 est.)<br>
+5.9% (2023 est.)<br>
+6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.8% (2023 est.)<br>
-_male_: 9.7% (2023 est.)<br>
-_female_: 9.8% (2023 est.)<br>
+_total_: 9.9% (2024 est.)<br>
+_male_: 10.1% (2024 est.)<br>
+_female_: 9.6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -506,11 +500,11 @@ _expenditures_: $5.554 billion (2021 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-71.41% of GDP (2021 est.)<br>
+71.4% of GDP (2021 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-16.78% (of GDP) (2021 est.)<br>
+16.8% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -548,21 +542,22 @@ refined petroleum, fertilizers, trucks, sulphur, tractors (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$3.173 billion (2023 est.)<br>
 $2.968 billion (2022 est.)<br>
 $2.754 billion (2021 est.)<br>
-$1.203 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$17.613 billion (2023 est.)<br>
+$16.597 billion (2023 est.)<br>
+<strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Zambian kwacha (ZMK) per US dollar -<br>
+26.166 (2024 est.)<br>
 20.212 (2023 est.)<br>
 16.938 (2022 est.)<br>
 20.018 (2021 est.)<br>
 18.344 (2020 est.)<br>
-12.89 (2019 est.)<br>
 
 ## Energy
 
@@ -618,7 +613,7 @@ _domestic_: fixed-line teledensity less than 1 per 100 and mobile-cellular is 10
 _international_: country code - 260; multiple providers operate overland fiber optic routes via Zimbabwe/South Africa, Botswana/Namibia and Tanzania provide access to the major undersea cables<br>
 
 **Broadcast media**<br>
-<p>according to the Independent Broadcast Authority, there are 137 radio stations and 47 television stations in Zambia; out of the 137 radio stations, 133 are private (categorized as either commercial or community radio stations), while 4 are public-owned; state-owned Zambia National Broadcasting Corporation (ZNBC) operates 2 television channels and 3 radio stations; ZNBC owns 75% shares in GoTV, 40% in MultiChoice, and 40% in TopStar Communications Company, all of which operate in-country</p> (2019)<br>
+<p>47 state-controlled and private TV stations; state-owned Zambia National Broadcasting Corporation (ZNBC) has 2 TV channels, controls 1, and owns shares in 2 more; 137 radio stations, with 133 private and 4 state-owned</p> (2019)<br>
 
 **Internet country code**<br>
 .zm<br>
@@ -632,12 +627,6 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 3 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 6<br>
-_annual passenger traffic on registered air carriers_: 8,904 (2018)<br>
-_annual freight traffic on registered air carriers_: 75.08 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 9J<br>
 
@@ -647,21 +636,10 @@ _annual freight traffic on registered air carriers_: 75.08 million (2018) mt-km<
 **Heliports**<br>
 4 (2025)<br>
 
-**Pipelines**<br>
-771 km oil (2013)<br>
-
 **Railways**<br>
 _total_: 3,126 km (2014)<br>
 _narrow gauge_: 3,126 km (2014) 1.067-m gauge<br>
 <strong>note:</strong> includes 1,860 km of the Tanzania-Zambia Railway Authority (TAZARA)<br>
-
-**Roadways**<br>
-_total_: 67,671 km<br>
-_paved_: 10,150 km<br>
-_unpaved_: 57,520 km (2021)<br>
-
-**Waterways**<br>
-2,250 km (2010) (includes Lake Tanganyika and the Zambezi and Luapula Rivers)<br>
 
 **Merchant marine**<br>
 _total_: 2 (2023)<br>
@@ -670,8 +648,8 @@ _by type_: general cargo 1, oil tanker 1<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Service; Defense Force Medical Service<br><br>Ministry of Home Affairs and Internal Security: Zambia Police (includes a paramilitary battalion) (2024)<br>
-<strong>note 1:</strong> the Zambia National Service is a support organization that also does public work projects; its main objectives revolve around land development, agriculture, industries, youth skills training as well as arts, sports and culture  <br><br><strong>note 2:</strong> the Zambia Army comprises the Regular Force, the Home Guard, and the Territorial reserve<br>
+Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Service<br><br>Ministry of Home Affairs and Internal Security: Zambia Police (2025)<br>
+<strong>note 1:</strong> the Zambia National Service is a support organization that also does public work projects; its main objectives revolve around land development, agriculture, industries, youth skills training as well as arts, sports and culture; the ZDF also includes a Defense Force Medical Service<br><br><strong>note 2:</strong> the Zambia Army comprises the Regular Force, the Home Guard, and the Territorial Reserve<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2023 est.)<br>
@@ -681,7 +659,7 @@ Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Servi
 1.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 17,000 active troops (15,000 Army; 2,000 Air) (2024)<br>
+approximately 16,000 active Defense Force personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era weapons and equipment along with smaller quantities of items--particularly aircraft--from such suppliers as Israel and the US (2024)<br>

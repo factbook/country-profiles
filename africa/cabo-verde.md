@@ -69,7 +69,7 @@ among the nine inhabited islands, population distribution is variable; islands i
 <p>prolonged droughts; seasonal harmattan wind produces obscuring dust; volcanically and seismically active</p><p><strong>volcanism:</strong> Fogo (2,829 m), which last erupted in 1995, is Cabo Verde's only active volcano</p><br>
 
 **Geography - note**<br>
-strategic location 500 km from west coast of Africa near major north-south sea routes; important communications station; important sea and air refueling site; one of four North Atlantic archipelagos that make up Macaronesia; the others are Azores (Portugal), Canary Islands (Spain), and Madeira (Portugal)<br>
+strategic location 500 km from west coast of Africa near major north-south sea routes; one of four North Atlantic archipelagos that make up Macaronesia; the others are Azores (Portugal), Canary Islands (Spain), and Madeira (Portugal)<br>
 
 ## People and Society
 
@@ -97,10 +97,10 @@ _15-64 years_: 67.2% (male 201,084/female 209,676)<br>
 _65 years and over_: 6.4% (2024 est.) (male 15,049/female 24,103)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 47.2<br>
-_youth dependency ratio_: 39.2<br>
-_elderly dependency ratio_: 8<br>
-_potential support ratio_: 12.5 (2021 est.)<br>
+_total dependency ratio_: 48.8 (2024 est.)<br>
+_youth dependency ratio_: 39.2 (2024 est.)<br>
+_elderly dependency ratio_: 9.5 (2024 est.)<br>
+_potential support ratio_: 10.5 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 28.8 years (2024 est.)<br>
@@ -221,7 +221,7 @@ _female_: 13 years (2018)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation due to demand for firewood; water shortages; prolonged droughts and improper use of land (overgrazing, crop cultivation on hillsides lead to desertification and erosion); environmental damage has threatened several species of birds and reptiles; illegal beach sand extraction; overfishing<br>
+deforestation due to demand for firewood; water shortages; droughts;&nbsp; desertification; soil erosion; illegal beach sand extraction; overfishing<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -241,12 +241,6 @@ _other_: 68.9% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 68% of total population (2023)<br>
 _rate of urbanization_: 1.83% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.38% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 31.08 micrograms per cubic meter (2019 est.)<br>
@@ -280,7 +274,7 @@ parliamentary republic<br>
 _name_: Praia<br>
 _geographic coordinates_: 14 55 N, 23 31 W<br>
 _time difference_: UTC-1 (4 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the earlier Portuguese name was Villa de Praia ("Village of the Beach"); it became just Praia in 1974 (prior to full independence in 1975)<br>
+_etymology_: the earlier Portuguese name was Villa de Praia ("Village of the Beach"); it was shortened to Praia in 1974&nbsp;<br>
 
 **Administrative divisions**<br>
 22 municipalities (concelhos, singular - concelho); Boa Vista, Brava, Maio, Mosteiros, Paul, Porto Novo, Praia, Ribeira Brava, Ribeira Grande, Ribeira Grande de Santiago, Sal, Santa Catarina, Santa Catarina do Fogo, Santa Cruz, S&atilde;o Domingos, S&atilde;o Filipe, S&atilde;o Lourenco dos Orgaos, S&atilde;o Miguel, S&atilde;o Salvador do Mundo, S&atilde;o Vicente, Tarrafal, Tarrafal de S&atilde;o Nicolau<br>
@@ -399,9 +393,9 @@ $2.534 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-3.72% (2023 est.)<br>
-7.93% (2022 est.)<br>
-1.86% (2021 est.)<br>
+3.7% (2023 est.)<br>
+7.9% (2022 est.)<br>
+1.9% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -436,19 +430,19 @@ food and beverages, fish processing, shoes and garments, salt mining, ship repai
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-223,000 (2023 est.)<br>
+224,500 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-11.99% (2023 est.)<br>
-12.27% (2022 est.)<br>
-13.91% (2021 est.)<br>
+11.9% (2024 est.)<br>
+12% (2023 est.)<br>
+12.2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 28.7% (2023 est.)<br>
-_male_: 24.9% (2023 est.)<br>
-_female_: 34.1% (2023 est.)<br>
+_total_: 28.2% (2024 est.)<br>
+_male_: 24.6% (2024 est.)<br>
+_female_: 33.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -479,19 +473,19 @@ _expenditures_: $503.059 million (2017 est.)<br>
 125.8% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-18.39% (of GDP) (2020 est.)<br>
+18.4% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$65.469 million (2023 est.)<br>
--$78.247 million (2022 est.)<br>
--$250.632 million (2021 est.)<br>
+$101.072 million (2024 est.)<br>
+-$64.439 million (2023 est.)<br>
+-$78.271 million (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$971.679 million (2023 est.)<br>
+$1.158 billion (2024 est.)<br>
+$972.636 million (2023 est.)<br>
 $851.907 million (2022 est.)<br>
-$465.348 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -503,9 +497,9 @@ fish, refined petroleum, railway cargo containers, shellfish, garments (2023)<br
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$1.473 billion (2024 est.)<br>
 $1.428 billion (2023 est.)<br>
 $1.31 billion (2022 est.)<br>
-$1.117 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -517,22 +511,22 @@ refined petroleum, aircraft, cars, fish, railway cargo containers (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$783.106 million (2024 est.)<br>
 $837.881 million (2023 est.)<br>
 $729.566 million (2022 est.)<br>
-$769.65 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$1.55 billion (2023 est.)<br>
+$1.385 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Cabo Verdean escudos (CVE) per US dollar -<br>
+101.922 (2024 est.)<br>
 101.805 (2023 est.)<br>
 104.863 (2022 est.)<br>
 93.218 (2021 est.)<br>
 96.796 (2020 est.)<br>
-98.495 (2019 est.)<br>
 
 ## Energy
 
@@ -577,7 +571,7 @@ _domestic_: 9 per 100 fixed-line teledensity and nearly 100 per 100 mobile-cellu
 _international_: country code - 238; landing points for the Atlantis-2, EllaLink, Cabo&nbsp;Verde Telecom Domestic Submarine Cable Phase 1,&nbsp;2, 3 and WACS fiber-optic transatlantic telephone cable that provides links to South America, Africa, and Europe; HF radiotelephone to Senegal and Guinea-Bissau; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-state-run TV and radio broadcast network plus a growing number of private broadcasters; Portuguese public TV and radio services for Africa are available; transmissions of a few international broadcasters are available (2019)<br>
+state-run TV and radio network, plus a growing number of private broadcasters; Portuguese public TV and radio services for Africa are available; transmissions of a few international broadcasters are available (2019)<br>
 
 **Internet country code**<br>
 .cv<br>
@@ -591,22 +585,11 @@ _subscriptions per 100 inhabitants_: 7 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 5<br>
-_annual passenger traffic on registered air carriers_: 140,429 (2018)<br>
-_annual freight traffic on registered air carriers_: 1,728,152 (2015) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 D4<br>
 
 **Airports**<br>
 10 (2025)<br>
-
-**Roadways**<br>
-_total_: 1,350 km<br>
-_paved_: 932 km<br>
-_unpaved_: 418 km (2013)<br>
 
 **Merchant marine**<br>
 _total_: 44 (2023)<br>
@@ -635,7 +618,7 @@ Cabo Verdean Armed Forces (FACV): National Guard (GN), Cabo Verde Coast Guard (G
 0.5% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the military has approximately 1,000 personnel (2023)<br>
+the FACV has approximately 1,000-1,500 active personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FACV has a limited amount of mostly dated or second-hand equipment, largely from China, some European countries, and the former Soviet Union (2024)<br>

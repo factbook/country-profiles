@@ -84,7 +84,7 @@ most of the population is found in the middle of the country between the states 
 <p>tsunamis along the Pacific coast, volcanoes and destructive earthquakes in the center and south, and hurricanes on the Pacific, Gulf of America, and Caribbean coasts</p> <p><strong>volcanism:</strong> volcanic activity in the central-southern part of the country; the volcanoes in Baja California are mostly dormant; Colima (3,850 m), which erupted in 2010, is Mexico's most active volcano and is responsible for causing periodic evacuations of nearby villagers; it has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Popocatepetl (5,426 m) poses a threat to Mexico City; other historically active volcanoes include Barcena, Ceboruco, El Chichon, Michoacan-Guanajuato, Pico de Orizaba, San Martin, Socorro, and Tacana; see note 2 under "Geography - note"</p><br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> strategic location on southern border of the US; Mexico is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 2:</strong> some of the world's most important food crops were first domesticated in Mexico; the "Three Sisters" companion plants -- winter squash, maize (corn), and climbing beans -- served as the main agricultural crops for various North American Indian groups; all three apparently originated in Mexico but then were widely disseminated through much of North America; avocado, amaranth, and chili peppers also emanate from Mexico, as does vanilla, the world's most popular aroma and flavor spice; although cherry tomatoes originated in Ecuador, their domestication in Mexico transformed them into the larger modern tomato<br><br><strong>note 3: </strong>the Sac Actun cave system at 348 km (216 mi) is the longest underwater cave in the world and the second longest cave worldwide, after Mammoth Cave in the United States (see "Geography - note" under United States)<br><br><strong>note 4:</strong> the prominent Yucatán Peninsula that divides the Gulf of America from the Caribbean Sea is shared by Mexico, Guatemala, and Belize; just on the northern coast of Yucatan, near the town of Chicxulub (pronounce cheek-sha-loob), lie the remnants of a massive crater (some 150 km in diameter and extending well out into the Gulf of America); formed by an asteroid or comet when it struck the earth 66 million years ago, the impact is now widely accepted as initiating a worldwide climate disruption that caused a mass extinction of 75% of all the earth's plant and animal species -- including the non-avian dinosaurs</p><br>
+<p><strong>note 1:</strong> strategic location on southern border of the US; Mexico is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire<br><br><strong>note 2: </strong>the Sac Actun cave system at 348 km (216 mi) is the longest underwater cave in the world and the second longest cave worldwide, after Mammoth Cave in the United States (see "Geography - note" under United States)<br><br><strong>note 3:</strong> the prominent Yucatán Peninsula that divides the Gulf of America from the Caribbean Sea is shared by Mexico, Guatemala, and Belize; on the northern coast of Yucatan near the town of Chicxulub lie the remnants of a massive asteroid or comet crater about 150 km (93 mi) in diameter and extending into the Gulf of America; the impact is believed to have initiated a worldwide climate disruption that caused a mass extinction of 75% of the earth's plant and animal species, including the non-avian dinosaurs</p><br>
 
 ## People and Society
 
@@ -114,10 +114,10 @@ _15-64 years_: 68.6% (male 43,651,105/female 45,983,174)<br>
 _65 years and over_: 8.2% (2024 est.) (male 4,600,228/female 6,103,611)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 49.4<br>
-_youth dependency ratio_: 37.3<br>
-_elderly dependency ratio_: 12.2<br>
-_potential support ratio_: 8.2 (2021 est.)<br>
+_total dependency ratio_: 45.9 (2024 est.)<br>
+_youth dependency ratio_: 33.9 (2024 est.)<br>
+_elderly dependency ratio_: 11.9 (2024 est.)<br>
+_potential support ratio_: 8.4 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 30.8 years (2024 est.)<br>
@@ -245,8 +245,8 @@ _female_: 15 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-scarcity of hazardous waste disposal facilities; rural to urban migration; natural freshwater resources scarce and polluted in north, inaccessible and poor quality in center and extreme southeast; raw sewage and industrial effluents polluting rivers in urban areas; deforestation; widespread erosion; desertification; deteriorating agricultural lands; serious air and water pollution in the national capital and urban centers along US-Mexico border; land subsidence in Valley of Mexico caused by groundwater depletion<br>
-<strong>note:</strong> the government considers the lack of clean water and deforestation national security issues<br>
+scarcity of hazardous waste disposal facilities; natural freshwater resources scarce and polluted in north, inaccessible and poor quality in center and extreme southeast; urban river pollution from raw sewage and industrial effluents; deforestation; widespread erosion; desertification; serious air and water pollution in urban areas; land subsidence in Valley of Mexico caused by groundwater depletion<br>
+<strong>note:</strong> the government considers the lack of clean water and deforestation as national security issues<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -266,12 +266,6 @@ _other_: 16.9% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 81.6% of total population (2023)<br>
 _rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.1% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.03% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 17.83 micrograms per cubic meter (2019 est.)<br>
@@ -327,7 +321,7 @@ _geographic coordinates_: 19 26 N, 99 08 W<br>
 _time difference_: UTC-6 (1 hour behind Washington, DC, during Standard Time)<br>
 _daylight saving time_: DST was permanently removed in October 2022<br>
 _time zone note_: Mexico has four time zones<br>
-_etymology_: named after the Mexica, the largest and most powerful branch of the Aztecs; the meaning of the name is uncertain<br>
+_etymology_: name may derive from one of the Nahuatl (Aztec) names for the capital city, Metztlixihtlico, which probably meant "the center of the moon;" alternatively, it may come from Mexica, the original name of the Aztec people<br>
 
 **Administrative divisions**<br>
 32 states (estados, singular - estado); Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Coahuila, Colima, Cuidad de Mexico, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Mexico, Michoac&aacute;n, Morelos, Nayarit, Nuevo Leon, Oaxaca, Puebla, Queretaro, Quintana Roo, San Luis Potosi, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatan, Zacatecas<br>
@@ -467,9 +461,9 @@ $1.789 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-5.53% (2023 est.)<br>
+4.7% (2024 est.)<br>
+5.5% (2023 est.)<br>
 7.9% (2022 est.)<br>
-5.69% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -505,19 +499,19 @@ food and beverages, tobacco, chemicals, iron and steel, petroleum, mining, texti
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-59.925 million (2023 est.)<br>
+60.959 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.81% (2023 est.)<br>
-3.26% (2022 est.)<br>
-4.02% (2021 est.)<br>
+2.7% (2024 est.)<br>
+2.8% (2023 est.)<br>
+3.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 6.1% (2023 est.)<br>
-_male_: 5.8% (2023 est.)<br>
-_female_: 6.7% (2023 est.)<br>
+_total_: 5.5% (2024 est.)<br>
+_male_: 5.2% (2024 est.)<br>
+_female_: 6.1% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -549,11 +543,11 @@ _expenditures_: $327.211 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-45.26% of GDP (2023 est.)<br>
+45.3% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-14.27% (of GDP) (2023 est.)<br>
+14.3% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -591,22 +585,22 @@ vehicle parts/accessories, refined petroleum, integrated circuits, broadcasting 
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$221.944 billion (2024 est.)<br>
 $214.317 billion (2023 est.)<br>
 $201.119 billion (2022 est.)<br>
-$207.799 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$313.204 billion (2023 est.)<br>
+$306.308 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Mexican pesos (MXN) per US dollar -<br>
+18.305 (2024 est.)<br>
 17.759 (2023 est.)<br>
 20.127 (2022 est.)<br>
 20.272 (2021 est.)<br>
 21.486 (2020 est.)<br>
-19.264 (2019 est.)<br>
 
 ## Energy
 
@@ -680,7 +674,7 @@ _domestic_: fixed-line teledensity 19 lines per every 100; mobile-cellular teled
 _international_: country code - 52; Columbus-2 fiber-optic submarine cable with access to the US, Virgin Islands, Canary Islands, Spain, and Italy; the ARCOS-1 and the MAYA-1 submarine cable system together provide access to Central America, parts of South America and the Caribbean, and the U.S.; Pan-American Crossing (PAC) submarine cable system provides access to Panama, California, U.S., and Costa Rica; Lazaro Cardenas-Manzanillo Santiago submarines cable system (LCMSSCS) provides access to Michoacan, Guerrero, and Colima, Mexico; AMX-1 submarine cable system with access to Colombia, Brazil, Puerto Rico, Gulf of California Cable submarine cable systems that connects La Paz, Baja California Sur and Topolobambo, Sinaloa; and Aurora submarine cable system provides access to Guatemala, Panama, Ecuador, Colombia, Mexico, and the U.S. satellite earth stations - 124 (36 Intelsat, 1 Solidaridad (giving Mexico improved access to South America, Central America, and much of the US as well as enhancing domestic communications), 9 Panamsat, numerous Inmarsat mobile earth stations); linked to Central American Microwave System of trunk connections (2022)<br>
 
 **Broadcast media**<br>
-telecom reform in 2013 enabled the creation of new broadcast television channels after decades of a quasi-monopoly; Mexico has 885 TV stations and 1,841 radio stations and most are privately owned; the Televisa group once had a virtual monopoly in TV broadcasting, but new broadcasting groups and foreign satellite and cable operators are now available; in 2016, Mexico became the first country in Latin America to complete the transition from analog to digital transmissions, allowing for better image and audio quality and a wider selection of programming from networks (2022)<br>
+telecom reform in 2013 ended a quasi-monopoly; now 885 TV stations and 1,841 radio stations, most privately owned; foreign satellite and cable operators are available; completed transition to digital in 2016 (2022)<br>
 
 **Internet country code**<br>
 .mx<br>
@@ -694,12 +688,6 @@ _subscriptions per 100 inhabitants_: 21 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 16 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 370<br>
-_annual passenger traffic on registered air carriers_: 64,569,640 (2018)<br>
-_annual freight traffic on registered air carriers_: 1,090,380,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 XA<br>
 
@@ -709,20 +697,9 @@ XA<br>
 **Heliports**<br>
 488 (2025)<br>
 
-**Pipelines**<br>
-17,210 km natural gas (2022), 9,757 km oil (2017), 10,237 km refined products (2020)<br>
-
 **Railways**<br>
 _total_: 23,389 km (2017)<br>
 _standard gauge_: 23,389 km (2017) 1.435-m gauge (27 km electrified)<br>
-
-**Roadways**<br>
-_total_: 704,884 km<br>
-_paved_: 175,526 km (includes 10,845 km of expressways)<br>
-_unpaved_: 529,358 km (2017)<br>
-
-**Waterways**<br>
-2,900 km (2012) (navigable rivers and coastal canals mostly connected with ports on the country's east coast)<br>
 
 **Merchant marine**<br>
 _total_: 674 (2023)<br>
@@ -741,8 +718,8 @@ _key ports_: Acapulco, Ensenada, Manzanillo, Mazatlan, Tampico, Tuxpan, Veracruz
 ## Military and Security
 
 **Military and security forces**<br>
-the Mexican Armed Forces (Fuerzas Armadas de México) are divided between the Secretariat of National Defense and the Secretariat of the Navy:<br><br>Secretariat of National Defense (Secretaria de Defensa Nacional, SEDENA): Army (Ejercito), Mexican Air Force (Fuerza Aerea Mexicana, FAM); Secretariat of the Navy (Secretaria de Marina, SEMAR): Mexican Navy (Armada de Mexico (ARM), includes Naval Air Force (FAN), Mexican Naval Infantry Corps (Cuerpo de Infanteria de Marina, Mexmar or CIM))<br><br>Secretariat of Security and Civilian Protection/SEDENA: National Guard (2024)<br>
-<strong>note:</strong> the National Guard was formed in 2019 of personnel from the former Federal Police (disbanded in December 2019) and military police units of the Army and Navy; the Guard was placed under the civilian-led Secretariat of Security and Civilian Protection, while the SEDENA had day-to-day operational control and provided the commanders and the training; in September 2022, Mexico’s Congress passed legislation shifting complete control of the National Guard to the military; however, in 2023 the move was ruled unconstitutional by the Supreme Court; the Guard, along with state and municipal police, is responsible for enforcing the law and maintaining order; the regular military also actively supports police operations<br>
+the Mexican Armed Forces (Fuerzas Armadas de México) are divided between the Secretariat of National Defense and the Secretariat of the Navy:<br><br>Secretariat of National Defense (Secretaria de Defensa Nacional, SEDENA): Army (Ejercito), Mexican Air Force (Fuerza Aerea Mexicana, FAM), National Guard (Guardia Nacional); Secretariat of the Navy (Secretaria de Marina, SEMAR): Mexican Navy (Armada de Mexico (ARM), includes Naval Air Force (FAN), Mexican Naval Infantry Corps (Cuerpo de Infanteria de Marina, Mexmar or CIM))<br><br>Secretariat of Security and Civilian Protection/SEDENA: National Guard (2025)<br>
+<strong>note:</strong> the National Guard was formed in 2019 of personnel from the former Federal Police (disbanded in December 2019) and military police units of the Army and Navy<br>
 
 **Military expenditures**<br>
 0.6% of GDP (2023 est.)<br>
@@ -752,13 +729,13 @@ the Mexican Armed Forces (Fuerzas Armadas de México) are divided between the S
 0.5% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 220,000 armed forces personnel (160,000 Army; 10,000 Air Force; 50,000 Navy, including about 20,000 marines); approximately 110,000 National Guard personnel (2024)<br>
+information varies; approximately 260,000 active-duty armed forces personnel; approximately 110,000 National Guard personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Mexican military inventory includes a mix of domestically produced and imported weapons and equipment from a variety of mostly Western suppliers, particularly the US; a considerable portion of its inventory, such as ships and fighter aircraft, are older, secondhand items from the US; over the past decade, the Mexican military has made efforts to acquire more modern equipment; Mexico's defense industry produces some naval vessels and light armored vehicles, as well as small arms and other miscellaneous equipment (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age (16 with parental consent) for voluntary enlistment for men and women; 18 years of age for compulsory military service for men (selection for service determined by lottery); conscript service obligation is 12 months; those selected serve on Saturdays in a Batallón del Servicio Militar Nacional (National Military Service Battalion) composed entirely of 12-month Servicio Militar Nacional (SMN) conscripts; conscripts remain in reserve status until the age of 40; cadets enrolled in military schools from the age of 15 are considered members of the armed forces; National Guard: single men and women 18-30 years of age may volunteer (2023)<br>
+18 years of age (16 with parental consent) for voluntary enlistment for men and women; 18 years of age for compulsory military service for men (selection for service determined by lottery); conscript service obligation is 12 months; those selected serve on Saturdays in a Batallón del Servicio Militar Nacional (National Military Service Battalion) composed entirely of 12-month Servicio Militar Nacional (SMN) conscripts; conscripts remain in reserve status until the age of 40; cadets enrolled in military schools from the age of 15 are considered members of the armed forces; National Guard: single men and women 18-30 years of age may volunteer (2024)<br>
 <strong>note: </strong>as of 2023, women comprised about 10% of the active-duty Army, Air Force, and Navy, and about 14% of the National Guard<br>
 
 **Military - note**<br>

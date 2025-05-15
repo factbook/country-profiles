@@ -85,7 +85,7 @@ vast majority of Canadians are positioned in a discontinuous band within approxi
 <p>continuous permafrost in north is a serious obstacle to development; cyclonic storms form east of the Rocky Mountains, a result of the mixing of air masses from the Arctic, Pacific, and North American interior, and produce most of the country's rain and snow east of the mountains</p><p><strong>volcanism:</strong> the vast majority of volcanoes in Western Canada's Coast Mountains remain dormant</p><br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> second-largest country in world (after Russia) and largest in the Americas; strategic location between Russia and US via north polar route; approximately 90% of the population is concentrated within 160 km (100 mi) of the US border</p> <p><strong>note 2:</strong> Canada has more fresh water than any other country and almost 9% of Canadian territory is water; Canada has at least 2 million and possibly over 3 million lakes -- that is more than all other countries combined</p><br>
+<p><strong>note 1:</strong> second-largest country in world (after Russia) and largest in the Americas; strategic location between Russia and US via north polar route; approximately 90% of the population is concentrated within 160 km (100 mi) of the US border</p> <p><strong>note 2:</strong> Canada has more fresh water than any other country, and almost 9% of Canadian territory is water; Canada has at least 2 million and possibly over 3 million lakes, more than all other countries combined</p><br>
 
 ## People and Society
 
@@ -115,10 +115,10 @@ _15-64 years_: 63.4% (male 12,382,422/female 12,227,512)<br>
 _65 years and over_: 21% (2024 est.) (male 3,753,829/female 4,403,424)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 52.1<br>
-_youth dependency ratio_: 23.9<br>
-_elderly dependency ratio_: 28.2<br>
-_potential support ratio_: 3.6 (2021 est.)<br>
+_total dependency ratio_: 56.8 (2024 est.)<br>
+_youth dependency ratio_: 23.9 (2024 est.)<br>
+_elderly dependency ratio_: 32.9 (2024 est.)<br>
+_potential support ratio_: 3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 42.6 years (2024 est.)<br>
@@ -241,7 +241,7 @@ _female_: 17 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-metal smelting, coal-burning utilities, and vehicle emissions impacting agricultural and forest productivity; air pollution and resulting acid rain severely affecting lakes and damaging forests; ocean waters becoming contaminated due to agricultural, industrial, mining, and forestry activities<br>
+air pollution and acid rain from vehicle emissions, coal-burning, and metal smelting severely affecting lakes and forests; seawater pollution from agriculture, industry, mining, and forestry&nbsp;<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -261,12 +261,6 @@ _other_: 54% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 81.9% of total population (2023)<br>
 _rate of urbanization_: 0.95% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.08% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.08% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 6.39 micrograms per cubic meter (2019 est.)<br>
@@ -318,7 +312,7 @@ _geographic coordinates_: 45 25 N, 75 42 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday in November<br>
 _time zone note_: Canada has six time zones<br>
-_etymology_: the city lies on the south bank of the Ottawa River, from which it derives its name; the river name comes from the Algonquin word "adawe" meaning "to trade"<br>
+_etymology_: the city lies on the south bank of the Ottawa River, from which it derives its name; the river name comes from the Algonquin word <em>adawe</em>, meaning "to trade"<br>
 
 **Administrative divisions**<br>
 10 provinces and 3 territories*; Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories*, Nova Scotia, Nunavut*, Ontario, Prince Edward Island, Qu&eacute;bec, Saskatchewan, Yukon*<br>
@@ -361,21 +355,18 @@ _legislative structure_: bicameral<br>
 
 **Legislative branch - lower chamber**<br>
 _chamber name_: House of Commons<br>
-_number of seats_: 338 (all directly elected)<br>
+_number of seats_: 343 (all directly elected)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 9/20/2021<br>
+_most recent election date_: 4/28/2025<br>
 _parties elected and seats per party_: Liberal Party (160); Conservative Party (119); Bloc Québécois (BQ) (32); NDP-New Democratic Party (NDP) (25); Other (2)<br>
 _percentage of women in chamber_: 30.9%<br>
-_expected date of next election_: April 2025<br>
+_expected date of next election_: October 2029<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate<br>
 _number of seats_: 105 (all appointed)<br>
-_scope of elections_: Full renewal<br>
-_most recent election date_: 11/8/2020<br>
-_parties elected and seats per party_: National League for Democracy (NLD) (258); Union Solidarity and Development Party (USDP) (26); Other (31)<br>
 _percentage of women in chamber_: 54.3%<br>
 
 **Judicial branch**<br>
@@ -400,7 +391,7 @@ _consulate(s) general_: Atlanta, Boston, Chicago, Dallas, Denver, Detroit, Los A
 _trade office(s)_: Houston, Palo Alto (CA), San Diego; note - there are trade offices in the Consulates General<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Marybeth TURNER (since January 2025)<br>
+_chief of mission_: Ambassador Pete HOEKSTRA (since 29 April 2025)<br>
 _embassy_: 490 Sussex Drive, Ottawa, Ontario K1N 1G8<br>
 _mailing address_: 5480 Ottawa Place, Washington DC&nbsp; 20521-5480<br>
 _telephone_: [1] (613) 688-5335<br>
@@ -427,7 +418,7 @@ _selected World Heritage Site locales_: L'Anse aux Meadows (c); Canadian Rocky M
 ## Economy
 
 **Economic overview**<br>
-one of the world&rsquo;s leading developed economies; globally integrated commercial and financial markets; largest US trading partner; key energy, forestry, manufacturing and service industries; inflation recovering following interest rate hikes; government priorities include climate policy, immigration and affordable housing<br>
+<p>high-income economy and second-largest US trading partner; key timber, oil, and gas industries; trade uncertainties and weak business investments contributing to economic slowdown; high and growing public debt; inflation moderating but remains above target range</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $2.242 trillion (2023 est.)<br>
@@ -452,9 +443,9 @@ $2.142 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-3.88% (2023 est.)<br>
+2.4% (2024 est.)<br>
+3.9% (2023 est.)<br>
 6.8% (2022 est.)<br>
-3.4% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -490,19 +481,19 @@ transportation equipment, chemicals, processed and unprocessed minerals, food pr
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-22.137 million (2023 est.)<br>
+22.426 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.37% (2023 est.)<br>
-5.28% (2022 est.)<br>
-7.53% (2021 est.)<br>
+6.4% (2024 est.)<br>
+5.4% (2023 est.)<br>
+5.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.6% (2023 est.)<br>
-_male_: 11.4% (2023 est.)<br>
-_female_: 9.8% (2023 est.)<br>
+_total_: 13% (2024 est.)<br>
+_male_: 13.8% (2024 est.)<br>
+_female_: 12.1% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -530,23 +521,23 @@ _expenditures_: $399.8 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-62.23% of GDP (2023 est.)<br>
+62.2% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-14.01% (of GDP) (2023 est.)<br>
+14% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$15.631 billion (2023 est.)<br>
--$7.622 billion (2022 est.)<br>
-$256.504 million (2021 est.)<br>
+-$11.425 billion (2024 est.)<br>
+-$13.764 billion (2023 est.)<br>
+-$6.318 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$714.904 billion (2023 est.)<br>
-$731.81 billion (2022 est.)<br>
-$626.676 billion (2021 est.)<br>
+$727.453 billion (2024 est.)<br>
+$724.754 billion (2023 est.)<br>
+$743.782 billion (2022 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -558,9 +549,9 @@ crude petroleum, cars, gold, natural gas, refined petroleum (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$724.713 billion (2023 est.)<br>
-$728.732 billion (2022 est.)<br>
-$626.558 billion (2021 est.)<br>
+$733.234 billion (2024 est.)<br>
+$723.399 billion (2023 est.)<br>
+$731.058 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -579,11 +570,11 @@ $106.615 billion (2021 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Canadian dollars (CAD) per US dollar -<br>
+1.369 (2024 est.)<br>
 1.35 (2023 est.)<br>
 1.302 (2022 est.)<br>
 1.254 (2021 est.)<br>
 1.341 (2020 est.)<br>
-1.327 (2019 est.)<br>
 
 ## Energy
 
@@ -655,7 +646,7 @@ _domestic_: Nearly 29 per 100 fixed-line and 91 per 100 mobile-cellular teledens
 _international_: country code - 1; landing points for the Nunavut Undersea Fiber Optic Network System, Greenland Connect, Persona, GTT Atlantic, and Express, KetchCan 1 Submarine Fiber Cable system, St Pierre and Miquelon Cable submarine cables providing links to the US and Europe; satellite earth stations - 7 (5 Intelsat - 4 Atlantic Ocean and 1 Pacific Ocean, and 2 Intersputnik - Atlantic Ocean region) (2019)<br>
 
 **Broadcast media**<br>
-2 public TV broadcasting networks, 1 in English and 1 in French, each with a large number of network affiliates; several private-commercial networks also with multiple network affiliates; overall, about 150 TV stations; multi-channel satellite and cable systems provide access to a wide range of stations including US stations; mix of public and commercial radio broadcasters with the Canadian Broadcasting Corporation (CBC), the public radio broadcaster, operating 4 radio networks, Radio Canada International, and radio services to indigenous populations in the north; roughly 1,119 licensed radio stations (2016)<br>
+2 public TV broadcasting networks, 1 in English and 1 in French, each with a large number of network affiliates; several private commercial networks, also with multiple network affiliates; a total of about 150 TV stations, accessible via multi-channel satellite and cable systems; mix of public and commercial radio, with over 1,000 licensed stations; public broadcaster Canadian Broadcasting Corporation (CBC) provides 4 radio networks, Radio Canada International, and radio services to ethnic populations in the north (2016)<br>
 
 **Internet country code**<br>
 .ca<br>
@@ -669,12 +660,6 @@ _subscriptions per 100 inhabitants_: 43 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 51 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 879<br>
-_annual passenger traffic on registered air carriers_: 89.38 million (2018)<br>
-_annual freight traffic on registered air carriers_: 3,434,070,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 C<br>
 
@@ -684,20 +669,9 @@ C<br>
 **Heliports**<br>
 506 (2025)<br>
 
-**Pipelines**<br>
-840,000 km oil and gas (2020)<br>
-
 **Railways**<br>
 _total_: 49,422 km (2021) note: 129 km electrified (2021)<br>
 _standard gauge_: 49,422 km (2021) 1.435-m gauge<br>
-
-**Roadways**<br>
-_total_: 1,042,300 km<br>
-_paved_: 415,600 km (includes 17,000 km of expressways)<br>
-_unpaved_: 626,700 km (2011)<br>
-
-**Waterways**<br>
-636 km (2011) (Saint Lawrence Seaway of 3,769 km, including the Saint Lawrence River of 3,058 km, shared with United States)<br>
 
 **Merchant marine**<br>
 _total_: 716 (2023)<br>

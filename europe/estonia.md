@@ -73,7 +73,7 @@ a fairly even distribution throughout most of the country, with urban areas attr
 sometimes flooding occurs in the spring<br>
 
 **Geography - note**<br>
-the mainland terrain is flat, boggy, and partly wooded; offshore lie more than 1,500 islands<br>
+the mainland terrain is flat, boggy, and partly wooded; over 1,500 islands lie offshore<br>
 
 ## People and Society
 
@@ -101,10 +101,10 @@ _15-64 years_: 62.2% (male 373,989/female 368,113)<br>
 _65 years and over_: 22.6% (2024 est.) (male 96,110/female 173,846)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 58.3<br>
-_youth dependency ratio_: 26.1<br>
-_elderly dependency ratio_: 32.3<br>
-_potential support ratio_: 3.1 (2021 est.)<br>
+_total dependency ratio_: 57.6 (2024 est.)<br>
+_youth dependency ratio_: 25.4 (2024 est.)<br>
+_elderly dependency ratio_: 32.2 (2024 est.)<br>
+_potential support ratio_: 3.1 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 45 years (2024 est.)<br>
@@ -228,7 +228,7 @@ _female_: 17 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air polluted with sulfur dioxide from oil-shale burning power plants in northeast; however, the amounts of pollutants emitted into the air have fallen dramatically and the pollution load of wastewater at purification plants has decreased substantially due to improved technology and environmental monitoring; Estonia has more than 1,400 natural and manmade lakes, the smaller of which in agricultural areas need to be monitored; coastal seawater is polluted in certain locations<br>
+air pollution from sulfur dioxide from oil-shale-burning power plants; coastal seawater pollution<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -248,12 +248,6 @@ _other_: 19.9% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 69.8% of total population (2023)<br>
 _rate of urbanization_: -0.03% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.85% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 6.35 micrograms per cubic meter (2019 est.)<br>
@@ -294,7 +288,7 @@ _name_: Tallinn<br>
 _geographic coordinates_: 59 26 N, 24 43 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the Estonian name is generally believed to be derived from "Taani-linn" (originally meaning "Danish castle", now "Danish town") after a stronghold built in the area by the Danes; it could also have come from "tali-linn" ("winter castle" or "winter town") or "talu-linn" ("home castle" or "home town")<br>
+_etymology_: the name derives from the Old Estonian term <em>tan-linn</em>, meaning "Danish fort," a reference to Danish King VALDEMAR II founding the city in 1219<br>
 
 **Administrative divisions**<br>
 15 urban municipalities (linnad, singular - linn), 64 rural municipalities (vallad, singular vald)<br><br> <strong>urban municipalities:</strong> Haapsalu, Keila, Kohtla-Jarve, Loksa, Maardu, Narva, Narva-Joesuu, Paide, Parnu, Rakvere, Sillamae, Tallinn, Tartu, Viljandi, Voru<br><br><strong>rural municipalities:</strong> Alutaguse, Anija, Antsla, Elva, Haademeeste, Haljala, Harku, Hiiumaa, Jarva, Joelahtme, Jogeva, Johvi, Kadrina, Kambja, Kanepi, Kastre, Kehtna, Kihnu, Kiili, Kohila, Kose, Kuusalu, Laane-Harju, Laane-Nigula, Laaneranna, Luganuse, Luunja, Marjamaa, Muhu, Mulgi, Mustvee, Noo, Otepaa, Peipsiaare, Pohja-Parnumaa, Pohja-Sakala, Poltsamaa, Polva, Raasiku, Rae, Rakvere, Räpina, Rapla, Rouge, Ruhnu, Saarde, Saaremaa, Saku, Saue, Setomaa, Tapa, Tartu, Toila, Tori, Torva, Turi, Vaike-Maarja, Valga, Viimsi, Viljandi, Vinni, Viru-Nigula, Vormsi, Voru<br>
@@ -414,9 +408,9 @@ $41.291 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-9.16% (2023 est.)<br>
+3.5% (2024 est.)<br>
+9.2% (2023 est.)<br>
 19.4% (2022 est.)<br>
-4.65% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -452,19 +446,19 @@ food, engineering, electronics, wood and wood products, textiles; information te
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-757,000 (2023 est.)<br>
+747,800 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.35% (2023 est.)<br>
-5.57% (2022 est.)<br>
-6.18% (2021 est.)<br>
+7.8% (2024 est.)<br>
+6.4% (2023 est.)<br>
+5.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.1% (2023 est.)<br>
-_male_: 18.2% (2023 est.)<br>
-_female_: 16% (2023 est.)<br>
+_total_: 20.9% (2024 est.)<br>
+_male_: 21.9% (2024 est.)<br>
+_female_: 20% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -496,23 +490,23 @@ _expenditures_: $13.505 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-24.9% of GDP (2022 est.)<br>
+28.3% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-20.76% (of GDP) (2022 est.)<br>
+21.4% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$489.659 million (2024 est.)<br>
 -$722.668 million (2023 est.)<br>
 -$1.496 billion (2022 est.)<br>
--$1.387 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$32.637 billion (2024 est.)<br>
 $32.147 billion (2023 est.)<br>
 $33.178 billion (2022 est.)<br>
-$29.525 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -524,9 +518,9 @@ cars, wood, broadcasting equipment, refined petroleum, prefabricated buildings (
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$32.375 billion (2024 est.)<br>
 $31.796 billion (2023 est.)<br>
 $33.655 billion (2022 est.)<br>
-$30.054 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -538,18 +532,18 @@ cars, refined petroleum, broadcasting equipment, natural gas, packaged medicine 
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$2.054 billion (2024 est.)<br>
 $2.593 billion (2023 est.)<br>
 $2.217 billion (2022 est.)<br>
-$2.371 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 
 ## Energy
 
@@ -609,7 +603,7 @@ _domestic_: 20 per 100 for fixed-line subscribership and approximately 155 per 1
 _international_: country code - 372; landing points for the EE-S-1, EESF-3, Baltic Sea Submarine Cable, FEC and EESF-2 fiber-optic submarine cables to other Estonia points, Finland, and Sweden; 2 international switches are located in Tallinn (2019)<br>
 
 **Broadcast media**<br>
-the publicly owned broadcaster, Eesti Rahvusringhaaling (ERR), operates 3 TV channels and 5 radio networks; growing number of private commercial radio stations broadcasting nationally, regionally, and locally; fully transitioned to digital television in 2010; national private TV channels expanding service; a range of channels are aimed at Russian-speaking viewers; in 2016, there were 42 on-demand services available in Estonia, including 19 pay TVOD and SVOD services; roughly 85% of households accessed digital television services<br>
+the publicly owned broadcaster, Eesti Rahvusringhaaling (ERR), operates 3 TV channels and 5 radio networks; growing number of private commercial radio stations broadcasting nationally, regionally, and locally; fully transitioned to digital television in 2010; national private TV channels expanding service, with a range of channels aimed at Russian-speaking viewers; in 2016, there were 42 on-demand services available in Estonia, including 19 pay TVOD and SVOD services; roughly 85% of households accessed digital television services<br>
 
 **Internet country code**<br>
 .ee<br>
@@ -623,11 +617,6 @@ _subscriptions per 100 inhabitants_: 38 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 3 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 14<br>
-_annual passenger traffic on registered air carriers_: 31,981 (2018)<br>
-
 **Civil aircraft registration country code prefix**<br>
 ES<br>
 
@@ -637,17 +626,8 @@ ES<br>
 **Heliports**<br>
 10 (2025)<br>
 
-**Pipelines**<br>
-2,360 km gas (2016)<br>
-
 **Railways**<br>
 _total_: 1,441 km (2020) 225 km electrified<br>
-
-**Roadways**<br>
-_total_: 89,382 km (2022)<br>
-
-**Waterways**<br>
-335 km (2011) (320 km are navigable year-round)<br>
 
 **Merchant marine**<br>
 _total_: 72 (2023)<br>

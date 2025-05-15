@@ -97,10 +97,10 @@ _15-64 years_: 65.9% (male 70,225/female 67,427)<br>
 _65 years and over_: 7.2% (2024 est.) (male 6,743/female 8,333)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 74.9<br>
-_youth dependency ratio_: 66<br>
-_elderly dependency ratio_: 8.9<br>
-_potential support ratio_: 11.2 (2020 est.)<br>
+_total dependency ratio_: 51.7 (2024 est.)<br>
+_youth dependency ratio_: 40.8 (2024 est.)<br>
+_elderly dependency ratio_: 11 (2024 est.)<br>
+_potential support ratio_: 9.1 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 27.4 years (2024 est.)<br>
@@ -218,7 +218,7 @@ _female_: 99.3% (2021)<br>
 ## Environment
 
 **Environment - current issues**<br>
-soil erosion, deforestation, invasive species, overfishing<br>
+soil erosion; deforestation; invasive species; overfishing<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -238,12 +238,6 @@ _other_: 24.4% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 17.5% of total population (2023)<br>
 _rate of urbanization_: -0.03% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.27% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 7.78 micrograms per cubic meter (2019 est.)<br>
@@ -275,7 +269,6 @@ parliamentary republic<br>
 _name_: Apia<br>
 _geographic coordinates_: 13 49 S, 171 46 W<br>
 _time difference_: UTC+13 (18 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: name derives from the native village around which the capital was constructed in the 1850s; the village still exists within the larger modern capital<br>
 
 **Administrative divisions**<br>
 11 districts; A'ana, Aiga-i-le-Tai, Atua, Fa'asaleleaga, Gaga'emauga, Gagaifomauga, Palauli, Satupa'itea, Tuamasaga, Va'a-o-Fonoti, Vaisigano<br>
@@ -287,7 +280,7 @@ _etymology_: name derives from the native village around which the capital was c
 Independence Day Celebration, 1 June (1962); note - 1 January 1962 is the date of independence from the New Zealand-administered UN trusteeship, but it is observed in June<br>
 
 **Legal system**<br>
-mixed legal system of English common law and customary law; judicial review of legislative acts with respect to fundamental rights of the citizen<br>
+mixed system of English common law and customary law; judicial review of legislative acts involving fundamental citizen rights<br>
 
 **Constitution**<br>
 _history_: several previous (pre-independence); latest 1 January 1962<br>
@@ -391,9 +384,9 @@ $938.189 million (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-8.12% (2023 est.)<br>
-10.96% (2022 est.)<br>
-3.13% (2021 est.)<br>
+2.2% (2024 est.)<br>
+7.9% (2023 est.)<br>
+11% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -423,19 +416,19 @@ food processing, building materials, auto parts<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-72,000 (2023 est.)<br>
+57,200 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-9.75% (2023 est.)<br>
-9.92% (2022 est.)<br>
-10.37% (2021 est.)<br>
+4.6% (2024 est.)<br>
+5% (2023 est.)<br>
+5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.8% (2023 est.)<br>
-_male_: 13.4% (2023 est.)<br>
-_female_: 29.9% (2023 est.)<br>
+_total_: 11.9% (2024 est.)<br>
+_male_: 7.4% (2024 est.)<br>
+_female_: 20.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -457,17 +450,17 @@ _expenditures_: $297.736 million (2021 est.)<br>
 49.1% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-25.02% (of GDP) (2021 est.)<br>
+25% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$39.968 million (2023 est.)<br>
+$39.966 million (2023 est.)<br>
 -$74.107 million (2022 est.)<br>
 -$114.446 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$346.189 million (2023 est.)<br>
+$346.187 million (2023 est.)<br>
 $175.377 million (2022 est.)<br>
 $97.774 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -495,22 +488,22 @@ refined petroleum, poultry, cars, plastic products, milk (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$507.74 million (2024 est.)<br>
 $447.09 million (2023 est.)<br>
 $321.163 million (2022 est.)<br>
-$294.682 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$289.446 million (2023 est.)<br>
+$269.974 million (2023 est.)<br>
 <strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: tala (SAT) per US dollar -<br>
+2.754 (2024 est.)<br>
 2.738 (2023 est.)<br>
 2.689 (2022 est.)<br>
 2.556 (2021 est.)<br>
 2.665 (2020 est.)<br>
-2.649 (2019 est.)<br>
 
 ## Energy
 
@@ -557,7 +550,7 @@ _domestic_: fixed-line is 3 per 100 and mobile-cellular teledensity&nbsp; 32 tel
 _international_: country code - 685; landing points for the Tui-Samo, Manatua, SAS, and Southern Cross NEXT submarine cables providing connectivity to Samoa, Fiji,&nbsp;Wallis&nbsp;&amp; Futuna, Cook Islands, Niue, French Polynesia, American Samoa, Australia, New Zealand, Kiribati, Los Angeles (US), and Tokelau;&nbsp;satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
 
 **Broadcast media**<br>
-state-owned TV station privatized in 2008; 4 privately owned television broadcast stations; about a half-dozen privately owned radio stations and one state-owned radio station; TV and radio broadcasts of several stations from American Samoa are available (2019)<br>
+state-owned TV station privatized in 2008; 4 privately owned TV stations; about a half-dozen privately owned radio stations and one state-owned; TV and radio broadcasts of several stations from American Samoa are available (2019)<br>
 
 **Internet country code**<br>
 .ws<br>
@@ -571,19 +564,11 @@ _subscriptions per 100 inhabitants_: 1 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 4<br>
-_annual passenger traffic on registered air carriers_: 137,770 (2018)<br>
-
 **Civil aircraft registration country code prefix**<br>
 5W<br>
 
 **Airports**<br>
 4 (2025)<br>
-
-**Roadways**<br>
-_total_: 1,150 km (2018)<br>
 
 **Merchant marine**<br>
 _total_: 13 (2023)<br>
@@ -601,10 +586,10 @@ _key ports_: Apia<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Ministry of Police, Prisons, and Correction Services: Samoa Police Force (2024)<br>
+no regular military forces; Samoa Police Service (includes a maritime unit) (2025)<br>
 
 **Military - note**<br>
-informal defense ties exist with New Zealand, which is required to consider any Samoan request for assistance under the 1962 Treaty of Friendship <br><br>Samoa has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Somoa's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>
+informal defense ties exist with New Zealand, which pledged to afford assistance to Samoa in the conduct of its international relations under the 1962 Treaty of Friendship; New Zealand naval vessels patrol Samoan waters<br><br>Samoa has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Somoa's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2025)<br>
 
 ## Transnational Issues
 

@@ -72,7 +72,7 @@ the most populous Palestinian communities in the West Bank are located in the ce
 droughts<br>
 
 **Geography - note**<br>
-landlocked; highlands are main recharge area for Israel's coastal aquifers; there are about 380 Israeli civilian sites, including about 213 settlements and 132 small outpost communities in the West Bank and 35 sites in East Jerusalem (2017)<br>
+landlocked; highlands are main recharge area for Israel's coastal aquifers (2017)<br>
 
 ## People and Society
 
@@ -98,11 +98,10 @@ _15-64 years_: 59.5% (male 979,719/female 949,746)<br>
 _65 years and over_: 3.9% (2024 est.) (male 59,234/female 65,946)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 74.3<br>
-_youth dependency ratio_: 68.2<br>
-_elderly dependency ratio_: 6.1<br>
-_potential support ratio_: 16.5 (2021 est.)<br>
-<strong>note:</strong> data represent Gaza Strip and the West Bank<br>
+_total dependency ratio_: 68.1 (2024 est.)<br>
+_youth dependency ratio_: 61.6 (2024 est.)<br>
+_elderly dependency ratio_: 6.5 (2024 est.)<br>
+_potential support ratio_: 15.4 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 21.9 years (2024 est.)<br>
@@ -236,9 +235,6 @@ _urban population_: 77.6% of total population (2023)<br>
 _rate of urbanization_: 2.85% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 30.82 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 3.23 megatons (2016 est.)<br>
@@ -268,7 +264,7 @@ _agricultural_: 220 million cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: none<br>
 _conventional short form_: West Bank<br>
-_etymology_: name refers to the location of the region of the British Mandate of Palestine that was occupied and administered by Jordan in 1948, as it is located on the far side (west bank) of the Jordan River in relation to Jordan proper; the designation was retained following the 1967 Six-Day War and the subsequent changes in administration<br>
+_etymology_: name refers to the location of the British Mandate of Palestine that was occupied and administered by Jordan in 1948, on the west bank of the Jordan River; the designation was retained after the 1967 Six-Day War and subsequent changes in administration<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (all cultural)<br>
@@ -299,9 +295,9 @@ $17.421 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate; entry includes West Bank and Gaza Strip<br>
 
 **Inflation rate (consumer prices)**<br>
-5.87% (2023 est.)<br>
-3.74% (2022 est.)<br>
-1.24% (2021 est.)<br>
+5.9% (2023 est.)<br>
+3.7% (2022 est.)<br>
+1.2% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices; entry includes West Bank and Gaza Strip<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -334,15 +330,15 @@ small-scale manufacturing, quarrying, textiles, soap, olive-wood carvings, and m
 <b>note:</b> number of people ages 15 or older who are employed or seeking work; entry includes West Bank and Gaza Strip<br>
 
 **Unemployment rate**<br>
-24.42% (2022 est.)<br>
-26.39% (2021 est.)<br>
+24.4% (2022 est.)<br>
+26.4% (2021 est.)<br>
 25.9% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment; entry includes West Bank and Gaza Strip<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 36% (2022 est.)<br>
+_total_: 36.1% (2022 est.)<br>
 _male_: 31.6% (2022 est.)<br>
-_female_: 56.7% (2022 est.)<br>
+_female_: 56.6% (2022 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -373,7 +369,7 @@ _expenditures_: $5.002 billion (2020 est.)<br>
 24.4% of GDP (2014 est.)<br>
 
 **Taxes and other revenues**<br>
-21.47% (of GDP) (2021 est.)<br>
+21.5% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP; entry includes West Bank and Gaza Strip<br>
 
 **Current account balance**<br>
@@ -411,9 +407,9 @@ cement, raw sugar, cars, baked goods, perfumes (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars; entry includes the West Bank and the Gaza Strip<br>
 
 **Reserves of foreign exchange and gold**<br>
+$1.328 billion (2024 est.)<br>
 $1.323 billion (2023 est.)<br>
 $896.9 million (2022 est.)<br>
-$872.541 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars; entry includes West Bank and Gaza Strip<br>
 
 **Exchange rates**<br>
@@ -477,7 +473,7 @@ _domestic_: fixed-line 9 per 100 and mobile-cellular subscriptions 78 per 100 (i
 _international_: country code 970 or 972; 1 international switch in Ramallah<br>
 
 **Broadcast media**<br>
-the Palestinian Authority operates 1 TV and 1 radio station; about 20 private TV and 40 radio stations; both Jordanian TV and satellite TV are accessible<br>
+the Palestinian Authority operates 1 TV and 1 radio station; about 20 private TV and 40 radio stations; Jordanian TV and satellite TV accessible<br>
 
 **Internet country code**<br>
 .ps; note - IANA has designated .ps for the West Bank, same as Gaza Strip<br>
@@ -499,15 +495,10 @@ _subscriptions per 100 inhabitants_: 8 (2023 est.)<br>
 **Heliports**<br>
 2 (2025)<br>
 
-**Roadways**<br>
-_total_: 4,686 km (2010)<br>
-_paved_: 4,686 km (2010)<br>
-<strong>note:</strong> includes Gaza Strip<br>
-
 ## Military and Security
 
 **Military and security forces**<br>
-per the Oslo Accords, the Palestinian Authority (PA) is not permitted a conventional military but maintains security and police forces; PA security personnel have operated exclusively in the West Bank since HAMAS seized power in the Gaza Strip in 2007; PA forces include the National Security Forces, Presidential Guard, Civil Police, Civil Defense, Preventive Security Organization, the General Intelligence Organization, and the Military Intelligence Organization (2024)<br>
+per the Oslo Accords, the Palestinian Authority (PA) is not permitted a conventional military but maintains security and police forces; PA security personnel have operated exclusively in the West Bank since HAMAS seized power in the Gaza Strip in 2007; PA forces include the Palestinian National Security Forces, Presidential Guard, Civil Police, Civil Defense, Preventive Security Organization, the General Intelligence Organization, and the Military Intelligence Organization (2024)<br>
 <strong>note:</strong> the National Security Forces conduct gendarmerie-style security operations in circumstances that exceed the capabilities of the Civil Police; it is the largest branch of the PA security services and acts as the internal Palestinian security force; the Presidential Guard protects facilities and provides dignitary protection; the Preventive Security Organization is responsible for internal intelligence gathering and investigations related to internal security cases, including political dissent<br>
 
 **Military expenditures**<br>

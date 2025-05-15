@@ -96,10 +96,10 @@ _15-64 years_: 67.3% (male 32,527/female 34,487)<br>
 _65 years and over_: 5.7% (2024 est.) (male 2,508/female 3,169)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 57.7<br>
-_youth dependency ratio_: 48.4<br>
-_elderly dependency ratio_: 9.3<br>
-_potential support ratio_: 10.8 (2021 est.)<br>
+_total dependency ratio_: 48.6 (2024 est.)<br>
+_youth dependency ratio_: 40.2 (2024 est.)<br>
+_elderly dependency ratio_: 8.5 (2024 est.)<br>
+_potential support ratio_: 11.8 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 28.2 years (2024 est.)<br>
@@ -205,7 +205,7 @@ _female_: NA<br>
 ## Environment
 
 **Environment - current issues**<br>
-overfishing; sea level rise due to climate change threatens land; water pollution, toxic pollution from mining; solid waste disposal<br>
+overfishing; sea-level rise; water and toxic pollution from mining; solid waste disposal<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection<br>
@@ -225,9 +225,6 @@ _other_: 0.8% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 23.4% of total population (2023)<br>
 _rate of urbanization_: 1.52% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.02% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 7.79 micrograms per cubic meter (2019 est.)<br>
@@ -271,7 +268,7 @@ _time zone note_: Micronesia has two time zones<br>
 Constitution Day, 10 May (1979)<br>
 
 **Legal system**<br>
-mixed legal system of common and customary law<br>
+mixed system of common and customary law<br>
 
 **Constitution**<br>
 _history_: drafted June 1975, ratified 1 October 1978, entered into force 10 May 1979<br>
@@ -378,9 +375,9 @@ $460 million (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-5.41% (2022 est.)<br>
-3.19% (2021 est.)<br>
-0.55% (2020 est.)<br>
+5.4% (2022 est.)<br>
+3.2% (2021 est.)<br>
+0.6% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -405,11 +402,6 @@ tourism, construction; specialized aquaculture, craft items (shell and wood)<br>
 0.78% (2023 est.)<br>
 <strong>note:</strong> annual % change in industrial value added based on constant local currency<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.9% (2014)<br>
-_male_: 10.4%<br>
-_female_: 29.9%<br>
-
 **Remittances**<br>
 5.07% of GDP (2023 est.)<br>
 5.43% of GDP (2022 est.)<br>
@@ -422,11 +414,11 @@ _expenditures_: $87.355 million (2020 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-27.86% of GDP (2020 est.)<br>
+27.9% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-7.05% (of GDP) (2020 est.)<br>
+7% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -436,10 +428,10 @@ $22.408 million (2014 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$179 million (2021 est.)<br>
-$122 million (2020 est.)<br>
-$130 million (2019 est.)<br>
-<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
+$125.789 million (2023 est.)<br>
+$90.466 million (2022 est.)<br>
+$78.392 million (2021 est.)<br>
+<strong>note:</strong> GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Thailand 64%, China 16%, Philippines 11%, Japan 5%, Ecuador 1% (2023)<br>
@@ -450,10 +442,10 @@ fish, diamonds, garments (2023)<br>
 <strong>note:</strong> top export commodities based on value in dollars over $500,000<br>
 
 **Imports**<br>
-$126 million (2021 est.)<br>
-$133 million (2020 est.)<br>
-$121 million (2019 est.)<br>
-<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
+$310.669 million (2023 est.)<br>
+$274.334 million (2022 est.)<br>
+$263.273 million (2021 est.)<br>
+<strong>note:</strong> GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 USA 35%, China 20%, Japan 13%, Taiwan 6%, Philippines 4% (2023)<br>
@@ -502,7 +494,7 @@ _domestic_: fixed line teledensity roughly 6 per 100 and mobile-cellular nearly 
 _international_: country code - 691; landing points for the Chuukk-Pohnpei Cable and HANTRU-1 submarine cable system linking the Federated States of Micronesia and the US;&nbsp;satellite earth stations - 5 Intelsat (Pacific Ocean) (2019)<br>
 
 **Broadcast media**<br>
-no TV broadcast stations; each state has a multi-channel cable service with TV transmissions carrying roughly 95% imported programming and 5% local programming; about a half-dozen radio stations (2009)<br>
+no TV broadcast stations; each state has a multi-channel cable service with TV transmissions carrying roughly 95% imported programming and 5% local programming; about half a dozen radio stations (2009)<br>
 
 **Internet country code**<br>
 .fm<br>
@@ -522,10 +514,6 @@ V6<br>
 **Airports**<br>
 7 (2025)<br>
 
-**Roadways**<br>
-_total_: 388 km (2022)<br>
-note - paved and unpaved circumferential roads, most interior roads are unpaved<br>
-
 **Merchant marine**<br>
 _total_: 38 (2023)<br>
 _by type_: general cargo 17, oil tanker 4, other 17<br>
@@ -542,7 +530,7 @@ _key ports_: Colonia, Lele Harbor, Moen, Pohnpei Harbor<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no military forces; Federated States of Micronesia National Police (includes a maritime wing); the Department of Justice oversees the National Police; State police forces are responsible for law enforcement in their respective states and are under the jurisdiction of each state&rsquo;s director of public safety (2024)<br>
+no military forces; Federated States of Micronesia National Police (includes a maritime wing) (2025)<br>
 
 **Military - note**<br>
 defense is the responsibility of the US; in 1982, the FSM signed a Compact of Free Association (COFA) with the US, which granted the FSM financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986 and its funding was renewed in 2003; Micronesians can serve in the US armed forces<br><br>the FSM has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within the FSM's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>

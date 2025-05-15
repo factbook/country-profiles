@@ -82,7 +82,7 @@ the population concentrated along the southern and southeastern coast, and inlan
 <p>prolonged droughts</p><p><strong>volcanism:</strong> the volcano forming Marion Island in the Prince Edward Islands, which last erupted in 2004, is South Africa's only active volcano</p><br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> South Africa completely surrounds Lesotho and almost completely surrounds Eswatini<br><br><strong>note 2:</strong> though sometimes mistaken for the southernmost point of Africa, the Cape of Good Hope is more accurately described as the southwestern-most point of the African continent; Cape Agulhas, the meeting point of the Atlantic and Indian Oceans, is the southernmost point of the African continent<br>
+<strong>note 1:</strong> South Africa completely surrounds Lesotho and almost completely surrounds Eswatini<br><br><strong>note 2:</strong> sometimes mistaken for the southernmost point of Africa, the Cape of Good Hope is more accurately described as the southwestern-most point of the African continent; Cape Agulhas, the meeting point of the Atlantic and Indian Oceans, is the southernmost point of the African continent<br>
 
 ## People and Society
 
@@ -113,10 +113,10 @@ _15-64 years_: 65.3% (male 19,524,873/female 19,947,839)<br>
 _65 years and over_: 7.5% (2024 est.) (male 1,911,825/female 2,636,028)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 52.2<br>
-_youth dependency ratio_: 43.9<br>
-_elderly dependency ratio_: 8.4<br>
-_potential support ratio_: 10.9 (2021 est.)<br>
+_total dependency ratio_: 53.1 (2024 est.)<br>
+_youth dependency ratio_: 41.6 (2024 est.)<br>
+_elderly dependency ratio_: 11.5 (2024 est.)<br>
+_potential support ratio_: 8.7 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 30.4 years (2024 est.)<br>
@@ -239,7 +239,7 @@ _female_: 14 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-lack of important arterial rivers or lakes requires extensive water conservation and control measures; growth in water usage outpacing supply; pollution of rivers from agricultural runoff and urban discharge; air pollution resulting in acid rain; deforestation; soil erosion; land degradation; desertification; solid waste pollution; disruption of fragile ecosystem has resulted in significant floral extinctions<br>
+limited freshwater resources due to lack of major rivers or lakes; pollution of rivers from agricultural runoff and urban waste; air pollution resulting in acid rain; deforestation; soil erosion; land degradation; desertification; solid waste pollution; significant floral extinctions<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
@@ -259,9 +259,6 @@ _other_: 6.6% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 68.8% of total population (2023)<br>
 _rate of urbanization_: 1.72% annual rate of change (2020-25 est.)<br>
-
-**Revenue from coal**<br>
-2.4% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 19.75 micrograms per cubic meter (2019 est.)<br>
@@ -306,7 +303,7 @@ parliamentary republic<br>
 _name_: Pretoria (administrative capital); Cape Town (legislative capital); Bloemfontein (judicial capital)<br>
 _geographic coordinates_: 25 42 S, 28 13 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: Pretoria is named in honor of Andries PRETORIUS, the father of voortrekker (pioneer) leader Marthinus PRETORIUS; Cape Town reflects its location on the Cape of Good Hope; Bloemfontein is a combination of the Dutch words <em>bloem</em> (flower) and <em>fontein</em> (fountain) meaning "fountain of flowers"<br>
+_etymology_: Pretoria was named in honor of Boer statesman Andries PRETORIUS in 1855; Cape Town's name refers to its location on the Cape of Good Hope; Bloemfontein was named after the farm on which it was built in 1846, whose name combined the Dutch words <em>bloem</em> (flower) and <em>fontein</em> (fountain)<br>
 
 **Administrative divisions**<br>
 9 provinces; Eastern Cape, Free State, Gauteng, KwaZulu-Natal, Limpopo, Mpumalanga, Northern Cape, North West, Western Cape<br>
@@ -318,7 +315,7 @@ _etymology_: Pretoria is named in honor of Andries PRETORIUS, the father of voor
 Freedom Day, 27 April (1994)<br>
 
 **Legal system**<br>
-mixed legal system of Roman-Dutch civil law, English common law, and customary law<br>
+mixed system of Roman-Dutch civil law, English common law, and customary law<br>
 
 **Constitution**<br>
 _history_: several previous; latest drafted 8 May 1996, approved by the Constitutional Court 4 December 1996, effective 4 February 1997<br>
@@ -439,9 +436,9 @@ $380.699 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-6.07% (2023 est.)<br>
-7.04% (2022 est.)<br>
-4.61% (2021 est.)<br>
+4.4% (2024 est.)<br>
+6.1% (2023 est.)<br>
+7% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -477,19 +474,19 @@ mining (world's largest producer of platinum, gold, chromium), automobile assemb
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-27.137 million (2023 est.)<br>
+27.766 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-27.99% (2023 est.)<br>
-28.84% (2022 est.)<br>
-28.77% (2021 est.)<br>
+33.2% (2024 est.)<br>
+32.1% (2023 est.)<br>
+33.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 49.1% (2023 est.)<br>
-_male_: 45.8% (2023 est.)<br>
-_female_: 53.2% (2023 est.)<br>
+_total_: 60.9% (2024 est.)<br>
+_male_: 57.1% (2024 est.)<br>
+_female_: 65.5% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -521,11 +518,11 @@ _expenditures_: $136.236 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-76.24% of GDP (2022 est.)<br>
+76.2% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-26.01% (of GDP) (2022 est.)<br>
+26% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -563,22 +560,22 @@ refined petroleum, crude petroleum, gold, cars, broadcasting equipment (2023)<br
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$54.912 billion (2024 est.)<br>
 $62.492 billion (2023 est.)<br>
 $60.553 billion (2022 est.)<br>
-$57.597 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$95.555 billion (2023 est.)<br>
+$93.879 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: rand (ZAR) per US dollar -<br>
+18.329 (2024 est.)<br>
 18.45 (2023 est.)<br>
 16.356 (2022 est.)<br>
 14.779 (2021 est.)<br>
 16.459 (2020 est.)<br>
-14.448 (2019 est.)<br>
 
 ## Energy
 
@@ -649,7 +646,7 @@ _domestic_: fixed-line is 2 per 100 persons and mobile-cellular is 167 telephone
 _international_: country code - 27; landing points for the WACS, ACE, SAFE, SAT-3, Equiano, SABR, SAEx1, SAEx2, IOX Cable System, METISS, EASSy, and SEACOM/ Tata TGN-Eurasia&nbsp;fiber-optic submarine cable systems connecting South Africa, East Africa, West Africa, Europe,&nbsp;Southeast Asia, Asia, South America, Indian Ocean Islands,&nbsp;and the&nbsp;US;&nbsp;satellite earth stations - 3 Intelsat (1 Indian Ocean and 2 Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-the South African Broadcasting Corporation (SABC) operates 6 free-to-air TV stations; e.tv, a private station, is accessible to more than half the population; multiple subscription TV services provide a mix of local and international channels; well-developed mix of public and private radio stations at the national, regional, and local levels; the SABC radio network, state-owned and controlled but nominally independent, operates 18 stations, one for each of the 11 official languages, 4 community stations, and 3 commercial stations; more than 100 community-based stations extend coverage to rural areas<br>
+the South African Broadcasting Corporation (SABC) operates 6 free-to-air TV stations; 1 private TV station; multiple subscription TV services with mix of local and international channels; mix of public and private radio stations at the national, regional, and local levels; state-owned SABC radio network has 18 stations, including one for each of the 11 official languages, 4 community stations, and 3 commercial stations; over 100 community stations with rural coverage<br>
 
 **Internet country code**<br>
 .za<br>
@@ -663,12 +660,6 @@ _subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 17 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 243<br>
-_annual passenger traffic on registered air carriers_: 23,921,748 (2018)<br>
-_annual freight traffic on registered air carriers_: 716.25 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 ZS<br>
 
@@ -678,18 +669,10 @@ ZS<br>
 **Heliports**<br>
 49 (2025)<br>
 
-**Pipelines**<br>
-94 km condensate, 1,293 km gas, 992 km oil, 1,460 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 30,400 km (2021)<br>
 _standard gauge_: 80 km (2021) 1.435-m gauge (80 km electrified)<br>
 _narrow gauge_: 19,756 km (2014) 1.065-m gauge (8,271 km electrified)<br>
-
-**Roadways**<br>
-_total_: 750,000 km<br>
-_paved_: 158,124 km<br>
-_unpaved_: 591,876 km (2016)<br>
 
 **Merchant marine**<br>
 _total_: 110 (2023)<br>
@@ -707,8 +690,7 @@ _key ports_: Cape Town, Durban, Mossel Bay, Port Elizabeth, Richards Bay, Saldan
 ## Military and Security
 
 **Military and security forces**<br>
-South African National Defense Force (SANDF): South African Army (includes Reserve Force), South African Navy (SAN), South African Air Force (SAAF), South African Military Health Services<br><br>Ministry of Police: South African Police Service (2024)<br>
-<strong>note:</strong> the South African Police Service includes a Special Task Force for counterterrorism, counterinsurgency, and hostage rescue operations<br>
+South African National Defense Force (SANDF): South African Army (includes Reserve Force), South African Navy (SAN), South African Air Force (SAAF), South African Military Health Services<br><br>Ministry of Police: South African Police Service (2025)<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2023 est.)<br>
@@ -718,7 +700,7 @@ South African National Defense Force (SANDF): South African Army (includes Reser
 1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 73,000 active-duty personnel (40,000 Army; 7,000 Navy; 10,000 Air Force; 8,000 Military Health Service; 8,000 other, including administrative, logistics, military police); 180,000 South African Police Service (2024)<br>
+approximately 65-70,000 active-duty SAF personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SANDF's inventory consists of a mix of domestically produced and foreign-supplied equipment; South Africa's domestic defense industry produced most of the Army's major weapons systems (some were jointly produced with foreign companies), while the Air Force and Navy inventories include a mix of aging European-, Israeli-, and US-origin weapons and equipment; South Africa has one of Africa's leading defense industries (2024)<br>
@@ -728,7 +710,7 @@ the SANDF's inventory consists of a mix of domestically produced and foreign-sup
 <strong>note:</strong> in 2023, women comprised nearly 30% of the military<br>
 
 **Military deployments**<br>
-1,150 Democratic Republic of the Congo (MONUSCO) (2024)<br>
+estimated 3,000 Democratic Republic of the Congo (MONUSCO and Southern African Development Community regional military force) (2025)<br>
 
 **Military - note**<br>
 the SANDF’s primary responsibilities include territorial and maritime defense, supporting the Police Service, protecting key infrastructure, and participating in international peacekeeping missions; the SANDF historically has been one of Africa’s most capable militaries, but in recent years its operational readiness and modernization programs have been widely viewed as hampered by funding shortfalls<br><br>the SANDF participates regularly in African and UN peacekeeping missions and is a member of the Southern Africa Development Community (SADC) Standby Force; in 2021, it sent about 1,500 troops to Mozambique as part of a multinational SADC force to help combat an insurgency, and South African forces have been a key component of the UN’s Force Intervention Brigade in the Democratic Republic of the Congo; in recent years, the SANDF has been deployed internally to assist the Police Service with quelling unrest and assisting with border security<br><br>the SANDF was created in 1994 to replace the South African Defense Force (SADF); the SANDF was opened to all South Africans who met military requirements, while the SADF was a mostly white force (only whites were subject to conscription) with non-whites only allowed to join in a voluntary capacity; the SANDF also absorbed members of the guerrilla and militia forces of the various anti-apartheid opposition groups, including the African National Congress, the Pan Africanist Congress, and the Inkatha Freedom Party, as well as the security forces of the formerly independent Bantustan homelands (2024)<br>

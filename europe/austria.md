@@ -108,10 +108,10 @@ _15-64 years_: 64.7% (male 2,904,587/female 2,898,339)<br>
 _65 years and over_: 21.2% (2024 est.) (male 839,672/female 1,060,411)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 51.1<br>
-_youth dependency ratio_: 21.7<br>
-_elderly dependency ratio_: 29.4<br>
-_potential support ratio_: 3.4 (2021 est.)<br>
+_total dependency ratio_: 53.4 (2024 est.)<br>
+_youth dependency ratio_: 21.7 (2024 est.)<br>
+_elderly dependency ratio_: 31.7 (2024 est.)<br>
+_potential support ratio_: 3.2 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 44.9 years (2024 est.)<br>
@@ -235,7 +235,7 @@ _female_: 16 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-some forest degradation caused by air and soil pollution; soil pollution results from the use of agricultural chemicals; air pollution results from emissions by coal- and oil-fired power stations and industrial plants and from trucks transiting Austria between northern and southern Europe; water pollution; the Danube, as well as some of Austria’s other rivers and lakes, are threatened by pollution<br>
+some forest degradation from air and soil pollution; soil pollution from agricultural chemicals; air pollution from coal- and oil-fired power stations and industrial plants, and from trucks transiting Austria; water pollution<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -255,12 +255,6 @@ _other_: 21.3% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 59.5% of total population (2023)<br>
 _rate of urbanization_: 0.68% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.07% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 11.51 micrograms per cubic meter (2019 est.)<br>
@@ -310,7 +304,7 @@ _name_: Vienna<br>
 _geographic coordinates_: 48 12 N, 16 22 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the origin of the name is disputed but may derive from early Celtic settlements of the area; a plausible reconstructed Celtic name from several centuries B.C. is Vedunia (meaning "forest stream"), which in Old High German became <em>uuenia</em> (<em>wenia</em>), and later w<em>ien </em>(its current German form) in New High German; another possibility is that the name stems from the Roman settlement Vindobona, established around 15 B.C., and its Celtic-derived name (likely from the Celtic <em>windo</em>, meaning "white, fair, or bright" and <em>bona</em> meaning "base, fortification, or settlement" to give a connotation of "white settlement" or "white fort"); archeological remains of the latter survive at many sites in the center of Vienna<br>
+_etymology_: the name may have evolved from the Roman name Vindobona, which was taken from the Celtic words <em>vindo </em>(white) and <em>bona </em>(fort)<br>
 
 **Administrative divisions**<br>
 9 states (Bundeslaender, singular - Bundesland); Burgenland, Kaernten (Carinthia), Niederoesterreich (Lower Austria), Oberoesterreich (Upper Austria), Salzburg, Steiermark (Styria), Tirol (Tyrol), Vorarlberg, Wien (Vienna)<br>
@@ -322,7 +316,7 @@ no official date of independence: 976 (Margravate of Austria established); 17 Se
 National Day (commemorates passage of the law on permanent neutrality), 26 October (1955)<br>
 
 **Legal system**<br>
-civil law system; judicial review of legislative acts by the Constitutional Court<br>
+civil law system; Constitutional Court reviews legislative acts<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 1 October 1920, revised 1929, replaced May 1934, replaced by German Weimar constitution in 1938 following German annexation, reinstated 1 May 1945<br>
@@ -438,9 +432,9 @@ $511.685 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-7.81% (2023 est.)<br>
-8.55% (2022 est.)<br>
-2.77% (2021 est.)<br>
+2.9% (2024 est.)<br>
+7.8% (2023 est.)<br>
+8.5% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -476,19 +470,19 @@ construction, machinery, vehicles and parts, food, metals, chemicals, lumber and
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.829 million (2023 est.)<br>
+4.738 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.24% (2023 est.)<br>
-4.99% (2022 est.)<br>
-6.46% (2021 est.)<br>
+5.4% (2024 est.)<br>
+5.3% (2023 est.)<br>
+5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.9% (2023 est.)<br>
-_male_: 10.6% (2023 est.)<br>
-_female_: 11.3% (2023 est.)<br>
+_total_: 11.7% (2024 est.)<br>
+_male_: 11.4% (2024 est.)<br>
+_female_: 12% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -520,23 +514,23 @@ _expenditures_: $225.52 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-74.92% of GDP (2022 est.)<br>
+78.3% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-26.19% (of GDP) (2022 est.)<br>
+25.9% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$12.642 billion (2024 est.)<br>
 $6.783 billion (2023 est.)<br>
 -$3.911 billion (2022 est.)<br>
-$8.244 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$299.366 billion (2024 est.)<br>
 $303.914 billion (2023 est.)<br>
 $291.804 billion (2022 est.)<br>
-$269.392 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -548,9 +542,9 @@ cars, packaged medicine, vaccines, vehicle parts/accessories, nitrogen compounds
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$284.467 billion (2024 est.)<br>
 $293.692 billion (2023 est.)<br>
 $294.324 billion (2022 est.)<br>
-$265.604 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -562,18 +556,18 @@ cars, garments, vaccines, vehicle parts/accessories, refined petroleum (2023)<br
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$11.919 billion (2024 est.)<br>
 $31.212 billion (2023 est.)<br>
 $33.078 billion (2022 est.)<br>
-$33.957 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 
 ## Energy
 
@@ -631,12 +625,12 @@ _total subscriptions_: 11.1 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 123 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: mature telecom market; the mobile market benefits from a growing number of Mobile Virtual Network Operators; the telcos as well as the government and regulator have been focused on delivering improved telecom infrastructure; the government has a program to provide a national gigabit service by 2030, delivered by private enterprise though with some state funding; this is based on fiber networks supported by 5G, with the Mobile Network Operators able to expand the reach of their 5G services following auctions held in March 2019 and September 2020; the fixed-line broadband market is still dominated by the DSL sector, while the cable broadband sector has held a steady share of connections in recent years; the fiber sector was slow to develop, and although fiber remains low there are plans to build out the network infrastructure (2021)<br>
+_general assessment_: mature telecom market; the mobile market benefits from a growing number of MVNOs; focus on delivering improved telecom infrastructure; the government has a program to provide a national gigabit service by 2030, delivered by private enterprise with some state funding; this is based on fiber networks supported by 5G, with the MNOs able to expand the reach of their 5G services after auctions held in 2019 and 2020; the fixed-line broadband market is still dominated by the DSL sector, while the cable broadband sector has held a steady share of connections in recent years; the fiber sector was slow to develop, and although fiber remains low there are plans to build out the network infrastructure (2021)<br>
 _domestic_: developed and efficient; 43 per 100 fixed telephone subscriptions; 122 per 100 mobile-cellular subscriptions (2021)<br>
 _international_: country code - 43; earth stations available in the Astra, Intelsat, Eutelsat satellite systems (2019)<br>
 
 **Broadcast media**<br>
-<p class="ssrcss-1q0x1qg-Paragraph e1jhz7w10">Austria's public broadcaster, Oesterreichischer Rundfunk (ORF), is a major player in the TV and radio markets, it faces competition from private broadcasters, cable or satellite TV is available in most homes and is often used to watch German stations, some of which carry programs for Austrian viewers, a daily newspaper is a must for many Austrians, national and regional titles contest fiercely for readers, the print media are owned by a handful of mostly Austrian and German media groups</p> (2023)<br>
+<p class="ssrcss-1q0x1qg-Paragraph e1jhz7w10">public broadcaster, Oesterreichischer Rundfunk (ORF), is a major player in the TV and radio markets; private broadcasters, cable, and satellite TV are available in most homes are widely used; some German stations carry programs for Austrian viewers; national and regional newspapers compete fiercely for readers; the print media are owned by a handful of mostly Austrian and German media groups</p> (2023)<br>
 
 **Internet country code**<br>
 .at<br>
@@ -653,12 +647,6 @@ _subscriptions per 100 inhabitants_: 30 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 11 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 130<br>
-_annual passenger traffic on registered air carriers_: 12,935,505 (2018)<br>
-_annual freight traffic on registered air carriers_: 373.51 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 OE<br>
 
@@ -668,17 +656,8 @@ OE<br>
 **Heliports**<br>
 112 (2025)<br>
 
-**Pipelines**<br>
-1,888 km gas, 594 km oil, 157 km refined products (2017)<br>
-
 **Railways**<br>
 _total_: 6,123 km (2022) 3,523 km electrified<br>
-
-**Roadways**<br>
-_total_: 126,233 km (2022)<br>
-
-**Waterways**<br>
-358 km (2011)<br>
 
 **Merchant marine**<br>
 _total_: 1 (2023)<br>

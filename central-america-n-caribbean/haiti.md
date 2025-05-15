@@ -101,10 +101,10 @@ _15-64 years_: 65.3% (male 3,787,782/female 3,887,791)<br>
 _65 years and over_: 4.2% (2024 est.) (male 214,600/female 279,499)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 58.3<br>
-_youth dependency ratio_: 51.2<br>
-_elderly dependency ratio_: 7.1<br>
-_potential support ratio_: 14.1 (2021 est.)<br>
+_total dependency ratio_: 53.1 (2024 est.)<br>
+_youth dependency ratio_: 46.7 (2024 est.)<br>
+_elderly dependency ratio_: 6.4 (2024 est.)<br>
+_potential support ratio_: 15.5 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 25 years (2024 est.)<br>
@@ -229,7 +229,7 @@ _female_: 58.3% (2016)<br>
 ## Environment
 
 **Environment - current issues**<br>
-extensive deforestation (much of the remaining forested land is being cleared for agriculture and used as fuel); soil erosion; overpopulation leads to inadequate supplies of potable water and a lack of sanitation; natural disasters<br>
+deforestation (trees cleared for agriculture and used as fuel); soil erosion; inadequate potable water and lack of sanitation; natural disasters<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Ozone Layer Protection<br>
@@ -252,12 +252,6 @@ _rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to high food prices, natural disasters, and worsening civil insecurity - </em>about 4.9 million people are estimated to face severe acute food insecurity and were in need of urgent food assistance between March and June 2023; the high levels of food insecurity are the result of sustained economic downturn, reducing domestic food production, elevated food prices, fuel shortage and frequent natural disasters; the situation is exacerbated by worsening insecurity, which has limited access to essential services, including markets, caused population displacements and hampered delivery of humanitarian assistance (2023)<br>
-
-**Revenue from forest resources**<br>
-0.68% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 9.69 micrograms per cubic meter (2019 est.)<br>
@@ -292,7 +286,7 @@ _name_: Port-au-Prince<br>
 _geographic coordinates_: 18 32 N, 72 20 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday in November<br>
-_etymology_: according to tradition, in 1706, a Captain de Saint-Andre named the bay and its surrounding area after his ship Le Prince; the name of the town that grew there means, "the Port of The Prince"<br>
+_etymology_: the name means "the port of the prince" and probably came from a ship called The Prince that anchored in the bay in the early 18th century<br>
 
 **Administrative divisions**<br>
 10 departments (d&eacute;partements, singular - d&eacute;partement); Artibonite, Centre, Grand'Anse, Nippes, Nord, Nord-Est, Nord-Ouest, Ouest, Sud, Sud-Est<br>
@@ -429,9 +423,9 @@ $19.851 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-36.81% (2023 est.)<br>
-33.98% (2022 est.)<br>
-16.84% (2021 est.)<br>
+36.8% (2023 est.)<br>
+34% (2022 est.)<br>
+16.8% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -461,19 +455,19 @@ textiles, sugar refining, flour milling, cement, light assembly using imported p
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.216 million (2023 est.)<br>
+5.281 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-14.62% (2023 est.)<br>
-14.72% (2022 est.)<br>
-15.25% (2021 est.)<br>
+15.1% (2024 est.)<br>
+14.6% (2023 est.)<br>
+14.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 36.8% (2023 est.)<br>
-_male_: 29.1% (2023 est.)<br>
-_female_: 46.6% (2023 est.)<br>
+_total_: 37.5% (2024 est.)<br>
+_male_: 30% (2024 est.)<br>
+_female_: 47.1% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
@@ -527,22 +521,22 @@ refined petroleum, rice, garments, cotton fabric, plastic products (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$2.566 billion (2024 est.)<br>
 $2.586 billion (2023 est.)<br>
 $2.173 billion (2022 est.)<br>
-$2.457 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$2.13 billion (2023 est.)<br>
+$1.865 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: gourdes (HTG) per US dollar -<br>
+131.811 (2024 est.)<br>
 141.036 (2023 est.)<br>
 115.631 (2022 est.)<br>
 89.227 (2021 est.)<br>
 93.51 (2020 est.)<br>
-88.815 (2019 est.)<br>
 
 ## Energy
 
@@ -595,7 +589,7 @@ _domestic_: fixed-line is less than 1 per 100; mobile-cellular teledensity is ne
 _international_: country code - 509; landing points for the BDSNi and Fibralink submarine cables to 14 points in the Bahamas and Dominican Republic; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-<p>per 2019 data released by Haitian telecommunications regulator CONATEL (Conseil National des Télécommunications), there are 398 legal sound broadcasting stations on the territory, including about 60 community radio stations, and 7 radio stations on the AM band; the FM band in Haiti is oversaturated by 158 percent; most radio stations broadcast 17 to 19 hours a day; there are 105 television stations operating in Haiti, including 36 TV stations in Port- au- Prince, 41 others in the provinces, and more than 40 radio-television stations; a large number of broadcasting stations operate irregularly and some stations operate with technical parameters that do not comply with established standards, thus causing harmful interference to existing telecommunications systems; VOA Creole Service broadcasts daily on 30 affiliate stations</p> (2019)<br>
+<p>398 legal broadcasting stations, including about 60 community radio stations; 105 TV stations, including 36 in Port-au-Prince, 41 others in the provinces, and more than 40 radio-television stations; large number of stations operate irregularly or flout regulations; VOA Creole Service broadcasts daily on 30 affiliate stations</p> (2019)<br>
 
 **Internet country code**<br>
 .ht<br>
@@ -609,10 +603,6 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 1<br>
-
 **Civil aircraft registration country code prefix**<br>
 HH<br>
 
@@ -621,9 +611,6 @@ HH<br>
 
 **Heliports**<br>
 2 (2025)<br>
-
-**Roadways**<br>
-_total_: 3,875 km (2022)<br>
 
 **Merchant marine**<br>
 _total_: 4 (2023)<br>
@@ -645,7 +632,7 @@ the Haitian Armed Forces (FAdH): Army<br><br>Ministry of Justice and Public Secu
 <strong>note:</strong> the PNH is responsible for maintaining public security; it includes police, corrections, fire, emergency response, airport security, port security, and coast guard functions; its units include a presidential guard and a paramilitary rapid-response Motorized Intervention Unit or BIM  <p class="gmail-css-axufdj"> </p><br>
 
 **Military and security service personnel strengths**<br>
-up to 2,000 trained military troops (the force is planned to eventually have around 5,000 personnel); estimates for the National Police range from a low of 9,000 to a high of about 13,000 (2024)<br>
+estimates vary; up to 2,000 trained military personnel (the force is planned to eventually have around 5,000 personnel); estimates for the National Police range from a low of 9,000 to a high of about 13,000 (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 in recent years, Canada, Taiwan, the US, and the UAE have provide some equipment to the Haitian security forces, including vehicles (2024)<br>

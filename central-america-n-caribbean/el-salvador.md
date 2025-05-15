@@ -99,10 +99,10 @@ _15-64 years_: 66.3% (male 2,077,745/female 2,317,416)<br>
 _65 years and over_: 8.4% (2024 est.) (male 238,658/female 320,400)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 51.3<br>
-_youth dependency ratio_: 39<br>
-_elderly dependency ratio_: 12.3<br>
-_potential support ratio_: 8.1 (2021 est.)<br>
+_total dependency ratio_: 47.6 (2024 est.)<br>
+_youth dependency ratio_: 35 (2024 est.)<br>
+_elderly dependency ratio_: 12.5 (2024 est.)<br>
+_potential support ratio_: 8 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 29.7 years (2024 est.)<br>
@@ -252,12 +252,6 @@ _other_: 14.5% (2022 est.)<br>
 _urban population_: 75.4% of total population (2023)<br>
 _rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-0.6% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 22.15 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 7.17 megatons (2016 est.)<br>
@@ -290,7 +284,7 @@ presidential republic<br>
 _name_: San Salvador<br>
 _geographic coordinates_: 13 42 N, 89 12 W<br>
 _time difference_: UTC-6 (1 hour behind Washington, DC, during Standard Time)<br>
-_etymology_: Spanish for "Holy Savior" (referring to Jesus Christ)<br>
+_etymology_: Spanish colonists founded the city in 1526 on the feast day of the Transfiguration of the Savior (Jesus Christ), and the name means "Holy Savior" in Spanish<br>
 
 **Administrative divisions**<br>
 14 departments (departamentos, singular - departamento); Ahuachapan, Cabanas, Chalatenango, Cuscatlan, La Libertad, La Paz, La Union, Morazan, San Miguel, San Salvador, San Vicente, Santa Ana, Sonsonate, Usulutan<br>
@@ -302,7 +296,7 @@ _etymology_: Spanish for "Holy Savior" (referring to Jesus Christ)<br>
 Independence Day, 15 September (1821)<br>
 
 **Legal system**<br>
-civil law system with minor common law influence; judicial review of legislative acts in the Supreme Court<br>
+civil law system with minor common law influence; Supreme Court reviews legislative acts<br>
 
 **Constitution**<br>
 _history_: many previous; latest drafted 16 December 1983, enacted 23 December 1983<br>
@@ -411,9 +405,9 @@ $34.016 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.05% (2023 est.)<br>
+0.9% (2024 est.)<br>
+4% (2023 est.)<br>
 7.2% (2022 est.)<br>
-3.47% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -449,19 +443,19 @@ food processing, beverages, petroleum, chemicals, fertilizer, textiles, furnitur
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.839 million (2023 est.)<br>
+2.89 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.76% (2023 est.)<br>
+2.8% (2024 est.)<br>
+3% (2023 est.)<br>
 3% (2022 est.)<br>
-4.33% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.2% (2023 est.)<br>
-_male_: 5.3% (2023 est.)<br>
-_female_: 10.8% (2023 est.)<br>
+_total_: 6.7% (2024 est.)<br>
+_male_: 5.2% (2024 est.)<br>
+_female_: 9.5% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -497,7 +491,7 @@ _expenditures_: $9.371 billion (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-20.61% (of GDP) (2023 est.)<br>
+20.6% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -535,13 +529,13 @@ refined petroleum, natural gas, garments, packaged medicine, plastics (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.426 billion (2021 est.)<br>
-$3.083 billion (2020 est.)<br>
-$4.446 billion (2019 est.)<br>
+$3.59 billion (2024 est.)<br>
+$3.079 billion (2023 est.)<br>
+$2.695 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$13.076 billion (2023 est.)<br>
+$12.668 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -604,7 +598,7 @@ _domestic_: fixed-line services, roughly 14 per 100, mobile-cellular competition
 _international_: country code - 503; satellite earth station - 1 Intelsat (Atlantic Ocean); connected to Central American Microwave System (2019)<br>
 
 **Broadcast media**<br>
-multiple privately owned national terrestrial TV networks, supplemented by cable TV networks that carry international channels; hundreds of commercial radio broadcast stations and two known government-owned radio broadcast station; transition to digital transmission to begin in 2018 along with adaptation of the Japanese-Brazilian Digital Standard (ISDB-T) (2022)<br>
+multiple privately owned national terrestrial TV networks, supplemented by cable TV networks that carry international channels; hundreds of commercial radio stations and 2 government-owned radio stations; transition to digital transmission was set to begin in 2018, along with adoption of the Japanese-Brazilian Digital Standard (ISDB-T) (2022)<br>
 
 **Internet country code**<br>
 .sv<br>
@@ -618,12 +612,6 @@ _subscriptions per 100 inhabitants_: 11 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 13<br>
-_annual passenger traffic on registered air carriers_: 2,545,105 (2018)<br>
-_annual freight traffic on registered air carriers_: 10.73 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 YS<br>
 
@@ -633,14 +621,6 @@ YS<br>
 **Railways**<br>
 _total_: 12.5 km (2014)<br>
 _narrow gauge_: 12.5 km (2014) 0.914-mm gauge<br>
-
-**Roadways**<br>
-_total_: 9,012 km<br>
-_paved_: 5,341 km<br>
-_unpaved_: 3,671 km (2017)<br>
-
-**Waterways**<br>
-422 km (2022) (Rio Lempa River is partially navigable by small craft)<br>
 
 **Merchant marine**<br>
 _total_: 5 (2023)<br>
@@ -668,7 +648,7 @@ The Armed Forces of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of
 1.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 25,000 active military personnel (21,000 Army; 2,000 Navy; 2,000 Air Force) (2024)<br>
+approximately 25,000 active military personnel (2025)<br>
 <strong>note:</strong> El Salvador has pledged to increase the size of the military to 40,000 troops by 2026<br>
 
 **Military equipment inventories and acquisitions**<br>

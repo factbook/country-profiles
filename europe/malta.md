@@ -97,10 +97,10 @@ _15-64 years_: 62.4% (male 151,836/female 141,248)<br>
 _65 years and over_: 23.1% (2024 est.) (male 50,153/female 58,278)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 47.1<br>
-_youth dependency ratio_: 19.3<br>
-_elderly dependency ratio_: 27.7<br>
-_potential support ratio_: 3.6 (2021 est.)<br>
+_total dependency ratio_: 53.7 (2024 est.)<br>
+_youth dependency ratio_: 21.4 (2024 est.)<br>
+_elderly dependency ratio_: 32.4 (2024 est.)<br>
+_potential support ratio_: 3.1 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 43.5 years (2024 est.)<br>
@@ -158,9 +158,6 @@ _female_: 85.8 years<br>
 
 **Gross reproduction rate**<br>
 0.74 (2024 est.)<br>
-
-**Contraceptive prevalence rate**<br>
-NA<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -225,7 +222,7 @@ _female_: 18 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-limited natural freshwater resources; increasing reliance on desalination; deforestation; wildlife preservation<br>
+limited natural freshwater resources; deforestation; wildlife preservation<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
@@ -245,12 +242,6 @@ _other_: 71.2% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 94.9% of total population (2023)<br>
 _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 12.93 micrograms per cubic meter (2019 est.)<br>
@@ -287,7 +278,7 @@ _name_: Valletta<br>
 _geographic coordinates_: 35 53 N, 14 30 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: named in honor of Jean de VALETTE, the Grand Master of the Order of Saint John (crusader knights), who successfully led a defense of the island from an Ottoman invasion in 1565<br>
+_etymology_: named in honor of Jean Parizot de la VALETTE, the Grand Master of the Order of Saint John (crusader knights), who founded the city in 1566<br>
 
 **Administrative divisions**<br>
 68 localities (Il-lokalita); Attard, Balzan, Birgu, Birkirkara, Birzebbuga, Bormla, Dingli, Fgura, Floriana, Fontana, Ghajnsielem, Gharb, Gharghur, Ghasri, Ghaxaq, Gudja, Gzira, Hamrun, Iklin, Imdina, Imgarr, Imqabba, Imsida, Imtarfa, Isla, Kalkara, Kercem, Kirkop, Lija, Luqa, Marsa, Marsaskala, Marsaxlokk, Mellieha, Mosta, Munxar, Nadur, Naxxar, Paola, Pembroke, Pieta, Qala, Qormi, Qrendi, Rabat, Rabat (Ghawdex), Safi, San Giljan/Saint Julian, San Gwann/Saint John, San Lawrenz/Saint Lawrence, Sannat, San Pawl il-Bahar/Saint Paul's Bay, Santa Lucija/Saint Lucia, Santa Venera/Saint Venera, Siggiewi, Sliema, Swieqi, Tarxien, Ta' Xbiex, Valletta, Xaghra, Xewkija, Xghajra, Zabbar, Zebbug, Zebbug (Ghawdex), Zejtun, Zurrieq<br>
@@ -299,7 +290,7 @@ _etymology_: named in honor of Jean de VALETTE, the Grand Master of the Order of
 Independence Day, 21 September (1964); Republic Day, 13 December (1974)<br>
 
 **Legal system**<br>
-mixed legal system of English common law and civil law based on the Roman and Napoleonic civil codes; subject to European Union law<br>
+mixed system of English common law and civil law based on the Roman and Napoleonic civil codes; subject to European Union law<br>
 
 **Constitution**<br>
 _history_: many previous; latest adopted 21 September 1964<br>
@@ -404,8 +395,8 @@ $22.329 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-5.09% (2023 est.)<br>
-6.15% (2022 est.)<br>
+5.1% (2023 est.)<br>
+6.2% (2022 est.)<br>
 1.5% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
@@ -442,19 +433,19 @@ tourism, electronics, ship building and repair, construction, food and beverages
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-313,000 (2023 est.)<br>
+309,600 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.13% (2023 est.)<br>
-2.93% (2022 est.)<br>
-3.4% (2021 est.)<br>
+2.7% (2024 est.)<br>
+3.1% (2023 est.)<br>
+2.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.3% (2023 est.)<br>
-_male_: 13.8% (2023 est.)<br>
-_female_: 4.3% (2023 est.)<br>
+_total_: 7.8% (2024 est.)<br>
+_male_: 9.6% (2024 est.)<br>
+_female_: 5.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -486,7 +477,7 @@ _expenditures_: $6.922 billion (2022 est.)<br>
 <strong>note:</strong> Malta reports public debt at nominal value outstanding at the end of the year, according to guidelines set out in the Maastricht Treaty for general government gross debt; the data include the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); general government comprises the central, state, and local governments, and social security funds<br>
 
 **Taxes and other revenues**<br>
-22.34% (of GDP) (2022 est.)<br>
+21.8% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -524,18 +515,18 @@ ships, refined petroleum, integrated circuits, aircraft, packaged medicine (2023
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$1.402 billion (2024 est.)<br>
 $1.223 billion (2023 est.)<br>
 $1.199 billion (2022 est.)<br>
-$1.149 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 
 ## Energy
 
@@ -589,7 +580,7 @@ _domestic_: fixed-line approximately 49 per 100&nbsp; persons and mobile-cellula
 _international_: country code - 356; landing points for the Malta-Gozo Cable, VMSCS, GO-1 Mediterranean Cable System, Malta Italy Interconnector, Melita-1, and the Italy-Malta submarine cable connections to Italy; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-2 publicly owned TV stations, Television Malta broadcasting nationally plus an educational channel; several privately owned national television stations, 2 of which are owned by political parties; Italian and British broadcast programs are available; multi-channel cable and satellite TV services are available; publicly owned radio broadcaster operates 3 stations; roughly 20 commercial radio stations (2019)<br>
+2 publicly owned TV stations, Television Malta and an educational channel; several privately owned national television stations, 2 of which are owned by political parties; Italian and British broadcast programs are available; multi-channel cable and satellite TV services are available; publicly owned radio broadcaster operates 3 stations; roughly 20 commercial radio stations (2019)<br>
 
 **Internet country code**<br>
 .mt<br>
@@ -603,12 +594,6 @@ _subscriptions per 100 inhabitants_: 44 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 13 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 180<br>
-_annual passenger traffic on registered air carriers_: 2,576,898 (2018)<br>
-_annual freight traffic on registered air carriers_: 5.14 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 9H<br>
 
@@ -617,9 +602,6 @@ _annual freight traffic on registered air carriers_: 5.14 million (2018) mt-km<b
 
 **Heliports**<br>
 2 (2025)<br>
-
-**Roadways**<br>
-_total_: 2,855 km (2021)<br>
 
 **Merchant marine**<br>
 _total_: 1,957 (2023)<br>
@@ -637,7 +619,7 @@ _key ports_: Marsaxlokk, Valletta Harbors<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Armed Forces of Malta (AFM) is a joint force with land, maritime, and air elements, plus a Volunteer Reserve Force (2024)<br>
+the Armed Forces of Malta (AFM): Land Component (combat, combat support, and combat service support divided into three regiments), Maritime Squadron, Air Wing; Volunteer Reserve Force (2025)<br>
 <strong>note:</strong> the Malta Police Force maintains internal security; both the Police and the AFM report to the Ministry of Home Affairs, National Security, and Law Enforcement<br>
 
 **Military expenditures**<br>
@@ -657,7 +639,7 @@ the military has a small inventory that consists of equipment from a mix of Euro
 18-30 years of age for men and women for voluntary military service; no conscription (2024)<br>
 
 **Military - note**<br>
-the Armed Forces of Malta (AFM) are responsible for external security but also have some domestic security responsibilities; the AFM’s primary roles include maintaining the country’s sovereignty and territorial integrity, monitoring and policing its territorial waters, participating in overseas peacekeeping and stability operations, and providing search and rescue and explosive ordnance disposal capabilities; secondary missions include assisting civil authorities during emergencies, supporting the police and other security services, and providing ceremonial and other public support duties<br><br>Malta maintains a security policy of neutrality but contributes to EU and UN military missions and joined NATO’s Partnership for Peace program in 1995 (suspended in 1996, but reactivated in 2008); it also participates in various bilateral and multinational military exercises; Malta cooperates closely with Italy on defense matters; in 1973, Italy established a military mission in Malta to provide advice, training, and search and rescue assistance (2024)<br>
+the Armed Forces of Malta (AFM) are responsible for external security but also have some domestic security responsibilities; the AFM’s primary roles include maintaining the country’s sovereignty and territorial integrity, monitoring and policing its territorial waters, participating in overseas peacekeeping and stability operations, and providing search and rescue and explosive ordnance disposal capabilities; secondary missions include assisting civil authorities during emergencies, supporting the police and other security services, and providing ceremonial and other public support duties<br><br>Malta maintains a security policy of neutrality but contributes to EU, Organization for the Security and Cooperation (OSCE), and UN military missions and joined NATO’s Partnership for Peace program in 1995 (suspended in 1996, but reactivated in 2008); it also participates in various bilateral and multinational military exercises; Malta cooperates closely with Italy on defense matters; in 1973, Italy established a military mission in Malta to provide advice, training, and search and rescue assistance (2025)<br>
 
 ## Transnational Issues
 

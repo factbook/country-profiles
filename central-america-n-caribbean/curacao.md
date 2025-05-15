@@ -94,10 +94,10 @@ _15-64 years_: 62.3% (male 47,258/female 48,217)<br>
 _65 years and over_: 18.5% (2024 est.) (male 11,428/female 16,980)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 47<br>
-_youth dependency ratio_: 25.6<br>
-_elderly dependency ratio_: 21.4<br>
-_potential support ratio_: 4.7 (2021 est.)<br>
+_total dependency ratio_: 60.6 (2024 est.)<br>
+_youth dependency ratio_: 30.8 (2024 est.)<br>
+_elderly dependency ratio_: 29.8 (2024 est.)<br>
+_potential support ratio_: 3.4 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 37.8 years (2024 est.)<br>
@@ -180,7 +180,7 @@ _female_: 18 years (2013)<br>
 ## Environment
 
 **Environment - current issues**<br>
-<p>problems in waste management that threaten environmental sustainability on the island include pollution of marine areas from domestic sewage, inadequate sewage treatment facilities, industrial effluents and agricultural runoff, the mismanagement of toxic substances, and ineffective regulations; the refinery in Sint Anna Bay, at the eastern edge of Willemstad’s large natural harbor, processes heavy crude oil from Venezuela; it has caused significant environmental damage to the surrounding area because of neglect and a lack of strict environmental controls; the release of noxious fumes and potentially hazardous particles causes schools downwind to regularly close</p><br>
+<p>waste management, including pollution of marine areas from domestic sewage, inadequate sewage treatment facilities, industrial effluents, agricultural runoff, mismanagement of toxic substances, and ineffective regulations; damage from neglect and a lack of controls at major refinery</p><br>
 
 **Climate**<br>
 <p>tropical marine climate, ameliorated by northeast trade winds, results in mild temperatures; semiarid with average rainfall of 60 cm/year</p><br>
@@ -194,12 +194,6 @@ _other_: 99.8% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 89% of total population (2023)<br>
 _rate of urbanization_: 0.57% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _carbon dioxide emissions_: 5.39 megatons (2016 est.)<br>
@@ -226,13 +220,13 @@ _etymology_: the origin of the name is disputed; many historians now agree that 
 <p>parliamentary democracy</p><br>
 
 **Dependency status**<br>
-<p>constituent country within the Kingdom of the Netherlands; full autonomy in internal affairs granted in 2010; Dutch Government responsible for defense and foreign affairs</p><br>
+<p>constituent country of the Kingdom of the Netherlands; full autonomy in internal affairs granted in 2010; Dutch government responsible for defense and foreign affairs</p><br>
 
 **Capital**<br>
 _name_: Willemstad<br>
 _geographic coordinates_: 12 06 N, 68 55 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named after Prince WILLIAM II of Orange (1626-1650), who served as stadtholder (Dutch head of state) from 1647 to 1650, shortly after the the Dutch captured Curacao from the Spanish in 1634<br>
+_etymology_: the name means "William's Town" in Dutch; named after Prince WILLEM of Orange (1533-84), the first stadtholder of the United Provinces of the Netherlands&nbsp;<br>
 
 **Administrative divisions**<br>
 <p>none (part of the Kingdom of the Netherlands)</p><br>
@@ -339,9 +333,9 @@ $3.281 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-2.62% (2019 est.)<br>
-2.58% (2018 est.)<br>
-1.59% (2017 est.)<br>
+2.6% (2019 est.)<br>
+2.6% (2018 est.)<br>
+1.6% (2017 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -416,11 +410,11 @@ refined petroleum, cars, garments, plastic products, packaged medicine (2023)<br
 
 **Exchange rates**<br>
 _Currency_: Netherlands Antillean guilders (ANG) per US dollar -<br>
+1.79 (2024 est.)<br>
 1.79 (2023 est.)<br>
 1.79 (2022 est.)<br>
 1.79 (2021 est.)<br>
 1.79 (2020 est.)<br>
-1.79 (2019 est.)<br>
 
 ## Energy
 
@@ -457,18 +451,11 @@ _subscriptions per 100 inhabitants_: 33 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 11<br>
-
 **Civil aircraft registration country code prefix**<br>
 PJ<br>
 
 **Airports**<br>
 1 (2025)<br>
-
-**Roadways**<br>
-_total_: 550 km<br>
 
 **Merchant marine**<br>
 _total_: 57 (2023)<br>

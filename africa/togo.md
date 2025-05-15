@@ -72,7 +72,7 @@ one of the more densely populated African nations with most of the population re
 hot, dry harmattan wind can reduce visibility in north during winter; periodic droughts<br>
 
 **Geography - note**<br>
-the country's length allows it to stretch through six distinct geographic regions; climate varies from tropical to savanna<br>
+stretches through six distinct geographic regions; climate varies from tropical to savanna<br>
 
 ## People and Society
 
@@ -101,10 +101,10 @@ _15-64 years_: 57% (male 2,486,142/female 2,597,914)<br>
 _65 years and over_: 4.3% (2024 est.) (male 159,596/female 225,725)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 76.5<br>
-_youth dependency ratio_: 71<br>
-_elderly dependency ratio_: 5.5<br>
-_potential support ratio_: 18.3 (2021 est.)<br>
+_total dependency ratio_: 75.4 (2024 est.)<br>
+_youth dependency ratio_: 67.8 (2024 est.)<br>
+_elderly dependency ratio_: 7.6 (2024 est.)<br>
+_potential support ratio_: 13.2 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 20.7 years (2024 est.)<br>
@@ -234,7 +234,7 @@ _female_: 12 years (2017)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation attributable to slash-and-burn agriculture and the use of wood for fuel; very little rain forest still present and what remains is highly degraded; desertification; water pollution presents health hazards and hinders the fishing industry; air pollution increasing in urban areas<br>
+deforestation from slash-and-burn agriculture and the use of wood for fuel; very little rainforest still present and what remains is highly degraded; desertification; water pollution; air pollution in urban areas<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -254,12 +254,6 @@ _other_: 7.6% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 44.5% of total population (2023)<br>
 _rate of urbanization_: 3.6% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-3.96% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 35.66 micrograms per cubic meter (2019 est.)<br>
@@ -290,7 +284,7 @@ _conventional short form_: Togo<br>
 _local long form_: R&eacute;publique Togolaise<br>
 _local short form_: none<br>
 _former_: French Togoland<br>
-_etymology_: derived from the Ewe words "to" (river) and "godo" (on the other side) to give the sense of "on the other side of the river"; originally, this designation applied to the town of Togodo (now Togoville) on the northern shore of Lake Togo, but the name was eventually extended to the entire nation<br>
+_etymology_: the name derives from the town of Togodo (now Togoville) on the northern shore of Lake Togo; the town's name probably comes from the lake's name, which is composed of the Ewe words <em>to </em>("water") and <em>go </em>("shore")<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -299,7 +293,7 @@ presidential republic<br>
 _name_: Lome<br>
 _geographic coordinates_: 6 07 N, 1 13 E<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: Lome comes from "alotime" which in the native Ewe language means "among the alo plants"; alo trees dominated the city's original founding site<br>
+_etymology_: the name comes from a local word meaning "little market"<br>
 
 **Administrative divisions**<br>
 5 regions (regions, singular - region); Centrale, Kara, Maritime, Plateaux, Savanes<br>
@@ -330,10 +324,10 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Faure GNASSINGBE (since 4 May 2005)<br>
-_head of government_: Prime Minister Victoire TOMEGAH Dogb&eacute; (since 25 September 2020)<br>
-_cabinet_: Council of Ministers appointed by the president on the advice of the prime minister<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 22 February 2020 (next to be held in 2025); prime minister appointed by the president<br>note- on 21 May 2024 the Prime Minister and her cabinet resigned. The President requested they continue serving during the government transition.<br>
+_chief of state_: President Jean-Lucien Kwassi Savi de TOVE (since 3 May 2025)<br>
+_head of government_: President of Council of Ministers Faure GNASSINGBE (since 3 May 2025)<br>
+_cabinet_: Council of Ministers appointed by the president on the advice of the president of the council of ministers<br>
+_elections/appointments_: president is appointed by the national assembly for one six-year term<br>the president of the council of ministers is the leader of the majority party in the national assembly and is confirmed by the Constitutional Court with no term limits <br>note- on 6 May 2024 the President signed into law changes to the constitution converting the presidential system to a parliamentary republic and creating the President of Council of Ministers position<br>
 _election results_: <br><em>2020:</em> Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 70.8%, Agbeyome KODJO (MPDD) 19.5%, Jean-Pierre FABRE (ANC) 4.7%, other 5%<br><br><em>2015:</em> Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 58.8%, Jean-Pierre FABRE (ANC) 35.2%, Tchaboure GOGUE (ADDI) 4%, other 2% <p> </p><br>
 
 **Legislative branch**<br>
@@ -432,9 +426,9 @@ $9.171 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-7.97% (2022 est.)<br>
-4.19% (2021 est.)<br>
-1.7% (2020 est.)<br>
+5.5% (2023 est.)<br>
+8% (2022 est.)<br>
+4.2% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -469,19 +463,19 @@ phosphate mining, agricultural processing, cement, handicrafts, textiles, bevera
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.241 million (2023 est.)<br>
+3.345 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.05% (2023 est.)<br>
-2.07% (2022 est.)<br>
-2.29% (2021 est.)<br>
+1.9% (2024 est.)<br>
+1.9% (2023 est.)<br>
+2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.3% (2023 est.)<br>
-_male_: 4.1% (2023 est.)<br>
-_female_: 2.6% (2023 est.)<br>
+_total_: 3.4% (2024 est.)<br>
+_male_: 3.3% (2024 est.)<br>
+_female_: 3.5% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -512,7 +506,7 @@ _expenditures_: $1.32 billion (2022 est.)<br>
 75.7% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-14.19% (of GDP) (2022 est.)<br>
+14.8% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -554,16 +548,16 @@ $77.8 million (2017 est.)<br>
 $42.6 million (2016 est.)<br>
 
 **Debt - external**<br>
-$2.111 billion (2023 est.)<br>
+$1.923 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+606.345 (2024 est.)<br>
 606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
-585.911 (2019 est.)<br>
 
 ## Energy
 
@@ -621,7 +615,7 @@ _domestic_: fixed-line less than 1 per 100 and mobile-cellular is 74 telephones 
 _international_: country code - 228; landing point for the WACS submarine cable, linking countries along the west coast of Africa with each other and with Portugal; satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Symphonie (2020)<br>
 
 **Broadcast media**<br>
-1&nbsp;state-owned TV station with multiple transmission sites; five private TV stations broadcast locally; cable TV service is available; state-owned radio network with two stations (in Lome and Kara); several dozen private radio stations and a few community radio stations; transmissions of multiple international broadcasters available (2019)<br>
+1 state-owned TV station with multiple transmission sites; five private local TV stations; cable TV available; state-owned radio network with two stations; several dozen private radio stations and a few community radio stations; transmissions of multiple international broadcasters available (2019)<br>
 
 **Internet country code**<br>
 .tg<br>
@@ -635,33 +629,15 @@ _subscriptions per 100 inhabitants_: 1 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 8<br>
-_annual passenger traffic on registered air carriers_: 566,295 (2018)<br>
-_annual freight traffic on registered air carriers_: 10.89 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 5V<br>
 
 **Airports**<br>
 7 (2025)<br>
 
-**Pipelines**<br>
-62 km gas<br>
-
 **Railways**<br>
 _total_: 568 km (2014)<br>
 _narrow gauge_: 568 km (2014) 1.000-m gauge<br>
-
-**Roadways**<br>
-_total_: 9,951 km<br>
-_paved_: 1,794 km<br>
-_unpaved_: 8,157 km<br>
-_urban_: 1,783 km (2018)<br>
-
-**Waterways**<br>
-50 km (2011) (seasonally navigable by small craft on the Mono River depending on rainfall)<br>
 
 **Merchant marine**<br>
 _total_: 397 (2023)<br>
@@ -679,8 +655,8 @@ _key ports_: Kpeme, Lome<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army (l'Armee de Terre), Togolese Navy (Forces Naval Togolaises), Togolese Air Force (Armee de l’Air), National Gendarmerie (Gendarmerie Nationale Togolaise or GNT)<br><br>Ministry of Security and Civil Protection: National Police Directorate (Direction de la Police Nationale) (2024)<br>
-<strong>note:</strong> the Police Directorate and GNT are responsible for law enforcement and maintenance of order within the country; the GNT is also responsible for migration and border enforcement; the GNT falls under the Ministry of the Armed Forces but also reports to the Ministry of Security and Civil Protection on many matters involving law enforcement and internal security; in 2022, the Ministry of the Armed Forces was made part of the Office of the Presidency<br>
+Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army, Togolese Navy, Togolese Air Force, National Gendarmerie (Gendarmerie Nationale Togolaise or GNT)<br><br>Ministry of Security and Civil Protection: Togolese Police (2025)<br>
+<strong>note:</strong> the Police and GNT are responsible for law enforcement and maintenance of order within the country; the GNT is also responsible for migration and border enforcement; the GNT falls under the Ministry of the Armed Forces but also reports to the Ministry of Security and Civil Protection on many matters involving law enforcement and internal security; in 2022, the Ministry of the Armed Forces was made part of the Office of the Presidency<br>
 
 **Military expenditures**<br>
 2.2% of GDP (2023 est.)<br>
@@ -690,8 +666,7 @@ Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army (l'Armee de 
 2.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 15,000 active-duty personnel, including approximately 3,000 Gendarmerie (2023)<br>
-<strong>note:</strong> in January 2022, the Togolese Government announced its intent to boost the size of the FAT to more than 20,000 by 2025<br>
+estimated 15-20,000 active Armed Forces personnel, including Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAT has a small inventory of mostly older equipment originating from a variety of countries, including Brazil, Russia/former Soviet Union, Turkey, the US, and some European nations, particularly France (2024)<br>

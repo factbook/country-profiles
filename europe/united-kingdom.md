@@ -71,12 +71,12 @@ the core of the population lies in and around London, with significant clusters 
 winter windstorms; floods<br>
 
 **Geography - note**<br>
-lies near vital North Atlantic sea lanes; only 35 km from France and linked by tunnel under the English Channel (the Channel Tunnel or Chunnel); because of heavily indented coastline, no location is more than 125 km from tidal waters<br>
+lies near vital North Atlantic sea lanes; only 35 km (22 mi) from France and linked by tunnel under the English Channel (the Channel Tunnel or Chunnel); because of heavily indented coastline, no location is more than 125 km (78 mi) from tidal waters<br>
 
 ## People and Society
 
 **Population**<br>
-_total_: 68,459,055 (2024 est.) United Kingdom<br>
+_total_: 68,459,055 (2024 est.)<br>
 _male_: 34,005,445<br>
 _female_: 34,453,610<br>
 
@@ -100,10 +100,10 @@ _15-64 years_: 63.9% (male 22,062,643/female 21,702,401)<br>
 _65 years and over_: 19.3% (2024 est.) (male 6,069,865/female 7,158,544)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 57.7<br>
-_youth dependency ratio_: 27.8<br>
-_elderly dependency ratio_: 29.8<br>
-_potential support ratio_: 3.4 (2021 est.)<br>
+_total dependency ratio_: 56.4 (2024 est.)<br>
+_youth dependency ratio_: 26.2 (2024 est.)<br>
+_elderly dependency ratio_: 30.2 (2024 est.)<br>
+_potential support ratio_: 3.3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 40.8 years (2024 est.)<br>
@@ -231,7 +231,7 @@ _female_: 18 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution improved but remains a concern, particularly in the London region; soil pollution from pesticides and heavy metals; decline in marine and coastal habitats brought on by pressures from housing, tourism, and industry<br>
+air pollution in the London region; soil pollution from pesticides and heavy metals; decline in marine and coastal habitats from housing, tourism, and industry<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -251,12 +251,6 @@ _other_: 17.2% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 84.6% of total population (2023)<br>
 _rate of urbanization_: 0.8% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.01% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 9.52 micrograms per cubic meter (2019 est.)<br>
@@ -286,7 +280,7 @@ _global geoparks and regional networks_: Black Country; Cuilcagh Lakelands (incl
 _conventional long form_: United Kingdom of Great Britain and Northern Ireland; note - the island of Great Britain includes England, Scotland, and Wales<br>
 _conventional short form_: United Kingdom<br>
 _abbreviation_: UK<br>
-_etymology_: self-descriptive country name; the designation "Great Britain," in the sense of "Larger Britain," dates back to medieval times and was used to distinguish the island from "Little Britain," or Brittany in modern France; the name Ireland derives from the Gaelic "Eriu," the matron goddess of Ireland (goddess of the land)<br>
+_etymology_: the name United Kingdom is self-descriptive; the name Britain probably derives from the Celtic word <em>pretani</em>, meaning "painted people;" the designation of Great Britain for England, Scotland, and Wales dates back to medieval times and was used to distinguish the island from Little Britain, or Brittany, in modern France; the name Ireland evolved from the Gaelic name Eriu, which is possibly derived from the Old Celtic <em>iveriu</em>, meaning "good land"<br>
 
 **Government type**<br>
 parliamentary constitutional monarchy; a Commonwealth realm<br>
@@ -355,9 +349,6 @@ _expected date of next election_: July 2029<br>
 **Legislative branch - upper chamber**<br>
 _chamber name_: House of Lords<br>
 _number of seats_: 800 (all appointed)<br>
-_scope of elections_: Full renewal<br>
-_most recent election date_: 4/13/2015 to 4/16/2015<br>
-_parties elected and seats per party_: National Congress Party (NCP) (323); Others (44); Democratic Unionist Party (25); Other (34)<br>
 _percentage of women in chamber_: 31%<br>
 <strong>note: </strong>the number of total seats in the House of Lords does not include ineligible members or members on leave of absence<br>
 
@@ -432,9 +423,9 @@ $3.381 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-6.79% (2023 est.)<br>
-7.92% (2022 est.)<br>
-2.52% (2021 est.)<br>
+3.3% (2024 est.)<br>
+6.8% (2023 est.)<br>
+7.9% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -470,19 +461,19 @@ machine tools, electric power equipment, automation equipment, railroad equipmen
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-35.193 million (2023 est.)<br>
+35.126 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.06% (2023 est.)<br>
-3.73% (2022 est.)<br>
-4.83% (2021 est.)<br>
+4.1% (2024 est.)<br>
+4% (2023 est.)<br>
+3.7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.5% (2023 est.)<br>
-_male_: 14.5% (2023 est.)<br>
-_female_: 10.5% (2023 est.)<br>
+_total_: 12.4% (2024 est.)<br>
+_male_: 14.9% (2024 est.)<br>
+_female_: 9.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -514,21 +505,21 @@ _expenditures_: $1.291 trillion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-138.19% of GDP (2023 est.)<br>
+138.2% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-27.32% (of GDP) (2023 est.)<br>
+27.3% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$66.448 billion (2023 est.)<br>
+-$74.863 billion (2023 est.)<br>
 -$70.962 billion (2022 est.)<br>
 -$13.852 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$1.071 trillion (2023 est.)<br>
+$1.05 trillion (2023 est.)<br>
 $1.041 trillion (2022 est.)<br>
 $916.573 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -542,7 +533,7 @@ cars, gold, gas turbines, packaged medicine, crude petroleum (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$1.09 trillion (2023 est.)<br>
+$1.076 trillion (2023 est.)<br>
 $1.1 trillion (2022 est.)<br>
 $923.549 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -556,18 +547,18 @@ cars, gold, crude petroleum, refined petroleum, natural gas (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$148.569 billion (2024 est.)<br>
 $177.915 billion (2023 est.)<br>
 $176.41 billion (2022 est.)<br>
-$194.181 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: British pounds (GBP) per US dollar -<br>
+0.782 (2024 est.)<br>
 0.805 (2023 est.)<br>
 0.811 (2022 est.)<br>
 0.727 (2021 est.)<br>
 0.78 (2020 est.)<br>
-0.783 (2019 est.)<br>
 
 ## Energy
 
@@ -642,7 +633,7 @@ _domestic_: fixed-line is 48 per 100 and mobile-cellular is 120 per 100 (2021)<b
 _international_: country code - 44;&nbsp;Landing points for the GTT Atlantic, Scotland-Northern Ireland -1, &amp; -2, Lanis 1,-2, &amp;-3, Sirius North, BT-MT-1, SHEFA-2, BT Highlands and Islands Submarine Cable System, Northern Lights, FARICE-1, Celtic Norse, Tampnet Offshore FOC Network, England Cable, CC-2, E-LLan, Sirius South, ESAT -1 &amp; -2, Rockabill, Geo-Eirgrid, UK-Netherlands-14, Circle North &amp; South, Ulysses2, Conceto, Farland North, Pan European Crossing,&nbsp;Solas, Swansea-Bream, GTT Express, Tata TGN-Atlantic &amp; -Western Europe, Apollo, EIG, Glo-1, TAT-14, Yellow, Celtic,&nbsp;FLAG Atlantic-1, FEA, Isle of Scilly Cable, UK-Channel Islands-8 and SeaMeWe-3&nbsp;submarine cables providing links throughout Europe, Asia, Africa, the Middle East, Southeast Asia, Australia,&nbsp;and US; satellite earth stations - 10 Intelsat (7 Atlantic Ocean and 3 Indian Ocean), 1 Inmarsat (Atlantic Ocean region), and 1 Eutelsat; at least 8 large international switching centers (2019)<br>
 
 **Broadcast media**<br>
-public service broadcaster, British Broadcasting Corporation (BBC), is the largest broadcasting corporation in the world; BBC operates multiple TV networks with regional and local TV service; a mixed system of public and commercial TV broadcasters along with satellite and cable systems provide access to hundreds of TV stations throughout the world; BBC operates multiple national, regional, and local radio networks with multiple transmission sites; a large number of commercial radio stations, as well as satellite radio services are available (2018)<br>
+public-service British Broadcasting Corporation (BBC) is the largest broadcasting company in the world; BBC operates multiple TV networks with regional and local TV; mixed system of public and commercial TV broadcasters along with satellite and cable systems provide access to hundreds of international TV stations; BBC operates multiple national, regional, and local radio networks with multiple transmission sites; large number of commercial and satellite radio stations available (2018)<br>
 
 **Internet country code**<br>
 .uk<br>
@@ -659,12 +650,6 @@ _subscriptions per 100 inhabitants_: 41 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 20 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 794<br>
-_annual passenger traffic on registered air carriers_: 165,388,610 (2018)<br>
-_annual freight traffic on registered air carriers_: 6,198,370,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 G<br>
 
@@ -674,17 +659,8 @@ G<br>
 **Heliports**<br>
 139 (2025)<br>
 
-**Pipelines**<br>
-502 km condensate, 9 km condensate/gas, 28,603 km gas, 59 km liquid petroleum gas, 5,256 km oil, 175 km oil/gas/water, 4,919 km refined products, 255 km water (2013)<br>
-
 **Railways**<br>
 _total_: 16,390 km (2020) 6,167 km electrified<br>
-
-**Roadways**<br>
-_total_: 416,461 km (2022)<br>
-
-**Waterways**<br>
-3,200 km (2009) (620 km used for commerce)<br>
 
 **Merchant marine**<br>
 _total_: 868 (2023)<br>
@@ -702,12 +678,12 @@ _ports with oil terminals_: 67<br>
 _key ports_: Aberdeen, Barrow-in-Furness, Barry, Belfast, Blyth, Bristol, Cardiff, Dundee, Falmouth Harbour, Glasgow, Greenock, Grimsby, Immingham, Kingston-upon-Hull, Leith, Lerwick, Liverpool, London, Londonderry, Lyness, Manchester, Milford Haven, Newport, Peterhead, Plymouth, Portland Harbour, Portsmouth Harbour, Southampton, Sunderland, Teesport, Tynemouth<br>
 
 **Transportation - note**<br>
-begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) is a 50.5-km (31.4-mi) rail tunnel beneath the English Channel at the Strait of Dover that runs from Folkestone, Kent, England to Coquelles, Pas-de-Calais in northern France; it is the only fixed link between the island of Great Britain and mainland Europe<br>
+begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) is a 50.5-km (31.4-mi) rail tunnel under the English Channel at the Strait of Dover; it runs from Folkestone, Kent, in England to Coquelles, Pas-de-Calais, in northern France and is the only fixed link between the island of Great Britain and mainland Europe<br>
 
 ## Military and Security
 
 **Military and security forces**<br>
-United Kingdom Armed Forces (aka British Armed Forces, aka His Majesty's Armed Forces): British Army, Royal Navy (includes Royal Marines), Royal Air Force (2024)<br>
+United Kingdom Armed Forces (aka British Armed Forces, aka His Majesty's Armed Forces): British Army, Royal Navy (includes Royal Marines), Royal Air Force (2025)<br>
 
 **Military expenditures**<br>
 2.3% of GDP (2024 est.)<br>
@@ -721,7 +697,7 @@ approximately 138,000 Regular Forces (75,000 Army including the Gurkhas; 32,000 
 <strong>note: </strong>the military also maintains approximately 40-45,000 reserves and other personnel on active duty<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the British military is comprised mostly of domestically produced weapons and equipment, with a smaller mix of some imported Western weapons systems, particularly from the US; the UK defense industry is capable of producing a wide variety of air, land, and sea weapons systems and is one of the world's top weapons suppliers; it also cooperates with other European countries and the US in the research and development of weapons systems (2024)<br>
+the inventory of the British military is comprised mostly of domestically produced weapons and equipment, with a smaller mix of some imported Western weapons systems, particularly from the US; the UK defense industry is capable of producing a wide variety of air, land, and sea weapons systems and is one of the world's top weapons suppliers; it also cooperates with other European countries and the US in the research and development of weapons systems (2025)<br>
 
 **Military service age and obligation**<br>
 some variations by service, but generally 16-36 years of age for enlisted (with parental consent under 18) and 18-29 for officers; minimum length of service 4 years; women serve in all military services including combat roles; conscription abolished in 1963 (2024)<br>
@@ -731,7 +707,7 @@ some variations by service, but generally 16-36 years of age for enlisted (with 
 the British military has more than 8,000 personnel on permanent or long-term rotational deployments around the globe in support of NATO, UN, or other commitments and agreements; key deployments include approximately 1,000 in Brunei, approximately 2,500 in Cyprus (includes 250 for UNFICYP), approximately 900-1,000 in Estonia (NATO), over 1,000 in the Falkland Islands, 500-600 in Gibraltar, and more than 1,000 in the Middle East; its air and naval forces conduct missions on a global basis; the British military also participates in large scale NATO exercises, including providing some 16,000 personnel for the 6-month 2024 Steadfast Defender exercise (2024)<br>
 
 **Military - note**<br>
-the British military has a long history, a global presence, and a wide range of missions and responsibilities; these responsibilities include protecting the UK, its territories, national interests, and values, preventing conflict, providing humanitarian assistance, participating in international peacekeeping, building relationships, and fulfilling the UK’s alliance and treaty commitments; in addition to its role in the UN, the UK is a leading member of NATO and has made considerable military contributions to NATO missions in such places as Afghanistan, the Baltics, and Iraq, as well the Baltic and Mediterranean seas and the waters of the North Atlantic<br><br>the UK is a member of the Five Power Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; in 2014, the UK led the formation of the Joint Expeditionary Force (JEF), a pool of high-readiness military forces from the Baltic and Scandinavian countries intended to respond to a wide range of contingencies both in peacetime and in times of crisis or conflict; the UK military also has strong bilateral ties with a variety of foreign militaries, particularly the US, with which it has a mutual defense treaty; British and US military forces have routinely operated side-by-side across a wide range of operations; other close military relationships include Australia, France, Germany, and the Netherlands; in 2010, for example, France and the UK signed a declaration on defense and security cooperation that included greater military interoperability and a Combined Joint Expeditionary Force (CJEF), a deployable, combined Anglo-French military force for use in a wide range of crisis scenarios, up to and including high intensity combat operations<br><br>the British Armed Forces were formed in 1707 as the armed forces of the Kingdom of Great Britain when England and Scotland merged under the terms of the Treaty of Union; while the origins of the armed forces of England and Scotland stretch back to the Middle Ages, the first standing armies for England and Scotland were organized in the 1600s while the navies were formed in the 1500s; the Royal Marines were established in 1755; the Royal Air Force was created in April 1918 by the merger of the British Army's Royal Flying Corps and the Admiralty's Royal Naval Air Service (2024)<br>
+the British military has a long history, a global presence, and a wide range of missions and responsibilities; these responsibilities include protecting the UK, its dependencies and territories, national interests, and values, preventing conflict, providing humanitarian assistance, participating in international peacekeeping, building relationships, and fulfilling the UK’s alliance and treaty commitments; in addition to its role in the UN, the UK is a leading member of NATO and has made considerable military contributions to NATO missions in such places as Afghanistan, the Baltics, and Iraq, as well the Baltic and Mediterranean seas and the waters of the North Atlantic<br><br>the UK is a member of the Five Power Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; in 2014, the UK led the formation of the Joint Expeditionary Force (JEF), a pool of high-readiness military forces from the Baltic and Scandinavian countries intended to respond to a wide range of contingencies both in peacetime and in times of crisis or conflict; the UK military also has strong bilateral ties with a variety of foreign militaries, particularly the US, with which it has a mutual defense treaty; British and US military forces have routinely operated side-by-side across a wide range of operations; other close military relationships include Australia, France, Germany, and the Netherlands; in 2010, for example, France and the UK signed a declaration on defense and security cooperation that included greater military interoperability and a Combined Joint Expeditionary Force (CJEF), a deployable, combined Anglo-French military force for use in a wide range of crisis scenarios, up to and including high intensity combat operations<br><br>the British Armed Forces were formed in 1707 as the armed forces of the Kingdom of Great Britain when England and Scotland merged under the terms of the Treaty of Union; while the origins of the armed forces of England and Scotland stretch back to the Middle Ages, the first standing armies for England and Scotland were organized in the 1600s while the navies were formed in the 1500s; the Royal Marines were established in 1755; the Royal Air Force was created in April 1918 by the merger of the British Army's Royal Flying Corps and the Admiralty's Royal Naval Air Service (2024)<br>
 
 ## Space
 

@@ -102,10 +102,10 @@ _15-64 years_: 85.4% (male 1,767,294/female 411,977)<br>
 _65 years and over_: 1.5% (2024 est.) (male 24,997/female 13,071)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 20.7<br>
-_youth dependency ratio_: 16.1<br>
-_elderly dependency ratio_: 2<br>
-_potential support ratio_: 50.1 (2021 est.)<br>
+_total dependency ratio_: 17.1 (2024 est.)<br>
+_youth dependency ratio_: 15.4 (2024 est.)<br>
+_elderly dependency ratio_: 1.7 (2024 est.)<br>
+_potential support ratio_: 57.2 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 34.3 years (2024 est.)<br>
@@ -226,7 +226,7 @@ _female_: 15 years (2021)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air, land, and water pollution are significant environmental issues; limited natural freshwater resources are increasing dependence on large-scale desalination facilities; other issues include conservation of oil supplies and preservation of the natural wildlife heritage<br>
+air, land, and water pollution; limited natural freshwater resources; limited conservation of oil and wildlife&nbsp;<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution<br>
@@ -246,12 +246,6 @@ _other_: 93.6% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 99.4% of total population (2023)<br>
 _rate of urbanization_: 1.66% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 59.04 micrograms per cubic meter (2019 est.)<br>
@@ -291,7 +285,7 @@ absolute monarchy<br>
 _name_: Doha<br>
 _geographic coordinates_: 25 17 N, 51 32 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: derives from the Arabic term "dohat," meaning "roundness," and refers to the small rounded bays along the area's coastline<br>
+_etymology_: the name is derived from the Arabic <em>ad-dawha</em>, meaning "the big tree," and probably referred to a large tree at the site of the original fishing village<br>
 
 **Administrative divisions**<br>
 8 municipalities (baladiyat, singular - baladiyah); Ad Dawhah, Al Khawr wa adh Dhakhirah, Al Wakrah, Ar Rayyan, Ash Shamal, Ash Shihaniyah, Az Za'ayin, Umm Salal<br>
@@ -303,7 +297,7 @@ _etymology_: derives from the Arabic term "dohat," meaning "roundness," and refe
 National Day, 18 December (1878), anniversary of Al Thani family accession to the throne; Independence Day, 3 September (1971)<br>
 
 **Legal system**<br>
-mixed legal system of civil law and Islamic (sharia) law (in family and personal matters)<br>
+mixed system of civil law and Islamic (sharia) law (in family and personal matters)<br>
 
 **Constitution**<br>
 _history_: previous 1972 (provisional); latest drafted 2 July 2002, approved by referendum 29 April 2003, endorsed 8 June 2004, effective 9 June 2005<br>
@@ -384,7 +378,7 @@ _selected World Heritage Site locales_: Al Zubarah Archaeological Site<br>
 ## Economy
 
 **Economic overview**<br>
-high-income, oil-and-gas-based Middle Eastern economy; National Vision 2030 government strategy for economic development, diversification, favorable business conditions to grow investment and employment; infrastructure investments; Islamic finance leader; citizenship-based labor force growth<br>
+<p>high-income, oil-and-gas-based Middle Eastern economy; implementing “National Vision 2030” government strategy for economic development, diversification, and favorable business conditions to boost investment and employment; expansion of LNG sector expected to boost growth; Islamic finance leader</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $308.522 billion (2023 est.)<br>
@@ -409,9 +403,9 @@ $213.003 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-3.03% (2023 est.)<br>
+1.3% (2024 est.)<br>
+3% (2023 est.)<br>
 5% (2022 est.)<br>
-2.3% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -447,19 +441,19 @@ liquefied natural gas, crude oil production and refining, ammonia, fertilizer, p
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.003 million (2023 est.)<br>
+2.024 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-0.13% (2023 est.)<br>
-0.13% (2022 est.)<br>
-0.14% (2021 est.)<br>
+0.1% (2024 est.)<br>
+0.1% (2023 est.)<br>
+0.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 0.6% (2023 est.)<br>
-_male_: 0.3% (2023 est.)<br>
-_female_: 1.5% (2023 est.)<br>
+_total_: 0.4% (2024 est.)<br>
+_male_: 0.1% (2024 est.)<br>
+_female_: 1.2% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -524,18 +518,18 @@ gas turbines, cars, aircraft, iron pipes, ships (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$44.692 billion (2024 est.)<br>
 $51.539 billion (2023 est.)<br>
 $47.389 billion (2022 est.)<br>
-$42.213 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Qatari rials (QAR) per US dollar -<br>
+3.64 (2024 est.)<br>
 3.64 (2023 est.)<br>
 3.64 (2022 est.)<br>
 3.64 (2021 est.)<br>
 3.64 (2020 est.)<br>
-3.64 (2019 est.)<br>
 
 ## Energy
 
@@ -591,7 +585,7 @@ _domestic_: fixed-line is 17 per 100 and mobile-cellular telephone subscribershi
 _international_: country code - 974; landing points for the&nbsp;Qatar-UAE Submarine&nbsp;Cable&nbsp;System, AAE-1, FOG, GBICS/East North Africa MENA and the FALCON submarine cable network that provides links to Asia, Africa, the Middle East, Europe and Southeast Asia; tropospheric scatter to Bahrain; microwave radio relay to Saudi Arabia and the UAE; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean) and 1 Arabsat; retains full ownership of two commercial satellites, Es'hailSat 1 and 2 (2019)<br>
 
 **Broadcast media**<br>
-TV and radio broadcast licensing and access to local media markets are state controlled; home of the satellite TV channel Al-Jazeera, which was originally owned and financed by the Qatari government but has evolved to independent corporate status; Al-Jazeera claims editorial independence in broadcasting; local radio transmissions include state, private, and international broadcasters on FM frequencies in Doha; in August 2013, Qatar's satellite company Es'hailSat launched its first communications satellite Es'hail 1 (manufactured in the US), which entered commercial service in December 2013 to provide improved television broadcasting capability and expand availability of voice and Internet; Es'hailSat launched its second commercial satellite in 2018 with aid of SpaceX (2019)<br>
+state-controlled TV and radio licensing and access to local media markets; home of satellite TV channel Al-Jazeera, which was originally&nbsp; state-owned but is now independent; local radio includes state, private, and international broadcasters on FM frequencies; satellite TV available (2019)<br>
 
 **Internet country code**<br>
 .qa<br>
@@ -605,12 +599,6 @@ _subscriptions per 100 inhabitants_: 12 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 3 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 251<br>
-_annual passenger traffic on registered air carriers_: 29,178,923 (2018)<br>
-_annual freight traffic on registered air carriers_: 12,666,710,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 A7<br>
 
@@ -619,12 +607,6 @@ A7<br>
 
 **Heliports**<br>
 12 (2025)<br>
-
-**Pipelines**<br>
-288 km condensate, 221 km condensate/gas, 2,383 km gas, 90 km liquid petroleum gas, 745 km oil, 103 km refined products (2013)<br>
-
-**Roadways**<br>
-_total_: 7,039 km (2016)<br>
 
 **Merchant marine**<br>
 _total_: 123 (2023)<br>
@@ -642,8 +624,7 @@ _key ports_: Al Rayyan Terminal, Al Shaheen Terminal, Doha, Jazirat Halul, Ras L
 ## Military and Security
 
 **Military and security forces**<br>
-Qatar Armed Forces (QAF): Qatari Amiri Land Force (QALF, includes Emiri Guard), Qatari Amiri Navy (QAN, includes Coast Guard), Qatari Amiri Air Force (QAAF)<br><br>Ministry of Interior: General Directorate of Public Security, General Directorate of Coasts and Border Security, Internal Security Forces (includes Mobile Gendarmerie) (2024)<br>
-<strong>note:</strong> the national police and Ministry of Interior forces maintain internal security, including preventing terrorism, cyberattacks, and espionage<br>
+Qatar Armed Forces (QAF): Qatari Amiri Land Force (QALF, includes Emiri Guard), Qatari Amiri Navy (QAN, includes Coast Guard), Qatari Amiri Air Force (QAAF)<br><br>Ministry of Interior: General Directorate of Public Security, General Directorate of Coasts and Border Security, Internal Security Force (ISF or Lekhwiya) (2025)<br>
 
 **Military expenditures**<br>
 4% of GDP (2023 est.)<br>
@@ -653,7 +634,7 @@ Qatar Armed Forces (QAF): Qatari Amiri Land Force (QALF, includes Emiri Guard), 
 3.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 15,000 active-duty personnel (10,000 Land Force, including Emiri Guard; 3,000 Navy; 2,000 Air Force) (2023)<br>
+approximately 15,000 active-duty QAF personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Qatari military's inventory includes a broad mix of older and modern weapons systems, mostly from the US and Europe; in the 2010s, Qatar embarked on a military expansion and modernization program with large air, ground, and naval equipment purchases; in recent years, major suppliers have included France, Germany, Italy, the UK, and the US; Qatar is one of the world's largest arms importers (2024)<br>
@@ -663,7 +644,7 @@ conscription for men aged 18-35 introduced in 2013; compulsory service times ran
 <strong>note:</strong> the military incorporates about 2,000 conscripts annually and recruits foreign contract soldiers to overcome manpower limitations<br>
 
 **Military - note**<br>
-Qatar's military is a small and well-equipped force that is responsible for defense against external threats; following the downturn in ties with Bahrain, Egypt, Saudi Arabia, and the UAE in the mid-2010s, the Qatari Government embarked on an arms acquisition and modernization program to increase the military's capabilities and regional standing; the Air Force's inventory of combat aircraft, for example, grew from 12 older models in 2017 to more than 60 modern multirole fighter aircraft from Europe and the US by the 2020s; it is slated to further increase to about 100 such aircraft; other aircraft acquisitions have included US attack helicopters; the Land Force has re-equipped its armored, mechanized, and artillery units with modern tanks, armored vehicles, and self-propelled artillery, mostly with purchases from Germany and Turkey; meanwhile, the Navy over the same period has received several corvettes and offshore patrol vessels from Italy and Turkey<br><br>Qatar hosts the regional headquarters for the US Central Command (CENTCOM; established 1983) and several thousand US military forces at various military facilities, including the Al Udeid Air Base; it has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; Qatar also has close security ties with Turkey and hosts Turkish military forces at two bases established in 2014 and 2019 (2024)<br>
+Qatar's military is a small and well-equipped force that is responsible for defense against external threats; following the downturn in ties with Bahrain, Egypt, Saudi Arabia, and the UAE in the mid-2010s, the Qatari Government embarked on an arms acquisition and modernization program to increase the military's capabilities and regional standing; the Air Force's inventory of combat aircraft, for example, grew from 12 older models in 2017 to more than 60 modern multirole fighter aircraft from Europe and the US by the 2020s; it is slated to further increase to about 100 such aircraft; other aircraft acquisitions have included US attack helicopters; the Land Force has re-equipped its armored, mechanized, and artillery units with modern tanks, armored vehicles, and self-propelled artillery, mostly with purchases from Germany and Turkey; meanwhile, the Navy over the same period has received several corvettes and offshore patrol vessels from Italy and Turkey<br><br>Qatar hosts the regional headquarters for the US Central Command (CENTCOM; established 1983) and several thousand US military forces at various military facilities, including the Al Udeid Air Base; it has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; Qatar also has close security ties with Turkey and hosts Turkish military forces at two bases established in 2014 and 2019; the Qatari military is part of the Peninsula Shield Forces, a joint military force established by the Gulf Cooperation Council (GCC) countries with the aim of maintaining security and stability in the region (2024)<br>
 
 ## Terrorism
 

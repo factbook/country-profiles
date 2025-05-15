@@ -60,18 +60,18 @@ _other_: 100% (2018 est.)<br>
 subject to occasional typhoons<br>
 
 **Geography - note**<br>
-strategic location in the North Pacific Ocean; emergency landing location for transpacific flights<br>
+strategic location in the North Pacific Ocean<br>
 
 ## People and Society
 
 **Population**<br>
-_total_: (2018 est.) no indigenous inhabitants<br>
-<strong>note:</strong> approximately 100 military personnel and civilian contractors maintain and operate the airfield and communications facilities<br>
+_total_: no permanent inhabitants<br>
+<strong>note:</strong> personnel maintain and operate the airfield and weather station<br>
 
 ## Environment
 
 **Environment - current issues**<br>
-potable water obtained through a catchment rainwater system and a desalinization plant for brackish ground water; hazardous wastes moved to an accumulation site for storage and eventual transport off site via barge<br>
+limited potable water; hazardous waste disposal<br>
 
 **Climate**<br>
 tropical<br>
@@ -85,10 +85,10 @@ _other_: 100% (2018 est.)<br>
 **Country name**<br>
 _conventional long form_: none<br>
 _conventional short form_: Wake Island<br>
-_etymology_: although first discovered by British Captain William WAKE in 1792, the island is named after British Captain Samuel WAKE, who rediscovered the island in 1796<br>
+_etymology_: the name comes from one of two explorers who sighted the islands in the late 1700s; British Captain William WAKE visited in 1792, as did his relative, British Captain Samuel WAKE, in 1796, and sources disagree on which captain claimed the honor of naming the island<br>
 
 **Dependency status**<br>
-unincorporated unorganized territory of the US; administered from Washington, DC, by the Department of the Interior; activities in the atoll are currently conducted by the 11th US Air Force and managed from Pacific Air Force Support Center<br>
+unincorporated, unorganized territory of the US; administered by the Department of the Interior; the 11th US Air Force currently conducts activities on the atoll, and it is managed from Pacific Air Force Support Center<br>
 
 **Independence**<br>
 none (territory of the US)<br>
@@ -122,7 +122,7 @@ _from petroleum and other liquids_: 1.214 million metric tonnes of CO2 (2023 est
 _general assessment_: satellite communications; 2 Defense Switched Network circuits off the Overseas Telephone System (OTS); located in the Hawaii area code - 808 (2018) (2018)<br>
 
 **Broadcast media**<br>
-American Armed Forces Radio and Television Service (AFRTS) provides satellite radio/TV broadcasts (2018)<br>
+US Armed Forces Radio and Television Service (AFRTS) provides satellite radio/TV broadcasts (2018)<br>
 
 ## Transportation
 
@@ -138,13 +138,10 @@ _very small_: 1<br>
 _ports with oil terminals_: 1<br>
 _key ports_: Wake Island<br>
 
-**Transportation - note**<br>
-there are no commercial or civilian flights to and from Wake Island, except in direct support of island missions; emergency landing is available<br>
-
 ## Military and Security
 
 **Military - note**<br>
-defense is the responsibility of the US; the island serves as a trans-Pacific refueling stop for military aircraft and supports US Missile Defense Agency (MDA) testing activities; the US Air Force is responsible for overall administration and operation of the island facilities while the launch support facility is administered by the MDA (2024)<br>
+defense is the responsibility of the US; the island serves as a trans-Pacific refueling stop for military aircraft and supports US Missile Defense Agency (MDA) testing activities; Wake is managed by the US Air Force (2025)<br>
 
 ## Transnational Issues
 

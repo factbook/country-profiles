@@ -108,10 +108,10 @@ _15-64 years_: 64.6% (male 2,887,767/female 2,834,842)<br>
 _65 years and over_: 20.3% (2024 est.) (male 830,117/female 971,825)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 51.6<br>
-_youth dependency ratio_: 22.8<br>
-_elderly dependency ratio_: 28.7<br>
-_potential support ratio_: 3.5 (2021 est.)<br>
+_total dependency ratio_: 54.8 (2024 est.)<br>
+_youth dependency ratio_: 23.3 (2024 est.)<br>
+_elderly dependency ratio_: 31.5 (2024 est.)<br>
+_potential support ratio_: 3.2 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 44.2 years (2024 est.)<br>
@@ -234,7 +234,7 @@ _female_: 17 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution from vehicle emissions; water pollution from agricultural fertilizers; chemical contaminants and erosion damage the soil and limit productivity; loss of biodiversity<br>
+air pollution from vehicle emissions; water pollution from agricultural fertilizers; soil pollution from chemical contaminants; soil erosion; loss of biodiversity<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -254,12 +254,6 @@ _other_: 29.8% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 74.2% of total population (2023)<br>
 _rate of urbanization_: 0.79% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.01% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 8.97 micrograms per cubic meter (2019 est.)<br>
@@ -296,7 +290,7 @@ _conventional short form_: Switzerland<br>
 _local long form_: Schweizerische Eidgenossenschaft (German)/ Confederation Suisse (French)/ Confederazione Svizzera (Italian)/ Confederaziun Svizra (Romansh)<br>
 _local short form_: Schweiz (German)/ Suisse (French)/ Svizzera (Italian)/ Svizra (Romansh)<br>
 _abbreviation_: CH<br>
-_etymology_: name derives from the canton of Schwyz, one of the founding cantons of the Swiss Confederacy that formed in the late 13th century<br>
+_etymology_: name derives from the canton of Schwyz, one of the founding cantons of the Swiss Confederacy formed in the late 13th century<br>
 
 **Government type**<br>
 federal republic (formally a confederation)<br>
@@ -306,7 +300,7 @@ _name_: Bern<br>
 _geographic coordinates_: 46 55 N, 7 28 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: origin of the name is uncertain but may derive from a 2nd century B.C. Celtic place name, possibly "berna" meaning "cleft," that was subsequently adopted by a Roman settlement<br>
+_etymology_: the origin of the name is uncertain; it is sometimes associated with the German word <em>Baer </em>(bear), but a more likely origin is an Indo-European root word <em>ber</em>, meaning "marshy place"<br>
 
 **Administrative divisions**<br>
 26 cantons (cantons, singular - canton in French; cantoni, singular - cantone in Italian; Kantone, singular - Kanton in German); Aargau, Appenzell Ausserrhoden, Appenzell Innerrhoden, Basel-Landschaft, Basel-Stadt, Berne/Bern, Fribourg/Freiburg, Genève (Geneva), Glarus, Graubuenden/Grigioni/Grischun, Jura, Luzern (Lucerne), Neuchatel, Nidwalden, Obwalden, Sankt Gallen, Schaffhausen, Schwyz, Solothurn, Thurgau, Ticino, Uri, Valais/Wallis, Vaud, Zug, Zuerich<br>
@@ -319,7 +313,7 @@ _etymology_: origin of the name is uncertain but may derive from a 2nd century B
 Founding of the Swiss Confederation in 1291; note - since 1 August 1891 celebrated as Swiss National Day<br>
 
 **Legal system**<br>
-civil law system; judicial review of legislative acts, except for federal decrees of a general obligatory character<br>
+civil law system; judicial review of legislative acts, except federal decrees of a general obligatory character<br>
 
 **Constitution**<br>
 _history_: previous 1848, 1874; latest adopted by referendum 18 April 1999, effective 1 January 2000<br>
@@ -444,9 +438,9 @@ $884.94 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-2.14% (2023 est.)<br>
-2.84% (2022 est.)<br>
-0.58% (2021 est.)<br>
+1.1% (2024 est.)<br>
+2.1% (2023 est.)<br>
+2.8% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -482,19 +476,19 @@ machinery, chemicals, watches, textiles, precision instruments, tourism, banking
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.012 million (2023 est.)<br>
+5.095 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.05% (2023 est.)<br>
-4.3% (2022 est.)<br>
-5.1% (2021 est.)<br>
+4.1% (2024 est.)<br>
+4% (2023 est.)<br>
+4.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8% (2023 est.)<br>
-_male_: 8.3% (2023 est.)<br>
-_female_: 7.7% (2023 est.)<br>
+_total_: 7.9% (2024 est.)<br>
+_male_: 8.3% (2024 est.)<br>
+_female_: 7.5% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -526,17 +520,17 @@ _expenditures_: $136.348 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-17.8% of GDP (2022 est.)<br>
+20.1% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-9.1% (of GDP) (2022 est.)<br>
+9.1% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$58.395 billion (2023 est.)<br>
-$77.801 billion (2022 est.)<br>
-$55.137 billion (2021 est.)<br>
+$47.455 billion (2023 est.)<br>
+$72.325 billion (2022 est.)<br>
+$57.536 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
@@ -568,18 +562,18 @@ gold, packaged medicine, vaccines, cars, jewelry (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$822.13 billion (2024 est.)<br>
 $863.892 billion (2023 est.)<br>
 $923.628 billion (2022 est.)<br>
-$1.11 trillion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Swiss francs (CHF) per US dollar -<br>
+0.88 (2024 est.)<br>
 0.898 (2023 est.)<br>
 0.955 (2022 est.)<br>
 0.914 (2021 est.)<br>
 0.939 (2020 est.)<br>
-0.994 (2019 est.)<br>
 
 ## Energy
 
@@ -645,7 +639,7 @@ _domestic_: fixed-line is 33 per 100 and mobile-cellular subscribership is 120 p
 _international_: country code - 41; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean)<br>
 
 **Broadcast media**<br>
-<p>the publicly owned radio and TV broadcaster, Swiss Broadcasting Corporation (SRG/SSR), operates 8 national TV networks, 3 broadcasting in German, 3 in French, and 2 in Italian; private commercial TV stations broadcast regionally and locally; TV broadcasts from stations in Germany, Italy, and France are widely available via multi-channel cable and satellite TV services; SRG/SSR operates 17 radio stations that, along with private broadcasters, provide national to local coverage )</p> (2019)<br>
+<p>publicly owned Swiss Broadcasting Corporation (SRG/SSR) has 8 national TV networks, 3 broadcasting in German, 3 in French, and 2 in Italian; private commercial TV stations broadcast regionally and locally; German, Italian, and French TV broadcasts widely available via multi-channel cable and satellite TV; SRG/SSR has 17 radio stations </p> (2019)<br>
 
 **Internet country code**<br>
 .ch<br>
@@ -659,12 +653,6 @@ _subscriptions per 100 inhabitants_: 49 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 6 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 179<br>
-_annual passenger traffic on registered air carriers_: 28,857,994 (2018)<br>
-_annual freight traffic on registered air carriers_: 1,841,310,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 HB<br>
 
@@ -674,17 +662,8 @@ HB<br>
 **Heliports**<br>
 52 (2025)<br>
 
-**Pipelines**<br>
-1,800 km gas, 94 km oil (of which 60 are inactive), 17 km refined products (2017)<br>
-
 **Railways**<br>
 _total_: 5,296 km (2020) 5,296 km electrified; Switzerland remains the only country with a fully electrified network<br>
-
-**Roadways**<br>
-_total_: 83,131 km (2022)<br>
-
-**Waterways**<br>
-1,292 km (2010) (there are 1,227 km of waterways on lakes and rivers for public transport and 65 km on the Rhine River between Basel-Rheinfelden and Schaffhausen-Bodensee for commercial goods transport)<br>
 
 **Merchant marine**<br>
 _total_: 17 (2023)<br>
@@ -693,8 +672,8 @@ _by type_: bulk carrier 14, general cargo 1, other 2 (includes Liechtenstein)<br
 ## Military and Security
 
 **Military and security forces**<br>
-Swiss Armed Forces (aka Swiss Army or Schweizer Armee); Army (Heer; aka Land Forces), Swiss Air Force (Schweizer Luftwaffe) (2024)<br>
-<strong>note:</strong> the federal police maintain internal security and report to the Federal Department of Justice and Police, while the Armed Forces report to the Federal Department of Defense, Civil Protection, and Sport<br>
+Swiss Armed Forces (aka Swiss Army or Schweizer Armee); Army (aka Land Forces), Swiss Air Force  (2025)<br>
+<strong>note:</strong> the federal police maintain internal security and report to the Federal Department of Justice and Police<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2023)<br>
@@ -704,7 +683,8 @@ Swiss Armed Forces (aka Swiss Army or Schweizer Armee); Army (Heer; aka Land For
 0.7% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 100,000, including cadre/professionals, conscripts, and militia; the Swiss Armed Forces consist of a small core of cadre/professional personnel along with a mix of militia and up to 20,000 conscripts brought in each year for training (2024)<br>
+the Swiss Armed Forces have approximately 145,000 service members (2024)<br>
+<strong>note:</strong> the strength figures include professional cadre, people awaiting or participating in mandatory annual training, and people who have already completed their training service obligation<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes a mix of domestically produced and imported European and US weapons systems; the Swiss defense industry produces a range of military land vehicles (2024)<br>
@@ -717,7 +697,7 @@ the military's inventory includes a mix of domestically produced and imported Eu
 175 Kosovo (NATO/KFOR) (2024)<br>
 
 **Military - note**<br>
-the Swiss military is responsible for territorial defense, limited support to international disaster response and peacekeeping, and providing support to civil authorities when their resources are not sufficient to ward off threats to internal security or provide sufficient relief during disasters; Switzerland has long maintained a policy of military neutrality but does periodically participate in EU, NATO, Organization for Security and Cooperation in Europe (OSCE), and UN military and peacekeeping operations; however, Swiss units will only participate in operations under the mandate of the UN or OSCE; Switzerland joined NATO’s Partnership for Peace program in 1996; it has contributed to the NATO-led force in Kosovo (KFOR) since 1999<br><br>the military is comprised of conscripts, militia, and a small professional component; it is led by the Chief of the Armed Forces with an Armed Forces Staff and consists of a Joint Operations Command (JOC), an Armed Forces Logistics Organization, an Armed Forces Command Support Organization, and a Training and Education Command; the JOC controls, among other subordinate commands, the Air Force, the Land Forces, four territorial divisions, the Military Police Command, and the Special Forces Command (2024)<br>
+the Swiss military is responsible for territorial defense, limited support to international disaster response and peacekeeping, and providing support to civil authorities when their resources are not sufficient to ward off threats to internal security or provide sufficient relief during disasters; Switzerland has long maintained a policy of military neutrality but does periodically participate in EU, NATO, Organization for Security and Cooperation in Europe (OSCE), and UN military and peacekeeping operations; however, Swiss units will only participate in operations under the mandate of the UN or OSCE; Switzerland joined NATO&rsquo;s Partnership for Peace program in 1996; it has contributed to the NATO-led force in Kosovo (KFOR) since 1999 (2025)<br>
 
 ## Terrorism
 

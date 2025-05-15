@@ -104,10 +104,10 @@ _15-64 years_: 65% (male 2,573,668/female 2,599,957)<br>
 _65 years and over_: 4.8% (2024 est.) (male 178,223/female 205,434)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 54.7<br>
-_youth dependency ratio_: 48<br>
-_elderly dependency ratio_: 6.7<br>
-_potential support ratio_: 14.8 (2021 est.)<br>
+_total dependency ratio_: 53.7 (2024 est.)<br>
+_youth dependency ratio_: 46.3 (2024 est.)<br>
+_elderly dependency ratio_: 7.4 (2024 est.)<br>
+_potential support ratio_: 13.5 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 25.4 years (2024 est.)<br>
@@ -233,7 +233,7 @@ _female_: 10 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-unexploded ordnance; deforestation; soil erosion; loss of biodiversity; water pollution, most of the population does not have access to potable water<br>
+unexploded ordnance; deforestation; soil erosion; loss of biodiversity; water pollution; limited access to potable water<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands, Whaling<br>
@@ -253,9 +253,6 @@ _other_: 18.6% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 38.2% of total population (2023)<br>
 _rate of urbanization_: 2.99% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-1.48% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 21.15 micrograms per cubic meter (2019 est.)<br>
@@ -298,7 +295,7 @@ communist party-led state<br>
 _name_: Vientiane (Viangchan)<br>
 _geographic coordinates_: 17 58 N, 102 36 E<br>
 _time difference_: UTC+7 (12 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the meaning in Pali, a Buddhist liturgical language, is "city of sandalwood"<br>
+_etymology_: the name Viangchan means "city of sandalwood" in Laotian; the standard spelling reflects French influence<br>
 
 **Administrative divisions**<br>
 17 provinces (khoueng, singular and plural) and 1 prefecture* (kampheng nakhon); Attapu, Bokeo, Bolikhamxay, Champasak, Houaphanh, Khammouan, Louangnamtha, Louangphabang (Luang Prabang), Oudomxai, Phongsali, Salavan, Savannakhet, Viangchan (Vientiane)*, Viangchan, Xaignabouli, Xaisomboun, Xekong, Xiangkhouang<br>
@@ -417,9 +414,9 @@ $15.843 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-31.23% (2023 est.)<br>
-22.96% (2022 est.)<br>
-3.76% (2021 est.)<br>
+23.1% (2024 est.)<br>
+31.2% (2023 est.)<br>
+23% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -454,19 +451,19 @@ mining (copper, tin, gold, gypsum); timber, electric power, agricultural process
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.173 million (2023 est.)<br>
+3.585 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.18% (2023 est.)<br>
-1.21% (2022 est.)<br>
-2% (2021 est.)<br>
+1.2% (2024 est.)<br>
+1.2% (2023 est.)<br>
+1.2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 2.2% (2023 est.)<br>
-_male_: 2.3% (2023 est.)<br>
-_female_: 2.1% (2023 est.)<br>
+_total_: 2.2% (2024 est.)<br>
+_male_: 2.4% (2024 est.)<br>
+_female_: 2.1% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -501,7 +498,8 @@ _expenditures_: $1.596 billion (2022 est.)<br>
 63.6% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-12.11% (of GDP) (2022 est.)<br>
+12.1% (of GDP) (2022 est.)<br>
+<strong>note:</strong> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
 $404.523 million (2023 est.)<br>
@@ -544,7 +542,8 @@ $1.951 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$9.853 billion (2023 est.)<br>
+$9.619 billion (2023 est.)<br>
+<strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: kips (LAK) per US dollar -<br>
@@ -606,7 +605,7 @@ _domestic_: fixed-line nearly 18 per 100 and 65 per 100 for mobile-cellular subs
 _international_: country code - 856; satellite earth station - 1 Intersputnik (Indian Ocean region) and a second to be developed by China<br>
 
 **Broadcast media**<br>
-6 TV stations operating out of Vientiane - 3 government-operated and the others commercial; 17 provincial stations operating with nearly all programming relayed via satellite from the government-operated stations in Vientiane; Chinese and Vietnamese programming relayed via satellite from Lao National TV; broadcasts available from stations in Thailand and Vietnam in border areas; multi-channel satellite and cable TV systems provide access to a wide range of foreign stations; state-controlled radio with state-operated Lao National Radio (LNR) broadcasting on 5 frequencies - 1 AM, 1 SW, and 3 FM; LNR's AM and FM programs are relayed via satellite constituting a large part of the programming schedules of the provincial radio stations; Thai radio broadcasts available in border areas and transmissions of multiple international broadcasters are also accessible<br>
+6 TV stations operating out of Vientiane, with half state-operated and half commercial; 17 provincial stations, with nearly all programming relayed via satellite from the state-operated stations in Vientiane; multi-channel satellite and cable TV systems provide access to a wide range of foreign stations; state-controlled radio with state-operated Lao National Radio (LNR) broadcasting on 5 frequencies; transmissions of multiple international broadcasters are accessible<br>
 
 **Internet country code**<br>
 .la<br>
@@ -620,32 +619,15 @@ _subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 12<br>
-_annual passenger traffic on registered air carriers_: 1,251,961 (2018)<br>
-_annual freight traffic on registered air carriers_: 1.53 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 RDPL<br>
 
 **Airports**<br>
 20 (2025)<br>
 
-**Pipelines**<br>
-540 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 422 km (2023)<br>
 _standard gauge_: 422 km (2023) 1.435-m gauge (422 km overhead electrification)<br>
-
-**Roadways**<br>
-_total_: 59,647 km<br>
-_paved_: 13,718 km<br>
-_unpaved_: 45,929 km (2024)<br>
-
-**Waterways**<br>
-4,600 km (2012) (primarily on the Mekong River and its tributaries; 2,900 additional km are intermittently navigable by craft drawing less than 0.5 m)<br>
 
 **Merchant marine**<br>
 _total_: 1 (2023)<br>
@@ -654,7 +636,7 @@ _by type_: general cargo 1<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Lao People's Armed Forces (LPAF): Lao People's Army (LPA, includes Riverine Force), Lao People's Air Force (LPAF), Self-Defense Militia Forces (2024)<br>
+Lao People's Armed Forces (LPAF; aka Lao People's Army): Lao People's Army (LPA, includes Riverine Force), Lao People's Air Force (LPAF); Self-Defense Militia Forces (2025)<br>
 <strong>note:</strong> the Ministry of Public Security maintains internal security and is responsible for law enforcement; it oversees local, traffic, immigration, and security police, village police auxiliaries, and other armed police units<br>
 
 **Military expenditures**<br>
@@ -665,7 +647,7 @@ Lao People's Armed Forces (LPAF): Lao People's Army (LPA, includes Riverine Forc
 0.2% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-limited and varied information; estimated 30,000 active-duty troops (26,000 Army; 4,000 Air Force) (2023)<br>
+information limited and varied; estimated 30,000 active Armed Forces troops; estimated 100,000 Self-Defense Militia Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the LPAF is armed with Chinese, Russian, and Soviet-era equipment and weapons (2024)<br>
@@ -674,7 +656,7 @@ the LPAF is armed with Chinese, Russian, and Soviet-era equipment and weapons (2
 18 years of age for compulsory or voluntary military service; minimum 18-month service obligation (2023)<br>
 
 **Military - note**<br>
-the LPAF&rsquo;s primary missions are border and internal security, including counterinsurgency and counterterrorism; China, Russia, and Vietnam are the country's closest security partners&nbsp; (2023)<br>
+the LPAF&rsquo;s primary missions are border and internal security, including counterinsurgency, counterterrorism, and counter-narcotics operations, as well as protecting the regime; China, Russia, and Vietnam are the country's closest security partners (2025)<br>
 
 ## Transnational Issues
 

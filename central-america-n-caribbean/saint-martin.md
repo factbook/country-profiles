@@ -55,7 +55,7 @@ most of the population is found along the coast, with a largest concentrations a
 subject to hurricanes from July to November<br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> the southern border is shared with Sint Maarten, a country within the Kingdom of the Netherlands; together, these two entities make up the smallest landmass in the world shared by two self-governing states<br><br><strong>note 2:</strong> Simpson Bay Lagoon (aka as Simson Bay Lagoon or The Great Pond) is one of the largest inland lagoons in the West Indies; the border between the French and Dutch halves of the island of Saint Martin runs across the center of the lagoon, which is shared by both of the island's entities <br>
+<strong>note 1:</strong> the southern border is shared with Sint Maarten, which is part of the Kingdom of the Netherlands; together, these two entities make up the smallest landmass in the world that is shared by two self-governing states<br><br><strong>note 2:</strong> Simpson Bay Lagoon (aka Simson Bay Lagoon or The Great Pond) is one of the largest inland lagoons in the West Indies; the border between the French and Dutch halves of the island runs across the center of the lagoon, which is shared by both of the island's entities<br>
 
 ## People and Society
 
@@ -80,10 +80,10 @@ _15-64 years_: 64.5% (male 10,216/female 11,068)<br>
 _65 years and over_: 10.8% (2024 est.) (male 1,536/female 2,037)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 49.1 N<br>
-_youth dependency ratio_: 33.5<br>
-_elderly dependency ratio_: 15.6<br>
-_potential support ratio_: 6.4 (2021)<br>
+_total dependency ratio_: 55 (2024 est.) N<br>
+_youth dependency ratio_: 38.2 (2024 est.)<br>
+_elderly dependency ratio_: 16.8 (2024 est.)<br>
+_potential support ratio_: 6 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 34.2 years (2024 est.)<br>
@@ -161,7 +161,7 @@ _female_: NA<br>
 ## Environment
 
 **Environment - current issues**<br>
-excessive population pressure (increasing settlement); waste management; salinity intrusions into the mainland of the island; fresh water supply is dependent on desalination of sea water; over-exploitation of marine resources (reef fisheries, coral and shell); indiscriminate anchoring of boats damages coral reefs, causing underwater pollution and sedimentation&nbsp;<br>
+waste management; salinity intrusions; limited freshwater resources; over-exploitation of marine resources (reef fisheries, coral, and shell); water pollution and damage to coral reefs from boats<br>
 
 **Climate**<br>
 temperature averages 27-29 degrees Celsius all year long; low humidity, gentle trade winds, brief, intense rain showers; hurricane season stretches from July to November<br>
@@ -194,7 +194,7 @@ overseas collectivity of France<br>
 _name_: Marigot<br>
 _geographic coordinates_: 18 04 N, 63 05 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: marigot is a French term referring to a body of water, a watercourse, a side-stream, or a tributary rivulet; the name likely refers to a stream at the site of the city's original founding<br>
+_etymology_: the name is taken from the French word <em>marigot</em>, meaning "backwater" or "swampy area;" it probably comes from the original fishing village's location next to a water-logged area on a lagoon<br>
 
 **Independence**<br>
 none (overseas collectivity of France)<br>
@@ -295,11 +295,11 @@ jewelry, diamonds, pearls, recreational boats, cars (2019)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 
 ## Energy
 
@@ -331,13 +331,10 @@ _percent of population_: 48.5% (2022 est.)<br>
 **Airports**<br>
 1 (2025)<br>
 
-**Transportation - note**<br>
-nearest airport for international flights is Princess Juliana International Airport (SXM) located on Sint Maarten<br>
-
 ## Military and Security
 
 **Military and security forces**<br>
-no armed forces; Saint Martin Police Force (Korps Politie Sint Marteen)<br>
+no regular military forces; Ministry of Justice: Police Force of Sint Maaten (Korps Politie Sint Marteen, KPSM) (2025)<br>
 
 **Military - note**<br>
 defense is the responsibility of France<br>

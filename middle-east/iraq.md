@@ -112,10 +112,10 @@ _15-64 years_: 61.7% (male 13,064,516/female 12,907,702)<br>
 _65 years and over_: 3.6% (2024 est.) (male 681,574/female 851,495)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 71<br>
-_youth dependency ratio_: 65.2<br>
-_elderly dependency ratio_: 5.8<br>
-_potential support ratio_: 17.1 (2021 est.)<br>
+_total dependency ratio_: 62 (2024 est.)<br>
+_youth dependency ratio_: 56.1 (2024 est.)<br>
+_elderly dependency ratio_: 5.9 (2024 est.)<br>
+_potential support ratio_: 16.9 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 22.4 years (2024 est.)<br>
@@ -235,7 +235,7 @@ _female_: 79.9% (2017)<br>
 ## Environment
 
 **Environment - current issues**<br>
-government water control projects drained most of the inhabited marsh areas east of An Nasiriyah by drying up or diverting the feeder streams and rivers; a once sizable population of Marsh Arabs, who inhabited these areas for thousands of years, has been displaced; furthermore, the destruction of the natural habitat poses serious threats to the area's wildlife populations; inadequate supplies of potable water; soil degradation (salination) and erosion; desertification; military and industrial infrastructure has released heavy metals and other hazardous substances into the air, soil, and groundwater; major sources of environmental damage are effluents from oil refineries, factory and sewage discharges into rivers, fertilizer and chemical contamination of the soil, and industrial air pollution in urban areas<br>
+habitat loss from wetland draining; inadequate potable water; soil degradation (salination) and erosion; desertification; air, soil, and groundwater pollution from military and industries; water pollution from oil refineries and factory and sewage discharges; soil pollution from fertilizer and chemicals; air pollution in urban areas<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -258,12 +258,6 @@ _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to civil conflict and economic slowdown -</em> the 2022 Humanitarian Needs Overview identified 2.5 million people in need of humanitarian assistance, of which 960,000 have acute humanitarian needs; while the number of people in need remained similar to the previous year, the severity of those needs increased, largely due to the impact of the COVID‑19 pandemic on top of an existing humanitarian crisis, leading to a 35% increase in the number of people in acute need; more than half of these are concentrated in the governorates of Nineveh and Anbar; the number of severely food insecure people is estimated at about 435,000, while 731,000 are vulnerable to food insecurity (2022)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 39.29 micrograms per cubic meter (2019 est.)<br>
@@ -310,7 +304,7 @@ federal parliamentary republic<br>
 _name_: Baghdad<br>
 _geographic coordinates_: 33 20 N, 44 24 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: although the origin of the name is disputed, it likely has compound Persian roots with <em>bagh</em> and <em>dad</em> meaning "god" and "given" respectively to create the meaning of "bestowed by God"<br>
+_etymology_: the origin of the name is unclear; it may mean "gift of God," from the pre-Islamic words <em>bagh</em> (god) and <em>dad</em> (given)<br>
 
 **Administrative divisions**<br>
 18 governorates (muhafazat, singular - muhafazah (Arabic); parezgakan, singular - parezga (Kurdish)); 'Al Anbar; Al Basrah; Al Muthanna; Al Qadisiyah (Ad Diwaniyah); An Najaf; Arbil (Erbil) (Arabic), Hewler (Kurdish); As Sulaymaniyah (Arabic), Slemani (Kurdish); Babil; Baghdad; Dahuk (Arabic), Dihok (Kurdish); Dhi Qar; Diyala; Karbala'; Kirkuk; Maysan; Ninawa; Salah ad Din; Wasit<br>
@@ -323,7 +317,7 @@ _etymology_: although the origin of the name is disputed, it likely has compound
 Independence Day, 3 October (1932); Republic Day, 14 July (1958)<br>
 
 **Legal system**<br>
-mixed legal system of civil and Islamic law<br>
+mixed system of civil and Islamic law<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted by referendum 15 October 2005<br>
@@ -358,7 +352,7 @@ _term in office_: 4 years<br>
 _most recent election date_: 10/10/2021<br>
 _parties elected and seats per party_: Sadrist Bloc (73); National Progress Alliance / Taqadum (37); State of Law Coalition (33); Kurdistan Democratic Party (31); Fatah Alliance (17); Kurdistan Alliance (17); Independents (43); Other (78)<br>
 _percentage of women in chamber_: 28.9%<br>
-_expected date of next election_: October 2025<br>
+_expected date of next election_: November 2025<br>
 <strong>note:</strong> seat counts reflect updated numbers following the 12 June 2022 Sadrist Trend withdrawal from government formation; its 73 seats were reallocated to other parties<br>
 
 **Judicial branch**<br>
@@ -432,9 +426,9 @@ $250.843 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.36% (2023 est.)<br>
-4.99% (2022 est.)<br>
-6.04% (2021 est.)<br>
+4.4% (2023 est.)<br>
+5% (2022 est.)<br>
+6% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -470,19 +464,19 @@ petroleum, chemicals, textiles, leather, construction materials, food processing
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-11.744 million (2023 est.)<br>
+12.008 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-15.53% (2023 est.)<br>
-15.59% (2022 est.)<br>
-16.17% (2021 est.)<br>
+15.5% (2024 est.)<br>
+15.4% (2023 est.)<br>
+15.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 32.2% (2023 est.)<br>
-_male_: 27.8% (2023 est.)<br>
-_female_: 62% (2023 est.)<br>
+_total_: 32.1% (2024 est.)<br>
+_male_: 27.5% (2024 est.)<br>
+_female_: 62.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -504,11 +498,11 @@ _expenditures_: $64.512 billion (2019 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-27.44% of GDP (2018 est.)<br>
+27.4% of GDP (2018 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-1.34% (of GDP) (2019 est.)<br>
+1.3% (of GDP) (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -520,7 +514,7 @@ $24.565 billion (2021 est.)<br>
 **Exports**<br>
 $107.852 billion (2023 est.)<br>
 $127.079 billion (2022 est.)<br>
-$78.261 billion (2021 est.)<br>
+$78.26 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -546,22 +540,22 @@ refined petroleum, cars, broadcasting equipment, jewelry, gold (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$87.048 billion (2024 est.)<br>
 $112.233 billion (2023 est.)<br>
 $97.009 billion (2022 est.)<br>
-$64.231 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$16.092 billion (2023 est.)<br>
+$15.58 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Iraqi dinars (IQD) per US dollar -<br>
+1,300 (2024 est.)<br>
 1,312.5 (2023 est.)<br>
 1,450 (2022 est.)<br>
 1,450 (2021 est.)<br>
 1,192 (2020 est.)<br>
-1,182 (2019 est.)<br>
 
 ## Energy
 
@@ -618,7 +612,7 @@ _domestic_: about 7 per 100 for fixed-line and 86 per 100 for mobile-cellular su
 _international_: country code - 964; landing points for FALCON, and GBICS/MENA submarine cables providing connections to the Middle East, Africa and India; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Intersputnik - Atlantic Ocean region, and 1 Arabsat (inoperative)); local microwave radio relay connects border regions to Jordan, Kuwait, Syria, and Turkey (2019)<br>
 
 **Broadcast media**<br>
-the number of private radio and TV stations has increased rapidly since 2003; government-owned TV and radio stations are operated by the publicly funded Iraqi Media Network; private broadcast media are mostly linked to political, ethnic, or religious groups; satellite TV is available to an estimated 70% of viewers and many of the broadcasters are based abroad; transmissions of multiple international radio broadcasters are accessible (2019)<br>
+the number of private radio and TV stations has increased rapidly since 2003; state-owned TV and radio stations are operated by the publicly funded Iraqi Media Network; private broadcast media are mostly linked to political, ethnic, or religious groups; satellite TV is available to about 70% of viewers; many broadcasters are based abroad; transmissions of multiple international radio broadcasters are accessible (2019)<br>
 
 **Internet country code**<br>
 .iq<br>
@@ -632,12 +626,6 @@ _subscriptions per 100 inhabitants_: 17 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 4 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 34<br>
-_annual passenger traffic on registered air carriers_: 2,075,065 (2018)<br>
-_annual freight traffic on registered air carriers_: 16.2 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 YI<br>
 
@@ -647,18 +635,9 @@ YI<br>
 **Heliports**<br>
 10 (2025)<br>
 
-**Pipelines**<br>
-2,455 km gas, 913 km liquid petroleum gas, 5,432 km oil, 1,637 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 2,272 km (2014)<br>
 _standard gauge_: 2,272 km (2014) 1.435-m gauge<br>
-
-**Roadways**<br>
-_total_: 58,592 km (2021)<br>
-
-**Waterways**<br>
-5,279 km (2012) (the Euphrates River (2,815 km), Tigris River (1,899 km), and Third River (565 km) are the principal waterways)<br>
 
 **Merchant marine**<br>
 _total_: 74 (2023)<br>
@@ -676,8 +655,8 @@ _key ports_: Al Basrah, Al-Basra Oil Terminal, Khawr Al Amaya, Khawr Al Zubair, 
 ## Military and Security
 
 **Military and security forces**<br>
-Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Force, Iraqi Air Defense Command, Special Forces Command, Special Security Division<br><br>National-Level Security Forces: Iraqi Counterterrorism Service (CTS; reports to the Prime Minister), Prime Minister's Special Forces (Security) Division, Presidential Brigades<br><br>Ministry of Interior: Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Provincial Police<br><br>Ministry of Oil: Energy Police Directorate<br><br>Popular Mobilization Committee (PMC): Popular Mobilization Forces (PMF), Tribal Mobilization Forces (TMF); the PMF and TMF are a collection of more than 50 militias of widely varied sizes and political interests<br><br>the federal constitution provides the Kurdistan Regional Government (KRG) the right to maintain its own military/militia (peshmerga) and security forces, but the two main Kurdish political parties, the Kurdistan Democratic Party (KDP) and the Patriotic Union of Kurdistan (PUK), each maintain their own forces and participate in the staffing of the joint KDP-PUK Regional Guard Brigades: <br><br>KRG Ministry of Peshmerga: Unit (or Division) 70 Forces and Counter Terrorism Group (CTG) of the PUK; Unit (or Division) 80 Forces and Counterterrorism Directorate (CTD) of the KDP; Regional Guard Brigades<br><br>KRG Ministry of Interior: both the KDP and PUK maintain separate police, emergency response, and internal security/intelligence (Asayish) services under nominal Ministry of Interior control (2024)<br>
-<strong>note: </strong>the Iraqi military and associated forces are collectively known as the Iraqi Security Forces (ISF)<br>
+Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Force, Iraqi Air Defense Command, Special Forces Command, Special Security Division<br><br>National-Level Security Forces: Iraqi Counterterrorism Service (CTS), Prime Minister's Special Forces (Security) Division, Presidential Brigades<br><br>Ministry of Interior: Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Provincial Police<br><br>Ministry of Oil: Energy Police Directorate<br><br>Popular Mobilization Committee (PMC): Popular Mobilization Forces (PMF), Tribal Mobilization Forces (TMF)<br><br>Kurdistan Regional Government (KRG) Ministry of Peshmerga: Unit (or Division) 70 Forces, Unit (or Division) 80 Forces, Regional Guard Brigades, counterterrorism units (2025)<br>
+<strong>note 1: </strong>the Iraqi military and associated forces are collectively known as the Iraqi Security Forces (ISF)<br><br><strong>note 2:</strong> the PMF and TMF are a collection of more than 50 militias of widely varied sizes and political interests<br><br><strong>note 3:</strong> the federal constitution provides the Kurdistan Regional Government (KRG) the right to maintain its own military/militia (peshmerga) and security forces, but the two main Kurdish political parties, the Kurdistan Democratic Party (KDP) and the Patriotic Union of Kurdistan (PUK), each maintain their own forces; the Unit/Division 80 Forces and the Counterterrorism Directorate (CTD) are under the KDP, while the Unit/Division 80 Forces and the Counter Terrorism Group (CTG) are under the PUK; the KDP and PUK jointly staff the Regional Guard Brigades; the KDP and PUK also maintain separate police, emergency response, and internal security/intelligence (Asayish) services under nominal KRG Ministry of Interior control<br>
 
 **Military expenditures**<br>
 3% of GDP (2023 est.)<br>
@@ -687,7 +666,7 @@ Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Fo
 3.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 200,000 personnel under the Ministry of Defense (190,000 Army/Aviation Command/Special Forces; 5,000 Navy; 5,000 Air/Air Defense Forces); approximately 20-25,000 National-Level Security Forces; estimated 200,000+ Popular Mobilization Forces<br><br>Ministry of Peshmerga: approximately 150,000 (45-50,000 Regional Guard Brigades; 40-45,000 Unit 70 Forces; 65-70,000 Unit 80 Forces) (2023)<br>
+information varies; approximately 200,000 active armed forces personnel under the Ministry of Defense (Army, Aviation Command, Air/Air Defense, Navy, Special Forces); approximately 20-25,000 National-Level Security Forces<br><br>Ministry of Peshmerga: approximately 150,000 active personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Iraqi military's inventory includes a mix of equipment from a wide variety of sources, including China, several European countries, South Africa, South Korea, Russia, and the US (2024)<br>

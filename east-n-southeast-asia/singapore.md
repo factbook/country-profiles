@@ -98,10 +98,10 @@ _15-64 years_: 71.1% (male 2,157,441/female 2,126,799)<br>
 _65 years and over_: 14.3% (2024 est.) (male 400,653/female 463,061)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 35.4<br>
-_youth dependency ratio_: 16.2<br>
-_elderly dependency ratio_: 19.1<br>
-_potential support ratio_: 5.2 (2021 est.)<br>
+_total dependency ratio_: 40.7 (2024 est.)<br>
+_youth dependency ratio_: 20.6 (2024 est.)<br>
+_elderly dependency ratio_: 20.2 (2024 est.)<br>
+_potential support ratio_: 5 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 39.4 years (2024 est.)<br>
@@ -229,7 +229,7 @@ _female_: 17 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-water pollution; industrial pollution; limited natural freshwater resources; limited land availability presents waste disposal problems; air pollution; deforestation; seasonal smoke/haze resulting from forest fires in Indonesia<br>
+water pollution; industrial pollution; limited freshwater resources; waste disposal problems from limited land availability; air pollution; deforestation; seasonal smoke/haze from forest fires in Indonesia<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution<br>
@@ -249,12 +249,6 @@ _other_: 77.9% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 0.74% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 13.33 micrograms per cubic meter (2019 est.)<br>
@@ -281,7 +275,7 @@ _conventional long form_: Republic of Singapore<br>
 _conventional short form_: Singapore<br>
 _local long form_: Republic of Singapore<br>
 _local short form_: Singapore<br>
-_etymology_: name derives from the Sanskrit words "simha" (lion) and "pura" (city) to describe the city-state's leonine symbol<br>
+_etymology_: name derives from the Sanskrit words <em>simha </em>(lion) and <em>pur </em>(city); according to  Malayan folklore, an Indian prince visited Singapore in the 7th century and mistook the first animal he saw for a lion, which is not native to the country<br>
 
 **Government type**<br>
 parliamentary republic<br>
@@ -290,7 +284,7 @@ parliamentary republic<br>
 _name_: Singapore<br>
 _geographic coordinates_: 1 17 N, 103 51 E<br>
 _time difference_: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: name derives from the Sanskrit words <em>simha</em> (lion) and <em>pura</em> (city), thus creating the city's epithet "lion city"<br>
+_etymology_: name derives from the Sanskrit words <em>simha</em> (lion) and <em>pur </em>(city); according to  Malayan folklore, an Indian prince visited Singapore in the 7th century and mistook the first animal he saw for a lion, which is not native to the country<br>
 
 **Administrative divisions**<br>
 no first order administrative divisions; there are five community development councils: Central Singapore Development Council, North East Development Council, North West Development Council, South East Development Council, South West Development Council (2019)<br>
@@ -337,7 +331,7 @@ _term in office_: 5 years<br>
 _most recent election date_: 7/10/2020<br>
 _parties elected and seats per party_: People's Action Party (PAP) (83); Workers' Party (WPS) (10); Other (2)<br>
 _percentage of women in chamber_: 29.6%<br>
-_expected date of next election_: July 2025<br>
+_expected date of next election_: May 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (number of judges varies but includes judicial commissioners, judges of appeal, and international judges); the court is organized into an upper-tier Appeal Court and a lower-tier High Court<br>
@@ -411,9 +405,9 @@ $501.428 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.82% (2023 est.)<br>
-6.12% (2022 est.)<br>
-2.3% (2021 est.)<br>
+2.4% (2024 est.)<br>
+4.8% (2023 est.)<br>
+6.1% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -449,19 +443,19 @@ electronics, chemicals, financial services, oil drilling equipment, petroleum re
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.615 million (2023 est.)<br>
+3.672 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.47% (2023 est.)<br>
-3.59% (2022 est.)<br>
-4.64% (2021 est.)<br>
+3.2% (2024 est.)<br>
+3.4% (2023 est.)<br>
+3.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.3% (2023 est.)<br>
-_male_: 6.5% (2023 est.)<br>
-_female_: 10.4% (2023 est.)<br>
+_total_: 7.8% (2024 est.)<br>
+_male_: 5.6% (2024 est.)<br>
+_female_: 10.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -487,23 +481,23 @@ _expenditures_: $75.448 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-150.14% of GDP (2021 est.)<br>
+177% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-12.03% (of GDP) (2022 est.)<br>
+14% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$99.128 billion (2023 est.)<br>
-$89.701 billion (2022 est.)<br>
-$86.137 billion (2021 est.)<br>
+$96.015 billion (2024 est.)<br>
+$89.403 billion (2023 est.)<br>
+$93.771 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$873.989 billion (2023 est.)<br>
-$925.952 billion (2022 est.)<br>
-$794.47 billion (2021 est.)<br>
+$978.597 billion (2024 est.)<br>
+$917.683 billion (2023 est.)<br>
+$947.355 billion (2022 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -515,9 +509,9 @@ integrated circuits, refined petroleum, machinery, vaccines, gold (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$686.656 billion (2023 est.)<br>
-$733.876 billion (2022 est.)<br>
-$637.165 billion (2021 est.)<br>
+$786.02 billion (2024 est.)<br>
+$728.5 billion (2023 est.)<br>
+$744.364 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -529,18 +523,18 @@ integrated circuits, refined petroleum, crude petroleum, gold, gas turbines (202
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$365.494 billion (2024 est.)<br>
 $359.835 billion (2023 est.)<br>
 $296.629 billion (2022 est.)<br>
-$425.098 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Singapore dollars (SGD) per US dollar -<br>
+1.336 (2024 est.)<br>
 1.343 (2023 est.)<br>
 1.379 (2022 est.)<br>
 1.343 (2021 est.)<br>
 1.38 (2020 est.)<br>
-1.364 (2019 est.)<br>
 
 ## Energy
 
@@ -595,7 +589,7 @@ _domestic_: fixed-line is 32 per 100 and mobile-cellular 146 per 100 teledensity
 _international_: country code - 65; landing points for INDIGO-West, SeaMeWe -3,-4,-5, SIGMAR, SJC, i2icn,&nbsp;PGASCOM, BSCS,&nbsp;IGG,&nbsp;B3JS, SAEx2, APCN-2, APG, ASC, SEAX-1, ASE, EAC-C2C, Matrix Cable System and SJC2 submarine cables providing links throughout Asia, Southeast Asia, Africa, Australia, the Middle East, and Europe; satellite earth stations - 3, Bukit Timah, Seletar, and Sentosa; supplemented by VSAT coverage (2019 )<br>
 
 **Broadcast media**<br>
-state controls broadcast media;&nbsp;6 domestic TV stations operated by MediaCorp which is wholly owned by a state investment company; broadcasts from Malaysian and Indonesian stations available; satellite dishes banned; multi-channel cable TV services available; a total of 19 domestic radio stations broadcasting, with MediaCorp operating 11, Singapore Press Holdings, also government-linked, another 5,&nbsp;2 controlled by the Singapore Armed Forces Reservists Association and one owned by BBC Radio; Malaysian and Indonesian radio stations are available as is BBC; a number of Internet service radio stations are also available (2019)<br>
+state-controlled broadcast media; 6 domestic TV stations operated by state-owned MediaCorp; broadcasts from Malaysian and Indonesian stations available; satellite dishes banned; multi-channel cable TV services available; 19 domestic radio stations, including 11 for MediaCorp, 5 for state-linked Singapore Press Holdings, 2 for Singapore Armed Forces Reservists Association, and 1 for BBC Radio; Malaysian and Indonesian radio stations available (2019)<br>
 
 **Internet country code**<br>
 .sg<br>
@@ -609,12 +603,6 @@ _subscriptions per 100 inhabitants_: 27 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 4 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 230<br>
-_annual passenger traffic on registered air carriers_: 40,401,515 (2018)<br>
-_annual freight traffic on registered air carriers_: 5,194,900,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 9V<br>
 
@@ -623,13 +611,6 @@ _annual freight traffic on registered air carriers_: 5,194,900,000 (2018) mt-km<
 
 **Heliports**<br>
 1 (2025)<br>
-
-**Pipelines**<br>
-3,220 km domestic gas (2014), 1,122 km cross-border pipelines (2017), 8 km refined products (2013)<br>
-
-**Roadways**<br>
-_total_: 3,500 km<br>
-_paved_: 3,500 km (2017) (includes 164 km of expressways)<br>
 
 **Merchant marine**<br>
 _total_: 3,202 (2023)<br>
@@ -647,8 +628,8 @@ _key ports_: Jurong Island, Keppel - (East Singapore), Pulau Bukom, Pulau Sebaro
 ## Military and Security
 
 **Military and security forces**<br>
-Singapore Armed Forces (SAF; aka Singapore Defense Force): Singapore Army, Republic of Singapore Navy, Republic of Singapore Air Force (includes air defense), Digital and Intelligence Service<br><br>Ministry of Home Affairs: Singapore Police Force (SPF; includes Police Coast Guard and the Gurkha Contingent) (2024)<br>
-<strong>note 1: </strong>the Digital and Intelligence Service (DIS) was stood up as the fourth SAF service in October of 2022<strong><br><br>note 2:</strong> the Gurkha Contingent of the Singapore Police Force (GCSPF) is a paramilitary unit for riot control and acts as a rapid reaction force <strong><br></strong><br><strong>note 3:</strong> in 2009, Singapore established a multi-agency national Maritime Security Task Force (MSTF) to work with law enforcement and maritime agencies to guard Singapore’s waters, including conducting daily patrols, as well as boarding and escort operations in the Singapore Strait; the MSTF is subordinate to the Singapore Navy<br>
+Singapore Armed Forces (SAF; aka Singapore Defense Force): Singapore Army, Republic of Singapore Navy, Republic of Singapore Air Force (includes air defense), Digital and Intelligence Service<br><br>Ministry of Home Affairs: Singapore Police Force (SPF; includes Police Coast Guard and the Gurkha Contingent) (2025)<br>
+<strong>note 1:</strong> the Gurkha Contingent of the Singapore Police Force (GCSPF) is a paramilitary unit for riot control and acts as a rapid reaction force <strong><br></strong><br><strong>note 2:</strong> the Navy includes the multi-agency standing Maritime Security Task Force (MSTF), which assists the Police Coast Guard in conducting maritime security operations<br>
 
 **Military expenditures**<br>
 3% of GDP (2024 est.)<br>
@@ -658,20 +639,21 @@ Singapore Armed Forces (SAF; aka Singapore Defense Force): Singapore Army, Repub
 3% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 60,000 active-duty troops (45,000 Army; 7,000 Navy; 8,000 Air Force) (2023)<br>
+information varies; approximately 55,000 active-duty SAF personnel (40,000 Army; 7,000 Navy; 8,000 Air Force) (2025)<br>
+<strong>note:</strong> the Army is comprised mostly of conscripts and reservists with a small core of professional soldiers, while the Air Force and Navy are staffed mainly by professional personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SAF has a diverse and largely modern mix of domestically produced and imported Western weapons systems; in recent years, France, Germany, and the US have been among the top suppliers of arms; Singapore has the most developed arms industry in Southeast Asia and is also its largest importer of weapons (2024)<br>
 
 **Military service age and obligation**<br>
-18-21 years of age for compulsory military service for men; 16.5 years of age for voluntary enlistment (with parental consent); 24-month conscript service obligation, with a reserve obligation to age 40 (enlisted) or age 50 (officers); women are not conscripted, but they are allowed to volunteer for all services and branches, including combat arms (2023)<br>
-<strong>note 1: </strong>under the Enlistment Act, all male Singaporean citizens and permanent residents, unless exempted, are required to enter National Service (NS) upon attaining the age of 18; most NS conscripts serve in the Armed Forces, but some go into the Police Force or Civil Defense Force; conscripts comprise over half of the defense establishment<br><br><strong>note 2:</strong> women began serving in the SAF in 1986; as of 2022, women made up about 8% of the regular force<br><br><strong>note 3:</strong> the Singapore Armed Forces (SAF) also has a uniformed volunteer auxiliary branch known as the Volunteer Corps (SAFVC); the SAFVC allows citizens and residents not subject to the National Service obligation, including Singaporean women, first generation permanent residents, and naturalized citizens, to contribute towards Singapore's defense; the volunteers must be 18-45 and physically fit<br><br><strong>note 4:</strong> members of the Gurkha Contingent (GC) of the Singapore Police Force are mostly recruited from a small number of hill tribes in Nepal; the GC was formed in 1949 originally from selected ex-British Army Gurkhas<br>
+18-21 years of age for compulsory military service for men; 16.5 years of age for voluntary enlistment (with parental consent); 24-month conscript service obligation, with a reserve obligation to age 40 (enlisted) or age 50 (officers); women are not conscripted, but they are allowed to volunteer for all services and branches, including combat arms (2025)<br>
+<strong>note 1: </strong>all male Singaporean citizens and permanent residents, unless exempted, are required to enter National Service (NS) upon attaining the age of 18; most NS conscripts serve in the Armed Forces, but some go into the Police Force or Civil Defense Force; conscripts comprise over half of the defense establishment<br><br><strong>note 2:</strong> as of 2022, women made up about 8% of the regular force<br><br><strong>note 3:</strong> the Singapore Armed Forces (SAF) also has a uniformed volunteer auxiliary branch known as the Volunteer Corps (SAFVC); the SAFVC allows citizens and residents not subject to the National Service obligation, including Singaporean women, first generation permanent residents, and naturalized citizens, to contribute towards Singapore's defense; the volunteers must be 18-45 and physically fit<br><br><strong>note 4:</strong> members of the Gurkha Contingent (GC) of the Singapore Police Force are mostly recruited from a small number of hill tribes in Nepal; the GC was formed in 1949 originally from selected ex-British Army Gurkhas<br>
 
 **Military deployments**<br>
-maintains permanent training detachments of military personnel in Australia, France, and the US (2023)<br>
+maintains permanent training detachments of military personnel in Australia, France, and the US (2025)<br>
 
 **Military - note**<br>
-the SAF’s primary responsibility is external defense, but it has trained for certain domestic security operations, including joint deterrence patrols with police in instances of heightened terrorism alerts; the Army includes a “people’s defense force,” which is a divisional headquarters responsible for homeland security and counterterrorism<br><br>the SAF's roots go back to 1854 when the Singapore Volunteer Rifle Corps was formed under colonial rule; the first battalion of regular soldiers, the First Singapore Infantry Regiment, was organized in 1957; the modern SAF was established in 1965 and is today widely viewed as the best equipped military in Southeast Asia<br><br>Singapore is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily; Singapore also has close security ties with the US, including granting the US military access, basing, and overflight privileges (2024)<br>
+the SAF’s primary responsibility is external defense, but it has trained for certain domestic security operations, including joint deterrence patrols with police in instances of heightened terrorism alerts; the Army includes a “people’s defense force,” which is a divisional headquarters responsible for homeland security and counterterrorism<br><br>the SAF's roots go back to 1854 when the Singapore Volunteer Rifle Corps was formed under colonial rule; the first battalion of regular soldiers, the First Singapore Infantry Regiment, was organized in 1957; the modern SAF was established in 1965 and is today widely viewed as the best equipped military in Southeast Asia<br><br>Singapore is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily; Singapore also has close security ties with the US, including granting the US military access, basing, and overflight privileges (2025)<br>
 
 ## Terrorism
 

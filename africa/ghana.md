@@ -77,7 +77,7 @@ population is concentrated in the southern half of the country, with the highest
 dry, dusty, northeastern harmattan winds from January to March; droughts<br>
 
 **Geography - note**<br>
-Lake Volta is the world's largest artificial lake (manmade reservoir) by surface area (8,482 sq km; 3,275 sq mi); the lake was created following the completion of the Akosombo Dam in 1965, which holds back the White Volta and Black Volta Rivers<br>
+Lake Volta is the world's largest artificial lake (manmade reservoir) by surface area (8,482 sq km; 3,275 sq mi); the lake was created after the Akosombo Dam was completed in 1965<br>
 
 ## People and Society
 
@@ -106,10 +106,10 @@ _15-64 years_: 58.2% (male 9,690,498/female 10,444,197)<br>
 _65 years and over_: 4.4% (2024 est.) (male 684,189/female 842,577)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 68.7<br>
-_youth dependency ratio_: 62.9<br>
-_elderly dependency ratio_: 5.9<br>
-_potential support ratio_: 17 (2021 est.)<br>
+_total dependency ratio_: 71.8 (2024 est.)<br>
+_youth dependency ratio_: 64.2 (2024 est.)<br>
+_elderly dependency ratio_: 7.6 (2024 est.)<br>
+_potential support ratio_: 13.2 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 21.4 years (2024 est.)<br>
@@ -239,7 +239,7 @@ _female_: 12 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-recurrent drought in north severely affects agricultural activities; deforestation; overgrazing; soil erosion; poaching and habitat destruction threaten wildlife populations; water pollution; inadequate supplies of potable water<br>
+drought in north; deforestation; overgrazing; soil erosion; poaching and habitat destruction; water pollution; inadequate potable water<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -259,12 +259,6 @@ _other_: 9.4% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 59.2% of total population (2023)<br>
 _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-3.51% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 46.04 micrograms per cubic meter (2019 est.)<br>
@@ -303,7 +297,7 @@ presidential republic<br>
 _name_: Accra<br>
 _geographic coordinates_: 5 33 N, 0 13 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name derives from the Akan word "nkran" meaning "ants," and refers to the numerous anthills in the area around the capital<br>
+_etymology_: the name derives from the Akan word <em>nkran</em>, meaning "ant," and may refer to the nickname local forest dwellers gave to the Nigerian tribes who settled in the area in the 16th century<br>
 
 **Administrative divisions**<br>
 16 regions; Ahafo, Ashanti, Bono, Bono East, Central, Eastern, Greater Accra, North East, Northern, Oti, Savannah, Upper East, Upper West, Volta, Western, Western North<br>
@@ -422,9 +416,9 @@ $76.37 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-38.11% (2023 est.)<br>
-31.26% (2022 est.)<br>
-9.97% (2021 est.)<br>
+22.8% (2024 est.)<br>
+38.1% (2023 est.)<br>
+31.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -460,19 +454,19 @@ mining, lumbering, light manufacturing, aluminum smelting, food processing, ceme
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-14.84 million (2023 est.)<br>
+13.928 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.08% (2023 est.)<br>
-3.08% (2022 est.)<br>
-3.34% (2021 est.)<br>
+3% (2024 est.)<br>
+3.1% (2023 est.)<br>
+3.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.5% (2023 est.)<br>
-_male_: 5.6% (2023 est.)<br>
-_female_: 5.4% (2023 est.)<br>
+_total_: 5.4% (2024 est.)<br>
+_male_: 5.5% (2024 est.)<br>
+_female_: 5.3% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -551,7 +545,8 @@ $9.917 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$30.242 billion (2023 est.)<br>
+$29.241 billion (2023 est.)<br>
+<strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: cedis (GHC) per US dollar -<br>
@@ -617,7 +612,7 @@ _total subscriptions_: 33.4 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 120 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: challenged by unreliable electricity and shortage of skilled labor, Ghana seeks to extend telecom services nationally; investment in fiber infrastructure and off-grid solutions provide data coverage to over 23 million people; launch of LTE has improved mobile data services, including m-commerce and banking; moderately competitive Internet market, most through mobile networks; international submarine cables, and terrestrial cables have improved Internet capacity; LTE services are widely available; the relatively high cost of 5G-compatible devices also inhibits most subscribers from migrating from 3G and LTE platforms (2022)<br>
+_general assessment_: challenged by unreliable electricity and shortage of skilled labor, Ghana seeks to extend telecom services nationally; investment in fiber infrastructure and off-grid solutions provide data coverage to over 23 million people; launch of LTE has improved mobile data services, including e-commerce and banking; moderately competitive Internet market, most through mobile networks; international submarine cables, and terrestrial cables have improved Internet capacity; LTE services are widely available; the relatively high cost of 5G-compatible devices also inhibits most subscribers from migrating from 3G and LTE platforms (2022)<br>
 _domestic_: fixed-line data less than 1 per 100 subscriptions; mobile-cellular subscriptions 123 per 100 persons (2021)<br>
 _international_: country code - 233; landing points for the SAT-3/WASC, MainOne, ACE, WACS and GLO-1 fiber-optic submarine cables that provide connectivity to South and West Africa, and Europe; satellite earth stations - 4 Intelsat (Atlantic Ocean); microwave radio relay link to Panaftel system connects Ghana to its neighbors; GhanaSat-1 nanosatellite launched in 2017 (2017)<br>
 
@@ -636,11 +631,6 @@ _subscriptions per 100 inhabitants_: 1 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 3 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 21<br>
-_annual passenger traffic on registered air carriers_: 467,438 (2018)<br>
-
 **Civil aircraft registration country code prefix**<br>
 9G<br>
 
@@ -650,21 +640,9 @@ _annual passenger traffic on registered air carriers_: 467,438 (2018)<br>
 **Heliports**<br>
 7 (2025)<br>
 
-**Pipelines**<br>
-681.3 km gas, 11.4 km oil, 435 km refined products (2022)<br>
-
 **Railways**<br>
 _total_: 947 km (2022)<br>
 _narrow gauge_: 947 km (2022) 1.067-m gauge<br>
-
-**Roadways**<br>
-_total_: 65,725 km<br>
-_paved_: 14,948 km<br>
-_unpaved_: 50,777 km (2021)<br>
-_urban_: 28,480 km 27% total paved 73% total unpaved<br>
-
-**Waterways**<br>
-1,293 km (2011) (168 km for launches and lighters on Volta, Ankobra, and Tano Rivers; 1,125 km of arterial and feeder waterways on Lake Volta)<br>
 
 **Merchant marine**<br>
 _total_: 52 (2023)<br>
@@ -682,7 +660,8 @@ _key ports_: Saltpond, Sekondi, Takoradi, Tema<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Ghana Armed Forces (GAF): Army, Air Force, Ghana Navy, Ghana Armed Forces Medical Service/Corps<br><br>Ministry of Interior: Ghana Police Service (2025)<br>
+Ghana Armed Forces (GAF): Army, Air Force, Ghana Navy<br><br>Ministry of Interior: Ghana Police Service (2025)<br>
+note: the GAF also has a Medical Service/Corps<br>
 
 **Military expenditures**<br>
 0.4% of GDP (2023 est.)<br>
@@ -692,7 +671,7 @@ Ghana Armed Forces (GAF): Army, Air Force, Ghana Navy, Ghana Armed Forces Medica
 0.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 16,000 active Armed Forces personnel (2024)<br>
+estimated 15-20,000 active Armed Forces personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a mix of older and some newer Chinese, Russian, and Western equipment, including US, which has donated items such as patrol boats; the government in recent years has committed to an increase in funding for equipment acquisitions, including armor, mechanized, and special forces capabilities for the Army, light attack aircraft for the Air Force, and more modern coastal patrol vessels for the Navy (2024)<br>

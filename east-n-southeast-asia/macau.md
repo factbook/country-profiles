@@ -64,7 +64,7 @@ population fairly equally distributed<br>
 typhoons<br>
 
 **Geography - note**<br>
-essentially urban; an area of land reclaimed from the sea measuring 5.2 sq km and known as Cotai now connects the islands of Coloane and Taipa; the island area is connected to the mainland peninsula by three bridges<br>
+primarily urban; an area of land reclaimed from the sea measuring 5.2 sq km (2 sq mi) and known as Cotai now connects the islands of Coloane and Taipa; the island area is connected to the mainland peninsula by three bridges<br>
 
 ## People and Society
 
@@ -94,10 +94,10 @@ _15-64 years_: 69.9% (male 210,059/female 240,577)<br>
 _65 years and over_: 15.7% (2024 est.) (male 47,583/female 53,645)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 36.9<br>
-_youth dependency ratio_: 20<br>
-_elderly dependency ratio_: 16.9<br>
-_potential support ratio_: 5.9 (2021 est.)<br>
+_total dependency ratio_: 43 (2024 est.)<br>
+_youth dependency ratio_: 20.5 (2024 est.)<br>
+_elderly dependency ratio_: 22.5 (2024 est.)<br>
+_potential support ratio_: 4.5 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 42.5 years (2024 est.)<br>
@@ -183,7 +183,7 @@ _female_: 19 years (2021)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution; coastal waters pollution; insufficient policies in reducing and recycling solid wastes; increasing population density worsening noise pollution<br>
+air pollution; coastal water pollution; solid-waste disposal; noise pollution<br>
 
 **Climate**<br>
 subtropical; marine with cool winters, warm summers<br>
@@ -196,12 +196,6 @@ _other_: 100% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 1.46% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _carbon dioxide emissions_: 2.07 megatons (2016 est.)<br>
@@ -321,9 +315,9 @@ $45.803 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-0.48% (2023 est.)<br>
-1.05% (2022 est.)<br>
-0.03% (2021 est.)<br>
+0.5% (2023 est.)<br>
+1% (2022 est.)<br>
+0% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -357,19 +351,19 @@ tourism, gambling, clothing, textiles, electronics, footwear, toys<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-396,000 (2023 est.)<br>
+373,800 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.25% (2023 est.)<br>
-2.48% (2022 est.)<br>
-2.25% (2021 est.)<br>
+2.4% (2024 est.)<br>
+2.2% (2023 est.)<br>
+2.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7% (2023 est.)<br>
-_male_: 9% (2023 est.)<br>
-_female_: 5.3% (2023 est.)<br>
+_total_: 7.2% (2024 est.)<br>
+_male_: 9.4% (2024 est.)<br>
+_female_: 5.6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
@@ -387,18 +381,18 @@ _expenditures_: $12.259 billion (2022 est.)<br>
 0% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-16.7% (of GDP) (2022 est.)<br>
+22.8% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$16.955 billion (2023 est.)<br>
-$2.845 billion (2022 est.)<br>
-$2.683 billion (2021 est.)<br>
+$14.38 billion (2023 est.)<br>
+$3.476 billion (2022 est.)<br>
+$2.705 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$43.613 billion (2023 est.)<br>
-$21.071 billion (2022 est.)<br>
+$41.839 billion (2023 est.)<br>
+$21.097 billion (2022 est.)<br>
 $28.163 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
@@ -411,8 +405,8 @@ jewelry, garments, broadcasting equipment, precious metal watches, video and car
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$23.18 billion (2023 est.)<br>
-$21.405 billion (2022 est.)<br>
+$23.205 billion (2023 est.)<br>
+$20.923 billion (2022 est.)<br>
 $23.77 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
@@ -425,18 +419,18 @@ jewelry, garments, trunks and cases, broadcasting equipment, electricity (2023)<
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$29.392 billion (2024 est.)<br>
 $27.771 billion (2023 est.)<br>
 $25.971 billion (2022 est.)<br>
-$26.665 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: patacas (MOP) per US dollar -<br>
+8.037 (2024 est.)<br>
 8.063 (2023 est.)<br>
 8.065 (2022 est.)<br>
 8.006 (2021 est.)<br>
 7.989 (2020 est.)<br>
-8.07 (2019 est.)<br>
 
 ## Energy
 
@@ -489,7 +483,7 @@ _domestic_: fixed-line nearly 16 per 100 and mobile-cellular roughly 410 per 100
 _international_: country code - 853; landing point for the SEA-ME-WE-3 submarine cable network that provides links to Asia, Africa, Australia, the Middle East, and Europe; HF radiotelephone communication facility; satellite earth station - 1 Intelsat (Indian Ocean) (2019)<br>
 
 **Broadcast media**<br>
-local government dominates broadcast media; 2 television stations operated by the government with one broadcasting in Portuguese and the other in Cantonese and Mandarin; 1 cable TV and 4 satellite TV services available; 3 radio stations broadcasting, of which 2 are government-operated (2019)<br>
+local government dominates broadcast media; 2 TV stations operated by the government, with one broadcasting in Portuguese and the other in Cantonese and Mandarin; 1 cable TV and 4 satellite TV services available; 3 radio stations broadcasting, of which 2 are government-operated (2019)<br>
 
 **Internet country code**<br>
 .mo<br>
@@ -503,12 +497,6 @@ _subscriptions per 100 inhabitants_: 30 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020) (registered in China)<br>
-_inventory of registered aircraft operated by air carriers_: 21 (registered in China)<br>
-_annual passenger traffic on registered air carriers_: 3,157,724 (2018)<br>
-_annual freight traffic on registered air carriers_: 31.84 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 B-M<br>
 
@@ -517,10 +505,6 @@ B-M<br>
 
 **Heliports**<br>
 4 (2025)<br>
-
-**Roadways**<br>
-_total_: 428 km<br>
-_paved_: 428 km (2017)<br>
 
 **Merchant marine**<br>
 _total_: 5 (2023)<br>
@@ -538,7 +522,7 @@ _key ports_: Macau<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular indigenous military forces; Macau Public Security Police Force (includes the Police Intervention Tactical Unit or UTIP for counterterrorism operations)<br>
+no regular indigenous military forces; Macau Public Security Police Force<br>
 
 **Military - note**<br>
 defense is the responsibility of China; the Chinese People's Liberation Army (PLA) maintains a garrison in Macau<br>

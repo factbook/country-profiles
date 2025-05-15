@@ -80,7 +80,7 @@ most of the population is concentrated in the northern and western highlands alo
 subject to floods, rockslides, mudslides; periodic droughts<br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> the country lies on major sea and air routes linking North and South America</p> <p><strong>note 2:</strong> Venezuela has some of the most unique geology in the world; tepuis are massive table-top mountains of the western Guiana Highlands that tend to be isolated and thus support unique endemic plant and animal species; their sheer cliffsides account for some of the most spectacular waterfalls in the world including Angel Falls, the world's highest (979 m) that drops off Auyan Tepui</p><br>
+<p><strong>note 1:</strong> the country lies on major sea and air routes linking North and South America</p> <p><strong>note 2:</strong> Venezuela has some of the most unique geology in the world; <em>tepuis </em>are the massive table-top mountains of the western Guiana Highlands that tend to be isolated and thus support unique endemic plant and animal species; their sheer cliffsides help create some of the most spectacular waterfalls in the world, including Angel Falls, the world's highest (979 m; 3,212 ft) that drops from Auyan Tepui</p><br>
 
 ## People and Society
 
@@ -109,10 +109,10 @@ _15-64 years_: 65.9% (male 10,264,353/female 10,330,376)<br>
 _65 years and over_: 9.1% (2024 est.) (male 1,303,737/female 1,553,172)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 57.5<br>
-_youth dependency ratio_: 44.4<br>
-_elderly dependency ratio_: 13.1<br>
-_potential support ratio_: 7.6 (2021 est.)<br>
+_total dependency ratio_: 51.7 (2024 est.)<br>
+_youth dependency ratio_: 37.9 (2024 est.)<br>
+_elderly dependency ratio_: 13.9 (2024 est.)<br>
+_potential support ratio_: 7.2 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 31 years (2024 est.)<br>
@@ -223,7 +223,7 @@ _female_: 97.7% (2021)<br>
 ## Environment
 
 **Environment - current issues**<br>
-sewage pollution of Lago de Valencia; oil and urban pollution of Lago de Maracaibo; deforestation; soil degradation; urban and industrial pollution, especially along the Caribbean coast; threat to the rainforest ecosystem from irresponsible mining operations<br>
+sewage pollution of Lago de Valencia; oil and urban pollution of Lago de Maracaibo; deforestation; soil degradation; urban and industrial pollution, especially along the Caribbean coast; threat to the rainforest ecosystem from mining operations<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
@@ -280,7 +280,7 @@ _conventional short form_: Venezuela<br>
 _local long form_: Rep&uacute;blica Bolivariana de Venezuela<br>
 _local short form_: Venezuela<br>
 _former_: State of Venezuela, Republic of Venezuela, United States of Venezuela<br>
-_etymology_: native stilt-houses built on Lake Maracaibo reminded early explorers Alonso de OJEDA and Amerigo VESPUCCI in 1499 of buildings in Venice and so they named the region "Venezuola," which in Italian means "Little Venice"<br>
+_etymology_: in 1499, the stilt-houses built on Lake Maracaibo reminded explorers Alonso de OJEDA and Amerigo VESPUCCI of buildings in Venice, Italy, and they named the region "Venezuola," meaning "Little Venice"<br>
 
 **Government type**<br>
 federal presidential republic<br>
@@ -289,7 +289,7 @@ federal presidential republic<br>
 _name_: Caracas<br>
 _geographic coordinates_: 10 29 N, 66 52 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named for the native Caracas tribe that originally settled in the city's valley site near the Caribbean coast<br>
+_etymology_: named for the Caracas tribe that originally settled in the area; the origin of their name is unknown<br>
 
 **Administrative divisions**<br>
 23 states (estados, singular - estado), 1 capital district* (distrito capital), and 1 federal dependency** (dependencia federal); Amazonas, Anzoátegui, Apure, Aragua, Barinas, Bolivar, Carabobo, Cojedes, Delta Amacuro, Dependencias Federales (Federal Dependencies)**, Distrito Capital (Capital District)*, Falcon, Guárico, La Guairá, Lara, Merida, Miranda, Monagas, Nueva Esparta, Portuguesa, Sucre, Táchira, Trujillo, Yaracuy, Zulia<br>
@@ -441,19 +441,19 @@ agricultural products, livestock, raw materials, machinery and equipment, transp
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-11.423 million (2023 est.)<br>
+11.136 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.53% (2023 est.)<br>
-5.75% (2022 est.)<br>
-7.03% (2021 est.)<br>
+5.5% (2024 est.)<br>
+5.5% (2023 est.)<br>
+5.7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.8% (2023 est.)<br>
-_male_: 9.5% (2023 est.)<br>
-_female_: 14.1% (2023 est.)<br>
+_total_: 10.6% (2024 est.)<br>
+_male_: 9.3% (2024 est.)<br>
+_female_: 13.2% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -524,6 +524,7 @@ _Currency_: bolivars (VEB) per US dollar -<br>
 9.257 (2016 est.)<br>
 6.284 (2015 est.)<br>
 6.284 (2014 est.)<br>
+6.048 (2013 est.)<br>
 
 ## Energy
 
@@ -582,7 +583,7 @@ _domestic_: fixed-line is 10 per 100 and mobile-cellular telephone subscribershi
 _international_: country code - 58; landing points for the Venezuela Festoon, ARCOS, PAN-AM, SAC, GlobeNet, ALBA-1 and Americas II submarine cable system providing connectivity to the Caribbean, Central and South America, and US; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 PanAmSat (2020)<br>
 
 **Broadcast media**<br>
-Venezuela has a mixture of state-run and private broadcast media that are subject to high levels of control, including the shuttering of opposition-leaning media outlets; 13 public service networks, 61 privately owned TV networks, a privately owned news channel with limited national coverage, and a Maduro-backed Pan-American channel; 3 Maduro-aligned radio networks officially control roughly 65 news stations and another 30 stations targeted at specific audiences; Maduro-sponsored community broadcasters include 235 radio stations and 44 TV stations; the number of private broadcast radio stations has been declining, but many still remain in operation (2021)<br>
+mix of state-run and private broadcast media subject to high levels of control; 13 public service networks, 61 privately owned TV networks, 1 privately owned news channel with limited national coverage, and a Maduro-backed Pan-American channel; 3 Maduro-aligned radio networks control about 65 news stations and another 30 stations targeted at specific audiences; Maduro-sponsored community broadcasters include 235 radio stations and 44 TV stations; the number of private broadcast radio stations declining, but many remain&nbsp; (2021)<br>
 
 **Internet country code**<br>
 .ve<br>
@@ -596,12 +597,6 @@ _subscriptions per 100 inhabitants_: 10 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 12 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 75<br>
-_annual passenger traffic on registered air carriers_: 2,137,771 (2018)<br>
-_annual freight traffic on registered air carriers_: 1.55 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 YV<br>
 
@@ -611,18 +606,9 @@ YV<br>
 **Heliports**<br>
 88 (2025)<br>
 
-**Pipelines**<br>
-981 km extra heavy crude, 5941 km gas, 7,588 km oil, 1,778 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 447 km (2014)<br>
 _standard gauge_: 447 km (2014) 1.435-m gauge (41.4 km electrified)<br>
-
-**Roadways**<br>
-_total_: 96,189 km (2014)<br>
-
-**Waterways**<br>
-7,100 km (2011) (Orinoco River (400 km) and Lake de Maracaibo navigable by oceangoing vessels)<br>
 
 **Merchant marine**<br>
 _total_: 272 (2023)<br>
@@ -640,8 +626,8 @@ _key ports_: Amuay (Bahia de Amuay), Bahia de Pertigalete, Ciudad Bolivar, Guant
 ## Military and Security
 
 **Military and security forces**<br>
-Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bolivarian Army (Ejercito Bolivariano, EB), Bolivarian Navy (Armada Bolivariana, AB; includes marines, Coast Guard), Bolivarian Military Aviation (Aviacion Militar Bolivariana, AMB; includes a joint-service Aerospace Defense Command (Comando de Defensa Aeroespacial Integral, CODAI), Bolivarian Militia (Milicia Bolivariana), Bolivarian National Guard (Guardia Nacional Bolivaria, GNB)<br><br>Ministry of Interior, Justice, and Peace: Bolivarian National Police (Policía Nacional Bolivariana, PNB) (2024)<br>
-<strong>note 1: </strong>the Bolivarian Militia was added as a "special component" to the FANB in 2020; it is comprised of armed civilians who receive periodic training in exchange for a small stipend<br><br><strong>note 2: </strong>the National Guard, established in 1937 and made a component of the FANB in 2007, is responsible for maintaining public order, guarding the exterior of key government installations and prisons, conducting counter-narcotics operations, monitoring borders, and providing law enforcement in remote areas; it reports to both the Ministry of Defense and the Ministry of Interior, Justice, and Peace<br><br><strong>note 3: </strong>the PNB is a federal force created by Hugo CHAVEZ in 2008 as a “preventative police force,” separate from state and local ones; the PNB largely focuses on policing Caracas’ Libertador municipality, patrolling Caracas-area highways, railways, and metro system, and protecting diplomatic missions; the PNB includes the Special Action Forces (Fuerzas de Acciones Especiales, FAES), a paramilitary unit created by President MADURO to bolster internal security after the 2017 anti-government protests; it has been accused of multiple human rights abuses    <br>
+Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bolivarian Army (Ejercito Bolivariano, EB), Bolivarian Navy (Armada Bolivariana, AB; includes marines, Coast Guard), Bolivarian Military Aviation (Aviacion Militar Bolivariana, AMB), Bolivarian Militia (Milicia Bolivariana), Bolivarian National Guard (Guardia Nacional Bolivaria, GNB), Presidential Honor Guard<br><br>Ministry of Interior, Justice, and Peace: Bolivarian National Police (Policía Nacional Bolivariana, PNB) (2025)<br>
+<strong>note 1: </strong>the Bolivarian Militia and the Presidential Honor Guard are considered special/secondary components of the FANB;<strong> </strong>the Militia is composed of the Military Reserve and the Territorial Militia and is comprised of armed civilians who receive periodic training in exchange for a small stipend<br><br><strong>note 2: </strong>the National Guard was made part of the FANB in 2007 and is responsible for maintaining public order, guarding the exterior of key government installations and prisons, conducting counter-narcotics operations, monitoring borders, and providing law enforcement in remote areas; it reports to both the Ministry of Defense and the Ministry of Interior, Justice, and Peace<br><br><strong>note 3: </strong>the PNB is a federal force created by Hugo CHAVEZ in 2008 as a “preventative police force,” separate from state and local ones; the PNB largely focuses on policing Caracas’ Libertador municipality, patrolling Caracas-area highways, railways, and metro system, and protecting diplomatic missions; the PNB includes the Special Action Forces (Fuerzas de Acciones Especiales, FAES), a paramilitary unit created by President MADURO to bolster internal security after the 2017 anti-government protests <br>
 
 **Military expenditures**<br>
 5.2% of GDP (2019 est.)<br>
@@ -651,18 +637,17 @@ Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bol
 1.8% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 125-150,000 active military personnel, including about 25-30,000 National Guard; approximately 200-225,000 Bolivarian Militia; approximately 45,000 National Police (2023)<br>
-<strong>note: </strong>in December 2022, President Nicolas MADURO announced that the National Police would be increased to 100,000 in 2024<br>
+information varies; approximately 125-150,000 active Army, Navy, Air Force, and National Guard personnel; estimated 200,000 Bolivarian Militia (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FANB inventory is comprised mostly of Russian/Soviet-era weapons and equipment; in recent years, it has acquired some material from China and Iran; it also has smaller quantities of older equipment from France, Germany, Spain, the UK, and the US (2024)<br>
 <strong>note:</strong> the US prohibited the sale or transfer of military arms or technology to Venezuela in 2006<br>
 
 **Military service age and obligation**<br>
-18-30 (25 for women) for voluntary service; the minimum service obligation is 24-30 months; all citizens of military service age (18-50) are obligated to register for military service and subject to military training, although &ldquo;forcible recruitment&rdquo; is forbidden (2023)<br>
+18-30 (25 for women) for voluntary service; the minimum service obligation is 24-30 months; 17-39 for Militia service; all citizens of military service age (18-50) are obligated to register for military service and subject to military training (2025)<br>
 
 **Military - note**<br>
-the armed forces (FANB) are responsible for ensuring Venezuela’s independence, sovereignty, and territorial integrity but also have a domestic role, including assisting with maintaining internal security, conducting counter-narcotics missions, contributing to national socio-economic development, and providing disaster relief/humanitarian assistance; the military conducts internal security operations in large parts of the country and has been deployed against illegal armed groups operating in the Colombian border region and other areas to combat organized crime gangs involved in narcotics trafficking and illegal mining; it has close ties to China and Russia, including weapons acquisitions and technical support<br><br>the military has a large role in the country’s economy and political sectors; between 2013 and 2017, Venezuela established at least a dozen military-led firms in economic areas such as agriculture, banking, construction, insurance, the media, mining, oil, and tourism; military officers reportedly lead as many as 60 state-owned companies; as of 2023, 14 of 32 government ministries were controlled by the military, including the ministries of agriculture, food, petroleum, and water<br><br>the FANB is deployed throughout the country in one maritime and seven geographical regional commands known as Integral Strategic Defense Regions (Regiones Estrategicas de Defensa Integral or REDI) that are mandated to provide for the defense, security, social, and economic needs of their respective areas of responsibility; the REDIs are further broken down into zones and state commands; the National Guard is also organized into regional commands, while the Bolivarian Militia is reportedly divided into a reserve service, a territorial guard component comprised of local battalions and detachments, and a coastal guard force<br><br>members of the terrorist organizations National Liberation Army (ELN) and Revolutionary Armed Forces of Colombia dissidents (FARC-People's Army and Segundo Marquetalia) operate in Venezuela, mostly in the states of Amazonas, Apure, Bolivar, Guarico, Tachira, and Zulia, although the ELN is assessed to be present in 12 of Venezuela’s 23 states; the Venezuelan military has been deployed to the border region to patrol border crossings and has clashed with both the ELN and the FARC dissident groups (2023)<br>
+the armed forces (FANB) are responsible for ensuring Venezuela’s independence, sovereignty, and territorial integrity but also have a domestic role, including assisting with maintaining internal security, conducting counter-narcotics missions, contributing to national socio-economic development, and providing disaster relief/humanitarian assistance; the military conducts internal security operations in large parts of the country and has been deployed against illegal armed groups operating in the Colombian border region and other areas to combat organized crime gangs involved in narcotics trafficking and illegal mining; it has ties with the militaries of China, Cuba, Iran, and Russia<br><br>the military has a large role in the country’s economy and political sectors; between 2013 and 2017, Venezuela established at least a dozen military-led firms in economic areas such as agriculture, banking, construction, insurance, the media, mining, oil, and tourism; military officers reportedly lead as many as 60 state-owned companies; as of 2023, 14 of 32 government ministries were controlled by the military, including the ministries of agriculture, food, petroleum, and water<br><br>members of the terrorist organizations National Liberation Army (ELN) and Revolutionary Armed Forces of Colombia dissidents (FARC-People's Army and Segundo Marquetalia) operate in Venezuela, mostly in the states of Amazonas, Apure, Bolivar, Guarico, Tachira, and Zulia, although the ELN is assessed to be present in 12 of Venezuela’s 23 states; the Venezuelan military has been deployed to the border region to patrol border crossings and has clashed with both the ELN and the FARC dissident groups (2024)<br>
 
 ## Space
 

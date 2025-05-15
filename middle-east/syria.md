@@ -77,7 +77,7 @@ significant population density along the Mediterranean coast; larger concentrati
 <p>dust storms, sandstorms</p><p><strong>volcanism:</strong> Syria's two historically active volcanoes, Es Safa and an unnamed volcano near the Turkish border have not erupted in centuries</p><br>
 
 **Geography - note**<br>
-the capital of Damascus -- located at an oasis fed by the Barada River -- is thought to be one of the world's oldest continuously inhabited cities; there are 42 Israeli settlements and civilian land use sites in the Israeli-controlled Golan Heights (2017)<br>
+the capital of Damascus is located at an oasis fed by the Barada River and is thought to be one of the world's oldest continuously inhabited cities; there are Israeli settlements and civilian land-use sites in the Israeli-controlled Golan Heights (2017)<br>
 
 ## People and Society
 
@@ -107,10 +107,10 @@ _15-64 years_: 62.8% (male 7,475,355/female 7,522,797)<br>
 _65 years and over_: 4.2% (2024 est.) (male 468,730/female 532,271)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 55.4<br>
-_youth dependency ratio_: 53<br>
-_elderly dependency ratio_: 7.4<br>
-_potential support ratio_: 13.5 (2021 est.)<br>
+_total dependency ratio_: 59.1 (2024 est.)<br>
+_youth dependency ratio_: 52.4 (2024 est.)<br>
+_elderly dependency ratio_: 6.7 (2024 est.)<br>
+_potential support ratio_: 15 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 24.1 years (2024 est.)<br>
@@ -207,9 +207,6 @@ NA<br>
 **Currently married women (ages 15-49)**<br>
 52.6% (2023 est.)<br>
 
-**Education expenditures**<br>
-NA<br>
-
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
 _total population_: 86.4%<br>
@@ -280,7 +277,7 @@ _conventional short form_: Syria<br>
 _local long form_: Al Jumhuriyah al Arabiyah as Suriyah<br>
 _local short form_: Suriyah<br>
 _former_: United Arab Republic (with Egypt)<br>
-_etymology_: name ultimately derived from the ancient Assyrians who dominated northern Mesopotamia, but whose reach also extended westward to the Levant; over time, the name came to be associated more with the western area<br>
+_etymology_: the source of the name is uncertain; the name appears as "Suri" in Babylonian cuneiform writings dating from about 4000 B.C.<br>
 
 **Government type**<br>
 presidential republic; highly authoritarian regime<br>
@@ -289,7 +286,7 @@ presidential republic; highly authoritarian regime<br>
 _name_: Damascus<br>
 _geographic coordinates_: 33 30 N, 36 18 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: Damascus is a very old city; its earliest name, Temeseq, first appears in an Egyptian geographical list of the 15th century B.C., but the meaning is uncertain<br>
+_etymology_: the city has an ancient, pre-Semitic name of unknown origin<br>
 
 **Administrative divisions**<br>
 14 provinces (muhafazat, singular - muhafazah); Al Hasakah, Al Ladhiqiyah (Latakia), Al Qunaytirah, Ar Raqqah, As Suwayda', Dar'a, Dayr az Zawr, Dimashq (Damascus), Halab (Aleppo), Hamah, Hims (Homs), Idlib, Rif Dimashq (Damascus Countryside), Tartus<br>
@@ -301,7 +298,7 @@ _etymology_: Damascus is a very old city; its earliest name, Temeseq, first appe
 Independence Day (Evacuation Day), 17 April (1946); note - celebrates the leaving of the last French troops and the proclamation of full independence<br>
 
 **Legal system**<br>
-mixed legal system of civil and Islamic (sharia) law (for family courts)<br>
+mixed system of civil and Islamic (sharia) law (for family courts)<br>
 
 **Constitution**<br>
 _history_: Syria's 2012 constitution was rescinded by the Hayat Tahrir al-Sham-led government in January 2025; in March 2025, interim authorities announced a transitional constitution to remain in effect for up to five years<br>
@@ -399,9 +396,9 @@ $23.623 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-13.42% (2019 est.)<br>
-0.94% (2018 est.)<br>
-18.08% (2017 est.)<br>
+13.4% (2019 est.)<br>
+0.9% (2018 est.)<br>
+18.1% (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 43.1% (2022 est.)<br>
@@ -429,19 +426,19 @@ petroleum, textiles, food processing, beverages, tobacco, phosphate rock mining,
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-6.354 million (2023 est.)<br>
+6.617 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-13.54% (2023 est.)<br>
-13.81% (2022 est.)<br>
-14.8% (2021 est.)<br>
+13% (2024 est.)<br>
+13.2% (2023 est.)<br>
+13.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 33.5% (2023 est.)<br>
-_male_: 29.8% (2023 est.)<br>
-_female_: 52.6% (2023 est.)<br>
+_total_: 31.5% (2024 est.)<br>
+_male_: 27.8% (2024 est.)<br>
+_female_: 47.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -476,9 +473,9 @@ _expenditures_: $3.211 billion (2017 est.)<br>
 -$2.077 billion (2016 est.)<br>
 
 **Exports**<br>
-$2.224 billion (2021 est.)<br>
+$1.609 billion (2022 est.)<br>
+$2.227 billion (2021 est.)<br>
 $1.649 billion (2020 est.)<br>
-$2.94 billion (2019 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -490,9 +487,9 @@ olive oil, phosphates, spice seeds, cotton, tomatoes (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$6.553 billion (2021 est.)<br>
+$6.803 billion (2022 est.)<br>
+$6.56 billion (2021 est.)<br>
 $3.751 billion (2020 est.)<br>
-$6.552 billion (2019 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -508,7 +505,7 @@ $407.3 million (2017 est.)<br>
 $504.6 million (2016 est.)<br>
 
 **Debt - external**<br>
-$4.578 billion (2023 est.)<br>
+$4.573 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -577,7 +574,7 @@ _domestic_: the number of fixed-line connections is 13 per 100; mobile-cellular 
 _international_: country code - 963; landing points for the Aletar, BERYTAR and UGART submarine cable connections to Egypt, Lebanon, and Cyprus; satellite earth stations - 1 Intelsat (Indian Ocean) and 1 Intersputnik (Atlantic Ocean region); coaxial cable and microwave radio relay to Iraq, Jordan, Lebanon, and Turkey; participant in Medarabtel (2019)<br>
 
 **Broadcast media**<br>
-state-run TV and radio broadcast networks;&nbsp;state operates 2 TV networks and&nbsp;5 satellite channels; roughly two-thirds of Syrian homes have a satellite dish providing access to foreign TV broadcasts; 3 state-run radio channels; first private radio station launched in 2005; private radio broadcasters prohibited from transmitting news or political content (2018)<br>
+state-run TV has 2 networks and 5 satellite channels; roughly two-thirds of homes have a satellite dish with access to foreign TV; 3 state-run radio channels; first private radio station launched in 2005; private radio broadcasters prohibited from transmitting news or political content (2018)<br>
 
 **Internet country code**<br>
 .sy<br>
@@ -591,12 +588,6 @@ _subscriptions per 100 inhabitants_: 7 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 3 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 11<br>
-_annual passenger traffic on registered air carriers_: 17,896 (2018)<br>
-_annual freight traffic on registered air carriers_: 30,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 YK<br>
 
@@ -606,21 +597,10 @@ YK<br>
 **Heliports**<br>
 13 (2025)<br>
 
-**Pipelines**<br>
-3,170 km gas, 2029 km oil (2013)<br>
-
 **Railways**<br>
 _total_: 2,052 km (2014)<br>
 _standard gauge_: 1,801 km (2014) 1.435-m gauge<br>
 _narrow gauge_: 251 km (2014) 1.050-m gauge<br>
-
-**Roadways**<br>
-_total_: 69,873 km<br>
-_paved_: 63,060 km<br>
-_unpaved_: 6,813 km (2010)<br>
-
-**Waterways**<br>
-900 km (2011) (navigable but not economically significant)<br>
 
 **Merchant marine**<br>
 _total_: 24 (2023)<br>
@@ -648,7 +628,7 @@ as of early 2025, the interim government authorities in Syria had established a 
 7.2% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-not available; prior to the start of the civil war in 2011, the SAF had approximately 300,000 total active troops (2024)<br>
+not available<br>
 
 **Military equipment inventories and acquisitions**<br>
 prior to the fall of the ASAD regime in December 2024, the SAF was inventory was comprised mostly of Russian and Soviet-era weapons and equipment (2024)<br>

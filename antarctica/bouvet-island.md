@@ -66,11 +66,9 @@ almost entirely covered by glacial ice (93%); declared a nature reserve by Norwa
 
 **Population**<br>
 _total_: uninhabited<br>
+<strong>note: </strong>a small, seasonal research station is located in the northwest corner of Bouvet Island<br>
 
 ## Environment
-
-**Environment - current issues**<br>
-none; almost entirely ice covered<br>
 
 **Climate**<br>
 antarctic<br>
@@ -95,7 +93,7 @@ _etymology_: named after the French naval officer Jean-Baptiste Charles BOUVET w
 territory of Norway; administered by the Polar Department of the Ministry of Justice and Oslo Police<br>
 
 **Legal system**<br>
-the laws of Norway apply where applicable<br>
+the laws of Norway apply&nbsp;<br>
 
 **Flag description**<br>
 the flag of Norway is used<br>

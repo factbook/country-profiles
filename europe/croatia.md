@@ -75,7 +75,7 @@ more of the population lives in the northern half of the country, with approxima
 destructive earthquakes<br>
 
 **Geography - note**<br>
-controls most land routes from Western Europe to Aegean Sea and Turkish Straits; most Adriatic Sea islands lie off the coast of Croatia -- some 1,200 islands, islets, ridges, and rocks<br>
+controls most land routes from Western Europe to the Aegean Sea and Turkish Straits; most Adriatic Sea islands lie off the coast of Croatia -- some 1,200 islands, islets, ridges, and rocks<br>
 
 ## People and Society
 
@@ -105,10 +105,10 @@ _15-64 years_: 63.1% (male 1,307,814/female 1,309,394)<br>
 _65 years and over_: 23.1% (2024 est.) (male 399,090/female 559,055)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 56.5<br>
-_youth dependency ratio_: 22.1<br>
-_elderly dependency ratio_: 34.4<br>
-_potential support ratio_: 2.9 (2021 est.)<br>
+_total dependency ratio_: 55.2 (2024 est.)<br>
+_youth dependency ratio_: 21.6 (2024 est.)<br>
+_elderly dependency ratio_: 33.6 (2024 est.)<br>
+_potential support ratio_: 3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 45.1 years (2024 est.)<br>
@@ -232,7 +232,7 @@ _female_: 16 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution improving but still a concern in urban settings and in emissions arriving from neighboring countries; surface water pollution in the Danube River Basin<br>
+air pollution in urban areas, as well as emissions from neighboring countries; surface water pollution in the Danube River Basin<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -252,12 +252,6 @@ _other_: 39.4% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 58.6% of total population (2023)<br>
 _rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.26% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 15.29 micrograms per cubic meter (2019 est.)<br>
@@ -317,7 +311,7 @@ _etymology_: the city's name means "beyond the bank (or ditch)"; <em>za </em>in 
 Statehood Day (National Day), 30 May (1990); note - marks the day in 1990 that the first modern multi-party Croatian parliament convened<br>
 
 **Legal system**<br>
-civil law system influenced by legal heritage of Austria-Hungary; note - Croatian law was fully harmonized with the European Community acquis as of the June 2010 completion of EU accession negotiations<br>
+civil law system influenced by legal heritage of Austria-Hungary<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 22 December 1990<br>
@@ -428,9 +422,9 @@ $84.394 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-7.94% (2023 est.)<br>
-10.78% (2022 est.)<br>
-2.55% (2021 est.)<br>
+7.9% (2023 est.)<br>
+10.8% (2022 est.)<br>
+2.6% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -466,19 +460,19 @@ chemicals and plastics, machine tools, fabricated metal, electronics, pig iron a
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.744 million (2023 est.)<br>
+1.718 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.06% (2023 est.)<br>
-6.96% (2022 est.)<br>
-7.61% (2021 est.)<br>
+5.2% (2024 est.)<br>
+6.1% (2023 est.)<br>
+7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.2% (2023 est.)<br>
-_male_: 17.3% (2023 est.)<br>
-_female_: 22.3% (2023 est.)<br>
+_total_: 16.6% (2024 est.)<br>
+_male_: 15.5% (2024 est.)<br>
+_female_: 18.2% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -510,11 +504,11 @@ _expenditures_: $3.662 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-83% of GDP (2022 est.)<br>
+75.6% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-21.65% (of GDP) (2022 est.)<br>
+21.5% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -552,18 +546,18 @@ refined petroleum, cars, garments, natural gas, crude petroleum (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$3.336 billion (2024 est.)<br>
 $3.176 billion (2023 est.)<br>
 $29.726 billion (2022 est.)<br>
-$28.309 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 <strong>note:</strong> Croatia used the kuna prior to conversion to the euro on 1 January 2023. During the transition period the exchange rate was fixed at 7.53450 kuna to 1 euro.<br>
 
 ## Energy
@@ -628,7 +622,7 @@ _domestic_: fixed-line teledensity 31 per 100 persons; mobile-cellular telephone
 _international_: country code - 385; &nbsp;the ADRIA-1 submarine cable provides connectivity to Albania and Greece;&nbsp;digital international service is provided through the main switch in Zagreb; Croatia participates in the Trans-Asia-Europe fiber-optic project, which consists of 2 fiber-optic trunk connections with Slovenia and a fiber-optic trunk line from Rijeka to Split and Dubrovnik (2019)<br>
 
 **Broadcast media**<br>
-the national state-owned public broadcaster, Croatian Radiotelevision, operates 4 terrestrial TV networks, a satellite channel that rebroadcasts programs for Croatians living abroad, and 6 regional TV centers; 2 private broadcasters operate national terrestrial networks;&nbsp;29 privately owned regional TV stations; multi-channel cable and satellite TV subscription services are available; state-owned public broadcaster operates&nbsp;4 national radio networks and&nbsp;23 regional radio stations; 2 privately owned national radio networks and 117 local&nbsp;radio stations (2019)<br>
+the national state-owned public broadcaster, Croatian Radiotelevision, operates 4 terrestrial TV networks, a satellite channel that rebroadcasts programs for Croatians overseas, and 6 regional TV centers; 2 private broadcasters with national terrestrial networks; 29 privately owned regional TV stations; multi-channel cable and satellite TV subscription services are available; state-owned public broadcaster operates 4 national radio networks and 23 regional radio stations; 2 privately owned national radio networks and 117 local radio stations (2019)<br>
 
 **Internet country code**<br>
 .hr<br>
@@ -642,12 +636,6 @@ _subscriptions per 100 inhabitants_: 28 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 18<br>
-_annual passenger traffic on registered air carriers_: 2,093,577 (2018)<br>
-_annual freight traffic on registered air carriers_: 530,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 9A<br>
 
@@ -657,17 +645,8 @@ _annual freight traffic on registered air carriers_: 530,000 (2018) mt-km<br>
 **Heliports**<br>
 7 (2025)<br>
 
-**Pipelines**<br>
-2,410 km gas, 610 km oil (2011)<br>
-
 **Railways**<br>
 _total_: 2,617 km (2020) 980 km electrified<br>
-
-**Roadways**<br>
-_total_: 26,958 km (2022)<br>
-
-**Waterways**<br>
-4,714 km (2022) Danube 2,859 km, Sava 562 km, Drava 505 km, Neretva 20 km, Bosut 151 km, Kupa 296 km, Mura 53 km, Korana 134 km, Lonja 134 km<br>
 
 **Merchant marine**<br>
 _total_: 384 (2023)<br>

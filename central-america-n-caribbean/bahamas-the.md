@@ -96,10 +96,10 @@ _15-64 years_: 70% (male 132,626/female 154,866)<br>
 _65 years and over_: 8.6% (2024 est.) (male 15,799/female 19,533)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 39.3<br>
-_youth dependency ratio_: 27.3<br>
-_elderly dependency ratio_: 11.9<br>
-_potential support ratio_: 8.4 (2021 est.)<br>
+_total dependency ratio_: 42.9 (2024 est.)<br>
+_youth dependency ratio_: 30.6 (2024 est.)<br>
+_elderly dependency ratio_: 12.3 (2024 est.)<br>
+_potential support ratio_: 8.1 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 30.7 years (2024 est.)<br>
@@ -224,12 +224,6 @@ _other_: 47.8% (2022 est.)<br>
 _urban population_: 83.6% of total population (2023)<br>
 _rate of urbanization_: 1.02% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-0.01% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 5.2 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 1.79 megatons (2016 est.)<br>
@@ -259,7 +253,7 @@ _name_: Nassau<br>
 _geographic coordinates_: 25 05 N, 77 21 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday in November<br>
-_etymology_: named after William III (1650-1702), king of England, Scotland, and Ireland, who was a member of the House of Nassau<br>
+_etymology_: named after King WILLIAM III of England (1650-1702), who was a member of the House of Orange-Nassau<br>
 
 **Administrative divisions**<br>
 31 districts; Acklins Islands, Berry Islands, Bimini, Black Point, Cat Island, Central Abaco, Central Andros, Central Eleuthera, City of Freeport, Crooked Island and Long Cay, East Grand Bahama, Exuma, Grand Cay, Harbour Island, Hope Town, Inagua, Long Island, Mangrove Cay, Mayaguana, Moore's Island, North Abaco, North Andros, North Eleuthera, Ragged Island, Rum Cay, San Salvador, South Abaco, South Andros, South Eleuthera, Spanish Wells, West Grand Bahama<br>
@@ -271,7 +265,7 @@ _etymology_: named after William III (1650-1702), king of England, Scotland, and
 Independence Day, 10 July (1973)<br>
 
 **Legal system**<br>
-common law system based on the English model<br>
+common-law system based on the English model<br>
 
 **Constitution**<br>
 _history_: previous 1964 (pre-independence); latest adopted 20 June 1973, effective 10 July 1973<br>
@@ -390,8 +384,8 @@ $14.339 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-3.05% (2023 est.)<br>
-5.61% (2022 est.)<br>
+3.1% (2023 est.)<br>
+5.6% (2022 est.)<br>
 2.9% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
@@ -427,19 +421,19 @@ tourism, banking, oil bunkering, maritime industries, transshipment and logistic
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-235,000 (2023 est.)<br>
+237,100 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-9.2% (2023 est.)<br>
-9.87% (2022 est.)<br>
-11.69% (2021 est.)<br>
+8.5% (2024 est.)<br>
+8.6% (2023 est.)<br>
+9.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.6% (2023 est.)<br>
-_male_: 21.5% (2023 est.)<br>
-_female_: 26.7% (2023 est.)<br>
+_total_: 17.8% (2024 est.)<br>
+_male_: 17.8% (2024 est.)<br>
+_female_: 17.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
@@ -453,11 +447,11 @@ _expenditures_: $3.102 billion (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-82.16% of GDP (2022 est.)<br>
+78.5% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-16.43% (of GDP) (2022 est.)<br>
+17.3% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -552,12 +546,12 @@ _total subscriptions_: 400,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 99 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the two local providers ensure&nbsp; good telecoms coverage across the archipelago; fiber-to-home investments have been prioritized with 5G adoption pending (2023)<br>
+_general assessment_: two local providers ensure good telecoms coverage across the archipelago; fiber-to-home investments have been prioritized, with 5G adoption pending (2023)<br>
 _domestic_: 22 per 100 fixed-line, 115 per 100 mobile-cellular (2020)<br>
 _international_: country code - 1-242; landing points for the ARCOS-1, BICS, Bahamas 2-US, and BDSN fiber-optic submarine cables that provide links to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 2; the Bahamas Domestic Submarine Network links all of the major islands; (2019)<br>
 
 **Broadcast media**<br>
-The Bahamas has 4 major TV providers that provide service to all major islands in the archipelago; 1 TV station is operated by government-owned, commercially run Broadcasting Corporation of the Bahamas (BCB) and competes freely with&nbsp;4 privately owned TV stations; multi-channel cable TV subscription service is widely available; there are 32 licensed broadcast (radio) service providers,&nbsp;31 are privately owned FM radio stations operating on New Providence, Grand Bahama Island, Abaco Island, and on smaller islands in the country; the BCB operates a multi-channel radio broadcasting network that has national coverage; the sector is regulated by the Utilities Regulation and Competition Authority (2019)<br>
+4 major TV providers; 1 TV station is operated by government-owned, commercially run Broadcasting Corporation of the Bahamas (BCB) and competes with 4 privately owned TV stations; multi-channel cable TV subscription service is widely available; 32 licensed broadcast (radio) service providers, with 31 privately owned FM radio stations; the BCB operates a multi-channel radio network with national coverage; the sector is regulated by the Utilities Regulation and Competition Authority (2019)<br>
 
 **Internet country code**<br>
 .bs<br>
@@ -571,12 +565,6 @@ _subscriptions per 100 inhabitants_: 24 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 5 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 35<br>
-_annual passenger traffic on registered air carriers_: 1,197,116 (2018)<br>
-_annual freight traffic on registered air carriers_: 160,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 C6<br>
 
@@ -585,11 +573,6 @@ C6<br>
 
 **Heliports**<br>
 9 (2025)<br>
-
-**Roadways**<br>
-_total_: 2,700 km<br>
-_paved_: 1,620 km<br>
-_unpaved_: 1,080 km (2011)<br>
 
 **Merchant marine**<br>
 _total_: 1,274 (2023)<br>

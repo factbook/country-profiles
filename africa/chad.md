@@ -77,7 +77,7 @@ the population is unevenly distributed due to contrasts in climate and physical 
 hot, dry, dusty harmattan winds occur in north; periodic droughts; locust plagues<br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> Chad is the largest of Africa's 16 landlocked countries</p> <p><strong>note 2:</strong> not long ago, geologically speaking, what is today the Sahara was green savannah teeming with wildlife; during the African Humid Period, roughly 11,000 to 5,000 years ago, a vibrant animal community, including elephants, giraffes, hippos, and antelope lived there; the last remnant of the "Green Sahara" exists in the Lakes of Ounianga (oo-nee-ahn-ga) in northern Chad, a series of 18 interconnected freshwater, saline, and hypersaline lakes now protected as a World Heritage site</p> <p><strong>note 3:</strong> Lake Chad, the most significant water body in the Sahel, is a remnant of a former inland sea, paleolake Mega-Chad; at its greatest extent, sometime before 5000 B.C., Lake Mega-Chad was the largest of four Saharan paleolakes that existed during the African Humid Period; it covered an area of about 400,000 sq km (150,000 sq mi), roughly the size of today's Caspian Sea</p><br>
+<p><strong>note 1:</strong> Chad is the largest of Africa's 16 landlocked countries</p> <p><strong>note 2:</strong> a wide variety of animals lived in modern-day Chad during the African Humid Period, including elephants, giraffes, hippos, and antelope; the last remnant of this "Green Sahara" exists in the Lakes of Ounianga in northern Chad, a series of 18 interconnected freshwater, saline, and hypersaline lakes </p> <p><strong>note 3:</strong> Lake Chad, the most significant water body in the Sahel, is a remnant of a former inland sea, paleolake Mega-Chad; at its greatest extent, sometime before 5000 B.C., Lake Mega-Chad was the largest of four Saharan paleolakes that existed during the African Humid Period; it covered an area of about 400,000 sq km (150,000 sq mi), roughly the size of today's Caspian Sea</p><br>
 
 ## People and Society
 
@@ -106,10 +106,10 @@ _15-64 years_: 51.7% (male 4,831,744/female 5,031,383)<br>
 _65 years and over_: 2.5% (2024 est.) (male 204,823/female 274,115)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 98.7<br>
-_youth dependency ratio_: 94.7<br>
-_elderly dependency ratio_: 4<br>
-_potential support ratio_: 24.9 (2021 est.)<br>
+_total dependency ratio_: 93.6 (2024 est.)<br>
+_youth dependency ratio_: 88.7 (2024 est.)<br>
+_elderly dependency ratio_: 4.9 (2024 est.)<br>
+_potential support ratio_: 20.6 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 16.7 years (2024 est.)<br>
@@ -236,7 +236,7 @@ _female_: 6 years (2015)<br>
 ## Environment
 
 **Environment - current issues**<br>
-inadequate supplies of potable water; improper waste disposal in rural areas and poor farming practices contribute to soil and water pollution; desertification<br>
+inadequate supplies of potable water; soil and water pollution from improper waste disposal in rural areas and poor farming practices; desertification<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
@@ -259,12 +259,6 @@ _rate of urbanization_: 4.1% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to civil insecurity and high food prices - </em>according to the latest analysis, about 1.86 million people are projected to experience acute food insecurity during the June to August 2023 lean season period; this would be an improvement compared to the previous year, mostly due to the higher year-on-year cereal output in 2022 after the below average 2021 production; acute food insecurity is underpinned by persisting insecurity in the Lac and Tibesti regions, which had displaced over 380 000 people by April 2023; furthermore, elevated food prices due to high fuel costs and localized crop losses during the 2022 floods are aggravating food insecurity (2023)<br>
-
-**Revenue from forest resources**<br>
-3.81% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 41.15 micrograms per cubic meter (2019 est.)<br>
@@ -320,7 +314,7 @@ _etymology_: said to derive its name from a local word meaning "place of rest"<b
 Independence Day, 11 August (1960)<br>
 
 **Legal system**<br>
-mixed legal system of civil and customary law<br>
+mixed system of civil and customary law<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted by National Transitional Council 27 June 2023, approved by referendum 17 December, verified by Chad Supreme Court 28 December, promulgated 1 January 2024<br>
@@ -358,7 +352,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 12/29/2024<br>
 _parties elected and seats per party_: Patriotic Salvation Movement (MPS) (124); Rally of Chadian Nationalists/Awakening (RNDT/ Le Réveil) (12); Others (27); Other (25)<br>
-_percentage of women in chamber_: 34%<br>
+_percentage of women in chamber_: 33.5%<br>
 _expected date of next election_: December 2029<br>
 
 **Legislative branch - upper chamber**<br>
@@ -367,7 +361,7 @@ _number of seats_: 69 (46 indirectly elected; 23 appointed)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 6 years<br>
 _most recent election date_: 2/25/2025<br>
-_percentage of women in chamber_: 37.7%<br>
+_percentage of women in chamber_: 36.2%<br>
 _expected date of next election_: February 2031<br>
 
 **Judicial branch**<br>
@@ -441,9 +435,9 @@ $13.149 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-10.84% (2023 est.)<br>
-5.79% (2022 est.)<br>
--0.77% (2021 est.)<br>
+8.9% (2024 est.)<br>
+10.8% (2023 est.)<br>
+5.8% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -473,19 +467,19 @@ oil, cotton textiles, brewing, natron (sodium carbonate), soap, cigarettes, cons
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-6.209 million (2023 est.)<br>
+6.6 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.08% (2023 est.)<br>
+1.1% (2024 est.)<br>
+1.1% (2023 est.)<br>
 1.1% (2022 est.)<br>
-1.51% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 1.5% (2023 est.)<br>
-_male_: 2.1% (2023 est.)<br>
-_female_: 0.7% (2023 est.)<br>
+_total_: 1.5% (2024 est.)<br>
+_male_: 2.1% (2024 est.)<br>
+_female_: 0.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -521,9 +515,9 @@ _expenditures_: $2.12 billion (2020 est.)<br>
 -$926 million (2016 est.)<br>
 
 **Exports**<br>
-$6.503 billion (2022 est.)<br>
+$5.721 billion (2023 est.)<br>
+$6.114 billion (2022 est.)<br>
 $4.565 billion (2021 est.)<br>
-$2.863 billion (2020 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -535,9 +529,9 @@ crude petroleum, gold, oil seeds, gum resins, cotton (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$5.028 billion (2022 est.)<br>
+$6.321 billion (2023 est.)<br>
+$5.009 billion (2022 est.)<br>
 $5.211 billion (2021 est.)<br>
-$4.502 billion (2020 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -549,22 +543,22 @@ jewelry, broadcasting equipment, packaged medicine, cars, refined petroleum (202
 <strong>note:</strong> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$1.05 billion (2023 est.)<br>
+$1.013 billion (2022 est.)<br>
 $211.591 million (2021 est.)<br>
-$390.675 million (2020 est.)<br>
-$310.032 million (2019 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$2.434 billion (2023 est.)<br>
+$2.286 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
+606.345 (2024 est.)<br>
 606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
-585.911 (2019 est.)<br>
 
 ## Energy
 
@@ -630,30 +624,16 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 3<br>
-
 **Civil aircraft registration country code prefix**<br>
 TT<br>
 
 **Airports**<br>
 44 (2025)<br>
 
-**Pipelines**<br>
-582 km oil (2013)<br>
-
-**Roadways**<br>
-_total_: 40,000 km (2018)<br>
-<strong>note:</strong> consists of 25,000 km of national and regional roads and 15,000 km of local roads; 206 km of urban roads are paved<br>
-
-**Waterways**<br>
-12,400 km (2022) (Chari and Logone Rivers are navigable only in wet season) Chari is 11,400 km Legone is 1,000 km<br>
-
 ## Military and Security
 
 **Military and security forces**<br>
-Chadian National Army (Armee Nationale du Tchad, ANT): Ground Forces (l'Armee de Terre, AdT), Chadian Air Force (l'Armee de l'Air Tchadienne, AAT), Chadian National Gendarmerie; General Direction of the Security Services of State Institutions (Direction Generale des Services de Securite des Institutions de l'Etat, GDSSIE)<br><br>Ministry of Public Security and Immigration: National Nomadic Guard of Chad (GNNT) (2023)<br>
+Chadian National Army (Armee Nationale du Tchad, ANT): Ground Forces (l'Armee de Terre, AdT), Chadian Air Force (l'Armee de l'Air Tchadienne, AAT), Chadian National Gendarmerie; General Direction of the Security Services of State Institutions (Direction Generale des Services de Securite des Institutions de l'Etat, GDSSIE)<br><br>Ministry of Public Security and Immigration: National Nomadic Guard of Chad (GNNT) (2025)<br>
 <strong>note 1:</strong> the GDSSIE is the presidential guard force and is considered to be Chad's elite military unit; it is reportedly a division-sized force with infantry, armor, and special forces/anti-terrorism regiments (known as the Special Anti-Terrorist Group or SATG, aka Division of Special Anti-Terrorist Groups or DGSAT); it reports directly to the president<br><br><strong>note 2:</strong> the Chadian National Police are under the Ministry of Public Security and Immigration; border security duties are shared by the ANT, Customs (Ministry of Public Security and Immigration), the National Gendarmerie, and the GNNT<br>
 
 **Military expenditures**<br>
@@ -664,7 +644,7 @@ Chadian National Army (Armee Nationale du Tchad, ANT): Ground Forces (l'Armee de
 2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-limited and varied available information; estimated 35-40,000 Chadian Army personnel; estimated 10,000 National Gendarmerie and Nomadic Guard personnel (2023)<br>
+estimated 35-40,000 active Chadian National Army (ANT) personnel (2025)<br>
 <strong>note: </strong> in 2021, Chad pledged to increase the size of the military to 60,000<br>
 
 **Military equipment inventories and acquisitions**<br>

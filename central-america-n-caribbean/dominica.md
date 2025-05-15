@@ -68,7 +68,7 @@ population is mosly clustered along the coast, with roughly a third living in th
 <p>flash floods are a constant threat; destructive hurricanes can be expected during the late summer months</p><p><strong>volcanism:</strong> Dominica was the last island to be formed in the Caribbean some 26 million years ago, it lies in the middle of the volcanic island arc of the Lesser Antilles that extends from the island of Saba in the north to Grenada in the south; of the 16 volcanoes that make up this arc, five are located on Dominica, more than any other island in the Caribbean: Morne aux Diables (861 m), Morne Diablotins (1,430 m), Morne Trois Pitons (1,387 m), Watt Mountain (1,224 m), which last erupted in 1997, and Morne Plat Pays (940 m); the two best known volcanic features on Dominica, the Valley of Desolation and the Boiling Lake thermal areas, lie on the flanks of Watt Mountain and both are popular tourist destinations</p><br>
 
 **Geography - note**<br>
-known as "The Nature Island of the Caribbean" due to its spectacular, lush, and varied flora and fauna, which are protected by an extensive natural park system; the most mountainous of the Lesser Antilles, its volcanic peaks are cones of lava craters and include Boiling Lake, the second-largest thermally active lake in the world<br>
+known as "The Nature Island of the Caribbean" due to its lush and varied flora and fauna, which are protected by an extensive natural park system; the most mountainous of the Lesser Antilles, its volcanic peaks are cones of lava craters and include Boiling Lake, the second-largest thermally active lake in the world<br>
 
 ## People and Society
 
@@ -96,10 +96,10 @@ _15-64 years_: 65.6% (male 25,000/female 24,009)<br>
 _65 years and over_: 13.7% (2024 est.) (male 4,862/female 5,369)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 41.2<br>
-_youth dependency ratio_: 28<br>
-_elderly dependency ratio_: 13.2<br>
-_potential support ratio_: 7.6 (2021)<br>
+_total dependency ratio_: 52.3 (2024 est.)<br>
+_youth dependency ratio_: 31.5 (2024 est.)<br>
+_elderly dependency ratio_: 20.9 (2024 est.)<br>
+_potential support ratio_: 4.8 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 37 years (2024 est.)<br>
@@ -197,7 +197,7 @@ _female_: NA<br>
 ## Environment
 
 **Environment - current issues**<br>
-water shortages a continuing concern; pollution from agrochemicals and from untreated sewage; forests endangered by the expansion of farming; soil erosion; pollution of the coastal zone by agricultural and industrial chemicals, and untreated sewage<br>
+pollution from agrochemicals and from untreated sewage; forests endangered by the expansion of farming; soil erosion; pollution of the coastal zone from agricultural/industrial chemicals and untreated sewage<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Whaling<br>
@@ -217,12 +217,6 @@ _other_: 2.8% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 72% of total population (2023)<br>
 _rate of urbanization_: 0.84% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.03% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 8.22 micrograms per cubic meter (2019 est.)<br>
@@ -254,7 +248,7 @@ parliamentary republic<br>
 _name_: Roseau<br>
 _geographic coordinates_: 15 18 N, 61 24 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name is French for "reed"; the first settlement was named after the river reeds that grew in the area<br>
+_etymology_: the name is French for "reed;" the first settlement was named after the river reeds that grew in the area<br>
 
 **Administrative divisions**<br>
 10 parishes; Saint Andrew, Saint David, Saint George, Saint John, Saint Joseph, Saint Luke, Saint Mark, Saint Patrick, Saint Paul, Saint Peter<br>
@@ -368,9 +362,9 @@ $653.993 million (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.23% (2023 est.)<br>
-7.78% (2022 est.)<br>
-1.48% (2021 est.)<br>
+4.2% (2023 est.)<br>
+7.8% (2022 est.)<br>
+1.5% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -417,14 +411,14 @@ _expenditures_: $164.673 million (2017 est.)<br>
 40.9% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
--$221.939 million (2023 est.)<br>
--$162.036 million (2022 est.)<br>
--$182.647 million (2021 est.)<br>
+-$223.632 million (2023 est.)<br>
+-$163.746 million (2022 est.)<br>
+-$186.101 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$185.062 million (2023 est.)<br>
-$174.041 million (2022 est.)<br>
+$188.818 million (2023 est.)<br>
+$173.93 million (2022 est.)<br>
 $117.709 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
@@ -437,9 +431,9 @@ iron blocks, medical instruments, excavation machinery, power equipment, soap (2
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$414.13 million (2023 est.)<br>
-$350.982 million (2022 est.)<br>
-$313.729 million (2021 est.)<br>
+$417.164 million (2023 est.)<br>
+$354.27 million (2022 est.)<br>
+$317.182 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -451,22 +445,22 @@ refined petroleum, ships, plastic products, semi-finished iron, cars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$155.971 million (2024 est.)<br>
 $183.53 million (2023 est.)<br>
 $204.343 million (2022 est.)<br>
-$190.843 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$328.026 million (2023 est.)<br>
+$301.191 million (2023 est.)<br>
 <strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
+2.7 (2024 est.)<br>
 2.7 (2023 est.)<br>
 2.7 (2022 est.)<br>
 2.7 (2021 est.)<br>
 2.7 (2020 est.)<br>
-2.7 (2019 est.)<br>
 
 ## Energy
 
@@ -510,7 +504,7 @@ _domestic_: 10 fixed-line connections per 100 persons; mobile-cellular subscript
 _international_: country code - 1-767; landing points for the ECFS and the&nbsp;Southern Caribbean Fiber&nbsp;submarine cables providing connectivity to other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad and to the US; microwave radio relay and SHF radiotelephone links to Martinique and Guadeloupe; VHF and UHF radiotelephone links to Saint Lucia (2019)<br>
 
 **Broadcast media**<br>
-no terrestrial TV service available; subscription cable TV provider offers some locally produced programming plus channels from the US, Latin America, and the Caribbean; state-operated radio broadcasts on 6 stations; privately owned radio broadcasts on about 15 stations (2019)<br>
+no terrestrial TV service; subscription cable TV provider offers some locally produced programming, plus channels from the US, Latin America, and the Caribbean; state-operated radio broadcasts on 6 stations; privately owned radio broadcasts on about 15 stations (2019)<br>
 
 **Internet country code**<br>
 .dm<br>
@@ -529,11 +523,6 @@ J7<br>
 
 **Airports**<br>
 2 (2025)<br>
-
-**Roadways**<br>
-_total_: 1,512 km<br>
-_paved_: 762 km<br>
-_unpaved_: 750 km (2018)<br>
 
 **Merchant marine**<br>
 _total_: 77 (2023)<br>

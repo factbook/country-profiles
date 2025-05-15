@@ -97,10 +97,10 @@ _15-64 years_: 65.5% (male 1,701,680/female 1,728,041)<br>
 _65 years and over_: 15.8% (2024 est.) (male 390,738/female 437,030)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.2<br>
-_youth dependency ratio_: 30.5<br>
-_elderly dependency ratio_: 22.7<br>
-_potential support ratio_: 4.4 (2021 est.)<br>
+_total dependency ratio_: 52.6 (2024 est.)<br>
+_youth dependency ratio_: 28.5 (2024 est.)<br>
+_elderly dependency ratio_: 24.1 (2024 est.)<br>
+_potential support ratio_: 4.1 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 40.2 years (2024 est.)<br>
@@ -223,7 +223,7 @@ _female_: 19 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-water pollution, especially of lakes, from agricultural runoff; acid rain kills plants, destroys soil fertility, and contributes to deforestation<br>
+water pollution, especially of lakes, from agricultural runoff; deforestation, including problems with acid rain<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -243,12 +243,6 @@ _other_: 25.4% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 64.5% of total population (2023)<br>
 _rate of urbanization_: 1.15% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.01% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 8.2 micrograms per cubic meter (2019 est.)<br>
@@ -289,7 +283,7 @@ _name_: Dublin<br>
 _geographic coordinates_: 53 19 N, 6 14 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: derived from Irish <em>dubh</em> and <em>lind</em> meaning respectively "black, dark" and "pool" and which referred to the dark tidal pool where the River Poddle entered the River Liffey; today the area is the site of the castle gardens behind Dublin Castle<br>
+_etymology_: derived from the Irish words <em>dubh</em> (black or dark) and <em>linn</em> (pool), referring to the color of the Liffey River<br>
 
 **Administrative divisions**<br>
 28 counties and 3 cities*; Carlow, Cavan, Clare, Cork, Cork*, Donegal, Dublin*, Dun Laoghaire-Rathdown, Fingal, Galway, Galway*, Kerry, Kildare, Kilkenny, Laois, Leitrim, Limerick, Longford, Louth, Mayo, Meath, Monaghan, Offaly, Roscommon, Sligo, South Dublin, Tipperary, Waterford, Westmeath, Wexford, Wicklow<br>
@@ -301,7 +295,7 @@ _etymology_: derived from Irish <em>dubh</em> and <em>lind</em> meaning respecti
 Saint Patrick's Day, 17 March; note - marks the traditional death date of Saint Patrick, patron saint of Ireland, during the latter half of the fifth century A.D. (most commonly cited years are c. 461 and c. 493); although Saint Patrick's feast day was celebrated in Ireland as early as the ninth century, it only became an official public holiday in Ireland in 1903<br>
 
 **Legal system**<br>
-common law system based on the English model but substantially modified by customary law; judicial review of legislative acts by Supreme Court<br>
+common law system based on the English model but substantially modified by customary law; Supreme Court reviews legislative acts<br>
 
 **Constitution**<br>
 _history_: previous 1922; latest drafted 14 June 1937, adopted by plebiscite 1 July 1937, effective 29 December 1937<br>
@@ -421,9 +415,9 @@ $551.395 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.1% (2024 est.)<br>
 6.3% (2023 est.)<br>
-7.83% (2022 est.)<br>
-2.34% (2021 est.)<br>
+7.8% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -459,19 +453,19 @@ pharmaceuticals, chemicals, computer hardware and software, food products, bever
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.796 million (2023 est.)<br>
+2.847 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.34% (2023 est.)<br>
-4.48% (2022 est.)<br>
-6.19% (2021 est.)<br>
+4.4% (2024 est.)<br>
+4.3% (2023 est.)<br>
+4.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.5% (2023 est.)<br>
-_male_: 10.5% (2023 est.)<br>
-_female_: 10.6% (2023 est.)<br>
+_total_: 11.1% (2024 est.)<br>
+_male_: 11.2% (2024 est.)<br>
+_female_: 11% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -507,7 +501,7 @@ _expenditures_: $105.516 billion (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-16.79% (of GDP) (2022 est.)<br>
+16.8% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -545,18 +539,18 @@ aircraft, nitrogen compounds, vaccines, packaged medicine, integrated circuits (
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$11.688 billion (2024 est.)<br>
 $12.905 billion (2023 est.)<br>
 $13.039 billion (2022 est.)<br>
-$13.247 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 
 ## Energy
 
@@ -618,7 +612,7 @@ _domestic_: fixed-line 32 per 100 and mobile-cellular 108 per 100 subscriptions.
 _international_: country code - 353; landing point for the&nbsp;AEConnect&nbsp;-1,&nbsp;Celtic-Norse, Havfrue/AEC-2, GTT Express, Celtic, ESAT-1, IFC-1, Solas, Pan European Crossing, ESAT-2, CeltixConnect -1 &amp; 2, GTT Atlantic, Sirius South, Emerald Bridge Fibres&nbsp;and Geo Eirgrid&nbsp;submarine cable with links to the US, Canada, Norway, Isle of Man and UK; satellite earth stations - 81 (2019)<br>
 
 **Broadcast media**<br>
-publicly owned broadcaster Radio Telefis Eireann (RTE) operates&nbsp;4 TV stations; commercial TV stations are available; about 75% of households utilize multi-channel satellite and TV services that provide access to a wide range of stations; RTE operates 4 national radio stations and has launched digital audio broadcasts on several stations; a number of commercial broadcast stations operate at the national, regional, and local levels (2019)<br>
+publicly owned broadcaster Radio Telefis Eireann (RTE) operates 4 TV stations; commercial TV stations are available; about 75% of households use multi-channel satellite and TV services that provide access to a wide range of stations; RTE operates 4 national radio stations and has launched digital audio broadcasts on several; a number of commercial broadcast stations operate at the national, regional, and local levels (2019)<br>
 
 **Internet country code**<br>
 .ie<br>
@@ -632,12 +626,6 @@ _subscriptions per 100 inhabitants_: 32 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 9 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 450<br>
-_annual passenger traffic on registered air carriers_: 1.676 million (2018)<br>
-_annual freight traffic on registered air carriers_: 168.71 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 EI<br>
 
@@ -647,17 +635,8 @@ EI<br>
 **Heliports**<br>
 10 (2025)<br>
 
-**Pipelines**<br>
-2,427 km gas (2017)<br>
-
 **Railways**<br>
 _total_: 1,688 km (2020) 53 km electrified<br>
-
-**Roadways**<br>
-_total_: 102,227 km (2022)<br>
-
-**Waterways**<br>
-956 km (2010) (pleasure craft only)<br>
 
 **Merchant marine**<br>
 _total_: 94 (2023)<br>

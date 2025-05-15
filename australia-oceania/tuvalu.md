@@ -69,7 +69,7 @@ over half of the population resides on the atoll of Funafuti<br>
 severe tropical storms are usually rare, but in 1997 there were three cyclones; low levels of islands make them sensitive to changes in sea level<br>
 
 **Geography - note**<br>
-one of the smallest and most remote countries on Earth; six of the nine coral atolls -- Nanumea, Nui, Vaitupu, Nukufetau, Funafuti, and Nukulaelae -- have lagoons open to the ocean; Nanumaya and Niutao have landlocked lagoons; Niulakita does not have a lagoon<br>
+one of the smallest and most remote countries on earth; six of the nine coral atolls -- Nanumea, Nui, Vaitupu, Nukufetau, Funafuti, and Nukulaelae -- have lagoons open to the ocean; Nanumaya and Niutao have landlocked lagoons; Niulakita does not have a lagoon<br>
 
 ## People and Society
 
@@ -97,10 +97,10 @@ _15-64 years_: 63.2% (male 3,736/female 3,675)<br>
 _65 years and over_: 7.6% (2024 est.) (male 326/female 570)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 60.9<br>
-_youth dependency ratio_: 50.9<br>
-_elderly dependency ratio_: 10<br>
-_potential support ratio_: 10 (2021)<br>
+_total dependency ratio_: 58.3 (2024 est.)<br>
+_youth dependency ratio_: 46.2 (2024 est.)<br>
+_elderly dependency ratio_: 12.1 (2024 est.)<br>
+_potential support ratio_: 8.3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 27.8 years (2024 est.)<br>
@@ -213,7 +213,7 @@ _female_: NA<br>
 ## Environment
 
 **Environment - current issues**<br>
-water needs met by catchment systems; the use of sand as a building material has led to beachhead erosion; deforestation; damage to coral reefs from increasing ocean temperatures and acidification; rising sea levels threaten water table; in 2000, the government appealed to Australia and New Zealand to take in Tuvaluans if rising sea levels should make evacuation necessary<br>
+limited freshwater resources; beach erosion; deforestation; damage to coral reefs; rising sea levels<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Whaling<br>
@@ -233,9 +233,6 @@ _other_: 6.7% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 66.2% of total population (2023)<br>
 _rate of urbanization_: 2.08% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 6.81 micrograms per cubic meter (2019 est.)<br>
@@ -258,16 +255,17 @@ _conventional short form_: Tuvalu<br>
 _local long form_: none<br>
 _local short form_: Tuvalu<br>
 _former_: Ellice Islands<br>
-_etymology_: "tuvalu" means "group of eight" or "eight standing together" referring to the country's eight traditionally inhabited islands<br>
+_etymology_: the name in the local language means "group of eight" or "eight standing together," referring to eight of the country's nine islands; the remaining island, Nui, was left out of the original grouping because its inhabitants spoke a different language; the former name was given in honor of Canadian shipping company owner Alexander Ellice, who owned a ship that visited the islands in 1819<br>
 
 **Government type**<br>
 parliamentary democracy under a constitutional monarchy; a Commonwealth realm<br>
 
 **Capital**<br>
-_name_: Funafuti; note - the capital is an atoll of some 29 islets; administrative offices are in Vaiaku Village on Fongafale Islet<br>
+_name_: Funafuti<br>
 _geographic coordinates_: 8 31 S, 179 13 E<br>
 _time difference_: UTC+12 (17 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the atoll is named after a founding ancestor chief, Funa, from the island of Samoa<br>
+_etymology_: the town has the same name as the island it is located on; the name may either come from the Polynesian word <em>futi </em>(banana) or the name Futi, one of the wives of a local ruler, with the word <em>funa </em>added as a feminine prefix<br>
+<strong>note:</strong> the capital is an atoll of 29 islets; administrative offices are in Vaiaku Village on Fongafale Islet<br>
 
 **Administrative divisions**<br>
 7 island councils and 1 town council*; Funafuti*, Nanumaga, Nanumea, Niutao, Nui, Nukufetau, Nukulaelae, Vaitupu<br>
@@ -279,7 +277,7 @@ _etymology_: the atoll is named after a founding ancestor chief, Funa, from the 
 Independence Day, 1 October (1978)<br>
 
 **Legal system**<br>
-mixed legal system of English common law and local customary law<br>
+mixed system of English common law and local customary law<br>
 
 **Constitution**<br>
 _history_: previous 1978 (at independence); latest effective 1 October 1986<br>
@@ -455,11 +453,11 @@ ships, refined petroleum, iron structures, fish, hand tools (2023)<br>
 
 **Exchange rates**<br>
 _Currency_: Tuvaluan dollars or Australian dollars (AUD) per US dollar -<br>
+1.515 (2024 est.)<br>
 1.505 (2023 est.)<br>
 1.442 (2022 est.)<br>
 1.331 (2021 est.)<br>
 1.453 (2020 est.)<br>
-1.439 (2019 est.)<br>
 
 ## Energy
 
@@ -484,7 +482,7 @@ _domestic_: fixed-line teledensity is 18 per 100 and mobile-cellular is 80 per 1
 _international_: country code - 688; international calls can be made by satellite<br>
 
 **Broadcast media**<br>
-no TV stations; many households use satellite dishes to watch foreign TV stations; 1 government-owned radio station, Radio Tuvalu, includes relays of programming from international broadcasters (2019)<br>
+no TV stations; many households use satellite dishes to watch foreign TV; 1 state-owned radio station, Radio Tuvalu, includes relays from international broadcasters (2019)<br>
 
 **Internet country code**<br>
 .tv<br>
@@ -504,9 +502,6 @@ T2<br>
 **Airports**<br>
 1 (2025)<br>
 
-**Roadways**<br>
-_total_: 16 km (2022)<br>
-
 **Merchant marine**<br>
 _total_: 270 (2023)<br>
 _by type_: bulk carrier 21, container ship 3, general cargo 29, oil tanker 19, other 198<br>
@@ -523,10 +518,10 @@ _key ports_: Funafuti Atoll<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Tuvalu Police Force (Ministry of Justice, Communications, and Foreign Affairs) (2024)<br>
+no regular military forces; Tuvalu Police Force (2025)<br>
 
 **Military - note**<br>
-Tuvalu has a security pact with Australia; Australia also provides support to the Tuvalu Police Force, including donations of patrol boats<br><br>Tuvalu has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Tuvalu's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>
+as part of the Falepili Union treaty between Australia and Tuvalu, which entered into force in August 2024, Australia committed to assist Tuvalu in response to a major natural disaster, health pandemic, or military aggression; Tuvalu pledged to mutually agree with Australia any partnership, arrangement, or engagement with any other State or entity on security and defense-related matters in Tuvalu<br><br>Tuvalu has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Tuvalu's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2025)<br>
 
 ## Transnational Issues
 

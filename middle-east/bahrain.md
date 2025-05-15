@@ -100,10 +100,10 @@ _15-64 years_: 77.7% (male 762,190/female 454,616)<br>
 _65 years and over_: 4.3% (2024 est.) (male 34,433/female 32,583)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 31.3<br>
-_youth dependency ratio_: 26.8<br>
-_elderly dependency ratio_: 4.6<br>
-_potential support ratio_: 21.8 (2021 est.)<br>
+_total dependency ratio_: 28.8 (2024 est.)<br>
+_youth dependency ratio_: 23.3 (2024 est.)<br>
+_elderly dependency ratio_: 5.5 (2024 est.)<br>
+_potential support ratio_: 18.2 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 33.4 years (2024 est.)<br>
@@ -224,7 +224,7 @@ _female_: 17 years (2019)<br>
 ## Environment
 
 **Environment - current issues**<br>
-desertification resulting from the degradation of limited arable land, periods of drought, and dust storms; coastal degradation (damage to coastlines, coral reefs, and sea vegetation) resulting from oil spills and other discharges from large tankers, oil refineries, and distribution stations; lack of freshwater resources (groundwater and seawater are the only sources for all water needs); lowered water table leaves aquifers vulnerable to saline contamination; desalinization provides some 90% of the country's freshwater<br>
+desertification; drought; coastal degradation from oil spills and other discharges from large tankers, oil refineries, and distribution stations; lack of freshwater resources; saline contamination from lowered water table<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -244,12 +244,6 @@ _other_: 88.8% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 89.9% of total population (2023)<br>
 _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 51.82 micrograms per cubic meter (2019 est.)<br>
@@ -289,7 +283,7 @@ constitutional monarchy<br>
 _name_: Manama<br>
 _geographic coordinates_: 26 14 N, 50 34 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: name derives from the Arabic "al-manama" meaning "place of rest" or "place of dreams"<br>
+_etymology_: name derives from the Arabic word <em>al-manama</em>, meaning "place of rest" or "place of dreams"<br>
 
 **Administrative divisions**<br>
 4 governorates (muhafazat, singular - muhafazah); Asimah (Capital), Janubiyah (Southern), Muharraq, Shamaliyah (Northern)<br>
@@ -421,9 +415,9 @@ $46.08 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-0.07% (2023 est.)<br>
-3.63% (2022 est.)<br>
--0.61% (2021 est.)<br>
+0.9% (2024 est.)<br>
+0.1% (2023 est.)<br>
+3.6% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -459,19 +453,19 @@ petroleum processing and refining, aluminum smelting, iron pelletization, fertil
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-918,000 (2023 est.)<br>
+928,800 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.16% (2023 est.)<br>
-1.33% (2022 est.)<br>
-1.55% (2021 est.)<br>
+1.1% (2024 est.)<br>
+1.2% (2023 est.)<br>
+1.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.8% (2023 est.)<br>
-_male_: 2.9% (2023 est.)<br>
-_female_: 12.5% (2023 est.)<br>
+_total_: 5.2% (2024 est.)<br>
+_male_: 2.5% (2024 est.)<br>
+_female_: 12.4% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
@@ -492,7 +486,8 @@ _expenditures_: $9.357 billion (2020 est.)<br>
 111.6% of GDP (2020 est.)<br>
 
 **Taxes and other revenues**<br>
-2.82% (of GDP) (2020 est.)<br>
+2.8% (of GDP) (2020 est.)<br>
+<strong>note:</strong> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
 $2.699 billion (2023 est.)<br>
@@ -536,11 +531,11 @@ $4.993 billion (2021 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Bahraini dinars (BHD) per US dollar -<br>
+0.376 (2024 est.)<br>
 0.376 (2023 est.)<br>
 0.376 (2022 est.)<br>
 0.376 (2021 est.)<br>
 0.376 (2020 est.)<br>
-0.376 (2019 est.)<br>
 
 ## Energy
 
@@ -593,12 +588,12 @@ _total subscriptions_: 2.42 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 145 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Bahrain continues to develop its telecoms sector in a bid to develop its long-term Economic Vision 2030 strategy; this is a multi-faceted strategy aimed at developing a digital transformation across numerous sectors, including e-government, e-health, e-commerce, and e-banking; 5G services have become widely available since they were launched in 2020; Bahrain&rsquo;s telecom sector by the Fourth National Telecommunications Plan (initiated in 2016) which focuses on fiber optic infrastructure deployment and establishing affordable prices for high-speed access (2022)<br>
+_general assessment_: continues to develop its telecoms sector in a bid to develop its Economic Vision 2030 strategy that is aimed at a national digital transformation; 5G services have become widely available since they were launched in 2020; the Fourth National Telecommunications Plan (initiated in 2016) focuses on fiber optic infrastructure deployment and establishing affordable prices for high-speed access (2022)<br>
 _domestic_: approximately 18 per 100 fixed-line and 131 per 100 mobile-cellular; modern fiber-optic integrated services; digital network with rapidly expanding mobile-cellular telephones (2021)<br>
 _international_: country code - 973; Bahrain’s Telecommunications Regulatory Authority (TRA) has made part of the C-band spectrum available for 5G private networks, in line with the goals outlined in its Workplan for the 2022-23 period (2023)<br>
 
 **Broadcast media**<br>
-state-run Bahrain Radio and Television Corporation (BRTC) operates 6 terrestrial TV networks and several radio stations; satellite TV systems provide access to international broadcasts; 1 private FM station directs broadcasts to Indian listeners; radio and TV broadcasts from countries in the region are available (2023)<br>
+state-run Bahrain Radio and Television Corporation (BRTC) operates 6 terrestrial TV networks and several radio stations; satellite TV systems provide access to international broadcasts; 1 private FM station has broadcasts for Indian listeners; radio and TV broadcasts from countries in the region are available (2023)<br>
 
 **Internet country code**<br>
 .bh<br>
@@ -612,12 +607,6 @@ _subscriptions per 100 inhabitants_: 17 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 6 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 42<br>
-_annual passenger traffic on registered air carriers_: 5,877,003 (2018)<br>
-_annual freight traffic on registered air carriers_: 420.98 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 A9C<br>
 
@@ -626,14 +615,6 @@ A9C<br>
 
 **Heliports**<br>
 8 (2025)<br>
-
-**Pipelines**<br>
-20 km gas, 54 km oil (2013)<br>
-
-**Roadways**<br>
-_total_: 4,122 km<br>
-_paved_: 3,392 km<br>
-_unpaved_: 730 km (2010)<br>
 
 **Merchant marine**<br>
 _total_: 184 (2023)<br>
@@ -651,7 +632,7 @@ _key ports_: Al Manamah, Khalifa Bin Salman, Mina Salman, Sitrah<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Royal Bahraini Navy, Royal Bahraini Air Force<br><br>Ministry of Interior: National Guard, Special Security Forces Command (SSFC), Coast Guard<br> (2024)<br>
+Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Royal Bahraini Navy, Royal Bahraini Air Force<br><br>Ministry of Interior: National Guard, Special Security Forces Command (SSFC), Coast Guard<br> (2025)<br>
 <strong>note 1:</strong> the Royal Guard is officially under the command of the Army, but exercises considerable autonomy <br><br><strong>note 2:</strong> the Ministry of Interior is responsible for internal security and oversees police and specialized security units responsible for maintaining internal order; the National Guard's primary mission is to guard critical infrastructure such as the airport and oil fields and is a back-up to the police; the Guard is under the Ministry of Interior but reports directly to the king<br>
 
 **Military expenditures**<br>
@@ -662,7 +643,7 @@ Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Roy
 4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 10,000 active personnel (7,500 Army; 1,000 Navy; 1,500 Air Force); approximately 3,000 National Guard (2024)<br>
+information varies; approximately 10,000 active BDF personnel; approximately 3,000 National Guard (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists of a mix of equipment acquired from a wide variety of suppliers; in recent years, the US has been the leading supplier of arms to Bahrain (2024)<br>
@@ -671,7 +652,7 @@ the military's inventory consists of a mix of equipment acquired from a wide var
 18 years of age for voluntary military service; 18-55 to voluntarily join the reserves; no compulsory service (2024)<br>
 
 **Military - note**<br>
-<p>the BDF is a small, but well-equipped military focused on territorial defense and support to internal security; its primary concern is Iran, both the conventional military threat and Tehran's support to regional terrorist groups; the BDF participates in multinational exercises and has conducted small deployments outside of the country; in 2015, for example, Bahrain joined the Saudi Arabia-led military intervention in Yemen, supplying a few hundred troops and combat aircraft</p> Bahrain’s closest security partners are the US and Saudi Arabia; it hosts the US Naval Forces Central Command (USNAVCENT; established 1983), which includes the US 5th Fleet, several subordinate naval task forces, and the Combined Maritime Forces (established 2002), a coalition of more than 30 nations providing maritime security for regional shipping lanes; in 2003, the US granted Bahrain Major Non-NATO Ally status, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; Bahraini leaders have said that the security of Bahrain and Saudi Arabia are “indivisible”; Saudi Arabia sent forces to Bahrain to assist with internal security following the 2011 uprising; Bahrain also has close security ties to other Gulf Cooperation Council  countries, particularly Kuwait and the United Arab Emirates, as well as the UK (2024)<br>
+<p>the BDF is a small, but well-equipped military focused on territorial defense and support to internal security; its primary concern is Iran, both the conventional military threat and Tehran's support to regional terrorist groups; the BDF participates in multinational exercises and has conducted small deployments outside of the country; in 2015, for example, Bahrain joined the Saudi Arabia-led military intervention in Yemen, supplying a few hundred troops and combat aircraft</p> Bahrain’s closest security partners are the US and Saudi Arabia; it hosts the US Naval Forces Central Command (USNAVCENT; established 1983), which includes the US 5th Fleet, several subordinate naval task forces, and the Combined Maritime Forces (established 2002), a coalition of more than 30 nations providing maritime security for regional shipping lanes; in 2003, the US granted Bahrain Major Non-NATO Ally status, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; Bahraini leaders have said that the security of Bahrain and Saudi Arabia are “indivisible”; Saudi Arabia sent forces to Bahrain to assist with internal security following the 2011 uprising; Bahrain also has close security ties to other Gulf Cooperation Council (GCC) countries, particularly Kuwait and the United Arab Emirates, as well as the UK; it is a member of the Peninsula Shield Forces, a joint military force established by the GCC countries with the aim of maintaining security and stability in the region (2024)<br>
 
 ## Space
 

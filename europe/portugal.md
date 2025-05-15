@@ -101,10 +101,10 @@ _15-64 years_: 65% (male 3,264,766/female 3,371,087)<br>
 _65 years and over_: 22.3% (2024 est.) (male 908,578/female 1,369,043)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 56<br>
-_youth dependency ratio_: 20.8<br>
-_elderly dependency ratio_: 35.2<br>
-_potential support ratio_: 2.8 (2021 est.)<br>
+_total dependency ratio_: 53.8 (2024 est.)<br>
+_youth dependency ratio_: 19.5 (2024 est.)<br>
+_elderly dependency ratio_: 34.3 (2024 est.)<br>
+_potential support ratio_: 2.9 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 46.4 years (2024 est.)<br>
@@ -228,7 +228,7 @@ _female_: 17 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-soil erosion; air pollution caused by industrial and vehicle emissions; water pollution, especially in urban centers and coastal areas<br>
+soil erosion; air pollution from industrial and vehicle emissions; water pollution, especially in urban centers and coastal areas<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -248,12 +248,6 @@ _other_: 21.1% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 67.9% of total population (2023)<br>
 _rate of urbanization_: 0.44% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.13% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 7.34 micrograms per cubic meter (2019 est.)<br>
@@ -295,7 +289,7 @@ _geographic coordinates_: 38 43 N, 9 08 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
 _time zone note_: Portugal has two time zones, including the Azores (UTC-1)<br>
-_etymology_: Lisbon is one of Europe's oldest cities (the second oldest capital city after Athens) and the origin of the name is lost in time; it may have been founded as an ancient Celtic settlement that subsequently maintained close commercial relations with the Phoenicians (beginning about 1200 B.C.); the name of the settlement may have been derived from the pre-Roman appellation for the Tagus River that runs through the city, Lisso or Lucio; the Romans named the city "Olisippo" when they took it from the Carthaginians in 205 B.C.; under the Visigoths the city name became "Ulixbona," under the Arabs it was "al-Ushbuna"; the medieval version of "Lissabona" became today's Lisboa<br>
+_etymology_: the origin of the name is unclear; some trace it back to the legendary Greek hero Ulysses; others claim a derivation from the Phoenician <em>alis-ubbo</em>, or "joyful bay"<br>
 
 **Administrative divisions**<br>
 18 districts (distritos, singular - distrito) and 2 autonomous regions* (regioes autonomas, singular - regiao autonoma); Aveiro, Acores (Azores)*, Beja, Braga, Braganca, Castelo Branco, Coimbra, Evora, Faro, Guarda, Leiria, Lisboa (Lisbon), Madeira*, Portalegre, Porto, Santarem, Setubal, Viana do Castelo, Vila Real, Viseu<br>
@@ -307,7 +301,7 @@ _etymology_: Lisbon is one of Europe's oldest cities (the second oldest capital 
 Portugal Day (Dia de Portugal), 10 June (1580); note - also called Camoes Day, the day that revered national poet Luis DE CAMOES (1524-80) died<br>
 
 **Legal system**<br>
-civil law system; Constitutional Court review of legislative acts<br>
+civil law system; Constitutional Court reviews legislative acts<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 2 April 1976, effective 25 April 1976<br>
@@ -417,9 +411,9 @@ $289.114 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.31% (2023 est.)<br>
-7.83% (2022 est.)<br>
-1.27% (2021 est.)<br>
+2.4% (2024 est.)<br>
+4.3% (2023 est.)<br>
+7.8% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -455,19 +449,19 @@ textiles, clothing, footwear, wood and cork, paper and pulp, chemicals, fuels an
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.454 million (2023 est.)<br>
+5.394 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.49% (2023 est.)<br>
-6.01% (2022 est.)<br>
-6.58% (2021 est.)<br>
+6.4% (2024 est.)<br>
+6.5% (2023 est.)<br>
+6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.2% (2023 est.)<br>
-_male_: 20.6% (2023 est.)<br>
-_female_: 19.9% (2023 est.)<br>
+_total_: 21.2% (2024 est.)<br>
+_male_: 21.6% (2024 est.)<br>
+_female_: 20.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -503,19 +497,19 @@ _expenditures_: $100.796 billion (2022 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-22.89% (of GDP) (2022 est.)<br>
+22.9% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$3.974 billion (2023 est.)<br>
--$3.108 billion (2022 est.)<br>
--$2.987 billion (2021 est.)<br>
+$6.708 billion (2024 est.)<br>
+$1.624 billion (2023 est.)<br>
+-$5.356 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$136.589 billion (2023 est.)<br>
-$126.541 billion (2022 est.)<br>
-$105.648 billion (2021 est.)<br>
+$144.237 billion (2024 est.)<br>
+$137.934 billion (2023 est.)<br>
+$126.953 billion (2022 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -527,9 +521,9 @@ cars, garments, vehicle parts/accessories, unpackaged medicine, refined petroleu
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$133.006 billion (2023 est.)<br>
-$131.627 billion (2022 est.)<br>
-$112.413 billion (2021 est.)<br>
+$136.976 billion (2024 est.)<br>
+$133.617 billion (2023 est.)<br>
+$132.193 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -541,18 +535,18 @@ cars, crude petroleum, vehicle parts/accessories, refined petroleum, garments (2
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$10.332 billion (2024 est.)<br>
 $35.243 billion (2023 est.)<br>
 $32.232 billion (2022 est.)<br>
-$32.535 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 
 ## Energy
 
@@ -613,7 +607,7 @@ _domestic_: fixed-lineis 52 per 100 persons and mobile-cellular is 121 per 100 p
 _international_: country code - 351;&nbsp;landing points for the Ella Link, BUGIO, EIG, SAT-3/WASC, SeaMeWe-3, Equino, MainOne, Tat TGN-Western Europe, WACS, ACE, Atlantis2 and Columbus-III&nbsp;submarine cables provide connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia, Australia, South America&nbsp;and the US; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean), NA Eutelsat; tropospheric scatter to Azores (2019)<br>
 
 **Broadcast media**<br>
-Radio e Televisao de Portugal, the publicly owned TV broadcaster, operates 4 domestic channels and external service channels to Africa; overall, roughly 40 domestic TV stations; viewers have widespread access to international broadcasters with more than half of all households connected to multi-channel cable or satellite TV systems; publicly owned radio operates 3 national networks and provides regional and external services; several privately owned national radio stations and some 300 regional and local commercial radio stations<br>
+Radio e Televisao de Portugal, the publicly owned TV broadcaster, operates 4 domestic channels and external service channels to Africa;&nbsp; roughly 40 domestic TV stations; widespread access to international broadcasters, with more than half of households connected to multi-channel cable or satellite TV systems; publicly owned radio operates 3 national networks and provides regional and external services; several privately owned national radio stations and about 300 regional and local commercial radio stations<br>
 
 **Internet country code**<br>
 .pt<br>
@@ -627,12 +621,6 @@ _subscriptions per 100 inhabitants_: 44 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 10 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 168<br>
-_annual passenger traffic on registered air carriers_: 17,367,956 (2018)<br>
-_annual freight traffic on registered air carriers_: 454.21 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 CR, CS<br>
 
@@ -642,17 +630,8 @@ CR, CS<br>
 **Heliports**<br>
 65 (2025)<br>
 
-**Pipelines**<br>
-1,344 km gas, 11 km oil, 188 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 2,526 km (2020) 1,696 km electrified<br>
-
-**Roadways**<br>
-_total_: 11,217 km (2022)<br>
-
-**Waterways**<br>
-210 km (2011) (on Douro River from Porto)<br>
 
 **Merchant marine**<br>
 _total_: 888 (2023)<br>
@@ -670,8 +649,8 @@ _key ports_: Aveiro, Funchal, Lagos, Lisboa, Sines<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Portuguese Armed Forces (Forças Armadas Portuguesa): Portuguese Army (Exercito Portuguesa), Portuguese Navy (Marinha Portuguesa; includes Marine Corps, aka Corpo de Fuzileiros or Corps of Fusiliers), Portuguese Air Force (Forca Aerea Portuguesa, FAP)<br><br>Ministry of Internal Administration: Foreigners and Borders Service, Public Security Service, National Republican Guard (Guarda Nacional Republicana, GNR) (2024)<br>
-<strong>note:</strong> the Foreigners and Borders Service has jurisdiction over immigration and border matters, the Public Security Police has jurisdiction in cities, and the GNR has jurisdiction in rural areas; the GNR is a national gendarmerie force comprised of military personnel with law enforcement, internal security, civil defense, disaster response, and coast guard duties; it is responsible to both the Ministry of Internal Administration and to the Ministry of National Defense; it is not part of the Armed Forces, but may be placed under the operational command of the Chief of the General Staff of the Armed Forces in the event of a national emergency; the GNR describes itself as a hinge between the Armed Forces and the police forces and other security services<br>
+Portuguese Armed Forces (Forças Armadas Portuguesa): Portuguese Army (Exercito Portuguesa), Portuguese Navy (Marinha Portuguesa; includes Marine Corps, aka Corpo de Fuzileiros or Corps of Fusiliers), Portuguese Air Force (Forca Aerea Portuguesa, FAP)<br><br>Ministry of Internal Administration: Public Security Police (Polícia de Segurança Pública, PSP) , National Republican Guard (Guarda Nacional Republicana, GNR) (2025)<br>
+<strong>note:</strong> the PSP has jurisdiction in cities while the GNR has jurisdiction in rural areas; the GNR is a national gendarmerie force comprised of military personnel with law enforcement, internal security, civil defense, disaster response, and coast guard duties; it is responsible to both the Ministry of Internal Administration and to the Ministry of National Defense; it is not part of the Armed Forces, but may be placed under its operational command in the event of a national emergency<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2024 est.)<br>

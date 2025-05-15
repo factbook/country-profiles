@@ -143,7 +143,7 @@ none (territory of Australia)<br>
 Australia Day (commemorates the arrival of the First Fleet of Australian settlers), 26 January (1788)<br>
 
 **Legal system**<br>
-legal system is under the authority of the governor general of Australia and Australian law<br>
+system is under the authority of the governor general of Australia and Australian law<br>
 
 **Constitution**<br>
 _history_: 1 October 1958 (Christmas Island Act 1958)<br>
@@ -254,11 +254,6 @@ _percent of population_: 78.6% (2021 est.)<br>
 _total_: 18 km (2017)<br>
 _standard gauge_: 18 km (2017) 1.435-m (not in operation)<br>
 <strong>note:</strong> the 18-km Christmas Island Phosphate Company Railway between Flying Fish Cove and South Point was decommissioned in 1987; some tracks and scrap remain in place<br>
-
-**Roadways**<br>
-_total_: 142 km<br>
-_paved_: 32 km<br>
-_unpaved_: 110 km (2011)<br>
 
 **Ports**<br>
 _total ports_: 1 (2024)<br>

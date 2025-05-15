@@ -99,10 +99,10 @@ _15-64 years_: 66.4% (male 323,339/female 308,921)<br>
 _65 years and over_: 8.9% (2024 est.) (male 39,055/female 45,482)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53<br>
-_youth dependency ratio_: 44.2<br>
-_elderly dependency ratio_: 8.7<br>
-_potential support ratio_: 11.4 (2021 est.)<br>
+_total dependency ratio_: 50.5 (2024 est.)<br>
+_youth dependency ratio_: 37.1 (2024 est.)<br>
+_elderly dependency ratio_: 13.4 (2024 est.)<br>
+_potential support ratio_: 7.5 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 31.6 years (2024 est.)<br>
@@ -222,7 +222,7 @@ _female_: 99.1% (2018)<br>
 ## Environment
 
 **Environment - current issues**<br>
-the widespread practice of waste incineration is a major contributor to air pollution in the country, as are vehicle emissions in urban areas; deforestation and soil erosion are significant problems; a contributory factor to erosion is clearing of land by bush burning, a widespread practice that threatens biodiversity<br>
+air pollution from waste incineration and vehicle emissions; deforestation and soil erosion; soil erosion from clearing land by bush burning<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Law of the Sea, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
@@ -242,12 +242,6 @@ _other_: 19.8% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 58.7% of total population (2023)<br>
 _rate of urbanization_: 1.37% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.59% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 7.36 micrograms per cubic meter (2019 est.)<br>
@@ -283,7 +277,7 @@ parliamentary republic<br>
 _name_: Suva (on Viti Levu)<br>
 _geographic coordinates_: 18 08 S, 178 25 E<br>
 _time difference_: UTC+12 (17 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name means "little hill" in the native Fijian (iTaukei) language and refers to a mound where a temple once stood<br>
+_etymology_: the name means "little hill" in the native Fijian language and may refer to a mound where a temple once stood<br>
 
 **Administrative divisions**<br>
 14 provinces and 1 dependency*; Ba, Bua, Cakaudrove, Kadavu, Lau, Lomaiviti, Macuata, Nadroga and Navosa, Naitasiri, Namosi, Ra, Rewa, Rotuma*, Serua, Tailevu<br>
@@ -401,9 +395,9 @@ $5.442 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-2.15% (2023 est.)<br>
-4.52% (2022 est.)<br>
-0.16% (2021 est.)<br>
+2.1% (2023 est.)<br>
+4.5% (2022 est.)<br>
+0.2% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -438,19 +432,19 @@ tourism, sugar processing, clothing, copra, gold, silver, lumber<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-390,000 (2023 est.)<br>
+387,800 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.33% (2023 est.)<br>
-4.48% (2022 est.)<br>
-4.68% (2021 est.)<br>
+4.3% (2024 est.)<br>
+4.3% (2023 est.)<br>
+4.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.2% (2023 est.)<br>
-_male_: 11.7% (2023 est.)<br>
-_female_: 22.1% (2023 est.)<br>
+_total_: 15.5% (2024 est.)<br>
+_male_: 11.8% (2024 est.)<br>
+_female_: 22.5% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -481,7 +475,7 @@ _expenditures_: $1.488 billion (2021 est.)<br>
 48.9% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-15.87% (of GDP) (2021 est.)<br>
+20.7% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -519,22 +513,22 @@ refined petroleum, medical instruments, cars, broadcasting equipment, plastics (
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$1.597 billion (2024 est.)<br>
 $1.548 billion (2023 est.)<br>
 $1.557 billion (2022 est.)<br>
-$1.518 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$1.499 billion (2023 est.)<br>
+$1.397 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Fijian dollars (FJD) per US dollar -<br>
+2.268 (2024 est.)<br>
 2.25 (2023 est.)<br>
 2.201 (2022 est.)<br>
 2.071 (2021 est.)<br>
 2.169 (2020 est.)<br>
-2.16 (2019 est.)<br>
 
 ## Energy
 
@@ -586,7 +580,7 @@ _domestic_: fixed-line nearly 5 per 100 persons and mobile-cellular teledensity 
 _international_: country code - 679; landing points for the ICN1, SCCN, Southern Cross NEXT, Tonga Cable and Tui-Samoa&nbsp;submarine cable links&nbsp;to US,&nbsp;NZ, Australia and Pacific islands of Fiji, Vanuatu, Kiribati, Samoa, Tokelau, Tonga, Fallis &amp; Futuna, and American Samoa; satellite earth stations - 2 Inmarsat (Pacific Ocean) (2019)<br>
 
 **Broadcast media**<br>
-Fiji TV, a publicly traded company, operates a free-to-air channel; Digicel Fiji operates the Sky Fiji and Sky Pacific multi-channel pay-TV services; state-owned commercial company, Fiji Broadcasting Corporation, Ltd, operates 6 radio stations - 2 public broadcasters and 4 commercial broadcasters with multiple repeaters; 5 radio stations with repeaters operated by Communications Fiji, Ltd; transmissions of multiple international broadcasters are available<br>
+Fiji TV, a publicly traded company, operates a free-to-air channel; Digicel Fiji operates the Sky Fiji and Sky Pacific multi-channel pay-TV services; state-owned commercial company, Fiji Broadcasting Corporation, Ltd, operates 6 radio stations, including 2 public broadcasters and 4 commercial broadcasters with multiple repeaters; 5 radio stations with repeaters operated by Communications Fiji, Ltd; transmissions of multiple international broadcasters are available<br>
 
 **Internet country code**<br>
 .fj<br>
@@ -599,12 +593,6 @@ _total_: 23,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
 
 ## Transportation
-
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 16<br>
-_annual passenger traffic on registered air carriers_: 1,670,216 (2018)<br>
-_annual freight traffic on registered air carriers_: 106.83 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 DQ<br>
@@ -619,12 +607,6 @@ DQ<br>
 _total_: 597 km (2008)<br>
 _narrow gauge_: 597 km (2008) 0.600-m gauge<br>
 <strong>note:</strong> belongs to the government-owned Fiji Sugar Corporation; used to haul sugarcane during the harvest season, which runs from May to December<br>
-
-**Roadways**<br>
-_total_: 7,500 km (2023)<br>
-
-**Waterways**<br>
-203 km (2012) (122 km are navigable by motorized craft and 200-metric-ton barges)<br>
 
 **Merchant marine**<br>
 _total_: 74 (2023)<br>
@@ -652,7 +634,7 @@ Republic of Fiji Military Forces (RFMF): Land Force, Republic of Fiji Navy (2025
 1.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 4,000 active personnel (2024)<br>
+approximately 4,000 active Republic of Fiji Military Forces personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the RFMF is lightly armed and equipped; Australia has provided patrol boats and a few armored personnel carriers; it also provides logistical support for RFMF regional or UN operations; in recent years, China and the US have provided small amounts of equipment&nbsp; (2024)<br>

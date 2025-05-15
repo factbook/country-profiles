@@ -72,10 +72,9 @@ one of world's largest coral islands; the only major break in the surrounding co
 ## People and Society
 
 **Population**<br>
-_total_: 1,681 (2022)<br>
-_male_: 827<br>
-_female_: 854<br>
-<strong>note:</strong> because of the island's limited economic and educational opportunities, Niueans have emigrated for decades - primarily to New Zealand but also to Australia and other Pacific island states; Niue's population peaked in 1966 at 5,194, but by 2005 had fallen to 1,508; since then, it has rebounded slightly; as of 2013, 23,883 people of Niuean ancestry lived in New Zealand - with more than 20% Niue-born - or about 15 times as many persons of Niuean ancestry living in New Zealand as in Niue<br>
+_total_: 1,815 (2024 est.)<br>
+_male_: 877 (2024 est.)<br>
+_female_: 938 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Niuean(s)<br>
@@ -92,10 +91,10 @@ Niuean 46% (official, a Polynesian language closely related to Tongan and Samoan
 Ekalesia Niue (Congregational Christian Church of Niue - a Protestant church founded by missionaries from the London Missionary Society) 61.7%, Church of Jesus Christ 8.7%, Roman Catholic 8.4%, Jehovah's Witness 2.7%, Seventh Day Adventist 1.4%, other 8.2%, none 8.9% (2017 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 70.4<br>
-_youth dependency ratio_: 44.9<br>
-_elderly dependency ratio_: 25.4<br>
-_potential support ratio_: 3.9 (2021)<br>
+_total dependency ratio_: 64.6 (2024)<br>
+_youth dependency ratio_: 38.2 (2024)<br>
+_elderly dependency ratio_: 26.4 (2024)<br>
+_potential support ratio_: 3.8 (2024)<br>
 
 **Population growth rate**<br>
 -0.03% (2021 est.)<br>
@@ -138,7 +137,7 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 ## Environment
 
 **Environment - current issues**<br>
-increasing attention to conservationist practices to counter loss of soil fertility from traditional slash and burn agriculture<br>
+increasing attention to conservationist practices to counter loss of soil fertility from traditional slash-and-burn agriculture<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Law of the Sea, Ozone Layer Protection, Ship Pollution<br>
@@ -178,12 +177,13 @@ _etymology_: the origin of the name is obscure; in Niuean, the word translates a
 parliamentary democracy<br>
 
 **Dependency status**<br>
-self-governing in free association with New Zealand since 1974; Niue is fully responsible for internal affairs; under the Niue Constitution Act of 1974, New Zealand provides necessary economic and administrative assistance to Niue, as well as assistance with foreign affairs, defense, and security if requested by the Niue Government<br>
+self-governing in free association with New Zealand since 1974; Niue is fully responsible for internal affairs; under the Niue Constitution Act of 1974, New Zealand provides necessary economic and administrative assistance to Niue, as well as assistance with foreign affairs, defense, and security if requested<br>
 
 **Capital**<br>
 _name_: Alofi<br>
 _geographic coordinates_: 19 01 S, 169 55 W<br>
 _time difference_: UTC-11 (6 hours behind Washington, DC, during Standard Time)<br>
+_etymology_: a traditional name for an area of the island; became the name for the newly declared capital in the 20th century<br>
 
 **Administrative divisions**<br>
 none; there are no first-order administrative divisions as defined by the US Government, but there are 14 villages at the second order<br>
@@ -335,7 +335,7 @@ _domestic_: single-line (fixed line) telephone system connects all villages on i
 _international_: country code - 683; landing point for the Manatua submarine cable linking Niue to several South Pacific Ocean Islands; expansion of satellite services (2019)<br>
 
 **Broadcast media**<br>
-1 government-owned TV station with many of the programs supplied by Television New Zealand; 1 government-owned radio station broadcasting in AM and FM (2019)<br>
+1 state-owned TV station, with many of the programs supplied by Television New Zealand; 1 state-owned radio station broadcasting in AM and FM (2019)<br>
 
 **Internet country code**<br>
 .nu<br>
@@ -347,11 +347,6 @@ _percent of population_: 79.6% (2021 est.)<br>
 
 **Airports**<br>
 1 (2025)<br>
-
-**Roadways**<br>
-_total_: 234 km<br>
-_paved_: 210 km<br>
-_unpaved_: 24 km (2017)<br>
 
 **Merchant marine**<br>
 _total_: 70 (2023)<br>
@@ -369,7 +364,7 @@ _key ports_: Alofi<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular indigenous military forces; Police Force<br>
+no regular indigenous military forces; Niue Police Department<br>
 
 **Military - note**<br>
 defense is the responsibility of New Zealand<br>

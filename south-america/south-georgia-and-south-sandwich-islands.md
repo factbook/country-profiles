@@ -65,12 +65,12 @@ the north coast of South Georgia has several large bays, which provide good anch
 ## People and Society
 
 **Population**<br>
-_total_: 1,000 (2021 est.) South Georgia<br>
+_total_: no permanent inhabitants<br>
 
 ## Environment
 
 **Environment - current issues**<br>
-reindeer - introduced to the islands in the 20th century - devastated the native flora and bird species; some reindeer were translocated to the Falkland Islands in 2001, the rest were exterminated (2013-14); a parallel effort (2010-15) eradicated rats and mice that came to the islands as stowaways on ships as early as the late 18th century<br>
+damage to native wildlife from imported animals<br>
 
 **Climate**<br>
 variable, with mostly westerly winds throughout the year interspersed with periods of calm; nearly all precipitation falls as snow<br>
@@ -84,13 +84,13 @@ _other_: 100% (2018 est.)<br>
 _conventional long form_: South Georgia and the South Sandwich Islands<br>
 _conventional short form_: South Georgia and South Sandwich Islands<br>
 _abbreviation_: SGSSI<br>
-_etymology_: South Georgia was named "the Isle of Georgia" in 1775 by Captain James COOK in honor of British King GEORGE III; the explorer also discovered the Sandwich Islands Group that year, which he named "Sandwich Land" after John MONTAGU, the Earl of Sandwich and First Lord of the Admiralty; the word "South" was later added to distinguish these islands from the other Sandwich Islands, now known as the Hawaiian Islands<br>
+_etymology_: Captain James COOK originally named it "the Isle of Georgia" in 1775 in honor of British King GEORGE III; the word "South" was later added to distinguish these islands from the other Sandwich Islands, now known as the Hawaiian Islands<br>
 
 **Dependency status**<br>
-overseas territory of the UK, also claimed by Argentina; administered from the Falkland Islands by a commissioner, who is concurrently governor of the Falkland Islands, representing King CHARLES III<br>
+overseas territory of the UK, also claimed by Argentina; administered from the Falkland Islands by a commissioner, who is concurrently governor of the Falkland Islands, representing the British monarch<br>
 
 **Legal system**<br>
-the laws of the UK, where applicable, apply<br>
+the laws of the UK apply<br>
 
 **International organization participation**<br>
 UPU<br>

@@ -110,10 +110,10 @@ _15-64 years_: 62.5% (male 26,705,657/female 25,875,865)<br>
 _65 years and over_: 23.7% (2024 est.) (male 8,941,245/female 10,981,930)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 56.4<br>
-_youth dependency ratio_: 21.7<br>
-_elderly dependency ratio_: 34.7<br>
-_potential support ratio_: 2.9 (2021 est.)<br>
+_total dependency ratio_: 60 (2024 est.)<br>
+_youth dependency ratio_: 22.1 (2024 est.)<br>
+_elderly dependency ratio_: 37.9 (2024 est.)<br>
+_potential support ratio_: 2.6 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 46.8 years (2024 est.)<br>
@@ -237,7 +237,7 @@ _female_: 17 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-emissions from coal-burning utilities and industries contribute to air pollution; acid rain, resulting from sulfur dioxide emissions, is damaging forests; pollution in the Baltic Sea from raw sewage and industrial effluents from rivers in eastern Germany; hazardous waste disposal; government established a mechanism for ending the use of nuclear power by 2022; government working to meet EU commitment to identify nature preservation areas in line with the EU's Flora, Fauna, and Habitat directive<br>
+air pollution and acid rain from coal-burning utilities and industries; water pollution from raw sewage and industrial effluents; hazardous waste disposal<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -257,12 +257,6 @@ _other_: 19.8% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 77.8% of total population (2023)<br>
 _rate of urbanization_: 0.13% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.03% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.02% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 10.73 micrograms per cubic meter (2019 est.)<br>
@@ -314,7 +308,7 @@ _name_: Berlin<br>
 _geographic coordinates_: 52 31 N, 13 24 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the origin of the name is unclear but may be related to the old West Slavic (Polabian) word "berl" or "birl," meaning "swamp"<br>
+_etymology_: the origin of the name is unclear but may be related to the Old Slavic (Polabian) word <em>berl </em>or <em>birl</em>, meaning "swamp" and referring to the original settlement site by the Spree River<br>
 
 **Administrative divisions**<br>
 16 states (Laender, singular - Land); Baden-Wuerttemberg, Bayern (Bavaria), Berlin, Brandenburg, Bremen, Hamburg, Hessen (Hesse), Mecklenburg-Vorpommern (Mecklenburg-Western Pomerania), Niedersachsen (Lower Saxony), Nordrhein-Westfalen (North Rhine-Westphalia), Rheinland-Pfalz (Rhineland-Palatinate), Saarland, Sachsen (Saxony), Sachsen-Anhalt (Saxony-Anhalt), Schleswig-Holstein, Thueringen (Thuringia); note - Bayern, Sachsen, and Thueringen refer to themselves as free states (Freistaaten, singular - Freistaat), while Bremen calls itself a Free Hanseatic City (Freie Hansestadt) and Hamburg considers itself a Free and Hanseatic City (Freie und Hansestadt)<br>
@@ -346,10 +340,10 @@ _residency requirement for naturalization_: 8 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Frank-Walter STEINMEIER (since 19 March 2017)<br>
-_head of government_: Chancellor Olaf SCHOLZ (since 8 December 2021)<br>
+_head of government_: Chancellor Friedrich MERZ (since 6 May 2025)<br>
 _cabinet_: Cabinet or Bundesminister (Federal Ministers) recommended by the chancellor, appointed by the president<br>
-_elections/appointments_: president indirectly elected by a Federal Convention consisting of all members of the Federal Parliament (Bundestag) and an equivalent number of delegates indirectly elected by the state parliaments; president serves a 5-year term (eligible for a second term); election last held on 13 February 2022 (next to be held in February 2027); following the most recent Federal Parliament election, the party or coalition with the most representatives usually elects the chancellor who is appointed by the president to serve a renewable 4-year term; Federal Parliament vote for chancellor last held on 8 December 2021 (next to be held after the Bundestag election on 23 February 2025)<br>
-_election results_: <em><br>2022:</em> Frank-Walter STEINMEIER reelected president; Federal Convention vote count - Frank-Walter STEINMEIER (SPD) 1,045, Max OTTE (CDU) 140, Gerhard TRABERT (The Left) 96, Stefanie GEBAUER (Free Voters) 58, abstentions 86<br><br><em>2021</em>:  Olaf SCHOLZ (SPD) elected chancellor; Federal Parliament vote - 395 to 303<br><br><em>2017:</em>  Frank-Walter STEINMEIER elected president; Federal Convention vote count - Frank-Walter STEINMEIER (SPD) 931, Christopher Butterwegge (independent) 128, abstentions 103<br>
+_elections/appointments_: president indirectly elected by a Federal Convention consisting of all members of the Federal Parliament (Bundestag) and an equivalent number of delegates indirectly elected by the state parliaments; president serves a 5-year term (eligible for a second term); election last held on 13 February 2022 (next to be held in February 2027); following the most recent Federal Parliament election, the party or coalition with the most representatives usually elects the chancellor who is appointed by the president to serve a renewable 4-year term; Federal Parliament vote for chancellor last held on 6 May 2025<br>
+_election results_: <em><br>2025: </em>Friedrich MERZ (CDU) elected chancellor in second round; Federal Parliament vote - 325 to 289<em><br><br>2022:</em> Frank-Walter STEINMEIER reelected president; Federal Convention vote count - Frank-Walter STEINMEIER (SPD) 1,045, Max OTTE (CDU) 140, Gerhard TRABERT (The Left) 96, Stefanie GEBAUER (Free Voters) 58, abstentions 86<br>
 
 **Legislative branch**<br>
 _legislative structure_: bicameral<br>
@@ -370,8 +364,6 @@ _expected date of next election_: February 2029<br>
 **Legislative branch - upper chamber**<br>
 _chamber name_: Federal Council (Bundesrat)<br>
 _number of seats_: 69 (all appointed)<br>
-_scope of elections_: Full renewal<br>
-_most recent election date_: 11/8/2020<br>
 _percentage of women in chamber_: 34.8%<br>
 
 **Judicial branch**<br>
@@ -445,9 +437,9 @@ $4.526 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-5.95% (2023 est.)<br>
-6.87% (2022 est.)<br>
-3.07% (2021 est.)<br>
+2.3% (2024 est.)<br>
+5.9% (2023 est.)<br>
+6.9% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -483,19 +475,19 @@ milk, sugar beets, wheat, potatoes, barley, maize, rapeseed, pork, rye, tritical
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-44.184 million (2023 est.)<br>
+43.483 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.05% (2023 est.)<br>
-3.14% (2022 est.)<br>
-3.64% (2021 est.)<br>
+3.4% (2024 est.)<br>
+3.1% (2023 est.)<br>
+3.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 6% (2023 est.)<br>
-_male_: 6.7% (2023 est.)<br>
-_female_: 5.1% (2023 est.)<br>
+_total_: 6.7% (2024 est.)<br>
+_male_: 7.4% (2024 est.)<br>
+_female_: 5.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -531,17 +523,17 @@ _expenditures_: $1.31 trillion (2022 est.)<br>
 <strong>note:</strong> general government gross debt is defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); the general government sector comprises the sub-sectors of central government, state government, local government and social security funds; the series are presented as a percentage of GDP and in millions of euros; GDP used as a denominator is the gross domestic product at current market prices; data expressed in national currency are converted into euro using end-of-year exchange rates provided by the European Central Bank<br>
 
 **Taxes and other revenues**<br>
-11.01% (of GDP) (2022 est.)<br>
+11% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$268.67 billion (2023 est.)<br>
+$262.634 billion (2023 est.)<br>
 $184.777 billion (2022 est.)<br>
 $301.423 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$1.96 trillion (2023 est.)<br>
+$1.944 trillion (2023 est.)<br>
 $1.904 trillion (2022 est.)<br>
 $1.857 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -555,7 +547,7 @@ cars, vehicle parts/accessories, packaged medicine, plastic products, vaccines (
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$1.78 trillion (2023 est.)<br>
+$1.77 trillion (2023 est.)<br>
 $1.799 trillion (2022 est.)<br>
 $1.632 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -569,18 +561,18 @@ cars, vehicle parts/accessories, garments, natural gas, vaccines (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$96.792 billion (2024 est.)<br>
 $322.7 billion (2023 est.)<br>
 $293.914 billion (2022 est.)<br>
-$295.736 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 
 ## Energy
 
@@ -649,7 +641,7 @@ _domestic_: 46 per 100 for fixed-line and 128 per 100 for mobile-cellular subscr
 _international_: country code - 49;&nbsp;landing points for SeaMeWe-3, TAT-14, AC-1, CONTACT-3, Fehmarn Balt, C-Lion1,&nbsp;GC1, GlobalConnect-KPN, and Germany-Denmark 2 &amp; 3 -&nbsp;submarine&nbsp;cables to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia; as well as earth stations in the Inmarsat, Intelsat, Eutelsat, and Intersputnik satellite systems (2019)<br>
 
 **Broadcast media**<br>
-a mixture of publicly operated and privately owned TV and radio stations; 70 national and regional public broadcasters compete with nearly 400 privately owned national and regional TV stations; more than 90% of households have cable or satellite TV; hundreds of radio stations including multiple national radio networks, regional radio networks, and a large number of local radio stations<br>
+a mix of publicly operated and privately owned TV and radio stations; 70 national and regional public broadcasters compete with nearly 400 privately owned national and regional TV stations; more than 90% of households have cable or satellite TV; hundreds of radio stations, including national and regional networks and a large number of local stations<br>
 
 **Internet country code**<br>
 .de<br>
@@ -663,12 +655,6 @@ _subscriptions per 100 inhabitants_: 45 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 20 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 1,113<br>
-_annual passenger traffic on registered air carriers_: 109,796,202 (2018)<br>
-_annual freight traffic on registered air carriers_: 7,969,860,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 D<br>
 
@@ -678,20 +664,9 @@ D<br>
 **Heliports**<br>
 449 (2025)<br>
 
-**Pipelines**<br>
-37 km condensate, 26,985 km gas, 2,400 km oil, 4,479 km refined products, 8 km water (2013)<br>
-
 **Railways**<br>
 _total_: 39,379 km (2020) 20,942 km electrified<br>
 15 km 0.900-mm gauge, 24 km 0.750-mm gauge (2015)<br>
-
-**Roadways**<br>
-_total_: 830,000 km 830,000 km<br>
-_paved_: 830,000 km (2022) (includes 13,155 km of expressways)<br>
-<strong>note:</strong> includes local roads<br>
-
-**Waterways**<br>
-7,300 km (2022) (Rhine River carries most goods; Main-Danube Canal links North Sea and Black Sea)<br>
 
 **Merchant marine**<br>
 _total_: 595 (2023)<br>

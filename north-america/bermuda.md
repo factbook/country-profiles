@@ -96,10 +96,10 @@ _15-64 years_: 60.9% (male 22,247/female 22,113)<br>
 _65 years and over_: 22.7% (2024 est.) (male 7,021/female 9,469)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 52.9<br>
-_youth dependency ratio_: 22.8<br>
-_elderly dependency ratio_: 30.1<br>
-_potential support ratio_: 3.3 (2021)<br>
+_total dependency ratio_: 64.1 (2024 est.)<br>
+_youth dependency ratio_: 26.9 (2024 est.)<br>
+_elderly dependency ratio_: 37.2 (2024 est.)<br>
+_potential support ratio_: 2.7 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 43.8 years (2024 est.)<br>
@@ -192,7 +192,7 @@ _female_: 13 years (2015)<br>
 ## Environment
 
 **Environment - current issues**<br>
-dense population and heavy vehicle traffic create serious congestion and air pollution problems; water resources scarce (most obtained as rainwater or from wells); solid waste disposal; hazardous waste disposal; sewage disposal; overfishing; oil spills<br>
+air pollution from vehicle emissions; scarce water resources; solid waste disposal; hazardous waste disposal; sewage disposal; overfishing; oil spills<br>
 
 **Climate**<br>
 subtropical; mild, humid; gales, strong winds common in winter<br>
@@ -236,7 +236,7 @@ _name_: Hamilton<br>
 _geographic coordinates_: 32 17 N, 64 47 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday in November<br>
-_etymology_: named after Henry HAMILTON (ca. 1734-1796) who served as governor of Bermuda from 1788-1794<br>
+_etymology_: named after Henry HAMILTON, who served as governor of Bermuda from 1788 to 1794<br>
 
 **Administrative divisions**<br>
 9 parishes and 2 municipalities*; Devonshire, Hamilton, Hamilton*, Paget, Pembroke, Saint George*, Saint George's, Sandys, Smith's, Southampton, Warwick<br>
@@ -335,7 +335,7 @@ _total World Heritage Sites_: 1 (cultural); note - excerpted from the UK entry<b
 _selected World Heritage Site locales_: Historic Town of St George and Related Fortifications<br>
 
 **National coat of arms**<br>
-Bermuda's coat of arms was formally granted by Royal Warrant on 4 October 1910 but had been in use since at least 1624. The red lion is a symbol of Great Britain. The Latin motto under the coat of arms, <em>Quo Fata Ferunt</em>, means "Whither the Fates Carry [Us]." The ship is the "Sea Venture," an English ship that was wrecked on the then-uninhabited Bermuda in 1609.<br>
+Bermuda's coat of arms was formally granted by Royal Warrant on 4 October 1910 but had been in use since at least 1624. The red lion is a symbol of Great Britain. The Latin motto under the coat of arms, <em>Quo Fata Ferunt</em>, means "Whither the Fates Carry [Us]." The ship is the Sea Venture, an English ship that was wrecked on the then-uninhabited Bermuda in 1609.<br>
 
 ## Economy
 
@@ -405,11 +405,6 @@ international business, tourism, light manufacturing<br>
 **Unemployment rate**<br>
 7% (2017 est.)<br>
 7% (2016 est.)<br>
-
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 29.3% (2014 est.)<br>
-_male_: 29.7%<br>
-_female_: 29%<br>
 
 **Remittances**<br>
 21.49% of GDP (2023 est.)<br>
@@ -533,11 +528,6 @@ VP-B<br>
 
 **Airports**<br>
 1 (2025)<br>
-
-**Roadways**<br>
-_total_: 447 km<br>
-_paved_: 447 km (2010)<br>
-<strong>note:</strong> 225 km public roads; 222 km private roads<br>
 
 **Merchant marine**<br>
 _total_: 122 (2023)<br>

@@ -68,7 +68,7 @@ population clusters tend to be found along the coast, the largest of these is fo
 periodic droughts; hurricanes<br>
 
 **Geography - note**<br>
-important location along the Mona Passage -- a key shipping lane to the Panama Canal; San Juan is one of the biggest and best natural harbors in the Caribbean; many small rivers and high central mountains ensure land is well watered; south coast relatively dry; fertile coastal plain belt in north<br>
+important location along the Mona Passage, a key shipping lane to the Panama Canal; San Juan is one of the biggest and best natural harbors in the Caribbean; many small rivers and high central mountains ensure land is well-watered; south coast relatively dry; fertile coastal plain belt in north<br>
 
 ## People and Society
 
@@ -98,10 +98,10 @@ _15-64 years_: 62.6% (male 904,406/female 986,778)<br>
 _65 years and over_: 24.9% (2024 est.) (male 322,698/female 429,322)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 56.3<br>
-_youth dependency ratio_: 21.3<br>
-_elderly dependency ratio_: 34.9<br>
-_potential support ratio_: 2.9 (2021 est.)<br>
+_total dependency ratio_: 59.7 (2024 est.)<br>
+_youth dependency ratio_: 19.9 (2024 est.)<br>
+_elderly dependency ratio_: 39.8 (2024 est.)<br>
+_potential support ratio_: 2.5 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 46.1 years (2024 est.)<br>
@@ -218,12 +218,6 @@ _other_: 24.9% (2022 est.)<br>
 _urban population_: 93.6% of total population (2023)<br>
 _rate of urbanization_: -0.12% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4,170,953 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 583,933 tons (2013 est.)<br>
@@ -255,7 +249,7 @@ unincorporated organized territory of the US with commonwealth status; policy re
 _name_: San Juan<br>
 _geographic coordinates_: 18 28 N, 66 07 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name dates to 1521 and the founding of the city under the name "Ciudad de San Juan Bautista de Puerto Rico" (City of Saint John the Baptist of Puerto Rico)<br>
+_etymology_: Spanish explorer Juan PONCE de Leon named the city in 1511 both for himself and for his name saint, Saint John<br>
 
 **Administrative divisions**<br>
 none (territory of the US); there are no first-order administrative divisions as defined by the US Government, but there are 78 municipalities (municipios, singular - municipio) at the second order; Adjuntas, Aguada, Aguadilla, Aguas Buenas, Aibonito, Anasco, Arecibo, Arroyo, Barceloneta, Barranquitas, Bayamon, Cabo Rojo, Caguas, Camuy, Canovanas, Carolina, Catano, Cayey, Ceiba, Ciales, Cidra, Coamo, Comerio, Corozal, Culebra, Dorado, Fajardo, Florida, Guanica, Guayama, Guayanilla, Guaynabo, Gurabo, Hatillo, Hormigueros, Humacao, Isabela, Jayuya, Juana Diaz, Juncos, Lajas, Lares, Las Marias, Las Piedras, Loiza, Luquillo, Manati, Maricao, Maunabo, Mayaguez, Moca, Morovis, Naguabo, Naranjito, Orocovis, Patillas, Penuelas, Ponce, Quebradillas, Rincon, Rio Grande, Sabana Grande, Salinas, San German, San Juan, San Lorenzo, San Sebastian, Santa Isabel, Toa Alta, Toa Baja, Trujillo Alto, Utuado, Vega Alta, Vega Baja, Vieques, Villalba, Yabucoa, Yauco<br>
@@ -267,7 +261,7 @@ none (territory of the US with commonwealth status)<br>
 US Independence Day, 4 July (1776); Puerto Rico Constitution Day, 25 July (1952)<br>
 
 **Legal system**<br>
-civil law system based on the Spanish civil code and within the framework of the US federal system<br>
+civil law system based on the Spanish civil code, within the framework of the US federal system<br>
 
 **Constitution**<br>
 _history_: previous 1900 (Organic Act, or Foraker Act); latest ratified by referendum 3 March 1952, approved 3 July 1952, effective 25 July 1952<br>
@@ -280,7 +274,7 @@ see United States<br>
 18 years of age; universal; note - island residents are US citizens but do not vote in US presidential elections<br>
 
 **Executive branch**<br>
-_chief of state_: President Joseph R. BIDEN Jr. (since 20 January 2021)<br>
+_chief of state_: President Donald J. TRUMP (since 20 January 2025)<br>
 _head of government_: Governor Jenniffer GONZ&Aacute;LEZ-COL&Oacute;N (since 2 January 2025)<br>
 _cabinet_: Cabinet appointed by governor with the consent of the Legislative Assembly<br>
 _elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of Puerto Rico do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican party presidential primary elections; governor directly elected by simple majority popular vote for a 4-year term (no term limits); election last held on 5 November 2024 (next to be held on 7 November 2028)<br>
@@ -409,19 +403,19 @@ pharmaceuticals, electronics, apparel, food products, tourism<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.172 million (2023 est.)<br>
+1.15 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.96% (2023 est.)<br>
+5.5% (2024 est.)<br>
+5.7% (2023 est.)<br>
 6% (2022 est.)<br>
-7.9% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.7% (2023 est.)<br>
-_male_: 14.9% (2023 est.)<br>
-_female_: 10.5% (2023 est.)<br>
+_total_: 12.5% (2024 est.)<br>
+_male_: 14% (2024 est.)<br>
+_female_: 9.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Budget**<br>
@@ -434,14 +428,10 @@ _expenditures_: $9.974 billion (2017 est.)<br>
 **Taxes and other revenues**<br>
 8.9% (of GDP) (2017 est.)<br>
 
-**Current account balance**<br>
-$0 (2017 est.)<br>
-$0 (2016 est.)<br>
-
 **Exports**<br>
-$59.787 billion (2022 est.)<br>
-$57.916 billion (2021 est.)<br>
-$62.237 billion (2020 est.)<br>
+$63.579 billion (2023 est.)<br>
+$59.714 billion (2022 est.)<br>
+$57.91 billion (2021 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -452,9 +442,9 @@ packaged medicines, medical cultures/vaccines, hormones, orthopedic and medical 
 top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$51.509 billion (2022 est.)<br>
-$45.052 billion (2021 est.)<br>
-$44.513 billion (2020 est.)<br>
+$56.359 billion (2023 est.)<br>
+$52.15 billion (2022 est.)<br>
+$45.051 billion (2021 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -521,7 +511,7 @@ _domestic_: fixed-line is 22 per 100 and mobile-cellular is 112 per 100 persons 
 _international_: country code - 1-787, 939; landing points for the GTMO-PR, AMX-1, BRUSA, GCN, PCCS, SAm-1, Southern Caribbean Fiber, Americas-II, Antillas, ARCOS, SMPR-1, and Taino-Carib submarine cables providing connectivity to the mainland US, Caribbean, Central and South America; satellite earth station - 1 Intelsat (2019)<br>
 
 **Broadcast media**<br>
-more than 30 TV stations operating; cable TV subscription services are available; roughly 125 radio stations<br>
+more than 30 TV stations; cable TV subscription services are available; roughly 125 radio stations<br>
 
 **Internet country code**<br>
 .pr<br>
@@ -541,9 +531,6 @@ _subscriptions per 100 inhabitants_: 23 (2023 est.)<br>
 **Heliports**<br>
 40 (2025)<br>
 
-**Roadways**<br>
-_total_: 26,862 km (2012) (includes 454 km of expressways)<br>
-
 **Ports**<br>
 _total ports_: 14 (2024)<br>
 _large_: 0<br>
@@ -556,7 +543,7 @@ _key ports_: Arroyo, Ensenada Honda, Mayaguez, Playa de Guanica, Playa de Guayan
 ## Military and Security
 
 **Military and security forces**<br>
-Puerto Rico Police Bureau (Negociado de la Policía de Puerto Rico); Puerto Rico (US) National Guard (Guardia Nacional de Puerto Rico or GNPR)<br>
+Puerto Rico Police; Puerto Rico (US) National Guard (Guardia Nacional de Puerto Rico or GNPR) (2025)<br>
 <strong>note: </strong>the GNPR was created by order of the US Congress in June 1919; the organization traces its lineage and history to Spanish militias created in 1511 and is one of the oldest organizations in the US National Guard system<br>
 
 **Military - note**<br>

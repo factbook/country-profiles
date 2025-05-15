@@ -95,10 +95,10 @@ _15-64 years_: 73.2% (male 22,232/female 22,011)<br>
 _65 years and over_: 6.4% (2024 est.) (male 1,869/female 1,983)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 36.8<br>
-_youth dependency ratio_: 22.9<br>
-_elderly dependency ratio_: 13.9<br>
-_potential support ratio_: 7.2 (2021)<br>
+_total dependency ratio_: 36.6 (2024 est.)<br>
+_youth dependency ratio_: 27.9 (2024 est.)<br>
+_elderly dependency ratio_: 8.7 (2024 est.)<br>
+_potential support ratio_: 11.5 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 36.3 years (2024 est.)<br>
@@ -194,7 +194,7 @@ destination and transit point for illegal Haitian immigrants bound for the Baham
 ## Environment
 
 **Environment - current issues**<br>
-limited natural freshwater resources, private cisterns collect rainwater<br>
+limited natural freshwater resources<br>
 
 **Climate**<br>
 tropical; marine; moderated by trade winds; sunny and relatively dry<br>
@@ -211,12 +211,6 @@ _other_: 87.9% (2022 est.)<br>
 _urban population_: 94.2% of total population (2023)<br>
 _rate of urbanization_: 1.46% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _carbon dioxide emissions_: 0.22 megatons (2016 est.)<br>
 
@@ -225,8 +219,8 @@ _carbon dioxide emissions_: 0.22 megatons (2016 est.)<br>
 **Country name**<br>
 _conventional long form_: none<br>
 _conventional short form_: Turks and Caicos Islands<br>
-_abbreviation_: TCI<br>
-_etymology_: the Turks Islands are named after the Turk's cap cactus (native to the islands and appearing on the flag and coat of arms), while the Caicos Islands derive from the native term "caya hico" meaning "string of islands"<br>
+_abbreviation_: TCA<br>
+_etymology_: the Turks Islands are named after the Turk's cap cactus, which is native to the islands and appears on the flag and coat of arms; the name Caicos may derive from <em>caya hico</em>, a phrase meaning “string of islands” in the Lucayan (Arawak) language, or from the Spanish word <em>cayo</em>, meaning "rock"<br>
 
 **Government type**<br>
 parliamentary democracy<br>
@@ -251,7 +245,7 @@ none (overseas territory of the UK)<br>
 Birthday of Queen ELIZABETH II, usually celebrated the Monday after the second Saturday in June<br>
 
 **Legal system**<br>
-mixed legal system of English common law and civil law<br>
+mixed system of English common law and civil law<br>
 
 **Constitution**<br>
 _history_: several previous; latest signed 7 August 2012, effective 15 October 2012 (The Turks and Caicos Constitution Order 2011)<br>
@@ -450,7 +444,7 @@ _domestic_: fixed-line teledensity is 9 per 100 persons (2021)<br>
 _international_: country code - 1-649;&nbsp;landing point for the&nbsp;ARCOS fiber-optic telecommunications submarine cable providing connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2020)<br>
 
 **Broadcast media**<br>
-no local terrestrial TV stations, broadcasts from the Bahamas can be received and multi-channel cable and satellite TV services are available; government-run radio network operates alongside private broadcasters with a total of about 15 stations<br>
+no local terrestrial TV stations; broadcasts from the Bahamas, multi-channel cable, and satellite TV available; state-run radio network operates alongside private broadcasters, with a total of about 15 stations<br>
 
 **Internet country code**<br>
 .tc<br>
@@ -460,20 +454,11 @@ _percent of population_: 93.5% (2022)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 3 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 22<br>
-
 **Civil aircraft registration country code prefix**<br>
 VQ-T<br>
 
 **Airports**<br>
 9 (2025)<br>
-
-**Roadways**<br>
-_total_: 121 km<br>
-_paved_: 24 km<br>
-_unpaved_: 97 km (2003)<br>
 
 **Merchant marine**<br>
 _total_: 3 (2023)<br>

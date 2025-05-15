@@ -84,7 +84,7 @@ overwhelming majority of the population is found in the eastern half of the coun
 <p>frequent typhoons (about five per year along southern and eastern coasts); damaging floods; tsunamis; earthquakes; droughts; land subsidence</p><p><strong>volcanism:</strong> China contains some historically active volcanoes including Changbaishan (also known as Baitoushan, Baegdu, or P'aektu-san), Hainan Dao, and Kunlun although most have been relatively inactive in recent centuries</p><br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> world's fourth largest country (after Russia, Canada, and US) and largest country situated entirely in Asia; Mount Everest on the border with Nepal is the world's tallest peak above sea level<br><br><strong>note 2:</strong> the largest cave chamber in the world is the Miao Room, in the Gebihe cave system at China's Ziyun Getu He Chuandong National Park, which encloses some 10.78 million cu m (380.7 million cu ft) of volume; the world's largest sinkhole is the Xiaoxhai Tiankeng sinkhole in Chongqing Municipality, which is 660 m deep, with a volume of 130 million cu m<br><br><strong>note 3:</strong> China appears to have been the center of domestication for two of the world's leading cereal crops: millet in the north along the Yellow River and rice in the south along the lower or middle Yangtze River<br>
+<strong>note 1:</strong> world's fourth largest country (after Russia, Canada, and US) and largest country situated entirely in Asia; Mount Everest, on the border with Nepal, is the world's tallest peak above sea level<br><br><strong>note 2:</strong> the largest cave chamber in the world is the Miao Room, in the Gebihe cave system at China's Ziyun Getu He Chuandong National Park, which encloses about 10.78 million cu m (380.7 million cu ft); the world's largest sinkhole is the Xiaoxhai Tiankeng sinkhole in Chongqing Municipality, which is 660 m deep, with a volume of 130 million cu m<br>
 
 ## People and Society
 
@@ -115,10 +115,10 @@ _15-64 years_: 69.3% (male 505,412,555/female 476,599,793)<br>
 _65 years and over_: 14.4% (2024 est.) (male 94,144,838/female 109,315,797)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 44.5<br>
-_youth dependency ratio_: 25.5<br>
-_elderly dependency ratio_: 19<br>
-_potential support ratio_: 5.3 (2021 est.)<br>
+_total dependency ratio_: 43.9 (2024 est.)<br>
+_youth dependency ratio_: 23.2 (2024 est.)<br>
+_elderly dependency ratio_: 20.7 (2024 est.)<br>
+_potential support ratio_: 4.8 (2024 est.)<br>
 <strong>note:</strong> data do not include Hong Kong, Macau, and Taiwan<br>
 
 **Median age**<br>
@@ -249,7 +249,7 @@ in October 2015, the Chinese Government announced that it would change its rules
 ## Environment
 
 **Environment - current issues**<br>
-air pollution (greenhouse gases, sulfur dioxide particulates) from reliance on coal produces acid rain; China is the world's largest single emitter of carbon dioxide from the burning of fossil fuels; water shortages, particularly in the north; water pollution from untreated wastes; coastal destruction due to land reclamation, industrial development, and aquaculture; deforestation and habitat destruction; poor land management leads to soil erosion, landslides, floods, droughts, dust storms, and desertification; trade in endangered species<br>
+air pollution and acid rain from reliance on coal; carbon dioxide emissions from the burning of fossil fuels; water shortages, particularly in the north; water pollution from untreated wastes; coastal destruction due to land reclamation, industrial development, and aquaculture; deforestation and habitat destruction; poor land management leading to soil erosion, landslides, floods, droughts, dust storms, and desertification; trade in endangered species<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -270,12 +270,6 @@ _other_: 21% (2022 est.)<br>
 _urban population_: 64.6% of total population (2023)<br>
 _rate of urbanization_: 1.78% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data do not include Hong Kong and Macau<br>
-
-**Revenue from forest resources**<br>
-0.08% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.57% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 38.15 micrograms per cubic meter (2019 est.)<br>
@@ -328,7 +322,7 @@ _name_: Beijing<br>
 _geographic coordinates_: 39 55 N, 116 23 E<br>
 _time difference_: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)<br>
 _time zone note_: China is the largest country (in terms of area) with just one time zone; before 1949 it was divided into five<br>
-_etymology_: the Chinese meaning is "Northern Capital"<br>
+_etymology_: the name comes from the Chinese words <em>bei </em>(north) and <em>jing </em>(capital)<br>
 
 **Administrative divisions**<br>
 <p>23 provinces (sheng, singular and plural), 5 autonomous regions (zizhiqu, singular and plural), 4 municipalities (shi, singular and plural), and two special administrative regions (tebie xingzhengqu, singular and plural)</p> <p><strong>provinces:</strong> Anhui, Fujian, Gansu, Guangdong, Guizhou, Hainan, Hebei, Heilongjiang, Henan, Hubei, Hunan, Jiangsu, Jiangxi, Jilin, Liaoning, Qinghai, Shaanxi, Shandong, Shanxi, Sichuan, Yunnan, Zhejiang; (see note on Taiwan)</p> <p><strong>autonomous regions:</strong> Guangxi, Nei Mongol (Inner Mongolia), Ningxia, Xinjiang Uyghur, Xizang (Tibet)</p> <p><strong>municipalities:</strong> Beijing, Chongqing, Shanghai, Tianjin<br><br><strong>special administrative regions:</strong> Hong Kong, Macau</p><br>
@@ -341,7 +335,8 @@ _etymology_: the Chinese meaning is "Northern Capital"<br>
 National Day (anniversary of the founding of the People's Republic of China), 1 October (1949)<br>
 
 **Legal system**<br>
-civil law influenced by Soviet and continental European civil law systems; legislature retains power to interpret statutes; note - on 28 May 2020, the National People's Congress adopted the PRC Civil Code, which codifies personal relations and property relations<br>
+civil law influenced by Soviet and continental European civil law systems; legislature retains power to interpret statutes<br>
+<strong>note:</strong> in 2020, the National People's Congress adopted the PRC Civil Code, which codifies personal relations and property relations<br>
 
 **Constitution**<br>
 _history_: several previous; latest promulgated 4 December 1982<br>
@@ -364,7 +359,7 @@ _chief of state_: President XI Jinping (since 14 March 2013)<br>
 _head of government_: Premier LI Qiang (since 11 March 2023)<br>
 _cabinet_: State Council appointed by National People's Congress<br>
 _elections/appointments_: president and vice president indirectly elected by National People's Congress; election last held on 10 March 2023 (next to be held in March 2028); premier nominated by president, confirmed by National People's Congress<br>
-_election results_: <em><br>2023: </em>XI Jinping reelected president; National People's Congress vote - 2,952 (unanimously); HAN Zheng<br>elected vice president with 2,952 votes<br><em><br>2018</em>: XI Jinping reelected president; National People's Congress vote - 2,970 (unanimously); WANG Qishan elected vice president with 2,969 votes<br>
+_election results_: <em><br>2023: </em>XI Jinping reelected president; National People's Congress vote - 2,952 (unanimously); HAN Zheng<br>elected vice president with 2,952 votes; LI Qiang elected premier with 2,936 votes<br><em><br>2018</em>: XI Jinping reelected president; National People's Congress vote - 2,970 (unanimously); WANG Qishan elected vice president with 2,969 votes<br>
 <strong>note: </strong>ultimate authority rests with the Communist Party Central Committee’s 25-member Political Bureau (Politburo) and its seven-member Standing Committee; XI Jinping holds the three most powerful positions as party general secretary, state president, and chairman of the Central Military Commission<br>
 
 **Legislative branch**<br>
@@ -453,9 +448,9 @@ $17.795 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-0.23% (2023 est.)<br>
-1.97% (2022 est.)<br>
-0.98% (2021 est.)<br>
+0.2% (2024 est.)<br>
+0.2% (2023 est.)<br>
+2% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -491,19 +486,19 @@ world leader in gross value of industrial output; mining and ore processing, iro
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-781.103 million (2023 est.)<br>
+773.129 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.67% (2023 est.)<br>
-4.98% (2022 est.)<br>
-4.55% (2021 est.)<br>
+4.6% (2024 est.)<br>
+4.7% (2023 est.)<br>
+5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.7% (2023 est.)<br>
-_male_: 16.9% (2023 est.)<br>
-_female_: 14.2% (2023 est.)<br>
+_total_: 15.2% (2024 est.)<br>
+_male_: 16.5% (2024 est.)<br>
+_female_: 13.5% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -538,7 +533,7 @@ _expenditures_: $4.893 trillion (2019 est.)<br>
 <strong>note:</strong> official data; data cover both central and local government debt, including debt officially recognized by China's National Audit Office report in 2011; data exclude policy bank bonds, Ministry of Railway debt, and China Asset Management Company debt<br>
 
 **Taxes and other revenues**<br>
-7.7% (of GDP) (2022 est.)<br>
+7.8% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -576,22 +571,22 @@ crude petroleum, integrated circuits, iron ore, gold, natural gas (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$3.265 trillion (2024 est.)<br>
 $3.45 trillion (2023 est.)<br>
 $3.307 trillion (2022 est.)<br>
-$3.428 trillion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$497.467 billion (2023 est.)<br>
+$488.114 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Renminbi yuan (RMB) per US dollar -<br>
+7.197 (2024 est.)<br>
 7.084 (2023 est.)<br>
 6.737 (2022 est.)<br>
 6.449 (2021 est.)<br>
 6.901 (2020 est.)<br>
-6.908 (2019 est.)<br>
 
 ## Energy
 
@@ -663,7 +658,7 @@ _domestic_: nearly 13 per 100 fixed line and 122 per 100 mobile-cellular (2021)<
 _international_: country code - 86;&nbsp;landing points for the RJCN, EAC-C2C, TPE, APCN-2, APG, NCP, TEA, SeaMeWe-3, SJC2, Taiwan Strait Express-1, AAE-1, APCN-2, AAG, FEA, FLAG and TSE&nbsp;submarine cables providing connectivity to Asia, the Middle East, Europe, and the US; satellite earth stations - 7 (5 Intelsat - 4 Pacific Ocean and 1 Indian Ocean; 1 Intersputnik - Indian Ocean region; and 1 Inmarsat - Pacific and Indian Ocean regions) (2019)<br>
 
 **Broadcast media**<br>
-all broadcast media are owned by, or affiliated with, the Chinese Communisty Party (CCP) or a government agency; no privately owned TV or radio stations; state-run Chinese Central TV, provincial, and municipal stations offer more than 2,000 channels; the Central Propaganda Department as well as local (provincial, municipal) sends directives to all domestic media outlets to guide its reporting with the government maintaining authority to approve all programming; foreign-made TV programs must be approved/censored prior to broadcast; increasingly, PRC nationals turn to online platforms (Bilibili, Tencent Video, iQiyi, etc) to access PRC and international films and television shows.&nbsp; Video platforms have to abide by regulations issued by the Cyberspace Administration of China (CAC), which align with censorship policies from CCP propaganda authorities. (2022)<br>
+all broadcast media are owned by, or affiliated with, the Chinese Communist Party (CCP) or a government agency; no privately owned TV or radio stations; state-run Chinese Central TV, provincial, and municipal stations offer more than 2,000 channels; the Central Propaganda Department and local (provincial, municipal) officials direct news reporting and approve all programming; foreign-made TV programs must be approved/censored prior to broadcast; widespread use of online platforms (Bilibili, Tencent Video, iQiyi, etc) to access domestic and international films and TV shows; Cyberspace Administration of China (CAC) regulates video platforms (2022)<br>
 
 **Internet country code**<br>
 .cn<br>
@@ -677,12 +672,6 @@ _subscriptions per 100 inhabitants_: 45 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 56 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 2,890<br>
-_annual passenger traffic on registered air carriers_: 436,183,969 (2018)<br>
-_annual freight traffic on registered air carriers_: 611,439,830 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 B<br>
 
@@ -692,19 +681,8 @@ B<br>
 **Heliports**<br>
 120 (2025)<br>
 
-**Pipelines**<br>
-76,000 km gas, 30,400 km crude oil, 27,700 km refined petroleum products, 797,000 km water (2018)<br>
-
 **Railways**<br>
 _total_: 150,000 km (2021) 1.435-m gauge (100,000 km electrified); 104,0000 traditional, 40,000 high-speed<br>
-
-**Roadways**<br>
-_total_: 5.2 million km (2020)<br>
-_paved_: 4.578 million km (2020) (includes 168000 km of expressways)<br>
-_unpaved_: 622,000 km (2017)<br>
-
-**Waterways**<br>
-27,700 km (2020) (navigable waterways)<br>
 
 **Merchant marine**<br>
 _total_: 8,314 (2023)<br>
@@ -718,9 +696,6 @@ _small_: 25<br>
 _very small_: 27<br>
 _ports with oil terminals_: 48<br>
 _key ports_: Chaozhou, Dalian, Fang-Cheng, Guangzhou, Hankow, Lon Shui Terminal, Qingdao Gang, Qinhuangdao, Shanghai, Shekou, Tianjin Xin Gang, Weihai, Wenzhou, Xiamen<br>
-
-**Transportation - note**<br>
-seven of the world’s ten largest container ports are in China<br><br>
 
 ## Military and Security
 
@@ -736,7 +711,7 @@ People's Liberation Army (PLA): Ground Forces or People's Liberation Army Army (
 1.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 2 million active-duty troops (approximately 950,000-1 million Ground; 250,000 Navy, including about 50,000 Marines; 350-400,000 Air Force; 120,000 Rocket Forces; 150-175,000 other forces); approximately 500,000 People&rsquo;s Armed Police (2024)<br>
+approximately 2 million active-duty troops (950,000-1 million Ground; 250,000 Navy, including about 50,000 Marines; 350-400,000 Air Force; 120,000 Rocket Forces; 150-175,000 other forces) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the PLA has a mix of mostly modern domestically produced and imported weapons and equipment; most of its imported weaponry has come from Russia; China has one of the world's largest defense-industrial sectors and is capable of producing advanced weapons systems across all military domains (2024)<br>

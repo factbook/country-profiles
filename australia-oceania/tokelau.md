@@ -67,14 +67,14 @@ the country's small population is fairly evenly distributed amongst the three at
 lies in Pacific cyclone belt<br>
 
 **Geography - note**<br>
-consists of three atolls (Atafu, Fakaofo, Nukunonu), each with a lagoon surrounded by a number of reef-bound islets of varying length and rising to over 3 m above sea level<br>
+consists of three atolls (Atafu, Fakaofo, Nukunonu), each with a lagoon surrounded by a number of reef-bound islets of varying length and rising to over 3 m (10 ft) above sea level<br>
 
 ## People and Society
 
 **Population**<br>
 _total_: 2,453 (2024 est.)<br>
-_male_: 1,201<br>
-_female_: 1,252<br>
+_male_: 1,201 (2024 est.)<br>
+_female_: 1,252 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Tokelauan(s)<br>
@@ -91,10 +91,10 @@ Tokelauan 88.1% (a Polynesian language), English 48.6%, Samoan 26.7%, Tuvaluan 1
 Congregational Christian Church 50.4%, Roman Catholic 38.7%, Presbyterian 5.9%, other Christian 4.2%, unspecified 0.8% (2016 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 60.4<br>
-_youth dependency ratio_: 47<br>
-_elderly dependency ratio_: 13.4<br>
-_potential support ratio_: 7.5 (2021)<br>
+_total dependency ratio_: 52.7 (2024)<br>
+_youth dependency ratio_: 40 (2024)<br>
+_elderly dependency ratio_: 12.6 (2024)<br>
+_potential support ratio_: 7.9 (2024)<br>
 
 **Population growth rate**<br>
 -0.01% (2019 est.)<br>
@@ -134,7 +134,7 @@ _men married by age 18_: 2.8% (2019 est.)<br>
 ## Environment
 
 **Environment - current issues**<br>
-overexploitation of certain fish and other marine species, coastal sand, and forest resources; pollution of freshwater lenses and coastal waters from improper disposal of chemicals<br>
+overfishing; damage to forest resources; pollution of freshwater and coastal waters from improper disposal of chemicals<br>
 
 **Climate**<br>
 tropical; moderated by trade winds (April to November)<br>
@@ -160,13 +160,13 @@ _rate of urbanization_: 0% annual rate of change (2020-25 est.)<br>
 _conventional long form_: none<br>
 _conventional short form_: Tokelau<br>
 _former_: Union Islands, Tokelau Islands<br>
-_etymology_: "tokelau" is a Polynesian word meaning "north wind"<br>
+_etymology_: the name comes from the Polynesian word <em>tokelau</em>, meaning "north wind;" the name "Tokelau Islands" was adopted in 1946, and the shortened form in 1976<br>
 
 **Government type**<br>
 <p>parliamentary democracy under a constitutional monarchy</p><br>
 
 **Dependency status**<br>
-self-administering territory of New Zealand; note - Tokelau and New Zealand have agreed to a draft constitution as Tokelau moves toward free association with New Zealand; a UN-sponsored referendum on self governance in October 2007 did not meet the two-thirds majority vote necessary for changing the political status<br>
+Tokelau is a non-self-governing territory of New Zealand and part of the Realm of New Zealand; Tokelau has its own political institutions, judicial system, public services (including telecommunications and shipping), and budget control<br>
 
 **Capital**<br>
 _time difference_: UTC+13 (18 hours ahead of Washington, DC during Standard Time)<br>
@@ -196,7 +196,7 @@ see New Zealand<br>
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor-General of New Zealand Dame Cindy KIRO (since 21 September 2021); New Zealand is represented by Administrator Don HIGGINS (since June 2022)<br>
-_head of government_: (Ulu o Tokelau) Alapati TAVITE (since 12 March 2024)<br>
+_head of government_: (Ulu o Tokelau) Esera Fofō Filipo Tuisano TUISANO (since 17 March 2025)<br>
 _cabinet_: Council for the Ongoing Government of Tokelau (or Tokelau Council) functions as a cabinet; consists of 3 village leaders (Faipule) and 3 village mayors (Pulenuku)<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; administrator appointed by the Minister of Foreign Affairs and Trade in New Zealand; head of government chosen from the Council of Faipule to serve a 1-year term<br>
 <strong>note:</strong> the meeting place of the Tokelau Council and the head of government position rotates annually among the three atolls; this tradition has given rise to the somewhat misleading description that the capital rotates yearly between the three atolls; in actuality, it is the seat of the government councilors that rotates since Tokelau has no capital<br>
@@ -276,10 +276,6 @@ small-scale enterprises for copra production, woodworking, plaited craft goods; 
 **Labor force**<br>
 1,100 (2019 est.)<br>
 
-**Unemployment rate**<br>
-2% (2015 est.)<br>
-<strong>note:</strong> Underemployment may be as high as 6.6%<br>
-
 **Budget**<br>
 _revenues_: $24,324,473 (2017 est.)<br>
 _expenditures_: $11,666,542 (2017 est.)<br>
@@ -328,7 +324,7 @@ _domestic_: fixed-line teledensity is 0 per 100 persons (2019)<br>
 _international_: country code - 690; landing point for the Southern Cross NEXT submarine cable linking Australia, Tokelau, Samoa, Kiribati, Fiji, New Zealand and Los Angeles, CA (USA); radiotelephone service to Samoa; government-regulated telephone service (TeleTok); satellite earth stations - 3 (2020)<br>
 
 **Broadcast media**<br>
-Sky TV access for around 30% of the population; each atoll operates a radio service that provides shipping news and weather reports (2019)<br>
+Sky TV access for about a third of the population; each atoll operates a radio service with shipping news and weather reports (2019)<br>
 
 **Internet country code**<br>
 .tk<br>
@@ -337,9 +333,6 @@ Sky TV access for around 30% of the population; each atoll operates a radio serv
 _percent of population_: 58.3% (2021 est.)<br>
 
 ## Transportation
-
-**Roadways**<br>
-_total_: 10 km (2019)<br>
 
 ## Military and Security
 

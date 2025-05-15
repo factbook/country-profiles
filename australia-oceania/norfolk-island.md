@@ -68,12 +68,14 @@ population concentrated around the capital of Kingston<br>
 tropical cyclones (especially May to July)<br>
 
 **Geography - note**<br>
-most of the 32 km coastline consists of almost inaccessible cliffs, but the land slopes down to the sea in one small southern area on Sydney Bay, where the capital of Kingston is situated<br>
+most of the 32-km (20-mi) coastline consists of almost inaccessible cliffs, but the land slopes down to the sea in one small southern area on Sydney Bay, where the capital of Kingston is located<br>
 
 ## People and Society
 
 **Population**<br>
-_total_: 2,188 (2021)<br>
+_total_: 1,739 (2021)<br>
+_male_: 823<br>
+_female_: 916<br>
 
 **Nationality**<br>
 _noun_: Norfolk Islander(s)<br>
@@ -99,7 +101,7 @@ population concentrated around the capital of Kingston<br>
 ## Environment
 
 **Environment - current issues**<br>
-inadequate solid waste management; most freshwater obtained through rainwater catchment; preservation of unique ecosystem<br>
+inadequate solid-waste management; most freshwater obtained through rainwater catchment; preservation of unique ecosystem<br>
 
 **Climate**<br>
 subtropical; mild, little seasonal temperature variation<br>
@@ -123,14 +125,14 @@ _etymology_: named by British explorer Captain James COOK after Edward HOWARD, t
 non-self-governing overseas territory of Australia; note - the Norfolk Island Regional Council, which began operations 1 July 2016, is responsible for planning and managing a variety of public services, including those funded by the Government of Australia<br>
 
 **Dependency status**<br>
-self-governing territory of Australia; administered from Canberra by the Department of Infrastructure, Transport, Cities &amp; Regional Development<br>
+self-governing territory of Australia; administered from Canberra by the Department of Infrastructure, Transport, Cities, &amp; Regional Development<br>
 
 **Capital**<br>
 _name_: Kingston<br>
 _geographic coordinates_: 29 03 S, 167 58 E<br>
 _time difference_: UTC+11 (16 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins first Sunday in October; ends first Sunday in April<br>
-_etymology_: the name is a blending of the words "king's" and "town"; the British king at the time of the town's settlement in the late 18th century was GEORGE III<br>
+_etymology_: the name blends the words "king's" and "town;" the English king at the time of the town's settlement in the late 18th century was GEORGE III<br>
 
 **Administrative divisions**<br>
 none (territory of Australia)<br>
@@ -258,11 +260,6 @@ _percent of population_: 46.1% (2021 est.)<br>
 
 **Airports**<br>
 1 (2025)<br>
-
-**Roadways**<br>
-_total_: 80 km<br>
-_paved_: 53 km<br>
-_unpaved_: 27 km (2008)<br>
 
 **Ports**<br>
 _total ports_: 1 (2024)<br>

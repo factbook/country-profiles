@@ -78,7 +78,7 @@ population concentrated in the southern area around Krakow and the central area 
 flooding<br>
 
 **Geography - note**<br>
-historically, an area of conflict because of flat terrain and the lack of natural barriers on the North European Plain<br>
+historically an area of conflict because of flat terrain and the lack of natural barriers on the North European Plain<br>
 
 ## People and Society
 
@@ -109,10 +109,10 @@ _15-64 years_: 65.9% (male 12,513,402/female 13,036,977)<br>
 _65 years and over_: 19.8% (2024 est.) (male 3,097,965/female 4,591,618)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 51.4<br>
-_youth dependency ratio_: 23.4<br>
-_elderly dependency ratio_: 28.6<br>
-_potential support ratio_: 3.5 (2021 est.)<br>
+_total dependency ratio_: 51.6 (2024 est.)<br>
+_youth dependency ratio_: 21.6 (2024 est.)<br>
+_elderly dependency ratio_: 30.1 (2024 est.)<br>
+_potential support ratio_: 3.3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 42.9 years (2024 est.)<br>
@@ -233,7 +233,7 @@ _female_: 17 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-decreased emphasis on heavy industry and increased environmental concern by post-communist governments has improved environment; air pollution remains serious because of emissions from burning low-quality coals in homes and from coal-fired power plants; the resulting acid rain causes forest damage; water pollution from industrial and municipal sources is a problem, as is disposal of hazardous wastes<br>
+air pollution (despite environmental policy improvements) because of coal-burning in homes and power plants; acid rain leading to forest damage; water pollution from industrial and municipal sources; disposal of hazardous wastes<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulphur 94, Antarctic-Environmental Protection, Antarctic- Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -253,12 +253,6 @@ _other_: 22.6% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 60.2% of total population (2023)<br>
 _rate of urbanization_: -0.16% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.17% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.27% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 18.83 micrograms per cubic meter (2019 est.)<br>
@@ -309,7 +303,7 @@ _name_: Warsaw<br>
 _geographic coordinates_: 52 15 N, 21 00 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the origin of the name is unknown; the Polish designation "Warszawa" was the name of a fishing village and several legends/traditions link the city's founding to a man named Wars or Warsz<br>
+_etymology_: the origin of the name is unknown; Warszawa was the name of a fishing village, and several legends link the city's founding to a man named Wars or Warsz<br>
 
 **Administrative divisions**<br>
 16 voivodships [provinces] (wojewodztwa, singular - wojewodztwo); Dolnoslaskie (Lower Silesia), Kujawsko-Pomorskie (Kuyavia-Pomerania), Lodzkie (Lodz), Lubelskie (Lublin), Lubuskie (Lubusz), Malopolskie (Lesser Poland), Mazowieckie (Masovia), Opolskie (Opole), Podkarpackie (Subcarpathia), Podlaskie, Pomorskie (Pomerania), Slaskie (Silesia), Swietokrzyskie (Holy Cross), Warminsko-Mazurskie (Warmia-Masuria), Wielkopolskie (Greater Poland), Zachodniopomorskie (West Pomerania)<br>
@@ -444,9 +438,9 @@ $809.201 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-11.53% (2023 est.)<br>
-14.43% (2022 est.)<br>
-5.06% (2021 est.)<br>
+3.8% (2024 est.)<br>
+11.5% (2023 est.)<br>
+14.4% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -482,19 +476,19 @@ machine building, iron and steel, coal mining, chemicals, shipbuilding, food pro
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-18.355 million (2023 est.)<br>
+18.145 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.91% (2023 est.)<br>
-2.89% (2022 est.)<br>
-3.36% (2021 est.)<br>
+2.5% (2024 est.)<br>
+2.7% (2023 est.)<br>
+2.8% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.6% (2023 est.)<br>
-_male_: 12% (2023 est.)<br>
-_female_: 11.1% (2023 est.)<br>
+_total_: 9.9% (2024 est.)<br>
+_male_: 10.1% (2024 est.)<br>
+_female_: 9.6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -530,7 +524,7 @@ _expenditures_: $250.097 billion (2022 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities, the data include subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-17.12% (of GDP) (2022 est.)<br>
+18.1% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -568,18 +562,18 @@ crude petroleum, cars, garments, vehicle parts/accessories, plastic products (20
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$185.515 billion (2024 est.)<br>
 $193.783 billion (2023 est.)<br>
 $166.664 billion (2022 est.)<br>
-$166.03 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: zlotych (PLN) per US dollar -<br>
+3.981 (2024 est.)<br>
 4.204 (2023 est.)<br>
 4.458 (2022 est.)<br>
 3.862 (2021 est.)<br>
 3.9 (2020 est.)<br>
-3.839 (2019 est.)<br>
 
 ## Energy
 
@@ -644,7 +638,7 @@ _domestic_: fixed-line is 13 per 100 (service lags in rural areas), mobile-cellu
 _international_: country code - 48; landing points for the Baltica and the Denmark-Poland2 submarine cables connecting Poland, Denmark and Sweden; international direct dialing with automated exchanges; satellite earth station - 1 with access to Intelsat, Eutelsat, Inmarsat, and Intersputnik (2019)<br>
 
 **Broadcast media**<br>
-state-run public TV operates 2 national channels supplemented by 16 regional channels and several niche channels; privately owned entities operate several national TV networks and a number of special interest channels; many privately owned channels broadcasting locally; roughly half of all households are linked to either satellite or cable TV systems providing access to foreign television networks; state-run public radio operates 5 national networks and 17 regional radio stations; 2 privately owned national radio networks, several commercial stations broadcasting to multiple cities, and many privately owned local radio stations (2019)<br>
+state-run public TV operates 2 national channels supplemented by 16 regional and several niche channels; privately owned entities operate several national TV networks and some special interest channels; many privately owned local channels; roughly half of all households are linked to satellite or cable TV systems with access to foreign TV; state-run public radio operates 5 national networks and 17 regional stations; 2 privately owned national radio networks, several commercial stations, and many privately owned local radio stations (2019)<br>
 
 **Internet country code**<br>
 .pl<br>
@@ -658,12 +652,6 @@ _subscriptions per 100 inhabitants_: 26 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 6 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 169<br>
-_annual passenger traffic on registered air carriers_: 9,277,538 (2018)<br>
-_annual freight traffic on registered air carriers_: 271.49 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 SP<br>
 
@@ -673,17 +661,8 @@ SP<br>
 **Heliports**<br>
 16 (2025)<br>
 
-**Pipelines**<br>
-14,198 km gas, 1,374 km oil, 2,483 km refined products (2018)<br>
-
 **Railways**<br>
 _total_: 19,461 km (2020) 11,946 km electrified<br>
-
-**Roadways**<br>
-_total_: 427,580 km (2022)<br>
-
-**Waterways**<br>
-3,997 km (2009) (navigable rivers and canals)<br>
 
 **Merchant marine**<br>
 _total_: 152 (2023)<br>
@@ -701,7 +680,7 @@ _key ports_: Gdansk, Gdynia, Port Polnochny, Szczecin<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Polish Armed Forces (Polskie Siły Zbrojne): Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air Force (Sily Powietrzne), Special Forces (Wojska Specjalne), Territorial Defense Forces (Wojska Obrony Terytorialnej), Cyberspace Defense Forces (Wojska Obrony Cyberprzestrzeni)<br><br>Ministry of Interior and Administration: Polish National Police (Policja); Border Guard (Straż Graniczna or SG) (2024)<br>
+Polish Armed Forces (Polskie Siły Zbrojne): Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air Force (Sily Powietrzne), Special Forces (Wojska Specjalne), Territorial Defense Forces (Wojska Obrony Terytorialnej), Cyberspace Defense Forces (Wojska Obrony Cyberprzestrzeni)<br><br>Ministry of Interior and Administration: Polish National Police (Policja); Border Guard (Straż Graniczna or SG) (2025)<br>
 
 **Military expenditures**<br>
 4.1% of GDP (2024 est.)<br>
@@ -719,8 +698,8 @@ the military's inventory consists of a mix of some Soviet-era and a growing amou
 <strong>note:</strong> in late 2018, Poland announced a 7-year (through 2026) approximately $50 billion defense modernization plan that would include such items as 5th generation combat aircraft, unmanned aerial vehicles, rocket artillery, helicopters, submarines, frigates, and improved cyber security; in 2022-2023, it signed large military weapons contracts with South Korea, the UK, and the US<br>
 
 **Military service age and obligation**<br>
-18-28 years of age for male and female voluntary military service; conscription phased out in 2009-12; professional soldiers serve on a permanent basis (for an unspecified period of time) or on a contract basis (for a specified period of time); initial contract period is 24 months; women serve in the military on the same terms as men (2024)<br>
-<strong>note 1:</strong> as of 2024, women made up about 16.5% of the military's full-time personnel<br><br><strong>note 2: </strong>in May 2022, Poland announced a new 12-month voluntary military service program with recruits going through a one-month basic training period with a military unit, followed by 11 months of specialized training; upon completion of service, the volunteers would be allowed to join the Territorial Defense Forces or the active reserve, and have priority to join the professional army and be given preference for employment in the public sector; the program is part of an effort to increase the size of the Polish military<br>
+18 years of age for voluntary military service for men and women; no conscription; professional soldiers serve on a permanent basis (for an unspecified period of time) or on a contract basis (for a specified period of time); initial contract period is 24 months (2025)<br>
+<strong>note 1:</strong> as of 2024, women made up about 16.5% of the military's full-time personnel<br><br><strong>note 2: </strong>in 2022, Poland announced a new 12-month voluntary military service program with recruits going through a one-month basic training period with a military unit, followed by 11 months of specialized training; upon completion of service, the volunteers would be allowed to join the Territorial Defense Forces or the active reserve, and have priority to join the professional army and be given preference for employment in the public sector; the program is part of an effort to increase the size of the Polish military<br>
 
 **Military deployments**<br>
 210 Kosovo (NATO/KFOR); up to 180 Latvia (NATO); 190 Lebanon (UNIFIL); approximately 230 Romania (NATO) (2024)<br>

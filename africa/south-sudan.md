@@ -101,10 +101,10 @@ _15-64 years_: 55.3% (male 3,568,064/female 3,458,804)<br>
 _65 years and over_: 2.6% (2024 est.) (male 182,757/female 149,534)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 80.8<br>
-_youth dependency ratio_: 74.7<br>
-_elderly dependency ratio_: 6.1<br>
-_potential support ratio_: 18.4 (2021 est.)<br>
+_total dependency ratio_: 80.8 (2024 est.)<br>
+_youth dependency ratio_: 76.1 (2024 est.)<br>
+_elderly dependency ratio_: 4.7 (2024 est.)<br>
+_potential support ratio_: 21.1 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 18.7 years (2024 est.)<br>
@@ -205,7 +205,7 @@ _female_: 28.9% (2018)<br>
 ## Environment
 
 **Environment - current issues**<br>
-water pollution; inadequate supplies of potable water; wildlife conservation and loss of biodiversity; deforestation; soil erosion; desertification; periodic drought<br>
+water pollution; inadequate supplies of potable water; wildlife conservation and loss of biodiversity; deforestation; soil erosion; desertification; drought<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Paris Agreement, Desertification, Ozone Layer Protection, Wetlands<br>
@@ -228,9 +228,6 @@ _rate of urbanization_: 4.12% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to economic downturn, the lingering effects of floods, and prolonged internal conflict -</em> despite sustained humanitarian assistance, food insecurity still affects large segments of the population, owing to rampant inflation and insufficient food supplies due to stagnant agricultural production, the effects of consecutive years with widespread floods, and the escalation of organized violence at the sub-national level since 2020; about 7.76 million people, almost two thirds of the total population, are expected to face severe acute food insecurity in the lean season between April and July 2023; the high levels of cereal prices are mainly due to insufficient supplies, low foreign currency reserves, a weak national currency and high fuel prices; further upward pressure was exerted by reduced imports from neighboring Uganda, where exportable surpluses shrunk in 2022 following a reduced cereal production (2023)<br>
-
-**Revenue from forest resources**<br>
-2.65% of GDP (2015 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 20.18 micrograms per cubic meter (2019 est.)<br>
@@ -259,7 +256,7 @@ _agricultural_: 240 million cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of South Sudan<br>
 _conventional short form_: South Sudan<br>
-_etymology_: self-descriptive name from the country's former position within Sudan prior to independence; the name "Sudan" derives from the Arabic "bilad-as-sudan" meaning "Land of the Black [peoples]"<br>
+_etymology_: self-descriptive name from the country's geographic position within Sudan prior to independence; the name Sudan derives from the Arabic <em>balad-as-sudan</em>, meaning "Land of the Black [peoples]"<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -268,7 +265,7 @@ presidential republic<br>
 _name_: Juba<br>
 _geographic coordinates_: 04 51 N, 31 37 E<br>
 _time difference_: UTC+2 (8 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name derives from Djouba, another name for the Bari people of South Sudan<br>
+_etymology_: the name comes from the name of a small Bari village that was located near the present-day city<br>
 
 **Administrative divisions**<br>
 10 states; Central Equatoria, Eastern Equatoria, Jonglei, Lakes, Northern Bahr el Ghazal, Unity, Upper Nile, Warrap, Western Bahr el Ghazal, Western Equatoria; note - in 2015, the creation of 28 new states was announced and in 2017 four additional states; following the February 2020 peace agreement, the country was again reorganized into the 10 original states, plus 2 administrative areas, Pibor and Ruweng, and 1 special administrative status area, Abyei (which is disputed between South Sudan and Sudan); this latest administrative revision has not yet been vetted by the US Board on Geographic Names<br>
@@ -386,9 +383,9 @@ $11.998 billion (2015 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-2.38% (2023 est.)<br>
--6.69% (2022 est.)<br>
-10.52% (2021 est.)<br>
+2.4% (2023 est.)<br>
+-6.7% (2022 est.)<br>
+10.5% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -413,19 +410,19 @@ milk, cassava, sorghum, goat milk, vegetables, fruits, groundnuts, sesame seeds,
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.883 million (2023 est.)<br>
+5.091 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-12.27% (2023 est.)<br>
-12.4% (2022 est.)<br>
-13.87% (2021 est.)<br>
+12.5% (2023 est.)<br>
+12.5% (2022 est.)<br>
+14% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.3% (2023 est.)<br>
+_total_: 18.5% (2023 est.)<br>
 _male_: 19.4% (2023 est.)<br>
-_female_: 17.2% (2023 est.)<br>
+_female_: 17.6% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -490,9 +487,9 @@ garments, cement, other foods, iron bars, cereal flours (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$183.615 million (2020 est.)<br>
-$378.282 million (2019 est.)<br>
-$36.396 million (2018 est.)<br>
+$72.881 million (2023 est.)<br>
+$94.914 million (2022 est.)<br>
+$341.932 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
@@ -550,7 +547,7 @@ _domestic_: fixed-line less than 1 per 100 subscriptions, mobile-cellular is 30 
 _international_: country code - 211 (2017)<br>
 
 **Broadcast media**<br>
-<p>a single TV channel and a radio station are controlled by the government; several community and commercial FM stations are operational, mostly sponsored by outside aid donors; some foreign radio broadcasts are available</p> (2019)<br>
+<p>1 state-controlled TV channel and radio station; several community and commercial FM stations, mostly sponsored by outside aid donors; some foreign radio broadcasts available</p> (2019)<br>
 
 **Internet country code**<br>
 .ss<br>
@@ -563,11 +560,6 @@ _total_: 0 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 ## Transportation
-
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 2<br>
-_annual freight traffic on registered air carriers_: 0 mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 Z8<br>
@@ -582,19 +574,10 @@ Z8<br>
 _total_: 248 km (2018)<br>
 <strong>note:</strong> a narrow gauge, single-track railroad between Babonosa (Sudan) and Wau, the only existing rail system, was repaired in 2010 with $250 million in UN funds, but is not currently operational<br>
 
-**Roadways**<br>
-_total_: 90,200 km<br>
-_paved_: 300 km<br>
-_unpaved_: 89,900 km (2015)<br>
-<strong>note:</strong> most of the road network is unpaved and much of it is in disrepair; the Juba-Nimule highway connecting Juba to the border with Uganda is the main paved road in South Sudan <br>
-
-**Waterways**<br>
-see entry for Sudan<br>
-
 ## Military and Security
 
 **Military and security forces**<br>
-South Sudan People’s Defense Force (SSPDF): Land Forces (includes Presidential Guard), Air Forces, Marines (Riverine Forces), Reserve Forces; National (or Necessary) Unified Forces (NUF)<br><br>Ministry of Interior: South Sudan National Police Service (SSNPS) (2024)<br>
+South Sudan People’s Defense Force (SSPDF): Land Forces (includes Presidential Guard), Air Forces, Marine (Riverine) Forces, Reserve Forces; National (or Necessary) Unified Forces (NUF)<br><br>Ministry of Interior: South Sudan National Police Service (SSNPS) (2025)<br>
 <strong>note 1: </strong>the NUF are being formed by retraining rebel and pro-government militia fighters into military, police, and other government security forces; the first operational NUF deployed in November 2023<strong><br><br>note 2:</strong> numerous irregular forces operate in the country with official knowledge, including militias operated by the National Security Service (an internal security force under the Ministry of National Security) and proxy forces<br>
 
 **Military expenditures**<br>
@@ -605,7 +588,7 @@ South Sudan People’s Defense Force (SSPDF): Land Forces (includes Presidential
 3.2% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 150-200,000 active personnel, mostly ground forces with small contingents of air and riverine forces (2023)<br>
+information varies; the SSPDF has an estimated 150-200,000 active personnel (2025)<br>
 <strong>note: </strong>some active SSPDF personnel may be militia; the National/Necessary Unified Forces (NUF) are expected to have up to 80,000 personnel when training and integration is completed; the first batch of approximately 20,000 NUF personnel completed training in late 2022<br>
 
 **Military equipment inventories and acquisitions**<br>

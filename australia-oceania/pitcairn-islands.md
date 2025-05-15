@@ -65,7 +65,7 @@ less than 50 inhabitants on Pitcairn Island, most reside near the village of Ada
 occasional tropical cyclones (especially November to March), but generally only heavy tropical storms; landslides<br>
 
 **Geography - note**<br>
-Britain's most isolated dependency; only the larger island of Pitcairn is inhabited but it has no port or natural harbor; supplies must be transported by longboat from larger ships stationed offshore<br>
+Britain's most isolated dependency; only the larger island of Pitcairn is inhabited, but it has no port or natural harbor; supplies must be transported by longboat from larger ships stationed offshore<br>
 
 ## People and Society
 
@@ -121,7 +121,7 @@ overseas territory of the UK<br>
 _name_: Adamstown<br>
 _geographic coordinates_: 25 04 S, 130 05 W<br>
 _time difference_: UTC-9 (4 hours behind Washington, DC, during Standard Time)<br>
-_etymology_: named after John ADAMS (1767&ndash;1829), the last survivor of the Bounty mutineers who settled on Pitcairn Island in January 1790<br>
+_etymology_: named after John ADAMS (1767&ndash;1829), the last survivor of the Bounty mutineers who settled on Pitcairn Island in 1790<br>
 
 **Administrative divisions**<br>
 none (overseas territory of the UK)<br>

@@ -71,7 +71,7 @@ the northern and central areas of the country are the most densely populated<br>
 destructive earthquakes<br>
 
 **Geography - note**<br>
-within Bosnia and Herzegovina's recognized borders, the country is divided into a joint Bosniak/Croat Federation (about 51% of the territory) and the Bosnian Serb-led Republika Srpska or RS (about 49% of the territory); the region called Herzegovina is contiguous to Croatia and Montenegro, and traditionally has been settled by an ethnic Croat majority in the west and an ethnic Serb majority in the east<br>
+within Bosnia and Herzegovina's recognized borders, the country is divided into a joint Bosniak/Croat Federation (about 51% of the territory) and the Bosnian Serb-led Republika Srpska or RS (about 49% of the territory); the region called Herzegovina is contiguous to Croatia and Montenegro<br>
 
 ## People and Society
 
@@ -101,10 +101,10 @@ _15-64 years_: 68.3% (male 1,305,271/female 1,290,920)<br>
 _65 years and over_: 18.6% (2024 est.) (male 289,449/female 415,378)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 48<br>
-_youth dependency ratio_: 22.3<br>
-_elderly dependency ratio_: 27.1<br>
-_potential support ratio_: 3.7 (2021 est.)<br>
+_total dependency ratio_: 43.5 (2024 est.)<br>
+_youth dependency ratio_: 16.8 (2024 est.)<br>
+_elderly dependency ratio_: 26.7 (2024 est.)<br>
+_potential support ratio_: 3.7 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 44.8 years (2024 est.)<br>
@@ -225,7 +225,7 @@ _female_: 15 years (2014)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution; deforestation and illegal logging; inadequate wastewater treatment and flood management facilities; sites for disposing of urban waste are limited; land mines left over from the 1992-95 civil strife are a hazard in some areas<br>
+air pollution; deforestation and illegal logging; inadequate wastewater treatment and flood management facilities; urban waste disposal; uncleared land mines from the 1990s<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
@@ -245,12 +245,6 @@ _other_: 13.1% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 50.3% of total population (2023)<br>
 _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.49% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.34% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 26.19 micrograms per cubic meter (2019 est.)<br>
@@ -427,9 +421,10 @@ $27.515 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-6.11% (2023 est.)<br>
-14.02% (2022 est.)<br>
-1.98% (2021 est.)<br>
+1.7% (2024 est.)<br>
+6.1% (2023 est.)<br>
+14% (2022 est.)<br>
+<strong>note:</strong> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B3 (2012)<br>
@@ -463,19 +458,19 @@ steel, coal, iron ore, lead, zinc, manganese, bauxite, aluminum, motor vehicle a
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.382 million (2023 est.)<br>
+1.356 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-10.42% (2023 est.)<br>
-12.66% (2022 est.)<br>
-14.9% (2021 est.)<br>
+10.7% (2024 est.)<br>
+10.7% (2023 est.)<br>
+12.7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.5% (2023 est.)<br>
-_male_: 24.6% (2023 est.)<br>
-_female_: 30.1% (2023 est.)<br>
+_total_: 27.3% (2024 est.)<br>
+_male_: 25.4% (2024 est.)<br>
+_female_: 30.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -498,11 +493,11 @@ _expenditures_: $9.739 billion (2023 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-40.42% of GDP (2023 est.)<br>
+40.4% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-19.11% (of GDP) (2023 est.)<br>
+19.1% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -540,22 +535,22 @@ refined petroleum, cars, garments, plastic products, packaged medicine (2023)<br
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$9.127 billion (2024 est.)<br>
 $9.205 billion (2023 est.)<br>
 $8.762 billion (2022 est.)<br>
-$9.475 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$5.602 billion (2023 est.)<br>
+$5.359 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: konvertibilna markas (BAM) per US dollar -<br>
+1.808 (2024 est.)<br>
 1.809 (2023 est.)<br>
 1.859 (2022 est.)<br>
 1.654 (2021 est.)<br>
 1.717 (2020 est.)<br>
-1.747 (2019 est.)<br>
 
 ## Energy
 
@@ -615,7 +610,7 @@ _domestic_: fixed-line teledensity roughly 21 per 100 persons and mobile-cellula
 _international_: country code - 387; no satellite earth stations<br>
 
 **Broadcast media**<br>
-3 public TV broadcasters: Radio and TV of Bosnia and Herzegovina, Federation TV (operating 2 networks), and Republika Srpska Radio-TV; a local commercial network of 5 TV stations; 3 private, near-national TV stations and dozens of small independent TV broadcasting stations; 3 large public radio broadcasters and many private radio stations (2019)<br>
+3 public TV broadcasters: Radio and TV of Bosnia and Herzegovina, Federation TV (operating 2 networks), and Republika Srpska Radio-TV; a local commercial network of 5 TV stations; 3 private, near-national TV stations and dozens of small independent TV stations; 3 large public radio broadcasters and many private radio stations (2019)<br>
 
 **Internet country code**<br>
 .ba<br>
@@ -629,12 +624,6 @@ _subscriptions per 100 inhabitants_: 29 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 1<br>
-_annual passenger traffic on registered air carriers_: 7,070 (2015)<br>
-_annual freight traffic on registered air carriers_: 87 (2015) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 T9<br>
 
@@ -644,18 +633,9 @@ T9<br>
 **Heliports**<br>
 3 (2025)<br>
 
-**Pipelines**<br>
-147 km gas, 9 km oil (2013)<br>
-
 **Railways**<br>
 _total_: 965 km (2014)<br>
 _standard gauge_: 965 km (2014) 1.435-m gauge (565 km electrified)<br>
-
-**Roadways**<br>
-_total_: 8,619 km (2022)<br>
-
-**Waterways**<br>
-990 km (2022) (Sava River on northern border; open to shipping but use limited)<br>
 
 **Ports**<br>
 _total ports_: 1 (2024)<br>

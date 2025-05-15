@@ -68,7 +68,7 @@ extensive phosphate mining made approximately 90% of the island unsuitable for f
 periodic droughts<br>
 
 **Geography - note**<br>
-Nauru is the third-smallest country in the world behind the Holy See (Vatican City) and Monaco; it is the smallest country in the Pacific Ocean, the smallest country outside Europe, the world's smallest island country, and the world's smallest independent republic; situated just 53 km south of the Equator, Nauru is one of the three great phosphate rock islands in the Pacific Ocean -- the others are Banaba (Ocean Island) in Kiribati and Makatea in French Polynesia<br>
+Nauru is the third-smallest country in the world behind the Holy See (Vatican City) and Monaco; it is the smallest country in the Pacific Ocean, the smallest country outside Europe, the world's smallest island country, and the world's smallest independent republic; situated just 53 km south of the equator, Nauru is one of the three great phosphate rock islands in the Pacific Ocean -- the others are Banaba (Ocean Island) in Kiribati and Makatea in French Polynesia<br>
 
 ## People and Society
 
@@ -97,10 +97,10 @@ _15-64 years_: 66% (male 3,220/female 3,309)<br>
 _65 years and over_: 4.4% (2024 est.) (male 143/female 294)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 69.9<br>
-_youth dependency ratio_: 66<br>
-_elderly dependency ratio_: 3.9<br>
-_potential support ratio_: 25.8 (2021)<br>
+_total dependency ratio_: 51.5 (2024 est.)<br>
+_youth dependency ratio_: 44.8 (2024 est.)<br>
+_elderly dependency ratio_: 6.7 (2024 est.)<br>
+_potential support ratio_: 14.9 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 27.8 years (2024 est.)<br>
@@ -206,7 +206,7 @@ _female_: NA<br>
 ## Environment
 
 **Environment - current issues**<br>
-limited natural freshwater resources, roof storage tanks that collect rainwater and desalination plants provide water; a century of intensive phosphate mining beginning in 1906 left the central 90% of Nauru a wasteland; cadmium residue, phosphate dust, and other contaminants have caused air and water pollution with negative impacts on health; climate change has brought on rising sea levels and inland water shortages<br>
+limited natural freshwater resources; effects of intensive phosphate mining that left the central 90% of Nauru a wasteland; air and water pollution from cadmium residue, phosphate dust, and other contaminants; rising sea levels<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Whaling<br>
@@ -226,9 +226,6 @@ _other_: 80% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 0.18% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 7.4 micrograms per cubic meter (2019 est.)<br>
@@ -268,7 +265,7 @@ _time difference_: UTC+12 (17 hours ahead of Washington, DC, during Standard Tim
 Independence Day, 31 January (1968)<br>
 
 **Legal system**<br>
-mixed legal system of common law based on the English model and customary law<br>
+mixed system of common law based on the English model and customary law<br>
 
 **Constitution**<br>
 _history_: effective 29 January 1968<br>
@@ -432,11 +429,11 @@ ships, titanium ore, refined petroleum, plastic products, other foods (2023)<br>
 
 **Exchange rates**<br>
 _Currency_: Australian dollars (AUD) per US dollar -<br>
+1.515 (2024 est.)<br>
 1.505 (2023 est.)<br>
 1.442 (2022 est.)<br>
 1.331 (2021 est.)<br>
 1.453 (2020 est.)<br>
-1.439 (2019 est.)<br>
 
 ## Energy
 
@@ -475,7 +472,7 @@ _domestic_: fixed-line 0 per 100 and mobile-cellular subscribership approximatel
 _international_: country code - 674; satellite earth station - 1 Intelsat (Pacific Ocean)<br>
 
 **Broadcast media**<br>
-1 government-owned TV station broadcasting programs from New Zealand sent via satellite or on videotape; 1 government-owned radio station, broadcasting on AM and FM, utilizes Australian and British programs (2019)<br>
+1 state-owned TV station broadcasting programs from New Zealand; 1 state-owned radio station, broadcasting on AM and FM, uses Australian and British programs (2019)<br>
 
 **Internet country code**<br>
 .nr<br>
@@ -489,22 +486,11 @@ _subscriptions per 100 inhabitants_: 10 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 5<br>
-_annual passenger traffic on registered air carriers_: 45,457 (2018)<br>
-_annual freight traffic on registered air carriers_: 7.94 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 C2<br>
 
 **Airports**<br>
 1 (2025)<br>
-
-**Roadways**<br>
-_total_: 30 km<br>
-_paved_: 24 km<br>
-_unpaved_: 6 km (2002)<br>
 
 **Merchant marine**<br>
 _total_: 6 (2023)<br>
@@ -522,7 +508,7 @@ _key ports_: Nauru<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; the police force, under the Minister for Police and Emergency Services, maintains internal security and, as necessary, external security (2024)<br>
+no regular military forces; Nauru Police Force (2025)<br>
 
 **Military - note**<br>
 under an informal agreement, defense is the responsibility of Australia; under the terms of a security deal signed in December 2024, Nauru pledged to seek Australia’s agreement before it signed any bilateral accords on maritime security, defense, and policing, and would receive economic assistance from Australia, including to its police force<br><br>Nauru has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Nauru's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>

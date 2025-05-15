@@ -67,7 +67,7 @@ most residents live in or around Oranjestad and San Nicolaas; most settlements t
 hurricanes; lies outside the Caribbean hurricane belt and is rarely threatened<br>
 
 **Geography - note**<br>
-a flat, riverless island renowned for its white sand beaches; its tropical climate is moderated by constant trade winds from the Atlantic Ocean; the temperature is almost constant at about 27 degrees Celsius (81 degrees Fahrenheit)<br>
+a flat, riverless island known for its white sand beaches; its tropical climate is moderated by constant trade winds from the Atlantic Ocean; the temperature is almost constant at about 27 degrees Celsius (81 degrees Fahrenheit)<br>
 
 ## People and Society
 
@@ -96,10 +96,10 @@ _15-64 years_: 65.7% (male 39,621/female 42,487)<br>
 _65 years and over_: 17.1% (2024 est.) (male 8,665/female 12,728)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 47.8<br>
-_youth dependency ratio_: 24.8<br>
-_elderly dependency ratio_: 23<br>
-_potential support ratio_: 4.4 (2021 est.)<br>
+_total dependency ratio_: 52.3 (2024 est.)<br>
+_youth dependency ratio_: 26.3 (2024 est.)<br>
+_elderly dependency ratio_: 26.1 (2024 est.)<br>
+_potential support ratio_: 3.8 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 40.9 years (2024 est.)<br>
@@ -193,7 +193,7 @@ _female_: 14 years (2012)<br>
 ## Environment
 
 **Environment - current issues**<br>
-difficulty in properly disposing of waste produced by large numbers of tourists; waste burning that occurs in the landfill causes air pollution and poses an environmental and health risk; ocean environmental damage due to plastic pollution<br>
+difficulty in properly disposing waste from tourists; air pollution from waste-burning; water pollution from plastics<br>
 
 **Climate**<br>
 tropical marine; little seasonal temperature variation<br>
@@ -209,9 +209,6 @@ _other_: 86.6% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 44.3% of total population (2023)<br>
 _rate of urbanization_: 0.77% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2017 est.)<br>
 
 **Air pollutants**<br>
 _carbon dioxide emissions_: 0.88 megatons (2016 est.)<br>
@@ -234,13 +231,13 @@ _etymology_: the origin of the island's name is unclear; according to tradition,
 parliamentary democracy; part of the Kingdom of the Netherlands<br>
 
 **Dependency status**<br>
-constituent country of the Kingdom of the Netherlands; full autonomy in internal affairs obtained in 1986 upon separation from the Netherlands Antilles; Dutch Government responsible for defense and foreign affairs<br>
+constituent country of the Kingdom of the Netherlands; full autonomy in internal affairs obtained in 1986 upon separation from the Netherlands Antilles; Dutch government responsible for defense and foreign affairs<br>
 
 **Capital**<br>
 _name_: Oranjestad<br>
 _geographic coordinates_: 12 31 N, 70 02 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: translates as "orange city" in Dutch; in 1824, the city was named after the royal family of the Netherlands, the House of Orange-Nassau&nbsp;<br>
+_etymology_: translates as "orange city" in Dutch; in 1824, the city was named after the royal family of the Netherlands, the House of Orange-Nassau<br>
 
 **Administrative divisions**<br>
 none (part of the Kingdom of the Netherlands)<br>
@@ -339,9 +336,9 @@ $3.649 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.26% (2019 est.)<br>
-3.63% (2018 est.)<br>
--1.03% (2017 est.)<br>
+4.3% (2019 est.)<br>
+3.6% (2018 est.)<br>
+-1% (2017 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -390,15 +387,15 @@ _expenditures_: $782 million (2019 est.)<br>
 25.2% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
+$194.498 million (2023 est.)<br>
 $230.556 million (2022 est.)<br>
 $79.257 million (2021 est.)<br>
--$316.455 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$3.153 billion (2023 est.)<br>
 $2.853 billion (2022 est.)<br>
 $2.201 billion (2021 est.)<br>
-$1.444 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -410,9 +407,9 @@ tobacco, gas turbines, refined petroleum, steam turbines, heating machinery (202
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$2.565 billion (2023 est.)<br>
 $2.429 billion (2022 est.)<br>
 $1.947 billion (2021 est.)<br>
-$1.644 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -431,11 +428,11 @@ $1.513 billion (2021 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Aruban guilders/florins per US dollar -<br>
+1.79 (2024 est.)<br>
 1.79 (2023 est.)<br>
 1.79 (2022 est.)<br>
 1.79 (2021 est.)<br>
 1.79 (2020 est.)<br>
-1.79 (2019 est.)<br>
 
 ## Energy
 
@@ -478,12 +475,12 @@ _total subscriptions_: 141,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 132 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage (2021)<br>
+_general assessment_: declines in subscriber numbers, particularly for prepaid mobile services&nbsp; (the mainstay of short-term visitors), and revenue; governments, regulators, and MNOs have not been investing in 5G opportunities; network expansion and enhancements remain concentrated around improving LTE coverage (2021)<br>
 _domestic_: 33 per 100 fixed-line telephone subscriptions and 130 per 100 mobile-cellular (2021)<br>
 _international_: country code - 297; landing&nbsp;points for the PAN-AM, PCCS, Deep Blue Cable, and Alonso de Ojeda&nbsp;submarine telecommunications cable system that extends from Trinidad and Tobago, Florida,&nbsp;Puerto Ricco,&nbsp;Jamaica, Guyana, Sint Eustatius &amp; Saba, Suriname, Dominican Republic, BVI, USVI, Haiti, Cayman Islands, the Netherlands Antilles,&nbsp; through Aruba to Panama, Venezuela, Colombia, Ecuador, Peru and Chile; extensive interisland microwave radio relay links (2019)<br>
 
 **Broadcast media**<br>
-<p class="ssrcss-1q0x1qg-Paragraph e1jhz7w10">Aruba observes freedom of the press, as guaranteed under Dutch law, the newspapers are in the Papiamento language, there are two commercial TV stations, a cable TV subscription service provides access to foreign channels and there are a wide range of commercial radio stations available</p> (2023)<br>
+<p class="ssrcss-1q0x1qg-Paragraph e1jhz7w10">freedom of the press respected, as guaranteed under Dutch law; newspapers are in the Papiamento language; 2 commercial TV stations, with a cable TV subscription service providing access to foreign channels; wide range of commercial radio stations available</p> (2023)<br>
 
 **Internet country code**<br>
 .aw<br>
@@ -497,19 +494,11 @@ _subscriptions per 100 inhabitants_: 17 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 3 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 19<br>
-_annual passenger traffic on registered air carriers_: 274,280 (2018)<br>
-
 **Civil aircraft registration country code prefix**<br>
 P4<br>
 
 **Airports**<br>
 1 (2025)<br>
-
-**Roadways**<br>
-_total_: 1,000 km (2010)<br>
 
 **Merchant marine**<br>
 _total_: 1 (2023)<br>

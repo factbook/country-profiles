@@ -100,10 +100,10 @@ _15-64 years_: 69% (male 8,132,356/female 8,155,582)<br>
 _65 years and over_: 18.8% (2024 est.) (male 2,002,076/female 2,442,170)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 40.2<br>
-_youth dependency ratio_: 17.8<br>
-_elderly dependency ratio_: 22.4<br>
-_potential support ratio_: 4.5 (2021 est.)<br>
+_total dependency ratio_: 44.9 (2024 est.)<br>
+_youth dependency ratio_: 17.6 (2024 est.)<br>
+_elderly dependency ratio_: 27.3 (2024 est.)<br>
+_potential support ratio_: 3.7 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 44.6 years (2024 est.)<br>
@@ -181,9 +181,6 @@ NA<br>
 **Currently married women (ages 15-49)**<br>
 51% (2023 est.)<br>
 
-**Education expenditures**<br>
-NA<br>
-
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
 _total population_: 98.5%<br>
@@ -224,7 +221,7 @@ _conventional short form_: Taiwan<br>
 _local long form_: none<br>
 _local short form_: Taiwan<br>
 _former_: Formosa<br>
-_etymology_: "Tayowan" was the name of the coastal sandbank where the Dutch erected their colonial headquarters on the island in the 17th century; the former name "Formosa" means "beautiful" in Portuguese<br>
+_etymology_: the name may derive from the Chinese words <em>tai </em>(terrace) and <em>wan </em>(bay), referring to the island's terrain; in 1590, the Portuguese named it Formosa, meaning "beautiful"<br>
 
 **Government type**<br>
 semi-presidential republic<br>
@@ -233,7 +230,7 @@ semi-presidential republic<br>
 _name_: Taipei<br>
 _geographic coordinates_: 25 02 N, 121 31 E<br>
 _time difference_: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the Chinese meaning is "Northern Taiwan," reflecting the city's position in the far north of the island<br>
+_etymology_: the name means "Northern Taiwan," from the Chinese words <em>tai </em>(a short form of Taiwan) and <em>bei </em>(north), reflecting the city's position in the far north of the island<br>
 
 **Administrative divisions**<br>
 <p>includes main island of Taiwan plus smaller islands nearby and off coast of China's Fujian Province; Taiwan is divided into 13 counties (xian, singular and plural), 3 cities (shi, singular and plural), and 6 special municipalities directly under the jurisdiction of the Executive Yuan</p> <p><strong>counties:</strong> Changhua, Chiayi, Hsinchu, Hualien, Kinmen, Lienchiang, Miaoli, Nantou, Penghu, Pingtung, Taitung, Yilan, Yunlin</p> <p><strong>cities:</strong> Chiayi, Hsinchu, Keelung</p> <p><strong>special municipalities:</strong> Kaohsiung (city), New Taipei (city), Taichung (city), Tainan (city), Taipei (city), Taoyuan (city)</p><br>
@@ -508,7 +505,7 @@ _domestic_: fixed-line over 43 per 100 and mobile-cellular roughly 128 per 100 (
 _international_: country code - 886; landing points for the EAC-C2C,&nbsp;APCN-2, FASTER, SJC2, TSE-1, TPE, APG, SeaMeWe-3, FLAG&nbsp;North Asia Loop/REACH North Asia Loop, HKA, NCP, and PLCN&nbsp;submarine fiber cables provide links throughout Asia, Australia, the Middle East, Europe, Africa and the US; satellite earth stations - 2 (2019)<br>
 
 **Broadcast media**<br>
-5 nationwide television networks operating roughly 22 TV stations; more than 300 satellite TV channels are available; about 51% of households utilize multi-channel cable TV; 99.9% of households subscribe to digital cable TV; national and regional radio networks with about 171 radio stations (2023)<br>
+5 national TV networks with about 22 stations; over 300 satellite TV channels available; about half of households use multi-channel cable TV; almost all subscribe to digital cable TV; national and regional radio networks with about 171 radio stations (2023)<br>
 
 **Internet country code**<br>
 .tw<br>
@@ -522,10 +519,6 @@ _subscriptions per 100 inhabitants_: 25 (2019 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 7 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 216<br>
-
 **Civil aircraft registration country code prefix**<br>
 B<br>
 
@@ -535,19 +528,11 @@ B<br>
 **Heliports**<br>
 56 (2025)<br>
 
-**Pipelines**<br>
-25 km condensate, 2,200 km gas, 13,500 km oil (2018)<br>
-
 **Railways**<br>
 _total_: 1,613.1 km (2018)<br>
 _standard gauge_: 345 km (2018) 1.435-m gauge (345 km electrified)<br>
 _narrow gauge_: 1,118.1 km (2018) 1.067-m gauge (793.9 km electrified)<br>
 150 0.762-m gauge <strong>note:</strong> the 0.762-gauge track belongs to three entities: the Forestry Bureau, Taiwan Cement, and TaiPower<br>
-
-**Roadways**<br>
-_total_: 43,206 km<br>
-_paved_: 42,793 km (includes 1,348 km of highways and 737 km of expressways)<br>
-_unpaved_: 413 km (2017)<br>
 
 **Merchant marine**<br>
 _total_: 465 (2023)<br>
@@ -565,8 +550,8 @@ _key ports_: Chi-Lung, Hua-Lien Kang, Kao-Hsiung, Su-Ao<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force<br><br>Ocean Affairs Council: Coast Guard Administration (CGA)<br><br>Ministry of Interior: National Police (2024)<br>
-<strong>note: </strong>the CGA is a law enforcement organization with homeland security functions during peacetime and national defense missions during wartime; it was established in 2000 from the integration of the Coast Guard Command (formerly under the Ministry of Defense), the Marine Police Bureau (formerly under the National Police), and several cutters from the Taiwan Directorate General of Customs (Ministry of Finance)<br>
+Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force<br><br>Ocean Affairs Council: Coast Guard Administration (CGA)<br><br>Ministry of Interior: National Police (2025)<br>
+<strong>note: </strong>the CGA is a law enforcement organization with homeland security functions during peacetime and national defense missions during wartime<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2023 est.)<br>
@@ -576,8 +561,8 @@ Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force<br><br>Ocean 
 1.8% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 180,000 active-duty troops (95,000 Army; 45,000 Navy, including approximately 10,000 marines; 40,000 Air Force) (2024)<br>
-<strong>note: </strong>Taiwan trains about 120,000 reservists annually, but in 2022 announced intentions to increase that figure to 260,000<br>
+approximately 180,000 active-duty military personnel (95,000 Army; 45,000 Navy, including approximately 10,000 marines; 40,000 Air Force) (2024)<br>
+<strong>note: </strong>the military is comprised of both volunteers and conscripts; the conscripts serve 4-month tours, or 12 months for those born in 2005 and after; as of mid-2024, there were reportedly about 153,000 volunteer personnel serving in Taiwan's armed forces; in 2025, the military is expected to conscript about 75,000 men; Taiwan aims to maintain a military of about 215,000 plus reservists; Taiwan trains about 120,000 reservists annually, but in 2022 announced intentions to increase that figure to 260,000<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Taiwan military's inventory is a mix of domestically produced items and equipment acquired from the US, either as secondhand or direct acquisitions; Taiwan's domestic defense industry produces weapons systems such as aircraft, armored vehicles, missiles, and naval platforms (2024)<br>

@@ -74,7 +74,7 @@ Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
 
 **Geography - note**<br>
-landlocked; strategic location astride main land routes between Western Europe and Balkan Peninsula as well as between Ukraine and Mediterranean basin; the north-south flowing Duna (Danube) and Tisza Rivers divide the country into three large regions<br>
+landlocked; strategic location on main land routes between Western Europe and Balkan Peninsula, as well as between Ukraine and the Mediterranean basin; the Duna (Danube) and Tisza Rivers divide the country into three large regions<br>
 
 ## People and Society
 
@@ -105,10 +105,10 @@ _15-64 years_: 63.9% (male 3,195,761/female 3,104,750)<br>
 _65 years and over_: 21.5% (2024 est.) (male 862,952/female 1,254,384)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.8<br>
-_youth dependency ratio_: 22.4<br>
-_elderly dependency ratio_: 31.4<br>
-_potential support ratio_: 3.2 (2021 est.)<br>
+_total dependency ratio_: 56.4 (2024 est.)<br>
+_youth dependency ratio_: 22.8 (2024 est.)<br>
+_elderly dependency ratio_: 33.6 (2024 est.)<br>
+_potential support ratio_: 3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 44.8 years (2024 est.)<br>
@@ -232,7 +232,7 @@ _female_: 15 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air and water pollution are some of Hungary's most serious environmental problems; water quality in the Hungarian part of the Danube has improved but is still plagued by pollutants from industry and large-scale agriculture; soil pollution<br>
+air and soil pollution; water pollution from industry and large-scale agriculture<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -252,12 +252,6 @@ _other_: 21.9% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 72.9% of total population (2023)<br>
 _rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.1% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.01% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 14.24 micrograms per cubic meter (2019 est.)<br>
@@ -308,7 +302,7 @@ _name_: Budapest<br>
 _geographic coordinates_: 47 30 N, 19 05 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the Hungarian capital city was formed in 1873 from the merger of three cities on opposite banks of the Danube: Buda and Obuda (Old Buda) on the western shore and Pest on the eastern; the origins of the original names are obscure, but according to the second century A.D. geographer, Ptolemy, the settlement that would become Pest was called "Pession" in ancient times; "Buda" may derive from either a Slavic or Turkic personal name<br>
+_etymology_: Buda on the western shore of the Danube and Pest on the eastern shore merged in 1873 to form Budapest; Buda's name may derive from the name of its founder or from a local word meaning "water;" Pest derives from a Slavic word meaning "furnace" or "oven"<br>
 
 **Administrative divisions**<br>
 <p>19 counties (megyek, singular - megye), 25 cities with county rights (megyei jogu varosok, singular - megyei jogu varos), and 1 capital city (fovaros)</p> <p><strong>counties:</strong> Bacs-Kiskun, Baranya, Bekes, Borsod-Abauj-Zemplen, Csongrad-Csanad, Fejer, Gyor-Moson-Sopron, Hajdu-Bihar, Heves, Jasz-Nagykun-Szolnok, Komarom-Esztergom, Nograd, Pest, Somogy, Szabolcs-Szatmar-Bereg, Tolna, Vas, Veszprem, Zala</p> <p><strong>cities with county rights:</strong> Baja, Bekescsaba, Debrecen, Dunaujvaros, Eger, Erd, Esztergom, Gyor, Hodmezovasarhely, Kaposvar, Kecskemet, Miskolc, Nagykanizsa, Nyiregyhaza, Pecs, Salgotarjan, Sopron, Szeged, Szekesfehervar, Szekszard, Szolnok, Szombathely, Tatabanya, Veszprem, Zalaegerszeg</p> <p><strong>capital city:</strong> Budapest</p><br>
@@ -320,7 +314,7 @@ _etymology_: the Hungarian capital city was formed in 1873 from the merger of th
 Saint Stephen's Day, 20 August (1083); note - commemorates his canonization and the transfer of his remains to Buda (now Budapest) in 1083<br>
 
 **Legal system**<br>
-civil legal system influenced by the German model<br>
+civil system influenced by the German model<br>
 
 **Constitution**<br>
 _history_: previous 1949 (heavily amended in 1989 following the collapse of communism); latest approved 18 April 2011, signed 25 April 2011, effective 1 January 2012<br>
@@ -429,9 +423,9 @@ $212.389 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-17.12% (2023 est.)<br>
-14.61% (2022 est.)<br>
-5.11% (2021 est.)<br>
+3.7% (2024 est.)<br>
+17.1% (2023 est.)<br>
+14.6% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -467,19 +461,19 @@ mining, metallurgy, construction materials, processed foods, textiles, chemicals
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.001 million (2023 est.)<br>
+4.955 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.13% (2023 est.)<br>
-3.61% (2022 est.)<br>
-4.05% (2021 est.)<br>
+4.4% (2024 est.)<br>
+4.1% (2023 est.)<br>
+3.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.8% (2023 est.)<br>
-_male_: 13.5% (2023 est.)<br>
-_female_: 11.8% (2023 est.)<br>
+_total_: 14.1% (2024 est.)<br>
+_male_: 14.8% (2024 est.)<br>
+_female_: 13.1% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -511,11 +505,11 @@ _expenditures_: $75.081 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-75.53% of GDP (2022 est.)<br>
+75.5% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-23.43% (of GDP) (2022 est.)<br>
+23.4% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -553,18 +547,18 @@ vehicle parts/accessories, natural gas, integrated circuits, broadcasting equipm
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$37.194 billion (2024 est.)<br>
 $45.719 billion (2023 est.)<br>
 $41.219 billion (2022 est.)<br>
-$43.483 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: forints (HUF) per US dollar -<br>
+365.691 (2024 est.)<br>
 353.088 (2023 est.)<br>
 372.596 (2022 est.)<br>
 303.141 (2021 est.)<br>
 307.997 (2020 est.)<br>
-290.66 (2019 est.)<br>
 
 ## Energy
 
@@ -634,7 +628,7 @@ _domestic_: fixed-line connections, with 29 fixed per 100 persons and 104 mobile
 _international_: country code - 36; Hungary has fiber-optic cable connections with all neighboring countries; the international switch is in Budapest; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean regions), 1 Inmarsat, 1 (very small aperture terminal) VSAT system of ground terminals<br>
 
 **Broadcast media**<br>
-mixed system of state-supported public service broadcast media and private broadcasters; the 5 publicly owned TV channels and the 2 main privately owned TV stations are the major national broadcasters; a large number of special interest channels; highly developed market for satellite and cable TV services with about two-thirds of viewers utilizing their services; 4 state-supported public-service radio networks; a large number of local stations including commercial, public service, nonprofit, and community radio stations; digital transition completed at the end of 2013; government-linked businesses have greatly consolidated ownership in broadcast and print media (2019)<br>
+mixed system of state-supported media and private broadcasters; the 5 publicly owned TV channels and the 2 main privately owned TV stations are the major national broadcasters; large number of special-interest channels; highly developed market for satellite and cable TV with about two-thirds of viewers utilizing the services; 4 state-supported radio networks; large number of local stations, including commercial, public service, nonprofit, and community radio stations; digital transition completed in 2013 (2019)<br>
 
 **Internet country code**<br>
 .hu<br>
@@ -648,11 +642,6 @@ _subscriptions per 100 inhabitants_: 37 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 5 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 145<br>
-_annual passenger traffic on registered air carriers_: 31,226,848 (2018)<br>
-
 **Civil aircraft registration country code prefix**<br>
 HA<br>
 
@@ -662,17 +651,8 @@ HA<br>
 **Heliports**<br>
 15 (2025)<br>
 
-**Pipelines**<br>
-5,874 km gas (high-pressure transmission system), 83,732 km gas (low-pressure distribution network), 850 km oil, 1,200 km refined products (2018)<br>
-
 **Railways**<br>
 _total_: 7,687 km (2020) 3,111 km electrified<br>
-
-**Roadways**<br>
-_total_: 216,443 km (2022)<br>
-
-**Waterways**<br>
-1,622 km (2011) (most on Danube River)<br>
 
 **Merchant marine**<br>
 _total_: 1 (2023)<br>
@@ -681,7 +661,7 @@ _by type_: other 1<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Hungarian Defense Forces (HDF or Magyar Honvédség): the HDF is organized as a joint force under a general staff with commands for land, air, cyber, special operations, territorial defense, and support forces (2024)<br>
+Hungarian Defense Forces (HDF or Magyar Honvédség): the HDF is organized as a joint force under a general staff with commands for land, air, cyber, special operations, territorial defense, and support forces (2025)<br>
 <strong>note:</strong> the National Police are under the Ministry of Interior and responsible for maintaining order nationwide; the Ministry of Interior also has the Counterterrorism Center, a special police force responsible for protecting the president and the prime minister and for preventing, uncovering, and detecting terrorist acts<br>
 
 **Military expenditures**<br>

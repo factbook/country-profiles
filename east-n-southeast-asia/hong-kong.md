@@ -67,7 +67,7 @@ population fairly evenly distributed<br>
 occasional typhoons<br>
 
 **Geography - note**<br>
-consists of a mainland area (the New Territories) and more than 200 islands<br>
+consists of a mainland area (the New Territories) and over 200 islands<br>
 
 ## People and Society
 
@@ -98,10 +98,10 @@ _15-64 years_: 64.8% (male 2,123,216/female 2,609,102)<br>
 _65 years and over_: 21.9% (2024 est.) (male 738,878/female 860,951)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 46.6<br>
-_youth dependency ratio_: 17.8<br>
-_elderly dependency ratio_: 28.7<br>
-_potential support ratio_: 3.5 (2021 est.)<br>
+_total dependency ratio_: 54.2 (2024 est.)<br>
+_youth dependency ratio_: 20.4 (2024 est.)<br>
+_elderly dependency ratio_: 33.8 (2024 est.)<br>
+_potential support ratio_: 3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 47.2 years (2024 est.)<br>
@@ -220,12 +220,6 @@ _other_: 96.2% (2022 est.)<br>
 _urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 0.58% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _carbon dioxide emissions_: 43.64 megatons (2016 est.)<br>
 
@@ -260,7 +254,7 @@ none (special administrative region of China)<br>
 National Day (Anniversary of the Founding of the People's Republic of China), 1 October (1949); note - 1 July (1997) is celebrated as Hong Kong Special Administrative Region Establishment Day<br>
 
 **Legal system**<br>
-mixed legal system of common law based on the English model and Chinese customary law (in matters of family and land tenure); PRC imposition of National Security Law incorporates elements of Chinese civil law<br>
+mixed system of common law based on the English model and Chinese customary law (in matters of family and land tenure); China's imposition of National Security Law incorporates elements of Chinese civil law<br>
 
 **Constitution**<br>
 _history_: several previous (governance documents while under British authority); latest drafted April 1988 to February 1989, approved March 1990, effective 1 July 1997 (Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China serves as the constitution)&nbsp;<br>
@@ -354,9 +348,9 @@ $380.812 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+1.7% (2024 est.)<br>
 2.1% (2023 est.)<br>
-1.88% (2022 est.)<br>
-1.57% (2021 est.)<br>
+1.9% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -392,19 +386,19 @@ trading and logistics, financial services, professional services, tourism, cultu
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.876 million (2023 est.)<br>
+3.823 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.93% (2023 est.)<br>
-4.32% (2022 est.)<br>
-5.17% (2021 est.)<br>
+2.8% (2024 est.)<br>
+2.9% (2023 est.)<br>
+4.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.5% (2023 est.)<br>
-_male_: 11.3% (2023 est.)<br>
-_female_: 9.6% (2023 est.)<br>
+_total_: 8.4% (2024 est.)<br>
+_male_: 10.5% (2024 est.)<br>
+_female_: 6.3% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -438,13 +432,13 @@ _expenditures_: $105.849 billion (2020 est.)<br>
 23.2% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
-$34.901 billion (2023 est.)<br>
+$32.338 billion (2023 est.)<br>
 $36.525 billion (2022 est.)<br>
 $43.659 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$673.189 billion (2023 est.)<br>
+$673.738 billion (2023 est.)<br>
 $697.583 billion (2022 est.)<br>
 $752.621 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -458,7 +452,7 @@ gold, integrated circuits, gas turbines, broadcasting equipment, jewelry (2023)<
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$670.434 billion (2023 est.)<br>
+$671.492 billion (2023 est.)<br>
 $682.881 billion (2022 est.)<br>
 $732.087 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -479,11 +473,11 @@ $496.867 billion (2021 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Hong Kong dollars (HKD) per US dollar -<br>
+7.804 (2024 est.)<br>
 7.83 (2023 est.)<br>
 7.831 (2022 est.)<br>
 7.773 (2021 est.)<br>
 7.757 (2020 est.)<br>
-7.836 (2019 est.)<br>
 
 ## Energy
 
@@ -539,7 +533,7 @@ _domestic_: fixed-line is over 51 per 100 and mobile-cellular is 319 subscriptio
 _international_: country code - 852; landing points for the AAE-1, AAG, APCN-2, APG, ASE, FEA, FNAL, RNAL, H2HE, SeaMeWe-3, SJC and TGN-IA submarine cables that provide connections to Asia, US, Australia, the Middle East, and Europe; satellite earth stations - 3 Intelsat (1 Pacific Ocean and 2 Indian Ocean); coaxial cable to Guangzhou, China (2022)<br>
 
 **Broadcast media**<br>
-34 commercial terrestrial TV networks each with multiple stations; multi-channel satellite and cable TV systems available; 3 licensed broadcasters of terrestrial radio, one of which is government funded, operate about 12 radio stations; note - 4 digital radio broadcasters operated in Hong Kong from 2010 to 2017, but all digital radio services were terminated in September 2017 due to weak market demand (2019)<br>
+34 commercial terrestrial TV networks, each with multiple stations; multi-channel satellite and cable TV systems available; 3 licensed broadcasters, one of which is government-funded, operate about 12 radio stations (2019)<br>
 
 **Internet country code**<br>
 .hk<br>
@@ -553,12 +547,6 @@ _subscriptions per 100 inhabitants_: 40 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 12 (2020) (registered in China)<br>
-_inventory of registered aircraft operated by air carriers_: 275 (registered in China)<br>
-_annual passenger traffic on registered air carriers_: 47,101,822 (2018)<br>
-_annual freight traffic on registered air carriers_: 12,676,720,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 B-H<br>
 
@@ -567,10 +555,6 @@ B-H<br>
 
 **Heliports**<br>
 142 (2025)<br>
-
-**Roadways**<br>
-_total_: 2,193 km<br>
-_paved_: 2,193 km (2021)<br>
 
 **Merchant marine**<br>
 _total_: 2,537 (2023)<br>

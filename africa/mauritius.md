@@ -70,7 +70,7 @@ population density is one of the highest in the world; urban clusters are found 
 cyclones (November to April); almost completely surrounded by reefs that may pose maritime hazards<br>
 
 **Geography - note**<br>
-the main island, from which the country derives its name, is of volcanic origin and is almost entirely surrounded by coral reefs; former home of the dodo, a large flightless bird related to pigeons, driven to extinction by the end of the 17th century through a combination of hunting and the introduction of predatory species<br>
+the main island, from which the country derives its name, is of volcanic origin and is almost entirely surrounded by coral reefs; former home of the extinct dodo, a large flightless bird related to pigeons<br>
 
 ## People and Society
 
@@ -99,10 +99,10 @@ _15-64 years_: 71% (male 462,833/female 467,509)<br>
 _65 years and over_: 13.9% (2024 est.) (male 75,464/female 107,014)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 40.7<br>
-_youth dependency ratio_: 23.4<br>
-_elderly dependency ratio_: 17.3<br>
-_potential support ratio_: 5.8 (2021 est.)<br>
+_total dependency ratio_: 40.9 (2024 est.)<br>
+_youth dependency ratio_: 21.2 (2024 est.)<br>
+_elderly dependency ratio_: 19.6 (2024 est.)<br>
+_potential support ratio_: 5.1 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 39.6 years (2024 est.)<br>
@@ -223,7 +223,7 @@ _female_: 16 years (2017)<br>
 ## Environment
 
 **Environment - current issues**<br>
-water pollution, degradation of coral reefs; soil erosion; wildlife preservation; solid waste disposal<br>
+water pollution, degradation of coral reefs; soil erosion; wildlife preservation; solid-waste disposal<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -243,12 +243,6 @@ _other_: 37.5% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 40.9% of total population (2023)<br>
 _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 10.48 micrograms per cubic meter (2019 est.)<br>
@@ -283,7 +277,7 @@ parliamentary republic<br>
 _name_: Port Louis<br>
 _geographic coordinates_: 20 09 S, 57 29 E<br>
 _time difference_: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named after LOUIS XV, who was king of France in 1736 when the port became the administrative center of Mauritius and a major reprovisioning stop for French ships traveling between Europe and Asia<br>
+_etymology_: named after LOUIS XV, who was king of France in 1736 when the port became the administrative center of Mauritius&nbsp;<br>
 
 **Administrative divisions**<br>
 9 districts and 3 dependencies*; Agalega Islands*, Black River, Cargados Carajos Shoals*, Flacq, Grand Port, Moka, Pamplemousses, Plaines Wilhems, Port Louis, Riviere du Rempart, Rodrigues*, Savanne<br>
@@ -295,7 +289,7 @@ _etymology_: named after LOUIS XV, who was king of France in 1736 when the port 
 Independence and Republic Day, 12 March (1968 & 1992); note - became independent and a republic on the same date in 1968 and 1992 respectively<br>
 
 **Legal system**<br>
-civil legal system based on French civil law with some elements of English common law<br>
+civil system based on French civil law with some elements of English common law<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 12 March 1968<br>
@@ -404,9 +398,9 @@ $14.645 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-7.05% (2023 est.)<br>
-10.77% (2022 est.)<br>
-4.03% (2021 est.)<br>
+4.1% (2024 est.)<br>
+7.1% (2023 est.)<br>
+10.8% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -440,19 +434,19 @@ food processing (largely sugar milling), textiles, clothing, mining, chemicals, 
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-594,000 (2023 est.)<br>
+594,700 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.06% (2023 est.)<br>
-6.32% (2022 est.)<br>
-7.72% (2021 est.)<br>
+5.5% (2024 est.)<br>
+5.6% (2023 est.)<br>
+6.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.9% (2023 est.)<br>
-_male_: 19% (2023 est.)<br>
-_female_: 23.6% (2023 est.)<br>
+_total_: 16.6% (2024 est.)<br>
+_male_: 15.3% (2024 est.)<br>
+_female_: 18.4% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -480,11 +474,11 @@ _expenditures_: $3.647 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-57.96% of GDP (2019 est.)<br>
+58% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-19.79% (of GDP) (2023 est.)<br>
+19.8% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -494,9 +488,9 @@ _expenditures_: $3.647 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$5.495 billion (2023 est.)<br>
-$5.004 billion (2022 est.)<br>
-$3.194 billion (2021 est.)<br>
+$6.381 billion (2023 est.)<br>
+$6.138 billion (2022 est.)<br>
+$4.213 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -522,22 +516,22 @@ refined petroleum, cars, fish, coal, packaged medicine (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$7.465 billion (2024 est.)<br>
 $7.248 billion (2023 est.)<br>
 $7.793 billion (2022 est.)<br>
-$8.563 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$3.77 billion (2023 est.)<br>
+$3.632 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Mauritian rupees (MUR) per US dollar -<br>
+46.415 (2024 est.)<br>
 45.267 (2023 est.)<br>
 44.183 (2022 est.)<br>
 41.692 (2021 est.)<br>
 39.347 (2020 est.)<br>
-35.474 (2019 est.)<br>
 
 ## Energy
 
@@ -589,7 +583,7 @@ _domestic_: fixed-line teledensity over 36 per 100 persons and mobile-cellular s
 _international_: country code - 230; landing points for the SAFE, MARS, IOX Cable System, METISS&nbsp;and LION submarine cable system that provides links to Asia, Africa, Southeast Asia, Indian Ocean Islands of Reunion, Madagascar, and Mauritius; satellite earth station - 1 Intelsat (Indian Ocean); new microwave link to Reunion; HF radiotelephone links to several countries (2019)<br>
 
 **Broadcast media**<br>
-the Mauritius Broadcasting Corporation is the national public television and radio broadcaster; it broadcasts programming in French, English, Hindi, Creole and Chinese, it provides 17 television channels in Mauritius; there are nine Mauritian FM radio stations and two operating on the AM band<br> (2022)<br>
+the Mauritius Broadcasting Corporation (MBC) is the national public TV and radio broadcaster, with programming in French, English, Hindi, Creole, and Chinese; MBC provides 17 television channels in Mauritius;  9 FM radio stations and 2 AM radio stations<br> (2022)<br>
 
 **Internet country code**<br>
 .mu<br>
@@ -603,12 +597,6 @@ _subscriptions per 100 inhabitants_: 27 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 13<br>
-_annual passenger traffic on registered air carriers_: 1,745,291 (2018)<br>
-_annual freight traffic on registered air carriers_: 233.72 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 3B<br>
 
@@ -617,11 +605,6 @@ _annual freight traffic on registered air carriers_: 233.72 million (2018) mt-km
 
 **Heliports**<br>
 1 (2025)<br>
-
-**Roadways**<br>
-_total_: 2,428 km<br>
-_paved_: 2,379 km (includes 99 km of expressways)<br>
-_unpaved_: 49 km (2015)<br>
 
 **Merchant marine**<br>
 _total_: 32 (2023)<br>
@@ -639,8 +622,7 @@ _key ports_: Port Louis, Port Mathurin<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; the Mauritius Police Force (MPF) under the Ministry of Defense includes a paramilitary unit known as the Special Mobile Force, which includes some motorized infantry and light armored units; the MPF also has a Police Helicopter Squadron, a Special Support Unit (riot police), and the National Coast Guard (also includes an air squadron) (2024)<br>
-<strong>note: </strong>the MPF is responsible for law enforcement and maintenance of order within the country; a police commissioner heads the force and has authority over all police and other security forces, including the Coast Guard and Special Mobile Forces; the Special Mobile Forces share responsibility with police for internal security<br>
+no regular military forces; the Mauritius Police Force (MPF) under the Ministry of Defense is responsible for the country's security; it includes a paramilitary unit known as the Special Mobile Force, which includes some motorized infantry and light armored units; the MPF also has a Police Helicopter Squadron, a Special Support Unit (riot police), and the National Coast Guard (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the MPF's inventory is comprised of mostly secondhand equipment from Western European countries and India (2024)<br>

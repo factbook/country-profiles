@@ -76,7 +76,7 @@ well over 90% of the population lives along the Mediterranean coast in and betwe
 hot, dry, dust-laden ghibli is a southern wind lasting one to four days in spring and fall; dust storms, sandstorms<br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> more than 90% of the country is desert or semidesert<br><br><strong>note 2:</strong> the volcano Waw an Namus lies in south central Libya in the middle of the Sahara; the caldera is an oasis -- the name means "oasis of mosquitoes" -- containing several small lakes surrounded by vegetation and hosting various insects and a large diversity of birds<br>
+<strong>note 1:</strong> more than 90% of the country is desert or semidesert<br><br><strong>note 2:</strong> the volcano Waw an Namus lies in south central Libya in the middle of the Sahara; the caldera is an oasis -- the name means "oasis of mosquitoes" -- containing several small lakes that host many species of insects and birds<br>
 
 ## People and Society
 
@@ -107,10 +107,10 @@ _15-64 years_: 63.2% (male 2,385,152/female 2,263,780)<br>
 _65 years and over_: 4.6% (2024 est.) (male 151,125/female 184,471)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 50.8<br>
-_youth dependency ratio_: 43.5<br>
-_elderly dependency ratio_: 7.3<br>
-_potential support ratio_: 13.8 (2021 est.)<br>
+_total dependency ratio_: 58.3 (2024 est.)<br>
+_youth dependency ratio_: 51.1 (2024 est.)<br>
+_elderly dependency ratio_: 7.2 (2024 est.)<br>
+_potential support ratio_: 13.9 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 26.2 years (2024 est.)<br>
@@ -218,7 +218,7 @@ _female_: 85.6% (2015)<br>
 ## Environment
 
 **Environment - current issues**<br>
-desertification; limited natural freshwater resources; the Great Manmade River Project, the largest water development scheme in the world, brings water from large aquifers under the Sahara to coastal cities; water pollution is a significant problem; the combined impact of sewage, oil byproducts, and industrial waste threatens Libya's coast and the Mediterranean Sea<br>
+desertification; limited natural freshwater resources; water pollution; threats to coastal ecosystem from sewage, oil byproducts, and industrial waste<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -241,12 +241,6 @@ _rate of urbanization_: 1.45% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to civil insecurity, economic and political instability, and high food prices -</em> a 2023 analysis states that about 300,000 people are estimated to be in need of humanitarian assistance in 2023; the country relies heavily on imports (up to 90%) to cover its cereal consumption requirements (mostly wheat for human consumption and barley for feed); between 2016 and 2020, the country sourced over 30% of its wheat imports from Ukraine, and 20% from the Russian Federation; almost 65% of total maize imports of 650,000 mt, and 50% of total barley imports of 1 million mt originated from Ukraine, making the Libya vulnerable to disruptions in shipments from the Black Sea region (2023)<br>
-
-**Revenue from forest resources**<br>
-0.06% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 29.84 micrograms per cubic meter (2019 est.)<br>
@@ -286,7 +280,7 @@ in transition<br>
 _name_: Tripoli (Tarabulus)<br>
 _geographic coordinates_: 32 53 N, 13 10 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: originally founded by the Phoenicians as Oea in the 7th century B.C., the city changed rulers many times over the successive centuries; by the beginning of the 3rd century A.D. the region around the city was referred to as Regio Tripolitana by the Romans, meaning "region of the three cities" - namely Oea (i.e., modern Tripoli), Sabratha (to the west), and Leptis Magna (to the east); over time, the shortened name of "Tripoli" came to refer to just Oea, which derives from the Greek words <em>tria </em>and <em>polis</em> meaning "three cities"<br>
+_etymology_: the name derives from the Greek words <em>tri </em>and <em>polis</em>, meaning "three cities;" the modern-day city was founded in the 14th century to replace the three ancient cities of Pallantium, Tegea, and Mantineia<br>
 
 **Administrative divisions**<br>
 22 governorates (muhafazah, singular - muhafazat); Al Butnan, Al Jabal al Akhdar, Al Jabal al Gharbi, Al Jafarah, Al Jufrah, Al Kufrah, Al Marj, Al Marqab, Al Wahat, An Nuqat al Khams, Az Zawiyah, Banghazi (Benghazi), Darnah, Ghat, Misratah, Murzuq, Nalut, Sabha, Surt, Tarabulus (Tripoli), Wadi al Hayat, Wadi ash Shati<br>
@@ -298,7 +292,7 @@ _etymology_: originally founded by the Phoenicians as Oea in the 7th century B.C
 Liberation Day, 23 October (2011)<br>
 
 **Legal system**<br>
-Libya's post-revolution legal system is in flux and driven by state and non-state entities<br>
+Libya's post-revolution system is in flux and driven by state and non-state entities<br>
 
 **Constitution**<br>
 _history_: previous 1951, 1977, 2011 (interim)<br>
@@ -399,9 +393,9 @@ $45.096 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-2.37% (2023 est.)<br>
-4.51% (2022 est.)<br>
-2.87% (2021 est.)<br>
+2.1% (2024 est.)<br>
+2.4% (2023 est.)<br>
+4.5% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -431,19 +425,19 @@ petroleum, petrochemicals, aluminum, iron and steel, food processing, textiles, 
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.534 million (2023 est.)<br>
+2.585 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-18.74% (2023 est.)<br>
-19.32% (2022 est.)<br>
-19.6% (2021 est.)<br>
+18.6% (2024 est.)<br>
+18.8% (2023 est.)<br>
+19.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 49.4% (2023 est.)<br>
-_male_: 41.2% (2023 est.)<br>
-_female_: 68% (2023 est.)<br>
+_total_: 49.5% (2024 est.)<br>
+_male_: 41.5% (2024 est.)<br>
+_female_: 68.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
@@ -497,18 +491,18 @@ refined petroleum, broadcasting equipment, tobacco, garments, cars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$80.592 billion (2024 est.)<br>
 $92.427 billion (2023 est.)<br>
 $86.683 billion (2022 est.)<br>
-$82.262 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Libyan dinars (LYD) per US dollar -<br>
+4.832 (2024 est.)<br>
 4.813 (2023 est.)<br>
 4.813 (2022 est.)<br>
 4.514 (2021 est.)<br>
 1.389 (2020 est.)<br>
-1.398 (2019 est.)<br>
 
 ## Energy
 
@@ -578,22 +572,11 @@ _subscriptions per 100 inhabitants_: 5 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 9 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 55<br>
-_annual passenger traffic on registered air carriers_: 927,153 (2018)<br>
-
 **Civil aircraft registration country code prefix**<br>
 5A<br>
 
 **Airports**<br>
 75 (2025)<br>
-
-**Pipelines**<br>
-882 km condensate, 3,743 km gas, 7,005 km oil (2013)<br>
-
-**Roadways**<br>
-_total_: 34,000 km (2021)<br>
 
 **Merchant marine**<br>
 _total_: 96 (2023)<br>
@@ -611,8 +594,8 @@ _key ports_: Al Burayqah, Az Zawiya, Banghazi, Mersa Tobruq, Mina Tarabulus (Tri
 ## Military and Security
 
 **Military and security forces**<br>
-the Tripoli-based Government of National Unity (GNU) has access to various ground, air, and naval/coast guard forces comprised of a mix of formations and equipment from the QADHAFI regime, semi-regular and nominally integrated units, tribal armed groups/militias, civilian volunteers, and foreign private military contractors and mercenaries; the GNU has a Ministry of Defense, but has limited control over its security forces<br><br>the self-styled Libyan National Army (LNA), under de facto LNA commander Khalifa HAFTER, also includes various ground, air, and naval forces comprised of semi-regular military personnel, militias, and foreign private military contractors and mercenaries; the LNA operates independently from the GNU and exerts influence throughout eastern, central, and southern Libya; some of the armed groups nominally under the LNA operate under their own command structures and engage in their own operations (2024)<br>
-<strong>note 1:</strong> the Stabilization Support Apparatus (SSA) is a state-funded militia established in January 2021 by the GNA; it is tasked with securing government buildings and officials, participating in combat operations, apprehending those suspected of national security crimes, and cooperating with other security bodies; other forces operating in western Libya include the Misrata Counter Terrorism Force, Special Deterrence Forces (aka Radaa), 444 Brigade, 111 Brigade, Nawasi Brigade, and the Joint Operations Force <br><br><strong>note 2: </strong>the national police force under the Ministry of Interior oversees internal security (with support from military forces under the Ministry of Defense), but much of Libya's security-related police work generally falls to informal armed groups, which receive government salaries but lack formal training, supervision, or consistent accountability<br>
+the Libyan Armed Forces of the Tripoli-based Government of National Unity (GNU) have various ground, air, and naval/coast guard forces, which include a mix of formations and equipment from the QADHAFI regime, semi-regular and nominally integrated units, tribal armed groups/militias, civilian volunteers, and foreign private military contractors; the GNU has a Ministry of Defense, but has limited control over its security forces<br><br>the self-styled Libyan National Army (LNA; aka Libyan Arab Armed Forces, LAAF), under de facto LNA commander Khalifa HAFTER, also includes various ground, air, and naval forces comprised of semi-regular military personnel, militias, and foreign private military contractors; the LNA operates independently from the GNU and exerts influence throughout eastern, central, and southern Libya; some of the armed groups nominally under the LNA operate under their own command structures and engage in their own operations (2024)<br>
+<strong>note: </strong>the national police force under the GNU's Ministry of Interior oversees internal security (with support from military forces under the Ministry of Defense), but much of Libya's security-related police work generally falls to informal armed groups, which receive government salaries but lack formal training, supervision, or consistent accountability<br>
 
 **Military expenditures**<br>
 not available<br>

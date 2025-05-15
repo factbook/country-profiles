@@ -73,7 +73,7 @@ population is concentrated towards the center of the country, particularly aroun
 occasional severe storms and forest fires in the Darien area<br>
 
 **Geography - note**<br>
-strategic location on eastern end of isthmus forming land bridge connecting North and South America; controls Panama Canal that links North Atlantic Ocean via Caribbean Sea with North Pacific Ocean<br>
+strategic location on eastern end of isthmus forming land bridge that connects North and South America; controls the Panama Canal, which links the North Atlantic Ocean with the North Pacific Ocean via the Caribbean Sea&nbsp;<br>
 
 ## People and Society
 
@@ -102,10 +102,10 @@ _15-64 years_: 64.8% (male 1,465,907/female 1,433,023)<br>
 _65 years and over_: 10.1% (2024 est.) (male 211,014/female 241,781)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.8<br>
-_youth dependency ratio_: 40.6<br>
-_elderly dependency ratio_: 13.2<br>
-_potential support ratio_: 7.6 (2021 est.)<br>
+_total dependency ratio_: 54.2 (2024 est.)<br>
+_youth dependency ratio_: 38.6 (2024 est.)<br>
+_elderly dependency ratio_: 15.6 (2024 est.)<br>
+_potential support ratio_: 6.4 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 31.5 years (2024 est.)<br>
@@ -226,7 +226,7 @@ _female_: 13 years (2016)<br>
 ## Environment
 
 **Environment - current issues**<br>
-water pollution from agricultural runoff threatens fishery resources; deforestation of tropical rain forest; land degradation and soil erosion threatens siltation of Panama Canal; air pollution in urban areas; mining threatens natural resources<br>
+water pollution from agricultural runoff; deforestation of tropical rainforest; land degradation and soil erosion in Panama Canal; air pollution in urban areas; effects of mining&nbsp;<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -246,12 +246,6 @@ _other_: 14.1% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 69.5% of total population (2023)<br>
 _rate of urbanization_: 1.92% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.08% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 11.78 micrograms per cubic meter (2019 est.)<br>
@@ -288,7 +282,7 @@ presidential republic<br>
 _name_: Panama City<br>
 _geographic coordinates_: 8 58 N, 79 32 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
-_etymology_: according to tradition, the name derives from a former fishing area near the present capital - an indigenous village and its adjacent beach - that were called "panama" meaning "an abundance of fish"<br>
+_etymology_: origin is unclear; may come from a Guaran&iacute; word meaning "place of many fish"<br>
 
 **Administrative divisions**<br>
 10 provinces (provincias, singular - provincia) and 4 indigenous regions* (comarcas); Bocas del Toro, Chiriqui, Cocle, Colon, Darien, Embera-Wounaan*, Guna Yala*, Herrera, Los Santos, Naso Tjer Di*, Ngabe-Bugle*, Panama, Panama Oeste, Veraguas<br>
@@ -300,7 +294,7 @@ _etymology_: according to tradition, the name derives from a former fishing area
 Independence Day (Separation Day), 3 November (1903)<br>
 
 **Legal system**<br>
-civil law system; judicial review of legislative acts in the Supreme Court of Justice<br>
+civil law system; Supreme Court of Justice reviews legislative acts<br>
 
 **Constitution**<br>
 _history_: several previous; latest effective 11 October 1972<br>
@@ -408,9 +402,9 @@ $83.318 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-1.49% (2023 est.)<br>
-2.86% (2022 est.)<br>
-1.63% (2021 est.)<br>
+0.7% (2024 est.)<br>
+1.5% (2023 est.)<br>
+2.9% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -446,19 +440,19 @@ construction, brewing, cement and other construction materials, sugar milling<br
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.107 million (2023 est.)<br>
+2.206 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.7% (2023 est.)<br>
-8.2% (2022 est.)<br>
-10.45% (2021 est.)<br>
+6.5% (2024 est.)<br>
+6.5% (2023 est.)<br>
+8.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.6% (2023 est.)<br>
-_male_: 13.5% (2023 est.)<br>
-_female_: 22% (2023 est.)<br>
+_total_: 16.8% (2024 est.)<br>
+_male_: 13.4% (2024 est.)<br>
+_female_: 22.1% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -493,7 +487,7 @@ _expenditures_: $11.553 billion (2021 est.)<br>
 37.8% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-7.46% (of GDP) (2021 est.)<br>
+7.5% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -531,9 +525,9 @@ crude petroleum, ships, refined petroleum, nitrogen compounds, cars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$6.856 billion (2024 est.)<br>
 $6.757 billion (2023 est.)<br>
 $6.876 billion (2022 est.)<br>
-$8.832 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
@@ -615,12 +609,6 @@ _subscriptions per 100 inhabitants_: 18 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 4 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 122<br>
-_annual passenger traffic on registered air carriers_: 12,939,350 (2018)<br>
-_annual freight traffic on registered air carriers_: 47.63 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 HP<br>
 
@@ -630,15 +618,9 @@ HP<br>
 **Heliports**<br>
 1 (2025)<br>
 
-**Pipelines**<br>
-128 km oil (2013)<br>
-
 **Railways**<br>
 _total_: 77 km (2014)<br>
 _standard gauge_: 77 km (2014) 1.435-m gauge<br>
-
-**Waterways**<br>
-800 km (2011) (includes the 82-km Panama Canal that is being widened)<br>
 
 **Merchant marine**<br>
 _total_: 8,174 (2023)<br>
@@ -657,8 +639,8 @@ _key ports_: Bahia de las Minas, Balboa, Pedregal, Puerto Armuelles, Puerto Colo
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; the paramilitary Panamanian Public Forces are under the Ministry of Public Security and include the Panama National Police (La Policía Nacional de Panamá, PNP), National Aeronaval Service (Servicio Nacional Aeronaval, SENAN), and National Border Service (Servicio Nacional de Fronteras, SENAFRONT) (2024)<br>
-<strong>note:</strong> the PNP includes a special forces directorate with counterterrorism and counternarcotics units; SENAFRONT has three regionally based border security brigades, plus a specialized brigade comprised of special forces, counternarcotics, maritime, and rapid reaction units<br>
+no regular military forces; Ministry of Public Security: Panama National Police (La Policía Nacional de Panamá, PNP), National Aeronaval Service (Servicio Nacional Aeronaval, SENAN), National Border Service (Servicio Nacional de Fronteras, SENAFRONT)  (2025)<br>
+<strong>note 1:</strong> collectively, the security forces are known as the Panamanian Public Forces <br><br><strong>note 2: </strong>the PNP includes a special forces directorate with counterterrorism and counternarcotics units; SENAFRONT has three regionally based border security brigades, plus a specialized brigade comprised of special forces, counternarcotics, maritime, and rapid reaction units<br>
 
 **Military expenditures**<br>
 1.1% of GDP (2023 est.)<br>
@@ -668,7 +650,7 @@ no regular military forces; the paramilitary Panamanian Public Forces are under 
 1.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 27,000 Ministry of Public Security personnel (2023)<br>
+approximately 30,000 Ministry of Public Security personnel (2025)<br>
 
 **Military - note**<br>
 the Panama National Police is principally responsible for internal law enforcement and public order, while the National Border Service handles border security; the Aeronaval Service is responsible for carrying out air and naval operations that include some internal security responsibilities; key areas of focus are countering narcotics trafficking and securing the border, particularly along the southern border with Colombia (the area is known as the Darién Gap) where the National Border Service (SENAFRONT) maintains a significant presence<br><br>Panama created a paramilitary National Guard (Guardia Nacional de Panamá) in the 1950s from the former National Police (established 1904); the National Guard subsequently evolved into more of a military force with some police responsibilities; it seized power in a coup in 1968 and military officers ran the country until 1989; in 1983, the National Guard was renamed the Panama Defense Force (PDF); the PDF was disbanded after the 1989 US invasion and the current national police forces were formed in 1990; the armed forces were officially abolished under the 1994 Constitution (2024)<br>

@@ -108,10 +108,10 @@ _15-64 years_: 55.9% (male 5,098,038/female 5,437,195)<br>
 _65 years and over_: 3.4% (2024 est.) (male 277,290/female 366,416)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 81.5<br>
-_youth dependency ratio_: 75.8<br>
-_elderly dependency ratio_: 5.7<br>
-_potential support ratio_: 17.4 (2021 est.)<br>
+_total dependency ratio_: 78.9 (2024 est.)<br>
+_youth dependency ratio_: 72.8 (2024 est.)<br>
+_elderly dependency ratio_: 6.1 (2024 est.)<br>
+_potential support ratio_: 16.4 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 19.2 years (2024 est.)<br>
@@ -238,7 +238,7 @@ _female_: 10 years (2021)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation; overgrazing; soil erosion; desertification; periodic droughts; seasonal flooding; overfishing; weak environmental protective laws; wildlife populations threatened by poaching<br>
+deforestation; overgrazing; soil erosion; desertification; droughts; seasonal flooding; overfishing; weak environmental laws; poaching<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
@@ -261,12 +261,6 @@ _rate of urbanization_: 3.59% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to localized shortfalls in cereal production and reduced incomes - </em>the latest analysis indicates that about 1.26 million people are projected to be acutely food insecure during the June to August 2023 lean season; this would be a significant deterioration compared to the previous year; the main drivers of acute food insecurity are macroeconomic challenges and high prices of basic food items (2023)<br>
-
-**Revenue from forest resources**<br>
-1.46% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 38.21 micrograms per cubic meter (2019 est.)<br>
@@ -310,7 +304,7 @@ presidential republic<br>
 _name_: Dakar<br>
 _geographic coordinates_: 14 44 N, 17 38 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, D.C., during Standard Time)<br>
-_etymology_: the Atlantic coast trading settlement of Ndakaaru came to be called "Dakar" by French colonialists<br>
+_etymology_: the name comes from the Wolof word <em>n'dakar</em>, meaning "tamarind tree"<br>
 
 **Administrative divisions**<br>
 14 regions (r&eacute;gions, singular - r&eacute;gion); Dakar, Diourbel, Fatick, Kaffrine, Kaolack, K&eacute;edougou, Kolda, Louga, Matam, Saint-Louis, Sedhiou, Tambacounda, Thies, Ziguinchor<br>
@@ -322,7 +316,7 @@ _etymology_: the Atlantic coast trading settlement of Ndakaaru came to be called
 Independence Day, 4 April (1960)<br>
 
 **Legal system**<br>
-civil law system based on French law; judicial review of legislative acts in Constitutional Council<br>
+civil law system based on French law; Constitutional Council reviews legislative acts<br>
 
 **Constitution**<br>
 _history_: previous 1959 (pre-independence), 1963; latest adopted by referendum 7 January 2001, promulgated 22 January 2001<br>
@@ -429,9 +423,9 @@ $30.848 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-5.94% (2023 est.)<br>
+5.9% (2023 est.)<br>
 9.7% (2022 est.)<br>
-2.18% (2021 est.)<br>
+2.2% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -466,19 +460,19 @@ agricultural and fish processing, phosphate mining, fertilizer production, petro
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.578 million (2023 est.)<br>
+5.763 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.93% (2023 est.)<br>
-2.97% (2022 est.)<br>
-3.37% (2021 est.)<br>
+3% (2024 est.)<br>
+2.8% (2023 est.)<br>
+2.8% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.1% (2023 est.)<br>
-_male_: 2.9% (2023 est.)<br>
-_female_: 6.7% (2023 est.)<br>
+_total_: 4.1% (2024 est.)<br>
+_male_: 3.2% (2024 est.)<br>
+_female_: 6.3% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -505,19 +499,19 @@ _expenditures_: $6.424 billion (2022 est.)<br>
 48.3% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-19.44% (of GDP) (2023 est.)<br>
+19.4% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$6.072 billion (2023 est.)<br>
+-$5.542 billion (2022 est.)<br>
 -$3.327 billion (2021 est.)<br>
--$2.662 billion (2020 est.)<br>
--$1.898 billion (2019 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$7.001 billion (2023 est.)<br>
+$7.418 billion (2022 est.)<br>
 $6.78 billion (2021 est.)<br>
-$5.063 billion (2020 est.)<br>
-$5.836 billion (2019 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -529,9 +523,9 @@ gold, refined petroleum, phosphoric acid, fish, cement (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$14.916 billion (2023 est.)<br>
+$14.698 billion (2022 est.)<br>
 $12.278 billion (2021 est.)<br>
-$9.627 billion (2020 est.)<br>
-$9.17 billion (2019 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -547,16 +541,16 @@ $1.827 billion (2017 est.)<br>
 $116.9 million (2016 est.)<br>
 
 **Debt - external**<br>
-$16.004 billion (2023 est.)<br>
+$14.985 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+606.345 (2024 est.)<br>
 606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
-585.911 (2019 est.)<br>
 
 ## Energy
 
@@ -616,7 +610,7 @@ _domestic_: fixed-line is 2 per 100 and mobile-cellular 118 per 100 persons (202
 _international_: country code - 221; landing points for the ACE, Atlantis-2, MainOne and SAT-3/WASC submarine cables providing connectivity from South Africa, numerous western African countries, Europe and South America;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-Senegal&rsquo;s media environment includes over 25 private television stations, hundreds of radio stations, and more than 45 newspapers. &nbsp;State-run Radiodiffusion Television Senegalaise (RTS) broadcasts from five cities in Senegal and a wide range of independent TV programming is available via satellite; transmissions of several international broadcasters are accessible on FM in Dakar<br>
+over 25 private TV stations; state-run Radiodiffusion T&eacute;l&eacute;vision S&eacute;n&eacute;galaise (RTS) broadcasts from five cities; wide range of independent TV available via satellite; hundreds of radio stations; transmissions of several international broadcasters are accessible on FM in Dakar<br>
 
 **Internet country code**<br>
 .sn<br>
@@ -630,32 +624,15 @@ _subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 11<br>
-_annual passenger traffic on registered air carriers_: 21,038 (2018)<br>
-_annual freight traffic on registered air carriers_: 40,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 6V<br>
 
 **Airports**<br>
 20 (2025)<br>
 
-**Pipelines**<br>
-43 km gas, 8 km refined products (2017)<br>
-
 **Railways**<br>
 _total_: 906 km (2017) (713 km operational in 2017)<br>
 _narrow gauge_: 906 km (2017) 1.000-m gauge<br>
-
-**Roadways**<br>
-_total_: 16,665 km<br>
-_paved_: 6,126 km (includes 241 km of expressways)<br>
-_unpaved_: 10,539 km (2017)<br>
-
-**Waterways**<br>
-1,000 km (2012) (primarily on the Senegal, Saloum, and Casamance Rivers)<br>
 
 **Merchant marine**<br>
 _total_: 36 (2023)<br>
@@ -673,8 +650,8 @@ _key ports_: Dakar, Karabane, Lyndiane, M'bao Oil Terminal, Rufisque, St. Louis<
 ## Military and Security
 
 **Military and security forces**<br>
-Senegalese Armed Forces (les Forces Armées Sénégalaises, FAS): Army (l’Armée de Terre, AT), Senegalese National Navy (Marine Séenéegalaise, MNS), Senegalese Air Force (l'Arméee de l'Air du Séenéegal, AAS), National Gendarmerie (includes Territorial and Mobile components)<br><br>Ministry of Interior: National Police (2024)<br>
-<strong>note:</strong> the National Police operates in major cities, while the Gendarmerie under the FAS primarily operates outside urban areas; both services have specialized anti-terrorism units<br>
+Senegalese Armed Forces (les Forces Armées Sénégalaises, FAS): Army (l’Armée de Terre, AT), Senegalese National Navy (Marine Séenéegalaise, MNS), Senegalese Air Force (l'Arméee de l'Air du Séenéegal, AAS), National Gendarmerie<br><br>Ministry of Interior: National Police (2025)<br>
+<strong>note:</strong> the National Police operates in major cities, while the Gendarmerie under the FAS primarily operates outside urban areas; both services have specialized anti-terrorism units, and the Gendarmerie has both Territorial and Mobile components<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2023 est.)<br>
@@ -684,7 +661,7 @@ Senegalese Armed Forces (les Forces Armées Sénégalaises, FAS): Army (l’Arm�
 1.5% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 27,000 active personnel (15,000 Army; 1,500 Navy; 1,500 Air Force; 16,000 National Gendarmerie); 15,000 National Police (2023)<br>
+approximately 25,000 active personnel including the Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes a mix of older, secondhand, and more modern equipment from a variety of countries, including France, South Africa, and Russia/former Soviet Union; in recent years, the military has undertaken a modernization program and has received newer equipment from more than 10 countries, including France and the US (2024)<br>

@@ -79,7 +79,7 @@ highest population density is found in and around Bangkok; significant populatio
 land subsidence in Bangkok area resulting from the depletion of the water table; droughts<br>
 
 **Geography - note**<br>
-controls only land route from Asia to Malaysia and Singapore; ideas for the construction of a canal across the Kra Isthmus that would create a bypass to the Strait of Malacca and shorten shipping times around Asia continue to be discussed<br>
+controls only land route from Asia to Malaysia and Singapore<br>
 
 ## People and Society
 
@@ -110,10 +110,10 @@ _15-64 years_: 69% (male 23,681,528/female 24,597,535)<br>
 _65 years and over_: 15.1% (2024 est.) (male 4,714,191/female 5,863,754)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 43.5<br>
-_youth dependency ratio_: 22.7<br>
-_elderly dependency ratio_: 18.4<br>
-_potential support ratio_: 4.8 (2021 est.)<br>
+_total dependency ratio_: 44.8 (2024 est.)<br>
+_youth dependency ratio_: 22.9 (2024 est.)<br>
+_elderly dependency ratio_: 21.9 (2024 est.)<br>
+_potential support ratio_: 4.6 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 41.5 years (2024 est.)<br>
@@ -239,7 +239,7 @@ _female_: 16 years (2016)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution from vehicle emissions; water pollution from organic and factory wastes; water scarcity; deforestation; soil erosion; wildlife populations threatened by illegal hunting; hazardous waste disposal<br>
+air pollution from vehicle emissions; water pollution from organic and factory wastes; water scarcity; deforestation; soil erosion; illegal hunting; hazardous waste disposal<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
@@ -259,12 +259,6 @@ _other_: 15.2% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 53.6% of total population (2023)<br>
 _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.34% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.03% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 24.64 micrograms per cubic meter (2019 est.)<br>
@@ -305,7 +299,7 @@ _conventional short form_: Thailand<br>
 _local long form_: Ratcha Anachak Thai<br>
 _local short form_: Prathet Thai<br>
 _former_: Siam<br>
-_etymology_: Land of the Tai [People]"; the meaning of "tai" is uncertain, but may originally have meant "human beings," "people," or "free people''<br>
+_etymology_: the name means "Land of the Thai," referring to the local population; the people's name comes from the Thai word <em>tha</em>, meaning "to be free;" the former name of Siam comes from the Sanskrit word <em>syama</em>, meaning "dark"<br>
 
 **Government type**<br>
 constitutional monarchy<br>
@@ -314,7 +308,7 @@ constitutional monarchy<br>
 _name_: Bangkok<br>
 _geographic coordinates_: 13 45 N, 100 31 E<br>
 _time difference_: UTC+7 (12 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: Bangkok was likely originally a colloquial name, but one that was widely adopted by foreign visitors; the name may derive from <em>bang ko</em>, where <em>bang</em> is the Thai word for "village on a stream" and <em>ko</em> means "island," both referencing the area's landscape, which was carved by rivers and canals; alternatively, the name may come from <em>bang makok</em>, where <em>makok</em> is the name of the Java plum, a plant bearing olive-like fruit; this possibility is supported by the former name of Wat Arun, a historic temple in the area, that used to be called Wat Makok; <br><br>Krung Thep Maha Nakhon, the city's Thai name, means "City of Angels, Great City" or simply "Great City of Angels" and is a shortening of the full ceremonial name: Krungthepmahanakhon Amonrattanakosin Mahintharayutthaya Mahadilokphop Noppharatratchathaniburirom Udomratchaniwetmahasathan Amonphimanawatansathit Sakkathattiyawitsanukamprasit; translated the meaning is: "City of angels, great city of immortals, magnificent city of the nine gems, seat of the king, city of royal palaces, home of gods incarnate, erected by Vishvakarman at Indra's behest"; it holds the world's record as the longest place name (169 letters); Krung Thep is used colloquially<br>
+_etymology_: the name is from the Thai words <em>bang </em>(region) and <em>kok </em>(olive trees); the city's full ceremonial name holds the world record for longest place name, Krungthepmahanakhon amonrattanakosin mahintharayutthaya mahadilokphop noppharatratchathaniburirom udomratchaniwetmahasathan amonphimanawatansathit sakkathattiyawitsanukamprasit, which means "City of angels, great city of immortals, magnificent city of the nine gems, seat of the king, city of royal palaces, home of gods incarnate, erected by Vishvakarman at Indra's behest"<br>
 
 **Administrative divisions**<br>
 76 provinces (changwat, singular and plural) and 1 municipality* (maha nakhon); Amnat Charoen, Ang Thong, Bueng Kan, Buri Ram, Chachoengsao, Chai Nat, Chaiyaphum, Chanthaburi, Chiang Mai, Chiang Rai, Chon Buri, Chumphon, Kalasin, Kamphaeng Phet, Kanchanaburi, Khon Kaen, Krabi, Krung Thep* (Bangkok), Lampang, Lamphun, Loei, Lop Buri, Mae Hong Son, Maha Sarakham, Mukdahan, Nakhon Nayok, Nakhon Pathom, Nakhon Phanom, Nakhon Ratchasima, Nakhon Sawan, Nakhon Si Thammarat, Nan, Narathiwat, Nong Bua Lamphu, Nong Khai, Nonthaburi, Pathum Thani, Pattani, Phangnga, Phatthalung, Phayao, Phetchabun, Phetchaburi, Phichit, Phitsanulok, Phra Nakhon Si Ayutthaya, Phrae, Phuket, Prachin Buri, Prachuap Khiri Khan, Ranong, Ratchaburi, Rayong, Roi Et, Sa Kaeo, Sakon Nakhon, Samut Prakan, Samut Sakhon, Samut Songkhram, Saraburi, Satun, Sing Buri, Si Sa Ket, Songkhla, Sukhothai, Suphan Buri, Surat Thani, Surin, Tak, Trang, Trat, Ubon Ratchathani, Udon Thani, Uthai Thani, Uttaradit, Yala, Yasothon<br>
@@ -451,9 +445,9 @@ $514.969 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-1.23% (2023 est.)<br>
-6.08% (2022 est.)<br>
-1.23% (2021 est.)<br>
+1.2% (2023 est.)<br>
+6.1% (2022 est.)<br>
+1.2% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -489,19 +483,19 @@ tourism, textiles and garments, agricultural processing, beverages, tobacco, cem
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-40.823 million (2023 est.)<br>
+40.623 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-0.91% (2023 est.)<br>
-0.94% (2022 est.)<br>
-1.22% (2021 est.)<br>
+0.7% (2024 est.)<br>
+0.7% (2023 est.)<br>
+0.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.3% (2023 est.)<br>
-_male_: 3.9% (2023 est.)<br>
-_female_: 7.4% (2023 est.)<br>
+_total_: 4.3% (2024 est.)<br>
+_male_: 3.1% (2024 est.)<br>
+_female_: 6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -533,11 +527,11 @@ _expenditures_: $106.576 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-61.24% of GDP (2023 est.)<br>
+61.2% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-15.45% (of GDP) (2023 est.)<br>
+15.5% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -575,22 +569,22 @@ crude petroleum, integrated circuits, natural gas, gold, vehicle parts/accessori
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$217.261 billion (2024 est.)<br>
 $224.47 billion (2023 est.)<br>
 $216.501 billion (2022 est.)<br>
-$246.025 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$37.368 billion (2023 est.)<br>
+$37.065 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: baht per US dollar -<br>
+35.294 (2024 est.)<br>
 34.802 (2023 est.)<br>
 35.061 (2022 est.)<br>
 31.977 (2021 est.)<br>
 31.294 (2020 est.)<br>
-31.048 (2019 est.)<br>
 
 ## Energy
 
@@ -656,7 +650,7 @@ _domestic_: fixed-line is 19 per 100 and mobile-cellular is 176 per 100 (2022)<b
 _international_: country code - 66; landing points for the AAE-1, FEA, SeaMeWe-3,-4, APG, SJC2, TIS, MCT and AAG submarine cable systems providing links throughout Asia, Australia, Africa, Middle East, Europe, and US; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Pacific Ocean) (2019)<br>
 
 **Broadcast media**<br>
-26 digital TV stations in Bangkok broadcast nationally, 6 terrestrial TV stations in Bangkok broadcast nationally via relay stations - 2 of the stations are owned by the military, the other 4 are government-owned or controlled, leased to private enterprise, and all are required to broadcast government-produced news programs twice a day; multi-channel satellite and cable TV subscription services are available; radio frequencies have been allotted for more than 500 government and commercial radio stations; many small community radio stations operate with low-power transmitters (2017)<br>
+26 digital TV stations and 6 terrestrial TV stations broadcast nationally via relay stations, with 2 of the terrestrial stations military-owned and the other 4 state-owned or state-controlled; some leased to private enterprise; all required to broadcast government-produced news; multi-channel satellite and cable TV subscriptions available; radio frequencies allotted for over 500 government and commercial radio stations; many small community radio stations operate with low-power transmitters (2017)<br>
 
 **Internet country code**<br>
 .th<br>
@@ -670,12 +664,6 @@ _subscriptions per 100 inhabitants_: 16 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 15 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 283<br>
-_annual passenger traffic on registered air carriers_: 76,053,042 (2018)<br>
-_annual freight traffic on registered air carriers_: 2,666,260,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 HS<br>
 
@@ -685,19 +673,10 @@ HS<br>
 **Heliports**<br>
 5 (2025)<br>
 
-**Pipelines**<br>
-2 km condensate, 5,900 km gas, 85 km liquid petroleum gas, 1 km oil, 1,097 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 4,127 km (2017)<br>
 _standard gauge_: 84 km (2017) 1.435-m gauge (84 km electrified)<br>
 _narrow gauge_: 4,043 km (2017) 1.000-m gauge<br>
-
-**Roadways**<br>
-_total_: 180,053 km (2006) (includes 450 km of expressways)<br>
-
-**Waterways**<br>
-4,000 km (2011) (3,701 km navigable by boats with drafts up to 0.9 m)<br>
 
 **Merchant marine**<br>
 _total_: 884 (2023)<br>
@@ -715,8 +694,8 @@ _key ports_: Bangkok, Laem Chabang, Pattani, Phuket, Sattahip, Si Racha<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Thai Armed Forces (Kongthap Thai, RTARF): Royal Thai Army (Kongthap Bok Thai, RTA), Royal Thai Navy (Kongthap Ruea Thai, RTN; includes Royal Thai Marine Corps), Royal Thai Air Force (Kongthap Akaat Thai, RTAF)<br><br>Office of the Prime Minister: Royal Thai Police (2024)<br>
-<strong>note 1:</strong> the Thai Internal Security Operations Command (ISOC) oversees counter-insurgency operations, as well as countering terrorism, narcotics and weapons trafficking, and other internal security duties; it is primarily run by the Army<br><br><strong>note 2:</strong> official paramilitary forces in Thailand include the Thai Rangers (Thahan Phran or "Hunter Soldiers") under the Army; the Paramilitary Marines under the Navy; the Border Patrol Police (BPP) under the Royal Thai Police; the Volunteer Defense Corps (VDC or <em>O So</em>) and National Defense Volunteers (NDV), both under the Ministry of Interior; there are also several government-backed volunteer militias created to provide village security against insurgents in the Deep South or to assist the ISOC<br>
+Royal Thai Armed Forces (RTARF): Royal Thai Army (RTA), Royal Thai Navy (RTN; includes Royal Thai Marine Corps), Royal Thai Air Force (RTAF)<br><br>Office of the Prime Minister: Royal Thai Police (2025)<br>
+<strong>note:</strong> official paramilitary forces in Thailand include the Thai Rangers (Thahan Phran or "Hunter Soldiers") under the Army; the Paramilitary Marines under the Navy; the Border Patrol Police (BPP) under the Royal Thai Police; the Volunteer Defense Corps (VDC or <em>O So</em>) and National Defense Volunteers (NDV), both under the Ministry of Interior; there are also several government-backed volunteer militias created to provide village security against insurgents in the Deep South or to assist government security forces<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2023 est.)<br>
@@ -726,14 +705,14 @@ Royal Thai Armed Forces (Kongthap Thai, RTARF): Royal Thai Army (Kongthap Bok Th
 1.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 350,000 active-duty personnel (250,000 Army; 70,000 Navy; 30,000 Air Force); approximately 230,000 Royal Thai Police (2023)<br>
+estimated 350,000 active-duty Armed Forces personnel (250,000 Army; 70,000 Navy; 30,000 Air Force) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the RTARF has a diverse array of foreign-supplied weapons and equipment, as well as some domestically produced items; in recent years, Thailand has received arms from a wide variety of countries, including China and the US; Thailand has a domestic defense industry, which produces such items as armored vehicles, artillery systems, naval vessels, unmanned aerial vehicles, and other military technologies (2024)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service for men and women; 21 years of age for compulsory military service for men; men register at 18 years of age; volunteer service obligation may be as short as 6 or 12 months, depending on educational qualifications; conscript service obligation also varies by educational qualifications, but is typically 24 months (2023)<br>
-<strong>note:</strong> serving in the armed forces is a national duty of all Thai citizens; conscription was introduced in 1905; it includes women, however, only men over the age of 21 who have not gone through reserve training are conscripted; conscripts are chosen by lottery (on draft day, eligible draftees can request volunteer service, or they may choose to stay for the conscription lottery); approximately 75-100,000 men are drafted for military service each year<br>
+18 years of age for voluntary military service for men and women; 21 years of age for compulsory military service for men; men register at 18 years of age; volunteer service obligation may be as short as 6 or 12 months, depending on educational qualifications; conscript service obligation also varies by educational qualifications, but is typically 24 months (2024)<br>
+<strong>note:</strong> serving in the armed forces is a national duty of all Thai citizens; conscription was introduced in 1905; it includes women, however, only men over the age of 21 who have not gone through reserve training are conscripted; conscripts are chosen by lottery (on draft day, eligible draftees can request volunteer service, or they may choose to stay for the conscription lottery); approximately 100,000 men are drafted for military service each year<br>
 
 **Military deployments**<br>
 280 South Sudan (UNMISS) (2024)<br>

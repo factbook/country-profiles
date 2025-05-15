@@ -73,7 +73,7 @@ the vast majority of the populace resides in the southern half of the country, p
 <p>numerous volcanoes in mountains, with occasional violent earthquakes; Caribbean coast extremely susceptible to hurricanes and other tropical storms</p><p><strong>volcanism:</strong> significant volcanic activity in the Sierra Madre range; Santa Maria (3,772 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Pacaya (2,552 m), which erupted in May 2010 causing an ashfall on Guatemala City and prompting evacuations, is one of the country's most active volcanoes with frequent eruptions since 1965; other historically active volcanoes include Acatenango, Almolonga, Atitlan, Fuego, and Tacana; see note 2 under "Geography - note"</p><br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> despite having both eastern and western coastlines (Caribbean Sea and Pacific Ocean respectively), there are no natural harbors on the west coast</p> <p><strong>note 2:</strong> Guatemala is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p><br>
+<p><strong>note 1:</strong> despite having both eastern and western coastlines (Caribbean Sea and Pacific Ocean), there are no natural harbors on the west coast</p> <p><strong>note 2:</strong> Guatemala is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p><br>
 
 ## People and Society
 
@@ -103,10 +103,10 @@ _15-64 years_: 63.2% (male 5,688,500/female 5,839,958)<br>
 _65 years and over_: 5.4% (2024 est.) (male 437,105/female 544,647)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 60.9<br>
-_youth dependency ratio_: 53<br>
-_elderly dependency ratio_: 7.9<br>
-_potential support ratio_: 12.7 (2021 est.)<br>
+_total dependency ratio_: 58.3 (2024 est.)<br>
+_youth dependency ratio_: 49.8 (2024 est.)<br>
+_elderly dependency ratio_: 8.5 (2024 est.)<br>
+_potential support ratio_: 11.7 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 24.8 years (2024 est.)<br>
@@ -252,12 +252,6 @@ _other_: 24.3% (2022 est.)<br>
 _urban population_: 53.1% of total population (2023)<br>
 _rate of urbanization_: 2.59% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-0.78% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 20.75 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 16.78 megatons (2016 est.)<br>
@@ -293,7 +287,7 @@ presidential republic<br>
 _name_: Guatemala City<br>
 _geographic coordinates_: 14 37 N, 90 31 W<br>
 _time difference_: UTC-6 (1 hour behind Washington, DC, during Standard Time)<br>
-_etymology_: the Spanish conquistadors used many native Americans as allies in their conquest of Guatemala; the site of their first capital (established in 1524), a former Maya settlement, was called "Quauhtemallan" by their Nahuatl-speaking Mexican allies, a name that means "land of trees" or "forested land", but which the Spanish pronounced "Guatemala"; the Spanish applied that name to a re-founded capital city three years later and eventually it became the name of the country<br>
+_etymology_: the Spanish conquistadors' first capital (established in 1524) was a former Mayan settlement called "Quauhtemallan" by their Nahuatl-speaking Mexican allies, a name that means "land of the eagle" but that the Spanish probably pronounced "Guatemala"&nbsp;<br>
 
 **Administrative divisions**<br>
 22 departments (departamentos, singular - departamento); Alta Verapaz, Baja Verapaz, Chimaltenango, Chiquimula, El Progreso, Escuintla, Guatemala, Huehuetenango, Izabal, Jalapa, Jutiapa, Peten, Quetzaltenango, Quiche, Retalhuleu, Sacatepequez, San Marcos, Santa Rosa, Solola, Suchitepequez, Totonicapan, Zacapa<br>
@@ -416,9 +410,9 @@ $104.45 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-6.21% (2023 est.)<br>
-6.89% (2022 est.)<br>
-4.26% (2021 est.)<br>
+2.9% (2024 est.)<br>
+6.2% (2023 est.)<br>
+6.9% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -454,19 +448,19 @@ sugar, textiles and clothing, furniture, chemicals, petroleum, metals, rubber, t
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-7.442 million (2023 est.)<br>
+7.575 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.71% (2023 est.)<br>
-3.05% (2022 est.)<br>
-2.17% (2021 est.)<br>
+2.2% (2024 est.)<br>
+2.3% (2023 est.)<br>
+3.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.9% (2023 est.)<br>
-_male_: 4.1% (2023 est.)<br>
-_female_: 9.6% (2023 est.)<br>
+_total_: 4.2% (2024 est.)<br>
+_male_: 4% (2024 est.)<br>
+_female_: 4.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -502,17 +496,17 @@ _expenditures_: $15.376 billion (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-11.82% (of GDP) (2022 est.)<br>
+11.6% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$3.232 billion (2023 est.)<br>
+$3.255 billion (2023 est.)<br>
 $1.197 billion (2022 est.)<br>
 $1.89 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$17.328 billion (2023 est.)<br>
+$17.329 billion (2023 est.)<br>
 $18.141 billion (2022 est.)<br>
 $15.246 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -526,7 +520,7 @@ garments, bananas, coffee, palm oil, raw sugar (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$33.024 billion (2023 est.)<br>
+$33.035 billion (2023 est.)<br>
 $33.939 billion (2022 est.)<br>
 $27.343 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -540,22 +534,22 @@ refined petroleum, video displays, cars, trucks, packaged medicine (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$23.834 billion (2024 est.)<br>
 $21.311 billion (2023 est.)<br>
 $20.415 billion (2022 est.)<br>
-$20.935 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$12.243 billion (2023 est.)<br>
+$11.862 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: quetzales (GTQ) per US dollar -<br>
+7.759 (2024 est.)<br>
 7.832 (2023 est.)<br>
 7.748 (2022 est.)<br>
 7.734 (2021 est.)<br>
 7.722 (2020 est.)<br>
-7.697 (2019 est.)<br>
 
 ## Energy
 
@@ -632,12 +626,6 @@ _subscriptions per 100 inhabitants_: 5 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 3 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 5<br>
-_annual passenger traffic on registered air carriers_: 145,795 (2018)<br>
-_annual freight traffic on registered air carriers_: 110,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 TG<br>
 
@@ -647,21 +635,10 @@ TG<br>
 **Heliports**<br>
 2 (2025)<br>
 
-**Pipelines**<br>
-480 km oil (2013)<br>
-
 **Railways**<br>
 _total_: 800 km (2018)<br>
 _narrow gauge_: 800 km (2018) 0.914-m gauge<br>
 <strong>note:</strong> despite the existence of a railway network, all rail service was suspended in 2007 and no passenger or freight train currently runs in the country (2018)<br>
-
-**Roadways**<br>
-_total_: 17,440 km<br>
-_paved_: 7,420 km<br>
-_unpaved_: 9,440 km (2022)<br>
-
-**Waterways**<br>
-990 km (2012) (260 km navigable year round; additional 730 km navigable during high-water season)<br>
 
 **Merchant marine**<br>
 _total_: 9 (2023)<br>
@@ -690,7 +667,7 @@ Army of Guatemala (Ejercito de Guatemala; aka Armed Forces of Guatemala or Fuerz
 0.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 20,000 active military personnel; approximately 25-30,000 National Civil Police (2023)<br>
+approximately 20,000 active military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military is lightly armed with an inventory mostly comprised of older US equipment; in recent years, Guatemala has received small amounts of equipment from several countries, including Colombia, Spain, and the US (2024)<br>

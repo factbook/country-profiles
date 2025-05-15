@@ -68,7 +68,7 @@ density is highest in the center of the country in and around the cities of Asma
 <p>frequent droughts, rare earthquakes and volcanoes; locust swarms</p><p><strong>volcanism:</strong> Dubbi (1,625 m), which last erupted in 1861, was the country's only historically active volcano until Nabro (2,218 m) came to life on 12 June 2011</p><br>
 
 **Geography - note**<br>
-strategic geopolitical position along world's busiest shipping lanes; Eritrea retained the entire coastline of Ethiopia along the Red Sea upon de jure independence from Ethiopia on 24 May 1993<br>
+strategic geopolitical position along world's busiest shipping lanes<br>
 
 ## People and Society
 
@@ -97,10 +97,10 @@ _15-64 years_: 60.3% (male 1,882,547/female 1,944,266)<br>
 _65 years and over_: 4% (2024 est.) (male 101,504/female 153,332)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 77.9<br>
-_youth dependency ratio_: 70.8<br>
-_elderly dependency ratio_: 7.1<br>
-_potential support ratio_: 14 (2021 est.)<br>
+_total dependency ratio_: 65.8 (2024 est.)<br>
+_youth dependency ratio_: 59.1 (2024 est.)<br>
+_elderly dependency ratio_: 6.7 (2024 est.)<br>
+_potential support ratio_: 15 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 21.3 years (2024 est.)<br>
@@ -279,7 +279,7 @@ presidential republic<br>
 _name_: Asmara<br>
 _geographic coordinates_: 15 20 N, 38 56 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name means "they [women] made them unite," which according to Tigrinya oral tradition refers to the women of the four clans in the Asmara area who persuaded their menfolk to unite and defeat their common enemy; the name has also been translated as "live in peace"<br>
+_etymology_: the name's origin is unclear; according to Tigrinya oral tradition, the name is part of a phrase meaning "the women made them unite," referring to a group of women who made four clans unite to defeat a common enemy; <em>asmara </em>also means "flowery wood" in the Tigrinya language<br>
 
 **Administrative divisions**<br>
 6 regions (zobatat, singular - zoba); 'Anseba, Debub (South), Debubawi K'eyyih Bahri (Southern Red Sea), Gash-Barka, Ma'ikel (Central), Semienawi K'eyyih Bahri (Northern Red Sea)<br>
@@ -291,7 +291,7 @@ _etymology_: the name means "they [women] made them unite," which according to T
 Independence Day, 24 May (1991)<br>
 
 **Legal system**<br>
-mixed legal system of civil, customary, and Islamic religious law<br>
+mixed system of civil, customary, and Islamic religious law<br>
 
 **Constitution**<br>
 _history_: ratified by the Constituent Assembly 23 May 1997 (never implemented)<br>
@@ -318,6 +318,12 @@ _election results_: <em><br>1993:</em> ISAIAS Afwerki elected president by the t
 <strong>note:</strong> the president is both chief of state and head of government and is head of the State Council and National Assembly<br>
 
 **Legislative branch**<br>
+_legislature name_: National Assembly (Hagerawi Baito)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 150 (all indirectly elected)<br>
+_scope of elections_: full renewal<br>
+_term in office_: 4 years<br>
+_most recent election date_: 2/1/1994<br>
 <strong>note:</strong> in 1997, after the new constitution was adopted, the government formed a Transitional National Assembly to serve as the country's legislative body until countrywide elections to form a National Assembly could be held; the constitution stipulates that once past the transition stage, all National Assembly members will be elected by secret ballot of all eligible voters; National Assembly elections scheduled for December 2001 were postponed indefinitely due to the war with Ethiopia; as of 2025, no sitting legislative body exists<br>
 
 **Judicial branch**<br>
@@ -416,19 +422,19 @@ food processing, beverages, clothing and textiles, light manufacturing, salt, ce
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.666 million (2023 est.)<br>
+1.71 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.87% (2023 est.)<br>
-5.94% (2022 est.)<br>
-6.34% (2021 est.)<br>
+5.6% (2024 est.)<br>
+5.6% (2023 est.)<br>
+5.7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10% (2023 est.)<br>
-_male_: 8.9% (2023 est.)<br>
-_female_: 11.3% (2023 est.)<br>
+_total_: 9.4% (2024 est.)<br>
+_male_: 8.5% (2024 est.)<br>
+_female_: 10.5% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Budget**<br>
@@ -460,6 +466,7 @@ copper ore, zinc ore, gold, garments, liquor (2023)<br>
 **Imports**<br>
 $1.127 billion (2017 est.)<br>
 $1.048 billion (2016 est.)<br>
+$494.229 million (2010 est.)<br>
 
 **Imports - partners**<br>
 China 32%, UAE 27%, Turkey 9%, USA 7%, Italy 5% (2023)<br>
@@ -476,16 +483,16 @@ $143.412 million (2017 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$513.131 million (2023 est.)<br>
+$461.376 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: nakfa (ERN) per US dollar -<br>
+15.075 (2024 est.)<br>
 15.075 (2023 est.)<br>
 15.075 (2022 est.)<br>
 15.075 (2021 est.)<br>
 15.075 (2020 est.)<br>
-15.075 (2019 est.)<br>
 
 ## Energy
 
@@ -530,7 +537,7 @@ _domestic_: fixed-line subscribership is less than 2 per 100 persons and mobile-
 _international_: country code - 291 (2019)<br>
 
 **Broadcast media**<br>
-government controls broadcast media with private ownership prohibited; 1 state-owned TV station; 2 state-owned radio networks; purchases of satellite dishes and subscriptions to international broadcast media are permitted (2023)<br>
+government controls broadcast media, with private ownership prohibited; 1 state-owned TV station; 2 state-owned radio networks; purchases of satellite dishes and subscriptions to international broadcast media are permitted (2023)<br>
 
 **Internet country code**<br>
 .er<br>
@@ -544,11 +551,6 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 1<br>
-_annual passenger traffic on registered air carriers_: 102,729 (2018)<br>
-
 **Civil aircraft registration country code prefix**<br>
 E3<br>
 
@@ -558,11 +560,6 @@ E3<br>
 **Railways**<br>
 _total_: 306 km (2018)<br>
 _narrow gauge_: 306 km (2018) 0.950-m gauge<br>
-
-**Roadways**<br>
-_total_: 16,000 km (2018)<br>
-_paved_: 1,600 km (2000)<br>
-_unpaved_: 14,400 km (2000)<br>
 
 **Merchant marine**<br>
 _total_: 9 (2023)<br>

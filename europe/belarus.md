@@ -103,10 +103,10 @@ _15-64 years_: 66.1% (male 3,073,507/female 3,204,088)<br>
 _65 years and over_: 17.8% (2024 est.) (male 572,483/female 1,122,231)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 50.8<br>
-_youth dependency ratio_: 25.4<br>
-_elderly dependency ratio_: 25.4<br>
-_potential support ratio_: 3.9 (2021 est.)<br>
+_total dependency ratio_: 51.4 (2024 est.)<br>
+_youth dependency ratio_: 24.4 (2024 est.)<br>
+_elderly dependency ratio_: 27 (2024 est.)<br>
+_potential support ratio_: 3.7 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 42.1 years (2024 est.)<br>
@@ -256,12 +256,6 @@ _other_: 16.8% (2022 est.)<br>
 _urban population_: 80.7% of total population (2023)<br>
 _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-1.02% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 15.48 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 58.28 megatons (2016 est.)<br>
@@ -316,7 +310,8 @@ _etymology_: the origin of the name is disputed; it may be derived from the Menk
 Independence Day, 3 July (1944); note - 3 July 1944 was the date Minsk was liberated from German troops, 25 August 1991 was the date of independence from the Soviet Union<br>
 
 **Legal system**<br>
-civil law system; note - nearly all major codes (civil, civil procedure, criminal, criminal procedure, family, and labor) were revised and came into force in 1999 and 2000<br>
+civil law system<br>
+<strong>note:</strong> nearly all major codes (civil, civil procedure, criminal, criminal procedure, family, and labor) were revised and came into force in 1999 and 2000<br>
 
 **Constitution**<br>
 _history_: several previous; latest drafted between late 1991 and early 1994, signed 15 March 1994<br>
@@ -337,7 +332,7 @@ _residency requirement for naturalization_: 7 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Alyaksandr LUKASHENKA (since 20 July 1994)<br>
-_head of government_: Prime Minister Roman GOLOVCHENKO (since 4 June 2020)<br>
+_head of government_: Prime Minister Alyaksandr TURCHYN (since 10 March 2025)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); first election held on 23 June and 10 July 1994; according to the 1994 constitution, the next election should have been held in 1999; however, Alyaksandr LUKASHENKA extended his term to 2001 via a November 1996 referendum; subsequent election held on 9 September 2001; an October 2004 referendum ended presidential term limits and allowed the President LUKASHENKA to run and win a third&nbsp; term (19 March 2006); a fourth term (19 December 2010); a fifth term (11 October 2015); a sixth term (9 August 2020); a seventh term (26 January 2025); next election to be held in 2030; prime minister and deputy prime ministers appointed by the president and approved by the National Assembly<br>
 _election results_: <em><br>2025: </em>Alyaksandr LUKASHENKA reelected president; percent of vote - Alyaksandr LUKASHENKA (independent) 86.8%, Sergey Syrankov (Communist Party) 3.2%, 3.6% voting against all<em><br><br>2020:</em> Alyaksandr LUKASHENKA reelected president; percent of vote - Alyaksandr LUKASHENKA (independent) 80.1%, Svyatlana TSIKHANOWSKAYA (independent) 10.1%, other 9.8%; note - widespread street protests erupted following announcement of the election results amid allegations of voter fraud<br><em><br>2015:</em> Alyaksandr LUKASHENKA elected president; percent of vote - Alyaksandr LUKASHENKA (independent) 84.1%, Tatsyana KARATKEVIC (BSDPH) 4.4%, Sergey GAYDUKEVICH (LDP) 3.3%, other 8.2%.<br>
@@ -435,9 +430,9 @@ $71.857 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.8% (2024 est.)<br>
 5% (2023 est.)<br>
-15.21% (2022 est.)<br>
-9.46% (2021 est.)<br>
+15.2% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -473,19 +468,19 @@ metal-cutting machine tools, tractors, trucks, earthmovers, motorcycles, synthet
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.954 million (2023 est.)<br>
+4.811 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.57% (2023 est.)<br>
-3.57% (2022 est.)<br>
-3.9% (2021 est.)<br>
+3.4% (2024 est.)<br>
+3.5% (2023 est.)<br>
+3.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.2% (2023 est.)<br>
-_male_: 10.7% (2023 est.)<br>
-_female_: 9.8% (2023 est.)<br>
+_total_: 10.1% (2024 est.)<br>
+_male_: 11.7% (2024 est.)<br>
+_female_: 8.4% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -517,23 +512,23 @@ _expenditures_: $20.856 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-33.24% of GDP (2019 est.)<br>
+33.2% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-12.81% (of GDP) (2023 est.)<br>
+12.8% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.109 billion (2023 est.)<br>
+-$1.925 billion (2024 est.)<br>
+-$1.104 billion (2023 est.)<br>
 $2.628 billion (2022 est.)<br>
-$2.137 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$49.386 billion (2024 est.)<br>
 $47.714 billion (2023 est.)<br>
 $47.124 billion (2022 est.)<br>
-$49.435 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -545,9 +540,9 @@ fertilizers, rapeseed oil, wood, poultry, beef (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$47.464 billion (2023 est.)<br>
+$50.679 billion (2024 est.)<br>
+$47.459 billion (2023 est.)<br>
 $42.438 billion (2022 est.)<br>
-$45.485 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -559,21 +554,22 @@ cars, broadcasting equipment, fabric, plastic products, video displays (2023)<br
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$4.392 billion (2024 est.)<br>
 $8.118 billion (2023 est.)<br>
 $7.923 billion (2022 est.)<br>
-$8.425 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$18.096 billion (2023 est.)<br>
+$18.01 billion (2023 est.)<br>
+<strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Belarusian rubles (BYB/BYR) per US dollar -<br>
+3.246 (2024 est.)<br>
 3.007 (2023 est.)<br>
 2.626 (2022 est.)<br>
 2.539 (2021 est.)<br>
 2.44 (2020 est.)<br>
-2.092 (2019 est.)<br>
 
 ## Energy
 
@@ -636,7 +632,7 @@ _total subscriptions_: 11.8 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 123 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>the government of Belarus has successfully promoted the migration to an all-internet protocol (IP) platform as part of a wider effort towards a digital transformation for the economy; the state-supported infrastructure operator has built an extensive fiber network which reaches all but the smallest settlements in the country; Belarus has the second highest fiber usage rate in Europe, behind only Iceland; long-term evolution (LTE) coverage is almost universal, while considerable progress has also been made in developing 5G services; telcos have had to invest in network infrastructure while managing a significant fall in the value of the local currency (particularly against the euro and the US dollar)</p> (2024)<br>
+_general assessment_: <p>the government of Belarus has successfully promoted the migration to an all-IP platform as part of a wider effort towards a digital transformation for the economy; the state-supported infrastructure operator has built an extensive fiber network which reaches all but the smallest settlements in the country; Belarus has the second highest fiber usage rate in Europe, behind only Iceland; LTE coverage is almost universal, while considerable progress has also been made in developing 5G services; telcos have had to invest in network infrastructure while managing a significant fall in the value of the local currency (particularly against the euro and the US dollar)</p> (2024)<br>
 _domestic_: fixed-line tele density 44 per 100 fixed-line; mobile-cellular tele density 123 telephones per 100 persons (2022)<br>
 _international_: country code - 375; Belarus is landlocked and therefore a member of the Trans-European Line (TEL), Trans-Asia-Europe (TAE) fiber-optic line, and has access to the Trans-Siberia Line (TSL); 3 fiber-optic segments provide connectivity to Latvia, Poland, Russia, and Ukraine; worldwide service is available to Belarus through this infrastructure; additional analog lines to Russia; Intelsat, Eutelsat, and Intersputnik earth stations; almost 31,000 base stations in service in 2019 (2020)<br>
 
@@ -655,12 +651,6 @@ _subscriptions per 100 inhabitants_: 35 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 30<br>
-_annual passenger traffic on registered air carriers_: 2,760,168 (2018)<br>
-_annual freight traffic on registered air carriers_: 1.9 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 EW<br>
 
@@ -670,19 +660,10 @@ EW<br>
 **Heliports**<br>
 4 (2025)<br>
 
-**Pipelines**<br>
-5,386 km gas, 1,589 km oil, 1,730 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 5,528 km (2014)<br>
 _standard gauge_: 25 km (2014) 1.435-m gauge<br>
 _broad gauge_: 5,503 km (2014) 1.520-m gauge (874 km electrified)<br>
-
-**Roadways**<br>
-_total_: 86,600 km (2017)<br>
-
-**Waterways**<br>
-2,500 km (2011) (major rivers are the west-flowing Western Dvina and Neman Rivers and the south-flowing Dnepr River and its tributaries, the Berezina, Sozh, and Pripyat Rivers)<br>
 
 **Merchant marine**<br>
 _total_: 4 (2023)<br>
@@ -702,7 +683,7 @@ Belarus Armed Forces: Army, Air and Air Defense Force, Special Operations Force,
 1.5% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 50-60,000 active-duty troops (2024)<br>
+approximately 50-60,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is comprised mostly of Russian and Soviet-origin equipment; Belarus's defense industry manufactures some equipment (mostly modernized Soviet designs), including vehicles, guided weapons, and electronic warfare systems (2024)<br>

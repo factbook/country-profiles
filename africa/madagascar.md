@@ -70,7 +70,7 @@ most of population lives on the eastern half of the island; significant clusteri
 <p>periodic cyclones; drought; and locust infestation</p><p><strong>volcanism:</strong> Madagascar's volcanoes have not erupted in historical times</p><br>
 
 **Geography - note**<br>
-world's fourth-largest island; strategic location along Mozambique Channel; despite Madagascar’s close proximity to the African continent, ocean currents isolate the island resulting in high rates of endemic plant and animal species; approximately 90% of the flora and fauna on the island are found nowhere else<br>
+world's fourth-largest island; strategic location along Mozambique Channel; despite Madagascar&rsquo;s close proximity to the African continent, ocean currents isolate the island, resulting in high rates of endemic plant and animal species; approximately 90% of the flora and fauna on the island are found nowhere else<br>
 
 ## People and Society
 
@@ -99,10 +99,10 @@ _15-64 years_: 59.1% (male 8,720,012/female 8,673,880)<br>
 _65 years and over_: 3.9% (2024 est.) (male 532,642/female 617,782)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 74.5<br>
-_youth dependency ratio_: 68.8<br>
-_elderly dependency ratio_: 5.8<br>
-_potential support ratio_: 17.4 (2021 est.)<br>
+_total dependency ratio_: 69.3 (2024 est.)<br>
+_youth dependency ratio_: 62.7 (2024 est.)<br>
+_elderly dependency ratio_: 6.6 (2024 est.)<br>
+_potential support ratio_: 15.1 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 21.3 years (2024 est.)<br>
@@ -232,7 +232,7 @@ _female_: 10 years (2018)<br>
 ## Environment
 
 **Environment - current issues**<br>
-erosion and soil degredation results from deforestation and overgrazing; desertification; agricultural fires; surface water contaminated with raw sewage and other organic wastes;&nbsp;wildlife preservation (endangered species of flora and fauna unique to the island)<br>
+erosion and soil degradation from deforestation and overgrazing; desertification; agricultural fires; water pollution from raw sewage and other organic wastes; wildlife preservation&nbsp;<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
@@ -255,12 +255,6 @@ _rate of urbanization_: 4.26% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to the effects of extreme weather events and slow economic recovery - </em>in 2023, an estimated 2.2 million people are projected to face crisis levels of acute food insecurity in southern and southeastern areas, due to successive years of droughts; cyclone Freddy in February 2023 caused disruptions to livelihoods and resulted in crop damage, which further aggravated food insecurity (2023)<br>
-
-**Revenue from forest resources**<br>
-4.34% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 16.02 micrograms per cubic meter (2019 est.)<br>
@@ -295,7 +289,7 @@ semi-presidential republic<br>
 _name_: Antananarivo<br>
 _geographic coordinates_: 18 55 S, 47 31 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name, which means "City of the Thousand," was bestowed by 17th century King ADRIANJAKA to honor the soldiers assigned to guard the city<br>
+_etymology_: the name means "City of the Thousand," from the Malagasy <em>an</em>- (a prefix denoting a place name), <em>tanana </em>(town), and <em>arivo </em>(thousand); in the 17th century, King ADRIANJAKA named the original fortress after the 1,000 soldiers stationed there<br>
 
 **Administrative divisions**<br>
 6 provinces (faritany); Antananarivo, Antsiranana, Fianarantsoa, Mahajanga, Toamasina, Toliara<br>
@@ -424,9 +418,9 @@ $15.79 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-9.87% (2023 est.)<br>
-8.16% (2022 est.)<br>
-5.81% (2021 est.)<br>
+9.9% (2023 est.)<br>
+8.2% (2022 est.)<br>
+5.8% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -456,19 +450,19 @@ meat processing, seafood, soap, beer, leather, sugar, textiles, glassware, cemen
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-16.061 million (2023 est.)<br>
+16.519 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.06% (2023 est.)<br>
-3.19% (2022 est.)<br>
-3.42% (2021 est.)<br>
+3% (2024 est.)<br>
+3.1% (2023 est.)<br>
+3.2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.5% (2023 est.)<br>
-_male_: 5.4% (2023 est.)<br>
-_female_: 5.6% (2023 est.)<br>
+_total_: 5.4% (2024 est.)<br>
+_male_: 5.3% (2024 est.)<br>
+_female_: 5.4% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
@@ -486,7 +480,7 @@ _expenditures_: $1.523 billion (2022 est.)<br>
 36% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-9.36% (of GDP) (2022 est.)<br>
+9.4% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -524,22 +518,22 @@ refined petroleum, rice, fabric, cotton fabric, wheat (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$2.785 billion (2024 est.)<br>
 $2.632 billion (2023 est.)<br>
 $2.16 billion (2022 est.)<br>
-$2.335 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$3.991 billion (2023 est.)<br>
+$3.548 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Malagasy ariary (MGA) per US dollar -<br>
+4,525.425 (2024 est.)<br>
 4,429.579 (2023 est.)<br>
 4,096.116 (2022 est.)<br>
 3,829.978 (2021 est.)<br>
 3,787.754 (2020 est.)<br>
-3,618.322 (2019 est.)<br>
 
 ## Energy
 
@@ -605,12 +599,6 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 4 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 18<br>
-_annual passenger traffic on registered air carriers_: 541,290 (2018)<br>
-_annual freight traffic on registered air carriers_: 16.25 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 5R<br>
 
@@ -620,12 +608,6 @@ _annual freight traffic on registered air carriers_: 16.25 million (2018) mt-km<
 **Railways**<br>
 _total_: 836 km (2018)<br>
 _narrow gauge_: 836 km (2018) 1.000-m gauge<br>
-
-**Roadways**<br>
-_total_: 31,640 km (2017)<br>
-
-**Waterways**<br>
-600 km (2011) (432 km navigable)<br>
 
 **Merchant marine**<br>
 _total_: 29 (2023)<br>
@@ -643,8 +625,8 @@ _key ports_: Andoany, Antsiranana, Antsohim Bondrona, Iharana, Mahajanga, Mainti
 ## Military and Security
 
 **Military and security forces**<br>
-Madagascar People's Armed Forces (PAF): Army, Navy, Air Force; National Gendarmerie (2024)<br>
-<strong>note: </strong>the National Gendarmerie is separate from the PAF under the Ministry of Defense and is responsible for maintaining law and order in rural areas at the village level, protecting government facilities, and operating a maritime police contingent; the National Police under the Ministry of Security is responsible for maintaining law and order in urban areas<br>
+Madagascar Armed Forces (aka Armed forces of the Republic of Madagascar); Malagasy Army, Naval Forces (or National Navy), Air Force; Malagasy National Gendarmerie (2025)<br>
+<strong>note: </strong>the National Gendarmerie is under the Ministry of Defense but separate from the PAF and is responsible for maintaining law and order in rural areas at the village level, protecting government facilities, and operating a maritime police contingent; the National Police under the Ministry of Security is responsible for maintaining law and order in urban areas<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2023 est.)<br>
@@ -654,16 +636,16 @@ Madagascar People's Armed Forces (PAF): Army, Navy, Air Force; National Gendarme
 0.5% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 13,000 personnel (12,000 Army; 500 Navy; 500 Air Force); estimated 10,000 Gendarmerie (2023)<br>
+estimated 13,000 Armed Forces personnel; estimated 10,000 Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the PAF's inventory consists mostly of older or secondhand weapons and equipment originating from countries such as France, South Africa, the UAE, the UK, and the former Soviet Union&nbsp; (2024)<br>
+the military's inventory consists mostly of older or secondhand weapons and equipment originating from countries such as France, South Africa, the UAE, the UK, and the former Soviet Union (2024)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for men and women; service obligation 18 months; no conscription; women are permitted to serve in all branches (2023)<br>
 
 **Military - note**<br>
-the PAF&rsquo;s responsibilities include ensuring sovereignty and territorial integrity and protecting Madagascar&rsquo;s maritime domain, particularly against piracy, drug trafficking, and smuggling; it also assists the Gendarmerie with maintaining law and order in rural areas, largely in areas affected by banditry, cattle rustling, and criminal groups; the PAF has a history of having influence in domestic politics and a lack of accountability; members of the Army and the Gendarmerie were arrested for coup plotting as recently as 2021; its closest defense partners have been India and Russia; the PAF&rsquo;s small Navy has traditionally looked to India for assistance with maritime security (2023)<br>
+the military&rsquo;s responsibilities include ensuring sovereignty and territorial integrity and protecting Madagascar&rsquo;s maritime domain, particularly against piracy, drug trafficking, and smuggling; it also assists the Gendarmerie with maintaining law and order in rural areas, largely in areas affected by banditry, cattle rustling, and criminal groups; the military has a history of having influence in domestic politics and a lack of accountability; members of the Army and the Gendarmerie were arrested for coup plotting as recently as 2021; its closest defense partners have been India and Russia, although France has provided some training and China has sought to strengthen security ties; Madagascar's small Navy has traditionally looked to India for assistance with maritime security (2024)<br>
 
 ## Transnational Issues
 

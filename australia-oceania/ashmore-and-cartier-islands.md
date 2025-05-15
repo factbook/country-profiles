@@ -60,18 +60,18 @@ _agricultural land_: 0% (2018 est.)<br>
 surrounded by shoals and reefs that can pose maritime hazards<br>
 
 **Geography - note**<br>
-Ashmore Reef National Nature Reserve established in August 1983; Cartier Island Marine Reserve established in 2000<br>
+Ashmore Reef National Nature Reserve established in 1983; Cartier Island Marine Reserve established in 2000<br>
 
 ## People and Society
 
 **Population**<br>
-_total_: (2021 est.) no indigenous inhabitants<br>
+_total_: no permanent inhabitants<br>
 <strong>note:</strong> Indonesian fishermen are allowed access to the lagoon and fresh water at Ashmore Reef's West Island; access to East and Middle Islands is by permit only<br>
 
 ## Environment
 
 **Environment - current issues**<br>
-illegal killing of protected wildlife by traditional Indonesian fisherman, as well as fishing by non-traditional Indonesian vessels, are ongoing problems; sea level rise, changes in sea temperature, and ocean acidification are concerns; marine debris<br>
+illegal killing of protected wildlife; overfishing; sea-level rise, changes in sea temperature, and ocean acidification; marine debris<br>
 
 **Climate**<br>
 tropical<br>

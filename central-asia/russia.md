@@ -85,7 +85,7 @@ population is heavily concentrated in the westernmost fifth of the country exten
 <p>permafrost over much of Siberia is a major impediment to development; volcanic activity in the Kuril Islands; volcanoes and earthquakes on the Kamchatka Peninsula; spring floods and summer/autumn forest fires throughout Siberia and parts of European Russia</p><p><strong>volcanism:</strong> significant volcanic activity on the Kamchatka Peninsula and Kuril Islands; the peninsula alone is home to some 29 historically active volcanoes, with dozens more in the Kuril Islands; Kliuchevskoi (4,835 m), which erupted in 2007 and 2010, is Kamchatka's most active volcano; Avachinsky and Koryaksky volcanoes, which pose a threat to the city of Petropavlovsk-Kamchatsky, have been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; other notable historically active volcanoes include Bezymianny, Chikurachki, Ebeko, Gorely, Grozny, Karymsky, Ketoi, Kronotsky, Ksudach, Medvezhia, Mutnovsky, Sarychev Peak, Shiveluch, Tiatia, Tolbachik, and Zheltovsky; see note 2 under "Geography - note"</p><br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> largest country in the world in terms of area but unfavorably located in relation to major sea lanes of the world; despite its size, much of the country lacks proper soils and climates (either too cold or too dry) for agriculture</p> <p><strong>note 2:</strong> Russia's far east, particularly the Kamchatka Peninsula, lies along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> Mount El'brus is Europe's tallest peak; Lake Baikal, the deepest lake in the world, is estimated to hold one fifth of the world's fresh surface water<br><br><strong>note 4:</strong> Kaliningrad oblast is an exclave annexed from Germany following World War II (it was formerly part of East Prussia); its capital city of Kaliningrad -- formerly Koenigsberg -- is the only Baltic port in Russia that remains ice free in the winter</p><br>
+<p><strong>note 1:</strong> largest country in the world in terms of area but unfavorably located in relation to major sea lanes; despite its size, much of the country lacks the soil and climate (either too cold or too dry) for agriculture</p> <p><strong>note 2:</strong> Russia's far east, particularly the Kamchatka Peninsula, lies along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> Mount El'brus is Europe's tallest peak; Lake Baikal, the deepest lake in the world, is estimated to hold one fifth of the world's fresh surface water<br><br><strong>note 4:</strong> Kaliningrad oblast is an exclave annexed from Germany after World War II; its capital city of Kaliningrad -- formerly Koenigsberg -- is the only Baltic port in Russia that remains ice-free in the winter</p><br>
 
 ## People and Society
 
@@ -117,10 +117,10 @@ _15-64 years_: 65.7% (male 45,007,073/female 47,518,221)<br>
 _65 years and over_: 17.8% (2024 est.) (male 8,533,448/female 16,491,955)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 50<br>
-_youth dependency ratio_: 26.6<br>
-_elderly dependency ratio_: 23.4<br>
-_potential support ratio_: 4.3 (2021 est.)<br>
+_total dependency ratio_: 52.2 (2024 est.)<br>
+_youth dependency ratio_: 25.2 (2024 est.)<br>
+_elderly dependency ratio_: 27 (2024 est.)<br>
+_potential support ratio_: 3.7 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 41.9 years (2024 est.)<br>
@@ -249,7 +249,7 @@ _female_: 16 years (2019)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution from heavy industry, emissions of coal-fired electric plants, and transportation in major cities; industrial, municipal, and agricultural pollution of inland waterways and seacoasts; deforestation; soil erosion; soil contamination from improper application of agricultural chemicals; nuclear waste disposal; scattered areas of sometimes intense radioactive contamination; groundwater contamination from toxic waste; urban solid waste management; abandoned stocks of obsolete pesticides<br>
+air pollution from heavy industry, coal-fired electric plants, and transportation in major cities; industrial, municipal, and agricultural pollution of inland waterways and seacoasts; deforestation; soil erosion; soil contamination from agricultural chemicals; nuclear waste disposal; scattered areas of radioactive contamination; groundwater contamination from toxic waste; urban solid-waste management; abandoned stocks of pesticides<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulphur 85, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
@@ -269,12 +269,6 @@ _other_: 37.1% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 75.3% of total population (2023)<br>
 _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.29% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.53% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 8.88 micrograms per cubic meter (2019 est.)<br>
@@ -330,7 +324,7 @@ _geographic coordinates_: 55 45 N, 37 36 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: does not observe daylight savings time (DST)<br>
 _time zone note_: Russia has 11 time zones, the largest number of contiguous time zones of any country in the world; in 2014, two time zones were added and DST dropped<br>
-_etymology_: named after the Moskva River; the origin of the river's name is obscure but may derive from the appellation "Mustajoki" given to the river by the Finno-Ugric people who originally inhabited the area and whose meaning may have been "dark" or "turbid"<br>
+_etymology_: named after the Moskva River; the origin of the river's name is unclear<br>
 
 **Administrative divisions**<br>
 <p>46 provinces (oblasti, singular - oblast), 21 republics (respubliki, singular - respublika), 4 autonomous okrugs (avtonomnyye okrugi, singular - avtonomnyy okrug), 9 krays (kraya, singular - kray), 2 federal cities (goroda, singular - gorod), and 1 autonomous oblast (avtonomnaya oblast')</p> <p><strong>oblasts:</strong> Amur (Blagoveshchensk), Arkhangelsk, Astrakhan, Belgorod, Bryansk, Chelyabinsk, Irkutsk, Ivanovo, Kaliningrad, Kaluga, Kemerovo, Kirov, Kostroma, Kurgan, Kursk, Leningrad (Gatchina), Lipetsk, Magadan, Moscow, Murmansk, Nizhniy Novgorod, Novgorod, Novosibirsk, Omsk, Orenburg, Orel, Penza, Pskov, Rostov, Ryazan, Sakhalin (Yuzhno-Sakhalinsk), Samara, Saratov, Smolensk, Sverdlovsk (Yekaterinburg), Tambov, Tomsk, Tula, Tver, Tyumen, Ulyanovsk, Vladimir, Volgograd, Vologda, Voronezh, Yaroslavl</p> <p><strong>republics:</strong> Adygeya (Maykop), Altay (Gorno-Altaysk), Bashkortostan (Ufa), Buryatiya (Ulan-Ude), Chechnya (Groznyy), Chuvashiya (Cheboksary), Dagestan (Makhachkala), Ingushetiya (Magas), Kabardino-Balkariya (Nal'chik), Kalmykiya (Elista), Karachayevo-Cherkesiya (Cherkessk), Kareliya (Petrozavodsk), Khakasiya (Abakan), Komi (Syktyvkar), Mariy-El (Yoshkar-Ola), Mordoviya (Saransk), North Ossetia (Vladikavkaz), Sakha [Yakutiya] (Yakutsk), Tatarstan (Kazan), Tyva (Kyzyl), Udmurtiya (Izhevsk)</p> <p><strong>autonomous okrugs:</strong> Chukotka (Anadyr'), Khanty-Mansi-Yugra (Khanty-Mansiysk), Nenets (Nar'yan-Mar), Yamalo-Nenets (Salekhard)</p> <p><strong>krays:</strong> Altay (Barnaul), Kamchatka (Petropavlovsk-Kamchatskiy), Khabarovsk, Krasnodar, Krasnoyarsk, Perm, Primorskiy [Maritime] (Vladivostok), Stavropol, Zabaykalsk [Transbaikal] (Chita)</p> <p><strong>federal cities:</strong> Moscow [Moskva], Saint Petersburg [Sankt-Peterburg]</p> <strong>autonomous oblast:</strong> Yevreyskaya [Jewish] (Birobidzhan)<br>
@@ -388,11 +382,7 @@ _expected date of next election_: September 2026<br>
 **Legislative branch - upper chamber**<br>
 _chamber name_: Council of the Federation (Soviet Federatsii)<br>
 _number of seats_: 170 (all appointed)<br>
-_scope of elections_: Full renewal<br>
-_most recent election date_: 12/27/2020<br>
-_parties elected and seats per party_: Niger Party for Democracy and Socialism (PNDS Tarayya) (80); Nigerien Democratic Movement for an African Federation (Moden Fa . Lumana Africa ) (19); Patriotic Movement for the Republic (MPR-JAMHURIYA) (13); National Movement for the Development of Society (MNSD) - Nassara (13); Other (41)<br>
 _percentage of women in chamber_: 18.5%<br>
-_expected date of next election_: December 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of the Russian Federation (consists of 170 members organized into the Judicial Panel for Civil Affairs, the Judicial Panel for Criminal Affairs, and the Military Panel); Constitutional Court (consists of 11 members, including the chairperson and deputy)<br>
@@ -400,7 +390,7 @@ _judge selection and term of office_: all members of Russia's 3 highest courts n
 _subordinate courts_: regional (kray) and provincial (oblast) courts; Moscow and St. Petersburg city courts; autonomous province and district courts (the 21 Russian republics have court systems specified by their own constitutions)<br>
 
 **Political parties**<br>
-A Just Russia or SRZP<br>Civic Platform or GP<br>Communist Party of the Russian Federation or KPRF<br>Liberal Democratic Party of Russia or LDPR<br>New People NL<br>Party of Growth PR<br>Rodina<br>United Russia ER<br>
+A Just Russia or SRZP<br>Civic Platform or GP<br>Communist Party of the Russian Federation or KPRF<br>Liberal Democratic Party of Russia or LDPR<br>New People or NL<br>Party of Growth or PR<br>Rodina<br>United Russia or ER<br>
 
 **International organization participation**<br>
 APEC, Arctic Council, ARF, ASEAN (dialogue partner), BIS, BRICS, BSEC, CBSS, CD, CE, CERN (observer), CICA, CIS, CSTO, EAEC, EAEU, EAPC, EAS, EBRD, FAO, FATF, G-20, GCTU, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MONUSCO, NEA, NSG, OAS (observer), OIC (observer), OPCW, OSCE, Paris Club, PCA, PFP, SCO, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UN Security Council (permanent), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -469,9 +459,9 @@ $2.021 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-6.69% (2021 est.)<br>
-3.38% (2020 est.)<br>
-4.47% (2019 est.)<br>
+6.7% (2021 est.)<br>
+3.4% (2020 est.)<br>
+4.5% (2019 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -507,19 +497,19 @@ complete range of mining and extractive industries producing coal, oil, gas, che
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-72.459 million (2023 est.)<br>
+72.313 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.33% (2023 est.)<br>
-3.87% (2022 est.)<br>
-4.72% (2021 est.)<br>
+2.5% (2024 est.)<br>
+3.1% (2023 est.)<br>
+3.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.7% (2023 est.)<br>
-_male_: 12.3% (2023 est.)<br>
-_female_: 13.2% (2023 est.)<br>
+_total_: 9.3% (2024 est.)<br>
+_male_: 8.8% (2024 est.)<br>
+_female_: 9.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -551,11 +541,11 @@ _expenditures_: $719.521 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-19.51% of GDP (2022 est.)<br>
+19% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-10.97% (of GDP) (2022 est.)<br>
+12.4% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -683,7 +673,7 @@ _domestic_: 16 per 100 for fixed-line and mobile-cellular is 169 per 100 persons
 _international_: country code - 7; landing points for the Far East Submarine Cable System, HSCS, Sakhalin-Kuril Island Cable, RSCN, BCS North-Phase 2, Kerch Strait Cable and the Georgia-Russian submarine cable system connecting Russia, Japan, Finland, Georgia and Ukraine; satellite earth stations provide access to Intelsat, Intersputnik, Eutelsat, Inmarsat, and Orbita systems (2019)<br>
 
 **Broadcast media**<br>
-13 national TV stations with the federal government owning 1 and holding a controlling interest in a second; state-owned Gazprom maintains a controlling interest in 2 of the national channels; government-affiliated Bank Rossiya owns controlling interest in a fourth and fifth, while a sixth national channel is owned by the Moscow city administration; the Russian Orthodox Church and the Russian military, respectively, own 2 additional national channels; roughly 3,300 national, regional, and local TV stations with over two-thirds completely or partially controlled by the federal or local governments; satellite TV services are available; 2 state-run national radio networks with a third majority-owned by Gazprom; roughly 2,400 public and commercial radio stations<br>
+13 national TV stations: the federal government owns 1 and controls a second, state-owned Gazprom controls 2, state-affiliated Bank Rossiya controls 2, Moscow city administration runs 1, the Russian Orthodox Church owns 1, and the Russian military owns 1; around 3,300 national, regional, and local TV stations, with over two-thirds completely or partially state-controlled; satellite TV available; 2 state-run national radio networks, with a third majority-owned by Gazprom; around 2,400 public and commercial radio stations<br>
 
 **Internet country code**<br>
 .ru; note - Russia also has responsibility for a legacy domain ".su" that was allocated to the Soviet Union and is being phased out<br>
@@ -697,12 +687,6 @@ _subscriptions per 100 inhabitants_: 25 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 32 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 958<br>
-_annual passenger traffic on registered air carriers_: 99,327,311 (2018)<br>
-_annual freight traffic on registered air carriers_: 6,810,610,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 RA<br>
 
@@ -712,20 +696,9 @@ RA<br>
 **Heliports**<br>
 494 (2025)<br>
 
-**Pipelines**<br>
-177,700 km gas, 54,800 km oil, 19,300 km refined products (2017)<br>
-
 **Railways**<br>
 _total_: 85,494 km (2019)<br>
 _narrow gauge_: 957 km<br>
-
-**Roadways**<br>
-_total_: 1,283,387 km<br>
-_paved_: 927,721 km (includes 39,143 km of expressways)<br>
-_unpaved_: 355,666 km (2012)<br>
-
-**Waterways**<br>
-102,000 km (2009) (including 48,000 km with guaranteed depth; the 72,000-km system in European Russia links Baltic Sea, White Sea, Caspian Sea, Sea of Azov, and Black Sea)<br>
 
 **Merchant marine**<br>
 _total_: 2,910 (2023)<br>
@@ -740,9 +713,6 @@ _very small_: 38<br>
 _size unknown_: 1<br>
 _ports with oil terminals_: 32<br>
 _key ports_: Arkhangels'k, De Kastri, Dudinka, Kaliningrad, Murmansk, Novorossiysk, Sankt-Peterburg, Vladivostok, Vyborg<br>
-
-**Transportation - note**<br>
-Russia operates the largest polar-class icebreaker fleet in the world with 52 vessels, seven of which are the world's only nuclear-powered heavy icebreakers; the primary mission includes keeping open ports, terminals, and shipping lanes along the Northern Sea Route (see Arctic Ocean map), in the Baltic Sea, and in the Russian Far East, including the Sea of Okhotsk<br>
 
 ## Military and Security
 

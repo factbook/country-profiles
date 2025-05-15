@@ -107,10 +107,10 @@ _15-64 years_: 67.8% (male 12,784,928/female 11,376,460)<br>
 _65 years and over_: 19.9% (2024 est.) (male 2,447,105/female 4,652,717)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 48.4<br>
-_youth dependency ratio_: 22.6<br>
-_elderly dependency ratio_: 25.8<br>
-_potential support ratio_: 3.9 (2021 est.)<br>
+_total dependency ratio_: 47.6 (2024 est.)<br>
+_youth dependency ratio_: 18.2 (2024 est.)<br>
+_elderly dependency ratio_: 29.4 (2024 est.)<br>
+_potential support ratio_: 3.4 (2024 est.)<br>
 <strong>note:</strong> data include Crimea<br>
 
 **Median age**<br>
@@ -235,7 +235,7 @@ _female_: 15 years (2014)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air and water pollution; land degradation; solid waste management; biodiversity loss; deforestation; radiation contamination in the northeast from 1986 accident at Chornobyl' Nuclear Power Plant<br>
+air and water pollution; land degradation; solid waste management; biodiversity loss; deforestation; radiation contamination in the northeast from 1986 nuclear accident in Chornobyl'&nbsp;<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulphur 85, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -258,12 +258,6 @@ _rate of urbanization_: -0.27% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <p><em>due to conflict</em> - Ukraine continues to be a significant supplier of food commodities for the world; however, according to a 2023 analysis, at least 17.6 million people are estimated to be in need of multi-sectoral humanitarian assistance in 2023 due to the war, including over 11 million in need of food security and livelihood interventions; the harvest of the 2023 winter cereal crops, mostly wheat, is onging and will be concluded by August; as a result of a smaller planted area, the 2023 wheat harvest in areas under government control is estimated at 18.5 million mt, about 8% below the already war‑affected 2022 output; despite decreased cereal production, food availability at the national level is reported to be adequate, but access remains a major challenge; the country has already experienced elevated levels of food price inflation in the past, due to the economic impact of the conflict in eastern areas; in addition, rising energy costs, amidst high unemployment rates and limited livelihood opportunities, are reducing households’ purchasing power and driving more people into poverty</p> (2023)<br>
-
-**Revenue from forest resources**<br>
-0.34% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.42% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 13.51 micrograms per cubic meter (2019 est.)<br>
@@ -297,7 +291,7 @@ _conventional short form_: Ukraine<br>
 _local long form_: none<br>
 _local short form_: Ukraina<br>
 _former_: Ukrainian National Republic, Ukrainian State, Ukrainian Soviet Socialist Republic<br>
-_etymology_: name derives from the Old East Slavic word "ukraina" meaning "borderland or march (militarized border region)" and began to be used extensively in the 19th century; originally Ukrainians referred to themselves as Rusyny (Rusyns, Ruthenians, or Ruthenes), an endonym derived from the medieval Rus state (Kyivan Rus)<br>
+_etymology_: the name derives from the Old East Slavic or Old Russian word <em>ukraina</em>, meaning "borderland," which was used to describe the area on medieval Russia's border at the time of the Tatar invasion in the 13th century <br>
 
 **Government type**<br>
 semi-presidential republic<br>
@@ -307,8 +301,7 @@ _name_: Kyiv (Kiev is the transliteration from Russian)<br>
 _geographic coordinates_: 50 26 N, 30 31 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the name is associated with that of Kyi, who along with his brothers Shchek and Khoryv, and their sister Lybid, are the legendary founders of the medieval city of Kyiv; Kyi being the eldest brother, the city was named after him<br>
-<strong>note:</strong> pronounced KAY-yiv<br>
+_etymology_: the origin of the name is unclear; traditionally, the name comes from a Prince Kiy, who is said to have founded the city in the 9th century<br>
 
 **Administrative divisions**<br>
 24 provinces (oblasti, singular - oblast'), 1 autonomous republic* (avtonomna respublika), and 2 municipalities** (mista, singular - misto) with oblast status; Cherkasy, Chernihiv, Chernivtsi, Crimea or Avtonomna Respublika Krym* (Simferopol), Dnipropetrovsk (Dnipro), Donetsk, Ivano-Frankivsk, Kharkiv, Kherson, Khmelnytskyi, Kirovohrad (Kropyvnytskyi), Kyiv**, Kyiv, Luhansk, Lviv, Mykolaiv, Odesa, Poltava, Rivne, Sevastopol**, Sumy, Ternopil, Vinnytsia, Volyn (Lutsk), Zakarpattia (Uzhhorod), Zaporizhzhia, Zhytomyr<br>
@@ -431,9 +424,9 @@ $178.757 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-12.85% (2023 est.)<br>
-20.18% (2022 est.)<br>
-9.36% (2021 est.)<br>
+6.5% (2024 est.)<br>
+12.8% (2023 est.)<br>
+20.2% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -473,9 +466,9 @@ industrial machinery, ferrous and nonferrous metals, automotive and aircraft com
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-9.83% (2021 est.)<br>
-9.48% (2020 est.)<br>
-8.19% (2019 est.)<br>
+9.8% (2021 est.)<br>
+9.5% (2020 est.)<br>
+8.2% (2019 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -513,23 +506,23 @@ _expenditures_: $93.783 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-58.72% of GDP (2020 est.)<br>
+58.7% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-16.69% (of GDP) (2022 est.)<br>
+17.7% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$9.655 billion (2023 est.)<br>
+-$13.749 billion (2024 est.)<br>
+-$9.564 billion (2023 est.)<br>
 $7.976 billion (2022 est.)<br>
--$3.882 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$51.093 billion (2023 est.)<br>
+$56.114 billion (2024 est.)<br>
+$51.28 billion (2023 est.)<br>
 $57.517 billion (2022 est.)<br>
-$81.504 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -541,9 +534,9 @@ corn, seed oils, wheat, iron ore, soybeans (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$88.83 billion (2023 est.)<br>
+$92.025 billion (2024 est.)<br>
+$89.159 billion (2023 est.)<br>
 $83.254 billion (2022 est.)<br>
-$84.175 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -555,21 +548,22 @@ refined petroleum, cars, natural gas, packaged medicine, plastic products (2023)
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$41.485 billion (2024 est.)<br>
 $40.51 billion (2023 est.)<br>
 $28.506 billion (2022 est.)<br>
-$30.967 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$96.719 billion (2023 est.)<br>
+$90.003 billion (2023 est.)<br>
+<strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: hryvnia (UAH) per US dollar -<br>
+40.152 (2024 est.)<br>
 36.574 (2023 est.)<br>
 32.342 (2022 est.)<br>
 27.286 (2021 est.)<br>
 26.958 (2020 est.)<br>
-25.846 (2019 est.)<br>
 
 ## Energy
 
@@ -642,7 +636,7 @@ _domestic_: fixed-line teledensity is 6 per 100; the mobile-cellular telephone i
 _international_: country code - 380; landing point for the Kerch Strait Cable connecting Ukraine to Russia; 2 new domestic trunk lines are a part of the fiber-optic TAE system and 3 Ukrainian links have been installed in the fiber-optic TEL project that connects 18 countries; additional international service is provided by the Italy-Turkey-Ukraine-Russia (ITUR) fiber-optic submarine cable and by an unknown number of earth stations in the Intelsat, Inmarsat, and Intersputnik satellite systems<br>
 
 **Broadcast media**<br>
-Ukraine&rsquo;s media landscape is dominated by oligarch-owned news outlets, which are often politically motivated and at odds with one another and/or the government; while polls suggest most Ukrainians still receive news from traditional media sources, social media is a crucial component of information dissemination in Ukraine; almost all Ukrainian politicians and opinion leaders communicate with the public via social media and maintain at least one social media page, if not more; this allows them direct communication with audiences, and news often breaks on Facebook or Twitter before being picked up by traditional news outlets; Kyiv created a unified news platform to broadcast news about the war following Russia's full-scale invasion; the government's "United News" television marathon is a round-the clock framework which untied the Ukrainian public broadcaster and top commercial TV channels' programming; Ukraine television serves as the principal source of news; the largest national networks are controlled by oligarchs: Studio 1+1 is owned by Ihor Kolomoyskyy; Inter is owned by Dmytro Firtash and Serhiy Lyovochkin; and StarlightMedia channels (ICTV, STB, and Novyi Kanal) are owned by Victor Pinchuk;&nbsp;&nbsp;a set of 24-hour news channels also have clear political affiliations: pro-Ukrainian government Channel 5 and Pryamyi are linked to President Petro Poroshenko; 24 is owned by opposition, but not pro-Russian, politicians; UA: Suspilne is a public television station under the umbrella of the National Public Broadcasting Company of Ukraine; while it is often praised by media experts for balanced coverage, it lags in popularity; Ukrainian Radio, institutionally linked to UA: Suspilne, is one of only two national talk radio networks, with the other being the privately owned Radio NV (2021)<br>
+media landscape dominated by oligarch-owned news outlets; United News created for 24-hour news about the war with Russia, a joint effort from the Ukrainian public broadcaster and top commercial TV channels; Ukraine Radio's Suspilne and privately owned Radio NV are the national talk radio networks (2021)<br>
 
 **Internet country code**<br>
 .ua<br>
@@ -659,12 +653,6 @@ a sorting code to expeditiously handle large volumes of mail was first set up in
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 14 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 126<br>
-_annual passenger traffic on registered air carriers_: 7,854,842 (2018)<br>
-_annual freight traffic on registered air carriers_: 75.26 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 UR<br>
 
@@ -674,21 +662,10 @@ UR<br>
 **Heliports**<br>
 44 (2025)<br>
 
-**Pipelines**<br>
-36,720 km gas, 4,514 km oil, 4,363 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 21,733 km (2014)<br>
 _standard gauge_: 49 km (2014) 1.435-m gauge (49 km electrified)<br>
 _broad gauge_: 21,684 km (2014) 1.524-m gauge (9,250 km electrified)<br>
-
-**Roadways**<br>
-_total_: 169,694 km<br>
-_paved_: 166,095 km (includes 17 km of expressways)<br>
-_unpaved_: 3,599 km (2012)<br>
-
-**Waterways**<br>
-1,672 km (2012) (most on Dnieper River)<br>
 
 **Merchant marine**<br>
 _total_: 410 (2023)<br>
@@ -706,8 +683,8 @@ _key ports_: Berdyansk, Dnipro-Buzkyy, Feodosiya, Illichivsk, Kerch, Kherson, Ma
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Ukraine (AFU; Zbroyni Syly Ukrayiny or ZSU): Ground Forces (Sukhoputni Viys’ka), Naval Forces (Viys’kovo-Mors’ki Syly, VMS), Air Forces (Povitryani Syly, PS), Air Assault Forces (Desantno-shturmovi Viyska, DShV), Ukrainian Special Operations Forces (UASOF), Unmanned Systems Forces, Territorial Defense Forces (Reserves)<br><br>Ministry of Internal Affairs: National Guard of Ukraine, State Border Guard Service of Ukraine (includes Maritime Border Guard or Sea Guard) (2024)<br>
-<strong>note 1:</strong> in the event that martial law is declared, all National Guard units, with certain exceptions such as those tasked with providing for diplomatic security of embassies and consulates, would come under the command of the Ministry of Defense as auxiliary forces to the Armed Forces<br><br><strong>note 2: </strong>the Territorial Defense Forces (TDF) were formally established in July 2021; the TDF evolved from former Territorial Defense Battalions and other volunteer militia and paramilitary units that were organized in 2014-2015 to fight Russian-backed separatists in the Donbas; in January 2022, the TDF was activated as a separate military branch; it is organized into at least 25 brigades representing each of the 24 oblasts, plus the city of Kyiv<br>
+Armed Forces of Ukraine (AFU; Zbroyni Syly Ukrayiny or ZSU): Ground Forces (Sukhoputni Viys’ka, SV), Naval Forces (Viys’kovo-Mors’ki Syly, VMS), Air Forces (Povitryani Syly, PS), Air Assault Forces (Desantno-shturmovi Viyska, DShV), Ukrainian Special Operations Forces (UASOF), Unmanned Systems Forces, Territorial Defense Forces (Reserves)<br><br>Ministry of Internal Affairs: National Guard of Ukraine, State Border Guard Service of Ukraine (includes Maritime Border Guard or Sea Guard) (2024)<br>
+<strong>note 1:</strong> in the event that martial law is declared, all National Guard units, with certain exceptions such as those tasked with providing for diplomatic security of embassies and consulates, would come under the command of the Ministry of Defense as auxiliary forces to the Armed Forces<br><br><strong>note 2: </strong>the Territorial Defense Forces (TDF) were formally established in July 2021; the TDF evolved from former Territorial Defense Battalions and other volunteer militia and paramilitary units that were organized in 2014-2015 to fight Russian-backed separatists in the Donbas; in January 2022, the TDF was activated as a separate military branch<br>
 
 **Military expenditures**<br>
 4% of GDP (2021 est.)<br>
@@ -715,18 +692,18 @@ Armed Forces of Ukraine (AFU; Zbroyni Syly Ukrayiny or ZSU): Ground Forces (Sukh
 3.4% of GDP (2019 est.)<br>
 3.1% of GDP (2018 est.)<br>
 3.1% of GDP (2017 est.)<br>
-<strong>note:</strong> since Russia's invasion of the country in early 2022, defense spending has increased to more than 25% of GDP according to some estimates<br>
+<strong>note:</strong> since Russia's invasion of the country in early 2022, annual defense spending has increased to more than 30% of GDP according to some estimates<br>
 
 **Military and security service personnel strengths**<br>
 estimated 800,000 active Armed Forces personnel (2024)<br>
-<strong>note 1:</strong> following the Russian invasion of Ukraine in February 2022, President ZELENSKY announced a general mobilization of the country; prior to the invasion, approximately 200,000 active Armed Forces troops (125,000 Army; 25,000 Airborne/Air Assault Forces; 2,000 Special Operations Forces; 10,000 Navy; 40,000 Air Force); approximately 50,000 National Guard; approximately 40,000 State Border Guard<br>
+<strong>note:</strong> following the Russian invasion of Ukraine in February 2022, President ZELENSKY announced a general mobilization of the country; prior to the invasion, Ukraine had approximately 200,000 active Armed Forces troops, approximately 50,000 National Guard, and approximately 40,000 State Border Guard<br>
 
 **Military equipment inventories and acquisitions**<br>
 prior to the full-scale Russian invasion in February 2022, the Ukrainian military was equipped largely with Russian-origin and Soviet-era weapons systems; since the invasion, it has received considerable quantities of weapons, including Soviet-era and more modern Western systems, from European countries and the US; Ukraine also has a growing inventory of domestically-produced weapons and equipment (2024)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary service; conscription abolished in 2012, but reintroduced for men in 2014; 25 years of age for conscription; prior to the Russian invasion of February 2022, conscript service obligation was 12-18 months, depending on the service (2024)<br>
-<strong>note 1: </strong>following the Russian invasion in 2022, all nonexempt men ages 18-60 were required to register with their local recruitment offices and undergo medical screening for possible service; the Territorial Defense Forces (TDF) accepts volunteers, 18-60 years of age; since the invasion, hundreds of thousands of Ukrainians have volunteered for the regular armed forces, the TDF, or to work in civilian defense activities <strong><br><br></strong><strong>note 2: </strong>women have been able to volunteer for military service since 1993; as of 2024, nearly 70,000 women were serving in the armed forces in both uniformed and civilian positions <br><br><strong>note 3:</strong> since 2015, the Ukrainian military has allowed foreigners and stateless persons, 18-45 (in special cases up to 60), to join on 3-5-year contracts, based on qualifications; following the Russian invasion in 2022, the military began accepting medically fit foreign volunteers on a larger scale, with an emphasis on persons with combat experience; wartime volunteers typically serve for 6 months<br>
+<strong>note 1: </strong>following the Russian invasion in 2022, all non-exempt men ages 18-60 were required to register with their local recruitment offices and undergo medical screening for possible service; the Territorial Defense Forces (TDF) accepts volunteers, 18-60 years of age; since the invasion, hundreds of thousands of Ukrainians have volunteered for the regular armed forces, the TDF, or to work in civilian defense activities <strong><br><br></strong><strong>note 2: </strong>women have been able to volunteer for military service since 1993; as of 2024, nearly 70,000 women were serving in the armed forces in both uniformed and civilian positions <br><br><strong>note 3:</strong> since 2015, the Ukrainian military has allowed foreigners and stateless persons, 18-45 (in special cases up to 60), to join on 3-5-year contracts, based on qualifications; following the Russian invasion in 2022, the military began accepting medically fit foreign volunteers on a larger scale into an International Legion<br>
 
 **Military deployments**<br>
 <strong>note:</strong> prior to the Russian invasion in 2022, Ukraine had committed about 500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units; units affiliated with the multinational brigade remain within the structures of the armed forces of their respective countries until the brigade is activated for participation in an international operation<br>

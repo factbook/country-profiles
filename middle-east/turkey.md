@@ -80,7 +80,7 @@ the most densely populated area is found around the Bosporus in the northwest wh
 <p>severe earthquakes, especially in northern Turkey, along an arc extending from the Sea of Marmara to Lake Van; landslides; flooding</p><p><strong>volcanism:</strong> limited volcanic activity; its three historically active volcanoes; Ararat, Nemrut Dagi, and Tendurek Dagi have not erupted since the 19th century or earlier</p><br>
 
 **Geography - note**<br>
-strategic location controlling the Turkish Straits (Bosporus, Sea of Marmara, Dardanelles) that link the Black and Aegean Seas; the 3% of Turkish territory north of the Straits lies in Europe and goes by the names of European Turkey, Eastern Thrace, or Turkish Thrace; the 97% of the country in Asia is referred to as Anatolia; Istanbul, which straddles the Bosporus, is the only metropolis in the world located on two continents; Mount Ararat, the legendary landing place of Noah's ark, is in the far eastern portion of the country<br>
+strategic location controlling the Turkish Straits (Bosporus, Sea of Marmara, Dardanelles) that link the Black and Aegean Seas; the 3% of Turkish territory north of the Straits lies in Europe and goes by the names of European Turkey, Eastern Thrace, or Turkish Thrace; the 97% of the country in Asia is referred to as Anatolia; Istanbul, which straddles the Bosporus, is the only metropolis in the world located on two continents; Mount Ararat, reputed to be the landing place of Noah's ark, is in the far-eastern part of the country<br>
 
 ## People and Society
 
@@ -109,10 +109,10 @@ _15-64 years_: 68.6% (male 29,219,389/female 28,494,315)<br>
 _65 years and over_: 9.6% (2024 est.) (male 3,669,330/female 4,444,113)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 49.1<br>
-_youth dependency ratio_: 34.5<br>
-_elderly dependency ratio_: 12.3<br>
-_potential support ratio_: 8.1 (2021 est.)<br>
+_total dependency ratio_: 45.8 (2024 est.)<br>
+_youth dependency ratio_: 31.7 (2024 est.)<br>
+_elderly dependency ratio_: 14.1 (2024 est.)<br>
+_potential support ratio_: 7.1 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 34 years (2024 est.)<br>
@@ -240,7 +240,7 @@ _female_: 18 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-water pollution from dumping of chemicals and detergents; air pollution, particularly in urban areas; deforestation; land degradation; concern for oil spills from increasing Bosporus ship traffic; conservation of biodiversity<br>
+water pollution from dumping of chemicals and detergents; air pollution, particularly in urban areas; deforestation; land degradation; conservation of biodiversity<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -260,12 +260,6 @@ _other_: 20.7% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 77.5% of total population (2023)<br>
 _rate of urbanization_: 1.11% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.08% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.05% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 23.25 micrograms per cubic meter (2019 est.)<br>
@@ -314,7 +308,7 @@ presidential republic<br>
 _name_: Ankara<br>
 _geographic coordinates_: 39 56 N, 32 52 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: Ankara has been linked with a second millennium B.C. Hittite cult center of Ankuwash, although this connection is uncertain; in classical and medieval times, the city was known as Ankyra (meaning "anchor" in Greek and reflecting the city's position as a junction for multiple trade and military routes); by about the 13th century the city began to be referred to as Angora; following the establishment of the Republic of Turkey in 1923, the city's name became Ankara<br>
+_etymology_: the name probably derives from the Indo-European root word <em>ang</em>, meaning "bend" and relating to the settlement's original location in a winding gorge; the city was referred to as Angora by the 13th century; the name was officially modified to Ankara in 1923 when the Republic of Turkey was founded<br>
 
 **Administrative divisions**<br>
 81 provinces (iller, singular - ili); Adana, Adiyaman, Afyonkarahisar, Agri, Aksaray, Amasya, Ankara, Antalya, Ardahan, Artvin, Aydin, Balikesir, Bartin, Batman, Bayburt, Bilecik, Bingol, Bitlis, Bolu, Burdur, Bursa, Canakkale, Cankiri, Corum, Denizli, Diyarbakir, Duzce, Edirne, Elazig, Erzincan, Erzurum, Eskisehir, Gaziantep, Giresun, Gumushane, Hakkari, Hatay, Igdir, Isparta, Istanbul, Izmir (Smyrna), Kahramanmaras, Karabuk, Karaman, Kars, Kastamonu, Kayseri, Kilis, Kirikkale, Kirklareli, Kirsehir, Kocaeli, Konya, Kutahya, Malatya, Manisa, Mardin, Mersin, Mugla, Mus, Nevsehir, Nigde, Ordu, Osmaniye, Rize, Sakarya, Samsun, Sanliurfa, Siirt, Sinop, Sirnak, Sivas, Tekirdag, Tokat, Trabzon (Trebizond), Tunceli, Usak, Van, Yalova, Yozgat, Zonguldak<br>
@@ -326,7 +320,7 @@ _etymology_: Ankara has been linked with a second millennium B.C. Hittite cult c
 Republic Day, 29 October (1923)<br>
 
 **Legal system**<br>
-civil law system based on various European legal systems, notably the Swiss civil code<br>
+civil law system based on various European systems, notably the Swiss civil code<br>
 
 **Constitution**<br>
 _history_: several previous; latest ratified 9 November 1982<br>
@@ -436,9 +430,9 @@ $1.118 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-53.86% (2023 est.)<br>
-72.31% (2022 est.)<br>
-19.6% (2021 est.)<br>
+58.5% (2024 est.)<br>
+53.9% (2023 est.)<br>
+72.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -474,19 +468,19 @@ textiles, food processing, automobiles, electronics, mining (coal, chromate, cop
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-35.59 million (2023 est.)<br>
+36.084 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-9.41% (2023 est.)<br>
-10.43% (2022 est.)<br>
-11.97% (2021 est.)<br>
+8.4% (2024 est.)<br>
+9.4% (2023 est.)<br>
+10.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.6% (2023 est.)<br>
-_male_: 14.8% (2023 est.)<br>
-_female_: 22.9% (2023 est.)<br>
+_total_: 15.6% (2024 est.)<br>
+_male_: 12.4% (2024 est.)<br>
+_female_: 21.2% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -518,23 +512,23 @@ _expenditures_: $269.146 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-35.25% of GDP (2022 est.)<br>
+33.1% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-16.09% (of GDP) (2022 est.)<br>
+18.5% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$40.503 billion (2023 est.)<br>
--$46.638 billion (2022 est.)<br>
--$6.433 billion (2021 est.)<br>
+-$9.973 billion (2024 est.)<br>
+-$39.877 billion (2023 est.)<br>
+-$46.283 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$357.025 billion (2023 est.)<br>
-$346.21 billion (2022 est.)<br>
-$287.318 billion (2021 est.)<br>
+$372.756 billion (2024 est.)<br>
+$357.588 billion (2023 est.)<br>
+$346.602 billion (2022 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -546,9 +540,9 @@ garments, cars, gold, refined petroleum, vehicle parts/accessories (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$386.666 billion (2023 est.)<br>
+$367.022 billion (2024 est.)<br>
+$386.602 billion (2023 est.)<br>
 $383.7 billion (2022 est.)<br>
-$284.019 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -560,22 +554,22 @@ gold, refined petroleum, cars, plastics, natural gas (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$140.858 billion (2023 est.)<br>
-$123.735 billion (2022 est.)<br>
-$109.535 billion (2021 est.)<br>
+$90.859 billion (2024 est.)<br>
+$140.868 billion (2023 est.)<br>
+$128.735 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$151.844 billion (2023 est.)<br>
+$149.654 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Turkish liras (TRY) per US dollar -<br>
+32.806 (2024 est.)<br>
 23.739 (2023 est.)<br>
 16.549 (2022 est.)<br>
 8.85 (2021 est.)<br>
 7.009 (2020 est.)<br>
-5.674 (2019 est.)<br>
 
 ## Energy
 
@@ -644,7 +638,7 @@ _domestic_: fixed-line nearly 14 per 100 and mobile-cellular teledensity is 106 
 _international_: country code - 90; landing points for the SeaMeWe-3 &amp; -5, MedNautilus Submarine System, Turcyos-1 &amp; -2 submarine cables providing connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia&nbsp;; satellite earth stations - 12 Intelsat; mobile satellite terminals - 328 in the Inmarsat and Eutelsat systems (2020)<br>
 
 **Broadcast media**<br>
-<p>Turkish Radio and Television Corporation (TRT) operates multiple TV and radio networks and stations; multiple privately owned national television stations and 567 private regional and local television stations; multi-channel cable TV subscriptions available; 1,007 private radio broadcast stations</p> (2019)<br>
+<p>Turkish Radio and Television Corporation (TRT) operates multiple TV and radio networks and stations; multiple privately owned national TV stations and 567 private regional and local TV stations; multi-channel cable TV available; 1,007 private radio stations</p> (2019)<br>
 
 **Internet country code**<br>
 .tr<br>
@@ -658,12 +652,6 @@ _subscriptions per 100 inhabitants_: 22 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 11 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 618<br>
-_annual passenger traffic on registered air carriers_: 115,595,495 (2018)<br>
-_annual freight traffic on registered air carriers_: 5,949,210,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 TC<br>
 
@@ -673,20 +661,9 @@ TC<br>
 **Heliports**<br>
 240 (2025)<br>
 
-**Pipelines**<br>
-14,666 km gas, 3,293 km oil (2017)<br>
-
 **Railways**<br>
 _total_: 11,497 km (2018)<br>
 _standard gauge_: 11,497 km (2018) 1.435-m gauge (1.435 km high speed train)<br>
-
-**Roadways**<br>
-_total_: 68,526 km (2023)<br>
-_paved_: 24,082 km (2018) (includes 2,159 km of expressways)<br>
-_unpaved_: 43,251 km (2018)<br>
-
-**Waterways**<br>
-1,200 km (2010)<br>
 
 **Merchant marine**<br>
 _total_: 1,170 (2023)<br>
@@ -704,7 +681,7 @@ _key ports_: Haydarpasa, Istanbul, Izmir, Mersin, Nemrut Limani Bay, Samsun<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Turkish Armed Forces (TAF; Türk Silahlı Kuvvetleri, TSK): Turkish Land Forces (Türk Kara Kuvvetleri), Turkish Naval Forces (Türk Deniz Kuvvetleri; includes naval air and naval infantry), Turkish Air Forces (Türk Hava Kuvvetleri)<br><br>Ministry of Interior: Gendarmerie of the Turkish Republic (aka Gendarmerie General Command), Turkish Coast Guard Command, National Police (2024)<br>
+Turkish Armed Forces (TAF; Türk Silahlı Kuvvetleri, TSK): Turkish Land Forces (Türk Kara Kuvvetleri), Turkish Naval Forces (Türk Deniz Kuvvetleri; includes naval air and naval infantry), Turkish Air Forces (Türk Hava Kuvvetleri)<br><br>Ministry of Interior: Gendarmerie General Command (aka Gendarmerie of the Turkish Republic), Turkish Coast Guard Command, General Directorate of Security (National Police) (2025)<br>
 <strong>note:</strong> the Gendarmerie (Jandarma) is responsible for the maintenance of the public order in areas that fall outside the jurisdiction of police forces (generally in rural areas); in wartime, the Gendarmerie and Coast Guard would be placed under the operational control of the Land Forces and Naval Forces, respectively<br>
 
 **Military expenditures**<br>
@@ -726,7 +703,7 @@ mandatory military service for men at age 20; service can be delayed if in unive
 
 **Military deployments**<br>
 approximately 150 (Azerbaijan; monitoring cease-fire, clearing mines); 250 Bosnia-Herzegovina (EUFOR); approximately 30-35,000 Cyprus; 800 Kosovo (NATO/KFOR); 130 Lebanon (UNIFIL); estimated 500 Libya; up to 5,000 Qatar; approximately 200 Somalia (training mission) (2023)<br>
-<strong>note:</strong> Turkey maintains significant military forces in both Iraq and Syria; size estimates vary as some forces are long-term deployments while others are deployed for specific operations; between 2016 and 2020, Turkey conducted four significant military ground campaigns in northern Syria with the stated purpose of securing its southern border; Turkey also has deployed troops into northern Iraq on numerous occasions to combat the Kurdistan Worker's Party (PKK), including large operations involving thousands of troops in 2007, 2011, and 2018, and smaller-scale operations in 2021 and 2022; Turkey has also conducted numerous air strikes in both Iraq and Syria<br>
+<strong>note:</strong> Turkey maintains military forces in both Iraq and Syria; size estimates vary as some forces are long-term deployments while others are deployed for specific operations<br>
 
 **Military - note**<br>
 the Turkish Armed Forces (TAF) have a range of responsibilities, including protecting the country's territory and sovereignty, participating in international peacekeeping operations, fulfilling Türkiye’s military commitments to NATO, providing disaster/humanitarian relief and assistance to domestic law enforcement if requested by civil authorities, and supporting the country's overall national security interests; the TAF also has overall responsibility for the security of Türkiye’s borders; Türkiye is active in international peacekeeping and other security operations under the EU, NATO, and the UN, as well as under bilateral agreements with some countries; the TAF has established expeditionary military bases in northern Cyprus, Qatar, Somalia, and Sudan<br><br>Türkiye has been a member of NATO since 1952 and hosts a considerable NATO and US military presence, including the headquarters for a NATO Land Command and a Rapid Deployment Corps, multiple airbases for NATO and US aircraft, NATO air/missile defense systems, and training centers; the TAF is the second-largest military in NATO behind the US and exercises regularly with NATO partners; Türkiye's geographic location at the southeastern flank of the Alliance give it and the TAF a critical role in regional security<br><br>the TAF is a large, well-equipped force comprised of a mix of professionals and conscripts; it has considerable operational experience; in addition to peacekeeping and military assistance operations in recent years in such places as Afghanistan (NATO), Bosnia and Herzegovina (EU), Kosovo (NATO), Lebanon (UN), and Somalia (bilateral), it has conducted combat missions of varying duration and scale in Iraq, Libya, and Syria; ; in Syria, it occupies a large swatch of territory and maintain thousands of troops; since the 1980s, the TAF has been involved in a protracted counterinsurgency campaign against the US-designated terrorist group the Kurdistan Worker’s Party or PKK, a Kurdish militant political organization and armed guerrilla movement, which historically operated throughout Kurdistan but is now primarily based in the mountainous Kurdish-majority regions of southeastern Türkiye and northern Iraq; other key areas of concern for the TAF include tensions with fellow NATO member Greece over territorial disputes and Cyprus, tensions between neighboring Armenia and Azerbaijan, conflict in the Middle East, threats from the terrorist groups al-Qa’ida and the Islamic State of Iraq and ash-Sham, and the Russia-Ukraine war; under a long-range (2033) strategic plan, the TAF continues an effort to modernize its equipment and force structure<br><br>Türkiye’s military has a rich history that it traces back to 200 B.C., although the modern TAF was formed following the collapse of the Ottoman Empire at the conclusion of the Turkish War of Independence (1919-1923); the TAF has traditionally had a significant influence in the country as the “guardian” of Turkish politics, but its political role was diminished after the failed 2016 coup attempt; the military has a substantial stake in Türkiye's economy through a holding company that is involved in the automotive, energy, finance, and logistics sectors, as well as iron and steel production (2024)<br>

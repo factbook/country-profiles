@@ -107,10 +107,10 @@ _15-64 years_: 57.5% (male 11,702,734/female 11,372,249)<br>
 _65 years and over_: 2.9% (2024 est.) (male 535,925/female 629,340)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 84.6<br>
-_youth dependency ratio_: 80.2<br>
-_elderly dependency ratio_: 4.8<br>
-_potential support ratio_: 22.5 (2021 est.)<br>
+_total dependency ratio_: 82.7 (2024 est.)<br>
+_youth dependency ratio_: 77.5 (2024 est.)<br>
+_elderly dependency ratio_: 5.2 (2024 est.)<br>
+_potential support ratio_: 19.3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 20 years (2024 est.)<br>
@@ -240,7 +240,7 @@ _female_: 8 years (2018)<br>
 ## Environment
 
 **Environment - current issues**<br>
-limited natural freshwater resources; inadequate supplies of potable water; soil degradation; overgrazing; deforestation (much of the remaining forests are being cut down for fuel and building materials); desertification; air and water pollution in overcrowded urban areas<br>
+limited natural freshwater resources; inadequate potable water; soil degradation; overgrazing; deforestation (cut down for fuel and building materials); desertification; air and water pollution in urban areas<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection<br>
@@ -263,12 +263,6 @@ _rate of urbanization_: 3.34% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to civil conflict, population displacement, and economic slowdown - </em>the latest analysis estimated the number of people in crisis or emergency food insecurity at 15.3 million people (35% of the population analyzed) between May and October 2023; although the levels of acute food insecurity have declined compared to the same season in 2022, largely due to seasonal improvements and the scale‑up of humanitarian assistance in 2022, the situation could deteriorate in areas where humanitarian assistance faces access constraints; the ban on women’s participation in the humanitarian response poses a challenge to the delivery of quality humanitarian assistance leading to significant additional access constraints, particularly to the most vulnerable, women and children (2023)<br>
-
-**Revenue from forest resources**<br>
-0.2% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.45% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 62.49 micrograms per cubic meter (2019 est.)<br>
@@ -368,8 +362,8 @@ none<strong><br><br>Note</strong>:  the Afghan Embassy closed in March 2022<br>
 _embassy_: the United States does not maintain a presence in Afghanistan and its diplomatic mission to Afghanistan has relocated to Doha, Qatar<br>
 
 **Flag description**<br>
-three equal vertical bands of black (hoist side), red, and green, with the national emblem in white centered on the red band and slightly overlapping the other 2 bands; the center of the emblem features a mosque with pulpit and flags on either side, below the mosque are Eastern Arabic numerals for the solar year 1298 (1919 in the Gregorian calendar, the year of Afghan independence from the UK); this central image is circled by a border consisting of sheaves of wheat on the left and right, in the upper-center is an Arabic inscription of the Shahada (Muslim creed) below which are rays of the rising sun over the Takbir (Arabic expression meaning "God is great"), and at bottom center is a scroll bearing the name Afghanistan; black signifies the past, red is for the blood shed for independence, and green can represent either hope for the future, agricultural prosperity, or Islam<br>
-<strong>note 1: </strong>the United States has not recognized the Taliban or any other entity as the government of Afghanistan and, accordingly, continues to display the flag of Afghanistan as set forth in the country's constitution of 2004<strong><br><br>note 2:</strong> Afghanistan had more changes to its national flag in the 20th century - 19 by one count - than any other country; the colors black, red, and green appeared on most of them<br>
+three equal vertical bands of black (hoist side), red, and green, with the national emblem in white centered on the red band and slightly overlapping the other 2 bands; the center of the emblem features a mosque with pulpit and flags on either side; below the mosque are Eastern Arabic numerals for the solar year 1298 (1919 in the Gregorian calendar, the year of Afghan independence from the UK); this central image is circled by a border consisting of sheaves of wheat on the left and right, in the upper-center is an Arabic inscription of the Shahada (Muslim creed) below which are rays of the rising sun over the Takbir (Arabic expression meaning "God is great"), and at bottom center is a scroll bearing the name Afghanistan; black signifies the past, red is for the blood shed for independence, and green can represent either hope for the future, agricultural prosperity, or Islam<br>
+<strong>note 1: </strong>the United States has not recognized the Taliban or any other entity as the government of Afghanistan and, accordingly, continues to display the flag of Afghanistan as set forth in the country's constitution of 2004<strong><br><br>note 2:</strong> Afghanistan had more changes to its national flag in the 20th century -- 19 by one count -- than any other country; the colors black, red, and green appeared on most of them<br>
 
 **National symbol(s)**<br>
 lion; national colors: red, green, black<br>
@@ -412,9 +406,9 @@ $17.233 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-2.3% (2019 est.)<br>
-0.63% (2018 est.)<br>
-4.98% (2017 est.)<br>
+-6.6% (2024 est.)<br>
+-4.6% (2023 est.)<br>
+13.7% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -444,19 +438,19 @@ small-scale production of bricks, textiles, soap, furniture, shoes, fertilizer, 
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.696 million (2023 est.)<br>
+9.133 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-14.39% (2023 est.)<br>
+13.3% (2024 est.)<br>
+14% (2023 est.)<br>
 14.1% (2022 est.)<br>
-11.93% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.1% (2023 est.)<br>
-_male_: 16.8% (2023 est.)<br>
-_female_: 30.4% (2023 est.)<br>
+_total_: 16.7% (2024 est.)<br>
+_male_: 15.8% (2024 est.)<br>
+_female_: 27% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -522,7 +516,7 @@ $8.207 billion (2018 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$2.847 billion (2023 est.)<br>
+$2.717 billion (2023 est.)<br>
 <strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -585,12 +579,12 @@ _total subscriptions_: 23 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 57 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Afghanistan's telecom sector is facing challenges providing adequate coverage to all of the population; prior to the Taliban regaining power, the World Bank and other donors supported the development of a nationwide fiber backbone and there is terrestrial cable connectivity to five neighboring countries; work on the 'Wakhan Corridor Fiber Optic Survey Project' to connect to China has faced obstacles because of Afghanistan's economic issues. (2021)<br>
+_general assessment_: Afghanistan's telecom sector is facing challenges providing adequate coverage to all of the population; prior to the Taliban regaining power, the World Bank and other donors supported the development of a nationwide fiber backbone, and there is terrestrial cable connectivity to five neighboring countries; work on the Wakhan Corridor Fiber Optic Survey Project to connect to China has faced obstacles because of Afghanistan's economic issues (2021)<br>
 _domestic_: before the Taliban takeover in August 2021, less than 1 per 100 for fixed-line teledensity; 57 per 100 for mobile-cellular subscriptions (2021)<br>
 _international_: country code - 93; multiple VSAT's&nbsp;provide international and domestic voice and data connectivity (2019)<br>
 
 **Broadcast media**<br>
-under the Taliban government, independent media outlets have decreased in number and are probably self-censoring criticism of the Taliban and the Ministry of Information and Culture monitors all mass media in Afghanistan; television and radio are key media platforms; only about a fifth of Afghans use the internet, mostly through smartphones (2023)<br>
+under the Taliban, independent media outlets have decreased and are probably self-censoring; the Ministry of Information and Culture monitors all mass media; television and radio are key media platforms; only about a fifth of Afghans use the internet, mostly through smartphones (2023)<br>
 
 **Internet country code**<br>
 .af<br>
@@ -604,12 +598,6 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 3 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 13<br>
-_annual passenger traffic on registered air carriers_: 1,722,612 (2018)<br>
-_annual freight traffic on registered air carriers_: 29.56 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 YA<br>
 
@@ -618,17 +606,6 @@ YA<br>
 
 **Heliports**<br>
 8 (2025)<br>
-
-**Pipelines**<br>
-466 km gas (2013)<br>
-
-**Roadways**<br>
-_total_: 34,903 km<br>
-_paved_: 17,903 km<br>
-_unpaved_: 17,000 km (2021)<br>
-
-**Waterways**<br>
-1,200 km (2011) (chiefly Amu Darya, which handles vessels up to 500 DWT)<br>
 
 ## Military and Security
 
@@ -643,7 +620,7 @@ the Taliban claims authority over a Ministry of Defense and a National Army (aka
 2.9% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-the Taliban claims to have 190,000 personnel under the Ministry of Defense and 215,000 under the Ministry of Interior (Jan 2025)<br>
+the Taliban claims to have 190,000 personnel under the Ministry of Defense and 215,000 under the Ministry of Interior (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Taliban military/security forces are armed with weapons and equipment captured in 2021 from the Afghan National Defense and Security Forces, which was largely equipped with Russian/Soviet-era and US material (2024)<br>

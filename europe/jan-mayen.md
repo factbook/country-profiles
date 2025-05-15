@@ -68,13 +68,13 @@ barren volcanic spoon-shaped island with some moss and grass flora; island consi
 ## People and Society
 
 **Population**<br>
-_total_: no indigenous inhabitants<br>
-<strong>note:</strong> military personnel operate the the weather and coastal services radio station<br>
+_total_: no permanent inhabitants<br>
+<strong>note:</strong> military personnel present on the south side of the island; meteorological stations<br>
 
 ## Environment
 
 **Environment - current issues**<br>
-pollutants transported from southerly latitudes by winds, ocean currents, and rivers accumulate in the food chains of native animals; climate change<br>
+pollutants transported from southerly latitudes by winds and ocean currents<br>
 
 **Climate**<br>
 arctic maritime with frequent storms and persistent fog<br>
@@ -91,10 +91,10 @@ _conventional short form_: Jan Mayen<br>
 _etymology_: named after Dutch Captain Jan Jacobszoon MAY, one of the first explorers to reach the island in 1614<br>
 
 **Dependency status**<br>
-territory of Norway; since August 1994, administered from Oslo through the county governor (fylkesmann) of Nordland; however, authority has been delegated to a station commander of the Norwegian Defense Communication Service; in 2010, Norway designated the majority of Jan Mayen as a nature reserve<br>
+territory of Norway; since 1994, administered from Oslo through the county governor (<em>fylkesmann</em>) of Nordland; however, authority has been delegated to a station commander of the Norwegian Defense Communication Service; in 2010, Norway designated the majority of Jan Mayen as a nature reserve<br>
 
 **Legal system**<br>
-the laws of Norway apply where applicable&nbsp;<br>
+the laws of Norway apply<br>
 
 **Flag description**<br>
 the flag of Norway is used<br>

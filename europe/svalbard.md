@@ -63,7 +63,7 @@ the small population is primarily concentrated on the island of Spitsbergen in a
 ice floes often block the entrance to Bellsund (a transit point for coal export) on the west coast and occasionally make parts of the northeastern coast inaccessible to maritime traffic<br>
 
 **Geography - note**<br>
-northernmost part of the Kingdom of Norway; consists of nine main islands; glaciers and snowfields cover 60% of the total area; Spitsbergen Island is the site of the Svalbard Global Seed Vault, a seed repository established by the Global Crop Diversity Trust and the Norwegian Government<br>
+northernmost part of the Kingdom of Norway; consists of nine main islands; glaciers and snowfields cover 60% of the total area<br>
 
 ## People and Society
 
@@ -91,9 +91,6 @@ the small population is primarily concentrated on the island of Spitsbergen in a
 
 ## Environment
 
-**Environment - current issues**<br>
-ice floes are a maritime hazard; past exploitation of mammal species (whale, seal, walrus, and polar bear) severely depleted the populations, but a gradual recovery seems to be occurring<br>
-
 **Climate**<br>
 arctic, tempered by warm North Atlantic Current; cool summers, cold winters; North Atlantic Current flows along west and north coasts of Spitsbergen, keeping water open and navigable most of the year<br>
 
@@ -106,26 +103,26 @@ _other_: 100% (2018 est.)<br>
 **Country name**<br>
 _conventional long form_: none<br>
 _conventional short form_: Svalbard (sometimes referred to as Spitsbergen, the largest island in the archipelago)<br>
-_etymology_: 12th century Norse accounts speak of the discovery of a "Svalbard" - literally "cold shores" - but they may have referred to Jan Mayen Island or eastern Greenland; the archipelago was traditionally known as Spitsbergen, but Norway renamed it Svalbard in the 1920s when it assumed sovereignty of the islands<br>
+_etymology_: the archipelago was traditionally known as Spitsbergen, a Dutch name meaning "jagged peaks," but Norway renamed it Svalbard in the 1920s when it assumed sovereignty of the islands, from the Norwegian <em>sval </em>(cold) and <em>bard </em>(shore); the Norwegian name may have been used during the Norse era for other locations<br>
 
 **Government type**<br>
 non-self-governing territory of Norway<br>
 
 **Dependency status**<br>
-territory of Norway; administered by the Polar Department of the Ministry of Justice, through a governor (sysselmann) residing in Longyearbyen, Spitsbergen; by treaty (9 February 1920), sovereignty was awarded to Norway<br>
+territory of Norway; administered by the Polar Department of the Ministry of Justice, through a governor (<em>sysselmann</em>) residing in Longyearbyen, Spitsbergen; by treaty (9 February 1920), sovereignty was awarded to Norway<br>
 
 **Capital**<br>
 _name_: Longyearbyen<br>
 _geographic coordinates_: 78 13 N, 15 38 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the name in Norwegian means Longyear Town; the site was established by and named after John LONGYEAR, whose Arctic Coal Company began mining operations there in 1906<br>
+_etymology_: the name in Norwegian means Longyear Town; the site was established by and named after John Munro LONGYEAR, whose Arctic Coal Company began mining operations there in 1906<br>
 
 **Independence**<br>
 none (territory of Norway)<br>
 
 **Legal system**<br>
-only the laws of Norway made explicitly applicable to Svalbard have effect there; the Svalbard Act and the Svalbard Environmental Protection Act, and certain regulations, apply only to Svalbard; the Spitsbergen Treaty and the Svalbard Treaty grant certain rights to citizens and corporations of signatory nations; as of June 2017, 45 nations had ratified the Svalbard Treaty<br>
+laws of Norway that explicitly apply to Svalbard, including the Svalbard Act, the Svalbard Environmental Protection Act, and certain regulations; the Spitsbergen Treaty and the Svalbard Treaty grant certain rights to citizens and corporations of signatory nations<br>
 
 **Citizenship**<br>
 see Norway<br>
@@ -176,15 +173,12 @@ _domestic_: the Svalbard Satellite Station - connected to the mainland via the S
 _international_: country code - 47-790; the Svalbard Undersea Cable System is a twin communications cable that connects Svalbard to mainland Norway; the system is the sole telecommunications link to the archipelago (2019)<br>
 
 **Broadcast media**<br>
-the Norwegian Broadcasting Corporation (NRK) began direct TV transmission to Svalbard via satellite in 1984; Longyearbyen households have access to 3 NRK radio and 2 TV stations<br>
+Norwegian Broadcasting Corporation (NRK) provides TV transmission to Svalbard via satellite; access to 3 NRK radio stations and 2 TV stations<br>
 
 **Internet country code**<br>
 .sj<br>
 
 ## Transportation
-
-**Roadways**<br>
-_total_: 40 km (2020)<br>
 
 **Ports**<br>
 _total ports_: 3 (2024)<br>
@@ -201,7 +195,7 @@ _key ports_: Barentsburg, Longyearbyen, Ny Alesund<br>
 no regular military forces<br>
 
 **Military - note**<br>
-Svalbard is a territory of Norway, demilitarized by treaty on 9 February 1920; Norwegian military activity is limited to fisheries surveillance by the Norwegian Coast Guard (2024)<br>
+Svalbard is a territory of Norway, demilitarized by treaty on 9 February 1920; Norwegian military activity is limited to fisheries surveillance by the Norwegian Coast Guard (2025)<br>
 
 ## Transnational Issues
 

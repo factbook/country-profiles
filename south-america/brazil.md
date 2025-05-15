@@ -85,7 +85,7 @@ the vast majority of people live along, or relatively near, the Atlantic coast i
 recurring droughts in northeast; floods and occasional frost in south<br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> largest country in South America and in the Southern Hemisphere; shares common boundaries with every South American country except Chile and Ecuador; most of the Pantanal, the world's largest tropical wetland, extends through the west central part of the country; shares Iguaçu Falls (Iguazú Falls), the world's largest waterfalls system, with Argentina<br><br><strong>note 2:</strong> cassava (manioc) the sixth most important food crop in the world -- after maize, rice, wheat, potatoes, and soybeans -- probably originated in the west-central part of Brazil; pineapples are probably indigenous to the southern Brazil-Paraguay region<br><br><strong>note 3:</strong> Rocas Atoll, located off the northeast coast of Brazil, is the only atoll in the South Atlantic<br>
+<strong>note 1:</strong> largest country in South America and in the Southern Hemisphere; shares common boundaries with every South American country except Chile and Ecuador; most of the Pantanal, the world's largest tropical wetland, extends through the west central part of the country; shares Iguaçu Falls (Iguazú Falls), the world's largest waterfalls system, with Argentina<br><br><strong>note 2:</strong> Rocas Atoll, located off the northeast coast of Brazil, is the only atoll in the South Atlantic<br>
 
 ## People and Society
 
@@ -114,10 +114,10 @@ _15-64 years_: 69.5% (male 75,889,089/female 77,118,722)<br>
 _65 years and over_: 10.9% (2024 est.) (male 10,251,809/female 13,677,901)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 43.1<br>
-_youth dependency ratio_: 29.4<br>
-_elderly dependency ratio_: 13.7<br>
-_potential support ratio_: 7.3 (2021 est.)<br>
+_total dependency ratio_: 43.8 (2024 est.)<br>
+_youth dependency ratio_: 28.2 (2024 est.)<br>
+_elderly dependency ratio_: 15.6 (2024 est.)<br>
+_potential support ratio_: 6.4 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 35.1 years (2024 est.)<br>
@@ -238,7 +238,7 @@ _female_: 16 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation in Amazon Basin destroys the habitat and endangers a multitude of plant and animal species indigenous to the area; illegal wildlife trade; illegal poaching; air and water pollution in Rio de Janeiro, Sao Paulo, and several other large cities; land degradation and water pollution caused by improper mining activities; wetland degradation; severe oil spills<br>
+deforestation in Amazon Basin; illegal wildlife trade; illegal poaching; air and water pollution in Rio de Janeiro, Sao Paulo, and other large cities; land degradation and water pollution from mining; wetland degradation; oil spills<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -258,12 +258,6 @@ _other_: 14.2% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 87.8% of total population (2023)<br>
 _rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.62% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.01% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 10.94 micrograms per cubic meter (2019 est.)<br>
@@ -317,7 +311,7 @@ _name_: Bras&iacute;lia<br>
 _geographic coordinates_: 15 47 S, 47 55 W<br>
 _time difference_: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)<br>
 _time zone note_: Brazil has four time zones, including one for the Fernando de Noronha Islands<br>
-_etymology_: name bestowed on the new capital of Brazil in 1960; previous Brazilian capitals were Salvador (1549-1763) and Rio de Janeiro (1763 to 1960)<br>
+_etymology_: the name is the Latinized form of the country name, bestowed on the new capital of Brazil in 1960; previous Brazilian capitals were Salvador (1549-1763) and Rio de Janeiro (1763 to 1960)<br>
 
 **Administrative divisions**<br>
 26 states (estados, singular - estado) and 1 federal district* (distrito federal); Acre, Alagoas, Amapa, Amazonas, Bahia, Ceara, Distrito Federal*, Espirito Santo, Goias, Maranhao, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Para, Paraiba, Parana, Pernambuco, Piaui, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondonia, Roraima, Santa Catarina, S&atilde;o Paulo, Sergipe, Tocantins<br>
@@ -329,7 +323,8 @@ _etymology_: name bestowed on the new capital of Brazil in 1960; previous Brazil
 Independence Day, 7 September (1822)<br>
 
 **Legal system**<br>
-civil law; note - a new civil law code was enacted in 2002 replacing the 1916 code<br>
+civil law<br>
+<strong>note:</strong> a new civil-law code in 2002 replaced the 1916 code<br>
 
 **Constitution**<br>
 _history_: several previous; latest ratified 5 October 1988<br>
@@ -454,9 +449,9 @@ $2.174 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.59% (2023 est.)<br>
-9.28% (2022 est.)<br>
-8.3% (2021 est.)<br>
+4.4% (2024 est.)<br>
+4.6% (2023 est.)<br>
+9.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -492,19 +487,19 @@ textiles, shoes, chemicals, cement, lumber, iron ore, tin, steel, aircraft, moto
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-106.132 million (2023 est.)<br>
+106.79 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7.95% (2023 est.)<br>
-9.23% (2022 est.)<br>
-13.16% (2021 est.)<br>
+7.6% (2024 est.)<br>
+7.9% (2023 est.)<br>
+9.2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.9% (2023 est.)<br>
-_male_: 15.6% (2023 est.)<br>
-_female_: 20.9% (2023 est.)<br>
+_total_: 18% (2024 est.)<br>
+_male_: 15.7% (2024 est.)<br>
+_female_: 20.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -540,19 +535,19 @@ _expenditures_: $666.279 billion (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-14.15% (of GDP) (2023 est.)<br>
+14.2% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$21.745 billion (2023 est.)<br>
--$40.884 billion (2022 est.)<br>
--$40.409 billion (2021 est.)<br>
+-$61.194 billion (2024 est.)<br>
+-$27.933 billion (2023 est.)<br>
+-$42.157 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$389.215 billion (2023 est.)<br>
+$388.333 billion (2024 est.)<br>
+$389.192 billion (2023 est.)<br>
 $380.492 billion (2022 est.)<br>
-$315.446 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -564,9 +559,9 @@ soybeans, crude petroleum, iron ore, raw sugar, corn (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$337.04 billion (2023 est.)<br>
-$368.588 billion (2022 est.)<br>
-$300.091 billion (2021 est.)<br>
+$377.05 billion (2024 est.)<br>
+$340.195 billion (2023 est.)<br>
+$369.861 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -578,22 +573,22 @@ refined petroleum, fertilizers, crude petroleum, vehicle parts/accessories, gas 
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$318.857 billion (2024 est.)<br>
 $355.021 billion (2023 est.)<br>
 $324.673 billion (2022 est.)<br>
-$362.21 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$204.737 billion (2023 est.)<br>
+$198.582 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: reals (BRL) per US dollar -<br>
+5.389 (2024 est.)<br>
 4.994 (2023 est.)<br>
 5.164 (2022 est.)<br>
 5.394 (2021 est.)<br>
 5.155 (2020 est.)<br>
-3.944 (2019 est.)<br>
 
 ## Energy
 
@@ -667,7 +662,7 @@ _domestic_: fixed-line connections stand at roughly 13 per 100 persons;&nbsp; mo
 _international_: country code - 55; landing points for a number of submarine cables, including Malbec, ARBR, Tamnat, SAC, SAm-1, Atlantis -2, Seabras-1, Monet, EllaLink, BRUSA, GlobeNet, AMX-1, Brazilian Festoon, Bicentenario, Unisur, Junior, Americas -II,&nbsp;SAE x1, SAIL, SACS&nbsp;and&nbsp;SABR that provide direct connectivity to South and Central America, the Caribbean, the US, Africa, and Europe;&nbsp;satellite earth stations - 3 Intelsat (Atlantic Ocean), 1 Inmarsat (Atlantic Ocean region east), connected by microwave relay system to Mercosur Brazilsat B3 satellite earth station; satellites&nbsp;is a&nbsp;major communication platform, as it is almost impossible to lay fiber optic cable in the thick vegetation (2019)<br>
 
 **Broadcast media**<br>
-state-run Radiobras operates a radio and a TV network; more than 1,000 radio stations and more than 100 TV channels operating - mostly privately owned; private media ownership highly concentrated (2022)<br>
+state-run Radiobras operates a radio and a TV network; more than 1,000 radio stations and more than 100 TV channels operating, mostly privately owned; private media ownership highly concentrated (2022)<br>
 
 **Internet country code**<br>
 .br<br>
@@ -681,12 +676,6 @@ _subscriptions per 100 inhabitants_: 23 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 9 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 443<br>
-_annual passenger traffic on registered air carriers_: 102,109,977 (2018)<br>
-_annual freight traffic on registered air carriers_: 1,845,650,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 PP<br>
 
@@ -696,23 +685,12 @@ PP<br>
 **Heliports**<br>
 1,871 (2025)<br>
 
-**Pipelines**<br>
-5,959 km refined petroleum product (1,165 km distribution, 4,794 km transport), 11,696 km natural gas (2,274 km distribution, 9,422 km transport), 1,985 km crude oil (distribution), 77 km ethanol/petrochemical (37 km distribution, 40 km transport) (2016)<br>
-
 **Railways**<br>
 _total_: 29,849.9 km (2014)<br>
 _standard gauge_: 194 km (2014) 1.435-m gauge<br>
 _narrow gauge_: 23,341.6 km (2014) 1.000-m gauge (24 km electrified)<br>
 _broad gauge_: 5,822.3 km (2014) 1.600-m gauge (498.3 km electrified)<br>
 _dual gauge_: 492 km (2014) 1.600-1.000-m gauge<br>
-
-**Roadways**<br>
-_total_: 2 million km<br>
-_paved_: 246,000 km<br>
-_unpaved_: 1.754 million km (2018)<br>
-
-**Waterways**<br>
-50,000 km (2012) (most in areas remote from industry and population)<br>
 
 **Merchant marine**<br>
 _total_: 888 (2023)<br>
@@ -741,7 +719,7 @@ Brazilian Armed Forces (Forças Armadas Brasileiras): Brazilian Army (Exercito B
 1.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 360,000 active military personnel (220,000 Army; 70,000 Navy; 70,000 Air Force); approximately 400,000 paramilitary security forces (2024)<br>
+approximately 360,000 active military personnel (220,000 Army; 70,000 Navy; 70,000 Air Force) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Brazilian military's inventory consists of a mix of domestically produced and imported weapons, largely from Europe and the US; Brazil's defense industry designs and manufactures equipment for all three military services and for export; it also jointly produces equipment with other countries (2024)<br>
@@ -751,7 +729,7 @@ the Brazilian military's inventory consists of a mix of domestically produced an
 <strong>note:</strong> in 2024, women were reported to comprise approximately 10% of the Brazilian military<br>
 
 **Military - note**<br>
-the Brazilian Armed Forces (BAF) are the second largest military in the Western Hemisphere behind the US; they are responsible for external security and protecting the country's sovereignty but also have a considerable internal security role; the BAF’s missions include patrolling and protecting the country’s long borders and coastline and extensive territorial waters and river network, assisting with internal security, providing domestic disaster response and humanitarian assistance, and participating in multinational peacekeeping missions<br><br>in the past decade, the BAF has mobilized thousands of troops to conduct counternarcotics operations, support the police in combating crime, assist with disease outbreaks and humanitarian missions, and provide security for major events such as the 2014 World Cup and the 2016 Summer Olympics; it has also cooperated regularly with neighboring countries such as Argentina and Paraguay on border security to combat smuggling and trafficking <br><br>Brazil has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the origins of Brazil's military stretch back to the 1640s; Brazil provided a 25,000-man expeditionary force with air and ground units to fight with the Allies in the Mediterranean Theater during World War II; the Navy participated in the Battle of the Atlantic (2024)<br>
+the Brazilian Armed Forces (BAF) are the second largest military in the Western Hemisphere behind the US; they are responsible for external security and protecting the country's sovereignty but also have a considerable internal security role; the BAF’s missions include patrolling and protecting the country’s long borders and coastline and extensive territorial waters and river network, assisting with internal security, providing domestic disaster response and humanitarian assistance, and participating in multinational peacekeeping missions<br><br>in the past decade, the BAF has mobilized thousands of troops to conduct counternarcotics operations, support the police in combating crime, assist with disease outbreaks and humanitarian missions, and provide security for major events such as the 2014 World Cup and the 2016 Summer Olympics; it has also cooperated regularly with neighboring countries such as Argentina and Paraguay on border security to combat smuggling and trafficking <br><br>Brazil has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the origins of Brazil's military stretch back to the 1640s; Brazil provided a 25,000-man expeditionary force with air and ground units to fight with the Allies in the Mediterranean Theater during World War II; the Navy participated in the Battle of the Atlantic (2025)<br>
 
 ## Space
 

@@ -105,10 +105,10 @@ _15-64 years_: 66.9% (male 3,667,584/female 3,563,848)<br>
 _65 years and over_: 7.6% (2024 est.) (male 395,345/female 427,400)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.8<br>
-_youth dependency ratio_: 42.2<br>
-_elderly dependency ratio_: 11.6<br>
-_potential support ratio_: 8.6 (2021 est.)<br>
+_total dependency ratio_: 49.6 (2024 est.)<br>
+_youth dependency ratio_: 38.2 (2024 est.)<br>
+_elderly dependency ratio_: 11.4 (2024 est.)<br>
+_potential support ratio_: 8.8 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 29.2 years (2024 est.)<br>
@@ -237,7 +237,7 @@ _female_: 15 years (2017)<br>
 ## Environment
 
 **Environment - current issues**<br>
-water shortages; soil eroding into the sea damages coral reefs; deforestation<br>
+soil eroding into the sea damages coral reefs; deforestation<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
@@ -257,12 +257,6 @@ _other_: 4.6% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 84.4% of total population (2023)<br>
 _rate of urbanization_: 1.64% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.03% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 7.59 micrograms per cubic meter (2019 est.)<br>
@@ -302,7 +296,7 @@ presidential republic<br>
 _name_: Santo Domingo<br>
 _geographic coordinates_: 18 28 N, 69 54 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named after Saint Dominic de GUZMAN (1170-1221), founder of the Dominican Order<br>
+_etymology_: named after Saint Domingo de GUZMAN (1170-1221), founder of the Dominican Order; the city's full name was originally Santo Domingo de Guzman<br>
 
 **Administrative divisions**<br>
 31 provinces (provincias, singular - provincia), 1 district* (distrito); Azua, Baoruco, Barahona, Dajab&oacute;n, Distrito Nacional*, Duarte, El&iacute;as Pi&ntilde;a, El Seibo, Espaillat, Hato Mayor, Hermanas Mirabal, Independencia, La Altagracia, La Romana, La Vega, Mar&iacute;a Trinidad S&aacute;nchez, Monse&ntilde;or Nouel, Monte Cristi, Monte Plata, Pedernales, Peravia, Puerto Plata, Saman&aacute;, S&aacute;nchez Ram&iacute;rez, San Crist&oacute;bal, San Jos&eacute; de Ocoa, San Juan, San Pedro de Macor&iacute;s, Santiago, Santiago Rodr&iacute;guez, Santo Domingo, Valverde<br>
@@ -378,7 +372,7 @@ Alliance for Democracy or APD<br>Broad Front (Frente Amplio)<br>Country Alliance
 ACP, ACS, AOSIS, BCIE, Caricom (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, MINUSMA, NAM, OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA (associated member), UN, UNCTAD, UNESCO, UNHRC, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Sonia GUZM&Aacute;N DE HERN&Aacute;NDEZ (since 18 January 2021)<br>
+_chief of mission_: Ambassador Maria Isabel CASTILLO B&aacute;ez (since January 2025)<br>
 _chancery_: 1715 22nd Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 332-6280<br>
 _FAX_: [1] (202) 265-8057<br>
@@ -435,9 +429,9 @@ $121.444 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.79% (2023 est.)<br>
-8.81% (2022 est.)<br>
-8.24% (2021 est.)<br>
+3.3% (2024 est.)<br>
+4.8% (2023 est.)<br>
+8.8% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -473,19 +467,19 @@ tourism, sugar processing, gold mining, textiles, cement, tobacco, electrical co
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.295 million (2023 est.)<br>
+5.413 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.56% (2023 est.)<br>
+5.5% (2024 est.)<br>
+5.6% (2023 est.)<br>
 5.5% (2022 est.)<br>
-7.7% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.8% (2023 est.)<br>
-_male_: 9.5% (2023 est.)<br>
-_female_: 15.4% (2023 est.)<br>
+_total_: 11.7% (2024 est.)<br>
+_male_: 9.2% (2024 est.)<br>
+_female_: 15.5% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -520,7 +514,7 @@ _expenditures_: $20.072 billion (2022 est.)<br>
 37.2% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-13.82% (of GDP) (2022 est.)<br>
+13.8% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -558,21 +552,22 @@ refined petroleum, cars, natural gas, plastic products, crude petroleum (2023)<b
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$13.424 billion (2024 est.)<br>
 $15.547 billion (2023 est.)<br>
 $14.523 billion (2022 est.)<br>
-$13.125 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$33.791 billion (2023 est.)<br>
+$35.044 billion (2023 est.)<br>
+<strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Dominican pesos (DOP) per US dollar -<br>
+59.565 (2024 est.)<br>
 56.158 (2023 est.)<br>
 55.141 (2022 est.)<br>
 57.221 (2021 est.)<br>
 56.525 (2020 est.)<br>
-51.295 (2019 est.)<br>
 
 ## Energy
 
@@ -630,7 +625,7 @@ _domestic_: fixed-line teledensity is about 10 per 100 persons; mobile cellular 
 _international_: country code - 1-809; 1-829; 1-849; landing point for the&nbsp;ARCOS-1, Antillas 1, AMX-1, SAm-1,&nbsp;East-West, Deep Blue Cable and the Fibralink submarine cables that provide links to South and Central America, parts of the Caribbean, and US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-combination of state-owned and privately owned broadcast media; 1 state-owned TV network and a number of private TV networks; networks operate repeaters to extend signals throughout country; combination of state-owned and privately owned radio stations with more than 300 radio stations operating (2019)<br>
+combination of state-owned and privately owned broadcast media; 1 state-owned TV network and a number of private TV networks; networks operate repeaters to extend signals throughout country; over 300 state-owned and privately owned radio stations&nbsp; (2019)<br>
 
 **Internet country code**<br>
 .do<br>
@@ -644,10 +639,6 @@ _subscriptions per 100 inhabitants_: 11 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 6<br>
-
 **Civil aircraft registration country code prefix**<br>
 HI<br>
 
@@ -657,18 +648,10 @@ HI<br>
 **Heliports**<br>
 8 (2025)<br>
 
-**Pipelines**<br>
-27 km gas, 103 km oil (2013)<br>
-
 **Railways**<br>
 _total_: 496 km (2014)<br>
 _standard gauge_: 354 km (2014) 1.435-m gauge<br>
 _narrow gauge_: 142 km (2014) 0.762-m gauge<br>
-
-**Roadways**<br>
-_total_: 19,705 km<br>
-_paved_: 9,872 km<br>
-_unpaved_: 9,833 km (2002)<br>
 
 **Merchant marine**<br>
 _total_: 40 (2023)<br>
@@ -698,7 +681,7 @@ Armed Forces of the Dominican Republic: Army of the Dominican Republic (Ejercito
 0.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 55-60,000 Armed Forces personnel; up to 35,000 National Police (2024)<br>
+approximately 55-60,000 Armed Forces personnel; up to 35,000 National Police (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's equipment inventory comes largely from the US, with smaller quantities from such suppliers as Brazil and Spain (2024)<br>

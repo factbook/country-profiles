@@ -105,10 +105,10 @@ _15-64 years_: 64.2% (male 1,674,407/female 1,638,276)<br>
 _65 years and over_: 16.9% (2024 est.) (male 407,080/female 462,838)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.4<br>
-_youth dependency ratio_: 29<br>
-_elderly dependency ratio_: 24.4<br>
-_potential support ratio_: 4.1 (2021 est.)<br>
+_total dependency ratio_: 55.8 (2024 est.)<br>
+_youth dependency ratio_: 29.5 (2024 est.)<br>
+_elderly dependency ratio_: 26.3 (2024 est.)<br>
+_potential support ratio_: 3.8 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 37.9 years (2024 est.)<br>
@@ -253,12 +253,6 @@ _other_: 25.3% (2022 est.)<br>
 _urban population_: 87% of total population (2023)<br>
 _rate of urbanization_: 0.92% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-0.5% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.03% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 8.61 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 34.38 megatons (2016 est.)<br>
@@ -296,7 +290,7 @@ _geographic coordinates_: 41 18 S, 174 47 E<br>
 _time difference_: UTC+12 (17 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in September; ends first Sunday in April<br>
 _time zone note_: New Zealand has two time zones: New Zealand standard time (UTC+12) and Chatham Islands time (45 minutes in advance of New Zealand standard time; UTC+12:45)<br>
-_etymology_: named in 1840 after Arthur WELLESLEY, the first Duke of Wellington and victorious general at the Battle of Waterloo<br>
+_etymology_: named in 1840 after Arthur WELLESLEY, the first Duke of Wellington, who was famous for his victory at Waterloo in 1815 and was a benefactor of the New Zealand Company that settled North Island<br>
 
 **Administrative divisions**<br>
 16 regions and 1 territory*; Auckland, Bay of Plenty, Canterbury, Chatham Islands*, Gisborne, Hawke's Bay, Manawatu-Wanganui, Marlborough, Nelson, Northland, Otago, Southland, Taranaki, Tasman, Waikato, Wellington, West Coast<br>
@@ -392,7 +386,7 @@ _total World Heritage Sites_: 3 (2 natural, 1 mixed)<br>
 _selected World Heritage Site locales_: Te Wahipounamu – South West New Zealand (n); Tongariro National Park (m); New Zealand Sub-Antarctic Islands (n)<br>
 
 **National coat of arms**<br>
-The first quarter of the shield shows four stars that represent the Southern Cross constellation, then three ships symbolizing New Zealand's sea trade. In the second quarter, a fleece represents the sheep farming industry. The wheat sheaf in the third quarter represents the agricultural industry, and the crossed hammers in the fourth quarter represent mining. On either side of the shield are a Māori chieftain holding a <em>taiaha </em>(a Māori war weapon) and a European woman holding the New Zealand flag. St Edward's Crown, shown above the shield, symbolizes the British monarch.<br>
+The first quarter of the shield shows four stars that represent the Southern Cross constellation and three ships that symbolize New Zealand's sea trade. In the second quarter, a fleece represents the sheep farming industry. The wheat sheaf in the third quarter represents the agricultural industry, and the crossed hammers in the fourth quarter represent mining. On either side of the shield are a Māori chieftain holding a <em>taiaha </em>(a Māori war weapon) and a European woman holding the New Zealand flag. St Edward's Crown, shown above the shield, symbolizes the British monarch.<br>
 
 ## Economy
 
@@ -422,9 +416,9 @@ $252.176 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-5.73% (2023 est.)<br>
-7.17% (2022 est.)<br>
-3.94% (2021 est.)<br>
+2.9% (2024 est.)<br>
+5.7% (2023 est.)<br>
+7.2% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -460,19 +454,19 @@ agriculture, forestry, fishing, logs and wood articles, manufacturing, mining, c
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.073 million (2023 est.)<br>
+3.079 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.74% (2023 est.)<br>
+4.9% (2024 est.)<br>
+3.7% (2023 est.)<br>
 3.3% (2022 est.)<br>
-3.78% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.7% (2023 est.)<br>
-_male_: 10.9% (2023 est.)<br>
-_female_: 10.5% (2023 est.)<br>
+_total_: 14.3% (2024 est.)<br>
+_male_: 14.6% (2024 est.)<br>
+_female_: 14% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
@@ -491,11 +485,11 @@ _expenditures_: $88.64 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-54.57% of GDP (2022 est.)<br>
+54.6% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-29.93% (of GDP) (2022 est.)<br>
+29.9% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -533,18 +527,18 @@ refined petroleum, cars, gas turbines, broadcasting equipment, trucks (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$22.065 billion (2024 est.)<br>
 $15.487 billion (2023 est.)<br>
 $14.4 billion (2022 est.)<br>
-$16.114 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: New Zealand dollars (NZD) per US dollar -<br>
+1.652 (2024 est.)<br>
 1.628 (2023 est.)<br>
 1.577 (2022 est.)<br>
 1.414 (2021 est.)<br>
 1.542 (2020 est.)<br>
-1.518 (2019 est.)<br>
 
 ## Energy
 
@@ -606,7 +600,7 @@ _domestic_: fixed-line roughly 13 per 100 and mobile-cellular telephone subscrib
 _international_: country code - 64; landing points for the Southern Cross NEXT, Aqualink, Nelson-Levin, SCCN and Hawaiki submarine cable system providing links to Australia, Fiji, American Samoa, Kiribati, Samo, Tokelau, US and around New Zealand; satellite earth stations - 8 (1 Inmarsat - Pacific Ocean, 7 other) (2019)<br>
 
 **Broadcast media**<br>
-state-owned Television New Zealand operates multiple TV networks and state-owned Radio New Zealand operates 3 radio networks and an external shortwave radio service to the South Pacific region; a small number of national commercial TV and radio stations and many regional commercial television and radio stations are available; cable and satellite TV systems are available, as are a range of streaming services (2019)<br>
+state-owned Television New Zealand operates multiple TV networks; state-owned Radio New Zealand operates 3 radio networks and an external shortwave radio service to the South Pacific region; a small number of national commercial TV and radio stations and many regional commercial TV and radio stations are available; cable and satellite TV systems are available (2019)<br>
 
 **Internet country code**<br>
 .nz<br>
@@ -620,12 +614,6 @@ _subscriptions per 100 inhabitants_: 37 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 15 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 199<br>
-_annual passenger traffic on registered air carriers_: 17,249,049 (2018)<br>
-_annual freight traffic on registered air carriers_: 1,349,300,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 ZK<br>
 
@@ -635,17 +623,9 @@ ZK<br>
 **Heliports**<br>
 62 (2025)<br>
 
-**Pipelines**<br>
-331 km condensate, 2,500 km gas, 172 km liquid petroleum gas, 288 km oil, 198 km refined products (2018)<br>
-
 **Railways**<br>
 _total_: 4,128 km (2018)<br>
 _narrow gauge_: 4,128 km (2018) 1.067-m gauge (506 km electrified)<br>
-
-**Roadways**<br>
-_total_: 94,000 km<br>
-_paved_: 61,600 km (includes 199 km of expressways)<br>
-_unpaved_: 32,400 km (2017)<br>
 
 **Merchant marine**<br>
 _total_: 117 (2023)<br>
@@ -663,7 +643,7 @@ _key ports_: Auckland, Bluff Harbor, Gisborne, Manukau Harbor, Napier, Nelson, N
 ## Military and Security
 
 **Military and security forces**<br>
-New Zealand Defense Force (NZDF): New Zealand Army, Royal New Zealand Navy, Royal New Zealand Air Force (2024)<br>
+New Zealand Defense Force (NZDF): New Zealand Army, Royal New Zealand Navy, Royal New Zealand Air Force (2025)<br>
 <strong>note: </strong>the New Zealand Police, under the Minister of Police, are responsible for internal security<br>
 
 **Military expenditures**<br>
@@ -674,21 +654,21 @@ New Zealand Defense Force (NZDF): New Zealand Army, Royal New Zealand Navy, Roya
 1.4% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 8,800 active-duty (Regular Force) troops (4,300 Army; 2,100 Navy; 2,400 Air Force) (2024)<br>
+approximately 8,800 active-duty (Regular Force) troops (4,300 Army; 2,100 Navy; 2,400 Air Force) (2025)<br>
 <strong>note:</strong> the total NZDF complement is about 15,300 including the Regular Force, Reserves, and civilians<br>
 
 **Military equipment inventories and acquisitions**<br>
-the NZDF's inventory is comprised of domestically produced and Western-supplied weapons and equipment, including from Australia, Canada, the US, and the UK (2024)<br>
+the NZDF's inventory is comprised of domestically produced and Western-supplied weapons and equipment, including from Australia, Canada, the US, and the UK (2025)<br>
 
 **Military service age and obligation**<br>
-17 years of age for voluntary military service for men and women; soldiers cannot be deployed until the age of 18; no conscription (2024)<br>
+17 years of age for voluntary military service for men and women; soldiers cannot be deployed until the age of 18; no conscription (2025)<br>
 <strong>note: </strong>New Zealand opened up all military occupations to women in 2000; as of 2024, women accounted for about 20% of Regular Force personnel<br>
 
 **Military deployments**<br>
 small numbers of NZ military personnel are deployed on a variety of international missions in Africa, Antarctica, the Asia-Pacific region, and the Middle East (2024)<br>
 
 **Military - note**<br>
-the NZDF is a small military with considerable overseas experience; it supports the country’s national security objectives by protecting New Zealand’s sovereignty, promoting its interests, safeguarding peace and security, and conducting peacekeeping, humanitarian, and other international missions<br><br>New Zealand is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily <br><br>New Zealand has been part of the Australia, New Zealand, and US Security (ANZUS) Treaty since 1951; however, the US suspended its ANZUS security obligations to New Zealand in 1986 after New Zealand implemented a policy barring nuclear-armed and nuclear-powered warships from its ports; the US and New Zealand signed the Wellington Declaration in 2010, which reaffirmed close ties between the two countries, and in 2012 signed the Washington Declaration, which provided a framework for future security cooperation and defense dialogues; in 2016, a US naval ship conducted the first bilateral warship visit to New Zealand since the 1980s; New Zealand has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2024)<br>
+the NZDF is a small military with considerable overseas experience; it supports the country’s national security objectives by protecting New Zealand’s sovereignty, promoting its interests, safeguarding peace and security, and conducting peacekeeping, humanitarian, and other international missions<br><br>New Zealand is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily <br><br>New Zealand has been part of the Australia, New Zealand, and US Security (ANZUS) Treaty since 1951; however, the US suspended its ANZUS security obligations to New Zealand in 1986 after New Zealand implemented a policy barring nuclear-armed and nuclear-powered warships from its ports; the US and New Zealand signed the Wellington Declaration in 2010, which reaffirmed close ties between the two countries, and in 2012 signed the Washington Declaration, which provided a framework for future security cooperation and defense dialogues; in 2016, a US naval ship conducted the first bilateral warship visit to New Zealand since the 1980s; New Zealand has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2025)<br>
 
 ## Space
 

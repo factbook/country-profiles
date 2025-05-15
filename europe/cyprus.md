@@ -70,7 +70,7 @@ population concentrated in central Nicosia and in the major cities of the south:
 moderate earthquake activity; droughts<br>
 
 **Geography - note**<br>
-the third largest island in the Mediterranean Sea (after Sicily and Sardinia); several small Cypriot enclaves exist within the Dhekelia Sovereign Base Area<br>
+the third largest island in the Mediterranean Sea (after Sicily and Sardinia)<br>
 
 ## People and Society
 
@@ -102,10 +102,10 @@ _15-64 years_: 70% (male 486,569/female 437,651)<br>
 _65 years and over_: 14.4% (2024 est.) (male 83,094/female 107,579)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 43.8<br>
-_youth dependency ratio_: 23<br>
-_elderly dependency ratio_: 20.8<br>
-_potential support ratio_: 4.8 (2021 est.)<br>
+_total dependency ratio_: 42.9 (2024 est.)<br>
+_youth dependency ratio_: 22.2 (2024 est.)<br>
+_elderly dependency ratio_: 20.6 (2024 est.)<br>
+_potential support ratio_: 4.8 (2024 est.)<br>
 <strong>note:</strong> data represent the whole country<br>
 
 **Median age**<br>
@@ -234,7 +234,7 @@ demographic data for Cyprus represent the population of the government-controlle
 ## Environment
 
 **Environment - current issues**<br>
-water resource problems (no natural reservoir catchments, seasonal disparity in rainfall, sea water intrusion to island's largest aquifer, increased salination in the north); water pollution from sewage, industrial wastes, and pesticides; coastal degradation; erosion; loss of wildlife habitats from urbanization<br>
+scarce water resources; salination; water pollution from sewage, industrial wastes, and pesticides; coastal degradation; erosion; loss of wildlife habitats from urbanization<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -254,12 +254,6 @@ _other_: 68% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 67% of total population (2023)<br>
 _rate of urbanization_: 0.76% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 14.52 micrograms per cubic meter (2019 est.)<br>
@@ -314,7 +308,7 @@ _etymology_: may have been named after Nike, the Greek goddess of victory; the G
 Independence Day, 1 October (1960); note - Turkish Cypriots celebrate 15 November (1983) as "Republic Day"<br>
 
 **Legal system**<br>
-mixed legal system of English common law and civil law with European law supremacy<br>
+mixed system of English common law and civil law, with European law supremacy<br>
 
 **Constitution**<br>
 _history_: ratified 16 August 1960<br>
@@ -356,7 +350,7 @@ _expected date of next election_: May 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Cyprus (consists of 13 judges, including the court president)<br>
-_judge selection and term of office_: Republic of Cyprus Supreme Court judges appointed by the president of the republic upon the recommendation of the Supreme Court judges; judges can serve until age 68; "TRNC Supreme Court" judges appointed by the "Supreme Council of Judicature," a 12-member body of judges, the attorney general, appointees by the president of the "TRNC," and by the "Legislative Assembly," and members elected by the bar association; judge tenure NA<br>
+_judge selection and term of office_: Republic of Cyprus Supreme Court judges appointed by the president of the republic on the recommendation of the Supreme Court judges; judges can serve until age 68; "TRNC Supreme Court" judges appointed by the "Supreme Council of Judicature," a 12-member body of judges, the attorney general, appointees by the president of the "TRNC," and by the "Legislative Assembly," and members elected by the bar association; judge tenure NA<br>
 _subordinate courts_: Republic of Cyprus district courts; Assize Courts; Administrative Court; specialized courts for issues relating to family, industrial disputes, the military, and rent control; "TRNC Assize Courts"; "TNRC district and family courts"<br>
 <strong>note:</strong> the highest court in the TRNC is the Supreme Court (consists of 8 judges, including the court president)<br>
 
@@ -428,9 +422,9 @@ $33.887 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-3.54% (2023 est.)<br>
+1.8% (2024 est.)<br>
+3.5% (2023 est.)<br>
 8.4% (2022 est.)<br>
-2.45% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -467,19 +461,19 @@ tourism, food and beverage processing, cement and gypsum, ship repair and refurb
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-738,000 (2023 est.)<br>
+772,300 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.96% (2023 est.)<br>
-6.81% (2022 est.)<br>
-7.51% (2021 est.)<br>
+5.6% (2024 est.)<br>
+6.1% (2023 est.)<br>
+6.8% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.5% (2023 est.)<br>
-_male_: 19.6% (2023 est.)<br>
-_female_: 15.1% (2023 est.)<br>
+_total_: 15.6% (2024 est.)<br>
+_male_: 17.4% (2024 est.)<br>
+_female_: 13.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -511,19 +505,19 @@ _expenditures_: $10.765 billion (2022 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data exclude debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment<br>
 
 **Taxes and other revenues**<br>
-23.33% (of GDP) (2022 est.)<br>
+24.1% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$3.886 billion (2023 est.)<br>
--$2.357 billion (2022 est.)<br>
--$1.812 billion (2021 est.)<br>
+-$3.194 billion (2023 est.)<br>
+-$1.709 billion (2022 est.)<br>
+-$1.655 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$28.808 billion (2023 est.)<br>
-$27.72 billion (2022 est.)<br>
-$26.303 billion (2021 est.)<br>
+$32.876 billion (2023 est.)<br>
+$31.552 billion (2022 est.)<br>
+$27.491 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -535,9 +529,9 @@ ships, refined petroleum, packaged medicine, cheese, scented mixtures (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$29.091 billion (2023 est.)<br>
-$27.658 billion (2022 est.)<br>
-$25.164 billion (2021 est.)<br>
+$32.441 billion (2023 est.)<br>
+$30.593 billion (2022 est.)<br>
+$26.1 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -549,18 +543,18 @@ refined petroleum, ships, cars, packaged medicine, coal tar oil (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$921.269 million (2024 est.)<br>
 $1.789 billion (2023 est.)<br>
 $1.671 billion (2022 est.)<br>
-$1.611 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 
 ## Energy
 
@@ -610,7 +604,7 @@ _domestic_: fixed-line about 34 per 100 and about 149 per 100 for mobile-cellula
 _international_: country code - 357 (area administered by Turkish Cypriots uses the country code of Turkey - 90); a number of submarine cables, including the SEA-ME-WE-3, CADMOS, MedNautilus Submarine System, POSEIDON, TE North/TGN-Eurasia/SEACOM/Alexandros/Medes, UGARIT, Aphrodite2, Hawk, Lev Submarine System, and Tamares combine to provide connectivity to&nbsp;Europe, the Middle East, Africa, Asia, Australia, and Southeast Asia; Turcyos-1 and Turcyos-2 submarine cable in Turkish North Cyprus link to Turkey; tropospheric scatter; satellite earth stations - 8 (3 Intelsat - 1 Atlantic Ocean and 2 Indian Ocean, 2 Eutelsat, 2 Intersputnik, and 1 Arabsat) (2019)<br>
 
 **Broadcast media**<br>
-mixture of state and privately run TV and radio services; the public broadcaster operates 2 TV channels and 4 radio stations; 6 private TV broadcasters, satellite and cable TV services including telecasts from Greece and Turkey, and a number of private radio stations are available; in areas administered by Turkish Cypriots, there are 2 public TV stations, 4 public radio stations, and 7 privately owned TV and 21 radio broadcast stations plus 6 radio and 4 TV channels of local universities, plus 1 radio station of military, security forces and 1 radio station of civil defense cooperation, as well as relay stations from Turkey (2019)<br>
+mix of state and privately run TV and radio; the public broadcaster operates 2 TV channels and 4 radio stations; 6 private TV broadcasters, satellite and cable TV services (including from Greece and Turkey), and a number of private radio stations; in areas administered by Turkish Cypriots, there are 2 public TV stations, 4 public radio stations, 7 privately owned TV stations and 21 privately owned radio stations, 6 radio and 4 TV channels at local universities, 1 military radio station, and 1 radio station for civil defense cooperation, as well as relay stations from Turkey (2019)<br>
 
 **Internet country code**<br>
 .cy<br>
@@ -624,12 +618,6 @@ _subscriptions per 100 inhabitants_: 39 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 6<br>
-_annual passenger traffic on registered air carriers_: 401,408 (2018)<br>
-_annual freight traffic on registered air carriers_: 20,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 5B<br>
 
@@ -638,10 +626,6 @@ _annual freight traffic on registered air carriers_: 20,000 (2018) mt-km<br>
 
 **Heliports**<br>
 68 (2025)<br>
-
-**Roadways**<br>
-_total_: 13,027 km (2022)<br>
-_Turkish Cypriot control_: 7,000 km (2011)<br>
 
 **Merchant marine**<br>
 _total_: 1,005 (2023)<br>

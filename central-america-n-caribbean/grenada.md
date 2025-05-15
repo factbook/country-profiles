@@ -66,9 +66,6 @@ approximately one-third of the population is found in the capital of St. George'
 **Natural hazards**<br>
 <p>lies on edge of hurricane belt; hurricane season lasts from June to November</p><p><strong>volcanism:</strong> Mount Saint Catherine (840 m) lies on the island of Grenada; Kick 'em Jenny, an active submarine volcano (seamount) on the Caribbean Sea floor, lies about 8 km north of the island of Grenada; these two volcanoes are at the southern end of the volcanic island arc of the Lesser Antilles that extends up to the Netherlands dependency of Saba in the north</p><br>
 
-**Geography - note**<br>
-the administration of the islands of the Grenadines group is divided between Saint Vincent and the Grenadines and Grenada<br>
-
 ## People and Society
 
 **Population**<br>
@@ -95,10 +92,10 @@ _15-64 years_: 65.3% (male 38,129/female 36,726)<br>
 _65 years and over_: 12.8% (2024 est.) (male 6,944/female 7,724)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 51.3<br>
-_youth dependency ratio_: 36.4<br>
-_elderly dependency ratio_: 14.9<br>
-_potential support ratio_: 6.7 (2021 est.)<br>
+_total dependency ratio_: 53.1 (2024 est.)<br>
+_youth dependency ratio_: 33.5 (2024 est.)<br>
+_elderly dependency ratio_: 19.6 (2024 est.)<br>
+_potential support ratio_: 5.1 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 35.4 years (2024 est.)<br>
@@ -210,7 +207,7 @@ _female_: 19 years (2018)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation causing habitat destruction and species loss; coastal erosion and contamination; pollution and sedimentation; inadequate solid waste management<br>
+deforestation causing habitat and species loss; coastal erosion and contamination; pollution and sedimentation; inadequate solid waste management<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
@@ -230,12 +227,6 @@ _other_: 24.4% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 37.1% of total population (2023)<br>
 _rate of urbanization_: 0.86% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 10.08 micrograms per cubic meter (2019 est.)<br>
@@ -267,7 +258,7 @@ parliamentary democracy under a constitutional monarchy; a Commonwealth realm<br
 _name_: Saint George's<br>
 _geographic coordinates_: 12 03 N, 61 45 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the 1763 Treaty of Paris transferred possession of Grenada from France to Great Britain; the new administration renamed Ville de Fort Royal (Fort Royal Town) to Saint George's Town, after the patron saint of England; eventually the name became simply Saint George's<br>
+_etymology_: originally named Ville de Fort Royal (Fort Royal Town), the name was changed to Saint George's Town in 1764, in honor of the patron saint of England, when the English took over Grenada from the French; the name was eventually shortened to Saint George's<br>
 
 **Administrative divisions**<br>
 6 parishes and 1 dependency*; Carriacou and Petite Martinique*, Saint Andrew, Saint David, Saint George, Saint John, Saint Mark, Saint Patrick<br>
@@ -395,8 +386,8 @@ $1.317 billion (2023 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.7% (2023 est.)<br>
-2.58% (2022 est.)<br>
-1.22% (2021 est.)<br>
+2.6% (2022 est.)<br>
+1.2% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -463,14 +454,14 @@ _expenditures_: $222.475 million (2017 est.)<br>
 25.8% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
--$184.237 million (2023 est.)<br>
--$135.727 million (2022 est.)<br>
--$162.344 million (2021 est.)<br>
+-$243.473 million (2023 est.)<br>
+-$148.445 million (2022 est.)<br>
+-$161.369 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$899.153 million (2023 est.)<br>
-$712.263 million (2022 est.)<br>
+$828.529 million (2023 est.)<br>
+$706.195 million (2022 est.)<br>
 $537.898 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
@@ -483,8 +474,8 @@ nutmeg/cardamons, fish, wheat flours, frozen fruits and nuts, aqueous paints (20
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$1.021 billion (2023 est.)<br>
-$791.232 million (2022 est.)<br>
+$924.688 million (2023 est.)<br>
+$785.022 million (2022 est.)<br>
 $621.896 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
@@ -497,22 +488,22 @@ refined petroleum, cars, poultry, ships, plastic products (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$423.263 million (2024 est.)<br>
 $404.13 million (2023 est.)<br>
 $371.767 million (2022 est.)<br>
-$348.259 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$551.288 million (2023 est.)<br>
+$501.371 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
+2.7 (2024 est.)<br>
 2.7 (2023 est.)<br>
 2.7 (2022 est.)<br>
 2.7 (2021 est.)<br>
 2.7 (2020 est.)<br>
-2.7 (2019 est.)<br>
 
 ## Energy
 
@@ -558,7 +549,7 @@ _domestic_: 21 per 100 for fixed-line and 81 per 100 for mobile-cellular (2021)<
 _international_: country code - 1-473; landing points for the&nbsp;ECFS, Southern Caribbean Fiber and CARCIP&nbsp;submarine cables with links to&nbsp;13 Caribbean islands extending from the British Virgin Islands to Trinidad &amp; Tobago including Puerto Rico and Barbados; SHF radiotelephone links to Trinidad and Tobago and Saint Vincent; VHF and UHF radio links to Trinidad (2019)<br>
 
 **Broadcast media**<br>
-multiple publicly and privately owned television and radio stations; Grenada Information Service (GIS) is government-owned and provides television and radio services; the Grenada Broadcasting Network, jointly owned by the government and the Caribbean Communications Network of Trinidad and Tobago, operates a TV station and 2 radio stations; Meaningful Television (MTV) broadcasts island-wide and is part of a locally-owned media house, Moving Target Company, that also includes an FM radio station and a weekly newspaper; multi-channel cable TV subscription service is provided by Columbus Communications Grenada (FLOW GRENADA) and is available island wide; approximately 25 private radio stations also broadcast throughout the country (2019)<br>
+multiple publicly and privately owned TV and radio stations; state-owned Grenada Information Service (GIS) provides TV and radio; the Grenada Broadcasting Network, jointly owned by the government and the Caribbean Communications Network of Trinidad and Tobago, operates a TV station and 2 radio stations; multi-channel cable TV subscription service is provided by Columbus Communications Grenada (FLOW GRENADA); approximately 25 private radio stations (2019)<br>
 
 **Internet country code**<br>
 .gd<br>
@@ -577,11 +568,6 @@ J3<br>
 
 **Airports**<br>
 2 (2025)<br>
-
-**Roadways**<br>
-_total_: 1,127 km<br>
-_paved_: 902 km<br>
-_unpaved_: 225 km (2017)<br>
 
 **Merchant marine**<br>
 _total_: 6 (2023)<br>

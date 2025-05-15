@@ -69,7 +69,7 @@ most of the population concentrated in the western third of the country, particu
 floods and landslides are common; earthquakes; tsunamis; tropical cyclones<br>
 
 **Geography - note**<br>
-the island of Timor is part of the Malay Archipelago and is the largest and easternmost of the Lesser Sunda Islands; the district of Oecussi is an exclave separated from Timor-Leste proper by Indonesia; Timor-Leste has the unique distinction of being the only Asian country located completely in the Southern Hemisphere<br>
+the island of Timor is part of the Malay Archipelago and is the largest and easternmost of the Lesser Sunda Islands; the district of Oecussi is an exclave separated from Timor-Leste proper by Indonesia; Timor-Leste is the only Asian country located completely in the Southern Hemisphere<br>
 
 ## People and Society
 
@@ -98,10 +98,10 @@ _15-64 years_: 56.8% (male 418,493/female 437,727)<br>
 _65 years and over_: 4.5% (2024 est.) (male 32,243/female 35,101)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 90.3<br>
-_youth dependency ratio_: 59.4<br>
-_elderly dependency ratio_: 8.9<br>
-_potential support ratio_: 11.2 (2021 est.)<br>
+_total dependency ratio_: 63.8 (2024 est.)<br>
+_youth dependency ratio_: 56.1 (2024 est.)<br>
+_elderly dependency ratio_: 7.7 (2024 est.)<br>
+_potential support ratio_: 13 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 20.6 years (2024 est.)<br>
@@ -226,7 +226,7 @@ one of only two predominantly Christian nations in Southeast Asia, the other bei
 ## Environment
 
 **Environment - current issues**<br>
-air pollution and deterioration of air quality; greenhouse gas emissions; water quality, scarcity, and access; land and soil degradation; forest depletion; widespread use of slash and burn agriculture has led to deforestation and soil erosion;&nbsp;loss of biodiversity<br>
+air pollution and deterioration of air quality; water quality, scarcity, and access; land and soil degradation; forest depletion; deforestation and soil erosion from slash-and-burn agriculture; loss of biodiversity<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Law of the Sea, Ozone Layer Protection<br>
@@ -246,12 +246,6 @@ _other_: 15.3% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 32.5% of total population (2023)<br>
 _rate of urbanization_: 3.31% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.13% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 20.47 micrograms per cubic meter (2019 est.)<br>
@@ -277,7 +271,7 @@ _conventional short form_: Timor-Leste<br>
 _local long form_: Republika Demokratika Timor Lorosa'e (Tetum)/ Republica Democratica de Timor-Leste (Portuguese)<br>
 _local short form_: Timor Lorosa'e (Tetum)/ Timor-Leste (Portuguese)<br>
 _former_: East Timor, Portuguese Timor<br>
-_etymology_: timor" derives from the Indonesian and Malay word "timur" meaning "east"; "leste" is the Portuguese word for "east", so "Timor-Leste" literally means "Eastern-East"; the local [Tetum] name "Timor Lorosa'e" translates as "East Rising Sun"<br>
+_etymology_: the name partly derives from the Indonesian and Malay word <em>timur</em>, meaning "east;" <em>leste </em>is the Portuguese word for "east," so "Timor-Leste" literally means "Eastern-East"<br>
 <strong>note:</strong> pronounced TEE-mor LESS-tay<br>
 
 **Government type**<br>
@@ -299,7 +293,7 @@ _time difference_: UTC+9 (14 hours ahead of Washington, DC, during Standard Time
 Restoration of Independence Day, 20 May (2002); Proclamation of Independence Day, 28 November (1975)<br>
 
 **Legal system**<br>
-civil law system based on the Portuguese model; note - penal and civil law codes to replace the Indonesian codes were passed by Parliament and promulgated in 2009 and 2011, respectively<br>
+civil law system based on the Portuguese model<br>
 
 **Constitution**<br>
 _history_: drafted 2001, approved 22 March 2002, entered into force 20 May 2002<br>
@@ -402,9 +396,9 @@ $2.08 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-8.42% (2023 est.)<br>
-7.01% (2022 est.)<br>
-3.7% (2021 est.)<br>
+2.1% (2024 est.)<br>
+8.4% (2023 est.)<br>
+7% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -434,19 +428,19 @@ printing, soap manufacturing, handicrafts, woven cloth<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-607,000 (2023 est.)<br>
+615,900 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.52% (2023 est.)<br>
-1.54% (2022 est.)<br>
-2.34% (2021 est.)<br>
+1.6% (2024 est.)<br>
+1.5% (2023 est.)<br>
+1.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.2% (2023 est.)<br>
-_male_: 3.1% (2023 est.)<br>
-_female_: 3.2% (2023 est.)<br>
+_total_: 3.4% (2024 est.)<br>
+_male_: 3.2% (2024 est.)<br>
+_female_: 3.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -477,7 +471,7 @@ _expenditures_: $1.684 billion (2022 est.)<br>
 3.8% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-21.64% (of GDP) (2022 est.)<br>
+21.6% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -521,7 +515,7 @@ $934.781 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$259.088 million (2023 est.)<br>
+$238.042 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -591,10 +585,6 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 2<br>
-
 **Civil aircraft registration country code prefix**<br>
 4W<br>
 
@@ -603,11 +593,6 @@ _inventory of registered aircraft operated by air carriers_: 2<br>
 
 **Heliports**<br>
 2 (2025)<br>
-
-**Roadways**<br>
-_total_: 6,040 km<br>
-_paved_: 2,600 km<br>
-_unpaved_: 3,440 km (2008)<br>
 
 **Merchant marine**<br>
 _total_: 1 (2023)<br>
@@ -625,7 +610,7 @@ _key ports_: Dili<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (F-FDTL)): Joint Headquarters with Land, Air, Naval, Service Support, and Education/Training components<br><br>Ministry of Interior: National Police (Polícia Nacional de Timor-Leste, PNTL) (2024)<br>
+Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (F-FDTL)): Land Component, Light Air Component, Naval Component<br><br>Ministry of Interior: National Police of Timor-Leste (Polícia Nacional de Timor-Leste, PNTL) (2025)<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2023 est.)<br>
@@ -635,7 +620,7 @@ Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (
 1.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 1,500-2,000 personnel (2023)<br>
+approximately 2,000 Defense Force personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military is lightly armed and has a limited inventory consisting mostly of donated equipment from countries such as Australia, China, Portugal, South Korea, and the US (2024)<br>

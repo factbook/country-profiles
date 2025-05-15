@@ -99,10 +99,10 @@ _15-64 years_: 66.5% (male 2,626/female 2,655)<br>
 _65 years and over_: 19.2% (2024 est.) (male 773/female 754)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 68.6 NA<br>
-_youth dependency ratio_: 23.6 NA<br>
-_elderly dependency ratio_: 45.1 NA<br>
-_potential support ratio_: 2.2 (2021) NA<br>
+_total dependency ratio_: 50.4 (2024 est.) NA<br>
+_youth dependency ratio_: 21.5 (2024 est.) NA<br>
+_elderly dependency ratio_: 28.9 (2024 est.) NA<br>
+_potential support ratio_: 3.5 (2024 est.) NA<br>
 
 **Median age**<br>
 _total_: 45.1 years (2024 est.)<br>
@@ -176,9 +176,6 @@ _unimproved: total_: total: 0% of population (2020)<br>
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
-**Education expenditures**<br>
-NA<br>
-
 **Literacy**<br>
 _total population_: NA<br>
 _male_: NA<br>
@@ -187,7 +184,7 @@ _female_: NA<br>
 ## Environment
 
 **Environment - current issues**<br>
-development threatens unique biota on Saint Helena<br>
+development threatens wildlife on Saint Helena<br>
 
 **Climate**<br>
 <p><strong>Saint Helena:</strong> tropical marine; mild, tempered by trade winds</p> <p><strong>Ascension Island:</strong> tropical marine; mild, semi-arid</p> <p><strong>Tristan da Cunha:</strong> temperate marine; mild, tempered by trade winds (tends to be cooler than Saint Helena)</p><br>
@@ -221,7 +218,7 @@ overseas territory of the UK<br>
 _name_: Jamestown<br>
 _geographic coordinates_: 15 56 S, 5 43 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: founded in 1659 and named after James, Duke of York, who would become King JAMES II of England (r. 1785-1788)<br>
+_etymology_: founded in 1659 and named after James, Duke of York, who would become King JAMES II of England&nbsp;<br>
 
 **Administrative divisions**<br>
 3 administrative areas; Ascension, Saint Helena, Tristan da Cunha<br>
@@ -358,7 +355,7 @@ _domestic_: automatic digital network; fixed-line is 74 per 100 and mobile-cellu
 _international_: country code (Saint Helena) - 290, (Ascension Island) - 247; landing point for the SaEx1 submarine cable providing connectivity to South Africa, Brazil, Virginia Beach (US) and islands in Saint Helena, Ascension and Tristan de Cunha; international direct dialing; satellite voice and data communications; satellite earth stations - 5 (Ascension Island - 4, Saint Helena - 1) (2019)<br>
 
 **Broadcast media**<br>
-Saint Helena has no local TV station; 2 local radio stations, one of which is relayed to Ascension Island; satellite TV stations rebroadcast terrestrially; Ascension Island has no local TV station but has 1 local radio station and receives relays of broadcasts from 1 radio station on Saint Helena; broadcasts from the British Forces Broadcasting Service (BFBS) are available, as well as TV services for the US military; Tristan da Cunha has 1 local radio station and receives BFBS TV and radio broadcasts<br>
+<em>Saint Helena</em>: no local TV station; 2 local radio stations, one of which is relayed to Ascension Island; satellite TV stations rebroadcast terrestrially<br><br><em>Ascension Island</em>: no local TV station; 1 local radio station and receives relays of broadcasts from radio station on Saint Helena; broadcasts from the British Forces Broadcasting Service (BFBS) available, as well as US military TV <br><br><em>Tristan da Cunha</em>: 1 local radio station and receives BFBS TV and radio broadcasts<br>
 
 **Internet country code**<br>
 .sh; note - Ascension Island assigned .ac<br>
@@ -384,11 +381,6 @@ VQ-H<br>
 **Heliports**<br>
 2 (2025)<br>
 
-**Roadways**<br>
-_total_: 198 km (Saint Helena 138 km, Ascension 40 km, Tristan da Cunha 20 km)<br>
-_paved_: 168 km (Saint Helena 118 km, Ascension 40 km, Tristan da Cunha 10 km)<br>
-_unpaved_: 30 km (2002) (Saint Helena 20 km, Tristan da Cunha 10 km)<br>
-
 **Ports**<br>
 _total ports_: 4 (2024)<br>
 _large_: 1<br>
@@ -399,7 +391,7 @@ _ports with oil terminals_: 2<br>
 _key ports_: Edinburgh of the Seven Seas, Georgetown, Jamestown, North Point<br>
 
 **Transportation - note**<br>
-the new airport on Saint Helena opened for limited operations in July 2016, and the first commercial flight took place on 14 October 2017, marking the start of weekly air service between Saint Helena and South Africa via Namibia; the military airport on Ascension Island is closed to civilian traffic; there is no air connection to Tristan da Cunha and very limited sea connections making it one of the most isolated communities on the planet<br>
+the new airport on Saint Helena opened for limited operations in 2016, and the first commercial flight took place in 2017; the military airport on Ascension Island is closed to civilian traffic; there is no air connection to Tristan da Cunha and very limited sea connections<br>
 
 ## Military and Security
 

@@ -77,7 +77,7 @@ Aside from major urban agglomerations in Harare and Bulawayo, population distrib
 recurring droughts; floods and severe storms are rare<br>
 
 **Geography - note**<br>
-landlocked; the Zambezi forms a natural riverine boundary with Zambia; in full flood (February-April) the massive Victoria Falls on the river forms the world's largest curtain of falling water; Lake Kariba on the Zambia-Zimbabwe border forms the world's largest reservoir by volume (180 cu km; 43 cu mi)<br>
+landlocked; the Zambezi forms a natural river boundary with Zambia; in full flood (February-April), the massive Victoria Falls on the river forms the world's largest curtain of falling water; Lake Kariba on the Zambia-Zimbabwe border forms the world's largest reservoir by volume (180 cu km; 43 cu mi)<br>
 
 ## People and Society
 
@@ -106,10 +106,10 @@ _15-64 years_: 57.8% (male 4,758,120/female 5,152,773)<br>
 _65 years and over_: 3.9% (2024 est.) (male 270,595/female 399,146)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 79.4<br>
-_youth dependency ratio_: 73.4<br>
-_elderly dependency ratio_: 6<br>
-_potential support ratio_: 16.6 (2021 est.)<br>
+_total dependency ratio_: 73 (2024 est.)<br>
+_youth dependency ratio_: 66.3 (2024 est.)<br>
+_elderly dependency ratio_: 6.8 (2024 est.)<br>
+_potential support ratio_: 14.8 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 21.2 years (2024 est.)<br>
@@ -239,7 +239,7 @@ _female_: 11 years (2013)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation; soil erosion; land degradation; air and water pollution; the black rhinoceros herd - once the largest concentration of the species in the world - has been significantly reduced by poaching; poor mining practices have led to toxic waste and heavy metal pollution<br>
+deforestation; soil erosion; land degradation; air and water pollution; poaching; toxic waste and heavy metal pollution from mining<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands<br>
@@ -262,12 +262,6 @@ _rate of urbanization_: 2.41% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: <em><em>due to high food prices</em></em><em> </em><em>-</em> based on a government assessment, an estimated 3.8 million people are expected to be in need of humanitarian assistance between January and March 2023; this number is higher than the level estimated in the first quarter of 2022; the downturn in food security conditions is largely on account of poor food access resulting from prevailing high food prices and reduced incomes owing to the effects of an economic downturn; a decline in cereal production in 2022 has also aggravated conditions (2023)<br>
-
-**Revenue from forest resources**<br>
-1.61% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.4% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 13.08 micrograms per cubic meter (2019 est.)<br>
@@ -302,7 +296,7 @@ _agricultural_: 3.04 billion cubic meters (2020 est.)<br>
 _conventional long form_: Republic of Zimbabwe<br>
 _conventional short form_: Zimbabwe<br>
 _former_: Southern Rhodesia, Rhodesia, Zimbabwe-Rhodesia<br>
-_etymology_: takes its name from the Kingdom of Zimbabwe (13th-15th century) and its capital of Great Zimbabwe, the largest stone structure in pre-colonial southern Africa<br>
+_etymology_: takes its name from the Kingdom of Zimbabwe (13th-15th century) and its capital of Great Zimbabwe, which was built of stone; the name Zimbabwe comes from the Bantu phrase <em>zimba we bahwe</em>, meaning "houses of stones;" the former name, Rhodesia, was derived from the name of British colonial administrator Cecil RHODES<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -323,7 +317,7 @@ _etymology_: named after a village of Harare at the site of the present capital;
 Independence Day, 18 April (1980)<br>
 
 **Legal system**<br>
-mixed legal system of English common law, Roman-Dutch civil law, and customary law<br>
+mixed system of English common law, Roman-Dutch civil law, and customary law<br>
 
 **Constitution**<br>
 _history_: previous 1965 (at Rhodesian independence), 1979 (Lancaster House Agreement), 1980 (at Zimbabwean independence); latest final draft completed January 2013, approved by referendum 16 March 2013, approved by Parliament 9 May 2013, effective 22 May 2013<br>
@@ -445,8 +439,8 @@ $35.231 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-104.71% (2022 est.)<br>
-98.55% (2021 est.)<br>
+104.7% (2022 est.)<br>
+98.5% (2021 est.)<br>
 557.2% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
@@ -477,19 +471,19 @@ mining (coal, gold, platinum, copper, nickel, tin, diamonds, clay, numerous meta
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-6.32 million (2023 est.)<br>
+6.386 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-8.76% (2023 est.)<br>
-10.09% (2022 est.)<br>
-9.54% (2021 est.)<br>
+8.6% (2024 est.)<br>
+8.8% (2023 est.)<br>
+10.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.3% (2023 est.)<br>
-_male_: 13.2% (2023 est.)<br>
-_female_: 15.6% (2023 est.)<br>
+_total_: 14% (2024 est.)<br>
+_male_: 12.9% (2024 est.)<br>
+_female_: 15.4% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -519,7 +513,7 @@ _expenditures_: $23 million (2018 est.)<br>
 82.3% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-7.21% (of GDP) (2018 est.)<br>
+7.2% (of GDP) (2018 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -532,7 +526,7 @@ $348.215 million (2021 est.)<br>
 $7.603 billion (2023 est.)<br>
 $7.453 billion (2022 est.)<br>
 $6.575 billion (2021 est.)<br>
-<strong>note:</strong> GDP expenditure basis - exports of goods and services in current dollars<br>
+<strong>note:</strong> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 UAE 45%, China 18%, South Africa 15%, Mozambique 4%, Hong Kong 2% (2023)<br>
@@ -546,7 +540,7 @@ gold, tobacco, nickel, minerals, diamonds (2023)<br>
 $10.293 billion (2023 est.)<br>
 $9.569 billion (2022 est.)<br>
 $8.104 billion (2021 est.)<br>
-<strong>note:</strong> GDP expenditure basis - imports of goods and services in current dollars<br>
+<strong>note:</strong> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 South Africa 37%, China 15%, Bahamas, The 5%, Singapore 5%, UAE 4% (2023)<br>
@@ -557,21 +551,22 @@ refined petroleum, fertilizers, trucks, soybean oil, stone processing machines (
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$261.373 million (2024 est.)<br>
 $115.53 million (2023 est.)<br>
 $598.622 million (2022 est.)<br>
-$838.78 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$6.814 billion (2023 est.)<br>
+$6.671 billion (2023 est.)<br>
+<strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Zimbabwean dollars (ZWD) per US dollar -<br>
+3,266.332 (2024 est.)<br>
 3,509.172 (2023 est.)<br>
 374.954 (2022 est.)<br>
 88.552 (2021 est.)<br>
 51.329 (2020 est.)<br>
-16.446 (2019 est.)<br>
 <strong>note: </strong>ongoing hyperinflation rendered Zimbabwean dollar essentially worthless; introduction of Zimbabwe Gold (ZiG) as new currency effective April 2024<br>
 
 ## Energy
@@ -629,7 +624,7 @@ _domestic_: fixed-line teledensity is 2 per 100 and mobile-cellular is 89 per 10
 _international_: country code - 263; fiber-optic connections to neighboring states provide access to international networks via undersea cable; satellite earth stations - 2 Intelsat; 5 international digital gateway exchanges<br>
 
 **Broadcast media**<br>
-government owns all local radio and TV stations; foreign shortwave broadcasts and satellite TV are available to those who can afford antennas and receivers; in rural areas, access to TV broadcasts is extremely limited; analog TV only, no digital service (2017)<br>
+government owns all local radio and TV stations; foreign shortwave broadcasts and satellite TV available; in rural areas, access to TV broadcasts is extremely limited; analog TV only, no digital service (2017)<br>
 
 **Internet country code**<br>
 .zw<br>
@@ -643,12 +638,6 @@ _subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 12<br>
-_annual passenger traffic on registered air carriers_: 285,539 (2018)<br>
-_annual freight traffic on registered air carriers_: 670,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 Z<br>
 
@@ -658,25 +647,14 @@ Z<br>
 **Heliports**<br>
 5 (2025)<br>
 
-**Pipelines**<br>
-270 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 3,427 km (2014)<br>
 _narrow gauge_: 3,427 km (2014) 1.067-m gauge (313 km electrified)<br>
 
-**Roadways**<br>
-_total_: 97,267 km<br>
-_paved_: 18,481 km<br>
-_unpaved_: 78,786 km (2023)<br>
-
-**Waterways**<br>
-223 km (2022) some navigation possible on Lake Kariba (223 km)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>
-Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbabwe (AFZ)<br><br>Ministry of Home Affairs: Zimbabwe Republic Police (2024)<br>
+Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbabwe (AFZ)<br><br>Ministry of Home Affairs: Zimbabwe Republic Police (2025)<br>
 
 **Military expenditures**<br>
 0.3% of GDP (2023 est.)<br>
@@ -686,7 +664,7 @@ Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbab
 2.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 30,000 active-duty troops, including about 4,000 Air Force personnel (2023)<br>
+approximately 30,000 active Zimbabwe Defense Force troops (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the ZDF inventory is comprised mostly of Russian/Soviet-era and Chinese armaments with smaller quantities of older or obsolescent material from countries such as Brazil, France, Italy, South Africa, the UK, and the US; since the early 2010s, Zimbabwe has been under an arms embargo from the EU, as well as targeted sanctions from Australia, Canada, New Zealand, the UK, and the US (2024)<br>

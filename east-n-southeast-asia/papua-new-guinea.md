@@ -74,7 +74,7 @@ population concentrated in the highlands and eastern coastal areas on the island
 <p>active volcanism; the country is subject to frequent and sometimes severe earthquakes; mud slides; tsunamis</p><p><strong>volcanism:</strong> severe volcanic activity; Ulawun (2,334 m), one of Papua New Guinea's potentially most dangerous volcanoes, has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Rabaul (688 m) destroyed the city of Rabaul in 1937 and 1994; Lamington erupted in 1951 killing 3,000 people; Manam's 2004 eruption forced the island's abandonment; other historically active volcanoes include Bam, Bagana, Garbuna, Karkar, Langila, Lolobau, Long Island, Pago, St. Andrew Strait, Victory, and Waiowa; see note 2 under "Geography - note"</p><br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> shares island of New Guinea with Indonesia; generally east-west trending highlands break up New Guinea into diverse ecoregions; one of world's largest swamps along southwest coast<br><br><strong>note 2: </strong>two major food crops apparently developed on the island of New Guinea: bananas and sugarcane</p> <p><strong>note 3:</strong> Papua New Guinea is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p><br>
+<p><strong>note 1:</strong> shares island of New Guinea with Indonesia; highlands that trend from east to west break up New Guinea into diverse ecoregions; one of world's largest swamps lies along the southwest coast</p> <p><strong>note 2:</strong> Papua New Guinea is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p><br>
 
 ## People and Society
 
@@ -104,10 +104,10 @@ _15-64 years_: 58.9% (male 2,991,479/female 2,923,410)<br>
 _65 years and over_: 4% (2024 est.) (male 198,511/female 205,090)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 60.5<br>
-_youth dependency ratio_: 55.5<br>
-_elderly dependency ratio_: 5<br>
-_potential support ratio_: 20.1 (2021 est.)<br>
+_total dependency ratio_: 69.8 (2024 est.)<br>
+_youth dependency ratio_: 63 (2024 est.)<br>
+_elderly dependency ratio_: 6.8 (2024 est.)<br>
+_potential support ratio_: 14.7 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 21.7 years (2024 est.)<br>
@@ -229,7 +229,7 @@ the indigenous population of Papua New Guinea (PNG) is one of the most heterogen
 ## Environment
 
 **Environment - current issues**<br>
-rain forest loss as a result of growing commercial demand for tropical timber; unsustainable logging practices result in soil erosion, water quality degredation, and loss of habitat and biodiversity; large-scale mining projects cause adverse impacts on forests and water quality (discharge of heavy metals, cyanide, and acids into rivers); severe drought; inappropriate farming practices accelerate land degradion (soil erosion, siltation, loss of soil fertility); destructive fishing practices and coastal pollution due to run-off from land-based activities and oil spills<br>
+rainforest loss as a result of commercial demand for tropical timber; soil erosion, water-quality degradation, and loss of habitat from logging; effects of large-scale mining projects (discharge of heavy metals, cyanide, and acids into rivers); severe drought; land degradation from poor farming practices; poor fishing practices; coastal pollution due to runoff and oil spills<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
@@ -249,12 +249,6 @@ _other_: 17.9% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 13.7% of total population (2023)<br>
 _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-2.08% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 8.89 micrograms per cubic meter (2019 est.)<br>
@@ -295,7 +289,7 @@ _name_: Port Moresby<br>
 _geographic coordinates_: 9 27 S, 147 11 E<br>
 _time difference_: UTC+10 (15 hours ahead of Washington, DC, during Standard Time)<br>
 _time zone note_: Papua New Guinea has two time zones, including Bougainville (UTC+11)<br>
-_etymology_: named in 1873 by Captain John MORESBY (1830-1922) in honor of his father, British Admiral Sir Fairfax MORESBY (1786-1877)<br>
+_etymology_: named in 1873 by Captain John MORESBY in honor of his father, British Admiral Sir Fairfax MORESBY (1786-1877)<br>
 
 **Administrative divisions**<br>
 20 provinces, 1 autonomous region*, and 1 district**; Bougainville*, Central, Chimbu, Eastern Highlands, East New Britain, East Sepik, Enga, Gulf, Hela, Jiwaka, Madang, Manus, Milne Bay, Morobe, National Capital**, New Ireland, Northern, Southern Highlands, Western, Western Highlands, West New Britain, West Sepik<br>
@@ -307,7 +301,7 @@ _etymology_: named in 1873 by Captain John MORESBY (1830-1922) in honor of his f
 Independence Day, 16 September (1975)<br>
 
 **Legal system**<br>
-mixed legal system of English common law and customary law<br>
+mixed system of English common law and customary law<br>
 
 **Constitution**<br>
 _history_: adopted 15 August 1975, effective at independence 16 September 1975<br>
@@ -412,9 +406,9 @@ $30.729 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+0.6% (2024 est.)<br>
 2.3% (2023 est.)<br>
-5.25% (2022 est.)<br>
-4.48% (2021 est.)<br>
+5.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -448,19 +442,19 @@ oil and gas; mining (gold, copper, and nickel); palm oil processing; plywood and
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.252 million (2023 est.)<br>
+3.66 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.65% (2023 est.)<br>
-2.69% (2022 est.)<br>
-2.91% (2021 est.)<br>
+2.7% (2024 est.)<br>
+2.7% (2023 est.)<br>
+2.7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.7% (2023 est.)<br>
-_male_: 4.5% (2023 est.)<br>
-_female_: 2.9% (2023 est.)<br>
+_total_: 3.8% (2024 est.)<br>
+_male_: 4.6% (2024 est.)<br>
+_female_: 3% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
@@ -475,11 +469,11 @@ _expenditures_: $6.156 billion (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-48.19% of GDP (2022 est.)<br>
+52.4% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-14.77% (of GDP) (2022 est.)<br>
+15.9% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -523,7 +517,7 @@ $3.24 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$7.387 billion (2023 est.)<br>
+$7.011 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -592,7 +586,7 @@ _domestic_: fixed-line nearly 2 per 100 and mobile-cellular is 48 per 100 person
 _international_: country code - 675; landing points for the Kumul Domestic Submarine Cable System, PNG-LNG, APNG-2, CSCS the PPC-1 submarine cables to Australia, Guam, PNG and Solomon Islands; and CS&sup2; to PNG, Solomon Islands, and Australia; satellite earth station - 1 Intelsat (Pacific Ocean) (2023)<br>
 
 **Broadcast media**<br>
-5 TV stations: 1 commercial station (TV Wan), 2 state-run stations, (National Broadcasting Corporation and EMTV - formerly a commercial TV station previously owned by Fiji Television Limited but PNG&rsquo;s Telikom purchased it in Jan 2016, hence being state-run); 1 digital free-to-view network launched in 2014, and 1 satellite network Click TV (PNGTV) launched in 2015; the state-run NBC operates 3 radio networks with multiple repeaters and about 20 provincial stations; several commercial radio stations with multiple transmission points as well as several community stations; transmissions of several international broadcasters are accessible (2023)<br>
+5 TV stations: 1 commercial (TV Wan), 2 state-run (National Broadcasting Corporation and EMTV); 1 digital free-to-view network, and 1 satellite network (Click TV or PNGTV); the state-run NBC operates 3 radio networks with multiple repeaters and about 20 provincial stations; several commercial radio stations with multiple transmission points as well as several community stations; transmissions of several international broadcasters are accessible (2023)<br>
 
 **Internet country code**<br>
 .pg<br>
@@ -606,12 +600,6 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 6 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 48<br>
-_annual passenger traffic on registered air carriers_: 964,713 (2018)<br>
-_annual freight traffic on registered air carriers_: 30.93 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 P2<br>
 
@@ -620,17 +608,6 @@ P2<br>
 
 **Heliports**<br>
 3 (2025)<br>
-
-**Pipelines**<br>
-264 km oil (2013)<br>
-
-**Roadways**<br>
-_total_: 24,862 km<br>
-_paved_: 2,647 km<br>
-_unpaved_: 22,215 km (2015)<br>
-
-**Waterways**<br>
-11,000 km (2011)<br>
 
 **Merchant marine**<br>
 _total_: 205 (2023)<br>
@@ -648,7 +625,7 @@ _key ports_: Kavieng Harbor, Kieta, Port Moresby, Rabaul, Vanimo, Wewak Harbor<b
 ## Military and Security
 
 **Military and security forces**<br>
-Papua New Guinea Defense Force (PNGDF): Land Element, Maritime Element, Air Element<br><br>Ministry of Internal Security: Royal Papua New Guinea Constabulary (RPNGC) (2024)<br>
+Papua New Guinea Defense Force (PNGDF): land, maritime, and air elements<br><br>Ministry of Internal Security: Royal Papua New Guinea Constabulary (RPNGC) (2025)<br>
 
 **Military expenditures**<br>
 0.3% of GDP (2023 est.)<br>
@@ -658,13 +635,13 @@ Papua New Guinea Defense Force (PNGDF): Land Element, Maritime Element, Air Elem
 0.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 2,500 active-duty PNGDF troops (2023)<br>
+estimated 4,000 active PNGDF troops (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the PNGDF is lightly armed; the Land Force has no heavy weapons while the Air and the Maritime forces have a handful of light aircraft and small patrol boats provided by Australia (2024)<br>
 
 **Military service age and obligation**<br>
-18-27 for voluntary military service for men and women; no conscription (2024)<br>
+18-27 for voluntary military service for men and women; no conscription (2025)<br>
 
 **Military - note**<br>
 the Papua New Guinea Defense Force (PNGDF) is a small and lightly armed force tasked with defense of the country and its territories against external attack, as well as internal security and socio-economic development duties; following some inter-tribal violence in Wapenamanda in early 2024, the PNGDF was given arrest powers<br><br>the PNGDF was established in 1973, and its primary combat unit, the Royal Pacific Islands Regiment (RPIR), is descended from Australian Army infantry battalions comprised of native soldiers and led by Australian officers and non-commissioned officers formed during World War II to help fight the Japanese; the RPIR was disbanded after the war, but reestablished in 1951 as part of the Australian Army where it continued to serve until Papua New Guinea (PNG) gained its independence in 1975, when it became part of the PNGDF<br><br>PNG's security partners include Australia, France, Indonesia, New Zealand, the UK, and the US; the US and PNG signed a defense cooperation agreement in 2023, which included a shiprider agreement that provides the opportunity for PNG personnel to work on US Coast Guard and US Navy vessels, and vice versa, to tackle maritime crime such as illegal fishing; the agreement also allowed the US military to develop and operate out of bases in PNG with the PNG Government’s approval (2024)<br>

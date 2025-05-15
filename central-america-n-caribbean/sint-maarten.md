@@ -63,7 +63,7 @@ most populous areas are Lower Prince's Quarter (north of Philipsburg), followed 
 <p>subject to hurricanes from July to November</p><br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> the northern border is shared with the French overseas collectivity of Saint Martin; together, these two entities make up the smallest landmass in the world shared by two self-governing states<br><br><strong>note 2:</strong> Simpson Bay Lagoon (aka Simson Bay Lagoon or The Great Pond) is one of the largest inland lagoons in the West Indies; the border between the French and Dutch halves of the island of Saint Martin runs across the center of the lagoon, which is shared by both entities</p><br>
+<p><strong>note 1:</strong> the northern border is shared with the French overseas collectivity of Saint Martin; together, these two entities make up the smallest landmass in the world that is shared by two self-governing states<br><br><strong>note 2:</strong> Simpson Bay Lagoon (aka Simson Bay Lagoon or The Great Pond) is one of the largest inland lagoons in the West Indies; the border between the French and Dutch halves of the island of Saint Martin runs across the center of the lagoon, which is shared by both entities</p><br>
 
 ## People and Society
 
@@ -88,10 +88,10 @@ _15-64 years_: 66.3% (male 15,158/female 15,496)<br>
 _65 years and over_: 15.2% (2024 est.) (male 3,250/female 3,788)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 27.2<br>
-_youth dependency ratio_: 14.9<br>
-_elderly dependency ratio_: 12.3<br>
-_potential support ratio_: 8.1 (2021)<br>
+_total dependency ratio_: 50.8 (2024 est.)<br>
+_youth dependency ratio_: 27.8 (2024 est.)<br>
+_elderly dependency ratio_: 23 (2024 est.)<br>
+_potential support ratio_: 4.4 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 41 years (2024 est.)<br>
@@ -161,9 +161,6 @@ _unimproved: total_: total: 1.2% of population (2017)<br>
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
-**Education expenditures**<br>
-NA<br>
-
 **Literacy**<br>
 _total population_: NA<br>
 _male_: NA<br>
@@ -177,7 +174,7 @@ _female_: 12 years (2014)<br>
 ## Environment
 
 **Environment - current issues**<br>
-<p>scarcity of potable water (increasing percentage provided by desalination); inadequate solid waste management; pollution from construction, chemical runoff, and sewage harms reefs</p><br>
+<p>scarcity of potable water; inadequate solid waste management; pollution from construction, chemical runoff, and sewage </p><br>
 
 **Climate**<br>
 <p>tropical marine climate, ameliorated by northeast trade winds, results in moderate temperatures; average rainfall of 150 cm/year; hurricane season stretches from July to November</p><br>
@@ -199,13 +196,13 @@ _conventional short form_: Sint Maarten<br>
 _local long form_: Land Sint Maarten (Dutch)/ Country of Sint Maarten (English)<br>
 _local short form_: Sint Maarten (Dutch and English)<br>
 _former_: Netherlands Antilles; Curacao and Dependencies<br>
-_etymology_: explorer Christopher COLUMBUS named the island after Saint MARTIN of Tours because the 11 November 1493 day of discovery was the saint's feast day<br>
+_etymology_: explorer Christopher COLUMBUS named the island in 1493 after Saint MARTIN of Tours because he visited on 11 November, the saint's feast day<br>
 
 **Government type**<br>
 <p>parliamentary democracy under a constitutional monarchy</p><br>
 
 **Dependency status**<br>
-<p>constituent country within the Kingdom of the Netherlands; full autonomy in internal affairs granted in 2010; Dutch Government responsible for defense and foreign affairs</p><br>
+<p>part of the Kingdom of the Netherlands; full autonomy in internal affairs granted in 2010; Dutch government responsible for defense and foreign affairs</p><br>
 
 **Capital**<br>
 _name_: Philipsburg<br>
@@ -311,9 +308,9 @@ $1.628 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-2.19% (2017 est.)<br>
-0.11% (2016 est.)<br>
-0.33% (2015 est.)<br>
+2.2% (2017 est.)<br>
+0.1% (2016 est.)<br>
+0.3% (2015 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -373,11 +370,11 @@ jewelry, refined petroleum, ships, pearl products, diamonds (2023)<br>
 
 **Exchange rates**<br>
 _Currency_: Netherlands Antillean guilders (ANG) per US dollar -<br>
+1.79 (2024 est.)<br>
 1.79 (2023 est.)<br>
 1.79 (2022 est.)<br>
 1.79 (2021 est.)<br>
 1.79 (2020 est.)<br>
-1.79 (2019 est.)<br>
 
 ## Energy
 
@@ -406,9 +403,6 @@ _percent of population_: 89.5% (2022)<br>
 **Airports**<br>
 1 (2025)<br>
 
-**Roadways**<br>
-_total_: 53 km<br>
-
 **Ports**<br>
 _total ports_: 2 (2024)<br>
 _large_: 0<br>
@@ -421,7 +415,8 @@ _key ports_: Coles Bay Oil Terminal, Philipsburg<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Police Department for local law enforcement, supported by the Royal Netherlands Marechaussee (Gendarmerie), the Dutch Caribbean Police Force (Korps Politie Caribisch Nederland, KPCN), and the Dutch Caribbean Coast Guard (DCCG or Kustwacht Caribisch Gebied (KWCARIB)) (2024)<br>
+no regular military forces; Police Force of Sint Maarten (KPSM) (2025)<br>
+<strong>note:</strong> the KPSM is supported by the Royal Netherlands Marechaussee (Gendarmerie), the Dutch Caribbean Police Force (Korps Politie Caribisch Nederland, KPCN), and the Dutch Caribbean Coast Guard (DCCG or Kustwacht Caribisch Gebied (KWCARIB))<br>
 
 **Military - note**<br>
 defense is the responsibility of the Kingdom of the Netherlands<br>

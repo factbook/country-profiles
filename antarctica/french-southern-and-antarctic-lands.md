@@ -53,18 +53,18 @@ fish, crayfish, note, Glorioso Islands and Tromelin Island (Iles Eparses) have g
 <p>Ile Amsterdam and Ile Saint-Paul are inactive volcanoes; Iles Eparses subject to periodic cyclones; Bassas da India is a maritime hazard since it is under water for a period of three hours prior to and following the high tide and surrounded by reefs</p><p><strong>volcanism:</strong> Reunion Island - Piton de la Fournaise (2,632 m), which has erupted many times in recent years including 2010, 2015, and 2017, is one of the world's most active volcanoes; although rare, eruptions outside the volcano's caldera could threaten nearby cities</p><br>
 
 **Geography - note**<br>
-<p>islands' component is widely scattered across remote locations in the southern Indian Ocean</p><p><strong>Bassas da India (Iles Eparses):</strong> atoll is a circular reef atop a long-extinct, submerged volcano; </p><p><strong>Europa Island and Juan de Nova Island (Iles Eparses):</strong> wildlife sanctuary for seabirds and sea turtles; </p><p><strong>Glorioso Island (Iles Eparses):</strong> islands and rocks are surrounded by an extensive reef system; </p><p><strong>Tromelin Island (Iles Eparses):</strong> climatologically important location for forecasting cyclones in the western Indian Ocean; wildlife sanctuary (seabirds, tortoises)</p><br>
+<p>islands are widely scattered across remote locations in the southern Indian Ocean</p> <p><strong>Bassas da India (Iles Éparses):</strong> atoll is a circular reef atop a long-extinct, submerged volcano</p> <p><strong>Europa Island and Juan de Nova Island (Iles Éparses):</strong> wildlife sanctuary for seabirds and sea turtles</p> <p><strong>Glorioso Island (Iles Éparses):</strong> islands and rocks are surrounded by an extensive reef system</p> <p><strong>Tromelin Island (Iles Éparses):</strong> climatologically important location for forecasting cyclones in the western Indian Ocean; wildlife sanctuary (seabirds, tortoises)</p><br>
 
 ## People and Society
 
 **Population**<br>
-_total_: no indigenous inhabitants<br>
-<strong>Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul): </strong>uninhabited but has a meteorological station<br><strong>Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul): </strong>uninhabited but is frequently visited by fishermen and has a scientific research cabin for short stays<br><strong>Iles Crozet</strong>: uninhabited except for 18 to 30 people staffing the Alfred Faure research station on Ile del la Possession<br><strong>Iles Kerguelen:</strong> 50 to 100 scientists are located at the main base at Port-aux-Francais on Ile Kerguelen<br><strong>Bassas da India (Iles Eparses): </strong>uninhabitable<br><strong>Europa Island, Glorioso Islands, Juan de Nova Island (Iles Eparses): </strong>a small French military garrison and a few meteorologists on each possession; visited by scientists<br><strong>Tromelin Island (Iles Eparses): </strong>uninhabited, visited by scientists<br>
+_total_: no permanent inhabitants<br>
+<strong>Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul)</strong>: uninhabited but has a meteorological station<br><strong>Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul)</strong>: uninhabited but is visited by fishermen and researchers<br><strong>Iles Crozet</strong>: uninhabited except for staff of the Alfred Faure research station on Ile del la Possession<br><strong>Iles Kerguelen</strong>: researchers are located at the main base at Port-aux-Francais on Ile Kerguelen<br><strong>Bassas da India (Iles Eparses)</strong>: uninhabitable<br><strong>Europa Island, Glorioso Islands, Juan de Nova Island (Iles Eparses)</strong>: a small French military garrison and a few meteorologists on each possession; visited by researchers<br><strong>Tromelin Island (Iles Eparses)</strong>: uninhabited, visited by researchers<br>
 
 ## Environment
 
 **Environment - current issues**<br>
-introduction of foreign species on Iles Crozet has caused severe damage to the original ecosystem; overfishing of Patagonian toothfish around Iles Crozet and Iles Kerguelen<br>
+problems from introduction of foreign species on Iles Crozet; overfishing of Patagonian toothfish around Iles Crozet and Iles Kerguelen<br>
 
 **Climate**<br>
 <p><strong>Ile Amsterdam et Ile Saint-Paul:</strong> oceanic with persistent westerly winds and high humidity</p> <p><strong>Iles Crozet:</strong> windy, cold, wet, and cloudy</p> <p><strong>Iles Kerguelen:</strong> oceanic, cold, overcast, windy</p> <p><strong>Iles Eparses:</strong> tropical</p><br>
@@ -86,7 +86,7 @@ overseas territory of France since 1955<br>
 none (overseas territory of France); there are no first-order administrative divisions as defined by the US Government, but there are 5 administrative districts named Iles Crozet, Iles &Eacute;parses, Iles Kerguelen, Ile Saint-Paul et Ile Amsterdam; the fifth district is the "Adelie Land" claim in Antarctica that the US does not recognize<br>
 
 **Legal system**<br>
-the laws of France, where applicable, apply<br>
+the laws of France apply<br>
 
 **Citizenship**<br>
 see France<br>

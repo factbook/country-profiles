@@ -75,7 +75,7 @@ with the notable exception of Madrid, Sevilla, and Zaragoza, the largest urban a
 <p>periodic droughts, occasional flooding</p><p><strong>volcanism:</strong> volcanic activity in the Canary Islands, located off Africa's northwest coast; Teide (3,715 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; La Palma (2,426 m), which last erupted in 1971, is the most active of the Canary Islands volcanoes; Lanzarote is the only other historically active volcano</p><br>
 
 **Geography - note**<br>
-strategic location along approaches to Strait of Gibraltar; Spain controls a number of territories in northern Morocco including the enclaves of Ceuta and Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas; Spain's Canary Islands are one of four North Atlantic archipelagos that make up Macaronesia; the others are Azores (Portugal), Madeira (Portugal), and Cabo Verde<br>
+strategic location along approaches to Strait of Gibraltar; Spain controls a number of territories in northern Morocco, including the enclaves of Ceuta and Melilla and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas; Spain's Canary Islands are one of four North Atlantic archipelagos that make up Macaronesia; the others are the Azores (Portugal), Madeira (Portugal), and Cabo Verde<br>
 
 ## People and Society
 
@@ -106,10 +106,10 @@ _15-64 years_: 66.1% (male 15,662,492/female 15,585,138)<br>
 _65 years and over_: 20.9% (2024 est.) (male 4,259,816/female 5,613,147)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 52.4<br>
-_youth dependency ratio_: 21.9<br>
-_elderly dependency ratio_: 30.2<br>
-_potential support ratio_: 3.3 (2021 est.)<br>
+_total dependency ratio_: 51.3 (2024 est.)<br>
+_youth dependency ratio_: 19.7 (2024 est.)<br>
+_elderly dependency ratio_: 31.6 (2024 est.)<br>
+_potential support ratio_: 3.2 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 46.8 years (2024 est.)<br>
@@ -235,7 +235,7 @@ _female_: 19 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-pollution of the Mediterranean Sea from raw sewage and effluents from the offshore production of oil and gas and drought are negatively impacting water quality and quantity nationwide; air pollution; deforestation; desertification<br>
+pollution of the Mediterranean Sea from raw sewage and effluents from oil and gas production; drought; air pollution; deforestation; desertification<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -256,12 +256,6 @@ _other_: 9.5% (2022 est.)<br>
 _urban population_: 81.6% of total population (2023)<br>
 _rate of urbanization_: 0.24% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Canary Islands, Ceuta, and Melilla<br>
-
-**Revenue from forest resources**<br>
-0.02% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 9.34 micrograms per cubic meter (2019 est.)<br>
@@ -293,9 +287,9 @@ _global geoparks and regional networks_: Basque Coast UNESCO; Cabo de Gata-N&iac
 **Country name**<br>
 _conventional long form_: Kingdom of Spain<br>
 _conventional short form_: Spain<br>
-_local long form_: Reino de Espana<br>
-_local short form_: Espana<br>
-_etymology_: derivation of the name "Espana" is uncertain, but may come from the Phoenician term "span," related to the word "spy," meaning "to forge metals," so, "i-spn-ya" would mean "place where metals are forged"; the ancient Phoenicians long exploited the Iberian Peninsula for its mineral wealth<br>
+_local long form_: Reino de Espa&ntilde;a<br>
+_local short form_: Espa&ntilde;a<br>
+_etymology_: derivation of the name España is uncertain; the Basque words <em>ezpain </em>or <em>espan </em>("edge," as in a river bank) are possible sources, or the Punic word <em>span</em>, meaning "rabbit;" some academics tie it to the god Hesperus from Greco-Roman mythology<br>
 
 **Government type**<br>
 parliamentary constitutional monarchy<br>
@@ -306,7 +300,7 @@ _geographic coordinates_: 40 24 N, 3 41 W<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
 _time zone note_: Spain has two time zones, including the Canary Islands (UTC 0)<br>
-_etymology_: the Romans named the original settlement "Matrice" after the river that ran through it; under Arab rule it became "Majerit," meaning "source of water"; in medieval Romance dialects (Mozarabic) it became "Matrit," which over time changed to "Madrid"<br>
+_etymology_: the meaning and origin of the name is unclear; the city grew from a small Moorish fort that was called Majerit in the first recorded mention in A.D. 932; some trace the modern-day name back to the Roman era, with the Latin word <em>materia </em>(materials) as a possible source<br>
 
 **Administrative divisions**<br>
 17 autonomous communities (comunidades autonomas, singular - comunidad autonoma) and 2 autonomous cities* (ciudades autonomas, singular - ciudad autonoma); Andalucia; Aragon; Asturias; Canarias (Canary Islands); Cantabria; Castilla-La Mancha; Castilla-Leon; Cataluña (Castilian), Catalunya (Catalan), Catalonha (Aranese) [Catalonia]; Ceuta*; Comunidad Valenciana (Castilian), Comunitat Valenciana (Valencian) [Valencian Community]; Extremadura; Galicia; Illes Baleares (Balearic Islands); La Rioja; Madrid; Melilla*; Murcia; Navarra (Castilian), Nafarroa (Basque) [Navarre]; Pais Vasco (Castilian), Euskadi (Basque) [Basque Country]<br>
@@ -443,9 +437,9 @@ $1.62 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-3.53% (2023 est.)<br>
-8.39% (2022 est.)<br>
-3.09% (2021 est.)<br>
+2.8% (2024 est.)<br>
+3.5% (2023 est.)<br>
+8.4% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -481,19 +475,19 @@ textiles and apparel (including footwear), food and beverages, metals and metal 
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-24.153 million (2023 est.)<br>
+24.15 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-12.14% (2023 est.)<br>
-12.92% (2022 est.)<br>
-14.78% (2021 est.)<br>
+11.4% (2024 est.)<br>
+12.2% (2023 est.)<br>
+12.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 28.7% (2023 est.)<br>
-_male_: 28.8% (2023 est.)<br>
-_female_: 28.6% (2023 est.)<br>
+_total_: 27% (2024 est.)<br>
+_male_: 26.4% (2024 est.)<br>
+_female_: 27.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -525,11 +519,11 @@ _expenditures_: $514.452 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-109.22% of GDP (2022 est.)<br>
+107.3% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-15.5% (of GDP) (2022 est.)<br>
+15% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -567,18 +561,18 @@ crude petroleum, cars, garments, vehicle parts/accessories, natural gas (2023)<b
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$84.154 billion (2024 est.)<br>
 $103.089 billion (2023 est.)<br>
 $92.905 billion (2022 est.)<br>
-$92.201 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 
 ## Energy
 
@@ -650,7 +644,7 @@ _domestic_: fixed-line is 39 per 100 and mobile-cellular 124 telephones per 100 
 _international_: country code - 34; landing points for the MAREA, Tata TGN-Western Europe, Pencan-9, SAT-3/WASC, Canalink, Atlantis-2, Columbus -111, Estepona-Tetouan, FLAG Europe-Asia (FEA), Balalink, ORVAL and PENBAL-5 submarine cables providing connectivity to Europe, the Middle East, Africa, South America, Asia, Southeast Asia and the US; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean), Eutelsat; tropospheric scatter to adjacent countries (2019)<br>
 
 **Broadcast media**<br>
-<p>a mixture of both publicly operated and privately owned TV and radio stations; overall, hundreds of TV channels are available including national, regional, local, public, and international channels; satellite and cable TV systems available; multiple national radio networks, a large number of regional radio networks, and a larger number of local radio stations; overall, hundreds of radio stations </p> (2019)<br>
+<p>mix of publicly operated and privately owned TV and radio stations; hundreds of TV channels available, including national, regional, local, public, and international channels; satellite and cable TV available; multiple national radio networks, large number of regional radio networks, and larger number of local radio stations</p> (2019)<br>
 
 **Internet country code**<br>
 .es<br>
@@ -664,12 +658,6 @@ _subscriptions per 100 inhabitants_: 38 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 21 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 552<br>
-_annual passenger traffic on registered air carriers_: 80,672,105 (2018)<br>
-_annual freight traffic on registered air carriers_: 1.117 billion (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 EC<br>
 
@@ -679,17 +667,8 @@ EC<br>
 **Heliports**<br>
 162 (2025)<br>
 
-**Pipelines**<br>
-10,481 km gas, 358 km oil, 4,378 km refined products (2017)<br>
-
 **Railways**<br>
 _total_: 15,489 km (2020) 9,953 km electrified<br>
-
-**Roadways**<br>
-_total_: 150,110 km (2021)<br>
-
-**Waterways**<br>
-1,000 km (2012)<br>
 
 **Merchant marine**<br>
 _total_: 503 (2023)<br>
@@ -708,8 +687,8 @@ _key ports_: Alicante, Barcelona, Cadiz, Ceuta, Ferrol, Huelva, Las Palmas, Mala
 ## Military and Security
 
 **Military and security forces**<br>
-Spanish Armed Forces (Fuerzas Armadas de España): Army (Ejército de Tierra), Spanish Navy (Armada Espanola; includes Marine Corps), Air and Space Force (Ejército del Aire y del Espacio), Emergency Response Unit (Unidad Militar de Emergencias); Civil Guard (Guardia Civil) (2024)<br>
-<strong>note 1:</strong> the Civil Guard is a military force with police duties (including coast guard) under both the Ministry of Defense and the Ministry of the Interior; it also responds to the needs of the Ministry of Finance<br><br><strong>note 2:</strong> the Emergency Response Unit was established in 2006 as a separate branch of service for responding to natural disasters and providing disaster relief both domestically and abroad; it has personnel from all the other military services<br><br><strong>note 3:</strong> the Spanish National Police (Cuerpo Nacional de Policía, CNP) and the Civil Guard maintain internal security as well as migration and border enforcement under the authority of the Ministry of the Interior; the regional police under the authority of the Catalan and the Basque Country regional governments and municipal police throughout the country also support domestic security <br><br><strong>note 4:</strong> the military has a Common Corps of four specialized corps that provide professional services to all the branches of the Armed Forces and the Civil Guard, including comptroller, legal, medical, and music services<br><br><strong>note 5: </strong>the Royal Guard is an independent regiment of the military dedicated to the protection of the King and members of the royal family; it is made up of members of the Army, Navy, Air Force, and Common Corps<br>
+Spanish Armed Forces (Fuerzas Armadas de España): Army (Ejército de Tierra), Spanish Navy (Armada Espanola; includes Marine Corps), Air and Space Force (Ejército del Aire y del Espacio), Emergency Response Unit (Unidad Militar de Emergencias); Civil Guard (Guardia Civil)<br><br>Ministry of the Interior: Spanish National Police (Cuerpo Nacional de Policía, CNP) (2025)<br>
+<strong>note 1:</strong> the Civil Guard is a military force with police duties (including coast guard) under both the Ministry of Defense and the Ministry of the Interior; it also responds to the needs of the Ministry of Finance; the CNP and the Civil Guard maintain internal security as well as migration and border enforcement under the authority of the Ministry of the Interior; the regional police under the authority of the Catalan and the Basque Country regional governments and municipal police throughout the country also support domestic security <br><br><strong>note 2:</strong> the Emergency Response Unit was established in 2006 as a separate branch of service for responding to natural disasters and providing disaster relief both domestically and abroad; it has personnel from all the other military services<br><br><strong>note 3:</strong> the Royal Guard is an independent joint-service regiment of the military dedicated to the protection of the King and members of the royal family<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2024 est.)<br>

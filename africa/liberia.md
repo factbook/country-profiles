@@ -99,10 +99,10 @@ _15-64 years_: 57.9% (male 1,566,263/female 1,579,835)<br>
 _65 years and over_: 3.2% (2024 est.) (male 80,961/female 93,534)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 79.7<br>
-_youth dependency ratio_: 73.7<br>
-_elderly dependency ratio_: 6<br>
-_potential support ratio_: 16.7 (2021 est.)<br>
+_total dependency ratio_: 72.8 (2024 est.)<br>
+_youth dependency ratio_: 67.3 (2024 est.)<br>
+_elderly dependency ratio_: 5.5 (2024 est.)<br>
+_potential support ratio_: 18 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 19.9 years (2024 est.)<br>
@@ -224,7 +224,7 @@ _female_: 34.1% (2017)<br>
 ## Environment
 
 **Environment - current issues**<br>
-tropical rain forest deforestation; soil erosion; loss of biodiversity; hunting of endangered species for bushmeat; pollution of coastal waters from oil residue and raw sewage; pollution of rivers from industrial run-off; burning and dumping of household waste<br>
+tropical rainforest deforestation; soil erosion; loss of biodiversity; hunting of endangered species for bushmeat; pollution of coastal waters from oil residue and raw sewage; pollution of rivers from industrial run-off; burning and dumping of household waste<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -247,12 +247,6 @@ _rate of urbanization_: 3.41% annual rate of change (2015-20 est.)<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em><em>due to </em></em><em>high food prices and macroeconomic challenges </em><em>- </em>levels of acute food insecurity are expected to increase in 2023 associated with high food prices due to high international commodity prices and elevated transportation costs, exacerbated by the unfolding effects of the war in Ukraine on international trade and commodity prices; food availability and access are likely to remain limited by high food prices and below‑average imports; an expected further slowdown in economic domestic growth in 2023 is likely to compound food insecurity conditions for the most vulnerable households; in the June to August 2023 lean season period, over 531,000 people are projected to face acute food insecurity (2023)<br>
-
-**Revenue from forest resources**<br>
-13.27% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 35.8 micrograms per cubic meter (2019 est.)<br>
@@ -284,7 +278,7 @@ presidential republic<br>
 _name_: Monrovia<br>
 _geographic coordinates_: 6 18 N, 10 48 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named after James MONROE (1758-1831), the fifth president of the United States and supporter of the colonization of Liberia by freed slaves; one of two national capitals named for a US president, the other is Washington, D.C.<br>
+_etymology_: named after James MONROE (1758-1831), the fifth president of the United States and supporter of Liberia's colonization by freed slaves<br>
 
 **Administrative divisions**<br>
 15 counties; Bomi, Bong, Gbarpolu, Grand Bassa, Grand Cape Mount, Grand Gedeh, Grand Kru, Lofa, Margibi, Maryland, Montserrado, Nimba, River Cess, River Gee, Sinoe<br>
@@ -296,7 +290,7 @@ _etymology_: named after James MONROE (1758-1831), the fifth president of the Un
 Independence Day, 26 July (1847)<br>
 
 **Legal system**<br>
-mixed legal system of common law, based on Anglo-American law, and customary law<br>
+mixed system of common law, based on Anglo-American law and customary law<br>
 
 **Constitution**<br>
 _history_: previous 1847 (at independence); latest drafted 19 October 1983, revision adopted by referendum 3 July 1984, effective 6 January 1986<br>
@@ -415,9 +409,9 @@ $4.24 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-10.09% (2023 est.)<br>
-7.59% (2022 est.)<br>
-7.82% (2021 est.)<br>
+10.1% (2023 est.)<br>
+7.6% (2022 est.)<br>
+7.8% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -446,19 +440,19 @@ mining (iron ore and gold), rubber processing, palm oil processing, diamonds<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.533 million (2023 est.)<br>
+2.607 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.94% (2023 est.)<br>
-2.99% (2022 est.)<br>
-3.79% (2021 est.)<br>
+2.9% (2024 est.)<br>
+2.9% (2023 est.)<br>
+3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 2.3% (2023 est.)<br>
-_male_: 2.4% (2023 est.)<br>
-_female_: 2.2% (2023 est.)<br>
+_total_: 2.1% (2024 est.)<br>
+_male_: 2.2% (2024 est.)<br>
+_female_: 2% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -528,16 +522,16 @@ $340.966 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$1.487 billion (2023 est.)<br>
+$1.335 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Liberian dollars (LRD) per US dollar -<br>
+174.956 (2023 est.)<br>
 152.934 (2022 est.)<br>
 166.154 (2021 est.)<br>
 191.518 (2020 est.)<br>
 186.43 (2019 est.)<br>
-144.056 (2018 est.)<br>
 
 ## Energy
 
@@ -587,7 +581,7 @@ _domestic_: fixed-line less than 1 per 100; mobile-cellular subscriptions are 32
 _international_: country code - 231; landing point for the ACE submarine cable&nbsp;linking 20 West&nbsp;African countries and Europe;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-8 private and 1 government-owned TV station; satellite TV service available; 1 state-owned radio station; approximately&nbsp;20 independent radio stations broadcasting in Monrovia, with approximately&nbsp;80 more local stations operating in other areas; transmissions of 4 international (including the British Broadcasting Corporation and Radio France Internationale) broadcasters are available (2019)<br>
+8 private and 1 state-owned TV station; satellite TV service available; 1 state-owned radio station; about 20 independent radio stations broadcasting in Monrovia, with about 80 more local stations operating in other areas; transmissions of 4 international broadcasters are available (2019)<br>
 
 **Internet country code**<br>
 .lr<br>
@@ -607,19 +601,11 @@ A8<br>
 **Airports**<br>
 19 (2025)<br>
 
-**Pipelines**<br>
-4 km oil (2013)<br>
-
 **Railways**<br>
 _total_: 429 km (2008)<br>
 _standard gauge_: 345 km (2008) 1.435-m gauge<br>
 _narrow gauge_: 84 km (2008) 1.067-m gauge<br>
 <strong>note:</strong> most sections of the railways inoperable due to damage sustained during the civil wars from 1980 to 2003, but many are being rebuilt<br>
-
-**Roadways**<br>
-_total_: 10,600 km<br>
-_paved_: 657 km<br>
-_unpaved_: 9,943 km (2021)<br>
 
 **Merchant marine**<br>
 _total_: 4,821 (2023)<br>
@@ -637,8 +623,7 @@ _key ports_: Buchanan, Cape Palmas, Greenville, Monrovia<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Liberia (AFL): Army, Liberian Coast Guard, Air Wing; Ministry of Justice: Liberia National Police, Liberia Drug Enforcement Agency (2024)<br>
-<strong>note:</strong> the AFL Air Wing was previously disbanded in 2005 and has been under redevelopment since 2019; the Liberian National Police and the Liberian Drug Enforcement Agency are under the Ministry of Justice<br>
+Armed Forces of Liberia (AFL): Army, Liberian Coast Guard<br><br>Ministry of Justice: Liberia National Police, Liberia Drug Enforcement Agency (2025)<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2022 est.)<br>
@@ -648,7 +633,7 @@ Armed Forces of Liberia (AFL): Army, Liberian Coast Guard, Air Wing; Ministry of
 0.5% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 2,000 active personnel (2023)<br>
+approximately 2,000 active AFL personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military has a limited inventory; in recent years, it has received small quantities of equipment, including donations, from countries such as China and the US (2024)<br>
@@ -657,7 +642,7 @@ the military has a limited inventory; in recent years, it has received small qua
 18-35 years of age for men and women for voluntary military service; no conscription (2024)<br>
 
 **Military - note**<br>
-the AFL is responsible for external defense and also has some domestic security responsibilities if called upon, such as humanitarian assistance during natural disasters and support to law enforcement; it is a small, lightly equipped force comprised of two combat infantry battalions and supporting units; the infantry battalions were rebuilt with US assistance in 2007-2008 from the restructured AFL following the end of the second civil war in 2003 when military and police forces were disbanded and approximately 100,000 military, police, and rebel combatants were disarmed<br><br>the first militia unit established for defense of the Liberia colony was raised in 1832; the AFL traces its origins to the 1908 establishment of the Liberia Frontier Force, which became the Liberian National Guard in 1965; the AFL was established in 1970<br><br>the UN Mission in Liberia (UNMIL) was established in 2003 as a peacekeeping force; at its height, UNMIL was comprised of about 15,000 personnel, including more than 3,000 troops absorbed from the Economic Community of West African States (ECOWAS) peacekeeping mission; Liberian forces reassumed full control of the country’s security in June of 2016, and the UNMIL mission was ended in 2018 (2024)<br>
+the AFL is responsible for external defense and also has some domestic security responsibilities if called upon, such as humanitarian assistance during natural disasters and support to law enforcement; it is a small, lightly equipped force comprised of two combat infantry battalions and supporting units; the infantry battalions were rebuilt with US assistance in 2007-2008 from the restructured AFL following the end of the second civil war in 2003 when military and police forces were disbanded and approximately 100,000 military, police, and rebel combatants were disarmed<br><br>the first militia unit established for defense of the Liberia colony was raised in 1832; the AFL traces its origins to the 1908 establishment of the Liberia Frontier Force, which became the Liberian National Guard in 1965; the AFL was established in 1970<br><br>the UN Mission in Liberia (UNMIL) was established in 2003 as a peacekeeping force; at its height, UNMIL was comprised of about 15,000 personnel, including more than 3,000 troops absorbed from the Economic Community of West African States (ECOWAS) peacekeeping mission; Liberian forces reassumed full control of the country’s security in June of 2016, and the UNMIL mission was ended in 2018 (2025)<br>
 
 ## Transnational Issues
 

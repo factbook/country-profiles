@@ -93,10 +93,10 @@ _15-64 years_: 64.3% (male 10,916/female 11,648)<br>
 _65 years and over_: 21.5% (2024 est.) (male 3,414/female 4,116)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 49.6<br>
-_youth dependency ratio_: 19.6<br>
-_elderly dependency ratio_: 30<br>
-_potential support ratio_: 3.3 (2021)<br>
+_total dependency ratio_: 55.5 (2024 est.)<br>
+_youth dependency ratio_: 22.2 (2024 est.)<br>
+_elderly dependency ratio_: 33.4 (2024 est.)<br>
+_potential support ratio_: 3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 46.1 years (2024 est.)<br>
@@ -219,9 +219,6 @@ _other_: 45% (2022 est.)<br>
 _urban population_: 97.8% of total population (2023)<br>
 _rate of urbanization_: 0.41% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 9.85 micrograms per cubic meter (2019 est.)<br>
 _methane emissions_: 0.02 megatons (2020 est.)<br>
@@ -248,7 +245,7 @@ _name_: San Marino (city)<br>
 _geographic coordinates_: 43 56 N, 12 25 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: named after Saint MARINUS, who in A.D. 301 founded a monastic settlement around which the city and later the state of San Marino coalesced<br>
+_etymology_: named after Saint MARINUS, who founded a monastic settlement on Monte Titano in the early 4th century<br>
 
 **Administrative divisions**<br>
 9 municipalities (castelli, singular - castello); Acquaviva, Borgo Maggiore, Chiesanuova, Domagnano, Faetano, Fiorentino, Montegiardino, San Marino Citta, Serravalle<br>
@@ -363,9 +360,9 @@ $1.832 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-1.05% (2017 est.)<br>
-0.57% (2016 est.)<br>
-0.15% (2015 est.)<br>
+1.2% (2024 est.)<br>
+5.9% (2023 est.)<br>
+5.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -418,23 +415,24 @@ _expenditures_: $816.572 million (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-103.15% of GDP (2022 est.)<br>
+103.2% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-17.81% (of GDP) (2022 est.)<br>
+17.8% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
 $284.256 million (2022 est.)<br>
 $100.118 million (2021 est.)<br>
 $42.98 million (2020 est.)<br>
+<strong>note:</strong> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $3.616 billion (2022 est.)<br>
 $3.23 billion (2021 est.)<br>
 $2.439 billion (2020 est.)<br>
-<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
+<strong>note:</strong> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Germany 12%, Austria 10%, USA 9%, Romania 8%, Brazil 7% (2023)<br>
@@ -448,7 +446,7 @@ washing and bottling machines, other foods, packaged medicine, woodworking machi
 $3.169 billion (2022 est.)<br>
 $2.94 billion (2021 est.)<br>
 $2.232 billion (2020 est.)<br>
-<strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
+<strong>note:</strong> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Germany 24%, Italy 13%, Netherlands 9%, Spain 9%, Poland 8% (2023)<br>
@@ -466,11 +464,11 @@ $954.383 million (2021 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.951 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.877 (2020 est.)<br>
-0.893 (2019 est.)<br>
 <strong>note: </strong>while not an EU member state, San Marino, due to its preexisting monetary and banking agreements with Italy, has a 2000 monetary agreement with the EU to produce limited euro coinage—but not banknotes—that began enforcement in January 2002 and was superseded by a new EU agreement in 2012<br>
 
 ## Energy
@@ -514,15 +512,10 @@ T7<br>
 **Airports**<br>
 1 (2025)<br>
 
-**Roadways**<br>
-_total_: 292 km<br>
-_paved_: 292 km (2006)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>
-Military Corps (National Guard): Guard of the Rock (or Fortress Guard), Uniformed Militia, Guard of the Great and General Council, Corps of the Gendarmerie<br><br>Ministry of Internal Affairs: Civil Police Corps (2024)<br>
-<strong>note:</strong> the captains regent oversees the Gendarmerie and National Guard when they are performing duties related to public order and security; the Ministry of Foreign Affairs exercises control over such administrative functions as personnel and equipment, and the courts exercise control over the Gendarmerie when it acts as judicial police<br>
+San Marino Military Corps (Corpi Militari Sammarinesi; aka Sammarinese Armed Forces or Forze Armate Sammarinesi): Fortress Guard Command (or Guard of the Rock), Uniformed Company of the Militias, Guard of the Great and General Council, Corps of the Gendarmerie<br><br>Ministry of Internal Affairs: Civil Police Corps (2025)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service; no conscription; government has the authority to call up all San Marino citizens from 16-60 years of age to serve in the military (2024)<br>

@@ -97,10 +97,10 @@ _15-64 years_: 67.5% (male 5,958/female 7,147)<br>
 _65 years and over_: 11.7% (2024 est.) (male 1,093/female 1,170)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 38.6<br>
-_youth dependency ratio_: 24.4<br>
-_elderly dependency ratio_: 14.1<br>
-_potential support ratio_: 7.1 (2021)<br>
+_total dependency ratio_: 48.2 (2024 est.)<br>
+_youth dependency ratio_: 30.9 (2024 est.)<br>
+_elderly dependency ratio_: 17.3 (2024 est.)<br>
+_potential support ratio_: 5.8 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 37.1 years (2024 est.)<br>
@@ -187,7 +187,7 @@ _female_: NA<br>
 ## Environment
 
 **Environment - current issues**<br>
-supplies of potable water sometimes cannot meet increasing demand largely because of poor distribution system<br>
+inadequate potable water<br>
 
 **Climate**<br>
 tropical; moderated by northeast trade winds<br>
@@ -390,7 +390,7 @@ _total subscriptions_: 26,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 170 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: in the telecom sector, with declines seen in subscriber numbers (particularly for prepaid mobile services &mdash; the mainstay of short-term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis to a small extent as employees and students have resorted to working from home, but their contribution to the sector has been insufficient to offset steep falls in other areas of the market; one area of the telecom market that does not yet appear poised for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have little appetite for investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage; until the economies and markets stabilize, and overseas visitors return there is unlikely to be much momentum towards implementing 5G capabilities anywhere in the region (2021)<br>
+_general assessment_: declines in subscriber numbers, particularly for prepaid mobile services&nbsp; (the mainstay of short-term visitors), and revenue; governments, regulators, and MNOs have shown little interest in investing in 5G opportunities; network expansion and enhancements remain concentrated around improving LTE coverage (2021)<br>
 _domestic_: fixed-line teledensity is about 38 per 100 persons; mobile-cellular teledensity is roughly 170 per 100 persons (2021)<br>
 _international_: country code - 1-264; landing points for the&nbsp;SSCS, ECFS, GCN&nbsp;and Southern Caribbean Fiber with submarine cable&nbsp;links to&nbsp;Caribbean islands&nbsp;and to the US; microwave radio relay to island of Saint Martin/Sint Maarten (2019)<br>
 
@@ -409,20 +409,11 @@ _subscriptions per 100 inhabitants_: 35 (2018 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 4<br>
-
 **Civil aircraft registration country code prefix**<br>
 VP-A<br>
 
 **Airports**<br>
 1 (2025)<br>
-
-**Roadways**<br>
-_total_: 175 km<br>
-_paved_: 82 km<br>
-_unpaved_: 93 km (2004)<br>
 
 **Merchant marine**<br>
 _total_: 2 (2023)<br>

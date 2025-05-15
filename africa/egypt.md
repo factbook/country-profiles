@@ -83,7 +83,7 @@ approximately 95% of the population lives within 20 km of the Nile River and its
 periodic droughts; frequent earthquakes; flash floods; landslides; hot, driving windstorms called khamsin occur in spring; dust storms; sandstorms<br>
 
 **Geography - note**<br>
-<strong>note:</strong> controls Sinai Peninsula, the only land bridge between Africa and remainder of Eastern Hemisphere; controls Suez Canal, a sea link between Indian Ocean and Mediterranean Sea; size, and juxtaposition to Israel, establish its major role in Middle Eastern geopolitics; dependence on upstream neighbors; dominance of Nile basin issues<br>
+controls Sinai Peninsula, the only land bridge between Africa and remainder of Eastern Hemisphere; controls Suez Canal, a sea link between Indian Ocean and Mediterranean Sea<br>
 
 ## People and Society
 
@@ -113,10 +113,10 @@ _15-64 years_: 60.6% (male 34,646,369/female 32,792,151)<br>
 _65 years and over_: 5.6% (2024 est.) (male 3,146,720/female 3,069,042)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 60.8<br>
-_youth dependency ratio_: 53.2<br>
-_elderly dependency ratio_: 7.7<br>
-_potential support ratio_: 13 (2021 est.)<br>
+_total dependency ratio_: 65 (2024 est.)<br>
+_youth dependency ratio_: 55.7 (2024 est.)<br>
+_elderly dependency ratio_: 9.2 (2024 est.)<br>
+_potential support ratio_: 10.8 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 24.4 years (2024 est.)<br>
@@ -241,7 +241,7 @@ _female_: 14 years (2018)<br>
 ## Environment
 
 **Environment - current issues**<br>
-agricultural land being lost to urbanization and windblown sands; increasing soil salination below Aswan High Dam; desertification; oil pollution threatening coral reefs, beaches, and marine habitats; other water pollution from agricultural pesticides, raw sewage, and industrial effluents; limited natural freshwater resources away from the Nile, which is the only perennial water source; rapid growth in population overstraining the Nile and natural resources<br>
+rapid growth in population straining natural resources; increasing soil salination below Aswan High Dam; desertification; oil pollution in coastal ecosystems; water pollution from agricultural pesticides, raw sewage, and industrial effluents; limited natural freshwater resources away from the Nile<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -261,9 +261,6 @@ _other_: 95.9% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 43.1% of total population (2023)<br>
 _rate of urbanization_: 1.9% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.15% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 63.16 micrograms per cubic meter (2019 est.)<br>
@@ -313,7 +310,7 @@ _name_: Cairo<br>
 _geographic coordinates_: 30 03 N, 31 15 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Friday in April; ends last Friday in October<br>
-_etymology_: from the Arabic "al-Qahira," meaning "the victorious"<br>
+_etymology_: the ancient Egyptian name of the original city was Khere-ohe or Kheri-aha; the modern city's name may also derive from the Arabic <em>al-qahir</em>, meaning "the victorious;" this is an Arabic name for the planet Mars, which was in the ascendant on the day in 969 A.D. when construction on the new part of the city began<br>
 
 **Administrative divisions**<br>
 27 governorates (muhafazat, singular - muhafazat); Ad Daqahliyah, Al Bahr al Ahmar (Red Sea), Al Buhayrah, Al Fayyum, Al Gharbiyah, Al Iskandariyah (Alexandria), Al Isma'iliyah (Ismailia), Al Jizah (Giza), Al Minufiyah, Al Minya, Al Qahirah (Cairo), Al Qalyubiyah, Al Uqsur (Luxor), Al Wadi al Jadid (New Valley), As Suways (Suez), Ash Sharqiyah, Aswan, Asyut, Bani Suwayf, Bur Sa'id (Port Said), Dumyat (Damietta), Janub Sina' (South Sinai), Kafr ash Shaykh, Matruh, Qina, Shamal Sina' (North Sinai), Suhaj<br>
@@ -325,7 +322,7 @@ _etymology_: from the Arabic "al-Qahira," meaning "the victorious"<br>
 Revolution Day, 23 July (1952)<br>
 
 **Legal system**<br>
-mixed legal system based on Napoleonic civil and penal law, Islamic religious law, and vestiges of colonial-era laws; judicial review of the constitutionality of laws by the Supreme Constitutional Court<br>
+mixed system based on Napoleonic civil and penal law, Islamic religious law, and vestiges of colonial-era laws; Supreme Constitutional Court reviews laws<br>
 
 **Constitution**<br>
 _history_: several previous; latest approved by a constitutional committee in December 2013, approved by referendum held on 14-15 January 2014, ratified by interim president on 19 January 2014<br>
@@ -447,9 +444,9 @@ $396.002 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-33.88% (2023 est.)<br>
+33.9% (2023 est.)<br>
 13.9% (2022 est.)<br>
-5.21% (2021 est.)<br>
+5.2% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -485,19 +482,19 @@ textiles, food processing, tourism, chemicals, pharmaceuticals, hydrocarbons, co
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-34.065 million (2023 est.)<br>
+33.749 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7.31% (2023 est.)<br>
-7.34% (2022 est.)<br>
-7.44% (2021 est.)<br>
+7.2% (2024 est.)<br>
+7.3% (2023 est.)<br>
+7.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19% (2023 est.)<br>
-_male_: 12.6% (2023 est.)<br>
-_female_: 49.2% (2023 est.)<br>
+_total_: 18.7% (2024 est.)<br>
+_male_: 12.4% (2024 est.)<br>
+_female_: 47.1% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -533,7 +530,7 @@ _expenditures_: $96.057 billion (2015 est.)<br>
 <strong>note:</strong> data cover central government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-12.52% (of GDP) (2015 est.)<br>
+12.5% (of GDP) (2015 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -571,22 +568,22 @@ refined petroleum, wheat, plastics, natural gas, packaged medicine (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$34.278 billion (2024 est.)<br>
 $33.07 billion (2023 est.)<br>
 $32.144 billion (2022 est.)<br>
-$39.824 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$121.328 billion (2023 est.)<br>
+$117.272 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Egyptian pounds (EGP) per US dollar -<br>
+45.299 (2024 est.)<br>
 30.626 (2023 est.)<br>
 19.16 (2022 est.)<br>
 15.645 (2021 est.)<br>
 15.759 (2020 est.)<br>
-16.771 (2019 est.)<br>
 
 ## Energy
 
@@ -654,7 +651,7 @@ _domestic_: fixed-line roughly 10 per 100, mobile-cellular 95 per 100 (2021)<br>
 _international_: country code - 20; landing points for Aletar, Africa-1, FEA, Hawk, IMEWE,&nbsp;and the SEA-ME-WE-3 &amp; 4&nbsp;submarine cable networks linking to Asia, Africa, the Middle East, and Australia&nbsp;; satellite earth stations - 4 (2 Intelsat - Atlantic Ocean and Indian Ocean, 1 Arabsat, and 1 Inmarsat); tropospheric scatter to Sudan; microwave radio relay to Israel; a participant in Medarabtel (2019)<br>
 
 **Broadcast media**<br>
-mix of state-run and private broadcast media; state-run TV operates 2 national and 6 regional terrestrial networks, as well as a few satellite channels; dozens of private satellite channels and a large number of Arabic satellite channels are available for free; some limited satellite services are also available via subscription; state-run radio operates about 30 stations belonging to 8 networks; privately-owned radio includes 8 major stations, 4 of which belong to 1 network (2019)<br>
+mix of state-run and private broadcast media; state-run TV operates 2 national and 6 regional terrestrial networks, as well as a few satellite channels; dozens of private satellite channels and a large number of Arabic satellite channels are available for free; some limited satellite services are also available via subscription; state-run radio operates about 30 stations belonging to 8 networks; privately-owned radio includes 8 major stations (2019)<br>
 
 **Internet country code**<br>
 .eg<br>
@@ -671,12 +668,6 @@ one of the largest and most famous libraries in the ancient world was the Great 
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 14 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 101<br>
-_annual passenger traffic on registered air carriers_: 12,340,832 (2018)<br>
-_annual freight traffic on registered air carriers_: 437.63 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 SU<br>
 
@@ -686,20 +677,9 @@ SU<br>
 **Heliports**<br>
 60 (2025)<br>
 
-**Pipelines**<br>
-486 km condensate, 74 km condensate/gas, 7,986 km gas, 957 km liquid petroleum gas, 5,225 km oil, 37 km oil/gas/water, 895 km refined products, 65 km water (2013)<br>
-
 **Railways**<br>
 _total_: 5,085 km (2014)<br>
 _standard gauge_: 5,085 km (2014) 1.435-m gauge (62 km electrified)<br>
-
-**Roadways**<br>
-_total_: 65,050 km<br>
-_paved_: 48,000 km<br>
-_unpaved_: 17,050 km (2019)<br>
-
-**Waterways**<br>
-3,500 km (2018) (includes the Nile River, Lake Nasser, Alexandria-Cairo Waterway, and numerous smaller canals in Nile Delta; the Suez Canal (193.5 km including approaches) is navigable by oceangoing vessels drawing up to 17.68 m)<br>
 
 **Merchant marine**<br>
 _total_: 441 (2023)<br>
@@ -719,7 +699,7 @@ _key ports_: Ain Sukhna Terminal, Al Iskandariyh (Alexandria), As Suways, Bur Sa
 
 **Military and security forces**<br>
 Egyptian Armed Forces (EAF): Army (includes Republican Guard), Navy (includes Coast Guard), Air Force, Air Defense Forces, Border Guard Forces<br><br>Interior Ministry: Public Security Sector Police, the Central Security Force, National Security Agency (2024)<br>
-<strong>note 1:</strong> the Public Security Sector Police are responsible for law enforcement nationwide; the Central Security Force protects infrastructure and is responsible for crowd control; the National Security Agency is responsible for internal security threats and counterterrorism along with other security services<br><br><strong>note 2:</strong> in addition to its external defense duties, the EAF also has a mandate to assist police in protecting vital infrastructure during a state of emergency; military personnel were granted full arrest authority in 2011 but normally only use this authority during states of emergency and “periods of significant turmoil”<br>
+<strong>note 1:</strong> the Public Security Sector Police are responsible for law enforcement nationwide; the Central Security Force protects infrastructure and is responsible for crowd control; the National Security Agency is responsible for internal security threats and counterterrorism along with other security services<br><br><strong>note 2:</strong> in addition to its external defense duties, the EAF also has a mandate to assist police in protecting vital infrastructure during a state of emergency; military personnel were granted full arrest authority in 2011 but normally only use this authority during states of emergency and periods of "significant turmoil”<br>
 
 **Military expenditures**<br>
 1% of GDP (2023 est.)<br>
@@ -729,7 +709,7 @@ Egyptian Armed Forces (EAF): Army (includes Republican Guard), Navy (includes Co
 1.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 450,000 EAF personnel (2024)<br>
+estimated 450,000 active EAF personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the EAF's inventory is comprised of a mix of domestically produced, Soviet-era, and more modern, particularly Western, weapons systems; in recent years, the EAF has embarked on an equipment modernization program with significant purchases from foreign suppliers; major suppliers have included China, France, Germany, Italy, Russia, and the US; Egypt has an established defense industry that produces a range of products from small arms to armored vehicles and naval vessels; it also has licensed and co-production agreements with several countries, including Germany and the US (2024)<br>

@@ -100,10 +100,10 @@ _15-64 years_: 66.7% (male 135,903/female 141,503)<br>
 _65 years and over_: 5.5% (2024 est.) (male 11,463/female 11,580)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 49.7<br>
-_youth dependency ratio_: 42.3<br>
-_elderly dependency ratio_: 7.4<br>
-_potential support ratio_: 13.5 (2021 est.)<br>
+_total dependency ratio_: 49.9 (2024 est.)<br>
+_youth dependency ratio_: 41.6 (2024 est.)<br>
+_elderly dependency ratio_: 8.3 (2024 est.)<br>
+_potential support ratio_: 12 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 26.8 years (2024 est.)<br>
@@ -228,7 +228,7 @@ _female_: 13 years (2021)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation; water pollution, including pollution of Belize's Barrier Reef System, from sewage, industrial effluents, agricultural runoff; inability to properly dispose of solid waste<br>
+deforestation; water pollution from sewage, industrial effluents, agricultural runoff; inability to properly dispose of solid waste<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
@@ -248,12 +248,6 @@ _other_: 37% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 46.6% of total population (2023)<br>
 _rate of urbanization_: 2.3% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.31% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 10.51 micrograms per cubic meter (2019 est.)<br>
@@ -286,7 +280,7 @@ parliamentary democracy (National Assembly) under a constitutional monarchy; a C
 _name_: Belmopan<br>
 _geographic coordinates_: 17 15 N, 88 46 W<br>
 _time difference_: UTC-6 (1 hour behind Washington, DC, during Standard Time)<br>
-_etymology_: the name is formed from the union of two words: "Belize," the name of the longest river in the country, and "Mopan," one of the rivers in the area that empties into the Belize River<br>
+_etymology_: the name is formed from two words: "Belize," the name of the longest river in the country, and "Mopan," one of the rivers in the area that empties into the Belize River<br>
 
 **Administrative divisions**<br>
 6 districts; Belize, Cayo, Corozal, Orange Walk, Stann Creek, Toledo<br>
@@ -345,7 +339,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 12/11/2020<br>
 _percentage of women in chamber_: 28.6%<br>
-_expected date of next election_: March 2025<br>
+_expected date of next election_: May 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Judicature (consists of the Court of Appeal with the court president and 3 justices, and the Supreme Court with the chief justice and 10 justices); the Caribbean Court of Justice is the final court of appeal<br>
@@ -418,9 +412,9 @@ $3.067 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.39% (2023 est.)<br>
-6.28% (2022 est.)<br>
-3.24% (2021 est.)<br>
+3.3% (2024 est.)<br>
+4.4% (2023 est.)<br>
+6.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -455,19 +449,19 @@ garment production, food processing, tourism, construction, oil<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-191,000 (2023 est.)<br>
+190,000 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-8.26% (2023 est.)<br>
-8.72% (2022 est.)<br>
-10.16% (2021 est.)<br>
+7% (2024 est.)<br>
+8.3% (2023 est.)<br>
+8.8% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.4% (2023 est.)<br>
-_male_: 12.1% (2023 est.)<br>
-_female_: 26.2% (2023 est.)<br>
+_total_: 16.3% (2024 est.)<br>
+_male_: 10.6% (2024 est.)<br>
+_female_: 25.6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
@@ -486,19 +480,19 @@ _expenditures_: $506.316 million (2017 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-21.34% (of GDP) (2017 est.)<br>
+21.3% (of GDP) (2017 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$19.753 million (2023 est.)<br>
+-$51.762 million (2024 est.)<br>
+-$19.761 million (2023 est.)<br>
 -$235.566 million (2022 est.)<br>
--$157.868 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$1.64 billion (2024 est.)<br>
 $1.536 billion (2023 est.)<br>
 $1.369 billion (2022 est.)<br>
-$1.043 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -510,9 +504,9 @@ raw sugar, bananas, fish, shellfish, refined petroleum (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$1.724 billion (2024 est.)<br>
 $1.573 billion (2023 est.)<br>
 $1.574 billion (2022 est.)<br>
-$1.249 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -524,22 +518,22 @@ refined petroleum, orthopedic appliances, ships, garments, tobacco (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$498.087 million (2024 est.)<br>
 $473.729 million (2023 est.)<br>
 $482.146 million (2022 est.)<br>
-$420.103 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$1.287 billion (2023 est.)<br>
+$1.235 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Belizean dollars (BZD) per US dollar -<br>
+2 (2024 est.)<br>
 2 (2023 est.)<br>
 2 (2022 est.)<br>
 2 (2021 est.)<br>
 2 (2020 est.)<br>
-2 (2019 est.)<br>
 
 ## Energy
 
@@ -606,12 +600,6 @@ _subscriptions per 100 inhabitants_: 10 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 28<br>
-_annual passenger traffic on registered air carriers_: 1,297,533 (2018)<br>
-_annual freight traffic on registered air carriers_: 3.78 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 V3<br>
 
@@ -620,14 +608,6 @@ V3<br>
 
 **Heliports**<br>
 5 (2025)<br>
-
-**Roadways**<br>
-_total_: 3,281 km<br>
-_paved_: 601 km<br>
-_unpaved_: 2,680 km (2017)<br>
-
-**Waterways**<br>
-825 km (2011) (navigable only by small craft)<br>
 
 **Merchant marine**<br>
 _total_: 774 (2023)<br>
@@ -657,7 +637,7 @@ Belize Defense Force (BDF): Army, Air Wing; Belize Coast Guard (BCG) (2025)<br>
 1.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 1,500 BDF personnel (2024)<br>
+approximately 1,500 BDF personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military has a small inventory consisting mostly of UK- and US-origin equipment (2024)<br>

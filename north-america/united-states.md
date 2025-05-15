@@ -89,7 +89,7 @@ large urban clusters are spread throughout the eastern half of the US (particula
 <p>tsunamis; volcanoes; earthquake activity around Pacific Basin; hurricanes along the Atlantic and Gulf of America coasts; tornadoes in the Midwest and Southeast; mud slides in California; forest fires in the west; flooding; permafrost in northern Alaska, a major impediment to development</p> <p><strong>volcanism:</strong> volcanic activity in the Hawaiian Islands, Western Alaska, the Pacific Northwest, and in the Northern Mariana Islands; both Mauna Loa (4,170 m) in Hawaii and Mount Rainier (4,392 m) in Washington have been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; Pavlof (2,519 m) is the most active volcano in Alaska's Aleutian Arc and poses a significant threat to air travel since the area constitutes a major flight path between North America and East Asia; St. Helens (2,549 m), famous for the devastating 1980 eruption, remains active today; numerous other historically active volcanoes exist, mostly concentrated in the Aleutian arc and Hawaii; they include: in Alaska: Aniakchak, Augustine, Chiginagak, Fourpeaked, Iliamna, Katmai, Kupreanof, Martin, Novarupta, Redoubt, Spurr, Wrangell, Trident, Ugashik-Peulik, Ukinrek Maars, Veniaminof; in Hawaii: Haleakala, Kilauea, Loihi; in the Northern Mariana Islands: Anatahan; and in the Pacific Northwest: Mount Baker, Mount Hood; see note 2 under "Geography - note"</p><br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> world's third-largest country by size (after Russia and Canada) and by population (after China and India); Mt. McKinley is the highest point (6,190 m) in North America, and Death Valley is the lowest point (-86 m)</p> <p><strong>note 2:</strong> the western coast of the United States and southern coast of Alaska lie along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> the Aleutian Islands are a chain of volcanic islands that divide the Bering Sea (north) from the main Pacific Ocean (south); they extend about 1,800 km westward from the Alaskan Peninsula; the archipelago consists of 14 larger islands, 55 smaller islands, and hundreds of islets; there are 41 active volcanoes on the islands, which together form a large northern section of the Ring of Fire<br><br><strong>note 4: </strong>Mammoth Cave, in west-central Kentucky, is the world's longest known cave system with more than 650 km (405 miles) of surveyed passageways, which is nearly twice as long as the second-longest cave system, the Sac Actun underwater cave in Mexico -- the world's longest underwater cave system (see "Geography - note" under Mexico)<br><br><strong>note 5:</strong> Kazumura Cave on the island of Hawaii is the world's longest and deepest lava tube cave; it has been surveyed at 66 km (41 mi) long and 1,102 m (3,614 ft) deep <br><br><strong>note 6: </strong>Bracken Cave outside of San Antonio, Texas is the world's largest bat cave; it is the summer home to the largest colony of bats in the world; an estimated 20 million Mexican free-tailed bats roost in the cave from March to October making it the world's largest known concentration of mammals<br><br><strong>note 7:</strong> three food crops are generally acknowledged to be native to areas of what is now the United States: cranberries, pecans, and sunflowers</p><br>
+<p><strong>note 1:</strong> world's third-largest country by size (after Russia and Canada) and by population (after China and India); Mt. McKinley is the highest point (6,190 m; 20,308 ft) in North America, and Death Valley is the lowest point (-86 m; -282 ft)</p> <p><strong>note 2:</strong> the western US coast and the southern coast of Alaska lie along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> the Aleutian Islands are a chain of volcanic islands that divide the Bering Sea (north) from the main Pacific Ocean (south); they extend about 1,800 km (1,118 mi) westward from the Alaskan Peninsula; the archipelago consists of 14 larger islands, 55 smaller islands, and hundreds of islets; there are 41 active volcanoes on the islands, which together form a large northern section of the Ring of Fire<br><br><strong>note 4: </strong>Mammoth Cave, in west-central Kentucky, is the world's longest known cave system with more than 650 km (405 miles) of surveyed passageways, which is nearly twice as long as the second-longest cave system, the Sac Actun underwater cave in Mexico (see "Geography - note" under Mexico)<br><br><strong>note 5:</strong> Kazumura Cave on the island of Hawaii is the world's longest and deepest lava-tube cave; it has been surveyed at 66 km (41 mi) long and 1,102 m (3,614 ft) deep <br><br><strong>note 6: </strong>Bracken Cave outside San Antonio, Texas is the world's largest bat cave and the summer home to the largest colony of bats in the world; an estimated 20 million Mexican free-tailed bats roost in the cave from March to October, making it the world's largest known concentration of mammals</p><br>
 
 ## People and Society
 
@@ -119,10 +119,10 @@ _15-64 years_: 63.4% (male 108,553,822/female 108,182,491)<br>
 _65 years and over_: 18.5% (2024 est.) (male 28,426,426/female 34,927,914)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.7<br>
-_youth dependency ratio_: 28<br>
-_elderly dependency ratio_: 25.6<br>
-_potential support ratio_: 3.9 (2021 est.)<br>
+_total dependency ratio_: 55.4 (2024 est.)<br>
+_youth dependency ratio_: 27 (2024 est.)<br>
+_elderly dependency ratio_: 28.4 (2024 est.)<br>
+_potential support ratio_: 3.5 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 38.9 years (2022 est.)<br>
@@ -245,7 +245,7 @@ _female_: 17 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution; large emitter of carbon dioxide from the burning of fossil fuels; water pollution from runoff of pesticides and fertilizers; declining natural freshwater resources in much of the western part of the country require careful management; deforestation; mining; desertification; species conservation; invasive species (the Hawaiian Islands are particularly vulnerable)<br>
+air pollution; water pollution from runoff of pesticides and fertilizers; declining natural freshwater resources in the west; deforestation; mining; desertification; species conservation; invasive species&nbsp;<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Climate Change, Desertification, Endangered Species, Environmental Modification, Marine Dumping-London Convention, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -266,12 +266,6 @@ _other_: 21% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 83.3% of total population (2023)<br>
 _rate of urbanization_: 0.96% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.04% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.2% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 7.18 micrograms per cubic meter (2019 est.)<br>
@@ -310,13 +304,13 @@ _agricultural_: 176.2 billion cubic meters (2020 est.)<br>
 _conventional long form_: United States of America<br>
 _conventional short form_: United States<br>
 _abbreviation_: US or USA<br>
-_etymology_: the name America is derived from that of Amerigo VESPUCCI (1454-1512) - Italian explorer, navigator, and cartographer - using the Latin form of his name, Americus, feminized to America<br>
+_etymology_: the name America was first used in 1507 and is derived from the first name of Amerigo VESPUCCI (1454-1512), an Italian explorer, navigator, and cartographer; the name United States first appeared in a document subtitle during the discussions that led to the Declaration of Independence in 1776<br>
 
 **Government type**<br>
 constitutional federal republic<br>
 
 **Capital**<br>
-_name_: Washington, DC<br>
+_name_: Washington, D.C.<br>
 _geographic coordinates_: 38 53 N, 77 02 W<br>
 _time difference_: UTC-5 (during Standard Time)<br>
 _daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday in November; note - no DST for Hawaii and most of Arizona<br>
@@ -446,9 +440,9 @@ $27.721 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.12% (2023 est.)<br>
+2.9% (2024 est.)<br>
+4.1% (2023 est.)<br>
 8% (2022 est.)<br>
-4.7% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -484,19 +478,19 @@ highly diversified, world leading, high-technology innovator, second-largest ind
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-170.715 million (2023 est.)<br>
+172.436 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.63% (2023 est.)<br>
-3.65% (2022 est.)<br>
-5.35% (2021 est.)<br>
+4.1% (2024 est.)<br>
+3.6% (2023 est.)<br>
+3.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.9% (2023 est.)<br>
-_male_: 8.7% (2023 est.)<br>
-_female_: 7.1% (2023 est.)<br>
+_total_: 9.4% (2024 est.)<br>
+_male_: 10.4% (2024 est.)<br>
+_female_: 8.3% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -524,11 +518,11 @@ _expenditures_: $6.306 trillion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-114.88% of GDP (2023 est.)<br>
+114.8% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-10.22% (of GDP) (2023 est.)<br>
+10.6% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -566,13 +560,13 @@ cars, crude petroleum, broadcasting equipment, computers, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$227.76 billion (2024 est.)<br>
 $773.426 billion (2023 est.)<br>
 $706.644 billion (2022 est.)<br>
-$716.152 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
-<strong>British pounds per US dollar: </strong>0.805 (2023 est.), 0.811 (2022 est.), 0.727 (2021 est.), 0.780 (2020 est.), 0.783 (2019 est.)<br><strong>Canadian dollars per US dollar: </strong>1.35 (2023 est.), 1.302 (2022 est.), 1.254 (2021 est.), 1.341 (2020 est.), 1.327 (2019 est.)<br><strong>Chinese yuan per US dollar: </strong>7.084 (2023 est.), 6.737 (2022 est.), 6.449 (2021 est.), 6.901 (2020 est.), 6.908 (2019 est.)<br><strong>euros per US dollar: </strong>0.925 (2023 est.), 0.950 (2022 est.), 0.845 (2021 est.), 0.876 (2020 est.), 0.893 (2019 est.)<br><strong>Japanese yen per US dollar: </strong>140.49 (2023 est.), 131.50 (2022 est.), 109.75 (2021 est.), 106.78 (2020 est.), 109.01 (2019 est.)<br><br><strong>note 1: </strong>the following countries and territories use the US dollar officially as their legal tender: British Virgin Islands, Ecuador, El Salvador, Marshall Islands, Micronesia, Palau, Timor Leste, Turks and Caicos, and islands of the Caribbean Netherlands (Bonaire, Sint Eustatius, and Saba)<br><br><strong>note 2: </strong>the following countries and territories use the US dollar as official legal tender alongside local currency: Bahamas, Barbados, Belize, Costa Rica, and Panama<br><br><strong>note 3: </strong>the following countries and territories widely accept the US dollar as a dominant currency but have yet to declare it as legal tender: Bermuda, Burma, Cambodia, Cayman Islands, Honduras, Nicaragua, and Somalia<br>
+<strong>British pounds per US dollar:  </strong>0.782 (2024 est.), 0.805 (2023 est.), 0.811 (2022 est.), 0.727 (2021 est.), 0.780 (2020 est.) <br><strong>Canadian dollars per US dollar:  </strong>1.369 (2024 est.), 1.35 (2023 est.), 1.302 (2022 est.), 1.254 (2021 est.), 1.341 (2020 est.)<br><strong>Chinese yuan per US dollar:  </strong>0.783 (2024 est.), 7.084 (2023 est.), 6.737 (2022 est.), 6.449 (2021 est.), 6.901 (2020 est.)<br><strong>euros per US dollar:  </strong>0.924 (2024 est.), 0.925 (2023 est.), 0.950 (2022 est.), 0.845 (2021 est.), 0.876 (2020 est.)<br><strong>Japanese yen per US dollar:  </strong>151.366 (2024 est.), 140.49 (2023 est.), 131.50 (2022 est.), 109.75 (2021 est.), 106.78 (2020 est.)<br><br><strong>note 1: </strong>the following countries and territories use the US dollar officially as their legal tender: British Virgin Islands, Ecuador, El Salvador, Marshall Islands, Micronesia, Palau, Timor Leste, Turks and Caicos, and islands of the Caribbean Netherlands (Bonaire, Sint Eustatius, and Saba)<br><br><strong>note 2: </strong>the following countries and territories use the US dollar as official legal tender alongside local currency: Bahamas, Barbados, Belize, and Panama<br>
 
 ## Energy
 
@@ -645,7 +639,7 @@ _domestic_: fixed-line just over 27 per 100 and mobile-cellular is 110 per 100 (
 _international_: country code - 1; landing points for the Quintillion Subsea Cable Network, TERRA SW, AU-Aleutian, KKFL, AKORN, Alaska United -West, &amp; -East &amp; -Southeast, North Star, Lynn Canal Fiber, KetchCar 1, PC-1, SCCN, Tat TGN-Pacific &amp; -Atlantic, Jupiter, Hawaiki, NCP, FASTER, HKA, JUS, AAG, BtoBE, Currie, Southern Cross NEXT, SxS, PLCN, Utility EAC-Pacific, SEA-US, Paniolo Cable Network, HICS, HIFN, ASH, Telstra Endeavor, Honotua, AURORA, ARCOS, AMX-1, Americas -I &amp;&nbsp;-II, Columbus IIb &amp; -III, Maya-1, MAC, GTMO-1, BICS, CFX-1, GlobeNet, Monet, SAm-1, Bahamas 2, PCCS, BRUSA, Dunant, MAREA, SAE x1,&nbsp;TAT 14,&nbsp;Apollo, Gemini Bermuda, Havfrue/AEC-2, Seabras-1,&nbsp;WALL-LI, NYNJ-1, FLAG Atalantic-1, Yellow, Atlantic Crossing-1,&nbsp;AE Connect -1, sea2shore, Challenger Bermuda-1, and&nbsp;GTT Atlantic&nbsp;submarine cable systems providing international connectivity to Europe, Africa,&nbsp;the Middle East, Asia, Southeast Asia, Australia,&nbsp;New Zealand, Pacific, &amp;&nbsp;Atlantic, and Indian Ocean&nbsp;Islands, Central and South America, Caribbean, Canada&nbsp;and US; satellite earth stations - 61 Intelsat (45 Atlantic Ocean and 16 Pacific Ocean), 5 Intersputnik (Atlantic Ocean region), and 4 Inmarsat (Pacific and Atlantic Ocean regions) (2020)<br>
 
 **Broadcast media**<br>
-4 major terrestrial TV networks with affiliate stations throughout the country, plus cable and satellite networks, independent stations, and a limited public broadcasting sector that is largely supported by private grants; overall, thousands of TV stations broadcasting; multiple national radio networks with many affiliate stations; while most stations are commercial, National Public Radio (NPR) has a network of some 900 member stations; satellite radio available; in total, over 15,000 radio stations operating (2018)<br>
+4 major terrestrial TV networks with affiliate stations, plus cable and satellite networks, independent stations, and a limited public broadcasting sector; thousands of TV stations broadcasting; multiple national radio networks with many affiliate stations; over 15,000 radio stations, most commercial; National Public Radio (NPR) has a network of about 900 member stations; satellite radio available (2018)<br>
 
 **Internet country code**<br>
 .us<br>
@@ -662,12 +656,6 @@ _subscriptions per 100 inhabitants_: 38 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 99 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 7,249<br>
-_annual passenger traffic on registered air carriers_: 889.022 million (2018)<br>
-_annual freight traffic on registered air carriers_: 42,985,300,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 N<br>
 
@@ -677,20 +665,9 @@ N<br>
 **Heliports**<br>
 8,130 (2025)<br>
 
-**Pipelines**<br>
-1,984,321 km natural gas, 240,711 km petroleum products (2013)<br>
-
 **Railways**<br>
 _total_: 293,564.2 km (2014)<br>
 _standard gauge_: 293,564.2 km (2014) 1.435-m gauge<br>
-
-**Roadways**<br>
-_total_: 6,586,610 km<br>
-_paved_: 4,304,715 km (includes 76,334 km of expressways)<br>
-_unpaved_: 2,281,895 km (2012)<br>
-
-**Waterways**<br>
-41,009 km (2012) (19,312 km used for commerce; Saint Lawrence Seaway of 3,769 km, including the Saint Lawrence River of 3,058 km, is shared with Canada)<br>
 
 **Merchant marine**<br>
 _total_: 3,533 (2023)<br>
@@ -709,8 +686,8 @@ _key ports_: Baltimore, Boston, Brooklyn, Buffalo, Chester, Cleveland, Detroit, 
 ## Military and Security
 
 **Military and security forces**<br>
-United States Armed Forces (aka US Military): US Army (USA), US Navy (USN; includes US Marine Corps or USMC), US Air Force (USAF), US Space Force (USSF); US Coast Guard (USCG); National Guard (Army National Guard and Air National Guard) (2024)<br>
-<strong>note 1: </strong>the US Coast Guard is administered in peacetime by the Department of Homeland Security, but in wartime reports to the Department of the Navy<br><strong><br>note 2:</strong> the Army National Guard and the Air National Guard are reserve components of their services and operate in part under state authority; the US military also maintains reserve forces for each branch<br><br><strong>note 3: </strong>US law enforcement personnel include those of federal agencies, such as the Department of Homeland Security and Department of Justice, the 50 states, special jurisdictions, local sheriff’s offices, and municipal, county, regional, and tribal police departments<br><br><strong>note 4:</strong> some US states have "state defense forces" (SDFs), which are military units that operate under the sole authority of state governments; SDFs are authorized by state and federal law and are under the command of the governor of each state; most are organized as ground units, but air and naval units also exist<br>
+United States Armed Forces (aka US Military): US Army (USA), US Navy (USN; includes US Marine Corps or USMC), US Air Force (USAF), US Space Force (USSF); US Coast Guard (USCG); National Guard (Army National Guard and Air National Guard) (2025)<br>
+<strong>note 1: </strong>the US Coast Guard is administered in peacetime by the Department of Homeland Security, but in wartime reports to the Navy<br><strong><br>note 2:</strong> the Army National Guard and the Air National Guard are reserve components of their services and operate in part under state authority; the US military also maintains reserve forces for each branch<br><br><strong>note 3: </strong>US law enforcement personnel include those of federal agencies, such as the Department of Homeland Security and Department of Justice, the 50 states, special jurisdictions, local sheriff’s offices, and municipal, county, regional, and tribal police departments<br><br><strong>note 4:</strong> some US states have "state defense forces" (SDFs), which are military units that operate under the sole authority of state governments; SDFs are authorized by state and federal law and are under the command of the governor of each state; most are organized as ground units, but air and naval units also exist<br>
 
 **Military expenditures**<br>
 3.4% of GDP (2024 est.)<br>
@@ -720,14 +697,14 @@ United States Armed Forces (aka US Military): US Army (USA), US Navy (USN; inclu
 3.6% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 1.31 million active-duty personnel (446,000 Army; 328,000 Navy; 317,000 Air Force; 9,000 Space Force; 167,000 Marine Corps; 40,000 Coast Guard); 330,000 Army National Guard; 105,000 Air National Guard (2024)<br>
+approximately 1.28 million active-duty US Military personnel (450,000 Army; 334,000 Navy; 317,000 Air Force; 10,000 Space Force; 168,000 Marine Corps); 42,000 Coast Guard) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the US military's inventory is comprised almost entirely of domestically produced weapons systems (some assembled with foreign components) along with a smaller mix of imported equipment from a variety of countries such as Germany and the UK; the US defense industry is capable of designing, developing, maintaining, and producing the full spectrum of weapons systems; the US is the world's leading arms exporter (2024)<br>
 
 **Military service age and obligation**<br>
-18 years of age (17 years of age with parental consent) for voluntary service for men and women; no conscription (currently inactive, but males aged 18-25 must register with Selective Service in case conscription is reinstated in the future); maximum enlistment age 34 (Army), 42 (Air Force/Space Force), 39 (Navy), 28 (Marines), 31 (Coast Guard); 8-year service obligation, including 2-5 years active duty (Army), 2 years active duty (Navy), 4 years active duty (Air Force, Coast Guard, Marines, Space Force) (2024)<br>
-<strong>note 1: </strong>the US military has been all-volunteer since 1973, but an act of Congress can reinstate the draft in case of a national emergency<strong><br><br>note 2:</strong> all military occupations and positions open to women; in 2022, women comprised 17.5% of the total US regular military personnel<br><br><strong>note 3:</strong> non-citizens living permanently and legally in the US may join as enlisted personnel; they must have permission to work in the US, a high school diploma, and speak, read, and write English fluently; minimum age of 17 with parental consent or 18 without; maximum age 29-39, depending on the service; under the US Nationality Act, honorable service in the military may qualify individuals to obtain expedited citizenship; under the Compact of Free Association, citizens of the Federated States of Micronesia, the Republic of Palau, and the Republic of the Marshall Islands may volunteer; under the Jay Treaty, signed in 1794 between Great Britain and the US, and corresponding legislation, Native Americans/First Nations born in Canada are entitled to freely enter the US and join the US military<br>
+17 years of age (under 18 with parental consent) for voluntary service for men and women; maximum enlistment age 35 (Army), 42 (Air Force/Space Force), 41 (Navy), 28 (Marines), 41 (Coast Guard); 8-year service obligation, including 2-5 years active duty depending on the particular military service  (2025)<br>
+<strong>note 1: </strong>the US military has been all-volunteer since 1973, but an act of Congress can reinstate the draft in case of a national emergency; males aged 18-25 must register with Selective Service<br><strong><br>note 2:</strong> all military occupations and positions open to women; in 2022, women comprised 17.5% of the total US regular military personnel<br><br><strong>note 3:</strong> non-citizens living permanently and legally in the US may join as enlisted personnel; they must have permission to work in the US, a high school diploma, and speak, read, and write English fluently; under the Compact of Free Association, citizens of the Federated States of Micronesia, the Republic of Palau, and the Republic of the Marshall Islands may volunteer<br>
 
 **Military deployments**<br>
 the US has more than 200,000 air, ground, and naval personnel deployed overseas on a permanent or a long-term rotational (typically 3-9 months) basis; key areas of deployment include approximately 5,000 in Africa, approximately 80,000 in Europe, approximately 10-15,000 in Southwest Asia, and more than 80,000 in East Asia (2024)<br>

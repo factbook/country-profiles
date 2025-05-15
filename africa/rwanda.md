@@ -106,10 +106,10 @@ _15-64 years_: 59.7% (male 3,954,608/female 4,179,844)<br>
 _65 years and over_: 3.1% (2024 est.) (male 168,163/female 250,585)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 72.5<br>
-_youth dependency ratio_: 67.1<br>
-_elderly dependency ratio_: 5.4<br>
-_potential support ratio_: 18.4 (2021 est.)<br>
+_total dependency ratio_: 67.5 (2024 est.)<br>
+_youth dependency ratio_: 62.3 (2024 est.)<br>
+_elderly dependency ratio_: 5.1 (2024 est.)<br>
+_potential support ratio_: 19.4 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 20.8 years (2024 est.)<br>
@@ -234,7 +234,7 @@ _female_: 11 years (2019)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation results from uncontrolled cutting of trees for fuel; overgrazing; land degradation; soil erosion; a decline in soil fertility (soil exhaustion); wetland degradation and loss of biodiversity; widespread poaching<br>
+deforestation; overgrazing; land degradation; soil erosion; a decline in soil fertility (soil exhaustion); wetland degradation and loss of biodiversity; widespread poaching<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
@@ -254,12 +254,6 @@ _other_: 7.5% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 17.9% of total population (2023)<br>
 _rate of urbanization_: 3.07% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-3.75% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 35.66 micrograms per cubic meter (2019 est.)<br>
@@ -303,7 +297,7 @@ presidential republic<br>
 _name_: Kigali<br>
 _geographic coordinates_: 1 57 S, 30 03 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the city takes its name from nearby Mount Kigali; the name "Kigali" is composed of the Bantu prefix <em>ki</em> and the Rwandan <em>gali</em> meaning "broad" and likely refers to the broad, sprawling hill that has been dignified with the title of "mount"<br>
+_etymology_: the city takes its name from nearby Mount Kigali; the name is composed of the Bantu prefix <em>ki-</em> and the Rwandan word <em>gali</em>, meaning "broad," which is probably meant to describe the terrain<br>
 
 **Administrative divisions**<br>
 4 provinces (in French - provinces, singular - province; in Kinyarwanda - intara for singular and plural) and 1 city* (in French - ville; in Kinyarwanda - umujyi); Est (Eastern), Kigali*, Nord (Northern), Ouest (Western), Sud (Southern)<br>
@@ -315,7 +309,7 @@ _etymology_: the city takes its name from nearby Mount Kigali; the name "Kigali"
 Independence Day, 1 July (1962)<br>
 
 **Legal system**<br>
-mixed legal system of civil law, based on German and Belgian models, and customary law; judicial review of legislative acts in the Supreme Court<br>
+mixed system of civil law, based on German and Belgian models, and customary law; Supreme Court reviews legislative acts<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted by referendum 26 May 2003, effective 4 June 2003<br>
@@ -435,9 +429,9 @@ $14.098 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-19.79% (2023 est.)<br>
-17.69% (2022 est.)<br>
--0.39% (2021 est.)<br>
+1.8% (2024 est.)<br>
+19.8% (2023 est.)<br>
+17.7% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -473,19 +467,19 @@ cement, agricultural products, small-scale beverages, soap, furniture, shoes, pl
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.259 million (2023 est.)<br>
+5.671 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-14.93% (2023 est.)<br>
-15.09% (2022 est.)<br>
-15.79% (2021 est.)<br>
+12% (2024 est.)<br>
+12.4% (2023 est.)<br>
+15.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 22% (2023 est.)<br>
-_male_: 20.8% (2023 est.)<br>
-_female_: 23.3% (2023 est.)<br>
+_total_: 17.5% (2024 est.)<br>
+_male_: 15.8% (2024 est.)<br>
+_female_: 19.4% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -516,7 +510,7 @@ _expenditures_: $2.191 billion (2020 est.)<br>
 40.5% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-15.07% (of GDP) (2020 est.)<br>
+13.7% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -554,22 +548,22 @@ broadcasting equipment, fish, corn, packaged medicine, plastic products (2023)<b
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$2.406 billion (2024 est.)<br>
 $1.834 billion (2023 est.)<br>
 $1.726 billion (2022 est.)<br>
-$1.867 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$6.087 billion (2023 est.)<br>
+$5.531 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Rwandan francs (RWF) per US dollar -<br>
+1,318.128 (2024 est.)<br>
 1,160.099 (2023 est.)<br>
 1,030.308 (2022 est.)<br>
 988.625 (2021 est.)<br>
 943.278 (2020 est.)<br>
-899.351 (2019 est.)<br>
 
 ## Energy
 
@@ -628,7 +622,7 @@ _domestic_: fixed-line less than 1 per 100 and mobile-cellular telephone density
 _international_: country code - 250; international connections employ microwave radio relay to neighboring countries and satellite communications to more distant countries; satellite earth stations - 1 Intelsat (Indian Ocean) in Kigali (includes telex and telefax service); international submarine fiber-optic cables on the African east coast has brought international bandwidth and lessened the&nbsp;dependency on satellites<br>
 
 **Broadcast media**<br>
-13 TV stations; 35 radio stations registered, including international broadcasters, government owns most popular TV and radio stations; regional satellite-based TV services available<br>
+13 TV stations; 35 radio stations, including international broadcasters; government owns most popular TV and radio stations; regional satellite-based TV available<br>
 
 **Internet country code**<br>
 .rw<br>
@@ -642,29 +636,16 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 12<br>
-_annual passenger traffic on registered air carriers_: 1,073,528 (2018)<br>
-
 **Civil aircraft registration country code prefix**<br>
 9XR<br>
 
 **Airports**<br>
 8 (2025)<br>
 
-**Roadways**<br>
-_total_: 7,797 km<br>
-_paved_: 2,652 km<br>
-_unpaved_: 5,145 km (2024)<br>
-
-**Waterways**<br>
-90 km (2022) (Lake Kivu navigable by shallow-draft barges and native craft)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>
-Rwanda Defense Force (RDF; Ingabo z’u Rwanda): Rwanda Army (Rwanda Land Force), Rwanda Air Force (Force Aerienne Rwandaise, FAR), Rwanda Reserve Force, Special Units<br><br>Ministry of Internal Security: Rwanda National Police (2024)<br>
+Rwanda Defense Force (RDF; Ingabo z’u Rwanda): Rwanda Army (Rwanda Land Force), Rwanda Air Force (Force Aerienne Rwandaise, FAR), Rwanda Reserve Force, Special Units<br><br>Ministry of Internal Security: Rwanda National Police (2025)<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2023 est.)<br>
@@ -674,7 +655,7 @@ Rwanda Defense Force (RDF; Ingabo z’u Rwanda): Rwanda Army (Rwanda Land Force)
 1.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 33,000 active RDF personnel (32,000 Army; 1,000 Air Force) (2023)<br>
+approximately 30-35,000 active RDF personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the RDF's inventory includes a mix of older and some modern equipment from suppliers such as China, France, Israel, Russia and the former Soviet Union, South Africa, and Turkey (2024)<br>

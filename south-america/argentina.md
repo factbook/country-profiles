@@ -84,7 +84,7 @@ one-third of the population lives in Buenos Aires; pockets of agglomeration occu
 <p>San Miguel de Tucumán and Mendoza areas in the Andes subject to earthquakes; pamperos are violent windstorms that can strike the pampas and northeast; heavy flooding in some areas</p> <p><strong>volcanism:</strong> volcanic activity in the Andes Mountains along the Chilean border; Copahue (2,997 m) last erupted in 2000; other historically active volcanoes include Llullaillaco, Maipo, Planchón-Peteroa, San José, Tromen, Tupungatito, and Viedma</p><br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> second-largest country in South America (after Brazil); strategic location relative to sea lanes between the South Atlantic and the South Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage); diverse geophysical landscapes range from tropical climates in the north to tundra in the far south; Cerro Aconcagua is the Western Hemisphere's tallest mountain, while Laguna del Carbón is the lowest point in the Western Hemisphere; shares Iguazú Falls, the world's largest waterfalls system, with Brazil<br><br><strong>note 2: </strong>southeast Bolivia and northwest Argentina seem to be the original development site for peanuts<br>
+second-largest country in South America (after Brazil); strategic location relative to sea lanes between the South Atlantic and the South Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage); diverse geophysical landscapes range from tropical climates in the north to tundra in the far south; Cerro Aconcagua is the Western Hemisphere's tallest mountain, while Laguna del Carb&oacute;n is the lowest point in the Western Hemisphere; shares Iguaz&uacute; Falls, the world's largest waterfalls system, with Brazil<br>
 
 ## People and Society
 
@@ -113,10 +113,10 @@ _15-64 years_: 63.9% (male 15,071,215/female 14,956,069)<br>
 _65 years and over_: 12.8% (2024 est.) (male 2,570,596/female 3,461,743)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 54.3<br>
-_youth dependency ratio_: 36<br>
-_elderly dependency ratio_: 18.2<br>
-_potential support ratio_: 5.5 (2021 est.)<br>
+_total dependency ratio_: 50.9 (2024 est.)<br>
+_youth dependency ratio_: 31.5 (2024 est.)<br>
+_elderly dependency ratio_: 19.4 (2024 est.)<br>
+_potential support ratio_: 5.1 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 33.3 years (2024 est.)<br>
@@ -240,7 +240,7 @@ _female_: 20 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-environmental problems (urban and rural) typical of an industrializing economy such as deforestation, soil degradation (erosion, salinization), desertification, air pollution, and water pollution<br>
+deforestation; soil degradation (erosion, salinization); desertification; air pollution; water pollution<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
@@ -260,12 +260,6 @@ _other_: 46.2% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 92.5% of total population (2023)<br>
 _rate of urbanization_: 0.97% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.09% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 12.04 micrograms per cubic meter (2019 est.)<br>
@@ -314,7 +308,7 @@ presidential republic<br>
 _name_: Buenos Aires<br>
 _geographic coordinates_: 34 36 S, 58 22 W<br>
 _time difference_: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name translates as "fair winds" in Spanish and derives from the original designation of the settlement that would become the present-day city, "Santa Maria del Buen Aire" (Saint Mary of the Fair Winds)<br>
+_etymology_: the name translates as "fair winds" in Spanish; the full original name, Nuestra Senora Santa Maria de los Buenos Aires, was given only to the port; the city was founded separately from the port in 1536 and was named Ciudad de la Santissima Trinidad (City of the Most Holy Trinity); the shortened version of the port name eventually became the city name<br>
 
 **Administrative divisions**<br>
 23 provinces (provincias, singular - provincia) and 1 autonomous city*; Buenos Aires, Catamarca, Chaco, Chubut, Ciudad Autonoma de Buenos Aires*, Cordoba, Corrientes, Entre Rios, Formosa, Jujuy, La Pampa, La Rioja, Mendoza, Misiones, Neuquen, Rio Negro, Salta, San Juan, San Luis, Santa Cruz, Santa Fe, Santiago del Estero, Tierra del Fuego - Antartida e Islas del Atlantico Sur (Tierra del Fuego - Antarctica and the South Atlantic Islands), Tucuman<br>
@@ -327,7 +321,8 @@ _etymology_: the name translates as "fair winds" in Spanish and derives from the
 Revolution Day (May Revolution Day), 25 May (1810)<br>
 
 **Legal system**<br>
-civil law system based on West European legal systems; note - in mid-2015, Argentina adopted a new civil code, replacing the old one in force since 1871<br>
+civil law system based on Western European legal systems<br>
+<strong>note:</strong> in 2015, Argentina adopted a new civil code, replacing the old one in force since 1871<br>
 
 **Constitution**<br>
 _history_: several previous; latest effective 11 May 1853<br>
@@ -485,19 +480,19 @@ food processing, motor vehicles, consumer durables, textiles, chemicals and petr
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-21.533 million (2023 est.)<br>
+22.286 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.18% (2023 est.)<br>
-6.81% (2022 est.)<br>
-8.74% (2021 est.)<br>
+7.9% (2024 est.)<br>
+6.1% (2023 est.)<br>
+6.8% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18% (2023 est.)<br>
-_male_: 16.9% (2023 est.)<br>
-_female_: 19.5% (2023 est.)<br>
+_total_: 21.2% (2024 est.)<br>
+_male_: 19.8% (2024 est.)<br>
+_female_: 23% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -532,7 +527,7 @@ _expenditures_: $138.622 billion (2022 est.)<br>
 57.6% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-11.12% (of GDP) (2022 est.)<br>
+11.1% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -570,22 +565,22 @@ soybeans, vehicle parts/accessories, refined petroleum, natural gas, cars (2023)
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$24.381 billion (2024 est.)<br>
 $23.081 billion (2023 est.)<br>
 $44.795 billion (2022 est.)<br>
-$39.653 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$83.279 billion (2023 est.)<br>
+$74.362 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Argentine pesos (ARS) per US dollar -<br>
+914.695 (2024 est.)<br>
 296.258 (2023 est.)<br>
 130.617 (2022 est.)<br>
 94.991 (2021 est.)<br>
 70.539 (2020 est.)<br>
-48.148 (2019 est.)<br>
 
 ## Energy
 
@@ -652,12 +647,12 @@ _total subscriptions_: 62.7 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 132 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Argentina&rsquo;s ongoing problem with hyperinflation continues to distort the telecom market&rsquo;s performance, which shows strong growth in revenue but only modest gains in subscriber numbers each year; the fixed broadband segment has penetration levels only slightly higher than the fixed-line teledensity; nearly a quarter of the country&rsquo;s broadband connections are via DSL, although fiber is starting claim an increasing share of that market as networks expand across most of the main cities; mobile broadband continues to be the preferred platform for internet access, supported by high mobile penetration levels and nationwide LTE coverage; the first 5G service was launched in February 2021 using refarmed LTE frequencies; the anticipated 5G spectrum auctions should drive even stronger uptake in mobile broadband services; while the various fixed, mobile, and cable operators push to expand and enhance their services, the government is also making an active contribution towards boosting broadband connectivity around the country; its national connectivity plan &lsquo;Plan Conectar&rsquo;, launched in September 2020, provides funding for a range of programs to increase coverage; in August 2021, the telecom regulator announced the release funding to help operators accelerate the rollout of their broadband infrastructure and services (2021)<br>
+_general assessment_: Argentina&rsquo;s ongoing hyperinflation continues to distort the telecom market&rsquo;s performance, which shows strong growth in revenue but only modest gains in subscriber numbers each year; the fixed broadband segment has penetration levels only slightly higher than the fixed-line teledensity; nearly a quarter of the country&rsquo;s broadband connections are via DSL, although fiber is starting claim an increasing share of that market as networks expand across most of the main cities; mobile broadband continues to be the preferred platform for internet access, supported by high mobile penetration levels and nationwide LTE coverage; the first 5G service was launched in 2021 using refarmed LTE frequencies; the anticipated 5G spectrum auctions should drive even stronger uptake in mobile broadband services; the government's national connectivity plan, "Plan Conectar," launched in 2020 and provides funding to increase coverage (2021)<br>
 _domestic_: roughly 15 per 100 fixed-line and 130 per 100 mobile-cellular; microwave radio relay, fiber-optic cable, and a domestic satellite system with 40 earth stations serve the trunk network (2021)<br>
 _international_: country code - 54; landing points for the UNISUR, Bicentenario,&nbsp;Atlantis-2, SAm-1, and&nbsp;SAC, Tannat, Malbec and ARBR&nbsp;submarine cable systems that provide links to Europe, Africa, South and Central America, and US; satellite earth stations - 112 (2019)<br>
 
 **Broadcast media**<br>
-Argentina is one of South America's biggest media markets, there are dozens of TV networks, hundreds of radio stations and more than 150 daily newspapers (2023)<br>
+one of South America's biggest media markets; dozens of TV networks, hundreds of radio stations, and more than 150 daily newspapers (2023)<br>
 
 **Internet country code**<br>
 .ar<br>
@@ -671,12 +666,6 @@ _subscriptions per 100 inhabitants_: 25 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 6 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 107<br>
-_annual passenger traffic on registered air carriers_: 18,081,937 (2018)<br>
-_annual freight traffic on registered air carriers_: 311.57 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 LV<br>
 
@@ -686,19 +675,8 @@ LV<br>
 **Heliports**<br>
 148 (2025)<br>
 
-**Pipelines**<br>
-29,930 km gas, 41 km liquid petroleum gas, 6,248 km oil, 3,631 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 17,866 km (2018)<br>
-
-**Roadways**<br>
-_total_: 240,000 km<br>
-_paved_: 81,355 km<br>
-_unpaved_: 158,645 km (2017)<br>
-
-**Waterways**<br>
-11,000 km (2012)<br>
 
 **Merchant marine**<br>
 _total_: 201 (2023)<br>
@@ -727,14 +705,14 @@ Armed Forces of the Argentine Republic (Fuerzas Armadas de la República Argenti
 0.8% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 75,000 active-duty personnel (46,000 Army; 16,000 Navy, including about 3,500 marines); 13,000 Air Force); estimated 20,000 Gendarmerie (2024)<br>
+approximately 75,000 active-duty personnel (45,000 Army; 15,000 Navy, including about 3,500 marines); 15,000 Air Force); estimated 20,000 Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of Argentina's armed forces is a mix of domestically-produced and mostly older imported weapons, largely from Europe and the US; in recent years, France and the US have been the leading suppliers of equipment; Argentina has an indigenous defense industry that produces air, land, and naval systems (2024)<br>
 
 **Military service age and obligation**<br>
 18-24 years of age for voluntary military service for men and women; conscription suspended in 1995; citizens can still be drafted in times of crisis, national emergency, or war, or if the Defense Ministry is unable to fill all vacancies to keep the military functional (2024)<br>
-<strong>note: </strong>as of 2023, women comprised nearly 20% of the active duty military<br>
+<strong>note: </strong>as of 2024, women comprised nearly 20% of the active duty military<br>
 
 **Military deployments**<br>
 325 Cyprus (UNFICYP) (2024)<br>

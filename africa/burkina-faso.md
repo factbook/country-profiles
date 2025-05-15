@@ -74,7 +74,7 @@ Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
 recurring droughts<br>
 
 **Geography - note**<br>
-landlocked savanna cut by the three principal rivers of the Black, Red, and White Voltas<br>
+landlocked savanna cut by the three principal rivers, the Black, Red, and White Voltas<br>
 
 ## People and Society
 
@@ -102,10 +102,10 @@ _15-64 years_: 55.1% (male 6,116,674/female 6,590,775)<br>
 _65 years and over_: 3.2% (2024 est.) (male 312,587/female 426,359)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 87.4<br>
-_youth dependency ratio_: 82.6<br>
-_elderly dependency ratio_: 4.8<br>
-_potential support ratio_: 20.9 (2021 est.)<br>
+_total dependency ratio_: 80.7 (2024 est.)<br>
+_youth dependency ratio_: 74.9 (2024 est.)<br>
+_elderly dependency ratio_: 5.8 (2024 est.)<br>
+_potential support ratio_: 17.2 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 18.7 years (2024 est.)<br>
@@ -230,7 +230,7 @@ _female_: 9 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-recent droughts and desertification severely affecting agricultural activities, population distribution, and the economy; overgrazing; soil degradation; deforestation (2019)<br>
+droughts; desertification; overgrazing; soil degradation; deforestation (2019)<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Wetlands<br>
@@ -253,12 +253,6 @@ _rate of urbanization_: 4.75% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to civil insecurity in the north and high food prices - </em>according to the latest analysis, about 3.53 million people are projected to face acute food insecurity during the June to August 2023 lean season period; this would be a slight increase compared to the preceding year; acute food insecurity is primarily underpinned by poor insecurity in northern and eastern areas, and in particular by the use of siege tactics by non-state armed groups in the country’s Sahel region; as of March 2023, civil insecurity resulted in the displacement of about 2.06 million people; persistent high food prices are affecting vulnerable households across the country, particularly those in conflict-affected areas due to market disruptions as well as constrained access to sources of income and humanitarian assistance (2023)<br>
-
-**Revenue from forest resources**<br>
-4.54% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 40.74 micrograms per cubic meter (2019 est.)<br>
@@ -313,7 +307,7 @@ _etymology_: Ouagadougou is a Francophone spelling of the native name "Wogodogo,
 Republic Day, 11 December (1958); note - commemorates the day that Upper Volta became an autonomous republic in the French Community<br>
 
 **Legal system**<br>
-civil law based on the French model and customary law; in mid-2019, the National Assembly amended the penal code<br>
+civil law based on the French model and customary law<br>
 
 **Constitution**<br>
 _history_: several previous; latest approved by referendum 2 June 1991, adopted 11 June 1991, temporarily suspended late October to mid-November 2014; initial draft of a new constitution to usher in the new republic was completed in January 2017 and a final draft was submitted to the government in December 2017; a constitutional referendum originally scheduled for adoption in March 2019 was postponed; on 1 March 2022 a transition charter was adopted, allowing military authorities to rule for three years and barring the transitional president from being an electoral candidate after the transition<br>
@@ -420,9 +414,9 @@ $20.325 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-0.74% (2023 est.)<br>
-14.29% (2022 est.)<br>
-3.65% (2021 est.)<br>
+4.2% (2024 est.)<br>
+0.7% (2023 est.)<br>
+14.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -456,19 +450,19 @@ cotton lint, beverages, agricultural processing, soap, cigarettes, textiles, gol
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.633 million (2023 est.)<br>
+6.461 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.29% (2023 est.)<br>
-5.35% (2022 est.)<br>
-5.11% (2021 est.)<br>
+5.2% (2024 est.)<br>
+5.3% (2023 est.)<br>
+5.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8% (2023 est.)<br>
-_male_: 7.6% (2023 est.)<br>
-_female_: 8.5% (2023 est.)<br>
+_total_: 8.1% (2024 est.)<br>
+_male_: 7.8% (2024 est.)<br>
+_female_: 8.5% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -496,23 +490,23 @@ _expenditures_: $4.018 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-62.53% of GDP (2022 est.)<br>
+62.5% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-17.67% (of GDP) (2022 est.)<br>
+17.7% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$1.017 billion (2023 est.)<br>
 -$1.404 billion (2022 est.)<br>
 $77.255 million (2021 est.)<br>
-$743.232 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$5.912 billion (2023 est.)<br>
 $5.814 billion (2022 est.)<br>
 $6.234 billion (2021 est.)<br>
-$5.356 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -524,9 +518,9 @@ gold, cotton, oil seeds, coconuts/brazil nuts/cashews, cement (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$6.834 billion (2023 est.)<br>
 $6.761 billion (2022 est.)<br>
 $5.835 billion (2021 est.)<br>
-$4.779 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -542,16 +536,16 @@ $49 million (2017 est.)<br>
 $50.9 million (2016 est.)<br>
 
 **Debt - external**<br>
-$3.977 billion (2023 est.)<br>
+$3.565 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+606.345 (2024 est.)<br>
 606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
-585.911 (2019 est.)<br>
 
 ## Energy
 
@@ -603,7 +597,7 @@ _domestic_: fixed-line connections stand at less than 1 per 100 persons; mobile-
 _international_: country code - 226; satellite earth station - 1 Intelsat (Atlantic Ocean)<br>
 
 **Broadcast media**<br>
-since the official inauguration of Terrestrial Digital Television (TNT) in December 2017, Burkina Faso now has 14 digital TV channels among which 2 are state-owned; there are more than 140 radio stations (commercial, religious, community) available throughout the country including a national and regional state-owned network; the state-owned Radio Burkina and the private Radio Omega are among the most widespread stations and both include broadcasts in French and local languages (2019)<br>
+14 digital TV channels, of which 2 are state-owned; over 140 national radio stations (commercial, religious, community), including a national and regional state-owned network; state-owned Radio Burkina and private Radio Omega are among the most widely available and broadcast in both French and local languages (2019)<br>
 
 **Internet country code**<br>
 .bf<br>
@@ -617,12 +611,6 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 3<br>
-_annual passenger traffic on registered air carriers_: 151,531 (2018)<br>
-_annual freight traffic on registered air carriers_: 100,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 XT<br>
 
@@ -634,16 +622,11 @@ _total_: 622 km (2014)<br>
 _narrow gauge_: 622 km (2014) 1.000-m gauge<br>
 <strong>note:</strong> another 660 km of this railway extends into Cote d'Ivoire<br>
 
-**Roadways**<br>
-_total_: 15,304 km (2017)<br>
-_paved_: 3,642 km (2014)<br>
-_unpaved_: 11,662 km (2014)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>
 Armed Forces of Burkina Faso (FABF; aka National Armed Forces (FAN), aka Defense and Security Forces (Forces de Défense et de Sécurité or FDS)): Army of Burkina Faso (L’Armee de Terre), Air Force of Burkina Faso (Force Aerienne de Burkina Faso), National Gendarmerie, National Fire Brigade (Brigade Nationale de Sapeurs-Pompiers or BNSP); Homeland Defense Volunteers (Forcés de Volontaires de Défense pour la Patrie or VDP)<br><br>Ministry of Territorial Administration, Decentralization and Security (Ministère de l'Administration Territoriale, de la Décentralisation et de la Sécurité): National Police of Burkina Faso (includes Border Police, Judicial Police, and Intervention Units, as well as State and Public Security forces) (2025)<br>
-<strong>note 1:</strong> the National Gendarmerie is under the Ministry of Defense, but usually operates in support of the Ministry of Territorial Administration, Decentralization, and Security; the Gendarmerie's primary mission is counterterrorism<br><br><strong>note 2:</strong> the VDP is a lightly-armed civilian defense/militia force established in 2019 to act as auxiliaries to the Army; the volunteers receive two weeks of training and typically assist with carrying out surveillance, information-gathering, and escort duties, as well as local defense; they are based in each of the country's more than 300 municipalities<br>
+<strong>note 1:</strong> the National Gendarmerie is under the Ministry of Defense, but usually operates in support of the Ministry of Territorial Administration, Decentralization, and Security; the Gendarmerie's primary mission is counterterrorism<br><br><strong>note 2:</strong> the VDP is a lightly armed civilian defense/militia force established in 2019 to act as auxiliaries to the Army; the volunteers receive two weeks of training and typically assist with carrying out surveillance, information-gathering, and escort duties, as well as local defense; they are based in each of the country's more than 300 municipalities<br>
 
 **Military expenditures**<br>
 4% of GDP (2023 est.)<br>
@@ -653,7 +636,7 @@ Armed Forces of Burkina Faso (FABF; aka National Armed Forces (FAN), aka Defense
 2.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 15-20,000 Armed Forces personnel; approximately 50,000 Homeland Defense Volunteers (2024)<br>
+estimated 20,000 Armed Forces personnel; estimated 50,000 Homeland Defense Volunteers (2025)<br>
 <br><strong><br><br></strong><br>
 
 **Military equipment inventories and acquisitions**<br>

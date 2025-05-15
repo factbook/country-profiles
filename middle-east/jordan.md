@@ -77,7 +77,7 @@ population heavily concentrated in the west, and particularly the northwest, in 
 droughts; periodic earthquakes; flash floods<br>
 
 **Geography - note**<br>
-strategic location at the head of the Gulf of Aqaba and as the Arab country that shares the longest border with Israel and the occupied West Bank; the Dead Sea, the lowest point in Asia and the second saltiest body of water in the world (after Lac Assal in Djibouti), lies on Jordan's western border with Israel and the West Bank; Jordan is almost landlocked but does have a 26 km southwestern coastline with a single port, Al 'Aqabah (Aqaba)<br>
+strategic location at the head of the Gulf of Aqaba; the Arab country that shares the longest border with Israel and the West Bank; the Dead Sea, the lowest point in Asia and the second saltiest body of water in the world (after Lac Assal in Djibouti), lies on Jordan's western border with Israel and the West Bank; Jordan is almost landlocked but does have a 26 km southwestern coastline with a single port, Al 'Aqabah (Aqaba)<br>
 
 ## People and Society
 
@@ -85,7 +85,6 @@ strategic location at the head of the Gulf of Aqaba and as the Arab country that
 _total_: 11,174,024 (2024 est.)<br>
 _male_: 5,844,979<br>
 _female_: 5,329,045<br>
-<strong>note:</strong> increased estimate reflects revised assumptions about the net migration rate due to the increased flow of Syrian refugees<br>
 
 **Nationality**<br>
 _noun_: Jordanian(s)<br>
@@ -108,10 +107,10 @@ _15-64 years_: 64.9% (male 3,844,575/female 3,409,164)<br>
 _65 years and over_: 4.2% (2024 est.) (male 228,564/female 241,703)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 57.1<br>
-_youth dependency ratio_: 51.2<br>
-_elderly dependency ratio_: 5.8<br>
-_potential support ratio_: 17.1 (2021 est.)<br>
+_total dependency ratio_: 54 (2024 est.)<br>
+_youth dependency ratio_: 47.6 (2024 est.)<br>
+_elderly dependency ratio_: 6.5 (2024 est.)<br>
+_potential support ratio_: 15.4 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 25 years (2024 est.)<br>
@@ -241,7 +240,7 @@ _female_: 11 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-limited natural freshwater resources; declining water table; salinity; deforestation; overgrazing; soil erosion; desertification; biodiversity and ecosystem damage/loss<br>
+limited natural freshwater resources; declining water table; salination; deforestation; overgrazing; soil erosion; desertification; biodiversity and ecosystem damage/loss<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -261,12 +260,6 @@ _other_: 87.3% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 92% of total population (2023)<br>
 _rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.02% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 25.87 micrograms per cubic meter (2019 est.)<br>
@@ -312,7 +305,7 @@ parliamentary constitutional monarchy<br>
 _name_: Amman<br>
 _geographic coordinates_: 31 57 N, 35 56 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: in the 13th century B.C., the Ammonites named their main city "Rabbath Ammon"; "rabbath" designated "capital," so the name meant "The Capital of [the] Ammon[ites]"; over time, the "Rabbath" came to be dropped and the city became known simply as "Ammon" and then "Amman"<br>
+_etymology_: in the 13th century B.C., the Ammonites named their primary city Rabbath Ammon; <em>rabbath </em>meant "capital," so the name translated as "The Capital of [the] Ammon[ites];" over time, the name was shortened to Ammon, and then to Amman<br>
 
 **Administrative divisions**<br>
 12 governorates (muhafazat, singular - muhafazah); 'Ajlun, Al 'Aqabah, Al Balqa', Al Karak, Al Mafraq, Al ‘Asimah (Amman), At Tafilah, Az Zarqa', Irbid, Jarash, Ma'an, Madaba<br>
@@ -324,7 +317,7 @@ _etymology_: in the 13th century B.C., the Ammonites named their main city "Rabb
 Independence Day, 25 May (1946)<br>
 
 **Legal system**<br>
-mixed system developed from codes instituted by the Ottoman Empire (based on French law), British common law, and Islamic law<br>
+mixed system developed from Ottoman Empire codes (based on French law), British common law, and Islamic law<br>
 
 **Constitution**<br>
 _history_: previous 1928 (pre-independence); latest initially adopted 28 November 1947, revised and ratified 1 January 1952<br>
@@ -441,9 +434,9 @@ $50.967 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-2.08% (2023 est.)<br>
-4.23% (2022 est.)<br>
-1.35% (2021 est.)<br>
+2.1% (2023 est.)<br>
+4.2% (2022 est.)<br>
+1.3% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -479,19 +472,19 @@ tourism, information technology, clothing, fertilizer, potash, phosphate mining,
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.103 million (2023 est.)<br>
+3.08 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-17.94% (2023 est.)<br>
+18% (2024 est.)<br>
+18% (2023 est.)<br>
 18.2% (2022 est.)<br>
-19.84% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 40.8% (2023 est.)<br>
-_male_: 39.3% (2023 est.)<br>
-_female_: 47.1% (2023 est.)<br>
+_total_: 41.7% (2024 est.)<br>
+_male_: 39.8% (2024 est.)<br>
+_female_: 49.2% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -514,11 +507,11 @@ _expenditures_: $14.464 billion (2018 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-100.91% of GDP (2022 est.)<br>
+103.1% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-17.47% (of GDP) (2022 est.)<br>
+17.1% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -556,22 +549,22 @@ cars, refined petroleum, gold, crude petroleum, jewelry (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$15.56 billion (2017 est.)<br>
-$15.543 billion (2016 est.)<br>
-$16.572 billion (2015 est.)<br>
+$15.929 billion (2024 est.)<br>
+$19.069 billion (2023 est.)<br>
+$18.198 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$21.766 billion (2023 est.)<br>
+$21.058 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Jordanian dinars (JOD) per US dollar -<br>
+0.71 (2024 est.)<br>
 0.71 (2023 est.)<br>
 0.71 (2022 est.)<br>
 0.71 (2021 est.)<br>
 0.71 (2020 est.)<br>
-0.71 (2019 est.)<br>
 
 ## Energy
 
@@ -634,7 +627,7 @@ _domestic_: fixed-line stands at nearly 4 per 100 persons and mobile cellular su
 _international_: country code - 962; landing point for the&nbsp;FEA and&nbsp;Taba-Aqaba submarine cable networks providing connectivity to Europe, the Middle East, Southeast Asia and Asia; satellite earth stations - 33 (3 Intelsat, 1 Arabsat, and 29 land and maritime Inmarsat terminals (2019)<br>
 
 **Broadcast media**<br>
-radio and TV dominated by the government-owned Jordan Radio and Television Corporation (JRTV) that operates a main network, a sports network, a film network, and a satellite channel; first independent TV broadcaster aired in 2007; international satellite TV and Israeli and Syrian TV broadcasts are available; roughly 30 radio stations with JRTV operating the main government-owned station; transmissions of multiple international radio broadcasters are available<br>
+radio and TV dominated by the government-owned Jordan Radio and Television Corporation (JRTV) that operates a main network, a sports network, a film network, and a satellite channel; first independent TV broadcaster aired in 2007; international satellite TV and Israeli and Syrian TV broadcasts are available; roughly 30 radio stations; transmissions of multiple international radio broadcasters are available<br>
 
 **Internet country code**<br>
 .jo<br>
@@ -648,12 +641,6 @@ _subscriptions per 100 inhabitants_: 7 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 4 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 54<br>
-_annual passenger traffic on registered air carriers_: 3,383,805 (2018)<br>
-_annual freight traffic on registered air carriers_: 175.84 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 JY<br>
 
@@ -663,16 +650,9 @@ JY<br>
 **Heliports**<br>
 6 (2025)<br>
 
-**Pipelines**<br>
-473 km gas, 49 km oil (2013)<br>
-
 **Railways**<br>
 _total_: 509 km (2020)<br>
 _narrow gauge_: 509 km (2014) 1.050-m gauge<br>
-
-**Roadways**<br>
-_total_: 7,203 km<br>
-_paved_: 7,203 km (2011)<br>
 
 **Merchant marine**<br>
 _total_: 34 (2023)<br>
@@ -690,8 +670,7 @@ _key ports_: Al Aqabah<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Jordanian Armed Forces (JAF): Royal Jordanian Army (includes Special Operations Forces, Border Guards, Royal Guard), Royal Jordanian Air Force, Royal Jordanian Navy<br><br>Ministry of Interior: Public Security Directorate (includes national police, the Gendarmerie, and the Civil Defense Directorate) (2024)<br>
-<strong>note: </strong>the JAF report administratively to the minister of defense and have a support role for internal security; the prime minister serves as defense minister, but there is no separate ministry of defense<br>
+Jordanian Armed Forces (JAF; aka Arab Army): Jordanian Army (Jordanian Ground Forces; includes Special Operations Forces, Border Guards, Royal Guard), Jordanian Air Force, Jordanian Navy)  <br><br>Ministry of Interior: Public Security Directorate (includes national police, the Gendarmerie, and the Civil Defense Directorate) (2025)<br>
 
 **Military expenditures**<br>
 4.5% of GDP (2023 est.)<br>
@@ -701,7 +680,7 @@ Jordanian Armed Forces (JAF): Royal Jordanian Army (includes Special Operations 
 5.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 100,000 active-duty armed forces personnel (85,000 Army; 14,000 Air Force; 1,000 Navy); approximately 15,000 Gendarmerie Forces (2023)<br>
+approximately 100,000 active-duty armed forces personnel (85,000 Army; 14,000 Air Force; 1,000 Navy) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the JAF inventory is comprised of a wide mix of imported equipment, much of it older or secondhand, from China, Europe, some Gulf States, Russia, and the US (2024)<br>

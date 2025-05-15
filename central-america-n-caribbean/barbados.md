@@ -95,10 +95,10 @@ _15-64 years_: 67% (male 100,328/female 103,536)<br>
 _65 years and over_: 16.3% (2024 est.) (male 20,986/female 28,732)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 49<br>
-_youth dependency ratio_: 25.6<br>
-_elderly dependency ratio_: 23.4<br>
-_potential support ratio_: 4.3 (2021 est.)<br>
+_total dependency ratio_: 49.2 (2024 est.)<br>
+_youth dependency ratio_: 24.8 (2024 est.)<br>
+_elderly dependency ratio_: 24.4 (2024 est.)<br>
+_potential support ratio_: 4.1 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 41.4 years (2024 est.)<br>
@@ -211,7 +211,7 @@ _female_: 99.6% (2014)<br>
 ## Environment
 
 **Environment - current issues**<br>
-pollution of coastal waters from waste disposal by ships; soil erosion; illegal solid waste disposal threatens contamination of aquifers<br>
+pollution of coastal waters from waste disposal by ships; soil erosion; illegal solid-waste disposal&nbsp;<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -231,12 +231,6 @@ _other_: 62.1% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 31.4% of total population (2023)<br>
 _rate of urbanization_: 0.46% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.01% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 9.79 micrograms per cubic meter (2019 est.)<br>
@@ -270,7 +264,7 @@ parliamentary republic; a Commonwealth realm<br>
 _name_: Bridgetown<br>
 _geographic coordinates_: 13 06 N, 59 37 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named after a bridge constructed over the swampy area (known as the Careenage) around the Constitution River that flows through the center of Bridgetown<br>
+_etymology_: originally named Indian Bridge in 1628 for a bridge built beside Carlisle Bay, then called St. Michael's Town until the 19th century; now named after a bridge built over the Constitution River that flows through the center of the city<br>
 
 **Administrative divisions**<br>
 11 parishes and 1 city*; Bridgetown*, Christ Church, Saint Andrew, Saint George, Saint James, Saint John, Saint Joseph, Saint Lucy, Saint Michael, Saint Peter, Saint Philip, Saint Thomas<br>
@@ -333,7 +327,7 @@ _percentage of women in chamber_: 33.3%<br>
 _expected date of next election_: February 2027<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court (consists of the High Court with 8 justices) and the Court of Appeal (consists of the High Court chief justice and president of the court and 4 justices; note - in 2005, Barbados acceded to the Caribbean Court of Justice as the final court of appeal, replacing that of the Judicial Committee of the Privy Council (in London)<br>
+_highest court(s)_: Supreme Court (consists of the High Court with 8 justices) and the Court of Appeal (consists of the High Court chief justice and president of the court and 4 justices; Caribbean Court of Justice is the final court of appeal<br>
 _judge selection and term of office_: Supreme Court chief justice appointed by the president on the recommendation of the prime minister and opposition leader of Parliament; other justices appointed by the president on the recommendation of the Judicial and Legal Service Commission, a 5-member independent body consisting of the Supreme Court chief justice, the commission head, and presidential appointees recommended by the prime minister; justices serve until mandatory retirement at age 65<br>
 _subordinate courts_: Magistrates' Courts<br>
 
@@ -402,9 +396,9 @@ $6.721 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-9.79% (2023 est.)<br>
+9.8% (2023 est.)<br>
 4.1% (2019 est.)<br>
-3.67% (2018 est.)<br>
+3.7% (2018 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -439,19 +433,19 @@ tourism, sugar, light manufacturing, component assembly for export<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-145,000 (2023 est.)<br>
+147,200 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7.95% (2023 est.)<br>
-8.49% (2022 est.)<br>
-9.42% (2021 est.)<br>
+7.5% (2024 est.)<br>
+7.9% (2023 est.)<br>
+8.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24.9% (2023 est.)<br>
-_male_: 28.9% (2023 est.)<br>
-_female_: 20.3% (2023 est.)<br>
+_total_: 23.7% (2024 est.)<br>
+_male_: 27.5% (2024 est.)<br>
+_female_: 19.6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
@@ -470,7 +464,7 @@ _expenditures_: $1.664 billion (2015 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-24.91% (of GDP) (2016 est.)<br>
+24.9% (of GDP) (2016 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -515,11 +509,11 @@ $1.673 billion (2021 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Barbadian dollars (BBD) per US dollar -<br>
+2 (2024 est.)<br>
 2 (2023 est.)<br>
 2 (2022 est.)<br>
 2 (2021 est.)<br>
 2 (2020 est.)<br>
-2 (2019 est.)<br>
 <strong>note:</strong> the Barbadian dollar is pegged to the US dollar<br>
 
 ## Energy
@@ -577,7 +571,7 @@ _domestic_: fixed-line teledensity of roughly 43 per 100 persons; mobile-cellula
 _international_: country code - 1-246; landing points for the ECFS and Southern Caribbean Fiber submarine cable with links to 15 other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad and Puerto Ricco; satellite earth stations - 1 (Intelsat - Atlantic Ocean); tropospheric scatter to Trinidad and Saint Lucia (2019)<br>
 
 **Broadcast media**<br>
-government-owned Caribbean Broadcasting Corporation (CBC) operates the lone terrestrial TV station; CBC also operates a multi-channel cable TV subscription service; roughly a dozen radio stations, consisting of a CBC-operated network operating alongside privately owned radio stations (2019)<br>
+government-owned Caribbean Broadcasting Corporation (CBC) operates the lone terrestrial TV station; CBC also has a multi-channel cable TV subscription service; roughly a dozen CBC-operated radio stations operate alongside privately owned radio stations (2019)<br>
 
 **Internet country code**<br>
 .bb<br>
@@ -599,13 +593,6 @@ _subscriptions per 100 inhabitants_: 37 (2022 est.)<br>
 
 **Heliports**<br>
 1 (2025)<br>
-
-**Pipelines**<br>
-33 km gas, 64 km oil, 6 km refined products (2013)<br>
-
-**Roadways**<br>
-_total_: 1,700 km<br>
-_paved_: 1,700 km (2015)<br>
 
 **Merchant marine**<br>
 _total_: 272 (2023)<br>
@@ -634,7 +621,7 @@ Barbados Defense Force (BDF): The Barbados Regiment, The Barbados Coast Guard (2
 0.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 600 active personnel (2023)<br>
+approximately 600 active personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the BDF's major equipment inventory is comprised mostly of donated items from China, the Netherlands, and the US&nbsp; (2024)<br>

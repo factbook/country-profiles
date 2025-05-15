@@ -99,10 +99,10 @@ _15-64 years_: 65.7% (male 914,364/female 941,816)<br>
 _65 years and over_: 10.4% (2024 est.) (male 140,440/female 154,629)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 38<br>
-_youth dependency ratio_: 28<br>
-_elderly dependency ratio_: 13.4<br>
-_potential support ratio_: 7.4 (2021 est.)<br>
+_total dependency ratio_: 52.1 (2024 est.)<br>
+_youth dependency ratio_: 36.2 (2024 est.)<br>
+_elderly dependency ratio_: 15.9 (2024 est.)<br>
+_potential support ratio_: 6.3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 30.9 years (2024 est.)<br>
@@ -248,12 +248,6 @@ _other_: 5.7% (2022 est.)<br>
 _urban population_: 57.4% of total population (2023)<br>
 _rate of urbanization_: 0.79% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-0.15% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 14.83 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 8.23 megatons (2016 est.)<br>
@@ -284,7 +278,7 @@ parliamentary democracy (Parliament) under a constitutional monarchy; a Commonwe
 _name_: Kingston<br>
 _geographic coordinates_: 18 00 N, 76 48 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
-_etymology_: the name is a blending of the words "king's" and "town"; the English king at the time of the city's founding in 1692 was WILLIAM III (r. 1689-1702)<br>
+_etymology_: the name is a blend of the words "king's" and "town;" named after the English king at the time of the city's founding in 1692, WILLIAM III&nbsp;<br>
 
 **Administrative divisions**<br>
 14 parishes; Clarendon, Hanover, Kingston, Manchester, Portland, Saint Andrew, Saint Ann, Saint Catherine, Saint Elizabeth, Saint James, Saint Mary, Saint Thomas, Trelawny, Westmoreland<br>
@@ -417,9 +411,9 @@ $19.423 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-6.47% (2023 est.)<br>
-10.35% (2022 est.)<br>
-5.86% (2021 est.)<br>
+5.4% (2024 est.)<br>
+6.5% (2023 est.)<br>
+10.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -455,19 +449,19 @@ agriculture, mining, manufacture, construction, financial and insurance services
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.573 million (2023 est.)<br>
+1.57 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.42% (2023 est.)<br>
-4.08% (2022 est.)<br>
-5.19% (2021 est.)<br>
+4.9% (2024 est.)<br>
+4.4% (2023 est.)<br>
+4.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.8% (2023 est.)<br>
-_male_: 13.1% (2023 est.)<br>
-_female_: 14.9% (2023 est.)<br>
+_total_: 14.5% (2024 est.)<br>
+_male_: 12.9% (2024 est.)<br>
+_female_: 16.4% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -492,16 +486,16 @@ _expenditures_: $4.12 billion (2020 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-106.28% of GDP (2020 est.)<br>
+106.3% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-25.71% (of GDP) (2020 est.)<br>
+25.7% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$583.407 million (2023 est.)<br>
--$129.756 million (2022 est.)<br>
+$568.932 million (2023 est.)<br>
+-$136.401 million (2022 est.)<br>
 $149.262 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
@@ -540,16 +534,16 @@ $4.838 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$9.776 billion (2023 est.)<br>
+$9.636 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Jamaican dollars (JMD) per US dollar -<br>
+156.44 (2024 est.)<br>
 154.159 (2023 est.)<br>
 153.427 (2022 est.)<br>
 150.79 (2021 est.)<br>
 142.403 (2020 est.)<br>
-133.312 (2019 est.)<br>
 
 ## Energy
 
@@ -620,9 +614,6 @@ _subscriptions per 100 inhabitants_: 16 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 0 (2020)<br>
-
 **Civil aircraft registration country code prefix**<br>
 6Y<br>
 
@@ -631,9 +622,6 @@ _number of registered air carriers_: 0 (2020)<br>
 
 **Heliports**<br>
 2 (2025)<br>
-
-**Roadways**<br>
-_total_: 25,595 km (2017)<br>
 
 **Merchant marine**<br>
 _total_: 40 (2023)<br>
@@ -651,8 +639,8 @@ _key ports_: Falmouth, Kingston, Lucea, Montego Bay, Ocho Rios, Port Antonio, Po
 ## Military and Security
 
 **Military and security forces**<br>
-Jamaica Defense Force (JDF): Ground Forces (Jamaica Regiment), Air Wing, Coast Guard; Jamaica Constabulary Force (JCF); Jamaica National Service Corps (JNSC) (2024)<br>
-<strong>note 1: </strong>the Coast Guard and Air Wing are operationally combined under the joint Military-Air-Cyber Command, along with the Military Cyber Corps, Special Activities Regiment, Support Brigade, and Military Intelligence Unit<br><br><strong>note 2:</strong> the JCF is the country’s police force; it has primary responsibility for internal security and has units for community policing, special response, intelligence gathering, and internal affairs; both it and the JDF are under the Ministry of National Security <br><br><strong>note 3:</strong> the JNSC is a third category of service that military recruits can join as a preparatory phase for future careers; JNSC soldiers receive basic military, vocational, and life skills training; upon completion of 12 months of service, soldiers can continue on with the JDF or the JDF reserves or seek opportunities in other public sector entities such as the JCF, the Department of Correctional Services, the Jamaica Fire Brigade, the Jamaica Customs Agency, or the Passport Immigration and Citizenship Agency<br>
+Jamaica Defense Force (JDF): Jamaica Regiment (Land Force), Maritime, Air, and Cyber Command (MACC), Support Brigade, Caribbean Military Academy, Jamaica National Reserve (2025)<br>
+<strong>note:</strong> the Jamaica Constabulary Force (JCF) is the country’s police force; it has primary responsibility for internal security and has units for community policing, special response, intelligence gathering, and internal affairs; both it and the JDF are under the Ministry of National Security<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2023 est.)<br>
@@ -662,14 +650,14 @@ Jamaica Defense Force (JDF): Ground Forces (Jamaica Regiment), Air Wing, Coast G
 1.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 5,000 personnel (2023)<br>
+approximately 4,000 personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the JDF is lightly armed with a limited inventory featuring equipment mostly from Australia, Canada, Japan, the Netherlands, the UK, and the US&nbsp; (2024)<br>
 
 **Military service age and obligation**<br>
-18-23 for voluntary military service (17 with parental consent) for men and women; 18-28 for the reserves; no conscription; since 2017, the JDF's standard mode of recruitment is to enroll recruits ages 18-23 through the Jamaica National Service Corps (JNSC), which has a service requirement of 12 months (2024)<br>
-<strong>note:</strong> as of 2022, women made up about 20% of the JDF's uniformed personnel<br>
+18-23 for voluntary military service (17 with parental consent) for men and women; 18-28 for the reserves; no conscription; since 2017, the JDF's standard mode of recruitment is to enroll recruits ages 18-23 through the Jamaica National Service Corps (JNSC), which has a service requirement of 12 months (2025)<br>
+<strong>note 1: </strong>the Jamaica Combined Cadet Force (JCCF), a youth organization under the Ministry of Security, also provides a recruitment pool for the JDF, as well as other government agencies <br><br><strong>note 2: </strong>as of 2022, women made up about 20% of the JDF's uniformed personnel<br>
 
 **Military - note**<br>
 in addition to its responsibility of defending against external aggression, the JDF's primary missions are border, internal, and maritime security, including support to police operations in combating crime and violence; other missions include search and rescue, disaster response, humanitarian assistance, and peacekeeping; it has arrest authority and partners with the Jamaica Constabulary Force (JCF); both the JDF and JCF are under the Ministry of National Security, which directs policy for the security forces; the JDF participates in bilateral and multinational training exercises, including with the militaries of Canada, the UK, the US, and other Caribbean nations <br><br>while Jamaica had a militia force as early as the 1660s, the JDF was constituted in 1962 from the West India Regiment (WIR), a British colonial regiment which dates back to 1795 (2024)<br>

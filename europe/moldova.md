@@ -74,7 +74,7 @@ pockets of agglomeration exist throughout the country, the largest being in the 
 landslides<br>
 
 **Geography - note**<br>
-landlocked; well-endowed with various sedimentary rocks and minerals including sand, gravel, gypsum, and limestone<br>
+landlocked; has many types of sedimentary rocks and minerals, including sand, gravel, gypsum, and limestone<br>
 
 ## People and Society
 
@@ -104,10 +104,10 @@ _15-64 years_: 70.2% (male 1,225,535/female 1,300,640)<br>
 _65 years and over_: 15% (2024 est.) (male 206,221/female 334,473)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 39.6<br>
-_youth dependency ratio_: 29.7<br>
-_elderly dependency ratio_: 20.4<br>
-_potential support ratio_: 4.9 (2021 est.)<br>
+_total dependency ratio_: 42.5 (2024 est.)<br>
+_youth dependency ratio_: 21.1 (2024 est.)<br>
+_elderly dependency ratio_: 21.4 (2024 est.)<br>
+_potential support ratio_: 4.7 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 39.9 years (2024 est.)<br>
@@ -228,7 +228,7 @@ _female_: 15 years (2021)<br>
 ## Environment
 
 **Environment - current issues**<br>
-heavy use of agricultural chemicals has contaminated soil and groundwater; extensive soil erosion and declining soil fertility from poor farming methods<br>
+soil and water pollution from heavy use of agricultural chemicals; extensive soil erosion and declining soil fertility from farming methods<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Persistent Organic Pollutants, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -248,12 +248,6 @@ _other_: 18.9% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 43.4% of total population (2023)<br>
 _rate of urbanization_: 0.09% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.26% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 12.37 micrograms per cubic meter (2019 est.)<br>
@@ -297,7 +291,7 @@ _name_: Chisinau in Romanian (Kishinev in Russian)<br>
 _geographic coordinates_: 47 00 N, 28 51 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: origin unclear but may derive from the archaic Romanian word <em>chisla</em> ("spring" or "water source") and <em>noua</em> ("new") because the original settlement was built at the site of a small spring<br>
+_etymology_: origin unclear but may derive from the Old Moldovan word <em>kishineu </em>("spring" or "artesian well") <br>
 <strong>note:</strong> pronounced KEE-shee-now (KIH-shi-nyov)<br>
 
 **Administrative divisions**<br>
@@ -310,7 +304,7 @@ _etymology_: origin unclear but may derive from the archaic Romanian word <em>ch
 Independence Day, 27 August (1991)<br>
 
 **Legal system**<br>
-civil law system with Germanic law influences; Constitutional Court review of legislative acts<br>
+civil law system with Germanic law influences; Constitutional Court reviews legislative acts<br>
 
 **Constitution**<br>
 _history_: previous 1978; latest adopted 29 July 1994, effective 27 August 1994<br>
@@ -419,9 +413,9 @@ $16.539 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-13.42% (2023 est.)<br>
-28.74% (2022 est.)<br>
-5.11% (2021 est.)<br>
+4.7% (2024 est.)<br>
+13.4% (2023 est.)<br>
+28.7% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -455,19 +449,19 @@ sugar processing, vegetable oil, food processing, agricultural machinery; foundr
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.43 million (2023 est.)<br>
+1.378 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.62% (2023 est.)<br>
-0.91% (2022 est.)<br>
-0.79% (2021 est.)<br>
+1.4% (2024 est.)<br>
+1.6% (2023 est.)<br>
+0.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.2% (2023 est.)<br>
-_male_: 5% (2023 est.)<br>
-_female_: 3.4% (2023 est.)<br>
+_total_: 3.3% (2024 est.)<br>
+_male_: 3.4% (2024 est.)<br>
+_female_: 3.3% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -495,11 +489,11 @@ _expenditures_: $4.684 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-34.52% of GDP (2022 est.)<br>
+34.6% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-18.94% (of GDP) (2022 est.)<br>
+18.8% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -537,22 +531,22 @@ refined petroleum, natural gas, cars, packaged medicine, plastic products (2023)
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$5.477 billion (2024 est.)<br>
 $5.453 billion (2023 est.)<br>
 $4.474 billion (2022 est.)<br>
-$3.902 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$2.852 billion (2023 est.)<br>
+$2.637 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Moldovan lei (MDL) per US dollar -<br>
+17.792 (2024 est.)<br>
 18.164 (2023 est.)<br>
 18.897 (2022 est.)<br>
 17.68 (2021 est.)<br>
 17.322 (2020 est.)<br>
-17.573 (2019 est.)<br>
 
 ## Energy
 
@@ -610,7 +604,7 @@ _domestic_: fixed-line service is 29 per 100; mobile cellular tele density is 12
 _international_: country code - 373; service through Romania and Russia via landline; satellite earth stations - at least 3 - Intelsat, Eutelsat, and Intersputnik<br>
 
 **Broadcast media**<br>
-state-owned national radio-TV broadcaster operates 1 TV and 1 radio station; a total of nearly 70 terrestrial TV channels and some 50 radio stations are in operation; Russian and Romanian channels also are available (2019)<br>
+state-owned national radio-TV broadcaster operates 1 TV and 1 radio station; total of nearly 70 terrestrial TV channels and about 50 radio stations; Russian and Romanian channels are available (2019)<br>
 
 **Internet country code**<br>
 .md<br>
@@ -624,12 +618,6 @@ _subscriptions per 100 inhabitants_: 27 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 6 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 21<br>
-_annual passenger traffic on registered air carriers_: 1,135,999 (2018)<br>
-_annual freight traffic on registered air carriers_: 640,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 ER<br>
 
@@ -639,19 +627,10 @@ ER<br>
 **Heliports**<br>
 1 (2025)<br>
 
-**Pipelines**<br>
-2,026 km gas (2021) (2021)<br>
-
 **Railways**<br>
 _total_: 1,171 km (2014)<br>
 _standard gauge_: 14 km (2014) 1.435-m gauge<br>
 _broad gauge_: 1,157 km (2014) 1.520-m gauge<br>
-
-**Roadways**<br>
-_total_: 9,488 km (2022)<br>
-
-**Waterways**<br>
-558 km (2011) (in public use on Danube, Dniester and Prut Rivers)<br>
 
 **Merchant marine**<br>
 _total_: 75 (2023)<br>
@@ -660,8 +639,8 @@ _by type_: bulk carrier 1, container ship 1, general cargo 44, oil tanker 7, oth
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Republic of Moldova (Forțele Armate ale Republicii Moldova): National Army (comprised of a General Staff, a Land Forces Command, and an Air Force Command)<br><br>Ministry of Internal Affairs: General Carabinieri Inspectorate (aka Carabinieri Troops or Trupele de Carabinieri), General Police Inspectorate (GPI), General Inspectorate of the Border Police (2024)<br>
-<strong>note:</strong> the Carabinieri is a quasi-militarized gendarmerie responsible for protecting public buildings, maintaining public order, and other national security functions; the GPI is the primary law enforcement body, responsible for internal security, public order, traffic, and criminal investigations; prior to 2012, the Border Police were under the armed forces and known as the Border Troops<br>
+Armed Forces of the Republic of Moldova (Forțele Armate ale Republicii Moldova): National Army (comprised of Land Forces, Air Force)<br><br>Ministry of Internal Affairs: General Inspectorate of Police (GPI), Border Police Department, Carabinieri Troops Department (2025)<br>
+<strong>note:</strong> the Carabinieri is a quasi-militarized gendarmerie responsible for protecting public buildings, maintaining public order, and other national security functions; the GPI is the primary law enforcement body, responsible for internal security, public order, traffic, and criminal investigations<br>
 
 **Military expenditures**<br>
 0.5% of GDP (2023 est.)<br>

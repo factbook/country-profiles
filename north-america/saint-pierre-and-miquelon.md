@@ -97,10 +97,10 @@ _15-64 years_: 61.6% (male 1,559/female 1,600)<br>
 _65 years and over_: 25.3% (2024 est.) (male 571/female 728)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 52<br>
-_youth dependency ratio_: 26.1<br>
-_elderly dependency ratio_: 25.9<br>
-_potential support ratio_: 3.9 (2021)<br>
+_total dependency ratio_: 62.5 (2024 est.)<br>
+_youth dependency ratio_: 21.3 (2024 est.)<br>
+_elderly dependency ratio_: 41.1 (2024 est.)<br>
+_potential support ratio_: 2.4 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 51.2 years (2024 est.)<br>
@@ -177,9 +177,6 @@ NA<br>
 **Currently married women (ages 15-49)**<br>
 64.1% (2023 est.)<br>
 
-**Education expenditures**<br>
-NA<br>
-
 **Literacy**<br>
 _total population_: NA<br>
 _male_: NA<br>
@@ -188,7 +185,7 @@ _female_: NA<br>
 ## Environment
 
 **Environment - current issues**<br>
-overfishing; recent test drilling for oil in waters around Saint Pierre and Miquelon may bring future development that would impact the environment<br>
+overfishing<br>
 
 **Climate**<br>
 cold and wet, with considerable mist and fog; spring and autumn are often windy<br>
@@ -225,7 +222,7 @@ _name_: Saint-Pierre<br>
 _geographic coordinates_: 46 46 N, 56 11 W<br>
 _time difference_: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday in November<br>
-_etymology_: named after Saint Peter, the patron saint of fisherman<br>
+_etymology_: may be named after Saint Peter, the patron saint of fisherman; alternatively, the name may come from one of the two navigators for whom the island as a whole is named&nbsp;<br>
 
 **Administrative divisions**<br>
 none (territorial overseas collectivity of France); note - there are no first-order administrative divisions as defined by the US Government, but there are 2 communes at the second order - Saint Pierre, Miquelon<br>
@@ -315,12 +312,6 @@ vegetables; poultry, cattle, sheep, pigs; fish<br>
 **Industries**<br>
 fish processing and supply base for fishing fleets; tourism<br>
 
-**Labor force**<br>
-4,429 (2015)<br>
-
-**Unemployment rate**<br>
-8.7% (2015 est.)<br>
-
 **Exports - partners**<br>
 Canada 78%, Ireland 5%, France 5%, Djibouti 4%, UK 2% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
@@ -374,7 +365,7 @@ _domestic_: fixed-line teledensity 76 per 100 persons (2019)<br>
 _international_: country code - 508; landing point for the St Pierre and Miquelon Cable connecting Saint Pierre&nbsp;&amp; Miquelon and Canada; radiotelephone communication with most countries in the world; satellite earth station - 1 in French domestic satellite system (2019)<br>
 
 **Broadcast media**<br>
-8 TV stations, all part of the French Overseas Network, and local cable provided by SPM Telecom; 3 of 4 radio stations on St. Pierre and on Miquelon are part of the French Overseas Network (2021)<br>
+8 TV stations, all part of the French Overseas Network, and local cable provided by SPM Telecom; 3 of 4 radio stations are part of the French Overseas Network (2021)<br>
 
 **Internet country code**<br>
 .pm<br>
@@ -386,11 +377,6 @@ _percent of population_: 88.7% (2022 est.)<br>
 
 **Airports**<br>
 2 (2025)<br>
-
-**Roadways**<br>
-_total_: 117 km<br>
-_paved_: 80 km<br>
-_unpaved_: 37 km (2009)<br>
 
 **Ports**<br>
 _total ports_: 2 (2024)<br>

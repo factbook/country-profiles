@@ -93,10 +93,10 @@ _15-64 years_: 67.5% (male 5,535/female 5,247)<br>
 _65 years and over_: 12.7% (2024 est.) (male 1,023/female 1,005)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 57<br>
-_youth dependency ratio_: 36.6<br>
-_elderly dependency ratio_: 20.4<br>
-_potential support ratio_: 4.9 (2021)<br>
+_total dependency ratio_: 48.1 (2024 est.)<br>
+_youth dependency ratio_: 29.3 (2024 est.)<br>
+_elderly dependency ratio_: 18.8 (2024 est.)<br>
+_potential support ratio_: 5.3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 36.3 years (2024 est.)<br>
@@ -170,9 +170,6 @@ NA<br>
 **Currently married women (ages 15-49)**<br>
 56% (2023)<br>
 
-**Education expenditures**<br>
-NA<br>
-
 **Literacy**<br>
 _total population_: NA<br>
 _male_: NA<br>
@@ -181,7 +178,7 @@ _female_: NA<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation (only small portions of the original forests remain) largely as a result of the continued use of wood as the main fuel source; as a consequence of cutting down the forests, the mountainous terrain of Futuna is particularly prone to erosion; there are no permanent settlements on Alofi because of the lack of natural freshwater resources; lack of soil fertility on the islands of Uvea and Futuna negatively impacts agricultural productivity<br>
+deforestation (only small portions of the original forests remain) due to wood as the main fuel source; soil erosion; lack of natural freshwater resources; lack of soil fertility on the islands of Uvea and Futuna<br>
 
 **Climate**<br>
 tropical; hot, rainy season (November to April); cool, dry season (May to October); rains 250-300 cm per year (80% humidity); average temperature 26.6 degrees Celsius<br>
@@ -206,7 +203,7 @@ _conventional short form_: Wallis and Futuna<br>
 _local long form_: Territoire des Iles Wallis et Futuna<br>
 _local short form_: Wallis et Futuna<br>
 _former_: Hoorn Islands is the former name of the Futuna Islands<br>
-_etymology_: Wallis Island is named after British Captain Samuel WALLIS, who discovered it in 1767; Futuna is derived from the native word "futu," which is the name of the fish-poison tree found on the island<br>
+_etymology_: Wallis Island is named after British Captain Samuel WALLIS, who visited in 1767; Futuna is a local name, and the meaning is unclear<br>
 
 **Government type**<br>
 parliamentary democracy (Territorial Assembly); overseas collectivity of France<br>
@@ -305,9 +302,6 @@ copra, handicrafts, fishing, lumber<br>
 _revenues_: $32.54 million (2015 est.)<br>
 _expenditures_: $34.18 million (2015 est.)<br>
 
-**Taxes and other revenues**<br>
-16.7% (of GDP) (2015 est.)<br>
-
 **Exports - partners**<br>
 Denmark 35%, Sweden 14%, Netherlands 14%, Pakistan 9%, Poland 7% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
@@ -347,7 +341,7 @@ _domestic_: fixed-line teledensity 26 per 100 persons (2021)<br>
 _international_: country code - 681; landing point for the Tui-Samoa submarine cable network connecting Wallis &amp; Futuna, Samoa and Fiji (2020)<br>
 
 **Broadcast media**<br>
-the publicly owned French Overseas Network (RFO), which broadcasts to France's overseas departments, collectivities, and territories, is carried on the RFO Wallis and Fortuna TV and radio stations (2019)<br>
+publicly owned French Overseas Network (RFO), which broadcasts to France's overseas departments, collectivities, and territories, is carried on the RFO Wallis and Fortuna TV and radio stations (2019)<br>
 
 **Internet country code**<br>
 .wf<br>

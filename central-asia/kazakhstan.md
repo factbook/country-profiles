@@ -78,7 +78,7 @@ most of the country displays a low population density, particularly the interior
 earthquakes in the south; mudslides around Almaty<br>
 
 **Geography - note**<br>
-world's largest landlocked country and one of only two landlocked countries in the world that extends into two continents (the other is Azerbaijan); Russia leases approximately 6,000 sq km of territory enclosing the Baikonur Cosmodrome; in 2004, Kazakhstan and Russia extended the lease to 2050<br>
+world's largest landlocked country and one of only two landlocked countries in the world that extends into two continents (the other is Azerbaijan); Russia leases approximately 6,000 sq km (2,317 sq mi) of territory enclosing the Baikonur Cosmodrome&nbsp;<br>
 
 ## People and Society
 
@@ -108,10 +108,10 @@ _15-64 years_: 62.8% (male 6,233,881/female 6,486,019)<br>
 _65 years and over_: 9.6% (2024 est.) (male 700,091/female 1,244,043)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 60<br>
-_youth dependency ratio_: 47.2<br>
-_elderly dependency ratio_: 12.7<br>
-_potential support ratio_: 7.9 (2021 est.)<br>
+_total dependency ratio_: 59.3 (2024 est.)<br>
+_youth dependency ratio_: 44 (2024 est.)<br>
+_elderly dependency ratio_: 15.3 (2024 est.)<br>
+_potential support ratio_: 6.5 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 31.9 years (2024 est.)<br>
@@ -236,7 +236,7 @@ _female_: 16 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-radioactive or toxic chemical sites associated with former defense industries and test ranges scattered throughout the country pose health risks for humans and animals; industrial pollution is severe in some cities; because the two main rivers that flowed into the Aral Sea have been diverted for irrigation, it is drying up and leaving behind a harmful layer of chemical pesticides and natural salts; these substances are then picked up by the wind and blown into noxious dust storms; pollution in the Caspian Sea; desertification; soil pollution from overuse of agricultural chemicals and salination from poor infrastructure and wasteful irrigation practices<br>
+radioactive or toxic chemical sites from former defense industries; severe industrial pollution in some cities; air and soil pollution (including dust storms) from chemical pesticides and natural salts left after two rivers were diverted; soil pollution from overuse of agricultural chemicals; salination from infrastructure and irrigation practices; water pollution; desertification<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -256,12 +256,6 @@ _other_: 19.3% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 58.2% of total population (2023)<br>
 _rate of urbanization_: 1.19% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.99% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 26.5 micrograms per cubic meter (2019 est.)<br>
@@ -308,9 +302,9 @@ presidential republic<br>
 _name_: Astana<br>
 _geographic coordinates_: 51 10 N, 71 25 E<br>
 _time difference_: UTC+5 (10 hours ahead of Washington, DC, during Standard Time)<br>
-_time zone note_: On 1 March 2024, Kazakhstan moved from two time zones to using one time zone<br>
+_time zone note_: On 1 March 2024, Kazakhstan moved from using two time zones to one<br>
 _etymology_: the name means "capital city" in Kazakh<br>
-<strong>note:</strong> on 17 September 2022, Kazakhstan changed the name of its capital city from Nur-Sultan back to Astana; this was not the first time the city had its name changed; founded in 1830 as Akmoly, it became Akmolinsk in 1832, Tselinograd in 1961, Akmola (Aqmola) in 1992, Astana in 1998, and Nur-Sultan in 2019; the latest name change occurred just three and a half years after the city was renamed to honor a long-serving (28-year) former president, who subsequently fell out of favor<br>
+<strong>note:</strong> founded in 1830 as Akmoly, the capital city became Akmolinsk in 1832, Tselinograd in 1961, Akmola (Aqmola) in 1992, Astana in 1998, and Nur-Sultan in 2019; the latest name change back to Astana in 2022 occurred just three and a half years after the city was renamed to honor a former president, who subsequently fell out of favor  <br>
 
 **Administrative divisions**<br>
 17 provinces (oblystar, singular - oblys) and 4 cities* (qalalar, singular - qala); Abay (Semey), Almaty (Qonaev), Almaty*, Aqmola (Kokshetau), Aqtobe, Astana*, Atyrau, Batys Qazaqstan [West Kazakhstan] (Oral), Bayqongyr*, Mangghystau (Aqtau), Pavlodar, Qaraghandy, Qostanay, Qyzylorda, Shyghys Qazaqstan [East Kazakhstan] (Oskemen), Shymkent*, Soltustik Qazaqstan [North Kazakhstan] (Petropavl), Turkistan, Ulytau (Zhezqazghan), Zhambyl (Taraz), Zhetisu (Taldyqorghan)<br>
@@ -444,9 +438,9 @@ $262.642 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-14.72% (2023 est.)<br>
-15.03% (2022 est.)<br>
-8.04% (2021 est.)<br>
+4.9% (2024 est.)<br>
+14.7% (2023 est.)<br>
+15% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -482,19 +476,19 @@ oil, coal, iron ore, manganese, chromite, lead, zinc, copper, titanium, bauxite,
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-9.808 million (2023 est.)<br>
+10.285 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.85% (2023 est.)<br>
-4.86% (2022 est.)<br>
-5.56% (2021 est.)<br>
+4.8% (2024 est.)<br>
+4.8% (2023 est.)<br>
+4.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.8% (2023 est.)<br>
-_male_: 2.9% (2023 est.)<br>
-_female_: 5% (2023 est.)<br>
+_total_: 3.8% (2024 est.)<br>
+_male_: 3% (2024 est.)<br>
+_female_: 4.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -526,22 +520,22 @@ _expenditures_: $36.451 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-20.82% of GDP (2023 est.)<br>
+20.8% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-11.86% (of GDP) (2023 est.)<br>
+11.9% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$9.02 billion (2023 est.)<br>
+-$8.981 billion (2023 est.)<br>
 $6.435 billion (2022 est.)<br>
 -$2.679 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$90.531 billion (2023 est.)<br>
-$93.623 billion (2022 est.)<br>
+$90.915 billion (2023 est.)<br>
+$93.822 billion (2022 est.)<br>
 $71.726 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
@@ -554,8 +548,8 @@ crude petroleum, gold, radioactive chemicals, refined copper, copper ore (2023)<
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$72.367 billion (2023 est.)<br>
-$60.202 billion (2022 est.)<br>
+$72.993 billion (2023 est.)<br>
+$60.816 billion (2022 est.)<br>
 $49.597 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
@@ -568,22 +562,22 @@ garments, cars, broadcasting equipment, vehicle bodies, packaged medicine (2023)
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$21.98 billion (2024 est.)<br>
 $35.965 billion (2023 est.)<br>
 $35.076 billion (2022 est.)<br>
-$34.378 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$26.441 billion (2023 est.)<br>
+$25.765 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: tenge (KZT) per US dollar -<br>
+468.962 (2024 est.)<br>
 456.165 (2023 est.)<br>
 460.165 (2022 est.)<br>
 425.908 (2021 est.)<br>
 412.953 (2020 est.)<br>
-382.747 (2019 est.)<br>
 
 ## Energy
 
@@ -650,7 +644,7 @@ _domestic_: fixed telephone subscriptions are 15 per 100 persons; mobile-cellula
 _international_: country code - 7; international traffic with other former Soviet republics and China carried by landline and microwave radio relay and with other countries by satellite and by the TAE fiber-optic cable; satellite earth stations - 2 Intelsat<br>
 
 **Broadcast media**<br>
-the state owns nearly all radio and TV transmission facilities and operates national TV and radio networks; there are 96 TV channels, many of which are owned by the government, and 4 state-run radio stations; some former state-owned media outlets have been privatized; households with satellite dishes have access to foreign media; a small number of commercial radio stations operate along with state-run radio stations; recent legislation requires all media outlets to register with the government and all TV providers to broadcast in digital format by 2018; broadcasts reach some 99% of the population as well as neighboring countries (2018)<br>
+the state owns nearly all radio and TV transmission facilities and operates national TV and radio networks; there are 96 TV channels, and 4 state-run radio stations; some former state-owned media outlets have been privatized; households with satellite dishes have access to foreign media; small number of commercial radio stations; all media outlets have to register with the government (2018)<br>
 
 **Internet country code**<br>
 .kz<br>
@@ -664,12 +658,6 @@ _subscriptions per 100 inhabitants_: 18 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 12 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 84<br>
-_annual passenger traffic on registered air carriers_: 7,143,797 (2018)<br>
-_annual freight traffic on registered air carriers_: 50.22 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 UP<br>
 
@@ -679,20 +667,9 @@ UP<br>
 **Heliports**<br>
 32 (2025)<br>
 
-**Pipelines**<br>
-658 km condensate, 15,429 km gas (2020), 8,020 km oil (2020), 1,095 km refined products, 1,975 km water (2017) (2020)<br>
-
 **Railways**<br>
 _total_: 16,636 km (2021)<br>
 _broad gauge_: 16,636 km (2021) 1.520-m gauge (4,237 km electrified)<br>
-
-**Roadways**<br>
-_total_: 96,167 km<br>
-_paved_: 83,813 km<br>
-_unpaved_: 12,354 km (2021)<br>
-
-**Waterways**<br>
-43,983 km (2020) (on the Ertis (Irtysh) River (80%) and Syr Darya (Syrdariya) River)<br>
 
 **Merchant marine**<br>
 _total_: 122 (2023)<br>

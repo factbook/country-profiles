@@ -68,7 +68,7 @@ Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 population clusters exist throughout the country, the largest being in the east in and around the capital of Pristina<br>
 
 **Geography - note**<br>
-the 41-km long Nerodimka River divides into two branches, each of which flows into a different sea: the northern branch flows into the Sitnica River, which via the Ibar, Morava, and Danube Rivers ultimately flows into the Black Sea; the southern branch flows via the Lepenac and Vardar Rivers into the Aegean Sea<br>
+the 41-km (25-mi) Nerodimka River divides into two branches, each of which flows into a different sea: the northern branch flows into the Sitnica River, which via the Ibar, Morava, and Danube Rivers ultimately flows into the Black Sea; the southern branch flows via the Lepenac and Vardar Rivers into the Aegean Sea<br>
 
 ## People and Society
 
@@ -101,10 +101,10 @@ _15-64 years_: 68.9% (male 712,403/female 649,932)<br>
 _65 years and over_: 8.4% (2024 est.) (male 72,579/female 92,865)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 46.9<br>
-_youth dependency ratio_: 32.3<br>
-_elderly dependency ratio_: 14.6<br>
-_potential support ratio_: 6.9 (2021)<br>
+_total dependency ratio_: 45.1 (2024 est.)<br>
+_youth dependency ratio_: 33 (2024 est.)<br>
+_elderly dependency ratio_: 12.1 (2024 est.)<br>
+_potential support ratio_: 8.2 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 32 years (2024 est.)<br>
@@ -183,7 +183,7 @@ NA<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution (pollution from power plants and nearby lignite mines take a toll on people's health); water scarcity and pollution; land degradation<br>
+air pollution from power plants and lignite mines; water scarcity and pollution; land degradation<br>
 
 **Climate**<br>
 influenced by continental air masses resulting in relatively cold winters with heavy snowfall and hot, dry summers and autumns; Mediterranean and alpine influences create regional variation; maximum rainfall between October and December<br>
@@ -195,12 +195,6 @@ _agricultural land: permanent crops_: permanent crops: 1.9% (2018 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 23.5% (2018 est.)<br>
 _forest_: 41.7% (2018 est.)<br>
 _other_: 5.5% (2018 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.31% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _carbon dioxide emissions_: 8.94 megatons (2016 est.)<br>
@@ -229,7 +223,7 @@ _name_: Pristina (Prishtine, Prishtina)<br>
 _geographic coordinates_: 42 40 N, 21 10 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the name may derive from a Proto-Slavic word reconstructed as "pryshchina," meaning "spring (of water)"<br>
+_etymology_: the town takes its name from the river; the origin of the river's name is unclear but could come from a pre-Slavic language<br>
 
 **Administrative divisions**<br>
 38 municipalities (komunat, singular - komuna (Albanian); opstine, singular - opstina (Serbian)); Decan (Decani), Dragash (Dragas), Ferizaj (Urosevac), Fushe Kosove (Kosovo Polje), Gjakove (Dakovica), Gjilan (Gnjilane), Gllogovc (Glogovac), Gracanice (Gracanica), Hani i Elezit (Deneral Jankovic), Istog (Istok), Junik, Kacanik, Kamenice (Kamenica), Kline (Klina), Kllokot (Klokot), Leposaviq (Leposavic), Lipjan (Lipljan), Malisheve (Malisevo), Mamushe (Mamusa), Mitrovice e Jugut (Juzna Mitrovica) [South Mitrovica], Mitrovice e Veriut (Severna Mitrovica) [North Mitrovica], Novoberde (Novo Brdo), Obiliq (Obilic), Partesh (Partes), Peje (Pec), Podujeve (Podujevo), Prishtine (Pristina), Prizren, Rahovec (Orahovac), Ranillug (Ranilug), Shterpce (Strpce), Shtime (Stimlje), Skenderaj (Srbica), Suhareke (Suva Reka), Viti (Vitina), Vushtrri (Vucitrn), Zubin Potok, Zvecan<br>
@@ -241,7 +235,7 @@ _etymology_: the name may derive from a Proto-Slavic word reconstructed as "prys
 Independence Day, 17 February (2008)<br>
 
 **Legal system**<br>
-civil law system; note - the European Union Rule of Law Mission (EULEX) retained limited executive powers within the Kosovo judiciary for complex cases from 2008 to 2018<br>
+civil law system<br>
 
 **Constitution**<br>
 _history_: previous 1974, 1990; latest (post-independence) draft finalized 2 April 2008, signed 7 April 2008, ratified 9 April 2008, entered into force 15 June 2008<br>
@@ -261,10 +255,11 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Vjosa OSMANI-Sadriu (since 4 April 2021)<br>
-_head of government_: Prime Minister Albin KURTI (since 22 March 2021)<br>
+_head of government_: vacant (since 15 April 2025)<br>
 _cabinet_: Cabinet elected by the Assembly<br>
 _elections/appointments_: president indirectly elected by at least two-thirds majority vote of the Assembly for a 5-year term; if a candidate does not attain a two-thirds threshold in the first two ballots, the candidate winning a simple majority vote in the third ballot is elected (eligible for a second term); election last held on 3 to 4 April 2021 (next to be held in 2026); prime minister indirectly elected by the Assembly<br>
 _election results_: <em><br>2021: </em> Vjosa OSMANI-Sadriu elected president in third ballot; Assembly vote - Vjosa OSMANI-Sadriu (Guxo!) 71 votes; Albin KURTI (LVV) elected prime minister; Assembly vote - 67 for, 30 against<br><br><em>2017: </em>Ramush HARADINAJ (AAK) elected prime minister; Assembly vote - 61 for, 1 abstention, 0 against (opposition boycott)<br><br><em>2016:</em> Hashim THACI elected president in third ballot; Assembly vote - Hashim THACI (PDK) 71 votes<br>
+<strong>note: </strong>Prime Minister Albin KURTI resigned on 15 April 2025; a replacement has not yet been selected<br>
 
 **Legislative branch**<br>
 _legislature name_: Assembly (Kuvendi i Kosoves/Skupstina Kosova)<br>
@@ -352,9 +347,9 @@ $10.468 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.94% (2023 est.)<br>
-11.58% (2022 est.)<br>
-3.35% (2021 est.)<br>
+1.6% (2024 est.)<br>
+4.9% (2023 est.)<br>
+11.6% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -457,21 +452,22 @@ Germany 13%, Turkey 13%, China 10%, Serbia 7%, Italy 6% (2021)<br>
 refined petroleum, cars, iron rods, electricity, cigars, packaged medicines (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
+$1.31 billion (2024 est.)<br>
 $1.245 billion (2023 est.)<br>
 $1.248 billion (2022 est.)<br>
-$1.244 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$829.127 million (2023 est.)<br>
+$785.739 million (2023 est.)<br>
+<strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.951 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.877 (2020 est.)<br>
-0.893 (2019 est.)<br>
 <strong>note: </strong>Kosovo, which is neither an EU member state nor a party to a formal EU monetary agreement, uses the euro as its de facto currency<br>
 
 ## Energy
@@ -531,9 +527,6 @@ _percent of population_: 89% (2018 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 0 (2020)<br>
-
 **Civil aircraft registration country code prefix**<br>
 Z6<br>
 
@@ -546,13 +539,10 @@ Z6<br>
 **Railways**<br>
 _total_: 437 km (2020)<br>
 
-**Roadways**<br>
-_total_: 2,248 km (2022)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>
-Kosovo Security Force (KSF; Forca e Sigurisë së Kosovës or FSK): Land Force, National Guard (2024)<br>
+Kosovo Security Force (KSF; Forca e Sigurisë së Kosovës or FSK): Land Force, National Guard (2025)<br>
 <strong>note:</strong> the Kosovo Police are under the Ministry of Internal Affairs<br>
 
 **Military expenditures**<br>
@@ -572,7 +562,7 @@ the KSF is equipped with small arms and light vehicles and has relied on limited
 any citizen of Kosovo over the age of 18 is eligible to serve in the Kosovo Security Force; upper age for enlisting is 30 for officers, 25 for other ranks, although these may be waived for recruits with key skills considered essential for the KSF<br> (2024)<br>
 
 **Military - note**<br>
-the Kosovo Security Force (KSF) was established in 2009 as a small (1,500 personnel), lightly armed disaster response force; the NATO-led Kosovo Force (KFOR) was charged with assisting in the development of the KSF and bringing it up to standards designated by NATO; the KSF was certified as fully operational by the North Atlantic Council in 2013, indicating the then 2,200-strong KSF was entirely capable of performing the tasks assigned under its mandate, which included non-military security functions that were not appropriate for the police, plus missions such as search and rescue, explosive ordnance disposal, control and clearance of hazardous materials, firefighting, and other humanitarian assistance tasks<br><br>in 2019, Kosovo approved legislation that began a process to transition the KSF by 2028 into a professional military (the Kosovo Armed Forces) led by a General Staff and comprised of a Land Force, a National Guard, a Logistics Command, and a Doctrine and Training Command; it would have a strength of up to 5,000 with about 3,000 reserves; at the same time, the KSF’s mission was expanded to include traditional military functions, such as territorial defense and international peacekeeping; the KSF’s first international mission was the deployment of a small force to Kuwait in 2021 <br><br>the NATO-led KFOR has operated in the country as a peace support force since 1999; in addition to assisting in the development of the KSF, KFOR is responsible for providing a safe and secure environment and ensuring freedom of movement for all citizens; as of 2024, it numbered about 4,400 troops from 28 countries; Kosovo regards the US as a key ally and security guarantor, and the US has provided considerable support to the KSF, including equipment and training (2024)<br>
+the Kosovo Security Force (KSF) was established in 2009 as a small (1,500 personnel), lightly armed disaster response force; the NATO-led Kosovo Force (KFOR) was charged with assisting in the development of the KSF and bringing it up to standards designated by NATO; the KSF was certified as fully operational by the North Atlantic Council in 2013, indicating the then 2,200-strong KSF was entirely capable of performing the tasks assigned under its mandate, which included non-military security functions that were not appropriate for the police, plus missions such as search and rescue, explosive ordnance disposal, control and clearance of hazardous materials, firefighting, and other humanitarian assistance tasks<br><br>in 2019, Kosovo approved legislation that began a process to transition the KSF by 2028 into a professional military (the Kosovo Armed Forces) led by a General Staff and comprised of a Land Force, a National Guard, a Logistics Command, and a Doctrine and Training Command; it would have a strength of up to 5,000 with about 3,000 reserves; at the same time, the KSF’s mission was expanded to include traditional military functions, such as territorial defense and international peacekeeping; the KSF’s first international mission was the deployment of a small force to Kuwait in 2021 <br><br>the NATO-led KFOR has operated in the country as a peace support force since 1999; in addition to assisting in the development of the KSF, KFOR is responsible for providing a safe and secure environment and ensuring freedom of movement for all citizens; Kosovo regards the US as a key ally and security guarantor, and the US has provided considerable support to the KSF, including equipment and training (2024)<br>
 
 ## Terrorism
 

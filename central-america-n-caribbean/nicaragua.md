@@ -103,10 +103,10 @@ _15-64 years_: 68.9% (male 2,240,297/female 2,360,244)<br>
 _65 years and over_: 6% (2024 est.) (male 178,347/female 224,090)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 54.4<br>
-_youth dependency ratio_: 46.4<br>
-_elderly dependency ratio_: 8<br>
-_potential support ratio_: 12.6 (2021 est.)<br>
+_total dependency ratio_: 45.1 (2024 est.)<br>
+_youth dependency ratio_: 36.4 (2024 est.)<br>
+_elderly dependency ratio_: 8.7 (2024 est.)<br>
+_potential support ratio_: 11.4 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 29 years (2024 est.)<br>
@@ -239,12 +239,6 @@ _other_: 31% (2022 est.)<br>
 _urban population_: 59.8% of total population (2023)<br>
 _rate of urbanization_: 1.45% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-1.26% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 16 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 5.59 megatons (2016 est.)<br>
@@ -284,7 +278,7 @@ presidential republic<br>
 _name_: Managua<br>
 _geographic coordinates_: 12 08 N, 86 15 W<br>
 _time difference_: UTC-6 (1 hour behind Washington, DC, during Standard Time)<br>
-_etymology_: may derive from the indigenous Nahuatl term "mana-ahuac," which translates as "adjacent to the water" or a site "surrounded by water"; the city is situated on the southwestern shore of Lake Managua<br>
+_etymology_: the name comes from Lake Managua, whose name is composed of the Guaraní words <em>ama </em>(rain) and <em>nagua </em>(spirit) and refers to a local deity<br>
 
 **Administrative divisions**<br>
 15 departments (departamentos, singular - departamento) and 2 autonomous regions* (regiones autonomistas, singular - region autonoma); Boaco, Carazo, Chinandega, Chontales, Costa Caribe Norte*, Costa Caribe Sur*, Esteli, Granada, Jinotega, Leon, Madriz, Managua, Masaya, Matagalpa, Nueva Segovia, Rio San Juan, Rivas<br>
@@ -405,9 +399,9 @@ $17.829 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-8.39% (2023 est.)<br>
-10.47% (2022 est.)<br>
-4.93% (2021 est.)<br>
+4.6% (2024 est.)<br>
+8.4% (2023 est.)<br>
+10.5% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -443,19 +437,19 @@ food processing, chemicals, machinery and metal products, knit and woven apparel
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.167 million (2023 est.)<br>
+3.225 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.8% (2023 est.)<br>
-4.98% (2022 est.)<br>
-6.06% (2021 est.)<br>
+4.6% (2024 est.)<br>
+4.7% (2023 est.)<br>
+5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.5% (2023 est.)<br>
-_male_: 8.3% (2023 est.)<br>
-_female_: 12.6% (2023 est.)<br>
+_total_: 9% (2024 est.)<br>
+_male_: 7.8% (2024 est.)<br>
+_female_: 12% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -487,7 +481,7 @@ _expenditures_: $2.609 billion (2022 est.)<br>
 <strong>note:</strong> official data; data cover general government debt and include debt instruments issued (or owned) by Government entities other than the treasury; the data include treasury debt held by foreign entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as retirement, medical care, and unemployment, debt instruments for the social funds are not sold at public auctions; Nicaragua rebased its GDP figures in 2012, which reduced the figures for debt as a percentage of GDP<br>
 
 **Taxes and other revenues**<br>
-19.84% (of GDP) (2022 est.)<br>
+19.9% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -525,22 +519,22 @@ garments, refined petroleum, crude petroleum, plastic products, fabric (2023)<br
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$6.105 billion (2024 est.)<br>
 $5.447 billion (2023 est.)<br>
 $4.404 billion (2022 est.)<br>
-$4.047 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$7.251 billion (2023 est.)<br>
+$6.753 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: cordobas (NIO) per US dollar -<br>
+36.624 (2024 est.)<br>
 36.441 (2023 est.)<br>
 35.874 (2022 est.)<br>
 35.171 (2021 est.)<br>
 34.342 (2020 est.)<br>
-33.122 (2019 est.)<br>
 
 ## Energy
 
@@ -594,7 +588,7 @@ _domestic_: fixed-line teledensity is 3 per 100 persons; mobile-cellular telepho
 _international_: country code - 505; landing point for the ARCOS fiber-optic submarine cable which provides connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 1 Intersputnik (Atlantic Ocean region) and 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-multiple terrestrial TV stations, supplemented by cable TV in most urban areas; nearly all are government-owned or affiliated; more than 300 radio stations, both government-affiliated and privately owned (2019)<br>
+multiple terrestrial TV stations, supplemented by cable TV in most urban areas; nearly all are state-owned or affiliated; more than 300 radio stations, both state-affiliated and privately owned (2019)<br>
 
 **Internet country code**<br>
 .ni<br>
@@ -608,26 +602,11 @@ _subscriptions per 100 inhabitants_: 5 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 7<br>
-
 **Civil aircraft registration country code prefix**<br>
 YN<br>
 
 **Airports**<br>
 39 (2025)<br>
-
-**Pipelines**<br>
-54 km oil (2013)<br>
-
-**Roadways**<br>
-_total_: 24,033 km<br>
-_paved_: 3,447 km<br>
-_unpaved_: 20,586 km (2013)<br>
-
-**Waterways**<br>
-2,220 km (2011) (navigable waterways as well as the use of the large Lake Managua and Lake Nicaragua; rivers serve only the sparsely populated eastern part of the country)<br>
 
 **Merchant marine**<br>
 _total_: 5 (2023)<br>
@@ -645,8 +624,8 @@ _key ports_: Bluefields, Corinto, El Bluff, Puerto Cabezas, Puerto Sandino<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Nicaragua (formal name is Army of Nicaragua or Ejercito de Nicaragua, EN): Land Forces (Fuerza Terrestre); Naval Forces (Fuerza Naval); Air Forces (Fuerza Aérea) (2024)<br>
-<strong>note:</strong> both the military and the Nicaraguan National Police (Policía Nacional de Nicaragua or PNN) report directly to the president; Parapolice, which are non-uniformed, armed, and masked units with marginal tactical training and loose hierarchical organization, act in coordination with government security forces and report directly to the National Police; they have been used to suppress anti-government protesters<br>
+Armed Forces of Nicaragua (formal name is Army of Nicaragua or Ejercito de Nicaragua, EN): Land Force (Fuerza Terrestre); Naval Force (Fuerza Naval); Air Force (Fuerza Aérea) (2025)<br>
+<strong>note:</strong> both the military and the Nicaraguan National Police (Policía Nacional de Nicaragua or PNN) report directly to the president; Parapolice, which are non-uniformed, armed, and masked units with marginal tactical training and loose hierarchical organization, act in coordination with government security forces and report to the National Police; they have been used to suppress anti-government protesters<br>
 
 **Military expenditures**<br>
 0.6% of GDP (2023 est.)<br>
@@ -656,7 +635,7 @@ Armed Forces of Nicaragua (formal name is Army of Nicaragua or Ejercito de Nicar
 0.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 12,000 active personnel (10,000 Army; 800 Navy; 1,200 Air Force) (2023)<br>
+approximately 12,000 active personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's air and ground force inventories include mostly secondhand Russian or Soviet-era equipment; its naval force has a miscellaneous mix of patrol boats from several foreign suppliers, as well as some commercial vessels converted into gunboats domestically (2024)<br>

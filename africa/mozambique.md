@@ -106,10 +106,10 @@ _15-64 years_: 52.4% (male 8,428,457/female 9,061,065)<br>
 _65 years and over_: 2.9% (2024 est.) (male 473,030/female 490,143)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 86.1<br>
-_youth dependency ratio_: 81.3<br>
-_elderly dependency ratio_: 4.8<br>
-_potential support ratio_: 20.8 (2021 est.)<br>
+_total dependency ratio_: 90.7 (2024 est.)<br>
+_youth dependency ratio_: 85.2 (2024 est.)<br>
+_elderly dependency ratio_: 5.5 (2024 est.)<br>
+_potential support ratio_: 18.2 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 17.3 years (2024 est.)<br>
@@ -234,7 +234,7 @@ _female_: 9 years (2017)<br>
 ## Environment
 
 **Environment - current issues**<br>
-increased migration of the population to urban and coastal areas with adverse environmental consequences; desertification; soil erosion; deforestation; water pollution caused by artisanal mining; pollution of surface and coastal waters; wildlife preservation (elephant poaching for ivory)<br>
+increased population migration to urban and coastal areas; desertification; soil erosion; deforestation; water pollution from artisanal mining; pollution of surface and coastal waters; wildlife preservation (elephant poaching for ivory)<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
@@ -257,12 +257,6 @@ _rate of urbanization_: 4.24% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <p><em>due to shortfall in insecurity in northern areas and extreme weather events - </em>food insecurity estimates for 2023 are not yet available, but the landing of cyclone Freddy in February 2023 is expected to have caused disruptions to livelihoods and resulted in crop damage, aggravating food insecurity of the affected population</p> (2023)<br>
-
-**Revenue from forest resources**<br>
-6.46% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-4.17% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 16.45 micrograms per cubic meter (2019 est.)<br>
@@ -308,7 +302,7 @@ presidential republic<br>
 _name_: Maputo<br>
 _geographic coordinates_: 25 57 S, 32 35 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: reputedly named after the Maputo River, which drains into Maputo Bay south of the city<br>
+_etymology_: named after the Maputo River, which drains into Maputo Bay south of the city; the river is said to be named after the son of Muagobe, a local chief in the 18th century<br>
 
 **Administrative divisions**<br>
 10 provinces (provincias, singular - provincia), 1 city (cidade)*; Cabo Delgado, Gaza, Inhambane, Manica, Maputo, Cidade de Maputo*, Nampula, Niassa, Sofala, Tete, Zambezia<br>
@@ -320,7 +314,7 @@ _etymology_: reputedly named after the Maputo River, which drains into Maputo Ba
 Independence Day, 25 June (1975)<br>
 
 **Legal system**<br>
-mixed legal system of Portuguese civil law and customary law<br>
+mixed system of Portuguese civil law and customary law<br>
 
 **Constitution**<br>
 _history_: previous 1975, 1990; latest adopted 16 November 2004, effective 21 December 2004<br>
@@ -426,9 +420,9 @@ $20.954 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-7.13% (2023 est.)<br>
-10.28% (2022 est.)<br>
-6.41% (2021 est.)<br>
+7.1% (2023 est.)<br>
+10.3% (2022 est.)<br>
+6.4% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -464,19 +458,19 @@ aluminum, petroleum products, chemicals (fertilizer, soap, paints), textiles, ce
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-14.685 million (2023 est.)<br>
+15.173 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.54% (2023 est.)<br>
-3.62% (2022 est.)<br>
-3.98% (2021 est.)<br>
+3.5% (2024 est.)<br>
+3.5% (2023 est.)<br>
+3.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.6% (2023 est.)<br>
-_male_: 7.9% (2023 est.)<br>
-_female_: 7.3% (2023 est.)<br>
+_total_: 7.4% (2024 est.)<br>
+_male_: 7.5% (2024 est.)<br>
+_female_: 7.2% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -504,23 +498,23 @@ _expenditures_: $4.91 billion (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-76.64% of GDP (2022 est.)<br>
+76.6% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-22.66% (of GDP) (2022 est.)<br>
+22.7% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$2.426 billion (2023 est.)<br>
--$6.88 billion (2022 est.)<br>
--$3.436 billion (2021 est.)<br>
+-$2.498 billion (2024 est.)<br>
+-$2.207 billion (2023 est.)<br>
+-$6.367 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$9.289 billion (2023 est.)<br>
+$9.358 billion (2024 est.)<br>
+$9.405 billion (2023 est.)<br>
 $9.409 billion (2022 est.)<br>
-$6.526 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -532,9 +526,9 @@ coal, natural gas, aluminum, gold, precious stones (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$10.488 billion (2024 est.)<br>
 $11.18 billion (2023 est.)<br>
 $15.932 billion (2022 est.)<br>
-$10.534 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -546,21 +540,22 @@ refined petroleum, chromium ore, iron alloys, iron ore, palm oil (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$3.513 billion (2024 est.)<br>
 $3.637 billion (2023 est.)<br>
 $2.939 billion (2022 est.)<br>
-$3.781 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$8.92 billion (2023 est.)<br>
+$8.274 billion (2023 est.)<br>
+<strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: meticais (MZM) per US dollar -<br>
+63.905 (2024 est.)<br>
 63.886 (2023 est.)<br>
 63.851 (2022 est.)<br>
 65.465 (2021 est.)<br>
 69.465 (2020 est.)<br>
-62.548 (2019 est.)<br>
 
 ## Energy
 
@@ -623,7 +618,7 @@ _domestic_: fixed-line less than 1 per 100 and nearly 43 per 100 mobile-cellular
 _international_: country code - 258; landing points for the EASSy and SEACOM/ Tata TGN-Eurasia fiber-optic submarine cable systems linking numerous&nbsp;east African&nbsp;countries, the Middle East and Asia&nbsp;; satellite earth stations - 5 Intelsat (2 Atlantic Ocean and 3 Indian Ocean); TdM contracts for Itelsat for satellite broadband and bulk haul services (2020)<br>
 
 **Broadcast media**<br>
-1 state-run TV station supplemented by private TV station; Portuguese state TV's African service, RTP Africa, and Brazilian-owned TV Miramar are available; state-run radio provides nearly 100% territorial coverage and broadcasts in multiple languages; a number of privately owned and community-operated stations; transmissions of multiple international broadcasters are available (2019)<br>
+1 state-run TV station supplemented by a private TV station; Portuguese state TV's African service, RTP Africa, and Brazilian-owned TV Miramar are available; state-run radio provides nearly 100% territorial coverage and broadcasts in multiple languages; a number of privately owned and community-operated stations; transmissions of multiple international broadcasters are available (2019)<br>
 
 **Internet country code**<br>
 .mz<br>
@@ -637,32 +632,15 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 11<br>
-_annual passenger traffic on registered air carriers_: 540,124 (2018)<br>
-_annual freight traffic on registered air carriers_: 4.78 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 C9<br>
 
 **Airports**<br>
 92 (2025)<br>
 
-**Pipelines**<br>
-972 km gas, 278 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 4,787 km (2014)<br>
 _narrow gauge_: 4,787 km (2014) 1.067-m gauge<br>
-
-**Roadways**<br>
-_total_: 30,562 km<br>
-_paved_: 5,958 km<br>
-_unpaved_: 24,604 km (2018)<br>
-
-**Waterways**<br>
-460 km (2010) (Zambezi River navigable to Tete and along Cahora Bassa Lake)<br>
 
 **Merchant marine**<br>
 _total_: 36 (2023)<br>
@@ -680,8 +658,8 @@ _key ports_: Beira, Chinde, Inhambane, Maputo, Mocambique, Pebane, Porto Belo<br
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces for the Defense of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM): Mozambique Army (Ramo do Exercito), Mozambique Navy (Marinha de Guerra de Mocambique, MGM), Mozambique Air Force (Forca Aerea de Mocambique, FAM)<br><br>Ministry of Interior: Mozambique National Police (PRM), the National Criminal Investigation Service (SERNIC), Rapid Intervention Unit (UIR; police special forces), Border Security Force; other security forces include the Presidential Guard and the Force for the Protection of High-Level Individuals (2024)<br>
-<strong>note 1: </strong>the FADM and other security forces are referred to collectively as the Mozambican Defense and Security Forces (FDS)<br><strong><br>note 2:</strong> the PRM, SERNIC, and the UIR are responsible for law enforcement and internal security; the Border Security Force is responsible for protecting the country’s international borders and for carrying out police duties within 24 miles of borders<br><strong><br>note 3</strong>: the Presidential Guard provides security for the president, and the Force for the Protection of High-level Individuals provides security for senior-level officials at the national and provincial levels<br><br><strong>note 4:</strong> in 2023, the Mozambique Government legalized local militias that have been assisting security forces operating in Cabo Delgado against Islamic militants since 2020; this Local Force is comprised of ex-combatants and other civilians and receives training, uniforms, weapons, and logistical support from the FADM<br>
+Armed Forces for the Defense of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM): Army, Mozambique Navy, Mozambique Air Force <br><br>Ministry of Interior: Mozambique National Police (PRM; includes the Rapid Intervention Unit, UIR), the National Criminal Investigation Service (SERNIC), Border Security Force; other security forces include the Presidential Guard and the Force for the Protection of High-Level Individuals (2025)<br>
+<strong>note 1: </strong>the FADM and other security forces are referred to collectively as the Mozambican Defense and Security Forces (FDS)<br><strong><br>note 2:</strong> the PRM, SERNIC, and the UIR are responsible for law enforcement and internal security; the Border Security Force is responsible for protecting the country’s international borders and for carrying out police duties within 24 miles of borders<br><br><strong>note 3:</strong> in 2023, the Mozambique Government legalized local militias that have been assisting security forces operating in Cabo Delgado against Islamic militants since 2020; this Local Force is comprised of ex-combatants and other civilians and receives training, uniforms, weapons, and logistical support from the FADM<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2023 est.)<br>
@@ -691,7 +669,7 @@ Armed Forces for the Defense of Mozambique (Forcas Armadas de Defesa de Mocambiq
 1.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information limited and varied; estimated 12,000 active personnel (11,000 Army and about 1,000 Air Force and Navy) (2023)<br>
+estimated 12,000 active FADM personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FADM's inventory consists primarily of Russian and Soviet-era equipment, although in recent years it has received some more modern equipment from a variety of countries, mostly as aid/donations (2024)<br>

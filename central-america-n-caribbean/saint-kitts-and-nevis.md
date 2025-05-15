@@ -69,7 +69,7 @@ population clusters are found in the small towns located on the periphery of bot
 <p>hurricanes (July to October)</p><p><strong>volcanism:</strong> Mount Liamuiga (1,156 m) on Saint Kitts, and Nevis Peak (985 m) on Nevis, are both volcanoes that are part of the volcanic island arc of the Lesser Antilles, which extends from Saba in the north to Grenada in the south</p><br>
 
 **Geography - note**<br>
-smallest country in the Western Hemisphere both in terms of area and population; with coastlines in the shape of a baseball bat and ball, the two volcanic islands are separated by a 3-km-wide channel called The Narrows; on the southern tip of baseball-bat-shaped Saint Kitts lies the Great Salt Pond; Nevis Peak sits in the center of its almost circular namesake island and its ball shape complements that of its sister island<br>
+smallest country in the Western Hemisphere in terms of both area and population; the two volcanic islands are separated by a 3-km-wide (9-mi-wide) channel called The Narrows; on the southern tip of baseball-bat-shaped Saint Kitts lies the Great Salt Pond; Nevis Peak sits in the center of its ball-shaped namesake island<br>
 
 ## People and Society
 
@@ -97,10 +97,10 @@ _15-64 years_: 68.1% (male 18,944/female 18,575)<br>
 _65 years and over_: 12.7% (2024 est.) (male 3,341/female 3,682)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 41.7<br>
-_youth dependency ratio_: 28<br>
-_elderly dependency ratio_: 13.7<br>
-_potential support ratio_: 7.3 (2021)<br>
+_total dependency ratio_: 46.9 (2024 est.)<br>
+_youth dependency ratio_: 28.2 (2024 est.)<br>
+_elderly dependency ratio_: 18.7 (2024 est.)<br>
+_potential support ratio_: 5.3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 38.6 years (2024 est.)<br>
@@ -233,12 +233,6 @@ _other_: 34.6% (2022 est.)<br>
 _urban population_: 31.1% of total population (2023)<br>
 _rate of urbanization_: 1.06% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 8.05 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 0.24 megatons (2016 est.)<br>
@@ -271,7 +265,7 @@ federal parliamentary democracy under a constitutional monarchy; a Commonwealth 
 _name_: Basseterre<br>
 _geographic coordinates_: 17 18 N, 62 43 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the French name translates as "low land" in English; the reference is to the city's low-lying location within a valley, as well as to the fact that the city is on the leeward (downwind) part of the island, and is thus a safe anchorage<br>
+_etymology_: the French name translates as "low land" in English; the reference is probably to the city's location in a valley<br>
 
 **Administrative divisions**<br>
 14 parishes; Christ Church Nichola Town, Saint Anne Sandy Point, Saint George Basseterre, Saint George Gingerland, Saint James Windward, Saint John Capesterre, Saint John Figtree, Saint Mary Cayon, Saint Paul Capesterre, Saint Paul Charlestown, Saint Peter Basseterre, Saint Thomas Lowland, Saint Thomas Middle Island, Trinity Palmetto Point<br>
@@ -320,7 +314,7 @@ _percentage of women in chamber_: 31.3%<br>
 _expected date of next election_: October 2027<br>
 
 **Judicial branch**<br>
-_highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC is headquartered on St. Lucia and consists of the Court of Appeal -- headed by the chief justice and 4 judges -- and the High Court with 18 judges; the Court of Appeal travels to member states on a schedule to hear appeals from the High Court and subordinate courts; Saint Kitts and Nevis is a member of the Caribbean Court of Justice<br>
+_highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC is headquartered on St. Lucia and consists of the Court of Appeal -- headed by the chief justice and 4 judges -- and the High Court with 18 judges; the Court of Appeal travels to member states on a schedule to hear appeals from the High Court and subordinate courts; member of the Caribbean Court of Justice<br>
 _judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by the British monarch; other justices and judges appointed by the Judicial and Legal Services Commission, an independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
 _subordinate courts_: magistrates' courts<br>
 
@@ -357,7 +351,7 @@ _total World Heritage Sites_: 1 (cultural)<br>
 _selected World Heritage Site locales_: Brimstone Hill Fortress National Park<br>
 
 **National coat of arms**<br>
-<p>The coat of arms of Saint Kitts and Nevis features a Carib that represents the original inhabitants of the islands, and a fleur-de-lis and rose that represent the French and English who arrived in the 1620s. The shield also features the poinciana (the national flower) and a traditional boat. Three hands hold the torch, which represents the quest for freedom: the hand of an African, a European, and a person of mixed ethnicity. Pelicans (the national bird) support the shield, with a sugarcane plant and a coconut tree that symbolize the land.</p><br>
+<p>The coat of arms of Saint Kitts and Nevis features a Carib who represents the original inhabitants of the islands, and a fleur-de-lis and rose that represent the French and English who arrived in the 1620s. The shield also features the poinciana (the national flower) and a traditional boat. Three hands hold the torch, which represents the quest for freedom: the hand of an African, a European, and a person of mixed ethnicity. Pelicans (the national bird) support the shield, with a sugarcane plant and a coconut tree that symbolize the land.</p><br>
 
 ## Economy
 
@@ -387,8 +381,8 @@ $1.055 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-3.56% (2023 est.)<br>
-2.67% (2022 est.)<br>
+3.6% (2023 est.)<br>
+2.7% (2022 est.)<br>
 1.2% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
@@ -432,19 +426,19 @@ _expenditures_: $236.444 million (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-15.04% (of GDP) (2020 est.)<br>
+15% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$143.262 million (2023 est.)<br>
--$105.744 million (2022 est.)<br>
--$43.725 million (2021 est.)<br>
+-$122.386 million (2023 est.)<br>
+-$111.685 million (2022 est.)<br>
+-$28.782 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$577.568 million (2023 est.)<br>
-$546.373 million (2022 est.)<br>
-$389.355 million (2021 est.)<br>
+$579.568 million (2023 est.)<br>
+$542.983 million (2022 est.)<br>
+$401.223 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -456,9 +450,9 @@ ships, measuring instruments, beer, electrical transformers, electrical control 
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$674.134 million (2023 est.)<br>
-$606.301 million (2022 est.)<br>
-$407.417 million (2021 est.)<br>
+$669.168 million (2023 est.)<br>
+$606.856 million (2022 est.)<br>
+$407.402 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -470,18 +464,18 @@ refined petroleum, ships, cars, jewelry, poultry (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$294.748 million (2024 est.)<br>
 $286.075 million (2023 est.)<br>
 $293.98 million (2022 est.)<br>
-$337.533 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
+2.7 (2024 est.)<br>
 2.7 (2023 est.)<br>
 2.7 (2022 est.)<br>
 2.7 (2021 est.)<br>
 2.7 (2020 est.)<br>
-2.7 (2019 est.)<br>
 
 ## Energy
 
@@ -524,7 +518,7 @@ _domestic_: fixed-line teledensity is 33 per 100 persons; mobile-cellular telede
 _international_: country code - 1-869; landing points for&nbsp;the ECFS, Southern Caribbean Fiber and the SSCS&nbsp;submarine cables providing connectivity for numerous Caribbean Islands (2019)<br>
 
 **Broadcast media**<br>
-the government operates a national TV network that broadcasts on 2 channels; cable subscription services provide access to local and international channels; the government operates a national radio network; a mix of government-owned and privately owned broadcasters operate roughly 15 radio stations (2019)<br>
+national state-operated TV network that broadcasts on 2 channels; cable subscription available for local and international channels; national state-operated radio network; mix of state-owned and privately owned broadcasters with about 15 radio stations (2019)<br>
 
 **Internet country code**<br>
 .kn<br>
@@ -551,11 +545,6 @@ V4<br>
 _total_: 50 km (2008)<br>
 _narrow gauge_: 50 km (2008) 0.762-m gauge on Saint Kitts for tourists<br>
 
-**Roadways**<br>
-_total_: 383 km<br>
-_paved_: 163 km<br>
-_unpaved_: 220 km (2002)<br>
-
 **Merchant marine**<br>
 _total_: 341 (2023)<br>
 _by type_: bulk carrier 22, container ship 16, general cargo 85, oil tanker 59, other 159<br>
@@ -572,20 +561,19 @@ _key ports_: Basseterre, Charlestown<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Ministry of National Security: St. Kitts and Nevis Defense Force (SKNDF), St. Kitts and Nevis Coast Guard, the Royal St. Christopher and Nevis Police Force (2024)<br>
-<strong>note:</strong> the Nevis Police Force includes the paramilitary Special Services Unit<br>
+St. Kitts and Nevis Defense Force (SKNDF); Regular Force, Coast Guard Force (SKNDF Coast Guard), Reserve Force, Cadet Force<br><br>Ministry of National Security: the Royal St. Christopher and Nevis Police Force (2025)<br>
 
 **Military and security service personnel strengths**<br>
-less than 500 active personnel (2023)<br>
+a few hundred active personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SKNDF is lightly armed with equipment from Belgium, the UK, and the US (2024)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service for men and women (under 18 with written parental permission); no conscription (2023)<br>
+18 years of age for voluntary military service for men and women (under 18 with written parental permission); no conscription (2025)<br>
 
 **Military - note**<br>
-SKNDF's missions include defense of the country's territorial integrity and sovereignty, protecting natural resources, interdicting narcotics trafficking, and providing humanitarian relief as needed<br><br>St. Kitts joined the Caribbean Regional Security System (RSS) in 1984; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Guyana, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2024)<br>
+SKNDF's missions include protecting the country's territorial integrity, assisting the police in combating the illegal narcotic trade and other crimes, and providing humanitarian and disaster relief assistance; the force also has a regional role through the Caribbean Regional Security System (RSS); St. Kitts joined the RSS in 1984; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Guyana, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2025)<br>
 
 ## Transnational Issues
 

@@ -98,10 +98,10 @@ _15-64 years_: 67.7% (male 29,562/female 28,201)<br>
 _65 years and over_: 20.4% (2024 est.) (male 8,814/female 8,563)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 38.1<br>
-_youth dependency ratio_: 18.1<br>
-_elderly dependency ratio_: 20.1<br>
-_potential support ratio_: 5 (2021)<br>
+_total dependency ratio_: 47.8 (2024 est.)<br>
+_youth dependency ratio_: 17.7 (2024 est.)<br>
+_elderly dependency ratio_: 30.1 (2024 est.)<br>
+_potential support ratio_: 3.3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 48.8 years (2024 est.)<br>
@@ -214,7 +214,7 @@ _female_: 100% (2016)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation; overgrazing of mountain meadows contributes to soil erosion; air pollution; wastewater treatment and solid waste disposal<br>
+deforestation; soil erosion from overgrazing; air pollution; wastewater treatment and solid waste disposal<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Ozone Layer Protection, Wetlands<br>
@@ -234,9 +234,6 @@ _other_: 26.1% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 87.8% of total population (2023)<br>
 _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 8.52 micrograms per cubic meter (2019 est.)<br>
@@ -338,7 +335,7 @@ _email address and website_: <br>contact@andorraun.org<br><br>https://www.exteri
 _embassy_: the US does not have an embassy in Andorra; the US ambassador to Spain is accredited to Andorra; US interests in Andorra are represented by the US Consulate General's office in Barcelona (Spain); mailing address: Paseo Reina Elisenda de Montcada, 23, 08034 Barcelona, Espana; telephone: [34] (93) 280-22-27; FAX: [34] (93) 280-61-75; email address: Barcelonaacs@state.gov<br>
 
 **Flag description**<br>
-three vertical bands of blue (hoist side), yellow, and red, with the national coat of arms centered in the yellow band; the latter band is slightly wider than the other 2 so that the ratio of band widths is 8:9:8; the coat of arms features a quartered shield with the emblems of (starting in the upper left and proceeding clockwise): Urgell, Foix, Bearn, and Catalonia; the motto reads VIRTUS UNITA FORTIOR (Strength United is Stronger); the flag combines the blue and red French colors with the red and yellow of Spain to show Franco-Spanish protection<br>
+three vertical bands of blue (hoist side), yellow, and red, with the national coat of arms centered in the yellow band; the latter band is slightly wider than the other two, so that the ratio of band widths is 8:9:8; the coat of arms features a quartered shield with the emblems of (starting in the upper left and proceeding clockwise): Urgell, Foix, Bearn, and Catalonia; the motto reads VIRTUS UNITA FORTIOR (Strength United is Stronger); the flag combines the blue and red French colors with the red and yellow of Spain to show Franco-Spanish protection<br>
 <strong>note:</strong> similar to the flags of Chad and Romania, which do not have a national coat of arms in the center, and the flag of Moldova, which does bear a national emblem<br>
 
 **National symbol(s)**<br>
@@ -380,10 +377,6 @@ $59,300 (2021 est.)<br>
 $3.785 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
-**Inflation rate (consumer prices)**<br>
--0.9% (2015 est.)<br>
--0.1% (2014 est.)<br>
-
 **Credit ratings**<br>
 _Fitch rating_: A- (2022)<br>
 _Moody's rating_: Baa2 (2022)<br>
@@ -411,7 +404,6 @@ tourism (particularly skiing), banking, timber, furniture<br>
 
 **Unemployment rate**<br>
 3.7% (2016 est.)<br>
-4.1% (2015 est.)<br>
 
 **Remittances**<br>
 1.18% of GDP (2023 est.)<br>
@@ -430,15 +422,15 @@ _expenditures_: $2.06 billion (2016)<br>
 69% (of GDP) (2016)<br>
 
 **Current account balance**<br>
-$583.199 million (2022 est.)<br>
-$467.435 million (2021 est.)<br>
-$448.869 million (2020 est.)<br>
+$538.287 million (2023 est.)<br>
+$393.62 million (2022 est.)<br>
+$499.422 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$3.169 billion (2023 est.)<br>
 $2.736 billion (2022 est.)<br>
-$2.414 billion (2021 est.)<br>
-$1.842 billion (2020 est.)<br>
+$2.446 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -450,9 +442,9 @@ paintings, integrated circuits, cars, orthopedic appliances, garments (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$2.716 billion (2023 est.)<br>
 $2.44 billion (2022 est.)<br>
 $2.143 billion (2021 est.)<br>
-$1.727 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -465,11 +457,11 @@ cars, refined petroleum, garments, perfumes, electricity (2023)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.951 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 <strong>note: </strong>while not an EU member state, Andorra has a 2011 monetary agreement with the EU to produce limited euro coinage—but not banknotes—that began enforcement in April 2012<br>
 
 ## Energy
@@ -488,12 +480,12 @@ _total subscriptions_: 126,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 142 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Andorra has a modern telecommunications system with microwave radio relay connections between the exchanges and land line circuits to France and Spain (2023)<br>
+_general assessment_: Andorra has a modern telecommunications system with microwave-radio relay connections between the exchanges and landline circuits to France and Spain (2023)<br>
 _domestic_: about 63 per 100 fixed-line, 110 per 100 mobile-cellular (2021)<br>
 _international_: country code - 376; landline circuits to France and Spain; modern system with microwave radio relay connections between exchanges (2023)<br>
 
 **Broadcast media**<br>
-<p class="ssrcss-1q0x1qg-Paragraph e1jhz7w10">the Andorran media scene is partly shaped by the proximity to France and Spain, Andorrans have access to broadcasts from both countries, and for many years Andorra was home to Sud Radio, a powerful station broadcasting to southwest France</p> (2023)<br>
+<p class="ssrcss-1q0x1qg-Paragraph e1jhz7w10">the media scene is partly shaped by the proximity to France and Spain, Andorrans have access to broadcasts from both countries</p> (2023)<br>
 
 **Internet country code**<br>
 .ad<br>
@@ -512,9 +504,6 @@ C3<br>
 
 **Heliports**<br>
 2 (2025)<br>
-
-**Roadways**<br>
-_total_: 320 km (2019)<br>
 
 ## Military and Security
 

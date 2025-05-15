@@ -74,7 +74,7 @@ population clusters are found in the lower elevations of the south and west; the
 dry, sand-laden harmattan winds blow from the Sahara (December to February); sandstorms, dust storms<br>
 
 **Geography - note**<br>
-rainfall along the coast can reach 495 cm (195 inches) a year, making it one of the wettest places along coastal, western Africa<br>
+rainfall along the coast can reach 495 cm (195 in) a year, making it one of the wettest places along coastal western Africa<br>
 
 ## People and Society
 
@@ -102,10 +102,10 @@ _15-64 years_: 57.4% (male 2,557,715/female 2,675,418)<br>
 _65 years and over_: 2.5% (2024 est.) (male 114,405/female 117,601)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 74<br>
-_youth dependency ratio_: 68.5<br>
-_elderly dependency ratio_: 5.5<br>
-_potential support ratio_: 18.3 (2020 est.)<br>
+_total dependency ratio_: 74.3 (2024 est.)<br>
+_youth dependency ratio_: 69.9 (2024 est.)<br>
+_elderly dependency ratio_: 4.4 (2024 est.)<br>
+_potential support ratio_: 22.6 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 19.4 years (2024 est.)<br>
@@ -227,7 +227,7 @@ _female_: 41.3% (2022)<br>
 ## Environment
 
 **Environment - current issues**<br>
-rapid population growth pressuring the environment; overharvesting of timber, expansion of cattle grazing, and slash-and-burn agriculture have resulted in deforestation, soil exhaustion, and flooding; loss of biodiversity; air pollution; water pollution; overfishing<br>
+overharvesting of timber, expansion of cattle grazing, and slash-and-burn agriculture resulting in deforestation, soil exhaustion, and flooding; loss of biodiversity; air pollution; water pollution; overfishing<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -250,12 +250,6 @@ _rate of urbanization_: 3.02% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to high food prices and reduced incomes - </em>according to the latest analysis, about 1.18 million people are projected to be in need of humanitarian assistance between the June to August 2023 lean season; acute food insecurity is underpinned by elevated food prices, in part driven by a weak currency, and low purchasing power of vulnerable households (2023)<br>
-
-**Revenue from forest resources**<br>
-6.92% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 39.42 micrograms per cubic meter (2019 est.)<br>
@@ -283,7 +277,7 @@ _conventional long form_: Republic of Sierra Leone<br>
 _conventional short form_: Sierra Leone<br>
 _local long form_: Republic of Sierra Leone<br>
 _local short form_: Sierra Leone<br>
-_etymology_: the Portuguese explorer Pedro de SINTRA named the country "Serra Leoa" (Lion Mountains) for the impressive mountains he saw while sailing the West African coast in 1462<br>
+_etymology_: Portuguese explorer Pedro de SINTRA is usually credited with naming the country "Serra da Leao" (Lion Mountains) in 1462, but Venetian explorer Alvise CA' DA MOSTO recorded the name as "Serre-Lionne" in 1457, referring to the rumbling of thunder over the mountains<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -292,7 +286,7 @@ presidential republic<br>
 _name_: Freetown<br>
 _geographic coordinates_: 8 29 N, 13 14 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: name derived from the fact that the original settlement served as a haven for free-born and freed African Americans, as well as for liberated Africans rescued from slave ships<br>
+_etymology_: the name described the original settlement in 1781, which served as a haven for free-born and freed African Americans<br>
 
 **Administrative divisions**<br>
 4 provinces and 1 area*; Eastern, Northern, North Western, Southern, Western*<br>
@@ -304,7 +298,7 @@ _etymology_: name derived from the fact that the original settlement served as a
 Independence Day, 27 April (1961)<br>
 
 **Legal system**<br>
-mixed legal system of English common law and customary law<br>
+mixed system of English common law and customary law<br>
 
 **Constitution**<br>
 _history_: several previous; latest effective 1 October 1991<br>
@@ -406,9 +400,9 @@ $6.412 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-47.64% (2023 est.)<br>
-27.21% (2022 est.)<br>
-11.87% (2021 est.)<br>
+28.6% (2024 est.)<br>
+47.6% (2023 est.)<br>
+27.2% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -438,19 +432,19 @@ diamond mining; iron ore, rutile and bauxite mining; small-scale manufacturing (
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.803 million (2023 est.)<br>
+2.863 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.17% (2023 est.)<br>
-3.19% (2022 est.)<br>
-3.52% (2021 est.)<br>
+3.1% (2024 est.)<br>
+3.2% (2023 est.)<br>
+3.2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.6% (2023 est.)<br>
-_male_: 4.7% (2023 est.)<br>
-_female_: 2.5% (2023 est.)<br>
+_total_: 3.6% (2024 est.)<br>
+_male_: 4.8% (2024 est.)<br>
+_female_: 2.5% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -483,15 +477,15 @@ _expenditures_: $867 million (2019 est.)<br>
 15.6% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
--$320.42 million (2023 est.)<br>
--$156.702 million (2022 est.)<br>
--$395.465 million (2021 est.)<br>
+-$606.358 million (2023 est.)<br>
+-$452.094 million (2022 est.)<br>
+-$522.815 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$1.304 billion (2023 est.)<br>
-$1.195 billion (2022 est.)<br>
-$1.114 billion (2021 est.)<br>
+$1.382 billion (2023 est.)<br>
+$1.202 billion (2022 est.)<br>
+$928.689 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -503,9 +497,9 @@ iron ore, titanium ore, diamonds, aluminum ore, cocoa beans (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$2.044 billion (2023 est.)<br>
-$2.013 billion (2022 est.)<br>
-$1.906 billion (2021 est.)<br>
+$2.264 billion (2023 est.)<br>
+$2.074 billion (2022 est.)<br>
+$1.91 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -523,7 +517,7 @@ $945.908 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$1.586 billion (2023 est.)<br>
+$1.451 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -578,7 +572,7 @@ _domestic_: fixed-line less than 0 per 100 and mobile-cellular just over 98 per 
 _international_: country code - 232; landing point for the ACE submarine cable linking to South Africa, over 20 western African countries and Europe; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-<p>1 government-owned TV station; 3 private TV stations; a pay-TV service began operations in late 2007; 1 government-owned national radio station; about two-dozen private radio stations primarily clustered in major cities; transmissions of several international broadcasters are available </p> (2019)<br>
+<p>1 state-owned TV station; 3 private TV stations; 1 pay-TV service; 1 state-owned national radio station; about 24 private radio stations; transmissions of several international broadcasters available </p> (2019)<br>
 
 **Internet country code**<br>
 .sl<br>
@@ -592,10 +586,6 @@ _subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_annual passenger traffic on registered air carriers_: 50,193 (2015)<br>
-_annual freight traffic on registered air carriers_: 0 (2015) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 9L<br>
 
@@ -604,16 +594,6 @@ _annual freight traffic on registered air carriers_: 0 (2015) mt-km<br>
 
 **Heliports**<br>
 3 (2025)<br>
-
-**Roadways**<br>
-_total_: 11,701 km<br>
-_paved_: 1,051 km<br>
-_unpaved_: 10,650 km (2015)<br>
-_urban_: 3,000 km (2015)<br>
-_non-urban_: 8,700 km (2015)<br>
-
-**Waterways**<br>
-800 km (2011) (600 km navigable year-round)<br>
 
 **Merchant marine**<br>
 _total_: 584 (2023)<br>
@@ -631,7 +611,7 @@ _key ports_: Bonthe, Freetown, Pepel<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Republic of Sierra Leone Armed Forces (RSLAF): Land Forces, Maritime Forces, Air Wing<br><br>Ministry of Internal Affairs: Sierra Leone Police (2024)<br>
+Republic of Sierra Leone Armed Forces (RSLAF): organized as a Joint Force Command with land, air, and maritime components<br><br>Ministry of Internal Affairs: Sierra Leone Police (2025)<br>
 
 **Military expenditures**<br>
 0.6% of GDP (2023 est.)<br>
@@ -641,7 +621,7 @@ Republic of Sierra Leone Armed Forces (RSLAF): Land Forces, Maritime Forces, Air
 0.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 8,500 personnel, mostly ground forces&nbsp; (2023)<br>
+the Armed Forces have an estimated 10,000 active personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the RSLAF has a small inventory that includes a mix of Soviet-origin and other older foreign-supplied equipment; in recent years, it has received limited amounts of newer equipment, mostly as donations (2024)<br>

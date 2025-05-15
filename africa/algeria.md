@@ -76,7 +76,7 @@ the vast majority of the populace is found in the extreme northern part of the c
 mountainous areas subject to severe earthquakes; mudslides and floods in rainy season; droughts<br>
 
 **Geography - note**<br>
-largest country in Africa but 80% desert; canyons and caves in the southern Hoggar Mountains and in the barren Tassili n'Ajjer area in the southeast of the country contain numerous examples of prehistoric art -- rock paintings and carvings depicting human activities and wild and domestic animals (elephants, giraffes, cattle) -- that date to the African Humid Period, roughly 11,000 to 5,000 years ago, when the region was completely vegetated<br>
+largest country in Africa but 80% desert; canyons and caves in the southern Hoggar Mountains and in the barren Tassili n'Ajjer area in the southeast of the country contain numerous examples of prehistoric art -- rock paintings and carvings depicting human activities and wild and domestic animals (elephants, giraffes, cattle) -- that date to the African Humid Period, roughly 5,000 to 11,000 years ago, when the region was completely vegetated<br>
 
 ## People and Society
 
@@ -106,10 +106,10 @@ _15-64 years_: 62.3% (male 14,846,102/female 14,441,034)<br>
 _65 years and over_: 6.9% (2024 est.) (male 1,597,382/female 1,663,824)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 58.5<br>
-_youth dependency ratio_: 48.7<br>
-_elderly dependency ratio_: 9.8<br>
-_potential support ratio_: 10.2 (2021 est.)<br>
+_total dependency ratio_: 60.6 (2024 est.)<br>
+_youth dependency ratio_: 49.4 (2024 est.)<br>
+_elderly dependency ratio_: 11.1 (2024 est.)<br>
+_potential support ratio_: 9 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 29.1 years (2024 est.)<br>
@@ -228,7 +228,7 @@ _female_: 75.3% (2018)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution in major cities; soil erosion from overgrazing and other poor farming practices; desertification; dumping of raw sewage, petroleum refining wastes, and other industrial effluents is leading to the pollution of rivers and coastal waters; Mediterranean Sea, in particular, becoming polluted from oil wastes, soil erosion, and fertilizer runoff; inadequate supplies of potable water<br>
+air pollution in major cities; soil erosion from overgrazing and other poor farming practices; desertification; river and coastal pollution from dumping of raw sewage, petroleum refining wastes, and other industrial effluents; pollution in Mediterranean Sea from oil wastes, soil erosion, and fertilizer runoff; inadequate potable water<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -248,12 +248,6 @@ _other_: 81.8% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 75.3% of total population (2023)<br>
 _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.1% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 22.68 micrograms per cubic meter (2019 est.)<br>
@@ -295,7 +289,7 @@ presidential republic<br>
 _name_: Algiers<br>
 _geographic coordinates_: 36 45 N, 3 03 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: name derives from the Arabic "al-Jazair" meaning "the islands" and refers to the four islands formerly off the coast of the capital but joined to the mainland since 1525<br>
+_etymology_: name derives from the Arabic <em>al-jazair</em>, meaning "the islands," and refers to the four islands formerly off the coast of the capital but joined to the mainland since 1525<br>
 
 **Administrative divisions**<br>
 58 provinces (wilayas, singular - wilaya); Adrar, Ain Defla, Ain Temouchent, Alger (Algiers), Annaba, Batna, Bechar, Bejaia, Beni Abbes, Biskra, Blida, Bordj Badji Mokhtar, Bordj Bou Arreridj, Bouira, Boumerdes, Chlef, Constantine, Djanet, Djelfa, El Bayadh, El Meghaier, El Meniaa, El Oued, El Tarf, Ghardaia, Guelma, Illizi, In Guezzam, In Salah, Jijel, Khenchela, Laghouat, Mascara, Medea, Mila, Mostaganem, M'Sila, Naama, Oran, Ouargla, Ouled Djellal, Oum el Bouaghi, Relizane, Saida, Setif, Sidi Bel Abbes, Skikda, Souk Ahras, Tamanrasset, Tebessa, Tiaret, Timimoun, Tindouf, Tipaza, Tissemsilt, Tizi Ouzou, Tlemcen, Touggourt<br>
@@ -307,7 +301,7 @@ _etymology_: name derives from the Arabic "al-Jazair" meaning "the islands" and 
 Independence Day, 5 July (1962); Revolution Day, 1 November (1954)<br>
 
 **Legal system**<br>
-mixed legal system of French civil law and Islamic law; judicial review of legislative acts in ad hoc Constitutional Council composed of various public officials including several Supreme Court justices<br>
+mixed system of French civil law and Islamic law; judicial review of legislative acts in ad hoc Constitutional Council composed of various public officials including several Supreme Court justices<br>
 
 **Constitution**<br>
 _history_: several previous; latest approved by referendum 1 November 2020<br>
@@ -365,7 +359,7 @@ _subordinate courts_: appellate or wilaya courts; first instance or daira tribun
 
 **Political parties**<br>
 Algerian National Front or FNA<br>Algerian Popular Movement or MPA<br>Algeria's Hope Rally or TAJ<br>Dignity or El Karama<br>El-Infitah<br>El Mostakbal (Future Front)<br>Ennour El Djazairi Party (Algerian Radiance Party) or PED<br>Equity and Proclamation Party or PEP<br>Islamic Renaissance Movement or Ennahda Movement<br>Justice and Development Front or FJD<br>Movement for National Reform or El Islah<br>Movement of Society for Peace or MSP<br>National Construction Movement or El-Bina (Harakat El-Binaa El-Watani)<br>National Democratic Rally (Rassemblement National Democratique) or RND<br>National Front for Social Justice or FNJS<br>National Liberation Front or FLN<br>National Militancy Front or FMN<br>National Party for Solidarity and Development or PNSD<br>National Republican Alliance or ANR<br>New Dawn Party (El-Fajr El-Jadid)<br>New Generation (Jil Jadid)<br>Oath of 1954 or Ahd 54<br>Party of Justice and Liberty or PLJ<br>Rally for Culture and Democracy or RCD<br>Socialist Forces Front or FFS<br>Union for Change and Progress or UCP<br>Union of Democratic and Social Forces or UFDS<br>Vanguard of Liberties (Talaie El Hurriyet)<br>Workers Party or PT<br>Youth Party or PJ<br>
-<strong>note:</strong> a law banning political parties based on religion was enacted in March 1997<br>
+<strong>note:</strong> a law banning political parties based on religion was enacted in 1997<br>
 
 **International organization participation**<br>
 ABEDA, AfDB, AFESD, AMF, AMU, AU, BIS, CAEU, CD, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MONUSCO, NAM, OAPEC, OAS (observer), OIC, OPCW, OPEC, OSCE (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
@@ -429,13 +423,10 @@ $247.626 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-9.32% (2023 est.)<br>
-9.27% (2022 est.)<br>
-7.23% (2021 est.)<br>
+4% (2024 est.)<br>
+9.3% (2023 est.)<br>
+9.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 13.1% (2023 est.)<br>
@@ -464,19 +455,19 @@ petroleum, natural gas, light industries, mining, electrical, petrochemical, foo
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-13.552 million (2023 est.)<br>
+13.294 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-11.81% (2023 est.)<br>
-12.44% (2022 est.)<br>
-13.61% (2021 est.)<br>
+11.4% (2024 est.)<br>
+11.7% (2023 est.)<br>
+12.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 30.8% (2023 est.)<br>
-_male_: 27.4% (2023 est.)<br>
-_female_: 46% (2023 est.)<br>
+_total_: 29.8% (2024 est.)<br>
+_male_: 26.8% (2024 est.)<br>
+_female_: 45.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
@@ -501,15 +492,15 @@ _expenditures_: $64.728 billion (2019 est.)<br>
 32.3% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
-$5.424 billion (2023 est.)<br>
-$19.448 billion (2022 est.)<br>
--$4.51 billion (2021 est.)<br>
+$6.359 billion (2023 est.)<br>
+$19.433 billion (2022 est.)<br>
+-$4.513 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$58.816 billion (2023 est.)<br>
-$69.242 billion (2022 est.)<br>
-$41.851 billion (2021 est.)<br>
+$59.426 billion (2023 est.)<br>
+$69.226 billion (2022 est.)<br>
+$41.846 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -521,9 +512,9 @@ natural gas, crude petroleum, refined petroleum, fertilizers, iron bars (2023)<b
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$51.516 billion (2023 est.)<br>
-$46.63 billion (2022 est.)<br>
-$44.297 billion (2021 est.)<br>
+$51.131 billion (2023 est.)<br>
+$46.613 billion (2022 est.)<br>
+$44.287 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -535,22 +526,22 @@ wheat, plastics, cars, milk, corn (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$68.448 billion (2024 est.)<br>
 $81.217 billion (2023 est.)<br>
 $71.852 billion (2022 est.)<br>
-$56.211 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$4.839 billion (2023 est.)<br>
+$4.764 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Algerian dinars (DZD) per US dollar -<br>
+134.053 (2024 est.)<br>
 135.843 (2023 est.)<br>
 141.995 (2022 est.)<br>
 135.064 (2021 est.)<br>
 126.777 (2020 est.)<br>
-119.354 (2019 est.)<br>
 
 ## Energy
 
@@ -607,12 +598,12 @@ _total subscriptions_: 51.5 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 109 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Algeria has a steadily developing telecom infrastructure with growth encouraged by supportive regulatory measures and by government policies aimed at delivering serviceable internet connections across the country; mobile broadband is largely based on 3G and LTE, and the data rates are also low in global terms; LTE is available in all provinces, investment is required from the mobile network operators (MNOs) to improve the quality of service; the state has previously been hesitant to commit to 5G, instead encouraging the MNOs to undertake upgrades to LTE infrastructure before investing in commercial 5G services; in March 2022, the state is in the process of freeing up the requisite spectrum to enable the MNOs to launch 5G services sometime this year; fixed internet speeds remain slow (2022)<br>
+_general assessment_: Algeria has a steadily developing telecom infrastructure with government policies aimed at delivering serviceable internet connections across the country; mobile broadband is largely based on 3G and LTE, and the data rates are also low in global terms; LTE is available in all provinces; investment is required from the mobile network operators (MNOs) to improve the quality of service; the state has previously been hesitant to commit to 5G, instead encouraging the MNOs to upgrade LTE infrastructure before investing in 5G; in 2022, the state was in the process of freeing up the spectrum to enable the MNOs to launch 5G services; fixed internet speeds remain slow (2022)<br>
 _domestic_: a limited network of fixed-lines with a teledensity of slightly less than 12 telephones per 100 persons has been offset by the rapid increase in mobile-cellular subscribership; mobile-cellular teledensity was approximately 106 telephones per 100 persons in 2020 (2021)<br>
 _international_: country code - 213;&nbsp;ALPAL-2 is a submarine telecommunications cable system in the Mediterranean Sea linking Algeria and the Spanish Balearic island of Majorca;&nbsp;ORVAL is a submarine cable to Spain; landing points for the TE North/TGN-Eurasia/SEACOM/SeaMeWe-4 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; MED cable connecting Algeria with France;&nbsp;microwave radio relay to Italy, France, Spain, Morocco, and Tunisia;&nbsp;Algeria part of the 4,500 Km terrestrial Trans Sahara Backbone network which connects to other fiber networks in the region; Alcomstat-1 satellite offering&nbsp; telemedicine network (2020)<br>
 
 **Broadcast media**<br>
-Radio Algerienne is the state-run radio broadcast, whereas the National Company of Television (Entreprise Nationale de T&eacute;l&eacute;vision (ENTV)) is the primary state-run public broadcasting TV station (2024)<br>
+Radio Alg&eacute;rienne is the state-run radio broadcast; the National Company of Television (Entreprise Nationale de T&eacute;l&eacute;vision (ENTV)) is the primary state-run public TV station (2024)<br>
 
 **Internet country code**<br>
 .dz<br>
@@ -626,12 +617,6 @@ _subscriptions per 100 inhabitants_: 12 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 3 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 87<br>
-_annual passenger traffic on registered air carriers_: 6,442,442 (2018)<br>
-_annual freight traffic on registered air carriers_: 28.28 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 7T<br>
 
@@ -641,14 +626,8 @@ _annual freight traffic on registered air carriers_: 28.28 million (2018) mt-km<
 **Heliports**<br>
 11 (2025)<br>
 
-**Pipelines**<br>
-2,600 km condensate, 16,415 km gas, 3,447 km liquid petroleum gas, 7,036 km oil, 144 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 4,020 km (2019)<br>
-
-**Roadways**<br>
-_total_: 112,696 km (2020)<br>
 
 **Merchant marine**<br>
 _total_: 119 (2022)<br>
@@ -666,8 +645,8 @@ _key ports_: Alger, Annaba, Arzew, Arzew El Djedid, Bejaia, Mers El Kebir, Oran,
 ## Military and Security
 
 **Military and security forces**<br>
-Algerian People's National Army (ANP): Land Forces, Naval Forces (includes Coast Guard), Air Forces, Territorial Air Defense Forces, Republican Guard (under ANP but responsible to the President), National Gendarmerie<br><br>Ministry of Interior: General Directorate of National Security (national police) (2025)<br>
-<strong>note: </strong>the National Gendarmerie performs police functions outside urban areas under the auspices of the Ministry of National Defense; it is comprised of territorial, intervention/mobile, border guard, railway, riot control, and air support units; General Directorate of National Security share responsibility for maintaining law and order<br>
+Algerian People's National Army (ANP): Land Forces, Naval Forces (includes Coast Guard), Air Forces, Territorial Air Defense Forces, Republican Guard, National Gendarmerie<br><br>Ministry of Interior: General Directorate of National Security (national police) (2025)<br>
+<strong>note: </strong>the Republican Guard is subordinate to the ANP, but responsible to the President; the National Gendarmerie performs police functions outside urban areas under the auspices of the Ministry of National Defense and shares responsibility with the General Directorate of National Security for maintaining law and order; it is comprised of territorial, intervention/mobile, border guard, railway, riot control, and air support units<br>
 
 **Military expenditures**<br>
 9% of GDP (2023 est.)<br>
@@ -677,7 +656,7 @@ Algerian People's National Army (ANP): Land Forces, Naval Forces (includes Coast
 6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 225,000 armed forces personnel (100,000 Army; 15,000 Air Force/Air Defense; 10,000 Navy; 1,000 Republican Guard; 100,000 Gendarmerie) (2024)<br>
+information varies; estimated 200,000 active armed forces personnel, including the National Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Algerian military has traditionally been armed mostly with Russian and Soviet-era weapons systems and equipment; over the past decade, it has made large investments in acquiring more modern armored vehicles, air defense systems, fighter aircraft, missiles, unmanned aerial vehicles, and warships, largely from Russia, its traditional supplier, but also China and Western European suppliers such as Germany (2024)<br>

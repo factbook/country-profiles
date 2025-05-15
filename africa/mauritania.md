@@ -80,7 +80,7 @@ with most of the country being a desert, vast areas of the country, particularly
 hot, dry, dust/sand-laden sirocco wind primarily in March and April; periodic droughts<br>
 
 **Geography - note**<br>
-Mauritania is considered both a part of North Africa's Maghreb region and West Africa's Sahel region; most of the population is concentrated in the cities of Nouakchott and Nouadhibou and along the Senegal River in the southern part of the country<br>
+Mauritania is considered part of both North Africa's Maghreb region and West Africa's Sahel region; most of the population is concentrated in the cities of Nouakchott and Nouadhibou and along the Senegal River in the southern part of the country<br>
 
 ## People and Society
 
@@ -110,10 +110,10 @@ _15-64 years_: 59.9% (male 1,227,347/female 1,363,938)<br>
 _65 years and over_: 4.4% (2024 est.) (male 80,308/female 110,280)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 82.7<br>
-_youth dependency ratio_: 76.8<br>
-_elderly dependency ratio_: 6<br>
-_potential support ratio_: 16.8 (2021 est.)<br>
+_total dependency ratio_: 85.4 (2024 est.)<br>
+_youth dependency ratio_: 78.5 (2024 est.)<br>
+_elderly dependency ratio_: 6.9 (2024 est.)<br>
+_potential support ratio_: 14.5 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 22.1 years (2024 est.)<br>
@@ -240,7 +240,7 @@ _female_: 9 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-overgrazing, deforestation, and soil erosion aggravated by drought are contributing to desertification; limited natural freshwater resources away from the Senegal, which is the only perennial river; locust infestation<br>
+desertification caused in part by overgrazing, deforestation, and drought-aggravated soil erosion; limited natural freshwater resources; locust infestation<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
@@ -263,12 +263,6 @@ _rate of urbanization_: 3.84% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to high food prices - </em>according to the latest analysis, over 472,000 people are projected to be in need of humanitarian assistance during the June to August 2023 lean season; this would be an improvement compared to the previous year, mostly due to a substantial increase in cereal production in 2022; high food prices, in particular of imported wheat, continue to worsen acute food security (2023)<br>
-
-**Revenue from forest resources**<br>
-1.3% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 41.98 micrograms per cubic meter (2019 est.)<br>
@@ -313,7 +307,7 @@ presidential republic<br>
 _name_: Nouakchott<br>
 _geographic coordinates_: 18 04 N, 15 58 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: may derive from the Berber "nawakshut" meaning "place of the winds"<br>
+_etymology_: the meaning of the name is unclear; it may derive from the Berber <em>nawakshut</em>, meaning "place of the winds;" other variants could translate as "the place where water appears in a new well," "the land where shells abound," "a place with pasture," "a windy place," or "without ears" (the last referring to a local chieftain who could have been the place's namesake)<br>
 
 **Administrative divisions**<br>
 15 regions (wilayas, singular - wilaya); Adrar, Assaba, Brakna, Dakhlet Nouadhibou, Gorgol, Guidimaka, Hodh ech Chargui, Hodh El Gharbi, Inchiri, Nouakchott Nord, Nouakchott Ouest, Nouakchott Sud, Tagant, Tiris Zemmour, Trarza<br>
@@ -325,7 +319,7 @@ _etymology_: may derive from the Berber "nawakshut" meaning "place of the winds"
 Independence Day, 28 November (1960)<br>
 
 **Legal system**<br>
-mixed legal system of Islamic and French civil law<br>
+mixed system of Islamic and French civil law<br>
 
 **Constitution**<br>
 _history_: previous 1964; latest adopted 12 July 1991<br>
@@ -432,9 +426,9 @@ $10.652 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.95% (2023 est.)<br>
-9.53% (2022 est.)<br>
-3.57% (2021 est.)<br>
+5% (2023 est.)<br>
+9.5% (2022 est.)<br>
+3.6% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -465,19 +459,19 @@ fish processing, oil production, mining (iron ore, gold, copper)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.178 million (2023 est.)<br>
+1.21 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-10.51% (2023 est.)<br>
-10.6% (2022 est.)<br>
-11.07% (2021 est.)<br>
+10.4% (2024 est.)<br>
+10.4% (2023 est.)<br>
+10.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.7% (2023 est.)<br>
-_male_: 20.3% (2023 est.)<br>
-_female_: 30.9% (2023 est.)<br>
+_total_: 23.2% (2024 est.)<br>
+_male_: 19.9% (2024 est.)<br>
+_female_: 30.1% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -550,7 +544,7 @@ $1.029 billion (2019 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$3.385 billion (2023 est.)<br>
+$3.072 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -612,7 +606,7 @@ _domestic_: fixed-line teledensity 1 per 100 persons; mobile-cellular teledensit
 _international_: country code - 222; landing point for the ACE submarine cable for connectivity&nbsp;to 19 West African countries and 2 European countries; satellite earth stations - 3 (1 Intelsat - Atlantic Ocean, 2 Arabsat) (2019)<br>
 
 **Broadcast media**<br>
-12 TV stations: 6 government-owned and 6 private (the 6th was started in early 2022, owed by the President of Mauritanian Businessmen); in October 2017, the government suspended most private TV stations due to non-payment of broadcasting fees, but they later negotiated payment options with the government and are back since 2019. There are 19 radio broadcasters: 15 government-owned, 4 (Radio Nouakchott Libre, Radio Tenwir, Radio Kobeni and Mauritanid) private; all 4 private radio stations broadcast from Nouakchott; of the 15 government stations, 4 broadcast from Nouakchott (Radio Mauritanie, Radio Jeunesse, Radio Koran and Mauritanid) and the other 12 broadcast from each of the 12 regions outside Nouakchott; Radio Jeunesse and Radio Koran are now also being re-broadcast in all the regions. (2022)<br>
+12 TV stations, 6 state-owned and 6 private; 19 radio broadcasters, including 15 state-owned and 4 (Radio Nouakchott Libre, Radio Tenwir, Radio Kobeni and Mauritanid) private; of the 15 government stations, 4 broadcast from Nouakchott (Radio Mauritanie, Radio Jeunesse, Radio Koran and Mauritanid) and the other 12 broadcast from each of the 12 regions outside Nouakchott (2022)<br>
 
 **Internet country code**<br>
 .mr<br>
@@ -626,11 +620,6 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 6<br>
-_annual passenger traffic on registered air carriers_: 454,435 (2018)<br>
-
 **Civil aircraft registration country code prefix**<br>
 5T<br>
 
@@ -643,14 +632,6 @@ _annual passenger traffic on registered air carriers_: 454,435 (2018)<br>
 **Railways**<br>
 _total_: 728 km (2014)<br>
 _standard gauge_: 728 km (2014) 1.435-m gauge<br>
-
-**Roadways**<br>
-_total_: 12,253 km<br>
-_paved_: 3,988 km<br>
-_unpaved_: 8,265 km<br>
-
-**Waterways**<br>
-1,086 km (2022) (some navigation possible on the Senegal River)<br>
 
 **Merchant marine**<br>
 _total_: 11 (2023)<br>
@@ -668,8 +649,8 @@ _key ports_: Nouadhibou, Nouakchott<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Mauritanian Armed Forces (aka Armée Nationale Mauritanienne): National Army, National Navy (Marine Nationale), Mauritania Islamic Air Force; Gendarmerie (Ministry of Defense)<br><br>Ministry of Interior and Decentralization: National Police, National Guard (2024)<br>
-<strong>note 1:</strong> the National Police are responsible for enforcing the law and maintaining order in urban areas, while the paramilitary Gendarmerie is responsible for maintaining civil order around metropolitan areas and providing law enforcement services in rural areas; like the Mauritanian Armed Forces, the Gendarmerie is under the Ministry of Defense, but also supports the ministries of Interior and Justice<br><br><strong>note 2:</strong> the National Guard performs a limited police function in keeping with its peacetime role of providing security at government facilities, to include prisons; regional authorities may call upon the National Guard to restore civil order during riots and other large-scale disturbances; the National Guard includes the nomadic Camel Corps, also known as the Méhariste<br>
+Mauritanian Armed Forces (aka Armée Nationale Mauritanienne): National Army, National Navy, Air Force; Gendarmerie <br><br>Ministry of Interior and Decentralization: National Police, National Guard (2025)<br>
+<strong>note 1:</strong> the National Police are responsible for enforcing the law and maintaining order in urban areas, while the paramilitary Gendarmerie is responsible for maintaining civil order around metropolitan areas and providing law enforcement services in rural areas; like the Mauritanian Armed Forces, the Gendarmerie is under the Ministry of Defense, but also supports the ministries of Interior and Justice<br><br><strong>note 2:</strong> the National Guard performs a limited police function in keeping with its peacetime role of providing security at government facilities, to include prisons; regional authorities may call upon the National Guard to restore civil order during riots and other large-scale disturbances; the National Guard includes the nomadic Camel Corps or Nomad Group, also known as the Méhariste<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2023 est.)<br>
@@ -679,7 +660,7 @@ Mauritanian Armed Forces (aka Armée Nationale Mauritanienne): National Army, Na
 2.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 16,000 Mauritanian Armed Forces personnel (15,000 Army; 700 Navy; 300 Air Force); estimated 3,000 Gendarmerie; estimated 2,000 National Guard (2023)<br>
+estimated 17,000 Mauritanian Armed Forces personnel; estimated 3,000 Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is limited and made up largely of older French and Soviet-era equipment; in recent years, Mauritania has received some secondhand and new military equipment, including unmanned aircraft (drones), from several suppliers, including China and the UAE (2024)<br>

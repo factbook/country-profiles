@@ -73,7 +73,7 @@ the overwhelming majority of the population is located in the northern half of t
 flooding; earthquakes; droughts<br>
 
 **Geography - note**<br>
-strategic location in central Mediterranean; Malta and Tunisia are discussing the commercial exploitation of the continental shelf between their countries, particularly for oil exploration<br>
+strategic location in central Mediterranean<br>
 
 ## People and Society
 
@@ -103,10 +103,10 @@ _15-64 years_: 65.2% (male 3,861,731/female 3,990,802)<br>
 _65 years and over_: 10.4% (2024 est.) (male 593,640/female 659,281)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 50.9<br>
-_youth dependency ratio_: 36.3<br>
-_elderly dependency ratio_: 13.3<br>
-_potential support ratio_: 7.5 (2021 est.)<br>
+_total dependency ratio_: 53.4 (2024 est.)<br>
+_youth dependency ratio_: 37.5 (2024 est.)<br>
+_elderly dependency ratio_: 16 (2024 est.)<br>
+_potential support ratio_: 6.3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 34.4 years (2024 est.)<br>
@@ -230,7 +230,7 @@ _female_: 16 years (2016)<br>
 ## Environment
 
 **Environment - current issues**<br>
-toxic and hazardous waste disposal is ineffective and poses health risks; water pollution from raw sewage; limited natural freshwater resources; deforestation; overgrazing; soil erosion; desertification<br>
+toxic and hazardous waste disposal; water pollution from raw sewage; limited freshwater resources; deforestation; overgrazing; soil erosion; desertification<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -250,12 +250,6 @@ _other_: 33% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 70.5% of total population (2023)<br>
 _rate of urbanization_: 1.34% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.21% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 26.52 micrograms per cubic meter (2019 est.)<br>
@@ -294,7 +288,7 @@ parliamentary republic<br>
 _name_: Tunis<br>
 _geographic coordinates_: 36 48 N, 10 11 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: three possibilities exist for the derivation of the name; originally a Berber settlement (earliest reference 4th century B.C.), the strategic site fell to the Carthaginians (Phoenicians) and the city could be named after the Punic goddess Tanit, since many ancient cities were named after patron deities; alternatively, the Berber root word "ens," which means "to lie down" or "to pass the night," may indicate that the site was originally a camp or rest stop; finally, the name may be the same as the city of Tynes, mentioned in the writings of some ancient authors<br>
+_etymology_: the origin of the ancient name is unclear; it is sometimes associated with the name of the Phoenician goddess Tanith<br>
 
 **Administrative divisions**<br>
 24 governorates (wilayat, singular - wilayah); Beja (Bajah), Ben Arous (Bin 'Arus), Bizerte (Banzart), Gabes (Qabis), Gafsa (Qafsah), Jendouba (Jundubah), Kairouan (Al Qayrawan), Kasserine (Al Qasrayn), Kebili (Qibili), Kef (Al Kaf), L'Ariana (Aryanah), Mahdia (Al Mahdiyah), Manouba (Manubah), Medenine (Madanin), Monastir (Al Munastir), Nabeul (Nabul), Sfax (Safaqis), Sidi Bouzid (Sidi Bu Zayd), Siliana (Silyanah), Sousse (Susah), Tataouine (Tatawin), Tozeur (Tawzar), Tunis, Zaghouan (Zaghwan)<br>
@@ -306,7 +300,7 @@ _etymology_: three possibilities exist for the derivation of the name; originall
 Independence Day, 20 March (1956); Revolution and Youth Day, 14 January (2011)<br>
 
 **Legal system**<br>
-mixed legal system of civil law, based on the French civil code and Islamic (sharia) law; some judicial review of legislative acts in the Supreme Court in joint session<br>
+mixed system of civil law, based on the French civil code and Islamic (sharia) law; Supreme Court reviews some legislative acts in joint session<br>
 
 **Constitution**<br>
 _history_: <p>several previous; latest - draft published by the president 30 June 2022, approved by referendum 25 July 2022, and adopted 27 July 2022</p><br>
@@ -326,7 +320,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Kais SAIED (since 23 October 2019)<br>
-_head of government_: Prime Minister Kamel MADDOURI (since 8 August 2024); President Kais SAIED dismissed Prime Minister Ahmed HACHANI on 7 August 2024 and appointed Kamel MADDOURI as prime minister<br>
+_head of government_: Prime Minister Sarra ZAAFRANI Zenzri (since 21 March 2025)<br>
 _cabinet_: prime minister appointed by the president; cabinet members appointed by the president in consultation with the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 6 October 2024 (next to be held in 2029)<br>
 _election results_: <p><em>2024: </em>Kais SAIED reelected president in first round - Kais SAIED (independent) 90.7%, Ayachi ZAMMEL (Long Live Tunisia) 7.3%, Zouhair MAGHZAOUI (People's Movement) 2%<em><br><br>2019:</em> Kais SAIED elected president in second round; percent of vote in first round - Kais SAIED (independent) 18.4%, Nabil KAROUI (Heart of Tunisia) 15.6%, Abdelfattah MOUROU (Nahda Movement) 12.9%, Abdelkrim ZBIDI (independent) 10.7%, Youssef CHAHED (Long Live Tunisia) 7.4%, Safi SAID (independent) 7.1%, Lotfi MRAIHI (Republican People's Union) 6.6%, other 21.3%; percent of vote in second round - Kais SAIED 72.7%, Nabil KAROUI 27.3%<br><br> </p><br>
@@ -427,9 +421,9 @@ $48.53 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-9.33% (2023 est.)<br>
-8.31% (2022 est.)<br>
-5.71% (2021 est.)<br>
+7.2% (2024 est.)<br>
+9.3% (2023 est.)<br>
+8.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -465,19 +459,19 @@ petroleum, mining (particularly phosphate, iron ore), tourism, textiles, footwea
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.367 million (2023 est.)<br>
+4.247 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-15.11% (2023 est.)<br>
+16.2% (2024 est.)<br>
+15.1% (2023 est.)<br>
 15.3% (2022 est.)<br>
-16.51% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 37.5% (2023 est.)<br>
-_male_: 38.3% (2023 est.)<br>
-_female_: 35.6% (2023 est.)<br>
+_total_: 40.1% (2024 est.)<br>
+_male_: 41.1% (2024 est.)<br>
+_female_: 37.6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -548,22 +542,22 @@ refined petroleum, natural gas, plastic products, cars, plastics (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$8.77 billion (2024 est.)<br>
 $9.24 billion (2023 est.)<br>
 $8.094 billion (2022 est.)<br>
-$8.846 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$22.336 billion (2023 est.)<br>
+$21.212 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Tunisian dinars (TND) per US dollar -<br>
+3.107 (2024 est.)<br>
 3.106 (2023 est.)<br>
 3.104 (2022 est.)<br>
 2.794 (2021 est.)<br>
 2.812 (2020 est.)<br>
-2.934 (2019 est.)<br>
 
 ## Energy
 
@@ -625,7 +619,7 @@ _domestic_: fixed-line is nearly 14 per 100 and mobile-cellular teledensity is 1
 _international_: country code - 216; landing points for the SEA-ME-WE-4, Didon, HANNIBAL System and Trapani-Kelibia&nbsp;submarine cable systems that provides links to Europe, Africa, the Middle East, Asia and Southeast Asia; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Arabsat; coaxial cable and microwave radio relay to Algeria and Libya; participant in Medarabtel; 2 international gateway digital switches (2020)<br>
 
 **Broadcast media**<br>
-2 state-owned TV stations; 10 private TV stations broadcast locally; satellite TV service is available; state-owned radio network with 2 stations; several dozen private radio stations and community radio stations; transmissions of multiple international broadcasters available (2019)<br>
+2 state-owned TV stations; 10 private local TV stations; satellite TV service available; state-owned radio network with 2 stations; several dozen private radio stations and community radio stations; transmissions of multiple international broadcasters available (2019)<br>
 
 **Internet country code**<br>
 .tn<br>
@@ -639,12 +633,6 @@ _subscriptions per 100 inhabitants_: 14 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 7 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 53<br>
-_annual passenger traffic on registered air carriers_: 4,274,199 (2018)<br>
-_annual freight traffic on registered air carriers_: 13.23 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 TS<br>
 
@@ -654,19 +642,11 @@ TS<br>
 **Heliports**<br>
 11 (2025)<br>
 
-**Pipelines**<br>
-68 km condensate, 3,111 km gas, 1,381 km oil, 453 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 2,173 km (2014) (1,991 in use)<br>
 _standard gauge_: 471 km (2014) 1.435-m gauge<br>
 _narrow gauge_: 1,694 km (2014) 1.000-m gauge (65 km electrified)<br>
 _dual gauge_: 8 km (2014) 1.435-1.000-m gauge<br>
-
-**Roadways**<br>
-_total_: 32,332 km<br>
-_paved_: 12,264 km<br>
-_unpaved_: 20,068 km (2020)<br>
 
 **Merchant marine**<br>
 _total_: 72 (2023)<br>
@@ -684,8 +664,8 @@ _key ports_: Ashtart Oil Terminal, Banzart, Didon Terminal, Gabes, La Goulette, 
 ## Military and Security
 
 **Military and security forces**<br>
-Tunisian Armed Forces (Forces Armées Tunisiennes, FAT): Tunisian Army (includes Air Defense Force), Tunisian Navy, Tunisia Air Force<br><br>Ministry of Interior (MoI): National Police, National Guard (2024)<br>
-<strong>note:</strong> the National Police has primary responsibility for law enforcement in the major cities, while the National Guard (gendarmerie) oversees border security and patrols smaller towns and rural areas; the National Police Anti-Terrorism Brigade and the National Guard Special Unit have the lead for MOI counterterrorism operations <br>
+Tunisian Armed Forces (Forces Armées Tunisiennes, FAT): Tunisian Army (includes Air Defense Force), Tunisian Navy, Tunisia Air Force<br><br>Ministry of Interior (MoI): Internal Security Forces (National Police, National Guard) (2025)<br>
+<strong>note:</strong> the National Police has primary responsibility for law enforcement in the major cities, while the National Guard (gendarmerie) oversees border security and patrols smaller towns and rural areas<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2023 est.)<br>
@@ -695,13 +675,13 @@ Tunisian Armed Forces (Forces Armées Tunisiennes, FAT): Tunisian Army (includes
 3.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 35,000 active-duty personnel (25,000 Army; 5,000 Navy; 5,000 Air Force); estimated 10,000 National Guard (2023)<br>
+approximately 35,000 active-duty personnel (25,000 Army; 5,000 Navy; 5,000 Air Force) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Tunisian military's inventory consists mostly of older or second-hand equipment from a wide variety of suppliers, including Brazil, China, Turkey, and the US, as well as several European countries, such as France, Germany, and Italy (2024)<br>
 
 **Military service age and obligation**<br>
-18-23 years of age for voluntary service for men and women; 20-23 years of age for compulsory service for men with a 12-month service obligation; individuals engaged in higher education or vocational training programs prior to their military drafting are allowed to delay service until they have completed their programs (up to age 35); exemptions allowed for males considered to a family's sole provider;  (2023)<br>
+18-23 years of age for voluntary service for men and women; 20-23 years of age for compulsory (national) service for men with a 12-month service obligation; individuals engaged in higher education or vocational training programs prior to their military drafting are allowed to delay service until they have completed their programs (up to age 35); exemptions allowed for males considered to a family's sole provider (2023)<br>
 <strong>note:</strong> women have been allowed in the service since 1975 as volunteers; as of 2023, women constituted about 8% of the military and served in all three services<br>
 
 **Military deployments**<br>

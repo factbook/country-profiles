@@ -97,10 +97,10 @@ _15-64 years_: 60.3% (male 67,101/female 67,775)<br>
 _65 years and over_: 3.2% (2024 est.) (male 3,115/female 4,127)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 77.9<br>
-_youth dependency ratio_: 71.2<br>
-_elderly dependency ratio_: 6.7<br>
-_potential support ratio_: 14.9 (2021 est.)<br>
+_total dependency ratio_: 65.8 (2024 est.)<br>
+_youth dependency ratio_: 60.4 (2024 est.)<br>
+_elderly dependency ratio_: 5.4 (2024 est.)<br>
+_potential support ratio_: 18.6 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 20.8 years (2024 est.)<br>
@@ -230,7 +230,7 @@ _female_: 13 years (2015)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation and illegal logging; soil erosion and exhaustion; inadequate sewage treatment in cities;&nbsp;biodiversity preservation<br>
+deforestation and illegal logging; soil erosion and exhaustion; inadequate sewage treatment in cities; biodiversity&nbsp;<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
@@ -250,12 +250,6 @@ _other_: 2.4% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 76.4% of total population (2023)<br>
 _rate of urbanization_: 2.96% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-1.9% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 33.75 micrograms per cubic meter (2019 est.)<br>
@@ -289,7 +283,7 @@ semi-presidential republic<br>
 _name_: Sao Tome<br>
 _geographic coordinates_: 0 20 N, 6 44 E<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named after Saint Thomas the Apostle<br>
+_etymology_: named after Saint THOMAS the Apostle by the Portuguese, who discovered the island on 21 December 1470 (or 1471), the saint's feast day<br>
 
 **Administrative divisions**<br>
 6 districts (distritos, singular - distrito), 1 autonomous region* (regiao autonoma); Agua Grande, Cantagalo, Caue, Lemba, Lobata, Me-Zochi, Principe*<br>
@@ -301,7 +295,7 @@ _etymology_: named after Saint Thomas the Apostle<br>
 Independence Day, 12 July (1975)<br>
 
 **Legal system**<br>
-mixed legal system of civil law based on the Portuguese model and customary law<br>
+mixed system of civil law based on the Portuguese model and customary law<br>
 
 **Constitution**<br>
 _history_: approved 5 November 1975<br>
@@ -400,9 +394,9 @@ $678.976 million (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-21.26% (2023 est.)<br>
-18.01% (2022 est.)<br>
-8.14% (2021 est.)<br>
+21.3% (2023 est.)<br>
+18% (2022 est.)<br>
+8.1% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -431,19 +425,19 @@ light construction, textiles, soap, beer, fish processing, timber<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-77,000 (2023 est.)<br>
+34,500 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-14.21% (2023 est.)<br>
-14.12% (2022 est.)<br>
-15.04% (2021 est.)<br>
+9.2% (2024 est.)<br>
+9.1% (2023 est.)<br>
+9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21.1% (2023 est.)<br>
-_male_: 15.3% (2023 est.)<br>
-_female_: 33.5% (2023 est.)<br>
+_total_: 8.6% (2024 est.)<br>
+_male_: 8% (2024 est.)<br>
+_female_: 9.2% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -517,7 +511,7 @@ $75.017 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$352.814 million (2023 est.)<br>
+$327.248 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -570,7 +564,7 @@ _domestic_: fixed-line is 1 per 100 and mobile-cellular teledensity is 85 teleph
 _international_: country code - 239; landing points for the Ultramar GE and ACE submarine cables&nbsp;from South Africa&nbsp;to over 20&nbsp;West African countries and Europe; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-1 government-owned TV station; 2 government-owned radio stations; 7 independent local radio stations; transmissions of multiple international broadcasters are available<br>
+1 state-owned TV station; 2 state-owned radio stations; 7 independent local radio stations; transmissions of multiple international broadcasters are available<br>
 
 **Internet country code**<br>
 .st<br>
@@ -584,20 +578,11 @@ _subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 1<br>
-
 **Civil aircraft registration country code prefix**<br>
 S9<br>
 
 **Airports**<br>
 2 (2025)<br>
-
-**Roadways**<br>
-_total_: 1,300 km<br>
-_paved_: 230 km<br>
-_unpaved_: 1,070 km (2018)<br>
 
 **Merchant marine**<br>
 _total_: 25 (2023)<br>

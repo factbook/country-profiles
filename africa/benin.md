@@ -101,10 +101,10 @@ _15-64 years_: 52.2% (male 3,727,040/female 3,951,786)<br>
 _65 years and over_: 2.5% (2024 est.) (male 166,191/female 197,807)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 84<br>
-_youth dependency ratio_: 78.3<br>
-_elderly dependency ratio_: 5.7<br>
-_potential support ratio_: 17.7 (2021 est.)<br>
+_total dependency ratio_: 91.4 (2024 est.)<br>
+_youth dependency ratio_: 86.7 (2024 est.)<br>
+_elderly dependency ratio_: 4.7 (2024 est.)<br>
+_potential support ratio_: 21.1 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 17.2 years (2024 est.)<br>
@@ -234,7 +234,7 @@ _female_: 10 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-inadequate supplies of potable water; water pollution; poaching threatens wildlife populations; deforestation; desertification (the spread of the desert into agricultural lands in the north is accelerated by regular droughts)<br>
+inadequate supplies of potable water; water pollution; poaching; deforestation; desertification; droughts<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -254,12 +254,6 @@ _other_: 30% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 50.1% of total population (2023)<br>
 _rate of urbanization_: 3.74% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-2.24% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 31.51 micrograms per cubic meter (2019 est.)<br>
@@ -421,9 +415,9 @@ $19.676 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-2.73% (2023 est.)<br>
-1.35% (2022 est.)<br>
-1.73% (2021 est.)<br>
+2.7% (2023 est.)<br>
+1.4% (2022 est.)<br>
+1.7% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -459,19 +453,19 @@ textiles, food processing, construction materials, cement<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.147 million (2023 est.)<br>
+6.397 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.45% (2023 est.)<br>
-1.47% (2022 est.)<br>
-1.69% (2021 est.)<br>
+1.7% (2024 est.)<br>
+1.7% (2023 est.)<br>
+1.7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.9% (2023 est.)<br>
-_male_: 3.2% (2023 est.)<br>
-_female_: 4.6% (2023 est.)<br>
+_total_: 3.3% (2024 est.)<br>
+_male_: 3.6% (2024 est.)<br>
+_female_: 2.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -542,16 +536,16 @@ $698.9 million (2017 est.)<br>
 $57.5 million (2016 est.)<br>
 
 **Debt - external**<br>
-$6.792 billion (2023 est.)<br>
+$6.309 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+606.345 (2024 est.)<br>
 606.655 (2023 est.)<br>
 622.912 (2022 est.)<br>
 554.608 (2021 est.)<br>
 574.295 (2020 est.)<br>
-585.951 (2019 est.)<br>
 
 ## Energy
 
@@ -609,7 +603,7 @@ _domestic_: fixed-line teledensity less than 1 per 100 people; mobile cellular s
 _international_: country code - 229; landing points for the SAT-3/WASC and ACE fiber-optic submarine cable that provides connectivity to Europe, and&nbsp;most West African countries; satellite earth stations - 7 (Intelsat-Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-state-run Office de Radiodiffusion et de Television du Benin (ORTB) operates a TV station providing a wide broadcast reach; several privately owned TV stations broadcast from Cotonou; satellite TV subscription service is available; state-owned radio, under ORTB control, includes a national station supplemented by a number of regional stations; substantial number of privately owned radio broadcast stations; transmissions of a few international broadcasters are available on FM in Cotonou (2019)<br>
+state-run Office de Radiodiffusion et de T&eacute;l&eacute;vision du Benin (ORTB) operates a TV station with a wide broadcast reach; several privately owned TV stations broadcast from Cotonou; satellite TV subscription service is available; state-owned radio, under ORTB control, includes a national station supplemented by a number of regional stations; substantial number of privately owned radio stations; transmissions of a few international broadcasters are available on FM in Cotonou (2019)<br>
 
 **Internet country code**<br>
 .bj<br>
@@ -623,30 +617,15 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2015)<br>
-_inventory of registered aircraft operated by air carriers_: 1 (2015)<br>
-_annual passenger traffic on registered air carriers_: 112,392 (2015)<br>
-_annual freight traffic on registered air carriers_: 805,347 (2015) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 TY<br>
 
 **Airports**<br>
 10 (2025)<br>
 
-**Pipelines**<br>
-134 km gas<br>
-
 **Railways**<br>
 _total_: 438 km (2014)<br>
 _narrow gauge_: 438 km (2014) 1.000-m gauge<br>
-
-**Roadways**<br>
-_total_: 16,000 km (2018)<br>
-
-**Waterways**<br>
-150 km (2011) (seasonal navigation on River Niger along northern border)<br>
 
 **Merchant marine**<br>
 _total_: 6 (2023)<br>
@@ -675,7 +654,7 @@ Beninese Armed Forces (Forces Armees Beninoises, FAB; aka Benin Defense Forces):
 0.5% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 12,000 active-duty troops, including about 3,000 National Guard (2024)<br>
+estimated 10,000 active-duty troops (including National Guard) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAB is equipped with a small mix of mostly older or secondhand French, Soviet-era, and US equipment; in recent years, the EU, France, and the US have provided it with limited amounts of newer military hardware such as armored vehicles and helicopters (2024)<br>
@@ -684,7 +663,7 @@ the FAB is equipped with a small mix of mostly older or secondhand French, Sovie
 18-30 years of age for voluntary and selective compulsory military service for men and women; conscript service is 18 months (2024)<br>
 
 **Military - note**<br>
-in addition to its defense against external aggression duties, the Beninese Armed Forces (FAB) may be required to assist in maintaining public order and internal security under conditions defined by the country's president; it may also participate in economic development projects<br><br>a key focus for the security forces of Benin is countering infiltrations into the country by terrorist groups tied to al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS) operating just over the border from northern Benin in Burkina Faso and Niger; in 2022, the Benin Government said it was "at war" after suffering a series of attacks from these groups; later that same year, President TALON pledged to increase the size of the military, modernize military equipment, and establish forward operating bases; as of 2024, Benin had sent approximately 7,000 troops to the north of the country to better secure its border on a full-time or seasonal basis; in addition, the FAB participates in the Multinational Joint Task Force (MNJTF) along with Cameroon, Chad, Niger, and Nigeria against Boko Haram and ISIS-West Africa in the general area of the Lake Chad Basin and along Nigeria's northeastern border <br><br>the FAB has a close working relationship with the Belgian armed forces; the Belgians offer military advice, training, and second-hand equipment donations, and deploy to Benin for limited military exercises (2024)<br>
+in addition to its defense against external aggression duties, the Beninese Armed Forces (FAB) may be required to assist in maintaining public order and internal security under conditions defined by the country's president; it may also participate in economic development projects<br><br>a key focus for the security forces of Benin is countering infiltrations into the country by terrorist groups tied to al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS) operating just over the border from northern Benin in Burkina Faso and Niger; in 2022, the Benin Government said it was "at war" after suffering a series of attacks from these groups; later that same year, President TALON pledged to increase the size of the military, modernize military equipment, and establish forward operating bases; the military since 2022 has also deployed thousands of additional troops to the north of the country to better secure the border; in addition, the FAB participates in the Multinational Joint Task Force (MNJTF) along with Cameroon, Chad, Niger, and Nigeria against Boko Haram and ISIS-West Africa in the general area of the Lake Chad Basin and along Nigeria's northeastern border <br><br>the FAB has a close working relationship with the Belgian armed forces; the Belgians offer military advice, training, and second-hand equipment donations, and deploy to Benin for limited military exercises (2024)<br>
 
 ## Terrorism
 

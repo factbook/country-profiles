@@ -85,7 +85,7 @@ population is primarily located on the periphery, with the highest concentration
 <p>cyclones along the coast; severe droughts; forest fires</p><p><strong>volcanism:</strong> volcanic activity on Heard and McDonald Islands</p><br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> world's smallest continent but sixth-largest country; the largest country in Oceania, the largest country entirely in the Southern Hemisphere, and the largest country without land borders<br><br><strong>note 2:</strong> the Great Dividing Range that runs along eastern Australia is that continent’s longest mountain range and the third-longest land-based range in the world; the term "Great Dividing Range" refers to the fact that the mountains form a watershed crest from which all of the rivers of eastern Australia flow – east, west, north, and south<br><br><strong>note 3:</strong> Australia is the only continent without glaciers; it is the driest inhabited continent on earth; the invigorating sea breeze known as the "Fremantle Doctor" affects the city of Perth on the west coast and is one of the most consistent winds in the world; Australia is home to 10% of the world's biodiversity, and a great number of its flora and fauna exist nowhere else in the world<br>
+<strong>note 1:</strong> world's smallest continent but sixth-largest country; the largest country in Oceania, the largest country entirely in the Southern Hemisphere, and the largest country without land borders<br><br><strong>note 2:</strong> the Great Dividing Range that runs along eastern Australia is that continent’s longest mountain range and the third-longest land-based range in the world; the term "Great Dividing Range" refers to the fact that the mountains form a watershed crest from which all of the rivers of eastern Australia flow – east, west, north, and south<br><br><strong>note 3:</strong> Australia is the only continent without glaciers; it is the driest inhabited continent on earth; Perth on the west coast is home to the invigorating sea breeze known as the "Fremantle Doctor," one of the most consistent winds in the world; Australia hosts 10% of the world's biodiversity, and a great number of its flora and fauna exist nowhere else in the world<br>
 
 ## People and Society
 
@@ -115,10 +115,10 @@ _15-64 years_: 64.7% (male 8,688,023/female 8,640,671)<br>
 _65 years and over_: 17% (2024 est.) (male 2,090,315/female 2,453,392)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.7<br>
-_youth dependency ratio_: 28.2<br>
-_elderly dependency ratio_: 25.5<br>
-_potential support ratio_: 3.9 (2020 est.)<br>
+_total dependency ratio_: 54.5 (2024 est.)<br>
+_youth dependency ratio_: 28.3 (2024 est.)<br>
+_elderly dependency ratio_: 26.2 (2024 est.)<br>
+_potential support ratio_: 3.8 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 38.1 years (2024 est.)<br>
@@ -243,7 +243,7 @@ _female_: 22 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-soil erosion from overgrazing, deforestation, industrial development, urbanization, and poor farming practices; limited natural freshwater resources; soil salinity rising due to the use of poor quality water; drought, desertification; clearing for agricultural purposes threatens the natural habitat of many unique animal and plant species; disruption of the fragile ecosystem has resulted in significant floral extinctions; the Great Barrier Reef off the northeast coast, the largest coral reef in the world, is threatened by increased shipping and its popularity as a tourist site; overfishing, pollution, and invasive species are also problems<br>
+soil erosion from overgrazing, deforestation, industrial development, urbanization, and poor farming practices; limited natural freshwater resources; soil salinity from use of poor-quality water, drought, desertification; habitat loss from agricultural clearing; floral extinctions; Great Barrier Reef preservation; overfishing; pollution; invasive species<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -264,12 +264,6 @@ _other_: 35.3% (2022 est.)<br>
 _urban population_: 86.6% of total population (2023)<br>
 _rate of urbanization_: 1.27% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Christmas Island, Cocos Islands, and Norfolk Island<br>
-
-**Revenue from forest resources**<br>
-0.13% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.78% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 8.93 micrograms per cubic meter (2019 est.)<br>
@@ -318,7 +312,7 @@ _geographic coordinates_: 35 16 S, 149 08 E<br>
 _time difference_: UTC+11 (16 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins first Sunday in October; ends first Sunday in April<br>
 _time zone note_: Australia has six time zones, including Lord Howe Island (UTC+11)<br>
-_etymology_: the name is claimed to derive from either Kambera or Camberry, which are names corrupted from the original native designation for the area "Nganbra" or "Nganbira"<br>
+_etymology_: the name may derive from the Aboriginal word <em>nganbirra</em>, meaning "meeting place"<br>
 
 **Administrative divisions**<br>
 6 states and 2 territories*; Australian Capital Territory*, New South Wales, Northern Territory*, Queensland, South Australia, Tasmania, Victoria, Western Australia<br>
@@ -384,7 +378,7 @@ _percentage of women in chamber_: 56.6%<br>
 _expected date of next election_: May 2025<br>
 
 **Judicial branch**<br>
-_highest court(s)_: High Court of Australia (consists of 7 justices, including the chief justice); note - each of the 6 states, 2 territories, and Norfolk Island has a Supreme Court; the High Court is the final appellate court beyond the state and territory supreme courts<br>
+_highest court(s)_: High Court of Australia (consists of 7 justices, including the chief justice); each of the 6 states, 2 territories, and Norfolk Island has a Supreme Court; the High Court is the final appellate court<br>
 _judge selection and term of office_: justices appointed by the governor-general in council for life with mandatory retirement at age 70<br>
 _subordinate courts_: subordinate courts: <em>at the federal level:</em> Federal Court; Federal Circuit and Family Court of Australia;  <em>at the state and territory level:</em> Local Court - New South Wales; Magistrates' Courts – Victoria, Queensland, South Australia, Western Australia, Tasmania, Northern Territory, Australian Capital Territory; District Courts – New South Wales, Queensland, South Australia, Western Australia; County Court – Victoria; Family Court – Western Australia; Court of Petty Sessions – Norfolk Island<br>
 
@@ -428,7 +422,7 @@ _total World Heritage Sites_: 20 (4 cultural, 12 natural, 4 mixed); note - inclu
 _selected World Heritage Site locales_: Great Barrier Reef (n); Greater Blue Mountains Area (n); Fraser Island (n); Gondwana Rainforests (n); Lord Howe Island Group (n); Royal Exhibition Building and Carlton Gardens (c); Shark Bay (n); Sydney Opera House (c); Uluṟu-Kata Tjuṯa National Park (m); Kakadu National Park (m)<br>
 
 **National coat of arms**<br>
-King George V granted the current Commonwealth Coat of Arms to Australia on 19 September 1912. The center of the shield has the symbols of Australia&rsquo;s six states. The kangaroo and the emu symbolize a nation moving forward, based on the fact that neither animal can move backwards easily. The gold Commonwealth Star sits above the shield, with six of the star&rsquo;s points representing the Australian states and the seventh point representing the territories. The gold and blue in the wreath under the star are the "livery," or "identifying," colors for the coat of arms. Australia&rsquo;s floral emblem, the golden wattle, frames the shield.<br>
+King George V granted the current Commonwealth Coat of Arms to Australia on 19 September 1912. The center of the shield has the symbols of Australia&rsquo;s six states. The kangaroo and the emu symbolize a nation moving forward, since neither animal can move backward easily. The gold Commonwealth Star sits above the shield, with six of the star&rsquo;s points representing the Australian states and the seventh point representing the territories. The gold and blue in the wreath under the star are the livery, or identifying, colors for the coat of arms. Australia&rsquo;s floral emblem, the golden wattle, frames the shield.<br>
 
 ## Economy
 
@@ -458,9 +452,9 @@ $1.728 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.2% (2024 est.)<br>
 5.6% (2023 est.)<br>
-6.59% (2022 est.)<br>
-2.86% (2021 est.)<br>
+6.6% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -496,19 +490,19 @@ mining, industrial and transportation equipment, food processing, chemicals, ste
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-14.504 million (2023 est.)<br>
+14.752 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.67% (2023 est.)<br>
+4.1% (2024 est.)<br>
+3.7% (2023 est.)<br>
 3.7% (2022 est.)<br>
-5.12% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.6% (2023 est.)<br>
-_male_: 9.6% (2023 est.)<br>
-_female_: 7.5% (2023 est.)<br>
+_total_: 9.5% (2024 est.)<br>
+_male_: 10.2% (2024 est.)<br>
+_female_: 8.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -539,23 +533,23 @@ _expenditures_: $447.119 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-58.05% of GDP (2022 est.)<br>
+58% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-23.63% (of GDP) (2022 est.)<br>
+23.6% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$4.402 billion (2023 est.)<br>
-$14.293 billion (2022 est.)<br>
-$48.838 billion (2021 est.)<br>
+-$34.402 billion (2024 est.)<br>
+-$5.186 billion (2023 est.)<br>
+$5.707 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$447.064 billion (2023 est.)<br>
-$464.688 billion (2022 est.)<br>
-$389.158 billion (2021 est.)<br>
+$425.16 billion (2024 est.)<br>
+$448.507 billion (2023 est.)<br>
+$465.99 billion (2022 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -567,9 +561,9 @@ iron ore, coal, natural gas, gold, minerals (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$379.066 billion (2023 est.)<br>
-$370.66 billion (2022 est.)<br>
-$299.549 billion (2021 est.)<br>
+$405.336 billion (2024 est.)<br>
+$389.211 billion (2023 est.)<br>
+$379.981 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -581,18 +575,18 @@ refined petroleum, cars, trucks, broadcasting equipment, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$54.455 billion (2024 est.)<br>
 $61.703 billion (2023 est.)<br>
 $56.702 billion (2022 est.)<br>
-$57.878 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Australian dollars (AUD) per US dollar -<br>
+1.515 (2024 est.)<br>
 1.505 (2023 est.)<br>
 1.442 (2022 est.)<br>
 1.331 (2021 est.)<br>
 1.453 (2020 est.)<br>
-1.439 (2019 est.)<br>
 
 ## Energy
 
@@ -650,12 +644,12 @@ _total subscriptions_: 29.1 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 107 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the Australian telecom market since 2020 has been impacted by the pandemic, which forced many people to school and work from home and thus adopt fixed-line broadband services; internet traffic, both fixed and mobile, increased substantially as a result; in the fixed sector, there is an ongoing migration from copper-based platforms to fiber; the extension of fixed wireless access will mean that up to 120,000 premises currently dependent on satellite broadband will be able to access 5G-based fixed services; the fixed-line market has been falling steadily over the past five years; in the Australian fixed broadband market, there is a dynamic shift among customers to fiber networks; the DSL sector is steadily shrinking while subscribers on HFC infrastructure will continue to be provided by existing cable, with a steady migration to full fiber connectivity (2022)<br>
+_general assessment_: in the fixed internet traffic sector, there is an ongoing migration from copper-based platforms to fiber; the extension of fixed wireless access will mean that up to 120,000 premises currently dependent on satellite broadband will be able to access 5G-based fixed services; the fixed-line market has been falling steadily over the past five years; in the Australian fixed broadband market, there is a dynamic shift among customers to fiber networks; the DSL sector is steadily shrinking while subscribers on HFC infrastructure will continue to be provided by existing cable, with a steady migration to full fiber connectivity (2022)<br>
 _domestic_: 18 per 100 fixed-line telephone subscriptions and 105 per 100 mobile-cellular; more subscribers to mobile services than there are people; 90% of all mobile device sales are now smartphones, growth in mobile traffic brisk (2021)<br>
 _international_: country code - 61; landing points for&nbsp;more than&nbsp;20 submarine cables including: the SeaMeWe-3 optical telecommunications submarine cable with links to Asia, the Middle East, and Europe; the INDIGO-Central, INDIGO West and ASC, North West Cable System, Australia-Papua New Guinea cable, CSCS, PPC-1, Gondwana-1, SCCN, Hawaiki, TGA, Basslink, Bass Strait-1, Bass Strait-2, JGA-S, with links to other Australian cities, New Zealand&nbsp;and many countries in southeast Asia, US and Europe; the H2 Cable, AJC, Telstra Endeavor, Southern Cross NEXT with links to Japan, Hong Kong, and other Pacific Ocean countries as well as the US; satellite earth stations - 10 Intelsat (4 Indian Ocean and 6 Pacific Ocean), 2 Inmarsat, 2 Globalstar, 5 other (2019)<br>
 
 **Broadcast media**<br>
-<p class="ssrcss-1q0x1qg-Paragraph e1jhz7w10">Australia's media scene is creatively, technologically and economically advanced, there is a tradition of public broadcasting, but privately-owned TV and radio have the biggest audiences, the ownership of print and broadcast media is concentrated, the Australian Broadcasting Corporation (ABC) runs national and local public radio and TV, the other main public broadcaster is the multilingual Special Broadcasting Service (SBS), National commercial TV is dominated by three big free-to-air networks, broadcasters must carry a minimum percentage of Australian-made programs, pay TV via cable, satellite and IPTV has a strong foothold, sports, news, game shows, imported and home-made dramas top the TV ratings, the industry has successfully exported its productions to English-speaking markets overseas</p> (2023)<br>
+<p class="ssrcss-1q0x1qg-Paragraph e1jhz7w10">tradition of public broadcasting, but privately owned TV and radio have the biggest audiences; ownership of print and broadcast media is concentrated; Australian Broadcasting Corporation (ABC) runs national and local public radio and TV; other main public broadcaster is the multilingual Special Broadcasting Service (SBS); national commercial TV is dominated by three big free-to-air networks; broadcasters must carry a minimum percentage of Australian-made programs; pay TV via cable, satellite, and IPTV has a strong foothold</p> (2023)<br>
 
 **Internet country code**<br>
 .au<br>
@@ -669,12 +663,6 @@ _subscriptions per 100 inhabitants_: 36 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 25 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 583<br>
-_annual passenger traffic on registered air carriers_: 75,667,645 (2018)<br>
-_annual freight traffic on registered air carriers_: 2,027,640,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 VH<br>
 
@@ -684,22 +672,11 @@ VH<br>
 **Heliports**<br>
 392 (2025)<br>
 
-**Pipelines**<br>
-637 km condensate/gas, 30,054 km gas, 240 km liquid petroleum gas, 3,609 km oil, 110 km oil/gas/water, 72 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 32,606 km (2022) 3,448 km electrified<br>
 _standard gauge_: 18,007 km (2022) 1.435 mm<br>
 _narrow gauge_: 11,914 km (2022) 1.067 mm<br>
 _broad gauge_: 2,685 km (2022) 1.600 mm<br>
-
-**Roadways**<br>
-_total_: 873,573 km<br>
-_urban_: 145,928 km<br>
-_non-urban_: 727,645 km (2015)<br>
-
-**Waterways**<br>
-2,000 km (2011) (mainly used for recreation on Murray and Murray-Darling River systems)<br>
 
 **Merchant marine**<br>
 _total_: 604 (2023)<br>
@@ -728,7 +705,7 @@ Australian Defense Force (ADF): Australian Army, Royal Australian Navy, Royal Au
 2% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 60,000 active troops (30,000 Army; 15,000 Navy; 15,000 Air Force) (2023)<br>
+approximately 60,000 active ADF personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes a mix of domestically produced and imported Western weapons systems; in recent years, the US has been the largest supplier of arms; the Australian defense industry produces a variety of land and sea weapons platforms; the defense industry also participates in joint development and production ventures with other Western countries, including the US and Canada (2024)<br>

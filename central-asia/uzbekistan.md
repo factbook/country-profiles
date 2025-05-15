@@ -106,10 +106,10 @@ _15-64 years_: 63.7% (male 11,649,017/female 11,617,411)<br>
 _65 years and over_: 6.7% (2024 est.) (male 1,077,849/female 1,364,966)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 54<br>
-_youth dependency ratio_: 46.3<br>
-_elderly dependency ratio_: 7.2<br>
-_potential support ratio_: 13 (2021 est.)<br>
+_total dependency ratio_: 57 (2024 est.)<br>
+_youth dependency ratio_: 46.5 (2024 est.)<br>
+_elderly dependency ratio_: 10.5 (2024 est.)<br>
+_potential support ratio_: 9.5 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 28.9 years (2024 est.)<br>
@@ -237,7 +237,7 @@ _female_: 12 years (2021)<br>
 ## Environment
 
 **Environment - current issues**<br>
-shrinkage of the Aral Sea has resulted in growing concentrations of chemical pesticides and natural salts; these substances are then blown from the increasingly exposed lake bed and contribute to desertification and respiratory health problems; water pollution from industrial wastes and the heavy use of fertilizers and pesticides is the cause of many human health disorders; increasing soil salination; soil contamination from buried nuclear processing and agricultural chemicals, including DDT<br>
+growing concentrations of chemical pesticides and natural salts in the shrinking Aral Sea; desertification; water pollution and soil salination from industrial wastes and the heavy use of fertilizers and pesticides; soil contamination from buried nuclear processing and agricultural chemicals<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Wetlands<br>
@@ -257,12 +257,6 @@ _other_: 33.5% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 50.5% of total population (2023)<br>
 _rate of urbanization_: 1.25% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.06% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 40.98 micrograms per cubic meter (2019 est.)<br>
@@ -297,7 +291,7 @@ _conventional short form_: Uzbekistan<br>
 _local long form_: O'zbekiston Respublikasi<br>
 _local short form_: O'zbekiston<br>
 _former_: Uzbek Soviet Socialist Republic<br>
-_etymology_: a combination of the Turkic words "uz" (self) and "bek" (master) with the Persian suffix "-stan" (country) to give the meaning "Land of the Free"<br>
+_etymology_: the name comes from the local people, the Uzbeks, whose name is said to have originated with Mongol leader Ghiyath ad-Din Muhammad UZBEK; the Persian suffix -<em>stan </em>means "country"<br>
 
 **Government type**<br>
 presidential republic; highly authoritarian<br>
@@ -306,7 +300,7 @@ presidential republic; highly authoritarian<br>
 _name_: Tashkent (Toshkent)<br>
 _geographic coordinates_: 41 19 N, 69 15 E<br>
 _time difference_: UTC+5 (10 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: <em>tash</em> means "stone" and <em>kent</em> means "city" in Turkic languages, so the name simply denotes "stone city"<br>
+_etymology_: the current name of the ancient city was first used in the 11th century and comes from the Sogdian (Turkic) words <em>tash (</em>stone) and <em>kent</em> (town); the city was first recorded in the 5th or 4th century B.C. with the name of Chach or Shash<br>
 
 **Administrative divisions**<br>
 <p>12 provinces (viloyatlar, singular - viloyat), 1 autonomous republic* (avtonom respublikasi), and 3 cities** (shahar); Andijon Viloyati, Buxoro Viloyati [Bukhara Province], Farg'ona Viloyati [Fergana Province], Jizzax Viloyati, Namangan Shahri, Namangan Viloyati, Navoiy Viloyati, Qashqadaryo Viloyati (Qarshi), Qoraqalpog'iston Respublikasi [Karakalpakstan Republic]* (Nukus), Samarqand Shahri [Samarkand City], Samarqand Viloyati [Samarkand Province], Sirdaryo Viloyati (Guliston), Surxondaryo Viloyati (Termiz), Toshkent Shahri [Tashkent City]**, Toshkent Viloyati [Nurafshon], Xorazm Viloyati (Urganch)  </p><br>
@@ -319,7 +313,8 @@ _etymology_: <em>tash</em> means "stone" and <em>kent</em> means "city" in Turki
 Independence Day, 1 September (1991)<br>
 
 **Legal system**<br>
-civil law system;<strong> note:</strong> in early 2020, the president signed an amendment to the criminal code, criminal procedure code, and code of administrative responsibility; a constitutional referendum passed in April 2023 included criminal code reforms  <br>
+civil law system<br>
+<strong>note:</strong> in 2020, the criminal code, criminal procedure code, and code of administrative responsibility were reformed; a constitutional referendum in 2023 included additional criminal code reforms  <br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 8 December 1992<br>
@@ -438,9 +433,9 @@ $101.592 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-11.45% (2022 est.)<br>
-10.85% (2021 est.)<br>
-12.87% (2020 est.)<br>
+9.6% (2024 est.)<br>
+10% (2023 est.)<br>
+11.4% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -476,19 +471,19 @@ textiles, food processing, machine building, metallurgy, mining, hydrocarbon ext
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-13.837 million (2023 est.)<br>
+13.974 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.53% (2023 est.)<br>
-4.54% (2022 est.)<br>
-5.35% (2021 est.)<br>
+4.5% (2024 est.)<br>
+4.5% (2023 est.)<br>
+4.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11% (2023 est.)<br>
-_male_: 7.1% (2023 est.)<br>
-_female_: 18.3% (2023 est.)<br>
+_total_: 10.9% (2024 est.)<br>
+_male_: 7.2% (2024 est.)<br>
+_female_: 18.1% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -520,12 +515,12 @@ _expenditures_: $20.79 billion (2022 est.)<br>
 24.3% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-11.99% (of GDP) (2022 est.)<br>
+11.6% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
 -$7.8 billion (2023 est.)<br>
--$2.846 billion (2022 est.)<br>
+-$2.847 billion (2022 est.)<br>
 -$4.898 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
@@ -558,22 +553,22 @@ cars, vehicle parts/accessories, packaged medicine, refined petroleum, aircraft 
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$9.145 billion (2024 est.)<br>
 $34.558 billion (2023 est.)<br>
 $35.774 billion (2022 est.)<br>
-$35.375 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$27.185 billion (2023 est.)<br>
+$25.714 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Uzbekistani soum (UZS) per US dollar -<br>
+12,652.287 (2024 est.)<br>
 11,734.833 (2023 est.)<br>
 11,050.145 (2022 est.)<br>
 10,609.464 (2021 est.)<br>
 10,054.261 (2020 est.)<br>
-8,836.788 (2019 est.)<br>
 
 ## Energy
 
@@ -636,7 +631,7 @@ _domestic_: fixed-line nearly 16 per 100 persons and mobile-cellular teledensity
 _international_: country code - 998; linked by fiber-optic cable or microwave radio relay with CIS member states and to other countries by leased connection via the Moscow international gateway switch; the country also has a link to the Trans-Asia-Europe (TAE) fiber-optic cable; Uzbekistan has supported the national fiber-optic backbone project of Afghanistan since 2008<br>
 
 **Broadcast media**<br>
-the government controls media; 17 state-owned broadcasters - 13 TV and 4 radio - provide service to virtually the entire country; about 20 privately owned TV stations, overseen by local officials, broadcast to local markets; privately owned TV stations are required to lease transmitters from the government-owned Republic TV and Radio Industry Corporation; in 2019, the Uzbek Agency for Press and Information was reorganized into the Agency of Information and Mass Communications and became part of the Uzbek Presidential Administration (2019)<br>
+state-controlled media; 17 state-owned broadcasters, including 13 TV and 4 radio, with national service; about 20 privately owned TV stations, overseen by local officials, broadcast locally; privately owned TV stations required to lease transmitters from state-owned Republic TV and Radio Industry Corporation (2019)<br>
 
 **Internet country code**<br>
 .uz<br>
@@ -650,12 +645,6 @@ _subscriptions per 100 inhabitants_: 30 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 34<br>
-_annual passenger traffic on registered air carriers_: 3,056,558 (2018)<br>
-_annual freight traffic on registered air carriers_: 89.43 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 UK<br>
 
@@ -665,24 +654,15 @@ UK<br>
 **Heliports**<br>
 3 (2025)<br>
 
-**Pipelines**<br>
-13,700 km gas, 944 km oil (2016)<br>
-
 **Railways**<br>
 _total_: 4,642 km (2018)<br>
 _broad gauge_: 4,642 km (2018) 1.520-m gauge (1,684 km electrified)<br>
 
-**Roadways**<br>
-_total_: 225,500 km (2013)<br>
-
-**Waterways**<br>
-1,100 km (2012)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Uzbekistan: Army, Air and Air Defense Forces; National Guard <br><br>Ministry of Internal Affairs: Internal Security Troops, Border Guards, police (2023)<br>
-<strong>note:</strong> the National Guard is under the Defense Ministry, but is independent of the other military services; it is responsible for ensuring public order and the security of diplomatic missions, radio and television broadcasting, and other state entities<br>
+Armed Forces of Uzbekistan: Army, Air and Air Defense Forces; National Guard <br><br>Ministry of Internal Affairs: Internal Security Troops, Border Guards, police (2024)<br>
+<strong>note 1:</strong> the National Guard is under the Defense Ministry, but is independent of the other military services; it is responsible for ensuring public order and the security of diplomatic missions, radio and television broadcasting, and other state entities<br><br><strong>note 2:</strong> the State Security Service, whose chairperson reports directly to the president, is responsible for national security and intelligence matters, including terrorism, corruption, organized crime, border control, and narcotics<br>
 
 **Military expenditures**<br>
 2.8% of GDP (2019 est.)<br>
@@ -692,7 +672,7 @@ Armed Forces of Uzbekistan: Army, Air and Air Defense Forces; National Guard <b
 2.5% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 50-60,000 active-duty troops, including 10-15,000 Air Force (2023)<br>
+approximately 50,000 active-duty troops (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Uzbek Armed Forces use mainly Russian or Soviet-era weapons and equipment with smaller quantities of items from suppliers such as China, Turkey, and the US; Uzbekistan has a small defense industry, which is involved in repairing and maintaining aircraft and armored vehicles, as well as producing light armored vehicles, unmanned aerial vehicles/drones, and other military items (2024)<br>
@@ -702,7 +682,7 @@ the Uzbek Armed Forces use mainly Russian or Soviet-era weapons and equipment wi
 <strong>note:</strong> Uzbek citizens who have completed their service terms in the armed forces have privileges in employment and admission to higher educational institutions<br>
 
 **Military - note**<br>
-the military’s primary concerns and responsibilities are border security, ensuring the country’s sovereignty and territorial integrity, instability in neighboring countries, and terrorism; the military is equipped largely with Soviet-era arms and its units are based on Soviet Army formations that were in the territory of Uzbekistan when the USSR collapsed in 1991; the armed forces were established in January 1992 when Uzbekistan assumed jurisdiction over all former Soviet ground, air, and air defense units, formations, and installations then deployed on its soil; the building hosting the headquarters for the ex-Soviet Turkestan Military District became the headquarters for the Uzbek armed forces; all former Soviet troops departed Uzbekistan by 1995<br><br>Uzbekistan joined the Russian-sponsored Collective Security Treaty Organization (CSTO) in the 1990s but withdrew in 1999; it returned in 2006 but left again in 2012; although it is not part of CSTO, Uzbekistan continues to maintain defense ties with Russia, including joint military exercises and defense industrial cooperation; it also has defense ties with other regional countries, including India, Pakistan, and Turkey; it is part of the Shanghai Cooperation Organization (SCO) and participates in SCO training exercises (2023)<br>
+the military’s primary concerns and responsibilities are border security, ensuring the country’s sovereignty and territorial integrity, instability in neighboring countries, and terrorism; the military is equipped largely with Soviet-era arms, and its units are based on Soviet Army formations that were in the territory of Uzbekistan when the USSR collapsed in 1991; the armed forces were established in January 1992 when Uzbekistan assumed jurisdiction over all former Soviet ground, air, and air defense units, formations, and installations then deployed on its soil; the building hosting the headquarters for the ex-Soviet Turkestan Military District became the headquarters for the Uzbek armed forces; all former Soviet troops departed Uzbekistan by 1995<br><br>Uzbekistan joined the Russian-sponsored Collective Security Treaty Organization (CSTO) in the 1990s but withdrew in 1999; it returned in 2006 but left again in 2012; although it is not part of CSTO, Uzbekistan continues to maintain defense ties with Russia, including joint military exercises and defense industrial cooperation; it also has defense ties with other regional countries, including India, Pakistan, and Turkey; it is part of the Shanghai Cooperation Organization (SCO) and participates in SCO training exercises (2023)<br>
 
 ## Space
 

@@ -67,7 +67,7 @@ major chokepoint is the southern Chukchi Sea (northern access to the Pacific Oce
 ## Environment
 
 **Environment - current issues**<br>
-climate change; changes in biodiversity; water pollution from use of toxic chemicals; endangered marine species include walruses and whales; fragile ecosystem slow to change and slow to recover from disruptions or damage; thinning polar icepack<br>
+changes in biodiversity and temperature; water pollution from use of toxic chemicals; endangered marine species; ecosystem slow to recover from disruptions or damage; thinning polar icepack<br>
 
 **Climate**<br>
 polar climate characterized by persistent cold and relatively narrow annual temperature range; winters characterized by continuous darkness, cold and stable weather conditions, and clear skies; summers characterized by continuous daylight, damp and foggy weather, and weak cyclones with rain or snow<br>

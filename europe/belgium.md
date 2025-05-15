@@ -103,10 +103,10 @@ _15-64 years_: 62.8% (male 3,796,844/female 3,730,784)<br>
 _65 years and over_: 20.2% (2024 est.) (male 1,073,635/female 1,347,578)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 56.5<br>
-_youth dependency ratio_: 26.1<br>
-_elderly dependency ratio_: 30.4<br>
-_potential support ratio_: 3.3 (2021 est.)<br>
+_total dependency ratio_: 57.3 (2024 est.)<br>
+_youth dependency ratio_: 25.3 (2024 est.)<br>
+_elderly dependency ratio_: 32.1 (2024 est.)<br>
+_potential support ratio_: 3.1 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 42 years (2024 est.)<br>
@@ -229,7 +229,7 @@ _female_: 20 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-intense pressures from human activities: urbanization, dense transportation network, industry, extensive animal breeding and crop cultivation; air and water pollution also have repercussions for neighboring countries<br>
+urbanization; possible risks from industry and intensive farming; air and water pollution<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -249,12 +249,6 @@ _other_: 32.8% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 98.2% of total population (2023)<br>
 _rate of urbanization_: 0.38% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.02% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 11.26 micrograms per cubic meter (2019 est.)<br>
@@ -298,7 +292,7 @@ _name_: Brussels<br>
 _geographic coordinates_: 50 84 N, 4 35 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: may derive from the Old Dutch <em>bruoc/broek</em>, meaning "marsh" and <em>sella/zele/sel</em> signifying "home" to express the meaning "home in the marsh"<br>
+_etymology_: the name is of Germanic origin, from <em>broca </em>(marsh) and <em>sali </em>(room or building)<br>
 
 **Administrative divisions**<br>
 3 regions (French: régions, singular - région; Dutch: gewesten, singular - gewest); Brussels-Capital Region, also known as Brussels Hoofdstedelijk Gewest (Dutch), Region de Bruxelles-Capitale (French long form), Bruxelles-Capitale (French short form); Flemish Region (Flanders), also known as Vlaams Gewest (Dutch long form), Vlaanderen (Dutch short form), Region Flamande (French long form), Flandre (French short form); Walloon Region (Wallonia), also known as Region Wallone (French long form), Wallonie (French short form), Waals Gewest (Dutch long form), Wallonie (Dutch short form)<br>
@@ -311,7 +305,7 @@ _etymology_: may derive from the Old Dutch <em>bruoc/broek</em>, meaning "marsh"
 Belgian National Day (ascension to the throne of King LEOPOLD I), 21 July (1831)<br>
 
 **Legal system**<br>
-civil law system based on the French Civil Code; note - Belgian law continues to be modified in conformance with the legislative norms mandated by the European Union; judicial review of legislative acts<br>
+civil law system based on the French Civil Code; judicial review of legislative acts<br>
 
 **Constitution**<br>
 _history_: drafted 25 November 1830, approved 7 February 1831, entered into force 26 July 1831, revised 14 July 1993 (creating a federal state)<br>
@@ -431,9 +425,9 @@ $644.783 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.05% (2023 est.)<br>
+3.1% (2024 est.)<br>
+4% (2023 est.)<br>
 9.6% (2022 est.)<br>
-2.44% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -469,19 +463,19 @@ engineering and metal products, motor vehicle assembly, transportation equipment
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.419 million (2023 est.)<br>
+5.385 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.51% (2023 est.)<br>
-5.56% (2022 est.)<br>
-6.26% (2021 est.)<br>
+5.5% (2024 est.)<br>
+5.5% (2023 est.)<br>
+5.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.1% (2023 est.)<br>
-_male_: 17.8% (2023 est.)<br>
-_female_: 14.1% (2023 est.)<br>
+_total_: 16.8% (2024 est.)<br>
+_male_: 18.6% (2024 est.)<br>
+_female_: 14.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -513,23 +507,23 @@ _expenditures_: $234.883 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-92.48% of GDP (2022 est.)<br>
+92.5% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-22.71% (of GDP) (2022 est.)<br>
+22.7% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$5.679 billion (2024 est.)<br>
 -$4.503 billion (2023 est.)<br>
 -$7.031 billion (2022 est.)<br>
-$11.165 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$525.458 billion (2024 est.)<br>
 $542.508 billion (2023 est.)<br>
 $565.233 billion (2022 est.)<br>
-$535.988 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -541,9 +535,9 @@ refined petroleum, natural gas, vaccines, cars, packaged medicine (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$531.029 billion (2024 est.)<br>
 $546.426 billion (2023 est.)<br>
 $573.192 billion (2022 est.)<br>
-$524.617 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -555,18 +549,18 @@ cars, natural gas, vaccines, packaged medicine, crude petroleum (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$22.374 billion (2024 est.)<br>
 $40.813 billion (2023 est.)<br>
 $41.274 billion (2022 est.)<br>
-$41.872 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 
 ## Energy
 
@@ -636,7 +630,7 @@ _domestic_: about 28 per 100 fixed-line and 101 per 100 mobile-cellular; nationw
 _international_: country code - 32; landing points for Concerto, UK-Belgium, Tangerine, and SeaMeWe-3, submarine cables that provide links to Europe, the Middle East, Australia, and Asia; satellite earth stations - 7 (Intelsat - 3) (2019)<br>
 
 **Broadcast media**<br>
-a segmented market with the three major communities (Flemish, French, and German speaking) each having responsibility for their own broadcast media; multiple TV channels exist for each community; additionally, in excess of 90% of households are connected to cable and can access broadcasts of TV stations from neighboring countries; each community has a public radio network coexisting with private broadcasters<br>
+a segmented market with the three major linguistic communities (Flemish-, French-, and German-speaking) each responsible for their own broadcast media; multiple TV channels exist for each community;&nbsp; over 90% of households are connected to cable and can access TV broadcasts from neighboring countries; each community has a public radio network coexisting with private broadcasters<br>
 
 **Internet country code**<br>
 .be<br>
@@ -650,12 +644,6 @@ _subscriptions per 100 inhabitants_: 44 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 7 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 117<br>
-_annual passenger traffic on registered air carriers_: 13,639,487 (2018)<br>
-_annual freight traffic on registered air carriers_: 1,285,340,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 OO<br>
 
@@ -665,18 +653,8 @@ OO<br>
 **Heliports**<br>
 112 (2025)<br>
 
-**Pipelines**<br>
-3,139 km gas, 154 km oil, 535 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 3,602 km (2020) 3,160 km electrified<br>
-
-**Roadways**<br>
-_total_: 118,414 km<br>
-_paved_: 118,414 km (2015) (includes 1,747 km of expressways)<br>
-
-**Waterways**<br>
-2,043 km (2012) (1,528 km in regular commercial use)<br>
 
 **Merchant marine**<br>
 _total_: 198 (2023)<br>

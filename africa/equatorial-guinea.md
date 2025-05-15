@@ -69,7 +69,7 @@ only two large cities over 30,000 people (Bata on the mainland, and the capital 
 <p>violent windstorms; flash floods</p><p><strong>volcanism:</strong> Santa Isabel (3,007 m), which last erupted in 1923, is the country's only historically active volcano; Santa Isabel, along with two dormant volcanoes, form Bioko Island in the Gulf of Guinea</p><br>
 
 **Geography - note**<br>
-insular and continental regions widely separated; despite its name, no part of the Equator passes through Equatorial Guinea; the mainland part of the country is located just north of the Equator<br>
+insular and continental regions widely separated; despite its name, no part of the equator passes through Equatorial Guinea -- the mainland part of the country is located just north of the equator<br>
 
 ## People and Society
 
@@ -98,10 +98,10 @@ _15-64 years_: 59.4% (male 585,139/female 481,121)<br>
 _65 years and over_: 5% (2024 est.) (male 46,610/female 42,800)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 72.2<br>
-_youth dependency ratio_: 66.7<br>
-_elderly dependency ratio_: 5.4<br>
-_potential support ratio_: 18.5 (2021 est.)<br>
+_total dependency ratio_: 68.4 (2024 est.)<br>
+_youth dependency ratio_: 60 (2024 est.)<br>
+_elderly dependency ratio_: 8.4 (2024 est.)<br>
+_potential support ratio_: 11.9 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 22.1 years (2024 est.)<br>
@@ -206,7 +206,7 @@ _female_: 93% (2015)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation (forests are threatened by agricultural expansion, fires, and grazing); desertification; water pollution (tap water is non-potable); wildlife preservation<br>
+deforestation (agricultural expansion, fires, and grazing); desertification; water pollution; tap water non-potable; wildlife preservation<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -226,12 +226,6 @@ _other_: 9.6% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 74.4% of total population (2023)<br>
 _rate of urbanization_: 3.62% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-1.52% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 25.67 micrograms per cubic meter (2019 est.)<br>
@@ -266,7 +260,7 @@ presidential republic<br>
 _name_: Malabo; note - Malabo is on the island of Bioko; some months of the year, the government operates out of Bata on the mainland region.<br>
 _geographic coordinates_: 3 45 N, 8 47 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named after King MALABO (Malabo Lopelo Melaka) (1837&ndash;1937), the last king of the Bubi, the ethnic group indigenous to the island of Bioko<br>
+_etymology_: English settlers who founded the city in 1827 named it Port Clarence after the Duke of CLARENCE; the Spanish renamed it Santa Isabel in 1843, for Queen ISABELLA II of Spain; it was renamed again in 1973 after King MALABO (1837&ndash;1937), the last king of the Bubi (local ethnic group)<br>
 
 **Administrative divisions**<br>
 8 provinces (provincias, singular - provincia); Annobon, Bioko Norte, Bioko Sur, Centro Sur, Djibloho, Kie-Ntem, Litoral, Wele-Nzas<br>
@@ -394,9 +388,9 @@ $12.338 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.79% (2022 est.)<br>
+4.8% (2022 est.)<br>
 -0.1% (2021 est.)<br>
-4.77% (2020 est.)<br>
+4.8% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -426,19 +420,19 @@ petroleum, natural gas, sawmilling<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-645,000 (2023 est.)<br>
+715,000 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-8.67% (2023 est.)<br>
-8.75% (2022 est.)<br>
-9.19% (2021 est.)<br>
+7.8% (2024 est.)<br>
+8.4% (2023 est.)<br>
+8.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.4% (2023 est.)<br>
-_male_: 15.1% (2023 est.)<br>
-_female_: 17.8% (2023 est.)<br>
+_total_: 14.7% (2024 est.)<br>
+_male_: 13.9% (2024 est.)<br>
+_female_: 15.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
@@ -463,9 +457,9 @@ _expenditures_: $1.512 billion (2022 est.)<br>
 -$1.457 billion (2016 est.)<br>
 
 **Exports**<br>
-$6.231 billion (2022 est.)<br>
-$5.851 billion (2021 est.)<br>
-$4.041 billion (2020 est.)<br>
+$4.516 billion (2023 est.)<br>
+$7.25 billion (2022 est.)<br>
+$5.513 billion (2021 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -477,9 +471,9 @@ crude petroleum, natural gas, alcohols, wood, scrap iron (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$4.297 billion (2022 est.)<br>
-$4.351 billion (2021 est.)<br>
-$3.669 billion (2020 est.)<br>
+$3.065 billion (2023 est.)<br>
+$3.948 billion (2022 est.)<br>
+$3.889 billion (2021 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -498,11 +492,11 @@ $44.271 million (2021 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
+606.345 (2024 est.)<br>
 606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
-585.911 (2019 est.)<br>
 
 ## Energy
 
@@ -559,7 +553,7 @@ _domestic_: fixed-line density is less than 1 per 100 persons and mobile-cellula
 _international_: country code - 240;&nbsp;landing points for the ACE, Ceiba-1, and Ceiba-2 submarine&nbsp;cables providing communication from Bata&nbsp;and Malabo, Equatorial Guinea&nbsp;to numerous Western African and European countries; satellite earth station - 1 Intelsat (Indian Ocean) (2019)<br>
 
 **Broadcast media**<br>
-the state maintains control of broadcast media with domestic broadcast media limited to 1 state-owned TV station, 1 private TV station owned by the president's eldest son (who is the Vice President), 1 state-owned radio station, and 1 private radio station owned by the president's eldest son; satellite TV service is available; transmissions of multiple international broadcasters are generally accessible (2019)<br>
+the state maintains control of broadcast media; 1 state-owned TV station, 1 private TV station owned by the president's eldest son, 1 state-owned radio station, and 1 private radio station owned by the president's eldest son; satellite TV service is available; transmissions of multiple international broadcasters are generally accessible (2019)<br>
 
 **Internet country code**<br>
 .gq<br>
@@ -573,23 +567,11 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 6 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 15<br>
-_annual passenger traffic on registered air carriers_: 466,435 (2018)<br>
-_annual freight traffic on registered air carriers_: 350,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 3C<br>
 
 **Airports**<br>
 7 (2025)<br>
-
-**Pipelines**<br>
-42 km condensate, 5 km condensate/gas, 79 km gas, 71 km oil (2013)<br>
-
-**Roadways**<br>
-_total_: 2,880 km (2017)<br>
 
 **Merchant marine**<br>
 _total_: 53 (2023)<br>
@@ -607,7 +589,7 @@ _key ports_: Bata, Ceiba Terminal, Cogo, Luba, Malabo, Punta Europa Terminal, Se
 ## Military and Security
 
 **Military and security forces**<br>
-Equatorial Guinea Armed Forces (Fuerzas Armadas de Guinea Ecuatorial, FAGE): Equatorial Guinea National Guard (Guardia Nacional de Guinea Ecuatorial, GNGE (Army)), Navy, Air Force; Gendarmerie (Guardia Civil) (2024)<br>
+Equatorial Guinea Armed Forces (Fuerzas Armadas de Guinea Ecuatorial, FAGE): Army, Navy, Air Force; Gendarmerie (Guardia Civil) (2025)<br>
 <strong>note:</strong> the National Police report to the Ministry of National Security, while the Gendarmerie reports to the Ministry of National Defense; police generally are responsible for maintaining law and order in the cities, while gendarmes are responsible for security outside cities and for special events<br>
 
 **Military expenditures**<br>
@@ -618,7 +600,7 @@ Equatorial Guinea Armed Forces (Fuerzas Armadas de Guinea Ecuatorial, FAGE): Equ
 1.5% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 1,500 active-duty troops (2024)<br>
+estimated 2,000 active military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAGE is armed with mostly older (typically Soviet-era) and second-hand weapons systems; in recent years, it has sought to modernize its naval inventory with purchases of vessels from several countries, including Bulgaria and Israel; China and Russia have also supplied some equipment to the FAGE (2024)<br>

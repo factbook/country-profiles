@@ -102,10 +102,10 @@ _15-64 years_: 62.9% (male 1,903,315/female 1,856,615)<br>
 _65 years and over_: 20.8% (2024 est.) (male 575,153/female 670,242)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 57.3<br>
-_youth dependency ratio_: 25.4<br>
-_elderly dependency ratio_: 31.9<br>
-_potential support ratio_: 3.1 (2021 est.)<br>
+_total dependency ratio_: 57.2 (2024 est.)<br>
+_youth dependency ratio_: 24.7 (2024 est.)<br>
+_elderly dependency ratio_: 32.5 (2024 est.)<br>
+_potential support ratio_: 3.1 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 42.2 years (2024 est.)<br>
@@ -231,7 +231,7 @@ _female_: 19 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution, principally from vehicle and power plant emissions; nitrogen and phosphorus pollution of the North Sea; drinking and surface water becoming polluted from animal wastes and pesticides; much of country's household and industrial waste is recycled<br>
+air pollution, principally from vehicle and power-plant emissions; nitrogen and phosphorus pollution of the North Sea; water pollution from animal wastes and pesticides<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -251,12 +251,6 @@ _other_: 18.6% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 88.5% of total population (2023)<br>
 _rate of urbanization_: 0.54% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.02% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 9.66 micrograms per cubic meter (2019 est.)<br>
@@ -297,7 +291,7 @@ _name_: Copenhagen<br>
 _geographic coordinates_: 55 40 N, 12 35 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October; note - applies to continental Denmark only, not to its North Atlantic components<br>
-_etymology_: name derives from the city's Danish appellation Kobenhavn, meaning "Merchant's Harbor"<br>
+_etymology_: name derives from the Danish words <em>køber </em>(merchant or buyer) and <em>havn </em>(harbor or port)<br>
 
 **Administrative divisions**<br>
 metropolitan Denmark - 5 regions (regioner, singular - region); Hovedstaden (Capital), Midtjylland (Central Jutland), Nordjylland (North Jutland), Sjaelland (Zealand), Syddanmark (Southern Denmark)<br>
@@ -418,9 +412,9 @@ $407.092 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-3.31% (2023 est.)<br>
+1.4% (2024 est.)<br>
+3.3% (2023 est.)<br>
 7.7% (2022 est.)<br>
-1.85% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -456,19 +450,19 @@ wind turbines, pharmaceuticals, medical equipment, shipbuilding and refurbishmen
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.183 million (2023 est.)<br>
+3.207 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.14% (2023 est.)<br>
-4.43% (2022 est.)<br>
-5.04% (2021 est.)<br>
+5.6% (2024 est.)<br>
+5.1% (2023 est.)<br>
+4.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.7% (2023 est.)<br>
-_male_: 12% (2023 est.)<br>
-_female_: 11.3% (2023 est.)<br>
+_total_: 12.1% (2024 est.)<br>
+_male_: 12.3% (2024 est.)<br>
+_female_: 11.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -504,7 +498,7 @@ _expenditures_: $130.785 billion (2022 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-30.42% (of GDP) (2022 est.)<br>
+31.4% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -542,18 +536,18 @@ natural gas, cars, garments, packaged medicine, refined petroleum (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$103.239 billion (2024 est.)<br>
 $109.371 billion (2023 est.)<br>
 $96.073 billion (2022 est.)<br>
-$82.236 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Danish kroner (DKK) per US dollar -<br>
+6.894 (2024 est.)<br>
 6.89 (2023 est.)<br>
 7.076 (2022 est.)<br>
 6.287 (2021 est.)<br>
 6.542 (2020 est.)<br>
-6.669 (2019 est.)<br>
 
 ## Energy
 
@@ -616,7 +610,7 @@ _domestic_: fixed-line roughly 12 per 100 and about 124 per 100 for mobile-cellu
 _international_: country code - 45; landing points for the NSC, COBRAcable, CANTAT-3, DANICE, Havfrue/AEC-2, TAT-14m Denmark-Norway-5 &amp; 6, Skagenfiber West &amp; East, GC1, GC2, GC3, GC-KPN, Kattegat 1 &amp; 2 &amp; 3, Energinet Lyngsa-Laeso, Energinet Laeso-Varberg, Fehmarn Balt, Baltica, German-Denmark 2 &amp; 3, Ronne-Rodvig, Denmark-Sweden 15 &amp; 16 &amp; 17 &amp; 18, IP-Only Denmark-Sweden, Scandinavian South, Scandinavian Ring North, Danica North, 34 series of fiber-optic submarine cables link Denmark with Canada, Faroe Islands, Germany, Iceland, Netherlands, Norway, Poland, Russia, Sweden, US, and UK; satellite earth stations - 18 (6 Intelsat, 10 Eutelsat, 1 Orion, 1 Inmarsat (Blaavand-Atlantic-East)); note - the Nordic countries (Denmark, Finland, Iceland, Norway, and Sweden) share the Danish earth station and the Eik, Norway, station for worldwide Inmarsat access (2019)<br>
 
 **Broadcast media**<br>
-strong public-sector TV presence with state-owned Danmarks Radio (DR) operating 6 channels and publicly owned TV2 operating roughly a half-dozen channels; broadcasts of privately owned stations are available via satellite and cable feed; DR operates 4 nationwide FM radio stations, 10 digital audio broadcasting stations, and 14 web-based radio stations; 140 commercial and 187 community (non-commercial) radio stations (2019)<br>
+strong public-sector TV presence, with Danmarks Radio (DR) operating 6 channels and TV2 operating roughly a half-dozen channels; private stations are available via satellite and cable feed; DR operates 4 FM radio stations, 10 digital audio stations, and 14 web-based radio stations; 140 commercial and 187 community (non-commercial) radio stations (2019)<br>
 
 **Internet country code**<br>
 .dk<br>
@@ -630,12 +624,6 @@ _subscriptions per 100 inhabitants_: 44 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 10 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 76<br>
-_annual passenger traffic on registered air carriers_: 582,011 (2015)<br>
-_annual freight traffic on registered air carriers_: mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 OY<br>
 
@@ -645,17 +633,8 @@ OY<br>
 **Heliports**<br>
 29 (2025)<br>
 
-**Pipelines**<br>
-1,536 km gas, 330 km oil (2015)<br>
-
 **Railways**<br>
 _total_: 2,682 km (2020) 876 km electrified<br>
-
-**Roadways**<br>
-_total_: 73,591 km (2022)<br>
-
-**Waterways**<br>
-400 km (2010)<br>
 
 **Merchant marine**<br>
 _total_: 715 (2023)<br>

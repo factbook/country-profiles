@@ -58,7 +58,7 @@ _other_: 100% (2022 est.)<br>
 occasional earthquakes<br>
 
 **Geography - note**<br>
-landlocked; an enclave in Rome, Italy; world's smallest state; beyond the territorial boundary of Vatican City, the Lateran Treaty of 1929 grants the Holy See extraterritorial authority over 23 sites in Rome and five outside of Rome, including the Pontifical Palace at Castel Gandolfo (the Pope's summer residence)<br>
+landlocked; an enclave in Rome, Italy; world's smallest state<br>
 
 ## People and Society
 
@@ -136,7 +136,7 @@ _name_: Vatican City<br>
 _geographic coordinates_: 41 54 N, 12 27 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the term "Vatican" derives from the hill Mons Vaticanus on which the Vatican is located and which comes from the Latin "vaticinari" (to prophesy), referring to the fortune tellers and soothsayers who frequented the area in Roman times<br>
+_etymology_: the name derives from the hill called Mons Vaticanus, on which the Vatican is located and which comes from the Latin <em>vates </em>(prophet), referring to the fortune tellers and soothsayers who frequented the area in Roman times<br>
 
 **Administrative divisions**<br>
 none<br>
@@ -148,7 +148,7 @@ none<br>
 Election Day of Pope FRANCIS, 13 March (2013)<br>
 
 **Legal system**<br>
-religious legal system based on canon (religious) law<br>
+religious system based on canon (religious) law<br>
 
 **Constitution**<br>
 _history_: previous 1929, 2000; latest issued by Pope FRANCIS 13 May 2023, effective 7 June 2023 (Fundamental Law of Vatican City State, the main governing document of the Vatican's civil entities); the Roman Curia is the administrative apparatus &ndash; the departments and ministries &ndash; used by the pontiff in governing the church<br>
@@ -168,11 +168,11 @@ _residency requirement for naturalization_: not applicable<br>
 election of the pope is limited to cardinals less than 80 years old<br>
 
 **Executive branch**<br>
-_chief of state_: Pope FRANCIS (since 13 March 2013)<br>
+_chief of state_: Pope LEO XIV (since 8 May 2025)<br>
 _head of government_: President of the Pontifical Commission for the State of Vatican City and President of the Governorate of the Vatican City State Fernando VERGEZ ALZAGA (since 1 October 2021)<br>
 _cabinet_: Pontifical Commission for the State of Vatican City appointed by the pope<br>
-_elections/appointments_: pope elected by the College of Cardinals, usually for life or until voluntary resignation; election last held on 13 March 2013 after the resignation of Pope BENEDICT XVI (next to be held after the death or resignation of the current pope); Secretary of State appointed by the pope<br>
-_election results_: <em><br>2013:</em> Jorge Mario BERGOGLIO, former Archbishop of Buenos Aires, elected Pope FRANCIS<br>
+_elections/appointments_: pope elected by the College of Cardinals, usually for life or until voluntary resignation; Secretary of State appointed by the pope<br>
+_election results_: <em>2025: </em>Robert PREVOST elected Pope LEO XIV<em><br><br></em><br>
 
 **Legislative branch**<br>
 _legislature name_: Pontifical Commission for the State of Vatican City (Pontificia Commissione per lo Stato della Citta del Vaticano)<br>
@@ -257,7 +257,7 @@ _domestic_: the telephone system operates through an automatic digital exchange 
 _international_: country code - 39; uses Italian system<br>
 
 **Broadcast media**<br>
-the Vatican Television Center (CTV) transmits live broadcasts of the Pope's Sunday and Wednesday audiences, as well as the Pope's public celebrations; CTV also produces documentaries; Vatican Radio is the Holy See's official broadcasting service broadcasting via shortwave, AM and FM frequencies, and via satellite and Internet connections; Vatican News website partners with Vatican Radio and provides Catholic news provided by the Vatican (2021)<br>
+the Vatican Television Center (CTV) transmits live broadcasts of the Pope's weekly audiences, as well as his public celebrations; CTV also produces documentaries; Vatican Radio is the official broadcasting service via shortwave, AM, and FM frequencies, as well as satellite and web; Vatican News website partners with Vatican Radio and provides Catholic news from the Vatican (2021)<br>
 
 **Internet country code**<br>
 .va<br>

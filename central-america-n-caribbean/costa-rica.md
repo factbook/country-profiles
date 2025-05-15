@@ -100,10 +100,10 @@ _15-64 years_: 70.2% (male 1,862,872/female 1,832,024)<br>
 _65 years and over_: 11.1% (2024 est.) (male 266,568/female 315,589)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 45.1<br>
-_youth dependency ratio_: 29.8<br>
-_elderly dependency ratio_: 15.3<br>
-_potential support ratio_: 6.5 (2021 est.)<br>
+_total dependency ratio_: 42.5 (2024 est.)<br>
+_youth dependency ratio_: 26.8 (2024 est.)<br>
+_elderly dependency ratio_: 15.8 (2024 est.)<br>
+_potential support ratio_: 6.3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 35.5 years (2024 est.)<br>
@@ -228,7 +228,7 @@ _female_: 17 years (2019)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation and land use change, largely a result of the clearing of land for cattle ranching and agriculture; soil erosion; coastal marine pollution; fisheries protection; solid waste management; air pollution<br>
+deforestation, largely from clearing land for cattle ranching and agriculture; soil erosion; coastal marine pollution; fisheries protection; solid waste management; air pollution<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -248,12 +248,6 @@ _other_: 5.3% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 82.6% of total population (2023)<br>
 _rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.82% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 14.7 micrograms per cubic meter (2019 est.)<br>
@@ -289,7 +283,7 @@ presidential republic<br>
 _name_: San Jos&eacute;<br>
 _geographic coordinates_: 9 56 N, 84 05 W<br>
 _time difference_: UTC-6 (1 hour behind Washington, DC, during Standard Time)<br>
-_etymology_: named in honor of Saint Joseph<br>
+_etymology_: Spanish settlers originally named the city Villa Nueva in 1736; it was later renamed for Saint Joseph<br>
 
 **Administrative divisions**<br>
 7 provinces (provincias, singular - provincia); Alajuela, Cartago, Guanacaste, Heredia, Limon, Puntarenas, San Jose<br>
@@ -301,7 +295,7 @@ _etymology_: named in honor of Saint Joseph<br>
 Independence Day, 15 September (1821)<br>
 
 **Legal system**<br>
-civil law system based on Spanish civil code; judicial review of legislative acts in the Supreme Court<br>
+civil law system based on Spanish civil code; Supreme Court reviews legislative acts<br>
 
 **Constitution**<br>
 _history_: many previous; latest effective 8 November 1949<br>
@@ -355,7 +349,7 @@ _chief of mission_: Ambassador Catalina CRESPO SANCHO (since 19 April 2023)<br>
 _chancery_: 2114 S Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 499-2980<br>
 _FAX_: [1] (202) 265-4795<br>
-_email address and website_: <br>embcr-us@rree.go.cr<br><br>http://www.costarica-embassy.org/index.php?q=node/21<br>
+_email address and website_: <br>embcr-us@rree.go.cr<br>https://www.embassycr.org/<br>
 _consulate(s) general_: Atlanta, Houston, Los Angeles, Miami, New York, Washington DC<br>
 
 **Diplomatic representation from the US**<br>
@@ -381,6 +375,9 @@ _lyrics/music_: Jose Maria ZELEDON Brenes/Manuel Maria GUTIERREZ<br>
 **National heritage**<br>
 _total World Heritage Sites_: 4 (1 cultural, 3 natural)<br>
 _selected World Heritage Site locales_: Guanacaste Conservation Area (n); Cocos Island National Park (n); Precolumbian Stone Spheres (c); La Amistad International Park (n)<br>
+
+**National coat of arms**<br>
+<p>The Costa Rican coat of arms highlights the country’s natural beauty and history. Three volcanoes, each topped with a white cloud, are surrounded with water, symbolizing the seaports of the Pacific and Atlantic Oceans. The rising sun in the background commemorates the birth of a new nation, and the seven white stars stand for the country's seven provinces. The two merchant ships carrying Costa Rica’s flag are a reminder of the maritime trade that shaped the country's history.</p> <p> </p><br>
 
 ## Economy
 
@@ -410,9 +407,9 @@ $86.498 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-0.53% (2023 est.)<br>
-8.27% (2022 est.)<br>
-1.73% (2021 est.)<br>
+-0.4% (2024 est.)<br>
+0.5% (2023 est.)<br>
+8.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -448,19 +445,19 @@ medical equipment, food processing, textiles and clothing, construction material
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.372 million (2023 est.)<br>
+2.357 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+7.8% (2024 est.)<br>
 8.3% (2023 est.)<br>
-11.33% (2022 est.)<br>
-15.14% (2021 est.)<br>
+11.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24.1% (2023 est.)<br>
-_male_: 21% (2023 est.)<br>
-_female_: 28.3% (2023 est.)<br>
+_total_: 23% (2024 est.)<br>
+_male_: 20.7% (2024 est.)<br>
+_female_: 26.2% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -495,11 +492,11 @@ _expenditures_: $19.799 billion (2022 est.)<br>
 71.11% of GDP (2022 est.)<br>
 
 **Taxes and other revenues**<br>
-14.35% (of GDP) (2022 est.)<br>
+13.9% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.238 billion (2023 est.)<br>
+-$1.239 billion (2023 est.)<br>
 -$2.272 billion (2022 est.)<br>
 -$2.063 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
@@ -533,22 +530,22 @@ refined petroleum, plastic products, cars, medical instruments, broadcasting equ
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$14.177 billion (2024 est.)<br>
 $13.225 billion (2023 est.)<br>
 $8.554 billion (2022 est.)<br>
-$6.921 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$15.89 billion (2023 est.)<br>
+$15.574 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Costa Rican colones (CRC) per US dollar -<br>
+515.11 (2024 est.)<br>
 544.051 (2023 est.)<br>
 647.136 (2022 est.)<br>
 620.785 (2021 est.)<br>
 584.901 (2020 est.)<br>
-587.295 (2019 est.)<br>
 
 ## Energy
 
@@ -602,7 +599,7 @@ _domestic_: roughly 11 per 100 fixed-line and 152 per 100 mobile-cellular (2021)
 _international_: country code - 506; landing points for the ARCOS-1, MAYA-1, and the&nbsp;PAC submarine cables that provide links to South and Central America, parts of the Caribbean, and the US; connected to Central American Microwave System; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-over two dozen privately owned TV stations and 1 publicly owned TV station nationwide; cable network services are widely available; more than 100 privately owned radio stations and a public radio network (2022)<br>
+over two dozen privately owned TV stations and 1 publicly owned TV station; cable network services are widely available; more than 100 privately owned radio stations and a public radio network (2022)<br>
 
 **Internet country code**<br>
 .cr<br>
@@ -616,12 +613,6 @@ _subscriptions per 100 inhabitants_: 23 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 39<br>
-_annual passenger traffic on registered air carriers_: 1,948,546 (2018)<br>
-_annual freight traffic on registered air carriers_: 11.13 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 TI<br>
 
@@ -631,19 +622,10 @@ TI<br>
 **Heliports**<br>
 8 (2025)<br>
 
-**Pipelines**<br>
-662 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 278 km (2014)<br>
 _narrow gauge_: 278 km (2014) 1.067-m gauge<br>
 <strong>note:</strong> the entire rail network fell into disrepair and out of use at the end of the 20th century; since 2005, certain sections of rail have been rehabilitated<br>
-
-**Roadways**<br>
-_total_: 5,035 km (2017)<br>
-
-**Waterways**<br>
-730 km (2011) (seasonally navigable by small craft)<br>
 
 **Merchant marine**<br>
 _total_: 11 (2023)<br>
@@ -672,7 +654,7 @@ no regular military forces; Ministry of Public Security (Ministerio de Seguridad
 0.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 15,000 Ministry of Public Security personnel (2024)<br>
+approximately 10-15,000 Ministry of Public Security personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the National Police are lightly armed although small special units are trained and equipped for tactical operations; the US has provided equipment and support to forces such the Coast Guard, including secondhand US vessels and aircraft (2024)<br>

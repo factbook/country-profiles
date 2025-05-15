@@ -101,10 +101,10 @@ _15-64 years_: 55.8% (male 3,699,721/female 3,568,163)<br>
 _65 years and over_: 2.8% (2024 est.) (male 157,505/female 208,426)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 99.4<br>
-_youth dependency ratio_: 94.2<br>
-_elderly dependency ratio_: 5.2<br>
-_potential support ratio_: 19.3 (2021 est.)<br>
+_total dependency ratio_: 100.9 (2024 est.)<br>
+_youth dependency ratio_: 97.6 (2024 est.)<br>
+_elderly dependency ratio_: 3.2 (2024 est.)<br>
+_potential support ratio_: 30.8 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 19.1 years (2024 est.)<br>
@@ -203,7 +203,7 @@ _women married by age 18_: 35.5%<br>
 _men married by age 18_: 5.6% (2020 est.)<br>
 
 **Education expenditures**<br>
-0.3% of GDP (2019) NA<br>
+0.3% of GDP (2019)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -213,7 +213,7 @@ _female_: NA<br>
 ## Environment
 
 **Environment - current issues**<br>
-water scarcity; contaminated water contributes to human health problems; improper waste disposal; deforestation; land degradation; overgrazing; soil erosion; desertification<br>
+water scarcity; contaminated water; improper waste disposal; deforestation; land degradation; overgrazing; soil erosion; desertification<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection<br>
@@ -264,7 +264,7 @@ _conventional short form_: Somalia<br>
 _local long form_: Jamhuuriyadda Federaalka Soomaaliya (Somali)/ Jumhuriyat as Sumal al Fidiraliyah (Arabic)<br>
 _local short form_: Soomaaliya (Somali)/ As Sumal (Arabic)<br>
 _former_: British Somaliland, Italian Somaliland, Somali Republic, Somali Democratic Republic<br>
-_etymology_: "Land of the Somali" (ethnic group)<br>
+_etymology_: the name means "Land of the Somali," a local ethnic group; the origin of the group's name is unclear but may come from 1) a Cushitic word meaning "dark," 2) the local phrase <em>soo mal</em>, meaning "go and milk" (referring to offering guests milk), 3) the name of a local chief, or 4) the Arabic <em>zamla</em>, meaning "cattle"<br>
 
 **Government type**<br>
 federal parliamentary republic<br>
@@ -273,7 +273,7 @@ federal parliamentary republic<br>
 _name_: Mogadishu<br>
 _geographic coordinates_: 2 04 N, 45 20 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: several theories attempt to explain the city's name; one of the more plausible is that it derives from "maq'ad-i-shah" meaning "the seat of the shah," reflecting the city's links with Persia<br>
+_etymology_: the name is probably derived from the Arabic word <em>mukaddas</em>, meaning "holy"<br>
 
 **Administrative divisions**<br>
 18 regions (plural - gobollo, singular - gobol); Awdal, Bakool, Banaadir, Bari, Bay, Galguduud, Gedo, Hiiraan, Jubbada Dhexe (Middle Jubba), Jubbada Hoose (Lower Jubba), Mudug, Nugaal, Sanaag, Shabeellaha Dhexe (Middle Shabeelle), Shabeellaha Hoose (Lower Shabeelle), Sool, Togdheer, Woqooyi Galbeed<br>
@@ -285,7 +285,7 @@ _etymology_: several theories attempt to explain the city's name; one of the mor
 Foundation of the Somali Republic, 1 July (1960); note - 26 June (1960) in Somaliland<br>
 
 **Legal system**<br>
-mixed legal system of civil law, Islamic (sharia) law, and customary law (referred to as Xeer)<br>
+mixed system of civil law, Islamic (sharia) law, and customary law (referred to as Xeer)<br>
 
 **Constitution**<br>
 _history_: previous 1961, 1979; latest drafted 12 June 2012, adopted 1 August 2012&nbsp;<br>
@@ -425,19 +425,19 @@ light industries, including sugar refining, textiles, wireless communication<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.339 million (2023 est.)<br>
+3.439 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-19.03% (2023 est.)<br>
-19.13% (2022 est.)<br>
-19.55% (2021 est.)<br>
+18.9% (2024 est.)<br>
+18.9% (2023 est.)<br>
+19% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 34.3% (2023 est.)<br>
-_male_: 32.4% (2023 est.)<br>
-_female_: 37.4% (2023 est.)<br>
+_total_: 33.9% (2024 est.)<br>
+_male_: 32.1% (2024 est.)<br>
+_female_: 37% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -457,7 +457,7 @@ _female_: 37.4% (2023 est.)<br>
 76.7% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-0% (of GDP) (2020 est.)<br>
+0% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -465,7 +465,10 @@ _female_: 37.4% (2023 est.)<br>
 -$427 million (2016 est.)<br>
 
 **Exports**<br>
-$819 million (2014 est.)<br>
+$2.164 billion (2023 est.)<br>
+$1.804 billion (2022 est.)<br>
+$1.532 billion (2021 est.)<br>
+<strong>note:</strong> GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 UAE 35%, Saudi Arabia 27%, Oman 18%, Djibouti 8%, India 3% (2023)<br>
@@ -476,8 +479,10 @@ sheep and goats, gold, postage stamps/documents, other animals, cattle (2023)<br
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$94.43 billion (2018 est.)<br>
-$80.07 billion (2017 est.)<br>
+$8.002 billion (2023 est.)<br>
+$7.456 billion (2022 est.)<br>
+$5.969 billion (2021 est.)<br>
+<strong>note:</strong> GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 UAE 29%, China 19%, India 15%, Turkey 8%, Oman 5% (2023)<br>
@@ -491,7 +496,8 @@ raw sugar, tobacco, broadcasting equipment, rice, milk (2023)<br>
 $30.45 million (2014 est.)<br>
 
 **Debt - external**<br>
-$2.743 billion (2023 est.)<br>
+$2.563 billion (2023 est.)<br>
+<strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Somali shillings (SOS) per US dollar -<br>
@@ -499,6 +505,7 @@ _Currency_: Somali shillings (SOS) per US dollar -<br>
 23,061.784 (2016 est.)<br>
 22,254.236 (2015 est.)<br>
 20,230.929 (2014 est.)<br>
+19,283.8 (2013 est.)<br>
 
 ## Energy
 
@@ -550,7 +557,7 @@ _domestic_: fixed-line is 1 per 100 and mobile-cellular is 50 per 100 (2022)<br>
 _international_: country code - 252; landing points for the G2A, DARE1, PEACE, and EASSy fiber-optic submarine cable system linking East Africa, Indian Ocean Islands, the Middle East, North Africa&nbsp;and&nbsp;Europe (2019)<br>
 
 **Broadcast media**<br>
-2 private TV stations rebroadcast Al-Jazeera and CNN; Somaliland has 1 government-operated TV station and Puntland has 1 private TV station; the transitional government operates Radio Mogadishu; 1 SW and roughly 10 private FM radio stations broadcast in Mogadishu; several radio stations operate in central and southern regions; Somaliland has 1 government-operated radio station; Puntland has roughly a half-dozen private radio stations; transmissions of at least 2 international broadcasters are available (2019)<br>
+2 private TV stations rebroadcast Al-Jazeera and CNN; 1 state-operated TV station and 1 private TV station; state-operated Radio Mogadishu; 1 SW and roughly 10 private FM radio stations in Mogadishu; several radio stations in central and southern regions; transmissions of at least 2 international broadcasters available (2019)<br>
 
 **Internet country code**<br>
 .so<br>
@@ -564,19 +571,11 @@ _subscriptions per 100 inhabitants_: 1 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 6 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 7<br>
-_annual passenger traffic on registered air carriers_: 4,486 (2018)<br>
-
 **Civil aircraft registration country code prefix**<br>
 6O<br>
 
 **Airports**<br>
 40 (2025)<br>
-
-**Roadways**<br>
-_total_: 15,000 km (2013)<br>
 
 **Merchant marine**<br>
 _total_: 4 (2023)<br>
@@ -594,8 +593,8 @@ _key ports_: Baraawe, Berbera, Boosaaso, Kismaayo, Marka, Muqdisho<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Somali National Armed Forces (SNAF; aka Somali National Defense Force): Land Forces (Somali National Army or SNA), Somali Navy, Somali Air Force<br><br>Ministry of Internal Security: Somali National Police (SNP, includes Coast Guard and a commando unit known as Harmacad or Cheetah) <br><br>National Security and Intelligence Agency (includes a commando/counterterrorism unit) (2024)<br>
-<strong>note 1: </strong> the Somali Navy and Air Force have only a few hundred personnel, little equipment, and are not operational; in early 2024, Somalia signed an agreement with Turkey to build, train and equip the Somali Navy<br><br><strong>note 2:</strong> Somalia has numerous militia ("macawisley") and regional forces operating throughout the country; these forces include ones that are clan- and warlord-based, semi-official paramilitary and special police forces ("darwish"), and externally sponsored militias<br><br><strong>note 3: </strong>Somaliland and Puntland have separate military and security forces<br>
+Somali Armed Forces (SAF; aka Somali Defense Force): Somali National Army (SNA; aka Land Forces), Somali Navy, Somali Air Force<br><br>Ministry of Internal Security: Somali National Police (SNP, includes Coast Guard, commando unit) (2024)<br>
+<strong>note 1:</strong> Somalia has numerous militia ("macawisley") and regional/state forces operating throughout the country; these forces include ones that are clan- and warlord-based, semi-official paramilitary and special police forces ("darwish"), and externally sponsored militias<br><br><strong>note 2: </strong>Somaliland and Puntland have separate military, security, and paramilitary forces<br>
 
 **Military expenditures**<br>
 6% of GDP (2021 est.)<br>
@@ -605,7 +604,7 @@ Somali National Armed Forces (SNAF; aka Somali National Defense Force): Land For
 5.9% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 20,000 regular military personnel (2024)<br>
+estimated 20,000 regular military personnel (2025)<br>
 <strong>note: </strong>tens of thousands of militia forces are also active in Somalia<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -615,7 +614,7 @@ the SNA's inventory includes a variety of mostly older, secondhand equipment lar
 18 is the legal minimum age for voluntary military service for men and women; conscription of men aged 18-40 and women aged 18-30 is authorized, but not currently utilized (2023)<br>
 
 **Military - note**<br>
-the Somali National Army (SNA) is a lightly armed force of more than a dozen brigades; its most effective units are assessed to be the US-trained Danab ("Lightning") Advanced Infantry Brigade and those of the Turkish-trained Gorgor ("Eagle") Special Division; SNA soldiers have also received training from Egypt, Eritrea, Ethiopia, the EU, Uganda, and the UK; the SNA and supporting security and militia forces are actively conducting operations against the al-Shabaab terrorist group; al-Shabaab controls large parts of southern and central Somalia<br><br>the African Union Mission in Somalia (AMISOM) operated in the country with the approval of the UN from 2007-2022; its mission included assisting Somali forces in providing security for a stable political process, enabling the gradual handing over of security responsibilities from AMISOM to the Somali security forces, and reducing the threat posed by al-Shabaab and other armed opposition groups; in April 2022, AMISOM was reconfigured and replaced with the AU Transition Mission in Somalia (ATMIS); the ATMIS mission was to support the Somalia Federal Government (FGS) in implementing the security objectives of the FGS's security transition plan, a comprehensive strategy developed by the FGS and its international partners in 2018 and updated in 2021 to gradually transfer security responsibilities from ATMIS to Somali security forces; originally about 20,000-strong (civilians, military, and police), ATMIS began reducing its staffing levels in mid-2023 and ended its mission at the end of 2024; the follow-on force for ATMIS, the Support and Stabilization Mission in Somalia (AUSSOM) was formed in January 2025 and was slated to have about 12,000 personnel, including soldiers, police and civilian support staff (2025)<br>
+the Somali National Army (SNA) is a lightly armed force of more than a dozen brigades; its most effective units are assessed to be the US-trained Danab ("Lightning") Advanced Infantry Brigade and those of the Turkish-trained Gorgor ("Eagle") Special Division; SNA soldiers have also received training from Egypt, Eritrea, Ethiopia, the EU, Uganda, and the UK; the SNA and supporting security and militia forces are actively conducting operations against the al-Shabaab terrorist group; al-Shabaab controls large parts of southern and central Somalia<br><br>the African Union Mission in Somalia (AMISOM) operated in the country with the approval of the UN from 2007-2022; its mission included assisting Somali forces in providing security for a stable political process, enabling the gradual handing over of security responsibilities from AMISOM to the Somali security forces, and reducing the threat posed by al-Shabaab and other armed opposition groups; in April 2022, AMISOM was reconfigured and replaced with the AU Transition Mission in Somalia (ATMIS); the ATMIS mission was to support the Somalia Federal Government (FGS) in implementing the security objectives of the FGS's security transition plan, a comprehensive strategy developed by the FGS and its international partners in 2018 and updated in 2021 to gradually transfer security responsibilities from ATMIS to Somali security forces; originally about 20,000-strong (civilians, military, and police), ATMIS began reducing its staffing levels in mid-2023 and ended its mission at the end of 2024; the follow-on force for ATMIS, the Support and Stabilization Mission in Somalia (AUSSOM) was formed in January 2025 and slated to have about 12,000 personnel, including soldiers, police and civilian support staff (2025)<br>
 
 ## Terrorism
 

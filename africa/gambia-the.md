@@ -105,10 +105,10 @@ _15-64 years_: 58.1% (male 723,360/female 743,127)<br>
 _65 years and over_: 3.7% (2024 est.) (male 40,658/female 52,401)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 85<br>
-_youth dependency ratio_: 80.5<br>
-_elderly dependency ratio_: 4.5<br>
-_potential support ratio_: 22.2 (2021 est.)<br>
+_total dependency ratio_: 72.1 (2024 est.)<br>
+_youth dependency ratio_: 65.7 (2024 est.)<br>
+_elderly dependency ratio_: 6.3 (2024 est.)<br>
+_potential support ratio_: 15.8 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 20.2 years (2024 est.)<br>
@@ -255,12 +255,6 @@ _other_: 14.5% (2022 est.)<br>
 _urban population_: 64.5% of total population (2023)<br>
 _rate of urbanization_: 3.75% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-2.47% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 39.1 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 0.53 megatons (2016 est.)<br>
@@ -297,7 +291,7 @@ presidential republic<br>
 _name_: Banjul<br>
 _geographic coordinates_: 13 27 N, 16 34 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: Banjul is located on Saint Mary's Island at the mouth of the Gambia River; the Mandinka used to gather fibrous plants on the island for the manufacture of ropes; "bang julo" is Mandinka for "rope fiber"; mispronunciation over time caused the term became the word Banjul<br>
+_etymology_: the name derives from a misunderstanding between Portuguese colonists and inhabitants in the 15th century; when asked what the area was called, the inhabitants thought they were being asked what they were doing and replied, "<em>bangjulo," or</em> "rope making"<br>
 
 **Administrative divisions**<br>
 5 regions, 1 city*, and 1 municipality**; Banjul*, Central River, Kanifing**, Lower River, North Bank, Upper River, West Coast<br>
@@ -309,7 +303,7 @@ _etymology_: Banjul is located on Saint Mary's Island at the mouth of the Gambia
 Independence Day, 18 February (1965)<br>
 
 **Legal system**<br>
-mixed legal system of English common law, Islamic law, and customary law<br>
+mixed system of English common law, Islamic law, and customary law<br>
 
 **Constitution**<br>
 _history_: previous 1965 (Independence Act), 1970; latest adopted 8 April 1996, approved by referendum 8 August 1996, effective 16 January 1997<br>
@@ -416,9 +410,9 @@ $2.396 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-16.97% (2023 est.)<br>
-11.51% (2022 est.)<br>
-7.37% (2021 est.)<br>
+17% (2023 est.)<br>
+11.5% (2022 est.)<br>
+7.4% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -448,19 +442,19 @@ peanuts, fish, hides, tourism, beverages, agricultural machinery assembly, woodw
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-973,000 (2023 est.)<br>
+783,100 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.48% (2023 est.)<br>
-6.08% (2022 est.)<br>
-6.21% (2021 est.)<br>
+6.5% (2024 est.)<br>
+6.5% (2023 est.)<br>
+6.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.6% (2023 est.)<br>
-_male_: 10.9% (2023 est.)<br>
-_female_: 10.4% (2023 est.)<br>
+_total_: 10.9% (2024 est.)<br>
+_male_: 10.9% (2024 est.)<br>
+_female_: 10.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -534,7 +528,7 @@ $652.671 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$971.426 million (2023 est.)<br>
+$902.421 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -588,7 +582,7 @@ _domestic_: fixed-line subscriptions are 2 per 100 and&nbsp; mobile-cellular tel
 _international_: country code - 220; landing point for the ACE submarine cable to West Africa and Europe; microwave radio relay links to Senegal and Guinea-Bissau;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-<p>1 state-run TV-channel; one privately-owned TV-station; 1 Online TV-station; three state-owned radio station and 31 privately owned radio stations; eight community radio stations; transmissions of multiple international broadcasters are available, some via shortwave radio; cable and satellite TV subscription services are obtainable in some parts of the country </p> (2019)<br>
+<p>1 state-run TV-channel; one privately owned TV station; 1 online TV station; 3 state-owned and 31 privately owned radio stations; 8 community radio stations; transmissions of multiple international broadcasters are available; cable and satellite TV subscription services in some parts of the country </p> (2019)<br>
 
 **Internet country code**<br>
 .gm<br>
@@ -602,24 +596,11 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 6<br>
-_annual passenger traffic on registered air carriers_: 53,735 (2018)<br>
-
 **Civil aircraft registration country code prefix**<br>
 C5<br>
 
 **Airports**<br>
 1 (2025)<br>
-
-**Roadways**<br>
-_total_: 2,977 km<br>
-_paved_: 518 km<br>
-_unpaved_: 2,459 km (2011)<br>
-
-**Waterways**<br>
-390 km (2010) (on River Gambia; small oceangoing vessels can reach 190 km)<br>
 
 **Merchant marine**<br>
 _total_: 15 (2023)<br>
@@ -648,7 +629,7 @@ Gambian Armed Forces (GAF; aka Armed Forces of the Gambia): the Gambian National
 0.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 3,000 military personnel (2023)<br>
+estimated 3,000-4,000 active military personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military of Gambia has a limited inventory of mostly older, obsolescent, or donated equipment originating from several suppliers, including Taiwan, Turkey, the UK, and the US (2024)<br>

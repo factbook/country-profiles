@@ -98,10 +98,10 @@ _15-64 years_: 65.9% (male 21,480/female 22,456)<br>
 _65 years and over_: 16.7% (2024 est.) (male 5,054/female 6,051)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 32.6<br>
-_youth dependency ratio_: 22.3<br>
-_elderly dependency ratio_: 10.4<br>
-_potential support ratio_: 9.6 (2021)<br>
+_total dependency ratio_: 51.7 (2024 est.)<br>
+_youth dependency ratio_: 26.4 (2024 est.)<br>
+_elderly dependency ratio_: 25.3 (2024 est.)<br>
+_potential support ratio_: 4 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 41.2 years (2024 est.)<br>
@@ -185,7 +185,7 @@ _female_: 99% (2021) NA<br>
 ## Environment
 
 **Environment - current issues**<br>
-no natural freshwater resources; drinking water supplies are met by reverse osmosis desalination plants and rainwater catchment; trash washing up on the beaches or being deposited there by residents; no recycling or waste treatment facilities; deforestation (trees being cut down to create space for commercial use)<br>
+no natural freshwater resources; trash washing up or being deposited on beaches; no recycling or waste-treatment facilities; deforestation&nbsp;<br>
 
 **Climate**<br>
 tropical marine; warm, rainy summers (May to October) and cool, relatively dry winters (November to April)<br>
@@ -201,12 +201,6 @@ _other_: 36.1% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 1.13% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _carbon dioxide emissions_: 0.55 megatons (2016 est.)<br>
@@ -233,7 +227,7 @@ overseas territory of the UK<br>
 _name_: George Town (on Grand Cayman)<br>
 _geographic coordinates_: 19 18 N, 81 23 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
-_etymology_: named after English King GEORGE III (1738-1820)<br>
+_etymology_: originally named Hogstyes, the town was renamed in honor of English King GEORGE III (1738-1820) around 1800<br>
 
 **Administrative divisions**<br>
 6 districts; Bodden Town, Cayman Brac and Little Cayman, East End, George Town, North Side, West Bay<br>
@@ -258,7 +252,7 @@ see United Kingdom<br>
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Jane OWEN (since 21 April 2023)<br>
-_head of government_: Premier Juliana O'CONNOR-CONNOLLY (since 15 November 2023)<br>
+_head of government_: Premier Andr&eacute; Martin EBANKS (since 6 May 2025)<br>
 _cabinet_: Cabinet selected from the Parliament and appointed by the governor on the advice of the premier<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition appointed premier by the governor<br>
 
@@ -302,6 +296,9 @@ _name_: "Beloved Isle Cayman"<br>
 _lyrics/music_: Leila E. ROSS<br>
 <strong>note:</strong> adopted 1993; served as an unofficial anthem since 1930; as an overseas territory of the United Kingdom, in addition to the local anthem, "God Save the King" is official (see United Kingdom)<br>
 
+**National coat of arms**<br>
+<p>The Cayman Islands is a British dependency, and the Queen of England approved its coat of arms – which was designed with input from the public -- in 1958. The shield features the<em> </em>lion of England and three green stars that symbolize the three islands of Grand Cayman, Cayman Brac, and Little Cayman. The green turtle recalls the islands’ seafaring history, and the rope under it refers to the thatch rope industry. The pineapple references historical ties with Jamaica. The motto comes from Psalms 24, acknowledging the Caymans’ Christian heritage.</p> <p> </p><br>
+
 ## Economy
 
 **Economic overview**<br>
@@ -331,8 +328,8 @@ $7.139 billion (2023 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2% (2017 est.)<br>
--0.63% (2016 est.)<br>
--2.35% (2015 est.)<br>
+-0.6% (2016 est.)<br>
+-2.3% (2015 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -363,11 +360,6 @@ tourism, banking, insurance and finance, construction, construction materials, f
 **Industrial production growth rate**<br>
 3.45% (2022 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
-
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.8% (2015 est.)<br>
-_male_: 16.4%<br>
-_female_: 11.4%<br>
 
 **Remittances**<br>
 0.14% of GDP (2023 est.)<br>
@@ -424,11 +416,11 @@ $228.3 million (2021 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Caymanian dollars (KYD) per US dollar -<br>
+0.833 (2024 est.)<br>
 0.833 (2023 est.)<br>
 0.833 (2022 est.)<br>
 0.833 (2021 est.)<br>
 0.833 (2020 est.)<br>
-0.833 (2019 est.)<br>
 
 ## Energy
 
@@ -471,7 +463,7 @@ _domestic_: 53 per 100 fixed-line and 150 per 100 mobile-cellular (2021)<br>
 _international_: country code - 1-345; landing points for the Maya-1, Deep Blue Cable, and the Cayman-Jamaica Fiber System submarine cables that provide links to the US and parts of Central and South America; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-4 TV stations; cable and satellite subscription services offer a variety of international programming; government-owned Radio Cayman operates 2 networks broadcasting on 5 stations; 10 privately owned radio stations operate alongside Radio Cayman<br>
+4 TV stations; cable and satellite subscription services offer&nbsp; international programming; government-owned Radio Cayman operates 2 networks broadcasting on 5 stations; 10 privately owned radio stations operate alongside Radio Cayman<br>
 
 **Internet country code**<br>
 .ky<br>
@@ -485,10 +477,6 @@ _subscriptions per 100 inhabitants_: 56 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 6<br>
-
 **Civil aircraft registration country code prefix**<br>
 VP-C<br>
 
@@ -497,10 +485,6 @@ VP-C<br>
 
 **Heliports**<br>
 5 (2025)<br>
-
-**Roadways**<br>
-_total_: 785 km<br>
-_paved_: 785 km (2007)<br>
 
 **Merchant marine**<br>
 _total_: 130 (2023)<br>

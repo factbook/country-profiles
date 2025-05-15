@@ -104,10 +104,10 @@ _15-64 years_: 68.4% (male 1,087,487/female 1,156,547)<br>
 _65 years and over_: 5.9% (2024 est.) (male 78,242/female 116,590)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 58.4<br>
-_youth dependency ratio_: 51.4<br>
-_elderly dependency ratio_: 7<br>
-_potential support ratio_: 14.3 (2021 est.)<br>
+_total dependency ratio_: 59.1 (2024 est.)<br>
+_youth dependency ratio_: 50.2 (2024 est.)<br>
+_elderly dependency ratio_: 8.9 (2024 est.)<br>
+_potential support ratio_: 11.2 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 31.5 years (2024 est.)<br>
@@ -237,7 +237,7 @@ _female_: 16 years (2019)<br>
 ## Environment
 
 **Environment - current issues**<br>
-limited natural freshwater resources in some areas; the burning of soft coal in power plants and the lack of enforcement of environmental laws leads to air pollution in Ulaanbaatar; deforestation and overgrazing increase soil erosion from wind and rain; water pollution; desertification and mining activities have a deleterious effect on the environment<br>
+limited natural freshwater resources in some areas; air pollution from coal-burning power plants and lax regulations in Ulaanbaatar; soil erosion from deforestation and overgrazing; water pollution; desertification; effects from mining&nbsp;<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
@@ -257,12 +257,6 @@ _other_: 19% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 69.1% of total population (2023)<br>
 _rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.14% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-8.62% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 41.3 micrograms per cubic meter (2019 est.)<br>
@@ -306,7 +300,7 @@ _geographic coordinates_: 47 55 N, 106 55 E<br>
 _time difference_: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Saturday in March; ends last Saturday in September<br>
 _time zone note_: Mongolia has two time zones - Ulaanbaatar Time (8 hours in advance of UTC) and Hovd Time (7 hours in advance of UTC)<br>
-_etymology_: the name means "red hero" in Mongolian and honors national hero Damdin SUKHBAATAR, leader of the partisan army that with Soviet Red Army help, liberated Mongolia from Chinese occupation in the early 1920s<br>
+_etymology_: the name means "red hero" in Mongolian and honors national hero Damdin SUKHBAATAR, leader of the partisan army that, with Soviet help, liberated Mongolia from Chinese occupation in the early 1920s<br>
 
 **Administrative divisions**<br>
 21 provinces (aymguud, singular - aymag) and 1 municipality* (singular - hot); Arhangay, Bayanhongor, Bayan-Olgiy, Bulgan, Darhan-Uul, Dornod, Dornogovi, Dundgovi, Dzavhan (Zavkhan), Govi-Altay, Govisumber, Hentiy, Hovd, Hovsgol, Omnogovi, Orhon, Ovorhangay, Selenge, Suhbaatar, Tov, Ulaanbaatar*, Uvs<br>
@@ -318,7 +312,7 @@ _etymology_: the name means "red hero" in Mongolian and honors national hero Dam
 Naadam (games) holiday (commemorates independence from China in the 1921 Revolution), 11-15 July; Constitution Day (marks the date that the Mongolian People's Republic was created under a new constitution), 26 November (1924)<br>
 
 **Legal system**<br>
-civil law system influenced by Soviet and Romano-Germanic legal systems; constitution ambiguous on judicial review of legislative acts<br>
+civil law system influenced by Soviet and Romano-Germanic systems; constitution ambiguous on judicial review of legislative acts<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 13 January 1992, effective 12 February 1992<br>
@@ -425,9 +419,9 @@ $20.325 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-10.35% (2023 est.)<br>
-15.15% (2022 est.)<br>
-7.35% (2021 est.)<br>
+6.8% (2024 est.)<br>
+10.3% (2023 est.)<br>
+15.1% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -463,19 +457,19 @@ construction and construction materials; mining (coal, copper, molybdenum, fluor
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.409 million (2023 est.)<br>
+1.449 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.13% (2023 est.)<br>
-6.21% (2022 est.)<br>
-7.75% (2021 est.)<br>
+5.4% (2024 est.)<br>
+5.5% (2023 est.)<br>
+6.2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.4% (2023 est.)<br>
-_male_: 10.3% (2023 est.)<br>
-_female_: 12.9% (2023 est.)<br>
+_total_: 13.8% (2024 est.)<br>
+_male_: 15.9% (2024 est.)<br>
+_female_: 10.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -503,11 +497,11 @@ _expenditures_: $4.845 billion (2021 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-67.57% of GDP (2021 est.)<br>
+67.6% of GDP (2021 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-16.91% (of GDP) (2021 est.)<br>
+16.9% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -545,22 +539,22 @@ cars, trucks, trailers, tractors, construction vehicles (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$4.786 billion (2023 est.)<br>
+$4.891 billion (2024 est.)<br>
+$4.916 billion (2023 est.)<br>
 $3.398 billion (2022 est.)<br>
-$4.38 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$8.894 billion (2023 est.)<br>
+$8.379 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: togrog/tugriks (MNT) per US dollar -<br>
+3,389.982 (2024 est.)<br>
 3,465.737 (2023 est.)<br>
 3,140.678 (2022 est.)<br>
 2,849.289 (2021 est.)<br>
 2,813.29 (2020 est.)<br>
-2,663.541 (2019 est.)<br>
 
 ## Energy
 
@@ -615,7 +609,7 @@ _domestic_: fixed-line teledensity of 12 per 100; mobile-cellular subscribership
 _international_: country code - 976; satellite earth stations - 7 (2016)<br>
 
 **Broadcast media**<br>
-following a law passed in 2005, Mongolia's state-run radio and TV provider converted to a public service provider; also available are 68 radio and 160 TV stations, including multi-channel satellite and cable TV providers; transmissions of multiple international broadcasters are available (2019)<br>
+state-run radio and TV provider is now a public-service provider; also available are 68 radio and 160 TV stations, including multi-channel satellite and cable TV providers; transmissions of multiple international broadcasters are available (2019)<br>
 
 **Internet country code**<br>
 .mn<br>
@@ -629,12 +623,6 @@ _subscriptions per 100 inhabitants_: 15 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 4 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 12<br>
-_annual passenger traffic on registered air carriers_: 670,360 (2018)<br>
-_annual freight traffic on registered air carriers_: 7.82 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 JU<br>
 
@@ -646,14 +634,6 @@ _total_: 1,815 km (2017)<br>
 _broad gauge_: 1,815 km (2017) 1.520-m gauge<br>
 <strong>note:</strong> national operator Ulaanbaatar Railway is jointly owned by the Mongolian Government and by the Russian State Railway<br>
 
-**Roadways**<br>
-_total_: 113,200 km<br>
-_paved_: 10,600 km<br>
-_unpaved_: 102,600 km (2017)<br>
-
-**Waterways**<br>
-580 km (2010) (the only waterway in operation is Lake Hovsgol) (135 km); Selenge River (270 km) and Orhon River (175 km) are navigable but carry little traffic; lakes and rivers ice-free from May to September)<br>
-
 **Merchant marine**<br>
 _total_: 318 (2023)<br>
 _by type_: bulk carrier 8, container ship 8, general cargo 151, oil tanker 58, other 93<br>
@@ -662,7 +642,7 @@ _by type_: bulk carrier 8, container ship 8, general cargo 151, oil tanker 58, o
 
 **Military and security forces**<br>
 Mongolian Armed Forces (MAF): Land Force, Air Force, Cyber Security Forces, Special Forces, Construction-Engineering Forces (2025)<br>
-<strong>note: </strong>the National Police Agency and the General Authority for Border Protection, which operate under the Ministry of Justice and Home Affairs, are primarily responsible for internal security; they are assisted by the General Intelligence Agency under the prime minister; the MAF assists the internal security forces in providing domestic emergency assistance and disaster relief<br>
+<strong>note: </strong>the National Police Agency and the General Authority for Border Protection, which operate under the Ministry of Justice and Home Affairs, are primarily responsible for internal security; they are assisted by the General Intelligence Agency under the prime minister<br>
 
 **Military expenditures**<br>
 0.6% of GDP (2023 est.)<br>
@@ -672,7 +652,7 @@ Mongolian Armed Forces (MAF): Land Force, Air Force, Cyber Security Forces, Spec
 0.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; estimated 10,000 active troops (2023)<br>
+information varies; estimated 10-20,000 active MAF troops (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the MAF's inventory is comprised largely of Soviet-era and Russian equipment (2024)<br>
@@ -685,7 +665,7 @@ the MAF's inventory is comprised largely of Soviet-era and Russian equipment (20
 <strong>note:</strong> since 2002, Mongolia has deployed more than 20,000 peacekeepers and observers to UN operations in more than a dozen countries<br>
 
 **Military - note**<br>
-the Mongolian Armed Forces (MAF) are responsible for ensuring the country's independence, security, and territorial integrity, and supporting Mongolia's developmental goals and diplomacy; it has a range of missions, including counterterrorism, disaster response, and international peacekeeping duties; the Ground Force is the military’s primary service and is centered on a motorized infantry brigade; it also has a battalion devoted to peacekeeping duties and hosts an annual international peacekeeping exercise known as “Khaan Quest”; Mongolia’s primary military partner is Russia, and in addition to receiving Russian military equipment, the MAF participates in Russia’s large “Vostok” exercise, which is conducted every four years; the MAF has a growing relationship with the US military<br><br>Mongolia has been engaged in dialogue and cooperation with NATO since 2005 and is considered by NATO to be a global partner; Mongolia supported the NATO-led Kosovo Force from 2005-2007 and contributed troops to the NATO-led International Security Assistance Force in Afghanistan from 2009-2014, as well as to the follow-on Resolute Support Mission that provided training, advice, and other assistance to the Afghan security forces (2015-2021) (2023)<br>
+the Mongolian Armed Forces (MAF) are responsible for ensuring the country's independence, security, and territorial integrity, as well as supporting Mongolia's developmental goals and diplomacy; it has a range of missions, including assisting the internal security forces in providing emergency aid and disaster relief, counterterrorism, and international peacekeeping duties; the Ground Force is the military’s primary service and is centered on a motorized infantry brigade; it also has a battalion devoted to peacekeeping duties and hosts an annual international peacekeeping exercise known as “Khaan Quest”; Mongolia’s primary military partner is Russia, and in addition to receiving Russian military equipment, the MAF participates in Russia’s large “Vostok” exercise, which is conducted every four years; the MAF has a relationship with the US military<br><br>Mongolia actively cooperates with NATO on issues such as counterterrorism, nonproliferation, and cybersecurity through an Individual Partnership and Cooperation Program; it supported the NATO-led Kosovo Force from 2005-2007 and contributed troops to the NATO-led International Security Assistance Force in Afghanistan from 2009-2014, as well as to the follow-on Resolute Support Mission that provided training, advice, and other assistance to the Afghan security forces (2015-2021); Mongolia also is an observer in the Russia- and People's Republic of China-led Shanghai Cooperation Organization (2025)<br>
 
 ## Transnational Issues
 

@@ -71,7 +71,7 @@ three-quarters of the population lives in rural areas; the urban populace lives 
 <p>tropical cyclones (January to April); volcanic eruption on Aoba (Ambae) island began on 27 November 2005, volcanism also causes minor earthquakes; tsunamis</p><p><strong>volcanism:</strong> significant volcanic activity with multiple eruptions in recent years; Yasur (361 m), one of the world's most active volcanoes, has experienced continuous activity in recent centuries; other historically active volcanoes include Aoba, Ambrym, Epi, Gaua, Kuwae, Lopevi, Suretamatai, and Traitor's Head</p><br>
 
 **Geography - note**<br>
-a Y-shaped chain of four main islands and 80 smaller islands; several of the islands have active volcanoes and there are several underwater volcanoes as well<br>
+a Y-shaped chain of four main islands and 80 smaller islands; several of the islands have active volcanoes, including several underwater volcanoes<br>
 
 ## People and Society
 
@@ -100,10 +100,10 @@ _15-64 years_: 63.8% (male 99,496/female 103,425)<br>
 _65 years and over_: 5% (2024 est.) (male 7,852/female 8,175)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 76.5<br>
-_youth dependency ratio_: 69.9<br>
-_elderly dependency ratio_: 12.3<br>
-_potential support ratio_: 15.2 (2021 est.)<br>
+_total dependency ratio_: 56.7 (2024 est.)<br>
+_youth dependency ratio_: 48.8 (2024 est.)<br>
+_elderly dependency ratio_: 7.9 (2024 est.)<br>
+_potential support ratio_: 12.7 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 24.6 years (2024 est.)<br>
@@ -216,7 +216,7 @@ _female_: 88.4% (2021)<br>
 ## Environment
 
 **Environment - current issues**<br>
-population growth; water pollution, most of the population does not have access to a reliable supply of potable water; inadequate sanitation; deforestation<br>
+water pollution; limited potable water; inadequate sanitation; deforestation<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -236,12 +236,6 @@ _other_: 48.4% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 26% of total population (2023)<br>
 _rate of urbanization_: 2.55% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.54% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 8.42 micrograms per cubic meter (2019 est.)<br>
@@ -264,7 +258,7 @@ _conventional short form_: Vanuatu<br>
 _local long form_: Ripablik blong Vanuatu<br>
 _local short form_: Vanuatu<br>
 _former_: New Hebrides<br>
-_etymology_: derived from the words "vanua" (home or land) and "tu" (stand) that occur in several of the Austonesian languages spoken on the islands and which provide a meaning of "the land remains" but which also convey a sense of "independence" or "our land"<br>
+_etymology_: the name means "Our land forever" in several of the Austronesian languages spoken on the islands; the former name, New Hebrides, was given by Captain James COOK in 1774 because he thought they looked similar to the Hebrides islands off the coast of Scotland<br>
 
 **Government type**<br>
 parliamentary republic<br>
@@ -273,7 +267,7 @@ parliamentary republic<br>
 _name_: Port-Vila (on Efate)<br>
 _geographic coordinates_: 17 44 S, 168 19 E<br>
 _time difference_: UTC+11 (16 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: there are two possibilities for the origin of the name: early European settlers were Portuguese and "vila" means "village or town" in Portuguese, hence "Port-Vila" would mean "Port Town"; alternatively, the site of the capital is referred to as "Efil" or "Ifira" in native languages, "Vila" is a likely corruption of these names<br>
+_etymology_: the local name of Vila is sometimes used alone for the the port town; its meaning is unknown<br>
 
 **Administrative divisions**<br>
 6 provinces; Malampa, Penama, Sanma, Shefa, Tafea, Torba<br>
@@ -285,7 +279,7 @@ _etymology_: there are two possibilities for the origin of the name: early Europ
 Independence Day, 30 July (1980)<br>
 
 **Legal system**<br>
-mixed legal system of English common law, French law, and customary law<br>
+mixed system of English common law, French law, and customary law<br>
 
 **Constitution**<br>
 _history_: draft completed August 1979, finalized by constitution conference 19 September 1979, ratified by French and British Governments 23 October 1979, effective 30 July 1980 at independence<br>
@@ -390,9 +384,9 @@ $1.126 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-6.68% (2022 est.)<br>
-2.34% (2021 est.)<br>
-5.33% (2020 est.)<br>
+11.2% (2023 est.)<br>
+6.7% (2022 est.)<br>
+2.3% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -422,19 +416,19 @@ food and fish freezing, wood processing, meat canning<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-137,000 (2023 est.)<br>
+118,100 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+5.1% (2024 est.)<br>
 5.1% (2023 est.)<br>
-5.17% (2022 est.)<br>
-4.73% (2021 est.)<br>
+5.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.7% (2023 est.)<br>
-_male_: 8.9% (2023 est.)<br>
-_female_: 13% (2023 est.)<br>
+_total_: 11.6% (2024 est.)<br>
+_male_: 9.6% (2024 est.)<br>
+_female_: 14% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -462,10 +456,10 @@ _expenditures_: $325.587 million (2021 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-87.07% of GDP (2021 est.)<br>
+71.7% of GDP (2023 est.)<br>
 
 **Taxes and other revenues**<br>
-15.88% (of GDP) (2021 est.)<br>
+17.4% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -509,16 +503,16 @@ $664.751 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$329.915 million (2023 est.)<br>
+$299.746 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: vatu (VUV) per US dollar -<br>
-119.113 (2023 est.)<br>
+119.112 (2023 est.)<br>
 115.354 (2022 est.)<br>
-109.453 (2021 est.)<br>
+109.452 (2021 est.)<br>
 115.38 (2020 est.)<br>
-114.733 (2019 est.)<br>
+114.732 (2019 est.)<br>
 
 ## Energy
 
@@ -565,7 +559,7 @@ _domestic_: fixed-line teledensity is 1 per 100 and mobile-cellular 78 per 100 (
 _international_: country code - 678; landing points for the ICN1 &amp; ICN2 submarine cables providing connectivity to the Solomon Islands and Fiji; cables helped end-users with Internet bandwidth; satellite earth station - 1 Intelsat (Pacific Ocean) (2020)<br>
 
 **Broadcast media**<br>
-1 state-owned TV station; multi-channel pay TV is available; state-owned Radio Vanuatu operates 2 radio stations; 2 privately owned radio broadcasters (Capital FM 107 and Laef FM); programming from multiple international broadcasters is available (2023)<br>
+1 state-owned TV station; multi-channel pay TV available; state-owned Radio Vanuatu has 2 radio stations; 2 privately owned radio broadcasters; multiple international broadcasts available (2023)<br>
 
 **Internet country code**<br>
 .vu<br>
@@ -579,20 +573,11 @@ _subscriptions per 100 inhabitants_: 1 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 8<br>
-_annual passenger traffic on registered air carriers_: 374,603 (2018)<br>
-_annual freight traffic on registered air carriers_: 1.66 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 YJ<br>
 
 **Airports**<br>
 31 (2025)<br>
-
-**Roadways**<br>
-_total_: 2,958 km (2023)<br>
 
 **Merchant marine**<br>
 _total_: 338 (2023)<br>
@@ -610,11 +595,11 @@ _key ports_: Forari Bay, Luganville, Port Vila<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Ministry of Internal Affairs: Vanuatu Police Force (VPF) (2024)<br>
-<strong>note:</strong> the VPF includes the Vanuatu Mobile Force (VMF) and Police Maritime Wing (VPMW); the paramilitary VMF also has external security responsibilities<br>
+no regular military forces; Vanuatu Police Force (VPF) (2025)<br>
+<strong>note:</strong> the VPF includes the paramilitary Vanuatu Mobile Force (VMF) and Police Maritime Wing (VMW); the VMF has external security responsibilities<br>
 
 **Military - note**<br>
-the separate British and French police forces were unified in 1980 as the New Hebrides Constabulary, which was commanded by Ni-Vanuatu officers while retaining some British and French officers as advisors; the Constabulary was subsequently renamed the Vanuatu Police Force later in 1980<br><br>the Vanuatu Mobile Force has received training and other support from Australia, China, France, New Zealand, and the US<br><br>Vanuatu has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Vanuatu's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>
+the separate British and French police forces were unified in 1980 as the New Hebrides Constabulary, which was commanded by Ni-Vanuatu officers while retaining some British and French officers as advisors; the Constabulary was subsequently renamed the Vanuatu Police Force later in 1980<br><br>the Vanuatu Mobile Force has received training and other support from Australia, China, France, New Zealand, and the US<br><br>Vanuatu has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Vanuatu's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2025)<br>
 
 ## Transnational Issues
 

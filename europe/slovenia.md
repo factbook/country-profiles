@@ -100,10 +100,10 @@ _15-64 years_: 62.5% (male 683,573/female 627,788)<br>
 _65 years and over_: 23.2% (2024 est.) (male 213,619/female 272,433)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 55.5<br>
-_youth dependency ratio_: 23.6<br>
-_elderly dependency ratio_: 31.9<br>
-_potential support ratio_: 3.1 (2021 est.)<br>
+_total dependency ratio_: 58.5 (2024 est.)<br>
+_youth dependency ratio_: 22.8 (2024 est.)<br>
+_elderly dependency ratio_: 35.7 (2024 est.)<br>
+_potential support ratio_: 2.8 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 46.3 years (2024 est.)<br>
@@ -226,7 +226,7 @@ _female_: 18 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution from road traffic, domestic heating (wood buring), power generation, and industry; water pollution; biodiversity protection<br>
+air pollution from road traffic, domestic heating (wood burning), power generation, and industry; water pollution; biodiversity protection<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -246,12 +246,6 @@ _other_: 8.4% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 56.1% of total population (2023)<br>
 _rate of urbanization_: 0.54% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.2% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.03% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 14.08 micrograms per cubic meter (2019 est.)<br>
@@ -286,7 +280,7 @@ _conventional short form_: Slovenia<br>
 _local long form_: Republika Slovenija<br>
 _local short form_: Slovenija<br>
 _former_: People's Republic of Slovenia, Socialist Republic of Slovenia<br>
-_etymology_: the country's name means "Land of the Slavs" in Slovene<br>
+_etymology_: the country's name means "Land of the Slavs" in Slovene; the origin of the Slav name is unclear, although early forms were used in Medieval Latin (Sclavus) and Byzantine Greek (Sklabos)<br>
 
 **Government type**<br>
 parliamentary republic<br>
@@ -296,7 +290,7 @@ _name_: Ljubljana<br>
 _geographic coordinates_: 46 03 N, 14 31 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: likely related to the Slavic root "ljub", meaning "to like" or "to love"; by tradition, the name is related to the Slovene word "ljubljena" meaning "beloved"<br>
+_etymology_: by tradition, the name is related to the Slovene word <em>ljubljena</em>, meaning "beloved," but the origin is probably pre-Slavic and remains obscure<br>
 
 **Administrative divisions**<br>
 <p>200 municipalities (obcine, singular - obcina) and 12 urban municipalities (mestne obcine, singular - mestna obcina)</p> <p><strong>municipalities:</strong> Ajdovscina, Ankaran, Apace, Beltinci, Benedikt, Bistrica ob Sotli, Bled, Bloke, Bohinj, Borovnica, Bovec, Braslovce, Brda, Brezice, Brezovica, Cankova, Cerklje na Gorenjskem, Cerknica, Cerkno, Cerkvenjak, Cirkulane, Crensovci, Crna na Koroskem, Crnomelj, Destrnik, Divaca, Dobje, Dobrepolje, Dobrna, Dobrova-Polhov Gradec, Dobrovnik/Dobronak, Dolenjske Toplice, Dol pri Ljubljani, Domzale, Dornava, Dravograd, Duplek, Gorenja Vas-Poljane, Gorisnica, Gorje, Gornja Radgona, Gornji Grad, Gornji Petrovci, Grad, Grosuplje, Hajdina, Hoce-Slivnica, Hodos, Horjul, Hrastnik, Hrpelje-Kozina, Idrija, Ig, Ilirska Bistrica, Ivancna Gorica, Izola/Isola, Jesenice, Jezersko, Jursinci, Kamnik, Kanal ob Soci, Kidricevo, Kobarid, Kobilje, Kocevje, Komen, Komenda, Kosanjevica na Krki, Kostel, Kozje, Kranjska Gora, Krizevci, Kungota, Kuzma, Lasko, Lenart, Lendava/Lendva, Litija, Ljubno, Ljutomer, Log-Dragomer, Logatec, Loska Dolina, Loski Potok, Lovrenc na Pohorju, Luce, Lukovica, Majsperk, Makole, Markovci, Medvode, Menges, Metlika, Mezica, Miklavz na Dravskem Polju, Miren-Kostanjevica, Mirna, Mirna Pec, Mislinja, Mokronog-Trebelno, Moravce, Moravske Toplice, Mozirje, Muta, Naklo, Nazarje, Odranci, Oplotnica, Ormoz, Osilnica, Pesnica, Piran/Pirano, Pivka, Podcetrtek, Podlehnik, Podvelka, Poljcane, Polzela, Postojna, Prebold, Preddvor, Prevalje, Puconci, Race-Fram, Radece, Radenci, Radlje ob Dravi, Radovljica, Ravne na Koroskem, Razkrizje, Recica ob Savinji, Rence-Vogrsko, Ribnica, Ribnica na Pohorju, Rogaska Slatina, Rogasovci, Rogatec, Ruse, Salovci, Selnica ob Dravi, Semic, Sempeter-Vrtojba, Sencur, Sentilj, Sentjernej, Sentjur, Sentrupert, Sevnica, Sezana, Skocjan, Skofja Loka, Skofljica, Slovenska Bistrica, Slovenske Konjice, Smarje pri Jelsah, Smarjeske Toplice, Smartno ob Paki, Smartno pri Litiji, Sodrazica, Solcava, Sostanj, Sredisce ob Dravi, Starse, Store, Straza, Sveta Ana, Sveta Trojica v Slovenskih Goricah, Sveti Andraz v Slovenskih Goricah, Sveti Jurij ob Scavnici, Sveti Jurij v Slovenskih Goricah, Sveti Tomaz, Tabor, Tisina, Tolmin, Trbovlje, Trebnje, Trnovska Vas, Trzic, Trzin, Turnisce, Velika Polana, Velike Lasce, Verzej, Videm, Vipava, Vitanje, Vodice, Vojnik, Vransko, Vrhnika, Vuzenica, Zagorje ob Savi, Zalec, Zavrc, Zelezniki, Zetale, Ziri, Zirovnica, Zrece, Zuzemberk</p> <p><strong>urban municipalities:</strong> Celje, Koper, Kranj, Krsko, Ljubljana, Maribor, Murska Sobota, Nova Gorica, Novo Mesto, Ptuj, Slovenj Gradec, Velenje</p><br>
@@ -427,9 +421,9 @@ $69.148 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-7.45% (2023 est.)<br>
-8.83% (2022 est.)<br>
-1.92% (2021 est.)<br>
+2% (2024 est.)<br>
+7.4% (2023 est.)<br>
+8.8% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -465,19 +459,19 @@ ferrous metallurgy and aluminum products, lead and zinc smelting; electronics (i
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.056 million (2023 est.)<br>
+1.055 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.63% (2023 est.)<br>
-4.01% (2022 est.)<br>
-4.75% (2021 est.)<br>
+3.4% (2024 est.)<br>
+3.7% (2023 est.)<br>
+4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.9% (2023 est.)<br>
-_male_: 9.9% (2023 est.)<br>
-_female_: 9.9% (2023 est.)<br>
+_total_: 9.4% (2024 est.)<br>
+_male_: 10.6% (2024 est.)<br>
+_female_: 7.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -513,19 +507,19 @@ _expenditures_: $24.369 billion (2022 est.)<br>
 <strong>note:</strong> defined by the EU's Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities: currency and deposits, securities other than shares excluding financial derivatives, and loans; general government sector comprises the central, state, local government, and social security funds<br>
 
 **Taxes and other revenues**<br>
-18.18% (of GDP) (2022 est.)<br>
+20.3% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$3.231 billion (2024 est.)<br>
 $3.093 billion (2023 est.)<br>
 -$617.374 million (2022 est.)<br>
-$2.073 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$59.159 billion (2024 est.)<br>
 $57.66 billion (2023 est.)<br>
 $56.51 billion (2022 est.)<br>
-$51.662 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -537,9 +531,9 @@ packaged medicine, cars, refined petroleum, vehicle parts/accessories, plastic p
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$54.583 billion (2024 est.)<br>
 $53.309 billion (2023 est.)<br>
 $55.158 billion (2022 est.)<br>
-$47.997 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -551,18 +545,18 @@ nitrogen compounds, packaged medicine, refined petroleum, cars, vaccines (2023)<
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$2.566 billion (2024 est.)<br>
 $2.37 billion (2023 est.)<br>
 $2.268 billion (2022 est.)<br>
-$2.267 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 
 ## Energy
 
@@ -630,7 +624,7 @@ _domestic_: fixed-line is 32 per 100 and mobile-cellular is 126 per 100 teledens
 _international_: country code - 386 (2016)<br>
 
 **Broadcast media**<br>
-public TV broadcaster, Radiotelevizija Slovenija (RTV), operates a system of national and regional TV stations; 35 domestic commercial TV stations operating nationally, regionally, and locally; about 60% of households are connected to multi-channel cable TV; public radio broadcaster operates 3 national and 4 regional stations; more than 75 regional and local commercial and non-commercial radio stations<br>
+public TV broadcaster, Radiotelevizija Slovenija (RTV), operates a system of national and regional TV stations; 35 commercial TV stations; about 60% of households connected to multi-channel cable TV; public radio broadcaster with 3 national and 4 regional stations; more than 75 regional and local commercial and non-commercial radio stations<br>
 
 **Internet country code**<br>
 .si<br>
@@ -644,12 +638,6 @@ _subscriptions per 100 inhabitants_: 32 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 21<br>
-_annual passenger traffic on registered air carriers_: 1,094,762 (2018)<br>
-_annual freight traffic on registered air carriers_: 540,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 S5<br>
 
@@ -659,17 +647,8 @@ S5<br>
 **Heliports**<br>
 4 (2025)<br>
 
-**Pipelines**<br>
-1,155 km gas, 5 km oil (2018)<br>
-
 **Railways**<br>
 _total_: 1,207 km (2020) 609 km electrified<br>
-
-**Roadways**<br>
-_total_: 38,125 km (2022)<br>
-
-**Waterways**<br>
-710 km (2022) (some transport on the Drava River)<br>
 
 **Merchant marine**<br>
 _total_: 8 (2023)<br>
@@ -687,7 +666,7 @@ _key ports_: Koper, Piran<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Slovenian Armed Forces (Slovenska Vojska, SV): structured as a combined force with air, land, maritime, special operations, combat support, and combat service support elements<br><br>Ministry of Interior: National Police (2024)<br>
+Slovenian Armed Forces (Slovenska Vojska, SV): structured as a combined force with air, land, maritime, and special operations components<br><br>Ministry of Interior: National Police (2025)<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2024 est.)<br>

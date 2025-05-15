@@ -70,7 +70,7 @@ most people live in urban clusters found on many of the country's islands; more 
 infrequent typhoons<br>
 
 **Geography - note**<br>
-the islands of Bikini and Enewetak are former US nuclear test sites; Kwajalein atoll surrounds the world's largest lagoon and is used as a US missile test range; the island city of Ebeye is the second largest settlement in the Marshall Islands, after the capital of Majuro, and one of the most densely populated locations in the Pacific<br>
+Kwajalein atoll surrounds the world's largest lagoon; the island city of Ebeye is the second largest settlement in the Marshall Islands, after the capital of Majuro, and one of the most densely populated locations in the Pacific<br>
 
 ## People and Society
 
@@ -100,10 +100,10 @@ _15-64 years_: 64.3% (male 26,750/female 25,944)<br>
 _65 years and over_: 5.7% (2024 est.) (male 2,293/female 2,414)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 59.9<br>
-_youth dependency ratio_: 53<br>
-_elderly dependency ratio_: 6.8<br>
-_potential support ratio_: 14.7 (2021)<br>
+_total dependency ratio_: 55.6 (2024 est.)<br>
+_youth dependency ratio_: 46.7 (2024 est.)<br>
+_elderly dependency ratio_: 8.9 (2024 est.)<br>
+_potential support ratio_: 11.2 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 25.5 years (2024 est.)<br>
@@ -214,7 +214,7 @@ _female_: 10 years (2019)<br>
 ## Environment
 
 **Environment - current issues**<br>
-inadequate supplies of potable water; pollution of Majuro lagoon from household waste and discharges from fishing vessels; sea level rise<br>
+inadequate potable water; pollution of Majuro lagoon from household waste and discharges from fishing vessels; sea-level rise<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
@@ -234,9 +234,6 @@ _other_: 8.9% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 78.9% of total population (2023)<br>
 _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 7.21 micrograms per cubic meter (2019 est.)<br>
@@ -266,10 +263,11 @@ _etymology_: named after British Captain John MARSHALL, who charted many of the 
 mixed presidential-parliamentary system in free association with the US<br>
 
 **Capital**<br>
-_name_: Majuro; note - the capital is an atoll of 64 islands; governmental buildings are housed on three fused islands on the eastern side of the atoll: Djarrit, Uliga, and Delap<br>
+_name_: Majuro<br>
 _geographic coordinates_: 7 06 N, 171 23 E<br>
 _time difference_: UTC+12 (17 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: Majuro means "two openings" or "two eyes" and refers to the two major northern passages through the atoll into the Majuro lagoon<br>
+_etymology_: Majuro means "two openings" or "two eyes" and refers to the two major passages through the atoll into the Majuro lagoon<br>
+<strong>note:</strong> the capital is an atoll of 64 islands; governmental buildings are housed on three fused islands on the eastern side of the atoll: Djarrit, Uliga, and Delap<br>
 
 **Administrative divisions**<br>
 24 municipalities; Ailinglaplap, Ailuk, Arno, Aur, Bikini &amp; Kili, Ebon, Enewetak &amp; Ujelang, Jabat, Jaluit, Kwajalein, Lae, Lib, Likiep, Majuro, Maloelap, Mejit, Mili, Namorik, Namu, Rongelap, Ujae, Utrik, Wotho, Wotje<br>
@@ -281,7 +279,7 @@ _etymology_: Majuro means "two openings" or "two eyes" and refers to the two maj
 Constitution Day, 1 May (1979)<br>
 
 **Legal system**<br>
-mixed legal system of US and English common law, customary law, and local statutes<br>
+mixed system of US and English common law, customary law, and local statutes<br>
 
 **Constitution**<br>
 _history_: effective 1 May 1979<br>
@@ -448,11 +446,11 @@ _expenditures_: $177.91 million (2018 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-41.56% of GDP (2019 est.)<br>
+41.6% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-17.16% (of GDP) (2020 est.)<br>
+17.2% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -518,7 +516,7 @@ _domestic_: fixed-line roughly 5 per 100 persons and mobile-cellular is nearly 3
 _international_: country code - 692; satellite earth stations - 2 Intelsat (Pacific Ocean); US Government satellite communications system on Kwajalein<br>
 
 **Broadcast media**<br>
-no TV broadcast station; a cable network is available on Majuro with programming via videotape replay and satellite relays; 4 radio broadcast stations; American Armed Forces Radio and Television Service (AFRTS) provides satellite radio and television service to Kwajalein Atoll (2019)<br>
+no TV broadcast station; a cable network is available on Majuro with programming via videotape replay and satellite relays; 4 radio broadcast stations; US Armed Forces Radio and Television Service (AFRTS) provides satellite radio and TV service to Kwajalein Atoll (2019)<br>
 
 **Internet country code**<br>
 .mh<br>
@@ -535,22 +533,11 @@ Kwajalein hosts one of four dedicated ground antennas that assist in the operati
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 3<br>
-_annual passenger traffic on registered air carriers_: 24,313 (2018)<br>
-_annual freight traffic on registered air carriers_: 130,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 V7<br>
 
 **Airports**<br>
 33 (2025)<br>
-
-**Roadways**<br>
-_total_: 2,028 km<br>
-_paved_: 75 km<br>
-_unpaved_: 1,953 km (2007)<br>
 
 **Merchant marine**<br>
 _total_: 4,180 (2023)<br>
@@ -568,7 +555,7 @@ _key ports_: Enitwetak Island, Kwajalein, Majuro Atoll<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; the national police (Marshall Islands Police Department, MIPD), local police forces, and the Sea Patrol (maritime police) are responsible for security; the MIPD and Sea Patrol report to the Ministry of Justice; local police report to their respective local government councils (2024)<br>
+no regular military forces; Marshall Islands Police Department (includes a Sea Patrol Division) (2025)<br>
 
 **Military - note**<br>
 defense is the responsibility of the US; in 1982, the Marshall Islands signed a Compact of Free Association (COFA) with the US, which granted the Marshall Islands financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986, and its funding was renewed in 2003; the Marshall Islands hosts a US Army missile test site <br><br>the Marshall Islands have a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within its designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>

@@ -67,7 +67,7 @@ most of the populace lives in the southern part of the main island, in and aroun
 <p>cyclones, most frequent from November to March</p><p><strong>volcanism:</strong> Matthew and Hunter Islands are historically active</p><br>
 
 **Geography - note**<br>
-consists of the main island of New Caledonia (one of the largest in the Pacific Ocean), the archipelago of Iles Loyaute, and numerous small, sparsely populated islands and atolls<br>
+consists of the main island of New Caledonia (one of the largest in the Pacific Ocean), the archipelago of Iles Loyaut&eacute;, and numerous small, sparsely populated islands and atolls<br>
 
 ## People and Society
 
@@ -96,10 +96,10 @@ _15-64 years_: 68.4% (male 104,825/female 103,349)<br>
 _65 years and over_: 10.8% (2024 est.) (male 14,326/female 18,571)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 49.6<br>
-_youth dependency ratio_: 33.6<br>
-_elderly dependency ratio_: 16<br>
-_potential support ratio_: 6.3 (2021 est.)<br>
+_total dependency ratio_: 46.1 (2024 est.)<br>
+_youth dependency ratio_: 30.3 (2024 est.)<br>
+_elderly dependency ratio_: 15.8 (2024 est.)<br>
+_potential support ratio_: 6.3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 34.3 years (2024 est.)<br>
@@ -227,13 +227,14 @@ _etymology_: the name came from British explorer Captain James COOK in 1774 and 
 parliamentary democracy (Territorial Congress); an overseas collectivity of France<br>
 
 **Dependency status**<br>
-special collectivity (or a sui generis collectivity) of France since 1998; note - independence referenda took place on 4 November 2018, 4 October 2020, and 12 December 2021 with a majority voting in each case to reject independence in favor of maintaining the status quo; an 18-month transition period is now in place (ending 30 June 2023), during which a referendum on the new status of New Caledonia within France will take place&nbsp;<br>
+special collectivity of France<br>
+<strong>note:</strong> independence referenda took place in 2018, 2020, and 2021, with a majority voting in each case to reject independence in favor of the status quo<br>
 
 **Capital**<br>
 _name_: Noumea<br>
 _geographic coordinates_: 22 16 S, 166 27 E<br>
 _time difference_: UTC+11 (16 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: established in 1854 as Port-de-France, the settlement was renamed Noumea in 1866, in order to avoid any confusion with Fort-de-France in Martinique; the New Caledonian language of Ndrumbea (also spelled Ndumbea, Dubea, and Drubea) spoken in the area gave its name to the capital city, Noumea, as well as to the neighboring town (suburb) of Dumbea<br>
+_etymology_: established in 1854 as Port-de-France, the settlement was renamed Noumea in 1866 to avoid confusion with Fort-de-France in Martinique; the name Noumea may come from the local name of the peninsula the city was founded on<br>
 
 **Administrative divisions**<br>
 3 provinces; Province Iles (Islands Province), Province Nord (North Province), and Province Sud (South Province)<br>
@@ -337,8 +338,8 @@ $9.623 billion (2022 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.4% (2017 est.)<br>
-0.58% (2016 est.)<br>
-0.57% (2015 est.)<br>
+0.6% (2016 est.)<br>
+0.6% (2015 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -368,19 +369,19 @@ nickel mining and smelting<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-130,000 (2023 est.)<br>
+130,800 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-11.22% (2023 est.)<br>
-11.29% (2022 est.)<br>
-12.54% (2021 est.)<br>
+11.2% (2024 est.)<br>
+10.9% (2023 est.)<br>
+10.7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 32.6% (2023 est.)<br>
-_male_: 29.8% (2023 est.)<br>
-_female_: 35.7% (2023 est.)<br>
+_total_: 32.7% (2024 est.)<br>
+_male_: 30.2% (2024 est.)<br>
+_female_: 35.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
@@ -395,9 +396,6 @@ _expenditures_: $1.993 billion (2015 est.)<br>
 
 **Public debt**<br>
 6.5% of GDP (2015 est.)<br>
-
-**Taxes and other revenues**<br>
-20.4% (of GDP) (2015 est.)<br>
 
 **Current account balance**<br>
 -$654.237 million (2016 est.)<br>
@@ -435,11 +433,11 @@ refined petroleum, coal, cars, aircraft, packaged medicine (2023)<br>
 
 **Exchange rates**<br>
 _Currency_: Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>
+110.306 (2024 est.)<br>
 110.347 (2023 est.)<br>
 113.474 (2022 est.)<br>
 100.88 (2021 est.)<br>
 104.711 (2020 est.)<br>
-106.589 (2019 est.)<br>
 
 ## Energy
 
@@ -500,18 +498,11 @@ _subscriptions per 100 inhabitants_: 19 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 3 (2020) (registered in France)<br>
-_inventory of registered aircraft operated by air carriers_: 15 (registered in France)<br>
-
 **Airports**<br>
 21 (2025)<br>
 
 **Heliports**<br>
 2 (2025)<br>
-
-**Roadways**<br>
-_total_: 5,622 km (2006)<br>
 
 **Merchant marine**<br>
 _total_: 23 (2023)<br>
@@ -529,10 +520,10 @@ _key ports_: Baie de Kouaoua, Baie Ugue, Noumea<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; France bases land, air, and naval forces on New Caledonia (Forces Arm&eacute;es de la Nouvelle-Cal&eacute;donie, FANC) (2024)<br>
+no regular military forces; Territorial Directorate of the National Police of New Caledonia (DTPN), Gendarmerie of New Caledonia (2025)<br>
 
 **Military - note**<br>
-defense is the responsibility of France<br>
+defense is the responsibility of France, which bases land, air, and naval forces on New Caledonia (Forces Arm&eacute;es de la Nouvelle-Cal&eacute;donie, FANC)<br>
 
 ## Transnational Issues
 

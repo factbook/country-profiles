@@ -80,7 +80,7 @@ most of the country's population resides in the southern half of the country; ap
 seasonally high winds (the pampero is a chilly and occasional violent wind that blows north from the Argentine pampas), droughts, floods; because of the absence of mountains, which act as weather barriers, all locations are particularly vulnerable to rapid changes from weather fronts<br>
 
 **Geography - note**<br>
-second-smallest South American country (after Suriname); most of the low-lying landscape (three-quarters of the country) is grassland, ideal for cattle and sheep raising<br>
+second-smallest South American country (after Suriname); most of the low-lying landscape (three-quarters of the country) is grassland, ideal for cattle and sheep<br>
 
 ## People and Society
 
@@ -110,10 +110,10 @@ _15-64 years_: 65.4% (male 1,112,622/female 1,128,418)<br>
 _65 years and over_: 15.7% (2024 est.) (male 218,242/female 318,855)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.6<br>
-_youth dependency ratio_: 29.9<br>
-_elderly dependency ratio_: 23.7<br>
-_potential support ratio_: 4.2 (2021 est.)<br>
+_total dependency ratio_: 49.1 (2024 est.)<br>
+_youth dependency ratio_: 26.9 (2024 est.)<br>
+_elderly dependency ratio_: 22.2 (2024 est.)<br>
+_potential support ratio_: 4.5 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 36.5 years (2024 est.)<br>
@@ -235,7 +235,7 @@ _female_: 20 years (2019)<br>
 ## Environment
 
 **Environment - current issues**<br>
-water pollution from meat packing, tannery industries; heavy metal pollution; inadequate solid and hazardous waste disposal; deforestation<br>
+water pollution from meat-packing, tannery industries; heavy metal pollution; inadequate solid and hazardous waste disposal; deforestation<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
@@ -255,12 +255,6 @@ _other_: 7.3% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 95.8% of total population (2023)<br>
 _rate of urbanization_: 0.4% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-1.56% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 8.48 micrograms per cubic meter (2019 est.)<br>
@@ -301,7 +295,7 @@ _conventional short form_: Uruguay<br>
 _local long form_: Rep&uacute;blica Oriental del Uruguay<br>
 _local short form_: Uruguay<br>
 _former_: Banda Oriental, Cisplatine Province<br>
-_etymology_: name derives from the Spanish pronunciation of the Guarani Indian designation of the Uruguay River, which makes up the western border of the country and whose name later came to be applied to the entire country<br>
+_etymology_: name derives from the Uruguay River, which makes up the western border of the country; the river's name comes from the Guarani words <em>uru </em>(bird) and <em>guay </em>(tail)<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -310,7 +304,7 @@ presidential republic<br>
 _name_: Montevideo<br>
 _geographic coordinates_: 34 51 S, 56 10 W<br>
 _time difference_: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name "Montevidi" was originally applied to the hill that overlooked the bay upon which the city of Montevideo was founded; the earliest meaning may have been "[the place where we] saw the hill"<br>
+_etymology_: the origin of the name is disputed but refers to a hill or mountain (<em>monte</em>); one theory combines the Spanish word <em>monte </em>(mountain) with the Latin <em>video </em>(I see)<br>
 
 **Administrative divisions**<br>
 19 departments (departamentos, singular - departamento); Artigas, Canelones, Cerro Largo, Colonia, Durazno, Flores, Florida, Lavalleja, Maldonado, Montevideo, Paysand&uacute;, Rio Negro, Rivera, Rocha, Salto, San Jos&eacute;, Soriano, Tacuaremb&oacute;, Treinta y Tres<br>
@@ -445,9 +439,9 @@ $77.241 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-5.87% (2023 est.)<br>
+4.8% (2024 est.)<br>
+5.9% (2023 est.)<br>
 9.1% (2022 est.)<br>
-7.75% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -483,19 +477,19 @@ food processing, electrical machinery, transportation equipment, petroleum produ
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.758 million (2023 est.)<br>
+1.768 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-8.35% (2023 est.)<br>
-7.88% (2022 est.)<br>
-9.3% (2021 est.)<br>
+8.4% (2024 est.)<br>
+8.4% (2023 est.)<br>
+7.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.2% (2023 est.)<br>
-_male_: 24.4% (2023 est.)<br>
-_female_: 28.3% (2023 est.)<br>
+_total_: 26.4% (2024 est.)<br>
+_male_: 23.5% (2024 est.)<br>
+_female_: 29.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -527,22 +521,22 @@ _expenditures_: $18.58 billion (2020 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-60.28% of GDP (2020 est.)<br>
+63% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-18.51% (of GDP) (2020 est.)<br>
+18.8% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$2.579 billion (2023 est.)<br>
--$2.616 billion (2022 est.)<br>
+-$2.576 billion (2023 est.)<br>
+-$2.604 billion (2022 est.)<br>
 -$1.496 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$22.052 billion (2023 est.)<br>
-$23.611 billion (2022 est.)<br>
+$22.005 billion (2023 est.)<br>
+$23.621 billion (2022 est.)<br>
 $19.973 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
@@ -555,8 +549,8 @@ wood pulp, beef, milk, rice, wood (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$19.306 billion (2023 est.)<br>
-$19.406 billion (2022 est.)<br>
+$19.308 billion (2023 est.)<br>
+$19.407 billion (2022 est.)<br>
 $15.448 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
@@ -569,18 +563,18 @@ crude petroleum, refined petroleum, cars, trucks, fertilizers (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$17.369 billion (2024 est.)<br>
 $16.257 billion (2023 est.)<br>
 $15.127 billion (2022 est.)<br>
-$16.963 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Uruguayan pesos (UYU) per US dollar -<br>
+40.213 (2024 est.)<br>
 38.824 (2023 est.)<br>
 41.171 (2022 est.)<br>
 43.555 (2021 est.)<br>
 42.013 (2020 est.)<br>
-35.255 (2019 est.)<br>
 
 ## Energy
 
@@ -638,7 +632,7 @@ _domestic_: fixed-line is 36 per 100 and mobile-cellular teledensity 140 per 100
 _international_: country code - 598; landing points for the Unisor, Tannat, and Bicentenario submarine cable system providing direct connectivity to Brazil and Argentina; the Firmina cable, which landed in 2023, allowed for direct connectivity to the United States; Bicentenario 2012 and Tannat 2017 cables helped end-users with Internet bandwidth; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2020)<br>
 
 **Broadcast media**<br>
-mixture of privately owned and state-run broadcast media; more than 100 commercial radio stations and about 20 TV channels; cable TV is available; many community radio and TV stations; adopted the hybrid Japanese/Brazilian HDTV standard (ISDB-T) in December 2010 (2019)<br>
+mix of privately owned and state-run broadcast media; over 100 commercial radio stations and about 20 TV channels; cable TV is available; many community radio and TV stations; adopted the hybrid Japanese/Brazilian HDTV standard (ISDB-T) in 2010 (2019)<br>
 
 **Internet country code**<br>
 .uy<br>
@@ -652,10 +646,6 @@ _subscriptions per 100 inhabitants_: 32 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 5<br>
-
 **Civil aircraft registration country code prefix**<br>
 CX<br>
 
@@ -665,20 +655,9 @@ CX<br>
 **Heliports**<br>
 4 (2025)<br>
 
-**Pipelines**<br>
-257 km gas, 160 km oil (2013)<br>
-
 **Railways**<br>
 _total_: 1,673 km (2016) (operational; government claims overall length is 2,961 km)<br>
 _standard gauge_: 1,673 km (2016) 1.435-m gauge<br>
-
-**Roadways**<br>
-_total_: 77,732 km<br>
-_paved_: 7,743 km<br>
-_unpaved_: 69,989 km (2010)<br>
-
-**Waterways**<br>
-1,600 km (2011)<br>
 
 **Merchant marine**<br>
 _total_: 58 (2023)<br>
@@ -696,8 +675,8 @@ _key ports_: Colonia, Fray Bentos, Jose Ignacio, La Paloma, Montevideo, Nueva Pa
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Uruguay (Fuerzas Armadas del Uruguay or FF.AA. del Uruguay): National Army (Ejercito Nacional), National Navy (Armada Nacional, includes Coast Guard (Prefectura Nacional Naval or PRENA)), Uruguayan Air Force (Fuerza Aerea)<br><br>Ministry of Interior: National Police (2024)<br>
-<strong>note: </strong>the National Police includes the paramilitary National Republican Guard (Guardia Nacional Republicana); the National Police maintains internal security, while the National Directorate for Migration is responsible for migration and border enforcement<br>
+Armed Forces of Uruguay (Fuerzas Armadas del Uruguay or FF.AA. del Uruguay): National Army (Ejercito Nacional), National Navy (Armada Nacional, includes Coast Guard (Prefectura Nacional Naval or PRENA)), Uruguayan Air Force (Fuerza Aerea)<br><br>Ministry of Interior: National Police (2025)<br>
+<strong>note: </strong>the National Police includes the paramilitary National Republican Guard (Guardia Nacional Republicana)<br>
 
 **Military expenditures**<br>
 1% of GDP (2023 est.)<br>
@@ -707,13 +686,13 @@ Armed Forces of Uruguay (Fuerzas Armadas del Uruguay or FF.AA. del Uruguay): Nat
 2.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 23,000 active-duty personnel (15,000 Army; 5,000 Navy; 3,000 Air Force) (2023)<br>
+approximately 23,000 active-duty personnel (15,000 Army; 5,000 Navy; 3,000 Air Force) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes a variety of mostly older or second-hand equipment originating from a wide range of suppliers, including Brazil, Canada, the former Czechoslovakia, Germany, Portugal, Russia/former Soviet Union, South Korea, Spain, and the US (2024)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age (18-22 years of age for Navy) for voluntary military service for men and women; up to 40 years of age for specialists; enlistment is voluntary in peacetime, but the government has the authority to conscript in emergencies (2024)<br>
+18-30 years of age (18-22 years of age for Navy) for voluntary military service for men and women; up to 40 years of age for specialists; enlistment is voluntary in peacetime, but the government has the authority to conscript in emergencies (2025)<br>
 <strong>note:</strong> as of 2023, women comprised nearly 20% of the active military<br>
 
 **Military deployments**<br>

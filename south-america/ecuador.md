@@ -76,7 +76,7 @@ nearly half of the population is concentrated in the interior in the Andean inte
 <p>frequent earthquakes; landslides; volcanic activity; floods; periodic droughts</p><p><strong>volcanism:</strong> volcanic activity concentrated along the Andes Mountains; Sangay (5,230 m), which erupted in 2010, is mainland Ecuador's most active volcano; other historically active volcanoes in the Andes include Antisana, Cayambe, Chacana, Cotopaxi, Guagua Pichincha, Reventador, Sumaco, and Tungurahua; Fernandina (1,476 m), a shield volcano that last erupted in 2009, is the most active of the many Galapagos volcanoes; other historically active Galapagos volcanoes include Wolf, Sierra Negra, Cerro Azul, Pinta, Marchena, and Santiago</p><br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> Cotopaxi in Andes is highest active volcano in world<br><br><strong>note 2:</strong> genetic research indicates that the cherry-sized tomato originated in Ecuador without any human domestication; later domestication in Mexico transformed the plant into the large modern tomato; archeological research indicates that the cacao tree, whose seeds are used to make chocolate and which was long thought to have originated in Mesoamerica, was first domesticated in the upper Amazon region of northwest South America -- present-day Ecuador -- about 3,300 B.C.<br>
+Cotopaxi in the Andes is highest active volcano in world<br>
 
 ## People and Society
 
@@ -106,10 +106,10 @@ _15-64 years_: 64.1% (male 5,771,234/female 5,972,938)<br>
 _65 years and over_: 9.1% (2024 est.) (male 746,207/female 918,678)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 50.9<br>
-_youth dependency ratio_: 39.4<br>
-_elderly dependency ratio_: 11.5<br>
-_potential support ratio_: 8.7 (2021 est.)<br>
+_total dependency ratio_: 55.9 (2024 est.)<br>
+_youth dependency ratio_: 41.7 (2024 est.)<br>
+_elderly dependency ratio_: 14.2 (2024 est.)<br>
+_potential support ratio_: 7.1 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 28 years (2024 est.)<br>
@@ -235,7 +235,7 @@ _female_: 15 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation; soil erosion; desertification; water pollution; pollution from oil production wastes in ecologically sensitive areas of the Amazon Basin and Galapagos Islands<br>
+deforestation; soil erosion; desertification; water pollution; pollution from oil production wastes in areas of the Amazon Basin and Galapagos Islands<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -255,12 +255,6 @@ _other_: 28.7% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 64.8% of total population (2023)<br>
 _rate of urbanization_: 1.62% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.27% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 16.55 micrograms per cubic meter (2019 est.)<br>
@@ -305,7 +299,7 @@ _name_: Quito<br>
 _geographic coordinates_: 0 13 S, 78 30 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
 _time zone note_: Ecuador has two time zones, including the Galapagos Islands (UTC-6)<br>
-_etymology_: named after the Quitu, a Pre-Columbian indigenous people credited with founding the city; the name is also a combination of two Tsafiki words: <em>quitso</em> (meaning "center" or "half") + <em>to</em> or <em>tu</em> ("the world"); the combination roughly translates as "center of the world" and reflects the fact that native peoples recognized that at the two annual equinoxes, the overhead sun in that area (only about 20 km (12 mi) north of the equator) did not display any shade and thus must be in the middle of the world<br>
+_etymology_: named after the Quitu, a Pre-Columbian people who lived in the area; the meaning of their name is unknown<br>
 
 **Administrative divisions**<br>
 24 provinces (provincias, singular - provincia); Azuay, Bolivar, Canar, Carchi, Chimborazo, Cotopaxi, El Oro, Esmeraldas, Galapagos, Guayas, Imbabura, Loja, Los Rios, Manabi, Morona Santiago, Napo, Orellana, Pastaza, Pichincha, Santa Elena, Santo Domingo de los Tsachilas, Sucumbios, Tungurahua, Zamora Chinchipe<br>
@@ -317,7 +311,7 @@ _etymology_: named after the Quitu, a Pre-Columbian indigenous people credited w
 Independence Day (independence of Quito), 10 August (1809)<br>
 
 **Legal system**<br>
-civil law based on the Chilean civil code with modifications; traditional law in indigenous communities<br>
+civil law based on the Chilean civil code with modifications; traditional law in ethnic communities<br>
 
 **Constitution**<br>
 _history_: many previous; latest approved 20 October 2008<br>
@@ -340,7 +334,7 @@ _chief of state_: President Daniel NOBOA Azin (since 23 November 2023)<br>
 _head of government_: President Daniel NOBOA Azin (since 23 November 2023)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 9 February 2025 with a runoff on 13 April 2025 (next to be held 28 February 2029); note &ndash; on 18 May 2023, Ecuador&rsquo;s National Electoral Council announced that the legislative and presidential elections&mdash;originally scheduled for February 2025&mdash;would be held on 20 August 2023 with a runoff on 15 October 2023 after former president Guillermo LASSO dissolved the National Assembly by decree on 17 May 2023; though eligible for a second term, LASSO announced that he would not run in the 2023 election; President Daniel NOBOA Azin served out the remainder of the presidential term (2021&ndash;2025)<br>
-_election results_: <br><em>2025: </em>Daniel NOBOA Azin reelected president; percent of vote in the first round - Daniel NOBOA Azin (ADN) 44.2%, Luisa GONZÁLEZ Alcivar (MRC) 44%, Leonidas IZA (MUPP) 5.3%, other 6.5%; percent of vote in the second round - Daniel NOBOA Azin 55.6%, Luisa GONZÁLEZ Alcivar 44.4%; note - official results pending<br><em><br>2023:</em> Daniel NOBOA Azin elected president; percent of vote in the first round - Luisa GONZÁLEZ Alcivar (MRC) 33.6%, Daniel NOBOA Azin (ADN) 23.5%, Christian Gustavo ZURITA Ron (Construye) 16.4%, Jan Tomislav TOPIĆ Feraud (Por Un País Sin Miedo) 14.7%, Otto Ramón SONNENHOLZNER Sper (Avanza) 7.1%, other 4.7%; percent of vote in the second round - Daniel NOBOA Azin 51.8%, Luisa GONZÁLEZ Alcivar 48.2%<br><br><em>2021:</em> Guillermo LASSO Mendoza elected president; percent of vote in the first round - Andres ARAUZ (UNES) 32.7%, Guillermo LASSO Mendoza (CREO) 19.7%, Yaku PEREZ Guartambel (MUPP) 19.4%, Xavier HERVAS Mora (ID) 15.7%, other 12.5%; percent of vote in the second round - Guillermo LASSO Mendoza (CREO) 52.5%, Andres ARAUZ (UNES) 47.5%<br>
+_election results_: <br><em>2025: </em>Daniel NOBOA Azin reelected president; percent of vote in the first round - Daniel NOBOA Azin (ADN) 44.2%, Luisa GONZÁLEZ Alcivar (MRC) 44%, Leonidas IZA (MUPP) 5.3%, other 6.5%; percent of vote in the second round - Daniel NOBOA Azin 55.6%, Luisa GONZÁLEZ Alcivar 44.4%<br><em><br>2023:</em> Daniel NOBOA Azin elected president; percent of vote in the first round - Luisa GONZÁLEZ Alcivar (MRC) 33.6%, Daniel NOBOA Azin (ADN) 23.5%, Christian Gustavo ZURITA Ron (Construye) 16.4%, Jan Tomislav TOPIĆ Feraud (Por Un País Sin Miedo) 14.7%, Otto Ramón SONNENHOLZNER Sper (Avanza) 7.1%, other 4.7%; percent of vote in the second round - Daniel NOBOA Azin 51.8%, Luisa GONZÁLEZ Alcivar 48.2%<br><br><em>2021:</em> Guillermo LASSO Mendoza elected president; percent of vote in the first round - Andres ARAUZ (UNES) 32.7%, Guillermo LASSO Mendoza (CREO) 19.7%, Yaku PEREZ Guartambel (MUPP) 19.4%, Xavier HERVAS Mora (ID) 15.7%, other 12.5%; percent of vote in the second round - Guillermo LASSO Mendoza (CREO) 52.5%, Andres ARAUZ (UNES) 47.5%<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -368,7 +362,7 @@ Actuemos Ecuador or Actuemos<br>AMIGO movement, Independent Mobilizing Action Ge
 CAN, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OPANAL, OPCW, OPEC, Pacific Alliance (observer), PCA, PROSUR, SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Cristian ESPINOSA Ca&ntilde;izares (since 18 September 2024)<br>
+_chief of mission_: Ambassador-designate Pablo ZAMBRANO Albuja (since 20 March 2025)<br>
 _chancery_: 2535 15th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 234-7200<br>
 _FAX_: [1] (202) 333-2893<br>
@@ -427,9 +421,9 @@ $118.845 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-2.22% (2023 est.)<br>
-3.47% (2022 est.)<br>
-0.13% (2021 est.)<br>
+1.5% (2024 est.)<br>
+2.2% (2023 est.)<br>
+3.5% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -465,19 +459,19 @@ petroleum, food processing, textiles, wood products, chemicals<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.823 million (2023 est.)<br>
+8.821 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.37% (2023 est.)<br>
-3.76% (2022 est.)<br>
-4.55% (2021 est.)<br>
+4.8% (2024 est.)<br>
+3.5% (2023 est.)<br>
+3.8% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.2% (2023 est.)<br>
-_male_: 5.9% (2023 est.)<br>
-_female_: 9.4% (2023 est.)<br>
+_total_: 10.1% (2024 est.)<br>
+_male_: 8.3% (2024 est.)<br>
+_female_: 13% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -512,19 +506,19 @@ _expenditures_: $35.347 billion (2022 est.)<br>
 45.4% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-13.04% (of GDP) (2022 est.)<br>
+13% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$2.229 billion (2023 est.)<br>
-$2.093 billion (2022 est.)<br>
-$3.036 billion (2021 est.)<br>
+$2.346 billion (2023 est.)<br>
+$2.137 billion (2022 est.)<br>
+$2.939 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$34.672 billion (2023 est.)<br>
-$35.944 billion (2022 est.)<br>
-$29.037 billion (2021 est.)<br>
+$35.687 billion (2023 est.)<br>
+$36.588 billion (2022 est.)<br>
+$29.284 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -536,9 +530,9 @@ crude petroleum, shellfish, bananas, fish, gold (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$34.562 billion (2023 est.)<br>
-$36.051 billion (2022 est.)<br>
-$28.128 billion (2021 est.)<br>
+$35.421 billion (2023 est.)<br>
+$36.644 billion (2022 est.)<br>
+$28.471 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -550,13 +544,13 @@ refined petroleum, coal tar oil, cars, packaged medicine, plastics (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$4.703 billion (2024 est.)<br>
 $4.442 billion (2023 est.)<br>
 $8.459 billion (2022 est.)<br>
-$7.912 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$42.649 billion (2023 est.)<br>
+$39.658 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -622,7 +616,7 @@ _domestic_: according to 2021 statistics from the Ministry of Telecommunications
 _international_: country code - 593; landing points for the SPSC (Mistral Submarine Cable), Panamerican Cable System (PAN-AM), Pacific Caribbean Cable System (PCCS), America Movil-Telxius West Coast Cable and SAm-1 submarine (SAm-1) cables that provide links to South and Central America, and extending onward to the Caribbean and the US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-<p>the Communication Council, an official entity, carried out a media registry in Ecuador in December 2020.  It registered 956 media outlets, 89% are private, 5% are public and 6% belong to small communities. The government controls most of the 44 public media, this includes national media and multiple local radio stations. In addition, of the 956 registered media, 58% are radio and 18% print. Two provinces have the largest number of media outlets: Guayas has 172 media outlets and Pichincha has 130 media outlets. (2020) so also sent to the National Assembly a new regulation proposal that is still under discussion.</p> (2022)<br>
+<p>956 media outlets, of which 89% are private, 5% are public, and 6% belong to small communities; government controls most of the 44 public media stations, including national media and multiple local radio stations; most media outlets are concentrated in Guayas and Pichincha </p> (2022)<br>
 
 **Internet country code**<br>
 .ec<br>
@@ -637,12 +631,6 @@ _subscriptions per 100 inhabitants_: 16 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 7 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 35<br>
-_annual passenger traffic on registered air carriers_: 5,365,261 (2018)<br>
-_annual freight traffic on registered air carriers_: 64.2 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 HC<br>
 
@@ -652,21 +640,10 @@ HC<br>
 **Heliports**<br>
 28 (2025)<br>
 
-**Pipelines**<br>
-485 km extra heavy crude, 123 km gas, 2,131 km oil, 1,526 km refined products (2017)<br>
-
 **Railways**<br>
 _total_: 965 km (2022)<br>
 _narrow gauge_: 965 km (2022) 1.067-m gauge<br>
 <strong>note:</strong> passenger service limited to certain sections of track, mostly for tourist trains<br>
-
-**Roadways**<br>
-_total_: 43,950 km<br>
-_paved_: 8,895 km<br>
-_unpaved_: 35,055 km (2022)<br>
-
-**Waterways**<br>
-1,500 km (2012) (most inaccessible)<br>
 
 **Merchant marine**<br>
 _total_: 154 (2023)<br>
@@ -684,7 +661,7 @@ _key ports_: Esmeraldas, Guayaquil, La Libertad, Manta, Puerto Bolivar, Puerto M
 ## Military and Security
 
 **Military and security forces**<br>
-Ecuadorian Armed Forces ((Fuerzas Armadas del Ecuador): Ground Force (Fuerza Terrestre), Naval Force (Fuerza Naval; includes naval infantry, naval aviation, coast guard), Ecuadorian Air Force (Fuerza Aérea Ecuatoriana) (2024)<br>
+Ecuadorian Armed Forces ((Fuerzas Armadas del Ecuador): Ground Force (Fuerza Terrestre), Naval Force (Fuerza Naval; includes naval infantry, naval aviation, coast guard), Ecuadorian Air Force (Fuerza Aérea Ecuatoriana) (2025)<br>
 <strong>note:</strong> the National Police of Ecuador (Policía Nacional del Ecuador) is under the Ministry of Government/Interior<br>
 
 **Military expenditures**<br>
@@ -695,7 +672,7 @@ Ecuadorian Armed Forces ((Fuerzas Armadas del Ecuador): Ground Force (Fuerza Ter
 2.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 40,000 active military personnel (2024)<br>
+approximately 40,000 active military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes a diverse mix of older and smaller quantities of more modern equipment derived from a variety of sources such as Brazil, China, France, Italy, Germany, Russia/Soviet-Union, Spain, Turkey, the UK, and the US (2024)<br>

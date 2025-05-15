@@ -80,7 +80,7 @@ majority of the populace is located in the southernmost extreme of the country a
 recurring droughts<br>
 
 **Geography - note**<br>
-landlocked; one of the hottest countries in the world; northern four-fifths is desert, southern one-fifth is savanna, suitable for livestock and limited agriculture<br>
+landlocked; one of the hottest countries in the world; northern four-fifths is desert, southern one-fifth is savanna that is suitable for livestock and limited agriculture<br>
 
 ## People and Society
 
@@ -109,10 +109,10 @@ _15-64 years_: 47.8% (male 6,146,355/female 6,451,574)<br>
 _65 years and over_: 2.7% (2024 est.) (male 342,388/female 371,130)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 105.4<br>
-_youth dependency ratio_: 100.4<br>
-_elderly dependency ratio_: 5<br>
-_potential support ratio_: 20.1 (2021 est.)<br>
+_total dependency ratio_: 109.1 (2024 est.)<br>
+_youth dependency ratio_: 103.4 (2024 est.)<br>
+_elderly dependency ratio_: 5.7 (2024 est.)<br>
+_potential support ratio_: 17.7 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 15.2 years (2024 est.)<br>
@@ -237,7 +237,7 @@ _female_: 6 years (2017)<br>
 ## Environment
 
 **Environment - current issues**<br>
-overgrazing; soil erosion; deforestation; desertification; contaminated water; inadequate potable water; wildlife populations (such as elephant, hippopotamus, giraffe, and lion) threatened because of poaching and habitat destruction<br>
+overgrazing; soil erosion; deforestation; desertification; contaminated water; inadequate potable water; wildlife populations (such as elephant, hippopotamus, giraffe, and lion) threatened by poaching and habitat destruction<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
@@ -260,12 +260,6 @@ _rate of urbanization_: 4.72% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to internal conflict, high food prices, and floods - </em>about 3.28 million people are projected to be acutely food insecure during the June to August 2023 lean season period; this would be an improvement on the situation in 2022, mostly reflecting the sharp upturn in crop yields following the below average cereal output in 2021; persistent insecurity continues to disrupt livelihoods and has displaced over 370,000 people, mostly in the Diffa, Tahoua and Tillabery regions, as of May 2023; high food prices, as well as the floods in 2022 that affected about 327,000 people, are additional factors that have aggravated food insecurity (2023)<br>
-
-**Revenue from forest resources**<br>
-4.41% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.03% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 50.15 micrograms per cubic meter (2019 est.)<br>
@@ -315,7 +309,7 @@ formerly, semi-presidential republic<br>
 _name_: Niamey<br>
 _geographic coordinates_: 13 31 N, 2 07 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: according to tradition, the site was originally a fishing village named after a prominent local tree referred to as "nia niam"<br>
+_etymology_: the origin of the name is unclear; one of many stories says that an African chief told his seven slaves "<em>Wa niammane</em>," meaning "stay here," and the name was later shortened to its present form<br>
 
 **Administrative divisions**<br>
 7 regions (r&eacute;gions, singular - r&eacute;gion) and 1 capital district* (communaut&eacute; urbaine); Agadez, Diffa, Dosso, Maradi, Niamey*, Tahoua, Tillaberi, Zinder<br>
@@ -327,7 +321,7 @@ _etymology_: according to tradition, the site was originally a fishing village n
 Republic Day, 18 December (1958); note - commemorates the founding of the Republic of Niger which predated independence from France in 1960<br>
 
 **Legal system**<br>
-note - following the 26 July 2023 military coup, the National Council for the Safeguard of the Homeland assumed control of all government institutions and rules by decree; formerly, mixed legal system of civil law, based on French civil law, Islamic law, and customary law<br>
+<strong>note:</strong> following the 26 July 2023 military coup, the National Council for the Safeguard of the Homeland assumed control of all government institutions and rules by decree; formerly, mixed system of civil law, based on French civil law, Islamic law, and customary law<br>
 
 **Constitution**<br>
 _history_: several previous; passed by referendum 31 October 2010, entered into force 25 November 2010<br>
@@ -428,9 +422,9 @@ $16.819 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+9.1% (2024 est.)<br>
 3.7% (2023 est.)<br>
-4.23% (2022 est.)<br>
-3.84% (2021 est.)<br>
+4.2% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -464,19 +458,19 @@ uranium mining, petroleum, cement, brick, soap, textiles, food processing, chemi
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-10.189 million (2023 est.)<br>
+10.486 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-0.55% (2023 est.)<br>
-0.55% (2022 est.)<br>
-0.82% (2021 est.)<br>
+0.4% (2024 est.)<br>
+0.4% (2023 est.)<br>
+0.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 0.8% (2023 est.)<br>
-_male_: 0.9% (2023 est.)<br>
-_female_: 0.8% (2023 est.)<br>
+_total_: 0.3% (2024 est.)<br>
+_male_: 0.4% (2024 est.)<br>
+_female_: 0.2% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -509,15 +503,15 @@ _expenditures_: $2.785 billion (2019 est.)<br>
 21.4% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
+-$2.333 billion (2023 est.)<br>
 -$2.5 billion (2022 est.)<br>
 -$2.099 billion (2021 est.)<br>
--$1.816 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$1.223 billion (2023 est.)<br>
 $1.376 billion (2022 est.)<br>
 $1.487 billion (2021 est.)<br>
-$1.338 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -529,9 +523,9 @@ gold, oil seeds, uranium and thorium ore, radioactive chemicals, refined petrole
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$3.808 billion (2023 est.)<br>
 $4.194 billion (2022 est.)<br>
 $4.027 billion (2021 est.)<br>
-$3.542 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -547,16 +541,16 @@ $1.314 billion (2017 est.)<br>
 $1.186 billion (2016 est.)<br>
 
 **Debt - external**<br>
-$4.198 billion (2023 est.)<br>
+$3.793 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+606.345 (2024 est.)<br>
 606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
-585.911 (2019 est.)<br>
 
 ## Energy
 
@@ -615,7 +609,7 @@ _domestic_: fixed-line less than 1 per 100 persons and mobile-cellular at nearly
 _international_: country code - 227; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean)<br>
 
 **Broadcast media**<br>
-state-run TV station; 3 private TV stations provide a mix of local and foreign programming; state-run radio has only radio station with national coverage; about 30 private radio stations operate locally; as many as 100 community radio stations broadcast; transmissions of multiple international broadcasters are available<br>
+state-run TV station; 3 private TV stations provide a mix of local and foreign programming; state-run radio has the only radio station with national coverage; about 30 private local radio stations; as many as 100 community radio stations; transmissions of multiple international broadcasters are available<br>
 
 **Internet country code**<br>
 .ne<br>
@@ -629,32 +623,17 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 3<br>
-
 **Civil aircraft registration country code prefix**<br>
 5U<br>
 
 **Airports**<br>
 26 (2025)<br>
 
-**Pipelines**<br>
-2,444 km oil (2024)<br>
-
-**Roadways**<br>
-_total_: 18,949 km<br>
-_paved_: 3,979 km<br>
-_unpaved_: 14,969 km (2018)<br>
-
-**Waterways**<br>
-563 km (2024) (the Niger, the only major river, is navigable to Gaya between September and March)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>
-Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force, Niger Gendarmerie (GN)<br><br>Ministry of Interior: Niger National Guard (GNN), National Police (2024)<br>
-<strong>note 1:</strong> the Gendarmerie (GN) and the National Guard (GNN) are paramilitary forces; the GN has primary responsibility for rural security while the GNN is responsible for domestic security and the protection of high-level officials and government buildings; the GNN in past years was known as the National Forces of Intervention and Security and the Republican Guard<br><br><strong>note 2: </strong>the National Police includes the Directorate of Territorial Surveillance, which is charged with border management<br>
+Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force, Niger Gendarmerie (GN)<br><br>Ministry of Interior, Public Safety and Decentralization: Niger National Guard (GNN), National Police (2025)<br>
+<strong>note 1:</strong> the Gendarmerie (GN) and the National Guard (GNN) are paramilitary forces; the GN has primary responsibility for rural security while the GNN is responsible for domestic security and the protection of high-level officials and government buildings<br><br><strong>note 2: </strong>the National Police includes the Directorate of Territorial Surveillance, which is charged with border management<br>
 
 **Military expenditures**<br>
 2% of GDP (2023 est.)<br>
@@ -664,7 +643,7 @@ Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force
 1.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; estimated 30-35,000 active FAN troops; estimated 5-10,000 paramilitary Gendarmerie and National Guard personnel (2024)<br>
+estimated 35-40,000 active FAN troops, including Gendarmerie; estimated 5-10,000 National Guard personnel (2025)<br>
 <strong>note: </strong>in 2020, the Nigerien Government announced it intended to increase the size of the FAN to 50,000 by 2025 and 100,000 by 2030<br>
 
 **Military equipment inventories and acquisitions**<br>

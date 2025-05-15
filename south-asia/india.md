@@ -113,10 +113,10 @@ _15-64 years_: 68.7% (male 500,568,593/female 467,593,781)<br>
 _65 years and over_: 6.8% (2024 est.) (male 44,101,180/female 52,102,662)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 48.1<br>
-_youth dependency ratio_: 38.1<br>
-_elderly dependency ratio_: 10.1<br>
-_potential support ratio_: 9.9 (2021 est.)<br>
+_total dependency ratio_: 45.5 (2024 est.)<br>
+_youth dependency ratio_: 35.6 (2024 est.)<br>
+_elderly dependency ratio_: 9.9 (2024 est.)<br>
+_potential support ratio_: 10.1 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 29.8 years (2024 est.)<br>
@@ -246,7 +246,7 @@ _female_: 12 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation; soil erosion; overgrazing; desertification; air pollution from industrial effluents and vehicle emissions; water pollution from raw sewage and runoff of agricultural pesticides; tap water is not potable throughout the country; huge and growing population is overstraining natural resources; preservation and quality of forests; biodiversity loss<br>
+deforestation; soil erosion; overgrazing; desertification; air pollution from industrial effluents and vehicle emissions; water pollution from raw sewage and agricultural pesticides; tap water not potable; growing population overstraining natural resources; biodiversity loss<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -266,12 +266,6 @@ _other_: 15.5% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 36.4% of total population (2023)<br>
 _rate of urbanization_: 2.33% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.14% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-1.15% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 50.17 micrograms per cubic meter (2019 est.)<br>
@@ -319,7 +313,7 @@ federal parliamentary republic<br>
 _name_: New Delhi<br>
 _geographic coordinates_: 28 36 N, 77 12 E<br>
 _time difference_: UTC+5.5 (10.5 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the city's name is associated with various myths and legends; the original name for the city may have been Dhilli or Dhillika; alternatively, the name could be a corruption of the Hindustani words "dehleez" or "dehali" - both terms meaning "threshold" or "gateway" - and indicative of the city as a gateway to the Gangetic Plain; after the British decided to move the capital of their Indian Empire from Calcutta to Delhi in 1911, they created a new governmental district south of the latter designated as New Delhi; the new capital was not formally inaugurated until 1931<br>
+_etymology_: the name is of unknown origin; one theory says it may come from the Hindi word <em>dehli </em>(threshold), because of the city's location between the Indus and the Ganges Rivers<br>
 
 **Administrative divisions**<br>
 28 states and 8 union territories*; Andaman and Nicobar Islands*, Andhra Pradesh, Arunachal Pradesh, Assam, Bihar, Chandigarh*, Chhattisgarh, Dadra and Nagar Haveli and Daman and Diu*, Delhi*, Goa, Gujarat, Haryana, Himachal Pradesh, Jammu and Kashmir*, Jharkhand, Karnataka, Kerala, Ladakh*, Lakshadweep*, Madhya Pradesh, Maharashtra, Manipur, Meghalaya, Mizoram, Nagaland, Odisha, Puducherry*, Punjab, Rajasthan, Sikkim, Tamil Nadu, Telangana, Tripura, Uttar Pradesh, Uttarakhand, West Bengal<br>
@@ -454,9 +448,9 @@ $3.568 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-5.65% (2023 est.)<br>
+5% (2024 est.)<br>
+5.6% (2023 est.)<br>
 6.7% (2022 est.)<br>
-5.13% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -492,19 +486,19 @@ textiles, chemicals, food processing, steel, transportation equipment, cement, m
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-596.406 million (2023 est.)<br>
+607.691 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.17% (2023 est.)<br>
-4.82% (2022 est.)<br>
-6.38% (2021 est.)<br>
+4.2% (2024 est.)<br>
+4.2% (2023 est.)<br>
+4.8% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.8% (2023 est.)<br>
-_male_: 15.8% (2023 est.)<br>
-_female_: 15.7% (2023 est.)<br>
+_total_: 16% (2024 est.)<br>
+_male_: 15.5% (2024 est.)<br>
+_female_: 17.6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -532,11 +526,11 @@ _expenditures_: $432.856 billion (2018 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-46.52% of GDP (2018 est.)<br>
+46.5% of GDP (2018 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-6.72% (of GDP) (2022 est.)<br>
+6.7% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -574,22 +568,22 @@ crude petroleum, gold, coal, natural gas, integrated circuits (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$569.544 billion (2024 est.)<br>
 $627.793 billion (2023 est.)<br>
 $567.298 billion (2022 est.)<br>
-$638.485 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$220.309 billion (2023 est.)<br>
+$212.728 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Indian rupees (INR) per US dollar -<br>
+83.669 (2024 est.)<br>
 82.599 (2023 est.)<br>
 78.604 (2022 est.)<br>
 73.918 (2021 est.)<br>
 74.1 (2020 est.)<br>
-70.42 (2019 est.)<br>
 
 ## Energy
 
@@ -663,7 +657,7 @@ _domestic_: fixed-line subscriptions 2 per 100 and mobile-cellular at nearly 82 
 _international_: country code - 91; a number of major international submarine cable systems, including SEA-ME-WE-3 &amp; 4, AAE-1, BBG, EIG, FALCON, FEA, GBICS, MENA, IMEWE, SEACOM/ Tata TGN-Eurasia, SAFE, WARF, Bharat Lanka Cable System, IOX, Chennai-Andaman &amp; Nicobar Island Cable, SAEx2, Tata TGN-Tata Indicom and i2icn that provide connectivity to Europe, Africa, Asia, the Middle East, South East Asia, numerous Indian Ocean islands including Australia ; satellite earth stations - 8 Intelsat (Indian Ocean) and 1 Inmarsat; Indian Ocean region (2022)<br>
 
 **Broadcast media**<br>
-Doordarshan, India's public TV network, has a monopoly on terrestrial broadcasting and operates about 20 national, regional, and local services; a large and increasing number of privately owned TV stations are distributed by cable and satellite service providers; in 2020, 130 million households paid for cable and satellite television across India and as of 2018, cable and satellite TV offered over 850 TV channels; government controls AM radio with All India Radio operating domestic and external networks; news broadcasts via radio are limited to the All India Radio Network; since 2000, privately owned FM stations have been permitted and their numbers have increased rapidly (2020)<br>
+Doordarshan, India's public TV network, has a monopoly on terrestrial broadcasting and operates about 20 national, regional, and local services; a large number of privately owned TV stations are distributed by cable and satellite service providers; cable and satellite TV offer over 850 TV channels; government controls AM radio, with All India Radio operating domestic and external networks; news broadcasts via radio are limited to the All India Radio Network; since 2000, privately owned FM stations have been permitted and have increased rapidly (2020)<br>
 
 **Internet country code**<br>
 .in<br>
@@ -677,12 +671,6 @@ _subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 14 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 485<br>
-_annual passenger traffic on registered air carriers_: 164,035,637 (2018)<br>
-_annual freight traffic on registered air carriers_: 2,703,960,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 VT<br>
 
@@ -692,20 +680,10 @@ VT<br>
 **Heliports**<br>
 289 (2025)<br>
 
-**Pipelines**<br>
-17,389 km natural gas, 10, 419 km crude oil, 3,544 liquid petroleum gas, 14,729 km refined products (2020) 9 km condensate/gas, 20 km oil/gas/water (2013) (2020)<br>
-
 **Railways**<br>
 _total_: 65,554 km (2014)<br>
 _narrow gauge_: 1,604 km (2014) 1.000-m gauge<br>
 _broad gauge_: 63,950 km (2014) (39, 329 km electrified)<br>
-
-**Roadways**<br>
-_total_: 6,371,847 km (2021) note: includes 140,995 km of national highways and expressways, 171.039 km of state highways , and 6,059,813 km of other roads<br>
-<strong>note:</strong> includes 96,214 km of national highways and expressways, 147,800 km of state highways, and 4,455,010 km of other roads<br>
-
-**Waterways**<br>
-14,500 km (2012) (5,200 km on major rivers and 485 km on canals suitable for mechanized vessels)<br>
 
 **Merchant marine**<br>
 _total_: 1,859 (2023)<br>
@@ -724,8 +702,8 @@ _key ports_: Calcutta, Chennai (Madras), Jawaharlal Nehru Port (Nhava Shiva), Ka
 ## Military and Security
 
 **Military and security forces**<br>
-Indian Armed Forces: Army, Navy, Air Force, Coast Guard; Defense Security Corps<br><br>Ministry of Home Affairs: Central Armed Police Forces (includes Assam Rifles, Border Security Force, Central Industrial Security Force, Central Reserve Police Force, Indo-Tibetan Border Police, National Security Guards, Sashastra Seema Bal), Special Protection Group, National Disaster Response Force (NDRF)<br><br>Ministry of Railways: Railway Protection Force (2024)<br>
-<strong>note 1:</strong> the Defense Security Corps provides security for Ministry of Defense sites<br><br><strong>note 2: </strong>the Border Security Force (BSF) is responsible for the Indo-Pakistan and Indo-Bangladesh borders; the Sashastra Seema Bal (SSB or Armed Border Force) guards the Indo-Nepal and Indo-Bhutan borders<br><br><strong>note 3:</strong> the Central Reserve Police Force (CRPF) includes a Rapid Reaction Force (RAF) for riot control and the Commando Battalion for Resolute Action (COBRA) for counter-insurgency operations <br><br><strong>note 4:</strong> the Assam Rifles are under the administrative control of the Ministry of Home Affairs, while operational control falls under the Ministry of Defense (specifically the Indian Army)<br><br><strong>note 5:</strong> the Territorial Army (TA) is a military reserve force composed of part-time volunteers who provide support services to the Indian Army; it is a part of the Regular Army with the role of relieving Regular Army units from static duties and assisting civil authorities with natural calamities and maintaining essential services in emergencies, as well as providing units for the Regular Army as required<br>
+Indian Armed Forces (IAF): Army, Navy, Air Force, Coast Guard<br><br>Ministry of Home Affairs: Central Police Organization, Central Armed Police Forces (includes Assam Rifles, Border Security Force, Central Industrial Security Force, Central Reserve Police Force, Indo-Tibetan Border Police, National Security Guards, Sashastra Seema Bal) (2025)<br>
+<strong>note 1: </strong>the Border Security Force (BSF) is responsible for the Indo-Pakistan and Indo-Bangladesh borders; the Sashastra Seema Bal (SSB or Armed Border Force) guards the Indo-Nepal and Indo-Bhutan borders<br><br><strong>note 2:</strong> the Central Reserve Police Force (CRPF) includes a Rapid Reaction Force (RAF) for riot control and the Commando Battalion for Resolute Action (COBRA) for counter-insurgency operations <br><br><strong>note 3:</strong> the Assam Rifles are under the administrative control of the Ministry of Home Affairs, while operational control falls under the Ministry of Defense (specifically the Indian Army)<br>
 
 **Military expenditures**<br>
 2.3% of GDP (2023 est.)<br>
@@ -735,7 +713,7 @@ Indian Armed Forces: Army, Navy, Air Force, Coast Guard; Defense Security Corps<
 2.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 1.5 million active personnel (approximately 1.25 million Army; 65,000 Navy; 140,000 Air Force; 12,000 Coast Guard) (2023)<br>
+information varies; approximately 1.5 million active Indian Armed Forces personnel, including about 1.25 million in the Army (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 much of the military's inventory consists of Russian- and Soviet-origin equipment; there is a smaller, but growing mix of Western and domestically produced arms; Russia continues to be the leading provider of arms to India, although in recent years India has increased acquisitions from other suppliers, including France, Israel, and the US; it is one of the world's largest importers of arms; India's defense industry is capable of producing a range of air, land, missile, and naval weapons systems for both domestic use and export; it also produces weapons systems under license (2024)<br>

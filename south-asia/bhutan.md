@@ -93,10 +93,10 @@ _15-64 years_: 70.2% (male 322,497/female 298,324)<br>
 _65 years and over_: 6.7% (2024 est.) (male 30,397/female 28,576)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 40.7<br>
-_youth dependency ratio_: 32.1<br>
-_elderly dependency ratio_: 8.6<br>
-_potential support ratio_: 11.1 (2021 est.)<br>
+_total dependency ratio_: 42.5 (2024 est.)<br>
+_youth dependency ratio_: 33 (2024 est.)<br>
+_elderly dependency ratio_: 9.5 (2024 est.)<br>
+_potential support ratio_: 10.5 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 30.7 years (2024 est.)<br>
@@ -230,12 +230,6 @@ _other_: 15.6% (2022 est.)<br>
 _urban population_: 44.4% of total population (2023)<br>
 _rate of urbanization_: 2.52% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-1.89% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 26.1 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 1.26 megatons (2016 est.)<br>
@@ -270,7 +264,7 @@ constitutional monarchy<br>
 _name_: Thimphu<br>
 _geographic coordinates_: 27 28 N, 89 38 E<br>
 _time difference_: UTC+6 (11 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the origins of the name are unclear; the traditional explanation, dating to the 14th century, is that <em>thim </em>means "dissolve" and <em>phu</em> denotes "high ground" to express the meaning of "dissolving high ground," in reference to a local deity that dissolved before a traveler's eyes, becoming a part of the rock on which the present city stands<br>
+_etymology_: the origins of the name are unclear; the traditional explanation, dating to the 14th century, is that <em>thim </em>means "dissolve" and <em>phu</em> means "rock," in reference to a local deity who dissolved before a traveler's eyes, becoming a part of the rock on which the present city stands<br>
 
 **Administrative divisions**<br>
 20 districts (dzongkhag, singular and plural); Bumthang, Chhukha, Dagana, Gasa, Haa, Lhuentse, Mongar, Paro, Pemagatshel, Punakha, Samdrup Jongkhar, Samtse, Sarpang, Thimphu, Trashigang, Trashi Yangtse, Trongsa, Tsirang, Wangdue Phodrang, Zhemgang<br>
@@ -393,9 +387,9 @@ $2.898 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.23% (2023 est.)<br>
-5.64% (2022 est.)<br>
-7.35% (2021 est.)<br>
+2.8% (2024 est.)<br>
+4.2% (2023 est.)<br>
+5.6% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -425,19 +419,19 @@ cement, wood products, processed fruits, alcoholic beverages, calcium carbide, t
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-429,000 (2023 est.)<br>
+406,500 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.65% (2023 est.)<br>
-5.95% (2022 est.)<br>
-4.8% (2021 est.)<br>
+2.9% (2024 est.)<br>
+3.1% (2023 est.)<br>
+5.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 29.2% (2023 est.)<br>
-_male_: 25.1% (2023 est.)<br>
-_female_: 33.1% (2023 est.)<br>
+_total_: 13.8% (2024 est.)<br>
+_male_: 11.2% (2024 est.)<br>
+_female_: 16.5% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -465,23 +459,23 @@ _expenditures_: $591.697 million (2020 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-111.01% of GDP (2020 est.)<br>
+111% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-12.28% (of GDP) (2020 est.)<br>
+12.3% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$999.999 million (2023 est.)<br>
+-$669.766 million (2024 est.)<br>
+-$963.122 million (2023 est.)<br>
 -$805.723 million (2022 est.)<br>
--$319.279 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$815.05 million (2023 est.)<br>
+$944.391 million (2024 est.)<br>
+$867.871 million (2023 est.)<br>
 $791.342 million (2022 est.)<br>
-$739.514 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -493,9 +487,9 @@ iron alloys, aircraft, dolomite, semi-finished iron, cement (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$1.754 billion (2023 est.)<br>
+$1.513 billion (2024 est.)<br>
+$1.77 billion (2023 est.)<br>
 $1.581 billion (2022 est.)<br>
-$1.027 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -507,22 +501,22 @@ refined petroleum, gold, plastics, broadcasting equipment, iron reductions (2023
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$928.229 million (2024 est.)<br>
 $654.481 million (2023 est.)<br>
 $825.755 million (2022 est.)<br>
-$1.05 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$2.923 billion (2023 est.)<br>
+$2.827 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: ngultrum (BTN) per US dollar -<br>
+83.669 (2024 est.)<br>
 82.599 (2023 est.)<br>
 78.604 (2022 est.)<br>
 73.918 (2021 est.)<br>
 74.1 (2020 est.)<br>
-70.42 (2019 est.)<br>
 
 ## Energy
 
@@ -586,12 +580,6 @@ _subscriptions per 100 inhabitants_: 1 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 6<br>
-_annual passenger traffic on registered air carriers_: 275,849 (2018)<br>
-_annual freight traffic on registered air carriers_: 690,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 A5<br>
 
@@ -600,10 +588,6 @@ A5<br>
 
 **Heliports**<br>
 8 (2025)<br>
-
-**Roadways**<br>
-_total_: 12,205 km (2017)<br>
-_urban_: 437 km<br>
 
 ## Military and Security
 

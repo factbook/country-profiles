@@ -100,10 +100,10 @@ _15-64 years_: 67% (male 991,490/female 1,004,101)<br>
 _65 years and over_: 15.3% (2024 est.) (male 189,336/female 265,619)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 49.6<br>
-_youth dependency ratio_: 30.6<br>
-_elderly dependency ratio_: 19.1<br>
-_potential support ratio_: 5.2 (2021 est.)<br>
+_total dependency ratio_: 49.2 (2024 est.)<br>
+_youth dependency ratio_: 26.4 (2024 est.)<br>
+_elderly dependency ratio_: 22.8 (2024 est.)<br>
+_potential support ratio_: 4.4 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 38.9 years (2024 est.)<br>
@@ -232,7 +232,7 @@ _female_: 14 years (2021)<br>
 ## Environment
 
 **Environment - current issues**<br>
-soil pollution from toxic chemicals such as DDT; deforestation; pollution of Hrazdan and Aras Rivers; the draining of Sevana Lich (Lake Sevan), a result of its use as a source for hydropower, threatens drinking water supplies; restart of Metsamor nuclear power plant in spite of its location in a seismically active zone<br>
+soil pollution from toxic chemicals; deforestation; river pollution; threats to drinking water supplies from use of hydropower; nuclear power plant located in earthquake zone<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
@@ -252,12 +252,6 @@ _other_: 29.6% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 63.7% of total population (2023)<br>
 _rate of urbanization_: 0.23% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.28% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 34.13 micrograms per cubic meter (2019 est.)<br>
@@ -295,7 +289,7 @@ parliamentary democracy; note - constitutional changes adopted in December 2015 
 _name_: Yerevan<br>
 _geographic coordinates_: 40 10 N, 44 30 E<br>
 _time difference_: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: name likely derives from the ancient Urartian fortress of Erebuni established on the current site of Yerevan in 782 B.C. and whose impressive ruins still survive<br>
+_etymology_: name origin is unclear; it may derive from the name of a local ethnic group, or from the ancient fortress of Erebuni that was built on the current site of Yerevan in 782 B.C.<br>
 
 **Administrative divisions**<br>
 11 provinces (marzer, singular - marz); Aragatsotn, Ararat, Armavir, Geghark'unik', Kotayk', Lorri, Shirak, Syunik', Tavush, Vayots' Dzor, Yerevan<br>
@@ -416,9 +410,9 @@ $24.086 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-1.98% (2023 est.)<br>
-8.64% (2022 est.)<br>
-7.18% (2021 est.)<br>
+0.3% (2024 est.)<br>
+2% (2023 est.)<br>
+8.6% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -453,19 +447,19 @@ brandy, mining, diamond processing, metal-cutting machine tools, forging and pre
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.475 million (2023 est.)<br>
+1.478 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-8.59% (2023 est.)<br>
-8.61% (2022 est.)<br>
-10.01% (2021 est.)<br>
+13.3% (2024 est.)<br>
+13.2% (2023 est.)<br>
+13.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19% (2023 est.)<br>
-_male_: 21.5% (2023 est.)<br>
-_female_: 16% (2023 est.)<br>
+_total_: 26.2% (2024 est.)<br>
+_male_: 24.8% (2024 est.)<br>
+_female_: 27.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -493,11 +487,11 @@ _expenditures_: $4.13 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-46.55% of GDP (2022 est.)<br>
+48.3% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-21.83% (of GDP) (2022 est.)<br>
+22.5% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -535,22 +529,22 @@ cars, gold, diamonds, broadcasting equipment, natural gas (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$3.684 billion (2024 est.)<br>
 $3.607 billion (2023 est.)<br>
 $4.112 billion (2022 est.)<br>
-$3.23 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$6.352 billion (2023 est.)<br>
+$6.002 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: drams (AMD) per US dollar -<br>
+392.73 (2024 est.)<br>
 392.476 (2023 est.)<br>
 435.666 (2022 est.)<br>
 503.77 (2021 est.)<br>
 489.009 (2020 est.)<br>
-480.445 (2019 est.)<br>
 
 ## Energy
 
@@ -610,12 +604,12 @@ _total subscriptions_: 3.96 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 135 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>the telecom sector was able to post modest gains in the mobile and broadband segments; fixed-line services continue to decrease with the rollout of fiber networks; the fixed broadband market remains undeveloped due to the lack of infrastructure outside the main cities; mobile broadband is expected increase by 2026</p> (2024)<br>
+_general assessment_: <p>the telecom sector has posted modest gains in the mobile and broadband segments; fixed-line services continue to decrease with the rollout of fiber networks; the fixed broadband market remains undeveloped due to the lack of infrastructure outside the main cities; mobile broadband is expected to increase by 2026</p> (2024)<br>
 _domestic_: roughly 13 per 100 fixed-line and 135 per 100 mobile-cellular; reliable fixed-line and mobile-cellular services are available across Yerevan and in major cities and towns; mobile-cellular coverage available in most rural areas (2022)<br>
 _international_: country code - 374; Yerevan is connected to the&nbsp;Caucasus Cable System&nbsp;fiber-optic cable through Georgia and Iran to Europe; additional international service is available by microwave radio relay and landline connections to the other countries of the Commonwealth of Independent States, through the Moscow international switch, and by satellite to the rest of the world; satellite earth stations - 3 (2019)<br>
 
 **Broadcast media**<br>
-<p>Armenia’s government-run Public Television network operates alongside 100 privately owned TV stations that provide local to near nationwide coverage; three Russian TV companies are broadcast in Armenia under interstate agreements; subscription cable TV services are available in most regions; several major international broadcasters are available, including CNN; Armenian TV completed conversion from analog to digital broadcasting in late 2016; Public Radio of Armenia is a national, state-run broadcast network that operates alongside 18 privately owned radio stations</p> (2024)<br>
+<p>government-run Public Television network operates alongside 100 privately owned TV stations that provide local to near-nationwide coverage; three Russian TV companies are broadcast under interstate agreements; subscription cable TV services are available in most regions; several major international broadcasters are available, including CNN; Armenian TV completed conversion from analog to digital broadcasting in 2016; Public Radio of Armenia is a national, state-run broadcast network that operates alongside 18 privately owned radio stations</p> (2024)<br>
 
 **Internet country code**<br>
 .am<br>
@@ -629,10 +623,6 @@ _subscriptions per 100 inhabitants_: 19 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 3 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 5<br>
-
 **Civil aircraft registration country code prefix**<br>
 EK<br>
 
@@ -642,16 +632,8 @@ EK<br>
 **Heliports**<br>
 1 (2025)<br>
 
-**Pipelines**<br>
-3,838 km gas (high and medium pressure) (2017)<br>
-
 **Railways**<br>
 _total_: 686 km (2017)<br>
-
-**Roadways**<br>
-_total_: 7,700 km (2019)<br>
-_urban_: 3,780 km<br>
-_non-urban_: 3,920 km<br>
 
 ## Military and Security
 
@@ -667,14 +649,14 @@ Armenian Republic Armed Forces: Armenian Army (includes land, air, air defense f
 5% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 50,000 active troops (2024)<br>
+approximately 40-50,000 active Armenian Armed Forces troops (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes mostly Russian and Soviet-era equipment; in recent years however, Armenia has looked to other countries besides Russia to provide military hardware, including France and India (2024)<br>
 
 **Military service age and obligation**<br>
 18-27 for voluntary (men and women), contract (men and women) or compulsory (men) military service; contract military service is 3-12 months or 3 or 5 years; conscripts serve 24 months; men under the age of 36, who have not previously served as contract servicemen and are registered in the reserve, as well as women, regardless of whether they are registered in the reserve can be enrolled in contractual military service; all citizens aged 27 to 50 are registered in the military reserve and may be called to serve if mobilization is declared (2024)<br>
-<strong>note: </strong>in 2023, Armenia approved six-month voluntary service for women, after which they have the option to switch to a five-year contract; previously, women served on a contract basis; as of 2021, women made up about 10% of the active duty military<br>
+<strong>note: </strong>in 2023, Armenia approved six-month voluntary service for women, after which they have the option to switch to a five-year contract; previously, women served on a contract basis; as of 2021, women made up about 10% of the active-duty military<br>
 
 **Military - note**<br>
 the Armenian Armed Forces were officially established in 1992, although their origins go back to 1918; the modern military’s missions include deterrence, territorial defense, crisis management, humanitarian assistance, and disaster response, as well as socio-economic development projects; territorial defense is its primary focus, particularly in regards to tensions with neighboring Azerbaijan; Armenia and Azerbaijan engaged in open conflicts over the Nagorno-Karabakh enclave in 1991-94 and 2020; Azerbaijan seized the entire enclave in 2023 <br><br>Armenia has traditionally had close military ties with Russia and has hosted Russian military forces; it also had been a member of the Russian-led Collective Security Treaty Organization (CSTO) since 1994 and committed troops to CSTO's rapid reaction force until suspending its membership in 2024; Armenia has relations with NATO going back to 1992 when Armenia joined the North Atlantic Cooperation Council; in 1994, it joined NATO’s Partnership for Peace program and has contributed to the NATO force in Kosovo, as well as the former NATO deployment in Afghanistan (2024)<br>

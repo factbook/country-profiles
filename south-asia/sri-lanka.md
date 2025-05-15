@@ -70,7 +70,7 @@ the population is primarily concentrated within a broad wet zone in the southwes
 occasional cyclones and tornadoes<br>
 
 **Geography - note**<br>
-strategic location near major Indian Ocean sea lanes; Adam's Bridge is a chain of limestone shoals between the southeastern coast of India and the northwestern coast of Sri Lanka; geological evidence suggests that this 50-km long Bridge once connected India and Sri Lanka; ancient records seem to indicate that a foot passage was possible between the two land masses until the 15th century when the land bridge broke up in a cyclone<br>
+strategic location near major Indian Ocean sea lanes; Adam's Bridge is a chain of limestone shoals between the southeastern coast of India and the northwestern coast of Sri Lanka; geological evidence suggests that this 50-km (31-mi) bridge once connected India and Sri Lanka; ancient records seem to indicate that a foot passage was possible between the two land masses until the 15th century, when the land bridge broke up in a cyclone<br>
 
 ## People and Society
 
@@ -99,10 +99,10 @@ _15-64 years_: 65% (male 6,954,869/female 7,336,897)<br>
 _65 years and over_: 12.4% (2024 est.) (male 1,149,256/female 1,580,053)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.7<br>
-_youth dependency ratio_: 35.4<br>
-_elderly dependency ratio_: 17<br>
-_potential support ratio_: 5.9 (2021 est.)<br>
+_total dependency ratio_: 53.8 (2024 est.)<br>
+_youth dependency ratio_: 34.7 (2024 est.)<br>
+_elderly dependency ratio_: 19.1 (2024 est.)<br>
+_potential support ratio_: 5.2 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 34.1 years (2024 est.)<br>
@@ -231,7 +231,7 @@ _female_: 14 years (2018)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation; soil erosion; wildlife populations threatened by poaching and urbanization; coastal degradation from mining activities and increased pollution; coral reef destruction; freshwater resources being polluted by industrial wastes and sewage runoff; waste disposal; air pollution in Colombo<br>
+deforestation; soil erosion; poaching; effects of urbanization; coastal degradation from mining activities and pollution; coral reef destruction; freshwater resources polluted by industrial wastes and sewage runoff; waste disposal; air pollution in Colombo<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -254,12 +254,6 @@ _rate of urbanization_: 1.22% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to unfavorable prospects for 2023 agricultural output and high prices of key food items - </em>the 2023 cereal production is forecast below the five-year average, mostly reflecting constraints on farmers’ access to agricultural inputs; elevated prices of key food items are also constraining economic access to food for a large number of households (2023)<br>
-
-**Revenue from forest resources**<br>
-0.06% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 23.88 micrograms per cubic meter (2019 est.)<br>
@@ -287,7 +281,7 @@ _conventional short form_: Sri Lanka<br>
 _local long form_: Shri Lanka Prajatantrika Samajavadi Janarajaya (Sinhala)/ Ilankai Jananayaka Choshalichak Kutiyarachu (Tamil)<br>
 _local short form_: Shri Lanka (Sinhala)/ Ilankai (Tamil)<br>
 _former_: Serendib, Ceylon<br>
-_etymology_: the name means "resplendent island" in Sanskrit<br>
+_etymology_: the name is composed of the Sanskrit words <em>shri </em>(happiness or holiness) and <em>lanka </em>(island); the former name Serendib was an Arabic derivation of the Sanskrit word <em>simhaladvipa</em>, or "island of the place of lions;" the former name Ceylon came from the Sanskrit <em>simha</em>, or "lion"<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -296,7 +290,7 @@ presidential republic<br>
 _name_: Colombo (commercial capital); Sri Jayewardenepura Kotte (legislative capital)<br>
 _geographic coordinates_: 6 55 N, 79 50 E<br>
 _time difference_: UTC+5.5 (10.5 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: Colombo may derive from the Sinhala "kolon thota," meaning "port on the river" (referring to the Kelani River that empties into the Indian Ocean at Colombo); alternatively, the name may derive from the Sinhala "kola amba thota" meaning "harbor with mango trees"; it is also possible that the Portuguese named the city after Christopher COLUMBUS, who lived in Portugal for many years (as Cristovao COLOMBO) before discovering the Americas for the Spanish crown in 1492 - not long before the Portuguese made their way to Sri Lanka in 1505; Sri Jayewardenepura Kotte translates as "Resplendent City of Growing Victory" in Sinhala<br>
+_etymology_: the origin of Colombo's name is unclear; it may derive from the Sinhalese words <em>kola </em>(leaves) and <em>amba </em>(mango), referring to local mango trees, or from the name Kelantotta, referring to a ferry that crossed the Kelani River; the name was corrupted to Kolambu by Arab traders, and 16th-century Portuguese settlers then called it Colombo, possibly referring to explorer Christopher COLUMBUS; the legislative capital's name, Sri Jayewardenepura Kotte, is composed of the Sanskrit honorific <em>sri, </em>the name of Sri Lankan President J.R. JAYEWARDENE, and the Hindi word <em>pura </em>(town)<br>
 
 **Administrative divisions**<br>
 9 provinces; Central, Eastern, North Central, Northern, North Western, Sabaragamuwa, Southern, Uva, Western<br>
@@ -308,7 +302,7 @@ _etymology_: Colombo may derive from the Sinhala "kolon thota," meaning "port on
 Independence Day (National Day), 4 February (1948)<br>
 
 **Legal system**<br>
-mixed legal system of Roman-Dutch civil law, English common law, Jaffna Tamil customary law, and Muslim personal law<br>
+mixed system of Roman-Dutch civil law, English common law, Jaffna Tamil customary law, and Muslim personal law<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 16 August 1978, certified 31 August 1978<br>
@@ -416,9 +410,9 @@ $84.357 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-16.54% (2023 est.)<br>
-49.72% (2022 est.)<br>
-7.01% (2021 est.)<br>
+-0.4% (2024 est.)<br>
+16.5% (2023 est.)<br>
+49.7% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -454,19 +448,19 @@ processing of rubber, tea, coconuts, tobacco and other agricultural commodities;
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.713 million (2023 est.)<br>
+8.593 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.36% (2023 est.)<br>
-6.33% (2022 est.)<br>
-5.26% (2021 est.)<br>
+5% (2024 est.)<br>
+6% (2023 est.)<br>
+4.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.3% (2023 est.)<br>
-_male_: 20.9% (2023 est.)<br>
-_female_: 33.9% (2023 est.)<br>
+_total_: 22.3% (2024 est.)<br>
+_male_: 18.4% (2024 est.)<br>
+_female_: 29.6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -502,7 +496,7 @@ _expenditures_: $15.477 billion (2021 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-9.85% (of GDP) (2023 est.)<br>
+9.8% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -540,13 +534,13 @@ refined petroleum, fabric, crude petroleum, packaged medicine, cotton fabric (20
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.137 billion (2021 est.)<br>
-$5.664 billion (2020 est.)<br>
-$7.648 billion (2019 est.)<br>
+$6.055 billion (2024 est.)<br>
+$4.405 billion (2023 est.)<br>
+$1.896 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$43.52 billion (2023 est.)<br>
+$42.198 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -619,12 +613,6 @@ _subscriptions per 100 inhabitants_: 9 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 3 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 34<br>
-_annual passenger traffic on registered air carriers_: 5,882,376 (2018)<br>
-_annual freight traffic on registered air carriers_: 436.2 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 4R<br>
 
@@ -634,20 +622,9 @@ _annual freight traffic on registered air carriers_: 436.2 million (2018) mt-km<
 **Heliports**<br>
 1 (2025)<br>
 
-**Pipelines**<br>
-7 km refined products<br>
-
 **Railways**<br>
 _total_: 1,562 km (2016)<br>
 _broad gauge_: 1,562 km (2016) 1.676-m gauge<br>
-
-**Roadways**<br>
-_total_: 114,093 km<br>
-_paved_: 16,977 km<br>
-_unpaved_: 97,116 km (2010)<br>
-
-**Waterways**<br>
-160 km (2012) (primarily on rivers in southwest)<br>
 
 **Merchant marine**<br>
 _total_: 96 (2023)<br>
@@ -666,8 +643,8 @@ _key ports_: Batticaloa Roads, Colombo, Galle Harbor, Hambantota, Kankesanturai,
 ## Military and Security
 
 **Military and security forces**<br>
-Sri Lanka Armed Forces: Sri Lanka Army (includes National Guard and the Volunteer Force), Sri Lanka Navy (includes Marine Corps), Sri Lanka Air Force, Sri Lanka Coast Guard; Civil Security Department (Home Guard) <br><br>Ministry of Public Security: Sri Lanka National Police (2024)<br>
-<strong>note 1: </strong>the Civil Security Department, also known as the Civil Defense Force, is an auxiliary force administered by the Ministry of Defense<br><br><strong>note 2:</strong> the Sri Lanka Police includes the Special Task Force, a paramilitary unit responsible for counterterrorism and counterinsurgency operations; it coordinates internal security operations with the military<br>
+Sri Lanka Armed Forces: Sri Lanka Army (includes National Guard and the Volunteer Force), Sri Lanka Navy (includes Marine Corps), Sri Lanka Air Force, Sri Lanka Coast Guard; Civil Security Department (Home Guard) <br><br>Ministry of Public Security: Sri Lanka Police (2025)<br>
+<strong>note: </strong>the Civil Security Department, also known as the Civil Defense Force, is an auxiliary force administered by the Ministry of Defense<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2023 est.)<br>
@@ -677,8 +654,8 @@ Sri Lanka Armed Forces: Sri Lanka Army (includes National Guard and the Voluntee
 2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 260,000 total personnel (200,000 Army; 30,000 Navy; 30,000 Air Force); approximately 11,000 Special Task Force personnel (2023)<br>
-<strong>note: </strong>in January 2023, Sri Lanka’s Ministry of Defense announced plans to decrease the size of the Army to 135,000 by 2024 and 100,000 by 2030<br>
+estimated 215,000 active Armed Forces personnel (140,000 Army; 30,000 Air Force; 45,000 Navy) (2025)<br>
+<strong>note: </strong>the Sri Lankan military has been downsizing for several years; in 2025, the Sri Lankan Government announced its intent to decrease the size of the Army to 100,000, the Air Force to 18,000, and the Navy to 40,000 by 2030<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists mostly of Chinese- and Russian-origin equipment with a smaller mix of material from countries such as India and the US, including donations; defense acquisitions have been limited over the past decade (2024)<br>

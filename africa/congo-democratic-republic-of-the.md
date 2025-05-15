@@ -82,7 +82,7 @@ urban clusters are spread throughout the country, particularly in the northeast 
 <p>periodic droughts in south; Congo River floods (seasonal); active volcanoes in the east along the Great Rift Valley</p><p><strong>volcanism:</strong> Nyiragongo (3,470 m), which erupted in 2002 and is experiencing ongoing activity, poses a major threat to the city of Goma, home to a quarter million people; the volcano produces unusually fast-moving lava, known to travel up to 100 km /hr; Nyiragongo has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; its neighbor, Nyamuragira, which erupted in 2010, is Africa's most active volcano; Visoke is the only other historically active volcano</p><br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> second largest country in Africa (after Algeria) and largest country in Sub-Saharan Africa; straddles the equator; dense tropical rain forest in central river basin and eastern highlands; the narrow strip of land that controls the lower Congo River is the DRC's only outlet to the South Atlantic Ocean</p> <p><strong>note 2:</strong> because of its speed, cataracts, rapids, and turbulence the Congo River, most of which flows through the DRC, has never been accurately measured along much of its length; nonetheless, it is conceded to be the deepest river in the world; estimates of its greatest depth vary between 220 and 250 meters</p><br>
+<p><strong>note 1:</strong> second-largest country in Africa (after Algeria) and largest country in sub-Saharan Africa; straddles the equator; dense tropical rain forest in central river basin and eastern highlands; the narrow strip of land that controls the lower Congo River is the DRC's only outlet to the South Atlantic Ocean</p> <p><strong>note 2:</strong> the Congo River, most of which flows through the DRC, has never been accurately measured along much of its length because of its speed, cataracts, rapids, and turbulence; nonetheless, it is conceded to be the deepest river in the world, with estimates of the point of greatest depth varying between 220 and 250 meters</p><br>
 
 ## People and Society
 
@@ -111,10 +111,10 @@ _15-64 years_: 51.8% (male 29,845,450/female 29,884,958)<br>
 _65 years and over_: 2.5% (2024 est.) (male 1,258,442/female 1,621,018)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 98<br>
-_youth dependency ratio_: 92.1<br>
-_elderly dependency ratio_: 5.9<br>
-_potential support ratio_: 17.1 (2021 est.)<br>
+_total dependency ratio_: 93.2 (2024 est.)<br>
+_youth dependency ratio_: 88.4 (2024 est.)<br>
+_elderly dependency ratio_: 4.8 (2024 est.)<br>
+_potential support ratio_: 20.7 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 16.9 years (2024 est.)<br>
@@ -241,7 +241,7 @@ _female_: 9 years (2013)<br>
 ## Environment
 
 **Environment - current issues**<br>
-poaching threatens wildlife populations; water pollution; deforestation (forests endangered by fires set to clear the land for agricultural purposes; forests also used as a source of fuel); soil erosion; mining (diamonds, gold, coltan - a mineral used in creating capacitors for electronic devices) causing environmental damage<br>
+poaching; water pollution; deforestation from agriculture and wood used for fuel; soil erosion; damage from mining<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Tropical Timber 2006, Wetlands<br>
@@ -264,12 +264,6 @@ _rate of urbanization_: 4.33% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to internal conflict in eastern regions and high food prices - </em>according to an October 2022 analysis, 24.5 million people were projected to experience acute food insecurity between January and June 2023; this is due to the intensification of the conflict in the northeastern provinces, which, among other factors, has prevented completion of the harvests and likely will reduce food availability in the months to come (2023)<br>
-
-**Revenue from forest resources**<br>
-8.72% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 31.58 micrograms per cubic meter (2019 est.)<br>
@@ -320,7 +314,7 @@ _name_: Kinshasa<br>
 _geographic coordinates_: 4 19 S, 15 18 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _time zone note_: the DRC has two time zones<br>
-_etymology_: founded as a trading post in 1881 and named Leopoldville in honor of King LEOPOLD II of the Belgians, who controlled the Congo Free State, the vast central African territory that became the Democratic Republic of the Congo in 1960; in 1966, Leopoldville was renamed Kinshasa, after a village of that name that once stood near the site<br>
+_etymology_: founded as a trading post in 1881 and named Leopoldville in honor of King LEOPOLD II of the Belgians; in 1966, Leopoldville was renamed Kinshasa, a Bantu name of unknown meaning<br>
 
 **Administrative divisions**<br>
 26 provinces (provinces, singular - province); Bas-Uele (Lower Uele), Equateur, Haut-Katanga (Upper Katanga), Haut-Lomami (Upper Lomami), Haut-Uele (Upper Uele), Ituri, Kasai, Kasai-Central, Kasai-Oriental (East Kasai), Kinshasa, Kongo Central, Kwango, Kwilu, Lomami, Lualaba, Mai-Ndombe, Maniema, Mongala, Nord-Kivu (North Kivu), Nord-Ubangi (North Ubangi), Sankuru, Sud-Kivu (South Kivu), Sud-Ubangi (South Ubangi), Tanganyika, Tshopo, Tshuapa<br>
@@ -452,8 +446,8 @@ $66.383 billion (2023 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 41.5% (2017 est.)<br>
-2.89% (2016 est.)<br>
-0.74% (2015 est.)<br>
+2.9% (2016 est.)<br>
+0.7% (2015 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -488,19 +482,19 @@ mining (copper, cobalt, gold, diamonds, coltan, zinc, tin, tungsten), mineral pr
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-37.514 million (2023 est.)<br>
+38.546 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.54% (2023 est.)<br>
-4.59% (2022 est.)<br>
-5.27% (2021 est.)<br>
+4.6% (2024 est.)<br>
+4.5% (2023 est.)<br>
+4.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.6% (2023 est.)<br>
-_male_: 10.9% (2023 est.)<br>
-_female_: 6.7% (2023 est.)<br>
+_total_: 8.5% (2024 est.)<br>
+_male_: 10.8% (2024 est.)<br>
+_female_: 6.6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -525,10 +519,11 @@ _expenditures_: $5.109 billion (2021 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-15.99% of GDP (2022 est.)<br>
+16% of GDP (2022 est.)<br>
 
 **Taxes and other revenues**<br>
-11.41% (of GDP) (2022 est.)<br>
+11.4% (of GDP) (2022 est.)<br>
+<strong>note:</strong> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
 -$3.883 billion (2023 est.)<br>
@@ -571,7 +566,7 @@ $3.467 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$8.566 billion (2023 est.)<br>
+$7.926 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -640,7 +635,7 @@ _domestic_: inadequate fixed-line infrastructure with fixed-line connections les
 _international_: country code - 243; ACE and WACS submarine cables to West and South Africa and&nbsp;Europe;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-state-owned TV broadcast station with near national coverage; more than a dozen privately owned TV stations - 2 with near national coverage; 2 state-owned radio stations are supplemented by more than 100 private radio stations; transmissions of at least 2 international broadcasters are available<br>
+state-owned TV station with near-national coverage; more than a dozen privately owned TV stations, including 2 with near-national coverage; 2 state-owned radio stations and over 100 private radio stations; transmissions of at least 2 international broadcasters are available<br>
 
 **Internet country code**<br>
 .cd<br>
@@ -654,12 +649,6 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 8 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 13<br>
-_annual passenger traffic on registered air carriers_: 932,043 (2018)<br>
-_annual freight traffic on registered air carriers_: 890,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 9Q<br>
 
@@ -669,23 +658,10 @@ _annual freight traffic on registered air carriers_: 890,000 (2018) mt-km<br>
 **Heliports**<br>
 1 (2025)<br>
 
-**Pipelines**<br>
-62 km gas, 77 km oil, 756 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 4,007 km (2014)<br>
 _narrow gauge_: 3,882 km (2014) 1.067-m gauge (858 km electrified)<br>
 125 1.000-mm gauge<br>
-
-**Roadways**<br>
-_total_: 152,373 km<br>
-_paved_: 3,047 km<br>
-_unpaved_: 149,326 km<br>
-_urban_: 7,400 km<br>
-_non-urban_: 144,973 km (2015)<br>
-
-**Waterways**<br>
-15,000 km (2011) (including the Congo River, its tributaries, and unconnected lakes)<br>
 
 **Merchant marine**<br>
 _total_: 24 (2023)<br>
@@ -714,7 +690,7 @@ Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Repu
 0.9% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-limited and varied information; estimated 100-150,000 active troops, including approximately 10,000 Republican Guard (2024)<br>
+estimated 100-150,000 active FARDC troops (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FARDC is equipped mostly with Soviet-era and older French weapons and equipment; in 2024, the DRC signed an agreement with China for the provision of military equipment (2024)<br>

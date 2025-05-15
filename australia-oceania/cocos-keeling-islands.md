@@ -65,7 +65,7 @@ only Home Island and West Island are populated<br>
 cyclone season is October to April<br>
 
 **Geography - note**<br>
-<strong>note: </strong>there are 27 coral islands in the group; apart from North Keeling Island, which lies 30 km north of the main group, the islands form a horseshoe-shaped atoll surrounding a lagoon; North Keeling Island was declared a national park in 1995 and is administered by Parks Australia; the population on the two inhabited islands generally is split between the ethnic Europeans on West Island and the ethnic Malays on Home Island; the islands are thickly covered with coconut palms and other vegetation<br>
+there are 27 coral islands in the group; apart from North Keeling Island, which lies 30 km north of the main group, the islands form a horseshoe-shaped atoll around a lagoon<br>
 
 ## People and Society
 
@@ -105,7 +105,7 @@ only Home Island and West Island are populated<br>
 ## Environment
 
 **Environment - current issues**<br>
-freshwater resources are limited to rainwater accumulations in natural underground reservoirs; illegal fishing a concern<br>
+limited freshwater resources; illegal fishing<br>
 
 **Climate**<br>
 tropical with high humidity, moderated by the southeast trade winds for about nine months of the year<br>
@@ -243,11 +243,6 @@ _percent of population_: 13.4% (2021 est.)<br>
 
 **Airports**<br>
 1 (2025)<br>
-
-**Roadways**<br>
-_total_: 22 km<br>
-_paved_: 10 km<br>
-_unpaved_: 12 km (2007)<br>
 
 ## Military and Security
 

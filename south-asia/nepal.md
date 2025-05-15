@@ -74,7 +74,7 @@ most of the population is divided nearly equally between a concentration in the 
 severe thunderstorms; flooding; landslides; drought and famine depending on the timing, intensity, and duration of the summer monsoons<br>
 
 **Geography - note**<br>
-landlocked; strategic location between China and India; contains eight of world's 10 highest peaks, including Mount Everest and Kanchenjunga -- the world's tallest and third tallest mountains -- on the borders with China and India respectively<br>
+landlocked; strategic location between China and India; contains eight of world's 10 highest peaks, including Mount Everest and Kanchenjunga -- the world's tallest and third-tallest mountains -- on the borders with China and India, respectively<br>
 
 ## People and Society
 
@@ -105,10 +105,10 @@ _15-64 years_: 67.8% (male 10,153,682/female 10,957,011)<br>
 _65 years and over_: 6.4% (2024 est.) (male 961,717/female 1,015,598)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 54.9<br>
-_youth dependency ratio_: 45.5<br>
-_elderly dependency ratio_: 9.4<br>
-_potential support ratio_: 10.7 (2021 est.)<br>
+_total dependency ratio_: 47.4 (2024 est.)<br>
+_youth dependency ratio_: 38.1 (2024 est.)<br>
+_elderly dependency ratio_: 9.4 (2024 est.)<br>
+_potential support ratio_: 10.7 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 27.6 years (2024 est.)<br>
@@ -238,7 +238,7 @@ _female_: 13 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation (overuse of wood for fuel and lack of alternatives); forest degradation; soil erosion; contaminated water (with human and animal wastes, agricultural runoff, and industrial effluents); unmanaged solid-waste; wildlife conservation; vehicular emissions<br>
+deforestation (overuse of wood for fuel and lack of alternatives); forest degradation; soil erosion; contaminated water from human and animal wastes, agricultural runoff, and industrial effluents; unmanaged solid waste; wildlife conservation; air pollution from vehicular emissions<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
@@ -258,12 +258,6 @@ _other_: 32.3% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 21.9% of total population (2023)<br>
 _rate of urbanization_: 3.09% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.45% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 36.43 micrograms per cubic meter (2019 est.)<br>
@@ -303,7 +297,7 @@ federal parliamentary republic<br>
 _name_: Kathmandu<br>
 _geographic coordinates_: 27 43 N, 85 19 E<br>
 _time difference_: UTC+5.75 (10.75 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: name derives from the Kasthamandap temple that stood in Durbar Square; in Sanskrit, <em>kastha</em> means "wood" and <em>mandapa</em> means "pavilion"; the three-story structure was made entirely of wood, without iron nails or supports, and dated to the late 16th century; it collapsed during a 2015 earthquake<br>
+_etymology_: the name comes from the Nepalese words <em>kath </em>(wooden) and <em>mandu </em>(temple), referring to the local temples that are often still built from wood<br>
 
 **Administrative divisions**<br>
 7 provinces (pradesh, singular - pradesh); Bagmati, Gandaki, Karnali, Koshi, Lumbini, Madhesh, Sudurpashchim<br>
@@ -315,7 +309,7 @@ _etymology_: name derives from the Kasthamandap temple that stood in Durbar Squa
 Constitution Day, 20 September (2015); note - marks the promulgation of Nepal’s constitution in 2015 and replaces the previous 28 May Republic Day as the official national day in Nepal; the Gregorian day fluctuates based on Nepal’s Hindu calendar<br>
 
 **Legal system**<br>
-English common law and Hindu legal concepts; note - new criminal and civil codes&nbsp;came into&nbsp;effect on 17 August 2018<br>
+English common law and Hindu legal concepts<br>
 
 **Constitution**<br>
 _history_: several previous; latest approved by the Second Constituent Assembly 16 September 2015, signed by the president and effective 20 September 2015<br>
@@ -435,9 +429,9 @@ $40.908 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-7.11% (2023 est.)<br>
-7.65% (2022 est.)<br>
-4.15% (2021 est.)<br>
+7.1% (2023 est.)<br>
+7.7% (2022 est.)<br>
+4.1% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -467,19 +461,19 @@ tourism, carpets, textiles, small rice, jute, sugar, oilseed mills, cigarettes, 
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.569 million (2023 est.)<br>
+8.435 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-10.69% (2023 est.)<br>
-10.92% (2022 est.)<br>
-12.32% (2021 est.)<br>
+10.7% (2024 est.)<br>
+10.6% (2023 est.)<br>
+10.8% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.4% (2023 est.)<br>
-_male_: 18.7% (2023 est.)<br>
-_female_: 23.3% (2023 est.)<br>
+_total_: 20.8% (2024 est.)<br>
+_male_: 19.3% (2024 est.)<br>
+_female_: 23.6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -504,23 +498,23 @@ _expenditures_: $7.163 billion (2021 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-39.92% of GDP (2021 est.)<br>
+39.9% of GDP (2021 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-17.49% (of GDP) (2021 est.)<br>
+17.5% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$998.628 million (2023 est.)<br>
--$2.372 billion (2022 est.)<br>
--$5.363 billion (2021 est.)<br>
+$1.954 billion (2024 est.)<br>
+$146.66 million (2023 est.)<br>
+-$3.088 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$3.02 billion (2023 est.)<br>
-$2.755 billion (2022 est.)<br>
-$2.52 billion (2021 est.)<br>
+$3.744 billion (2024 est.)<br>
+$2.258 billion (2023 est.)<br>
+$2.106 billion (2022 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -532,9 +526,9 @@ knotted carpets, garments, flat-rolled iron, synthetic fibers, palm oil (2023)<b
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$14.104 billion (2023 est.)<br>
-$15.463 billion (2022 est.)<br>
-$16.993 billion (2021 est.)<br>
+$17.777 billion (2024 est.)<br>
+$13.877 billion (2023 est.)<br>
+$15.227 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -552,16 +546,16 @@ $9.639 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$6.489 billion (2023 est.)<br>
+$5.719 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Nepalese rupees (NPR) per US dollar -<br>
+133.727 (2024 est.)<br>
 132.115 (2023 est.)<br>
 125.199 (2022 est.)<br>
 118.134 (2021 est.)<br>
 118.345 (2020 est.)<br>
-112.609 (2019 est.)<br>
 
 ## Energy
 
@@ -616,7 +610,7 @@ _domestic_: fixed-line is 2 per 100 persons and mobile-cellular nearly 130 per 1
 _international_: country code - 977; Nepal, China and Tibet connected across borders with underground and all-dielectric self-supporting (ADSS) fiber-optic cables; radiotelephone communications; microwave and fiber landlines to India; satellite earth station - 1 Intelsat (Indian Ocean) (2019)<br>
 
 **Broadcast media**<br>
-state operates 3 TV stations, as well as national and regional radio stations; 117 television channels are licensed, among those 71 are cable television channels,&nbsp;three are distributed through&nbsp;Direct-To-Home (DTH) system, and four are digital terrestrial;&nbsp;736 FM radio stations are licensed and at least 314 of those radio stations are community radio stations (2019)<br>
+state operates 3 TV stations, as well as national and regional radio stations; 117 television channels are licensed, 71 of which are cable TV, 3 are distributed through Direct-To-Home (DTH) system, and 4 are digital terrestrial; 736 FM radio stations are licensed, and at least 314 of those are community stations (2019)<br>
 
 **Internet country code**<br>
 .np<br>
@@ -629,12 +623,6 @@ _total_: 1.44 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 5 (2022 est.)<br>
 
 ## Transportation
-
-**National air transport system**<br>
-_number of registered air carriers_: 6 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 39<br>
-_annual passenger traffic on registered air carriers_: 3,296,953 (2018)<br>
-_annual freight traffic on registered air carriers_: 4.66 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 9N<br>
@@ -649,13 +637,10 @@ _annual freight traffic on registered air carriers_: 4.66 million (2018) mt-km<b
 _total_: 59 km (2018)<br>
 _narrow gauge_: 59 km (2018) 0.762-m gauge<br>
 
-**Roadways**<br>
-_total_: 64,500 km (2020)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>
-Nepalese Armed Forces (Ministry of Defense): Nepali Army (includes Air Wing)<br><br>Ministry of Home Affairs: Nepal Police, Nepal Armed Police Force (2024)<br>
+Nepalese Armed Forces (Ministry of Defense): Nepali Army (includes Air Wing)<br><br>Ministry of Home Affairs: Nepal Police, Nepal Armed Police Force (APF) (2025)<br>
 <strong>note: </strong>the Nepal Police are responsible for enforcing law and order across the country; the Armed Police Force is responsible for combating terrorism, providing security during riots and public disturbances, assisting in natural disasters, and protecting vital infrastructure, public officials, and the borders; it also conducts counterinsurgency and counterterrorism operations and would assist the Army in the event of an external invasion<br>
 
 **Military expenditures**<br>
@@ -666,7 +651,7 @@ Nepalese Armed Forces (Ministry of Defense): Nepali Army (includes Air Wing)<br>
 1.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 95,000 active troops (including a small air wing of about 500 personnel) (2023)<br>
+approximately 95,000 active Armed Forces personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Army's inventory includes a mix of mostly older equipment largely of British, Chinese, Indian, Russian, and South African origin; in recent years, Nepal has received limited amounts of newer hardware from several countries, including China, Indonesia, Italy, and Russia (2023)<br>

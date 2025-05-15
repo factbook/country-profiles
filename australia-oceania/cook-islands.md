@@ -97,10 +97,10 @@ _15-64 years_: 65.9% (male 2,634/female 2,479)<br>
 _65 years and over_: 16% (2024 est.) (male 608/female 631)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.8<br>
-_youth dependency ratio_: 36.4<br>
-_elderly dependency ratio_: 17.4<br>
-_potential support ratio_: 5.8 (2021)<br>
+_total dependency ratio_: 51.8 (2024 est.)<br>
+_youth dependency ratio_: 27.6 (2024 est.)<br>
+_elderly dependency ratio_: 24.2 (2024 est.)<br>
+_potential support ratio_: 4.1 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 41.1 years (2024 est.)<br>
@@ -211,7 +211,7 @@ _female_: 14 years (2012)<br>
 ## Environment
 
 **Environment - current issues**<br>
-limited land presents solid and liquid waste disposal problems; soil destruction and deforestation; environmental degradation due to indiscriminate use of pesticides; improper disposal of pollutants; overfishing and destructive fishing practices; over dredging of lagoons and coral rubble beds; unregulated building<br>
+solid- and liquid-waste disposal; soil degradation; deforestation; use of pesticides; improper disposal of pollutants; overfishing and destructive fishing practices; over-dredging of lagoons and coral rubble beds; unregulated building<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution<br>
@@ -250,7 +250,7 @@ _etymology_: named after Captain James COOK, the British explorer who visited th
 parliamentary democracy<br>
 
 **Dependency status**<br>
-self-governing in free association with New Zealand; Cook Islands is fully responsible for internal affairs and conducts its own international relations, including establishing diplomatic relationships with foreign countries; New Zealand has a constitutional responsibility to respond to requests for assistance with foreign affairs, disasters, and defense from the Government of the Cook Islands<br>
+self-governing in free association with New Zealand; Cook Islands is fully responsible for internal affairs and conducts its own international relations, including establishing diplomatic relationships with foreign countries; New Zealand has a constitutional responsibility to respond to requests for assistance with foreign affairs, disasters, and defense&nbsp;<br>
 
 **Capital**<br>
 _name_: Avarua<br>
@@ -434,7 +434,7 @@ _domestic_: service is provided by small exchanges connected to subscribers by o
 _international_: country code - 682; the Manatua submarine cable to surrounding islands of Niue,&nbsp;Samoa,&nbsp;French Polynesia and other Cook Islands, the&nbsp;topography of the South Pacific region has made Internet connectivity a serious&nbsp;issue for many of the remote islands; submarine fiber-optic networks are expensive to build and maintain;&nbsp;satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
 
 **Broadcast media**<br>
-1 privately owned TV station broadcasts from Rarotonga providing a mix of local news and overseas-sourced programs (2019)<br>
+1 privately owned TV station in Rarotonga provides a mix of local news and overseas-sourced programs (2019)<br>
 
 **Internet country code**<br>
 .ck<br>
@@ -448,20 +448,11 @@ _subscriptions per 100 inhabitants_: 15 (2018 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 6<br>
-
 **Civil aircraft registration country code prefix**<br>
 E5<br>
 
 **Airports**<br>
 10 (2025)<br>
-
-**Roadways**<br>
-_total_: 295 km<br>
-_paved_: 207 km<br>
-_unpaved_: 88 km (2018)<br>
 
 **Merchant marine**<br>
 _total_: 190 (2023)<br>

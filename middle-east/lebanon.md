@@ -68,7 +68,7 @@ the majority of the people live on or near the Mediterranean coast, and of these
 earthquakes; dust storms, sandstorms<br>
 
 **Geography - note**<br>
-smallest country in continental Asia; Nahr el Litani is the only major river in Near East not crossing an international boundary; rugged terrain historically helped isolate, protect, and develop numerous factional groups based on religion, clan, and ethnicity<br>
+smallest country in continental Asia; Nahr el Litani is the only major river in Near East not crossing an international boundary<br>
 
 ## People and Society
 
@@ -99,10 +99,10 @@ _15-64 years_: 71.6% (male 1,939,311/female 1,900,574)<br>
 _65 years and over_: 9.5% (2024 est.) (male 219,880/female 289,774)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 59.3<br>
-_youth dependency ratio_: 44<br>
-_elderly dependency ratio_: 15.3<br>
-_potential support ratio_: 6.5 (2021 est.)<br>
+_total dependency ratio_: 50.3 (2024 est.)<br>
+_youth dependency ratio_: 39 (2024 est.)<br>
+_elderly dependency ratio_: 11.3 (2024 est.)<br>
+_potential support ratio_: 8.8 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 36.3 years (2024 est.)<br>
@@ -251,12 +251,6 @@ _rate of urbanization_: -1.23% annual rate of change (2020-25 est.)<br>
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to the ongoing financial and economic crisis - </em>according to the latest analysis, about 1.46 million Lebanese residents (38% of the resident population) were subjected to severe food insecurity between January and April 2023 (2023)<br>
 
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 24.23 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 24.8 megatons (2016 est.)<br>
@@ -293,7 +287,7 @@ _name_: Beirut<br>
 _geographic coordinates_: 33 52 N, 35 30 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: derived from the Canaanite or Phoenician word "ber'ot," meaning "the wells" or "fountain," which referred to the site's accessible water table<br>
+_etymology_: derived from the Phoenician or Hebrew word <em>be'erot</em>, meaning "the wells," which were the only source of water in the region<br>
 
 **Administrative divisions**<br>
 8 governorates (mohafazat, singular - mohafazah); Aakkar, Baalbek-Hermel, Beqaa (Bekaa), Beyrouth (Beirut), Liban-Nord (North Lebanon), Liban-Sud (South Lebanon), Mont-Liban (Mount Lebanon), Nabatiye<br>
@@ -305,7 +299,7 @@ _etymology_: derived from the Canaanite or Phoenician word "ber'ot," meaning "th
 Independence Day, 22 November (1943)<br>
 
 **Legal system**<br>
-mixed legal system of civil law based on the French civil code, Ottoman legal tradition, and religious laws covering personal status, marriage, divorce, and other family relations of the Jewish, Islamic, and Christian communities<br>
+mixed system of civil law based on the French civil code, Ottoman legal tradition, and religious laws covering personal status, marriage, divorce, and other family relations of the Jewish, Islamic, and Christian communities<br>
 
 **Constitution**<br>
 _history_: drafted 15 May 1926, adopted 23 May 1926<br>
@@ -325,7 +319,7 @@ _residency requirement for naturalization_: unknown<br>
 
 **Executive branch**<br>
 _chief of state_: President Joseph AOUN (since 9 January 2025)<br>
-_head of government_: Prime Minister Najib MIQATI (since 20 September 2021)<br>
+_head of government_: Prime Minister Nawaf SALAM (since 8 February 2025)<br>
 _cabinet_: Cabinet chosen by the prime minister in consultation with the president and the National Assembly<br>
 _elections/appointments_: president indirectly elected by a qualified majority of two-thirds of Parliament members in the first round and if needed a two-thirds quorum of members by simple majority popular vote for a 6-year term (eligible for non-consecutive terms); last held on 9 January 2025 (next to be held in 2031); prime minister appointed by the president in consultation with the National Assembly<br>
 _election results_: <em>2025: </em>Joseph AOUN elected president in second round; National Assembly vote - 99 of 128; note - President Michel AWN's term ended 31 October 2022, and the government was in caretaker status until the 9 January National Assembly election of AOUN<br><em><br>2016:</em> Michel AWN elected president in second round; National Assembly vote - Michel AWN (FPM) 83; the president elected in its 46th attempt on 31 October 2016<br>
@@ -413,9 +407,9 @@ $20.992 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-221.34% (2023 est.)<br>
-171.21% (2022 est.)<br>
-154.76% (2021 est.)<br>
+221.3% (2023 est.)<br>
+171.2% (2022 est.)<br>
+154.8% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -451,19 +445,19 @@ banking, tourism, real estate and construction, food processing, wine, jewelry, 
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.925 million (2023 est.)<br>
+1.939 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-11.57% (2023 est.)<br>
+11.5% (2023 est.)<br>
 11.6% (2022 est.)<br>
-12.62% (2021 est.)<br>
+12.7% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.7% (2023 est.)<br>
-_male_: 24.6% (2023 est.)<br>
-_female_: 22% (2023 est.)<br>
+_total_: 23.6% (2023 est.)<br>
+_male_: 24.4% (2023 est.)<br>
+_female_: 21.9% (2023 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
@@ -486,7 +480,7 @@ _expenditures_: $11.356 billion (2021 est.)<br>
 <strong>note:</strong> data cover central government debt and exclude debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment<br>
 
 **Taxes and other revenues**<br>
-5.68% (of GDP) (2021 est.)<br>
+5.7% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -524,22 +518,22 @@ refined petroleum, gold, cars, packaged medicine, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$9.24 billion (2024 est.)<br>
+$27.49 billion (2023 est.)<br>
 $32.513 billion (2022 est.)<br>
-$35.239 billion (2021 est.)<br>
-$42.44 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$41.991 billion (2023 est.)<br>
+$41.936 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Lebanese pounds (LBP) per US dollar -<br>
+13,875.625 (2023 est.)<br>
 1,507.5 (2022 est.)<br>
 1,507.5 (2021 est.)<br>
 1,507.5 (2020 est.)<br>
 1,507.5 (2019 est.)<br>
-1,507.5 (2018 est.)<br>
 
 ## Energy
 
@@ -591,7 +585,7 @@ _domestic_: fixed-line is 16 per 100 and 77 per 100 for mobile-cellular subscrip
 _international_: country code - 961; landing points for the IMEWE, BERYTAR AND CADMOS submarine cable links to Europe, Africa, the Middle East and Asia; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-7 TV stations, 1 of which is state owned; more than 30 radio stations, 1 of which is state owned; satellite and cable TV services available; transmissions of at least 2 international broadcasters are accessible through partner stations (2019)<br>
+7 TV stations, 1 of which is state-owned; more than 30 radio stations, 1 of which is state-owned; satellite and cable TV services available; transmissions of at least 2 international broadcasters are accessible through partner stations (2019)<br>
 
 **Internet country code**<br>
 .lb<br>
@@ -605,12 +599,6 @@ _subscriptions per 100 inhabitants_: 7 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 21<br>
-_annual passenger traffic on registered air carriers_: 2,981,937 (2018)<br>
-_annual freight traffic on registered air carriers_: 56.57 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 OD<br>
 
@@ -620,17 +608,11 @@ OD<br>
 **Heliports**<br>
 27 (2025)<br>
 
-**Pipelines**<br>
-88 km gas (2013)<br>
-
 **Railways**<br>
 _total_: 401 km (2017)<br>
 _standard gauge_: 319 km (2017) 1.435-m gauge<br>
 _narrow gauge_: 82 km (2017) 1.050-m gauge<br>
 <strong>note:</strong> rail system is still unusable due to damage sustained from fighting in the 1980s and in 2006<br>
-
-**Roadways**<br>
-_total_: 21,705 km (2017)<br>
 
 **Merchant marine**<br>
 _total_: 51 (2023)<br>
@@ -648,8 +630,8 @@ _key ports_: Bayrut, Sayda, Selaata, Sidon/zahrani Terminal, Tarabulus<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Lebanese Armed Forces (LAF): Army Command (includes Presidential Guard Brigade, Land Border Regiments), Naval Forces, Air Forces<br><br>Ministry of Interior: Internal Security Forces Directorate (law enforcement; includes Mobile Gendarmerie), Directorate for General Security (DGS; border control, some domestic security duties); Parliamentary Police Force (2024)<br>
-<strong>note 1:</strong> the commander of the LAF is also the head of the Army; the LAF patrols external borders, while official border checkpoints are under the authority of Directorate for General Security<br><br><strong>note 2:</strong> the Parliamentary Police Force reports to the speaker of parliament and has responsibility for protecting parliament premises and the speaker’s residence; both the Internal Security Forces and the Lebanese Armed Forces provide units to the Parliamentary Police Force<br>
+Lebanese Armed Forces (LAF): Army Command (includes Presidential Guard Brigade, Land Border Regiments), Naval Forces, Air Forces<br><br>Ministry of Interior: General Directorate of Internal Security Forces (law enforcement; includes Mobile Gendarmerie), General Directorate for Public Security (border control, some domestic security duties) (2025)<br>
+<strong>note:</strong> the commander of the LAF is also the head of the Army; the LAF patrols external borders, while official border checkpoints are under the authority of Directorate for General Security<br>
 
 **Military expenditures**<br>
 3.2% of GDP (2021 est.)<br>
@@ -659,7 +641,7 @@ Lebanese Armed Forces (LAF): Army Command (includes Presidential Guard Brigade, 
 4.6% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 70-75,000 active troops (2024)<br>
+approximately 70,000 active Lebanese Armed Forces troops (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the LAF inventory includes a wide mix of mostly older equipment from a diverse array of countries, including the US; the country's economic crisis has limited military procurement efforts (2024)<br>

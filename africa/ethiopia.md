@@ -82,7 +82,7 @@ highest density is found in the highlands of the north and middle areas of the c
 <p>geologically active Great Rift Valley susceptible to earthquakes, volcanic eruptions; frequent droughts</p><p><strong>volcanism:</strong> volcanic activity in the Great Rift Valley; Erta Ale (613 m), which has caused frequent lava flows in recent years, is the country's most active volcano; Dabbahu became active in 2005, forcing evacuations; other historically active volcanoes include Alayta, Dalaffilla, Dallol, Dama Ali, Fentale, Kone, Manda Hararo, and Manda-Inakir</p><br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> landlocked -- entire coastline along the Red Sea was lost with the de jure independence of Eritrea on 24 May 1993; Ethiopia is, therefore, the most populous landlocked country in the world; the Blue Nile, the chief headstream of the Nile by water volume, rises in T'ana Hayk (Lake Tana) in northwest Ethiopia<br><br><strong>note 2:</strong> three major crops may have originated in Ethiopia: coffee (almost certainly), grain sorghum, and castor bean<br>
+the most populous landlocked country in the world; the Blue Nile, the chief headstream of the Nile by water volume, rises in T'ana Hayk (Lake Tana) in northwest Ethiopia<br>
 
 ## People and Society
 
@@ -111,10 +111,10 @@ _15-64 years_: 58% (male 34,175,328/female 34,536,238)<br>
 _65 years and over_: 3.4% (2024 est.) (male 1,794,269/female 2,186,085)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 75.7<br>
-_youth dependency ratio_: 70.2<br>
-_elderly dependency ratio_: 5.5<br>
-_potential support ratio_: 18.1 (2021 est.)<br>
+_total dependency ratio_: 72.5 (2024 est.)<br>
+_youth dependency ratio_: 66.7 (2024 est.)<br>
+_elderly dependency ratio_: 5.8 (2024 est.)<br>
+_potential support ratio_: 17.3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 20.4 years (2024 est.)<br>
@@ -268,12 +268,6 @@ _rate of urbanization_: 4.4% annual rate of change (2020-25 est.)<br>
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to conflict in Tigray Region, drought conditions in southeastern areas, high food prices - </em>according to the 2023 Humanitarian Response Plan, about 20.1 million people are estimated to be in need of emergency food assistance; the difficult food security situation is mainly the result of the lingering impact of the conflict in northern areas, episodes of intercommunal violence across the country, and the drought in southern areas that are affecting food availability and access; food insecurity is exacerbated by severe macroeconomic challenges including insufficient foreign currency reserves and the continuous depreciation of the national currency, which constrains imports of key commodities including fertilizers, as well as a very high inflation, with the year‑on‑year inflation rate estimated at 30.8 percent in May 2023 (2023)<br>
 
-**Revenue from forest resources**<br>
-5.81% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 21.8 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 14.87 megatons (2016 est.)<br>
@@ -321,7 +315,7 @@ federal parliamentary republic<br>
 _name_: Addis Ababa<br>
 _geographic coordinates_: 9 02 N, 38 42 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name in Amharic means "new flower" and was bestowed on the city in 1889, three years after its founding<br>
+_etymology_: the name in Amharic means "new flower;" Empress TAITU gave the name to the new capital city in 1887&nbsp;<br>
 
 **Administrative divisions**<br>
 12 ethnically based regional states (kililoch, singular - kilil) and 2 chartered cities* (astedader akabibiwach, singular - astedader akabibi); Adis Abeba* (Addis Ababa), Afar, Amara (Amhara), Binshangul Gumuz, Dire Dawa*, Gambela Hizboch (Gambela), Hareri Hizb (Harari), Oromia, Sidama, Sumale, Tigray, YeDebub Biheroch Bihereseboch na Hizboch (Southern Nations, Nationalities and Peoples), YeDebub M'irab Ityop'iya Hizboch (Southwest Ethiopia Peoples), Southern Ethiopia Peoples<br>
@@ -456,9 +450,9 @@ $163.698 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-30.22% (2023 est.)<br>
-33.89% (2022 est.)<br>
-26.84% (2021 est.)<br>
+30.2% (2023 est.)<br>
+33.9% (2022 est.)<br>
+26.8% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -494,19 +488,19 @@ food processing, beverages, textiles, leather, garments, chemicals, metals proce
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-62.647 million (2023 est.)<br>
+54.47 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.5% (2023 est.)<br>
-3.49% (2022 est.)<br>
-3.94% (2021 est.)<br>
+3.4% (2024 est.)<br>
+3.4% (2023 est.)<br>
+3.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.6% (2023 est.)<br>
-_male_: 4% (2023 est.)<br>
-_female_: 7.4% (2023 est.)<br>
+_total_: 5.4% (2024 est.)<br>
+_male_: 4% (2024 est.)<br>
+_female_: 7.2% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -538,11 +532,11 @@ _expenditures_: $8.83 billion (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-31.45% of GDP (2019 est.)<br>
+31.4% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-3.93% (of GDP) (2023 est.)<br>
+3.9% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -580,13 +574,13 @@ refined petroleum, fertilizers, plastics, raw sugar, cars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.046 billion (2020 est.)<br>
-$2.993 billion (2019 est.)<br>
-$3.987 billion (2018 est.)<br>
+$3.784 billion (2024 est.)<br>
+$2.028 billion (2023 est.)<br>
+$1.192 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$27.166 billion (2023 est.)<br>
+$25.426 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -667,12 +661,6 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 75<br>
-_annual passenger traffic on registered air carriers_: 11,501,244 (2018)<br>
-_annual freight traffic on registered air carriers_: 2,089,280,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 ET<br>
 
@@ -686,9 +674,6 @@ ET<br>
 _total_: 659 km (2017) (Ethiopian segment of the 756 km Addis Ababa-Djibouti railroad)<br>
 _standard gauge_: 659 km (2017) 1.435-m gauge<br>
 <strong>note:</strong> electric railway with redundant power supplies; under joint control of Djibouti and Ethiopia and managed by a Chinese contractor<br>
-
-**Roadways**<br>
-_total_: 180,000 km (2023)<br>
 
 **Merchant marine**<br>
 _total_: 12 (2023)<br>
@@ -708,7 +693,7 @@ Ethiopian National Defense Force (ENDF; aka Federal Defense Force of Ethiopia, F
 0.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-available information varies widely; estimated 150-300,000 active-duty troops (2024)<br>
+available information varies widely; estimated 150-300,000 active-duty troops (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the ENDF's major weapons and equipment inventory has traditionally been comprised of Russian, Soviet, and Eastern bloc material; it suffered considerable equipment losses during the 2020-2022 Tigray conflict; in more recent years, Ethiopia has diversified its arms sources to include weapons from China, Israel, Turkey, Ukraine, and the UAE; Ethiopia has a modest industrial defense base centered on small arms and production of armored vehicles under license (2024)<br>

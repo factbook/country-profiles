@@ -70,7 +70,7 @@ settlement concentrated in the central valley, particularly in the capital city 
 earthquakes<br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> strategically located east of the Black Sea; Georgia controls much of the Caucasus Mountains and the routes through them <br><br><strong>note 2:</strong> the world's four deepest caves are all in Georgia, including two that are the only known caves on earth deeper than 2,000 m: Krubera Cave at -2,197 m (-7,208 ft; reached in 2012) and Veryovkina Cave at -2,212 (-7,257 ft; reached in 2018)<br>
+<strong>note 1:</strong> strategically located east of the Black Sea, Georgia controls much of the Caucasus Mountains and the routes through them <br><br><strong>note 2:</strong> the world's four deepest caves are all in Georgia, including two that are the only known caves on earth deeper than 2,000 m: Krubera Cave at -2,197 m (-7,208 ft; reached in 2012) and Veryovkina Cave at -2,212 (-7,257 ft; reached in 2018)<br>
 
 ## People and Society
 
@@ -99,10 +99,10 @@ _15-64 years_: 62.7% (male 1,500,036/female 1,572,637)<br>
 _65 years and over_: 16.7% (2024 est.) (male 322,941/female 495,374)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 55.4<br>
-_youth dependency ratio_: 32.8<br>
-_elderly dependency ratio_: 22.6<br>
-_potential support ratio_: 4.4 (2021 est.)<br>
+_total dependency ratio_: 59.5 (2024 est.)<br>
+_youth dependency ratio_: 32.9 (2024 est.)<br>
+_elderly dependency ratio_: 26.6 (2024 est.)<br>
+_potential support ratio_: 3.8 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 38.3 years (2024 est.)<br>
@@ -255,12 +255,6 @@ _urban population_: 60.7% of total population (2023)<br>
 _rate of urbanization_: 0.35% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Abkhazia and South Ossetia<br>
 
-**Revenue from forest resources**<br>
-0.07% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.01% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 19.06 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 10.13 megatons (2016 est.)<br>
@@ -294,7 +288,7 @@ semi-presidential republic<br>
 _name_: Tbilisi<br>
 _geographic coordinates_: 41 41 N, 44 50 E<br>
 _time difference_: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name in Georgian means "warm place," referring to the numerous sulfuric hot springs in the area<br>
+_etymology_: the name comes from the Georgian word <em>tbili</em>, meaning "warm" and referring to the hot sulfur springs in the area<br>
 
 **Administrative divisions**<br>
 <p>9 regions (mkharebi, singular - mkhare), 1 city (kalaki), and 2 autonomous republics (avtomnoy respubliki, singular - avtom respublika)</p> <p><strong>regions:</strong> Guria, Imereti, Kakheti, Kvemo Kartli, Mtskheta Mtianeti, Racha-Lechkhumi and Kvemo Svaneti, Samegrelo and Zemo Svaneti, Samtskhe-Javakheti, Shida Kartli; note - the breakaway region of South Ossetia consists of the northern part of Shida Kartli, eastern slivers of the Imereti region and Racha-Lechkhumi and Kvemo Svaneti, and part of western Mtskheta-Mtianeti</p> <p><strong>city:</strong> Tbilisi</p> <p><strong>autonomous republics:</strong> Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi), Ajaria or Acharis Avtonomiuri Respublika (Bat'umi)</p><br>
@@ -416,9 +410,9 @@ $30.778 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-2.49% (2023 est.)<br>
+1.1% (2024 est.)<br>
+2.5% (2023 est.)<br>
 11.9% (2022 est.)<br>
-9.57% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -454,19 +448,19 @@ steel, machine tools, electrical appliances, mining (manganese, copper, gold), c
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.838 million (2023 est.)<br>
+1.854 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-11.62% (2023 est.)<br>
-11.66% (2022 est.)<br>
-11.79% (2021 est.)<br>
+11.5% (2024 est.)<br>
+11.5% (2023 est.)<br>
+11.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 30.2% (2023 est.)<br>
-_male_: 28.7% (2023 est.)<br>
-_female_: 32.7% (2023 est.)<br>
+_total_: 29.9% (2024 est.)<br>
+_male_: 28.4% (2024 est.)<br>
+_female_: 32.4% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -498,15 +492,15 @@ _expenditures_: $6.23 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-42.97% of GDP (2022 est.)<br>
+43.4% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-22.9% (of GDP) (2022 est.)<br>
+23.6% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.708 billion (2023 est.)<br>
+-$1.709 billion (2023 est.)<br>
 -$1.105 billion (2022 est.)<br>
 -$1.943 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
@@ -540,22 +534,22 @@ cars, refined petroleum, packaged medicine, natural gas, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$3.848 billion (2024 est.)<br>
 $5.002 billion (2023 est.)<br>
 $4.886 billion (2022 est.)<br>
-$4.271 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$9.791 billion (2023 est.)<br>
+$9.085 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: laris (GEL) per US dollar -<br>
+2.721 (2024 est.)<br>
 2.628 (2023 est.)<br>
 2.916 (2022 est.)<br>
 3.222 (2021 est.)<br>
 3.109 (2020 est.)<br>
-2.818 (2019 est.)<br>
 
 ## Energy
 
@@ -617,7 +611,7 @@ _domestic_: fixed-line subscriptions 8 per 100, mobile-cellular tele density rou
 _international_: country code - 995; landing points for the Georgia-Russia, Diamond Link Global, and Caucasus Cable System fiber-optic submarine cable that provides connectivity to Russia, Romania and Bulgaria; international service is available by microwave, landline, and satellite through the Moscow switch; international electronic mail and telex service are available (2019)<br>
 
 **Broadcast media**<br>
-The Tbilisi-based Georgian Public Broadcaster (GPB) includes Channel 1, Channel 2, and the Batumi-based Adjara TV, and the State Budget funds all three; there are also a number of independent commercial television broadcasters, such as Imedi, Rustavi 2, Pirveli TV, Maestro, Kavkasia, Georgian Dream Studios (GDS), Obiektivi, Mtavari Arkhi, and a small Russian language operator TOK TV; Tabula and Post TV are web-based television outlets; all of these broadcasters and web-based television outlets, except GDS, carry the news; the Georgian Orthodox Church also operates a satellite-based television station called Unanimity; there are 26 regional television broadcasters across Georgia that are members of the Georgian Association of Regional Broadcasters and/or the Alliance of Georgian Broadcasters; the broadcaster organizations seek to strengthen the regional media's capacities and distribution of regional products: a nationwide digital switchover occurred in 2015; there are several dozen private radio stations; GPB operates 2 radio stations (2019)<br>
+state-owned Georgian Public Broadcaster (GPB) includes Channel 1, Channel 2, and Adjara TV; independent commercial TV broadcasters include Imedi, Rustavi 2, Pirveli TV, Maestro, Kavkasia, Georgian Dream Studios (GDS), Obiektivi, Mtavari Arkhi, and TOK TV (Russian language); Tabula and Post TV are web-based TV outlets; Georgian Orthodox Church operates a satellite-based television station called Unanimity; 26 regional TV broadcasters; TV shifted to digital in 2015; several dozen private radio stations; GPB operates 2 radio stations (2019)<br>
 
 **Internet country code**<br>
 .ge<br>
@@ -631,12 +625,6 @@ _subscriptions per 100 inhabitants_: 29 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 4 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 12<br>
-_annual passenger traffic on registered air carriers_: 516,034 (2018)<br>
-_annual freight traffic on registered air carriers_: 750,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 4L<br>
 
@@ -646,16 +634,10 @@ _annual freight traffic on registered air carriers_: 750,000 (2018) mt-km<br>
 **Heliports**<br>
 4 (2025)<br>
 
-**Pipelines**<br>
-1,596 km gas, 1,175 km oil (2013)<br>
-
 **Railways**<br>
 _total_: 1,363 km (2014)<br>
 _narrow gauge_: 37 km (2014) 0.912-m gauge (37 km electrified)<br>
 _broad gauge_: 1,326 km (2014) 1.520-m gauge (1,251 km electrified)<br>
-
-**Roadways**<br>
-_total_: 40,044 km (2021)<br>
 
 **Merchant marine**<br>
 _total_: 26 (2023)<br>

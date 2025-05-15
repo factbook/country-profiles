@@ -72,7 +72,7 @@ the vast majority of the population is found in the Asir Mountains (part of the 
 <p>sandstorms and dust storms in summer</p><p><strong>volcanism:</strong> limited volcanic activity; Jebel at Tair (Jabal al-Tair, Jebel Teir, Jabal al-Tayr, Jazirat at-Tair) (244 m), which forms an island in the Red Sea, erupted in 2007 after awakening from dormancy; other historically active volcanoes include Harra of Arhab, Harras of Dhamar, Harra es-Sawad, and Jebel Zubair, although many of these have not erupted in over a century</p><br>
 
 **Geography - note**<br>
-strategic location on Bab el Mandeb, the strait linking the Red Sea and the Gulf of Aden, one of world's most active shipping lanes<br>
+strategic location on Bab el Mandeb, the strait linking the Red Sea and the Gulf of Aden and one of world's most active shipping lanes<br>
 
 ## People and Society
 
@@ -102,10 +102,10 @@ _15-64 years_: 62.2% (male 10,112,603/female 9,865,805)<br>
 _65 years and over_: 3.4% (2024 est.) (male 485,538/female 623,214)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 71.7<br>
-_youth dependency ratio_: 69.4<br>
-_elderly dependency ratio_: 4.7<br>
-_potential support ratio_: 19.9 (2021 est.)<br>
+_total dependency ratio_: 71.3 (2024 est.)<br>
+_youth dependency ratio_: 66 (2024 est.)<br>
+_elderly dependency ratio_: 5.4 (2024 est.)<br>
+_potential support ratio_: 18.6 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 22 years (2024 est.)<br>
@@ -213,9 +213,6 @@ _female_: 8.1% (2020 est.)<br>
 **Currently married women (ages 15-49)**<br>
 60.4% (2023 est.)<br>
 
-**Education expenditures**<br>
-NA<br>
-
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
 _total population_: 70.1%<br>
@@ -249,12 +246,6 @@ _rate of urbanization_: 3.71% annual rate of change (2015-20 est.)<br>
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to conflict, poverty, floods, high food and fuel prices -</em> in 2023, a partial analysis in government‑controlled areas, where approximately 25 percent of the population in acute food insecurity resides, shows that the situation remains dire; despite some improvements in security, the economic crisis and localized conflicts continue, fueled by persistent political instability, while insufficient external revenues and elevated global commodity prices on imported food limits food security (2023)<br>
 
-**Revenue from forest resources**<br>
-0.04% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 41.61 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 10.61 megatons (2016 est.)<br>
@@ -281,7 +272,7 @@ _conventional short form_: Yemen<br>
 _local long form_: Al Jumhuriyah al Yamaniyah<br>
 _local short form_: Al Yaman<br>
 _former_: Yemen Arab Republic [Yemen (Sanaa) or North Yemen] and People's Democratic Republic of Yemen [Yemen (Aden) or South Yemen]<br>
-_etymology_: name derivation remains unclear but may come from the Arab term "yumn" (happiness) and be related to the region's classical name "Arabia Felix" (Fertile or Happy Arabia); the Romans referred to the rest of the peninsula as "Arabia Deserta" (Deserted Arabia)<br>
+_etymology_: the name origin is unclear but may come from the Arabic word <em>al-yamin</em>, meaning "the right," as a reference to its geographic position in relation to Mecca<br>
 
 **Government type**<br>
 in transition<br>
@@ -290,7 +281,7 @@ in transition<br>
 _name_: Sanaa<br>
 _geographic coordinates_: 15 21 N, 44 12 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name is reputed to mean "well-fortified" in Sabaean, the South Arabian language that went extinct in Yemen in the 6th century A.D.<br>
+_etymology_: the name is reputed to mean "fortified place" in an ancient language<br>
 
 **Administrative divisions**<br>
 22 governorates (muhafazat, singular - muhafazah); Abyan, 'Adan (Aden), Ad Dali', Al Bayda', Al Hudaydah, Al Jawf, Al Mahrah, Al Mahwit, Amanat al 'Asimah (Sanaa City), 'Amran, Arkhabil Suqutra (Socotra Archipelago), Dhamar, Hadramawt, Hajjah, Ibb, Lahij, Ma'rib, Raymah, Sa'dah, San'a' (Sanaa), Shabwah, Ta'izz<br>
@@ -302,7 +293,7 @@ _etymology_: the name is reputed to mean "well-fortified" in Sabaean, the South 
 Unification Day, 22 May (1990)<br>
 
 **Legal system**<br>
-mixed legal system of Islamic (sharia) law, Napoleonic law, English common law, and customary law<br>
+mixed system of Islamic (sharia) law, Napoleonic law, English common law, and customary law<br>
 
 **Constitution**<br>
 _history_: adopted by referendum 16 May 1991 (following unification)<br>
@@ -320,12 +311,12 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Chairperson, Presidential Leadership Council Rashad Muhammad al-ALIMI (since 19 April 2022)<br>
-_head of government_: Prime Minister Ahmad Awad Bin MUBAREK (since 5 February 2024)<br>
+_chief of state_: Chairperson, Presidential Leadership Council Rashad Muhammad al-ALIMI, <em>Dr.</em> (since 19 April 2022)<br>
+_head of government_: Prime Minister Salim Salih BIN BURAYK (since 9 May 2025)<br>
 _cabinet_: 24 members from northern and southern Yemen, with representatives from Yemen's major political parties<br>
 _elections/appointments_: formerly, the president was directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 21 February 2012 (next election NA); note - a special election was held on 21 February 2012 to remove Ali Abdallah SALIH under the terms of a Gulf Cooperation Council-mediated deal during the political crisis of 2011; vice president appointed by the president; prime minister appointed by the president<br>
 _election results_: <em>2012:</em> Abd Rabuh Mansur HADI (GPC) elected consensus president<br>
-<strong>note:</strong> on 7 April 2022, President Abd Rabuh Mansur HADI announced his abdication, the dismissal of Vice President ALI MUHSIN al-Ahmar and the formation of a Presidential Leadership Council, an eight-member body chaired by former minister Rashad AL-ALIMI; on 19 April 2022, the Council was sworn in before Parliament and began assuming the responsibilities of the president and vice president and carrying out the political, security, and military duties of the government<br>
+<strong>note:</strong> on 7 April 2022, President Abd Rabuh Mansur HADI announced his abdication, the dismissal of Vice President ALI MUHSIN al-Ahmar and the formation of a Presidential Leadership Council, an eight-member body chaired by former minister Rashad AL-ALIMI; on 19 April 2022, the Council was sworn in before Parliament and began assuming the responsibilities of the president and vice president and carrying out the political, security, and military duties of the government; in May 2025 Chairperson al-ALIMI made changes to his cabinet<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Majlis)<br>
@@ -362,7 +353,7 @@ General People’s Congress or GPC (3 factions: pro-Hadi, pro-Houthi, pro-Salih)
 AFESD, AMF, CAEU, CD, EITI (temporarily suspended), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMHA, UNMIL, UNMIS, UNOCI, UNVIM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Mohammed Abdullah Mohammed&nbsp;AL-HADHRAMI (since 7 June 2022)<br>
+_chief of mission_: Ambassador-designate Abdulwahab Abdullah Ahmed al-HAJRI (since 10 April 2025)<br>
 _chancery_: 2319 Wyoming Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 965-4760<br>
 _FAX_: [1] (202) 337-2017<br>
@@ -451,19 +442,19 @@ crude oil production and petroleum refining; small-scale production of cotton te
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-7.592 million (2023 est.)<br>
+7.848 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-17.22% (2023 est.)<br>
-17.52% (2022 est.)<br>
-18.25% (2021 est.)<br>
+17.1% (2024 est.)<br>
+17.1% (2023 est.)<br>
+17.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 32.7% (2023 est.)<br>
-_male_: 32.1% (2023 est.)<br>
-_female_: 38.4% (2023 est.)<br>
+_total_: 32.4% (2024 est.)<br>
+_male_: 31.8% (2024 est.)<br>
+_female_: 38.4% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -536,7 +527,7 @@ $969.613 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$6.688 billion (2023 est.)<br>
+$6.492 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -616,12 +607,6 @@ _subscriptions per 100 inhabitants_: 1 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 8<br>
-_annual passenger traffic on registered air carriers_: 336,310 (2018)<br>
-_annual freight traffic on registered air carriers_: 3.27 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 7O<br>
 
@@ -630,14 +615,6 @@ _annual freight traffic on registered air carriers_: 3.27 million (2018) mt-km<b
 
 **Heliports**<br>
 6 (2025)<br>
-
-**Pipelines**<br>
-641 km gas, 22 km liquid petroleum gas, 1,370 km oil (2013)<br>
-
-**Roadways**<br>
-_total_: 71,300 km<br>
-_paved_: 6,200 km<br>
-_unpaved_: 65,100 km (2005)<br>
 
 **Merchant marine**<br>
 _total_: 30 (2023)<br>
@@ -655,11 +632,11 @@ _key ports_: Aden, Al Ahmadi, Al Mukalla, Al Mukha, Ras Isa Marine Terminal<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Republic of Yemen Government (ROYG) forces:<br><br>Ministry of Defense: Yemeni National Army, Air Force and Air Defense, Navy and Coastal Defense Forces, Border Guard, Strategic Reserve Forces (includes Special Forces and Presidential Protection Brigades, which are under the Ministry of Defense but responsible to the president), Popular Committee Forces (aka Popular Resistance Forces; government-backed tribal militia)<br><br>Ministry of Interior: Special Security Forces (paramilitary; formerly known as Central Security Forces), Political Security Organization (state security), National Security Bureau (intelligence), Counterterrorism Unit <br><br>Saudi-backed forces: paramilitary/militia border security brigades based largely on tribal or regional affiliation (based along the Saudi-Yemen border)<br><br>United Arab Emirates-backed forces include tribal and regionally based militia and paramilitary forces (concentrated in the southern governates): Southern Transitional Council (STC) forces, including the Security Belt Forces, the Shabwani and Hadrami “Elite” Forces, the Support and Backup Forces (aka Logistics and Support Forces), Facilities Protection Forces, and Anti-Terrorism Forces; Republican Forces; Joint Forces<br><br>Houthi (aka Ansarallah) forces: land, aerospace (air, missile), naval/coastal defense, presidential protection, special operations, internal security, and militia/tribal auxiliary forces (2023)<br>
-<strong>note 1: </strong>under the 2019 Riyadh Agreement, the STC forces were to be incorporated into Yemen’s Ministries of Defense and Interior under the authority of the HADI government <strong><br><br>note 2: </strong>a considerable portion--up to 70 percent by some estimates--of Yemen’s military and security forces defected in whole or in part to former president SALAH and the Houthi opposition in 2011-2015<br>
+Yemeni Armed Forces: Yemeni National Army, Air Force and Air Defense, Navy and Coastal Defense Forces, Border Guard, Strategic Reserve Forces (includes Special Forces and Presidential Protection Brigades, which are under the Ministry of Defense but responsible to the president), Popular Committee Forces (aka Popular Resistance Forces; government-backed tribal militia)<br><br>Ministry of Interior: Security Forces, Emergency Forces, Counterterrorism Units (2024)<br>
+<strong>note 1: </strong>both Saudi Arabia and the United Arab Emirates (UAE) have raised and backed irregular forces in Yemen; Saudi-backed forces have included paramilitary/militia security brigades based largely on tribal or regional affiliation; UAE-backed forces include tribal and regionally based militia and paramilitary units concentrated in the southern governates and include such forces as the Southern Transitional Council (STC), the Joint Forces, the Giants Brigades, and Security Belt Forces; under the 2019 Riyadh Agreement, the STC forces were to be incorporated into Yemen’s Ministries of Defense and Interior under the authority of the HADI government <strong><br><br>note 2: </strong>Houthi (alt Huthi; aka Ansarallah) forces include land, aerospace (air, missile), naval/coastal defense, presidential protection, special operations, internal security, and militia/tribal auxiliary components; a considerable portion--up to 70 percent by some estimates--of Yemen’s military and security forces defected in whole or in part to former president SALAH and the Houthi opposition in 2011-2015<br>
 
 **Military and security service personnel strengths**<br>
-information limited and widely varied; Yemen Government: up to 300,000 estimated military, paramilitary, militia, and other security forces; UAE- and Saudi-backed forces: estimated 150-200,000 trained militia and paramilitary fighters; Houthis: up to 200,000 estimated fighters (2022)<br>
+not available<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Yemeni Government forces have an inventory consisting primarily of Russian and Soviet-era weapons and equipment   Houthi forces are armed largely with weapons seized from the Yemeni Government stockpiles, smuggled in from Iran, and manufactured copies of Iranian designs and pre-war Yemeni Government weapons, such as Chinese and Russian missiles (2024)<br>
@@ -669,7 +646,7 @@ the Yemeni Government forces have an inventory consisting primarily of Russian a
 <strong>note:</strong> as late as 2022, all parties to the ongoing conflict were implicated in child soldier recruitment and use; during the beginning of the truce in April 2022, the Houthis signed a plan with the UN to end the recruitment and use of child soldiers; Houthi leaders previously pledged to end the use of child soldiers in 2012, as did the Government of Yemen in 2014 <br>
 
 **Military - note**<br>
-government forces under the Yemeni Ministry of Defense are responsible for territorial defense, but also have internal security functions; their main focus has been the Houthi separatists and protecting Yemen’s maritime borders, which are susceptible to smuggling of arms, fighters, and other material support for the Houthis and terrorist groups operating in Yemen, including al-Qa’ida in the Arabian Peninsula (AQAP) and the Islamic State of Iraq and ash-Sham in Yemen (ISIS-Yemen)<br><br>in 2015, a Saudi-led coalition of Arab states (UAE, Qatar, Bahrain, Morocco, Sudan, Kuwait, Jordan and Egypt) intervened militarily in Yemen in support of the Republic of Yemen Government (ROYG) against the separatist Houthis; Saudi military forces conducted operations in Yemen and raised and equipped paramilitary/militia security forces in Yemen based largely on tribal or regional affiliation to deploy along the Saudi-Yemen border; UAE's participation in 2015 included several thousand ground troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a smaller military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC); UAE has recruited, trained, and equipped tens of thousands of Yemeni fighters and formed them into dozens of militia and paramilitary units<br><br>in 2022, the RYOG and the Houthis signed a truce, halting military operations and establishing humanitarian measures; the former front lines of conflict, in some areas mirroring Yemen’s pre -unification borders, remain static; AQAP and ISIS-Yemen have remained active in remote areas <br><br>in January 2024, the US Government designated the Houthis (aka Ansarallah) as a Specially Designated Global Terrorist group; the designation came after the Houthis began launching attacks against international maritime vessels in the Red Sea and Gulf of Aden, as well as military forces positioned in the area to defend the safety and security of commercial shipping (2024)<br>
+government forces under the Yemeni Ministry of Defense are responsible for territorial defense, but also have internal security functions; their main focus has been the Houthi separatists and protecting Yemen’s maritime borders, which are susceptible to smuggling of arms, fighters, and other material support for the Houthis and terrorist groups operating in Yemen, including al-Qa’ida in the Arabian Peninsula (AQAP) and the Islamic State of Iraq and ash-Sham in Yemen (ISIS-Yemen)<br><br>in 2015, a Saudi-led coalition of Arab states (UAE, Qatar, Bahrain, Morocco, Sudan, Kuwait, Jordan and Egypt) intervened militarily in Yemen in support of the Republic of Yemen Government (ROYG) against the separatist Houthis; Saudi military forces conducted operations in Yemen and raised and equipped paramilitary/militia security forces in Yemen based largely on tribal or regional affiliation to deploy along the Saudi-Yemen border; UAE's participation in 2015 included several thousand ground troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a smaller military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC); UAE has recruited, trained, and equipped tens of thousands of Yemeni fighters and formed them into dozens of militia and paramilitary units<br><br>in 2022, the RYOG and the Houthis signed a truce, halting military operations and establishing humanitarian measures; the former front lines of conflict, in some areas mirroring Yemen’s pre -unification borders, remain static; AQAP and ISIS-Yemen have remained active in remote areas  (2024)<br>
 
 ## Terrorism
 

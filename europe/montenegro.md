@@ -104,10 +104,10 @@ _15-64 years_: 64.4% (male 192,631/female 193,515)<br>
 _65 years and over_: 17.9% (2024 est.) (male 47,243/female 60,258)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 52.5<br>
-_youth dependency ratio_: 27.7<br>
-_elderly dependency ratio_: 24.8<br>
-_potential support ratio_: 4 (2021 est.)<br>
+_total dependency ratio_: 55.3 (2024 est.)<br>
+_youth dependency ratio_: 27.5 (2024 est.)<br>
+_elderly dependency ratio_: 27.8 (2024 est.)<br>
+_potential support ratio_: 3.6 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 41.1 years (2024 est.)<br>
@@ -236,7 +236,7 @@ _female_: 16 years (2021)<br>
 ## Environment
 
 **Environment - current issues**<br>
-pollution of coastal waters from sewage outlets, especially in tourist-related areas such as Kotor; serious air pollution in Podgorica, Pljevlja and Niksie; air pollution in Pljevlja is caused by the nearby lignite power plant and the domestic use of coal and wood for household heating<br>
+pollution of coastal waters from sewage outlets; serious air pollution in some cities from lignite power plants and household use of coal and wood for heating<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Persistent Organic Pollutants, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -256,12 +256,6 @@ _other_: 19.7% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 68.5% of total population (2023)<br>
 _rate of urbanization_: 0.45% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.43% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.12% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 19.3 micrograms per cubic meter (2019 est.)<br>
@@ -298,11 +292,12 @@ _etymology_: the name in Italian means "dark mountain" and is a translation of t
 parliamentary republic<br>
 
 **Capital**<br>
-_name_: Podgorica; note - Cetinje retains the status of "Old Royal Capital"<br>
+_name_: Podgorica<br>
 _geographic coordinates_: 42 26 N, 19 16 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1 hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the name translates as "beneath Gorica"; the meaning of Gorica is "hillock"; the reference is to the small hill named Gorica that the city is built around<br>
+_etymology_: the Slavic name translates as "under the mountain," from <em>pod </em>(under) and <em>gora </em>(mountain)<br>
+<strong>note: </strong>Cetinje retains the status of "Old Royal Capital"<br>
 
 **Administrative divisions**<br>
 25 municipalities (opstine, singular - opstina); Andrijevica, Bar, Berane, Bijelo Polje, Budva, Cetinje, Danilovgrad, Gusinje, Herceg Novi, Kolasin, Kotor, Mojkovac, Niksic, Petnjica, Plav, Pljevlja, Pluzine, Podgorica, Rozaje, Savnik, Tivat, Tuzi, Ulcinj, Zabljak, Zeta<br>
@@ -422,9 +417,9 @@ $7.531 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-8.58% (2023 est.)<br>
-13.04% (2022 est.)<br>
-2.41% (2021 est.)<br>
+3.3% (2024 est.)<br>
+8.6% (2023 est.)<br>
+13% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -459,19 +454,19 @@ steelmaking, aluminum, agricultural processing, consumer goods, tourism<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-284,000 (2023 est.)<br>
+241,500 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-15.25% (2023 est.)<br>
-15.29% (2022 est.)<br>
-16.54% (2021 est.)<br>
+14.1% (2024 est.)<br>
+14.6% (2023 est.)<br>
+14.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 27.9% (2023 est.)<br>
-_male_: 29% (2023 est.)<br>
-_female_: 26.3% (2023 est.)<br>
+_total_: 25.9% (2024 est.)<br>
+_male_: 27.5% (2024 est.)<br>
+_female_: 23.6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -510,15 +505,15 @@ _expenditures_: $1.491 billion (2015 est.)<br>
 37.2% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
--$851.47 million (2023 est.)<br>
+-$1.389 billion (2024 est.)<br>
+-$851.525 million (2023 est.)<br>
 -$817.858 million (2022 est.)<br>
--$541.201 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$3.767 billion (2023 est.)<br>
-$3.178 billion (2022 est.)<br>
-$2.502 billion (2021 est.)<br>
+$3.634 billion (2024 est.)<br>
+$3.769 billion (2023 est.)<br>
+$3.177 billion (2022 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -530,9 +525,9 @@ electricity, aluminum, copper ore, aluminum ore, packaged medicine (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$5.166 billion (2023 est.)<br>
+$5.467 billion (2024 est.)<br>
+$5.167 billion (2023 est.)<br>
 $4.614 billion (2022 est.)<br>
-$3.637 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -544,22 +539,22 @@ refined petroleum, cars, electricity, packaged medicine, aluminum (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$1.741 billion (2024 est.)<br>
 $1.574 billion (2023 est.)<br>
 $2.041 billion (2022 est.)<br>
-$1.982 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$3.785 billion (2023 est.)<br>
+$3.643 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.951 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.877 (2020 est.)<br>
-0.893 (2019 est.)<br>
 <strong>note:</strong> Montenegro, which is neither an EU member state nor a party to a formal EU monetary agreement, uses the euro as its de facto currency<br>
 
 ## Energy
@@ -614,7 +609,7 @@ _domestic_: fixed-line over 30 per 100 and mobile-cellular 178 per 100 persons (
 _international_: country code - 382; 2 international switches connect the national system<br>
 
 **Broadcast media**<br>
-state-funded national radio-TV broadcaster operates 2 terrestrial TV networks, 1 satellite TV channel, and 2 radio networks;&nbsp;4 local public TV stations and 14 private TV stations; 14 local public radio stations, 35 private radio stations, and&nbsp;several on-line media (2019)<br>
+state-funded national radio and TV broadcaster operates 2 terrestrial TV networks, 1 satellite TV channel, and 2 radio networks; 4 local public TV stations and 14 private TV stations; 14 local public radio stations, 35 private radio stations, and several online media (2019)<br>
 
 **Internet country code**<br>
 .me<br>
@@ -628,12 +623,6 @@ _subscriptions per 100 inhabitants_: 32 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 4<br>
-_annual passenger traffic on registered air carriers_: 565,522 (2018)<br>
-_annual freight traffic on registered air carriers_: 130,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 4O<br>
 
@@ -646,9 +635,6 @@ _annual freight traffic on registered air carriers_: 130,000 (2018) mt-km<br>
 **Railways**<br>
 _total_: 250 km (2017)<br>
 _standard gauge_: 250 km (2017) 1.435-m gauge (224 km electrified)<br>
-
-**Roadways**<br>
-_total_: 9,825 km (2022)<br>
 
 **Merchant marine**<br>
 _total_: 18 (2023)<br>
@@ -666,8 +652,7 @@ _key ports_: Bar, Kotor, Risan, Tivat<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Army of Montenegro (Vojska Crne Gore or VCG): Ground Forces (Kopnene snage), Air Force (Vazduhoplovstvo), Navy (Mornarica) (2024)<br>
-<strong>note:</strong> the National Police Force, which includes Border Police, is responsible for maintaining internal security; it is organized under the Police Administration within the Ministry of Interior and reports to the police director and, through the director, to the minister of interior and prime minister<br>
+Army of Montenegro (Vojska Crne Gore or VCG): Ground Forces, Air Force, Navy <br><br>Ministry of Interior: Police Directorate of Montenegro (2025)<br>
 
 **Military expenditures**<br>
 2% of GDP (2024 est.)<br>

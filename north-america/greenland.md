@@ -68,7 +68,7 @@ settlement concentrated on the southwest shoreline, with limited settlements sca
 continuous permafrost over northern two-thirds of the island<br>
 
 **Geography - note**<br>
-dominates North Atlantic Ocean between North America and Europe; sparse population confined to small settlements along coast; close to one-quarter of the population lives in the capital, Nuuk; world's second largest ice sheet after that of Antarctica covering an area of 1.71 million sq km (660,000 sq mi) or about 79% of the island, and containing 2.85 million cu km (684 thousand cu mi) of ice (this is almost 7% of all of the world's fresh water); if all this ice were converted to liquid water, one estimate is that it would be sufficient to raise the height of the world's oceans by 7.2 m (24 ft)<br>
+dominates North Atlantic Ocean between North America and Europe; sparse population confined to small settlements along coast; close to one-quarter of the population lives in the capital, Nuuk; world's second largest ice sheet after that of Antarctica, covering an area of 1.71 million sq km (660,000 sq mi), or about 79% of the island, and containing 2.85 million cu km (684 thousand cu mi) of ice (almost 7% of the world's fresh water)<br>
 
 ## People and Society
 
@@ -98,10 +98,10 @@ _15-64 years_: 67.1% (male 20,050/female 18,711)<br>
 _65 years and over_: 12.5% (2024 est.) (male 3,829/female 3,399)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 43.6<br>
-_youth dependency ratio_: 30<br>
-_elderly dependency ratio_: 13.6<br>
-_potential support ratio_: 7.4 (2021)<br>
+_total dependency ratio_: 49 (2024 est.)<br>
+_youth dependency ratio_: 30.3 (2024 est.)<br>
+_elderly dependency ratio_: 18.6 (2024 est.)<br>
+_potential support ratio_: 5.4 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 35.3 years (2024 est.)<br>
@@ -196,7 +196,7 @@ _female_: 100% (2015)<br>
 ## Environment
 
 **Environment - current issues**<br>
-especially vulnerable to climate change and disruption of the Arctic environment; preservation of the Inuit traditional way of life, including whaling and seal hunting<br>
+changes in sea levels and other disruptions in the Arctic environment<br>
 
 **Climate**<br>
 arctic to subarctic; cool summers, cold winters<br>
@@ -212,12 +212,6 @@ _other_: 99.4% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 87.9% of total population (2023)<br>
 _rate of urbanization_: 0.41% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _carbon dioxide emissions_: 0.51 megatons (2016 est.)<br>
@@ -246,7 +240,7 @@ _geographic coordinates_: 64 11 N, 51 45 W<br>
 _time difference_: UTC-2 (3 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
 _time zone note_: Greenland has three time zones<br>
-_etymology_: "nuuk" is the Inuit word for "cape" and refers to the city's position at the end of the Nuup Kangerlua fjord<br>
+_etymology_: <em>nuuk </em>is the Inuit word for "cape;" until 1979, the name was Godthab, from the Danish words meaning "good hope"<br>
 
 **Administrative divisions**<br>
 5 municipalities (kommuner, singular kommune); Avannaata, Kujalleq, Qeqertalik, Qeqqata, Sermersooq<br>
@@ -259,7 +253,7 @@ none (extensive self-rule as part of the Kingdom of Denmark; foreign affairs is 
 National Day, June 21; note - marks the summer solstice and the longest day of the year in the Northern Hemisphere<br>
 
 **Legal system**<br>
-the laws of Denmark apply where applicable and Greenlandic law applies to other areas<br>
+Denmark's laws apply in some areas, and Greenland's law for the remainder<br>
 
 **Constitution**<br>
 _history_: previous 1953 (Greenland established as a constituency in the Danish constitution), 1979 (Greenland Home Rule Act); latest 21 June 2009 (Greenland Self-Government Act)<br>
@@ -387,13 +381,6 @@ fish processing (mainly shrimp and Greenland halibut), anorthosite and ruby mini
 -10.63% (2021 est.)<br>
 <strong>note:</strong> annual % change in industrial value added based on constant local currency<br>
 
-**Labor force**<br>
-26,840 (2015 est.)<br>
-
-**Unemployment rate**<br>
-9.1% (2015 est.)<br>
-10.3% (2014 est.)<br>
-
 **Population below poverty line**<br>
 16.2% (2015 est.)<br>
 
@@ -440,11 +427,11 @@ refined petroleum, ships, garments, plastic products, furniture (2023)<br>
 
 **Exchange rates**<br>
 _Currency_: Danish kroner (DKK) per US dollar -<br>
+6.894 (2024 est.)<br>
 6.89 (2023 est.)<br>
 7.076 (2022 est.)<br>
 6.287 (2021 est.)<br>
 6.542 (2020 est.)<br>
-6.669 (2019 est.)<br>
 
 ## Energy
 
@@ -490,7 +477,7 @@ _domestic_: nearly 11 per 100 for fixed-line subscriptions and 118 per 100 for m
 _international_: country code - 299; landing points for Greenland Connect, Greenland Connect North, Nunavut Undersea Fiber System submarine cables to Greenland, Iceland, and Canada;&nbsp;satellite earth stations - 15 (12 Intelsat, 1 Eutelsat, 2 Americom GE-2 (all Atlantic Ocean)) (2019)<br>
 
 **Broadcast media**<br>
-the Greenland Broadcasting Company provides public radio and TV services throughout the island with a broadcast station and a series of repeaters; a few private local TV and radio stations; Danish public radio rebroadcasts are available (2019)<br>
+Greenland Broadcasting Company provides public radio and TV, with a broadcast station and a series of repeaters; a few private local TV and radio stations; Danish public radio rebroadcasts are available (2019)<br>
 
 **Internet country code**<br>
 .gl<br>
@@ -504,10 +491,6 @@ _subscriptions per 100 inhabitants_: 32 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020) (registered in Denmark)<br>
-_inventory of registered aircraft operated by air carriers_: 8 (registered in Denmark)<br>
-
 **Civil aircraft registration country code prefix**<br>
 OY-H<br>
 
@@ -516,9 +499,6 @@ OY-H<br>
 
 **Heliports**<br>
 54 (2025)<br>
-
-**Roadways**<br>
-<p><strong>note:</strong> although there are short roads in towns, there are no roads between towns; inter-urban transport is either by sea or by air</p><br>
 
 **Merchant marine**<br>
 _total_: 10 (2023)<br>

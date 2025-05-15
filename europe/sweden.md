@@ -73,7 +73,7 @@ most Swedes live in the south where the climate is milder and there is better co
 ice floes in the surrounding waters, especially in the Gulf of Bothnia, can interfere with maritime traffic<br>
 
 **Geography - note**<br>
-strategic location along Danish Straits linking Baltic and North Seas; Sweden has almost 100,000 lakes, the largest of which, Vanern, is the third largest in Europe<br>
+strategic location along Danish Straits linking Baltic and North Seas; Sweden has almost 100,000 lakes, the largest of which, Vanern, is the third-largest in Europe<br>
 
 ## People and Society
 
@@ -105,10 +105,10 @@ _15-64 years_: 62.1% (male 3,365,754/female 3,208,248)<br>
 _65 years and over_: 20.8% (2024 est.) (male 1,032,279/female 1,168,576)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 60.8<br>
-_youth dependency ratio_: 28.5<br>
-_elderly dependency ratio_: 32.3<br>
-_potential support ratio_: 3.1 (2021 est.)<br>
+_total dependency ratio_: 61.1 (2024 est.)<br>
+_youth dependency ratio_: 27.6 (2024 est.)<br>
+_elderly dependency ratio_: 33.5 (2024 est.)<br>
+_potential support ratio_: 3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 41.1 years (2024 est.)<br>
@@ -232,7 +232,7 @@ _female_: 21 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-<p>marine pollution (Baltic Sea and North Sea); acid rain damage to soils and lakes; air pollution; inappropriate timber harvesting practices</p><br>
+<p>marine pollution (Baltic Sea and North Sea); acid rain damage to soil and lakes; air pollution; poor timber-harvesting practices</p><br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -252,12 +252,6 @@ _other_: 23.9% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 88.7% of total population (2023)<br>
 _rate of urbanization_: 0.89% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.21% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 5.96 micrograms per cubic meter (2019 est.)<br>
@@ -291,7 +285,7 @@ _conventional long form_: Kingdom of Sweden<br>
 _conventional short form_: Sweden<br>
 _local long form_: Konungariket Sverige<br>
 _local short form_: Sverige<br>
-_etymology_: name ultimately derives from the North Germanic Svear tribe, which inhabited central Sweden and is first mentioned in the first centuries A.D.<br>
+_etymology_: name derives from the North Germanic Svea tribe that inhabited central Sweden; the tribe's name probably comes from the Old German word <em>sweba</em>, meaning "independent;" the local form of the country's name, Sverige, means "kingdom of the Svea"<br>
 
 **Government type**<br>
 parliamentary constitutional monarchy<br>
@@ -301,7 +295,7 @@ _name_: Stockholm<br>
 _geographic coordinates_: 59 20 N, 18 03 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: <em>stock</em> and <em>holm</em> literally mean "log" and "islet" in Swedish, but there is no consensus as to what the words refer to<br>
+_etymology_: the name of the city probably comes from the Swedish words <em>stak </em>(bay) or <em>stock </em>(stake or pole) and <em>holm </em>(island); it was built in the mid-13th century on the site of a fishing village, so the name may refer to building over earlier foundations<br>
 
 **Administrative divisions**<br>
 21 counties (lan, singular and plural); Blekinge, Dalarna, Gavleborg, Gotland, Halland, Jamtland, Jonkoping, Kalmar, Kronoberg, Norrbotten, Orebro, Ostergotland, Skane, Sodermanland, Stockholm, Uppsala, Varmland, Vasterbotten, Vasternorrland, Vastmanland, Vastra Gotaland<br>
@@ -419,9 +413,9 @@ $584.96 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-8.55% (2023 est.)<br>
-8.37% (2022 est.)<br>
-2.16% (2021 est.)<br>
+2.8% (2024 est.)<br>
+8.5% (2023 est.)<br>
+8.4% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -457,19 +451,19 @@ iron and steel, precision equipment (bearings, radio and telephone parts, armame
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.837 million (2023 est.)<br>
+5.707 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7.59% (2023 est.)<br>
-7.39% (2022 est.)<br>
-8.72% (2021 est.)<br>
+8.5% (2024 est.)<br>
+7.6% (2023 est.)<br>
+7.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21.6% (2023 est.)<br>
-_male_: 21.9% (2023 est.)<br>
-_female_: 21.2% (2023 est.)<br>
+_total_: 23.8% (2024 est.)<br>
+_male_: 24.3% (2024 est.)<br>
+_female_: 23.2% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -501,7 +495,7 @@ _expenditures_: $186.928 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-36.91% of GDP (2022 est.)<br>
+36.9% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
@@ -509,15 +503,15 @@ _expenditures_: $186.928 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$37.748 billion (2023 est.)<br>
-$28.874 billion (2022 est.)<br>
-$44.123 billion (2021 est.)<br>
+$45.274 billion (2024 est.)<br>
+$40.819 billion (2023 est.)<br>
+$27.404 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$327.876 billion (2023 est.)<br>
+$338.852 billion (2024 est.)<br>
+$329.332 billion (2023 est.)<br>
 $318.203 billion (2022 est.)<br>
-$304.769 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -529,9 +523,9 @@ cars, refined petroleum, packaged medicine, paper, vehicle parts/accessories (20
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$302.398 billion (2023 est.)<br>
+$309.526 billion (2024 est.)<br>
+$304.194 billion (2023 est.)<br>
 $304.101 billion (2022 est.)<br>
-$275.348 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -543,18 +537,18 @@ cars, crude petroleum, refined petroleum, vehicle parts/accessories, garments (2
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$52.023 billion (2024 est.)<br>
 $60.863 billion (2023 est.)<br>
 $64.289 billion (2022 est.)<br>
-$62.053 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Swedish kronor (SEK) per US dollar -<br>
+10.568 (2024 est.)<br>
 10.61 (2023 est.)<br>
 10.114 (2022 est.)<br>
 8.577 (2021 est.)<br>
 9.21 (2020 est.)<br>
-9.458 (2019 est.)<br>
 
 ## Energy
 
@@ -623,7 +617,7 @@ _domestic_: fixed-line is 12 per 100 and mobile-cellular is 125 per 100 (2022)<b
 _international_: country code - 46; landing points for Botina, SFL, SFS-4, Baltic Sea Submarine Cable, Eastern Light, Sweden-Latvia, BCS North-Phase1, EE-S1, LV-SE1,&nbsp;BCS East-West Interlink, NordBalt, Baltica, Denmark-Sweden-15,-17,-18, Scandinavian Ring -North,-South, IP-Only Denmark-Sweden, Donica North,&nbsp;Kattegate-1,-2, Energinet Laeso-Varberg and GC2 submarine cables providing links to other Nordic countries and Europe; satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Eutelsat, and 1 Inmarsat (Atlantic and Indian Ocean regions); note - Sweden shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Iceland, and Norway) (2019)<br>
 
 **Broadcast media**<br>
-publicly owned TV broadcaster operates 2 terrestrial networks plus regional stations; multiple privately owned TV broadcasters operating nationally, regionally, and locally; about 50 local TV stations; widespread access to pan-Nordic and international broadcasters through multi-channel cable and satellite TV; publicly owned radio broadcaster operates 3 national stations and a network of 25 regional channels; roughly 100 privately owned local radio stations with some consolidating into near national networks; an estimated 900 community and neighborhood radio stations broadcast intermittently<br>
+publicly owned TV broadcaster has 2 terrestrial networks plus regional stations; multiple privately owned TV broadcasters operating nationally, regionally, and locally; about 50 local TV stations; widespread access to pan-Nordic and international broadcasters through multi-channel cable and satellite TV; publicly owned radio broadcaster has 3 national stations and a network of 25 regional channels; roughly 100 privately owned local radio stations, with some consolidating into near-national networks; an estimated 900 community and neighborhood radio stations broadcast intermittently<br>
 
 **Internet country code**<br>
 .se<br>
@@ -637,10 +631,6 @@ _subscriptions per 100 inhabitants_: 41 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 11 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 316<br>
-
 **Civil aircraft registration country code prefix**<br>
 SE<br>
 
@@ -650,18 +640,9 @@ SE<br>
 **Heliports**<br>
 11 (2025)<br>
 
-**Pipelines**<br>
-1626 km gas (2013)<br>
-
 **Railways**<br>
 _total_: 10,910 km (2020) 8,184 km electrified<br>
 _narrow gauge_: 65 km<br>
-
-**Roadways**<br>
-_total_: 197,964 km (2022)<br>
-
-**Waterways**<br>
-2,052 km (2010)<br>
 
 **Merchant marine**<br>
 _total_: 361 (2023)<br>
@@ -679,7 +660,7 @@ _key ports_: Falkenberg, Goteborg, Helsingborg, Karlsborg, Karlshamn, Lulea, Mal
 ## Military and Security
 
 **Military and security forces**<br>
-Swedish Armed Forces (F&ouml;rsvarsmakten or "the Defense Force"): Army, Navy, Air Force, Home Guard (2024)<br>
+Swedish Armed Forces (F&ouml;rsvarsmakten): Army, Navy, Air Force, Home Guard (202)<br>
 
 **Military expenditures**<br>
 2.1% of GDP (2024 est.)<br>
@@ -689,7 +670,7 @@ Swedish Armed Forces (F&ouml;rsvarsmakten or "the Defense Force"): Army, Navy, A
 1.2% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-the SAF has about 25,000 active-duty personnel: approximately 14,000 continuous service/full-time and approximately 11,000 temporary service; approximately 21,000 Home Guard (some on active duty) (2024)<br>
+the SAF has about 25,000 active-duty personnel: approximately 14,000 continuous service/full-time and approximately 11,000 temporary service; approximately 21,000 Home Guard (some on active duty) (2025)<br>
 <strong>note 1: </strong>SAF personnel are divided into continuously serving (full-time) and temporary service troops (part-timers who serve periodically and have another main employer or attend school); additional personnel have signed service agreements with the SAF and mostly serve in the Home Guard; the SAF also has about 9,000 civilian employees<br><br><strong>note 2:</strong> in 2021, Sweden announced plans that increase the total size of the armed forces to about 100,000 personnel by 2030<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -697,7 +678,7 @@ the SAF's inventory is comprised of domestically produced and imported Western w
 
 **Military service age and obligation**<br>
 18-47 years of age for voluntary military service for men and women; service obligation: 7-15 months (Army), 7-15 months (Navy), 8-12 months (Air Force); after completing initial service, soldiers have a reserve commitment until age 47; compulsory military service, abolished in 2010, was reinstated in January 2018; conscription is selective, includes both men and women (age 18), and requires 6-15 months of service (2024)<br>
-<strong>note 1: </strong>Sweden conscripts about 5,500 men and women each year; it plans to increase this number to 8,000 by 2025; conscientious objectors in Sweden have the right to apply for alternative service (called vapenfri tjänst); after completing alternative service, the conscript then belongs to the civilian reserve<br><br><strong>note 2: </strong>as of 2023, women made over 20% of the military's personnel<br>
+<strong>note 1: </strong>Sweden conscripts about 5,500 men and women each year; it plans to increase this number to 8,000 by 2025; conscientious objectors in Sweden have the right to apply for alternative service (called vapenfri tjänst); after completing alternative service, the conscript then belongs to the civilian reserve<br><br><strong>note 2: </strong>as of 2024, women made nearly 25% of the military's personnel<br>
 
 **Military deployments**<br>
 approximately 600 Latvia (NATO) (2025)<br>

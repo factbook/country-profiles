@@ -100,10 +100,10 @@ _15-64 years_: 67.2% (male 481,606/female 465,150)<br>
 _65 years and over_: 14.1% (2024 est.) (male 92,146/female 106,376)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 43.7<br>
-_youth dependency ratio_: 29.3<br>
-_elderly dependency ratio_: 16.8<br>
-_potential support ratio_: 7.4 (2021 est.)<br>
+_total dependency ratio_: 48.8 (2024 est.)<br>
+_youth dependency ratio_: 27.9 (2024 est.)<br>
+_elderly dependency ratio_: 21 (2024 est.)<br>
+_potential support ratio_: 4.8 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 38.5 years (2024 est.)<br>
@@ -232,12 +232,6 @@ _other_: 45.2% (2022 est.)<br>
 _urban population_: 53.4% of total population (2023)<br>
 _rate of urbanization_: 0.23% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-0.05% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 10.26 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 43.87 megatons (2016 est.)<br>
@@ -259,7 +253,7 @@ _agricultural_: 20 million cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Trinidad and Tobago<br>
 _conventional short form_: Trinidad and Tobago<br>
-_etymology_: explorer Christopher COLUMBUS named the larger island "La Isla de la Trinidad" (The Island of the Trinity) on 31 July 1498 on his third voyage; the tobacco grown and smoked by the natives of the smaller island or its elongated cigar shape may account for the "tobago" name, which is spelled "tobaco" in Spanish<br>
+_etymology_: explorer Christopher COLUMBUS named the larger island "La Isla de la Trinidad" (The Island of the Trinity) in 1498, possibly because of the three mountain peaks on the island; COLUMBUS may have gotten the name Tobago, spelled "tobaco" in Spanish, from the tobacco grown and smoked locally, or from its elongated cigar shape&nbsp;<br>
 
 **Government type**<br>
 parliamentary republic<br>
@@ -268,7 +262,7 @@ parliamentary republic<br>
 _name_: Port of Spain<br>
 _geographic coordinates_: 10 39 N, 61 31 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name dates to the period of Spanish colonial rule (16th to late 18th centuries) when the city was referred to as "Puerto de Espana"; the name was anglicized following the British capture of Trinidad in 1797<br>
+_etymology_: translation of the name the Spanish gave the town in 1595, Puerto de Espa&ntilde;a; the name was anglicized after the British captured Trinidad in 1797<br>
 
 **Administrative divisions**<br>
 <p>9 regions, 3 boroughs, 2 cities, 1 ward</p> <p><strong>regions:</strong> Couva/Tabaquite/Talparo, Diego Martin, Mayaro/Rio Claro, Penal/Debe, Princes Town, Sangre Grande, San Juan/Laventille, Siparia, Tunapuna/Piarco</p> <p><strong>borough:</strong> Arima, Chaguanas, Point Fortin</p> <p><strong>cities:</strong> Port of Spain, San Fernando</p> <p><strong>ward:</strong> Tobago</p><br>
@@ -280,7 +274,7 @@ _etymology_: the name dates to the period of Spanish colonial rule (16th to late
 Independence Day, 31 August (1962)<br>
 
 **Legal system**<br>
-English common law; judicial review of legislative acts in the Supreme Court<br>
+English common law; Supreme Court reviews legislative acts<br>
 
 **Constitution**<br>
 _history_: previous 1962; latest 1976<br>
@@ -300,7 +294,7 @@ _residency requirement for naturalization_: 8 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Christine KANGALOO (since 20 March 2023)<br>
-_head of government_: Prime Minister Stuart Richard YOUNG (since 17 March 2025)<br>
+_head of government_: Prime Minister Kamla Susheila PERSAD-BISSESSAR (since 1 May 2025)<br>
 _cabinet_: Cabinet appointed from among members of Parliament<br>
 _elections/appointments_: president indirectly elected by an electoral college of selected Senate and House of Representatives members for a 5-year term (eligible for a second term); election last held on 20 January 2023 (next to be held by February 2028); the president usually appoints the leader of the majority party in the House of Representatives as prime minister<br>
 _election results_: <em>2023: </em>Christine KANGALOO elected president by the electoral college on 20 January 2023; electoral college vote  Christine KANGALOO (PNM) 48, Israel KHAN (UNC) 22<br><br><em>2018: </em>Paula-Mae WEEKES (independent) elected president; ran unopposed and was elected without a vote; she was Trinidad and Tabago's first female head of state<br>
@@ -316,10 +310,10 @@ _number of seats_: 42 (all directly elected)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 8/10/2020<br>
-_parties elected and seats per party_: People's National Movement (PNM) (22); United National Congress (UNC) (19)<br>
+_most recent election date_: 4/28/2025<br>
+_parties elected and seats per party_: United National Congress (UNC) (26); People's National Movement (PNM) (13); Tobago People&rsquo;s Party (Tobago) (2)<br>
 _percentage of women in chamber_: 26.8%<br>
-_expected date of next election_: April 2025<br>
+_expected date of next election_: April 2030<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate<br>
@@ -400,9 +394,9 @@ $27.372 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.63% (2023 est.)<br>
-5.83% (2022 est.)<br>
-2.06% (2021 est.)<br>
+0.5% (2024 est.)<br>
+4.6% (2023 est.)<br>
+5.8% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -436,19 +430,19 @@ petroleum and petroleum products, liquefied natural gas, methanol, ammonia, urea
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-612,000 (2023 est.)<br>
+651,600 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.21% (2023 est.)<br>
-4.38% (2022 est.)<br>
-4.45% (2021 est.)<br>
+4.5% (2024 est.)<br>
+4.2% (2023 est.)<br>
+4.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.1% (2023 est.)<br>
-_male_: 9.4% (2023 est.)<br>
-_female_: 11.1% (2023 est.)<br>
+_total_: 11.1% (2024 est.)<br>
+_male_: 10.3% (2024 est.)<br>
+_female_: 12% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -469,7 +463,7 @@ _expenditures_: $7.822 billion (2019 est.)<br>
 41.8% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-16.55% (of GDP) (2019 est.)<br>
+16.5% (of GDP) (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -507,18 +501,18 @@ railway cargo containers, refined petroleum, cars, iron ore, excavation machiner
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$5.438 billion (2024 est.)<br>
 $6.256 billion (2023 est.)<br>
 $6.832 billion (2022 est.)<br>
-$6.88 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Trinidad and Tobago dollars (TTD) per US dollar -<br>
+6.75 (2024 est.)<br>
 6.75 (2023 est.)<br>
 6.754 (2022 est.)<br>
 6.759 (2021 est.)<br>
 6.751 (2020 est.)<br>
-6.754 (2019 est.)<br>
 
 ## Energy
 
@@ -585,20 +579,11 @@ _subscriptions per 100 inhabitants_: 27 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 19<br>
-_annual passenger traffic on registered air carriers_: 2,525,130 (2018)<br>
-_annual freight traffic on registered air carriers_: 41.14 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 9Y<br>
 
 **Airports**<br>
 3 (2025)<br>
-
-**Pipelines**<br>
-257 km condensate, 11 km condensate/gas, 1,567 km gas, 587 km oil (2013)<br>
 
 **Merchant marine**<br>
 _total_: 102 (2023)<br>
@@ -616,7 +601,7 @@ _key ports_: Galeota Point Terminal, Point Lisas Industrial Port, Point Lisas Po
 ## Military and Security
 
 **Military and security forces**<br>
-Trinidad and Tobago Defense Force (TTDF): Trinidad and Tobago Regiment (Army/Land Forces), Trinidad and Tobago Coast Guard, Trinidad and Tobago Air Guard, Trinidad and Tobago Defense Force Reserves<br><br>Trinidad and Tobago Police Service (TTPS) (2024)<br>
+Trinidad and Tobago Defense Force (TTDF): Trinidad and Tobago Regiment (Army/Land Forces), Trinidad and Tobago Coast Guard, Trinidad and Tobago Air Guard, Trinidad and Tobago Defense Force Reserves<br><br>Trinidad and Tobago Police Service (TTPS) (2025)<br>
 <strong>note:</strong> the Ministry of National Security oversees both the TTDF and the TTPS<br>
 
 **Military expenditures**<br>
@@ -627,7 +612,7 @@ Trinidad and Tobago Defense Force (TTDF): Trinidad and Tobago Regiment (Army/Lan
 1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 5,000 TTDF personnel (2024)<br>
+approximately 5,000 TTDF personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the TTDF's ground force inventory consists of light weapons, while the Coast Guard and Air Guard field mostly secondhand equipment from a mix of countries, including Australia, China, Italy, the Netherlands, the UK, and the US (2024)<br>

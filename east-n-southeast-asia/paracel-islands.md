@@ -66,8 +66,7 @@ composed of 130 small coral islands and reefs divided into the northeast Amphitr
 ## People and Society
 
 **Population**<br>
-_total_: 1,440 (2024 est.)<br>
-<strong>note:</strong> Chinese activity has increased in recent years, particularly on Woody Island, where the population exceeds 1,000; some other islands have scattered Chinese garrisons<br>
+_total_: 2,230 (2024 est.)<br>
 
 **Population growth rate**<br>
 0.75% (2021 est.)<br>
@@ -81,7 +80,7 @@ a population of over 1,000 Chinese resides on Woody Island, the largest of the P
 ## Environment
 
 **Environment - current issues**<br>
-China's use of dredged sand and coral to build artificial islands harms reef systems; ongoing human activities, including military operations, infrastructure construction, and tourism endangers local ecosystem including birds, fish, marine mammals, and marine reptiles<br>
+harm to reef systems from China's use of dredged sand and coral to build artificial islands; damage to ecosystem from human activities, including military operations, infrastructure construction, and tourism&nbsp;<br>
 
 **Climate**<br>
 tropical<br>
@@ -108,7 +107,7 @@ _conventional short form_: Paracel Islands<br>
 ## Military and Security
 
 **Military - note**<br>
-occupied by China, which is assessed to maintain 20 outposts in the Paracels (Antelope, Bombay, and North reefs; Drummond, Duncan, Lincoln, Middle, Money, North, Pattle, Quanfu, Robert, South, Tree, Triton, Woody, and Yagong islands; South Sand and West Sand; Observation Bank); the outposts range in size from one or two buildings to bases with significant military infrastructure; Woody Island is the main base in the Paracels and includes an airstrip with fighter aircraft hangers, naval facilities, surveillance radars, and defenses such as surface-to-air missiles and anti-ship cruise missiles; combat aircraft have deployed to the island (2024)<br>
+occupied by China, which is assessed to maintain 20 outposts or bases in the Paracels (Antelope, Bombay, and North reefs; Drummond, Duncan, Lincoln, Middle, Money, North, Pattle, Quanfu, Robert, South, Tree, Triton, Woody, and Yagong islands; South Sand and West Sand; Observation Bank); Woody Island is the main military base and includes an airstrip with fighter aircraft hangers, naval facilities, surveillance radars, and defenses such as surface-to-air missiles and anti-ship cruise missiles; combat aircraft have deployed to the island (2025)<br>
 
 ## Transnational Issues
 

@@ -74,7 +74,9 @@ deeply indented coast provides good natural harbors; short growing season<br>
 ## People and Society
 
 **Population**<br>
-_total_: 3,662 (2021 est.)<br>
+_total_: 3,142 (2021)<br>
+_male_: 1,645<br>
+_female_: 1,497<br>
 <strong>note:</strong> data include all persons usually resident in the islands at the time of the 2021 census<br>
 
 **Nationality**<br>
@@ -92,10 +94,10 @@ English 89%, Spanish 7.7%, other 3.3% (2006 est.)<br>
 Christian 57.1%, other 1.6%, none 35.4%, unspecified 6% (2016 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 39.8<br>
-_youth dependency ratio_: 24.8<br>
-_elderly dependency ratio_: 14.9<br>
-_potential support ratio_: 6.7 (2021)<br>
+_total dependency ratio_: 38.4 (2021)<br>
+_youth dependency ratio_: 21.8 (2021)<br>
+_elderly dependency ratio_: 16.6 (2021)<br>
+_potential support ratio_: 6 (2021)<br>
 
 **Population growth rate**<br>
 0.01% (2014 est.)<br>
@@ -146,7 +148,7 @@ _unimproved: total_: total: 0% of population (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-overfishing by unlicensed vessels is a problem; reindeer - introduced to the islands in 2001 from South Georgia - are part of a farming effort to produce specialty meat and diversify the islands' economy; this is the only commercial reindeer herd in the world unaffected by the 1986 Chornobyl disaster; grazing threatens important habitats including tussac grass and its ecosystem with penguins and sea lions; soil erosion from fires<br>
+overfishing by unlicensed vessels; grazing threatens important habitats; soil erosion from fires<br>
 
 **Climate**<br>
 cold marine; strong westerly winds, cloudy, humid; rain occurs on more than half of days in year; average annual rainfall is 60 cm in Stanley; occasional snow all year, except in January and February, but typically does not accumulate<br>
@@ -180,7 +182,7 @@ overseas territory of the UK; also claimed by Argentina<br>
 _name_: Stanley<br>
 _geographic coordinates_: 51 42 S, 57 51 W<br>
 _time difference_: UTC-3 (2 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named after Edward SMITH-STANLEY (1799-1869), the 14th Earl of Derby, a British statesman and three-time prime minister of the UK who never visited the islands<br>
+_etymology_: named in 1844 after Edward SMITH-STANLEY, the 14th Earl of Derby<br>
 
 **Administrative divisions**<br>
 none (administered by the UK; claimed by Argentina)<br>
@@ -249,6 +251,9 @@ _name_: "Song of the Falklands"<br>
 _lyrics/music_: Christopher LANHAM<br>
 <strong>note:</strong> adopted 1930s; the song is the local unofficial anthem; as a territory of the United Kingdom, "God Save the King" is official (see United Kingdom)<br>
 
+**National coat of arms**<br>
+<p>The Falkland Islands adopted its coat of arms in 1948. The shield highlights the national symbol, the ram, which represents the country’s agricultural industry and stands on native tussock grass. English navigator John Davis’s sailing vessel, the <em>Desire</em>,<em> </em>is shown, referencing his sighting of the islands in 1592. Below the shield is the Falklands’ motto, “Desire the Right.”</p><br>
+
 ## Economy
 
 **Economic overview**<br>
@@ -268,9 +273,6 @@ $63,000 (2014 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $206.4 million (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-1.4% (2014 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 41% (2015 est.)<br>
@@ -356,7 +358,7 @@ _domestic_: fixed-line subscriptions approximately 53 per 100, 160 per 100 for m
 _international_: country code - 500; satellite earth station - 1 Intelsat (Atlantic Ocean) with links through London to other countries (2015)<br>
 
 **Broadcast media**<br>
-TV service provided by a multi-channel service provider; radio services provided by the public broadcaster, Falkland Islands Radio Service, broadcasting on both AM and FM frequencies, and by the British Forces Broadcasting Service (BFBS) (2007)<br>
+TV service provided by a multi-channel service provider; radio provided by public broadcaster Falkland Islands Radio Service and the British Forces Broadcasting Service&nbsp; (2007)<br>
 
 **Internet country code**<br>
 .fk<br>
@@ -370,20 +372,11 @@ _subscriptions per 100 inhabitants_: 33 (2020 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 5<br>
-
 **Civil aircraft registration country code prefix**<br>
 VP-F<br>
 
 **Airports**<br>
 34 (2025)<br>
-
-**Roadways**<br>
-_total_: 440 km<br>
-_paved_: 50 km<br>
-_unpaved_: 390 km (2008)<br>
 
 **Merchant marine**<br>
 _total_: 2 (2023)<br>

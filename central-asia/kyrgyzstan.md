@@ -106,10 +106,10 @@ _15-64 years_: 64% (male 1,935,200/female 2,013,733)<br>
 _65 years and over_: 6.9% (2024 est.) (male 164,032/female 263,805)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 63.5<br>
-_youth dependency ratio_: 56.4<br>
-_elderly dependency ratio_: 7.2<br>
-_potential support ratio_: 13.9 (2021 est.)<br>
+_total dependency ratio_: 56.3 (2024 est.)<br>
+_youth dependency ratio_: 45.5 (2024 est.)<br>
+_elderly dependency ratio_: 10.8 (2024 est.)<br>
+_potential support ratio_: 9.2 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 28.3 years (2024 est.)<br>
@@ -237,7 +237,7 @@ _female_: 14 years (2021)<br>
 ## Environment
 
 **Environment - current issues**<br>
-water pollution; many people get their water directly from contaminated streams and wells; as a result, water-borne diseases are prevalent; increasing soil salinity from faulty irrigation practices; air pollution due to rapid increase of traffic<br>
+water pollution; increasing soil salinity from irrigation practices; air pollution due to vehicle traffic<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Wetlands<br>
@@ -257,12 +257,6 @@ _other_: 38.9% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 37.8% of total population (2023)<br>
 _rate of urbanization_: 2.05% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.01% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.21% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 37.58 micrograms per cubic meter (2019 est.)<br>
@@ -305,7 +299,7 @@ parliamentary republic<br>
 _name_: Bishkek<br>
 _geographic coordinates_: 42 52 N, 74 36 E<br>
 _time difference_: UTC+6 (11 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: founded in 1868 as a Russian settlement on the site of a previously destroyed fortress named "Pishpek"; the name was retained and overtime became "Bishkek"<br>
+_etymology_: the meaning of the name is unknown; the city was founded in 1862 as a Russian settlement on the site of an Uzbek fortress named Bishkek; the Russian version of the name was Pishpek, and the original name only came back into use in 1991<br>
 
 **Administrative divisions**<br>
 7 provinces (oblustar, singular - oblus) and 2 cities* (shaarlar, singular - shaar); Batken Oblusu, Bishkek Shaary*, Chuy Oblusu (Bishkek), Jalal-Abad Oblusu, Naryn Oblusu, Osh Oblusu, Osh Shaary*, Talas Oblusu, Ysyk-Kol Oblusu (Karakol)<br>
@@ -318,7 +312,7 @@ _etymology_: founded in 1868 as a Russian settlement on the site of a previously
 Independence Day, 31 August (1991)<br>
 
 **Legal system**<br>
-civil law system, which includes features of French civil law and Russian Federation laws<br>
+civil law system that includes features of French civil law and Russian Federation laws<br>
 
 **Constitution**<br>
 _history_: previous 1993, 2007, 2010; latest approved by referendum in April 2021 that transitioned Kyrgyzstan from a parliamentary to a presidential system, and implemented changes that allow the president to serve for two 5-year terms rather than one 6-year term, reduced the number of seats in Kyrgyzstan's legislature from 120 to 90, and established a Kurultay (a public advisory council)<br>
@@ -425,9 +419,9 @@ $13.988 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-10.75% (2023 est.)<br>
-13.92% (2022 est.)<br>
-11.91% (2021 est.)<br>
+10.8% (2023 est.)<br>
+13.9% (2022 est.)<br>
+11.9% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -462,19 +456,19 @@ small machinery, textiles, food processing, cement, shoes, lumber, refrigerators
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.144 million (2023 est.)<br>
+3.192 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.04% (2023 est.)<br>
-4.06% (2022 est.)<br>
-4.1% (2021 est.)<br>
+3.3% (2024 est.)<br>
+4% (2023 est.)<br>
+4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.2% (2023 est.)<br>
-_male_: 7.6% (2023 est.)<br>
-_female_: 9.2% (2023 est.)<br>
+_total_: 6.8% (2024 est.)<br>
+_male_: 6.3% (2024 est.)<br>
+_female_: 7.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -506,7 +500,7 @@ _expenditures_: $2.892 billion (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-21.28% (of GDP) (2023 est.)<br>
+21.3% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -550,7 +544,7 @@ $2.983 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$3.918 billion (2023 est.)<br>
+$3.617 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -622,7 +616,7 @@ _domestic_: fixed-line subscriptions 5 per 100; mobile-cellular subscribership u
 _international_: country code - 996; connections with other CIS (Commonwealth of Independent States, 9 members post-Soviet Republics in EU) countries by landline or microwave radio relay and with other countries by leased connections with Moscow international gateway switch and by satellite; satellite earth stations - 2 (1 Intersputnik, 1 Intelsat) (2019)<br>
 
 **Broadcast media**<br>
-state-funded public TV broadcaster NTRK has nationwide coverage; also operates Ala-Too 24 news channel which broadcasts 24/7 and 4 other educational, cultural, and sports channels; ELTR is a state-owned TV station with national reach; the switchover to digital TV in 2017 resulted in private TV station growth; approximately 20 stations are struggling to increase their own Kyrgyz-language content up to 60% of airtime, as required by law, instead of rebroadcasting primarily programs from Russian channels or airing unlicensed movies and music; several Russian TV stations also broadcast; state-funded radio stations and about 10 significant private radio stations also exist (2023)<br>
+state-funded public TV broadcaster NTRK operates Ala-Too 24 news channel and 4 other educational, cultural, and sports channels; ELTR is a state-owned TV station; the switchover to digital TV in 2017 resulted in private TV station growth; approximately 20 TV stations are struggling to increase Kyrgyz-language content to 60% of airtime, as required by law, instead of rebroadcasting programs from Russian channels or airing unlicensed movies and music; several Russian TV stations also broadcast; state-funded radio stations and about 10 significant private radio stations&nbsp; (2023)<br>
 
 **Internet country code**<br>
 .kg<br>
@@ -636,11 +630,6 @@ _subscriptions per 100 inhabitants_: 6 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 5 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 17<br>
-_annual passenger traffic on registered air carriers_: 709,198 (2018)<br>
-
 **Civil aircraft registration country code prefix**<br>
 EX<br>
 
@@ -650,25 +639,14 @@ EX<br>
 **Heliports**<br>
 1 (2025)<br>
 
-**Pipelines**<br>
-4,195 km gas (2022), 16 km oil (2022) (2022)<br>
-
 **Railways**<br>
 _total_: 424 km (2022)<br>
 _broad gauge_: 424 km (2018) 1.520-m gauge<br>
 
-**Roadways**<br>
-_total_: 34,000 km (2022)<br>
-_paved_: 22,600 km (2020)<br>
-_unpaved_: 7,700 km (2020)<br>
-
-**Waterways**<br>
-576 km (2022)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Kyrgyz Republic: Land Forces, Air Defense Forces, National Guard; Internal Troops; State Committee for National Security (GKNB): State Border Service (2024)<br>
+Armed Forces of the Kyrgyz Republic: Land Forces (Kygyz Army), Air Defense Forces (Kyrgyz Air Force)<br><br>Ministry of Internal Affairs: National Guard, Internal Security Service<br><br>State Committee for National Security: Border Guard Service (2025)<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2022 est.)<br>
@@ -687,7 +665,7 @@ the Kyrgyz military inventory is comprised almost entirely of Russian and Soviet
 18-27 years of age for compulsory or voluntary service for men in the Armed Forces or Interior Ministry; 12-month service obligation (9 months for university graduates), with optional fee-based 3-year service in the call-up mobilization reserve; women may volunteer at age 19; 16-17 years of age for military cadets, who cannot take part in military operations (2023)<br>
 
 **Military - note**<br>
-Kyrgyzstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force; it also started a relationship with NATO in 1992 and joined NATO's Partnership for Peace program in 1994<br><br>the Kyrgyz military’s primary responsibility is defense of the country’s sovereignty and territory, although it also has some internal security duties; elements of the military were called out in 2020 to respond to post-election demonstrations for example, and the National Guard’s missions include counterterrorism, responding to emergencies, and the protection of government facilities; the military also participates in UN and CSTO peacekeeping missions; border disputes with Tajikistan and Uzbekistan, as well as the threat posed by militant Islamic groups, have been particular areas of concern for both the military and internal security forces; the military’s closest security partner is Russia, which provides training and material assistance, and maintains a presence in the country, including an airbase; the military also conducts training with other regional countries such as India, traditionally with a focus on counterterrorism<br><br>the Kyrgyz military was formed in 1992 from Soviet Army units then based in Kyrgyzstan following the dissolution of the USSR (2023)<br>
+Kyrgyzstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force; it also started a relationship with NATO in 1992 and joined NATO's Partnership for Peace program in 1994<br><br>the Kyrgyz military’s primary responsibility is defense of the country’s sovereignty and territory, although it also has some internal security duties; elements of the military were called out in 2020 to respond to post-election demonstrations for example, and the National Guard’s missions include counterterrorism, responding to emergencies, and the protection of government facilities; the military also participates in UN and CSTO peacekeeping missions; border disputes with Tajikistan and Uzbekistan, as well as the threat posed by militant Islamic groups, have been particular areas of concern for both the military and internal security forces; the military’s closest security partner is Russia, which provides training and material assistance, and maintains a presence in the country, including an airbase; the military also conducts training with other regional countries such as India, traditionally with a focus on counterterrorism<br><br>the Kyrgyz military was formed in 1992 from Soviet Army units then based in Kyrgyzstan following the dissolution of the USSR (2024)<br>
 
 ## Terrorism
 

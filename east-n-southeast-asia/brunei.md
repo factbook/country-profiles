@@ -98,10 +98,10 @@ _15-64 years_: 70.8% (male 166,289/female 182,011)<br>
 _65 years and over_: 7.5% (2024 est.) (male 17,927/female 19,039)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 39.2<br>
-_youth dependency ratio_: 31.1<br>
-_elderly dependency ratio_: 8.1<br>
-_potential support ratio_: 12.4 (2021 est.)<br>
+_total dependency ratio_: 41.2 (2024 est.)<br>
+_youth dependency ratio_: 30.6 (2024 est.)<br>
+_elderly dependency ratio_: 10.6 (2024 est.)<br>
+_potential support ratio_: 9.4 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 32.3 years (2024 est.)<br>
@@ -223,7 +223,7 @@ _female_: 14 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-no major environmental problems, but air pollution control is becoming a concern; seasonal trans-boundary haze from forest fires in Indonesia<br>
+air pollution, including seasonal haze from forest fires in Indonesia<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution<br>
@@ -243,12 +243,6 @@ _other_: 25.4% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 79.1% of total population (2023)<br>
 _rate of urbanization_: 1.44% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.05% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 6.86 micrograms per cubic meter (2019 est.)<br>
@@ -281,7 +275,7 @@ absolute monarchy or sultanate<br>
 _name_: Bandar Seri Begawan<br>
 _geographic coordinates_: 4 53 N, 114 56 E<br>
 _time difference_: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named in 1970 after Sultan Omar Ali SAIFUDDIEN III (1914-1986), who adopted the title of "Seri Begawan" (approximate meaning "honored lord") when he abdicated in 1967; "bandar" means "city" in Malay; the capital had previously been called Bandar Brunei (Brunei City)<br>
+_etymology_: named in 1970 after Sultan Omar Ali SAIFUDDIEN III (1914-1986), who adopted the title of "Seri Begawan" (approximately meaning "honored lord") when he abdicated in 1967; "bandar" means "city" or "port" in Malay; the capital had previously been called Bandar Brunei (Brunei City)<br>
 
 **Administrative divisions**<br>
 4 districts (daerah-daerah, singular - daerah); Belait, Brunei dan Muara, Temburong, Tutong<br>
@@ -293,7 +287,8 @@ _etymology_: named in 1970 after Sultan Omar Ali SAIFUDDIEN III (1914-1986), who
 National Day, 23 February (1984); note - 1 January 1984 was the date of independence from the UK, 23 February 1984 was the date of independence from British protection; the Sultan's birthday, 15 June<br>
 
 **Legal system**<br>
-mixed legal system based on English common law and Islamic law; note - in April 2019, the full sharia penal codes came into force and apply to Muslims and partly to non-Muslims in parallel with present common law codes<br>
+mixed legal system based on English common law and Islamic law<br>
+<strong>note:</strong> in 2019, sharia penal codes came into force and apply to Muslims and partly to non-Muslims in parallel with common law codes<br>
 
 **Constitution**<br>
 _history_: drafted 1954 to 1959, signed 29 September 1959<br>
@@ -331,7 +326,7 @@ _percentage of women in chamber_: 11.8%<br>
 _expected date of next election_: January 2028<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court (consists of the Court of Appeal and the High Court, each with a chief justice and 2 judges); Sharia Court (consists the Court of Appeals and the High Court);&nbsp;<br>
+_highest court(s)_: Supreme Court (consists of the Court of Appeal and the High Court, each with a chief justice and 2 judges); Sharia Court (consists the Court of Appeals and the High Court)<br>
 _judge selection and term of office_: Supreme Court judges appointed by the monarch to serve until age 65, and older if approved by the monarch; Sharia Court judges appointed by the monarch for life<br>
 _subordinate courts_: Intermediate Court; Magistrates' Courts; Juvenile Court; small claims courts; lower sharia courts<br>
 <strong>note:</strong> Brunei has a dual judicial system of secular and sharia (religious) courts; the Judicial Committee of Privy Council (in London) serves as the final appellate court for civil cases only<br>
@@ -398,9 +393,9 @@ $15.128 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-0.36% (2023 est.)<br>
-3.68% (2022 est.)<br>
-1.73% (2021 est.)<br>
+-0.4% (2024 est.)<br>
+0.4% (2023 est.)<br>
+3.7% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -430,19 +425,19 @@ petroleum, petroleum refining, liquefied natural gas, construction, agriculture,
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-233,000 (2023 est.)<br>
+233,500 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.27% (2023 est.)<br>
-5.19% (2022 est.)<br>
-4.91% (2021 est.)<br>
+5.1% (2024 est.)<br>
+5.2% (2023 est.)<br>
+5.2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.6% (2023 est.)<br>
-_male_: 16.2% (2023 est.)<br>
-_female_: 22.3% (2023 est.)<br>
+_total_: 18.5% (2024 est.)<br>
+_male_: 16.5% (2024 est.)<br>
+_female_: 21.6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
@@ -496,18 +491,18 @@ crude petroleum, gold, refined petroleum, coal, cars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$4.032 billion (2024 est.)<br>
 $4.483 billion (2023 est.)<br>
 $5.035 billion (2022 est.)<br>
-$4.982 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Bruneian dollars (BND) per US dollar -<br>
+1.336 (2024 est.)<br>
 1.343 (2023 est.)<br>
 1.379 (2022 est.)<br>
 1.344 (2021 est.)<br>
 1.38 (2020 est.)<br>
-1.364 (2019 est.)<br>
 
 ## Energy
 
@@ -577,12 +572,6 @@ _subscriptions per 100 inhabitants_: 20 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 10<br>
-_annual passenger traffic on registered air carriers_: 1,234,455 (2018)<br>
-_annual freight traffic on registered air carriers_: 129.35 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 V8<br>
 
@@ -591,17 +580,6 @@ V8<br>
 
 **Heliports**<br>
 14 (2025)<br>
-
-**Pipelines**<br>
-33 km condensate, 86 km condensate/gas, 628 km gas, 492 km oil (2013)<br>
-
-**Roadways**<br>
-_total_: 2,976 km<br>
-_paved_: 2,559 km<br>
-_unpaved_: 417 km (2014)<br>
-
-**Waterways**<br>
-209 km (2012) (navigable by craft drawing less than 1.2 m; the Belait, Brunei, and Tutong Rivers are major transport links)<br>
 
 **Merchant marine**<br>
 _total_: 97 (2023)<br>
@@ -630,7 +608,7 @@ Royal Brunei Armed Forces (RBAF) or Angkatan Bersenjata Diraja Brunei (ABDB): Ro
 3.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 8,000 total active-duty troops (2024)<br>
+approximately 7,000 active RBAF troops (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's s inventory includes equipment and weapons systems from a wide variety of suppliers from Asia, Europe, and the US (2024)<br>

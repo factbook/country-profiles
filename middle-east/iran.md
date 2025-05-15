@@ -80,7 +80,7 @@ population is concentrated in the north, northwest, and west, reflecting the pos
 periodic droughts, floods; dust storms, sandstorms; earthquakes<br>
 
 **Geography - note**<br>
-strategic location on the Persian Gulf and Strait of Hormuz, which are vital maritime pathways for crude oil transport<br>
+strategic location on the Persian Gulf and Strait of Hormuz<br>
 
 ## People and Society
 
@@ -109,10 +109,10 @@ _15-64 years_: 69.8% (male 31,413,125/female 30,267,241)<br>
 _65 years and over_: 7% (2024 est.) (male 2,869,617/female 3,283,875)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 45.3<br>
-_youth dependency ratio_: 34.6<br>
-_elderly dependency ratio_: 10.7<br>
-_potential support ratio_: 9.3 (2021 est.)<br>
+_total dependency ratio_: 43.3 (2024 est.)<br>
+_youth dependency ratio_: 33.3 (2024 est.)<br>
+_elderly dependency ratio_: 10 (2024 est.)<br>
+_potential support ratio_: 10 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 33.8 years (2024 est.)<br>
@@ -233,7 +233,7 @@ _female_: 15 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution, especially in urban areas, from vehicle emissions, refinery operations, and industrial effluents; deforestation; overgrazing; desertification; oil pollution in the Persian Gulf; wetland losses from drought; soil degradation (salination); inadequate supplies of potable water; water pollution from raw sewage and industrial waste; urbanization<br>
+air pollution, especially in urban areas, from vehicle emissions, refinery operations, and industrial effluents; deforestation; overgrazing; desertification; oil pollution in the Persian Gulf; wetland losses from drought; soil degradation (salination); inadequate potable water; water pollution from raw sewage and industrial waste<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -253,12 +253,6 @@ _other_: 64.4% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 77.3% of total population (2023)<br>
 _rate of urbanization_: 1.32% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.01% of GDP (2017 est.)<br>
-
-**Revenue from coal**<br>
-0.01% of GDP (2017 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 31.62 micrograms per cubic meter (2019 est.)<br>
@@ -309,7 +303,7 @@ _name_: Tehran<br>
 _geographic coordinates_: 35 42 N, 51 25 E<br>
 _time difference_: UTC+3.5 (8.5 hours ahead of Washington, DC)<br>
 _daylight saving time_: does not observe daylight savings time<br>
-_etymology_: various explanations of the city's name have been proffered, but the most plausible states that it derives from the Persian words <em>tah</em> meaning "end or bottom" and <em>ran</em> meaning "[mountain] slope" to signify "bottom of the mountain slope"; Tehran lies at the bottom slope of the Elburz Mountains<br>
+_etymology_: the name probably means "flat" or "lower," referring to its location in the foothills of the Elburz Mountains<br>
 
 **Administrative divisions**<br>
 31 provinces (ostanha, singular - ostan); Alborz, Ardabil, Azarbayjan-e Gharbi (West Azerbaijan), Azarbayjan-e Sharqi (East Azerbaijan), Bushehr, Chahar Mahal va Bakhtiari, Esfahan, Fars, Gilan, Golestan, Hamadan, Hormozgan, Ilam, Kerman, Kermanshah, Khorasan-e Jonubi (South Khorasan), Khorasan-e Razavi (Razavi Khorasan), Khorasan-e Shomali (North Khorasan), Khuzestan, Kohgiluyeh va Bowyer Ahmad, Kordestan, Lorestan, Markazi, Mazandaran, Qazvin, Qom, Semnan, Sistan va Baluchestan, Tehran, Yazd, Zanjan<br>
@@ -321,7 +315,7 @@ _etymology_: various explanations of the city's name have been proffered, but th
 Republic Day, 1 April (1979)<br>
 
 **Legal system**<br>
-religious legal system based on secular and Islamic law<br>
+religious system based on secular and Islamic law<br>
 
 **Constitution**<br>
 _history_: previous 1906; latest adopted 24 October 1979, effective 3 December 1979<br>
@@ -419,9 +413,9 @@ $404.626 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-44.58% (2023 est.)<br>
-43.49% (2022 est.)<br>
-43.39% (2021 est.)<br>
+44.6% (2023 est.)<br>
+43.5% (2022 est.)<br>
+43.4% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -451,19 +445,19 @@ petroleum, petrochemicals, gas, fertilizer, caustic soda, textiles, cement and o
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-29.789 million (2023 est.)<br>
+28.575 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-9.1% (2023 est.)<br>
-9.09% (2022 est.)<br>
-9.28% (2021 est.)<br>
+9.2% (2024 est.)<br>
+9% (2023 est.)<br>
+9.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 22.8% (2023 est.)<br>
-_male_: 20% (2023 est.)<br>
-_female_: 35.5% (2023 est.)<br>
+_total_: 22.8% (2024 est.)<br>
+_male_: 20% (2024 est.)<br>
+_female_: 35.5% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -500,9 +494,9 @@ $9.491 billion (2017 est.)<br>
 $16.28 billion (2016 est.)<br>
 
 **Exports**<br>
-$110.882 billion (2022 est.)<br>
-$82.015 billion (2021 est.)<br>
-$46.568 billion (2020 est.)<br>
+$97.924 billion (2023 est.)<br>
+$105.752 billion (2022 est.)<br>
+$87.574 billion (2021 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -514,9 +508,9 @@ plastics, iron ore, alcohols, natural gas, refined copper (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$102.47 billion (2022 est.)<br>
-$77.33 billion (2021 est.)<br>
-$58.461 billion (2020 est.)<br>
+$113.21 billion (2023 est.)<br>
+$97.729 billion (2022 est.)<br>
+$82.571 billion (2021 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -532,7 +526,7 @@ $120.6 billion (2017 est.)<br>
 $133.7 billion (2016 est.)<br>
 
 **Debt - external**<br>
-$6.771 billion (2023 est.)<br>
+$6.759 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -612,7 +606,7 @@ _domestic_: approximately 33 per 100 for fixed-line and 155 per 100 for mobile-c
 _international_: country code - 98; landing points for Kuwait-Iran, GBICS &amp;&nbsp;MENA, FALCON, OMRAN/3PEG Cable System, POI and UAE-Iran submarine fiber-optic cable to&nbsp;the&nbsp;Middle East, Africa and India;&nbsp;(TAE) fiber-optic line runs from Azerbaijan through the northern portion of Iran to Turkmenistan with expansion to Georgia and Azerbaijan; HF radio and microwave radio relay to Turkey, Azerbaijan, Pakistan, Afghanistan, Turkmenistan, Syria, Kuwait, Tajikistan, and Uzbekistan; satellite earth stations - 13 (9 Intelsat and 4 Inmarsat) (2019)<br>
 
 **Broadcast media**<br>
-state-run broadcast media with no private, independent broadcasters; Islamic Republic of Iran Broadcasting (IRIB), the state-run TV broadcaster, operates more than 60 television channels, more than 50 radio stations, and dozens of newspapers and websites; about 20 foreign Persian-language TV stations broadcasting on satellite TV are capable of being seen in Iran; satellite dishes are illegal and, while their use is subjectively tolerated, authorities confiscate satellite dishes from time to time; most major international broadcasters transmit to Iran (2023)<br>
+state-run broadcast media with no private, independent broadcasters; Islamic Republic of Iran Broadcasting (IRIB), the state-run TV broadcaster, operates over 60 television channels, over 50 radio stations, and dozens of newspapers and websites; about 20 foreign Persian-language TV stations broadcasting on satellite TV can be seen in Iran; satellite dishes are illegal and sometimes confiscated; most major international broadcasters transmit to Iran (2023)<br>
 
 **Internet country code**<br>
 .ir<br>
@@ -626,12 +620,6 @@ _subscriptions per 100 inhabitants_: 12 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 22 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 237<br>
-_annual passenger traffic on registered air carriers_: 25,604,871 (2018)<br>
-_annual freight traffic on registered air carriers_: 290.74 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 EP<br>
 
@@ -641,21 +629,10 @@ EP<br>
 **Heliports**<br>
 90 (2025)<br>
 
-**Pipelines**<br>
-7 km condensate, 973 km condensate/gas, 20,794 km gas, 570 km liquid petroleum gas, 8,625 km oil, 7,937 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 8,483.5 km (2014)<br>
 _standard gauge_: 8,389.5 km (2014) 1.435-m gauge (189.5 km electrified)<br>
 _broad gauge_: 94 km (2014) 1.676-m gauge<br>
-
-**Roadways**<br>
-_total_: 223,485 km<br>
-_paved_: 195,618 km<br>
-_unpaved_: 27,867 km (2016)<br>
-
-**Waterways**<br>
-850 km (2012) (on Karun River; some navigation on Lake Urmia)<br>
 
 **Merchant marine**<br>
 _total_: 965 (2023)<br>
@@ -684,7 +661,7 @@ the military forces of Iran are divided between the Islamic Republic of Iran Reg
 2.5% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; up to 600,000 active armed forces personnel; approximately 400,000 Islamic Republic of Iran Regular Forces (350,000 Ground Forces; 18,000 Navy; 40,000 Air Force/Air Defense Forces); approximately 150-190,000 Islamic Revolutionary Guard Corps (100-150,000 Ground Forces; 20,000 Navy; 15,000 Aerospace Force; 5-15,000 Qods Force); estimated 90,000 active Basij Paramilitary Forces (2023)<br>
+information varies; up to 600,000 total active armed forces personnel; estimated 400,000 Islamic Republic of Iran Regular Forces (350,000 Ground Forces; 18,000 Navy; 40,000 Air Force/Air Defense Forces); up to estimated 190,000 Islamic Revolutionary Guard Corps (100-150,000 Ground Forces; 20,000 Navy; 15,000 Aerospace Force; 5,000 Qods Force); estimated 90,000 active Basij Paramilitary Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Iranian military's inventory includes a mix of domestically produced and mostly older foreign equipment largely of Chinese, Russian, Soviet, and US origin (US equipment acquired prior to the Islamic Revolution in 1979); it also has some military equipment from North Korea, including midget submarines and ballistic missiles; in recent years, Iran has received some newer equipment from Russia; Iran has a defense industry with the capacity to develop, produce, support, and sustain air, land, missile, and naval weapons programs (2024)<br>

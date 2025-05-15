@@ -72,7 +72,7 @@ population concentrated along the nothern coastal strip; the remainder of the co
 flooding<br>
 
 **Geography - note**<br>
-smallest independent country on South American continent; mostly tropical rain forest; great diversity of flora and fauna that, for the most part, is increasingly threatened by new development; relatively small population, mostly along the coast<br>
+smallest independent country on the South American continent; mostly tropical rainforest; great diversity of flora and fauna; relatively small population, mostly along the coast<br>
 
 ## People and Society
 
@@ -101,10 +101,10 @@ _15-64 years_: 70% (male 226,417/female 226,235)<br>
 _65 years and over_: 7.5% (2024 est.) (male 20,071/female 28,598)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 50.9<br>
-_youth dependency ratio_: 40<br>
-_elderly dependency ratio_: 11<br>
-_potential support ratio_: 9.1 (2021 est.)<br>
+_total dependency ratio_: 42.9 (2024 est.)<br>
+_youth dependency ratio_: 32.1 (2024 est.)<br>
+_elderly dependency ratio_: 10.8 (2024 est.)<br>
+_potential support ratio_: 9.3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 32 years (2024 est.)<br>
@@ -220,7 +220,7 @@ _female_: 93.4% (2021)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation as timber is cut for export; pollution of inland waterways by small-scale mining activities<br>
+deforestation; pollution of inland waterways from small-scale mining activities<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -240,12 +240,6 @@ _other_: 5% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 66.4% of total population (2023)<br>
 _rate of urbanization_: 0.88% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-2.36% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 12.17 micrograms per cubic meter (2019 est.)<br>
@@ -274,7 +268,7 @@ _conventional short form_: Suriname<br>
 _local long form_: Republiek Suriname<br>
 _local short form_: Suriname<br>
 _former_: Netherlands Guiana, Dutch Guiana<br>
-_etymology_: name may derive from the indigenous "Surinen" people who inhabited the area at the time of European contact<br>
+_etymology_: name may derive from the Surinen people who inhabited the area at the time of European contact<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -283,7 +277,7 @@ presidential republic<br>
 _name_: Paramaribo<br>
 _geographic coordinates_: 5 50 N, 55 10 W<br>
 _time difference_: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name may be the corruption of a Carib (Kalina) village or tribe named Parmirbo<br>
+_etymology_: the name comes from the Guaraní words <em>para </em>(water or river) and <em>maribo </em>(inhabitants)<br>
 
 **Administrative divisions**<br>
 10 districts (distrikten, singular - distrikt); Brokopondo, Commewijne, Coronie, Marowijne, Nickerie, Para, Paramaribo, Saramacca, Sipaliwini, Wanica<br>
@@ -295,7 +289,7 @@ _etymology_: the name may be the corruption of a Carib (Kalina) village or tribe
 Independence Day, 25 November (1975)<br>
 
 **Legal system**<br>
-civil law system influenced by Dutch civil law; note - a new criminal code was enacted in 2017<br>
+civil law system influenced by Dutch civil law<br>
 
 **Constitution**<br>
 _history_: previous 1975; latest ratified 30 September 1987, effective 30 October 1987<br>
@@ -404,9 +398,9 @@ $3.455 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-51.59% (2023 est.)<br>
-52.45% (2022 est.)<br>
-59.12% (2021 est.)<br>
+16.2% (2024 est.)<br>
+51.6% (2023 est.)<br>
+52.4% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -441,19 +435,19 @@ gold mining, oil, lumber, food processing, fishing<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-253,000 (2023 est.)<br>
+255,500 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7.7% (2023 est.)<br>
-8.23% (2022 est.)<br>
-8.46% (2021 est.)<br>
+7.3% (2024 est.)<br>
+7.6% (2023 est.)<br>
+8.2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.3% (2023 est.)<br>
-_male_: 17.8% (2023 est.)<br>
-_female_: 37.8% (2023 est.)<br>
+_total_: 24.2% (2024 est.)<br>
+_male_: 16.9% (2024 est.)<br>
+_female_: 35.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -480,15 +474,15 @@ _expenditures_: $1.648 billion (2019 est.)<br>
 16.4% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
-$148.493 million (2023 est.)<br>
+$9.166 million (2024 est.)<br>
+$147.978 million (2023 est.)<br>
 $76.321 million (2022 est.)<br>
-$176.058 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$2.793 billion (2024 est.)<br>
 $2.533 billion (2023 est.)<br>
 $2.6 billion (2022 est.)<br>
-$2.299 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -500,9 +494,9 @@ gold, fish, refined petroleum, wood, tobacco (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$2.571 billion (2024 est.)<br>
 $2.203 billion (2023 est.)<br>
 $2.342 billion (2022 est.)<br>
-$1.876 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -514,21 +508,22 @@ refined petroleum, ships, excavation machinery, trucks, tobacco (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$1.53 billion (2024 est.)<br>
 $1.346 billion (2023 est.)<br>
 $1.195 billion (2022 est.)<br>
-$992.257 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$2.968 billion (2023 est.)<br>
+$2.645 billion (2023 est.)<br>
+<strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Surinamese dollars (SRD) per US dollar -<br>
+33.181 (2024 est.)<br>
 36.776 (2023 est.)<br>
 24.709 (2022 est.)<br>
 18.239 (2021 est.)<br>
 9.31 (2020 est.)<br>
-7.458 (2019 est.)<br>
 
 ## Energy
 
@@ -598,12 +593,6 @@ _subscriptions per 100 inhabitants_: 20 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 4 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 20<br>
-_annual passenger traffic on registered air carriers_: 272,347 (2018)<br>
-_annual freight traffic on registered air carriers_: 33.2 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 PZ<br>
 
@@ -612,17 +601,6 @@ PZ<br>
 
 **Heliports**<br>
 1 (2025)<br>
-
-**Pipelines**<br>
-50 km oil (2013)<br>
-
-**Roadways**<br>
-_total_: 4,304 km<br>
-_paved_: 1,119 km<br>
-_unpaved_: 3,185 km (2003)<br>
-
-**Waterways**<br>
-1,200 km (2011) (most navigable by ships with drafts up to 7 m)<br>
 
 **Merchant marine**<br>
 _total_: 13 (2023)<br>
@@ -640,7 +618,7 @@ _key ports_: Moengo, Nieuw Nickerie, Paramaribo, Paranam<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Suriname National Army (Nationaal Leger or NL); Army (Landmacht), Navy (Marine); Air Force (Luchtmacht), Military Police (Korps Militaire Politie)<br><br>Ministry of Justice and Police: Suriname Police Force (Korps Politie Suriname or KPS) (2024)<br>
+Suriname National Army (Nationaal Leger or NL); Army (Landmacht), Navy (Marine); Air Force (Luchtmacht), Military Police (Korps Militaire Politie)<br><br>Ministry of Justice and Police: Suriname Police Force (Korps Politie Suriname or KPS) (2025)<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2019 est.)<br>
@@ -650,7 +628,7 @@ Suriname National Army (Nationaal Leger or NL); Army (Landmacht), Navy (Marine);
 1.4% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 2,000 total personnel (2023)<br>
+approximately 2,000 total personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Suriname Army has a limited inventory comprised of a mix of older weapons and equipment, largely originating from such suppliers as Brazil, the Netherlands, and India; France also provides material assistance (2024)<br>
@@ -659,7 +637,7 @@ the Suriname Army has a limited inventory comprised of a mix of older weapons an
 18 is the legal minimum age for voluntary military service for men and women; no conscription (2024)<br>
 
 **Military - note**<br>
-the National Leger is responsible for defending the sovereignty and territorial integrity of Suriname against foreign aggression; other special tasks include border control and supporting domestic security as required; the military police, for example, have direct responsibility for immigration control at the country&rsquo;s ports of entry, and the military assists the police in combating crime, particularly narco-trafficking, including joint military and police patrols, as well as joint special security teams; in addition, the military provides aid and assistance during times of natural emergencies and participates in socio-economic development projects (2024)<br>
+the National Leger is responsible for defending the sovereignty and territorial integrity of Suriname against foreign aggression; other special tasks include border control and supporting domestic security as required; the military police, for example, have direct responsibility for immigration control at the country&rsquo;s ports of entry, and the military assists the police in combating crime, particularly narco-trafficking, including joint military and police patrols, as well as joint special security teams; in addition, the military provides aid and assistance during times of natural emergencies and participates in socio-economic development projects (2025)<br>
 
 ## Transnational Issues
 

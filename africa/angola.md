@@ -108,10 +108,10 @@ _15-64 years_: 50.7% (male 9,076,080/female 9,795,035)<br>
 _65 years and over_: 2.4% (2024 est.) (male 367,559/female 509,546)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 91.5<br>
-_youth dependency ratio_: 86.5<br>
-_elderly dependency ratio_: 5<br>
-_potential support ratio_: 20.1 (2021 est.)<br>
+_total dependency ratio_: 96.1 (2024 est.)<br>
+_youth dependency ratio_: 91.1 (2024 est.)<br>
+_elderly dependency ratio_: 5.1 (2024 est.)<br>
+_potential support ratio_: 19.8 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 16.3 years (2024 est.)<br>
@@ -228,7 +228,7 @@ _female_: 62.4% (2015)<br>
 ## Environment
 
 **Environment - current issues**<br>
-overuse of pastures and subsequent soil erosion attributable to population pressures; desertification; deforestation of tropical rain forest, in response to both international demand for tropical timber and to domestic use as fuel, resulting in loss of biodiversity; soil erosion contributing to water pollution and siltation of rivers and dams; inadequate supplies of potable water<br>
+overuse of pastures and subsequent soil erosion; desertification; deforestation of tropical rainforest from international demand for timber and domestic use as fuel; loss of biodiversity; soil erosion contributing to water pollution and siltation of rivers and dams; inadequate supplies of potable water<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution<br>
@@ -248,12 +248,6 @@ _other_: 10.6% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 68.7% of total population (2023)<br>
 _rate of urbanization_: 4.04% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.36% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 27.16 micrograms per cubic meter (2019 est.)<br>
@@ -298,7 +292,7 @@ _name_: Luanda<br>
 _geographic coordinates_: 8 50 S, 13 13 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: does not observe daylight savings time<br>
-_etymology_: the Portuguese named the city "S&atilde;o Paulo da Assun&ccedil;&atilde;o de Loanda" (Saint Paul of the Assumption of Loanda), which over time was shortened to "Luanda," a word that may have been derived from the local Bantu language<br>
+_etymology_: the Portuguese named the city S&atilde;o Paulo da Assun&ccedil;&atilde;o de Loanda (Saint Paul of the Assumption of Loanda); over time, it was shortened to "Luanda," which may derive from a Bantu word meaning "tax" or "duty," in reference to local people paying their dues to the king of the Congo<br>
 
 **Administrative divisions**<br>
 18 provinces (provincias, singular - provincia); Bengo, Benguela, Bie, Cabinda, Cuando Cubango, Cuanza-Norte, Cuanza-Sul, Cunene, Huambo, Huila, Luanda, Lunda-Norte, Lunda-Sul, Malanje, Moxico, Namibe, Uige, Zaire<br>
@@ -349,7 +343,7 @@ _expected date of next election_: August 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Tribunal Supremo (consists of the court president, vice president, and a minimum of 16 judges); Constitutional Court or Tribunal Constitucional (consists of 11 judges)<br>
-_judge selection and term of office_: Supreme Court judges appointed by the president upon recommendation of the Supreme Judicial Council, an 18-member body chaired by the president; judge tenure NA; Constitutional Court judges - 4 nominated by the president, 4 elected by National Assembly, 2 elected by Supreme National Council, 1 elected by competitive submission of curricula; judges serve single 7-year terms<br>
+_judge selection and term of office_: Supreme Court judges appointed by the president on recommendation of the Supreme Judicial Council, an 18-member body chaired by the president; judge tenure NA; Constitutional Court judges - 4 nominated by the president, 4 elected by National Assembly, 2 elected by Supreme National Council, 1 elected by competitive submission of curricula; judges serve single 7-year terms<br>
 _subordinate courts_: provincial and municipal courts<br>
 
 **Political parties**<br>
@@ -417,9 +411,9 @@ $84.825 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-13.64% (2023 est.)<br>
-21.36% (2022 est.)<br>
-25.75% (2021 est.)<br>
+28.2% (2024 est.)<br>
+13.6% (2023 est.)<br>
+21.4% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -455,19 +449,19 @@ petroleum; diamonds, iron ore, phosphates, feldspar, bauxite, uranium, and gold;
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-15.315 million (2023 est.)<br>
+15.961 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-14.62% (2023 est.)<br>
-14.69% (2022 est.)<br>
-15.8% (2021 est.)<br>
+14.5% (2024 est.)<br>
+14.5% (2023 est.)<br>
+14.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 28.2% (2023 est.)<br>
-_male_: 30.7% (2023 est.)<br>
-_female_: 25.8% (2023 est.)<br>
+_total_: 27.9% (2024 est.)<br>
+_male_: 30.2% (2024 est.)<br>
+_female_: 25.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -502,19 +496,19 @@ _expenditures_: $13.871 billion (2019 est.)<br>
 65% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-10.09% (of GDP) (2019 est.)<br>
+10.1% (of GDP) (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$6.277 billion (2024 est.)<br>
 $4.185 billion (2023 est.)<br>
 $11.763 billion (2022 est.)<br>
-$8.399 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$36.886 billion (2024 est.)<br>
 $36.961 billion (2023 est.)<br>
 $50.12 billion (2022 est.)<br>
-$33.675 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -526,9 +520,9 @@ crude petroleum, diamonds, natural gas, ships, refined petroleum (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$22.681 billion (2024 est.)<br>
 $23.688 billion (2023 est.)<br>
 $28.564 billion (2022 est.)<br>
-$18.845 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -540,22 +534,22 @@ refined petroleum, wheat, ships, cars, trucks (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$14.243 billion (2024 est.)<br>
 $13.942 billion (2023 est.)<br>
 $13.655 billion (2022 est.)<br>
-$14.468 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$46.196 billion (2023 est.)<br>
+$45.299 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: kwanza (AOA) per US dollar -<br>
+869.846 (2024 est.)<br>
 685.02 (2023 est.)<br>
 460.568 (2022 est.)<br>
 631.442 (2021 est.)<br>
 578.259 (2020 est.)<br>
-364.826 (2019 est.)<br>
 
 ## Energy
 
@@ -609,12 +603,12 @@ _total subscriptions_: 25.7 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 67 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Angola&rsquo;s telecom sector in recent years has benefited from political stability, which has encouraged foreign investment in the sector; the government and regulator have also set in train mechanisms to open up the telecom sector to new competitors, mobile services were launched in April 2022; the MNOs were slow to develop LTE services, instead relying on their GSM and 3G network capabilities; there has been slow progress in LTE network development, with only a small proportion of the country covered by network infrastructure; the Ministry of Telecommunications in early 2021 set up a 5G hub to assess 5G user cases; the regulator in November 2021 granted licenses to various companies offering 5G services, with spectrum in the 3.3-3.7GHz range having been set aside for such services (2022)<br>
+_general assessment_: Angola&rsquo;s telecom sector in recent years has benefited from political stability, which has encouraged foreign investment; the government and regulator have also set in train mechanisms to open up the telecom sector to new competitors; mobile services were launched in 2022; the MNOs were slow to develop LTE services, instead relying on their GSM and 3G network capabilities; there has been slow progress in LTE network development, with only a small proportion of the country covered; the Ministry of Telecommunications in 2021 set up a 5G hub to assess 5G user cases; the regulator granted licenses to various companies offering 5G services (2022)<br>
 _domestic_: less than one fixed-line per 100 persons; mobile-cellular teledensity about 44 telephones per 100 persons (2021)<br>
 _international_: country code - 244; landing points for the SAT-3/WASC, WACS, ACE and SACS&nbsp;fiber-optic submarine cable that provides connectivity to other countries in west Africa, Brazil, Europe and Asia; satellite earth stations - 29, Angosat-2 satellite expected by 2021 (2019)<br>
 
 **Broadcast media**<br>
-State-owned media dominate the media landscape, the many privately owned newspapers that emerged following the advent of multiparty politics in 1992, only four still exist in print form, State-run Radio Nacional de Angola (RNA) is the only outlet to offer programs in indigenous languages such as Bantu, private stations operate in cities, including Catholic Radio Ecclesia, but RNA is the only broadcaster with near-national coverage (2023)<br>
+state-owned media dominate; only four privately owned newspapers still exist in print form; state-run Radio Nacional de Angola (RNA) is the only outlet to offer programs in local languages such as Bantu; private stations operate in cities, including Catholic Radio Ecclesia, but RNA is the only radio broadcaster with near-national coverage (2023)<br>
 
 **Internet country code**<br>
 .ao<br>
@@ -628,12 +622,6 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 10 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 55<br>
-_annual passenger traffic on registered air carriers_: 1,516,628 (2018)<br>
-_annual freight traffic on registered air carriers_: 78.16 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 D2<br>
 
@@ -643,20 +631,10 @@ D2<br>
 **Heliports**<br>
 2 (2025)<br>
 
-**Pipelines**<br>
-352 km gas, 85 km liquid petroleum gas, 1,065 km oil, 5 km oil/gas/water (2013)<br>
-
 **Railways**<br>
 _total_: 2,761 km (2022)<br>
 _narrow gauge_: 2,638 km (2022) 1.067-m gauge<br>
 123 km 0.600-mm gauge<br>
-
-**Roadways**<br>
-_total_: 76,000 km<br>
-_paved_: 13,680 km (2020)<br>
-
-**Waterways**<br>
-1,300 km (2011)<br>
 
 **Merchant marine**<br>
 _total_: 64 (2023)<br>
@@ -674,7 +652,7 @@ _key ports_: Cabinda, Estrela Oil Field, Lobito, Luanda, Malongo Oil Terminal, N
 ## Military and Security
 
 **Military and security forces**<br>
-Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Guerra Angola, MGA), Angolan National Air Force (Forca Aerea Nacional Angolana, FANA; under operational control of the Army)<br><br>Ministry of Interior: National Police, Border Guard Police (2024)<br>
+Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Guerra Angola, MGA), Angolan National Air Force (Forca Aerea Nacional Angolana, FANA)<br><br>Ministry of Interior: National Police, Border Guard Police (2025)<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2023 est.)<br>
@@ -684,7 +662,7 @@ Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Gue
 1.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 100,000 active troops (2024)<br>
+approximately 100,000 active troops (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 most Angolan military weapons and equipment are of Russian or Soviet-era origin; there are smaller quantities of items originating from such suppliers as China, Brazil, and South Africa (2024)<br>

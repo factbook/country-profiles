@@ -109,10 +109,10 @@ _15-64 years_: 65.8% (male 5,456,941/female 5,765,206)<br>
 _65 years and over_: 5.3% (2024 est.) (male 323,591/female 584,257)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.4<br>
-_youth dependency ratio_: 45<br>
-_elderly dependency ratio_: 8.5<br>
-_potential support ratio_: 11.8 (2021 est.)<br>
+_total dependency ratio_: 52.1 (2024 est.)<br>
+_youth dependency ratio_: 44 (2024 est.)<br>
+_elderly dependency ratio_: 8.1 (2024 est.)<br>
+_potential support ratio_: 12.4 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 27.9 years (2024 est.)<br>
@@ -232,7 +232,7 @@ _female_: 79.8% (2021)<br>
 ## Environment
 
 **Environment - current issues**<br>
-illegal logging activities throughout the country and strip mining for gems in the western region along the border with Thailand have resulted in habitat loss and declining biodiversity (in particular, destruction of mangrove swamps threatens natural fisheries); soil erosion; in rural areas, most of the population does not have access to potable water; declining fish stocks because of illegal fishing and overfishing; coastal ecosystems choked by sediment washed loose from deforested areas inland<br>
+habitat and biodiversity loss from illegal logging and strip mining; destruction of mangrove swamps; soil erosion; limited access to potable water in rural areas; illegal fishing and overfishing; deforestation leading to sediment build-up in coastal ecosystems<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -252,12 +252,6 @@ _other_: 21.4% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 25.6% of total population (2023)<br>
 _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.84% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 17.8 micrograms per cubic meter (2019 est.)<br>
@@ -301,7 +295,7 @@ parliamentary constitutional monarchy<br>
 _name_: Phnom Penh<br>
 _geographic coordinates_: 11 33 N, 104 55 E<br>
 _time difference_: UTC+7 (12 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: Phnom Penh translates as "Penh's Hill" in Khmer; the city takes its name from the present Wat Phnom (Hill Temple), the tallest religious structure in the city, whose establishment, according to legend, was inspired in the 14th century by a pious nun, Daun PENH<br>
+_etymology_: the name means "mountain of plenty," from the Cambodian words <em>phnom </em>(mountain or hill) and <em>penh </em>(full)<br>
 
 **Administrative divisions**<br>
 <p>24 provinces (khett, singular and plural) and 1 municipality (krong, singular and plural)</p> <p><strong>provinces:</strong> Banteay Meanchey, Battambang, Kampong Cham, Kampong Chhnang, Kampong Speu, Kampong Thom, Kampot, Kandal, Kep, Koh Kong, Kratie, Mondolkiri, Oddar Meanchey, Pailin, Preah Sihanouk, Preah Vihear, Prey Veng, Pursat, Ratanakiri, Siem Reap, Stung Treng, Svay Rieng, Takeo, Tbong Khmum</p> <p><strong>municipalities:</strong> Phnom Penh (Phnum Penh)</p><br>
@@ -313,7 +307,7 @@ _etymology_: Phnom Penh translates as "Penh's Hill" in Khmer; the city takes its
 Independence Day, 9 November (1953)<br>
 
 **Legal system**<br>
-civil law system (influenced by the UN Transitional Authority in Cambodia) customary law, Communist legal theory, and common law<br>
+civil law system (influenced by the UN Transitional Authority in Cambodia), customary law, Communist legal theory, and common law<br>
 
 **Constitution**<br>
 _history_: previous 1947; latest promulgated 21 September 1993<br>
@@ -435,9 +429,9 @@ $42.336 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-2.13% (2023 est.)<br>
-5.34% (2022 est.)<br>
-2.92% (2021 est.)<br>
+2.1% (2023 est.)<br>
+5.3% (2022 est.)<br>
+2.9% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -472,19 +466,19 @@ tourism, garments, construction, rice milling, fishing, wood and wood products, 
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-9.229 million (2023 est.)<br>
+9.904 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-0.24% (2023 est.)<br>
-0.25% (2022 est.)<br>
-0.4% (2021 est.)<br>
+0.3% (2024 est.)<br>
+0.2% (2023 est.)<br>
+0.2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 0.8% (2023 est.)<br>
-_male_: 0.7% (2023 est.)<br>
-_female_: 0.9% (2023 est.)<br>
+_total_: 0.8% (2024 est.)<br>
+_male_: 0.7% (2024 est.)<br>
+_female_: 0.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -509,7 +503,7 @@ _expenditures_: $4.666 billion (2020 est.)<br>
 30.4% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-11.99% (of GDP) (2021 est.)<br>
+12% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -547,13 +541,14 @@ refined petroleum, fabric, gold, plastic products, synthetic fabric (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$18.608 billion (2024 est.)<br>
 $19.984 billion (2023 est.)<br>
 $17.801 billion (2022 est.)<br>
-$20.27 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$8.846 billion (2023 est.)<br>
+$8.019 billion (2023 est.)<br>
+<strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: riels (KHR) per US dollar -<br>
@@ -614,7 +609,7 @@ _domestic_: fixed-line connections stand at less than 1 per 100 persons; mobile-
 _international_: country code - 855; landing points for MCT and AAE-1 via submarine cables&nbsp;providing communication to Asia, the Middle East, Europe and Africa;&nbsp;satellite earth station - 1 Intersputnik (Indian Ocean region) (2019)<br>
 
 **Broadcast media**<br>
-mixture of state-owned, joint public-private, and privately owned broadcast media;&nbsp;27 TV broadcast stations with most operating on multiple channels, including 1 state-operated station broadcasting from multiple locations, 11 stations either jointly operated or privately owned with some broadcasting from several locations; multi-channel cable and satellite systems are available (2019);&nbsp;84 radio broadcast stations - 1 state-owned broadcaster with multiple stations and a large mixture of public and private broadcasters;&nbsp;one international broadcaster is&nbsp;available (2019) as well as one Chinese joint venture television station with the Ministry of Interior; several television and radio operators broadcast online only (often via Facebook) (2019)<br>
+mix of state-owned, joint public-private, and privately owned broadcast media; 27 TV stations, with most operating on multiple channels, including 1 state-operated station with multiple locations and 11 stations either jointly operated or privately owned, some with several locations; multi-channel cable and satellite systems; 84 radio stations, including 1 state-owned broadcaster with multiple stations and a mix of public and private broadcasters; one international broadcaster is available, as well as one TV station that is jointly run by China and the Ministry of Interior; several TV and radio operators broadcast online only (often via Facebook) (2019)<br>
 
 **Internet country code**<br>
 .kh<br>
@@ -627,12 +622,6 @@ _total_: 510,000 (2022 est.) Slowly increase as focus is on mobile internet<br>
 _subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
 
 ## Transportation
-
-**National air transport system**<br>
-_number of registered air carriers_: 6 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 25<br>
-_annual passenger traffic on registered air carriers_: 1,411,059 (2018)<br>
-_annual freight traffic on registered air carriers_: 680,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 XU<br>
@@ -647,14 +636,6 @@ XU<br>
 _total_: 642 km (2014)<br>
 _narrow gauge_: 642 km (2014) 1.000-m gauge<br>
 <strong>note:</strong> under restoration<br>
-
-**Roadways**<br>
-_total_: 61,810 km<br>
-_paved_: 15,000 km<br>
-_unpaved_: 46,810 km (2021)<br>
-
-**Waterways**<br>
-3,700 km (2012) (mainly on Mekong River)<br>
 
 **Merchant marine**<br>
 _total_: 195 (2023)<br>
@@ -672,7 +653,7 @@ _key ports_: Kampong Saom, Phsar Ream<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Cambodian Armed Forces (RCAF): Royal Cambodian Army, Royal Khmer Navy, Royal Cambodian Air Force, Royal Gendarmerie (Military Police);  National Committee for Maritime Security (2025)<br>
+Royal Cambodian Armed Forces (RCAF): Royal Cambodian Army, Royal Khmer Navy, Royal Cambodian Air Force, Royal Gendarmerie (Military Police); National Committee for Maritime Security (2025)<br>
 <strong>note 1:</strong> the National Committee for Maritime Security performs coast guard functions and has representation from military and civilian agencies<br><br><strong>note 2:</strong> the Cambodian National Police are under the Ministry of Interior<br>
 
 **Military expenditures**<br>
@@ -683,7 +664,7 @@ Royal Cambodian Armed Forces (RCAF): Royal Cambodian Army, Royal Khmer Navy, Roy
 2.2% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; estimated 150-200,000 Armed Forces personnel (2024)<br>
+information varies; estimated 200,000 Armed Forces personnel, including Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the RCAF is armed largely with older Chinese and Russian-origin equipment; in recent years it has received limited amounts of more modern equipment from several suppliers, particularly China (2024)<br>

@@ -75,7 +75,7 @@ areas of highest density are in the west and south; interior is sparsely populat
 hot, dry, dusty harmattan haze may reduce visibility during dry season<br>
 
 **Geography - note**<br>
-the Niger and its important tributary the Milo River have their sources in the Guinean highlands<br>
+the Niger and its important tributary, the Milo River, have their sources in the Guinean highlands<br>
 
 ## People and Society
 
@@ -104,10 +104,10 @@ _15-64 years_: 55.1% (male 3,846,852/female 3,856,366)<br>
 _65 years and over_: 4% (2024 est.) (male 254,608/female 308,413)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 82.4<br>
-_youth dependency ratio_: 76.3<br>
-_elderly dependency ratio_: 6.1<br>
-_potential support ratio_: 16.3 (2021 est.)<br>
+_total dependency ratio_: 81.6 (2024 est.)<br>
+_youth dependency ratio_: 74.3 (2024 est.)<br>
+_elderly dependency ratio_: 7.3 (2024 est.)<br>
+_potential support ratio_: 13.7 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 19.4 years (2024 est.)<br>
@@ -232,7 +232,7 @@ _female_: 8 years (2014)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation; inadequate potable water; desertification; soil contamination and erosion; overfishing, overpopulation in forest region; poor mining practices lead to environmental damage; water pollution; improper waste disposal<br>
+deforestation; inadequate potable water; desertification; soil contamination and erosion; overfishing, overpopulation in forest region; poor mining practices; water pollution; improper waste disposal<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
@@ -255,12 +255,6 @@ _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to reduced incomes - </em>levels of acute food insecurity are expected to increase in 2023; food prices are likely to remain at high levels, supported by the unfolding effects of the war in Ukraine on international trade; nearly 710,000 people are projected to be acutely food insecure during the June to August 2023 lean season, an improvement compared to 2022 when about 1.22 million people were estimated to face acute food insecurity; acute food insecurity is mainly driven by high food prices (2023)<br>
-
-**Revenue from forest resources**<br>
-4.81% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 37.57 micrograms per cubic meter (2019 est.)<br>
@@ -303,7 +297,7 @@ presidential republic<br>
 _name_: Conakry<br>
 _geographic coordinates_: 9 30 N, 13 42 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: according to tradition, the name derives from the fusion of the name <em>Cona</em>, a Baga wine and cheese producer who lived on Tombo Island (the original site of the present-day capital), and the word <em>nakiri</em>, which in Susu means "the other bank" or "the other side"; supposedly, Baga's palm grove produced the best wine on the island and people traveling to sample his vintage, would say: "I am going to Cona, on the other bank (<em>Cona-nakiri</em>)," which over time became Conakry<br>
+_etymology_: <p>the name derives from <em>konakri</em>, a Susu word meaning "over the water" and referring to the city's location on a peninsula; it was originally the name of a local village</p><br>
 
 **Administrative divisions**<br>
 7 regions administrative (administrative regions) and 1 gouvenorat (governorate)*; Boke, Conakry*, Faranah, Kankan, Kindia, Labe, Mamou, N'Zerekore<br>
@@ -421,9 +415,9 @@ $22.199 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+8.1% (2024 est.)<br>
 7.8% (2023 est.)<br>
-10.49% (2022 est.)<br>
-12.6% (2021 est.)<br>
+10.5% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -453,19 +447,19 @@ bauxite, gold, diamonds, iron ore; light manufacturing, agricultural processing<
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.465 million (2023 est.)<br>
+4.534 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.3% (2023 est.)<br>
-5.33% (2022 est.)<br>
-5.77% (2021 est.)<br>
+5.2% (2024 est.)<br>
+5.2% (2023 est.)<br>
+5.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.3% (2023 est.)<br>
-_male_: 6.3% (2023 est.)<br>
-_female_: 8.2% (2023 est.)<br>
+_total_: 7.1% (2024 est.)<br>
+_male_: 6.2% (2024 est.)<br>
+_female_: 8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -532,13 +526,13 @@ refined petroleum, rice, garments, construction vehicles, cars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.499 billion (2020 est.)<br>
-$1.379 billion (2019 est.)<br>
-$1.242 billion (2018 est.)<br>
+$1.887 billion (2023 est.)<br>
+$2.11 billion (2022 est.)<br>
+$2.183 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$3.981 billion (2023 est.)<br>
+$3.764 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -596,7 +590,7 @@ _domestic_: fixed-line teledensity is less than 1 per 100 persons; mobile-cellul
 _international_: country code - 224; ACE submarine cable connecting Guinea with 20 landing points in Western and South Africa and Europe; satellite earth station - 1 Intelsat (Atlantic Ocean (2019)<br>
 
 **Broadcast media**<br>
-<p>Government maintains control over broadcast media; single state-run TV station; state-run radio broadcast station also operates several stations in rural areas; a dozen private television stations; a steadily increasing number of privately owned radio stations, nearly all in Conakry, and about a dozen community radio stations; foreign TV programming available via satellite and cable subscription services </p> (2022)<br>
+<p>government maintains control over broadcast media; single state-run TV station; state-run radio also operates several stations in rural areas; a dozen private TV stations; many privately owned radio stations, nearly all in Conakry, and about a dozen community radio stations; foreign TV programming available via satellite and cable subscription services </p> (2022)<br>
 
 **Internet country code**<br>
 .gn<br>
@@ -624,14 +618,6 @@ _total_: 1,086 km (2017)<br>
 _standard gauge_: 279 km (2017) 1.435-m gauge<br>
 _narrow gauge_: 807 km (2017) 1.000-m gauge<br>
 
-**Roadways**<br>
-_total_: 44,301 km<br>
-_paved_: 3,346 km<br>
-_unpaved_: 40,955 km (2018)<br>
-
-**Waterways**<br>
-1,300 km (2011) (navigable by shallow-draft native craft in the northern part of the Niger River system)<br>
-
 **Merchant marine**<br>
 _total_: 2 (2023)<br>
 _by type_: other 2<br>
@@ -648,7 +634,7 @@ _key ports_: Benti, Conakry, Kamsar, Victoria<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Guinean (or National) Armed Forces (Forces Armées Guinéennes): Army (Armée de Terre), Air Force (Armée de l'Air), Navy (Armée de Mer), National Gendarmerie (Gendarmerie Nationale) (2024)<br>
+Guinean (or National) Armed Forces (Forces Armées Guinéennes): Army, Air Force, Navy, National Gendarmerie (2024)<br>
 <strong>note:</strong> the National Gendarmerie is overseen by the Ministry of Defense, while the National Police is under the Ministry of Security; the Gendarmerie and National Police share responsibility for internal security, but only the Gendarmerie can arrest police or military officials; Guinea's military and security forces are sometimes collectively referred to as the Defense and Security Forces<br>
 
 **Military expenditures**<br>
@@ -659,7 +645,7 @@ Guinean (or National) Armed Forces (Forces Armées Guinéennes): Army (Armée de
 1.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 10-15,000 Armed Forces personnel (2024)<br>
+estimated 10-12,000 active Armed Forces personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Guinean military's inventory consists almost entirely of Soviet-era weapons and equipment along with small amounts of secondhand material from China, France, Russia, and South Africa&nbsp; (2024)<br>

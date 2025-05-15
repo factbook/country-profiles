@@ -80,7 +80,7 @@ population density is very low, with the largest clustering found in the extreme
 prolonged periods of drought<br>
 
 **Geography - note**<br>
-the Namib Desert, after which the country is named, is considered to be the oldest desert in the world; Namibia is the first country in the world to incorporate the protection of the environment into its constitution; some 14% of the land is protected, including virtually the entire Namib Desert coastal strip; Namib-Naukluft National Park (49,768 sq km), is the largest game park in Africa and one of the largest in the world<br>
+the Namib Desert, after which the country is named, is considered to be the oldest desert in the world; some 14% of the land is protected, including virtually the entire Namib Desert coastal strip<br>
 
 ## People and Society
 
@@ -109,10 +109,10 @@ _15-64 years_: 62% (male 846,810/female 890,099)<br>
 _65 years and over_: 3.9% (2024 est.) (male 47,686/female 62,969)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 67.3<br>
-_youth dependency ratio_: 60.6<br>
-_elderly dependency ratio_: 6.7<br>
-_potential support ratio_: 14.8 (2021 est.)<br>
+_total dependency ratio_: 61.4 (2024 est.)<br>
+_youth dependency ratio_: 55 (2024 est.)<br>
+_elderly dependency ratio_: 6.4 (2024 est.)<br>
+_potential support ratio_: 15.7 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 22.8 years (2024 est.)<br>
@@ -232,7 +232,7 @@ _female_: 92.3% (2021)<br>
 ## Environment
 
 **Environment - current issues**<br>
-depletion and degradation of water and aquatic resources; desertification; land degradation; loss of biodiversity and biotic resources; wildlife poaching<br>
+depletion and degradation of water and aquatic resources; desertification; land degradation; loss of biodiversity; wildlife poaching<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -255,12 +255,6 @@ _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em><em>due to localized shortfalls in cereal production and </em></em><em>rising food prices </em><em>- </em>an estimated 390,000 people faced acute food insecurity in the January to March 2023 period, lower than the figure in the corresponding period of 2022; high food prices and localized weather induced shortfalls in cereal production in 2022 were the key drivers (2023)<br>
-
-**Revenue from forest resources**<br>
-0.47% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 11.81 micrograms per cubic meter (2019 est.)<br>
@@ -306,7 +300,7 @@ presidential republic<br>
 _name_: Windhoek<br>
 _geographic coordinates_: 22 34 S, 17 05 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: may derive from the Afrikaans word "wind-hoek" meaning "windy corner"<br>
+_etymology_: the name is an Afrikaans word meaning "windy corner;" a local Khoikhoin chief first used the name in the 19th century and may have derived it from the name of his childhood South African village of Winterhoek<br>
 
 **Administrative divisions**<br>
 14 regions; Erongo, Hardap, //Karas, Kavango East, Kavango West, Khomas, Kunene, Ohangwena, Omaheke, Omusati, Oshana, Oshikoto, Otjozondjupa, Zambezi; note - the Karas Region was renamed //Karas in September 2013 to include the alveolar lateral click of the Khoekhoegowab language<br>
@@ -318,7 +312,7 @@ _etymology_: may derive from the Afrikaans word "wind-hoek" meaning "windy corne
 Independence Day, 21 March (1990)<br>
 
 **Legal system**<br>
-mixed legal system of uncodified civil law based on Roman-Dutch law and customary law<br>
+mixed system of uncodified civil law based on Roman-Dutch law and customary law<br>
 
 **Constitution**<br>
 _history_: adopted 9 February 1990, entered into force 21 March 1990<br>
@@ -437,9 +431,9 @@ $12.351 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-5.88% (2023 est.)<br>
-6.08% (2022 est.)<br>
-3.62% (2021 est.)<br>
+4.2% (2024 est.)<br>
+5.9% (2023 est.)<br>
+6.1% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -474,19 +468,19 @@ mining, tourism, fishing, agriculture<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.106 million (2023 est.)<br>
+1.131 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-19.42% (2023 est.)<br>
-19.75% (2022 est.)<br>
-20.88% (2021 est.)<br>
+19.1% (2024 est.)<br>
+19.4% (2023 est.)<br>
+19.7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 38% (2023 est.)<br>
-_male_: 37.4% (2023 est.)<br>
-_female_: 38.8% (2023 est.)<br>
+_total_: 37.3% (2024 est.)<br>
+_male_: 36.7% (2024 est.)<br>
+_female_: 38% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -518,13 +512,13 @@ _expenditures_: $4.535 billion (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-27.17% (of GDP) (2022 est.)<br>
+27.2% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.831 billion (2023 est.)<br>
--$1.634 billion (2022 est.)<br>
--$1.407 billion (2021 est.)<br>
+-$1.809 billion (2023 est.)<br>
+-$1.611 billion (2022 est.)<br>
+-$1.393 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
@@ -542,7 +536,7 @@ gold, diamonds, radioactive chemicals, fish, refined petroleum (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$8.283 billion (2023 est.)<br>
+$8.286 billion (2023 est.)<br>
 $7.424 billion (2022 est.)<br>
 $6.466 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -556,18 +550,18 @@ refined petroleum, copper ore, ships, electricity, trucks (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$3.356 billion (2024 est.)<br>
 $2.956 billion (2023 est.)<br>
 $2.803 billion (2022 est.)<br>
-$2.764 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Namibian dollars (NAD) per US dollar -<br>
+18.329 (2024 est.)<br>
 18.446 (2023 est.)<br>
 16.356 (2022 est.)<br>
 14.779 (2021 est.)<br>
 16.463 (2020 est.)<br>
-14.449 (2019 est.)<br>
 
 ## Energy
 
@@ -625,7 +619,7 @@ _domestic_: fixed-line subscribership is 4 per 100 and mobile-cellular roughly 1
 _international_: country code - 264;&nbsp;landing points for the ACE and WACS&nbsp;fiber-optic submarine cable linking southern and western African countries to Europe; satellite earth stations - 4 Intelsat (2019)<br>
 
 **Broadcast media**<br>
-1 private and 1 state-run TV station; satellite and cable TV service available; state-run radio service broadcasts in multiple languages; about a dozen private radio stations; transmissions of multiple international broadcasters available<br>
+1 private and 1 state-run TV station; satellite and cable TV service available; state-run radio broadcasts in multiple languages; about a dozen private radio stations; transmissions of multiple international broadcasters available<br>
 
 **Internet country code**<br>
 .na<br>
@@ -639,12 +633,6 @@ _subscriptions per 100 inhabitants_: 4 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 21<br>
-_annual passenger traffic on registered air carriers_: 602,893 (2018)<br>
-_annual freight traffic on registered air carriers_: 26.29 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 V5<br>
 
@@ -657,11 +645,6 @@ V5<br>
 **Railways**<br>
 _total_: 2,628 km (2014)<br>
 _narrow gauge_: 2,628 km (2014) 1.067-m gauge<br>
-
-**Roadways**<br>
-_total_: 48,875 km<br>
-_paved_: 7,893 km<br>
-_unpaved_: 40,982 km (2018)<br>
 
 **Merchant marine**<br>
 _total_: 15 (2023)<br>
@@ -679,7 +662,7 @@ _key ports_: Luderitz Bay, Walvis Bay<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Namibian Defense Force (NDF): Army, Navy, Air Force (2024)<br>
+Namibian Defense Force (NDF): Namibian Army, Namibian Navy, Namibian Air Force (2025)<br>
 <strong>note:</strong> the Namibian Police Force is under the Ministry of Home Affairs, Immigration, Safety, and Security; it has a paramilitary Special Field Force responsible for protecting borders and government installations<br>
 
 **Military expenditures**<br>
@@ -690,7 +673,7 @@ Namibian Defense Force (NDF): Army, Navy, Air Force (2024)<br>
 3.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 12,000 personnel (10,000 Army; 1,000 Navy; 1,000 Air Force) (2024)<br>
+estimated 12,000 active NDF personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the NDF's inventory consists of a mix of Soviet-era and some more modern systems from a variety of countries, including Brazil, China, Germany, India, and South Africa; most of the Navy's vessels and the Air Force's fighter aircraft were acquired from China; Namibia has a small defense industry that produces items such as armored personnel carriers (2024)<br>
@@ -700,7 +683,7 @@ the NDF's inventory consists of a mix of Soviet-era and some more modern systems
 <strong>note:</strong> as of 2022, women comprised about 23% of the active-duty military<br>
 
 **Military - note**<br>
-the NDF’s primary responsibility is defending Namibia's territorial integrity and national interests; it has participated in UN and regional peacekeeping and security missions and provides assistance to civil authorities as needed; it also participates in multinational training exercises<br><br>the NDF was created in 1990, largely from demobilized former members of the People's Liberation Army of Namibia (PLAN) and the South West Africa Territorial Force (SWATF); the PLAN was the armed wing of the South West Africa People’s Organization (SWAPO), while SWATF was an auxiliary of the South African Defense Force and comprised the armed forces of the former South West Africa, 1977-1989; from 1990-1995, the British military assisted with the forming and training the NDF (2024)<br>
+the NDF’s primary responsibility is defending Namibia's territorial integrity and national interests; it has participated in UN and regional peacekeeping and security missions and provides assistance to civil authorities as needed; it also participates in multinational training exercises<br><br>the NDF was created in 1990, largely from demobilized former members of the People's Liberation Army of Namibia (PLAN) and the South West Africa Territorial Force (SWATF); the PLAN was the armed wing of the South West Africa People’s Organization (SWAPO), while SWATF was an auxiliary of the South African Defense Force and comprised the armed forces of the former South West Africa, 1977-1989; from 1990-1995, the British military assisted with the forming and training the NDF (2025)<br>
 
 ## Transnational Issues
 

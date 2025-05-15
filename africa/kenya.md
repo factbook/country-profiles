@@ -80,7 +80,7 @@ population heavily concentrated in the west along the shore of Lake Victoria; ot
 <p>recurring drought; flooding during rainy seasons</p><p><strong>volcanism:</strong> limited volcanic activity; the Barrier (1,032 m) last erupted in 1921; South Island is the only other historically active volcano</p><br>
 
 **Geography - note**<br>
-the Kenyan Highlands comprise one of the most successful agricultural production regions in Africa; glaciers are found on Mount Kenya, Africa's second highest peak; unique physiography supports abundant and varied wildlife of scientific and economic value; Lake Victoria, the world's largest tropical lake and the second largest fresh water lake, is shared among three countries: Kenya, Tanzania, and Uganda<br>
+the Kenyan Highlands comprise one of the most successful agricultural production regions in Africa; glaciers are found on Mount Kenya, Africa's second-highest peak; unique physiography supports abundant and varied wildlife of scientific and economic value; Lake Victoria, the world's largest tropical lake and the second-largest freshwater lake, is shared among three countries: Kenya, Tanzania, and Uganda<br>
 
 ## People and Society
 
@@ -109,10 +109,10 @@ _15-64 years_: 60.9% (male 17,731,068/female 17,723,012)<br>
 _65 years and over_: 3.4% (2024 est.) (male 896,348/female 1,064,569)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 70.2<br>
-_youth dependency ratio_: 65.3<br>
-_elderly dependency ratio_: 4.8<br>
-_potential support ratio_: 20.7 (2021 est.)<br>
+_total dependency ratio_: 65.3 (2024 est.)<br>
+_youth dependency ratio_: 59.8 (2024 est.)<br>
+_elderly dependency ratio_: 5.5 (2024 est.)<br>
+_potential support ratio_: 18.3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 21.2 years (2024 est.)<br>
@@ -229,7 +229,7 @@ _female_: 79.8% (2021)<br>
 ## Environment
 
 **Environment - current issues**<br>
-water pollution from urban and industrial wastes; water shortage and degraded water quality from increased use of pesticides and fertilizers; flooding; water hyacinth infestation in Lake Victoria; deforestation; soil erosion; desertification; poaching<br>
+water pollution from urban and industrial wastes and from use of pesticides and fertilizers; flooding; water-hyacinth infestation in Lake Victoria; deforestation; soil erosion; desertification; poaching<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
@@ -252,12 +252,6 @@ _rate of urbanization_: 4.09% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _exceptional shortfall in aggregate food production/supplies_: <em>due to weather extremes - </em>according to the latest estimates, about 5.4 million people were acutely food insecure between March and June 2023, reflecting the lingering impact of a prolonged and severe drought between late 2020 and early 2023 that affected crop and livestock production, mainly in northern and eastern pastoral and marginal agricultural areas (2023)<br>
-
-**Revenue from forest resources**<br>
-1.3% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 12.52 micrograms per cubic meter (2019 est.)<br>
@@ -304,7 +298,7 @@ presidential republic<br>
 _name_: Nairobi<br>
 _geographic coordinates_: 1 17 S, 36 49 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name derives from the Maasai expression meaning "cool waters" and refers to a cold water stream that flowed through the area in the late 19th century<br>
+_etymology_: the name derives from the Maasai expression meaning "cool waters," which was used to refer to a local water hole, Enkare Nairobi<br>
 
 **Administrative divisions**<br>
 47 counties; Baringo, Bomet, Bungoma, Busia, Elgeyo/Marakwet, Embu, Garissa, Homa Bay, Isiolo, Kajiado, Kakamega, Kericho, Kiambu, Kilifi, Kirinyaga, Kisii, Kisumu, Kitui, Kwale, Laikipia, Lamu, Machakos, Makueni, Mandera, Marsabit, Meru, Migori, Mombasa, Murang'a, Nairobi City, Nakuru, Nandi, Narok, Nyamira, Nyandarua, Nyeri, Samburu, Siaya, Taita/Taveta, Tana River, Tharaka-Nithi, Trans Nzoia, Turkana, Uasin Gishu, Vihiga, Wajir, West Pokot<br>
@@ -316,7 +310,7 @@ _etymology_: the name derives from the Maasai expression meaning "cool waters" a
 Jamhuri Day (Independence Day), 12 December (1963); note - Madaraka Day, 1 June (1963) marks the day Kenya attained internal self-rule<br>
 
 **Legal system**<br>
-mixed legal system of English common law, Islamic law, and customary law; judicial review in the new Supreme Court established by the new constitution<br>
+mixed system of English common law, Islamic law, and customary law; Supreme Court reviews laws<br>
 
 **Constitution**<br>
 _history_: current constitution passed by referendum on 4 August 2010<br>
@@ -438,9 +432,9 @@ $108.039 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-7.67% (2023 est.)<br>
-7.66% (2022 est.)<br>
-6.11% (2021 est.)<br>
+4.5% (2024 est.)<br>
+7.7% (2023 est.)<br>
+7.7% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -476,19 +470,19 @@ agriculture, transportation, services, manufacturing, construction, telecommunic
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-25.52 million (2023 est.)<br>
+23.781 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.68% (2023 est.)<br>
-5.81% (2022 est.)<br>
-5.69% (2021 est.)<br>
+5.4% (2024 est.)<br>
+5.6% (2023 est.)<br>
+5.7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.2% (2023 est.)<br>
-_male_: 8.1% (2023 est.)<br>
-_female_: 16.3% (2023 est.)<br>
+_total_: 11.9% (2024 est.)<br>
+_male_: 8.3% (2024 est.)<br>
+_female_: 16% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -523,7 +517,7 @@ _expenditures_: $29.933 billion (2023 est.)<br>
 54.2% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-13.99% (of GDP) (2023 est.)<br>
+14% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -561,22 +555,22 @@ refined petroleum, palm oil, wheat, plastics, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$10.065 billion (2024 est.)<br>
 $7.342 billion (2023 est.)<br>
 $7.969 billion (2022 est.)<br>
-$9.491 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$33.484 billion (2023 est.)<br>
+$31.451 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Kenyan shillings (KES) per US dollar -<br>
+134.822 (2024 est.)<br>
 139.846 (2023 est.)<br>
 117.866 (2022 est.)<br>
 109.638 (2021 est.)<br>
 106.451 (2020 est.)<br>
-101.991 (2019 est.)<br>
 
 ## Energy
 
@@ -632,7 +626,7 @@ _domestic_: fixed-line subscriptions stand at less than 1 per 100 persons; mobil
 _international_: country code - 254; landing point for the EASSy, TEAMS, LION2, DARE1, PEACE Cable, and SEACOM fiber-optic submarine cable systems covering East, North&nbsp;and South Africa, Europe, the Middle East, and Asia; satellite earth stations - 4 Intelsat; launched first micro satellites in 2018 (2019)<br>
 
 **Broadcast media**<br>
-about a half-dozen large-scale privately owned media companies with TV and radio stations, as well as a state-owned TV broadcaster, provide service nationwide; satellite and cable TV subscription services available; state-owned radio broadcaster operates 2 national radio channels and provides regional and local radio services in multiple languages; many private radio stations broadcast on a national level along with over 100 private and non-profit regional stations broadcasting in local languages; TV transmissions of all major international broadcasters available, mostly via paid subscriptions; direct radio frequency modulation transmissions available for several foreign government-owned broadcasters (2019)<br>
+about a half-dozen large, privately owned media companies with TV and radio stations, as well as a state-owned TV broadcaster, provide service nationwide; satellite and cable TV subscription services available; state-owned radio broadcaster operates 2 national radio channels and provides regional and local radio services in multiple languages; many private radio stations broadcast nationally, with over 100 private and non-profit regional stations broadcasting in local languages; TV transmissions of all major international broadcasters available, mostly via paid subscriptions (2019)<br>
 
 **Internet country code**<br>
 .ke<br>
@@ -646,33 +640,16 @@ _subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 25 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 188<br>
-_annual passenger traffic on registered air carriers_: 5,935,831 (2018)<br>
-_annual freight traffic on registered air carriers_: 294.97 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 5Y<br>
 
 **Airports**<br>
 368 (2025)<br>
 
-**Pipelines**<br>
-4 km oil, 1,432 km refined products (2018)<br>
-
 **Railways**<br>
 _total_: 3,819 km (2018)<br>
 _standard gauge_: 485 km (2018) 1.435-m gauge<br>
 _narrow gauge_: 3,334 km (2018) 1.000-m gauge<br>
-
-**Roadways**<br>
-_total_: 161,451 km<br>
-_paved_: 18,603 km<br>
-_unpaved_: 157,596 km (2023)<br>
-
-**Waterways**<br>
-(2011) none specifically; the only significant inland waterway is the part of Lake Victoria within the boundaries of Kenya; Kisumu is the main port and has ferry connections to Uganda and Tanzania<br>
 
 **Merchant marine**<br>
 _total_: 26 (2023)<br>
@@ -690,8 +667,8 @@ _key ports_: Kilifi, Lamu, Malindi, Mombasa<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Kenya Defense Forces (KDF): Kenya Army, Kenya Navy, Kenya Air Force (2024)<br>
-<strong>note 1:</strong> the National Police Service maintains internal security and reports to the Ministry of Interior and Coordination of National Government; it includes a paramilitary General Service Unit and Rapid Deployment Unit, as well as a Border Police Unit<br><br><strong>note 2:</strong> the Kenya Coast Guard Service (established 2018) is under the Ministry of Interior but led by a military officer and comprised of personnel from the military, as well as the National Police Service, intelligence services, and other government agencies<br>
+Kenya Defense Forces (KDF): Kenya Army, Kenya Navy, Kenya Air Force<br><br>Ministry of Interior: National Police Service, Kenya Coast Guard (2025)<br>
+<strong>note:</strong> the National Police Service maintains internal security and includes a paramilitary General Service Unit and Rapid Deployment Unit, as well as a Border Police Unit<br>
 
 **Military expenditures**<br>
 1% of GDP (2023 est.)<br>
@@ -701,7 +678,7 @@ Kenya Defense Forces (KDF): Kenya Army, Kenya Navy, Kenya Air Force (2024)<br>
 1.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 24,000 personnel (20,000 Army; 1,500 Navy; 2,500 Air Force) (2023)<br>
+approximately 25,000 active KDF personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the KDF's inventory is a mix of older, donated/secondhand, and some modern weapon systems from a variety of sources; major suppliers have included China, France, South Africa, Turkey, the UK, and the US; in late 2023, the Kenyan Government unveiled a five-year spending plan to procure upgraded military equipment, including aerial surveillance drones, tactical vehicles, and air defense systems (2024)<br>
@@ -713,7 +690,7 @@ no conscription; 18-26 years of age for voluntary service for men and women (und
 400 Democratic Republic of the Congo (MONUSCO); approximately 1,400 Somalia (African Union Support and Stabilization Mission in Somalia or AUSSOM) (2024)<br>
 
 **Military - note**<br>
-the KDF's chief security concerns and missions include protecting the country’s sovereignty and territory, regional disputes, the threat posed by the al-Shabaab terrorist group based in neighboring Somalia, maritime crime and piracy, and assisting civil authorities in responding to emergency, disaster, or political unrest as requested; it has conducted operations in neighboring Somalia since 2011 and taken part in numerous regional peacekeeping and security missions; the KDF is a leading member of the Africa Standby Force; it participates in multinational exercises, and has ties to a variety of foreign militaries, including those of France, the UK, and the US <br><br>Kenyan military forces intervened in Somalia in October 2011 to combat the al-Shabaab terrorist group, which had conducted numerous cross-border attacks into Kenya; in November 2011, the UN and the African Union invited Kenya to incorporate its forces into the African Union Mission in Somalia (AMISOM); Kenyan forces were formally integrated into AMISOM (now the AU Transition Mission in Somalia or ATMIS) in February 2012<br><br>the Kenya Military Forces were created following independence in 1963; the current KDF was established and its composition laid out in the 2010 constitution; it is governed by the Kenya Defense Forces Act of 2012; the Army traces its origins back to the Kings African Rifles (KAR), a British colonial regiment raised from Britain's East Africa possessions from 1902 until independence in the 1960s; the KAR conducted both military and internal security functions within the colonial territories, and served outside the territories during both World Wars (2024)<br>
+the KDF's chief security concerns and missions include protecting the country’s sovereignty and territory, regional disputes, the threat posed by the al-Shabaab terrorist group based in neighboring Somalia, maritime crime and piracy, and assisting civil authorities in responding to emergency, disaster, or political unrest as requested; it has conducted operations in neighboring Somalia since 2011 and taken part in numerous regional peacekeeping and security missions; the KDF is a leading member of the Africa Standby Force; it participates in multinational exercises, and has ties to a variety of foreign militaries, including those of France, the UK, and the US <br><br>the Kenya Military Forces were created following independence in 1963; the current KDF was established and its composition laid out in the 2010 constitution; it is governed by the Kenya Defense Forces Act of 2012; the Army traces its origins back to the Kings African Rifles (KAR), a British colonial regiment raised from Britain's East Africa possessions from 1902 until independence in the 1960s; the KAR conducted both military and internal security functions within the colonial territories, and served outside the territories during both World Wars (2025)<br>
 
 ## Space
 

@@ -82,7 +82,7 @@ approximately one-third of the population resides along the desert coastal belt 
 <p>earthquakes, tsunamis, flooding, landslides, mild volcanic activity</p><p><strong>volcanism:</strong> volcanic activity in the Andes Mountains; Ubinas (5,672 m), which last erupted in 2009, is the country's most active volcano; other historically active volcanoes include El Misti, Huaynaputina, Sabancaya, and Yucamane; see note 2 under "Geography - note"</p><br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> shares control of Lago Titicaca, world's highest navigable lake, with Bolivia; a remote slope of Nevado Mismi, a 5,316 m peak, is the ultimate source of the Amazon River</p> <p><strong>note 2:</strong> Peru is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire<br><br><strong>note 3:</strong> on 19 February 1600, Mount Huaynaputina in the southern Peruvian Andes erupted in the largest volcanic explosion in South America in historical times; intermittent eruptions lasted until 5 March 1600 and pumped an estimated 16 to 32 million metric tons of particulates into the atmosphere, reducing the amount of sunlight reaching the earth's surface and affecting weather worldwide; over the next two and a half years, millions died around the globe in famines from bitterly cold winters, cool summers, and the loss of crops and animals<br><br><strong>note 4:</strong> the southern regions of Peru and the extreme northwestern part of Bolivia are considered to be the place of origin for the common potato</p><br>
+<p><strong>note 1:</strong> shares control of Lago Titicaca, world's highest navigable lake, with Bolivia; a remote slope of Nevado Mismi, a 5,316-m (17,441-ft) peak, is the ultimate source of the Amazon River</p> <p><strong>note 2:</strong> Peru is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire<br><br><strong>note 3:</strong> on 19 February 1600, Mount Huaynaputina in the southern Peruvian Andes erupted in the largest volcanic explosion in South America in historical times; intermittent eruptions lasted until 5 March 1600 and pumped an estimated 16 to 32 million metric tons of particulates into the atmosphere, reducing the amount of sunlight reaching the earth's surface and affecting weather worldwide; over the next two-and-a-half years, millions died around the globe in famines from bitterly cold winters, cool summers, and the loss of crops and animals</p><br>
 
 ## People and Society
 
@@ -111,10 +111,10 @@ _15-64 years_: 66.2% (male 10,546,502/female 11,041,106)<br>
 _65 years and over_: 8% (2024 est.) (male 1,112,825/female 1,487,318)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53<br>
-_youth dependency ratio_: 37.1<br>
-_elderly dependency ratio_: 13.1<br>
-_potential support ratio_: 7.9 (2021 est.)<br>
+_total dependency ratio_: 51 (2024 est.)<br>
+_youth dependency ratio_: 39 (2024 est.)<br>
+_elderly dependency ratio_: 12 (2024 est.)<br>
+_potential support ratio_: 8.3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 30.2 years (2024 est.)<br>
@@ -264,12 +264,6 @@ _other_: 24.7% (2022 est.)<br>
 _urban population_: 78.9% of total population (2023)<br>
 _rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-0.12% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 29.07 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 57.41 megatons (2016 est.)<br>
@@ -320,7 +314,7 @@ presidential republic<br>
 _name_: Lima<br>
 _geographic coordinates_: 12 03 S, 77 03 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
-_etymology_: the word "Lima" derives from the Spanish pronunciation of "Limaq," the native name for the valley in which the city was founded in 1535; "limaq" means "talker" in coastal Quechua and referred to an oracle that was situated in the valley but which was eventually destroyed by the Spanish and replaced with a church<br>
+_etymology_: the name is an early Spanish mispronunciation of the Quechua name <em>Rimak</em>, referring to a god and deriving from the word <em>rima </em>(to speak); Quechua priests used to speak to worshippers from inside statues of their gods<br>
 
 **Administrative divisions**<br>
 24 departments (departamentos, singular - departamento), 1 province* (provincia), and 1 constitutional province** (provincia constitucional); Amazonas, Ancash, Apurimac, Arequipa, Ayacucho, Cajamarca, Callao**, Cusco, Huancavelica, Huánuco, Ica, Junín, La Libertad, Lambayeque, Lima, Lima*, Loreto, Madre de Dios, Moquegua, Pasco, Piura, Puno, San Martin, Tacna, Tumbes, Ucayali<br>
@@ -440,9 +434,9 @@ $267.603 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-6.46% (2023 est.)<br>
-8.33% (2022 est.)<br>
-4.27% (2021 est.)<br>
+2% (2024 est.)<br>
+6.5% (2023 est.)<br>
+8.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -478,19 +472,19 @@ mining and refining of minerals; steel, metal fabrication; petroleum extraction 
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-18.581 million (2023 est.)<br>
+18.918 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.82% (2023 est.)<br>
-3.85% (2022 est.)<br>
-5.1% (2021 est.)<br>
+4.8% (2024 est.)<br>
+4.9% (2023 est.)<br>
+3.8% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.8% (2023 est.)<br>
-_male_: 7.8% (2023 est.)<br>
-_female_: 10% (2023 est.)<br>
+_total_: 8.8% (2024 est.)<br>
+_male_: 7.9% (2024 est.)<br>
+_female_: 9.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -522,11 +516,11 @@ _expenditures_: $51.709 billion (2021 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-35.25% of GDP (2021 est.)<br>
+35.2% of GDP (2021 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-15.92% (of GDP) (2021 est.)<br>
+15.9% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -564,13 +558,13 @@ refined petroleum, crude petroleum, cars, trucks, broadcasting equipment (2023)<
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$76.338 billion (2024 est.)<br>
 $71.394 billion (2023 est.)<br>
 $72.328 billion (2022 est.)<br>
-$78.59 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$40.901 billion (2023 est.)<br>
+$38.102 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -644,7 +638,7 @@ _domestic_: fixed-line teledensity is 7 per 100 persons; mobile-cellular teleden
 _international_: country code - 51; landing points for the SAM-1, IGW, American Movil-Telxius, SAC&nbsp;and PAN-AM submarine cable systems that provide links to parts of Central and South America, the Caribbean, and US; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-10 major TV networks of which only one, Television Nacional de Peru, is state owned; multi-channel cable TV services are available; in excess of 5,000 radio stations including a substantial number of indigenous language stations (2021)<br>
+10 major TV networks of which only one, Television Nacional de Peru, is state owned; multi-channel cable TV services are available; in excess of 5,000 radio stations including a substantial number of local-language stations (2021)<br>
 
 **Internet country code**<br>
 .pe<br>
@@ -658,12 +652,6 @@ _subscriptions per 100 inhabitants_: 10 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 6 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 62<br>
-_annual passenger traffic on registered air carriers_: 17,758,527 (2018)<br>
-_annual freight traffic on registered air carriers_: 313.26 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 OB<br>
 
@@ -673,21 +661,10 @@ OB<br>
 **Heliports**<br>
 7 (2025)<br>
 
-**Pipelines**<br>
-786 km extra heavy crude, 1,526 km gas, 679 km liquid petroleum gas, 1,106 km oil, 15 km refined products (2022)<br>
-
 **Railways**<br>
 _total_: 1,854.4 km (2017)<br>
 _standard gauge_: 1,730.4 km (2014) 1.435-m gauge (34 km electrified)<br>
 _narrow gauge_: 124 km (2014) 0.914-m gauge<br>
-
-**Roadways**<br>
-_total_: 70,000 km (2021)<br>
-_paved_: 18,699 km (2022)<br>
-<strong>note:</strong> includes 27,109 km of national roads (21,434 km paved), 247,505 km of departmental roads (3,623 km paved), and 113,857 km of local roads (1,858 km paved)<br>
-
-**Waterways**<br>
-8,808 km (2011) (8,600 km of navigable tributaries on the Amazon River system and 208 km on Lago Titicaca)<br>
 
 **Merchant marine**<br>
 _total_: 111 (2023)<br>
@@ -705,7 +682,7 @@ _key ports_: Bahia de Matarani, Iquitos, Puerto del Callao, Talara<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Peru (Fuerzas Armadas del Perú or FAP): Peruvian Army (Ejercito del Peru), Peruvian Navy (Marina de Guerra del Peru, MGP, includes naval infantry and Coast Guard), Air Force of Peru (Fuerza Aerea del Peru, FAP)<br><br>Ministry of the Interior (Ministerio del Interior): Peruvian National Police (Policía Nacional del Perú, PNP) (2024)<br>
+Armed Forces of Peru (Fuerzas Armadas del Perú or FAP): Peruvian Army (Ejercito del Peru), Peruvian Navy (Marina de Guerra del Peru, MGP, includes naval infantry and General Directorate of Captaincies and Coast Guards, DICAPI), Air Force of Peru (Fuerza Aerea del Peru, FAP)<br><br>Ministry of the Interior: Peruvian National Police (Policía Nacional del Perú, PNP) (2025)<br>
 
 **Military expenditures**<br>
 1% of GDP (2023 est.)<br>
@@ -715,14 +692,14 @@ Armed Forces of Peru (Fuerzas Armadas del Perú or FAP): Peruvian Army (Ejercito
 1.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 95,000 active-duty personnel (60,000 Army; 25,000 Navy, including about 4,000 naval infantry and 1,000 Coast Guard; 10,000 Air Force) (2023)<br>
+information varies; approximately 85,000 active-duty personnel (50,000 Army; 25,000 Navy; 10,000 Air Force) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military has a broad mix of mostly older but some more modern equipment from a range of suppliers, including Brazil, China, France, Germany, Italy, Russia and the former Soviet Union, South Korea, and the US; some deliveries have been secondhand weapons systems; Peru has a small defense industry, including a shipyard that builds and upgrades naval vessels; it also has defense industrial cooperation agreements with several countries, including Russia, South Korea, Spain, and the US (2024)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary military service (12 months); no conscription (abolished in 1999) (2023)<br>
-<strong>note: </strong>as of 2019, women made up about 10% of the active duty military<br>
+18-30 years of age for voluntary military service (12 months) (2024)<br>
+<strong>note: </strong>as of 2024, women made up about 11% of the active-duty military<br>
 
 **Military deployments**<br>
 225 Central African Republic (MINUSCA) (2024)<br>

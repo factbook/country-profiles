@@ -73,7 +73,7 @@ despite a distinctive pattern with an industrial north and an agrarian south, a 
 <p>regional risks include landslides, mudflows, avalanches, earthquakes, volcanic eruptions, flooding; land subsidence in Venice</p> <p><strong>volcanism:</strong> significant volcanic activity; Etna (3,330 m), which is in eruption as of 2013, is Europe's most active volcano; flank eruptions pose a threat to nearby Sicilian villages; Etna, along with the famous Vesuvius, which remains a threat to the millions of nearby residents in the Bay of Naples area, have both been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; Stromboli, on its namesake island, has also been continuously active with moderate volcanic activity; other historically active volcanoes include Campi Flegrei, Ischia, Larderello, Pantelleria, Vulcano, and Vulsini</p><br>
 
 **Geography - note**<br>
-strategic location dominating central Mediterranean as well as southern sea and air approaches to Western Europe<br>
+strategic location dominating central Mediterranean, as well as southern sea and air approaches to Western Europe<br>
 
 ## People and Society
 
@@ -102,10 +102,10 @@ _15-64 years_: 64.5% (male 19,378,160/female 19,958,137)<br>
 _65 years and over_: 23.6% (2024 est.) (male 6,336,738/female 8,060,995)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 57.1<br>
-_youth dependency ratio_: 19.9<br>
-_elderly dependency ratio_: 37.2<br>
-_potential support ratio_: 2.7 (2021 est.)<br>
+_total dependency ratio_: 55 (2024 est.)<br>
+_youth dependency ratio_: 18.4 (2024 est.)<br>
+_elderly dependency ratio_: 36.6 (2024 est.)<br>
+_potential support ratio_: 2.7 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 48.4 years (2024 est.)<br>
@@ -230,7 +230,7 @@ _female_: 17 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution from industrial emissions such as sulfur dioxide; coastal and inland rivers polluted from industrial and agricultural effluents; acid rain damaging lakes; inadequate industrial waste treatment and disposal facilities<br>
+air pollution from industrial emissions; water pollution from industrial and agricultural effluents, as well as acid rain; inadequate industrial waste treatment and disposal facilities<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -250,12 +250,6 @@ _other_: 23.3% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 72% of total population (2023)<br>
 _rate of urbanization_: 0.27% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.01% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 14.22 micrograms per cubic meter (2019 est.)<br>
@@ -299,7 +293,7 @@ _name_: Rome<br>
 _geographic coordinates_: 41 54 N, 12 29 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: by tradition, named after Romulus, one of the legendary founders of the city and its first king<br>
+_etymology_: by tradition, named after Romulus, one of the legendary founders of the city, but the name Romulus may instead derive from the city's name; the name Rome may come from an Etruscan name for the Tiber River, which was Roma or Ruma<br>
 
 **Administrative divisions**<br>
 <p>15 regions (regioni, singular - regione) and 5 autonomous regions (regioni autonome, singular - regione autonoma)</p> <p><strong>regions:</strong> Abruzzo, Basilicata, Calabria, Campania, Emilia-Romagna, Lazio (Latium), Liguria, Lombardia, Marche, Molise, Piemonte (Piedmont), Puglia (Apulia), Toscana (Tuscany), Umbria, Veneto</p> <p><strong>autonomous regions:</strong> Friuli Venezia Giulia, Sardegna (Sardinia), Sicilia (Sicily), Trentino-Alto Adige (Trentino-South Tyrol) or Trentino-Suedtirol (German), Valle d'Aosta (Aosta Valley) or Vallee d'Aoste (French)</p><br>
@@ -311,7 +305,7 @@ _etymology_: by tradition, named after Romulus, one of the legendary founders of
 Republic Day, 2 June (1946)<br>
 
 **Legal system**<br>
-civil law system; judicial review of legislation under certain conditions in Constitutional Court<br>
+civil law system; Constitutional Court reviews legislation under certain conditions<br>
 
 **Constitution**<br>
 _history_: previous 1848 (originally for the Kingdom of Sardinia and adopted by the Kingdom of Italy in 1861); latest enacted 22 December 1947, adopted 27 December 1947, entered into force 1 January 1948<br>
@@ -435,9 +429,9 @@ $2.301 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-5.62% (2023 est.)<br>
+1% (2024 est.)<br>
+5.6% (2023 est.)<br>
 8.2% (2022 est.)<br>
-1.87% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -473,19 +467,19 @@ tourism, machinery, iron and steel, chemicals, food processing, textiles, motor 
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-25.786 million (2023 est.)<br>
+25.743 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7.62% (2023 est.)<br>
-8.07% (2022 est.)<br>
-9.5% (2021 est.)<br>
+6.8% (2024 est.)<br>
+7.6% (2023 est.)<br>
+8.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 22.7% (2023 est.)<br>
-_male_: 21.2% (2023 est.)<br>
-_female_: 25.2% (2023 est.)<br>
+_total_: 21.8% (2024 est.)<br>
+_male_: 19.9% (2024 est.)<br>
+_female_: 24.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -521,7 +515,7 @@ _expenditures_: $1.015 trillion (2022 est.)<br>
 <strong>note:</strong> Italy reports its data on public debt according to guidelines set out in the Maastricht Treaty; general government gross debt is defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year, in the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); the general government sector comprises central, state, and local government and social security funds<br>
 
 **Taxes and other revenues**<br>
-24.5% (of GDP) (2022 est.)<br>
+24.9% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -559,18 +553,18 @@ natural gas, crude petroleum, cars, packaged medicine, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$84.875 billion (2024 est.)<br>
 $247.396 billion (2023 est.)<br>
 $224.581 billion (2022 est.)<br>
-$227.478 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 
 ## Energy
 
@@ -639,7 +633,7 @@ _domestic_: 34 per 100 for fixed-line and nearly 132 per 100 for mobile-cellular
 _international_: country code - 39; landing points for&nbsp;Italy-Monaco, Italy-Libya, Italy-Malta, Italy-Greece-1, Italy-Croatia, BlueMed, Janna, FEA, SeaMeWe-3 &amp; 4 &amp; 5, Trapani-Kelibia, Columbus-III, Didon, GO-1, HANNIBAL System, MENA, Bridge International, Malta-Italy Interconnector, Melita1, IMEWE, VMSCS, AAE-1, and OTEGLOBE, submarine cables that provide links to Asia, the&nbsp;Middle East, Europe, North Africa, Southeast Asia, Australia and US; satellite earth stations - 3 Intelsat (with a total of 5 antennas - 3 for Atlantic Ocean and 2 for Indian Ocean) (2019)<br>
 
 **Broadcast media**<br>
-two Italian media giants dominate with 3 national terrestrial stations and privately owned companies with 3 national terrestrial stations; a large number of private stations, a satellite TV network; 3 AM/FM nationwide radio stations; about 1,300 commercial radio stations<br>
+two Italian media giants dominate, with 3 national terrestrial stations;&nbsp; privately owned companies have 3 national terrestrial stations; a large number of private stations, a satellite TV network; 3 AM/FM nationwide radio stations; about 1,300 commercial radio stations<br>
 
 **Internet country code**<br>
 .it<br>
@@ -653,12 +647,6 @@ _subscriptions per 100 inhabitants_: 34 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 9 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 180<br>
-_annual passenger traffic on registered air carriers_: 27,630,435 (2018)<br>
-_annual freight traffic on registered air carriers_: 1.418 billion (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 I<br>
 
@@ -668,18 +656,9 @@ I<br>
 **Heliports**<br>
 163 (2025)<br>
 
-**Pipelines**<br>
-20,223 km gas, 1,393 km oil, 1,574 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 18,475 km (2020) 12,936 km electrified<br>
 1289.3 0.950-mm gauge (151.3 km electrified)<br>
-
-**Roadways**<br>
-_total_: 228,863 km (2021)<br>
-
-**Waterways**<br>
-2,400 km (2012) (used for commercial traffic; of limited overall value compared to road and rail)<br>
 
 **Merchant marine**<br>
 _total_: 1,276 (2023)<br>
@@ -698,8 +677,8 @@ _key ports_: Brindisi, Civitavecchia, Genova, Gioia Tauro, La Spezia, Livorno, M
 ## Military and Security
 
 **Military and security forces**<br>
-Italian Armed Forces (Forze Armate Italiane): Army (Esercito Italiano, EI), Navy (Marina Militare Italiana, MMI; includes aviation, marines), Italian Air Force (Aeronautica Militare Italiana, AMI); Carabinieri Corps (Arma dei Carabinieri, CC) (2024)<br>
-<strong>note 1:</strong> the National Police and Carabinieri (gendarmerie or military police) maintain internal security; the National Police reports to the Ministry of Interior while the Carabinieri reports to the Ministry of Defense but is also under the coordination of the Ministry of Interior; the Carabinieri is primarily a domestic police force organized along military lines, with some overseas responsibilities<br><br><strong>note 2:</strong> the Financial Guard (Guardia di Finanza) under the Ministry of Economy and Finance is a force with military status and nationwide remit for financial crime investigations, including narcotics trafficking, smuggling, and illegal immigration<br>
+Italian Armed Forces (Forze Armate Italiane): Army (Esercito Italiano, EI), Navy (Marina Militare Italiana, MMI; includes aviation, marines), Italian Air Force (Aeronautica Militare Italiana, AMI); Carabinieri Corps (Arma dei Carabinieri, CC) (2025)<br>
+<strong>note 1:</strong> the National (or State) Police and Carabinieri (gendarmerie or military police) maintain internal security; the National Police reports to the Ministry of Interior while the Carabinieri reports to the Ministry of Defense but is also under the coordination of the Ministry of Interior; the Carabinieri is primarily a domestic police force organized along military lines, with some overseas responsibilities<br><br><strong>note 2:</strong> the Financial Guard (Guardia di Finanza) under the Ministry of Economy and Finance is a force with military status and nationwide remit for financial crime investigations, including narcotics trafficking, smuggling, and illegal immigration<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2024 est.)<br>

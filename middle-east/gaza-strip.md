@@ -67,7 +67,7 @@ population concentrated in major cities, particularly Gaza City in the north<br>
 droughts<br>
 
 **Geography - note**<br>
-once a strategic strip of land along Mideast-North African trade routes that has experienced an incredibly turbulent history<br>
+once a strategic strip of land along Mideast-North African trade routes<br>
 
 ## People and Society
 
@@ -93,11 +93,10 @@ _15-64 years_: 58.3% (male 627,235/female 620,903)<br>
 _65 years and over_: 2.9% (2024 est.) (male 31,655/female 30,112)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 74.3<br>
-_youth dependency ratio_: 68.2<br>
-_elderly dependency ratio_: 6.1<br>
-_potential support ratio_: 16.5 (2021 est.)<br>
-<strong>note:</strong> data represent Gaza Strip and the West Bank<br>
+_total dependency ratio_: 71.6 (2024 est.)<br>
+_youth dependency ratio_: 66.6 (2024 est.)<br>
+_elderly dependency ratio_: 4.9 (2024 est.)<br>
+_potential support ratio_: 20.2 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 19.5 years (2024 est.)<br>
@@ -215,7 +214,7 @@ _female_: 14 years (2021)<br>
 ## Environment
 
 **Environment - current issues**<br>
-soil degradation; desertification; water pollution from chemicals and pesticides; salination of fresh water; improper sewage treatment; water-borne disease; depletion and contamination of underground water resources<br>
+soil degradation; desertification; water pollution from chemicals and pesticides; salination of fresh water; improper sewage treatment; depletion and contamination of underground water resources<br>
 
 **Climate**<br>
 temperate, mild winters, dry and warm to hot summers<br>
@@ -232,9 +231,6 @@ _other_: 33.4% (2022 est.)<br>
 _urban population_: 77.6% of total population (2023)<br>
 _rate of urbanization_: 2.85% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 30.82 micrograms per cubic meter (2019 est.)<br>
@@ -291,9 +287,9 @@ $17.421 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate; entry includes West Bank and Gaza Strip<br>
 
 **Inflation rate (consumer prices)**<br>
-5.87% (2023 est.)<br>
-3.74% (2022 est.)<br>
-1.24% (2021 est.)<br>
+5.9% (2023 est.)<br>
+3.7% (2022 est.)<br>
+1.2% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices; entry includes West Bank and Gaza Strip<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -327,15 +323,15 @@ textiles, food processing, furniture<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work; entry includes West Bank and Gaza Strip<br>
 
 **Unemployment rate**<br>
-24.42% (2022 est.)<br>
-26.39% (2021 est.)<br>
+24.4% (2022 est.)<br>
+26.4% (2021 est.)<br>
 25.9% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment; entry includes West Bank and Gaza Strip<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 36% (2022 est.)<br>
+_total_: 36.1% (2022 est.)<br>
 _male_: 31.6% (2022 est.)<br>
-_female_: 56.7% (2022 est.)<br>
+_female_: 56.6% (2022 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -363,7 +359,7 @@ _expenditures_: $5.002 billion (2020 est.)<br>
 see entry for the West Bank<br>
 
 **Taxes and other revenues**<br>
-21.47% (of GDP) (2021 est.)<br>
+21.5% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP; entry includes West Bank and Gaza Strip<br>
 
 **Current account balance**<br>
@@ -401,9 +397,9 @@ cement, raw sugar, cars, baked goods, perfumes (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars; entry includes the West Bank and the Gaza Strip<br>
 
 **Reserves of foreign exchange and gold**<br>
+$1.328 billion (2024 est.)<br>
 $1.323 billion (2023 est.)<br>
 $896.9 million (2022 est.)<br>
-$872.541 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars; entry includes West Bank and Gaza Strip<br>
 
 **Exchange rates**<br>
@@ -477,9 +473,6 @@ _subscriptions per 100 inhabitants_: 8 (2023 est.)<br>
 <strong>note:</strong> includes the West Bank<br>
 
 ## Transportation
-
-**Roadways**<br>
-<p><strong>note:</strong> see entry for the West Bank</p><br>
 
 ## Military and Security
 

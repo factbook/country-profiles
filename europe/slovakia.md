@@ -104,10 +104,10 @@ _15-64 years_: 66.5% (male 1,834,359/female 1,867,158)<br>
 _65 years and over_: 18.1% (2024 est.) (male 406,355/female 602,842)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 49.5<br>
-_youth dependency ratio_: 23.7<br>
-_elderly dependency ratio_: 25.8<br>
-_potential support ratio_: 3.9 (2021 est.)<br>
+_total dependency ratio_: 50.3 (2024 est.)<br>
+_youth dependency ratio_: 23 (2024 est.)<br>
+_elderly dependency ratio_: 27.3 (2024 est.)<br>
+_potential support ratio_: 3.7 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 42.8 years (2024 est.)<br>
@@ -230,7 +230,7 @@ _female_: 15 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution and acid rain present human health risks and damage forests; land erosion caused by agricultural and mining practices; water pollution<br>
+air pollution and acid rain; land erosion from agricultural and mining practices; water pollution<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -250,12 +250,6 @@ _other_: 21.1% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 54% of total population (2023)<br>
 _rate of urbanization_: 0.17% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.22% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.01% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 15.89 micrograms per cubic meter (2019 est.)<br>
@@ -292,7 +286,7 @@ _conventional long form_: Slovak Republic<br>
 _conventional short form_: Slovakia<br>
 _local long form_: Slovenska republika<br>
 _local short form_: Slovensko<br>
-_etymology_: may derive from the medieval Latin word "Slavus" (Slav), which had the local form "Sloven", used since the 13th century to refer to the territory of Slovakia and its inhabitants<br>
+_etymology_: the country takes its name from the local Slav ethnic group; the origin of the group's name is unclear, although early forms were used in Medieval Latin (Sclavus) and Byzantine Greek (Sklabos)<br>
 
 **Government type**<br>
 parliamentary republic<br>
@@ -302,7 +296,7 @@ _name_: Bratislava<br>
 _geographic coordinates_: 48 09 N, 17 07 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the name was adopted in 1919 after Czechoslovakia gained its independence and may derive from later transliterations of the 9th century military commander, Braslav, or the 11th century Bohemian Duke BRETISLAV I; alternatively, the name may derive from the Slovak words <em>brat</em> (brother) and <em>slava</em> (glory)<br>
+_etymology_: the meaning is unclear but has medieval Slavic origins; the name was adopted in 1919 after Czechoslovakia gained its independence, replacing the name Pre&scaron;porok<br>
 
 **Administrative divisions**<br>
 8 regions (kraje, singular - kraj); Banska Bystrica, Bratislava, Kosice, Nitra, Presov, Trencin, Trnava, Zilina<br>
@@ -314,7 +308,7 @@ _etymology_: the name was adopted in 1919 after Czechoslovakia gained its indepe
 Constitution Day, 1 September (1992)<br>
 
 **Legal system**<br>
-civil law system based on Austro-Hungarian codes; note - legal code modified to comply with the obligations of Organization on Security and Cooperation in Europe<br>
+civil law system based on Austro-Hungarian codes<br>
 
 **Constitution**<br>
 _history_: several previous (pre-independence); latest passed by the National Council 1 September 1992, signed 3 September 1992, effective 1 October 1992<br>
@@ -423,9 +417,9 @@ $132.908 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-10.53% (2023 est.)<br>
-12.77% (2022 est.)<br>
-3.15% (2021 est.)<br>
+2.8% (2024 est.)<br>
+10.5% (2023 est.)<br>
+12.8% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -461,19 +455,19 @@ automobiles; metal and metal products; electricity, gas, coke, oil, nuclear fuel
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.814 million (2023 est.)<br>
+2.769 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.84% (2023 est.)<br>
-6.14% (2022 est.)<br>
-6.89% (2021 est.)<br>
+5.2% (2024 est.)<br>
+5.8% (2023 est.)<br>
+6.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.4% (2023 est.)<br>
-_male_: 21.6% (2023 est.)<br>
-_female_: 15.8% (2023 est.)<br>
+_total_: 18.2% (2024 est.)<br>
+_male_: 20.1% (2024 est.)<br>
+_female_: 15% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -505,11 +499,11 @@ _expenditures_: $46.056 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-64.32% of GDP (2022 est.)<br>
+64.3% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-19.44% (of GDP) (2022 est.)<br>
+19.4% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -547,18 +541,18 @@ vehicle parts/accessories, broadcasting equipment, cars, plastic products, insul
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$11.793 billion (2024 est.)<br>
 $11.288 billion (2023 est.)<br>
 $10.28 billion (2022 est.)<br>
-$9.61 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 
 ## Energy
 
@@ -629,7 +623,7 @@ _domestic_: fixed-line is 10 per 100 and mobile-cellular is 132 per 100 tele den
 _international_: country code - 421; 3 international exchanges (1 in Bratislava and 2 in Banska Bystrica) are available; Slovakia is participating in several international telecommunications projects that will increase the availability of external services; connects to DREAM cable (2017)<br>
 
 **Broadcast media**<br>
-state-owned public broadcaster, Radio and Television of Slovakia (RTVS), operates 2 national TV stations and multiple national and regional radio networks; roughly 50 privately owned TV stations operating nationally, regionally, and locally; about 40% of households are connected to multi-channel cable or satellite TV; 32 privately owned radio stations<br>
+state-owned public broadcaster, Radio and Television of Slovakia (RTVS), has 2 national TV stations; roughly 50 privately owned national, regional, and local TV stations; about 40% of households connected to multi-channel cable or satellite TV; multiple RTVS national and regional radio networks; 32 privately owned radio stations<br>
 
 **Internet country code**<br>
 .sk<br>
@@ -643,10 +637,6 @@ _subscriptions per 100 inhabitants_: 33 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 4 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 45<br>
-
 **Civil aircraft registration country code prefix**<br>
 OM<br>
 
@@ -656,22 +646,13 @@ OM<br>
 **Heliports**<br>
 2 (2025)<br>
 
-**Pipelines**<br>
-2,270 km gas transmission pipelines, 6,278 km high-pressure gas distribution pipelines, 27,023 km mid- and low-pressure gas distribution pipelines (2016), 510 km oil (2015) (2016)<br>
-
 **Railways**<br>
 _total_: 3,627 km (2020) 1,585 km electrified<br>
-
-**Roadways**<br>
-_total_: 45,106 km (2022)<br>
-
-**Waterways**<br>
-172 km (2012) (on Danube River)<br>
 
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Slovak Republic (Ozbrojene Sily Slovenskej Republiky): Land Forces (Slovenské Pozemné Sily), Air Forces (Slovenské Vzdušné Sily), Special Operations Forces (Sily Pre Speciálne Operácie)<br><br>Ministry of Interior: Slovak Police Force (SPF or Policajný Zbor) (2024)<br>
+Armed Forces of the Slovak Republic (Ozbrojene Sily Slovenskej Republiky): Ground Forces (Slovenské Pozemné Sily), Air Forces (Slovenské Vzdušné Sily), Special Operations Forces (Sily Pre Speciálne Operácie)<br><br>Ministry of Interior: Slovak Police Force (SPF or Policajný Zbor) (2025)<br>
 <strong>note:</strong> the SPF has sole responsibility for internal and border security<br>
 
 **Military expenditures**<br>
@@ -682,7 +663,7 @@ Armed Forces of the Slovak Republic (Ozbrojene Sily Slovenskej Republiky): Land 
 1.9% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 15,000 active-duty personnel (8,000 Land Forces; 4,000 Air Forces; 3,000 other, including staff, special operations, and support forces) (2024)<br>
+approximately 15,000 active-duty personnel (8,000 Ground Forces; 4,000 Air Force; 3,000 other, including staff, special operations, and support forces) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists mostly of Soviet-era platforms; in recent years it has imported limited quantities of more modern, NATO-compatible equipment, particularly from Italy and the US (2024)<br>

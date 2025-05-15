@@ -71,7 +71,7 @@ most people live in the south, on or near the border with France<br>
 occasional flooding<br>
 
 **Geography - note**<br>
-landlocked; the only grand duchy in the world<br>
+landlocked<br>
 
 ## People and Society
 
@@ -100,10 +100,10 @@ _15-64 years_: 67.1% (male 231,214/female 219,497)<br>
 _65 years and over_: 16.1% (2024 est.) (male 49,567/female 58,571)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 44.2<br>
-_youth dependency ratio_: 23<br>
-_elderly dependency ratio_: 21.3<br>
-_potential support ratio_: 4.7 (2021 est.)<br>
+_total dependency ratio_: 46.6 (2024 est.)<br>
+_youth dependency ratio_: 23.2 (2024 est.)<br>
+_elderly dependency ratio_: 23.4 (2024 est.)<br>
+_potential support ratio_: 4.3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 39.9 years (2024 est.)<br>
@@ -226,7 +226,7 @@ _female_: 15 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air and water pollution in urban areas, soil pollution of farmland; unsustainable patterns of consumption (transport, energy, recreation, space) threaten biodiversity and landscapes<br>
+air and water pollution in urban areas; soil pollution of farmland<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -246,12 +246,6 @@ _other_: 14.2% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 92.1% of total population (2023)<br>
 _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.01% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 8.89 micrograms per cubic meter (2019 est.)<br>
@@ -295,7 +289,7 @@ _name_: Luxembourg<br>
 _geographic coordinates_: 49 36 N, 6 07 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the name derives from the Celtic <em>lucilem</em> (little) and the German <em>burg</em> (castle or fortress) to produce the meaning of the "little castle"; the name is actually ironic, since for centuries the Fortress of Luxembourg was one of Europe's most formidable fortifications; the name passed to the city that grew around the fortress<br>
+_etymology_: probably derived from an early Celtic or Germanic form of the name, Lucilinburhuc, that was thought to mean "little fortress;" the name first referred to the city and was later used for the country<br>
 
 **Administrative divisions**<br>
 12 cantons (cantons, singular - canton); Capellen, Clervaux, Diekirch, Echternach, Esch-sur-Alzette, Grevenmacher, Luxembourg, Mersch, Redange, Remich, Vianden, Wiltz<br>
@@ -414,9 +408,9 @@ $85.755 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-3.74% (2023 est.)<br>
-6.34% (2022 est.)<br>
-2.53% (2021 est.)<br>
+2.1% (2024 est.)<br>
+3.7% (2023 est.)<br>
+6.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -452,19 +446,19 @@ banking and financial services, construction, real estate services, iron, metals
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-350,000 (2023 est.)<br>
+348,100 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.19% (2023 est.)<br>
-4.59% (2022 est.)<br>
-5.25% (2021 est.)<br>
+5.9% (2024 est.)<br>
+5.2% (2023 est.)<br>
+4.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19% (2023 est.)<br>
-_male_: 15.7% (2023 est.)<br>
-_female_: 22.9% (2023 est.)<br>
+_total_: 20.2% (2024 est.)<br>
+_male_: 16.9% (2024 est.)<br>
+_female_: 24.2% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -496,19 +490,19 @@ _expenditures_: $33.054 billion (2022 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-25.97% (of GDP) (2022 est.)<br>
+27.8% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$5.132 billion (2023 est.)<br>
-$5.431 billion (2022 est.)<br>
-$9.558 billion (2021 est.)<br>
+$12.877 billion (2024 est.)<br>
+$9.861 billion (2023 est.)<br>
+$7.509 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$176.717 billion (2023 est.)<br>
-$172.318 billion (2022 est.)<br>
-$187.022 billion (2021 est.)<br>
+$202.203 billion (2024 est.)<br>
+$195.294 billion (2023 est.)<br>
+$184.53 billion (2022 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -520,9 +514,9 @@ iron blocks, gas turbines, plastic products, rubber tires, plastics (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$148.717 billion (2023 est.)<br>
-$143.55 billion (2022 est.)<br>
-$151.729 billion (2021 est.)<br>
+$160.032 billion (2024 est.)<br>
+$156.818 billion (2023 est.)<br>
+$149.751 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -534,18 +528,18 @@ cars, refined petroleum, electricity, plastic products, gas turbines (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$2.602 billion (2024 est.)<br>
 $2.977 billion (2023 est.)<br>
 $2.874 billion (2022 est.)<br>
-$2.921 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 
 ## Energy
 
@@ -603,7 +597,7 @@ _domestic_: fixed-line teledensity about 42 per 100 persons; 140 per 100 mobile-
 _international_: country code - 352<br>
 
 **Broadcast media**<br>
-Luxembourg has a long tradition of operating radio and TV services for pan-European audiences and is home to Europe's largest privately owned broadcast media group, the RTL Group, which operates 46 TV stations and 29 radio stations in Europe; also home to Europe's largest satellite operator, Societe Europeenne des Satellites (SES); domestically, the RTL Group operates TV and radio networks; other domestic private radio and TV operators and French and German stations available; satellite and cable TV services available<br>
+long national tradition of operating radio and TV services for pan-European audiences; home to Europe's largest privately owned broadcast media group, the RTL Group, which operates 46 TV stations and 29 radio stations in Europe; also home to Europe's largest satellite operator, Soci&eacute;t&eacute; Europ&eacute;enne des Satellites (SES); domestically, the RTL Group operates TV and radio networks; other domestic private radio and TV operators and French and German stations available; satellite and cable TV services available<br>
 
 **Internet country code**<br>
 .lu<br>
@@ -617,12 +611,6 @@ _subscriptions per 100 inhabitants_: 38 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 4 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 66<br>
-_annual passenger traffic on registered air carriers_: 2,099,102 (2018)<br>
-_annual freight traffic on registered air carriers_: 7,323,040,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 LX<br>
 
@@ -632,17 +620,8 @@ LX<br>
 **Heliports**<br>
 11 (2025)<br>
 
-**Pipelines**<br>
-142 km gas, 27 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 271 km (2020) 262 km electrified<br>
-
-**Roadways**<br>
-_total_: 2,746 km (2022)<br>
-
-**Waterways**<br>
-37 km (2010) (on Moselle River)<br>
 
 **Merchant marine**<br>
 _total_: 147 (2023)<br>
@@ -651,7 +630,7 @@ _by type_: bulk carrier 3, container ship 1, general cargo 24, oil tanker 4, oth
 ## Military and Security
 
 **Military and security forces**<br>
-Luxembourg Army (l'Armée Luxembourgeoise) (2024)<br>
+Luxembourg Army (l'Armée Luxembourgeoise) (2025)<br>
 <strong>note:</strong> the Grand Ducal Police maintain internal security and report to the Ministry of Internal Security<br>
 
 **Military expenditures**<br>

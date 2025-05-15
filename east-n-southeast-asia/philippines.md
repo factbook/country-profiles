@@ -72,7 +72,7 @@ population concentrated where good farmlands lie; highest concentrations are nor
 <p>astride typhoon belt, usually affected by 15 and struck by five to six cyclonic storms each year; landslides; active volcanoes; destructive earthquakes; tsunamis</p><p><strong>volcanism:</strong> significant volcanic activity; Taal (311 m), which has shown recent unrest and may erupt in the near future, has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Mayon (2,462 m), the country's most active volcano, erupted in 2009 forcing over 33,000 to be evacuated; other historically active volcanoes include Biliran, Babuyan Claro, Bulusan, Camiguin, Camiguin de Babuyanes, Didicas, Iraya, Jolo, Kanlaon, Makaturing, Musuan, Parker, Pinatubo, and Ragang; see note 2 under "Geography - note"</p><br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> for decades, the Philippine archipelago was reported as having 7,107 islands; in 2016, the national mapping authority reported that hundreds of new islands had been discovered and increased the number of islands to 7,641, though not all of the new islands have been verified; the country is favorably located in relation to many of Southeast Asia's main water bodies: the South China Sea, Philippine Sea, Sulu Sea, Celebes Sea, and Luzon Strait</p> <p><strong>note 2:</strong> Philippines is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> the Philippines sits astride the Pacific typhoon belt and an average of 9 typhoons make landfall on the islands each year -- with about 5 of these being destructive; the country is the most exposed in the world to tropical storms</p><br>
+<p><strong>note 1:</strong> for decades, the Philippine archipelago was reported as having 7,107 islands; in 2016, the national mapping authority reported that hundreds of new islands had been discovered and increased the number of islands to 7,641, though not all of the new islands have been verified; the country is favorably located in relation to many of Southeast Asia's main water bodies: the South China Sea, Philippine Sea, Sulu Sea, Celebes Sea, and Luzon Strait</p> <p><strong>note 2:</strong> Philippines is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> the Philippines sits on the Pacific typhoon belt, and an average of 9 typhoons make landfall on the islands each year -- with about 5 of these being destructive; the country is the most exposed in the world to tropical storms</p><br>
 
 ## People and Society
 
@@ -102,10 +102,10 @@ _15-64 years_: 64.3% (male 38,381,583/female 37,613,294)<br>
 _65 years and over_: 5.6% (2024 est.) (male 2,611,230/female 3,973,874)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 56.2<br>
-_youth dependency ratio_: 47.8<br>
-_elderly dependency ratio_: 8.3<br>
-_potential support ratio_: 12 (2021 est.)<br>
+_total dependency ratio_: 55.6 (2024 est.)<br>
+_youth dependency ratio_: 47 (2024 est.)<br>
+_elderly dependency ratio_: 8.7 (2024 est.)<br>
+_potential support ratio_: 11.5 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 25.7 years (2024 est.)<br>
@@ -237,7 +237,7 @@ one of only two predominantly Christian nations in Southeast Asia, the other bei
 ## Environment
 
 **Environment - current issues**<br>
-uncontrolled deforestation especially in watershed areas; illegal mining and logging; soil erosion; air and water pollution in major urban centers; coral reef degradation; increasing pollution of coastal mangrove swamps that are important fish breeding grounds; coastal erosion; dynamite fishing; wildlife extinction<br>
+deforestation, especially in watershed areas; illegal mining and logging; soil erosion; air and water pollution in major urban centers; coral reef degradation; increasing pollution of coastal mangrove swamps; coastal erosion; dynamite fishing; wildlife extinction<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
@@ -257,12 +257,6 @@ _other_: 33.1% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 48.3% of total population (2023)<br>
 _rate of urbanization_: 2.04% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.18% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.07% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 22.45 micrograms per cubic meter (2019 est.)<br>
@@ -305,7 +299,7 @@ presidential republic<br>
 _name_: Manila<br>
 _geographic coordinates_: 14 36 N, 120 58 E<br>
 _time difference_: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: derives from the Tagalog "may-nila" meaning "where there is indigo" and refers to the presence of indigo-yielding plants growing in the area surrounding the original settlement<br>
+_etymology_: derives from the Tagalog word <em>may</em>, meaning "there is," and <em>nila</em>, the local name for a shrub in the indigo family <br>
 
 **Administrative divisions**<br>
 <p>81 provinces and 38 chartered cities</p> <p><strong>provinces:</strong> Abra, Agusan del Norte, Agusan del Sur, Aklan, Albay, Antique, Apayao, Aurora, Basilan, Bataan, Batanes, Batangas, Biliran, Benguet, Bohol, Bukidnon, Bulacan, Cagayan, Camarines Norte, Camarines Sur, Camiguin, Capiz, Catanduanes, Cavite, Cebu, Cotabato, Davao del Norte, Davao del Sur, Davao de Oro, Davao Occidental, Davao Oriental, Dinagat Islands, Eastern Samar, Guimaras, Ifugao, Ilocos Norte, Ilocos Sur, Iloilo, Isabela, Kalinga, Laguna, Lanao del Norte, Lanao del Sur, La Union, Leyte, Maguindanao, Marinduque, Masbate, Mindoro Occidental, Mindoro Oriental, Misamis Occidental, Misamis Oriental, Mountain, Negros Occidental, Negros Oriental, Northern Samar, Nueva Ecija, Nueva Vizcaya, Palawan, Pampanga, Pangasinan, Quezon, Quirino, Rizal, Romblon, Samar, Sarangani, Siquijor, Sorsogon, South Cotabato, Southern Leyte, Sultan Kudarat, Sulu, Surigao del Norte, Surigao del Sur, Tarlac, Tawi-Tawi, Zambales, Zamboanga del Norte, Zamboanga del Sur, Zamboanga Sibugay;</p> <p><strong>chartered cities:</strong> Angeles, Bacolod, Baguio, Butuan, Cagayan de Oro, Caloocan, Cebu, Cotabato, Dagupan, Davao, General Santos, Iligan, Iloilo, Lapu-Lapu, Las Pinas, Lucena, Makati, Malabon, Mandaluyong, Mandaue, Manila, Marikina, Muntinlupa, Naga, Navotas, Olongapo, Ormoc, Paranaque, Pasay, Pasig, Puerto Princesa, Quezon, San Juan, Santiago, Tacloban, Taguig, Valenzuela, Zamboanga</p><br>
@@ -317,7 +311,7 @@ _etymology_: derives from the Tagalog "may-nila" meaning "where there is indigo"
 Independence Day, 12 June (1898); note - 12 June 1898 was date of declaration of independence from Spain; 4 July 1946 was date of independence from the US<br>
 
 **Legal system**<br>
-mixed legal system of civil, common, Islamic (sharia), and customary law<br>
+mixed system of civil, common, Islamic (sharia), and customary law<br>
 
 **Constitution**<br>
 _history_: several previous; latest ratified 2 February 1987, effective 11 February 1987<br>
@@ -442,9 +436,9 @@ $437.146 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-5.98% (2023 est.)<br>
-5.82% (2022 est.)<br>
-3.93% (2021 est.)<br>
+3.2% (2024 est.)<br>
+6% (2023 est.)<br>
+5.8% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -480,19 +474,19 @@ semiconductors and electronics assembly, business process outsourcing, food and 
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-49.414 million (2023 est.)<br>
+50.979 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.23% (2023 est.)<br>
+2.2% (2024 est.)<br>
+2.2% (2023 est.)<br>
 2.6% (2022 est.)<br>
-3.4% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 6.9% (2023 est.)<br>
-_male_: 5.9% (2023 est.)<br>
-_female_: 8.4% (2023 est.)<br>
+_total_: 6.6% (2024 est.)<br>
+_male_: 5.6% (2024 est.)<br>
+_female_: 8.3% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -532,15 +526,15 @@ _expenditures_: $75.238 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$11.817 billion (2023 est.)<br>
+-$17.514 billion (2024 est.)<br>
+-$12.387 billion (2023 est.)<br>
 -$18.261 billion (2022 est.)<br>
--$5.943 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$103.714 billion (2023 est.)<br>
+$106.99 billion (2024 est.)<br>
+$103.588 billion (2023 est.)<br>
 $98.832 billion (2022 est.)<br>
-$87.798 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -552,9 +546,9 @@ integrated circuits, machine parts, gold, insulated wire, semiconductors (2023)<
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$150.914 billion (2023 est.)<br>
+$161.154 billion (2024 est.)<br>
+$151.441 billion (2023 est.)<br>
 $152.638 billion (2022 est.)<br>
-$126.565 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -566,21 +560,22 @@ integrated circuits, refined petroleum, cars, crude petroleum, coal (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$95.251 billion (2024 est.)<br>
 $103.742 billion (2023 est.)<br>
 $96.04 billion (2022 est.)<br>
-$108.755 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$67.114 billion (2023 est.)<br>
+$63.241 billion (2023 est.)<br>
+<strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Philippine pesos (PHP) per US dollar -<br>
+57.291 (2024 est.)<br>
 55.63 (2023 est.)<br>
 54.478 (2022 est.)<br>
 49.255 (2021 est.)<br>
 49.624 (2020 est.)<br>
-51.796 (2019 est.)<br>
 
 ## Energy
 
@@ -645,7 +640,7 @@ _domestic_: fixed-line nearly 4 per 100 and mobile-cellular nearly 143 per 100 (
 _international_: country code - 63; landing points for the NDTN, TGN-IA, AAG, PLCN, EAC-02C, DFON, SJC, APCN-2, SeaMeWe, Boracay-Palawan Submarine Cable System, Palawa-Illoilo Cable System, NDTN, SEA-US, SSSFOIP, ASE and JUPITAR submarine cables that together provide connectivity to the US, Southeast Asia, Asia, Europe, Africa, the Middle East, and Australia (2019)<br>
 
 **Broadcast media**<br>
-multiple national private TV and radio networks; multi-channel satellite and cable TV systems available; more than 400 TV stations; about 1,500 cable TV providers with more than 2 million subscribers, and some 1,400 radio stations; the Philippines adopted Japan&rsquo;s Integrated Service Digital Broadcast &ndash; Terrestrial standard for digital terrestrial television in November 2013 and is scheduled to complete the switch from analog to digital broadcasting by the end of 2023 (2019)<br>
+multiple national private TV and radio networks; multi-channel satellite and cable TV systems available; more than 400 TV stations; about 1,500 cable TV providers with more than 2 million subscribers; over 1,400 radio stations; was scheduled to move to digital by the end of 2023 (2019)<br>
 
 **Internet country code**<br>
 .ph<br>
@@ -659,12 +654,6 @@ _subscriptions per 100 inhabitants_: 7 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 13 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 200<br>
-_annual passenger traffic on registered air carriers_: 43,080,118 (2018)<br>
-_annual freight traffic on registered air carriers_: 835.9 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 RP<br>
 
@@ -674,21 +663,10 @@ RP<br>
 **Heliports**<br>
 416 (2025)<br>
 
-**Pipelines**<br>
-530 km gas, 138 km oil (non-operational), 185 km refined products (2017)<br>
-
 **Railways**<br>
 _total_: 77 km (2017)<br>
 _standard gauge_: 49 km (2017) 1.435-m gauge<br>
 _narrow gauge_: 28 km (2017) 1.067-m gauge<br>
-
-**Roadways**<br>
-_total_: 216,387 km<br>
-_paved_: 61,093 km<br>
-_unpaved_: 155,294 km (2014)<br>
-
-**Waterways**<br>
-3,219 km (2011) (limited to vessels with draft less than 1.5 m)<br>
 
 **Merchant marine**<br>
 _total_: 2,203 (2023)<br>
@@ -706,7 +684,7 @@ _key ports_: Batangas City, Cagayan de Oro, Cebu, Manila, San Fernando Harbor, S
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Philippines (AFP): Army, Navy (includes Marine Corps), Air Force<br><br>Department of Transportation: Philippine Coast Guard (PCG)<br><br>Department of the Interior: Philippine National Police Force (PNP) (2024)<br>
+Armed Forces of the Philippines (AFP): Army, Navy (includes Marine Corps), Air Force<br><br>Department of Transportation: Philippine Coast Guard (PCG); Department of the Interior: Philippine National Police Force (PNP) (2025)<br>
 <strong>note 1:</strong> the PCG is an armed and uniformed service that would be attached to the AFP during a conflict<br><br><strong>note 2: </strong>the Philippine Government also arms and supports civilian militias; the AFP controls the Civilian Armed Force Geographical Units, while the Civilian Volunteer Organizations fall under PNP command<br>
 
 **Military expenditures**<br>
@@ -717,13 +695,13 @@ Armed Forces of the Philippines (AFP): Army, Navy (includes Marine Corps), Air F
 1.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 140,000 active-duty personnel (100,000 Army; 25,000 Navy, including about 8,000 Marine Corps; 15,000 Air Force) (2023)<br>
+approximately 145,000 active AFP personnel (105,000 Army; 25,000 Navy, including about 8,000 Marine Corps; 15,000 Air Force) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the AFP is equipped with a wide mix of imported weapons systems; in recent years, it has received equipment from more than a dozen countries, including Israel, South Korea, and the US (2024)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for voluntary military service for men and women; no conscription (2023)<br>
+some small variations in age based on the branch, but generally 18-27 years of age for voluntary military service for men and women; no conscription (2025)<br>
 <strong>note:</strong> as of 2023, women made up about 8% of the active military; women have attended the Philippine Military Academy and trained as combat soldiers since 1993<br>
 
 **Military - note**<br>

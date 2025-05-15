@@ -77,7 +77,7 @@ major concentration on the island of Java, which is considered one of the most d
 <p>occasional floods; severe droughts; tsunamis; earthquakes; volcanoes; forest fires</p> <p><strong>volcanism:</strong> Indonesia contains the most volcanoes of any country in the world - some 76 are historically active; significant volcanic activity occurs on Java, Sumatra, the Sunda Islands, Halmahera Island, Sulawesi Island, Sangihe Island, and in the Banda Sea; Merapi (2,968 m), Indonesia's most active volcano and in eruption since 2010, has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; on 22 December 2018, a large explosion and flank collapse destroyed most of the 338 m high island of Anak Krakatau (Child of Krakatau) and generated a deadly tsunami inundating portions of western Java and southern Sumatra leaving more than 400 dead; other notable historically active volcanoes include Agung, Awu, Karangetang, Krakatau (Krakatoa), Makian, Raung, Sinabung, and Tambora; see note 2 under "Geography - note"</p><br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> according to Indonesia's National Coordinating Agency for Survey and Mapping, the total number of islands in the archipelago is 13,466, of which 922 are permanently inhabited (Indonesia is the world's largest country comprised solely of islands); the country straddles the equator and occupies a strategic location astride or along major sea lanes from the Indian Ocean to the Pacific Ocean</p> <p><strong>note 2:</strong> Indonesia is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire; 80% of tsunamis, caused by volcanic or seismic events, occur within the "Pacific Ring of Fire"</p> <p><strong>note 3:</strong> despite having the fourth largest population in the world, Indonesia is the most heavily forested region on earth after the Amazon<br><br><strong>note 4: </strong>two major food crops apparently developed on the island of New Guinea: bananas and sugarcane</p><br>
+<p><strong>note 1:</strong> 13,466 islands are in the archipelago, of which 922 are permanently inhabited; Indonesia is the world's largest country composed solely of islands; the country straddles the equator and occupies a strategic location along major sea lanes from the Indian Ocean to the Pacific Ocean</p> <p><strong>note 2:</strong> Indonesia is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire; 80% of tsunamis, caused by volcanic or seismic events, occur within the "Pacific Ring of Fire"</p> <p><strong>note 3:</strong> despite having the fourth largest population in the world, Indonesia is the most heavily forested region on earth after the Amazon</p><br>
 
 ## People and Society
 
@@ -106,10 +106,10 @@ _15-64 years_: 68.3% (male 96,268,201/female 95,961,293)<br>
 _65 years and over_: 8% (2024 est.) (male 10,284,628/female 12,099,758)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 47.6<br>
-_youth dependency ratio_: 37.6<br>
-_elderly dependency ratio_: 10<br>
-_potential support ratio_: 10 (2021 est.)<br>
+_total dependency ratio_: 46.5 (2024 est.)<br>
+_youth dependency ratio_: 34.8 (2024 est.)<br>
+_elderly dependency ratio_: 11.6 (2024 est.)<br>
+_potential support ratio_: 8.6 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 31.5 years (2024 est.)<br>
@@ -241,7 +241,7 @@ Indonesia is the fourth most populous nation in the World after China, India, an
 ## Environment
 
 **Environment - current issues**<br>
-large-scale deforestation (much of it illegal) and related wildfires cause heavy smog; over-exploitation of marine resources; environmental problems associated with rapid urbanization and economic development, including air pollution, traffic congestion, garbage management, and reliable water and waste water services; water pollution from industrial wastes, sewage<br>
+large-scale deforestation (much of it illegal) and related wildfires cause heavy smog; over-exploitation of marine resources; air pollution from vehicle emissions; waste disposal; water pollution from industrial wastes, sewage<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
@@ -261,12 +261,6 @@ _other_: 22.2% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 58.6% of total population (2023)<br>
 _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.39% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-1.06% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 19.34 micrograms per cubic meter (2019 est.)<br>
@@ -310,11 +304,12 @@ _etymology_: the name is an 18th-century construct of two Greek words, "Indos" (
 presidential republic<br>
 
 **Capital**<br>
-_name_: Jakarta; note - Indonesian lawmakers on 18 January 2022 approved the relocation of the country&rsquo;s capital from Jakarta to a site on the island of Borneo between Samarinda City and the port city of Balikpapan; Nusantara ("archipelago"), the name of the new capital, was in development as of late 2024 and is expected to be completed in 2045<br>
+_name_: Jakarta<br>
 _geographic coordinates_: 6 10 S, 106 49 E<br>
 _time difference_: UTC+7 (12 hours ahead of Washington, DC, during Standard Time)<br>
 _time zone note_: Indonesia has three time zones<br>
-_etymology_: "Jakarta" derives from the Sanscrit "Jayakarta" meaning "victorious city" and refers to a successful defeat and expulsion of the Portuguese in 1527; previously the port had been named "Sunda Kelapa"<br>
+_etymology_: derives from the Sanscrit name Jayakarta, meaning "victory and prosperity;" Prince FATILLAH conquered and renamed the city, formerly known as Sunda Kelapa, in 1527<br>
+<strong>note:</strong> in 2022, the relocation of the country’s capital was approved, from Jakarta to a site on the island of Borneo between Samarinda City and the port city of Balikpapan; Nusantara ("archipelago"), the new capital, was in development as of 2024 and is expected to be completed in 2045<br>
 
 **Administrative divisions**<br>
 35 provinces (provinsi-provinsi, singular - provinsi), 1 autonomous province*, 1 special region** (daerah istimewa), and 1 national capital district*** (daerah khusus ibukota); Aceh*, Bali, Banten, Bengkulu, Gorontalo, Jakarta***, Jambi, Jawa Barat (West Java), Jawa Tengah (Central Java), Jawa Timur (East Java), Kalimantan Barat (West Kalimantan), Kalimantan Selatan (South Kalimantan), Kalimantan Tengah (Central Kalimantan), Kalimantan Timur (East Kalimantan), Kalimantan Utara (North Kalimantan), Kepulauan Bangka Belitung (Bangka Belitung Islands), Kepulauan Riau (Riau Islands), Lampung, Maluku, Maluku Utara (North Maluku), Nusa Tenggara Barat (West Nusa Tenggara), Nusa Tenggara Timur (East Nusa Tenggara), Papua, Papua Barat (West Papua), Papua Barat Daya (Southwest Papua), Papua Pegunungan (Papua Highlands), Papua Selatan (South Papua), Papua Tengah (Central Papua), Riau, Sulawesi Barat (West Sulawesi), Sulawesi Selatan (South Sulawesi), Sulawesi Tengah (Central Sulawesi), Sulawesi Tenggara (Southeast Sulawesi), Sulawesi Utara (North Sulawesi), Sumatera Barat (West Sumatra), Sumatera Selatan (South Sumatra), Sumatera Utara (North Sumatra), Yogyakarta**<br>
@@ -438,9 +433,9 @@ $1.371 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-3.67% (2023 est.)<br>
-4.21% (2022 est.)<br>
-1.56% (2021 est.)<br>
+3.7% (2023 est.)<br>
+4.2% (2022 est.)<br>
+1.6% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -476,19 +471,19 @@ petroleum and natural gas, textiles, automotive, electrical appliances, apparel,
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-142.688 million (2023 est.)<br>
+143.144 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.42% (2023 est.)<br>
-3.46% (2022 est.)<br>
-3.83% (2021 est.)<br>
+3.3% (2024 est.)<br>
+3.3% (2023 est.)<br>
+3.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.9% (2023 est.)<br>
-_male_: 14.2% (2023 est.)<br>
-_female_: 13.6% (2023 est.)<br>
+_total_: 13.1% (2024 est.)<br>
+_male_: 13.2% (2024 est.)<br>
+_female_: 13% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -527,15 +522,15 @@ _expenditures_: $192.97 billion (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$2.138 billion (2023 est.)<br>
+-$8.856 billion (2024 est.)<br>
+-$2.042 billion (2023 est.)<br>
 $13.215 billion (2022 est.)<br>
-$3.511 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$290.969 billion (2023 est.)<br>
+$300.811 billion (2024 est.)<br>
+$291.287 billion (2023 est.)<br>
 $315.746 billion (2022 est.)<br>
-$246.787 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -547,9 +542,9 @@ coal, palm oil, iron alloys, lignite, garments (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$262.746 billion (2023 est.)<br>
+$279.552 billion (2024 est.)<br>
+$262.694 billion (2023 est.)<br>
 $273.031 billion (2022 est.)<br>
-$217.579 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -561,21 +556,22 @@ refined petroleum, crude petroleum, plastics, vehicle parts/accessories, integra
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$149.118 billion (2024 est.)<br>
 $146.359 billion (2023 est.)<br>
 $137.222 billion (2022 est.)<br>
-$144.908 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$237.223 billion (2023 est.)<br>
+$225.273 billion (2023 est.)<br>
+<strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Indonesian rupiah (IDR) per US dollar -<br>
+15,855.448 (2024 est.)<br>
 15,236.885 (2023 est.)<br>
 14,849.854 (2022 est.)<br>
 14,308.144 (2021 est.)<br>
 14,582.203 (2020 est.)<br>
-14,147.671 (2019 est.)<br>
 
 ## Energy
 
@@ -642,7 +638,7 @@ _domestic_: fixed-line subscribership roughly 3 per 100 and mobile-cellular 134 
 _international_: country code - 62; landing points for the SEA-ME-WE-3 &amp; 5, DAMAI, JASUKA,&nbsp;BDM,&nbsp;Dumai-Melaka Cable System, IGG, JIBA,&nbsp;Link 1, 3, 4, &nbsp;&amp; 5, PGASCOM, B3J2, Tanjung Pandam-Sungai Kakap Cable System, JAKABARE, JAYABAYA, INDIGO-West, Matrix&nbsp;Cable System, ASC, SJJK, Jaka2LaDeMa, S-U-B Cable System, JBCS, MKCS, BALOK, Palapa Ring East, West&nbsp;and Middle, SMPCS Packet-1 and 2, LTCS, TSCS, SEA-US and Kamal Domestic Submarine Cable System, 35&nbsp;submarine cable networks that provide links throughout Asia, the Middle East,&nbsp;Australia, Southeast Asia, Africa&nbsp;and Europe; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific Ocean) (2019)<br>
 
 **Broadcast media**<br>
-mixture of about a dozen national TV networks -&nbsp;1 public broadcaster, the remainder private broadcasters - each with multiple transmitters; more than 100 local TV stations; widespread use of satellite and cable TV systems; public radio broadcaster operates 6 national networks, as well as regional and local stations; overall, more than 700 radio stations with more than 650 privately operated (2019)<br>
+mix of about a dozen national TV networks, including 1 public broadcaster and the rest private; more than 100 local TV stations; widespread use of satellite and cable TV systems; public radio broadcaster operates 6 national networks, as well as regional and local stations; more than 700 radio stations, with over 650 privately operated (2019)<br>
 
 **Internet country code**<br>
 .id<br>
@@ -656,12 +652,6 @@ _subscriptions per 100 inhabitants_: 5 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 25 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 611<br>
-_annual passenger traffic on registered air carriers_: 115,154,100 (2018)<br>
-_annual freight traffic on registered air carriers_: 1,131,910,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 PK<br>
 
@@ -671,21 +661,10 @@ PK<br>
 **Heliports**<br>
 53 (2025)<br>
 
-**Pipelines**<br>
-1,064 km condensate, 150 km condensate/gas, 11,702 km gas, 119 km liquid petroleum gas, 7,767 km oil, 77 km oil/gas/water, 728 km refined products, 53 km unknown, 44 km water (2013)<br>
-
 **Railways**<br>
 _total_: 8,159 km (2014)<br>
 _narrow gauge_: 8,159 km (2014) 1.067-m gauge (565 km electrified)<br>
 <strong>note:</strong> 4,816 km operational<br>
-
-**Roadways**<br>
-_total_: 496,607 km<br>
-_paved_: 283,102 km<br>
-_unpaved_: 213,505 km (2011)<br>
-
-**Waterways**<br>
-21,579 km (2011)<br>
 
 **Merchant marine**<br>
 _total_: 11,422 (2023)<br>
@@ -703,8 +682,8 @@ _key ports_: Belawan, Cilacap, Dumai, Jakarta, Kasim Terminal, Merak Mas Termina
 ## Military and Security
 
 **Military and security forces**<br>
-Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-Angkatan Darat, TNI-AD), Navy (TNI-Angkatan Laut, TNI-AL; includes Marine Corps (Korps Marinir or KorMar)), Air Force (TNI-Angkatan Udara, TNI-AU) (2024)<br>
-<strong>note 1:</strong> in 2014, Indonesia created a Maritime Security Agency (Badan Keamanan Laut Republik Indonesia or Bakamla) to coordinate the actions of all maritime security agencies, including the Navy, the Indonesian Sea and Coast Guard (Kesatuan Penjagaan Laut dan Pantai, KPLP), the Water Police (Polair), Customs (Bea Cukai), and Ministry of Marine Affairs and Fisheries<br><br><strong>note 2: </strong>the Indonesian National Police (POLRI), which reports directly to the president, includes a paramilitary Mobile Brigade Corps (BRIMOB) and Detachment 88 (Densus or Detasemen Khusus 88 Antiteror), a specialized counterterrorism force<br>
+Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-Angkatan Darat, TNI-AD), Navy (TNI-Angkatan Laut, TNI-AL; includes Marine Corps (Korps Marinir or KorMar)), Air Force (TNI-Angkatan Udara, TNI-AU)<br><br>Indonesian National Police (aka The State Police of the Republic of Indonesia or POLRI)<br><br>Ministry of Transportation: Indonesia Sea and Coast Guard (Kesatuan Penjagaan Laut dan Pantai Republik Indonesia, KPLP); Coordinating Ministry for Political, Legal, and Security Affairs: Maritime Security Agency of the Republic of Indonesia (Badan Keamanan Laut Republik Indonesia, Bakamla) (2025)<br>
+<strong>note 1:</strong> the National Police are an independent organization reporting directly to the president of Indonesia<br><br><strong>note 2:</strong> the KPLP ensures the safety of shipping inside the Indonesian Maritime Zone; the Bakamla conducts security and safety patrols in the territorial waters of Indonesia<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2023 est.)<br>
@@ -714,7 +693,7 @@ Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-An
 0.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 400,000 active-duty troops (300,000 Army; 60,000 Navy, including about 20,000 marines; 30,000 Air Force) (2023)<br>
+approximately 400,000 active TNI troops, including about 300,000 Army (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a wide mix of Chinese, Russian, and Western (including US) equipment; in recent years, major suppliers have included China, France, Germany, the Netherlands, South Korea, and the US; the TNI has been engaged in a modernization program for more than a decade; Indonesia has a growing defense industry fueled by technology transfers and cooperation agreements with several countries; in 2019, the Indonesian Government said that growing its domestic defense industry would be a national priority over the following decade (2024)<br>

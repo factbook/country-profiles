@@ -58,7 +58,7 @@ _other_: 100% (2018 est.)<br>
 subject to tropical storms and hurricanes from May to October<br>
 
 **Geography - note**<br>
-the atoll reef is approximately 12 km (7.5 mi) in circumference; an attempt to colonize the atoll in the early 20th century ended in disaster and was abandoned in 1917<br>
+the atoll reef is approximately 12 km (7.5 mi) in circumference<br>
 
 ## People and Society
 
@@ -68,7 +68,7 @@ _total_: uninhabited<br>
 ## Environment
 
 **Environment - current issues**<br>
-no natural resources, guano deposits depleted; the ring-shaped atoll encloses a stagnant fresh-water lagoon<br>
+no natural resources, guano deposits depleted; stagnant fresh-water lagoon<br>
 
 **Climate**<br>
 tropical; humid, average temperature 20-32 degrees Celsius, wet season (May to October)<br>

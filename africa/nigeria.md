@@ -82,7 +82,7 @@ largest population of any African nation; significant population clusters are sc
 periodic droughts; flooding<br>
 
 **Geography - note**<br>
-the Niger River enters the country in the northwest and flows southward through tropical rain forests and swamps to its delta in the Gulf of Guinea<br>
+the Niger River enters the country in the northwest and flows southward through tropical rainforests and swamps to its delta in the Gulf of Guinea<br>
 
 ## People and Society
 
@@ -111,10 +111,10 @@ _15-64 years_: 56.2% (male 66,897,900/female 66,187,584)<br>
 _65 years and over_: 3.4% (2024 est.) (male 3,759,943/female 4,274,287)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 86<br>
-_youth dependency ratio_: 80.6<br>
-_elderly dependency ratio_: 5.5<br>
-_potential support ratio_: 18 (2021 est.)<br>
+_total dependency ratio_: 77.9 (2024 est.)<br>
+_youth dependency ratio_: 71.9 (2024 est.)<br>
+_elderly dependency ratio_: 6 (2024 est.)<br>
+_potential support ratio_: 16.6 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 19.3 years (2024 est.)<br>
@@ -237,7 +237,7 @@ _female_: 52.7% (2018)<br>
 ## Environment
 
 **Environment - current issues**<br>
-serious overpopulation and rapid urbanization have led to numerous environmental problems; urban air and water pollution; rapid deforestation; soil degradation; loss of arable land; oil pollution - water, air, and soil have suffered serious damage from oil spills<br>
+urban air and water pollution; rapid deforestation; soil degradation; loss of arable land; water, air, and soil pollution from oil spills<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -260,12 +260,6 @@ _rate of urbanization_: 3.92% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: <em><em>due to persistent civil conflict in the northern areas, </em></em><em>floods, high food prices, and an economic slowdown </em><em>- </em>about 24.86 million people are projected to face acute food insecurity during the June to August 2023 lean season, which is more than the 19.45 million people estimated to be acutely food insecure in 2022; acute food insecurity is mostly the result of worsening insecurity and conflicts in northern states, which, as well as impeding farmers’ physical access to their lands and disrupting agricultural activities, led to the displacement of about 3.57 million people as of April 2023; macroeconomic challenges, marked by persistent high inflation, depreciation of the naira on the informal market, high fuel prices and the lingering impacts of cash shortages following the introduction of new banknotes at the start of 2023, have aggravated the food security conditions of vulnerable households (2023)<br>
-
-**Revenue from forest resources**<br>
-1.02% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 55.64 micrograms per cubic meter (2019 est.)<br>
@@ -309,7 +303,7 @@ federal presidential republic<br>
 _name_: Abuja<br>
 _geographic coordinates_: 9 05 N, 7 32 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: Abuja is a planned capital city, it replaced Lagos in 1991; situated in the center of the country, Abuja takes its name from a nearby town, now renamed Suleja<br>
+_etymology_: the newly built city of Abuja replaced Lagos as the capital city in 1991; Abuja takes its name from a nearby town, now renamed Suleja, that was named after Abu JA ("Abu the Red") in 1828<br>
 
 **Administrative divisions**<br>
 36 states and 1 territory*; Abia, Adamawa, Akwa Ibom, Anambra, Bauchi, Bayelsa, Benue, Borno, Cross River, Delta, Ebonyi, Edo, Ekiti, Enugu, Federal Capital Territory*, Gombe, Imo, Jigawa, Kaduna, Kano, Katsina, Kebbi, Kogi, Kwara, Lagos, Nasarawa, Niger, Ogun, Ondo, Osun, Oyo, Plateau, Rivers, Sokoto, Taraba, Yobe, Zamfara<br>
@@ -321,7 +315,7 @@ _etymology_: Abuja is a planned capital city, it replaced Lagos in 1991; situate
 Independence Day (National Day), 1 October (1960)<br>
 
 **Legal system**<br>
-mixed legal system of English common law, Islamic law (in 12 northern states), and traditional law<br>
+mixed system of English common law, Islamic law (in 12 northern states), and traditional law<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 5 May 1999, effective 29 May 1999<br>
@@ -444,9 +438,9 @@ $363.846 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-24.66% (2023 est.)<br>
-18.85% (2022 est.)<br>
-16.95% (2021 est.)<br>
+24.7% (2023 est.)<br>
+18.8% (2022 est.)<br>
+17% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -481,19 +475,19 @@ crude oil, coal, tin, columbite; rubber products, wood; hides and skins, textile
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-78.812 million (2023 est.)<br>
+113.35 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.07% (2023 est.)<br>
-3.83% (2022 est.)<br>
-5.39% (2021 est.)<br>
+3% (2024 est.)<br>
+3.1% (2023 est.)<br>
+3.8% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.8% (2023 est.)<br>
-_male_: 4.8% (2023 est.)<br>
-_female_: 7.1% (2023 est.)<br>
+_total_: 5.1% (2024 est.)<br>
+_male_: 3.7% (2024 est.)<br>
+_female_: 6.5% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -564,22 +558,22 @@ refined petroleum, tanks and armored vehicles, wheat, plastics, cars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$38.612 billion (2024 est.)<br>
+$32.035 billion (2023 est.)<br>
 $35.564 billion (2022 est.)<br>
-$40.476 billion (2021 est.)<br>
-$36.73 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$47.022 billion (2023 est.)<br>
+$45.009 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: nairas (NGN) per US dollar -<br>
+1,478.965 (2024 est.)<br>
+645.194 (2023 est.)<br>
 425.979 (2022 est.)<br>
 401.152 (2021 est.)<br>
 358.811 (2020 est.)<br>
-306.921 (2019 est.)<br>
-306.084 (2018 est.)<br>
 
 ## Energy
 
@@ -643,7 +637,7 @@ _domestic_: fixed-line subscribership remains less than 1 per 100 persons; mobil
 _international_: country code - 234; landing point for the SAT-3/WASC, NCSCS,&nbsp; MainOne, Glo-1 &amp; 2, ACE, and Equiano&nbsp;fiber-optic submarine cable that provides connectivity to Europe and South and West Africa; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean) (2019)<br>
 
 **Broadcast media**<br>
-nearly 70 federal government-controlled national and regional TV stations; all 36 states operate TV stations; several private TV stations operational; cable and satellite TV subscription services are available; network of federal government-controlled national, regional, and state radio stations; roughly 40 state government-owned radio stations typically carry their own programs except for news broadcasts; about 20 private radio stations; transmissions of international broadcasters are available; digital broadcasting migration process completed in three states in 2018 (2019)<br>
+nearly 70 federal government-controlled national and regional TV stations; all 36 states operate TV stations; several private TV stations; cable and satellite TV subscription services are available; network of federal government-controlled national, regional, and state radio stations; roughly 40 state government-owned radio stations; about 20 private radio stations; transmissions of international broadcasters are available; transition to digital completed in three states in 2018 (2019)<br>
 
 **Internet country code**<br>
 .ng<br>
@@ -657,12 +651,6 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 13 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 104<br>
-_annual passenger traffic on registered air carriers_: 8,169,192 (2018)<br>
-_annual freight traffic on registered air carriers_: 19.42 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 5N<br>
 
@@ -672,22 +660,11 @@ _annual freight traffic on registered air carriers_: 19.42 million (2018) mt-km<
 **Heliports**<br>
 15 (2025)<br>
 
-**Pipelines**<br>
-124 km condensate, 4,045 km gas, 164 km liquid petroleum gas, 4,441 km oil, 3,940 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 3,798 km (2014)<br>
 _standard gauge_: 293 km (2014) 1.435-m gauge<br>
 _narrow gauge_: 3,505 km (2014) 1.067-m gauge<br>
 <strong>note:</strong> as of the end of 2018, there were only six operational locomotives in Nigeria primarily used for passenger service; the majority of the rail lines are in a severe state of disrepair and need to be replaced<br>
-
-**Roadways**<br>
-_total_: 195,000 km<br>
-_paved_: 60,000 km<br>
-_unpaved_: 135,000 km (2019)<br>
-
-**Waterways**<br>
-8,600 km (2011) (Niger and Benue Rivers and smaller rivers and creeks)<br>
 
 **Merchant marine**<br>
 _total_: 928 (2023)<br>
@@ -705,8 +682,8 @@ _key ports_: Antan Oil Terminal, Bonny, Lagos, Pennington Oil Terminal<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Nigeria (AFN): Army, Navy (includes Coast Guard), Air Force<br><br>Ministry of Interior: Nigeria Security and Civil Defense Corps (NSCDC); Ministry of Police Affairs: Nigeria Police Force (NPF) (2024)<br>
-<strong>note 1: </strong>the NSCDC is a paramilitary agency commissioned to assist the military in the management of threats to internal security, including attacks and natural disasters<br><br><strong>note 2:</strong> the Office of the National Security Advisor is responsible for coordinating all security and enforcement agencies, including the Department of State Security (DSS), the NSCDC, the Ministry of Justice, and the Police; border security responsibilities are shared among the NPF, the DSS, the NSCDC, Nigeria Customs Service, Immigration Service, and the AFN<br><br><strong>note 3: </strong>some states have created local security forces akin to neighborhood watches in response to increased violence, insecurity, and criminality that have exceeded the response capacity of federal government security forces, but official security forces remained the constitutional prerogative of the federal government; in 2023, the federal government began deploying thousands of "agro rangers" across 19 states and the Federal Capital Territory to help safeguard farmland and mediate conflicts, especially in areas hit by farmer-herder clashes <br>
+Armed Forces of Nigeria (AFN): Nigerian Army, Nigerian Navy (includes Coast Guard), Nigerian Air Force<br><br>Ministry of Interior: Nigeria Security and Civil Defense Corps (NSCDC); Ministry of Police Affairs: Nigeria Police Force (NPF) (2025)<br>
+<strong>note 1: </strong>the NSCDC is a paramilitary agency commissioned to assist the military in the management of threats to internal security, including attacks and natural disasters<br><br><strong>note 2: </strong>some states have created local security forces akin to neighborhood watches in response to increased violence, insecurity, and criminality that have exceeded the response capacity of federal government security forces, but official security forces remained the constitutional prerogative of the federal government; in 2023, the federal government began deploying thousands of "agro rangers" across 19 states and the Federal Capital Territory to help safeguard farmland and mediate conflicts, especially in areas hit by farmer-herder clashes<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2023 est.)<br>
@@ -716,7 +693,7 @@ Armed Forces of Nigeria (AFN): Army, Navy (includes Coast Guard), Air Force<br><
 0.5% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 135,000 active-duty armed forces personnel (100,000 Army; 20,000 Navy/Coast Guard; 15,000 Air Force); approximately 80,000 Security and Civil Defense Corps; approximately 370,000 police (2023)<br>
+information varies; estimated 150,000 active armed forces personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists of a wide variety of imported weapons systems of Chinese, European, Middle Eastern, Russian (including Soviet-era), and US origin; the military is undergoing a modernization program, and in recent years has received equipment from a range of suppliers, including Brazil, China, France, Italy, Russia, Turkey, and the US; Nigeria is also developing a defense-industry capacity, including small arms, armored personnel vehicles, and small-scale naval production (2024)<br>

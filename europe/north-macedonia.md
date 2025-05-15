@@ -102,10 +102,10 @@ _15-64 years_: 68.4% (male 740,649/female 719,627)<br>
 _65 years and over_: 15.6% (2024 est.) (male 147,655/female 186,323)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 44.6<br>
-_youth dependency ratio_: 23.2<br>
-_elderly dependency ratio_: 21.4<br>
-_potential support ratio_: 4.7 (2021 est.)<br>
+_total dependency ratio_: 46.2 (2024 est.)<br>
+_youth dependency ratio_: 23.4 (2024 est.)<br>
+_elderly dependency ratio_: 22.9 (2024 est.)<br>
+_potential support ratio_: 4.4 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 40.5 years (2024 est.)<br>
@@ -228,7 +228,7 @@ _female_: 14 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution from metallurgical plants; Skopje has severe air pollution problems every winter as a result of industrial emissions, smoke from wood-buring stoves, and exhaust fumes from old cars<br>
+air pollution from metallurgical plants, smoke from wood-burning stoves, and vehicle emissions<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands<br>
@@ -248,12 +248,6 @@ _other_: 10.4% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 59.5% of total population (2023)<br>
 _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.15% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 25.17 micrograms per cubic meter (2019 est.)<br>
@@ -294,7 +288,7 @@ _name_: Skopje<br>
 _geographic coordinates_: 42 00 N, 21 26 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: Skopje derives from its ancient name Scupi, the Latin designation of a Dardanian and classical era Greco-Roman frontier fortress town; the name goes back to a pre-Hellenic, Illyrian times<br>
+_etymology_: the name is of Illyrian or Macedonian origin, and the meaning is unclear; derives from Scupi, its name during the Roman era<br>
 
 **Administrative divisions**<br>
 80 municipalities (opstini, singular - opstina) and 1 city* (grad); Aracinovo, Berovo, Bitola, Bogdanci, Bogovinje, Bosilovo, Brvenica, Caska, Centar Zupa, Cesinovo-Oblesevo, Cucer Sandevo, Debar, Debarca, Delcevo, Demir Hisar, Demir Kapija, Dojran, Dolneni, Gevgelija, Gostivar, Gradsko, Ilinden, Jegunovce, Karbinci, Kavadarci, Kicevo, Kocani, Konce, Kratovo, Kriva Palanka, Krivogastani, Krusevo, Kumanovo, Lipkovo, Lozovo, Makedonska Kamenica, Makedonski Brod, Mavrovo i Rostuse, Mogila, Negotino, Novaci, Novo Selo, Ohrid, Pehcevo, Petrovec, Plasnica, Prilep, Probistip, Radovis, Rankovce, Resen, Rosoman, Skopje*, Sopiste, Staro Nagoricane, Stip, Struga, Strumica, Studenicani, Sveti Nikole, Tearce, Tetovo, Valandovo, Vasilevo, Veles, Vevcani, Vinica, Vrapciste, Zelenikovo, Zelino, Zrnovci. The Greater Skopje area is comprised of 10 municipalities: &nbsp;&nbsp;&nbsp; Aerodrom, Butel, Centar, Chair, Gazi Baba, Gjorce Petrov, Karposh, Kisela Voda, Saraj, and Shuto Orizari.<br>
@@ -414,9 +408,9 @@ $15.764 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-9.36% (2023 est.)<br>
+3.5% (2024 est.)<br>
+9.4% (2023 est.)<br>
 14.2% (2022 est.)<br>
-3.23% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -451,19 +445,19 @@ food processing, beverages, textiles, chemicals, iron, steel, cement, energy, ph
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-797,000 (2023 est.)<br>
+790,800 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-13.08% (2023 est.)<br>
-14.48% (2022 est.)<br>
-15.8% (2021 est.)<br>
+13.4% (2024 est.)<br>
+13.2% (2023 est.)<br>
+14.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 28.6% (2023 est.)<br>
-_male_: 27% (2023 est.)<br>
-_female_: 31.5% (2023 est.)<br>
+_total_: 30.3% (2024 est.)<br>
+_male_: 29.2% (2024 est.)<br>
+_female_: 32.3% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -499,19 +493,19 @@ _expenditures_: $4.666 billion (2021 est.)<br>
 <strong>note:</strong> official data from Ministry of Finance; data cover central government debt; this data excludes debt instruments issued (or owned) by government entities other than the treasury; includes treasury debt held by foreign entitites; excludes debt issued by sub-national entities; there are no debt instruments sold for social funds<br>
 
 **Taxes and other revenues**<br>
-17.39% (of GDP) (2021 est.)<br>
+17.4% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$374.385 million (2024 est.)<br>
 $56.573 million (2023 est.)<br>
 -$868.965 million (2022 est.)<br>
--$374.85 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$10.445 billion (2024 est.)<br>
 $10.691 billion (2023 est.)<br>
 $10.123 billion (2022 est.)<br>
-$9.208 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -523,9 +517,9 @@ reaction and catalytic products, insulated wire, electricity, garments, seats (2
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$12.644 billion (2024 est.)<br>
 $12.748 billion (2023 est.)<br>
 $13.009 billion (2022 est.)<br>
-$11.362 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -537,21 +531,22 @@ platinum, refined petroleum, laboratory ceramic ware, cars, natural gas (2023)<b
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$4.674 billion (2024 est.)<br>
 $5.015 billion (2023 est.)<br>
 $4.12 billion (2022 est.)<br>
-$4.129 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$5.845 billion (2023 est.)<br>
+$5.637 billion (2023 est.)<br>
+<strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Macedonian denars (MKD) per US dollar -<br>
+56.873 (2024 est.)<br>
 56.947 (2023 est.)<br>
 58.574 (2022 est.)<br>
 52.102 (2021 est.)<br>
 54.144 (2020 est.)<br>
-54.947 (2019 est.)<br>
 
 ## Energy
 
@@ -611,7 +606,7 @@ _domestic_: fixed-line roughly 20 per 100 and mobile-cellular 92 per 100 subscri
 _international_: country code - 389<br>
 
 **Broadcast media**<br>
-public service TV broadcaster Macedonian Radio and Television operates 5 national terrestrial TV channels and 2 satellite TV channels; additionally, there are 11 regional TV stations broadcasting nationally, 29 regional and local broadcasters, a large number of cable operators offer domestic and international programming; the public radio broadcaster operates 3 stations; there are 4 privately owned national radio stations that broadcast and 60 regional and local operators (2023)<br>
+public TV broadcaster Macedonian Radio and Television operates 5 national terrestrial TV channels and 2 satellite TV channels; 11 regional TV stations broadcast nationally; 29 regional and local broadcasters; a large number of cable operators offer domestic and international programming; the public radio broadcaster operates 3 stations; 4 privately owned national radio stations and 60 regional and local operators (2023)<br>
 
 **Internet country code**<br>
 .mk<br>
@@ -634,19 +629,13 @@ Z3<br>
 **Heliports**<br>
 13 (2025)<br>
 
-**Pipelines**<br>
-262 km gas, 120 km oil (2017)<br>
-
 **Railways**<br>
 _total_: 699 km (2020) 313 km electrified<br>
-
-**Roadways**<br>
-_total_: 15,170 km (2022)<br>
 
 ## Military and Security
 
 **Military and security forces**<br>
-Army of the Republic of North Macedonia (ARSM or ARNM): joint force with air, ground, reserve, special operations, and support forces (2024)<br>
+Army of the Republic of North Macedonia (ARSM or ARNM): joint force with air, ground, reserve, special operations, and support forces (2025)<br>
 <strong>note: </strong>the Police of Macedonia maintain internal security, including migration and border enforcement, and report to the Ministry of the Interior<br>
 
 **Military expenditures**<br>

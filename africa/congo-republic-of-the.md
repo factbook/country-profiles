@@ -108,10 +108,10 @@ _15-64 years_: 57.8% (male 1,770,337/female 1,756,925)<br>
 _65 years and over_: 4.3% (2024 est.) (male 113,338/female 151,099)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 78.8<br>
-_youth dependency ratio_: 74<br>
-_elderly dependency ratio_: 4.8<br>
-_potential support ratio_: 20.9 (2021 est.)<br>
+_total dependency ratio_: 72.9 (2024 est.)<br>
+_youth dependency ratio_: 65.4 (2024 est.)<br>
+_elderly dependency ratio_: 7.5 (2024 est.)<br>
+_potential support ratio_: 13.3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 20.7 years (2024 est.)<br>
@@ -238,7 +238,7 @@ _female_: 11 years (2012)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution from vehicle emissions; water pollution from raw sewage; tap water is not potable; deforestation; wildlife protection<br>
+air pollution from vehicle emissions; water pollution from raw sewage; tap water not potable; deforestation; wildlife protection<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
@@ -261,12 +261,6 @@ _rate of urbanization_: 3.19% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to floods -</em> above average rainfall amounts since November 2022 triggered flooding in December 2022 and January 2023 in central and northern parts of the country, displacing people; according to damage assessment reports, about 165,000 people have been affected in 23 districts in the departments of Cuvette, Likouala, Plateaux and Sangha (2023)<br>
-
-**Revenue from forest resources**<br>
-3.17% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 29.48 micrograms per cubic meter (2019 est.)<br>
@@ -312,7 +306,7 @@ presidential republic<br>
 _name_: Brazzaville<br>
 _geographic coordinates_: 4 15 S, 15 17 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named after the Italian-born French explorer and humanitarian, Pierre Savorgnan de BRAZZA (1852-1905), who promoted French colonial interests in central Africa and worked against slavery and the abuse of African laborers<br>
+_etymology_: named after the Italian-born French explorer and humanitarian, Pierre Savorgnan de BRAZZA (1852-1905), who founded the town in 1883<br>
 
 **Administrative divisions**<br>
 12 departments (departments, singular - department); Bouenza, Brazzaville, Cuvette, Cuvette-Ouest, Kouilou, Lekoumou, Likouala, Niari, Plateaux, Pointe-Noire, Pool, Sangha<br>
@@ -324,7 +318,7 @@ _etymology_: named after the Italian-born French explorer and humanitarian, Pier
 Independence Day, 15 August (1960)<br>
 
 **Legal system**<br>
-mixed legal system of French civil law and customary law<br>
+mixed system of French civil law and customary law<br>
 
 **Constitution**<br>
 _history_: several previous; latest approved by referendum 25 October 2015<br>
@@ -444,8 +438,8 @@ $15.321 billion (2023 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 4.3% (2023 est.)<br>
-3.04% (2022 est.)<br>
-1.72% (2021 est.)<br>
+3% (2022 est.)<br>
+1.7% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -481,19 +475,19 @@ petroleum extraction, cement, lumber, brewing, sugar, palm oil, soap, flour, cig
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.48 million (2023 est.)<br>
+2.563 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-20.05% (2023 est.)<br>
-20.26% (2022 est.)<br>
-22.08% (2021 est.)<br>
+19.7% (2024 est.)<br>
+19.9% (2023 est.)<br>
+20.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 41.2% (2023 est.)<br>
-_male_: 42.4% (2023 est.)<br>
-_female_: 40.1% (2023 est.)<br>
+_total_: 40% (2024 est.)<br>
+_male_: 41% (2024 est.)<br>
+_female_: 39% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
@@ -511,7 +505,7 @@ _expenditures_: $2.409 billion (2020 est.)<br>
 130.8% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-6.51% (of GDP) (2021 est.)<br>
+6.5% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -555,16 +549,16 @@ $828.56 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$6.75 billion (2023 est.)<br>
+$6.36 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
+606.345 (2024 est.)<br>
 606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
-585.911 (2019 est.)<br>
 
 ## Energy
 
@@ -637,33 +631,15 @@ _subscriptions per 100 inhabitants_: 1 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 3 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 12<br>
-_annual passenger traffic on registered air carriers_: 333,899 (2018)<br>
-_annual freight traffic on registered air carriers_: 4.6 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 TN<br>
 
 **Airports**<br>
 56 (2025)<br>
 
-**Pipelines**<br>
-232 km gas, 4 km liquid petroleum gas, 982 km oil (2013)<br>
-
 **Railways**<br>
 _total_: 510 km (2014)<br>
 _narrow gauge_: 510 km (2014) 1.067-m gauge<br>
-
-**Roadways**<br>
-_total_: 23,324 km<br>
-_paved_: 3,111 km<br>
-_unpaved_: 20,213 km (2017)<br>
-<strong>note:</strong> road network in Congo is composed of 23,324 km of which 17,000 km are classified as national, departmental, and routes of local interest: 6,324 km are non-classified routes<br>
-
-**Waterways**<br>
-1,120 km (2011) (commercially navigable on Congo and Oubangui Rivers above Brazzaville; there are many ferries across the river to Kinshasa; the Congo south of Brazzaville-Kinshasa to the coast is not navigable because of rapids, necessitating a rail connection to Pointe-Noire; other rivers are used for local traffic only)<br>
 
 **Merchant marine**<br>
 _total_: 11 (2023)<br>
@@ -692,7 +668,7 @@ Congolese Armed Forces (Forces Armees Congolaises, FAC): Army, Navy, Congolese A
 2.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 12-14,000 active-duty troops (including about 4,000 Gendarmerie) (2024)<br>
+approximately 12-14,000 active troops, including Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAC has mostly Soviet-era armaments, with a small mix of Chinese, French, and South African equipment (2024)<br>

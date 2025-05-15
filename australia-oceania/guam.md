@@ -95,10 +95,10 @@ _15-64 years_: 62.7% (male 55,591/female 50,741)<br>
 _65 years and over_: 10.9% (2024 est.) (male 8,615/female 9,814)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 60.7<br>
-_youth dependency ratio_: 42.3<br>
-_elderly dependency ratio_: 18.4<br>
-_potential support ratio_: 5.4 (2021 est.)<br>
+_total dependency ratio_: 59.4 (2024 est.)<br>
+_youth dependency ratio_: 42.1 (2024 est.)<br>
+_elderly dependency ratio_: 17.3 (2024 est.)<br>
+_potential support ratio_: 5.8 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 30.3 years (2024 est.)<br>
@@ -186,7 +186,7 @@ _female_: NA<br>
 ## Environment
 
 **Environment - current issues**<br>
-fresh water scarcity; reef damage; inadequate sewage treatment; extermination of native bird populations by the rapid proliferation of the brown tree snake, an exotic, invasive species<br>
+freshwater scarcity; reef damage; inadequate sewage treatment; rapid proliferation of the non-native brown tree snake&nbsp;<br>
 
 **Climate**<br>
 tropical marine; generally warm and humid, moderated by northeast trade winds; dry season (January to June), rainy season (July to December); little seasonal temperature variation<br>
@@ -202,12 +202,6 @@ _other_: 18.5% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 95.2% of total population (2022)<br>
 _rate of urbanization_: 0.84% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 141,500 tons (2012 est.)<br>
@@ -228,13 +222,13 @@ _etymology_: the native Chamorro name for the island, Guahan (meaning "we have")
 unincorporated organized territory of the US with local self-government; republican form of territorial government with separate executive, legislative, and judicial branches<br>
 
 **Dependency status**<br>
-unincorporated organized territory of the US with policy relations between Guam and the Federal Government under the jurisdiction of the Office of Insular Affairs, US Department of the Interior, Washington, DC<br>
+unincorporated, organized territory of the US, with policy relations between Guam and the Federal government under the jurisdiction of the Office of Insular Affairs, US Department of the Interior<br>
 
 **Capital**<br>
 _name_: Hagatna (Agana)<br>
 _geographic coordinates_: 13 28 N, 144 44 E<br>
 _time difference_: UTC+10 (15 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name is derived from the Chamoru word "haga," meaning "blood", and may refer to the bloodlines of the various families that established the original settlement<br>
+_etymology_: the name Hagatna is derived from the Chamorro word <em>haga</em>, meaning "life's blood" and referring to the town's role as the center of government for the island <br>
 
 **Administrative divisions**<br>
 none (territory of the US)<br>
@@ -258,7 +252,7 @@ see United States<br>
 18 years of age; universal; note - Guamanians are US citizens but do not vote in US presidential elections<br>
 
 **Executive branch**<br>
-_chief of state_: President Joseph R. BIDEN Jr. (since 20 January 2021)<br>
+_chief of state_: President Donald J. TRUMP (since 20 January 2025)<br>
 _head of government_: Governor Lourdes LEON GUERRERO (since 7 January 2019)<br>
 _cabinet_: Cabinet appointed by the governor with the consent of the Legislature<br>
 _elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state to serve a 4-year term (eligible for a second term); under the US Constitution, residents of unincorporated territories, such as Guam, do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican presidential primary elections; governor and lieutenant governor elected on the same ballot by absolute majority vote in 2 rounds if needed for a 4-year term (eligible for 2 consecutive terms); gubernatorial election last held on 8 November 2022 (next to be held on 3 November 2026)<br>
@@ -355,19 +349,19 @@ national defense, tourism, construction, transshipment services, concrete produc
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-77,000 (2023 est.)<br>
+77,700 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.42% (2023 est.)<br>
-5.53% (2022 est.)<br>
-6% (2021 est.)<br>
+5.6% (2024 est.)<br>
+5.4% (2023 est.)<br>
+5.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.9% (2023 est.)<br>
-_male_: 12.6% (2023 est.)<br>
-_female_: 13.2% (2023 est.)<br>
+_total_: 13.7% (2024 est.)<br>
+_male_: 13.3% (2024 est.)<br>
+_female_: 14.1% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
@@ -385,9 +379,9 @@ _expenditures_: $1.299 billion (2016 est.)<br>
 21.4% (of GDP) (2016 est.)<br>
 
 **Exports**<br>
-$186 million (2021 est.)<br>
-$371 million (2020 est.)<br>
-$1.403 billion (2019 est.)<br>
+$545 million (2022 est.)<br>
+$193 million (2021 est.)<br>
+$379 million (2020 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -399,9 +393,9 @@ scrap iron, scrap copper, trunks and cases (2023)<br>
 <strong>note:</strong> top export commodities based on value in dollars over $500,000<br>
 
 **Imports**<br>
-$3.667 billion (2021 est.)<br>
-$3.383 billion (2020 est.)<br>
-$3.552 billion (2019 est.)<br>
+$4.421 billion (2022 est.)<br>
+$3.662 billion (2021 est.)<br>
+$3.388 billion (2020 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -456,7 +450,7 @@ _domestic_: fixed-line subscriptions 41 per 100 and 62 per 100 mobile-cellular s
 _international_: country code - 1-671; major landing points for Atisa, HANTRU1, HK-G, JGA-N, JGA-S, PIPE-1, SEA-US, SxS, Tata TGN-Pacific, AJC, GOKI, AAG, AJC and Mariana-Guam Cable submarine cables between Asia, Australia, and the US (Guam is a transpacific communications hub for major carriers linking the US and Asia); satellite earth stations - 2 Intelsat (Pacific Ocean) (2019)<br>
 
 **Broadcast media**<br>
-about a dozen TV channels, including digital channels; multi-channel cable TV services are available; roughly 20 radio stations<br>
+about a dozen TV channels, including digital; multi-channel cable TV services are available; roughly 20 radio stations<br>
 
 **Internet country code**<br>
 .gu<br>
@@ -478,9 +472,6 @@ N<br>
 
 **Heliports**<br>
 2 (2025)<br>
-
-**Roadways**<br>
-_total_: 1,045 km (2008)<br>
 
 **Merchant marine**<br>
 _total_: 3 (2023)<br>

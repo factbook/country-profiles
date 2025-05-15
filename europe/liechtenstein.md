@@ -100,10 +100,10 @@ _15-64 years_: 63.9% (male 12,814/female 12,921)<br>
 _65 years and over_: 20.8% (2024 est.) (male 3,846/female 4,547)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 50.2<br>
-_youth dependency ratio_: 21.8<br>
-_elderly dependency ratio_: 28.3<br>
-_potential support ratio_: 3.5 (2021)<br>
+_total dependency ratio_: 56.5 (2024 est.)<br>
+_youth dependency ratio_: 23.9 (2024 est.)<br>
+_elderly dependency ratio_: 32.6 (2024 est.)<br>
+_potential support ratio_: 3.1 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 44.2 years (2024 est.)<br>
@@ -223,9 +223,6 @@ _other_: 25.8% (2022 est.)<br>
 _urban population_: 14.6% of total population (2023)<br>
 _rate of urbanization_: 1.15% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-0% of GDP (2017 est.)<br>
-
 **Air pollutants**<br>
 _carbon dioxide emissions_: 0.05 megatons (2016 est.)<br>
 _methane emissions_: 0.02 megatons (2020 est.)<br>
@@ -261,7 +258,7 @@ _name_: Vaduz<br>
 _geographic coordinates_: 47 08 N, 9 31 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: may be a conflation from the Latin <em>vallis</em> (valley) and the High German <em>diutisk</em> (meaning "German") to produce <em>Valdutsch</em> ("German valley"), which over time simplified and came to refer specifically to Vaduz, the town<br>
+_etymology_: may be a conflation from the Latin <em>vallis</em> (valley) and the Old German <em>dutsch</em> (German) to produce <em>Valdutsch</em> ("German valley"), which was simplified over time to Vaduz<br>
 
 **Administrative divisions**<br>
 11 communes (Gemeinden, singular - Gemeinde); Balzers, Eschen, Gamprin, Mauren, Planken, Ruggell, Schaan, Schellenberg, Triesen, Triesenberg, Vaduz<br>
@@ -343,7 +340,7 @@ _lyrics/music_: Jakob Joseph JAUCH/Josef FROMMELT<br>
 <strong>note:</strong> adopted 1850, revised 1963; uses the tune of "God Save the King"<br>
 
 **National coat of arms**<br>
-<p>The six motifs on Liechtenstein‘s coat of arms provide a history of the royal House of Liechtenstein since 1719, when the country was founded. The small shield at the center is the royal family’s gold-and-red coat of arms, the gold-crowned eagle signifies the Silesia family, the diamond wreath represents the Kuenringer family, the red-and-silver shield is the Duchy of Troppau, the black eagle comes from the coat of arms of a family that married into the royal line, and the golden hunting horn represents the Duchy of Jägerndorf.</p> <p> </p><br>
+<p>The six motifs on Liechtenstein's coat of arms provide a history of the royal House of Liechtenstein since 1719, when the country was founded. The small shield at the center is the royal family’s gold-and-red coat of arms, the gold-crowned eagle signifies the Silesia family, the diamond wreath represents the Kuenringer family, the red-and-silver shield is the Duchy of Troppau, the black eagle comes from the coat of arms of a family that married into the royal line, and the golden hunting horn represents the Duchy of Jägerndorf.</p> <p> </p><br>
 
 ## Economy
 
@@ -380,14 +377,6 @@ electronics, metal manufacturing, dental products, ceramics, pharmaceuticals, fo
 4.3% (2014 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
-**Labor force**<br>
-38,520 (2015 est.)<br>
-<strong>note:</strong> 51% of the labor force in Liechtenstein commute daily from Austria, Switzerland, and Germany<br>
-
-**Unemployment rate**<br>
-2.4% (2015)<br>
-2.4% (2014)<br>
-
 **Exports**<br>
 $3.217 billion (2015 est.)<br>
 $3.774 billion (2014 est.)<br>
@@ -406,11 +395,11 @@ agricultural products, raw materials, energy products, machinery, metal goods, t
 
 **Exchange rates**<br>
 _Currency_: Swiss francs (CHF) per US dollar -<br>
+0.88 (2024 est.)<br>
 0.898 (2023 est.)<br>
 0.955 (2022 est.)<br>
 0.914 (2021 est.)<br>
 0.939 (2020 est.)<br>
-0.994 (2019 est.)<br>
 
 ## Energy
 
@@ -434,7 +423,7 @@ _international_: country code - 423; linked to&nbsp;Swiss networks by cable and 
 <strong>n</strong><br>
 
 **Broadcast media**<br>
-relies on foreign terrestrial and satellite broadcasters for most broadcast media services; first Liechtenstein-based TV station established August 2008; Radio Liechtenstein operates multiple radio stations; a Swiss-based broadcaster operates one radio station in Liechtenstein<br>
+relies on foreign terrestrial and satellite broadcasters for most broadcast media services; first Liechtenstein-based TV station established in 2008; Radio Liechtenstein operates multiple radio stations; a Swiss-based broadcaster operates one radio station<br>
 
 **Internet country code**<br>
 .li<br>
@@ -454,19 +443,10 @@ HB<br>
 **Heliports**<br>
 2 (2025)<br>
 
-**Pipelines**<br>
-434.5 km gas (2018)<br>
-
 **Railways**<br>
 _total_: 9 km (2018)<br>
 _standard gauge_: 9 km (2018) 1.435-m gauge (electrified)<br>
 <strong>note:</strong> belongs to the Austrian Railway System connecting Austria and Switzerland<br>
-
-**Roadways**<br>
-_total_: 420 km (2022)<br>
-
-**Waterways**<br>
-28 km (2010)<br>
 
 **Merchant marine**<br>
 _total_: 17 (2023)<br>
@@ -475,7 +455,7 @@ _by type_: bulk carrier 14, general cargo 1, other 2 (includes Switzerland)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; the National Police maintain internal security and report to the Department of Civil Defense<br>
+no regular military forces; National Police of the Principality of Liechtenstein (Landespolizei des F&uuml;rstentums Liechtenstein)<br>
 
 ## Transnational Issues
 

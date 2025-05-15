@@ -96,10 +96,10 @@ _15-64 years_: 62.8% (male 271,139/female 294,231)<br>
 _65 years and over_: 4.6% (2024 est.) (male 18,139/female 23,526)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 74.1<br>
-_youth dependency ratio_: 66.6<br>
-_elderly dependency ratio_: 7.5<br>
-_potential support ratio_: 13.3 (2021 est.)<br>
+_total dependency ratio_: 59.2 (2024 est.)<br>
+_youth dependency ratio_: 51.8 (2024 est.)<br>
+_elderly dependency ratio_: 7.4 (2024 est.)<br>
+_potential support ratio_: 13.6 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 22.7 years (2024 est.)<br>
@@ -218,7 +218,7 @@ _female_: 11 years (2014)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation; soil degradation and erosion results from forest loss and from crop cultivation on slopes without proper terracing; marine biodiversity affected as soil erosion leads to the silting of coral reefs<br>
+deforestation; soil degradation and erosion from forest loss and crop cultivation on slopes without proper terracing; silting of coral reefs<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -238,12 +238,6 @@ _other_: 11.3% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 30.1% of total population (2023)<br>
 _rate of urbanization_: 2.97% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-1.39% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 14.37 micrograms per cubic meter (2019 est.)<br>
@@ -318,14 +312,14 @@ _election results_: <em><br>2024: </em>AZALI Assoumani reelected president in fi
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_legislature name_: Assembly of the Union (Assembl&eacute;e de l'Union)<br>
+_legislature name_: Assembly of the Union (Assemblée de l'Union)<br>
 _legislative structure_: unicameral<br>
 _number of seats_: 33 (all directly elected)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 1/12/2025 to 2/16/2025<br>
-_parties elected and seats per party_: Convention for the Renewal of the Comoros (CRC) (20); Orange Party (2); Independents (2)<br>
+_parties elected and seats per party_: Convention for the Renewal of the Comoros (CRC) (31); Other (2)<br>
 _percentage of women in chamber_: 15.2%<br>
 _expected date of next election_: January 2030<br>
 note: opposition parties, which claimed there was "gross fraud" during the most recent election, boycotted the elections in 2020 and 2025<br>
@@ -423,19 +417,19 @@ fishing, tourism, perfume distillation<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-235,000 (2023 est.)<br>
+276,400 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.8% (2023 est.)<br>
-5.85% (2022 est.)<br>
-5.86% (2021 est.)<br>
+3.9% (2024 est.)<br>
+3.8% (2023 est.)<br>
+3.8% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.9% (2023 est.)<br>
-_male_: 9.9% (2023 est.)<br>
-_female_: 12.2% (2023 est.)<br>
+_total_: 8.9% (2024 est.)<br>
+_male_: 8.3% (2024 est.)<br>
+_female_: 9.6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -498,22 +492,22 @@ refined petroleum, poultry, rice, flavored water, additive manufacturing machine
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$322.436 million (2024 est.)<br>
 $324.561 million (2023 est.)<br>
 $283.746 million (2022 est.)<br>
-$329.672 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$319.436 million (2023 est.)<br>
+$267.652 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Comoran francs (KMF) per US dollar -<br>
+454.524 (2024 est.)<br>
 454.991 (2023 est.)<br>
 467.184 (2022 est.)<br>
 415.956 (2021 est.)<br>
 430.721 (2020 est.)<br>
-439.463 (2019 est.)<br>
 
 ## Energy
 
@@ -573,20 +567,11 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 9<br>
-
 **Civil aircraft registration country code prefix**<br>
 D6<br>
 
 **Airports**<br>
 3 (2025)<br>
-
-**Roadways**<br>
-_total_: 849 km<br>
-_paved_: 673 km<br>
-_unpaved_: 207 km (2019)<br>
 
 **Merchant marine**<br>
 _total_: 273 (2023)<br>

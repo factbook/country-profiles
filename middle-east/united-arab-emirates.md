@@ -71,7 +71,7 @@ population is heavily concentrated to the northeast on the Musandam Peninsula; t
 frequent sand and dust storms<br>
 
 **Geography - note**<br>
-strategic location along southern approaches to Strait of Hormuz, a vital transit point for world crude oil; Abu Zaby (Abu Dhabi) and Dubayy (Dubai) together account for over 90% of the area of the country and two-thirds of the population<br>
+strategic location along southern approaches to Strait of Hormuz, a transit point for crude oil; Abu Zaby (Abu Dhabi) and Dubayy (Dubai) together account for over 90% of UAE's area and two-thirds of the population<br>
 
 ## People and Society
 
@@ -102,10 +102,10 @@ _15-64 years_: 81.4% (male 5,812,470/female 2,353,750)<br>
 _65 years and over_: 2.2% (2024 est.) (male 169,084/female 52,030)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 20.3<br>
-_youth dependency ratio_: 18.2<br>
-_elderly dependency ratio_: 2.1<br>
-_potential support ratio_: 47.3 (2021 est.)<br>
+_total dependency ratio_: 22.9 (2024 est.)<br>
+_youth dependency ratio_: 20.1 (2024 est.)<br>
+_elderly dependency ratio_: 2.7 (2024 est.)<br>
+_potential support ratio_: 36.9 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 35.8 years (2024 est.)<br>
@@ -159,9 +159,6 @@ _female_: 81.4 years<br>
 
 **Gross reproduction rate**<br>
 0.78 (2024 est.)<br>
-
-**Contraceptive prevalence rate**<br>
-NA<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: NA<br>
@@ -221,7 +218,7 @@ _female_: 17 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution; rapid population growth and high energy demand contribute to water scarcity; lack of natural freshwater resources compensated by desalination plants; land degradation and desertification; waste generation, beach pollution from oil spills<br>
+air pollution; water scarcity; lack of natural freshwater resources; land degradation and desertification; waste generation, beach pollution from oil spills<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -241,12 +238,6 @@ _other_: 90% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 87.8% of total population (2023)<br>
 _rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 41.75 micrograms per cubic meter (2019 est.)<br>
@@ -275,7 +266,7 @@ _local long form_: Al Imarat al Arabiyah al Muttahidah<br>
 _local short form_: none<br>
 _former_: Trucial Oman, Trucial States<br>
 _abbreviation_: UAE<br>
-_etymology_: self-descriptive country name; the name "Arabia" can be traced back many centuries B.C., the ancient Egyptians referred to the region as "Ar Rabi"; "emirates" derives from "amir" the Arabic word for "commander," "lord," or "prince"<br>
+_etymology_: self-descriptive country name; the name Arabia can be traced back at least as far as the ancient Egyptians, who referred to the region as "Ar Rabi;" "emirates" derives from <em>amir</em>, the Arabic word for "commander," "lord," or "prince;" the former name, Trucial States, refers to a maritime truce from 1820 between the British and the Arab sheikhdoms<br>
 
 **Government type**<br>
 federation of monarchies<br>
@@ -284,7 +275,7 @@ federation of monarchies<br>
 _name_: Abu Dhabi<br>
 _geographic coordinates_: 24 28 N, 54 22 E<br>
 _time difference_: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: in Arabic, <em>abu</em> means "father" and <em>dhabi</em> refers to "gazelle"; the name may derive from an abundance of gazelles that used to live in the area, as well as a folk tale involving the "Father of the Gazelle," Shakhbut BIN DHIYAB AL NAHYAN, whose hunting party tracked a gazelle to a spring on the island where Abu Dhabi was founded<br>
+_etymology_: in Arabic, <em>abu</em> means "father," and <em>dhabi</em> refers to a personal name, Dhabi or Zabi, that comes from the word <em>zab</em>, or "gazelle" <br>
 
 **Administrative divisions**<br>
 7 emirates (imarat, singular - imarah); Abu Zaby (Abu Dhabi), 'Ajman, Al Fujayrah, Ash Shariqah (Sharjah), Dubayy (Dubai), Ra's al Khaymah, Umm al Qaywayn<br>
@@ -296,7 +287,7 @@ _etymology_: in Arabic, <em>abu</em> means "father" and <em>dhabi</em> refers to
 Independence Day (National Day), 2 December (1971)<br>
 
 **Legal system**<br>
-mixed legal system of Islamic (sharia) law and civil law<br>
+mixed system of Islamic (sharia) law and civil law<br>
 
 **Constitution**<br>
 _history_: previous 1971 (provisional); latest drafted in 1979, became permanent May 1996<br>
@@ -405,9 +396,9 @@ $514.13 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-1.63% (2023 est.)<br>
-5.29% (2022 est.)<br>
-0.18% (2021 est.)<br>
+1.6% (2023 est.)<br>
+5.3% (2022 est.)<br>
+0.2% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -443,19 +434,19 @@ petroleum and petrochemicals; fishing, aluminum, cement, fertilizer, commercial 
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-7.248 million (2023 est.)<br>
+7.077 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.71% (2023 est.)<br>
-2.87% (2022 est.)<br>
-3.11% (2021 est.)<br>
+2.1% (2024 est.)<br>
+2.2% (2023 est.)<br>
+2.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.7% (2023 est.)<br>
-_male_: 6.7% (2023 est.)<br>
-_female_: 22.9% (2023 est.)<br>
+_total_: 6.4% (2024 est.)<br>
+_male_: 4.1% (2024 est.)<br>
+_female_: 12.1% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -481,7 +472,7 @@ _expenditures_: $19.483 billion (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-0.58% (of GDP) (2022 est.)<br>
+0.6% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -489,9 +480,9 @@ $26.47 billion (2017 est.)<br>
 $13.23 billion (2016 est.)<br>
 
 **Exports**<br>
-$335.238 billion (2020 est.)<br>
-$404.046 billion (2019 est.)<br>
-$392.863 billion (2018 est.)<br>
+$558.402 billion (2023 est.)<br>
+$521.897 billion (2022 est.)<br>
+$425.156 billion (2021 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -503,9 +494,9 @@ crude petroleum, refined petroleum, gold, broadcasting equipment, natural gas (2
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$246.886 billion (2020 est.)<br>
-$295.6 billion (2019 est.)<br>
-$281.536 billion (2018 est.)<br>
+$481.852 billion (2023 est.)<br>
+$427.992 billion (2022 est.)<br>
+$347.529 billion (2021 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -517,18 +508,18 @@ gold, broadcasting equipment, cars, refined petroleum, diamonds (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$231.69 billion (2024 est.)<br>
 $189.491 billion (2023 est.)<br>
 $138.433 billion (2022 est.)<br>
-$131.117 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Emirati dirhams (AED) per US dollar -<br>
-3.673 (2023 est.)<br>
-3.673 (2022 est.)<br>
-3.673 (2021 est.)<br>
-3.673 (2020 est.)<br>
-3.673 (2019 est.)<br>
+3.672 (2024 est.)<br>
+3.672 (2023 est.)<br>
+3.672 (2022 est.)<br>
+3.672 (2021 est.)<br>
+3.672 (2020 est.)<br>
 
 ## Energy
 
@@ -589,12 +580,12 @@ _total subscriptions_: 21.2 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 212 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the UAE has a strong mobile market; while the 5G penetration rate is the second highest globally after China; this has underpinned growth in the mobile broadband sector, and has enabled the strong development in the take-up of rich content and applications, as well as m-commerce; to help increase the capacity of 5G networks in coming years, and so keep up with data demand, the government has allowed for the GSM networks to be closed down and for spectrum and other assets to be re-purposed for 5G by the end of 2022; the fixed-broadband network in the UAE is dominated by fiber, with DSL having a minor and declining presence; this focus on a fully fiber infrastructure has also facilitated growth in e-commerce, and has supported the government&rsquo;s long-term aim of transitioning the economy from its dependence on oil to being knowledge-based and supported by digital services; the country stands to benefit from having signed the Abraham Accord Declaration with Israel, which aims to normalize relations between the two countries; such benefits can be seen in the agreement to enable local ISPs to access Bezeq International&rsquo;s submarine cable infrastructure, and so improve direct connectivity to Europe, South East Asia, and Africa; the UAE&rsquo;s ISPs can also access Bezeq International&rsquo;s data center in Tel Aviv, improving internet services (2022)<br>
+_general assessment_: the UAE has a strong mobile market; while the 5G penetration rate is the second highest globally after China; this has underpinned growth in the mobile broadband sector, and has enabled the strong development in the take-up of rich content and applications, as well as e-commerce; to help increase the capacity of 5G networks in coming years, and so keep up with data demand, the government has allowed for the GSM networks to be closed down and for spectrum and other assets to be re-purposed for 5G by the end of 2022; the fixed-broadband network in the UAE is dominated by fiber, with DSL having a minor and declining presence; this focus on a fully fiber infrastructure has also facilitated growth in e-commerce, and has supported the government&rsquo;s long-term aim of transitioning the economy from its dependence on oil to being knowledge-based and supported by digital services; the country stands to benefit from having signed the Abraham Accord Declaration with Israel, which aims to normalize relations between the two countries; such benefits can be seen in the agreement to enable local ISPs to access Bezeq International&rsquo;s submarine cable infrastructure, and so improve direct connectivity to Europe, South East Asia, and Africa; the UAE&rsquo;s ISPs can also access Bezeq International&rsquo;s data center in Tel Aviv, improving internet services (2022)<br>
 _domestic_: fixed-line is 24 per 100 and mobile-cellular is 190 per 100 (2021)<br>
 _international_: country code - 971;&nbsp;landing points for the&nbsp;FLAG, SEA-ME-WE-3&nbsp;,-4 &amp; -5, Qater UAE&nbsp;Submarine Cable System, FALCON, FOG, Tat TGN-Gulf, OMRAN/EPEG Cable System, AAE-1, BBG, EIG, FEA, GBICS/MENA, IMEWE, Orient Express, TEAMS, TW1 and the UAE-Iran submarine cables, linking to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Indian) (2020)<br>
 
 **Broadcast media**<br>
-except for the many organizations now operating in media free zones in Abu Dhabi and Dubai, most TV and radio stations remain government-owned; widespread use of satellite dishes provides access to pan-Arab and other international broadcasts; restrictions since June 2017 on some satellite channels and websites originating from or otherwise linked to Qatar, but in early 2023 Abu Dhabi unblocked several sites, including Al Jazeera (2022)<br>
+most TV and radio stations state-owned, but many private organizations now operating in media free zones in Abu Dhabi and Dubai; widespread use of satellite dishes to access pan-Arab and other international broadcasts (2022)<br>
 
 **Internet country code**<br>
 .ae<br>
@@ -608,12 +599,6 @@ _subscriptions per 100 inhabitants_: 37 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 10 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 497<br>
-_annual passenger traffic on registered air carriers_: 95,533,069 (2018)<br>
-_annual freight traffic on registered air carriers_: 15,962,900,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 A6<br>
 
@@ -622,13 +607,6 @@ A6<br>
 
 **Heliports**<br>
 204 (2025)<br>
-
-**Pipelines**<br>
-533 km condensate, 3,277 km gas, 300 km liquid petroleum gas, 3287 km oil, 24 km oil/gas/water, 218 km refined products, 99 km water (2013)<br>
-
-**Roadways**<br>
-_total_: 4,080 km<br>
-_paved_: 4,080 km (2008) (includes 253 km of expressways)<br>
 
 **Merchant marine**<br>
 _total_: 655 (2023)<br>
@@ -646,8 +624,8 @@ _key ports_: Abu Zaby, Jabal Az Zannah/Ruways, Khawr Fakkan, Mina Jabal Ali, Zir
 ## Military and Security
 
 **Military and security forces**<br>
-United Arab Emirates Armed Forces: Land Forces, Navy Forces, Air Force, Presidential Guard (includes special operations forces)<br><br>Ministry of Interior: Coast Guard Forces, Critical Infrastructure and Coastal Patrol Agency (CICPA) (2024)<br>
-<strong>note:</strong> each emirate maintains a local police force called a general directorate, which is officially a branch of the federal Ministry of Interior; all emirate-level general directorates of police enforce their respective emirate’s laws autonomously; they also enforce federal laws within their emirate in coordination with one another under the federal ministry; the State Security Directorate (SSD) in Abu Dhabi and Dubai State Security (DSS) have primary responsible for counterterrorism law enforcement efforts; local, emirate-level police forces, especially the Abu Dhabi Police and Dubai Police, are the first responders in such cases and provide technical assistance to SSD and DSS<br>
+United Arab Emirates Armed Forces: Land Forces (Army), Navy, Air Force, Presidential Guard (includes special operations forces), National Guard (includes Coast Guard) (2024)<br>
+<strong>note: </strong>each emirate maintains a local police force called a general directorate, which is officially a branch of the federal Ministry of Interior; all emirate-level general directorates of police enforce their respective emirate’s laws autonomously; they also enforce federal laws within their emirate in coordination with one another under the federal ministry; the State Security Directorate (SSD) in Abu Dhabi and Dubai State Security (DSS) have primary responsibility for counterterrorism law enforcement efforts; local, emirate-level police forces, especially the Abu Dhabi Police and Dubai Police, are the first responders in such cases and provide technical assistance to SSD and DSS<br>
 
 **Military expenditures**<br>
 4% of GDP (2023 est.)<br>
@@ -657,13 +635,13 @@ United Arab Emirates Armed Forces: Land Forces, Navy Forces, Air Force, Presiden
 5.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 65,000 active personnel (45,000 Land Forces; 3,000 Navy; 5,000 Air Force; 12,000 Presidential Guard) (2024)<br>
+approximately 65,000 active personnel (45,000 Land Forces; 3,000 Navy; 5,000 Air Force; 12,000 Presidential Guard) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is comprised of a wide variety of mostly modern imported weapons and equipment, and a small, but expanding amount of domestically-produced items; major foreign suppliers have included China, France, Italy, Russia, South Africa, South Korea, Turkey, and the US; the UAE has a &nbsp;growing domestic defense industry which produces or co-produces such items as armored vehicles, naval vessels, precision munitions, and unmanned aerial vehicles/drones (2024)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for compulsory military service for men (compulsory service initiated in 2014); 18-40 for voluntary service; 36-month service obligation for men without a secondary education and 11 months for secondary school graduates; women may volunteer (11-month service obligation regardless of education) (2023)<br>
+18-30 years of age for compulsory national service for men (compulsory service initiated in 2014); 18-40 for voluntary service; 36-month service obligation for men without a secondary education and 11 months for secondary school graduates; women may volunteer for national service (11-month service obligation regardless of education) (2025)<br>
 <strong>note 1:</strong> compulsory service may be completed in the uniformed military, the Ministry of Interior, or other security institutions designated by the military leadership<br><br><strong>note 2:</strong> the UAE military employs a considerable number of foreign personnel on contracted service<br>
 
 **Military deployments**<br>

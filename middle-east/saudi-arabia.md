@@ -106,10 +106,10 @@ _15-64 years_: 72.7% (male 15,577,133/female 10,994,061)<br>
 _65 years and over_: 4.4% (2024 est.) (male 856,985/female 752,262)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 40.4<br>
-_youth dependency ratio_: 36.8<br>
-_elderly dependency ratio_: 3.7<br>
-_potential support ratio_: 27.4 (2021 est.)<br>
+_total dependency ratio_: 37.5 (2024 est.)<br>
+_youth dependency ratio_: 31.5 (2024 est.)<br>
+_elderly dependency ratio_: 6.1 (2024 est.)<br>
+_potential support ratio_: 16.5 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 32.4 years (2024 est.)<br>
@@ -214,7 +214,7 @@ _female_: 2% (2020 est.)<br>
 63.2% (2023 est.)<br>
 
 **Education expenditures**<br>
-7.8% of GDP (2020) NA<br>
+7.8% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -230,7 +230,7 @@ _female_: 16 years (2021)<br>
 ## Environment
 
 **Environment - current issues**<br>
-desertification; depletion of underground water resources; the lack of perennial rivers or permanent water bodies has prompted the development of extensive seawater desalination facilities; coastal pollution from oil spills; air pollution; waste management<br>
+desertification; depletion of underground water resources; limited freshwater resources; coastal pollution from oil spills; air pollution; waste management<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution<br>
@@ -250,12 +250,6 @@ _other_: 18.8% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 85% of total population (2023)<br>
 _rate of urbanization_: 1.69% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 57.16 micrograms per cubic meter (2019 est.)<br>
@@ -297,7 +291,7 @@ absolute monarchy<br>
 _name_: Riyadh<br>
 _geographic coordinates_: 24 39 N, 46 42 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name derives from the Arabic word "riyadh," meaning "gardens," and refers to various oasis towns in the area that merged to form the city<br>
+_etymology_: the name derives from the Arabic word <em>riyadh</em>, meaning "gardens;" the city was built around a small oasis<br>
 
 **Administrative divisions**<br>
 13 regions (manatiq, singular - mintaqah); Al Bahah, Al Hudud ash Shamaliyah (Northern Border), Al Jawf, Al Madinah al Munawwarah (Medina), Al Qasim, Ar Riyad (Riyadh), Ash Sharqiyah (Eastern), 'Asir, Ha'il, Jazan, Makkah al Mukarramah (Mecca), Najran, Tabuk<br>
@@ -309,7 +303,7 @@ _etymology_: the name derives from the Arabic word "riyadh," meaning "gardens," 
 Saudi National Day (Unification of the Kingdom), 23 September (1932)<br>
 
 **Legal system**<br>
-Islamic (sharia) legal system with some elements of Egyptian, French, and customary law; note - several secular codes have been introduced; commercial disputes handled by special committees<br>
+Islamic (sharia) system with some elements of Egyptian, French, and customary law; commercial disputes handled by special committees<br>
 
 **Constitution**<br>
 _history_: 1 March 1992 - Basic Law of Government, issued by royal decree, serves as the constitutional framework and is based on the Qur'an and the life and traditions of the Prophet Muhammad<br>
@@ -416,9 +410,9 @@ $1.068 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-2.33% (2023 est.)<br>
-2.47% (2022 est.)<br>
-3.06% (2021 est.)<br>
+1.7% (2024 est.)<br>
+2.3% (2023 est.)<br>
+2.5% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -454,19 +448,19 @@ crude oil production, petroleum refining, basic petrochemicals, ammonia, industr
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-15.553 million (2023 est.)<br>
+16.469 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.88% (2023 est.)<br>
-5.59% (2022 est.)<br>
-6.62% (2021 est.)<br>
+3.9% (2024 est.)<br>
+4% (2023 est.)<br>
+5.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.3% (2023 est.)<br>
-_male_: 12.9% (2023 est.)<br>
-_female_: 24.4% (2023 est.)<br>
+_total_: 13.8% (2024 est.)<br>
+_male_: 9.8% (2024 est.)<br>
+_female_: 23.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
@@ -488,17 +482,17 @@ _expenditures_: $315.007 billion (2022 est.)<br>
 17.2% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-7.77% (of GDP) (2022 est.)<br>
+8.9% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$34.07 billion (2023 est.)<br>
-$151.519 billion (2022 est.)<br>
-$41.718 billion (2021 est.)<br>
+$35.133 billion (2023 est.)<br>
+$150.353 billion (2022 est.)<br>
+$40.534 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$370.974 billion (2023 est.)<br>
+$368.731 billion (2023 est.)<br>
 $445.881 billion (2022 est.)<br>
 $286.502 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -512,8 +506,8 @@ crude petroleum, refined petroleum, plastics, alcohols, ships (2023)<br>
 <strong>note:</strong> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$291.565 billion (2023 est.)<br>
-$258.213 billion (2022 est.)<br>
+$289.91 billion (2023 est.)<br>
+$258.371 billion (2022 est.)<br>
 $213.516 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
@@ -526,18 +520,18 @@ cars, refined petroleum, gold, broadcasting equipment, packaged medicine (2023)<
 <strong>note:</strong> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$436.769 billion (2024 est.)<br>
 $457.949 billion (2023 est.)<br>
 $478.232 billion (2022 est.)<br>
-$473.89 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Saudi riyals (SAR) per US dollar -<br>
+3.75 (2024 est.)<br>
 3.75 (2023 est.)<br>
 3.75 (2022 est.)<br>
 3.75 (2021 est.)<br>
 3.75 (2020 est.)<br>
-3.75 (2019 est.)<br>
 
 ## Energy
 
@@ -596,7 +590,7 @@ _domestic_: fixed-line are 18 per 100 and mobile-cellular subscribership is 126 
 _international_: country code - 966; landing points for the SeaMeWe-3, -4, -5, AAE-1, EIG, FALCON, FEA, IMEWE, MENA/Gulf Bridge International, SEACOM, SAS-1, -2, GBICS/MENA, and the Tata TGN-Gulf submarine cables providing connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia; microwave radio relay to Bahrain, Jordan, Kuwait, Qatar, UAE, Yemen, and Sudan; coaxial cable to Kuwait and Jordan; satellite earth stations - 5 Intelsat (3 Atlantic Ocean and 2 Indian Ocean), 1 Arabsat, and 1 Inmarsat (Indian Ocean region) (2019)<br>
 
 **Broadcast media**<br>
-broadcast media are state-controlled; state-run TV operates 4 networks; Saudi Arabia is a major market for pan-Arab satellite TV broadcasters; state-run radio operates several networks; multiple international broadcasters are available<br>
+state-controlled broadcast media; state-run TV operates 4 networks; major market for pan-Arab satellite TV broadcasters; state-run radio with several networks; multiple international broadcasters available<br>
 
 **Internet country code**<br>
 .sa<br>
@@ -613,12 +607,6 @@ the innovative King Abdulaziz Center for World Culture (informally known as Ithr
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 12 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 230<br>
-_annual passenger traffic on registered air carriers_: 39,141,660 (2018)<br>
-_annual freight traffic on registered air carriers_: 1,085,470,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 HZ<br>
 
@@ -628,17 +616,9 @@ HZ<br>
 **Heliports**<br>
 69 (2025)<br>
 
-**Pipelines**<br>
-209 km condensate, 2,940 km gas, 1,183 km liquid petroleum gas, 5,117 km oil, 1,151 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 5,410 km (2016)<br>
 _standard gauge_: 5,410 km (2016) 1.435-m gauge (with branch lines and sidings)<br>
-
-**Roadways**<br>
-_total_: 221,372 km<br>
-_paved_: 47,529 km (includes 3,891 km of expressways)<br>
-_unpaved_: 173,843 km (2006)<br>
 
 **Merchant marine**<br>
 _total_: 433 (2023)<br>
@@ -656,7 +636,7 @@ _key ports_: Dammam, Duba, Jiddah, Jizan, Ju Aymah Oil Terminal, Ras Tannurah, R
 ## Military and Security
 
 **Military and security forces**<br>
-the Saudi Arabian Armed Forces (SAAF) are divided into two ministries:<br><br>Ministry of Defense: Royal Saudi Land Forces, Royal Saudi Naval Forces (includes marines, special forces, naval aviation), Royal Saudi Air Force, Royal Saudi Air Defense Forces, Royal Saudi Strategic Missiles Force; Ministry of the National Guard: Saudi Arabian National Guard (SANG)<br><br>Other security forces include: <br><br>Ministry of Interior: Special Forces for Security and Protection; Special Forces for Environmental Security; Special Forces for Roads Security; General Directorate of Border Guard<br><br>State Security Presidency (SSP): General Directorate of Investigation (Mabahith), Special Security Forces, Special Emergency Forces (2024)<br>
+the Saudi Arabian Armed Forces (SAAF) are divided into two ministries:<br><br>Ministry of Defense: Royal Saudi Land Forces, Royal Saudi Naval Forces (includes marines, special forces, naval aviation), Royal Saudi Air Force, Royal Saudi Air Defense Forces, Royal Saudi Strategic Missiles Force; Ministry of the National Guard: Saudi Arabian National Guard (SANG)<br><br>Other security forces include: <br><br>Ministry of Interior: Facilities Security Forces, Public Security Forces (police)<br><br>State Security Presidency (SSP): General Directorate of Investigation (Mabahith), Special Security Forces, Special Emergency Forces (2025)<br>
 <strong>note 1:</strong> the SANG (also known as the White Army) is a land force comprised off tribal elements loyal to the House of Saud; it is responsible for internal security, protecting the royal family, and external defense<br><br><strong>note 2:</strong> the SAAF includes the Saudi Royal Guard Command, a unit which provides security and protection to the ruling family and other dignitaries<br>
 
 **Military expenditures**<br>
@@ -667,8 +647,7 @@ the Saudi Arabian Armed Forces (SAAF) are divided into two ministries:<br><br>Mi
 8.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Saudi Armed Forces have about 250,000 total active troops; approximately 125,000 under the Ministry of Defense (75,000 Land Forces; 15,000 Naval Forces, including about 3,000 marines; 35,000 Air Force/Air Defense/Strategic Missile Forces) and up to 125,000 in the Saudi Arabia National Guard (SANG) (2023)<br>
-<strong>note:</strong> SANG also has an irregular force (Fowj), primarily Bedouin tribal volunteers, with a total strength of approximately 25,000<br>
+the Saudi Armed Forces have about 250,000 total active troops; approximately 125,000 under the Ministry of Defense and approximately 125,000 in the Saudi Arabia National Guard (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Saudi military forces, including the SANG, includes a mix of mostly modern weapons and equipment from Europe and the US; the US has been the largest supplier; major European suppliers have included France, Spain, and the UK; Saudi Arabia is one of the world's largest importers of arms (2024)<br>
@@ -682,7 +661,7 @@ men (17-40) and women (21-40) may volunteer for military service; no conscriptio
 continues to maintain a military presence in Yemen; has also established and supports several local militias, including the National Shield Forces in Aden and the Amajid Brigade in Abyan (2023)<br>
 
 **Military - note**<br>
-the Saudi Arabian Armed Forces (SAAF) are divided into the regular forces under the Ministry of Defense and the Saudi Arabian National Guard (SANG); the regular forces are responsible for territorial defense, although they can be called for domestic security duties if needed; they include land, naval, air, air defense, and strategic missile forces<br><br>the SANG is responsible for both internal security and external defense; its duties include protecting the royal family, guarding against military coups, defending strategic facilities and resources, and providing security for the cities of Mecca and Medina; the SANG is primarily comprised of tribal elements loyal to the Saud family and is comprised of brigades of light infantry, mechanized or motorized infantry, and security forces; it is supplemented by combat helicopter units and tribal levies/militias known as Fowj<br><br>Saudi Arabia has close security ties with the US; the SAAF conducts bilateral exercises with the US military and hosts US forces; the US has participated in a cooperative program to equip and train the SANG since 1973; much of the equipment for both the regular forces and the SANG has been acquired from the US; Saudi Arabia also has defense relationships with China, France, India, the UK, and fellow Gulf Cooperation Council members<br><br>in 2015, Saudi Arabia led a military intervention into Yemen by a coalition of Arab states in support of the Republic of Yemen Government against the separatist Houthis; Saudi forces from both the Ministry of Defense and the SANG participated in combat operations in Yemen; Saudi Arabia also raised and equipped paramilitary/militia security forces in Yemen--based largely on tribal or regional affiliation--to deploy along the Saudi-Yemen border (2024)<br>
+the Saudi Arabian Armed Forces (SAAF) are divided into the regular forces under the Ministry of Defense and the Saudi Arabian National Guard (SANG); the regular forces are responsible for territorial defense, although they can be called for domestic security duties if needed; they include land, naval, air, air defense, and strategic missile forces<br><br>the SANG is responsible for both internal security and external defense; its duties include protecting the royal family, guarding against military coups, defending strategic facilities and resources, and providing security for the cities of Mecca and Medina; the SANG is primarily comprised of tribal elements loyal to the Saud family and is comprised of brigades of light infantry, mechanized or motorized infantry, and security forces; it is supplemented by combat helicopter units and tribal levies/militias known as Fowj<br><br>Saudi Arabia has close security ties with the US; the SAAF conducts bilateral exercises with the US military and hosts US forces; the US has participated in a cooperative program to equip and train the SANG since 1973; much of the equipment for both the regular forces and the SANG has been acquired from the US; Saudi Arabia also has defense relationships with China, France, India, the UK, and fellow Gulf Cooperation Council (GCC) members; it is a member of the Peninsula Shield Forces, a joint military force established by the GCC countries with the aim of maintaining security and stability in the region; the force was established in 1982, and its leadership is based in Saudi Arabia<br><br>in 2015, Saudi Arabia led a military intervention into Yemen by a coalition of Arab states in support of the Republic of Yemen Government against the separatist Houthis; Saudi forces from both the Ministry of Defense and the SANG participated in combat operations in Yemen; Saudi Arabia also raised and equipped paramilitary/militia security forces in Yemen--based largely on tribal or regional affiliation--to deploy along the Saudi-Yemen border (2025)<br>
 
 ## Space
 

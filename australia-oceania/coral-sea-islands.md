@@ -63,13 +63,13 @@ important nesting area for birds and turtles<br>
 ## People and Society
 
 **Population**<br>
-_total_: (2021) no indigenous inhabitants<br>
-<strong>note:</strong> a staff of four operates the meteorological station on Willis Island<br>
+_total_: no permanent inhabitants<br>
+<strong>note:</strong> Willis Island is inhabited by meteorological staff<br>
 
 ## Environment
 
 **Environment - current issues**<br>
-no permanent freshwater resources; damaging activities include coral mining, destructive fishing practices (overfishing, blast fishing)<br>
+no permanent freshwater resources; damaging activities include coral mining, fishing practices (overfishing, blast fishing)<br>
 
 **Climate**<br>
 tropical<br>
@@ -89,7 +89,7 @@ _etymology_: self-descriptive name to reflect the islands' position in the Coral
 territory of Australia; administered from Canberra by the Department of Regional Australia, Local Government, Arts and Sport<br>
 
 **Legal system**<br>
-the common law legal system of Australia applies where applicable<br>
+the common law system of Australia applies<br>
 
 **Citizenship**<br>
 see Australia<br>

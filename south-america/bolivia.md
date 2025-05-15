@@ -78,7 +78,7 @@ a high altitude plain in the west between two cordillera of the Andes, known as 
 <p>flooding in the northeast (March to April)</p><p><strong>volcanism:</strong> volcanic activity in Andes Mountains on the border with Chile; historically active volcanoes in this region are Irruputuncu (5,163 m), which last erupted in 1995, and the Olca-Paruma volcanic complex (5,762 m to 5,167 m)</p><br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> landlocked; shares control of Lago Titicaca, world's highest navigable lake (elevation 3,805 m), with Peru<br><br><strong>note 2:</strong> the southern regions of Peru and the extreme northwestern part of Bolivia are considered to be the place of origin for the common potato, while southeast Bolivia and northwest Argentina seem to be the original development site for peanuts<br>
+landlocked; shares control of Lago Titicaca, world's highest navigable lake (elevation 3,805 m), with Peru<br>
 
 ## People and Society
 
@@ -108,10 +108,10 @@ _15-64 years_: 64.5% (male 4,002,587/female 3,937,953)<br>
 _65 years and over_: 7% (2024 est.) (male 397,384/female 463,166)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 56.3<br>
-_youth dependency ratio_: 48.7<br>
-_elderly dependency ratio_: 12<br>
-_potential support ratio_: 8.3 (2021 est.)<br>
+_total dependency ratio_: 55.1 (2024 est.)<br>
+_youth dependency ratio_: 44.2 (2024 est.)<br>
+_elderly dependency ratio_: 10.8 (2024 est.)<br>
+_potential support ratio_: 9.2 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 26.6 years (2024 est.)<br>
@@ -236,7 +236,7 @@ _female_: 88.6% (2015)<br>
 ## Environment
 
 **Environment - current issues**<br>
-the clearing of land for agricultural purposes and the international demand for tropical timber are contributing to deforestation; soil erosion from overgrazing and poor cultivation methods (including slash-and-burn agriculture); desertification; loss of biodiversity; industrial pollution of water supplies used for drinking and irrigation<br>
+deforestation from agricultural clearing and international demand for timber; soil erosion from overgrazing and poor cultivation methods (including slash-and-burn agriculture); desertification; loss of biodiversity; industrial pollution of water supplies used for drinking and irrigation<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands,<br>
@@ -256,12 +256,6 @@ _other_: 17.6% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 71.2% of total population (2023)<br>
 _rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.33% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 25.23 micrograms per cubic meter (2019 est.)<br>
@@ -308,7 +302,7 @@ presidential republic<br>
 _name_: La Paz (administrative capital); Sucre (constitutional [legislative and judicial] capital)<br>
 _geographic coordinates_: 16 30 S, 68 09 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: La Paz is a shortening of the original name of the city, Nuestra Señora de La Paz (Our Lady of Peace); Sucre is named after Antonio José de SUCRE (1795-1830), military hero in the independence struggle from Spain and the second president of Bolivia<br>
+_etymology_: La Paz is a shortening of the original name of the city, Pueblo Nuevo de Nuestra Señora de La Paz (New Town of Our Lady of Peace); Sucre is named after Antonio José de SUCRE (1795-1830), the second president of Bolivia<br>
 <strong>note:</strong> at approximately 3,630 m above sea level, La Paz's elevation makes it the highest capital city in the world<br>
 
 **Administrative divisions**<br>
@@ -321,7 +315,7 @@ _etymology_: La Paz is a shortening of the original name of the city, Nuestra Se
 Independence Day, 6 August (1825)<br>
 
 **Legal system**<br>
-civil law system with influences from Roman, Spanish, canon (religious), French, and indigenous law<br>
+civil law system with influences from Roman, Spanish, canon (religious), French, and ethnic groups' pre-colonial law<br>
 
 **Constitution**<br>
 _history_: many previous; latest drafted 6 August 2006 to 9 December 2008, approved by referendum 25 January 2009, effective 7 February 2009<br>
@@ -360,7 +354,7 @@ _term in office_: 5 years<br>
 _most recent election date_: 10/18/2020<br>
 _parties elected and seats per party_: Movement for Socialism (MAS-IPSP) (75); Civic Community (C.C) (39); Creemos (16)<br>
 _percentage of women in chamber_: 46.2%<br>
-_expected date of next election_: October 2025<br>
+_expected date of next election_: August 2025<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Chamber of Senators (Cámara de Senadores)<br>
@@ -371,7 +365,7 @@ _term in office_: 5 years<br>
 _most recent election date_: 10/18/2020<br>
 _parties elected and seats per party_: Movement for Socialism (MAS-IPSP) (21); Civic Community (C.C) (11); Creemos (4)<br>
 _percentage of women in chamber_: 55.6%<br>
-_expected date of next election_: October 2025<br>
+_expected date of next election_: August 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Tribunal Supremo de Justicia (consists of 12 judges<em> </em>organized into civil, penal, social, and administrative chambers); Plurinational Constitutional Tribunal (consists of 7 primary and 7 alternate magistrates); Plurinational Electoral Organ (consists of 7 members and 6 alternates); National Agro-Environment Court (consists of 5 primary and 5 alternate judges; Council of the Judiciary (consists of 3 primary and 3 alternate judges)<br>
@@ -446,9 +440,9 @@ $45.135 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-2.58% (2023 est.)<br>
-1.75% (2022 est.)<br>
-0.74% (2021 est.)<br>
+5.1% (2024 est.)<br>
+2.6% (2023 est.)<br>
+1.7% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -484,19 +478,19 @@ mining, smelting, electricity, petroleum, food and beverages, handicrafts, cloth
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-6.073 million (2023 est.)<br>
+6.859 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.08% (2023 est.)<br>
-3.55% (2022 est.)<br>
-5.09% (2021 est.)<br>
+3.1% (2024 est.)<br>
+3% (2023 est.)<br>
+3.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.3% (2023 est.)<br>
-_male_: 4.5% (2023 est.)<br>
-_female_: 6.3% (2023 est.)<br>
+_total_: 5.2% (2024 est.)<br>
+_male_: 4.8% (2024 est.)<br>
+_female_: 5.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -534,7 +528,7 @@ _expenditures_: $14.75 billion (2019 est.)<br>
 39.9% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
--$1.175 billion (2023 est.)<br>
+-$1.15 billion (2023 est.)<br>
 $939.084 million (2022 est.)<br>
 $1.581 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
@@ -568,22 +562,22 @@ refined petroleum, cars, pesticides, trucks, plastics (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$87.1 million (2024 est.)<br>
 $1.8 billion (2023 est.)<br>
 $3.752 billion (2022 est.)<br>
-$4.73 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$11.953 billion (2023 est.)<br>
+$11.174 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: bolivianos (BOB) per US dollar -<br>
+6.91 (2024 est.)<br>
 6.91 (2023 est.)<br>
 6.91 (2022 est.)<br>
 6.91 (2021 est.)<br>
 6.91 (2020 est.)<br>
-6.91 (2019 est.)<br>
 
 ## Energy
 
@@ -659,12 +653,6 @@ _subscriptions per 100 inhabitants_: 11 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 7 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 39<br>
-_annual passenger traffic on registered air carriers_: 4,122,113 (2018)<br>
-_annual freight traffic on registered air carriers_: 13.73 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 CP<br>
 
@@ -674,20 +662,9 @@ CP<br>
 **Heliports**<br>
 3 (2025)<br>
 
-**Pipelines**<br>
-5,457 km gas, 51 km liquid petroleum gas, 2,511 km oil, 1,627 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 3,960 km (2019)<br>
 _narrow gauge_: 3,960 km (2014) 1.000-m gauge<br>
-
-**Roadways**<br>
-_total_: 90,568 km<br>
-_paved_: 9,792 km<br>
-_unpaved_: 80,776 km (2017)<br>
-
-**Waterways**<br>
-10,000 km (2012) (commercially navigable almost exclusively in the northern and eastern parts of the country)<br>
 
 **Merchant marine**<br>
 _total_: 50 (2023)<br>
@@ -707,7 +684,7 @@ Bolivian Armed Forces (Fuerzas Armadas de Bolivia or FAB): Bolivian Army (Ejerci
 1.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 40,000 active-duty military personnel; approximately 40,000 National Police (2023)<br>
+approximately 35,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military is equipped with a mix of mostly older Brazilian, Chinese, European, and US equipment (2024)<br>

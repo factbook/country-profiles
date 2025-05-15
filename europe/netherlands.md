@@ -107,10 +107,10 @@ _15-64 years_: 64.1% (male 5,750,034/female 5,640,691)<br>
 _65 years and over_: 20.7% (2024 est.) (male 1,709,924/female 1,975,132)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 54.9<br>
-_youth dependency ratio_: 24<br>
-_elderly dependency ratio_: 30.9<br>
-_potential support ratio_: 3.2 (2021 est.)<br>
+_total dependency ratio_: 56 (2024 est.)<br>
+_youth dependency ratio_: 23.7 (2024 est.)<br>
+_elderly dependency ratio_: 32.4 (2024 est.)<br>
+_potential support ratio_: 3.1 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 42.2 years (2024 est.)<br>
@@ -234,7 +234,7 @@ _female_: 19 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-water and air pollution are significant environmental problems; pollution of the country's rivers from industrial and agricultural chemicals, including heavy metals, organic compounds, nitrates, and phosphates; air pollution from vehicles and refining activities<br>
+water pollution, including industrial and agricultural chemicals in rivers; air pollution from vehicles and refining activities<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -254,12 +254,6 @@ _other_: 35.4% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 93.2% of total population (2023)<br>
 _rate of urbanization_: 0.59% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.01% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 10.74 micrograms per cubic meter (2019 est.)<br>
@@ -303,12 +297,13 @@ _etymology_: the English name is derived from the country's Dutch name, which me
 parliamentary constitutional monarchy; part of the Kingdom of the Netherlands<br>
 
 **Capital**<br>
-_name_: Amsterdam; note - The Hague is the seat of government<br>
+_name_: Amsterdam<br>
 _geographic coordinates_: 52 21 N, 4 55 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
 _time zone note_: time descriptions apply to the continental Netherlands only, for the constituent countries in the Caribbean, the time difference is UTC-4<br>
-_etymology_: the original Dutch name, Amstellerdam, meaning "a dam on the Amstel River," dates to the 13th century; over time the name simplified to Amsterdam<br>
+_etymology_: the name is derived from the Dutch name of the local river, the Amstel, and the Dutch word <em>dam</em>, which has the same meaning in English; the river name is said to derive from the Germanic words <em>ama </em>(current) and <em>stelle </em>(place)<br>
+<strong>note:</strong> The Hague is the seat of government<br>
 
 **Administrative divisions**<br>
 12 provinces (provincies, singular - provincie), 3 public entities* (openbare lichamen, singular - openbaar lichaam (Dutch); entidatnan publiko, singular - entidat publiko (Papiamento)); Bonaire*, Drenthe, Flevoland, Fryslan (Friesland), Gelderland, Groningen, Limburg, Noord-Brabant (North Brabant), Noord-Holland (North Holland), Overijssel, Saba*, Sint Eustatius*, Utrecht, Zeeland (Zealand), Zuid-Holland (South Holland)<br>
@@ -440,9 +435,9 @@ $1.154 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-3.84% (2023 est.)<br>
+3.3% (2024 est.)<br>
+3.8% (2023 est.)<br>
 10% (2022 est.)<br>
-2.68% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -478,19 +473,19 @@ agroindustries, metal and engineering products, electrical machinery and equipme
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-10.017 million (2023 est.)<br>
+10.316 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.56% (2023 est.)<br>
-3.52% (2022 est.)<br>
-4.21% (2021 est.)<br>
+3.6% (2024 est.)<br>
+3.5% (2023 est.)<br>
+3.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.9% (2023 est.)<br>
-_male_: 9.4% (2023 est.)<br>
-_female_: 8.5% (2023 est.)<br>
+_total_: 8.2% (2024 est.)<br>
+_male_: 8.4% (2024 est.)<br>
+_female_: 7.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -526,7 +521,7 @@ _expenditures_: $398.696 billion (2022 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment, debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-23.26% (of GDP) (2022 est.)<br>
+24.8% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -564,18 +559,18 @@ crude petroleum, refined petroleum, broadcasting equipment, cars, natural gas (2
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$27.753 billion (2024 est.)<br>
 $69.83 billion (2023 est.)<br>
 $63.353 billion (2022 est.)<br>
-$64.469 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 
 ## Energy
 
@@ -647,7 +642,7 @@ _domestic_: fixed-line is 29 per 100 and mobile-cellular at 125 per 100 persons 
 _international_: country code - 31; landing points for Farland North, TAT-14, Circe North, Concerto, Ulysses 2, AC-1, UK-Netherlands 14, and COBRAcable submarine cables which provide links to the US and Europe; satellite earth stations - 5 (3 Intelsat - 1 Indian Ocean and 2 Atlantic Ocean, 1 Eutelsat, and 1 Inmarsat) (2019)<br>
 
 **Broadcast media**<br>
-more than 90% of households are connected to cable or satellite TV systems that provide a wide range of domestic and foreign channels; public service broadcast system includes multiple broadcasters, 3 with a national reach and the remainder operating in regional and local markets; 2 major nationwide commercial television companies, each with 3 or more stations, and many commercial TV stations in regional and local markets; nearly 600 radio stations with a mix of public and private stations providing national or regional coverage<br>
+more than 90% of households are connected to cable or satellite TV systems with a wide range of domestic and foreign channels; public service broadcast system includes multiple broadcasters, 3 with a national reach and the remainder in regional and local markets; 2 nationwide commercial TV companies, each with 3 or more stations, and many commercial TV stations in regional and local markets; nearly 600 radio stations with a mix of public and private stations&nbsp;<br>
 
 **Internet country code**<br>
 .nl<br>
@@ -661,12 +656,6 @@ _subscriptions per 100 inhabitants_: 43 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 8 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 238<br>
-_annual passenger traffic on registered air carriers_: 43,996,044 (2018)<br>
-_annual freight traffic on registered air carriers_: 5,886,510,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 PH<br>
 
@@ -677,17 +666,8 @@ PH<br>
 **Heliports**<br>
 194 (2025)<br>
 
-**Pipelines**<br>
-14,000 km gas, 2,500 km oil and refined products, 3,000 km chemicals (2017)<br>
-
 **Railways**<br>
 _total_: 3,055 km (2020) 2,310 km electrified<br>
-
-**Roadways**<br>
-_total_: 139,027 km (2022)<br>
-
-**Waterways**<br>
-6,237 km (2012) (navigable by ships up to 50 tons)<br>
 
 **Merchant marine**<br>
 _total_: 1,187 (2023)<br>
@@ -705,8 +685,8 @@ _key ports_: Amsterdam, Dordrecht, Europoort, Rotterdam, Terneuzen, Vlissingen<b
 ## Military and Security
 
 **Military and security forces**<br>
-Netherlands (Dutch) Armed Forces (Nederlandse Krijgsmacht): Royal Netherlands Army, Royal Netherlands Navy (includes Marine Corps), Royal Netherlands Air Force, Royal Netherlands Marechaussee (Military Constabulary) (2024)<br>
-<strong>note 1:</strong> the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civilian in nature but managed by the Royal Netherlands Navy<br><br><strong>note 2: </strong>the core missions of the Royal Netherlands Marechaussee are border security, security and surveillance, and international and military police tasks; it has 21 brigades based in eight Dutch provinces, plus Curaçao in the Caribbean, a special missions security brigade, and separate security platoons to guard and protect domestic sites that are most likely to be the targets of attacks, such as government buildings<br><br><strong>note 3:</strong> the national police maintain internal security in the Netherlands and report to the Ministry of Justice and Security, which oversees law enforcement organizations, as do the justice ministries in Aruba, Curacao, and Sint Maarten<br>
+Netherlands (Dutch) Armed Forces (Nederlandse Krijgsmacht): Royal Netherlands Army, Royal Netherlands Navy (includes Marine Corps), Royal Netherlands Air Force, Royal Netherlands Marechaussee (Military Constabulary) (2025)<br>
+<strong>note 1:</strong> the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civilian in nature but managed by the Royal Netherlands Navy<br><br><strong>note 2: </strong>the core missions of the Royal Netherlands Marechaussee are border security, security and surveillance, and international and military police tasks; it has 21 brigades based in eight Dutch provinces, plus Curaçao in the Caribbean, a special missions security brigade, and separate security platoons to guard and protect domestic sites that are most likely to be the targets of attacks, such as government buildings<br><br><strong>note 3:</strong> the Netherlands (or National) Police maintain internal security and report to the Ministry of Justice and Security, which oversees law enforcement organizations, as do the justice ministries in Aruba, Curacao, and Sint Maarten<br>
 
 **Military expenditures**<br>
 2.1% of GDP (2024 est.)<br>
@@ -716,8 +696,8 @@ Netherlands (Dutch) Armed Forces (Nederlandse Krijgsmacht): Royal Netherlands Ar
 1.4% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 45,000 active-duty personnel (19,000 Army; 8,000 Navy; 8,000 Air Force; 6,000 Constabulary; 4,000 other) (2024)<br>
-<strong>note:</strong> the total figures include about 6,000 reservists on active duty; the Navy figures include about 2,300 marines<br>
+approximately 51,000 active-duty military personnel (22,000 Army; 9,000 Navy/Marines; 8,000 Air Force; 7,000 Constabulary; 5,000 other) (2025)<br>
+<strong>note:</strong> the total figures include both professional military and reservists on active duty<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists of a mix of domestically produced and modern European- and US-sourced equipment; the Netherlands has an advanced domestic defense industry that focuses on armored vehicles, naval ships, and air defense systems; it also participates with the US and other European countries on joint development and production of advanced weapons systems (2025)<br>
@@ -731,7 +711,7 @@ the military's inventory consists of a mix of domestically produced and modern E
 <strong>note: </strong> the Netherlands contributes naval assets to support freedom of the sea missions in such places as the Red Sea and the Strait of Hormuz; it also assists with monitoring the airspace of the eastern flank of NATO territory by means of fighter aircraft and provides some ground personnel to a variety of other NATO, UN, and EU security missions<br>
 
 **Military - note**<br>
-the Dutch military is charged with the three core tasks of defending the country’s national territory and that of its allies, enforcing the national and international rule of law, and providing assistance during disasters and other crises; it also has some domestic security duties, including in the Dutch Caribbean territories; the military operates globally but rarely carries out military operations independently and focuses on cooperating with the armed forces of other countries, particularly with Belgium, Denmark, Germany, and the UK <br><br>the Netherlands has been a member of NATO since its founding in 1949, and the Dutch military is heavily involved in NATO missions and operations with air, ground, and naval forces, including air policing missions over the Benelux countries and Eastern Europe, NATO’s Enhanced Forward Presence initiative in the Baltic States and Eastern Europe, and several NATO naval flotillas, as well as standby units for NATO’s rapid response force; the military has previously deployed forces to NATO-led operations in Afghanistan, Iraq, and Kosovo and also regularly contributes to EU- and UN-led missions; Royal Netherlands Marechaussee detachments have been included in international police units deployed by NATO<br><br>the Dutch Army has especially close ties with the German Army, including having its air mobile and mechanized brigades assigned to German divisional headquarters; in addition, the Army shares with the Germans command of a NATO high-readiness corps-level headquarters, which can be ready for deployment inside or outside NATO territory within 20 days; in 2020, Belgium, Denmark, and the Netherlands formed a joint composite special operations component command<br><br>founded in the late 1400s, the Royal Netherlands Navy is one of the oldest naval forces in the World and conducts a variety of missions worldwide; in addition to its close ties with NATO, the Navy cooperates closely with the Belgian Navy, including a joint staff known as the Admiralty Benelux; it has a command responsible for the activities of Dutch naval units in the Caribbean, which includes combating drug trafficking, environmental crime, and illegal fishing, as well as providing search and rescue and disaster relief capabilities; the Netherlands has naval bases on Curaçao and Aruba; since 1973, the Dutch Marine Corps has worked closely with the British Royal Marines, including jointly in the UK-Netherlands amphibious landing force<br><br>the Dutch military is also part of the UK-led Joint Expeditionary Force, a defense framework of 10 Northern European nations designed to provide security to the High North, North Atlantic, and the Baltic Sea Region in response to a crisis (2024)<br>
+the Dutch military is charged with the three core tasks of defending the country’s national territory and that of its allies, enforcing the national and international rule of law, and providing assistance during disasters and other crises; it also has some domestic security duties, including in the Dutch Caribbean territories; the military operates globally but rarely carries out military operations independently and focuses on cooperating with the armed forces of other countries, particularly with Belgium, Denmark, Germany, and the UK <br><br>the Netherlands has been a member of NATO since its founding in 1949, and the Dutch military is heavily involved in NATO missions and operations with air, ground, and naval forces, including air policing missions over the Benelux countries and Eastern Europe, NATO’s Enhanced Forward Presence initiative in the Baltic States and Eastern Europe, and several NATO naval flotillas, as well as standby units for NATO’s rapid response force; the military has previously deployed forces to NATO-led operations in Afghanistan, Iraq, and Kosovo and also regularly contributes to EU- and UN-led missions; Royal Netherlands Marechaussee detachments have been included in international police units deployed by NATO<br><br>the Dutch Army has especially close ties with the German Army, including having its air mobile and mechanized brigades assigned to German divisional headquarters; in addition, the Army shares with the Germans command of a NATO high-readiness corps-level headquarters, which can be ready for deployment inside or outside NATO territory within 20 days; in 2020, Belgium, Denmark, and the Netherlands formed a joint composite special operations component command<br><br>founded in the late 1400s, the Royal Netherlands Navy is one of the oldest naval forces in the World and conducts a variety of missions worldwide; in addition to its close ties with NATO, the Navy cooperates closely with the Belgian Navy, including a joint staff known as the Admiralty Benelux; it has a command responsible for the activities of Dutch naval units in the Caribbean, which includes combating drug trafficking, environmental crime, and illegal fishing, as well as providing search and rescue and disaster relief capabilities; the Netherlands has naval bases on Curaçao and Aruba; since 1973, the Dutch Marine Corps has worked closely with the British Royal Marines, including jointly in the UK-Netherlands amphibious landing force<br><br>the Dutch military is also part of the UK-led Joint Expeditionary Force, a defense framework of 10 Northern European nations designed to provide security to the High North, North Atlantic, and the Baltic Sea Region in response to a crisis (2025)<br>
 
 ## Space
 

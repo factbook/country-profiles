@@ -60,12 +60,12 @@ oil and gas fields, fish, marine mammals (seals and whales), sand and gravel agg
 icebergs common in Davis Strait, Denmark Strait, and the northwestern Atlantic Ocean from February to August and have been spotted as far south as Bermuda and the Madeira Islands; ships subject to superstructure icing in extreme northern Atlantic from October to May; persistent fog can be a maritime hazard from May to September; hurricanes (May to December)<br>
 
 **Geography - note**<br>
-major chokepoints include the Dardanelles, Strait of Gibraltar, access to the Panama and Suez Canals; strategic straits include the Strait of Dover, Straits of Florida, Mona Passage, The Sound (Oresund), and Windward Passage; the Equator divides the Atlantic Ocean into the North Atlantic Ocean and South Atlantic Ocean<br>
+major chokepoints include the Dardanelles, Strait of Gibraltar, access to the Panama and Suez Canals; strategic straits include the Strait of Dover, Straits of Florida, Mona Passage, The Sound (Oresund), and Windward Passage; the equator divides the Atlantic Ocean into the North Atlantic Ocean and South Atlantic Ocean<br>
 
 ## Environment
 
 **Environment - current issues**<br>
-endangered marine species include the manatee, seals, sea lions, turtles, and whales; unsustainable exploitation of fisheries (over fishing, unregulated bottom trawling, drift net fishing, discards, catch of non-target species); pollution (maritime transport, discharges, offshore drilling, oil spills, plastics from improperly disposed waste); municipal sludge pollution off eastern US, southern Brazil, and eastern Argentina; oil pollution in Caribbean Sea, Gulf of America, Lake Maracaibo, Mediterranean Sea, and North Sea; industrial waste and municipal sewage pollution in Baltic Sea, North Sea, and Mediterranean Sea<br>
+endangered marine species; fishery issues (over-fishing, unregulated bottom trawling, drift-net fishing, discards, catch of non-target species); pollution (maritime transport, discharges, offshore drilling, oil spills, improperly disposed waste); municipal sludge pollution off eastern US, southern Brazil, and eastern Argentina; oil pollution in Caribbean Sea, Gulf of America, Lake Maracaibo, Mediterranean Sea, and North Sea; industrial waste and municipal sewage pollution in Baltic Sea, North Sea, and Mediterranean Sea<br>
 
 **Climate**<br>
 tropical cyclones (hurricanes) develop off the coast of Africa near Cabo Verde and move westward into the Caribbean Sea; hurricanes can occur from May to December but are most frequent from August to November<br>

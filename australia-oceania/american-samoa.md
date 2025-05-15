@@ -95,10 +95,10 @@ _15-64 years_: 66% (male 14,291/female 14,679)<br>
 _65 years and over_: 8.7% (2024 est.) (male 1,775/female 2,025)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 52.3<br>
-_youth dependency ratio_: 41.9<br>
-_elderly dependency ratio_: 10.4<br>
-_potential support ratio_: 9.6 (2021)<br>
+_total dependency ratio_: 51.5 (2024 est.)<br>
+_youth dependency ratio_: 38.4 (2024 est.)<br>
+_elderly dependency ratio_: 13.1 (2024 est.)<br>
+_potential support ratio_: 7.6 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 30 years (2024 est.)<br>
@@ -200,12 +200,6 @@ _other_: 0.2% (2022 est.)<br>
 _urban population_: 87.2% of total population (2023)<br>
 _rate of urbanization_: 0.26% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 18,989 tons (2016 est.)<br>
 
@@ -228,7 +222,7 @@ unincorporated, unorganized Territory of the US; administered by the Office of I
 _name_: Pago Pago<br>
 _geographic coordinates_: 14 16 S, 170 42 W<br>
 _time difference_: UTC-11 (6 hours behind Washington, DC, during Standard Time)<br>
-<strong>note:</strong> pronounced pahn-go pahn-go<br>
+<strong>note:</strong> pronounced PAHN-go PAHN-go<br>
 
 **Administrative divisions**<br>
 none (territory of the US); there are no first-order administrative divisions as defined by the US Government, but there are 3 districts and 2 islands* at the second order; Eastern, Manu'a, Rose Island*, Swains Island*, Western<br>
@@ -253,7 +247,7 @@ see United States<br>Note: in accordance with US Code Title 8, Section 1408, per
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Joseph R. BIDEN Jr. (since 20 January 2021)<br>
+_chief of state_: President Donald J. TRUMP (since 20 January 2025)<br>
 _head of government_: Governor Nikolao PULA (since 3 January 2025)<br>
 _cabinet_: Cabinet consists of 12 department directors appointed by the governor with the consent of the Legislature or Fono<br>
 _elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state to serve a 4-year term (eligible for a second term); under the US Constitution, residents of unincorporated territories, such as American Samoa, do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican presidential primary elections; governor and lieutenant governor directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 19 November 2024 (next to be held in November 2028)<br>
@@ -281,7 +275,7 @@ none (territory of the US)<br>
 _embassy_: none (territory of the US)<br>
 
 **Flag description**<br>
-a large white triangle edged in red that is based on the fly side and extends to the hoist side and is charged with an eagle, all on a blue field; the red, white, and blue colors are those traditionally used by both the United States and Samoa; the brown and white American bald eagle flies toward the hoist side and carries 2 traditional Samoan symbols of authority, a war club known as a "fa'alaufa'i" (upper; left talon), and a coconut-fiber fly whisk known as a "fue" (lower; right talon); the combination of symbols broadly mimics that seen on the US Great Seal and reflects the relationship between the US and American Samoa<br>
+a large white triangle edged in red that is based on the fly side and extends to the hoist side and is charged with an eagle, all on a blue field; the red, white, and blue colors are those traditionally used by both the United States and Samoa; the brown and white American bald eagle flies toward the hoist side and carries two traditional Samoan symbols of authority, a war club known as a "fa'alaufa'i" (upper; left talon), and a coconut-fiber fly whisk known as a "fue" (lower; right talon); the combination of symbols broadly mimics that seen on the US Great Seal and reflects the relationship between the US and American Samoa<br>
 
 **National symbol(s)**<br>
 a fue (coconut fiber fly whisk; representing wisdom) crossed with a to'oto'o (staff; representing authority); national colors: red, white, blue<br>
@@ -317,10 +311,6 @@ $11,200 (2014 est.)<br>
 $871 million (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
-**Inflation rate (consumer prices)**<br>
--0.5% (2015 est.)<br>
-1.4% (2014 est.)<br>
-
 **GDP - composition, by end use**<br>
 _household consumption_: 71.3% (2022 est.)<br>
 _government consumption_: 49.7% (2016 est.)<br>
@@ -335,9 +325,6 @@ bananas, coconuts, vegetables, taro, breadfruit, yams, copra, pineapples, papaya
 
 **Industries**<br>
 tuna canneries (largely supplied by foreign fishing vessels), handicrafts<br>
-
-**Labor force**<br>
-17,850 (2015 est.)<br>
 
 **Budget**<br>
 _revenues_: $249 million (2016 est.)<br>
@@ -412,7 +399,7 @@ _total subscriptions_: 2,250 (2009 est.)<br>
 _subscriptions per 100 inhabitants_: 4 (2009 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: American Samoa Telecommunications Authority, ASTCA, supplies telecommunication services to the residents of the American Samoan islands, a territory of the United States, which are found in a remote area of the Pacific Ocean; the primary system between the islands consists of fiber-optic cables and satellite connections; over Independence Day weekend 2021, the undersea fiber-optic cable linking the Tutuila and Manu&rsquo;a Islands failed, completely stranding the Manu&rsquo;a Islands from all telecommunication services; telecommunication services were restored to the people of Manu&rsquo;a islands through microwave link between Tutuila to the Manu&rsquo;a Islands; the link is now providing a steady 1Gbps backhaul most of the time of the year with 600Mbps at four 9&rsquo;s availability, over this extremely long distance (2022)<br>
+_general assessment_: American Samoa Telecommunications Authority, ASTCA, supplies telecommunication services to the residents of American Samoa, a US territory; the primary system between the islands consists of fiber-optic cables and satellite connections; in 2021, the undersea fiber-optic cable linking the Tutuila and Manu&rsquo;a Islands failed, cutting off Manu&rsquo;a Island; telecommunication services were restored through microwave link, and the link now provides a steady 1Gbps backhaul&nbsp; (2022)<br>
 _domestic_: nearly 22 per 100 fixed-line tele density (2021)<br>
 _international_: country code - 1-684; landing points for the ASH, Southern Cross NEXT&nbsp;and Hawaiki&nbsp;&nbsp;providing&nbsp;connectivity to New Zealand, Australia, American Samoa, Hawaii, California, and&nbsp;SAS connecting American Samoa with Samoa; satellite earth station - 1 (Intelsat-Pacific Ocean) (2019)<br>
 
@@ -429,9 +416,6 @@ _percent of population_: 40.3% (2021 est.)<br>
 
 **Airports**<br>
 3 (2025)<br>
-
-**Roadways**<br>
-_total_: 241 km (2016)<br>
 
 **Ports**<br>
 _total ports_: 1 (2024)<br>

@@ -77,7 +77,7 @@ most of the population resides in the eastern half of the country; to the west l
 local flooding in southeast (early September to June); poorly drained plains may become boggy (early October to June)<br>
 
 **Geography - note**<br>
-<strong>note 1: </strong>landlocked; lies between Argentina, Bolivia, and Brazil; population concentrated in eastern and southern part of country<br><br><strong>note 2:</strong> pineapples are probably indigenous to the southern Brazil-Paraguay region <br>
+landlocked; lies between Argentina, Bolivia, and Brazil; population concentrated in eastern and southern part of country<br>
 
 ## People and Society
 
@@ -107,10 +107,10 @@ _15-64 years_: 68.4% (male 2,582,021/female 2,561,962)<br>
 _65 years and over_: 9.4% (2024 est.) (male 337,164/female 369,974)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 54.4<br>
-_youth dependency ratio_: 44.8<br>
-_elderly dependency ratio_: 9.6<br>
-_potential support ratio_: 10.4 (2021 est.)<br>
+_total dependency ratio_: 46.2 (2024 est.)<br>
+_youth dependency ratio_: 32.5 (2024 est.)<br>
+_elderly dependency ratio_: 13.7 (2024 est.)<br>
+_potential support ratio_: 7.3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 31.8 years (2024 est.)<br>
@@ -234,7 +234,7 @@ _female_: 94.2% (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation; water pollution; rivers suffer from toxic dumping; tanneries release mercury and chromium into rivers and streams; loss of wetlands; inadequate means for waste disposal pose health risks for many urban residents<br>
+deforestation; water pollution; toxic dumping in rivers and streams; loss of wetlands; inadequate means for waste disposal in urban areas<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands<br>
@@ -254,12 +254,6 @@ _other_: 18.8% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 63.1% of total population (2023)<br>
 _rate of urbanization_: 1.64% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-1.21% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 12.31 micrograms per cubic meter (2019 est.)<br>
@@ -302,7 +296,7 @@ presidential republic<br>
 _name_: Asunci&oacute;n<br>
 _geographic coordinates_: 25 16 S, 57 40 W<br>
 _time difference_: UTC-3 (2 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name means "assumption" and derives from the original name given to the city at its founding in 1537, Nuestra Senora Santa Maria de la Asuncion (Our Lady Saint Mary of the Assumption)<br>
+_etymology_: the name means "assumption" in Spanish; the Spanish founded the city on August 15, 1537, the Catholic feast day for the Assumption of the Virgin Mary&nbsp;<br>
 
 **Administrative divisions**<br>
 17 departments (departamentos, singular - departamento) and 1 capital city*; Alto Paraguay, Alto Parana, Amambay, Asuncion*, Boquer&oacute;n, Caaguaz&uacute;, Caazap&aacute;, Canindey&uacute;, Central, Concepcion, Cordillera, Guair&aacute;, Itap&uacute;a, Misiones, &Ntilde;eembuc&uacute;, Paraguar&iacute;, Presidente Hayes, San Pedro<br>
@@ -314,7 +308,7 @@ _etymology_: the name means "assumption" and derives from the original name give
 Independence Day, 14-15 May (1811) (observed 15 May); 14 May is celebrated as Flag Day<br>
 
 **Legal system**<br>
-civil law system with influences from Argentine, Spanish, Roman, and French civil law models; judicial review of legislative acts in Supreme Court of Justice<br>
+civil law system with influences from Argentine, Spanish, Roman, and French civil law models; Supreme Court of Justice reviews legislative acts<br>
 
 **Constitution**<br>
 _history_: several previous; latest approved and promulgated 20 June 1992<br>
@@ -437,9 +431,9 @@ $42.956 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.63% (2023 est.)<br>
-9.77% (2022 est.)<br>
-4.79% (2021 est.)<br>
+3.8% (2024 est.)<br>
+4.6% (2023 est.)<br>
+9.8% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -475,19 +469,19 @@ sugar processing, cement, textiles, beverages, wood products, steel, base metals
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.456 million (2023 est.)<br>
+3.502 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.78% (2023 est.)<br>
-6.76% (2022 est.)<br>
-7.31% (2021 est.)<br>
+6.1% (2024 est.)<br>
+5.8% (2023 est.)<br>
+6.8% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13% (2023 est.)<br>
-_male_: 10.4% (2023 est.)<br>
-_female_: 16.9% (2023 est.)<br>
+_total_: 14.1% (2024 est.)<br>
+_male_: 11% (2024 est.)<br>
+_female_: 18.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -522,17 +516,17 @@ _expenditures_: $6.937 billion (2022 est.)<br>
 19.5% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-10.27% (of GDP) (2022 est.)<br>
+10.2% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$104.764 million (2023 est.)<br>
--$2.995 billion (2022 est.)<br>
--$347.383 million (2021 est.)<br>
+-$243.292 million (2023 est.)<br>
+-$3.002 billion (2022 est.)<br>
+-$442.843 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$18.712 billion (2023 est.)<br>
+$18.581 billion (2023 est.)<br>
 $14.971 billion (2022 est.)<br>
 $14.821 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -566,16 +560,16 @@ $9.661 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$14.154 billion (2023 est.)<br>
+$13.783 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: guarani (PYG) per US dollar -<br>
+7,560.248 (2024 est.)<br>
 7,288.872 (2023 est.)<br>
 6,982.752 (2022 est.)<br>
 6,774.163 (2021 est.)<br>
 6,771.097 (2020 est.)<br>
-6,240.722 (2019 est.)<br>
 
 ## Energy
 
@@ -639,12 +633,6 @@ _subscriptions per 100 inhabitants_: 13 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 8<br>
-_annual passenger traffic on registered air carriers_: 560,631 (2018)<br>
-_annual freight traffic on registered air carriers_: 1.97 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 ZP<br>
 
@@ -657,14 +645,6 @@ ZP<br>
 **Railways**<br>
 _total_: 30 km (2014)<br>
 _standard gauge_: 30 km (2014) 1.435-m gauge<br>
-
-**Roadways**<br>
-_total_: 78,811 km<br>
-_paved_: 8,573 km<br>
-_unpaved_: 70,238 km (2020)<br>
-
-**Waterways**<br>
-3,100 km (2012) (primarily on the Paraguay and Paraná River systems)<br>
 
 **Merchant marine**<br>
 _total_: 108 (2023)<br>
@@ -682,8 +662,7 @@ _key ports_: Puerto de Asuncion<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Paraguay (Fuerzas Armadas de Paraguay; aka Armed Forces of the Nation or Fuerzas Armadas de la Nación): Paraguayan Army (Ejército Paraguayo), Paraguayan Navy (Armada Paraguaya; includes marines), Paraguayan Air Force (Fuerza Aérea Paraguaya)<br><br>Ministry of Internal Affairs: National Police of Paraguay (Policía Nacional del Paraguay, PNP) (2024)<br>
-<strong>note: </strong>Paraguay also has a National Counterdrug Bureau (Secretaria Nacional Antidrogas or SENAD) that operates under the presidency<br>
+Armed Forces of Paraguay (Fuerzas Armadas de Paraguay; aka Armed Forces of the Nation or Fuerzas Armadas de la Nación): Paraguayan Army (Ejército Paraguayo), Paraguayan Navy (Armada Paraguaya; includes marines), Paraguayan Air Force (Fuerza Aérea Paraguaya)<br><br>Ministry of Internal Affairs: National Police of Paraguay (Policía Nacional del Paraguay, PNP) (2025)<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2023 est.)<br>
@@ -693,7 +672,7 @@ Armed Forces of Paraguay (Fuerzas Armadas de Paraguay; aka Armed Forces of the N
 1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 20,000 active-duty personnel (13,500 Army; 4,000 Navy; 2,500 Air Force) (2023)<br>
+approximately 15,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is comprised of mostly older or obsolescent equipment from a variety of foreign suppliers, particularly Brazil and the US; in recent years, the Paraguayan Government has purchased small quantities of more modern equipment (2024)<br>

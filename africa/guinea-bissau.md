@@ -72,7 +72,7 @@ approximately one-fifth of the population lives in the capital city of Bissau al
 hot, dry, dusty harmattan haze may reduce visibility during dry season; brush fires<br>
 
 **Geography - note**<br>
-this small country is swampy along its western coast and low-lying inland<br>
+this small country is swampy along its western coast and is low-lying inland<br>
 
 ## People and Society
 
@@ -100,10 +100,10 @@ _15-64 years_: 54.6% (male 561,868/female 602,280)<br>
 _65 years and over_: 3.1% (2024 est.) (male 27,529/female 38,621)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 76.6<br>
-_youth dependency ratio_: 71.6<br>
-_elderly dependency ratio_: 5<br>
-_potential support ratio_: 20.1 (2021 est.)<br>
+_total dependency ratio_: 83.2 (2024 est.)<br>
+_youth dependency ratio_: 77.5 (2024 est.)<br>
+_elderly dependency ratio_: 5.7 (2024 est.)<br>
+_potential support ratio_: 17.6 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 18.4 years (2024 est.)<br>
@@ -221,7 +221,7 @@ _female_: 39.9% (2021)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation (rampant felling of trees for timber and agricultural purposes); soil erosion; overgrazing; overfishing<br>
+deforestation (overharvesting of trees for timber and agricultural purposes); soil erosion; overgrazing; overfishing<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
@@ -241,12 +241,6 @@ _other_: 0.1% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 45.5% of total population (2023)<br>
 _rate of urbanization_: 3.22% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-9.24% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 34.85 micrograms per cubic meter (2019 est.)<br>
@@ -284,7 +278,7 @@ semi-presidential republic<br>
 _name_: Bissau<br>
 _geographic coordinates_: 11 51 N, 15 35 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the meaning of Bissau is uncertain, it might be an alternative name for the Papel people who live in the area of the city of Bissau<br>
+_etymology_: the name is derived from the local Bijuga people and is used to distinguish the country from neighboring Guinea<br>
 
 **Administrative divisions**<br>
 9 regions (regioes, singular - regiao); Bafata, Biombo, Bissau, Bolama/Bijagos, Cacheu, Gabu, Oio, Quinara, Tombali<br>
@@ -296,7 +290,7 @@ _etymology_: the meaning of Bissau is uncertain, it might be an alternative name
 Independence Day, 24 September (1973)<br>
 
 **Legal system**<br>
-mixed legal system of civil law, which incorporated Portuguese law at independence and influenced by Economic Community of West African States (ECOWAS), West African Economic and Monetary Union (UEMOA), African Francophone Public Law, and customary law<br>
+mixed system of civil law, which incorporated Portuguese law at independence; influenced by Economic Community of West African States (ECOWAS), West African Economic and Monetary Union (UEMOA), African Francophone Public Law, and customary law<br>
 
 **Constitution**<br>
 _history_: promulgated 16 May 1984<br>
@@ -396,9 +390,9 @@ $2.048 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-9.39% (2022 est.)<br>
-2.24% (2021 est.)<br>
-1.14% (2020 est.)<br>
+9.4% (2022 est.)<br>
+2.2% (2021 est.)<br>
+1.1% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -428,19 +422,19 @@ agricultural products processing, beer, soft drinks<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-732,000 (2023 est.)<br>
+845,300 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.18% (2023 est.)<br>
-3.2% (2022 est.)<br>
-3.63% (2021 est.)<br>
+2.6% (2024 est.)<br>
+2.6% (2023 est.)<br>
+2.7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4% (2023 est.)<br>
-_male_: 3.9% (2023 est.)<br>
-_female_: 4.2% (2023 est.)<br>
+_total_: 2.8% (2024 est.)<br>
+_male_: 3.4% (2024 est.)<br>
+_female_: 2% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -471,7 +465,7 @@ _expenditures_: $210.858 million (2019 est.)<br>
 53.9% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-8.57% (of GDP) (2019 est.)<br>
+8.6% (of GDP) (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -513,16 +507,16 @@ $356.4 million (2017 est.)<br>
 $349.4 million (2016 est.)<br>
 
 **Debt - external**<br>
-$962.442 million (2023 est.)<br>
+$896.812 million (2023 est.)<br>
 <strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+606.345 (2024 est.)<br>
 606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
-585.911 (2019 est.)<br>
 
 ## Energy
 
@@ -570,7 +564,7 @@ _domestic_: fixed-line teledensity less than 1 per 100 persons; mobile cellular 
 _international_: country code - 245; ACE submarine cable connecting Guinea-Bissau with 20 landing points in Western and South Africa and Europe (2019)<br>
 
 **Broadcast media**<br>
-1 state-owned TV station, Televisao da Guine-Bissau (TGB) and a second station, Radio e Televisao de Portugal (RTP) Africa, is operated by Portuguese public broadcaster (RTP); 1 state-owned radio station, several private radio stations, and some community radio stations; multiple international broadcasters are available (2019)<br>
+1 state-owned TV station, Televisao da Guine-Bissau (TGB) and a second station, Radio e Televisao de Portugal (RTP) Africa, operated by Portuguese public broadcaster (RTP); 1 state-owned radio station, several private radio stations, and some community radio stations; multiple international broadcasters are available (2019)<br>
 
 **Internet country code**<br>
 .gw<br>
@@ -589,14 +583,6 @@ J5<br>
 
 **Airports**<br>
 7 (2025)<br>
-
-**Roadways**<br>
-_total_: 4,400 km<br>
-_paved_: 453 km<br>
-_unpaved_: 3,947 km (2016)<br>
-
-**Waterways**<br>
-1,367 km (2022) major rivers Geba- 550km, Corubal 560 km, Cacheu 257 km (rivers are partially navigable; many inlets and creeks provide shallow-water access to much of interior)<br>
 
 **Merchant marine**<br>
 _total_: 20 (2023)<br>
@@ -625,7 +611,7 @@ People's Revolutionary Armed Force (Forcas Armadas Revolucionarias do Povo or FA
 1.9% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 4,000 active troops, including a few hundred air and naval personnel (2024)<br>
+estimated 4,000 active FARP personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FARP is outfitted mostly with Soviet-era weapons and equipment, along with a handful of secondhand items from France and Spain (2024)<br>

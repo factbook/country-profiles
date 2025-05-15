@@ -102,10 +102,10 @@ _15-64 years_: 66.5% (male 3,670,531/female 3,623,658)<br>
 _65 years and over_: 17.2% (2024 est.) (male 852,910/female 1,034,295)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 45.9<br>
-_youth dependency ratio_: 23.1<br>
-_elderly dependency ratio_: 22.9<br>
-_potential support ratio_: 4.4 (2021 est.)<br>
+_total dependency ratio_: 49.6 (2024 est.)<br>
+_youth dependency ratio_: 23 (2024 est.)<br>
+_elderly dependency ratio_: 26.5 (2024 est.)<br>
+_potential support ratio_: 3.8 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 42.6 years (2024 est.)<br>
@@ -234,7 +234,7 @@ illicit emigration is a continuing problem; Cubans attempt to depart the island 
 ## Environment
 
 **Environment - current issues**<br>
-soil degradation and desertification (brought on by poor farming techniques and natural disasters) are the main environmental problems; biodiversity loss; deforestation; air and water pollution<br>
+soil degradation and desertification (brought on by poor farming techniques and natural disasters); biodiversity loss; deforestation; air and water pollution<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -254,12 +254,6 @@ _other_: 7.1% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 77.5% of total population (2023)<br>
 _rate of urbanization_: 0.19% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.06% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 13.32 micrograms per cubic meter (2019 est.)<br>
@@ -296,7 +290,7 @@ _name_: Havana<br>
 _geographic coordinates_: 23 07 N, 82 21 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday in November; note - Cuba has been known to alter the schedule of DST on short notice in an attempt to conserve electricity for lighting<br>
-_etymology_: the sites of Spanish colonial cities often retained their original Taino names; Habana, the Spanish name for the city, may be based on the name of a local Taino chief, HABAGUANEX<br>
+_etymology_: Spanish soldier Diego VELAZQUEZ named the city San Cristobal de la Habana, or Saint Christopher of the Habana; "Habana" may have been the name of a local ethnic group, but the meaning of the word is unknown<br>
 
 **Administrative divisions**<br>
 15 provinces (provincias, singular - provincia) and 1 special municipality* (municipio especial); Artemisa, Camaguey, Ciego de Avila, Cienfuegos, Granma, Guantanamo, Holguin, Isla de la Juventud*, La Habana (Havana), Las Tunas, Matanzas, Mayabeque, Pinar del R&iacute;o, Sancti Spiritus, Santiago de Cuba, Villa Clara<br>
@@ -450,19 +444,19 @@ petroleum, nickel, cobalt, pharmaceuticals, tobacco, construction, steel, cement
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.238 million (2023 est.)<br>
+4.859 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.16% (2023 est.)<br>
-1.25% (2022 est.)<br>
-1.37% (2021 est.)<br>
+1.5% (2024 est.)<br>
+1.7% (2023 est.)<br>
+1.8% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3% (2023 est.)<br>
-_male_: 3.3% (2023 est.)<br>
-_female_: 2.5% (2023 est.)<br>
+_total_: 3.9% (2024 est.)<br>
+_male_: 4.1% (2024 est.)<br>
+_female_: 3.5% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Budget**<br>
@@ -577,7 +571,7 @@ _domestic_: fixed-line density remains low at a little over 14 per 100 inhabitan
 _international_: country code - 53; the ALBA-1, GTMO-1, and GTMO-PR fiber-optic submarine cables link Cuba, Jamaica, and Venezuela; satellite earth station - 1 Intersputnik (Atlantic Ocean region) (2019)<br>
 
 **Broadcast media**<br>
-government owns and controls all broadcast media: eight national TV channels (Cubavision, Cubavision Plus, Tele Rebelde, Multivision, Educational Channel 1 and 2, Canal Clave, Canal Habana), two international channels (Cubavision Internacional and Canal Caribe), multiple regional TV stations, 7 national radio networks, and multiple regional stations; the Cuban Government beams over the Radio-TV Marti signal; although private ownership of electronic media is prohibited, several online independent news sites exist; those that are not openly critical of the government are often tolerated; the others are blocked by the government; there are no independent TV channels, but several outlets have created strong audiovisual content (El Toque, for example); a community of young Youtubers is also growing, mostly with channels about sports, technology and fashion; Christian denominations are creating original video content to distribute via social media (2023)<br>
+government owns and controls all broadcast media: 8 national TV channels (Cubavision, Cubavision Plus, Tele Rebelde, Multivision, Educational Channel 1 and 2, Canal Clave, Canal Habana), 2 international channels (Cubavision Internacional and Canal Caribe), multiple regional TV stations, 7 national radio networks, and multiple regional radio stations; the government uses the Radio-TV Marti signal; private ownership of electronic media is officially prohibited, with several online independent news sites tolerated but blocked if critical of the government; YouTube popular; Christian denominations create original video content to distribute via social media (2023)<br>
 
 **Internet country code**<br>
 .cu<br>
@@ -592,12 +586,6 @@ _subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 4 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 18<br>
-_annual passenger traffic on registered air carriers_: 560,754 (2018)<br>
-_annual freight traffic on registered air carriers_: 17.76 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 CU<br>
 
@@ -607,22 +595,11 @@ CU<br>
 **Heliports**<br>
 4 (2025)<br>
 
-**Pipelines**<br>
-41 km gas, 230 km oil (2013)<br>
-
 **Railways**<br>
 _total_: 8,367 km (2017)<br>
 _standard gauge_: 8,195 km (2017) 1.435-m gauge (124 km electrified)<br>
 _narrow gauge_: 172 km (2017) 1.000-m gauge<br>
 <strong>note: </strong>As of 2013, 70 km of standard gauge and 12 km of narrow gauge track were not for public use<br>
-
-**Roadways**<br>
-_total_: 60,000 km (2015)<br>
-_paved_: 20,000 km (2001)<br>
-_unpaved_: 40,000 km (2001)<br>
-
-**Waterways**<br>
-240 km (2011) (almost all navigable inland waterways are near the mouths of rivers)<br>
 
 **Merchant marine**<br>
 _total_: 65 (2023)<br>
@@ -651,7 +628,7 @@ Revolutionary Armed Forces (Fuerzas Armadas Revolucionarias, FAR): Ground Troops
 3.1% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-limited available information; estimated 50,000 active personnel (2024)<br>
+limited available information; estimated 50,000 active personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is comprised of Russian and Soviet-era equipment (2024)<br>

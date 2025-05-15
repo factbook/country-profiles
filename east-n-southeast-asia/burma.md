@@ -109,10 +109,10 @@ _15-64 years_: 68.5% (male 19,420,361/female 19,998,625)<br>
 _65 years and over_: 7.1% (2024 est.) (male 1,770,293/female 2,296,804)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 46<br>
-_youth dependency ratio_: 36.3<br>
-_elderly dependency ratio_: 9.7<br>
-_potential support ratio_: 10.3 (2021 est.)<br>
+_total dependency ratio_: 45.9 (2024 est.)<br>
+_youth dependency ratio_: 35.6 (2024 est.)<br>
+_elderly dependency ratio_: 10.3 (2024 est.)<br>
+_potential support ratio_: 9.7 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 30.8 years (2024 est.)<br>
@@ -243,7 +243,7 @@ _female_: 11 years (2018)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation; industrial pollution of air, soil, and water; inadequate sanitation and water treatment contribute to disease; rapid depletion of the country's natural resources<br>
+deforestation; industrial pollution of air, soil, and water; inadequate sanitation and water treatment; rapid depletion of the country's natural resources<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
@@ -266,12 +266,6 @@ _rate of urbanization_: 1.85% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to conflict, political instability, and economic constraints -</em> the protracted political crisis is compromising the fragile conditions of vulnerable households; domestic prices of “Emata” rice, the most consumed variety in the country, were at record levels as of May 2023, constraining access to a key staple food (2023)<br>
-
-**Revenue from forest resources**<br>
-1.69% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.01% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 27.16 micrograms per cubic meter (2019 est.)<br>
@@ -429,9 +423,9 @@ $66.758 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-8.83% (2019 est.)<br>
-6.87% (2018 est.)<br>
-4.57% (2017 est.)<br>
+8.8% (2019 est.)<br>
+6.9% (2018 est.)<br>
+4.6% (2017 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -460,19 +454,19 @@ agricultural processing; wood and wood products; copper, tin, tungsten, iron; ce
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-22.662 million (2023 est.)<br>
+22.742 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.84% (2023 est.)<br>
-2.83% (2022 est.)<br>
-4.34% (2021 est.)<br>
+3% (2024 est.)<br>
+3% (2023 est.)<br>
+3.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.7% (2023 est.)<br>
-_male_: 10.3% (2023 est.)<br>
-_female_: 8.9% (2023 est.)<br>
+_total_: 10% (2024 est.)<br>
+_male_: 10.5% (2024 est.)<br>
+_female_: 9.4% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -507,7 +501,7 @@ _expenditures_: $10.22 billion (2019 est.)<br>
 33.6% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-6.02% (of GDP) (2019 est.)<br>
+6% (of GDP) (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -545,13 +539,14 @@ refined petroleum, synthetic fabric, fertilizers, crude petroleum, fabric (2023)
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$7.67 billion (2020 est.)<br>
-$5.824 billion (2019 est.)<br>
-$5.646 billion (2018 est.)<br>
+$9.338 billion (2023 est.)<br>
+$8.182 billion (2022 est.)<br>
+$9.103 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$9.292 billion (2023 est.)<br>
+$8.748 billion (2023 est.)<br>
+<strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: kyats (MMK) per US dollar -<br>
@@ -624,7 +619,7 @@ _domestic_: fixed-line is just under 1 per 100, while mobile-cellular is roughly
 _international_: country code - 95; landing points for the SeaMeWe-3, SeaMeWe-5, AAE-1 and Singapore-Myanmar&nbsp;optical telecommunications submarine cable that provides links to Asia, the Middle East, Africa, Southeast Asia, Australia&nbsp;and Europe; satellite earth stations - 2, Intelsat (Indian Ocean) and ShinSat (2019)<br>
 
 **Broadcast media**<br>
-government controls all domestic broadcast media; 2 state-controlled TV stations with 1 of the stations controlled by the armed forces; 2 pay-TV stations are joint state-private ventures; 1 state-controlled domestic radio station and 9 FM stations that are joint state-private ventures; transmissions of several international broadcasters are available in parts of Burma; the Voice of America (VOA), Radio Free Asia (RFA), BBC Burmese service, the Democratic Voice of Burma (DVB), and Radio Australia use shortwave to broadcast in Burma; VOA, RFA, and DVB produce daily TV news programs that are transmitted by satellite to audiences in Burma; in March 2017, the government granted licenses to 5 private broadcasters, allowing them digital free-to-air TV channels to be operated in partnership with government-owned Myanmar Radio and Television (MRTV) and will rely upon MRTV&rsquo;s transmission infrastructure; following the February 2021 military coup, the regime revoked the media licenses of most independent outlets, including the free-to-air licenses for DVB and Mizzima (2022)<br>
+government controls all domestic broadcast media; 2 state-controlled TV stations, with 1 controlled by the armed forces; 2 pay-TV stations are joint state-private ventures; 1 state-controlled radio station; 9 FM stations are joint state-private ventures; several international broadcasts are available in some areas; the Voice of America (VOA), Radio Free Asia (RFA), BBC Burmese service, the Democratic Voice of Burma (DVB), and Radio Australia use shortwave to broadcast; VOA, RFA, and DVB produce daily TV news programs that are transmitted by satellite; in 2017, the government granted licenses to 5 private broadcasters for digital free-to-air TV channels to be operated in partnership with government-owned Myanmar Radio and Television (MRTV); after the 2021 military coup, the regime revoked the media licenses of most independent outlets, including the free-to-air licenses for DVB and Mizzima (2022)<br>
 
 **Internet country code**<br>
 .mm<br>
@@ -638,12 +633,6 @@ _subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 8 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 42<br>
-_annual passenger traffic on registered air carriers_: 3,407,788 (2018)<br>
-_annual freight traffic on registered air carriers_: 4.74 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 XY<br>
 
@@ -653,20 +642,9 @@ XY<br>
 **Heliports**<br>
 6 (2025)<br>
 
-**Pipelines**<br>
-3,739 km gas, 1321 km oil (2017)<br>
-
 **Railways**<br>
 _total_: 5,031 km (2008)<br>
 _narrow gauge_: 5,031 km (2008) 1.000-m gauge<br>
-
-**Roadways**<br>
-_total_: 157,000 km (2013)<br>
-_paved_: 57,840 km (2017)<br>
-_unpaved_: 99,160 km (2017)<br>
-
-**Waterways**<br>
-12,800 km (2011)<br>
 
 **Merchant marine**<br>
 _total_: 101 (2023)<br>
@@ -684,8 +662,8 @@ _key ports_: Bassein, Mergui, Moulmein Harbor, Rangoon, Sittwe<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Burmese Defense Service (aka Armed Forces of Burma, Myanmar Army, Royal Armed Forces, the Tatmadaw, or the Sit-Tat): Army (Tatmadaw Kyi), Navy (Tatmadaw Yay), Air Force (Tatmadaw Lay); People’s Militia<br><br>Ministry of Home Affairs: Burma (People's) Police Force, Border Guard Forces/Police (2024)<br>
-<strong>note:</strong>  under the 2008 constitution, the Tatmadaw was given control over the appointments of senior officials to lead the Ministry of Defense, the Ministry of Border Affairs, and the Ministry of Home Affairs; in 2022, a new law gave the commander-in-chief of the Tatmadaw the authority to appoint or remove the head of the police force <br>
+Burmese Defense Service (aka Armed Forces of Burma, Myanmar Army, Royal Armed Forces, the Tatmadaw, or the Sit-Tat): Army (Tatmadaw Kyi), Navy (Tatmadaw Yay), Air Force (Tatmadaw Lay); People’s Militia<br><br>Ministry of Home Affairs: Burma (People's) Police Force, Border Guard Forces/Police (2025)<br>
+<strong>note:</strong>  under the 2008 constitution, the Tatmadaw was given control over the appointments of senior officials to lead the Ministry of Defense, the Ministry of Border Affairs, and the Ministry of Home Affairs; in 2022, a new law gave the commander-in-chief of the Tatmadaw the authority to appoint or remove the head of the police force<br>
 
 **Military expenditures**<br>
 3.9% of GDP (2023 est.)<br>
@@ -695,7 +673,8 @@ Burmese Defense Service (aka Armed Forces of Burma, Myanmar Army, Royal Armed Fo
 4.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 150-300,000 armed forces personnel (2024)<br>
+estimated 150,000 active armed forces personnel (2024)<br>
+<strong>note: </strong>the Tatmadaw has reportedly suffered heavy personnel losses in the ongoing fighting against anti-regime forces<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Burmese military's inventory is comprised mostly of older Chinese and Russian/Soviet-era weapons and equipment with a smaller mix of more modern acquisitions, mostly from China and Russia; Burma's defense industry is involved in shipbuilding and the production of ground force equipment based largely on Chinese and Russian designs (2024)<br>

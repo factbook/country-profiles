@@ -109,10 +109,10 @@ _15-64 years_: 56.7% (male 14,211,514/female 14,390,486)<br>
 _65 years and over_: 3.2% (2024 est.) (male 845,125/female 792,357)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 76.9<br>
-_youth dependency ratio_: 74<br>
-_elderly dependency ratio_: 6.2<br>
-_potential support ratio_: 16.2 (2021 est.)<br>
+_total dependency ratio_: 76.4 (2024 est.)<br>
+_youth dependency ratio_: 70.7 (2024 est.)<br>
+_elderly dependency ratio_: 5.7 (2024 est.)<br>
+_potential support ratio_: 17.5 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 19.3 years (2024 est.)<br>
@@ -211,9 +211,6 @@ _other alcohols_: 1.63 liters of pure alcohol (2019 est.)<br>
 **Currently married women (ages 15-49)**<br>
 61.4% (2023 est.)<br>
 
-**Education expenditures**<br>
-NA<br>
-
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
 _total population_: 60.7%<br>
@@ -228,7 +225,7 @@ _female_: 7 years (2015)<br>
 ## Environment
 
 **Environment - current issues**<br>
-<p>water pollution; inadequate supplies of potable water; water scarcity and periodic drought; wildlife populations threatened by excessive hunting; soil erosion; desertification; deforestation; loss of biodiversity</p> <p><strong> </strong></p><br>
+<p>water pollution; inadequate supplies of potable water; water scarcity and drought; overhunting; soil erosion; desertification; deforestation; loss of biodiversity</p> <p><strong> </strong></p><br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
@@ -251,12 +248,6 @@ _rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to conflict, civil insecurity, and soaring food prices - </em>about 19.9 million people are currently expected to require emergency food and livelihood assistance, due to the conflict that broke out in mid-April 2023 which severely damaged livelihoods, paralyzed economic activities, triggered a surge in the already high food prices and caused large-scale displacements, with about 1.67 million people displaced inside of the country and about 528,000 people having fled to neighboring countries (2023)<br>
-
-**Revenue from forest resources**<br>
-3.01% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 21.43 micrograms per cubic meter (2019 est.)<br>
@@ -291,7 +282,7 @@ _conventional short form_: Sudan<br>
 _local long form_: Jumhuriyat as-Sudan<br>
 _local short form_: As-Sudan<br>
 _former_: Anglo-Egyptian Sudan, Democratic Republic of the Sudan<br>
-_etymology_: the name "Sudan" derives from the Arabic "bilad-as-sudan" meaning "Land of the Black [peoples]"<br>
+_etymology_: the name derives from the Arabic <em>balad-as-sudan</em>, meaning "Land of the Black [peoples]"<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -300,7 +291,7 @@ presidential republic<br>
 _name_: Khartoum<br>
 _geographic coordinates_: 15 36 N, 32 32 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: several explanations of the name exist; two of the more plausible are that it is derived from Arabic "al-jartum" meaning "elephant's trunk" or "hose," and likely referring to the narrow strip of land extending between the Blue and White Niles; alternatively, the name could derive from the Dinka words "khar-tuom," indicating a "place where rivers meet"<br>
+_etymology_: the name derives from the Arabic words <em>ras </em>(head or end) and <em>al-khurtum</em> (elephant's trunk), referring to the narrow strip of land between the Blue and White Niles where the city is located<br>
 
 **Administrative divisions**<br>
 18 states (wilayat, singular - wilayah); Blue Nile, Central Darfur, East Darfur, Gedaref, Gezira, Kassala, Khartoum, North Darfur, North Kordofan, Northern, Red Sea, River Nile, Sennar, South Darfur, South Kordofan, West Darfur, West Kordofan, White Nile<br>
@@ -313,7 +304,7 @@ _etymology_: several explanations of the name exist; two of the more plausible a
 Independence Day, 1 January (1956)<br>
 
 **Legal system**<br>
-mixed legal system of Islamic law and English common law; note - in mid-July 2020, Sudan amended 15 provisions of its 1991 penal code<br>
+mixed system of Islamic law and English common law<br>
 
 **Constitution**<br>
 _history_: previous 1973, 1998, 2005 (interim constitution, which was suspended in April 2019); latest initial draft completed by Transitional Military Council in May 2019; revised draft known as the "Draft Constitutional Charter for the 2019 Transitional Period," or &ldquo;2019 Constitutional Declaration&rdquo; was signed by the Council and opposition coalition on 4 August 2019<br>
@@ -412,9 +403,9 @@ $109.266 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-138.81% (2022 est.)<br>
-359.09% (2021 est.)<br>
-163.26% (2020 est.)<br>
+138.8% (2022 est.)<br>
+359.1% (2021 est.)<br>
+163.3% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -444,19 +435,19 @@ oil, cotton ginning, textiles, cement, edible oils, sugar, soap distilling, shoe
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-14.149 million (2023 est.)<br>
+10.949 million (2022 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 11.45% (2023 est.)<br>
-7.53% (2022 est.)<br>
-11.47% (2021 est.)<br>
+7.5% (2022 est.)<br>
+11% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.2% (2023 est.)<br>
-_male_: 18.5% (2023 est.)<br>
-_female_: 17.5% (2023 est.)<br>
+_total_: 12% (2022 est.)<br>
+_male_: 11.8% (2022 est.)<br>
+_female_: 13.1% (2022 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -483,7 +474,7 @@ _expenditures_: $9.103 billion (2015 est.)<br>
 121.6% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-7.39% (of GDP) (2016 est.)<br>
+7.4% (of GDP) (2016 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -527,7 +518,7 @@ $173.516 million (2015 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$21.878 billion (2023 est.)<br>
+$21.65 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -593,7 +584,7 @@ _domestic_: teledensity fixed-line is 1 per 100 and mobile-cellular is 74 teleph
 _international_: country code - 249; landing points for the EASSy, FALCON&nbsp;and SAS-1,-2, fiber-optic submarine cable systems linking Africa, the Middle East, Indian Ocean Islands and Asia; satellite earth stations - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-Following the establishment of Sudan&rsquo;s transitional government in August 2019, government-owned broadcasters became increasingly independent from government and military control. Following the October 2021 military takeover, additional restrictions were imposed on these government-owned broadcasters, which now practice a heightened degree of self-censorship but still operate more independently than in the pre-2019 environment. (2022)<br>
+state-owned broadcasters that self-censor but are somewhat independent (2022)<br>
 
 **Internet country code**<br>
 .sd<br>
@@ -607,11 +598,6 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 9 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 42<br>
-_annual passenger traffic on registered air carriers_: 269,958 (2018)<br>
-
 **Civil aircraft registration country code prefix**<br>
 ST<br>
 
@@ -621,22 +607,10 @@ ST<br>
 **Heliports**<br>
 8 (2025)<br>
 
-**Pipelines**<br>
-156 km gas, 4,070 km oil, 1,613 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 7,251 km (2014)<br>
 _narrow gauge_: 5,851 km (2014) 1.067-m gauge<br>
 1,400 km 0.600-m gauge for cotton plantations<br>
-
-**Roadways**<br>
-_total_: 30,000 km<br>
-_paved_: 8,000 km<br>
-_unpaved_: 22,000 km<br>
-_urban_: 1,000 km (2019)<br>
-
-**Waterways**<br>
-4,068 km (2011) (1,723 km open year-round on White and Blue Nile Rivers)<br>
 
 **Merchant marine**<br>
 _total_: 14 (2023)<br>
@@ -654,8 +628,8 @@ _key ports_: Al Khair Oil Terminal, Beshayer Oil Terminal, Port Sudan, Sawakin H
 ## Military and Security
 
 **Military and security forces**<br>
-Sudanese Armed Forces (SAF): Ground Force, Navy, Sudanese Air Force; Rapid Support Forces (RSF); Border Guards<br><br>Ministry of Interior: security police, special forces police, traffic police, Central Reserve Police (2024)<br>
-<strong>note 1:</strong> the RSF is a semi-autonomous paramilitary force formed in 2013 to fight armed rebel groups in Sudan, with Mohammed Hamdan DAGALO (aka Hemeti) as its commander; it was initially placed under the National Intelligence and Security Service, then came under the direct command of former president Omar al-BASHIR, who boosted the RSF as his own personal security force; as a result, the RSF was better funded and equipped than the regular armed forces; the RSF has since recruited from all parts of Sudan beyond its original Darfuri Arab groups but remains under the personal patronage and control of DAGALO; the RSF has participated in combat operations in Yemen and in counterinsurgency operations in Darfur, South Kordofan, and the Blue Nile State; it has also been active along the borders with Libya and the Central African Republic and has been used to respond to anti-regime demonstrations; the RSF has been accused of committing human rights abuses against civilians and is reportedly involved in business enterprises, such as gold mining; in 2023, heavy fighting broke out between the SAF and the RSF<br><br><strong>note 2:</strong> the Central Reserve Police (aka Abu Tira) is a combat-trained paramilitary force that has been used against demonstrators and sanctioned by the US for human rights abuses<br>
+Sudanese Armed Forces (SAF): Ground Force (Sudanese Army), Sudanese Navy, Sudanese Air Force; Rapid Support Forces (RSF); Border Guards<br><br>Ministry of Interior: Sudan Police Forces (SPF), Central Reserve Police (CRP) (2024)<br>
+<strong>note 1:</strong> the RSF is a semi-autonomous paramilitary force formed in 2013 to fight armed rebel groups in Sudan, with Mohammed Hamdan DAGALO (aka Hemeti) as its commander; it was initially placed under the National Intelligence and Security Service, then came under the direct command of former president Omar al-BASHIR, who boosted the RSF as his own personal security force; as a result, the RSF was better funded and equipped than the regular armed forces; the RSF has since recruited from all parts of Sudan beyond its original Darfuri Arab groups but remains under the personal patronage and control of DAGALO; the RSF has participated in military operations in Yemen, Darfur, South Kordofan, and the Blue Nile State; it has also been used to respond to anti-regime demonstrations; the RSF has been accused of committing human rights abuses against civilians and is reportedly involved in business enterprises, such as gold mining<br><br><strong>note 2:</strong> the Central Reserve Police (aka Abu Tira) is a combat-trained paramilitary force that has been used against demonstrators and sanctioned by the US for human rights abuses<br>
 
 **Military expenditures**<br>
 1% of GDP (2021 est.)<br>
@@ -666,7 +640,7 @@ Sudanese Armed Forces (SAF): Ground Force, Navy, Sudanese Air Force; Rapid Suppo
 <strong>note:</strong> many defense expenditures are probably off-budget<br>
 
 **Military and security service personnel strengths**<br>
-prior to the outbreak of fighting between the SAF and the RSF in 2023, size estimates for Sudanese armed forces varied widely: up to 200,000 SAF personnel; up to 100,000 RSF fighters; up to 80,000 Central Reserve Police (2023)<br>
+prior to the outbreak of fighting between the SAF and the RSF in 2023, size estimates for Sudan's armed forces varied widely: up to 200,000 SAF personnel; up to 100,000 RSF fighters; up to 80,000 Central Reserve Police (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SAF's inventory includes a mix of mostly Chinese, Russian, Soviet-era, and domestically produced weapons systems; Sudan has one of the largest defense industries in Africa, which includes state-owned companies with military involvement; it has mostly manufactured weapons systems under license from China, Russia, Turkey, and Ukraine (2024)<br>

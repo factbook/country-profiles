@@ -96,10 +96,10 @@ _15-64 years_: 68.7% (male 107,162/female 101,228)<br>
 _65 years and over_: 11% (2024 est.) (male 16,317/female 17,168)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 45.6<br>
-_youth dependency ratio_: 31.6<br>
-_elderly dependency ratio_: 14<br>
-_potential support ratio_: 7.1 (2021 est.)<br>
+_total dependency ratio_: 45.7 (2024 est.)<br>
+_youth dependency ratio_: 29.6 (2024 est.)<br>
+_elderly dependency ratio_: 16.1 (2024 est.)<br>
+_potential support ratio_: 6.2 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 35.3 years (2024 est.)<br>
@@ -190,7 +190,7 @@ _female_: NA<br>
 ## Environment
 
 **Environment - current issues**<br>
-sea level rise; extreme weather events (cyclones, storms, and tsunamis producing floods, landslides, erosion, and reef damage); droughts; fresh water scarcity<br>
+sea-level rise; cyclones, storms, and tsunamis producing floods, landslides, erosion, and reef damage; droughts; fresh water scarcity<br>
 
 **Climate**<br>
 tropical, but moderate<br>
@@ -229,13 +229,14 @@ _etymology_: the term "Polynesia" is an 18th-century construct composed of two G
 parliamentary democracy (Assembly of French Polynesia); an overseas collectivity of France<br>
 
 **Dependency status**<br>
-overseas country of France; note - overseas territory of France from 1946-2003; overseas collectivity of France since 2003, though it is often referred to as an overseas country due to its degree of autonomy<br>
+overseas country of France<br>
+<strong>note:</strong> overseas territory of France from 1946-2003; overseas collectivity of France since 2003, but it is often referred to as an overseas country due to its degree of autonomy<br>
 
 **Capital**<br>
 _name_: Papeete (located on Tahiti)<br>
 _geographic coordinates_: 17 32 S, 149 34 W<br>
 _time difference_: UTC-10 (5 hours behind Washington, DC, during Standard Time)<br>
-_etymology_: the name means "water basket" and refers to the fact that the islanders originally used calabashes enclosed in baskets to fetch water at a spring in the area<br>
+_etymology_: the name derives from the Tahitian words <em>pape </em>(water) and <em>ete </em>(basket), referring to a place where people came to get water<br>
 
 **Administrative divisions**<br>
 5 administrative subdivisions (subdivisions administratives, singular - subdivision administrative): Iles Australes (Austral Islands), Iles du Vent (Windward Islands), Iles Marquises (Marquesas Islands), Iles Sous-le-Vent (Leeward Islands), Iles Tuamotu-Gambier; note - the Leeward Islands and the Windward Islands together make up the Society Islands (Iles de la Soci&eacute;t&eacute;)<br>
@@ -247,7 +248,7 @@ none (overseas land of France)<br>
 F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790); note - the local holiday is Internal Autonomy Day, 29 June (1880)<br>
 
 **Legal system**<br>
-the laws of France, where applicable, apply<br>
+the laws of France apply<br>
 
 **Constitution**<br>
 _history_: 4 October 1958 (French Constitution)<br>
@@ -313,7 +314,7 @@ _total World Heritage Sites_: 2 (1 cultural, 1 mixed); note - excerpted from the
 _selected World Heritage Site locales_: Taputapuātea (c); Te Henua Enata &ndash; The Marquesas Islands (m)<br>
 
 **Government - note**<br>
-under certain acts of France, French Polynesia has acquired autonomy in all areas except those relating to police, monetary policy, tertiary education, immigration, and defense and foreign affairs; the duties of its president are fashioned after those of the French prime minister<br>
+French Polynesia has acquired autonomy from France in all areas except those relating to police, monetary policy, tertiary education, immigration, and defense and foreign affairs; the duties of its president are similar to those of the French prime minister<br>
 
 ## Economy
 
@@ -342,10 +343,6 @@ $19,800 (2019 est.)<br>
 $5.815 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
-**Inflation rate (consumer prices)**<br>
-0% (2015 est.)<br>
-0.3% (2014 est.)<br>
-
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.3% (2019 est.)<br>
 _industry_: 10.7% (2019 est.)<br>
@@ -373,19 +370,19 @@ tourism, pearls, agricultural processing, handicrafts, phosphates<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-127,000 (2023 est.)<br>
+119,100 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-11.72% (2023 est.)<br>
-11.91% (2022 est.)<br>
-12.49% (2021 est.)<br>
+11.8% (2024 est.)<br>
+11.7% (2023 est.)<br>
+11.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 37.3% (2023 est.)<br>
-_male_: 33.8% (2023 est.)<br>
-_female_: 42% (2023 est.)<br>
+_total_: 36.9% (2024 est.)<br>
+_male_: 33.5% (2024 est.)<br>
+_female_: 41.5% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
@@ -430,11 +427,11 @@ cars, packaged medicine, refined petroleum, poultry, broadcasting equipment (202
 
 **Exchange rates**<br>
 _Currency_: Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>
+110.306 (2024 est.)<br>
 110.347 (2023 est.)<br>
 113.474 (2022 est.)<br>
 100.88 (2021 est.)<br>
 104.711 (2020 est.)<br>
-106.589 (2019 est.)<br>
 
 ## Energy
 
@@ -477,7 +474,7 @@ _domestic_: fixed-line subscriptions nearly 36 per 100 persons and mobile-cellul
 _international_: country code - 689; landing points for the NATITUA, Manatua, and Honotua submarine cables to other French Polynesian Islands, Cook Islands, Niue, Samoa and US; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
 
 **Broadcast media**<br>
-French public overseas broadcaster Reseau Outre-Mer provides 2 TV channels and 1 radio station; 1 government-owned TV station; a small number of privately owned radio stations (2019)<br>
+French public overseas broadcaster R&eacute;seau Outre-Mer provides 2 TV channels and 1 radio station; 1 government-owned TV station; a small number of privately owned radio stations (2019)<br>
 
 **Internet country code**<br>
 .pf<br>
@@ -491,20 +488,11 @@ _subscriptions per 100 inhabitants_: 28 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020) (registered in France)<br>
-_inventory of registered aircraft operated by air carriers_: 19 (registered in France)<br>
-
 **Civil aircraft registration country code prefix**<br>
 F-OH<br>
 
 **Airports**<br>
 54 (2025)<br>
-
-**Roadways**<br>
-_total_: 2,590 km<br>
-_paved_: 1,735 km<br>
-_unpaved_: 855 km (1999)<br>
 
 **Merchant marine**<br>
 _total_: 24 (2023)<br>
@@ -525,7 +513,7 @@ _key ports_: Atuona, Baie Taiohae, Papeete, Port Rikitea, Uturoa, Vaitape<br>
 no regular military forces<br>
 
 **Military - note**<br>
-defense is the responsibility of France, and it maintains a military garrison in French Polynesia<br>
+defense is the responsibility of France, and it maintains a military garrison in French Polynesia (Forces Arm&eacute;es en Polyn&eacute;sie Fran&ccedil;aise, FAPF)<br>
 
 ## Transnational Issues
 

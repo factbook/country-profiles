@@ -98,10 +98,10 @@ _15-64 years_: 63.2% (male 116,210/female 113,810)<br>
 _65 years and over_: 17.1% (2024 est.) (male 29,366/female 32,719)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 50.5<br>
-_youth dependency ratio_: 28<br>
-_elderly dependency ratio_: 22.5<br>
-_potential support ratio_: 4.5 (2021 est.)<br>
+_total dependency ratio_: 58.3 (2024 est.)<br>
+_youth dependency ratio_: 31.3 (2024 est.)<br>
+_elderly dependency ratio_: 27 (2024 est.)<br>
+_potential support ratio_: 3.7 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 38 years (2024 est.)<br>
@@ -245,12 +245,6 @@ _other_: 80.9% (2022 est.)<br>
 _urban population_: 94% of total population (2023)<br>
 _rate of urbanization_: 0.74% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 5.79 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 2.06 megatons (2016 est.)<br>
@@ -289,7 +283,7 @@ unitary parliamentary republic<br>
 _name_: Reykjavik<br>
 _geographic coordinates_: 64 09 N, 21 57 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name means "smoky bay" in Icelandic and refers to the steamy, smoke-like vapors discharged by hot springs in the area<br>
+_etymology_: the name means "smoky bay" in Icelandic and refers to the steam from the hot springs in the area<br>
 
 **Administrative divisions**<br>
 64 municipalities (sveitarfelog, singular - sveitarfelagidh); Akranes, Akureyri, Arneshreppur, Asahreppur, Blaskogabyggdh, Bolungarvik, Borgarbyggdh, Dalabyggdh, Dalvikurbyggdh, Eyjafjardharsveit, Eyja-og Miklaholtshreppur, Fjallabyggdh, Fjardhabyggdh, Fljotsdalshreppur, Floahreppur, Gardhabaer, Grimsnes-og Grafningshreppur, Grindavikurbaer, Grundarfjardharbaer, Grytubakkahreppur, Hafnarfjordhur, Horgarsveit, Hrunamannahreppur, Hunathing Vestra, Hunabyggdh, Hvalfjardharsveit, Hveragerdhi, Isafjardharbaer, Kaldrananeshreppur, Kjosarhreppur, Kopavogur, Langanesbyggdh, Mosfellsbaer, Mulathing, Myrdalshreppur, Nordhurthing, Rangarthing Eystra, Rangarthing Ytra, Reykholahreppur, Reykjanesbaer, Reykjavik, Seltjarnarnes, Skaftarhreppur, Skagabyggdh, Skagafjordhur, Skeidha-og Gnupverjahreppur, Skorradalshreppur, Snaefellsbaer, Strandabyggdh, Stykkisholmur, Sudhavikurhreppur, Sudhurnesjabaer, Svalbardhsstrandarhreppur, Sveitarfelagidh Arborg, Sveitarfelagidh Hornafjordhur, Sveitarfelagidh Olfus, Sveitarfelagidh Skagastrond, Sveitarfelagidh Vogar, Talknafjardharhreppur, Thingeyjarsveit, Tjorneshreppur, Vestmannaeyjar, Vesturbyggdh, Vopnafjardharhreppur<br>
@@ -407,9 +401,9 @@ $31.325 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-8.74% (2023 est.)<br>
-8.31% (2022 est.)<br>
-4.44% (2021 est.)<br>
+5.9% (2024 est.)<br>
+8.7% (2023 est.)<br>
+8.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -445,19 +439,19 @@ tourism, fish processing; aluminum smelting; geothermal power, hydropower; medic
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-240,000 (2023 est.)<br>
+244,700 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.56% (2023 est.)<br>
-3.79% (2022 est.)<br>
-6.03% (2021 est.)<br>
+3.1% (2024 est.)<br>
+3.5% (2023 est.)<br>
+3.8% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.2% (2023 est.)<br>
-_male_: 10.5% (2023 est.)<br>
-_female_: 7.9% (2023 est.)<br>
+_total_: 7.6% (2024 est.)<br>
+_male_: 8.3% (2024 est.)<br>
+_female_: 7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -485,23 +479,23 @@ _expenditures_: $9.498 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-81.06% of GDP (2023 est.)<br>
+81.1% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-23.44% (of GDP) (2023 est.)<br>
+23.4% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$384.999 million (2023 est.)<br>
--$615.528 million (2022 est.)<br>
--$669.957 million (2021 est.)<br>
+-$845.319 million (2024 est.)<br>
+$290.603 million (2023 est.)<br>
+-$698.165 million (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$13.71 billion (2023 est.)<br>
-$13.115 billion (2022 est.)<br>
-$9.621 billion (2021 est.)<br>
+$13.916 billion (2024 est.)<br>
+$13.702 billion (2023 est.)<br>
+$13.114 billion (2022 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -513,9 +507,9 @@ aluminum, fish, orthopedic appliances, animal meal, iron alloys (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$13.532 billion (2023 est.)<br>
-$13.146 billion (2022 est.)<br>
-$10.065 billion (2021 est.)<br>
+$14.298 billion (2024 est.)<br>
+$13.63 billion (2023 est.)<br>
+$13.237 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -527,18 +521,18 @@ refined petroleum, cars, carbon-based electronics, aluminum oxide, computers (20
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$6.236 billion (2024 est.)<br>
 $5.809 billion (2023 est.)<br>
 $5.887 billion (2022 est.)<br>
-$7.079 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Icelandic kronur (ISK) per US dollar -<br>
+137.958 (2024 est.)<br>
 137.943 (2023 est.)<br>
 135.28 (2022 est.)<br>
 126.989 (2021 est.)<br>
 135.422 (2020 est.)<br>
-122.607 (2019 est.)<br>
 
 ## Energy
 
@@ -583,7 +577,7 @@ _domestic_: 27 per 100 for fixed line and nearing 118 per 100 for mobile-cellula
 _international_: country code - 354; landing points for the CANTAT-3, FARICE-1, Greenland Connect and DANICE&nbsp;submarine cable system that provides connectivity to Canada, the Faroe Islands, Greenland, UK, Denmark, and Germany;&nbsp;satellite earth stations - 2 Intelsat (Atlantic Ocean), 1 Inmarsat (Atlantic and Indian Ocean regions); note - Iceland shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Norway, and Sweden) (2019)<br>
 
 **Broadcast media**<br>
-state-owned public TV broadcaster (RUV) operates 21 TV channels nationally (RUV and RUV 2, though RUV 2 is used less frequently);  RUV broadcasts nationally, every household in Iceland is required to have RUV as it doubles as the emergency broadcast network; RUV also operates stringer offices in the north (Akureyri) and the east (Egilsstadir) but operations are all run out of RUV headquarters in Reykjavik;  there are 3 privately owned TV stations;  Stod 2 (Channel 2) is owned by Syn, following 365 Media and Vodafone merger, and is headquartered in Reykjavik;  Syn also operates 4 sports channels under Stod 2;  N4 is the only television station headquartered outside of Reykjavik, in Akureyri, with local programming for the north, south, and east of Iceland;  Hringbraut is the newest station and is headquartered in Reykjavik;  all of these television stations have nationwide penetration as 100% of households have multi-channel services though digital and/or fiber-optic connections <p>RUV operates 3 radio stations (RAS 1, RAS2, and Rondo) as well as 4 regional stations (but they mostly act as range extenders for RUV radio broadcasts nationwide); there is 1 privately owned radio conglomerate, Syn (4 stations), that broadcasts nationwide, and 3 other radio stations that broadcast to the most densely populated regions of the country.  In addition, there are upwards of 20 radio stations that operate regionally</p> (2019)<br>
+state-owned public TV broadcaster (RUV) operates 21 TV channels nationally; every household is required to have RUV, which doubles as the emergency broadcast network; 3 privately owned TV stations; 100% of households have multi-channel services though digital and/or fiber-optic connections; RUV operates 3 national and 4 regional radio stations; 1 privately owned radio conglomerate, Syn (4 stations), broadcasts nationwide; over 20 regional radio stations (2019)<br>
 
 **Internet country code**<br>
 .is<br>
@@ -597,12 +591,6 @@ _subscriptions per 100 inhabitants_: 37 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 6 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 63<br>
-_annual passenger traffic on registered air carriers_: 7,819,740 (2018)<br>
-_annual freight traffic on registered air carriers_: 163.65 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 TF<br>
 
@@ -611,9 +599,6 @@ TF<br>
 
 **Heliports**<br>
 1 (2025)<br>
-
-**Roadways**<br>
-_total_: 12,905 km (2021)<br>
 
 **Merchant marine**<br>
 _total_: 39 (2023)<br>

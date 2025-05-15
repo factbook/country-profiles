@@ -106,11 +106,10 @@ _15-64 years_: 65.6% (male 2,198,591/female 2,168,113)<br>
 _65 years and over_: 20% (2024 est.) (male 551,197/female 777,353)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.8<br>
-_youth dependency ratio_: 21.9<br>
-_elderly dependency ratio_: 31.9<br>
-_potential support ratio_: 3.1 (2021 est.)<br>
-<strong>note:</strong> data include Kosovo<br>
+_total dependency ratio_: 52.3 (2024 est.)<br>
+_youth dependency ratio_: 21.9 (2024 est.)<br>
+_elderly dependency ratio_: 30.4 (2024 est.)<br>
+_potential support ratio_: 3.3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 43.9 years (2024 est.)<br>
@@ -240,7 +239,7 @@ _female_: 15 years (2021)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution around Belgrade and other industrial cities; water pollution from industrial wastes dumped into the Sava which flows into the Danube; inadequate management of domestic, industrial, and hazardous waste<br>
+air pollution around Belgrade and other industrial cities; water pollution from industrial wastes in rivers; inadequate management of domestic, industrial, and hazardous waste<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Persistent Organic Pollutants, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -261,12 +260,6 @@ _other_: 26.4% (2022 est.)<br>
 _urban population_: 57.1% of total population (2023)<br>
 _rate of urbanization_: 0.04% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Kosovo<br>
-
-**Revenue from forest resources**<br>
-0.38% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.25% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 21.74 micrograms per cubic meter (2019 est.)<br>
@@ -314,7 +307,7 @@ _name_: Belgrade (Beograd)<br>
 _geographic coordinates_: 44 50 N, 20 30 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the Serbian "Beograd" means "white fortress" or "white city" and dates back to the 9th century; the name derives from the white fortress wall that once enclosed the city<br>
+_etymology_: the name comes from the Serbian words <em>beo </em>(white) and <em>grad </em>(city); it probably referred to the white stone of the city fortress<br>
 
 **Administrative divisions**<br>
 <p>117 municipalities (opstine, singular - opstina) and 28 cities (gradovi, singular - grad)</p> <p><strong>municipalities:</strong> Ada*, Aleksandrovac, Aleksinac, Alibunar*, Apatin*, Arandelovac, Arilje, Babusnica, Bac*, Backa Palanka*, Backa Topola*, Backi Petrovac*, Bajina Basta, Batocina, Becej*, Bela Crkva*, Bela Palanka, Beocin*, Blace, Bogatic, Bojnik, Boljevac, Bosilegrad, Brus, Bujanovac, Cajetina, Cicevac, Coka*, Crna Trava, Cuprija, Despotovac, Dimitrov, Doljevac, Gadzin Han, Golubac, Gornji Milanovac, Indija*, Irig*, Ivanjica, Kanjiza*, Kladovo, Knic, Knjazevac, Koceljeva, Kosjeric, Kovacica*, Kovin*, Krupanj, Kucevo, Kula*, Kursumlija, Lajkovac, Lapovo, Lebane, Ljig, Ljubovija, Lucani, Majdanpek, Mali Idos*, Mali Zvornik, Malo Crnice, Medveda, Merosina, Mionica, Negotin, Nova Crnja*, Nova Varos, Novi Becej*, Novi Knezevac*, Odzaci*, Opovo*, Osecina, Paracin, Pecinci*, Petrovac na Mlavi, Plandiste*, Pozega, Presevo, Priboj, Prijepolje, Raca, Raska, Razanj, Rekovac, Ruma*, Secanj*, Senta*, Sid*, Sjenica, Smederevska Palanka, Sokobanja, Srbobran*, Sremski Karlovci*, Stara Pazova*, Surdulica, Svilajnac, Svrljig, Temerin*, Titel*, Topola, Trgoviste, Trstenik, Tutin, Ub, Varvarin, Velika Plana, Veliko Gradiste, Vladicin Han, Vladimirci, Vlasotince, Vrbas*, Vrnjacka Banja, Zabalj*, Zabari, Zagubica, Zitiste*, Zitorada</p> <p><strong>cities:</strong> Beograd (Belgrade), Bor, Cacak, Jagodina, Kikinda*, Kragujevac, Kraljevo, Krusevac, Leskovac, Loznica, Nis, Novi Pazar, Novi Sad*, Pancevo*, Pirot, Pozarevac, Prokuplje, Sabac, Smederevo, Sombor*, Sremska Mitrovica*, Subotica*, Uzice, Valjevo, Vranje, Vrsac*, Zajecar, Zrenjanin*</p><br>
@@ -347,7 +340,7 @@ _residency requirement for naturalization_: 3 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Aleksandar VUCIC (since 31 May 2017)<br>
-_head of government_: Acting Prime Minister Milos VUCEVIC (in office since 2 May 2024; resigned on 28 January 2025 but will remain in an acting capacity until a new prime minister is elected)<br>
+_head of government_: Prime Minister Djuro MACUT (since 16 April 2025)<br>
 _cabinet_: Cabinet elected by the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 17 December 2023 (next to be held in 2028); prime minister elected by the National Assembly<br>
 _election results_: <em><br>2022:</em> Aleksandar VUCIC reelected in first round; percent of vote - Aleksandar VUCIC (SNS) 60%, Zdravko PONOS (US) 18.9%, Milos JOVANOVIC (NADA) 6.1%, Bosko OBRADOVIC (Dveri-POKS) 4.5%, Milica DJURDJEVIC STAMENKOVSKI (SSZ) 4.3%, other 6.2%<br><br><em>2017:</em> Aleksandar VUCIC elected president in first round; percent of vote - Aleksandar VUCIC (SNS) 55.1%, Sasa JANKOVIC (independent) 16.4%, Luka MAKSIMOVIC (independent) 9.4%, Vuk JEREMIC (independent) 5.7%, Vojislav SESELJ (SRS) 4.5%, other 7.3%, invalid/blank 1.6%; Prime Minister Ana BRNABIC reelected by the National Assembly on 5 October 2020; National Assembly vote - NA<br>
@@ -377,7 +370,7 @@ BIS, BSEC, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, G-9, IAEA, IBRD
 <strong>note</strong>: Serbia is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Vladimir MARIC (since 30 April 2024)<br>
+_chief of mission_: Ambassador-designate Dragan &Scaron;UTANOVAC (since 8 May 2025)<br>
 _chancery_: 1333 16th Street, NW Washington, D.C. 20036<br>
 _telephone_: [1] (202) 507-8654<br>
 _FAX_: [1] (202) 332-3933<br>
@@ -436,9 +429,9 @@ $81.343 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-12.37% (2023 est.)<br>
-11.98% (2022 est.)<br>
-4.09% (2021 est.)<br>
+4.7% (2024 est.)<br>
+12.4% (2023 est.)<br>
+12% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -474,19 +467,19 @@ automobiles, base metals, furniture, food processing, machinery, chemicals, suga
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.344 million (2023 est.)<br>
+3.225 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-8.68% (2023 est.)<br>
-8.68% (2022 est.)<br>
-10.06% (2021 est.)<br>
+7.4% (2024 est.)<br>
+8.3% (2023 est.)<br>
+8.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24.3% (2023 est.)<br>
-_male_: 23.2% (2023 est.)<br>
-_female_: 26.1% (2023 est.)<br>
+_total_: 22.7% (2024 est.)<br>
+_male_: 21.8% (2024 est.)<br>
+_female_: 24.1% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -525,13 +518,13 @@ _expenditures_: $23.693 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.954 billion (2023 est.)<br>
+-$1.947 billion (2023 est.)<br>
 -$4.457 billion (2022 est.)<br>
 -$2.654 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$44.343 billion (2023 est.)<br>
+$44.352 billion (2023 est.)<br>
 $39.905 billion (2022 est.)<br>
 $34.035 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -545,7 +538,7 @@ insulated wire, electricity, copper ore, plastic products, electric motors (2023
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$48.216 billion (2023 est.)<br>
+$48.158 billion (2023 est.)<br>
 $47.395 billion (2022 est.)<br>
 $39.476 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -559,21 +552,22 @@ crude petroleum, natural gas, packaged medicine, plastic products, cars (2023)<b
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$26.445 billion (2024 est.)<br>
 $27.569 billion (2023 est.)<br>
 $20.68 billion (2022 est.)<br>
-$18.617 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$23.677 billion (2023 est.)<br>
+$21.726 billion (2023 est.)<br>
+<strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Serbian dinars (RSD) per US dollar -<br>
+108.208 (2024 est.)<br>
 108.403 (2023 est.)<br>
 111.662 (2022 est.)<br>
 99.396 (2021 est.)<br>
 103.163 (2020 est.)<br>
-105.25 (2019 est.)<br>
 
 ## Energy
 
@@ -648,12 +642,6 @@ _subscriptions per 100 inhabitants_: 31 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 4 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 43<br>
-_annual passenger traffic on registered air carriers_: 2,262,703 (2018)<br>
-_annual freight traffic on registered air carriers_: 17.71 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 YU<br>
 
@@ -663,22 +651,13 @@ YU<br>
 **Heliports**<br>
 11 (2025)<br>
 
-**Pipelines**<br>
-1,936 km gas, 413 km oil<br>
-
 **Railways**<br>
 _total_: 3,333 km (2020) 1,274 km electrified<br>
-
-**Roadways**<br>
-_total_: 45,022 km (2022)<br>
-
-**Waterways**<br>
-587 km (2009) (primarily on the Danube and Sava Rivers)<br>
 
 ## Military and Security
 
 **Military and security forces**<br>
-Serbian Armed Forces (Vojska Srbije, VS): Army (aka Land Forces; includes Riverine Component, consisting of a naval flotilla on the Danube), Air and Air Defense Forces, Serbian Guard<br><br>Serbian Ministry of Internal Affairs: General Police Directorate (2024)<br>
+Serbian Armed Forces (Vojska Srbije, VS): Army (aka Land Forces; includes Riverine Component, consisting of a naval flotilla on the Danube), Air and Air Defense Forces, Serbian Guard<br><br>Serbian Ministry of Internal Affairs: Police Directorate (2025)<br>
 <strong>note:</strong> the Serbian Guard is a brigade-sized unit that is directly subordinate to the Serbian Armed Forces Chief of General Staff; its duties include safeguarding key defense facilities and rendering military honors to top foreign, state, and military officials <br><br>
 
 **Military expenditures**<br>
@@ -695,7 +674,7 @@ approximately 25,000 active-duty troops (15,000 Land Forces; 5,000 Air/Air Defen
 the military's inventory consists of a mix of domestically produced, Russian/Soviet-era, and Yugoslav equipment and weapons systems; in recent years, it has purchased some weapons systems from China, such as anti-aircraft missiles and armed aerial drones (2024)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service for men and women; conscription abolished in 2011 (2024)<br>
+18 years of age for voluntary military service for men and women; conscription abolished in 2011 (2025)<br>
 <strong>note:</strong> as of 2024, women made up about 11% of the military's full-time personnel<br>
 
 **Military deployments**<br>

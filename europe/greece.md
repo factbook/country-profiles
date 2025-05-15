@@ -70,7 +70,7 @@ one-third of the population lives in and around metropolitan Athens; the remaind
 <p>severe earthquakes</p><p><strong>volcanism:</strong> Santorini (367 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; although there have been very few eruptions in recent centuries, Methana and Nisyros in the Aegean are classified as historically active</p><br>
 
 **Geography - note**<br>
-strategic location dominating the Aegean Sea and southern approach to Turkish Straits; a peninsular country, possessing an archipelago of about 2,000 islands<br>
+strategic location dominating the Aegean Sea and southern approach to Turkish Straits; a peninsular country, with an archipelago of about 2,000 islands<br>
 
 ## People and Society
 
@@ -100,10 +100,10 @@ _15-64 years_: 62.6% (male 3,278,906/female 3,267,140)<br>
 _65 years and over_: 23.6% (2024 est.) (male 1,096,825/female 1,377,010)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 57.7<br>
-_youth dependency ratio_: 22.2<br>
-_elderly dependency ratio_: 35.5<br>
-_potential support ratio_: 2.8 (2021 est.)<br>
+_total dependency ratio_: 59.8 (2024 est.)<br>
+_youth dependency ratio_: 22 (2024 est.)<br>
+_elderly dependency ratio_: 37.8 (2024 est.)<br>
+_potential support ratio_: 2.6 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 46.5 years (2024 est.)<br>
@@ -227,7 +227,7 @@ _female_: 20 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution; air emissions from transport and electricity power stations; water pollution; degradation of coastal zones; loss of biodiversity in terrestrial and marine ecosystems; increasing municipal and industrial waste<br>
+air pollution; air emissions from transport and electricity power stations; water pollution; degradation of coastal zones; loss of biodiversity; municipal and industrial waste disposal<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulphur 94, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
@@ -247,12 +247,6 @@ _other_: 25.4% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 80.7% of total population (2023)<br>
 _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.01% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.04% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 14.62 micrograms per cubic meter (2019 est.)<br>
@@ -294,7 +288,7 @@ _name_: Athens<br>
 _geographic coordinates_: 37 59 N, 23 44 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: Athens is the oldest European capital city; according to tradition, the city is named after Athena, the Greek goddess of wisdom; in actuality, the appellation probably derives from a lost name in a pre-Hellenic language<br>
+_etymology_: the origin of the name is uncertain; according to tradition, the city is named after Athena, the Greek goddess of wisdom, but the name is probably pre-Hellenic&nbsp;<br>
 
 **Administrative divisions**<br>
 13 regions (perifereies, singular - perifereia) and 1 autonomous monastic state* (aftonomi monastiki politeia); Agion Oros* (Mount Athos), Anatoliki Makedonia kai Thraki (East Macedonia and Thrace), Attiki (Attica), Dytiki Ellada (West Greece), Dytiki Makedonia (West Macedonia), Ionia Nisia (Ionian Islands), Ipeiros (Epirus), Kentriki Makedonia (Central Macedonia), Kriti (Crete), Notio Aigaio (South Aegean), Peloponnisos (Peloponnese), Sterea Ellada (Central Greece), Thessalia (Thessaly), Voreio Aigaio (North Aegean)<br>
@@ -325,7 +319,7 @@ _residency requirement for naturalization_: 10 years<br>
 17 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: President Ekaterini SAKELLAROPOULOU (since 13 March 2020)<br>
+_chief of state_: President Konstantinos TASOULAS (since 13 March 2020)<br>
 _head of government_: Prime Minister Kyriakos MITSOTAKIS (since 26 June 2023)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president elected by Hellenic Parliament for a 5-year term (eligible for a second term); election last held on&nbsp;22 January 2020&nbsp;(next to be held by February 2025); president appoints as prime minister the leader of the majority party or coalition in the Hellenic Parliament<br>
@@ -417,9 +411,9 @@ $243.498 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-3.46% (2023 est.)<br>
-9.65% (2022 est.)<br>
-1.22% (2021 est.)<br>
+2.7% (2024 est.)<br>
+3.5% (2023 est.)<br>
+9.6% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -455,19 +449,19 @@ tourism, food and tobacco processing, textiles, chemicals, metal products; minin
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.666 million (2023 est.)<br>
+4.582 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-11% (2023 est.)<br>
-12.43% (2022 est.)<br>
-14.66% (2021 est.)<br>
+10.1% (2024 est.)<br>
+11.1% (2023 est.)<br>
+12.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.6% (2023 est.)<br>
-_male_: 24.3% (2023 est.)<br>
-_female_: 29.5% (2023 est.)<br>
+_total_: 24.7% (2024 est.)<br>
+_male_: 23.2% (2024 est.)<br>
+_female_: 26.6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -499,11 +493,11 @@ _expenditures_: $110.844 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-202.08% of GDP (2022 est.)<br>
+190.6% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-27.64% (of GDP) (2022 est.)<br>
+26.6% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -541,18 +535,18 @@ crude petroleum, refined petroleum, natural gas, cars, packaged medicine (2023)<
 <strong>note:</strong> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$5.61 billion (2024 est.)<br>
 $13.608 billion (2023 est.)<br>
 $12.061 billion (2022 est.)<br>
-$14.447 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 
 ## Energy
 
@@ -617,7 +611,7 @@ _domestic_: 47 per 100 subscribers for fixed-line and 110 per 100 for mobile-cel
 _international_: country code - 30; landing points for the SEA-ME-WE-3, Adria-1, Italy-Greece 1, OTEGLOBE, MedNautilus Submarine System, Aphrodite 2, AAE-1&nbsp;and Silphium optical telecommunications submarine cable that provides links to Europe, the Middle East, Africa, Southeast Asia, Asia and Australia;&nbsp; tropospheric scatter; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Eutelsat, and 1 Inmarsat - Indian Ocean region) (2019)<br>
 
 **Broadcast media**<br>
-broadcast media dominated by the private sector; roughly 150 private TV channels, about 10 of which broadcast nationwide; 1 government-owned terrestrial TV channel with national coverage; 3 privately owned satellite channels; multi-channel satellite and cable TV services available; upwards of 1,500 radio stations, all of them privately owned; government-owned broadcaster has 2 national radio stations<br>
+broadcast media dominated by the private sector; roughly 150 private TV channels, about 10 of which broadcast nationwide; 1 state-owned terrestrial TV channel with national coverage; 3 privately owned satellite channels; multi-channel satellite and cable TV services available; over 1,500 radio stations, all privately owned; state-owned broadcaster has 2 national radio stations<br>
 
 **Internet country code**<br>
 .gr<br>
@@ -631,12 +625,6 @@ _subscriptions per 100 inhabitants_: 44 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 11 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 97<br>
-_annual passenger traffic on registered air carriers_: 15,125,933 (2018)<br>
-_annual freight traffic on registered air carriers_: 21.91 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 SX<br>
 
@@ -646,17 +634,8 @@ SX<br>
 **Heliports**<br>
 59 (2025)<br>
 
-**Pipelines**<br>
-1,466 km gas, 94 km oil (2013)<br>
-
 **Railways**<br>
 _total_: 2,345 km (2020) 731 km electrified<br>
-
-**Roadways**<br>
-_total_: 117,000 km (2018)<br>
-
-**Waterways**<br>
-6 km (2012) (the 6-km-long Corinth Canal crosses the Isthmus of Corinth; it shortens a sea voyage by 325 km)<br>
 
 **Merchant marine**<br>
 _total_: 1,215 (2023)<br>

@@ -75,10 +75,10 @@ _15-64 years_: 63.5% (male 143,874,460/female 143,104,994)<br>
 _65 years and over_: 22% (2024 est.) (male 43,150,599/female 56,093,868)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
+_total dependency ratio_: 57.2 (2024)<br>
+_youth dependency ratio_: 22.8 (2024)<br>
+_elderly dependency ratio_: 34.5 (2024)<br>
+_potential support ratio_: 3 (2024)<br>
 
 **Median age**<br>
 _total_: 44 years (2020)<br>
@@ -166,12 +166,6 @@ _signed, but not ratified_: Air Pollution-Volatile Organic Compounds<br>
 **Climate**<br>
 cold temperate; potentially subarctic in the north to temperate; mild wet winters; hot dry summers in the south<br>
 
-**Revenue from forest resources**<br>
-0.05% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.02% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _carbon dioxide emissions_: 2,881.62 megatons (2016 est.)<br>
 
@@ -207,7 +201,7 @@ _time zone note_: the 27 European Union member states are spread across three ti
 Europe Day (also known as Schuman Day), 9 May (1950); note - the day in 1950 that Robert SCHUMAN proposed the creation of what became the European Coal and Steel Community, the progenitor of today's European Union, with the aim of achieving a united Europe<br>
 
 **Legal system**<br>
-unique supranational system of laws in which, according to the Treaty of Lisbon, "the Treaties and the law adopted by the Union on the basis of the Treaties have primacy over the law of Member States" under conditions laid down in the case law of the Court of Justice; key principles of EU jurisprudence include universal rights as guaranteed by the Charter of Fundamental Rights and resulting from constitutional traditions common to the EU's 27 member states; EU law is divided into 'primary' and 'secondary' legislation; primary legislation is derived from the Treaty on European Union and the Treaty on the Functioning of the European Union and are the basis for all EU action; secondary legislation -- which includes directives, regulations, and decisions -- is derived from the principles and objectives set out in the treaties<br>
+unique supranational system in which EU treaties and EU law have primacy over member-state law<br>
 
 **Constitution**<br>
 _history_: none; the EU legal order relies primarily on the Treaty on European Union (TEU) and the Treaty on the Functioning of the EU (TFEU)<br>
@@ -293,8 +287,8 @@ $18.591 trillion (2023 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 6.3% (2023 est.)<br>
-8.83% (2022 est.)<br>
-2.55% (2021 est.)<br>
+8.8% (2022 est.)<br>
+2.6% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -330,19 +324,19 @@ among the world's largest and most technologically advanced regions, the EU indu
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-221.675 million (2023 est.)<br>
+220.191 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.03% (2023 est.)<br>
-6.15% (2022 est.)<br>
-7.03% (2021 est.)<br>
+5.9% (2024 est.)<br>
+6% (2023 est.)<br>
+6.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.2% (2023 est.)<br>
-_male_: 16.4% (2023 est.)<br>
-_female_: 16% (2023 est.)<br>
+_total_: 15.9% (2024 est.)<br>
+_male_: 16% (2024 est.)<br>
+_female_: 16% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -362,7 +356,7 @@ _highest 10%_: 23.8% (2016 est.)<br>
 86.8% of GDP (2014)<br>
 
 **Taxes and other revenues**<br>
-19.7% (of GDP) (2022 est.)<br>
+19.8% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -370,9 +364,9 @@ $404.9 billion (2017 est.)<br>
 $359.7 billion (2016 est.)<br>
 
 **Exports**<br>
-$9.667 trillion (2023 est.)<br>
-$9.41 trillion (2022 est.)<br>
-$8.712 trillion (2021 est.)<br>
+$9.677 trillion (2023 est.)<br>
+$9.427 trillion (2022 est.)<br>
+$8.714 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -384,9 +378,9 @@ cars, packaged medicine, refined petroleum, vehicle parts/accessories, vaccines 
 <strong>note:</strong> top five export commodities based on value in dollars; includes both exports to external partners and internal trade among EU member states<br>
 
 **Imports**<br>
-$8.969 trillion (2023 est.)<br>
-$9.061 trillion (2022 est.)<br>
-$8.022 trillion (2021 est.)<br>
+$8.974 trillion (2023 est.)<br>
+$9.072 trillion (2022 est.)<br>
+$8.024 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -487,10 +481,6 @@ _subscriptions per 100 inhabitants_: 39 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_annual passenger traffic on registered air carriers_: 636,860,155 (2018)<br>
-_annual freight traffic on registered air carriers_: 31,730,660,000 (2018)<br>
-
 **Airports**<br>
 5,211 (2025)<br>
 
@@ -499,12 +489,6 @@ _annual freight traffic on registered air carriers_: 31,730,660,000 (2018)<br>
 
 **Railways**<br>
 _total_: 4,894,173 km (2019)<br>
-
-**Roadways**<br>
-_total_: 4,894,173 km (2019) 4,894,173<br>
-
-**Waterways**<br>
-42,000 km (2017) 42,000 km<br>
 
 ## Military and Security
 

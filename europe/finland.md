@@ -104,10 +104,10 @@ _15-64 years_: 60.3% (male 1,725,072/female 1,668,604)<br>
 _65 years and over_: 23.5% (2024 est.) (male 583,645/female 739,569)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 62.1<br>
-_youth dependency ratio_: 25<br>
-_elderly dependency ratio_: 37.1<br>
-_potential support ratio_: 2.7 (2021 est.)<br>
+_total dependency ratio_: 62.4 (2024 est.)<br>
+_youth dependency ratio_: 23.8 (2024 est.)<br>
+_elderly dependency ratio_: 38.5 (2024 est.)<br>
+_potential support ratio_: 2.6 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 43.3 years (2024 est.)<br>
@@ -255,12 +255,6 @@ _other_: 18.8% (2022 est.)<br>
 _urban population_: 85.8% of total population (2023)<br>
 _rate of urbanization_: 0.42% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-0.36% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 5.47 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 45.87 megatons (2016 est.)<br>
@@ -303,7 +297,7 @@ _name_: Helsinki<br>
 _geographic coordinates_: 60 10 N, 24 56 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the name may derive from the Swedish <em>helsing</em>, an archaic name for "neck" (<em>hals</em>), and which may refer to a narrowing of the Vantaa River that flows into the Gulf of Finland at Helsinki; <em>fors</em> refers to "rapids," so <em>helsing fors</em> meaning becomes "the narrows' rapids"<br>
+_etymology_: the modern name is a Finnish derivation; King Gustav VASA of Sweden founded the city in 1550 as Helsingfors; the name came from <em>Helsing</em>, the Old Norwegian name for a local people, and the word <em>fors</em>, or "waterfall," referring to a waterfall at the city's original location on the Vantaa River<br>
 
 **Administrative divisions**<br>
 19 regions (maakunnat, singular - maakunta (Finnish); landskapen, singular - landskapet (Swedish)); Aland (Swedish), Ahvenanmaa (Finnish); Etela-Karjala (Finnish), Sodra Karelen (Swedish) [South Karelia]; Etela-Pohjanmaa (Finnish), Sodra Osterbotten (Swedish) [South Ostrobothnia]; Etela-Savo (Finnish), Sodra Savolax (Swedish) [South Savo]; Kanta-Hame (Finnish), Egentliga Tavastland (Swedish); Kainuu (Finnish), Kajanaland (Swedish); Keski-Pohjanmaa (Finnish), Mellersta Osterbotten (Swedish) [Central Ostrobothnia]; Keski-Suomi (Finnish), Mellersta Finland (Swedish) [Central Finland]; Kymenlaakso (Finnish), Kymmenedalen (Swedish); Lappi (Finnish), Lappland (Swedish); Paijat-Hame (Finnish), Paijanne-Tavastland (Swedish); Pirkanmaa (Finnish), Birkaland (Swedish) [Tampere]; Pohjanmaa (Finnish), Osterbotten (Swedish) [Ostrobothnia]; Pohjois-Karjala (Finnish), Norra Karelen (Swedish) [North Karelia]; Pohjois-Pohjanmaa (Finnish), Norra Osterbotten (Swedish) [North Ostrobothnia]; Pohjois-Savo (Finnish), Norra Savolax (Swedish) [North Savo]; Satakunta (Finnish and Swedish); Uusimaa (Finnish), Nyland (Swedish) [Newland]; Varsinais-Suomi (Finnish), Egentliga Finland (Swedish) [Southwest Finland]<br>
@@ -423,9 +417,9 @@ $295.532 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-6.25% (2023 est.)<br>
-7.12% (2022 est.)<br>
-2.19% (2021 est.)<br>
+1.6% (2024 est.)<br>
+6.3% (2023 est.)<br>
+7.1% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -461,19 +455,19 @@ metals and metal products, electronics, machinery and scientific instruments, sh
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.879 million (2023 est.)<br>
+2.876 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7.16% (2023 est.)<br>
-6.72% (2022 est.)<br>
-7.61% (2021 est.)<br>
+8.3% (2024 est.)<br>
+7.2% (2023 est.)<br>
+6.7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.9% (2023 est.)<br>
-_male_: 16.4% (2023 est.)<br>
-_female_: 15.5% (2023 est.)<br>
+_total_: 19.2% (2024 est.)<br>
+_male_: 20% (2024 est.)<br>
+_female_: 18.3% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -509,19 +503,19 @@ _expenditures_: $106.991 billion (2022 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-21.2% (of GDP) (2022 est.)<br>
+25.3% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.256 billion (2023 est.)<br>
--$6.321 billion (2022 est.)<br>
-$961.053 million (2021 est.)<br>
+$930.393 million (2024 est.)<br>
+-$1.58 billion (2023 est.)<br>
+-$7.026 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$126.517 billion (2023 est.)<br>
-$128.857 billion (2022 est.)<br>
-$117.18 billion (2021 est.)<br>
+$124.531 billion (2024 est.)<br>
+$127.098 billion (2023 est.)<br>
+$129.389 billion (2022 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -533,9 +527,9 @@ paper, refined petroleum, steel, wood pulp, ships (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$125.645 billion (2023 est.)<br>
-$134.431 billion (2022 est.)<br>
-$117.072 billion (2021 est.)<br>
+$122.644 billion (2024 est.)<br>
+$126.175 billion (2023 est.)<br>
+$135.119 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -547,18 +541,18 @@ crude petroleum, cars, refined petroleum, packaged medicine, broadcasting equipm
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$14.322 billion (2024 est.)<br>
 $16.929 billion (2023 est.)<br>
 $16.036 billion (2022 est.)<br>
-$16.744 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 
 ## Energy
 
@@ -625,7 +619,7 @@ _domestic_: fixed-line 4 per 100 subscriptions and nearly 129 per 100 mobile-cel
 _international_: country code - 358; landing points for Botnia, BCS North-1 &amp; 2, SFL, SFS-4, C-Lion1, Eastern Lights, Baltic Sea Submarine Cable, FEC, and EESF-2 &amp; 3 submarine cables that provide links to many&nbsp;Finland points, Estonia, Sweden, Germany, and Russia; satellite earth stations - access to Intelsat transmission service via a Swedish satellite earth station, 1 Inmarsat (Atlantic and Indian Ocean regions); note - Finland shares the Inmarsat earth station with the other Nordic countries (Denmark, Iceland, Norway, and Sweden) (2019)<br>
 
 **Broadcast media**<br>
-a mix of 3 publicly operated TV stations and numerous privately owned TV stations; several free and special-interest pay-TV channels; cable and satellite multi-channel subscription services are available; all TV signals are broadcast digitally; Internet television, such as Netflix and others, is available; public broadcasting maintains a network of 13 national and 25 regional radio stations; a large number of private radio broadcasters and access to Internet radio<br>
+3 publicly operated TV stations and numerous privately owned TV stations; several free and special-interest pay-TV channels; cable and satellite multi-channel subscription services are available; all TV signals are digital; 13 national and 25 regional public radio stations; a large number of private radio broadcasters&nbsp;<br>
 
 **Internet country code**<br>
 <p>.fi</p> <p> </p><br>
@@ -640,12 +634,6 @@ _subscriptions per 100 inhabitants_: 35 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 3 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 77<br>
-_annual passenger traffic on registered air carriers_: 13,364,839 (2018)<br>
-_annual freight traffic on registered air carriers_: 957.64 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 OH<br>
 
@@ -655,19 +643,8 @@ OH<br>
 **Heliports**<br>
 17 (2025)<br>
 
-**Pipelines**<br>
-1,288 km gas transmission pipes, 1,976 km distribution pipes (2016)<br>
-
 **Railways**<br>
 _total_: 5,918 km (2020) 3,349 km electrified<br>
-
-**Roadways**<br>
-_total_: 108,637 km (2019)<br>
-_private and forest roads_: 350,000 km (2012)<br>
-_urban_: 26,000 km (2012)<br>
-
-**Waterways**<br>
-8,000 km (2013) (includes Saimaa Canal system of 3,577 km; southern part leased from Russia; water transport used frequently in the summer and widely replaced with sledges on the ice in winter; there are 187,888 lakes in Finland that cover 31,500 km); Finland also maintains 8,200 km of coastal fairways<br>
 
 **Merchant marine**<br>
 _total_: 282 (2023)<br>

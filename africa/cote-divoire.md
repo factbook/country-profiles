@@ -106,10 +106,10 @@ _15-64 years_: 60.9% (male 9,200,957/female 9,060,748)<br>
 _65 years and over_: 3% (2024 est.) (male 401,967/female 490,196)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 79.2<br>
-_youth dependency ratio_: 74.9<br>
-_elderly dependency ratio_: 4.3<br>
-_potential support ratio_: 19.3 (2021 est.)<br>
+_total dependency ratio_: 73.6 (2024 est.)<br>
+_youth dependency ratio_: 68.8 (2024 est.)<br>
+_elderly dependency ratio_: 4.7 (2024 est.)<br>
+_potential support ratio_: 21.1 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 21.2 years (2024 est.)<br>
@@ -236,7 +236,7 @@ _female_: 10 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation (most of the country's forests - once the largest in West Africa - have been heavily logged); water pollution from sewage, and from industrial, mining, and agricultural effluents<br>
+deforestation; water pollution from sewage and from industrial, mining, and agricultural effluents<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -256,12 +256,6 @@ _other_: 7.6% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 53.1% of total population (2023)<br>
 _rate of urbanization_: 3.38% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-2.04% of GDP (2016 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 40.41 micrograms per cubic meter (2019 est.)<br>
@@ -317,7 +311,7 @@ _etymology_: formerly a village named N'Gokro, Yamoussoukro is named after Queen
 Independence Day, 7 August (1960)<br>
 
 **Legal system**<br>
-civil law system based on the French civil code; judicial review of legislation held in the Constitutional Chamber of the Supreme Court<br>
+civil law system based on the French civil code; Constitutional Chamber of the Supreme Court reviews legislation<br>
 
 **Constitution**<br>
 _history_: previous 1960, 2000; latest draft completed 24 September 2016, approved by the National Assembly 11 October 2016, approved by referendum 30 October 2016, promulgated 8 November 2016<br>
@@ -437,9 +431,9 @@ $78.875 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.39% (2023 est.)<br>
-5.28% (2022 est.)<br>
-4.09% (2021 est.)<br>
+3.5% (2024 est.)<br>
+4.4% (2023 est.)<br>
+5.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -474,19 +468,19 @@ foodstuffs, beverages; wood products, oil refining, gold mining, truck and bus a
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-11.793 million (2023 est.)<br>
+12.595 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.4% (2023 est.)<br>
-2.43% (2022 est.)<br>
-2.59% (2021 est.)<br>
+2.3% (2024 est.)<br>
+2.3% (2023 est.)<br>
+2.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4% (2023 est.)<br>
-_male_: 3.3% (2023 est.)<br>
-_female_: 4.9% (2023 est.)<br>
+_total_: 3.9% (2024 est.)<br>
+_male_: 3.5% (2024 est.)<br>
+_female_: 4.4% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -521,7 +515,7 @@ _expenditures_: $13.255 billion (2022 est.)<br>
 47% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-11.94% (of GDP) (2022 est.)<br>
+13.4% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -563,16 +557,16 @@ $6.257 billion (2017 est.)<br>
 $4.935 billion (2016 est.)<br>
 
 **Debt - external**<br>
-$27.931 billion (2023 est.)<br>
+$26.576 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+606.345 (2024 est.)<br>
 606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
-585.911 (2019 est.)<br>
 
 ## Energy
 
@@ -628,7 +622,7 @@ _domestic_: 1 per 100 fixed-line teledensity; mobile subscriptions are 162 per 1
 _international_: country code - 225; landing point for the SAT-3/WASC, ACE, MainOne, and WACS&nbsp;fiber-optic submarine cable that provides connectivity to Europe and South and West Africa; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean) (2019)<br>
 
 **Broadcast media**<br>
-state-controlled Radiodiffusion Television Ivoirieinne (RTI) is made up of 2 radio stations (Radio Cote d'Ivoire and Frequence2) and 2 television stations (RTI1 and RTI2), with nationwide coverage, broadcasts mainly in French; after 2011 post-electoral crisis, President OUATTARA's administration reopened RTI Bouake', the broadcaster's office in Cote d'Ivoire's 2nd largest city, where facilities were destroyed during the 2002 rebellion; Cote d'Ivoire is also home to 178 proximity radio stations, 16 religious radio stations, 5 commercial radio stations, and 5 international radios stations, according to the Haute Autorite' de la Communication Audiovisuelle (HACA); govt now runs radio UNOCIFM, a radio station previously owned by the UN Operation in Cote d'Ivoire; in Dec 2016, the govt announced 4 companies had been granted licenses to operate -Live TV, Optimum Media Cote d'Ivoire, the Audiovisual Company of Cote d'Ivoire (Sedaci), and Sorano-CI, out of the 4 companies only one has started operating (2019)<br>
+state-controlled Radiodiffusion T&eacute;l&eacute;vision Ivoirienne (RTI) is made up of 2 radio stations (Radio Cote d'Ivoire and Fr&eacute;quence2) and 2 TV stations (RTI1 and RTI2) with nationwide coverage, broadcasting mainly in French; 178 proximity radio stations, 16 religious radio stations, 5 commercial radio stations, and 5 international radio stations; government now runs radio station UNOCIFM, previously owned by the UN Operation in Cote d'Ivoire; in 2016, 4 media companies were granted licenses: Live TV, Optimum Media Cote d'Ivoire, the Audiovisual Company of Cote d'Ivoire (Sedaci), and Sorano-CI (2019)<br>
 
 **Internet country code**<br>
 .ci<br>
@@ -642,12 +636,6 @@ _subscriptions per 100 inhabitants_: 1 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 10<br>
-_annual passenger traffic on registered air carriers_: 779,482 (2018)<br>
-_annual freight traffic on registered air carriers_: 5.8 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 TU<br>
 
@@ -657,22 +645,10 @@ TU<br>
 **Heliports**<br>
 1 (2025)<br>
 
-**Pipelines**<br>
-101 km condensate, 256 km gas, 118 km oil, 5 km oil/gas/water, 7 km water (2013)<br>
-
 **Railways**<br>
 _total_: 660 km (2008)<br>
 _narrow gauge_: 660 km (2008) 1.000-m gauge<br>
 <strong>note:</strong> an additional 622 km of this railroad extends into Burkina Faso<br>
-
-**Roadways**<br>
-_total_: 81,996 km<br>
-_paved_: 6,502 km<br>
-_unpaved_: 75,494 km (2007)<br>
-<strong>note:</strong> includes intercity and urban roads; another 20,000 km of dirt roads are in poor condition and 150,000 km of dirt roads are impassable<br>
-
-**Waterways**<br>
-980 km (2011) (navigable rivers, canals, and numerous coastal lagoons)<br>
 
 **Merchant marine**<br>
 _total_: 25 (2023)<br>
@@ -691,7 +667,7 @@ _key ports_: Abidjan, Baobab Marine Terminal, Espoir Marine Terminal, Port Bouet
 
 **Military and security forces**<br>
 Armed Forces of Cote d'Ivoire (Forces Armees de Cote d'Ivoire, FACI; aka Republican Forces of Ivory Coast, FRCI): Army, National Navy, Air Force, Special Forces; National Gendarmerie <br><br>Ministry of Security and Civil Protection: National Police (2025)<br>
-<strong>note:</strong> the National Gendarmerie is a paramilitary force under the Ministry of Defense that is responsible for ensuring public safety, maintaining order, enforcing laws, and protecting institutions, people, and property; it is organized into mobile and territorial components; the Mobile Gendarmerie is responsible for maintaining and restoring order and is considered the backbone of the country’s domestic security; the Territorial Gendarmerie is responsible for the administrative, judicial, and military police; the Gendarmerie also has separate specialized units for security, intervention (counterterrorism, hostage rescue, etc), VIP protection, and surveillance<br><br>
+<strong>note:</strong> the National Gendarmerie is a paramilitary force under the Ministry of Defense that is responsible for ensuring public safety, maintaining order, enforcing laws, and protecting institutions, people, and property; it is organized into mobile and territorial components; the Mobile Gendarmerie is responsible for maintaining and restoring order and is considered the backbone of the country’s domestic security; the Territorial Gendarmerie is responsible for the administrative, judicial, and military police; the Gendarmerie also has separate specialized units for security, intervention (counterterrorism, hostage rescue, etc), VIP protection, and surveillance<br>
 
 **Military expenditures**<br>
 0.9% of GDP (2023 est.)<br>
@@ -701,7 +677,7 @@ Armed Forces of Cote d'Ivoire (Forces Armees de Cote d'Ivoire, FACI; aka Republi
 1.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 20-25,000 active FACI troops; approximately 5,000 Gendarmerie (2024)<br>
+approximately 25-30,000 active FACI troops, including Gendarmerie personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the FACI consists mostly of older or second-hand equipment, typically of French or Soviet-era origin; Cote d'Ivoire was under a partial UN arms embargo from 2004 to 2016; in recent years it has received some new and secondhand equipment from a variety of suppliers, including Bulgaria, China, France, South Africa, and Turkey (2024)<br>

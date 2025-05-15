@@ -80,7 +80,7 @@ the Indus River and its tributaries attract most of the settlement, with Punjab 
 frequent earthquakes, occasionally severe especially in north and west; flooding along the Indus after heavy rains (July and August)<br>
 
 **Geography - note**<br>
-controls Khyber Pass and Bolan Pass, traditional invasion routes between Central Asia and the Indian Subcontinent<br>
+controls Khyber Pass and Bolan Pass, traditional invasion routes between Central Asia and India<br>
 
 ## People and Society
 
@@ -88,7 +88,6 @@ controls Khyber Pass and Bolan Pass, traditional invasion routes between Central
 _total_: 252,363,571 (2024 est.)<br>
 _male_: 128,387,797<br>
 _female_: 123,975,774<br>
-<strong>note:</strong> results of Pakistan's 2017 national census estimate the country's total population to be 207,684,626<br>
 
 **Nationality**<br>
 _noun_: Pakistani(s)<br>
@@ -111,10 +110,10 @@ _15-64 years_: 60.7% (male 78,321,834/female 74,833,003)<br>
 _65 years and over_: 4.9% (2024 est.) (male 5,735,294/female 6,613,764)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 70<br>
-_youth dependency ratio_: 62.8<br>
-_elderly dependency ratio_: 7.2<br>
-_potential support ratio_: 13.9 (2021 est.)<br>
+_total dependency ratio_: 64.8 (2024 est.)<br>
+_youth dependency ratio_: 56.7 (2024 est.)<br>
+_elderly dependency ratio_: 8.1 (2024 est.)<br>
+_potential support ratio_: 12.4 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 22.9 years (2024 est.)<br>
@@ -268,12 +267,6 @@ _rate of urbanization_: 2.1% annual rate of change (2020-25 est.)<br>
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to population displacements, economic constraints, and high prices of the main food staple - </em>according to the latest analysis, the number of people facing high levels of acute food insecurity between April and October 2023 is estimated at 10.5 million people, due to the devastating flood impacts in 2022; price of wheat flour, the country’s main staple, were at elevated levels in most markets in January 2023, constraining access to a key staple food (2023)<br>
 
-**Revenue from forest resources**<br>
-0.1% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.06% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 50.13 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 201.15 megatons (2016 est.)<br>
@@ -318,7 +311,7 @@ federal parliamentary republic<br>
 _name_: Islamabad<br>
 _geographic coordinates_: 33 41 N, 73 03 E<br>
 _time difference_: UTC+5 (10 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: derived from two words: <em>Islam</em>, an Urdu word referring to the religion of Islam, and <em>-abad</em>, a Persian suffix indicating an "inhabited place" or "city," to render the meaning "City of Islam"<br>
+_etymology_: the name means "city of Islam" and derives from the Arabic <em>islam</em>, referring to the Islamic faith, and the Persian suffix <em>-abad</em>, meaning "inhabited place" or "city"<br>
 
 **Administrative divisions**<br>
 4 provinces, 2 Pakistan-administered areas*, and 1 capital territory**; Azad Kashmir*, Balochistan, Gilgit-Baltistan*, Islamabad Capital Territory**, Khyber Pakhtunkhwa, Punjab, Sindh<br>
@@ -452,9 +445,9 @@ $337.912 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-30.77% (2023 est.)<br>
-19.87% (2022 est.)<br>
-9.5% (2021 est.)<br>
+12.6% (2024 est.)<br>
+30.8% (2023 est.)<br>
+19.9% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -490,19 +483,19 @@ textiles and apparel, food processing, pharmaceuticals, surgical instruments, co
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-82.187 million (2023 est.)<br>
+83.644 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.5% (2023 est.)<br>
-5.55% (2022 est.)<br>
-6.34% (2021 est.)<br>
+5.5% (2024 est.)<br>
+5.4% (2023 est.)<br>
+5.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.7% (2023 est.)<br>
-_male_: 9.3% (2023 est.)<br>
-_female_: 10.7% (2023 est.)<br>
+_total_: 9.9% (2024 est.)<br>
+_male_: 9.8% (2024 est.)<br>
+_female_: 10.1% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -540,15 +533,15 @@ _expenditures_: $49.558 billion (2015 est.)<br>
 15.4% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
+$803.957 million (2024 est.)<br>
 -$825.232 million (2023 est.)<br>
 -$12.216 billion (2022 est.)<br>
--$12.283 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$40.193 billion (2024 est.)<br>
 $36.317 billion (2023 est.)<br>
 $38.967 billion (2022 est.)<br>
-$35.612 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -560,9 +553,9 @@ garments, fabric, refined petroleum, rice, cotton fabric (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$66.752 billion (2024 est.)<br>
 $57.963 billion (2023 est.)<br>
 $76.594 billion (2022 est.)<br>
-$76.514 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -574,22 +567,22 @@ natural gas, refined petroleum, crude petroleum, palm oil, plastics (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$12.977 billion (2024 est.)<br>
 $13.73 billion (2023 est.)<br>
 $9.927 billion (2022 est.)<br>
-$22.812 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$94.271 billion (2023 est.)<br>
+$89.148 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Pakistani rupees (PKR) per US dollar -<br>
+278.581 (2024 est.)<br>
 280.356 (2023 est.)<br>
 204.867 (2022 est.)<br>
 162.906 (2021 est.)<br>
 161.838 (2020 est.)<br>
-150.036 (2019 est.)<br>
 
 ## Energy
 
@@ -662,7 +655,7 @@ _domestic_: mobile-cellular subscribership has increased; more than 90% of Pakis
 _international_: country code - 92; landing points for the SEA-ME-WE-3, -4, -5, AAE-1, IMEWE, Orient Express, PEACE Cable,&nbsp;and TW1 submarine cable systems that provide links to Europe, Africa, the Middle East, Asia, Southeast Asia, and Australia; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Indian Ocean); 3 operational international gateway exchanges (1 at Karachi and 2 at Islamabad); microwave radio relay to neighboring countries (2019)<br>
 
 **Broadcast media**<br>
-television is the most popular and dominant source of news in Pakistan with over 120 satellite tv stations licensed by the country&rsquo;s electronic media regulatory body, PEMRA ,and 42 media companies/channels with landing rights permission; state-run Pakistan Television Corporation (PTV) is the largest television network in the country and serves over 85 percent of the population with the largest terrestrial infrastructure of the country; PTV consists of nine TV Channels and PTV networks give special coverage to Kashmir; Pakistanis have access to over 100 private cable and satellite channels; six channels are considered the leaders for news reporting and current affairs programing in the country; state-owned Pakistan Broadcasting Corporation (PBC or Radio Pakistan) has the largest radio audience in the country, particularly in the rural areas; Radio Pakistan&rsquo;s AM/SW/FM stations cover 98 percent of the population and 80 percent of the total area in the country; all major newspapers have online editions and all major print publications operate websites; freedom of the press and freedom of speech in the country are fragile (2022)<br>
+120 satellite TV stations; 42 media companies/channels; state-run Pakistan Television Corporation (PTV) is the largest TV network, serves over 85 percent of the population with 9 TV channels; over 100 private cable and satellite channels; state-owned Pakistan Broadcasting Corporation (PBC or Radio Pakistan) has the largest radio audience, particularly in rural areas, with AM/SW/FM stations covering most of the country (2022)<br>
 
 **Internet country code**<br>
 .pk<br>
@@ -676,12 +669,6 @@ _subscriptions per 100 inhabitants_: 1 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 5 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 52<br>
-_annual passenger traffic on registered air carriers_: 6,880,637 (2018)<br>
-_annual freight traffic on registered air carriers_: 217.53 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 AP<br>
 
@@ -691,18 +678,10 @@ AP<br>
 **Heliports**<br>
 48 (2025)<br>
 
-**Pipelines**<br>
-13,452 km gas transmission and 177,029 km gas distribution, 3,663 km oil, 1,150 km refined products (2022)<br>
-
 **Railways**<br>
 _total_: 11,881 km (2021)<br>
 _narrow gauge_: 389 km (2021) 1.000-m gauge<br>
 _broad gauge_: 11,492 km (2021) 1.676-m gauge (286 km electrified)<br>
-
-**Roadways**<br>
-_total_: 264,175 km<br>
-_paved_: 185,463 km (includes 708 km of expressways)<br>
-_unpaved_: 78,712 km (2021)<br>
 
 **Merchant marine**<br>
 _total_: 60 (2023)<br>
@@ -720,8 +699,8 @@ _key ports_: Gwadar, Karachi, Muhamamad Bin Qasim<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Pakistan Armed Forces: Pakistan Army (includes National Guard), Pakistan Navy (includes marines, Maritime Security Agency), Pakistan Air Force (Pakistan Fizaia)<br><br>Ministry of Interior: Frontier Corps, Pakistan Rangers (2024)<br>
-<strong>note 1:</strong> the National Guard is a paramilitary force and one of the Army's reserve forces, along with the Pakistan Army Reserve, the Frontier Corps, and the Pakistan Rangers<br><br><strong>note 2: </strong>the Frontier Corps is a paramilitary force manned mostly by individuals from the tribal areas and commanded by Pakistan Army officers; its primary mission is security of the border with Afghanistan; the Frontier Corps is under the Ministry of Interior, but would report to the Army in times of conflict<br><br><strong>note 3: </strong>the paramilitary Pakistan Rangers operate in Sindh and Punjab<br>
+Pakistan Armed Forces: Pakistan Army (includes National Guard), Pakistan Navy (includes Pakistan Marines, Pakistan Maritime Security Agency), Pakistan Air Force<br><br>Ministry of Interior: Frontier Constabulary, Frontier Corps, National Police, Pakistan Coast Guard, Punjab (Pakistan) Rangers, Sindh (Pakistan) Rangers (2025)<br>
+<strong>note:</strong> the National Guard is a paramilitary force and one of the Army's reserve forces; other Army reserves include the Pakistan Army Reserve, the Frontier Corps, and the Pakistan Rangers<br>
 
 **Military expenditures**<br>
 3% of GDP (2023 est.)<br>
@@ -731,7 +710,7 @@ Pakistan Armed Forces: Pakistan Army (includes National Guard), Pakistan Navy (i
 4.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 630,000 active-duty personnel (550,000 Army; 30,000 Navy; 50,000 Air Force); approximately 150,000 Frontier Corps and Pakistan Rangers (2023)<br>
+information varies; approximately 650,000 active-duty military personnel (550,000 Army; 30,000 Navy; 70,000 Air Force) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a broad mix of mostly imported and some domestically produced weapons and equipment; most of its imported weapons are from China; other suppliers include France, Russia, Turkey, Ukraine, the UK, and the US; Pakistan also has a large domestic defense industry, which produces or co-produces such items as armored vehicles, aircraft, missiles, naval vessels (2024)<br>

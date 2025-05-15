@@ -100,10 +100,10 @@ _15-64 years_: 69.4% (male 12,308,938/female 11,666,947)<br>
 _65 years and over_: 8.4% (2024 est.) (male 1,409,360/female 1,501,332)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 43.3<br>
-_youth dependency ratio_: 32.9<br>
-_elderly dependency ratio_: 10.4<br>
-_potential support ratio_: 9.6 (2021 est.)<br>
+_total dependency ratio_: 44.2 (2024 est.)<br>
+_youth dependency ratio_: 32 (2024 est.)<br>
+_elderly dependency ratio_: 12.1 (2024 est.)<br>
+_potential support ratio_: 8.2 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 31.8 years (2024 est.)<br>
@@ -245,12 +245,6 @@ _other_: 16% (2022 est.)<br>
 _urban population_: 78.7% of total population (2023)<br>
 _rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-1.57% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.02% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 21.52 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 248.29 megatons (2016 est.)<br>
@@ -288,10 +282,11 @@ federal parliamentary constitutional monarchy<br>
 <strong>note:</strong> all Peninsular Malaysian states have hereditary rulers (commonly referred to as sultans) except Melaka (Malacca) and Pulau Pinang (Penang); those two states along with Sabah and Sarawak in East Malaysia have governors appointed by government; powers of state governments are limited by the federal constitution; under terms of federation, Sabah and Sarawak retain certain constitutional prerogatives (e.g., right to maintain their own immigration controls)<br>
 
 **Capital**<br>
-_name_: Kuala Lumpur; note - nearby Putrajaya is referred to as a federal government administrative center but not the capital; Parliament meets in Kuala Lumpur<br>
+_name_: Kuala Lumpur<br>
 _geographic coordinates_: 3 10 N, 101 42 E<br>
 _time difference_: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the Malay word for "river junction or estuary" is <em>kuala</em> and <em>lumpur</em> means "mud"; together the words render the meaning of "muddy confluence"<br>
+_etymology_: the name means "muddy river junction," referring to the city's location on the confluence of the Kelang and Gombak rivers; it comes from the Malay words <em>kuala </em>(river junction or estuary) and <em>lumpur</em> (mud)<br>
+<strong>note:</strong> nearby Putrajaya is referred to as a federal government administrative center but not as the capital; the legislature meets in Kuala Lumpur<br>
 
 **Administrative divisions**<br>
 13 states (negeri-negeri, singular - negeri); Johor, Kedah, Kelantan, Melaka, Negeri Sembilan, Pahang, Perak, Perlis, Pulau Pinang, Sabah, Sarawak, Selangor, Terengganu; and 1 federal territory (Wilayah Persekutuan) with 3 components, Kuala Lumpur, Labuan, and Putrajaya<br>
@@ -303,7 +298,7 @@ _etymology_: the Malay word for "river junction or estuary" is <em>kuala</em> an
 Independence Day (or Merdeka Day), 31 August (1957) (independence of Malaya); Malaysia Day, 16 September (1963) (formation of Malaysia)<br>
 
 **Legal system**<br>
-mixed legal system of English common law, Islamic law (sharia), and customary law; judicial review of legislative acts in the Federal Court at request of supreme head of the federation<br>
+mixed system of English common law, Islamic law (sharia), and customary law; the Federal Court can review legislative acts at the request of the supreme head of the federation<br>
 
 **Constitution**<br>
 _history_: previous 1948; latest drafted 21 February 1957, effective 27 August 1957<br>
@@ -346,9 +341,6 @@ _expected date of next election_: November 2027<br>
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate (Dewan Negara)<br>
 _number of seats_: 70 (26 indirectly elected; 44 appointed)<br>
-_scope of elections_: Full renewal<br>
-_most recent election date_: 11/8/2020<br>
-_parties elected and seats per party_: National League for Democracy (NLD) (138); Other (23)<br>
 _percentage of women in chamber_: 16.1%<br>
 
 **Judicial branch**<br>
@@ -423,9 +415,9 @@ $399.705 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-2.49% (2023 est.)<br>
-3.38% (2022 est.)<br>
-2.48% (2021 est.)<br>
+1.8% (2024 est.)<br>
+2.5% (2023 est.)<br>
+3.4% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -461,19 +453,19 @@ Peninsular Malaysia - rubber and oil palm processing and manufacturing, petroleu
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-17.75 million (2023 est.)<br>
+18.264 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.86% (2023 est.)<br>
-3.93% (2022 est.)<br>
-4.64% (2021 est.)<br>
+3.8% (2024 est.)<br>
+3.9% (2023 est.)<br>
+3.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.5% (2023 est.)<br>
-_male_: 11.4% (2023 est.)<br>
-_female_: 14.2% (2023 est.)<br>
+_total_: 12.3% (2024 est.)<br>
+_male_: 11.3% (2024 est.)<br>
+_female_: 13.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -505,23 +497,23 @@ _expenditures_: $72.986 billion (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-60.18% of GDP (2022 est.)<br>
+64.3% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-11.64% (of GDP) (2022 est.)<br>
+12.6% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$7.15 billion (2024 est.)<br>
 $6.257 billion (2023 est.)<br>
 $12.738 billion (2022 est.)<br>
-$14.493 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$301.789 billion (2024 est.)<br>
 $274.1 billion (2023 est.)<br>
 $312.88 billion (2022 est.)<br>
-$263.836 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -533,9 +525,9 @@ integrated circuits, refined petroleum, crude petroleum, natural gas, palm oil (
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$279.09 billion (2024 est.)<br>
 $253.665 billion (2023 est.)<br>
 $283.758 billion (2022 est.)<br>
-$236.855 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -547,18 +539,18 @@ integrated circuits, refined petroleum, crude petroleum, coal, broadcasting equi
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$112.968 billion (2024 est.)<br>
 $113.463 billion (2023 est.)<br>
 $114.659 billion (2022 est.)<br>
-$116.916 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: ringgits (MYR) per US dollar -<br>
+4.576 (2024 est.)<br>
 4.561 (2023 est.)<br>
 4.401 (2022 est.)<br>
 4.143 (2021 est.)<br>
 4.203 (2020 est.)<br>
-4.142 (2019 est.)<br>
 
 ## Energy
 
@@ -622,7 +614,7 @@ _domestic_: fixed-line roughly 25 per 100 and mobile-cellular teledensity roughl
 _international_: country code - 60; landing points for BBG, FEA, SAFE, SeaMeWe-3 &amp; 4 &amp; 5, AAE-1, JASUKA, BDM, Dumai-Melaka Cable System, BRCS, ACE, AAG, East-West Submarine Cable System, SEAX-1, SKR1M, APCN-2, APG, BtoBe,&nbsp; BaSICS, and Labuan-Brunei Submarine and MCT submarine cables providing connectivity to Asia, the Middle East, Southeast Asia, Australia and Europe; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Pacific Ocean); launch of Kacific-1 satellite in 2019 (2019)<br>
 
 **Broadcast media**<br>
-state-owned TV broadcaster operates 2 TV networks with relays throughout the country, and the leading private commercial media group operates 4 TV stations with numerous relays throughout the country; satellite TV subscription service is available; state-owned radio broadcaster operates multiple national networks, as well as regional and local stations; many private commercial radio broadcasters and some subscription satellite radio services are available; about 55 radio stations overall (2019)<br>
+state-owned TV broadcaster operates 2 TV networks with relays; the leading private commercial media group operates 4 TV stations with numerous relays; satellite TV subscription service is available; state-owned radio broadcaster operates multiple national networks, as well as regional and local stations; many private commercial radio broadcasters and some subscription satellite radio services are available; about 55 radio stations overall (2019)<br>
 
 **Internet country code**<br>
 .my<br>
@@ -636,12 +628,6 @@ _subscriptions per 100 inhabitants_: 13 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 13 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 270<br>
-_annual passenger traffic on registered air carriers_: 60,481,772 (2018)<br>
-_annual freight traffic on registered air carriers_: 1,404,410,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 9M<br>
 
@@ -651,21 +637,10 @@ _annual freight traffic on registered air carriers_: 1,404,410,000 (2018) mt-km<
 **Heliports**<br>
 24 (2025)<br>
 
-**Pipelines**<br>
-354 km condensate, 6,439 km gas, 155 km liquid petroleum gas, 1,937 km oil, 43 km oil/gas/water, 114 km refined products, 26 km water (2013)<br>
-
 **Railways**<br>
 _total_: 1,851 km (2014)<br>
 _standard gauge_: 59 km (2014) 1.435-m gauge (59 km electrified)<br>
 _narrow gauge_: 1,792 km (2014) 1.000-m gauge (339 km electrified)<br>
-
-**Roadways**<br>
-_total_: 144,403 km (excludes local roads)<br>
-_paved_: 116,169 km (includes 1,821 km of expressways)<br>
-_unpaved_: 28,234 km (2010)<br>
-
-**Waterways**<br>
-7,200 km (2011) (Peninsular Malaysia 3,200 km; Sabah 1,500 km; Sarawak 2,500 km)<br>
 
 **Merchant marine**<br>
 _total_: 1,750 (2023)<br>
@@ -683,18 +658,18 @@ _key ports_: Johor, Kota Kinabalu, Port Dickson, Port Klang, Pulau Pinang, Tanju
 ## Military and Security
 
 **Military and security forces**<br>
-Malaysian Armed Forces (Angkatan Tentera Malaysia, ATM): Malaysian Army (Tentera Darat Malaysia), Royal Malaysian Navy (Tentera Laut Diraja Malaysia, TLDM), Royal Malaysian Air Force (Tentera Udara Diraja Malaysia, TUDM) (2024)<br>
-<strong>note 1: </strong>the Royal Malaysia Police (RMP or Polis Diraja Malaysia, PDRM) are under the Ministry of Home Affairs; the PRMD includes the General Operations Force, a paramilitary force with a variety of roles, including patrolling borders, counter-terrorism, maritime security, and counterinsurgency; the Ministry of Home Affairs also includes the Malaysian Maritime Enforcement Agency (MMEA; aka Malaysian Coast Guard)<br><strong><br>note 2:</strong> Malaysia created a National Special Operations Force in 2016 for combating terrorism threats; the force is comprised of personnel from the ATM, the PRMD, and the MMEA<br>
+Malaysian Armed Forces (Angkatan Tentera Malaysia, ATM): Malaysian Army, Royal Malaysian Navy, Royal Malaysian Air Force<br><br>Ministry of Home Affairs: Royal Malaysia Police (RMP or Polis Diraja Malaysia, PDRM), Malaysian Maritime Enforcement Agency (MMEA; aka Malaysian Coast Guard) (2025)<br>
+<strong>note: </strong>the Royal Malaysia Police includes the General Operations Force, a paramilitary force with a variety of roles, including patrolling borders, counterterrorism, maritime security, and counterinsurgency<br>
 
 **Military expenditures**<br>
+1.1% of GDP (2024 est.)<br>
 0.9% of GDP (2023 est.)<br>
 1.1% of GDP (2022 est.)<br>
 1% of GDP (2021 est.)<br>
 1.1% of GDP (2020 est.)<br>
-1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 110,000 active-duty troops (80,000 Army; 15,000 Navy; 15,000 Air Force) (2023)<br>
+the Malaysian Armed Forces have approximately 110,000 active troops (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military fields a diverse array of mostly older but growing mix of modern weapons and equipment; its inventory originates from a wide variety of suppliers across Europe, Asia, and the US; Malaysia has a domestic defense industry that has some co-production agreements with countries such as France, Germany, and Turkey in such areas armored vehicles and naval vessels (2024)<br>

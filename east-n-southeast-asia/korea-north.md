@@ -100,10 +100,10 @@ _15-64 years_: 68.9% (male 9,054,771/female 9,066,447)<br>
 _65 years and over_: 11.2% (2024 est.) (male 1,099,676/female 1,855,175)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 43.5<br>
-_youth dependency ratio_: 27.2<br>
-_elderly dependency ratio_: 16.3<br>
-_potential support ratio_: 6.1 (2021 est.)<br>
+_total dependency ratio_: 45.1 (2024 est.)<br>
+_youth dependency ratio_: 28.8 (2024 est.)<br>
+_elderly dependency ratio_: 16.3 (2024 est.)<br>
+_potential support ratio_: 6.1 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 35.9 years (2024 est.)<br>
@@ -221,7 +221,7 @@ _female_: 11 years (2015)<br>
 ## Environment
 
 **Environment - current issues**<br>
-water pollution; inadequate supplies of potable water; waterborne disease; deforestation; soil erosion and degradation<br>
+water pollution; inadequate potable water; deforestation; soil erosion and degradation<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -289,7 +289,7 @@ _etymology_: the name translates as "flat land" in Korean<br>
 Founding of the Democratic People's Republic of Korea (DPRK), 9 September (1948)<br>
 
 **Legal system**<br>
-civil law system based on the Prussian model; system influenced by Japanese traditions and Communist legal theory<br>
+civil law system based on the Prussian model; influenced by Japanese traditions and Communist legal theory<br>
 
 **Constitution**<br>
 _history_: previous 1948, 1972; latest adopted 1998 (during KIM Jong-il era)<br>
@@ -401,19 +401,19 @@ military products; machine building, electric power, chemicals; mining (coal, ir
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-15.966 million (2023 est.)<br>
+17.637 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3% (2023 est.)<br>
-2.97% (2022 est.)<br>
-3.13% (2021 est.)<br>
+2.9% (2024 est.)<br>
+2.8% (2023 est.)<br>
+2.8% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.1% (2023 est.)<br>
-_male_: 6.3% (2023 est.)<br>
-_female_: 7.8% (2023 est.)<br>
+_total_: 6.8% (2024 est.)<br>
+_male_: 6.1% (2024 est.)<br>
+_female_: 7.4% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Exports**<br>
@@ -494,18 +494,12 @@ _domestic_: fixed-lines are approximately 5 per 100 and mobile-cellular 23 per 1
 _international_: country code - 850; satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Russian - Indian Ocean region); other international connections through Moscow and Beijing<br>
 
 **Broadcast media**<br>
-no independent media; radios and TVs are pre-tuned to government stations; 4 government-owned TV stations; the Korean Workers' Party owns and operates the Korean Central Broadcasting Station, and the state-run Voice of Korea operates an external broadcast service; the government prohibits listening to and jams foreign broadcasts (2019)<br>
+no independent media; radios and TVs are pre-tuned to government stations; 4 state-owned TV stations; the Korean Workers' Party owns and operates the Korean Central Broadcasting Station, and the state-run Voice of Korea operates an external broadcast service; the government prohibits listening to and jams foreign broadcasts (2019)<br>
 
 **Internet country code**<br>
 .kp<br>
 
 ## Transportation
-
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 4<br>
-_annual passenger traffic on registered air carriers_: 103,560 (2018)<br>
-_annual freight traffic on registered air carriers_: 250,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 P<br>
@@ -516,21 +510,10 @@ P<br>
 **Heliports**<br>
 8 (2025)<br>
 
-**Pipelines**<br>
-6 km oil (2013)<br>
-
 **Railways**<br>
 _total_: 7,435 km (2014)<br>
 _standard gauge_: 7,435 km (2014) 1.435-m gauge (5,400 km electrified)<br>
 <strong>note:</strong> figures are approximate; some narrow-gauge railway also exists<br>
-
-**Roadways**<br>
-_total_: 25,554 km<br>
-_paved_: 724 km<br>
-_unpaved_: 24,830 km (2006)<br>
-
-**Waterways**<br>
-2,250 km (2011) (most navigable only by small craft)<br>
 
 **Merchant marine**<br>
 _total_: 264 (2023)<br>
@@ -555,7 +538,7 @@ Korean People's Army (KPA): KPA Ground Forces, KPA Navy, KPA Air Force and Air D
 defense spending is a regime priority; between 2010 and 2020, military expenditures accounted for an estimated 20-30% of North Korea's GDP annually; spending estimates ranged from $7 billion to $11 billion annually; in 2023, North Korea announced that it would spend nearly 16% of state expenditures on defense; North Korea in the 2010s and 2020s has increasingly relied on illicit activities &mdash; including cybercrime &mdash; to generate revenue for its weapons of mass destruction and ballistic missile programs to evade US and UN sanctions<br>
 
 **Military and security service personnel strengths**<br>
-information varies; estimated 1-1.2 million active-duty troops; estimated 200,000 internal security forces (2023)<br>
+estimates vary; approximately 1-1.3 million active-duty Korean People's Army troops (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the KPA is equipped with older weapon systems originally acquired from the former Soviet Union, Russia, and China, and some domestically produced equipment; North Korea produces a diverse array of military hardware, including small arms, munitions, light armored vehicles, tanks, naval vessels and submarines, and some advanced weapons systems, such as cruise and ballistic missiles; most are copies or upgrades of older foreign supplied equipment (2024)<br>

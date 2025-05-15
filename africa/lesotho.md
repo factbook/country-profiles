@@ -74,7 +74,7 @@ relatively higher population density in the western half of the nation, with the
 periodic droughts<br>
 
 **Geography - note**<br>
-landlocked, an enclave of (completely surrounded by) South Africa; mountainous, more than 80% of the country is 1,800 m above sea level<br>
+landlocked, surrounded by South Africa; mountainous, more than 80% of the country is 1,800 m (5,900 ft) above sea level<br>
 
 ## People and Society
 
@@ -102,10 +102,10 @@ _15-64 years_: 62.7% (male 699,197/female 696,626)<br>
 _65 years and over_: 5.4% (2024 est.) (male 44,625/female 75,345)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 62.1<br>
-_youth dependency ratio_: 55.3<br>
-_elderly dependency ratio_: 6.8<br>
-_potential support ratio_: 14.7 (2021 est.)<br>
+_total dependency ratio_: 59.6 (2024 est.)<br>
+_youth dependency ratio_: 51 (2024 est.)<br>
+_elderly dependency ratio_: 8.6 (2024 est.)<br>
+_potential support ratio_: 11.6 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 23.9 years (2024 est.)<br>
@@ -232,7 +232,7 @@ _female_: 13 years (2017)<br>
 ## Environment
 
 **Environment - current issues**<br>
-population pressure forcing settlement in marginal areas results in overgrazing, severe soil erosion, and soil exhaustion; desertification; Highlands Water Project controls, stores, and redirects water to South Africa<br>
+overgrazing; severe soil erosion; soil exhaustion; desertification; Highlands Water Project controls, stores, and redirects water to South Africa<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Wetlands<br>
@@ -255,12 +255,6 @@ _rate of urbanization_: 2.77% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em><em>due to h</em>igh food prices and economic downturn - </em>food insecurity conditions are primarily underpinned by the high food prices and a slow economic recovery that is impinging on households’ economic capacity to access food; Lesotho  is a net importer of key staple food commodities and energy, domestic prices have been largely influenced by the high level of international prices (2023)<br>
-
-**Revenue from forest resources**<br>
-3.34% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 17.6 micrograms per cubic meter (2019 est.)<br>
@@ -301,7 +295,7 @@ parliamentary constitutional monarchy<br>
 _name_: Maseru<br>
 _geographic coordinates_: 29 19 S, 27 29 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: in the Sesotho language the name means "[place of] red sandstones"<br>
+_etymology_: the name means "[place of] red sandstones" in the Sesotho language<br>
 
 **Administrative divisions**<br>
 10 districts; Berea, Butha-Buthe, Leribe, Mafeteng, Maseru, Mohale's Hoek, Mokhotlong, Qacha's Nek, Quthing, Thaba-Tseka<br>
@@ -313,7 +307,7 @@ _etymology_: in the Sesotho language the name means "[place of] red sandstones"<
 Independence Day, 4 October (1966)<br>
 
 **Legal system**<br>
-mixed legal system of English common law and Roman-Dutch law; judicial review of legislative acts in High Court and Court of Appeal<br>
+mixed system of English common law and Roman-Dutch law; High Court and Court of Appeal review legislative acts<br>
 
 **Constitution**<br>
 _history_: previous 1959, 1967; latest adopted 2 April 1993 (effectively restoring the 1967 version)<br>
@@ -431,9 +425,9 @@ $2.118 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-6.34% (2023 est.)<br>
-8.27% (2022 est.)<br>
-6.05% (2021 est.)<br>
+6.1% (2024 est.)<br>
+6.3% (2023 est.)<br>
+8.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -467,19 +461,19 @@ food, beverages, textiles, apparel assembly, handicrafts, construction, tourism<
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-980,000 (2023 est.)<br>
+884,200 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-16.46% (2023 est.)<br>
-16.67% (2022 est.)<br>
-18.13% (2021 est.)<br>
+16.1% (2024 est.)<br>
+16.5% (2023 est.)<br>
+16.7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24.8% (2023 est.)<br>
-_male_: 17.5% (2023 est.)<br>
-_female_: 34.8% (2023 est.)<br>
+_total_: 24.2% (2024 est.)<br>
+_male_: 17.7% (2024 est.)<br>
+_female_: 36.2% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -507,23 +501,23 @@ _expenditures_: $947.517 million (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-2.99% of GDP (2020 est.)<br>
+3% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-30.44% (of GDP) (2022 est.)<br>
+30.4% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$143.202 million (2023 est.)<br>
--$265.366 million (2022 est.)<br>
--$195.013 million (2021 est.)<br>
+$112.105 million (2024 est.)<br>
+-$148.064 million (2023 est.)<br>
+-$268.876 million (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$983.619 million (2024 est.)<br>
 $885.789 million (2023 est.)<br>
 $1.07 billion (2022 est.)<br>
-$1.082 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -535,9 +529,9 @@ diamonds, garments, wool, power equipment, bedding (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$2.074 billion (2023 est.)<br>
-$2.244 billion (2022 est.)<br>
-$2.223 billion (2021 est.)<br>
+$2.089 billion (2024 est.)<br>
+$2.078 billion (2023 est.)<br>
+$2.247 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -555,16 +549,16 @@ $798.207 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$999.337 million (2023 est.)<br>
+$928.019 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: maloti (LSL) per US dollar -<br>
+18.329 (2024 est.)<br>
 18.45 (2023 est.)<br>
 16.356 (2022 est.)<br>
 14.779 (2021 est.)<br>
 16.459 (2020 est.)<br>
-14.448 (2019 est.)<br>
 
 ## Energy
 
@@ -637,15 +631,10 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 **Airports**<br>
 34 (2025)<br>
 
-**Roadways**<br>
-_total_: 6,906 km<br>
-_paved_: 1,799 km<br>
-_unpaved_: 5,107 km (2022)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>
-Lesotho Defense Force (LDF): Army (includes Air Wing) (2024)<br>
+Lesotho Defense Force (LDF) (2025)<br>
 <strong>note:</strong> the Lesotho Mounted Police Service is responsible for internal security and reports to the Minister of Local Government, Chieftainship, Home Affairs and Police<br>
 
 **Military expenditures**<br>
@@ -656,16 +645,16 @@ Lesotho Defense Force (LDF): Army (includes Air Wing) (2024)<br>
 1.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 2,000 personnel (2023)<br>
+approximately 2,000 active personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the LDF is lightly armed and has a small inventory of mostly older or second-hand equipment of European, South African, and US origin (2024)<br>
+the LDF is lightly armed and has a small inventory of mostly older or second-hand equipment of European, South African, and US origin (2025)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary military service for both men and women (women can serve in combat arms); no conscription (2024)<br>
 
 **Military - note**<br>
-Lesotho's declared policy for its military is the maintenance of the country's sovereignty and the preservation of internal security; in practice, external security is guaranteed by South Africa; the LDF is a small force comprised of about a half dozen infantry companies; it began in 1964 as the Police Mobile Unit (PMU); the PMU was designated as the Lesotho Paramilitary Force in 1980 and became the Royal Lesotho Defense Force in 1986; it was renamed the Lesotho Defense Force in 1993 (2024)<br>
+Lesotho's declared policy for its military is the maintenance of the country's sovereignty and the preservation of internal security; in practice, external security is guaranteed by South Africa; the LDF is a small force comprised of about a half dozen infantry companies; it began in 1964 as the Police Mobile Unit (PMU); the PMU was designated as the Lesotho Paramilitary Force in 1980 and became the Royal Lesotho Defense Force in 1986; it was renamed the Lesotho Defense Force in 1993 (2025)<br>
 
 ## Transnational Issues
 

@@ -104,10 +104,10 @@ _15-64 years_: 73.4% (male 1,386,349/female 917,465)<br>
 _65 years and over_: 3.6% (2024 est.) (male 47,778/female 64,158)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 34.4<br>
-_youth dependency ratio_: 28.4<br>
-_elderly dependency ratio_: 6<br>
-_potential support ratio_: 24.9 (2021 est.)<br>
+_total dependency ratio_: 36.2 (2024 est.)<br>
+_youth dependency ratio_: 31.4 (2024 est.)<br>
+_elderly dependency ratio_: 4.9 (2024 est.)<br>
+_potential support ratio_: 20.6 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 30.3 years (2024 est.)<br>
@@ -228,7 +228,7 @@ _female_: 16 years (2015)<br>
 ## Environment
 
 **Environment - current issues**<br>
-limited natural freshwater resources; some of world's largest and most sophisticated desalination facilities provide much of the water; air and water pollution; desertification; loss of biodiversity<br>
+limited natural freshwater resources; air and water pollution; desertification; loss of biodiversity<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -248,12 +248,6 @@ _other_: 91.2% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 1.35% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 64.08 micrograms per cubic meter (2019 est.)<br>
@@ -293,7 +287,7 @@ constitutional monarchy (emirate)<br>
 _name_: Kuwait City<br>
 _geographic coordinates_: 29 22 N, 47 58 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name derives from Arabic "al-Kuwayt" a diminutive of "kut" meaning "fortress," possibly a reference to a small castle built on the current location of Kuwait City by the Beni Khaled tribe in the 17th century<br>
+_etymology_: the name comes from the Arabic <em>al-kuwayt</em>, a diminutive of the Hindustani term <em>kut</em>, meaning a fortress-like house<br>
 
 **Administrative divisions**<br>
 6 governorates (muhafazat, singular - muhafazah); Al Ahmadi, Al 'Asimah, Al Farwaniyah, Al Jahra', Hawalli, Mubarak al Kabir<br>
@@ -305,7 +299,7 @@ _etymology_: the name derives from Arabic "al-Kuwayt" a diminutive of "kut" mean
 National Day, 25 February (1950)<br>
 
 **Legal system**<br>
-mixed legal system consisting of English common law, French civil law, and Islamic sharia law<br>
+mixed system consisting of English common law, French civil law, and Islamic sharia law<br>
 
 **Constitution**<br>
 _history_: approved and promulgated 11 November 1962; suspended 1976 to 1981 (4 articles); 1986 to 1991; May to July 1999<br>
@@ -400,9 +394,9 @@ $163.705 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-3.64% (2023 est.)<br>
-3.98% (2022 est.)<br>
-3.42% (2021 est.)<br>
+2.9% (2024 est.)<br>
+3.6% (2023 est.)<br>
+4% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -438,19 +432,19 @@ petroleum, petrochemicals, cement, shipbuilding and repair, water desalination, 
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.826 million (2023 est.)<br>
+2.991 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.08% (2023 est.)<br>
-2.12% (2022 est.)<br>
-3% (2021 est.)<br>
+2.1% (2024 est.)<br>
+2.1% (2023 est.)<br>
+2.2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15% (2023 est.)<br>
-_male_: 9.1% (2023 est.)<br>
-_female_: 29% (2023 est.)<br>
+_total_: 15.4% (2024 est.)<br>
+_male_: 9.3% (2024 est.)<br>
+_female_: 28.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
@@ -509,18 +503,18 @@ cars, natural gas, garments, broadcasting equipment, packaged medicine (2023)<br
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$44.104 billion (2024 est.)<br>
 $52.619 billion (2023 est.)<br>
 $52.462 billion (2022 est.)<br>
-$49.525 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Kuwaiti dinars (KD) per US dollar -<br>
+0.307 (2024 est.)<br>
 0.307 (2023 est.)<br>
 0.306 (2022 est.)<br>
 0.302 (2021 est.)<br>
 0.306 (2020 est.)<br>
-0.304 (2019 est.)<br>
 
 ## Energy
 
@@ -578,7 +572,7 @@ _domestic_: fixed-line subscriptions are nearly 13 per 100 and mobile-cellular s
 _international_: country code - 965; landing points for the FOG, GBICS, MENA, Kuwait-Iran, and FALCON submarine cables&nbsp;linking Africa, the Middle East, and Asia; microwave radio relay to Saudi Arabia; satellite earth stations - 6 (3 Intelsat - 1 Atlantic Ocean and 2 Indian Ocean, 1 Inmarsat - Atlantic Ocean, and 2 Arabsat) (2019)<br>
 
 **Broadcast media**<br>
-state-owned TV broadcaster operates 4 networks and a satellite channel; several private TV broadcasters have emerged; satellite TV available&nbsp;and pan-Arab TV stations are especially popular; state-owned Radio Kuwait broadcasts on a number of channels in Arabic and English; first private radio station emerged in 2005; transmissions of at least 2 international radio broadcasters are available (2019)<br>
+state-owned TV broadcaster operates 4 networks and a satellite channel; several private TV broadcasters; satellite TV available, and pan-Arab TV stations are especially popular; state-owned Radio Kuwait broadcasts on a number of channels in Arabic and English; first private radio station in 2005; transmissions of at least 2 international radio broadcasters are available (2019)<br>
 
 **Internet country code**<br>
 .kw<br>
@@ -592,12 +586,6 @@ _subscriptions per 100 inhabitants_: 1 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 44<br>
-_annual passenger traffic on registered air carriers_: 6,464,847 (2018)<br>
-_annual freight traffic on registered air carriers_: 392.36 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 9K<br>
 
@@ -606,14 +594,6 @@ _annual freight traffic on registered air carriers_: 392.36 million (2018) mt-km
 
 **Heliports**<br>
 20 (2025)<br>
-
-**Pipelines**<br>
-261 km gas, 540 km oil, 57 km refined products (2013)<br>
-
-**Roadways**<br>
-_total_: 5,749 km (201)<br>
-_paved_: 4,887 km<br>
-_unpaved_: 862 km (2018)<br>
 
 **Merchant marine**<br>
 _total_: 176 (2023)<br>
@@ -631,8 +611,8 @@ _key ports_: Al Kuwayt, Doha Harbor, Mina Abd Allah, Mina Al Ahmadi, Mina Ash Sh
 ## Military and Security
 
 **Military and security forces**<br>
-Kuwait Armed Forces (KAF): Kuwait Land Forces (KLF), Kuwait Navy, Kuwait Air Force (Al-Quwwat al-Jawwiya al-Kuwaitiya; includes Kuwait Air Defense Force, KADF), 25th Commando Brigade, and the Kuwait Emiri Guard Authority; Kuwait National Guard (KNG) (2024)<br>
-<strong>note 1:</strong> the Emiri Guard Authority and the 25th Commando Brigade exercise independent command authority within the KAF, although activities such as training and equipment procurement are often coordinated with the other services; the 25th Commando Brigade is Kuwait's leading special forces unit; the Emiri Guard Authority (aka Emiri Guard Brigade) is responsible for protecting Kuwait's heads of state<br><br><strong>note 2:</strong> the National Guard reports directly to the prime minister and the amir and possesses an independent command structure, equipment inventory, and logistics corps separate from the Ministry of Defense, the regular armed services, and the Ministry of Interior; it is responsible for protecting critical infrastructure and providing support for the Ministries of Interior and Defense as required<br><br><strong>note 3:</strong> the police, Kuwait State Security, and Coast Guard are under the Ministry of Interior<br>
+Kuwait Armed Forces (KAF): Kuwait Army (aka Kuwait Land Forces, KLF), Kuwait Navy (aka Kuwait Naval Force), Kuwait Air Force; Kuwait National Guard (KNG)<br><br>Ministry of Interior: Kuwait Police, State Security, Kuwait Coast Guard (2025)<br>
+<strong>note 1:</strong> the Emiri Guard Authority and the 25th Commando Brigade are special units within the KAF that exercise independent command authority, although activities such as training and equipment procurement are often coordinated with the other services; the 25th Commando Brigade is Kuwait's leading special forces unit; the Emiri Guard Authority (aka Emiri Guard Brigade) is responsible for protecting Kuwait's heads of state<br><br><strong>note 2:</strong> the National Guard reports directly to the prime minister and the amir and possesses an independent command structure, equipment inventory, and logistics corps separate from the Ministry of Defense, the regular armed services, and the Ministry of Interior; it is responsible for protecting critical infrastructure and providing support for the Ministries of Interior and Defense as required<br>
 
 **Military expenditures**<br>
 5% of GDP (2023 est.)<br>
@@ -642,7 +622,7 @@ Kuwait Armed Forces (KAF): Kuwait Land Forces (KLF), Kuwait Navy, Kuwait Air For
 5.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 17,000 active-duty armed forces personnel (12,500 Army, including the Amiri Guard and 25th Commando Brigade; 2,000 Navy; 2,500 Air Force); approximately 7,000 National Guard (2023)<br>
+approximately 17,000 Kuwait Armed Forces; approximately 7,000 National Guard (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists of weapons from a wide variety of sources, including Western Europe, Russia, and particularly the US (2024)<br>
@@ -652,7 +632,7 @@ the military's inventory consists of weapons from a wide variety of sources, inc
 <strong>note:</strong> the National Guard is restricted to citizens, but in 2018, the Army began allowing non-Kuwaitis to join on contract or as non-commissioned officers; that same year, it also began allowing stateless people (Bidoon) to join<br>
 
 **Military - note**<br>
-the Kuwaiti Armed Forces (KAF) are responsible for external defense; the independent National Guard is responsible for protecting critical infrastructure and providing support for the Ministries of Interior and Defense as required, including supporting the KAF Land Forces during a conflict; the National Guard and the Ministry of Interior are the Kuwaiti Government’s lead counterterrorism organizations; Kuwait’s primary security concerns are potential threats emanating from Iran, including regional militias loyal to Iran, and Islamist terrorist groups<br><br>the KAF participates in bilateral and multilateral exercises, as well as a limited number of multinational security operations such as maritime patrols in the Persian Gulf; it also provided a few fighter aircraft to the Saudi-led coalition in Yemen in 2015; the KAF is part of the military arm of the Gulf Cooperation Council<br><br>Kuwait's key security partner since the 1991 Gulf War has been the US; the US maintains thousands of military personnel as well as logistics and training facilities in Kuwait as part of a 1991 Defense Cooperation Agreement and a 2013 Acquisition and Cross-Servicing Agreement; the KAF conducts bilateral exercises with the US military and would look to US assistance in the event of an external attack; Kuwait has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2024)<br>
+the Kuwaiti Armed Forces (KAF) are responsible for external defense; the independent National Guard is responsible for protecting critical infrastructure and providing support for the Ministries of Interior and Defense as required, including supporting the KAF Land Forces during a conflict; the National Guard and the Ministry of Interior are the Kuwaiti Government’s lead counterterrorism organizations; Kuwait’s primary security concerns are potential threats emanating from Iran, including regional militias loyal to Iran, and Islamist terrorist groups<br><br>the KAF participates in bilateral and multilateral exercises, as well as a limited number of multinational security operations such as maritime patrols in the Persian Gulf; it also provided a few fighter aircraft to the Saudi-led coalition in Yemen in 2015; the KAF is part of the Peninsula Shield Forces, a joint military force established by the GCC countries with the aim of maintaining security and stability in the region<br><br>Kuwait's key security partner since the 1991 Gulf War has been the US; the US maintains thousands of military personnel as well as logistics and training facilities in Kuwait as part of a 1991 Defense Cooperation Agreement and a 2013 Acquisition and Cross-Servicing Agreement; the KAF conducts bilateral exercises with the US military and would look to US assistance in the event of an external attack; Kuwait has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2024)<br>
 
 ## Transnational Issues
 

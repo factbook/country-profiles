@@ -76,7 +76,7 @@ the relatively small population is spread in pockets throughout the country; the
 none<br>
 
 **Geography - note**<br>
-a small population and oil and mineral reserves have helped Gabon become one of Africa's wealthier countries; in general, these circumstances have allowed the country to maintain and conserve its pristine rain forest and rich biodiversity<br>
+the country has maintained its pristine rain forest and rich biodiversity<br>
 
 ## People and Society
 
@@ -104,10 +104,10 @@ _15-64 years_: 61.1% (male 787,480/female 711,913)<br>
 _65 years and over_: 4.3% (2024 est.) (male 53,410/female 52,049)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 67.6<br>
-_youth dependency ratio_: 61<br>
-_elderly dependency ratio_: 6.5<br>
-_potential support ratio_: 15.3 (2021 est.)<br>
+_total dependency ratio_: 63.7 (2024 est.)<br>
+_youth dependency ratio_: 56.7 (2024 est.)<br>
+_elderly dependency ratio_: 7 (2024 est.)<br>
+_potential support ratio_: 14.2 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 22 years (2024 est.)<br>
@@ -222,7 +222,7 @@ _female_: 84.7% (2021)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation (the forests that cover three-quarters of the country are threatened by excessive logging); burgeoning population exacerbating disposal of solid waste; oil industry contributing to water pollution; wildlife poaching<br>
+deforestation from logging; solid-waste disposal; water pollution from oil industry; wildlife poaching<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -242,12 +242,6 @@ _other_: 0.4% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 91% of total population (2023)<br>
 _rate of urbanization_: 2.27% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-2.6% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 26.29 micrograms per cubic meter (2019 est.)<br>
@@ -287,7 +281,7 @@ presidential republic<br>
 _name_: Libreville<br>
 _geographic coordinates_: 0 23 N, 9 27 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: original site settled by freed slaves and the name means "free town" in French; named in imitation of Freetown, the capital of Sierra Leone<br>
+_etymology_: the city was founded in 1849 by freed slaves, and the name means "free town" in French<br>
 
 **Administrative divisions**<br>
 9 provinces; Estuaire, Haut-Ogooue, Moyen-Ogooue, Ngounie, Nyanga, Ogooue-Ivindo, Ogooue-Lolo, Ogooue-Maritime, Woleu-Ntem<br>
@@ -299,7 +293,7 @@ _etymology_: original site settled by freed slaves and the name means "free town
 Independence Day, 17 August (1960)<br>
 
 **Legal system**<br>
-mixed legal system of French civil law and customary law<br>
+mixed system of French civil law and customary law<br>
 
 **Constitution**<br>
 _history_: previous 1961, 1991; latest approved in November 2024 referendum<br>
@@ -318,11 +312,11 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Brice OLIGUI Nguema (since 12 April 2025)<br>
-_head of government_: Prime Minister Raymond NDONG SIMA (since 7 September 2023)<br><br> <p> </p><br>
-_cabinet_: formerly the Council of Ministers, appointed by the prime minister in consultation with the president<br>
-_elections/appointments_: formerly, the president directly elected by plurality vote for a 5-year term (no term limits); election last held on 26 August 2023; prime minister appointed by the president; note - in August 2023, Gen. Brice OLIGUI Nguema led a military group called Committee for the Transition and Restoration of Institutions in a coup in which President Ali BONGO Ondimba was arrested and detained, election results were canceled, and state institutions were dissolved; in September 2023, OLIGUI was sworn in as transitional president; a general election is planned for August 2025; note - November 2024 voters in Gabon voted on a referendum to extend the presidential term to seven years and replace the prime minister with a vice president, elections slated for August 2025<br>
-_election results_: <em>2025: </em>Brice OLIGUI Nguema elected president; percent of vote- Brice OLIGUI Nguema (Ind.) 90.35%, Alain Claude Bilie By Nze (EPG) 3.02%, other 6.63%<br><em><br>2016: </em>Ali BONGO Ondimba reelected president; percent of vote - Ali BONGO Ondimba (PDG) 49.8%, Jean PING (UFC) 48.2%, other 2.0%<br><br>
+_chief of state_: President Brice OLIGUI Nguema (since 3 May 2025)<br>
+_head of government_: President Brice OLIGUI Nguema (since 3 May 2025)<br> <p> </p><br>
+_cabinet_: cabinet appointed by president<br>
+_elections/appointments_: the president directly elected by plurality vote to a 7-year term (no term limits); election last held on 12 April 2025<br>
+_election results_: <em>2025: </em>Brice OLIGUI Nguema elected president; percent of vote - Brice OLIGUI Nguema (Ind.) 90.35%, Alain Claude Bilie By Nze (EPG) 3.02%, other 6.63%<br><em><br>2016: </em>Ali BONGO Ondimba reelected president; percent of vote - Ali BONGO Ondimba (PDG) 49.8%, Jean PING (UFC) 48.2%, other 2.0%<br>
 
 **Legislative branch**<br>
 _legislature name_: Transitional Parlement (Parliament de la transition)<br>
@@ -418,9 +412,9 @@ $19.388 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-3.63% (2023 est.)<br>
-4.23% (2022 est.)<br>
-1.09% (2021 est.)<br>
+1.2% (2024 est.)<br>
+3.6% (2023 est.)<br>
+4.2% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -456,19 +450,19 @@ petroleum extraction and refining; manganese, gold; chemicals, ship repair, food
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-771,000 (2023 est.)<br>
+824,400 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-20.36% (2023 est.)<br>
-20.5% (2022 est.)<br>
-21.23% (2021 est.)<br>
+20.1% (2024 est.)<br>
+20.3% (2023 est.)<br>
+20.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 36.5% (2023 est.)<br>
-_male_: 31.7% (2023 est.)<br>
-_female_: 42.9% (2023 est.)<br>
+_total_: 36% (2024 est.)<br>
+_male_: 31.1% (2024 est.)<br>
+_female_: 42.3% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -499,7 +493,7 @@ _expenditures_: $2.732 billion (2021 est.)<br>
 62.7% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-9.49% (of GDP) (2021 est.)<br>
+9.5% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -509,9 +503,9 @@ $1.463 billion (2013 est.)<br>
 <strong>note:</strong> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$12.935 billion (2022 est.)<br>
-$11.229 billion (2021 est.)<br>
-$7.275 billion (2020 est.)<br>
+$12.356 billion (2023 est.)<br>
+$13.814 billion (2022 est.)<br>
+$11.85 billion (2021 est.)<br>
 <strong>note:</strong> GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -523,9 +517,9 @@ crude petroleum, ships, manganese ore, refined petroleum, wood (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$3.499 billion (2022 est.)<br>
-$3.353 billion (2021 est.)<br>
-$3.454 billion (2020 est.)<br>
+$5.38 billion (2023 est.)<br>
+$5.005 billion (2022 est.)<br>
+$4.746 billion (2021 est.)<br>
 <strong>note:</strong> GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -537,22 +531,22 @@ ships, refined petroleum, iron pipes, cars, packaged medicine (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.372 billion (2019 est.)<br>
-$1.321 billion (2018 est.)<br>
-$965.054 million (2017 est.)<br>
+$1.447 billion (2023 est.)<br>
+$1.415 billion (2022 est.)<br>
+$1.304 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$6.672 billion (2023 est.)<br>
+$6.442 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
+606.345 (2024 est.)<br>
 606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
-585.911 (2019 est.)<br>
 
 ## Energy
 
@@ -610,7 +604,7 @@ _domestic_: fixed-line 1 per 100 subscriptions; mobile cellular subscriptions ar
 _international_: country code - 241; landing points for the SAT-3/WASC, ACE and Libreville-Port Gentil Cable&nbsp;fiber-optic submarine cable that provides connectivity to Europe and West Africa; satellite earth stations - 3 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-state owns and operates 2 TV stations and 2 radio broadcast stations; a few private radio and TV stations; transmissions of at least 2 international broadcasters are accessible; satellite service subscriptions are available<br>
+2 state-run TV stations and 2 state-run radio stations; a few private radio and TV stations; transmissions of at least 2 international broadcasters are accessible; satellite service subscriptions are available<br>
 
 **Internet country code**<br>
 .ga<br>
@@ -624,30 +618,15 @@ _subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 3 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 8<br>
-
 **Civil aircraft registration country code prefix**<br>
 TR<br>
 
 **Airports**<br>
 42 (2025)<br>
 
-**Pipelines**<br>
-807 km gas, 1,639 km oil, 3 km water (2013)<br>
-
 **Railways**<br>
 _total_: 649 km (2014)<br>
 _standard gauge_: 649 km (2014) 1.435-m gauge<br>
-
-**Roadways**<br>
-_total_: 14,300 km<br>
-_paved_: 900 km<br>
-_unpaved_: 13,400 km (2001)<br>
-
-**Waterways**<br>
-1,600 km (2010) (310 km on Ogooue River)<br>
 
 **Merchant marine**<br>
 _total_: 87 (2023)<br>
@@ -676,7 +655,7 @@ Gabonese Armed Forces (Force Armées Gabonaise or FAG; aka National Defense and 
 1.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 7,000 active-duty troops including the Republican Guard and Gendarmerie (2024)<br>
+approximately 7,000 active-duty troops including the Republican Guard and Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Gabonese military has a mix of older and more modern weapons and equipment from a variety of suppliers including Brazil, China, France, Germany, Russia/former Soviet Union, and South Africa (2024)<br>

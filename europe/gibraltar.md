@@ -61,7 +61,8 @@ NA<br>
 occasional droughts; no streams or large bodies of water on the peninsula (all potable water comes from desalination)<br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> strategic location on Strait of Gibraltar that links the North Atlantic Ocean and Mediterranean Sea</p> <p><strong>note 2:</strong> one of only two British territories where traffic drives on the right, the other being the island of Diego Garcia in the British Indian Ocean Territory</p><br>
+strategic location on Strait of Gibraltar that links the North Atlantic Ocean and Mediterranean Sea<br>
+  <br><br> <br>
 
 ## People and Society
 
@@ -90,10 +91,10 @@ _15-64 years_: 62.5% (male 9,383/female 9,179)<br>
 _65 years and over_: 17.5% (2024 est.) (male 2,491/female 2,690)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 60.1<br>
-_youth dependency ratio_: 27.4<br>
-_elderly dependency ratio_: 32.7<br>
-_potential support ratio_: 3.1 (2021)<br>
+_total dependency ratio_: 59.9 (2024 est.)<br>
+_youth dependency ratio_: 32 (2024 est.)<br>
+_elderly dependency ratio_: 27.9 (2024 est.)<br>
+_potential support ratio_: 3.6 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 36.8 years (2024 est.)<br>
@@ -178,7 +179,7 @@ _female_: NA<br>
 ## Environment
 
 **Environment - current issues**<br>
-limited natural freshwater resources: more than 90% of drinking water supplied by desalination, the remainder from stored rainwater; a separate supply of saltwater used for sanitary services<br>
+limited natural freshwater resources<br>
 
 **Climate**<br>
 Mediterranean with mild winters and warm summers<br>
@@ -216,7 +217,7 @@ _name_: Gibraltar<br>
 _geographic coordinates_: 36 08 N, 5 21 W<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: from the Spanish derivation of the Arabic "Jabal Tariq," which means "Mountain of Tariq" and which refers to the Rock of Gibraltar<br>
+_etymology_: from the Spanish derivation of the Arabic <em>jabal tariq</em>, which means "Mountain of Tariq" and refers to the Berber chief who captured the peninsula in A.D. 711<br>
 
 **Administrative divisions**<br>
 none (overseas territory of the UK)<br>
@@ -228,7 +229,7 @@ none (overseas territory of the UK)<br>
 National Day, 10 September (1967); note - day of the national referendum to decide whether to remain with the UK or join Spain<br>
 
 **Legal system**<br>
-the laws of the UK, where applicable, apply<br>
+the laws of the UK apply<br>
 
 **Constitution**<br>
 _history_: previous 1969; latest passed by referendum 30 November 2006, entered into effect 14 December 2006, entered into force 2 January 2007<br>
@@ -312,9 +313,6 @@ tourism, banking and finance, ship repairing, tobacco<br>
 4.3% (2014 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
-**Labor force**<br>
-24,420 (2014 est.)<br>
-
 **Unemployment rate**<br>
 1% (2016 est.)<br>
 
@@ -339,11 +337,11 @@ refined petroleum, crude petroleum, coal tar oil, natural gas, ships (2023)<br>
 
 **Exchange rates**<br>
 _Currency_: Gibraltar pounds (GIP) per US dollar -<br>
+0.782 (2024 est.)<br>
 0.805 (2023 est.)<br>
 0.811 (2022 est.)<br>
 0.727 (2021 est.)<br>
 0.78 (2020 est.)<br>
-0.783 (2019 est.)<br>
 
 ## Energy
 
@@ -386,7 +384,7 @@ _domestic_: 53 per 100 fixed-line and 100 per 100 mobile-cellular (2021)<br>
 _international_: country code - 350; landing point for the EIG to Europe, Asia, Africa and the Middle East via submarine cables;&nbsp;radiotelephone; microwave radio relay; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-Gibraltar Broadcasting Corporation (GBC) provides TV and radio broadcasting services via 1 TV station and 4 radio stations; British Forces Broadcasting Service (BFBS) operates 1 radio station; broadcasts from Spanish radio and TV stations are accessible<br>
+Gibraltar Broadcasting Corporation (GBC) provides TV and radio services via 1 TV station and 4 radio stations; British Forces Broadcasting Service (BFBS) operates 1 radio station; broadcasts from Spanish radio and TV stations are accessible<br>
 
 **Internet country code**<br>
 .gi<br>
@@ -405,10 +403,6 @@ VP-G<br>
 
 **Airports**<br>
 1 (2025)<br>
-
-**Roadways**<br>
-_total_: 29 km<br>
-_paved_: 29 km (2007)<br>
 
 **Merchant marine**<br>
 _total_: 129 (2023)<br>

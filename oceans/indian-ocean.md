@@ -67,7 +67,7 @@ major chokepoints include Bab el Mandeb, Strait of Hormuz, Strait of Malacca, so
 ## Environment
 
 **Environment - current issues**<br>
-marine pollution caused by ocean dumping, improper waste disposal, and oil spills; deep sea mining; oil pollution in Arabian Sea, Persian Gulf, and Red Sea; coral reefs threatened due to climate change, direct human pressures, and inadequate governance, awareness, and political will; loss of biodiversity; endangered marine species include the dugong, seals, turtles, and whales<br>
+marine pollution from ocean dumping, improper waste disposal, and oil spills; oil pollution in Arabian Sea, Persian Gulf, and Red Sea; threats to coral reefs; loss of biodiversity; endangered marine species&nbsp;<br>
 
 **Climate**<br>
 northeast monsoon (December to April), southwest monsoon (June to October); tropical cyclones occur during May/June and October/November in the northern Indian Ocean and January/February in the southern Indian Ocean<br>

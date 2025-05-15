@@ -106,10 +106,10 @@ _15-64 years_: 58% (male 1,613,770/female 1,662,522)<br>
 _65 years and over_: 3.5% (2024 est.) (male 86,932/female 109,967)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 102.8<br>
-_youth dependency ratio_: 97.7<br>
-_elderly dependency ratio_: 5.1<br>
-_potential support ratio_: 19.7 (2021 est.)<br>
+_total dependency ratio_: 72.5 (2024 est.)<br>
+_youth dependency ratio_: 66.5 (2024 est.)<br>
+_elderly dependency ratio_: 6 (2024 est.)<br>
+_potential support ratio_: 16.6 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 20.4 years (2024 est.)<br>
@@ -230,7 +230,7 @@ _female_: 6 years (2012)<br>
 ## Environment
 
 **Environment - current issues**<br>
-water pollution; tap water is not potable; poaching and mismanagement have diminished the country's reputation as one of the last great wildlife refuges; desertification; deforestation; soil erosion<br>
+water pollution; tap water not potable; poaching; wildlife mismanagement; desertification; deforestation; soil erosion<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Nuclear Test Ban, Ozone Layer Protection, Tropical Timber 2006, Wetlands<br>
@@ -253,12 +253,6 @@ _rate of urbanization_: 3.32% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _exceptional shortfall in aggregate food production/supplies_: <em>due to internal conflict and high food prices -</em> according to the latest analysis, issued in July 2023, the number of people in Crisis and above is projected to reach 2.4 million between April and August 2023; this reflects the impact of the ongoing conflict and civil insecurity, as well as the effects of flooding and drought conditions that curbed crop yields and agricultural production (2023)<br>
-
-**Revenue from forest resources**<br>
-8.99% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 27.2 micrograms per cubic meter (2019 est.)<br>
@@ -422,9 +416,9 @@ $2.555 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-2.98% (2023 est.)<br>
-5.58% (2022 est.)<br>
-4.26% (2021 est.)<br>
+3% (2023 est.)<br>
+5.6% (2022 est.)<br>
+4.3% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -454,19 +448,19 @@ gold and diamond mining, logging, brewing, sugar refining<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.849 million (2023 est.)<br>
+2 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.29% (2023 est.)<br>
-6.34% (2022 est.)<br>
-6.68% (2021 est.)<br>
+5.9% (2024 est.)<br>
+5.9% (2023 est.)<br>
+6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.7% (2023 est.)<br>
-_male_: 9.7% (2023 est.)<br>
-_female_: 11.8% (2023 est.)<br>
+_total_: 9.5% (2024 est.)<br>
+_male_: 8.5% (2024 est.)<br>
+_female_: 10.6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -496,7 +490,7 @@ _expenditures_: $293.459 million (2021 est.)<br>
 52.9% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-8.21% (of GDP) (2021 est.)<br>
+8.2% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -504,9 +498,9 @@ _expenditures_: $293.459 million (2021 est.)<br>
 -$97 million (2016 est.)<br>
 
 **Exports**<br>
+$369.034 million (2023 est.)<br>
 $293.074 million (2022 est.)<br>
 $332.869 million (2021 est.)<br>
-$353.021 million (2020 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -518,9 +512,9 @@ gold, wood, diamonds, vehicle parts/accessories, cotton (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$742.108 million (2023 est.)<br>
 $784.669 million (2022 est.)<br>
 $778.395 million (2021 est.)<br>
-$799.195 million (2020 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -532,22 +526,22 @@ refined petroleum, cars, packaged medicine, vaccines, tanks and armored vehicles
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$479.593 million (2023 est.)<br>
 $374.405 million (2022 est.)<br>
 $483.872 million (2021 est.)<br>
-$432.524 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$776.149 million (2023 est.)<br>
+$724.179 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
+606.345 (2024 est.)<br>
 606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
-585.911 (2019 est.)<br>
 
 ## Energy
 
@@ -595,7 +589,7 @@ _domestic_: very limited telephone service with less than 1 fixed-line connectio
 _international_: country code - 236; satellite earth station - 1 Intelsat (Atlantic Ocean)<br>
 
 **Broadcast media**<br>
-government-owned network, Radiodiffusion Television Centrafricaine, provides limited domestic TV broadcasting; state-owned radio network is supplemented by a small number of privately owned broadcast stations as well as a few community radio stations; transmissions of at least 2 international broadcasters are available (2017)<br>
+government-owned network, Radiodiffusion T&eacute;l&eacute;vision Centrafricaine, provides limited TV broadcasting; state-owned radio network is supplemented by a small number of privately owned broadcast stations, as well as a few community radio stations; transmissions of at least 2 international broadcasters are available (2017)<br>
 
 **Internet country code**<br>
 .cf<br>
@@ -609,30 +603,16 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 2<br>
-_annual passenger traffic on registered air carriers_: 46,364 (2015)<br>
-_annual freight traffic on registered air carriers_: 0 (2015) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 TL<br>
 
 **Airports**<br>
 43 (2025)<br>
 
-**Roadways**<br>
-_total_: 24,000 km<br>
-_paved_: 700 km<br>
-_unpaved_: 23,300 km (2018)<br>
-
-**Waterways**<br>
-2,800 km (2011) (the primary navigable river is the Ubangi, which joins the River Congo; it was the traditional route for the export of products because it connected with the Congo-Ocean railway at Brazzaville; because of the warfare on both sides of the River Congo from 1997, importers and exporters preferred routes through Cameroon)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>
-Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includes an air squadron, Escadrille Centrafricaine)<br><br>Ministry of Interior: National Gendarmerie (Gendarmerie Nationale), National Police (2024)<br>
+Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includes an air squadron, Escadrille Centrafricaine)<br><br>Ministry of Interior: National Gendarmerie (Gendarmerie Nationale), National Police (2025)<br>
 <strong>note: </strong>the Special Republican Protection Group (Groupement Spécial Chargé de la Protection Républicaine or GSPR) provides protection to the head of state; it is part of the Army but reports to the president<br>
 
 **Military expenditures**<br>
@@ -643,7 +623,7 @@ Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includ
 1.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-limited and varied information available; the FACA is estimated to have up to 30,000 troops (2024)<br>
+estimated 10-15,000 active FACA personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 most of the military's heavy weapons and equipment were destroyed or captured during the 2012–2014 civil war; prior to the war, most of its equipment was of French, Russian, or Soviet origin; in recent years, it has received some secondhand equipment from China and Russia, including light weapons, as well as some armored vehicles, unmanned aerial vehicles, and helicopters (2024)<br>
@@ -653,7 +633,7 @@ most of the military's heavy weapons and equipment were destroyed or captured du
 18 years of age for military service; no conscription although the constitution provides for the possibility of conscription in the event of an imminent threat to the country (2023)<br>
 
 **Military - note**<br>
-the 2013 coup resulted in the institutional collapse of the FACA; its forces were overwhelmed and forced to flee to neighboring countries; it has been estimated that only 10% of the FACA returned after the coup, and the FACA has struggled to rebuild in the years of instability since, despite significant foreign assistance; considerable portions of the country remain outside state control and are ungoverned, with the presence of multiple armed actors creating insecurity in much of the country <br><br>in late 2020 and early 2021, the Coalition des Patriotes pour le Change (CPC), a loose coalition of armed groups comprised largely of former Seleka and anti-Balaka fighters, attacked the capital Bangui; CAR Government forces, along with Russian private military contractors and Rwandan troops, repelled the attack while the CPC retreated to its rear bases and into neighboring countries and continued conducting attacks; as of 2023, the CAR Government claimed to have restored authority across much of the country, including the capital, although armed groups, including some not affiliated with CPC, continued to carry out violent activities in regions outside the capital, threatening local stability; forces on both sides have been accused of abuses and atrocities in the fighting <br><br>in 2018, the UN Security Council approved Russian security assistance for the CAR to help train and advise FACA personnel, as well as transport them to operational areas, provide logistical support, and assist with medical evacuation; in addition to teams of military trainers, Russia sent private military contractors to provide assistance to the FACA; the Russians have also performed other security roles such as guarding mines and government officials; some Russian contractors and the CAR forces they supported have been accused of carrying out indiscriminate killings, using excessive force against civilians, and looting<br><br>the UN Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) has operated in the country since 2014; its mission includes providing security, protecting civilians, facilitating humanitarian assistance, disarming and demobilizing armed groups, and supporting the country’s fragile transitional government; as of early 2024, MINUSCA had more than 16,000 military and police personnel <br><br>the European Union Training Mission in the Central African Republic (EUTM-RCA) has operated in the country since 2016, providing advice, training, and educational programs to the country's security forces; France and Rwanda have also provided assistance to the FACA; France suspended its support in 2021, but Rwanda continued providing troops and military training as of 2024 (2024)<br>
+the 2013 coup resulted in the institutional collapse of the FACA; its forces were overwhelmed and forced to flee to neighboring countries; it has been estimated that only 10% of the FACA returned after the coup, and the FACA has struggled to rebuild in the years of instability since, despite significant foreign assistance; considerable portions of the country remain outside state control and are ungoverned, with the presence of multiple armed actors creating insecurity in much of the country <br><br>in late 2020 and early 2021, the Coalition des Patriotes pour le Change (CPC), a loose coalition of armed groups comprised largely of former Seleka and anti-Balaka fighters, attacked the capital Bangui; CAR Government forces, along with Russian private military contractors and Rwandan troops, repelled the attack while the CPC retreated to its rear bases and into neighboring countries and continued conducting attacks; as of 2023, the CAR Government claimed to have restored authority across much of the country, including the capital, although armed groups, including some not affiliated with CPC, continued to carry out violent activities in regions outside the capital, threatening local stability; forces on both sides have been accused of abuses and atrocities in the fighting <br><br>in 2018, the UN Security Council approved Russian security assistance for the CAR to help train and advise FACA personnel, as well as transport them to operational areas, provide logistical support, and assist with medical evacuation; in addition to teams of military trainers, Russia sent private military contractors to provide assistance to the FACA; the Russians have also performed other security roles such as guarding mines and government officials; some Russian contractors and the CAR forces they supported have been accused of carrying out indiscriminate killings, using excessive force against civilians, and looting<br><br>the UN Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) has operated in the country since 2014; its mission includes providing security, protecting civilians, facilitating humanitarian assistance, disarming and demobilizing armed groups, and supporting the country’s fragile transitional government; as of 2024, MINUSCA had more than 16,000 military and police personnel <br><br>the European Union Training Mission in the Central African Republic (EUTM-RCA) has operated in the country since 2016, providing advice, training, and educational programs to the country's security forces; France and Rwanda have also provided assistance to the FACA; France suspended its support in 2021, but Rwanda continued providing troops and military training as of 2024 (2024)<br>
 
 ## Transnational Issues
 

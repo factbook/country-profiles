@@ -96,11 +96,10 @@ _15-64 years_: 64.6% (male 33,840/female 32,989)<br>
 _65 years and over_: 18.3% (2024 est.) (male 8,106/female 10,840)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 44.5<br>
-_youth dependency ratio_: 21.3<br>
-_elderly dependency ratio_: 23.2<br>
-_potential support ratio_: 4.3 (2021 est.)<br>
-<strong>note:</strong> data represent Guernsey and Jersey<br>
+_total dependency ratio_: 54.7 (2024 est.)<br>
+_youth dependency ratio_: 26.4 (2024 est.)<br>
+_elderly dependency ratio_: 28.3 (2024 est.)<br>
+_potential support ratio_: 3.5 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 38.2 years (2024 est.)<br>
@@ -183,7 +182,7 @@ _female_: NA<br>
 ## Environment
 
 **Environment - current issues**<br>
-habitat and species depletion due to human encroachment; water pollution; improper solid waste disposal<br>
+habitat and species loss; water pollution; improper solid-waste disposal<br>
 
 **Climate**<br>
 temperate; mild winters and cool summers<br>
@@ -238,7 +237,7 @@ none (British Crown dependency)<br>
 Liberation Day, 9 May (1945)<br>
 
 **Legal system**<br>
-the laws of the UK apply where applicable; includes local statutes<br>
+the laws of the UK apply, as well as local statutes<br>
 
 **Constitution**<br>
 _history_: unwritten; partly statutes, partly common law and practice<br>
@@ -338,19 +337,19 @@ tourism, banking and finance, dairy, electronics<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency; entry includes Jersey and Guernsey<br>
 
 **Labor force**<br>
-83,000 (2023 est.)<br>
+82,400 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work;entry includes Jersey and Guernsey<br>
 
 **Unemployment rate**<br>
-5.98% (2023 est.)<br>
-5.91% (2022 est.)<br>
-6.61% (2021 est.)<br>
+6.3% (2024 est.)<br>
+6.2% (2023 est.)<br>
+6.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment; entry includes Jersey and Guernsey<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.5% (2023 est.)<br>
-_male_: 13.7% (2023 est.)<br>
-_female_: 13.2% (2023 est.)<br>
+_total_: 14.1% (2024 est.)<br>
+_male_: 14.2% (2024 est.)<br>
+_female_: 13.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -371,11 +370,11 @@ artwork, ships, vegetables, fruits, jewelry (2022)<br>
 
 **Exchange rates**<br>
 _Currency_: Jersey pounds (JEP) per US dollar<br>
+0.782 (2024 est.)<br>
 0.805 (2023 est.)<br>
 0.811 (2022 est.)<br>
 0.727 (2021 est.)<br>
 0.78 (2020 est.)<br>
-0.783 (2019 est.)<br>
 
 ## Energy
 
@@ -413,15 +412,8 @@ _subscriptions per 100 inhabitants_: 37 (2020 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020) (registered in UK)<br>
-_inventory of registered aircraft operated by air carriers_: 4 (registered in UK)<br>
-
 **Airports**<br>
 1 (2025)<br>
-
-**Roadways**<br>
-_total_: 576 km (2010)<br>
 
 **Ports**<br>
 _total ports_: 1 (2024)<br>

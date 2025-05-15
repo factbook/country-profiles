@@ -67,7 +67,7 @@ while overall population density throughout the islands is relatively low, conce
 several hurricanes in recent years; frequent and severe droughts and floods; occasional earthquakes<br>
 
 **Geography - note**<br>
-important location along the Anegada Passage -- a key shipping lane for the Panama Canal; Saint Thomas has one of the best natural deepwater harbors in the Caribbean<br>
+important location along the Anegada Passage, a key shipping lane for the Panama Canal; Saint Thomas has one of the best natural deepwater harbors in the Caribbean<br>
 
 ## People and Society
 
@@ -96,10 +96,10 @@ _15-64 years_: 59.8% (male 29,519/female 32,899)<br>
 _65 years and over_: 21.5% (2024 est.) (male 10,018/female 12,411)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 64.6<br>
-_youth dependency ratio_: 32<br>
-_elderly dependency ratio_: 34<br>
-_potential support ratio_: 3 (2021 est.)<br>
+_total dependency ratio_: 67.2 (2024 est.)<br>
+_youth dependency ratio_: 31.3 (2024 est.)<br>
+_elderly dependency ratio_: 35.9 (2024 est.)<br>
+_potential support ratio_: 2.8 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 43 years (2024 est.)<br>
@@ -176,9 +176,6 @@ NA<br>
 **Currently married women (ages 15-49)**<br>
 27.4% (2023)<br>
 
-**Education expenditures**<br>
-NA<br>
-
 **Literacy**<br>
 _total population_: NA<br>
 _male_: NA<br>
@@ -204,9 +201,6 @@ _other_: 32.8% (2022 est.)<br>
 _urban population_: 96.2% of total population (2023)<br>
 _rate of urbanization_: -0.11% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-0% of GDP (2017 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 146,500 tons (2012 est.)<br>
 
@@ -217,19 +211,19 @@ _conventional long form_: none<br>
 _conventional short form_: Virgin Islands<br>
 _former_: Danish West Indies<br>
 _abbreviation_: VI<br>
-_etymology_: the myriad islets, cays, and rocks surrounding the major islands reminded Christopher COLUMBUS in 1493 of Saint Ursula and her 11,000 virgin followers (Santa Ursula y las Once Mil Virgenes), which over time shortened to the Virgins (las Virgenes)<br>
+_etymology_: in 1493, the islets, cays, and rocks around the major islands in the chain reminded explorer Christopher COLUMBUS of Saint Ursula and her 11,000 virgin followers (Santa Ursula y las Once Mil Virgenes), which over time was shortened to the Virgins (las Virgenes)<br>
 
 **Government type**<br>
 unincorporated organized territory of the US with local self-government; republican form of territorial government with separate executive, legislative, and judicial branches<br>
 
 **Dependency status**<br>
-unincorporated organized territory of the US with policy relations between the Virgin Islands and the US Federal Government under the jurisdiction of the Office of Insular Affairs, US Department of the Interior, Washington, DC<br>
+unincorporated, organized territory of the US, with policy relations with the US federal government under the jurisdiction of the Office of Insular Affairs, US Department of the Interior<br>
 
 **Capital**<br>
 _name_: Charlotte Amalie<br>
 _geographic coordinates_: 18 21 N, 64 56 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: originally called Taphus in Danish - meaning "tap house" or "beer house" because of its many beer halls - the town received a more dignified name in 1691 when it was named Charlotte Amalie in honor of Danish King CHRISTIAN V&rsquo;s wife, Charlotte AMALIE of Hesse-Kassel (1650&ndash;1714)<br>
+_etymology_: named in honor of Danish King CHRISTIAN V&rsquo;s wife, Charlotte AMALIE of Hesse-Kassel, after the colony was established in 1672<br>
 
 **Administrative divisions**<br>
 none (territory of the US); there are no first-order administrative divisions as defined by the US Government, but there are 3 islands at the second order; Saint Croix, Saint John, Saint Thomas<br>
@@ -253,7 +247,7 @@ see United States<br>
 18 years of age; universal; note - island residents are US citizens but do not vote in US presidential elections<br>
 
 **Executive branch**<br>
-_chief of state_: President Joseph R. BIDEN, Jr. (since 20 January 2021)<br>
+_chief of state_: President Donald J. TRUMP (since 20 January 2025)<br>
 _head of government_: Governor Albert BRYAN, Jr. (since 7 January 2019)<br>
 _cabinet_: Territorial Cabinet appointed by the governor and confirmed by the Senate<br>
 _elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of the Virgin Islands do not vote in elections for US president and vice president; however, they may vote in the Democratic and Republican presidential primary elections; governor and lieutenant governor directly elected on the same ballot by absolute majority vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 8 November 2022 (next to be held in November 2026)<br>
@@ -263,7 +257,7 @@ _election results_: <em>2022:</em> Albert BRYAN, Jr. reelected governor; percent
 <strong>note:</strong> the Virgin Islands delegate to the US House of Representatives can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court of the Virgin Islands (consists of the chief justice and 2 associate justices); note - court established by the US Congress in 2004 and assumed appellate jurisdiction in 2007<br>
+_highest court(s)_: Supreme Court of the Virgin Islands (consists of the chief justice and 2 associate justices)<br>
 _judge selection and term of office_: justices appointed by the governor and confirmed by the Virgin Islands Senate; justices serve initial 10-year terms and upon reconfirmation, during the extent of good behavior; chief justice elected to position by peers for a 3-year term<br>
 _subordinate courts_: Superior Court (Territorial Court renamed in 2004); US Court of Appeals for the Third Circuit (has appellate jurisdiction over the District Court of the Virgin Islands; it is a territorial court and is not associated with a US federal judicial district); District Court of the Virgin Islands<br>
 
@@ -338,19 +332,19 @@ tourism, watch assembly, rum distilling, construction, pharmaceuticals, electron
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-48,000 (2023 est.)<br>
+47,100 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-12.09% (2023 est.)<br>
-12.67% (2022 est.)<br>
-13.93% (2021 est.)<br>
+12% (2024 est.)<br>
+12.3% (2023 est.)<br>
+13% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.6% (2023 est.)<br>
-_male_: 23.1% (2023 est.)<br>
-_female_: 32.7% (2023 est.)<br>
+_total_: 25.3% (2024 est.)<br>
+_male_: 22% (2024 est.)<br>
+_female_: 28.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Budget**<br>
@@ -364,9 +358,9 @@ _expenditures_: $1.518 billion (2016 est.)<br>
 28.9% (of GDP) (2016 est.)<br>
 
 **Exports**<br>
-$4.075 billion (2021 est.)<br>
+$4.549 billion (2022 est.)<br>
+$4.069 billion (2021 est.)<br>
 $1.62 billion (2020 est.)<br>
-$2.265 billion (2019 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -377,9 +371,9 @@ refined petroleum, jewelry, recreational boats, watches, rum (2019)<br>
 top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$4.065 billion (2021 est.)<br>
-$3.185 billion (2020 est.)<br>
-$4.139 billion (2019 est.)<br>
+$5.058 billion (2022 est.)<br>
+$4.057 billion (2021 est.)<br>
+$3.184 billion (2020 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -431,7 +425,7 @@ _domestic_: fixed-line 76 per 100 persons, with mobile-cellular 80 per 100 (2021
 _international_: country code - 1-340; landing points for the BSCS, St Thomas-ST Croix System, Southern Caribbean Fiber, Americas II, GCN, MAC, PAN-AM and SAC submarine cable connections to US, the Caribbean, Central and South America; satellite earth stations - NA (2020)<br>
 
 **Broadcast media**<br>
-about a dozen TV broadcast stations including 1 public TV station; multi-channel cable and satellite TV services are available; 24 radio stations<br>
+about a dozen TV stations, including 1 public TV station; multi-channel cable and satellite TV available; 24 radio stations<br>
 
 **Internet country code**<br>
 .vi<br>
@@ -451,9 +445,6 @@ _subscriptions per 100 inhabitants_: 10 (2022 est.)<br>
 **Heliports**<br>
 4 (2025)<br>
 
-**Roadways**<br>
-_total_: 1,260 km (2008)<br>
-
 **Merchant marine**<br>
 _total_: 2 (2023)<br>
 _by type_: general cargo 1, other 1<br>
@@ -470,7 +461,7 @@ _key ports_: Charlotte Amalie, Christiansted, Cruz Bay, Frederiksted, Limetree B
 ## Military and Security
 
 **Military and security forces**<br>
-US Virgin Islands Police Department (VIPD)<br><br>US Virgin Islands Army National Guard (VING); US Virgin Islands Air National Guard (VIANG)<br>
+US Virgin Islands Police Department (VIPD); US Virgin Islands National Guard (VING) (2025)<br>
 
 **Military - note**<br>
 defense is the responsibility of the US<br>

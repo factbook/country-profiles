@@ -105,10 +105,10 @@ _15-64 years_: 65.2% (male 759,210/female 837,752)<br>
 _65 years and over_: 6.1% (2024 est.) (male 59,513/female 89,747)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 57.5<br>
-_youth dependency ratio_: 51.8<br>
-_elderly dependency ratio_: 5.7<br>
-_potential support ratio_: 13.8 (2021 est.)<br>
+_total dependency ratio_: 53.5 (2024 est.)<br>
+_youth dependency ratio_: 44.1 (2024 est.)<br>
+_elderly dependency ratio_: 9.3 (2024 est.)<br>
+_potential support ratio_: 10.7 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 27.1 years (2024 est.)<br>
@@ -250,12 +250,6 @@ _other_: 27.9% (2022 est.)<br>
 _urban population_: 72.9% of total population (2023)<br>
 _rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-0.23% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.45% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 12.82 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 6.34 megatons (2016 est.)<br>
@@ -312,7 +306,7 @@ _etymology_: named after GABORONE (ca. 1825-1931), a chief of the Tlokwa tribe, 
 Independence Day (Botswana Day), 30 September (1966)<br>
 
 **Legal system**<br>
-mixed legal system of civil law influenced by the Roman-Dutch model and also customary and common law<br>
+mixed legal system of civil law influenced by the Roman-Dutch model, including customary and common law<br>
 
 **Constitution**<br>
 _history_: previous 1960 (pre-independence); latest adopted March 1965, effective 30 September 1966<br>
@@ -423,9 +417,9 @@ $19.396 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-5.07% (2023 est.)<br>
-11.67% (2022 est.)<br>
-7.24% (2021 est.)<br>
+2.8% (2024 est.)<br>
+5.1% (2023 est.)<br>
+11.7% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -460,19 +454,19 @@ diamonds, copper, nickel, salt, soda ash, potash, coal, iron ore, silver; beef p
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.084 million (2023 est.)<br>
+1.173 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-23.38% (2023 est.)<br>
-23.62% (2022 est.)<br>
-23.11% (2021 est.)<br>
+23.1% (2024 est.)<br>
+23.4% (2023 est.)<br>
+23.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 45.4% (2023 est.)<br>
-_male_: 40.5% (2023 est.)<br>
-_female_: 51.5% (2023 est.)<br>
+_total_: 43.9% (2024 est.)<br>
+_male_: 39.8% (2024 est.)<br>
+_female_: 48.6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -500,11 +494,11 @@ _expenditures_: $5.099 billion (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-19.62% of GDP (2020 est.)<br>
+19.6% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-19.65% (of GDP) (2022 est.)<br>
+19.6% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -548,16 +542,16 @@ $4.802 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$1.772 billion (2023 est.)<br>
+$1.761 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: pulas (BWP) per US dollar -<br>
+13.563 (2024 est.)<br>
 13.596 (2023 est.)<br>
 12.369 (2022 est.)<br>
 11.087 (2021 est.)<br>
 11.456 (2020 est.)<br>
-10.756 (2019 est.)<br>
 
 ## Energy
 
@@ -611,7 +605,7 @@ _domestic_: fixed-line teledensity has declined in recent years and now stands a
 _international_: country code - 267; international calls are made via satellite, using international direct dialing; 2 international exchanges; digital microwave radio relay links to Namibia, Zambia, Zimbabwe, and South Africa; satellite earth station - 1 Intelsat (Indian Ocean)<br>
 
 **Broadcast media**<br>
-2 TV stations - 1 state-owned and 1 privately owned; privately owned satellite TV subscription service is available; 2 state-owned national radio stations;&nbsp;4 privately owned radio stations broadcast locally (2019)<br>
+2 TV stations, 1 state-owned and 1 privately owned; privately owned satellite TV subscription service is available; 2 state-owned national radio stations; 4 privately owned radio stations broadcast locally (2019)<br>
 
 **Internet country code**<br>
 .bw<br>
@@ -625,12 +619,6 @@ _subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 6<br>
-_annual passenger traffic on registered air carriers_: 253,417 (2018)<br>
-_annual freight traffic on registered air carriers_: 110,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 A2<br>
 
@@ -640,11 +628,6 @@ A2<br>
 **Railways**<br>
 _total_: 888 km (2014)<br>
 _narrow gauge_: 888 km (2014) 1.067-m gauge<br>
-
-**Roadways**<br>
-_total_: 31,747 km<br>
-_paved_: 9,810 km<br>
-_unpaved_: 21,937 km (2017)<br>
 
 ## Military and Security
 
@@ -660,7 +643,7 @@ Botswana Defense Force (BDF): Ground Forces Command, Air Arm Command, Defense Lo
 2.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 10,000 active BDF personnel (2024)<br>
+estimated 10,000 active BDF personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the BDF has a mix of mostly older weapons and equipment, largely of Western/European origin; in recent years, it has received limited amounts of material from several European countries and the US (2024)<br>

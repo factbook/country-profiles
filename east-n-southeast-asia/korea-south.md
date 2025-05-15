@@ -101,10 +101,10 @@ _15-64 years_: 69.4% (male 18,653,915/female 17,465,817)<br>
 _65 years and over_: 19.3% (2024 est.) (male 4,440,688/female 5,623,348)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 39.9<br>
-_youth dependency ratio_: 16.6<br>
-_elderly dependency ratio_: 23.3<br>
-_potential support ratio_: 4.3 (2021 est.)<br>
+_total dependency ratio_: 43.6 (2024 est.)<br>
+_youth dependency ratio_: 15.2 (2024 est.)<br>
+_elderly dependency ratio_: 28.4 (2024 est.)<br>
+_potential support ratio_: 3.5 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 45.5 years (2024 est.)<br>
@@ -228,7 +228,7 @@ _female_: 16 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution in large cities; acid rain; water pollution from the discharge of sewage and industrial effluents; drift net fishing; solid waste disposal; transboundary air pollution from China<br>
+air pollution in large cities; acid rain; water pollution from sewage and industrial effluents; drift-net fishing; solid waste disposal; transboundary air pollution from China<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -248,12 +248,6 @@ _other_: 19.6% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 81.5% of total population (2023)<br>
 _rate of urbanization_: 0.31% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.01% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 24.04 micrograms per cubic meter (2019 est.)<br>
@@ -291,10 +285,11 @@ _etymology_: derived from the Chinese name for Goryeo, which was the Korean dyna
 presidential republic<br>
 
 **Capital**<br>
-_name_: Seoul; note - Sejong, located some 120 km (75 mi) south of Seoul, serves as an administrative capital for segments of the South Korean Government<br>
+_name_: Seoul<br>
 _geographic coordinates_: 37 33 N, 126 59 E<br>
 _time difference_: UTC+9 (14 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name originates from the Korean word meaning "capital city" and which is believed to be derived from Seorabeol, the name of the capital of the ancient Korean Kingdom of Silla<br>
+_etymology_: the name originates from the Korean word meaning "capital city;" it was the capital of the unified Korea from 1392 to 1910<br>
+<strong>note:</strong> Sejong, located some 120 km (75 mi) south of Seoul, serves as an administrative capital for segments of the South Korean government<br>
 
 **Administrative divisions**<br>
 <p>9 provinces (do, singular and plural), 6 metropolitan cities (gwangyeoksi, singular and plural), 1 special city (teugbyeolsi), and 1 special self-governing city (teukbyeoljachisi)</p> <p><strong>provinces:</strong> Chungcheongbuk-do (North Chungcheong), Chungcheongnam-do (South Chungcheong), Gangwon-do, Gyeongsangbuk-do (North Gyeongsang), Gyeonggi-do, Gyeongsangnam-do (South Gyeongsang), Jeju-do (Jeju), Jeollabuk-do (North Jeolla), Jeollanam-do (South Jeolla)</p> <p><strong>metropolitan cities:</strong> Busan (Pusan), Daegu (Taegu), Daejeon (Taejon), Gwangju (Kwangju), Incheon (Inch'on), Ulsan</p> <p><strong>special city:</strong> Seoul</p> <p><strong>special self-governing city:</strong> Sejong</p><br>
@@ -306,7 +301,7 @@ _etymology_: the name originates from the Korean word meaning "capital city" and
 Liberation Day, 15 August (1945)<br>
 
 **Legal system**<br>
-mixed legal system combining European civil law, Anglo-American law, and Chinese classical thought<br>
+mixed system combining European civil law, Anglo-American law, and Chinese classical thought<br>
 
 **Constitution**<br>
 _history_: several previous; latest passed by National Assembly 12 October 1987, approved in referendum 28 October 1987, effective 25 February 1988<br>
@@ -325,8 +320,8 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal; note - the voting age was lowered from 19 to 18 beginning with the 2020 national election<br>
 
 **Executive branch**<br>
-_chief of state_: Prime Minister HAN Duck-soo became Acting President on 14 December 2024 after the National Assembly impeached and suspended President YOON Suk Yeol (inaugurated 10 May 2022) from office; on 4 April 2025, the Constitutional Court confirmed YOON's impeachment and removal from office; under Article 68 of the Constitution, a new presidential election must be held within 60 days of the court's ruling<br>
-_head of government_: Prime Minister HAN Duck-soo became Acting President on 14 December 2024 after the National Assembly impeached and suspended President YOON Suk Yeol (inaugurated 10 May 2022) from office; on 4 April 2025, the Constitutional Court confirmed YOON's impeachment and removal from office<br>
+_chief of state_: LEE Ju Ho (Acting President and Prime Minister since 2 May 2025 after Prime Minister and Acting President Han Duck Soo resigned to run for president); on 14 December 2024 the National Assembly impeached and suspended President YOON Suk Yeol (inaugurated 10 May 2022) from office; on 4 April 2025, the Constitutional Court confirmed YOON's impeachment and removal from office; under Article 68 of the Constitution, a new presidential election must be held within 60 days of the court's ruling<br>
+_head of government_: LEE Ju Ho (Acting President and Prime Minister since 2 May 2025 after Prime Minister and Acting President Han Duck Soo resigned to run for president); on 14 December 2024 the National Assembly impeached and suspended President YOON Suk Yeol (inaugurated 10 May 2022) from office; on 4 April 2025, the Constitutional Court confirmed YOON's impeachment and removal from office<br>
 _cabinet_: State Council appointed by the president on the prime minister's recommendation<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a single 5-year term; election last held on 9 March 2022 (next to be held on 3 June 2025); prime minister appointed by president with consent of the National Assembly<br>
 _election results_: <em>2022</em>: YOON Suk-yeol elected president; YOON Suk-yeol (PPP) 48.6%, LEE Jae-myung (DP) 47.8%; other 3.6%<br><br><em>2017</em>: MOON Jae-in elected president; MOON Jae-in (DP) 41.1%, HONG Joon-pyo (Liberty Korea Party) 24%, AHN Cheol-soo (PP) 21.4%, YOO Seung-min (Bareun Party) 6.8%, SIM Sang-jung (Justice Party) 6.2%<br>
@@ -415,9 +410,9 @@ $1.713 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.3% (2024 est.)<br>
 3.6% (2023 est.)<br>
-5.09% (2022 est.)<br>
-2.5% (2021 est.)<br>
+5.1% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -453,19 +448,19 @@ electronics, telecommunications, automobile production, chemicals, shipbuilding,
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-29.699 million (2023 est.)<br>
+29.647 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.64% (2023 est.)<br>
-2.86% (2022 est.)<br>
-3.64% (2021 est.)<br>
+2.6% (2024 est.)<br>
+2.7% (2023 est.)<br>
+2.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.4% (2023 est.)<br>
-_male_: 5.4% (2023 est.)<br>
-_female_: 5.4% (2023 est.)<br>
+_total_: 5.9% (2024 est.)<br>
+_male_: 6% (2024 est.)<br>
+_female_: 5.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -496,23 +491,23 @@ _expenditures_: $563.156 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-51.18% of GDP (2022 est.)<br>
+52.3% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-18.44% (of GDP) (2022 est.)<br>
+15.7% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$35.488 billion (2023 est.)<br>
+$99.043 billion (2024 est.)<br>
+$32.822 billion (2023 est.)<br>
 $25.829 billion (2022 est.)<br>
-$85.228 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$769.534 billion (2023 est.)<br>
+$835.149 billion (2024 est.)<br>
+$769.243 billion (2023 est.)<br>
 $825.961 billion (2022 est.)<br>
-$769.424 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -524,9 +519,9 @@ integrated circuits, cars, refined petroleum, plastics, machine parts (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$761.102 billion (2023 est.)<br>
+$758.724 billion (2024 est.)<br>
+$758.41 billion (2023 est.)<br>
 $817.594 billion (2022 est.)<br>
-$698.98 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -538,18 +533,18 @@ integrated circuits, natural gas, crude petroleum, machinery, cars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$409.457 billion (2024 est.)<br>
 $420.93 billion (2023 est.)<br>
 $423.366 billion (2022 est.)<br>
-$463.281 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: South Korean won (KRW) per US dollar -<br>
-1,305.663 (2023 est.)<br>
+1,363.375 (2024 est.)<br>
+1,305.662 (2023 est.)<br>
 1,291.447 (2022 est.)<br>
 1,143.952 (2021 est.)<br>
 1,180.266 (2020 est.)<br>
-1,165.358 (2019 est.)<br>
 
 ## Energy
 
@@ -620,7 +615,7 @@ _domestic_: fixed-line approximately 45 per 100 and mobile-cellular services 141
 _international_: country code - 82;&nbsp;landing points for EAC-C2C, FEA, SeaMeWe-3, TPE, APCN-2, APG, FLAG North Asia Loop/REACH North Asia Loop, KJCN, NCP, and&nbsp;SJC2 submarine cables providing links throughout Asia, Australia, the Middle East, Africa, Europe, Southeast Asia and US; satellite earth stations - 66 (2019)<br>
 
 **Broadcast media**<br>
-multiple national TV networks with 2 of the 3 largest networks publicly operated; the largest privately owned network, Seoul Broadcasting Service (SBS), has ties with other commercial TV networks; cable and satellite TV subscription services available; publicly operated radio broadcast networks and many privately owned radio broadcasting networks, each with multiple affiliates, and independent local stations<br>
+multiple national TV networks, with 2 of the 3 largest networks publicly operated; the largest privately owned network, Seoul Broadcasting Service (SBS), has ties with other commercial TV networks; cable and satellite TV subscription services available; publicly operated radio broadcast networks and many privately owned radio broadcasting networks, each with multiple affiliates, and independent local stations<br>
 
 **Internet country code**<br>
 .kr<br>
@@ -634,12 +629,6 @@ _subscriptions per 100 inhabitants_: 47 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 14 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 424<br>
-_annual passenger traffic on registered air carriers_: 88,157,579 (2018)<br>
-_annual freight traffic on registered air carriers_: 11,929,560,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 HL<br>
 
@@ -649,20 +638,9 @@ HL<br>
 **Heliports**<br>
 1,280 (2025)<br>
 
-**Pipelines**<br>
-3,790 km gas, 16 km oil, 889 km refined products (2018)<br>
-
 **Railways**<br>
 _total_: 3,979 km (2016)<br>
 _standard gauge_: 3,979 km (2016) 1.435-m gauge (2,727 km electrified)<br>
-
-**Roadways**<br>
-_total_: 100,428 km<br>
-_paved_: 92,795 km (includes 4,193 km of expressways)<br>
-_unpaved_: 7,633 km (2016)<br>
-
-**Waterways**<br>
-1,600 km (2011) (most navigable only by small craft)<br>
 
 **Merchant marine**<br>
 _total_: 2,149 (2023)<br>
@@ -680,8 +658,7 @@ _key ports_: Busan, Gwangyang Hang, Inchon, Masan, Mokpo, Pyeongtaek Hang, Ulsan
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Republic of Korea: Republic of Korea Army (ROKA), Republic of Korea Navy (ROKN, includes Marine Corps, ROKMC), Republic of Korea Air Force (ROKAF)<br><br>Ministry of Maritime Affairs and Fisheries: Korea Coast Guard; Ministry of Interior and Safety: Korean National Police Agency (2023)<br>
-<strong>note 1: </strong>the military reserves include Mobilization Reserve Forces (First Combat Forces) and Homeland Defense Forces (Regional Combat Forces)<br>
+Armed Forces of the Republic of Korea: Republic of Korea Army (ROKA), Republic of Korea Navy (ROKN, includes Marine Corps, ROKMC), Republic of Korea Air Force (ROKAF)<br><br>Ministry of Maritime Affairs and Fisheries: Korea Coast Guard; Ministry of Interior and Safety: Korean National Police Agency (2025)<br>
 
 **Military expenditures**<br>
 2.7% of GDP (2023 est.)<br>
@@ -691,7 +668,7 @@ Armed Forces of the Republic of Korea: Republic of Korea Army (ROKA), Republic o
 2.7% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 500,000 active-duty personnel (365,000 Army; 70,000 Navy, including about 30,000 Marines; 65,000 Air Force) (2023)<br>
+approximately 500,000 active Armed Forces personnel (365,000 Army; 70,000 Navy, including about 30,000 Marines; 65,000 Air Force) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the South Korean military is equipped with a mix of mostly modern domestically produced and imported weapons systems, particularly from the US; South Korea's defense industry produces a wide range of military hardware for both domestic use and export, including armored fighting vehicles, artillery, aircraft, missiles, and naval ships; it also jointly produces equipment with other countries (2024)<br>
@@ -704,7 +681,7 @@ the South Korean military is equipped with a mix of mostly modern domestically p
 250 Lebanon (UNIFIL); 275 South Sudan (UNMISS); 170 United Arab Emirates; note - since 2009, South Korea has kept a naval flotilla with approximately 300 personnel in the waters off of the Horn of Africa and the Arabian Peninsula (2024)<br>
 
 **Military - note**<br>
-the South Korean military is primarily focused on the threat from North Korea; it also deploys abroad for multinational missions, including peacekeeping and other security operations<br><br>South Korea's primary defense partner is the US, and the 1953 US-South Korea Mutual Defense Treaty is a cornerstone of the country's national security; the Treaty committed the US to provide assistance in the event of an attack and gave the US permission to station land, air, and sea forces in and about the territory of South Korea as determined by mutual agreement; the US maintains approximately 28,000 military personnel in the country and conducts bilateral exercises with the South Korean military; South Korea has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; the South Korean military has assisted the US in conflicts in Afghanistan (5,000 troops; 2001-2014), Iraq (20,000 troops; 2003-2008), and Vietnam (325,000 troops; 1964-1973)<br><br>in 2016, South Korea concluded an agreement with the EU for participation in EU Common Security and Defense Policy (CSDP) missions and operations, such as the EU Naval Force Somalia – Operation Atalanta, which protects maritime shipping and conducts counter-piracy operations off the coast of East Africa<br><br>South Korea has been engaged with NATO through dialogue and security cooperation since 2005 and is considered by NATO to be a global partner; in 2022, South Korea established its Mission to NATO to further institutionalize its cooperative relationship; it has participated in NATO-led missions and exercises, including in Afghanistan as part of the NATO-led International Security Assistance Force, 2010-2013; it has also cooperated with NATO in countering the threat of piracy in the Gulf of Aden by providing naval vessels as escorts<br><br>in addition to the invasion of South Korea and the subsequent Korean War (1950-53), North Korea from the 1960s to the 1980s launched a considerable number of limited military and subversive actions against South Korea using special forces and terrorist tactics; including aggressive skirmishes along the DMZ, overt attempts to assassinate South Korean leaders, kidnappings, the bombing of an airliner, and a failed effort in 1968 to foment an insurrection and conduct a guerrilla war in the South with more than 100 seaborne commandos; from the 1990s until 2010, the North lost two submarines and a semi-submersible boat attempting to insert infiltrators into the South (1996, 1998) and provoked several engagements in the Northwest Islands area along the disputed Northern Limit Line (NLL), including naval skirmishes between patrol boats in 1999 and 2002, the torpedoing and sinking of a South Korean corvette, the <em>Cheonan</em>, in 2010, and the bombardment of a South Korean Marine Corps installation on Yeonpyeong Island, also in 2010; since 2010, further minor incidents continue to occur periodically along the DMZ, where both the North and the South Korean militaries maintain large numbers of troops; ; in late 2023 and early 2024, the Kim regime abandoned decades of official policy and declared that South Korea was not inhabited by “fellow countrymen” but a separate and “hostile” state that the North would “subjugate” if war broke out (2024)<br>
+the South Korean military is primarily focused on the threat from North Korea; it also deploys abroad for multinational missions, including peacekeeping and other security operations<br><br>South Korea's primary defense partner is the US, and the 1953 US-South Korea Mutual Defense Treaty is a cornerstone of the country's national security; the Treaty committed the US to provide assistance in the event of an attack and gave the US permission to station land, air, and sea forces in and about the territory of South Korea as determined by mutual agreement; the US maintains approximately 28,000 military personnel in the country and regularly conducts bilateral exercises with the South Korean military; South Korea has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; the South Korean military has assisted the US in conflicts in Afghanistan (5,000 troops; 2001-2014), Iraq (20,000 troops; 2003-2008), and Vietnam (325,000 troops; 1964-1973)<br><br>in 2016, South Korea concluded an agreement with the EU for participation in EU Common Security and Defense Policy (CSDP) missions and operations, such as EU counter-piracy operations off the coast of East Africa; South Korea has been engaged with NATO since 2005 and is considered by NATO to be a global partner; in 2022, South Korea established its Mission to NATO to further institutionalize its cooperative relationship; it has participated in NATO-led missions and exercises, including in Afghanistan and in the Gulf of Aden (2024)<br>
 
 ## Space
 

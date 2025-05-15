@@ -100,10 +100,10 @@ _15-64 years_: 62.6% (male 808,435/female 837,908)<br>
 _65 years and over_: 22.2% (2024 est.) (male 201,405/female 380,898)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 55.7<br>
-_youth dependency ratio_: 23.6<br>
-_elderly dependency ratio_: 32.1<br>
-_potential support ratio_: 3.1 (2021 est.)<br>
+_total dependency ratio_: 55.9 (2024 est.)<br>
+_youth dependency ratio_: 23.5 (2024 est.)<br>
+_elderly dependency ratio_: 32.3 (2024 est.)<br>
+_potential support ratio_: 3.1 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 45.1 years (2024 est.)<br>
@@ -230,7 +230,7 @@ _female_: 17 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-water pollution; air pollution; deforestation; threatened animal and plant species; chemicals and waste materials released into the environment contaminate soil and groundwater; soil degradation and erosion<br>
+water pollution; air pollution; deforestation; groundwater pollution from chemicals and waste; soil degradation and erosion<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -250,12 +250,6 @@ _other_: 18.3% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 68.7% of total population (2023)<br>
 _rate of urbanization_: -0.12% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.31% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 10.37 micrograms per cubic meter (2019 est.)<br>
@@ -296,7 +290,7 @@ _name_: Vilnius<br>
 _geographic coordinates_: 54 41 N, 25 19 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: named after the Vilnia River, which flows into the Neris River at Vilnius; the river name derives from the Lithuanian word "vilnis" meaning "a surge"<br>
+_etymology_: named after the Vilnia River; the river name is said to derive from the Lithuanian word <em>vilnis</em>, meaning "wave"<br>
 
 **Administrative divisions**<br>
 60 municipalities (savivaldybe, singular - savivaldybe); Akmene, Alytaus Miestas, Alytus, Anksciai, Birstonas, Birzai, Druskininkai, Elektrenai, Ignalina, Jonava, Joniskis, Jurbarkas, Kaisiadorys, Kalvarija, Kauno Miestas, Kaunas, Kazlu Rudos, Kedainiai, Kelme, Klaipedos Miestas, Klaipeda, Kretinga, Kupiskis, Lazdijai, Marijampole, Mazeikiai, Moletai, Neringa, Pagegiai, Pakruojis, Palangos Miestas, Panevezio Miestas, Panevezys, Pasvalys, Plunge, Prienai, Radviliskis, Raseiniai, Rietavas, Rokiskis, Sakiai, Salcininkai, Siauliu Miestas, Siauliai, Silale, Silute, Sirvintos, Skuodas, Svencionys, Taurage, Telsiai, Trakai, Ukmerge, Utena, Varena, Vilkaviskis, Vilniaus Miestas, Vilnius, Visaginas, Zarasai<br>
@@ -415,9 +409,9 @@ $79.79 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-9.12% (2023 est.)<br>
-19.71% (2022 est.)<br>
-4.68% (2021 est.)<br>
+0.7% (2024 est.)<br>
+9.1% (2023 est.)<br>
+19.7% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -453,19 +447,19 @@ metal-cutting machine tools, electric motors, televisions, refrigerators and fre
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.519 million (2023 est.)<br>
+1.53 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.96% (2023 est.)<br>
-5.96% (2022 est.)<br>
-7.11% (2021 est.)<br>
+7.5% (2024 est.)<br>
+6.8% (2023 est.)<br>
+6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.9% (2023 est.)<br>
-_male_: 16.3% (2023 est.)<br>
-_female_: 11.3% (2023 est.)<br>
+_total_: 14.1% (2024 est.)<br>
+_male_: 16.3% (2024 est.)<br>
+_female_: 11.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -497,11 +491,11 @@ _expenditures_: $24.219 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-36.04% of GDP (2022 est.)<br>
+36.9% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-21.1% (of GDP) (2022 est.)<br>
+21.4% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -539,18 +533,18 @@ crude petroleum, cars, natural gas, packaged medicine, plastic products (2023)<b
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$6.92 billion (2024 est.)<br>
 $6.168 billion (2023 est.)<br>
 $5.365 billion (2022 est.)<br>
-$5.58 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 
 ## Energy
 
@@ -614,7 +608,7 @@ _domestic_: nearly 9 per 100 for fixed-line subscriptions; mobile-cellular subsc
 _international_: country code - 370; landing points for the BCS East, BCS East-West Interlink and NordBalt connecting Lithuania to Sweden, and Latvia&nbsp;; further transmission by satellite; landline connections to Latvia and Poland (2019)<br>
 
 **Broadcast media**<br>
-public broadcaster operates 3 channels with the third channel - a satellite channel - introduced in 2007; various privately owned commercial TV broadcasters operate national and multiple regional channels; many privately owned local TV stations; multi-channel cable and satellite TV services available; publicly owned broadcaster operates 3 radio networks; many privately owned commercial broadcasters, with repeater stations in various regions throughout the country<br>
+public broadcaster operates 3 channels, with the third channel (satellite) introduced in 2007; various privately owned commercial TV broadcasters operate national and multiple regional channels; many privately owned local TV stations; multi-channel cable and satellite TV services available; publicly owned broadcaster operates 3 radio networks; many privately owned commercial broadcasters, with repeater stations in various regions&nbsp;<br>
 
 **Internet country code**<br>
 .lt<br>
@@ -628,11 +622,6 @@ _subscriptions per 100 inhabitants_: 28 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 3 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 50<br>
-_annual passenger traffic on registered air carriers_: 26,031 (2018)<br>
-
 **Civil aircraft registration country code prefix**<br>
 LY<br>
 
@@ -642,17 +631,8 @@ LY<br>
 **Heliports**<br>
 2 (2025)<br>
 
-**Pipelines**<br>
-1,921 km gas, 121 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 1,911 km (2020) 152 km electrified<br>
-
-**Roadways**<br>
-_total_: 83,821 km (2022)<br>
-
-**Waterways**<br>
-441 km (2007) (navigable year-round)<br>
 
 **Merchant marine**<br>
 _total_: 59 (2023)<br>
@@ -670,7 +650,7 @@ _key ports_: Butinge Oil Terminal, Klaipeda<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Land Forces (Sausumos Pajegos), Naval Forces (Karines Juru Pajegos), Air Forces (Karines Oro Pajegos), Special Operations Forces (Specialiuju Operaciju Pajegos); National Defense Volunteer Forces (Krašto Apsaugos Savanorių Pajegos or KASP); National Riflemen's Union (Lietuvos šaulių sąjunga) (2024)<br>
+Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Lithuanian Land Forces (LLF), Lithuanian Navy, Lithuanian Air Force (LTAF), Lithuanian Special Operations Forces (LITHSOF); National Defense Volunteer Forces (2025)<br>
 <strong>note 1: </strong>the National Rifleman's Union is a civilian paramilitary organization supported by the Lithuanian Government that cooperates with the military but is not part of it; however, in a state of war, its armed formations would fall under the armed forces<br><br><strong>note 2:</strong> the Lithuanian Police and State Border Guard Service are under the Ministry of Interior; in wartime, the State Border Guard Service becomes part of the armed forces<br>
 
 **Military expenditures**<br>
@@ -687,14 +667,14 @@ approximately 18,000 active-duty personnel (14,000 Army, including about 5,000 a
 the military's inventory is a mix of mostly European and US weapons and equipment (2024)<br>
 
 **Military service age and obligation**<br>
-19-26 years of age for conscripted military service for men; 9-month service obligation; in 2015, Lithuania reinstated conscription after having converted to a professional military in 2008; 18-38 for voluntary service for men and women (2024)<br>
-<strong>note 1:</strong> Lithuania conscripts up to 4,000 males each year; conscripts are selected using an automated lottery system<br><br><strong>note 2:</strong> as of 2020, women comprised about 12% of the military's full-time personnel<br>
+19-26 years of age for conscripted military service for men; 9-month service obligation;  18-38 for voluntary service for men and women; 18-60 for the National Defense Volunteer Services (2025)<br>
+<strong>note 1:</strong> in 2015, Lithuania reinstated conscription after having converted to a professional military in 2008; it conscripts up to 4,000 men each year; conscripts are selected using an automated lottery system<br><br><strong>note 2:</strong> as of 2020, women comprised about 12% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 <strong>note: </strong>contributes about 350-550 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units; units affiliated with the multinational brigade remain within the structures of the armed forces of their respective countries until the brigade is activated for participation in an international operation<br>
 
 **Military - note**<br>
-the Lithuanian Armed Forces are responsible for the defense of the country’s interests, sovereignty, and territory, fulfilling Lithuania’s commitments to NATO and European security, and contributing to UN international peacekeeping efforts; Russia is Lithuania’s primary security focus, which has only increased since the Russian seizure of Crimea in 2014 and subsequent full-scale attack on Ukraine in 2022; Lithuania has been a member of NATO since 2004 and is reliant on the Alliance as the country’s security guarantor; it is actively engaged in both NATO and EU security, as well as bilaterally with allies such as the other Baltic States, Germany, Poland, the UK, Ukraine, and the US; the Lithuanian military has participated in NATO and EU missions abroad and regularly conducts training and exercises with NATO and EU partner forces; it hosts NATO forces, is a member of the UK-led Joint Expeditionary Force, and contributes troops to a multinational brigade with Poland and Ukraine; Lithuania participated in its first UN peacekeeping mission in 1994<br><br>since 2017, Lithuania has hosted a German-led multinational NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; NATO has also provided air protection for Lithuania since 2004 through its Baltic Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on four-month rotations; NATO fighter aircraft are hosted at Lithuania’s Šiauliai Air Base (2024)<br>
+the Lithuanian Armed Forces are responsible for the defense of the country’s interests, sovereignty, and territory, fulfilling Lithuania’s commitments to NATO and European security, and contributing to UN international peacekeeping efforts; Russia is Lithuania’s primary security focus, which has only increased since the Russian seizure of Crimea in 2014 and subsequent full-scale attack on Ukraine in 2022; Lithuania has been a member of NATO since 2004 and is reliant on the Alliance as the country’s security guarantor; it is actively engaged in both NATO and EU security, as well as bilaterally with allies such as the other Baltic States, Germany, Poland, the UK, Ukraine, and the US; the Lithuanian military has participated in NATO and EU missions abroad and regularly conducts training and exercises with NATO and EU partner forces; it hosts NATO forces, is a member of the UK-led Joint Expeditionary Force, and contributes troops to a multinational brigade with Poland and Ukraine; Lithuania participated in its first UN peacekeeping mission in 1994<br><br>since 2017, Lithuania has hosted a German-led multinational NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; NATO has also provided air protection for Lithuania since 2004 through its Baltic Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on four-month rotations; NATO fighter aircraft are hosted at Lithuania’s Šiauliai Air Base (2025)<br>
 
 ## Transnational Issues
 

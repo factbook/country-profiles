@@ -89,7 +89,7 @@ much of the population is concentrated in the north and southeast; although ther
 <p><strong>metropolitan France:</strong> flooding; avalanches; midwinter windstorms; drought; forest fires in south near the Mediterranean;</p> <p><strong>overseas departments:</strong> hurricanes (cyclones); flooding;</p> <p><strong>volcanism:</strong> Montagne Pelee (1,394 m) on the island of Martinique in the Caribbean is the most active volcano of the Lesser Antilles arc, it last erupted in 1932; a catastrophic eruption in May 1902 destroyed the city of St. Pierre, killing an estimated 30,000 people; La Soufriere (1,467 m) on the island of Guadeloupe in the Caribbean last erupted from July 1976 to March 1977; these volcanoes are part of the volcanic island arc of the Lesser Antilles that extends from Saba in the north to Grenada in the south</p><br>
 
 **Geography - note**<br>
-largest West European nation; most major French rivers -- the Meuse, Seine, Loire, Charente, Dordogne, and Garonne -- flow northward or westward into the Atlantic Ocean, only the Rhone flows southward into the Mediterranean Sea<br>
+largest Western European nation; most major French rivers -- the Meuse, Seine, Loire, Charente, Dordogne, and Garonne -- flow northward or westward into the Atlantic Ocean, only the Rhone flows southward into the Mediterranean Sea<br>
 
 ## People and Society
 
@@ -121,10 +121,10 @@ _15-64 years_: 60.7% (male 20,875,861/female 20,615,847)<br>
 _65 years and over_: 22% (2024 est.) (male 6,621,146/female 8,408,845)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 63.1<br>
-_youth dependency ratio_: 28.3<br>
-_elderly dependency ratio_: 34.8<br>
-_potential support ratio_: 2.9 (2021 est.)<br>
+_total dependency ratio_: 64.8 (2024 est.)<br>
+_youth dependency ratio_: 28.6 (2024 est.)<br>
+_elderly dependency ratio_: 36.2 (2024 est.)<br>
+_potential support ratio_: 2.8 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 42.6 years (2024 est.)<br>
@@ -247,7 +247,7 @@ _female_: 16 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-some forest damage from acid rain; air pollution from industrial and vehicle emissions; water pollution from urban wastes, agricultural runoff<br>
+air pollution and acid rain from industrial and vehicle emissions; water pollution from urban wastes, agricultural runoff<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -268,12 +268,6 @@ _other_: 16.5% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 81.8% of total population (2023)<br>
 _rate of urbanization_: 0.67% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.03% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 10.46 micrograms per cubic meter (2019 est.)<br>
@@ -326,7 +320,7 @@ _geographic coordinates_: 48 52 N, 2 20 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
 _time zone note_: applies to metropolitan France only; for its overseas regions the time difference is UTC-4 for Guadeloupe and Martinique, UTC-3 for French Guiana, UTC+3 for Mayotte, and UTC+4 for Reunion<br>
-_etymology_: name derives from the Parisii, a Celtic tribe that inhabited the area from the 3rd century B.C., but who were conquered by the Romans in the 1st century B.C.; the Celtic settlement became the Roman town of Lutetia Parisiorum (Lutetia of the Parisii); over subsequent centuries it became Parisium and then just Paris<br>
+_etymology_: name derives from the Parisii, a Celtic tribe that inhabited the area from the 3rd century B.C.; the Celtic settlement became the Roman town of Lutetia Parisiorum (Lutetia of the Parisii); over subsequent centuries it became Parisium and then Paris<br>
 
 **Administrative divisions**<br>
 18 regions (régions, singular - région); Auvergne-Rhône-Alpes, Bourgogne-Franche-Comté, Bretagne (Brittany), Centre-Val de Loire (Center-Loire Valley), Corse (Corsica), Grand Est (Grand East), Guadeloupe, Guyane (French Guiana), Hauts-de-France (Upper France), Ile-de-France, Martinique, Mayotte, Normandie (Normandy), Nouvelle-Aquitaine (New Aquitaine), Occitanie (Occitania), Pays de la Loire (Lands of the Loire), Provence-Alpes-Côte d'Azur, Réunion<br>
@@ -466,9 +460,9 @@ $3.052 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.88% (2023 est.)<br>
-5.22% (2022 est.)<br>
-1.64% (2021 est.)<br>
+2% (2024 est.)<br>
+4.9% (2023 est.)<br>
+5.2% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -504,19 +498,19 @@ machinery, chemicals, automobiles, metallurgy, aircraft, electronics, textiles, 
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-31.979 million (2023 est.)<br>
+31.665 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7.32% (2023 est.)<br>
-7.31% (2022 est.)<br>
-7.87% (2021 est.)<br>
+7.4% (2024 est.)<br>
+7.3% (2023 est.)<br>
+7.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.1% (2023 est.)<br>
-_male_: 18.1% (2023 est.)<br>
-_female_: 16% (2023 est.)<br>
+_total_: 16.6% (2024 est.)<br>
+_male_: 17.1% (2024 est.)<br>
+_female_: 16% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -548,11 +542,11 @@ _expenditures_: $1.362 trillion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-98.05% of GDP (2022 est.)<br>
+98.5% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-24.47% (of GDP) (2022 est.)<br>
+23.1% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -590,18 +584,18 @@ cars, natural gas, crude petroleum, refined petroleum, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$78.429 billion (2024 est.)<br>
 $240.792 billion (2023 est.)<br>
 $242.416 billion (2022 est.)<br>
-$244.28 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 
 ## Energy
 
@@ -675,7 +669,7 @@ _international_: country code - 33;&nbsp;landing points for Circe South, TAT-14,
 _overseas departments_: country codes: French Guiana - 594; landing points for Ella Link, Kanawa, Americas II to South America, Europe, Caribbean and US; Guadeloupe - 590; landing points for GCN, Southern Caribbean Fiber, and&nbsp;ECFS&nbsp;around the Caribbean and&nbsp;US;&nbsp;Martinique - 596; landing points for Americas II, ECFS, and Southern Caribbean Fiber to South America, US and around the Caribbean; &nbsp;Mayotte - 262; landing points for FLY-LION3 and LION2 to&nbsp;East Africa and East African Islands in Indian Ocean;&nbsp;Reunion - 262; landing points for SAFE, METISS, and LION submarine cables to Asia, South and East Africa, Southeast Asia and nearby Indian Ocean Island countries of Mauritius, and Madagascar (2019)<br>
 
 **Broadcast media**<br>
-a mix of both publicly operated and privately owned TV stations; state-owned France television stations operate 4 networks, one of which is a network of regional stations, and has part-interest in several thematic cable/satellite channels and international channels; a large number of privately owned regional and local TV stations; multi-channel satellite and cable services provide a large number of channels; public broadcaster Radio France operates 7 national networks, a series of regional networks, and operates services for overseas territories and foreign audiences; Radio France Internationale, under the Ministry of Foreign Affairs, is a leading international broadcaster; a large number of commercial FM stations, with many of them consolidating into commercial networks<br>
+a mix of both publicly operated and privately owned TV stations; state-owned TV stations operate 4 networks and have part-interest in several thematic cable/satellite channels and international channels; large number of privately owned regional and local TV stations; multi-channel satellite and cable services; public broadcaster Radio France operates 7 national networks, a series of regional networks, and services for overseas territories and foreign audiences; Radio France Internationale, under the Ministry of Foreign Affairs, is a leading international broadcaster; large number of commercial FM stations<br>
 
 **Internet country code**<br>
 metropolitan France - .fr; French Guiana - .gf; Guadeloupe - .gp; Martinique - .mq; Mayotte - .yt; Reunion - .re<br>
@@ -689,12 +683,6 @@ _subscriptions per 100 inhabitants_: 49 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 19 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 553<br>
-_annual passenger traffic on registered air carriers_: 70,188,028 (2018)<br>
-_annual freight traffic on registered air carriers_: 4,443,790,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 F<br>
 
@@ -706,18 +694,9 @@ F<br>
 405 (2025)<br>
 <strong>note:</strong> Includes 11 heliports in French overseas departments (French Guiana, Guadeloupe, Martinique, Mayotte, Reunion)<br>
 
-**Pipelines**<br>
-15,322 km gas, 2,939 km oil, 5,084 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 27,860 km (2020) 16,660 km electrified<br>
 _narrow gauge_: -5 km<br>
-
-**Roadways**<br>
-_total_: 1,090,059 km (2022)<br>
-
-**Waterways**<br>
-<strong>metropolitan France:</strong> 8,501 km (1,621 km navigable by craft up to 3,000 metric tons) (2010)<br>
 
 **Merchant marine**<br>
 _total_: 553 (2023)<br>
@@ -734,7 +713,7 @@ _ports with oil terminals_: 31<br>
 _key ports_: Bayonne, Bordeaux, Boulogne-sur-Mer, Dunkerque Port Est, Dunkerque Port Ouest, La Pallice, La Rochelle, Les Sables d'Olonne, Lorient, Montoir, Nantes, Le Havre, Rouen, Rade de Brest, Rade de Cherbourg, Rochefort, St. Nazaire, Toulon<br>
 
 **Transportation - note**<br>
-begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) is a 50.5-km (31.4-mi) rail tunnel beneath the English Channel at the Strait of Dover that runs from Folkestone, Kent, England to Coquelles, Pas-de-Calais in northern France; it is the only fixed link between the island of Great Britain and mainland Europe<br>
+begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) is a 50.5-km (31.4-mi) rail tunnel under the English Channel at the Strait of Dover;&nbsp; it runs from Folkestone, Kent, in England to Coquelles, Pas-de-Calais, in northern France and is the only fixed link between the island of Great Britain and mainland Europe<br>
 
 ## Military and Security
 

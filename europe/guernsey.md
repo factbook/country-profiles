@@ -94,11 +94,10 @@ _15-64 years_: 64.1% (male 21,937/female 21,547)<br>
 _65 years and over_: 21.5% (2024 est.) (male 6,776/female 7,811)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 48.6<br>
-_youth dependency ratio_: 23.9<br>
-_elderly dependency ratio_: 24.6<br>
-_potential support ratio_: 4.1 (2021 est.)<br>
-<strong>note:</strong> data represent Guernsey and Jersey<br>
+_total dependency ratio_: 55.9 (2024 est.)<br>
+_youth dependency ratio_: 22.3 (2024 est.)<br>
+_elderly dependency ratio_: 33.5 (2024 est.)<br>
+_potential support ratio_: 3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 45 years (2024 est.)<br>
@@ -179,7 +178,7 @@ _female_: NA<br>
 ## Environment
 
 **Environment - current issues**<br>
-coastal erosion, coastal flooding; declining biodiversity due to land abandonment and succession to scrub or woodland<br>
+coastal erosion, coastal flooding; declining biodiversity&nbsp;<br>
 
 **Climate**<br>
 temperate with mild winters and cool summers; about 50% of days are overcast<br>
@@ -222,7 +221,7 @@ _name_: Saint Peter Port<br>
 _geographic coordinates_: 49 27 N, 2 32 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: Saint Peter Port is the name of the town and its surrounding parish; the "port" distinguishes this parish from that of Saint Peter on the other side of the island<br>
+_etymology_: named for the patron saint of fishermen; "port" distinguishes it from the Saint Peter (sometimes called Saint Peter in the Wood) on the other side of the island<br>
 
 **Administrative divisions**<br>
 none (British Crown dependency); there are no first-order administrative divisions as defined by the US Government, but there are 10 parishes: Castel, Forest, Saint Andrew, Saint Martin, Saint Peter Port, Saint Pierre du Bois, Saint Sampson, Saint Saviour, Torteval, Vale<br>
@@ -235,7 +234,7 @@ none (British Crown dependency)<br>
 Liberation Day, 9 May (1945)<br>
 
 **Legal system**<br>
-customary legal system based on Norman customary law; includes elements of the French civil code and English common law<br>
+customary system based on Norman customary law; includes elements of the French civil code and English common law<br>
 
 **Constitution**<br>
 _history_: unwritten; includes royal charters, statutes, and common law and practice<br>
@@ -337,19 +336,19 @@ tourism, banking<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency; entry includes Jersey and Guernsey<br>
 
 **Labor force**<br>
-83,000 (2023 est.)<br>
+82,400 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work;entry includes Jersey and Guernsey<br>
 
 **Unemployment rate**<br>
-5.98% (2023 est.)<br>
-5.91% (2022 est.)<br>
-6.61% (2021 est.)<br>
+6.3% (2024 est.)<br>
+6.2% (2023 est.)<br>
+6.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment; entry includes Jersey and Guernsey<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.5% (2023 est.)<br>
-_male_: 13.7% (2023 est.)<br>
-_female_: 13.2% (2023 est.)<br>
+_total_: 14.1% (2024 est.)<br>
+_male_: 14.2% (2024 est.)<br>
+_female_: 13.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Exports - partners**<br>
@@ -367,11 +366,11 @@ ships, aircraft, refined petroleum, mineral manufactures, beverages (2022)<br>
 
 **Exchange rates**<br>
 _Currency_: Guernsey pound per US dollar<br>
+0.782 (2024 est.)<br>
 0.805 (2023 est.)<br>
 0.811 (2022 est.)<br>
 0.727 (2021 est.)<br>
 0.78 (2020 est.)<br>
-0.783 (2019 est.)<br>
 
 ## Energy
 
@@ -395,7 +394,7 @@ _domestic_: fixed-line 53 per 100 and mobile-cellular 112 per 100 persons (2021)
 _international_: country code - 44;&nbsp;landing points for Guernsey-Jersey, HUGO, INGRID, Channel Islands -9 Liberty&nbsp;and UK-Channel Islands-7&nbsp;submarine cable to UK and&nbsp;France (2019)<br>
 
 **Broadcast media**<br>
-multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey with relays in Jersey, Guernsey, and Alderney; satellite packages are available; BBC Radio Guernsey and 1 other radio station operating<br>
+multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey with relays in Jersey, Guernsey, and Alderney; satellite packages are available; BBC Radio Guernsey and 1 other radio station<br>
 
 **Internet country code**<br>
 .gg<br>
@@ -409,10 +408,6 @@ _subscriptions per 100 inhabitants_: 40 (2020 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020) (registered in UK)<br>
-_inventory of registered aircraft operated by air carriers_: 9 (registered in UK)<br>
-
 **Civil aircraft registration country code prefix**<br>
 2<br>
 
@@ -421,9 +416,6 @@ _inventory of registered aircraft operated by air carriers_: 9 (registered in UK
 
 **Heliports**<br>
 1 (2025)<br>
-
-**Roadways**<br>
-_total_: 260 km (2017)<br>
 
 **Ports**<br>
 _total ports_: 3 (2024)<br>

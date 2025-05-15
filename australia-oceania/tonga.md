@@ -97,10 +97,10 @@ _15-64 years_: 63.2% (male 33,445/female 32,867)<br>
 _65 years and over_: 7.4% (2024 est.) (male 3,534/female 4,274)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 68.6<br>
-_youth dependency ratio_: 58.5<br>
-_elderly dependency ratio_: 10.5<br>
-_potential support ratio_: 9.5 (2021 est.)<br>
+_total dependency ratio_: 58.2 (2024 est.)<br>
+_youth dependency ratio_: 46.4 (2024 est.)<br>
+_elderly dependency ratio_: 11.8 (2024 est.)<br>
+_potential support ratio_: 8.5 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 25.9 years (2024 est.)<br>
@@ -248,12 +248,6 @@ _other_: 39% (2022 est.)<br>
 _urban population_: 23.2% of total population (2023)<br>
 _rate of urbanization_: 0.99% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-0.03% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 7.52 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 0.13 megatons (2016 est.)<br>
@@ -273,7 +267,7 @@ _conventional short form_: Tonga<br>
 _local long form_: Pule'anga Fakatu'i 'o Tonga<br>
 _local short form_: Tonga<br>
 _former_: Friendly Islands<br>
-_etymology_: "tonga" means "south" in the Tongan language and refers to the country's geographic position in relation to central Polynesia<br>
+_etymology_: the name is of local origin and is said to mean "island;" the former name, the Friendly Islands, came from Captain James COOK in 1773, based on the welcome he received from the inhabitants<br>
 
 **Government type**<br>
 constitutional monarchy<br>
@@ -283,7 +277,7 @@ _name_: Nuku'alofa<br>
 _geographic coordinates_: 21 08 S, 175 12 W<br>
 _time difference_: UTC+13 (18 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins first Sunday in November; ends second Sunday in January<br>
-_etymology_: composed of the words <em>nuku</em>, meaning "residence or abode," and <em>alof</em>a, meaning "love," to signify "abode of love"<br>
+_etymology_: name is said to be composed of the local words <em>nuku</em>, meaning "residence or abode," and <em>alofa</em>, meaning "love;" it may also mean "the south," describing Tonga's position in relation to most other Polynesian islands<br>
 
 **Administrative divisions**<br>
 5 island divisions; 'Eua, Ha'apai, Ongo Niua, Tongatapu, Vava'u<br>
@@ -395,9 +389,9 @@ $518.18 million (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-6.35% (2023 est.)<br>
-10.97% (2022 est.)<br>
-5.64% (2021 est.)<br>
+3.2% (2024 est.)<br>
+6.4% (2023 est.)<br>
+11% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -427,19 +421,19 @@ tourism, construction, fishing<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-36,000 (2023 est.)<br>
+34,800 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+2.2% (2024 est.)<br>
 2.3% (2023 est.)<br>
-2.35% (2022 est.)<br>
-2.11% (2021 est.)<br>
+2.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 6.7% (2023 est.)<br>
-_male_: 4.4% (2023 est.)<br>
-_female_: 10.5% (2023 est.)<br>
+_total_: 6.3% (2024 est.)<br>
+_male_: 3.9% (2024 est.)<br>
+_female_: 10% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -466,22 +460,23 @@ _expenditures_: $160.257 million (2020 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-43.92% of GDP (2020 est.)<br>
+43.9% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-20.79% (of GDP) (2020 est.)<br>
+23.8% (of GDP) (2023 est.)<br>
+<strong>note:</strong> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$30.073 million (2023 est.)<br>
+-$21.165 million (2024 est.)<br>
+-$30.087 million (2023 est.)<br>
 -$27.749 million (2022 est.)<br>
--$32.382 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$119.511 million (2024 est.)<br>
 $95.345 million (2023 est.)<br>
 $59.926 million (2022 est.)<br>
-$57.534 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -493,9 +488,9 @@ refined petroleum, gold, processed fruits and nuts, cassava, fish (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$383.462 million (2023 est.)<br>
+$392.888 million (2024 est.)<br>
+$383.475 million (2023 est.)<br>
 $330.306 million (2022 est.)<br>
-$298.304 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -513,7 +508,7 @@ $361.812 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$168.587 million (2023 est.)<br>
+$159.276 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -565,7 +560,7 @@ _domestic_: fixed-line 10 per 100 persons and mobile-cellular teledensity 61 tel
 _international_: country code - 676; landing point for the Tonga Cable and the TDCE connecting to Fiji and 3 separate Tonga islands; satellite earth station - 1 Intelsat (Pacific Ocean) (2020)<br>
 
 **Broadcast media**<br>
-1 state-owned TV station and 3 privately owned TV stations; satellite and cable TV services are available; 1 state-owned and&nbsp;5 privately owned radio stations; Radio Australia broadcasts available via satellite (2019)<br>
+1 state-owned TV station and 3 privately owned TV stations; satellite and cable TV services available; 1 state-owned and 5 privately owned radio stations; Radio Australia available via satellite (2019)<br>
 
 **Internet country code**<br>
 .to<br>
@@ -579,20 +574,11 @@ _subscriptions per 100 inhabitants_: 8 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 1<br>
-
 **Civil aircraft registration country code prefix**<br>
 A3<br>
 
 **Airports**<br>
 6 (2025)<br>
-
-**Roadways**<br>
-_total_: 680 km<br>
-_paved_: 184 km<br>
-_unpaved_: 496 km (2011)<br>
 
 **Merchant marine**<br>
 _total_: 29 (2023)<br>
@@ -610,7 +596,7 @@ _key ports_: Neiafu, Nuku Alofa, Pangai<br>
 ## Military and Security
 
 **Military and security forces**<br>
-His Majesty's Armed Forces Tonga (aka Tonga Defense Services): Tonga Royal Guard, Land Force (Royal Tongan Marines), Tonga Navy, Air Wing <br><br>Ministry of Police and Fire Services: Tonga Police Force (2024)<br>
+His Majesty's Armed Forces Tonga (HMAF; aka Tonga Defense Services): Tonga Royal Guard, Tonga Land Force (Royal Tongan Marines), Tonga Navy, Air Wing <br><br>Ministry of Police and Fire Services: Tonga Police Force (2024)<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2023 est.)<br>
@@ -620,7 +606,7 @@ His Majesty's Armed Forces Tonga (aka Tonga Defense Services): Tonga Royal Guard
 2.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 600 personnel (2024)<br>
+approximately 600 active armed forces personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists of light weapons, as well as some naval patrol vessels from Australia and a few US-origin aircraft (2024)<br>

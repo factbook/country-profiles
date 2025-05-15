@@ -75,7 +75,7 @@ _fresh water lake(s)_: Lago General Carrera (shared with Argentina) - 2,240 sq k
 <p>severe earthquakes; active volcanism; tsunamis</p><p><strong>volcanism:</strong> significant volcanic activity due to more than three-dozen active volcanoes along the Andes Mountains; Lascar (5,592 m), which last erupted in 2007, is the most active volcano in the northern Chilean Andes; Llaima (3,125 m) in central Chile, which last erupted in 2009, is another of the country's most active; Chaiten's 2008 eruption forced major evacuations; other notable historically active volcanoes include Cerro Hudson, Calbuco, Copahue, Guallatiri, Llullaillaco, Nevados de Chillan, Puyehue, San Pedro, and Villarrica; see note 2 under "Geography - note"</p><br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> the longest north-south trending country in the world, extending across 39 degrees of latitude; strategic location relative to sea lanes between the Atlantic and Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage)</p> <p><strong>note 2:</strong> Chile is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> the Atacama Desert -- the driest desert in the world -- spreads across the northern part of the country; Ojos del Salado (6,893 m) in the Atacama Desert is the highest active volcano in the world, Chile's tallest mountain, and the second highest in the Western Hemisphere and the Southern Hemisphere -- its small crater lake (at 6,390 m) is the world's highest lake</p><br>
+<p><strong>note 1:</strong> the longest country north-to-south in the world, extending across 39 degrees of latitude; strategic location relative to sea lanes between the Atlantic and Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage)</p> <p><strong>note 2:</strong> Chile is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> the Atacama Desert in the north is the driest desert in the world; Ojos del Salado (6,893 m) in the Atacama Desert is the highest active volcano in the world, Chile's tallest mountain, and the second highest in the Western Hemisphere and the Southern Hemisphere; the volcano's small crater lake (at 6,390 m) is the world's highest lake</p><br>
 
 ## People and Society
 
@@ -105,10 +105,10 @@ _15-64 years_: 67.3% (male 6,274,620/female 6,278,467)<br>
 _65 years and over_: 13.6% (2024 est.) (male 1,072,208/female 1,464,921)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 45.2<br>
-_youth dependency ratio_: 26.8<br>
-_elderly dependency ratio_: 18.4<br>
-_potential support ratio_: 5.4 (2021 est.)<br>
+_total dependency ratio_: 44.9 (2024 est.)<br>
+_youth dependency ratio_: 24.8 (2024 est.)<br>
+_elderly dependency ratio_: 20 (2024 est.)<br>
+_potential support ratio_: 5 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 36.9 years (2024 est.)<br>
@@ -229,7 +229,7 @@ _female_: 17 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution from industrial and vehicle emissions; water pollution from raw sewage; noise pollution; improper garbage disposal; soil degradation; widespread deforestation and mining threaten the environment; wildlife conservation<br>
+air pollution from industrial and vehicle emissions; water pollution from raw sewage; noise pollution; improper garbage disposal; soil degradation; widespread deforestation; pollution and ecosystem degradation from mining; wildlife conservation<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
@@ -249,12 +249,6 @@ _other_: 60.9% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 88% of total population (2023)<br>
 _rate of urbanization_: 0.78% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.49% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.01% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 20.49 micrograms per cubic meter (2019 est.)<br>
@@ -299,7 +293,7 @@ _geographic coordinates_: 33 27 S, 70 40 W<br>
 _time difference_: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins second Sunday in August; ends second Sunday in May; note - Punta Arenas observes DST throughout the year<br>
 _time zone note_: Chile has three time zones: the continental portion at UTC-3; the southern Magallanes region, which does not use daylight savings time and remains at UTC-3 for the summer months; and Easter Island at UTC-5<strong><br></strong><br>
-_etymology_: Santiago is named after the biblical figure Saint James (ca. A.D. 3-44), patron saint of Spain, but especially revered in Galicia; "Santiago" derives from the local Galician evolution of the Vulgar Latin "Sanctu Iacobu"; Valparaiso derives from the Spanish "Valle Paraiso" meaning "Paradise Valley"<br>
+_etymology_: Santiago is named after Saint James, the patron saint of Spain (Santo Iago in Spanish); Valparaiso derives from the Spanish words <em>valle </em>(valley) and <em>paraíso </em>(paradise)<br>
 
 **Administrative divisions**<br>
 16 regions (regiones, singular - region); Aysen, Antofagasta, Araucania, Arica y Parinacota, Atacama, Biobio, Coquimbo, Libertador General Bernardo O'Higgins, Los Lagos, Los Rios, Magallanes y de la Antartica Chilena (Magallanes and Chilean Antarctica), Maule, Nuble, Region Metropolitana (Santiago), Tarapaca, Valparaiso<br>
@@ -312,7 +306,7 @@ _etymology_: Santiago is named after the biblical figure Saint James (ca. A.D. 3
 Independence Day, 18 September (1810)<br>
 
 **Legal system**<br>
-civil law system influenced by several West European civil legal systems; judicial review of legislative acts by the Constitutional Tribunal<br>
+civil law system influenced by several Western European civil legal systems; Constitutional Tribunal reviews legislative acts<br>
 
 **Constitution**<br>
 _history_: many previous; latest adopted 11 September 1980, effective 11 March 1981; in September 2022 and again in December 2023, referendums presented for a new constitution were both defeated, and the September 1980 constitution remains in force<br>
@@ -435,9 +429,9 @@ $335.533 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-7.58% (2023 est.)<br>
-11.64% (2022 est.)<br>
-4.52% (2021 est.)<br>
+4.3% (2024 est.)<br>
+7.6% (2023 est.)<br>
+11.6% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -473,19 +467,19 @@ copper, lithium, other minerals, foodstuffs, fish processing, iron and steel, wo
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-9.958 million (2023 est.)<br>
+10.088 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-9.04% (2023 est.)<br>
-8.3% (2022 est.)<br>
-9.33% (2021 est.)<br>
+9.1% (2024 est.)<br>
+9% (2023 est.)<br>
+8.2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 22% (2023 est.)<br>
-_male_: 20.2% (2023 est.)<br>
-_female_: 24.5% (2023 est.)<br>
+_total_: 22.3% (2024 est.)<br>
+_male_: 20.3% (2024 est.)<br>
+_female_: 24.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -520,7 +514,7 @@ _expenditures_: $72.673 billion (2022 est.)<br>
 23.6% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-21.27% (of GDP) (2022 est.)<br>
+17.7% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -558,18 +552,18 @@ refined petroleum, crude petroleum, cars, garments, trucks (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$44.382 billion (2024 est.)<br>
 $46.377 billion (2023 est.)<br>
 $39.102 billion (2022 est.)<br>
-$51.252 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Chilean pesos (CLP) per US dollar -<br>
+943.572 (2024 est.)<br>
 840.067 (2023 est.)<br>
 873.314 (2022 est.)<br>
 758.955 (2021 est.)<br>
 792.727 (2020 est.)<br>
-702.897 (2019 est.)<br>
 
 ## Energy
 
@@ -633,7 +627,7 @@ _domestic_: number of fixed-line connections 13 per 100, mobile-cellular usage c
 _international_: country code - 56; landing points for the Pan-Am, Prat, SAm-1, American Movil-Telxius West Coast Cable, FOS Quellon-Chacabuco, Fibra Optical Austral, SAC&nbsp;and&nbsp;Curie submarine cables providing links to the US, Caribbean&nbsp;and to Central and South America; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-national and local terrestrial TV channels, coupled with extensive cable TV networks; the state-owned Television Nacional de Chile (TVN) network is self-financed through commercial advertising revenues and is not under direct government control; large number of privately owned TV stations; about 250 radio stations<br>
+national and local terrestrial TV channels, coupled with extensive cable TV networks; the state-owned Television Nacional de Chile (TVN) network is self-financed through commercial advertising and is not under direct government control; large number of privately owned TV stations; about 250 radio stations<br>
 
 **Internet country code**<br>
 .cl<br>
@@ -647,12 +641,6 @@ _subscriptions per 100 inhabitants_: 23 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 9 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 173<br>
-_annual passenger traffic on registered air carriers_: 19,517,185 (2018)<br>
-_annual freight traffic on registered air carriers_: 1,226,440,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 CC<br>
 
@@ -662,16 +650,10 @@ CC<br>
 **Heliports**<br>
 115 (2025)<br>
 
-**Pipelines**<br>
-3,160 km gas, 781 km liquid petroleum gas, 985 km oil, 722 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 7,281.5 km (2014)<br>
 _narrow gauge_: 3,853.5 km (2014) 1.000-m gauge<br>
 _broad gauge_: 3,428 km (2014) 1.676-m gauge (1,691 km electrified)<br>
-
-**Roadways**<br>
-_total_: 77,801 km (2016)<br>
 
 **Merchant marine**<br>
 _total_: 249 (2023)<br>
@@ -700,14 +682,14 @@ Armed Forces of Chile (Fuerzas Armadas de Chile): Chilean Army (Ejército de Chi
 1.9% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 75,000 active armed forces personnel (40,000 Army; 25,000 Navy; 10,000 Air Force); approximately 50,000 Carabineros (2023)<br>
+approximately 70,000 active armed forces personnel (40,000 Army; 20,000 Navy; 10,000 Air Force); approximately 50,000 Carabineros (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Chilean military inventory is comprised of a broad mix of older foreign supplied weapons and equipment and some domestically produced systems; significant foreign suppliers have included Australia, Brazil, France, Germany, Israel, the Netherlands, Spain, the UK, and the US; Chile's defense industry is active in the production of military aircraft, ships, and vehicles (2024)<br>
 
 **Military service age and obligation**<br>
 17 or 18 for voluntary military service for men and women; selective compulsory service (there are usually enough volunteers to make compulsory service unnecessary); service obligation is a minimum of 12 months for Army and 22 months for Navy and Air Force (2024)<br>
-<strong>note:</strong> as of 2021, women comprised approximately 18% of the armed forces<br>
+<strong>note:</strong> as of 2024, women comprised approximately 20% of the armed forces<br>
 
 **Military - note**<br>
 the Chilean military's primary responsibility is territorial defense and ensuring the country’s sovereignty; it also assists with disaster and humanitarian relief and some internal security duties such as border security or maintaining public order if required; a key focus in recent years has been assisting with securing the border area with Bolivia and Peru; it trains regularly and participates in bilateral and multinational training exercises, as well as international peacekeeping operations <br><br>Chile and Argentina have a joint peacekeeping force known as the Combined Southern Cross Peacekeeping Force (FPC), designed to be made available to the UN; the FPC is made up of air, ground, and naval components, as well as a combined logistics support unit<br><br>the Chilean Army was founded in 1810, but traces its origins back to the Army of the Kingdom of Chile, which was established by the Spanish Crown in the early 1600s; Chile's military aviation was inaugurated in 1913 with the creation of a military aviation school; the Navy traces its origins to 1817; it was first led by a British officer and the first ships were largely crewed by American, British, and Irish sailors; by the 1880s, the Chilean Navy was one of the most powerful in the Americas, and included the world’s first protected cruiser (a ship with an armored deck to protect vital machine spaces) (2024)<br>

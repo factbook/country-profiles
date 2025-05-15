@@ -72,7 +72,7 @@ population concentrated in and around Tel-Aviv, as well as around the Sea of Gal
 sandstorms may occur during spring and summer; droughts; periodic earthquakes<br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> Lake Tiberias (Sea of Galilee) is an important freshwater source; the Dead Sea is the second saltiest body of water in the world (after Lake Assal in Djibouti)<br><br><strong>note 2: </strong>the Malham Cave in Mount Sodom is the world's longest salt cave at 10 km (6 mi); its survey is not complete, and its length will undoubtedly increase; Mount Sodom is actually a hill some 220 m (722 ft) high that is 80% salt (multiple salt layers covered by a veneer of rock)<br>
+<strong>note 1:</strong> Lake Tiberias (Sea of Galilee) is an important freshwater source; the Dead Sea is the second saltiest body of water in the world (after Lake Assal in Djibouti)<br><br><strong>note 2: </strong>the Malham Cave in Mount Sodom is the world's longest salt cave at 10 km (6 mi); Mount Sodom is a hill about 220 m (722 ft) high that is 80% salt, with multiple salt layers covered by a veneer of rock<br>
 
 ## People and Society
 
@@ -102,10 +102,10 @@ _15-64 years_: 60.3% (male 2,885,485/female 2,781,777)<br>
 _65 years and over_: 12.3% (2024 est.) (male 525,161/female 628,588)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 66.9<br>
-_youth dependency ratio_: 47<br>
-_elderly dependency ratio_: 19.9<br>
-_potential support ratio_: 5 (2021 est.)<br>
+_total dependency ratio_: 65.9 (2024 est.)<br>
+_youth dependency ratio_: 45.6 (2024 est.)<br>
+_elderly dependency ratio_: 20.4 (2024 est.)<br>
+_potential support ratio_: 4.9 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 30.1 years (2024 est.)<br>
@@ -250,12 +250,6 @@ _other_: 64% (2022 est.)<br>
 _urban population_: 92.9% of total population (2023)<br>
 _rate of urbanization_: 1.51% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 19.47 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 65.17 megatons (2016 est.)<br>
@@ -291,11 +285,12 @@ _etymology_: named after the ancient Kingdom of Israel; according to Biblical tr
 parliamentary democracy<br>
 
 **Capital**<br>
-_name_: Jerusalem; note - the US recognized Jerusalem as Israel&rsquo;s capital in December 2017 without taking a position on the specific boundaries of Israeli sovereignty<br>
+_name_: Jerusalem<br>
 _geographic coordinates_: 31 46 N, 35 14 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, Friday before the last Sunday in March; ends the last Sunday in October<br>
-_etymology_: Jerusalem's settlement may date back to 2800 B.C.; it is named Urushalim in Egyptian texts of the 14th century B.C.; <em>uru-shalim</em> likely means "foundation of [by] the god Shalim", and derives from Hebrew/Semitic <em>yry</em>, "to found or lay a cornerstone", and <em>Shalim</em>, the Canaanite god of dusk and the nether world; Shalim was associated with sunset and peace and the name is based on the same S-L-M root from which Semitic words for "peace" are derived (Salam or Shalom in modern Arabic and Hebrew); this confluence has thus led to naming interpretations such as "The City of Peace" or "The Abode of Peace"<br>
+_etymology_: the meaning of the ancient name is unclear; the city is called Ursalim or Urusalimmi in Egyptian texts from the 14th century B.C., which may come from the Western Semitic verb <em>yaru</em>, meaning "to establish,"<em> </em>and the name Shalim, the Canaanite god of dusk; another theory says the root letters s-l-m in the name refer to <em>shalom</em>, meaning "peace" <br>
+<strong>note: </strong>the US recognized Jerusalem as Israel’s capital in 2017, without taking a position on the specific boundaries of Israeli sovereignty<br>
 
 **Administrative divisions**<br>
 6 districts (mehozot, singular - mehoz); Central, Haifa, Jerusalem, Northern, Southern, Tel Aviv<br>
@@ -307,7 +302,7 @@ _etymology_: Jerusalem's settlement may date back to 2800 B.C.; it is named Urus
 Independence Day, 14 May (1948); note - Israel declared independence on 14 May 1948, but the Jewish calendar is lunar and the holiday may occur in April or May<br>
 
 **Legal system**<br>
-mixed legal system of English common law, British Mandate regulations, and Jewish, Christian, and Muslim religious laws<br>
+mixed system of English common law, British Mandate regulations, and Jewish, Christian, and Muslim religious laws<br>
 
 **Constitution**<br>
 _history_: no formal constitution; some functions of a constitution are filled by the Declaration of Establishment (1948), the Basic Laws, and the Law of Return (as amended)<br>
@@ -419,9 +414,9 @@ $513.611 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.23% (2023 est.)<br>
-4.39% (2022 est.)<br>
-1.51% (2021 est.)<br>
+3.1% (2024 est.)<br>
+4.2% (2023 est.)<br>
+4.4% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -457,19 +452,19 @@ high-technology products (including aviation, communications, computer-aided des
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.574 million (2023 est.)<br>
+4.671 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.39% (2023 est.)<br>
+3.2% (2024 est.)<br>
+3.6% (2023 est.)<br>
 3.7% (2022 est.)<br>
-4.81% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 6% (2023 est.)<br>
-_male_: 6.1% (2023 est.)<br>
-_female_: 5.9% (2023 est.)<br>
+_total_: 6.1% (2024 est.)<br>
+_male_: 6.2% (2024 est.)<br>
+_female_: 6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -504,19 +499,19 @@ _expenditures_: $184.823 billion (2022 est.)<br>
 72.6% of GDP (2020 est.)<br>
 
 **Taxes and other revenues**<br>
-25.01% (of GDP) (2022 est.)<br>
+22.1% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$24.545 billion (2023 est.)<br>
-$20.328 billion (2022 est.)<br>
-$19.095 billion (2021 est.)<br>
+$16.713 billion (2024 est.)<br>
+$18.604 billion (2023 est.)<br>
+$17.104 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$156.331 billion (2023 est.)<br>
-$166.227 billion (2022 est.)<br>
-$143.505 billion (2021 est.)<br>
+$153.248 billion (2024 est.)<br>
+$154.638 billion (2023 est.)<br>
+$164.407 billion (2022 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -528,9 +523,9 @@ integrated circuits, diamonds, broadcasting equipment, medical instruments, refi
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$137.487 billion (2023 est.)<br>
-$150.804 billion (2022 est.)<br>
-$125.948 billion (2021 est.)<br>
+$140.438 billion (2024 est.)<br>
+$140.432 billion (2023 est.)<br>
+$153.388 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -542,18 +537,18 @@ cars, diamonds, crude petroleum, broadcasting equipment, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$214.544 billion (2024 est.)<br>
 $204.661 billion (2023 est.)<br>
 $194.231 billion (2022 est.)<br>
-$212.934 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: new Israeli shekels (ILS) per US dollar -<br>
+3.7 (2024 est.)<br>
 3.667 (2023 est.)<br>
 3.36 (2022 est.)<br>
 3.23 (2021 est.)<br>
 3.442 (2020 est.)<br>
-3.565 (2019 est.)<br>
 
 ## Energy
 
@@ -614,7 +609,7 @@ _domestic_: fixed-line nearly 39 per 100 and nearly 140 per 100 for mobile-cellu
 _international_: country code - 972; landing points for the MedNautilus Submarine System, Tameres North, Jonah and Lev Submarine System, submarine cables that provide links to Europe, Cyprus, and parts of the Middle East; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean) (2019)<br>
 
 **Broadcast media**<br>
-the Israel Broadcasting Corporation (est 2015) broadcasts on&nbsp;3 channels,&nbsp;two in Hebrew and the other in Arabic; multi-channel satellite and cable TV packages provide access to foreign channels; the Israeli Broadcasting Corporation broadcasts on 8 radio networks with multiple repeaters and Israel Defense Forces Radio broadcasts over multiple stations; about 15 privately owned radio stations; overall more than 100 stations and repeater stations (2019)<br>
+the Israel Broadcasting Corporation (IBC) has 3 channels, two in Hebrew and one in Arabic; multi-channel satellite and cable TV packages provide access to foreign channels; IBC broadcasts on 8 radio networks with multiple repeaters, and Israel Defense Forces Radio broadcasts over multiple stations; about 15 privately owned radio stations (2019)<br>
 
 **Internet country code**<br>
 .il<br>
@@ -628,12 +623,6 @@ _subscriptions per 100 inhabitants_: 30 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 6 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 64<br>
-_annual passenger traffic on registered air carriers_: 7,404,373 (2018)<br>
-_annual freight traffic on registered air carriers_: 994.54 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 4X<br>
 
@@ -643,16 +632,9 @@ _annual freight traffic on registered air carriers_: 994.54 million (2018) mt-km
 **Heliports**<br>
 13 (2025)<br>
 
-**Pipelines**<br>
-763 km gas, 442 km oil, 261 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 1,497 km (2021) (2019)<br>
 _standard gauge_: 1,497 km (2021) 1.435-m gauge<br>
-
-**Roadways**<br>
-_total_: 20,391 km<br>
-_paved_: 20,391 km (2021) (includes 449 km of expressways)<br>
 
 **Merchant marine**<br>
 _total_: 41 (2023)<br>
@@ -670,8 +652,7 @@ _key ports_: Ashdod, Ashqelon, Elat, Hadera, Haifa<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Israel Defense Forces (IDF): Ground Forces, Israel Naval Force (IN, includes commandos), Israel Air Force (IAF, includes air defense) (2024)<br>
-<strong>note 1:</strong> the national police, including the border police and the immigration police, are under the authority of the Ministry of Public Security<br><br><strong>note 2:</strong> the Israeli Security Agency (ISA) is charged with combating terrorism and espionage in Israel and the West Bank and Gaza Strip; it is under the authority of the Prime Minister; ISA forces operating in the West Bank fall under the IDF for operations and operational debriefing<br>
+Israel Defense Forces (IDF): Ground Forces, Israel Naval Force (IN, includes commandos), Israel Air Force (IAF, includes air defense)<br><br>Ministry of National Security: Israeli Police (2025)<br>
 
 **Military expenditures**<br>
 4.5% of GDP (2023 est.)<br>
@@ -681,7 +662,7 @@ Israel Defense Forces (IDF): Ground Forces, Israel Naval Force (IN, includes com
 5.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 170,000 active-duty personnel (130,000 Ground Forces; 10,000 Naval; 30,000 Air Force) (2023)<br>
+approximately 170,000 active-duty personnel (130,000 Ground Forces; 10,000 Naval; 30,000 Air Force); more than 400,000 reserves (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the majority of the IDF's inventory is comprised of weapons that are domestically produced or imported from Europe and the US; the US has been the leading supplier of arms in recent years; Israel has a broad defense industrial base that can develop, produce, support, and sustain a wide variety of weapons systems for both domestic use and export, particularly armored vehicles, unmanned aerial systems, air defense, and guided missiles (2024)<br>

@@ -106,10 +106,10 @@ _15-64 years_: 66.9% (male 1,023,515/female 1,055,388)<br>
 _65 years and over_: 15.1% (2024 est.) (male 215,252/female 253,597)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 48.2<br>
-_youth dependency ratio_: 24.1<br>
-_elderly dependency ratio_: 24.1<br>
-_potential support ratio_: 4.2 (2021 est.)<br>
+_total dependency ratio_: 47.8 (2024 est.)<br>
+_youth dependency ratio_: 24.3 (2024 est.)<br>
+_elderly dependency ratio_: 23.5 (2024 est.)<br>
+_potential support ratio_: 4.3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 36.3 years (2024 est.)<br>
@@ -238,7 +238,7 @@ _female_: 15 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation; soil erosion; water pollution from industrial and domestic effluents; air pollution from industrial and power plants; loss of biodiversity due to lack of resources for sound environmental management<br>
+deforestation; soil erosion; water pollution from industrial and domestic effluents; air pollution from industrial and power plants; loss of biodiversity<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulphur 85, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
@@ -258,12 +258,6 @@ _other_: 29.8% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 64.6% of total population (2023)<br>
 _rate of urbanization_: 1.29% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.18% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.03% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 16.28 micrograms per cubic meter (2019 est.)<br>
@@ -426,9 +420,9 @@ $23.547 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.76% (2023 est.)<br>
-6.73% (2022 est.)<br>
-2.04% (2021 est.)<br>
+2.2% (2024 est.)<br>
+4.8% (2023 est.)<br>
+6.7% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -463,19 +457,19 @@ food; footwear, apparel and clothing; lumber, oil, cement, chemicals, mining, ba
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.371 million (2023 est.)<br>
+1.375 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-11.58% (2023 est.)<br>
-11.59% (2022 est.)<br>
-12.47% (2021 est.)<br>
+10.2% (2024 est.)<br>
+10.1% (2023 est.)<br>
+10.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 28.2% (2023 est.)<br>
-_male_: 29.1% (2023 est.)<br>
-_female_: 27% (2023 est.)<br>
+_total_: 25.1% (2024 est.)<br>
+_male_: 23.9% (2024 est.)<br>
+_female_: 26.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -503,11 +497,11 @@ _expenditures_: $4.4 billion (2021 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-81.92% of GDP (2021 est.)<br>
+81.9% of GDP (2021 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-18.1% (of GDP) (2021 est.)<br>
+17.8% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -551,16 +545,16 @@ $5.635 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$5.6 billion (2023 est.)<br>
+$5.363 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: leke (ALL) per US dollar -<br>
+93.123 (2024 est.)<br>
 100.645 (2023 est.)<br>
 113.042 (2022 est.)<br>
 103.52 (2021 est.)<br>
 108.65 (2020 est.)<br>
-109.851 (2019 est.)<br>
 
 ## Energy
 
@@ -615,12 +609,12 @@ _total subscriptions_: 2.61 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 98 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Albania&rsquo;s small telecom market has experienced some significant changes in recent years;&nbsp; upgrades were made to the fixed-line infrastructure to support broadband services; fixed-line telephony use and penetration in Albania is declining steadily as subscribers migrate to mobile solutions; the mobile sector is well provided with LTE networks, while operators have invested in 5G; some of these efforts have been made in conjunction with neighboring Kosovo, with the intention of a seamless 5G corridor along the highway connecting the two countries; the country has long sought accession to the European Union (EU) which has benefited its telecoms sector through closer scrutiny of its regulatory regime and through the injection of funding to help modernize infrastructure (2021)<br>
+_general assessment_: Albania&rsquo;s small telecom market has made upgrades to the fixed-line infrastructure to support broadband services, but fixed-line telephony use and penetration in Albania is declining steadily as subscribers migrate to mobile solutions; the mobile sector is well provided with LTE networks, while operators have invested in 5G; some of these efforts have been made in conjunction with Kosovo, with the intention of a seamless 5G corridor along the highway connecting the two countries; Albania has long sought to join the EU, which has benefited its telecoms sector through closer scrutiny of its regulatory regime and through the injection of funding to help modernize infrastructure (2021)<br>
 _domestic_: fixed-line approximately 7 per 100, teledensity continues to decline due to heavy use of mobile-cellular telephone services; mobile-cellular telephone use is widespread and generally effective, 92 per 100 for mobile-cellular (2021)<br>
 _international_: country code - 355; submarine cables&nbsp;for the Adria 1 and Italy-Albania provide connectivity to Italy, Croatia, and Greece; a combination submarine cable and land fiber-optic system, provides additional connectivity to Bulgaria, Macedonia, and Turkey; international traffic carried by fiber-optic cable and, when necessary, by microwave radio relay from the Tirana exchange to Italy and Greece (2019)<br>
 
 **Broadcast media**<br>
-Albania has more than 65 TV stations, including several that broadcast nationally; Albanian TV broadcasts are also available to Albanian-speaking populations in neighboring countries; many viewers have access to Italian and Greek TV broadcasts via terrestrial reception; Albania's TV stations have begun a government-mandated conversion from analog to digital broadcast; the government has pledged to provide analog-to-digital converters to low-income families affected by this decision; cable TV service is available; 2 public radio networks and roughly 78 private radio stations; several international broadcasters are available (2024)<br>
+over 65 TV stations, including several that broadcast nationally and are sometimes available to neighboring countries; many viewers have access to Italian and Greek TV via terrestrial reception; TV stations have begun a government-mandated conversion from analog to digital broadcast; cable TV service is available; 2 public radio networks and roughly 78 private radio stations; several international broadcasters are available (2024)<br>
 
 **Internet country code**<br>
 .al<br>
@@ -634,11 +628,6 @@ _subscriptions per 100 inhabitants_: 22 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 5<br>
-_annual passenger traffic on registered air carriers_: 303,137 (2018)<br>
-
 **Civil aircraft registration country code prefix**<br>
 ZA<br>
 
@@ -648,18 +637,9 @@ ZA<br>
 **Heliports**<br>
 9 (2025)<br>
 
-**Pipelines**<br>
-498 km gas (a majority of the network is in disrepair and parts of it are missing), 249 km oil (2015)<br>
-
 **Railways**<br>
 _total_: 424 km (2017)<br>
 2021-All the trains in the country suspended<br>
-
-**Roadways**<br>
-_total_: 3,581 km (2022)<br>
-
-**Waterways**<br>
-41 km (2011) (on the Bojana River)<br>
 
 **Merchant marine**<br>
 _total_: 69 (2023)<br>

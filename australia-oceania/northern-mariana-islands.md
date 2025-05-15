@@ -96,10 +96,10 @@ _15-64 years_: 67.7% (male 18,206/female 16,377)<br>
 _65 years and over_: 10.2% (2024 est.) (male 2,772/female 2,466)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 46<br>
-_youth dependency ratio_: 31.7<br>
-_elderly dependency ratio_: 14.3<br>
-_potential support ratio_: 7 (2021)<br>
+_total dependency ratio_: 47.8 (2024 est.)<br>
+_youth dependency ratio_: 32.7 (2024 est.)<br>
+_elderly dependency ratio_: 15.1 (2024 est.)<br>
+_potential support ratio_: 6.6 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 32.4 years (2024 est.)<br>
@@ -173,9 +173,6 @@ _unimproved: total_: total: 2.1% of population (2020 est.)<br>
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
-**Education expenditures**<br>
-NA<br>
-
 **Literacy**<br>
 _total population_: NA<br>
 _male_: NA<br>
@@ -184,7 +181,7 @@ _female_: NA<br>
 ## Environment
 
 **Environment - current issues**<br>
-contamination of groundwater on Saipan may contribute to disease; clean-up of landfill; protection of endangered species conflicts with development<br>
+contamination of groundwater on Saipan; clean-up of landfill; protection of endangered species<br>
 
 **Climate**<br>
 tropical marine; moderated by northeast trade winds, little seasonal temperature variation; dry season December to June, rainy season July to October<br>
@@ -200,9 +197,6 @@ _other_: 45.9% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 92.1% of total population (2023)<br>
 _rate of urbanization_: 0.36% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 32,761 tons (2013 est.)<br>
@@ -222,13 +216,13 @@ _etymology_: Spain named the islands in 1667 in honor of the Spanish Queen, MARI
 a commonwealth in political union with and under the sovereignty of the US; republican form of government with separate executive, legislative, and judicial branches<br>
 
 **Dependency status**<br>
-commonwealth in political union with and under the sovereignty of the US; federal funds to the Commonwealth administered by the US Department of the Interior, Office of Insular Affairs, Washington, DC<br>
+commonwealth in political union with and under the sovereignty of the US; federal funds administered by the US Department of the Interior, Office of Insular Affairs<br>
 
 **Capital**<br>
 _name_: Saipan<br>
 _geographic coordinates_: 15 12 N, 145 45 E<br>
 _time difference_: UTC+10 (15 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the entire island of Saipan is organized as a single municipality and serves as the capital; according to legend, when the first native voyagers arrived in their outrigger canoes they found an uninhabited island; to them it was like an empty voyage, so they named the island <em>saay</em> meaning "a voyage," and <em>peel</em> meaning "empty"; over time <em>Saaypeel</em> - "island of the empty voyage" - became Saipan<br>
+_etymology_: the origin of the name is unclear; it probably comes from a local word meaning "deserted" or "uninhabited," but stories vary on how it came to be used<br>
 
 **Administrative divisions**<br>
 none (commonwealth in political union with the US); there are no first-order administrative divisions as defined by the US Government, but there are 4 municipalities at the second order: Northern Islands, Rota, Saipan, Tinian<br>
@@ -253,7 +247,7 @@ see United States<br>
 18 years of age; universal; note - indigenous inhabitants are US citizens but do not vote in US presidential elections<br>
 
 **Executive branch**<br>
-_chief of state_: President Joseph R. BIDEN Jr. (since 20 January 2021)<br>
+_chief of state_: President Donald J. TRUMP (since 20 January 2025)<br>
 _head of government_: Governor Arnold PALACIOS (since 9 January 2023)<br>
 _cabinet_: Cabinet appointed by the governor with the advice and consent of the Senate<br>
 _elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of the Northern Mariana Islands do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican party presidential primary elections; governor directly elected by absolute majority vote in 2 rounds if needed; election last held on 8 November 2022 with a runoff held on 25 November 2022 (next to be held in 2026)<br>
@@ -352,9 +346,9 @@ _expenditures_: $344 million (2015 est.)<br>
 31.4% (of GDP) (2016 est.)<br>
 
 **Exports**<br>
+$244 million (2022 est.)<br>
+$55 million (2021 est.)<br>
 $128 million (2020 est.)<br>
-$500 million (2019 est.)<br>
-$660 million (2018 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -366,9 +360,9 @@ scrap iron, refined petroleum, scrap copper, hydraulic engines, integrated circu
 top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$536 million (2020 est.)<br>
-$735 million (2019 est.)<br>
-$754 million (2018 est.)<br>
+$777 million (2022 est.)<br>
+$666 million (2021 est.)<br>
+$556 million (2020 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -402,7 +396,7 @@ _domestic_: fixed-line teledensity is 40 per 100 persons; mobile cellular subscr
 _international_: country code - 1-670; landing points for the Atisa and Mariana-Guam submarine cables linking Mariana islands to Guam; satellite earth stations - 2 Intelsat (Pacific Ocean) (2019)<br>
 
 **Broadcast media**<br>
-1 TV broadcast station on Saipan; multi-channel cable TV services are available on Saipan; 9 licensed radio broadcast stations (2009)<br>
+1 TV station on Saipan; multi-channel cable TV services are available on Saipan; 9 licensed radio stations (2009)<br>
 
 **Internet country code**<br>
 .mp<br>
@@ -417,9 +411,6 @@ _percent of population_: 25.1% (2021 est.)<br>
 
 **Heliports**<br>
 7 (2025)<br>
-
-**Roadways**<br>
-_total_: 536 km (2008)<br>
 
 **Ports**<br>
 _total ports_: 3 (2024)<br>

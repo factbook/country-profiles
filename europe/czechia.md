@@ -74,7 +74,7 @@ a fairly even distribution throughout most of the country, but the northern and 
 flooding<br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> landlocked; strategically located astride some of oldest and most significant land routes in Europe; Moravian Gate is a traditional military corridor between the North European Plain and the Danube in central Europe<br><br><strong>note 2:</strong> the Hranice Abyss in Czechia is the world's deepest surveyed underwater cave at 404 m (1,325 ft); its survey is not complete, and it could end up being some 800-1,200 m deep<br>
+<strong>note 1:</strong> landlocked; strategically located on some of oldest and most significant land routes in Europe; Moravian Gate is a traditional military corridor between the North European Plain and the Danube in central Europe<br><br><strong>note 2:</strong> the Hranice Abyss in Czechia is the world's deepest surveyed freshwater cave at 519 m (1,703 ft); its survey is not complete, and it may be up to 800-1,200 m (2,625-3,937 ft) deep<br>
 
 ## People and Society
 
@@ -105,10 +105,10 @@ _15-64 years_: 63.8% (male 3,542,298/female 3,373,127)<br>
 _65 years and over_: 20.5% (2024 est.) (male 922,136/female 1,302,130)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 57.4<br>
-_youth dependency ratio_: 25.2<br>
-_elderly dependency ratio_: 32.2<br>
-_potential support ratio_: 3.1 (2021 est.)<br>
+_total dependency ratio_: 56.7 (2024 est.)<br>
+_youth dependency ratio_: 24.6 (2024 est.)<br>
+_elderly dependency ratio_: 32.2 (2024 est.)<br>
+_potential support ratio_: 3.1 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 44.2 years (2024 est.)<br>
@@ -232,7 +232,7 @@ _female_: 17 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air and water pollution in areas of northwest Bohemia and in northern Moravia around Ostrava present health risks; acid rain damaging forests; land pollution caused by industry, mining, and agriculture<br>
+air and water pollution (including acid rain) in areas of northwest Bohemia and in northern Moravia around Ostrava; pollution from industry, mining, and agriculture<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -252,12 +252,6 @@ _other_: 19.5% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 74.6% of total population (2023)<br>
 _rate of urbanization_: 0.2% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.17% of GDP (2017 est.)<br>
-
-**Revenue from coal**<br>
-0.14% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 14.34 micrograms per cubic meter (2019 est.)<br>
@@ -316,7 +310,7 @@ _etymology_: the name may derive from the old Slavic word "praga" or "prah," mea
 Czechoslovak Founding Day, 28 October (1918)<br>
 
 **Legal system**<br>
-new civil code enacted in 2014, replacing civil code of 1964 - based on former Austro-Hungarian civil codes and socialist theory - and reintroducing former Czech legal terminology<br>
+new civil code enacted in 2014, replacing civil code of 1964 based on former Austro-Hungarian civil codes and socialist theory&nbsp;<br>
 
 **Constitution**<br>
 _history_: previous 1960; latest ratified 16 December 1992, effective 1 January 1993<br>
@@ -438,9 +432,9 @@ $343.208 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-10.66% (2023 est.)<br>
+2.4% (2024 est.)<br>
+10.7% (2023 est.)<br>
 15.1% (2022 est.)<br>
-3.84% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -476,19 +470,19 @@ motor vehicles, metallurgy, machinery and equipment, glass, armaments<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.505 million (2023 est.)<br>
+5.474 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.59% (2023 est.)<br>
-2.22% (2022 est.)<br>
-2.8% (2021 est.)<br>
+2.5% (2024 est.)<br>
+2.6% (2023 est.)<br>
+2.2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.3% (2023 est.)<br>
-_male_: 7.8% (2023 est.)<br>
-_female_: 9% (2023 est.)<br>
+_total_: 8.4% (2024 est.)<br>
+_male_: 8.2% (2024 est.)<br>
+_female_: 8.6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -523,7 +517,7 @@ _expenditures_: $103.959 billion (2022 est.)<br>
 34.7% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-12.64% (of GDP) (2022 est.)<br>
+12.6% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -561,18 +555,18 @@ broadcasting equipment, vehicle parts/accessories, cars, plastic products, compu
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$141.988 billion (2024 est.)<br>
 $148.379 billion (2023 est.)<br>
 $139.981 billion (2022 est.)<br>
-$173.618 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: koruny (CZK) per US dollar -<br>
+23.217 (2024 est.)<br>
 22.198 (2023 est.)<br>
 23.357 (2022 est.)<br>
 21.678 (2021 est.)<br>
 23.21 (2020 est.)<br>
-22.932 (2019 est.)<br>
 
 ## Energy
 
@@ -642,7 +636,7 @@ _domestic_: roughly 12 fixed-telephone subscriptions per 100 inhabitants and mob
 _international_: country code - 420; satellite earth stations - 6 (2 Intersputnik - Atlantic and Indian Ocean regions, 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 Globalstar) (2019)<br>
 
 **Broadcast media**<br>
-22 TV stations operate nationally, with 17 of them in private hands; publicly operated Czech Television has 5 national channels; throughout the country, there are some 350 TV channels in operation, many through cable, satellite, and IPTV subscription services; 63 radio broadcasters are registered, operating over 80 radio stations, including 7 multiregional radio stations or networks; publicly operated broadcaster Czech Radio operates 4 national, 14 regional, and 4 Internet stations; both Czech Radio and Czech Television are partially financed through a license fee (2019)<br>
+22 national TV stations, with 17 privately owned; publicly operated Czech Television has 5 national channels; over 350 TV channels, many through cable, satellite, and IPTV subscription services; 63 radio broadcasters operate over 80 radio stations, including 7 multiregional radio stations or networks; publicly owned broadcaster Czech Radio operates 4 national, 14 regional, and 4 Internet stations; both Czech Radio and Czech Television are partly financed through a license fee (2019)<br>
 
 **Internet country code**<br>
 .cz<br>
@@ -656,12 +650,6 @@ _subscriptions per 100 inhabitants_: 38 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 4 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 48<br>
-_annual passenger traffic on registered air carriers_: 5,727,200 (2018)<br>
-_annual freight traffic on registered air carriers_: 25.23 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 OK<br>
 
@@ -671,17 +659,8 @@ OK<br>
 **Heliports**<br>
 107 (2025)<br>
 
-**Pipelines**<br>
-7,160 km gas, 675 km oil, 94 km refined products (2016)<br>
-
 **Railways**<br>
 _total_: 9,548 km (2020) 3,242 km electrified<br>
-
-**Roadways**<br>
-_total_: 129,418 km (2022)<br>
-
-**Waterways**<br>
-664 km (2010) (principally on Elbe, Vltava, Oder, and other navigable rivers, lakes, and canals)<br>
 
 ## Military and Security
 

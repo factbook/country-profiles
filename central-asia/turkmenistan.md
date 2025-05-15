@@ -106,10 +106,10 @@ _15-64 years_: 68.6% (male 1,956,740/female 1,984,333)<br>
 _65 years and over_: 6.9% (2024 est.) (male 174,346/female 223,981)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 56.6<br>
-_youth dependency ratio_: 48.9<br>
-_elderly dependency ratio_: 7.7<br>
-_potential support ratio_: 13 (2021 est.)<br>
+_total dependency ratio_: 45.8 (2024 est.)<br>
+_youth dependency ratio_: 35.6 (2024 est.)<br>
+_elderly dependency ratio_: 10.1 (2024 est.)<br>
+_potential support ratio_: 9.9 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 31.2 years (2024 est.)<br>
@@ -237,7 +237,7 @@ _female_: 13 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-contamination of soil and groundwater with agricultural chemicals, pesticides; salination, water logging of soil due to poor irrigation methods; Caspian Sea pollution; diversion of a large share of the flow of the Amu Darya into irrigation contributes to that river's inability to replenish the Aral Sea; soil erosion; desertification<br>
+soil and groundwater pollution from agricultural chemicals and pesticides; salination, waterlogging of soil due to poor irrigation methods; Caspian Sea pollution; river diversion for irrigation; soil erosion; desertification<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -257,12 +257,6 @@ _other_: 7% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 54% of total population (2023)<br>
 _rate of urbanization_: 2.23% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 26.41 micrograms per cubic meter (2019 est.)<br>
@@ -297,7 +291,7 @@ _conventional short form_: Turkmenistan<br>
 _local long form_: none<br>
 _local short form_: Turkmenistan<br>
 _former_: Turkmen Soviet Socialist Republic<br>
-_etymology_: the suffix "-stan" means "place of" or "country," so Turkmenistan literally means the "Land of the Turkmen [people]"<br>
+_etymology_: the suffix -<em>stan </em>means "land," so the country name means the "Land of the Turkmen [people];" the people's name means "Turk-like," from the Persian words <em>tork </em>and <em>mandan</em>, referring to their formerly nomadic lifestyle that differed from the settled Turks of Turkey<br>
 
 **Government type**<br>
 presidential republic; authoritarian<br>
@@ -306,7 +300,7 @@ presidential republic; authoritarian<br>
 _name_: Ashgabat (Ashkhabad)<br>
 _geographic coordinates_: 37 57 N, 58 23 E<br>
 _time difference_: UTC+5 (10 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: derived from the Persian words <em>esh</em>q meaning "love" and <em>abad</em> meaning "inhabited place" or "city," and so loosely translates as "the city of love"<br>
+_etymology_: derived from the Turkmen words <em>ushq</em>, meaning "love," and <em>abad</em>, meaning "inhabited place" or "town;"  the city was originally a military outpost built in 1881 that took its name from an ancient settlement on the site<br>
 
 **Administrative divisions**<br>
 5 provinces (velayatlar, singular - velayat) and 1 independent city*: Ahal Velayat (Arkadag), Ashgabat*, Balkan Velayat (Balkanabat), Dashoguz Velayat, Lebap Velayat (Turkmenabat), Mary Velayat<br>
@@ -457,19 +451,19 @@ natural gas, oil, petroleum products, textiles, food processing<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.419 million (2023 est.)<br>
+2.445 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.12% (2023 est.)<br>
-4.12% (2022 est.)<br>
-4.45% (2021 est.)<br>
+4.3% (2024 est.)<br>
+4.1% (2023 est.)<br>
+4.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.1% (2023 est.)<br>
-_male_: 13.9% (2023 est.)<br>
-_female_: 5.7% (2023 est.)<br>
+_total_: 9.6% (2024 est.)<br>
+_male_: 14.7% (2024 est.)<br>
+_female_: 6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
@@ -497,9 +491,9 @@ _expenditures_: $6.134 billion (2019 est.)<br>
 -$7.207 billion (2016 est.)<br>
 
 **Exports**<br>
+$13.111 billion (2023 est.)<br>
+$14.67 billion (2022 est.)<br>
 $10.282 billion (2021 est.)<br>
-$8.164 billion (2020 est.)<br>
-$11.188 billion (2019 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -511,9 +505,9 @@ natural gas, refined petroleum, fertilizers, crude petroleum, electricity (2023)
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$7.563 billion (2023 est.)<br>
+$7.362 billion (2022 est.)<br>
 $6.25 billion (2021 est.)<br>
-$8.301 billion (2020 est.)<br>
-$8.844 billion (2019 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -529,7 +523,7 @@ $24.91 billion (2017 est.)<br>
 $25.05 billion (2016 est.)<br>
 
 **Debt - external**<br>
-$3.795 billion (2023 est.)<br>
+$3.696 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -593,7 +587,7 @@ _domestic_: fixed-line is 13 per 100 and mobile-cellular teledensity is 99 per 1
 _international_: country code - 993; linked by fiber-optic cable and microwave radio relay to other CIS republics and to other countries by leased connections to the Moscow international gateway switch; an exchange in Ashgabat switches international traffic through Turkey via Intelsat; satellite earth stations - 1 Orbita and 1 Intelsat (2018)<br>
 
 **Broadcast media**<br>
-broadcast media is government controlled and censored; 7 state-owned TV and 4 state-owned radio networks; satellite dishes and programming provide an alternative to the state-run media; officials sometimes limit access to satellite TV by removing satellite dishes<br>
+state-controlled broadcast media; 7 state-owned TV and 4 state-owned radio networks; satellite dishes available for other broadcasts; officials sometimes limit access to satellite TV by removing satellite dishes<br>
 
 **Internet country code**<br>
 .tm<br>
@@ -607,12 +601,6 @@ _subscriptions per 100 inhabitants_: 5 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 27<br>
-_annual passenger traffic on registered air carriers_: 2,457,474 (2018)<br>
-_annual freight traffic on registered air carriers_: 16.92 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 EZ<br>
 
@@ -622,20 +610,9 @@ EZ<br>
 **Heliports**<br>
 25 (2025)<br>
 
-**Pipelines**<br>
-7,500 km gas, 1501 km oil (2013)<br>
-
 **Railways**<br>
 _total_: 5,113 km (2017)<br>
 _broad gauge_: 5,113 km (2017) 1.520-m gauge<br>
-
-**Roadways**<br>
-_total_: 58,592 km<br>
-_paved_: 47,577 km<br>
-_unpaved_: 11,015 km (2002)<br>
-
-**Waterways**<br>
-1,300 km (2011) (Amu Darya River and Kara Kum Canal are important inland waterways)<br>
 
 **Merchant marine**<br>
 _total_: 73 (2023)<br>
@@ -644,7 +621,7 @@ _by type_: general cargo 6, oil tanker 8, other 59<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Turkmenistan (aka Turkmen National Army): Land Forces, Navy, Air and Air Defense Forces<br><br>Ministry of Internal Affairs: Internal Troops, national police, Federal/State Border Guard Service (2024)<br>
+Armed Forces of Turkmenistan (aka Turkmen National Army): Ground Forces, Navy, Air and Air Defense Forces<br><br>Ministry of Internal Affairs: Internal Troops, Turkmen (National) Police, Federal/State Border Guard Service (2024)<br>
 
 **Military expenditures**<br>
 1.9% of GDP (2019 est.)<br>

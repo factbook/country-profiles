@@ -96,10 +96,10 @@ _15-64 years_: 61.9% (male 29,035/female 28,044)<br>
 _65 years and over_: 22.1% (2024 est.) (male 9,595/female 10,794)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 58.6<br>
-_youth dependency ratio_: 23.6<br>
-_elderly dependency ratio_: 34.9<br>
-_potential support ratio_: 2.9 (2021)<br>
+_total dependency ratio_: 61.7 (2024 est.)<br>
+_youth dependency ratio_: 25.9 (2024 est.)<br>
+_elderly dependency ratio_: 35.7 (2024 est.)<br>
+_potential support ratio_: 2.8 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 44.9 years (2024 est.)<br>
@@ -201,9 +201,6 @@ _other_: 22.5% (2022 est.)<br>
 _urban population_: 53.5% of total population (2023)<br>
 _rate of urbanization_: 0.97% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-0% of GDP (2017 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 50,551 tons (2011 est.)<br>
 _municipal solid waste recycled annually_: 25,276 tons (2011 est.)<br>
@@ -229,7 +226,7 @@ _name_: Douglas<br>
 _geographic coordinates_: 54 09 N, 4 29 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: name derives from the Dhoo and Glass Rivers, which flow through the valley in which the town is located and which in Manx mean the "dark" and the "light" rivers respectively<br>
+_etymology_: the name comes from the Gaelic name <em>Dubhghlais</em>, or "black stream," referring to a nearby river; a second river was called <em>Fionnghlais</em>, or "white stream;" both river names were later shortened to Dhoo and Glass, respectively, which coincidentally comprised the elements of the town's name<br>
 
 **Administrative divisions**<br>
 none; there are no first-order administrative divisions as defined by the US Government, but there are 24 local authorities each with its own elections<br>
@@ -241,7 +238,7 @@ none (British Crown dependency)<br>
 Tynwald Day, 5 July (1417); date Tynwald Day was first recorded<br>
 
 **Legal system**<br>
-the laws of the UK&nbsp;apply where applicable and include Manx statutes<br>
+UK laws apply, as well as Manx statutes<br>
 
 **Constitution**<br>
 _history_: development of the Isle of Man constitution dates to at least the 14th century<br>
@@ -381,11 +378,11 @@ ships, delivery trucks (2022)<br>
 
 **Exchange rates**<br>
 _Currency_: Manx pounds (IMP) per US dollar -<br>
+0.782 (2024 est.)<br>
 0.805 (2023 est.)<br>
 0.811 (2022 est.)<br>
 0.727 (2021 est.)<br>
 0.78 (2020 est.)<br>
-0.783 (2019 est.)<br>
 
 ## Energy
 
@@ -400,7 +397,7 @@ _domestic_: landline, telefax, mobile cellular telephone system<br>
 _international_: country code - 44; fiber-optic cable, microwave radio relay, satellite earth station, submarine cable<br>
 
 **Broadcast media**<br>
-national public radio broadcasts over 3 FM stations and 1 AM station; 2 commercial broadcasters operating with 1 having multiple FM stations; receives radio and TV services via relays from British TV and radio broadcasters<br>
+national public radio has 3 FM stations and 1 AM station; 2 commercial&nbsp; radio broadcasters; receives radio and TV services via relays from British TV and radio broadcasters<br>
 
 **Internet country code**<br>
 .im<br>
@@ -420,10 +417,6 @@ M<br>
 _total_: 63 km (2008)<br>
 _narrow gauge_: 6 km (2008) 1.076-m gauge (6 km electrified)<br>
 57 0.914-mm gauge (29 km electrified) <strong>note:</strong> primarily summer tourist attractions<br>
-
-**Roadways**<br>
-_total_: 1,107 km (2022)<br>
-_paved_: 1,107 km<br>
 
 **Merchant marine**<br>
 _total_: 269 (2023)<br>

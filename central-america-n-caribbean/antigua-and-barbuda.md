@@ -99,10 +99,10 @@ _15-64 years_: 67.6% (male 32,312/female 37,094)<br>
 _65 years and over_: 10.5% (2024 est.) (male 4,615/female 6,195)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 40.9<br>
-_youth dependency ratio_: 26.5<br>
-_elderly dependency ratio_: 14.4<br>
-_potential support ratio_: 7 (2020 est.)<br>
+_total dependency ratio_: 47.9 (2024 est.)<br>
+_youth dependency ratio_: 32.3 (2024 est.)<br>
+_elderly dependency ratio_: 15.6 (2024 est.)<br>
+_potential support ratio_: 6.4 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 33.9 years (2024 est.)<br>
@@ -210,7 +210,7 @@ _female_: 16 years (2012)<br>
 ## Environment
 
 **Environment - current issues**<br>
-water management - a major concern because of limited natural freshwater resources - is further hampered by the clearing of trees to increase crop production, causing rainfall to run off quickly<br>
+limited natural freshwater resources; water management hampered by tree-clearing to increase crop production, causing rapid rainfall runoff<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
@@ -230,12 +230,6 @@ _other_: 61.4% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 24.3% of total population (2023)<br>
 _rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 8.3 micrograms per cubic meter (2019 est.)<br>
@@ -392,9 +386,9 @@ $2.033 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-5.07% (2023 est.)<br>
-7.53% (2022 est.)<br>
-2.06% (2021 est.)<br>
+5.1% (2023 est.)<br>
+7.5% (2022 est.)<br>
+2.1% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -423,9 +417,6 @@ tourism, construction, light manufacturing (clothing, alcohol, household applian
 3.89% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
-**Unemployment rate**<br>
-11% (2014 est.)<br>
-
 **Remittances**<br>
 1.72% of GDP (2023 est.)<br>
 1.86% of GDP (2022 est.)<br>
@@ -444,13 +435,13 @@ _expenditures_: $266.044 million (2014 est.)<br>
 19.6% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
--$262.098 million (2023 est.)<br>
--$296.147 million (2022 est.)<br>
--$287.548 million (2021 est.)<br>
+-$271.047 million (2023 est.)<br>
+-$291.674 million (2022 est.)<br>
+-$284.882 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$1.217 billion (2023 est.)<br>
+$1.185 billion (2023 est.)<br>
 $1.111 billion (2022 est.)<br>
 $705.697 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -464,9 +455,9 @@ refined petroleum, ships, soybean meal, shellfish, paintings (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$1.3 billion (2023 est.)<br>
-$1.234 billion (2022 est.)<br>
-$872.781 million (2021 est.)<br>
+$1.273 billion (2023 est.)<br>
+$1.227 billion (2022 est.)<br>
+$867.846 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -478,18 +469,18 @@ ships, refined petroleum, cars, plastic products, furniture (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$358.441 million (2024 est.)<br>
 $364.367 million (2023 est.)<br>
 $396.506 million (2022 est.)<br>
-$367.512 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
+2.7 (2024 est.)<br>
 2.7 (2023 est.)<br>
 2.7 (2022 est.)<br>
 2.7 (2021 est.)<br>
 2.7 (2020 est.)<br>
-2.7 (2019 est.)<br>
 
 ## Energy
 
@@ -529,7 +520,7 @@ _total subscriptions_: 184,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 197 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage (2021)<br>
+_general assessment_: declines in subscriber numbers, particularly for prepaid mobile services&nbsp; (the mainstay of short-term visitors), and revenue; governments, regulators, and MNOs are not investing in 5G opportunities; network expansion and enhancements remain concentrated around improving LTE coverage (2021)<br>
 _domestic_: fixed-line teledensity roughly 27 per 100 persons; mobile-cellular teledensity is about 200 per 100 persons (2021)<br>
 _international_: country code - 1-268; landing points for the ECFS and&nbsp;Southern Caribbean Fiber&nbsp;submarine cable systems with links to other islands in the eastern Caribbean; satellite earth stations&nbsp;- 1 Intelsat (Atlantic Ocean) (2019)<br>
 
@@ -548,12 +539,6 @@ _subscriptions per 100 inhabitants_: 11 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 10<br>
-_annual passenger traffic on registered air carriers_: 580,174 (2018)<br>
-_annual freight traffic on registered air carriers_: 290,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 V2<br>
 
@@ -562,11 +547,6 @@ V2<br>
 
 **Heliports**<br>
 2 (2025)<br>
-
-**Roadways**<br>
-_total_: 1,170 km<br>
-_paved_: 386 km<br>
-_unpaved_: 784 km (2011)<br>
 
 **Merchant marine**<br>
 _total_: 614 (2023)<br>
@@ -584,16 +564,16 @@ _key ports_: St. John's<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Antigua and Barbuda Defense Force (ABDF): Antigua and Barbuda Regiment, Air Wing, Coast Guard<br><br>Royal Police Force of Antigua and Barbuda (RPFAB) (2024)<br>
+Antigua and Barbuda Defense Force (ABDF): Antigua and Barbuda Regiment, Air Wing, Coast Guard<br><br>Royal Police Force of Antigua and Barbuda (RPFAB) (2025)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 250 active military personnel (2024)<br>
+approximately 300 active military personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the ABDF's equipment inventory is limited to small arms, light weapons, and soft-skin vehicles; the Coast Guard maintains ex-US patrol vessels and some smaller boats (2024)<br>
 
 **Military service age and obligation**<br>
-18-23 years of age for voluntary military service for both men and women; no conscription (2024)<br>
+18-23 years of age for voluntary military service for both men and women; no conscription (2025)<br>
 
 **Military - note**<br>
 the ABDF’s responsibilities include providing for internal security and support to the police in maintaining law and order, interdicting narcotics smuggling, responding to natural disasters, and monitoring the country’s territorial waters and maritime resources; established in 1981 from colonial forces originally created in 1897, it is one of the world’s smallest militaries<br><br>the country has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Barbados, Dominica, Grenada, Guyana, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2024)<br>

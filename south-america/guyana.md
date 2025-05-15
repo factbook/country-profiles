@@ -73,7 +73,7 @@ population is heavily concentrated in the northeast in and around Georgetown, wi
 flash flood threat during rainy seasons<br>
 
 **Geography - note**<br>
-the third-smallest country in South America after Suriname and Uruguay; substantial portions of its western and eastern territories are claimed by Venezuela and Suriname respectively; contains some of the largest unspoiled rainforests on the continent<br>
+the third-smallest country in South America after Suriname and Uruguay; contains some of the largest unspoiled rainforests on the continent<br>
 
 ## People and Society
 
@@ -101,10 +101,10 @@ _15-64 years_: 68.4% (male 281,669/female 261,261)<br>
 _65 years and over_: 8.1% (2024 est.) (male 28,352/female 36,322)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.6<br>
-_youth dependency ratio_: 44.1<br>
-_elderly dependency ratio_: 9.5<br>
-_potential support ratio_: 10.6 (2021 est.)<br>
+_total dependency ratio_: 46.3 (2024 est.)<br>
+_youth dependency ratio_: 34.3 (2024 est.)<br>
+_elderly dependency ratio_: 11.9 (2024 est.)<br>
+_potential support ratio_: 8.4 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 28.3 years (2024 est.)<br>
@@ -229,7 +229,7 @@ _female_: 12 years (2012)<br>
 ## Environment
 
 **Environment - current issues**<br>
-water pollution from sewage and agricultural and industrial chemicals; deforestation<br>
+water pollution from sewage and agricultural/industrial chemicals; deforestation<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006<br>
@@ -249,12 +249,6 @@ _other_: 1.2% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 27.2% of total population (2023)<br>
 _rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-4.56% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 11.11 micrograms per cubic meter (2019 est.)<br>
@@ -292,7 +286,7 @@ parliamentary republic<br>
 _name_: Georgetown<br>
 _geographic coordinates_: 6 48 N, 58 09 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: when the British took possession of the town from the Dutch in 1812, they renamed it Georgetown in honor of King GEORGE III (1738-1820)<br>
+_etymology_: the British founded the town in 1781 and named it in honor of King GEORGE III (1738-1820)<br>
 
 **Administrative divisions**<br>
 10 regions; Barima-Waini, Cuyuni-Mazaruni, Demerara-Mahaica, East Berbice-Corentyne, Essequibo Islands-West Demerara, Mahaica-Berbice, Pomeroon-Supenaam, Potaro-Siparuni, Upper Demerara-Berbice, Upper Takutu-Upper Essequibo<br>
@@ -409,9 +403,9 @@ $17.16 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-2.82% (2023 est.)<br>
-6.12% (2022 est.)<br>
-5.03% (2021 est.)<br>
+2.9% (2024 est.)<br>
+2.8% (2023 est.)<br>
+6.1% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -439,19 +433,19 @@ bauxite, sugar, rice milling, timber, textiles, gold mining<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-296,000 (2023 est.)<br>
+292,200 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-12.43% (2023 est.)<br>
-12.42% (2022 est.)<br>
-14.93% (2021 est.)<br>
+10.2% (2024 est.)<br>
+12% (2023 est.)<br>
+12% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.9% (2023 est.)<br>
-_male_: 21.5% (2023 est.)<br>
-_female_: 32.4% (2023 est.)<br>
+_total_: 22.3% (2024 est.)<br>
+_male_: 17.4% (2024 est.)<br>
+_female_: 28.1% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
@@ -471,15 +465,15 @@ _expenditures_: $1.467 billion (2019 est.)<br>
 28.1% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
--$254.121 million (2022 est.)<br>
--$2.503 billion (2021 est.)<br>
--$396.533 million (2020 est.)<br>
+$2.352 billion (2023 est.)<br>
+$4.242 billion (2022 est.)<br>
+-$1.36 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$11.536 billion (2022 est.)<br>
-$4.64 billion (2021 est.)<br>
-$2.799 billion (2020 est.)<br>
+$13.739 billion (2023 est.)<br>
+$11.517 billion (2022 est.)<br>
+$4.594 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -491,9 +485,9 @@ crude petroleum, railway cargo containers, gold, ships, rice (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$7.067 billion (2022 est.)<br>
-$6.611 billion (2021 est.)<br>
-$3.756 billion (2020 est.)<br>
+$10.956 billion (2023 est.)<br>
+$7.033 billion (2022 est.)<br>
+$6.588 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -505,22 +499,22 @@ refined petroleum, ships, construction vehicles, excavation machinery, cars (202
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$1.01 billion (2024 est.)<br>
 $895.275 million (2023 est.)<br>
 $917.877 million (2022 est.)<br>
-$790.785 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$1.898 billion (2023 est.)<br>
+$1.805 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Guyanese dollars (GYD) per US dollar -<br>
+208.5 (2024 est.)<br>
 208.5 (2023 est.)<br>
 208.5 (2022 est.)<br>
 208.5 (2021 est.)<br>
 208.5 (2020 est.)<br>
-208.5 (2019 est.)<br>
 
 ## Energy
 
@@ -572,7 +566,7 @@ _domestic_: fixed-line teledensity is about 16 per 100 persons; mobile-cellular 
 _international_: country code - 592; landing point for the SG-SCS submarine cable to Suriname,&nbsp;and the Caribbean;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-government-dominated broadcast media; the National Communications Network (NCN) TV is state-owned; a few private TV stations relay satellite services; the state owns and operates 2 radio stations broadcasting on multiple frequencies capable of reaching the entire country; government limits on licensing of new private radio stations has constrained competition in broadcast media<br>
+government-dominated broadcast media; the National Communications Network (NCN) TV is state-owned; a few private TV stations relay satellite services; the state owns and operates 2 radio stations broadcasting on multiple frequencies; government limits on licensing of new private radio stations has constrained competition&nbsp;<br>
 
 **Internet country code**<br>
 .gy<br>
@@ -591,14 +585,6 @@ _subscriptions per 100 inhabitants_: 13 (2022 est.)<br>
 
 **Airports**<br>
 55 (2025)<br>
-
-**Roadways**<br>
-_total_: 3,995 km<br>
-_paved_: 799 km<br>
-_unpaved_: 3,196 km (2019)<br>
-
-**Waterways**<br>
-330 km (2012) (the Berbice, Demerara, and Essequibo Rivers are navigable by oceangoing vessels for 150 km, 100 km, and 80 km respectively)<br>
 
 **Merchant marine**<br>
 _total_: 80 (2023)<br>
@@ -627,7 +613,7 @@ the Guyana Defense Force (GDF) is a unified force with ground, air, and coast gu
 1.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 3,500 active-duty military personnel (2024)<br>
+approximately 3,500 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military has a limited inventory comprised mostly of older or second-hand platforms from a variety of foreign suppliers, including Brazil, China, the former Soviet Union, the UK, and the US (2024)<br>

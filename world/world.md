@@ -86,7 +86,7 @@ _The Seven Wonders of the Ancient World_: <p>The conquests of Alexander the Grea
 _The New Seven Wonders of the World_: <p>A private initiative to come up with a new list for seven of the world’s wonders sprang up early in the new Millennium. Worldwide balloting – via internet or telephone – took place, covering a list of 200 existing monuments. Over 100 million votes were reportedly cast over a period of several years and the final list was announced on 7-7-2007. Even though the polling was unscientific, the seven “winners” were a worthy compilation of extraordinary Wonders to be found around the world. All seven of the New Wonders are inscribed as UNESCO World Heritage Sites and are frequently cited in the literature. </p> <p>1. <strong>Chichen Itza, Yucatan, Mexico</strong><br>This archeological site includes the impressive remains of a large pre-Columbian Mayan city that flourished from ca. A.D. 600-1100. Among the outstanding structures at the site are the massive Temple of the Warriors complex, an Observatory (El Caracol), the Great Ball Court, and the Sacred Cenote (sinkhole) where offerings were made. The most famous building, however, is the step-pyramid known as the Temple of Kukulcan that dominates the center of the site and serves as the symbol of Chichen Itza. The pyramidal structure is 24 m high; the crowning temple adds another 6 m. Although located in the dense jungles of Yucatan, it remains one of the most visited tourist sites in Mexico.</p> <p>2. <strong>The Colosseum, Rome, Italy</strong><br>The Roman Emperor Vespasian began construction on the Colosseum in A.D. 72, and his son Titus completed it in A.D. 80. Further modifications were made by Domitian (A.D. 81-96). The three emperors make up the Flavian Dynasty, thus providing the structure's alternate name, the Flavian Amphitheater. The massive structure is estimated to have seated, on average, about 65 thousand spectators and was most famously used for gladiatorial contests and public spectacles. Earthquakes and thieves destroyed much of the original structure, but it nonetheless remains an iconic symbol of Rome. The Colosseum is one of the most popular tourist attractions in the World.</p> <p>3. <strong>Christ the Redeemer Statue, Rio de Janeiro, Brazil</strong><br>Built between 1922 and 1931, the 30-meter-tall sculpture is reputed to be the largest Art Deco statue in the World. Its pedestal provides another 8 m in height and the arms stretch out to 28 m. Constructed of reinforced concrete and soapstone, the statue has become the cultural icon not only of Rio, but also of Brazil.</p> <p>4. <strong>Great Wall, China</strong><br>The name refers to a remarkable series of fortification systems that stretched across China's northern historical borders and served as protection against various nomadic peoples. An archeological survey revealed that the Wall and all its associated branches measures 21,196 km. The earliest of these walls date to the 7th century B.C.; certain stretches began to be linked in the 3rd century B.C., and successive dynasties added to or maintained various sections of the walls. The best-known and best-preserved portions of the wall are those built during the Ming Dynasty (1368-1644). Winding through amazingly varied terrain, the Great Wall is acknowledged as one of the most impressive architectural feats in history.</p> <p>5. <strong>Machu Picchu, Cuzco Region, Peru</strong><br>Perhaps the most spectacular archeological site in the Americas, the Inca citadel of Machu Picchu, situated on a 2,430 m Andean mountain ridge, is now thought to have been erected as an estate for the Inca Emperor Pachacuti (r. 1438-1471) and may have also served as a religious sanctuary. Built between about 1450 and 1460, it was abandoned approximately a century later, at the time of the Spanish conquest. Construction was carried out in the classic Inca style of polished, fitted, dry-stone walls. Some 750 people lived at this royal estate, most of them support staff to the nobility. The site is roughly divided into an agricultural sector (with myriad terraces for raising crops) and an urban sector. The latter is composed of an upper town (with temples) and a lower town (with warehouses). Some of the religious monuments include: the Intiwatana (a carved, ritual stone that served as a type of sundial and that is referred to as “The Hitching Post of the Sun”); the Torreon or Temple of the Sun, a small tower that likely served as a type of observatory; and the Intimachay, a sacred cave with a masonry entrance.</p> <p>6. <strong>Petra, Ma’an, Jordan</strong><br>Petra is believed to have been established in the 4th century B.C. as the capital of the Nabataean Kingdom, an entity that grew fabulously wealthy as the nexus of trade routes in the southern Levant. The kingdom retained its independence until the Roman Empire annexed it in A.D. 106. The city is famous for its stunning rock-cut architecture and its water conduit system, which allowed the Nabataeans to control and store the water supply in this desert region and create an artificial oasis. At its peak in the 1st century A.D., the city may have had a population of 20,000.</p> <p>7. <strong>Taj Mahal, Agra, Uttar Pradesh, India</strong><br>This gorgeous ivory-white mausoleum – described as “one of the universally admired masterpieces of the world’s heritage” – was commissioned in 1632 by Shah Jahan (r. 1628-1658) as the final resting place for his favorite wife, Mumtaz Mahal. The building also houses the tomb of Shah Jahan himself. The Taj Mahal is the centerpiece of an entire 17-hectare complex that also includes a guest house, a mosque, and formal gardens. The entire project was not completed until about 1653. The Taj Mahal remains one of the most visited tourist sites in the world.</p> <p><strong>note</strong>: The Great Pyramid of Egypt, the only surviving Wonder of the ancient Seven, received an honorary status among the New Seven Wonders. Its inclusion enabled a Wonder to be listed for five of the six habitable continents (all but Australia).</p><br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> the World is now thought to be about 4.55 billion years old, just about one-third of the 13.8-billion-year age estimated for the universe; the earliest widely accepted date for life appearing on Earth is 3.48 billion years ago</p> <p><strong>note 2:</strong> although earthquakes can strike anywhere at any time, the vast majority occur in three large zones of the Earth; the world's greatest earthquake belt, the Circum-Pacific Belt (popularly referred to as the Ring of Fire), is the zone of active volcanoes and earthquake epicenters bordering the Pacific Ocean; about 90% of the world's earthquakes (81% of the largest earthquakes) and some 75% of the world's volcanoes occur within the Ring of Fire; the belt extends northward from Chile, along the South American coast, through Central America, Mexico, the western US, southern Alaska and the Aleutian Islands, to Japan, the Philippines, Papua New Guinea, island groups in the southwestern Pacific, and New Zealand<br><br>the second prominent belt, the Alpide, extends from Java to Sumatra, northward along the mountains of Burma, then eastward through the Himalayas, the Mediterranean, and out into the Atlantic Ocean; it accounts for about 17% of the world's largest earthquakes; the third important belt follows the long Mid-Atlantic Ridge<br><br><strong>note 3:</strong> information on the origin sites for many of the world's major food crops may be found in the "Geography - note" for the following countries: Argentina, Bolivia, Brazil, China, Ecuador, Ethiopia, Indonesia, Mexico, Papua New Guinea, Paraguay, Peru, and the United States</p><br>
+<p><strong>note 1:</strong> the World is now thought to be about 4.55 billion years old, about one-third of the 13.8-billion-year age estimated for the universe; the earliest widely accepted date for life appearing on Earth is 3.48 billion years ago</p> <p><strong>note 2:</strong> the vast majority of earthquakes occur in three large zones; the <em>Circum-Pacific Belt</em> (known as the Ring of Fire) borders the Pacific and is the largest zone of volcanic and seismic activity, with about 90% of earthquakes (81% of the largest) and about 75% of active volcanoes; the belt extends northward from Chile along the South American coast, then through Central America, Mexico, the western US, southern Alaska, and the Aleutian Islands, to Japan, the Philippines, Papua New Guinea, the southwestern Pacific, and New Zealand; the <em>Alpide Belt</em> extends from Java to Sumatra, northward along the mountains of Burma, eastward through the Himalayas and the Mediterranean, and into the Atlantic Ocean, accounting for about 17% of the largest earthquakes; the third belt follows the long Mid-Atlantic Ridge</p><br>
 
 ## People and Society
 
@@ -107,10 +107,10 @@ _15-64 years_: 65.2% (male 2,658,595,672/female 2,592,930,538)<br>
 _65 years and over_: 10.3% (2024 est.) (male 370,253,736/female 459,044,344)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 54.1<br>
-_youth dependency ratio_: 39.3<br>
-_elderly dependency ratio_: 14.8<br>
-_potential support ratio_: 7 (2021 est.)<br>
+_total dependency ratio_: 53.4 (2024 est.)<br>
+_youth dependency ratio_: 37.7 (2024 est.)<br>
+_elderly dependency ratio_: 15.7 (2024 est.)<br>
+_potential support ratio_: 6.4 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 31 years (2020 est.)<br>
@@ -203,7 +203,7 @@ _female_: 13 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-large areas of the world are subject to overpopulation, industrial disasters, pollution (air, water, acid rain, toxic substances), loss of vegetation (overgrazing, deforestation, desertification), loss of biodiversity; soil degradation, soil depletion, erosion; ozone layer depletion; waste disposal; global warming becoming a greater concern<br>
+large areas of the world are subject to overpopulation, industrial disasters, pollution (air, water, acid rain, toxic substances), loss of vegetation (overgrazing, deforestation, desertification), loss of biodiversity; soil degradation, soil depletion, erosion; ozone layer depletion; waste disposal; temperature change<br>
 
 **World biomes**<br>
 _Types of Biomes_: <p>A biome is a biogeographical designation describing a biological community of plants and animals that has formed in response to a physical environment and a shared regional climate. Biomes can extend over more than one continent. Different classification systems define different numbers of biomes. <em>The World Factbook</em> recognizes the following seven biomes used by NASA: tundra, coniferous forest, temperate deciduous forest, rainforest, grassland, shrubland, and desert.</p><br>
@@ -311,9 +311,9 @@ $106.172 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-5.64% (2023 est.)<br>
-7.93% (2022 est.)<br>
-3.48% (2021 est.)<br>
+5.7% (2023 est.)<br>
+7.9% (2022 est.)<br>
+3.5% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -342,19 +342,19 @@ _imports of goods and services_: -28.5% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.642 billion (2023 est.)<br>
+3.691 billion (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.97% (2023 est.)<br>
-5.27% (2022 est.)<br>
-6.04% (2021 est.)<br>
+4.9% (2024 est.)<br>
+4.9% (2023 est.)<br>
+5.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.8% (2023 est.)<br>
-_male_: 13.4% (2023 est.)<br>
-_female_: 15.4% (2023 est.)<br>
+_total_: 13.6% (2024 est.)<br>
+_male_: 13.2% (2024 est.)<br>
+_female_: 15.3% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
@@ -371,22 +371,22 @@ _expenditures_: $23.81 trillion (2017 est.)<br>
 67.2% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-14.34% (of GDP) (2022 est.)<br>
+13.9% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Exports**<br>
-$31.073 trillion (2023 est.)<br>
-$31.67 trillion (2022 est.)<br>
-$28.271 trillion (2021 est.)<br>
+$31.114 trillion (2023 est.)<br>
+$31.716 trillion (2022 est.)<br>
+$28.292 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - commodities**<br>
 the whole range of industrial and agricultural goods and services<br><br><strong>top ten commodities by share of world trade: </strong>crude petroleum, cars, refined petroleum, integrated circuits, broadcasting equipment, gold, natural gas, garments, vehicle parts/accessories, packaged medicine (2022)<br>
 
 **Imports**<br>
-$30.144 trillion (2023 est.)<br>
-$30.8 trillion (2022 est.)<br>
-$27.184 trillion (2021 est.)<br>
+$30.2 trillion (2023 est.)<br>
+$30.838 trillion (2022 est.)<br>
+$27.203 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - commodities**<br>
@@ -485,10 +485,6 @@ _subscriptions per 100 inhabitants_: 18 (2022 est.)<br>
 **Railways**<br>
 _total_: 1,148,186 km (2013)<br>
 
-**Waterways**<br>
-2,293,412 km (2017)<br>
-<strong>top ten longest rivers:</strong> Nile (Africa) 6,693 km; Amazon (South America) 6,436 km; Mississippi-Missouri (North America) 6,238 km; Yenisey-Angara (Asia) 5,981 km; Ob-Irtysh (Asia) 5,569 km; Yangtze (Asia) 5,525 km; Yellow (Asia) 4,671 km; Amur (Asia) 4,352 km; Lena (Asia) 4,345 km; Congo (Africa) 4,344 km<br><br><strong>note 1:</strong> rivers are not necessarily navigable along the entire length; if measured by volume, the Amazon is the largest river in the world, responsible for about 20% of the Earth's freshwater entering the ocean<br><br><strong>note 2:</strong> there are 20 countries without rivers: 3 in Africa (Comoros, Djibouti, Libya); 1 in the Americas (Bahamas); 8 in Asia (Bahrain, Kuwait, Maldives, Oman, Qatar, Saudi Arabia, United Arab Emirates, Yemen); 3 in Europe (Malta, Monaco, Holy See), 5 in Oceania (Kiribati, Marshall Islands, Nauru, Tonga, Tuvalu); these countries also do not have natural lakes<br><br><strong>top ten largest natural lakes (by surface area): </strong>Caspian Sea (Azerbaijan, Iran, Kazakhstan, Russia, Turkmenistan) 372,960 sq km; Lake Superior (Canada, United States) 82,414 sq km; Lake Victoria (Kenya, Tanzania, Uganda) 69,490 sq km; Lake Huron (Canada, United States) 59,596 sq km; Lake Michigan (United States) 57,441 sq km; Lake Tanganyika (Burundi, Democratic Republic of the Congo, Tanzania, Zambia) 32,890 sq km; Great Bear Lake (Canada) 31,800 sq km; Lake Baikal (Russia) 31,494 sq km; Lake Nyasa (Malawi, Mozambique, Tanzania) 30,044 sq km; Great Slave Lake (Canada) 28,400 sq km<br><br><strong>note 1:</strong> the areas of the lakes are subject to seasonal variation; only the Caspian Sea is saline, the rest are fresh water<br><br><strong>note 2:</strong> Lakes Huron and Michigan are technically a single lake because the flow of water between the Straits of Mackinac that connects the two lakes keeps their water levels at near-equilibrium; combined, Lake Huron-Michigan is the largest freshwater lake by surface area in the world<br><br><strong>note 3: </strong>the deepest lake in the world (1,620 m), and also the largest freshwater lake by volume (23,600 cu km), is Lake Baikal in Russia<br>
-
 **Merchant marine**<br>
 _total_: 103,577 (2023)<br>
 _by type_: bulk carrier 13,141, container ship 5,815, general cargo 19,918, oil tanker 11,604, other 53,099<br>
@@ -496,18 +492,18 @@ _by type_: bulk carrier 13,141, container ship 5,815, general cargo 19,918, oil 
 ## Military and Security
 
 **Military expenditures**<br>
+2.4% of GDP (2024 est.)<br>
 2.3% of GDP (2023 est.)<br>
 2.2% of GDP (2022 est.)<br>
-2.3% of GDP (2021 est.)<br>
-2.4% of GDP (2020 est.)<br>
-2.2% of GDP (2019 est.)<br>
+2.2% of GDP (2021 est.)<br>
+2.3% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 20 million active-duty military personnel worldwide (2023)<br>
 <strong>note:</strong> the largest militaries in the world based on personnel numbers belong to China, India, the US, North Korea, and Russia<br>
 
 **Military equipment inventories and acquisitions**<br>
-the US is the world's leading arms exporter (2023)<br>
+the US is the world's leading arms exporter (2024)<br>
 
 **Military deployments**<br>
 as of August 2024, there were approximately 68,000 personnel deployed on UN peacekeeping missions worldwide (2024)<br>

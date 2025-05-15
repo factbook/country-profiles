@@ -51,7 +51,7 @@ _other_: 91.5% (2022 est.)<br>
 most of the populace concentrated in and around the capital of Gustavia, but scattered settlements exist around the island periphery<br>
 
 **Geography - note**<br>
-a 1,200-hectare marine nature reserve, the Reserve Naturelle, is made up of five zones around the island that form a network to protect the island's coral reefs, seagrass, and endangered marine species<br>
+a 1,200-hectare (3,000-acre) marine nature reserve, the Reserve Naturelle, is made up of five zones around the island that form a network to protect the island's coral reefs, seagrass, and endangered marine species<br>
 
 ## People and Society
 
@@ -76,10 +76,10 @@ _15-64 years_: 63.1% (male 2,413/female 2,057)<br>
 _65 years and over_: 23% (2024 est.) (male 818/female 813)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 30.8<br>
-_youth dependency ratio_: 17.5<br>
-_elderly dependency ratio_: 13.3<br>
-_potential support ratio_: 7.5 (2021)<br>
+_total dependency ratio_: 58.5 (2024 est.)<br>
+_youth dependency ratio_: 22 (2024 est.)<br>
+_elderly dependency ratio_: 36.5 (2024 est.)<br>
+_potential support ratio_: 2.7 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 47.4 years (2024 est.)<br>
@@ -146,9 +146,6 @@ _unimproved: total_: total: 0% of population (2020)<br>
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
-**Education expenditures**<br>
-NA<br>
-
 **Literacy**<br>
 _total population_: NA<br>
 _male_: NA<br>
@@ -157,7 +154,7 @@ _female_: NA<br>
 ## Environment
 
 **Environment - current issues**<br>
-land-based pollution; urbanization; with no natural rivers or streams, fresh water is in short supply, especially in summer, and is provided by the desalination of sea water, the collection of rain water, or imported via water tanker; overfishing<br>
+land-based pollution; urbanization; limited freshwater resources; overfishing<br>
 
 **Climate**<br>
 tropical, with practically no variation in temperature; has two seasons (dry and humid)<br>
@@ -187,7 +184,7 @@ overseas collectivity of France<br>
 _name_: Gustavia<br>
 _geographic coordinates_: 17 53 N, 62 51 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named in honor of King Gustav III (1746-1792) of Sweden during whose reign the island was obtained from France in 1784; the name was retained when in 1878 the island was sold back to France<br>
+_etymology_: named in honor of King GUSTAV III of Sweden, who was ruler when Sweden bought the island from France in 1784; the name was retained when the island was sold back to France in 1878&nbsp;<br>
 
 **Independence**<br>
 none (overseas collectivity of France)<br>
@@ -304,12 +301,6 @@ _percent of population_: 71.3% (2022 est.)<br>
 
 **Airports**<br>
 1 (2025)<br>
-
-**Roadways**<br>
-_total_: 40 km<br>
-
-**Transportation - note**<br>
-nearest airport for international flights is Princess Juliana International Airport (SXM) located on Sint Maarten<br>
 
 ## Military and Security
 

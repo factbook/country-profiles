@@ -76,7 +76,7 @@ population density is relatively high in comparison to other African nations; mo
 droughts; floods; earthquakes; landslides; hailstorms<br>
 
 **Geography - note**<br>
-landlocked; fertile, well-watered country with many lakes and rivers; Lake Victoria, the world's largest tropical lake and the second largest freshwater lake, is shared among three countries: Kenya, Tanzania, and Uganda<br>
+landlocked; fertile, well-watered country with many lakes and rivers; Lake Victoria, the world's largest tropical lake and second-largest freshwater lake, is shared among three countries: Kenya, Tanzania, and Uganda<br>
 
 ## People and Society
 
@@ -104,10 +104,10 @@ _15-64 years_: 50.6% (male 11,788,483/female 13,131,051)<br>
 _65 years and over_: 2.4% (2024 est.) (male 504,332/female 683,498)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 88.2<br>
-_youth dependency ratio_: 85.1<br>
-_elderly dependency ratio_: 3.2<br>
-_potential support ratio_: 31.7 (2021 est.)<br>
+_total dependency ratio_: 97.8 (2024 est.)<br>
+_youth dependency ratio_: 93 (2024 est.)<br>
+_elderly dependency ratio_: 4.8 (2024 est.)<br>
+_potential support ratio_: 21 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 16.2 years (2024 est.)<br>
@@ -256,12 +256,6 @@ _rate of urbanization_: 5.41% annual rate of change (2020-25 est.)<br>
 **Food insecurity**<br>
 _severe localized food insecurity_: <em><em>due to weather extremes, </em></em><em>civil insecurity, and high food prices </em><em>- </em>the latest analysis, conducted in the northeastern agro-pastoral Karamoja region, estimates that about 582,000 million people are facing acute food insecurity between April and August 2023; these conditions reflect the adverse impact of weather shocks, crop and livestock diseases, civil insecurity and high food prices; the significant deterioration of the food security situation during the last 12 months in Karamoja Region is mainly due to protracted insecurity that has caused livelihood losses and consecutive poor local harvests; in 2023, the national average price of maize increased by 20% between January and May 2023, with seasonal patterns compounded by a fast depletion of stocks due to a drought‑reduced production in 2022 (2023)<br>
 
-**Revenue from forest resources**<br>
-7.32% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 31.31 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 5.68 megatons (2016 est.)<br>
@@ -294,7 +288,7 @@ _agricultural_: 260 million cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Uganda<br>
 _conventional short form_: Uganda<br>
-_etymology_: from the name "Buganda," adopted by the British as the designation for their East African colony in 1894; Buganda had been a powerful East African state during the 18th and 19th centuries<br>
+_etymology_: the name is derived from the Swahili word <em>u</em>, meaning "land" or "country," and the Ganda people; the origin of the Ganda name is unclear<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -303,7 +297,7 @@ presidential republic<br>
 _name_: Kampala<br>
 _geographic coordinates_: 0 19 N, 32 33 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the site of the original British settlement was referred to by its native name as Akasozi ke'Empala ("hill of the impala" [plural]); over time this designation was shortened to K'empala and finally Kampala<br>
+_etymology_: the name is said to come from an African antelope, the impala<br>
 
 **Administrative divisions**<br>
 134 districts and 1 capital city*; Abim, Adjumani, Agago, Alebtong, Amolatar, Amudat, Amuria, Amuru, Apac, Arua, Budaka, Bududa, Bugiri, Bugweri, Buhweju, Buikwe, Bukedea, Bukomansimbi, Bukwo, Bulambuli, Buliisa, Bundibugyo, Bunyangabu, Bushenyi, Busia, Butaleja, Butambala, Butebo, Buvuma, Buyende, Dokolo, Gomba, Gulu, Hoima, Ibanda, Iganga, Isingiro, Jinja, Kaabong, Kabale, Kabarole, Kaberamaido, Kagadi, Kakumiro, Kalaki, Kalangala, Kaliro, Kalungu, Kampala*, Kamuli, Kamwenge, Kanungu, Kapchorwa, Kapelebyong, Karenga, Kasese, Kasanda, Katakwi, Kayunga, Kazo, Kibaale, Kiboga, Kibuku, Kikuube, Kiruhura, Kiryandongo, Kisoro, Kitagwenda, Kitgum, Koboko, Kole, Kotido, Kumi, Kwania, Kween, Kyankwanzi, Kyegegwa, Kyenjojo, Kyotera, Lamwo, Lira, Luuka, Luwero, Lwengo, Lyantonde, Madi-Okollo, Manafwa, Maracha, Masaka, Masindi, Mayuge, Mbale, Mbarara, Mitooma, Mityana, Moroto, Moyo, Mpigi, Mubende, Mukono, Nabilatuk, Nakapiripirit, Nakaseke, Nakasongola, Namayingo, Namisindwa, Namutumba, Napak, Nebbi, Ngora, Ntoroko, Ntungamo, Nwoya, Obongi, Omoro, Otuke, Oyam, Pader, Pakwach, Pallisa, Rakai, Rubanda, Rubirizi, Rukiga, Rukungiri, Rwampara, Sembabule, Serere, Sheema, Sironko, Soroti, Tororo, Wakiso, Yumbe, Zombo<br>
@@ -315,7 +309,7 @@ _etymology_: the site of the original British settlement was referred to by its 
 Independence Day, 9 October (1962)<br>
 
 **Legal system**<br>
-mixed legal system of English common law and customary law<br>
+mixed system of English common law and customary law<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 27 September 1995, promulgated 8 October 1995<br>
@@ -421,9 +415,9 @@ $48.769 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-5.35% (2023 est.)<br>
+3.3% (2024 est.)<br>
+5.4% (2023 est.)<br>
 7.2% (2022 est.)<br>
-2.2% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -459,19 +453,19 @@ sugar processing, brewing, tobacco, cotton textiles; cement, steel production<br
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-19.077 million (2023 est.)<br>
+22.829 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.83% (2023 est.)<br>
-2.93% (2022 est.)<br>
-3.42% (2021 est.)<br>
+2.9% (2024 est.)<br>
+2.8% (2023 est.)<br>
+2.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.5% (2023 est.)<br>
-_male_: 3.4% (2023 est.)<br>
-_female_: 5.6% (2023 est.)<br>
+_total_: 4.5% (2024 est.)<br>
+_male_: 3.5% (2024 est.)<br>
+_female_: 5.5% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -503,22 +497,22 @@ _expenditures_: $7.473 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-53.89% of GDP (2022 est.)<br>
+53.1% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-12.55% (of GDP) (2022 est.)<br>
+13% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
 -$3.766 billion (2023 est.)<br>
--$4.065 billion (2022 est.)<br>
+-$4.064 billion (2022 est.)<br>
 -$3.605 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$9.085 billion (2023 est.)<br>
-$6.115 billion (2022 est.)<br>
+$9.084 billion (2023 est.)<br>
+$6.116 billion (2022 est.)<br>
 $6.231 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
@@ -551,16 +545,16 @@ $3.098 billion (2016 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$11.436 billion (2023 est.)<br>
+$10.469 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Ugandan shillings (UGX) per US dollar -<br>
-3,726.14 (2023 est.)<br>
-3,689.817 (2022 est.)<br>
+3,757.262 (2024 est.)<br>
+3,726.142 (2023 est.)<br>
+3,689.818 (2022 est.)<br>
 3,587.052 (2021 est.)<br>
 3,718.249 (2020 est.)<br>
-3,704.049 (2019 est.)<br>
 
 ## Energy
 
@@ -619,7 +613,7 @@ _domestic_: fixed-line less than 1 per 100 and mobile cellular systems teledensi
 _international_: country code - 256; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Inmarsat; analog and digital links to Kenya and Tanzania<br>
 
 **Broadcast media**<br>
-public broadcaster, Uganda Broadcasting Corporation (UBC), operates radio and TV networks; 31 Free-To-Air (FTA) TV stations, 2 digital terrestrial TV stations, 3 cable TV stations, and 5 digital satellite TV stations; 258 operational FM stations<br>
+public broadcaster, Uganda Broadcasting Corporation (UBC), operates radio and TV networks; 31 Free-To-Air (FTA) TV stations, 2 digital terrestrial TV stations, 3 cable TV stations, and 5 digital satellite TV stations; 258 FM stations<br>
 
 **Internet country code**<br>
 .ug<br>
@@ -633,11 +627,6 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 6 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 26<br>
-_annual passenger traffic on registered air carriers_: 21,537 (2018)<br>
-
 **Civil aircraft registration country code prefix**<br>
 5X<br>
 
@@ -648,18 +637,10 @@ _annual passenger traffic on registered air carriers_: 21,537 (2018)<br>
 _total_: 1,244 km (2014)<br>
 _narrow gauge_: 1,244 km (2014) 1.000-m gauge<br>
 
-**Roadways**<br>
-_total_: 20,544 km (excludes local roads)<br>
-_paved_: 4,257 km<br>
-_unpaved_: 16,287 km (2017)<br>
-
-**Waterways**<br>
-907 km (2022) (there are no long navigable stretches of river in Uganda; parts of the Albert Nile ( 210 km) that flow out of Lake Albert (160 km) in the northwestern part of the country are navigable; several lakes including Lake Victoria (337 km) and Lake Kyoga (199.5) have substantial traffic; Lake Albert is navigable along a 200-km stretch from its northern tip to its southern shores)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>
-Uganda People's Defense Force (UPDF): Land Force (includes marines), Air Force, Special Forces Command, Reserve Force <br><br>Ministry of Internal Affairs: Uganda Police Force (2024)<br>
+Uganda People's Defense Force (UPDF): Land Force (includes marines), Air Force, Special Forces Command, Reserve Force <br><br>Ministry of Internal Affairs: Uganda Police Force (2025)<br>
 <strong>note 1:</strong> the Special Forces Command is a separate branch within the UPDF; it evolved from the former Presidential Guard Brigade and has continued to retain presidential protection duties in addition to its traditional missions, such as counterinsurgency<br><br><strong>note 2:</strong> the Uganda Police Force includes air, field, territorial, and marine units, as well as a presidential guard force<br><br><strong>note 3:</strong> in 2018, President MUSEVENI created a volunteer force of Local Defense Units under the military to beef up local security in designated parts of the country<br>
 
 **Military expenditures**<br>
@@ -670,13 +651,13 @@ Uganda People's Defense Force (UPDF): Land Force (includes marines), Air Force, 
 1.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 45-50,000 active-duty troops (2023)<br>
+approximately 45-50,000 active Defense Force troops (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the UPDF's inventory is mix of older and some more modern weapons and equipment; it is comprised mostly of Russian/Soviet-era arms with smaller quantities of Chinese, Israeli, North Korean, South African, UK, US, and domestically-produced items; Uganda has a small defense industry that assembles or manufactures light armored vehicles and performs maintenance on some military equipment, including its Russian-made helicopters (2024)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military duty for men and women; 18-30 for those with degrees/diplomas in specialized fields such as medicine, engineering, chemistry, and education, or possess qualifications in some vocational skills; 9-year service obligation (2024)<br>
+18-22 years of age for voluntary military duty for men and women; 9-year service obligation (2025)<br>
 
 **Military deployments**<br>
 as many as 4-5,000 Democratic Republic of Congo; approximately 4,500 Somalia (African Union Support and Stabilization Mission in Somalia or AUSSOM) (2025)<br>

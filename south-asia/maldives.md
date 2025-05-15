@@ -70,7 +70,7 @@ about a third of the population lives in the centrally located capital city of M
 tsunamis; low elevation of islands makes them sensitive to sea level rise<br>
 
 **Geography - note**<br>
-smallest Asian country; archipelago of 1,190 coral islands grouped into 26 atolls (200 inhabited islands, plus 80 islands with tourist resorts); strategic location astride and along major sea lanes in Indian Ocean<br>
+smallest Asian country; archipelago of 1,190 coral islands grouped into 26 atolls (200 inhabited islands, plus 80 islands with tourist resorts); strategic location along major sea lanes in Indian Ocean<br>
 
 ## People and Society
 
@@ -98,10 +98,10 @@ _15-64 years_: 71.5% (male 143,021/female 135,044)<br>
 _65 years and over_: 6.1% (2024 est.) (male 10,397/female 13,449)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 35.6<br>
-_youth dependency ratio_: 29.5<br>
-_elderly dependency ratio_: 6.2<br>
-_potential support ratio_: 16.2 (2021 est.)<br>
+_total dependency ratio_: 39.8 (2024 est.)<br>
+_youth dependency ratio_: 31.3 (2024 est.)<br>
+_elderly dependency ratio_: 8.6 (2024 est.)<br>
+_potential support ratio_: 11.7 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 31.9 years (2024 est.)<br>
@@ -230,7 +230,7 @@ _female_: 14 years (2019)<br>
 ## Environment
 
 **Environment - current issues**<br>
-rising sea levels threaten land; depletion of freshwater aquifers threatens water supplies; inadequate sewage treatment; coral reef bleaching<br>
+rising sea levels; depletion of freshwater aquifers; inadequate sewage treatment; coral reef bleaching<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution<br>
@@ -250,12 +250,6 @@ _other_: 77.6% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 42% of total population (2023)<br>
 _rate of urbanization_: 2.34% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 13 micrograms per cubic meter (2019 est.)<br>
@@ -286,10 +280,10 @@ _etymology_: the origin of the name is obscure but may derive from the Sanskrit 
 presidential republic<br>
 
 **Capital**<br>
-_name_: Male<br>
+_name_: Mal&eacute;<br>
 _geographic coordinates_: 4 10 N, 73 30 E<br>
 _time difference_: UTC+5 (10 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: derived from the Sanskrit word "mahaalay" meaning "big house"<br>
+_etymology_: the name may come from the Sanskrit word <em>mala</em>, or "garland"<br>
 
 **Administrative divisions**<br>
 21 administrative atolls (atholhuthah, singular - atholhu); Addu (Addu City), Ariatholhu Dhekunuburi (South Ari Atoll), Ariatholhu Uthuruburi (North Ari Atoll), Faadhippolhu, Felidhuatholhu (Felidhu Atoll), Fuvammulah, Hahdhunmathi, Huvadhuatholhu Dhekunuburi (South Huvadhu Atoll), Huvadhuatholhu Uthuruburi (North Huvadhu Atoll), Kolhumadulu, Maale (Male), Maaleatholhu (Male Atoll), Maalhosmadulu Dhekunuburi (South Maalhosmadulu), Maalhosmadulu Uthuruburi (North Maalhosmadulu), Miladhunmadulu Dhekunuburi (South Miladhunmadulu), Miladhunmadulu Uthuruburi (North Miladhunmadulu), Mulakatholhu (Mulaku Atoll), Nilandheatholhu Dhekunuburi (South Nilandhe Atoll), Nilandheatholhu Uthuruburi (North Nilandhe Atoll), Thiladhunmathee Dhekunuburi (South Thiladhunmathi), Thiladhunmathee Uthuruburi (North Thiladhunmathi)<br>
@@ -401,9 +395,9 @@ $6.591 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-2.93% (2023 est.)<br>
-2.33% (2022 est.)<br>
-0.54% (2021 est.)<br>
+1.4% (2024 est.)<br>
+2.9% (2023 est.)<br>
+2.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -437,19 +431,19 @@ tourism, fish processing, shipping, boat building, coconut processing, woven mat
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-268,000 (2023 est.)<br>
+270,300 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.13% (2023 est.)<br>
-4.42% (2022 est.)<br>
-5.02% (2021 est.)<br>
+4.6% (2024 est.)<br>
+4.2% (2023 est.)<br>
+4.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.9% (2023 est.)<br>
-_male_: 18.6% (2023 est.)<br>
-_female_: 9.2% (2023 est.)<br>
+_total_: 16.1% (2024 est.)<br>
+_male_: 20% (2024 est.)<br>
+_female_: 9.5% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -480,16 +474,17 @@ _expenditures_: $1.548 billion (2021 est.)<br>
 63.9% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-19.45% (of GDP) (2021 est.)<br>
+19.5% (of GDP) (2021 est.)<br>
+<strong>note:</strong> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.401 billion (2023 est.)<br>
--$1.004 billion (2022 est.)<br>
+-$1.399 billion (2023 est.)<br>
+-$1.042 billion (2022 est.)<br>
 -$453.449 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$4.892 billion (2023 est.)<br>
+$4.878 billion (2023 est.)<br>
 $5.096 billion (2022 est.)<br>
 $3.985 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -503,8 +498,8 @@ fish, aircraft, refined petroleum, scrap iron, natural gas (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$4.975 billion (2023 est.)<br>
-$4.899 billion (2022 est.)<br>
+$4.979 billion (2023 est.)<br>
+$4.939 billion (2022 est.)<br>
 $3.482 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
@@ -517,21 +512,22 @@ refined petroleum, plastic products, aircraft, granite, ships (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$673.203 million (2024 est.)<br>
 $590.523 million (2023 est.)<br>
 $832.094 million (2022 est.)<br>
-$805.808 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$3.233 billion (2023 est.)<br>
+$3.113 billion (2023 est.)<br>
+<strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: rufiyaa (MVR) per US dollar -<br>
+15.389 (2024 est.)<br>
 15.387 (2023 est.)<br>
 15.387 (2022 est.)<br>
 15.373 (2021 est.)<br>
 15.381 (2020 est.)<br>
-15.382 (2019 est.)<br>
 
 ## Energy
 
@@ -577,7 +573,7 @@ _domestic_: fixed-line is at nearly 3 per 100 persons and mobile-cellular subscr
 _international_: country code - 960; landing points for Dhiraagu Cable Network, NaSCOM, Dhiraagu-SLT Submarine Cable Networks and WARF submarine cables providing connections to 8 points in Maldives, India, and Sri Lanka;&nbsp;satellite earth station - 3 Intelsat (Indian Ocean) (2019)<br>
 
 **Broadcast media**<br>
-state-owned radio and TV monopoly until recently;&nbsp;4 state-operated and 7 privately owned TV stations and 4 state-operated and 7 privately owned radio stations (2019)<br>
+formerly a state-owned radio and TV monopoly; now 4 state-operated and 7 privately owned TV stations; 4 state-operated and 7 privately owned radio stations (2019)<br>
 
 **Internet country code**<br>
 .mv<br>
@@ -591,22 +587,11 @@ _subscriptions per 100 inhabitants_: 19 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 3 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 36<br>
-_annual passenger traffic on registered air carriers_: 1,147,247 (2018)<br>
-_annual freight traffic on registered air carriers_: 7.75 million (2018)<br>
-
 **Civil aircraft registration country code prefix**<br>
 8Q<br>
 
 **Airports**<br>
 20 (2025)<br>
-
-**Roadways**<br>
-_total_: 93 km<br>
-_paved_: 93 km (2018) - 60 km in Malée; 16 km on Addu Atolis; 17 km on Laamu<br>
-<strong>note:</strong> island roads are mainly compacted coral<br>
 
 **Merchant marine**<br>
 _total_: 82 (2023)<br>
@@ -624,23 +609,23 @@ _key ports_: Male<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Maldives National Defense Force (MNDF): the MNDF has combined force structure with seven services divided into Combat and Maneuver Forces (Coast Guard, Marine Corps, and Fire and Rescue Service) and Support Services (Service Corps, Defense Intelligence Service, Medical Corps, Adjutant General's Corps); there is also a separate Special Forces command and a Special Protection Service (2024)<br>
-<strong>note:</strong> the Maldives Police Service is responsible for internal security and reports to the Ministry of Homeland Security and Technology <br>
+Maldives National Defense Force (MNDF): Coast Guard, Marine Corps, Air Corps, Fire and Rescue Service<br><br>Ministry of Homeland Security and Technology (MOHST): Maldives Police Service (2025)<br>
+<strong>note:</strong> in addition to the MNDF, the Maldives Ministry of Defense controls the Aviation Security Command, which provides security for the civil aviation industry, and the National Counter Terrorism Center<br>
 
 **Military expenditures**<br>
 not available<br>
 
 **Military and security service personnel strengths**<br>
-approximately 3-4,000&nbsp;personnel (2023)<br>
+the Defense Force has approximately 3-4,000 active personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Defense Force has a limited inventory consisting of a mix of mostly secondhand or donated equipment from suppliers such as Germany, India, Japan, and the UK; in 2024, the Maldives received surveillance drones from Turkey (2024)<br>
+the Defense Force has a limited inventory consisting of a mix of mostly secondhand or donated equipment from suppliers such as Germany, India, Japan, Turkey, and the UK (2025)<br>
 
 **Military service age and obligation**<br>
-18-28 years of age for voluntary service; no conscription; 10th grade or equivalent education required; must not be a member of a political party (2023)<br>
+18-25 years of age for voluntary service; no conscription (2024)<br>
 
 **Military - note**<br>
-the Maldives National Defense Force (MNDF) is responsible for defending and safeguarding the Maldives' territorial integrity, economic exclusion zone, and people; it is also responsible for disaster relief, and if requested, assisting the Maldives Police Service in maintaining internal security and law and order; the MNDF is organized into four area commands and a functional Special Forces command; the head of the MNDF reports to the Minister of Defense (2024)<br>
+the Maldives National Defense Force (MNDF) is responsible for defending and safeguarding the Maldives' territorial integrity, economic exclusion zone, and people; it is also responsible for disaster relief, and if requested, assisting the Maldives Police Service in maintaining internal security and law and order; operationally, the MNDF is organized into four joint-service area commands (Central, Mal&eacute;, Northern, and Southern) and three functional commands (Special Forces, Special Protective Service, and Ordnance Service) (2025)<br>
 
 ## Terrorism
 

@@ -95,10 +95,10 @@ _15-64 years_: 76.1% (male 2,062/female 2,101)<br>
 _65 years and over_: 8% (2024 est.) (male 220/female 219)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 43.9<br>
-_youth dependency ratio_: 19.2<br>
-_elderly dependency ratio_: 24.7<br>
-_potential support ratio_: 4 (2021)<br>
+_total dependency ratio_: 31.3 (2024 est.)<br>
+_youth dependency ratio_: 20.8 (2024 est.)<br>
+_elderly dependency ratio_: 10.5 (2024 est.)<br>
+_potential support ratio_: 9.5 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 36.8 years (2024 est.)<br>
@@ -188,7 +188,7 @@ _female_: 15 years (2019)<br>
 ## Environment
 
 **Environment - current issues**<br>
-land erosion occurs on slopes that have been cleared for cultivation<br>
+land erosion on slopes that have been cleared for cultivation<br>
 
 **Climate**<br>
 tropical; little daily or seasonal temperature variation<br>
@@ -219,10 +219,11 @@ parliamentary democracy; self-governing overseas territory of the UK<br>
 overseas territory of the UK<br>
 
 **Capital**<br>
-_name_: Plymouth; note - Plymouth was abandoned in 1997 because of volcanic activity; interim government buildings have been built at Brades Estate, the de facto capital, in the Carr's Bay/Little Bay vicinity at the northwest end of Montserrat<br>
+_name_: Plymouth<br>
 _geographic coordinates_: 16 42 N, 62 13 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: now entirely deserted because of volcanic activity, the city was originally named after Plymouth, England; <em>de jure</em>, Plymouth remains the capital city of Montserrat; it is therefore the only ghost town that serves as the capital of a political entity<br>
+_etymology_: now entirely deserted because of volcanic activity, the city was named after Plymouth, England<br>
+<strong>note:</strong> Plymouth was abandoned in 1997 because of volcanic activity; interim government buildings have been built at Brades Estate, the de facto capital, at the northwest end of Montserrat<br>
 
 **Administrative divisions**<br>
 3 parishes; Saint Anthony, Saint Georges, Saint Peter<br>
@@ -424,23 +425,16 @@ _subscriptions per 100 inhabitants_: 55 (2018 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 3<br>
-
 **Civil aircraft registration country code prefix**<br>
 VP-M<br>
 
 **Airports**<br>
 1 (2025)<br>
 
-**Roadways**<br>
-<p><strong>note:</strong> volcanic eruptions that began in 1995 destroyed most of the 227 km road system; a new road infrastructure has been built on the north end of the island</p><br>
-
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Royal Montserrat Defense Force (ceremonial, civil defense duties), Montserrat Police Force (2024)<br>
+no regular military forces; Royal Montserrat Defense Force (ceremonial, civil defense duties), Montserrat Police Force (2025)<br>
 
 **Military - note**<br>
 defense is the responsibility of the UK<br>

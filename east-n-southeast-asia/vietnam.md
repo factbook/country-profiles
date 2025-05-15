@@ -77,7 +77,7 @@ though it has one of the highest population densities in the world, the populati
 occasional typhoons (May to January) with extensive flooding, especially in the Mekong River delta<br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> extending 1,650 km north to south, the country is only 50 km across at its narrowest point <br><br><strong>note 2:</strong> Son Doong in Phong Nha-Ke Bang National Park is the world's largest cave (greatest cross sectional area) and is the largest known cave passage in the world by volume; it currently measures a total of 38.5 million cu m (about 1.35 billion cu ft); it connects to Thung cave (but not yet officially); when recognized, it will add an additional 1.6 million cu m in volume; Son Doong is so massive that it contains its own jungle, underground river, and localized weather system; clouds form inside the cave and spew out from its exits and two dolines (openings, or sinkhole skylights, created by collapsed ceilings that allow sunlight to stream in)<br><strong><br></strong><br>
+<strong>note 1:</strong> extending 1,650 km (1,025 mi) north to south, the country is only 50 km (31 mi) across at its narrowest point <br><br><strong>note 2:</strong> Son Doong in Phong Nha-Ke Bang National Park is the world's largest cave (greatest cross-sectional area) and is the largest known cave passage in the world by volume at 38.5 million cu m (about 1.35 billion cu ft); it connects to Thoong cave, but not yet officially -- when recognized, it will add an additional 1.6 million cu m; it is so massive that it contains its own jungle, underground river, and localized weather system, with clouds forming inside the cave and spewing from its exits<strong><br></strong><br>
 
 ## People and Society
 
@@ -108,10 +108,10 @@ _15-64 years_: 68.5% (male 36,591,845/female 35,887,201)<br>
 _65 years and over_: 8.3% (2024 est.) (male 3,563,611/female 5,182,909)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 45.6<br>
-_youth dependency ratio_: 32.8<br>
-_elderly dependency ratio_: 12.7<br>
-_potential support ratio_: 7.8 (2021 est.)<br>
+_total dependency ratio_: 45.9 (2024 est.)<br>
+_youth dependency ratio_: 33.8 (2024 est.)<br>
+_elderly dependency ratio_: 12.1 (2024 est.)<br>
+_potential support ratio_: 8.3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 33.1 years (2024 est.)<br>
@@ -232,7 +232,7 @@ _female_: 94.6% (2019)<br>
 ## Environment
 
 **Environment - current issues**<br>
-logging and slash-and-burn agricultural practices contribute to deforestation and soil degradation; water pollution and overfishing threaten marine life populations; groundwater contamination limits potable water supply; air pollution; growing urban industrialization and population migration are rapidly degrading environment in Hanoi and Ho Chi Minh City<br>
+deforestation and soil degradation from logging and slash-and-burn agriculture; water pollution; overfishing; groundwater contamination limits potable water supply; air pollution<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
@@ -252,12 +252,6 @@ _other_: 13.5% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 39.5% of total population (2023)<br>
 _rate of urbanization_: 2.7% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-1.49% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.35% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 20.89 micrograms per cubic meter (2019 est.)<br>
@@ -296,7 +290,7 @@ _local long form_: Cong Hoa Xa Hoi Chu Nghia Viet Nam<br>
 _local short form_: Viet Nam<br>
 _former_: Democratic Republic of Vietnam (North Vietnam), Republic of Vietnam (South Vietnam)<br>
 _abbreviation_: SRV<br>
-_etymology_: "Viet nam" translates as "Viet south," where "Viet" is an ethnic self identification dating to a second century B.C. kingdom and "nam" refers to its location in relation to other Viet kingdoms<br>
+_etymology_: the name translates as "Viet south;" <em>Viet </em>is an ethnic term of unknown origin that dates back to ancient times, and <em>nam </em>(south) refers to the country's location<br>
 
 **Government type**<br>
 communist party-led state<br>
@@ -305,7 +299,7 @@ communist party-led state<br>
 _name_: Hanoi (Ha Noi)<br>
 _geographic coordinates_: 21 02 N, 105 51 E<br>
 _time difference_: UTC+7 (12 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the city has had many names in its history going back to A.D. 1010 when it first became the capital of imperial Vietnam; in 1831, it received its current name of Ha Noi, meaning "between the rivers," which refers to its geographic location<br>
+_etymology_: the name means "inside the river," from the Vietnamese words <em>ha </em>(river) and <em>noi </em>(inside), and refers to its location in a bend of the Red River<br>
 
 **Administrative divisions**<br>
 <p>58 provinces (tinh, singular and plural) and 5 municipalities (thanh pho, singular and plural)</p> <p><strong>provinces:</strong> An Giang, Bac Giang, Bac Kan, Bac Lieu, Bac Ninh, Ba Ria-Vung Tau, Ben Tre, Binh Dinh, Binh Duong, Binh Phuoc, Binh Thuan, Ca Mau, Cao Bang, Dak Lak, Dak Nong, Dien Bien, Dong Nai, Dong Thap, Gia Lai, Ha Giang, Ha Nam, Ha Tinh, Hai Duong, Hau Giang, Hoa Binh, Hung Yen, Khanh Hoa, Kien Giang, Kon Tum, Lai Chau, Lam Dong, Lang Son, Lao Cai, Long An, Nam Dinh, Nghe An, Ninh Binh, Ninh Thuan, Phu Tho, Phu Yen, Quang Binh, Quang Nam, Quang Ngai, Quang Ninh, Quang Tri, Soc Trang, Son La, Tay Ninh, Thai Binh, Thai Nguyen, Thanh Hoa, Thua Thien-Hue, Tien Giang, Tra Vinh, Tuyen Quang, Vinh Long, Vinh Phuc, Yen Bai</p> <p><strong>municipalities:</strong> Can Tho, Da Nang, Ha Noi (Hanoi), Hai Phong, Ho Chi Minh City (Saigon)</p><br>
@@ -317,7 +311,7 @@ _etymology_: the city has had many names in its history going back to A.D. 1010 
 Independence Day (National Day), 2 September (1945)<br>
 
 **Legal system**<br>
-civil law system; note - the civil code of 2005 reflects a European-style civil law<br>
+civil law system with European influences<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 28 November 2013, effective 1 January 2014<br>
@@ -428,9 +422,9 @@ $429.717 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-3.25% (2023 est.)<br>
-3.16% (2022 est.)<br>
-1.83% (2021 est.)<br>
+3.6% (2024 est.)<br>
+3.3% (2023 est.)<br>
+3.2% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -466,19 +460,19 @@ food processing, garments, shoes, machine-building; mining, coal, steel; cement,
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-55.966 million (2023 est.)<br>
+57.133 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+1.4% (2024 est.)<br>
 1.6% (2023 est.)<br>
-1.54% (2022 est.)<br>
-2.39% (2021 est.)<br>
+1.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 6.2% (2023 est.)<br>
-_male_: 6.5% (2023 est.)<br>
-_female_: 5.9% (2023 est.)<br>
+_total_: 6.8% (2024 est.)<br>
+_male_: 7% (2024 est.)<br>
+_female_: 6.6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -557,15 +551,16 @@ $109.371 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$37.055 billion (2023 est.)<br>
+$34.426 billion (2023 est.)<br>
+<strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: dong (VND) per US dollar -<br>
+24,164.886 (2024 est.)<br>
 23,787.319 (2023 est.)<br>
-23,271.213 (2022 est.)<br>
+23,271.212 (2022 est.)<br>
 23,159.783 (2021 est.)<br>
 23,208.368 (2020 est.)<br>
-23,050.242 (2019 est.)<br>
 
 ## Energy
 
@@ -628,7 +623,7 @@ _domestic_: fixed-line is 3 per 100 and mobile-cellular is 140 per 100 (2021)<br
 _international_: country code - 84; landing points for the SeaMeWe-3, APG, SJC2, AAE-1, AAG and the TGN-IA submarine cable system providing connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia, Australia, and the US; telecom satellite earth stations - 2, (Vinasat 1 and Vinasat 2) (Indian Ocean region) (2023)<br>
 
 **Broadcast media**<br>
-government controls all broadcast media exercising oversight through the Ministry of Information and Communication (MIC); government-controlled national TV provider, Vietnam Television (VTV), operates a network of several channels with regional broadcasting centers; programming is relayed nationwide via a network of provincial and municipal TV stations; law limits access to satellite TV but many households are able to access foreign programming via home satellite equipment; government-controlled Voice of Vietnam, the national radio broadcaster, broadcasts on several channels and is repeated on AM, FM, and shortwave stations throughout Vietnam (2018)<br>
+state-controlled broadcast media, with oversight from the Ministry of Information and Communication (MIC); state-controlled national TV provider, Vietnam Television (VTV), has several channels with regional broadcasting centers; law limits access to satellite TV, but many access foreign programming via home satellite equipment; state-controlled Voice of Vietnam, the national radio broadcaster, broadcasts on several channels and is repeated on AM, FM, and shortwave stations&nbsp; (2018)<br>
 
 **Internet country code**<br>
 .vn<br>
@@ -642,12 +637,6 @@ _subscriptions per 100 inhabitants_: 23 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 5 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 224<br>
-_annual passenger traffic on registered air carriers_: 47,049,671 (2018)<br>
-_annual freight traffic on registered air carriers_: 481.37 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 VN<br>
 
@@ -657,21 +646,10 @@ VN<br>
 **Heliports**<br>
 26 (2025)<br>
 
-**Pipelines**<br>
-72 km condensate, 398 km condensate/gas, 955 km gas, 128 km oil, 33 km oil/gas/water, 206 km refined products, 13 km water (2013)<br>
-
 **Railways**<br>
 _total_: 2,600 km (2014)<br>
 _standard gauge_: 178 km (2014) 1.435-m gauge; 253 km mixed gauge<br>
 _narrow gauge_: 2,169 km (2014) 1.000-m gauge<br>
-
-**Roadways**<br>
-_total_: 195,468 km<br>
-_paved_: 148,338 km<br>
-_unpaved_: 47,130 km (2013)<br>
-
-**Waterways**<br>
-47,130 km (2011) (30,831 km weight under 50 tons)<br>
 
 **Merchant marine**<br>
 _total_: 1,973 (2022)<br>
@@ -689,7 +667,7 @@ _key ports_: Da Nang, Hai Phong, Nghe Tinh, Nha Trang, Thanh Ho Chi Minh, Vinh C
 ## Military and Security
 
 **Military and security forces**<br>
-People's Army of Vietnam (PAVN; aka Vietnam People's Army, VPA): Ground Forces, Navy (includes naval infantry), Air Defense Force, Border Defense Force, Vietnam Coast Guard<br><br>Vietnam People's Ministry of Public Security; Vietnam Civil Defense Force (2024)<br>
+People's Army of Vietnam (PAVN; aka Vietnam People's Army, VPA): Ground Forces (Army), Navy (includes naval infantry), Air Defense - Air Force, Vietnam Border Guard, Vietnam Coast Guard<br><br>Vietnam People's Ministry of Public Security; Vietnam Civil Defense Force (2025)<br>
 <strong>note 1:</strong> the People's Public Security Ministry is responsible for internal security and controls the national police, a special national security investigative agency, and other internal security units, including specialized riot police regiments<br><br><strong>note 2:</strong> the Vietnam Coast Guard was established in 1998 as the Vietnam Marine Police and renamed in 2013; Vietnam officially established a maritime self-defense force (civilian militia) in 2010 after the National Assembly passed the Law on Militia and Self-Defense Forces in 2009; the Vietnam Department of Fisheries Resources Surveillance (DFIRES; under the Ministry of Agriculture and Rural Development), established in 2013, is responsible for fisheries enforcement, aquatic conservation roles, and is designated as Vietnam's standing agency for combating illegal, unregulated, and unreported fishing; it is armed, allowed to use force if necessary, and works in tandem with the Vietnam Coast Guard<br>
 
 **Military expenditures**<br>
@@ -700,14 +678,14 @@ People's Army of Vietnam (PAVN; aka Vietnam People's Army, VPA): Ground Forces, 
 2.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information is limited and varied; estimated 450,000 active-duty troops; estimated 40,000 Border Defense Force and Coast Guard (2023)<br>
+approximately 450,000 active-duty PAVN personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the PAVN is armed largely with weapons and equipment from Russia and the former Soviet Union; in recent years, Vietnam has moved to diversify arms its arms suppliers and has acquired items from countries such as India, South Korea, and the US; Vietnam has a small defense industry involved in the manufacture of small arms, ground combat vehicles, and naval systems (2024)<br>
 <strong>note:</strong> the US lifted an embargo on arms sales to Vietnam in 2016<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory and voluntary military service for men and women (in practice only men are drafted); service obligation is between 24 (Army, Air Defense) and 36 (Navy and Air Force) months (2023)<br>
+18 years of age for compulsory and voluntary military service for men and women (in practice only men are drafted); service obligation is between 24 (Army, Air Defense) and 36 (Navy and Air Force) months (2024)<br>
 
 **Military deployments**<br>
 190 Abyei/South Sudan/Sudan (UNISFA) (2024)<br>

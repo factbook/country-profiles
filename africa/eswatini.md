@@ -96,10 +96,10 @@ _15-64 years_: 64.3% (male 341,298/female 390,884)<br>
 _65 years and over_: 4% (2024 est.) (male 16,974/female 28,765)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 64<br>
-_youth dependency ratio_: 57.4<br>
-_elderly dependency ratio_: 6.5<br>
-_potential support ratio_: 15.3 (2021 est.)<br>
+_total dependency ratio_: 55.4 (2024 est.)<br>
+_youth dependency ratio_: 49.2 (2024 est.)<br>
+_elderly dependency ratio_: 6.2 (2024 est.)<br>
+_potential support ratio_: 16 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 24.6 years (2024 est.)<br>
@@ -220,7 +220,7 @@ _female_: 12 years (2013)<br>
 ## Environment
 
 **Environment - current issues**<br>
-limited supplies of potable water; wildlife populations being depleted because of excessive hunting; population growth, deforestation, and overgrazing lead to soil erosion and soil degradation<br>
+limited supplies of potable water; overhunting depleting wildlife; population growth, deforestation, and overgrazing lead to soil erosion and soil degradation<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
@@ -243,12 +243,6 @@ _rate of urbanization_: 2.42% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to higher staple food prices - </em>the latest analysis indicates that nearly 259,000 people faced acute food insecurity between January and March 2023, an improvement compared to the previous year; food insecurity in 2022-23 is driven by high food prices and a slowdown in economic growth, curbing households’ income earning opportunities (2023)<br>
-
-**Revenue from forest resources**<br>
-2.25% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.1% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 15.07 micrograms per cubic meter (2019 est.)<br>
@@ -284,7 +278,7 @@ absolute monarchy<br>
 _name_: Mbabane (administrative capital); Lobamba (royal and legislative capital)<br>
 _geographic coordinates_: 26 19 S, 31 08 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named after a Swati chief, Mbabane KUNENE, who lived in the area at the onset of British settlement<br>
+_etymology_: the origin of the name is unclear; it may come from the Mbabane River next to the city, whose name is said to derive from the word <em>lubabe</em>, a type of shrub; another theory cites a local chief, Mbabane KUNENE, as the source of the name<br>
 
 **Administrative divisions**<br>
 4 regions; Hhohho, Lubombo, Manzini, Shiselweni<br>
@@ -296,7 +290,7 @@ _etymology_: named after a Swati chief, Mbabane KUNENE, who lived in the area at
 Independence Day (Somhlolo Day), 6 September (1968)<br>
 
 **Legal system**<br>
-mixed legal system of civil, common, and customary law<br>
+mixed system of civil, common, and customary law<br>
 
 **Constitution**<br>
 _history_: previous 1968, 1978; latest signed by the king 26 July 2005, effective 8 February 2006<br>
@@ -414,8 +408,8 @@ $4.443 billion (2023 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.6% (2019 est.)<br>
-4.82% (2018 est.)<br>
-6.22% (2017 est.)<br>
+4.8% (2018 est.)<br>
+6.2% (2017 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -448,19 +442,19 @@ soft drink concentrates, coal, forestry, sugar processing, textiles, and apparel
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-416,000 (2023 est.)<br>
+390,600 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-37.64% (2023 est.)<br>
-37.85% (2022 est.)<br>
-35.71% (2021 est.)<br>
+34.4% (2024 est.)<br>
+35.1% (2023 est.)<br>
+35.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 65% (2023 est.)<br>
-_male_: 62.4% (2023 est.)<br>
-_female_: 67.5% (2023 est.)<br>
+_total_: 58.2% (2024 est.)<br>
+_male_: 56% (2024 est.)<br>
+_female_: 60.3% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -488,10 +482,11 @@ _expenditures_: $1.183 billion (2021 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-36.25% of GDP (2021 est.)<br>
+36.2% of GDP (2021 est.)<br>
 
 **Taxes and other revenues**<br>
 24.7% (of GDP) (2021 est.)<br>
+<strong>note:</strong> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
 $107.534 million (2023 est.)<br>
@@ -534,16 +529,16 @@ $572.282 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$959.627 million (2023 est.)<br>
+$923.266 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: emalangeni per US dollar -<br>
+18.318 (2024 est.)<br>
 18.454 (2023 est.)<br>
 16.362 (2022 est.)<br>
 14.783 (2021 est.)<br>
 16.47 (2020 est.)<br>
-14.452 (2019 est.)<br>
 
 ## Energy
 
@@ -598,7 +593,7 @@ _domestic_: fixed-line stands at nearly 4 per 100 and mobile-cellular teledensit
 _international_: country code - 268; satellite earth station - 1 Intelsat (Atlantic Ocean)<br>
 
 **Broadcast media**<br>
-1 state-owned TV station; satellite dishes are able to access South African providers; state-owned radio network with 3 channels; 1 private radio station (2019)<br>
+1 state-owned TV station; satellite dishes can access South African providers; state-owned radio network with 3 channels; 1 private radio station (2019)<br>
 
 **Internet country code**<br>
 .sz<br>
@@ -624,11 +619,6 @@ _subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 **Railways**<br>
 _total_: 301 km (2014)<br>
 _narrow gauge_: 301 km (2014) 1.067-m gauge<br>
-
-**Roadways**<br>
-_total_: 4,594 km<br>
-_paved_: 1,500 km<br>
-_unpaved_: 3,000 km (2022)<br>
 
 ## Military and Security
 

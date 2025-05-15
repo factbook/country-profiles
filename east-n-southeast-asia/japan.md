@@ -74,7 +74,7 @@ all primary and secondary regions of high population density lie on the coast; o
 <p>many dormant and some active volcanoes; about 1,500 seismic occurrences (mostly tremors but occasional severe earthquakes) every year; tsunamis; typhoons</p><p><strong>volcanism:</strong> both Unzen (1,500 m) and Sakura-jima (1,117 m), which lies near the densely populated city of Kagoshima, have been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; other notable historically active volcanoes include Asama, Honshu Island's most active volcano, Aso, Bandai, Fuji, Iwo-Jima, Kikai, Kirishima, Komaga-take, Oshima, Suwanosejima, Tokachi, Yake-dake, and Usu; see note 2 under "Geography - note"</p><br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> strategic location in northeast Asia; composed of four main islands (the "Home Islands") -- Hokkaido, Honshu (the largest, most populous, and site of Tokyo, the capital), Shikoku, and Kyushu  <br><br><strong>note 2:</strong> a 2023 Geospatial Information Authority of Japan survey technically detected 100,000 islands and islets, but only the 14,125 islands with a circumference of at least 100 m (330 ft) were officially counted; only about 260 of the islands are inhabited</p> <p><strong>note 3:</strong> Japan annually records the most earthquakes in the world; it is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p><br>
+<p><strong>note 1:</strong> strategic location in northeast Asia; composed of four main islands (the "Home Islands") -- Hokkaido, Honshu (the largest, most populous, and site of Tokyo, the capital), Shikoku, and Kyushu  <br><br><strong>note 2:</strong> a 2023 Geospatial Information Authority of Japan survey detected 100,000 islands and islets, but only the 14,125 islands with a circumference of at least 100 m (330 ft) were officially counted; about 260 of the islands are inhabited</p> <p><strong>note 3:</strong> Japan annually records the most earthquakes in the world; it is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p><br>
 
 ## People and Society
 
@@ -105,10 +105,10 @@ _15-64 years_: 58.4% (male 36,197,840/female 35,777,966)<br>
 _65 years and over_: 29.5% (2024 est.) (male 15,976,233/female 20,309,321)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 71.1<br>
-_youth dependency ratio_: 20.1<br>
-_elderly dependency ratio_: 51<br>
-_potential support ratio_: 2 (2021 est.)<br>
+_total dependency ratio_: 71.2 (2024 est.)<br>
+_youth dependency ratio_: 20.8 (2024 est.)<br>
+_elderly dependency ratio_: 50.4 (2024 est.)<br>
+_potential support ratio_: 2 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 49.9 years (2024 est.)<br>
@@ -232,7 +232,7 @@ _female_: 15 years (2019)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution from power plant emissions results in acid rain; acidification of lakes and reservoirs degrading water quality and threatening aquatic life; Japan is one of the largest consumers of fish and tropical timber, contributing to the depletion of these resources in Asia and elsewhere; following the 2011 Fukushima nuclear disaster, Japan originally planned to phase out nuclear power, but it has now implemented a new policy of seeking to restart nuclear power plants that meet strict new safety standards; waste management is an ongoing issue; Japanese municipal facilities used to burn high volumes of trash, but air pollution issues forced the government to adopt an aggressive recycling policy<br>
+air pollution from power plants results in acid rain; acidification of lakes and reservoirs degrading water quality; waste management issues; ongoing environmental clean-up in small area of Fukushima after nuclear accident in 2011<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
@@ -252,12 +252,6 @@ _other_: 18.9% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 92% of total population (2023)<br>
 _rate of urbanization_: -0.25% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.02% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 10.84 micrograms per cubic meter (2019 est.)<br>
@@ -300,7 +294,7 @@ parliamentary constitutional monarchy<br>
 _name_: Tokyo<br>
 _geographic coordinates_: 35 41 N, 139 45 E<br>
 _time difference_: UTC+9 (14 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: originally known as Edo, meaning "estuary" in Japanese, the name was changed to Tokyo, meaning "eastern capital," in 1868<br>
+_etymology_: originally known as Edo, meaning "estuary" because of its location on a bay; the name was changed to Tokyo, meaning "eastern capital," in 1868, as a contrast to Kyoto, the previous capital to the west<br>
 
 **Administrative divisions**<br>
 47 prefectures; Aichi, Akita, Aomori, Chiba, Ehime, Fukui, Fukuoka, Fukushima, Gifu, Gunma, Hiroshima, Hokkaido, Hyogo, Ibaraki, Ishikawa, Iwate, Kagawa, Kagoshima, Kanagawa, Kochi, Kumamoto, Kyoto, Mie, Miyagi, Miyazaki, Nagano, Nagasaki, Nara, Niigata, Oita, Okayama, Okinawa, Osaka, Saga, Saitama, Shiga, Shimane, Shizuoka, Tochigi, Tokushima, Tokyo, Tottori, Toyama, Wakayama, Yamagata, Yamaguchi, Yamanashi<br>
@@ -312,7 +306,7 @@ _etymology_: originally known as Edo, meaning "estuary" in Japanese, the name wa
 Birthday of Emperor NARUHITO, 23 February (1960); note - celebrates the birthday of the current emperor<br>
 
 **Legal system**<br>
-civil law system based on German model; system also reflects Anglo-American influence and Japanese traditions; judicial review of legislative acts in the Supreme Court<br>
+civil law system based on German model; also reflects Anglo-American influence and Japanese traditions; Supreme Court reviews legislative acts<br>
 
 **Constitution**<br>
 _history_: previous 1890; latest approved 6 October 1946, adopted 3 November 1946, effective 3 May 1947<br>
@@ -410,7 +404,7 @@ _total World Heritage Sites_: 26 (21 cultural, 5 natural)<br>
 _selected World Heritage Site locales_: <p>Buddhist Monuments in the Horyu-ji Area (c); Historic Monuments of Ancient Nara (c); Himeji-jo (c); Shiretoko (n); Mozu-Furuichi Kofun Group: Mounded Tombs of Ancient Japan (c); Iwami Ginzan Silver Mine and its Cultural Landscape (c); Jomon Prehistoric Sites in Northern Japan (c); Yakushima (n); Historic Monuments of Ancient Kyoto (Kyoto, Uji and Otsu Cities)(c); Hiroshima Peace Memorial (Genbaku Dome) (c); Shirakami-Sanchi (n); Historic Villages of Shirakawa-go and Gokayama (c); Itsukushima Shinto Shrine (c); Historic Monuments of Ancient Nara (c); Shrines and Temples of Nikko (c); Gusuku Sites and Related Properties of the Kingdom of Ryukyu (c); Sacred Sites and Pilgrimage Routes in the Kii Mountain Range (c); Hiraizumi – Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land (c); Ogasawara Islands (n); Fujisan, sacred place and source of artistic inspiration (c); Tomioka Silk Mill and Related Sites (c); Sites of Japan’s Meiji Industrial Revolution: Iron and Steel, Shipbuilding and Coal Mining (c); The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement (c); Sacred Island of Okinoshima and Associated Sites in the Munakata Region (c); Hidden Christian Sites in the Nagasaki Region (c); Amami-Oshima Island, Tokunoshima Island, Northern part of Okinawa Island, and Iriomote Island (n); Jomon Prehistoric Sites in Northern Japan (c); Sado Island Gold Mines (c)</p><br>
 
 **National coat of arms**<br>
-The Kikumon is the Japanese emperor's family Coat of Arms and dates from 1183. The Imperial chrysanthemum emblem (菊の御紋, <em>kikunogomon</em>) symbol is a yellow or orange chrysanthemum with black or red outlines and background. A central disc is surrounded by a front set of 16 petals. A rear set of 16 petals are half-staggered in relation to the front set and are visible at the edges of the flower.<br>
+The Kikumon is the Japanese emperor's family coat of arms and dates from 1183. The Imperial chrysanthemum emblem (菊の御紋, <em>kikunogomon</em>) is a yellow or orange chrysanthemum with black or red outlines and background. A central disc is surrounded by a front set of 16 petals. A rear set of 16 petals are half-staggered in relation to the front set and are visible at the edges of the flower.<br>
 
 ## Economy
 
@@ -440,9 +434,9 @@ $4.204 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-3.27% (2023 est.)<br>
+2.7% (2024 est.)<br>
+3.3% (2023 est.)<br>
 2.5% (2022 est.)<br>
--0.23% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -478,19 +472,19 @@ motor vehicles, electronic equipment, machine tools, steel and nonferrous metals
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-69.208 million (2023 est.)<br>
+69.269 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.58% (2023 est.)<br>
+2.6% (2024 est.)<br>
+2.6% (2023 est.)<br>
 2.6% (2022 est.)<br>
-2.83% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.1% (2023 est.)<br>
-_male_: 4.5% (2023 est.)<br>
-_female_: 3.7% (2023 est.)<br>
+_total_: 3.9% (2024 est.)<br>
+_male_: 4.2% (2024 est.)<br>
+_female_: 3.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
@@ -509,15 +503,15 @@ _expenditures_: $892.184 billion (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants and social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-216.21% of GDP (2022 est.)<br>
+216.2% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 35.2% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
-$150.691 billion (2023 est.)<br>
-$90.277 billion (2022 est.)<br>
+$159.185 billion (2023 est.)<br>
+$90.152 billion (2022 est.)<br>
 $196.525 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
@@ -550,18 +544,18 @@ crude petroleum, natural gas, coal, integrated circuits, broadcasting equipment 
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$1.16 trillion (2024 est.)<br>
 $1.295 trillion (2023 est.)<br>
 $1.228 trillion (2022 est.)<br>
-$1.406 trillion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: yen (JPY) per US dollar -<br>
+151.366 (2024 est.)<br>
 140.491 (2023 est.)<br>
 131.498 (2022 est.)<br>
 109.754 (2021 est.)<br>
 106.775 (2020 est.)<br>
-109.01 (2019 est.)<br>
 
 ## Energy
 
@@ -633,7 +627,7 @@ _domestic_: 49 per 100 for fixed-line and 161 per 100 for mobile-cellular subscr
 _international_: country code - 81; numerous submarine cables with landing points for HSCS, JIH, RJCN, APCN-2, JUS, EAC-C2C, PC-1, Tata TGN-Pacific, FLAG North Asia Loop/REACH North Asia Loop, APCN-2, FASTER, SJC, SJC2, Unity/EAC-Pacific, JGA-N, APG, ASE, AJC, JUPITER, MOC, Okinawa Cellular Cable, KJCN, GOKI, KJCN, and SeaMeWE-3, submarine cables provide links throughout Asia, Australia, the Middle East, Europe, Southeast Asia, Africa&nbsp;and US; satellite earth stations - 7 Intelsat (Pacific and Indian Oceans), 1 Intersputnik (Indian Ocean region), 2 Inmarsat (Pacific and Indian Ocean regions), and 8 SkyPerfect JSAT (2019)<br>
 
 **Broadcast media**<br>
-a mixture of public and commercial broadcast TV and radio stations; 5 national terrestrial TV networks including 1 public broadcaster; the large number of radio and TV stations available provide a wide range of choices; satellite and cable services provide access to international channels (2023)<br>
+a mix of public and commercial TV and radio stations; 5 national terrestrial TV networks including 1 public broadcaster; large number of radio and TV stations; satellite and cable services provide access to international channels (2023)<br>
 
 **Internet country code**<br>
 .jp<br>
@@ -647,12 +641,6 @@ _subscriptions per 100 inhabitants_: 39 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 22 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 673<br>
-_annual passenger traffic on registered air carriers_: 126,387,527 (2018)<br>
-_annual freight traffic on registered air carriers_: 9,420,660,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 JA<br>
 
@@ -662,23 +650,12 @@ JA<br>
 **Heliports**<br>
 3,036 (2025)<br>
 
-**Pipelines**<br>
-4,456 km gas, 174 km oil, 104 km oil/gas/water (2013)<br>
-
 **Railways**<br>
 _total_: 27,311 km (2015)<br>
 _standard gauge_: 4,800 km (2015) 1.435-m gauge (4,800 km electrified)<br>
 _narrow gauge_: 124 km (2015) 1.372-m gauge (124 km electrified)<br>
 _dual gauge_: 132 km (2015) 1.435-1.067-m gauge (132 km electrified)<br>
 22,207 km 1.067-mm gauge (15,430 km electrified)<br>48 km 0.762-m gauge (48 km electrified)<br>
-
-**Roadways**<br>
-_total_: 1,218,772 km<br>
-_paved_: 992,835 km (includes 8,428 km of expressways)<br>
-_unpaved_: 225,937 km (2015)<br>
-
-**Waterways**<br>
-1,770 km (2010) (seagoing vessels use inland seas)<br>
 
 **Merchant marine**<br>
 _total_: 5,229 (2023)<br>
@@ -697,7 +674,7 @@ _key ports_: Kawasaki Ko, Kobe, Mikawa, Nagasaki, Nagoya Ko, Onomichi-Itozaki, O
 ## Military and Security
 
 **Military and security forces**<br>
-Japan Self-Defense Force (JSDF): Ground Self-Defense Force (Rikujou Jieitai, GSDF; includes aviation), Maritime Self-Defense Force (Kaijou Jieitai, MSDF; includes naval aviation), Air Self-Defense Force (Koukuu Jieitai, ASDF) (2024)<br>
+Japan Self-Defense Force (JSDF): Ground Self-Defense Force (Rikujou Jieitai, GSDF; includes aviation), Maritime Self-Defense Force (Kaijou Jieitai, MSDF; includes naval aviation), Air Self-Defense Force (Koukuu Jieitai, ASDF) (2025)<br>
 <strong>note:</strong> the Coast Guard is under the Ministry of Land, Infrastructure, Transport and Tourism; it is barred by law from operating as a military force, but in times of conflict Article 80 of the 1954 Self-Defense Forces Act permits the transfer of control of the coast guard to the Ministry of Defense with Cabinet approval<br>
 
 **Military expenditures**<br>
@@ -709,7 +686,7 @@ Japan Self-Defense Force (JSDF): Ground Self-Defense Force (Rikujou Jieitai, GSD
 <strong>note:</strong> the Japanese Government in 2022 pledged to increase defense expenditures to 2% of GDP in line with NATO standards by March 2028; if the planned increase occurs, Japan would have the world's third largest defense budget<br>
 
 **Military and security service personnel strengths**<br>
-approximately 230-240,000 active personnel (145-150,000 Ground; 40-45,000 Maritime; 40-45,000 Air); 14,000 Coast Guard (2023)<br>
+approximately 230-240,000 active Self Defense Force personnel (145-150,000 Ground; 40-45,000 Maritime; 40-45,000 Air) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the JSDF is equipped with a mix of imported and domestically produced equipment; Japan has a robust defense industry and is capable of producing a wide range of air, ground, and naval weapons systems; the majority of its weapons imports are from the US and some domestically produced weapons are US-origin and manufactured under license (2024)<br>

@@ -107,10 +107,10 @@ _15-64 years_: 67.1% (male 55,071,592/female 58,180,322)<br>
 _65 years and over_: 7.8% (2024 est.) (male 6,096,167/female 7,007,898)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 47.7<br>
-_youth dependency ratio_: 39.1<br>
-_elderly dependency ratio_: 8.6<br>
-_potential support ratio_: 11.6 (2021 est.)<br>
+_total dependency ratio_: 49 (2024 est.)<br>
+_youth dependency ratio_: 37.4 (2024 est.)<br>
+_elderly dependency ratio_: 11.6 (2024 est.)<br>
+_potential support ratio_: 8.6 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 29.6 years (2024 est.)<br>
@@ -236,7 +236,7 @@ _female_: 13 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-many people are landless and forced to live on and cultivate flood-prone land; waterborne diseases prevalent in surface water; water pollution, especially of fishing areas, results from the use of commercial pesticides; ground water contaminated by naturally occurring arsenic; intermittent water shortages because of falling water tables in the northern and central parts of the country; soil degradation and erosion; deforestation; destruction of wetlands; severe overpopulation with noise pollution<br>
+flooding; water pollution, especially of fishing areas, from the use of commercial pesticides; groundwater pollution from naturally occurring arsenic; falling water tables in the northern and central parts of the country; soil degradation and erosion; deforestation; destruction of wetlands; severe overpopulation with noise pollution<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -259,12 +259,6 @@ _rate of urbanization_: 2.88% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to economic constraints and high prices of important food items -</em> food insecurity is expected to remain fragile, given persisting economic constraints; domestic prices of wheat flour and palm oil, important food items, were at high levels in May 2023 (2023)<br>
-
-**Revenue from forest resources**<br>
-0.08% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.02% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 45.99 micrograms per cubic meter (2019 est.)<br>
@@ -308,7 +302,7 @@ parliamentary republic<br>
 _name_: Dhaka<br>
 _geographic coordinates_: 23 43 N, 90 24 E<br>
 _time difference_: UTC+6 (11 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the origins of the name are unclear, but it may be derived from either the dhak tree or Dhakeshwari, a goddess with a shrine in the city&nbsp;<br>
+_etymology_: the origins of the name are unclear, but it may be derived from either the dhak tree or Dhakeshwari, a goddess with a shrine in the city<br>
 
 **Administrative divisions**<br>
 8 divisions; Barishal, Chattogram, Dhaka, Khulna, Mymensingh, Rajshahi, Rangpur, Sylhet<br>
@@ -320,7 +314,7 @@ _etymology_: the origins of the name are unclear, but it may be derived from eit
 Independence Day, 26 March (1971); Victory Day, 16 December (1971); note - 26 March 1971 is the date of the Awami League's declaration of an independent Bangladesh, and 16 December (Victory Day) memorializes the military victory over Pakistan and the official creation of the state of Bangladesh<br>
 
 **Legal system**<br>
-common law; since independence, statutory law enacted by the Parliament of Bangladesh has been the primary form of legislation; Bangladeshi law incorporates elements of English common law; Islamic law applies to Bangladeshi Muslims in family and inheritance laws, with Hindu personal law applying to Bangladeshi Hindus and Buddhists&nbsp;&nbsp;<br>
+common law, incorporating elements of English common law; since independence, statutory law has been the primary form of legislation; Islamic law applies to Muslims in family and inheritance laws, with Hindu personal law applying to Hindus and Buddhists<br>
 
 **Constitution**<br>
 _history_: previous 1935, 1956, 1962 (pre-independence); latest enacted 4 November 1972, effective 16 December 1972, suspended March 1982, restored November 1986<br>
@@ -422,9 +416,9 @@ $437.415 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-9.88% (2023 est.)<br>
+10.5% (2024 est.)<br>
+9.9% (2023 est.)<br>
 7.7% (2022 est.)<br>
-5.55% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -460,19 +454,19 @@ cotton, textiles and clothing, jute, tea, paper, cement, fertilizer, sugar, ligh
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-71.445 million (2023 est.)<br>
+77.355 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.06% (2023 est.)<br>
-5.25% (2022 est.)<br>
-5.82% (2021 est.)<br>
+4.7% (2024 est.)<br>
+4.5% (2023 est.)<br>
+4.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.7% (2023 est.)<br>
-_male_: 13.5% (2023 est.)<br>
-_female_: 20.4% (2023 est.)<br>
+_total_: 11.5% (2024 est.)<br>
+_male_: 13.7% (2024 est.)<br>
+_female_: 9.2% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -507,18 +501,18 @@ _expenditures_: $34.538 billion (2021 est.)<br>
 33.1% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-7.64% (of GDP) (2021 est.)<br>
+7.6% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$4.388 billion (2023 est.)<br>
--$14.438 billion (2022 est.)<br>
+-$7.2 billion (2023 est.)<br>
+-$17.532 billion (2022 est.)<br>
 -$15.775 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$58.885 billion (2023 est.)<br>
-$60.066 billion (2022 est.)<br>
+$47.287 billion (2023 est.)<br>
+$56.794 billion (2022 est.)<br>
 $49.291 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
@@ -531,8 +525,8 @@ garments, footwear, fabric, textiles, trunks and cases (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$73.172 billion (2023 est.)<br>
-$93.635 billion (2022 est.)<br>
+$72.996 billion (2023 est.)<br>
+$93.457 billion (2022 est.)<br>
 $85.299 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
@@ -545,22 +539,22 @@ refined petroleum, cotton fabric, natural gas, cotton, fabric (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$20.225 billion (2024 est.)<br>
 $21.86 billion (2023 est.)<br>
 $33.747 billion (2022 est.)<br>
-$46.166 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$63.056 billion (2023 est.)<br>
+$58.02 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: taka (BDT) per US dollar -<br>
+115.801 (2024 est.)<br>
 106.309 (2023 est.)<br>
 91.745 (2022 est.)<br>
 85.084 (2021 est.)<br>
 84.871 (2020 est.)<br>
-84.454 (2019 est.)<br>
 
 ## Energy
 
@@ -620,12 +614,12 @@ _total subscriptions_: 191 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 105 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Bangladesh&rsquo;s economic resurgence over the last decade took a battering in 2020 and 2021 as a result of the Covid-19 pandemic; the country had been on track to move off the United Nation&rsquo;s Least Developed Countries list by 2026, however the crisis may have pushed that back a few years; the telecommunications sector experienced a set of challenges, with mobile data usage exploding at the same time as many consumers were being forced to curb their spending in other areas; the demand on data grew so large and so rapidly that Bangladesh came close to running out of bandwidth; at the start of 2020, Bangladesh was consuming around 900Gb/s on average, well below the 2,642GB/s capacity of its submarine cables; this ballooned to over 2,300Gb/s during the pandemic; Bangladesh was looking forward to adding 7,200Gb/s capacity when the SEA-ME-WE-6 submarine cable goes into service in mid-2024, but the sudden upsurge in downloads is forcing state-run company Bangladesh Submarine Cable Company Limited (BSCCL) to scramble to find alternatives before the country&rsquo;s internet supply is maxed out; the increased demand during the Covid-19 crisis also put pressure on the country&rsquo;s existing mobile networks, already under strain as a result of strong growth in the mobile broadband market coupled with significant untapped potential for mobile services in general across the country; this led to premium prices being paid at auction for spectrum in the 1800MHz and 2100MHz bands, most of which will be used to enhance and expand LTE services; a 5G spectrum auction had been anticipated for 2020, but low interest from the MNOs in going down that path when there are still so many areas waiting for LTE access means that 5G&nbsp; will likely be deferred until 2023 (2021)<br>
+_general assessment_: the telecommunications sector has experienced challenges, with mobile data usage exploding at the same time as many consumers being forced to curb their spending; the demand on data grew so large and so rapidly that Bangladesh came close to running out of bandwidth; at the start of 2020, Bangladesh was consuming around 900Gb/s on average, well below the 2,642GB/s capacity of its submarine cables; this ballooned to over 2,300Gb/s during the COVID pandemic; Bangladesh was looking forward to adding 7,200Gb/s capacity when the SEA-ME-WE-6 submarine cable goes into service in mid-2024, but the sudden upsurge in downloads is forcing state-run company Bangladesh Submarine Cable Company Limited (BSCCL) to scramble to find alternatives before the country&rsquo;s internet supply is maxed out; the increased demand during the Covid-19 crisis also put pressure on the country&rsquo;s existing mobile networks, already under strain as a result of strong growth in the mobile broadband market; this led to premium prices paid at auction for spectrum in the 1800MHz and 2100MHz bands, most of which will be used to enhance and expand LTE services; a 5G spectrum auction had been anticipated for 2020, but low interest from the MNOs means that 5G will likely be deferred until 2023 (2021)<br>
 _domestic_: fixed-line teledensity remains less than 1 per 100 persons; mobile-cellular telephone subscribership has been increasing rapidly and now exceeds 107 per 100 persons; mobile subscriber growth is anticipated over the next five years to 2023 (2021)<br>
 _international_: country code - 880; landing points for the SeaMeWe-4 and SeaMeWe-5 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; satellite earth stations - 6; international radiotelephone communications and landline service to neighboring countries (2019)<br>
 
 **Broadcast media**<br>
-state-owned Bangladesh Television (BTV) broadcasts throughout the country. Some channels, such as BTV World, operate via satellite. The government also owns a medium wave radio channel and some private FM radio broadcast news channels. Of the 41 Bangladesh approved TV stations, 26 are currently being used to broadcast. Of those, 23 operate under private management via cable distribution. Collectively, TV channels can reach more than 50 million people across the country.<br>
+state-owned Bangladesh Television (BTV) broadcasts nationally; some channels operate via satellite; the government also owns a medium-wave radio channel and some private FM radio news channels; of the 41 approved TV stations, 26 are currently being used to broadcast, and 23 operate under private management via cable distribution<br>
 
 **Internet country code**<br>
 .bd<br>
@@ -639,12 +633,6 @@ _subscriptions per 100 inhabitants_: 8 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 6 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 30<br>
-_annual passenger traffic on registered air carriers_: 5,984,155 (2018)<br>
-_annual freight traffic on registered air carriers_: 63.82 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 S2<br>
 
@@ -654,21 +642,10 @@ S2<br>
 **Heliports**<br>
 36 (2025)<br>
 
-**Pipelines**<br>
-2,950 km gas (2013)<br>
-
 **Railways**<br>
 _total_: 2,460 km (2014)<br>
 _narrow gauge_: 1,801 km (2014) 1.000-m gauge<br>
 _broad gauge_: 659 km (2014) 1.676-m gauge<br>
-
-**Roadways**<br>
-_total_: 369,105 km<br>
-_paved_: 110,311 km<br>
-_unpaved_: 258,794 km (2018)<br>
-
-**Waterways**<br>
-8,370 km (2011) (includes up to 3,060 km of main cargo routes; network reduced to 5,200 km in the dry season)<br>
 
 **Merchant marine**<br>
 _total_: 558 (2023)<br>
@@ -697,7 +674,7 @@ Armed Forces of Bangladesh (aka Bangladesh Defense Force): Bangladesh Army, Bang
 1.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 175,000 total active personnel (140,000 Army; 20,000 Navy; 15,000 Air Force) (2024)<br>
+information varies; approximately 170,000 active Armed Forces personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 much of the military's inventory is comprised of Chinese- and Russian-origin equipment; in recent years, China has been the leading provider of arms to Bangladesh (2024)<br>

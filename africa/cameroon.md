@@ -78,7 +78,7 @@ population concentrated in the west and north, with the interior of the country 
 <p>volcanic activity with periodic releases of poisonous gases from Lake Nyos and Lake Monoun volcanoes</p><p><strong>volcanism:</strong> Mt. Cameroon (4,095 m), which last erupted in 2000, is the most frequently active volcano in West Africa; lakes in Oku volcanic field have released fatal levels of gas on occasion, killing some 1,700 people in 1986</p><br>
 
 **Geography - note**<br>
-sometimes referred to as the hinge of Africa because of its central location on the continent and its position at the west-south juncture of the Gulf of Guinea; throughout the country there are areas of thermal springs and indications of current or prior volcanic activity; Mount Cameroon, the highest mountain in Sub-Saharan west Africa, is an active volcano<br>
+sometimes referred to as the hinge of Africa because of its central location on the continent and its position at the west-south juncture of the Gulf of Guinea; areas of thermal springs and indications of current or prior volcanic activity; Mount Cameroon, the highest mountain in Sub-Saharan west Africa, is an active volcano<br>
 
 ## People and Society
 
@@ -107,10 +107,10 @@ _15-64 years_: 55.3% (male 8,488,522/female 8,638,519)<br>
 _65 years and over_: 3.2% (2024 est.) (male 463,628/female 533,011)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 82.3<br>
-_youth dependency ratio_: 77.3<br>
-_elderly dependency ratio_: 4.9<br>
-_potential support ratio_: 20.3 (2021 est.)<br>
+_total dependency ratio_: 80.8 (2024 est.)<br>
+_youth dependency ratio_: 75 (2024 est.)<br>
+_elderly dependency ratio_: 5.8 (2024 est.)<br>
+_potential support ratio_: 17.2 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 18.9 years (2024 est.)<br>
@@ -240,7 +240,7 @@ _female_: 11 years (2016)<br>
 ## Environment
 
 **Environment - current issues**<br>
-waterborne diseases are prevalent; deforestation and overgrazing result in erosion, desertification, and reduced quality of pastureland; poaching; overfishing; overhunting<br>
+deforestation; overgrazing; soil erosion; desertification; poaching; overfishing; overhunting<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -263,12 +263,6 @@ _rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to civil insecurity and high food prices - </em>according to a March 2023 analysis, about 3 million people were estimated to be acutely food insecure between March and August 2023, as a result of conflict, sociopolitical unrest and high food prices, as well as floods that caused population displacements and damaged standing crops (2023)<br>
-
-**Revenue from forest resources**<br>
-2.5% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 56.37 micrograms per cubic meter (2019 est.)<br>
@@ -326,7 +320,7 @@ _etymology_: Germans founded the city in 1888, but the name comes from the nativ
 State Unification Day (National Day), 20 May (1972)<br>
 
 **Legal system**<br>
-mixed legal system of English common law, French civil law, and customary law<br>
+mixed system of English common law, French civil law, and customary law<br>
 
 **Constitution**<br>
 _history_: several previous; latest effective 18 January 1996<br>
@@ -446,9 +440,9 @@ $49.279 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-7.38% (2023 est.)<br>
-6.25% (2022 est.)<br>
-2.27% (2021 est.)<br>
+7.4% (2023 est.)<br>
+6.2% (2022 est.)<br>
+2.3% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -484,19 +478,19 @@ petroleum production and refining, aluminum production, food processing, light c
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-11.89 million (2023 est.)<br>
+11.119 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.65% (2023 est.)<br>
-3.69% (2022 est.)<br>
-3.95% (2021 est.)<br>
+3.5% (2024 est.)<br>
+3.6% (2023 est.)<br>
+3.7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 6.4% (2023 est.)<br>
-_male_: 6% (2023 est.)<br>
-_female_: 7% (2023 est.)<br>
+_total_: 6.2% (2024 est.)<br>
+_male_: 5.9% (2024 est.)<br>
+_female_: 6.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -531,19 +525,19 @@ _expenditures_: $5.592 billion (2021 est.)<br>
 36.9% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-11.34% (of GDP) (2021 est.)<br>
+11.3% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$2.019 billion (2023 est.)<br>
 -$1.505 billion (2022 est.)<br>
 -$1.794 billion (2021 est.)<br>
--$1.512 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$8.353 billion (2023 est.)<br>
 $8.641 billion (2022 est.)<br>
 $7.447 billion (2021 est.)<br>
-$6.124 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -555,9 +549,9 @@ crude petroleum, natural gas, gold, cocoa beans, wood (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$10.294 billion (2023 est.)<br>
 $9.759 billion (2022 est.)<br>
 $9.025 billion (2021 est.)<br>
-$7.212 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -569,22 +563,22 @@ garments, refined petroleum, plastic products, wheat, rice (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$4.882 billion (2023 est.)<br>
 $5.133 billion (2022 est.)<br>
 $4.3 billion (2021 est.)<br>
-$3.962 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$11.811 billion (2023 est.)<br>
+$11.112 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
+606.345 (2024 est.)<br>
 606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
-585.911 (2019 est.)<br>
 
 ## Energy
 
@@ -644,7 +638,7 @@ _domestic_: only a little above 3 per 100 persons for fixed-line subscriptions; 
 _international_: country code - 237; landing points for the SAT-3/WASC, SAIL, ACE, NCSCS, Ceiba-2, and WACS&nbsp;fiber-optic submarine cable that provides connectivity to Europe, South America, and West Africa; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-government maintains tight control over broadcast media; state-owned Cameroon Radio Television (CRTV), broadcasting on both a TV and radio network, was the only officially recognized and fully licensed broadcaster until August 2007, when the government issued licenses to 2 private TV broadcasters and 1 private radio broadcaster; about 70 privately owned, unlicensed radio stations operate under &ldquo;administrative tolerance,&rdquo; meaning the stations could be subject to closure at any time (2019)<br>
+government maintains tight control over broadcast media; state-owned Cameroon Radio Television (CRTV), with both TV and radio broadcasts, was the only officially recognized and fully licensed broadcaster until 2007, when the government issued licenses to 2 private TV broadcasters and 1 private radio broadcaster; about 70 privately owned, unlicensed radio stations operate under &ldquo;administrative tolerance,&rdquo; meaning the stations could be subject to closure at any time (2019)<br>
 
 **Internet country code**<br>
 .cm<br>
@@ -658,12 +652,6 @@ _subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 3<br>
-_annual passenger traffic on registered air carriers_: 265,136 (2018)<br>
-_annual freight traffic on registered air carriers_: 70,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 TJ<br>
 
@@ -673,21 +661,10 @@ TJ<br>
 **Heliports**<br>
 1 (2025)<br>
 
-**Pipelines**<br>
-53 km gas, 5 km liquid petroleum gas, 1,107 km oil, 35 km water (2013)<br>
-
 **Railways**<br>
 _total_: 987 km (2014)<br>
 _narrow gauge_: 987 km (2014) 1.000-m gauge<br>
 <strong>note:</strong> railway connections generally efficient but limited; rail lines connect major cities of Douala, Yaounde, Ngaoundere, and Garoua; passenger and freight service provided by CAMRAIL<br>
-
-**Roadways**<br>
-_total_: 77,589 km<br>
-_paved_: 5,133 km<br>
-_unpaved_: 72,456 km (2019)<br>
-
-**Waterways**<br>
-(2010) (major rivers in the south, such as the Wouri and the Sanaga, are largely non-navigable; in the north, the Benue, which connects through Nigeria to the Niger River, is navigable in the rainy season only to the port of Garoua)<br>
 
 **Merchant marine**<br>
 _total_: 198 (2023)<br>
@@ -706,7 +683,7 @@ _key ports_: Douala, Ebome Marine Terminal, Kole Oil Terminal, Kome Kribi 1 Mari
 ## Military and Security
 
 **Military and security forces**<br>
-Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army (L'Armee de Terre), Navy (Marine Nationale Republique, MNR, includes naval infantry or fusiliers marin), Air Force (Armee de l'Air du Cameroun, AAC), National Gendarmerie (Gendamerie Nationale, GN), National Firefighting Corps (Corps National de Sapeurs-Pompiers, CNSP), Presidential Guard (Garde Présidentielle du Cameroun, GP)<br><br>General Delegation for National Security (Délégation Générale à la Sûreté Nationale or DGSN): Cameroon Police (2024)<br>
+Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army, Cameroon Navy (includes naval infantry or fusiliers marin), Air Force, National Gendarmerie, National Firefighting Corps<br><br>General Delegation for National Security (Délégation Générale à la Sûreté Nationale or DGSN): Cameroon Police (2025)<br>
 <strong>note 1:</strong> the Army includes the Rapid Intervention Brigade (Brigade d’Intervention Rapide or BIR), which maintains its own command and control structure and reports directly to the Chief of Defense staff and the Presidency; the BIR includes airborne/airmobile, amphibious, armored reconnaissance, artillery, and counterterrorism forces, as well as support elements, such as intelligence <br><br><strong>note 2:</strong> the Cameroon Police and the National Gendarmerie are responsible for internal security; the Gendarmerie conducts administrative, criminal, and military investigative functions; other missions include customs, air and maritime surveillance, and road traffic control; in times of conflict, it participates in internal defense<br>
 
 **Military expenditures**<br>
@@ -717,7 +694,7 @@ Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army (L'Armee de Terre
 1.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 40-45,000 active-duty FAC troops, including about 10-12,000 BIR; approximately 10,000 Gendarmerie (2023)<br>
+estimated 40-50,000 active FAC troops, including the Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAC inventory is comprised of weapons and equipment from a variety of countries, including China, Israel, Russia/former Soviet Union, South Africa, the US, and some Western European countries, particularly France (2024)<br>

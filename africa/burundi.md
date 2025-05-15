@@ -104,10 +104,10 @@ _15-64 years_: 54.4% (male 3,662,688/female 3,727,022)<br>
 _65 years and over_: 3.4% (2024 est.) (male 197,493/female 259,338)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 95.2<br>
-_youth dependency ratio_: 90.4<br>
-_elderly dependency ratio_: 4.8<br>
-_potential support ratio_: 20.7 (2021 est.)<br>
+_total dependency ratio_: 83.9 (2024 est.)<br>
+_youth dependency ratio_: 77.7 (2024 est.)<br>
+_elderly dependency ratio_: 6.2 (2024 est.)<br>
+_potential support ratio_: 16.2 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 18.4 years (2024 est.)<br>
@@ -237,7 +237,7 @@ _female_: 11 years (2018)<br>
 ## Environment
 
 **Environment - current issues**<br>
-soil erosion as a result of overgrazing and the expansion of agriculture into marginal lands; deforestation (little forested land remains because of uncontrolled cutting of trees for fuel); habitat loss threatens wildlife populations<br>
+soil erosion from overgrazing and agricultural expansion; deforestation; wildlife habitat loss<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Wetlands<br>
@@ -260,12 +260,6 @@ _rate of urbanization_: 5.43% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to the effects of weather - </em>according to the latest estimates, about 1.2 million people are estimated to be facing Crisis levels of acute food insecurity between June and September 2023, unchanged year on year; the main drivers are the lingering impact of floods in northern areas in late 2022 and high food prices due, in part, to the depreciation of the local currency (2023)<br>
-
-**Revenue from forest resources**<br>
-10.31% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 28 micrograms per cubic meter (2019 est.)<br>
@@ -436,9 +430,9 @@ $2.642 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-26.94% (2023 est.)<br>
+20.2% (2024 est.)<br>
+26.9% (2023 est.)<br>
 18.8% (2022 est.)<br>
-8.4% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -468,19 +462,19 @@ light consumer goods (sugar, shoes, soap, beer); cement, assembly of imported co
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.894 million (2023 est.)<br>
+6.107 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-0.93% (2023 est.)<br>
-0.92% (2022 est.)<br>
-1.11% (2021 est.)<br>
+0.9% (2024 est.)<br>
+0.9% (2023 est.)<br>
+0.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 1.7% (2023 est.)<br>
-_male_: 2.2% (2023 est.)<br>
-_female_: 1.3% (2023 est.)<br>
+_total_: 1.6% (2024 est.)<br>
+_male_: 2.1% (2024 est.)<br>
+_female_: 1.2% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -507,7 +501,8 @@ _expenditures_: $506.147 million (2021 est.)<br>
 51.7% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-15.64% (of GDP) (2021 est.)<br>
+15.6% (of GDP) (2021 est.)<br>
+<strong>note:</strong> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
 -$625.597 million (2023 est.)<br>
@@ -550,7 +545,7 @@ $266.164 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$858.402 million (2023 est.)<br>
+$805.174 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -631,13 +626,6 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 **Airports**<br>
 6 (2025)<br>
 
-**Roadways**<br>
-_total_: 12,000 km<br>
-_paved_: 1,500 km (2020)<br>
-
-**Waterways**<br>
-673 km (2022) (mainly on Lake Tanganyika between Bujumbura, Burundi's principal port, and lake ports in Tanzania, Zambia, and the Democratic Republic of the Congo)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>
@@ -652,7 +640,7 @@ Burundi National Defense Force (BNDF; Force de Defense Nationale du Burundi or F
 3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 30,000 active-duty troops (2024)<br>
+estimated 25-30,000 active-duty troops (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military has a mix of mostly older weapons and equipment typically of French, Russian, and Soviet origin, and a smaller selection of more modern secondhand equipment from such countries as China, South Africa, and the US (2024)<br>
@@ -661,7 +649,7 @@ the military has a mix of mostly older weapons and equipment typically of French
 18 years of age for voluntary military service for men and women (2023)<br>
 
 **Military deployments**<br>
-760 Central African Republic (MINUSCA) (2024)<br>
+770 Central African Republic (MINUSCA); estimated to have up to 10,000 in Democratic Republic of the Congo (2025)<br>
 <strong>note: </strong>Burundi deployed military troops to the Democratic Republic of the Congo (DRC) in 2022 as part of an East African regional force; as of 2025, a contingent remained in the DRC<br>
 
 **Military - note**<br>

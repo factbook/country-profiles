@@ -97,10 +97,10 @@ _15-64 years_: 67.9% (male 38,046/female 41,059)<br>
 _65 years and over_: 5.4% (2024 est.) (male 2,423/female 3,818)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 66.4<br>
-_youth dependency ratio_: 60.2<br>
-_elderly dependency ratio_: 6.2<br>
-_potential support ratio_: 16.1 (2021 est.)<br>
+_total dependency ratio_: 47.3 (2024 est.)<br>
+_youth dependency ratio_: 39.4 (2024 est.)<br>
+_elderly dependency ratio_: 7.9 (2024 est.)<br>
+_potential support ratio_: 12.7 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 27.3 years (2024 est.)<br>
@@ -224,7 +224,7 @@ _female_: NA<br>
 ## Environment
 
 **Environment - current issues**<br>
-heavy pollution in lagoon of south Tarawa atoll due to overcrowding mixed with traditional practices such as lagoon latrines and open-pit dumping; ground water at risk; potential for water shortages, disease; coastal erosion<br>
+heavy pollution in lagoon of south Tarawa atoll due to overcrowding mixed with traditional practices such as lagoon latrines and open-pit dumping; coastal erosion<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
@@ -244,12 +244,6 @@ _other_: 56.6% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 57.8% of total population (2023)<br>
 _rate of urbanization_: 2.77% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.04% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 7.62 micrograms per cubic meter (2019 est.)<br>
@@ -281,7 +275,7 @@ _name_: Tarawa<br>
 _geographic coordinates_: 1 21 N, 173 02 E<br>
 _time difference_: UTC+12 (17 hours ahead of Washington, DC, during Standard Time)<br>
 _time zone note_: Kiribati has three time zones: the Gilbert Islands group at UTC+12, the Phoenix Islands at UTC+13, and the Line Islands at UTC+14<br>
-_etymology_: in Kiribati creation mythology, "tarawa" was what the spider Nareau named the land to distinguish it from "karawa" (the sky) and "marawa" (the ocean)<br>
+_etymology_: the name is said to derive from the I-Kiribati words <em>te </em>(the) and <em>rawa </em>(run), referring to a channel through a nearby reef<br>
 
 **Administrative divisions**<br>
 3 geographical units: Gilbert Islands, Line Islands, Phoenix Islands; note - there are no first-order administrative divisions, but there are 6 districts (Banaba, Central Gilberts, Line Islands, Northern Gilberts, Southern Gilberts, Tarawa) and 21 island councils - one for each of the inhabited islands (Abaiang, Abemama, Aranuka, Arorae, Banaba, Beru, Butaritari, Kanton, Kiritimati, Kuria, Maiana, Makin, Marakei, Nikunau, Nonouti, Onotoa, Tabiteuea, Tabuaeran, Tamana, Tarawa, Teraina)<br>
@@ -395,9 +389,9 @@ $279.209 million (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-9.28% (2023 est.)<br>
-5.35% (2022 est.)<br>
-2.05% (2021 est.)<br>
+9.3% (2023 est.)<br>
+5.3% (2022 est.)<br>
+2.1% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -458,7 +452,7 @@ _expenditures_: $221.12 million (2022 est.)<br>
 26.3% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-18.31% (of GDP) (2023 est.)<br>
+18.3% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -497,11 +491,11 @@ ships, centrifuges, refined petroleum, rice, raw sugar (2023)<br>
 
 **Exchange rates**<br>
 _Currency_: Australian dollars (AUD) per US dollar -<br>
+1.515 (2024 est.)<br>
 1.505 (2023 est.)<br>
 1.442 (2022 est.)<br>
 1.331 (2021 est.)<br>
 1.453 (2020 est.)<br>
-1.439 (2019 est.)<br>
 <strong>note:</strong> the Australian dollar circulates as legal tender<br>
 
 ## Energy
@@ -560,22 +554,11 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 8<br>
-_annual passenger traffic on registered air carriers_: 66,567 (2018)<br>
-
 **Civil aircraft registration country code prefix**<br>
 T3<br>
 
 **Airports**<br>
 21 (2025)<br>
-
-**Roadways**<br>
-_total_: 670 km (2017)<br>
-
-**Waterways**<br>
-5 km (2012) (small network of canals in Line Islands)<br>
 
 **Merchant marine**<br>
 _total_: 74 (2023)<br>
@@ -593,7 +576,7 @@ _key ports_: Canton Island, English Harbor, Tarawa Atoll<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Kiribati Police and Prison Service (Ministry of Justice) (2024)<br>
+Kiribati Police Service (includes Maritime Police) (2025)<br>
 
 **Military - note**<br>
 Australia, NZ, and the US have provided security assistance; Kiribati has a "ship rider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Kiribati's designated exclusive economic zone (EEZ) or on the high seas; ship rider agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>

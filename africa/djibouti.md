@@ -73,7 +73,7 @@ most densely populated areas are in the east; the largest city is Djibouti, with
 <p>earthquakes; droughts; occasional cyclonic disturbances from the Indian Ocean bring heavy rains and flash floods</p><p><strong>volcanism:</strong> experiences limited volcanic activity; Ardoukoba (298 m) last erupted in 1978; Manda-Inakir, located along the Ethiopian border, is also historically active</p><br>
 
 **Geography - note**<br>
-strategic location near world's busiest shipping lanes and close to Arabian oilfields; terminus of rail traffic into Ethiopia; mostly wasteland; Lac Assal (Lake Assal) is the lowest point in Africa and the saltiest lake in the world<br>
+strategic location near world's busiest shipping lanes and close to Arabian oilfields; Lac Assal (Lake Assal) is the lowest point in Africa and the saltiest lake in the world<br>
 
 ## People and Society
 
@@ -101,10 +101,10 @@ _15-64 years_: 67.4% (male 290,654/female 379,778)<br>
 _65 years and over_: 4.2% (2024 est.) (male 18,313/female 23,704)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 50.6<br>
-_youth dependency ratio_: 47.5<br>
-_elderly dependency ratio_: 6.9<br>
-_potential support ratio_: 14.4 (2021 est.)<br>
+_total dependency ratio_: 48.4 (2024 est.)<br>
+_youth dependency ratio_: 42.1 (2024 est.)<br>
+_elderly dependency ratio_: 6.3 (2024 est.)<br>
+_potential support ratio_: 16 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 26.3 years (2024 est.)<br>
@@ -247,12 +247,6 @@ _rate of urbanization_: 1.56% annual rate of change (2020-25 est.)<br>
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to unfavorable weather and high food prices - </em>about 250,000 people were estimated to have faced acute food insecurity between March and June 2023, mainly due to the lingering impact of a prolonged and severe drought between late 2020 and early 2023, and high food prices (2023)<br>
 
-**Revenue from forest resources**<br>
-0.26% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 19.98 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 0.62 megatons (2016 est.)<br>
@@ -289,7 +283,7 @@ presidential republic<br>
 _name_: Djibouti<br>
 _geographic coordinates_: 11 35 N, 43 09 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the origin of the name is disputed; multiple descriptions, possibilities, and theories have been proposed<br>
+_etymology_: the name is said to derive from the Afar word <em>gabouri</em>, meaning "plate," in reference to a palm-fiber plate used for ceremonial purposes<br>
 
 **Administrative divisions**<br>
 6 districts (cercles, singular - cercle); Ali Sabieh, Arta, Dikhil, Djibouti, Obock, Tadjourah<br>
@@ -301,7 +295,7 @@ _etymology_: the origin of the name is disputed; multiple descriptions, possibil
 Independence Day, 27 June (1977)<br>
 
 **Legal system**<br>
-mixed legal system based primarily on the French civil code (as it existed in 1997), Islamic religious law (in matters of family law and successions), and customary law<br>
+mixed system based primarily on the French civil code (as it existed in 1997), Islamic religious law (in matters of family law and successions), and customary law<br>
 
 **Constitution**<br>
 _history_: approved by referendum 4 September 1992<br>
@@ -405,8 +399,8 @@ $4.099 billion (2023 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.5% (2023 est.)<br>
-5.18% (2022 est.)<br>
-1.18% (2021 est.)<br>
+5.2% (2022 est.)<br>
+1.2% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -436,19 +430,19 @@ construction, agricultural processing, shipping<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-261,000 (2023 est.)<br>
+265,200 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-26.26% (2023 est.)<br>
-26.37% (2022 est.)<br>
-27.55% (2021 est.)<br>
+25.9% (2024 est.)<br>
+26.2% (2023 est.)<br>
+26.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 76.5% (2023 est.)<br>
-_male_: 75.4% (2023 est.)<br>
-_female_: 78.1% (2023 est.)<br>
+_total_: 76.3% (2024 est.)<br>
+_male_: 75.3% (2024 est.)<br>
+_female_: 77.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -481,15 +475,15 @@ _expenditures_: $754 million (2019 est.)<br>
 35.3% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
-$718.559 million (2023 est.)<br>
+$610.124 million (2024 est.)<br>
+$721.349 million (2023 est.)<br>
 $656.207 million (2022 est.)<br>
--$225.106 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$5.25 billion (2024 est.)<br>
 $5.877 billion (2023 est.)<br>
 $5.674 billion (2022 est.)<br>
-$5.16 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -501,9 +495,9 @@ raw sugar, seed oils, cars, palm oil, rice (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$4.765 billion (2024 est.)<br>
 $5.269 billion (2023 est.)<br>
 $5.096 billion (2022 est.)<br>
-$5.483 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -515,22 +509,22 @@ refined petroleum, palm oil, fertilizers, cars, seed oils (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$348.725 million (2024 est.)<br>
 $502.034 million (2023 est.)<br>
 $589.437 million (2022 est.)<br>
-$588.418 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$2.672 billion (2023 est.)<br>
+$2.531 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Djiboutian francs (DJF) per US dollar -<br>
+177.721 (2024 est.)<br>
 177.721 (2023 est.)<br>
 177.721 (2022 est.)<br>
 177.721 (2021 est.)<br>
 177.721 (2020 est.)<br>
-177.721 (2019 est.)<br>
 
 ## Energy
 
@@ -581,7 +575,7 @@ _domestic_: about 2 per 100 fixed-line teledensity and nearly 44 per 100 mobile-
 _international_: country code - 253; landing points for the SEA-ME-WE-3 &amp; 5, EASSy, Aden-Djibouti, Africa-1, DARE-1, EIG, MENA, Bridge International, PEACE Cable, and SEACOM&nbsp;fiber-optic submarine cable systems providing links to Asia, the Middle East, Europe,&nbsp;Southeast Asia, Australia&nbsp;and Africa; satellite earth stations - 2 (1 Intelsat - Indian Ocean and 1 Arabsat) (2019)<br>
 
 **Broadcast media**<br>
-state-owned Radiodiffusion-Television de Djibouti operates the sole terrestrial TV station, as well as the only 2 domestic radio networks; no private TV or radio stations; transmissions of several international broadcasters are available (2019)<br>
+state-owned Radiodiffusion-T&eacute;l&eacute;vision de Djibouti operates the sole terrestrial TV station, as well as the 2 domestic radio networks; no private TV or radio stations; transmissions of several international broadcasters are available (2019)<br>
 
 **Internet country code**<br>
 .dj<br>
@@ -595,10 +589,6 @@ _subscriptions per 100 inhabitants_: 1 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 4<br>
-
 **Civil aircraft registration country code prefix**<br>
 J2<br>
 
@@ -611,9 +601,6 @@ J2<br>
 **Railways**<br>
 _total_: 97 km (2017) (Djibouti segment of the 756 km Addis Ababa-Djibouti railway)<br>
 _standard gauge_: 97 km (2017) 1.435-m gauge<br>
-
-**Roadways**<br>
-_total_: 2,893 km (2013)<br>
 
 **Merchant marine**<br>
 _total_: 40 (2023)<br>
@@ -642,7 +629,7 @@ Djibouti Armed Forces (Forces Armées Djiboutiennes or FAD): Djiboutian (or Nati
 2.5% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 10,000 active-duty military personnel; approximately 2,000 Gendarmerie (2023)<br>
+estimated 10-12,000 active military personnel, including Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAD's inventory is a mix of mostly older or secondhand equipment from a wide variety of suppliers, including China, France, Italy, Japan, Russia/former Soviet Union, South Africa, Turkey, and the US (2024)<br>

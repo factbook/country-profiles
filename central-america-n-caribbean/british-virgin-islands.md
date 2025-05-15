@@ -96,10 +96,10 @@ _15-64 years_: 71.3% (male 13,455/female 15,152)<br>
 _65 years and over_: 12.1% (2024 est.) (male 2,289/female 2,557)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 32.8<br>
-_youth dependency ratio_: 20.2<br>
-_elderly dependency ratio_: 12.6<br>
-_potential support ratio_: 8 (2021)<br>
+_total dependency ratio_: 40.2 (2024 est.)<br>
+_youth dependency ratio_: 23.2 (2024 est.)<br>
+_elderly dependency ratio_: 16.9 (2024 est.)<br>
+_potential support ratio_: 5.9 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 38.5 years (2024 est.)<br>
@@ -188,7 +188,7 @@ _female_: 12 years (2018)<br>
 ## Environment
 
 **Environment - current issues**<br>
-limited natural freshwater resources except for a few seasonal streams and springs on Tortola; most of the islands' water supply comes from desalination plants; sewage and mining/industry waste contribute to water pollution, threatening coral reefs<br>
+limited natural freshwater resources; water pollution from sewage and mining/industry waste; coral reef preservation<br>
 
 **Climate**<br>
 subtropical; humid; temperatures moderated by trade winds<br>
@@ -229,7 +229,7 @@ overseas territory of the UK; internal self-governing<br>
 _name_: Road Town<br>
 _geographic coordinates_: 18 25 N, 64 37 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: name refers to the nautical term "roadstead" or "roads," a body of water less sheltered than a harbor but where ships can lie reasonably safely at anchor sheltered from rip currents, spring tides, or ocean swells<br>
+_etymology_: name refers to the nautical term "roadstead" or "roads," a body of water less sheltered than a harbor but where ships can still lie at anchor<br>
 
 **Administrative divisions**<br>
 none (overseas territory of the UK)<br>
@@ -344,9 +344,6 @@ tourism, light industry, construction, rum, concrete block, offshore banking cen
 **Industrial production growth rate**<br>
 1.1% (2017 est.)<br>
 
-**Unemployment rate**<br>
-2.9% (2015 est.)<br>
-
 **Budget**<br>
 _revenues_: $400 million (2017 est.)<br>
 _expenditures_: $400 million (2017 est.)<br>
@@ -444,10 +441,6 @@ VP-L<br>
 
 **Heliports**<br>
 2 (2025)<br>
-
-**Roadways**<br>
-_total_: 200 km<br>
-_paved_: 200 km (2007)<br>
 
 **Merchant marine**<br>
 _total_: 29 (2023)<br>

@@ -73,7 +73,7 @@ the vast majority of the population is located in and around the Al Hagar Mounta
 summer winds often raise large sandstorms and dust storms in interior; periodic droughts<br>
 
 **Geography - note**<br>
-consists of Oman proper and two northern exclaves, Musandam and Al Madhah; the former is a peninsula that occupies a strategic location adjacent to the Strait of Hormuz, a vital transit point for world crude oil<br>
+consists of Oman proper and two northern exclaves, Musandam and Al Madhah; the former is a peninsula that occupies a strategic location adjacent to the Strait of Hormuz<br>
 
 ## People and Society
 
@@ -103,10 +103,10 @@ _15-64 years_: 66.2% (male 1,428,141/female 1,155,438)<br>
 _65 years and over_: 4% (2024 est.) (male 73,076/female 83,746)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 42<br>
-_youth dependency ratio_: 38<br>
-_elderly dependency ratio_: 4<br>
-_potential support ratio_: 25.2 (2021 est.)<br>
+_total dependency ratio_: 51 (2024 est.)<br>
+_youth dependency ratio_: 45 (2024 est.)<br>
+_elderly dependency ratio_: 6.1 (2024 est.)<br>
+_potential support ratio_: 16.5 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 27.3 years (2024 est.)<br>
@@ -227,7 +227,7 @@ _female_: 15 years (2021)<br>
 ## Environment
 
 **Environment - current issues**<br>
-limited natural freshwater resources; high levels of soil and water salinity in the coastal plains; beach pollution from oil spills; industrial effluents seeping into the water tables and aquifers; desertificaiton due to high winds driving desert sand into arable lands<br>
+limited natural freshwater resources; high levels of soil and water salinity in the coastal plains; beach pollution from oil spills; industrial effluents in the water table and aquifers; desertification due to high winds driving desert sand into arable lands<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
@@ -247,12 +247,6 @@ _other_: 95.3% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 88.4% of total population (2023)<br>
 _rate of urbanization_: 2.32% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 34.88 micrograms per cubic meter (2019 est.)<br>
@@ -290,7 +284,7 @@ absolute monarchy<br>
 _name_: Muscat<br>
 _geographic coordinates_: 23 37 N, 58 35 E<br>
 _time difference_: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name, whose meaning is uncertain, traces back almost two millennia; two 2nd century A.D. scholars, the geographer PTOLEMY and the historian ARRIAN, both mention an Arabian Sea coastal town of Moscha, which most likely referred to Muscat<br>
+_etymology_: the name derives from the Arabic name for the city, Masqat, which is said to mean "hidden" and refers to the range of hills that isolate the port city from the rest of the country<br>
 
 **Administrative divisions**<br>
 11 governorates (muhafazat, singular - muhafaza); Ad Dakhiliyah, Al Buraymi, Al Wusta, Az Zahirah, Janub al Batinah (Al Batinah South), Janub ash Sharqiyah (Ash Sharqiyah South), Masqat (Muscat), Musandam, Shamal al Batinah (Al Batinah North), Shamal ash Sharqiyah (Ash Sharqiyah North), Zufar (Dhofar)<br>
@@ -302,7 +296,7 @@ _etymology_: the name, whose meaning is uncertain, traces back almost two millen
 National Day, 18 November; note - celebrates Oman's independence from Portugal in 1650 and the birthday of Sultan QABOOS bin Said al Said, who reigned from 1970 to 2020<br>
 
 **Legal system**<br>
-mixed legal system of Anglo-Saxon law and Islamic law<br>
+mixed system of Anglo-Saxon law and Islamic law<br>
 
 **Constitution**<br>
 _history_: promulgated by royal decree 6 November 1996 (the Basic Law of the Sultanate of Oman serves as the constitution); amended by royal decree in 2011<br>
@@ -418,9 +412,9 @@ $108.811 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-0.95% (2023 est.)<br>
-2.51% (2022 est.)<br>
-1.68% (2021 est.)<br>
+1% (2023 est.)<br>
+2.5% (2022 est.)<br>
+1.7% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -456,19 +450,19 @@ crude oil production and refining, natural and liquefied natural gas production;
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.579 million (2023 est.)<br>
+2.696 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.46% (2023 est.)<br>
-1.51% (2022 est.)<br>
-1.9% (2021 est.)<br>
+3.2% (2024 est.)<br>
+3.2% (2023 est.)<br>
+3.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 6.8% (2023 est.)<br>
-_male_: 5.5% (2023 est.)<br>
-_female_: 13.3% (2023 est.)<br>
+_total_: 13.9% (2024 est.)<br>
+_male_: 11% (2024 est.)<br>
+_female_: 30.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
@@ -534,11 +528,11 @@ $19.73 billion (2021 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Omani rials (OMR) per US dollar -<br>
-0.385 (2023 est.)<br>
-0.385 (2022 est.)<br>
-0.385 (2021 est.)<br>
-0.385 (2020 est.)<br>
-0.385 (2019 est.)<br>
+0.384 (2024 est.)<br>
+0.384 (2023 est.)<br>
+0.384 (2022 est.)<br>
+0.384 (2021 est.)<br>
+0.384 (2020 est.)<br>
 
 ## Energy
 
@@ -597,7 +591,7 @@ _domestic_: fixed-line is 13 per 100 and mobile-cellular is 135 per 100 (2021)<b
 _international_: country code - 968;&nbsp;landing points for GSA, AAE-1,&nbsp;SeaMeWe-5, Tata TGN-Gulf,&nbsp;FALCON, GBICS/MENA, MENA/Guld Bridge International, TW1, BBG, EIG, OMRAN/EPEG, and POI&nbsp;submarine cables providing connectivity to Asia,&nbsp;Africa, the Middle East, Southeast Asia&nbsp;and Europe; satellite earth stations - 2 Intelsat (Indian Ocean) (2019)<br>
 
 **Broadcast media**<br>
-1 state-run TV broadcaster; TV stations transmitting from Saudi Arabia, the UAE, Iran, and Yemen available via satellite TV; state-run radio operates multiple stations; first private radio station began operating in 2007 and several additional stations now operating (2019)<br>
+1 state-run TV broadcaster; TV stations transmitting from Saudi Arabia, the UAE, Iran, and Yemen available via satellite TV; state-run radio operates multiple stations; first private radio station began operating in 2007, and several additional stations now operating (2019)<br>
 
 **Internet country code**<br>
 .om<br>
@@ -611,12 +605,6 @@ _subscriptions per 100 inhabitants_: 11 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 57<br>
-_annual passenger traffic on registered air carriers_: 10,438,241 (2018)<br>
-_annual freight traffic on registered air carriers_: 510.43 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 A4O<br>
 
@@ -625,14 +613,6 @@ A4O<br>
 
 **Heliports**<br>
 20 (2025)<br>
-
-**Pipelines**<br>
-106 km condensate, 4,224 km gas, 3,558 km oil, 33 km oil/gas/water, 264 km refined products (2013)<br>
-
-**Roadways**<br>
-_total_: 60,230 km<br>
-_paved_: 29,685 km (includes 1,943 km of expressways)<br>
-_unpaved_: 30,545 km (2012)<br>
 
 **Merchant marine**<br>
 _total_: 57 (2023)<br>
@@ -650,8 +630,8 @@ _key ports_: Duqm, Khawr Khasab, Mina Al Fahl, Mina Raysut, Sohar<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO), Royal Air Force of Oman (RAFO), Royal Guard of Oman (RGO), Sultan's Special Forces<br><br>Royal Oman Police (ROP): Civil Defense, Immigration, Customs, Royal Oman Police Coast Guard, Special Task Force (2024)<br>
-<strong>note 1: </strong>the Sultan’s Special Forces and the ROP Special Task Force are Oman’s primary tactical counterterrorism response forces<strong><br><br>note 2:</strong> in addition to its policing duties, the ROP conducts many administrative functions similar to the responsibilities of a Ministry of Interior in other countries<br>
+Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO), Royal Air Force of Oman (RAFO), Royal Guard of Oman (RGO), Sultan's Special Forces<br><br>Royal Oman Police (ROP): Civil Defense, Immigration, Infrastructure Security Police, Coast Guard Police, Special Security Police, Special Task Force (2024)<br>
+<strong>note:</strong> in addition to its policing duties, the ROP conducts many administrative functions similar to the responsibilities of a Ministry of Interior in other countries<br>
 
 **Military expenditures**<br>
 5.5% of GDP (2023 est.)<br>
@@ -661,7 +641,7 @@ Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO),
 11.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 40,000 active-duty troops (25,000 Army, 5,000 Navy; 5,000 Air Force; 5,000 Royal Guard) (2023)<br>
+approximately 40,000 active-duty SAF troops (25,000 Army, 5,000 Navy; 5,000 Air Force; 5,000 Royal Guard) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SAF's inventory includes a mix of older and some more modern weapons systems from a variety of suppliers, particularly the UK and the US; other suppliers have included China, EU countries, South Africa, and Turkey (2024)<br>
@@ -670,7 +650,7 @@ the SAF's inventory includes a mix of older and some more modern weapons systems
 18 for voluntary military service for men and women (women have been allowed to serve since 2011); no conscription (2023)<br>
 
 **Military - note**<br>
-the Sultan's Armed Forces (SAF) are responsible for defending the country, ensuring internal security, and protecting the monarchy; it is a small but well-equipped military that often trains with foreign partners such as the Gulf Cooperation Council countries, the UK, and the US; the SAF has a longstanding security relationship with the British military going back to the 18th century; today, the SAF and the British maintain a joint training base in Oman; in 2017, Oman and the UK signed an agreement allowing the British military the use of facilities at Al Duqm Port; in 2019, the US obtained access to the port, expanding on previous military cooperation agreements in 2014, 2010, and 1980; Oman also allows other nations to use some of its maritime facilities, including China<br><br>Oman has a small but relatively modern navy that conducts maritime security operations along the country’s long coastline, including patrolling, ensuring freedom of navigation in the key naval chokepoint of the Strait of Hormuz, and countering piracy and smuggling; while Oman is not a member of the US-led, multinational Combined Maritime Forces (CMF), which operates task forces to counter piracy and smuggling, the Omani Navy has at times participated in CMF-led joint exercises (2024)<br>
+the Sultan's Armed Forces (SAF) are responsible for defending the country, ensuring internal security, and protecting the monarchy; it is a small but well-equipped military that often trains with foreign partners such as the Gulf Cooperation Council (GCC) countries, the UK, and the US; the SAF has a longstanding security relationship with the British military going back to the 18th century; today, the SAF and the British maintain a joint training base in Oman; in 2017, Oman and the UK signed an agreement allowing the British military the use of facilities at Al Duqm Port; in 2019, the US obtained access to the port, expanding on previous military cooperation agreements in 2014, 2010, and 1980; Oman also allows other nations to use some of its maritime facilities, including China; the SAF is part of the Peninsula Shield Forces, a joint military force established by the GCC countries with the aim of maintaining security and stability in the region<br><br>Oman has a small but relatively modern navy that conducts maritime security operations along the country’s long coastline, including patrolling, ensuring freedom of navigation in the key naval chokepoint of the Strait of Hormuz, and countering piracy and smuggling; while Oman is not a member of the US-led, multinational Combined Maritime Forces (CMF), which operates task forces to counter piracy and smuggling, the Omani Navy has at times participated in CMF-led joint exercises (2024)<br>
 
 ## Terrorism
 

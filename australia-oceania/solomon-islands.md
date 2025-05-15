@@ -69,7 +69,7 @@ most of the population lives along the coastal regions; about one in five live i
 <p>tropical cyclones, but rarely destructive; geologically active region with frequent earthquakes, tremors, and volcanic activity; tsunamis</p><p><strong>volcanism:</strong> Tinakula (851 m) has frequent eruption activity, while an eruption of Savo (485 m) could affect the capital Honiara on nearby Guadalcanal</p><br>
 
 **Geography - note**<br>
-strategic location on sea routes between the South Pacific Ocean, the Solomon Sea, and the Coral Sea; Rennell Island, the southernmost in the Solomon Islands chain, is one of the world&rsquo;s largest raised coral atolls; the island&rsquo;s Lake Tegano, formerly a lagoon on the atoll, is the largest lake in the insular Pacific (15,500 hectares)<br>
+strategic location on sea routes between the South Pacific Ocean, the Solomon Sea, and the Coral Sea; Rennell Island, the southernmost in the Solomon Islands chain, is one of the world&rsquo;s largest raised coral atolls; the island&rsquo;s Lake Tegano, formerly a lagoon on the atoll, is the largest lake in the insular Pacific (15,500 hectares; 38,300 acres)<br>
 
 ## People and Society
 
@@ -97,10 +97,10 @@ _15-64 years_: 64.2% (male 238,708/female 227,636)<br>
 _65 years and over_: 5.3% (2024 est.) (male 18,016/female 20,173)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 74.8<br>
-_youth dependency ratio_: 68.8<br>
-_elderly dependency ratio_: 6<br>
-_potential support ratio_: 16.5 (2021 est.)<br>
+_total dependency ratio_: 55.9 (2024 est.)<br>
+_youth dependency ratio_: 47.7 (2024 est.)<br>
+_elderly dependency ratio_: 8.2 (2024 est.)<br>
+_potential support ratio_: 12.2 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 25.2 years (2024 est.)<br>
@@ -219,7 +219,7 @@ _female_: NA<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation; soil erosion; many of the surrounding coral reefs are dead or dying, exhibiting the effects of climate change and rising sea levels<br>
+deforestation; soil erosion; damage to coral reefs<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Whaling<br>
@@ -239,12 +239,6 @@ _other_: 5.6% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 26% of total population (2023)<br>
 _rate of urbanization_: 3.57% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-20.27% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 7.83 micrograms per cubic meter (2019 est.)<br>
@@ -274,7 +268,7 @@ parliamentary democracy under a constitutional monarchy; a Commonwealth realm<br
 _name_: Honiara<br>
 _geographic coordinates_: 9 26 S, 159 57 E<br>
 _time difference_: UTC+11 (16 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name derives from "nagho ni ara," which in one of the Guadalcanal languages roughly translates as "facing the eastern wind"<br>
+_etymology_: the name derives from the local term <em>nagho ni ara</em>, meaning "place of the east wind" or "facing the trade winds"<br>
 
 **Administrative divisions**<br>
 9 provinces and 1 city*; Central, Choiseul, Guadalcanal, Honiara*, Isabel, Makira and Ulawa, Malaita, Rennell and Bellona, Temotu, Western<br>
@@ -286,7 +280,7 @@ _etymology_: the name derives from "nagho ni ara," which in one of the Guadalcan
 Independence Day, 7 July (1978)<br>
 
 **Legal system**<br>
-mixed legal system of English common law and customary law<br>
+mixed system of English common law and customary law<br>
 
 **Constitution**<br>
 _history_: adopted 31 May 1978, effective 7 July 1978<br>
@@ -391,9 +385,9 @@ $1.633 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-5.89% (2023 est.)<br>
-5.52% (2022 est.)<br>
--0.12% (2021 est.)<br>
+5.9% (2023 est.)<br>
+5.5% (2022 est.)<br>
+-0.1% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -427,19 +421,19 @@ fish (tuna), mining, timber<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-423,000 (2023 est.)<br>
+435,600 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.55% (2023 est.)<br>
-1.58% (2022 est.)<br>
-0.87% (2021 est.)<br>
+1.5% (2024 est.)<br>
+1.5% (2023 est.)<br>
+1.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3% (2023 est.)<br>
-_male_: 2.6% (2023 est.)<br>
-_female_: 3.5% (2023 est.)<br>
+_total_: 3% (2024 est.)<br>
+_male_: 2.6% (2024 est.)<br>
+_female_: 3.4% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
@@ -454,23 +448,23 @@ _expenditures_: $423.726 million (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-15.39% of GDP (2022 est.)<br>
+15.4% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-20.67% (of GDP) (2022 est.)<br>
+20.7% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$66.231 million (2024 est.)<br>
 -$178.197 million (2023 est.)<br>
 -$218.534 million (2022 est.)<br>
--$78.192 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$642.877 million (2024 est.)<br>
 $546.025 million (2023 est.)<br>
 $411.359 million (2022 est.)<br>
-$413.657 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -482,9 +476,9 @@ wood, fish, gold, precious metal ore, palm oil (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$857.128 million (2024 est.)<br>
 $883.611 million (2023 est.)<br>
 $764.641 million (2022 est.)<br>
-$619.46 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -502,16 +496,16 @@ $694.515 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$201.529 million (2023 est.)<br>
+$184.191 million (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Solomon Islands dollars (SBD) per US dollar -<br>
+8.455 (2024 est.)<br>
 8.376 (2023 est.)<br>
 8.156 (2022 est.)<br>
 8.03 (2021 est.)<br>
 8.213 (2020 est.)<br>
-8.173 (2019 est.)<br>
 
 ## Energy
 
@@ -557,7 +551,7 @@ _domestic_: fixed-line is less than 1 per 100 persons and mobile-cellular teleph
 _international_: country code - 677; landing points for the CSCS and ICNS2 submarine cables providing connectivity from Solomon Islands, to PNG, Vanuatu and Australia; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
 
 **Broadcast media**<br>
-Solomon Islands Broadcasting Corporation (SIBC) does not broadcast television; multi-channel pay-TV is available; SIBC operates 2 national radio stations and 2 provincial stations; there are 2 local commercial radio stations; Radio Australia is available via satellite feed (since 2009) (2019)<br>
+multi-channel pay-TV is available; Solomon Islands Broadcasting Corporation (SIBC) operates 2 national radio stations and 2 provincial stations; 2 local commercial radio stations; Radio Australia is available via satellite (2019)<br>
 
 **Internet country code**<br>
 .sb<br>
@@ -571,12 +565,6 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 6<br>
-_annual passenger traffic on registered air carriers_: 427,806 (2018)<br>
-_annual freight traffic on registered air carriers_: 3.84 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 H4<br>
 
@@ -585,12 +573,6 @@ H4<br>
 
 **Heliports**<br>
 2 (2025)<br>
-
-**Roadways**<br>
-_total_: 1,390 km<br>
-_paved_: 34 km<br>
-_unpaved_: 1,356 km (2011)<br>
-<strong>note:</strong> includes 920 km of private plantation roads<br>
 
 **Merchant marine**<br>
 _total_: 25 (2023)<br>
@@ -608,7 +590,7 @@ _key ports_: Gizo Harbor, Honiara, Port Noro, Ringgi Cove, Tulaghi, Yandina<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; the Royal Solomon Islands Police Force (RSIPF) is responsible for internal and external security and reports to the Ministry of Police, National Security, and Correctional Services (2024)<br>
+no regular military forces; the Royal Solomon Islands Police Force (RSIPF) (2025)<br>
 
 **Military - note**<br>
 from 2003 to 2017, at the request of the Solomon Islands Governor-General, the Regional Assistance Mission to Solomon Islands (RAMSI), consisting of police, military, and civilian advisors drawn from 15 countries, assisted in reestablishing and maintaining civil and political order while reinforcing regional stability and security; from November 2021 to August 2024, an Australian-led Solomon Islands Assistance Force (SIAF) provided support to the Royal Solomon Islands Police Force (RSIPF) in maintaining stability; the SIAF also included military and police personnel from New Zealand, Fiji, and Papua New Guinea; following the conclusion of the SIAF mission, Australia continued to provide security assistance to the Solomon Islands; the Solomon Islands Government has also signed police and security agreements with China (2024)<br>

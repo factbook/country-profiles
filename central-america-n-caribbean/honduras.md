@@ -103,10 +103,10 @@ _15-64 years_: 65.7% (male 2,980,393/female 3,282,159)<br>
 _65 years and over_: 5.6% (2024 est.) (male 232,828/female 302,544)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.3<br>
-_youth dependency ratio_: 46.9<br>
-_elderly dependency ratio_: 6.4<br>
-_potential support ratio_: 15.5 (2021 est.)<br>
+_total dependency ratio_: 52.2 (2024 est.)<br>
+_youth dependency ratio_: 43.6 (2024 est.)<br>
+_elderly dependency ratio_: 8.5 (2024 est.)<br>
+_potential support ratio_: 11.7 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 25.7 years (2024 est.)<br>
@@ -231,7 +231,7 @@ _female_: 11 years (2019)<br>
 ## Environment
 
 **Environment - current issues**<br>
-urban population expanding; deforestation results from logging and the clearing of land for agricultural purposes; further land degradation and soil erosion hastened by uncontrolled development and improper land use practices such as farming of marginal lands; mining activities polluting Lago de Yojoa (the country's largest source of fresh water), as well as several rivers and streams, with heavy metals<br>
+deforestation from logging and agricultural clearing; land degradation and soil erosion from overdevelopment and improper land use practices; mining activities polluting Lago de Yojoa (the country's largest source of fresh water) and other rivers and streams<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
@@ -251,12 +251,6 @@ _other_: 11.6% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 60.2% of total population (2023)<br>
 _rate of urbanization_: 2.48% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.91% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 18.93 micrograms per cubic meter (2019 est.)<br>
@@ -290,10 +284,11 @@ _etymology_: the name means "depths" in Spanish and refers to the deep anchorage
 presidential republic<br>
 
 **Capital**<br>
-_name_: Tegucigalpa; note - article eight of the Honduran constitution states that the twin cities of Tegucigalpa and Comayaguela, jointly, constitute the capital of the Republic of Honduras; however, virtually all governmental institutions are on the Tegucigalpa side, which in practical terms makes Tegucigalpa the capital<br>
+_name_: Tegucigalpa<br>
 _geographic coordinates_: 14 06 N, 87 13 W<br>
 _time difference_: UTC-6 (1 hour behind Washington, DC during Standard Time)<br>
-_etymology_: while most sources agree that Tegucigalpa is of Nahuatl derivation, there is no consensus on its original meaning<br>
+_etymology_: the name is a Nahuatl word meaning "silver mountain," probably referring to nearby silver mines<br>
+<strong>note:</strong> the Honduran constitution states that Tegucigalpa and Comayaguela jointly constitute the capital of Honduras, but virtually all governmental institutions are on the Tegucigalpa side<br>
 
 **Administrative divisions**<br>
 18 departments (departamentos, singular - departamento); Atl&aacute;ntida, Choluteca, Colon, Comayagua, Copan, Cortes, El Paraiso, Francisco Moraz&aacute;n, Gracias a Dios, Intibuca, Islas de la Bahia, La Paz, Lempira, Ocotepeque, Olancho, Santa Barbara, Valle, Yoro<br>
@@ -415,9 +410,9 @@ $34.401 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-6.66% (2023 est.)<br>
-9.09% (2022 est.)<br>
-4.48% (2021 est.)<br>
+4.6% (2024 est.)<br>
+6.7% (2023 est.)<br>
+9.1% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -452,19 +447,19 @@ sugar processing, coffee, woven and knit apparel, wood products, cigars<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.61 million (2023 est.)<br>
+4.296 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.06% (2023 est.)<br>
-7.04% (2022 est.)<br>
-7.94% (2021 est.)<br>
+6.1% (2024 est.)<br>
+6.1% (2023 est.)<br>
+8.8% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11% (2023 est.)<br>
-_male_: 7.5% (2023 est.)<br>
-_female_: 17% (2023 est.)<br>
+_total_: 10.5% (2024 est.)<br>
+_male_: 7.9% (2024 est.)<br>
+_female_: 15.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -499,17 +494,17 @@ _expenditures_: $5.696 billion (2020 est.)<br>
 39.5% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-15.07% (of GDP) (2020 est.)<br>
+15.1% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.333 billion (2023 est.)<br>
+-$1.389 billion (2023 est.)<br>
 -$2.105 billion (2022 est.)<br>
 -$1.538 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$9.701 billion (2023 est.)<br>
+$9.646 billion (2023 est.)<br>
 $9.403 billion (2022 est.)<br>
 $8.052 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -543,16 +538,16 @@ $8.667 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$8.342 billion (2023 est.)<br>
+$7.785 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: lempiras (HNL) per US dollar -<br>
+24.799 (2024 est.)<br>
 24.602 (2023 est.)<br>
 24.486 (2022 est.)<br>
 24.017 (2021 est.)<br>
 24.582 (2020 est.)<br>
-24.509 (2019 est.)<br>
 
 ## Energy
 
@@ -608,7 +603,7 @@ _domestic_: fixed-line teledensity of 5 per 100; mobile-cellular subscribership 
 _international_: country code - 504; landing points for both the ARCOS and the MAYA-1 fiber-optic submarine cable systems that together provide connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 2 Intelsat (Atlantic Ocean); connected to Central American Microwave System (2019)<br>
 
 **Broadcast media**<br>
-multiple privately owned terrestrial TV networks, supplemented by multiple cable TV networks; Radio Honduras is the lone government-owned radio network; roughly 300 privately owned radio stations (2019)<br>
+multiple privately owned terrestrial TV networks, supplemented by multiple cable TV networks; Radio Honduras is the state-owned radio network; roughly 300 privately owned radio stations (2019)<br>
 
 **Internet country code**<br>
 .hn<br>
@@ -621,12 +616,6 @@ _total_: 476,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 4 (2023 est.)<br>
 
 ## Transportation
-
-**National air transport system**<br>
-_number of registered air carriers_: 4 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 26<br>
-_annual passenger traffic on registered air carriers_: 251,149 (2018)<br>
-_annual freight traffic on registered air carriers_: 450,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 HR<br>
@@ -641,15 +630,6 @@ HR<br>
 _total_: 699 km (2014)<br>
 _narrow gauge_: 164 km (2014) 1.067-m gauge<br>
 115 km 1.057-mm gauge<br>420 km 0.914-mm gauge<br>
-
-**Roadways**<br>
-_total_: 14,742 km<br>
-_paved_: 3,367 km<br>
-_unpaved_: 11,375 km (2012) (1,543 km summer only)<br>
-<strong>note:</strong> an additional 8,951 km of non-official roads used by the coffee industry<br>
-
-**Waterways**<br>
-465 km (2012) (most navigable only by small craft)<br>
 
 **Merchant marine**<br>
 _total_: 489 (2023)<br>
@@ -678,7 +658,7 @@ Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Hond
 1.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 16,000 active personnel (7,500 Army; 1,500 Navy, including about 1,000 marines; 2,000 Air Force; 5,000 Military Police of Public Order); approximately 18,000 National Police (2024)<br>
+approximately 15,000 active personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FFAA's inventory is comprised of a mix of older or secondhand and limited amounts of more equipment from a wide mix of suppliers, including Colombia, Germany, Israel, the Netherlands, South Korea, the UK, and the US (2024)<br>

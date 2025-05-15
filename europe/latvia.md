@@ -101,10 +101,10 @@ _15-64 years_: 63% (male 562,754/female 572,850)<br>
 _65 years and over_: 22.2% (2024 est.) (male 137,746/female 262,922)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 59.3<br>
-_youth dependency ratio_: 24.9<br>
-_elderly dependency ratio_: 34.4<br>
-_potential support ratio_: 2.9 (2021 est.)<br>
+_total dependency ratio_: 55.6 (2024 est.)<br>
+_youth dependency ratio_: 23.5 (2024 est.)<br>
+_elderly dependency ratio_: 32.1 (2024 est.)<br>
+_potential support ratio_: 3.1 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 45.5 years (2024 est.)<br>
@@ -228,7 +228,7 @@ _female_: 17 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-while land, water, and air pollution are evident, Latvia's environment has benefited from a shift to service industries after the country regained independence; improvements have occurred in drinking water quality, sewage treatment, household and hazardous waste management, as well as reduction of air pollution; concerns include nature protection and the management of water resources and the protection of the Baltic Sea<br>
+some soil, water, and air pollution&nbsp;<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Persistent Organic Pollutants, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
@@ -248,12 +248,6 @@ _other_: 13.4% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 68.7% of total population (2023)<br>
 _rate of urbanization_: -0.68% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.85% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 12.02 micrograms per cubic meter (2019 est.)<br>
@@ -291,7 +285,7 @@ _name_: Riga<br>
 _geographic coordinates_: 56 57 N, 24 06 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: of the several theories explaining the name's origin, the one relating to the city's role in Baltic and North Sea commerce is the most probable; the name is likely related to the Latvian word "rija," meaning "warehouse," where the 'j' became a 'g' under the heavy German influence in the city from the late Middle Ages to the early 20th century<br>
+_etymology_: the name's origin is unclear; it may derive from the Old Lithuanian word <em>ringa</em>, meaning "bend" or "curve" and referring to the city's location on the Western Dvina River; alternatively, it may come from the Latvian word <em>ridzina</em>, meaning "stream"<br>
 
 **Administrative divisions**<br>
 <p>36 municipalities (novadi, singular - novads) and 7 state cities (valstpilsetu pasvaldibas, singular valstspilsetas pasvaldiba)</p> <p><strong>municipalities:</strong> Adazi, Aizkraukle, Aluksne, Augsdaugava, Balvi, Bauska, Cesis, Dienvidkurzeme, Dobele, Gulbene, Jekabpils, Jelgava, Kekava, Kraslava, Kuldiga, Limbazi, Livani, Ludza, Madona, Marupe, Ogre, Olaine, Preili, Rezekne, Ropazi, Salaspils, Saldus, Saulkrasti, Sigulda, Smiltene, Talsi, Tukums, Valka, Valmiera, Varaklani, Ventspils</p> <p><strong>cities:</strong> Daugavpils, Jelgava, Jurmala, Liepaja, Rezekne, Riga, Ventspils</p><br>
@@ -410,9 +404,9 @@ $42.248 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-8.94% (2023 est.)<br>
-17.31% (2022 est.)<br>
-3.28% (2021 est.)<br>
+1.3% (2024 est.)<br>
+8.9% (2023 est.)<br>
+17.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -448,19 +442,19 @@ processed foods, processed wood products, textiles, processed metals, pharmaceut
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-972,000 (2023 est.)<br>
+954,400 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.53% (2023 est.)<br>
-6.82% (2022 est.)<br>
-7.51% (2021 est.)<br>
+6.7% (2024 est.)<br>
+6.5% (2023 est.)<br>
+6.8% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.5% (2023 est.)<br>
-_male_: 14.2% (2023 est.)<br>
-_female_: 10.3% (2023 est.)<br>
+_total_: 12.5% (2024 est.)<br>
+_male_: 13% (2024 est.)<br>
+_female_: 11.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -496,19 +490,19 @@ _expenditures_: $13.672 billion (2022 est.)<br>
 <strong>note:</strong> data cover general government debt, and includes debt instruments issued (or owned) by government entities, including sub-sectors of central government, state government, local government, and social security funds<br>
 
 **Taxes and other revenues**<br>
-24.23% (of GDP) (2022 est.)<br>
+16.8% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$923.266 million (2024 est.)<br>
 -$1.663 billion (2023 est.)<br>
 -$2.082 billion (2022 est.)<br>
--$1.579 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$28.117 billion (2024 est.)<br>
 $28.294 billion (2023 est.)<br>
 $29.364 billion (2022 est.)<br>
-$25.463 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -520,9 +514,9 @@ wood, wheat, broadcasting equipment, packaged medicine, natural gas (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$29.234 billion (2024 est.)<br>
 $29.875 billion (2023 est.)<br>
 $31.206 billion (2022 est.)<br>
-$26.684 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -534,18 +528,18 @@ refined petroleum, cars, packaged medicine, broadcasting equipment, natural gas 
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$4.591 billion (2024 est.)<br>
 $4.957 billion (2023 est.)<br>
 $4.46 billion (2022 est.)<br>
-$5.491 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 
 ## Energy
 
@@ -604,7 +598,7 @@ _domestic_: fixed-line 9 per 100 and mobile-cellular nearly 117 per 100 subscrip
 _international_: country code - 371; the Latvian network is now connected via fiber-optic cable to Estonia, Finland, and Sweden<br>
 
 **Broadcast media**<br>
-several national and regional commercial TV stations are foreign-owned, 2 national TV stations are publicly owned; system supplemented by privately owned regional and local TV stations; cable and satellite multi-channel TV services with domestic and foreign broadcasts available; publicly owned broadcaster operates 4 radio networks with dozens of stations throughout the country; dozens of private broadcasters also operate radio stations<br>
+several national and regional commercial TV stations are foreign-owned, 2 national TV stations are publicly owned; system supplemented by privately owned regional and local TV stations; cable and satellite multi-channel TV services with domestic and foreign broadcasts available; publicly owned broadcaster operates 4 radio networks with dozens of stations; dozens of private broadcasters also operate radio stations<br>
 
 **Internet country code**<br>
 .lv<br>
@@ -618,12 +612,6 @@ _subscriptions per 100 inhabitants_: 26 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 3 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 53<br>
-_annual passenger traffic on registered air carriers_: 4,058,762 (2018)<br>
-_annual freight traffic on registered air carriers_: 4.01 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 YL<br>
 
@@ -633,17 +621,8 @@ YL<br>
 **Heliports**<br>
 5 (2025)<br>
 
-**Pipelines**<br>
-1,213 km gas, 417 km refined products (2018)<br>
-
 **Railways**<br>
 _total_: 2,216 km (2020) 257 km electrified<br>
-
-**Roadways**<br>
-_total_: 57,972 km (2022)<br>
-
-**Waterways**<br>
-300 km (2010) (navigable year-round)<br>
 
 **Merchant marine**<br>
 _total_: 83 (2023)<br>
@@ -661,8 +640,8 @@ _key ports_: Lielupe, Liepaja, Riga, Salacgriva, Ventspils<br>
 ## Military and Security
 
 **Military and security forces**<br>
-National Armed Forces (Nacionalie Brunotie Speki or NBS): Land Forces (Latvijas Sauszemes Speki), Naval Force (Latvijas Juras Speki, includes Coast Guard (Latvijas Kara Flote)), Air Force (Latvijas Gaisa Speki), National Guard (aka Land Guard or Zemessardze) (2024)<br>
-<strong>note: </strong>the National Armed Forces (including the National Guard), the Defense Intelligence and Security Service, and the Constitution Protection Bureau are subordinate to the Ministry of Defense; the State Police, State Border Guards, and State Security Service are under the Ministry of Interior; the State Border Guard may become part of the armed forces during an emergency<br>
+National Armed Forces (Nacionalie Brunotie Speki or NBS): Land Forces (Latvijas Sauszemes Speki), Naval Force (Latvijas Juras Speki, includes Coast Guard (Latvijas Kara Flote)), Air Force (Latvijas Gaisa Speki), National Guard (aka Land Guard or Zemessardze)<br><br>Ministry of Interior: State Police, State Border Guards, State Security Service  (2025)<br>
+<strong>note: </strong>the State Border Guard may become part of the armed forces during an emergency<br>
 
 **Military expenditures**<br>
 3.2% of GDP (2024 est.)<br>
@@ -685,7 +664,7 @@ the Latvian military's inventory consists of a mix of European and US weapons an
 135 Kosovo (KFOR/NATO) (2024)<br>
 
 **Military - note**<br>
-the National Armed Forces are responsible for the defense of the country’s sovereignty and territory; they also have some domestic security responsibilities, including coast guard functions, search and rescue, humanitarian assistance, and providing support to other internal security services, including the State Border Service, the State Police, and the State Security Service; the Military Police provides protection to the president and other government officials, foreign dignitaries, and key facilities; for external defense, Latvia’s primary security focus is Russia<br><br>in 2004, Latvia joined NATO and the EU, which it depends on to play a decisive role in Latvia’s security policy; the Latvian military has participated in NATO and EU missions abroad and regularly conducts training and exercises with NATO and EU partner forces<br><br>Latvia also hosts NATO partner forces; since 2017, it has hosted a Canadian-led multinational NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; in addition, Latvia hosts a NATO-led divisional headquarters (Multinational Division North; activated 2020), which coordinates training and preparation activities of its respective subordinate NATO battlegroups in Estonia and Latvia<br><br>the Air Force has no combat aircraft; NATO has provided air protection for Latvia since 2004 through its Baltics Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on four-month rotations<br><br>Latvia is a member of the UK-led Joint Expeditionary Force, a pool of high-readiness military forces from 10 Baltic and Scandinavian countries designed to respond to a wide range of contingencies in the North Atlantic, Baltic Sea, and High North regions (2024)<br>
+the National Armed Forces are responsible for the defense of the country’s sovereignty and territory; they also have some domestic security responsibilities, including coast guard functions, search and rescue, humanitarian assistance, and providing support to other internal security services, including the State Border Service, the State Police, and the State Security Service; the Military Police provides protection to the president and other government officials, foreign dignitaries, and key facilities; for external defense, Latvia’s primary security focus is Russia<br><br>in 2004, Latvia joined NATO and the EU, which it depends on to play a decisive role in Latvia’s security policy; the Latvian military has participated in NATO and EU missions abroad and regularly conducts training and exercises with NATO and EU partner forces<br><br>Latvia also hosts NATO partner forces; since 2017, it has hosted a Canadian-led multinational NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; in addition, Latvia hosts a NATO-led divisional headquarters (Multinational Division North; activated 2020), which coordinates training and preparation activities of its respective subordinate NATO battlegroups in Estonia and Latvia<br><br>the Air Force has no combat aircraft; NATO has provided air protection for Latvia since 2004 through its Baltics Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on four-month rotations<br><br>Latvia is a member of the UK-led Joint Expeditionary Force, a pool of high-readiness military forces from 10 Baltic and Scandinavian countries designed to respond to a wide range of contingencies in the North Atlantic, Baltic Sea, and High North regions (2025)<br>
 
 ## Transnational Issues
 

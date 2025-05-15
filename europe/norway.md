@@ -101,10 +101,10 @@ _15-64 years_: 64.5% (male 1,820,692/female 1,734,818)<br>
 _65 years and over_: 19.1% (2024 est.) (male 498,301/female 555,700)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 54<br>
-_youth dependency ratio_: 26.1<br>
-_elderly dependency ratio_: 27.9<br>
-_potential support ratio_: 3.6 (2021 est.)<br>
+_total dependency ratio_: 55 (2024 est.)<br>
+_youth dependency ratio_: 25.3 (2024 est.)<br>
+_elderly dependency ratio_: 29.6 (2024 est.)<br>
+_potential support ratio_: 3.4 (2024 est.)<br>
 <strong>note:</strong> data include Svalbard and Jan Mayen Islands<br>
 
 **Median age**<br>
@@ -230,7 +230,7 @@ _female_: 19 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-water pollution; acid rain damaging forests and adversely affecting lakes, threatening fish stocks; air pollution from vehicle emissions<br>
+water pollution; acid rain damaging forests and affecting lakes and fish stocks; air pollution from vehicle emissions<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -251,12 +251,6 @@ _other_: 63.8% (2022 est.)<br>
 _urban population_: 84% of total population (2023)<br>
 _rate of urbanization_: 1.32% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Svalbard and Jan Mayen Islands<br>
-
-**Revenue from forest resources**<br>
-0.05% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 6.3 micrograms per cubic meter (2019 est.)<br>
@@ -297,7 +291,7 @@ _name_: Oslo<br>
 _geographic coordinates_: 59 55 N, 10 45 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the medieval name was spelt "Aslo"; the <em>as</em> component refered either to the Ekeberg ridge southeast of the town ("as" in modern Norwegian), or to the Aesir (Norse gods); <em>lo</em> refered to "meadow," so the most likely interpretations would have been either "the meadow beneath the ridge" or "the meadow of the gods"; both explanations are considered equally plausible<br>
+_etymology_: the name may derive from the Old Norwegian word <em>os</em>, meaning "estuary" and referring to the city's location on a fjord; alternatively, the name may come from As, a Scandinavian god, and Lo, a nearby river<br>
 
 **Administrative divisions**<br>
 12 counties (fylker, singular - fylke); Agder, Innlandet, More og Romsdal, Nordland, Oslo, Rogaland, Romsdal, Troms og Finnmark, Trondelag, Vestfold og Telemark, Vestland, Viken (2024)<br>
@@ -312,7 +306,7 @@ Bouvet Island, Jan Mayen, Svalbard (3)<br>
 Constitution Day, 17 May (1814)<br>
 
 **Legal system**<br>
-mixed legal system of civil, common, and customary law; Supreme Court can advise on legislative acts<br>
+mixed system of civil, common, and customary law; Supreme Court can advise on legislative acts<br>
 
 **Constitution**<br>
 _history_: drafted spring 1814, adopted 16 May 1814, signed by Constituent Assembly 17 May 1814<br>
@@ -419,9 +413,9 @@ $485.311 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-5.52% (2023 est.)<br>
-5.76% (2022 est.)<br>
-3.48% (2021 est.)<br>
+3.1% (2024 est.)<br>
+5.5% (2023 est.)<br>
+5.8% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -457,19 +451,19 @@ petroleum and gas, shipping, fishing, aquaculture, food processing, shipbuilding
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.007 million (2023 est.)<br>
+3.042 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.58% (2023 est.)<br>
-3.23% (2022 est.)<br>
-4.37% (2021 est.)<br>
+4% (2024 est.)<br>
+3.6% (2023 est.)<br>
+3.2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11% (2023 est.)<br>
-_male_: 11.3% (2023 est.)<br>
-_female_: 10.6% (2023 est.)<br>
+_total_: 11.6% (2024 est.)<br>
+_male_: 12.3% (2024 est.)<br>
+_female_: 10.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -505,19 +499,19 @@ _expenditures_: $174.546 billion (2022 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data exclude treasury debt held by foreign entities; the data exclude debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-31.27% (of GDP) (2022 est.)<br>
+26.9% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$84.686 billion (2023 est.)<br>
-$177.149 billion (2022 est.)<br>
-$66.254 billion (2021 est.)<br>
+$82.511 billion (2024 est.)<br>
+$84.104 billion (2023 est.)<br>
+$170.714 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$224.336 billion (2023 est.)<br>
-$327.706 billion (2022 est.)<br>
-$203.228 billion (2021 est.)<br>
+$229.205 billion (2024 est.)<br>
+$230.882 billion (2023 est.)<br>
+$323.875 billion (2022 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -529,9 +523,9 @@ natural gas, crude petroleum, fish, refined petroleum, aluminum (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$155.081 billion (2023 est.)<br>
-$161.645 billion (2022 est.)<br>
-$140.331 billion (2021 est.)<br>
+$162.467 billion (2024 est.)<br>
+$156.11 billion (2023 est.)<br>
+$160.649 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -543,18 +537,18 @@ cars, refined petroleum, ships, nickel, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$81.242 billion (2024 est.)<br>
 $80.459 billion (2023 est.)<br>
 $72.077 billion (2022 est.)<br>
-$84.271 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Norwegian kroner (NOK) per US dollar -<br>
+10.746 (2024 est.)<br>
 10.563 (2023 est.)<br>
 9.614 (2022 est.)<br>
 8.59 (2021 est.)<br>
 9.416 (2020 est.)<br>
-8.8 (2019 est.)<br>
 
 ## Energy
 
@@ -616,10 +610,10 @@ _subscriptions per 100 inhabitants_: 111 (2022 est.)<br>
 **Telecommunication systems**<br>
 _general assessment_: Norway has a sophisticated telecom market with high broadband and mobile penetration rates and a highly developed digital media sector. Although not a member of the European Union, the country&rsquo;s telecoms sector is synchronized with relevant EC legislation; Norway enjoys near comprehensive LTE coverage with upgrades to 5G technologies in the future (2023)<br>
 _domestic_: fixed-line is 7 per 100 and mobile-cellular nearly 110 per 100 (2021)<br>
-_international_: country code - 47;&nbsp;landing points for the&nbsp;Svalbard Undersea Cable System, Polar Circle Cable, Bodo-Rost Cable, NOR5KE Viking, Celtic Norse, Tempnet Offshore FOC Network, England Cable, Denmark-Norwary6, Havfrue/AEC-2, Skagerrak 4, and the Skagenfiber West &amp; East&nbsp;submarine cables providing links to other Nordic countries, Europe and the US; satellite earth stations - Eutelsat,&nbsp;Intelsat (Atlantic Ocean), and 1 Inmarsat (Atlantic and Indian Ocean regions); note - Norway shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Iceland, and Sweden) (2019)<br>
+_international_: country code - 47; landing points for the Svalbard Undersea Cable System, Polar Circle Cable, Bodo-Rost Cable, NOR5KE Viking, Celtic Norse, Tampnet Offshore FOC Network, England Cable, Denmark-Norwary6, Havfrue/AEC-2, Skagerrak 4, and the Skagenfiber West &amp; East submarine cables providing links to other Nordic countries, Europe and the US; satellite earth stations - Eutelsat, Intelsat (Atlantic Ocean), and 1 Inmarsat (Atlantic and Indian Ocean regions); note - Norway shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Iceland, and Sweden) (2019)<br>
 
 **Broadcast media**<br>
-state-owned public radio-TV broadcaster operates 3 nationwide TV stations, 3 nationwide radio stations, and 16 regional radio stations; roughly a dozen privately owned TV stations broadcast nationally and roughly another 25 local TV stations broadcasting; nearly 75% of households have access to multi-channel cable or satellite TV; 2 privately owned radio stations broadcast nationwide and another 240 stations operate locally; Norway is the first country in the world to phase out FM radio in favor of Digital Audio Broadcasting (DAB), a process scheduled for completion in late 2017 (2019)<br>
+state-owned public radio and TV broadcaster operates 3 nationwide TV stations, 3 nationwide radio stations, and 16 regional radio stations; roughly a dozen privately owned TV stations broadcast nationally, and another 25 locally; nearly 75% of households have access to multi-channel cable or satellite TV; 2 privately owned radio stations broadcast nationwide, with another 240 local stations; Norway was the first country to phase out FM radio in favor of Digital Audio Broadcasting (DAB) (2019)<br>
 
 **Internet country code**<br>
 .no<br>
@@ -633,10 +627,6 @@ _subscriptions per 100 inhabitants_: 46 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 8 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 125<br>
-
 **Civil aircraft registration country code prefix**<br>
 LN<br>
 
@@ -646,17 +636,8 @@ LN<br>
 **Heliports**<br>
 113 (2025)<br>
 
-**Pipelines**<br>
-8,520 km gas, 1,304 km oil/condensate (2017)<br>
-
 **Railways**<br>
 _total_: 3,848 km (2020) 2,482 km electrified<br>
-
-**Roadways**<br>
-_total_: 95,120 km (2022)<br>
-
-**Waterways**<br>
-1,577 km (2010)<br>
 
 **Merchant marine**<br>
 _total_: 1,720 (2022)<br>
@@ -675,8 +656,8 @@ _key ports_: Bergen, Drammen, Hammerfest, Harstad, Horten, Karsto, Mongstad, Osl
 ## Military and Security
 
 **Military and security forces**<br>
-Norwegian Armed Forces (Forsvaret or "the Defense"): Norwegian Army (Haeren), Royal Norwegian Navy (Kongelige Norske Sjoeforsvaret; includes Coastal Rangers and Coast Guard (Kystvakt)), Royal Norwegian Air Force (Kongelige Norske Luftforsvaret), Norwegian Special Forces, Norwegian Cyber Defense Force, Home Guard (Heimevernet, HV) (2024)<br>
-<strong>note:</strong> the national police have primary responsibility for internal security; the National Police Directorate, an entity under the Ministry of Justice and Public Security, oversees the police force<br>
+Norwegian Armed Forces (Forsvaret or "the Defense"): Norwegian Army (Haeren), Royal Norwegian Navy (Kongelige Norske Sjoeforsvaret; includes Coastal Rangers and Coast Guard (Kystvakt)), Royal Norwegian Air Force (Kongelige Norske Luftforsvaret), Home Guard (Heimevernet, HV) (2025)<br>
+<strong>note:</strong> the Norwegian Police Service is under the Ministry of Justice and Public Security<br>
 
 **Military expenditures**<br>
 2.2% of GDP (2024 est.)<br>

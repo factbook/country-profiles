@@ -106,10 +106,10 @@ _15-64 years_: 65.2% (male 2,250,962/female 2,171,279)<br>
 _65 years and over_: 21% (2024 est.) (male 572,943/female 854,466)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 57.3<br>
-_youth dependency ratio_: 22<br>
-_elderly dependency ratio_: 35.3<br>
-_potential support ratio_: 2.8 (2021 est.)<br>
+_total dependency ratio_: 53.4 (2024 est.)<br>
+_youth dependency ratio_: 21.1 (2024 est.)<br>
+_elderly dependency ratio_: 32.3 (2024 est.)<br>
+_potential support ratio_: 3.1 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 45.1 years (2024 est.)<br>
@@ -233,7 +233,7 @@ _female_: 14 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution from industrial emissions; rivers polluted from raw sewage, heavy metals, detergents; deforestation; forest damage from air pollution and resulting acid rain; soil contamination from heavy metals from metallurgical plants and industrial wastes<br>
+air pollution from industrial emissions; rivers polluted from raw sewage, heavy metals, detergents; deforestation; forest damage from air pollution and acid rain; soil contamination from heavy metals from metallurgical plants and industrial wastes<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -253,12 +253,6 @@ _other_: 17.6% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 76.7% of total population (2023)<br>
 _rate of urbanization_: -0.28% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.22% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.14% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 17.29 micrograms per cubic meter (2019 est.)<br>
@@ -302,7 +296,7 @@ _name_: Sofia<br>
 _geographic coordinates_: 42 41 N, 23 19 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: named after the Saint Sofia Church in the city, parts of which date back to the 4th century A.D.<br>
+_etymology_: named after the Church of Saint Sofia in the city, parts of which may date to the 4th century<br>
 
 **Administrative divisions**<br>
 28 provinces (oblasti, singular - oblast); Blagoevgrad, Burgas, Dobrich, Gabrovo, Haskovo, Kardzhali, Kyustendil, Lovech, Montana, Pazardzhik, Pernik, Pleven, Plovdiv, Razgrad, Ruse, Shumen, Silistra, Sliven, Smolyan, Sofia, Sofia-Grad (Sofia City), Stara Zagora, Targovishte, Varna, Veliko Tarnovo, Vidin, Vratsa, Yambol<br>
@@ -334,7 +328,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Rumen RADEV (since 22 January 2017)<br>
-_head of government_: Caretaker Prime Minister Dimitar GLAVCHEV (since 9 April 2024)<br>
+_head of government_: Prime Minister Rosen ZHELYAZKOV (since 16 January 2025)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, elected by the National Assembly<br>
 _elections/appointments_: president and vice president elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 14 and 21 November 2021 (next to be held in fall 2026); chairman of the Council of Ministers (prime minister) elected by the National Assembly; deputy prime ministers nominated by the prime minister, elected by the National Assembly<br>
 _election results_: <em><br>2021</em>: Rumen RADEV reelected president in second round; percent of vote in the first round - Rumen RADEV (independent) 49.4%, Anastas GERDZHIKOV (independent) 22.8%, Mustafa KARADAYI (DPS) 11.6%, Kostadin KOSTADINOV (Revival) 3.9%, Lozan PANOV (independent) 3.7%, other 8.6%; percent of vote in the second round - Rumen RADEV 66.7%, Anastas GERDZHIKOV 31.8%, neither 1.5%<br><br><em>2016: </em>Rumen RADEV elected president in second round; percent of vote - Rumen RADEV (independent, supported by Bulgarian Socialist Party) 59.4%, Tsetska TSACHEVA (GERB) 36.2%, neither 4.5%<br>
@@ -422,9 +416,9 @@ $102.408 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-9.44% (2023 est.)<br>
-15.33% (2022 est.)<br>
-3.3% (2021 est.)<br>
+2.4% (2024 est.)<br>
+9.4% (2023 est.)<br>
+15.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -460,19 +454,19 @@ electricity, gas, water; food, beverages, tobacco; machinery and equipment, auto
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.09 million (2023 est.)<br>
+3.106 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+4.1% (2024 est.)<br>
 4.3% (2023 est.)<br>
-4.27% (2022 est.)<br>
-5.27% (2021 est.)<br>
+4.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12% (2023 est.)<br>
-_male_: 11.8% (2023 est.)<br>
-_female_: 12.2% (2023 est.)<br>
+_total_: 12.1% (2024 est.)<br>
+_male_: 12.4% (2024 est.)<br>
+_female_: 11.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -504,11 +498,11 @@ _expenditures_: $35.619 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-30.2% of GDP (2022 est.)<br>
+30.1% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-21.73% (of GDP) (2022 est.)<br>
+20.5% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -546,9 +540,9 @@ crude petroleum, copper ore, cars, packaged medicine, electricity (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$40.27 billion (2024 est.)<br>
 $46.334 billion (2023 est.)<br>
 $40.989 billion (2022 est.)<br>
-$39.188 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -557,11 +551,11 @@ $14.277 billion (2022 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: leva (BGN) per US dollar -<br>
+1.808 (2024 est.)<br>
 1.809 (2023 est.)<br>
 1.86 (2022 est.)<br>
 1.654 (2021 est.)<br>
 1.716 (2020 est.)<br>
-1.747 (2019 est.)<br>
 
 ## Energy
 
@@ -635,7 +629,7 @@ _domestic_: fixed-line over 11 per 100 persons, mobile-cellular teledensity, fos
 _international_: country code - 359; Caucasus Cable System via submarine cable provides connectivity to Ukraine, Georgia&nbsp;and Russia; a combination submarine cable and land fiber-optic system provides connectivity to Italy, Albania, and Macedonia; satellite earth stations - 3 (1 Intersputnik in the Atlantic Ocean region, 2 Intelsat in the Atlantic and Indian Ocean regions) (2019)<br>
 
 **Broadcast media**<br>
-4 national terrestrial TV stations with 1 state-owned and 3 privately owned; a vast array of TV stations are available from cable and satellite TV providers; state-owned national radio broadcasts over 3 networks; large number of private radio stations broadcasting, especially in urban areas<br>
+4 national terrestrial TV stations with 1 state-owned and 3 privately owned; a vast array of TV stations are available from cable and satellite TV providers; state-owned national radio broadcasts over 3 networks; large number of private radio stations, especially in urban areas<br>
 
 **Internet country code**<br>
 .bg<br>
@@ -649,12 +643,6 @@ _subscriptions per 100 inhabitants_: 36 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 8 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 44<br>
-_annual passenger traffic on registered air carriers_: 1,022,645 (2018)<br>
-_annual freight traffic on registered air carriers_: 1.38 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 LZ<br>
 
@@ -664,18 +652,8 @@ LZ<br>
 **Heliports**<br>
 8 (2025)<br>
 
-**Pipelines**<br>
-2,765 km gas, 346 km oil, 378 km refined products (2017)<br>
-
 **Railways**<br>
 _total_: 4,029 km (2020) 2,871 km electrified<br>
-
-**Roadways**<br>
-_total_: 19,117 km (2022)<br>
-<strong>note:</strong> does not include Category IV local roads<br>
-
-**Waterways**<br>
-470 km (2009)<br>
 
 **Merchant marine**<br>
 _total_: 78 (2023)<br>

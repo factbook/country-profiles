@@ -110,10 +110,10 @@ _15-64 years_: 50.1% (male 5,178,742/female 5,842,456)<br>
 _65 years and over_: 3.1% (2024 est.) (male 334,299/female 345,268)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 99.3<br>
-_youth dependency ratio_: 94.5<br>
-_elderly dependency ratio_: 4.9<br>
-_potential support ratio_: 20.6 (2021 est.)<br>
+_total dependency ratio_: 99.5 (2024 est.)<br>
+_youth dependency ratio_: 93.4 (2024 est.)<br>
+_elderly dependency ratio_: 6.2 (2024 est.)<br>
+_potential support ratio_: 16.2 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 16.4 years (2024 est.)<br>
@@ -267,12 +267,6 @@ _rate of urbanization_: 4.57% annual rate of change (2020-25 est.)<br>
 **Food insecurity**<br>
 _severe localized food insecurity_: <p><em>due to civil insecurity and </em><em>high food prices </em><em>- </em>according to the latest analysis, about 1.26 million people are projected to face acute food insecurity during the June to August 2023 lean season period; in total however, the number of food insecure is lower in 2023 compared to 2022; food insecurity conditions are primarily underpinned by the impact of the conflict in central and northern areas, which has caused the displacement of over 375,000 people, as of April 2023; persistent high food prices affect vulnerable households across the country, but limit in particular the food access of people in conflict-affected areas due to market disruptions and limited access to sources of income and humanitarian assistance</p> (2023)<br>
 
-**Revenue from forest resources**<br>
-2.02% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
-
 **Air pollutants**<br>
 _particulate matter emissions_: 38.55 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 3.18 megatons (2016 est.)<br>
@@ -318,7 +312,7 @@ semi-presidential republic<br>
 _name_: Bamako<br>
 _geographic coordinates_: 12 39 N, 8 00 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name in the Bambara language can mean either "crocodile tail" or "crocodile river" and three crocodiles appear on the city seal<br>
+_etymology_: the origin of the name is unclear, but it comes from the Bambara language and can refer either to a crocodile or to a person's name<br>
 
 **Administrative divisions**<br>
 19 regions (regions, singular - region), 1 district*; Bamako*, Bandiagara, Bougouni, Dioila, Douentza, Gao, Kayes, Kidal, Kita, Koulikoro, Koutiala, Menaka, Mopti, Nara, Nioro, San, Segou, Sikasso, Taoudenni, Tombouctou (Timbuktu)<br>
@@ -330,7 +324,7 @@ _etymology_: the name in the Bambara language can mean either "crocodile tail" o
 Independence Day, 22 September (1960)<br>
 
 **Legal system**<br>
-civil law system based on the French civil law model and influenced by customary law; judicial review of legislative acts in the Constitutional Court<br>
+civil law system based on the French civil law model and influenced by customary law; Constitutional Court reviews legislative acts<br>
 
 **Constitution**<br>
 _history_: several previous; latest drafted 13 October 2022 and submitted to Transition President Assimi GOITA; final draft completed 1 March 2023; approved by referendum 18 June 2023; validated by Constitutional Court 22 July 2023<br>
@@ -438,9 +432,9 @@ $20.662 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-2.06% (2023 est.)<br>
-9.62% (2022 est.)<br>
-3.93% (2021 est.)<br>
+3.2% (2024 est.)<br>
+2.1% (2023 est.)<br>
+9.6% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -474,19 +468,19 @@ food processing; construction; phosphate and gold mining<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.527 million (2023 est.)<br>
+9.126 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.01% (2023 est.)<br>
-3.09% (2022 est.)<br>
-2.29% (2021 est.)<br>
+3.1% (2024 est.)<br>
+3% (2023 est.)<br>
+2.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.1% (2023 est.)<br>
-_male_: 4.1% (2023 est.)<br>
-_female_: 4.2% (2023 est.)<br>
+_total_: 4% (2024 est.)<br>
+_male_: 4% (2024 est.)<br>
+_female_: 3.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -517,19 +511,19 @@ _expenditures_: $2.533 billion (2020 est.)<br>
 35.4% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-14.16% (of GDP) (2020 est.)<br>
+14.2% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$1.61 billion (2023 est.)<br>
 -$1.475 billion (2022 est.)<br>
 -$1.469 billion (2021 est.)<br>
--$379.683 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$6.13 billion (2023 est.)<br>
 $5.855 billion (2022 est.)<br>
 $5.381 billion (2021 est.)<br>
-$5.196 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -541,9 +535,9 @@ gold, cotton, oil seeds, fertilizers, gum resins (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$8.066 billion (2023 est.)<br>
 $7.942 billion (2022 est.)<br>
 $7.596 billion (2021 est.)<br>
-$6.339 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -559,16 +553,16 @@ $647.8 million (2017 est.)<br>
 $395.7 million (2016 est.)<br>
 
 **Debt - external**<br>
-$4.535 billion (2023 est.)<br>
+$4.085 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+606.345 (2024 est.)<br>
 606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
-585.911 (2019 est.)<br>
 
 ## Energy
 
@@ -634,9 +628,6 @@ _subscriptions per 100 inhabitants_: 1 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 0 (2020)<br>
-
 **Civil aircraft registration country code prefix**<br>
 TZ, TT<br>
 
@@ -650,16 +641,10 @@ TZ, TT<br>
 _total_: 593 km (2014)<br>
 _narrow gauge_: 593 km (2014) 1.000-m gauge<br>
 
-**Roadways**<br>
-_total_: 139,107 km (2014)<br>
-
-**Waterways**<br>
-1,800 km (2011) (downstream of Koulikoro; low water levels on the River Niger cause problems in dry years; in the months before the rainy season the river is not navigable by commercial vessels)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>
-Malian Armed Forces (Forces Armées Maliennes or FAMa): Land Forces (l’Armée de Terre), Air Force (l’Armée de l’Air); National Guard (la Garde Nationale du Mali or GNM); General Directorate of the National Gendarmerie (la Direction Générale de la Gendarmerie Nationale or DGGN) (2024)<br>
+Malian Armed Forces (Forces Armées Maliennes or FAMa): Army (l’Armée de Terre), Air Force (l’Armée de l’Air); National Guard (la Garde Nationale du Mali); National Gendarmerie of Mali (Gendarmerie Nationale du Mali) (2025)<br>
 <strong>note 1:</strong> the Gendarmerie and the National Guard are under the authority of the Ministry of Defense and Veterans Affairs (Ministere De La Defense Et Des Anciens Combattants, MDAC), but operational control is shared with the Ministry of Internal Security and Civil Protection which also controls the National Police; the National Police has responsibility for law enforcement and maintenance of order in urban areas and supports the FAMa in internal military operations<br><br><strong>note 2: </strong>the Gendarmerie's primary mission is internal security and public order; its duties also include territorial defense, humanitarian operations, intelligence gathering, and protecting private property, mainly in rural areas; it also has a specialized border security unit<br><br><strong>note 3: </strong>the National Guard is a military force responsible for providing security to government facilities and institutions, prison service, public order, humanitarian operations, some border security, and intelligence gathering; its forces include a camel corps for patrolling the deserts and borders of northern Mali<br><br><strong>note 4: </strong>there are also pro-government militias operating in Mali, such as the Imghad Tuareg Self-Defense Group and Allies (GATIA); the leader of GATIA is also a general in the national army<br>
 
 **Military expenditures**<br>
@@ -670,7 +655,7 @@ Malian Armed Forces (Forces Armées Maliennes or FAMa): Land Forces (l’Armée 
 3.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; estimated 35-40,000 total active military and paramilitary personnel, including approximately 20-25,000 FAMa (up to 2,000 Air Force), 5-7,000 Gendarmerie, and 10,000 National Guard (2023)<br>
+information varies; estimated 35-40,000 active FAMa, Gendarmerie, and National Guard personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAMa's inventory includes a large amount of Soviet-era weapons and equipment along with smaller quantities of secondhand and some more modern material from a variety of other countries, including China, Czechia, France, Russia, Turkey, and the UAE (2024)<br>

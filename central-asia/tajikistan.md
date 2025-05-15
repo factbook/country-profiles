@@ -104,10 +104,10 @@ _15-64 years_: 59.3% (male 3,086,964/female 3,071,642)<br>
 _65 years and over_: 3.9% (2024 est.) (male 181,382/female 223,411)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 65.9<br>
-_youth dependency ratio_: 60.4<br>
-_elderly dependency ratio_: 5.5<br>
-_potential support ratio_: 18.1 (2021 est.)<br>
+_total dependency ratio_: 68.8 (2024 est.)<br>
+_youth dependency ratio_: 62.2 (2024 est.)<br>
+_elderly dependency ratio_: 6.6 (2024 est.)<br>
+_potential support ratio_: 15.2 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 22.8 years (2024 est.)<br>
@@ -230,7 +230,7 @@ _female_: 11 years (2013)<br>
 ## Environment
 
 **Environment - current issues**<br>
-areas of high air pollution from motor vehicles and industry; water pollution from agricultural runoff and disposal of untreated industrial waste and sewage; poor management of water resources; soil erosion; increasing levels of soil salinity<br>
+air pollution from motor vehicles and industry; water pollution from agricultural runoff and untreated industrial waste and sewage; poor management of water resources; soil erosion; increasing levels of soil salinity<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -250,12 +250,6 @@ _other_: 68.9% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 28.2% of total population (2023)<br>
 _rate of urbanization_: 2.73% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-1.12% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.54% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 53.65 micrograms per cubic meter (2019 est.)<br>
@@ -287,7 +281,7 @@ _conventional short form_: Tajikistan<br>
 _local long form_: Jumhurii Tojikiston<br>
 _local short form_: Tojikiston<br>
 _former_: Tajik Soviet Socialist Republic<br>
-_etymology_: the Persian suffix "-stan" means "place of" or "country," so the word Tajikistan literally means "Land of the Tajik [people]"<br>
+_etymology_: the Persian suffix -<em>ostan </em>means "land," so the country name means "Land of the Tajik [people];" the name Tajik comes from the Sanskrit <em>tajika</em>, a name originally used to distinguish Arabs from Turks and derived from the Tay, an Arab people<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -296,7 +290,7 @@ presidential republic<br>
 _name_: Dushanbe<br>
 _geographic coordinates_: 38 33 N, 68 46 E<br>
 _time difference_: UTC+5 (10 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: today's city was originally at the crossroads where a large bazaar occurred on Mondays, hence the name Dushanbe, which in Persian means Monday, i.e., the second day (<em>du</em>) after Saturday (<em>shambe</em>)<br>
+_etymology_: the name means Monday in Persian; today's city was originally at the crossroads where a large bazaar was held on Mondays, or the second day (<em>du</em>) after Saturday (<em>shambe</em>)<br>
 
 **Administrative divisions**<br>
 2 provinces (viloyatho, singular - viloyat), 1 autonomous province* (viloyati mukhtor), 1 capital region** (viloyati poytakht), and 1 area referred to as Districts Under Republic Administration***; Dushanbe**, Khatlon (Bokhtar), Kuhistoni Badakhshon [Gorno-Badakhshan]* (Khorugh), Nohiyahoi Tobei Jumhuri***, Sughd (Khujand)<br>
@@ -346,7 +340,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 3/2/2025<br>
 _parties elected and seats per party_: People's Democratic Party of Tajikistan (PDPT) (47); Agrarian Party of Tajikistan (APT) (7); Party of Economic Reforms of Tajikistan (PERT) (5); Other (4)<br>
-_percentage of women in chamber_: 27%<br>
+_percentage of women in chamber_: 28.6%<br>
 _expected date of next election_: March 2030<br>
 
 **Legislative branch - upper chamber**<br>
@@ -354,9 +348,9 @@ _chamber name_: National Assembly (Majlisi milli)<br>
 _number of seats_: 33 (25 indirectly elected; 8 appointed)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 3/27/2020<br>
+_most recent election date_: 3/28/2025<br>
 _percentage of women in chamber_: 25.8%<br>
-_expected date of next election_: March 2025<br>
+_expected date of next election_: March 2030<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chairman, deputy chairmen, and 34 judges organized into civil, family, criminal, administrative offense, and military chambers); Constitutional Court (consists of the court chairman, deputy chairman, and 5 judges); High Economic Court (consists of 16 judicial positions)<br>
@@ -464,19 +458,19 @@ aluminum, cement, coal, gold, silver, antimony, textile, vegetable oil<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.724 million (2023 est.)<br>
+2.78 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.98% (2023 est.)<br>
-6.98% (2022 est.)<br>
-7.25% (2021 est.)<br>
+11.6% (2024 est.)<br>
+11.5% (2023 est.)<br>
+11.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.9% (2023 est.)<br>
-_male_: 19.5% (2023 est.)<br>
-_female_: 13.2% (2023 est.)<br>
+_total_: 27.1% (2024 est.)<br>
+_male_: 30% (2024 est.)<br>
+_female_: 23.3% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -507,19 +501,19 @@ _expenditures_: $1.145 billion (2022 est.)<br>
 50.4% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-10.34% (of GDP) (2022 est.)<br>
+10.9% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$887.016 million (2024 est.)<br>
 $584.022 million (2023 est.)<br>
 $1.635 billion (2022 est.)<br>
-$735.526 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$1.618 billion (2024 est.)<br>
 $2.105 billion (2023 est.)<br>
 $1.753 billion (2022 est.)<br>
-$2.161 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -531,9 +525,9 @@ gold, precious metal ore, aluminum, lead ore, antimony (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$6.907 billion (2024 est.)<br>
 $5.931 billion (2023 est.)<br>
 $5.261 billion (2022 est.)<br>
-$4.258 billion (2021 est.) note: data are in current year dollars<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -545,21 +539,22 @@ garments, footwear, cars, wheat, vehicle parts/accessories (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$3.304 billion (2023 est.)<br>
 $3.847 billion (2022 est.)<br>
 $2.499 billion (2021 est.)<br>
-$2.238 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$3.191 billion (2023 est.)<br>
+$3.024 billion (2023 est.)<br>
+<strong>note:</strong> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Tajikistani somoni (TJS) per US dollar -<br>
+10.799 (2024 est.)<br>
 10.845 (2023 est.)<br>
 11.031 (2022 est.)<br>
 11.309 (2021 est.)<br>
 10.322 (2020 est.)<br>
-9.53 (2019 est.)<br>
 
 ## Energy
 
@@ -622,7 +617,7 @@ _domestic_: fixed-line over 5 per 100 and mobile-cellular over 119 per 100 (2022
 _international_: country code - 992; linked by cable and microwave radio relay to other CIS republics and by leased connections to the Moscow international gateway switch; Dushanbe linked by Intelsat to international gateway switch in Ankara (Turkey); 3 satellite earth stations - 2 Intelsat and 1 Orbita<br>
 
 **Broadcast media**<br>
-state-run TV broadcasters transmit nationally on 9 TV and 10 radio stations, and regionally on 4 stations; 31 independent TV and 20 radio stations broadcast locally and regionally; many households are able to receive Russian and other foreign stations via cable and satellite (2016)<br>
+state-run broadcaster has 9 national TV and 10 radio stations, and 4 regional stations; 31 independent TV and 20 independent radio stations broadcast locally and regionally; Russian and other foreign stations available via cable and satellite (2016)<br>
 
 **Internet country code**<br>
 .tj<br>
@@ -636,12 +631,6 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 6<br>
-_annual passenger traffic on registered air carriers_: 492,320 (2018)<br>
-_annual freight traffic on registered air carriers_: 2.34 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 EY<br>
 
@@ -651,24 +640,15 @@ EY<br>
 **Heliports**<br>
 1 (2025)<br>
 
-**Pipelines**<br>
-549 km gas, 38 km oil (2013)<br>
-
 **Railways**<br>
 _total_: 680 km (2014)<br>
 _broad gauge_: 680 km (2014) 1.520-m gauge<br>
 
-**Roadways**<br>
-_total_: 30,000 km (2018)<br>
-
-**Waterways**<br>
-200 km (2011) (along Vakhsh River)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Republic of Tajikistan: Land Forces, Mobile Forces, Air and Air Defense Forces; National Guard<br><br>Ministry of Internal Affairs: Internal Troops (reserves for Armed Forces in wartime), police<br><br>State Committee on National Security: Border Guard Forces (2023)<br>
-<strong>note: </strong>the National Guard, formerly the Presidential Guard, is tasked with ensuring public safety and security, similar to the tasks of the Internal Troops; it also takes part in ceremonial duties<br>
+Armed Forces of the Republic of Tajikistan: Ground Forces, Mobile Forces, Air and Air Defense Forces; Tajik National Guard (TNG)<br><br>Ministry of Internal Affairs: Internal Troops of Tajikistan (ITT); police<br><br>State Committee on National Security: Tajik Border Service (TBS) (2024)<br>
+<strong>note: </strong>the Mobile Forces are the airborne, air assault, mountain, and rapid reaction troops of the armed forces; the Tajik National Guard, formerly the Presidential Guard, is tasked with ensuring public safety and security, similar to the tasks of the Internal Troops; it also takes part in ceremonial duties<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2023 est.)<br>
@@ -678,17 +658,17 @@ Armed Forces of the Republic of Tajikistan: Land Forces, Mobile Forces, Air and 
 2.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 10,000 active-duty troops (8,000 Land and Mobile Forces; 2,000 Air and Air Defense Forces) (2023)<br>
+approximately 10,000 active-duty Armed Forces troops (7,500 Land and Mobile Forces; 1,500 Air and Air Defense Forces; 1,000 National Guard); approximately 4,000 Internal Troops (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is comprised mostly of older Russian and Soviet-era weapons and equipment; it also has smaller amounts of items from suppliers such as China, Turkey, and the US; in 2022, Tajikistan opened a plant to produce an Iranian-designed unmanned aerial vehicle under license (2024)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory (men only) or voluntary (men and women) military service; 24-month conscript service obligation (2023)<br>
+18-27 years of age for compulsory (men only) or voluntary (men and women) military service; 24-month conscript service obligation or 12 months for those with a higher education (2024)<br>
 <strong>note:</strong> in August 2021, the Tajik Government removed an exemption for university graduates but began allowing men to pay a fee in order to avoid conscription, although there is a cap on the number of individuals who can take advantage of this exemption<br>
 
 **Military - note**<br>
-the military's primary concerns are terrorism, border security, territorial defense, and instability in neighboring countries; Russia is Tajikistan’s primary security partner and thousands of Russian troops are stationed in the country, primarily at the 201st military base, which is leased until at least 2042; Russia and Tajikistan have a joint air defense system and they conduct periodic joint exercises; Tajikistan has been a member of the Russian-led Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force<br><br>Tajikistan is the only former Soviet republic that did not form its armed forces from old Soviet Army units following the collapse of the USSR in 1991; rather, Russia retained command of the Soviet units there while the Tajik government raised a military from scratch; the first ground forces were officially created in 1993 from groups that fought for the government during the Tajik Civil War (2023)<br>
+the military's primary concerns are terrorism, border security, territorial defense, and instability in neighboring countries; Russia is Tajikistan’s most important security partner and thousands of Russian troops are stationed in the country, primarily at the 201st military base, which is leased until at least 2042; Russia and Tajikistan have a joint air defense system and they conduct periodic joint exercises; Tajikistan has been a member of the Russian-led Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force<br><br>Tajikistan is the only former Soviet republic that did not form its armed forces from old Soviet Army units following the collapse of the USSR in 1991; rather, Russia retained command of the Soviet units there while the Tajik government raised a military from scratch; the first ground forces were officially created in 1993 from groups that fought for the government during the Tajik Civil War (2025)<br>
 
 ## Terrorism
 

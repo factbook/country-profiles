@@ -65,7 +65,7 @@ the island of Streymoy is by far the most populous with over 40% of the populati
 strong winds and heavy rains can occur throughout the year<br>
 
 **Geography - note**<br>
-archipelago of 17 inhabited islands and one uninhabited island, and a few uninhabited islets; strategically located along important sea lanes in northeastern Atlantic; precipitous terrain limits habitation to small coastal lowlands<br>
+archipelago of 17 inhabited islands, one uninhabited island, and a few uninhabited islets; strategically located along important sea lanes in northeastern Atlantic; precipitous terrain limits habitation to small coastal lowlands<br>
 
 ## People and Society
 
@@ -95,10 +95,10 @@ _15-64 years_: 61.5% (male 17,188/female 15,346)<br>
 _65 years and over_: 18.5% (2024 est.) (male 4,723/female 5,065)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 62.8<br>
-_youth dependency ratio_: 33.6<br>
-_elderly dependency ratio_: 29.1<br>
-_potential support ratio_: 3.4 (2021)<br>
+_total dependency ratio_: 62.7 (2024 est.)<br>
+_youth dependency ratio_: 32.6 (2024 est.)<br>
+_elderly dependency ratio_: 30.1 (2024 est.)<br>
+_potential support ratio_: 3.3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 36.8 years (2024 est.)<br>
@@ -209,9 +209,6 @@ _other_: 29.8% (2022 est.)<br>
 _urban population_: 43% of total population (2023)<br>
 _rate of urbanization_: 0.89% annual rate of change (2020-25 est.)<br>
 
-**Revenue from forest resources**<br>
-0% of GDP (2017 est.)<br>
-
 **Air pollutants**<br>
 _carbon dioxide emissions_: 0.63 megatons (2016 est.)<br>
 
@@ -243,7 +240,7 @@ _name_: Torshavn<br>
 _geographic coordinates_: 62 00 N, 6 46 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the meaning in Danish is "Thor's harbor"<br>
+_etymology_: the name means "Thor's harbor" in Danish<br>
 
 **Administrative divisions**<br>
 part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark; there are 29 first-order municipalities (kommunur, singular - kommuna) Eidhi, Eystur, Famjin, Fuglafjordhur, Fugloy, Hov, Husavik, Hvalba, Hvannasund, Klaksvik, Kunoy, Kvivik, Nes, Porkeri, Runavik, Sandur, Sjovar, Skalavik, Skopun, Skuvoy, Sorvagur, Sumba, Sunda, Torshavn, Tvoroyri, Vagar, Vagur, Vestmanna, Vidhareidhi<br>
@@ -255,7 +252,7 @@ none (part of the Kingdom of Denmark; self-governing overseas administrative div
 Olaifest (Olavsoka) (commemorates the death in battle of King OLAF II of Norway, later St. OLAF), 29 July (1030)<br>
 
 **Legal system**<br>
-the laws of Denmark apply where applicable<br>
+the laws of Denmark apply&nbsp;<br>
 
 **Constitution**<br>
 _history_: 5 June 1953 (Danish Constitution), 23 March 1948 (Home Rule Act), and 24 June 2005 (Takeover Act) serve as the Faroe Islands' constitutional position in the Unity of the Realm<br>
@@ -390,13 +387,10 @@ fishing, fish processing, tourism, small ship repair and refurbishment, handicra
 **Public debt**<br>
 35% of GDP (2014 est.)<br>
 
-**Taxes and other revenues**<br>
-30.2% (of GDP) (2014 est.)<br>
-
 **Exports**<br>
+$2.255 billion (2023 est.)<br>
 $2.219 billion (2022 est.)<br>
 $1.923 billion (2021 est.)<br>
-$1.552 billion (2020 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -406,9 +400,9 @@ Russia 26.4%, UK 14.1%, Germany 8.4%, China 7.9%, Spain 6.8%, Denmark 6.2%, US 4
 fish and fish products (2021)<br>
 
 **Imports**<br>
+$2.212 billion (2023 est.)<br>
 $2.223 billion (2022 est.)<br>
 $1.906 billion (2021 est.)<br>
-$1.597 billion (2020 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -419,11 +413,11 @@ goods for household consumption, machinery and transport equipment, fuels, raw m
 
 **Exchange rates**<br>
 _Currency_: Danish kroner (DKK) per US dollar -<br>
+6.894 (2024 est.)<br>
 6.89 (2023 est.)<br>
 7.076 (2022 est.)<br>
 6.287 (2021 est.)<br>
 6.542 (2020 est.)<br>
-6.669 (2019 est.)<br>
 
 ## Energy
 
@@ -483,10 +477,6 @@ _subscriptions per 100 inhabitants_: 35 (2022 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020) (registered in Denmark)<br>
-_inventory of registered aircraft operated by air carriers_: 3 (registered in Denmark)<br>
-
 **Civil aircraft registration country code prefix**<br>
 OY-H<br>
 
@@ -495,12 +485,6 @@ OY-H<br>
 
 **Heliports**<br>
 12 (2025)<br>
-
-**Roadways**<br>
-_total_: 960 km<br>
-_paved_: 500 km<br>
-_unpaved_: 460 km (2017)<br>
-<strong>note:</strong> those islands not connected by roads (bridges or tunnels) are connected by seven different ferry links operated by the nationally owned company SSL; 28 km of tunnels<br>
 
 **Merchant marine**<br>
 _total_: 91 (2023)<br>

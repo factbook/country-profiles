@@ -98,10 +98,10 @@ _15-64 years_: 53.8% (male 8,620/female 8,490)<br>
 _65 years and over_: 37.1% (2024 est.) (male 5,261/female 6,549)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 95.2<br>
-_youth dependency ratio_: 25<br>
-_elderly dependency ratio_: 70.2<br>
-_potential support ratio_: 1.4 (2021)<br>
+_total dependency ratio_: 85.9 (2024 est.)<br>
+_youth dependency ratio_: 16.9 (2024 est.)<br>
+_elderly dependency ratio_: 69 (2024 est.)<br>
+_potential support ratio_: 1.4 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 56.9 years (2024 est.)<br>
@@ -194,9 +194,6 @@ _female_: NA<br>
 
 ## Environment
 
-**Environment - current issues**<br>
-no serious issues; actively monitors pollution levels in air and water<br>
-
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
@@ -215,9 +212,6 @@ _other_: 100% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 0.5% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 9.21 micrograms per cubic meter (2019 est.)<br>
@@ -250,7 +244,7 @@ _name_: Monaco<br>
 _geographic coordinates_: 43 44 N, 7 25 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: founded as a Greek colony in the 6th century B.C., the name derives from two Greek words <em>monos</em> (single, alone) and <em>oikos</em> (house) to convey the sense of a people "living apart" or in a "single habitation"<br>
+_etymology_: founded as a Greek colony in the 6th century B.C., the name's origin is unclear; it could derive from the Greek term <em>monoikos</em> (solitary), the Ligurian word <em>monegu</em> (rock), or the Basque word <em>muno</em> (mountain)<br>
 
 **Administrative divisions**<br>
 none; there are no first-order administrative divisions as defined by the US Government, but there are 4 quarters (quartiers, singular - quartier); Fontvieille, La Condamine, Monaco-Ville, Monte-Carlo; note - Moneghetti, a part of La Condamine, is sometimes called the 5th quarter of Monaco<br>
@@ -370,10 +364,6 @@ banking, insurance, tourism, construction, small-scale industrial and consumer p
 -3.16% (2014 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
-**Labor force**<br>
-52,000 (2014 est.)<br>
-<strong>note:</strong> includes all foreign workers<br>
-
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 26.6% (2016 est.)<br>
 _male_: 25.7%<br>
@@ -402,11 +392,11 @@ jewelry, cars and vehicle parts, recreational boats, plastic products, artwork (
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 <strong>note: </strong>while not an EU member state, Monaco, due to its preexisting monetary and banking agreements with France, has a 1998 monetary agreement with the EU to produce limited euro coinage—but not banknotes—that began enforcement in January 2002 and superseded by a new EU agreement in 2012<br>
 
 ## Energy
@@ -430,7 +420,7 @@ _domestic_: fixed-line a little over 117 per 100 and mobile-cellular teledensity
 _international_: country code - 377; landing points for the EIG and Italy-Monaco submarine cables connecting Monaco to Europe, Africa, the Middle East and Asia; no satellite earth stations; connected by cable into the French communications system (2019)<br>
 
 **Broadcast media**<br>
-TV Monte-Carlo operates a TV network; cable TV available; Radio Monte-Carlo has extensive radio networks in France and Italy with French-language broadcasts to France beginning in the 1960s and Italian-language broadcasts to Italy beginning in the 1970s; other radio stations include Riviera Radio and Radio Monaco<br>
+TV Monte-Carlo operates a TV network; cable TV available; Radio Monte-Carlo has extensive radio networks in France and Italy, with French-language broadcasts to France beginning in the 1960s and Italian-language broadcasts to Italy beginning in the 1970s; other radio stations include Riviera Radio and Radio Monaco<br>
 
 **Internet country code**<br>
 .mc<br>
@@ -468,7 +458,7 @@ _key ports_: Monaco<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Ministry of Interior: Compagnie des Carabiniers du Prince (Prince’s Company of Carabiniers), Corps des Sapeurs-pompiers de Monaco (Fire and Emergency), Police Department (2024)<br>
+no regular military forces; Prince’s Company of Carabiniers (Compagnie des Carabiniers du Prince, Police Department (Direction de la Sûreté Publique), Fire and Emergency Service (Corps des Sapeurs-pompiers de Monaco) (2025)<br>
 <strong>note:</strong> the primary responsibility for the Compagnie des Carabiniers du Prince is guarding the palace; the Police maintain public order<br>
 
 **Military service age and obligation**<br>

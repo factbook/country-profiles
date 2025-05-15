@@ -104,10 +104,10 @@ _15-64 years_: 68.7% (male 3,659,441/female 3,656,493)<br>
 _65 years and over_: 9% (2024 est.) (male 401,551/female 558,984)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 44.2<br>
-_youth dependency ratio_: 34.7<br>
-_elderly dependency ratio_: 9.7<br>
-_potential support ratio_: 10.3 (2021 est.)<br>
+_total dependency ratio_: 45.6 (2024 est.)<br>
+_youth dependency ratio_: 32.4 (2024 est.)<br>
+_elderly dependency ratio_: 13.1 (2024 est.)<br>
+_potential support ratio_: 7.6 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 34.3 years (2024 est.)<br>
@@ -232,7 +232,7 @@ _female_: 14 years (2021)<br>
 ## Environment
 
 **Environment - current issues**<br>
-local scientists consider the Abseron Yasaqligi (Apsheron Peninsula) (including Baku and Sumqayit) and the Caspian Sea to be the ecologically most devastated area in the world because of severe air, soil, and water pollution; soil pollution results from oil spills, from the use of DDT pesticide, and from toxic defoliants used in the production of cotton; surface and underground water are polluted by untreated municipal and industrial wastewater and agricultural run-off<br>
+severe air, soil, and water pollution; soil pollution from oil spills, pesticides, and toxic defoliants used in producing cotton; surface and underground water pollution from untreated municipal and industrial wastewater and agricultural run-off<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -253,12 +253,6 @@ _other_: 28.2% (2022 est.)<br>
 _urban population_: 57.6% of total population (2023)<br>
 _rate of urbanization_: 1.38% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Nagorno-Karabakh<br>
-
-**Revenue from forest resources**<br>
-0.02% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 24.64 micrograms per cubic meter (2019 est.)<br>
@@ -297,7 +291,7 @@ _name_: Baku (Baki, Baky)<br>
 _geographic coordinates_: 40 23 N, 49 52 E<br>
 _time difference_: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: does not observe daylight savings time<br>
-_etymology_: the name derives from the Persian designation of the city "bad-kube" meaning "wind-pounded city" and refers to the harsh winds and severe snow storms that can hit the city<br>
+_etymology_: the name may derive from the Old Persian word <em>badkuba</em>, meaning "windward" and referring to its windy location on the shore of the Caspian Sea<br>
 <strong>note: </strong>at approximately 28 m below sea level, Baku's elevation makes it the lowest capital city in the world<br>
 
 **Administrative divisions**<br>
@@ -418,9 +412,9 @@ $72.356 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-8.79% (2023 est.)<br>
-13.85% (2022 est.)<br>
-6.65% (2021 est.)<br>
+2.2% (2024 est.)<br>
+8.8% (2023 est.)<br>
+13.9% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -456,19 +450,19 @@ petroleum and petroleum products, natural gas, oilfield equipment; steel, iron o
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.537 million (2023 est.)<br>
+5.028 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.64% (2023 est.)<br>
-5.65% (2022 est.)<br>
-6.04% (2021 est.)<br>
+5.6% (2024 est.)<br>
+5.6% (2023 est.)<br>
+5.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.5% (2023 est.)<br>
-_male_: 12% (2023 est.)<br>
-_female_: 15.3% (2023 est.)<br>
+_total_: 13.7% (2024 est.)<br>
+_male_: 12.3% (2024 est.)<br>
+_female_: 15.3% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -490,23 +484,23 @@ _expenditures_: $14.882 billion (2021 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-16.82% of GDP (2021 est.)<br>
+16.8% of GDP (2021 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-15.45% (of GDP) (2022 est.)<br>
+15.4% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$4.671 billion (2024 est.)<br>
 $8.329 billion (2023 est.)<br>
 $23.478 billion (2022 est.)<br>
-$8.203 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$34.113 billion (2024 est.)<br>
 $35.487 billion (2023 est.)<br>
 $47.274 billion (2022 est.)<br>
-$25.494 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -518,9 +512,9 @@ crude petroleum, natural gas, refined petroleum, plastics, electricity (2023)<br
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$27.339 billion (2024 est.)<br>
 $25.016 billion (2023 est.)<br>
 $21.274 billion (2022 est.)<br>
-$16.432 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -532,22 +526,22 @@ cars, crude petroleum, refined petroleum, broadcasting equipment, garments (2023
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$12.699 billion (2024 est.)<br>
 $13.749 billion (2023 est.)<br>
 $11.338 billion (2022 est.)<br>
-$8.29 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$12.574 billion (2023 est.)<br>
+$12.378 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Azerbaijani manats (AZN) per US dollar -<br>
+1.7 (2024 est.)<br>
 1.7 (2023 est.)<br>
 1.7 (2022 est.)<br>
 1.7 (2021 est.)<br>
 1.7 (2020 est.)<br>
-1.7 (2019 est.)<br>
 
 ## Energy
 
@@ -604,12 +598,12 @@ _total subscriptions_: 11 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 107 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>the telecom sector was one of the major contributors to Azerbaijan’s non-oil GDP, overall development, growth, and investment; mobile usage rates reached 100% as far back as 2011, but have largely stagnated since then; the Mobile Network Operators (MNOs) are slowly extending the reach of their long-term evolution (LTE) networks around the country, and this increased coverage (along with access to faster data-based services) is expected to produce a moderate resurgence for both mobile and mobile broadband over the next few years as customers migrate from 3G to 4G. 5G services are still some ways off, as the demand for high-speed data and fast broadband can easily be met by existing capacity on LTE networks; fixed-line tele density continues to drop down each year as customers consolidate their telecommunications services around the mobile platform; yet the rate of decline is comparatively slow to other countries, since Azerbaijan has a relatively high proportion of (87%) of fixed-line broadband customers still on DSL; Fiber (12% of fixed broadband connections) is gradually being rolled out in urban areas, and this makes up the bulk of the (limited) growth being seen in the overall fixed broadband market; DSL’s predominance, however, will serve to keep Azerbaijan’s average access speeds in the sub-10Mbps range for the foreseeable future</p> (2024)<br>
+_general assessment_: <p>the telecom sector was one of the major contributors to Azerbaijan’s non-oil GDP, development, growth, and investment; mobile usage rates reached 100% in 2011, but have largely stagnated since; the MNOs are slowly extending the reach of their LTE networks around the country, and this increased coverage (along with access to faster data-based services) is expected to produce a moderate resurgence for both mobile and mobile broadband over the next few years as customers migrate from 3G to 4G; 5G services are still some way off, as the demand for high-speed data and fast broadband can easily be met by existing capacity; fixed-line teledensity continues to drop each year as customers consolidate their services around the mobile platform; the rate of decline is slow compared to other countries, since Azerbaijan has a high proportion (87%) of fixed-line broadband customers still on DSL; fiber (12% of fixed broadband connections) is gradually being rolled out in urban areas, which makes up the bulk of the limited growth in the fixed broadband market</p> (2024)<br>
 _domestic_: 16 fixed-lines subscriptions per 100 persons; mobile-cellular subscriptions of 107 telephones per 100 persons (2022)<br>
-_international_: country code - 994; Azerbaijan’s largest mobile network operator (MNO)  launched trial 5G mobile services in Baku on 27 December 2022 (2023)<br>
+_international_: country code - 994; Azerbaijan’s largest MNO launched trial 5G mobile services in Baku on 27 December 2022 (2023)<br>
 
 **Broadcast media**<br>
-<p class="ssrcss-1q0x1qg-Paragraph e1jhz7w10">TV is the most popular medium and many homes are hooked up to satellite, all Azerbaijan-based channels promote the government line, state-owned AzTV runs three national channels and there are four national privately-owned stations, state-funded iTV is a notional public service broadcaster, Turkish, Russian and Western TVs are available on cable, opposition and exile TVs use satellite and online distribution, analogue terrestrial TV was phased out in 2016-17, radio outlets focus on entertainment, around a dozen stations are on FM in Baku and many of them are relayed elsewhere, newspapers distribution is largely limited to Baku</p> (2023)<br>
+<p class="ssrcss-1q0x1qg-Paragraph e1jhz7w10">TV is the most popular medium; many homes are hooked up to satellite; all Azerbaijan-based channels promote government positions; state-owned AzTV runs three national channels, and state-funded iTV is a national public service broadcaster; 4 national privately-owned stations; Turkish, Russian, and western TV is available on cable; analog terrestrial TV was phased out in 2016-17; radio outlets focus on entertainment, with around a dozen stations on FM in Baku; newspaper distribution is largely limited to Baku</p> (2023)<br>
 
 **Internet country code**<br>
 .az<br>
@@ -623,12 +617,6 @@ _subscriptions per 100 inhabitants_: 21 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 42 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 44<br>
-_annual passenger traffic on registered air carriers_: 2,279,546 (2018)<br>
-_annual freight traffic on registered air carriers_: 44.09 million (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 4K<br>
 
@@ -638,16 +626,9 @@ _annual freight traffic on registered air carriers_: 44.09 million (2018) mt-km<
 **Heliports**<br>
 5 (2025)<br>
 
-**Pipelines**<br>
-89 km condensate, 3,890 km gas, 2,446 km oil (2013)<br>
-
 **Railways**<br>
 _total_: 2,944.3 km (2017)<br>
 _broad gauge_: 2,944.3 km (2017) 1.520-m gauge (approx. 1,767 km electrified)<br>
-
-**Roadways**<br>
-_total_: 24,981 km (2013)<br>
-<strong>note:</strong> total roadway length has increased significantly and continues to grow due to the recovery of Armenian-held territories and related reconstruction efforts. No updated figure is currently available.<br>
 
 **Merchant marine**<br>
 _total_: 312 (2023)<br>
@@ -656,7 +637,7 @@ _by type_: general cargo 40, oil tanker 44, other 228<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Azerbaijan Armed Forces: Land Forces, Air Forces, Navy Forces, Special Forces, State Border Service, Coast Guard<br><br>Ministry of Internal Affairs: Internal Troops, local police forces; Special State Protection Service (SSPS): National Guard (2024)<br>
+Azerbaijan Armed Forces: Land Forces, Air Forces, Navy Forces, Special Forces, State Border Service, Coast Guard<br><br>Ministry of Internal Affairs: Internal Troops, local police forces; Special State Protection Service (SSPS): National Guard (2025)<br>
 <strong>note:</strong> the Ministry of Internal Affairs and the State Security Service (intelligence, counterterrorism) are responsible for internal security; the SSPS is under the president and provides protective services to senior officials, foreign missions, significant state assets, government buildings, etc; the National Guard also serves as a reserve for the Army<br>
 
 **Military expenditures**<br>
@@ -667,7 +648,7 @@ Azerbaijan Armed Forces: Land Forces, Air Forces, Navy Forces, Special Forces, S
 3.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; estimated 100,000 active armed forces (2024)<br>
+information varies widely; estimated 100,000 active Armed Forces personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 Baku has been actively upgrading its equipment for over a decade with purchases from Belarus, Israel, Russia, and Turkey; while most of the military's equipment was once Soviet-era material, it now fields quantities of advanced equipment, including armored vehicles, artillery systems, air defense systems, tanks, and UAVs (2024)<br>

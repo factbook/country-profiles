@@ -61,7 +61,7 @@ strategic location 160 km south of the US Naval Base at Guantanamo Bay, Cuba; mo
 ## People and Society
 
 **Population**<br>
-_total_: uninhabited; transient Haitian fishermen and others camp on the island<br>
+_total_: uninhabited<br>
 
 ## Environment
 
@@ -82,10 +82,10 @@ _conventional short form_: Navassa Island<br>
 _etymology_: the flat island was named "Navaza" by sailors with the Christopher COLUMBUS expedition in 1504; the name derives from the Spanish word <em>nava</em>, meaning "flat land or level ground"<br>
 
 **Dependency status**<br>
-unorganized, unincorporated territory of the US; administered by the Fish and Wildlife Service, US Department of the Interior from the Caribbean Islands National Wildlife Refuge in Boqueron, Puerto Rico; in September 1996, the Coast Guard ceased operations and maintenance of the Navassa Island Light, a 46-meter-tall lighthouse on the southern side of the island; Haiti has claimed the island since the 19th century<br>
+unorganized, unincorporated territory of the US; administered by the Fish and Wildlife Service, US Department of the Interior, from the Caribbean Islands National Wildlife Refuge in Boqueron, Puerto Rico; Haiti has claimed the island since the 19th century<br>
 
 **Legal system**<br>
-the laws of the US apply where applicable<br>
+the laws of the US apply<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (territory of the US)<br>

@@ -109,10 +109,10 @@ _15-64 years_: 66.5% (male 16,127,377/female 16,859,161)<br>
 _65 years and over_: 11.2% (2024 est.) (male 2,434,999/female 3,128,678)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 43.5<br>
-_youth dependency ratio_: 31<br>
-_elderly dependency ratio_: 12.5<br>
-_potential support ratio_: 8 (2021 est.)<br>
+_total dependency ratio_: 50.3 (2024 est.)<br>
+_youth dependency ratio_: 33.5 (2024 est.)<br>
+_elderly dependency ratio_: 16.9 (2024 est.)<br>
+_potential support ratio_: 5.9 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 32.7 years (2024 est.)<br>
@@ -237,7 +237,7 @@ _female_: 15 years (2020)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation resulting from timber exploitation in the jungles of the Amazon and the region of Chocó; illicit drug crops grown by peasants in the national parks; soil erosion; soil and water quality damage from overuse of pesticides; air pollution, especially in Bogota, from vehicle emissions<br>
+deforestation from timber exploitation in the Amazon and the Choc&oacute; region; soil erosion; soil and water pollution from overuse of pesticides; air pollution, especially in Bogota, from vehicle emissions<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -257,12 +257,6 @@ _other_: 9.4% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 82.4% of total population (2023)<br>
 _rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0.1% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.75% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 14.04 micrograms per cubic meter (2019 est.)<br>
@@ -307,7 +301,7 @@ presidential republic<br>
 _name_: Bogot&aacute;<br>
 _geographic coordinates_: 4 36 N, 74 05 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
-_etymology_: originally referred to as "Bacata," meaning "enclosure outside of the farm fields," by the indigenous Muisca<br>
+_etymology_: originally named Santa Fe de Bacat&aacute; in 1538, after the Chibcha people's nearby settlement of Bacat&aacute;; the name was later corrupted to Bogot&aacute;<br>
 
 **Administrative divisions**<br>
 32 departments (departamentos, singular - departamento) and 1 capital district* (distrito capital); Amazonas, Antioquia, Arauca, Atlantico, Bogota*, Bolivar, Boyaca, Caldas, Caqueta, Casanare, Cauca, Cesar, Choco, Cordoba, Cundinamarca, Guainia, Guaviare, Huila, La Guajira, Magdalena, Meta, Narino, Norte de Santander, Putumayo, Quindio, Risaralda, Archipielago de San Andres, Providencia y Santa Catalina (colloquially San Andres y Providencia), Santander, Sucre, Tolima, Valle del Cauca, Vaupes, Vichada<br>
@@ -443,9 +437,9 @@ $363.494 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-11.74% (2023 est.)<br>
-10.18% (2022 est.)<br>
-3.5% (2021 est.)<br>
+6.6% (2024 est.)<br>
+11.7% (2023 est.)<br>
+10.2% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -481,19 +475,19 @@ textiles, food processing, oil, clothing and footwear, beverages, chemicals, cem
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-26.294 million (2023 est.)<br>
+26.822 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-9.57% (2023 est.)<br>
-10.55% (2022 est.)<br>
-13.9% (2021 est.)<br>
+9.6% (2024 est.)<br>
+9.6% (2023 est.)<br>
+10.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.3% (2023 est.)<br>
-_male_: 16.1% (2023 est.)<br>
-_female_: 23.7% (2023 est.)<br>
+_total_: 19.8% (2024 est.)<br>
+_male_: 16.5% (2024 est.)<br>
+_female_: 24.3% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -525,22 +519,22 @@ _expenditures_: $113.035 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-70.14% of GDP (2022 est.)<br>
+71.9% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-15.28% (of GDP) (2022 est.)<br>
+17.7% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$9.13 billion (2023 est.)<br>
--$21.185 billion (2022 est.)<br>
+-$8.623 billion (2023 est.)<br>
+-$21.224 billion (2022 est.)<br>
 -$17.949 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$68.273 billion (2023 est.)<br>
-$73.205 billion (2022 est.)<br>
+$68.318 billion (2023 est.)<br>
+$73.184 billion (2022 est.)<br>
 $50.913 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
@@ -553,8 +547,8 @@ crude petroleum, coal, gold, coffee, refined petroleum (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$76.23 billion (2023 est.)<br>
-$89.606 billion (2022 est.)<br>
+$76.431 billion (2023 est.)<br>
+$89.623 billion (2022 est.)<br>
 $70.914 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
@@ -567,22 +561,22 @@ refined petroleum, cars, broadcasting equipment, aircraft, packaged medicine (20
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$61.506 billion (2024 est.)<br>
 $59.041 billion (2023 est.)<br>
 $56.704 billion (2022 est.)<br>
-$58.019 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$110.471 billion (2023 est.)<br>
+$108.027 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Colombian pesos (COP) per US dollar -<br>
+4,074.434 (2024 est.)<br>
 4,325.955 (2023 est.)<br>
 4,256.194 (2022 est.)<br>
 3,744.244 (2021 est.)<br>
 3,693.276 (2020 est.)<br>
-3,281.622 (2019 est.)<br>
 
 ## Energy
 
@@ -660,12 +654,6 @@ _subscriptions per 100 inhabitants_: 17 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 12 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 157<br>
-_annual passenger traffic on registered air carriers_: 33,704,037 (2018)<br>
-_annual freight traffic on registered air carriers_: 1,349,450,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 HJ, HK<br>
 
@@ -675,19 +663,10 @@ HJ, HK<br>
 **Heliports**<br>
 57 (2025)<br>
 
-**Pipelines**<br>
-4,991 km gas, 6,796 km oil, 3,429 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 2,141 km (2019)<br>
 _standard gauge_: 150 km (2019) 1.435-m gauge<br>
 _narrow gauge_: 1,991 km (2019) 0.914-m gauge<br>
-
-**Roadways**<br>
-_total_: 206,102 km (2022)<br>
-
-**Waterways**<br>
-24,725 km (2019) (18,225 km navigable; the most important waterway, the River Magdalena, of which 1,092 km is navigable, is dredged regularly to ensure safe passage of cargo vessels and container barges)<br>
 
 **Merchant marine**<br>
 _total_: 153 (2023)<br>
@@ -717,7 +696,7 @@ Military Forces of Colombia (Fuerzas Militares de Colombia<em lang="es">)</em>: 
 3.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 260,000 active troops (200,000 Army; 45,000 Navy, including about 20,000 marines; 15,000 Air Force); approximately 175,000 National Police (2023)<br>
+information varies; approximately 260,000 active troops (200,000 Army; 45,000 Navy, including about 20,000 marines; 15,000 Air Force); approximately 175,000 National Police (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes a wide mix of equipment from a variety of suppliers, including Canada, Germany, Israel, South Korea, and especially the US; Colombia's defense industry is active in producing air, land, and naval platforms (2024)<br>

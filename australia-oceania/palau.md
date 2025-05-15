@@ -98,10 +98,10 @@ _15-64 years_: 71.3% (male 8,647/female 6,935)<br>
 _65 years and over_: 11.2% (2024 est.) (male 612/female 1,845)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 43.8<br>
-_youth dependency ratio_: 30.2<br>
-_elderly dependency ratio_: 13.7<br>
-_potential support ratio_: 7.3 (2021)<br>
+_total dependency ratio_: 40.3 (2024 est.)<br>
+_youth dependency ratio_: 24.5 (2024 est.)<br>
+_elderly dependency ratio_: 15.8 (2024 est.)<br>
+_potential support ratio_: 6.3 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 35.3 years (2024 est.)<br>
@@ -209,7 +209,7 @@ _female_: 17 years (2013)<br>
 ## Environment
 
 **Environment - current issues**<br>
-inadequate facilities for disposal of solid waste; threats to the marine ecosystem from sand and coral dredging, illegal and destructive fishing practices, and overfishing; climate change contributes to rising sea level and coral bleaching; drought<br>
+inadequate facilities for disposal of solid waste; threats to the marine ecosystem from sand and coral dredging, illegal fishing practices, and overfishing; rising sea level; coral bleaching; drought<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
@@ -229,9 +229,6 @@ _other_: 0.3% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 82.4% of total population (2023)<br>
 _rate of urbanization_: 1.59% annual rate of change (2020-25 est.)<br>
-
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 7.82 micrograms per cubic meter (2019 est.)<br>
@@ -261,8 +258,7 @@ presidential republic in free association with the US<br>
 _name_: Ngerulmud<br>
 _geographic coordinates_: 7 30 N, 134 37 E<br>
 _time difference_: UTC+9 (14 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the Palauan meaning is "place of fermented 'mud'" ('mud' being the native name for the keyhole angelfish); the site of the new capitol (established in 2006) had been a large hill overlooking the ocean,&nbsp;Ngerulmud, on which women would communally gather to offer fermented angelfish to the gods<br>
-<strong>note: </strong>Ngerulmud, on Babeldaob Island, is the smallest national capital on earth by population, with only a few hundred people; the name is pronounced en-jer-al-mud; Koror, on Koror Island, with over 11,000 residents is by far the largest settlement in Palau; it served as the country's capital from independence in 1994 to 2006<br>
+_etymology_: the name comes from a Palauan term meaning "place of fermented angelfish;" the site of the capital was the traditional location for women to gather and offer fermented angelfish to the gods<br>
 
 **Administrative divisions**<br>
 16 states; Aimeliik, Airai, Angaur, Hatohobei, Kayangel, Koror, Melekeok, Ngaraard, Ngarchelong, Ngardmau, Ngatpang, Ngchesar, Ngeremlengui, Ngiwal, Peleliu, Sonsorol<br>
@@ -274,7 +270,7 @@ _etymology_: the Palauan meaning is "place of fermented 'mud'" ('mud' being the 
 Constitution Day, 9 July (1981), day of a national referendum to pass the new constitution; Independence Day, 1 October (1994)<br>
 
 **Legal system**<br>
-mixed legal system of civil, common, and customary law<br>
+mixed system of civil, common, and customary law<br>
 
 **Constitution**<br>
 _history_: ratified 9 July 1980, effective 1 January 1981<br>
@@ -394,9 +390,9 @@ $281.849 million (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.2% (2024 est.)<br>
 12.8% (2023 est.)<br>
-12.35% (2022 est.)<br>
-2.61% (2021 est.)<br>
+12.4% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -427,12 +423,6 @@ tourism, fishing, subsistence agriculture<br>
 **Labor force**<br>
 11,610 (2016)<br>
 
-**Unemployment rate**<br>
-1.7% (2015 est.)<br>
-
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.6% (2014)<br>
-
 **Remittances**<br>
 0.69% of GDP (2023 est.)<br>
 0.76% of GDP (2022 est.)<br>
@@ -449,7 +439,7 @@ _expenditures_: $175.508 million (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-18.08% (of GDP) (2020 est.)<br>
+18.1% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -529,20 +519,11 @@ _subscriptions per 100 inhabitants_: 7 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 1 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 1<br>
-
 **Civil aircraft registration country code prefix**<br>
 T8<br>
 
 **Airports**<br>
 3 (2025)<br>
-
-**Roadways**<br>
-_total_: 121 km<br>
-_paved_: 85 km<br>
-_unpaved_: 36 km (2018)<br>
 
 **Merchant marine**<br>
 _total_: 427 (2023)<br>
@@ -560,7 +541,7 @@ _key ports_: Malakal Harbor<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; the Ministry of Justice includes divisions/bureaus for public security, police functions, and maritime law enforcement (2024)<br>
+no regular military forces; the Bureau of Public Safety (Ministry of Justice) has divisions for police functions and maritime security (2025)<br>
 
 **Military - note**<br>
 under the Compact of Free Association between Palau and the US, the US is responsible for the defense of Palau and the US military is granted access to the islands; the COFA also allows citizens of Palau to serve in the US armed forces<br><br>Palau has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Palau's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>

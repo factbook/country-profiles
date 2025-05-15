@@ -80,7 +80,7 @@ the largest and most populous East African country; population distribution is e
 <p>flooding on the central plateau during the rainy season; drought</p><p><strong>volcanism:</strong> limited volcanic activity; Ol Doinyo Lengai (2,962 m) has emitted lava in recent years; other historically active volcanoes include Kieyo and Meru</p><br>
 
 **Geography - note**<br>
-Kilimanjaro is the highest point in Africa and one of only three mountain ranges on the continent that has glaciers (the others are Mount Kenya in Kenya and the Ruwenzori Mountains on the Uganda-Democratic Republic of the Congo border); Tanzania is bordered by three of the largest lakes on the continent: Lake Victoria (the world's second-largest freshwater lake) in the north, Lake Tanganyika (the world's second deepest) in the west, and Lake Nyasa (Lake Malawi) in the southwest<br>
+Kilimanjaro is the highest point in Africa and one of only three mountain ranges on the continent that has glaciers (the others are Mount Kenya in Kenya and the Ruwenzori Mountains on the Uganda-Democratic Republic of the Congo border); Tanzania is bordered by three of the largest lakes on the continent: Lake Victoria (the world's second-largest freshwater lake) in the north, Lake Tanganyika (the world's second-deepest) in the west, and Lake Nyasa (Lake Malawi) in the southwest<br>
 
 ## People and Society
 
@@ -110,10 +110,10 @@ _15-64 years_: 55.4% (male 18,677,388/female 18,708,390)<br>
 _65 years and over_: 3.4% (2024 est.) (male 975,224/female 1,321,388)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 87.7<br>
-_youth dependency ratio_: 81.9<br>
-_elderly dependency ratio_: 5.9<br>
-_potential support ratio_: 20.4 (2021 est.)<br>
+_total dependency ratio_: 82.5 (2024 est.)<br>
+_youth dependency ratio_: 76.8 (2024 est.)<br>
+_elderly dependency ratio_: 5.7 (2024 est.)<br>
+_potential support ratio_: 17.5 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 19.1 years (2024 est.)<br>
@@ -243,7 +243,7 @@ _female_: 9 years (2021)<br>
 ## Environment
 
 **Environment - current issues**<br>
-water pollution; improper management of liquid waste; indoor air pollution caused by the burning of fuel wood or charcoal for cooking and heating is a large environmental health issue; soil degradation; deforestation; desertification; destruction of coral reefs threatens marine habitats; wildlife threatened by illegal hunting and trade, especially for ivory; loss of biodiversity; solid waste disposal<br>
+water pollution; improper management of liquid waste; indoor air pollution from burning wood or charcoal for cooking and heating; soil degradation; deforestation; desertification; coral reef destruction; illegal hunting and animal trade, especially ivory; loss of biodiversity; solid waste disposal<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
@@ -266,12 +266,6 @@ _rate of urbanization_: 4.89% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to localized shortfalls in staple food production - </em>according to the latest analysis, an estimated 990,000 million people were facing severe acute food insecurity between March and May 2023, 839,000 people in 28 mainland districts and 151,000 on Zanzibar Island; the food insecurity situation was mainly driven by a reduced crop production in 2022 due to dry weather conditions and by high food prices (2023)<br>
-
-**Revenue from forest resources**<br>
-2.19% of GDP (2018 est.)<br>
-
-**Revenue from coal**<br>
-0.02% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 15.36 micrograms per cubic meter (2019 est.)<br>
@@ -317,10 +311,10 @@ _etymology_: the country's name is a combination of the first letters of Tangany
 presidential republic<br>
 
 **Capital**<br>
-_name_: Dodoma; note - Dodoma was designated the national capital in 1996; Dar es Salaam, the original national capital, is the country's largest city and commercial center&nbsp;<br>
+_name_: Dodoma<br>
 _geographic coordinates_: 6 48 S, 39 17 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: Dodoma, in the native Gogo language, means "it has sunk"; supposedly, one day during the rainy season, an elephant drowned in the area; the villagers in that place were so struck by what had occurred, that ever since the locale has been referred to as the place where "it (the elephant) sunk"<br>
+_etymology_: the name comes from the name of a nearby mountain; the origin of the mountain's name is unclear<br>
 
 **Administrative divisions**<br>
 31 regions; Arusha, Dar es Salaam, Dodoma, Geita, Iringa, Kagera, Kaskazini Pemba (Pemba North), Kaskazini Unguja (Zanzibar North), Katavi, Kigoma, Kilimanjaro, Kusini Pemba (Pemba South), Kusini Unguja (Zanzibar Central/South), Lindi, Manyara, Mara, Mbeya, Mjini Magharibi (Zanzibar Urban/West), Morogoro, Mtwara, Mwanza, Njombe, Pwani (Coast), Rukwa, Ruvuma, Shinyanga, Simiyu, Singida, Songwe, Tabora, Tanga<br>
@@ -439,9 +433,9 @@ $79.062 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.1% (2024 est.)<br>
 3.8% (2023 est.)<br>
-4.35% (2022 est.)<br>
-3.69% (2021 est.)<br>
+4.4% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -475,19 +469,19 @@ agricultural processing (sugar, beer, cigarettes, sisal twine); mining (diamonds
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-31.054 million (2023 est.)<br>
+32.983 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.61% (2023 est.)<br>
-2.61% (2022 est.)<br>
-2.81% (2021 est.)<br>
+2.6% (2024 est.)<br>
+2.6% (2023 est.)<br>
+2.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.5% (2023 est.)<br>
-_male_: 2.6% (2023 est.)<br>
-_female_: 4.4% (2023 est.)<br>
+_total_: 3.3% (2024 est.)<br>
+_male_: 2.6% (2024 est.)<br>
+_female_: 4.2% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
@@ -522,7 +516,7 @@ _expenditures_: $8.926 billion (2014 est.)<br>
 37% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-11.49% (of GDP) (2023 est.)<br>
+11.5% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -566,7 +560,7 @@ $4.351 billion (2016 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
-$19.178 billion (2023 est.)<br>
+$17.513 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
@@ -636,7 +630,7 @@ _domestic_: fixed-line telephone network is 2 connections per 100 persons; mobil
 _international_: country code - 255; landing points for the EASSy, SEACOM/Tata TGN-Eurasia, and SEAS&nbsp;fiber-optic submarine cable system linking East Africa with the Middle East; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-according to statistics from the Tanzania Communications Regulatory Authority (TCRA), Tanzania had 45 television stations as of 2020; 13 of those stations provided national content services (commercially broadcasting free-to-air television); there are 196 radio stations, most operating at the district level, but also including 5 independent nationally broadcasting stations and 1 state-owned national radio station; international broadcasting is available through satellite television which is becoming increasingly widespread; there are 3 major satellite TV providers (2020)<br>
+about 45 TV stations, with 13 national that broadcast free-to-air TV; 196 radio stations, most operating at the district level, but also including 5 independent national stations and 1 state-owned national radio station; international broadcasts widely available through satellite TV; 3 major satellite TV providers (2020)<br>
 
 **Internet country code**<br>
 .tz<br>
@@ -650,34 +644,17 @@ _subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 11 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 91<br>
-_annual passenger traffic on registered air carriers_: 1,481,557 (2018)<br>
-_annual freight traffic on registered air carriers_: 390,000 (2018) mt-km<br>
-
 **Civil aircraft registration country code prefix**<br>
 5H<br>
 
 **Airports**<br>
 206 (2025)<br>
 
-**Pipelines**<br>
-311 km gas, 891 km oil, 8 km refined products (2013)<br>
-
 **Railways**<br>
 _total_: 4,097 km (2022)<br>
 _standard gauge_: 421 km (2022)<br>
 _narrow gauge_: 969 km (2022) 1.067 m gauge<br>
 _broad gauge_: 2,707 km (2022) 1.000 m guage<br>
-
-**Roadways**<br>
-_total_: 145,203 km<br>
-_paved_: 11,201 km<br>
-_unpaved_: 134,002 km (2022)<br>
-
-**Waterways**<br>
-1,594 km (2022) (Lake Tanganyika 673 km, Lake Victoria 337 km, and Lake Nyasa (Lake Malawi) 584 km are the principal avenues of commerce with neighboring countries; the rivers are not navigable)<br>
 
 **Merchant marine**<br>
 _total_: 381 (2023)<br>
@@ -695,8 +672,8 @@ _key ports_: Chake Chake, Dar Es Salaam, Tanga, Zanzibar<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): Land Forces, Naval Forces, Air Force, National Building Army (Jeshi la Kujenga Taifa, JKT), People's Militia (Reserves)<br><br>Ministry of Home Affairs: Tanzania Police Force (2024)<br>
-<strong>note 1:</strong> the National Building Army (aka National Services) is a paramilitary organization under the Defense Forces that provides six months of military and vocational training to individuals as part of their two years of public service; after completion of training, some graduates join the regular Defense Forces while the remainder become part of the People's (or Citizen's) Militia<br><br><strong>note 2:</strong> the Tanzania Police Force includes the Police Field Force (aka Field Force Unit), a special police division with the responsibility for controlling unlawful demonstrations and riots<br>
+Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): Land Forces, Naval Forces, Air Force, Nation Building Army (Jeshi la Kujenga Taifa, JKT), Reserve Forces<br><br>Ministry of Home Affairs: Tanzania Police Force (Jeshi la Polisi Tanzania) (2025)<br>
+<strong>note 1:</strong> the Nation Building Army (aka National Services) is a paramilitary organization under the Defense Forces that provides six months of military and vocational training to individuals as part of their two years of public service; after completion of training, some graduates join the regular Defense Forces while the remainder become part of the Reserves<br><br><strong>note 2:</strong> the Tanzania Police Force includes the Police Field Force (aka Field Force Unit), a special police division with the responsibility for controlling unlawful demonstrations and riots<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2023 est.)<br>
@@ -706,7 +683,7 @@ Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): 
 1.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 25,000 active-duty personnel (21,000 Land Forces; 1,000 Naval Forces; 3,000 Air Force) (2023)<br>
+approximately 25,000 active Defense Forces personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the TPDF's inventory includes mostly Chinese and Russian/Soviet-era weapons and equipment (2024)<br>
@@ -715,7 +692,7 @@ the TPDF's inventory includes mostly Chinese and Russian/Soviet-era weapons and 
 18-25 years of age for voluntary military service for men and women; 6-year commitment (2-year contracts afterwards); selective conscription for 2 years of public service (2024)<br>
 
 **Military deployments**<br>
-520 Central African Republic (MINUSCA); 850 Democratic Republic of the Congo (MONUSCO); 125 Lebanon (UNIFIL); approximately 300 Mozambique (under bi-lateral agreement to assist with combatting an insurgency) (2024)<br>
+520 Central African Republic (MINUSCA); more than 1,000 Democratic Republic of the Congo (MONUSCO and Southern African Development Community regional force); 125 Lebanon (UNIFIL); approximately 300 Mozambique (under bi-lateral agreement to assist with combatting an insurgency) (2025)<br>
 
 **Military - note**<br>
 the TDPF&rsquo;s primary concerns are maritime piracy and smuggling, border security, terrorism, animal poaching, and spillover from instability in neighboring countries, particularly Mozambique and the Democratic Republic of the Congo (DRC); it participates in multinational training exercises, regional peacekeeping deployments, and has ties with a variety of foreign militaries, including those of China, India, and the US; it has contributed troops to the UN&rsquo;s Force Intervention Brigade in the DRC; the TPDF also participated in the former Southern African Development Community intervention force in Mozambique, which assisted the Mozambique military in combating fighters affiliated with the Islamic State of Iraq and ash-Sham (ISIS); the regional force withdrew in 2024, but the TPDF continues to maintain troops in Mozambique as part of a separate bilateral security agreement; since 2020, the TPDF has reinforced the border with Mozambique following several cross-border attacks by ISIS fighters (2024)<br>

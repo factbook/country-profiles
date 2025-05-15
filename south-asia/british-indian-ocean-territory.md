@@ -62,13 +62,13 @@ _other_: 100% (2018 est.)<br>
 none; located outside routes of Indian Ocean cyclones<br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> archipelago of 55 islands; Diego Garcia, the largest and southernmost island, occupies a strategic location in the central Indian Ocean; the island is the site of a joint US-UK military facility</p> <p><strong>note 2:</strong> Diego Garcia is the only inhabited island of the BIOT and one of only two British territories where traffic drives on the right, the other being Gibraltar</p><br>
+<p><strong>note 1:</strong> archipelago of 55 islands; Diego Garcia, the largest and southernmost island, occupies a strategic location in the central Indian Ocean</p> <p><strong>note 2:</strong> Diego Garcia is the only inhabited island of the BIOT</p><br>
 
 ## People and Society
 
 **Population**<br>
-_total_: no indigenous inhabitants<br>
-<strong>note:</strong> approximately 1,200 former agricultural workers resident in the Chagos Archipelago, often referred to as Chagossians or Ilois, were relocated to Mauritius and the Seychelles in the 1960s and 1970s; approximately 3,000 UK and US military personnel and civilian contractors living on the island of Diego Garcia (2018)<br>
+_total_: no permanent inhabitants<br>
+<strong>note:</strong> Diego Garcia, the largest of the 58 islands, hosts a joint UK-US military facility <br>
 
 ## Environment
 
@@ -103,7 +103,7 @@ _geographic coordinates_: <strong> </strong>7 18S, 12 24E<br>
 _time difference_: UTC+6 (12 hours ahead of Washington, DC, during Standard Time)<br>
 
 **Legal system**<br>
-the laws of the UK apply where applicable<br>
+the laws of the UK apply&nbsp;<br>
 
 **Constitution**<br>
 _history_: British Indian Ocean Territory (Constitution) Order 2004<br>
@@ -161,7 +161,7 @@ _domestic_: all commercial telephone services are available, including connectio
 _international_: country code (Diego Garcia) - 246; landing point for the SAFE submarine cable that provides direct connectivity to Africa, Asia and near-by Indian Ocean&nbsp;island countries;&nbsp;international telephone service is carried by satellite (2019)<br>
 
 **Broadcast media**<br>
-Armed Forces Radio and Television Service (AFRTS) broadcasts over 3 separate frequencies for US and UK military personnel stationed on the islands<br>
+Armed Forces Radio and Television Service (AFRTS) broadcasts over 3 frequencies for US and UK military personnel stationed on the islands<br>
 
 **Internet country code**<br>
 .io<br>
@@ -173,9 +173,6 @@ Diego Garcia hosts one of four dedicated ground antennas that assist in the oper
 
 **Airports**<br>
 1 (2025)<br>
-
-**Roadways**<br>
-<p><strong>note:</strong> short section of paved road between port and airfield on Diego Garcia</p><br>
 
 **Ports**<br>
 _total ports_: 1 (2024)<br>
