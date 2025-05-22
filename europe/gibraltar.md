@@ -378,11 +378,6 @@ _subscriptions per 100 inhabitants_: 46 (2022 est.)<br>
 _total subscriptions_: 37,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 112 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Gibraltar&rsquo;s population is urban-based, served by a digital telephone exchange supported by a fiber optic and copper infrastructure; near universal mobile and Internet use (2019)<br>
-_domestic_: 53 per 100 fixed-line and 100 per 100 mobile-cellular (2021)<br>
-_international_: country code - 350; landing point for the EIG to Europe, Asia, Africa and the Middle East via submarine cables;&nbsp;radiotelephone; microwave radio relay; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
 Gibraltar Broadcasting Corporation (GBC) provides TV and radio services via 1 TV station and 4 radio stations; British Forces Broadcasting Service (BFBS) operates 1 radio station; broadcasts from Spanish radio and TV stations are accessible<br>
 

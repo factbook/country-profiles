@@ -607,11 +607,6 @@ _subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
 _total subscriptions_: 6.09 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 111 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Norway has a sophisticated telecom market with high broadband and mobile penetration rates and a highly developed digital media sector. Although not a member of the European Union, the country&rsquo;s telecoms sector is synchronized with relevant EC legislation; Norway enjoys near comprehensive LTE coverage with upgrades to 5G technologies in the future (2023)<br>
-_domestic_: fixed-line is 7 per 100 and mobile-cellular nearly 110 per 100 (2021)<br>
-_international_: country code - 47; landing points for the Svalbard Undersea Cable System, Polar Circle Cable, Bodo-Rost Cable, NOR5KE Viking, Celtic Norse, Tampnet Offshore FOC Network, England Cable, Denmark-Norwary6, Havfrue/AEC-2, Skagerrak 4, and the Skagenfiber West &amp; East submarine cables providing links to other Nordic countries, Europe and the US; satellite earth stations - Eutelsat, Intelsat (Atlantic Ocean), and 1 Inmarsat (Atlantic and Indian Ocean regions); note - Norway shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Iceland, and Sweden) (2019)<br>
-
 **Broadcast media**<br>
 state-owned public radio and TV broadcaster operates 3 nationwide TV stations, 3 nationwide radio stations, and 16 regional radio stations; roughly a dozen privately owned TV stations broadcast nationally, and another 25 locally; nearly 75% of households have access to multi-channel cable or satellite TV; 2 privately owned radio stations broadcast nationwide, with another 240 local stations; Norway was the first country to phase out FM radio in favor of Digital Audio Broadcasting (DAB) (2019)<br>
 
@@ -667,7 +662,7 @@ Norwegian Armed Forces (Forsvaret or "the Defense"): Norwegian Army (Haeren), Ro
 2% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 27,000 active personnel (9,000 Army; 4,300 Navy; 4,700 Air Force; 9,000 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); approximately 40,000 Home Guard (2024)<br>
+approximately 27,000 active Armed Forces (9,000 Army; 4,300 Navy; 4,700 Air Force; 9,000 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); approximately 40,000 Home Guard (2024)<br>
 <strong>note:</strong> active personnel include about 10,000 conscripts<br>
 
 **Military equipment inventories and acquisitions**<br>

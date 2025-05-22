@@ -329,11 +329,6 @@ _from petroleum and other liquids_: 9,000 metric tonnes of CO2 (2023 est.)<br>
 _total subscriptions_: 1,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 52 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: in 2020, the Manatua One Polynesia Fiber Cable provided Niue with high speed Internet access for the first time replacing a 4 megabit satellite link with gigabit fiber connectivity; the government set out a strategy to upgrade to a new infrastructure that would be robust enough to operate reliably in a challenging climate: 40 40&deg;C heat, 40% humidity, salty air, frequent power outages during storms, and no air conditioning (2022)<br>
-_domestic_: single-line (fixed line) telephone system connects all villages on island; fixed teledensity at nearly 52 per 100 (2021)<br>
-_international_: country code - 683; landing point for the Manatua submarine cable linking Niue to several South Pacific Ocean Islands; expansion of satellite services (2019)<br>
-
 **Broadcast media**<br>
 1 state-owned TV station, with many of the programs supplied by Television New Zealand; 1 state-owned radio station broadcasting in AM and FM (2019)<br>
 

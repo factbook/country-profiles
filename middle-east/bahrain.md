@@ -587,11 +587,6 @@ _subscriptions per 100 inhabitants_: 16 (2023 est.)<br>
 _total subscriptions_: 2.42 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 145 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: continues to develop its telecoms sector in a bid to develop its Economic Vision 2030 strategy that is aimed at a national digital transformation; 5G services have become widely available since they were launched in 2020; the Fourth National Telecommunications Plan (initiated in 2016) focuses on fiber optic infrastructure deployment and establishing affordable prices for high-speed access (2022)<br>
-_domestic_: approximately 18 per 100 fixed-line and 131 per 100 mobile-cellular; modern fiber-optic integrated services; digital network with rapidly expanding mobile-cellular telephones (2021)<br>
-_international_: country code - 973; Bahrain’s Telecommunications Regulatory Authority (TRA) has made part of the C-band spectrum available for 5G private networks, in line with the goals outlined in its Workplan for the 2022-23 period (2023)<br>
-
 **Broadcast media**<br>
 state-run Bahrain Radio and Television Corporation (BRTC) operates 6 terrestrial TV networks and several radio stations; satellite TV systems provide access to international broadcasts; 1 private FM station has broadcasts for Indian listeners; radio and TV broadcasts from countries in the region are available (2023)<br>
 
@@ -643,7 +638,7 @@ Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Roy
 4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 10,000 active BDF personnel; approximately 3,000 National Guard (2025)<br>
+information varies; approximately 10,000 active Bahrain Defense Force; approximately 3,000 National Guard (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists of a mix of equipment acquired from a wide variety of suppliers; in recent years, the US has been the leading supplier of arms to Bahrain (2024)<br>

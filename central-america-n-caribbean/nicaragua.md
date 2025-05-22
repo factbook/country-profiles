@@ -582,11 +582,6 @@ _subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 _total subscriptions_: 7.22 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 97 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Nicaragua&rsquo;s telecoms market has mirrored the country&rsquo;s poor economic achievements, with fixed-line teledensity and mobile penetration also being the lowest in Central America; the fixed line broadband market remains nascent, with population penetration below 4%; most internet users are concentrated in the largest cities, given that rural and marginal areas lack access to the most basic telecom infrastructure; internet caf&eacute;s provide public access to internet and email services, but these also tend to be restricted to the larger population centers; to address poor infrastructure, the World Bank has funded a project aimed at improving connectivity via a national fiber broadband network; there are separate schemes to improve broadband in eastern regions and provide links to Caribbean submarine cables; the number of mobile subscribers overtook the number of fixed lines in early 2002, and the mobile sector now accounts for most lines in service (2021)<br>
-_domestic_: fixed-line teledensity is 3 per 100 persons; mobile-cellular telephone subscribership is 91 per 100 persons (2021)<br>
-_international_: country code - 505; landing point for the ARCOS fiber-optic submarine cable which provides connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 1 Intersputnik (Atlantic Ocean region) and 1 Intelsat (Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
 multiple terrestrial TV stations, supplemented by cable TV in most urban areas; nearly all are state-owned or affiliated; more than 300 radio stations, both state-affiliated and privately owned (2019)<br>
 
@@ -635,7 +630,7 @@ Armed Forces of Nicaragua (formal name is Army of Nicaragua or Ejercito de Nicar
 0.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 12,000 active personnel (2025)<br>
+approximately 12,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's air and ground force inventories include mostly secondhand Russian or Soviet-era equipment; its naval force has a miscellaneous mix of patrol boats from several foreign suppliers, as well as some commercial vessels converted into gunboats domestically (2024)<br>

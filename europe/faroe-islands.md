@@ -457,11 +457,6 @@ _subscriptions per 100 inhabitants_: 28 (2022 est.)<br>
 _total subscriptions_: 59,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 112 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: the Faroe Islands have a highly developed communication network, which covers the whole country; from telecommunication and mobile phones to the internet and media, the Faroe Islands are at the forefront of modern communications technology; working within the special geographic circumstances of the Faroe Islands; companies have become world experts in providing digital communication solutions to remote and sparsely populated areas (2022)<br>
-_domestic_: 29 per 100 teledensity for fixed-line and nearly 110 per 100 for mobile-cellular (2021)<br>
-_international_: country code - 298; landing points for the SHEFA-2, FARICE-1, and CANTAT-3 fiber-optic submarine cables from the Faroe Islands, to Denmark, Germany, UK and Iceland; satellite earth stations - 1 Orion; (2019)<br>
-
 **Broadcast media**<br>
 1 publicly owned TV station; the Faroese telecommunications company distributes local and international channels through its digital terrestrial network; publicly owned radio station supplemented by 3 privately owned stations broadcasting over multiple frequencies<br>
 

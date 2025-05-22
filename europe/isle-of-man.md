@@ -391,11 +391,6 @@ _electrification - total population_: 100% (2022 est.)<br>
 
 ## Communications
 
-**Telecommunication systems**<br>
-_general assessment_: the Isle of Man has an extensive communications infrastructure consisting of telephone cables, submarine cables, and an array of television and mobile phone transmitters and towers (2022)<br>
-_domestic_: landline, telefax, mobile cellular telephone system<br>
-_international_: country code - 44; fiber-optic cable, microwave radio relay, satellite earth station, submarine cable<br>
-
 **Broadcast media**<br>
 national public radio has 3 FM stations and 1 AM station; 2 commercial&nbsp; radio broadcasters; receives radio and TV services via relays from British TV and radio broadcasters<br>
 

@@ -322,7 +322,7 @@ _head of government_: Chairperson of the Council of Ministers Borjana KRISTO (si
 _cabinet_: Council of Ministers nominated by the council chairperson, approved by the state-level House of Representatives<br>
 _elections/appointments_: 3-member presidency (1 Bosniak and 1 Croat elected from the Federation of Bosnia and Herzegovina and 1 Serb elected from the Republika Srpska) directly elected by simple majority popular vote for a 4-year term (eligible for a second term but then ineligible for 4 years); the presidency chairpersonship rotates every 8 months with the new member of the presidency elected with the highest number of votes starting the new mandate as chair; election last held on 2 October 2022 (next to be held in October 2026); the chairperson of the Council of Ministers appointed by the presidency and confirmed by the state-level House of Representatives<br>
 _election results_: <em><br>2022: </em>percent of vote<em> -</em> Denis BECIROVIC - (SDP BiH) 57.4% - Bosniak seat; Zeljko KOMSIC (DF) 55.8% - Croat seat; Zeljka CVIJANOVIC (SNSD) 51.7% - Serb seat<em><br><br>2018: </em>percent of vote - Milorad DODIK (SNSD) 53.9% - Serb seat; Zeljko KOMSIC (DF) 52.6% - Croat seat; Sefik DZAFEROVIC (SDA) 36.6% - Bosniak seat<br>
-<strong>note:</strong> President of the Federation of Bosnia and Herzegovina Lidiia BRADARA (since 28 February 2023); Vice Presidents Refik LENDO (since 28 February 2023) and Igor STOJANOVIC (since 28 February 2023); President of the Republika Srpska Milorad DODIK (since 15 November 2022); Vice Presidents Camil DURAKOVIC (since 15 November 2022) and Davor PRANJIC (since 15 November 2022)<br>
+<strong>note:</strong> President of the Federation of Bosnia and Herzegovina Lidiia BRADARA (since 28 February 2023)<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliamentary Assembly (Skupstina)<br>
@@ -604,11 +604,6 @@ _subscriptions per 100 inhabitants_: 19 (2023 est.)<br>
 _total subscriptions_: 3.87 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 118 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: the telecom market has been liberalized and a regulatory framework created based on the EU&rsquo;s regulatory framework for communications; although Bosnia-Herzegovina remains an EU candidate country, in July 2017 it applied amended mobile roaming charges to fit in with changes introduced across the Union; further roaming agreements were made in 2019 with other western Balkan countries; the fixed-line broadband network is comparatively underdeveloped, with the result that investments made in mobile upgrades to facilitate broadband connectivity in the country to a greater extent than is common elsewhere in Europe; internet services are available; DSL and cable are the main platforms for fixed-line connectivity, while fiber broadband as yet has only a small market presence; the three MNOs, each affiliated with one of the incumbent fixed-line operators, provide national coverage with 3G, though LTE coverage is only about 89%; their upgraded networks are helping to support broadband in rural areas where fixed-line infrastructure is insufficient; mobile data and mobile broadband offers will provide future revenue growth given the limited potential of mobile voice services; the MNOs tested LTE services under trial licenses from 2013, commercial launches were delayed until the award of spectrum in early 2019; the regulator stipulated that licenses must provide national coverage within five years; trials of 5G technology have been undertaken, though there are no plans to launch services commercially in the short term, given that the MNOs can continue to exploit the capacity of their existing LTE networks (2021)<br>
-_domestic_: fixed-line teledensity roughly 21 per 100 persons and mobile-cellular subscribership stands at 114 telephones per 100 persons (2021)<br>
-_international_: country code - 387; no satellite earth stations<br>
-
 **Broadcast media**<br>
 3 public TV broadcasters: Radio and TV of Bosnia and Herzegovina, Federation TV (operating 2 networks), and Republika Srpska Radio-TV; a local commercial network of 5 TV stations; 3 private, near-national TV stations and dozens of small independent TV stations; 3 large public radio broadcasters and many private radio stations (2019)<br>
 
@@ -659,7 +654,7 @@ Armed Forces of Bosnia and Herzegovina (AFBiH or Oruzanih Snaga Bosne i Hercegov
 0.8% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 10,000 active-duty personnel (2024)<br>
+approximately 10,000 active-duty Armed Forces (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory of weapons and equipment is a combination of material originating from the former Soviet Union/former Yugoslavia and secondhand deliveries from Western suppliers such as the UK and especially the US (2024)<br>

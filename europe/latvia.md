@@ -321,7 +321,6 @@ _head of government_: Prime Minister Evika SILINA (since 15 September 2023)<br>
 _cabinet_: Cabinet of Ministers nominated by the prime minister, appointed by Parliament<br>
 _elections/appointments_: president indirectly elected by Parliament for a 4-year term (eligible for a second term); election last held on 31 May 2023 (next to be held in 2027); prime minister appointed by the president, confirmed by Parliament<br>
 _election results_: <em><br>2023: </em>Edgars RINKEVICS elected president in the third round; Parliament vote - Edgars RINKEVICS (Unity Party) 52, Uldis Pīlēns (independent) 25; Evika SILINA confirmed as prime minister 53-39<br><em><br>2019:</em> Egils LEVITS elected president; Parliament vote - Egils LEVITS (independent) 61, Didzis SMITS (KPV LV) 24, Juris JANSONS (independent) 8; Krisjanis KARINS confirmed as prime minister 61-39<br>
-<strong>note:</strong> on 15 September 2023, Parliament voted 53-39 to approve Prime Minister Evika SILINA<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Saeima)<br>
@@ -592,11 +591,6 @@ _subscriptions per 100 inhabitants_: 8 (2023 est.)<br>
 _total subscriptions_: 2.26 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 117 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: <p>the telecom market continues to benefit from investment and from regulatory measures aimed at developing 5G and fiber-based infrastructure; the mobile market is dominated by three operators and there is effective competition between them, with the smallest among them having almost a quarter of the market by subscribers; these multi-service operators have focused investment on fiber networks and on expanding the reach of 5G; mobile network capacity has been improved since 2022 following the auction of spectrum in the 700MHz and 1.5GHz bands; operators have entered into agreements with neighboring Estonia and Lithuania to coordinate the use of spectrum for 5G in border areas, improving coverage to end-users without interference; in the fixed-line broadband sector, the country is ranked among the highest in Europe for fiber coverage; it has the second highest rural FttP coverage after Denmark; with this infrastructure in place, the country has also developed a sophisticated digital economy, with e-commerce and e-government services widely available</p> (2024)<br>
-_domestic_: fixed-line 9 per 100 and mobile-cellular nearly 117 per 100 subscriptions (2022)<br>
-_international_: country code - 371; the Latvian network is now connected via fiber-optic cable to Estonia, Finland, and Sweden<br>
-
 **Broadcast media**<br>
 several national and regional commercial TV stations are foreign-owned, 2 national TV stations are publicly owned; system supplemented by privately owned regional and local TV stations; cable and satellite multi-channel TV services with domestic and foreign broadcasts available; publicly owned broadcaster operates 4 radio networks with dozens of stations; dozens of private broadcasters also operate radio stations<br>
 
@@ -651,7 +645,7 @@ National Armed Forces (Nacionalie Brunotie Speki or NBS): Land Forces (Latvijas 
 2.2% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 8,000 active military forces; approximately 10,000 National Guard (2024)<br>
+approximately 8,000 active Armed Forces; approximately 10,000 National Guard&nbsp; (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Latvian military's inventory consists of a mix of European and US weapons and equipment (2024)<br>

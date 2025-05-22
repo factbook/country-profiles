@@ -62,7 +62,7 @@ _other_: 15.7% (2022 est.)<br>
 1,740 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-<p>Zambezi (shared with Zambia [s]), Angola, Namibia, Botswana, and Mozambique [m]) - 2,740 km; Limpopo (shared with South Africa [s], Botswana, and Mozambique [m]) - 1,800 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
+<p>Zambezi (shared with Zambia [s]), Angola, Namibia, Botswana, and Mozambique [m]) - 2,740 km; Limpopo (shared with South Africa [s], Botswana, and Mozambique [m]) - 1,800 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
@@ -274,7 +274,7 @@ _municipal solid waste recycled annually_: 231,960 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 16% (2005 est.)<br>
 
 **Major rivers (by length in km)**<br>
-<p>Zambezi (shared with Zambia [s]), Angola, Namibia, Botswana, and Mozambique [m]) - 2,740 km; Limpopo (shared with South Africa [s], Botswana, and Mozambique [m]) - 1,800 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
+<p>Zambezi (shared with Zambia [s]), Angola, Namibia, Botswana, and Mozambique [m]) - 2,740 km; Limpopo (shared with South Africa [s], Botswana, and Mozambique [m]) - 1,800 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
@@ -618,11 +618,6 @@ _subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
 _total subscriptions_: 15 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 88 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Zimbabwe&rsquo;s telcos continue to be affected by the country&rsquo;s poor economy; this has been exacerbated by the significant economic difficulties related to the pandemic; revenue has also been under pressure from a number of recent regulatory measures and additional taxes imposed by the cash-strapped government; inflation has become so high that year-on-year revenue comparisons since 2019 have been difficult to assess meaningfully; the three MNOs continue to invest in network upgrades, partly supported by government efforts and cash released from the Universal Service Fund; as a result of these investments, LTE networks have expanded steadily, though services remain concentrated in urban areas; international bandwidth has improved since fiber links to several submarine cables were established via neighboring countries; the expansion of 3G and LTE-based mobile broadband services has meant that most of the population has access to the internet; the government has started a national broadband scheme aimed at delivering a 1Mb/s service nationally by 2030; investment in fixed broadband infrastructure has also resulted in a slow but steady growth in the number of DSL connections, and also fiber subscriptions; during 2021, most growth in the fixed broadband segment has been with fiber connections (2022)<br>
-_domestic_: fixed-line teledensity is 2 per 100 and mobile-cellular is 89 per 100 (2021)<br>
-_international_: country code - 263; fiber-optic connections to neighboring states provide access to international networks via undersea cable; satellite earth stations - 2 Intelsat; 5 international digital gateway exchanges<br>
-
 **Broadcast media**<br>
 government owns all local radio and TV stations; foreign shortwave broadcasts and satellite TV available; in rural areas, access to TV broadcasts is extremely limited; analog TV only, no digital service (2017)<br>
 
@@ -664,7 +659,7 @@ Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbab
 2.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 30,000 active Zimbabwe Defense Force troops (2025)<br>
+approximately 30,000 active Zimbabwe Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the ZDF inventory is comprised mostly of Russian/Soviet-era and Chinese armaments with smaller quantities of older or obsolescent material from countries such as Brazil, France, Italy, South Africa, the UK, and the US; since the early 2010s, Zimbabwe has been under an arms embargo from the EU, as well as targeted sanctions from Australia, Canada, New Zealand, the UK, and the US (2024)<br>

@@ -553,13 +553,8 @@ _subscriptions per 100 inhabitants_: 14 (2023 est.)<br>
 _total subscriptions_: 165,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 192 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: effective system; direct international calls to over 100 countries; radiotelephone communications between islands in the archipelago; 3 ISPs; use of Internet cafes' for access to Internet; 4G services and 5G pending (2020)<br>
-_domestic_: fixed-line&nbsp; is 18 per 100 and mobile-cellular teledensity is 173 telephones per 100 persons (2021)<br>
-_international_: country code - 248; landing points for the PEACE and the SEAS submarine cables&nbsp;providing connectivity to Europe, the Middle East, Africa and Asia; direct radiotelephone communications with adjacent island countries and African coastal countries; satellite earth station - 1 Intelsat (Indian Ocean) (2019)<br>
-
 **Broadcast media**<br>
-<p>state-run national broadcaster Seychelles Broadcasting Corporation (SBC) has the only terrestrial TV station, which also airs broadcasts from international services; privately owned Internet Protocol Television (IPTV) channel; multi-channel cable and satellite TV available through 2 providers; SBC operates 1 AM and 1 FM radio station; 2 privately operated radio stations; transmissions of 2 international broadcasters available in Victoria</p> (2019)<br>
+state-run national broadcaster Seychelles Broadcasting Corporation (SBC) has the only terrestrial TV station, which also airs broadcasts from international services; privately owned Internet Protocol Television (IPTV) channel; multi-channel cable and satellite TV available through 2 providers; SBC operates 1 AM and 1 FM radio station; 2 privately operated radio stations; transmissions of 2 international broadcasters available in Victoria (2019)<br>
 
 **Internet country code**<br>
 .sc<br>
@@ -609,7 +604,7 @@ Seychelles People's Defense Forces (SPDF; aka Seychelles Defense Forces, SDF): A
 1.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 500 active personnel (2025)<br>
+approximately 500 active Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SDF's inventory primarily consists of Soviet-era equipment delivered in the 1970s and 1980s; in recent years, the SDF has received limited amounts of more modern equipment, mostly donations of patrol boats and aircraft, from several suppliers, including Bahrain, China, India, and the UAE (2024)<br>

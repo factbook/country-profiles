@@ -319,10 +319,10 @@ _residency requirement for naturalization_: 1 to 3 years<br>
 18 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: President Iris Xiomara CASTRO de Zelaya (since 27 January 2022)&nbsp;<br>
-_head of government_: President Iris Xiomara CASTRO de Zelaya (since 27 January 2022)&nbsp;<br>
+_chief of state_: President Iris Xiomara CASTRO de Zelaya (since 27 January 2022)<br>
+_head of government_: President Iris Xiomara CASTRO de Zelaya (since 27 January 2022)<br>
 _cabinet_: Cabinet appointed by president<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 4-year term; election last held on 28 November 2021 (next to be held on 30 November 2025); note - in 2015, the Constitutional Chamber of the Honduran Supreme Court struck down the constitutional provisions on presidential term limits<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 4-year term; election last held on 28 November 2021 (next to be held on 30 November 2025)<br>
 _election results_: <br><em>2021: </em>Iris Xiomara CASTRO de Zelaya elected president; percent of vote - Iris Xiomara CASTRO de Zelaya (LIBRE) 51.1%, Nasry Juan ASFURA Zablah (PNH) 36.9%, Yani Benjamin ROSENTHAL Hidalgo (PL) 10%, other 2%<em><br><br>2017:</em> Juan Orlando HERNANDEZ Alvarado reelected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 43%, Salvador NASRALLA (Alianza de Oposicion contra la Dictadura) 41.4%, Luis Orlando ZELAYA Medrano (PL) 14.7%, other 0.9%<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
@@ -597,11 +597,6 @@ _subscriptions per 100 inhabitants_: 4 (2023 est.)<br>
 _total subscriptions_: 7.92 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 76 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: <p style="background: white; margin: 0in 0in 6.4pt 0in;">Honduras is among the poorest countries in Central America and has long been plagued by an unstable political framework which has rendered telecom sector reform difficult; this has created real difficulties for telcos as well as consumers; fixed-line teledensity, at only 4.9%, is significantly lower than the Latin American and Caribbean average; poor fixed-line infrastructure has been exacerbated by low investment and topographical difficulties which have made investment in rural areas unattractive or uneconomical; the internet has been slow to develop; DSL and cable modem technologies are available but are relatively expensive, while higher speed services are largely restricted to the major urban centers; the demand for broadband is steadily increasing and there has been some investment in network upgrades to fiber-based infrastructure</p> <p style="background: white; margin: 0in 0in 6.4pt 0in;"> </p> (2022)<br>
-_domestic_: fixed-line teledensity of 5 per 100; mobile-cellular subscribership is roughly 74 per 100 persons (2021)<br>
-_international_: country code - 504; landing points for both the ARCOS and the MAYA-1 fiber-optic submarine cable systems that together provide connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 2 Intelsat (Atlantic Ocean); connected to Central American Microwave System (2019)<br>
-
 **Broadcast media**<br>
 multiple privately owned terrestrial TV networks, supplemented by multiple cable TV networks; Radio Honduras is the state-owned radio network; roughly 300 privately owned radio stations (2019)<br>
 
@@ -658,7 +653,7 @@ Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Hond
 1.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 15,000 active personnel (2025)<br>
+approximately 15,000 active Honduran Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FFAA's inventory is comprised of a mix of older or secondhand and limited amounts of more equipment from a wide mix of suppliers, including Colombia, Germany, Israel, the Netherlands, South Korea, the UK, and the US (2024)<br>

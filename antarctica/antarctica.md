@@ -108,11 +108,6 @@ _from petroleum and other liquids_: 13,000 metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 
-**Telecommunication systems**<br>
-_general assessment_: <p>scientists with the US Antarctic Program at McMurdo Station have a designated Starlink terminal, which has improved connectivity to carry out research; this was made possible through laser links between the SpaceX satellites in orbit that eliminate the need for ground stations at the poles</p> (2022)<br>
-_domestic_: commercial cellular networks operating in a small number of locations (2019)<br>
-_international_: country code - none allocated; via satellite (including mobile Inmarsat and Iridium systems) to and from all research stations, ships, aircraft, and most field parties<br>
-
 **Internet country code**<br>
 .aq<br>
 

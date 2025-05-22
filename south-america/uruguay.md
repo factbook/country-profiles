@@ -68,7 +68,7 @@ _other_: 7.3% (2022 est.)<br>
 _salt water lake(s)_: Lagoa Mirim (shared with Brazil) - 2,970 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Rio de la Plata/Parana river mouth (shared with Brazil [s], Argentina, Paraguay) - 4,880 km; Uruguay river mouth (shared with Brazil [s] and Argentina) - 1,610 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Rio de la Plata/Parana river mouth (shared with Brazil [s], Argentina, Paraguay) - 4,880 km; Uruguay river mouth (shared with Brazil [s] and Argentina) - 1,610 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major aquifers**<br>
 Guarani Aquifer System<br>
@@ -270,7 +270,7 @@ _percent of municipal solid waste recycled_: 8% (2011 est.)<br>
 _salt water lake(s)_: Lagoa Mirim (shared with Brazil) - 2,970 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Rio de la Plata/Parana river mouth (shared with Brazil [s], Argentina, Paraguay) - 4,880 km; Uruguay river mouth (shared with Brazil [s] and Argentina) - 1,610 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Rio de la Plata/Parana river mouth (shared with Brazil [s], Argentina, Paraguay) - 4,880 km; Uruguay river mouth (shared with Brazil [s] and Argentina) - 1,610 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major aquifers**<br>
 Guarani Aquifer System<br>
@@ -626,11 +626,6 @@ _subscriptions per 100 inhabitants_: 36 (2023 est.)<br>
 _total subscriptions_: 4.8 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 139 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Uruguay has an advanced telecom market, with excellent infrastructure and one of the highest broadband penetration rates in Latin America; fixed-line teledensity is also particularly high for the region, while mobile penetration is the second highest after Panama; in terms of computer penetration, Uruguay tops all other countries in the region by a considerable margin, and this has facilitated growth in fixed-line broadband adoption; the government and telecom regulator have introduced a range of measures to help develop the deployment of fiber infrastructure, partly in a bid to encourage economic growth and stimulate e-commerce; fiber accounted for over 95% of all fixed and fixed-wireless broadband connections as of December 2023; with investment projected to reach $800 million, the state-owned incumbent Antel is expected to provide national Fiber to the premises (FttP) coverage by 2023; together with the FttP network, the opening of the submarine cable system in early 2012 and August 2017 have helped boost Uruguay&rsquo;s internet bandwidth, and increase the data rate available to end-users; changes in legislation in 2020 allowed cable companies to provide home internet service for the first time, ending the state monopoly; Uruguay's regulator authorized five cable companies to provide broadband service; while the country's broadband network is state owned, other segments of the telecom market have been opened to competition, including international long-distance telephony, mobile telephony, and fixed-wireless broadband; cable networks are well equipped technologically, and digital cable TV is widely available, telecom legislation prohibits data transmission over pay TV networks; all three operators offer mobile broadband through 3G and LTE networks; operators have achieved nationwide 3G coverage and the number of mobile broadband subscribers continues to grow; at the end of 2019, spectrum in the 5G-suitable range was auctioned, enabling operators to launch 5G services; Uruguay's regulators held a 5G spectrum auction in June 2023; the three incumbent operators each acquired 100 Ghz in the 3.5 GHz midband; in 2023, Uruguay's state telecom has deployed hundreds of 5G radio bases, covering all regional capitals (2021)<br>
-_domestic_: fixed-line is 36 per 100 and mobile-cellular teledensity 140 per 100 persons (2021)<br>
-_international_: country code - 598; landing points for the Unisor, Tannat, and Bicentenario submarine cable system providing direct connectivity to Brazil and Argentina; the Firmina cable, which landed in 2023, allowed for direct connectivity to the United States; Bicentenario 2012 and Tannat 2017 cables helped end-users with Internet bandwidth; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2020)<br>
-
 **Broadcast media**<br>
 mix of privately owned and state-run broadcast media; over 100 commercial radio stations and about 20 TV channels; cable TV is available; many community radio and TV stations; adopted the hybrid Japanese/Brazilian HDTV standard (ISDB-T) in 2010 (2019)<br>
 
@@ -686,7 +681,7 @@ Armed Forces of Uruguay (Fuerzas Armadas del Uruguay or FF.AA. del Uruguay): Nat
 2.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 23,000 active-duty personnel (15,000 Army; 5,000 Navy; 3,000 Air Force) (2025)<br>
+approximately 23,000 active-duty Armed Forces (15,000 Army; 5,000 Navy; 3,000 Air Force) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes a variety of mostly older or second-hand equipment originating from a wide range of suppliers, including Brazil, Canada, the former Czechoslovakia, Germany, Portugal, Russia/former Soviet Union, South Korea, Spain, and the US (2024)<br>

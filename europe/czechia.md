@@ -62,7 +62,7 @@ _other_: 19.5% (2022 est.)<br>
 220 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
-Labe (Elbe) river source (shared with Germany [m]) - 1,252 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Labe (Elbe) river source (shared with Germany [m]) - 1,252 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -264,7 +264,7 @@ _municipal solid waste recycled annually_: 850,935 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 25.5% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Labe (Elbe) river source (shared with Germany [m]) - 1,252 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Labe (Elbe) river source (shared with Germany [m]) - 1,252 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -332,7 +332,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Petr PAVEL (since 9 March 2023)<br>
 _head of government_: Prime Minister Petr FIALA (since 17 December 2021)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (limited to 2 consecutive terms); elections last held on 13 to 14 January 2023 with a second round held from 27 to 28 January 2023; next election to be by January 2028; prime minister appointed by the president for a 4-year term<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (limited to 2 consecutive terms); elections last held 13-14 January 2023, with a second round held&nbsp; 27-28 January 2023; next election to be held by January 2028; prime minister appointed by the president for a 4-year term<br>
 _election results_: <em><br>2023: </em>Petr PAVEL elected in the second round; percent of vote in the first round - Petr PAVEL (independent) 35.4%, Andrej BABIS (ANO) 35<em>%</em>, Danuse NERUDOVA (Mayors and Independents) 13.9%, Pavel FISCHER (independent) 6.8%; percent of vote in the second round - Petr PAVEL 58.3%, Andrej BABIS 41.6%<em><br><br>2018:</em> Milos ZEMAN reelected president in the second round; percent of vote - Milos ZEMAN (SPO) 51.4%, Jiri DRAHOS (independent) 48.6%<br>
 
 **Legislative branch**<br>
@@ -630,11 +630,6 @@ _subscriptions per 100 inhabitants_: 11 (2023 est.)<br>
 _total subscriptions_: 13.6 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 128 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: <p>telcos in the Czech Republic have become multi-service providers, offering a full range of fixed and mobile services; this has enabled the Mobile Network Operators (MNOs) to expand the reach of their 5G networks while they have been closing down 3G networks and repurposing the internet for 5G and long-term evolution (LTE) use</p> (2024)<br>
-_domestic_: roughly 12 fixed-telephone subscriptions per 100 inhabitants and mobile telephone usage of 128 per 100 inhabitants (2022)<br>
-_international_: country code - 420; satellite earth stations - 6 (2 Intersputnik - Atlantic and Indian Ocean regions, 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 Globalstar) (2019)<br>
-
 **Broadcast media**<br>
 22 national TV stations, with 17 privately owned; publicly operated Czech Television has 5 national channels; over 350 TV channels, many through cable, satellite, and IPTV subscription services; 63 radio broadcasters operate over 80 radio stations, including 7 multiregional radio stations or networks; publicly owned broadcaster Czech Radio operates 4 national, 14 regional, and 4 Internet stations; both Czech Radio and Czech Television are partly financed through a license fee (2019)<br>
 
@@ -676,7 +671,7 @@ also has Cyber Command, Territorial Command, Operations Command, plus commands f
 1.3% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 29,000 active-duty personnel (23,000 Army; 6,000 Air Force) (2024)<br>
+approximately 29,000 active-duty Armed Forces (23,000 Army; 6,000 Air Force) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Czech military has a mix of domestically produced, Soviet-era, and more recently acquired modern weapons and equipment from such suppliers as Austria, Germany, Sweden, and the US; its domestic defense industry has produced such items as armored combat vehicles and light attack aircraft; during the Cold War, Czechoslovakia was a major producer of tanks, armored personnel carriers, military trucks, and trainer aircraft (2024)<br>

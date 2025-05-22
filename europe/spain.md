@@ -66,7 +66,7 @@ _other_: 9.5% (2022 est.)<br>
 38,012 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
-Tagus river source (shared with Portugal [m]) - 1,006<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Tagus river source (shared with Portugal [m]) - 1,006 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Population distribution**<br>
 with the notable exception of Madrid, Sevilla, and Zaragoza, the largest urban agglomerations are found along the Mediterranean and Atlantic coasts; numerous smaller cities are spread throughout the interior reflecting Spain's agrarian heritage; very dense settlement around the capital of Madrid, as well as the port city of Barcelona<br>
@@ -268,7 +268,7 @@ _municipal solid waste recycled annually_: 3,393,428 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 16.8% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Tagus river source (shared with Portugal [m]) - 1,006<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Tagus river source (shared with Portugal [m]) - 1,006 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Total water withdrawal**<br>
 _municipal_: 4.56 billion cubic meters (2020 est.)<br>
@@ -638,13 +638,8 @@ _subscriptions per 100 inhabitants_: 38 (2023 est.)<br>
 _total subscriptions_: 61.2 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 124 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Spain&rsquo;s telecom sector has tracked the performance of the overall economy, which has been one of the most heavily impacted by the pandemic in all of Europe; GDP dropped by 10.8% in 2020, while telecom revenue reversed the previous five years&rsquo; positive results by falling 5.3%; fixed-line services were the hardest hit, with revenue falling 13.7%; mobile voice services did not fare much better, falling 4.7%; this is despite relatively small shifts in the number of subscribers, though the harsh lockdown conditions resulted in a significant drop in usage; it had appeared that a return to growth might be possible in 2021 following lifting the state of emergency in May, but the most recent surge in cases and the continued restrictions on travel may once again put the brakes on growth until at least 2022; Spain&rsquo;s fixed-line broadband market managed to extend its decade-long pattern of steady growth into 2020, with a slight increase in demand caused by the need for fast internet access to support working and learning from home; while most of Spain&rsquo;s larger telcos delivered negative revenue and profit in 2020 (2021)<br>
-_domestic_: fixed-line is 39 per 100 and mobile-cellular 124 telephones per 100 persons (2022)<br>
-_international_: country code - 34; landing points for the MAREA, Tata TGN-Western Europe, Pencan-9, SAT-3/WASC, Canalink, Atlantis-2, Columbus -111, Estepona-Tetouan, FLAG Europe-Asia (FEA), Balalink, ORVAL and PENBAL-5 submarine cables providing connectivity to Europe, the Middle East, Africa, South America, Asia, Southeast Asia and the US; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean), Eutelsat; tropospheric scatter to adjacent countries (2019)<br>
-
 **Broadcast media**<br>
-<p>mix of publicly operated and privately owned TV and radio stations; hundreds of TV channels available, including national, regional, local, public, and international channels; satellite and cable TV available; multiple national radio networks, large number of regional radio networks, and larger number of local radio stations</p> (2019)<br>
+mix of publicly operated and privately owned TV and radio stations; hundreds of TV channels available, including national, regional, local, public, and international channels; satellite and cable TV available; multiple national radio networks, large number of regional radio networks, and larger number of local radio stations (2019)<br>
 
 **Internet country code**<br>
 .es<br>
@@ -698,8 +693,7 @@ Spanish Armed Forces (Fuerzas Armadas de España): Army (Ejército de Tierra), S
 1% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 118,000 active-duty troops (70,000 Army; 25,000 Navy, including about 5,500 marines; 23,000 Air and Space Force); 80,000 Guardia Civil (2024)<br>
-<strong>note: </strong>military figures include about 3,500 Emergency Response Unit and 1,500-2,000 Royal Guard personnel<br>
+approximately 120,000 active-duty Armed Forces (70,000 Army; 25,000 Navy, including about 5,500 marines; 25,000 Air and Space Force); approximately 80,000 Guardia Civil (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is comprised of weapons and equipment that were produced domestically, co-produced with or imported from other EU countries, or purchased from the US; in recent years, leading suppliers have included France, Germany, and the US; Spain's defense industry manufactures land, air, and sea weapons systems and is integrated within the European defense-industrial sector (2024)<br>

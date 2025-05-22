@@ -225,11 +225,6 @@ _Currency_: Australian dollars (AUD) per US dollar -<br>
 
 ## Communications
 
-**Telecommunication systems**<br>
-_general assessment_: telephone service is part of the Australian network; an operational local mobile-cellular network available; wireless Internet connectivity available<br>
-_domestic_: local area code - 08<br>
-_international_: international code - 61 8; telephone, telex, and facsimile communications with Australia and elsewhere via satellite; satellite earth station - 1 (Intelsat)<br>
-
 **Broadcast media**<br>
 1 local radio station staffed by community volunteers; satellite broadcasts of several Australian radio and TV stations available (2017)<br>
 

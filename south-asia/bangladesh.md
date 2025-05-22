@@ -65,7 +65,7 @@ _other_: 13.2% (2022 est.)<br>
 83,690 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
-Brahmaputra river mouth (shared with China [s] and India) - 3,969 km; Ganges river mouth (shared with India [s]) - 2,704 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Brahmaputra river mouth (shared with China [s] and India) - 3,969 km; Ganges river mouth (shared with India [s]) - 2,704 km<br><br><strong>note: </strong>[s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km)<br>
@@ -269,7 +269,7 @@ _methane emissions_: 59.3 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 14,778,497 tons (2012 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Brahmaputra river mouth (shared with China [s] and India) - 3,969 km; Ganges river mouth (shared with India [s]) - 2,704 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Brahmaputra river mouth (shared with China [s] and India) - 3,969 km; Ganges river mouth (shared with India [s]) - 2,704 km<br><br><strong>note: </strong>[s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km)<br>
@@ -613,11 +613,6 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 _total subscriptions_: 191 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 105 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: the telecommunications sector has experienced challenges, with mobile data usage exploding at the same time as many consumers being forced to curb their spending; the demand on data grew so large and so rapidly that Bangladesh came close to running out of bandwidth; at the start of 2020, Bangladesh was consuming around 900Gb/s on average, well below the 2,642GB/s capacity of its submarine cables; this ballooned to over 2,300Gb/s during the COVID pandemic; Bangladesh was looking forward to adding 7,200Gb/s capacity when the SEA-ME-WE-6 submarine cable goes into service in mid-2024, but the sudden upsurge in downloads is forcing state-run company Bangladesh Submarine Cable Company Limited (BSCCL) to scramble to find alternatives before the country&rsquo;s internet supply is maxed out; the increased demand during the Covid-19 crisis also put pressure on the country&rsquo;s existing mobile networks, already under strain as a result of strong growth in the mobile broadband market; this led to premium prices paid at auction for spectrum in the 1800MHz and 2100MHz bands, most of which will be used to enhance and expand LTE services; a 5G spectrum auction had been anticipated for 2020, but low interest from the MNOs means that 5G will likely be deferred until 2023 (2021)<br>
-_domestic_: fixed-line teledensity remains less than 1 per 100 persons; mobile-cellular telephone subscribership has been increasing rapidly and now exceeds 107 per 100 persons; mobile subscriber growth is anticipated over the next five years to 2023 (2021)<br>
-_international_: country code - 880; landing points for the SeaMeWe-4 and SeaMeWe-5 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; satellite earth stations - 6; international radiotelephone communications and landline service to neighboring countries (2019)<br>
-
 **Broadcast media**<br>
 state-owned Bangladesh Television (BTV) broadcasts nationally; some channels operate via satellite; the government also owns a medium-wave radio channel and some private FM radio news channels; of the 41 approved TV stations, 26 are currently being used to broadcast, and 23 operate under private management via cable distribution<br>
 
@@ -674,7 +669,7 @@ Armed Forces of Bangladesh (aka Bangladesh Defense Force): Bangladesh Army, Bang
 1.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 170,000 active Armed Forces personnel (2025)<br>
+information varies; approximately 170,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 much of the military's inventory is comprised of Chinese- and Russian-origin equipment; in recent years, China has been the leading provider of arms to Bangladesh (2024)<br>

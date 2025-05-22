@@ -251,11 +251,6 @@ _electrification - total population_: 100% (2021)<br>
 
 ## Communications
 
-**Telecommunication systems**<br>
-_general assessment_: the Vatican&rsquo;s interior telecommunication system is composed of two strongly integrated sub-systems: fixed infrastructure and mobile infrastructure; it is important to note that the mobile communication system has been designed to be capable of using satellite connections so that it is possible to ensure telecommunication services whenever needed, including wherever the Pope travels; the telephone system operates through an automatic digital exchange (2020)<br>
-_domestic_: the telephone system operates through an automatic digital exchange (2020)<br>
-_international_: country code - 39; uses Italian system<br>
-
 **Broadcast media**<br>
 the Vatican Television Center (CTV) transmits live broadcasts of the Pope's weekly audiences, as well as his public celebrations; CTV also produces documentaries; Vatican Radio is the official broadcasting service via shortwave, AM, and FM frequencies, as well as satellite and web; Vatican News website partners with Vatican Radio and provides Catholic news from the Vatican (2021)<br>
 
@@ -264,9 +259,6 @@ the Vatican Television Center (CTV) transmits live broadcasts of the Pope's week
 
 **Internet users**<br>
 _percent of population_: 75% (2021 est.)<br>
-
-**Communications - note**<br>
-the Vatican Apostolic Library is one of the world's oldest libraries, formally established in 1475, but actually much older; it holds a significant collection of historic texts including 1.1 million printed books and 75,000 codices (manuscript books with handwritten contents); it serves as a research library for history, law, philosophy, science, and theology; the library's collections have been described as "the world's greatest treasure house of the writings at the core of Western tradition"<br>
 
 ## Transportation
 

@@ -427,7 +427,7 @@ King George V granted the current Commonwealth Coat of Arms to Australia on 19 S
 ## Economy
 
 **Economic overview**<br>
-highly developed, diversified, regionally and globally integrated economy; strong mining, manufacturing, and service sectors; net exporter driven by commodities to East Asian trade partners; &ldquo;Future Made in Australia&rdquo; program focused on green energy investments<br>
+<p>high-income and globally integrated economy; strong mining, manufacturing, and service sectors driving slow but steady growth; net exporter, driven by commodities to East Asian trade partners; weak productivity and aging population straining labor force participation</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.588 trillion (2023 est.)<br>
@@ -643,13 +643,8 @@ _subscriptions per 100 inhabitants_: 24 (2023 est.)<br>
 _total subscriptions_: 29.1 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 107 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: in the fixed internet traffic sector, there is an ongoing migration from copper-based platforms to fiber; the extension of fixed wireless access will mean that up to 120,000 premises currently dependent on satellite broadband will be able to access 5G-based fixed services; the fixed-line market has been falling steadily over the past five years; in the Australian fixed broadband market, there is a dynamic shift among customers to fiber networks; the DSL sector is steadily shrinking while subscribers on HFC infrastructure will continue to be provided by existing cable, with a steady migration to full fiber connectivity (2022)<br>
-_domestic_: 18 per 100 fixed-line telephone subscriptions and 105 per 100 mobile-cellular; more subscribers to mobile services than there are people; 90% of all mobile device sales are now smartphones, growth in mobile traffic brisk (2021)<br>
-_international_: country code - 61; landing points for&nbsp;more than&nbsp;20 submarine cables including: the SeaMeWe-3 optical telecommunications submarine cable with links to Asia, the Middle East, and Europe; the INDIGO-Central, INDIGO West and ASC, North West Cable System, Australia-Papua New Guinea cable, CSCS, PPC-1, Gondwana-1, SCCN, Hawaiki, TGA, Basslink, Bass Strait-1, Bass Strait-2, JGA-S, with links to other Australian cities, New Zealand&nbsp;and many countries in southeast Asia, US and Europe; the H2 Cable, AJC, Telstra Endeavor, Southern Cross NEXT with links to Japan, Hong Kong, and other Pacific Ocean countries as well as the US; satellite earth stations - 10 Intelsat (4 Indian Ocean and 6 Pacific Ocean), 2 Inmarsat, 2 Globalstar, 5 other (2019)<br>
-
 **Broadcast media**<br>
-<p class="ssrcss-1q0x1qg-Paragraph e1jhz7w10">tradition of public broadcasting, but privately owned TV and radio have the biggest audiences; ownership of print and broadcast media is concentrated; Australian Broadcasting Corporation (ABC) runs national and local public radio and TV; other main public broadcaster is the multilingual Special Broadcasting Service (SBS); national commercial TV is dominated by three big free-to-air networks; broadcasters must carry a minimum percentage of Australian-made programs; pay TV via cable, satellite, and IPTV has a strong foothold</p> (2023)<br>
+tradition of public broadcasting, but privately owned TV and radio have the biggest audiences; ownership of print and broadcast media is concentrated; Australian Broadcasting Corporation (ABC) runs national and local public radio and TV; other main public broadcaster is the multilingual Special Broadcasting Service (SBS); national commercial TV is dominated by three big free-to-air networks; broadcasters must carry a minimum percentage of Australian-made programs; pay TV via cable, satellite, and IPTV has a strong foothold (2023)<br>
 
 **Internet country code**<br>
 .au<br>

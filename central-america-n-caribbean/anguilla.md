@@ -389,11 +389,6 @@ _subscriptions per 100 inhabitants_: 38 (2021 est.)<br>
 _total subscriptions_: 26,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 170 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: declines in subscriber numbers, particularly for prepaid mobile services&nbsp; (the mainstay of short-term visitors), and revenue; governments, regulators, and MNOs have shown little interest in investing in 5G opportunities; network expansion and enhancements remain concentrated around improving LTE coverage (2021)<br>
-_domestic_: fixed-line teledensity is about 38 per 100 persons; mobile-cellular teledensity is roughly 170 per 100 persons (2021)<br>
-_international_: country code - 1-264; landing points for the&nbsp;SSCS, ECFS, GCN&nbsp;and Southern Caribbean Fiber with submarine cable&nbsp;links to&nbsp;Caribbean islands&nbsp;and to the US; microwave radio relay to island of Saint Martin/Sint Maarten (2019)<br>
-
 **Broadcast media**<br>
 1 private TV station; multi-channel cable TV subscription services are available; about 10 radio stations, one of which is government-owned (2024)<br>
 

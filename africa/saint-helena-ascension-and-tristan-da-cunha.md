@@ -349,11 +349,6 @@ _subscriptions per 100 inhabitants_: 74 (2021 est.)<br>
 _total subscriptions_: 4,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 74 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: capability to&nbsp;communicate worldwide; ADSL- broadband service; LTE coverage of 95% of population, includes voice calls, text messages, mobile data as well as inbound and outbound roaming; Wi-Fi hotspots in Jamestown, 1 ISP, many services are not offered locally but made available for visitors; some sun outages due to the reliance of international telephone and Internet communication relying on single satellite link (2020)<br>
-_domestic_: automatic digital network; fixed-line is 74 per 100 and mobile-cellular is 74 per 100 persons (2021)<br>
-_international_: country code (Saint Helena) - 290, (Ascension Island) - 247; landing point for the SaEx1 submarine cable providing connectivity to South Africa, Brazil, Virginia Beach (US) and islands in Saint Helena, Ascension and Tristan de Cunha; international direct dialing; satellite voice and data communications; satellite earth stations - 5 (Ascension Island - 4, Saint Helena - 1) (2019)<br>
-
 **Broadcast media**<br>
 <em>Saint Helena</em>: no local TV station; 2 local radio stations, one of which is relayed to Ascension Island; satellite TV stations rebroadcast terrestrially<br><br><em>Ascension Island</em>: no local TV station; 1 local radio station and receives relays of broadcasts from radio station on Saint Helena; broadcasts from the British Forces Broadcasting Service (BFBS) available, as well as US military TV <br><br><em>Tristan da Cunha</em>: 1 local radio station and receives BFBS TV and radio broadcasts<br>
 
@@ -368,7 +363,7 @@ _total_: 1,000 (2018 est.)<br>
 _subscriptions per 100 inhabitants_: 17 (2020 est.)<br>
 
 **Communications - note**<br>
-Ascension Island hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are on Diego Garcia (British Indian Ocean Territory), Kwajalein (Marshall Islands), and at Cape Canaveral, Florida (US)); South Africa maintains a meteorological station on Gough Island in the Tristan da Cunha archipelago<br>
+Ascension Island hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are on Diego Garcia (British Indian Ocean Territory), Kwajalein (Marshall Islands), and at Cape Canaveral, Florida (US))<br>
 
 ## Transportation
 

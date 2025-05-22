@@ -218,7 +218,7 @@ see France<br>
 **Executive branch**<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by Prefect Cyrille LE VELY (since 10 February 2025)<br>
 _head of government_: President of Territorial Council Louis MUSSINGTON (since 3 April 2022)<br>
-_cabinet_: Executive Council; note - there is also an advisory economic, social, and cultural council<br>
+_cabinet_: Executive Council, as well as an advisory economic, social, and cultural council<br>
 _elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); prefect appointed by French president on the advice of French Ministry of Interior; president of Territorial Council elected by its members for a 5-year term; election last held on 3 April 2022 (next to be held in 2027)<br>
 _election results_: <br><em>2022:</em> Louis MUSSINGTON (RSM) elected president; Territorial Council vote - unanimous<em><br><br><em>2017: </em></em>Daniel Gibbs (UD) elected president; Territorial Council vote - 18 of 23 votes<br>
 
@@ -311,11 +311,6 @@ _electrification - total population_: 100% (2022 est.)<br>
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 68,840 (2012 est.)<br>
 _subscriptions per 100 inhabitants_: 196 (2012 est.)<br>
-
-**Telecommunication systems**<br>
-_general assessment_: fully integrated access; good interisland and international connections; broadband access; expanded FttP (Fiber to the Home) and LTE markets; regulatory development; telecom sector contributes greatly to the overall GDP; telecom sector is a growth area (2020)<br>
-_domestic_: direct dial capability with both fixed and wireless systems (2018)<br>
-_international_: country code - 590; landing points for the SMPR-1, Southern Caribbean Fiber and the Saba, Statia Cable System submarine cables providing connectivity to numerous Caribbean islands (2019)<br>
 
 **Broadcast media**<br>
 1 local TV station; access to about 20 radio stations, including RFO Guadeloupe radio broadcasts via repeater<br>

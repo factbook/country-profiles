@@ -65,7 +65,7 @@ _other_: 38.9% (2022 est.)<br>
 _salt water lake(s)_: Ozero Issyk-Kul 6,240 sq km<br>note - second largest saline lake after the Caspian Sea; second highest mountain lake after Lake Titicaca; it is an endorheic mountain basin; although surrounded by snow capped mountains it never freezes<br>
 
 **Major rivers (by length in km)**<br>
-Syr Darya river source (shared with Tajikistan, Uzbekistan, and Kazakhstan [m] ) - 3,078 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Syr Darya river source (shared with Tajikistan, Uzbekistan, and Kazakhstan [m]) - 3,078 km <br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
@@ -270,7 +270,7 @@ _municipal solid waste generated annually_: 1,113,300 tons (2015 est.)<br>
 _salt water lake(s)_: Ozero Issyk-Kul 6,240 sq km<br>note - second largest saline lake after the Caspian Sea; second highest mountain lake after Lake Titicaca; it is an endorheic mountain basin; although surrounded by snow capped mountains it never freezes<br>
 
 **Major rivers (by length in km)**<br>
-Syr Darya river source (shared with Tajikistan, Uzbekistan, and Kazakhstan [m] ) - 3,078 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Syr Darya river source (shared with Tajikistan, Uzbekistan, and Kazakhstan [m]) - 3,078 km <br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
@@ -610,11 +610,6 @@ _subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 _total subscriptions_: 7.68 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 130 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: the country&rsquo;s telecom sector (specifically the mobile segment) has been able to prosper; Kyrgyzstan has opened up its telecom market to competition; the mobile market has achieved high levels of penetration (140% in 2021) along with a fairly competitive operating environment with four major players; mobile broadband has come along strongly, reaching over 125% penetration in 2019 before falling back slightly during the COVID-19 crisis; slow-to-moderate growth is expected for both segments in coming years, supported by the anticipated rollout of 5G services which began testing in 2022 with a pilot service in 2023 which has been delayed into 2024 (2024)<br>
-_domestic_: fixed-line subscriptions 5 per 100; mobile-cellular subscribership up to over 130 per 100 persons (2022)<br>
-_international_: country code - 996; connections with other CIS (Commonwealth of Independent States, 9 members post-Soviet Republics in EU) countries by landline or microwave radio relay and with other countries by leased connections with Moscow international gateway switch and by satellite; satellite earth stations - 2 (1 Intersputnik, 1 Intelsat) (2019)<br>
-
 **Broadcast media**<br>
 state-funded public TV broadcaster NTRK operates Ala-Too 24 news channel and 4 other educational, cultural, and sports channels; ELTR is a state-owned TV station; the switchover to digital TV in 2017 resulted in private TV station growth; approximately 20 TV stations are struggling to increase Kyrgyz-language content to 60% of airtime, as required by law, instead of rebroadcasting programs from Russian channels or airing unlicensed movies and music; several Russian TV stations also broadcast; state-funded radio stations and about 10 significant private radio stations&nbsp; (2023)<br>
 
@@ -646,7 +641,7 @@ _broad gauge_: 424 km (2018) 1.520-m gauge<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Kyrgyz Republic: Land Forces (Kygyz Army), Air Defense Forces (Kyrgyz Air Force)<br><br>Ministry of Internal Affairs: National Guard, Internal Security Service<br><br>State Committee for National Security: Border Guard Service (2025)<br>
+Armed Forces of the Kyrgyz Republic: Land Forces (Kygyz Army), Air Defense Forces (Kyrgyz Air Force), National Guard of the Armed Forces of the Kyrgyz Republic<br><br>Ministry of Internal Affairs: Internal Security Service<br><br>State Committee for National Security: Border Guard Service (2025)<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2022 est.)<br>
@@ -656,7 +651,7 @@ Armed Forces of the Kyrgyz Republic: Land Forces (Kygyz Army), Air Defense Force
 2.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 15,000 active-duty troops (9,000 Land Forces; 3,000 Air Force/Air Defense; 3,000 National Guard) (2023)<br>
+limited available information; estimated 10-15,000 active Armed Forces, including the National Guard (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Kyrgyz military inventory is comprised almost entirely of Russian and Soviet-era weapons and equipment; in recent years, the military has acquired small amounts of material from other suppliers such as Turkey, which provided unmanned aerial vehicles/drones (2024)<br>

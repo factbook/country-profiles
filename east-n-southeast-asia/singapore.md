@@ -583,11 +583,6 @@ _subscriptions per 100 inhabitants_: 33 (2023 est.)<br>
 _total subscriptions_: 9.65 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 156 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: a wealthy city-state, Singapore has a highly developed ICT infrastructure; government supported near universal home broadband penetration and free public access to wireless network; the government's telecommunication regulator, Infocomm Media Development Authority (IMDA), issued awards in mid-2020 to telecom operators with the goal of having at least 50% of the city-state covered with a standalone 5G network by the end of 2022; government actively promoting Smart Nation initiative supporting digital innovation; government oversees service providers and controls Internet content; well served by submarine cable and satellite connections (2021)<br>
-_domestic_: fixed-line is 32 per 100 and mobile-cellular 146 per 100 teledensity (2021)<br>
-_international_: country code - 65; landing points for INDIGO-West, SeaMeWe -3,-4,-5, SIGMAR, SJC, i2icn,&nbsp;PGASCOM, BSCS,&nbsp;IGG,&nbsp;B3JS, SAEx2, APCN-2, APG, ASC, SEAX-1, ASE, EAC-C2C, Matrix Cable System and SJC2 submarine cables providing links throughout Asia, Southeast Asia, Africa, Australia, the Middle East, and Europe; satellite earth stations - 3, Bukit Timah, Seletar, and Sentosa; supplemented by VSAT coverage (2019 )<br>
-
 **Broadcast media**<br>
 state-controlled broadcast media; 6 domestic TV stations operated by state-owned MediaCorp; broadcasts from Malaysian and Indonesian stations available; satellite dishes banned; multi-channel cable TV services available; 19 domestic radio stations, including 11 for MediaCorp, 5 for state-linked Singapore Press Holdings, 2 for Singapore Armed Forces Reservists Association, and 1 for BBC Radio; Malaysian and Indonesian radio stations available (2019)<br>
 
@@ -639,7 +634,7 @@ Singapore Armed Forces (SAF; aka Singapore Defense Force): Singapore Army, Repub
 3% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 55,000 active-duty SAF personnel (40,000 Army; 7,000 Navy; 8,000 Air Force) (2025)<br>
+information varies; approximately 55,000 active-duty Armed Forces (40,000 Army; 7,000 Navy; 8,000 Air Force) (2025)<br>
 <strong>note:</strong> the Army is comprised mostly of conscripts and reservists with a small core of professional soldiers, while the Air Force and Navy are staffed mainly by professional personnel<br>
 
 **Military equipment inventories and acquisitions**<br>

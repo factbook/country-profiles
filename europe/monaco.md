@@ -414,11 +414,6 @@ _subscriptions per 100 inhabitants_: 111 (2023 est.)<br>
 _total subscriptions_: 41,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 107 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: modern automatic telephone system: the country's sole fixed-line operator offers a full range of services to residential and business customers; competitive mobile telephony market; 4G LTE widely available (2020)<br>
-_domestic_: fixed-line a little over 117 per 100 and mobile-cellular teledensity is 99 per 100 persons (2021)<br>
-_international_: country code - 377; landing points for the EIG and Italy-Monaco submarine cables connecting Monaco to Europe, Africa, the Middle East and Asia; no satellite earth stations; connected by cable into the French communications system (2019)<br>
-
 **Broadcast media**<br>
 TV Monte-Carlo operates a TV network; cable TV available; Radio Monte-Carlo has extensive radio networks in France and Italy, with French-language broadcasts to France beginning in the 1960s and Italian-language broadcasts to Italy beginning in the 1970s; other radio stations include Riviera Radio and Radio Monaco<br>
 

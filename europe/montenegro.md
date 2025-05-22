@@ -603,11 +603,6 @@ _subscriptions per 100 inhabitants_: 30 (2023 est.)<br>
 _total subscriptions_: 1.31 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 203 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: a small telecom market supported by a population of only 623,000; fixed broadband services are available via a variety of technology platforms, though fiber is the dominant platform, accounting for almost 40% of connections; the growth of fiber has largely been at the expense of DSL as customers are migrated to fiber networks as these are built out progressively; mobile penetration is particularly high, though this is partly due to the significant number of tourists visiting the country seasonally, as also to the popularity of subscribers having multiple prepaid cards; in the wake of the pandemic and associated restrictions on travel, the number of mobile subscribers fell in 2020, as also in the first quarter of 2021, year-on-year; networks support a vibrant mobile broadband services sector, largely based on LTE; two of the MNOs began trialing 5G in May 2021, though commercial services will not gain traction until after the multi-spectrum auction is completed at the end of 2021; spectrum is available in the 694-790MHz and 3400-3800MHz ranges, as well as in the 26.5-27.5GHz range (2021)<br>
-_domestic_: fixed-line over 30 per 100 and mobile-cellular 178 per 100 persons (2021)<br>
-_international_: country code - 382; 2 international switches connect the national system<br>
-
 **Broadcast media**<br>
 state-funded national radio and TV broadcaster operates 2 terrestrial TV networks, 1 satellite TV channel, and 2 radio networks; 4 local public TV stations and 14 private TV stations; 14 local public radio stations, 35 private radio stations, and several online media (2019)<br>
 
@@ -662,7 +657,7 @@ Army of Montenegro (Vojska Crne Gore or VCG): Ground Forces, Air Force, Navy <b
 1.7% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 1,600 active-duty troops (2024)<br>
+approximately 1,600 active-duty Army of Montenegro forces (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is small and consists largely of Soviet-era equipment inherited from the former Yugoslavia military, along with a limited but growing mix of imported Western systems (2024)<br>

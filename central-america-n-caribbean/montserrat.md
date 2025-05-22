@@ -251,7 +251,6 @@ _chief of state_: King CHARLES III (since 8 September 2022); represented by Gove
 _head of government_: Premier Easton TAYLOR-FARRELL (since 19 November 2019)<br>
 _cabinet_: Executive Council consists of the governor, the premier, 3 other ministers, the attorney general, and the finance secretary<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party usually becomes premier<br>
-<strong>note:</strong> effective with Constitution Order 2010, October 2010, the office of premier replaced the office of chief minister<br>
 
 **Legislative branch**<br>
 _legislature name_: Legislative Assembly<br>
@@ -404,11 +403,6 @@ _subscriptions per 100 inhabitants_: 67 (2020 est.)<br>
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 5,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 110 (2020 est.)<br>
-
-**Telecommunication systems**<br>
-_general assessment_: telecom market one of growth in Caribbean and fully digitalized;&nbsp;high dependency on tourism and offshore financial&nbsp;services; operators expand FttP (Fiber to Home) services; LTE launches and operators invest in mobile networks; effective competition in all sectors (2020)<br>
-_domestic_: fixed-line is 67 per 100 and mobile-cellular teledensity is 110 per 100 persons (2020)<br>
-_international_: country code - 1-664; landing point for the ECFS optic submarine cable with links to 14 other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad (2019)<br>
 
 **Broadcast media**<br>
 Radio Montserrat, a public radio broadcaster, transmits on 1 station and has a repeater transmission to a second station; repeater transmissions from the GEM Radio Network of Trinidad and Tobago provide another 2 radio stations; cable and satellite TV available (2007)<br>

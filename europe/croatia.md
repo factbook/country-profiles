@@ -63,7 +63,7 @@ _other_: 39.4% (2022 est.)<br>
 170 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
-Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -264,7 +264,7 @@ _municipal solid waste recycled annually_: 269,933 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 16.3% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -397,7 +397,7 @@ _selected World Heritage Site locales_: Plitvice Lakes National Park (n); Histor
 ## Economy
 
 **Economic overview**<br>
-tourism-based economy that was one of the hardest hit by COVID-19 economic disruptions; newest euro user since 2023, helping recover from a 6-year recession; public debt increases due to COVID-19 and stimulus packages; weak exports; continuing emigration; new liquefied natural gas import terminal<br>
+<p>upper-middle-income Balkan economy; newest euro user (introduced in 2023); increased investments from EU structural funds and tourism sector contributing to strong but moderating economic growth; declining energy prices and restrictive monetary policy easing inflation; historically low unemployment rate with labor shortages within services and manufacturing sectors</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $158.698 billion (2023 est.)<br>
@@ -616,11 +616,6 @@ _subscriptions per 100 inhabitants_: 31 (2023 est.)<br>
 _total subscriptions_: 4.56 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 111 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: the mobile market is served by three MNOs, supplemented by a number of MVNOs; the network operators have focused on improving ARPU by encouraging prepaid subscribers to migrate to postpaid plans, and on developing revenue from mobile data services; 5G services are widely available, though the sector will only show its full potential later in 2021 following the award of licenses in several bands; this will contribute towards the government&rsquo;s national broadband plan to 2027, which is tied to the EC&rsquo;s two allied projects aimed at providing gigabit connectivity by the end of 2025; the broadband sector benefits from effective competition between the DSL and cable platforms, while there are also numerous fiber deployments in urban areas; the number of FttP subscribers broached 134,000 in March 2021. (2021)<br>
-_domestic_: fixed-line teledensity 31 per 100 persons; mobile-cellular telephone subscriptions are 108 per 100 (2021)<br>
-_international_: country code - 385; &nbsp;the ADRIA-1 submarine cable provides connectivity to Albania and Greece;&nbsp;digital international service is provided through the main switch in Zagreb; Croatia participates in the Trans-Asia-Europe fiber-optic project, which consists of 2 fiber-optic trunk connections with Slovenia and a fiber-optic trunk line from Rijeka to Split and Dubrovnik (2019)<br>
-
 **Broadcast media**<br>
 the national state-owned public broadcaster, Croatian Radiotelevision, operates 4 terrestrial TV networks, a satellite channel that rebroadcasts programs for Croatians overseas, and 6 regional TV centers; 2 private broadcasters with national terrestrial networks; 29 privately owned regional TV stations; multi-channel cable and satellite TV subscription services are available; state-owned public broadcaster operates 4 national radio networks and 23 regional radio stations; 2 privately owned national radio networks and 117 local radio stations (2019)<br>
 
@@ -675,7 +670,7 @@ Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH)
 1.7% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 14,000 active-duty personnel (10,000 Army; 1,500 Navy; 1,500 Air force; 1,000 joint/other) (2024)<br>
+approximately 14,000 active-duty Armed Forces (10,000 Army; 1,500 Navy; 1,500 Air force; 1,000 joint/other) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a mix of Soviet-era (largely from the former Yugoslavia) equipment and a growing amount of more modern, NATO-compatible weapon systems from suppliers such as France, Germany, Turkey, and the US (2024)<br>

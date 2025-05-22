@@ -65,7 +65,7 @@ _other_: 29.8% (2022 est.)<br>
 _fresh water lake(s)_: Lake Constance (shared with Germany and Austria) - 540 sq km; Lake Geneva (shared with France) - 580 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Rhein (Rhine)  river source (shared with Germany, France, and Netherlands [m]) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Rhein (Rhine) river source (shared with Germany, France, and Netherlands [m]) - 1,233 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
@@ -269,7 +269,7 @@ _percent of municipal solid waste recycled_: 32% (2015 est.)<br>
 _fresh water lake(s)_: Lake Constance (shared with Germany and Austria) - 540 sq km; Lake Geneva (shared with France) - 580 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Rhein (Rhine)  river source (shared with Germany, France, and Netherlands [m]) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Rhein (Rhine) river source (shared with Germany, France, and Netherlands [m]) - 1,233 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
@@ -337,7 +337,7 @@ _head of government_: President of the Swiss Confederation Karin KELLER-SUTTER (
 _cabinet_: Federal Council or Bundesrat (in German), Conseil Federal (in French), Consiglio Federale (in Italian) indirectly elected by the Federal Assembly for a 4-year term<br>
 _elections/appointments_: president and vice president elected by the Federal Assembly from among members of the Federal Council for a 1-year, non-consecutive term; election last held on 13 December 2023 (next to be held in December 2024)<br>
 _election results_: <em><br>2023:  </em>Viola AMHERD elected president for 2024; Federal Assembly vote - Viola AMHERD (The Center) 158 of 204; Karin Keller-Sutter (FDP.The Liberals) elected vice president for 2024; Federal Assembly vote - 138 of 196<br><br><em>2022:  </em>Alain BERSET elected president for 2023; Federal Assembly vote - Alain BERSET (SP) 140 OF 181; Viola AMHERD elected vice president; Federal assembly vote - 207 of 223<br>
-<strong>note:</strong> the Federal Council, comprised of 7 federal councillors, constitutes the federal government of Switzerland; council members rotate the 1-year term of federal president<br>
+<strong>note:</strong> the Federal Council, composed of 7 federal councilors, constitutes the federal government of Switzerland; council members rotate the 1-year term of federal president<br>
 
 **Legislative branch**<br>
 _legislature name_: Federal Assembly (Bundesversammlung - Assemblée fédérale - Assemblea federale)<br>
@@ -633,13 +633,8 @@ _subscriptions per 100 inhabitants_: 34 (2023 est.)<br>
 _total subscriptions_: 10.9 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 120 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Switzerland has one of the highest broadband penetration rates within Europe, with a focus on services of at least 1Gb/s; this has been supported by sympathetic regulatory measures as well as by cooperative agreements between the main telcos, and with local utilities; fast fiber is complemented by 5G services reaching about 97% of the population by early 2021; together, these networks will soon enable the telcos to provide ultra-fast broadband services nationally, ahead of most other countries in the region; the competitive mobile market is served by three network operators and a small number of MVNOs; 5G services offered by the MNOs offer data rates of up to 2Gb/s, and although various cantons have called a halt to extensions of 5G, citing health concerns, the regulator and environment ministry have put in place measures aimed at ensuring that network roll outs can continue without disruption; with the migration of subscribers to LTE and 5G networks, the MNOs have been able to begin closing down their GSM networks and repurpose physical assets and spectrum; although not a member of the EU, the country&rsquo;s economic integration has meant that its telecom market deregulation has followed the EU&rsquo;s liberalization framework, including the recent regulations on international voice roaming; this report presents an analysis of Switzerland&rsquo;s fixed-line telecom market, including an assessment of network infrastructure (2021)<br>
-_domestic_: fixed-line is 33 per 100 and mobile-cellular subscribership is 120 per 100 persons (2022)<br>
-_international_: country code - 41; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean)<br>
-
 **Broadcast media**<br>
-<p>publicly owned Swiss Broadcasting Corporation (SRG/SSR) has 8 national TV networks, 3 broadcasting in German, 3 in French, and 2 in Italian; private commercial TV stations broadcast regionally and locally; German, Italian, and French TV broadcasts widely available via multi-channel cable and satellite TV; SRG/SSR has 17 radio stations </p> (2019)<br>
+publicly owned Swiss Broadcasting Corporation (SRG/SSR) has 8 national TV networks, 3 broadcasting in German, 3 in French, and 2 in Italian; private commercial TV stations broadcast regionally and locally; German, Italian, and French TV broadcasts widely available via multi-channel cable and satellite TV; SRG/SSR has 17 radio stations (2019)<br>
 
 **Internet country code**<br>
 .ch<br>
@@ -683,8 +678,8 @@ Swiss Armed Forces (aka Swiss Army or Schweizer Armee); Army (aka Land Forces), 
 0.7% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-the Swiss Armed Forces have approximately 145,000 service members (2024)<br>
-<strong>note:</strong> the strength figures include professional cadre, people awaiting or participating in mandatory annual training, and people who have already completed their training service obligation<br>
+approximately 145,000 Swiss Armed Forces (2024)<br>
+<strong>note:</strong> the strength figures include professional cadre (approximately 20,000 personnel), people awaiting or participating in mandatory annual training, and people who have already completed their training service obligation<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes a mix of domestically produced and imported European and US weapons systems; the Swiss defense industry produces a range of military land vehicles (2024)<br>

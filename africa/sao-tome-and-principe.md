@@ -558,11 +558,6 @@ _subscriptions per 100 inhabitants_: 1 (2023 est.)<br>
 _total subscriptions_: 152,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 87 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: local telephone network of adequate quality with most lines connected to digital switches; mobile cellular superior choice to landline; dial-up quality low; broadband expensive (2018)<br>
-_domestic_: fixed-line is 1 per 100 and mobile-cellular teledensity is 85 telephones per 100 persons (2021)<br>
-_international_: country code - 239; landing points for the Ultramar GE and ACE submarine cables&nbsp;from South Africa&nbsp;to over 20&nbsp;West African countries and Europe; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
 1 state-owned TV station; 2 state-owned radio stations; 7 independent local radio stations; transmissions of multiple international broadcasters are available<br>
 
@@ -604,7 +599,7 @@ Armed Forces of Sao Tome and Principe (Forcas Armadas de Sao Tome e Principe, FA
 <strong>note:</strong> the Army and Coast Guard are responsible for external security while the public security police and judicial police maintain internal security; both the public security police and the military report to the Ministry of Defense and Internal Affairs; the judicial police report to the Ministry of Justice, Public Administration, and Human Rights<br>
 
 **Military and security service personnel strengths**<br>
-the FASTP has approximately 500 personnel (2023)<br>
+approximately 500 active Armed Forces (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FASTP is lightly armed and has a small inventory of mostly older weapons and equipment&nbsp; (2023)<br>

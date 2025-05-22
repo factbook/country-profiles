@@ -118,9 +118,6 @@ _from petroleum and other liquids_: 1.214 million metric tonnes of CO2 (2023 est
 
 ## Communications
 
-**Telecommunication systems**<br>
-_general assessment_: satellite communications; 2 Defense Switched Network circuits off the Overseas Telephone System (OTS); located in the Hawaii area code - 808 (2018) (2018)<br>
-
 **Broadcast media**<br>
 US Armed Forces Radio and Television Service (AFRTS) provides satellite radio/TV broadcasts (2018)<br>
 

@@ -64,7 +64,7 @@ _other_: 33.5% (2022 est.)<br>
 _fresh water lake(s)_: Aral Sea (shared with Kazakhstan) - largely dried up<br>
 
 **Major rivers (by length in km)**<br>
-Syr Darya (shared with Kyrgyzstan [s], Tajikistan, and Kazakhstan [m]) - 3,078 km; Amu Darya river mouth (shared with Tajikistan [s], Afghanistan, and Turkmenistan) - 2,620 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Syr Darya (shared with Kyrgyzstan [s], Tajikistan, and Kazakhstan [m]) - 3,078 km; Amu Darya river mouth (shared with Tajikistan [s], Afghanistan, and Turkmenistan) - 2,620 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
@@ -270,7 +270,7 @@ _municipal solid waste generated annually_: 4 million tons (2016 est.)<br>
 _fresh water lake(s)_: Aral Sea (shared with Kazakhstan) - largely dried up<br>
 
 **Major rivers (by length in km)**<br>
-Syr Darya (shared with Kyrgyzstan [s], Tajikistan, and Kazakhstan [m]) - 3,078 km; Amu Darya river mouth (shared with Tajikistan [s], Afghanistan, and Turkmenistan) - 2,620 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Syr Darya (shared with Kyrgyzstan [s], Tajikistan, and Kazakhstan [m]) - 3,078 km; Amu Darya river mouth (shared with Tajikistan [s], Afghanistan, and Turkmenistan) - 2,620 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
@@ -303,7 +303,7 @@ _time difference_: UTC+5 (10 hours ahead of Washington, DC, during Standard Time
 _etymology_: the current name of the ancient city was first used in the 11th century and comes from the Sogdian (Turkic) words <em>tash (</em>stone) and <em>kent</em> (town); the city was first recorded in the 5th or 4th century B.C. with the name of Chach or Shash<br>
 
 **Administrative divisions**<br>
-<p>12 provinces (viloyatlar, singular - viloyat), 1 autonomous republic* (avtonom respublikasi), and 3 cities** (shahar); Andijon Viloyati, Buxoro Viloyati [Bukhara Province], Farg'ona Viloyati [Fergana Province], Jizzax Viloyati, Namangan Shahri, Namangan Viloyati, Navoiy Viloyati, Qashqadaryo Viloyati (Qarshi), Qoraqalpog'iston Respublikasi [Karakalpakstan Republic]* (Nukus), Samarqand Shahri [Samarkand City], Samarqand Viloyati [Samarkand Province], Sirdaryo Viloyati (Guliston), Surxondaryo Viloyati (Termiz), Toshkent Shahri [Tashkent City]**, Toshkent Viloyati [Nurafshon], Xorazm Viloyati (Urganch)  </p><br>
+12 provinces (viloyatlar, singular - viloyat), 1 autonomous republic* (avtonom respublikasi), and 3 cities** (shahar); Andijon Viloyati, Buxoro Viloyati [Bukhara Province], Farg'ona Viloyati [Fergana Province], Jizzax Viloyati, Namangan Shahri, Namangan Viloyati, Navoiy Viloyati, Qashqadaryo Viloyati (Qarshi), Qoraqalpog'iston Respublikasi [Karakalpakstan Republic]* (Nukus), Samarqand Shahri [Samarkand City], Samarqand Viloyati [Samarkand Province], Sirdaryo Viloyati (Guliston), Surxondaryo Viloyati (Termiz), Toshkent Shahri [Tashkent City]**, Toshkent Viloyati [Nurafshon], Xorazm Viloyati (Urganch)  <br>
 <strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses) <br>
 
 **Independence**<br>
@@ -625,11 +625,6 @@ _subscriptions per 100 inhabitants_: 17 (2023 est.)<br>
 _total subscriptions_: 37.5 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 103 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Uzbekistan&rsquo;s telecom markets both wireline and wireless have been playing "catch up" in terms of their development following the country's independence from the former Soviet Union; the government has formally adopted the principles of operating as a market economy, many elements of the old centrally planned economic model remain; this has had the effect of reducing the level of interest from foreign companies and investors in building out the necessary underlying infrastructure, which in turn has constrained the rate of growth in the country&rsquo;s telecoms sector; the last five years has seen an upswing in prospects for the sector as fiber network roll outs continue beyond the main urban centers, while the mobile market experiences some consolidation for stronger, more efficient competitors; growth is present in the fixed broadband segment with penetration projected to reach 24% by 2027 (a 5-year CAGR of 6.2%); despite the promising signs in the fixed markets, it is the mobile segment that continues to dominate Uzbekistan&rsquo;s telecoms sector in terms of penetration, revenue, and growth;&nbsp; there are four major operators providing a modicum of competition; three of the four are government owned entities (2024)<br>
-_domestic_: fixed-line nearly 16 per 100 persons and mobile-cellular teledensity of 103 per 100 persons (2022)<br>
-_international_: country code - 998; linked by fiber-optic cable or microwave radio relay with CIS member states and to other countries by leased connection via the Moscow international gateway switch; the country also has a link to the Trans-Asia-Europe (TAE) fiber-optic cable; Uzbekistan has supported the national fiber-optic backbone project of Afghanistan since 2008<br>
-
 **Broadcast media**<br>
 state-controlled media; 17 state-owned broadcasters, including 13 TV and 4 radio, with national service; about 20 privately owned TV stations, overseen by local officials, broadcast locally; privately owned TV stations required to lease transmitters from state-owned Republic TV and Radio Industry Corporation (2019)<br>
 
@@ -672,13 +667,13 @@ Armed Forces of Uzbekistan: Army, Air and Air Defense Forces; National Guard <b
 2.5% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 50,000 active-duty troops (2025)<br>
+limited available information; estimated 50,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Uzbek Armed Forces use mainly Russian or Soviet-era weapons and equipment with smaller quantities of items from suppliers such as China, Turkey, and the US; Uzbekistan has a small defense industry, which is involved in repairing and maintaining aircraft and armored vehicles, as well as producing light armored vehicles, unmanned aerial vehicles/drones, and other military items (2024)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory military service; 12-month conscript service obligation for men (those conscripted have the option of paying for a shorter service of 1 month while remaining in the reserves until the age of 27) (2023)<br>
+18-27 years of age for compulsory military service for men; 12-month service obligation (those conscripted have the option of paying for a shorter service of one month while remaining in the reserves until the age of 27) (2024)<br>
 <strong>note:</strong> Uzbek citizens who have completed their service terms in the armed forces have privileges in employment and admission to higher educational institutions<br>
 
 **Military - note**<br>

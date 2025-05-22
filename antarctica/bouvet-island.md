@@ -105,9 +105,6 @@ the flag of Norway is used<br>
 **Internet country code**<br>
 .bv<br>
 
-**Communications - note**<br>
-has an automated meteorological station<br>
-
 ## Transportation
 
 ## Military and Security

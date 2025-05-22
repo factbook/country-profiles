@@ -566,11 +566,6 @@ _subscriptions per 100 inhabitants_: 12 (2023 est.)<br>
 _total subscriptions_: 8.11 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 181 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Kuwait&rsquo;s telecom infrastructure is well developed, with a focus on mobile infrastructure and services; the telecom sector is important to the country&rsquo;s economy, and this will become more pronounced in coming years as the economy is purposefully transitioned away from a dependence on oil and gas to one which is increasingly knowledge-based and focused on ICT and related services; the MNOs have focused investment on 5G networks, which support and promote the growth of data traffic; this in turn has been a catalyst for revenue growth in recent quarters; while Kuwait&rsquo;s mobile sector shows considerable progress; the country&rsquo;s fixed broadband system is the lowest in the region; the government has stepped up efforts to build up fixed broadband networks, and ultimately this sector offers a potential future growth opportunity; improvements to the fixed broadband infrastructure will help develop sectors such as e-commerce, along with smart infrastructure developments, and tech start-ups (2022)<br>
-_domestic_: fixed-line subscriptions are nearly 13 per 100 and mobile-cellular stands at nearly 163 per 100 subscriptions (2021)<br>
-_international_: country code - 965; landing points for the FOG, GBICS, MENA, Kuwait-Iran, and FALCON submarine cables&nbsp;linking Africa, the Middle East, and Asia; microwave radio relay to Saudi Arabia; satellite earth stations - 6 (3 Intelsat - 1 Atlantic Ocean and 2 Indian Ocean, 1 Inmarsat - Atlantic Ocean, and 2 Arabsat) (2019)<br>
-
 **Broadcast media**<br>
 state-owned TV broadcaster operates 4 networks and a satellite channel; several private TV broadcasters; satellite TV available, and pan-Arab TV stations are especially popular; state-owned Radio Kuwait broadcasts on a number of channels in Arabic and English; first private radio station in 2005; transmissions of at least 2 international radio broadcasters are available (2019)<br>
 
@@ -622,7 +617,7 @@ Kuwait Armed Forces (KAF): Kuwait Army (aka Kuwait Land Forces, KLF), Kuwait Nav
 5.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 17,000 Kuwait Armed Forces; approximately 7,000 National Guard (2025)<br>
+approximately 17,000 active Kuwait Armed Forces; approximately 7,000 National Guard (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists of weapons from a wide variety of sources, including Western Europe, Russia, and particularly the US (2024)<br>

@@ -320,8 +320,8 @@ _residency requirement for naturalization_: 5 years<br>
 **Executive branch**<br>
 _chief of state_: President (vacant)<br>
 _head of government_: Prime Minister Alix Didier FILS-AIM&Eacute; (since 10 November 2024)<br>
-_cabinet_: Cabinet chosen by the prime minister in consultation with the president; parliament must ratify the Cabinet and Prime Minister's governing policy<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a single non-consecutive term); last election was 20 November 2016; new elections were delayed in 2022 and 2023 and have not been scheduled by the transitional presidential council<br>
+_cabinet_: Cabinet chosen by the prime minister in consultation with the president; parliament must ratify the Cabinet and prime minister's governing policy<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a single non-consecutive term); last election was 20 November 2016; new elections were delayed in 2022 and 2023 and have not been scheduled by the transitional presidential council<br>
 _election results_: <br><em>2016:</em> Jovenel MOÏSE elected president in first round; percent of vote - Jovenel MOÏSE (PHTK) 55.6%, Jude CELESTIN (LAPEH) 19.6%, Jean-Charles MOÏSE (PPD) 11%, Maryse NARCISSE (FL) 9%; other 4.8%<br><br><em>2011:</em> Michel MARTELLY elected president in second round; percent of vote in second round - Michel MARTELLY (Peasant's Response) 68%, Mirlande MANIGAT (RDNP) 32%<br>
 <strong>note:</strong> former Prime Minister Ariel HENRY, who had assumed executive responsibilities following the assassination of President MOÏSE on 7 July 2021, resigned on 24 April 2024; a nine-member Presidential Transitional Council, equipped with presidential powers, was sworn in on 25 April 2024 and will remain in place until 7 February 2026<br>
 
@@ -583,13 +583,8 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 _total subscriptions_: 7.32 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 64 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Haiti is in desperate need of maintaining effective communication services to enable it to keep going through the countless natural disasters, the country&rsquo;s telecoms sector is really only surviving on the back of international goodwill to repair and replace the systems destroyed in the latest upheaval; Haiti&rsquo;s fixed-line infrastructure is now practically non-existent, having been torn apart by Hurricane Matthew in 2016; what aid and additional investment has been forthcoming has been directed towards mobile solutions; over half of the country can afford a mobile handset or the cost of a monthly subscription; and mobile broadband subscriptions is half of that again &ndash; an estimated 28% in 2022; international aid continues to flow in to try and help the country&rsquo;s telecoms sector recover &ndash; the World Bank has released a further $120 million to go on top of the $60 million grant provided after the last major 7.2 earthquake in August 2021 (2022)<br>
-_domestic_: fixed-line is less than 1 per 100; mobile-cellular teledensity is nearly 64 per 100 persons (2021)<br>
-_international_: country code - 509; landing points for the BDSNi and Fibralink submarine cables to 14 points in the Bahamas and Dominican Republic; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
-<p>398 legal broadcasting stations, including about 60 community radio stations; 105 TV stations, including 36 in Port-au-Prince, 41 others in the provinces, and more than 40 radio-television stations; large number of stations operate irregularly or flout regulations; VOA Creole Service broadcasts daily on 30 affiliate stations</p> (2019)<br>
+398 legal broadcasting stations, including about 60 community radio stations; 105 TV stations, including 36 in Port-au-Prince, 41 others in the provinces, and more than 40 radio-television stations; large number of stations operate irregularly or flout regulations; VOA Creole Service broadcasts daily on 30 affiliate stations (2019)<br>
 
 **Internet country code**<br>
 .ht<br>
@@ -629,7 +624,7 @@ _key ports_: Cap Haitien, Jacmel, Miragoane, Petit Goave, Port au Prince<br>
 
 **Military and security forces**<br>
 the Haitian Armed Forces (FAdH): Army<br><br>Ministry of Justice and Public Security: Haitian National Police (Police Nationale d'Haïti or PNH) (2025)<br>
-<strong>note:</strong> the PNH is responsible for maintaining public security; it includes police, corrections, fire, emergency response, airport security, port security, and coast guard functions; its units include a presidential guard and a paramilitary rapid-response Motorized Intervention Unit or BIM  <p class="gmail-css-axufdj"> </p><br>
+<strong>note:</strong> the PNH is responsible for maintaining public security; it includes police, corrections, fire, emergency response, airport security, port security, and coast guard functions; its units include a presidential guard and a paramilitary rapid-response Motorized Intervention Unit (BIM)  <p class="gmail-css-axufdj"> </p><br>
 
 **Military and security service personnel strengths**<br>
 estimates vary; up to 2,000 trained military personnel (the force is planned to eventually have around 5,000 personnel); estimates for the National Police range from a low of 9,000 to a high of about 13,000 (2025)<br>

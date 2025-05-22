@@ -231,11 +231,6 @@ _Currency_: Australian dollars (AUD) per US dollar -<br>
 
 ## Communications
 
-**Telecommunication systems**<br>
-_general assessment_: internet access on Christmas Island is provided by satellite; improvements through the Regional Connectivity Program to the macro and small cell mobile sites will provide new and improved mobile, voice and data connectivity for residents and visitors; the upgrade will also support local businesses and community facilities, enabling increased residential access to essential services such as telehealth and education (2022)<br>
-_domestic_: improvements to Christmas Island include an upgrade to the macro cell base stations and deploy a new macro cell base station at the airport (2022)<br>
-_international_: international code - 61 8; ASC submarine cable to Singapore and Australia; satellite earth station - 1 (Intelsat provides telephone and telex service) (2019)<br>
-
 **Broadcast media**<br>
 1 community radio station; satellite broadcasts of several Australian radio and TV stations (2017)<br>
 

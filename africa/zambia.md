@@ -65,7 +65,7 @@ _other_: 8.2% (2022 est.)<br>
 _fresh water lake(s)_: Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Burundi) - 32,000 sq km; Lake Mweru (shared with Democratic Republic of Congo) - 4,350 sq km; Lake Bangweulu - 4,000-15,000 sq km seasonal variation<br>
 
 **Major rivers (by length in km)**<br>
-<p>Congo river source (shared with Angola, Republic of Congo, and Democratic Republic of Congo [m]) - 4,700 km; Zambezi river source (shared with Angola, Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
+<p>Congo river source (shared with Angola, Republic of Congo, and Democratic Republic of Congo [m]) - 4,700 km; Zambezi river source (shared with Angola, Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
@@ -273,7 +273,7 @@ _municipal solid waste generated annually_: 2,608,268 tons (2002 est.)<br>
 _fresh water lake(s)_: Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Burundi) - 32,000 sq km; Lake Mweru (shared with Democratic Republic of Congo) - 4,350 sq km; Lake Bangweulu - 4,000-15,000 sq km seasonal variation<br>
 
 **Major rivers (by length in km)**<br>
-<p>Congo river source (shared with Angola, Republic of Congo, and Democratic Republic of Congo [m]) - 4,700 km; Zambezi river source (shared with Angola, Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
+<p>Congo river source (shared with Angola, Republic of Congo, and Democratic Republic of Congo [m]) - 4,700 km; Zambezi river source (shared with Angola, Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
@@ -607,13 +607,8 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 _total subscriptions_: 21.2 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 99 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: following elections held in August 2021, the new government immediately established a Ministry of Technology and Science to promote the use of ICT in developing economic growth and social inclusion; this focus on ICT, and on telecoms in particular, has been central to government strategies for some years; as part of the Smart Zambia initiative, investment has been made in data centers, a computer assembly plant, ICT training centers, and a Smart Education program; these efforts have been combined with the extension of broadband access and improved connectivity to international submarine cables; in turn, this has resulted in a considerable reduction in fixed-line and mobile access pricing for end-users; mobile network operators continue to invest in 3G and LTE-based services, the government contracted to upgrade the state-owned mobile infrastructure for 5G services; delays in holding spectrum have stymied the development of 5G thus far; in mid-2021 the regulator completed a consultation of auctioning low, medium, and high band spectrum for 5G, aiming to provide sufficient spectrum to meet the anticipated increase in data traffic in coming years; fixed-line broadband services remain underdeveloped (2022)<br>
-_domestic_: fixed-line teledensity less than 1 per 100 and mobile-cellular is 100 per 100 (2021)<br>
-_international_: country code - 260; multiple providers operate overland fiber optic routes via Zimbabwe/South Africa, Botswana/Namibia and Tanzania provide access to the major undersea cables<br>
-
 **Broadcast media**<br>
-<p>47 state-controlled and private TV stations; state-owned Zambia National Broadcasting Corporation (ZNBC) has 2 TV channels, controls 1, and owns shares in 2 more; 137 radio stations, with 133 private and 4 state-owned</p> (2019)<br>
+47 state-controlled and private TV stations; state-owned Zambia National Broadcasting Corporation (ZNBC) has 2 TV channels, controls 1, and owns shares in 2 more; 137 radio stations, with 133 private and 4 state-owned (2019)<br>
 
 **Internet country code**<br>
 .zm<br>
@@ -659,7 +654,7 @@ Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Servi
 1.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 16,000 active Defense Force personnel (2025)<br>
+approximately 16,000 active Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era weapons and equipment along with smaller quantities of items--particularly aircraft--from such suppliers as Israel and the US (2024)<br>

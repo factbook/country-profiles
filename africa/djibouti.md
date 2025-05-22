@@ -569,11 +569,6 @@ _subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
 _total subscriptions_: 574,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 46 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Djibouti remains one of the last bastions where the national telco has a monopoly on telecom services, including fixed lines, mobile, internet, and broadband with the exception of broad band fiber; despite the country benefiting from its location as a hub for international submarine cables, prices for telecom services remain relatively high, and out of reach for a number of customers, weighing on market advancement; the Djibouti government is aiming to sell a minority stake in the incumbent telco (retaining some control of decisions) while securing the financial backing and the management acumen of a foreign operator; this is part of a larger plan to modernize the country&rsquo;s economy more generally; the state expects to conduct a sale of up to 40% of the company to an international investor (2023)<br>
-_domestic_: about 2 per 100 fixed-line teledensity and nearly 44 per 100 mobile-cellular (2021)<br>
-_international_: country code - 253; landing points for the SEA-ME-WE-3 &amp; 5, EASSy, Aden-Djibouti, Africa-1, DARE-1, EIG, MENA, Bridge International, PEACE Cable, and SEACOM&nbsp;fiber-optic submarine cable systems providing links to Asia, the Middle East, Europe,&nbsp;Southeast Asia, Australia&nbsp;and Africa; satellite earth stations - 2 (1 Intelsat - Indian Ocean and 1 Arabsat) (2019)<br>
-
 **Broadcast media**<br>
 state-owned Radiodiffusion-T&eacute;l&eacute;vision de Djibouti operates the sole terrestrial TV station, as well as the 2 domestic radio networks; no private TV or radio stations; transmissions of several international broadcasters are available (2019)<br>
 
@@ -629,7 +624,7 @@ Djibouti Armed Forces (Forces Armées Djiboutiennes or FAD): Djiboutian (or Nati
 2.5% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 10-12,000 active military personnel, including Gendarmerie (2025)<br>
+estimated 10-12,000 active Armed Forces, including Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAD's inventory is a mix of mostly older or secondhand equipment from a wide variety of suppliers, including China, France, Italy, Japan, Russia/former Soviet Union, South Africa, Turkey, and the US (2024)<br>

@@ -62,7 +62,7 @@ _other_: 18.9% (2022 est.)<br>
 2,150 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
-<p>Dunărea (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, and Romania [m]) - 2,888 km; Nistru (Dniester) (shared with Ukraine [s/m]) - 1,411 km <br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
+<p>Dunărea (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, and Romania [m]) - 2,888 km; Nistru (Dniester) (shared with Ukraine [s/m]) - 1,411 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -260,7 +260,7 @@ _municipal solid waste recycled annually_: 609,920 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 15.3% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-<p>Dunărea (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, and Romania [m]) - 2,888 km; Nistru (Dniester) (shared with Ukraine [s/m]) - 1,411 km <br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
+<p>Dunărea (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, and Romania [m]) - 2,888 km; Nistru (Dniester) (shared with Ukraine [s/m]) - 1,411 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -326,7 +326,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Maia SANDU (since 24 December 2020)<br>
 _head of government_: Prime Minister Dorin RECEAN (since 16 February 2023)<br>
 _cabinet_: Cabinet proposed by the prime minister-designate, nominated by the president, approved through a vote of confidence in Parliament<br>
-_elections/appointments_: president directly elected for a 4-year term (eligible for a second term); election last held on 3 November 2024 (next to be held in 2028); prime minister designated by the president upon consultation with Parliament; within 15 days from designation, the prime minister-designate must request a vote of confidence for his/her proposed work program from the Parliament<br>
+_elections/appointments_: president directly elected for a 4-year term (eligible for a second term); election last held on 3 November 2024 (next to be held in 2028); prime minister designated by the president on consultation with Parliament; within 15 days from designation, the prime minister-designate must request a vote of confidence for his/her proposed work program from the Parliament<br>
 _election results_: <em><br>2024: </em>In the second round of presidential elections, incumbent Maia SANDU (PAS) wins 55.4% of the vote, Alexandr STOIANOGLO (PSRM) 44.6; turnout is 54.3%<em><br><br>2020:</em> Maia SANDU elected president in second round; percent of vote in second round - Maia SANDU (PAS) 57.7%, Igor DODON (PSRM) 42.3%<br><br><em>2016</em>: Igor DODON elected president in second round; percent of vote - Igor DODON (PSRM) 52.1%, Maia SANDU (PAS) 47.9%<br>
 
 **Legislative branch**<br>
@@ -598,11 +598,6 @@ _subscriptions per 100 inhabitants_: 28 (2023 est.)<br>
 _total subscriptions_: 4.01 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 127 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: <p>the telecom market has been affected by a combination of high unemployment and economic difficulties which have led to constraints on consumer spending; Moldova’s aspirations to join the EU have encouraged the government and regulator to adopt a range of measures to bring the country’s telecoms sector into line with EU principles and standards; in July 2017 the Electronic Communications Act was amended to accommodate the 2009 European regulatory framework, while further amendments were adopted in December 2017 and additional changes were proposed in 2019; Moldova is also part of the Eastern Partnership group of countries, and as such has set in train a glidepath to reducing roaming charges, effective between 2022 and 2026; the country’s broadband strategy through to 2025 has been supported by the ITU and industry counterparts from Korea; the internet market is developing rapidly, and though the penetration rate is well below the average for most European countries there are many opportunities for further development; the number of cable broadband subscribers is increasing steadily, though fiber is now by far the strongest sector; by the end of 2020 fiber accounted for about 72.3% of all fixed broadband connections; the mobile market has also grown rapidly, and the sector accounts for the majority of total telecoms revenue; the launch of LTE services has opened up a new revenue growth opportunity centered on mobile broadband; the near comprehensive geographical reach of their mobile networks, market brand recognition and existing customer relationships will make for steady subscriber growth in coming years</p> (2024)<br>
-_domestic_: fixed-line service is 29 per 100; mobile cellular tele density is 127 per 100 persons (2022)<br>
-_international_: country code - 373; service through Romania and Russia via landline; satellite earth stations - at least 3 - Intelsat, Eutelsat, and Intersputnik<br>
-
 **Broadcast media**<br>
 state-owned national radio-TV broadcaster operates 1 TV and 1 radio station; total of nearly 70 terrestrial TV channels and about 50 radio stations; Russian and Romanian channels are available (2019)<br>
 
@@ -643,14 +638,14 @@ Armed Forces of the Republic of Moldova (Forțele Armate ale Republicii Moldova)
 <strong>note:</strong> the Carabinieri is a quasi-militarized gendarmerie responsible for protecting public buildings, maintaining public order, and other national security functions; the GPI is the primary law enforcement body, responsible for internal security, public order, traffic, and criminal investigations<br>
 
 **Military expenditures**<br>
+0.5% of GDP (2024 est.)<br>
 0.5% of GDP (2023 est.)<br>
 0.4% of GDP (2022 est.)<br>
 0.4% of GDP (2021 est.)<br>
 0.4% of GDP (2020 est.)<br>
-0.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 6,500 active-duty troops; approximately 2,000 Carabinieri (2023)<br>
+approximately 6,500 Moldovan Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is limited and almost entirely comprised of Soviet-era equipment; in recent years, it has received donated equipment from Western European nations and the US (2024)<br>

@@ -66,7 +66,7 @@ _other_: 53.6% (2022 est.)<br>
 _fresh water lake(s)_: Lac Faguibine - 590 sq km<br>note - the Niger River is the only source of water for the lake; in recent years the lake is dry<br>
 
 **Major rivers (by length in km)**<br>
-Niger (shared with Guinea [s], Niger, and Nigeria [m]) - 4,200 km; Senegal (shared with Guinea [s], Senegal, and Mauritania [m]) - 1,641 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Niger (shared with Guinea [s], Niger, and Nigeria [m]) - 4,200 km; Senegal (shared with Guinea [s], Senegal, and Mauritania [m]) - 1,641 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km), Volta (410,991 sq km)<br>
@@ -279,7 +279,7 @@ _municipal solid waste generated annually_: 1,937,354 tons (2012 est.)<br>
 _fresh water lake(s)_: Lac Faguibine - 590 sq km<br>note - the Niger River is the only source of water for the lake; in recent years the lake is dry<br>
 
 **Major rivers (by length in km)**<br>
-Niger (shared with Guinea [s], Niger, and Nigeria [m]) - 4,200 km; Senegal (shared with Guinea [s], Senegal, and Mauritania [m]) - 1,641 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Niger (shared with Guinea [s], Niger, and Nigeria [m]) - 4,200 km; Senegal (shared with Guinea [s], Senegal, and Mauritania [m]) - 1,641 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km), Volta (410,991 sq km)<br>
@@ -345,9 +345,9 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: Transition President Assimi GOITA (since 7 June 2021)<br>
 _head of government_: Transition Prime Minister Choguel MAIGA (since 7 June 2021)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 29 July 2018 with runoff on 12 August 2018; prime minister appointed by the president; note - on 21 February 2022, the transition government adopted a charter allowing transition authorities to rule for up to 5 years, but a referendum pushed through by the junta in June 2023 consolidated power in the presidency and would allow junta leaders to serve in a new government, creating the potential for transition President GOITA to maintain his hold on power indefinitely<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 29 July 2018 with runoff on 12 August 2018; prime minister appointed by the president<br>
 _election results_: <em><br>2018</em>: Ibrahim Boubacar KEITA reelected president in second round; percent of vote in first round - Ibrahim Boubacar KEITA (RPM) 41.7%, Soumaila CISSE (URD) 17.8%, other 40.5%; percent of vote in second round - Ibrahim Boubacar KEITA 67.2%, Soumaila CISSE 32.8%<br><br><em>2013</em>: Ibrahim Boubacar KEITA elected president in second round; percent of vote in first round - Ibrahim Boubacar KEITA (RPM) 39.8%, Soumaila CISSE (URD) 19.7%, other 40.5%; percent of vote in second round - Ibrahim Boubacar KEITA (RPM) 77.6%, Soumaila CISSE (URD) 22.4%<br>
-<strong>note:</strong> an August 2020 coup d'état deposed President Ibrahim Boubacar KEITA; on 21 September 2020, a group of 17 electors chosen by the Malian military junta, known as the National Committee for the Salvation of the People (CNSP) and led by Colonel Assimi GOITA, selected Bah NDAW as transition president; GOITA served as vice president of the transition government which was inaugurated on 25 September 2020; Vice President GOITA seized power on 25 May 2021; NDAW resigned on 26 May 2021; on 6 June 2022, GOITA's government announced a transition period of 24 months with a planned return to civilian rule by March 2024<br>
+<strong>note:</strong> in 2022, the transition government adopted a charter allowing transition authorities to rule for up to 5 years, but the military junta pushed through a referendum in 2023 that created the potential for transition President GOITA to maintain his hold on power indefinitely<br>
 
 **Legislative branch**<br>
 _legislature name_: Transitional National Council (Conseil national de transition)<br>
@@ -608,11 +608,6 @@ _subscriptions per 100 inhabitants_: 1 (2022 est.)<br>
 _total subscriptions_: 25.9 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 114 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Mali&rsquo;s telecom systems are challenged by recent conflict, geography, areas of low population, poverty, security issues, and high illiteracy; telecom infrastructure is barely adequate in urban areas and not available in most of the country with underinvestment in fixed-line networks; high mobile penetration and potential for mobile broadband service; local plans for IXP; dependent on neighboring countries for international bandwidth and access to submarine cables (2022)<br>
-_domestic_: fixed-line subscribership is 1 per 100 persons; mobile-cellular subscribership has increased sharply to 100 per 100 persons (2021)<br>
-_international_: country code - 223; satellite communications center and fiber-optic links to neighboring countries; satellite earth stations - 2 Intelsat (1 Atlantic Ocean, 1 Indian Ocean) (2020)<br>
-
 **Broadcast media**<br>
 national public TV broadcaster; 2 privately owned companies provide subscription services to foreign multi-channel TV packages; national public radio broadcaster supplemented by a large number of privately owned and community broadcast stations; transmissions of multiple international broadcasters are available (2019)<br>
 
@@ -655,7 +650,7 @@ Malian Armed Forces (Forces Armées Maliennes or FAMa): Army (l’Armée de Terr
 3.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; estimated 35-40,000 active FAMa, Gendarmerie, and National Guard personnel (2025)<br>
+information varies; estimated 35-40,000 active FAMa, Gendarmerie, and National Guard (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAMa's inventory includes a large amount of Soviet-era weapons and equipment along with smaller quantities of secondhand and some more modern material from a variety of other countries, including China, Czechia, France, Russia, Turkey, and the UAE (2024)<br>

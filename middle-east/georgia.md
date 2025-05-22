@@ -291,7 +291,7 @@ _time difference_: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name comes from the Georgian word <em>tbili</em>, meaning "warm" and referring to the hot sulfur springs in the area<br>
 
 **Administrative divisions**<br>
-<p>9 regions (mkharebi, singular - mkhare), 1 city (kalaki), and 2 autonomous republics (avtomnoy respubliki, singular - avtom respublika)</p> <p><strong>regions:</strong> Guria, Imereti, Kakheti, Kvemo Kartli, Mtskheta Mtianeti, Racha-Lechkhumi and Kvemo Svaneti, Samegrelo and Zemo Svaneti, Samtskhe-Javakheti, Shida Kartli; note - the breakaway region of South Ossetia consists of the northern part of Shida Kartli, eastern slivers of the Imereti region and Racha-Lechkhumi and Kvemo Svaneti, and part of western Mtskheta-Mtianeti</p> <p><strong>city:</strong> Tbilisi</p> <p><strong>autonomous republics:</strong> Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi), Ajaria or Acharis Avtonomiuri Respublika (Bat'umi)</p><br>
+<p>9 regions (mkharebi, singular - mkhare), 1 city (kalaki), and 2 autonomous republics (avtomnoy respubliki, singular - avtom respublika)</p> <p><strong>regions:</strong> Guria, Imereti, Kakheti, Kvemo Kartli, Mtskheta Mtianeti, Racha-Lechkhumi and Kvemo Svaneti, Samegrelo and Zemo Svaneti, Samtskhe-Javakheti, Shida Kartli; note - the breakaway region of South Ossetia consists of the northern part of Shida Kartli, eastern slivers of the Imereti region and Racha-Lechkhumi and Kvemo Svaneti, and part of western Mtskheta-Mtianeti</p> <p><strong>city:</strong> Tbilisi</p> <strong>autonomous republics:</strong> Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi), Ajaria or Acharis Avtonomiuri Respublika (Bat'umi)<br>
 <strong>note 1:</strong> the administrative centers of the two autonomous republics are shown in parentheses <br><br><strong>note 2:</strong> the United States recognizes the breakaway regions of Abkhazia and South Ossetia to be part of Georgia<br>
 
 **Independence**<br>
@@ -323,9 +323,8 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Mikheil KAVELASHVILI (since 29 December 2024)<br>
 _head of government_: Prime Minister Irakli KOBAKHIDZE (since 8 February 2024)<br>
 _cabinet_: Cabinet of Ministers<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 14 December 2024; next election in 2029; prime minister nominated by Parliament, appointed by the president; note - 2017 constitutional amendments made the 2018 election the last where the president was directly elected; future presidents will be elected by a 300-member College of Electors<br>
+_elections/appointments_: president elected by a 300-member College of Electors; election last held on 14 December 2024; next election in 2029; prime minister nominated by Parliament, appointed by the president<br>
 _election results_: <em><br>2024: </em>Mikheil KAVELASHVILI (Georgian Dream Party) was formally inaugurated on 29 December 2024<br><em><br>2024: </em>Irakli KOBAKHIDZE approved as prime minister by Parliamentary vote 84-10<em><br><br>2018:</em> Salome ZOURABICHVILI elected president in second round; percent of vote in second round - Salome ZOURABICHVILI (independent, backed by Georgian Dream) 59.5%, Grigol VASHADZE (UNM) 40.5%; Irakli GARIBASHVILI approved as prime minister by Parliamentary vote 89-2; note-resigned on January 29, 2024<br>
-<strong>note: </strong>Irakli GARIBASHVILI resigned on 29 January 2024 to prepare for general elections in October 2024<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Sakartvelos Parlamenti)<br>
@@ -605,11 +604,6 @@ _subscriptions per 100 inhabitants_: 7 (2023 est.)<br>
 _total subscriptions_: 5.91 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 156 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: <p>the telecom sector has been attempting for many years to overcome the decades of under-investment in its fixed-line infrastructure during the Soviet era; concerted efforts to privatize state-owned enterprises and open up the telecom market have been mostly successful, with a large number of operators now competing in both the fixed-line and the mobile segments; Georgia’s government moved fast following the collapse of the Soviet Union to liberalize the country’s telecom market; this resulted in a relatively high number of operators competing in the under-developed fixed-line segment as well as in the emerging mobile market;  the mobile and mobile broadband segments have both demonstrated solid growth in 2021; this upturn follows a significant contraction in subscriber numbers as well as revenue during 2020 due to the Covid-19 crisis; funding has continued to flow into mobile ventures, with the Mobile Network Operators (MNOs) preparing for 5G</p> (2024)<br>
-_domestic_: fixed-line subscriptions 8 per 100, mobile-cellular tele density roughly 156 per 100 persons (2022)<br>
-_international_: country code - 995; landing points for the Georgia-Russia, Diamond Link Global, and Caucasus Cable System fiber-optic submarine cable that provides connectivity to Russia, Romania and Bulgaria; international service is available by microwave, landline, and satellite through the Moscow switch; international electronic mail and telex service are available (2019)<br>
-
 **Broadcast media**<br>
 state-owned Georgian Public Broadcaster (GPB) includes Channel 1, Channel 2, and Adjara TV; independent commercial TV broadcasters include Imedi, Rustavi 2, Pirveli TV, Maestro, Kavkasia, Georgian Dream Studios (GDS), Obiektivi, Mtavari Arkhi, and TOK TV (Russian language); Tabula and Post TV are web-based TV outlets; Georgian Orthodox Church operates a satellite-based television station called Unanimity; 26 regional TV broadcasters; TV shifted to digital in 2015; several dozen private radio stations; GPB operates 2 radio stations (2019)<br>
 
@@ -665,14 +659,13 @@ Georgian Defense Forces (GDF; aka Defense Forces of Georgia, DFG): Ground Forces
 1.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies widely; estimated 35,000 active Defense Force troops (2023)<br>
-<strong>note: </strong>in December 2020, the Parliament of Georgia adopted a resolution determining that the Georgian Defense Forces would have a maximum peacetime strength of 37,000 troops<br>
+the Georgia Defense Forces are authorized up to 37,000 personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the majority of the military's inventory consists of Soviet-era weapons and equipment, some of which has been upgraded; it has smaller quantities of mostly secondhand material from such countries as Israel, Turkey, and the US, as well as some domestically produced equipment; Georgia has a small defense industry which produces such items as small arms and light armored vehicles (2024)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for voluntary military service for men and women; conscription was abolished in 2016, but reinstated in 2017 for men 18-27 years of age; conscript service obligation is 12 months (2024)<br>
+18-35 years of age for voluntary military service for men and women; conscription was abolished in 2016, but reinstated in 2017 for men 18-27 years of age; conscript service obligation is up to 11 months (six months of service in a combat unit; or eight months of service in another security organization; or 11 months of service in junior command positions and predetermined specialties  (2024)<br>
 <strong>note 1: </strong>approximately 6-7,000 individuals are called up annually for conscription for service; conscripts serve in the Defense Forces, the Ministry of Internal Affairs, or the Ministry of Corrections<br><br><strong>note 2:</strong> as of 2022, women made up about 8% of the military's full-time personnel<br>
 
 **Military - note**<br>

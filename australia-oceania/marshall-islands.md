@@ -510,11 +510,6 @@ _subscriptions per 100 inhabitants_: 5 (2022 est.)<br>
 _total subscriptions_: 16,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 38 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: the National Telecommunications Act, through Bill No. 66, ushered in a new era in telecommunications in the Marshall Islands; this will enable an open, competitive market for telecommunications that is regulated by a Telecommunications Commissioner; telecom officials announced that they would be able to offer satellite internet services beginning in mid-2023; the World Bank has been promoting telecommunications reform here for a decade and has a multi-million-dollar telecommunications reform grant program in progress (2022)<br>
-_domestic_: fixed-line roughly 5 per 100 persons and mobile-cellular is nearly 38 per 100 persons (2021)<br>
-_international_: country code - 692; satellite earth stations - 2 Intelsat (Pacific Ocean); US Government satellite communications system on Kwajalein<br>
-
 **Broadcast media**<br>
 no TV broadcast station; a cable network is available on Majuro with programming via videotape replay and satellite relays; 4 radio broadcast stations; US Armed Forces Radio and Television Service (AFRTS) provides satellite radio and TV service to Kwajalein Atoll (2019)<br>
 

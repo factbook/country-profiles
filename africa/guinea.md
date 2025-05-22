@@ -63,7 +63,7 @@ _other_: 5.2% (2022 est.)<br>
 949 sq km (2017)<br>
 
 **Major rivers (by length in km)**<br>
-Niger river source (shared with Mali, and Nigeria [m]) - 4,200 km; Gambie (Gambia) river source (shared with Senegal and The Gambia [m]) - 1,094 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Niger river source (shared with Mali, and Nigeria [m]) - 4,200 km; Gambie (Gambia) river source (shared with Senegal and The Gambia [m]) - 1,094 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
@@ -267,7 +267,7 @@ _municipal solid waste recycled annually_: 29,846 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 5% (2005 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Niger river source (shared with Mali, and Nigeria [m]) - 4,200 km; Gambie (Gambia) river source (shared with Senegal and The Gambia [m]) - 1,094 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Niger river source (shared with Mali, and Nigeria [m]) - 4,200 km; Gambie (Gambia) river source (shared with Senegal and The Gambia [m]) - 1,094 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
@@ -327,11 +327,12 @@ _residency requirement for naturalization_: na<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Col. Mamady DOUMBOUYA (since 1 October 2021)<br>
+_chief of state_: Interim President Col. Mamady DOUMBOUYA (since 1 October 2021)<br>
 _head of government_: Prime Minister Mamadou Oury BAH (since 27 February 2024)<br>
-_cabinet_: formerly the Council of Ministers appointed by the president; note - on 5 September 2021, the military arrested and detained the president, suspended the constitution, and dissolved the government and legislature<br>
-_elections/appointments_: formerly, the president was directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term) and the prime minister appointed by the president; election last held on 18 October 2020; note - a new election timetable has not been announced by the transitional government; note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, the constitution suspended, and the government and People's National Assembly dissolved; on 1 October 2021, DOUMBOUYA was sworn in as transitional president<br>
+_cabinet_: formerly the Council of Ministers appointed by the president<br>
+_elections/appointments_: formerly, the president was directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term) and the prime minister appointed by the president; election last held on 18 October 2020<br>
 _election results_: <em><br>2020: </em>Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 59.5%, Cellou Dalein DIALLO (UFDG) 33.5%, other 7%<br><br><em>2015: </em>Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 57.8%, Cellou Dalein DIALLO (UFDG) 31.4%, other 10.8%<br>
+<strong>note 1:</strong> in 2021, the military arrested and detained the president, suspended the constitution, and dissolved the government and legislature<br><br><strong>note 2:</strong> the transitional government has not announced a new election timetable<br>
 
 **Legislative branch**<br>
 _legislature name_: Transitional National Council (Conseil national de transition)<br>
@@ -584,13 +585,8 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 _total subscriptions_: 13.8 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 102 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: the number of mobile subscribers grew strongly while revenue also increased steadily; fixed broadband services are still very limited and expensive, though there have been some positive developments in recent years; the landing of the first international submarine cable in 2012, and the setting up of an IXP in mid-2013, increased the bandwidth available to the ISPs, and helped reduce the cost of internet services for end-users; a National Backbone Network was completed in mid-2020, connecting administrative centers across the country; almost all internet connections are made via mobile networks; GSM services account for a dwindling proportion of connections, in line with the greater reach of services based on 3G and LTE (2022)<br>
-_domestic_: fixed-line teledensity is less than 1 per 100 persons; mobile-cellular subscribership is just over 105 per 100 persons (2020)<br>
-_international_: country code - 224; ACE submarine cable connecting Guinea with 20 landing points in Western and South Africa and Europe; satellite earth station - 1 Intelsat (Atlantic Ocean (2019)<br>
-
 **Broadcast media**<br>
-<p>government maintains control over broadcast media; single state-run TV station; state-run radio also operates several stations in rural areas; a dozen private TV stations; many privately owned radio stations, nearly all in Conakry, and about a dozen community radio stations; foreign TV programming available via satellite and cable subscription services </p> (2022)<br>
+government maintains control over broadcast media; single state-run TV station; state-run radio also operates several stations in rural areas; a dozen private TV stations; many privately owned radio stations, nearly all in Conakry, and about a dozen community radio stations; foreign TV programming available via satellite and cable subscription services (2022)<br>
 
 **Internet country code**<br>
 .gn<br>
@@ -645,7 +641,7 @@ Guinean (or National) Armed Forces (Forces Armées Guinéennes): Army, Air Force
 1.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 10-12,000 active Armed Forces personnel (2025)<br>
+estimated 10-12,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Guinean military's inventory consists almost entirely of Soviet-era weapons and equipment along with small amounts of secondhand material from China, France, Russia, and South Africa&nbsp; (2024)<br>

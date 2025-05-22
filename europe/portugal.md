@@ -601,11 +601,6 @@ _subscriptions per 100 inhabitants_: 53 (2023 est.)<br>
 _total subscriptions_: 12.8 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 125 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Portugal has a medium-sized telecom market with a strong mobile sector and a growing broadband customer base; before the pandemic, the country had seen improving economic growth, following several years of austerity measures; revenue among some operators remains under pressure, though investments in network upgrades are continuing in an effort to attract customers to high-end services; Portugal&rsquo;s broadband services have grown steadily in recent years, largely the result of joint efforts between the regulator and the key market operators which have invested in significant infrastructure upgrades; these operators are focused on fiber-based services, resulting in a migration of subscribers from digital subscriber line DSL infrastructure; the government has also supported open-access wholesale networks; the mobile virtual network operator (MVNO) market remains largely undeveloped, partly because network operators have their own low-cost brands; collectively, MVNOs have about 2.9% share of the market; population coverage by 3G infrastructure is universal, and most investment in the sector is being directed to LTE and 5G technologies; the MNOs have trialed 5G and are looking to launch commercial services (2021)<br>
-_domestic_: fixed-lineis 52 per 100 persons and mobile-cellular is 121 per 100 persons (2021)<br>
-_international_: country code - 351;&nbsp;landing points for the Ella Link, BUGIO, EIG, SAT-3/WASC, SeaMeWe-3, Equino, MainOne, Tat TGN-Western Europe, WACS, ACE, Atlantis2 and Columbus-III&nbsp;submarine cables provide connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia, Australia, South America&nbsp;and the US; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean), NA Eutelsat; tropospheric scatter to Azores (2019)<br>
-
 **Broadcast media**<br>
 Radio e Televisao de Portugal, the publicly owned TV broadcaster, operates 4 domestic channels and external service channels to Africa;&nbsp; roughly 40 domestic TV stations; widespread access to international broadcasters, with more than half of households connected to multi-channel cable or satellite TV systems; publicly owned radio operates 3 national networks and provides regional and external services; several privately owned national radio stations and about 300 regional and local commercial radio stations<br>
 
@@ -660,7 +655,7 @@ Portuguese Armed Forces (Forças Armadas Portuguesa): Portuguese Army (Exercito 
 1.4% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 28,000 active-duty personnel (15,000 Army; 7,000 Navy, including about 1,000 marines; 6,000 Air Force); 24,500 National Republican Guard (military personnel) (2024)<br>
+approximately 28,000 active-duty Armed Forces (15,000 Army; 7,000 Navy, including about 1,000 marines; 6,000 Air Force); 24,500 National Republican Guard (military personnel) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes mostly European- and US-origin weapons systems along with a smaller mix of domestically produced equipment; in recent years, leading foreign suppliers have included Germany and the US; Portugal's defense industry is noted for its shipbuilding (2024)<br>

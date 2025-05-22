@@ -62,7 +62,7 @@ _other_: 26.4% (2022 est.)<br>
 550 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
-Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -272,7 +272,7 @@ _municipal solid waste recycled annually_: 13,984 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 0.8% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -311,7 +311,7 @@ _etymology_: the name comes from the Serbian words <em>beo </em>(white) and <em>
 
 **Administrative divisions**<br>
 <p>117 municipalities (opstine, singular - opstina) and 28 cities (gradovi, singular - grad)</p> <p><strong>municipalities:</strong> Ada*, Aleksandrovac, Aleksinac, Alibunar*, Apatin*, Arandelovac, Arilje, Babusnica, Bac*, Backa Palanka*, Backa Topola*, Backi Petrovac*, Bajina Basta, Batocina, Becej*, Bela Crkva*, Bela Palanka, Beocin*, Blace, Bogatic, Bojnik, Boljevac, Bosilegrad, Brus, Bujanovac, Cajetina, Cicevac, Coka*, Crna Trava, Cuprija, Despotovac, Dimitrov, Doljevac, Gadzin Han, Golubac, Gornji Milanovac, Indija*, Irig*, Ivanjica, Kanjiza*, Kladovo, Knic, Knjazevac, Koceljeva, Kosjeric, Kovacica*, Kovin*, Krupanj, Kucevo, Kula*, Kursumlija, Lajkovac, Lapovo, Lebane, Ljig, Ljubovija, Lucani, Majdanpek, Mali Idos*, Mali Zvornik, Malo Crnice, Medveda, Merosina, Mionica, Negotin, Nova Crnja*, Nova Varos, Novi Becej*, Novi Knezevac*, Odzaci*, Opovo*, Osecina, Paracin, Pecinci*, Petrovac na Mlavi, Plandiste*, Pozega, Presevo, Priboj, Prijepolje, Raca, Raska, Razanj, Rekovac, Ruma*, Secanj*, Senta*, Sid*, Sjenica, Smederevska Palanka, Sokobanja, Srbobran*, Sremski Karlovci*, Stara Pazova*, Surdulica, Svilajnac, Svrljig, Temerin*, Titel*, Topola, Trgoviste, Trstenik, Tutin, Ub, Varvarin, Velika Plana, Veliko Gradiste, Vladicin Han, Vladimirci, Vlasotince, Vrbas*, Vrnjacka Banja, Zabalj*, Zabari, Zagubica, Zitiste*, Zitorada</p> <p><strong>cities:</strong> Beograd (Belgrade), Bor, Cacak, Jagodina, Kikinda*, Kragujevac, Kraljevo, Krusevac, Leskovac, Loznica, Nis, Novi Pazar, Novi Sad*, Pancevo*, Pirot, Pozarevac, Prokuplje, Sabac, Smederevo, Sombor*, Sremska Mitrovica*, Subotica*, Uzice, Valjevo, Vranje, Vrsac*, Zajecar, Zrenjanin*</p><br>
-<strong>note:</strong> the northern 37 municipalities and 8 cities - about 28% of Serbia's area - compose the Autonomous Province of Vojvodina and are indicated with *<br>
+<strong>note:</strong> the northern 37 municipalities and 8 cities -- about 28% of Serbia's area -- compose the Autonomous Province of Vojvodina and are indicated with an asterisk<br>
 
 **Independence**<br>
 5 June 2006 (from the State Union of Serbia and Montenegro); notable earlier dates: 1217 (Serbian Kingdom established); 16 April 1346 (Serbian Empire established); 13 July 1878 (Congress of Berlin recognizes Serbian independence); 1 December 1918 (Kingdom of Serbs, Croats, and Slovenes (Yugoslavia) established)<br>
@@ -625,11 +625,6 @@ _subscriptions per 100 inhabitants_: 37 (2023 est.)<br>
 _total subscriptions_: 8.53 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 124 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Serbia&rsquo;s telecom industry has been liberalized in line with the principles of the EU&rsquo;s regulatory framework for communications, focused on encouraging competition in telecom products and services, and ensuring universal access; considerable network investment has been undertaken in Serbia by incumbent and alternative operators in recent years, despite economic difficulties; this has helped to stimulate internet usage, which has also been bolstered by improved affordability as prices are reduced through competition; the pandemic has stimulated consumer take up of services, particularly mobile data; the government&rsquo;s various initiatives to improve rural broadband availability have also been supported by European development loans; Serbia&rsquo;s high mobile services, partly the result of multiple SIM card use, has weighed on revenue growth in recent years, placing further pressure on operators to develop business models which encourage consumer use of mobile data services also in response to the continued substitution of fixed-line for mobile voice calls; the regulator has yet to auction 5G-suitable frequencies, though operators are already investing in their networks in preparation for this next growth frontier; during 2021 the regulator resumed the process towards a 5G spectrum auction, which had been delayed owing to the onset of the covid-19 pandemic (2022)<br>
-_domestic_: fixed-line over 37 per 100 and mobile-cellular is 124 per 100 persons (2021)<br>
-_international_: country code - 381<br>
-
 **Internet country code**<br>
 .rs<br>
 
@@ -668,7 +663,7 @@ Serbian Armed Forces (Vojska Srbije, VS): Army (aka Land Forces; includes Riveri
 2.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 25,000 active-duty troops (15,000 Land Forces; 5,000 Air/Air Defense; 5,000 other); approximately 3,000 Gendarmerie (2023)<br>
+approximately 25,000 active-duty Armed Forces (15,000 Land Forces; 5,000 Air/Air Defense; 5,000 other, including Serbian Guard) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists of a mix of domestically produced, Russian/Soviet-era, and Yugoslav equipment and weapons systems; in recent years, it has purchased some weapons systems from China, such as anti-aircraft missiles and armed aerial drones (2024)<br>

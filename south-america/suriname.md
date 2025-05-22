@@ -573,11 +573,6 @@ _subscriptions per 100 inhabitants_: 20 (2023 est.)<br>
 _total subscriptions_: 989,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 150 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_:  <p>Suriname is the smallest nation on the South American continent, with about 580,000 inhabitants; the only Dutch-speaking nation in South America, it has close affinities with the Caribbean, and is a member of the Caribbean Community and Common Market (CARICOM); the country’s fixed-line infrastructure is reasonably reliable in the more populated coastal region, though poor in the interior; fixed teledensity and broadband penetration are slightly lower than average for Latin America and the Caribbean, while mobile penetration is significantly above the regional average and much higher than would be expected given the country’s relatively low GDP per capita; many Surinamese have up to three mobile lines with different providers, which has pushed up penetration figures although the number of subscribers has fallen in recent years as consumers have responded to economic pressures</p>  (2021)<br>
-_domestic_: fixed-line is 18 per 100 and mobile-cellular teledensity is 150 telephones per 100 persons (2022)<br>
-_international_: country code - 597; landing point for the SG-SCS submarine cable linking South America with the Caribbean; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
 2 state-owned TV stations; 1 state-owned radio station; multiple private radio and TV stations (2019)<br>
 
@@ -628,7 +623,7 @@ Suriname National Army (Nationaal Leger or NL); Army (Landmacht), Navy (Marine);
 1.4% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 2,000 total personnel (2025)<br>
+approximately 2,000 National Army (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Suriname Army has a limited inventory comprised of a mix of older weapons and equipment, largely originating from such suppliers as Brazil, the Netherlands, and India; France also provides material assistance (2024)<br>

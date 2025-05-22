@@ -64,7 +64,7 @@ _other_: 4.5% (2022 est.)<br>
 20 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Oubangui (Ubangi) (shared with Central African Republic [s] and Democratic Republic of Congo [m]) - 2,270 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Oubangui (Ubangi) (shared with Central African Republic [s] and Democratic Republic of Congo [m]) - 2,270 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>
@@ -273,7 +273,7 @@ _municipal solid waste recycled annually_: 118,214 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 26.2% (2005 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Oubangui (Ubangi) (shared with Central African Republic [s] and Democratic Republic of Congo [m]) - 2,270 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Oubangui (Ubangi) (shared with Central African Republic [s] and Democratic Republic of Congo [m]) - 2,270 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>
@@ -611,11 +611,6 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 _total subscriptions_: 5.87 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 97 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: suffering from economic challenges of stimulating recovery and reducing poverty; primary network consists of broadband through fiber link to the West Africa Cable System; key exchanges are in Brazzaville, Pointe-Noire, and Dolisie; intercity lines frequently out of order; youth are seeking the Internet more than their parents and often gain access through cyber cafes; only the most affluent have Internet access in their homes; fiber network project with aims to connect north and south regions; DRC operator added fiber link between Brazzaville and Kinshasa (2024)<br>
-_domestic_: fixed-line infrastructure inadequate, providing less than 1 fixed-line connection per 100 persons; mobile-cellular 97 per 100 persons (2021)<br>
-_international_: country code - 242; WACS submarine cables to Europe and Western and South Africa; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
 1 state-owned TV and 3 state-owned radio stations; several privately owned TV and radio stations; satellite TV service is available; rebroadcasts of several international broadcasters are available<br>
 
@@ -668,7 +663,7 @@ Congolese Armed Forces (Forces Armees Congolaises, FAC): Army, Navy, Congolese A
 2.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 12-14,000 active troops, including Gendarmerie (2025)<br>
+approximately 12-14,000 active FAC, including Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAC has mostly Soviet-era armaments, with a small mix of Chinese, French, and South African equipment (2024)<br>

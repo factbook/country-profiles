@@ -545,11 +545,6 @@ _subscriptions per 100 inhabitants_: 24 (2023 est.)<br>
 _total subscriptions_: 400,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 99 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: two local providers ensure good telecoms coverage across the archipelago; fiber-to-home investments have been prioritized, with 5G adoption pending (2023)<br>
-_domestic_: 22 per 100 fixed-line, 115 per 100 mobile-cellular (2020)<br>
-_international_: country code - 1-242; landing points for the ARCOS-1, BICS, Bahamas 2-US, and BDSN fiber-optic submarine cables that provide links to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 2; the Bahamas Domestic Submarine Network links all of the major islands; (2019)<br>
-
 **Broadcast media**<br>
 4 major TV providers; 1 TV station is operated by government-owned, commercially run Broadcasting Corporation of the Bahamas (BCB) and competes with 4 privately owned TV stations; multi-channel cable TV subscription service is widely available; 32 licensed broadcast (radio) service providers, with 31 privately owned FM radio stations; the BCB operates a multi-channel radio network with national coverage; the sector is regulated by the Utilities Regulation and Competition Authority (2019)<br>
 
@@ -601,7 +596,7 @@ Royal Bahamas Defense Force (RBDF): includes land, air, maritime elements; Royal
 0.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 1,700 active RBDF personnel (2024)<br>
+approximately 1,700 active RBDF&nbsp; (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 most of the RBDF's major equipment inventory has been acquired from the Netherlands or the US (2024)<br>

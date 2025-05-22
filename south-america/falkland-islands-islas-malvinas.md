@@ -352,11 +352,6 @@ _subscriptions per 100 inhabitants_: 53 (2021 est.)<br>
 _total subscriptions_: 6,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 160 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: the replacement of the rural internet and phone system was delayed due to COVID; upgrades started at the end of 2019, this included the replacement of all Multi Service Access Nodes (MSANs), the technology used to connect larger settlements; in early 2020 a new system to replace the WiMAX system (the technology used to connect smaller settlements and households) had been delayed as well due to COVID-19; once the equipment is received it will be installed in the largest base stations on East Falklands: Malo, Bombilla, and Mt Pleasant peak<br><br><br>“We also have MSAN equipment and radio links due to arrive towards the end of this month, and these and will be installed at Chartres, New Island, Sea Lion Island, Onion Range, Sand Bay, and Mare Harbour enabling us to migrate additional customers from the existing WiMAX network and also releasing equipment for spares.” (2020)<br>
-_domestic_: fixed-line subscriptions approximately 53 per 100, 160 per 100 for mobile-cellular (2021)<br>
-_international_: country code - 500; satellite earth station - 1 Intelsat (Atlantic Ocean) with links through London to other countries (2015)<br>
-
 **Broadcast media**<br>
 TV service provided by a multi-channel service provider; radio provided by public broadcaster Falkland Islands Radio Service and the British Forces Broadcasting Service&nbsp; (2007)<br>
 

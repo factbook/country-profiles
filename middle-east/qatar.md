@@ -579,11 +579,6 @@ _subscriptions per 100 inhabitants_: 18 (2023 est.)<br>
 _total subscriptions_: 4.7 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 174 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Qatar had developed a mature telecom sector which has been able to absorb the additional data demands made on it during the pandemic; mobile services based on LTE are universally available to migrate to 5G; in combination with a strong fiber rollout, the country is aiming to provide gigabit services nationally; 5G services are largely based on 3.5GHz spectrum made available following an auction in early 2019 (2022)<br>
-_domestic_: fixed-line is 17 per 100 and mobile-cellular telephone subscribership is 144 telephones per 100 persons (2021)<br>
-_international_: country code - 974; landing points for the&nbsp;Qatar-UAE Submarine&nbsp;Cable&nbsp;System, AAE-1, FOG, GBICS/East North Africa MENA and the FALCON submarine cable network that provides links to Asia, Africa, the Middle East, Europe and Southeast Asia; tropospheric scatter to Bahrain; microwave radio relay to Saudi Arabia and the UAE; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean) and 1 Arabsat; retains full ownership of two commercial satellites, Es'hailSat 1 and 2 (2019)<br>
-
 **Broadcast media**<br>
 state-controlled TV and radio licensing and access to local media markets; home of satellite TV channel Al-Jazeera, which was originally&nbsp; state-owned but is now independent; local radio includes state, private, and international broadcasters on FM frequencies; satellite TV available (2019)<br>
 
@@ -634,7 +629,7 @@ Qatar Armed Forces (QAF): Qatari Amiri Land Force (QALF, includes Emiri Guard), 
 3.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 15,000 active-duty QAF personnel (2025)<br>
+approximately 15,000 active-duty Qatar Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Qatari military's inventory includes a broad mix of older and modern weapons systems, mostly from the US and Europe; in the 2010s, Qatar embarked on a military expansion and modernization program with large air, ground, and naval equipment purchases; in recent years, major suppliers have included France, Germany, Italy, the UK, and the US; Qatar is one of the world's largest arms importers (2024)<br>

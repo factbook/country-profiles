@@ -62,7 +62,7 @@ _other_: 24.4% (2022 est.)<br>
 550 sq km (2016)<br>
 
 **Major rivers (by length in km)**<br>
-Volta river source (shared with Ghana [m]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Volta river source (shared with Ghana [m]) - 1,600 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
@@ -265,7 +265,7 @@ _municipal solid waste recycled annually_: 309,030 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 12% (2005 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Volta river source (shared with Ghana [m]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Volta river source (shared with Ghana [m]) - 1,600 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
@@ -328,10 +328,10 @@ _residency requirement for naturalization_: 10 years<br>
 **Executive branch**<br>
 _chief of state_: Transitional President Capt. Ibrahim TRAORE (since 30 September 2022)<br>
 _head of government_: Prime Minister Joachim KYLEM DE TAMBELA (since 21 October 2022)<br>
-_cabinet_: prior to the 2022 coups and adhoc suspension of laws and constitutional provisions, Council of Ministers appointed by the president on the recommendation of the prime minister<br>
-_elections/appointments_: prior to the 2022 coups and adhoc suspension of laws and constitutional provisions, president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 22 November 2020 (next were to be held by July 2024, but may be delayed by the transitional government due to security concerns); prime minister appointed by the president with consent of the National Assembly<br>
+_cabinet_: prior to the 2022 coups and ad hoc suspension of laws and constitutional provisions, Council of Ministers appointed by the president on the recommendation of the prime minister<br>
+_elections/appointments_: prior to the 2022 coups and ad hoc suspension of laws and constitutional provisions, president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 22 November 2020 (next were to be held by July 2024, but were delayed); prime minister appointed by the president with consent of the National Assembly<br>
 _election results_: <em><br>2020:</em> Roch Marc Christian KABORE reelected president in first round; percent of vote - Roch Marc Christian KABORE (MPP) 57.9%, Eddie KOMBOIGO (CDP) 15.5%, Zephirin DIABRE (UPC) 12.5%, other 14.1%<br><br><em>2015:</em> Roch Marc Christian KABORE elected president in first round; percent of vote - Roch Marc Christian KABORE (MPP) 53.5%, Zephirin DIABRE (UPC) 29.6%, Tahirou BARRY (PAREN) 3.1%, Benewende Stanislas SANKARA (UNIR-MS) 2.8%, other 10.9%<br>
-<strong>note </strong>- on 30 September 2022, a military junta, led by TRAORE, took power and ousted Transition President Lt. Col. Paul-Henri Sandaogo DAMIBA and took over as head of the Patriotic Movement for Safeguard and Restoration<br><br><strong>note </strong>- Transitional President TRAORE appointed KYLEM DE TAMBELA Prime Minister on 21 October 2022; the position had been vacant since 30 September 2022 when the military ousted former Prime Minister Albert OUEDRAOGO<br>
+<strong>note:</strong> on 30 September 2022, a military junta led by TRAORE took power and ousted Transition President Lt. Col. Paul-Henri Sandaogo DAMIBA <br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Parlement)<br>
@@ -591,11 +591,6 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 _total subscriptions_: 24.7 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 112 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Burkina Faso&rsquo;s telecom sector in recent years has made some gains in providing the necessary infrastructure and bandwidth to support telecom services; an IXP completed in September 2020 increased international bandwidth capacity by a third, while in mid-2021 the government was able to start the second phase of a national fiber backbone project; this will link the capital city to an addition 145 municipalities, and provide additional connectivity to terrestrial cables in neighboring countries; the activities of the militants in side areas of the country jeopardize overall security, and render it difficult for the telcos to safeguard their networks and equipment; Burkina Faso joins G5 Sahel countries to eliminate roaming fees (2022)<br>
-_domestic_: fixed-line connections stand at less than 1 per 100 persons; mobile-cellular usage nearly 112 per 100, with multiple providers there is competition and the hope for growth from a low base; Internet penetration is 16% (2021)<br>
-_international_: country code - 226; satellite earth station - 1 Intelsat (Atlantic Ocean)<br>
-
 **Broadcast media**<br>
 14 digital TV channels, of which 2 are state-owned; over 140 national radio stations (commercial, religious, community), including a national and regional state-owned network; state-owned Radio Burkina and private Radio Omega are among the most widely available and broadcast in both French and local languages (2019)<br>
 
@@ -636,7 +631,7 @@ Armed Forces of Burkina Faso (FABF; aka National Armed Forces (FAN), aka Defense
 2.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 20,000 Armed Forces personnel; estimated 50,000 Homeland Defense Volunteers (2025)<br>
+estimated 20,000 Armed Forces; estimated 50,000 Homeland Defense Volunteers (2025)<br>
 <br><strong><br><br></strong><br>
 
 **Military equipment inventories and acquisitions**<br>

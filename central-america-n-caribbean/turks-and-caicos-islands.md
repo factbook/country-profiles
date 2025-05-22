@@ -438,11 +438,6 @@ _subscriptions per 100 inhabitants_: 9 (2022 est.)<br>
 _total subscriptions_: 25,085 (2004 est.)<br>
 _subscriptions per 100 inhabitants_: 110 (2004 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: is connected to the internet via a single submarine fiber-optic cable (Arcos-1), which links the US and several Caribbean countries (2023)<br>
-_domestic_: fixed-line teledensity is 9 per 100 persons (2021)<br>
-_international_: country code - 1-649;&nbsp;landing point for the&nbsp;ARCOS fiber-optic telecommunications submarine cable providing connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2020)<br>
-
 **Broadcast media**<br>
 no local terrestrial TV stations; broadcasts from the Bahamas, multi-channel cable, and satellite TV available; state-run radio network operates alongside private broadcasters, with a total of about 15 stations<br>
 

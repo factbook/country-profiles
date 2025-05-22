@@ -326,7 +326,7 @@ https://www.wilsoncenter.org/publication/saudi-women-go-to-the-polls-finally<br>
 _chief of state_: King SALMAN bin Abd al-Aziz Al Saud (since 23 January 2015)<br>
 _head of government_: Crown Prince and Prime Minister MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud (since 27 September 2022)<br>
 _cabinet_: Council of Ministers appointed by the monarch every 4 years and includes many royal family members<br>
-_elections/appointments_: none; the monarchy is hereditary; an Allegiance Council created by royal decree in October 2006 established a committee of Saudi princes for a voice in selecting future Saudi kings<br>
+_elections/appointments_: none; the monarchy is hereditary; an Allegiance Council created by royal decree in 2006 established a committee of Saudi princes for a voice in selecting future Saudi kings<br>
 
 **Legislative branch**<br>
 _legislature name_: Shura Council (Majlis Ash-Shura)<br>
@@ -584,11 +584,6 @@ _subscriptions per 100 inhabitants_: 20 (2023 est.)<br>
 _total subscriptions_: 52.5 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 132 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Saudi Arabia&rsquo;s telecom and ICT sectors continue to benefit from the range of programs aimed at diversifying the economy away from a dependence on oil, and establishing a wider digital transformation over the next decade; an essential element of this has been the widening reach of 5G networks, which by mid-2021 reached about half of the population and the majority of cities; the MNOs have focused investment on upgrading LTE infrastructure and further developing 5G; this in part is aimed at generating additional revenue from mobile data services, and also to their contribution to the Vision 2030 program; the ongoing pandemic has resulted in more people working and schooling from home during periods of restricted travel; this has stimulated growth in mobile data traffic, while the government has encouraged non-cash transactions and so helped develop the vast e-commerce market; while Saudi Arabia&rsquo;s fixed broadband penetration remains relatively low, there has been a concentration of fiber infrastructure and the Kingdom has developed one of the fastest services in the region (2022)<br>
-_domestic_: fixed-line are 18 per 100 and mobile-cellular subscribership is 126 per 100 persons (2021)<br>
-_international_: country code - 966; landing points for the SeaMeWe-3, -4, -5, AAE-1, EIG, FALCON, FEA, IMEWE, MENA/Gulf Bridge International, SEACOM, SAS-1, -2, GBICS/MENA, and the Tata TGN-Gulf submarine cables providing connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia; microwave radio relay to Bahrain, Jordan, Kuwait, Qatar, UAE, Yemen, and Sudan; coaxial cable to Kuwait and Jordan; satellite earth stations - 5 Intelsat (3 Atlantic Ocean and 2 Indian Ocean), 1 Arabsat, and 1 Inmarsat (Indian Ocean region) (2019)<br>
-
 **Broadcast media**<br>
 state-controlled broadcast media; state-run TV operates 4 networks; major market for pan-Arab satellite TV broadcasters; state-run radio with several networks; multiple international broadcasters available<br>
 
@@ -601,9 +596,6 @@ _percent of population_: 100% (2023 est.)<br>
 **Broadband - fixed subscriptions**<br>
 _total_: 14.5 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 44 (2023 est.)<br>
-
-**Communications - note**<br>
-the innovative King Abdulaziz Center for World Culture (informally known as Ithra, meaning "enrichment") opened on 1 December 2017 in Dhahran, Eastern Region; its facilities include a grand library, several museums, an archive, an Idea Lab, a theater, a cinema, and an Energy Exhibit, all which are meant to provide visitors an immersive and transformative experience<br>
 
 ## Transportation
 
@@ -647,7 +639,7 @@ the Saudi Arabian Armed Forces (SAAF) are divided into two ministries:<br><br>Mi
 8.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Saudi Armed Forces have about 250,000 total active troops; approximately 125,000 under the Ministry of Defense and approximately 125,000 in the Saudi Arabia National Guard (2025)<br>
+approximately 250,000 active Saudi Armed Forces, including 125,000 under the Ministry of Defense and 125,000 in the National Guard (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Saudi military forces, including the SANG, includes a mix of mostly modern weapons and equipment from Europe and the US; the US has been the largest supplier; major European suppliers have included France, Spain, and the UK; Saudi Arabia is one of the world's largest importers of arms (2024)<br>

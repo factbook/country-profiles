@@ -62,7 +62,7 @@ _other_: 24.1% (2022 est.)<br>
 12 sq km (2013)<br>
 
 **Major rivers (by length in km)**<br>
-Orange river source (shared with South Africa and Namibia [m]) - 2,092 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Orange river source (shared with South Africa and Namibia [m]) - 2,092 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Orange (941,351 sq km)<br>
@@ -265,7 +265,7 @@ _methane emissions_: 2.56 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 73,457 tons (2006 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Orange river source (shared with South Africa and Namibia [m]) - 2,092 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Orange river source (shared with South Africa and Namibia [m]) - 2,092 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Orange (941,351 sq km)<br>
@@ -329,7 +329,8 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: King LETSIE III (since 7 February 1996)<br>
 _head of government_: Prime Minister Ntsokoane Samuel MATEKANE (28 October 2022)<br>
 _cabinet_: consists of the prime minister, appointed by the King on the advice of the Council of State, the deputy prime minister, and 18 other ministers; the prime minister is the leader of the majority party or majority coalition in the National Assembly<br>
-_elections/appointments_: the monarchy is hereditary, but under the terms of the constitution that came into effect after the March 1993 election, the monarch is a "living symbol of national unity" with no executive or legislative powers; under traditional law, the College of Chiefs has the power to depose the monarch, to determine next in line of succession, or to serve as regent in the event that a successor is not of mature age<br>note - King LETSIE III formerly occupied the throne from November 1990 to February 1995 while his father was in exile<br>
+_elections/appointments_: the monarchy is hereditary, but under the terms of the constitution that came into effect after the March 1993 election, the monarch is a "living symbol of national unity" with no executive or legislative powers; under traditional law, the College of Chiefs has the power to depose the monarch, to determine next in line of succession, or to serve as regent in the event that a successor is not of mature age<br>
+<strong>note:</strong> King LETSIE III previously occupied the throne from November 1990 to February 1995 while his father was in exile<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -605,11 +606,6 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 _total subscriptions_: 1.6 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 68 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: until late 2020, Lesotho&rsquo;s telecom regulator maintained a market duopoly which is focused on fixed-line services; competition was insufficient to promote effective price reductions for consumers, while the regulator had no mechanisms in place to monitor the telcos to ensure quality of service and fair pricing for consumers; the small size of the country&rsquo;s population provided little incentive for new players to enter the market; a positive outcome for consumers was the deployment in early 2021 of a service to monitor traffic and billing; this ended the practice whereby the regulator was dependent on telcos submitting data about their performance, billing, and other matters; the regulator has also turned its attention to addressing multiple SIM ownership and stemming incidences of crimes committed using unregistered SIMs; in May 2022, it instructed the country&rsquo;s Mobile Network Operators to begin registering SIM cards on their networks from the following month; fixed-wireless 5G trials began in early 2019 (2022)<br>
-_domestic_: fixed-line is less than 1 per 100 subscriptions; mobile-cellular service subscribership is 80 per 100 persons (2021)<br>
-_international_: country code - 266; Internet accessibility has improved with several submarine fiber optic cables that land on African east and west coasts, but the country's land locked position makes access prices expensive; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
 1 state-owned TV station and 2 state-owned radio stations; most private broadcast media transmitters are connected to government radio signal towers; satellite TV subscription service available; transmissions of multiple international broadcasters obtainable (2019)<br>
 
@@ -645,7 +641,7 @@ Lesotho Defense Force (LDF) (2025)<br>
 1.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 2,000 active personnel (2025)<br>
+approximately 2,000 active Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the LDF is lightly armed and has a small inventory of mostly older or second-hand equipment of European, South African, and US origin (2025)<br>

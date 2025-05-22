@@ -255,7 +255,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Vjosa OSMANI-Sadriu (since 4 April 2021)<br>
-_head of government_: vacant (since 15 April 2025)<br>
+_head of government_: Acting Prime Minister Albin KURTI (since 15 April 2025)<br>
 _cabinet_: Cabinet elected by the Assembly<br>
 _elections/appointments_: president indirectly elected by at least two-thirds majority vote of the Assembly for a 5-year term; if a candidate does not attain a two-thirds threshold in the first two ballots, the candidate winning a simple majority vote in the third ballot is elected (eligible for a second term); election last held on 3 to 4 April 2021 (next to be held in 2026); prime minister indirectly elected by the Assembly<br>
 _election results_: <em><br>2021: </em> Vjosa OSMANI-Sadriu elected president in third ballot; Assembly vote - Vjosa OSMANI-Sadriu (Guxo!) 71 votes; Albin KURTI (LVV) elected prime minister; Assembly vote - 67 for, 30 against<br><br><em>2017: </em>Ramush HARADINAJ (AAK) elected prime minister; Assembly vote - 61 for, 1 abstention, 0 against (opposition boycott)<br><br><em>2016:</em> Hashim THACI elected president in third ballot; Assembly vote - Hashim THACI (PDK) 71 votes<br>
@@ -513,11 +513,6 @@ _subscriptions per 100 inhabitants_: 7 (2022 est.)<br>
 _total subscriptions_: 1,777,859 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 98 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Kosovo has benefited from financial and regulatory assistance as part of the EU pre-accession process; the telecom sector has been liberalized, and legislation has aligned the sector with the EU&rsquo;s revised regulatory framework; infrastructure development includes WiMax and other municipal wireless internet services; digitalization of TV broadcasting; network upgrades include a 5G roll-out in the coming years (2022 )<br>
-_domestic_: fixed-line roughly 25 per 100 and mobile-cellular 98 per 100 persons (2022)<br>
-_international_: country code - 383<br>
-
 **Internet country code**<br>
 .xk; note - assigned as a temporary code under UN Security Council resolution 1244/99<br><br> <br>
 &nbsp;<br>
@@ -553,7 +548,7 @@ Kosovo Security Force (KSF; Forca e Sigurisë së Kosovës or FSK): Land Force, 
 0.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 3,300 KSF personnel, including about 800 reserves (2024)<br>
+approximately 3,300 Kosovo Security Forces, including about 800 reserves (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the KSF is equipped with small arms and light vehicles and has relied on limited amounts of donated equipment from several countries, particularly Turkey and the US (2024)<br>

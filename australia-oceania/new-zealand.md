@@ -328,7 +328,6 @@ _chief of state_: King CHARLES III (since 8 September 2022); represented by Gove
 _head of government_: Prime Minister Christopher LUXON (since 27 November 2023)<br>
 _cabinet_: Executive Council appointed by the governor-general on the recommendation of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor-general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor-general; deputy prime minister appointed by the governor-general<br>
-<strong>note: </strong>according to Prime Minister LUXON, the Winston PETERS of the New Zealand First Party would be the deputy prime minister in the first half of the term while Act party leader, David SEYMOUR, would take the role for the second half of the term<br>
 
 **Legislative branch**<br>
 _legislature name_: House of Representatives<br>
@@ -594,11 +593,6 @@ _subscriptions per 100 inhabitants_: 13 (2023 est.)<br>
 _total subscriptions_: 6.56 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 115 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: <p>the growth areas in in New Zealand’s telecom market have been in mobile broadband and fiber; New Zealand’s mobile market continues to undergo significant developments; the coverage of LTE networks has been supported by the Rural Broadband Initiative rollout, which added a significant number of mobile sites to new or underserved areas; the market is undergoing additional consolidation; offering fixed and mobile services</p> (2023)<br>
-_domestic_: fixed-line roughly 13 per 100 and mobile-cellular telephone subscribership 114 per 100 persons (2021)<br>
-_international_: country code - 64; landing points for the Southern Cross NEXT, Aqualink, Nelson-Levin, SCCN and Hawaiki submarine cable system providing links to Australia, Fiji, American Samoa, Kiribati, Samo, Tokelau, US and around New Zealand; satellite earth stations - 8 (1 Inmarsat - Pacific Ocean, 7 other) (2019)<br>
-
 **Broadcast media**<br>
 state-owned Television New Zealand operates multiple TV networks; state-owned Radio New Zealand operates 3 radio networks and an external shortwave radio service to the South Pacific region; a small number of national commercial TV and radio stations and many regional commercial TV and radio stations are available; cable and satellite TV systems are available (2019)<br>
 
@@ -654,7 +648,7 @@ New Zealand Defense Force (NZDF): New Zealand Army, Royal New Zealand Navy, Roya
 1.4% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 8,800 active-duty (Regular Force) troops (4,300 Army; 2,100 Navy; 2,400 Air Force) (2025)<br>
+approximately 8,800 active (Regular Force) New Zealand Defense Forces (4,300 Army; 2,100 Navy; 2,400 Air Force) (2025)<br>
 <strong>note:</strong> the total NZDF complement is about 15,300 including the Regular Force, Reserves, and civilians<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -665,7 +659,7 @@ the NZDF's inventory is comprised of domestically produced and Western-supplied 
 <strong>note: </strong>New Zealand opened up all military occupations to women in 2000; as of 2024, women accounted for about 20% of Regular Force personnel<br>
 
 **Military deployments**<br>
-small numbers of NZ military personnel are deployed on a variety of international missions in Africa, Antarctica, the Asia-Pacific region, and the Middle East (2024)<br>
+small numbers of NZ military personnel are deployed on a variety of international missions in Africa, Antarctica, the Asia-Pacific region, and the Middle East (2025)<br>
 
 **Military - note**<br>
 the NZDF is a small military with considerable overseas experience; it supports the country’s national security objectives by protecting New Zealand’s sovereignty, promoting its interests, safeguarding peace and security, and conducting peacekeeping, humanitarian, and other international missions<br><br>New Zealand is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily <br><br>New Zealand has been part of the Australia, New Zealand, and US Security (ANZUS) Treaty since 1951; however, the US suspended its ANZUS security obligations to New Zealand in 1986 after New Zealand implemented a policy barring nuclear-armed and nuclear-powered warships from its ports; the US and New Zealand signed the Wellington Declaration in 2010, which reaffirmed close ties between the two countries, and in 2012 signed the Washington Declaration, which provided a framework for future security cooperation and defense dialogues; in 2016, a US naval ship conducted the first bilateral warship visit to New Zealand since the 1980s; New Zealand has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2025)<br>

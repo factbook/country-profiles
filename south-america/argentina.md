@@ -69,7 +69,7 @@ _fresh water lake(s)_: Lago Buenos Aires (shared with Chile) - 2,240 sq km; Lago
 _salt water lake(s)_: Laguna Mar Chiquita - 1,850 sq km;<br>
 
 **Major rivers (by length in km)**<br>
-Río de la Plata/Paraná river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Río de la Plata/Paraná river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
@@ -276,7 +276,7 @@ _fresh water lake(s)_: Lago Buenos Aires (shared with Chile) - 2,240 sq km; Lago
 _salt water lake(s)_: Laguna Mar Chiquita - 1,850 sq km;<br>
 
 **Major rivers (by length in km)**<br>
-Río de la Plata/Paraná river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Río de la Plata/Paraná river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
@@ -385,7 +385,7 @@ _subordinate courts_: federal-level appellate, district, and territorial courts;
 AfDB (nonregional member), Australia Group, BCIE, BIS, CAN (associate), CD, CABEI, CELAC, FAO, FATF, G-15, G-20, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, NAM (observer), NSG, OAS, OPANAL, OPCW, Paris Club (associate), PCA, PROSUR, SICA (observer), UN, UNASUR, UNCTAD, UNDOF, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, Union Latina (observer), UNOOSA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Juan Manuel CORTELLETTI (since 1 November 2024)<br>
+_chief of mission_: Ambassador-designate Alejandro (Alec) OXENFORD (since November 2024)<br>
 _chancery_: 1600 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 238-6400<br>
 _FAX_: [1] (202) 332-3171<br>
@@ -646,11 +646,6 @@ _subscriptions per 100 inhabitants_: 15 (2023 est.)<br>
 _total subscriptions_: 62.7 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 132 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Argentina&rsquo;s ongoing hyperinflation continues to distort the telecom market&rsquo;s performance, which shows strong growth in revenue but only modest gains in subscriber numbers each year; the fixed broadband segment has penetration levels only slightly higher than the fixed-line teledensity; nearly a quarter of the country&rsquo;s broadband connections are via DSL, although fiber is starting claim an increasing share of that market as networks expand across most of the main cities; mobile broadband continues to be the preferred platform for internet access, supported by high mobile penetration levels and nationwide LTE coverage; the first 5G service was launched in 2021 using refarmed LTE frequencies; the anticipated 5G spectrum auctions should drive even stronger uptake in mobile broadband services; the government's national connectivity plan, "Plan Conectar," launched in 2020 and provides funding to increase coverage (2021)<br>
-_domestic_: roughly 15 per 100 fixed-line and 130 per 100 mobile-cellular; microwave radio relay, fiber-optic cable, and a domestic satellite system with 40 earth stations serve the trunk network (2021)<br>
-_international_: country code - 54; landing points for the UNISUR, Bicentenario,&nbsp;Atlantis-2, SAm-1, and&nbsp;SAC, Tannat, Malbec and ARBR&nbsp;submarine cable systems that provide links to Europe, Africa, South and Central America, and US; satellite earth stations - 112 (2019)<br>
-
 **Broadcast media**<br>
 one of South America's biggest media markets; dozens of TV networks, hundreds of radio stations, and more than 150 daily newspapers (2023)<br>
 
@@ -705,7 +700,7 @@ Armed Forces of the Argentine Republic (Fuerzas Armadas de la República Argenti
 0.8% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 75,000 active-duty personnel (45,000 Army; 15,000 Navy, including about 3,500 marines); 15,000 Air Force); estimated 20,000 Gendarmerie (2025)<br>
+approximately 75,000 active-duty Armed Forces (45,000 Army; 15,000 Navy, including about 3,500 marines; 15,000 Air Force) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of Argentina's armed forces is a mix of domestically-produced and mostly older imported weapons, largely from Europe and the US; in recent years, France and the US have been the leading suppliers of equipment; Argentina has an indigenous defense industry that produces air, land, and naval systems (2024)<br>

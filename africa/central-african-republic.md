@@ -62,7 +62,7 @@ _other_: 55.3% (2022 est.)<br>
 10 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Oubangui (Ubangi) river [s] (shared with Democratic Republic of Congo and Republic of Congo [m]) - 2,270 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Oubangui (Ubangi) river [s] (shared with Democratic Republic of Congo and Republic of Congo [m]) - 2,270 km <br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
@@ -263,7 +263,7 @@ _methane emissions_: 22.44 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 1,105,983 tons (2014 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Oubangui (Ubangi) river [s] (shared with Democratic Republic of Congo and Republic of Congo [m]) - 2,270 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Oubangui (Ubangi) river [s] (shared with Democratic Republic of Congo and Republic of Congo [m]) - 2,270 km <br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
@@ -331,7 +331,7 @@ _residency requirement for naturalization_: 35 years<br>
 _chief of state_: President Faustin-Archange TOUAD&Eacute;RA (since 30 March 2016)<br>
 _head of government_: Prime Minister F&eacute;lix MOLOUA (since 7 February 2022)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected for 5-year term; election last held 27 December 2020 (next to be held in December 2025); constitutional referendum in July 2023 removed term limits and institutes 7-year terms; note - presidential and partial legislative elections were held on 27 December 2020; voting was disrupted in some areas, delaying the first round of legislative elections until 14 March 2021; constituencies that did vote on 27 December 2020 held runoff elections for their legislators<br>
+_elections/appointments_: president directly elected for 5-year term; election last held 27 December 2020 (next to be held in December 2025); constitutional referendum in July 2023 removed term limits and instituted 7-year terms<br>
 _election results_: <em><br>2020:</em> Faustin-Archange TOUADÉRA reelected president in first round; percent of vote - Faustin-Archange TOUADÉRA (independent) 53.9%, Anicet Georges DOLOGUELE (URCA) 21%, other 25.1%<br><br><em>2015:</em> Faustin-Archange TOUADÉRA elected president in the second round; percent of vote in first round - Anicet-Georges DOLOGUELE (URCA) 23.7%, Faustin-Archange TOUADÉRA (independent) 19.1%, Desire KOLINGBA (RDC) 12%, Martin ZIGUELE (MLPC) 11.4%, other 33.8%; percent of vote in second round - Faustin-Archange TOUADÉRA 62.7%, Anicet-Georges DOLOGUELE 37.3%<br>
 
 **Legislative branch**<br>
@@ -583,11 +583,6 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 _total subscriptions_: 1.83 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 34 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: given the poor fixed-line infrastructure in most countries across Africa, voice and data services across the region are greatly dependent on mobile networks; in the majority of markets, including those with better developed fixed infrastructure such as South Africa, Nigeria, and Kenya, up to 98% of all voice and data connections are via mobile networks; during the last two to three years, national governments and telecom regulators have striven to improve fixed infrastructure with the wider aim of developing economic growth based on digital services and connectivity; this work is principally focused on delivering fiber-based connectivity; since the amount of copper infrastructure (DSL or HFC) used for broadband is so negligible, governments and private firms, including telcos are investing in fiber rather than in older technologies; while supporting broadband to premises, health centers, and government buildings, the new fiber infrastructure is mainly being deployed to provide mobile platforms and to support the rapid growth in data traffic (2022)<br>
-_domestic_: very limited telephone service with less than 1 fixed-line connection per 100 persons; 34 per 100 mobile-cellular subscribers (2020)<br>
-_international_: country code - 236; satellite earth station - 1 Intelsat (Atlantic Ocean)<br>
-
 **Broadcast media**<br>
 government-owned network, Radiodiffusion T&eacute;l&eacute;vision Centrafricaine, provides limited TV broadcasting; state-owned radio network is supplemented by a small number of privately owned broadcast stations, as well as a few community radio stations; transmissions of at least 2 international broadcasters are available (2017)<br>
 
@@ -623,7 +618,7 @@ Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includ
 1.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 10-15,000 active FACA personnel (2025)<br>
+estimated 10-15,000 active FACA (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 most of the military's heavy weapons and equipment were destroyed or captured during the 2012–2014 civil war; prior to the war, most of its equipment was of French, Russian, or Soviet origin; in recent years, it has received some secondhand equipment from China and Russia, including light weapons, as well as some armored vehicles, unmanned aerial vehicles, and helicopters (2024)<br>

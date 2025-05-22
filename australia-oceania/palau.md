@@ -499,11 +499,6 @@ _subscriptions per 100 inhabitants_: 45 (2023 est.)<br>
 _total subscriptions_: 24,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 133 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Palau telecommunications is a small, formerly unregulated sector undertaking significant growth with the improvement and cost reduction in technology; mobile services have taken over the share of the market from landlines, with both 2-3G cell services throughout the islands; sim cards are easily available and offer 3G and data options; there are pre-paid and post-paid options for both voice and data; there are three data options for using a wireless hotspot network throughout Palau; connection from hotel and restaurant premises is available, enabling users to connect via WiFi throughout the main Islands of Palau (2022)<br>
-_domestic_: fixed-line nearly 44 per 100 and mobile-cellular services roughly 130 per 100 persons (2021)<br>
-_international_: country code - 680; landing point for the SEA-US submarine cable linking Palau, Philippines, Micronesia, Indonesia, Hawaii (US), Guam (US) and&nbsp;California (US); satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
-
 **Broadcast media**<br>
 no broadcast TV stations; a cable TV network covers the major islands and provides access to 4 local cable stations, rebroadcasts (on a delayed basis) of a number of US stations, as well as access to a number of real-time satellite TV channels; about a half dozen radio stations (1 government-owned) (2019)<br>
 

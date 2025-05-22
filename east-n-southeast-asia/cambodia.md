@@ -68,7 +68,7 @@ _other_: 21.4% (2022 est.)<br>
 _fresh water lake(s)_: Tonle Sap - 2,700-16,000 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Mekong (shared with China [s], Burma, Thailand, Laos, and Vietnam [m]) - 4,350 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Mekong (shared with China [s], Burma, Thailand, Laos, and Vietnam [m]) - 4,350 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>
@@ -265,7 +265,7 @@ _municipal solid waste generated annually_: 1.089 million tons (2014 est.)<br>
 _fresh water lake(s)_: Tonle Sap - 2,700-16,000 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Mekong (shared with China [s], Burma, Thailand, Laos, and Vietnam [m]) - 4,350 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Mekong (shared with China [s], Burma, Thailand, Laos, and Vietnam [m]) - 4,350 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>
@@ -329,7 +329,7 @@ _residency requirement for naturalization_: 7 years<br>
 _chief of state_: King Norodom SIHAMONI (since 29 October 2004)<br>
 _head of government_: Prime Minister HUN MANET (since 22 August 2023)<br>
 _cabinet_: Council of Ministers named by the prime minister and appointed by the monarch<br>
-_elections/appointments_: monarch chosen by the 9-member Royal Council of the Throne from among all eligible males of royal descent; following legislative elections, a member of the majority party or majority coalition named prime minister by the Chairman of the National Assembly and appointed by the monarch<br>
+_elections/appointments_: monarch chosen by the 9-member Royal Council of the Throne from among all eligible males of royal descent; after legislative elections, a member of the majority party or majority coalition is named prime minister by the Chairman of the National Assembly and appointed by the monarch<br>
 <strong>note: </strong> MANET succeeded his father, HUN SEN, who had been prime minister since 1985<br>
 
 **Legislative branch**<br>
@@ -603,11 +603,6 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 _total subscriptions_: 19.5 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 116 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Cambodia&rsquo;s mobile-dominated telecoms sector spent much of 2020 battling two major challenges: the global pandemic, and the government&rsquo;s retraction of trial licenses for the rollout of 5G; citing concerns about waste and inefficiency occurring if each operator built a separate 5G infrastructure in order to maximize their own network&rsquo;s coverage (and, presumably, to capture greater market share), the regulator withdrew the licenses that the operators had been using for their 5G trials; this was despite all of the operators having already announced a successful completion of their trials; more than a year later, the market is still waiting on the government to release its 5G policy and roadmap, along with the allocation of spectrum and approvals to permit commercial operation; there is little expectation of any further progress happening before the start of 2022; the mobile network operators have maintained their focus and investment strategies on upgrading and expanding their existing LTE networks around the country, and to 5G-enable their base stations; when the 5G market eventually arrives, the underlying infrastructure will at least be ready to support a rapid adoption of the higher-value applications and services; the mobile market fell back slightly during 2020 and 2021 (in terms of total subscriber numbers) as the Covid-19 crisis wore on, but it remains in relatively good health as mobile users increased their data usage over the period; the mobile broadband market experienced a small but very rare contraction in 2020, although rates were already very high in this area; there is likely to be a quick rebound to previous levels once economic conditions stabilize, followed by a modest rates of growth over the next five years; the number of fixed telephony lines in service continues to fall sharply as customers migrate to mobile platforms for both voice and data; the lack of any widespread fixed-line infrastructure has had a flow-on effect in the fixed-line broadband market, a sector that also remains largely under-developed (2021)<br>
-_domestic_: fixed-line connections stand at less than 1 per 100 persons; mobile-cellular usage, aided by competition among service providers, is about 120 per 100 persons (2021)<br>
-_international_: country code - 855; landing points for MCT and AAE-1 via submarine cables&nbsp;providing communication to Asia, the Middle East, Europe and Africa;&nbsp;satellite earth station - 1 Intersputnik (Indian Ocean region) (2019)<br>
-
 **Broadcast media**<br>
 mix of state-owned, joint public-private, and privately owned broadcast media; 27 TV stations, with most operating on multiple channels, including 1 state-operated station with multiple locations and 11 stations either jointly operated or privately owned, some with several locations; multi-channel cable and satellite systems; 84 radio stations, including 1 state-owned broadcaster with multiple stations and a mix of public and private broadcasters; one international broadcaster is available, as well as one TV station that is jointly run by China and the Ministry of Interior; several TV and radio operators broadcast online only (often via Facebook) (2019)<br>
 
@@ -664,7 +659,7 @@ Royal Cambodian Armed Forces (RCAF): Royal Cambodian Army, Royal Khmer Navy, Roy
 2.2% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; estimated 200,000 Armed Forces personnel, including Gendarmerie (2025)<br>
+information varies; estimated 200,000 Armed Forces, including Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the RCAF is armed largely with older Chinese and Russian-origin equipment; in recent years it has received limited amounts of more modern equipment from several suppliers, particularly China (2024)<br>

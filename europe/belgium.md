@@ -328,7 +328,6 @@ _chief of state_: King PHILIPPE (since 21 July 2013)<br>
 _head of government_: Prime Minister Bart DE WEVER (since 3 February 2025)<br>
 _cabinet_: Council of Ministers formally appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary and constitutional; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch and approved by Parliament<br>
-<strong>note </strong>- Alexander DE CROO resigned on 9 June 2024 following the parliamentary elections and is serving as prime minister in a caretaker status until a new prime minister is sworn into office<br>
 
 **Legislative branch**<br>
 _legislature name_: Federal Parliament (Parlement fédéral - Federaal Parlement - Föderales Parlament)<br>
@@ -400,7 +399,7 @@ _selected World Heritage Site locales_: Belfries of Belgium (c); Historic Brugge
 ## Economy
 
 **Economic overview**<br>
-high-income, core EU and eurozone economy; slow but steady growth supported by household consumption and energy shock recovery; high public debt and structural deficits linked to social spending; aging workforce with weak productivity growth and participation rates<br>
+<p>high-income, core EU and eurozone economy; slow growth with weakened domestic consumption and export demand; high public debt and structural deficits linked to social spending; aging workforce with weak productivity growth and participation rates</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $756.586 billion (2023 est.)<br>
@@ -624,11 +623,6 @@ _subscriptions per 100 inhabitants_: 23 (2023 est.)<br>
 _total subscriptions_: 12.1 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 102 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: mobile networks have been upgraded to support growing mobile data use among subscribers, with near-comprehensive LTE coverage; operators have also trialed 5G in preparation for launching services; the auction of 5G-suitable spectrum has been delayed to the beginning of 2022, while the onerous restrictions on radiation have meant that some 5G trials have been suspended; there is effective competition in Belgium between the DSL and cable platforms, while in recent years government support has also encouraged investment in fiber networks; in a bid to encourage investment in under served areas, the regulator in 2018 amended the conditions by which market players grant wholesale access to copper and fiber infrastructure; in May 2019 it opened a further consultation on cost models for access to the networks of cablecos and fiber infrastructure (2021)<br>
-_domestic_: about 28 per 100 fixed-line and 101 per 100 mobile-cellular; nationwide mobile-cellular telephone system; extensive cable network; limited microwave radio relay network (2021)<br>
-_international_: country code - 32; landing points for Concerto, UK-Belgium, Tangerine, and SeaMeWe-3, submarine cables that provide links to Europe, the Middle East, Australia, and Asia; satellite earth stations - 7 (Intelsat - 3) (2019)<br>
-
 **Broadcast media**<br>
 a segmented market with the three major linguistic communities (Flemish-, French-, and German-speaking) each responsible for their own broadcast media; multiple TV channels exist for each community;&nbsp; over 90% of households are connected to cable and can access TV broadcasts from neighboring countries; each community has a public radio network coexisting with private broadcasters<br>
 
@@ -683,7 +677,7 @@ Belgian Armed Forces (Defensie or La Défense): Land Component, Marine (Naval) C
 1% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 23,000 active-duty personnel (10,000 Land Component; 1,500 Marine Component; 5,000 Air Force Component; 1,500 Medical Component; 5,000 other, including joint staff, support, and training schools) (2024)<br>
+approximately 23,000 active-duty Belgian Armed Forces (10,000 Land Component; 1,500 Marine Component; 5,000 Air Force Component; 1,500 Medical Component; 5,000 other, including joint staff, support, and training schools) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the armed forces have a mix of weapons systems from European countries, Israel, and the US; Belgium has an export-focused defense industry that focuses on components and subcontracting (2024)<br>

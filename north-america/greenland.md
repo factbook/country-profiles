@@ -471,11 +471,6 @@ _subscriptions per 100 inhabitants_: 9 (2022 est.)<br>
 _total subscriptions_: 67,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 118 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: adequate domestic and international service provided by satellite, cables, and microwave radio relay; the fundamental telecommunications infrastructure consists of a digital radio link from Nanortalik in south Greenland to Uummannaq in north Greenland; satellites cover north and east Greenland for domestic and foreign telecommunications; a marine cable connects south and west Greenland to the rest of the world, extending from Nuuk and Qaqortoq to Canada and Iceland; a contract has been awarded to build a 5G network in Greenland, initially covering three towns, with 10 towns, including Greenland's capital Nuuk to follow (2022)<br>
-_domestic_: nearly 11 per 100 for fixed-line subscriptions and 118 per 100 for mobile-cellular (2021)<br>
-_international_: country code - 299; landing points for Greenland Connect, Greenland Connect North, Nunavut Undersea Fiber System submarine cables to Greenland, Iceland, and Canada;&nbsp;satellite earth stations - 15 (12 Intelsat, 1 Eutelsat, 2 Americom GE-2 (all Atlantic Ocean)) (2019)<br>
-
 **Broadcast media**<br>
 Greenland Broadcasting Company provides public radio and TV, with a broadcast station and a series of repeaters; a few private local TV and radio stations; Danish public radio rebroadcasts are available (2019)<br>
 

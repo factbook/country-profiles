@@ -312,8 +312,9 @@ _residency requirement for naturalization_: 2 years<br>
 _chief of state_: President Joseph BOAKAI (since 22 January 2024)<br>
 _head of government_: President Joseph BOAKAI (since 22 January 2024)<br>
 _cabinet_: Cabinet appointed by the president, confirmed by the Senate<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 10 October 2023 with a runoff on 14 November 2023 (next to be held in October 2029) note - the president is both chief of state and head of government<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 10 October 2023 with a runoff on 14 November 2023 (next to be held in October 2029)&nbsp;<br>
 _election results_: <em><br>2023:</em> Joseph BOAKAI elected president in second round; percent of vote in first round - George WEAH (CDC) 43.8%, Joseph BOAKAI (UP) 43.4%, Edward APPLETON (GDM) 2.2%, Lusinee KAMARA (ALCOP) 2%, Alexander B. CUMMINGS, Jr. (CPP) 1.6%, Tiawan Saye GONGLOE (LPP) 1.4%, other 5.6%; percentage of vote in second round - Joseph BOAKAI 50.6%, George WEAH 49.4%<br><br><em>2017:</em> George WEAH elected president in second round; percent of vote in first round - George WEAH (Coalition for Democratic Change) 38.4%, Joseph BOAKAI (UP) 28.8%, Charles BRUMSKINE (LP) 9.6%, Prince JOHNSON (MDR) 8.2%, Alexander B. CUMMINGS (ANC) 7.2%, other 7.8%; percentage of vote in second round - George WEAH 61.5%, Joseph BOAKAI 38.5%<br>
+<strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _legislature name_: Legislature<br>
@@ -575,11 +576,6 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 _total subscriptions_: 1.65 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 32 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Liberia has a telecom market which is mainly based on mobile networks; this is due to the civil war which destroyed much of the fixed-line infrastructure; to facilitate LTC Mobile&rsquo;s market entry, the government in January 2022 set in train amendments to telecom legislation; internet services are available from a number of wireless ISPs as well as the mobile operators; the high cost and limited bandwidth of connections means that internet access is expensive and rates are very low; additional bandwidth is available from an international submarine cable but considerable investment is still needed in domestic fixed-line infrastructure before end-users can make full use of the cable (2022)<br>
-_domestic_: fixed-line less than 1 per 100; mobile-cellular subscriptions are 32 per 100 persons (2021)<br>
-_international_: country code - 231; landing point for the ACE submarine cable&nbsp;linking 20 West&nbsp;African countries and Europe;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
 8 private and 1 state-owned TV station; satellite TV service available; 1 state-owned radio station; about 20 independent radio stations broadcasting in Monrovia, with about 80 more local stations operating in other areas; transmissions of 4 international broadcasters are available (2019)<br>
 
@@ -633,7 +629,7 @@ Armed Forces of Liberia (AFL): Army, Liberian Coast Guard<br><br>Ministry of Jus
 0.5% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 2,000 active AFL personnel (2025)<br>
+approximately 2,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military has a limited inventory; in recent years, it has received small quantities of equipment, including donations, from countries such as China and the US (2024)<br>

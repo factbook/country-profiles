@@ -574,11 +574,6 @@ _subscriptions per 100 inhabitants_: 49 (2023 est.)<br>
 _total subscriptions_: 749,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 132 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Malta&rsquo;s small telecom sector is among the most advanced in Europe; this has been helped by the topography, which has made it relatively easy for operators to expand the reach of their fiber infrastructure; with high mobile and broadband penetration rates, the government and regulator have effective strategies in place to capitalize on these infrastructure developments to ensure that the population has among the fastest data rates in Europe, and is well positioned to take advantage of emerging e-commerce opportunities; the sector has also been stimulated by regulatory measures designed to reduce consumer prices; the incumbent telco is investing in a sub sea cable to connect the islands to France and Egypt; expected to be ready for service in 2022, the cable will further enhance Malta&rsquo;s internet bandwidth and lead to reduced prices for end-users; there has also been some encouragement to increase market competition (2021)<br>
-_domestic_: fixed-line approximately 49 per 100&nbsp; persons and mobile-cellular subscribership 122 per 100 persons (2021)<br>
-_international_: country code - 356; landing points for the Malta-Gozo Cable, VMSCS, GO-1 Mediterranean Cable System, Malta Italy Interconnector, Melita-1, and the Italy-Malta submarine cable connections to Italy; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
 2 publicly owned TV stations, Television Malta and an educational channel; several privately owned national television stations, 2 of which are owned by political parties; Italian and British broadcast programs are available; multi-channel cable and satellite TV services are available; publicly owned radio broadcaster operates 3 stations; roughly 20 commercial radio stations (2019)<br>
 
@@ -630,7 +625,7 @@ the Armed Forces of Malta (AFM): Land Component (combat, combat support, and com
 0.5% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 2,000 active-duty personnel (2023)<br>
+approximately 2,000 active Armed Forces of Malta (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military has a small inventory that consists of equipment from a mix of European countries, particularly Italy, and the US (2024)<br>

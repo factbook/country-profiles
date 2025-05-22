@@ -65,7 +65,7 @@ _other_: 14.8% (2022 est.)<br>
 5,280 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
-Dunărea (Danube) river mouth (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Ukraine) - 2,888 km <br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Dunărea (Danube) river mouth (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Ukraine) - 2,888 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -268,7 +268,7 @@ _municipal solid waste recycled annually_: 277,547 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 5.7% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Dunărea (Danube) river mouth (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Ukraine) - 2,888 km <br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Dunărea (Danube) river mouth (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Ukraine) - 2,888 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -387,7 +387,7 @@ _email address and website_: <br>washington@mae.ro<br><br>https://washington.mae
 _consulate(s) general_: Chicago, Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Kathleen KAVALEC (since 14 February 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Michael L. DICKERSON (since 20 May 2025)<br>
 _embassy_: 4-6, Dr. Liviu Librescu Blvd., District 1, Bucharest, 015118<br>
 _mailing address_: 5260 Bucharest Place, Washington, DC&nbsp; 20521-5260<br>
 _telephone_: [40] (21) 200-3300<br>
@@ -638,11 +638,6 @@ _subscriptions per 100 inhabitants_: 10 (2023 est.)<br>
 _total subscriptions_: 23.2 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 118 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Romania&rsquo;s telecom market has undergone several significant changes in recent years; the mobile market is served by network operators that have extensive LTE networks in place, while services based on 5G have been offered under their existing spectrum concessions since 2019; the delayed multi-spectrum auction, expected to be completed later in 2021, will enable the operators to expand 5G network capacity and enable consumers to make far greater use of the technology&rsquo;s potential; in line with legislation passed in July 2021 the MNOs will have to replace equipment provided by vendors deemed to be a security risk (2021)<br>
-_domestic_: fixed-line teledensity is 13 telephones per 100 persons; mobile-cellular teledensity is119 telephones per 100 persons (2021)<br>
-_international_: country code - 40; landing point for the Diamond Link Global submarine cable linking Romania with Georgia; satellite earth stations - 10; digital, international, direct-dial exchanges operate in Bucharest (2019)<br>
-
 **Broadcast media**<br>
 a mixture of public and private TV stations; 7 public (2 national, 5 regional) and 187 private TV stations using terrestrial broadcasting, plus 11 public and 86 private TV stations using satellite broadcasting; state-owned public radio broadcaster operates 4 national networks, as well as regional and local stations; 502 private radio stations using terrestrial broadcasting, and 26 using satellite broadcasting<br>
 
@@ -696,7 +691,7 @@ Romanian Armed Forces (Forțele Armate Române or Armata Română): Romanian Lan
 2% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 68,000 active-duty military personnel (53,000 Land Forces; 7,000 Naval Forces; 8,000 Air Force) (2024)<br>
+approximately 68,000 active Armed Forces (53,000 Land Forces; 7,000 Naval Forces; 8,000 Air Force) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes a considerable amount of Soviet-era and older domestically produced weapons systems, although in recent years Romania has launched an effort to acquire more modern and NATO-standard equipment from European countries and the US, including aircraft and armored vehicles (2024)<br>

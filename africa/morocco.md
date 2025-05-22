@@ -633,11 +633,6 @@ _subscriptions per 100 inhabitants_: 8 (2023 est.)<br>
 _total subscriptions_: 55.9 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 137 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: national network nearly 100% digital using fiber-optic links; improved rural service employs microwave radio relay; one of the most state-of-the-art markets in Africa; high mobile penetration rates in the region with low cost for broadband Internet access; improvement in LTE reach and capabilities; service providers have all successfully completed 5G proofs of concept and are currently lining up 5G equipment providers for both radio and core technology; regulatory agency expects to conduct the 5G spectrum auction in 2023; mobile Internet accounts for 93% of all Internet connections; World Bank provided funds for Morocco&rsquo;s digital transformation; government supported digital education during pandemic; submarine cables and satellite provide connectivity to Asia, Africa, the Middle East, Europe, and Australia (2022)<br>
-_domestic_: fixed-line teledensity is 7 per 100 persons and mobile-cellular subscribership is 139 per 100 persons (2021)<br>
-_international_: country code - 212; landing point for the Atlas Offshore, Estepona-Tetouan, Canalink&nbsp;and SEA-ME-WE-3 fiber-optic telecommunications undersea cables that provide connectivity to Asia,&nbsp;Africa,&nbsp;the Middle East, Europe and Australia; satellite earth stations - 2 Intelsat (Atlantic Ocean) and 1 Arabsat; microwave radio relay to Gibraltar, Spain, and Western Sahara (2019)<br>
-
 **Broadcast media**<br>
 2 TV broadcast networks with state-run Radio-Television Marocaine (RTM) operating one network and the state partially owning the other; foreign TV is available via satellite dish; 3 radio broadcast networks, with RTM operating one; the state-owned network includes 10 regional radio channels in addition to its national service (2019)<br>
 
@@ -650,9 +645,6 @@ _percent of population_: 90% (2022 est.)<br>
 **Broadband - fixed subscriptions**<br>
 _total_: 2.42 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 6 (2022 est.)<br>
-
-**Communications - note**<br>
-the University of al-Quarawiyyin Library in Fez is recognized as the oldest existing, continually operating library in the world, dating back to A.D. 859; among its holdings are approximately 4,000 ancient Islamic manuscripts<br>
 
 ## Transportation
 
@@ -696,7 +688,7 @@ Royal Moroccan Armed Forces (FAR): Royal Moroccan Army (includes the Moroccan Ro
 3.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 220,000 active Armed Forces personnel (175,000 Army; 10,000 Navy; 15,000 Air Force, 20,000 Gendarmerie) (2025)<br>
+estimated 220,000 active Armed Forces (175,000 Army; 10,000 Navy; 15,000 Air Force, 20,000 Gendarmerie) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Moroccan military's inventory is comprised of mostly older French and US equipment, although in recent years it has embarked on a modernization program and received quantities of more modern equipment from a variety of countries, particularly France, Spain, and the US (2024)<br>

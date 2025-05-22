@@ -503,11 +503,6 @@ _subscriptions per 100 inhabitants_: 39 (2022 est.)<br>
 _total subscriptions_: 68,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 106 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage (2021)<br>
-_domestic_: the system has a fixed-line teledensity of 39 per 100, coupled with a mobile-cellular teledensity of roughly 110 per 100 persons (2021)<br>
-_international_: country code - 1-441; landing points for the GlobeNet, Gemini Bermuda, CBUS, and the CB-1 submarine cables to the Caribbean, South America and the US; satellite earth stations - 3 (2019)<br>
-
 **Broadcast media**<br>
 3 TV stations; cable and satellite TV subscription services are available; roughly 13 radio stations operating<br>
 
@@ -550,13 +545,13 @@ Royal Bermuda Regiment; Bermuda Police Service (2025)<br>
 <strong>note:</strong> the Royal Bermuda Regiment (aka "The Regiment") includes the Royal Bermuda Regiment Coast Guard<br>
 
 **Military and security service personnel strengths**<br>
-the Royal Bermuda Regiment has about 350 troops (2024)<br>
+the Royal Bermuda Regiment has about 350 troops (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Regiment is equipped with small arms (2024)<br>
 
 **Military service age and obligation**<br>
-men and women who are Commonwealth citizens and 18-45 years of age can volunteer for the Bermuda Regiment; service is for a minimum period of three years and two months from the date of enlistment; service can be extended only by volunteering or an executive order from the Governor; annual training commitment is about 30 days a year, which includes a two-week camp, weekends, and drill nights (2025)<br>
+men and women who are Commonwealth citizens and 18-45 years of age can volunteer for the Bermuda Regiment; service is for a minimum period of three years and two months from the date of enlistment; after completing their initial service, soldiers in the Regiment can choose to extend their service (2025)<br>
 
 **Military - note**<br>
 defense is the responsibility of the UK; the Royal Bermuda Regiment&rsquo;s responsibilities include maritime security of Bermuda&rsquo;s inshore waters, search and rescue, ceremonial duties, humanitarian/disaster assistance, security of key installations, and assisting the Bermuda Police with maintaining public order; it includes explosive ordnance disposal, diver, maritime, security police, and support units (2024)<br>

@@ -65,7 +65,7 @@ _other_: 7.5% (2022 est.)<br>
 _fresh water lake(s)_: Lake Kivu (shared with Democratic Republic of Congo) - 2,220 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Nile river source (shared with Tanzania, Uganda, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Nile river source (shared with Tanzania, Uganda, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
@@ -267,7 +267,7 @@ _municipal solid waste generated annually_: 4,384,969 tons (2016 est.)<br>
 _fresh water lake(s)_: Lake Kivu (shared with Democratic Republic of Congo) - 2,220 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Nile river source (shared with Tanzania, Uganda, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Nile river source (shared with Tanzania, Uganda, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
@@ -331,8 +331,9 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Paul KAGAME (since 22 April 2000)<br>
 _head of government_: Prime Minister Edouard NGIRENTE (since 30 August 2017)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (eligible for a second term); note - a constitutional amendment approved in December 2016 reduced the presidential term from 7 to 5 years but included an exception that allowed President KAGAME to serve another 7-year term in 2017, potentially followed by two additional 5-year terms; election last held on 4 August 2017 (next to be held on 15 July 2029); prime minister appointed by the president<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (eligible for a second term); election last held on 4 August 2017 (next to be held on 15 July 2029); prime minister appointed by the president<br>
 _election results_: <em><br>2024: </em>Paul KAGAME reelected president; Paul KAGAME (RPF) 99.2%, Frank HABINEZA (DGPR) 0.5%, Philippe MPAYIMANA (independent) 0.3%<br><br><em>2017:</em> Paul KAGAME reelected president; Paul KAGAME (RPF) 98.8%, Philippe MPAYIMANA (independent), other 1.2%<br><br> <p> </p><br>
+<strong>note:</strong> a constitutional amendment in 2016 reduced the presidential term from 7 to 5 years but included an exception that allowed President KAGAME to serve another 7-year term in 2017, potentially followed by two additional 5-year terms<br>
 
 **Legislative branch**<br>
 _legislature name_: Parlement (Parliament)<br>
@@ -616,11 +617,6 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 _total subscriptions_: 12.8 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 80 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Rwanda was slow to liberalize the mobile sector; there was effective competition among three operators; the fixed broadband sector has suffered from limited fixed-line infrastructure and high prices; operators are rolling out national backbone networks which also allow them to connect to the international submarine cables on Africa&rsquo;s east coast; these cables gave the entire region greater internet bandwidth and ended the dependency on satellites; while the country also has a new cable link with Tanzania, and via Tanzania&rsquo;s national broadband backbone it has gained connectivity to the networks of several other countries in the region; the number of subscribers on LTE infrastructure has increased sharply, helped by national LTE coverage achieved in mid-2018; mobile remains the dominant platform for voice and data services; the regulator noted that the number of mobile subscribers increased 2.7% in 2021, year-on-year; there was a slight fall in the beginning of 2022 (2022)<br>
-_domestic_: fixed-line less than 1 per 100 and mobile-cellular telephone density is 81 telephones per 100 persons (2021)<br>
-_international_: country code - 250; international connections employ microwave radio relay to neighboring countries and satellite communications to more distant countries; satellite earth stations - 1 Intelsat (Indian Ocean) in Kigali (includes telex and telefax service); international submarine fiber-optic cables on the African east coast has brought international bandwidth and lessened the&nbsp;dependency on satellites<br>
-
 **Broadcast media**<br>
 13 TV stations; 35 radio stations, including international broadcasters; government owns most popular TV and radio stations; regional satellite-based TV available<br>
 
@@ -655,7 +651,7 @@ Rwanda Defense Force (RDF; Ingabo z’u Rwanda): Rwanda Army (Rwanda Land Force)
 1.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 30-35,000 active RDF personnel (2025)<br>
+approximately 30-35,000 active Rwanda Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the RDF's inventory includes a mix of older and some modern equipment from suppliers such as China, France, Israel, Russia and the former Soviet Union, South Africa, and Turkey (2024)<br>

@@ -459,10 +459,6 @@ _subscriptions per 100 inhabitants_: 11 (2023 est.)<br>
 _total subscriptions_: 8,891,100,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 111 (2023 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Information, Communications, and Technology (ICT) is tied to economic growth; business, trade, and foreign direct investment are all based on effective sources of ICT, and development of ICT flourishes with a vigorous economy, open trade, and sound regulation; some 2020 estimates point to a digital economy worth $11.5 trillion globally, equivalent to 15.5% of global GDP (with ICT growing 2.5 times faster than global GDP over the past 15 years); 2020 reports indicate about 7.7 billion global mobile broadband subscriptions, rising from 3.3 billion in five years, and over 1.1 billion fixed broadband subscribers, up from 830 million in 2015<br>
-_international_: <em>economic impact</em> - telecommunications has been and continues to be one of the world’s fastest growing markets; countries and firms are transitioning from analog to digital broadcasting, increasing automation capabilities and applications, adopting more high-definition technologies, and converting to digital channels<br><br>broadcasting typically refers to transmission of information to all devices in a network without any acknowledgment by the receivers; data-processing parts and accessories includes many supporting elements to broadcasting equipment, such as monitors, keyboards, printers, etc.<br>
-
 **Internet users**<br>
 _percent of population_: 67% (2023 est.)<br>
 <strong>top ten countries by Internet usage (in millions):</strong> 854 China; 560 India; 293 United States; 171 Indonesia; 149 Brazil; 123 Nigeria; 119 Japan; 116 Russia; 96 Bangladesh; 88 Mexico (2023)<br>
@@ -470,9 +466,6 @@ _percent of population_: 67% (2023 est.)<br>
 **Broadband - fixed subscriptions**<br>
 _total_: 1,495,600,000 (2023 est.) note - the number of fixed broadband subscriptions has been higher than that of fixed telephony since 2017<br>
 _subscriptions per 100 inhabitants_: 18 (2022 est.)<br>
-
-**Communications - note**<br>
-<strong>note 1:</strong> the development of formal postal systems may be traced back thousands of years; the earliest documented organized courier service for the dissemination of written dispatches was set up by the pharaohs of Ancient Egypt (ca. 2400 B.C.); the invention of a true postal system organized for delivery of post to citizens is credited to Ancient Persia (6th century B.C.); other credible early postal services are those of Ancient India (Mauryan Empire, 4th century B.C.) and Ancient China (Han Dynasty, 3rd century B.C.) <br><br><strong>note 2: </strong>data centers consist of a dedicated space within a building or a group of buildings used to house computing resources and other components, such as telecommunications and storage systems; the ongoing worldwide boom in data generation is responsible for the mushrooming of data centers; the three largest data center facilities by area as of the first half of 2022 are:<br> <br>1. the China Telecom data center located in the Inner Mongolia Information Park, Hohhot, China, reportedly covers 1 million sq m (10.7 million sq ft); the largest Internet data center in the world, it has over 50% market share in China, with an extensive network of over 400 data centers located in prime regions in mainland China and overseas markets<br><br>2. the China Mobile data center located in the Inner Mongolia Information Park, Hohhot, China, covers 720,000 sq m (7.7 million sq ft); it is one of the world's biggest cloud-computing data centers<br><br>3. the Citadel data center owned by US-based Switch, in Reno, Nevada, covers 670,000 sq m (7.2 million sq ft); called the world’s largest technology ecosystem, the facility runs on 100% renewable (solar and wind) energy (2021)<br>
 
 ## Transportation
 

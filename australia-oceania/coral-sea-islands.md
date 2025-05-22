@@ -105,11 +105,6 @@ the flag of Australia is used<br>
 
 ## Economy
 
-## Communications
-
-**Communications - note**<br>
-automatic weather stations on many of the isles and reefs relay data to the mainland<br>
-
 ## Transportation
 
 ## Military and Security

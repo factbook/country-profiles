@@ -606,11 +606,6 @@ _subscriptions per 100 inhabitants_: 23 (2023 est.)<br>
 _total subscriptions_: 5.76 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 113 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Ireland&rsquo;s telecom market has rebounded from a long period in which fiscal constraints inhibited investment in the sector; significant infrastructure projects are underway, including the NBN which aims to deliver a fiber-based service of at least 150Mb/s nationally by the end of 2022; the renewed optimism has been seen in company investment in extending fiber-based networks providing 1Gb/s services; the mobile sector is preparing for a multi-frequency availability later in 2021 which will greatly increase the amount of frequencies available, and provide a boost for 5G services; the MNOs are rapidly expanding the reach of 5G (2021)<br>
-_domestic_: fixed-line 32 per 100 and mobile-cellular 108 per 100 subscriptions. (2021)<br>
-_international_: country code - 353; landing point for the&nbsp;AEConnect&nbsp;-1,&nbsp;Celtic-Norse, Havfrue/AEC-2, GTT Express, Celtic, ESAT-1, IFC-1, Solas, Pan European Crossing, ESAT-2, CeltixConnect -1 &amp; 2, GTT Atlantic, Sirius South, Emerald Bridge Fibres&nbsp;and Geo Eirgrid&nbsp;submarine cable with links to the US, Canada, Norway, Isle of Man and UK; satellite earth stations - 81 (2019)<br>
-
 **Broadcast media**<br>
 publicly owned broadcaster Radio Telefis Eireann (RTE) operates 4 TV stations; commercial TV stations are available; about 75% of households use multi-channel satellite and TV services that provide access to a wide range of stations; RTE operates 4 national radio stations and has launched digital audio broadcasts on several; a number of commercial broadcast stations operate at the national, regional, and local levels (2019)<br>
 
@@ -665,7 +660,7 @@ Irish Defense Forces (Oglaigh na h-Eireannn): Army, Air Corps, Naval Service, Re
 0.3% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 7,500 active-duty personnel (authorized establishment of 9,500)&nbsp; (2024)<br>
+approximately 7,500 active-duty Defense Forces (authorized establishment of 9,500) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Irish Defense Forces have a small inventory of imported weapons systems from a variety of mostly European countries, particularly the UK (2024)<br>

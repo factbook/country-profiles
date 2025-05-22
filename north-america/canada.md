@@ -70,7 +70,7 @@ _other_: 54% (2022 est.)<br>
 _fresh water lake(s)_: Huron* - 35,972 sq km; Great Bear Lake - 31,328 sq km; Superior* - 28,754 sq km; Great Slave Lake - 28,568 sq km; Lake Winnipeg - 24,387 sq km; Erie* - 12,776 sq km; Ontario* - 9,790 sq km; Lake Athabasca - 7,935 sq km; Reindeer Lake - 6,650 sq km; Nettilling Lake - 5,542 sq km<br>note - Great Lakes* area shown as Canadian waters<br>
 
 **Major rivers (by length in km)**<br>
-Mackenzie - 4, 241 km; Yukon river source (shared with the US [m]) - 3,185 km; Saint Lawrence river mouth (shared with US) - 3,058 km; Nelson - 2,570 km; Columbia river source (shared with the US [m]) - 1,953 km; Churchill - 1,600 km; Fraser - 1,368 km; Ottawa - 1,271 km; Athabasca - 1,231 km; North Saskatchewan - 1,220 km; Liard - 1,115 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Mackenzie - 4,241 km; Yukon river source (shared with the US [m]) - 3,185 km; Saint Lawrence river mouth (shared with US) - 3,058 km; Nelson - 2,570 km; Columbia river source (shared with the US [m]) - 1,953 km; Churchill - 1,600 km; Fraser - 1,368 km; Ottawa - 1,271 km; Athabasca - 1,231 km; North Saskatchewan - 1,220 km; Liard - 1,115 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Mississippi* <em>(Gulf of America)</em> (3,202,185 sq km, Canada only 32,000 sq km), Nelson <em>(Hudson Bay)</em> (1,093,141 sq km), Saint Lawrence* (1,049,636 sq km, Canada only 839,200 sq km)<br>Arctic Ocean drainage: Mackenzie (1,706,388 sq km)<br>Pacific Ocean drainage: Yukon* (847,620 sq km, Canada only 823,800 sq km), Columbia* (657,501 sq km, Canada only 103,000 sq km)<br>note - watersheds shared with the US shown with *<br>
@@ -276,7 +276,7 @@ _percent of municipal solid waste recycled_: 20.6% (2008 est.)<br>
 _fresh water lake(s)_: Huron* - 35,972 sq km; Great Bear Lake - 31,328 sq km; Superior* - 28,754 sq km; Great Slave Lake - 28,568 sq km; Lake Winnipeg - 24,387 sq km; Erie* - 12,776 sq km; Ontario* - 9,790 sq km; Lake Athabasca - 7,935 sq km; Reindeer Lake - 6,650 sq km; Nettilling Lake - 5,542 sq km<br>note - Great Lakes* area shown as Canadian waters<br>
 
 **Major rivers (by length in km)**<br>
-Mackenzie - 4, 241 km; Yukon river source (shared with the US [m]) - 3,185 km; Saint Lawrence river mouth (shared with US) - 3,058 km; Nelson - 2,570 km; Columbia river source (shared with the US [m]) - 1,953 km; Churchill - 1,600 km; Fraser - 1,368 km; Ottawa - 1,271 km; Athabasca - 1,231 km; North Saskatchewan - 1,220 km; Liard - 1,115 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Mackenzie - 4,241 km; Yukon river source (shared with the US [m]) - 3,185 km; Saint Lawrence river mouth (shared with US) - 3,058 km; Nelson - 2,570 km; Columbia river source (shared with the US [m]) - 1,953 km; Churchill - 1,600 km; Fraser - 1,368 km; Ottawa - 1,271 km; Athabasca - 1,231 km; North Saskatchewan - 1,220 km; Liard - 1,115 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Mississippi* <em>(Gulf of America)</em> (3,202,185 sq km, Canada only 32,000 sq km), Nelson <em>(Hudson Bay)</em> (1,093,141 sq km), Saint Lawrence* (1,049,636 sq km, Canada only 839,200 sq km)<br>Arctic Ocean drainage: Mackenzie (1,706,388 sq km)<br>Pacific Ocean drainage: Yukon* (847,620 sq km, Canada only 823,800 sq km), Columbia* (657,501 sq km, Canada only 103,000 sq km)<br>note - watersheds shared with the US shown with *<br>
@@ -346,7 +346,7 @@ _residency requirement for naturalization_: minimum of 3 of last 5 years residen
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Mary SIMON (since 26 July 2021)<br>
 _head of government_: Prime Minister Mark CARNEY (since 14 March 2025)<br>
 _cabinet_: Federal Ministry chosen by the prime minister usually from among members of his/her own party sitting in Parliament<br>
-_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister for a 5-year term; following legislative elections, the leader of the majority party or majority coalition in the House of Commons generally designated prime minister by the governor general<br>
+_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister for a 5-year term; after legislative elections, the leader of the majority party or majority coalition in the House of Commons usually designated prime minister by the governor general<br>
 <strong>note:</strong> the governor general position is largely ceremonial<br>
 
 **Legislative branch**<br>
@@ -639,11 +639,6 @@ _subscriptions per 100 inhabitants_: 28 (2023 est.)<br>
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 36.5 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 91 (2022 est.)<br>
-
-**Telecommunication systems**<br>
-_general assessment_: the Canadian telecom market continues to show steady development as operators invest in network upgrades; much of the investment among telcos has been channeled into LTE infrastructure to capitalize on consumer demand for mobile data services, while there has also been further investment in 5G; investment programs have also been supported by regulatory efforts to ensure that operators have spectrum available to develop 5G services; an investment in fixed-line infrastructure, focused on FttP and, among cable broadband providers; government policy has encouraged the extension of broadband to rural and regional areas, with the result that services are almost universally available and the emphasis now is on improving service speeds to enable the entire population to benefit from the digital economy and society; cable broadband is the principal access platform, followed by DSL; the mobile rate remains comparatively low by international standards; Canadians have provided for LTE and LTE-A infrastructure; despite topographical challenges and the remoteness of many areas, the major players effectively offer 99% population coverage with LTE; operators now provide up to 70% population coverage with 5G (2024)<br>
-_domestic_: Nearly 29 per 100 fixed-line and 91 per 100 mobile-cellular teledensity (2022)<br>
-_international_: country code - 1; landing points for the Nunavut Undersea Fiber Optic Network System, Greenland Connect, Persona, GTT Atlantic, and Express, KetchCan 1 Submarine Fiber Cable system, St Pierre and Miquelon Cable submarine cables providing links to the US and Europe; satellite earth stations - 7 (5 Intelsat - 4 Atlantic Ocean and 1 Pacific Ocean, and 2 Intersputnik - Atlantic Ocean region) (2019)<br>
 
 **Broadcast media**<br>
 2 public TV broadcasting networks, 1 in English and 1 in French, each with a large number of network affiliates; several private commercial networks, also with multiple network affiliates; a total of about 150 TV stations, accessible via multi-channel satellite and cable systems; mix of public and commercial radio, with over 1,000 licensed stations; public broadcaster Canadian Broadcasting Corporation (CBC) provides 4 radio networks, Radio Canada International, and radio services to ethnic populations in the north (2016)<br>

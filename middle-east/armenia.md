@@ -603,13 +603,8 @@ _subscriptions per 100 inhabitants_: 11 (2023 est.)<br>
 _total subscriptions_: 3.96 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 135 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: <p>the telecom sector has posted modest gains in the mobile and broadband segments; fixed-line services continue to decrease with the rollout of fiber networks; the fixed broadband market remains undeveloped due to the lack of infrastructure outside the main cities; mobile broadband is expected to increase by 2026</p> (2024)<br>
-_domestic_: roughly 13 per 100 fixed-line and 135 per 100 mobile-cellular; reliable fixed-line and mobile-cellular services are available across Yerevan and in major cities and towns; mobile-cellular coverage available in most rural areas (2022)<br>
-_international_: country code - 374; Yerevan is connected to the&nbsp;Caucasus Cable System&nbsp;fiber-optic cable through Georgia and Iran to Europe; additional international service is available by microwave radio relay and landline connections to the other countries of the Commonwealth of Independent States, through the Moscow international switch, and by satellite to the rest of the world; satellite earth stations - 3 (2019)<br>
-
 **Broadcast media**<br>
-<p>government-run Public Television network operates alongside 100 privately owned TV stations that provide local to near-nationwide coverage; three Russian TV companies are broadcast under interstate agreements; subscription cable TV services are available in most regions; several major international broadcasters are available, including CNN; Armenian TV completed conversion from analog to digital broadcasting in 2016; Public Radio of Armenia is a national, state-run broadcast network that operates alongside 18 privately owned radio stations</p> (2024)<br>
+government-run Public Television network operates alongside 100 privately owned TV stations that provide local to near-nationwide coverage; three Russian TV companies are broadcast under interstate agreements; subscription cable TV services are available in most regions; several major international broadcasters are available, including CNN; Armenian TV completed conversion from analog to digital broadcasting in 2016; Public Radio of Armenia is a national, state-run broadcast network that operates alongside 18 privately owned radio stations (2024)<br>
 
 **Internet country code**<br>
 .am<br>
@@ -649,7 +644,7 @@ Armenian Republic Armed Forces: Armenian Army (includes land, air, air defense f
 5% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 40-50,000 active Armenian Armed Forces troops (2025)<br>
+approximately 40-50,000 active Armenian Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes mostly Russian and Soviet-era equipment; in recent years however, Armenia has looked to other countries besides Russia to provide military hardware, including France and India (2024)<br>

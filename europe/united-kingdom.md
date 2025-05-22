@@ -326,10 +326,10 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022)<br>
-_head of government_: Prime Minister Keir STARMER (Labor) (since 5 July 2024)<br>
+_head of government_: Prime Minister Keir STARMER (since 5 July 2024)<br>
 _cabinet_: Cabinet appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually becomes the prime minister; election last held on 12 December 2019 (next to be held no later than 28 January 2025)<br>
-<strong>note 1:</strong> in addition to serving as the UK head of state, the British sovereign is the constitutional monarch for 14 additional Commonwealth countries (these 15 states are each referred to as a Commonwealth realm)<br><br><strong>note 2</strong>: King CHARLES succeeded his mother, Queen ELIZABETH II, after serving as Prince of Wales (heir apparent) for over 64 years - the longest such tenure in British history<br>
+<strong>note 1:</strong> in addition to serving as the UK head of state, the British sovereign is the constitutional monarch for 14 additional Commonwealth countries (each referred to as a "Commonwealth realm")<br><br><strong>note 2</strong>: King CHARLES III succeeded his mother, Queen ELIZABETH II, after serving as Prince of Wales (heir apparent) for over 64 years -- the longest such tenure in British history<br>
 
 **Legislative branch**<br>
 _legislature name_: UK Parliament<br>
@@ -627,11 +627,6 @@ _subscriptions per 100 inhabitants_: 39 (2023 est.)<br>
 _total subscriptions_: 84.3 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 121 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: UK&rsquo;s telecom market remains one of the largest in Europe, characterized by competition, affordable pricing, and its technologically advanced systems; mobile penetration above the EU average; government to invest in infrastructure and 5G technologies with ambition for a fully-fibered nation by 2033; operators expanded the reach of 5G services in 2020; super-fast broadband available to about 95% of customers; London is developing smart city technology, in collaboration with private, tech, and academic sectors (2021)<br>
-_domestic_: fixed-line is 48 per 100 and mobile-cellular is 120 per 100 (2021)<br>
-_international_: country code - 44;&nbsp;Landing points for the GTT Atlantic, Scotland-Northern Ireland -1, &amp; -2, Lanis 1,-2, &amp;-3, Sirius North, BT-MT-1, SHEFA-2, BT Highlands and Islands Submarine Cable System, Northern Lights, FARICE-1, Celtic Norse, Tampnet Offshore FOC Network, England Cable, CC-2, E-LLan, Sirius South, ESAT -1 &amp; -2, Rockabill, Geo-Eirgrid, UK-Netherlands-14, Circle North &amp; South, Ulysses2, Conceto, Farland North, Pan European Crossing,&nbsp;Solas, Swansea-Bream, GTT Express, Tata TGN-Atlantic &amp; -Western Europe, Apollo, EIG, Glo-1, TAT-14, Yellow, Celtic,&nbsp;FLAG Atlantic-1, FEA, Isle of Scilly Cable, UK-Channel Islands-8 and SeaMeWe-3&nbsp;submarine cables providing links throughout Europe, Asia, Africa, the Middle East, Southeast Asia, Australia,&nbsp;and US; satellite earth stations - 10 Intelsat (7 Atlantic Ocean and 3 Indian Ocean), 1 Inmarsat (Atlantic Ocean region), and 1 Eutelsat; at least 8 large international switching centers (2019)<br>
-
 **Broadcast media**<br>
 public-service British Broadcasting Corporation (BBC) is the largest broadcasting company in the world; BBC operates multiple TV networks with regional and local TV; mixed system of public and commercial TV broadcasters along with satellite and cable systems provide access to hundreds of international TV stations; BBC operates multiple national, regional, and local radio networks with multiple transmission sites; large number of commercial and satellite radio stations available (2018)<br>
 
@@ -644,9 +639,6 @@ _percent of population_: 95% (2022 est.)<br>
 **Broadband - fixed subscriptions**<br>
 _total_: 28.2 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 41 (2023 est.)<br>
-
-**Communications - note**<br>
-<p>note 1: the British Library claims to be the largest library in the world with well over 150 million items and in most known languages; it receives copies of all books produced in the UK or Ireland, as well as a significant proportion of overseas titles distributed in the UK; in addition to books (print and digital), holdings include: journals, manuscripts, newspapers, magazines, sound and music recordings, videos, maps, prints, patents, and drawings<br><br>note 2: on 1 May 1840, the United Kingdom led the world with the introduction of postage stamps; the Austrian Empire had examined the idea of an "adhesive tax postmark" for the prepayment of postage in 1835; while the suggestion was reviewed in detail, it was rejected for the time being; other countries (including Austria) soon followed the UK's example with their own postage stamps; by the 1860s, most countries were issuing stamps; originally, stamps had to be cut from sheets; the UK issued the first postage stamps with perforations in 1854</p><br>
 
 ## Transportation
 

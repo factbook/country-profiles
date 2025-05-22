@@ -227,11 +227,6 @@ _Currency_: New Zealand dollars (NZD) per US dollar -<br>
 
 ## Communications
 
-**Telecommunication systems**<br>
-_general assessment_: satellite-based phone services; rural connectivity a challenge; 2G services widespread; demand for mobile broadband due to mobile services providing Internet source; the launch of the Kacific-1 satellite in 2019 will improve telecommunications in the region (2020)<br>
-_domestic_: local phone service with international connections via Internet (2018)<br>
-_international_: country code - 872; satellite earth station - 1 Inmarsat<br>
-
 **Broadcast media**<br>
 satellite TV from Fiji-based Sky Pacific offering a wide range of international channels<br>
 
@@ -240,9 +235,6 @@ satellite TV from Fiji-based Sky Pacific offering a wide range of international 
 
 **Internet users**<br>
 _percent of population_: 96.2% (2021 est.)<br>
-
-**Communications - note**<br>
-satellite-based local phone service and broadband Internet connections available in all homes<br>
 
 ## Transportation
 

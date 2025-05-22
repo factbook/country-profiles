@@ -211,7 +211,7 @@ _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<
 _etymology_: founded and named in 1763 by John PHILIPS, a Scottish captain in the Dutch navy<br>
 
 **Administrative divisions**<br>
-<p>none (part of the Kingdom of the Netherlands)</p><br>
+none (part of the Kingdom of the Netherlands)<br>
 <strong>note:</strong> Sint Maarten is one of four constituent countries of the Kingdom of the Netherlands; the other three are the Netherlands, Aruba, and Curacao<br>
 
 **Independence**<br>
@@ -386,11 +386,6 @@ _electrification - total population_: 100% (2022 est.)<br>
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 68,840 (2012 est.)<br>
 _subscriptions per 100 inhabitants_: 196 (2012 est.)<br>
-
-**Telecommunication systems**<br>
-_general assessment_: generally adequate facilities; growth sectors include mobile telephone and data segments; effective competition; LTE expansion; tourism and telecom sector contribute greatly to the GDP (2018)<br>
-_domestic_: 196 per 100 mobile-cellular teledensity (2012)<br>
-_international_: country code - 1-721; landing points for SMPR-1 and the ECFS submarine cables providing connectivity to the Caribbean; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Internet country code**<br>
 <p>.sx; note - IANA has designated .sx for Sint Maarten, but has not yet assigned it to a sponsoring organization</p><br>

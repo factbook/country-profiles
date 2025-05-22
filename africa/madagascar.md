@@ -579,11 +579,6 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 _total subscriptions_: 25.4 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 70 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: internet service is fast compared to other African countries, and telecom services in Madagascar have benefited from intensifying competition between the main operators; there have been positive developments with the country&rsquo;s link to international submarine cables, particularly the METISS cable connecting to South Africa and Mauritius; in addition, the country&rsquo;s connection to the Africa-1 cable, which arrived in 2023, provides links to Kenya, Djibouti, countries in north and south Africa, as well as Pakistan, the UAE, Saudi Arabia, and France; a national fiber backbone has been implemented connecting the major cities, however much of the fiber in country has been installed by Huawei, which also manages data centers for the government; in addition, the government has progressed with its five-year plan to develop a digital platform running to 2024; various schemes within the program have been managed by a unit within the President&rsquo;s office; penetration rates in all market sectors remain below the average for the African region, and so there remains considerable growth potential; much progress was made in 2020, stimulated by the particular conditions related to the pandemic, which encouraged greater use of voice and data services (2022)<br>
-_domestic_: less than 1 per 100 for fixed-line and mobile-cellular teledensity about 56 per 100 persons (2021)<br>
-_international_: country code - 261; landing points for the EASSy, METISS, and LION fiber-optic submarine cable systems connecting to numerous Indian Ocean Islands, South Africa, and Eastern African countries; satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Intersputnik - Atlantic Ocean region) (2019)<br>
-
 **Broadcast media**<br>
 state-owned Radio Nationale Malagasy (RNM) and Television Malagasy (TVM) have an extensive national network reach; privately owned radio and TV broadcasters in cities and major towns; state-run radio dominates in rural areas; relays of 2 international broadcasters are available in Antananarivo (2019)<br>
 
@@ -636,7 +631,7 @@ Madagascar Armed Forces (aka Armed forces of the Republic of Madagascar); Malaga
 0.5% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 13,000 Armed Forces personnel; estimated 10,000 Gendarmerie (2025)<br>
+estimated 13,000 Armed Forces; estimated 10,000 Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists mostly of older or secondhand weapons and equipment originating from countries such as France, South Africa, the UAE, the UK, and the former Soviet Union (2024)<br>

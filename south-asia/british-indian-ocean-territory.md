@@ -110,7 +110,7 @@ _history_: British Indian Ocean Territory (Constitution) Order 2004<br>
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022)<br>
-_head of government_: Commissioner Nishi DHOLAKIA (since 16 December 2024); Administrator Bob FAIRWEATHER; note - both reside in the UK and are represented by Commander Andrew WILLIAMS, RN, Officer commanding British Forces on Diego Garcia (since January 2025)<br>
+_head of government_: Commissioner Nishi DHOLAKIA (since 16 December 2024); Administrator Bob FAIRWEATHER; both reside in the UK and are represented by Commander Andrew WILLIAMS, RN, the officer commanding British Forces on Diego Garcia (since January 2025)<br>
 _cabinet_: NA<br>
 _elections/appointments_: the monarchy is hereditary; commissioner and administrator appointed by the monarch<br>
 
@@ -154,11 +154,6 @@ refined petroleum, animal products, aluminum structures, insulated wire, prefabr
 <p>the US dollar is used</p><br>
 
 ## Communications
-
-**Telecommunication systems**<br>
-_general assessment_: separate facilities for military and public needs are available (2018)<br>
-_domestic_: all commercial telephone services are available, including connection to the Internet (2018)<br>
-_international_: country code (Diego Garcia) - 246; landing point for the SAFE submarine cable that provides direct connectivity to Africa, Asia and near-by Indian Ocean&nbsp;island countries;&nbsp;international telephone service is carried by satellite (2019)<br>
 
 **Broadcast media**<br>
 Armed Forces Radio and Television Service (AFRTS) broadcasts over 3 frequencies for US and UK military personnel stationed on the islands<br>

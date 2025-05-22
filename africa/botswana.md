@@ -62,7 +62,7 @@ _other_: 27.9% (2022 est.)<br>
 25 sq km (2014)<br>
 
 **Major rivers (by length in km)**<br>
-<p>Zambezi (shared with Zambia [s]), Angola, Namibia, Zimbabwe, and Mozambique [m]) - 2,740 km; Limpopo (shared with South Africa [s], Zimbabwe, and Mozambique [m]) - 1,800 km; Okavango river mouth (shared with Angola [s], and Namibia) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
+<p>Zambezi (shared with Zambia [s]), Angola, Namibia, Zimbabwe, and Mozambique [m]) - 2,740 km; Limpopo (shared with South Africa [s], Zimbabwe, and Mozambique [m]) - 1,800 km; Okavango river mouth (shared with Angola [s], and Namibia) - 1,600 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Orange (941,351 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
@@ -261,7 +261,7 @@ _municipal solid waste recycled annually_: 2,109 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 1% (2005 est.)<br>
 
 **Major rivers (by length in km)**<br>
-<p>Zambezi (shared with Zambia [s]), Angola, Namibia, Zimbabwe, and Mozambique [m]) - 2,740 km; Limpopo (shared with South Africa [s], Zimbabwe, and Mozambique [m]) - 1,800 km; Okavango river mouth (shared with Angola [s], and Namibia) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
+<p>Zambezi (shared with Zambia [s]), Angola, Namibia, Zimbabwe, and Mozambique [m]) - 2,740 km; Limpopo (shared with South Africa [s], Zimbabwe, and Mozambique [m]) - 1,800 km; Okavango river mouth (shared with Angola [s], and Namibia) - 1,600 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Orange (941,351 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
@@ -329,7 +329,7 @@ _chief of state_: President Duma BOKO (since 1 November 2024)<br>
 _head of government_: President Duma BOKO (since 1 November 2024)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 31 October 2024 (next to be held in October 2029); vice president appointed by the president<br>
-_election results_: National elections held in 2024 gave BOKO's UDC 35 seats in the National Assembly, which then selected BOKO as President<br>
+_election results_: national elections held in 2024 gave BOKO's UDC 35 seats in the National Assembly, which then selected BOKO as president<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -599,11 +599,6 @@ _subscriptions per 100 inhabitants_: 4 (2023 est.)<br>
 _total subscriptions_: 4.44 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 165 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: effective regulatory reform has made Botswana&rsquo;s telecom market one of the most liberalized in the region; there is a service-neutral licensing regime adapted to the convergence of technologies and services, and several operators now compete in all telecom sectors; Botswana has one of the highest mobile penetration rates in Africa; in a bid to generate new revenue streams and secure market share, the three mobile network operators have entered the underdeveloped broadband sector by adopting of 3G, LTE, and WiMAX technologies; in the fixed-line broadband market they compete with a large number of ISPs, some of which have rolled out their own wireless access infrastructure; the landlocked country depends on satellites for international bandwidth, and on other countries for transit capacity to the landing points of international submarine cables; the landing of additional cables in the region in recent years has improved the competitive situation in this sector, while prices for connectivity have fallen dramatically (2022)<br>
-_domestic_: fixed-line teledensity has declined in recent years and now stands at roughly 5 telephones per 100 persons; mobile-cellular teledensity is roughly 161 telephones per 100 persons (2021)<br>
-_international_: country code - 267; international calls are made via satellite, using international direct dialing; 2 international exchanges; digital microwave radio relay links to Namibia, Zambia, Zimbabwe, and South Africa; satellite earth station - 1 Intelsat (Indian Ocean)<br>
-
 **Broadcast media**<br>
 2 TV stations, 1 state-owned and 1 privately owned; privately owned satellite TV subscription service is available; 2 state-owned national radio stations; 4 privately owned radio stations broadcast locally (2019)<br>
 
@@ -632,7 +627,7 @@ _narrow gauge_: 888 km (2014) 1.067-m gauge<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Botswana Defense Force (BDF): Ground Forces Command, Air Arm Command, Defense Logistics Command (2024)<br>
+Botswana Defense Force (BDF): Ground Forces Command, Air Arm Command, Defense Logistics Command (2025)<br>
 <strong>note 1:</strong> both the BDF and the Botswana Police Service (BPS) report to the Ministry of Defense, Justice and Security; the BPS has primary responsibility for internal security<br><br><strong>note 2: </strong>the Ground Force Command includes a marine unit with boats and river craft for patrolling Botswana's internal waterways and supporting anti-poaching operations<br>
 
 **Military expenditures**<br>
@@ -643,7 +638,7 @@ Botswana Defense Force (BDF): Ground Forces Command, Air Arm Command, Defense Lo
 2.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 10,000 active BDF personnel (2025)<br>
+estimated 10,000 active Botswana Defense Force (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the BDF has a mix of mostly older weapons and equipment, largely of Western/European origin; in recent years, it has received limited amounts of material from several European countries and the US (2024)<br>

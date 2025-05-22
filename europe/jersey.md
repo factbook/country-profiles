@@ -392,11 +392,6 @@ _subscriptions per 100 inhabitants_: 47 (2021 est.)<br>
 _total subscriptions_: 124,083 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 120 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: the telecommunication services comprise of Internet, telephone, broadcasting and postal services, which allow islanders to contact people and receive information; Internet connectivity to the rest of the world is provided by undersea cables linked to Guernsey, the UK and France; (2021)<br>
-_domestic_: fixed-line 47 per 100 and mobile-cellular 120 per 100 subscriptions (2021)<br>
-_international_: country code - 44; landing points for the INGRID, UK-Channel Islands-8, and Guernsey-Jersey-4, submarine cable connectivity to Guernsey, the UK, and France (2019)<br>
-
 **Broadcast media**<br>
 multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey; satellite packages available; BBC Radio Jersey and 1 other radio station operating<br>
 

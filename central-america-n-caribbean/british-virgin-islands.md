@@ -258,7 +258,7 @@ _chief of state_: King CHARLES III (since 8 September 2022); represented by Gove
 _head of government_: Premier Dr. Natalio WHEATLEY (since 5 May 2022)<br>
 _cabinet_: Executive Council appointed by the governor from members of the House of Assembly<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor<br>
-<strong>note;</strong> on 5 May 2022, Premier Andrew FAHIE was removed from office by a no confidence vote in House of Assembly following his arrest on drug trafficking and money laundering charges on 28 April 2022; Premier Dr. Natalio WHEATLEY sworn in as premier on 5 May 2022<br>
+<strong>note:</strong> on 5 May 2022, Premier Andrew FAHIE was removed from office by a no-confidence vote in the House of Assembly after his arrest on drug-trafficking and money-laundering charges; Premier Dr. Natalio WHEATLEY was sworn in as premier on 5 May 2022<br>
 
 **Legislative branch**<br>
 _legislature name_: House of Assembly<br>
@@ -412,11 +412,6 @@ _subscriptions per 100 inhabitants_: 17 (2022 est.)<br>
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 38,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 121 (2021 est.)<br>
-
-**Telecommunication systems**<br>
-_general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one major casualty may be the region&rsquo;s second largest telco operator, Digicel; the company filed for bankruptcy in the US in April 2020; it continues to operate in all of its Caribbean markets as it seeks to refinance billions of dollars of debt; the other major telco, regional incumbent Cable &amp; Wireless Communications (CWC), is experiencing similar drops in subscriber numbers and revenue; CWC is expanding and enhancing its fixed and mobile networks in many of the countries it serves around the Caribbean, despite many locations being small islands with very small populations; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage. (2021)<br>
-_domestic_: fixed-line connections exceed 22 per 100 persons and mobile cellular subscribership is roughly 110 per 100 persons (2021)<br>
-_international_: country code - 1-284; landing points for PCCS, ECFS, CBUS, Deep Blue Cable, East-West, PAN-AM, Americas-1, Southern Caribbean Fiber, Columbus- IIb, St Thomas - St Croix System, Taino-Carib, and Americas I- North&nbsp;via submarine cable to Caribbean, Central and South America, and US (2019)<br>
 
 **Broadcast media**<br>
 1 private TV station; multi-channel TV is available from cable and satellite subscription services; about a half-dozen private radio stations<br>

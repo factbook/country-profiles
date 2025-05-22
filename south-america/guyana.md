@@ -317,7 +317,7 @@ _residency requirement for naturalization_: na<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Mohammed Irfaan ALI (since 2 August 2020)&nbsp;<br>
+_chief of state_: President Mohammed Irfaan ALI (since 2 August 2020)<br>
 _head of government_: President Mohammed Irfaan ALI (since 2 August 2020)<br>
 _cabinet_: Cabinet of Ministers appointed by the president, responsible to the National Assembly<br>
 _elections/appointments_: the predesignated candidate of the winning party in the last National Assembly election becomes president for a 5-year term (no term limits); election last held on 2 March 2020 (next to be held in 2025); prime minister appointed by the president<br>
@@ -560,11 +560,6 @@ _subscriptions per 100 inhabitants_: 15 (2022 est.)<br>
 _total subscriptions_: 856,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 106 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: after many years of delays and legal challenges, the 2016 Telecommunications Act was brought into force in October 2020 by the newly elected government of the People&rsquo;s Party Progressive (PPP); the Telecommunications Act sets out a framework for enabling competition across all segments of the telecommunications sector in Guyana; the mobile market has been open to competition since 2001; the Telecommunications Act presents the country with the potential to benefit from a more level playing field that may attract new players, but nevertheless Guyana&rsquo;s relatively small size and low GDP may restrict it from reaching its full potential for some more years to come (2021)<br>
-_domestic_: fixed-line teledensity is about 16 per 100 persons; mobile-cellular teledensity about 110 per 100 persons (2021)<br>
-_international_: country code - 592; landing point for the SG-SCS submarine cable to Suriname,&nbsp;and the Caribbean;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
 government-dominated broadcast media; the National Communications Network (NCN) TV is state-owned; a few private TV stations relay satellite services; the state owns and operates 2 radio stations broadcasting on multiple frequencies; government limits on licensing of new private radio stations has constrained competition&nbsp;<br>
 
@@ -613,7 +608,7 @@ the Guyana Defense Force (GDF) is a unified force with ground, air, and coast gu
 1.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 3,500 active-duty military personnel (2025)<br>
+approximately 3,500 active-duty Guyana Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military has a limited inventory comprised mostly of older or second-hand platforms from a variety of foreign suppliers, including Brazil, China, the former Soviet Union, the UK, and the US (2024)<br>

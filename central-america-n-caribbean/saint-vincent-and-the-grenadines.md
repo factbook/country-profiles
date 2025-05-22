@@ -530,11 +530,6 @@ _subscriptions per 100 inhabitants_: 10 (2023 est.)<br>
 _total subscriptions_: 103,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 100 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: adequate island-wide, fully automatic telephone system; broadband access; expanded FttP (Fiber to the Home) markets; LTE launches; regulatory development; telecom sector contributes greatly to the overall GDP; telecom sector is a growth area (2020)<br>
-_domestic_: fixed-line teledensity is 11 per 100 persons and mobile-cellular teledensity is 110 per 100 persons (2021)<br>
-_international_: country code - 1-784;&nbsp;landing points for the ECFS, CARCIP&nbsp;and Southern Caribbean Fiber submarine cables providing connectivity to US and Caribbean Islands; connectivity also provided by VHF/UHF radiotelephone from Saint Vincent to Barbados; SHF radiotelephone to Grenada and Saint Lucia; access to Intelsat earth station in Martinique through Saint Lucia (2019)<br>
-
 **Broadcast media**<br>
 St. Vincent and the Grenadines Broadcasting Corporation operates 1 TV station and 5 repeater stations that provide near total coverage to the multi-island state; multi-channel cable TV service available; a partially government-funded national radio service broadcasts on 1 station and has 2 repeater stations; about a dozen privately owned radio stations and repeater stations<br>
 

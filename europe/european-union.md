@@ -466,9 +466,6 @@ _subscriptions per 100 inhabitants_: 36 (2022 est.)<br>
 _total subscriptions_: 552.316 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 124 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-note - see individual country entries of member states<br>
-
 **Internet country code**<br>
 .eu; note - see country entries of member states for individual country codes<br>
 

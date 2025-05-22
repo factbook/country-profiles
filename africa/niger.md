@@ -65,7 +65,7 @@ _other_: 62.4% (2022 est.)<br>
 _fresh water lake(s)_: Lake Chad (endorheic lake shared with Chad, Nigeria, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
 
 **Major rivers (by length in km)**<br>
-Niger (shared with Guinea [s], Mali, Benin, and Nigeria [m]) - 4,200 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Niger (shared with Guinea [s], Mali, Benin, and Nigeria [m]) - 4,200 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
@@ -275,7 +275,7 @@ _percent of municipal solid waste recycled_: 4% (2005 est.)<br>
 _fresh water lake(s)_: Lake Chad (endorheic lake shared with Chad, Nigeria, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
 
 **Major rivers (by length in km)**<br>
-Niger (shared with Guinea [s], Mali, Benin, and Nigeria [m]) - 4,200 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Niger (shared with Guinea [s], Mali, Benin, and Nigeria [m]) - 4,200 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
@@ -603,11 +603,6 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 _total subscriptions_: 14.2 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 56 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Niger is one of the largest countries in West Africa but also one of the poorest in the world; as with many African markets, a lack of fixed telecoms infrastructure has led to growth in mobile services; Niger&rsquo;s mobile penetration is modest compared to other countries in the region, while fixed broadband penetration is negligible; recent international investment to complete the Trans-Saharan Dorsal optical fiber (SDR) network has extended the reach of fiber infrastructure in the country, and also increased international capacity; new cables linking the country with Chad and Burkina Faso have extended Niger&rsquo;s connectivity with international cable infrastructure (2022)<br>
-_domestic_: fixed-line less than 1 per 100 persons and mobile-cellular at nearly 56 per 100 persons (2021)<br>
-_international_: country code - 227; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean)<br>
-
 **Broadcast media**<br>
 state-run TV station; 3 private TV stations provide a mix of local and foreign programming; state-run radio has the only radio station with national coverage; about 30 private local radio stations; as many as 100 community radio stations; transmissions of multiple international broadcasters are available<br>
 
@@ -643,7 +638,7 @@ Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force
 1.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 35-40,000 active FAN troops, including Gendarmerie; estimated 5-10,000 National Guard personnel (2025)<br>
+estimated 35-40,000 active Nigerien Armed Forces, including Gendarmerie; estimated 5-10,000 National Guard (2025)<br>
 <strong>note: </strong>in 2020, the Nigerien Government announced it intended to increase the size of the FAN to 50,000 by 2025 and 100,000 by 2030<br>
 
 **Military equipment inventories and acquisitions**<br>

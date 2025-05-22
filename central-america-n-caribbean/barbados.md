@@ -565,11 +565,6 @@ _subscriptions per 100 inhabitants_: 43 (2022 est.)<br>
 _total subscriptions_: 323,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 115 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage (2021)<br>
-_domestic_: fixed-line teledensity of roughly 43 per 100 persons; mobile-cellular telephone density about 113 per 100 persons (2021)<br>
-_international_: country code - 1-246; landing points for the ECFS and Southern Caribbean Fiber submarine cable with links to 15 other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad and Puerto Ricco; satellite earth stations - 1 (Intelsat - Atlantic Ocean); tropospheric scatter to Trinidad and Saint Lucia (2019)<br>
-
 **Broadcast media**<br>
 government-owned Caribbean Broadcasting Corporation (CBC) operates the lone terrestrial TV station; CBC also has a multi-channel cable TV subscription service; roughly a dozen CBC-operated radio stations operate alongside privately owned radio stations (2019)<br>
 
@@ -621,7 +616,7 @@ Barbados Defense Force (BDF): The Barbados Regiment, The Barbados Coast Guard (2
 0.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 600 active personnel (2025)<br>
+approximately 600 active BDF personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the BDF's major equipment inventory is comprised mostly of donated items from China, the Netherlands, and the US&nbsp; (2024)<br>

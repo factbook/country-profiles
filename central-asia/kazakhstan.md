@@ -66,7 +66,7 @@ _fresh water lake(s)_: Ozero Balkhash - 22,000 sq km; Ozero Zaysan - 1,800 sq km
 _salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Turkmenistan, and Russia) - 374,000 sq km; Aral Sea (north) - 3,300 sq km; Ozero Alakol - 2,650 sq km; Ozero Teniz 1,590 sq km; Ozero Seletytenzi - 780 sq km; Ozero Sasykkol - 740 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Syr Darya river mouth (shared with Kyrgyzstan [s], Uzbekistan, and Tajikistan) - 3,078 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Syr Darya river mouth (shared with Kyrgyzstan [s], Uzbekistan, and Tajikistan) - 3,078 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), Amu Darya (534,739 sq km), Syr Darya (782,617 sq km), Lake Balkash (510,015 sq km)<br>
@@ -272,7 +272,7 @@ _fresh water lake(s)_: Ozero Balkhash - 22,000 sq km; Ozero Zaysan - 1,800 sq km
 _salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Turkmenistan, and Russia) - 374,000 sq km; Aral Sea (north) - 3,300 sq km; Ozero Alakol - 2,650 sq km; Ozero Teniz 1,590 sq km; Ozero Seletytenzi - 780 sq km; Ozero Sasykkol - 740 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Syr Darya river mouth (shared with Kyrgyzstan [s], Uzbekistan, and Tajikistan) - 3,078 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Syr Darya river mouth (shared with Kyrgyzstan [s], Uzbekistan, and Tajikistan) - 3,078 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), Amu Darya (534,739 sq km), Syr Darya (782,617 sq km), Lake Balkash (510,015 sq km)<br>
@@ -341,7 +341,6 @@ _head of government_: Prime Minister Olzhas BEKTENOV (since 6 February 2024)<br>
 _cabinet_: the president appoints ministers based on the prime minister's recommendations; the president has veto power over all appointments and independently appoints the ministers of defense, internal affairs, and foreign affairs<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a single 7-year term (prior to September 2022, the president of Kazakhstan could serve up to two 5-year terms; legislation passed in September 2022 reduced the maximum number of terms to one 7-year term); election last held on 20 November 2022 (next to be held in 2029); prime minister and deputy prime ministers appointed by the president, approved by the Mazhilis<br>
 _election results_: <em><br>2024: </em>Olzhas BEKTENOV elected as prime minister; 69-0 in parliament<em><br><br>2022</em>: Kasym-Zhomart TOKAYEV reelected president; percent of vote - Kassym-Jomart TOKAYEV (Amanat) 81.3%, Zhiguli DAYRABAEV (Auyl) 3.4%, Qaraqat or Karakat ÄBDEN (KÄQŪA) 2.6%, Meyram KAZHYKEN (Amanat) 2.5%, Nurlan AUYESBAYEV (NSDP) 2.2%, Saltanat TURSYNBEKOVA (QA-DJ) 2.1%, other 5.8%<br><br><em>2019</em>: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kasym-Zhomart TOKAYEV (Amanat) 71%, Amirzhan KOSANOV (Ult Tagdyry) 16.2%, Daniya YESPAYEVA (Ak Zhol) 5.1%, other 7.7%<br>
-<strong>note: </strong>Prime Minister Alikhan SMAILOV resigned on 5 February 2024<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Parlament)<br>
@@ -638,11 +637,6 @@ _subscriptions per 100 inhabitants_: 13 (2023 est.)<br>
 _total subscriptions_: 25.8 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 130 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: <p>Kazakhstan has one of the most developed telecommunications sectors in the region; this is especially true of the mobile segment, where the country has the second fastest average mobile data rates in Central Asia after Azerbaijan; the competing Mobile Network Operators (MNOs) have built extensive Long Term Evolution (LTE) networks: about 76% of mobile subscribers were on LTE as of March 2024, while the company’s LTE network provided 89% geographic coverage; this widespread network coverage, as well as the development of 5G networks, has been encouraged by the government with the second stage of its Digital Kazakhstan program, by which most settlements across the country will be furnished with mobile internet connectivity; the remaining rural villages will be covered by satellite services; at the turn of the century, Kazakhstan had a relatively high fixed-line tele density thanks to efforts to invest in the fixed-line infrastructure and in next-generation networks; the gobal demand for traditional voice services are decreasing as customers are increasingly attracted to the flexibility of the mobile platform for voice as well as data services</p> (2024)<br>
-_domestic_: fixed telephone subscriptions are 15 per 100 persons; mobile-cellular subscriber base 130 per 100 persons (2022)<br>
-_international_: country code - 7; international traffic with other former Soviet republics and China carried by landline and microwave radio relay and with other countries by satellite and by the TAE fiber-optic cable; satellite earth stations - 2 Intelsat<br>
-
 **Broadcast media**<br>
 the state owns nearly all radio and TV transmission facilities and operates national TV and radio networks; there are 96 TV channels, and 4 state-run radio stations; some former state-owned media outlets have been privatized; households with satellite dishes have access to foreign media; small number of commercial radio stations; all media outlets have to register with the government (2018)<br>
 
@@ -678,7 +672,7 @@ _by type_: general cargo 3, oil tanker 7, other 112<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and Air Defense Forces<br><br>Ministry of Internal Affairs: National Police, National Guard<br><br>Committee for National Security (KNB): Border Guard Service (2024)<br>
+Armed Forces of the Republic of Kazakhstan: Land Forces (Army of Kazakhstan), Naval Forces, Air and Air Defense Forces<br><br>Ministry of Internal Affairs: National Police, National Guard<br><br>Committee for National Security (KNB): Border Guard Service (2025)<br>
 <strong>note:</strong> the National Guard is a gendarmerie type force administered by the Ministry of Internal Affairs, but also serves the Ministry of Defense; it is responsible for fighting crime, maintaining public order, and ensuring public safety; other duties include anti-terrorism operations, guarding prisons, riot control, and territorial defense in time of war<br>
 
 **Military expenditures**<br>
@@ -689,13 +683,13 @@ Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and A
 1.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 40,000 active-duty personnel (25,000 Land Forces; 3,000 Naval Forces; 12,000 Air and Air Defense Forces); approximately 30,000 National Guard (2023)<br>
+available information varies widely; estimated 50,000 active Armed Forces; estimated 30,000 National Guard (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Kazakh military's inventory is comprised of mostly Russian and Soviet-era equipment; in recent years, other suppliers have included China, France, Israel, South Korea, and Turkey; Kazakhstan has a defense industry capable of assembling or producing such items as naval vessels, combat vehicles, helicopters, and radar systems (2024)<br>
+the Kazakh military's inventory is comprised of mostly Russian and Soviet-era equipment; in recent years, other suppliers have included China, France, Israel, South Korea, and Turkey; Kazakhstan has a defense industry capable of assembling or producing such items as naval vessels, combat vehicles, helicopters, and radar systems (2025)<br>
 
 **Military service age and obligation**<br>
-all men 18-27 are required to serve in the military for 12-24 months; women may volunteer (2023)<br>
+men 18-27 are subject to conscription for 12-24 months; conscripts may be assigned to the Armed Forces, the National Guard, the Border Service, the State Security Service, or the Ministry of Emergency Situations; women may volunteer (2025)<br>
 <strong>note:</strong> as of 2022, more than 10,000 women served in the Armed Forces and the National Guard<br>
 
 **Military - note**<br>

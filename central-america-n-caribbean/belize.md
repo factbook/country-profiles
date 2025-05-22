@@ -580,11 +580,6 @@ _subscriptions per 100 inhabitants_: 4 (2022 est.)<br>
 _total subscriptions_: 264,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 66 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Belize&rsquo;s fixed-line teledensity and mobile penetration remain lower than average for the region, a legacy of insufficient market competition and under investment in telecoms services; a significant investment in infrastructure, launching an LTE-A service at the end of 2016 and in mid-2017 completing a submarine cable to Ambergris Caye, enabling it to launch an FttP service in San Pedro; the nfrastructure has been updated from the legacy copper to fiber; investments have been made to provide high speed broadband to 80% of residences across Belize. (2021)<br>
-_domestic_: roughly 5 per 100 fixed-line and mobile-cellular teledensity of 66 per 100 persons; mobile sector accounting for over 90% of all phone subscriptions (2021)<br>
-_international_: country code - 501; landing points for the&nbsp;ARCOS and SEUL&nbsp;fiber-optic telecommunications submarine cable that provides links to South and Central America, parts of the Caribbean, and the US; satellite earth station - 8 (Intelsat - 2, unknown - 6) (2019)<br>
-
 **Broadcast media**<br>
 8 privately owned TV stations; multi-channel cable TV provides access to foreign stations; about 25 radio stations broadcasting on roughly 50 different frequencies; state-run radio was privatized in 1998 (2019)<br>
 

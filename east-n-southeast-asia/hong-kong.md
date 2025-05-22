@@ -527,11 +527,6 @@ _subscriptions per 100 inhabitants_: 47 (2023 est.)<br>
 _total subscriptions_: 23.8 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 292 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Hong Kong&rsquo;s telecommunications sector continues to stay near the top of world rankings for the industry; it has kept its #1 spot in the Asian region in terms of the maturity of its telecom market &ndash; a reflection of the high penetration rates across mobile, mobile broadband, and fixed broadband; even fixed-line teledensity in Hong Kong is impressive at over 50%, although it too has started a gradual decline in keeping with most other telecom markets around the world, as consumers slowly transition over to the mobile platform for all of their communication needs (2022)<br>
-_domestic_: fixed-line is over 51 per 100 and mobile-cellular is 319 subscriptions per 100 (2021)<br>
-_international_: country code - 852; landing points for the AAE-1, AAG, APCN-2, APG, ASE, FEA, FNAL, RNAL, H2HE, SeaMeWe-3, SJC and TGN-IA submarine cables that provide connections to Asia, US, Australia, the Middle East, and Europe; satellite earth stations - 3 Intelsat (1 Pacific Ocean and 2 Indian Ocean); coaxial cable to Guangzhou, China (2022)<br>
-
 **Broadcast media**<br>
 34 commercial terrestrial TV networks, each with multiple stations; multi-channel satellite and cable TV systems available; 3 licensed broadcasters, one of which is government-funded, operate about 12 radio stations (2019)<br>
 

@@ -467,11 +467,6 @@ _total subscriptions_: 4.15 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 78 (2021 est.)<br>
 <b>note:</b> entry includes the West Bank and the Gaza Strip<br>
 
-**Telecommunication systems**<br>
-_general assessment_: most telecommunications companies in the West Bank and Gaza import directly from international vendors; the major challenge they face are Israeli restrictions on telecommunication imports that are listed as &ldquo;Dual Use&rdquo; products; during a visit to the West Bank in July 2022, U.S. President Joe Biden announced that Israeli and Palestinian teams will work together to roll out an advanced infrastructure for 4G; currently, only 2G service is available in Gaza (2024)<br>
-_domestic_: fixed-line 9 per 100 and mobile-cellular subscriptions 78 per 100 (includes Gaza Strip) (2021)<br>
-_international_: country code 970 or 972; 1 international switch in Ramallah<br>
-
 **Broadcast media**<br>
 the Palestinian Authority operates 1 TV and 1 radio station; about 20 private TV and 40 radio stations; Jordanian TV and satellite TV accessible<br>
 

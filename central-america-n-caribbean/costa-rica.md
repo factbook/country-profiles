@@ -314,10 +314,10 @@ _residency requirement for naturalization_: 7 years<br>
 18 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: President Rodrigo CHAVES Robles (since 8 May 2022)&nbsp;<br>
+_chief of state_: President Rodrigo CHAVES Robles (since 8 May 2022)<br>
 _head of government_: President Rodrigo CHAVES Robles (since 8 May 2022)<br>
 _cabinet_: Cabinet selected by the president<br>
-_elections/appointments_: president and vice presidents directly elected on the same ballot by modified majority popular vote (40% threshold) for a 4-year term (eligible for non-consecutive terms); election last held on 6 February 2022 with a runoff on 3 April 2022 (next to be held in February 2026 with a runoff in April 2026)<br>
+_elections/appointments_: president and vice presidents directly elected on the same ballot by modified majority popular vote (40% threshold) for a 4-year term (eligible for non-consecutive terms); election last held on 6 February 2022, with a runoff on 3 April 2022 (next to be held in February 2026, with a runoff in April 2026)<br>
 _election results_: <br><em>2022: </em>Rodrigo CHAVES Robles elected president in second round; percent of vote in first round - Jose Maria FIGUERES Olsen (PLN) 27.3%,<em> </em>Rodrigo CHAVES Robles (PPSD) 16.8%, Fabricio ALVARADO Munoz (PNR) 14.9%, Eliecer FEINZAIG Mintz (PLP) 12.4%, Lineth SABORIO Chaverri (PUSC) 12.4%, Jose Maria VILLALTA Florez-Estrada 8.7% (PFA), other 7.5%; percent of vote in second round - Rodrigo CHAVES Robles (PPSD) 52.8%, Jose Maria FIGUERES Olsen (PLN) 47.2%<br><br><em>2018:</em> Carlos ALVARADO Quesada elected president in second round; percent of vote in first round - Fabricio ALVARADO Munoz (PRN) 25%; Carlos ALVARADO Quesada (PAC) 21.6%; Antonio ALVAREZ (PLN) 18.6%; Rodolfo PIZA (PUSC) 16%; Juan Diego CASTRO (PIN) 9.5%; Rodolfo HERNANDEZ (PRSC) 4.9%, other 4.4%; percent of vote in second round - Carlos ALVARADO Quesada (PAC) 60.7%; Fabricio ALVARADO Munoz (PRN) 39.3%<br>
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
@@ -592,11 +592,6 @@ _subscriptions per 100 inhabitants_: 13 (2023 est.)<br>
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 7.44 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 152 (2022 est.)<br>
-
-**Telecommunication systems**<br>
-_general assessment_: the fixed broadband market is one of the few parts of Costa Rica&rsquo;s telecom sector to experience solid growth in recent years, both in size and revenue; the country&rsquo;s fiber network expanded by 56% in 2020, reaching about 176,200km; fixed-line broadband traffic volume also increased by more than 30%, year-on-year;&nbsp; other areas of the market have proven relatively lack luster, with slow or even negative growth; some of this can be attributed to the economic and social impacts of the pandemic, but the fixed-line and mobile sectors have both been struggling to produce decent results since well before the start of the crisis; the rollout of 5G network infrastructure in Costa Rica is unlikely to occur to any scale before 2023, but this may be one of the few remaining areas of opportunity open to investors outside of fixed-line internet and pay TV services (2021)<br>
-_domestic_: roughly 11 per 100 fixed-line and 152 per 100 mobile-cellular (2021)<br>
-_international_: country code - 506; landing points for the ARCOS-1, MAYA-1, and the&nbsp;PAC submarine cables that provide links to South and Central America, parts of the Caribbean, and the US; connected to Central American Microwave System; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
 over two dozen privately owned TV stations and 1 publicly owned TV station; cable network services are widely available; more than 100 privately owned radio stations and a public radio network (2022)<br>

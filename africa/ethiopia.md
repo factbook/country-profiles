@@ -67,7 +67,7 @@ _fresh water lake(s)_: Lake Tana - 3,600 sq km; Abaya Hayk - 1,160 sq km; Ch'amo
 _salt water lake(s)_: Lake Turkana (shared with Kenya) - 6,400 sq km; Abhe Bid Hayk/Abhe Bad (shared with Djibouti) - 780 sq km;&nbsp;<br>
 
 **Major rivers (by length in km)**<br>
-Blue Nile river source (shared with Sudan [m]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Blue Nile river source (shared with Sudan [m]) - 1,600 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
@@ -281,7 +281,7 @@ _fresh water lake(s)_: Lake Tana - 3,600 sq km; Abaya Hayk - 1,160 sq km; Ch'amo
 _salt water lake(s)_: Lake Turkana (shared with Kenya) - 6,400 sq km; Abhe Bid Hayk/Abhe Bad (shared with Djibouti) - 780 sq km;&nbsp;<br>
 
 **Major rivers (by length in km)**<br>
-Blue Nile river source (shared with Sudan [m]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Blue Nile river source (shared with Sudan [m]) - 1,600 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
@@ -351,7 +351,6 @@ _head of government_: Prime Minister ABIY Ahmed Ali (since April 2018)<br>
 _cabinet_: Council of Ministers selected by the prime minister and approved by the House of People's Representatives<br>
 _elections/appointments_: president indirectly elected by both chambers of Parliament for a 6-year term (eligible for a second term); election held on 21 June 2021 and 30 September 2021 (the scheduled 29 August 2020 election was postponed by Prime Minister ABIY due to the COVID-19 pandemic); prime minister designated by the majority party following legislative elections<br>
 _election results_: <em><br>2021:</em> SAHLE-WORK Zewde reelected president during joint session of Parliament, vote - 659 (unanimous); ABIY confirmed Prime Minister by House of Peoples' Representatives (4 October 2021)<br><br><em>2018:</em> SAHLE-WORK Zewde elected president during joint session of Parliament, vote - 659 (unanimous); note - snap election held on 25 October 2018 due to resignation of President MULATA Teshome<br>
-<strong>note:</strong> SAHLE-WORK Zewde is the first female elected head of state in Ethiopia<br>
 
 **Legislative branch**<br>
 _legislative structure_: bicameral<br>
@@ -641,11 +640,6 @@ _subscriptions per 100 inhabitants_: 1 (2022 est.) less than 1<br>
 _total subscriptions_: 71.4 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 56 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Ethio telecom is the major provider, but no longer has a complete monopoly on all telecom services; a consortium led by Kenyan Safaricom launched service in October 2022; the World Bank in early 2021 provided a $200 million loan to help develop the country&rsquo;s digital transformation, while the government has embarked on its 2020-2030 program as well as its Digital Ethiopia 2025 strategy, both aimed at making better use of digital technologies to promote socioeconomic development (2023)<br>
-_domestic_: fixed-line subscriptions less than 1 per 100 while mobile-cellular stands at a little over 54 per 100 people (2021)<br>
-_international_: country code - 251; open-wire to Sudan and Djibouti; microwave radio relay to Kenya and Djibouti; 2 domestic satellites provide the national trunk service; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Pacific Ocean) (2016)<br>
-
 **Broadcast media**<br>
 10 public/state broadcasters; 9 public/state radio stations; 13 commercial FM radio stations; 18 commercial TV stations; 45 community radio stations; 5 community TV stations (2023)<br>
 
@@ -693,7 +687,7 @@ Ethiopian National Defense Force (ENDF; aka Federal Defense Force of Ethiopia, F
 0.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-available information varies widely; estimated 150-300,000 active-duty troops (2025)<br>
+available information varies widely; estimated 150-300,000 active-duty Defense Force&nbsp; (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the ENDF's major weapons and equipment inventory has traditionally been comprised of Russian, Soviet, and Eastern bloc material; it suffered considerable equipment losses during the 2020-2022 Tigray conflict; in more recent years, Ethiopia has diversified its arms sources to include weapons from China, Israel, Turkey, Ukraine, and the UAE; Ethiopia has a modest industrial defense base centered on small arms and production of armored vehicles under license (2024)<br>

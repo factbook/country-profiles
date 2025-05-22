@@ -326,7 +326,6 @@ _head of government_: Prime Minister Manuel MARRERO Cruz (since 21 December 2019
 _cabinet_: Council of Ministers proposed by the president and appointed by the National Assembly<br>
 _elections/appointments_: president and vice president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 19 April 2023 (next to be held in 2028)<br>
 _election results_: <br><em>2023: </em>Miguel DIAZ-CANEL Bermudez (PCC) reelected president; percent of National Assembly vote - 97.7%; Salvador Antonio VALDES Mesa (PCC) reelected vice president; percent of National Assembly vote - 93.4%<em><br><br>2018: </em>Miguel DIAZ-CANEL Bermudez (PCC) elected president; percent of National Assembly vote - 98.8%; Salvador Antonio VALDES Mesa (PCC) elected vice president; percent of National Assembly vote - 98.1%<br>
-<em>note</em> - on 19 April 2018, DIAZ-CANEL succeeded Raul CASTRO as president of the Councils of State and Ministers; on 10 October 2019 he was elected to the newly created position of President of the Republic, which replaced the position of President of the Councils of State and Ministers<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly of the People's Power (Asamblea nacional del Poder popular)<br>
@@ -565,11 +564,6 @@ _subscriptions per 100 inhabitants_: 14 (2023 est.)<br>
 _total subscriptions_: 7.67 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 68 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: internet availability has increased substantially over the past few years, only about 70 percent of Cubans have Internet access; 69 percent (7.6 million) have acces to cell phone service, 68 percent have internet access through their cell phone; in 2021 the Cuban Government passed a decree that strengthened its authority to censor Internet and telephonic communications; state control of the telecom sector hinders development; Cuba has the lowest mobile phone and Internet subscription rates in the region; fixed-line density is also very low; thaw of US-Cuba relations encouraged access to services, such as Wi-Fi hot spots; access to websites and mobile applications is controlled and censored; DSL and Internet are available in Havana, though costs are too high for most Cubans and access can be turned off by the government; international investment and agreement to improve internet access through cost-free and direct connection between networks (2021)<br>
-_domestic_: fixed-line density remains low at a little over 14 per 100 inhabitants; mobile-cellular service has expanded to about 63 per 100 persons (2021)<br>
-_international_: country code - 53; the ALBA-1, GTMO-1, and GTMO-PR fiber-optic submarine cables link Cuba, Jamaica, and Venezuela; satellite earth station - 1 Intersputnik (Atlantic Ocean region) (2019)<br>
-
 **Broadcast media**<br>
 government owns and controls all broadcast media: 8 national TV channels (Cubavision, Cubavision Plus, Tele Rebelde, Multivision, Educational Channel 1 and 2, Canal Clave, Canal Habana), 2 international channels (Cubavision Internacional and Canal Caribe), multiple regional TV stations, 7 national radio networks, and multiple regional radio stations; the government uses the Radio-TV Marti signal; private ownership of electronic media is officially prohibited, with several online independent news sites tolerated but blocked if critical of the government; YouTube popular; Christian denominations create original video content to distribute via social media (2023)<br>
 
@@ -628,7 +622,7 @@ Revolutionary Armed Forces (Fuerzas Armadas Revolucionarias, FAR): Ground Troops
 3.1% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-limited available information; estimated 50,000 active personnel (2025)<br>
+limited available information; estimated 50,000 active Armed Forces&nbsp; (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is comprised of Russian and Soviet-era equipment (2024)<br>

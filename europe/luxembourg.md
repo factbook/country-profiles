@@ -591,11 +591,6 @@ _subscriptions per 100 inhabitants_: 40 (2022 est.)<br>
 _total subscriptions_: 961,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 137 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Luxembourg has a small telecom sector; there remains some pressure from regulatory measures, though no further reductions to fixed and mobile interconnection tariffs have been imposed through to 2024; high mobile penetration has slowed subscriber growth in the mobile market since 2005, though a recent law requiring SIM card registration has not had an adverse effect on the number of mobile subscribers despite network operators deactivating unregistered cards (2021)<br>
-_domestic_: fixed-line teledensity about 42 per 100 persons; 140 per 100 mobile-cellular subscriptions (2021)<br>
-_international_: country code - 352<br>
-
 **Broadcast media**<br>
 long national tradition of operating radio and TV services for pan-European audiences; home to Europe's largest privately owned broadcast media group, the RTL Group, which operates 46 TV stations and 29 radio stations in Europe; also home to Europe's largest satellite operator, Soci&eacute;t&eacute; Europ&eacute;enne des Satellites (SES); domestically, the RTL Group operates TV and radio networks; other domestic private radio and TV operators and French and German stations available; satellite and cable TV services available<br>
 
@@ -641,7 +636,7 @@ Luxembourg Army (l'Armée Luxembourgeoise) (2025)<br>
 0.6% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 900 active-duty personnel (2024)<br>
+approximately 900 active Luxembourg Army personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of Luxembourg's Army is a small mix of Western origin equipment (2024)<br>

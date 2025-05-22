@@ -486,11 +486,6 @@ _subscriptions per 100 inhabitants_: 47 (2022 est.)<br>
 _total subscriptions_: 41,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 122 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: automatic telephone system completely integrated into Italian system (2018)<br>
-_domestic_: fixed-line is 47 per 100 and mobile-cellular teledensity is 119 telephones per 100 persons (2021)<br>
-_international_: country code - 378; connected to Italian international network<br>
-
 **Broadcast media**<br>
 state-owned public broadcaster operates 1 TV station and 3 radio stations; receives radio and TV broadcasts from Italy (2019)<br>
 

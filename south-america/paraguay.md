@@ -62,7 +62,7 @@ _other_: 18.8% (2022 est.)<br>
 1,362 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Río de la Plata/Paraná (shared with Brazil [s], Argentina, and Uruguay [m]) - 4,880 km; Paraguay river mouth (shared with Brazil [s] and Argentina) - 2,549 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Río de la Plata/Paraná (shared with Brazil [s], Argentina, and Uruguay [m]) - 4,880 km; Paraguay river mouth (shared with Brazil [s] and Argentina) - 2,549 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
@@ -264,7 +264,7 @@ _methane emissions_: 27.65 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 1,818,501 tons (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Río de la Plata/Paraná (shared with Brazil [s], Argentina, and Uruguay [m]) - 4,880 km; Paraguay river mouth (shared with Brazil [s] and Argentina) - 2,549 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Río de la Plata/Paraná (shared with Brazil [s], Argentina, and Uruguay [m]) - 4,880 km; Paraguay river mouth (shared with Brazil [s] and Argentina) - 2,549 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
@@ -613,11 +613,6 @@ _subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 _total subscriptions_: 8.67 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 128 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: limited progress on structural reform and deficient infrastructure of the landlocked country are obstacles to the telecom platform; effective competition in mobile market, serving 96% of population through LTE; deployment of fiber; operator enabled 109 free Internet points across the country and is looking to expand to 430 points in 2022; dependent on neighboring countries for access to submarine cables (2022)<br>
-_domestic_: fixed-line just over 3 per 100 and mobile-cellular is 119 per 100 of the population (2021)<br>
-_international_: country code - 595; Paraguay's landlocked position means they must depend on neighbors for interconnection with submarine cable networks, making it cost more for broadband services; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
 6 privately owned TV stations; about 75 commercial and community radio stations; 1 state-owned radio network (2019)<br>
 
@@ -672,7 +667,7 @@ Armed Forces of Paraguay (Fuerzas Armadas de Paraguay; aka Armed Forces of the N
 1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 15,000 active-duty military personnel (2025)<br>
+approximately 15,000 active-duty Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is comprised of mostly older or obsolescent equipment from a variety of foreign suppliers, particularly Brazil and the US; in recent years, the Paraguayan Government has purchased small quantities of more modern equipment (2024)<br>

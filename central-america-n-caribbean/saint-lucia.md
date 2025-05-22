@@ -552,11 +552,6 @@ _subscriptions per 100 inhabitants_: 17 (2022 est.)<br>
 _total subscriptions_: 176,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 96 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: an adequate system that is automatically switched; good interisland and international connections; broadband access; expanded FttP (Fiber to the Home) and LTE markets; regulatory development; telecom sector contributes to the overall GDP; telecom sector is a growth area (2020)<br>
-_domestic_: fixed-line teledensity is 8 per 100 persons and mobile-cellular teledensity is roughly 96 per 100 persons (2021)<br>
-_international_: country code - 1-758; landing points for the ECFS&nbsp;and Southern Caribbean Fiber submarine cables providing connectivity to numerous Caribbean islands; direct microwave radio relay link with Martinique and Saint Vincent and the Grenadines; tropospheric scatter to Barbados (2019)<br>
-
 **Broadcast media**<br>
 3 privately owned TV stations; 1 public TV station on a cable network; multi-channel cable TV service available; mix of state-owned and privately owned radio broadcasters with about 25 stations, including repeater transmission stations (2019)<br>
 

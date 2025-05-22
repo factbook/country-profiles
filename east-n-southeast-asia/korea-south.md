@@ -609,11 +609,6 @@ _subscriptions per 100 inhabitants_: 43 (2023 est.)<br>
 _total subscriptions_: 83.9 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 149 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: South Korea is second only to Hong Kong in the world rankings of telecom market maturity; it is also on the leading edge of the latest telecom technology developments, including around 6G; with its highly urbanized, tech-savvy population, South Korea also enjoys very high communication levels across all segments &ndash; fixed-line telephony (44% at the start of 2022), fixed broadband (46%), mobile voice and data (144%), and mobile broadband (120%); the performance of the mobile sector is on a par with other developed markets around the region, but it&rsquo;s the wire line segment that allows South Korea to stand out from the crowd; this is partly a reflection of the large proportion of its population who live in apartment buildings (around 60%), making fiber and apartment LAN connections relatively easy and cost-effective to deploy; the government&rsquo;s Ultra Broadband convergence Network (UBcN) had aimed to reach 50% adoption by the end of 2022, but that target may be a few more years away; fixed-line teledensity is also at a very high level compared to most of the rest of the world, but it has been on a sharp decline from a rate of 60% ten years ago; on the mobile front, users have enthusiastically migrated from one generation of mobile platform to the next as each iteration becomes available; there also doesn&rsquo;t appear to be any great concern about there being a lack of demand for 5G in South Korea (when the country is already well supported by 4G networks), with 30% of all subscribers having already made the switch; part of the reason behind the rapid transition may be the subsidized handsets on offer from each of the MNOs and the MVNOs (2022)<br>
-_domestic_: fixed-line approximately 45 per 100 and mobile-cellular services 141 per 100 persons; rapid assimilation of a full range of telecommunications technologies leading to a boom in e-commerce (2021)<br>
-_international_: country code - 82;&nbsp;landing points for EAC-C2C, FEA, SeaMeWe-3, TPE, APCN-2, APG, FLAG North Asia Loop/REACH North Asia Loop, KJCN, NCP, and&nbsp;SJC2 submarine cables providing links throughout Asia, Australia, the Middle East, Africa, Europe, Southeast Asia and US; satellite earth stations - 66 (2019)<br>
-
 **Broadcast media**<br>
 multiple national TV networks, with 2 of the 3 largest networks publicly operated; the largest privately owned network, Seoul Broadcasting Service (SBS), has ties with other commercial TV networks; cable and satellite TV subscription services available; publicly operated radio broadcast networks and many privately owned radio broadcasting networks, each with multiple affiliates, and independent local stations<br>
 
@@ -668,7 +663,7 @@ Armed Forces of the Republic of Korea: Republic of Korea Army (ROKA), Republic o
 2.7% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 500,000 active Armed Forces personnel (365,000 Army; 70,000 Navy, including about 30,000 Marines; 65,000 Air Force) (2025)<br>
+approximately 500,000 active Armed Forces (365,000 Army; 70,000 Navy, including about 30,000 Marines; 65,000 Air Force) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the South Korean military is equipped with a mix of mostly modern domestically produced and imported weapons systems, particularly from the US; South Korea's defense industry produces a wide range of military hardware for both domestic use and export, including armored fighting vehicles, artillery, aircraft, missiles, and naval ships; it also jointly produces equipment with other countries (2024)<br>

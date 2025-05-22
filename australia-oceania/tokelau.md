@@ -185,8 +185,9 @@ Waitangi Day (Treaty of Waitangi established British sovereignty over New Zealan
 common law system of New Zealand<br>
 
 **Constitution**<br>
-_history_: many previous; latest effective 1 January 1949 (Tokelau Islands Act 1948)<br>
+_history_: many previous; latest effective 1 January 1949 (Tokelau Act 1948 of New Zealand)<br>
 _amendment process_: proposed as a resolution by the General Fono; passage requires support by each village and approval by the General Fono<br>
+<strong>note:</strong> Tokelau is a non-self-governing territory and has been administered by New Zealand since 1926; Tokelau is considered "part of New Zealand” under the Tokelau Act 1948, and Tokelauans are New Zealand citizens; in the mid-2000s Tokelau held two referenda on becoming self-governing in free association with New Zealand; the first vote was held in February 2006 but narrowly missed the two-thirds majority required for a change of status, as did a second vote held in 2007; since the self-government referenda, Tokelau has put questions about its constitutional status on hold; it remains a territory of New Zealand, though one which exercises a substantial degree of self-government<br>
 
 **Citizenship**<br>
 see New Zealand<br>
@@ -199,7 +200,7 @@ _chief of state_: King CHARLES III (since 8 September 2022); represented by Gove
 _head of government_: (Ulu o Tokelau) Esera Fofō Filipo Tuisano TUISANO (since 17 March 2025)<br>
 _cabinet_: Council for the Ongoing Government of Tokelau (or Tokelau Council) functions as a cabinet; consists of 3 village leaders (Faipule) and 3 village mayors (Pulenuku)<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; administrator appointed by the Minister of Foreign Affairs and Trade in New Zealand; head of government chosen from the Council of Faipule to serve a 1-year term<br>
-<strong>note:</strong> the meeting place of the Tokelau Council and the head of government position rotates annually among the three atolls; this tradition has given rise to the somewhat misleading description that the capital rotates yearly between the three atolls; in actuality, it is the seat of the government councilors that rotates since Tokelau has no capital<br>
+<strong>note:</strong> the meeting place of the Tokelau Council and the head of government position rotates annually among the three atolls; this tradition has given rise to the somewhat misleading description that the capital rotates yearly between the three atolls, but Tokelau has no capital<br>
 
 **Legislative branch**<br>
 _legislature name_: General Fono (Fono Fakamua)<br>
@@ -317,11 +318,6 @@ _Currency_: New Zealand dollars (NZD) per US dollar -<br>
 **Telephones - fixed lines**<br>
 _total subscriptions_: 300 (2010 est.)<br>
 _subscriptions per 100 inhabitants_: 22 (2010 est.)<br>
-
-**Telecommunication systems**<br>
-_general assessment_: a new submarine cable between New Zealand and Tokelau will provide high speed, reliable internet to Tokelau for the first time; due for completion in 2022, this will provide Tokelau with affordable, high quality internet and telecommunications, and better, more effective access to digital services and platforms (2021)<br>
-_domestic_: fixed-line teledensity is 0 per 100 persons (2019)<br>
-_international_: country code - 690; landing point for the Southern Cross NEXT submarine cable linking Australia, Tokelau, Samoa, Kiribati, Fiji, New Zealand and Los Angeles, CA (USA); radiotelephone service to Samoa; government-regulated telephone service (TeleTok); satellite earth stations - 3 (2020)<br>
 
 **Broadcast media**<br>
 Sky TV access for about a third of the population; each atoll operates a radio service with shipping news and weather reports (2019)<br>

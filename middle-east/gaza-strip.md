@@ -452,11 +452,6 @@ _total subscriptions_: 4.15 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 78 (2021 est.)<br>
 <b>note:</b> entry includes the West Bank and the Gaza Strip<br>
 
-**Telecommunication systems**<br>
-_general assessment_: <p class="paywall">Israel, which controls Palestinian frequencies and telecom infrastructure, limits mobile internet speeds in the Palestinian territories to levels that are significantly lower than in Israel and Jewish West Bank settlements; the World Bank urged Israel to let Palestinian cellular companies set up more advanced networks, and to ease restrictions on the import of equipment needed to build and operate them; Israel is rolling out fifth generation technology for its citizens, while the West Bank operates on 3G and Gaza, 2G; Israeli mobile operators don’t officially service Palestinian areas, but many Palestinians use the faster Israeli networks with SIM cards; the Times of Israel reported in November that Israel tentatively agreed to let Palestinian operators launch 4G services</p> (2022)<br>
-_domestic_: fixed-line 9 per 100 and mobile-cellular 28 per 100 (includes West Bank) (2021)<br>
-_international_: country code 970 or 972 (2018)<br>
-
 **Broadcast media**<br>
 1 TV station and about 10 radio stations; satellite TV accessible<br>
 

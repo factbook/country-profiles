@@ -65,7 +65,7 @@ _other_: 48.6% (2022 est.)<br>
 194,200 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
-Indus river mouth (shared with China [s] and India) - 3,610 km; Sutlej river mouth (shared with China [s] and India) - 1,372 km; Chenab river mouth (shared with India [s]) - 1,086 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Indus river mouth (shared with China [s] and India) - 3,610 km; Sutlej river mouth (shared with China [s] and India) - 1,372 km; Chenab river mouth (shared with India [s]) - 1,086 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Indus (1,081,718 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km)<br>
@@ -278,7 +278,7 @@ _municipal solid waste recycled annually_: 2,460,800 tons (2017 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2017 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Indus river mouth (shared with China [s] and India) - 3,610 km; Sutlej river mouth (shared with China [s] and India) - 1,372 km; Chenab river mouth (shared with India [s]) - 1,086 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Indus river mouth (shared with China [s] and India) - 3,610 km; Sutlej river mouth (shared with China [s] and India) - 1,372 km; Chenab river mouth (shared with India [s]) - 1,086 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Indus (1,081,718 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km)<br>
@@ -649,11 +649,6 @@ _subscriptions per 100 inhabitants_: 1 (2023 est.)<br>
 _total subscriptions_: 189 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 82 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Pakistan&rsquo;s telecom market transitioned from a regulated state-owned monopoly to a deregulated competitive structure in 2003, now aided by foreign investment; moderate growth over the last six years, supported by a young population and a rising use of mobile services; telecom infrastructure is improving, with investments in mobile-cellular networks, fixed-line subscriptions declining; system consists of microwave radio relay, coaxial cable, fiber-optic cable, cellular, and satellite networks; 4G mobile services broadly available; 5G tests ongoing; data centers in major cities; mobile and broadband doing well and dominate over fixed-broadband sector; future growth (in market size as well as revenue) is likely to come from the wider availability of value-added services on top of the expansion of 4G LTE and (from 2023) 5G mobile networks; the Universal Service Fund (USF) continues to direct investment towards the development of mobile broadband (and, to a lesser extent, fiber-based networks) in under-served and even under served areas of the country, with multiple projects being approved to start in 2021 and 2022 (2021)<br>
-_domestic_: mobile-cellular subscribership has increased; more than 90% of Pakistanis live within areas that have cell phone coverage; fiber-optic networks are being constructed throughout the country to increase broadband access and broadband penetration in Pakistan is increasing--by the end of 2021, 50% of the population had access to broadband services; fixed-line teledensity is a little over 1 per 100 and mobile-cellular roughly 82 per 100 persons (2021)<br>
-_international_: country code - 92; landing points for the SEA-ME-WE-3, -4, -5, AAE-1, IMEWE, Orient Express, PEACE Cable,&nbsp;and TW1 submarine cable systems that provide links to Europe, Africa, the Middle East, Asia, Southeast Asia, and Australia; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Indian Ocean); 3 operational international gateway exchanges (1 at Karachi and 2 at Islamabad); microwave radio relay to neighboring countries (2019)<br>
-
 **Broadcast media**<br>
 120 satellite TV stations; 42 media companies/channels; state-run Pakistan Television Corporation (PTV) is the largest TV network, serves over 85 percent of the population with 9 TV channels; over 100 private cable and satellite channels; state-owned Pakistan Broadcasting Corporation (PBC or Radio Pakistan) has the largest radio audience, particularly in rural areas, with AM/SW/FM stations covering most of the country (2022)<br>
 
@@ -710,7 +705,7 @@ Pakistan Armed Forces: Pakistan Army (includes National Guard), Pakistan Navy (i
 4.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 650,000 active-duty military personnel (550,000 Army; 30,000 Navy; 70,000 Air Force) (2025)<br>
+information varies; approximately 650,000 active Armed Forces (550,000 Army; 30,000 Navy; 70,000 Air Force) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a broad mix of mostly imported and some domestically produced weapons and equipment; most of its imported weapons are from China; other suppliers include France, Russia, Turkey, Ukraine, the UK, and the US; Pakistan also has a large domestic defense industry, which produces or co-produces such items as armored vehicles, aircraft, missiles, naval vessels (2024)<br>

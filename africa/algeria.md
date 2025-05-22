@@ -597,11 +597,6 @@ _subscriptions per 100 inhabitants_: 14 (2023 est.)<br>
 _total subscriptions_: 51.5 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 109 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Algeria has a steadily developing telecom infrastructure with government policies aimed at delivering serviceable internet connections across the country; mobile broadband is largely based on 3G and LTE, and the data rates are also low in global terms; LTE is available in all provinces; investment is required from the mobile network operators (MNOs) to improve the quality of service; the state has previously been hesitant to commit to 5G, instead encouraging the MNOs to upgrade LTE infrastructure before investing in 5G; in 2022, the state was in the process of freeing up the spectrum to enable the MNOs to launch 5G services; fixed internet speeds remain slow (2022)<br>
-_domestic_: a limited network of fixed-lines with a teledensity of slightly less than 12 telephones per 100 persons has been offset by the rapid increase in mobile-cellular subscribership; mobile-cellular teledensity was approximately 106 telephones per 100 persons in 2020 (2021)<br>
-_international_: country code - 213;&nbsp;ALPAL-2 is a submarine telecommunications cable system in the Mediterranean Sea linking Algeria and the Spanish Balearic island of Majorca;&nbsp;ORVAL is a submarine cable to Spain; landing points for the TE North/TGN-Eurasia/SEACOM/SeaMeWe-4 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; MED cable connecting Algeria with France;&nbsp;microwave radio relay to Italy, France, Spain, Morocco, and Tunisia;&nbsp;Algeria part of the 4,500 Km terrestrial Trans Sahara Backbone network which connects to other fiber networks in the region; Alcomstat-1 satellite offering&nbsp; telemedicine network (2020)<br>
-
 **Broadcast media**<br>
 Radio Alg&eacute;rienne is the state-run radio broadcast; the National Company of Television (Entreprise Nationale de T&eacute;l&eacute;vision (ENTV)) is the primary state-run public TV station (2024)<br>
 
@@ -656,7 +651,7 @@ Algerian People's National Army (ANP): Land Forces, Naval Forces (includes Coast
 6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; estimated 200,000 active armed forces personnel, including the National Gendarmerie (2025)<br>
+information varies; estimated 200,000 active ANP, including the National Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Algerian military has traditionally been armed mostly with Russian and Soviet-era weapons systems and equipment; over the past decade, it has made large investments in acquiring more modern armored vehicles, air defense systems, fighter aircraft, missiles, unmanned aerial vehicles, and warships, largely from Russia, its traditional supplier, but also China and Western European suppliers such as Germany (2024)<br>

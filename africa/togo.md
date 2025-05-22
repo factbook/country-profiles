@@ -327,8 +327,9 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Jean-Lucien Kwassi Savi de TOVE (since 3 May 2025)<br>
 _head of government_: President of Council of Ministers Faure GNASSINGBE (since 3 May 2025)<br>
 _cabinet_: Council of Ministers appointed by the president on the advice of the president of the council of ministers<br>
-_elections/appointments_: president is appointed by the national assembly for one six-year term<br>the president of the council of ministers is the leader of the majority party in the national assembly and is confirmed by the Constitutional Court with no term limits <br>note- on 6 May 2024 the President signed into law changes to the constitution converting the presidential system to a parliamentary republic and creating the President of Council of Ministers position<br>
+_elections/appointments_: president is appointed by the national assembly for one six-year term; the president of the council of ministers is the leader of the majority party in the national assembly and is confirmed by the Constitutional Court with no term limits&nbsp;<br>
 _election results_: <br><em>2020:</em> Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 70.8%, Agbeyome KODJO (MPDD) 19.5%, Jean-Pierre FABRE (ANC) 4.7%, other 5%<br><br><em>2015:</em> Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 58.8%, Jean-Pierre FABRE (ANC) 35.2%, Tchaboure GOGUE (ADDI) 4%, other 2% <p> </p><br>
+<strong>note:</strong> in May 2024, the President signed into law changes to the constitution that converted the presidential system to a parliamentary republic and created the President of Council of Ministers position<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -609,11 +610,6 @@ _subscriptions per 100 inhabitants_: 1 (2023 est.) less than 1<br>
 _total subscriptions_: 7.05 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 74 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: include radio, television, fixed and mobile telephones, and the Internet (2022)<br>
-_domestic_: fixed-line less than 1 per 100 and mobile-cellular is 74 telephones per 100 persons (2022)<br>
-_international_: country code - 228; landing point for the WACS submarine cable, linking countries along the west coast of Africa with each other and with Portugal; satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Symphonie (2020)<br>
-
 **Broadcast media**<br>
 1 state-owned TV station with multiple transmission sites; five private local TV stations; cable TV available; state-owned radio network with two stations; several dozen private radio stations and a few community radio stations; transmissions of multiple international broadcasters available (2019)<br>
 
@@ -666,7 +662,7 @@ Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army, Togolese Na
 2.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 15-20,000 active Armed Forces personnel, including Gendarmerie (2025)<br>
+estimated 15-20,000 active Armed Forces, including Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAT has a small inventory of mostly older equipment originating from a variety of countries, including Brazil, Russia/former Soviet Union, Turkey, the US, and some European nations, particularly France (2024)<br>

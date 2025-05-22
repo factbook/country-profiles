@@ -67,7 +67,7 @@ _other_: 29.8% (2022 est.)<br>
 _fresh water lake(s)_: Lake Tanganyika (shared with Burundi, Tanzania, and Zambia) - 32,000 sq km; Lake Albert (shared with Uganda) - 5,590 sq km; Lake Mweru (shared with Zambia) - 4,350 sq km; Lac Mai-Ndombe - 2,300 sq km; Lake Kivu (shared with Rwanda) - 2,220 sq km; Lake Edward (shared with Uganda) - 2,150 sq km; Lac Tumba - 500 sq km; Lac Upemba - 530 sq km<br>
 
 **Major rivers (by length in km)**<br>
-<p>Zaïre (Congo) river mouth (shared with Zambia [s], Angola, and Republic of Congo) - 4,700 km; Ubangi river mouth (shared with Central African Republic [s] and Republic of Congo) - 2,270 km</p> <strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+<p>Zaïre (Congo) river mouth (shared with Zambia [s], Angola, and Republic of Congo) - 2,920 km; Ubangi river mouth (shared with Central African Republic [s] and Republic of Congo) - 2,270 km</p> <strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
@@ -279,7 +279,7 @@ _percent of municipal solid waste recycled_: 4.9% (2005 est.)<br>
 _fresh water lake(s)_: Lake Tanganyika (shared with Burundi, Tanzania, and Zambia) - 32,000 sq km; Lake Albert (shared with Uganda) - 5,590 sq km; Lake Mweru (shared with Zambia) - 4,350 sq km; Lac Mai-Ndombe - 2,300 sq km; Lake Kivu (shared with Rwanda) - 2,220 sq km; Lake Edward (shared with Uganda) - 2,150 sq km; Lac Tumba - 500 sq km; Lac Upemba - 530 sq km<br>
 
 **Major rivers (by length in km)**<br>
-<p>Zaïre (Congo) river mouth (shared with Zambia [s], Angola, and Republic of Congo) - 4,700 km; Ubangi river mouth (shared with Central African Republic [s] and Republic of Congo) - 2,270 km</p> <strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+<p>Zaïre (Congo) river mouth (shared with Zambia [s], Angola, and Republic of Congo) - 2,920 km; Ubangi river mouth (shared with Central African Republic [s] and Republic of Congo) - 2,270 km</p> <strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
@@ -629,11 +629,6 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 _total subscriptions_: 49.8 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 50 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: the telecom system remains one of the least developed in the region; the government can only loosely regulate the sector; the investment made in infrastructure is derived from donor countries or from the efforts of foreign (particularly Chinese) companies and banks; efforts have been made to improve the regulation of the telecom sector; the limited fixed-line infrastructure has become the principal providers of basic telecom services; the development of the DRC&rsquo;s internet and broadband market has been held back by the poorly developed national and international infrastructure; the country was finally connected to international bandwidth through the WACS submarine cable in 2013; breakages in the WACS cable have exposed the vulnerability of international bandwidth, which is still limited; the Equiano submarine cable, and has also completed a 5,000km cable running through the DRC to link to cable systems landing in countries facing the Atlantic and Indian Oceans; the first commercial LTE networks were launched in May 2018 soon after LTE licenses were issued; mobile operators are keen to develop mobile data services, capitalizing on the growth of smartphones usage; there has been some progress with updating technologies, most of the GSM network has been upgraded to 3G by 2021 (2022)<br>
-_domestic_: inadequate fixed-line infrastructure with fixed-line connections less than 1 per 100 persons; mobile-cellular subscriptions over 49 per 100 persons (2021)<br>
-_international_: country code - 243; ACE and WACS submarine cables to West and South Africa and&nbsp;Europe;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
 state-owned TV station with near-national coverage; more than a dozen privately owned TV stations, including 2 with near-national coverage; 2 state-owned radio stations and over 100 private radio stations; transmissions of at least 2 international broadcasters are available<br>
 
@@ -690,7 +685,7 @@ Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Repu
 0.9% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 100-150,000 active FARDC troops (2025)<br>
+estimated 100-150,000 active FARDC (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FARDC is equipped mostly with Soviet-era and older French weapons and equipment; in 2024, the DRC signed an agreement with China for the provision of military equipment (2024)<br>

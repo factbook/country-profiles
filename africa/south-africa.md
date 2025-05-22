@@ -67,7 +67,7 @@ _other_: 6.6% (2022 est.)<br>
 16,700 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Orange (shared with Lesotho [s], and Namibia [m]) - 2,092 km; Limpoporivier (Limpopo) river source (shared with Botswana, Zimbabwe, and Mozambique [m]) - 1,800 km; Vaal [s] - 1,210 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Orange (shared with Lesotho [s], and Namibia [m]) - 2,092 km; Limpoporivier (Limpopo) river source (shared with Botswana, Zimbabwe, and Mozambique [m]) - 1,800 km; Vaal [s] - 1,210 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Orange (941,351 sq km)<br>
@@ -271,7 +271,7 @@ _municipal solid waste recycled annually_: 5,168,025 tons (2011 est.)<br>
 _percent of municipal solid waste recycled_: 28% (2011 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Orange (shared with Lesotho [s], and Namibia [m]) - 2,092 km; Limpoporivier (Limpopo) river source (shared with Botswana, Zimbabwe, and Mozambique [m]) - 1,800 km; Vaal [s] - 1,210 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Orange (shared with Lesotho [s], and Namibia [m]) - 2,092 km; Limpoporivier (Limpopo) river source (shared with Botswana, Zimbabwe, and Mozambique [m]) - 1,800 km; Vaal [s] - 1,210 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Orange (941,351 sq km)<br>
@@ -337,8 +337,9 @@ _residency requirement for naturalization_: 5 year<br>
 _chief of state_: President Matamela Cyril RAMAPHOSA (since 19 June 2024)<br>
 _head of government_: President Matamela Cyril RAMAPHOSA (since 19 June 2024)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 29 May 2024 (next to be held in May 2029) note - the president is both chief of state and head of government<br>
+_elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 29 May 2024 (next to be held in May 2029)&nbsp;<br>
 _election results_: <br><em>2024: </em>Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<em><br><br>2019: </em>Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<br><br>  <p> </p><br>
+<strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -640,11 +641,6 @@ _subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
 _total subscriptions_: 108 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 167 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: South Africa&rsquo;s telecom sector boasts one of the most advanced infrastructures on the continent; the focus in recent years has been on back haul capacity and on fiber and LTE networks to extend and improve internet service connectivity; several satellite solutions also appeared in 2023, aimed at providing additional backhaul and improving connectivity in rural areas; the mobile sector has developed strongly in recent years, partly due to the poor availability and level of service of fixed-line networks, which meant that many people had no alternative to mobile networks for voice and data services (2024)<br>
-_domestic_: fixed-line is 2 per 100 persons and mobile-cellular is 167 telephones per 100 persons (2022)<br>
-_international_: country code - 27; landing points for the WACS, ACE, SAFE, SAT-3, Equiano, SABR, SAEx1, SAEx2, IOX Cable System, METISS, EASSy, and SEACOM/ Tata TGN-Eurasia&nbsp;fiber-optic submarine cable systems connecting South Africa, East Africa, West Africa, Europe,&nbsp;Southeast Asia, Asia, South America, Indian Ocean Islands,&nbsp;and the&nbsp;US;&nbsp;satellite earth stations - 3 Intelsat (1 Indian Ocean and 2 Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
 the South African Broadcasting Corporation (SABC) operates 6 free-to-air TV stations; 1 private TV station; multiple subscription TV services with mix of local and international channels; mix of public and private radio stations at the national, regional, and local levels; state-owned SABC radio network has 18 stations, including one for each of the 11 official languages, 4 community stations, and 3 commercial stations; over 100 community stations with rural coverage<br>
 
@@ -700,7 +696,7 @@ South African National Defense Force (SANDF): South African Army (includes Reser
 1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 65-70,000 active-duty SAF personnel (2025)<br>
+approximately 65-70,000 active-duty National Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SANDF's inventory consists of a mix of domestically produced and foreign-supplied equipment; South Africa's domestic defense industry produced most of the Army's major weapons systems (some were jointly produced with foreign companies), while the Air Force and Navy inventories include a mix of aging European-, Israeli-, and US-origin weapons and equipment; South Africa has one of Africa's leading defense industries (2024)<br>

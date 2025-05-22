@@ -62,7 +62,7 @@ _other_: 68.9% (2022 est.)<br>
 5,681 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
-Syr Darya (shared with Kyrgyzstan [s], Uzbekistan, and Kazakhstan [m]) - 3,078 km; Amu Darya river source (shared with Turkmenistan, Afghanistan, and Uzbekistan [m]) - 2,620 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Syr Darya (shared with Kyrgyzstan [s], Uzbekistan, and Kazakhstan [m]) - 3,078 km; Amu Darya river source (shared with Turkmenistan, Afghanistan, and Uzbekistan [m]) - 2,620 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea Basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
@@ -260,7 +260,7 @@ _methane emissions_: 4.87 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 1,787,400 tons (2013 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Syr Darya (shared with Kyrgyzstan [s], Uzbekistan, and Kazakhstan [m]) - 3,078 km; Amu Darya river source (shared with Turkmenistan, Afghanistan, and Uzbekistan [m]) - 2,620 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Syr Darya (shared with Kyrgyzstan [s], Uzbekistan, and Kazakhstan [m]) - 3,078 km; Amu Darya river source (shared with Turkmenistan, Afghanistan, and Uzbekistan [m]) - 2,620 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea Basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
@@ -325,7 +325,7 @@ _residency requirement for naturalization_: 5 years or 3 years of continuous res
 _chief of state_: President Emomali RAHMON (since 16 November 1994; head of state and Supreme Assembly Chairman since 20 November 1992)<br>
 _head of government_: Prime Minister Qohir RASULZODA (since 23 November 2013)<br>
 _cabinet_: Council of Ministers appointed by the president, approved by the Supreme Assembly<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (two-term limit); however, as the "Leader of the Nation" President RAHMON has no term limit; election last held on 11 October 2020 (next to be held in 2027); prime minister appointed by the president<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (two-term limit); however, as the "Leader of the Nation," president has no term limit; election last held on 11 October 2020 (next to be held in 2027); prime minister appointed by the president<br>
 _election results_: <br><em>2020</em>: Emomali RAHMON reelected president; percent of vote - Emomali RAHMON (PDPT) 92.1%, Rustam LATIFZODA (APT) 3.1%, other 4.8%<br><br><em>2013:</em> Emomali RAHMON reelected president; percent of vote - Emomali RAHMON (PDPT) 84%, Ismoil TALBAKOV CPT) 5%, other 11%<br>
 
 **Legislative branch**<br>
@@ -611,11 +611,6 @@ _subscriptions per 100 inhabitants_: 5 (2022 est.)<br>
 _total subscriptions_: 11.6 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 119 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: the size of Tajikistan&rsquo;s mobile market dwarfs the fixed line segment, with an estimated penetration rate of nearly 120%; with a number of private sector companies active in the mobile market, there been more commitment to investment in network upgrades and expansion; three MNOs have all launched commercial 5G services, initially in areas of the capital city Dushanbe; the move towards higher speed mobile services should further underpin the growth in the nascent mobile broadband market, which is still estimated to be at a relatively low penetration level of 42% (at least relative to most other Asian nations) but is predicted to be a strong compound annual growth rate of more than 8% for at least the next five years; the ICT ecosystem is a complex mix of foreign operators from the People's Republic of China, the Russian Federation, state-owned enterprises, and telecom systems established by donors and non-governmental organizations (2024)<br>
-_domestic_: fixed-line over 5 per 100 and mobile-cellular over 119 per 100 (2022)<br>
-_international_: country code - 992; linked by cable and microwave radio relay to other CIS republics and by leased connections to the Moscow international gateway switch; Dushanbe linked by Intelsat to international gateway switch in Ankara (Turkey); 3 satellite earth stations - 2 Intelsat and 1 Orbita<br>
-
 **Broadcast media**<br>
 state-run broadcaster has 9 national TV and 10 radio stations, and 4 regional stations; 31 independent TV and 20 independent radio stations broadcast locally and regionally; Russian and other foreign stations available via cable and satellite (2016)<br>
 
@@ -647,8 +642,8 @@ _broad gauge_: 680 km (2014) 1.520-m gauge<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Republic of Tajikistan: Ground Forces, Mobile Forces, Air and Air Defense Forces; Tajik National Guard (TNG)<br><br>Ministry of Internal Affairs: Internal Troops of Tajikistan (ITT); police<br><br>State Committee on National Security: Tajik Border Service (TBS) (2024)<br>
-<strong>note: </strong>the Mobile Forces are the airborne, air assault, mountain, and rapid reaction troops of the armed forces; the Tajik National Guard, formerly the Presidential Guard, is tasked with ensuring public safety and security, similar to the tasks of the Internal Troops; it also takes part in ceremonial duties<br>
+Armed Forces of the Republic of Tajikistan: Ground Forces, Mobile Forces, Air and Air Defense Forces<br><br>Tajik National Guard (TNG); Ministry of Internal Affairs: Internal Troops of Tajikistan; State Committee on National Security: Border Troops (aka Border Service) (2025)<br>
+<strong>note 1: </strong>the Mobile Forces are the airborne, air assault, mountain, and rapid reaction troops of the Armed Forces<br><br><strong>note 2:</strong> the Tajik National Guard, formerly the Presidential Guard, is a paramilitary force under direct authority of the President; it is tasked with ensuring public safety and security, similar to the tasks of the Internal Troops; it also has ceremonial duties<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2023 est.)<br>
@@ -658,7 +653,7 @@ Armed Forces of the Republic of Tajikistan: Ground Forces, Mobile Forces, Air an
 2.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 10,000 active-duty Armed Forces troops (7,500 Land and Mobile Forces; 1,500 Air and Air Defense Forces; 1,000 National Guard); approximately 4,000 Internal Troops (2024)<br>
+estimated 10,000 active Armed Forces; estimated 5-10,000 active paramilitary National Guard, Border Service, and Internal Troops personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is comprised mostly of older Russian and Soviet-era weapons and equipment; it also has smaller amounts of items from suppliers such as China, Turkey, and the US; in 2022, Tajikistan opened a plant to produce an Iranian-designed unmanned aerial vehicle under license (2024)<br>

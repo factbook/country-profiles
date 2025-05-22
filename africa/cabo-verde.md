@@ -565,11 +565,6 @@ _subscriptions per 100 inhabitants_: 12 (2023 est.)<br>
 _total subscriptions_: 590,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 99 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: LTE reaches almost 40% of the population; regulator awards commercial 4G licenses and starts 5G pilot; govt. extends USD 25 million for submarine fiber-optic cable project linking Africa to Portugal and Brazil (2020)<br>
-_domestic_: 9 per 100 fixed-line teledensity and nearly 100 per 100 mobile-cellular (2021)<br>
-_international_: country code - 238; landing points for the Atlantis-2, EllaLink, Cabo&nbsp;Verde Telecom Domestic Submarine Cable Phase 1,&nbsp;2, 3 and WACS fiber-optic transatlantic telephone cable that provides links to South America, Africa, and Europe; HF radiotelephone to Senegal and Guinea-Bissau; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
 state-run TV and radio network, plus a growing number of private broadcasters; Portuguese public TV and radio services for Africa are available; transmissions of a few international broadcasters are available (2019)<br>
 

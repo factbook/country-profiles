@@ -559,11 +559,6 @@ _subscriptions per 100 inhabitants_: 21 (2023 est.)<br>
 _total subscriptions_: 2.02 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 131 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: excellent international service; good local service; broadband access; expanded FttP (Fiber to the Home) markets; LTE launch; regulatory development; major growth in mobile telephony and data segments which attacks operation investment in fiber infrastructure; moves to end roaming charges (2020)<br>
-_domestic_: fixed-line is 21 per 100 persons and mobile-cellular teledensity 131 per 100 persons (2022)<br>
-_international_: country code - 1-868; landing points for the EC Link, ECFS, Southern Caribbean Fiber, SG-SCS and Americas II submarine cable systems provide connectivity to US, parts of the Caribbean and South America; satellite earth station - 1 Intelsat (Atlantic Ocean); tropospheric scatter to Barbados and Guyana (2020)<br>
-
 **Broadcast media**<br>
 6 free-to-air TV networks, 2 of which are state-owned; 24 subscription providers (cable and satellite); over 36 radio frequencies (2019)<br>
 
@@ -612,7 +607,7 @@ Trinidad and Tobago Defense Force (TTDF): Trinidad and Tobago Regiment (Army/Lan
 1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 5,000 TTDF personnel (2025)<br>
+approximately 5,000 Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the TTDF's ground force inventory consists of light weapons, while the Coast Guard and Air Guard field mostly secondhand equipment from a mix of countries, including Australia, China, Italy, the Netherlands, the UK, and the US (2024)<br>

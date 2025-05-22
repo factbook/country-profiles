@@ -335,7 +335,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Evariste NDAYISHIMIYE (since 18 June 2020)<br>
 _head of government_: Minister Gervais NDIRAKOBUCA (since 7 September 2022)<br>
 _cabinet_: Council of Ministers appointed by president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 20 May 2020 (next to be held in May 2027); vice presidents nominated by the president, endorsed by Parliament; note - a 2018 constitutional referendum, effective for the 2020 election, increased the presidential term from 5 to 7 years with a 2-consecutive-term limit, reinstated the position of the prime minister position, and reduced the number of vice presidents from 2 to 1<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 20 May 2020 (next to be held in May 2027); vice presidents nominated by the president, endorsed by Parliament<br>
 _election results_: <br><em>2020: </em>Evariste NDAYISHIMIYE elected president; percent of vote - Evariste NDAYISHIMIYE (CNDD-FDD) 71.5%, Agathon RWASA (CNL) 25.2%, Gaston SINDIMWO (UPRONA) 1.7%, other 1.6%<br><br><em>2015:</em> Pierre NKURUNZIZA reelected president; percent of vote - Pierre NKURUNZIZA (CNDD-FDD) 69.4%, Agathon RWASA (Hope of Burundians - Amizerio y'ABARUNDI) 19%, other 11.6%<br>
 
 **Legislative branch**<br>
@@ -600,11 +600,6 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 _total subscriptions_: 8.65 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 58 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Burundi provides an attractive telecom market given its high population density and existing low subscription rates for all services; one downside for investors is that the country has a very low economic output,and an unconducive business environment;&nbsp; disposable income is also very low, and fixed-line infrastructure is poor outside the main urban areas; this is a greater motivation for investors to focus on improving mobile networks than in expanding fixed-line infrastructure; to overcome difficulties associated with the poor telecom infrastructure, the government has supported a number of prominent telcos building a national fiber backbone network; this network offers onward connectivity to submarine cable infrastructure landings in Kenya and Tanzania; the first sections of this network were switched on in early 2014, and additional provinces have since been connected; in addition, the government in early 2018 kick-started the Burundi Broadband project, which aims to deliver national connectivity by 2025; based on this improved infrastructure the government and ITU have developed an ICT strategy to make use of telecoms to promote the country&rsquo;s socio-economic development through to 2028; progress made by Tanzania with its own national backbone network has benefited Burundi, which has been provided with onward connectivity to most countries in the region; International bandwidth capacity has continued to increase in recent years, including a 38% increase in the nine months to September 2021, resulting in lower retail prices for consumers; two of the mobile operators have launched 3G and LTE services to capitalize on the growing demand for internet access; the number of mobile subscribers increased 7% in the third quarter of 2021, quarter-on-quarter; similar growth is expected for the next two years at least, which will help bring the mobile level closer to the average for the region (2022); Burundi&rsquo;s Telecommunications Regulation and Control Agency (ARCT) has recently published its roadmap for the deployment of 5G services in the country, setting out a target of July 2024 for the introduction of commercial services. &nbsp; (2022)<br>
-_domestic_: fixed-line connections stand at less than 1 per 100 persons; mobile-cellular usage is about 62 per 100 persons (2021)<br>
-_international_: country code - 257; satellite earth station - 1 Intelsat (Indian Ocean); the government, supported by the World Bank, has backed a joint venture with a number of prominent telecoms to build a national fiber backbone network, offering onward connectivity to submarine cable infrastructure landings in Kenya and Tanzania (2019)<br>
-
 **Broadcast media**<br>
 state-controlled Radio Television Nationale de Burundi (RTNB) operates a TV station and a national radio network; 3 private TV stations and about 10 privately owned radio stations; transmissions of several international broadcasters are available in Bujumbura (2019)<br>
 
@@ -629,7 +624,7 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Burundi National Defense Force (BNDF; Force de Defense Nationale du Burundi or FDNB) : Land Force (la Force Terrestre), the Navy Force (la Force de la Marine), the Air Force (la Force Aérienne) and Specialized Units (des Unités Spécialisées)<br><br>Ministry of Interior, Community Development, and Public Security: Burundi National Police (Police Nationale du Burundi) (2024)<br>
+Burundi National Defense Force (BNDF; Force de Defense Nationale du Burundi, FDNB): Land Force (Army), Naval Force, Air Force, Specialized Units<br><br>Ministry of Interior, Community Development, and Public Security: Burundi National Police (Police Nationale du Burundi, PNB) (2024)<br>
 <strong>note:</strong> the Naval Force is responsible for monitoring Burundi’s 175-km shoreline on Lake Tanganyika; the Specialized Units include a special security brigade for the protection of institutions (aka BSPI), commandos, special forces, and military police<br>
 
 **Military expenditures**<br>
@@ -640,7 +635,7 @@ Burundi National Defense Force (BNDF; Force de Defense Nationale du Burundi or F
 3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 25-30,000 active-duty troops (2025)<br>
+limited available information; estimated 25-30,000 active-duty Defense Force troops (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military has a mix of mostly older weapons and equipment typically of French, Russian, and Soviet origin, and a smaller selection of more modern secondhand equipment from such countries as China, South Africa, and the US (2024)<br>

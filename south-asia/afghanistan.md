@@ -65,7 +65,7 @@ _other_: 39.4% (2022 est.)<br>
 _salt water lake(s)_: Ab-e Istadah-ye Muqur (endorheic basin) - 520 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Amu Darya (shared with Tajikistan [s], Turkmenistan, and Uzbekistan [m]) - 2,620 km; Helmand river source (shared with Iran) - 1,130 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Amu Darya (shared with Tajikistan [s], Turkmenistan, and Uzbekistan [m]) - 2,620 km; Helmand river source (shared with Iran) - 1,130 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Indus (1,081,718 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Amu Darya (534,739 sq km); Tarim Basin (1,152,448 sq km)<br>
@@ -276,7 +276,7 @@ _municipal solid waste generated annually_: 5,628,525 tons (2016 est.)<br>
 _salt water lake(s)_: Ab-e Istadah-ye Muqur (endorheic basin) - 520 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Amu Darya (shared with Tajikistan [s], Turkmenistan, and Uzbekistan [m]) - 2,620 km; Helmand river source (shared with Iran) - 1,130 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Amu Darya (shared with Tajikistan [s], Turkmenistan, and Uzbekistan [m]) - 2,620 km; Helmand river source (shared with Iran) - 1,130 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Indus (1,081,718 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Amu Darya (534,739 sq km); Tarim Basin (1,152,448 sq km)<br>
@@ -338,9 +338,9 @@ _residency requirement for naturalization_: 5 years<br>
 **Executive branch**<br>
 _chief of state_: Taliban Leader HAYBATULLAH Akhundzada (since 15 August 2021)<br>
 _head of government_: overall Taliban Leader HAYBATULLAH Akhundzada is the [so-called] Amir-ul Momineen of the Taliban and is seen by them as a head of government<br>
-_cabinet_: <p>the Taliban have announced a “cabinet” for the “caretaker government,” including the “acting prime minister,” “acting deputy prime ministers,” and “ministers” who claim to represent 26 ministries</p><br>
+_cabinet_: the Taliban have announced a &ldquo;cabinet&rdquo; for the &ldquo;caretaker government,&rdquo; including the &ldquo;acting prime minister,&rdquo; &ldquo;acting deputy prime ministers,&rdquo; and &ldquo;ministers&rdquo; who claim to represent 26 ministries<br>
 _elections/appointments_: the 2004 Afghan constitution directed that the president should be elected by majority popular vote for a 5-year term (eligible for a second term); election last held on 28 September 2019, and the Taliban have given no indication that they intend to reinstate elections or any other mechanism of democratic governance<br>
-note: the United States has not yet made a decision whether to recognize the Taliban or any other entity as the government of Afghanistan<br>
+<strong>note:</strong> the United States has not yet made a decision whether to recognize the Taliban or any other entity as the government of Afghanistan<br>
 
 **Legislative branch**<br>
 <strong>note:</strong> Afghanistan’s bicameral National Assembly consisted of the House of Elders and House of the People but was dissolved after the Taliban took control of Afghanistan in August 2021<br>
@@ -578,11 +578,6 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 _total subscriptions_: 23 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 57 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Afghanistan's telecom sector is facing challenges providing adequate coverage to all of the population; prior to the Taliban regaining power, the World Bank and other donors supported the development of a nationwide fiber backbone, and there is terrestrial cable connectivity to five neighboring countries; work on the Wakhan Corridor Fiber Optic Survey Project to connect to China has faced obstacles because of Afghanistan's economic issues (2021)<br>
-_domestic_: before the Taliban takeover in August 2021, less than 1 per 100 for fixed-line teledensity; 57 per 100 for mobile-cellular subscriptions (2021)<br>
-_international_: country code - 93; multiple VSAT's&nbsp;provide international and domestic voice and data connectivity (2019)<br>
-
 **Broadcast media**<br>
 under the Taliban, independent media outlets have decreased and are probably self-censoring; the Ministry of Information and Culture monitors all mass media; television and radio are key media platforms; only about a fifth of Afghans use the internet, mostly through smartphones (2023)<br>
 
@@ -620,7 +615,7 @@ the Taliban claims authority over a Ministry of Defense and a National Army (aka
 2.9% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-the Taliban claims to have 190,000 personnel under the Ministry of Defense and 215,000 under the Ministry of Interior (2025)<br>
+the Taliban claims to have 190,000 under the Ministry of Defense and 215,000 under the Ministry of Interior (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Taliban military/security forces are armed with weapons and equipment captured in 2021 from the Afghan National Defense and Security Forces, which was largely equipped with Russian/Soviet-era and US material (2024)<br>

@@ -324,7 +324,6 @@ _head of government_: Prime Minister Kristen MICHAL (since 23 July 2024)<br>
 _cabinet_: Cabinet appointed by the prime minister, approved by Parliament<br>
 _elections/appointments_: president indirectly elected by Parliament for a 5-year term (eligible for a second term); if a candidate does not secure two thirds of the votes after 3 rounds of balloting, then an electoral college consisting of Parliament members and local council members elects the president, choosing between the 2 candidates with the highest number of votes; if a president is still not elected, the process begins again; election last held on 30 to 31 August 2021 (next to be held in 2026); prime minister nominated by the president and approved by Parliament<br>
 _election results_: <em><br>2021:</em> Alar KARIS (independent) elected president; won second round of voting in parliament with 72 of 101 votes<br><br><em>2016:</em> Kersti KALJULAID elected president; won sixth round of voting in parliament with 81 of 98 votes (17 ballots blank); KALJULAID sworn in on 10 October 2016 - first female head of state of Estonia<br>
-<strong>note </strong>- Prime Minister Kaja KALLAS resigned on 15 July 2024 but will continue as acting prime minister until the new government is sworn in<br>
 
 **Legislative branch**<br>
 _legislature name_: The Estonian Parliament (Riigikogu)<br>
@@ -597,11 +596,6 @@ _subscriptions per 100 inhabitants_: 17 (2023 est.)<br>
 _total subscriptions_: 2.05 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 155 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: <p>investment in Estonia’s telecom market has been focused on fixed-line infrastructure upgrades, and the deployment of 5G services; fixed broadband subscribers are gradually migrating from digital subscriber lines (DSL) to fiber, with the legacy copper being replaced; the Mobile Network Operators (MNOs) have comprehensive long-term evolution (LTE) infrastructure in place, and have in recent years channeled investment to 5G; several 5G trials have been undertaken in recent years, though commercial service launches have been restricted by the lack of available internet services</p> (2024)<br>
-_domestic_: 20 per 100 for fixed-line subscribership and approximately 155 per 100 for mobile-cellular (2022)<br>
-_international_: country code - 372; landing points for the EE-S-1, EESF-3, Baltic Sea Submarine Cable, FEC and EESF-2 fiber-optic submarine cables to other Estonia points, Finland, and Sweden; 2 international switches are located in Tallinn (2019)<br>
-
 **Broadcast media**<br>
 the publicly owned broadcaster, Eesti Rahvusringhaaling (ERR), operates 3 TV channels and 5 radio networks; growing number of private commercial radio stations broadcasting nationally, regionally, and locally; fully transitioned to digital television in 2010; national private TV channels expanding service, with a range of channels aimed at Russian-speaking viewers; in 2016, there were 42 on-demand services available in Estonia, including 19 pay TVOD and SVOD services; roughly 85% of households accessed digital television services<br>
 
@@ -656,7 +650,7 @@ Estonian Defense Forces: Land Forces, Navy, Air Force; Estonian Defense League 
 2.3% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 7,500 active-duty personnel; approximately 15,000 Defense League (2024)<br>
+approximately 7,500 active-duty Defense Forces; approximately 15,000 Defense League (2024)<br>
 <strong>note: </strong>the Estonian Defense Forces rely largely on reservists who have completed compulsory conscription in the previous 10 years to fill out its active duty and Territorial Defense units during a crisis; there are more than 40,000 trained reservists, and approximately 230,000 Estonians are enrolled in the mobilization registry<br>
 
 **Military equipment inventories and acquisitions**<br>

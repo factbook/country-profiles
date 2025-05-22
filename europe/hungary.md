@@ -65,7 +65,7 @@ _other_: 21.9% (2022 est.)<br>
 _fresh water lake(s)_: Lake Balaton - 590 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Duna (Danube) (shared with Germany [s], Austria, Slovakia, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Duna (Danube) (shared with Germany [s], Austria, Slovakia, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -267,7 +267,7 @@ _percent of municipal solid waste recycled_: 25.9% (2015 est.)<br>
 _fresh water lake(s)_: Lake Balaton - 590 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Duna (Danube) (shared with Germany [s], Austria, Slovakia, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Duna (Danube) (shared with Germany [s], Austria, Slovakia, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -622,11 +622,6 @@ _subscriptions per 100 inhabitants_: 28 (2023 est.)<br>
 _total subscriptions_: 10.2 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 104 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: <p>Hungary’s telecom infrastructure has been upgraded in recent years following considerable investments made by telcos as they upgrade their mobile networks to 5G and deploy more fiber; these developments have helped operators to promote converged fixed and mobile service; the number of fixed lines continue to fall as subscribers migrate to the mobile platform for voice and data services; a number of measures aimed at promoting competition in the broadband market encourage investment in technology upgrades; Hungary has the highest fixed broadband penetration rate in Eastern Europe; there remains considerable growth in mobile broadband services delivered via upgraded networks; 5G development is supported by the government, universities, other telcos, and vendors</p> (2024)<br>
-_domestic_: fixed-line connections, with 29 fixed per 100 persons and 104 mobile-cellular subscriptions per 100 (2022)<br>
-_international_: country code - 36; Hungary has fiber-optic cable connections with all neighboring countries; the international switch is in Budapest; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean regions), 1 Inmarsat, 1 (very small aperture terminal) VSAT system of ground terminals<br>
-
 **Broadcast media**<br>
 mixed system of state-supported media and private broadcasters; the 5 publicly owned TV channels and the 2 main privately owned TV stations are the major national broadcasters; large number of special-interest channels; highly developed market for satellite and cable TV with about two-thirds of viewers utilizing the services; 4 state-supported radio networks; large number of local stations, including commercial, public service, nonprofit, and community radio stations; digital transition completed in 2013 (2019)<br>
 
@@ -672,7 +667,7 @@ Hungarian Defense Forces (HDF or Magyar Honvédség): the HDF is organized as a 
 1.8% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 21,000 active-duty troops (16,000 Army; 5,000 Air Force) (2024)<br>
+approximately 21,000 active-duty Defense Forces (16,000 Army; 5,000 Air Force) (2024)<br>
 <strong>note:</strong> in 2017, Hungary announced plans to increase the number of active soldiers to around 37,000 but did not give a timeline<br>
 
 **Military equipment inventories and acquisitions**<br>

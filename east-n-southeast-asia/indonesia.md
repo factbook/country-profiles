@@ -68,7 +68,7 @@ _other_: 22.2% (2022 est.)<br>
 _fresh water lake(s)_: Danau Toba - 1,150 sq km<br>note - located in the caldera of a super volcano that erupted more than 70,000 years ago; it is the largest volcanic lake in the World<br>
 
 **Major rivers (by length in km)**<br>
-Sepik (shared with Papua New Guinea [s]) - 1,126 km; Fly (shared with Papua New Guinea [s]) - 1,050 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Sepik (shared with Papua New Guinea [s]) - 1,126 km; Fly (shared with Papua New Guinea [s]) - 1,050 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Population distribution**<br>
 major concentration on the island of Java, which is considered one of the most densely populated places on earth; of the outer islands (those surrounding Java and Bali), Sumatra contains some of the most significant clusters, particularly in the south near the Selat Sunda, and along the northeastern coast near Medan; the cities of Makasar (Sulawesi), Banjarmasin (Kalimantan) are also heavily populated<br>
@@ -276,7 +276,7 @@ _percent of municipal solid waste recycled_: 7% (2016 est.)<br>
 _fresh water lake(s)_: Danau Toba - 1,150 sq km<br>note - located in the caldera of a super volcano that erupted more than 70,000 years ago; it is the largest volcanic lake in the World<br>
 
 **Major rivers (by length in km)**<br>
-Sepik (shared with Papua New Guinea [s]) - 1,126 km; Fly (shared with Papua New Guinea [s]) - 1,050 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Sepik (shared with Papua New Guinea [s]) - 1,126 km; Fly (shared with Papua New Guinea [s]) - 1,050 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Total water withdrawal**<br>
 _municipal_: 23.8 billion cubic meters (2020 est.)<br>
@@ -632,11 +632,6 @@ _subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 _total subscriptions_: 352 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 115 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Indonesia faces more than the usual number of obstacles in terms of enabling widespread access to quality telecommunications services for its population of more than 270 million; the geographical challenges have been further compounded by a variety of social, political, and economic problems over the years that have kept the country&rsquo;s wealth distributed very thinly; the fixed-line (fiber) and mobile operators have continued to expand and upgrade their networks across the country; Indonesia&rsquo;s 18,000 islands (many of which, however, are sparsely populated) makes the deployment of fixed-line infrastructure on a broad scale difficult; there has been renewed activity in fiber optic cable, but the bundling of fixed-line telephony with TV and internet services will see the country&rsquo;s teledensity stabilize; mobile subscriptions have reached more than 130% and is projected to exceed 150% by 2026; with 4G LTE universally available, the major mobile companies have been busy launching 5G services in selected areas; the rollout of 5G will be hampered by the lack of availability of suitable frequencies; the 4G had to be reallocated from broadcasting services, and indications are that the same process is going to have to be followed in order to allow the expansion of 5G into its core frequency bands (3.3 to 4.2GHz) (2022)<br>
-_domestic_: fixed-line subscribership roughly 3 per 100 and mobile-cellular 134 per 100 persons (2021)<br>
-_international_: country code - 62; landing points for the SEA-ME-WE-3 &amp; 5, DAMAI, JASUKA,&nbsp;BDM,&nbsp;Dumai-Melaka Cable System, IGG, JIBA,&nbsp;Link 1, 3, 4, &nbsp;&amp; 5, PGASCOM, B3J2, Tanjung Pandam-Sungai Kakap Cable System, JAKABARE, JAYABAYA, INDIGO-West, Matrix&nbsp;Cable System, ASC, SJJK, Jaka2LaDeMa, S-U-B Cable System, JBCS, MKCS, BALOK, Palapa Ring East, West&nbsp;and Middle, SMPCS Packet-1 and 2, LTCS, TSCS, SEA-US and Kamal Domestic Submarine Cable System, 35&nbsp;submarine cable networks that provide links throughout Asia, the Middle East,&nbsp;Australia, Southeast Asia, Africa&nbsp;and Europe; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific Ocean) (2019)<br>
-
 **Broadcast media**<br>
 mix of about a dozen national TV networks, including 1 public broadcaster and the rest private; more than 100 local TV stations; widespread use of satellite and cable TV systems; public radio broadcaster operates 6 national networks, as well as regional and local stations; more than 700 radio stations, with over 650 privately operated (2019)<br>
 
@@ -693,7 +688,7 @@ Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-An
 0.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 400,000 active TNI troops, including about 300,000 Army (2025)<br>
+approximately 400,000 active Armed Forces, including about 300,000 Army (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a wide mix of Chinese, Russian, and Western (including US) equipment; in recent years, major suppliers have included China, France, Germany, the Netherlands, South Korea, and the US; the TNI has been engaged in a modernization program for more than a decade; Indonesia has a growing defense industry fueled by technology transfers and cooperation agreements with several countries; in 2019, the Indonesian Government said that growing its domestic defense industry would be a national priority over the following decade (2024)<br>

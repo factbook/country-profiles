@@ -604,11 +604,6 @@ _subscriptions per 100 inhabitants_: 13 (2023 est.)<br>
 _total subscriptions_: 7.5 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 127 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Denmark has one of the highest broadband subscription rates globally, with a near universal availability of super-fast connections; extensive cable and DSL infrastructure has been supported by a progressive regulatory regime which has encouraged operator access to both copper and fiber networks; fiber networks have a fast-growing footprint, while a number of community and metropolitan schemes have supplemented their own commitments to build out fiber nationally; a number of wholesale fiber schemes have also added to the wider availability of fiber broadband; the reach of LTE infrastructure is comprehensive, while the Mobile Network Operators by mid-2021 had also provided about 90% population coverage with 5G; services based on 5G were initially launched using trial 3.5GHz licenses; the multi-spectrum auction held in April 2021 has enabled them to improve the resilience and capacity of 5G; all MNOs are engaged in closing down their 3G networks and repurposing spectrum for LTE and 5G use (2021)<br>
-_domestic_: fixed-line roughly 12 per 100 and about 124 per 100 for mobile-cellular subscriptions (2021)<br>
-_international_: country code - 45; landing points for the NSC, COBRAcable, CANTAT-3, DANICE, Havfrue/AEC-2, TAT-14m Denmark-Norway-5 &amp; 6, Skagenfiber West &amp; East, GC1, GC2, GC3, GC-KPN, Kattegat 1 &amp; 2 &amp; 3, Energinet Lyngsa-Laeso, Energinet Laeso-Varberg, Fehmarn Balt, Baltica, German-Denmark 2 &amp; 3, Ronne-Rodvig, Denmark-Sweden 15 &amp; 16 &amp; 17 &amp; 18, IP-Only Denmark-Sweden, Scandinavian South, Scandinavian Ring North, Danica North, 34 series of fiber-optic submarine cables link Denmark with Canada, Faroe Islands, Germany, Iceland, Netherlands, Norway, Poland, Russia, Sweden, US, and UK; satellite earth stations - 18 (6 Intelsat, 10 Eutelsat, 1 Orion, 1 Inmarsat (Blaavand-Atlantic-East)); note - the Nordic countries (Denmark, Finland, Iceland, Norway, and Sweden) share the Danish earth station and the Eik, Norway, station for worldwide Inmarsat access (2019)<br>
-
 **Broadcast media**<br>
 strong public-sector TV presence, with Danmarks Radio (DR) operating 6 channels and TV2 operating roughly a half-dozen channels; private stations are available via satellite and cable feed; DR operates 4 FM radio stations, 10 digital audio stations, and 14 web-based radio stations; 140 commercial and 187 community (non-commercial) radio stations (2019)<br>
 
@@ -662,7 +657,7 @@ Danish Armed Forces (Forsvaret): Royal Danish Army, Royal Danish Navy, Royal Dan
 1.4% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 17,000 active-duty personnel (10,000 Army; 3,500 Navy; 3,500 Air Force) (2024)<br>
+approximately 17,000 active-duty Armed Forces (10,000 Army; 3,500 Navy; 3,500 Air Force) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Danish military inventory is comprised of modern European, US, and domestically produced weapons and equipment; the Danish defense industry is active in the production of naval vessels, defense electronics, and subcomponents of larger weapons systems, such as the US F-35 fighter aircraft; the major warships of the Royal Danish Navy were all produced domestically (2024)<br>

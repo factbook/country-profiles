@@ -318,10 +318,10 @@ _residency requirement for naturalization_: 5 years with no absences of six cons
 18 years of age; universal; note - active duty members of the armed forces and police by law cannot vote and are restricted to their barracks on election day<br>
 
 **Executive branch**<br>
-_chief of state_: President Bernardo AR&Eacute;VALO de Le&oacute;n (since 15 January 2024)&nbsp;<br>
+_chief of state_: President Bernardo AR&Eacute;VALO de Le&oacute;n (since 15 January 2024)<br>
 _head of government_: President Bernardo AR&Eacute;VALO de Le&oacute;n (since 15 January 2024)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (not eligible for consecutive terms); election last held on 25 June 2023 with a runoff on 20 August 2023 (next to be held in June 2027)<br>
+_elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (not eligible for consecutive terms); election last held on 25 June 2023, with a runoff on 20 August 2023 (next to be held in June 2027)<br>
 _election results_: <em><br>2023:</em> Bernardo ARÉVALO de León elected president in second round; percent of vote in first round - Sandra TORRES (UNE) 21%; Bernardo ARÉVALO de León (SEMILLA) 15.6%, Manuel CONDE Orellana (VAMOS) 10.4%; Armando CASTILLO Alvarado (VIVA) 9.6%, other 43.4%; percent of vote in second round - Bernardo ARÉVALO de León 60.9%, Sandra TORRES 39.1%<br><em><br>2019:</em> Alejandro GIAMMATTEI elected president; percent of vote in first round - Sandra TORRES (UNE) 25.5%, Alejandro GIAMMATTEI (VAMOS) 14%, Edmond MULET (PHG) 11.2%, Thelma CABRERA (MLP) 10.4%, Roberto ARZU (PAN-PODEMOS) 6.1%, other 32.8%; percent of vote in second round - Alejandro GIAMMATTEI 58%, Sandra TORRES 42%<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
@@ -606,11 +606,6 @@ _subscriptions per 100 inhabitants_: 11 (2023 est.)<br>
 _total subscriptions_: 20.6 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 115 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Guatemala&rsquo;s telecom infrastructure has suffered from years of under investment from state and provincial government; the poor state of fixed-line infrastructure has led to Guatemala having one of the lowest fixed-line teledensities in the region; in many rural regions of the country there is no fixed-line access available, and so mobile services are adopted by necessity; private investment has been supported by government and regulatory efforts, resulting in a steady growth in the number of fixed lines which has supported growth in the fixed broadband segment; delays in launching LTE services left the country lagging behind in the development of mobile broadband and the benefits which it can bring to the country's social and economic growth; two new submarine cables are due for completion by 2022; improved international connectivity should drive further uptake of both fixed and mobile broadband services; intense competition among the networks has helped to improve services and lower prices for end-users; given the commercial impetus of networks, insufficient government financial investment has resulted in many regional areas remaining with poor or non-existent services; the country benefits from one of the most open regulatory frameworks, with all telecom sectors having been open to competition since 1996; mobile subscriptions are on par with the regional average, though the slower growth in the mobile subscriber base suggests a level of market saturation, with the emphasis among networks being on generating revenue via mobile data services (2021)<br>
-_domestic_: fixed-line teledensity roughly 13 per 100 persons; fixed-line investments are concentrating on improving rural connectivity; mobile-cellular teledensity about 126 per 100 persons (2021)<br>
-_international_: country code - 502; landing points for&nbsp;the ARCOS, AMX-1, American Movil-Texius&nbsp;West Coast Cable and the SAm-1 fiber-optic submarine cable system that, together, provide connectivity to South and Central America, parts of the Caribbean, and the US; connected to Central American Microwave System; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
 4 privately owned national terrestrial TV channels dominate TV broadcasting; multi-channel satellite and cable services are available; 1 government-owned radio station and hundreds of privately owned radio stations (2019)<br>
 
@@ -667,7 +662,7 @@ Army of Guatemala (Ejercito de Guatemala; aka Armed Forces of Guatemala or Fuerz
 0.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 20,000 active military personnel (2025)<br>
+approximately 20,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military is lightly armed with an inventory mostly comprised of older US equipment; in recent years, Guatemala has received small amounts of equipment from several countries, including Colombia, Spain, and the US (2024)<br>

@@ -65,7 +65,7 @@ _other_: 12% (2022 est.)<br>
 1,000 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
-Dunay (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Romania [m]) - 2,888 km; Dnipro (Dnieper) river mouth (shared with Russia [s] and Belarus) - 2,287 km; Dnister (Dniester) river source and mouth (shared with Moldova) - 1,411 km; Vistula (shared with Poland [s/m] and Belarus) - 1,213 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Dunay (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Romania [m]) - 2,888 km; Dnipro (Dnieper) river mouth (shared with Russia [s] and Belarus) - 2,287 km; Dnister (Dniester) river source and mouth (shared with Moldova) - 1,411 km; Vistula (shared with Poland [s/m] and Belarus) - 1,213 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km), Don (458,694 sq km), Dnieper (533,966 sq km)<br>
@@ -270,7 +270,7 @@ _municipal solid waste recycled annually_: 487,745 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 3.2% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Dunay (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Romania [m]) - 2,888 km; Dnipro (Dnieper) river mouth (shared with Russia [s] and Belarus) - 2,287 km; Dnister (Dniester) river source and mouth (shared with Moldova) - 1,411 km; Vistula (shared with Poland [s/m] and Belarus) - 1,213 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Dunay (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Romania [m]) - 2,888 km; Dnipro (Dnieper) river mouth (shared with Russia [s] and Belarus) - 2,287 km; Dnister (Dniester) river source and mouth (shared with Moldova) - 1,411 km; Vistula (shared with Poland [s/m] and Belarus) - 1,213 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km), Don (458,694 sq km), Dnieper (533,966 sq km)<br>
@@ -336,9 +336,9 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Volodymyr ZELENSKYY (since 20 May 2019)<br>
 _head of government_: Prime Minister Denys SHMYHAL (since 4 March 2020)<br>
 _cabinet_: Cabinet of Ministers nominated by the prime minister, approved by the Verkhovna Rada<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 31 March and 21 April 2019, the next election was scheduled to be held in March/April 2024 but no election was held because Ukraine has been under martial law since February 2022, and a presidential election cannot be held when martial law is in effect; prime minister selected by the Verkhovna Rada<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 31 March and 21 April 2019, the next election was scheduled to be held in March/April 2024, but no election was held because Ukraine has been under martial law since February 2022; prime minister selected by the Verkhovna Rada<br>
 _election results_: <em><br>2019:</em> Volodymyr ZELENSKYY elected president in second round; percent of vote in first round - Volodymyr ZELENSKYY (Servant of the People) 30.2%, Petro POROSHENKO (BPP-Solidarity) 15.6%, Yuliya TYMOSHENKO (Fatherland) 13.4%, Yuriy BOYKO (Opposition Platform-For Life) 11.7%, 35 other candidates 29.1%; percent of vote in the second round - Volodymyr ZELENSKYY 73.2%, Petro POROSHENKO 24.5%, other 2.3%; Denys SHMYHAL (independent) elected prime minister; Verkhovna Rada vote - 291-59<br><br><em>2014: </em>Petro POROSHENKO elected president in first round; percent of vote - Petro POROSHENKO (independent) 54.5%, Yuliya TYMOSHENKO (Fatherland) 12.9%, Oleh LYASHKO (Radical Party) 8.4%, other 24.2%; Volodymyr HROYSMAN (BPP) elected prime minister; Verkhovna Rada vote - 257-50<br>
-<strong>note:</strong> there is also a National Security and Defense Council or NSDC originally created in 1992 as the National Security Council; the NSDC staff is tasked with developing national security policy on domestic and international matters and advising the president; a presidential administration helps draft presidential edicts and provides policy support to the president<br>
+<strong>note:</strong> a National Security and Defense Council or NSDC was created in 1992 and tasked with developing national security policy on domestic and international matters and advising the president; a presidential administration helps draft presidential edicts and provides policy support to the president<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Verkhovna Rada)<br>
@@ -630,11 +630,6 @@ _subscriptions per 100 inhabitants_: 4 (2023 est.)<br>
 _total subscriptions_: 50.3 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 135 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: there has been considerable damage and destruction to the communications infrastructure in more than 10 out of 24 regions of Ukraine since the war started; Ukraine estimates it will need $4.67 billion (&euro;4.38 billion) over 10 years to repair an overlooked but expensive casualty in the ongoing Russian invasion: its telecommunications network; forty-five per cent of the total network damage is felt by fixed broadband operators, followed closely by mobile operators at 43 percent; "it will be difficult to restore telecommunications to their pre-war level until there are "conditions for the safe living of consumers and service providers"; the World Bank estimates that roughly 12 per cent of all Ukrainian households have lost mobile service connection: an issue, the report notes, that "affects not only personal communication but also critical services and economic activities"; Ukraine is also one of the biggest users of SpaceX&rsquo;s Starlink, a series of satellites in space that transmit radio signals to users on Earth, with 47,000 units being used by the country; (2024)<br>
-_domestic_: fixed-line teledensity is 6 per 100; the mobile-cellular telephone is 135 mobile phones per 100 persons (2022)<br>
-_international_: country code - 380; landing point for the Kerch Strait Cable connecting Ukraine to Russia; 2 new domestic trunk lines are a part of the fiber-optic TAE system and 3 Ukrainian links have been installed in the fiber-optic TEL project that connects 18 countries; additional international service is provided by the Italy-Turkey-Ukraine-Russia (ITUR) fiber-optic submarine cable and by an unknown number of earth stations in the Intelsat, Inmarsat, and Intersputnik satellite systems<br>
-
 **Broadcast media**<br>
 media landscape dominated by oligarch-owned news outlets; United News created for 24-hour news about the war with Russia, a joint effort from the Ukrainian public broadcaster and top commercial TV channels; Ukraine Radio's Suspilne and privately owned Radio NV are the national talk radio networks (2021)<br>
 
@@ -647,9 +642,6 @@ _percent of population_: 79% (2021 est.)<br>
 **Broadband - fixed subscriptions**<br>
 _total_: 8.07 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 20 (2023 est.)<br>
-
-**Communications - note**<br>
-a sorting code to expeditiously handle large volumes of mail was first set up in Ukraine in the 1930s (then the Ukrainian Soviet Socialist Republic, part of the Soviet Union); the sophisticated, three-part (number-letter-number) postal code system, referred to as an "index," was the world's first postal zip code; the system functioned well and was in use from 1932 to 1939 when it was abruptly discontinued<br>
 
 ## Transportation
 
@@ -683,8 +675,8 @@ _key ports_: Berdyansk, Dnipro-Buzkyy, Feodosiya, Illichivsk, Kerch, Kherson, Ma
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Ukraine (AFU; Zbroyni Syly Ukrayiny or ZSU): Ground Forces (Sukhoputni Viys’ka, SV), Naval Forces (Viys’kovo-Mors’ki Syly, VMS), Air Forces (Povitryani Syly, PS), Air Assault Forces (Desantno-shturmovi Viyska, DShV), Ukrainian Special Operations Forces (UASOF), Unmanned Systems Forces, Territorial Defense Forces (Reserves)<br><br>Ministry of Internal Affairs: National Guard of Ukraine, State Border Guard Service of Ukraine (includes Maritime Border Guard or Sea Guard) (2024)<br>
-<strong>note 1:</strong> in the event that martial law is declared, all National Guard units, with certain exceptions such as those tasked with providing for diplomatic security of embassies and consulates, would come under the command of the Ministry of Defense as auxiliary forces to the Armed Forces<br><br><strong>note 2: </strong>the Territorial Defense Forces (TDF) were formally established in July 2021; the TDF evolved from former Territorial Defense Battalions and other volunteer militia and paramilitary units that were organized in 2014-2015 to fight Russian-backed separatists in the Donbas; in January 2022, the TDF was activated as a separate military branch<br>
+Armed Forces of Ukraine (AFU; Zbroyni Syly Ukrayiny or ZSU): Ground Forces (Sukhoputni Viys’ka, SV), Naval Forces (Viys’kovo-Mors’ki Syly, VMS), Air Forces (Povitryani Syly, PS), Air Assault Forces (Desantno-shturmovi Viyska, DShV), Ukrainian Special Operations Forces (UASOF), Unmanned Systems Forces, Territorial Defense Forces (Reserves)<br><br>Ministry of Internal Affairs: National Guard of Ukraine, State Border Guard Service of Ukraine (includes Maritime Border Guard or Sea Guard) (2025)<br>
+<strong>note 1:</strong> in the event that martial law is declared, all National Guard units, with certain exceptions such as those tasked with providing for diplomatic security of embassies and consulates, would come under the command of the Ministry of Defense as auxiliary forces to the Armed Forces<br><br><strong>note 2: </strong>the Territorial Defense Forces (TDF) were formally established in July 2021; the TDF evolved from former Territorial Defense Battalions and other volunteer militia and paramilitary units that were organized in 2014-2015 to fight Russian-backed separatists in the Donbas; in January 2022, the TDF was activated as a separate military branch<br><br><strong>note 3:</strong> collectively, the AFU and the forces under the Ministry of Interior are known as the Defense Forces of Ukraine (DFU)<br>
 
 **Military expenditures**<br>
 4% of GDP (2021 est.)<br>
@@ -695,15 +687,15 @@ Armed Forces of Ukraine (AFU; Zbroyni Syly Ukrayiny or ZSU): Ground Forces (Sukh
 <strong>note:</strong> since Russia's invasion of the country in early 2022, annual defense spending has increased to more than 30% of GDP according to some estimates<br>
 
 **Military and security service personnel strengths**<br>
-estimated 800,000 active Armed Forces personnel (2024)<br>
+estimated 850,000-1 million active Defense Forces (2025)<br>
 <strong>note:</strong> following the Russian invasion of Ukraine in February 2022, President ZELENSKY announced a general mobilization of the country; prior to the invasion, Ukraine had approximately 200,000 active Armed Forces troops, approximately 50,000 National Guard, and approximately 40,000 State Border Guard<br>
 
 **Military equipment inventories and acquisitions**<br>
 prior to the full-scale Russian invasion in February 2022, the Ukrainian military was equipped largely with Russian-origin and Soviet-era weapons systems; since the invasion, it has received considerable quantities of weapons, including Soviet-era and more modern Western systems, from European countries and the US; Ukraine also has a growing inventory of domestically-produced weapons and equipment (2024)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary service; conscription abolished in 2012, but reintroduced for men in 2014; 25 years of age for conscription; prior to the Russian invasion of February 2022, conscript service obligation was 12-18 months, depending on the service (2024)<br>
-<strong>note 1: </strong>following the Russian invasion in 2022, all non-exempt men ages 18-60 were required to register with their local recruitment offices and undergo medical screening for possible service; the Territorial Defense Forces (TDF) accepts volunteers, 18-60 years of age; since the invasion, hundreds of thousands of Ukrainians have volunteered for the regular armed forces, the TDF, or to work in civilian defense activities <strong><br><br></strong><strong>note 2: </strong>women have been able to volunteer for military service since 1993; as of 2024, nearly 70,000 women were serving in the armed forces in both uniformed and civilian positions <br><br><strong>note 3:</strong> since 2015, the Ukrainian military has allowed foreigners and stateless persons, 18-45 (in special cases up to 60), to join on 3-5-year contracts, based on qualifications; following the Russian invasion in 2022, the military began accepting medically fit foreign volunteers on a larger scale into an International Legion<br>
+18 years of age for voluntary service for men and women; 25 years of age for conscription for men; 18-24 months service obligation (2025)<br>
+<strong>note 1: </strong>conscription was abolished in 2012, but reintroduced in 2014; following the Russian invasion in 2022, all non-exempt men ages 18-60 were required to register with their local recruitment offices and undergo medical screening for possible service; the Territorial Defense Forces accept volunteers, 18-60 years of age<br><br><strong>note 2: </strong>in February 2025, the military implemented a new option for volunteers age 18-24 to sign one-year contracts in return for higher wages, a signing bonus, exemption from mobilization for 12 months, and other social benefits<strong><br><br></strong><strong>note 3: </strong>women have been able to volunteer for military service since 1993; as of 2024, nearly 70,000 women were serving in the armed forces in both uniformed and civilian positions <br><br><strong>note 4:</strong> since 2015, the Ukrainian military has allowed foreigners and stateless persons, 18-45 (in special cases up to 60), to join on 3-5-year contracts, based on qualifications; following the 2022 Russian invasion, the military began accepting medically fit foreign volunteers on a larger scale into an International Legion<br>
 
 **Military deployments**<br>
 <strong>note:</strong> prior to the Russian invasion in 2022, Ukraine had committed about 500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units; units affiliated with the multinational brigade remain within the structures of the armed forces of their respective countries until the brigade is activated for participation in an international operation<br>

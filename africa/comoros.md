@@ -547,11 +547,6 @@ _subscriptions per 100 inhabitants_: 1 (2023 est.) less than 1<br>
 _total subscriptions_: 934,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 100 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Comoros launched a special program for the construction of a wireless network to inter connect the 3 islands of the archipelago; telephone service limited to the islands' few towns (2020)<br>
-_domestic_: fixed-line connections less than 1 per 100 persons; mobile-cellular usage about 104 per 100 persons (2021)<br>
-_international_: country code - 269; landing point for the EASSy, Comoros Domestic Cable System, Avassa, and FLY-LION3&nbsp;fiber-optic submarine cable system connecting East Africa with Europe; HF radiotelephone communications to Madagascar and Reunion (2019)<br>
-
 **Broadcast media**<br>
 national state-owned TV station and a TV station run by Anjouan regional government; national state-owned radio; regional governments on the islands of Grande Comore and Anjouan each operate a radio station; a few independent and small community radio stations operate on the islands of Grande Comore and Moheli, and these two islands have access to Mayotte Radio and French TV<br>
 
@@ -593,7 +588,7 @@ National Army for Development (l'Armee Nationale de Developpement, AND): Comoran
 <strong>note 1: </strong>when the Gendarmerie serves as the judicial police, it reports to the Minister of Justice; the Gendarmerie also has an intervention platoon that may act under the authority of the Interior Minister<br><br><strong>note 2:</strong> the FCD is also known as the Comoran Security Force<br>
 
 **Military and security service personnel strengths**<br>
-estimated 600 Defense Force personnel; estimated 500 Federal Police (2023)<br>
+estimated 600 Defense Force; estimated 500 Federal Police (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the AND is lightly armed and equipped with small arms and a few light aircraft (2023)<br>

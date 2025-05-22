@@ -65,7 +65,7 @@ _other_: 9.1% (2022 est.)<br>
 1,200 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Senegal (shared with Guinea [s], Mali, and Mauritania [m] ) - 1,641 km; Gambie (Gambia) (shared with Guinea [s] and The Gambia [m]) - 1,094 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Senegal (shared with Guinea [s], Mali, and Mauritania [m] ) - 1,641 km; Gambie (Gambia) (shared with Guinea [s] and The Gambia [m]) - 1,094 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Senegal (456,397 sq km)<br>
@@ -271,7 +271,7 @@ _methane emissions_: 11.74 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 2,454,059 tons (2016 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Senegal (shared with Guinea [s], Mali, and Mauritania [m] ) - 1,641 km; Gambie (Gambia) (shared with Guinea [s] and The Gambia [m]) - 1,094 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Senegal (shared with Guinea [s], Mali, and Mauritania [m] ) - 1,641 km; Gambie (Gambia) (shared with Guinea [s] and The Gambia [m]) - 1,094 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Senegal (456,397 sq km)<br>
@@ -604,11 +604,6 @@ _subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
 _total subscriptions_: 22.4 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 120 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Senegal&rsquo;s telecom market continues to show steady growth in all sectors; this has been supported by the particular demands made on consumers during the pandemic, which resulted in a particularly strong increase in the number of subscribers; the mobile subscriber base increased 6.7% in 2020, year-on-year, and by 4.1% in 2021, while the number of fixed broadband subscribers increased 17.5% year-on-year in 2021; mobile internet platforms account for the vast majority of all internet accesses; quality of service issues continue to plague the market, with the regulator periodically issuing fines to the market players (2022)<br>
-_domestic_: fixed-line is 2 per 100 and mobile-cellular 118 per 100 persons (2021)<br>
-_international_: country code - 221; landing points for the ACE, Atlantis-2, MainOne and SAT-3/WASC submarine cables providing connectivity from South Africa, numerous western African countries, Europe and South America;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
 over 25 private TV stations; state-run Radiodiffusion T&eacute;l&eacute;vision S&eacute;n&eacute;galaise (RTS) broadcasts from five cities; wide range of independent TV available via satellite; hundreds of radio stations; transmissions of several international broadcasters are accessible on FM in Dakar<br>
 
@@ -661,7 +656,7 @@ Senegalese Armed Forces (les Forces Armées Sénégalaises, FAS): Army (l’Arm�
 1.5% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 25,000 active personnel including the Gendarmerie (2025)<br>
+approximately 25,000 active Armed Forces personnel, including the Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes a mix of older, secondhand, and more modern equipment from a variety of countries, including France, South Africa, and Russia/former Soviet Union; in recent years, the military has undertaken a modernization program and has received newer equipment from more than 10 countries, including France and the US (2024)<br>

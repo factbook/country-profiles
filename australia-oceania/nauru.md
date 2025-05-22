@@ -466,11 +466,6 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 _total subscriptions_: 10,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 80 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: relies on satellite as the primary Internet service provider and mobile operator; internet connectivity on the island is very limited and unstable due to the vulnerability of the network infrastructure to bad weather and limited network coverage, with several blind spots (2022)<br>
-_domestic_: fixed-line 0 per 100 and mobile-cellular subscribership approximately 80 per 100 (2021)<br>
-_international_: country code - 674; satellite earth station - 1 Intelsat (Pacific Ocean)<br>
-
 **Broadcast media**<br>
 1 state-owned TV station broadcasting programs from New Zealand; 1 state-owned radio station, broadcasting on AM and FM, uses Australian and British programs (2019)<br>
 

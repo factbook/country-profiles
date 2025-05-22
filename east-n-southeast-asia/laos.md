@@ -62,7 +62,7 @@ _other_: 18.6% (2022 est.)<br>
 4,410 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
-Mènam Khong (Mekong) (shared with China [s], Burma, Thailand, Cambodia, and Vietnam [m]) - 4,350 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Mènam Khong (Mekong) (shared with China [s], Burma, Thailand, Cambodia, and Vietnam [m]) - 4,350 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>
@@ -265,7 +265,7 @@ _municipal solid waste recycled annually_: 35,190 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 10% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Mènam Khong (Mekong) (shared with China [s], Burma, Thailand, Cambodia, and Vietnam [m]) - 4,350 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Mènam Khong (Mekong) (shared with China [s], Burma, Thailand, Cambodia, and Vietnam [m]) - 4,350 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>
@@ -599,11 +599,6 @@ _subscriptions per 100 inhabitants_: 18 (2022 est.)<br>
 _total subscriptions_: 4.82 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 65 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Laos joined the World Trade Organization (WTO) in 2013; one of the conditions of admittance was to establish an independent regulator for its telecom sector within two years; the government had committed to do so by February 2015 as part of the accession agreement; there still has been no sign of any firm plans being made to create an independent regulatory body; the Ministry of Technology and Communications retains the primary role in regulating the country&rsquo;s telecom market; with the government also having a financial stake (in part or in whole) in every one of the major fixed-line and mobile operators, the MPT&rsquo;s position and decision-making is far from what could be considered independent; sufficient returns on investment cannot be guaranteed with such strict pricing controls as well as the potential for political interference; fixed-line and mobile penetration levels have, as a result, remained much lower than what&rsquo;s seen in neighboring South East Asian markets; there are signs of growth in the mobile broadband segment as LTE network coverage slowly widens and, more recently, the country&rsquo;s first 5G services start to come on stream; residents in the capital will at least be able to enjoy high-speed services in the near future, while the rest of the country waits patiently to catch up with the rest of the world. (2022)<br>
-_domestic_: fixed-line nearly 18 per 100 and 65 per 100 for mobile-cellular subscriptions (2021)<br>
-_international_: country code - 856; satellite earth station - 1 Intersputnik (Indian Ocean region) and a second to be developed by China<br>
-
 **Broadcast media**<br>
 6 TV stations operating out of Vientiane, with half state-operated and half commercial; 17 provincial stations, with nearly all programming relayed via satellite from the state-operated stations in Vientiane; multi-channel satellite and cable TV systems provide access to a wide range of foreign stations; state-controlled radio with state-operated Lao National Radio (LNR) broadcasting on 5 frequencies; transmissions of multiple international broadcasters are accessible<br>
 
@@ -647,7 +642,7 @@ Lao People's Armed Forces (LPAF; aka Lao People's Army): Lao People's Army (LPA,
 0.2% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information limited and varied; estimated 30,000 active Armed Forces troops; estimated 100,000 Self-Defense Militia Forces (2025)<br>
+information limited and varied; estimated 30,000 active Armed Forces; estimated 100,000 Self-Defense Militia Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the LPAF is armed with Chinese, Russian, and Soviet-era equipment and weapons (2024)<br>

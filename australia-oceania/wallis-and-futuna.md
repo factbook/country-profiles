@@ -335,11 +335,6 @@ _subscriptions per 100 inhabitants_: 26 (2021 est.)<br>
 _total subscriptions_: 0 (2018)<br>
 _subscriptions per 100 inhabitants_: 0 (2019)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: 2G widespread; bandwidth is limited; mobile subscriber numbers are higher than fixed-line and better suited for islands; good mobile coverage in the capital cities and also reasonable coverage across more remote atolls; recent international interest in infrastructure development; increase in demand for mobile broadband as mobile services serve as primary source for Internet access; broadband satellite launched in 2019 to improve costs and capability (2020)<br>
-_domestic_: fixed-line teledensity 26 per 100 persons (2021)<br>
-_international_: country code - 681; landing point for the Tui-Samoa submarine cable network connecting Wallis &amp; Futuna, Samoa and Fiji (2020)<br>
-
 **Broadcast media**<br>
 publicly owned French Overseas Network (RFO), which broadcasts to France's overseas departments, collectivities, and territories, is carried on the RFO Wallis and Fortuna TV and radio stations (2019)<br>
 

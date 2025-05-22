@@ -479,13 +479,8 @@ _subscriptions per 100 inhabitants_: 64 (2023 est.)<br>
 _total subscriptions_: 126,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 142 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Andorra has a modern telecommunications system with microwave-radio relay connections between the exchanges and landline circuits to France and Spain (2023)<br>
-_domestic_: about 63 per 100 fixed-line, 110 per 100 mobile-cellular (2021)<br>
-_international_: country code - 376; landline circuits to France and Spain; modern system with microwave radio relay connections between exchanges (2023)<br>
-
 **Broadcast media**<br>
-<p class="ssrcss-1q0x1qg-Paragraph e1jhz7w10">the media scene is partly shaped by the proximity to France and Spain, Andorrans have access to broadcasts from both countries</p> (2023)<br>
+the media scene is partly shaped by the proximity to France and Spain; Andorrans have access to broadcasts from both countries (2023)<br>
 
 **Internet country code**<br>
 .ad<br>

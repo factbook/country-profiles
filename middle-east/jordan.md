@@ -621,11 +621,6 @@ _subscriptions per 100 inhabitants_: 4 (2023 est.)<br>
 _total subscriptions_: 7.73 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 68 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Jordan&rsquo;s government has focused on the use of ICT in a range of sectors, aimed at transforming the relatively small economy through the use of digital services; this policy has helped the country rise in the league tables for digital connectivity and internet readiness, and it has also attracted investment from foreign companies; during the ongoing global pandemic, the start-up sector has been further encouraged to develop solutions to combat the crisis, while other efforts have facilitated e-government services and encouraged businesses to adapt to new methods of working through their own digital transformation; these developments have been supported by the highly developed mobile sector, led by three major regional players which have near-comprehensive LTE network coverage (2022)<br>
-_domestic_: fixed-line stands at nearly 4 per 100 persons and mobile cellular subscriptions at 65 per 100 persons (2021)<br>
-_international_: country code - 962; landing point for the&nbsp;FEA and&nbsp;Taba-Aqaba submarine cable networks providing connectivity to Europe, the Middle East, Southeast Asia and Asia; satellite earth stations - 33 (3 Intelsat, 1 Arabsat, and 29 land and maritime Inmarsat terminals (2019)<br>
-
 **Broadcast media**<br>
 radio and TV dominated by the government-owned Jordan Radio and Television Corporation (JRTV) that operates a main network, a sports network, a film network, and a satellite channel; first independent TV broadcaster aired in 2007; international satellite TV and Israeli and Syrian TV broadcasts are available; roughly 30 radio stations; transmissions of multiple international radio broadcasters are available<br>
 
@@ -680,7 +675,7 @@ Jordanian Armed Forces (JAF; aka Arab Army): Jordanian Army (Jordanian Ground Fo
 5.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 100,000 active-duty armed forces personnel (85,000 Army; 14,000 Air Force; 1,000 Navy) (2025)<br>
+approximately 100,000 active-duty Armed Forces (85,000 Army; 14,000 Air Force; 1,000 Navy) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the JAF inventory is comprised of a wide mix of imported equipment, much of it older or secondhand, from China, Europe, some Gulf States, Russia, and the US (2024)<br>

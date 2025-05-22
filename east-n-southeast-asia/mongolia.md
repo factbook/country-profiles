@@ -66,7 +66,7 @@ _fresh water lake(s)_: Hovsgol Nuur - 2,620 sq km; Har Us Nuur - 1,760 sq km;&nb
 _salt water lake(s)_: Uvs Nuur - 3,350 sq km; Hyargas Nuur - 1,360 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Amur (shared with China [s] and Russia [m]) - 4,444 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Amur (shared with China [s] and Russia [m]) - 4,444 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Population distribution**<br>
 sparsely distributed population throughout the country; the capital of Ulaanbaatar and the northern city of Darhan support the highest population densities<br>
@@ -271,7 +271,7 @@ _fresh water lake(s)_: Hovsgol Nuur - 2,620 sq km; Har Us Nuur - 1,760 sq km;&nb
 _salt water lake(s)_: Uvs Nuur - 3,350 sq km; Hyargas Nuur - 1,360 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Amur (shared with China [s] and Russia [m]) - 4,444 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Amur (shared with China [s] and Russia [m]) - 4,444 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Total water withdrawal**<br>
 _municipal_: 50 million cubic meters (2020 est.)<br>
@@ -603,11 +603,6 @@ _subscriptions per 100 inhabitants_: 15 (2023 est.)<br>
 _total subscriptions_: 4.84 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 142 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: liberalized and competitive telecoms market comprises of a number of operators; fixed-line penetration increased steadily in the years to 2018 as more people took on fixed-line access for voice calls and to access copper-based broadband services; the number of lines fell in 2019, and again and more sharply in 2020, partly through the economic consequences of the pandemic (GDP fell 5.3% in 2020, year-on-year) and partly due to the migration to the mobile platform and to VoIP; fixed broadband penetration remains low, mainly due to a limited number of fixed lines and the dominance of the mobile platform; the attraction of fixed broadband as a preferred access where it is available is waning as the mobile networks are upgraded with greater capacity and capabilities; the growing popularity of mobile broadband continues to underpin overall broadband and telecom sector growth, with Mongolia&rsquo;s market very much being dominated by mobile services, supported by widely available LTE; this will largely determine and shape the future direction of Mongolia&rsquo;s developing digital economy (2021)<br>
-_domestic_: fixed-line teledensity of 12 per 100; mobile-cellular subscribership is 140 per 100 persons (2021)<br>
-_international_: country code - 976; satellite earth stations - 7 (2016)<br>
-
 **Broadcast media**<br>
 state-run radio and TV provider is now a public-service provider; also available are 68 radio and 160 TV stations, including multi-channel satellite and cable TV providers; transmissions of multiple international broadcasters are available (2019)<br>
 
@@ -652,7 +647,7 @@ Mongolian Armed Forces (MAF): Land Force, Air Force, Cyber Security Forces, Spec
 0.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; estimated 10-20,000 active MAF troops (2025)<br>
+information varies; estimated 10-20,000 active Mongolian Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the MAF's inventory is comprised largely of Soviet-era and Russian equipment (2024)<br>

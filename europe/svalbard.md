@@ -167,11 +167,6 @@ _Currency_: Norwegian kroner (NOK) per US dollar -<br>
 
 ## Communications
 
-**Telecommunication systems**<br>
-_general assessment_: Svalbard Undersea Cable System is a twin submarine communications cable which connects Svalbard to the mainland of Norway (2022)<br>
-_domestic_: the Svalbard Satellite Station - connected to the mainland via the Svalbard Undersea Cable System - is the only Arctic ground station that can see low-altitude, polar-orbiting satellites; it provides ground services to more satellites than any other facility in the world (2022)<br>
-_international_: country code - 47-790; the Svalbard Undersea Cable System is a twin communications cable that connects Svalbard to mainland Norway; the system is the sole telecommunications link to the archipelago (2019)<br>
-
 **Broadcast media**<br>
 Norwegian Broadcasting Corporation (NRK) provides TV transmission to Svalbard via satellite; access to 3 NRK radio stations and 2 TV stations<br>
 

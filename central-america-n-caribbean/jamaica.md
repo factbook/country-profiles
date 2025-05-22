@@ -314,7 +314,6 @@ _chief of state_: King CHARLES III (since 8 September 2022); represented by Gove
 _head of government_: Prime Minister Andrew HOLNESS (since 3 March 2016)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the leader of the majority party or majority coalition in the House of Representatives is appointed prime minister by the governor general<br>
-<strong>note:</strong> the Jamaican Government, in May 2023, announced plans to hold a referendum in 2024 to determine whether or not to remain in the Commonwealth or become a republic<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -594,11 +593,6 @@ _subscriptions per 100 inhabitants_: 16 (2023 est.)<br>
 _total subscriptions_: 3.27 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 106 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Jamaica&rsquo;s telecom sector has for many years been propped up by the mobile sector, which accounts for the vast majority of internet connections and voice lines; it also accounts for just over half of telecom sector revenue; in December 2020, the government announced the rollout of a national broadband network costing up to $237 million; the funding will be spent on improving connectivity in under served areas, improving access to education, and deploying networks to public locations such as hospitals, municipal institutions, and police stations; to aid in this national broadband effort, the government received a donation of 650km of fiber cabling from local cable TV providers and the two main toll road operators; to encourage the use of digital channels as the country deals with the Covid-19 pandemic (2021)<br>
-_domestic_: fixed-line subscriptions nearly 17 per 100, cellular-mobile roughly 103 per 100 subscriptions (2021)<br>
-_international_: country code - 1-876 and 1-658; landing points for the ALBA-1, CFX-1, Fibralink, East-West, and Cayman-Jamaican Fiber System submarine cables providing connections to South America, parts of the Caribbean, Central America and the US; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
 3 free-to-air TV stations, subscription cable services, and roughly 30 radio stations (2019)<br>
 
@@ -650,7 +644,7 @@ Jamaica Defense Force (JDF): Jamaica Regiment (Land Force), Maritime, Air, and C
 1.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 4,000 personnel (2025)<br>
+approximately 4,000 active Jamaica Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the JDF is lightly armed with a limited inventory featuring equipment mostly from Australia, Canada, Japan, the Netherlands, the UK, and the US&nbsp; (2024)<br>

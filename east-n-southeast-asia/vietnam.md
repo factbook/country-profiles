@@ -65,7 +65,7 @@ _other_: 13.5% (2022 est.)<br>
 46,000 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Sông Tiên Giang (Mekong) river mouth (shared with China [s], Burma, Laos, Thailand, Cambodia) - 4,350 km; Pearl river source (shared with China [m]) - 2,200 km; Red river mouth (shared with China [s]) - 1,149 km <br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Sông Tiên Giang (Mekong) river mouth (shared with China [s], Burma, Laos, Thailand, Cambodia) - 4,350 km; Pearl river source (shared with China [m]) - 2,200 km; Red river mouth (shared with China [s]) - 1,149 km<br><br><strong>note: </strong>[s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>
@@ -264,7 +264,7 @@ _municipal solid waste recycled annually_: 2,201,169 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 23% (2014 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Sông Tiên Giang (Mekong) river mouth (shared with China [s], Burma, Laos, Thailand, Cambodia) - 4,350 km; Pearl river source (shared with China [m]) - 2,200 km; Red river mouth (shared with China [s]) - 1,149 km <br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Sông Tiên Giang (Mekong) river mouth (shared with China [s], Burma, Laos, Thailand, Cambodia) - 4,350 km; Pearl river source (shared with China [m]) - 2,200 km; Red river mouth (shared with China [s]) - 1,149 km<br><br><strong>note: </strong>[s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>
@@ -617,11 +617,6 @@ _subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
 _total subscriptions_: 131 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 140 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: even with Covid-19 pandemic-related mobility restrictions in place, Vietnam&rsquo;s economy has continued to outperform the rest of the region in 2020 and 2021; the telecom sector essentially spent most of this period in a holding pattern, focusing on maintaining service throughout the crisis while preparing for some major changes to come in the mobile market in 2022; both fixed-line telephony and mobile have experienced small drops in subscriber numbers since the start of the pandemic, but the similarities between the two markets end there; fixed-line teledensity continued its downwards trajectory towards virtual oblivion, with just 3% penetration (around 3 million subscribers) at the start of 2021; the mobile market has lost about the same number of subscribers since the end of 2019, but has been sitting on much higher penetration levels around 130% for many years; growth is expected to kick in again in 2022 following the anticipated launch of commercial 5G mobile services along with a range of government-led schemes to move consumers completely off 2G and 3G; one example is the planned redistribution of GSM/3G bandwidth to LTE; in addition to propelling Vietnam into having one of the most advanced mobile markets in the world, this should also spur on the mobile broadband segment; with a penetration level of just over 70%, mobile broadband has considerable room to grow; increasing economic prosperity coupled with the latest smartphone technology and networks should see mobile broadband underwriting the country&rsquo;s telecommunications sector for at least the next few years; this report includes the regulator's market data to July 2021, telcos' financial and operating data updates to June 2021, Telecom Maturity Index charts and analyses, assessment of the global impact of Covid-19 on the telecoms sector, and other recent market developments (2021)<br>
-_domestic_: fixed-line is 3 per 100 and mobile-cellular is 140 per 100 (2021)<br>
-_international_: country code - 84; landing points for the SeaMeWe-3, APG, SJC2, AAE-1, AAG and the TGN-IA submarine cable system providing connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia, Australia, and the US; telecom satellite earth stations - 2, (Vinasat 1 and Vinasat 2) (Indian Ocean region) (2023)<br>
-
 **Broadcast media**<br>
 state-controlled broadcast media, with oversight from the Ministry of Information and Communication (MIC); state-controlled national TV provider, Vietnam Television (VTV), has several channels with regional broadcasting centers; law limits access to satellite TV, but many access foreign programming via home satellite equipment; state-controlled Voice of Vietnam, the national radio broadcaster, broadcasts on several channels and is repeated on AM, FM, and shortwave stations&nbsp; (2018)<br>
 
@@ -678,7 +673,7 @@ People's Army of Vietnam (PAVN; aka Vietnam People's Army, VPA): Ground Forces (
 2.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 450,000 active-duty PAVN personnel (2025)<br>
+approximately 450,000 active-duty People's Army of Vietnam (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the PAVN is armed largely with weapons and equipment from Russia and the former Soviet Union; in recent years, Vietnam has moved to diversify arms its arms suppliers and has acquired items from countries such as India, South Korea, and the US; Vietnam has a small defense industry involved in the manufacture of small arms, ground combat vehicles, and naval systems (2024)<br>

@@ -229,7 +229,7 @@ _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<
 _etymology_: the name means "William's Town" in Dutch; named after Prince WILLEM of Orange (1533-84), the first stadtholder of the United Provinces of the Netherlands&nbsp;<br>
 
 **Administrative divisions**<br>
-<p>none (part of the Kingdom of the Netherlands)</p><br>
+none (part of the Kingdom of the Netherlands)<br>
 <strong>note:</strong> Curaçao is one of four constituent countries of the Kingdom of the Netherlands; the other three are the Netherlands, Aruba, and Sint Maarten<br>
 
 **Independence**<br>
@@ -430,11 +430,6 @@ _subscriptions per 100 inhabitants_: 27 (2022 est.)<br>
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 172,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 88 (2021 est.)<br>
-
-**Telecommunication systems**<br>
-_general assessment_: fully automatic modern telecommunications system; telecom sector across the Caribbean region continues to be one of&nbsp;the growth areas; given the lack of economic diversity in the region, with a high dependence on tourism and activities such as fisheries and offshore financial services the telecom sector contributes greatly to the GDP (2020)<br>
-_domestic_: roughly 28 per 100 users for fixed-line and 88 per 100 users for cellular-mobile (2021)<br>
-_international_: country code - +599, PCCS submarine cable system to US, Caribbean and Central and South America (2019)<br>
 
 **Broadcast media**<br>
 government-run TeleCuracao operates a TV station and a radio station;&nbsp;2 other privately owned TV stations and several privately owned radio stations (2019)<br>

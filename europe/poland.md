@@ -66,7 +66,7 @@ _other_: 22.6% (2022 est.)<br>
 _salt water lake(s)_: Zalew Szczecinski/Stettiner Haff (shared with Germany) - 900 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Wisla (Vistula) river source and mouth (shared with Belarus and Ukraine) - 1,213 km<br><strong>note </strong>- longest river in Poland<br>
+Wisla (Vistula) river source and mouth (shared with Belarus and Ukraine) - 1,213 km<br><br><strong>note:</strong> longest river in Poland<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -268,7 +268,7 @@ _percent of municipal solid waste recycled_: 26.4% (2015 est.)<br>
 _salt water lake(s)_: Zalew Szczecinski/Stettiner Haff (shared with Germany) - 900 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Wisla (Vistula) river source and mouth (shared with Belarus and Ukraine) - 1,213 km<br><strong>note </strong>- longest river in Poland<br>
+Wisla (Vistula) river source and mouth (shared with Belarus and Ukraine) - 1,213 km<br><br><strong>note:</strong> longest river in Poland<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -631,11 +631,6 @@ _subscriptions per 100 inhabitants_: 13 (2023 est.)<br>
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 52.4 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 132 (2022 est.)<br>
-
-**Telecommunication systems**<br>
-_general assessment_: the liberalized telecom market has seen considerable development in the broadband and mobile sectors; the regulatory environment has encouraged market competition, partly by encouraging operators to secure spectrum and also by ensuring access to cable and fiber infrastructure; the mobile market in recent years has been characterized by the rapid extension of LTE and 5G networks, and the development of mobile data services based on newly released and re-farmed spectrum; the regulator&rsquo;s attempts to auction spectrum in a range of bands has been delayed, with spectrum in the 5G-suitable 3.4-3.8GHz range having been put back to later in 2023 as a result of the Covid-19 outbreak and changes to legislation (2024)<br>
-_domestic_: fixed-line is 13 per 100 (service lags in rural areas), mobile-cellular is 132 per 100 persons (2022)<br>
-_international_: country code - 48; landing points for the Baltica and the Denmark-Poland2 submarine cables connecting Poland, Denmark and Sweden; international direct dialing with automated exchanges; satellite earth station - 1 with access to Intelsat, Eutelsat, Inmarsat, and Intersputnik (2019)<br>
 
 **Broadcast media**<br>
 state-run public TV operates 2 national channels supplemented by 16 regional and several niche channels; privately owned entities operate several national TV networks and some special interest channels; many privately owned local channels; roughly half of all households are linked to satellite or cable TV systems with access to foreign TV; state-run public radio operates 5 national networks and 17 regional stations; 2 privately owned national radio networks, several commercial stations, and many privately owned local radio stations (2019)<br>

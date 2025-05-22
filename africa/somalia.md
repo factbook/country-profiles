@@ -551,11 +551,6 @@ _subscriptions per 100 inhabitants_: 1 (2022 est.) less than 1<br>
 _total subscriptions_: 8.84 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 50 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Somalia&rsquo;s economic difficulties in recent years have made it difficult for telcos and the government to sustain investment in infrastructure; the government has also had to contend with militant groups which continue on occasion to force the closure of internet services in many areas of the country; in recent years, though, the government has addressed the lack of guidance which had prevailed since 1991, when a dictatorial regime was overthrown; the National Communications Law was passed in October 2017, aimed at setting a legal and regulatory framework for the telecoms sector, while provision was made in the following year to set up a regulatory authority to oversee the telecom sector; more recently, three types of licenses were mandated to provide clarity to operators, and to bring the market closer into line with international standards; all operators were given until August 2020 to secure one of the three license types; given the poor condition of fixed-line infrastructure, operators have concentrated on mobile connectivity; their investment plans have involved the development of LTE services to provide mobile data and broadband services; the telecom market has flourished; tariffs are among the lowest in Africa, and new cable systems coming on stream in the next few years, as well as planned investments from local operators to bolster the country&rsquo;s national fiber backbone, will lead to downward pressure on retail pricing; on the consumer side, spending on telecoms services and devices are under pressure from the financial effect of large-scale job losses and the consequent restriction on disposable incomes as the remnants of the impact of the Covid-19 pandemic remain and as global events, such as the Russian invasion of Ukraine, continue to play out; the market is continuing a positive growth trajectory, supported by a slow economic rebound in the country (2022)<br>
-_domestic_: fixed-line is 1 per 100 and mobile-cellular is 50 per 100 (2022)<br>
-_international_: country code - 252; landing points for the G2A, DARE1, PEACE, and EASSy fiber-optic submarine cable system linking East Africa, Indian Ocean Islands, the Middle East, North Africa&nbsp;and&nbsp;Europe (2019)<br>
-
 **Broadcast media**<br>
 2 private TV stations rebroadcast Al-Jazeera and CNN; 1 state-operated TV station and 1 private TV station; state-operated Radio Mogadishu; 1 SW and roughly 10 private FM radio stations in Mogadishu; several radio stations in central and southern regions; transmissions of at least 2 international broadcasters available (2019)<br>
 
@@ -604,7 +599,7 @@ Somali Armed Forces (SAF; aka Somali Defense Force): Somali National Army (SNA; 
 5.9% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 20,000 regular military personnel (2025)<br>
+estimated 20,000 active Somali Armed Forces (2025)<br>
 <strong>note: </strong>tens of thousands of militia forces are also active in Somalia<br>
 
 **Military equipment inventories and acquisitions**<br>

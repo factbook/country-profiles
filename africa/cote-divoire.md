@@ -333,8 +333,9 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Alassane Dramane OUATTARA (since 4 December 2010)<br>
 _head of government_: Prime Minister Robert BREUGRE MAMBE (since 17 October 2023)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single renewable 5-year term; election last held on 31 October 2020 (next to be held in October 2025); vice president elected on same ballot as president; prime minister appointed by the president; note &ndash; because President OUATTARA promulgated the new constitution in 2016, he has claimed that the clock is reset on term limits, allowing him to run for up to two additional terms<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single renewable 5-year term; election last held on 31 October 2020 (next to be held in October 2025); vice president elected on same ballot as president; prime minister appointed by the president<br>
 _election results_: <br><em>2020: </em>Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 94.3%, Kouadio Konan BERTIN (PDCI-RDA) 2.0%, other 3.7%<br><br><em>2015: </em>Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 83.7%, Pascal Affi N'GUESSAN (FPI) 9.3%, Konan Bertin KOUADIO (independent) 3.9%, other 3.1%<br>
+<strong>note:</strong> because President OUATTARA promulgated the new constitution in 2016, he has claimed that the clock is reset on term limits, allowing him to run for up to two additional terms<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Parlement)<br>
@@ -616,11 +617,6 @@ _subscriptions per 100 inhabitants_: 1 (2023 est.) less than 1<br>
 _total subscriptions_: 53.6 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 174 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: in recent years the government of Ivory Coast has helped develop a competitive telecom sector focused on the provision of converged services, thus allowing operators to offer fixed-line and mobile services under a universal services license regime; the fixed internet and broadband sectors remain underdeveloped; this is a legacy of poor international connectivity, which resulted in high wholesale prices, limited bandwidth, and a lack of access for alternative operators to international infrastructure; these limitations were addressed following the landing of a second cable in November 2011; Orange Group has also launched its 20,000km Djoliba cable system, reaching across eight countries in the region, while the 2Africa submarine cable is being developed by a consortium of companies; with a landing station providing connectivity to C&ocirc;te d'Ivoire, the system is expected to be completed in late 2023 (2022)<br>
-_domestic_: 1 per 100 fixed-line teledensity; mobile subscriptions are 162 per 100 persons (2021)<br>
-_international_: country code - 225; landing point for the SAT-3/WASC, ACE, MainOne, and WACS&nbsp;fiber-optic submarine cable that provides connectivity to Europe and South and West Africa; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean) (2019)<br>
-
 **Broadcast media**<br>
 state-controlled Radiodiffusion T&eacute;l&eacute;vision Ivoirienne (RTI) is made up of 2 radio stations (Radio Cote d'Ivoire and Fr&eacute;quence2) and 2 TV stations (RTI1 and RTI2) with nationwide coverage, broadcasting mainly in French; 178 proximity radio stations, 16 religious radio stations, 5 commercial radio stations, and 5 international radio stations; government now runs radio station UNOCIFM, previously owned by the UN Operation in Cote d'Ivoire; in 2016, 4 media companies were granted licenses: Live TV, Optimum Media Cote d'Ivoire, the Audiovisual Company of Cote d'Ivoire (Sedaci), and Sorano-CI (2019)<br>
 
@@ -677,7 +673,7 @@ Armed Forces of Cote d'Ivoire (Forces Armees de Cote d'Ivoire, FACI; aka Republi
 1.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 25-30,000 active FACI troops, including Gendarmerie personnel (2025)<br>
+approximately 25-30,000 active FACI, including Gendarmerie personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the FACI consists mostly of older or second-hand equipment, typically of French or Soviet-era origin; Cote d'Ivoire was under a partial UN arms embargo from 2004 to 2016; in recent years it has received some new and secondhand equipment from a variety of suppliers, including Bulgaria, China, France, South Africa, and Turkey (2024)<br>

@@ -64,7 +64,7 @@ _other_: 16.9% (2022 est.)<br>
 _fresh water lake(s)_: Lake Victoria (shared with Tanzania and Kenya) - 62,940 sq km; Lake Albert (shared with Democratic Republic of Congo) - 5,590 sq km; Lake Kyoga - 4,430 sq km; Lake Edward (shared with Democratic Republic of Congo) - 2,150 sq km<br>
 
 **Major rivers (by length in km)**<br>
-<p>Nile (shared with Rwanda [s], Tanzania, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
+<p>Nile (shared with Rwanda [s], Tanzania, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
@@ -270,7 +270,7 @@ _percent of municipal solid waste recycled_: 6% (2017 est.)<br>
 _fresh water lake(s)_: Lake Victoria (shared with Tanzania and Kenya) - 62,940 sq km; Lake Albert (shared with Democratic Republic of Congo) - 5,590 sq km; Lake Kyoga - 4,430 sq km; Lake Edward (shared with Democratic Republic of Congo) - 2,150 sq km<br>
 
 **Major rivers (by length in km)**<br>
-<p>Nile (shared with Rwanda [s], Tanzania, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
+<p>Nile (shared with Rwanda [s], Tanzania, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
@@ -607,11 +607,6 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 _total subscriptions_: 42.1 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 70 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: a series of reforms within Uganda&rsquo;s telecom sector have provided the country with one of the most competitive markets in the region; in line with the regulator&rsquo;s licensing requirements by which Uganda-based companies should be broadly owned by Ugandans by mid-2022; fixed-line infrastructure remains poor, with low penetration, and as a result fixed-line broadband penetration is also particularly low; consumers have largely depended on mobile infrastructure to provide voice and broadband services; there is sufficient capacity with LTE infrastructure to match data demand during the next few years; Uganda has anticipated the migration to 5G, having held trials in early 2020 though the roll out of 5G is not expected until later in 2022 (2022)<br>
-_domestic_: fixed-line less than 1 per 100 and mobile cellular systems teledensity is 66 per 100 persons (2021)<br>
-_international_: country code - 256; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Inmarsat; analog and digital links to Kenya and Tanzania<br>
-
 **Broadcast media**<br>
 public broadcaster, Uganda Broadcasting Corporation (UBC), operates radio and TV networks; 31 Free-To-Air (FTA) TV stations, 2 digital terrestrial TV stations, 3 cable TV stations, and 5 digital satellite TV stations; 258 FM stations<br>
 
@@ -651,7 +646,7 @@ Uganda People's Defense Force (UPDF): Land Force (includes marines), Air Force, 
 1.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 45-50,000 active Defense Force troops (2025)<br>
+approximately 45-50,000 active Defense Forces&nbsp; (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the UPDF's inventory is mix of older and some more modern weapons and equipment; it is comprised mostly of Russian/Soviet-era arms with smaller quantities of Chinese, Israeli, North Korean, South African, UK, US, and domestically-produced items; Uganda has a small defense industry that assembles or manufactures light armored vehicles and performs maintenance on some military equipment, including its Russian-made helicopters (2024)<br>

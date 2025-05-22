@@ -68,7 +68,7 @@ _other_: 23.3% (2022 est.)<br>
 _salt water lake(s)_: Lago de Maracaibo - 13,010 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Rio Negro (shared with Colombia [s] and Brazil [m]) - 2,250 km; Orinoco river source and mouth (shared with Colombia) - 2,101 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Rio Negro (shared with Colombia [s] and Brazil [m]) - 2,250 km; Orinoco river source and mouth (shared with Colombia) - 2,101 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
@@ -259,7 +259,7 @@ _municipal solid waste generated annually_: 9,779,093 tons (2010 est.)<br>
 _salt water lake(s)_: Lago de Maracaibo - 13,010 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Rio Negro (shared with Colombia [s] and Brazil [m]) - 2,250 km; Orinoco river source and mouth (shared with Colombia) - 2,101 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Rio Negro (shared with Colombia [s] and Brazil [m]) - 2,250 km; Orinoco river source and mouth (shared with Colombia) - 2,101 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
@@ -326,8 +326,8 @@ _chief of state_: Notification Statement: the United States does not recognize N
 _head of government_: President Nicolas MADURO Moros (since 19 April 2013)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 28 July 2024 (next to be held in 2030)<br>
-_election results_: <em>2024:</em> official results disputed; Nicolas MADURO Moros was declared the winner by the MADURO-controlled National Electoral Council; percent of vote - Nicolas MADURO Moros (PSUV) 52%, Edmundo GONZÁLEZ Urrutia (Independent) 43.2%, Luis Eduardo MARTÍNEZ (AD) 1.2%, other 3.6%; note – given overwhelming evidence, including more than 80% of the tally sheets received directly from polling stations throughout Venezuela indicating that GONZÁLEZ received the most votes by an insurmountable margin, the United States recognizes that GONZÁLEZ won the most votes in the 28 July 2024 presidential election<br><br><em>2018: </em>Nicolas MADURO Moros reelected president; percent of vote - Nicolas MADURO Moros (PSUV) 67.9%, Henri FALCON (AP) 20.9%, Javier BERTUCCI 10.8%; note - the election was reportedly marred by serious shortcomings and electoral fraud<br><br><em>2013:</em> Nicolas MADURO Moros elected president; percent of vote - Nicolas MADURO Moros (PSUV) 50.6%, Henrique CAPRILES Radonski (PJ) 49.1%, other 0.3%<br>
-<strong>note: </strong>the president is both chief of state and head of government<br>
+_election results_: <em>2024:</em> official results disputed; Nicolas MADURO Moros was declared the winner by the MADURO-controlled National Electoral Council; percent of vote - Nicolas MADURO Moros (PSUV) 52%, Edmundo GONZÁLEZ Urrutia (Independent) 43.2%, Luis Eduardo MARTÍNEZ (AD) 1.2%, other 3.6%<br><br><em>2018: </em>Nicolas MADURO Moros reelected president; percent of vote - Nicolas MADURO Moros (PSUV) 67.9%, Henri FALCON (AP) 20.9%, Javier BERTUCCI 10.8%<br><br><em>2013:</em> Nicolas MADURO Moros elected president; percent of vote - Nicolas MADURO Moros (PSUV) 50.6%, Henrique CAPRILES Radonski (PJ) 49.1%, other 0.3%<br>
+<strong>note 1: </strong>the president is both chief of state and head of government<br><br><strong>note 2: </strong>the United States recognizes that Edmundo GONZÁLEZ won the most votes in the 28 July 2024 presidential election because of overwhelming evidence, including more than 80% of the tally sheets received directly from polling stations that indicated GONZÁLEZ received the most votes by an insurmountable margin<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Asamblea Nacional)<br>
@@ -577,11 +577,6 @@ _subscriptions per 100 inhabitants_: 10 (2022 est.)<br>
 _total subscriptions_: 18.8 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 63 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Venezuela&rsquo;s fixed-line penetration was relatively high for the region at 7.8 million lines in 2014 but the steady growth in the number of lines came to an end in 2015; since then, the number of fixed lines has plummeted to 2.7 million (2022) or a teledensity of about 9.5%; the cause is largely linked to the country&rsquo;s ongoing economic troubles, which have compelled many people to terminate fixed-line telecom services and others still to flee the country; these pressures have also distorted sector revenue and have placed into disarray operators&rsquo; investment plans aimed at improving networks and expanding the reach and capabilities of new technologies and services; the fixed broadband penetration rate is lower than the regional average, while data speeds are also relatively low; there is no effective competition in the provision of DSL, and as a result the state-owned incumbent CANTV has had little incentive to improve services from its meager revenue streams; mobile penetration in Venezuela is 67% (2022), below the regional average and ahead of only Honduras, Guatemala, Nicaragua, and Haiti; the number of mobile subscribers decline gradually from 2012 to 2020 as subscribers terminated services in a bid to reduce discretionary spending or left the country; after years of decline, mobile phone lines grew 15% from 2021 to the end of 2022 to reach 18.7 million, as subscribers replaced fixed lines with mobile service and mobile connectivity improved; an estimated 78% of mobile subscribers have smartphones with mobile access to the internet&nbsp; (2021)<br>
-_domestic_: fixed-line is 10 per 100 and mobile-cellular telephone subscribership is 67 per 100 persons (2021)<br>
-_international_: country code - 58; landing points for the Venezuela Festoon, ARCOS, PAN-AM, SAC, GlobeNet, ALBA-1 and Americas II submarine cable system providing connectivity to the Caribbean, Central and South America, and US; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 PanAmSat (2020)<br>
-
 **Broadcast media**<br>
 mix of state-run and private broadcast media subject to high levels of control; 13 public service networks, 61 privately owned TV networks, 1 privately owned news channel with limited national coverage, and a Maduro-backed Pan-American channel; 3 Maduro-aligned radio networks control about 65 news stations and another 30 stations targeted at specific audiences; Maduro-sponsored community broadcasters include 235 radio stations and 44 TV stations; the number of private broadcast radio stations declining, but many remain&nbsp; (2021)<br>
 
@@ -637,7 +632,7 @@ Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bol
 1.8% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 125-150,000 active Army, Navy, Air Force, and National Guard personnel; estimated 200,000 Bolivarian Militia (2025)<br>
+information varies; approximately 125-150,000 active Armed Forces; estimated 200,000 Bolivarian Militia (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FANB inventory is comprised mostly of Russian/Soviet-era weapons and equipment; in recent years, it has acquired some material from China and Iran; it also has smaller quantities of older equipment from France, Germany, Spain, the UK, and the US (2024)<br>

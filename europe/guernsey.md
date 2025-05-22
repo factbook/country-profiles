@@ -388,11 +388,6 @@ _subscriptions per 100 inhabitants_: 53 (2021 est.)<br>
 _total subscriptions_: 71,485 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 112 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: fixed network broadband services are those delivered over physical copper connections, fiber connections and fixed wireless communications links (e.g. WiMax); they do not include services delivered over 2G, 3G and 4G mobile networks (2021)<br>
-_domestic_: fixed-line 53 per 100 and mobile-cellular 112 per 100 persons (2021)<br>
-_international_: country code - 44;&nbsp;landing points for Guernsey-Jersey, HUGO, INGRID, Channel Islands -9 Liberty&nbsp;and UK-Channel Islands-7&nbsp;submarine cable to UK and&nbsp;France (2019)<br>
-
 **Broadcast media**<br>
 multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey with relays in Jersey, Guernsey, and Alderney; satellite packages are available; BBC Radio Guernsey and 1 other radio station<br>
 

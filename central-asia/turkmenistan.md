@@ -65,7 +65,7 @@ _other_: 7% (2022 est.)<br>
 _salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Russia, and Kazakhstan) - 374,000 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Amu Darya (shared with Tajikistan [s], Afghanistan, and Uzbekistan [m]) - 2,620 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Amu Darya (shared with Tajikistan [s], Afghanistan, and Uzbekistan [m]) - 2,620 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km)<br>
@@ -270,7 +270,7 @@ _municipal solid waste generated annually_: 500,000 tons (2013 est.)<br>
 _salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Russia, and Kazakhstan) - 374,000 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Amu Darya (shared with Tajikistan [s], Afghanistan, and Uzbekistan [m]) - 2,620 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Amu Darya (shared with Tajikistan [s], Afghanistan, and Uzbekistan [m]) - 2,620 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km)<br>
@@ -335,8 +335,8 @@ _residency requirement for naturalization_: 7 years<br>
 _chief of state_: President Serdar BERDIMUHAMEDOV (since 19 March 2022)<br>
 _head of government_: President Serdar BERDIMUHAMEDOV (since 19 March 2022)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (no term limits); election last held on 12 March 2022 (next to be held in 2029); note - on 11 February 2022, President Gurbanguly BERDIMUHAMEDOV announced his intent to retire, setting up an early presidential election<br>
-_election results_: <em>2022:</em> Serdar BERDIMUHAMEDOV elected president; percent of vote - Serdar BERDIMUHAMEDOV (DPT) 73%, Khydyr NUNNAYEV (independent) 11.1%, Agadzhan BEKMYRADOV (IAP) 7.2%, other 8.7%; note - Serdar BERDIMUHAMEDOV is the son of previous president Gurbanguly BERDIMUHAMEDOV<br><br><em>2017:</em> Gurbanguly BERDIMUHAMEDOV reelected president in the first round; percent of vote - Gurbanguly BERDIMUHAMEDOV (DPT) 97.7%, other 2.3%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds, if needed, for a 7-year term (no term limits); election last held on 12 March 2022 (next to be held in 2029)<br>
+_election results_: <em>2022:</em> Serdar BERDIMUHAMEDOV elected president; percent of vote - Serdar BERDIMUHAMEDOV (DPT) 73%, Khydyr NUNNAYEV (independent) 11.1%, Agadzhan BEKMYRADOV (IAP) 7.2%, other 8.7%<br><br><em>2017:</em> Gurbanguly BERDIMUHAMEDOV reelected president in the first round; percent of vote - Gurbanguly BERDIMUHAMEDOV (DPT) 97.7%, other 2.3%<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -581,11 +581,6 @@ _subscriptions per 100 inhabitants_: 10 (2022 est.)<br>
 _total subscriptions_: 6.25 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 99 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: the nation of Turkmenistan, which rivals only North Korea for its isolationism, continues to keep its telecom sector along with the broader populace under tight control; the country inched up just one point off the bottom of the world rankings for press and internet freedom in the most recent report from Reporters Without Borders; most social networks in the country are blocked, although locals do have access to the government-developed platform released in 2019; all internet users, however, need to identify themselves before logging on, and strict censorship over what can be viewed is in force; the end result is that Turkmenistan has one of the lowest usage rates for internet access in the world (2024)<br>
-_domestic_: fixed-line is 13 per 100 and mobile-cellular teledensity is 99 per 100 persons (2022)<br>
-_international_: country code - 993; linked by fiber-optic cable and microwave radio relay to other CIS republics and to other countries by leased connections to the Moscow international gateway switch; an exchange in Ashgabat switches international traffic through Turkey via Intelsat; satellite earth stations - 1 Orbita and 1 Intelsat (2018)<br>
-
 **Broadcast media**<br>
 state-controlled broadcast media; 7 state-owned TV and 4 state-owned radio networks; satellite dishes available for other broadcasts; officials sometimes limit access to satellite TV by removing satellite dishes<br>
 
@@ -621,7 +616,7 @@ _by type_: general cargo 6, oil tanker 8, other 59<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Turkmenistan (aka Turkmen National Army): Ground Forces, Navy, Air and Air Defense Forces<br><br>Ministry of Internal Affairs: Internal Troops, Turkmen (National) Police, Federal/State Border Guard Service (2024)<br>
+Armed Forces of Turkmenistan (aka Turkmen National Army): Ground Forces, Air Force, Navy<br><br>Ministry of Internal Affairs: Internal Troops, Turkmen (National) Police, Federal/State Border Guard Service (2024)<br>
 
 **Military expenditures**<br>
 1.9% of GDP (2019 est.)<br>
@@ -631,13 +626,13 @@ Armed Forces of Turkmenistan (aka Turkmen National Army): Ground Forces, Navy, A
 1.5% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; estimated 35,000 active-duty troops (30,000 Army; 1,000 Navy; 4,000 Air and Air Defense Forces) (2023)<br>
+limited available information; estimated 35,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is comprised largely of Russian and Soviet-era weapons and equipment with smaller quantities of military systems from suppliers such as Brazil, China, Italy, and Turkey (2024)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory military service for men; 24-month conscript service obligation (30 months for the Navy); 20 years of age for voluntary service for men and women; men may enroll in military schools from age 15 (2023)<br>
+18-27 years of age for compulsory military service for men and volunteer service for men and women; 24-month conscript service obligation (2025)<br>
 
 **Military - note**<br>
 the military is responsible for external defense and works closely with the Border Service on protecting the country’s borders; while Turkmenistan has a policy of permanent and "positive" neutrality and has declined to participate in post-Soviet military groupings such as the Collective Security Treaty Organization and the Shanghai Cooperation Organization, it has participated in multinational exercises and bilateral training with neighboring countries, including Russia and Uzbekistan; Turkmenistan joined NATO's Partnership for Peace program in 1994, but it does not offer any military forces to NATO-led operations<br><br>in recent years, Turkmenistan has made efforts to strengthen its naval capabilities on the Caspian Sea, including expanding ship building capabilities, building a new naval base, and adding larger vessels to the Navy’s inventory; in 2018, Turkmenistan opened its first naval shipyard, and in 2021 the Navy commissioned its largest warship, a corvette that was jointly constructed with Turkey, to complement a small existing force of coastal patrol craft (2023)<br>

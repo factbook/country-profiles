@@ -65,7 +65,7 @@ _other_: 35.4% (2022 est.)<br>
 2,969 sq km (2019)<br>
 
 **Major rivers (by length in km)**<br>
-Rijn (Rhine) river mouth (shared with Switzerland [s], Germany, and France) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Rijn (Rhine) river mouth (shared with Switzerland [s], Germany, and France) - 1,233 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
@@ -266,7 +266,7 @@ _municipal solid waste recycled annually_: 2,179,216 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 24.6% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Rijn (Rhine) river mouth (shared with Switzerland [s], Germany, and France) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Rijn (Rhine) river mouth (shared with Switzerland [s], Germany, and France) - 1,233 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
@@ -636,11 +636,6 @@ _subscriptions per 100 inhabitants_: 24 (2023 est.)<br>
 _total subscriptions_: 21.2 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 118 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: telecom infrastructure in the Netherlands continues to be upgraded as modernization schemes undertaken by telcos make steady progress; other fiber providers have been supported by regulatory measures which have encouraged municipal governments to intervene with telcos&rsquo; fiber builds, facilitating open access networks in a bid to make rollouts cheaper, and completed sooner; while the Mobile Network Operators (MNOs) are also closing down their Global System for Mobile Communication (MSM) and 3G networks and repurposing their spectrum and physical assets for LTE and 5G, the regulator has also encouraged GSM/3G roaming in the interim, thus safeguarding services such as machine to machine and other low data-use applications while individual MNOs disable their own GSM/3G networks; the country has one of the highest fixed broadband penetration rates in the world, with effective cross-platform competition between Digital Subscriber Line (DSL), Hybrid Fiber Coazial (HFC), and fiber networks; in the third quarter of 2020 the number of cable broadband connections fell for the first time, while the DSL segment has long been eclipsed by fiber; by the end of 2021, over a quarter of fixed broadband connections were on fiber infrastructure, while DSL accounted for only about 29%; almost 49% of fixed connections provided data above 100Mb/s, while an additional 43.7% provided data of at least 30Mb/s (2022)<br>
-_domestic_: fixed-line is 29 per 100 and mobile-cellular at 125 per 100 persons (2021)<br>
-_international_: country code - 31; landing points for Farland North, TAT-14, Circe North, Concerto, Ulysses 2, AC-1, UK-Netherlands 14, and COBRAcable submarine cables which provide links to the US and Europe; satellite earth stations - 5 (3 Intelsat - 1 Indian Ocean and 2 Atlantic Ocean, 1 Eutelsat, and 1 Inmarsat) (2019)<br>
-
 **Broadcast media**<br>
 more than 90% of households are connected to cable or satellite TV systems with a wide range of domestic and foreign channels; public service broadcast system includes multiple broadcasters, 3 with a national reach and the remainder in regional and local markets; 2 nationwide commercial TV companies, each with 3 or more stations, and many commercial TV stations in regional and local markets; nearly 600 radio stations with a mix of public and private stations&nbsp;<br>
 
@@ -696,7 +691,7 @@ Netherlands (Dutch) Armed Forces (Nederlandse Krijgsmacht): Royal Netherlands Ar
 1.4% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 51,000 active-duty military personnel (22,000 Army; 9,000 Navy/Marines; 8,000 Air Force; 7,000 Constabulary; 5,000 other) (2025)<br>
+approximately 51,000 active-duty Armed Forces (22,000 Army; 9,000 Navy/Marines; 8,000 Air Force; 7,000 Constabulary; 5,000 other) (2025)<br>
 <strong>note:</strong> the total figures include both professional military and reservists on active duty<br>
 
 **Military equipment inventories and acquisitions**<br>

@@ -68,7 +68,7 @@ _fresh water lake(s)_: Lake Constance (shared with Switzerland and Austria) - 54
 _salt water lake(s)_: Stettiner Haff/Zalew Szczecinski (shared with Poland) - 900 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Donau (Danube) river source (shared with Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river mouth (shared with Czechia [s]) - 1,252 km; Rhein (Rhine) (shared with Switzerland [s], France, and Netherlands [m]) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Donau (Danube) river source (shared with Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river mouth (shared with Czechia [s]) - 1,252 km; Rhein (Rhine) (shared with Switzerland [s], France, and Netherlands [m]) - 1,233 km <br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -273,7 +273,7 @@ _fresh water lake(s)_: Lake Constance (shared with Switzerland and Austria) - 54
 _salt water lake(s)_: Stettiner Haff/Zalew Szczecinski (shared with Poland) - 900 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Donau (Danube) river source (shared with Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river mouth (shared with Czechia [s]) - 1,252 km; Rhein (Rhine) (shared with Switzerland [s], France, and Netherlands [m]) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Donau (Danube) river source (shared with Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river mouth (shared with Czechia [s]) - 1,252 km; Rhein (Rhine) (shared with Switzerland [s], France, and Netherlands [m]) - 1,233 km <br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -635,11 +635,6 @@ _subscriptions per 100 inhabitants_: 46 (2023 est.)<br>
 _total subscriptions_: 105 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 125 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: with one of Europe&rsquo;s largest telecom markets, Germany hosts a number of significant operators which offer effective competition in the mobile and broadband sectors; the German mobile market is driven by mobile data, with the number of mobile broadband subscribers having increased rapidly in recent years; with LTE now effectively universally available, considerable progress has recently been made in building out 5G networks (2022)<br>
-_domestic_: 46 per 100 for fixed-line and 128 per 100 for mobile-cellular subscriptions (2021)<br>
-_international_: country code - 49;&nbsp;landing points for SeaMeWe-3, TAT-14, AC-1, CONTACT-3, Fehmarn Balt, C-Lion1,&nbsp;GC1, GlobalConnect-KPN, and Germany-Denmark 2 &amp; 3 -&nbsp;submarine&nbsp;cables to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia; as well as earth stations in the Inmarsat, Intelsat, Eutelsat, and Intersputnik satellite systems (2019)<br>
-
 **Broadcast media**<br>
 a mix of publicly operated and privately owned TV and radio stations; 70 national and regional public broadcasters compete with nearly 400 privately owned national and regional TV stations; more than 90% of households have cable or satellite TV; hundreds of radio stations, including national and regional networks and a large number of local stations<br>
 
@@ -695,7 +690,7 @@ Federal Armed Forces (Bundeswehr): German Army (Deutsche Heer), German Navy (Deu
 1.5% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 185,000 active-duty armed forces personnel (62,000 Army; 16,000 Navy; 27,000 Air Force; 20,000 Medical Service, 14,000 Cyber and Information Space Command; 45,000 other, including central staff, support, logistics, etc.) (2024)<br>
+approximately 185,000 active-duty Armed Forces (62,000 Army; 16,000 Navy; 27,000 Air Force; 20,000 Medical Service, 14,000 Cyber and Information Space Command; 45,000 other, including central staff, support, logistics, etc.) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of Federal Armed Forces is comprised of weapons systems produced domestically or jointly with other European countries and Western imports, particularly from the US; Germany's defense industry is capable of manufacturing the full spectrum of air, land, and naval military weapons systems, and Germany is one of the world's leading arms exporters; it also participates in joint defense production projects with the US and European partners (2024)<br>

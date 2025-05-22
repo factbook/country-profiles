@@ -327,8 +327,9 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Patrice TALON (since 6 April 2016)<br>
 _head of government_: President Patrice TALON<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 11 April 2021 (next to be held on 12 April 2026); note - the president is both head of state and head of government<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 11 April 2021 (next to be held on 12 April 2026)<br>
 _election results_: <br><em>2021:</em> Patrice TALON reelected president in the ; percent of vote - Patrice TALON (independent) 86.3%, Alassane SOUMANOU (FCBE) 11.4%, Corentin KOHOUE (The Democrats) 2.3%<br><br><em>2016:</em> Patrice TALON elected president in second round; percent of vote in first round - Lionel ZINSOU (FCBE) 28.4%, Patrice TALON (independent) 24.8%, Sebastien AJAVON (independent) 23%, Abdoulaye Bio TCHANE (ABT) 8.8%, Pascal KOUPAKI (NC) 5.9%, other 9.1%; percent of vote in second round - Patrice TALON 65.4%, Lionel ZINSOU 34.6%<br>
+<strong>note:</strong> the president is both head of state and head of government<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Assemblée nationale)<br>
@@ -597,11 +598,6 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 _total subscriptions_: 16.4 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 109 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Benin&rsquo;s telecom market continues to be restricted by the poor condition of the country&rsquo;s fixed-line infrastructure; this has hampered the development of fixed-line voice and internet services, and there is negligible revenue derived from these sectors; mobile networks account for almost all internet connections, and also carry most voice traffic; there is promise for considerable change in the mobile sector; slow progress is being made in developing competition in the mobile sector; in May 2021 the government sought foreign companies to bid for a fourth mobile license; improved international internet connectivity has contributed to a reduction in end-user pricing, and provided the potential to transform many areas of the country&rsquo;s economy, bringing a greater proportion of the population into the orbit of internet commerce and connectivity; a 2,000km fiber project started in 2016 was finally completed in mid-2021, prompting the government to secure a loan to build additional fiber infrastructure connecting four of the country&rsquo;s 12 departments (2022)<br>
-_domestic_: fixed-line teledensity less than 1 per 100 people; mobile cellular subscriptions are 98 per 100 people (2021)<br>
-_international_: country code - 229; landing points for the SAT-3/WASC and ACE fiber-optic submarine cable that provides connectivity to Europe, and&nbsp;most West African countries; satellite earth stations - 7 (Intelsat-Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
 state-run Office de Radiodiffusion et de T&eacute;l&eacute;vision du Benin (ORTB) operates a TV station with a wide broadcast reach; several privately owned TV stations broadcast from Cotonou; satellite TV subscription service is available; state-owned radio, under ORTB control, includes a national station supplemented by a number of regional stations; substantial number of privately owned radio stations; transmissions of a few international broadcasters are available on FM in Cotonou (2019)<br>
 
@@ -654,7 +650,7 @@ Beninese Armed Forces (Forces Armees Beninoises, FAB; aka Benin Defense Forces):
 0.5% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 10,000 active-duty troops (including National Guard) (2025)<br>
+estimated 10,000 active-duty Armed Forces (including National Guard) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAB is equipped with a small mix of mostly older or secondhand French, Soviet-era, and US equipment; in recent years, the EU, France, and the US have provided it with limited amounts of newer military hardware such as armored vehicles and helicopters (2024)<br>

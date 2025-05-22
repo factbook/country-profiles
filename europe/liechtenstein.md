@@ -293,7 +293,7 @@ _chief of state_: Prince HANS-ADAM II (since 13 November 1989, assumed executive
 _head of government_: Prime Minister Brigitte HAAS (since 10 April 2025)<br>
 _cabinet_: Cabinet elected by the Parliament, confirmed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party in Parliament usually appointed the head of government by the monarch, and the leader of the largest minority party in Parliament usually appointed the deputy head of government by the monarch if there is a coalition government<br>
-<strong>note</strong>: the prince's successor is Heir Apparent and Regent of Liechtenstein Prince ALOIS (son of the monarch, born 11 June 1968); on 15 August 2004, HANS-ADAM II transferred the official duties of the ruling prince to ALOIS, but Prince HANS-ADAM II retains status of chief of state<br>
+<strong>note</strong>: the prince's successor is his son, Heir Apparent and Regent of Liechtenstein Prince ALOIS; on 15 August 2004, HANS-ADAM II transferred the official duties of the ruling prince to ALOIS, but Prince HANS-ADAM II retains the status of chief of state<br>
 
 **Legislative branch**<br>
 _legislature name_: Diet (Landtag)<br>
@@ -415,12 +415,6 @@ _subscriptions per 100 inhabitants_: 26 (2023 est.)<br>
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 50,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 126 (2022 est.)<br>
-
-**Telecommunication systems**<br>
-_general assessment_: possesses a number of modern communications systems, some of which are shared with the neighboring country of Switzerland (2022)<br>
-_domestic_: fixed-line roughly 30 per 100 and mobile-cellular services 126 per 100 (2021)<br>
-_international_: country code - 423; linked to&nbsp;Swiss networks by cable and microwave radio relay<br>
-<strong>n</strong><br>
 
 **Broadcast media**<br>
 relies on foreign terrestrial and satellite broadcasters for most broadcast media services; first Liechtenstein-based TV station established in 2008; Radio Liechtenstein operates multiple radio stations; a Swiss-based broadcaster operates one radio station<br>

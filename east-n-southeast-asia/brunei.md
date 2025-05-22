@@ -310,9 +310,9 @@ _residency requirement for naturalization_: 12 years<br>
 **Executive branch**<br>
 _chief of state_: Sultan and Prime Minister Sir HASSANAL Bolkiah (since 5 October 1967)<br>
 _head of government_: Sultan and Prime Minister Sir HASSANAL Bolkiah (since 5 October 1967)<br>
-_cabinet_: Council of Ministers appointed and presided over by the monarch; note - 4 additional advisory councils appointed by the monarch are the Religious Council, Privy Council for constitutional issues, Council of Succession, and Legislative Council; Sultan and Prime Minister Sir HASSANAL Bolkiah is also Minister of Finance, Defense, and Foreign Affairs and Trade<br>
+_cabinet_: Council of Ministers appointed and presided over by the monarch<br>
 _elections/appointments_: none; the monarchy is hereditary<br>
-<strong>note </strong>- the monarch is both chief of state and head of government<br>
+<strong>note 1:</strong> the monarch is both chief of state and head of government, as well as Minister of Finance, Defense, and Foreign Affairs and Trade<br><br><strong>note 2:</strong> 4 additional advisory councils appointed by the monarch are the Religious Council, Privy Council for Constitutional Issues, Council of Succession, and Legislative Council<br>
 
 **Legislative branch**<br>
 _legislature name_: Legislative Council (Majlis Mesyuarat Negara)<br>
@@ -552,11 +552,6 @@ _subscriptions per 100 inhabitants_: 26 (2023 est.)<br>
 _total subscriptions_: 541,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 118 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Brunei&rsquo;s mobile market experienced drop-off in subscriber numbers in 2020; in 2022 there was a concerted effort to build out the fixed-line infrastructure while progressing towards introducing 5G mobile services, which was activated in June 2023; Brunei&rsquo;s fixed-line market is one of the few countries in the world to have displayed significant growth rather than a decline in teledensity in the last few years; this upward trend is set to continue as the new Unified National Network (UNN) works diligently to expand and enhance the fixed-line infrastructure around the country; strong growth was also seen in the fixed broadband space, on the back of those same infrastructure developments that are part of the Brunei Vision 2035 initiative; fixed broadband is starting from a relatively low base by international standards and is still only at 18%, leaving lots of room for growth; mobile and mobile broadband, on the other hand, are still suffering from the market contractions first felt in 2020; Brunei&rsquo;s 2G GSM network is shut down, with the spectrum to be reallocated to 3G, 4G, and potentially 5G use (2023)<br>
-_domestic_: 25 per 100 fixed-line, 136 per 100 mobile-cellular (2021)<br>
-_international_: country code - 673; landing points for the SEA-ME-WE-3, SJC, AAG, Lubuan-Brunei Submarine Cable via&nbsp;optical telecommunications submarine cables that provides links to Asia, the Middle East, Southeast Asia, Africa, Australia, and the US; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific Ocean) (2019)<br>
-
 **Broadcast media**<br>
 state-controlled Radio Television Brunei (RTB) operates 5 channels; 3 Malaysian TV stations are available; foreign TV broadcasts are available via satellite systems; RTB operates 5 radio networks and broadcasts on multiple frequencies; British Forces Broadcast Service (BFBS) provides radio broadcasts on 2 FM stations; some radio broadcast stations from Malaysia are available via repeaters<br>
 
@@ -608,7 +603,7 @@ Royal Brunei Armed Forces (RBAF) or Angkatan Bersenjata Diraja Brunei (ABDB): Ro
 3.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 7,000 active RBAF troops (2025)<br>
+approximately 7,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's s inventory includes equipment and weapons systems from a wide variety of suppliers from Asia, Europe, and the US (2024)<br>

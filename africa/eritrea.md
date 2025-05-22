@@ -531,11 +531,6 @@ _subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 _total subscriptions_: 1.8 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 50 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Eritrea&rsquo;s telecom sector operates under a state-owned monopoly for fixed and mobile services; as a result of such restrictions on competition, the country has the least developed telecommunications market in Africa; mobile penetration stands at only about 20%, while fixed-line internet use barely registers; this is exacerbated by the very low use of computers, with only about 4% of households having a computer, and most of these being in the capital, Asmara; the 3G network continues to rollout which provides basic internet access to a limited number of Eritreans who can afford the expensive services; investment in telecom infrastructure is still required to improve the quality of services; the government has embarked on a work program to do exactly that, specifically aimed at extending services to remote areas, improving the quality of services, and ensuring that more telecoms infrastructure is supported by solar power to compensate for the poor state of the electricity network (2022)<br>
-_domestic_: fixed-line subscribership is less than 2 per 100 persons and mobile-cellular is just over 50 per 100 (2021)<br>
-_international_: country code - 291 (2019)<br>
-
 **Broadcast media**<br>
 government controls broadcast media, with private ownership prohibited; 1 state-owned TV station; 2 state-owned radio networks; purchases of satellite dishes and subscriptions to international broadcast media are permitted (2023)<br>
 
@@ -588,7 +583,7 @@ Eritrean Defense Forces (EDF): Eritrean Ground Forces, Eritrean Navy, Eritrean A
 10.6% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-available information varies widely; estimated 150,000-200,000 personnel (2024)<br>
+available information varies widely; estimated 150,000-200,000 active EDF (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the EDF's inventory is comprised primarily of Soviet-era weapons and equipment (2024)<br>

@@ -317,11 +317,12 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Julius Maada BIO (since 27 June 2023) note - the president is chief of state, head of government, and Minister of Defense<br>
+_chief of state_: President Julius Maada BIO (since 27 June 2023)&nbsp;<br>
 _head of government_: President Julius Maada BIO (since 27 June 2023)<br>
 _cabinet_: Ministers of State appointed by the president, approved by Parliament; the cabinet is responsible to the president<br>
 _elections/appointments_: president directly elected by 55% in the first round or absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 June 2023 (next to be held in June 2028)<br>
 _election results_: <br><em>2023: </em>Julius Maada BIO reelected president in first round; percent of vote - Julius Maada BIO (SLPP) 56.2%, Samura KAMARA (APC) 41.2%, other 2.6%<br><em><br>2018: </em>Julius Maada BIO elected president in second round; percent of vote - Julius Maada BIO (SLPP) 51.8%, Samura KAMARA (APC) 48.2%<br>
+<strong>note:</strong> the president is chief of state, head of government, and minister of defense<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -566,13 +567,8 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 _total subscriptions_: 8.23 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 98 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: the telecom sector has only gradually recovered from the destruction caused during the war years, and only since 2019 has there been an effective terrestrial fiber backbone infrastructure, while the cable link to neighboring Guinea was not completed until February 2020; there is considerable available capacity from the ACE submarine cable and the national fiber network, but this is used inefficiently and so the price of internet connectivity remains one of the highest in the region; the theft of equipment and cabling, compounded by neglect, mismanagement, and under investment, means that telecommunications companies continue to operate in difficult conditions; the telecom regulator has made efforts to improve the market, including the liberalization of the international gateway and regular checks on QoS; the regulator reduced the price floor for mobile voice calls in early 2020, though consumers objected to the MNOs withdrawing a number of cheap packages as a response; the mobile sector has been the main driver of overall telecom revenue (2022)<br>
-_domestic_: fixed-line less than 0 per 100 and mobile-cellular just over 98 per 100 (2021)<br>
-_international_: country code - 232; landing point for the ACE submarine cable linking to South Africa, over 20 western African countries and Europe; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
-<p>1 state-owned TV station; 3 private TV stations; 1 pay-TV service; 1 state-owned national radio station; about 24 private radio stations; transmissions of several international broadcasters available </p> (2019)<br>
+1 state-owned TV station; 3 private TV stations; 1 pay-TV service; 1 state-owned national radio station; about 24 private radio stations; transmissions of several international broadcasters available (2019)<br>
 
 **Internet country code**<br>
 .sl<br>
@@ -621,7 +617,7 @@ Republic of Sierra Leone Armed Forces (RSLAF): organized as a Joint Force Comman
 0.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Armed Forces have an estimated 10,000 active personnel (2025)<br>
+estimated 10,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the RSLAF has a small inventory that includes a mix of Soviet-origin and other older foreign-supplied equipment; in recent years, it has received limited amounts of newer equipment, mostly as donations (2024)<br>

@@ -283,11 +283,6 @@ _electrification - total population_: 100% (2021)<br>
 
 ## Communications
 
-**Telecommunication systems**<br>
-_general assessment_: fully integrated access; 4G and LTE services (2019)<br>
-_domestic_: direct dial capability with both fixed and wireless systems, 3 FM channels, no broadcasting (2018)<br>
-_international_: country code - 590; landing points for the SSCS and the Southern Caribbean Fiber submarine&nbsp;cables providing voice and data connectivity to numerous Caribbean Islands (2019)<br>
-
 **Broadcast media**<br>
 2 local TV broadcasters; 5 FM radio channels (2021)<br>
 

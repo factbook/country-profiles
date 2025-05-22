@@ -619,11 +619,6 @@ _subscriptions per 100 inhabitants_: 10 (2023 est.)<br>
 _total subscriptions_: 10.4 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 90 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: the Dominican Republic&rsquo;s telecom sector continued its solid form throughout 2020 and into 2021, shrugging off the economic turmoil unleashed by the Covid-19 pandemic to maintain a decade-long run of low but positive growth across all areas of the market; the Dominican Republic remains behind most of its counterparts in the Latin American region, especially in terms of fixed-line network coverage; mobile subscriptions are on par with the regional average, but at subscription levels of around 88% there is still ample opportunity for growth; in terms of growth, the standout winner was once again the mobile broadband segment; the market is expected to see close to 8% growth in 2021, building further on the gains it already made in 2020 when lock downs and work-from-home rules encouraged many people to find ways to upgrade their internet access and performance; the limited coverage of fixed-line broadband networks makes mobile the first, if not only, choice for most people in the country (2021)<br>
-_domestic_: fixed-line teledensity is about 10 per 100 persons; mobile cellular subscriptions 88 per 100 persons (2021)<br>
-_international_: country code - 1-809; 1-829; 1-849; landing point for the&nbsp;ARCOS-1, Antillas 1, AMX-1, SAm-1,&nbsp;East-West, Deep Blue Cable and the Fibralink submarine cables that provide links to South and Central America, parts of the Caribbean, and US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
 combination of state-owned and privately owned broadcast media; 1 state-owned TV network and a number of private TV networks; networks operate repeaters to extend signals throughout country; over 300 state-owned and privately owned radio stations&nbsp; (2019)<br>
 
@@ -681,7 +676,7 @@ Armed Forces of the Dominican Republic: Army of the Dominican Republic (Ejercito
 0.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 55-60,000 Armed Forces personnel; up to 35,000 National Police (2025)<br>
+approximately 55-60,000 Armed Forces; up to 35,000 National Police (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's equipment inventory comes largely from the US, with smaller quantities from such suppliers as Brazil and Spain (2024)<br>

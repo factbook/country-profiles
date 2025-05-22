@@ -634,11 +634,6 @@ _subscriptions per 100 inhabitants_: 4 (2023 est.)<br>
 _total subscriptions_: 135 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 144 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: the Covid-19 pandemic had a relatively minor impact on the Philippine&rsquo;s telecom sector in 2020; subscriber numbers fell in some areas, but this was offset by strong growth in mobile data and broadband usage since a significant proportion of the population transitioned to working or studying from home; major investment programs covering LTE, 5G, and fiber broadband networks suffered slight delays due to holdups in supply chains, but activity has since ramped up in an attempt to complete the roll outs as per the original schedule; the major telecom operators had mixed financial results for the past year; overall, the number of mobile subscribers is expected to grow to 153 million by the end of 2021, with the penetration rate approaching 144%; the government remains keen, and committed, to seeing strong competition, growth, and service excellence in the telecom sector, so there is likely to be continued support (financially as well as through legislation such as enabling mobile tower sharing and number portability) to ensure that the sector remains viable for emerging players; the mobile sector will remain the Philippines&rsquo; primary market for telecommunications well into the future; the unique terrain and resulting challenges associated with accessing remote parts of the archipelago means that in many areas fixed networks are neither cost-effective nor logistically viable; the bulk of telecoms investment over the coming years will continue to be in 5G and 5G-enabled LTE networks; coverage of LTE and 5G networks extends to over 95% of the population, and for the vast majority of people mobile will likely remain their only platform for telecom services (2021)<br>
-_domestic_: fixed-line nearly 4 per 100 and mobile-cellular nearly 143 per 100 (2021)<br>
-_international_: country code - 63; landing points for the NDTN, TGN-IA, AAG, PLCN, EAC-02C, DFON, SJC, APCN-2, SeaMeWe, Boracay-Palawan Submarine Cable System, Palawa-Illoilo Cable System, NDTN, SEA-US, SSSFOIP, ASE and JUPITAR submarine cables that together provide connectivity to the US, Southeast Asia, Asia, Europe, Africa, the Middle East, and Australia (2019)<br>
-
 **Broadcast media**<br>
 multiple national private TV and radio networks; multi-channel satellite and cable TV systems available; more than 400 TV stations; about 1,500 cable TV providers with more than 2 million subscribers; over 1,400 radio stations; was scheduled to move to digital by the end of 2023 (2019)<br>
 
@@ -695,7 +690,7 @@ Armed Forces of the Philippines (AFP): Army, Navy (includes Marine Corps), Air F
 1.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 145,000 active AFP personnel (105,000 Army; 25,000 Navy, including about 8,000 Marine Corps; 15,000 Air Force) (2025)<br>
+approximately 145,000 active Armed Forces (105,000 Army; 25,000 Navy, including about 8,000 Marine Corps; 15,000 Air Force) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the AFP is equipped with a wide mix of imported weapons systems; in recent years, it has received equipment from more than a dozen countries, including Israel, South Korea, and the US (2024)<br>

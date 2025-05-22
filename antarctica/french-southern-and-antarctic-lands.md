@@ -135,9 +135,6 @@ scented mixtures, industrial acids/oils/alcohols, surveying equipment, fish, ref
 **Internet country code**<br>
 .tf<br>
 
-**Communications - note**<br>
-has one or more meteorological stations on each possession<br>
-
 ## Transportation
 
 **Airports**<br>

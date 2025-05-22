@@ -600,11 +600,6 @@ _subscriptions per 100 inhabitants_: 24 (2022 est.)<br>
 _total subscriptions_: 1.92 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 98 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: as part of the EU pre-accession process, North Macedonia has built closer economic ties with the Union which accounts for 79% of Macedonia&rsquo;s exports and 49% of its imports; closer regulatory and administrative ties with European Commission (EC) institutions have done much to develop the telecom sector and prepare the market for the competitive environment encouraged in the EU; as part of EU integration legislation North Macedonia has implemented the principles of the EU&rsquo;s regulatory framework for communications, established an independent regulator and set out several provisions to provide for a competitive telecom market, including wholesale access to the incumbent&rsquo;s fixed-line network; broadband services are widely available, with effective competition between DSL and cable platforms complemented by wireless broadband and a developing fiber sector; the number of DSL subscribers has continued to fall in recent years as customers are migrated to fiber networks; the MNOs are increasingly focused on expanding their 5G networks, seeking stronger coverage across North Macedonia&rsquo;s high value urban areas; mobile data services are also becoming increasingly important following investments in LTE network rollouts and in upgrades to LTE-A technology (2022)<br>
-_domestic_: fixed-line roughly 20 per 100 and mobile-cellular 92 per 100 subscriptions (2021)<br>
-_international_: country code - 389<br>
-
 **Broadcast media**<br>
 public TV broadcaster Macedonian Radio and Television operates 5 national terrestrial TV channels and 2 satellite TV channels; 11 regional TV stations broadcast nationally; 29 regional and local broadcasters; a large number of cable operators offer domestic and international programming; the public radio broadcaster operates 3 stations; 4 privately owned national radio stations and 60 regional and local operators (2023)<br>
 
@@ -646,7 +641,7 @@ Army of the Republic of North Macedonia (ARSM or ARNM): joint force with air, gr
 1.2% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 6,000 active-duty personnel (2024)<br>
+approximately 6,000 active Army of the Republic of North Macedonia forces (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a mix of Soviet-era and increasing amounts of modern equipment from countries such as Turkey, the UK, and the US, with more on order (2024)<br>

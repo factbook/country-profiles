@@ -67,7 +67,7 @@ _other_: 1.1% (2022 est.)<br>
 _fresh water lake(s)_: Lake Chad (endorheic lake shared with Niger, Chad, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
 
 **Major rivers (by length in km)**<br>
-Niger river mouth (shared with Guinea [s], Mali, Benin, and Niger) - 4,200 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Niger river mouth (shared with Guinea [s], Mali, Benin, and Niger) - 4,200 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
@@ -273,7 +273,7 @@ _municipal solid waste generated annually_: 27,614,830 tons (2009 est.)<br>
 _fresh water lake(s)_: Lake Chad (endorheic lake shared with Niger, Chad, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
 
 **Major rivers (by length in km)**<br>
-Niger river mouth (shared with Guinea [s], Mali, Benin, and Niger) - 4,200 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Niger river mouth (shared with Guinea [s], Mali, Benin, and Niger) - 4,200 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
@@ -339,7 +339,7 @@ _head of government_: President Bola Ahmed Adekunle TINUBU (since 29 May 2023)<b
 _cabinet_: Federal Executive Council appointed by the president but constrained constitutionally to include at least one member from each of the 36 states<br>
 _elections/appointments_: president directly elected by qualified majority popular vote and at least 25% of the votes cast in 24 of Nigeria's 36 states; president elected for a 4-year term (eligible for a second term); election last held on 25 February 2023 (next to be held on 27 February 2027)<br>
 _election results_: <br><em>2023:</em> Bola Ahmed Adekunle TINUBU elected president; percent of vote - Bola Ahmed Adekunle TINUBU (APC) 36.6%, Atiku ABUBAKAR (PDP) 29.1%, Peter OBI (LP) 25.4%, Rabiu KWANKWASO (NNPP) 6.4%, other 2.5%<br><br><em>2019: </em>Muhammadu BUHARI elected president; percent of vote - Muhammadu BUHARI (APC) 53%, Atiku ABUBAKAR (PDP) 39%, other 8% <p> </p><br>
-<strong>Note </strong>- the president is chief of state, head of government, and commander-in-chief of the armed forces<br>
+<strong>note:</strong> the president is chief of state, head of government, and commander-in-chief of the armed forces<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly<br>
@@ -631,11 +631,6 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 _total subscriptions_: 224 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 102 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: one of the larger telecom markets in Africa subject to sporadic access to electricity and vandalism of infrastructure; most Internet connections are via mobile networks; market competition with affordable access; LTE technologies available but GSM is dominant; mobile penetration high due to use of multiple SIM cards and phones; government committed to expanding broadband penetration; operators to deploy fiber optic cable in six geopolitical zones and Lagos; operators invested in base stations to deplete network congestion; submarine cable break in 2020 slowed speeds and interrupted connectivity; Nigeria concluded its first 5G spectrum auction in 2021 and granted licenses to two firms; construction of 5G infrastructure has not yet been completed (2022)<br>
-_domestic_: fixed-line subscribership remains less than 1 per 100 persons; mobile-cellular subscribership is 91 per 100 persons (2021)<br>
-_international_: country code - 234; landing point for the SAT-3/WASC, NCSCS,&nbsp; MainOne, Glo-1 &amp; 2, ACE, and Equiano&nbsp;fiber-optic submarine cable that provides connectivity to Europe and South and West Africa; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean) (2019)<br>
-
 **Broadcast media**<br>
 nearly 70 federal government-controlled national and regional TV stations; all 36 states operate TV stations; several private TV stations; cable and satellite TV subscription services are available; network of federal government-controlled national, regional, and state radio stations; roughly 40 state government-owned radio stations; about 20 private radio stations; transmissions of international broadcasters are available; transition to digital completed in three states in 2018 (2019)<br>
 
@@ -693,7 +688,7 @@ Armed Forces of Nigeria (AFN): Nigerian Army, Nigerian Navy (includes Coast Guar
 0.5% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; estimated 150,000 active armed forces personnel (2025)<br>
+information varies; estimated 150,000 active Armed Forces&nbsp; (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists of a wide variety of imported weapons systems of Chinese, European, Middle Eastern, Russian (including Soviet-era), and US origin; the military is undergoing a modernization program, and in recent years has received equipment from a range of suppliers, including Brazil, China, France, Italy, Russia, Turkey, and the US; Nigeria is also developing a defense-industry capacity, including small arms, armored personnel vehicles, and small-scale naval production (2024)<br>

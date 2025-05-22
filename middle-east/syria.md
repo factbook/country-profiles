@@ -64,7 +64,7 @@ _other_: 23.7% (2022 est.)<br>
 9,820 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
-Euphrates (shared with Turkey [s], Iran, and Iraq [m]) - 3,596 km; Tigris (shared with Turkey, Iran, and Iraq [m]) - 1,950 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Euphrates (shared with Turkey [s], Iran, and Iraq [m]) - 3,596 km; Tigris (shared with Turkey, Iran, and Iraq [m]) - 1,950 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
@@ -256,7 +256,7 @@ _municipal solid waste recycled annually_: 112,500 tons (2010 est.)<br>
 _percent of municipal solid waste recycled_: 2.5% (2010 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Euphrates (shared with Turkey [s], Iran, and Iraq [m]) - 3,596 km; Tigris (shared with Turkey, Iran, and Iraq [m]) - 1,950 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Euphrates (shared with Turkey [s], Iran, and Iraq [m]) - 3,596 km; Tigris (shared with Turkey, Iran, and Iraq [m]) - 1,950 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
@@ -567,11 +567,6 @@ _subscriptions per 100 inhabitants_: 12 (2023 est.)<br>
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 15.1 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 80 (2021 est.)<br>
-
-**Telecommunication systems**<br>
-_general assessment_: the years of civil war and destruction to infrastructure continue to have a toll on the telecoms sector in Syria; although over the years the major mobile service providers have endeavored to restore and rebuild damaged networks, the operating environment has been difficult; following disputed demands for back taxes, MTN Group in August 2021 exited the country, after its majority stake had been transferred to judicial guardianship; this effectively meant that the mobile market became a monopoly; in February 2022 the regulator awarded a third mobile license following a process which had been ongoing for many years; telecommunication services in Syria are highly regulated; although urban areas can make use of the network built and maintained by the government-owned incumbent, many under served remote areas in the countryside are obliged to rely on satellite communications; the domestic and international fixed-line markets in Syria remain the monopoly of the STE, despite several initiatives over the years aimed at liberalizing the market; mobile broadband penetration in Syria is still quite low, despite quite a high population coverage of 3G networks and some deployment of LTE infrastructure; this may provide potential opportunities for growth once infrastructure and economic reconstruction efforts make headway, and civil issues subside (2022)<br>
-_domestic_: the number of fixed-line connections is 13 per 100; mobile-cellular service is 80 per 100 persons (2021)<br>
-_international_: country code - 963; landing points for the Aletar, BERYTAR and UGART submarine cable connections to Egypt, Lebanon, and Cyprus; satellite earth stations - 1 Intelsat (Indian Ocean) and 1 Intersputnik (Atlantic Ocean region); coaxial cable and microwave radio relay to Iraq, Jordan, Lebanon, and Turkey; participant in Medarabtel (2019)<br>
 
 **Broadcast media**<br>
 state-run TV has 2 networks and 5 satellite channels; roughly two-thirds of homes have a satellite dish with access to foreign TV; 3 state-run radio channels; first private radio station launched in 2005; private radio broadcasters prohibited from transmitting news or political content (2018)<br>

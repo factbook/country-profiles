@@ -68,7 +68,7 @@ _other_: 64.4% (2022 est.)<br>
 _salt water lake(s)_: Caspian Sea (shared with Russia, Azerbaijan, Turkmenistan, and Kazakhstan) - 374,000 sq km; Lake Urmia - 5,200 sq km; Lake Namak - 750 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Euphrates (shared with Turkey [s], Syria, and Iraq [m]) - 3,596 km; Tigris (shared with Turkey, Syria, and Iraq [m]) - 1,950 km; Helmand (shared with Afghanistan [s]) - 1,130 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Euphrates (shared with Turkey [s], Syria, and Iraq [m]) - 3,596 km; Tigris (shared with Turkey, Syria, and Iraq [m]) - 1,950 km; Helmand (shared with Afghanistan [s]) - 1,130 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
@@ -268,7 +268,7 @@ _percent of municipal solid waste recycled_: 5% (2017 est.)<br>
 _salt water lake(s)_: Caspian Sea (shared with Russia, Azerbaijan, Turkmenistan, and Kazakhstan) - 374,000 sq km; Lake Urmia - 5,200 sq km; Lake Namak - 750 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Euphrates (shared with Turkey [s], Syria, and Iraq [m]) - 3,596 km; Tigris (shared with Turkey, Syria, and Iraq [m]) - 1,950 km; Helmand (shared with Afghanistan [s]) - 1,130 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Euphrates (shared with Turkey [s], Syria, and Iraq [m]) - 3,596 km; Tigris (shared with Turkey, Syria, and Iraq [m]) - 1,950 km; Helmand (shared with Afghanistan [s]) - 1,130 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
@@ -335,7 +335,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: Supreme Leader Ali Hoseini-KHAMENEI (since 4 June 1989)<br>
-_head of government_: President Masoud PEZESHKIAN (assumed office on 30 July 2024)<br>
+_head of government_: President Masoud PEZESHKIAN (since 30 July 2024)<br>
 _cabinet_: Council of Ministers selected by the president with legislative approval; the supreme leader has some control over appointments to several ministries<br>
 _elections/appointments_: supreme leader appointed for life by Assembly of Experts; president directly elected by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term and an additional nonconsecutive term); election last held on 28 June 2024 first round (runoff held on 5 July 2024)<br>
 _election results_: <em><br>2024: </em>first round results - Masoud PEZESHKIAN (independent) 44.4%, Saeed JALILI (Front of Islamic Revolution Stability) 40.4%, Mohammad Baqer QAKIBAF (Progress and Justice Population of Islamic Iran) 14.3%, other 0.9%; second round results - Masoud PEZESHKIAN elected; Masoud PEZESHKIAN 54.8%, Saeed JALILI 45.2%<br><em><br>2021:</em> Ebrahim RAISI elected president; percent of vote - Ebrahim RAISI (independent) 72.4%, Mohsen REZAI (RFII) 13.8%, Abbdolnaser HEMATI (ECP) 9.8%, Amir-Hosein Qazizadeh-HASHEMI (Islamic Law Party) 4%<br>
@@ -599,11 +599,6 @@ _subscriptions per 100 inhabitants_: 32 (2023 est.)<br>
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 151 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 165 (2022 est.)<br>
-
-**Telecommunication systems**<br>
-_general assessment_: Iran&rsquo;s telecom infrastructure has suffered from sanctions in recent years, which prevented the import of equipment and devices and encouraged widespread smuggling, with a consequent loss of tax revenue; to address this, the government introduced a device registration scheme, and bolstered the capacity for domestically manufactured mobile phones; companies have invested in broadening the reach of their LTE networks, which has increased network capacity and improved the quality of mobile broadband services; the country is also looking to 5G; the sector is still limited by low frequency bands; the government is addressing this with plans to reallocate the 3.5GHz band for 5G use; Iran is keen to grow its digital economy; Iran offers significant opportunities for growth in the telecoms sector; the country has one of the largest populations in the Middle East, and there is a high proportion of youthful, tech savvy users having considerable demand for both fixed and mobile telecom services; companies are offering national roaming to improve services in rural areas (2022)<br>
-_domestic_: approximately 33 per 100 for fixed-line and 155 per 100 for mobile-cellular subscriptions (2021)<br>
-_international_: country code - 98; landing points for Kuwait-Iran, GBICS &amp;&nbsp;MENA, FALCON, OMRAN/3PEG Cable System, POI and UAE-Iran submarine fiber-optic cable to&nbsp;the&nbsp;Middle East, Africa and India;&nbsp;(TAE) fiber-optic line runs from Azerbaijan through the northern portion of Iran to Turkmenistan with expansion to Georgia and Azerbaijan; HF radio and microwave radio relay to Turkey, Azerbaijan, Pakistan, Afghanistan, Turkmenistan, Syria, Kuwait, Tajikistan, and Uzbekistan; satellite earth stations - 13 (9 Intelsat and 4 Inmarsat) (2019)<br>
 
 **Broadcast media**<br>
 state-run broadcast media with no private, independent broadcasters; Islamic Republic of Iran Broadcasting (IRIB), the state-run TV broadcaster, operates over 60 television channels, over 50 radio stations, and dozens of newspapers and websites; about 20 foreign Persian-language TV stations broadcasting on satellite TV can be seen in Iran; satellite dishes are illegal and sometimes confiscated; most major international broadcasters transmit to Iran (2023)<br>

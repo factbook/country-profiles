@@ -64,7 +64,7 @@ _other_: 17.6% (2022 est.)<br>
 929 sq km (2016)<br>
 
 **Major rivers (by length in km)**<br>
-Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -265,7 +265,7 @@ _municipal solid waste recycled annually_: 572,993 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 19% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -391,7 +391,7 @@ _selected World Heritage Site locales_: Boyana Church (c); Madara Rider (c); Thr
 ## Economy
 
 **Economic overview**<br>
-upper-middle-income EU economy; currency pegged to the euro with accession pending; joined Schengen area as of March 2024; global events and internal political turmoil triggered export slump and stalled reforms; EU structural funds contributing to investment recovery; skilled labor shortage driven by emigration and aging population<br>
+<p>upper-middle-income EU economy; currency pegged to the euro, with eurozone accession pending; declining energy prices helping lower inflation rate; EU structural funds contributing to investment recovery; skilled labor shortage driven by emigration and aging population</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $215.338 billion (2023 est.)<br>
@@ -623,11 +623,6 @@ _subscriptions per 100 inhabitants_: 9 (2023 est.)<br>
 _total subscriptions_: 8.01 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 117 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: <p>Bulgaria’s telecom market was for some years affected by the difficult macroeconomic climate, as well as by relatively high unemployment and a shrinking population; these factors continue to slow investments in the sector, though revenue growth has returned since 2019; there still remains pressure on revenue growth, with consumers migrating from fixed-line voice telephony to mobile and VoIP alternatives, while the volume of SMS and MMS traffic has been affected by the growing use of alternative OTT messaging services; investing in network upgrades and its development of services based on 5G have stimulated other market players to invest in their own service provision; by the end of 2022 about 70% of the population is expected to be covered by 5G; the broadband market in Bulgaria enjoys excellent cross-platform competition; the share of the market held by DSL has fallen steadily as a result of customers being migrated to fiber networks; by early 2021 about 65% of fixed-line broadband subscribers were on fiber infrastructure; Bulgaria joins the U.S. State Department’s Clean Network initiative in a bid to protect its 5G communications networks</p> (2022)<br>
-_domestic_: fixed-line over 11 per 100 persons, mobile-cellular teledensity, fostered by multiple service providers, is over 115 telephones per 100 persons (2021)<br>
-_international_: country code - 359; Caucasus Cable System via submarine cable provides connectivity to Ukraine, Georgia&nbsp;and Russia; a combination submarine cable and land fiber-optic system provides connectivity to Italy, Albania, and Macedonia; satellite earth stations - 3 (1 Intersputnik in the Atlantic Ocean region, 2 Intelsat in the Atlantic and Indian Ocean regions) (2019)<br>
-
 **Broadcast media**<br>
 4 national terrestrial TV stations with 1 state-owned and 3 privately owned; a vast array of TV stations are available from cable and satellite TV providers; state-owned national radio broadcasts over 3 networks; large number of private radio stations, especially in urban areas<br>
 
@@ -682,7 +677,7 @@ Bulgarian Armed Forces (aka Bulgarian Army): Land Forces, Air Force, Navy<br><br
 1.6% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 27,000 active-duty personnel (17,000 Army; 3,000 Navy; 7,000 Air Force) (2024)<br>
+approximately 27,000 active-duty Armed Forces (17,000 Army; 3,000 Navy; 7,000 Air Force) (2024)<br>
 <strong>note:</strong> in 2021, Bulgaria released a 10-year defense plan which called for an active military strength of 43,000<br>
 
 **Military equipment inventories and acquisitions**<br>

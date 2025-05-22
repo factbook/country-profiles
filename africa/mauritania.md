@@ -65,7 +65,7 @@ _other_: 61.2% (2022 est.)<br>
 450 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Senegal river mouth (shared with Guinea [s], Senegal and Mali) - 1,641 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Senegal river mouth (shared with Guinea [s], Senegal and Mali) - 1,641 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
@@ -275,7 +275,7 @@ _municipal solid waste recycled annually_: 36,320 tons (2009 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2009 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Senegal river mouth (shared with Guinea [s], Senegal and Mali) - 1,641 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Senegal river mouth (shared with Guinea [s], Senegal and Mali) - 1,641 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
@@ -600,11 +600,6 @@ _subscriptions per 100 inhabitants_: 1 (2022 est.)<br>
 _total subscriptions_: 5.36 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 113 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Mauritania&rsquo;s small population and low economic output has limited the country&rsquo;s ability to develop sustained growth in the telecom sector; low disposable income has restricted growth in the use of services; this has impacted their ability to invest in network upgrades and improvements to service offerings; this has been reflected in the repeated fines imposed against them by the regulator for failing to ensure a good quality of service; there are also practical challenges related to transparency and tax burdens which have hindered foreign investment; financial support has been forthcoming from the government as well as the World Bank and European Investment Bank; their efforts have focused on implementing appropriate regulatory measures and promoting the further penetration of fixed-line broadband services by improving the national backbone network, ensuring connectivity to international telecom cables, and facilitating operator access to infrastructure; progress has been made to improve internet bandwidth capacity, including the completion of a cable link at the border with Algeria, and the connection to the EllaLink submarine cable; the final stage of the national backbone network was completed in December 2021, which now runs to some 4,000km; penetration of fixed telephony and broadband service is very low and is expected to remain so in coming years, though growth is anticipated following improvements to backbone infrastructure and the reduction in access pricing; most voice and data services are carried over the mobile networks (2022)<br>
-_domestic_: fixed-line teledensity 1 per 100 persons; mobile-cellular teledensity of roughly 141 per 100 persons (2021)<br>
-_international_: country code - 222; landing point for the ACE submarine cable for connectivity&nbsp;to 19 West African countries and 2 European countries; satellite earth stations - 3 (1 Intelsat - Atlantic Ocean, 2 Arabsat) (2019)<br>
-
 **Broadcast media**<br>
 12 TV stations, 6 state-owned and 6 private; 19 radio broadcasters, including 15 state-owned and 4 (Radio Nouakchott Libre, Radio Tenwir, Radio Kobeni and Mauritanid) private; of the 15 government stations, 4 broadcast from Nouakchott (Radio Mauritanie, Radio Jeunesse, Radio Koran and Mauritanid) and the other 12 broadcast from each of the 12 regions outside Nouakchott (2022)<br>
 
@@ -660,7 +655,7 @@ Mauritanian Armed Forces (aka Armée Nationale Mauritanienne): National Army, Na
 2.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 17,000 Mauritanian Armed Forces personnel; estimated 3,000 Gendarmerie (2025)<br>
+estimated 17,000 active Mauritanian Armed Forces; estimated 3,000 Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is limited and made up largely of older French and Soviet-era equipment; in recent years, Mauritania has received some secondhand and new military equipment, including unmanned aircraft (drones), from several suppliers, including China and the UAE (2024)<br>

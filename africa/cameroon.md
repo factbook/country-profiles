@@ -632,11 +632,6 @@ _subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
 _total subscriptions_: 26.2 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 83 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Cameroon was for many years one of the few countries in Africa with only two competing mobile operators; the investment programs among operators over the next few years aims to considerably boost mobile broadband services in rural areas of the country, many of which are under served by fixed-line infrastructure; the government has also been supportive, having launched its &lsquo;Cameroon Digital 2020&rsquo; program, aimed at improving connectivity nationally; improved submarine and terrestrial cable connectivity has substantially increased international bandwidth, in turn leading to reductions in access prices for consumers; other projects such as Acceleration of the Digital Transformation of Cameroon are aimed at developing the digital economy (2022)<br>
-_domestic_: only a little above 3 per 100 persons for fixed-line subscriptions; mobile-cellular usage has increased sharply, reaching a subscribership base of roughly 83 per 100 persons (2021)<br>
-_international_: country code - 237; landing points for the SAT-3/WASC, SAIL, ACE, NCSCS, Ceiba-2, and WACS&nbsp;fiber-optic submarine cable that provides connectivity to Europe, South America, and West Africa; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
 government maintains tight control over broadcast media; state-owned Cameroon Radio Television (CRTV), with both TV and radio broadcasts, was the only officially recognized and fully licensed broadcaster until 2007, when the government issued licenses to 2 private TV broadcasters and 1 private radio broadcaster; about 70 privately owned, unlicensed radio stations operate under &ldquo;administrative tolerance,&rdquo; meaning the stations could be subject to closure at any time (2019)<br>
 
@@ -694,7 +689,7 @@ Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army, Cameroon Navy (i
 1.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 40-50,000 active FAC troops, including the Gendarmerie (2025)<br>
+estimated 40-50,000 active FAC, including the Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAC inventory is comprised of weapons and equipment from a variety of countries, including China, Israel, Russia/former Soviet Union, South Africa, the US, and some Western European countries, particularly France (2024)<br>

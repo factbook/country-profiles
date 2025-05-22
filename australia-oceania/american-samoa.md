@@ -398,11 +398,6 @@ _subscriptions per 100 inhabitants_: 20 (2022 est.)<br>
 _total subscriptions_: 2,250 (2009 est.)<br>
 _subscriptions per 100 inhabitants_: 4 (2009 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: American Samoa Telecommunications Authority, ASTCA, supplies telecommunication services to the residents of American Samoa, a US territory; the primary system between the islands consists of fiber-optic cables and satellite connections; in 2021, the undersea fiber-optic cable linking the Tutuila and Manu&rsquo;a Islands failed, cutting off Manu&rsquo;a Island; telecommunication services were restored through microwave link, and the link now provides a steady 1Gbps backhaul&nbsp; (2022)<br>
-_domestic_: nearly 22 per 100 fixed-line tele density (2021)<br>
-_international_: country code - 1-684; landing points for the ASH, Southern Cross NEXT&nbsp;and Hawaiki&nbsp;&nbsp;providing&nbsp;connectivity to New Zealand, Australia, American Samoa, Hawaii, California, and&nbsp;SAS connecting American Samoa with Samoa; satellite earth station - 1 (Intelsat-Pacific Ocean) (2019)<br>
-
 **Broadcast media**<br>
 3 TV stations; multi-channel pay TV services are available; about a dozen radio stations, some of which are repeater stations<br>
 

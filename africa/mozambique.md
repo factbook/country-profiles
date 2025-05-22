@@ -66,7 +66,7 @@ _other_: 1.2% (2022 est.)<br>
 _fresh water lake(s)_: Lake Malawi (shared with Malawi and Tanzania) - 22,490<br>
 
 **Major rivers (by length in km)**<br>
-Rio Zambeze (Zambezi) river mouth (shared with Zambia [s]), Angola, Namibia, Botswana, and Zimbabwe) - 2,740 km; Rio Limpopo river mouth (shared with South Africa [s], Botswana, and Zimbabwe) - 1,800 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Rio Zambeze (Zambezi) river mouth (shared with Zambia [s]), Angola, Namibia, Botswana, and Zimbabwe) - 2,740 km; Rio Limpopo river mouth (shared with South Africa [s], Botswana, and Zimbabwe) - 1,800 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
@@ -272,7 +272,7 @@ _percent of municipal solid waste recycled_: 1% (2014 est.)<br>
 _fresh water lake(s)_: Lake Malawi (shared with Malawi and Tanzania) - 22,490<br>
 
 **Major rivers (by length in km)**<br>
-Rio Zambeze (Zambezi) river mouth (shared with Zambia [s]), Angola, Namibia, Botswana, and Zimbabwe) - 2,740 km; Rio Limpopo river mouth (shared with South Africa [s], Botswana, and Zimbabwe) - 1,800 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Rio Zambeze (Zambezi) river mouth (shared with Zambia [s]), Angola, Namibia, Botswana, and Zimbabwe) - 2,740 km; Rio Limpopo river mouth (shared with South Africa [s], Botswana, and Zimbabwe) - 1,800 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
@@ -612,11 +612,6 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 _total subscriptions_: 15 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 42 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: one of the first countries in the region to embark upon telecom reform and to open the sector to competition; the mobile segment in particular has shown strong growth; additional competition followed in late 2020; a new licensing regime ensured that by mid-2019 all operators had been provided with universal licenses, enabling them to offer all types of telephony and data services; mobile, fixed-line and broadband penetration rates remain far below the average for the region; in recent years the government has enforced the registration of SIM cards, but with varying success; at the end of 2016 almost five million unregistered SIM cards were deactivated but poor monitoring meant that the process was revisited in mid-2019 and again in late 2020; the high cost of international bandwidth had long hampered internet use, though the landing of two international submarine cables (SEACOM and EASSy) has reduced the cost of bandwidth and so led to drastic reductions in broadband retail prices as well as a significant jump in available bandwidth; there is some cross-platform competition, with DSL, cable, fibre, WiMAX, and mobile broadband options available, though fixed broadband options can be limited to urban areas; improvements can be expected from the ongoing rollout of a national fiber backbone networks and of upgrades to mobile infrastructure (2022)<br>
-_domestic_: fixed-line less than 1 per 100 and nearly 43 per 100 mobile-cellular teledensity (2021)<br>
-_international_: country code - 258; landing points for the EASSy and SEACOM/ Tata TGN-Eurasia fiber-optic submarine cable systems linking numerous&nbsp;east African&nbsp;countries, the Middle East and Asia&nbsp;; satellite earth stations - 5 Intelsat (2 Atlantic Ocean and 3 Indian Ocean); TdM contracts for Itelsat for satellite broadband and bulk haul services (2020)<br>
-
 **Broadcast media**<br>
 1 state-run TV station supplemented by a private TV station; Portuguese state TV's African service, RTP Africa, and Brazilian-owned TV Miramar are available; state-run radio provides nearly 100% territorial coverage and broadcasts in multiple languages; a number of privately owned and community-operated stations; transmissions of multiple international broadcasters are available (2019)<br>
 
@@ -669,7 +664,7 @@ Armed Forces for the Defense of Mozambique (Forcas Armadas de Defesa de Mocambiq
 1.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 12,000 active FADM personnel (2025)<br>
+estimated 12,000 active FADM (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FADM's inventory consists primarily of Russian and Soviet-era equipment, although in recent years it has received some more modern equipment from a variety of countries, mostly as aid/donations (2024)<br>

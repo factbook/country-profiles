@@ -70,7 +70,7 @@ _fresh water lake(s)_: Lagoa dos Patos - 10,140 sq km<br>
 _salt water lake(s)_: Lagoa Mirim (shared with Uruguay) - 2,970 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Amazon river mouth (shared with Peru [s]) - 6,400 km; Río de la Plata/Paraná river source (shared with Paraguay, Argentina, and Uruguay [m]) - 4,880 km; Tocantins - 3,650 km; São Francisco - 3,180 km; Paraguay river source (shared with Argentina and Paraguay [m]) - 2,549 km; Rio Negro river mouth (shared with Colombia [s] and Venezuela) - 2,250 km; Uruguay river source (shared with Argentina and Uruguay [m]) - 1,610 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Amazon river mouth (shared with Peru [s]) - 6,400 km; Río de la Plata/Paraná river source (shared with Paraguay, Argentina, and Uruguay [m]) - 4,880 km; Tocantins - 3,650 km; São Francisco - 3,180 km; Paraguay river source (shared with Argentina and Paraguay [m]) - 2,549 km; Rio Negro river mouth (shared with Colombia [s] and Venezuela) - 2,250 km; Uruguay river source (shared with Argentina and Uruguay [m]) - 1,610 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km), Paran&aacute; (2,582,704 sq km), S&atilde;o Francisco (617,814 sq km), Tocantins (764,213 sq km)<br>
@@ -274,7 +274,7 @@ _fresh water lake(s)_: Lagoa dos Patos - 10,140 sq km<br>
 _salt water lake(s)_: Lagoa Mirim (shared with Uruguay) - 2,970 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Amazon river mouth (shared with Peru [s]) - 6,400 km; Río de la Plata/Paraná river source (shared with Paraguay, Argentina, and Uruguay [m]) - 4,880 km; Tocantins - 3,650 km; São Francisco - 3,180 km; Paraguay river source (shared with Argentina and Paraguay [m]) - 2,549 km; Rio Negro river mouth (shared with Colombia [s] and Venezuela) - 2,250 km; Uruguay river source (shared with Argentina and Uruguay [m]) - 1,610 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Amazon river mouth (shared with Peru [s]) - 6,400 km; Río de la Plata/Paraná river source (shared with Paraguay, Argentina, and Uruguay [m]) - 4,880 km; Tocantins - 3,650 km; São Francisco - 3,180 km; Paraguay river source (shared with Argentina and Paraguay [m]) - 2,549 km; Rio Negro river mouth (shared with Colombia [s] and Venezuela) - 2,250 km; Uruguay river source (shared with Argentina and Uruguay [m]) - 1,610 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km), Paran&aacute; (2,582,704 sq km), S&atilde;o Francisco (617,814 sq km), Tocantins (764,213 sq km)<br>
@@ -348,7 +348,7 @@ _head of government_: President Luiz In&aacute;cio LULA da Silva (since 1 Januar
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a single consecutive term and additional terms after at least one term has elapsed); election last held on 2 October 2022 with runoff on 30 October 2022 (next to be held on 4 October 2026)<br>
 _election results_: <br><em>2022: </em>Luiz Inácio LULA da Silva elected president in second round; percent of vote in first round - Luiz Inácio LULA da Silva (PT) 48.4%, Jair BOLSONARO (PSL) 43.2%, Simone Nassar TEBET (MDB) 4.2%, Ciro GOMES (PDT) 3%, other 1.2%; percent of vote in second round - Luiz Inácio LULA da Silva (PT) 50.9%, Jair BOLSONARO (PSL) 49.1%<em><br><br>2018: </em>Jair BOLSONARO elected president in second round; percent of vote in first round - Jair BOLSONARO (PSL) 46%, Fernando HADDAD (PT) 29.3%, Ciro GOMEZ (PDT) 12.5%, Geraldo ALCKMIN (PSDB) 4.8%, other 7.4%; percent of vote in second round - Jair BOLSONARO (PSL) 55.1%, Fernando HADDAD (PT) 44.9%<br>
-<strong>note </strong>- the president is both chief of state and head of government<br>
+<strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _legislature name_: National Congress (Congresso nacional)<br>
@@ -656,11 +656,6 @@ _subscriptions per 100 inhabitants_: 12 (2023 est.)<br>
 _total subscriptions_: 213 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 99 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Brazil is one of the largest mobile and broadband markets in Latin America with healthy competition and pricing; 5G services was provided to all capital cities in July 2022, as well as about 35,500km of the national highway network; the country also has one of the largest fixed line broadband markets in Latin America, though broadband subscriptions is only slightly above the regional average, trailing behind Chile, Argentina, and Uruguay; amendments to the licensing regime adopted in October 2019 also require that ISPs which have switched to authorizations invest money saved from lighter regulations in the expansion of broadband services; the fixed line broadband market has seen rapid growth for a number of years, with a growing focus on fiber broadband; in 2019 the number of fiber accesses overtook DSL connections; the country is a key landing point for a number of important submarine cables connecting to the US, Central and South America, the Caribbean, Europe, and Africa; several new cable systems are due to come into service through to 2022, which will increase bandwidth and push down broadband prices for end-users; investments have also been made into terrestrial fiber cables between Brazil, Argentina, and Chile (2022)<br>
-_domestic_: fixed-line connections stand at roughly 13 per 100 persons;&nbsp; mobile-cellular teledensity roughly 102 per 100 persons (2021)<br>
-_international_: country code - 55; landing points for a number of submarine cables, including Malbec, ARBR, Tamnat, SAC, SAm-1, Atlantis -2, Seabras-1, Monet, EllaLink, BRUSA, GlobeNet, AMX-1, Brazilian Festoon, Bicentenario, Unisur, Junior, Americas -II,&nbsp;SAE x1, SAIL, SACS&nbsp;and&nbsp;SABR that provide direct connectivity to South and Central America, the Caribbean, the US, Africa, and Europe;&nbsp;satellite earth stations - 3 Intelsat (Atlantic Ocean), 1 Inmarsat (Atlantic Ocean region east), connected by microwave relay system to Mercosur Brazilsat B3 satellite earth station; satellites&nbsp;is a&nbsp;major communication platform, as it is almost impossible to lay fiber optic cable in the thick vegetation (2019)<br>
-
 **Broadcast media**<br>
 state-run Radiobras operates a radio and a TV network; more than 1,000 radio stations and more than 100 TV channels operating, mostly privately owned; private media ownership highly concentrated (2022)<br>
 
@@ -719,7 +714,7 @@ Brazilian Armed Forces (Forças Armadas Brasileiras): Brazilian Army (Exercito B
 1.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 360,000 active military personnel (220,000 Army; 70,000 Navy; 70,000 Air Force) (2025)<br>
+approximately 360,000 active Armed Forces (220,000 Army; 70,000 Navy; 70,000 Air Force) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Brazilian military's inventory consists of a mix of domestically produced and imported weapons, largely from Europe and the US; Brazil's defense industry designs and manufactures equipment for all three military services and for export; it also jointly produces equipment with other countries (2024)<br>

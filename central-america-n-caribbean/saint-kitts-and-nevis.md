@@ -512,11 +512,6 @@ _subscriptions per 100 inhabitants_: 33 (2022 est.)<br>
 _total subscriptions_: 56,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 119 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: good interisland and international connections; broadband access; expanded FttP (Fiber to the Home) and LTE markets; regulatory development; telecom sector contributes greatly to the overall GDP; telecom sector is a growth area (2020)<br>
-_domestic_: fixed-line teledensity is 33 per 100 persons; mobile-cellular teledensity is 120 per 100 persons (2021)<br>
-_international_: country code - 1-869; landing points for&nbsp;the ECFS, Southern Caribbean Fiber and the SSCS&nbsp;submarine cables providing connectivity for numerous Caribbean Islands (2019)<br>
-
 **Broadcast media**<br>
 national state-operated TV network that broadcasts on 2 channels; cable subscription available for local and international channels; national state-operated radio network; mix of state-owned and privately owned broadcasters with about 15 radio stations (2019)<br>
 
@@ -564,7 +559,7 @@ _key ports_: Basseterre, Charlestown<br>
 St. Kitts and Nevis Defense Force (SKNDF); Regular Force, Coast Guard Force (SKNDF Coast Guard), Reserve Force, Cadet Force<br><br>Ministry of National Security: the Royal St. Christopher and Nevis Police Force (2025)<br>
 
 **Military and security service personnel strengths**<br>
-a few hundred active personnel (2024)<br>
+estimated 200 active Defense Forces (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SKNDF is lightly armed with equipment from Belgium, the UK, and the US (2024)<br>

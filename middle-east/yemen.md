@@ -314,7 +314,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: Chairperson, Presidential Leadership Council Rashad Muhammad al-ALIMI, <em>Dr.</em> (since 19 April 2022)<br>
 _head of government_: Prime Minister Salim Salih BIN BURAYK (since 9 May 2025)<br>
 _cabinet_: 24 members from northern and southern Yemen, with representatives from Yemen's major political parties<br>
-_elections/appointments_: formerly, the president was directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 21 February 2012 (next election NA); note - a special election was held on 21 February 2012 to remove Ali Abdallah SALIH under the terms of a Gulf Cooperation Council-mediated deal during the political crisis of 2011; vice president appointed by the president; prime minister appointed by the president<br>
+_elections/appointments_: formerly, the president was directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 21 February 2012 (next election NA); vice president appointed by the president; prime minister appointed by the president<br>
 _election results_: <em>2012:</em> Abd Rabuh Mansur HADI (GPC) elected consensus president<br>
 <strong>note:</strong> on 7 April 2022, President Abd Rabuh Mansur HADI announced his abdication, the dismissal of Vice President ALI MUHSIN al-Ahmar and the formation of a Presidential Leadership Council, an eight-member body chaired by former minister Rashad AL-ALIMI; on 19 April 2022, the Council was sworn in before Parliament and began assuming the responsibilities of the president and vice president and carrying out the political, security, and military duties of the government; in May 2025 Chairperson al-ALIMI made changes to his cabinet<br>
 
@@ -586,11 +586,6 @@ _subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 20 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 46 (2021 est.)<br>
-
-**Telecommunication systems**<br>
-_general assessment_: Yemen continues to provide an exceptionally challenging market for telcos; civil unrest has caused havoc and devastation across most parts of the country, while the threat of sanctions has also made it a challenging environment in which to operate; a large proportion of the population requires humanitarian assistance, and there is little disposable income for services upon which telcos can generate revenue; essential telecom infrastructure, such as mobile towers and fiber cabling, has often been targeted, destroyed, or damaged by the opposing sides in the ongoing conflict; these difficulties have proved to be a disincentive to telcos investing in infrastructure, with the result that the country lacks basic fixed-line infrastructure, and mobile services are based on outdated GSM; this has prevented the development of a mobile broadband sector, or the evolution of mobile data services; the ownership of telecommunication services, and the scrutiny of associated revenues and taxes, have become a political issue in Yemen; until telecom infrastructure can be improved across Yemen, and until civil unrest eases, there will be little progress for the sector (2022)<br>
-_domestic_: fixed-line teledensity is 4 per 100 but mobile cellular is 46 per 100 (2021)<br>
-_international_: country code - 967; landing points for the FALCON, SeaMeWe-5, Aden-Djibouti, and the AAE-1 international submarine cable connecting Europe, Africa, the Middle East, Asia and Southeast Asia; satellite earth stations - 3 Intelsat (2 Indian Ocean and 1 Atlantic Ocean), 1 Intersputnik (Atlantic Ocean region), and 2 Arabsat; microwave radio relay to Saudi Arabia and Djibouti (2020)<br>
 
 **Broadcast media**<br>
 state-run TV with 2 stations; state-run radio with 2 national radio stations and 5 local stations; stations from Oman and Saudi Arabia can be accessed<br>

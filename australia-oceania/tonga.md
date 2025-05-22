@@ -554,11 +554,6 @@ _subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
 _total subscriptions_: 64,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 61 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Tonga was only connected to the global submarine telecommunication network in the last decade; though this system is more stable than other technologies such as satellite and fixed infrastructure; the January 2022 eruption of Hunga Tonga-Hunga Ha&rsquo;apai severed Tonga&rsquo;s connection to the submarine telecommunication network (2023)<br>
-_domestic_: fixed-line 10 per 100 persons and mobile-cellular teledensity 61 telephones per 100 (2021)<br>
-_international_: country code - 676; landing point for the Tonga Cable and the TDCE connecting to Fiji and 3 separate Tonga islands; satellite earth station - 1 Intelsat (Pacific Ocean) (2020)<br>
-
 **Broadcast media**<br>
 1 state-owned TV station and 3 privately owned TV stations; satellite and cable TV services available; 1 state-owned and 5 privately owned radio stations; Radio Australia available via satellite (2019)<br>
 
@@ -606,7 +601,7 @@ His Majesty's Armed Forces Tonga (HMAF; aka Tonga Defense Services): Tonga Royal
 2.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 600 active armed forces personnel (2025)<br>
+approximately 600 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists of light weapons, as well as some naval patrol vessels from Australia and a few US-origin aircraft (2024)<br>

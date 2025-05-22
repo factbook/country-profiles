@@ -65,7 +65,7 @@ _other_: 45% (2022 est.)<br>
 80 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Zambezi (shared with Zambia [s]), Angola, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km; Orange river mouth (shared with Lesotho [s], and South Africa) - 2,092 km; Okavango (shared with Angola [s], and Botswana [m]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Zambezi (shared with Zambia [s]), Angola, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km; Orange river mouth (shared with Lesotho [s], and South Africa) - 2,092 km; Okavango (shared with Angola [s], and Botswana [m]) - 1,600 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Orange (941,351 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
@@ -267,7 +267,7 @@ _municipal solid waste recycled annually_: 11,553 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 4.5% (2005 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Zambezi (shared with Zambia [s]), Angola, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km; Orange river mouth (shared with Lesotho [s], and South Africa) - 2,092 km; Okavango (shared with Angola [s], and Botswana [m]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Zambezi (shared with Zambia [s]), Angola, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km; Orange river mouth (shared with Lesotho [s], and South Africa) - 2,092 km; Okavango (shared with Angola [s], and Botswana [m]) - 1,600 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Orange (941,351 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
@@ -334,8 +334,9 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Netumbo Nandi-NDAITWAH (since 21 March 2025)<br>
 _head of government_: President Netumbo Nandi-NDAITWAH (since 21 March 2025)<br>
 _cabinet_: Cabinet appointed by the president from among members of the National Assembly<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 27 November 2024 (next to be held in November 2029) note - the president is both chief of state and head of government; note- President Hage GEINGOB died on 4 February 2024, and Vice President MBUMBA was sworn in to run the government until the next presidential election in November 2024; note- Netumbo Nandi-NDAITWAH won the 7 December 2024 election with her inauguration scheduled for 21 March 2025<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 27 November 2024 (next to be held in November 2029)&nbsp;<br>
 _election results_: <em>2024:</em> Netumbo Nandi-NDAITWAH elected president in the first round; percent of vote -Netumbo Nandi-NDAITWAH (SWAPO) 57%, Panduleni  ITULA (IPC) 26%, McHenry VENAANI (PDM) 5.10%, Bernadus SWARTBOOI (LPM) 4.72%, Job AMUPANDA (AR) 1.80%, Hendrik GAOBEAB (UDF) 1.16%; other 3.31%<br><br><em>2019:</em> Hage GEINGOB reelected president in the first round; percent of vote - Hage GEINGOB (SWAPO) 56.3%, Panduleni ITULA (independent) 29.4%, McHenry VENAANI (PDM) 5.3%, other .9% <p> </p><br>
+<strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -613,11 +614,6 @@ _subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 _total subscriptions_: 2.6 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 113 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: the government&rsquo;s Broadband Policy aims to provide 95% population coverage by 2024; mobile network coverage has increased sharply in recent years; by 2023, 3G infrastructure provided 89% population coverage while LTE infrastructure provided 79% coverage; despite the relatively advanced nature of the market, progress towards 5G has been slow, partly due to unsubstantiated public concerns over health implications of the technology which caused the government to order an environmental assessment of 5G in mid-2020; the government has requested the regulator to speed up its 5G development strategy; Namibia&rsquo;s internet and broadband sector is reasonably competitive, its development was for many years held back by high prices for international bandwidth caused by the lack of a direct connection to international submarine cables; this market situation improved after operators invested in diversifying terrestrial access routes to adjacent countries; in June 2022 Namibia was connected to a 1,050km branch line of cable running between Portugal and South Africa (2022)<br>
-_domestic_: fixed-line subscribership is 4 per 100 and mobile-cellular roughly 113 per 100 persons (2022) (2021)<br>
-_international_: country code - 264;&nbsp;landing points for the ACE and WACS&nbsp;fiber-optic submarine cable linking southern and western African countries to Europe; satellite earth stations - 4 Intelsat (2019)<br>
-
 **Broadcast media**<br>
 1 private and 1 state-run TV station; satellite and cable TV service available; state-run radio broadcasts in multiple languages; about a dozen private radio stations; transmissions of multiple international broadcasters available<br>
 
@@ -673,7 +669,7 @@ Namibian Defense Force (NDF): Namibian Army, Namibian Navy, Namibian Air Force (
 3.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 12,000 active NDF personnel (2025)<br>
+estimated 12,000 active Namibian Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the NDF's inventory consists of a mix of Soviet-era and some more modern systems from a variety of countries, including Brazil, China, Germany, India, and South Africa; most of the Navy's vessels and the Air Force's fighter aircraft were acquired from China; Namibia has a small defense industry that produces items such as armored personnel carriers (2024)<br>

@@ -474,13 +474,8 @@ _subscriptions per 100 inhabitants_: 32 (2022 est.)<br>
 _total subscriptions_: 141,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 132 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: declines in subscriber numbers, particularly for prepaid mobile services&nbsp; (the mainstay of short-term visitors), and revenue; governments, regulators, and MNOs have not been investing in 5G opportunities; network expansion and enhancements remain concentrated around improving LTE coverage (2021)<br>
-_domestic_: 33 per 100 fixed-line telephone subscriptions and 130 per 100 mobile-cellular (2021)<br>
-_international_: country code - 297; landing&nbsp;points for the PAN-AM, PCCS, Deep Blue Cable, and Alonso de Ojeda&nbsp;submarine telecommunications cable system that extends from Trinidad and Tobago, Florida,&nbsp;Puerto Ricco,&nbsp;Jamaica, Guyana, Sint Eustatius &amp; Saba, Suriname, Dominican Republic, BVI, USVI, Haiti, Cayman Islands, the Netherlands Antilles,&nbsp; through Aruba to Panama, Venezuela, Colombia, Ecuador, Peru and Chile; extensive interisland microwave radio relay links (2019)<br>
-
 **Broadcast media**<br>
-<p class="ssrcss-1q0x1qg-Paragraph e1jhz7w10">freedom of the press respected, as guaranteed under Dutch law; newspapers are in the Papiamento language; 2 commercial TV stations, with a cable TV subscription service providing access to foreign channels; wide range of commercial radio stations available</p> (2023)<br>
+freedom of the press respected, as guaranteed under Dutch law; newspapers are in the Papiamento language; 2 commercial TV stations, with a cable TV subscription service providing access to foreign channels; wide range of commercial radio stations available (2023)<br>
 
 **Internet country code**<br>
 .aw<br>

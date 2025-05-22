@@ -328,7 +328,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Gabriel BORIC (since 11 March 2022)<br>
 _head of government_: President Gabriel BORIC (since 11 March 2022)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single 4-year term; election last held on 21 November 2021 with a runoff held on 19 December 2021 (next to be held on 23 November 2025 with runoff if needed on 20 December)<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single 4-year term; election last held on 21 November 2021 with a runoff held on 19 December 2021 (next to be held on 23 November 2025 with runoff, if needed, on 20 December)<br>
 _election results_: <br><em>2021: </em>Gabriel BORIC elected president in second round; percent of vote in first round - Jose Antonio KAST (FSC) 27.9%; Gabriel BORIC (AD) 25.8%; Franco PARISI (PDG) 12.8%; Sebastian SICHEL (ChP+) 12.8%; Yasna PROVOSTE (New Social Pact) 11.6%; other 9.1%; percent of vote in second round - Gabriel BORIC 55.9%; Jose Antonio KAST 44.1%<br><em><br>2017:</em> Sebastian PINERA Echenique elected president in second round; percent of vote in first round - Sebastian PINERA Echenique (independent) 36.6%; Alejandro GUILLIER (independent) 22.7%; Beatriz SANCHEZ (independent) 20.3%; Jose Antonio KAST (independent) 7.9%; Carolina GOIC (PDC) 5.9%; Marco ENRIQUEZ-OMINAMI (PRO) 5.7%; other 0.9%; percent of vote in second round - Sebastian PINERA Echenique 54.6%, Alejandro GUILLIER 45.4%<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
@@ -621,11 +621,6 @@ _subscriptions per 100 inhabitants_: 10 (2023 est.)<br>
 _total subscriptions_: 26.7 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 135 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: the market for fixed and mobile telephony is highly competitive and rapidly evolving; the mobile rate is among the highest in South America; LTE infrastructure is extensive and 5G spectrum auctions which took place in February 2021 prompted deployment of 5G networks, following extensive trials held by the MNOs; fixed broadband is relatively high for the region, with services among the fastest and least expensive in Latin America; government initiatives such as the National Fiber Optic project and Fibra &Oacute;ptica Austral are providing high-capacity connectivity across the country and will further increase fixed-line broadband; there is a strong focus on fiber broadband, with the number of fiber subscribers having increased 61.7% in 2020, year-on-year; technological improvements have allowed operators to provide a variety of services via their networks, giving rise to a number of bundled packages at competitive prices, including access to video on demand services which in turn is increasing fixed-line broadband; traditional fixed-line teledensity continues to fall as consumers switch to mobile networks and to fixed broadband for voice and data connectivity; more than 8,300 schools receive free broadband as part of the &lsquo;Connectivity for Education 2030&rsquo; project (2021)<br>
-_domestic_: number of fixed-line connections 13 per 100, mobile-cellular usage continues to increase, reaching 136 telephones per 100 persons (2021)<br>
-_international_: country code - 56; landing points for the Pan-Am, Prat, SAm-1, American Movil-Telxius West Coast Cable, FOS Quellon-Chacabuco, Fibra Optical Austral, SAC&nbsp;and&nbsp;Curie submarine cables providing links to the US, Caribbean&nbsp;and to Central and South America; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
 national and local terrestrial TV channels, coupled with extensive cable TV networks; the state-owned Television Nacional de Chile (TVN) network is self-financed through commercial advertising and is not under direct government control; large number of privately owned TV stations; about 250 radio stations<br>
 
@@ -682,7 +677,7 @@ Armed Forces of Chile (Fuerzas Armadas de Chile): Chilean Army (Ejército de Chi
 1.9% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 70,000 active armed forces personnel (40,000 Army; 20,000 Navy; 10,000 Air Force); approximately 50,000 Carabineros (2025)<br>
+approximately 70,000 active Armed Forces (40,000 Army; 20,000 Navy; 10,000 Air Force); approximately 50,000 Carabineros (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Chilean military inventory is comprised of a broad mix of older foreign supplied weapons and equipment and some domestically produced systems; significant foreign suppliers have included Australia, Brazil, France, Germany, Israel, the Netherlands, Spain, the UK, and the US; Chile's defense industry is active in the production of military aircraft, ships, and vehicles (2024)<br>

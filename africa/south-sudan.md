@@ -62,7 +62,7 @@ _other_: 44% (2022 est.)<br>
 1,000 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Nile (shared with Rwanda [s], Tanzania, Uganda, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Nile (shared with Rwanda [s], Tanzania, Uganda, Sudan, and Egypt [m]) - 6,650 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
@@ -238,7 +238,7 @@ _methane emissions_: 7.61 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 2,680,681 tons (2013 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Nile (shared with Rwanda [s], Tanzania, Uganda, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Nile (shared with Rwanda [s], Tanzania, Uganda, Sudan, and Egypt [m]) - 6,650 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
@@ -541,13 +541,8 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 _total subscriptions_: 6.17 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 30 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: following a referendum, oil-rich South Sudan seceded from Sudan in 2011 and became an independent nation; having been deprived of investment for decades, it inherited one of the least developed telecom markets in the world; there was once investment activity among mobile network operators who sought to expand their networks in some areas of the country; operators in the telecom sector placed themselves in survival mode and are hoping for a political settlement and a return to some degree of social stability; South Sudan has one of the lowest mobile penetration rates in Africa; growth in the sector in coming years is premised on a resolution to the political crisis and a recovery of the country&rsquo;s economy; the virtually untapped internet and broadband market also depends to a large extent on the country gaining access to international fiber cables and on a national backbone network being in place; sophisticated infrastructure solutions are needed to reach the 80% of the population that live outside of the main urban centers; some improvement has followed from the cable link in February 2020 which connects Juba directly to the company&rsquo;s submarine landing station at Mombasa; the cable was South Sudan&rsquo;s first direct international fiber link, and has helped drive down the price of retail internet services for residential and business customers; a second cable linking to the border with Kenya was completed in December 2021 (2022)<br>
-_domestic_: fixed-line less than 1 per 100 subscriptions, mobile-cellular is 30 per 100 persons (2021)<br>
-_international_: country code - 211 (2017)<br>
-
 **Broadcast media**<br>
-<p>1 state-controlled TV channel and radio station; several community and commercial FM stations, mostly sponsored by outside aid donors; some foreign radio broadcasts available</p> (2019)<br>
+1 state-controlled TV channel and radio station; several community and commercial FM stations, mostly sponsored by outside aid donors; some foreign radio broadcasts available (2019)<br>
 
 **Internet country code**<br>
 .ss<br>
@@ -588,7 +583,7 @@ South Sudan People’s Defense Force (SSPDF): Land Forces (includes Presidential
 3.2% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; the SSPDF has an estimated 150-200,000 active personnel (2025)<br>
+information varies; estimated 150-200,000 active Defense Forces (2025)<br>
 <strong>note: </strong>some active SSPDF personnel may be militia; the National/Necessary Unified Forces (NUF) are expected to have up to 80,000 personnel when training and integration is completed; the first batch of approximately 20,000 NUF personnel completed training in late 2022<br>
 
 **Military equipment inventories and acquisitions**<br>

@@ -618,11 +618,6 @@ _subscriptions per 100 inhabitants_: 30 (2023 est.)<br>
 _total subscriptions_: 2.73 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 126 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Slovenia&rsquo;s telecom sector is dominated by four operators; the mobile market has four MNOs and a small number of MVNOs, operating in a country with a potential market of just over two million people; the regulator in recent years has addressed the need for mobile operators to have more spectrum, so enabling them to improve the quality and range of services; a multi-spectrum auction was concluded in mid-2021, aimed at supporting 5G services; the broadband market continues to be dominated by a small number of players; DSL lost its dominance some years ago, being taken over by fiber as subscribers are migrated to new fiber-based networks; fiber accounted for almost half of all fixed broadband connections by March 2022 (2022)<br>
-_domestic_: fixed-line is 32 per 100 and mobile-cellular is 126 per 100 teledensity (2022)<br>
-_international_: country code - 386 (2016)<br>
-
 **Broadcast media**<br>
 public TV broadcaster, Radiotelevizija Slovenija (RTV), operates a system of national and regional TV stations; 35 commercial TV stations; about 60% of households connected to multi-channel cable TV; public radio broadcaster with 3 national and 4 regional stations; more than 75 regional and local commercial and non-commercial radio stations<br>
 
@@ -676,7 +671,7 @@ Slovenian Armed Forces (Slovenska Vojska, SV): structured as a combined force wi
 1% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 6,000 active-duty troops (2024)<br>
+approximately 6,000 active Armed Forces (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a mix of Soviet-era and smaller quantities of more modern, mostly Western equipment; in recent years, Slovenia has begun a modernization program and imported growing amounts of NATO-standard European and US equipment (2024)<br>

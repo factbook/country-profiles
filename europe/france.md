@@ -74,7 +74,7 @@ _other_: 16.5% (2022 est.)<br>
 _fresh water lake(s)_: Lake Geneva (shared with Switzerland) - 580 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Rhin (Rhine)  (shared with Switzerland [s], Germany, and Netherlands [m]) - 1,233 km;  Loire - 1,012 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Rhin (Rhine) (shared with Switzerland [s], Germany, and Netherlands [m]) - 1,233 km; Loire - 1,012 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Loire (115,282 sq km), Seine (78,919 sq km), Rhine-Maas (198,735 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
@@ -282,7 +282,7 @@ _percent of municipal solid waste recycled_: 22.3% (2015 est.)<br>
 _fresh water lake(s)_: Lake Geneva (shared with Switzerland) - 580 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Rhin (Rhine)  (shared with Switzerland [s], Germany, and Netherlands [m]) - 1,233 km;  Loire - 1,012 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Rhin (Rhine) (shared with Switzerland [s], Germany, and Netherlands [m]) - 1,233 km; Loire - 1,012 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Loire (115,282 sq km), Seine (78,919 sq km), Rhine-Maas (198,735 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
@@ -662,12 +662,6 @@ _subscriptions per 100 inhabitants_: 56 (2023 est.)<br>
 _total subscriptions_: 77.4 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 119 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: France's telecom market is one of the largest in Europe; there is a multi-year Engage 2025 plan which is focused on growth in the developing markets, and on the greater use of artificial intelligence and data; there are many MVNOs in the market; LTE networks provide near universal coverage, and carry about 95% of mobile data traffic; operators have launched 5G services, and these have been supported by the late-2020 auction of spectrum in the 3.5GHz range; France&rsquo;s fixed broadband market is increasingly focused on fiber, which accounted for 71% of all fixed lines at the beginning of 2021; growth in the fiber sector has been stimulated by households securing faster data packages during the pandemic; the number of DSL lines has fallen sharply as customers migrate to fiber infrastructure (2021)<br>
-_domestic_: nearly 59 per 100 persons for fixed-line and over 110 per 100 for mobile-cellular subscriptions (2021)<br>
-_international_: country code - 33;&nbsp;landing points for Circe South, TAT-14, INGRID, FLAG Atlantic-1, Apollo, HUGO, IFC-1, ACE, SeaMeWe-3 &amp; 4, Dunant, Africa-1, AAE-1, Atlas Offshore, Hawk, IMEWE, Med Cable, PEACE Cable, and TE&nbsp;North/TGN-Eurasia/SEACOM/Alexandros/Medex&nbsp;submarine cables providing links throughout Europe, Asia, Australia, the Middle East,&nbsp;Southeast Asia, Africa&nbsp;and US; satellite earth stations - more than 3 (2 Intelsat (with total of 5 antennas - 2 for Indian Ocean and 3 for Atlantic Ocean), NA Eutelsat, 1 Inmarsat - Atlantic Ocean region); HF radiotelephone communications with more than 20 countries (2019)<br>
-_overseas departments_: country codes: French Guiana - 594; landing points for Ella Link, Kanawa, Americas II to South America, Europe, Caribbean and US; Guadeloupe - 590; landing points for GCN, Southern Caribbean Fiber, and&nbsp;ECFS&nbsp;around the Caribbean and&nbsp;US;&nbsp;Martinique - 596; landing points for Americas II, ECFS, and Southern Caribbean Fiber to South America, US and around the Caribbean; &nbsp;Mayotte - 262; landing points for FLY-LION3 and LION2 to&nbsp;East Africa and East African Islands in Indian Ocean;&nbsp;Reunion - 262; landing points for SAFE, METISS, and LION submarine cables to Asia, South and East Africa, Southeast Asia and nearby Indian Ocean Island countries of Mauritius, and Madagascar (2019)<br>
-
 **Broadcast media**<br>
 a mix of both publicly operated and privately owned TV stations; state-owned TV stations operate 4 networks and have part-interest in several thematic cable/satellite channels and international channels; large number of privately owned regional and local TV stations; multi-channel satellite and cable services; public broadcaster Radio France operates 7 national networks, a series of regional networks, and services for overseas territories and foreign audiences; Radio France Internationale, under the Ministry of Foreign Affairs, is a leading international broadcaster; large number of commercial FM stations<br>
 
@@ -729,7 +723,7 @@ French Armed Forces (Forces Armées Françaises): Army (l'Armee de Terre; includ
 2% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 205,000 active-duty troops (120,000 Army; 35,000 Navy; 40,000 Air Force; 10,000 other, such as joint staffs, administration, logistics, procurement, medical service, etc.); approximately 100,000 National Gendarmerie; approximately 75,000 National Guard (2024)<br>
+approximately 205,000 active-duty Armed Forces (120,000 Army; 35,000 Navy; 40,000 Air Force; 10,000 other, such as joint staffs, administration, logistics, procurement, medical service, etc.); approximately 100,000 National Gendarmerie; approximately 75,000 National Guard (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the French military's inventory consists mostly of domestically produced weapons systems, including some jointly produced with other European countries; there is a smaller mix of armaments from other Western countries, particularly the US; France has a large and sophisticated defense industry capable of manufacturing the full spectrum of air, land, and naval military weapons systems (2024)<br>

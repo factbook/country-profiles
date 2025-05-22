@@ -66,7 +66,7 @@ _other_: 76.3% (2022 est.)<br>
 _fresh water lake(s)_: Lake Hammar - 1,940 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Euphrates river mouth (shared with Turkey[s], Syria, and Iran) - 3,596 km; Tigris river mouth (shared with Turkey[s], Syria, and Iran) - 1,950 km; the Tigris and Euphrates join to form the Shatt al Arab<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Euphrates river mouth (shared with Turkey[s], Syria, and Iran) - 3,596 km; Tigris river mouth (shared with Turkey[s], Syria, and Iran) - 1,950 km; the Tigris and Euphrates join to form the Shatt al Arab<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
@@ -271,7 +271,7 @@ _municipal solid waste generated annually_: 13.14 million tons (2015 est.)<br>
 _fresh water lake(s)_: Lake Hammar - 1,940 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Euphrates river mouth (shared with Turkey[s], Syria, and Iran) - 3,596 km; Tigris river mouth (shared with Turkey[s], Syria, and Iran) - 1,950 km; the Tigris and Euphrates join to form the Shatt al Arab<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Euphrates river mouth (shared with Turkey[s], Syria, and Iran) - 3,596 km; Tigris river mouth (shared with Turkey[s], Syria, and Iran) - 1,950 km; the Tigris and Euphrates join to form the Shatt al Arab<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
@@ -605,11 +605,6 @@ _subscriptions per 100 inhabitants_: 4 (2023 est.)<br>
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 45.7 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 98 (2022 est.)<br>
-
-**Telecommunication systems**<br>
-_general assessment_: civil stability has made it easier for mobile and fixed-line operators to rebuild telecom services and infrastructure damaged during previous periods of violence; the government extended the licenses held by the MNOs for an additional three years to compensate for the chaos and destruction caused between 2014 and 2017 when Islamic State controlled many areas of the country; the companies have struggled to develop LTE services; most services are still based on GSM and 3G, except in Iraq's Kurdistan region where LTE is more widely available (2022)<br>
-_domestic_: about 7 per 100 for fixed-line and 86 per 100 for mobile-cellular subscriptions (2021)<br>
-_international_: country code - 964; landing points for FALCON, and GBICS/MENA submarine cables providing connections to the Middle East, Africa and India; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Intersputnik - Atlantic Ocean region, and 1 Arabsat (inoperative)); local microwave radio relay connects border regions to Jordan, Kuwait, Syria, and Turkey (2019)<br>
 
 **Broadcast media**<br>
 the number of private radio and TV stations has increased rapidly since 2003; state-owned TV and radio stations are operated by the publicly funded Iraqi Media Network; private broadcast media are mostly linked to political, ethnic, or religious groups; satellite TV is available to about 70% of viewers; many broadcasters are based abroad; transmissions of multiple international radio broadcasters are accessible (2019)<br>

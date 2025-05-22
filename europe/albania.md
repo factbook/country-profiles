@@ -395,7 +395,7 @@ _selected World Heritage Site locales_: Butrint (c); Historic Berat and Gjirokas
 ## Economy
 
 **Economic overview**<br>
-upper-middle -income Balkan economy; EU accession candidate; growth bolstered by tourism, services, construction, and private consumption; fiscal consolidation through revenue collection to address public debt; challenges include weak governance, corruption, climate adaptation, vulnerability to energy sector shocks, and emigration of workers<br>
+<p>upper-middle-income Balkan economy; EU accession candidate; growth bolstered by tourism, agriculture, mining, construction, and private consumption; fiscal consolidation through revenue collection and tax compliance enhancements to address public debt; challenges include weak governance, corruption, and high emigration rates</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $50.098 billion (2023 est.)<br>
@@ -608,11 +608,6 @@ _subscriptions per 100 inhabitants_: 6 (2023 est.)<br>
 _total subscriptions_: 2.61 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 98 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Albania&rsquo;s small telecom market has made upgrades to the fixed-line infrastructure to support broadband services, but fixed-line telephony use and penetration in Albania is declining steadily as subscribers migrate to mobile solutions; the mobile sector is well provided with LTE networks, while operators have invested in 5G; some of these efforts have been made in conjunction with Kosovo, with the intention of a seamless 5G corridor along the highway connecting the two countries; Albania has long sought to join the EU, which has benefited its telecoms sector through closer scrutiny of its regulatory regime and through the injection of funding to help modernize infrastructure (2021)<br>
-_domestic_: fixed-line approximately 7 per 100, teledensity continues to decline due to heavy use of mobile-cellular telephone services; mobile-cellular telephone use is widespread and generally effective, 92 per 100 for mobile-cellular (2021)<br>
-_international_: country code - 355; submarine cables&nbsp;for the Adria 1 and Italy-Albania provide connectivity to Italy, Croatia, and Greece; a combination submarine cable and land fiber-optic system, provides additional connectivity to Bulgaria, Macedonia, and Turkey; international traffic carried by fiber-optic cable and, when necessary, by microwave radio relay from the Tirana exchange to Italy and Greece (2019)<br>
-
 **Broadcast media**<br>
 over 65 TV stations, including several that broadcast nationally and are sometimes available to neighboring countries; many viewers have access to Italian and Greek TV via terrestrial reception; TV stations have begun a government-mandated conversion from analog to digital broadcast; cable TV service is available; 2 public radio networks and roughly 78 private radio stations; several international broadcasters are available (2024)<br>
 
@@ -668,7 +663,7 @@ Republic of Albania Armed Forces (Forcat e Armatosura të Republikës së Shqip�
 1.3% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 7,000 total active-duty personnel (2024)<br>
+approximately 7,000 total active-duty Armed Forces (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 since joining NATO, the military has been in the process of modernizing by retiring its inventory of Soviet-era weapons and replacing them with Western equipment, including donated and secondhand deliveries (2024)<br>

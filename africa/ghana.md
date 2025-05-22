@@ -65,7 +65,7 @@ _other_: 9.4% (2022 est.)<br>
 360 sq km (2013)<br>
 
 **Major rivers (by length in km)**<br>
-Volta river mouth (shared with Burkina Faso [s]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Volta river mouth (shared with Burkina Faso [s]) - 1,600 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Volta (410,991 sq km)<br>
@@ -269,7 +269,7 @@ _methane emissions_: 22.75 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 3,538,275 tons (2005 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Volta river mouth (shared with Burkina Faso [s]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Volta river mouth (shared with Burkina Faso [s]) - 1,600 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Volta (410,991 sq km)<br>
@@ -611,11 +611,6 @@ _subscriptions per 100 inhabitants_: 1 (2023 est.) less than 1<br>
 _total subscriptions_: 33.4 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 120 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: challenged by unreliable electricity and shortage of skilled labor, Ghana seeks to extend telecom services nationally; investment in fiber infrastructure and off-grid solutions provide data coverage to over 23 million people; launch of LTE has improved mobile data services, including e-commerce and banking; moderately competitive Internet market, most through mobile networks; international submarine cables, and terrestrial cables have improved Internet capacity; LTE services are widely available; the relatively high cost of 5G-compatible devices also inhibits most subscribers from migrating from 3G and LTE platforms (2022)<br>
-_domestic_: fixed-line data less than 1 per 100 subscriptions; mobile-cellular subscriptions 123 per 100 persons (2021)<br>
-_international_: country code - 233; landing points for the SAT-3/WASC, MainOne, ACE, WACS and GLO-1 fiber-optic submarine cables that provide connectivity to South and West Africa, and Europe; satellite earth stations - 4 Intelsat (Atlantic Ocean); microwave radio relay link to Panaftel system connects Ghana to its neighbors; GhanaSat-1 nanosatellite launched in 2017 (2017)<br>
-
 **Broadcast media**<br>
 state-owned TV station, 2 state-owned radio networks; several privately owned TV stations and a large number of privately owned radio stations; transmissions of multiple international broadcasters are accessible; several cable and satellite TV subscription services are obtainable<br>
 
@@ -671,7 +666,7 @@ note: the GAF also has a Medical Service/Corps<br>
 0.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 15-20,000 active Armed Forces personnel (2025)<br>
+estimated 15-20,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a mix of older and some newer Chinese, Russian, and Western equipment, including US, which has donated items such as patrol boats; the government in recent years has committed to an increase in funding for equipment acquisitions, including armor, mechanized, and special forces capabilities for the Army, light attack aircraft for the Air Force, and more modern coastal patrol vessels for the Navy (2024)<br>

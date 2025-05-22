@@ -338,7 +338,6 @@ _head of government_: Prime Minister Allamaye HALINA (since 23 May 2024)<br>
 _cabinet_: Council of Ministers<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 6 May 2024 (next to be held NA)<br>
 _election results_: <em><br>2024: </em>Mahamat Idriss DÉBY elected president; percent of vote - Mahamat Idriss DÉBY (MPS) 61%, Succes MASRA (Transformers) 18.5%, Albert PADACKE 16.9%, other 3.6%<br><em><br>2021:</em> Lt. Gen. Idriss DÉBY reelected transitional president; percent of vote - Lt. Gen. Idriss DÉBY (MPS) 79.3%, Pahimi PADACKET Albert (RNDT) 10.3%, Lydie BEASSEMDA (Party for Democracy and Independence) 3.2%, other 7.2%<br><em><br></em><br>
-<strong>note:</strong> on 20 April 2021; President Idriss DÉBY died of injuries sustained following clashes between government forces and insurgents in northern Chad; following his death, Mahamat Idriss DÉBY , his son, took control of the country, established a Transitional Military Council which was dissolved in October 2022, and was elected president by popular vote in May 2024<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -604,11 +603,6 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 _total subscriptions_: 12.1 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 68 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: the telecom infrastructure is particularly poor; fixed, mobile and internet is well below African averages; Chad&rsquo;s telecom market offers some potential for investors to develop services given the low starting base; the country&rsquo;s first 3G/LTE mobile license was awarded in April 2014; Chad finally gained access to international fiber bandwidth in 2012 its national backbone infrastructure remains underdeveloped; the World Bank-funded Central African Backbone (CAB) project takes in Chad, while the country is also party to a Trans-Saharan Backbone project which will link a fiber cable to Nigeria and Algeria (2022)<br>
-_domestic_: fixed-line connections less than 1 per 100 persons; mobile-cellular subscribership base of about 60 per 100 persons (2021)<br>
-_international_: country code - 235; satellite earth station - 1 Intelsat (Atlantic Ocean)<br>
-
 **Broadcast media**<br>
 1 state-owned TV station; 2 privately-owned TV stations; state-owned radio network, Radiodiffusion Nationale Tchadienne (RNT), operates national and regional stations; over 10 private radio stations; some stations rebroadcast programs from international broadcasters (2017)<br>
 
@@ -644,7 +638,7 @@ Chadian National Army (Armee Nationale du Tchad, ANT): Ground Forces (l'Armee de
 2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 35-40,000 active Chadian National Army (ANT) personnel (2025)<br>
+estimated 35-40,000 active Chadian National Army (2025)<br>
 <strong>note: </strong> in 2021, Chad pledged to increase the size of the military to 60,000<br>
 
 **Military equipment inventories and acquisitions**<br>

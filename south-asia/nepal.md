@@ -604,11 +604,6 @@ _subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 _total subscriptions_: 38.2 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 127 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: in relation to its telecom sector, Nepal has several topographical and economic constraints which have impeded efforts to expand network infrastructure and improve the quality of service for end-users; the fixed line market remains underdeveloped, and as a result most traffic is channeled via mobile networks; fixed broadband penetration remains very low, though to address this the government has initiated several programs as part of the Digital Nepal Framework and the wider Optical Fiber Backbone Network Expansion Project, started in 2012; supported by the Rural Telecommunications Development Fund, the programs include building out fiber backbone infrastructure and using this to provide broadband to schools and community centers nationally; telcos have also invested in fiber networks, and competition in the market is intensifying; cheap fiber-based services launched in mid-2021 prompted responses from other ISPs to provide faster and more competitively priced offers; Nepal&rsquo;s mobile market is relatively developed, with a focus on LTE; in 2021, the regulator considered a range of spectrum bands which could be used for 5G (2021)<br>
-_domestic_: fixed-line is 2 per 100 persons and mobile-cellular nearly 130 per 100 persons (2021)<br>
-_international_: country code - 977; Nepal, China and Tibet connected across borders with underground and all-dielectric self-supporting (ADSS) fiber-optic cables; radiotelephone communications; microwave and fiber landlines to India; satellite earth station - 1 Intelsat (Indian Ocean) (2019)<br>
-
 **Broadcast media**<br>
 state operates 3 TV stations, as well as national and regional radio stations; 117 television channels are licensed, 71 of which are cable TV, 3 are distributed through Direct-To-Home (DTH) system, and 4 are digital terrestrial; 736 FM radio stations are licensed, and at least 314 of those are community stations (2019)<br>
 
@@ -651,7 +646,7 @@ Nepalese Armed Forces (Ministry of Defense): Nepali Army (includes Air Wing)<br>
 1.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 95,000 active Armed Forces personnel (2025)<br>
+approximately 95,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Army's inventory includes a mix of mostly older equipment largely of British, Chinese, Indian, Russian, and South African origin; in recent years, Nepal has received limited amounts of newer hardware from several countries, including China, Indonesia, Italy, and Russia (2023)<br>

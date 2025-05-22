@@ -476,11 +476,6 @@ _subscriptions per 100 inhabitants_: 21 (2022 est.)<br>
 _total subscriptions_: 9,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 80 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: provides fixed-line telephone communications to subscribers on each of the islands of Tuvalu; each island relies on the use of a satellite dish for inter-island telephone communication, internet access, and mobile phone services (2023)<br>
-_domestic_: fixed-line teledensity is 18 per 100 and mobile-cellular is 80 per 100 (2021)<br>
-_international_: country code - 688; international calls can be made by satellite<br>
-
 **Broadcast media**<br>
 no TV stations; many households use satellite dishes to watch foreign TV; 1 state-owned radio station, Radio Tuvalu, includes relays from international broadcasters (2019)<br>
 

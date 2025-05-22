@@ -541,7 +541,7 @@ $6.442 billion (2023 est.)<br>
 <b>note:</b> present value of external debt in current US dollars<br>
 
 **Exchange rates**<br>
-_Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
+_Currency_: Coop&eacute;ration Financi&egrave;re en Afrique Centrale francs (XAF) per US dollar -<br>
 606.345 (2024 est.)<br>
 606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
@@ -598,11 +598,6 @@ _subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 _total subscriptions_: 3 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 125 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: the telecom market was liberalized in 1999 when the government awarded three mobile telephony licenses and two ISP licenses and established an independent regulatory authority; in contrast with the mobile market, Gabon&rsquo;s fixed-line and internet sectors have remained underdeveloped due to a lack of competition and high prices; the country has sufficient international bandwidth on the SAT-3/WASC/SAFE submarine cable; the arrival of the ACE submarine cable, combined with progressing work on the CAB cable, has increased back haul capacity supporting mobile data traffic (2022)<br>
-_domestic_: fixed-line 1 per 100 subscriptions; mobile cellular subscriptions are 134 per 100 persons (2021)<br>
-_international_: country code - 241; landing points for the SAT-3/WASC, ACE and Libreville-Port Gentil Cable&nbsp;fiber-optic submarine cable that provides connectivity to Europe and West Africa; satellite earth stations - 3 Intelsat (Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
 2 state-run TV stations and 2 state-run radio stations; a few private radio and TV stations; transmissions of at least 2 international broadcasters are accessible; satellite service subscriptions are available<br>
 
@@ -655,7 +650,7 @@ Gabonese Armed Forces (Force Armées Gabonaise or FAG; aka National Defense and 
 1.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 7,000 active-duty troops including the Republican Guard and Gendarmerie (2025)<br>
+approximately 7,000 active-duty Armed Forces including the Republican Guard and Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Gabonese military has a mix of older and more modern weapons and equipment from a variety of suppliers including Brazil, China, France, Germany, Russia/former Soviet Union, and South Africa (2024)<br>

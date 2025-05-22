@@ -519,11 +519,6 @@ _subscriptions per 100 inhabitants_: 29 (2022 est.)<br>
 _total subscriptions_: 184,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 197 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: declines in subscriber numbers, particularly for prepaid mobile services&nbsp; (the mainstay of short-term visitors), and revenue; governments, regulators, and MNOs are not investing in 5G opportunities; network expansion and enhancements remain concentrated around improving LTE coverage (2021)<br>
-_domestic_: fixed-line teledensity roughly 27 per 100 persons; mobile-cellular teledensity is about 200 per 100 persons (2021)<br>
-_international_: country code - 1-268; landing points for the ECFS and&nbsp;Southern Caribbean Fiber&nbsp;submarine cable systems with links to other islands in the eastern Caribbean; satellite earth stations&nbsp;- 1 Intelsat (Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
 state-controlled Antigua and Barbuda Broadcasting Service (ABS) operates 1 TV station; multi-channel cable TV subscription services are available; ABS operates 1 radio station; roughly 20 radio stations (2024)<br>
 
@@ -567,7 +562,7 @@ _key ports_: St. John's<br>
 Antigua and Barbuda Defense Force (ABDF): Antigua and Barbuda Regiment, Air Wing, Coast Guard<br><br>Royal Police Force of Antigua and Barbuda (RPFAB) (2025)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 300 active military personnel (2024)<br>
+approximately 300 active Defense Force personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the ABDF's equipment inventory is limited to small arms, light weapons, and soft-skin vehicles; the Coast Guard maintains ex-US patrol vessels and some smaller boats (2024)<br>

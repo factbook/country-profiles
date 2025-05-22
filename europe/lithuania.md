@@ -602,11 +602,6 @@ _subscriptions per 100 inhabitants_: 8 (2023 est.)<br>
 _total subscriptions_: 3.92 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 139 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: <p>Lithuania’s small telecoms market is among the more advanced in Europe, particularly given the universal access to long-term evolution (LTE) infrastructure and the extensive fiber footprint; Operator investment has been focused on fiber broadband and mobile network upgrades; Fiber is now by far the dominant fixed broadband platform, with the number of Digital Subscriber Line (DSL) and cable connections in steady decline; LTE services are available nationally, operators have made steady investments in 5G</p> (2024)<br>
-_domestic_: nearly 9 per 100 for fixed-line subscriptions; mobile-cellular subscriptions at 139 per 100 persons (2022)<br>
-_international_: country code - 370; landing points for the BCS East, BCS East-West Interlink and NordBalt connecting Lithuania to Sweden, and Latvia&nbsp;; further transmission by satellite; landline connections to Latvia and Poland (2019)<br>
-
 **Broadcast media**<br>
 public broadcaster operates 3 channels, with the third channel (satellite) introduced in 2007; various privately owned commercial TV broadcasters operate national and multiple regional channels; many privately owned local TV stations; multi-channel cable and satellite TV services available; publicly owned broadcaster operates 3 radio networks; many privately owned commercial broadcasters, with repeater stations in various regions&nbsp;<br>
 
@@ -661,7 +656,7 @@ Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Lithuanian Land Forces
 2.1% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 18,000 active-duty personnel (14,000 Army, including about 5,000 active National Defense Voluntary Forces); 500 Navy; 1,000 Air Force; 2,500 other, including special operations forces, logistics support, training, etc) (2024)<br>
+approximately 18,000 active-duty Armed Forces (14,000 Army, including about 5,000 active National Defense Voluntary Forces); 500 Navy; 1,000 Air Force; 2,500 other, including special operations forces, logistics support, training, etc) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a mix of mostly European and US weapons and equipment (2024)<br>

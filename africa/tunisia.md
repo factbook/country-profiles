@@ -613,11 +613,6 @@ _subscriptions per 100 inhabitants_: 15 (2023 est.)<br>
 _total subscriptions_: 16.4 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 129 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Tunisia has one of the most sophisticated telecom infrastructures in North Africa; penetration rates for mobile and Internet services are among the highest in the region; government program of regulation and infrastructure projects aims to improve Internet connectivity to underserved areas; operators built extensive LTE infrastructure in 2019, and continue to discuss plans for future 5G networks and services; one operator has signed an agreement to pursue nano-satellite launches in 2023; internet censorship abolished, though concerns of government surveillance remain; legislation passed in 2017 supporting e-commerce and active e-government; importer of some integrated circuits and broadcasting equipment (including radio, television, and communications transmitters) from the PRC (2022)<br>
-_domestic_: fixed-line is nearly 14 per 100 and mobile-cellular teledensity is 129 telephones per 100 persons (2022)<br>
-_international_: country code - 216; landing points for the SEA-ME-WE-4, Didon, HANNIBAL System and Trapani-Kelibia&nbsp;submarine cable systems that provides links to Europe, Africa, the Middle East, Asia and Southeast Asia; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Arabsat; coaxial cable and microwave radio relay to Algeria and Libya; participant in Medarabtel; 2 international gateway digital switches (2020)<br>
-
 **Broadcast media**<br>
 2 state-owned TV stations; 10 private local TV stations; satellite TV service available; state-owned radio network with 2 stations; several dozen private radio stations and community radio stations; transmissions of multiple international broadcasters available (2019)<br>
 
@@ -675,7 +670,7 @@ Tunisian Armed Forces (Forces Armées Tunisiennes, FAT): Tunisian Army (includes
 3.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 35,000 active-duty personnel (25,000 Army; 5,000 Navy; 5,000 Air Force) (2025)<br>
+approximately 35,000 active-duty Armed Forces (25,000 Army; 5,000 Navy; 5,000 Air Force) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Tunisian military's inventory consists mostly of older or second-hand equipment from a wide variety of suppliers, including Brazil, China, Turkey, and the US, as well as several European countries, such as France, Germany, and Italy (2024)<br>

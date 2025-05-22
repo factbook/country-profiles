@@ -592,11 +592,6 @@ _subscriptions per 100 inhabitants_: 14 (2022 est.)<br>
 _total subscriptions_: 11.5 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 182 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: El Salvador is the smallest country in central America geographically, it has the fourth largest economy in the region; the country&rsquo;s telecom sector has been restricted by poor infrastructure and unequal income distribution; there have been organizational delays which have slowed the development of telecom services; El Salvador&rsquo;s fixed-line teledensity is substantially lower than the Latin American and Caribbean average; there has been a significant drop in the number of fixed lines since 2010, particularly in 2017, largely due to the substitution for mobile-only alternatives; about 94% of all telephony lines in the country are on mobile networks; mobile subscriptions are remarkably high considering El Salvador&rsquo;s economic indicators, being about a third higher than average for Latin America and the Caribbean; the country was one of the last in the region to provide LTE services, mainly due to the inadequate provision of suitable spectrum; the multi-spectrum auction conducted at the end of 2019 has allowed MNOs to improve the reach and quality of their service offerings; El Salvador&rsquo;s telecom legislation is one of the more liberal in Latin America, encouraging competition in most areas and permitting foreign investment; there are no regulations which promote wholesale broadband; the only effective cross-platform competition in the broadband market comes from the few cable operators; there has been some market consolidation in recent years (2021)<br>
-_domestic_: fixed-line services, roughly 14 per 100, mobile-cellular competition now at 175 subscribers per 100 inhabitants (2021)<br>
-_international_: country code - 503; satellite earth station - 1 Intelsat (Atlantic Ocean); connected to Central American Microwave System (2019)<br>
-
 **Broadcast media**<br>
 multiple privately owned national terrestrial TV networks, supplemented by cable TV networks that carry international channels; hundreds of commercial radio stations and 2 government-owned radio stations; transition to digital transmission was set to begin in 2018, along with adoption of the Japanese-Brazilian Digital Standard (ISDB-T) (2022)<br>
 
@@ -648,7 +643,7 @@ The Armed Forces of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of
 1.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 25,000 active military personnel (2025)<br>
+approximately 25,000 active FAES (2025)<br>
 <strong>note:</strong> El Salvador has pledged to increase the size of the military to 40,000 troops by 2026<br>
 
 **Military equipment inventories and acquisitions**<br>

@@ -67,7 +67,7 @@ _other_: 15.2% (2022 est.)<br>
 _salt water lake(s)_: Thalesap Songkhla - 1,290 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Mae Nam Khong (Mekong) (shared with China [s], Burma, Laos, Cambodia, and Vietnam [m]) - 4,350 km; Salween (shared with China [s] and Burma [m]) - 3,060 km; Mun - 1,162 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Mae Nam Khong (Mekong) (shared with China [s], Burma, Laos, Cambodia, and Vietnam [m]) - 4,350 km; Salween (shared with China [s] and Burma [m]) - 3,060 km; Mun - 1,162 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)<br>
@@ -274,7 +274,7 @@ _percent of municipal solid waste recycled_: 19.1% (2012 est.)<br>
 _salt water lake(s)_: Thalesap Songkhla - 1,290 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Mae Nam Khong (Mekong) (shared with China [s], Burma, Laos, Cambodia, and Vietnam [m]) - 4,350 km; Salween (shared with China [s] and Burma [m]) - 3,060 km; Mun - 1,162 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Mae Nam Khong (Mekong) (shared with China [s], Burma, Laos, Cambodia, and Vietnam [m]) - 4,350 km; Salween (shared with China [s] and Burma [m]) - 3,060 km; Mun - 1,162 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)<br>
@@ -343,7 +343,6 @@ _chief of state_: King WACHIRALONGKON; also spelled Vajiralongkorn (since 1 Dece
 _head of government_: Prime Minister PHAETHONGTHAN Chinnawat; also spelled PAETONGTARN Shinawatra (since 18 August 2024)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, appointed by the king; a Privy Council advises the king<br>
 _elections/appointments_: the monarchy is hereditary; prime minister candidate approved by the Senate and House of Representatives and appointed by the king; starting in 2024, approval of prime minister needed only by the House of Representatives<br>
-<strong>note: </strong>following its May 2023 election win, the MJP formed an eight-party coalition and put forward its leader PITA Limjaroenrat for prime minister; however, the Senate blocked PITA from becoming prime minister in the first National Assembly vote in July 2023, and the Assembly subsequently voted that he could not submit his name again; the Constitutional Court also suspended PITA after accepting cases accusing him of violating election law; in August 2023, MJP handed over the lead in forming a new government to the second largest party in the coalition, PTP, which then formed a new coalition without MJP; PTP put forward SRETTHA Thavisin for prime minister, and he was approved by the National Assembly 482 votes out of a possible 747<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Rathhasapha)<br>
@@ -644,11 +643,6 @@ _subscriptions per 100 inhabitants_: 6 (2023 est.)<br>
 _total subscriptions_: 121 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 176 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Thailand&rsquo;s telecom sector is relatively mature and hosts a mix of public and private sector players; the mobile market is highly developed and has experienced strong growth over the last seven years; the market returned to growth in 2021 after it contracted in 2020 driven by the Covid-19 pandemic, and a steep decline in inbound tourism; it remains highly saturated, owing to overall maturity and the popularity of multiple SIM card use, which has resulted in a particularly high penetration rate; in general, the sector retains considerable potential given the impetus of 5G, the recent spectrum auctions, and continued network deployments by the country&rsquo;s network operators; further auctions of spectrum in the 700MHz band (being repurposed from digital TV broadcasting), and in the 3.6GHz range will further improve network capacity; in the wire line segment, the decline in fixed-line penetration is expected to continue as subscribers migrate to mobile networks for voice and data services; the emphasis among operators has been to bolster their fiber footprints in key high-value areas; the transition to fiber from DSL and cable has also been facilitated by changes to the regulatory structure that have removed some barriers to investment; this is supporting the cannibalization of older copper-based DSL lines by fiber; the returns from this investment remain a long-term prospect as consumers still favor entry-level packages; there is also strong interest from the government, as well as private vendors, in establishing Thailand as a data center hub to serve the region; the size, capacity and spread of existing data centers in the Greater Mekong Subregion (GMS) outside of Thailand is small; Thailand retains some advantages to attract investment, including improved fiber connectivity and international bandwidth; increasing submarine capacity, such as the SJC2 cable to come online later in 2023, will considerably improve Thailand&rsquo;s potential as a regional hub (2022)<br>
-_domestic_: fixed-line is 19 per 100 and mobile-cellular is 176 per 100 (2022)<br>
-_international_: country code - 66; landing points for the AAE-1, FEA, SeaMeWe-3,-4, APG, SJC2, TIS, MCT and AAG submarine cable systems providing links throughout Asia, Australia, Africa, Middle East, Europe, and US; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Pacific Ocean) (2019)<br>
-
 **Broadcast media**<br>
 26 digital TV stations and 6 terrestrial TV stations broadcast nationally via relay stations, with 2 of the terrestrial stations military-owned and the other 4 state-owned or state-controlled; some leased to private enterprise; all required to broadcast government-produced news; multi-channel satellite and cable TV subscriptions available; radio frequencies allotted for over 500 government and commercial radio stations; many small community radio stations operate with low-power transmitters (2017)<br>
 
@@ -705,7 +699,7 @@ Royal Thai Armed Forces (RTARF): Royal Thai Army (RTA), Royal Thai Navy (RTN; in
 1.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 350,000 active-duty Armed Forces personnel (250,000 Army; 70,000 Navy; 30,000 Air Force) (2025)<br>
+estimated 350,000 active-duty Armed Forces (250,000 Army; 70,000 Navy; 30,000 Air Force) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the RTARF has a diverse array of foreign-supplied weapons and equipment, as well as some domestically produced items; in recent years, Thailand has received arms from a wide variety of countries, including China and the US; Thailand has a domestic defense industry, which produces such items as armored vehicles, artillery systems, naval vessels, unmanned aerial vehicles, and other military technologies (2024)<br>

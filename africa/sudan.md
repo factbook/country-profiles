@@ -65,7 +65,7 @@ _other_: 30% (2022 est.)<br>
 15,504 sq km (2019)<br>
 
 **Major rivers (by length in km)**<br>
-<p>An Nīl (Nile) (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Egypt [m]) - 6,650 km; Blue Nile river mouth (shared with Ethiopia [s]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
+<p>An Nīl (Nile) (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Egypt [m]) - 6,650 km; Blue Nile river mouth (shared with Ethiopia [s]) - 1,600 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
@@ -258,7 +258,7 @@ _methane emissions_: 75.1 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 2,831,291 tons (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-<p>An Nīl (Nile) (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Egypt [m]) - 6,650 km; Blue Nile river mouth (shared with Ethiopia [s]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
+<p>An Nīl (Nile) (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Egypt [m]) - 6,650 km; Blue Nile river mouth (shared with Ethiopia [s]) - 1,600 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
@@ -323,12 +323,12 @@ _residency requirement for naturalization_: 10 years<br>
 17 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Sovereign Council Chair and Commander-in-Chief of the Sudanese Armed Forces General Abd-al-Fattah al-BURHAN Abd-al-Rahman<br>
-_head of government_: Sovereign Council Chair and Commander-in-Chief of the Sudanese Armed Forces General Abd-al-Fattah al-BURHAN Abd-al-Rahman<br>
-_cabinet_: most members of the Council of Ministers were forced from office in October 2021 by the military and subsequently resigned in November 2021; the military allowed a handful of ministers appointed by former armed opposition groups to retain their posts; at present, most of the members of the Council are senior civil servants serving in an acting minister capacity appointed either by Prime Minister HAMDOUK prior to his resignation or by the military<br>
-_elections/appointments_: the 2019 Constitutional Declaration originally called for elections to be held in late 2022 at the end of the transitional period; that date was pushed back to late 2023 by the Juba Peace Agreement; the methodology for future elections has not yet been defined; according to the 2019 Constitutional Declaration, civilian members of the Sovereign Council and the prime minister were to have been nominated by an umbrella coalition of civilian actors known as the Forces for Freedom and Change; this methodology was followed in selecting HAMDOUK as prime minister in August 2019; the military purports to have suspended this provision of the 2019 Constitutional Declaration in October 2021; Prime Minister HAMDOUK&rsquo;s restoration to office in November 2021 was the result of an agreement signed between him and Sovereign Council Chair BURHAN; military members of the Sovereign Council are selected by the leadership of the security forces; representatives of former armed groups to the Sovereign Council are selected by the signatories of the Juba Peace Agreement<br>
+_chief of state_: Sovereign Council Chair and Commander-in-Chief of the Sudanese Armed Forces General Abd-al-Fattah al-BURHAN Abd-al-Rahman (since 11 November 2021)<br>
+_head of government_: Sovereign Council Chair and Commander-in-Chief of the Sudanese Armed Forces General Abd-al-Fattah al-BURHAN Abd-al-Rahman (since 11 November 2021)<br>
+_cabinet_: the military forced most members of the Council of Ministers out of office in 2021; a handful of ministers appointed by former armed opposition groups were allowed to retain their posts; at present, most of the members of the Council are appointed senior civil servants serving in an acting-minister capacity<br>
+_elections/appointments_: an election was supposed to be held in 2022 or 2023, but the methodology for elections has still not been defined; military members of the Sovereign Council are selected by the leadership of the security forces; representatives of former armed groups to the Sovereign Council are selected by the signatories of the Juba Peace Agreement<br>
 _election results_: NA<br>
-<strong>note 1:</strong> the 2019 Constitutional Declaration established a collective chief of state of the "Sovereign Council," which was chaired by al-BURHAN; on 25 October 2021, al-BURHAN dissolved the Sovereign Council but reinstated it on 11 November 2021, replacing its civilian members (previously selected by the umbrella civilian coalition the Forces for Freedom and Change) with civilians of the military’s choosing but then relieved the newly appointed civilian members of their duties on 6 July 2022<br><br><strong>note 2:</strong> Sovereign Council currently consists of only the 5 generals<br><br><strong>note 3: </strong>former Prime Minister Abdallah HAMDOUK resigned on 2 January 2022; HAMDOUK served as prime minister from August 2019 to October 2019 before he was kidnapped; he was later freed and reinstated as prime minister on 21 November 2021<br>
+<strong>note 1:</strong> the 2019 Constitutional Declaration established a collective chief of state of the "Sovereign Council," which was chaired by al-BURHAN; on 25 October 2021, al-BURHAN dissolved the Sovereign Council but reinstated it on 11 November 2021, replacing its civilian members (previously selected by the umbrella civilian coalition the Forces for Freedom and Change) with civilians of the military’s choosing, but then relieved the newly appointed civilian members of their duties on 6 July 2022<br><br><strong>note 2:</strong> Sovereign Council currently consists of 5 generals<br>
 
 **Legislative branch**<br>
 <strong>note:</strong>  the Parliament of Sudan was dissolved after a coup in April 2019; the August 2019 Constitutional Declaration established Sudan's transitional government; a Transitional Legislative Council (TLC) was to have served as the national legislature during the transitional period until elections could be held, but the TLC has not been created<br>
@@ -578,11 +578,6 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 _total subscriptions_: 34.7 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 74 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Sudan emerged as a poorer country when South Sudan separated from it in 2011; although Sudan has about four times the population of South Sudan, the latter benefits from its control of the majority of known oil reserves; the Sudanese economy has been affected by hyperinflation in recent years, partly the result of the loss of oil revenue but also due to domestic volatility and social unrest; the difficult economic conditions have meant that for several years telcos have reported revenue under hyper inflationary reporting standards; pressure on revenue has made it difficult for operators to invest in infrastructure upgrades, and so provide improved services to customers; despite this, the number of mobile subscribers increased 7% in 2021, year-on-year; this level of growth is expected to have been maintained in 2022, though could slow from 2023; the country&rsquo;s poor fixed-line infrastructure has helped the development of mobile broadband services; after fighting started in April 2023, much of the telecommunications infrastructure was damaged (2023)<br>
-_domestic_: teledensity fixed-line is 1 per 100 and mobile-cellular is 74 telephones per 100 persons (2022)<br>
-_international_: country code - 249; landing points for the EASSy, FALCON&nbsp;and SAS-1,-2, fiber-optic submarine cable systems linking Africa, the Middle East, Indian Ocean Islands and Asia; satellite earth stations - 1 Intelsat (Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
 state-owned broadcasters that self-censor but are somewhat independent (2022)<br>
 
@@ -640,7 +635,7 @@ Sudanese Armed Forces (SAF): Ground Force (Sudanese Army), Sudanese Navy, Sudane
 <strong>note:</strong> many defense expenditures are probably off-budget<br>
 
 **Military and security service personnel strengths**<br>
-prior to the outbreak of fighting between the SAF and the RSF in 2023, size estimates for Sudan's armed forces varied widely: up to 200,000 SAF personnel; up to 100,000 RSF fighters; up to 80,000 Central Reserve Police (2023)<br>
+prior to the outbreak of fighting between the SAF and the RSF in 2023, size estimates for Sudan's armed forces varied widely: up to 200,000 SAF; up to 100,000 RSF; up to 80,000 Central Reserve Police (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SAF's inventory includes a mix of mostly Chinese, Russian, Soviet-era, and domestically produced weapons systems; Sudan has one of the largest defense industries in Africa, which includes state-owned companies with military involvement; it has mostly manufactured weapons systems under license from China, Russia, Turkey, and Ukraine (2024)<br>

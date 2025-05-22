@@ -66,7 +66,7 @@ _fresh water lake(s)_: Lake Malawi (shared with Mozambique and Tanzania) - 22,49
 _salt water lake(s)_: Lake Chilwa - 1,040 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Zambezi (shared with Zambia [s], Angola, Zimbabwe, Namibia, Tanzania, and Mozambique [m]) - 2,740 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Zambezi (shared with Zambia [s], Angola, Zimbabwe, Namibia, Tanzania, and Mozambique [m]) - 2,740 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
@@ -277,7 +277,7 @@ _fresh water lake(s)_: Lake Malawi (shared with Mozambique and Tanzania) - 22,49
 _salt water lake(s)_: Lake Chilwa - 1,040 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Zambezi (shared with Zambia [s], Angola, Zimbabwe, Namibia, Tanzania, and Mozambique [m]) - 2,740 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Zambezi (shared with Zambia [s], Angola, Zimbabwe, Namibia, Tanzania, and Mozambique [m]) - 2,740 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
@@ -341,8 +341,9 @@ _residency requirement for naturalization_: 7 years<br>
 _chief of state_: President Lazarus CHAKWERA (since 28 June 2020)<br>
 _head of government_: President Lazarus CHAKWERA (since 28 June 2020)<br>
 _cabinet_: Cabinet named by the president<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (eligible for a second term); election last held on 23 June 2020 (next to be held in June 2025) note - the president is both chief of state and head of government<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (eligible for a second term); election last held on 23 June 2020 (next to be held in June 2025)&nbsp;<br>
 _election results_: <br><em>2020: </em>Lazarus CHAKWERA elected president; Lazarus CHAKWERA (MCP) 59.3%, Peter Mutharika (DPP) 39.9%, other 0.8% <p><em>2014:</em> Peter MUTHARIKA elected president; percent of vote - Peter MUTHARIKA (DPP) 36.4%, Lazarus CHAKWERA (MCP) 27.8%, Joyce BANDA (PP) 20.2%, Atupele MULUZI (UDF) 13.7%, other 1.9% </p><br>
+<strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly<br>
@@ -599,11 +600,6 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 _total subscriptions_: 12.9 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 60 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: with few resources, Malawi is one of the world&rsquo;s least developed countries; there has been little investment in fixed-line telecom infrastructure, and as a result, the country&rsquo;s two mobile networks Airtel Malawi and TMN provide the vast majority of connections for voice and data services; both operators have invested in LTE technologies to improve the quality of data services; the lack of market competition, together with limited international internet bandwidth, has also resulted in some of the highest prices for telecom services in the region; the government in late 2020 secured an average 80% reduction in the cost of data bundles offered by the MNOs; following continuing customer complaints, the regulator in mid-2021 ensured that costs were again reduced, this time by about a third; mobile penetration remains low in comparison to the regional average and so there are considerable opportunities for further growth, particularly in the mobile broadband sector, though there is the possibility that a new play come launch services by the end of 2022; the internet sector is reasonably competitive, with about 50 licensed ISPs, though the limited availability and high cost of international bandwidth has held back growth and kept broadband access prices among the highest in the region; these limitations are being addressed, with the second phase of the national fiber backbone having started in mid-2021 (2022)<br>
-_domestic_: limited fixed-line subscribership less than 1 per 100 households; mobile-cellular subscribership roughly 60 per 100 households (2021)<br>
-_international_: country code - 265; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
 radio is the main broadcast medium; privately owned Zodiak radio has the widest national reach, followed by state-run radio; numerous private and community radio stations broadcast in cities and towns; the largest TV network is state-owned, but at least 4 private TV networks broadcast in urban areas; relays of multiple international broadcasters are available (2019)<br>
 
@@ -643,7 +639,7 @@ Malawi Defense Force (MDF): Malawi Army (Land Forces), Malawi Maritime Force (MM
 1.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 10,000 active military personnel (2025)<br>
+estimated 10,000 active Malawi Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the MDF's inventory is a mix of mostly older or secondhand equipment originating from such countries as France, South Africa, and the UK&nbsp; (2024)<br>

@@ -428,11 +428,6 @@ _subscriptions per 100 inhabitants_: 41 (2021 est.)<br>
 _total subscriptions_: 17,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 100 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: demand for mobile broadband is increasing due to mobile services being the primary and most wide-spread source for Internet access across the region; Telecom Cook Islands offers international direct dialing, Internet, email, and fax; individual islands are connected by a combination of satellite earth stations, microwave systems, and VHF and HF radiotelephone (2020)<br>
-_domestic_: service is provided by small exchanges connected to subscribers by open-wire, cable, and fiber-optic cable; nearly 41 per 100 fixed-line and about 100 per 100 mobile-cellular (2021)<br>
-_international_: country code - 682; the Manatua submarine cable to surrounding islands of Niue,&nbsp;Samoa,&nbsp;French Polynesia and other Cook Islands, the&nbsp;topography of the South Pacific region has made Internet connectivity a serious&nbsp;issue for many of the remote islands; submarine fiber-optic networks are expensive to build and maintain;&nbsp;satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
-
 **Broadcast media**<br>
 1 privately owned TV station in Rarotonga provides a mix of local news and overseas-sourced programs (2019)<br>
 

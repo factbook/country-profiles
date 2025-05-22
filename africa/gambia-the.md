@@ -65,7 +65,7 @@ _other_: 14.5% (2022 est.)<br>
 50 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Gambia river mouth (shared with Senegal and Guinea [s]) - 1,094 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Gambia river mouth (shared with Senegal and Guinea [s]) - 1,094 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major aquifers**<br>
 Senegalo-Mauritanian Basin<br>
@@ -264,7 +264,7 @@ _methane emissions_: 1.96 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 193,441 tons (2002 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Gambia river mouth (shared with Senegal and Guinea [s]) - 1,094 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Gambia river mouth (shared with Senegal and Guinea [s]) - 1,094 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major aquifers**<br>
 Senegalo-Mauritanian Basin<br>
@@ -576,13 +576,8 @@ _subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 _total subscriptions_: 2.68 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 101 (2021 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: Gambia&rsquo;s telecom market has five mobile networks providing effective competition; mobile subscriptions are well above the African average, itself a testament to the poor condition of the fixed-line infrastructure and the lack of availability of fixed services in many rural areas of the country; there are only four licensed ISPs, which are small networks serving local areas, and so competition is minimal; their limited services are complemented by the fixed-wireless offerings of three of the MNOs; the government has embarked on a National Broadband Network program aimed at closing the digital divide affecting many parts of the country; despite efforts to improve internet connectivity, the country ranks among the lowest globally in terms of digital readiness. (2022)<br>
-_domestic_: fixed-line subscriptions are 2 per 100 and&nbsp; mobile-cellular teledensity nearly 110 per 100 persons (2021)<br>
-_international_: country code - 220; landing point for the ACE submarine cable to West Africa and Europe; microwave radio relay links to Senegal and Guinea-Bissau;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-
 **Broadcast media**<br>
-<p>1 state-run TV-channel; one privately owned TV station; 1 online TV station; 3 state-owned and 31 privately owned radio stations; 8 community radio stations; transmissions of multiple international broadcasters are available; cable and satellite TV subscription services in some parts of the country </p> (2019)<br>
+1 state-run TV-channel; one privately owned TV station; 1 online TV station; 3 state-owned and 31 privately owned radio stations; 8 community radio stations; transmissions of multiple international broadcasters are available; cable and satellite TV subscription services in some parts of the country (2019)<br>
 
 **Internet country code**<br>
 .gm<br>
@@ -629,7 +624,7 @@ Gambian Armed Forces (GAF; aka Armed Forces of the Gambia): the Gambian National
 0.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 3,000-4,000 active military personnel (2024)<br>
+estimated 3,000-4,000 active Gambian Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military of Gambia has a limited inventory of mostly older, obsolescent, or donated equipment originating from several suppliers, including Taiwan, Turkey, the UK, and the US (2024)<br>

@@ -249,7 +249,7 @@ see France<br>
 **Executive branch**<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by Prefect Bruno ANDRE (since September 2023)<br>
 _head of government_: President of Territorial Council Bernard BRIAND (since 13 October 2020)<br>
-_cabinet_: Le Cabinet du Prefet<br>
+_cabinet_: Le Cabinet du Pr&eacute;fet<br>
 _elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 10 April and 24 April 2022 (next to be held in 2027); prefect appointed by French president on the advice of French Ministry of Interior; Territorial Council president elected by Territorial Council councilors by absolute majority vote; term NA; election last held on 13 October 2020 (next to be held NA)<br>
 _election results_: <br><em>2020: </em>Bernard BRIAND elected President of Territorial Council; Territorial Council vote - 17 for, 2 abstentions<br><br><em>2017:</em> Stephane LENORMAND elected President of Territorial Council vote - NA<br>
 
@@ -358,11 +358,6 @@ _from petroleum and other liquids_: 57,000 metric tonnes of CO2 (2023 est.)<br>
 **Telephones - fixed lines**<br>
 _total subscriptions_: 4,800 (2015 est.)<br>
 _subscriptions per 100 inhabitants_: 76 (2015 est.)<br>
-
-**Telecommunication systems**<br>
-_general assessment_: adequate (2019)<br>
-_domestic_: fixed-line teledensity 76 per 100 persons (2019)<br>
-_international_: country code - 508; landing point for the St Pierre and Miquelon Cable connecting Saint Pierre&nbsp;&amp; Miquelon and Canada; radiotelephone communication with most countries in the world; satellite earth station - 1 in French domestic satellite system (2019)<br>
 
 **Broadcast media**<br>
 8 TV stations, all part of the French Overseas Network, and local cable provided by SPM Telecom; 3 of 4 radio stations are part of the French Overseas Network (2021)<br>

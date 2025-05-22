@@ -608,11 +608,6 @@ _subscriptions per 100 inhabitants_: 24 (2023 est.)<br>
 _total subscriptions_: 50.1 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 141 (2022 est.)<br>
 
-**Telecommunication systems**<br>
-_general assessment_: as part of a diverse range of initiatives designed to move the country from developing to developed status by 2025, Malaysia has enabled and encouraged open competition in its telecommunications market; the result is very high penetration levels in both the mobile (147%) and mobile broadband (127%) segments, and near-universal coverage of 4G LTE networks; steady growth is occurring as more fiber optic cable networks are being deployed around the country; consumers are the main beneficiaries of the highly competitive market; they enjoy widespread access to high-speed mobile services as well as attractive offers on bundles to keep data use up but prices low; the downside is that most of Malaysia&rsquo;s MNOs and MVNOs have struggled to increase revenue in line with growth in subscriber numbers as well as demand for broadband data; while the operators have been very successful in moving a significant proportion (now over 30%) of customers from prepaid over to higher-value postpaid accounts, ARPU continues to fall year after year as a result of competitive pricing pressures; the mobile market, in particular, has become overcrowded and the government is keen to see further rationalization and consolidation with the operators; while customers will no doubt continue to enjoy high quality services at competitive rates, the new entity will be hopeful of squeezing better margins through improved economies of scale; in 2022, the government abandoned its single wholesale 5G network model and committed to deploying a dual 5G network; currently, 80 percent of Malaysia&rsquo;s population is covered by 5G (2023)<br>
-_domestic_: fixed-line roughly 25 per 100 and mobile-cellular teledensity roughly 141 per 100 persons (2021)<br>
-_international_: country code - 60; landing points for BBG, FEA, SAFE, SeaMeWe-3 &amp; 4 &amp; 5, AAE-1, JASUKA, BDM, Dumai-Melaka Cable System, BRCS, ACE, AAG, East-West Submarine Cable System, SEAX-1, SKR1M, APCN-2, APG, BtoBe,&nbsp; BaSICS, and Labuan-Brunei Submarine and MCT submarine cables providing connectivity to Asia, the Middle East, Southeast Asia, Australia and Europe; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Pacific Ocean); launch of Kacific-1 satellite in 2019 (2019)<br>
-
 **Broadcast media**<br>
 state-owned TV broadcaster operates 2 TV networks with relays; the leading private commercial media group operates 4 TV stations with numerous relays; satellite TV subscription service is available; state-owned radio broadcaster operates multiple national networks, as well as regional and local stations; many private commercial radio broadcasters and some subscription satellite radio services are available; about 55 radio stations overall (2019)<br>
 
@@ -669,7 +664,7 @@ Malaysian Armed Forces (Angkatan Tentera Malaysia, ATM): Malaysian Army, Royal M
 1.1% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Malaysian Armed Forces have approximately 110,000 active troops (2025)<br>
+approximately 110,000 active Malaysian Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military fields a diverse array of mostly older but growing mix of modern weapons and equipment; its inventory originates from a wide variety of suppliers across Europe, Asia, and the US; Malaysia has a domestic defense industry that has some co-production agreements with countries such as France, Germany, and Turkey in such areas armored vehicles and naval vessels (2024)<br>
