@@ -206,9 +206,6 @@ _total_: 17.5% (2020 est.)<br>
 _male_: 17.8% (2020 est.)<br>
 _female_: 17.1% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 59.6% (2023 est.)<br>
 
@@ -611,7 +608,7 @@ strong public-sector TV presence, with Danmarks Radio (DR) operating 6 channels 
 .dk<br>
 
 **Internet users**<br>
-_percent of population_: 99% (2023 est.)<br>
+_percent of population_: 100% (2024 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2.65 million (2023 est.)<br>

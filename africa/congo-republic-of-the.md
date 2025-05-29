@@ -210,9 +210,6 @@ _total_: 14.5% (2020 est.)<br>
 _male_: 26.8% (2020 est.)<br>
 _female_: 2.1% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-12.3% (2014/15)<br>
-
 **Currently married women (ages 15-49)**<br>
 51.8% (2023 est.)<br>
 
@@ -394,8 +391,8 @@ _telephone_: [242] 06 612-2000, [242] 05 387-9700<br>
 _email address and website_: <br>BrazzavilleACS@state.gov<br><br>https://cg.usembassy.gov/<br>
 
 **Flag description**<br>
-divided diagonally from the lower hoist side by a yellow band; the upper triangle (hoist side) is green and the lower triangle is red; green symbolizes agriculture and forests, yellow the friendship and nobility of the people, red is unexplained but has been associated with the struggle for independence<br>
-<strong>note:</strong> uses the popular Pan-African colors of Ethiopia<br>
+divided diagonally from the lower hoist side by a yellow band; the upper triangle (hoist side) is green and the lower triangle is red; green symbolizes agriculture and forests, and yellow the friendship and nobility of the people; the meaning of the red color is not noted but has been associated with the struggle for independence<br>
+<strong>note:</strong> uses the popular pan-African colors of Ethiopia<br>
 
 **National symbol(s)**<br>
 lion, elephant; national colors: green, yellow, red<br>
@@ -618,7 +615,7 @@ _subscriptions per 100 inhabitants_: 97 (2021 est.)<br>
 .cg<br>
 
 **Internet users**<br>
-_percent of population_: 36% (2022 est.)<br>
+_percent of population_: 38% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 78,000 (2023 est.)<br>

@@ -219,7 +219,6 @@ _female_: 0.8% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 2.8% (2019/20)<br>
-<strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Currently married women (ages 15-49)**<br>
 58.8% (2023 est.)<br>
@@ -640,7 +639,7 @@ _subscriptions per 100 inhabitants_: 137 (2021 est.)<br>
 .ma<br>
 
 **Internet users**<br>
-_percent of population_: 90% (2022 est.)<br>
+_percent of population_: 91% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2.42 million (2022 est.)<br>

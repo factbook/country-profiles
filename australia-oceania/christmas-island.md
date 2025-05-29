@@ -188,7 +188,7 @@ none (territory of Australia)<br>
 _embassy_: none (territory of Australia)<br>
 
 **Flag description**<br>
-territorial flag; divided diagonally from upper hoist to lower fly; the upper triangle is green with a yellow image of the Golden Bosun Bird superimposed; the lower triangle is blue with the Southern Cross constellation, representing Australia, superimposed; a centered yellow disk displays a green map of the island<br>
+territorial flag; divided diagonally from upper hoist side to lower fly side; the upper triangle is green with a yellow image of the Golden Bosun Bird; the lower triangle is blue with the Southern Cross constellation, representing Australia; a centered yellow disk displays a green map of the island<br>
 <strong>note:</strong> the flag of Australia is used for official purposes<br>
 
 **National symbol(s)**<br>
@@ -238,7 +238,7 @@ _Currency_: Australian dollars (AUD) per US dollar -<br>
 .cx<br>
 
 **Internet users**<br>
-_percent of population_: 78.6% (2021 est.)<br>
+_percent of population_: 78.6% (2016 est.)<br>
 
 ## Transportation
 

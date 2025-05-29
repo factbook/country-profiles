@@ -204,9 +204,6 @@ _total_: 33.5% (2020 est.)<br>
 _male_: 36.5% (2020 est.)<br>
 _female_: 30.5% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 54.1% (2023 est.)<br>
 
@@ -319,11 +316,11 @@ _residency requirement for naturalization_: 10 years<br>
 17 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: President Konstantinos TASOULAS (since 13 March 2020)<br>
+_chief of state_: President Konstantinos TASOULAS (since 13 March 2025)<br>
 _head of government_: Prime Minister Kyriakos MITSOTAKIS (since 26 June 2023)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
-_elections/appointments_: president elected by Hellenic Parliament for a 5-year term (eligible for a second term); election last held on&nbsp;22 January 2020&nbsp;(next to be held by February 2025); president appoints as prime minister the leader of the majority party or coalition in the Hellenic Parliament<br>
-_election results_: <em><br>2020:</em> Katerina SAKELLAROPOULOU (independent) elected president by Parliament - 261 of 300 votes; note - SAKELLAROPOULOU is Greece's first woman president<br><em><br>2015:</em> Prokopis PAVLOPOULOS (ND) elected president by Parliament - 233 of 300 votes<br>
+_elections/appointments_: president elected by Hellenic Parliament for a 5-year term (eligible for a second term); election last held on 12 February 2025 (next to be held in 2030); president appoints as prime minister the leader of the majority party or coalition in the Hellenic Parliament<br>
+_election results_: <em>2025: </em>Konstantinos TASOULAS (ND) elected president by Parliament - 160 of 300 votes<em><br><br>2020:</em> Katerina SAKELLAROPOULOU (independent) elected president by Parliament - 261 of 300 votes<em><br></em><br>
 
 **Legislative branch**<br>
 _legislature name_: Hellenic Parliament (Vouli Ton Ellinon)<br>

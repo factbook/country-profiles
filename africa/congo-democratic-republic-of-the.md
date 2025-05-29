@@ -349,7 +349,7 @@ _chief of state_: President Felix TSHISEKEDI (since 20 January 2024)<br>
 _head of government_: Prime Minister Judith SUMINWA Tuluka (since 29 May 2024)<br>
 _cabinet_: Ministers of State appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority vote for a 5-year term (eligible for a second term); election last held on 20 December 2023 (next to be held on 20 December 2028); prime minister appointed by the president<br>
-_election results_: <em><br>2023: </em>Felix TSHISEKEDI reelected president; percent of vote - Felix TSHISEKEDI (UDPS) 73.3%, Moise KATUMBI (Ensemble) 18.8%, Martin FAYULU (ECIDE) 5.3%, other 2.6%<br><em><br>2018:</em> Felix TSHISEKEDI elected president; percent of vote - Felix TSHISEKEDI (UDPS) 38.6%, Martin FAYULU (Lamuka coalition) 34.8%, Emmanuel Ramazani SHADARY (PPRD) 23.9%, other 2.7%; note - election marred by serious voting irregularities<br>
+_election results_: <em><br>2023: </em>Felix TSHISEKEDI reelected president; percent of vote - Felix TSHISEKEDI (UDPS) 73.3%, Moise KATUMBI (Ensemble) 18.8%, Martin FAYULU (ECIDE) 5.3%, other 2.6%<br><em><br>2018:</em> Felix TSHISEKEDI elected president; percent of vote - Felix TSHISEKEDI (UDPS) 38.6%, Martin FAYULU (Lamuka coalition) 34.8%, Emmanuel Ramazani SHADARY (PPRD) 23.9%, other 2.7%<br>
 
 **Legislative branch**<br>
 _legislature name_: Parlement (Parliament)<br>
@@ -403,7 +403,7 @@ _FAX_: [243] 81 556-0175<br>
 _email address and website_: <br>ACSKinshasa@state.gov<br><br>https://cd.usembassy.gov/<br>
 
 **Flag description**<br>
-sky blue field divided diagonally from the lower hoist corner to upper fly corner by a red stripe bordered by two narrow yellow stripes; a yellow, five-pointed star appears in the upper hoist corner; blue represents peace and hope, red the blood of the country's martyrs, and yellow the country's wealth and prosperity; the star symbolizes unity and the brilliant future for the country<br>
+sky-blue field divided diagonally from the lower hoist corner to upper fly corner by a red stripe bordered by two narrow yellow stripes; a yellow five-pointed star appears in the upper hoist corner; blue stands for peace and hope, red for the blood of the country's martyrs, and yellow for the country's wealth and prosperity; the star symbolizes unity and the brilliant future for the country<br>
 
 **National symbol(s)**<br>
 leopard; national colors: sky blue, red, yellow<br>
@@ -636,7 +636,7 @@ state-owned TV station with near-national coverage; more than a dozen privately 
 .cd<br>
 
 **Internet users**<br>
-_percent of population_: 27% (2022 est.)<br>
+_percent of population_: 31% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 33,000 (2022 est.)<br>

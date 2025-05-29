@@ -302,7 +302,7 @@ _chief of state_: President Nikenike VUROBARAVU (since 23 July 2022)<br>
 _head of government_: Prime Minister Jotham NAPAT (since 11 February 2025)<br>
 _cabinet_: Council of Ministers appointed by the prime minister, responsible to Parliament<br>
 _elections/appointments_: president indirectly elected by an electoral college consisting of Parliament and presidents of the 6 provinces; Vanuatu president serves a 5-year term; election last held on 23 July 2022 (next to be held in 2027); following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by Parliament from among its members; election for prime minister last held on 11 February 2025<br>
-_election results_: <em>2022:</em> Nikenike VUROBARAVU elected president in eighth round; electoral college vote - Nikenike VUROBARAVU (VP) 48 votes, Solas MOLISA (VP) 4 votes; note - Jotham NAPAT (LVP) elected prime minister on 11 February 2025, 50 votes for, 0 against<br>
+_election results_: <em><br>2025: </em>Jotham NAPAT (LVP) elected prime minister; 50-0 votes<em><br><br>2022:</em> Nikenike VUROBARAVU elected president in eighth round; electoral college vote - Nikenike VUROBARAVU (VP) 48 votes, Solas MOLISA (VP) 4 votes<br>
 <strong>note:</strong> the National Council of Chiefs (Malvatu Mauri) is a formal advisory body of chiefs recognized by the country's constitution; it advises the government on matters of culture and language<br>
 
 **Legislative branch**<br>
@@ -342,7 +342,7 @@ _embassy_: Port Vila<br>
 
 **Flag description**<br>
 two equal horizontal bands of red (top) and green with a black isosceles triangle (based on the hoist side) all separated by a black-edged yellow stripe in the shape of a horizontal Y (the two points of the Y face the hoist side and enclose the triangle); centered in the triangle is a boar's tusk encircling two crossed namele fern fronds, all in yellow; red represents the blood of boars and men, as well as unity, green the richness of the islands, and black the ni-Vanuatu people; the yellow Y-shape - which reflects the pattern of the islands in the Pacific Ocean - symbolizes the light of the Gospel spreading through the islands; the boar's tusk is a symbol of prosperity frequently worn as a pendant on the islands; the fern fronds represent peace<br>
-<strong>note:</strong> one of several flags where a prominent component of the design reflects the shape of the country; other such flags are those of Bosnia and Herzegovina, Brazil, and Eritrea<br>
+<strong>note:</strong> one of four national flags that reflect the shape of the country in the flag design; the others are Bosnia and Herzegovina, Brazil, and Eritrea<br>
 
 **National symbol(s)**<br>
 boar's tusk with crossed fern fronds; national colors: red, black, green, yellow<br>
@@ -560,7 +560,7 @@ _subscriptions per 100 inhabitants_: 78 (2022 est.)<br>
 .vu<br>
 
 **Internet users**<br>
-_percent of population_: 70% (2022 est.)<br>
+_percent of population_: 46% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 4,000 (2022 est.)<br>

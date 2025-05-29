@@ -209,9 +209,6 @@ _total_: 36.9% (2020 est.)<br>
 _male_: 37.6% (2020 est.)<br>
 _female_: 36.1% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 50.8% (2023 est.)<br>
 
@@ -334,7 +331,7 @@ _chief of state_: President Zoran MILANOVIC (since 18 February 2020)<br>
 _head of government_: Prime Minister Andrej PLENKOVIC (since 19 October 2016)<br>
 _cabinet_: Council of Ministers named by the prime minister and approved by the Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held in December 2024 (first round) and January 2025 (second round); the leader of the majority party or majority coalition is usually appointed prime minister by the president and approved by the Assembly<br>
-_election results_: <br><em>2019: </em>Zoran MILANOVIC elected president in second round; percent of vote in second round - Zoran MILANOVIC (SDP) 74.6%, Dragan PRIMORAC (independent) 25.3%<em><br><br>2019: </em>Zoran MILANOVIC elected president in second round; percent of vote in second round - Zoran MILANOVIC (SDP) 52.7%, Kolinda GRABAR-KITAROVIC (HDZ) 47.3%<br><br>
+_election results_: <br><em>2025: </em>Zoran MILANOVIC elected president in second round; percent of vote in second round - Zoran MILANOVIC (SDP) 74.6%, Dragan PRIMORAC (independent) 25.3%<em><br><br>2019: </em>Zoran MILANOVIC elected president in second round; percent of vote in second round - Zoran MILANOVIC (SDP) 52.7%, Kolinda GRABAR-KITAROVIC (HDZ) 47.3%<br>
 
 **Legislative branch**<br>
 _legislature name_: Croatian Parliament (Hrvatski Sabor)<br>
@@ -379,8 +376,8 @@ _FAX_: [385] (1) 665-8933<br>
 _email address and website_: <br>ZagrebACS@state.gov<br><br>https://hr.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of red (top), white, and blue - the Pan-Slav colors - superimposed by the Croatian coat of arms; the coat of arms consists of one main shield (a checkerboard of 13 red and 12 silver (white) fields) surmounted by five smaller shields that form a crown over the main shield; the five small shields represent five historic regions (from left to right): Croatia, Dubrovnik, Dalmatia, Istria, and Slavonia<br>
-<strong>note:</strong> the Pan-Slav colors were inspired by the 19th-century flag of Russia<br>
+three equal horizontal bands of red (top), white, and blue -- the pan-Slav colors -- with the Croatian coat of arms in the center; the coat of arms consists of a main shield (a checkerboard of 13 red and 12 silver fields) with five smaller shields that form a crown over the main shield; the small shields represent the five historic regions (from left to right): Croatia, Dubrovnik, Dalmatia, Istria, and Slavonia<br>
+<strong>note:</strong> Russia's 19th-century flag inspired the pan-Slav colors<br>
 
 **National symbol(s)**<br>
 red-white checkerboard; national colors: red, white, blue<br>

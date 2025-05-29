@@ -310,7 +310,7 @@ _chief of state_: President Taneti MAAMAU (since 11 March 2016)<br>
 _head of government_: President Taneti MAAMAU (since 11 March 2016)<br>
 _cabinet_: Cabinet appointed by the president from among House of Assembly members<br>
 _elections/appointments_: president directly elected by simple majority popular vote following nomination of candidates from among House of Assembly members for a 4-year term (eligible for 2 additional terms); election last held on 22 June 2020 (next to be held in 2024); vice president appointed by the president<br>
-_election results_: <em>2020:</em> Taneti MAAMAU reelected president; percent of vote - Taneti MAAMAU (TKB) 59.3%, Banuera BERINA (BKM) 40.7%<br>
+_election results_: <em><br>2020:</em> Taneti MAAMAU reelected president; percent of vote - Taneti MAAMAU (TKB) 59.3%, Banuera BERINA (BKM) 40.7%<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -541,7 +541,7 @@ multi-channel TV packages provide access to Australian and US stations; 1 govern
 .ki<br>
 
 **Internet users**<br>
-_percent of population_: 54% (2022 est.)<br>
+_percent of population_: 88% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 0 (2023 est.)<br>

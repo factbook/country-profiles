@@ -340,7 +340,7 @@ _chief of state_: President Emmerson Dambudzo MNANGAGWA (since 4 September 2023)
 _head of government_: Vice President Constantino CHIWENGA (since 11 September 2023)<br>
 _cabinet_: Cabinet appointed by president, responsible to National Assembly<br>
 _elections/appointments_: each presidential candidate nominated with a nomination paper signed by at least 10 registered voters (at least 1 candidate from each province) and directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 23 August 2023 (next to be held in 2028); co-vice presidents drawn from party leadership<br>
-_election results_: <em>2023: </em>Emmerson MNANGAGWA reelected president in first round; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 52.6%, Nelson CHAMISA (MDC-T) 44%, Wilbert MUBAIWA (NPC) 1.2%, other 2.2%<br><em><br>2018:</em> Emmerson MNANGAGWA elected president in first round; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 50.7%, Nelson CHAMISA (MDC-T) 44.4%, Thokozani KHUPE (MDC-N) 0.9%, other 4%<br>
+_election results_: <em><br>2023: </em>Emmerson MNANGAGWA reelected president in first round; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 52.6%, Nelson CHAMISA (MDC-T) 44%, Wilbert MUBAIWA (NPC) 1.2%, other 2.2%<br><em><br>2018:</em> Emmerson MNANGAGWA elected president in first round; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 50.7%, Nelson CHAMISA (MDC-T) 44.4%, Thokozani KHUPE (MDC-N) 0.9%, other 4%<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -625,7 +625,7 @@ government owns all local radio and TV stations; foreign shortwave broadcasts an
 .zw<br>
 
 **Internet users**<br>
-_percent of population_: 33% (2022 est.)<br>
+_percent of population_: 38% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 269,000 (2023 est.)<br>

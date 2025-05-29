@@ -201,9 +201,6 @@ _total_: 20.8% (2020 est.)<br>
 _male_: 22.5% (2020 est.)<br>
 _female_: 19% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 52.1% (2023 est.)<br>
 
@@ -318,7 +315,7 @@ _chief of state_: President Michael D. HIGGINS (since 11 November 2011)<br>
 _head of government_: Taoiseach (Prime Minister) Michael MARTIN (since 23 January 2025)<br>
 _cabinet_: Cabinet nominated by the prime minister, appointed by the president, approved by the Dali Eireann (lower house of Parliament)<br>
 _elections/appointments_: president directly elected by majority popular vote for a 7-year term (eligible for a second term); election last held on 26 October 2018 (next to be held no later than November 2025); taoiseach (prime minister) nominated by the House of Representatives (Dail Eireann), appointed by the president<br>
-_election results_: <em>2025: </em>Michael MARTIN is elected taoiseach by parliament, 95 votes to 76, and is appointed taoiseach by the president<br><em><br>2024: </em>Simon HARRIS is elected taoiseach by parliament, 88 votes to 69, and is appointed taoiseach by the president<em><br><br>2018:</em> Michael D. HIGGINS reelected president in first round; percent of vote in first round - Michael D. HIGGINS (independent) 55.8%, Peter CASEY (independent) 23.3%, Sean GALLAGHER (independent) 6.4%, Liadh NI RIADA (Sinn Fein) 6.4%, Joan FREEMAN (independent) 6%, Gavin DUFFY (independent) 2.2%<br>
+_election results_: <em><br>2025: </em>Michael MARTIN is elected taoiseach by parliament, 95 votes to 76, and is appointed taoiseach by the president<br><em><br>2024: </em>Simon HARRIS is elected taoiseach by parliament, 88 votes to 69, and is appointed taoiseach by the president<em><br><br>2018:</em> Michael D. HIGGINS reelected president in first round; percent of vote in first round - Michael D. HIGGINS (independent) 55.8%, Peter CASEY (independent) 23.3%, Sean GALLAGHER (independent) 6.4%, Liadh NI RIADA (Sinn Fein) 6.4%, Joan FREEMAN (independent) 6%, Gavin DUFFY (independent) 2.2%<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Oireachtas)<br>
@@ -613,7 +610,7 @@ publicly owned broadcaster Radio Telefis Eireann (RTE) operates 4 TV stations; c
 .ie<br>
 
 **Internet users**<br>
-_percent of population_: 96% (2022 est.)<br>
+_percent of population_: 97% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1.65 million (2023 est.)<br>
@@ -654,9 +651,9 @@ Irish Defense Forces (Oglaigh na h-Eireannn): Army, Air Corps, Naval Service, Re
 
 **Military expenditures**<br>
 0.2% of GDP (2023 est.)<br>
-0.3% of GDP (2022)<br>
-0.3% of GDP (2021)<br>
-0.3% of GDP (2020)<br>
+0.3% of GDP (2022 est.)<br>
+0.3% of GDP (2021 est.)<br>
+0.3% of GDP (2020 est.)<br>
 0.3% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>

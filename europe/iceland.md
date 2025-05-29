@@ -202,9 +202,6 @@ _total_: 12% (2020 est.)<br>
 _male_: 11.9% (2020 est.)<br>
 _female_: 12% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 45.1% (2023 est.)<br>
 
@@ -318,7 +315,7 @@ _chief of state_: President Halla TOMASDOTTIR (since 1 August 2024)<br>
 _head of government_: Prime Minister Kristrun FROSTADOTTIR (since 21 December 2024)<br>
 _cabinet_: Cabinet appointed by the president upon the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 4-year term (no term limits); election last held on 1 June 2024 (next to be held in June 2028); following legislative elections, the leader of the majority party or majority coalition becomes prime minister<br>
-_election results_: <em><br>2024:</em> percent of vote - Halla TOMASDOTTIR (independent) 34.1%, Katrin JAKOBSDOTTIR (Left-Green Movement) 25.2%, Halla Hrund LOGADOTTIR (independent) 15.7%, Jon GNARR (Social Democratic Alliance) 10.1%, Baldur PORHALLSSON (independent) 8.4%, other 6.5%<em><br><br>2020: </em>Gudni Thorlacius JOHANNESSON reelected president; percent of vote - Gudni Thorlacius JOHANNESSON (independent) 92.2%, Gudmundur Franklin JONSSON (independent) 7.8%<br><br><em>2016: </em>Gudni Thorlacius JOHANNESSON elected president; Gudni Thorlacius JOHANNESSON (independent) 39.1%, Halla TOMASDOTTIR (independent) 27.9%, Andri Snær MAGNASON (Democracy Movement) 14.3%, David ODDSSON (independent) 13.7%, other 5%<br>
+_election results_: <em><br>2024:</em> Halla TOMASDOTTIR elected president; percent of vote - Halla TOMASDOTTIR (independent) 34.1%, Katrin JAKOBSDOTTIR (Left-Green Movement) 25.2%, Halla Hrund LOGADOTTIR (independent) 15.7%, Jon GNARR (Social Democratic Alliance) 10.1%, Baldur PORHALLSSON (independent) 8.4%, other 6.5%<em><br><br>2020: </em>Gudni Thorlacius JOHANNESSON reelected president; percent of vote - Gudni Thorlacius JOHANNESSON (independent) 92.2%, Gudmundur Franklin JONSSON (independent) 7.8%<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Althingi)<br>
@@ -578,7 +575,7 @@ state-owned public TV broadcaster (RUV) operates 21 TV channels nationally; ever
 .is<br>
 
 **Internet users**<br>
-_percent of population_: 100% (2022 est.)<br>
+_percent of population_: 100% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 145,000 (2023 est.)<br>

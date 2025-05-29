@@ -187,9 +187,6 @@ _wine_: 3.95 liters of pure alcohol (2019 est.)<br>
 _spirits_: 4.55 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.41 liters of pure alcohol (2019 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 31.5% (2023 est.)<br>
 
@@ -344,7 +341,7 @@ _consulate(s) general_: Miami, New York<br>
 _embassy_: the US does not have an embassy in Antigua and Barbuda; the US Ambassador to Barbados is accredited to Antigua and Barbuda<br>
 
 **Flag description**<br>
-red, with an inverted isosceles triangle based on the top edge of the flag; the triangle contains three horizontal bands of black (top), light blue, and white, with a yellow rising sun in the black band; the sun symbolizes the dawn of a new era, black represents the African heritage of most of the population, blue is for hope, and red is for the dynamism of the people; the "V" stands for victory; the successive yellow, blue, and white coloring is also meant to evoke the country's tourist attractions of sun, sea, and sand<br>
+red, with an inverted isosceles triangle on the top edge of the flag; the triangle contains three horizontal bands of black (top), light blue, and white, with a yellow rising sun in the black band; the sun symbolizes the dawn of a new era, black represents the African heritage of most of the population, blue is for hope, and red is for the dynamism of the people; the "V" stands for victory; the successive yellow, blue, and white coloring is also meant to evoke the country's tourist attractions of sun, sea, and sand<br>
 
 **National symbol(s)**<br>
 fallow deer; national colors: red, white, blue, black, yellow<br>
@@ -526,7 +523,7 @@ state-controlled Antigua and Barbuda Broadcasting Service (ABS) operates 1 TV st
 .ag<br>
 
 **Internet users**<br>
-_percent of population_: 91% (2022 est.)<br>
+_percent of population_: 78% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 10,000 (2022 est.)<br>

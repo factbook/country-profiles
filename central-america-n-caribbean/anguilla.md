@@ -170,9 +170,6 @@ _improved: total_: total: 99.1% of population<br>
 _unimproved: urban_: urban: 0.9% of population<br>
 _unimproved: total_: total: 0.9% of population (2017 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 46.1% (2023 est.)<br>
 
@@ -279,7 +276,7 @@ none (overseas territory of the UK)<br>
 _embassy_: none (overseas territory of the UK); alternate contact is the US Embassy in Barbados [1] (246) 227-4000<br>
 
 **Flag description**<br>
-blue, with the flag of the UK in the upper hoist-side quadrant and the Anguillan coat of arms centered in the outer half of the flag; the coat of arms depicts three orange dolphins in an interlocking circular design on a white background with a turquoise-blue field below; the white in the background represents peace; the blue base symbolizes the surrounding sea, as well as faith, youth, and hope; the three dolphins stand for endurance, unity, and strength<br>
+blue, with the flag of the UK in the upper hoist-side quadrant and the Anguillan coat of arms centered in the outer half of the flag; the coat of arms depicts three orange dolphins in an interlocking circular design on a white background with a turquoise-blue field below; the white in the background represents peace, the blue base symbolizes the sea, faith, youth, and hope, and the three dolphins stand for endurance, unity, and strength<br>
 
 **National symbol(s)**<br>
 dolphin<br>

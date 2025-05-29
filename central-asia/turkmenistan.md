@@ -336,7 +336,7 @@ _chief of state_: President Serdar BERDIMUHAMEDOV (since 19 March 2022)<br>
 _head of government_: President Serdar BERDIMUHAMEDOV (since 19 March 2022)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds, if needed, for a 7-year term (no term limits); election last held on 12 March 2022 (next to be held in 2029)<br>
-_election results_: <em>2022:</em> Serdar BERDIMUHAMEDOV elected president; percent of vote - Serdar BERDIMUHAMEDOV (DPT) 73%, Khydyr NUNNAYEV (independent) 11.1%, Agadzhan BEKMYRADOV (IAP) 7.2%, other 8.7%<br><br><em>2017:</em> Gurbanguly BERDIMUHAMEDOV reelected president in the first round; percent of vote - Gurbanguly BERDIMUHAMEDOV (DPT) 97.7%, other 2.3%<br>
+_election results_: <em><br>2022:</em> Serdar BERDIMUHAMEDOV elected president; percent of vote - Serdar BERDIMUHAMEDOV (DPT) 73%, Khydyr NUNNAYEV (independent) 11.1%, Agadzhan BEKMYRADOV (IAP) 7.2%, other 8.7%<br><br><em>2017:</em> Gurbanguly BERDIMUHAMEDOV reelected president in the first round; percent of vote - Gurbanguly BERDIMUHAMEDOV (DPT) 97.7%, other 2.3%<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>

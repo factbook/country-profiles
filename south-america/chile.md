@@ -206,9 +206,6 @@ _total_: 29.2% (2020 est.)<br>
 _male_: 31.6% (2020 est.)<br>
 _female_: 26.8% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-0.5% (2014)<br>
-
 **Currently married women (ages 15-49)**<br>
 46.3% (2023 est.)<br>
 
@@ -386,7 +383,7 @@ _FAX_: [56] (2) 2330-3710<br>
 _email address and website_: <br>SantiagoUSA@state.gov<br><br>https://cl.usembassy.gov/<br>
 
 **Flag description**<br>
-two equal horizontal bands of white (top) and red; a blue square the same height as the white band at the hoist-side end of the white band; the square bears a white five-pointed star in the center representing a guide to progress and honor; blue symbolizes the sky, white is for the snow-covered Andes, and red represents the blood spilled to achieve independence<br>
+two equal horizontal bands of white (top) and red; a blue square the same height as the white band at the hoist-side end of the white band; the square bears a white five-pointed star in the center, representing a guide to progress and honor; blue stands for the sky, white for the snow-covered Andes, and red for the blood spilled to achieve independence<br>
 <strong>note:</strong> design influenced by the US flag<br>
 
 **National symbol(s)**<br>
@@ -628,7 +625,7 @@ national and local terrestrial TV channels, coupled with extensive cable TV netw
 .cl<br>
 
 **Internet users**<br>
-_percent of population_: 94% (2023 est.)<br>
+_percent of population_: 95% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 4.52 million (2023 est.)<br>

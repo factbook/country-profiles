@@ -214,7 +214,7 @@ _male_: 29.4% (2020 est.)<br>
 _female_: 19.6% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-1.7% (2018/19)<br>
+2% (2018/19)<br>
 
 **Currently married women (ages 15-49)**<br>
 48.9% (2023 est.)<br>
@@ -401,7 +401,7 @@ _FAX_: [54] (11) 5777-4240<br>
 _email address and website_: <br>Buenosairespublicaffairs@state.gov<br><br>https://ar.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of sky blue (top), white, and sky blue; centered in the white band is a radiant yellow sun with a human face (delineated in brown) known as the Sun of May; the colors represent the clear skies and snow of the Andes; the sun symbol commemorates the appearance of the sun through cloudy skies on 25 May 1810 during the first mass demonstration in favor of independence; the sun features are those of Inti, the Inca god of the sun<br>
+three equal horizontal bands of sky blue (top), white, and sky blue; centered in the white band is a radiant yellow sun with a human face that is known as the Sun of May; the colors represent the clear skies and snow of the Andes; the sun symbol commemorates the appearance of the sun through cloudy skies on 25 May 1810 during the first mass demonstration in favor of independence; the sun features are those of Inti, the Inca god of the sun<br>
 
 **National symbol(s)**<br>
 Sun of May (a sun-with-face symbol); national colors: sky blue, white<br>

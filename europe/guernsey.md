@@ -164,9 +164,6 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 1.2% of population (2017)<br>
 <strong>note:</strong> data represent Guernsey and Jersey<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Education expenditures**<br>
 NA<br>
 

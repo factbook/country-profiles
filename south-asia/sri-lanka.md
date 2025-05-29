@@ -325,7 +325,7 @@ _chief of state_: President Anura Kumara DISSANAYAKE (since 23 September 2024)<b
 _head of government_: Prime Minister Harini AMARASURIYA (since 24 September 2024)<br>
 _cabinet_: Cabinet appointed by the president in consultation with the prime minister<br>
 _elections/appointments_: president directly elected by preferential majority popular vote for a 5-year term (eligible for a second term); election last held on 21 September 2024 (next to be held in 2029); prime minister appointed by the president<br>
-_election results_: <em><br>2024: </em>Anura Kumara DISSANAYAKE elected president; percent of vote after reallocation - Anura Kumara DISSANAYAKE (JVP) 55.9%, Sajith PREMADASA (SJB) 44.1%<br><em><br>2022: </em>Ranil WICKREMESINGHE elected president by Parliament on 20 July 2022; Parliament vote - WICKREMESINGHE (UNP) 134, Dullas ALAHAPPERUMA (SLPP) 82<br><br><br> <h3> </h3><br>
+_election results_: <em><br>2024: </em>Anura Kumara DISSANAYAKE elected president; percent of vote after reallocation - Anura Kumara DISSANAYAKE (JVP) 55.9%, Sajith PREMADASA (SJB) 44.1%<br><em><br>2022: </em>Ranil WICKREMESINGHE elected president by Parliament on 20 July 2022; Parliament vote - WICKREMESINGHE (UNP) 134, Dullas ALAHAPPERUMA (SLPP) 82<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -600,7 +600,7 @@ government operates 5 TV channels and 19 radio channels; multi-channel satellite
 .lk<br>
 
 **Internet users**<br>
-_percent of population_: 50% (2022 est.)<br>
+_percent of population_: 51% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2.01 million (2023 est.)<br>

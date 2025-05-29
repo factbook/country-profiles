@@ -374,7 +374,7 @@ _FAX_: [236] 2161-4494<br>
 _email address and website_: <br>https://cf.usembassy.gov/<br>
 
 **Flag description**<br>
-four equal horizontal bands of blue (top), white, green, and yellow with a vertical red band in center; a yellow five-pointed star to the hoist side of the blue band; banner combines the Pan-African and French flag colors; red symbolizes the blood spilled in the struggle for independence, blue represents the sky and freedom, white peace and dignity, green hope and faith, and yellow tolerance; the star represents aspiration towards a vibrant future<br>
+four equal horizontal bands of blue (top), white, green, and yellow with a vertical red band in the center; a yellow five-pointed star to the hoist side of the blue band; banner combines the pan-African and French flag colors; red stands for the blood spilled in the struggle for independence, blue for the sky and freedom, white for peace and dignity, green for hope and faith, and yellow for tolerance; the star represents aspiration towards a vibrant future<br>
 
 **National symbol(s)**<br>
 elephant; national colors: blue, white, green, yellow, red<br>
@@ -590,7 +590,7 @@ government-owned network, Radiodiffusion T&eacute;l&eacute;vision Centrafricaine
 .cf<br>
 
 **Internet users**<br>
-_percent of population_: 11% (2021 est.)<br>
+_percent of population_: 8% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2022 est.) Data available for 2019 only.<br>

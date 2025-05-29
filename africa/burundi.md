@@ -392,7 +392,7 @@ _FAX_: [257] 22-222-926<br>
 _email address and website_: <br>BujumburaC@state.gov<br><br>https://bi.usembassy.gov/<br>
 
 **Flag description**<br>
-divided by a white diagonal cross into red panels (top and bottom) and green panels (hoist side and fly side) with a white disk superimposed at the center bearing three red six-pointed stars outlined in green arranged in a triangular design (one star above, two stars below); green symbolizes hope and optimism, white purity and peace, and red the blood shed in the struggle for independence; the three stars in the disk represent the three major ethnic groups: Hutu, Twa, Tutsi, as well as the three elements in the national motto: unity, work, progress<br>
+divided by a white diagonal cross into red panels (top and bottom) and green panels (hoist side and fly side) with a white disk at the center bearing three red six-pointed stars outlined in green and arranged in a triangular design; green stands for hope and optimism, white for purity and peace, and red for the blood shed in the struggle for independence; the three stars in the disk represent the major ethnic groups (Hutu, Twa, Tutsi), as well as unity, work, and progress<br>
 
 **National symbol(s)**<br>
 lion; national colors: red, white, green<br>
@@ -607,7 +607,7 @@ state-controlled Radio Television Nationale de Burundi (RTNB) operates a TV stat
 .bi<br>
 
 **Internet users**<br>
-_percent of population_: 11% (2022 est.)<br>
+_percent of population_: 11% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,000 (2023 est.)<br>

@@ -297,7 +297,7 @@ _chief of state_: President Christine KANGALOO (since 20 March 2023)<br>
 _head of government_: Prime Minister Kamla Susheila PERSAD-BISSESSAR (since 1 May 2025)<br>
 _cabinet_: Cabinet appointed from among members of Parliament<br>
 _elections/appointments_: president indirectly elected by an electoral college of selected Senate and House of Representatives members for a 5-year term (eligible for a second term); election last held on 20 January 2023 (next to be held by February 2028); the president usually appoints the leader of the majority party in the House of Representatives as prime minister<br>
-_election results_: <em>2023: </em>Christine KANGALOO elected president by the electoral college on 20 January 2023; electoral college vote  Christine KANGALOO (PNM) 48, Israel KHAN (UNC) 22<br><br><em>2018: </em>Paula-Mae WEEKES (independent) elected president; ran unopposed and was elected without a vote; she was Trinidad and Tabago's first female head of state<br>
+_election results_: <em><br>2023: </em>Christine KANGALOO elected president by the electoral college on 20 January 2023; electoral college vote  Christine KANGALOO (PNM) 48, Israel KHAN (UNC) 22<br><br><em>2018: </em>Paula-Mae WEEKES (independent) elected president; ran unopposed and was elected without a vote; she was Trinidad and Tabago's first female head of state<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -566,7 +566,7 @@ _subscriptions per 100 inhabitants_: 131 (2022 est.)<br>
 .tt<br>
 
 **Internet users**<br>
-_percent of population_: 80% (2022 est.)<br>
+_percent of population_: 85% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 404,000 (2023 est.)<br>

@@ -189,9 +189,6 @@ _total_: 24% (2020 est.)<br>
 _male_: 27.7% (2020 est.)<br>
 _female_: 20.3% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 42.6% (2023 est.)<br>
 
@@ -319,7 +316,7 @@ _embassy_: none (self-governing in free association with New Zealand)<br>
 <strong>note:</strong> on 25 September 2023, the US officially established diplomatic relations with Cook Islands<br>
 
 **Flag description**<br>
-blue with the flag of the UK in the upper hoist-side quadrant and a large circle of 15 white five-pointed stars (one for every island) centered in the outer half of the flag<br>
+blue with the UK flag in the upper hoist-side quadrant and a large circle of 15 white five-pointed stars (one for every island) centered in the outer half of the flag<br>
 
 **National symbol(s)**<br>
 a circle of 15, five-pointed, white stars on a blue field, Tiare maori (Gardenia taitensis) flower; national colors: green, white<br>

@@ -381,7 +381,7 @@ _FAX_: [95] (1) 751-1069<br>
 _email address and website_: <br>ACSRangoon@state.gov<br><br>https://mm.usembassy.gov/<br>
 
 **Flag description**<br>
-design consists of three equal horizontal stripes of yellow (top), green, and red; centered on the green band is a large white five-pointed star that partially overlaps onto the adjacent colored stripes; the design revives the triband colors used by Burma from 1943-45, during the Japanese occupation<br>
+three equal horizontal stripes of yellow (top), green, and red; centered on the green band is a white five-pointed star that overlaps onto the adjacent colored stripes; the design revives the triband colors that Burma used from 1943 to 1945, during the Japanese occupation<br>
 
 **National symbol(s)**<br>
 chinthe (mythical lion); national colors: yellow, green, red, white<br>
@@ -620,7 +620,7 @@ government controls all domestic broadcast media; 2 state-controlled TV stations
 .mm<br>
 
 **Internet users**<br>
-_percent of population_: 44% (2021 est.)<br>
+_percent of population_: 59% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1.51 million (2023 est.)<br>

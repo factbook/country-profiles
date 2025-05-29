@@ -105,6 +105,8 @@ the flag of Australia is used<br>
 
 ## Economy
 
+## Communications
+
 ## Transportation
 
 ## Military and Security

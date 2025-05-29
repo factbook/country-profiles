@@ -382,7 +382,7 @@ _FAX_: [32] (2) 811-4500<br>
 _email address and website_: <br>uscitizenBrussels@state.gov<br><br>https://be.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal vertical bands of black (hoist side), yellow, and red; the vertical design was based on the flag of France; the colors are those of the arms of the duchy of Brabant (yellow lion with red claws and tongue on a black field)<br>
+three equal vertical bands of black (hoist side), yellow, and red; the vertical design was based on the flag of France; the colors are from the arms of the duchy of Brabant (yellow lion with red claws and tongue on a black field)<br>
 
 **National symbol(s)**<br>
 golden rampant lion; national colors: red, black, yellow<br>

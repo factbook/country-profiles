@@ -324,7 +324,7 @@ _chief of state_: President Mikheil KAVELASHVILI (since 29 December 2024)<br>
 _head of government_: Prime Minister Irakli KOBAKHIDZE (since 8 February 2024)<br>
 _cabinet_: Cabinet of Ministers<br>
 _elections/appointments_: president elected by a 300-member College of Electors; election last held on 14 December 2024; next election in 2029; prime minister nominated by Parliament, appointed by the president<br>
-_election results_: <em><br>2024: </em>Mikheil KAVELASHVILI (Georgian Dream Party) was formally inaugurated on 29 December 2024<br><em><br>2024: </em>Irakli KOBAKHIDZE approved as prime minister by Parliamentary vote 84-10<em><br><br>2018:</em> Salome ZOURABICHVILI elected president in second round; percent of vote in second round - Salome ZOURABICHVILI (independent, backed by Georgian Dream) 59.5%, Grigol VASHADZE (UNM) 40.5%; Irakli GARIBASHVILI approved as prime minister by Parliamentary vote 89-2; note-resigned on January 29, 2024<br>
+_election results_: <em><br>2024: </em>Mikheil KAVELASHVILI (Georgian Dream Party) was formally inaugurated on 29 December 2024<br><em><br>2024: </em>Irakli KOBAKHIDZE approved as prime minister by Parliamentary vote 84-10<em><br><br>2018:</em> Salome ZOURABICHVILI elected president in second round; percent of vote in second round - Salome ZOURABICHVILI (independent, backed by Georgian Dream) 59.5%, Grigol VASHADZE (UNM) 40.5%; Irakli GARIBASHVILI approved as prime minister by Parliamentary vote 89-2<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Sakartvelos Parlamenti)<br>

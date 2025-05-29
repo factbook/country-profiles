@@ -186,9 +186,6 @@ _total_: 10.6% (2020 est.)<br>
 _male_: 18.8% (2020 est.)<br>
 _female_: 2.4% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 38.9% (2023 est.)<br>
 
@@ -343,7 +340,7 @@ _FAX_: [1] (242) 356-7174<br>
 _email address and website_: <br>acsnassau@state.gov<br><br>https://bs.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of aquamarine (top), gold, and aquamarine, with a black equilateral triangle based on the hoist side; the band colors represent the golden beaches of the islands surrounded by the aquamarine sea; black represents the vigor and force of a united people, while the pointing triangle indicates the enterprise and determination of the Bahamian people to develop the rich resources of land and sea<br>
+three equal horizontal bands of aquamarine (top), gold, and aquamarine, with a black equilateral triangle based on the hoist side; the band colors represent the golden beaches of the islands surrounded by the aquamarine sea; black represents the vigor and force of a united people, and the triangle stands for the enterprise and determination of the Bahamian people<br>
 
 **National symbol(s)**<br>
 blue marlin, flamingo, Yellow Elder flower; national colors: aquamarine, yellow, black<br>
@@ -552,7 +549,7 @@ _subscriptions per 100 inhabitants_: 99 (2022 est.)<br>
 .bs<br>
 
 **Internet users**<br>
-_percent of population_: 94% (2022 est.)<br>
+_percent of population_: 95% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 95,000 (2023 est.)<br>

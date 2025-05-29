@@ -170,9 +170,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 2.1% of population (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Literacy**<br>
 _total population_: NA<br>
 _male_: NA<br>

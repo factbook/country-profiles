@@ -324,7 +324,7 @@ _chief of state_: LEE Ju Ho (Acting President and Prime Minister since 2 May 202
 _head of government_: LEE Ju Ho (Acting President and Prime Minister since 2 May 2025 after Prime Minister and Acting President Han Duck Soo resigned to run for president); on 14 December 2024 the National Assembly impeached and suspended President YOON Suk Yeol (inaugurated 10 May 2022) from office; on 4 April 2025, the Constitutional Court confirmed YOON's impeachment and removal from office<br>
 _cabinet_: State Council appointed by the president on the prime minister's recommendation<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a single 5-year term; election last held on 9 March 2022 (next to be held on 3 June 2025); prime minister appointed by president with consent of the National Assembly<br>
-_election results_: <em>2022</em>: YOON Suk-yeol elected president; YOON Suk-yeol (PPP) 48.6%, LEE Jae-myung (DP) 47.8%; other 3.6%<br><br><em>2017</em>: MOON Jae-in elected president; MOON Jae-in (DP) 41.1%, HONG Joon-pyo (Liberty Korea Party) 24%, AHN Cheol-soo (PP) 21.4%, YOO Seung-min (Bareun Party) 6.8%, SIM Sang-jung (Justice Party) 6.2%<br>
+_election results_: <em><br>2022</em>: YOON Suk-yeol elected president; YOON Suk-yeol (PPP) 48.6%, LEE Jae-myung (DP) 47.8%; other 3.6%<br><br><em>2017</em>: MOON Jae-in elected president; MOON Jae-in (DP) 41.1%, HONG Joon-pyo (Liberty Korea Party) 24%, AHN Cheol-soo (PP) 21.4%, YOO Seung-min (Bareun Party) 6.8%, SIM Sang-jung (Justice Party) 6.2%<br>
 <strong>note: </strong>the president is both chief of state and head of government; the prime minister serves as the principal executive assistant to the president, similar to the role of a vice president<br>
 
 **Legislative branch**<br>
@@ -656,11 +656,11 @@ _key ports_: Busan, Gwangyang Hang, Inchon, Masan, Mokpo, Pyeongtaek Hang, Ulsan
 Armed Forces of the Republic of Korea: Republic of Korea Army (ROKA), Republic of Korea Navy (ROKN, includes Marine Corps, ROKMC), Republic of Korea Air Force (ROKAF)<br><br>Ministry of Maritime Affairs and Fisheries: Korea Coast Guard; Ministry of Interior and Safety: Korean National Police Agency (2025)<br>
 
 **Military expenditures**<br>
-2.7% of GDP (2023 est.)<br>
-2.6% of GDP (2022)<br>
-2.6% of GDP (2021)<br>
-2.6% of GDP (2020)<br>
-2.7% of GDP (2019)<br>
+2.32% of GDP (2025 est.)<br>
+2.34% of GDP (2024 est.)<br>
+2.37% of GDP (2023 est.)<br>
+2.35% of GDP (2022 est.)<br>
+2.38% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 500,000 active Armed Forces (365,000 Army; 70,000 Navy, including about 30,000 Marines; 65,000 Air Force) (2025)<br>

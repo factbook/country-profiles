@@ -213,9 +213,6 @@ _total_: 26.4% (2020 est.)<br>
 _male_: 27.7% (2020 est.)<br>
 _female_: 25% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 58.7% (2023 est.)<br>
 
@@ -390,7 +387,7 @@ _FAX_: [43] (1) 31339 2017<br>
 _email address and website_: <br>ConsulateVienna@state.gov<br><br>https://at.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of red (top), white, and red; the flag design is certainly one of the oldest - if not the oldest - national banners in the world; according to tradition, in 1191, following a fierce battle in the Third Crusade, Duke Leopold V of Austria's white tunic became completely blood-spattered; upon removal of his wide belt or sash, a white band was revealed; the red-white-red color combination was subsequently adopted as his banner<br>
+three equal horizontal bands of red (top), white, and red; the flag design is one of the oldest national banners in the world; according to tradition, after a fierce battle in the Third Crusade in 1191, Duke Leopold V of Austria's white tunic became blood-spattered; upon removal of his sash, a white band was revealed, and the red-white-red color combination was adopted as his banner<br>
 
 **National symbol(s)**<br>
 eagle, edelweiss, Alpine gentian; national colors: red, white<br>
@@ -631,7 +628,7 @@ public broadcaster, Oesterreichischer Rundfunk (ORF), is a major player in the T
 .at<br>
 
 **Internet users**<br>
-_percent of population_: 95% (2023 est.)<br>
+_percent of population_: 95% (2024 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2.71 million (2023 est.)<br>

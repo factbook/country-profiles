@@ -188,9 +188,6 @@ _wine_: 0.13 liters of pure alcohol (2019 est.)<br>
 _spirits_: 0.52 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.01 liters of pure alcohol (2019 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 51.7% (2023 est.)<br>
 

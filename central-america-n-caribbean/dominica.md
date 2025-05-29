@@ -177,9 +177,6 @@ _wine_: 0.29 liters of pure alcohol (2019 est.)<br>
 _spirits_: 4.39 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 40.3% (2023 est.)<br>
 
@@ -505,7 +502,7 @@ no terrestrial TV service; subscription cable TV provider offers some locally pr
 .dm<br>
 
 **Internet users**<br>
-_percent of population_: 83% (2022 est.)<br>
+_percent of population_: 84% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 14,000 (2022 est.)<br>

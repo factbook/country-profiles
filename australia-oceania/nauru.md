@@ -189,9 +189,6 @@ _total_: 48.5% (2020 est.)<br>
 _male_: 47.8% (2020 est.)<br>
 _female_: 49.1% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 59.6% (2023 est.)<br>
 
@@ -473,7 +470,7 @@ _subscriptions per 100 inhabitants_: 80 (2021 est.)<br>
 .nr<br>
 
 **Internet users**<br>
-_percent of population_: 83% (2022 est.)<br>
+_percent of population_: 82% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2022 est.)<br>

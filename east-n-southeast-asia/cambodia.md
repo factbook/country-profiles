@@ -386,8 +386,8 @@ _FAX_: [855] (23) 728-700<br>
 _email address and website_: <br>ACSPhnomPenh@state.gov<br><br>https://kh.usembassy.gov/<br>
 
 **Flag description**<br>
-three horizontal bands of blue (top), red (double width), and blue with a white, three-towered temple, representing Angkor Wat, outlined in black in the center of the red band; red and blue are traditional Cambodian colors<br>
-<strong>note:</strong> only national flag to prominently incorporate an actual identifiable building into its design (a few other national flags - those of Afghanistan, San Marino, Portugal, and Spain - show small generic buildings as part of their coats of arms on the flag)<br>
+three horizontal bands of blue (top), red (double-width), and blue, with a white, three-towered temple representing Angkor Wat outlined in black in the center of the red band; red and blue are traditional Cambodian colors<br>
+<strong>note:</strong> only national flag to prominently incorporate an identifiable building into its design; Afghanistan, San Marino, Portugal, and Spain show small generic buildings as part of their coats of arms on the flag<br>
 
 **National symbol(s)**<br>
 Angkor Wat temple, kouprey (wild ox); national colors: red, blue<br>
@@ -610,7 +610,7 @@ mix of state-owned, joint public-private, and privately owned broadcast media; 2
 .kh<br>
 
 **Internet users**<br>
-_percent of population_: 57% (2022 est.)<br>
+_percent of population_: 61% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 510,000 (2022 est.) Slowly increase as focus is on mobile internet<br>

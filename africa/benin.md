@@ -373,8 +373,8 @@ _FAX_: [229] 21-30-03-84<br>
 _email address and website_: <br>ACSCotonou@state.gov<br><br>https://bj.usembassy.gov/<br>
 
 **Flag description**<br>
-two equal horizontal bands of yellow (top) and red (bottom) with a vertical green band on the hoist side; green symbolizes hope and revival, yellow wealth, and red courage<br>
-<strong>note:</strong> uses the popular Pan-African colors of Ethiopia<br>
+two equal horizontal bands of yellow (top) and red (bottom) with a vertical green band on the hoist side; green stands for hope and revival, yellow for wealth, and red for courage<br>
+<strong>note:</strong> uses the popular pan-African colors of Ethiopia<br>
 
 **National symbol(s)**<br>
 leopard; national colors: green, yellow, red<br>
@@ -605,7 +605,7 @@ state-run Office de Radiodiffusion et de T&eacute;l&eacute;vision du Benin (ORTB
 .bj<br>
 
 **Internet users**<br>
-_percent of population_: 34% (2022 est.)<br>
+_percent of population_: 32% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 24,000 (2023 est.)<br>

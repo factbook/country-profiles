@@ -311,11 +311,11 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Chairperson, Presidential Leadership Council Rashad Muhammad al-ALIMI, <em>Dr.</em> (since 19 April 2022)<br>
+_chief of state_: Presidential Leadership Council Chairperson Dr. Rashad Muhammad al-ALIMI (since 19 April 2022)<br>
 _head of government_: Prime Minister Salim Salih BIN BURAYK (since 9 May 2025)<br>
 _cabinet_: 24 members from northern and southern Yemen, with representatives from Yemen's major political parties<br>
 _elections/appointments_: formerly, the president was directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 21 February 2012 (next election NA); vice president appointed by the president; prime minister appointed by the president<br>
-_election results_: <em>2012:</em> Abd Rabuh Mansur HADI (GPC) elected consensus president<br>
+_election results_: <em><br>2012:</em> Abd Rabuh Mansur HADI (GPC) elected consensus president<br>
 <strong>note:</strong> on 7 April 2022, President Abd Rabuh Mansur HADI announced his abdication, the dismissal of Vice President ALI MUHSIN al-Ahmar and the formation of a Presidential Leadership Council, an eight-member body chaired by former minister Rashad AL-ALIMI; on 19 April 2022, the Council was sworn in before Parliament and began assuming the responsibilities of the president and vice president and carrying out the political, security, and military duties of the government; in May 2025 Chairperson al-ALIMI made changes to his cabinet<br>
 
 **Legislative branch**<br>
@@ -594,7 +594,7 @@ state-run TV with 2 stations; state-run radio with 2 national radio stations and
 .ye<br>
 
 **Internet users**<br>
-_percent of population_: 18% (2022 est.)<br>
+_percent of population_: 14% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 486,000 (2022 est.)<br>

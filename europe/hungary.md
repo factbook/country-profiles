@@ -209,9 +209,6 @@ _total_: 31.8% (2020 est.)<br>
 _male_: 35.8% (2020 est.)<br>
 _female_: 27.8% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 51.4% (2023 est.)<br>
 
@@ -629,7 +626,7 @@ mixed system of state-supported media and private broadcasters; the 5 publicly o
 .hu<br>
 
 **Internet users**<br>
-_percent of population_: 91% (2023 est.)<br>
+_percent of population_: 92% (2024 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3.56 million (2023 est.)<br>

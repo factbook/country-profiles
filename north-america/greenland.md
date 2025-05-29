@@ -178,9 +178,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 39.4% (2023 est.)<br>
 
@@ -266,10 +263,10 @@ see Denmark<br>
 
 **Executive branch**<br>
 _chief of state_: King FREDERIK X of Denmark (since 14 January 2024), represented by High Commissioner Julie Praest WILCHE (since May 2022) (2024)<br>
-_head of government_: Prime Minister Mute B. EGEDE in caretaker status (since 12 March 2025)<br>
+_head of government_: Prime Minister Jens-Frederik NIELSEN (since 28 March 2025)<br>
 _cabinet_: Self-rule Government (Naalakkersuisut) elected by the Parliament (Inatsisartut)<br>
 _elections/appointments_: the monarchy is hereditary; high commissioner appointed by the monarch; premier indirectly elected by Parliament for a 4-year term<br>
-_election results_: <em><br>2021:</em> Mute B. EGEDE elected premier; Parliament vote - Mute B. EGEDE (Inuit Ataqatigiit) unanimous<br><br><em>2014:</em> Kim KIELSEN elected premier; Parliament vote - Kim KIELSEN (S) 27.2%, Sara OLSVIG (IA) 25.5%, Randi Vestergaard EVALDSEN (D) 19.5%, other 27.8%<br>
+_election results_: <em>2025: </em>Jens-Frederik NIELSEN (D) elected premier<em><br><br>2021:</em> Mute B. EGEDE elected premier; Parliament vote - Mute B. EGEDE (Inuit Ataqatigiit) unanimous<br><br><em>2014:</em> Kim KIELSEN elected premier; Parliament vote - Kim KIELSEN (S) 27.2%, Sara OLSVIG (IA) 25.5%, Randi Vestergaard EVALDSEN (D) 19.5%, other 27.8%<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Inatsisartut)<br>
@@ -478,7 +475,7 @@ Greenland Broadcasting Company provides public radio and TV, with a broadcast st
 .gl<br>
 
 **Internet users**<br>
-_percent of population_: 69% (2017 est.)<br>
+_percent of population_: 70% (2017 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 18,000 (2022 est.)<br>

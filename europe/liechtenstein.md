@@ -180,9 +180,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 65.2% (2023 est.)<br>
 
@@ -423,7 +420,7 @@ relies on foreign terrestrial and satellite broadcasters for most broadcast medi
 .li<br>
 
 **Internet users**<br>
-_percent of population_: 97% (2022 est.)<br>
+_percent of population_: 97% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 20,000 (2023 est.)<br>

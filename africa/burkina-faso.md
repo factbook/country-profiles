@@ -371,8 +371,8 @@ _FAX_: (226) 25-49-56-23<br>
 _email address and website_: <br>AmembOuaga@state.gov<br><br>https://bf.usembassy.gov/<br>
 
 **Flag description**<br>
-two equal horizontal bands of red (top) and green with a yellow five-pointed star in the center; red recalls the country's struggle for independence, green is for hope and abundance, and yellow represents the country's mineral wealth<br>
-<strong>note:</strong> uses the popular Pan-African colors of Ethiopia<br>
+two equal horizontal bands of red (top) and green with a yellow five-pointed star in the center; red stands for the country's struggle for independence, green for hope and abundance, and yellow for the country's mineral wealth<br>
+<strong>note:</strong> uses the popular pan-African colors of Ethiopia<br>
 
 **National symbol(s)**<br>
 white stallion; national colors: red, yellow, green<br>
@@ -598,7 +598,7 @@ _subscriptions per 100 inhabitants_: 112 (2021 est.)<br>
 .bf<br>
 
 **Internet users**<br>
-_percent of population_: 20% (2022 est.)<br>
+_percent of population_: 17% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 15,000 (2022 est.)<br>

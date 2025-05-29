@@ -207,9 +207,6 @@ _total_: 30.5% (2020 est.)<br>
 _male_: 47.4% (2020 est.)<br>
 _female_: 13.5% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 66.6% (2023 est.)<br>
 
@@ -388,7 +385,7 @@ _FAX_: [375] (17) 334-78-53<br>
 _email address and website_: <br>ConsularMinsk@state.gov<br><br>https://by.usembassy.gov/<br>
 
 **Flag description**<br>
-red horizontal band (top) and green horizontal band one-half the width of the red band; a white vertical stripe on the hoist side bears Belarusian national ornamentation in red; the red band color recalls past struggles from oppression, the green band represents hope and the many forests of the country<br>
+red horizontal band (top) and green horizontal band one-half the width of the red band; a white vertical stripe on the hoist side bears Belarusian national ornamentation in red; the red stands for past struggles from oppression, and the green represents hope and the many forests of the country<br>
 
 **National symbol(s)**<br>
 no clearly defined current national symbol, the mounted knight known as Pahonia (the Chaser) is the traditional Belarusian symbol; national colors: green, red, white<br>

@@ -349,7 +349,7 @@ _chief of state_: President Samia Suluhu HASSAN (since 19 March 2021)<br>
 _head of government_: President Samia Suluhu HASSAN (since 19 March 2021)<br>
 _cabinet_: Cabinet appointed by the president from among members of the National Assembly<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 5-year term (eligible for a second term); election last held on 28 October 2020 (next to be held in October 2025); prime minister appointed by the president<br>
-_election results_: <em>2020</em>: John MAGUFULI reelected president; percent of vote - John MAGUFULI (CCM) 84.4%, Tundu LISSU (CHADEMA) 13%, other 2.6%<br><br><em>2015</em>: John MAGUFULI elected president; percent of vote - John MAGUFULI (CCM) 58.5%, Edward LOWASSA (CHADEMA) 40%, other 1.5%<br>
+_election results_: <em><br>2020</em>: John MAGUFULI reelected president; percent of vote - John MAGUFULI (CCM) 84.4%, Tundu LISSU (CHADEMA) 13%, other 2.6%<br><br><em>2015</em>: John MAGUFULI elected president; percent of vote - John MAGUFULI (CCM) 58.5%, Edward LOWASSA (CHADEMA) 40%, other 1.5%<br>
 <strong>note 1:</strong> Zanzibar elects a president as head of government for internal matters; election held on 28 October 2020; Hussein MWINYI (CCM) 76.3%, Maalim Seif SHARIF (ACT-Wazalendo) 19.9%, other 3.8%<br><br><strong>note 2:</strong> the president is both chief of state and head of government<br><br><strong>note 3:</strong> after the death of President John MAGUFULI in March 2021, Vice President Samia Suluhu HASSAN assumed the presidency<br>
 
 **Legislative branch**<br>
@@ -631,7 +631,7 @@ about 45 TV stations, with 13 national that broadcast free-to-air TV; 196 radio 
 .tz<br>
 
 **Internet users**<br>
-_percent of population_: 32% (2022 est.)<br>
+_percent of population_: 29% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1.66 million (2023 est.)<br>

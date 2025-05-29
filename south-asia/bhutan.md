@@ -186,9 +186,6 @@ _wine_: 0.05 liters of pure alcohol (2019 est.)<br>
 _spirits_: 0 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 62.8% (2023 est.)<br>
 
@@ -349,7 +346,7 @@ _consulate(s) general_: 343 East, 43rd Street, New York, NY 10017<br>
 _embassy_: none; frequent informal contact is maintained via the US embassy in New Delhi (India) and Bhutan's Permanent Mission to the UN<br>
 
 **Flag description**<br>
-divided diagonally from the lower hoist-side corner; the upper triangle is yellow and the lower triangle is orange; centered along the dividing line is a large black and white dragon facing away from the hoist side; the dragon, called the Druk (Thunder Dragon), is the emblem of the nation; its white color stands for purity and the jewels in its claws symbolize wealth; the background colors represent spiritual and secular powers within Bhutan: the orange is associated with Buddhism, while the yellow denotes the ruling dynasty<br>
+divided diagonally from the lower hoist-side corner; the upper triangle is yellow and the lower triangle is orange; centered along the dividing line is a large black and white dragon facing away from the hoist side; the dragon, called the Druk (Thunder Dragon), is the national emblem; its white color stands for purity, and the jewels in its claws symbolize wealth; the background colors represent spiritual and secular powers in Bhutan, with the orange standing for Buddhism and the yellow for the ruling dynasty<br>
 
 **National symbol(s)**<br>
 thunder dragon known as Druk Gyalpo; national colors: orange, yellow<br>
@@ -567,7 +564,7 @@ state-owned TV station established in 1999; cable TV service offers dozens of In
 .bt<br>
 
 **Internet users**<br>
-_percent of population_: 87% (2022 est.)<br>
+_percent of population_: 88% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 10,000 (2023 est.)<br>

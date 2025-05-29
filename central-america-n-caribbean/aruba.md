@@ -170,9 +170,6 @@ _unimproved: urban_: urban: 2.3% of population<br>
 _unimproved: rural_: rural: 2.3% of population<br>
 _unimproved: total_: total: 2.3% of population (2015 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 42.1% (2023 est.)<br>
 
@@ -298,7 +295,7 @@ none (represented by the Kingdom of the Netherlands)<br>
 _embassy_: the US does not have an embassy in Aruba; the Consul General to Curacao is accredited to Aruba<br>
 
 **Flag description**<br>
-blue, with two narrow, horizontal, yellow stripes across the lower portion and a red, four-pointed star outlined in white in the upper hoist-side corner; the star represents Aruba and its red soil and white beaches, its four points the four major languages (Papiamento, Dutch, Spanish, English) as well as the four points of a compass, to indicate that its inhabitants come from all over the world; the blue symbolizes Caribbean waters and skies; the stripes represent the island's two main "industries": the flow of tourists to the sun-drenched beaches and the flow of minerals from the earth<br>
+blue, with two narrow, horizontal yellow stripes across the lower portion and a red four-pointed star outlined in white in the upper hoist-side corner; the star represents Aruba's red soil and white beaches, and its four points stand for the major languages (Papiamento, Dutch, Spanish, English) and the points of a compass, to indicate that its inhabitants come from all over the world; the blue symbolizes Caribbean waters and skies; the stripes represent the island's two main industries, tourism and mining<br>
 
 **National symbol(s)**<br>
 Hooiberg (Haystack) Hill; national colors: blue, yellow, red, white<br>

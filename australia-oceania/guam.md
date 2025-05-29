@@ -169,9 +169,6 @@ _unimproved: urban_: urban: 10.2% of population (2015 est.)<br>
 _unimproved: rural_: rural: 10.2% of population (2015 est.)<br>
 _unimproved: total_: total: 10.2% of population (2015 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 37% (2023 est.)<br>
 

@@ -208,9 +208,6 @@ _total_: 35.1% (2020 est.)<br>
 _male_: 47% (2020 est.)<br>
 _female_: 23.2% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 54.5% (2023 est.)<br>
 
@@ -378,8 +375,8 @@ _FAX_: [357] (22) 780944<br>
 _email address and website_: <br>ACSNicosia@state.gov<br><br>https://cy.usembassy.gov/<br>
 
 **Flag description**<br>
-centered on a white field is a copper-colored silhouette of the island (the island has long been famous for its copper deposits) above two olive-green-colored, crossed olive branches; the branches symbolize the hope for peace and reconciliation between the Greek and Turkish communities<br>
-<strong>note:</strong> one of only two national flags that uses a map as a design element; the flag of Kosovo is the other<br><br><strong>note:</strong> the "Turkish Republic of Northern Cyprus" flag retains the white field of the Cyprus national flag but displays narrow horizontal red stripes positioned a small distance from the top and bottom edges between which are centered a red crescent and a red five-pointed star; the banner is modeled after the Turkish national flag but with the colors reversed<br>
+a copper-colored silhouette of the island is centered on a white field above two crossed green olive branches, which symbolize the hope for peace and reconciliation between the Greek and Turkish communities<br>
+<strong>note:</strong> one of only two national flags that uses a map as a design element; the flag of Kosovo is the other <br><br><strong>note:</strong> the "Turkish Republic of Northern Cyprus" flag retains the white field of the Cyprus national flag but displays narrow horizontal red stripes positioned a small distance from the top and bottom edges, with a red crescent and a red five-pointed star between them; the banner is modeled after the Turkish national flag, but with the colors reversed<br>
 
 **National symbol(s)**<br>
 Cypriot mouflon (wild sheep), white dove; national colors: blue, white<br>

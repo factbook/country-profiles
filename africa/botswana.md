@@ -372,7 +372,7 @@ _FAX_: [267] 318-0232<br>
 _email address and website_: <br>ConsularGaborone@state.gov<br><br>https://bw.usembassy.gov/<br>
 
 **Flag description**<br>
-light blue with a horizontal white-edged black stripe in the center; the blue symbolizes water in the form of rain, while the black and white bands represent racial harmony<br>
+light blue with a horizontal white-edged black stripe in the center; the blue symbolizes water in the form of rain, and the black and white bands represent racial harmony<br>
 
 **National symbol(s)**<br>
 zebra; national colors: light blue, white, black<br>
@@ -606,7 +606,7 @@ _subscriptions per 100 inhabitants_: 165 (2022 est.)<br>
 .bw<br>
 
 **Internet users**<br>
-_percent of population_: 77% (2022 est.)<br>
+_percent of population_: 81% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 85,000 (2023 est.)<br>

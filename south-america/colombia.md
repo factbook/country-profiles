@@ -394,8 +394,8 @@ _FAX_: [57] (601) 275-4600<br>
 _email address and website_: <br>ACSBogota@state.gov<br><br>https://co.usembassy.gov/<br>
 
 **Flag description**<br>
-three horizontal bands of yellow (top, double-width), blue, and red; the flag retains the three main colors of the banner of Gran Colombia, the short-lived South American republic that broke up in 1830; various interpretations of the colors exist and include: yellow for the gold in Colombia's land, blue for the seas on its shores, and red for the blood spilled in attaining freedom; alternatively, the colors have been described as representing more elemental concepts such as sovereignty and justice (yellow), loyalty and vigilance (blue), and valor and generosity (red); or simply the principles of liberty, equality, and fraternity<br>
-<strong>note:</strong> similar to the flag of Ecuador, which is longer and bears the Ecuadorian coat of arms superimposed in the center<br>
+three horizontal bands of yellow (top, double-width), blue, and red; various interpretations of the colors exist; one interpretation has yellow for the gold in Colombia's land, blue for the sea, and red for the blood spilled in attaining freedom; alternatively, the colors have been described as representing sovereignty and justice (yellow), loyalty and vigilance (blue), and valor and generosity (red); another interpretation has the colors standing for liberty, equality, and fraternity<br>
+<strong>note:</strong> similar to the flag of Ecuador, which is longer and has the Ecuadorian coat of arms superimposed in the center<br>
 
 **National symbol(s)**<br>
 Andean condor; national colors: yellow, blue, red<br>
@@ -641,7 +641,7 @@ combination of state-owned and privately owned broadcast media provide service; 
 .co<br>
 
 **Internet users**<br>
-_percent of population_: 73% (2022 est.)<br>
+_percent of population_: 77% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 8.91 million (2023 est.)<br>

@@ -338,8 +338,8 @@ _chief of state_: President Luis Alberto ARCE Catacora (since 8 November 2020)<b
 _head of government_: President Luis Alberto ARCE Catacora (since 8 November 2020)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot one of 3 ways: candidate wins at least 50% of the vote, or at least 40% of the vote and 10% more than the next highest candidate; otherwise a second round is held and the winner determined by simple majority vote; president and vice president are elected by majority vote to serve a 5-year term; no term limits (changed from two-consecutive-term limit by Constitutional Court in late 2017); election last held on 18 October 2020 (next to be held in October 2025)<br>
-_election results_: <br><em>2020:</em> Luis Alberto ARCE Catacora elected president; percent of vote - Luis Alberto ARCE Catacora (MAS) 55.1%; Carlos Diego MESA Gisbert (CC) 28.8%; Luis Fernando CAMACHO Vaca (Creemos) 14%; other 2.1%<br><br><em>2019:</em> Juan Evo MORALES Ayma reelected president; percent of vote - Juan Evo MORALES Ayma (MAS) 61%; Samuel DORIA MEDINA Arana (UN) 24.5%; Jorge QUIROGA Ramirez (POC) 9.1%; other 5.4%; note - MORALES resigned from office on 10 November 2019 over alleged election rigging; resignations of all his constitutionally designated successors followed, including the Vice President, President of the Senate, President of the Chamber of Deputies, and First Vice President of the Senate, leaving the Second Vice President of the Senate, Jeanine ANEZ Chavez, the highest-ranking official still in office; her appointment to the presidency was endorsed by Bolivia's Constitutional Court, and she served as interim president until the 8 November 2020 inauguration of Luis Alberto ARCE Catacora, who won the 18 October 2020 presidential election<br>
-<strong>note:</strong> the president is both chief of state and head of government<br>
+_election results_: <br><em>2020:</em> Luis Alberto ARCE Catacora elected president; percent of vote - Luis Alberto ARCE Catacora (MAS) 55.1%; Carlos Diego MESA Gisbert (CC) 28.8%; Luis Fernando CAMACHO Vaca (Creemos) 14%; other 2.1%<br><br><em>2019:</em> Juan Evo MORALES Ayma reelected president; percent of vote - Juan Evo MORALES Ayma (MAS) 61%; Samuel DORIA MEDINA Arana (UN) 24.5%; Jorge QUIROGA Ramirez (POC) 9.1%; other 5.4%<br>
+<strong>note:</strong> the president is both chief of state and head of government<br><br><strong>note:</strong> elections were held in successive years in 2019 and 2020 because Juan Evo MORALES resigned from office on 10 November 2019 over alleged election rigging; Jeanine ANEZ Chavez served as interim president until the 8 November 2020 inauguration of Luis Alberto ARCE Catacora, who won the 18 October 2020 presidential election<br>
 
 **Legislative branch**<br>
 _legislature name_: Plurinational Legislative Assembly (Asamblea Legislativa Plurinacional)<br>
@@ -397,8 +397,8 @@ _email address and website_: <br>ConsularLaPazACS@state.gov<br><br>https://bo.us
 <strong>note:</strong> in September 2008, the Bolivian Government expelled the US Ambassador to Bolivia, Philip GOLDBERG, and both countries have yet to reinstate their ambassadors<br>
 
 **Flag description**<br>
-three equal horizontal bands of red (top), yellow, and green with the coat of arms centered on the yellow band; red stands for bravery and the blood of national heroes, yellow for the nation's mineral resources, and green for the fertility of the land<br>
-<strong>note:</strong> similar to the flag of Ghana, which has a large black five-pointed star centered in the yellow band; in 2009, a presidential decree made it mandatory for a so-called wiphala - a square, multi-colored flag representing the country's indigenous peoples - to be used alongside the traditional flag<br>
+three equal horizontal bands of red (top), yellow, and green, with the coat of arms centered on the yellow band; red stands for bravery and the blood of national heroes, yellow for the nation's mineral resources, and green for the land's fertility<br>
+<strong>note:</strong> similar to the flag of Ghana, which has a large black five-pointed star centered in the yellow band; in 2009, a presidential decree made it mandatory for a <em>wiphala -</em>- a square, multi-colored flag representing the country's ethnic groups -- to be used alongside the traditional flag<br>
 
 **National symbol(s)**<br>
 llama, Andean condor, two national flowers: the cantuta and the patuju; national colors: red, yellow, green<br>
@@ -640,7 +640,7 @@ large number of radio and TV stations broadcasting with private media outlets do
 .bo<br>
 
 **Internet users**<br>
-_percent of population_: 73% (2022 est.)<br>
+_percent of population_: 70% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1.33 million (2022 est.)<br>

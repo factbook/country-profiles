@@ -209,9 +209,6 @@ _total_: 30.7% (2020 est.)<br>
 _male_: 35% (2020 est.)<br>
 _female_: 26.4% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 48.4% (2023 est.)<br>
 
@@ -390,7 +387,7 @@ _email address and website_: <br>ACSPrg@state.gov<br><br>https://cz.usembassy.go
 
 **Flag description**<br>
 two equal horizontal bands of white (top) and red with a blue isosceles triangle based on the hoist side<br>
-<strong>note:</strong> combines the white and red colors of Bohemia with blue from the arms of Moravia; is identical to the flag of the former Czechoslovakia<br>
+<strong>note:</strong> combines the white and red colors of Bohemia with blue from the arms of Moravia; identical to the flag of the former Czechoslovakia<br>
 
 **National symbol(s)**<br>
 silver (or white), double-tailed, rampant lion; national colors: white, red, blue<br>

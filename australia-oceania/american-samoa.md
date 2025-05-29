@@ -166,9 +166,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 1% of population (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 53.5% (2023 est.)<br>
 
@@ -275,7 +272,7 @@ none (territory of the US)<br>
 _embassy_: none (territory of the US)<br>
 
 **Flag description**<br>
-a large white triangle edged in red that is based on the fly side and extends to the hoist side and is charged with an eagle, all on a blue field; the red, white, and blue colors are those traditionally used by both the United States and Samoa; the brown and white American bald eagle flies toward the hoist side and carries two traditional Samoan symbols of authority, a war club known as a "fa'alaufa'i" (upper; left talon), and a coconut-fiber fly whisk known as a "fue" (lower; right talon); the combination of symbols broadly mimics that seen on the US Great Seal and reflects the relationship between the US and American Samoa<br>
+a large white triangle edged in red that is based on the fly side and extends to the hoist side and is charged with an eagle, all on a blue field; the red, white, and blue colors are traditionally used by both the United States and Samoa; the brown and white American bald eagle carries two traditional Samoan symbols of authority, a war club known as a <em>fa'alaufa'i</em> (upper), and a coconut-fiber fly whisk known as a <em>fue </em>(lower); the combination of symbols reflects the US Great Seal and the relationship between the US and American Samoa<br>
 
 **National symbol(s)**<br>
 a fue (coconut fiber fly whisk; representing wisdom) crossed with a to'oto'o (staff; representing authority); national colors: red, white, blue<br>
@@ -405,7 +402,7 @@ _subscriptions per 100 inhabitants_: 4 (2009 est.)<br>
 .as<br>
 
 **Internet users**<br>
-_percent of population_: 40.3% (2021 est.)<br>
+_percent of population_: 40.3% (1990 est.)<br>
 
 ## Transportation
 

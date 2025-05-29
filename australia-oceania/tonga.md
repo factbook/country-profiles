@@ -312,7 +312,7 @@ _chief of state_: King TUPOU VI (since 18 March 2012)<br>
 _head of government_: Prime Minister Aisake Valu EKE (since 22 January 2025)<br>
 _cabinet_: Cabinet nominated by the prime minister and appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; prime minister and deputy prime minister indirectly elected by the Legislative Assembly and appointed by the monarch; election last held on 18 November 2021 (next to be held on 24 December 2024)<br>
-_election results_: <em>2024: </em>Aisake Valu EKE elected prime minsiter by the Legislative Assembly; Aisake Valu EKE (Independent) 16 votes, Viliami LATU (Independent) 8<br><em><br>2021:</em> Siaosi SOVALENI elected prime minister by the Legislative Assembly; Siaosi SOVALENI 16 votes, Aisake EKE 10<br>
+_election results_: <em><br>2024: </em>Aisake Valu EKE elected prime minsiter by the Legislative Assembly; Aisake Valu EKE (Independent) 16 votes, Viliami LATU (Independent) 8<br><em><br>2021:</em> Siaosi SOVALENI elected prime minister by the Legislative Assembly; Siaosi SOVALENI 16 votes, Aisake EKE 10<br>
 <strong>note:</strong> a Privy Council advises the monarch<br>
 
 **Legislative branch**<br>
@@ -561,7 +561,7 @@ _subscriptions per 100 inhabitants_: 61 (2021 est.)<br>
 .to<br>
 
 **Internet users**<br>
-_percent of population_: 58% (2021 est.)<br>
+_percent of population_: 59% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 9,000 (2022 est.)<br>
@@ -591,7 +591,7 @@ _key ports_: Neiafu, Nuku Alofa, Pangai<br>
 ## Military and Security
 
 **Military and security forces**<br>
-His Majesty's Armed Forces Tonga (HMAF; aka Tonga Defense Services): Tonga Royal Guard, Tonga Land Force (Royal Tongan Marines), Tonga Navy, Air Wing <br><br>Ministry of Police and Fire Services: Tonga Police Force (2024)<br>
+His Majesty's Armed Forces Tonga (HMAF; aka Tonga Defense Services): Tonga Royal Guard, Tonga Land Force (Royal Tongan Marines), Tonga Navy, Air Wing <br><br>Ministry of Police and Fire Services: Tonga Police Force (2025)<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2023 est.)<br>

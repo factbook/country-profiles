@@ -560,7 +560,7 @@ state-run national broadcaster Seychelles Broadcasting Corporation (SBC) has the
 .sc<br>
 
 **Internet users**<br>
-_percent of population_: 87% (2022 est.)<br>
+_percent of population_: 87% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 39,000 (2023 est.)<br>

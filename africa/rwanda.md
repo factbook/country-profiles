@@ -332,7 +332,7 @@ _chief of state_: President Paul KAGAME (since 22 April 2000)<br>
 _head of government_: Prime Minister Edouard NGIRENTE (since 30 August 2017)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (eligible for a second term); election last held on 4 August 2017 (next to be held on 15 July 2029); prime minister appointed by the president<br>
-_election results_: <em><br>2024: </em>Paul KAGAME reelected president; Paul KAGAME (RPF) 99.2%, Frank HABINEZA (DGPR) 0.5%, Philippe MPAYIMANA (independent) 0.3%<br><br><em>2017:</em> Paul KAGAME reelected president; Paul KAGAME (RPF) 98.8%, Philippe MPAYIMANA (independent), other 1.2%<br><br> <p> </p><br>
+_election results_: <em><br>2024: </em>Paul KAGAME reelected president; Paul KAGAME (RPF) 99.2%, Frank HABINEZA (DGPR) 0.5%, Philippe MPAYIMANA (independent) 0.3%<br><br><em>2017:</em> Paul KAGAME reelected president; Paul KAGAME (RPF) 98.8%, Philippe MPAYIMANA (independent), other 1.2%<br>
 <strong>note:</strong> a constitutional amendment in 2016 reduced the presidential term from 7 to 5 years but included an exception that allowed President KAGAME to serve another 7-year term in 2017, potentially followed by two additional 5-year terms<br>
 
 **Legislative branch**<br>
@@ -624,7 +624,7 @@ _subscriptions per 100 inhabitants_: 80 (2022 est.)<br>
 .rw<br>
 
 **Internet users**<br>
-_percent of population_: 34% (2022 est.)<br>
+_percent of population_: 34% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 62,000 (2023 est.)<br>

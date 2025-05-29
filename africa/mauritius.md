@@ -200,9 +200,6 @@ _total_: 20.2% (2020 est.)<br>
 _male_: 37.3% (2020 est.)<br>
 _female_: 3% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 62% (2023 est.)<br>
 
@@ -312,7 +309,7 @@ _chief of state_: President Dharam GOKHOOL (since 7 December 2024)<br>
 _head of government_: Prime Minister Navin RAMGOOLAM (since 13 November 2024)<br>
 _cabinet_: Cabinet of Ministers (Council of Ministers) appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president and vice president indirectly elected by the National Assembly for 5-year renewable terms; election last held on 7 November 2019 (next to be held in 2024); the president appoints the prime minister and deputy prime minister who have the majority support in the National Assembly<br>
-_election results_: <em><br>2019</em>: Prithvirajsing ROOPUN (MSM) elected president by the National Assembly - unanimous vote<br><br><em>2015</em>: Ameenah GURIB-FAKIM (independent) elected president by the National Assembly - unanimous vote; note - GURIB-FAKIM, who was Mauritius' first female president, resigned on 23 March 2018; acting presidents served from March 2018 until ROOPUN's appointment in 2019<br><br>
+_election results_: <em><br>2019</em>: Prithvirajsing ROOPUN (MSM) elected president by the National Assembly - unanimous vote<br><br><em>2015</em>: Ameenah GURIB-FAKIM (independent) elected president by the National Assembly - unanimous vote<br><br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly - Assemblée nationale<br>
@@ -584,7 +581,7 @@ the Mauritius Broadcasting Corporation (MBC) is the national public TV and radio
 .mu<br>
 
 **Internet users**<br>
-_percent of population_: 76% (2022 est.)<br>
+_percent of population_: 80% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 343,000 (2023 est.)<br>

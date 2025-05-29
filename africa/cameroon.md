@@ -397,8 +397,8 @@ _email address and website_: <br>YaoundeACS@state.gov<br><br>https://cm.usembass
 _branch office(s)_: Douala<br>
 
 **Flag description**<br>
-three equal vertical bands of green (hoist side), red, and yellow, with a yellow five-pointed star centered in the red band; the vertical tricolor recalls the flag of France; red symbolizes unity, yellow the sun, happiness, and the savannahs in the north, and green hope and the forests in the south; the star is referred to as the "star of unity"<br>
-<strong>note:</strong> uses the popular Pan-African colors of Ethiopia<br>
+three equal vertical bands of green (hoist side), red, and yellow, with a yellow five-pointed star centered in the red band; the vertical tricolor recalls France's flag; red stands for unity, yellow for the sun, happiness, and the northern savannahs, and green for hope and the southern forests; the star is referred to as the "star of unity"<br>
+<strong>note:</strong> uses the popular pan-African colors of Ethiopia<br>
 
 **National symbol(s)**<br>
 lion; national colors: green, red, yellow<br>
@@ -639,7 +639,7 @@ government maintains tight control over broadcast media; state-owned Cameroon Ra
 .cm<br>
 
 **Internet users**<br>
-_percent of population_: 44% (2022 est.)<br>
+_percent of population_: 42% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 603,000 (2022 est.)<br>

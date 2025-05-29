@@ -391,8 +391,8 @@ _FAX_: [235] 2253-9102<br>
 _email address and website_: <br>NdjamenaACS@state.gov<br><br>https://td.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal vertical bands of blue (hoist side), gold, and red; the flag combines the blue and red French (former colonial) colors with the red and yellow (gold) of the Pan-African colors; blue symbolizes the sky, hope, and the south of the country, which is relatively well-watered; gold represents the sun, as well as the desert in the north of the country; red stands for progress, unity, and sacrifice<br>
-<strong>note:</strong> almost identical to the flag of Romania but with a darker shade of blue; also similar to the flags of Andorra and Moldova, both of which have a national coat of arms centered in the yellow band; design based on the flag of France<br>
+three equal vertical bands of blue (hoist side), gold, and red; the flag combines the blue and red French (former colonial) colors with the red and yellow of the Pan-African colors; blue symbolizes the sky, hope, and the south of the country; gold represents the sun and the desert in the north; red stands for progress, unity, and sacrifice<br>
+<strong>note:</strong> almost identical to the flag of Romania but with a darker shade of blue; also similar to the flags of Andorra and Moldova, both of which have a national coat of arms centered in the yellow band; design based on France's flag<br>
 
 **National symbol(s)**<br>
 goat (north), lion (south); national colors: blue, yellow, red<br>
@@ -610,7 +610,7 @@ _subscriptions per 100 inhabitants_: 68 (2022 est.)<br>
 .td<br>
 
 **Internet users**<br>
-_percent of population_: 12% (2022 est.)<br>
+_percent of population_: 13% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 0 (2022 est.)<br>

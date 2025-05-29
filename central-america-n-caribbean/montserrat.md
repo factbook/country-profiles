@@ -166,9 +166,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 35.8% (2023 est.)<br>
 
@@ -411,7 +408,7 @@ Radio Montserrat, a public radio broadcaster, transmits on 1 station and has a r
 .ms<br>
 
 **Internet users**<br>
-_percent of population_: 56.2% (2021 est.)<br>
+_percent of population_: 54.6% (2011 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,700 (2018 est.)<br>

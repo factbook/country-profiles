@@ -312,7 +312,7 @@ _chief of state_: President Chandrikapersad "Chan" SANTOKHI (since 16 July 2020)
 _head of government_: President Chandrikapersad "Chan" SANTOKHI (since 16 July 2020)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _elections/appointments_: president and vice president indirectly elected by the National Assembly; president and vice president serve a 5-year term (no term limits); election last held on 13 July 2020 (next to be held in May 2025)<br>
-_election results_: <em>2020:</em> Chandrikapersad "Chan" SANTOKHI elected president unopposed; National Assembly vote - NA<br><br><em>2015:</em> Desire Delano BOUTERSE reelected president unopposed; National Assembly vote - NA<br>
+_election results_: <em><br>2020:</em> Chandrikapersad "Chan" SANTOKHI elected president unopposed; National Assembly vote - NA<br><br><em>2015:</em> Desire Delano BOUTERSE reelected president unopposed; National Assembly vote - NA<br>
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -580,7 +580,7 @@ _subscriptions per 100 inhabitants_: 150 (2022 est.)<br>
 .sr<br>
 
 **Internet users**<br>
-_percent of population_: 76% (2022 est.)<br>
+_percent of population_: 78% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 125,000 (2022 est.)<br>

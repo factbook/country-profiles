@@ -170,9 +170,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Education expenditures**<br>
 NA<br>
 

@@ -221,9 +221,6 @@ _total_: 13.6% (2020 est.)<br>
 _male_: 15.6% (2020 est.)<br>
 _female_: 11.5% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 55.9% (2023 est.)<br>
 
@@ -407,7 +404,7 @@ _email address and website_: <br>AskEmbassyCanberra@state.gov<br><br>https://au.
 _consulate(s) general_: Melbourne, Perth, Sydney<br>
 
 **Flag description**<br>
-blue with the flag of the UK in the upper hoist-side quadrant and a large seven-pointed star in the lower hoist-side quadrant known as the Commonwealth or Federation Star, representing the federation of the colonies of Australia in 1901; the star depicts one point for each of the six original states and one representing all of Australia's internal and external territories; on the fly half is a representation of the Southern Cross constellation in white with one small, five-pointed star and four larger, seven-pointed stars<br>
+blue, with the flag of the UK in the upper hoist-side quadrant and a large seven-pointed star in the lower hoist-side quadrant; the star is known as the Commonwealth or Federation Star and represents the federation of the Australian colonies in 1901; the star has one point for each of the six original states and one representing all of Australia's internal and external territories; on the fly half is a representation of the Southern Cross constellation in white, with one small five-pointed star and four larger seven-pointed stars<br>
 
 **National symbol(s)**<br>
 Commonwealth Star (seven-pointed Star of Federation), golden wattle tree (Acacia pycnantha), kangaroo, emu; national colors: green, gold<br>
@@ -650,7 +647,7 @@ tradition of public broadcasting, but privately owned TV and radio have the bigg
 .au<br>
 
 **Internet users**<br>
-_percent of population_: 95% (2022 est.)<br>
+_percent of population_: 97% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 9.63 million (2023 est.)<br>

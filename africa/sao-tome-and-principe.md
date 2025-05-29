@@ -315,10 +315,10 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Carlos Manuel VILA NOVA (since 2 October 2021)<br>
-_head of government_: Prime Minister Am&eacute;rico d'Oliveira DOS RAMOS (since 12 January 2025)&nbsp;&nbsp;<br>
+_head of government_: Prime Minister Am&eacute;rico d'Oliveira DOS RAMOS (since 12 January 2025)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 18 July 2021 with a runoff on 5 September 2021 (next to be held in 2026); prime minister chosen by the National Assembly and approved by the president<br>
-_election results_: <br><em>2021: </em>Carlos Manuel VILA NOVA elected president in the second round; percent of vote in the first round - Carlos Manuel VILA NOVA (IDA) 39.5%; Guilherme POSSER DA COSTA (MLSTP-PSD) 20.8%; Delfim NEVES (PCD-GR) 16.9%; Abel BOM JESUS (independent) 3.6%; Maria DAS NEVES (independent) 3.3%; other 15.9%; percent of the vote in second round - Carlos Manuel VILA NOVA 57.5%, Guilherme POSSER DA COSTA 42.5%<em><br><br><em>2016: </em></em>Evaristo CARVALHO elected president; percent of vote - Evaristo CARVALHO (ADI) 49.8%, Manuel Pinto DA COSTA (independent) 24.8%, Maria DAS NEVES (MLSTP-PSD) 24.1%; note - first round results for CARVALHO were revised downward from just over 50%, prompting the 7 August runoff; however, on 1 August 2016 DA COSTA withdrew from the runoff, citing voting irregularities, and Evaristo CARVALHO was declared the winner<br>
+_election results_: <br><em>2021: </em>Carlos Manuel VILA NOVA elected president in the second round; percent of vote in the first round - Carlos Manuel VILA NOVA (IDA) 39.5%; Guilherme POSSER DA COSTA (MLSTP-PSD) 20.8%; Delfim NEVES (PCD-GR) 16.9%; Abel BOM JESUS (independent) 3.6%; Maria DAS NEVES (independent) 3.3%; other 15.9%; percent of the vote in second round - Carlos Manuel VILA NOVA 57.5%, Guilherme POSSER DA COSTA 42.5%<em><br><br><em>2016: </em></em>Evaristo CARVALHO elected president; percent of vote - Evaristo CARVALHO (ADI) 49.8%, Manuel Pinto DA COSTA (independent) 24.8%, Maria DAS NEVES (MLSTP-PSD) 24.1%<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Assembleia Nacional)<br>
@@ -565,7 +565,7 @@ _subscriptions per 100 inhabitants_: 87 (2022 est.)<br>
 .st<br>
 
 **Internet users**<br>
-_percent of population_: 57% (2022 est.)<br>
+_percent of population_: 62% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 6,000 (2023 est.)<br>

@@ -205,7 +205,7 @@ _spirits_: 0.5 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.04 liters of pure alcohol (2019 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-6.4% (2019/20)<br>
+5.4% (2020)<br>
 
 **Currently married women (ages 15-49)**<br>
 49.7% (2023 est.)<br>
@@ -313,10 +313,10 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Brice OLIGUI Nguema (since 3 May 2025)<br>
-_head of government_: President Brice OLIGUI Nguema (since 3 May 2025)<br> <p> </p><br>
+_head of government_: President Brice OLIGUI Nguema (since 3 May 2025)<br>
 _cabinet_: cabinet appointed by president<br>
 _elections/appointments_: the president directly elected by plurality vote to a 7-year term (no term limits); election last held on 12 April 2025<br>
-_election results_: <em>2025: </em>Brice OLIGUI Nguema elected president; percent of vote - Brice OLIGUI Nguema (Ind.) 90.35%, Alain Claude Bilie By Nze (EPG) 3.02%, other 6.63%<br><em><br>2016: </em>Ali BONGO Ondimba reelected president; percent of vote - Ali BONGO Ondimba (PDG) 49.8%, Jean PING (UFC) 48.2%, other 2.0%<br>
+_election results_: <em><br>2025: </em>Brice OLIGUI Nguema elected president; percent of vote - Brice OLIGUI Nguema (Ind.) 90.35%, Alain Claude Bilie By Nze (EPG) 3.02%, other 6.63%<br><em><br>2016: </em>Ali BONGO Ondimba reelected president; percent of vote - Ali BONGO Ondimba (PDG) 49.8%, Jean PING (UFC) 48.2%, other 2.0%<br>
 
 **Legislative branch**<br>
 _legislature name_: Transitional Parlement (Parliament de la transition)<br>
@@ -605,7 +605,7 @@ _subscriptions per 100 inhabitants_: 125 (2022 est.)<br>
 .ga<br>
 
 **Internet users**<br>
-_percent of population_: 74% (2022 est.)<br>
+_percent of population_: 72% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 80,000 (2022 est.)<br>

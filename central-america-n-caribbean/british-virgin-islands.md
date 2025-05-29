@@ -166,9 +166,6 @@ _unimproved: urban_: urban: 2.5% of population<br>
 _unimproved: rural_: rural: 2.5% of population<br>
 _unimproved: total_: total: 2.5% of population (2015 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 46.6% (2023 est.)<br>
 
@@ -288,7 +285,7 @@ none (overseas territory of the UK)<br>
 _embassy_: none (overseas territory of the UK)<br>
 
 **Flag description**<br>
-blue with the flag of the UK in the upper hoist-side quadrant and the Virgin Islander coat of arms centered in the outer half of the flag; the coat of arms depicts a woman flanked on either side by a vertical column of six oil lamps above a scroll bearing the Latin word VIGILATE (Be Watchful); the islands were named by COLUMBUS in 1493 in honor of Saint Ursula and her 11 virgin followers (some sources say 11,000) who reputedly were martyred by the Huns in the 4th or 5th century; the figure on the banner holding a lamp represents the saint; the other lamps symbolize her followers<br>
+blue with the UK flag in the upper hoist-side quadrant and the Virgin Islander coat of arms centered in the outer half of the flag; the coat of arms depicts a woman flanked by vertical columns of six oil lamps above a scroll bearing the Latin word VIGILATE (Be Watchful); Christopher COLUMBUS named the islands in 1493 in honor of Saint Ursula and her virgin followers, and the figure holding a lamp represents the saint, with the other lamps symbolizing her followers<br>
 
 **National symbol(s)**<br>
 zenaida dove, white cedar flower; national colors: yellow, green, red, white, blue<br>

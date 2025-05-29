@@ -201,7 +201,7 @@ _male_: 47.5% (2020 est.)<br>
 _female_: 28.9% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-3.4% (2021) NA<br>
+3.4% (2021)<br>
 
 **Currently married women (ages 15-49)**<br>
 51.4% (2023 est.)<br>
@@ -322,7 +322,7 @@ _chief of state_: President Joseph AOUN (since 9 January 2025)<br>
 _head of government_: Prime Minister Nawaf SALAM (since 8 February 2025)<br>
 _cabinet_: Cabinet chosen by the prime minister in consultation with the president and the National Assembly<br>
 _elections/appointments_: president indirectly elected by a qualified majority of two-thirds of Parliament members in the first round and if needed a two-thirds quorum of members by simple majority popular vote for a 6-year term (eligible for non-consecutive terms); last held on 9 January 2025 (next to be held in 2031); prime minister appointed by the president in consultation with the National Assembly<br>
-_election results_: <em>2025: </em>Joseph AOUN elected president in second round; National Assembly vote - 99 of 128<br><em><br>2016:</em> Michel AWN elected president in second round; National Assembly vote - Michel AWN (FPM) 83; the president elected in its 46th attempt on 31 October 2016<br>
+_election results_: <em><br>2025: </em>Joseph AOUN elected president in second round; National Assembly vote - 99 of 128<br><em><br>2016:</em> Michel AWN elected president in second round; National Assembly vote - Michel AWN (FPM) 83; the president elected in its 46th attempt on 31 October 2016<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Majlis Al-Nuwwab)<br>
@@ -586,7 +586,7 @@ _subscriptions per 100 inhabitants_: 77 (2021 est.)<br>
 .lb<br>
 
 **Internet users**<br>
-_percent of population_: 90% (2022 est.)<br>
+_percent of population_: 84% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 419,000 (2022 est.)<br>

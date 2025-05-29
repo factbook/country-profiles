@@ -323,7 +323,7 @@ _chief of state_: President Gordana SILJANOVSKA-DAVKOVA (since 12 May 2024)<br>
 _head of government_: President Gordana SILJANOVSKA-DAVKOVA (since 12 May 2024)<br>
 _cabinet_: Council of Ministers elected by the Assembly by simple majority vote<br>
 _elections/appointments_: president directly elected using a modified 2-round system; a candidate can only be elected in the first round with an absolute majority from all registered voters; in the second round, voter turnout must be at least 40% for the result to be deemed valid; president elected for a 5-year term (eligible for a second term); election last held on 24 April and 8 May 2024 (next to be held in 2029); following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the Assembly<br>
-_election results_: <em>2024: </em>Hristijan MICKOSKI elected prime minister; Assembly vote - 77 for, 22 against<em><br><br>2024: </em>Gordana SILJANOVSKA-DAVKOVA elected president in the second round; percent of vote - Gordana SILJANOVSKA-DAVKOVA (VMRO-DPMNE) 69%, Stevo PENDAROVSKI (SDSM) 31%<em><br><br>2024: </em>Talat XHAFERI elected caretaker prime minister; Assembly vote - 65 for (opposition boycott)<em><br><br>2022: </em>Dimitar KOVACEVSKI elected prime minister; Assembly vote - NA<em><br></em><br>
+_election results_: <em><br>2024: </em>Hristijan MICKOSKI elected prime minister; Assembly vote - 77 for, 22 against<em><br><br>2024: </em>Gordana SILJANOVSKA-DAVKOVA elected president in the second round; percent of vote - Gordana SILJANOVSKA-DAVKOVA (VMRO-DPMNE) 69%, Stevo PENDAROVSKI (SDSM) 31%<em><br><br>2024: </em>Talat XHAFERI elected caretaker prime minister; Assembly vote - 65 for (opposition boycott)<em><br><br>2022: </em>Dimitar KOVACEVSKI elected prime minister; Assembly vote - NA<em><br></em><br>
 
 **Legislative branch**<br>
 _legislature name_: Assembly of the Republic (Sobranie)<br>
@@ -607,7 +607,7 @@ public TV broadcaster Macedonian Radio and Television operates 5 national terres
 .mk<br>
 
 **Internet users**<br>
-_percent of population_: 84% (2022 est.)<br>
+_percent of population_: 87% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 515,000 (2022 est.)<br>

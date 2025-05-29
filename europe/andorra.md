@@ -199,9 +199,6 @@ _total_: 31.8% (2020 est.)<br>
 _male_: 35.3% (2020 est.)<br>
 _female_: 28.3% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Education expenditures**<br>
 2.9% of GDP (2021 est.)<br>
 
@@ -335,7 +332,7 @@ _email address and website_: <br>contact@andorraun.org<br><br>https://www.exteri
 _embassy_: the US does not have an embassy in Andorra; the US ambassador to Spain is accredited to Andorra; US interests in Andorra are represented by the US Consulate General's office in Barcelona (Spain); mailing address: Paseo Reina Elisenda de Montcada, 23, 08034 Barcelona, Espana; telephone: [34] (93) 280-22-27; FAX: [34] (93) 280-61-75; email address: Barcelonaacs@state.gov<br>
 
 **Flag description**<br>
-three vertical bands of blue (hoist side), yellow, and red, with the national coat of arms centered in the yellow band; the latter band is slightly wider than the other two, so that the ratio of band widths is 8:9:8; the coat of arms features a quartered shield with the emblems of (starting in the upper left and proceeding clockwise): Urgell, Foix, Bearn, and Catalonia; the motto reads VIRTUS UNITA FORTIOR (Strength United is Stronger); the flag combines the blue and red French colors with the red and yellow of Spain to show Franco-Spanish protection<br>
+three vertical bands of blue (hoist side), yellow, and red, with the national coat of arms centered in the yellow band, which is slightly wider than the other two; the coat of arms features a quartered shield with the emblems of (starting in the upper left and proceeding clockwise): Urgell, Foix, Bearn, and Catalonia; the motto reads VIRTUS UNITA FORTIOR (Strength United is Stronger); the flag combines the blue and red French colors with the red and yellow of Spain to show Franco-Spanish protection<br>
 <strong>note:</strong> similar to the flags of Chad and Romania, which do not have a national coat of arms in the center, and the flag of Moldova, which does bear a national emblem<br>
 
 **National symbol(s)**<br>
@@ -486,7 +483,7 @@ the media scene is partly shaped by the proximity to France and Spain; Andorrans
 .ad<br>
 
 **Internet users**<br>
-_percent of population_: 94% (2022 est.)<br>
+_percent of population_: 95% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 42,000 (2023 est.)<br>

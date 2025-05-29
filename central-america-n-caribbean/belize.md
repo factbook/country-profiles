@@ -369,8 +369,8 @@ _FAX_: (501) 822-4012<br>
 _email address and website_: <br>ACSBelize@state.gov<br><br>https://bz.usembassy.gov/<br>
 
 **Flag description**<br>
-royal blue with a narrow red stripe along the top and the bottom edges; centered is a large white disk bearing the coat of arms; the coat of arms features a shield flanked by two workers in front of a mahogany tree with the related motto SUB UMBRA FLOREO (I Flourish in the Shade) on a scroll at the bottom, all encircled by a green garland of 50 mahogany leaves; the colors are those of the two main political parties: blue for the PUP and red for the UDP; various elements of the coat of arms - the figures, the tools, the mahogany tree, and the garland of leaves - recall the logging industry that led to British settlement of Belize<br>
-<strong>note:</strong> Belize's flag is the only national flag that depicts human beings; two British overseas territories, Montserrat and the British Virgin Islands, also depict humans<br>
+royal blue with a narrow red stripe along the top and the bottom edges; a large white disk bears the coat of arms at the center, which features a shield flanked by two workers in front of a mahogany tree with the motto SUB UMBRA FLOREO (I Flourish in the Shade) on a scroll at the bottom, all encircled by a green garland of 50 mahogany leaves; the figures, the tools, the mahogany tree, and the garland refer to the logging industry that led to British settlement of Belize; blue and red are the colors of the two main political parties<br>
+<strong>note:</strong> Belize has the only national flag that depicts humans; the flags of two British overseas territories, Montserrat and the British Virgin Islands, also depict humans<br>
 
 **National symbol(s)**<br>
 Baird's tapir (a large, browsing, forest-dwelling mammal), keel-billed toucan, Black Orchid; national colors: red, blue<br>
@@ -587,7 +587,7 @@ _subscriptions per 100 inhabitants_: 66 (2021 est.)<br>
 .bz<br>
 
 **Internet users**<br>
-_percent of population_: 70% (2022 est.)<br>
+_percent of population_: 72% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 39,000 (2022 est.)<br>

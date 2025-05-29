@@ -300,7 +300,7 @@ _chief of state_: King CHARLES III (since 8 September 2022); represented by Gove
 _head of government_: Prime Minister Feleti Penitala TEO (since 27 February 2024)<br>
 _cabinet_: Cabinet appointed by the governor general on recommendation of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on recommendation of the prime minister; prime minister and deputy prime minister elected by and from members of House of Assembly following parliamentary elections<br>
-_election results_: <em>2024: </em>TEO was the only candidate nominated by the House of Assembly<em><br><br>2019: </em>Kausea NATANO elected prime minister by House of Assembly; House of Assembly vote - 10 to 6<br>
+_election results_: <em><br>2024: </em>TEO was the only candidate nominated by the House of Assembly<em><br><br>2019: </em>Kausea NATANO elected prime minister by House of Assembly; House of Assembly vote - 10 to 6<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Palamene)<br>
@@ -483,7 +483,7 @@ no TV stations; many households use satellite dishes to watch foreign TV; 1 stat
 .tv<br>
 
 **Internet users**<br>
-_percent of population_: 81% (2022 est.)<br>
+_percent of population_: 74% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 0 (2022 est.)<br>

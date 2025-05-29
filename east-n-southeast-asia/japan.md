@@ -210,9 +210,6 @@ _total_: 20.1% (2020 est.)<br>
 _male_: 30.1% (2020 est.)<br>
 _female_: 10% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 46.8% (2023 est.)<br>
 
@@ -329,7 +326,8 @@ _chief of state_: Emperor NARUHITO (since 1 May 2019)<br>
 _head of government_: Prime Minister Shigeru ISHIBA (since 1 October 2024)<br>
 _cabinet_: Cabinet appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; the leader of the majority party or majority coalition in the House of Representatives usually becomes prime minister<br>
-_election results_: <em>2024: </em>Shigeru ISHIBA (LDP) elected prime minister on 27 September 2024; upper house vote - 143 of 242 votes; lower house vote - 291 of 461 votes (note - ISHIBA resigned as prime minister on 11 November 2024 following parliamentary elections but was re-elected over Yoshihiko NODA (CDP) in the second round of voting in the lower house, 221-160)<br><br><em>2021:</em> Fumio KISHIDA reelected prime minister on 10 November 2021; upper house vote - Fumio KISHIDA (LDP) 141, Yukio EDANO (CDP) 60; lower house vote - Fumio KISHIDA 297, Yukio EDANO 108<br>
+_election results_: <em><br>2024: </em>Shigeru ISHIBA (LDP) elected prime minister on 27 September 2024; upper house vote - 143 of 242 votes; lower house vote - 291 of 461 votes<br><br><em>2021:</em> Fumio KISHIDA reelected prime minister on 10 November 2021; upper house vote - Fumio KISHIDA (LDP) 141, Yukio EDANO (CDP) 60; lower house vote - Fumio KISHIDA 297, Yukio EDANO 108<br>
+<strong>note:</strong> Shigeru ISHIBA resigned as prime minister on 11 November 2024 after legislative elections but was re-elected in the second round of voting in the lower house<br>
 
 **Legislative branch**<br>
 _legislature name_: National Diet (Kokkai)<br>
@@ -628,7 +626,7 @@ a mix of public and commercial TV and radio stations; 5 national terrestrial TV 
 .jp<br>
 
 **Internet users**<br>
-_percent of population_: 85% (2022 est.)<br>
+_percent of population_: 87% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 47.9 million (2023 est.)<br>

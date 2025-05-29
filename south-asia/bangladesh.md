@@ -371,7 +371,7 @@ _FAX_: [880] (2) 5566-2907<br>
 _email address and website_: <br>DhakaACS@state.gov<br><br>https://bd.usembassy.gov/<br>
 
 **Flag description**<br>
-green field with a large red disk shifted slightly to the hoist side of center; the red disk represents the rising sun and the sacrifice to achieve independence; the green field symbolizes the lush vegetation of Bangladesh<br>
+green field with a large red disk shifted slightly to the hoist side; the red disk represents the rising sun and the sacrifice to achieve independence; the green field symbolizes the lush vegetation of Bangladesh<br>
 
 **National symbol(s)**<br>
 Bengal tiger, water lily; national colors: green, red<br>

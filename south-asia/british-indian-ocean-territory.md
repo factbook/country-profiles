@@ -124,7 +124,7 @@ none (overseas territory of the UK)<br>
 _embassy_: none (overseas territory of the UK)<br>
 
 **Flag description**<br>
-white with six blue wavy horizontal stripes; the flag of the UK is in the upper hoist-side quadrant; the striped section bears a palm tree and yellow crown (the symbols of the territory) centered on the outer half of the flag; the wavy stripes represent the Indian Ocean; although not officially described, the six blue stripes may stand for the six main atolls of the archipelago<br>
+white with six blue, wavy, horizontal stripes; the UK flag is in the upper hoist-side quadrant; the striped section has a palm tree and yellow crown (the symbols of the territory) centered on the outer half of the flag; the wavy stripes represent the Indian Ocean; although not officially described, the six blue stripes may stand for the six main atolls of the archipelago<br>
 
 **National anthem**<br>
 <strong>note:</strong> as an overseas territory of the United Kingdom, "God Save the King" is official (see United Kingdom)<br>

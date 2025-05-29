@@ -201,9 +201,6 @@ _total_: 14.9% (2020 est.)<br>
 _male_: 25.3% (2020 est.)<br>
 _female_: 4.5% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 43.8% (2023 est.)<br>
 
@@ -372,7 +369,7 @@ _FAX_: [973] 17-272594<br>
 _email address and website_: <br>ManamaConsular@state.gov<br><br>https://bh.usembassy.gov/<br>
 
 **Flag description**<br>
-red, the traditional color for flags of Persian Gulf states, with a white serrated band (five white points) on the hoist side; the five points represent the five pillars of Islam<br>
+red, the traditional color for flags of Persian Gulf states, with a white serrated band of five white points on the hoist side; the five points represent the five pillars of Islam<br>
 <strong>note:</strong> until 2002, the flag had eight white points, but this was reduced to five to avoid confusion with the Qatari flag<br>
 
 **National symbol(s)**<br>

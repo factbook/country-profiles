@@ -337,8 +337,8 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Andrzej DUDA (since 6 August 2015)<br>
 _head of government_: Prime Minister Donald TUSK (since 11 December 2023)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, appointed by the president, and approved by the Sejm<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 June 2020 with a second round on 12 July 2020 (next to be held on 18 May 2025); prime minister, deputy prime ministers, and Council of Ministers appointed by the president and confirmed by the Sejm; all presidential candidates resign their party affiliation<br>
-_election results_: <br><em>2020:</em> Andrzej DUDA reelected president in second round; percent of vote - Andrzej DUDA (independent) 51%, Rafal TRZASKOWSKI (KO) 49%<br><em><br>2015:</em> Andrzej DUDA elected president in second round; percent of vote - Andrzej DUDA (independent) 51.5%, Bronislaw KOMOROWSKI (independent) 48.5% <p> </p><br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election held on 18 May 2025 first round with the second round to be held on 1 June 2025; prime minister, deputy prime ministers, and Council of Ministers appointed by the president and confirmed by the Sejm; all presidential candidates resign their party affiliation<br>
+_election results_: <br>2025: First round Rafal TRZASKOWSKI (KO) 31.4%, Karol NAWROCKI 29.5% (PiS), Slawomir MENTZEN 14.8%, Grzegorz BRAUN 6.3%, and Szymon HOLOWNIA 5.0%; second round to be held on 1 June 2025; <br><br><em>2020:</em> Andrzej DUDA reelected president in second round; percent of vote - Andrzej DUDA (independent) 51%, Rafal TRZASKOWSKI (KO) 49%<br><em><br>2015:</em> Andrzej DUDA elected president in second round; percent of vote - Andrzej DUDA (independent) 51.5%, Bronislaw KOMOROWSKI (independent) 48.5% <p> </p><br>
 
 **Legislative branch**<br>
 _legislative structure_: bicameral<br>

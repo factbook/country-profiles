@@ -173,9 +173,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 22.5% (2023 est.)<br>
 
@@ -263,7 +260,7 @@ _chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by 
 _head of government_: President of the Government Alcide PONGA (since 8 January 2025)<br>
 _cabinet_: Cabinet elected from and by the Territorial Congress<br>
 _elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; president of New Caledonia elected by Territorial Congress for a 5-year term (no term limits); election last held on 8 July 2021 (next to be held in 2026)<br>
-_election results_: <em>2025: </em>Alcide PONGA (The Republicans) elected president by Territorial Congress with 6 of 11 votes<em><br><br>2021:</em> Louis MAPOU (PALIKA) elected president by Territorial Congress with 6 of 11 votes<br><br><em>2019: </em>Thierry SANTA (The Republicans) elected president by Territorial Congress with 6 of 11 votes<br>
+_election results_: <em><br>2025: </em>Alcide PONGA (The Republicans) elected president by Territorial Congress with 6 of 11 votes<em><br><br>2021:</em> Louis MAPOU (PALIKA) elected president by Territorial Congress with 6 of 11 votes<br>
 
 **Legislative branch**<br>
 _legislature name_: Territorial Congress (Congr&egrave;s du Territoire)<br>

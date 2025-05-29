@@ -209,7 +209,7 @@ _male_: 17.9% (2020 est.)<br>
 _female_: 0.9% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-12.8% (2016)<br>
+14% (2021)<br>
 
 **Currently married women (ages 15-49)**<br>
 60.3% (2023 est.)<br>
@@ -389,8 +389,8 @@ _FAX_: [225] 27-22-49-43-23<br>
 _email address and website_: <br>AbjAmCit@state.gov<br><br>https://ci.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal vertical bands of orange (hoist side), white, and green; orange symbolizes the land (savannah) of the north and fertility, white stands for peace and unity, green represents the forests of the south and the hope for a bright future<br>
-<strong>note:</strong> similar to the flag of Ireland, which is longer and has the colors reversed - green (hoist side), white, and orange; also similar to the flag of Italy, which is green (hoist side), white, and red; design was based on the flag of France<br>
+three equal vertical bands of orange (hoist side), white, and green; orange stands for the savannah and fertility, white for peace and unity, green for the forests of the south and the hope for a bright future; design based on France's flag<br>
+<strong>note:</strong> similar to the flag of Ireland, which is longer and has the colors reversed -- green (hoist side), white, and orange; also similar to the flag of Italy, which is green (hoist side), white, and red<br>
 
 **National symbol(s)**<br>
 elephant; national colors: orange, white, green<br>
@@ -624,7 +624,7 @@ state-controlled Radiodiffusion T&eacute;l&eacute;vision Ivoirienne (RTI) is mad
 .ci<br>
 
 **Internet users**<br>
-_percent of population_: 38% (2022 est.)<br>
+_percent of population_: 41% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 425,000 (2023 est.)<br>

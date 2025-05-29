@@ -294,7 +294,7 @@ _chief of state_: President Salva KIIR Mayardit (since 9 July 2011)<br>
 _head of government_: President Salva KIIR Mayardit (since 9 July 2011)<br>
 _cabinet_: National Council of Ministers appointed by the president, approved by the Transitional National Legislative Assembly<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 11 to 15 April 2010 (next election was scheduled for 2015 but has been postponed multiple times, currently to be held in December 2026)<br>
-_election results_: <em>2010:</em> Salva KIIR Mayardit elected leader of then-Southern Sudan; percent of vote - Salva KIIR Mayardit (SPLM) 93%, Lam AKOL (SPLM-DC) 7%<br>
+_election results_: <em><br>2010:</em> Salva KIIR Mayardit elected leader of then-Southern Sudan; percent of vote - Salva KIIR Mayardit (SPLM) 93%, Lam AKOL (SPLM-DC) 7%<br>
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -548,7 +548,7 @@ _subscriptions per 100 inhabitants_: 30 (2022 est.)<br>
 .ss<br>
 
 **Internet users**<br>
-_percent of population_: 12% (2022 est.)<br>
+_percent of population_: 9% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 0 (2023 est.)<br>

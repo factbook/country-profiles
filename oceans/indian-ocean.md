@@ -82,6 +82,8 @@ _etymology_: named for the country of India, which makes up much of its northern
 
 ## Economy
 
+## Communications
+
 ## Transportation
 
 ## Military and Security

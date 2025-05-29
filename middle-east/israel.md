@@ -206,9 +206,6 @@ _total_: 21.2% (2020 est.)<br>
 _male_: 28.9% (2020 est.)<br>
 _female_: 13.5% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 51.7% (2023 est.)<br>
 
@@ -610,7 +607,7 @@ the Israel Broadcasting Corporation (IBC) has 3 channels, two in Hebrew and one 
 .il<br>
 
 **Internet users**<br>
-_percent of population_: 92% (2022 est.)<br>
+_percent of population_: 87% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2.76 million (2023 est.)<br>

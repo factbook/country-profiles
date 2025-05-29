@@ -168,9 +168,6 @@ _improved: total_: total: 95.6% of population<br>
 _unimproved: urban_: urban: 4.4% of population<br>
 _unimproved: total_: total: 4.4% of population (2015 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 51.4% (2023 est.)<br>
 
@@ -286,7 +283,7 @@ none (overseas territory of the UK)<br>
 _embassy_: none (overseas territory of the UK); consular services provided through the US Embassy in Jamaica<br>
 
 **Flag description**<br>
-a blue field with the flag of the UK in the upper hoist-side quadrant and the Caymanian coat of arms centered on the outer half of the flag; the coat of arms includes a crest with a pineapple, representing the connection with Jamaica, and a turtle, representing Cayman's seafaring tradition, above a shield bearing a golden lion, symbolizing Great Britain, below which are three green stars (representing the three islands) surmounting white and blue wavy lines representing the sea; a scroll below the shield bears the motto HE HATH FOUNDED IT UPON THE SEAS<br>
+a blue field with the UK flag in the upper hoist-side quadrant and the Caymanian coat of arms centered on the outer half of the flag; the coat of arms includes a crest with a pineapple (representing ties to Jamaica) and a turtle (representing Cayman's seafaring tradition) above a shield bearing a golden lion (symbolizing Great Britain); below are three green stars (representing the three islands) over white and blue wavy lines representing the sea; a scroll below the shield bears the motto HE HATH FOUNDED IT UPON THE SEAS<br>
 
 **National symbol(s)**<br>
 green sea turtle<br>

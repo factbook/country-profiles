@@ -316,7 +316,7 @@ _chief of state_: President Jos&eacute; RAMOS-HORTA (since 20 May 2022)<br>
 _head of government_: Prime Minister Kay Rala Xanana GUSMAO (since 1 July 2023)<br>
 _cabinet_: Council of Ministers; ministers proposed to the prime minister by the coalition in the Parliament and sworn in by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last election held on 19 March 2022, with a runoff on 19 April 2022 (next to be held in April 2027); following parliamentary elections, the president appoints the leader of the majority party or majority coalition as the prime minister<br>
-_election results_: <em>2022</em>: José RAMOS-HORTA elected president in second round - RAMOS-HORTA (CNRT) 62.1%, Francisco GUTERRES (FRETILIN) 37.9%<br><em><br>2017</em>: Francisco GUTERRES elected president; Francisco GUTERRES (FRETILIN) 57.1%, António da CONCEICAO (PD) 32.5%, other 10.4%<br>
+_election results_: <em><br>2022</em>: José RAMOS-HORTA elected president in second round - RAMOS-HORTA (CNRT) 62.1%, Francisco GUTERRES (FRETILIN) 37.9%<br><em><br>2017</em>: Francisco GUTERRES elected president; Francisco GUTERRES (FRETILIN) 57.1%, António da CONCEICAO (PD) 32.5%, other 10.4%<br>
 <strong>note:</strong> the president is commander in chief of the military and can veto legislation, dissolve parliament, and call national elections<br>
 
 **Legislative branch**<br>
@@ -572,7 +572,7 @@ _subscriptions per 100 inhabitants_: 110 (2022 est.)<br>
 .tl<br>
 
 **Internet users**<br>
-_percent of population_: 41% (2022 est.)<br>
+_percent of population_: 34% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 0 (2023 est.)<br>

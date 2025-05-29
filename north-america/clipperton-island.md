@@ -99,6 +99,8 @@ the flag of France is used<br>
 
 ## Economy
 
+## Communications
+
 ## Transportation
 
 ## Military and Security

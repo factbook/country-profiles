@@ -366,7 +366,7 @@ _FAX_: [53] (7) 839-4247<br>
 _email address and website_: <br>acshavana@state.gov<br><br>https://cu.usembassy.gov/<br>
 
 **Flag description**<br>
-five equal horizontal bands of blue (top, center, and bottom) alternating with white; a red equilateral triangle based on the hoist side bears a white, five-pointed star in the center; the blue bands refer to the three old divisions of the island: central, occidental, and oriental; the white bands describe the purity of the independence ideal; the triangle symbolizes liberty, equality, and fraternity, while the red color stands for the blood shed in the independence struggle; the white star, called La Estrella Solitaria (the Lone Star) lights the way to freedom and was taken from the flag of Texas<br>
+five equal horizontal bands of blue (top, center, and bottom) alternating with white; a red equilateral triangle based on the hoist side has a white, five-pointed star in the center; the blue bands refer to the three former divisions of the island: central, occidental, and oriental; the white bands stand for the purity of the independence ideal; the triangle symbolizes liberty, equality, and fraternity; the red color stands for the blood shed in the independence struggle; the white star, called La Estrella Solitaria (the Lone Star) lights the way to freedom and was inspired by the flag of Texas<br>
 <strong>note:</strong> design similar to the Puerto Rican flag, with the colors of the bands and triangle reversed<br>
 
 **National symbol(s)**<br>
@@ -571,7 +571,7 @@ government owns and controls all broadcast media: 8 national TV channels (Cubavi
 .cu<br>
 
 **Internet users**<br>
-_percent of population_: 73% (2022 est.)<br>
+_percent of population_: 71% (2023 est.)<br>
 <strong>note:</strong> private citizens are prohibited from buying computers or accessing the Internet without special authorization; foreigners may access the Internet in large hotels but are subject to firewalls; some Cubans buy illegal passwords on the black market or take advantage of public outlets to access limited email and the government-controlled "intranet"; issues relating to COVID-19 impact research into internet adoption, so actual internet user figures may be different than published numbers suggest<br>
 
 **Broadband - fixed subscriptions**<br>

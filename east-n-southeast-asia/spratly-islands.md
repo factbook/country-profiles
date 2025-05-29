@@ -84,6 +84,8 @@ _etymology_: named after British whaling captain Richard SPRATLY, who sighted th
 
 ## Economy
 
+## Communications
+
 ## Transportation
 
 ## Military and Security

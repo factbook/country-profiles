@@ -280,7 +280,7 @@ _chief of state_: co-chiefs of state Captains Regent Denise BRONZETTI and Italo 
 _head of government_: Secretary of State for Foreign and Political Affairs Luca BECCARI (since 8 January 2020)<br>
 _cabinet_: Congress of State elected by the Grand and General Council<br>
 _elections/appointments_: co-chiefs of state (captains regent) indirectly elected by the Grand and General Council for a single 6-month term; election last held on 1 April 2025 (next to be held in September 2025); Secretary of State for Foreign and Political Affairs indirectly elected by the Grand and General Council for a single 5-year term; election last held on 28 December 2019<br>
-_election results_: <em>April 2025</em>:  Denise BRONZETTI (Reformist Alliance) and Italo RIGHI (Christian Democrat) elected captains regent: percent of Grand and General Council vote - NA<br><br><em>October 2024</em>:  Francesca CIVERCHIA (PDCS) and Dalibor RICCARDI (Free San Marino) elected captains regent; percent of Grand and General Council vote - NA<br><em><br>March 2024:  </em>Alessandro ROSSI (Demos) and Milena GASPERONI (We for the Republic) elected captains regent; percent of Grand and General Council vote - NA<br><br><em>2019:</em> Luca BECCARI (PDCS) elected Secretary of State for Foreign and Political Affairs; percent of Grand and General Council vote - NA<br>
+_election results_: <em><br>2025</em>: Denise BRONZETTI (Reformist Alliance) and Italo RIGHI (Christian Democrat) elected captains regent: percent of Grand and General Council vote - NA<br><br><em>2024</em>: Francesca CIVERCHIA (PDCS) and Dalibor RICCARDI (Free San Marino) elected captains regent; percent of Grand and General Council vote - NA<br><br><em>2019:</em> Luca BECCARI (PDCS) elected Secretary of State for Foreign and Political Affairs; percent of Grand and General Council vote - NA<br>
 <strong>note:</strong> the captains regent preside over meetings of the Grand and General Council and its cabinet (Congress of State), which has seven other members who are selected by the Grand and General Council; assisting the captains regent are seven secretaries of state; the secretary of state for Foreign Affairs has some prime ministerial roles<br>
 
 **Legislative branch**<br>
@@ -493,7 +493,7 @@ state-owned public broadcaster operates 1 TV station and 3 radio stations; recei
 .sm<br>
 
 **Internet users**<br>
-_percent of population_: 85% (2022 est.)<br>
+_percent of population_: 87% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 12,000 (2022 est.)<br>

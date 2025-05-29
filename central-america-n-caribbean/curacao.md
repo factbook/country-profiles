@@ -163,9 +163,6 @@ NA<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 49.7% (2023 est.)<br>
 
@@ -291,7 +288,7 @@ _FAX_: [599] (9) 461-6489<br>
 _email address and website_: <br>ACSCuracao@state.gov<br><br>https://cw.usconsulate.gov/<br>
 
 **Flag description**<br>
-on a blue field a horizontal yellow band somewhat below the center divides the flag into proportions of 5:1:2; two five-pointed white stars - the smaller above and to the left of the larger - appear in the canton; the blue of the upper and lower sections symbolizes the sky and sea respectively; yellow represents the sun; the stars symbolize Curacao and its uninhabited smaller sister island of Klein Curacao; the five star points signify the five continents from which Curacao's people derive<br>
+on a blue field, a horizontal yellow band below the center divides the flag; two five-pointed white stars -- the smaller above and to the left of the larger -- appear in the upper left; the blue stands for the sky and sea, and yellow for the sun; the stars symbolize Curacao and its uninhabited sister island of Klein Curacao; the five star points signify the five continents from which Curacao's people originate<br>
 
 **National symbol(s)**<br>
 laraha (citrus tree); national colors: blue, yellow, white<br>

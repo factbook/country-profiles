@@ -209,9 +209,6 @@ _total_: 24% (2020 est.)<br>
 _male_: 47.9% (2020 est.)<br>
 _female_: 0.1% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-4.9% (2013)<br>
-
 **Currently married women (ages 15-49)**<br>
 62.9% (2023 est.)<br>
 
@@ -328,7 +325,6 @@ _head of government_: Prime Minister Ali ASADOV (since 8 October 2019)<br>
 _cabinet_: Council of Ministers appointed by the president and confirmed by the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds (if needed) for a 7-year term; a single individual is eligible for unlimited terms; election last held on 7 February 2024 (next to be held in 2031); prime minister and first deputy prime minister appointed by the president and confirmed by the National Assembly<br>
 _election results_: <em><br>2024: </em>Ilham ALIYEV reelected president; percent of vote - Ilham ALIYEV (YAP) 92.1%, Zahid ORUJ (independent) 2.2%<em>; </em>on 16 February 2024, Ali ASADOV reappointed prime minister by parliamentary vote, 105-1<em><br><br>2018:</em> Ilham ALIYEV reelected president in first round; percent of vote - Ilham ALIYEV (YAP) 86%, Zahid ORUJ (independent) 3.1%, other 10.9%<br>
-<strong>note:</strong> OSCE observers noted shortcomings in the election, including a restrictive political environment, limits on fundamental freedoms, a lack of genuine competition, and ballot box stuffing<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Milli Majlis)<br>
@@ -370,7 +366,7 @@ _FAX_: [994] (12) 488-3330<br>
 _email address and website_: <br>BakuACS@state.gov<br><br>https://az.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of sky blue (top), red, and green; a vertical crescent moon and an eight-pointed star in white are centered in the red band; the blue band recalls Azerbaijan's Turkic heritage, red stands for modernization and progress, and green refers to Islam; the crescent moon and star are a Turkic insignia; the eight star points represent the eight Turkic peoples of the world<br>
+three equal horizontal bands of sky blue (top), red, and green; a vertical crescent moon and an eight-pointed star in white are centered in the red band; the blue band stands for Azerbaijan's Turkic heritage, red for modernization and progress, and green for Islam; the crescent moon and star are a Turkic insignia; the eight star points represent the eight Turkic peoples of the world<br>
 
 **National symbol(s)**<br>
 flames of fire; national colors: blue, red, green<br>
@@ -604,7 +600,7 @@ TV is the most popular medium; many homes are hooked up to satellite; all Azerba
 .az<br>
 
 **Internet users**<br>
-_percent of population_: 88% (2022 est.)<br>
+_percent of population_: 89% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2.15 million (2023 est.)<br>

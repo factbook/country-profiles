@@ -354,7 +354,7 @@ _FAX_: (246) 431-0179<br>
 _email address and website_: <br>bridgetownpublicaffairs@state.gov<br><br>https://bb.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal vertical bands of ultramarine blue (hoist side), gold, and ultramarine blue with the head of a black trident centered on the gold band; the band colors represent the blue of the sea and sky and the gold of the beaches; the trident head represents independence and a break with the past (the colonial coat of arms contained a complete trident)<br>
+three equal vertical bands of ultramarine blue (hoist side), gold, and ultramarine blue with the head of a black trident centered on the gold band; the band colors represent the blue of the sea and sky and the gold of the beaches; the trident head represents independence and a break with the past&nbsp;<br>
 
 **National symbol(s)**<br>
 Neptune's trident, pelican, Red Bird of Paradise flower (also known as Pride of Barbados); national colors: blue, yellow, black<br>
@@ -572,7 +572,7 @@ government-owned Caribbean Broadcasting Corporation (CBC) operates the lone terr
 .bb<br>
 
 **Internet users**<br>
-_percent of population_: 76% (2022 est.)<br>
+_percent of population_: 80% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 106,000 (2022 est.)<br>

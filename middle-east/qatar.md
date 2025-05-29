@@ -586,7 +586,7 @@ state-controlled TV and radio licensing and access to local media markets; home 
 .qa<br>
 
 **Internet users**<br>
-_percent of population_: 100% (2022 est.)<br>
+_percent of population_: 100% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 347,000 (2023 est.)<br>

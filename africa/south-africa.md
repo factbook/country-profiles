@@ -337,8 +337,8 @@ _residency requirement for naturalization_: 5 year<br>
 _chief of state_: President Matamela Cyril RAMAPHOSA (since 19 June 2024)<br>
 _head of government_: President Matamela Cyril RAMAPHOSA (since 19 June 2024)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 29 May 2024 (next to be held in May 2029)&nbsp;<br>
-_election results_: <br><em>2024: </em>Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<em><br><br>2019: </em>Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<br><br>  <p> </p><br>
+_elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 29 May 2024 (next to be held in May 2029)<br>
+_election results_: <br><em>2024: </em>Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<em><br><br>2019: </em>Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -648,7 +648,7 @@ the South African Broadcasting Corporation (SABC) operates 6 free-to-air TV stat
 .za<br>
 
 **Internet users**<br>
-_percent of population_: 75% (2022 est.)<br>
+_percent of population_: 76% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2.15 million (2023 est.)<br>

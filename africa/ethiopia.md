@@ -217,7 +217,7 @@ _male_: 8.8% (2020 est.)<br>
 _female_: 1.3% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-21.1% (2019)<br>
+21.2% (2019)<br>
 
 **Currently married women (ages 15-49)**<br>
 67.5% (2023 est.)<br>
@@ -350,7 +350,7 @@ _chief of state_: President TAYE Atske Selassie (since 7 October 2024)<br>
 _head of government_: Prime Minister ABIY Ahmed Ali (since April 2018)<br>
 _cabinet_: Council of Ministers selected by the prime minister and approved by the House of People's Representatives<br>
 _elections/appointments_: president indirectly elected by both chambers of Parliament for a 6-year term (eligible for a second term); election held on 21 June 2021 and 30 September 2021 (the scheduled 29 August 2020 election was postponed by Prime Minister ABIY due to the COVID-19 pandemic); prime minister designated by the majority party following legislative elections<br>
-_election results_: <em><br>2021:</em> SAHLE-WORK Zewde reelected president during joint session of Parliament, vote - 659 (unanimous); ABIY confirmed Prime Minister by House of Peoples' Representatives (4 October 2021)<br><br><em>2018:</em> SAHLE-WORK Zewde elected president during joint session of Parliament, vote - 659 (unanimous); note - snap election held on 25 October 2018 due to resignation of President MULATA Teshome<br>
+_election results_: <em><br>2021:</em> SAHLE-WORK Zewde reelected president during joint session of Parliament, vote - 659 (unanimous); ABIY confirmed Prime Minister by House of Peoples' Representatives (4 October 2021)<br><br><em>2018:</em> SAHLE-WORK Zewde elected president during joint session of Parliament, vote - 659 (unanimous); snap election held on 25 October 2018 due to resignation of President MULATA Teshome<br>
 
 **Legislative branch**<br>
 _legislative structure_: bicameral<br>
@@ -647,7 +647,7 @@ _subscriptions per 100 inhabitants_: 56 (2022 est.)<br>
 .et<br>
 
 **Internet users**<br>
-_percent of population_: 19% (2022 est.)<br>
+_percent of population_: 17% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 566,000 (2022 est.)<br>

@@ -378,8 +378,8 @@ _email address and website_: <br>sarajevoACS@state.gov<br><br>https://ba.usembas
 _branch office(s)_: Banja Luka, Mostar<br>
 
 **Flag description**<br>
-a wide blue vertical band on the fly side with a yellow isosceles triangle abutting the band and the top of the flag; the remainder of the flag is blue with seven full five-pointed white stars and two half stars top and bottom along the hypotenuse of the triangle; the triangle approximates the shape of the country and its three points stand for the constituent peoples - Bosniaks, Croats, and Serbs; the stars represent Europe and are meant to be continuous (thus the half stars at top and bottom); the colors (white, blue, and yellow) are often associated with neutrality and peace, and traditionally are linked with Bosnia<br>
-<strong>note:</strong> one of several flags where a prominent component of the design reflects the shape of the country; other such flags are those of Brazil, Eritrea, and Vanuatu<br>
+a wide blue vertical band on the fly side, with a yellow isosceles triangle; the rest of the flag is blue with seven five-pointed white stars and two half-stars along the hypotenuse of the triangle; the triangle approximates the shape of the country, and its three points stand for the Bosniaks, Croats, and Serbs; the stars represent Europe; the colors (white, blue, and yellow) are traditional to Bosnia and are also associated with neutrality and peace<br>
+<strong>note:</strong> one of four national flags that reflect the shape of the country in the flag design; the others are Brazil, Eritrea, and Vanuatu<br>
 
 **National symbol(s)**<br>
 golden lily; national colors: blue, yellow, white<br>

@@ -181,9 +181,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Education expenditures**<br>
 1.2% of GDP (2019 est.)<br>
 
@@ -421,7 +418,7 @@ TV Monte-Carlo operates a TV network; cable TV available; Radio Monte-Carlo has 
 .mc<br>
 
 **Internet users**<br>
-_percent of population_: 98% (2022 est.)<br>
+_percent of population_: 99% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 22,000 (2023 est.)<br>

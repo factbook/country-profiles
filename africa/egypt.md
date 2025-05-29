@@ -218,9 +218,6 @@ _total_: 24.3% (2020 est.)<br>
 _male_: 48.1% (2020 est.)<br>
 _female_: 0.4% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-7% (2014)<br>
-
 **Currently married women (ages 15-49)**<br>
 71.1% (2023 est.)<br>
 
@@ -652,7 +649,7 @@ mix of state-run and private broadcast media; state-run TV operates 2 national a
 .eg<br>
 
 **Internet users**<br>
-_percent of population_: 72% (2022 est.)<br>
+_percent of population_: 73% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 13.6 million (2023 est.)<br>

@@ -336,7 +336,7 @@ _subscriptions per 100 inhabitants_: 52 (2021 est.)<br>
 .nu<br>
 
 **Internet users**<br>
-_percent of population_: 79.6% (2021 est.)<br>
+_percent of population_: 80% (2024 est.)<br>
 
 ## Transportation
 

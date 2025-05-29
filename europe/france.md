@@ -225,9 +225,6 @@ _total_: 33.4% (2020 est.)<br>
 _male_: 34.9% (2020 est.)<br>
 _female_: 31.9% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 54.8% (2023 est.)<br>
 
@@ -407,7 +404,7 @@ _email address and website_: <br>info@ambafrance-us.org<br><br>https://franceint
 _consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New Orleans, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires David R. McCAWLEY (since January 2025); note - also accredited to Monaco)<br>
+_chief of mission_: Ambassador-designate Charles KUSHNER (since May 2025); Charg&eacute; d'Affaires David R. McCAWLEY (since January 2025); note - also accredited to Monaco)<br>
 _embassy_: 2 avenue Gabriel, 75008 Paris<br>
 _mailing address_: 9200 Paris Place, Washington DC&nbsp; 20521-9200<br>
 _telephone_: [33] (1) 43-12-22-22, [33] (1) 42-66-97-83<br>

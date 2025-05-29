@@ -200,9 +200,6 @@ _total_: 16.2% (2020 est.)<br>
 _male_: 30% (2020 est.)<br>
 _female_: 2.3% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 54.3% (2023 est.)<br>
 
@@ -355,7 +352,7 @@ _FAX_: (673) 238-7533<br>
 _email address and website_: <br>ConsularBrunei@state.gov<br><br>https://bn.usembassy.gov/<br>
 
 **Flag description**<br>
-yellow with two diagonal bands of white (top, almost double width) and black starting from the upper hoist side; the national emblem in red is superimposed at the center; yellow is the color of royalty and symbolizes the sultanate; the white and black bands denote Brunei's chief ministers; the emblem includes five main components: a swallow-tailed flag, the royal umbrella representing the monarchy, the wings of four feathers symbolizing justice, tranquility, prosperity, and peace, the two upraised hands signifying the government's pledge to preserve and promote the welfare of the people, and the crescent moon denoting Islam, the state religion; the state motto "Always render service with God's guidance" appears in yellow Arabic script on the crescent; a ribbon below the crescent reads "Brunei, the Abode of Peace"<br>
+yellow with two diagonal bands of white and black starting from the upper hoist side; the national emblem in red is at the center; yellow symbolizes the sultanate, and the white and black bands stand for the chief ministers; the emblem includes a swallow-tailed flag, a royal umbrella representing the monarchy, two wings with four feathers (justice, tranquility, prosperity, and peace), two upraised hands signifying the government's pledge to preserve and promote the welfare of the people, and the&nbsp; crescent moon of Islam (the state religion); the state motto "Always render service with God's guidance" appears in yellow Arabic script on the crescent; a ribbon below the crescent reads "Brunei, the Abode of Peace"<br>
 
 **National symbol(s)**<br>
 royal parasol; national colors: yellow, white, black<br>
@@ -559,7 +556,7 @@ state-controlled Radio Television Brunei (RTB) operates 5 channels; 3 Malaysian 
 .bn<br>
 
 **Internet users**<br>
-_percent of population_: 99% (2022 est.)<br>
+_percent of population_: 99% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 93,000 (2023 est.)<br>

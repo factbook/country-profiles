@@ -160,9 +160,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 53.5% (2023 est.)<br>
 
@@ -247,7 +244,7 @@ _chief of state_: President of China XI Jinping (since 14 March 2013)<br>
 _head of government_: Chief Executive Sam Hou FAI (since 20 December 2024)<br>
 _cabinet_: Executive Council appointed by the chief executive<br>
 _elections/appointments_: president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); election last held on 10 March 2023 (next to be held in March 2028); chief executive chosen by a 400-member Election Committee for a 5-year term (eligible for a second term); election last held on 13 October 2024 (next to be held in 2029)<br>
-_election results_: <em>2024:</em> Sam Hou FAI (unopposed; received 394 out of 400 votes)<br><br><em>2019:</em> HO lat Seng (unopposed; received 392 out of 400 votes)<br>
+_election results_: <em><br>2024:</em> Sam Hou FAI (unopposed; received 394 out of 400 votes)<br><br><em>2019:</em> HO lat Seng (unopposed; received 392 out of 400 votes)<br>
 
 **Legislative branch**<br>
 _legislature name_: Legislative Assembly (Regiao Administrativa Especial de Macau)<br>
@@ -484,7 +481,7 @@ local government dominates broadcast media; 2 TV stations operated by the govern
 .mo<br>
 
 **Internet users**<br>
-_percent of population_: 90% (2022 est.)<br>
+_percent of population_: 89% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 212,000 (2023 est.)<br>

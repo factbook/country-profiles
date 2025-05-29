@@ -168,9 +168,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 1.5% of population (2017)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Education expenditures**<br>
 NA<br>
 
@@ -399,7 +396,7 @@ multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey; 
 .je<br>
 
 **Internet users**<br>
-_percent of population_: 93% (2021 est.)<br>
+_percent of population_: 41% (2012 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 39,699 (2020 est.)<br>

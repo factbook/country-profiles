@@ -107,6 +107,8 @@ _refined petroleum consumption_: 2,000 bbl/day (2023 est.)<br>
 _total emissions_: 294,000 metric tonnes of CO2 (2023 est.)<br>
 _from petroleum and other liquids_: 294,000 metric tonnes of CO2 (2023 est.)<br>
 
+## Communications
+
 ## Transportation
 
 **Airports**<br>

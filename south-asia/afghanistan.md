@@ -362,7 +362,7 @@ none<strong><br><br>Note</strong>:  the Afghan Embassy closed in March 2022<br>
 _embassy_: the United States does not maintain a presence in Afghanistan and its diplomatic mission to Afghanistan has relocated to Doha, Qatar<br>
 
 **Flag description**<br>
-three equal vertical bands of black (hoist side), red, and green, with the national emblem in white centered on the red band and slightly overlapping the other 2 bands; the center of the emblem features a mosque with pulpit and flags on either side; below the mosque are Eastern Arabic numerals for the solar year 1298 (1919 in the Gregorian calendar, the year of Afghan independence from the UK); this central image is circled by a border consisting of sheaves of wheat on the left and right, in the upper-center is an Arabic inscription of the Shahada (Muslim creed) below which are rays of the rising sun over the Takbir (Arabic expression meaning "God is great"), and at bottom center is a scroll bearing the name Afghanistan; black signifies the past, red is for the blood shed for independence, and green can represent either hope for the future, agricultural prosperity, or Islam<br>
+three equal vertical bands of black (hoist side), red, and green, with the national emblem in white centered on the red band and slightly overlapping the other bands; the center of the emblem features a mosque with pulpit and flags on either side; below the mosque are Eastern Arabic numerals for the solar year 1298 (1919 in the Gregorian calendar, the year of Afghan independence from the UK); this central image is circled by a border consisting of sheaves of wheat on the left and right; in the upper-center is an Arabic inscription of the Shahada (Muslim creed), below which are rays of the rising sun over the Takbir (Arabic expression meaning "God is great"), and at bottom center is a scroll bearing the name Afghanistan; black signifies the past, red is for the blood shed for independence, and green can represent either hope for the future, agricultural prosperity, or Islam<br>
 <strong>note 1: </strong>the United States has not recognized the Taliban or any other entity as the government of Afghanistan and, accordingly, continues to display the flag of Afghanistan as set forth in the country's constitution of 2004<strong><br><br>note 2:</strong> Afghanistan had more changes to its national flag in the 20th century -- 19 by one count -- than any other country; the colors black, red, and green appeared on most of them<br>
 
 **National symbol(s)**<br>
@@ -585,7 +585,7 @@ under the Taliban, independent media outlets have decreased and are probably sel
 .af<br>
 
 **Internet users**<br>
-_percent of population_: 18% (2020 est.)<br>
+_percent of population_: 18% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 33,000 (2023 est.)<br>

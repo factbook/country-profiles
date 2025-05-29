@@ -201,7 +201,7 @@ _male_: 35.6% (2020 est.)<br>
 _female_: 10.5% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-4.6% (2021) NA<br>
+4.6% (2021)<br>
 
 **Currently married women (ages 15-49)**<br>
 58.8% (2023 est.)<br>
@@ -312,7 +312,7 @@ _chief of state_: President Ratu Naiqama LALABALAVU (since 12 November 2024)<br>
 _head of government_: Prime Minister Sitiveni Ligamamada RABUKA (since 24 December 2022)<br>
 _cabinet_: Cabinet appointed by the prime minister from among members of Parliament and is responsible to Parliament<br>
 _elections/appointments_: president elected by Parliament for a 3-year term (eligible for a second term); election last held on 31 October 2024 (next to be held in 2027); prime minister endorsed by the president<br>
-_election results_: <em>2024: </em>Ratu Naiqama LALABALAVU elected president (People's Alliance) 35 votes, Meli Tora TAVAIQIA (Fiji First) 14 votes<em><br><br>2021:</em> Ratu Wiliame KATONIVERE elected president; Wiliame KATONIVERE (People's Alliance) 28 votes, Teimumu KEPA (SODELPA) 23 votes<br>
+_election results_: <em><br>2024: </em>Ratu Naiqama LALABALAVU elected president (People's Alliance) 35 votes, Meli Tora TAVAIQIA (Fiji First) 14 votes<em><br><br>2021:</em> Ratu Wiliame KATONIVERE elected president; Wiliame KATONIVERE (People's Alliance) 28 votes, Teimumu KEPA (SODELPA) 23 votes<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -581,7 +581,7 @@ Fiji TV, a publicly traded company, operates a free-to-air channel; Digicel Fiji
 .fj<br>
 
 **Internet users**<br>
-_percent of population_: 85% (2022 est.)<br>
+_percent of population_: 79% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 23,000 (2022 est.)<br>

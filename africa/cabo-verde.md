@@ -198,9 +198,6 @@ _total_: 11.4% (2020 est.)<br>
 _male_: 17.3% (2020 est.)<br>
 _female_: 5.4% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 46.9% (2023 est.)<br>
 
@@ -351,7 +348,7 @@ _FAX_: [238] 261-1355<br>
 _email address and website_: <br>PraiaConsular@state.gov<br><br>https://cv.usembassy.gov/<br>
 
 **Flag description**<br>
-five unequal horizontal bands; the top-most band of blue - equal to one half the width of the flag - is followed by three bands of white, red, and white, each equal to 1/12 of the width, and a bottom stripe of blue equal to one quarter of the flag width; a circle of 10 yellow, five-pointed stars is centered on the red stripe and positioned 3/8 of the length of the flag from the hoist side; blue stands for the sea and the sky, the circle of stars represents the 10 major islands united into a nation, the stripes symbolize the road to formation of the country through peace (white) and effort (red)<br>
+five unequal horizontal bands; the top-most band of blue -- equal to half the width of the flag -- is followed by three narrow bands of white, red, and white, and a bottom&nbsp; stripe of blue; a circle of 10 yellow five-pointed stars is centered on the red stripe and sits toward the left side of the flag; blue stands for the sea and sky; the stripes symbolize the country's formation through peace (white) and effort (red); the circle of stars represents the 10 major islands<br>
 
 **National symbol(s)**<br>
 ten, five-pointed, yellow stars; national colors: blue, white, red, yellow<br>
@@ -572,7 +569,7 @@ state-run TV and radio network, plus a growing number of private broadcasters; P
 .cv<br>
 
 **Internet users**<br>
-_percent of population_: 72% (2022 est.)<br>
+_percent of population_: 74% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 38,000 (2023 est.)<br>

@@ -204,9 +204,6 @@ _total_: 21.1% (2020 est.)<br>
 _male_: 22.4% (2020 est.)<br>
 _female_: 19.8% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 51.4% (2023 est.)<br>
 
@@ -598,7 +595,7 @@ long national tradition of operating radio and TV services for pan-European audi
 .lu<br>
 
 **Internet users**<br>
-_percent of population_: 99% (2023 est.)<br>
+_percent of population_: 99% (2024 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 250,000 (2022 est.)<br>

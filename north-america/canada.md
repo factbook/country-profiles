@@ -219,9 +219,6 @@ _total_: 13% (2020 est.)<br>
 _male_: 15.3% (2020 est.)<br>
 _female_: 10.7% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 52.2% (2023 est.)<br>
 
@@ -401,7 +398,7 @@ _consulate(s) general_: Calgary, Halifax, Montreal, Quebec City, Toronto, Vancou
 _consulate(s)_: Winnipeg<br>
 
 **Flag description**<br>
-two vertical bands of red (hoist and fly side, half width) with white square between them; an 11-pointed red maple leaf is centered in the white square; the maple leaf has long been a Canadian symbol<br>
+two vertical bands of red (hoist and fly side, half-width) with white square between them; an 11-pointed red maple leaf, a national symbol, is centered in the white square<br>
 
 **National symbol(s)**<br>
 maple leaf, beaver; national colors: red, white<br>
@@ -647,7 +644,7 @@ _subscriptions per 100 inhabitants_: 91 (2022 est.)<br>
 .ca<br>
 
 **Internet users**<br>
-_percent of population_: 94% (2022 est.)<br>
+_percent of population_: 94% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 17 million (2023 est.)<br>

@@ -210,9 +210,6 @@ _total_: 13.7% (2020 est.)<br>
 _male_: 15% (2020 est.)<br>
 _female_: 12.3% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 57.6% (2023 est.)<br>
 
@@ -600,7 +597,7 @@ state-owned Television New Zealand operates multiple TV networks; state-owned Ra
 .nz<br>
 
 **Internet users**<br>
-_percent of population_: 96% (2022 est.)<br>
+_percent of population_: 96% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1.93 million (2023 est.)<br>

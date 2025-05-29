@@ -202,9 +202,6 @@ _total_: 7.5% (2020 est.)<br>
 _male_: 14.7% (2020 est.)<br>
 _female_: 0.2% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 52.3% (2023 est.)<br>
 
@@ -354,7 +351,7 @@ _email address and website_: <br>consularasmara@state.gov<br><br>https://er.usem
 
 **Flag description**<br>
 red isosceles triangle (based on the hoist side) dividing the flag into two right triangles; the upper triangle is green, the lower one is blue; a gold wreath encircling a gold olive branch is centered on the hoist side of the red triangle; green stands for the country's agriculture economy, red signifies the blood shed in the fight for freedom, and blue symbolizes the bounty of the sea; the wreath-olive branch symbol is similar to that on the first flag of Eritrea from 1952; the shape of the red triangle broadly mimics the shape of the country<br>
-<strong>note:</strong> one of several flags where a prominent component of the design reflects the shape of the country; other such flags are those of Bosnia and Herzegovina, Brazil, and Vanuatu<br>
+<strong>note:</strong> one of four national flags that reflect the shape of the country in the flag design; the others are Bosnia and Herzegovina, Brazil, and Vanuatu<br>
 
 **National symbol(s)**<br>
 camel; national colors: green, red, blue<br>
@@ -538,7 +535,7 @@ government controls broadcast media, with private ownership prohibited; 1 state-
 .er<br>
 
 **Internet users**<br>
-_percent of population_: 27% (2022 est.)<br>
+_percent of population_: 20% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 6,000 (2022 est.)<br>

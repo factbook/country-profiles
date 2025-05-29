@@ -181,9 +181,6 @@ _unimproved: urban_: urban: 3.6% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 3.6% of population (2017)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 47.7% (2023 est.)<br>
 
@@ -534,7 +531,7 @@ _subscriptions per 100 inhabitants_: 292 (2022 est.)<br>
 .hk<br>
 
 **Internet users**<br>
-_percent of population_: 96% (2022 est.)<br>
+_percent of population_: 96% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2.97 million (2023 est.)<br>

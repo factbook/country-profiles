@@ -204,9 +204,6 @@ _total_: 7.9% (2020 est.)<br>
 _male_: 14.1% (2020 est.)<br>
 _female_: 1.7% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-5% (2014)<br>
-
 **Currently married women (ages 15-49)**<br>
 55% (2023 est.)<br>
 
@@ -599,7 +596,7 @@ multiple privately owned national terrestrial TV networks, supplemented by cable
 .sv<br>
 
 **Internet users**<br>
-_percent of population_: 63% (2022 est.)<br>
+_percent of population_: 68% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 671,000 (2022 est.)<br>

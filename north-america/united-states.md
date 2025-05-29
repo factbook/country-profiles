@@ -640,7 +640,7 @@ _subscriptions per 100 inhabitants_: 110 (2022 est.)<br>
 .us<br>
 
 **Internet users**<br>
-_percent of population_: 97% (2022 est.)<br>
+_percent of population_: 93% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 131 million (2023 est.)<br>

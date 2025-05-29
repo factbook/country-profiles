@@ -214,9 +214,6 @@ _total_: 15.1% (2020 est.)<br>
 _male_: 24.2% (2020 est.)<br>
 _female_: 6% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-13.2% (2013)<br>
-
 **Currently married women (ages 15-49)**<br>
 33.3% (2023 est.)<br>
 
@@ -334,8 +331,8 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Netumbo Nandi-NDAITWAH (since 21 March 2025)<br>
 _head of government_: President Netumbo Nandi-NDAITWAH (since 21 March 2025)<br>
 _cabinet_: Cabinet appointed by the president from among members of the National Assembly<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 27 November 2024 (next to be held in November 2029)&nbsp;<br>
-_election results_: <em>2024:</em> Netumbo Nandi-NDAITWAH elected president in the first round; percent of vote -Netumbo Nandi-NDAITWAH (SWAPO) 57%, Panduleni  ITULA (IPC) 26%, McHenry VENAANI (PDM) 5.10%, Bernadus SWARTBOOI (LPM) 4.72%, Job AMUPANDA (AR) 1.80%, Hendrik GAOBEAB (UDF) 1.16%; other 3.31%<br><br><em>2019:</em> Hage GEINGOB reelected president in the first round; percent of vote - Hage GEINGOB (SWAPO) 56.3%, Panduleni ITULA (independent) 29.4%, McHenry VENAANI (PDM) 5.3%, other .9% <p> </p><br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 27 November 2024 (next to be held in November 2029)<br>
+_election results_: <em><br>2024:</em> Netumbo Nandi-NDAITWAH elected president in the first round; percent of vote -Netumbo Nandi-NDAITWAH (SWAPO) 57%, Panduleni  ITULA (IPC) 26%, McHenry VENAANI (PDM) 5.10%, Bernadus SWARTBOOI (LPM) 4.72%, Job AMUPANDA (AR) 1.80%, Hendrik GAOBEAB (UDF) 1.16%; other 3.31%<br><br><em>2019:</em> Hage GEINGOB reelected president in the first round; percent of vote - Hage GEINGOB (SWAPO) 56.3%, Panduleni ITULA (independent) 29.4%, McHenry VENAANI (PDM) 5.3%, other .9%<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -621,7 +618,7 @@ _subscriptions per 100 inhabitants_: 113 (2022 est.)<br>
 .na<br>
 
 **Internet users**<br>
-_percent of population_: 62% (2022 est.)<br>
+_percent of population_: 64% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 104,000 (2023 est.)<br>

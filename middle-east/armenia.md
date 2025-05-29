@@ -325,7 +325,6 @@ _head of government_: Prime Minister Nikol PASHINYAN (since 10 September 2021)<b
 _cabinet_: Council of Ministers appointed by the prime minister<br>
 _elections/appointments_: president indirectly elected by the National Assembly in 3 rounds if needed for a single 7-year term; election last held on 2 and 3 March 2022 (next election to be held in 2029); prime minister indirectly elected by majority vote in two rounds if needed by the National Assembly<br>
 _election results_: <br><em>2022: </em>Vahagn KHACHATURYAN elected president in second round; note - Vahagn KHACHATURYAN (independent) ran unopposed and won the Assembly vote 71-0<br><em><br>2018:</em> Armen SARKISSIAN elected president in first round; note - Armen SARKISSIAN (indpendent) ran unopposed and won the Assembly vote 90-10<br>
-<strong>note:</strong> Nikol PASHINYAN was first elected prime minister on 8 May 2018 and reelected on January 2019; in response to a political crisis that followed Armenia's defeat in the Second Nagorno-Karabakh War in late 2020, PASHINYAN called an early legislative election for 21 June 2021; his party won the election and PASHINYAN was elected prime minister for a third time; his election was confirmed by the president on 2 August 2021, and he was sworn in on 10 September 2021<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Azgayin Zhoghov)<br>
@@ -368,7 +367,7 @@ _FAX_: [374] (10) 464-742<br>
 _email address and website_: acsyerevan@state.gov<br><br>https://am.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of red (top), blue, and orange; the color red recalls the blood shed for liberty, blue the Armenian skies as well as hope, and orange the land and the courage of the workers who farm it<br>
+three equal horizontal bands of red (top), blue, and orange; the color red stands for the blood shed for liberty, blue for the Armenian skies and hope, and orange for the land and the courage of the workers who farm it<br>
 
 **National symbol(s)**<br>
 Mount Ararat, eagle, lion; national colors: red, blue, orange<br>
@@ -610,7 +609,7 @@ government-run Public Television network operates alongside 100 privately owned 
 .am<br>
 
 **Internet users**<br>
-_percent of population_: 77% (2022 est.)<br>
+_percent of population_: 80% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 546,000 (2023 est.)<br>

@@ -318,7 +318,7 @@ _residency requirement for naturalization_: unknown<br>
 _chief of state_: Sultan and Prime Minister HAITHAM bin Tarik Al Said (since 11 January 2020)<br>
 _head of government_: Sultan and Prime Minister HAITHAM bin Tarik Al Said (since 11 January 2020)<br>
 _cabinet_: Cabinet appointed by the monarch<br>
-<strong>note</strong> - the monarch is both chief of state and head of government<br>
+<strong>note:</strong> the monarch is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _legislature name_: Majles<br>
@@ -592,7 +592,7 @@ _subscriptions per 100 inhabitants_: 135 (2021 est.)<br>
 .om<br>
 
 **Internet users**<br>
-_percent of population_: 95% (2023 est.)<br>
+_percent of population_: 95% (2024 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 562,000 (2023 est.)<br>

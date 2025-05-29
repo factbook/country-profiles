@@ -184,9 +184,6 @@ _wine_: 0.56 liters of pure alcohol (2019 est.)<br>
 _spirits_: 4.21 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.31 liters of pure alcohol (2019 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 41.3% (2023 est.)<br>
 
@@ -550,7 +547,7 @@ multiple publicly and privately owned TV and radio stations; state-owned Grenada
 .gd<br>
 
 **Internet users**<br>
-_percent of population_: 80% (2022 est.)<br>
+_percent of population_: 74% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 35,000 (2022 est.)<br>
